@@ -1,0 +1,4 @@
+{
+  "layout": "post",
+  "permalink": "{{ page.filePathStem | replace('posts/', '') }}.html"
+}

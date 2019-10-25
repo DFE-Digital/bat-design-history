@@ -1,3 +1,3 @@
 module.exports = {
-  productName: 'Eleventy'
+  serviceName: 'Becoming a teacher design history'
 }

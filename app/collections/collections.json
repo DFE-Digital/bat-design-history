@@ -1,0 +1,5 @@
+{
+  "layout": "collection",
+  "permalink": "{{ page.fileSlug }}/index.html",
+  "tags": "collection"
+}
