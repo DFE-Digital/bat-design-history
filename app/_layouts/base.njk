@@ -1,0 +1,34 @@
+{% extends "govuk/template.njk" %}
+
+{% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
+
+{% block head %}
+<!--[if lte IE 8]><link href="/stylesheets/application-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if gt IE 8]><!--><link href="/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" /><!--<![endif]-->
+<meta property="og:title" content="{{ title }}">
+{% if description %}<meta property="og:description" name="description" content="{{ description | markdown("inline") | striptags(true) }}">{% endif %}
+{% endblock %}
+
+{% block pageTitle %}
+  {% if title %}{{ title }} - {% endif %}{{ app.serviceName or app.productName }} - GOV.UK
+{% endblock %}
+
+{% block header %}
+  {{ govukHeader({
+    homepageUrl: app.url,
+    productName: app.productName,
+    serviceName: app.serviceName,
+    serviceUrl: app.serviceUrl,
+    containerClasses: "govuk-width-container"
+  }) }}
+{% endblock %}
+
+{% set mainClasses = mainClasses | default("govuk-main-wrapper--auto-spacing") %}
+
+{% block bodyEnd %}
+  {% block scripts %}
+    <script src="/javascripts/govuk-frontend.js"></script>
+    <script src="/javascripts/application.js"></script>
+    {% block pageScripts %}{% endblock %}
+  {% endblock %}
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "base.njk" %}
+
+{% from "article/macro.njk" import appArticle %}
+{% from "prose/macro.njk" import appProse %}
+
+{% block beforeContent %}
+  {{ govukBreadcrumbs({
+    items: [{
+      text: app.serviceName or app.productName,
+      href: "/"
+    }, {
+      text: tags[0] | case,
+      href: "/" + tags[0]
+    }, {
+      text: title,
+      href: page.url
+    }]
+  }) if breadcrumbs != false }}
+{% endblock %}
+
+{% block content %}
+  {% call appArticle({
+    header: {
+      title: title,
+      description: description
+    }
+  }) %}
+  {{ appProse({
+    prose: content
+  }) }}
+  {% endcall %}
+{% endblock %}
