@@ -1,4 +1,5 @@
 ---
+layout: collection
 title: Manage teacher training applications
 description: Ensuring providers have the information they need to make the right decision.
 related:
@@ -9,4 +10,6 @@ related:
       Password: `briantownley`
     href: https://manage-applications-beta.herokuapp.com/
 collection: manage-applications
+tags: product
+order: 4
 ---

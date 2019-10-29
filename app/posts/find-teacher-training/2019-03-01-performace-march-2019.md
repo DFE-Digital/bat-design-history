@@ -1,7 +1,7 @@
 ---
-title: March 2019
+title: 'Performance report: March 2019'
 description: We’re 6 months into this year’s recruitment cycle and, for the first time, the Department has data on how candidates are searching for courses.
-tags: find-performance
+tags: find-teacher-training
 ---
 We’re 6 months into this year’s recruitment cycle and, for the first time, the Department has data on how candidates are searching for courses.
 
@@ -28,7 +28,7 @@ You can [see the live report in our dashboard](https://datastudio.google.com/ope
 
 ## Service overview
 
-[![](/images/find-performance/march-2019/service-overview.png)](/images/find-performance/march-2019/service-overview.png)
+[![](/images/find-teacher-training/performance-march-2019/service-overview.png)](/images/find-teacher-training/performance-march-2019/service-overview.png)
 
 ### Peformance data on Find
 
@@ -40,7 +40,7 @@ The average user who finds a course page will visit at least 4 pages on the serv
 
 ## Success measures
 
-[![](/images/find-performance/march-2019/success-measures.png)](/images/find-performance/march-2019/success-measures.png)
+[![](/images/find-teacher-training/performance-march-2019/success-measures.png)](/images/find-teacher-training/performance-march-2019/success-measures.png)
 
 ### Successful journeys – building out a benchmark
 

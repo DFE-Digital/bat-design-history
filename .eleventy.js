@@ -31,6 +31,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('markdown', require('./lib/filters/markdown'));
   eleventyConfig.addFilter('pretty', require('./lib/filters/pretty'));
   eleventyConfig.addFilter('slug', require('./lib/filters/slug'));
+  eleventyConfig.addFilter('sort', require('./lib/filters/sort'));
 
   // Plugins
   eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
