@@ -6,7 +6,7 @@
   <li class="app-gallery__item" id="{{ id }}">
     <figure class="app-gallery__figure">
       <a href="{{ params.path }}/{{ file }}">
-        <img src="{{ params.path }}/{{ file }}" alt="{{ alt }}">
+        <img src="{{ params.path | replace('images', 'image/480') }}/{{ file }}" srcset="{{ params.path | replace('images', 'image/480') }}/{{ file }} 480w, {{ params.path | replace('images', 'image/960') }}/{{ file }} 960w" alt="{{ alt }}">
       </a>
       <figcaption>
         <p class="app-gallery__item-title">{{ item.text }}</h3>

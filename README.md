@@ -6,6 +6,7 @@ Build websites using the [GOV.UK Design System](https://design-system.service.go
 
 ## To do
 
-- [ ] Consider automating breadcrumbs
-- [ ] Consider adding collection indexes
+- [x] Consider automating breadcrumbs
+- [x] Consider adding collection indexes
+- [x] Consider adding image resizing
 - [ ] Documentation

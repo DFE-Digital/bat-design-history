@@ -15,10 +15,10 @@
 
 {% block header %}
   {{ govukHeader({
-    homepageUrl: app.url,
+    homepageUrl: app.url or "https://gov.uk",
     productName: app.productName,
     serviceName: app.serviceName,
-    serviceUrl: app.serviceUrl,
+    serviceUrl: app.serviceUrl or "/",
     containerClasses: "govuk-width-container"
   }) }}
 {% endblock %}

@@ -29,6 +29,6 @@
 }
 
 .app-gallery__item-description {
-  @include govuk-font($size: 14);
+  @include govuk-font($size: 16);
   color: $govuk-secondary-text-colour;
 }

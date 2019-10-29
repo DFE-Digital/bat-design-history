@@ -29,12 +29,16 @@
     "watch:styles": "node-sass app/_stylesheets -o public/stylesheets --include-path node_modules/govuk-frontend --watch",
     "watch": "npm-run-all --parallel watch:*",
     "lint": "standard",
+    "prestart": "npm run build",
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.9.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
     "change-case": "^3.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "govuk-frontend": "^3.3.0",
     "http-server": "^0.11.1",
     "luxon": "^1.19.3",
@@ -47,7 +51,9 @@
     "markdown-it-sup": "^1.0.0",
     "markdown-it-table-of-contents": "^0.4.4",
     "node-sass": "^4.12.0",
-    "npm-run-all": "^4.1.5"
+    "nodemon": "^1.19.4",
+    "npm-run-all": "^4.1.5",
+    "sharp": "^0.23.2"
   },
   "devDependencies": {
     "standard": "^14.3.1"
