@@ -2,6 +2,14 @@ let Nunjucks = require('nunjucks');
 let markdown = require('./lib/markdown');
 
 module.exports = function (eleventyConfig) {
+  // Browser Sync
+  eleventyConfig.setBrowserSyncConfig({
+    serveStatic: ['public'],
+    serveStaticOptions: {
+      extensions: ['html']
+    }
+  });
+
   // Templates: Nunjucks and Markdown
   let nunjucksEnv = new Nunjucks.Environment(
     new Nunjucks.FileSystemLoader([
@@ -20,6 +28,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('case', require('./lib/filters/change-case'));
   eleventyConfig.addFilter('date', require('./lib/filters/date'));
   eleventyConfig.addFilter('markdown', require('./lib/filters/markdown'));
+  eleventyConfig.addFilter('pretty', require('./lib/filters/pretty'));
   eleventyConfig.addFilter('slug', require('./lib/filters/slug'));
 
   // Plugins
