@@ -4,6 +4,10 @@ let markdown = require('./lib/markdown');
 module.exports = function (eleventyConfig) {
   // Browser Sync
   eleventyConfig.setBrowserSyncConfig({
+    rewriteRules: [{
+      match: /\/image\/(\d+)(x)?(\d+)?/g,
+      replace: '/images'
+    }],
     serveStatic: ['public'],
     serveStaticOptions: {
       extensions: ['html']
