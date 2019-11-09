@@ -1,0 +1,46 @@
+.app-email {
+  @include govuk-font($size: false);
+  border: $govuk-border-width solid $govuk-border-colour;
+  padding: govuk-spacing(4);
+  margin-bottom: govuk-spacing(8);
+
+  h1:not([class]) {
+    @extend %govuk-heading-xl;
+    max-width: 15em;
+  }
+
+  h2:not([class]) {
+    @extend %govuk-heading-l;
+    max-width: 20em;
+  }
+
+  h3:not([class]) {
+    @extend %govuk-heading-m;
+    max-width: 30em;
+  }
+
+  p:not([class])
+
+  ol:not([class]) {
+    @extend %govuk-list;
+    @extend %govuk-list--number;
+    max-width: 38em;
+  }
+
+  ul:not([class]) {
+    @extend %govuk-list;
+    @extend %govuk-list--bullet;
+    max-width: 38em;
+  }
+
+  a {
+    @extend %govuk-link;
+  }
+}
+
+.app-email__subject {
+  padding-bottom: govuk-spacing(4);
+  margin-top: 0;
+  margin-bottom: govuk-spacing(4);
+  border-bottom: 1px solid $govuk-border-colour;
+}

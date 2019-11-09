@@ -1,0 +1,16 @@
+.app-figure {
+  margin: 0;
+
+  figcaption {
+    margin-top: govuk-spacing(2);
+
+    > *:not([class]) {
+      @include govuk-font($size: 16);
+      color: $govuk-secondary-text-colour;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+}

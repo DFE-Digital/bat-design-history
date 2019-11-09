@@ -1,7 +1,7 @@
 .app-prose {
   @include govuk-font($size: false);
 
-  h1:not(class) {
+  h1:not([class]) {
     @extend %govuk-heading-xl;
     max-width: 15em;
   }
@@ -55,18 +55,16 @@
     margin-left: 0;
   }
 
-  ul:not([class]),
   ol:not([class]) {
     @extend %govuk-list;
+    @extend %govuk-list--number;
     max-width: 38em;
   }
 
-  ol:not([class]) {
-    @extend %govuk-list--number;
-  }
-
   ul:not([class]) {
+    @extend %govuk-list;
     @extend %govuk-list--bullet;
+    max-width: 38em;
   }
 
   a {
@@ -83,7 +81,7 @@
     @extend %govuk-section-break--xl;
   }
 
-  table:not([class]) {
+  table {
     @include govuk-font($size: 19);
     @include govuk-text-colour;
     margin-bottom: govuk-spacing(4);
@@ -117,7 +115,13 @@
   }
 
   img {
+    display: block;
+    width: 100%;
     max-width: 100%;
+    height: 100%;
+    margin: 0 0 govuk-spacing(4);
+    outline: 1px solid rgba($govuk-border-colour, 0.5);
+    outline-offset: -1px;
   }
 
   .footnote-backref {

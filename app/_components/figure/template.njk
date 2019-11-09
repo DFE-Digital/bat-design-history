@@ -1,0 +1,15 @@
+{%- from "../image/macro.njk" import appImage -%}
+<figure class="app-figure">
+{% if params.image %}
+  {{ appImage({
+    path: params.image.path,
+    file: params.image.file,
+    alt: params.image.alt
+  }) }}
+{% endif %}
+{% if params.caption %}
+  <figcaption>
+    {{ params.caption | markdown | safe }}
+  </figcaption>
+{% endif %}
+</figure>
