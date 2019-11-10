@@ -1,44 +1,44 @@
 .app-prose {
   @include govuk-font($size: false);
 
-  h1:not([class]) {
+  > h1 {
     @extend %govuk-heading-xl;
-    max-width: 15em;
+    max-width: 40rem;
   }
 
-  h2:not([class]) {
+  > h2 {
     @extend %govuk-heading-l;
-    max-width: 20em;
+    max-width: 40rem;
   }
 
-  h3:not([class]) {
+  > h3 {
     @extend %govuk-heading-m;
-    max-width: 30em;
+    max-width: 40rem;
   }
 
-  h4:not([class]) {
+  > h4 {
     @extend %govuk-heading-s;
-    max-width: 38em;
+    max-width: 40rem;
   }
 
-  h5:not([class]) {
+  > h5 {
     @include govuk-font($size: 19);
     @include govuk-responsive-margin(4, "bottom");
     margin-top: 0;
     color: $govuk-secondary-text-colour;
   }
 
-  h6:not([class]) {
+  > h6 {
     @include govuk-font($size: 16);
     @include govuk-responsive-margin(4, "bottom");
     margin-top: 0;
     color: $govuk-secondary-text-colour;
   }
 
-  p:not([class]),
-  dl:not([class]) {
+  > p,
+  > dl {
     @extend %govuk-body-m;
-    max-width: 38em;
+    max-width: 40rem;
   }
 
   strong,
@@ -55,19 +55,19 @@
     margin-left: 0;
   }
 
-  ol:not([class]) {
+  > ol {
     @extend %govuk-list;
     @extend %govuk-list--number;
-    max-width: 38em;
+    max-width: 40rem;
   }
 
-  ul:not([class]) {
+  > ul:not([class]) {
     @extend %govuk-list;
     @extend %govuk-list--bullet;
-    max-width: 38em;
+    max-width: 40rem;
   }
 
-  a {
+  a:not([class]) {
     @extend %govuk-link;
   }
 
@@ -82,15 +82,28 @@
   }
 
   table {
-    @include govuk-font($size: 19);
-    @include govuk-text-colour;
-    margin-bottom: govuk-spacing(4);
-  }
+    @extend .govuk-table;
+    @include govuk-responsive-margin(6, "bottom");
 
-  th,
-  td {
-    text-align: left;
-    padding-right: govuk-spacing(4);
+    tr {
+      @extend .govuk-table__row !optional;
+    }
+
+    tbody {
+      @extend .govuk-table__body !optional;
+    }
+
+    thead {
+      @extend .govuk-table__head !optional;
+    }
+
+    th {
+      @extend .govuk-table__header;
+    }
+
+    td {
+      @extend .govuk-table__cell;
+    }
   }
 
   pre,
@@ -115,11 +128,11 @@
   }
 
   img {
+    @include govuk-responsive-margin(4, "bottom");
     display: block;
     width: 100%;
     max-width: 100%;
     height: 100%;
-    margin: 0 0 govuk-spacing(4);
     outline: 1px solid rgba($govuk-border-colour, 0.5);
     outline-offset: -1px;
   }

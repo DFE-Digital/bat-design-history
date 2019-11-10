@@ -32,10 +32,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('breadcrumbs', require('./lib/filters/breadcrumbs'));
   eleventyConfig.addFilter('case', require('./lib/filters/change-case'));
   eleventyConfig.addFilter('date', require('./lib/filters/date'));
+  eleventyConfig.addFilter('fixed', require('./lib/filters/fixed'));
   eleventyConfig.addFilter('markdown', require('./lib/filters/markdown'));
   eleventyConfig.addFilter('pretty', require('./lib/filters/pretty'));
   eleventyConfig.addFilter('slug', require('./lib/filters/slug'));
   eleventyConfig.addFilter('sort', require('./lib/filters/sort'));
+  eleventyConfig.addFilter('totalFromRows', require('./lib/filters/total-from-rows'));
 
   // Plugins
   eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
@@ -45,6 +47,7 @@ module.exports = function (eleventyConfig) {
   // Collections
 
   // Passthrough
+  eleventyConfig.addPassthroughCopy('./app/documents');
   eleventyConfig.addPassthroughCopy('./app/images');
 
   // Enable data deep merge

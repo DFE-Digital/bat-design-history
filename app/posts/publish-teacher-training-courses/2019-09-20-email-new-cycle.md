@@ -9,7 +9,6 @@ In the lead up to the opening of the new recruitment cycle on 1 October 2019, we
 
 Sent on Wednesday 18 September to providers without any enriched content.
 
-{% from "email/macro.njk" import appEmail %}
 {% set updateCoursesContent %}
 Dear colleague,
 
@@ -27,11 +26,13 @@ If any of this is missing, you won’t be able to publish the course, and it won
 
 If you haven’t added content to the mandatory fields in Publish, we strongly advise you to do this as soon as possible. Any courses without this information - even if they appeared on Find for the 2019/20 cycle - can’t be published for the upcoming cycle, and candidates won’t be able to apply to them via Gov.uk. You must add your content and publish the course before 1 October to ensure it appears on Find when the new cycle opens.
 
-If you have any questions, or need any help in adding your content, please contact us at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk). If anyone else in your organisation needs to be aware of this email, please forward it to them.
+If you have any questions, or need any help in adding your content, please contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 Becoming a Teacher team
 {% endset %}
+
+{% from "email/macro.njk" import appEmail %}
 {{ appEmail({
   subject: "Update your courses on GOV.UK before October 2019",
   content: updateCoursesContent
@@ -56,7 +57,7 @@ You should make these changes before your 2020/21 courses appear on Find on 1 Oc
 
 You can ignore this email if you’ve already removed references to skills tests from your courses.
 
-If you have any questions, please contact [becomingateacher@digital.education.gov.uk](becomingateacher@digital.education.gov.uk). If anyone else in your organisation needs to be aware of this email, please forward it to them.
+If you have any questions, please contact <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 Becoming a Teacher team
