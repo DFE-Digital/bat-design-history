@@ -4,33 +4,30 @@
   padding: govuk-spacing(4);
   margin-bottom: govuk-spacing(8);
 
-  h1:not([class]) {
+  h1 {
     @extend %govuk-heading-xl;
-    max-width: 15em;
   }
 
-  h2:not([class]) {
+  h2 {
     @extend %govuk-heading-l;
-    max-width: 20em;
   }
 
-  h3:not([class]) {
+  h3 {
     @extend %govuk-heading-m;
-    max-width: 30em;
   }
 
-  p:not([class])
+  p {
+    @extend %govuk-body-m;
+  }
 
-  ol:not([class]) {
+  ol {
     @extend %govuk-list;
     @extend %govuk-list--number;
-    max-width: 38em;
   }
 
-  ul:not([class]) {
+  ul {
     @extend %govuk-list;
     @extend %govuk-list--bullet;
-    max-width: 38em;
   }
 
   a {
