@@ -6,8 +6,8 @@ related:
   items:
   - text: Prototype
     description: |
-      Username: `bat-apply`
-      Password: `briantownley`
+      Username: `apply`
+      Password: `bat`
     href: https://manage-teacher-training-applications-beta.herokuapp.com/
 collection: manage-teacher-training-applications
 tags: product

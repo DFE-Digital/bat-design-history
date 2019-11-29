@@ -6,8 +6,8 @@ related:
   items:
   - text: Prototype
     description: |
-      Username: `bat-apply`
-      Password: `briantownley`
+      Username: `apply`
+      Password: `bat`
     href: https://apply-beta-prototype.herokuapp.com/
 collection: apply-for-teacher-training
 tags: product
