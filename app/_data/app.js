@@ -1,3 +1,4 @@
 module.exports = {
-  serviceName: 'Becoming a teacher design history'
+  productName: 'Design History',
+  url: '/'
 }

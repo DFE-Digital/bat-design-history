@@ -21,11 +21,12 @@
     "build:govuk-assets": "cp -R node_modules/govuk-frontend/govuk/assets public/assets",
     "build:govuk-scripts": "cp node_modules/govuk-frontend/govuk/all.js public/javascripts/govuk-frontend.js",
     "build:styles": "node-sass app/_stylesheets -o public/stylesheets --include-path node_modules/govuk-frontend --include-path app",
-    "build:javascripts": "cp app/_javascripts/application.js public/javascripts/application.js",
+    "build:javascripts": "rollup --config etc/rollup.config.js",
     "build:pages": "eleventy",
     "build": "npm-run-all --serial build:*",
     "prewatch": "npm run build",
     "watch:files": "eleventy --serve",
+    "watch:javascripts": "rollup --config etc/rollup.config.js --watch",
     "watch:styles": "node-sass app/_stylesheets -o public/stylesheets --include-path node_modules/govuk-frontend --watch",
     "watch": "npm-run-all --parallel watch:*",
     "lint": "standard",
@@ -36,6 +37,7 @@
   "dependencies": {
     "@11ty/eleventy": "^0.9.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
+    "accessible-autocomplete": "^2.0.1",
     "change-case": "^3.1.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
@@ -53,6 +55,9 @@
     "node-sass": "^4.12.0",
     "nodemon": "^2.0.1",
     "npm-run-all": "^4.1.5",
+    "rollup": "^1.27.5",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
     "sharp": "^0.23.3"
   },
   "devDependencies": {

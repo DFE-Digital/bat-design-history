@@ -1,5 +1,6 @@
 {% extends "govuk/template.njk" %}
 
+{% from "header/macro.njk" import appHeader %}
 {% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
 
 {% block head %}
@@ -14,12 +15,10 @@
 {% endblock %}
 
 {% block header %}
-  {{ govukHeader({
+  {{ appHeader({
     homepageUrl: app.url or "https://gov.uk",
     productName: app.productName,
-    serviceName: app.serviceName,
-    serviceUrl: app.serviceUrl or "/",
-    containerClasses: "govuk-width-container"
+    serviceName: app.serviceName
   }) }}
 {% endblock %}
 
