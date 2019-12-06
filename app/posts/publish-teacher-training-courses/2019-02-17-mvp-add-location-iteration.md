@@ -1,5 +1,5 @@
 ---
-title: Add a location – Iteration 13 February
+title: Add a location – 13 February iteration
 description: Clarify the purpose of locations.
 tags: publish-teacher-training-courses
 ---

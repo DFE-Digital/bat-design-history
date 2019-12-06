@@ -37,8 +37,8 @@ Further education screens are probably out of scope for MVP.
 | [Locations](#locations) | Schools are added and removed in cycle. For courses which are both full or part time, each location must indicate which type of vacancies it offers (full, part, both). | High | Medium | Yes |
 | [Accredited body](#accredited-body) | Only affects school direct providers | Low | Low | No |
 | [Applications open](#applications-open) | Most relevant when creating a course. Shows different values depending on current cycle vs next cycle | Low | Medium | No |
-| [UCAS GCSEs&nbsp;pending](#ucas-gcses-pending) | Change in cycle in response to application numbers | Medium | [High](/publish-teacher-training/minimum-course-requirements-logic) | Yes |
-| [UCAS Equivalency&nbsp;tests](#ucas-equivalency-tests) | Change in cycle in response to application numbers | Medium | [High](/publish-teacher-training/minimum-course-requirements-logic) | Yes |
+| [UCAS GCSEs&nbsp;pending](#ucas-gcses-pending) | Change in cycle in response to application numbers | Medium | [High](/publish-teacher-training-courses/minimum-course-requirements-logic) | Yes |
+| [UCAS Equivalency&nbsp;tests](#ucas-equivalency-tests) | Change in cycle in response to application numbers | Medium | [High](/publish-teacher-training-courses/minimum-course-requirements-logic) | Yes |
 | [Start date](#course-start-date) | Rarely edited | Low | Low | No |
 | [Title](#title) | Changes to titles need to be approved | Medium | High | No |
 | [Confirm changes](#confirm-your-change) | All edits must be summarised before confirming | High | High | -- |

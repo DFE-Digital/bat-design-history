@@ -36,9 +36,15 @@
   }
 
   > p,
-  > dl {
+  > dl,
+  > blockquote p {
     @extend %govuk-body-m;
     max-width: 40rem;
+  }
+
+  abbr {
+    text-decoration: underline;
+    text-decoration-style: dotted;
   }
 
   strong,
@@ -83,7 +89,8 @@
 
   table {
     @extend .govuk-table;
-    @include govuk-responsive-margin(6, "bottom");
+    @include govuk-responsive-margin(8, "bottom");
+    @include govuk-responsive-margin(8, "top");
 
     tr {
       @extend .govuk-table__row !optional;
@@ -99,10 +106,25 @@
 
     th {
       @extend .govuk-table__header;
+      padding: govuk-spacing(2);
     }
 
     td {
       @extend .govuk-table__cell;
+      padding: govuk-spacing(2);
+    }
+
+    td *:first-child {
+      margin-top: 0;
+    }
+
+    td *:last-child {
+      margin-bottom: 0;
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
     }
   }
 

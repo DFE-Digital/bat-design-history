@@ -3,7 +3,7 @@ title: What we shipped for UCAS transition
 description: Locations, location editing and vacancies.
 tags: publish-teacher-training-courses
 ---
-Based on our [transition MVP designs](/publish-teacher-training/first-transition-mvp), when we transitioned all providers away from UCAS we’d shipped the following features:
+Based on our [transition MVP designs](/publish-teacher-training-courses/first-transition-mvp), when we transitioned all providers away from UCAS we’d shipped the following features:
 
 * a locations page
 * a location page with location editing
@@ -19,7 +19,7 @@ We didn’t ship pages for:
 * deleting a course
 * withdrawing a course
 * editing any basic course details
-* [anything we’d already descoped](/publish-teacher-training/first-transition-mvp)
+* [anything we’d already descoped](/publish-teacher-training-courses/first-transition-mvp)
 
 ## Fallout
 

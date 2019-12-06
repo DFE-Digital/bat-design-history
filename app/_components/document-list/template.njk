@@ -8,7 +8,7 @@
       {% if item.data.description %}
       <p class="app-document-list__item-description">{{ item.data.description | markdown("inline") | safe }}</p>
       {% endif %}
-      {% if (item.data.date or item.date) and item.data.layout == "post" %}
+      {% if (item.data.date or item.date) %}
       <ul class="app-document-list__item-metadata">
         <li class="app-document-list__attribute">
           <time datetime="{{ item.data.date or item.date | date }}">{{ (item.data.date or item.date) | date("DDD") }}</time>

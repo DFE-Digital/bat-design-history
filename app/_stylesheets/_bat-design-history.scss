@@ -1,0 +1,17 @@
+.app-tag-no-content {
+  background: govuk-colour("white");
+  color: govuk-colour("dark-grey");
+  outline: 2px solid govuk-colour("dark-grey");
+}
+
+.app-tag-not-running {
+  background: govuk-colour("mid-grey");
+}
+
+.app-tag-draft {
+  background: govuk-colour("orange");
+}
+
+.app-tag-published {
+  background: govuk-colour("green");
+}
