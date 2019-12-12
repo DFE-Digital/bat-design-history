@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Support for Apply
-description: Helping support agents manage the Apply for teacher training service.
+description: A tool for support agents to manage the Apply for teacher training service
 related:
   items:
   - text: Prototype

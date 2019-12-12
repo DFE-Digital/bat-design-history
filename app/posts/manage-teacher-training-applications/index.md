@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Manage teacher training applications
-description: Ensuring providers have the information they need to make the right decision.
+description: A service for training providers to see, manage and make decisions on applications they receive
 related:
   items:
   - text: Prototype

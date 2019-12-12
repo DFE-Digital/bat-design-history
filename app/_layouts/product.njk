@@ -7,7 +7,7 @@
   {% call appMasthead({
     title: {
       classes: "govuk-heading-xl",
-      html: title
+      html: titleHtml or title
     } if title,
     description: {
       html: description | markdown

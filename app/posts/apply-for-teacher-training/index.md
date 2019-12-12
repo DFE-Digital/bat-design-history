@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Apply for teacher training
-description: Helping candidates demonstrate their eligibility and potential for teaching.
+description: A service for candidates to submit an application to their chosen teacher training courses
 related:
   items:
   - text: Prototype
