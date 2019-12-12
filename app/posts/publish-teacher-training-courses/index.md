@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Publish teacher training courses
-description: Ensuring providers can inform potential candidates of the courses they offer.
+description: A service for training providers to publish and manage their courses
 related:
   items:
   - text: Prototype

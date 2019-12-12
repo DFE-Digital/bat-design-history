@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Find postgraduate teacher training
-description: Helping candidates find training courses that match their interests, abilities and circumstances.
+description: A service for candidates to find courses by location, provider or subject
 related:
   items:
   - text: Prototype
