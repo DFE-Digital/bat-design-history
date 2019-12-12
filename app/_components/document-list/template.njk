@@ -11,7 +11,7 @@
       {% if (item.data.date or item.date) %}
       <ul class="app-document-list__item-metadata">
         <li class="app-document-list__attribute">
-          <time datetime="{{ item.data.date or item.date | date }}">{{ (item.data.date or item.date) | date("DDD") }}</time>
+          <time datetime="{{ item.data.date or item.date | date }}">{{ (item.data.date or item.date) | date("d LLLL y") }}</time>
         </li>
       </ul>
       {% endif %}
