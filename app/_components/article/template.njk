@@ -11,7 +11,9 @@
   {% if params.footer %}
   <footer class="app-article__footer">
     {% if params.footer.date %}
-    <p class="govuk-body-s"><time datetime="{{ params.footer.date | date }}">{{ params.footer.date | date("DDD") }}</time></p>
+    <p class="govuk-body">
+      <time datetime="{{ params.footer.date | date }}">{{ params.footer.date | date("d LLLL y") }}</time>
+    </p>
     {% endif %}
   </footer>
   {% endif %}
