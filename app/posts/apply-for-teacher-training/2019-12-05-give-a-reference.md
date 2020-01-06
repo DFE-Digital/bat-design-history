@@ -22,13 +22,26 @@ It’ll probably use a token and behave similarly to the magic link we send for 
 {% from "gallery/macro.njk" import appGallery %}
 {{ appGallery({
   path: page.filePathStem | replace("/posts", "/images"),
-  items: [
-    {text: "Start page"},
-    {text: "Decline to give a reference"},
-    {text: "Confirm details"},
-    {text: "Comments"},
-    {text: "Confirmation"},
-    {text: "Finish (with user research opt-in)"},
-    {text: "Finish"}
-  ]
+  items: [{
+    text: "Start page",
+    caption: "We ask referees if they are happy to give a reference. If they select no, a free text area allows them to provide a reason."
+  }, {
+    text: "Decline to give a reference",
+    caption: "Should the referee have selected this option in error, we provide contact details to rectify. If this happens a lot, we can think about adding a self-serve way to recover."
+  }, {
+    text: "Confirm details",
+    caption: "Give the referee the opportunity to correct any details. If they select no, a free text area is shown where they can tell us what needs correcting."
+  }, {
+  text: "Comments",
+  caption: "The actual reference content. We provide guidance here about the sort of content that would be helpful here."
+  }, {
+    text: "Confirmation",
+    caption: "Confirm that their reference has been submitted. At this point, we then ask if they would like to opt-in to user research."
+  }, {
+    text: "Finish (with user research opt-in)",
+    caption: "If they opt in, we include a message to say researchers will be in touch (this may need revising based on how we choose to engage with referees)"
+  }, {
+    text: "Finish",
+    caption: "If they decide not to opt-in, we don’t include that message."
+  }]
 }) }}
