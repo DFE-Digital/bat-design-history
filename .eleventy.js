@@ -52,6 +52,8 @@ module.exports = function (eleventyConfig) {
   // Collections
 
   // Passthrough
+  eleventyConfig.addPassthroughCopy('./app/admin/config.yml');
+  eleventyConfig.addPassthroughCopy('./app/admin/logo.svg');
   eleventyConfig.addPassthroughCopy('./app/documents');
   eleventyConfig.addPassthroughCopy('./app/images');
 

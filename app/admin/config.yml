@@ -1,0 +1,279 @@
+backend:
+  name: github
+  repo: DFE-digital/bat-design-history-v2
+  branch: netlify-cms
+publish_mode: editorial_workflow
+site_url: https://bat-design-history-v2.herokuapp.com
+display_url: View site
+logo_url: /admin/logo.svg
+public_folder: /images/uploads
+media_folder: app/images/uploads
+show_preview_links: false
+slug:
+  encoding: ascii
+  clean_accents: true
+collections:
+- name: find-teacher-training
+  label: Find teacher training
+  label_singular: Find entry
+  folder: app/posts/find-teacher-training
+  create: true
+  extension: md
+  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  fields:
+  - name: title
+    label: Title
+  - name: description
+    label: Description
+  - name: tags
+    label: Status
+    required: false
+    widget: select
+    options:
+    - { label: "Watch", value: "watch" }
+    - { label: "Needs met", value: "needs-met" }
+    - { label: "Needs not met", value: "needs-not-met" }
+    - { label: "Awaiting validation", value: "awaiting-validation" }
+  - name: date
+    label: Published
+    widget: date
+    format: "D MMMM YYYY"
+  - name: modified
+    label: Last updated
+    required: false
+    widget: date
+    format: "D MMMM YYYY"
+    default: ""
+  - name: body
+    label: Body
+    widget: markdown
+  - name: related
+    label: Related links
+    widget: object
+    fields:
+    - name: title
+      label: Title
+      required: false
+    - name: items
+      label: Items
+      widget: list
+      fields:
+      - name: text
+        label: Text
+      - name: href
+        label: Link
+      - name: description
+        label: Description
+        required: false
+
+- name: publish-teacher-training-courses
+  label: Publish teacher training courses
+  label_singular: Publish entry
+  folder: app/posts/publish-teacher-training-courses
+  create: true
+  extension: md
+  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  fields:
+  - name: title
+    label: Title
+  - name: description
+    label: Description
+  - name: tags
+    label: Status
+    required: false
+    widget: select
+    options:
+    - { label: "Watch", value: "watch" }
+    - { label: "Needs met", value: "needs-met" }
+    - { label: "Needs not met", value: "needs-not-met" }
+    - { label: "Awaiting validation", value: "awaiting-validation" }
+  - name: date
+    label: Published
+    widget: date
+    format: "D MMMM YYYY"
+  - name: modified
+    label: Last updated
+    required: false
+    widget: date
+    format: "D MMMM YYYY"
+    default: ""
+  - name: body
+    label: Body
+    widget: markdown
+  - name: related
+    label: Related links
+    widget: object
+    fields:
+    - name: title
+      label: Title
+      required: false
+    - name: items
+      label: Items
+      widget: list
+      fields:
+      - name: text
+        label: Text
+      - name: href
+        label: Link
+      - name: description
+        label: Description
+        required: false
+
+- name: apply-for-teacher-training
+  label: Apply for teacher training
+  label_singular: Apply entry
+  folder: app/posts/apply-for-teacher-training
+  create: true
+  extension: md
+  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  fields:
+  - name: title
+    label: Title
+  - name: description
+    label: Description
+  - name: tags
+    label: Status
+    required: false
+    widget: select
+    options:
+    - { label: "Watch", value: "watch" }
+    - { label: "Needs met", value: "needs-met" }
+    - { label: "Needs not met", value: "needs-not-met" }
+    - { label: "Awaiting validation", value: "awaiting-validation" }
+  - name: date
+    label: Published
+    widget: date
+    format: "D MMMM YYYY"
+  - name: modified
+    label: Last updated
+    required: false
+    widget: date
+    format: "D MMMM YYYY"
+    default: ""
+  - name: body
+    label: Body
+    widget: markdown
+  - name: related
+    label: Related links
+    widget: object
+    fields:
+    - name: title
+      label: Title
+      required: false
+    - name: items
+      label: Items
+      widget: list
+      fields:
+      - name: text
+        label: Text
+      - name: href
+        label: Link
+      - name: description
+        label: Description
+        required: false
+
+- name: manage-teacher-training-applications
+  label: Manage teacher training applications
+  label_singular: Manage entry
+  folder: app/posts/manage-teacher-training-applications
+  create: true
+  extension: md
+  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  fields:
+  - name: title
+    label: Title
+  - name: description
+    label: Description
+  - name: tags
+    label: Status
+    required: false
+    widget: select
+    options:
+    - { label: "Watch", value: "watch" }
+    - { label: "Needs met", value: "needs-met" }
+    - { label: "Needs not met", value: "needs-not-met" }
+    - { label: "Awaiting validation", value: "awaiting-validation" }
+  - name: date
+    label: Published
+    widget: date
+    format: "D MMMM YYYY"
+  - name: modified
+    label: Last updated
+    required: false
+    widget: date
+    format: "D MMMM YYYY"
+    default: ""
+  - name: body
+    label: Body
+    widget: markdown
+  - name: related
+    label: Related links
+    widget: object
+    fields:
+    - name: title
+      label: Title
+      required: false
+    - name: items
+      label: Items
+      widget: list
+      fields:
+      - name: text
+        label: Text
+      - name: href
+        label: Link
+      - name: description
+        label: Description
+        required: false
+
+- name: support-for-apply
+  label: Support for Apply
+  label_singular: Support for Apply entry
+  folder: app/posts/support-for-apply
+  create: true
+  extension: md
+  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  fields:
+  - name: title
+    label: Title
+  - name: description
+    label: Description
+  - name: tags
+    label: Status
+    required: false
+    widget: select
+    options:
+    - { label: "Watch", value: "watch" }
+    - { label: "Needs met", value: "needs-met" }
+    - { label: "Needs not met", value: "needs-not-met" }
+    - { label: "Awaiting validation", value: "awaiting-validation" }
+  - name: date
+    label: Published
+    widget: date
+    format: "D MMMM YYYY"
+  - name: modified
+    label: Last updated
+    required: false
+    widget: date
+    format: "D MMMM YYYY"
+    default: ""
+  - name: body
+    label: Body
+    widget: markdown
+  - name: related
+    label: Related links
+    widget: object
+    fields:
+    - name: title
+      label: Title
+      required: false
+    - name: items
+      label: Items
+      widget: list
+      fields:
+      - name: text
+        label: Text
+      - name: href
+        label: Link
+      - name: description
+        label: Description
+        required: false
