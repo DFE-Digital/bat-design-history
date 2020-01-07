@@ -1,8 +1,7 @@
 ---
+layout: page
 title: Publishing during rollover
 description: What does Publish do, what changes?
-tags: publish-teacher-training-courses
-layout: page
 ---
 During rollover there are two cycles: the current cycle, and another that’s being prepared for the next cycle. Courses in the next cycle can’t go live until the cycle begins, which is usually in October.
 

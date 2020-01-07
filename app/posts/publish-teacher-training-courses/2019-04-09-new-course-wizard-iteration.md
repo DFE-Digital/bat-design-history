@@ -1,7 +1,6 @@
 ---
 title: New course wizard – iteration
 description: Bring the wizard in line with changes made to the Google Form.
-tags: publish-teacher-training-courses
 ---
 Bring the wizard in line with changes made to the Google Form:
 

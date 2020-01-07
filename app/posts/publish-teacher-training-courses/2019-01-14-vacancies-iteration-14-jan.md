@@ -1,7 +1,6 @@
 ---
 title: Vacancies – 14 January iteration
 description: Updates to button styles, messaging and validation.
-tags: publish-teacher-training-courses
 ---
 An iteration on [an earlier design](/publish-teacher-training-courses/vacancies).
 

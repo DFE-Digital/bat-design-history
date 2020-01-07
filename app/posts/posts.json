@@ -1,5 +1,7 @@
 {
   "layout": "post",
   "permalink": "{{ page.filePathStem | replace('posts/', '') }}.html",
-  "tags": ["search-index"]
+  "tags": [
+    "search-index"
+  ]
 }

@@ -15,7 +15,6 @@ related:
     href: https://docs.google.com/spreadsheets/d/1uY6ZzQePVoWgIzrdRKtuinj9NzQ5dgwaL6DMIYFUH_c
   - text: Trello ticket
     href: https://trello.com/c/ztd2hNAH
-tags: apply-for-teacher-training
 ---
 Our first pass at asking for personal information for the purposes of monitoring equality.
 

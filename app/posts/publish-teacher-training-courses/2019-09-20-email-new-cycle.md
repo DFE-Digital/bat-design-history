@@ -1,7 +1,6 @@
 ---
 title: Emails for the new 2019/20 cycle
 description: Prompts and updates for providers.
-tags: publish-teacher-training-courses
 ---
 In the lead up to the opening of the new recruitment cycle on 1 October 2019, we sent these emails.
 

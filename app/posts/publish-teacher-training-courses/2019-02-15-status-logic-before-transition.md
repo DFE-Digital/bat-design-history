@@ -1,7 +1,6 @@
 ---
 title: Status logic before UCAS transition
 description: How vacancies, applications and whether a course is on Find is derived from a set of training locations.
-tags: publish-teacher-training-courses
 ---
 ## Training location: Is it on Find?
 

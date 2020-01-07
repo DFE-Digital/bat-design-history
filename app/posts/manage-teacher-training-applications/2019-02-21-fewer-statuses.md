@@ -9,7 +9,6 @@ related:
     href: https://bat-manage-teacher-training-applications.herokuapp.com/provider/v02/index
   - text: Minimal and maximal statuses
     href: https://docs.google.com/document/d/1qQOvPcnvskyvwaTqtEUD2CAZjKfcYr7v0rlK_kcDhaA
-tags: manage-teacher-training-applications
 ---
 A minimum viable service that could allow the providers to access and manage their ITT applications.
 

@@ -1,7 +1,6 @@
 ---
 title: Application states
 description: Create new states with filters.
-tags: manage-teacher-training-applications
 ---
 [Pull request](https://github.com/DFE-Digital/manage-teacher-training-applications-prototype/pull/2)
 

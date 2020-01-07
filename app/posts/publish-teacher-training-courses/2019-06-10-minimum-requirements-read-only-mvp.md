@@ -1,7 +1,6 @@
 ---
 title: UCAS GCSE requirements – A read only MVP
 description: Show the codes and their meanings to ship earlier.
-tags: publish-teacher-training-courses
 ---
 To implement the [full design](/publish-teacher-training-courses/minimum-course-requirements-logic) we need to fix the data and coerce the model into our representation. The stories are large and sequential.
 

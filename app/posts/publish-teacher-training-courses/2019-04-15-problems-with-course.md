@@ -1,7 +1,6 @@
 ---
 title: Problems with a course
 description: Exploration into highlighting problems with a course before publishing.
-tags: publish-teacher-training-courses
 ---
 Exploration into highlighting problems with a course before publishing.
 

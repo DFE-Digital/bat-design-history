@@ -2,5 +2,8 @@
   "breadcrumbs": [{
     "text": "Manage teacher training applications",
     "href": "/manage-teacher-training-applications"
-  }]
+  }],
+  "tags": [
+    "manage-teacher-training-applications"
+  ]
 }

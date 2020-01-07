@@ -1,7 +1,6 @@
 ---
 title: Postcodes
 description: Asking for, validating and storing postcodes.
-tags: publish-teacher-training-courses
 ---
 We haven’t been validating postcodes in our contact addresses. This raises a few issues:
 

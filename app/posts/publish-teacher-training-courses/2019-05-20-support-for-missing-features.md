@@ -1,7 +1,6 @@
 ---
 title: Support for missing features
 description: Filling the gap left by unbuilt features.
-tags: publish-teacher-training-courses
 ---
 Because of the UCAS transition timescales [we’ve shipped without required features](/publish-teacher-training-courses/shipped-for-transition).
 

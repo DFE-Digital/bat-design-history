@@ -1,7 +1,6 @@
 ---
 title: New course wizard – Confirming course title
 description: Moving the course title fields into the wizard.
-tags: publish-teacher-training-courses
 ---
 An iteration on [the initial design](/publish-teacher-training-courses/new-course-2#customise-title) which:
 

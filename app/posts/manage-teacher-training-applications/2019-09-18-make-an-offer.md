@@ -1,7 +1,6 @@
 ---
 title: Make an offer
 description: First pass at making a conditional or unconditional offer.
-tags: manage-teacher-training-applications
 ---
 A simple flow to allow providers to change status and make an offer to a candidate.
 

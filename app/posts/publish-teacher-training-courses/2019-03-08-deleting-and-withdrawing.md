@@ -1,7 +1,6 @@
 ---
 title: Deleting and withdrawing
 description: And why there are both.
-tags: publish-teacher-training-courses
 ---
 Deleting a course entirely removes it, it won’t be in the courses table. Providers can only delete courses that haven’t been published in this cycle. Deletions are soft – a developer should be able to restore a course that a provider deletes by mistake.
 

@@ -1,7 +1,6 @@
 ---
 title: New course wizard – 14 January iteration
 description: Updates to subjects, minimum requirements and course titles.
-tags: publish-teacher-training-courses
 ---
 In this iteration we changed:
 

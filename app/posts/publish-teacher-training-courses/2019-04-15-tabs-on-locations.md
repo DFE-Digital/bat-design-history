@@ -1,7 +1,6 @@
 ---
 title: Tabs on locations
 description: Show courses at each location and location history.
-tags: publish-teacher-training-courses
 ---
 As part of work looking into how a location might be deleted or removed, it became clear that it was difficult to see which courses a location was assigned to.
 

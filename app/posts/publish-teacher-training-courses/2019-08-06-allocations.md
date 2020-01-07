@@ -1,7 +1,6 @@
 ---
 title: Allocations
 description: Show the allocation policy on course detail pages.
-tags: publish-teacher-training-courses
 ---
 {% set html %}
   <h4 class="govuk-heading-s govuk-!-margin-bottom-1"><a href="https://docs.google.com/document/d/1926pN2UTaknKAC4bYUGyCSiPe5lBXJZ33ld7LXmftYw/edit">Original context</a></h4>

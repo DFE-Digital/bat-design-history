@@ -1,7 +1,6 @@
 ---
 title: "UCAS Apply preferences"
 description: Settings such as GT12 letters, Star J, Star X and other requirements.
-tags: publish-teacher-training-courses
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({

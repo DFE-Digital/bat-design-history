@@ -1,7 +1,6 @@
 ---
 title: Modern Languages – 5 February iteration
 description: Simplify the fields for languages.
-tags: publish-teacher-training-courses
 ---
 Providers model their modern languages courses differently.
 

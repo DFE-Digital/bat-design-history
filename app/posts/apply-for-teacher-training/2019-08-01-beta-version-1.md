@@ -10,7 +10,6 @@ related:
     href: https://apply-beta-prototype-v1.herokuapp.com
   - text: Findings and recommendations from usability testing
     href: https://docs.google.com/presentation/d/11n2OsN9LswmHab64FG0sIsQ-BijdS-GM
-tags: apply-for-teacher-training
 ---
 In June the Apply team started development of the candidate-facing aspects of the service. To ensure that what we are delivering is usable and understandable, we created an interactive prototype that we could use to test with users and validate our design decisions.
 

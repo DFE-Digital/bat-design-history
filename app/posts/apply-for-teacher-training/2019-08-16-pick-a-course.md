@@ -1,7 +1,6 @@
 ---
 title: Picking courses to apply to
 description: Providing a route to Find, or selecting the course you want.
-tags: apply-for-teacher-training
 ---
 Candidates using Apply need to choose a course to apply to.
 

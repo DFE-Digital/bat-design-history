@@ -1,7 +1,6 @@
 ---
 title: New course wizard – Further education
 description: Designs for the further education path in the new course wizard.
-tags: publish-teacher-training-courses
 ---
 After selecting ‘Further education’ as a course type, the wizard goes down a different path.
 

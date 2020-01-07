@@ -1,7 +1,6 @@
 ---
 title: Amending and withdrawing
 description: Amending applications and withdrawing course choices.
-tags: apply-for-teacher-training
 ---
 First spike to support two features of the application process:
 
