@@ -1,6 +1,6 @@
 /*
   Usage:
-  * Put images into `app/assets/directory-name`
+  * Put images into `app/images/directory-name`
   * Name them with 01-, 02- prefixes
 
   Run:
@@ -9,16 +9,19 @@
 
 // Dependencies
 const fs = require('fs');
+const { DateTime } = require('luxon')
 
 // Arguments
 const directoryName = process.argv.slice(-1)[0];
 warnIfNoArguments();
 
-// Ignore any directories when generating a title
-var title = directoryName.split('/').pop().replace(/-/g, ' ');
+const deepestDirectory = directoryName.split('/').pop()
+
+var title = deepestDirectory.replace(/-/g, ' ');
 title = title.charAt(0).toUpperCase() + title.slice(1)
-const imageDirectory = `app/assets/images/${directoryName}`;
-const indexDirectory = `app/views/${directoryName}`;
+
+const imageDirectory = `app/images/${directoryName}`;
+const postDirectory = `app/posts/${directoryName}`.replace("/" + deepestDirectory, '');
 
 var paths = [];
 
@@ -43,8 +46,8 @@ function makeDirectories() {
     fs.mkdirSync(imageDirectory);
   }
 
-  if (!fs.existsSync(indexDirectory)){
-    fs.mkdirSync(indexDirectory);
+  if (!fs.existsSync(postDirectory)){
+    fs.mkdirSync(postDirectory);
   }
 }
 
@@ -57,58 +60,47 @@ function getExistingImages() {
       return;
     }
 
-    var id = file.replace(/\.(png|jpg)$/, '');
-    var title = id.replace(/^\d{2}-/, '').replace(/-/g, ' ');
-
+    var title = file.replace(/\.(png|jpg)$/, '').replace(/^\d{2}-/, '').replace(/-/g, ' ');
     var image = {
-      title: title.charAt(0).toUpperCase() + title.slice(1),
-      id: id,
-      file: `${imageDirectory}/${file}`
+      title: title.charAt(0).toUpperCase() + title.slice(1)
     }
-
-    image.src = image.file.replace('app/assets', '/public');
     paths.push(image);
   });
 }
 
 function generatePage() {
   var template = '';
-  const templateStart = `{% extends "layout.html" %}
-{% set title = '${title}' %}
-{% block pageTitle %}{{ title }}{% endblock %}
-{% block breadcrumbs %}{{ designHistory.breadcrumbs(breadcrumbItems()) }}{% endblock %}
+  const templateStart = `---
+title: ${title}
+description:
+tags:
+---
 
-{% block content %}
-  <h1 class="govuk-heading-xl">{{ title }}</h1>
-`;
+## Screenshots
+
+{% from "gallery/macro.njk" import appGallery %}
+{{ appGallery({
+  path: page.filePathStem | replace("/posts", "/images"),
+  items: [`;
 
   const templateEnd = `
-{% endblock %}
+  ]
+}) }}
 `;
-
-  var contents = `
-  {% set contents = [`;
-
-  const endContents = `
-  ] %}
-  {{ designHistory.screenshotContents(contents) }}
-  `;
 
   paths.forEach(function(item, index) {
-    template += `
-  {{ designHistory.screenshot('${item.title}', '${item.id}', '${item.thumbnailSrc}', '${item.src}', '') }}
-`;
-
-    contents += `${index > 0 ? ', ': ''}
-    { text: '${item.title}', id: '${item.id}' }`;
+    template += `${index > 0 ? ', ': ''}
+    { text: "${item.title}" }`;
   });
 
+  const filename = `${postDirectory}/${DateTime.local().toFormat('yyyy-MM-dd')}-${deepestDirectory}.md`
+
   fs.writeFile(
-    `${indexDirectory}/index.html`,
-    templateStart + contents + endContents + template + templateEnd,
+    filename,
+    templateStart + template + templateEnd,
     function(err) {
       if (err) { return console.log(err); }
-      console.log(`Index generated: ${indexDirectory}/index.html`);
+      console.log(`Page generated: ${filename}`);
     }
   );
 }
