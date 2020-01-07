@@ -9,7 +9,6 @@
 
 // Dependencies
 const fs = require('fs');
-const sharp = require('sharp');
 
 // Arguments
 const directoryName = process.argv.slice(-1)[0];
@@ -20,7 +19,6 @@ var title = directoryName.split('/').pop().replace(/-/g, ' ');
 title = title.charAt(0).toUpperCase() + title.slice(1)
 const imageDirectory = `app/assets/images/${directoryName}`;
 const indexDirectory = `app/views/${directoryName}`;
-const thumbnailDirectory = `${imageDirectory}/thumbnails`;
 
 var paths = [];
 
@@ -29,7 +27,6 @@ function start() {
   makeDirectories();
   getExistingImages();
   generatePage();
-  generateThumbnails();
 }
 
 function warnIfNoArguments(title) {
@@ -44,10 +41,6 @@ function warnIfNoArguments(title) {
 function makeDirectories() {
   if (!fs.existsSync(imageDirectory)){
     fs.mkdirSync(imageDirectory);
-  }
-
-  if (!fs.existsSync(thumbnailDirectory)){
-    fs.mkdirSync(thumbnailDirectory);
   }
 
   if (!fs.existsSync(indexDirectory)){
@@ -70,13 +63,10 @@ function getExistingImages() {
     var image = {
       title: title.charAt(0).toUpperCase() + title.slice(1),
       id: id,
-      file: `${imageDirectory}/${file}`,
-      thumbnailFile: `${thumbnailDirectory}/${file}`
+      file: `${imageDirectory}/${file}`
     }
 
     image.src = image.file.replace('app/assets', '/public');
-    image.thumbnailSrc = image.thumbnailFile.replace('app/assets', '/public');
-
     paths.push(image);
   });
 }
@@ -121,12 +111,6 @@ function generatePage() {
       console.log(`Index generated: ${indexDirectory}/index.html`);
     }
   );
-}
-
-function generateThumbnails() {
-  paths.forEach(function(item, index) {
-    sharp(item.file).resize(630, null).toFile(item.thumbnailFile);
-  });
 }
 
 start();
