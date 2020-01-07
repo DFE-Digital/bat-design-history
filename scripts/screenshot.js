@@ -18,7 +18,6 @@ const domain = 'http://localhost:3000';
 // Dependencies
 const webshot = require('webshot');
 const fs = require('fs');
-const sharp = require('sharp');
 
 // Arguments
 const directoryName = process.argv.slice(-1)[0];
@@ -29,7 +28,6 @@ var title = directoryName.split('/').pop().replace(/-/g, ' ');
 title = title.charAt(0).toUpperCase() + title.slice(1)
 const imageDirectory = `app/assets/images/${directoryName}`;
 const indexDirectory = `app/views/${directoryName}`;
-const thumbnailDirectory = `${imageDirectory}/thumbnails`;
 
 // Run
 function start() {
@@ -53,10 +51,6 @@ function makeDirectories() {
     fs.mkdirSync(imageDirectory);
   }
 
-  if (!fs.existsSync(thumbnailDirectory)){
-    fs.mkdirSync(thumbnailDirectory);
-  }
-
   if (!fs.existsSync(indexDirectory)){
     fs.mkdirSync(indexDirectory);
   }
@@ -66,9 +60,7 @@ function decoratePaths() {
   paths.forEach(function(item, index) {
     item.id = item.title.replace(/ +/g, '-').toLowerCase();
     item.file = `${imageDirectory}/${item.id}.png`;
-    item.thumbnailFile = `${thumbnailDirectory}/${item.id}.png`;
     item.src = item.file.replace('app/assets', '/public');
-    item.thumbnailSrc = item.thumbnailFile.replace('app/assets', '/public');
   });
 }
 
@@ -94,7 +86,6 @@ function takeScreenshots() {
       item.file,
       webshotOptions,
       function(err) {
-        sharp(item.file).resize(630, null).toFile(item.thumbnailFile);
         console.log(`${domain + item.path} \n >> ${item.file}`);
       }
     );
@@ -126,7 +117,7 @@ function generatePage() {
 
   paths.forEach(function(item, index) {
     template += `
-  {{ designHistory.screenshot('${item.title}', '${item.id}', '${item.thumbnailSrc}', '${item.src}', '') }}
+  {{ designHistory.screenshot('${item.title}', '${item.id}', '${item.src}', '${item.src}', '') }}
 `;
 
     contents += `${index > 0 ? ', ': ''}
