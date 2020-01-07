@@ -25,9 +25,8 @@ The business logic dictates that a candidate has 5 working days after submitting
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [{
     id: "dashboard-submitted",
     text: "Dashboard post submission (within amendment period)"

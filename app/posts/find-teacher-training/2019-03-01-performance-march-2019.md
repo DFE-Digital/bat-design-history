@@ -28,10 +28,9 @@ You can [see the live report in our dashboard](https://datastudio.google.com/ope
 
 ## Service overview
 
-{% from "figure/macro.njk" import appFigure %}
+{% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: page.filePathStem | replace("/posts", "/images"),
     file: "service-overview.png"
   }
 }) }}
@@ -48,7 +47,6 @@ The average user who finds a course page will visit at least 4 pages on the serv
 
 {{ appFigure({
   image: {
-    path: page.filePathStem | replace("/posts", "/images"),
     file: "success-measures.png"
   }
 }) }}

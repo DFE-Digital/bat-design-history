@@ -15,9 +15,8 @@ On the training locations list, if ‘full time or part time’ is chosen, then 
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Training locations"},
     {text: "For a full or part time course"},

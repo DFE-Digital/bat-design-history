@@ -14,9 +14,8 @@ In this iteration we changed:
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "What type of course?"},
     {text: "Pick a subject"},

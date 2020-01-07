@@ -16,9 +16,8 @@ The original design only catered for the dominant use case. For MVP we can ask f
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Pick the languages for this course"},
     {text: "Original design"}

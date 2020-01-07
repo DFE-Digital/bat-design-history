@@ -54,9 +54,8 @@ An unconditional offer (which would be ‘Accepted (unconditional)’) goes stra
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Applications"},
     {text: "New applications"},

@@ -18,9 +18,8 @@ A user flow where a candidate creates an application in bits as and when require
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Your application"},
     {text: "Your application (expanded)"},

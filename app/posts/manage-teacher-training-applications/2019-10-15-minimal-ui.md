@@ -56,9 +56,8 @@ With this in mind, we consolidated the two offer types into one, allowing provid
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Applications"},
     {text: "Application"},

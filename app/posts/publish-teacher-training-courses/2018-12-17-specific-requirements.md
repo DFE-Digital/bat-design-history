@@ -109,9 +109,8 @@ This option accepts all applicants, even if they have grades below a C.
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Example warnings in UCAS apply"},
     {text: "Qualification options in UCAS"},

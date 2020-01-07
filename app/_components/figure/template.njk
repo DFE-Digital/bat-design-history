@@ -1,5 +1,5 @@
-{%- from "../embed/macro.njk" import appEmbed -%}
-{%- from "../image/macro.njk" import appImage -%}
+{%- from "../embed/macro.njk" import appEmbed with context -%}
+{%- from "../image/macro.njk" import appImage with context -%}
 <figure class="app-figure">
 {% if params.embed %}
   {{ appEmbed({

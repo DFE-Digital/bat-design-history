@@ -7,9 +7,8 @@ An update on the [original onboarding wizard](/publish-teacher-training-courses/
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Who is adding this organisation?"},
     {text: "Organisation name"},

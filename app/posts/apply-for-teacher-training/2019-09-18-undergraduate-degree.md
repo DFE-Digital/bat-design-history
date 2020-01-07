@@ -15,9 +15,8 @@ This design iteration asks for the undergraduate degree first, and includes a pr
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Add undergraduate degree"},
     {text: "Add another degree"},

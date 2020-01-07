@@ -17,9 +17,8 @@ By splitting the page into tabs we:
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "An unpublished course"},
     {text: "An unpublished course – Edit course details"},
@@ -32,7 +31,7 @@ By splitting the page into tabs we:
 
 ## Old course design
 
-{% from "figure/macro.njk" import appFigure %}
+{% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
     path: "/images/publish-teacher-training-courses/deleting-and-withdrawing",

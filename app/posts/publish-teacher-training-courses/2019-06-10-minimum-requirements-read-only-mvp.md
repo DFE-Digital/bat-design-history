@@ -11,9 +11,8 @@ To ship the read-only version of this feature earlier we updated the design. It 
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Code 1 – Must have"},
     {text: "Code 2 – Taking"},

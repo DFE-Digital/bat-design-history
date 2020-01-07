@@ -20,9 +20,8 @@ Success messages after saving and edited have been added, these reinforce the me
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Organisation"},
     {text: "Locations"},

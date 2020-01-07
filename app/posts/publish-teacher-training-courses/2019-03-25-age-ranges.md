@@ -23,9 +23,8 @@ We can’t easily map existing UCAS data to age range. We should ask for it agai
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Primary age ranges"},
     {text: "Secondary age ranges"}

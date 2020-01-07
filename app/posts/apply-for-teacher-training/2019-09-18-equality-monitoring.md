@@ -63,9 +63,8 @@ The design system provides a [complete pattern for collecting ethnicity informat
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Equality monitoring"},
     {text: "What is your sex?"},

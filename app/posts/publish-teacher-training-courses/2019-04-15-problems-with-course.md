@@ -21,9 +21,8 @@ Specifically we want to:
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "We’ve found problems with this course"},
     {text: "Problems with this course"}

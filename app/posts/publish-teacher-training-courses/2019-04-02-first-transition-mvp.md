@@ -21,9 +21,8 @@ The course tabs shown below are also illustrative and may not be ready.
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Transition screen"},
     {text: "Organisation page with locations"},

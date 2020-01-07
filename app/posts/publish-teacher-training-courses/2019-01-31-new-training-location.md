@@ -41,9 +41,8 @@ On the summary screens we started with ‘Code’, which a user misunderstood. W
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Training locations"},
     {text: "What type of training location?"},

@@ -26,9 +26,8 @@ Candidates want to express more about themselves than just giving mandatory data
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Your application"},
     {text: "Personal details"},

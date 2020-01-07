@@ -50,9 +50,8 @@ We would need to think of another way to encourage providers to review and fix t
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Organisation with rollover prompt"},
     {text: "Start rollover"},

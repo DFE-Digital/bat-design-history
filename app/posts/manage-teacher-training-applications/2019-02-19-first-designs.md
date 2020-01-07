@@ -19,9 +19,8 @@ The applciations themselves are tagged to various statuses that the admins can u
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace('/posts', '/images'),
   items: [
     {text: "Dashboard"},
     {text: "New applications"},

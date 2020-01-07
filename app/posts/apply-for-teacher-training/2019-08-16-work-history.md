@@ -7,9 +7,8 @@ Following on from [the original design](/apply-june-2019/work-history), rather t
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Work history"},
     {text: "Job"},

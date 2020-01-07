@@ -11,9 +11,8 @@ We’d also avoid having to categorise existing locations into types, though doi
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Add training location"},
     {text: "Edit training location"},

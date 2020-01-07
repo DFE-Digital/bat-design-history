@@ -16,9 +16,8 @@ We tested this with the last user in our ‘New course wizard’ round of resear
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Course title is ok"},
     {text: "Course title needs changes"}

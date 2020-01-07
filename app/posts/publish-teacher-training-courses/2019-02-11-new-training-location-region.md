@@ -26,9 +26,8 @@ Concerns we expect from providers that the design would need to address:
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "What type of location?"},
     {text: "Region name"},

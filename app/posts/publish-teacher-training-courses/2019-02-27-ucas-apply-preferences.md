@@ -192,10 +192,9 @@ We indicate the difference in letters to new providers and ask for their choice.
 
 * * *
 
-{% from "figure/macro.njk" import appFigure %}
+{% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: page.filePathStem | replace("/posts", "/images"),
     file: "ucas-apply-preferences.png"
   },
   caption: "UCAS Apply preferences"

@@ -2,9 +2,8 @@
 title: Subject knowledge
 description: Evidence of knowledge and interest in a subject
 ---
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Subject knowledge"}
   ]

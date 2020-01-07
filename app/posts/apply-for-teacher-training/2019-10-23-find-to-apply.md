@@ -28,9 +28,8 @@ To skip the start page, the content on the Apply and Find start pages must be co
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Choose how to apply"},
     {text: "Check you can use GOV.UK Apply"},

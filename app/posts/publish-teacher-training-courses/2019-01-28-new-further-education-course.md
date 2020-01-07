@@ -59,9 +59,8 @@ As courses aren’t tied to allocations, the opening date for applications is ar
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "What type of course?"},
     {text: "What is the course title?"},

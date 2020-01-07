@@ -12,9 +12,8 @@ tags: apply-for-teacher-training
 ---
 Our designer Faz looked at capturing the same fields needed in the UCAS process but by using the GOV.UK design patterns.
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Apply landing page"},
     {text: "Create an account"},

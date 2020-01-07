@@ -54,9 +54,8 @@ It’s not clear whether we will have time to build an onboarding wizard, as MVP
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Accept terms"},
     {text: "Organisation name"},
