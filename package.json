@@ -57,7 +57,8 @@
     "rollup": "^1.27.8",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "sharp": "^0.23.4"
+    "sharp": "^0.23.4",
+    "webshot": "^0.18.0"
   },
   "devDependencies": {
     "standard": "^14.3.1"
