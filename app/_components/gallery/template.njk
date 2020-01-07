@@ -1,5 +1,5 @@
 {%- from "../figure/macro.njk" import appFigure with context -%}
-<ul class="app-gallery">
+<ul class="app-gallery{% if params.layout != false %} app-gallery--layout-{{ params.layout or "thumbnails" }}{% endif %}">
 {% for item in params.items %}
   {% set id = item.id or (item.text | slug) %}
   {% set file = item.img.src or (id + ".png") %}
