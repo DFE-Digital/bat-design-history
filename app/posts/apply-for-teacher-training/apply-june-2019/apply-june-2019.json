@@ -1,4 +1,5 @@
 {
+  "eleventyExcludeFromCollections": true,
   "layout": "page",
   "breadcrumbs": [{
     "text": "Apply - June 2019",
