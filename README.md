@@ -1,8 +1,18 @@
-# GOV.UK Eleventy
+# Becoming a teacher design history
 
-_Experimental, and work in progress._
+https://bat-design-history-v2.herokuapp.com/
 
-Build websites using the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.io) static site generator.
+The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.io) static site generator.
+
+## Document your designs
+
+This repository makes it easy to:
+
+* screenshot your designs
+* create pages of screenshots to document designs
+* document designs using the [GOV.UK Design System](https://design-system.service.gov.uk/)
+* print pages of designs
+* make designs shareable and linkable
 
 ## To do
 
