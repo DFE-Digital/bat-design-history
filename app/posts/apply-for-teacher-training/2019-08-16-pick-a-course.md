@@ -15,9 +15,8 @@ Users coming directly from Find could have a course pre-populated or added using
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Your application"},
     {text: "Have you chosen a course to apply to?"},

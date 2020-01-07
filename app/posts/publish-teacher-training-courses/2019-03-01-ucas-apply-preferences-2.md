@@ -38,9 +38,8 @@ For this to propagate to UCAS it needs to be sent through as the email for the U
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     { text: "Organisation"},
     { text: "UCAS Apply preferences"},

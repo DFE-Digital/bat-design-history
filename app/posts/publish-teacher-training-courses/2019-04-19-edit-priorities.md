@@ -45,9 +45,8 @@ Further education screens are probably out of scope for MVP.
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Level and SEND"},
     {text: "Subject"},

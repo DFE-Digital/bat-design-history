@@ -40,7 +40,7 @@ A user can select Yes to equivalency tests but can restrict this by subject (see
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
   items: [

@@ -1,4 +1,4 @@
-{%- from "../figure/macro.njk" import appFigure -%}
+{%- from "../figure/macro.njk" import appFigure with context -%}
 <ul class="app-gallery">
 {% for item in params.items %}
   {% set id = item.id or (item.text | slug) %}

@@ -3,9 +3,8 @@ title: Apply – September 2019
 description: A full set of screens showing the design in mid-September.
 tags: apply-for-teacher-training
 ---
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Your application"},
     {text: "Have you chosen a course to apply to"},

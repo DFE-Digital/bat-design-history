@@ -21,9 +21,8 @@ In future we’ll look at:
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: 'Application list'},
     {text: 'Application details (1 reference request failed and waiting on 1 reference)'},

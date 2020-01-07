@@ -39,9 +39,8 @@ Some providers have been using the add course form to try and edit existing cour
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Transition information"},
     {text: "Organisation"},

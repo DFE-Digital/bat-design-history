@@ -13,10 +13,9 @@ In the design below, if a user selects ‘An area’, then we would validate dif
 
 A [more complete workflow was previously designed and tested](/publish-teacher-training-courses/new-training-location-region).
 
-{% from "figure/macro.njk" import appFigure %}
+{% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: page.filePathStem | replace("/posts", "/images"),
     file: "type-of-location.png"
   },
   caption: "Type of location"

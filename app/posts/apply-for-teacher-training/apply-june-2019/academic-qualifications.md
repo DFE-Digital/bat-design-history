@@ -2,9 +2,8 @@
 title: Academic qualifications
 description: Adding your degree, statutory requirements and other qualifications
 ---
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Academic qualifications"},
     {text: "Your degree"},

@@ -9,9 +9,8 @@ Candidates may also need to start a new application, or see what they originally
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Applications"},
     {text: "Submitted application"}

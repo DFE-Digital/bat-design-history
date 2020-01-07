@@ -11,9 +11,8 @@ Bring the wizard in line with changes made to the Google Form:
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Is this a teaching apprenticeship?"},
     {text: "When will applications open?"},

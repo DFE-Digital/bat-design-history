@@ -43,9 +43,8 @@ Essentially, we can ask questions if it’s regarding an applicant’s ability t
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Training with a disability"},
     {text: "Review when disability given"},

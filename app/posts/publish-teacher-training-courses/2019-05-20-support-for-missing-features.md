@@ -23,9 +23,8 @@ In the design below we add a call to action where the feature would be – ‘Re
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Get support and guidance"},
     {text: "Request a change"},

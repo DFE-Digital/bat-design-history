@@ -31,9 +31,8 @@ When we tried removing the message about the UCAS Apply delay it wasn’t clear 
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Organisation table showing link to edit vacancies"},
     {text: "Multiple training locations"},

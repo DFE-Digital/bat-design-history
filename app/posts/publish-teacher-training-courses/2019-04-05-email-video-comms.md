@@ -30,7 +30,7 @@ Becoming a Teacher team
   content: videoContent
 }) }}
 
-{% from "figure/macro.njk" import appFigure %}
+{% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   embed: {
     youtubeId: "nxmtXGy1cCY",
@@ -41,7 +41,6 @@ Becoming a Teacher team
 
 {{ appFigure({
   image: {
-    path: page.filePathStem | replace("/posts", "/images"),
     file: "guidance-for-publish-teacher-training-courses.png"
   },
   caption: "Guidance page with video"

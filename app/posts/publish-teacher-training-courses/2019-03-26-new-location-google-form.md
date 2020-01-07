@@ -9,9 +9,8 @@ As an MVP, and so that providers can still add locations when they need to, weâ€
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Locations with link to Google form"},
     {text: "Who is adding?"},

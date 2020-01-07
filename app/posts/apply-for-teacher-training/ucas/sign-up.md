@@ -2,9 +2,8 @@
 title: Sign up
 description: Registering for UCAS Teacher Training
 ---
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Welcome"},
     {text: "Terms and conditions"},

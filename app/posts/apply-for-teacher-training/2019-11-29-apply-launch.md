@@ -23,9 +23,8 @@ On 26 November 2019 we launched the initial Apply pilot with one provider, Royal
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [{
     text: "Start page",
     id: "01-start-page"

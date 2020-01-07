@@ -5,9 +5,8 @@ tags: publish-teacher-training-courses
 ---
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [{
     text: "Confirming a course with requested title",
     caption: "This shows a ‘requested title’, which is also shown in the preview. We probably also need to include the current title somewhere."

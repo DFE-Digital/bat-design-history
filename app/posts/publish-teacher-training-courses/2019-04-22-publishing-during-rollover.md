@@ -76,9 +76,8 @@ The preview links could persist on the course page and not be dependent on the c
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Courses for next cycle"},
     {text: "Draft course with publish messaging"},

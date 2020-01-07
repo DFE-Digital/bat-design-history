@@ -28,9 +28,8 @@ The team thought the statuses were not relevant so came up with a minimal set of
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Dashboard"},
     {text: "New applications"},

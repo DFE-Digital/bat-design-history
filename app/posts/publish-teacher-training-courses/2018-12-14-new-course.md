@@ -48,9 +48,8 @@ If the course is marked as a special educational needs one, it’s appended to t
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Type of course"},
     {text: "Pick a subject"},

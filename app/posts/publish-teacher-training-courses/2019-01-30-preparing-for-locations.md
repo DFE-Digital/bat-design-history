@@ -17,9 +17,8 @@ We’re also testing a space for guidance in the right hand column
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Organisation"},
     {text: "Courses"},

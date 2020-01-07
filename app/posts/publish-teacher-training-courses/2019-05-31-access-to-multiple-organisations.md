@@ -14,10 +14,9 @@ We discovered this while researching with accredited bodies: [Research video](ht
 
 This should also simplify the logic for the current systems.
 
-{% from "figure/macro.njk" import appFigure %}
+{% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: page.filePathStem | replace("/posts", "/images"),
     file: "organisations.png"
   },
   caption: "Organisations page"

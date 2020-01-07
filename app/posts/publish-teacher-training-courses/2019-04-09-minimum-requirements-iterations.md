@@ -15,7 +15,7 @@ Progression of the minimum requirements page design:
 
 ## Screenshots
 
-{% from "figure/macro.njk" import appFigure %}
+{% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
     path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
@@ -32,9 +32,8 @@ Progression of the minimum requirements page design:
   caption: "Question 2: Tests for candidates without GCSE requirements"
 }) }}
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Two questions"},
     {text: "Options in a table"},

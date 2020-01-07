@@ -13,9 +13,8 @@ Update the design so that:
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Who is the accredited body?"},
     {text: "When there are no previous accredited bodies"},

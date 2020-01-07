@@ -31,9 +31,8 @@ The link text, ‘request allocations’ might need to refer to ‘permission to
 
 ## Screenshots
 
-{% from "gallery/macro.njk" import appGallery %}
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
-  path: page.filePathStem | replace("/posts", "/images"),
   items: [
     {text: "Allocations for a course"},
     {text: "Allocations for a fee-funded PE course"}
