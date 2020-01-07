@@ -20,6 +20,7 @@ It’ll probably use a token and behave similarly to the magic link we send for 
 
 {% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
+  layout: false,
   items: [{
     text: "Start page",
     caption: "We ask referees if they are happy to give a reference. If they select no, a free text area allows them to provide a reason."
