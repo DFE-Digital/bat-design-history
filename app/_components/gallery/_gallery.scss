@@ -9,11 +9,26 @@
   .app-figure {
     margin-bottom: 0;
 
-    img {
+    a {
+      display: block;
+      min-height: 12rem;
+      outline: 1px solid rgba($govuk-border-colour, 0.5);
+
+      &:hover {
+        outline-color: $govuk-link-hover-colour;
+      }
+
+      &:active {
+        outline-color: $govuk-link-active-colour;
+      }
+    }
+
+    a img {
       margin-bottom: 0;
       max-height: 12rem;
       object-fit: cover;
       object-position: top;
+      outline: 0;
     }
   }
 }
