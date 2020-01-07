@@ -1,7 +1,6 @@
 ---
 title: Specific course requirements
 description: Documentation on minimum qualifications settings in UCAS web-link and apply.
-tags: publish-teacher-training-courses
 ---
 Providers can set specific requirements for their courses when setting up or editing their training programmes in UCAS web-link.
 

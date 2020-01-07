@@ -1,7 +1,6 @@
 ---
 title: Add a region or area workflow
 description: Add a region or area, rather than a school or university.
-tags: publish-teacher-training-courses
 ---
 Following on from the [specific school or university](/publish-teacher-training-courses/new-training-location) workflow, this design builds out the ‘region’ training type.
 

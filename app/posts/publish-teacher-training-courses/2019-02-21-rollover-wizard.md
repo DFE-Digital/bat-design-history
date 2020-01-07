@@ -1,7 +1,6 @@
 ---
 title: Rollover wizard
 description: A full rollover wizard, ending in a page with current and next cycles.
-tags: publish-teacher-training-courses
 ---
 Following on from [rollover reckons](/publish-teacher-training-courses/rollover-reckons), this shows a full rollover wizard.
 

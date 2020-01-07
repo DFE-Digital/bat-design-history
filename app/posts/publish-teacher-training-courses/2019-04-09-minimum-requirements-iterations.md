@@ -1,7 +1,6 @@
 ---
 title: Minimum course requirements – iterations
 description: A view of how the minimum requirements design has been iterated since December.
-tags: publish-teacher-training-courses
 ---
 Progression of the minimum requirements page design:
 

@@ -5,7 +5,6 @@ related:
   items:
   - text: Trello ticket
     href: https://trello.com/c/spYyD6s6
-tags: apply-for-teacher-training
 ---
 Subject knowledge as a single field presents problems if you’re applying to multiple subjects across different courses, for example Physics as well as Mathematics. You couldn’t tailor one field to both subjects, this also applies if someone applies to both primary and secondary courses, although this is less likely.
 

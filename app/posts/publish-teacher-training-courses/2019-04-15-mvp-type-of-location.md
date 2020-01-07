@@ -1,7 +1,6 @@
 ---
 title: Type of location MVP
 description: A quick way to indicate if a location is an area or an address.
-tags: publish-teacher-training-courses
 ---
 A quick way to indicate if a location is an area or an address.
 

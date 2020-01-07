@@ -1,7 +1,6 @@
 ---
 title: Requesting a title
 description: What happens when a provider asks for a custom title.
-tags: publish-teacher-training-courses
 ---
 ## Screenshots
 

@@ -1,7 +1,6 @@
 ---
 title: Vacancies
 description: First design for changing vacancies at each training location on a course.
-tags: publish-teacher-training-courses
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({

@@ -1,7 +1,6 @@
 ---
 title: Edit course information workflow
 description: Workflow diagram for editing course information.
-tags: publish-teacher-training-courses
 ---
 From the course summary page, where answers to questions are listed ([check your answers](/publish-teacher-training-courses/new-course-iteration-14-jan#check-your-answers), [change course information](/publish-teacher-training-courses/new-course-iteration-14-jan#change-course-information)), users expect to edit one answer then return to this page.
 

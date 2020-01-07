@@ -1,7 +1,6 @@
 ---
 title: Highlighting the multiple organisations feature
 description: Call out how to get access to more organisations.
-tags: publish-teacher-training-courses
 ---
 Providers can already [manage multiple organisations from a single account](/publish-teacher-training-courses/multiple-organisations). But only providers who have this set up will know about this feature. There are users who don’t know they can do this who are using multiple logins to manage organisations.
 

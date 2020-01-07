@@ -5,7 +5,6 @@ related:
   items:
   - text: Trello ticket
     href: https://trello.com/c/FccNwFJ4
-tags: find-teacher-training
 ---
 Towards the end of the recruitment cycle, the current cycle’s courses will mostly be closed to new applications or have only a few vacancies. There will be only a short window to apply.
 

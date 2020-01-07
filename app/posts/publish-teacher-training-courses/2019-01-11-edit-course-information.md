@@ -1,7 +1,6 @@
 ---
 title: Course page – 11 January iteration
 description: Edit course information, update the status column.
-tags: publish-teacher-training-courses
 ---
 An iteration on the [current course page](/publish-teacher-training-courses/enrichment-sept-6#course) which:
 

@@ -1,7 +1,6 @@
 ---
 title: Email with video of new vacancies feature
 description: Watch our video about the new Publish teacher training courses.
-tags: publish-teacher-training-courses
 ---
 {% set videoContent %}
 Dear colleague,

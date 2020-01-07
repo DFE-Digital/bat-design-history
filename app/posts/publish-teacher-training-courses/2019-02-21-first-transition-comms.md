@@ -1,7 +1,6 @@
 ---
 title: Email announcing UCAS transition
 description: Sent on Monday 20 February.
-tags: publish-teacher-training-courses
 ---
 {% set emailContent %}
 Dear colleague,

@@ -1,7 +1,6 @@
 ---
 title: New course wizard – Minimum course requirements
 description: Choose the minimum course requirements from the new course wizard.
-tags: publish-teacher-training-courses
 ---
 Following on from the [investigation into UCAS specific course requirements](/publish-teacher-training/specific-requirements), a design that comes towards the end of the new course wizard.
 

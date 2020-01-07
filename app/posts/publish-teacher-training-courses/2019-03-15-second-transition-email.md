@@ -1,7 +1,6 @@
 ---
 title: Email about Publish changes in April
 description: Sent on Wednesday 13 March.
-tags: publish-teacher-training-courses
 ---
 {% set emailContent %}
 Dear colleague,

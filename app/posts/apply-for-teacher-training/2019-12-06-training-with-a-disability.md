@@ -1,7 +1,6 @@
 ---
 title: Giving details about disability
 description: Training with a disability and reasonable adjustments course choices.
-tags: apply-for-teacher-training
 ---
 Disclosing a disability is a way for candidates to present their disability and needs to a provider, with the potential benefit of making training easier and more accessible.
 

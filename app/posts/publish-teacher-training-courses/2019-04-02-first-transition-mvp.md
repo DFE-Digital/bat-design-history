@@ -1,7 +1,6 @@
 ---
 title: An MVP for the first cohort transition from UCAS
 description: A projected cut of the service and how it will look around the time we transition the first and second cohorts from UCAS.
-tags: publish-teacher-training-courses
 ---
 A projected cut of the service and how it will look around the time we transition the first and second cohorts from UCAS.
 

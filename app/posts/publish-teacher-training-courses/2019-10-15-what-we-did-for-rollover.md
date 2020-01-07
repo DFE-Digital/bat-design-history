@@ -1,7 +1,6 @@
 ---
 title: Rollover – what we did in 2019
 description: How we handled our first rollover period.
-tags: publish-teacher-training-courses
 ---
 ## What is rollover?
 

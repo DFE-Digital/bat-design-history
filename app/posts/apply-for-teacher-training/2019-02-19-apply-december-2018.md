@@ -8,7 +8,6 @@ related:
       Username: `batapply`
       Password: `batapply1`
     href: https://bat-apply-prototype.herokuapp.com
-tags: apply-for-teacher-training
 ---
 Our designer Faz looked at capturing the same fields needed in the UCAS process but by using the GOV.UK design patterns.
 

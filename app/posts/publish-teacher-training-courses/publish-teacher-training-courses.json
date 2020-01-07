@@ -2,5 +2,8 @@
   "breadcrumbs": [{
     "text": "Publish teacher training courses",
     "href": "/publish-teacher-training-courses"
-  }]
+  }],
+  "tags": [
+    "publish-teacher-training-courses"
+  ]
 }

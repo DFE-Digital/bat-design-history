@@ -1,7 +1,6 @@
 ---
 title: Email asking for providers who are available 15-18 April for our first UCAS transition group
 description: Sent on Thursday 7 March.
-tags: publish-teacher-training-courses
 ---
 {% set emailContent %}
 Dear colleague,

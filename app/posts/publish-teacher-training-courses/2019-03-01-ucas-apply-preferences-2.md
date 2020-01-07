@@ -1,7 +1,6 @@
 ---
 title: "UCAS Apply preferences: Letters and alerts"
 description: Only the GT12 letter and email alert preferences are needed.
-tags: publish-teacher-training-courses
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({

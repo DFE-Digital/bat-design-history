@@ -1,7 +1,6 @@
 ---
 title: Preparing for more features
 description: Updating the organisation and courses pages to accommodate new features being added as part of UCAS transition.
-tags: publish-teacher-training-courses
 ---
 A redesign of the organisation page to accommodate new things that providers can do.
 

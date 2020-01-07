@@ -2,7 +2,6 @@
 layout: page
 title: Migrating publish statuses
 description: How old UCAS status and enrichment status should map to a single new status.
-tags: publish-teacher-training-courses
 ---
 How we get from the two statuses we have now (UCAS course running status, and Publish course content status), to a [simpler single course status](/publish-teacher-training-courses/publish-states).
 

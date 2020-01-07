@@ -1,7 +1,6 @@
 ---
 title: Rollover reckons
 description: Thoughts on what rollover might look like. And notes on what rollover is right now.
-tags: publish-teacher-training-courses
 ---
 ## UCAS rollover
 

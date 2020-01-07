@@ -1,7 +1,6 @@
 ---
 title: Give a teacher training reference
 description: Replacing the Google form with an integrated form.
-tags: apply-for-teacher-training
 ---
 One of the first aspects of [the MVP service](/apply-for-teacher-training/apply-launch) we wanted to improve was how we accept references.
 

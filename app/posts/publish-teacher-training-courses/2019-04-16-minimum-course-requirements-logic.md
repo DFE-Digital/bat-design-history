@@ -1,7 +1,6 @@
 ---
 title: Logic mapping UCAS eligibility questions to API codes
 description: Which code should the API sent to UCAS based on a provider’s answers to questions.
-tags: publish-teacher-training-courses
 ---
 UCAS sets a status (1, 2, 3, 9 or n/a) for Maths, English and Science for each course. [This denotes who can apply](/publish-teacher-training-courses/specific-requirements).
 

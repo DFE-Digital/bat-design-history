@@ -1,7 +1,6 @@
 ---
 title: Onboarding workflow and wizard
 description: How does the onboarding process look after UCAS transition?
-tags: publish-teacher-training-courses
 ---
 ## Current process
 

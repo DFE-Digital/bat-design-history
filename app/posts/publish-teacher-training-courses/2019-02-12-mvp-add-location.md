@@ -1,7 +1,6 @@
 ---
 title: Minimum viable Add training location
 description: A replication of what’s available on UCAS. For if we don’t have time to build school autocompletes and other features, with everything else.
-tags: publish-teacher-training-courses
 ---
 A much simplified training location flow. It replicates what is available on UCAS, without any extras.
 

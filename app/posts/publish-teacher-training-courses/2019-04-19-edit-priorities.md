@@ -1,8 +1,7 @@
 ---
+layout: page
 title: In what order should we build the Edit screens?
 description: List edit screens with their complexity and priority.
-tags: publish-teacher-training-courses
-layout: page
 ---
 [Edit screen workflows in a Google Drawing](https://docs.google.com/drawings/d/1OrJYSTmRSJD2GEAWFnr2lXLNo7A9J9GDsPMQUm0Pi0M/edit) and the [new course flow](https://docs.google.com/drawings/d/1DAhz464j1XDyQPoOH0adIwAceUwuGU1rqsWkVn8ZQ8I/edit) for context.
 

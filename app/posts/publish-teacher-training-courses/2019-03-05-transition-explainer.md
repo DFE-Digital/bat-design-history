@@ -1,7 +1,6 @@
 ---
 title: Explaining transition
 description: A page transitioned organisations will see when they first log in.
-tags: publish-teacher-training-courses
 ---
 We’re communicating UCAS transition by email. Not everyone will read their email, and some of the new features will not be immediately obvious. The journey on UCAS’s side may not be ideal – we can’t rely on updated messaging or redirects.
 

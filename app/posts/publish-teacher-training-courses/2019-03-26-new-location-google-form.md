@@ -1,7 +1,6 @@
 ---
 title: New location as a Google form
 description: An MVP version of the location form we can ship with transition.
-tags: publish-teacher-training-courses
 ---
 Like [new courses](/publish-teacher-training-courses/new-course-google-form), we don’t expect to build the new location features in time for transition.
 

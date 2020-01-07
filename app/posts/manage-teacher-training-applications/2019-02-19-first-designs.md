@@ -9,7 +9,6 @@ related:
     href: https://bat-manage-teacher-training-applications.herokuapp.com/provider/v01/index
   - text: Original manage applications roadmap
     href: https://docs.google.com/spreadsheets/d/1n4HVUfgKdZXySAFh3KXdCqZ-Ru71DVt7RAxOvl_NO3Y
-tags: manage-teacher-training-applications
 ---
 A minimum viable service that could allow the providers to access and manage their ITT applications.
 
