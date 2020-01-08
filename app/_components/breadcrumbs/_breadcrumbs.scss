@@ -6,6 +6,7 @@ $app-breadcrumbs-inverted-border-colour: govuk-colour("light-blue");
   margin-top: #{govuk-spacing(4) * -1};
   padding: govuk-spacing(3) 0 govuk-spacing(2);
   border-bottom: 1px solid $app-breadcrumbs-inverted-border-colour;
+  color: $app-breadcrumbs-inverted-text-colour;
 
   @include mq ($from: tablet) {
     margin-top: #{govuk-spacing(6) * -1};
@@ -21,10 +22,7 @@ $app-breadcrumbs-inverted-border-colour: govuk-colour("light-blue");
   }
 
   a:link,
-  a:visited {
-    color: $app-breadcrumbs-inverted-text-colour;
-  }
-
+  a:visited,
   a:hover,
   a:active {
     color: $app-breadcrumbs-inverted-text-colour;
