@@ -24,6 +24,41 @@
 
 {% set mainClasses = mainClasses | default("govuk-main-wrapper--auto-spacing") %}
 
+{% block footer %}
+  <div class="app-dont-print">
+    {{ govukFooter({
+      navigation: [
+        {
+          title: "Team links",
+          columns: 1,
+          items: [
+            {
+              text: "Performance dashboard",
+              href: "https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt"
+            },
+            {
+              text: "Support playbook",
+              href: "https://docs.google.com/document/d/1SV2HWQgRM46dLLEEXHsGADqj1p04Vk6rOcC5VvbDa3A/edit"
+            },
+            {
+              text: "Support model",
+              href: "https://docs.google.com/document/d/1akzv0scmArgVtGcIqYstoQUTXXd823uQBd3SsFK1Ow8/edit"
+            },
+            {
+              text: "Wiki",
+              href: "https://dfedigital.atlassian.net/wiki/spaces/BaT/overview"
+            },
+            {
+              text: "Find team Trello",
+              href: "https://trello.com/b/fXA6ioZN/team-board-find-team"
+            }
+          ]
+        }
+      ]
+    }) }}
+  </div>
+{% endblock %}
+
 {% block bodyEnd %}
   {% block scripts %}
     <script src="/javascripts/govuk-frontend.js"></script>
