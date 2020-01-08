@@ -25,7 +25,7 @@
 {% set mainClasses = mainClasses | default("govuk-main-wrapper--auto-spacing") %}
 
 {% block footer %}
-  <div class="app-dont-print">
+  <div class="app-!-print-display-none">
     {{ govukFooter({
       navigation: [
         {

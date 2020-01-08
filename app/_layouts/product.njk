@@ -16,7 +16,7 @@
     image: image if image
   }) %}
     {{ govukBreadcrumbs({
-      classes: "app-dont-print",
+      classes: "app-!-print-display-none",
       items: breadcrumbs | breadcrumbs(app, page, title)
     }) if breadcrumbs != false }}
   {% endcall %}
