@@ -1,6 +1,11 @@
 {%- from "../embed/macro.njk" import appEmbed with context -%}
 {%- from "../image/macro.njk" import appImage with context -%}
 <figure class="app-figure">
+{% if params.title %}
+  <figcaption class="govuk-heading-m">
+    {{ params.title }}
+  </figcaption>
+{% endif %}
 {% if params.embed %}
   {{ appEmbed({
     placeholder: params.embed.placeholder,
