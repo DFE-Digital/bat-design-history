@@ -22,10 +22,8 @@ The green button takes users to the Find by location page.
 
 This design increased bounce rate on the page from 8% to 18% in the first weeks of September.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Courses starting in different years"},
     {text: "Iteration showing closing dates"}
