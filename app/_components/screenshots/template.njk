@@ -1,7 +1,7 @@
 {%- from "../figure/macro.njk" import appFigure with context -%}
-<section class="govuk-!-margin-top-9" id="screenshots">
-  <h2 class="govuk-heading-l">Screenshots</h2>
-  <ul class="govuk-list app-screenshots__contents">
+<section class="app-screenshots govuk-!-margin-top-9" id="screenshots">
+  <h2 class="govuk-heading-l app-dont-print">Screenshots</h2>
+  <ul class="govuk-list app-screenshots__contents app-dont-print">
     {% for item in params.items %}
       <li>
         <a href="#{{ item.id or (item.text | slug) }}">{{ item.text }}</a>
