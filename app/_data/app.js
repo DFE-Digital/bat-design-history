@@ -1,4 +1,4 @@
 module.exports = {
-  productName: 'Design History',
+  productName: 'Becoming a teacher design history',
   url: '/'
 }

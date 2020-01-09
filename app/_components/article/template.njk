@@ -1,24 +1,19 @@
 <article class="app-article">
   {% if params.header %}
   <header class="app-article__header">
-    <h1 class="app-article__title">{{ params.header.title }}</h1>
-    {% if params.header.description %}
-    <p class="app-article__description">{{ params.header.description }}</p>
-    {% endif %}
+    <h1 class="govuk-heading-xl">{{ params.header.title }}</h1>
   </header>
-  {% endif %}
-
-  {% if params.footer %}
-  <footer class="app-article__footer">
-    {% if params.footer.date %}
-    <p class="govuk-body">
-      <time datetime="{{ params.footer.date | date }}">{{ params.footer.date | date("d LLLL y") }}</time>
-    </p>
-    {% endif %}
-  </footer>
   {% endif %}
 
   <div class="app-article__body">
 {{- caller() if caller -}}
   </div>
+
+  {% if params.footer %}
+  <footer class="app-article__footer">
+    {% if params.footer.date %}
+      <time datetime="{{ params.footer.date | date }}">{{ params.footer.date | date("d LLLL y") }}</time>
+    {% endif %}
+  </footer>
+  {% endif %}
 </article>

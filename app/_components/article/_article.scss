@@ -1,28 +1,4 @@
-.app-article {
-  .app-prose {
-    @include govuk-responsive-margin(6, "top");
-  }
-}
-
-.app-article__header {
-  @include govuk-responsive-padding(2, "bottom");
-}
-
-.app-article__title {
-  @extend %govuk-heading-xl;
-  margin: 0 0 govuk-spacing(2);
-}
-
-.app-article__description {
-  @include govuk-font($size: 24);
-  color: $govuk-secondary-text-colour;
-  margin: 0 0 govuk-spacing(2);
-}
-
 .app-article__footer {
-  @include govuk-responsive-padding(2, "bottom");
-
-  time {
-    color: govuk-colour("dark-grey");
-  }
+  @include govuk-font($size: 19);
+  @include govuk-responsive-margin(9, "top");
 }
