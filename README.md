@@ -14,13 +14,6 @@ This repository makes it easy to:
 * print pages of designs
 * make designs shareable and linkable
 
-## To do
-
-- [x] Consider automating breadcrumbs
-- [x] Consider adding collection indexes
-- [x] Consider adding image resizing
-- [ ] Documentation
-
 ## Developing locally
 
 To see your changes without needing to restart the app you should use:
