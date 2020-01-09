@@ -16,11 +16,15 @@ module.exports = function (eleventyConfig) {
 
   // Template libraries
   let nunjucks = new Nunjucks.Environment(
-    new Nunjucks.FileSystemLoader([
-      'app/_components',
-      'app/_layouts',
-      'node_modules/govuk-frontend'
-    ]), {
+    new Nunjucks.FileSystemLoader(
+      [
+        'app/_components',
+        'app/_layouts',
+        'node_modules/govuk-frontend'
+      ], {
+        watch: true
+      }
+    ), {
       lstripBlocks: true,
       trimBlocks: true
     }
