@@ -1,20 +1,21 @@
 {
-  "name": "govuk-11ty",
-  "version": "0.0.1",
+  "name": "bat-design-history",
+  "version": "2.0.0",
   "private": true,
   "engines": {
     "node": "^10.0.0"
   },
-  "description": "Build websites using the GOV.UK design system and the Eleventy static site generator",
+  "description": "A history of the designs for the Find and Apply services",
   "keywords": [
+    "becoming-a-teacher",
     "govuk",
     "11ty"
   ],
   "author": "Paul Robert Lloyd",
   "license": "MIT",
-  "homepage": "https://govuk-11ty.herokuapp.com",
-  "repository": "github:paulrobertlloyd/govuk-11ty",
-  "bugs": "https://github.com/paulrobertlloyd/govuk-11ty/issues",
+  "homepage": "https://bat-design-history-v2.herokuapp.com",
+  "repository": "github:DFE-Digital/bat-design-history-v2",
+  "bugs": "https://github.com/DFE-Digital/bat-design-history-v2/issues",
   "main": "app.js",
   "scripts": {
     "prebuild": "rm -rf public/assets && mkdir -p public && mkdir -p public/javascripts",
