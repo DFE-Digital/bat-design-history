@@ -1,0 +1,59 @@
+.app-pagination {
+  @include govuk-font($size: 19);
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid $govuk-border-colour;
+  margin-bottom: govuk-spacing(4);
+  padding-top: govuk-spacing(4);
+
+  a {
+    padding: govuk-spacing(2);
+    text-decoration: none;
+  }
+
+  a:hover {
+    background-color: govuk-colour("light-grey");
+    text-decoration: underline;
+  }
+}
+
+.app-pagination__previous,
+.app-pagination__next {
+  flex-basis: 25%;
+  font-weight: bold;
+  margin: 0 #{govuk-spacing(2) * -1};
+  white-space: nowrap;
+}
+
+.app-pagination__previous {
+  svg {
+    margin-right: govuk-spacing(2);
+  }
+}
+
+.app-pagination__next {
+  text-align: right;
+
+  svg {
+    margin-left: govuk-spacing(2);
+  }
+}
+
+.app-pagination__pages {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  @include mq ($from: mobile) {
+    display: flex;
+  }
+
+  a {
+    padding: govuk-spacing(2) govuk-spacing(3);
+  }
+
+  a[aria-current] {
+    color: govuk-colour("dark-grey");
+  }
+}

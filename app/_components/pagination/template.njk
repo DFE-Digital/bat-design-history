@@ -1,0 +1,27 @@
+{%- if params.hrefs | length > 1 -%}
+<nav class="app-pagination" aria-label="pagination">
+  <div class="app-pagination__previous">
+  {%- if params.href.previous -%}
+    <a class="govuk-link--no-visited-state" href="{{ params.href.previous }}" rel="previous">
+      <svg xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewBox="0 0 17 13" aria-hidden="true" focusable="false">
+        <path fill="currentColor" d="M6.6 0L-.1 6.7l6.7 6.4L8 11.7l-4.2-4h12.9v-2h-13L8 1.4 6.6 0z"/>
+      </svg>Previous
+    </a>
+  {%- endif -%}
+  </div>
+  <ol class="app-pagination__pages">
+  {%- for href in params.hrefs -%}
+    <li><a class="govuk-link--no-visited-state" href="{{ href }}"{% if params.pageNumber == loop.index0 %} aria-current="page"{% endif %} aria-label="Go to page {{ forloop.index }}">{{ loop.index }}</a></li>
+  {%- endfor -%}
+  </ol>
+  <div class="app-pagination__next">
+  {%- if params.href.next -%}
+    <a class="govuk-link--no-visited-state" href="{{ params.href.next }}" rel="next">
+      Next<svg xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewBox="0 0 17 13" aria-hidden="true" focusable="false">
+        <path fill="currentColor" d="M10.1 0L8.7 1.4 13 5.7H0v2h12.9l-4.2 4 1.4 1.4 6.7-6.4L10.1 0z"/>
+      </svg>
+    </a>
+  {%- endif -%}
+  </div>
+</nav>
+{%- endif -%}
