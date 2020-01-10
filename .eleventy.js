@@ -22,7 +22,7 @@ module.exports = function (eleventyConfig) {
         'app/_layouts',
         'node_modules/govuk-frontend'
       ], {
-        watch: true
+        watch: process.env.NODE_ENV === 'development'
       }
     ), {
       lstripBlocks: true,
