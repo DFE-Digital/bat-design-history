@@ -8,6 +8,10 @@ related:
 breadcrumbs:
   text: Find postgraduate teacher training
   href: /find-teacher-training
-collection: find-teacher-training
+pagination:
+  data: collections.find-teacher-training
+  reverse: true
+  size: 50
+permalink: "find-teacher-training/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html"
 order: 1
 ---

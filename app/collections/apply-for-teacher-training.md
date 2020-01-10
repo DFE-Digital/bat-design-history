@@ -11,6 +11,10 @@ related:
       Username: `apply`
       Password: `bat`
     href: https://apply-beta-prototype.herokuapp.com/
-collection: apply-for-teacher-training
+pagination:
+  data: collections.apply-for-teacher-training
+  reverse: true
+  size: 50
+permalink: "apply-for-teacher-training/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html"
 order: 3
 ---
