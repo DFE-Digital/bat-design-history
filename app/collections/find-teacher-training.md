@@ -5,6 +5,10 @@ related:
   items:
   - text: Prototype
     href: https://search-and-compare-prototype.herokuapp.com/
+  - text: Team Trello
+    href: https://trello.com/b/fXA6ioZN/team-board-find-team
+  - text: Performance dashboard
+    href: https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt
 breadcrumbs:
   text: Find postgraduate teacher training
   href: /find-teacher-training
