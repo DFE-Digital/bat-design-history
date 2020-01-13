@@ -1,4 +1,14 @@
+.app-article__body {
+  @include govuk-responsive-margin(8, "bottom");
+
+  *:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .app-article__footer {
-  @include govuk-font($size: 19);
-  @include govuk-responsive-margin(9, "top");
+  @include govuk-font($size: 16, $line-height: 1.5);
+  border-top: 1px solid $govuk-border-colour;
+  padding-top: govuk-spacing(2);
+  max-width: 66%;
 }
