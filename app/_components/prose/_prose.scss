@@ -42,6 +42,12 @@
     max-width: 40rem;
   }
 
+  > blockquote {
+    @extend .govuk-inset-text;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   abbr {
     text-decoration: underline;
     text-decoration-style: dotted;
