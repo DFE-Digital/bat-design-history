@@ -43,6 +43,7 @@
     "express": "^4.17.1",
     "govuk-frontend": "^3.4.0",
     "http-server": "^0.12.1",
+    "lodash": "^4.17.15",
     "luxon": "^1.21.3",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^5.2.5",

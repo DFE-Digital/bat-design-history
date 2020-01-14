@@ -1,8 +1,8 @@
 {% if params.items.length > 0 %}
-  <ol class="app-document-list">
+  <ol class="app-document-list{%- if params.classes %} {{ params.classes }}{% endif %}">
   {% for item in params.items %}
     <li class="app-document-list__item">
-      <h2 class="app-document-list__item-title ">
+      <h2 class="app-document-list__item-title">
         <a class="govuk-link" href="{{ item.url | pretty }}">{{ item.data.title }}</a>
       </h2>
       {% if item.data.description %}
