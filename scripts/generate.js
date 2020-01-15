@@ -61,6 +61,7 @@ function getExistingImages () {
 
     var title = file.replace(/\.(png|jpg)$/, '').replace(/^\d{2}-/, '').replace(/-/g, ' ')
     var image = {
+      src: file,
       title: title.charAt(0).toUpperCase() + title.slice(1)
     }
     paths.push(image)
@@ -88,7 +89,7 @@ tags:
 
   paths.forEach(function (item, index) {
     template += `${index > 0 ? ', ' : ''}
-    { text: "${item.title}" }`
+    { text: "${item.title}", img: { src: "${item.src}" } }`
   })
 
   const filename = `${postDirectory}/${DateTime.local().toFormat('yyyy-MM-dd')}-${deepestDirectory}.md`

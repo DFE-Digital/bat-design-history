@@ -22,7 +22,7 @@
   }) | indent(2) }}
 {% endif %}
 {% if params.caption %}
-  <figcaption>
+  <figcaption class="app-figure__caption app-prose">
     {{ params.caption | markdown | safe }}
   </figcaption>
 {% endif %}
