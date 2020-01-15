@@ -12,45 +12,40 @@ Progression of the minimum requirements page design:
 * Remove table and switch to two questions
 * Split questions over two pages
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
-    file: "candidates-with-pending-gcses.png"
-  },
-  caption: "Question 1: Candidates with pending GCSEs"
-}) }}
-
-{{ appFigure({
-  image: {
-    path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
-    file: "tests-for-candidates-without-gcse-requirements.png"
-  },
-  caption: "Question 2: Tests for candidates without GCSE requirements"
-}) }}
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
+    {
+      text: "Question 1: Candidates with pending GCSEs",
+      img: {
+        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
+        src: "candidates-with-pending-gcses.png"
+      }
+    },
+    {
+      text: "Question 2: Tests for candidates without GCSE requirements",
+      img: {
+        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
+        src: "tests-for-candidates-without-gcse-requirements.png"
+      }
+    },
     {text: "Two questions"},
     {text: "Options in a table"},
     {text: "Explicitly reference UCAS"},
-    {text: "Pick an option, remove subject choice"}
+    {text: "Pick an option, remove subject choice"},
+    {
+      text: "Introduce options",
+      img: {
+        path: "/images/publish-teacher-training-courses/new-course-iteration",
+        src: "minimum-gcse-requirements.png"
+      }
+    },
+    {
+      text: "Original design",
+      img: {
+        path: "/images/publish-teacher-training-courses/minimum-requirements",
+        src: "minimum-course-requirements.png"
+      }
+    }
   ]
-}) }}
-
-{{ appFigure({
-  image: {
-    path: "/images/publish-teacher-training-courses/new-course-iteration",
-    file: "minimum-gcse-requirements.png"
-  },
-  caption: "Introduce options"
-}) }}
-
-{{ appFigure({
-  image: {
-    path: "/images/publish-teacher-training-courses/minimum-requirements",
-    file: "minimum-course-requirements.png"
-  },
-  caption: "Original design"
 }) }}
