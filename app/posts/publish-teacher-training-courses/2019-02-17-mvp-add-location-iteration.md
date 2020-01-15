@@ -17,10 +17,8 @@ This design tries to fix this by:
 
 Success messages after saving and edited have been added, these reinforce the message and give routes to editing courses.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Organisation"},
     {text: "Locations"},

@@ -18,10 +18,8 @@ Specifically we want to:
 * remind providers to publish their About your organisation section
 * avoid duplicate About this course sections
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "We’ve found problems with this course"},
     {text: "Problems with this course"}

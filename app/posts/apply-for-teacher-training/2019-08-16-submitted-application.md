@@ -6,10 +6,8 @@ Once a user has submitted at least one application, when they return to Apply th
 
 Candidates may also need to start a new application, or see what they originally submitted.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Applications"},
     {text: "Submitted application"}

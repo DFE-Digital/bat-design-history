@@ -106,10 +106,8 @@ Example course: [B60/X341](https://find-postgraduate-teacher-training.education.
 
 This option accepts all applicants, even if they have grades below a C.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Example warnings in UCAS apply"},
     {text: "Qualification options in UCAS"},

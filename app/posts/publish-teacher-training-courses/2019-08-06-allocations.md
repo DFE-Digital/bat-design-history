@@ -28,10 +28,8 @@ The link text, ‘request allocations’ might need to refer to ‘permission to
 
 [Requesting initial teacher training places: 2020 to 2021](https://www.gov.uk/government/publications/requesting-initial-teacher-training-places-2020-to-2021)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Allocations for a course"},
     {text: "Allocations for a fee-funded PE course"}

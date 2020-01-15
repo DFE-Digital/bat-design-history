@@ -16,10 +16,8 @@ Withdrawing is for taking down a course that shouldn’t be applied to. It shoul
 
 We need to test these assumptions with users.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Course that can be deleted"},
     {text: "Delete this course"},

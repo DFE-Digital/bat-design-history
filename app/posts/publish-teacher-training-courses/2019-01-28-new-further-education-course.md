@@ -56,10 +56,8 @@ How school placements work should be renamed to How placements work for FE cours
 
 As courses aren’t tied to allocations, the opening date for applications is arbitrary. “because this course is not subject to allocation restrictions, we know the course is going to run.” ([video](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=15m25.7s))
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "What type of course?"},
     {text: "What is the course title?"},

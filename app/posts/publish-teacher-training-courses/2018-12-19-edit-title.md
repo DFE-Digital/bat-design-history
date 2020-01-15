@@ -13,10 +13,8 @@ We tested this with the last user in our ‘New course wizard’ round of resear
 
 [University of East London](https://lookback.io/watch/8X5QYCPob8XmSAtbw)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Course title is ok"},
     {text: "Course title needs changes"}

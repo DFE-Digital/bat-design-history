@@ -2,8 +2,8 @@
 title: Apply – September 2019
 description: A full set of screens showing the design in mid-September.
 ---
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Your application"},
     {text: "Have you chosen a course to apply to"},

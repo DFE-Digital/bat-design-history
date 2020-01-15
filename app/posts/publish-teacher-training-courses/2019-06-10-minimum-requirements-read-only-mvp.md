@@ -8,10 +8,8 @@ Not showing the values of these settings to providers creates a risk – a provi
 
 To ship the read-only version of this feature earlier we updated the design. It will now show the UCAS codes (1, 2, 3 and 9) and the meanings of those codes.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Code 1 – Must have"},
     {text: "Code 2 – Taking"},

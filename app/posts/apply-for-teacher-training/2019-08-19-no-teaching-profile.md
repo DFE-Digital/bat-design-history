@@ -31,10 +31,8 @@ Once an application is submitted a new application can be started, where new cou
 
 This alternative creates a simpler application process that is also easier to build as an MVP for the upcoming pilots.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Application with courses"},
     {text: "Old dashboard"},

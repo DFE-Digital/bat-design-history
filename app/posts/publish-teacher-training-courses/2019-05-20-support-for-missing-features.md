@@ -20,10 +20,8 @@ In the place where a feature should be there’s no action and no confirmation t
 
 In the design below we add a call to action where the feature would be – ‘Request change’ rather than ‘Change’. This would take users to a focused support page and automatically fill in some of the known context for them.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Get support and guidance"},
     {text: "Request a change"},

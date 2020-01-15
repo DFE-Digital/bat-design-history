@@ -14,10 +14,8 @@ By splitting the page into tabs we:
 * separate fields that need publishing and those that publish immediately
 * reduce the length of the page
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "An unpublished course"},
     {text: "An unpublished course – Edit course details"},

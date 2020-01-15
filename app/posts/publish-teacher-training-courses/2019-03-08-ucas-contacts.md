@@ -45,10 +45,8 @@ The application alerts contact is captured when users asks to receive alerts.
 
 The GT12 reply to contact is captured when users edit their letter template.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "UCAS Apply settings"},
     {text: "UTT Correspondent"},

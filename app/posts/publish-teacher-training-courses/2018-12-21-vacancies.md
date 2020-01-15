@@ -28,10 +28,8 @@ When we tried removing the message about the UCAS Apply delay it wasn’t clear 
 * [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
 * [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Organisation table showing link to edit vacancies"},
     {text: "Multiple training locations"},

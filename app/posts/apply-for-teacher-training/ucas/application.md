@@ -2,8 +2,8 @@
 title: Application form
 description: Completing the UCAS application form
 ---
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     { text: "Welcome to UCAS teacher training"},
     { text: "Personal details"},

@@ -12,8 +12,6 @@ Progression of the minimum requirements page design:
 * Remove table and switch to two questions
 * Split questions over two pages
 
-## Screenshots
-
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
@@ -31,8 +29,8 @@ Progression of the minimum requirements page design:
   caption: "Question 2: Tests for candidates without GCSE requirements"
 }) }}
 
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Two questions"},
     {text: "Options in a table"},

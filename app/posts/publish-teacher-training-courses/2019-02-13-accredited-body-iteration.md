@@ -10,10 +10,8 @@ Update the design so that:
 * there’s a default list of accredited bodies they’ve worked with before – minimising the chance of choosing the wrong organisation
 * a new accredited provider can be used, if explicitly chosen
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Who is the accredited body?"},
     {text: "When there are no previous accredited bodies"},

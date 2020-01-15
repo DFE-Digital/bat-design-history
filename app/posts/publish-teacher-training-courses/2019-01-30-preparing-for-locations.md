@@ -14,10 +14,8 @@ Tidy up the organisation page by:
 
 We’re also testing a space for guidance in the right hand column
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Organisation"},
     {text: "Courses"},

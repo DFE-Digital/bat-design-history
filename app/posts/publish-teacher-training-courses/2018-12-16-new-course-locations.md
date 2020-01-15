@@ -12,10 +12,8 @@ UCAS models full time and part time on the training location. If a course is ful
 
 On the training locations list, if ‘full time or part time’ is chosen, then for each selected location we ask for more detail.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Training locations"},
     {text: "For a full or part time course"},

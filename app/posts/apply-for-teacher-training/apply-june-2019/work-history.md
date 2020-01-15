@@ -2,8 +2,8 @@
 title: Work history
 description: Adding work history and explaining gaps
 ---
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Work history"},
     {text: "5 year gap"},

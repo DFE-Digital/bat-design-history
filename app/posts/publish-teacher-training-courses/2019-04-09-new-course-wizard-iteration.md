@@ -8,10 +8,8 @@ Bring the wizard in line with changes made to the Google Form:
 * remove mention of ‘publishig’ from application open screen
 * ask about apprenticeships for Universities and SCITTs
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Is this a teaching apprenticeship?"},
     {text: "When will applications open?"},

@@ -45,10 +45,8 @@ If the course is marked as a special educational needs one, it’s appended to t
 
 ![New course workflow](/images/publish-teacher-training-courses/new-course/workflow.png)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Type of course"},
     {text: "Pick a subject"},

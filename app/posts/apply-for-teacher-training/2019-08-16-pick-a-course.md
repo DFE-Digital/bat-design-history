@@ -12,10 +12,8 @@ We’ll need to amend this design to include training locations too – some cou
 
 Users coming directly from Find could have a course pre-populated or added using a different flow, this hasn’t been designed yet.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Your application"},
     {text: "Have you chosen a course to apply to?"},

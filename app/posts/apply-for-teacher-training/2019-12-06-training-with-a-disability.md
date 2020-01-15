@@ -40,10 +40,8 @@ From a lawyer at EHRC we found out that:
 
 Essentially, we can ask questions if it’s regarding an applicant’s ability to do the activities outlined in this legislation.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Training with a disability"},
     {text: "Review when disability given"},

@@ -25,10 +25,8 @@ To skip the start page, the content on the Apply and Find start pages must be co
 
 [Google drawing](https://docs.google.com/drawings/d/1d30V3qtVYQNL_gWIMuGjgjm2doWMIDyIyYWchIKnPe8)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Choose how to apply"},
     {text: "Check you can use GOV.UK Apply"},

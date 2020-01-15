@@ -49,10 +49,8 @@ The practice recommended by UCAS of discontinuing a course and creating a new on
 
 [A discussion about alerts](https://lookback.io/watch/SnRd92det9Eeehb3w?t=14m40s)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Organisation page with new section"},
     {text: "Courses as an accredited body"},
