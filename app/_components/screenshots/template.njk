@@ -15,7 +15,7 @@
   <div class="app-screenshots__screenshot" id="{{ id }}">
     {{ appFigure({
       image: {
-        path: params.path,
+        path: params.path or item.img.path,
         file: file,
         alt: alt
       },
