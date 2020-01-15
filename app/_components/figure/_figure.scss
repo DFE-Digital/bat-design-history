@@ -19,12 +19,19 @@
     outline: 0;
   }
 
-  figcaption {
-    > *:not([class]) {
-      @include govuk-font($size: 16);
-      color: $govuk-secondary-text-colour;
+  .app-figure__caption {
+    @include govuk-font($size: 19);
+
+    h3 {
+      @extend %govuk-heading-s;
     }
 
+    hr {
+      @extend %govuk-section-break--m;
+    }
+  }
+
+  figcaption {
     > :last-child {
       margin-bottom: 0;
     }
