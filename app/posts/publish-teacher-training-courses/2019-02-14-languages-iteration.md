@@ -1,5 +1,5 @@
 ---
-title: Modern Languages – 5 February iteration
+title: "New course wizard: Languages – 5 February iteration"
 description: Simplify the fields for languages.
 ---
 Providers model their modern languages courses differently.

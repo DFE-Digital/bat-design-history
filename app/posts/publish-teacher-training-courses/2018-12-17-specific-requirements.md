@@ -1,5 +1,5 @@
 ---
-title: Specific course requirements
+title: Specific course requirements for UCAS Apply
 description: Documentation on minimum qualifications settings in UCAS web-link and apply.
 ---
 Providers can set specific requirements for their courses when setting up or editing their training programmes in UCAS web-link.

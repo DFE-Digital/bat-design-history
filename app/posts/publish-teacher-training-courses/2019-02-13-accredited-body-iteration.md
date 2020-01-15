@@ -1,5 +1,5 @@
 ---
-title: Accredited body – 5 February iteration
+title: "New course wizard: Accredited body – 5 February iteration"
 description: Remove one of the choices, and minimise the chance of error.
 ---
 The original choice between we are the accredited body versus another organisation is not a valid question. For School Direct they will always need an accredited body. For SCITTs and universities, they are accredited.
