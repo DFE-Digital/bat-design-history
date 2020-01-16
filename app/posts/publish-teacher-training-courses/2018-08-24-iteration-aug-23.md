@@ -1,9 +1,7 @@
 ---
 title: Iteration – 23 August
 description: Trying to bring ‘About your organisation’ into the user journey
-tags:
 ---
-
 In this iteration we:
 
 *   removed the horizontal navigation in favour of sections in the page

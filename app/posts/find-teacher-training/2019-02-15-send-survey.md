@@ -1,9 +1,8 @@
 ---
 title: SEND survey and updates
 description: Research and findings into courses with a SEND specialism
-tags: 
+tags: send
 ---
-
 A record of [this Google Doc](https://docs.google.com/document/d/1Cxu1X3SKwRWlVTIp5PAiiKsBUMi7YoeDIJxu-77uPzs/edit).
 
 We received feedback from a provider that we were falsely advertising SEND courses on the Find tool:

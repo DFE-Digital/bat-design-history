@@ -1,9 +1,7 @@
 ---
 title: Folded courses research 8 June 2018
 description: Testing study options in search results and on the course information page.
-tags:
 ---
-
 We tested a hypothesis around folding courses - eg salaried and unsalaried folded into one course listing and course detail page. (More on folding: ‘[What is a course?](/publish-teacher-training-courses/what-is-a-course)’, [folding detail](/publish-teacher-training-courses/imported-from-ucas))
 
 Course folding reduces the number of results per search and allows search results to surface more variety. Rather than English at Catholic Teach Alliance listed four or five times, it would be listed just once, allowing for the next course to be surfaced immediately, also making results fairer.

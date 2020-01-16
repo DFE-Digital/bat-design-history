@@ -1,9 +1,7 @@
 ---
 title: Maps for providers with many partner schools
 description: What does good look like for providers with many partner schools?
-tags:
 ---
-
 From research with providers we found that for courses offered by large SCITTs and universities we didn’t have enough data to accurately tell candidates the full story around location. This also applies to growing school direct alliances (for example [Trinity TSA](https://find-postgraduate-teacher-training.education.gov.uk/course/1YF/2QL9)).
 
 When we tested with these providers they compared their courses with those of a School Direct. A School Direct course usually has many training locations, leading to many points on a map for each course. These extra locations put School Direct courses closer to more users. In comparison, a university usually has one location – it's main campus, and a large SCITT will use a set of locations that represent many more schools.

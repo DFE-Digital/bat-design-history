@@ -1,9 +1,7 @@
 ---
 title: Terms agreement
 description: A user must agree to terms before enriching.
-tags:
 ---
-
 Before each user can begin enriching their course data we need them to agree to our terms and conditions.
 
 If a user isn’t part of an organisation, they will still see the [no organisation page](/publish-teacher-training-courses/no-known-organisation).

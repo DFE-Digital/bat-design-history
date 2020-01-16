@@ -1,9 +1,7 @@
 ---
 title: Success messaging
 description: Messages we show after a successful save or publish.
-tags:
 ---
-
 Designs for success messages shown after a successful save or publish.
 
 ## User needs

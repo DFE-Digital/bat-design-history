@@ -1,9 +1,7 @@
 ---
 title: Static failover service
 description: If we had to provide a site without any dynamic features, how would it look.
-tags:
 ---
-
 When there is a catastrophic failure with Find and the team’s not around to pair on fixing the issue (eg near Christmas when lots of people have leave), it’s desirable to have a way to meet user needs without dynamic code. For example some linked static pages that allow candidates to browse courses. Having a static failover would allow a simple disaster recovery process eg. flip the DNS to point to the static site.
 
 Below are designs for what this static failover might look like.

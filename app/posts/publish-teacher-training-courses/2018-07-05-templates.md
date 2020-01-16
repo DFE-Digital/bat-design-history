@@ -1,9 +1,7 @@
 ---
 title: Templates
 description: Use templates to share information between courses.
-tags:
 ---
-
 A first pass at providing users with a template function.
 
 [BATSA-402](https://dfedigital.atlassian.net/browse/BATSA-402)

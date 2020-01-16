@@ -1,9 +1,7 @@
 ---
 title: Experimental new course wizard
 description: Breaking down data required for each course into a page-per-thing wizard.
-tags:
 ---
-
 First attempts at a ‘one thing per page’ approach to creating a course.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

@@ -1,9 +1,7 @@
 ---
 title: A university’s view
 description: Universities are the simplest provider. There are no schools to apply to and no course folding.
-tags:
 ---
-
 Universities are the simplest provider. There are no schools to apply to and [no course folding](/publish-teacher-training-courses/imported-from-ucas).
 
 * remove schools link in header

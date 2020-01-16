@@ -1,9 +1,7 @@
 ---
 title: UCAS course status
 description: An iteration on the onboarding design (read-only) to include course status.
-tags:
 ---
-
 We show all UCAS courses rather than just the published ones. This means we are displaying courses that should go live but also those which have been suspended. Users need to see the status of their courses so they know what will be shown to candidates. The status needs to match the UCAS status.
 
 Add a status column to the course table, and add a row to the metadata on the course detail page.

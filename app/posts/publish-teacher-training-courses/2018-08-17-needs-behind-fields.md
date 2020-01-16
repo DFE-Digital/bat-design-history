@@ -1,9 +1,7 @@
 ---
 title: Fields we ask for and why
 description: Documentation of needs around each course field
-tags:
 ---
-
 Courses are divided across 3 parts to make them easier to complete:
 
 * About this course

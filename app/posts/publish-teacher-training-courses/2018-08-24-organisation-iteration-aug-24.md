@@ -1,9 +1,7 @@
 ---
 title: Iteration – 24 August
 description: Split homepage into tasks, Step 1 and Step 2
-tags:
 ---
-
 The [previous iteration](/publish-teacher-training-courses/iteration-aug-23) which placed a new emphasis on ‘About your organisation’ on the homepage tested well.
 
 In this design we:

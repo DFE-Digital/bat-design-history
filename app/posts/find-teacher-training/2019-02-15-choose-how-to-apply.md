@@ -1,9 +1,7 @@
 ---
 title: Choose how to apply
 description: User journey into UCAS or new Apply service
-tags:
 ---
-
 Initial designs to test the impact of giving candidates a choice on how they should apply.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

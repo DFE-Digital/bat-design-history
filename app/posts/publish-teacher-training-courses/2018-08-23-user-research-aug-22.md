@@ -1,9 +1,7 @@
 ---
 title: User research – 22 August
 description: Testing markdown, SimpleMDE and publishing workflow
-tags:
 ---
-
 In August we’ve struggled to find providers to test with, because schools are on holiday and universities are very busy.
 
 We tested this design with 3 providers:

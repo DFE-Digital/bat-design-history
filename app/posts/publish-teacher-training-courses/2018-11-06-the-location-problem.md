@@ -1,9 +1,7 @@
 ---
 title: The location problem
 description: Location is a complex issue, we begin to break it down.
-tags:
 ---
-
 We know that different providers treat location differently. A provider might:
 
 * list all of their schools as training locations on one course

@@ -3,7 +3,6 @@ title: Results on a map – Full screen
 description: First pass at showing courses on a full screen map.
 tags: maps
 ---
-
 A first pass at putting search results on a full-width map.
 
 By putting results on a map it should be:

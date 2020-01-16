@@ -3,7 +3,6 @@ title: UCAS teacher training (search)
 description: Screenshots of the UCAS service that Find replaced
 tags: ucas
 ---
-
 Screenshots of the UCAS search tool that Find postgraduate teacher training replaced in 2018.
 
 UCAS search gave each user a unique session that lasted only 5 minutes. After 5 minutes of inactivity a user needed to start again.

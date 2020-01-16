@@ -1,9 +1,7 @@
 ---
 title: Enrichment release – 6 September
 description: Publish courses, as it was released with the course enrichment feature.
-tags:
 ---
-
 Screenshots of Publish courses (manage-courses-ui) as released on 6 September.
 
 This is what the service looked like when we enabled organisation and course enrichment for the first time.

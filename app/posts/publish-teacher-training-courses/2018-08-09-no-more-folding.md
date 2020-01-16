@@ -1,9 +1,7 @@
 ---
 title: No more course folding
 description: Reasoning behind not folding courses and unfolded course designs.
-tags:
 ---
-
 We defined folding as the combination of ‘course variants’ by subject, eg PGCE with QTS, QTS only, salaried and unsalaried would all show as one search result and course detail page.
 
 The [logic around course folding](/publish-teacher-training-courses/imported-from-ucas) was established in a [design with data exercise](/publish-teacher-training-courses/what-is-a-course). We then sought to validate these designs in user research with training providers and applicants.

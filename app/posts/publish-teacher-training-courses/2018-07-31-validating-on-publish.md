@@ -1,9 +1,7 @@
 ---
 title: Validating on publish
 description: How validation works when a user tries to publish without the required fields.
-tags:
 ---
-
 Users need to save without all required fields being present so they’re not obstructed when completing their course listing. We’ve observed users filling them in piecemeal. For example, they may require information from an accrediting provider, or if they’re copying content from their previous UCAS listings or course website – they may not have existing text for one of the new fields, a field they plan to come back to. Leaving a field blank is preferable and less error prone than forcing them to enter ‘TBC’ or something similar.
 
 When publishing we need to validate that all the required parts are present. When fields aren’t present we need to prompt users to go back to those fields and complete them.

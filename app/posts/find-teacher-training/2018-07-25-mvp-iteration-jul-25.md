@@ -1,9 +1,7 @@
 ---
 title: Just the UCAS data – 25 July iteration
 description: Tweaks to the minimum viable service including improved subject selection.
-tags:
 ---
-
 Improvements to the [minimum viable service](/find-teacher-training/all-courses-minimum) include:
 
 *   separating and classifying UCAS course subjects

@@ -1,9 +1,7 @@
 ---
 title: When a user isn’t recognised
 description: Designs for when a user’s email isn’t in our whitelist.
-tags:
 ---
-
 If a user signs up who isn’t on our whitelist we don’t know much about them. We can’t give them access to anyone’s courses. We need to know which organisation they should be part of and then validate that.
 
 This can happen if the invite email gets shared or forwarded, or if the user’s email address is different to the one we emailed.

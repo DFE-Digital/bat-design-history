@@ -1,9 +1,7 @@
 ---
 title: Formatting
 description: Paragraphs, lists and links.
-tags:
 ---
-
 From user research we’ve found that users need to format their text using paragraphs, lists and links.
 
 Most users have naturally formatted their content into paragraphs without further guidance. They assume that paragraphs will just work.
