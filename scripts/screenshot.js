@@ -118,7 +118,9 @@ tags:
 
   paths.forEach(function (item, index) {
     template += `${index > 0 ? ', ' : ''}
-    { text: "${item.title}" }`
+    {
+      text: "${item.title}"
+    }`
   })
 
   const filename = `${postDirectory}/${DateTime.local().toFormat('yyyy-MM-dd')}-${deepestDirectory}.md`
