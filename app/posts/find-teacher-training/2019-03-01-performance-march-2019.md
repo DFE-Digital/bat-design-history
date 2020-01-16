@@ -19,7 +19,7 @@ For the first iteration of this report, we’ll use the following structure to o
 * the percentage of users who have experienced a successful journey
 * those that convert from Find to UCAS registration.
 
-You can [see the live report in our dashboard](https://datastudio.google.com/open/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt).
+You can [see the live report in our dashboard](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt).
 
 ### Contents
 
@@ -82,4 +82,4 @@ From our usage reports and success measures, we’re getting a sense of what we 
 
 In future weeks, we’ll start reporting on some of the more behavioural trends coming out of our analytics. This should start to give you some insight, not only into whether users are successful in their journey, but also how they navigate the service. For example, where they are looking to train, in which subjects and at what pace.
 
-In the meantime, feel free to [keep an eye on our dashboards](https://datastudio.google.com/open/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt) and start familiarising yourself with some of the ways we’re looking at service performance.
+In the meantime, feel free to [keep an eye on our dashboards](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt) and start familiarising yourself with some of the ways we’re looking at service performance.

@@ -16,7 +16,7 @@ It is worth noting that, given the limitations of Google Analytics (we cannot vi
 
 One thing we would like to explore as a team is whether there are other Big Data tools out there that might be able to give us a slightly more granular and malleable view of our service performance data.
 
-You can [see the live report in our dashboard](https://datastudio.google.com/open/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt).
+You can [see the live report in our dashboard](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt).
 
 ### Contents
 
@@ -97,4 +97,4 @@ We will card up the above improvements and research hypotheses, recruit users th
 
 Furthermore, as the recruitment cycle comes to a close, and schools close for the summer, our next report will be a look back across the past year. We will use apply data to provide an overview of how the two services have performed in tandem and reflect on the changes we have made to finding postgraduate teacher training courses.
 
-In the meantime, feel free to [keep an eye on our dashboards](https://datastudio.google.com/open/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt) and start familiarising yourself with some of the ways we’re looking at service performance.
+In the meantime, feel free to [keep an eye on our dashboards](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt) and start familiarising yourself with some of the ways we’re looking at service performance.

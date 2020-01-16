@@ -61,7 +61,7 @@ The design worked without any supporting copy. The separation of organisations w
 
 Original story: [BATSA-401](https://dfedigital.atlassian.net/browse/BATSA-401)
 
-When running the prototype, set \`multi-organisation\` to true in [prototype\_data.json](https://github.com/fofr/manage-courses-prototype/blob/master/lib/prototype_data.json#L2)
+When running the prototype, set \`multi-organisation\` to true in [prototype\_data.json](https://github.com/DFE-Digital/manage-courses-prototype/blob/master/lib/prototype_data.json#L2)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

@@ -13,7 +13,7 @@ On 2 October 2018 we launched the public beta of Find posgraduate teacher traini
       text: "GOV.UK start page",
       img: { src: "govuk-start-page.png" },
       caption: '
-[Go to GOV.UK start page](https://www.gov.uk/guidance/find-postgraduate-teacher-training-courses-in-england)
+[Go to GOV.UK start page](https://www.gov.uk/find-postgraduate-teacher-training-courses)
 
 This is published as a guidance page using Whitehall, rather than a standard service page such as [Check your state pension age](https://www.gov.uk/state-pension-age). This was because the service wasn’t ‘mainstream’, while it also gave DfE greater control over the content.
 

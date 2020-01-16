@@ -37,7 +37,7 @@ In the next cycle we had to indicate that:
 
 [A write up of Publishing during rollover](/publish-teacher-training-courses/publishing-during-rollover)
 
-Once the rollover period was enabled and providers could see two cycles, we notified users by email and with [a screen after logging in](https://github.com/DFE-Digital/manage-courses-frontend/pull/430).
+Once the rollover period was enabled and providers could see two cycles, we notified users by email and with [a screen after logging in](https://github.com/DFE-Digital/publish-teacher-training/pull/430).
 
 At the end of rollover we considered whether to allow read-only access to the 2019 cycle. This was a lot to build, and we weren’t sure of the needs. Instead we removed all access with the intention of adding a link to previous cycles if a need arose. As of mid-October, no one has requested to see last year’s courses.
 
@@ -51,11 +51,11 @@ There are 3 settings in manage-courses-frontend:
 
 When starting rollover, once all content has been copied, the rollover flag is switched to true.
 
-When ending rollover, ie when the current cycle ends, the next cycle is promoted to be the current one – the year is increased, rollover is false and the current_cycle_open flag is switched to false. (see this [commit](https://github.com/DFE-Digital/manage-courses-frontend/pull/657/commits/c8b85d5bbd2bf27d497e431dbb12a2379bebb7c4) in a related [pull request](https://github.com/DFE-Digital/manage-courses-frontend/pull/657))
+When ending rollover, ie when the current cycle ends, the next cycle is promoted to be the current one – the year is increased, rollover is false and the current_cycle_open flag is switched to false. (see this [commit](https://github.com/DFE-Digital/publish-teacher-training/pull/657/commits/c8b85d5bbd2bf27d497e431dbb12a2379bebb7c4) in a related [pull request](https://github.com/DFE-Digital/publish-teacher-training/pull/657))
 
-When the cycle opens, the cycle is marked as open ([Pull request](https://github.com/DFE-Digital/manage-courses-frontend/pull/666))
+When the cycle opens, the cycle is marked as open ([Pull request](https://github.com/DFE-Digital/publish-teacher-training/pull/666))
 
-[Rollover settings on Github](https://github.com/DFE-Digital/manage-courses-frontend/blob/baeaf4f28a51dea68c05f7641b03d65f831ecaf0/config/settings.yml#L46-L48)
+[Rollover settings on Github](https://github.com/DFE-Digital/publish-teacher-training/blob/baeaf4f28a51dea68c05f7641b03d65f831ecaf0/config/settings.yml#L46-L48)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
