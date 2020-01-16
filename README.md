@@ -1,6 +1,6 @@
 # Becoming a teacher design history
 
-https://bat-design-history-v2.herokuapp.com/
+https://bat-design-history.herokuapp.com/
 
 The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.io) static site generator.
 
@@ -19,3 +19,10 @@ This repository makes it easy to:
 To see your changes without needing to restart the app you should use:
 
 `npm run watch`
+
+## Legacy
+
+This design history replaces an earlier version based on the govuk-prototype-kit:
+
+* https://github.com/DFE-Digital/bat-design-history-old
+* https://bat-design-history-old.herokuapp.com/
