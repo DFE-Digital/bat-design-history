@@ -24,13 +24,14 @@ app.all('/apply-teacher-training/:path', function (req, res) {
 
 app.get('/image/:size/*.:ext', (req, res) => {
   const format = req.params.ext
+  const allowedFormats = ['heic', 'heif', 'jpeg', 'jpg', 'png', 'raw', 'tiff', 'webp']
 
   // Calculate path to image file on disk
   const imagePath = req.path.replace(/image\/(\d+)(x)?(\d+)?/i, 'images')
   const image = path.join(staticDir, imagePath)
 
   // Don’t resize SVG images
-  if (format === 'svg') {
+  if (!allowedFormats.includes(format)) {
     res.redirect(imagePath)
     return
   }

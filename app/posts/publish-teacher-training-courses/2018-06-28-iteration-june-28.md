@@ -24,19 +24,19 @@ We clarified which fields were optional and refined the preview to hide incomple
   items: [
     {
       text: "PGCE with QTS course option",
-      img: { src: "PGCE%20with%20QTS%20course%20option.png" }
+      img: { src: "pgce-with-qts-course-option.png" }
     },
     {
       text: "QTS with salary course option",
-      img: { src: "QTS%20with%20salary%20course%20option.png" }
+      img: { src: "qts-with-salary-course-option.png" }
     },
     {
       text: "About your organisation",
-      img: { src: "About%20your%20organisation.png" }
+      img: { src: "about-your-organisation.png" }
     },
     {
       text: "Requirements and eligibility",
-      img: { src: "Requirements%20and%20eligibility.png" }
+      img: { src: "requirements-and-eligibility.png" }
     },
     {
       text: "Preview",

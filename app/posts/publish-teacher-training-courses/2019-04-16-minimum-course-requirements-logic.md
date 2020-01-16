@@ -39,7 +39,7 @@ A user can select Yes to equivalency tests but can restrict this by subject (see
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
+  path: "/images/publish-teacher-training-courses/new-course-wizard-iteration-9-apr",
   items: [
     {text: "Question 1", id: "candidates-with-pending-gcses"},
     {text: "Question 2", id: "tests-for-candidates-without-gcse-requirements"}

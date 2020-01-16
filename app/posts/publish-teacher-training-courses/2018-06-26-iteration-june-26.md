@@ -27,22 +27,20 @@ We set up 6 unmoderated research sessions with providers where we asked them to 
     },
     {
       text: "PGCE with QTS course option",
-      img: { src: "PGCE%20with%20QTS%20course%20option.png" },
-      caption: '
-In large text boxes it is not clear what formatting, if any, a user can put in. We’ve seen users assume that paragraphs and lists are accepted.
-      '
+      img: { src: "pgce-with-qts-course-option.png" },
+      caption: "In large text boxes it is not clear what formatting, if any, a user can put in. We’ve seen users assume that paragraphs and lists are accepted."
     },
     {
       text: "QTS with salary course option",
-      img: { src: "QTS%20with%20salary%20course%20option.png" }
+      img: { src: "qts-with-salary-course-option.png" }
     },
     {
       text: "About your organisation",
-      img: { src: "About%20your%20organisation.png" }
+      img: { src: "about-your-organisation.png" }
     },
     {
       text: "Requirements and eligibility",
-      img: { src: "Requirements%20and%20eligibility.png" }
+      img: { src: "requirements-and-eligibility.png" }
     },
     {
       text: "Preview",

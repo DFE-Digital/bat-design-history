@@ -91,7 +91,7 @@ Users saw and interacted with these links, but this didn’t prevent an initial 
     },
     {
       text: "Course details",
-      img: { src: "course-details.png" },
+      img: { src: "full-course-details.png" },
       caption: ''
     },
     {

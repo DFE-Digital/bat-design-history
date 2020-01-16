@@ -15,8 +15,13 @@ The original design only catered for the dominant use case. For MVP we can ask f
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {text: "Pick the languages for this course"},
-    {text: "Original design"}
-  ]
+  items: [{
+    text: "Pick the languages for this course"
+  }, {
+    text: "Original design",
+    img: {
+      path: "/images/publish-teacher-training-courses/new-course-iteration-14-jan",
+      src: "pick-languages.png"
+    }
+  }]
 }) }}
