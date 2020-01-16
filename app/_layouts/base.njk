@@ -1,5 +1,7 @@
 {% extends "govuk/template.njk" %}
 
+{% set htmlClasses = 'no-js' %}
+
 {% from "header/macro.njk" import appHeader %}
 {% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
 
@@ -29,6 +31,9 @@
     {{ govukFooter({
       meta: {
         items: [{
+          text: "Sitemap",
+          href: "/sitemap"
+        }, {
           text: "Support playbook",
           href: "https://docs.google.com/document/d/1SV2HWQgRM46dLLEEXHsGADqj1p04Vk6rOcC5VvbDa3A/edit"
         }, {
