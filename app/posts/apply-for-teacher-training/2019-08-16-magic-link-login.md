@@ -10,10 +10,8 @@ Users had trouble with accounts:
 * some didn’t know why they were making an account
 * Only ask for an email address, and explain why we need it.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Start page"},
     {text: "Before you begin"},

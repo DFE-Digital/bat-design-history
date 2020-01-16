@@ -18,10 +18,8 @@ In this MVP version we’ve descoped:
 
 The course tabs shown below are also illustrative and may not be ready.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Transition screen"},
     {text: "Organisation page with locations"},

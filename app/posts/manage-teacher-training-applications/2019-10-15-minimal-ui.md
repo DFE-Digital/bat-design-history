@@ -53,10 +53,8 @@ Providers also like to make informal recommendations to candidates, such as the 
 
 With this in mind, we consolidated the two offer types into one, allowing providers to make (non-binding) recommendations and (binding) academic conditions, alongside the standard conditions in a single offer.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Applications"},
     {text: "Application"},

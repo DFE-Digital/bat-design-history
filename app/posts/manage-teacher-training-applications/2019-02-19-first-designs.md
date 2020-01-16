@@ -16,10 +16,8 @@ Only admins have access to the system/applications. The providers manage the wor
 
 The applciations themselves are tagged to various statuses that the admins can use to track the progress on any application.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Dashboard"},
     {text: "New applications"},

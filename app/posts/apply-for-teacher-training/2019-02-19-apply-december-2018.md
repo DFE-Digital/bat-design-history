@@ -11,8 +11,8 @@ related:
 ---
 Our designer Faz looked at capturing the same fields needed in the UCAS process but by using the GOV.UK design patterns.
 
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Apply landing page"},
     {text: "Create an account"},

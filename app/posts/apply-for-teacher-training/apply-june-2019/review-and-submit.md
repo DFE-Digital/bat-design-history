@@ -2,8 +2,8 @@
 title: Review and submit
 description: See what you’ve entered, interview preferences and submission
 ---
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Review application"},
     {text: "Interview preferences"},

@@ -12,10 +12,8 @@ In this design we:
 * use ‘Close applications’ and ‘Re-open applications’ button text for clarity
 * move the Find and Apply messaging above the button to prevent it being missed
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Close course (one training location)"},
     {text: "Open course (one training location)"},

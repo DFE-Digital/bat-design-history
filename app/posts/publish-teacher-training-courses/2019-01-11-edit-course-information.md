@@ -40,10 +40,8 @@ The new design:
 * removes the ‘View on website’ section, replaced with ‘Is it on Find?’
 * moves the audit trail (eg when published, when saved) details to the bottom
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Published course"},
     {text: "Published with unpublished changes"},

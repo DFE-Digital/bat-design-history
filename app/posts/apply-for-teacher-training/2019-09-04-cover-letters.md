@@ -17,10 +17,8 @@ Base cover letters on the name of the provider. If there’s multiple courses fo
 * Remove subject knowledge
 * Rename as cover letter
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Your application"},
     {text: "Cover letter"},

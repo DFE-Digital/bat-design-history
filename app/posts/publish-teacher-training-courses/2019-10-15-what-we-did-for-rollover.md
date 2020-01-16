@@ -57,10 +57,8 @@ When the cycle opens, the cycle is marked as open ([Pull request](https://github
 
 [Rollover settings on Github](https://github.com/DFE-Digital/manage-courses-frontend/blob/baeaf4f28a51dea68c05f7641b03d65f831ecaf0/config/settings.yml#L46-L48)
 
-## How this looked
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Before rollover period"},
     {text: "During rollover period"},

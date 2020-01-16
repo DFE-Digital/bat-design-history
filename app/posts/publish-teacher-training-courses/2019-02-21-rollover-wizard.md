@@ -47,10 +47,8 @@ This is more in keeping with the way UCAS has done rollover until now. It also g
 
 We would need to think of another way to encourage providers to review and fix their courses for the next cycle.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Organisation with rollover prompt"},
     {text: "Start rollover"},

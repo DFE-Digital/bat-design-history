@@ -16,10 +16,8 @@ The link must be unique, the URL must contain enough information for us to know 
 
 It’ll probably use a token and behave similarly to the magic link we send for sign in.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   layout: false,
   items: [{
     text: "Start page",

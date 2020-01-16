@@ -2,8 +2,8 @@
 title: Personal details
 description: Adding name, nationality and visas
 ---
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Dashboard"},
     {text: "Personal teaching profile"},

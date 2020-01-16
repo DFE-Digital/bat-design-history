@@ -36,10 +36,8 @@ The biggest support requests have been for:
 
 Some providers have been using the add course form to try and edit existing courses.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Transition information"},
     {text: "Organisation"},

@@ -2,10 +2,9 @@
 title: Requesting a title
 description: What happens when a provider asks for a custom title.
 ---
-## Screenshots
 
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [{
     text: "Confirming a course with requested title",
     caption: "This shows a ‘requested title’, which is also shown in the preview. We probably also need to include the current title somewhere."

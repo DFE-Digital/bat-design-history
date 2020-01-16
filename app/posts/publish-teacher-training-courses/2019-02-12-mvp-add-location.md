@@ -8,10 +8,8 @@ This design represents a baseline we could build first. We’d then iterate towa
 
 We’d also avoid having to categorise existing locations into types, though doing this at rollover might be the only appropriate time.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Add training location"},
     {text: "Edit training location"},

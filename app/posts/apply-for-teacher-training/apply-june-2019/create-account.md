@@ -2,8 +2,8 @@
 title: Create account
 description: Sign up, sign in, recover password and dashboard
 ---
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Start page"},
     {text: "Create an account"},

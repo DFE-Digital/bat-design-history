@@ -2,8 +2,8 @@
 title: Sign up
 description: Registering for UCAS Teacher Training
 ---
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Welcome"},
     {text: "Terms and conditions"},

@@ -20,10 +20,8 @@ Provide a list of the most common age ranges as published on [ITT criteria and s
 
 We can’t easily map existing UCAS data to age range. We should ask for it again for all courses.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Primary age ranges"},
     {text: "Secondary age ranges"}

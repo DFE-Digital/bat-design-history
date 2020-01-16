@@ -42,8 +42,8 @@ While there are two cycles, providers need to easily manage courses and location
 
 ## First designs
 
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Start rollover"},
     {text: "Pick which courses"},

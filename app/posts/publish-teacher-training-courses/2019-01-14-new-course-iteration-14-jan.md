@@ -11,10 +11,8 @@ In this iteration we changed:
 * Title in main wizard flow
 * Accredited body title tweaks
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "What type of course?"},
     {text: "Pick a subject"},

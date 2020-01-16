@@ -60,10 +60,8 @@ See also this [LGBT survey](https://equalities.blog.gov.uk/2017/09/29/lgbtsurvey
 
 The design system provides a [complete pattern for collecting ethnicity information](https://design-system.service.gov.uk/patterns/ethnic-group/) that we have reused.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Equality monitoring"},
     {text: "What is your sex?"},

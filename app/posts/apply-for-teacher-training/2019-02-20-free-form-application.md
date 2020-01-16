@@ -23,10 +23,8 @@ Candidates want to express more about themselves than just giving mandatory data
 * Providers found that the application contents are not detailed enough for them to make a decision on the application
 * Providers need factual data about the education and work
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Your application"},
     {text: "Personal details"},

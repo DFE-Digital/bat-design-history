@@ -35,10 +35,8 @@ Bring the alert preference and the email the alerts are sent to together. When a
 
 For this to propagate to UCAS it needs to be sent through as the email for the UTT Output correspondent in the API.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     { text: "Organisation"},
     { text: "UCAS Apply preferences"},

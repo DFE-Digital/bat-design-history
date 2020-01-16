@@ -24,14 +24,11 @@ The link to request allocations will point to a Google form, responses will be s
 
 The link text, ‘request allocations’ might need to refer to ‘permission to recruit’. We’ve opted for allocations for now because this gives the impression of asking for a number of places, versus permission which is either true or false.
 
-## Guidance on GOV.UK
-
+Guidance on GOV.UK:
 [Requesting initial teacher training places: 2020 to 2021](https://www.gov.uk/government/publications/requesting-initial-teacher-training-places-2020-to-2021)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Allocations for a course"},
     {text: "Allocations for a fee-funded PE course"}

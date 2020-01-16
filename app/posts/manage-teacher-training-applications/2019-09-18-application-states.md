@@ -51,10 +51,8 @@ An unconditional offer (which would be ‘Accepted (unconditional)’) goes stra
 * Offer rejected – candidate was made an offer but refused
 * Declined by default – candidate didn’t respond to offer in time
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Applications"},
     {text: "New applications"},

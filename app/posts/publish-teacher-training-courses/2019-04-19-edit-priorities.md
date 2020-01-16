@@ -42,10 +42,8 @@ Further education screens are probably out of scope for MVP.
 | [Title](#title) | Changes to titles need to be approved | Medium | High | No |
 | [Confirm changes](#confirm-your-change) | All edits must be summarised before confirming | High | High | -- |
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Level and SEND"},
     {text: "Subject"},

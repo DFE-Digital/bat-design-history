@@ -10,10 +10,8 @@ When selecting a conditional offer, a provider needs to list conditions. On UCAS
 
 This design presents a list of boxes to prompt conversation about what might go in them, lists of conditions, reuse of conditions and number of conditions. It’s not the final design.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Change status"},
     {text: "Make an offer"}

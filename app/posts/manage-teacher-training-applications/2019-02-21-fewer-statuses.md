@@ -25,10 +25,8 @@ The team thought the statuses were not relevant so came up with a minimal set of
 * Rejected - contentious topic!
 * need more options to reflect real life scenarios (No places, Not suitable for teaching, Eligibility (no evidence), No show, No time to meet conditions)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Dashboard"},
     {text: "New applications"},

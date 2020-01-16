@@ -15,10 +15,8 @@ A user flow where a candidate creates an application in bits as and when require
 * Candidates felt a need to sell themselves more to the providers and hence needed more space to express themselves
 * Asking the mandatory data like Work Experience after the interview was illogical in the candidates perspective
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Your application"},
     {text: "Your application (expanded)"},

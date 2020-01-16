@@ -6,10 +6,8 @@ Like [new courses](/publish-teacher-training-courses/new-course-google-form), we
 
 As an MVP, and so that providers can still add locations when they need to, we’ve mirrored the page as a Google Form. We can ask the same questions and capture what we need, trigger a support request and then manually create what is asked for.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Locations with link to Google form"},
     {text: "Who is adding?"},

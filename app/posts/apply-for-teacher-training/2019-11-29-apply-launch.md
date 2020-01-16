@@ -20,10 +20,8 @@ On 26 November 2019 we launched the initial Apply pilot with one provider, Royal
 * Amending contact details (can do via support)
 * Withdrawing your application (can do via support)
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [{
     text: "Start page",
     id: "01-start-page"

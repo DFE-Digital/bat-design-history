@@ -37,10 +37,8 @@ A user can select Yes to equivalency tests but can restrict this by subject (see
 
 \* It’s possible to make an invalid choice – UCAS doesn’t allow you to receive applications from candidates needing to take an equivalency test if you’ve blocked applications from candidates with pending GCSEs. In this case we need to warn the user with a validation message.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
   items: [
     {text: "Question 1", id: "candidates-with-pending-gcses"},

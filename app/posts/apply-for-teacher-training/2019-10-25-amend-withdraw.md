@@ -22,10 +22,8 @@ Changes made as part of this work included:
 
 The business logic dictates that a candidate has 5 working days after submitting their application during which they can submit changes. This period will typically be 7 days, but longer if there are bank holidays. To avoid adding complexity, we decided to always show the date an application needs to be resubmitted alongside the number of calendar days remaining (calculated by counting back from that date).
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [{
     id: "dashboard-submitted",
     text: "Dashboard post submission (within amendment period)"

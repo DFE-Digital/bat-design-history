@@ -73,10 +73,8 @@ We probably need a way for providers to preview their course after it’s been p
 
 The preview links could persist on the course page and not be dependent on the course’s state.
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: "Courses for next cycle"},
     {text: "Draft course with publish messaging"},

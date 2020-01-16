@@ -18,10 +18,8 @@ In future we’ll look at:
 * letting support agents filter or sort the list of applications
 * add pagination to the application list
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [
     {text: 'Application list'},
     {text: 'Application details (1 reference request failed and waiting on 1 reference)'},

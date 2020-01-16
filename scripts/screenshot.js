@@ -107,10 +107,8 @@ description:
 tags:
 ---
 
-## Screenshots
-
-{% from "gallery/macro.njk" import appGallery with context %}
-{{ appGallery({
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   items: [`
 
   const templateEnd = `
