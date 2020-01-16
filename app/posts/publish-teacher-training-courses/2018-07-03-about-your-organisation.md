@@ -4,7 +4,7 @@ description: Share organisation information between courses and split the organi
 tags:
 ---
 
-The ‘About your organisation’ section is not unique to a course ([see old design](/publish-teacher-training/iteration-june-28#course)). The data is about the organisation itself. Represent this by moving the fields out of course pages and up to the organisation view.
+The ‘About your organisation’ section is not unique to a course ([see old design](/publish-teacher-training-courses/iteration-june-28#course)). The data is about the organisation itself. Represent this by moving the fields out of course pages and up to the organisation view.
 
 To accommodate this new section, put courses and request access in tabs alongside it.
 

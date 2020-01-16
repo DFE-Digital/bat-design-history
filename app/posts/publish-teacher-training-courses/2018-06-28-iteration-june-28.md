@@ -4,7 +4,7 @@ description: Add character counts and refine preview.
 tags:
 ---
 
-As with the [previous iteration](/publish-teacher-training/iteration-june-26), we ran an unmoderated research session with this design where we asked providers to complete a course listing, the user recorded their input to a [session on Lookback](https://lookback.io/watch/ACpaee3SkiuGxS5CD).
+As with the [previous iteration](/publish-teacher-training-courses/iteration-june-26), we ran an unmoderated research session with this design where we asked providers to complete a course listing, the user recorded their input to a [session on Lookback](https://lookback.io/watch/ACpaee3SkiuGxS5CD).
 
 In this iteration we:
 

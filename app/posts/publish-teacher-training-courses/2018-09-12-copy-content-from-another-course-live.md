@@ -4,7 +4,7 @@ description: We changed this feature when we built it.
 tags:
 ---
 
-When we initially designed and tested the [copy content feature](/publish-teacher-training/copy-content-from-another-course) we expected the backend to be a bottleneck:
+When we initially designed and tested the [copy content feature](/publish-teacher-training-courses/copy-content-from-another-course) we expected the backend to be a bottleneck:
 
 > We needed an alternative to templates … without depending on backend development too heavily – which is our current bottleneck.
 
@@ -16,7 +16,7 @@ Because the feature now operates with a form submit and a full page reload we ha
 
 ### Moving the list of copied fields
 
-In the original we listed the copied fields [by the copy course form](/publish-teacher-training/copy-content-from-another-course#content-copied-from-another-course). This makes sense when the frontend does a seamless update. On a full page reload however these messages get lost.
+In the original we listed the copied fields [by the copy course form](/publish-teacher-training-courses/copy-content-from-another-course#content-copied-from-another-course). This makes sense when the frontend does a seamless update. On a full page reload however these messages get lost.
 
 We updated the design by moving the alert and the copied fields to the top of the page, like success and error summaries. And like on an error summary, we link to each of the fields that’s been updated.
 

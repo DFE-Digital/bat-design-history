@@ -4,11 +4,11 @@ description: Separate courses by accrediting provider. Provide explicit fields f
 tags:
 ---
 
-Following [user research with providers](/publish-teacher-training/school-direct-view), it was found that the “About this course” field was confusing when it could potentially apply to different course variants.
+Following [user research with providers](/publish-teacher-training-courses/school-direct-view), it was found that the “About this course” field was confusing when it could potentially apply to different course variants.
 
 Where there are different accrediting providers, those providers have a significant impact on the course and how it should be presented to applicants. Courses with different accrediting providers must not be folded into each other.
 
-We set up 6 unmoderated research sessions with providers where we asked them to complete a single course listing. One user completed this task before we made some [small iterations](/publish-teacher-training/iteration-june-28) to this design: [completed course listing](https://docs.google.com/document/d/19zLJb1fplLHmrxZ2VlPsWCfdhqfK0DuoyKjCog8eeAE/edit?usp=sharing)
+We set up 6 unmoderated research sessions with providers where we asked them to complete a single course listing. One user completed this task before we made some [small iterations](/publish-teacher-training-courses/iteration-june-28) to this design: [completed course listing](https://docs.google.com/document/d/19zLJb1fplLHmrxZ2VlPsWCfdhqfK0DuoyKjCog8eeAE/edit?usp=sharing)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

@@ -4,7 +4,7 @@ description: Allow users to edit their contact details
 tags:
 ---
 
-We added the [contact details from UCAS](/publish-teacher-training/iteration-aug-23#about-your-organisation) to the design ([Trello](https://trello.com/c/XcWDGsvo/175-design-showing-org-info-to-publishers)). In user research we asked training providers about those details. We expected to be able to display them to applicants. We thought this was something we could avoid building for the minimum viable service.
+We added the [contact details from UCAS](/publish-teacher-training-courses/iteration-aug-23#about-your-organisation) to the design ([Trello](https://trello.com/c/XcWDGsvo/175-design-showing-org-info-to-publishers)). In user research we asked training providers about those details. We expected to be able to display them to applicants. We thought this was something we could avoid building for the minimum viable service.
 
 Users told us that those UCAS contact details wouldn’t be correct.
 

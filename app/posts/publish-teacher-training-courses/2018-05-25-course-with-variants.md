@@ -63,7 +63,7 @@ Some of these fields may end up being associated with the training provider or s
       text: "Course requirements",
       img: { src: "course-requirements.png" },
       caption: '
-Fields copied from the [spreadsheet onboarding](/publish-teacher-training/original-onboarding). These may also be shared between courses.
+Fields copied from the [spreadsheet onboarding](/publish-teacher-training-courses/original-onboarding). These may also be shared between courses.
       '
     },
     {

@@ -4,7 +4,7 @@ description: Designs for different fields for salaried and fee paying courses.
 tags:
 ---
 
-Fee paying courses need to have some different fields to salaried courses. Courses offering a salary typically don’t have any course fees (though some courses may have top-up fees for the PGCE aspect of a course) – for these courses we shouldn’t be asking for course fees. ([Example of the problem](/publish-teacher-training/templates#dont-use-a-template))
+Fee paying courses need to have some different fields to salaried courses. Courses offering a salary typically don’t have any course fees (though some courses may have top-up fees for the PGCE aspect of a course) – for these courses we shouldn’t be asking for course fees. ([Example of the problem](/publish-teacher-training-courses/templates#dont-use-a-template))
 
 Use different fields for school direct salaried courses and add fields to cater for:
 
@@ -12,11 +12,11 @@ Use different fields for school direct salaried courses and add fields to cater 
 * clarification on whether there are any fees for this course (we can’t infer this though we could say ‘courses offering a salary usually…’, or something to that effect)
 * more complex fee structures (eg add-ons and other costs)
 
-[Previously we were asking for differences between salaried and fee paying courses](/publish-teacher-training/school-direct-view#salary). These details should now be in the ‘About this course’ section.
+[Previously we were asking for differences between salaried and fee paying courses](/publish-teacher-training-courses/school-direct-view#salary). These details should now be in the ‘About this course’ section.
 
 ## Salary amount
 
-[We used to ask for the salary amount](/publish-teacher-training/school-direct-view#salary) but for much of the year the actual salary figure isn’t available. It’s based on the national teacher’s pay scale that is published later in the year. Schools also apply this scale differently, eg prorata based on time in schools vs full time. Rules around this are unclear, the salary field could be used to explain this.
+[We used to ask for the salary amount](/publish-teacher-training-courses/school-direct-view#salary) but for much of the year the actual salary figure isn’t available. It’s based on the national teacher’s pay scale that is published later in the year. Schools also apply this scale differently, eg prorata based on time in schools vs full time. Rules around this are unclear, the salary field could be used to explain this.
 
 [BATSA-464](https://dfedigital.atlassian.net/browse/BATSA-464)
 

@@ -9,7 +9,7 @@ tags:
 
 As a user looking at all of my courses imported from UCAS, I need to know which of those courses have been published, so that I know which courses applicants are seeing.
 
-An iteration on the [first UCAS course status design](/publish-teacher-training/ucas-course-status) and the [second UCAS course status design](/publish-teacher-training/course-not-running). We have received Zendesk tickets where candidates took a course code from DfE Find and hit errors when they tried to apply. The investigation showed that this was caused by us publishing courses to DfE Find which were set to running on UCAS, but weren’t set to published on UCAS.
+An iteration on the [first UCAS course status design](/publish-teacher-training-courses/ucas-course-status) and the [second UCAS course status design](/publish-teacher-training-courses/course-not-running). We have received Zendesk tickets where candidates took a course code from DfE Find and hit errors when they tried to apply. The investigation showed that this was caused by us publishing courses to DfE Find which were set to running on UCAS, but weren’t set to published on UCAS.
 
 The [UCAS Teacher Training Set-up Guide](https://www.ucas.com/file/115581/download?token=mv-G6P53) says:
 

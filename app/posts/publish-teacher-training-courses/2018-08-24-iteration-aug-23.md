@@ -21,13 +21,13 @@ Instead we chose to be explicit: Do this, then do this.
 
 The status labels in the course table tested well. They’re a good indicator of empty/draft/published.
 
-For consistency this design adds them to ‘About your organisation’ and course pages. The draft status [replaces the blue box](/publish-teacher-training/user-research-aug-22#workflow-states) (‘You have unpublished changes’).
+For consistency this design adds them to ‘About your organisation’ and course pages. The draft status [replaces the blue box](/publish-teacher-training-courses/user-research-aug-22#workflow-states) (‘You have unpublished changes’).
 
 The draft status was switched from blue to orange. This colour better communicates this intermediate state. [“It’s in amber”](https://lookback.io/watch/dujimh9gzaKrRAFBu?t=1h13m15.01s)
 
 ## Making ‘About your organisation’ like a course
 
-The [previous design had two calls to action](/publish-teacher-training/user-research-aug-22#about-your-organisation) on one page. One for saving, another for publishing. With the publish button high up on the page there’s a risk users might use this rather than save, although we didn’t observe this in research.
+The [previous design had two calls to action](/publish-teacher-training-courses/user-research-aug-22#about-your-organisation) on one page. One for saving, another for publishing. With the publish button high up on the page there’s a risk users might use this rather than save, although we didn’t observe this in research.
 
 We also needed to show what information we’d imported from UCAS about this organisation (eg contact details). There wasn’t an obvious place to put this.
 

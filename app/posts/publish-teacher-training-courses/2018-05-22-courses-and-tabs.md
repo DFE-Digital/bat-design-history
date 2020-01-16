@@ -18,7 +18,7 @@ This is a visualisation of course information structured by:
       text: "Courses",
       img: { src: "courses.png" },
       caption: '
-A significantly different view to the [previous courses index](/publish-teacher-training/course-with-parts#courses). Created alongside [course variants in search and compare](https://search-and-compare-beta.herokuapp.com/history/variants).
+A significantly different view to the [previous courses index](/publish-teacher-training-courses/course-with-parts#courses). Created alongside [course variants in search and compare](https://search-and-compare-beta.herokuapp.com/history/variants).
 
 Use tabs to split up key information around courses, schools, default course information and the organisation’s metadata.
 

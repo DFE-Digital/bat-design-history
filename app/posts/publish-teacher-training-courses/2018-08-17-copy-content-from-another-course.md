@@ -6,7 +6,7 @@ tags:
 
 ## We tried templates
 
-From our investigation into [sharing content using templates](/publish-teacher-training/templates):
+From our investigation into [sharing content using templates](/publish-teacher-training-courses/templates):
 
 > For many training providers there is great similarity between the courses they offer for different subjects. Users need an easy way to share information between these courses so they don't have to copy and paste content between them. Users also need to easily update all courses that share information, so that they all remain consistent, again without needing to copy and paste.
 >

@@ -4,7 +4,7 @@ description: First attempts to understand location with a classification exercis
 tags:
 ---
 
-Following research on maps with candidates and [discussions with providers about location](/publish-teacher-training/the-location-problem), we sought to focus further research by providing prototypes.
+Following research on maps with candidates and [discussions with providers about location](/publish-teacher-training-courses/the-location-problem), we sought to focus further research by providing prototypes.
 
 [We showed providers maps](/find-teacher-training/map-4) for the first time, and then quizzed them about their locations using the Publish prototype.
 

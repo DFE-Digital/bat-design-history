@@ -4,7 +4,7 @@ description: Universities are the simplest provider. There are no schools to app
 tags:
 ---
 
-Universities are the simplest provider. There are no schools to apply to and [no course folding](/publish-teacher-training/imported-from-ucas).
+Universities are the simplest provider. There are no schools to apply to and [no course folding](/publish-teacher-training-courses/imported-from-ucas).
 
 * remove schools link in header
 * hide accrediting provider

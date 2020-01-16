@@ -11,7 +11,7 @@ This is what the service looked like when we enabled organisation and course enr
 This release doesn’t include:
 
 * editing contact details
-* about your organisation [layout improvements](/publish-teacher-training/iteration-aug-23)
+* about your organisation [layout improvements](/publish-teacher-training-courses/iteration-aug-23)
 * persistent validation on publish
 
 ## User research

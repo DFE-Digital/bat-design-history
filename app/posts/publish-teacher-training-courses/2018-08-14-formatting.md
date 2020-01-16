@@ -17,7 +17,7 @@ Users have requested links so they can point to existing text on their or their 
 We could allow users to paste URLs into the textarea. If the URL is valid then it can become clickable.
 
 Something like this:
-[/publish-teacher-training/formatting](/publish-teacher-training/formatting)
+[/publish-teacher-training-courses/formatting](/publish-teacher-training-courses/formatting)
 
 The problem with these sorts of links is that they aren’t accessible. They don’t have any useful labels to indicate what the link is for. The URL is often long and hard to read.
 

@@ -46,7 +46,7 @@ We used first name and last name as that’s a requirement of DFE Sign-in.
       text: "View course",
       img: { src: "view-course.png" },
       caption: '
-In user research we found that having [multiple sets of UCAS course information on one page](/publish-teacher-training/school-direct-view#course-details-from-ucas) and deep linking to them was confusing. This design splits them out into a single page per course.
+In user research we found that having [multiple sets of UCAS course information on one page](/publish-teacher-training-courses/school-direct-view#course-details-from-ucas) and deep linking to them was confusing. This design splits them out into a single page per course.
       '
     }
   ]

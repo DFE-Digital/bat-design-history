@@ -19,7 +19,7 @@ Other design changes include:
 *   Demote accredited provider on a course page to minimise candidate confusion around ‘accredited provider’ alluded to in research with providers
 
 [Pull request](https://github.com/DFE-Digital/search-and-compare-ui/pull/286)
-[Previous examples of the problem](/publish-teacher-training/what-is-a-course)
+[Previous examples of the problem](/publish-teacher-training-courses/what-is-a-course)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

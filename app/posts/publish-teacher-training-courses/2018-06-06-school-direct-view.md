@@ -9,7 +9,7 @@ School Direct routes are the most complex. List schools, show multiple UCAS cour
 We tested this with West London Teaching School Alliance:
 [research session](https://lookback.io/watch/mbc9BNqBJjoRkinAE). We also demoed it to groups of School Direct and SCITT providers in Brighton and Reading. Some provider user needs have been derived from these sessions: [provider user needs](https://docs.google.com/document/d/1Jb5uDZBnSFGcCdl3gAF9ggAo1klsEWL-KeSIGGLJpBE/edit)
 
-An iteration of this was tested with [Kingston School Direct](/publish-teacher-training/kingston-school-direct)
+An iteration of this was tested with [Kingston School Direct](/publish-teacher-training-courses/kingston-school-direct)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

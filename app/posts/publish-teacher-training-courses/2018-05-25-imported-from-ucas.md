@@ -6,13 +6,13 @@ tags:
 
 ## Course content we will receive in a feed from UCAS
 
-Assumptions about content we will receive from UCAS based on [existing course data](/publish-teacher-training/ucas-course-examples).
+Assumptions about content we will receive from UCAS based on [existing course data](/publish-teacher-training-courses/ucas-course-examples).
 
 * Course title, QAd by UCAS to meet their standards (eg subject)
 * A list of subjects the course is associated with
 * Whether there are part time or full time vacancies
 * The route – school direct, school direct salaried, SCITT or higher education
-* The qualification but [with caveats](/publish-teacher-training/course-with-variants#course) (QTS, Postgraduate, Professional)
+* The qualification but [with caveats](/publish-teacher-training-courses/course-with-variants#course) (QTS, Postgraduate, Professional)
 * Campuses/locations associated with each course:
     * Name
     * Campus code

@@ -6,7 +6,7 @@ tags:
 
 Before each user can begin enriching their course data we need them to agree to our terms and conditions.
 
-If a user isn’t part of an organisation, they will still see the [no organisation page](/publish-teacher-training/no-known-organisation).
+If a user isn’t part of an organisation, they will still see the [no organisation page](/publish-teacher-training-courses/no-known-organisation).
 
 Once a user has logged in, if they have access to an organisation and if they haven’t already agreed to the terms, they will see the page below.
 

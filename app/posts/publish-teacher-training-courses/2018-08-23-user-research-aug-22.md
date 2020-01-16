@@ -22,7 +22,7 @@ In this design we tweaked the styles of the navigation from tabs to a bar. We ho
 
 ### Results
 
-This design tweak didn’t change user behaviour. A [more substantial redesign](/publish-teacher-training/iteration-aug-23) is needed to bring ‘About the organisation’ into the user journey.
+This design tweak didn’t change user behaviour. A [more substantial redesign](/publish-teacher-training-courses/iteration-aug-23) is needed to bring ‘About the organisation’ into the user journey.
 
 ## Statuses
 

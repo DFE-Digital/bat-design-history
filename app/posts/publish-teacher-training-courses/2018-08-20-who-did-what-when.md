@@ -10,7 +10,7 @@ For organisations where multiple users could be editing a course or organisation
 
 This information will also help with support.
 
-[All states in prototype](/publish-teacher-training/publish-changes/iteration-aug-15)
+[All states in prototype](/publish-teacher-training-courses/publish-changes/iteration-aug-15)
 
 [Trello](https://trello.com/c/MdtRyOft/129-surface-information-about-who-and-when-the-last-draft-about-your-org-was-saved)
 

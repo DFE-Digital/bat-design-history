@@ -6,7 +6,7 @@ tags:
 
 As a user looking at all of my courses imported from UCAS, I need to know which of those courses have been published, so that I know which courses applicants are seeing.
 
-An iteration on the [first UCAS course status design](/publish-teacher-training/ucas-course-status). Following that design we found that status in UCAS is per training location rather than per course. We need some logic to determine whether a course should be published based on the status of its training locations.
+An iteration on the [first UCAS course status design](/publish-teacher-training-courses/ucas-course-status). Following that design we found that status in UCAS is per training location rather than per course. We need some logic to determine whether a course should be published based on the status of its training locations.
 
 ## Separating out UCAS status
 

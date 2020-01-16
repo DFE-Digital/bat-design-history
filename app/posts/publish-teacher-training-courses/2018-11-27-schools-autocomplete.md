@@ -21,7 +21,7 @@ This allows searching for schools by each of these properties (eg all schools in
 
 ## User research
 
-We’ve begun testing this pattern as part of the UCAS Transition work. It is being used in the [Add training location flow](/publish-teacher-training/new-training-location#user-research).
+We’ve begun testing this pattern as part of the UCAS Transition work. It is being used in the [Add training location flow](/publish-teacher-training-courses/new-training-location#user-research).
 
 * [Canterbury Christ Church University](https://lookback.io/watch/oDwREDkfjwjW5SpCi)
 * [East of England Teacher Training](https://lookback.io/watch/vw6eDzqmL4s24rR2Y) (a SCITT)
