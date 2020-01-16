@@ -14,6 +14,14 @@ app.use(express.static(staticDir, {
   index: ['index.html', 'index.htm']
 }))
 
+app.all('/publish-teacher-training/:path', function (req, res) {
+  res.redirect(`/publish-teacher-training-courses/${req.params.path}`)
+})
+
+app.all('/apply-teacher-training/:path', function (req, res) {
+  res.redirect(`/apply-for-teacher-training/${req.params.path}`)
+})
+
 app.get('/image/:size/*.:format', (req, res) => {
   // Calculate path to image file on disk
   const imagePath = req.path.replace(/image\/(\d+)(x)?(\d+)?/i, 'images')
