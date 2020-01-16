@@ -8,9 +8,9 @@ Following on from the [initial design](/find-teacher-training/choose-how-to-appl
 
 In this version we:
 
-*   added more context to the page with a choice
-*   added a ‘learn more’ disclosure to the choice page
-*   expanded the journey with further Apply pages and emails
+* added more context to the page with a choice
+* added a ‘learn more’ disclosure to the choice page
+* expanded the journey with further Apply pages and emails
 
 ## User research
 

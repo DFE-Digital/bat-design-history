@@ -20,10 +20,10 @@ Providers will need an easy way to manage their list of partner schools, numbers
 
 There are constraints around how we show partner schools:
 
-*   not all schools for next year are known
-*   this year’s schools give the best illustration but must be caveated
-*   these schools can’t be broken down by subject, only by phase
-*   providers don’t want to give the impression that people can apply to specific schools
+* not all schools for next year are known
+* this year’s schools give the best illustration but must be caveated
+* these schools can’t be broken down by subject, only by phase
+* providers don’t want to give the impression that people can apply to specific schools
 
 > “We have to be careful that someone doesn’t apply to us because they want to work at a specific school … they can only apply to \[us\]” ([video](https://lookback.io/watch/j7XGfjfS8Bh4WrSzz?t=48m2.26s))
 

@@ -4,10 +4,10 @@ description: An iteration on the MVP, with full course pages and a subject filte
 ---
 We tested this design with 4 users:
 
-*   [Participant 1](https://lookback.io/watch/az5TkZTc9rwgyoheL)
-*   [Participant 2 (Multiple sclerosis)](https://lookback.io/watch/K6SmyEx5Kz76j6TAf)
-*   [Participant 3](https://lookback.io/watch/YSyCpM8ERpT7oFEAK)
-*   [Participant 4](https://lookback.io/watch/Qm2gKZJYCTopwAKNM)
+* [Participant 1](https://lookback.io/watch/az5TkZTc9rwgyoheL)
+* [Participant 2 (Multiple sclerosis)](https://lookback.io/watch/K6SmyEx5Kz76j6TAf)
+* [Participant 3](https://lookback.io/watch/YSyCpM8ERpT7oFEAK)
+* [Participant 4](https://lookback.io/watch/Qm2gKZJYCTopwAKNM)
 
 [User research findings](https://docs.google.com/spreadsheets/d/1EEpqT5u2GLr3wJyk_SnKiysTtf5s88gYGiYqmWzNjl4/)
 

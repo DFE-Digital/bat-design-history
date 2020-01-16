@@ -6,9 +6,9 @@ To deliver a viable service by October we are aggressively reducing scope, limit
 
 To visualise what that service might look like, this is a design which uses:
 
-*   only the existing UCAS course data on course detail pages – eg there’s been no enrichment and there is no bespoke text
-*   the list of subjects as provided by UCAS
-*   only the locations that exist in the data for location search
+* only the existing UCAS course data on course detail pages – eg there’s been no enrichment and there is no bespoke text
+* the list of subjects as provided by UCAS
+* only the locations that exist in the data for location search
 
 All private beta specifics (eg anything pertaining to business studies only) have been removed.
 
@@ -16,19 +16,19 @@ All private beta specifics (eg anything pertaining to business studies only) hav
 
 We tested this design with remote users on 25 to 26 July 2018:
 
-*   [Participant 1](https://lookback.io/watch/m3ue4g3QBwbt7pq9G)
-*   [Participant 2](https://lookback.io/watch/QCBC3KYjNxtEuQH5R)
-*   [Participant 3](https://lookback.io/watch/aHYeZsGupN6oFuGGv)
-*   [Participant 4](https://lookback.io/watch/evAk5KLYjJxvk2BLc)
-*   [Participant 5](https://lookback.io/watch/Psi3panxQDwkrXuwj)
-*   [Participant 6](https://lookback.io/watch/7MvZtfSoB6h3HnbG4)
+* [Participant 1](https://lookback.io/watch/m3ue4g3QBwbt7pq9G)
+* [Participant 2](https://lookback.io/watch/QCBC3KYjNxtEuQH5R)
+* [Participant 3](https://lookback.io/watch/aHYeZsGupN6oFuGGv)
+* [Participant 4](https://lookback.io/watch/evAk5KLYjJxvk2BLc)
+* [Participant 5](https://lookback.io/watch/Psi3panxQDwkrXuwj)
+* [Participant 6](https://lookback.io/watch/7MvZtfSoB6h3HnbG4)
 
 Aiming to test:
 
-*   the minimum viable service, looking for any major difficulties in the journey to prioritise focus
-*   reactions to minimum course details page
-*   results listings including distance to nearest place you can apply to attribute
-*   current filters and what is a priority in terms of building
+* the minimum viable service, looking for any major difficulties in the journey to prioritise focus
+* reactions to minimum course details page
+* results listings including distance to nearest place you can apply to attribute
+* current filters and what is a priority in terms of building
 
 We [iterated this design](/find-teacher-training/mvp-iteration-jul-25) during research.
 
@@ -58,11 +58,11 @@ As expected, location continues to be the number 1 need for users and the first 
 
 The results have been updated from the private beta to make it easier to differentiate them. Changes include:
 
-*   adding a summary of the course type
-*   including the (QTS) accrediting provider
-*   denoting the type of location
-*   cleaning up the address formatting
-*   removing decimal places from distance
+* adding a summary of the course type
+* including the (QTS) accrediting provider
+* denoting the type of location
+* cleaning up the address formatting
+* removing decimal places from distance
 
 ### Vacancies
 

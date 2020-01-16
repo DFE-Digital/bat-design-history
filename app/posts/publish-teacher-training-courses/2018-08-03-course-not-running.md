@@ -12,9 +12,9 @@ The UCAS statuses are per location, not per course. Instead of repeating those s
 
 Courses can have 1 of 3 statuses:
 
-*   Running - the course is published and applicants can see it on search
-*   Not running – the course is not published, it can’t be found on search
-*   New - not yet running – the course is not published yet because it hasn’t been set to publish on UCAS
+* Running - the course is published and applicants can see it on search
+* Not running – the course is not published, it can’t be found on search
+* New - not yet running – the course is not published yet because it hasn’t been set to publish on UCAS
 
 ## Resolving course status from training location statuses
 

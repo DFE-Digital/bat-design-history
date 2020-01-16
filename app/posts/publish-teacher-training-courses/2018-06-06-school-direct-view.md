@@ -53,8 +53,8 @@ Possible alternatives: "When you’ll spend time in a different school", "School
       caption: '
 Qualification outcomes are more complex than this. For example:
 
-*   QTS with a PGCE top-up – top-ups can vary, eg alumni PGCE, this also affects fees
-*   PGCE can vary, some have masters credits others don’t – sometimes you don’t get the PGCE if you fail the masters bit, sometimes that doesn’t matter
+* QTS with a PGCE top-up – top-ups can vary, eg alumni PGCE, this also affects fees
+* PGCE can vary, some have masters credits others don’t – sometimes you don’t get the PGCE if you fail the masters bit, sometimes that doesn’t matter
       '
     },
     {
