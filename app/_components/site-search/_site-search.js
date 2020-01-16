@@ -48,7 +48,7 @@ Search.prototype.renderResults = function () {
     return searchCallback(searchResults)
   }
 
-  const resultsArray = this.findResults(searchQuery, searchIndex)
+  const resultsArray = this.findResults(searchQuery, searchIndex).reverse()
 
   searchResults = resultsArray.map(function (result) {
     return result
