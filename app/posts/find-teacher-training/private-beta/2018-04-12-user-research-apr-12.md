@@ -59,28 +59,23 @@ Users found it hard to distinguish between search results with similar titles. [
     },
     {
       text: "No search results",
-      img: { src: "no-search-results.png" },
-      caption: ''
+      img: { src: "no-search-results.png" }
     },
     {
       text: "Course details #1",
-      img: { src: "course-details-1.png" },
-      caption: ''
+      img: { src: "course-details-1.png" }
     },
     {
       text: "Course details #2",
-      img: { src: "course-details-2.png" },
-      caption: ''
+      img: { src: "course-details-2.png" }
     },
     {
       text: "Study type filter",
-      img: { src: "study-type-filter.png" },
-      caption: ''
+      img: { src: "study-type-filter.png" }
     },
     {
       text: "Qualifications filter",
-      img: { src: "qualifications-filter.png" },
-      caption: ''
+      img: { src: "qualifications-filter.png" }
     }
   ]
 }) }}

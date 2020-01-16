@@ -32,25 +32,22 @@ The course details page ended up being long as content wasn't as similar across 
   items: [
     {
       text: "Index",
-      img: { src: "index.png" },
-      caption: ''
+      img: { src: "index.png" }
     },
     {
       text: "Find by location",
-      img: { src: "find-by-location.png" },
-      caption: ''
+      img: { src: "find-by-location.png" }
     },
     {
       text: "Search results with variants",
       img: { src: "search-results-with-variants.png" },
-      caption: 'There seems to be an understanding once participants arrive at the course listings that there are multiple options in one course. [Participant 121 understands two courses folded into one](https://lookback.io/watch/8QnFPjo5LYrFdFBdd?t=22m16.5s-26m58s).
+      caption: "There seems to be an understanding once participants arrive at the course listings that there are multiple options in one course. [Participant 121 understands two courses folded into one](https://lookback.io/watch/8QnFPjo5LYrFdFBdd?t=22m16.5s-26m58s).
 
 Looking at the first result: “it kind of looks like there’s two options – do the PGCE with the bursary, or drop the PGCE and get a salary … and they don’t offer part time”
 
 Participant 123 says that the UI is not clear, “[it is not clear there are two routes](https://lookback.io/watch/kH3oS3z8nAoWMsJ8B?t=28m39.7s-34m42s)”. However they understand that there are two courses. Also makes the point that if you don’t know the acronyms then it could appear meaningless to some users (but not themself).
 
-Looking at the second result, participant 122 doesn’t see the folded options, he only sees the bottom of the two options – ‘for the SCITT route you’re only getting your QTS, not your PGCE’. It seems to be due to his assumption that SCITTs dont do a PGCE. However [he says it’s due to a it not being visually clear](https://lookback.io/watch/Z3nCygSqTdw3agSGh?t=17m50.8s-22m24s).
-'
+Looking at the second result, participant 122 doesn’t see the folded options, he only sees the bottom of the two options – ‘for the SCITT route you’re only getting your QTS, not your PGCE’. It seems to be due to his assumption that SCITTs dont do a PGCE. However [he says it’s due to a it not being visually clear](https://lookback.io/watch/Z3nCygSqTdw3agSGh?t=17m50.8s-22m24s)."
     },
     {
       text: "First course",
@@ -59,18 +56,15 @@ Looking at the second result, participant 122 doesn’t see the folded options, 
     },
     {
       text: "Second course",
-      img: { src: "second-course.png" },
-      caption: ''
+      img: { src: "second-course.png" }
     },
     {
       text: "Third course",
-      img: { src: "third-course.png" },
-      caption: ''
+      img: { src: "third-course.png" }
     },
     {
       text: "Fourth course",
-      img: { src: "fourth-course.png" },
-      caption: ''
+      img: { src: "fourth-course.png" }
     }
   ]
 }) }}

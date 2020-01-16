@@ -30,18 +30,15 @@ As expected, some of the subject names weren’t clear. For example: “[I’m n
     },
     {
       text: "Find by subject expanded",
-      img: { src: "find-by-subject-expanded.png" },
-      caption: ''
+      img: { src: "find-by-subject-expanded.png" }
     },
     {
       text: "Teacher training courses",
-      img: { src: "teacher-training-courses.png" },
-      caption: ''
+      img: { src: "teacher-training-courses.png" }
     },
     {
       text: "Minimum course page",
-      img: { src: "minimum-course-page.png" },
-      caption: ''
+      img: { src: "minimum-course-page.png" }
     }
   ]
 }) }}

@@ -24,8 +24,7 @@ The location and provider autocomplete is not fully accessible – it does not a
     },
     {
       text: "Financial support",
-      img: { src: "financial-support.png" },
-      caption: ''
+      img: { src: "financial-support.png" }
     },
     {
       text: "Search results",
