@@ -3,8 +3,7 @@ title: Iterate course titles
 description: Make it easier to differentiate between search results.
 tags:
 ---
-
-Search results must be distinct, and the differences between courses must be clear. When a provider offers multiple courses for the same subject, it’s not obvious to users what the difference is ([see BHSSA example](/public/images/find-teacher-training/live-launch/04-search-results.png)).
+Search results must be distinct, and the differences between courses must be clear. When a provider offers multiple courses for the same subject, it’s not obvious to users what the difference is ([see BHSSA example](/images/find-teacher-training/live-launch/search-results.png)).
 
 Make courses more obviously different by:
 

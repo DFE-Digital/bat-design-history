@@ -14,8 +14,8 @@ The folding exercise was ran while we were unclear what data, if any, we’d get
 
 We tested folded courses with training providers:
 
-*   [West London Teaching School Alliance](https://lookback.io/watch/mbc9BNqBJjoRkinAE) ([screenshots](/publish-teacher-training-courses/school-direct-view))
-*   [Kingston School Direct](https://lookback.io/watch/FoHoHPQF7B5TwrFkw) ([screenshots](/publish-teacher-training-courses/kingston-school-direct))
+*   [West London Teaching School Alliance](https://lookback.io/watch/mbc9BNqBJjoRkinAE)
+*   [Kingston School Direct](https://lookback.io/watch/FoHoHPQF7B5TwrFkw)
 *   [Swiss Cottage Teaching School Alliance](https://lookback.io/watch/HwTQT7B4WGnzRR2SG)
 *   [Bromley Schools Collegiate](https://lookback.io/watch/aLgtstXXFGEHFLeCL)
 *   [Catholic Teaching Alliance](https://lookback.io/watch/i4dYWSnhubPdWSY36)

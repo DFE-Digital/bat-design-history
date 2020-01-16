@@ -8,7 +8,7 @@ description: Only the GT12 letter and email alert preferences are needed.
   iconFallbackText: "Warning"
 }) }}
 
-Following the [initial design](/publish-teacher-training-courses/apply-preferences), UCAS confirmed that only the GT12 letter and the application email alert preferences were still used.
+Following the [initial design](/publish-teacher-training-courses/ucas-apply-preferences), UCAS confirmed that only the GT12 letter and the application email alert preferences were still used.
 
 This design creates forms for editing those two preferences and puts a link to editing them on the organisation page.
 
@@ -19,7 +19,7 @@ Only provide options for the two commonly used letters:
 * Applicants must confirm their place (GT12B)
 * Applicants don’t need to respond (GT12)
 
-The last two combined account for [5% of providers](/publish-teacher-training-courses/apply-preferences#gt12).
+The last two combined account for [5% of providers](/publish-teacher-training-courses/ucas-apply-preferences#gt12).
 
 In the UCAS supporting documentation they provider a summary of what each letter contains (the actual letter is a lot longer but the majority of that text is unchanged between the letter types). This design brings that summary alongside the choice to make the decision easier.
 

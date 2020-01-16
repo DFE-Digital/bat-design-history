@@ -36,7 +36,7 @@ By using school in the label we risk users searching for schools that are not â€
       text: "Financial support",
       img: { src: "financial-support.png" },
       caption: '
-Trial financial support content that is specific to business studies, [removing content about bursaries and scholarships](/find-teacher-training/user-research-apr-12#financial-support), and moving details of support for other subjects to the bottom.
+Trial financial support content that is specific to business studies, [removing content about bursaries and scholarships](/find-teacher-training/private-beta/user-research-apr-12#financial-support), and moving details of support for other subjects to the bottom.
 
 ### Result
 
@@ -57,11 +57,11 @@ When launching private beta we will not have every business studies course. Tria
 
 Users did not see this banner, when they reached this page they went straight to search results. When the banner was pointed out they misinterpreted its meaning.
 
-We iterated this design to create a [full-page disclaimer](/find-teacher-training/private-beta-launch#disclaimer) in the search flow.
+We iterated this design to create a [full-page disclaimer](/find-teacher-training/private-beta/private-beta-launch#disclaimer) in the search flow.
 
 * * *
 
-In the private beta all courses are for business studies. Having the subject as the search result title [made it difficult to differentiate between results](/find-teacher-training/user-research-apr-12#search-results).
+In the private beta all courses are for business studies. Having the subject as the search result title [made it difficult to differentiate between results](/find-teacher-training/private-beta/user-research-apr-12#search-results).
 
 In this round we updated the title to include both subject and course provider.
 

@@ -23,7 +23,7 @@ The problem with these sorts of links is that they aren’t accessible. They don
 
 ## HTML
 
-We could allow users to use raw HTML: <a href="/blah">Link</a>. This is prone to more user error than markdown.
+We could allow users to use raw HTML: <a href="#">Link</a>. This is prone to more user error than markdown.
 
 It is the undocumented approach used by users on the existing UCAS system.
 
