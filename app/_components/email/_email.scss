@@ -3,6 +3,7 @@
   border: $govuk-border-width solid $govuk-border-colour;
   padding: govuk-spacing(4);
   margin-bottom: govuk-spacing(8);
+  max-width: 40rem;
 
   h1 {
     @extend %govuk-heading-xl;
@@ -32,6 +33,14 @@
 
   a {
     @extend %govuk-link;
+  }
+
+  // Used when showing screenshots of HTML email
+  img:first-of-type {
+    margin: - govuk-spacing(4);
+    width: calc(100% + #{govuk-spacing(4) + govuk-spacing(4)});
+    max-width: none;
+    outline: 0;
   }
 }
 
