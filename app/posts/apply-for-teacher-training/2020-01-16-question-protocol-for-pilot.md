@@ -964,7 +964,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     },
     why: [{
       who: ["provider"],
-      what: "needs to ensure candidates have achieved a standard equivalent to a grade 4 in GCSE Maths"
+      what: "needs to ensure candidates for primary and secondary courses have achieved a standard equivalent to a grade 4 in GCSE Maths"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
