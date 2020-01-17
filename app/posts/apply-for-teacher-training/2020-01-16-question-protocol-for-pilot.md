@@ -761,7 +761,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       who: ["service"],
       what: "uses the answer to show/hide textarea"
     }],
-    what: ["Yes/no answer appears in provider-facing interface"],
+    what: ["Yes/no answer appears in provider-facing interface"]
   }
 }) }}
 
@@ -788,6 +788,10 @@ Candidates can update their answers before (and 5 working days after) submitting
 ## Degrees
 
 Candidates can update their answers before (and 5 working days after) submitting their application.
+
+This question is required to [assess entry criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#c12-degree-criteria):
+
+> All accredited ITT providers must ensure that, in the case of graduate programmes of ITT, all entrants hold a first degree of a United Kingdom higher education institution or equivalent qualification.
 
 {{ appProtocol({
   title: "Qualification - type",
@@ -951,6 +955,10 @@ Candidates can update their answers before (and 5 working days after) submitting
 
 Candidates can update their answers before (and 5 working days after) submitting their application.
 
+This question is required to [assess entry criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#c11-gcse-standard-equivalent):
+
+> All accredited ITT providers must ensure that all entrants have achieved a standard equivalent to a grade 4 (see note 2) in the GCSE examinations in English and mathematics.
+
 {{ appProtocol({
   title: "Qualification - type",
   items: {
@@ -1077,7 +1085,11 @@ Candidates can update their answers before (and 5 working days after) submitting
 
 Candidates can update their answers before (and 5 working days after) submitting their application.
 
-Providers also need further evidence of a breadth of achievement in English where applicants have achieved a GCSE grade 4 or above *in English literature only*. We don’t currently make this distinction in the service.
+This question is required to [assess entry criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#c11-gcse-standard-equivalent):
+
+> All accredited ITT providers must ensure that all entrants have achieved a standard equivalent to a grade 4 (see note 2) in the GCSE examinations in English and mathematics.
+
+Providers should look for <q>further evidence of a breadth of achievement in English where applicants have achieved a GCSE grade 4 or above in English literature only</q>. We don’t currently make this distinction in the service.
 
 {{ appProtocol({
   title: "Qualification - type",
@@ -1203,9 +1215,13 @@ Providers also need further evidence of a breadth of achievement in English wher
 
 ## Science GCSE or equivalent
 
-Only required if applying for a Primary course (meaning a candidate intends to teach pupils aged 3-11).
-
 Candidates can update their answers before (and 5 working days after) submitting their application.
+
+This question is required to [assess entry criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#c11-gcse-standard-equivalent):
+
+> All accredited ITT providers must ensure that all entrants have achieved a standard equivalent to a grade 4 (see note 2) in the GCSE examinations in English and mathematics and that all who intend to train to teach pupils aged 3-11 additionally have achieved a standard equivalent to a grade 4 in the GCSE examination in a science subject.
+
+This means this question is only required for candidates applying to a Primary course.
 
 {{ appProtocol({
   title: "Qualification - type",
