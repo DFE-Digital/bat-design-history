@@ -241,7 +241,11 @@ Candidates can update these answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers ask for proof of identification"],
-    notes: ["We need to collect year, but do we need to show it to providers?"]
+    notes: [
+      "Candidate’s may have multiple nationalities (2 or more). We currently account for this in a subsequent question",
+      "A candidate may have no nationality (stateless, refugee). We don’t currently account for this.",
+      "A candidate may also have an unknown nationality."
+    ]
   }
 }) }}
 
