@@ -5,10 +5,9 @@
 ### {{ params.title }}
 
 {%- set apiHtml -%}
+  <code>{{ params.items.api.param | nl2br | safe }}</code>
   {%- if params.items.api.href -%}
-    <a href="{{- params.items.api.href -}}"><code>{{ params.items.api.param | nl2br | safe }}</code></a>
-  {%- else -%}
-    <code>{{ params.items.api.param | nl2br | safe }}</code>
+    &nbsp;(<a href="{{- params.items.api.href -}}">API docs</a>)
   {%- endif -%}
 {%- endset -%}
 
