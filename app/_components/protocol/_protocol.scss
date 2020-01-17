@@ -11,10 +11,6 @@
     margin-right: govuk-spacing(1);
   }
 
-  .govuk-summary-list__value *:first-child {
-    margin-top: 0;
-  }
-
   .app-document-list__item-title {
     @include govuk-font($size: 19, $weight: "bold");
   }
