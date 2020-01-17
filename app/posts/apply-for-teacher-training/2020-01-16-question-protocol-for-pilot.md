@@ -1261,7 +1261,7 @@ This means this question is only required for candidates applying to a Primary c
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
       "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"],
-    notes: ["Do candidates need to specify which subjects they obtained each grade in? (double or triple award science, for example)?"]
+    notes: ["Do candidates need to specify which subjects they obtained each grade in? (double or triple award science, for example)? Some HEI providers have asked to have information not only about the overall grade, but in which science subjects, too"]
   }
 }) }}
 
