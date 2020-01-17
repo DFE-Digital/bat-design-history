@@ -163,7 +163,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers ask for proof of identification"],
-    notes: ["Ideally this field would be combined with family name but recorded separately to support legacy student record systems"]
+    notes: ["Ideally this field would be combined with family name into a single field. It’s recorded separately to support legacy student record systems."]
   }
 }) }}
 
