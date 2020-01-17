@@ -424,7 +424,10 @@ A candidate can update these details at any point during the application process
       what: "uses this for demographic reporting"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["In the future we can use a postcode look-up database to fill in UK addresses"],
+    accuracy: [
+      "We validate the postcode format",
+      "In the future we can use a postcode look-up database to fill in UK addresses"
+    ],
     notes: [
       "Do providers actually need an address (and might some candidates not want to be contacted this way)?",
       "A DBS check requires a five year address history, which we don’t currently ask for"
