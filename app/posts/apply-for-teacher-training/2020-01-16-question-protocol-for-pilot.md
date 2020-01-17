@@ -134,7 +134,7 @@ Candidates can update course choices before (and 5 working days after) submittin
       what: "may use the course and location code to generate a unique identifier (which then triggers a different workflow within a student record system)"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["Candidates can only choose from a pre-populated list of training locations which is driven by data from the Find service"]
+    accuracy: ["Candidates can only choose from a pre-populated list of training locations which is driven by data from the Find service. Only training locations that have vacancies will be shown."]
   }
 }) }}
 
