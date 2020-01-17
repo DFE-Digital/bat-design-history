@@ -190,7 +190,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     accuracy: ["Providers ask for proof of identification"],
     notes: [
       "Ideally this field would be combined with given name but recorded separately to support legacy student record systems.",
-      "HESA also ask for ‘Immediately prior surname’ to “to allow matching of records where a student has changed surname” but we don’t capture this information.",
+      "HESA also ask for ‘Immediately prior surname’ to “allow matching of records where a student has changed surname” but we don’t capture this information.",
       "Should we allow changes post-submission?"
     ]
   }
