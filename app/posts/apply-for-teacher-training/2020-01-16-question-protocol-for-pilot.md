@@ -210,10 +210,10 @@ Candidates can update these answers before (and 5 working days after) submitting
       what: "use this when performing a DBS check"
     }, {
       who: ["hesa"],
-      what: "needs this to be in the format YYYY-MM-DD in order to link to other records (e.g. higher education, wider than just ITT)"
+      what: "needs this to be in the format YYYY-MM-DD in order to link to other records, and across higher education (wider than just ITT)"
     }, {
       who: ["dfe"],
-      what: "uses this for record matching and statistical analysis, e.g. looking at application rates of over 35 year olds (something the minister has historically been interested in)"
+      what: "uses this for record matching and statistical analysis, for example looking at application rates of over 35 year olds (something the minister has historically been interested in)"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers ask for proof of identification"],
@@ -406,7 +406,7 @@ A candidate can update these details at any point during the application process
       what: "may use this to advise candidates on travel and suitability of different campuses"
     }, {
       who: ["provider"],
-      what: "may use this to determine the seriousness of an application (e.g. proximity to their institution) and to advise candidates on travel and suitability of different campuses"
+      what: "may use this to determine the seriousness of an application (given the candidate’s proximity to the training location) and to advise candidates on travel and suitability of different campuses"
     }, {
       who: ["dfe"],
       what: "uses this for demographic reporting"
@@ -1205,7 +1205,7 @@ Providers also need further evidence of a breadth of achievement in English wher
 
 ## Science GCSE or equivalent
 
-Only required if applying for a Primary course (i.e. intend to train to teach pupils aged 3-11).
+Only required if applying for a Primary course (meaning a candidate intends to teach pupils aged 3-11).
 
 Candidates can update their answers before (and 5 working days after) submitting their application.
 
@@ -1246,7 +1246,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
       "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"],
-    notes: ["Do candidates need to specify which subjects they obtained each grade in? (e.g. double or triple award science)?"]
+    notes: ["Do candidates need to specify which subjects they obtained each grade in? (double or triple award science, for example)?"]
   }
 }) }}
 
