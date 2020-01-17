@@ -332,7 +332,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     },
     why: [{
       who: ["candidate"],
-      what: "may want to demonstrate language skills, especially if looking to teach a language subject or teach in school with children whose main language isn’t English"
+      what: "may want to demonstrate language skills, especially if looking to teach a modern language subject or teach in school with children whose main language isn’t English"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Assessed at interview"],
