@@ -39,6 +39,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('breadcrumbs', require('./lib/filters/breadcrumbs'))
   eleventyConfig.addFilter('date', require('./lib/filters/date'))
   eleventyConfig.addFilter('fixed', require('./lib/filters/fixed'))
+  eleventyConfig.addFilter('includes', require('./lib/filters/includes'))
   eleventyConfig.addFilter('markdown', require('./lib/filters/markdown'))
   eleventyConfig.addFilter('pretty', require('./lib/filters/pretty'))
   eleventyConfig.addFilter('slug', require('./lib/filters/slug'))

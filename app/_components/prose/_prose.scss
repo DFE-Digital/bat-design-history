@@ -73,7 +73,8 @@
     max-width: 40rem;
   }
 
-  > ul:not([class]) {
+  > ul:not([class]),
+  .table-of-contents ul {
     @extend %govuk-list;
     @extend %govuk-list--bullet;
     max-width: 40rem;
@@ -138,7 +139,7 @@
   code {
     background-color: govuk-colour("light-grey");
     font-family: monospace, monospace;
-    font-size: 1em;
+    font-size: 0.875em;
   }
 
   pre {
@@ -167,5 +168,22 @@
 
   .footnote-backref {
     text-decoration: none;
+  }
+
+  .header-anchor {
+    text-decoration: none;
+    font-style: italic;
+    font-weight: normal;
+    color: govuk-colour("mid-grey");
+
+    &:hover {
+      color: $govuk-link-hover-colour;
+    }
+  }
+
+  .table-of-contents {
+    > ul > li {
+      font-weight: bold;
+    }
   }
 }
