@@ -854,7 +854,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
-    notes: ["Not all postgraduate degrees have grades"]
+    notes: ["Not all postgraduate degrees have grades, for example a PhD"]
   }
 }) }}
 
