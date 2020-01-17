@@ -10,11 +10,20 @@ Below are designs for what this static failover might look like.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Initial sketch", img: { src: "initial-sketch.jpg" } },
-    { text: "Find by location", img: { src: "find-by-location.png" } },
-    { text: "Pick a location", img: { src: "pick-a-location.png" } },
-    { text: "Pick a subject", img: { src: "pick-a-subject.png" } },
-    { text: "Results without filters", img: { src: "results-without-filters.png" } }
-  ]
+  items: [{
+    text: "Initial sketch",
+    img: { src: "initial-sketch.jpg" }
+  }, {
+    text: "Find by location",
+    img: { src: "find-by-location.png" }
+  }, {
+    text: "Pick a location",
+    img: { src: "pick-a-location.png" }
+  }, {
+    text: "Pick a subject",
+    img: { src: "pick-a-subject.png" }
+  }, {
+    text: "Results without filters",
+    img: { src: "results-without-filters.png" }
+  }]
 }) }}

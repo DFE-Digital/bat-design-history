@@ -49,22 +49,17 @@ We’ll test how this library performs out of the box in user research.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Animation showing editor features",
-      img: { src: "markdown-editor.gif" }
-    },
-    {
-      text: "Course with Simple MDE editor",
-      img: { src: "course.png" }
-    },
-    {
-      text: "Preview of markdown",
-      img: { src: "preview.png" }
-    },
-    {
-      text: "About your organisation with Simple MDE editor",
-      img: { src: "about-your-organisation.png" }
-    }
-  ]
+  items: [{
+    text: "Animation showing editor features",
+    img: { src: "markdown-editor.gif" }
+  }, {
+    text: "Course with Simple MDE editor",
+    img: { src: "course.png" }
+  }, {
+    text: "Preview of markdown",
+    img: { src: "preview.png" }
+  }, {
+    text: "About your organisation with Simple MDE editor",
+    img: { src: "about-your-organisation.png" }
+  }]
 }) }}

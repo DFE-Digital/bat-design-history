@@ -35,18 +35,14 @@ Further education courses don’t come with QTS. We need to add a bit of context
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Course with prefilled outcome",
-      img: { src: "course-with-prefilled-outcome.png" }
-    },
-    {
-      text: "Edit outcome",
-      img: { src: "edit-outcome.png" }
-    },
-    {
-      text: "Edit outcome with more options open",
-      img: { src: "edit-outcome-with-more-options-open.png" }
-    }
-  ]
+  items: [{
+    text: "Course with prefilled outcome",
+    img: { src: "course-with-prefilled-outcome.png" }
+  }, {
+    text: "Edit outcome",
+    img: { src: "edit-outcome.png" }
+  }, {
+    text: "Edit outcome with more options open",
+    img: { src: "edit-outcome-with-more-options-open.png" }
+  }]
 }) }}

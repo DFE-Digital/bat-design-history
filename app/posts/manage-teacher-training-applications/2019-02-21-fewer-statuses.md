@@ -28,10 +28,10 @@ The team thought the statuses were not relevant so came up with a minimal set of
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Dashboard"},
-    {text: "New applications"},
-    {text: "New application"},
-    {text: "Change application status"},
-    {text: "Recruited applications"}
+    { text: "Dashboard" },
+    { text: "New applications" },
+    { text: "New application" },
+    { text: "Change application status" },
+    { text: "Recruited applications" }
   ]
 }) }}

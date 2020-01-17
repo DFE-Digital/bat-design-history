@@ -23,8 +23,8 @@ In the design below we add a call to action where the feature would be – ‘Re
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Get support and guidance"},
-    {text: "Request a change"},
-    {text: "Request a change to this course"}
+    { text: "Get support and guidance" },
+    { text: "Request a change" },
+    { text: "Request a change to this course" }
   ]
 }) }}

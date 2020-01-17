@@ -60,11 +60,11 @@ When the cycle opens, the cycle is marked as open ([Pull request](https://github
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Before rollover period"},
-    {text: "During rollover period"},
-    {text: "After rollover period"},
-    {text: "Courses for next cycle"},
-    {text: "Courses after old cycle closed but new cycle not yet open"},
-    {text: "Courses once cycle has opened"}
+    { text: "Before rollover period" },
+    { text: "During rollover period" },
+    { text: "After rollover period" },
+    { text: "Courses for next cycle" },
+    { text: "Courses after old cycle closed but new cycle not yet open" },
+    { text: "Courses once cycle has opened" }
   ]
 }) }}

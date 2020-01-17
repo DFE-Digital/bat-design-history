@@ -21,8 +21,11 @@ Other design changes include:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Search results", img: { src: "search-results.png" } },
-    { text: "Course", img: { src: "course.png" } }
-  ]
+  items: [{
+    text: "Search results",
+    img: { src: "search-results.png" }
+  }, {
+    text: "Course",
+    img: { src: "course.png" }
+  }]
 }) }}

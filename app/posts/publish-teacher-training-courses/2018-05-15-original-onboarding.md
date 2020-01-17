@@ -10,8 +10,6 @@ Guidance included alongside each field matches the spreadsheet guidance. Note th
 {{ appScreenshots({
   hideContents: true,
   items: [
-    {
-      text: "Spreadsheet as a form"
-    }
+    { text: "Spreadsheet as a form" }
   ]
 }) }}

@@ -42,14 +42,11 @@ While out of scope for a prototype, the live version of this must be able to han
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Schools autocomplete",
-      img: { src: "01-partner-schools-autocomplete.png" }
-    },
-    {
-      text: "Schools autocomplete (GIF)",
-      img: { src: "02-schools-autocomplete.gif" }
-    }
-  ]
+  items: [{
+    text: "Schools autocomplete",
+    img: { src: "01-partner-schools-autocomplete.png" }
+  }, {
+    text: "Schools autocomplete (GIF)",
+    img: { src: "02-schools-autocomplete.gif" }
+  }]
 }) }}

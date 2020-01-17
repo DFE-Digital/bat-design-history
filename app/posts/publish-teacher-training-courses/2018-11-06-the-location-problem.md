@@ -62,7 +62,7 @@ We’ve spoken to 3 providers:
 
 From the [high level write-up on Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/652673025/3rd+Round+on+Location+-+Providers+Multiple+Locations+Areas).
 
-Some providers of a certain size do not consider location to be a collection of specific pinpoints, but rather an 'area served'. These include large SCITTs and Unis.
+Some providers of a certain size do not consider location to be a collection of specific pinpoints, but rather an ‘area served’. These include large SCITTs and Unis.
 
 Locations are sometimes not defined until after the application process is complete (eg larger SCITTS):
 
@@ -82,15 +82,15 @@ Unis make students aware that they will have to be prepared to travel up to 90 m
 >
 > You will need to seek approval to live beyond a 10-mile radius from the University campus.”
 
-"School" locations (meaning the 'partner' schools where the majority of on-the-job training takes place) are not the only important location associated with a training provider / training / applications.
+“School” locations (meaning the ‘partner’ schools where the majority of on-the-job training takes place) are not the only important location associated with a training provider / training / applications.
 
 List of location types for a Training Provider organisation:
 
 * Training Provider Headquarters - a registered address for the provider
 * Accredited provider
-* Administrative or admissions 'hubs' (if provider is sufficiently large)
+* Administrative or admissions ‘hubs’ (if provider is sufficiently large)
 * Training centres (for lecture-based training for academic learning about how to teach)
-* Partner schools \[of which there are subtypes: a 'main' school, a 'second' or 'contrast' school, SEND school, EAL school, …\]
+* Partner schools \[of which there are subtypes: a ‘main’ school, a ‘second‘ or ‘contrast’ school, SEND school, EAL school, …\]
 
 The actual locations for the above can all be the same (a single Schools Direct course), or all be different physical locations.
 

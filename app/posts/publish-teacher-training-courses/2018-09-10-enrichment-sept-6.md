@@ -26,46 +26,35 @@ Insights were recorded in [Google Sheets](https://docs.google.com/spreadsheets/d
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Organisation",
-      img: { src: "organisation.png" }
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" }
-    },
-    {
-      text: "Course new and not yet running",
-      img: { src: "course-new-not-yet-running.png" }
-    },
-    {
-      text: "Course not running",
-      img: { src: "course-not-running.png" }
-    },
-    {
-      text: "About this course",
-      img: { src: "about-this-course.png" }
-    },
-    {
-      text: "Fees and length",
-      img: { src: "fees-and-length.png" }
-    },
-    {
-      text: "Requirements and eligibility",
-      img: { src: "requirements-and-eligibility.png" }
-    },
-    {
-      text: "Preview",
-      img: { src: "preview.png" }
-    },
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Request access",
-      img: { src: "request-access.png" }
-    }
-  ]
+  items: [{
+    text: "Organisation",
+    img: { src: "organisation.png" }
+  }, {
+    text: "Course",
+    img: { src: "course.png" }
+  }, {
+    text: "Course new and not yet running",
+    img: { src: "course-new-not-yet-running.png" }
+  }, {
+    text: "Course not running",
+    img: { src: "course-not-running.png" }
+  }, {
+    text: "About this course",
+    img: { src: "about-this-course.png" }
+  }, {
+    text: "Fees and length",
+    img: { src: "fees-and-length.png" }
+  }, {
+    text: "Requirements and eligibility",
+    img: { src: "requirements-and-eligibility.png" }
+  }, {
+    text: "Preview",
+    img: { src: "preview.png" }
+  }, {
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "Request access",
+    img: { src: "request-access.png" }
+  }]
 }) }}

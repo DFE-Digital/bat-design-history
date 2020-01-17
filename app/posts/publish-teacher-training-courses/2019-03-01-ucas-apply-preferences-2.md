@@ -38,10 +38,10 @@ For this to propagate to UCAS it needs to be sent through as the email for the U
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    { text: "Organisation"},
-    { text: "UCAS Apply preferences"},
-    { text: "Onboarding: Apply preferences preface"},
-    { text: "Pick a letter"},
-    { text: "Email alerts"}
+    { text: "Organisation" },
+    { text: "UCAS Apply preferences" },
+    { text: "Onboarding: Apply preferences preface" },
+    { text: "Pick a letter" },
+    { text: "Email alerts" }
   ]
 }) }}

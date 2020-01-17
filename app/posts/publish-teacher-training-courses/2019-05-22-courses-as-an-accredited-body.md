@@ -52,8 +52,8 @@ The practice recommended by UCAS of discontinuing a course and creating a new on
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Organisation page with new section"},
-    {text: "Courses as an accredited body"},
-    {text: "Courses from a training provider"}
+    { text: "Organisation page with new section" },
+    { text: "Courses as an accredited body" },
+    { text: "Courses from a training provider" }
   ]
 }) }}

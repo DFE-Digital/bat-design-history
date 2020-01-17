@@ -49,10 +49,17 @@ On mobile this view moves to below the map and the filter toggle expands over th
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Results on a map", img: { src: "results-on-a-map.png" } },
-    { text: "Results open on a map", img: { src: "01b-results-open-on-map.png" } },
-    { text: "Results on a map mobile", img: { src: "results-on-a-map-mobile.png" } },
-    { text: "Mobile filter open", img: { src: "mobile-filter-open.png" } }
-  ]
+  items: [{
+    text: "Results on a map",
+    img: { src: "results-on-a-map.png" }
+  }, {
+    text: "Results open on a map",
+    img: { src: "01b-results-open-on-map.png" }
+  }, {
+    text: "Results on a map mobile",
+    img: { src: "results-on-a-map-mobile.png" }
+  }, {
+    text: "Mobile filter open",
+    img: { src: "mobile-filter-open.png" }
+  }]
 }) }}

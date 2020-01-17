@@ -29,10 +29,10 @@ Progression of the minimum requirements page design:
         src: "tests-for-candidates-without-gcse-requirements.png"
       }
     },
-    {text: "Two questions"},
-    {text: "Options in a table"},
-    {text: "Explicitly reference UCAS"},
-    {text: "Pick an option, remove subject choice"},
+    { text: "Two questions" },
+    { text: "Options in a table" },
+    { text: "Explicitly reference UCAS" },
+    { text: "Pick an option, remove subject choice" },
     {
       text: "Introduce options",
       img: {

@@ -29,11 +29,11 @@ The preferences listed below are the only ones needed by UCAS Teacher Training A
 
 {% from "bar-chart/macro.njk" import appBarChart %}
 {{ appBarChart({
-  headers: ['Value', 'Providers'],
+  headers: ["Value", "Providers"],
   rows: [
-    ['ASCII data', 593],
-    ['Unicode data', 107],
-    ['ASCII data and unicode data', 472]
+    ["ASCII data", 593],
+    ["Unicode data", 107],
+    ["ASCII data and unicode data", 472]
   ]
 }) }}
 
@@ -52,20 +52,20 @@ Set all new providers to ‘ASCII data and unicode data’ as UCAS recommends.
 }) }}
 
 {{ appBarChart({
-  headers: ['Sort choice', 'Providers'],
+  headers: ["Sort choice", "Providers"],
   rows:[
-    ['Alphabetic', 459],
-    ['Application code', 85],
-    ['Not required', 119],
-    ['Course / Alphabetic', 377],
-    ['Faculty / Course / Alphabetic', 60],
-    ['Course / Application code', 16],
-    ['Faculty / Alphabetic', 9],
-    ['Course / Learner Number', 4],
-    ['Learner Number', 4],
-    ['Faculty / Course / Application code', 6],
-    ['Faculty / Course / Learner Number', 3],
-    ['Faculty / Application code', 1]
+    ["Alphabetic", 459],
+    ["Application code", 85],
+    ["Not required", 119],
+    ["Course / Alphabetic", 377],
+    ["Faculty / Course / Alphabetic", 60],
+    ["Course / Application code", 16],
+    ["Faculty / Alphabetic", 9],
+    ["Course / Learner Number", 4],
+    ["Learner Number", 4],
+    ["Faculty / Course / Application code", 6],
+    ["Faculty / Course / Learner Number", 3],
+    ["Faculty / Application code", 1]
   ]
 }) }}
 
@@ -80,10 +80,10 @@ What is the difference between ‘Alphabetic’ and ‘Course / Alphabetic’?
 [Star J FAQ](https://www.hesa.ac.uk/collection/c16051/starj) and [Star J specification](https://www.hesa.ac.uk/collection/c17051/starj_specification.pdf)
 
 {{ appBarChart({
-  headers: ['Value', 'Providers'],
+  headers: ["Value", "Providers"],
   rows: [
-    ['Flat File', 757],
-    ['UCAS Link', 808]
+    ["Flat File", 757],
+    ["UCAS Link", 808]
   ]
 }) }}
 
@@ -94,10 +94,10 @@ What is the difference between ‘Alphabetic’ and ‘Course / Alphabetic’?
 }) }}
 
 {{ appBarChart({
-  headers: ['Value', 'Providers'],
+  headers: ["Value", "Providers"],
   rows:[
-    ['No, not required', 532],
-    ['Yes, required', 595]
+    ["No, not required", 532],
+    ["Yes, required", 595]
   ]
 }) }}
 
@@ -110,12 +110,12 @@ What is the difference between ‘Alphabetic’ and ‘Course / Alphabetic’?
 Who receives the alert?
 
 {{ appBarChart({
-  headers: ['Value', 'Providers'],
+  headers: ["Value", "Providers"],
   rows: [
-    ['Yes, required', 710],
-    ['No, not required', 873],
-    ['Yes - only my programmes', 99],
-    ['Yes - for accredited programmes only', 9]
+    ["Yes, required", 710],
+    ["No, not required", 873],
+    ["Yes - only my programmes", 99],
+    ["Yes - for accredited programmes only", 9]
   ]
 }) }}
 
@@ -134,10 +134,10 @@ Give new providers a choice between Yes and No. Give new accredited bodies the f
 }) }}
 
 {{ appBarChart({
-  headers: ['Value', 'Providers'],
+  headers: ["Value", "Providers"],
   rows: [
-    ['Yes, required', 607],
-    ['No, not required', 747]
+    ["Yes, required", 607],
+    ["No, not required", 747]
   ]
 }) }}
 
@@ -152,12 +152,12 @@ Set all new providers to “Yes, required”. This means PDFs of applications sh
 }) }}
 
 {{ appBarChart({
-  headers: ['Value', 'Providers'],
+  headers: ["Value", "Providers"],
   rows: [
-    ['Coming or Not (GT12B)', 1206],
-    ['Coming / Enrol (GT12E)', 25],
-    ['Not coming (GT12N)', 79],
-    ['No response (GT12)', 449]
+    ["Coming or Not (GT12B)", 1206],
+    ["Coming / Enrol (GT12E)", 25],
+    ["Not coming (GT12N)", 79],
+    ["No response (GT12)", 449]
   ]
 }) }}
 

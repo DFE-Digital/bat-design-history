@@ -48,16 +48,16 @@ The GT12 reply to contact is captured when users edit their letter template.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "UCAS Apply settings"},
-    {text: "UTT Correspondent"},
-    {text: "web-link correspondent"},
-    {text: "Finance contact"},
-    {text: "Fraud contact"},
-    {text: "UCAS administrator"},
-    {text: "Postal address"},
-    {text: "Pick a letter for successful applicants"},
-    {text: "Email alerts for new applications"},
-    {text: "UCAS Apply preferences with contacts section", caption: "Old design: UCAS Apply preferences with contacts section"},
-    {text: "Contacts captured during onboarding", caption: "Old design: UCAS Apply preferences with contacts section"}
+    { text: "UCAS Apply settings" },
+    { text: "UTT Correspondent" },
+    { text: "web-link correspondent" },
+    { text: "Finance contact" },
+    { text: "Fraud contact" },
+    { text: "UCAS administrator" },
+    { text: "Postal address" },
+    { text: "Pick a letter for successful applicants" },
+    { text: "Email alerts for new applications" },
+    { text: "UCAS Apply preferences with contacts section", caption: "Old design: UCAS Apply preferences with contacts section" },
+    { text: "Contacts captured during onboarding", caption: "Old design: UCAS Apply preferences with contacts section" }
   ]
 }) }}

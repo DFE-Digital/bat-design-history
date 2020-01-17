@@ -34,27 +34,23 @@ We [iterated this design](/find-teacher-training/mvp-iteration-jul-25) during re
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Index",
-      img: { src: "index.png" }
-    },
-    {
-      text: "Find by location",
-      img: { src: "find-by-location.png" },
-      caption: '### Results
+  items: [{
+    text: "Index",
+    img: { src: "index.png" }
+  }, {
+    text: "Find by location",
+    img: { src: "find-by-location.png" },
+    caption: "### Results
 
 As expected, location continues to be the number 1 need for users and the first choice was selected.
 
 “I can’t travel far with kids at the moment”
 
-“Wanted to do Physics with Maths, but closest was Sheffield, which was too far to travel”
-'
-    },
-    {
-      text: "Teacher training courses",
-      img: { src: "teacher-training-courses.png" },
-      caption: '### Search results
+“Wanted to do Physics with Maths, but closest was Sheffield, which was too far to travel”"
+  }, {
+    text: "Teacher training courses",
+    img: { src: "teacher-training-courses.png" },
+    caption: "### Search results
 
 The results have been updated from the private beta to make it easier to differentiate them. Changes include:
 
@@ -74,17 +70,15 @@ Users [seemed to understand](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=41m39
 
 * * *
 
-The ‘sort by’ dropdown caused some confusion. It isn’t clear how sorting by training provider would be useful. This was [removed in the next iteration](/find-teacher-training/mvp-iteration-jul-25#teacher-training-courses). The ordering of results by distance seemed implicit enough to remove the "sorted by distance" label too. We’ll see how this tests.
+The ‘sort by’ dropdown caused some confusion. It isn’t clear how sorting by training provider would be useful. This was [removed in the next iteration](/find-teacher-training/mvp-iteration-jul-25#teacher-training-courses). The ordering of results by distance seemed implicit enough to remove the “sorted by distance” label too. We’ll see how this tests.
 
 * * *
 
-Participant 1 didn’t know if courses were salaried or not, “[None of them tell you if they are salaried or not – I assume it’s not salaried](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=31m31s)” (no salaried courses were shown, they were looking for unsalaried courses because they had a bursary)
-'
-    },
-    {
-      text: "Change subject",
-      img: { src: "change-subject.png" },
-      caption: 'UCAS doesn’t have subjects for "Primary general", "Primary mathematics" or "Primary physical education".
+Participant 1 didn’t know if courses were salaried or not, “[None of them tell you if they are salaried or not – I assume it’s not salaried](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=31m31s)” (no salaried courses were shown, they were looking for unsalaried courses because they had a bursary)"
+  }, {
+    text: "Change subject",
+    img: { src: "change-subject.png" },
+    caption: "UCAS doesn’t have subjects for “Primary general”, “Primary mathematics” or “Primary physical education”.
 
 Business education is more commonly referred to as business studies.
 
@@ -94,14 +88,11 @@ Helpful guidance: [Improving the usability of multi-selecting from a long list](
 
 ### Iteration
 
-Before research we iterated the long list of subjects into [a grouped list](/find-teacher-training/mvp-iteration-jul-25#find-by-subject-collapsed).
-      '
-    },
-    {
-      text: "Minimum course page",
-      img: { src: "minimum-course-page.png" },
-      caption: '
-The course website, not shown here, was added prior to research.
+Before research we iterated the long list of subjects into [a grouped list](/find-teacher-training/mvp-iteration-jul-25#find-by-subject-collapsed)."
+  }, {
+    text: "Minimum course page",
+    img: { src: "minimum-course-page.png" },
+    caption: "The course website, not shown here, was added prior to research.
 
 ### Results
 
@@ -115,8 +106,6 @@ The website prevents the user from reaching a dead end.
 
 Participant 1 wanted to see requirements and eligibility, “[I want to see what they’re looking for](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=21m21s)”
 
-Participant 2 noted that a ‘[school bio](https://lookback.io/watch/QCBC3KYjNxtEuQH5R?t=24m8s)’ would be useful information to show.
-'
-    }
-  ]
+Participant 2 noted that a ‘[school bio](https://lookback.io/watch/QCBC3KYjNxtEuQH5R?t=24m8s)’ would be useful information to show."
+  }]
 }) }}

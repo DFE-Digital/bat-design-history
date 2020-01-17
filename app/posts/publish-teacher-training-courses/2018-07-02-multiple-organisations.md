@@ -9,9 +9,9 @@ We are still tightly coupled with UCAS’s course model. To avoid creating menta
 Examples of ‘SCITT-schools’:
 
 * 2Schools Consortium / Oakthorpe Primary School
-* Astra SCITT / Dr Challoner's Grammar School
+* Astra SCITT / Dr Challoner’s Grammar School
 * Bishop Ramsey Church of England School / Hillingdon SCITT
-* Bradford Birth to 19 SCITT / St Edmund's Nursery School and Children's Centre
+* Bradford Birth to 19 SCITT / St Edmund’s Nursery School and Children’s Centre
 * Buckingham Partnership / Royal Latin School
 * Chepping View Primary Academy / Chepping View Primary Academy SCITT
 * Cheshire East SCITT / Holmes Chapel Comprehensive School
@@ -63,29 +63,19 @@ When running the prototype, set \`multi-organisation\` to true in [prototype\_da
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Organisations",
-      img: { src: "organisations.png" },
-      caption: '
-A list of organisations the user can manage. Sometimes these organisations will have very similar names, eg Chepping View Primary Academy and Chepping View Primary Academy SCITT.
+  items: [{
+    text: "Organisations",
+    img: { src: "organisations.png" },
+    caption: "A list of organisations the user can manage. Sometimes these organisations will have very similar names, eg Chepping View Primary Academy and Chepping View Primary Academy SCITT.
 
-Include course count as an additional differentiator.
-      '
-    },
-    {
-      text: "Courses for an organisation",
-      img: { src: "courses-for-an-organisation.png" },
-      caption: '
-This page is the same as for a single user organisation, with the exception of the breadcrumb.
-      '
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" },
-      caption: '
-See breadcrumb again.
-      '
-    }
-  ]
+Include course count as an additional differentiator."
+  }, {
+    text: "Courses for an organisation",
+    img: { src: "courses-for-an-organisation.png" },
+    caption: "This page is the same as for a single user organisation, with the exception of the breadcrumb."
+  }, {
+    text: "Course",
+    img: { src: "course.png" },
+    caption: "See breadcrumb again."
+  }]
 }) }}

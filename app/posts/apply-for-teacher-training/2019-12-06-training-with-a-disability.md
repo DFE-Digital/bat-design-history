@@ -43,8 +43,8 @@ Essentially, we can ask questions if it’s regarding an applicant’s ability t
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Training with a disability"},
-    {text: "Review when disability given"},
-    {text: "Review without disability"}
+    { text: "Training with a disability" },
+    { text: "Review when disability given" },
+    { text: "Review without disability" }
   ]
 }) }}

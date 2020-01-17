@@ -16,14 +16,11 @@ While a user hasn’t agree to the terms, the only pages they can access are thi
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Before you begin",
-      img: { src: "before-you-begin.png" }
-    },
-    {
-      text: "Before you begin with error",
-      img: { src: "before-you-begin-with-error.png" }
-    }
-  ]
+  items: [{
+    text: "Before you begin",
+    img: { src: "before-you-begin.png" }
+  }, {
+    text: "Before you begin with error",
+    img: { src: "before-you-begin-with-error.png" }
+  }]
 }) }}

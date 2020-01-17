@@ -16,7 +16,7 @@ We tested this with the last user in our ‘New course wizard’ round of resear
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Course title is ok"},
-    {text: "Course title needs changes"}
+    { text: "Course title is ok" },
+    { text: "Course title needs changes" }
   ]
 }) }}

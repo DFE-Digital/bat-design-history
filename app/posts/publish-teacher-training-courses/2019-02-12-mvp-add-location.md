@@ -11,8 +11,8 @@ We’d also avoid having to categorise existing locations into types, though doi
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Add training location"},
-    {text: "Edit training location"},
-    {text: "Locations"}
+    { text: "Add training location" },
+    { text: "Edit training location" },
+    { text: "Locations" }
   ]
 }) }}

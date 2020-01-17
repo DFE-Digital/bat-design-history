@@ -3,7 +3,6 @@ title: Financial incentives
 description: Changes made to the financial incentives logic for courses with multiple subjects.
 tags:
 ---
-
 ## What is the problem?
 
 There are a number of courses offered by providers that combine two discrete subjects into a single course. For example:

@@ -109,8 +109,8 @@ This option accepts all applicants, even if they have grades below a C.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Example warnings in UCAS apply"},
-    {text: "Qualification options in UCAS"},
-    {text: "How UCAS explains the options to providers"}
+    { text: "Example warnings in UCAS apply" },
+    { text: "Qualification options in UCAS" },
+    { text: "How UCAS explains the options to providers" }
   ]
 }) }}

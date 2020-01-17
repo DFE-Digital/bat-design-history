@@ -33,31 +33,24 @@ The new design creates an overview page containing a summary and the publishing 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Organisation",
-      img: { src: "organisation.png" }
-    },
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Edit about your organisation",
-      img: { src: "edit-about-your-organisation.png" }
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" },
-      caption: 'Note the similarity with ‘About your organisation’ and the orange draft status.'
-    },
-    {
-      text: "Preview",
-      img: { src: "preview.png" }
-    },
-    {
-      text: "Course length and fees",
-      img: { src: "course-length-and-fees.png" }
-    }
-  ]
+  items: [{
+    text: "Organisation",
+    img: { src: "organisation.png" }
+  }, {
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "Edit about your organisation",
+    img: { src: "edit-about-your-organisation.png" }
+  }, {
+    text: "Course",
+    img: { src: "course.png" },
+    caption: "Note the similarity with ‘About your organisation’ and the orange draft status."
+  }, {
+    text: "Preview",
+    img: { src: "preview.png" }
+  }, {
+    text: "Course length and fees",
+    img: { src: "course-length-and-fees.png" }
+  }]
 }) }}

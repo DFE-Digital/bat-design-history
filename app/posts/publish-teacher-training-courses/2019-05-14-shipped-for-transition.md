@@ -39,15 +39,15 @@ Some providers have been using the add course form to try and edit existing cour
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Transition information"},
-    {text: "Organisation"},
-    {text: "Locations"},
-    {text: "Edit location"},
-    {text: "Courses"},
-    {text: "Draft course"},
-    {text: "Published course"},
-    {text: "Basic details tab"},
-    {text: "Not running course"},
-    {text: "Editing vacancies"}
+    { text: "Transition information" },
+    { text: "Organisation" },
+    { text: "Locations" },
+    { text: "Edit location" },
+    { text: "Courses" },
+    { text: "Draft course" },
+    { text: "Published course" },
+    { text: "Basic details tab" },
+    { text: "Not running course" },
+    { text: "Editing vacancies" }
   ]
 }) }}

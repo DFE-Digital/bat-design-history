@@ -39,14 +39,11 @@ Suspended means that you will not be running your training programme in the curr
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Courses",
-      img: { src: "courses.png" }
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" }
-    }
-  ]
+  items: [{
+    text: "Courses",
+    img: { src: "courses.png" }
+  }, {
+    text: "Course",
+    img: { src: "course.png" }
+  }]
 }) }}

@@ -50,7 +50,7 @@ Try having one page per subject/provider combination. One search result and page
 
 Higher education courses are almost all PGCE. There is one course per subject already. No folding is required.
 
-SCITT courses are self-accrediting, they may partner with a university for PGCE aspects of a course but this doesn't appear to be classified as accreditation. A few duplicate courses around qualification, these should be easy to fold into a single course.
+SCITT courses are self-accrediting, they may partner with a university for PGCE aspects of a course but this doesn’t appear to be classified as accreditation. A few duplicate courses around qualification, these should be easy to fold into a single course.
 
 ### Folding School Direct courses
 

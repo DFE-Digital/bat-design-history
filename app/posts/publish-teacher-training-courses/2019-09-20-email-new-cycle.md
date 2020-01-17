@@ -50,7 +50,7 @@ We’ve noticed that some of your courses on [Find postgraduate teacher training
 
 ### How to update your courses
 
-To update your courses, go to the section titled ‘Next cycle (2020 - 2021)’ on your organisation’s homepage in Publish and click on the individual course. References to skills tests are most likely to appear in the 'Interview process' and ‘Requirements and eligibility’ sections.
+To update your courses, go to the section titled ‘Next cycle (2020 - 2021)’ on your organisation’s homepage in Publish and click on the individual course. References to skills tests are most likely to appear in the ‘Interview process‘ and ‘Requirements and eligibility’ sections.
 
 You should make these changes before your 2020/21 courses appear on Find on 1 October 2019. If you’ve already published your courses (by clicking the green ‘Publish in October’ button), you can make the changes and then publish them again.
 

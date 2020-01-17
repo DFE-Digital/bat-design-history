@@ -26,11 +26,11 @@ Concerns we expect from providers that the design would need to address:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "What type of location?"},
-    {text: "Region name"},
-    {text: "Schools in the area"},
-    {text: "Confirm"},
-    {text: "Confirm (with a map)"},
-    {text: "Edit"}
+    { text: "What type of location?" },
+    { text: "Region name" },
+    { text: "Schools in the area" },
+    { text: "Confirm" },
+    { text: "Confirm (with a map)" },
+    { text: "Edit" }
   ]
 }) }}

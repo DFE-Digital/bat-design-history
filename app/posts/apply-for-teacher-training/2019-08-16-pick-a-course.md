@@ -15,10 +15,10 @@ Users coming directly from Find could have a course pre-populated or added using
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Your application"},
-    {text: "Have you chosen a course to apply to?"},
-    {text: "Which training provider?"},
-    {text: "Which course?"},
-    {text: "Find a course (when course isn’t known)"}
+    { text: "Your application" },
+    { text: "Have you chosen a course to apply to?" },
+    { text: "Which training provider?" },
+    { text: "Which course?" },
+    { text: "Find a course (when course isn’t known)" }
   ]
 }) }}

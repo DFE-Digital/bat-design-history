@@ -7,10 +7,10 @@ An update on the [original onboarding wizard](/publish-teacher-training-courses/
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Who is adding this organisation?"},
-    {text: "Organisation name"},
-    {text: "Access to ucas"},
-    {text: "First location"},
-    {text: "Confirmation"}
+    { text: "Who is adding this organisation?" },
+    { text: "Organisation name" },
+    { text: "Access to ucas" },
+    { text: "First location" },
+    { text: "Confirmation" }
   ]
 }) }}

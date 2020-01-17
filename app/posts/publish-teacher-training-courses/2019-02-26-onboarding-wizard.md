@@ -54,12 +54,12 @@ It’s not clear whether we will have time to build an onboarding wizard, as MVP
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Accept terms"},
-    {text: "Organisation name"},
-    {text: "Provider code"},
-    {text: "Ways candidates can contact you"},
-    {text: "Add your first location"},
-    {text: "Preferences for UCAS Apply"},
-    {text: "Request access for people"}
+    { text: "Accept terms" },
+    { text: "Organisation name" },
+    { text: "Provider code" },
+    { text: "Ways candidates can contact you" },
+    { text: "Add your first location" },
+    { text: "Preferences for UCAS Apply" },
+    { text: "Request access for people" }
   ]
 }) }}

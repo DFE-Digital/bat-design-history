@@ -13,10 +13,8 @@ In this design we:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   hideContents: true,
-  items: [
-    {
-      text: "Organisation",
-      img: { src: "organisation.png" }
-    }
-  ]
+  items: [{
+    text: "Organisation",
+    img: { src: "organisation.png" }
+  }]
 }) }}

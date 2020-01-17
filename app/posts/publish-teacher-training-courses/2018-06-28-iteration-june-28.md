@@ -19,26 +19,20 @@ We clarified which fields were optional and refined the preview to hide incomple
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "PGCE with QTS course option",
-      img: { src: "pgce-with-qts-course-option.png" }
-    },
-    {
-      text: "QTS with salary course option",
-      img: { src: "qts-with-salary-course-option.png" }
-    },
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Requirements and eligibility",
-      img: { src: "requirements-and-eligibility.png" }
-    },
-    {
-      text: "Preview",
-      img: { src: "preview.png" }
-    }
-  ]
+  items: [{
+    text: "PGCE with QTS course option",
+    img: { src: "pgce-with-qts-course-option.png" }
+  }, {
+    text: "QTS with salary course option",
+    img: { src: "qts-with-salary-course-option.png" }
+  }, {
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "Requirements and eligibility",
+    img: { src: "requirements-and-eligibility.png" }
+  }, {
+    text: "Preview",
+    img: { src: "preview.png" }
+  }]
 }) }}

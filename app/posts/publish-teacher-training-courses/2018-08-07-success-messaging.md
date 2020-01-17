@@ -14,14 +14,11 @@ Use links in messages to nudge users towards checking what they’ve just done. 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Course saved",
-      img: { src: "course-saved.png" }
-    },
-    {
-      text: "Course published",
-      img: { src: "course-published.png" }
-    }
-  ]
+  items: [{
+    text: "Course saved",
+    img: { src: "course-saved.png" }
+  }, {
+    text: "Course published",
+    img: { src: "course-published.png" }
+  }]
 }) }}

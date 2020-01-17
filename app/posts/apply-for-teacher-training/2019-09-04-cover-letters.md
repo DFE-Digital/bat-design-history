@@ -20,9 +20,9 @@ Base cover letters on the name of the provider. If there’s multiple courses fo
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Your application"},
-    {text: "Cover letter"},
-    {text: "Completed cover letter"},
-    {text: "Application before courses added"}
+    { text: "Your application" },
+    { text: "Cover letter" },
+    { text: "Completed cover letter" },
+    { text: "Application before courses added" }
   ]
 }) }}

@@ -7,9 +7,9 @@ Following on from [the original design](/apply-for-teacher-training/apply-june-2
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Work history"},
-    {text: "Job"},
-    {text: "Out of the workplace"},
-    {text: "Review work history"}
+    { text: "Work history" },
+    { text: "Job" },
+    { text: "Out of the workplace" },
+    { text: "Review work history" }
   ]
 }) }}

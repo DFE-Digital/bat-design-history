@@ -18,14 +18,11 @@ Inside the disclosure the listed locations only have their address and status, v
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Discontinued training locations behind disclosure",
-      img: { src: "discontinued-training-locations.png" }
-    },
-    {
-      text: "Disclosure when open",
-      img: { src: "discontinued-training-locations-open.png" }
-    }
-  ]
+  items: [{
+    text: "Discontinued training locations behind disclosure",
+    img: { src: "discontinued-training-locations.png" }
+  }, {
+    text: "Disclosure when open",
+    img: { src: "discontinued-training-locations-open.png" }
+  }]
 }) }}

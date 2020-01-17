@@ -8,7 +8,7 @@ permalink: "/sitemap.html"
   <h2 class="govuk-heading-l">
     <a href="{{ item.url }}">{{ item.data.title }}</a>
   </h2>
-  {% set collection = item.data.pagination.data | replace('collections.', '') %}
+  {% set collection = item.data.pagination.data | replace("collections.", "") %}
   <ul class="govuk-list">
   {% for item in collections[collection] %}
     <li class="govuk-!-margin-bottom-2">

@@ -9,7 +9,7 @@ Due to tight deadlines, referees submit their references ussing a Google Form. A
 Support agents can:
 
 * check the status of applications (applications that need action appear at the top)
-* see an audit trail of everything that's happened to an application
+* see an audit trail of everything that’s happened to an application
 * create new vendor API tokens
 
 In future we’ll look at:
@@ -21,14 +21,14 @@ In future we’ll look at:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: 'Application list'},
-    {text: 'Application details (1 reference request failed and waiting on 1 reference)'},
-    {text: 'Application details (references received)'},
-    {text: 'Application details (Waiting on references)'},
-    {text: 'Import references form'},
-    {text: 'Import references success page'},
-    {text: 'API tokens list'},
-    {text: 'Create API token'},
-    {text: 'Create API token success page'}
+    { text: "Application list"},
+    { text: "Application details (1 reference request failed and waiting on 1 reference)"},
+    { text: "Application details (references received)"},
+    { text: "Application details (Waiting on references)"},
+    { text: "Import references form"},
+    { text: "Import references success page"},
+    { text: "API tokens list"},
+    { text: "Create API token"},
+    { text: "Create API token success page"}
   ]
 }) }}

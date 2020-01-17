@@ -76,10 +76,10 @@ The preview links could persist on the course page and not be dependent on the c
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Courses for next cycle"},
-    {text: "Draft course with publish messaging"},
-    {text: "Course just published"},
-    {text: "Published course"},
-    {text: "Course with unpublished changes"}
+    { text: "Courses for next cycle" },
+    { text: "Draft course with publish messaging" },
+    { text: "Course just published" },
+    { text: "Published course" },
+    { text: "Course with unpublished changes" }
   ]
 }) }}

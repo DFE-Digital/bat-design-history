@@ -14,10 +14,8 @@ This design explains the situation to the user and asks for the details we need.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   hideContents: true,
-  items: [
-    {
-      text: "Which organisation?",
-      img: { src: "01-no-known-organisation.png" }
-    }
-  ]
+  items: [{
+    text: "Which organisation?",
+    img: { src: "01-no-known-organisation.png" }
+  }]
 }) }}

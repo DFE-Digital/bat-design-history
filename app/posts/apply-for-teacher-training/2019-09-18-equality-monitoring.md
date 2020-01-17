@@ -63,14 +63,14 @@ The design system provides a [complete pattern for collecting ethnicity informat
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Equality monitoring"},
-    {text: "What is your sex?"},
-    {text: "Sexual orientation"},
-    {text: "Disability status"},
-    {text: "Any health problems?"},
-    {text: "Ethnic group"},
-    {text: "Ethnic background"},
-    {text: "Religion"},
-    {text: "Check your answers"}
+    { text: "Equality monitoring" },
+    { text: "What is your sex?" },
+    { text: "Sexual orientation" },
+    { text: "Disability status" },
+    { text: "Any health problems?" },
+    { text: "Ethnic group" },
+    { text: "Ethnic background" },
+    { text: "Religion" },
+    { text: "Check your answers" }
   ]
 }) }}

@@ -10,39 +10,30 @@ We set up 6 unmoderated research sessions with providers where we asked them to 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Courses",
-      img: { src: "courses.png" }
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" }
-    },
-    {
-      text: "Course details from ucas",
-      img: { src: "course-details-from-ucas.png" }
-    },
-    {
-      text: "PGCE with QTS course option",
-      img: { src: "pgce-with-qts-course-option.png" },
-      caption: "In large text boxes it is not clear what formatting, if any, a user can put in. We’ve seen users assume that paragraphs and lists are accepted."
-    },
-    {
-      text: "QTS with salary course option",
-      img: { src: "qts-with-salary-course-option.png" }
-    },
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Requirements and eligibility",
-      img: { src: "requirements-and-eligibility.png" }
-    },
-    {
-      text: "Preview",
-      img: { src: "preview.png" }
-    }
-  ]
+  items: [{
+    text: "Courses",
+    img: { src: "courses.png" }
+  }, {
+    text: "Course",
+    img: { src: "course.png" }
+  }, {
+    text: "Course details from ucas",
+    img: { src: "course-details-from-ucas.png" }
+  }, {
+    text: "PGCE with QTS course option",
+    img: { src: "pgce-with-qts-course-option.png" },
+    caption: "In large text boxes it is not clear what formatting, if any, a user can put in. We’ve seen users assume that paragraphs and lists are accepted."
+  }, {
+    text: "QTS with salary course option",
+    img: { src: "qts-with-salary-course-option.png" }
+  }, {
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "Requirements and eligibility",
+    img: { src: "requirements-and-eligibility.png" }
+  }, {
+    text: "Preview",
+    img: { src: "preview.png" }
+  }]
 }) }}

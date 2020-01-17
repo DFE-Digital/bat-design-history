@@ -13,9 +13,9 @@ Users had trouble with accounts:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Start page"},
-    {text: "Before you begin"},
-    {text: "Check your email"},
-    {text: "Please confirm your email address"}
+    { text: "Start page" },
+    { text: "Before you begin" },
+    { text: "Check your email" },
+    { text: "Please confirm your email address" }
   ]
 }) }}

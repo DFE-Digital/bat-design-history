@@ -8,10 +8,8 @@ The form completed by new training providers when they begin offering initial te
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Onboarding form",
-      img: { src: "01-onboarding-form.png" }
-    }
-  ]
+  items: [{
+    text: "Onboarding form",
+    img: { src: "01-onboarding-form.png" }
+  }]
 }) }}

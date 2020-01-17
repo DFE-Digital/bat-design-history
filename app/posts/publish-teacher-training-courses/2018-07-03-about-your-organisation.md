@@ -24,26 +24,20 @@ An organisation can have no accrediting provider, one provider, or many. Add a f
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Organisation",
-      img: { src: "organisation.png" }
-    },
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "With one accrediting provider",
-      img: { src: "with-one-accrediting-provider.png" }
-    },
-    {
-      text: "With multiple accrediting providers",
-      img: { src: "with-multiple-accrediting-providers.png" }
-    },
-    {
-      text: "Course without organisation section",
-      img: { src: "course-without-organisation-section.png" }
-    }
-  ]
+  items: [{
+    text: "Organisation",
+    img: { src: "organisation.png" }
+  }, {
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "With one accrediting provider",
+    img: { src: "with-one-accrediting-provider.png" }
+  }, {
+    text: "With multiple accrediting providers",
+    img: { src: "with-multiple-accrediting-providers.png" }
+  }, {
+    text: "Course without organisation section",
+    img: { src: "course-without-organisation-section.png" }
+  }]
 }) }}

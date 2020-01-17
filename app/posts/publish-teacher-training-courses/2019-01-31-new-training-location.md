@@ -41,11 +41,11 @@ On the summary screens we started with ‘Code’, which a user misunderstood. W
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Training locations"},
-    {text: "What type of training location?"},
-    {text: "Pick location"},
-    {text: "Is this name and address correct?"},
-    {text: "Something needs changing"},
-    {text: "Check your answers"}
+    { text: "Training locations" },
+    { text: "What type of training location?" },
+    { text: "Pick location" },
+    { text: "Is this name and address correct?" },
+    { text: "Something needs changing" },
+    { text: "Check your answers" }
   ]
 }) }}

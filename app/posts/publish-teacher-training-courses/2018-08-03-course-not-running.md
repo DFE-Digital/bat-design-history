@@ -34,18 +34,14 @@ Courses that aren’t running can’t be edited. The fields and publish actions 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Courses with status column",
-      img: { src: "courses-with-status-column.png" }
-    },
-    {
-      text: "A course that’s not running",
-      img: { src: "a-course-not-running.png" }
-    },
-    {
-      text: "A course that’s running",
-      img: { src: "a-course-that-is-running.png" }
-    }
-  ]
+  items: [{
+    text: "Courses with status column",
+    img: { src: "courses-with-status-column.png" }
+  }, {
+    text: "A course that’s not running",
+    img: { src: "a-course-not-running.png" }
+  }, {
+    text: "A course that’s running",
+    img: { src: "a-course-that-is-running.png" }
+  }]
 }) }}

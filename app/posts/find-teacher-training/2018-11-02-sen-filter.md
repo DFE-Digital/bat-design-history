@@ -23,8 +23,11 @@ If a user selects only SEN and no other subject we should show all SEN courses a
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Subject filter with SEN option", img: { src: "01-subject-filter-with-sen.png" } },
-    { text: "Results with SEN filter enabled", img: { src: "02-results-with-sen-filter.png" } }
-  ]
+  items: [{
+    text: "Subject filter with SEN option",
+    img: { src: "01-subject-filter-with-sen.png" }
+  }, {
+    text: "Results with SEN filter enabled",
+    img: { src: "02-results-with-sen-filter.png" }
+  }]
 }) }}

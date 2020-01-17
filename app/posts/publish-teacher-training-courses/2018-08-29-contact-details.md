@@ -71,26 +71,20 @@ If we have problems with these fields being required we can loosen the rules.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Contact details",
-      img: { src: "contact-details.png" }
-    },
-    {
-      text: "About your organisation with errors",
-      img: { src: "about-your-organisation-with-errors.png" }
-    },
-    {
-      text: "Contact details with errors",
-      img: { src: "contact-details-with-errors.png" }
-    },
-    {
-      text: "Preview with missing contact details",
-      img: { src: "preview-with-missing-contact-details.png" }
-    }
-  ]
+  items: [{
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "Contact details",
+    img: { src: "contact-details.png" }
+  }, {
+    text: "About your organisation with errors",
+    img: { src: "about-your-organisation-with-errors.png" }
+  }, {
+    text: "Contact details with errors",
+    img: { src: "contact-details-with-errors.png" }
+  }, {
+    text: "Preview with missing contact details",
+    img: { src: "preview-with-missing-contact-details.png" }
+  }]
 }) }}

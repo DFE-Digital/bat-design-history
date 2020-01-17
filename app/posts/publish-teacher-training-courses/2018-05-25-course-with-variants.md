@@ -40,45 +40,24 @@ We may want each school to have its own information: description, address and ty
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Course",
-      img: { src: "course.png" },
-      caption: '
-When a salary variant is available, include the "Salary options" field. Use these fields to explain how this variant is different – eg more time in school, limited places, more experience needed.
-      '
-    },
-    {
-      text: "About this course",
-      img: { src: "about-this-course.png" },
-      caption: '
-Course information that does not change between variants. Add a specific field to indicate how this course differs from other subjects offered by the same provider.
+  items: [{
+    text: "Course",
+    caption: "When a salary variant is available, include the “Salary options” field. Use these fields to explain how this variant is different – eg more time in school, limited places, more experience needed."
+  }, {
+    text: "About this course",
+    caption: "Course information that does not change between variants. Add a specific field to indicate how this course differs from other subjects offered by the same provider.
 
-Some of these fields may end up being associated with the training provider or some sort of default course detail so they can be easily shared across courses.
-      '
-    },
-    {
-      text: "Course requirements",
-      img: { src: "course-requirements.png" },
-      caption: '
-Fields copied from the [spreadsheet onboarding](/publish-teacher-training-courses/original-onboarding). These may also be shared between courses.
-      '
-    },
-    {
-      text: "Qualification options",
-      img: { src: "qualification-options.png" },
-      caption: '
-Allow training providers to describe a QTS only course, and then point out the differences in a PGCE with QTS course. A key difference is the fee which can be noted separately.
+Some of these fields may end up being associated with the training provider or some sort of default course detail so they can be easily shared across courses."
+  }, {
+    text: "Course requirements",
+    caption: "Fields copied from the [spreadsheet onboarding](/publish-teacher-training-courses/original-onboarding). These may also be shared between courses."
+  }, {
+    text: "Qualification options",
+    caption: "Allow training providers to describe a QTS only course, and then point out the differences in a PGCE with QTS course. A key difference is the fee which can be noted separately.
 
-Fee fields might need to be standardised.
-      '
-    },
-    {
-      text: "Salary options",
-      img: { src: "salary-options.png" },
-      caption: '
-Allow training providers to explain how this variant is different – eg more time in school, limited places, more experience needed. Note the salary provided – this is important for comparison with fees and financial support such as bursaries and scholarships.
-      '
-    }
-  ]
+Fee fields might need to be standardised."
+  }, {
+    text: "Salary options",
+    caption: "Allow training providers to explain how this variant is different – eg more time in school, limited places, more experience needed. Note the salary provided – this is important for comparison with fees and financial support such as bursaries and scholarships."
+  }]
 }) }}

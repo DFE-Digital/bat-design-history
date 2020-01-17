@@ -21,7 +21,7 @@ Specifically we want to:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "We’ve found problems with this course"},
-    {text: "Problems with this course"}
+    { text: "We’ve found problems with this course" },
+    { text: "Problems with this course" }
   ]
 }) }}

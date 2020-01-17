@@ -18,11 +18,11 @@ A user flow where a candidate creates an application in bits as and when require
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Your application"},
-    {text: "Your application (expanded)"},
-    {text: "Invite reply"},
-    {text: "Invite reply (expanded)"},
-    {text: "Conditional offer"},
-    {text: "Conditional offer (with tracking)"}
+    { text: "Your application" },
+    { text: "Your application (expanded)" },
+    { text: "Invite reply" },
+    { text: "Invite reply (expanded)" },
+    { text: "Conditional offer" },
+    { text: "Conditional offer (with tracking)" }
   ]
 }) }}

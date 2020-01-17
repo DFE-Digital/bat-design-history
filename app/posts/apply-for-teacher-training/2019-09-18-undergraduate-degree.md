@@ -15,8 +15,8 @@ This design iteration asks for the undergraduate degree first, and includes a pr
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Add undergraduate degree"},
-    {text: "Add another degree"},
-    {text: "Edit undergraduate degree"}
+    { text: "Add undergraduate degree" },
+    { text: "Add another degree" },
+    { text: "Edit undergraduate degree" }
   ]
 }) }}

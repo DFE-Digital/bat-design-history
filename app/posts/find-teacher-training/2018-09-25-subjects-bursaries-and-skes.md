@@ -33,12 +33,23 @@ One user was confused about how to apply, they’d contact the provider for more
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Start page", img: { src: "start-page.png" } },
-    { text: "Find by location", img: { src: "find-by-location.png" } },
-    { text: "Find by subject", img: { src: "find-by-subject.png" } },
-    { text: "Search results", img: { src: "search-results.png" } },
-    { text: "Salary filter", img: { src: "salary-filter.png" } },
-    { text: "Full course page", img: { src: "full-course-page.png" } }
-  ]
+  items: [{
+    text: "Start page",
+    img: { src: "start-page.png" }
+  }, {
+    text: "Find by location",
+    img: { src: "find-by-location.png" }
+  }, {
+    text: "Find by subject",
+    img: { src: "find-by-subject.png" }
+  }, {
+    text: "Search results",
+    img: { src: "search-results.png" }
+  }, {
+    text: "Salary filter",
+    img: { src: "salary-filter.png" }
+  }, {
+    text: "Full course page",
+    img: { src: "full-course-page.png" }
+  }]
 }) }}

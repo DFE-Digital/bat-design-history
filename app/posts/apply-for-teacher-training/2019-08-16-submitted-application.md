@@ -9,7 +9,7 @@ Candidates may also need to start a new application, or see what they originally
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Applications"},
-    {text: "Submitted application"}
+    { text: "Applications" },
+    { text: "Submitted application" }
   ]
 }) }}

@@ -56,15 +56,15 @@ With this in mind, we consolidated the two offer types into one, allowing provid
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Applications"},
-    {text: "Application"},
-    {text: "Respond to application"},
-    {text: "Reject application"},
-    {text: "Confirm rejection"},
-    {text: "Make an offer"},
-    {text: "Confirm offer"},
-    {text: "Application (success message)"},
-    {text: "Candidate accepted offer (email)"},
-    {text: "Candidate rejected offer (email)"}
+    { text: "Applications" },
+    { text: "Application" },
+    { text: "Respond to application" },
+    { text: "Reject application" },
+    { text: "Confirm rejection" },
+    { text: "Make an offer" },
+    { text: "Confirm offer" },
+    { text: "Application (success message)" },
+    { text: "Candidate accepted offer (email)" },
+    { text: "Candidate rejected offer (email)" }
   ]
 }) }}

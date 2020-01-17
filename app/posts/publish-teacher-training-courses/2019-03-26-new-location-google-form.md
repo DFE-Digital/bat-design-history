@@ -9,8 +9,8 @@ As an MVP, and so that providers can still add locations when they need to, weâ€
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Locations with link to Google form"},
-    {text: "Who is adding?"},
-    {text: "Location information"}
+    { text: "Locations with link to Google form" },
+    { text: "Who is adding?" },
+    { text: "Location information" }
   ]
 }) }}

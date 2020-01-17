@@ -9,10 +9,8 @@ We send our own welcome email so that users have an easy way back to our service
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   hideContents: true,
-  items: [
-    {
-      text: "Welcome email",
-      img: { src: "01-welcome-email.png" }
-    }
-  ]
+  items: [{
+    text: "Welcome email",
+    img: { src: "01-welcome-email.png" }
+  }]
 }) }}

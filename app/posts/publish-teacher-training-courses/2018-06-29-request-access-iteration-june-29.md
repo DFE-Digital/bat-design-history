@@ -10,14 +10,11 @@ More about the request access process on the ticket: [BATSA-384](https://dfedigi
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Request access",
-      img: { src: "request-access.png" }
-    },
-    {
-      text: "Access requested",
-      img: { src: "access-requested.png" }
-    }
-  ]
+  items: [{
+    text: "Request access",
+    img: { src: "request-access.png" }
+  }, {
+    text: "Access requested",
+    img: { src: "access-requested.png" }
+  }]
 }) }}
