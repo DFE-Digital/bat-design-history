@@ -153,7 +153,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     },
     why: [{
       who: ["provider"],
-      what: "uses this to verify a candidate’s identity. If offered a place, it is then used when making a DBS check"
+      what: "uses this to verify a candidate’s identity. If offered a place, it’s used when making a DBS check"
     }, {
       who: ["provider", "dfe"],
       what: "use a combination of this and other values to identify individual candidates and for record matching"
