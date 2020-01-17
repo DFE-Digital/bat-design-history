@@ -329,7 +329,7 @@ Candidates can update these answers before (and 5 working days after) submitting
       what: "may want to demonstrate language skills, especially if looking to teach a language subject or teach in school with children whose main language isn’t English"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["Assesed at interview"],
+    accuracy: ["Assessed at interview"],
     notes: ["SCITTs/SDs we've recently spoken to haven’t expressed a need for this, but it’s something candidates sometimes like to mention"]
   }
 }) }}
