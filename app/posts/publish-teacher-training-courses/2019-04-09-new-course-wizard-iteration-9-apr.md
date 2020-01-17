@@ -1,5 +1,5 @@
 ---
-title: New course wizard – Iteration 9 April
+title: New course wizard – 9 April iteration
 description: Bring the wizard in line with changes made to the Google Form.
 ---
 Bring the wizard in line with changes made to the Google Form:
