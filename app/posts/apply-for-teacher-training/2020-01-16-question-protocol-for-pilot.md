@@ -742,7 +742,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Reference may collaborate some of this information"],
-    notes: ["We’ve allowed people to include volunteering roles that don't involve kids – this could be clearer though."]
+    notes: ["We’ve allowed people to include volunteering roles that don't involve kids – this needs to be clearer."]
   }
 }) }}
 
