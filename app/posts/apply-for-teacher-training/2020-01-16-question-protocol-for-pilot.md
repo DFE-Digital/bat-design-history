@@ -259,7 +259,7 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     what: ["Appears in provider-facing interface and retrievable via API"],
-    notes: ["We needn’t ask for additional nationalities; dual nationals can enter their British or EEA-derived nationality"]
+    notes: ["We don’t need to ask for additional nationalities; dual nationals can enter their British or EEA-derived nationality. We currently offer no guidance around this."]
   }
 }) }}
 
