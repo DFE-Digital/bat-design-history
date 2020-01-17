@@ -1,9 +1,7 @@
 ---
 title: Iteration – 24 August
 description: Split homepage into tasks, Step 1 and Step 2
-tags:
 ---
-
 The [previous iteration](/publish-teacher-training-courses/iteration-aug-23) which placed a new emphasis on ‘About your organisation’ on the homepage tested well.
 
 In this design we:
@@ -15,10 +13,8 @@ In this design we:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   hideContents: true,
-  items: [
-    {
-      text: "Organisation",
-      img: { src: "organisation.png" }
-    }
-  ]
+  items: [{
+    text: "Organisation",
+    img: { src: "organisation.png" }
+  }]
 }) }}

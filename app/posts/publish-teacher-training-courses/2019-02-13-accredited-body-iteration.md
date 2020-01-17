@@ -12,9 +12,15 @@ Update the design so that:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {text: "Who is the accredited body?"},
-    {text: "When there are no previous accredited bodies"},
-    {text: "Old design"}
-  ]
+  items: [{
+    text: "Who is the accredited body?"
+  }, {
+    text: "When there are no previous accredited bodies"
+  }, {
+    text: "Old design",
+    img: {
+      path: "/images/publish-teacher-training-courses/new-course-iteration-14-jan",
+      src: "who-is-the-accredited-body.png"
+    }
+  }]
 }) }}

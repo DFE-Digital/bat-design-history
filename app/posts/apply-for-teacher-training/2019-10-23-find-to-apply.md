@@ -28,14 +28,14 @@ To skip the start page, the content on the Apply and Find start pages must be co
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Choose how to apply"},
-    {text: "Check you can use GOV.UK Apply"},
-    {text: "Give us your email"},
-    {text: "Check your email"},
-    {text: "Confirm email address"},
-    {text: "Account created"},
-    {text: "You selected a course"},
-    {text: "Pick a course location"},
-    {text: "Course choices"}
+    { text: "Choose how to apply" },
+    { text: "Check you can use GOV.UK Apply" },
+    { text: "Give us your email" },
+    { text: "Check your email" },
+    { text: "Confirm email address" },
+    { text: "Account created" },
+    { text: "You selected a course" },
+    { text: "Pick a course location" },
+    { text: "Course choices" }
   ]
 }) }}

@@ -26,11 +26,11 @@ Candidates want to express more about themselves than just giving mandatory data
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Your application"},
-    {text: "Personal details"},
-    {text: "Your qualifications"},
-    {text: "Your qualifications (expanded)"},
-    {text: "Your teaching experience and motivation"},
-    {text: "References"}
+    { text: "Your application" },
+    { text: "Personal details" },
+    { text: "Your qualifications" },
+    { text: "Your qualifications (expanded)" },
+    { text: "Your teaching experience and motivation" },
+    { text: "References" }
   ]
 }) }}

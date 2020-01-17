@@ -23,7 +23,7 @@ We can’t easily map existing UCAS data to age range. We should ask for it agai
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Primary age ranges"},
-    {text: "Secondary age ranges"}
+    { text: "Primary age ranges" },
+    { text: "Secondary age ranges" }
   ]
 }) }}

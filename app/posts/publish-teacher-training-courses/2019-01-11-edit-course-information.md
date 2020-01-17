@@ -43,13 +43,13 @@ The new design:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Published course"},
-    {text: "Published with unpublished changes"},
-    {text: "Draft course"},
-    {text: "New course"},
-    {text: "Course with publish errors"},
-    {text: "Change course information"},
-    {text: "Confirm answers (for comparison)"},
-    {text: "Organisation"}
+    { text: "Published course" },
+    { text: "Published with unpublished changes" },
+    { text: "Draft course" },
+    { text: "New course" },
+    { text: "Course with publish errors" },
+    { text: "Change course information" },
+    { text: "Confirm answers (for comparison)" },
+    { text: "Organisation" }
   ]
 }) }}

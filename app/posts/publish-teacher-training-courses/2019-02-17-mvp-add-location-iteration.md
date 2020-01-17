@@ -20,10 +20,10 @@ Success messages after saving and edited have been added, these reinforce the me
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Organisation"},
-    {text: "Locations"},
-    {text: "Add a location"},
-    {text: "Location added"},
-    {text: "Location edited"}
+    { text: "Organisation" },
+    { text: "Locations" },
+    { text: "Add a location" },
+    { text: "Location added" },
+    { text: "Location edited" }
   ]
 }) }}

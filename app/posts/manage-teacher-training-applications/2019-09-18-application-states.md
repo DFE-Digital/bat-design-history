@@ -54,8 +54,8 @@ An unconditional offer (which would be ‘Accepted (unconditional)’) goes stra
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Applications"},
-    {text: "New applications"},
-    {text: "Rejected"}
+    { text: "Applications" },
+    { text: "New applications" },
+    { text: "Rejected" }
   ]
 }) }}

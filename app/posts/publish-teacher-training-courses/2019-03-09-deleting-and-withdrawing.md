@@ -19,10 +19,10 @@ We need to test these assumptions with users.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Course that can be deleted"},
-    {text: "Delete this course"},
-    {text: "Course that can be withdrawn"},
-    {text: "Withdraw this course"},
-    {text: "A withdrawn course"}
+    { text: "Course that can be deleted" },
+    { text: "Delete this course" },
+    { text: "Course that can be withdrawn" },
+    { text: "Withdraw this course" },
+    { text: "A withdrawn course" }
   ]
 }) }}

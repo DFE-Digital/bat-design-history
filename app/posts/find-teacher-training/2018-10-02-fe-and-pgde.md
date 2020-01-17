@@ -1,13 +1,11 @@
 ---
 title: PGDE and further education courses
 description: We quickly iterated fixes to correctly indicate qualifications on these courses
-tags:
 ---
-
 We started with two qualification options:
 
-*   PGCE with QTS
-*   QTS
+* PGCE with QTS
+* QTS
 
 For most courses this was acceptable. PGCEs are also known as PGCertEd or PGCert (if without an education specialism).
 
@@ -15,11 +13,11 @@ We need providers to always use PGCE and none of the variants, those variants ca
 
 The new options are:
 
-*   PGCE with QTS
-*   PGDE with QTS
-*   QTS
-*   PGCE
-*   PGDE
+* PGCE with QTS
+* PGDE with QTS
+* QTS
+* PGCE
+* PGDE
 
 ## PGDE
 
@@ -31,7 +29,7 @@ We updated the qualification filter from ‘PGCE with QTS’ to ‘PGCE (or PGDE
 
 On course pages we show PGDE, expand the abbreviation and indicate that these courses offer Master’s credits.
 
-We identified PGDE courses by looking for any enriched course that used any of the PGDE terms then looked at each result to avoid false positives. [There's about 120](https://gist.github.com/fofr/63073b212c76469ba88511dc0db63691).
+We identified PGDE courses by looking for any enriched course that used any of the PGDE terms then looked at each result to avoid false positives. [There’s about 120](https://gist.github.com/fofr/63073b212c76469ba88511dc0db63691).
 
 ## Further education
 
@@ -58,9 +56,14 @@ This qualification is at level lower than PGCE. It is mostly relevant in the FE 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   path: "/images/find-teacher-training/live-launch",
-  items: [
-    { text: "Qualification filter", img: { src: "qualification-filter.png" } },
-    { text: "Further education search results", img: { src: "further-education-results.png" } },
-    { text: "Full course page (PGDE)", img: { src: "full-course-page-pgde.png" } }
-  ]
+  items: [{
+    text: "Qualification filter",
+    img: { src: "qualification-filter.png" }
+  }, {
+    text: "Further education search results",
+    img: { src: "further-education-results.png" }
+  }, {
+    text: "Full course page (PGDE)",
+    img: { src: "full-course-page-pgde.png" }
+  }]
 }) }}

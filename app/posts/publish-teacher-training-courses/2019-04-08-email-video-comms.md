@@ -9,7 +9,7 @@ We contacted you recently about the new features we’re introducing to [Publish
 
 To give you a preview of the expanded service, we’ve put together a video. This takes you through one of the new tasks you’ll be able to carry out: updating the vacancy status of a course.
 
-[Watch the video on our guidance page](https://www2.publish-teacher-training-courses.service.gov.uk/guidance) or [follow this link to watch on Youtube](https://www.youtube.com/watch?v=nxmtXGy1cCY&feature=youtu.be)
+[Watch the video on our guidance page](https://www.publish-teacher-training-courses.service.gov.uk/guidance) or [follow this link to watch on Youtube](https://www.youtube.com/watch?v=nxmtXGy1cCY&feature=youtu.be)
 
 ### What you need to do next
 

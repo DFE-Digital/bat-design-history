@@ -1,9 +1,7 @@
 ---
 title: Salary and fees
 description: Designs for different fields for salaried and fee paying courses.
-tags:
 ---
-
 Fee paying courses need to have some different fields to salaried courses. Courses offering a salary typically don’t have any course fees (though some courses may have top-up fees for the PGCE aspect of a course) – for these courses we shouldn’t be asking for course fees. ([Example of the problem](/publish-teacher-training-courses/templates#dont-use-a-template))
 
 Use different fields for school direct salaried courses and add fields to cater for:
@@ -22,32 +20,23 @@ Use different fields for school direct salaried courses and add fields to cater 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Course length and salary",
-      img: { src: "course-length-and-salary.png" },
-      caption: '
-A school direct salaried course
+  items: [{
+    text: "Course length and salary",
+    img: { src: "course-length-and-salary.png" },
+    caption: "A school direct salaried course
 
-Add a salary field to allow training providers to indicate the amount of salary available and whether there are any other costs. We also prompt for an explicit declaration that there are no fees to pay.
-      '
-    },
-    {
-      text: "Course length and fees",
-      img: { src: "course-length-and-fees.png" },
-      caption: '
-A school direct course
+Add a salary field to allow training providers to indicate the amount of salary available and whether there are any other costs. We also prompt for an explicit declaration that there are no fees to pay."
+  }, {
+    text: "Course length and fees",
+    img: { src: "course-length-and-fees.png" },
+    caption: "A school direct course
 
-Add a fee details field to allow training providers to give more details if their fees are more complex (eg top-up fees for PGCE aspect of the course).
-      '
-    },
-    {
-      text: "Preview of salaried course",
-      img: { src: "preview-of-salaried-course.png" }
-    },
-    {
-      text: "Preview of fee paying course",
-      img: { src: "preview-of-fee-paying-course.png" }
-    }
-  ]
+Add a fee details field to allow training providers to give more details if their fees are more complex (eg top-up fees for PGCE aspect of the course)."
+  }, {
+    text: "Preview of salaried course",
+    img: { src: "preview-of-salaried-course.png" }
+  }, {
+    text: "Preview of fee paying course",
+    img: { src: "preview-of-fee-paying-course.png" }
+  }]
 }) }}

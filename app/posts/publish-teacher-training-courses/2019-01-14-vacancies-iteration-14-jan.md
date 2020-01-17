@@ -15,13 +15,13 @@ In this design we:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Close course (one training location)"},
-    {text: "Open course (one training location)"},
-    {text: "Close course validation"},
-    {text: "Open course validation"},
-    {text: "Edit vacancies (multiple locations)"},
-    {text: "Edit vacancies (one location, full time or part time)"},
-    {text: "Edit vacancies (multiple locations, full time or part time)"},
-    {text: "Organisation"}
+    { text: "Close course (one training location)" },
+    { text: "Open course (one training location)" },
+    { text: "Close course validation" },
+    { text: "Open course validation" },
+    { text: "Edit vacancies (multiple locations)" },
+    { text: "Edit vacancies (one location, full time or part time)" },
+    { text: "Edit vacancies (multiple locations, full time or part time)" },
+    { text: "Organisation" }
   ]
 }) }}

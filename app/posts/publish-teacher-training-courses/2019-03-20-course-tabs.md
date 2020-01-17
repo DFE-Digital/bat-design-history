@@ -17,12 +17,12 @@ By splitting the page into tabs we:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "An unpublished course"},
-    {text: "An unpublished course – Edit course details"},
-    {text: "After editing – check your answers (not yet published)"},
-    {text: "A published course"},
-    {text: "A published course – Edit course details"},
-    {text: "After editing – check your answers (published)"}
+    { text: "An unpublished course" },
+    { text: "An unpublished course – Edit course details" },
+    { text: "After editing – check your answers (not yet published)" },
+    { text: "A published course" },
+    { text: "A published course – Edit course details" },
+    { text: "After editing – check your answers (published)" }
   ]
 }) }}
 

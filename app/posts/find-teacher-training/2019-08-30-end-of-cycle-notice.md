@@ -25,7 +25,7 @@ This design increased bounce rate on the page from 8% to 18% in the first weeks 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Courses starting in different years"},
-    {text: "Iteration showing closing dates"}
+    { text: "Courses starting in different years" },
+    { text: "Iteration showing closing dates" }
   ]
 }) }}

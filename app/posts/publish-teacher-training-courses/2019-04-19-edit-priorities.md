@@ -45,21 +45,21 @@ Further education screens are probably out of scope for MVP.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Level and SEND"},
-    {text: "Subject"},
-    {text: "Languages"},
-    {text: "Age range"},
-    {text: "Outcome"},
-    {text: "Fee or salary"},
-    {text: "Apprenticeship"},
-    {text: "Full time or part time"},
-    {text: "Locations"},
-    {text: "Accredited body"},
-    {text: "Applications open"},
-    {text: "UCAS GCSEs pending"},
-    {text: "UCAS Equivalency tests"},
-    {text: "Course start date"},
-    {text: "Title"},
-    {text: "Confirm your changes"}
+    { text: "Level and SEND" },
+    { text: "Subject" },
+    { text: "Languages" },
+    { text: "Age range" },
+    { text: "Outcome" },
+    { text: "Fee or salary" },
+    { text: "Apprenticeship" },
+    { text: "Full time or part time" },
+    { text: "Locations" },
+    { text: "Accredited body" },
+    { text: "Applications open" },
+    { text: "UCAS GCSEs pending" },
+    { text: "UCAS Equivalency tests" },
+    { text: "Course start date" },
+    { text: "Title" },
+    { text: "Confirm your changes" }
   ]
 }) }}

@@ -30,7 +30,7 @@ Guidance on GOV.UK:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Allocations for a course"},
-    {text: "Allocations for a fee-funded PE course"}
+    { text: "Allocations for a course" },
+    { text: "Allocations for a fee-funded PE course" }
   ]
 }) }}

@@ -17,9 +17,9 @@ We’re also testing a space for guidance in the right hand column
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Organisation"},
-    {text: "Courses"},
-    {text: "Course"},
-    {text: "Training locations"}
+    { text: "Organisation" },
+    { text: "Courses" },
+    { text: "Course" },
+    { text: "Training locations" }
   ]
 }) }}

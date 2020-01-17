@@ -45,8 +45,8 @@ While there are two cycles, providers need to easily manage courses and location
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Start rollover"},
-    {text: "Pick which courses"},
-    {text: "Multiple cycles"}
+    { text: "Start rollover" },
+    { text: "Pick which courses" },
+    { text: "Multiple cycles" }
   ]
 }) }}

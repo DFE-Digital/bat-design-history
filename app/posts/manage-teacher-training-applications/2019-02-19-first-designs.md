@@ -19,10 +19,10 @@ The applciations themselves are tagged to various statuses that the admins can u
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Dashboard"},
-    {text: "New applications"},
-    {text: "New application"},
-    {text: "Change application status"},
-    {text: "Interview offered"}
+    { text: "Dashboard" },
+    { text: "New applications" },
+    { text: "New application" },
+    { text: "Change application status" },
+    { text: "Interview offered" }
   ]
 }) }}

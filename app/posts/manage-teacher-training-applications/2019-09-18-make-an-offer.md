@@ -13,7 +13,7 @@ This design presents a list of boxes to prompt conversation about what might go 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Change status"},
-    {text: "Make an offer"}
+    { text: "Change status" },
+    { text: "Make an offer" }
   ]
 }) }}

@@ -16,7 +16,6 @@ $icon-size: 40px;
   .app-site-search {
     position: relative;
     width: 100%;
-    margin-top: govuk-spacing(2);
     margin-bottom: govuk-spacing(2);
     float: left;
 
@@ -34,7 +33,7 @@ $icon-size: 40px;
         display: block;
       }
 
-      @include govuk-media-query($from: desktop) {
+      @include govuk-media-query($from: 900px) {
         text-align: right;
       }
     }
@@ -178,12 +177,15 @@ $icon-size: 40px;
     .no-js & {
       @include govuk-media-query($from: tablet) {
         display: inline-block;
-        margin-top: 10px;
         color: govuk-colour("white");
 
         &:focus {
           color: govuk-colour("black");
         }
+      }
+
+      @include govuk-media-query($from: 900px) {
+        margin-top: 10px;
       }
     }
   }

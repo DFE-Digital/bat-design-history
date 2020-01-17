@@ -14,19 +14,19 @@ In this iteration we changed:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "What type of course?"},
-    {text: "Pick a subject"},
-    {text: "Pick languages"},
-    {text: "Pick a course outcome"},
-    {text: "Fee paying or salaried?"},
-    {text: "Full time or part time?"},
-    {text: "Pick the training locations"},
-    {text: "Who is the accredited body?"},
-    {text: "Minimum GCSE requirements"},
-    {text: "When does the course start?"},
-    {text: "Is this course title right?"},
-    {text: "Check your answers"},
-    {text: "Course created"},
-    {text: "Change course information"}
+    { text: "What type of course?" },
+    { text: "Pick a subject" },
+    { text: "Pick languages" },
+    { text: "Pick a course outcome" },
+    { text: "Fee paying or salaried?" },
+    { text: "Full time or part time?" },
+    { text: "Pick the training locations" },
+    { text: "Who is the accredited body?" },
+    { text: "Minimum GCSE requirements" },
+    { text: "When does the course start?" },
+    { text: "Is this course title right?" },
+    { text: "Check your answers" },
+    { text: "Course created" },
+    { text: "Change course information" }
   ]
 }) }}

@@ -9,9 +9,9 @@ This design adds tabs, [like on courses](/publish-teacher-training-courses/cours
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Courses at each location"},
-    {text: "Edit location"},
-    {text: "Courses using this location"},
-    {text: "Location history"}
+    { text: "Courses at each location" },
+    { text: "Edit location" },
+    { text: "Courses using this location" },
+    { text: "Location history" }
   ]
 }) }}

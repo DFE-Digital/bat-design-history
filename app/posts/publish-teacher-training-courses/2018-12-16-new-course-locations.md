@@ -15,8 +15,8 @@ On the training locations list, if ‘full time or part time’ is chosen, then 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Training locations"},
-    {text: "For a full or part time course"},
-    {text: "Show locations in summary"}
+    { text: "Training locations" },
+    { text: "For a full or part time course" },
+    { text: "Show locations in summary" }
   ]
 }) }}

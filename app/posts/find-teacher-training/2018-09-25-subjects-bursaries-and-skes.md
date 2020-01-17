@@ -1,15 +1,13 @@
 ---
 title: Subjects, bursaries and SKE courses
 description: An iteration on the MVP, with full course pages and a subject filter with bursary and SKE information.
-tags:
 ---
-
 We tested this design with 4 users:
 
-*   [Participant 1](https://lookback.io/watch/az5TkZTc9rwgyoheL)
-*   [Participant 2 (Multiple sclerosis)](https://lookback.io/watch/K6SmyEx5Kz76j6TAf)
-*   [Participant 3](https://lookback.io/watch/YSyCpM8ERpT7oFEAK)
-*   [Participant 4](https://lookback.io/watch/Qm2gKZJYCTopwAKNM)
+* [Participant 1](https://lookback.io/watch/az5TkZTc9rwgyoheL)
+* [Participant 2 (Multiple sclerosis)](https://lookback.io/watch/K6SmyEx5Kz76j6TAf)
+* [Participant 3](https://lookback.io/watch/YSyCpM8ERpT7oFEAK)
+* [Participant 4](https://lookback.io/watch/Qm2gKZJYCTopwAKNM)
 
 [User research findings](https://docs.google.com/spreadsheets/d/1EEpqT5u2GLr3wJyk_SnKiysTtf5s88gYGiYqmWzNjl4/)
 
@@ -35,12 +33,23 @@ One user was confused about how to apply, they’d contact the provider for more
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Start page", img: { src: "start-page.png" } },
-    { text: "Find by location", img: { src: "find-by-location.png" } },
-    { text: "Find by subject", img: { src: "find-by-subject.png" } },
-    { text: "Search results", img: { src: "search-results.png" } },
-    { text: "Salary filter", img: { src: "salary-filter.png" } },
-    { text: "Full course page", img: { src: "full-course-page.png" } }
-  ]
+  items: [{
+    text: "Start page",
+    img: { src: "start-page.png" }
+  }, {
+    text: "Find by location",
+    img: { src: "find-by-location.png" }
+  }, {
+    text: "Find by subject",
+    img: { src: "find-by-subject.png" }
+  }, {
+    text: "Search results",
+    img: { src: "search-results.png" }
+  }, {
+    text: "Salary filter",
+    img: { src: "salary-filter.png" }
+  }, {
+    text: "Full course page",
+    img: { src: "full-course-page.png" }
+  }]
 }) }}

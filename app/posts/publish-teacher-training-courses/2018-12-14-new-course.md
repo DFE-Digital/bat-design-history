@@ -48,13 +48,13 @@ If the course is marked as a special educational needs one, it’s appended to t
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Type of course"},
-    {text: "Pick a subject"},
-    {text: "Pick languages"},
-    {text: "Pick outcome"},
-    {text: "Full time or part time"},
-    {text: "Accredited provider"},
-    {text: "Confirm"},
-    {text: "Customise title"}
+    { text: "Type of course" },
+    { text: "Pick a subject" },
+    { text: "Pick languages" },
+    { text: "Pick outcome" },
+    { text: "Full time or part time" },
+    { text: "Accredited provider" },
+    { text: "Confirm" },
+    { text: "Customise title" }
   ]
 }) }}

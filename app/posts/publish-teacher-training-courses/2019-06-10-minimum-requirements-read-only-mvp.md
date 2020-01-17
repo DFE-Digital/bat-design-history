@@ -11,8 +11,8 @@ To ship the read-only version of this feature earlier we updated the design. It 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Code 1 – Must have"},
-    {text: "Code 2 – Taking"},
-    {text: "Code 3 – Equivalence test"}
+    { text: "Code 1 – Must have" },
+    { text: "Code 2 – Taking" },
+    { text: "Code 3 – Equivalence test" }
   ]
 }) }}

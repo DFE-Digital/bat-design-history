@@ -1,9 +1,7 @@
 ---
 title: Course statuses – 3 August iteration
 description: A more indepth look at UCAS course status and how it’ll affect publishing.
-tags:
 ---
-
 As a user looking at all of my courses imported from UCAS, I need to know which of those courses have been published, so that I know which courses applicants are seeing.
 
 An iteration on the [first UCAS course status design](/publish-teacher-training-courses/ucas-course-status). Following that design we found that status in UCAS is per training location rather than per course. We need some logic to determine whether a course should be published based on the status of its training locations.
@@ -14,9 +12,9 @@ The UCAS statuses are per location, not per course. Instead of repeating those s
 
 Courses can have 1 of 3 statuses:
 
-*   Running - the course is published and applicants can see it on search
-*   Not running – the course is not published, it can’t be found on search
-*   New - not yet running – the course is not published yet because it hasn’t been set to publish on UCAS
+* Running - the course is published and applicants can see it on search
+* Not running – the course is not published, it can’t be found on search
+* New - not yet running – the course is not published yet because it hasn’t been set to publish on UCAS
 
 ## Resolving course status from training location statuses
 
@@ -36,18 +34,14 @@ Courses that aren’t running can’t be edited. The fields and publish actions 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Courses with status column",
-      img: { src: "courses-with-status-column.png" }
-    },
-    {
-      text: "A course that’s not running",
-      img: { src: "a-course-not-running.png" }
-    },
-    {
-      text: "A course that’s running",
-      img: { src: "a-course-that-is-running.png" }
-    }
-  ]
+  items: [{
+    text: "Courses with status column",
+    img: { src: "courses-with-status-column.png" }
+  }, {
+    text: "A course that’s not running",
+    img: { src: "a-course-not-running.png" }
+  }, {
+    text: "A course that’s running",
+    img: { src: "a-course-that-is-running.png" }
+  }]
 }) }}

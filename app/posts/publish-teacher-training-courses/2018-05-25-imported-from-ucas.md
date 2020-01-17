@@ -1,12 +1,10 @@
 ---
 title: Course folding and UCAS course details
 description: Following the definition of a course, documentation on how we might fold courses based on UCAS data.
-tags:
 ---
-
 ## Course content we will receive in a feed from UCAS
 
-Assumptions about content we will receive from UCAS based on [existing course data](/publish-teacher-training-courses/ucas-course-examples).
+Assumptions about content we will receive from UCAS based on [existing course data](/publish-teacher-training-courses/ucas/course-examples).
 
 * Course title, QAd by UCAS to meet their standards (eg subject)
 * A list of subjects the course is associated with
@@ -52,7 +50,7 @@ Try having one page per subject/provider combination. One search result and page
 
 Higher education courses are almost all PGCE. There is one course per subject already. No folding is required.
 
-SCITT courses are self-accrediting, they may partner with a university for PGCE aspects of a course but this doesn't appear to be classified as accreditation. A few duplicate courses around qualification, these should be easy to fold into a single course.
+SCITT courses are self-accrediting, they may partner with a university for PGCE aspects of a course but this doesn’t appear to be classified as accreditation. A few duplicate courses around qualification, these should be easy to fold into a single course.
 
 ### Folding School Direct courses
 

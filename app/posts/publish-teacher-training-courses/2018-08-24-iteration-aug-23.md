@@ -1,15 +1,13 @@
 ---
 title: Iteration – 23 August
 description: Trying to bring ‘About your organisation’ into the user journey
-tags:
 ---
-
 In this iteration we:
 
-*   removed the horizontal navigation in favour of sections in the page
-*   took the course content status labels and reused them on course pages
-*   updated the ‘About your organisation’ page to be more like a course
-*   added details we received from UCAS to the ‘About your organisation’ page
+* removed the horizontal navigation in favour of sections in the page
+* took the course content status labels and reused them on course pages
+* updated the ‘About your organisation’ page to be more like a course
+* added details we received from UCAS to the ‘About your organisation’ page
 
 ## Removing horizontal navigation
 
@@ -35,31 +33,24 @@ The new design creates an overview page containing a summary and the publishing 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Organisation",
-      img: { src: "organisation.png" }
-    },
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Edit about your organisation",
-      img: { src: "edit-about-your-organisation.png" }
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" },
-      caption: 'Note the similarity with ‘About your organisation’ and the orange draft status.'
-    },
-    {
-      text: "Preview",
-      img: { src: "preview.png" }
-    },
-    {
-      text: "Course length and fees",
-      img: { src: "course-length-and-fees.png" }
-    }
-  ]
+  items: [{
+    text: "Organisation",
+    img: { src: "organisation.png" }
+  }, {
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "Edit about your organisation",
+    img: { src: "edit-about-your-organisation.png" }
+  }, {
+    text: "Course",
+    img: { src: "course.png" },
+    caption: "Note the similarity with ‘About your organisation’ and the orange draft status."
+  }, {
+    text: "Preview",
+    img: { src: "preview.png" }
+  }, {
+    text: "Course length and fees",
+    img: { src: "course-length-and-fees.png" }
+  }]
 }) }}

@@ -44,7 +44,7 @@ This is the design we tested in the quiz with users.
   <tbody class="govuk-table__body">
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">New course, just added (N123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">New course, just added (N123)</a>
         <span class="govuk-body-s">PGCE with QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -56,7 +56,7 @@ This is the design we tested in the quiz with users.
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">Draft course, not published (DD23)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">Draft course, not published (DD23)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -68,7 +68,7 @@ This is the design we tested in the quiz with users.
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">Published, but has unpublished changes (D123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">Published, but has unpublished changes (D123)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell nowrap">
@@ -83,7 +83,7 @@ This is the design we tested in the quiz with users.
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">Published course (P123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">Published course (P123)</a>
         <span class="govuk-body-s">PGCE with QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -97,7 +97,7 @@ This is the design we tested in the quiz with users.
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">Published before applications open (PP23)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">Published before applications open (PP23)</a>
         <span class="govuk-body-s">PGCE with QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -111,7 +111,7 @@ This is the design we tested in the quiz with users.
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">Published but full (PC23)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">Published but full (PC23)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -123,7 +123,7 @@ This is the design we tested in the quiz with users.
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">Withdrawn course (W123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">Withdrawn course (W123)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -135,7 +135,7 @@ This is the design we tested in the quiz with users.
     </tr>
     <!-- <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-bottom-0">Rolled over course (R123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-bottom-0">Rolled over course (R123)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -169,7 +169,7 @@ Problems identified with this design in peer review, before user research:
   <tbody class="govuk-table__body">
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">New course, just added (N123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">New course, just added (N123)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -181,7 +181,7 @@ Problems identified with this design in peer review, before user research:
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">Draft course, not published (DD23)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">Draft course, not published (DD23)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -193,7 +193,7 @@ Problems identified with this design in peer review, before user research:
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">Draft course, published before (D123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">Draft course, published before (D123)</a>
         <span class="govuk-body-s">QTS full time – <a href="#">View on website</a></span>
       </td>
       <td class="govuk-table__cell">
@@ -205,7 +205,7 @@ Problems identified with this design in peer review, before user research:
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">Published course (P123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">Published course (P123)</a>
         <span class="govuk-body-s">QTS full time – <a href="#">View on website</a></span>
       </td>
       <td class="govuk-table__cell">
@@ -217,7 +217,7 @@ Problems identified with this design in peer review, before user research:
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">Published before applications open (PP23)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">Published before applications open (PP23)</a>
         <span class="govuk-body-s">QTS full time – <a href="#">View on website</a></span>
       </td>
       <td class="govuk-table__cell">
@@ -229,7 +229,7 @@ Problems identified with this design in peer review, before user research:
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">Published but full (PC23)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">Published but full (PC23)</a>
         <span class="govuk-body-s">QTS full time – <a href="#">View on website</a></span>
       </td>
       <td class="govuk-table__cell">
@@ -241,7 +241,7 @@ Problems identified with this design in peer review, before user research:
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">Withdrawn course (W123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">Withdrawn course (W123)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">
@@ -253,7 +253,7 @@ Problems identified with this design in peer review, before user research:
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">
-        <a href="/course/E65/28ZC" class="govuk-heading-s govuk-!-margin-0">Rolled over course (R123)</a>
+        <a href="#" class="govuk-heading-s govuk-!-margin-0">Rolled over course (R123)</a>
         <span class="govuk-body-s">QTS full time</span>
       </td>
       <td class="govuk-table__cell">

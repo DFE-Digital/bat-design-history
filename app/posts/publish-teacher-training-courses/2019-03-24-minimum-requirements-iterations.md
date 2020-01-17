@@ -18,21 +18,21 @@ Progression of the minimum requirements page design:
     {
       text: "Question 1: Candidates with pending GCSEs",
       img: {
-        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
+        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration-9-apr",
         src: "candidates-with-pending-gcses.png"
       }
     },
     {
       text: "Question 2: Tests for candidates without GCSE requirements",
       img: {
-        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration",
+        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration-9-apr",
         src: "tests-for-candidates-without-gcse-requirements.png"
       }
     },
-    {text: "Two questions"},
-    {text: "Options in a table"},
-    {text: "Explicitly reference UCAS"},
-    {text: "Pick an option, remove subject choice"},
+    { text: "Two questions" },
+    { text: "Options in a table" },
+    { text: "Explicitly reference UCAS" },
+    { text: "Pick an option, remove subject choice" },
     {
       text: "Introduce options",
       img: {

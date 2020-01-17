@@ -1,9 +1,7 @@
 ---
 title: Fields we ask for and why
 description: Documentation of needs around each course field
-tags:
 ---
-
 Courses are divided across 3 parts to make them easier to complete:
 
 * About this course
@@ -34,7 +32,7 @@ We should err on the side of the applicant. The field is currently optional, we 
 
 ### How school placements work
 
-Students will spend some of their time in placement schools. The variety of schools, the time spent in those schools, and when during the year they'll be at their placements varies between courses.
+Students will spend some of their time in placement schools. The variety of schools, the time spent in those schools, and when during the year they’ll be at their placements varies between courses.
 
 As a potential trainee teacher I need to know the types of placement schools available, like pupil demographics or faith association, so that I can balance breadth of school experience with experience in a school where I’d want to work.
 

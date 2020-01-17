@@ -59,12 +59,12 @@ As courses aren’t tied to allocations, the opening date for applications is ar
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "What type of course?"},
-    {text: "What is the course title?"},
-    {text: "Pick a course outcome"},
-    {text: "Full time or part time?"},
-    {text: "Pick training locations"},
-    {text: "When does the course start?"},
-    {text: "Check your answers"}
+    { text: "What type of course?" },
+    { text: "What is the course title?" },
+    { text: "Pick a course outcome" },
+    { text: "Full time or part time?" },
+    { text: "Pick training locations" },
+    { text: "When does the course start?" },
+    { text: "Check your answers" }
   ]
 }) }}

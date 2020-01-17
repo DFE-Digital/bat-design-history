@@ -3,12 +3,11 @@ title: Results on a map – Full screen iteration
 description: Second pass at showing courses on a full screen map.
 tags: maps
 ---
-
 An iteration on the [first pass](/find-teacher-training/experimental-map/) of putting search results on a full-width map. This design adds:
 
-*   training locations with a black dot
-*   different map windows for training locations (the prototype lacks the name of a place so "School or campus" is used as a placeholder)
-*   radius circles to indicate distance
+* training locations with a black dot
+* different map windows for training locations (the prototype lacks the name of a place so "School or campus" is used as a placeholder)
+* radius circles to indicate distance
 
 ## User research
 
@@ -16,20 +15,20 @@ We tested this design alongside the [original map](/find-teacher-training/map-or
 
 [Initial findings are on confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/615219275/First+round+on+location).
 
-*   [Participant 1](https://lookback.io/watch/AprAGdLxxz9FdxGLJ)
-*   [Participant 2](https://lookback.io/watch/u9cZaEQQRZGDofaKP)
-*   [Participant 3](https://lookback.io/watch/ASAKdsr783jwsPMxh) ([part 2](https://lookback.io/watch/E9934fSeb3Zu5ubP4))
-*   [Participant 4](https://lookback.io/watch/SQSacPWpZoagWWb7y) ([part 2](https://lookback.io/watch/Z7hgQ6xFz5fxBjw48))
-*   [Participant 5](https://lookback.io/watch/GiTRz4TGGFdkWrQAy)
-*   [Participant 6](https://lookback.io/watch/6fpoe9h3RPnvRxAti)
-*   [Participant 7](https://lookback.io/watch/FCQB8Q5DTjkDAD44w) ([part 2](https://lookback.io/watch/MhCQ6R6gRASHmxxuX))
-*   [Participant 8](https://lookback.io/watch/ZJAPjZSHPkKiDiNXk) ([part 2](https://lookback.io/watch/mgtvefiPnJvgREmih), [part 3](https://lookback.io/watch/eXcRdhFDjFx8H8rXP))
-*   [Participant 9](https://lookback.io/watch/aMhWcCjxknPF69zsy)
-*   [Participant 10](https://lookback.io/watch/JXJFEQMvzDBk8HH32)
+* [Participant 1](https://lookback.io/watch/AprAGdLxxz9FdxGLJ)
+* [Participant 2](https://lookback.io/watch/u9cZaEQQRZGDofaKP)
+* [Participant 3](https://lookback.io/watch/ASAKdsr783jwsPMxh) ([part 2](https://lookback.io/watch/E9934fSeb3Zu5ubP4))
+* [Participant 4](https://lookback.io/watch/SQSacPWpZoagWWb7y) ([part 2](https://lookback.io/watch/Z7hgQ6xFz5fxBjw48))
+* [Participant 5](https://lookback.io/watch/GiTRz4TGGFdkWrQAy)
+* [Participant 6](https://lookback.io/watch/6fpoe9h3RPnvRxAti)
+* [Participant 7](https://lookback.io/watch/FCQB8Q5DTjkDAD44w) ([part 2](https://lookback.io/watch/MhCQ6R6gRASHmxxuX))
+* [Participant 8](https://lookback.io/watch/ZJAPjZSHPkKiDiNXk) ([part 2](https://lookback.io/watch/mgtvefiPnJvgREmih), [part 3](https://lookback.io/watch/eXcRdhFDjFx8H8rXP))
+* [Participant 9](https://lookback.io/watch/aMhWcCjxknPF69zsy)
+* [Participant 10](https://lookback.io/watch/JXJFEQMvzDBk8HH32)
 
 There is a general positive response on seeing the map. We need to consider using these results as the default, if we can fix the issues found.
 
-[“Straight away I received information that I didn't know about, which is brilliant”](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=32m5.36s)
+[“Straight away I received information that I didn’t know about, which is brilliant”](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=32m5.36s)
 
 ### Users prefer the larger map
 
@@ -83,15 +82,24 @@ In the original design we tried clustering results: when zoomed out many results
 
 It was quickly removed.
 
-Example of a user struggling with clustering: [“It didn't mean a lot to me, I saw the 3 and thought it meant within 3 miles of \[city\]… what is that, the 2 and the 3?”](https://lookback.io/watch/u9cZaEQQRZGDofaKP?t=57m9.02s).
+Example of a user struggling with clustering: [“It didn’t mean a lot to me, I saw the 3 and thought it meant within 3 miles of \[city\]… what is that, the 2 and the 3?”](https://lookback.io/watch/u9cZaEQQRZGDofaKP?t=57m9.02s).
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Training locations and providers on a map", img: { src: "training-locations-and-providers-on-map.png" } },
-    { text: "Training location open on map", img: { src: "training-location-open-on-map.png" } },
-    { text: "Provider open on map", img: { src: "provider-open-on-map.png" } },
-    { text: "Another provider open on map", img: { src: "another-provider-open-on-map.png" } },
-    { text: "Provider with one course open on map", img: { src: "provider-with-one-course-open-on-map.png" } }
-  ]
+  items: [{
+    text: "Training locations and providers on a map",
+    img: { src: "training-locations-and-providers-on-map.png" }
+  }, {
+    text: "Training location open on map",
+    img: { src: "training-location-open-on-map.png" }
+  }, {
+    text: "Provider open on map",
+    img: { src: "provider-open-on-map.png" }
+  }, {
+    text: "Another provider open on map",
+    img: { src: "another-provider-open-on-map.png" }
+  }, {
+    text: "Provider with one course open on map",
+    img: { src: "provider-with-one-course-open-on-map.png" }
+  }]
 }) }}

@@ -1,14 +1,12 @@
 ---
 title: Copy content from another course
 description: Design for copying form values from one course to another
-tags:
 ---
-
 ## We tried templates
 
 From our investigation into [sharing content using templates](/publish-teacher-training-courses/templates):
 
-> For many training providers there is great similarity between the courses they offer for different subjects. Users need an easy way to share information between these courses so they don't have to copy and paste content between them. Users also need to easily update all courses that share information, so that they all remain consistent, again without needing to copy and paste.
+> For many training providers there is great similarity between the courses they offer for different subjects. Users need an easy way to share information between these courses so they don’t have to copy and paste content between them. Users also need to easily update all courses that share information, so that they all remain consistent, again without needing to copy and paste.
 >
 > We’ve observed in user research that without the ability to share information users are likely to use copy and paste.
 
@@ -20,9 +18,9 @@ We needed an alternative to templates, one that would alleviate the pain of copy
 
 In [user research](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC) this need continues to surface:
 
-*   [“It’s quite repetitive”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=11m31s)
-*   [“Is it going to be able to copy information from one course to another?”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=13m34s)
-*   [“There isn’t a mechanism to duplicate the information”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=22m20s)
+* [“It’s quite repetitive”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=11m31s)
+* [“Is it going to be able to copy information from one course to another?”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=13m34s)
+* [“There isn’t a mechanism to duplicate the information”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=22m20s)
 
 ## Copying fields from another course
 
@@ -44,34 +42,26 @@ This part of the design hasn’t been built in the prototype.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Animation showing content copying",
-      img: { src: "copy-content-demo.gif" }
-    },
-    {
-      text: "Use this content again",
-      img: { src: "use-this-content-again.png" },
-      caption: 'When no course has been completed yet, we prompt as a heads up that this feature is there but not yet usable.'
-    },
-    {
-      text: "Use content from another course",
-      img: { src: "use-content-from-another-course.png" },
-      caption: '
-The form shows once another course has some of those fields.
+  items: [{
+    text: "Animation showing content copying",
+    img: { src: "copy-content-demo.gif" }
+  }, {
+    text: "Use this content again",
+    img: { src: "use-this-content-again.png" },
+    caption: "When no course has been completed yet, we prompt as a heads up that this feature is there but not yet usable."
+  }, {
+    text: "Use content from another course",
+    img: { src: "use-content-from-another-course.png" },
+    caption: "The form shows once another course has some of those fields.
 
 The select dropdown lists only courses that have been completed.
 
-On submit it copies all the content from that course into the form fields on the page. They are not persisted until the user saves. Feedback displays which fields were copied, an error shows if nothing is copied.
-      '
-    },
-    {
-      text: "Content copied from another course",
-      img: { src: "content-copied-from-another-course.png" }
-    },
-    {
-      text: "Nothing copied from another course",
-      img: { src: "nothing-copied-from-another-course.png" }
-    }
-  ]
+On submit it copies all the content from that course into the form fields on the page. They are not persisted until the user saves. Feedback displays which fields were copied, an error shows if nothing is copied."
+  }, {
+    text: "Content copied from another course",
+    img: { src: "content-copied-from-another-course.png" }
+  }, {
+    text: "Nothing copied from another course",
+    img: { src: "nothing-copied-from-another-course.png" }
+  }]
 }) }}

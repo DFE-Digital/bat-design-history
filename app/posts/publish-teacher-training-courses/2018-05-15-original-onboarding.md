@@ -1,9 +1,7 @@
 ---
 title: Original onboarding
 description: The spreadsheet sent to providers rendered as a single page form.
-tags:
 ---
-
 The spreadsheet sent to providers rendered as a single page form. See the [original spreadsheet on confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/319258638/Spreadsheet+for+private+beta).
 
 Guidance included alongside each field matches the spreadsheet guidance. Note that extra guidances was needed regarding word counts and validation in the spreadsheet.
@@ -12,8 +10,6 @@ Guidance included alongside each field matches the spreadsheet guidance. Note th
 {{ appScreenshots({
   hideContents: true,
   items: [
-    {
-      text: "Spreadsheet as a form"
-    }
+    { text: "Spreadsheet as a form" }
   ]
 }) }}

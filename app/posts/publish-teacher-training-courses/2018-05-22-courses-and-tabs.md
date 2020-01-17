@@ -1,9 +1,7 @@
 ---
 title: Courses and tabs
 description: Exploration of a home page view with tabs for courses, schools, default course and organisation details.
-tags:
 ---
-
 This is a visualisation of course information structured by:
 
 * training provider metadata (eg provider name, contact details)
@@ -13,12 +11,9 @@ This is a visualisation of course information structured by:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Courses",
-      img: { src: "courses.png" },
-      caption: '
-A significantly different view to the [previous courses index](/publish-teacher-training-courses/course-with-parts#courses). Created alongside [course variants in search and compare](https://search-and-compare-beta.herokuapp.com/history/variants).
+  items: [{
+    text: "Courses",
+    caption: "A significantly different view to the [previous courses index](/publish-teacher-training-courses/course-with-parts#courses). Created alongside [course variants in search and compare](https://search-and-compare-beta.herokuapp.com/history/variants).
 
 Use tabs to split up key information around courses, schools, default course information and the organisation’s metadata.
 
@@ -40,24 +35,15 @@ We will classify some of these as variants of the same course, so numbers will b
 
 When there are many courses, how do you find them?
 
-With a maximum of 100 courses, and with most providers having 20 or fewer courses, ordering by subject should be enough.
-      '
-    },
-    {
-      text: "Courses by study option",
-      img: { src: "courses-by-study-option.png" },
-      caption: '
-An alternative view where the study option is pulled out of the table to reduce the number of rows for courses with many options and schools.
-      '
-    },
-    {
-      text: "Organisation"
-    },
-    {
-      text: "Edit organisation"
-    },
-    {
-      text: "Schools"
-    }
-  ]
+With a maximum of 100 courses, and with most providers having 20 or fewer courses, ordering by subject should be enough."
+  }, {
+    text: "Courses by study option",
+    caption: "An alternative view where the study option is pulled out of the table to reduce the number of rows for courses with many options and schools."
+  }, {
+    text: "Organisation"
+  }, {
+    text: "Edit organisation"
+  }, {
+    text: "Schools"
+  }]
 }) }}

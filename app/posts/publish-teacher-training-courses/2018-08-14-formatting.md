@@ -1,9 +1,7 @@
 ---
 title: Formatting
 description: Paragraphs, lists and links.
-tags:
 ---
-
 From user research we’ve found that users need to format their text using paragraphs, lists and links.
 
 Most users have naturally formatted their content into paragraphs without further guidance. They assume that paragraphs will just work.
@@ -23,7 +21,7 @@ The problem with these sorts of links is that they aren’t accessible. They don
 
 ## HTML
 
-We could allow users to use raw HTML: <a href="/blah">Link</a>. This is prone to more user error than markdown.
+We could allow users to use raw HTML: `<a href="/path/to/file">Link</a>`. This is prone to more user error than markdown.
 
 It is the undocumented approach used by users on the existing UCAS system.
 
@@ -51,22 +49,17 @@ We’ll test how this library performs out of the box in user research.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Animation showing editor features",
-      img: { src: "markdown-editor.gif" }
-    },
-    {
-      text: "Course with Simple MDE editor",
-      img: { src: "course.png" }
-    },
-    {
-      text: "Preview of markdown",
-      img: { src: "preview.png" }
-    },
-    {
-      text: "About your organisation with Simple MDE editor",
-      img: { src: "about-your-organisation.png" }
-    }
-  ]
+  items: [{
+    text: "Animation showing editor features",
+    img: { src: "markdown-editor.gif" }
+  }, {
+    text: "Course with Simple MDE editor",
+    img: { src: "course.png" }
+  }, {
+    text: "Preview of markdown",
+    img: { src: "preview.png" }
+  }, {
+    text: "About your organisation with Simple MDE editor",
+    img: { src: "about-your-organisation.png" }
+  }]
 }) }}

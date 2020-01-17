@@ -21,14 +21,14 @@ The course tabs shown below are also illustrative and may not be ready.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Transition screen"},
-    {text: "Organisation page with locations"},
-    {text: "Locations – read only with Google form for adding"},
-    {text: "Courses with UCAS status column for now"},
-    {text: "Course – description tab"},
-    {text: "Course – basic detail tab"},
-    {text: "Withdrawing a course via support"},
-    {text: "Deleting a course via support"},
-    {text: "Edit vacancies for a course with one location"}
+    { text: "Transition screen" },
+    { text: "Organisation page with locations" },
+    { text: "Locations – read only with Google form for adding" },
+    { text: "Courses with UCAS status column for now" },
+    { text: "Course – description tab" },
+    { text: "Course – basic detail tab" },
+    { text: "Withdrawing a course via support" },
+    { text: "Deleting a course via support" },
+    { text: "Edit vacancies for a course with one location" }
   ]
 }) }}

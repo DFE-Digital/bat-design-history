@@ -80,14 +80,12 @@ tags:
 {{ appScreenshots({
   items: [`
 
-  const templateEnd = `
-  ]
+  const templateEnd = `]
 }) }}
 `
 
   paths.forEach(function (item, index) {
-    template += `${index > 0 ? ', ' : ''}
-    {
+    template += `${index > 0 ? ', ' : ''}{
       text: "${item.title}",
       img: { src: "${item.src}" }
     }`

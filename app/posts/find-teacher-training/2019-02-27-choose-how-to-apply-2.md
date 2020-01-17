@@ -1,18 +1,16 @@
 ---
 title: Choose how to apply – Iteration and research
 description: An updated journey into UCAS or new Apply service, tested with users.
-tags:
 ---
-
 Following on from the [initial design](/find-teacher-training/choose-how-to-apply).
 
 ## Design changes
 
 In this version we:
 
-*   added more context to the page with a choice
-*   added a ‘learn more’ disclosure to the choice page
-*   expanded the journey with further Apply pages and emails
+* added more context to the page with a choice
+* added a ‘learn more’ disclosure to the choice page
+* expanded the journey with further Apply pages and emails
 
 ## User research
 
@@ -30,26 +28,37 @@ For people who applied using DFE Apply, applying again through UCAS represents a
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Prototype flow and findings",
-      img: { src: "prototype-flow-and-findings.png" },
-      caption: '<p class="govuk-body"><a href="https://docs.google.com/drawings/d/12wrGFPlEGNkG1U6Qlkx1OCHLBtGochNTBS9jMhPV7Fs/edit">Google drawing</a></p>'
-    },
-    {
-      text: "User journey",
-      img: { src: "apply-flow.svg" },
-      caption: '<p class="govuk-body">
-      <a href="https://docs.google.com/drawings/d/1kSIYsL1JaMADJkDT1gavtsasHTCOhZRbHMY9M4Oc9nE/edit?usp=sharing">Google drawing</a>
-    </p>'
-    },
-    { text: "Apply for this course (with choice)", img: { src: "apply-for-this-course-(with-choice).png" } },
-    { text: "Apply for this course (without choice)", img: { src: "apply-for-this-course-(without-choice).png" } },
-    { text: "Apply start page", img: { src: "apply-start-page.png" } },
-    { text: "Create account", img: { src: "create-account.png" } },
-    { text: "Sign up email", img: { src: "sign-up-email.png" } },
-    { text: "Application complete", img: { src: "application-complete.png" } },
-    { text: "Application submitted email", img: { src: "application-submitted-email.png" } },
-    { text: "Application rejected email", img: { src: "application-rejected-email.png" } }
-  ]
+  items: [{
+    text: "Prototype flow and findings",
+    img: { src: "prototype-flow-and-findings.png" },
+    caption: "[Google drawing](https://docs.google.com/drawings/d/12wrGFPlEGNkG1U6Qlkx1OCHLBtGochNTBS9jMhPV7Fs/edit)"
+  }, {
+    text: "User journey",
+    img: { src: "apply-flow.svg" },
+    caption: "[Google drawing](https://docs.google.com/drawings/d/1kSIYsL1JaMADJkDT1gavtsasHTCOhZRbHMY9M4Oc9nE/edit?usp=sharing)"
+  }, {
+    text: "Apply for this course (with choice)",
+    img: { src: "apply-for-this-course-(with-choice).png" }
+  }, {
+    text: "Apply for this course (without choice)",
+    img: { src: "apply-for-this-course-(without-choice).png" }
+  }, {
+    text: "Apply start page",
+    img: { src: "apply-start-page.png" }
+  }, {
+    text: "Create account",
+    img: { src: "create-account.png" }
+  }, {
+    text: "Sign up email",
+    img: { src: "sign-up-email.png" }
+  }, {
+    text: "Application complete",
+    img: { src: "application-complete.png" }
+  }, {
+    text: "Application submitted email",
+    img: { src: "application-submitted-email.png" }
+  }, {
+    text: "Application rejected email",
+    img: { src: "application-rejected-email.png" }
+  }]
 }) }}

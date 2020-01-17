@@ -1,9 +1,8 @@
 ---
 title: Special educational needs (SEN) filter
 description: SEN is a subject, but also not a subject. Any subject could have an SEN focus.
-tags: SEND
+tags: send
 ---
-
 Users have struggled to find SEN courses because SEN is not listed as a subject anywhere.
 
 > I’m really looking at SEN teaching, however there is no way through this search tool to specify this ([Zendesk](https://becomingateacher.zendesk.com/agent/tickets/1436))
@@ -24,8 +23,11 @@ If a user selects only SEN and no other subject we should show all SEN courses a
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    { text: "Subject filter with SEN option", img: { src: "01-subject-filter-with-sen.png" } },
-    { text: "Results with SEN filter enabled", img: { src: "02-results-with-sen-filter.png" } }
-  ]
+  items: [{
+    text: "Subject filter with SEN option",
+    img: { src: "01-subject-filter-with-sen.png" }
+  }, {
+    text: "Results with SEN filter enabled",
+    img: { src: "02-results-with-sen-filter.png" }
+  }]
 }) }}

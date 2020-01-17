@@ -1,9 +1,7 @@
 ---
 title: User research – 22 August
 description: Testing markdown, SimpleMDE and publishing workflow
-tags:
 ---
-
 In August we’ve struggled to find providers to test with, because schools are on holiday and universities are very busy.
 
 We tested this design with 3 providers:
@@ -48,30 +46,23 @@ It’s not clear to users that courses which are set to running but have no publ
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Organisation",
-      img: { src: "organisation.png" }
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" }
-    },
-    {
-      text: "Preview",
-      img: { src: "preview.png" }
-    },
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Course length and fees",
-      img: { src: "course-length-and-fees.png" }
-    },
-    {
-      text: "Workflow states",
-      img: { src: "workflow-states.png" }
-    }
-  ]
+  items: [{
+    text: "Organisation",
+    img: { src: "organisation.png" }
+  }, {
+    text: "Course",
+    img: { src: "course.png" }
+  }, {
+    text: "Preview",
+    img: { src: "preview.png" }
+  }, {
+    text: "About your organisation",
+    img: { src: "about-your-organisation.png" }
+  }, {
+    text: "Course length and fees",
+    img: { src: "course-length-and-fees.png" }
+  }, {
+    text: "Workflow states",
+    img: { src: "workflow-states.png" }
+  }]
 }) }}

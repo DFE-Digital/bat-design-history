@@ -1,9 +1,7 @@
 ---
 title: Copy content – 14 September iteration
 description: Make the copy feature easier to find.
-tags:
 ---
-
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({ text: "We didn’t build this design. Instead we used an MVP ‘you can find copy here’ – ie a signpost where people were looking for the feature.", iconFallbackText: "Warning" }) }}
 
@@ -29,18 +27,14 @@ The disclosure is placed below the empty sections. It might be better above them
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Course with copy content prompts",
-      img: { src: "course-with-copy-content-prompts.png" }
-    },
-    {
-      text: "Copy content on form page",
-      img: { src: "copy-content-on-form-page.png" }
-    },
-    {
-      text: "Copy content disclosure when open",
-      img: { src: "copy-content-disclosure-when-open.png" }
-    }
-  ]
+  items: [{
+    text: "Course with copy content prompts",
+    img: { src: "course-with-copy-content-prompts.png" }
+  }, {
+    text: "Copy content on form page",
+    img: { src: "copy-content-on-form-page.png" }
+  }, {
+    text: "Copy content disclosure when open",
+    img: { src: "copy-content-disclosure-when-open.png" }
+  }]
 }) }}

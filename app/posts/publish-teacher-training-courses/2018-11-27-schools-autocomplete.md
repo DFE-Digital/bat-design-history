@@ -1,9 +1,7 @@
 ---
 title: Schools autocomplete
 description: An autocomplete for selecting partner schools quickly.
-tags:
 ---
-
 [Live demo](https://manage-courses-prototype.herokuapp.com/school-autocomplete) and [pull request](https://github.com/DFE-Digital/manage-courses-prototype/pull/18).
 
 If we begin asking providers for their [list of partner schools](/find-teacher-training/maps-for-providers-with-many-partners) we’ll need a fast and easy way to create and manage that list. Partner schools can be more than 1,000.
@@ -44,14 +42,11 @@ While out of scope for a prototype, the live version of this must be able to han
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Schools autocomplete",
-      img: { src: "01-partner-schools-autocomplete.png" }
-    },
-    {
-      text: "Schools autocomplete (GIF)",
-      img: { src: "02-schools-autocomplete.gif" }
-    }
-  ]
+  items: [{
+    text: "Schools autocomplete",
+    img: { src: "01-partner-schools-autocomplete.png" }
+  }, {
+    text: "Schools autocomplete (GIF)",
+    img: { src: "02-schools-autocomplete.gif" }
+  }]
 }) }}

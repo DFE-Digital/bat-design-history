@@ -50,13 +50,13 @@ We would need to think of another way to encourage providers to review and fix t
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    {text: "Organisation with rollover prompt"},
-    {text: "Start rollover"},
-    {text: "Pick courses"},
-    {text: "Pick locations"},
-    {text: "Confirm"},
-    {text: "Organisation after rollover"},
-    {text: "Current cycle after rollover"},
-    {text: "Next cycle after rollover"}
+    { text: "Organisation with rollover prompt" },
+    { text: "Start rollover" },
+    { text: "Pick courses" },
+    { text: "Pick locations" },
+    { text: "Confirm" },
+    { text: "Organisation after rollover" },
+    { text: "Current cycle after rollover" },
+    { text: "Next cycle after rollover" }
   ]
 }) }}

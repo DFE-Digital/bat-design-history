@@ -1,13 +1,11 @@
 ---
 title: Edit a course outcome
 description: Allow providers to choose an outcome, instead of using our inferred one.
-tags:
 ---
-
 We currently infer the outcome with a mapping from UCAS data:
 
-*   qts: QTS
-*   postgraduate or professional (with or without QTS selected): PGCE with QTS
+* qts: QTS
+* postgraduate or professional (with or without QTS selected): PGCE with QTS
 
 Additionally, if one of the subjects is ‘further education’ we give it the outcome of PGCE only.
 
@@ -37,18 +35,14 @@ Further education courses don’t come with QTS. We need to add a bit of context
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Course with prefilled outcome",
-      img: { src: "course-with-prefilled-outcome.png" }
-    },
-    {
-      text: "Edit outcome",
-      img: { src: "edit-outcome.png" }
-    },
-    {
-      text: "Edit outcome with more options open",
-      img: { src: "edit-outcome-with-more-options-open.png" }
-    }
-  ]
+  items: [{
+    text: "Course with prefilled outcome",
+    img: { src: "course-with-prefilled-outcome.png" }
+  }, {
+    text: "Edit outcome",
+    img: { src: "edit-outcome.png" }
+  }, {
+    text: "Edit outcome with more options open",
+    img: { src: "edit-outcome-with-more-options-open.png" }
+  }]
 }) }}

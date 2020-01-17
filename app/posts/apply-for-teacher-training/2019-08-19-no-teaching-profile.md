@@ -33,9 +33,23 @@ This alternative creates a simpler application process that is also easier to bu
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {text: "Application with courses"},
-    {text: "Old dashboard"},
-    {text: "Old personal teaching profile"}
-  ]
+  items: [{
+    text: "Application with courses",
+    img: {
+      path: "/images/apply-for-teacher-training/pick-a-course",
+      src: "your-application.png"
+    }
+  }, {
+    text: "Old dashboard",
+    img: {
+      path: "/images/apply-for-teacher-training/apply-june-2019/personal-details",
+      src: "dashboard.png"
+    }
+  }, {
+    text: "Old personal teaching profile",
+    img: {
+      path: "/images/apply-for-teacher-training/apply-june-2019/personal-details",
+      src: "personal-teaching-profile.png"
+    }
+  }]
 }) }}
