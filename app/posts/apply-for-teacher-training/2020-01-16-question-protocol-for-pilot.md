@@ -385,8 +385,11 @@ A candidate can update these details at any point during the application process
       what: "may use this to contact a candidate"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["❓"],
-    notes: ["Do providers actually need a phone number? Some candidates might not want to be contacted this way."]
+    accuracy: ["We validate the number format"],
+    notes: [
+      "Do providers actually need a phone number? Some candidates might not want to be contacted this way.",
+      "Number validation could be improved; we currently allow international numbers without their country code."
+    ]
   }
 }) }}
 
