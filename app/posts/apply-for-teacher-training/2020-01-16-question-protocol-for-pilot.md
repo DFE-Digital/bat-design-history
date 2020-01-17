@@ -976,7 +976,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -996,7 +996,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -1016,7 +1016,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -1108,7 +1108,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -1128,7 +1128,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -1148,7 +1148,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -1240,7 +1240,7 @@ This means this question is only required for candidates applying to a Primary c
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -1260,7 +1260,7 @@ This means this question is only required for candidates applying to a Primary c
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"],
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"],
     notes: ["Do candidates need to specify which subjects they obtained each grade in? (double or triple award science, for example)?"]
   }
 }) }}
@@ -1281,7 +1281,7 @@ This means this question is only required for candidates applying to a Primary c
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: [
       "Providers will ask to see hard copies for any qualifications awarded",
-      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service"]
+      "In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)"]
   }
 }) }}
 
@@ -1365,7 +1365,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "wants to see that a candidate can demonstrate subject and curriculum knowledge at a sufficient level"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service."]
+    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)."]
   }
 }) }}
 
@@ -1383,7 +1383,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "wants to see that a candidate can demonstrate subject and curriculum knowledge"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service."]
+    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)."]
   }
 }) }}
 
@@ -1401,7 +1401,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "want to see that a candidate can demonstrate subject and curriculum knowledge at a sufficient level"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service."]
+    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)."]
   }
 }) }}
 
@@ -1418,7 +1418,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       who: ["unknown"]
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service."]
+    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)."]
   }
 }) }}
 
@@ -1436,7 +1436,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "may be interested in calibre of the institution studied at"
     }],
     what: ["Retrievable via API"],
-    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the Learning Records Service."],
+    accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)."],
     notes: [
       "This may be a want, more than a need.",
       "Not currently shown to providers"
