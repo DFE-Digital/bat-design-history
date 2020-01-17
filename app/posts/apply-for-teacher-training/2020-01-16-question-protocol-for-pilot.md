@@ -500,7 +500,7 @@ Candidates can update their answers before (and 5 working days after) submitting
 {{ appProtocol({
   title: "Job - Time commitment",
   items: {
-    question: "Was this job full-time or part-time?",
+    question: "Was this job full time or part time?",
     required: "Yes",
     api: {
       param: "work_experience.jobs[].commitment",
