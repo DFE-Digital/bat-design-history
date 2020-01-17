@@ -512,7 +512,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"],
-    notes: ["Feedback from HEIs has suggested hours per week is more useful (this is what UCAS asks)"]
+    notes: ["Feedback from HEIs has suggested hours per week is more useful (this is what UCAS asks). We might extend to include details of working pattern for part time jobs."]
   }
 }) }}
 
