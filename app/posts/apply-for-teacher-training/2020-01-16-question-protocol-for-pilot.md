@@ -917,7 +917,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     },
     why: [{
       who: ["provider"],
-      what: "uses this to perform a NARIC check (they need confirmation from a the institution that they’ve actually obtained the degree they say they have)"
+      what: "uses this to perform a [NARIC](https://www.naric.org.uk) check (they need confirmation from a the institution that they’ve actually obtained the degree they say they have)"
     }, {
       who: ["hesa"],
       what: "requires this to “create the student's DfE record.”"
@@ -944,11 +944,11 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
       who: ["candidate"],
-      what: "may already have a statement of comparability from NARIC"
+      what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
-    notes: ["Candidates can request a statement of comparability from NARIC, or speak to a TTA who can certify equivalence"]
+    notes: ["Candidates can request a statement of comparability from [NARIC](https://www.naric.org.uk), or speak to a TTA who can certify equivalence"]
   }
 }) }}
 
@@ -1071,14 +1071,14 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
       who: ["candidate"],
-      what: "may already have a statement of comparability from NARIC"
+      what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }, {
       who: ["provider"],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
-    notes: ["Candidates can request a statement of comparability from NARIC, or speak to a TTA who can certify equivalence"]
+    notes: ["Candidates can request a statement of comparability from [NARIC](https://www.naric.org.uk), or speak to a TTA who can certify equivalence"]
   }
 }) }}
 
@@ -1203,14 +1203,14 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
       who: ["candidate"],
-      what: "may already have a statement of comparability from NARIC"
+      what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }, {
       who: ["provider"],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
-    notes: ["Candidates can request a statement of comparability from NARIC, or speak to a TTA who can certify equivalence"]
+    notes: ["Candidates can request a statement of comparability from [NARIC](https://www.naric.org.uk), or speak to a TTA who can certify equivalence"]
   }
 }) }}
 
@@ -1336,14 +1336,14 @@ This means this question is only required for candidates applying to a Primary c
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
       who: ["candidate"],
-      what: "may already have a statement of comparability from NARIC"
+      what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }, {
       who: ["provider"],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
-    notes: ["Candidates can request a statement of comparability from NARIC, or speak to a TTA who can certify equivalence"]
+    notes: ["Candidates can request a statement of comparability from [NARIC](https://www.naric.org.uk), or speak to a TTA who can certify equivalence"]
   }
 }) }}
 
