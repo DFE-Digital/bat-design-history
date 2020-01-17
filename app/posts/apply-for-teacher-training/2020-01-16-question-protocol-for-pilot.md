@@ -761,7 +761,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       who: ["service"],
       what: "uses the answer to show/hide textarea"
     }],
-    what: ["Answer not submitted as part of application"]
+    what: ["Yes/no answer appears in provider-facing interface"],
   }
 }) }}
 
