@@ -381,6 +381,9 @@ A candidate can update these details at any point during the application process
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object"
     },
     why: [{
+      who: ["service"],
+      what: "may use this to contact a candidate for user research"
+    }, {
       who: ["provider"],
       what: "may use this to contact a candidate"
     }],
