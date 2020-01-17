@@ -104,7 +104,7 @@ Candidates can update course choices before (and 5 working days after) submittin
     },
     why: [{
       who: ["provider"],
-      what: "uses this to determine funding"
+      what: "uses this to know which course is being applied to, and to determine funding"
     }, {
       who: ["hesa"],
       what: "requires this to “identify the subject of the ITT course”"
