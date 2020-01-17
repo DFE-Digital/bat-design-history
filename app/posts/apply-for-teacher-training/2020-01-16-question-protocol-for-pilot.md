@@ -635,7 +635,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background, and answer questions about gaps in employment history"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["❓"],
+    accuracy: ["Assessed at interview"],
     notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we'll include those in the text field too."]
   }
 }) }}
