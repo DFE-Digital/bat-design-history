@@ -5,7 +5,7 @@ permalink: /search.json
   {
     "data": {
       "title": {{ item.data.title | dump | safe }},
-      "description": {{ item.data.description | dump | safe }},
+      {% if item.data.description %}"description": {{ item.data.description | dump | safe }},{% endif %}
       "section": {{ item.data.breadcrumbs[0].text | dump | safe }},
       "layout": {{ item.data.layout | dump | safe }}
     },
