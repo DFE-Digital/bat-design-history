@@ -508,7 +508,8 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"]
+    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"],
+    notes: ["The guidance around this question doesn’t account for being self-employed."]
   }
 }) }}
 
