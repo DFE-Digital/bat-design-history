@@ -779,10 +779,8 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "may use this to support the candidate at interview (and training if accepted onto course)"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["Assessed at or before interview"],
-    notes: [
-      "Does a provider or someone else look at this and make any reasonable adjustments? Is there a process to work out what adjustments can be made or not? Research currently being undertaken."
-    ],
+    accuracy: ["Provides will probably speak to candidate to discuss their individual needs prior to interview"],
+    notes: ["Does a provider or someone else look at this and make any reasonable adjustments? Is there a process to work out what adjustments can be made or not? Research currently being undertaken."],
     history: ["/apply-for-teacher-training/training-with-a-disability"]
   }
 }) }}
