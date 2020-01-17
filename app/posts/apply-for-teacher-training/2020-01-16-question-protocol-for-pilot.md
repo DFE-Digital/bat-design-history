@@ -275,7 +275,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers ask for documentation"],
-    notes: ["In addition to status, do we also need to ask for the date they entered the country? This might be relevant if an applicant has a Tier 5 Visa (from Australia or New Zealand, where people can work for up to 2 years in the UK). This may also impact funding decisions"]
+    notes: ["In addition to status, do we also need to ask for the date they entered the country? This might be relevant if an applicant has a Tier 5 Visa (from Australia or New Zealand, where people can work for up to 2 years in the UK). Date they entered the country can also impact funding."]
   }
 }) }}
 
