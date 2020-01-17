@@ -215,9 +215,11 @@ Candidates can update these answers before (and 5 working days after) submitting
       who: ["dfe"],
       what: "uses this for record matching and statistical analysis, for example looking at application rates of over 35 year olds (something the minister has historically been interested in)"
     }],
-    what: ["Appears in provider-facing interface and retrievable via API"],
+    what: ["Retrievable via API"],
     accuracy: ["Providers ask for proof of identification"],
-    notes: ["We need to collect year, but do we need to show it to providers? And if so, at what point?"]
+    notes: [
+      "We need to collect year, but do we need to show it to providers? And if so, at what point? (We currenty don’t show date of birth in the provider interface)."
+    ]
   }
 }) }}
 
