@@ -217,7 +217,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers ask for proof of identification"],
-    notes: ["We need to collect year, but do we need to show it to providers?"]
+    notes: ["We need to collect year, but do we need to show it to providers? And if so, at what point?"]
   }
 }) }}
 
