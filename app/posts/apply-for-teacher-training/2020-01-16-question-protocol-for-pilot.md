@@ -715,7 +715,8 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["Reference may collaborate some of this information"]
+    accuracy: ["Reference may collaborate some of this information"],
+    notes: ["We currently only ask for month and year; should we also be asking for day, given periods can be quite short?"]
   }
 }) }}
 
