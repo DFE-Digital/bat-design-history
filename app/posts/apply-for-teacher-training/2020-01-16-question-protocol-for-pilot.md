@@ -89,7 +89,7 @@ Candidates can update course choices before (and 5 working days after) submittin
       what: "uses this for reporting"
     }],
     what: ["Retrievable via API"],
-    accuracy: ["Candidates can only choose from a pre-populated list of providers which is driven by data from the Find service"]
+    accuracy: ["Candidates can only choose from a pre-populated list of providers which is driven by data from the Find service. Provider names are occasionally updated via Publish, they must update here too"]
   }
 }) }}
 
