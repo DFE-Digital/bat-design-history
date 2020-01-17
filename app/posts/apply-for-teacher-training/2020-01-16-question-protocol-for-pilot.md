@@ -900,7 +900,8 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
     notes: [
       "This may be a want, more than a need.",
-      "Not currently shown to providers"
+      "However, a dance provider mentioned they’d use this information to make sure they didn’t send a trainee teacher to one of the schools they had previously trained at.",
+      "Not currently shown to providers."
     ]
   }
 }) }}
