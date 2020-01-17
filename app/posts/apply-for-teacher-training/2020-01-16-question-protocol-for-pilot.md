@@ -714,7 +714,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     },
     why: [{
       who: ["candidate"],
-      what: "can use this to demonstrate what they learnt during school experience"
+      what: "can use this to demonstrate what they learnt during their unpaid experience"
     }, {
       who: ["provider"],
       what: "uses this to build a picture of a candidate’s background"
