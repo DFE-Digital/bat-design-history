@@ -1610,7 +1610,7 @@ Candidates can update their answers before submitting, but not after. If a refer
       what: "uses this to validate that reference is from a suitable source"
     }],
     what: ["Appears in support interface. If the referee provides a reference, appears in the provider-facing interface and retrievable via API"],
-    accuracy: ["N/A"]
+    accuracy: ["A referee might be able corroborate (though we don't currently show this information to referees)"]
   }
 }) }}
 
