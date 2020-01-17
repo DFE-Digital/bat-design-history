@@ -189,7 +189,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers ask for proof of identification"],
     notes: [
-      "Ideally this field would be combined with given name but recorded separately to support legacy student record systems.",
+      "Ideally this field would be combined with family name into a single field. It’s recorded separately to support legacy student record systems.",
       "HESA also ask for ‘Immediately prior surname’ to “allow matching of records where a student has changed surname” but we don’t capture this information.",
       "Should we allow changes post-submission?"
     ]
