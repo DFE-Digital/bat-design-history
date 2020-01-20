@@ -16,6 +16,10 @@ UCAS asks for working hours for all jobs. We're not sure if this is necessary, b
 
 As a provider, I need enough detail about a candidate's work history so that I have enough information to make decisions on their application.
 
+As a candidate, I need to be able to describe my part time jobs, so that I can show how much work I did.
+
+[Listen to a discussion about full time and part time with a candidate](https://lookback.io/watch/cxYdKBYN9TK7cmxHF?t=23m15.35s)
+
 ## Hypotheses
 
  If we ask for the working pattern (rather than the number of hours):
