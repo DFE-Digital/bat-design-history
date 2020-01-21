@@ -23,7 +23,7 @@ As a candidate, I need to show my work history, unpaid experience and volunteeri
 
 **Context**
 
-We launched Apply for teacher training with some potentially problematic guidance in the [work history page](http://localhost:8080/apply-for-teacher-training/work-history-and-volunteering#guidance-on-work-history-page) and [volunteering page](http://localhost:8080/apply-for-teacher-training/work-history-and-volunteering#guidance-on-volunteering-page).
+We launched Apply for teacher training with some potentially problematic guidance in the [work history page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-work-history-page) and [volunteering page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-volunteering-page).
 
 Both sections suggested that we only want to know about school experience or experience working with children.
 
@@ -33,7 +33,7 @@ Presenting the application form in a way that values school experience over othe
 
 A couple of providers echoed these concerns. For example, Bedfordshire University said that the guidance could discourage candidates from including some types of work. This is the opposite of what they want to achieve: a big picture of the candidate.   
 
-**If** we clarify the guidance on the [work history page](http://localhost:8080/apply-for-teacher-training/work-history-and-volunteering#guidance-on-work-history-page) and the [volunteering page](http://localhost:8080/apply-for-teacher-training/work-history-and-volunteering#guidance-on-volunteering-page)
+**If** we clarify the guidance on the [work history page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-work-history-page) and the [volunteering page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-volunteering-page)
 
 **Then** candidates will show their potential for teaching
 
@@ -46,11 +46,13 @@ A couple of providers echoed these concerns. For example, Bedfordshire Universit
  * candidates have no difficulty filling out these sections of the application form
  * providers have a big picture of a candidate's work history
 
+ We'll test our updates (refer to screenshots below) with users to see if it works. 
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
-    { text: "Guidance on work history page" },
-    { text: "Guidance on volunteering page" },
+    { text: "Old guidance on work history page" },
+    { text: "Old guidance on volunteering page" },
     { text: "New guidance on work history page" },
     { text: "New guidance on volunteering page" }
   ]
