@@ -29,7 +29,7 @@ Some referees may not want to, or be able to give a reference. This slows down t
 
 We don't have any evidence that referees and providers need anything more sophisticated or bespoke than a single text box. So for now, we're just keeping parity with UCAS.
 
-We're also wary about asking directly if the candidate is safe to work with children. Providers like this, but we feel we need to be careful how we ask this. The absence of the flag might be seen as a bad when really the referee didn't know either way.
+We're wary about asking explicitly if the candidate is safe to work with children. Providers liked this, but we need to be careful how we ask the question. The absence of the flag might be seen as reason alone to reject a candidate when really the referee didn't know either way.
 
 We also don't have enough confidence in the 1 to 10 scales, which providers described as ‘subjective’. A single box is the lowest risk.
 
