@@ -18,14 +18,14 @@ As a candidate
 
 ### Not asking referees to confirm they'll give a reference
 
-The [previous iteration](/apply-for-teacher-training/give-a-reference) asks referees whether to confirm they want to give a reference. This feels counterintuitive as they've just clicked a link in the email and prolongs the process.
+The [previous iteration](/apply-for-teacher-training/give-a-reference) asks referees whether to confirm they want to give a reference after  they just clicked a link in the email to give a reference which prolongs the process.
 
 **If** we let users confirm via the email
 **Then** it'll shorten the process for referees
 
 ### Not asking referees to confirm relationship details
 
-The [previous iteration](/apply-for-teacher-training/give-a-reference) asks referees to confirm their relationship with the candidate. But this prolongs the process and is beyond MVP.
+The [previous iteration](/apply-for-teacher-training/give-a-reference#start-page) asks referees to confirm their relationship with the candidate. But this prolongs the process and is beyond MVP.
 
 **If** we remove this question
 **Then** it'll speed up the process for referees
