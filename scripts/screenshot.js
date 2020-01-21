@@ -104,9 +104,7 @@ function generatePage () {
   const templateStart = `---
 title: ${title}
 description:
-tags:
 ---
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [`
