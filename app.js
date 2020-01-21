@@ -22,6 +22,14 @@ app.all('/apply-teacher-training/:path', function (req, res) {
   res.redirect(`/apply-for-teacher-training/${req.params.path}`)
 })
 
+app.all('/publish-teacher-training', function (req, res) {
+  res.redirect(`/publish-teacher-training-courses`)
+})
+
+app.all('/apply-teacher-training', function (req, res) {
+  res.redirect(`/apply-for-teacher-training`)
+})
+
 app.get('/image/:size/*.:ext', (req, res) => {
   const format = req.params.ext
   const allowedFormats = ['heic', 'heif', 'jpeg', 'jpg', 'png', 'raw', 'tiff', 'webp']

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: UCAS course examples
+description: Examples of courses on UCAS search
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

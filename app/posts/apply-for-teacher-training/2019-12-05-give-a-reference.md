@@ -2,6 +2,9 @@
 title: Give a teacher training reference
 description: Replacing the Google form with an integrated form.
 ---
+{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{{ govukWarningText({ html: 'We built a <a href="/apply-for-teacher-training/give-a-reference-iteration">simpler version of this design</a>.', iconFallbackText: "Warning" }) }}
+
 One of the first aspects of [the MVP service](/apply-for-teacher-training/apply-launch) we wanted to improve was how we accept references.
 
 Initially this was achieved using a Google form. However, this approach required a lot of manual intervention, preventing automation of reminders and status updates. Also, Google Forms are not very accessible.
