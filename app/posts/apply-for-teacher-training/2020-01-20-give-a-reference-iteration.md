@@ -1,8 +1,10 @@
 ---
-title: Give a reference iteration
+title: Give a teacher training reference (iteration)
 description: Simplifying the previous design
 tags: awaiting-validation
 ---
+
+An [iteration on the initial design](/apply-for-teacher-training/give-a-reference), removing some of the unnecessary fields.
 
 ## User needs
 
