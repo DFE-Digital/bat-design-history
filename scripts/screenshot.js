@@ -34,6 +34,8 @@ const deepestDirectory = directoryName.split('/').pop()
 var title = deepestDirectory.replace(/-/g, ' ')
 title = title.charAt(0).toUpperCase() + title.slice(1)
 
+const datestamp = DateTime.local().toFormat('yyyy-MM-dd')
+
 const imageDirectory = `app/images/${directoryName}`
 const postDirectory = `app/posts/${directoryName}`.replace('/' + deepestDirectory, '')
 
@@ -104,6 +106,7 @@ function generatePage () {
   const templateStart = `---
 title: ${title}
 description:
+date: ${datestamp}
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -121,7 +124,7 @@ description:
     }`
   })
 
-  const filename = `${postDirectory}/${DateTime.local().toFormat('yyyy-MM-dd')}-${deepestDirectory}.md`
+  const filename = `${postDirectory}/${datestamp}-${deepestDirectory}.md`
 
   fs.writeFile(
     filename,

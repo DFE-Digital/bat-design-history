@@ -1,6 +1,7 @@
 ---
 title: Maps for providers with many partner schools
 description: What does good look like for providers with many partner schools?
+date: 2018-11-27
 ---
 From research with providers we found that for courses offered by large SCITTs and universities we didn’t have enough data to accurately tell candidates the full story around location. This also applies to growing school direct alliances (for example [Trinity TSA](https://find-postgraduate-teacher-training.education.gov.uk/course/1YF/2QL9)).
 

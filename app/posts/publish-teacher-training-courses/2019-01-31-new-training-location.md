@@ -1,6 +1,7 @@
 ---
 title: Add training location wizard
 description: Add a training location in Publish rather than UCAS.
+date: 2019-01-31
 ---
 The first design for adding training locations to an organisation. It follows the same patterns as the [new course wizard](/publish-teacher-training-courses/new-course-iteration-14-jan) – one thing per page, check your answers at the end, back-and-forth editing once the wizard is finished.
 

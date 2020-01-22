@@ -1,6 +1,7 @@
 ---
 title: Welcome email
 description: The email we send when users first log in.
+date: 2018-09-11
 ---
 This is the email we send to users when they log in for the first time.
 

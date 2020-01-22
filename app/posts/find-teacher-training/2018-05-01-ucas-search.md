@@ -1,6 +1,7 @@
 ---
 title: UCAS teacher training (search)
-description: Screenshots of the UCAS service that Find replaced
+description: Screenshots of the UCAS service that Find replaced.
+date: 2018-05-01
 tags: ucas
 ---
 Screenshots of the UCAS search tool that Find postgraduate teacher training replaced in 2018.

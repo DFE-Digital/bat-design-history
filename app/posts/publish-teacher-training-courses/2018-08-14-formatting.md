@@ -1,6 +1,7 @@
 ---
 title: Formatting
 description: Paragraphs, lists and links.
+date: 2018-08-14
 ---
 From user research we’ve found that users need to format their text using paragraphs, lists and links.
 

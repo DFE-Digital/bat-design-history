@@ -1,6 +1,7 @@
 ---
 title: Working patterns for part time jobs
-description: Adding a place for candidates to describe their working pattern
+description: Adding a place for candidates to describe their working pattern.
+date: 2020-01-20
 ---
 We ask candidates to select ‘full time’ or ‘part time’ for their work history entries.
 

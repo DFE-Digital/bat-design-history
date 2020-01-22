@@ -1,6 +1,7 @@
 ---
 title: Edit a course outcome
 description: Allow providers to choose an outcome, instead of using our inferred one.
+date: 2018-10-18
 ---
 We currently infer the outcome with a mapping from UCAS data:
 

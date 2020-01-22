@@ -1,6 +1,7 @@
 ---
 title: Who did what and when
 description: The beginnings of an audit trail for content.
+date: 2018-08-20
 ---
 These are the beginnings of an audit trail for content. We will record the most recent author and publisher, and the times these events happen.
 

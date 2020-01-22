@@ -2,6 +2,7 @@
 layout: page
 title: Rethinking the publish workflow
 description: What does the publish workflow look like after UCAS transition?
+date: 2018-12-20
 ---
 Publishing before transition was complicated. Each training location had a state and a publish flag, which determines if the course appears in Find and can be applied to on UCAS Apply. Then the content has its own state – Empty, Draft or Published.
 

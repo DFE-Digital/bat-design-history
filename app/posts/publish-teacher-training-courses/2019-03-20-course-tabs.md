@@ -1,6 +1,7 @@
 ---
 title: Tabs on course pages
 description: Splitting course details and enrichments.
+date: 2019-03-20
 ---
 An iteration on [the previous design](#old-course-design) where course details and enrichments were shown together.
 

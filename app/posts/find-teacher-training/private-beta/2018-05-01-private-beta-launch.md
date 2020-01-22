@@ -1,7 +1,7 @@
 ---
 title: Private beta as launched
 description: The service as it was launched on 1 May 2018.
-tags:
+date: 2018-05-01
 ---
 [Tested with users on May 3](/find-teacher-training/private-beta/user-research-may-3), with key observations noted below.
 

@@ -1,6 +1,7 @@
 ---
 title: What is a course?
 description: Work to define our definition of a course.
+date: 2018-05-24
 ---
 * [Slide deck](https://docs.google.com/presentation/d/1QgjOu_xpzZGDP_ylMIKzDL8CgW1TvtVKICb0P8YiTWQ/edit?usp=sharing)
 * [BATSA-287](https://dfedigital.atlassian.net/browse/BATSA-287)

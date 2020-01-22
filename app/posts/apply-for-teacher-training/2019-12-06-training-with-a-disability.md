@@ -1,6 +1,7 @@
 ---
 title: Giving details about disability
 description: Training with a disability and reasonable adjustments course choices.
+date: 2019-12-06
 ---
 Disclosing a disability is a way for candidates to present their disability and needs to a provider, with the potential benefit of making training easier and more accessible.
 

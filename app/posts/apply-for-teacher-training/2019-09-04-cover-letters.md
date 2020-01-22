@@ -1,6 +1,7 @@
 ---
 title: Cover letters
 description: Creating a place to customise what’s sent to each provider.
+date: 2019-09-04
 related:
   items:
   - text: Trello ticket

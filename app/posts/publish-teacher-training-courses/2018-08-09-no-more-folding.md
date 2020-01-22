@@ -1,6 +1,7 @@
 ---
 title: No more course folding
 description: Reasoning behind not folding courses and unfolded course designs.
+date: 2018-08-09
 ---
 We defined folding as the combination of ‘course variants’ by subject, eg PGCE with QTS, QTS only, salaried and unsalaried would all show as one search result and course detail page.
 

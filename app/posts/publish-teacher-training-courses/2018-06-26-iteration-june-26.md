@@ -1,6 +1,7 @@
 ---
 title: Iteration 26 June 2018
 description: Separate courses by accrediting provider. Provide explicit fields for each course offered.
+date: 2018-06-26
 ---
 Following [user research with providers](/publish-teacher-training-courses/school-direct-view), it was found that the “About this course” field was confusing when it could potentially apply to different course variants.
 

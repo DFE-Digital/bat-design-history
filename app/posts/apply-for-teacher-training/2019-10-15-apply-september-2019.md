@@ -1,6 +1,7 @@
 ---
 title: Apply – September 2019
 description: A full set of screens showing the design in mid-September.
+date: 2019-10-15
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

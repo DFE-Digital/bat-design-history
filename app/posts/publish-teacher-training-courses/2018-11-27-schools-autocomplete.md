@@ -1,6 +1,7 @@
 ---
 title: Schools autocomplete
 description: An autocomplete for selecting partner schools quickly.
+date: 2018-11-27
 ---
 [Live demo](https://manage-courses-prototype.herokuapp.com/school-autocomplete) and [pull request](https://github.com/DFE-Digital/manage-courses-prototype/pull/18).
 

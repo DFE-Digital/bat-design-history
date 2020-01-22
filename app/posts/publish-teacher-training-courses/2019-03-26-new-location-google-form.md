@@ -1,6 +1,7 @@
 ---
 title: New location as a Google form
 description: An MVP version of the location form we can ship with transition.
+date: 2019-03-26
 ---
 Like [new courses](/publish-teacher-training-courses/new-course-google-form), we don’t expect to build the new location features in time for transition.
 

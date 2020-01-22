@@ -1,6 +1,7 @@
 ---
 title: Support for Apply as designed for MVP
-description: The initial pilot designs
+description: The initial pilot designs.
+date: 2019-11-29
 ---
 On 26 November we launched the initial Support for Apply pilot application to let support agents amend applications and import references submitted via Google Forms.
 

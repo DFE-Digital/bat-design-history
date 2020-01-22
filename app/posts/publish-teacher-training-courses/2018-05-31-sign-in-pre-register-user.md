@@ -1,6 +1,7 @@
 ---
 title: "Sign-in: Invite a user"
-description: This is the approach we attempted first. Because of limitations with the invite email and users ending up at a dead-end, we switched to self-registration
+description: This is the approach we attempted first. Because of limitations with the invite email and users ending up at a dead-end, we switched to self-registration.
+date: 2018-05-31
 ---
 The full journey from admin screens to a user completing sign up.
 

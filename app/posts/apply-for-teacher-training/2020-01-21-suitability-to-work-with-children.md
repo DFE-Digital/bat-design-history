@@ -1,6 +1,7 @@
 ---
 title: Suitability to work with children
 description: Add a section to disclose convictions or anything that could affect suitability to work with children.
+date: 2020-01-21
 related:
   items:
   - text: Trello ticket

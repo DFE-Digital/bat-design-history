@@ -1,6 +1,7 @@
 ---
 title: Success messaging
 description: Messages we show after a successful save or publish.
+date: 2018-08-07
 ---
 Designs for success messages shown after a successful save or publish.
 

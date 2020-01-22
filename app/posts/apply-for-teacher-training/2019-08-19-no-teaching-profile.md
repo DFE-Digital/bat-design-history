@@ -1,6 +1,7 @@
 ---
 title: Removing the teaching profile
 description: Why we removed it, and the alternative.
+date: 2019-08-19
 ---
 [In the July 2019 prototype](https://apply-beta-prototype-v1.herokuapp.com/) ([screenshots](/apply-for-teacher-training/apply-june-2019/personal-details)) we tested a version of the application where course choice was separated from your teaching profile. Your teaching profile was a shareable or reusable profile that would be pulled into each application.
 

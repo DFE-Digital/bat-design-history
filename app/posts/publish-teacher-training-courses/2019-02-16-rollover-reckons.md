@@ -1,6 +1,7 @@
 ---
 title: Rollover reckons
 description: Thoughts on what rollover might look like. And notes on what rollover is right now.
+date: 2019-02-16
 ---
 ## UCAS rollover
 

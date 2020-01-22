@@ -1,6 +1,7 @@
 ---
 title: Choose how to apply – Iteration and research
 description: An updated journey into UCAS or new Apply service, tested with users.
+date: 2019-02-27
 ---
 Following on from the [initial design](/find-teacher-training/choose-how-to-apply).
 

@@ -1,6 +1,7 @@
 ---
 title: Story map – 1 August 2018
 description: Screenshots of the end to end journey from publish courses to search and compare.
+date: 2018-08-01
 ---
 Designs illustrating each column in the [Trello Story map](https://trello.com/b/9fCxMchD/bat-search-story-map).
 

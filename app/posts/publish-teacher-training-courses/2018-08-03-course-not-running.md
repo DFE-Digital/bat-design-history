@@ -1,6 +1,7 @@
 ---
 title: Course statuses – 3 August iteration
 description: A more indepth look at UCAS course status and how it’ll affect publishing.
+date: 2018-08-03
 ---
 As a user looking at all of my courses imported from UCAS, I need to know which of those courses have been published, so that I know which courses applicants are seeing.
 

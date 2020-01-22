@@ -1,6 +1,7 @@
 ---
 title: Problems with a course
 description: Exploration into highlighting problems with a course before publishing.
+date: 2019-04-14
 ---
 Exploration into highlighting problems with a course before publishing.
 

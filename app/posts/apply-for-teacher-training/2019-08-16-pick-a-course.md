@@ -1,6 +1,7 @@
 ---
 title: Picking courses to apply to
 description: Providing a route to Find, or selecting the course you want.
+date: 2019-08-16
 ---
 Candidates using Apply need to choose a course to apply to.
 

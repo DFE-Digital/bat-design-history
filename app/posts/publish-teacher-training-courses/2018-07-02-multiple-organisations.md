@@ -1,6 +1,7 @@
 ---
 title: Managing multiple organisations
 description: Some users will be responsible for courses from multiple organisations. eg SCITT-schools.
+date: 2018-07-02
 ---
 The way DfE models organisations is different to the way they’ve been modelled in UCAS. Some users will have access to multiple UCAS institutions.
 

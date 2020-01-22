@@ -1,6 +1,7 @@
 ---
 title: From Find to Apply
 description: User journey and screenshots for a new user.
+date: 2019-10-23
 related:
   items:
   - text: Trello ticket

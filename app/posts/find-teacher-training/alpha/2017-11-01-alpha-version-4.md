@@ -1,9 +1,7 @@
 ---
 title: Alpha version 4
-description:
-tags:
+date: 2017-11-01
 ---
-
 [Version 4 prototype](https://search-and-compare-alpha.herokuapp.com/v04/)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
