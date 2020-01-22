@@ -40,12 +40,20 @@ app.all('/apply-teacher-training/:path', function (req, res) {
   res.redirect(`/apply-for-teacher-training/${req.params.path}`)
 })
 
+app.all('/manage-applications/:path', function (req, res) {
+  res.redirect(`/manage-teacher-training-applications/${req.params.path}`)
+})
+
 app.all('/publish-teacher-training', function (req, res) {
   res.redirect(`/publish-teacher-training-courses`)
 })
 
 app.all('/apply-teacher-training', function (req, res) {
   res.redirect(`/apply-for-teacher-training`)
+})
+
+app.all('/manage-applications', function (req, res) {
+  res.redirect(`/manage-teacher-training-applications`)
 })
 
 app.get('/image/:size/*.:ext', (req, res) => {
