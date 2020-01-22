@@ -1,6 +1,6 @@
 ---
-title: The difference between work history and volunteering
-description: The content on the work history and volunteering pages had conflicting information.
+title: Work history and volunteering guidance
+description: Making sure providers get the information they need about a candidate's (unpaid) work history.
 ---
 We want candidates to tell us about their paid work experience on one page and their unpaid experience or volunteering on another page.
 
@@ -17,7 +17,7 @@ Clarifying the guidance on these pages should ensure that candidates do not:
 
 As a provider, I need enough detail about a candidate’s work history, unpaid experience and volunteering so that I can make decisions on their application.
 
-As a candidate, I need to show my work history, unpaid experience and volunteering so that I can demonstrate my potential for teaching.
+As a candidate, I need to understand what information is needed about my (unpaid) work history so that I can be successful in my application.
 
 ## Hypotheses
 
@@ -39,14 +39,14 @@ A couple of providers echoed these concerns. For example, Bedfordshire Universit
 
 **Because** they will be encouraged to include all their experience, even if it wasn't working with children or in a school
 
-## How will we know it works?
+## How will we know this works?
 
  We’ll know this works when:
 
  * candidates have no difficulty filling out these sections of the application form
  * providers have a big picture of a candidate's work history
 
- We'll test our updates (refer to screenshots below) with users to see if it works. 
+ We'll test the new content (refer to screenshots below) with users to see if we get the right results.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
