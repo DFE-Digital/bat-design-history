@@ -8,13 +8,19 @@ An [iteration on the initial design](/apply-for-teacher-training/give-a-referenc
 
 ## User needs
 
-As a referee
-: I need to provide a useful reference
-: So that I can help the candidate with their application and get back to my day as quickly as possible
+{% from "user-need/macro.njk" import appUserNeed with context %}
 
-As a candidate
-: I need to know that my referee doesn't want to give a reference
-: So that I can get another referee as quickly as possible to progress my application
+{{appUserNeed({
+  user: 'referee',
+  goal: 'to provide a useful reference',
+  outcome: 'I can help the candidate with their application and get back to my day as quickly as possible'
+})}}
+
+{{appUserNeed({
+  user: 'candidate',
+  goal: 'to know that my referee doesn\'t want to give a reference',
+  outcome: 'I can get another referee as quickly as possible to progress my application'
+})}}
 
 ## Hypotheses
 
