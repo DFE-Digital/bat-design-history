@@ -19,11 +19,11 @@ As a provider, I need enough detail about a candidate’s work history, unpaid e
 
 As a candidate, I need to understand what information is needed about my (unpaid) work history so that I can be successful in my application.
 
-## Hypotheses
+## Hypothesis
 
-**Context**
+### Context
 
-We launched Apply for teacher training with some potentially problematic guidance in the [work history page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-work-history-page) and [volunteering page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-volunteering-page).
+We launched Apply for teacher training with some potentially problematic guidance in the [work history page](/apply-for-teacher-training/work-history-and-volunteering#old-guidance-on-work-history-page) and [volunteering page](/apply-for-teacher-training/work-history-and-volunteering#old-guidance-on-volunteering-page).
 
 Both sections suggested that we only want to know about school experience or experience working with children.
 
@@ -33,13 +33,15 @@ Presenting the application form in a way that values school experience over othe
 
 A couple of providers echoed these concerns. For example, Bedfordshire University said that the guidance could discourage candidates from including some types of work. This is the opposite of what they want to achieve: a big picture of the candidate.   
 
-**If** we clarify the guidance on the [work history page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-work-history-page) and the [volunteering page](/apply-for-teacher-training/work-history-and-volunteering#guidance-on-volunteering-page)
+### Our hypothesis
+
+**If** we clarify the guidance on the [work history page](/apply-for-teacher-training/work-history-and-volunteering#new-guidance-on-work-history-page) and the [volunteering page](/apply-for-teacher-training/work-history-and-volunteering#new-guidance-on-volunteering-page)
 
 **Then** candidates will show their potential for teaching
 
 **Because** they will be encouraged to include all their experience, even if it wasn't working with children or in a school
 
-## How will we know this works?
+### How will we know this works?
 
  We’ll know this works when:
 
