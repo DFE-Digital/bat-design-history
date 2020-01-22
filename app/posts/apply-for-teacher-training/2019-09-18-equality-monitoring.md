@@ -1,6 +1,6 @@
 ---
 title: Equality monitoring
-description: Get the most important degree details first.
+description: First pass at asking for information for monitoring equality
 related:
   items:
   - text: HESA Initial Teacher Training record 2019/20
@@ -16,7 +16,7 @@ related:
   - text: Trello ticket
     href: https://trello.com/c/ztd2hNAH
 ---
-Our first pass at asking for personal information for the purposes of monitoring equality.
+Our first pass at asking for information for monitoring equality.
 
 We need to collect this information so that providers can report it back to [HESA](https://www.hesa.ac.uk/collection/c19053). It is only sent to a provider when the application process is complete.
 
