@@ -19,7 +19,7 @@ collections:
   folder: app/posts/find-teacher-training
   create: true
   extension: md
-  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   fields:
   - name: title
     label: Title
@@ -37,12 +37,14 @@ collections:
   - name: date
     label: Published
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
   - name: modified
     label: Last updated
     required: false
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
     default: ""
   - name: body
     label: Body
@@ -72,7 +74,7 @@ collections:
   folder: app/posts/publish-teacher-training-courses
   create: true
   extension: md
-  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   fields:
   - name: title
     label: Title
@@ -90,12 +92,14 @@ collections:
   - name: date
     label: Published
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
   - name: modified
     label: Last updated
     required: false
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
     default: ""
   - name: body
     label: Body
@@ -125,7 +129,7 @@ collections:
   folder: app/posts/apply-for-teacher-training
   create: true
   extension: md
-  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   fields:
   - name: title
     label: Title
@@ -143,12 +147,14 @@ collections:
   - name: date
     label: Published
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
   - name: modified
     label: Last updated
     required: false
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
     default: ""
   - name: body
     label: Body
@@ -178,7 +184,7 @@ collections:
   folder: app/posts/manage-teacher-training-applications
   create: true
   extension: md
-  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   fields:
   - name: title
     label: Title
@@ -196,12 +202,14 @@ collections:
   - name: date
     label: Published
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
   - name: modified
     label: Last updated
     required: false
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
     default: ""
   - name: body
     label: Body
@@ -231,7 +239,7 @@ collections:
   folder: app/posts/support-for-apply
   create: true
   extension: md
-  slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   fields:
   - name: title
     label: Title
@@ -249,12 +257,14 @@ collections:
   - name: date
     label: Published
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
   - name: modified
     label: Last updated
     required: false
     widget: datetime
-    format: "D MMMM YYYY"
+    dateFormat: YYYY-MM-DD
+    timeFormat: false
     default: ""
   - name: body
     label: Body
