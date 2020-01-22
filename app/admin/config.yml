@@ -36,12 +36,12 @@ collections:
     - { label: "Awaiting validation", value: "awaiting-validation" }
   - name: date
     label: Published
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
   - name: modified
     label: Last updated
     required: false
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
     default: ""
   - name: body
@@ -89,12 +89,12 @@ collections:
     - { label: "Awaiting validation", value: "awaiting-validation" }
   - name: date
     label: Published
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
   - name: modified
     label: Last updated
     required: false
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
     default: ""
   - name: body
@@ -142,12 +142,12 @@ collections:
     - { label: "Awaiting validation", value: "awaiting-validation" }
   - name: date
     label: Published
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
   - name: modified
     label: Last updated
     required: false
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
     default: ""
   - name: body
@@ -195,12 +195,12 @@ collections:
     - { label: "Awaiting validation", value: "awaiting-validation" }
   - name: date
     label: Published
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
   - name: modified
     label: Last updated
     required: false
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
     default: ""
   - name: body
@@ -248,12 +248,12 @@ collections:
     - { label: "Awaiting validation", value: "awaiting-validation" }
   - name: date
     label: Published
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
   - name: modified
     label: Last updated
     required: false
-    widget: date
+    widget: datetime
     format: "D MMMM YYYY"
     default: ""
   - name: body

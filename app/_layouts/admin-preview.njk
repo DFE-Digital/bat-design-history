@@ -1,0 +1,23 @@
+<article class="app-article">
+  <header class="app-article__header">
+    <h1 class="app-article__title govuk-heading-xl">{{ title }}</h1>
+    {% if description %}
+      <p class="app-article__description govuk-body-l">{{ description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="app-article__body">
+    <div class="app-prose">
+      {{ content | safe }}
+    </div>
+  </div>
+
+  <footer class="app-article__footer">
+    {% if date %}
+      Published {{ date }}<br>
+    {% endif %}
+    {% if modified %}
+      Last updated {{ modified }}
+    {% endif %}
+  </footer>
+</article>
