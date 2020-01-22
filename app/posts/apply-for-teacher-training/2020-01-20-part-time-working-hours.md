@@ -16,14 +16,16 @@ As a candidate, I need to be able to describe my part time jobs, so that I can s
 
 ## Hypotheses
 
-**Context**
+### Context
 
 UCAS asks for working hours for all jobs. We're not sure if this is necessary, because:
 
 * the difference between 20 and 22 hours, for example, isn't significant
 * a full time job shows a level of commitment, whether it was 37 hours or 40 hours
 
- **If** we ask for the working pattern (rather than the number of hours):
+### Our hypotheses
+
+**If** we ask for the working pattern (rather than the number of hours):
 
  * **Then** it will be easier for candidates to fill out the application form
  **Because** they won't have to find out the number of hours they worked in each job
