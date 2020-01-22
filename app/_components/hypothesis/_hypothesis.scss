@@ -1,0 +1,15 @@
+.app-hypothesis {
+  border: 1px solid $govuk-border-colour;
+  padding: govuk-spacing(5);
+  margin-bottom: govuk-spacing(6);
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.app-hypothesis__context {
+  border-bottom: 1px solid $govuk-border-colour;
+  padding-bottom: govuk-spacing(5);
+  margin-bottom: govuk-spacing(5);
+}

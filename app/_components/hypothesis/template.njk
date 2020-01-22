@@ -1,0 +1,34 @@
+{% set headingLevel = 3 %}
+{% if params.level %}
+  {% set headingLevel = params.level %}
+{% endif %}
+
+<div class="app-hypothesis">
+  <h{{headingLevel}} class="govuk-heading-s">{{params.title}}</h{{headingLevel}}>
+
+  <div class="app-hypothesis__context">
+    {% if params.context.html %}
+      {{ params.context.html | safe }}
+    {% else %}
+      <p class="govuk-body">{{params.context.text | safe}}</p>
+    {% endif %}
+  </div>
+
+  <p class="govuk-body">
+    If {{params.if}}<br>
+    Then {{params.then}}<br>
+    {% if params.because %}
+      Because {{params.because}}
+    {% endif %}
+  </p>
+
+{% if params.measurements %}
+  <p class="govuk-body">We’ll know this works when:</p>
+  <ul class="govuk-list govuk-list--bullet">
+    {% for measurement in params.measurements %}
+      <li>{{measurement}}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+</div>
