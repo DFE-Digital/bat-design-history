@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: DFE-digital/bat-design-history-v2
+  repo: DFE-digital/bat-design-history
   branch: netlify-cms
 publish_mode: editorial_workflow
-site_url: https://bat-design-history-v2.herokuapp.com
+site_url: https://bat-design-history.herokuapp.com
 display_url: View site
 logo_url: /admin/logo.svg
 public_folder: /images/uploads
