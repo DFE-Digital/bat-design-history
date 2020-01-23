@@ -5,21 +5,20 @@ date: 2020-01-23
 tags: awaiting-validation
 ---
 
-Let users find applications within a huge list quickly and easily.
+Let users find applications quickly and easily within a very long list.
 
 ## Hypothesis
 
-Currently, there's 1 long list of applications for providers to look at. This works okay for now because there's only a few applications being submitted and users are only currently assigned to 1 provider.
+Currently, providers see 1 long list of applications. This works okay for now because there's only a few applications being submitted and users are only currently assigned to 1 provider.
 
-But users will have to manage hundreds of applications going forwards, including applications across multiple providers like those that are part of a School Direct family or universities that accredit multiple School Directs.
+But users will have to manage hundreds of applications including applications across multiple providers like those that are part of a School Direct family or universities that accredit multiple School Directs.
 
-This will make it hard to find particular applications and make them slow to load.
+This makes the page slower to load and makes it harder to find applications.
 
 ### Filtering by status and provider
 
 If we let users filter by status and provider
-Then it'll be easier manage applications
-Because they'll be able to find the applications they're looking for more quickly
+Then it'll be easier to find applications
 We’ll know this works when:
 - research shows there's a need to see applications for different providers at the same time
 - users are able to select the statuses they want to see
@@ -28,10 +27,6 @@ We’ll know this works when:
 
 If we let users paginate
 Then pages will be shorter and quicker to load
-Because they'll be less records to retrieve from the database and show users
-
-
-
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
