@@ -32,4 +32,8 @@ const Post = ({ entry }) => React.createElement(Preview, {
   })
 })
 
+CMS.registerPreviewTemplate('apply-for-teacher-training', Post)
+CMS.registerPreviewTemplate('find-teacher-training', Post)
+CMS.registerPreviewTemplate('manage-teacher-training-applications', Post)
+CMS.registerPreviewTemplate('publish-teacher-training-courses', Post)
 CMS.registerPreviewTemplate('support-for-apply', Post)
