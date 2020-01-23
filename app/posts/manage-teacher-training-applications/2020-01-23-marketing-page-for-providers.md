@@ -16,14 +16,8 @@ The page uses deliberately simplified screenshots so that:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [{
-      text: "Marketing page for providers",
-      img: { src: "marketing-page-for-providers.png" }
-    },
-    {
-      text: "Original mockup"
-    },
-    {
-      text: "Sign up Google form"
-    }]
+  items: [
+    { text: "Marketing page for providers" },
+    { text: "Sign up Google form" }
+  ]
 }) }}
