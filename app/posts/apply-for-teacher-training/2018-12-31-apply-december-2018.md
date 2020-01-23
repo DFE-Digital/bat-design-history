@@ -1,7 +1,7 @@
 ---
 title: Apply – December 2018
 description: The Apply designs as they stood at the end of December 2018.
-date: 2019-02-19
+date: 2018-12-31
 related:
   items:
   - text: Prototype
