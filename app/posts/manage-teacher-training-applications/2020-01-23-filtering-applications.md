@@ -28,6 +28,22 @@ We’ll know this works when:
 If we let users paginate
 Then pages will be shorter and quicker to load
 
+## Design rationale
+
+On large screens, the filter is positioned on the left and starts open in order to give it equal weighting with the application list. This way it's easy to spot.
+
+If the filter was above the list, it would push the list down and potentially out of view. It also lets the user see the list at the same time as the filters. On small screens, the filter is partially overlaid for the same reason.
+
+The filter lets users select and submit multiple filters in a batch which is more efficient than a filter that only let users select one filter at time.
+
+The ‘Apply filters’ button is at the top so that it has the best chance of being seen, especially if there are lots of filters.
+
+The selected filters are duplicated as a group at the top so it's obvious which filters are applied. And  they can be deselected without having to find the selected checkbox in the long list of options below which might be off screen.
+
+Small checkboxes are used to make them less prominent so that users can focus on the page content.
+
+The width of the page is wider to accomodate the filter.
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
