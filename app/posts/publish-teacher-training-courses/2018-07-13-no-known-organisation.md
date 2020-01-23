@@ -1,6 +1,7 @@
 ---
 title: When a user isn’t recognised
 description: Designs for when a user’s email isn’t in our whitelist.
+date: 2018-07-13
 ---
 If a user signs up who isn’t on our whitelist we don’t know much about them. We can’t give them access to anyone’s courses. We need to know which organisation they should be part of and then validate that.
 

@@ -1,9 +1,9 @@
 ---
 title: Give a teacher training reference (iteration)
-description: Simplifying the previous design
+description: Simplifying the previous design.
+date: 2020-01-20
 tags: awaiting-validation
 ---
-
 An [iteration on the initial design](/apply-for-teacher-training/give-a-reference), removing some of the unnecessary fields.
 
 ## User needs

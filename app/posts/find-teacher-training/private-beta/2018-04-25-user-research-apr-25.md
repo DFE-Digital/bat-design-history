@@ -1,9 +1,7 @@
 ---
 title: User research 25 April 2018
-description:
-tags:
+date: 2018-04-25
 ---
-
 Testing with users in the [middle of the digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals).
 
 * [Research summary](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/301596673/15th+Round+-+26th+April)

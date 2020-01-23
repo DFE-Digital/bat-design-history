@@ -1,6 +1,7 @@
 ---
 title: Check your UCAS data (Initial launch)
 description: A read-only version of the tool where users can validate their imported courses and request access for users.
+date: 2018-06-28
 ---
 When onboarding users to the publish courses tool, to begin with they’ll only have access to the data we’ve imported from UCAS.
 

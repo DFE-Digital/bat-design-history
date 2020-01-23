@@ -1,6 +1,7 @@
 ---
 title: PGDE and further education courses
-description: We quickly iterated fixes to correctly indicate qualifications on these courses
+description: We quickly iterated fixes to correctly indicate qualifications on these courses.
+date: 2018-10-02
 ---
 We started with two qualification options:
 

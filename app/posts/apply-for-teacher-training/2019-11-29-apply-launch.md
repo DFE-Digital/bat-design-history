@@ -1,6 +1,7 @@
 ---
 title: Apply as launched on 26 November 2019
 description: The initial pilot with one provider.
+date: 2019-11-29
 ---
 On 26 November 2019 we launched the initial Apply pilot with one provider, Royal Academy of Dance (RAD).
 

@@ -1,6 +1,7 @@
 ---
 title: Amending and withdrawing
 description: Amending applications and withdrawing course choices.
+date: 2019-10-25
 ---
 First spike to support two features of the application process:
 

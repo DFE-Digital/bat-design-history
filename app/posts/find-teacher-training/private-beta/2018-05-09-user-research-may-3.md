@@ -1,6 +1,7 @@
 ---
 title: User research 3 May 2018
 description: Testing with users middle to low on the digital inclusion scale, dyslexic and hearing impaired users.
+date: 2018-05-09
 tags: find-private-beta
 ---
 

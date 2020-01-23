@@ -1,6 +1,7 @@
 ---
 title: Give a teacher training reference
 description: Replacing the Google form with an integrated form.
+date: 2019-12-05
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({ html: 'We built a <a href="/apply-for-teacher-training/give-a-reference-iteration">simpler version of this design</a>.', iconFallbackText: "Warning" }) }}

@@ -1,6 +1,7 @@
 ---
 title: Work history and volunteering guidance
 description: Making sure providers get the information they need about a candidate's (unpaid) work history.
+date: 2020-01-21
 ---
 We want candidates to tell us about their paid work experience on one page and their unpaid experience or volunteering on another page.
 
@@ -31,7 +32,7 @@ Teacher training providers are not allowed to make school experience a prerequis
 
 Presenting the application form in a way that values school experience over other types of experience isn't fair on the candidate. It makes it more likely that the candidate omits other types of experience.
 
-A couple of providers echoed these concerns. For example, Bedfordshire University said that the guidance could discourage candidates from including some types of work. This is the opposite of what they want to achieve: a big picture of the candidate.   
+A couple of providers echoed these concerns. For example, Bedfordshire University said that the guidance could discourage candidates from including some types of work. This is the opposite of what they want to achieve: a big picture of the candidate.
 
 ### Our hypothesis
 

@@ -1,6 +1,7 @@
 ---
 title: Terms agreement
 description: A user must agree to terms before enriching.
+date: 2018-08-17
 ---
 Before each user can begin enriching their course data we need them to agree to our terms and conditions.
 

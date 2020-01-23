@@ -1,6 +1,7 @@
 ---
 title: Creating our first interactive prototype
 description: Testing an interactive version of the application form.
+date: 2019-08-01
 related:
   items:
   - text: Prototype v1

@@ -1,7 +1,7 @@
 ---
 title: Financial incentives
 description: Changes made to the financial incentives logic for courses with multiple subjects.
-tags:
+date: 2019-03-26
 ---
 ## What is the problem?
 

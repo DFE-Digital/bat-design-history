@@ -1,6 +1,7 @@
 ---
 title: School direct view
 description: School Direct routes are the most complex. List schools, show multiple UCAS courses per subject, show folded course summary.
+date: 2018-06-06
 ---
 School Direct routes are the most complex. List schools, show multiple UCAS courses per subject, show folded course summary.
 

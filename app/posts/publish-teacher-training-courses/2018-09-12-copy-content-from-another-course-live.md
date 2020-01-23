@@ -1,6 +1,7 @@
 ---
 title: Copy content from another course (Live)
 description: We changed this feature when we built it.
+date: 2018-09-12
 ---
 When we initially designed and tested the [copy content feature](/publish-teacher-training-courses/copy-content-from-another-course) we expected the backend to be a bottleneck:
 

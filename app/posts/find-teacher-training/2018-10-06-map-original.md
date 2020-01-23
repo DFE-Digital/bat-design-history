@@ -1,6 +1,7 @@
 ---
 title: Results on a map – Early design with tweaks
 description: Map based on code written during alpha/private-beta with some recent tweaks.
+date: 2018-10-06
 tags: maps
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}

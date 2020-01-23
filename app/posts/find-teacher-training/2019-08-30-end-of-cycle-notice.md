@@ -1,6 +1,7 @@
 ---
 title: An end of cycle notice
 description: Tell users which year’s courses they are searching.
+date: 2019-08-30
 related:
   items:
   - text: Trello ticket

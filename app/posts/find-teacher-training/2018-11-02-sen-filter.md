@@ -1,6 +1,7 @@
 ---
 title: Special educational needs (SEN) filter
 description: SEN is a subject, but also not a subject. Any subject could have an SEN focus.
+date: 2018-11-02
 tags: send
 ---
 Users have struggled to find SEN courses because SEN is not listed as a subject anywhere.

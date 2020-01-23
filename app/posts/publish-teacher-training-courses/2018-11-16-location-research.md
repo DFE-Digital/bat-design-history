@@ -1,6 +1,7 @@
 ---
 title: Location labels and survey research
 description: First attempts to understand location with a classification exercise.
+date: 2018-11-16
 ---
 Following research on maps with candidates and [discussions with providers about location](/publish-teacher-training-courses/the-location-problem), we sought to focus further research by providing prototypes.
 

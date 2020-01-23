@@ -1,6 +1,7 @@
 ---
 title: Add a location – 13 February iteration
 description: Clarify the purpose of locations.
+date: 2019-02-17
 ---
 The term ‘training locations’ is ambiguous.
 

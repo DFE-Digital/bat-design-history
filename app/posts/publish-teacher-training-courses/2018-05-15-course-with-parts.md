@@ -1,6 +1,7 @@
 ---
 title: Course with parts
 description: Experimental designs looking at breaking course fields onto different pages, based on a theme.
+date: 2018-05-15
 ---
 Experimental designs looking at breaking course fields onto different pages, based on a theme.
 

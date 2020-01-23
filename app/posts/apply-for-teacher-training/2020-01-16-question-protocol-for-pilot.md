@@ -1,7 +1,8 @@
 ---
 layout: page
 title: What we ask for and why
-description: A question protocol
+description: A question protocol.
+date: 2020-01-16
 ---
 Below is a snapshot of the questions we ask (or intended to ask) candidates for the initial launch of the pilot. From [the service manual page about structuring forms](https://www.gov.uk/service-manual/design/form-structure):
 

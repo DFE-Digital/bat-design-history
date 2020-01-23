@@ -1,6 +1,7 @@
 ---
 title: An interface for minimal service provision
 description: Looking towards rolling out the pilot.
+date: 2019-10-15
 ---
 Based on research findings from testing earlier versions of the prototype, and having determined the need for a minimal service for managing applications even at the very start of the pilot with SCITTs, we created an updated and stripped-down version of the interface.
 

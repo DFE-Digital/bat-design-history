@@ -1,6 +1,7 @@
 ---
 title: Equality monitoring
-description: First pass at asking for information for monitoring equality
+description: First pass at asking for information for monitoring equality.
+date: 2019-08-18
 related:
   items:
   - text: HESA Initial Teacher Training record 2019/20

@@ -1,6 +1,7 @@
 ---
 title: Fewer statuses
 description: Trying a smaller set of statuses.
+date: 2019-02-21
 related:
   items:
   - text: Confluence documentation

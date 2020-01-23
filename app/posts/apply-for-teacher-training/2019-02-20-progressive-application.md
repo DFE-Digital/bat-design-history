@@ -1,6 +1,7 @@
 ---
 title: Progressive application
 description: Ask for further information only when needed.
+date: 2019-02-20
 ---
 Our designer Vin documented these on [Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/279314433/Designs) (Project Bluesky).
 
