@@ -2,6 +2,7 @@
 title: Filtering applications
 description: Let users find items a long list of applications by status and provider
 date: 2020-01-23
+tags: awaiting-validation
 ---
 
 Let users find applications within a huge list quickly and easily.
