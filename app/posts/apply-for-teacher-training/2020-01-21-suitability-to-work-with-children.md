@@ -64,6 +64,16 @@ If we show this information to providers then they can use it to make a decision
 
 If we put the information at the bottom of the provider form, then providers will be less likely to dismiss candidates who disclose something out of hand, because they will have reviewed the rest of their application already.
 
+## Questions
+
+This design is ready for research, but not ready for development.
+
+* How do people respond to this design?
+* Do we need to include some examples of things to disclose or not disclose?
+* What would those examples be?
+* Do we need further details about DBS checks and lists?
+* This doesn't have an explicit declaration, is that enough for providers?
+
 ## Findings
 
 When we demo’d this design to a university (15 Jan) – they said this design would meet their needs.
