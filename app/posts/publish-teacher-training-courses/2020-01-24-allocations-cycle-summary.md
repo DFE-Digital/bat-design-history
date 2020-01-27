@@ -4,18 +4,18 @@ description: A brief summary of how the allocations request happend at the start
 date: 2020-01-24
 related:
   items:
-  - text: test link
-    href: https://lookback.io/dfe-digital/live-service-post-application-research
-  - text: test link 2
-    href: https://lookback.io/dfe-digital/live-service-post-application-research
+  - text: Research playbacks
+    href: https://drive.google.com/drive/u/0/folders/13m8XwzRyoNHtncoGVsomBhFMJaSSrMpZ
+  - text: Raw research notes and audio/video
+    href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
 ---
-Follwing is a brief summary of how the allocations request happend at the start of the 2019/20 cycle.
+A summary of how the allocations request happend at the start of the 2019/20 cycle.
 
 ## Process maps
 
-This is a [high level process map](https://docs.google.com/drawings/d/1nj1xNt6sY8fXA_dNcFnDpi_wu5mvZhUzoUpQtZb0pIw/edit) of what happened last cycle. 
+[High level process map](https://docs.google.com/drawings/d/1nj1xNt6sY8fXA_dNcFnDpi_wu5mvZhUzoUpQtZb0pIw/edit) of what happened last cycle. 
 
-This is a [detailed process map](https://docs.google.com/drawings/d/1WxN1dtugXdIX_xwGRfSqzoDWawgz0LubA2e2hwe5FnE/edit) of what happened last cycle.
+[Detailed process map](https://docs.google.com/drawings/d/1WxN1dtugXdIX_xwGRfSqzoDWawgz0LubA2e2hwe5FnE/edit) of what happened last cycle.
 
 ## What happened?
 
@@ -139,13 +139,15 @@ Recruitment and Allocations Team
   content: PermissionToRecruit
 }) }}
 
-## Pain points
+## Research resources
+[Playbacks decks](https://drive.google.com/drive/u/0/folders/13m8XwzRyoNHtncoGVsomBhFMJaSSrMpZ)
+[Raw notes and audio/video](https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy)
 
-The main pain points were
-* point 1
-* point 2
-* point 3
+## Headline Findings
 
-## Research?
-links to lookback videos, play backs etc
+* Allocations data is known to be too inaccurate and unreliable for forecasting purposes
+* The plethora of routes into ITT leads to confusion for providers 
+* Allocations data as it is currently collected is little used by the funding and accreditation teams 
+* DfE still needs to know that providers actually want to request places for their courses for the current year
+* The process of collating and determining allocations for the next cycle was burdensome for TAD
 
