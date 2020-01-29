@@ -10,7 +10,7 @@ Several universities told us that the guidance on our [Interview preferences pag
 
 ## User needs
 
-As a provider, I need to be flexible when setting a date for interview in appropriate circumstances, so that candidates with varying circumstances can attend.
+As a provider, I need to be flexible when setting a date for interview when appropriate, so that candidates with varying circumstances can attend.
 
 As a candidate, I need need my provider to accommodate my circumstances, so that I can go to the interview.
 
@@ -18,7 +18,7 @@ As a candidate, I need need my provider to accommodate my circumstances, so that
 
 ### Context
 
-The data we have from candidates so far suggests candidates are not unreasonable in their requests.
+The data we have from candidates so far suggests that they are not unreasonable in their requests.
 
 However, some candidates have said they are not available on certain dates without giving a reason. Universities are unlikely to accommodate this, unless it fits in with the pre-arranged interview schedule.
 
@@ -33,7 +33,7 @@ Universities are more likely to be flexible if they know about a candidate's cir
 
 **Then** providers will try to accommodate them
 
-**Because** they want to widen participation and avoid discrimination  
+**Because** they want to widen participation and prevent discrimination  
 
 ### How will we know this works?
 
@@ -42,12 +42,12 @@ Universities are more likely to be flexible if they know about a candidate's cir
  * candidates understand what this section is for
  * providers get information that they're likely to take into account when setting an interview date
 
- We'll test the new content (refer to screenshot below) with users to see if we get the right results.
+ We'll test the new content with users to see if we get the right results.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   hideContents: true,
   items: [
-    { text: "Interview needs" }
+    { text: "New interview needs content" }
   ]
 }) }}
