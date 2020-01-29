@@ -1,7 +1,7 @@
 ---
 title: Interview needs
 description: Making sure candidates make reasonable requests for interview.
-date: 2020-01-21
+date: 2020-01-28
 ---
 
 Universities do not usually have much flexibility when setting interview dates.
@@ -46,6 +46,7 @@ Universities are more likely to be flexible if they know about a candidate's cir
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
+  hideContents: true,
   items: [
     { text: "Interview needs" }
   ]
