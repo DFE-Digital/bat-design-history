@@ -19,9 +19,9 @@ A summary of how the allocations request period at the beginning of the 2019/20 
 
 ## What happened?
 
-Before this cycle started the DTTP (Database of Teacher Training Providers) broke and instead we issued providers with a Google Spreadsheet to collect the data instead. 
+Before this cycle started the DTTP (Database of Teacher Training Providers) became unusable.
 
-This was communicated via email and was sent from itt.allocations@education.gov.uk in early June. The email contained a spreadsheet to capture requested allocation numbers.
+A new process was communicated to providers via an email which was sent from itt.allocations@education.gov.uk in early June. The email contained a spreadsheet to capture requested allocation data.
 
 [Requests for permission to recruit in 2020/21 spreadsheet](https://drive.google.com/open?id=14gIFMljWyXW9Ys2E84Eg4cBQGUGzxhYd)
 
@@ -43,7 +43,7 @@ This email was sent to ITT providers and lead schools.
   content: RequestForAllocations
 }) }}
 
-If providers had permission ro recruit they were sent this email.
+If providers had permission to recruit they were then sent this email.
 
 ## Email to providers 2 (Permission To Recruit) 
 
@@ -99,7 +99,7 @@ Recruitment and Allocations Team
   content: PermissionToRecruit
 }) }}
 
-## Headline findings
+## Research headline findings
 
 * Allocations data is known to be too inaccurate and unreliable for forecasting purposes
 * The plethora of routes into ITT leads to confusion for providers 
