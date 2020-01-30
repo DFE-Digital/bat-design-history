@@ -10,9 +10,21 @@ Several universities told us that the guidance on our [Interview preferences pag
 
 ## User needs
 
-As a provider, I need to be flexible when setting a date for interview when appropriate, so that candidates with varying circumstances can attend.
+### Provider need
 
-As a candidate, I need need my provider to accommodate my circumstances, so that I can go to the interview.
+As a provider
+
+I need to be flexible when setting a date for interview when appropriate
+
+So that candidates with varying circumstances can attend
+
+### Candidate need
+
+As a candidate
+
+I need need my provider to accommodate my circumstances
+
+So that I can go to the interview
 
 ## Hypothesis
 
@@ -29,11 +41,11 @@ Universities are more likely to be flexible if they know about a candidate's cir
 
 ### Our hypothesis
 
-**If** we encourage candidates to tell us about their circumstances in the guidance
+If we encourage candidates to tell us about their circumstances in the guidance
 
-**Then** providers will try to accommodate them
+Then providers will try to accommodate them
 
-**Because** they want to widen participation and prevent discrimination  
+Because they want to widen participation and prevent discrimination  
 
 ### How will we know this works?
 
