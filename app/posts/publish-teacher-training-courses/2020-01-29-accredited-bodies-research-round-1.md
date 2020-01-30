@@ -11,13 +11,12 @@ related:
 ---
 UCAS provided notifications and the ability to export reports in .csv format. This functionality is currently missing from Publish.
 
-In Round 1 we hoped to understand more about the situation and try and uncover their needs around reporting.
+In round 1 we hoped to understand more about the situation and try and uncover the  needs of Accredited Bodies around reporting.
 
 ## What did we want to find out?
 
 * Understand previous experiences
-* Uncover user’s needs 
-* Begin thinking and about possible ideas
+* Uncover user’s needs
 
 ## Findings
 
@@ -37,8 +36,8 @@ _"I think that they (UCAS) relied on the notifications rather than sending out a
 
 ### The transition to Publish has created issues
 
-* The problem with moving over to DfE meant that there were no longer alerts to changes and no ability to generate a csv.
-* Instead DfE provides reports which creates the potential for human error
+* The problem with moving over to DfE meant that there were no longer alerts to changes and no ability to generate csv reports.
+* Instead DfE provides a report which creates the potential for human error
 
 [Lookback highlight](https://docs.google.com/presentation/d/1yaNemUJLl8SlZoZKNOHs17xT4sywn5MKYzSHNsu1LGY/edit#slide=id.g62413edba2_0_545)
 
