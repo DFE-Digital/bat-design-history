@@ -1,6 +1,6 @@
 ---
-title: Allocations Summary 2019/2020
-description: A brief summary of how the allocations request happend at the start of the 2019/20 cycle.
+title: Allocations Summary 2020/2021
+description: A summary of the allocations request processs at the start of the 2020/2021 cycle.
 date: 2020-01-24
 related:
   items:
@@ -9,7 +9,7 @@ related:
   - text: Raw research notes and audio/video
     href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
 ---
-A summary of how the allocations request period at the beginning of the 2019/20 cycle.
+A summary of the allocations request processs at the start of the 2020/2021 cycle.
 
 ## Process maps
 
