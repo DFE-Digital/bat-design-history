@@ -106,5 +106,4 @@ Recruitment and Allocations Team
 * Allocations data as it is currently collected is little used by the funding and accreditation teams 
 * DfE still needs to know that providers actually want to request places for their courses for the current year
 * The process of collating and determining allocations for the next cycle was burdensome for TAD
-* test
 
