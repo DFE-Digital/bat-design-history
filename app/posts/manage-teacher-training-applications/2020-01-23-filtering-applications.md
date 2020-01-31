@@ -44,6 +44,18 @@ Small checkboxes are used to make them less prominent so that users can focus on
 
 The width of the page is wider to accomodate the filter.
 
+## Research findings
+
+1 participant so far. We found:
+
+- filters worked really well (didn't test on mobile)
+- filters for state and provider are useful
+- we need interview states like ‘rejected before interview’
+- suggests ‘Offer withdrawn’ instead ‘Withdrawn by us’
+- they raised the need to see what had changed across all applications on a given day. So which applications had gone from one state to another (and what those states were). They also felt that the audit trail would be very useful. At a pinch, a combination of date updated, new state and audit trail would work for this, but seeing what had changed on the dashboard would be useful. They use a "movement view" as a way of staying on top of what actions they need to take. E.g. something moving from offered to accepted means lots of paperwork needs to go out to the candidate.
+
+[Research on lookback](https://lookback.io/watch/j5Z8YfSp4g85kEYQn)
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
