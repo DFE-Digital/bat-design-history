@@ -14,6 +14,8 @@ Screenshots of the service they used:
 * [Candidate](/apply-for-teacher-training/apply-launch)
 * [Provider](/manage-teacher-training-applications/as-launched-26-nov-2019)
 
+During November 2019 we also performed our own internal audit of candidate pages: [Internal audit (spreadsheet)](https://docs.google.com/spreadsheets/d/1MEEEyubJkbY0Ksg8oX_rjZZ2lLnwYrPH2p3ky1Qqwyg/)
+
 ## Key failings and their fixes
 
 All WCAG A and AA failings were fixed between 20 December and 17 January.
