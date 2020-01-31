@@ -8,7 +8,7 @@ This flow shows how a provider can withdraw their offer.
 
 ## User needs
 
-As a user
+As a provider
 I need to withdraw an offer
 So that I can rectify a mistake I've made or stop an unsuitable candidate from taking a spot
 
@@ -16,8 +16,8 @@ So that I can rectify a mistake I've made or stop an unsuitable candidate from t
 
 1 participant said to change from ‘Withdrawn by us’ to ‘Offer withdrawn’ because a candidate cannot withdraw an offer, only their application. We'll change the states for the next round of research to:
 
-- ‘Offer withdrawn’
-- ‘Application withdrawn’
+- Offer withdrawn
+- Application withdrawn
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
