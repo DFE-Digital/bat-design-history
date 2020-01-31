@@ -175,6 +175,8 @@
     font-style: italic;
     font-weight: normal;
     color: govuk-colour("mid-grey");
+    position: absolute;
+    margin-left: -1em;
 
     &:hover {
       color: $govuk-link-hover-colour;
