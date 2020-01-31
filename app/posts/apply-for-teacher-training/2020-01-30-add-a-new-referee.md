@@ -1,6 +1,6 @@
 ---
 title: Replace a referee
-description: How a candidate will give details for a new referee
+description: Let a candidate add a new referee
 date: 2020-01-30
 related:
   items:
@@ -20,7 +20,7 @@ There are three reasons a candidate might need to do this:
 2. Our email to their referee bounced
 3. The referee declined to give a reference
 
-This design makes a place on the application form to update a referee for an already submitted application.
+This design lets candidates add a new referee for an application that’s already been submitted.
 
 ## User needs
 
@@ -30,9 +30,13 @@ So that my application can progress
 
 ## Hypothesis
 
+Currently we ask users to provide a new referee by responding to an email we send them. This is error prone and requires a support agent to manually update the application with the new referee.
+
 If we ask candidates to give us a new referee when they sign in, then they will immediately give us new details, because it will be the most obvious and important action.
 
-If we ask candidates to review their referee details before submitting, then they will have a chance to spot and fix any problems before we contact the new referee, reducing the likelihood of an email bouncing.
+If we ask candidates to review their referee details before submitting, then they will have a chance to spot and fix any mistakes before we contact the new referee, which will reduce the likelihood of an email bouncing.
+
+We’ll know this works when referee’s provide a new application when they sign in.
 
 ## What does the email link do?
 
@@ -42,7 +46,7 @@ We considered a few ways this link could work.
 
 ### Use a token and link directly to a form without sign in
 
-Behaves in a similar way to the request reference link we send to referees. There's no sign in required. But this is more complex to build than deep linking (see below). If the link with a token fails (maybe the token is invalidated somehow) then it's difficult for the user to recover.
+Behaves in a similar way to the request reference link we send to referees. There's no sign in required. But this is more complex to build than deep linking (see below). If the link with a token fails (maybe the token is invalidated somehow) then it's difficult for the user to recover (they would need to contact support and request a new link, or try to find the form after logging in).
 
 ### Make it a deep link to a part of the application
 
@@ -60,6 +64,8 @@ The flow is a little more convoluted:
 But if a user hasn't seen the email, and they are signing in for another purpose, we need to prompt them too.
 
 ### Don't do anything smart with the link
+
+This is the version we're going for, we only need to link to sign in.
 
 Instead of making a smart link, we could put the candidate’s account into a "mode". That mode would mean they'll be requested to add a new referee as soon as they sign in. We could toggle this mode when we send the automatic email.
 
