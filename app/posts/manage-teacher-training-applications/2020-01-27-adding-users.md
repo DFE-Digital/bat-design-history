@@ -25,6 +25,8 @@ The ‘Users’ section in the navigation menu only appears if the user can mana
 
 1 participant so far. Was able to invite a user without a problem. The issue of who would be able to remove users was raised.
 
+[Research on Lookback](https://lookback.io/watch/j5Z8YfSp4g85kEYQn)
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [
