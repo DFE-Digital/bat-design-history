@@ -1,7 +1,7 @@
 ---
-title: Allocations Summary 2020/2021
-description: A summary of the allocations request processs at the start of the 2020/2021 cycle.
-date: 2020-01-24
+title: Allocations process for 2020 – 2021
+description: A summary of the request process followed for this cycle.
+date: 2019-10-01
 related:
   items:
   - text: Research playbacks
@@ -9,25 +9,25 @@ related:
   - text: Raw research notes and audio/video
     href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
 ---
-A summary of the allocations request processs at the start of the 2020/2021 cycle.
+A summary of the process followed for the 2020 – 2021 recruitment cycle.
 
 ## Process maps
 
-[High level process map](https://docs.google.com/drawings/d/1nj1xNt6sY8fXA_dNcFnDpi_wu5mvZhUzoUpQtZb0pIw/edit) of what happened last cycle. 
+[High level process map](https://docs.google.com/drawings/d/1nj1xNt6sY8fXA_dNcFnDpi_wu5mvZhUzoUpQtZb0pIw/edit)
 
-[Detailed process map](https://docs.google.com/drawings/d/1WxN1dtugXdIX_xwGRfSqzoDWawgz0LubA2e2hwe5FnE/edit) of what happened last cycle.
+[Detailed process map](https://docs.google.com/drawings/d/1WxN1dtugXdIX_xwGRfSqzoDWawgz0LubA2e2hwe5FnE/edit)
 
 ## What happened?
 
-Before this cycle started the DTTP (Database of Teacher Training Providers) became unusable.
+Before this cycle started DTTP (Database of Teacher Training Providers) became unusable.
 
-A new process was communicated to providers via an email which was sent from itt.allocations@education.gov.uk in early June. The email contained a spreadsheet to capture requested allocation data.
+A new process was communicated to providers via an email sent from `itt.allocations@education.gov.uk` in early June. The email contained a spreadsheet to capture requested allocation data.
 
-[Requests for permission to recruit in 2020/21 spreadsheet](https://drive.google.com/open?id=14gIFMljWyXW9Ys2E84Eg4cBQGUGzxhYd)
+[Requests for permission to recruit in 2020 – 2021 spreadsheet](https://drive.google.com/open?id=14gIFMljWyXW9Ys2E84Eg4cBQGUGzxhYd)
 
-[Completed request for permission to recruit in 2020/21 spreadsheet](https://docs.google.com/spreadsheets/d/1Fr5hVrvUB7UAzQe3lF5LtMb7U3rd6y7hv0FavkVa0z4/edit?usp=sharing).
+[Completed request for permission to recruit in 2020 – 2021 spreadsheet](https://docs.google.com/spreadsheets/d/1Fr5hVrvUB7UAzQe3lF5LtMb7U3rd6y7hv0FavkVa0z4/edit?usp=sharing).
 
-Requests for additional PE places (PE with EBacc subject) were captured in [this form](https://drive.google.com/open?id=1vg8lo_59kpXDRw6aWfuFjJWzXQ0driok).
+Requests for additional PE places (PE with EBacc subject) were captured in [a separate form](https://drive.google.com/open?id=1vg8lo_59kpXDRw6aWfuFjJWzXQ0driok).
 
 ## Email to providers 1
 
@@ -43,9 +43,9 @@ This email was sent to ITT providers and lead schools.
   content: RequestForAllocations
 }) }}
 
-If providers had permission to recruit they were then sent this email.
+## Email to providers 2 (Permission To Recruit)
 
-## Email to providers 2 (Permission To Recruit) 
+If providers had permission to recruit they were then sent this email:
 
 {% set PermissionToRecruit %}
 Dear colleague,
@@ -59,7 +59,7 @@ To request permission to recruit, you were required to:
 
 ### All eligible ITT providers and lead schools that submitted requests have been granted permission to recruit for ITT2020.
 
-Permission to recruit has been issued in two categories: 
+Permission to recruit has been issued in two categories:
 
 ### Unlimited category
 
@@ -102,8 +102,7 @@ Recruitment and Allocations Team
 ## Research headline findings
 
 * Allocations data is known to be too inaccurate and unreliable for forecasting purposes
-* The plethora of routes into ITT leads to confusion for providers 
-* Allocations data as it is currently collected is little used by the funding and accreditation teams 
+* The plethora of routes into ITT leads to confusion for providers
+* Allocations data as it is currently collected is little used by the funding and accreditation teams
 * DfE still needs to know that providers actually want to request places for their courses for the current year
 * The process of collating and determining allocations for the next cycle was burdensome for TAD
-
