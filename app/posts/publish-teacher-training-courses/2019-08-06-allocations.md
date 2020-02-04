@@ -1,6 +1,6 @@
 ---
-title: Allocations
-description: Show the allocation policy on course detail pages.
+title: Show allocation policy on a course
+description: Indicate the current policy on course detail pages.
 date: 2019-08-06
 ---
 {% set html %}
