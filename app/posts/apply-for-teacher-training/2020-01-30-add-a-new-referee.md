@@ -22,6 +22,8 @@ There are three reasons a candidate might need to do this:
 
 This design lets candidates add a new referee for an application that’s already been submitted.
 
+There's a [follow up design for adding 2 new referees](/apply-for-teacher-training/add-2-new-referees).
+
 ## User needs
 
 As a candidate
@@ -101,11 +103,14 @@ It makes the add a new referee form the most obvious thing for everyone.
       caption: "
 * Because the action is immediate, we will automatically email their new referee, we need a review step
 * Give the candidate a chance to catch any errors
-* Confirming will send the reference request email and return the candidate to their application
+* Confirming will send the reference request email and return the candidate to their application dashboard
       "
     }, {
+      text: "Application dashboard after adding a referee",
+      img: { src: "04-application-dashboard-after-adding-referee.png" }
+    }, {
       text: "Application dashboard with warning",
-      img: { src: "04-application-dashboard-with-warning.png" },
+      img: { src: "05-application-dashboard-with-warning.png" },
       caption: "
 If they skipped the first screen, or didn't add a referee, maintain a warning on the dashboard
       "
