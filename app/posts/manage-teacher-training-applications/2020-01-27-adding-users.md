@@ -2,6 +2,7 @@
 title: Adding users
 description: First iteration of letting users invite other users to their organisation(s) to help manage applications
 date: 2020-01-27
+tags: awaiting-validation
 ---
 
 First iteration to let users add more users to their organisation(s) to help them manage applications without relying on support agents to setup accounts.
