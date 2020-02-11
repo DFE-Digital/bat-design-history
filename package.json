@@ -16,7 +16,6 @@
   "homepage": "https://bat-design-history-v2.herokuapp.com",
   "repository": "github:DFE-Digital/bat-design-history-v2",
   "bugs": "https://github.com/DFE-Digital/bat-design-history-v2/issues",
-  "main": "app.js",
   "scripts": {
     "prebuild": "rm -rf public/assets && mkdir -p public && mkdir -p public/javascripts && mkdir -p public/admin",
     "build:cms-preview-templates": "nunjucks-precompile app/_layouts/admin-preview.njk > public/admin/templates.js -i \"\\.(njk|css|svg)$\"",
@@ -44,7 +43,6 @@
     "@rollup/plugin-node-resolve": "^7.0.0",
     "accessible-autocomplete": "^2.0.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
     "govuk-frontend": "^3.5.0",
     "http-server": "^0.12.1",
     "lodash": "^4.17.15",
