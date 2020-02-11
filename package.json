@@ -24,7 +24,7 @@
     "build:govuk-scripts": "cp node_modules/govuk-frontend/govuk/all.js public/javascripts/govuk-frontend.js",
     "build:styles": "node-sass app/_stylesheets -o public/stylesheets --include-path node_modules/govuk-frontend --include-path app",
     "build:javascripts": "rollup --config etc/rollup.config.js",
-    "build:pages": "eleventy",
+    "build:pages": "npx eleventy",
     "build": "npm-run-all --serial build:*",
     "prewatch": "npm run build",
     "watch:files": "eleventy --serve",
@@ -33,7 +33,7 @@
     "watch": "NODE_ENV=development npm-run-all --parallel watch:*",
     "lint": "standard",
     "prestart": "npm run build",
-    "start": "nodemon app",
+    "start": "npx eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
