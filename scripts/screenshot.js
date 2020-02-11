@@ -22,7 +22,7 @@ const { DateTime } = require('luxon')
 const domain = 'http://localhost:3000'
 
 // Dependencies
-const webshot = require('webshot')
+const webshot = require('webshot-node')
 const fs = require('fs')
 
 // Arguments
