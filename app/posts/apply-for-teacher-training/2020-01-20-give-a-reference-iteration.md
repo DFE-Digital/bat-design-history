@@ -58,6 +58,20 @@ Then we'll be able to see what problems arise with referees and providers
 We’ll know this works when:
 - providers successfully use the references given to make decisions
 
+## Findings from providers
+
+Providers use references to build an overall picture of candidates, validate application information and to comply with safeguarding requirements.
+
+90% of providers rated the guidance we give to referees as ‘good’ or ‘excellent’,
+- “Very clear and concise and helps with decision on suitability for teaching”
+- “Think it is a great guide. Nearly all the prompts that I would be looking for are there.”
+
+Providers need referees to clarify that candidates are safe to work with children to comply with safeguarding requirements. This was a noted omission.
+
+Providers need references to be personalised and tailored to teacher training context to determine a candidate’s suitability to train to teach.
+
+Providers need to validate that references are coming from an official source and so they don’t have to follow up with the candidate or referee.
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
