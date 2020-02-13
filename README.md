@@ -1,10 +1,8 @@
-# Becoming a teacher design history
+# Design history for becoming a teacher
 
 https://bat-design-history.netlify.com
 
-The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.io) static site generator.
-
-## Document your designs
+## Purpose of this project
 
 This repository makes it easy to:
 
@@ -14,11 +12,32 @@ This repository makes it easy to:
 * print pages of designs
 * make designs shareable and linkable
 
-## Developing locally
+## Installation
 
-To see your changes without needing to restart the app you should use:
+- Clone this repository to a folder on your computer
+- Open Terminal
+- In Terminal, change the path to the repository
+- Type `npm install` to install the dependencies
 
-`npm run watch`
+## Working locally
+
+Most of the time you'll be adding new posts. If you're just doing this then:
+
+- Open Terminal
+- Type `npm start`
+
+This will automatically restart the application with your changes to markdown and images applied.
+
+If you're making changes to the CSS or JavaScript then:
+
+- Open Terminal
+- Type `npm run watch`
+
+This will automatically restart the application with changes to the CSS, JavaScript and markdown applied.
+
+## Technical notes
+
+The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.io) static site generator.
 
 ## Legacy
 
