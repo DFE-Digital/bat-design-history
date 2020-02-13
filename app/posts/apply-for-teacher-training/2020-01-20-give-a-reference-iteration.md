@@ -3,6 +3,10 @@ title: Give a teacher training reference (iteration)
 description: Simplifying the previous design.
 date: 2020-01-20
 tags: awaiting-validation
+related:
+  items:
+    - text: Provider needs research playback
+      href: https://docs.google.com/presentation/d/1CXI74doFP19PZ3gfWKOWNbcodeYa5q16DmEDGBmHBP4/
 ---
 An [iteration on the initial design](/apply-for-teacher-training/give-a-reference), removing some of the unnecessary fields.
 
