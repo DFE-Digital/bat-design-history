@@ -10,6 +10,17 @@ const staticDir = path.join(__dirname, 'public')
 const app = express()
 const env = (process.env.NODE_ENV || 'development').toLowerCase()
 
+const newDomain = 'https://bat-design-history.netlify.com'
+
+app.use(function (req, res, next) {
+  let url = req.url
+  url = url.replace(/^\/publish-teacher-training/, '/publish-teacher-training-courses')
+  url = url.replace(/^\/apply-teacher-training/, '/apply-for-teacher-training')
+  url = url.replace(/^\/manage-applications/, '/manage-teacher-training-applications')
+
+  return res.redirect(302, newDomain + url)
+})
+
 // Force HTTPS on production
 // Based on the govuk-prototype-kit
 if (env === 'production') {
@@ -31,30 +42,6 @@ app.use(express.static(staticDir, {
   extensions: 'html',
   index: ['index.html', 'index.htm']
 }))
-
-app.all('/publish-teacher-training/:path', function (req, res) {
-  res.redirect(`/publish-teacher-training-courses/${req.params.path}`)
-})
-
-app.all('/apply-teacher-training/:path', function (req, res) {
-  res.redirect(`/apply-for-teacher-training/${req.params.path}`)
-})
-
-app.all('/manage-applications/:path', function (req, res) {
-  res.redirect(`/manage-teacher-training-applications/${req.params.path}`)
-})
-
-app.all('/publish-teacher-training', function (req, res) {
-  res.redirect(`/publish-teacher-training-courses`)
-})
-
-app.all('/apply-teacher-training', function (req, res) {
-  res.redirect(`/apply-for-teacher-training`)
-})
-
-app.all('/manage-applications', function (req, res) {
-  res.redirect(`/manage-teacher-training-applications`)
-})
 
 app.get('/image/:size/*.:ext', (req, res) => {
   const format = req.params.ext
