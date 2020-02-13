@@ -1,4 +1,4 @@
 {% set path = params.path if params.path else page.filePathStem | replace("/posts", "/images") %}
 <a href="{{ path }}/{{ params.file }}">
-  <img src="{{ path | replace('images', 'image/480') }}/{{ params.file }}" srcset="{{ path | replace('images', 'image/480') }}/{{ params.file }} 480w, {{ path | replace('images', 'image/960') }}/{{ params.file }} 960w" alt="{{ params.alt }}">
+  <img src="{{ path }}/{{ params.file }}" alt="{{ params.alt }}">
 </a>
