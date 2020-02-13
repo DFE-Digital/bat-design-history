@@ -43,6 +43,10 @@ UCAS asks for working hours for all jobs. We're not sure if this is necessary, b
  * testing it with candidates to see if they understand what kind of information to give
  * testing it with teacher training providers to see if this gives them the information they need
 
+ ## Findings
+
+ Candidates are frequently completing this, and typically give hours per week as in the example. They have also used the free text fields to indicate zero hour contract details and similar situations.
+
  {% from "screenshots/macro.njk" import appScreenshots with context %}
  {{ appScreenshots({
    items: [
