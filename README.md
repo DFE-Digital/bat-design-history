@@ -1,6 +1,6 @@
 # Becoming a teacher design history
 
-https://bat-design-history.herokuapp.com/
+https://bat-design-history.netlify.com
 
 The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.io) static site generator.
 
