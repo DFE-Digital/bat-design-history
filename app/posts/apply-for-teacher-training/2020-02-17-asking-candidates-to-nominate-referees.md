@@ -62,3 +62,12 @@ If we add hint text explaining that providers prefer professional email addresse
 Then we’ll be more likely to get suitable suggestions from candidates
 
 We’ll know this works when fewer candidates enter personal email addresses.
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Choosing your referees"
+  }, {
+    text: "Details of referee"
+  }]
+}) }}
