@@ -4,6 +4,8 @@ description: Add a section to disclose convictions or anything that could affect
 date: 2020-01-21
 related:
   items:
+  - text: Survey playback
+    href: https://docs.google.com/presentation/d/1sPxwjerXVdunLLzjwSSTOZyT9j9s_xfF_hRf9W412c0/edit#slide=id.p
   - text: Trello ticket
     href: https://trello.com/c/hkMU3bDS/744-re-evaluate-designs-for-criminal-conviction-declarations-feedback-from-providers
   - text: Earlier trello ticket
@@ -77,6 +79,25 @@ This design is ready for research, but not ready for development.
 ## Findings
 
 When we demo’d this design to a university (15 Jan) – they said this design would meet their needs.
+
+### Survey
+
+Because recruiting users for this feature is difficult, we sent a survey out to users of the following forums to get quick responses from a large target audience:
+- Online aspiring teachers
+- Get into teaching support teaching
+- Career changer
+
+We had 39 responses.
+
+42% of respondents correctly judged the title "Your suitability to work with children" related to DBS and safeguarding. But 53% thought it would be a section about experience and personal skills.
+
+Respondents disliked that there were no examples of things that should be included. The purpose of responding to this question and its effect on an application were not clear (it’ll depend on what’s disclosed). They liked that the guidance was clear and concise and thought the tone was right, “It encourages people to be open in a non-forceful way”.
+
+Most respondents said they had nothing to share, 1 shared a health related issue and another said they wouldn't be comfortable sharing, “I would want to be certain that any information I shared would not hinder my application”.
+
+82% of respondents agreed that this question should be asked in the "About you" section.
+
+[Read the full playback](https://docs.google.com/presentation/d/1sPxwjerXVdunLLzjwSSTOZyT9j9s_xfF_hRf9W412c0/edit#slide=id.p)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
