@@ -24,7 +24,7 @@ I need to know that providers would prefer to receive at least one reference fro
 So I can suggest suitable referees.
 
 **As a candidate**
-I need to know what to do if I’m struggling to find a referees
+I need to know what to do if I’m struggling to find a referee
 So that my application can progress.
 
 ## Hypotheses
