@@ -54,7 +54,7 @@ Then candidates will know whether to share information or not
 Because they'll know what type of information providers are looking for
 
 
-2. If we make it clearer that this section is about safeguarding children and young people
+2. If we make it clear that this section is about safeguarding children and young people
 Then candidates will be less confused
 Because they'll understand the purpose of this section
 
