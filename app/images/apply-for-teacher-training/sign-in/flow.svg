@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="360" viewBox="0 0 1180 360">
+  <defs>
+    <path id="reuse-0" fill="#0B0C0C" d="M13 5h25v1H13z"/>
+    <path id="a" d="M0 0h26v10H0z"/>
+  </defs>
+  <defs>
+    <filter id="b" width="103.8%" height="110%" x="-2%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0.392156863 0 0 0 0 0.207843137 0 0 0 1 0"/>
+    </filter>
+    <filter id="d" width="103.8%" height="110%" x="-2%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0.392156863 0 0 0 0 0.207843137 0 0 0 1 0"/>
+    </filter>
+    <filter id="f" width="103.8%" height="110%" x="-2%" y="-5%" filterUnits="objectBoundingBox">
+      <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0.392156863 0 0 0 0 0.207843137 0 0 0 1 0"/>
+    </filter>
+    <use xlink:href="#a"/>
+    <use id="c" xlink:href="#a"/>
+    <use id="e" xlink:href="#a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0B0C0C" fill-rule="nonzero" d="M578 84l12 6a1 1 0 010 2l-12 6a1 1 0 01-1-1v-5h-2a1 1 0 010-2h2v-5l1-1zm-317 6a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1z"/>
+    <path fill="#0B0C0C" fill-rule="nonzero" d="M357 237h1l12 6a1 1 0 010 1l-12 6a1 1 0 01-1 0v-5a1 1 0 010-2v-6zm-4 6a1 1 0 010 1v1h-1a1 1 0 010-2h1zm-5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm-5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm-5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm-5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm-5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm-6-1h1a1 1 0 110 2h-1a1 1 0 010-2zm-4-2h1a1 1 0 11-1 2l-1-1a1 1 0 011-1zm-2-4h1a1 1 0 01-2 1l-1-1a1 1 0 112 0zm-1-6l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1zm0-5l1 1v1a1 1 0 01-2 0v-1l1-1z"/>
+    <path fill="#FFF" stroke="#0B0C0C" stroke-width="2" d="M591 196h108v94H591z"/>
+    <path fill="#0B0C0C" d="M590 195h110v10H590z"/>
+    <g transform="translate(597 258)">
+      <use fill="#00823B" xlink:href="#a"/>
+      <use fill="#000" filter="url(#b)" xlink:href="#a"/>
+    </g>
+    <path fill="#FFF" stroke="#0B0C0C" d="M598 239h71v9h-71z"/>
+    <text fill="#231F20" font-family="sans-serif" font-size="10" font-weight="bold" transform="translate(597 210)">
+      <tspan x="0" y="10">Create an </tspan> <tspan x="0" y="21">account</tspan>
+    </text>
+    <path fill="#FFF" stroke="#0B0C0C" stroke-width="2" d="M151 42h108v94H151z"/>
+    <path fill="#0B0C0C" d="M150 41h110v10H150z"/>
+    <g transform="translate(157 116)">
+      <use fill="#00823B" xlink:href="#c"/>
+      <use fill="#000" filter="url(#d)" xlink:href="#c"/>
+    </g>
+    <g transform="translate(157 85)">
+      <g transform="translate(0 13)">
+        <use xlink:href="#reuse-0"/>
+        <circle cx="5" cy="5" r="4.5" fill="#FFF" stroke="#0B0C0C"/>
+      </g>
+      <use xlink:href="#reuse-0"/>
+      <circle cx="5" cy="5" r="4.5" fill="#FFF" stroke="#0B0C0C"/>
+    </g>
+    <text fill="#231F20" font-family="sans-serif" font-size="10" font-weight="bold" transform="translate(157 56)">
+      <tspan x="0" y="10">Do you already </tspan> <tspan x="0" y="21">have an account?</tspan>
+    </text>
+    <path stroke="#0B0C0C" stroke-dasharray="1 4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M95 106v211c0 5 4 10 10 10h981c6 0 10-5 10-10V101h0c0-7 3-10 10-10"/>
+    <text fill="#0B0C0C" font-family="sans-serif" font-size="12" font-weight="bold">
+      <tspan x="333" y="118">No</tspan>
+    </text>
+    <path fill="#FFF" stroke="#0B0C0C" stroke-width="2" d="M811 42h108v94H811z"/>
+    <path fill="#0B0C0C" d="M810 41h110v10H810zM817 84h22v1h-22zM817 90h72v1h-72zM817 98h72v1h-72zM817 94h72v1h-72zM817 102h40v1h-40z"/>
+    <text fill="#231F20" font-family="sans-serif" font-size="10" font-weight="bold" letter-spacing="-.1" transform="translate(817 56)">
+      <tspan x="0" y="10">Check your email</tspan>
+    </text>
+    <path stroke="#0B0C0C" stroke-dasharray="1 4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M700 244h45c6 0 10-5 10-10V101h0c0-7 3-10 10-10"/>
+    <path fill="#0B0C0C" fill-rule="nonzero" d="M40 83c4 0 6 3 7 6a1 1 0 010 2 7 7 0 11-7-8zm98 0l12 6a1 1 0 010 2l-12 6a1 1 0 01-1-1v-5h-1a1 1 0 010-2h1v-5l1-1zm-86 6a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1z"/>
+    <path fill="#2B8CC4" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M95 74l16 17-16 16-16-16z"/>
+    <g>
+      <path fill="#FFF" stroke="#0B0C0C" stroke-width="2" d="M591 42h108v94H591z"/>
+      <path fill="#0B0C0C" d="M590 41h110v10H590z"/>
+      <g transform="translate(597 104)">
+        <use fill="#00823B" xlink:href="#e"/>
+        <use fill="#000" filter="url(#f)" xlink:href="#e"/>
+      </g>
+      <path fill="#FFF" stroke="#0B0C0C" d="M598 85h71v9h-71z"/>
+      <text fill="#231F20" font-family="sans-serif" font-size="10" font-weight="bold" transform="translate(597 56)">
+        <tspan x="0" y="10">Sign in</tspan>
+      </text>
+    </g>
+    <path fill="#2B8CC4" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M314 74l16 17-16 16-16-16z"/>
+    <g>
+      <path fill="#FFF" stroke="#0B0C0C" stroke-dasharray="1 4" stroke-linecap="square" stroke-width="2" d="M370 196h110v96H370v-96z"/>
+      <text fill="#0B0C0C" font-family="sans-serif" font-size="10" font-weight="bold" letter-spacing="-.1" transform="translate(370 196)">
+        <tspan x="15" y="44">Check you can use </tspan> <tspan x="19" y="58">this service flow</tspan>
+      </text>
+    </g>
+    <path fill="#0B0C0C" fill-rule="nonzero" d="M578 237l12 6a1 1 0 010 1l-12 6a1 1 0 01-1 0v-6h-1v1h-1a1 1 0 010-2h2v-6h1zm-97 6a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zm5 0a1 1 0 010 1v1h-1a1 1 0 010-2h1zM798 84l12 6a1 1 0 010 2l-12 6a1 1 0 01-1-1v-5h-2a1 1 0 010-2h2v-5l1-1zm-97 6a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm354-6l2 2v10l-2 2h-10l-2-2V86l2-2zm-224 6a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1zm5 0a1 1 0 010 2h-1a1 1 0 010-2h1z"/>
+    <g stroke="#0B0C0C" stroke-width="2">
+      <path fill="#FFF" d="M1010 77h40v28h-40z"/>
+      <path d="M1010 77l20 15 20-15M1010 105l18-14M1051 105l-18-14"/>
+    </g>
+    <text fill="#1D70B8" font-family="sans-serif" font-size="12" font-weight="bold">
+      <tspan x="55" y="50">User is already </tspan> <tspan x="68" y="61">signed in?</tspan>
+    </text>
+    <text fill="#1D70B8" font-family="sans-serif" font-size="12" font-weight="bold">
+      <tspan x="287" y="53">Candidate </tspan> <tspan x="277" y="64">already has an </tspan> <tspan x="289" y="75">account?</tspan>
+    </text>
+    <text fill="#0B0C0C" font-family="sans-serif" font-size="12" font-weight="bold">
+      <tspan x="966" y="51">An authentication link is </tspan> <tspan x="963" y="62">emailed to the candidate</tspan>
+    </text>
+  </g>
+</svg>
