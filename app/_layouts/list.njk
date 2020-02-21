@@ -1,0 +1,47 @@
+{% extends "base.njk" %}
+
+{% from "document-list/macro.njk" import appDocumentList %}
+{% from "pagination/macro.njk" import appPagination %}
+{% from "prose/macro.njk" import appProse %}
+{% from "related/macro.njk" import appRelated %}
+
+
+
+{% block main %}
+  <div class="govuk-width-container">
+    {% block beforeContent %}
+      {{ govukBreadcrumbs({
+        classes: "app-!-print-display-none",
+        items: breadcrumbs | breadcrumbs(app, page, title)
+      }) if breadcrumbs != false }}
+    {% endblock %}
+    <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
+    {% block content %}
+      {{ appProse({
+        prose: content
+      }) }}
+      <div class="govuk-grid-row">
+        <section class="govuk-grid-column-two-thirds">
+          <h1 class="govuk-heading-xl">{{title}}</h1>
+          {{ appDocumentList({
+            classes: "govuk-!-margin-bottom-6",
+            items: pagination.items
+          }) }}
+          {{ appPagination({
+            previous: {
+              text: "Previous",
+              href: pagination.href.previous
+            } if pagination.href.previous,
+            next: {
+              text: 'Next',
+              href: pagination.href.next
+            } if pagination.href.next,
+            selected: pagination.pageNumber,
+            items: pagination.hrefs
+          }) }}
+        </section>
+      </div>
+    {% endblock %}
+    </main>
+  </div>
+{% endblock %}

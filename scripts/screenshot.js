@@ -6,7 +6,7 @@
   Run:
   node scripts/screenshot.js name-of-directory
   or
-  node scripts/screenshot.js apply-for-teacher-training/name-of-directory
+  node scripts/screenshot.js manage-teacher-training-applications/improving-check-and-confirm-content
 
   Example paths:
   paths = [
@@ -15,11 +15,38 @@
   ]
 */
 const paths = [{
-  title: 'Index page',
-  path: '/'
+  title: 'Check and confirm offer',
+  path: '/application/202/confirm-offer'
+}, {
+  title: 'Check and confirm withdrawal',
+  path: '/application/103/confirm-withdraw'
+}, {
+  title: 'Check and confirm conditions have been met',
+  path: '/application/1/confirm-conditions-met'
+}, {
+  title: 'Check and confirm conditions have not been met',
+  path: '/application/1/confirm-conditions-not-met'
+}, {
+  title: 'Check and confirm rejection',
+  path: '/application/202/confirm-reject'
+}, {
+  title: 'Offer confirmation message',
+  path: '/application/103?flash=Offer%20successfully%20made%20to%20candidate'
+}, {
+  title: 'Withdraw confirmation message',
+  path: '/application/101?flash=Offer%20successfully%20withdrawn'
+}, {
+  title: 'Conditions met confirmation message',
+  path: '/application/2?flash=Conditions%20successfully%20marked%20as%20met'
+}, {
+  title: 'Conditions not met confirmation message',
+  path: '/application/4?flash=Conditions%20successfully%20marked%20as%20not%20met'
+}, {
+  title: 'Rejection confirmation message',
+  path: '/application/5?flash=Application%20successfully%20rejected'
 }]
 const { DateTime } = require('luxon')
-const domain = 'http://localhost:3000'
+const domain = 'http://localhost:3001'
 
 // Dependencies
 const webshot = require('webshot-node')

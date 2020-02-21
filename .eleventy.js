@@ -45,6 +45,12 @@ module.exports = function (eleventyConfig) {
   // Enable data deep merge
   eleventyConfig.setDataDeepMerge(true);
 
+  eleventyConfig.addCollection('apply-for-teacher-training', function(collection) {
+    return collection.getFilteredByTag('apply-for-teacher-training').filter(function(item) {
+      return !item.data.tags.includes('candidateneeds');
+    });
+  });
+
   // Config
   return {
     dataTemplateEngine: 'njk',
