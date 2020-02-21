@@ -20,17 +20,13 @@ However, we also need to consider how candidates respond to this design.
 ### Provider need
 
 As a provider
-
 I need to know about a candidate's past
-
 So that I can make a judgement on whether to pursue their application
 
 ### Candidate need
 
 As a candidate
-
 I need to feel comfortable to disclose information about my past
-
 So that I know whether it's worth carrying on with my application
 
 ## Hypothesis
@@ -63,6 +59,13 @@ Because they'll understand the purpose of this section
 Then candidates will be more likely to share information
 Because they'll know there's a chance of pursuing their application
 
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  hideContents: true,
+  items: [
+    { text: "New design for declaring any safeguarding issues" }
+  ]
+}) }}
 
 ### How will we know this works?
 
