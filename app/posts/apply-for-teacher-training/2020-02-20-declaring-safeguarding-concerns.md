@@ -47,7 +47,7 @@ However, we were able to observe a few pain points for candidates. The content l
 * what the purpose of this section is
 * whether they should be open or not  
 
-### Our hypothesis
+### Our hypotheses
 
 1. If we list the types of checks providers carry out
 Then candidates will know whether to share information or not
