@@ -4,16 +4,21 @@ description: Starting a conversation between providers and candidates about safe
 date: 2020-02-20
 ---
 
-Teacher training providers need to recruit candidates who are safe to work with children and young people. They use various sources of evidence to make a judgement on this.
+Teacher training providers need to recruit candidates who are safe to work with children and young people. Providers use various sources of evidence to make a judgement on this.
 
-However, providers need to ask candidates about potential safeguarding issues (such as criminal convictions) in the application form. Encouraging candidates to disclose potential issues at this early stage is essential so that they can:
+Despite carrying out checks, providers want candidates to be open about any potential safeguarding issues (such as criminal convictions) early on in their application.
 
-* give advice about whether it's worth pursuing an application (saving time and money, reducing safeguarding risks during interview and helping to avoid damage to their reputation)
-* build trust with candidates who do have a conviction or caution but can still teach
+Encouraging candidates to disclose potential issues in the application form is essential so that providers can:
 
-Our [initial design for this section of the application form](/apply-for-teacher-training/suitability-to-work-with-children) aimed to meet these provider needs.
+* tell the candidate whether they should continue with their application
+* build trust with candidates who do have something to declare but can still teach
+* save time and money
+* reduce safeguarding risks prior to doing official checks
+* reduce the chance of reputational damage
 
-However, we also need to consider how candidates respond to this design.
+Our [initial design for the safeguarding section of the application form](/apply-for-teacher-training/suitability-to-work-with-children#your-suitability-to-work-with-children) aimed to meet these provider needs.
+
+However, we also need to consider how candidates respond to this section of the application form.
 
 ## User needs
 
@@ -21,43 +26,42 @@ However, we also need to consider how candidates respond to this design.
 
 As a provider
 I need to know about a candidate's past
-So that I can make a judgement on whether to pursue their application
+So that I can make a judgement on whether a candidate is suitable for teaching
 
 ### Candidate need
 
 As a candidate
-I need to feel comfortable to disclose information about my past
+I need to start a conversation with providers about any potential safeguarding issues
 So that I know whether it's worth carrying on with my application
 
 ## Hypothesis
 
 ### Context
 
-We carried out user research with candidates on the [initial design](/apply-for-teacher-training/suitability-to-work-with-children/02-your-suitability-to-work-with-children.png).
+We carried out user research with candidates on the [initial design of the safeguarding section of the applcation form](/apply-for-teacher-training/suitability-to-work-with-children#your-suitability-to-work-with-children).
 
 Our research was limited due to the difficulty of recruiting candidates who have convictions or cautions, who have been banned from working with children or who have been removed from teacher training in the past due to unprofessional behaviour.
 
-However, we were able to observe a few pain points for candidates. The content lacks sufficient clarity, particularly around:
+However, we were able to observe a few pain points for candidates. The content caused candidates to be uncertain about:
 
-* what sort of information to declare
-* what the purpose of this section is
+* what sort of information to declare (someone mentioned depression, which isn't the sort of thing we were looking for)
+* why we're asking about this
 * whether they should be open or not  
+
 
 ### Our hypotheses
 
-1. If we list the types of checks providers carry out
-Then candidates will know whether to share information or not
-Because they'll know what type of information providers are looking for
+1. If we list the checks providers carry out
+Then candidates will know what sort of information to declare
+Because they'll understand what information providers are looking for
 
+2. If we use more precise language (such as safeguarding)
+Then candidates will know why we're asking about this
+Because there will be less potential for misinterpretation
 
-2. If we make it clear that this section is about safeguarding children and young people
-Then candidates will be less confused
-Because they'll understand the purpose of this section
-
-
-3. If we emphasise that sharing information is more about starting a conversation with providers than getting an automatic rejection
-Then candidates will be more likely to share information
-Because they'll know there's a chance of pursuing their application
+3. If we emphasise that declaring something is about starting a conversation
+Then candidates will be more likely to be open
+Because they'll be reassured that it doesn't necessarily mean an automatic rejection
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
