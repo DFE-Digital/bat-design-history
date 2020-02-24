@@ -11,11 +11,11 @@
     "govuk",
     "11ty"
   ],
-  "author": "Paul Robert Lloyd",
+  "author": "Department for Education: Becoming a teacher team",
   "license": "MIT",
-  "homepage": "https://bat-design-history-v2.herokuapp.com",
-  "repository": "github:DFE-Digital/bat-design-history-v2",
-  "bugs": "https://github.com/DFE-Digital/bat-design-history-v2/issues",
+  "homepage": "https://bat-design-history.netlify.com/",
+  "repository": "github:DFE-Digital/bat-design-history",
+  "bugs": "https://github.com/DFE-Digital/bat-design-history/issues",
   "scripts": {
     "prebuild": "rm -rf public/assets && mkdir -p public && mkdir -p public/javascripts && mkdir -p public/admin",
     "build:cms-preview-templates": "nunjucks-precompile app/_layouts/admin-preview.njk > public/admin/templates.js -i \"\\.(njk|css|svg)$\"",
