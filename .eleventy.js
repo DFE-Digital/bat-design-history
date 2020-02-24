@@ -47,7 +47,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('apply-for-teacher-training', function(collection) {
     return collection.getFilteredByTag('apply-for-teacher-training').filter(function(item) {
-      return !item.data.tags.includes('candidateneeds');
+      return !item.data.tags.includes('needs');
     });
   });
 

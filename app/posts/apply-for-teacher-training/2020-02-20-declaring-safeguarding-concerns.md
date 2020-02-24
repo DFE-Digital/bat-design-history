@@ -2,6 +2,8 @@
 title: Declaring any safeguarding issues
 description: Starting a conversation between providers and candidates about safeguarding issues.
 date: 2020-02-20
+tags:
+ - N001
 ---
 
 Teacher training providers need to recruit candidates who are safe to work with children and young people. They use various sources of evidence to make a judgement on this.
@@ -45,7 +47,7 @@ However, we were able to observe a few pain points for candidates. The content l
 
 * what sort of information to declare
 * what the purpose of this section is
-* whether they should be open or not  
+* whether they should be open or not
 
 ### Our hypotheses
 

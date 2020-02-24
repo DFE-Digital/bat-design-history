@@ -1,7 +1,8 @@
 {
+  "layout": "user-need",
   "breadcrumbs": [{
     "text": "User needs",
     "href": "/apply-for-teacher-training/needs"
   }],
-  "tags": ["candidateneeds"]
+  "tags": ["needs"]
 }

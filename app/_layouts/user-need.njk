@@ -1,0 +1,53 @@
+{% extends "base.njk" %}
+
+{% from "article/macro.njk" import appArticle %}
+{% from "related/macro.njk" import appRelated %}
+{% from "prose/macro.njk" import appProse %}
+{% from "user-need/macro.njk" import appUserNeed with context %}
+
+{% from "govuk/components/tag/macro.njk" import govukTag %}
+{% block beforeContent %}
+  {{ govukBreadcrumbs({
+    classes: "app-!-print-display-none",
+    items: breadcrumbs | breadcrumbs(app, page, title)
+  }) if breadcrumbs != false }}
+{% endblock %}
+
+{% block content %}
+  {% call appArticle({
+    header: {
+      title: page.fileSlug,
+      classes: 'govuk-!-margin-bottom-0',
+      description: description
+    },
+    footer: {
+      date: page.date,
+      modified: modified if modified
+    }
+  }) %}
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        {{govukTag({ text: status })}}<br><br>
+
+        {# <p class="govuk-body">As a {{asA}}</p>
+        <p class="govuk-body">I need to {{iNeed}}</p>
+        <p class="govuk-body">So {{so}}</p> #}
+
+        {{appUserNeed({ user: asA, goal: iNeed, outcome: so })}}
+
+        {{ appProse({
+          prose: content
+        }) }}
+
+        {% if collections[page.fileSlug].length %}
+          <h2 class="govuk-heading-l">Posts</h2>
+          <ul class="govuk-list govuk-list--bullet">
+            {% for post in collections[page.fileSlug] %}
+              <li><a href="{{post.url}}">{{post.data.title}}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  {% endcall %}
+{% endblock %}
