@@ -44,13 +44,13 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('apply-for-teacher-training', function(collection) {
     return collection.getFilteredByTag('apply-for-teacher-training').filter(function(item) {
-      return !item.data.tags.includes('apply-for-teacher-training:need');
+      return !item.data.tags.includes('need');
     });
   });
 
   eleventyConfig.addCollection('manage-teacher-training-applications', function(collection) {
     return collection.getFilteredByTag('manage-teacher-training-applications').filter(function(item) {
-      return !item.data.tags.includes('manage-teacher-training-applications:need');
+      return !item.data.tags.includes('need');
     });
   });
 
