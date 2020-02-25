@@ -4,6 +4,7 @@ description: Starting a conversation between providers and candidates about safe
 date: 2020-02-20
 tags:
  - N001
+ - N002
 ---
 
 Teacher training providers need to recruit candidates who are safe to work with children and young people. They use various sources of evidence to make a judgement on this.
@@ -18,6 +19,18 @@ Our [initial design for this section of the application form](/apply-for-teacher
 However, we also need to consider how candidates respond to this design.
 
 ## User needs
+
+{% from "user-need/macro.njk" import appUserNeed %}
+
+{% for need in collections.need | slugs(["N001", "N002"]) %}
+  {{ appUserNeed({
+    status: need.data.status,
+    user: need.data.user,
+    goal: need.data.goal,
+    outcome: need.data.outcome,
+    url: need.url
+  }) }}
+{% endfor %}
 
 ### Provider need
 

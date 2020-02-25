@@ -26,13 +26,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('markdown', require('./lib/filters/markdown'))
   eleventyConfig.addFilter('pretty', require('./lib/filters/pretty'))
   eleventyConfig.addFilter('slug', require('./lib/filters/slug'))
+  eleventyConfig.addFilter('slugs', require('./lib/filters/slugs'))
   eleventyConfig.addFilter('sort', require('./lib/filters/sort'))
   eleventyConfig.addFilter('tokenize', require('./lib/filters/tokenize'))
   eleventyConfig.addFilter('totalFromRows', require('./lib/filters/total-from-rows'))
-
-  // Transforms
-
-  // Collections
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('./app/admin/config.yml');
@@ -47,7 +44,13 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('apply-for-teacher-training', function(collection) {
     return collection.getFilteredByTag('apply-for-teacher-training').filter(function(item) {
-      return !item.data.tags.includes('needs');
+      return !item.data.tags.includes('apply-for-teacher-training:need');
+    });
+  });
+
+  eleventyConfig.addCollection('manage-teacher-training-applications', function(collection) {
+    return collection.getFilteredByTag('manage-teacher-training-applications').filter(function(item) {
+      return !item.data.tags.includes('manage-teacher-training-applications:need');
     });
   });
 

@@ -5,7 +5,6 @@
 {% from "prose/macro.njk" import appProse %}
 {% from "user-need/macro.njk" import appUserNeed with context %}
 
-{% from "govuk/components/tag/macro.njk" import govukTag %}
 {% block beforeContent %}
   {{ govukBreadcrumbs({
     classes: "app-!-print-display-none",
@@ -17,7 +16,6 @@
   {% call appArticle({
     header: {
       title: page.fileSlug,
-      classes: 'govuk-!-margin-bottom-0',
       description: description
     },
     footer: {
@@ -27,13 +25,7 @@
   }) %}
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
-        {{govukTag({ text: status })}}<br><br>
-
-        {# <p class="govuk-body">As a {{asA}}</p>
-        <p class="govuk-body">I need to {{iNeed}}</p>
-        <p class="govuk-body">So {{so}}</p> #}
-
-        {{appUserNeed({ user: asA, goal: iNeed, outcome: so })}}
+        {{appUserNeed({ user: user, goal: goal, outcome: outcome, status: status })}}
 
         {{ appProse({
           prose: content

@@ -8,6 +8,8 @@ related:
       Username: `apply`
       Password: `bat`
     href: https://manage-applications-beta.herokuapp.com/
+  - text: User needs
+    href: /manage-teacher-training-applications/needs
 breadcrumbs:
   text: Manage teacher training applications
   href: /manage-teacher-training-applications
