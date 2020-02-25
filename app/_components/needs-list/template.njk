@@ -1,0 +1,13 @@
+{% if params.items.length > 0 %}
+  <ol class="app-needs-list{%- if params.classes %} {{ params.classes }}{% endif %}">
+  {% for item in params.items %}
+    <li class="app-needs-list__item">
+      <h2 class="app-needs-list__item-title">
+        <a class="govuk-link" href="{{ item.url | pretty }}"> {{ item.data.need | nl2br | safe }} {{item.fileSlug}}</a>
+      </h2>
+    </li>
+  {% endfor %}
+  </ol>
+{% else %}
+  <p class="govuk-body">No needs found.</p>
+{% endif %}

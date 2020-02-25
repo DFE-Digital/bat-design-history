@@ -3,8 +3,8 @@ title: Declaring any safeguarding issues
 description: Starting a conversation between providers and candidates about safeguarding issues.
 date: 2020-02-20
 tags:
- - N001
- - N002
+ - AN001
+ - MN001
 ---
 
 Teacher training providers need to recruit candidates who are safe to work with children and young people. They use various sources of evidence to make a judgement on this.
@@ -22,31 +22,13 @@ However, we also need to consider how candidates respond to this design.
 
 {% from "user-need/macro.njk" import appUserNeed %}
 
-{% for need in collections.need | slugs(["N001", "N002"]) %}
+{% for item in collections.need | slugs(["AN001", "MN001"]) %}
   {{ appUserNeed({
-    status: need.data.status,
-    user: need.data.user,
-    goal: need.data.goal,
-    outcome: need.data.outcome,
-    url: need.url
+    description: item.data.need,
+    url: item.url,
+    status: item.data.status
   }) }}
 {% endfor %}
-
-### Provider need
-
-As a provider
-
-I need to know about a candidate's past
-
-So that I can make a judgement on whether to pursue their application
-
-### Candidate need
-
-As a candidate
-
-I need to feel comfortable to disclose information about my past
-
-So that I know whether it's worth carrying on with my application
 
 ## Hypothesis
 

@@ -1,7 +1,7 @@
 ---js
 {
   tags: false,
-  layout: "list",
+  layout: "needs",
   title: "User needs",
   description: "User needs for the Manage teacher training applications service",
   pagination: {

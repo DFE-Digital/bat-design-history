@@ -4,10 +4,8 @@
   {% if params.status %}
     {{govukTag({ text: params.status, classes: "app-user-need__status" })}}
   {% endif %}
-  <p class="govuk-body">As a {{params.user}}</p>
-  <p class="govuk-body">I need {{params.goal}}</p>
-  <p class="govuk-body">So that {{params.outcome}}</p>
+  <p class="govuk-body">{{params.description | nl2br | safe}}</p>
   {% if params.url %}
-    <p class="govuk-body"><a href="{{params.url}}">View need</a></p>
+    <p class="govuk-body"><a class="govuk-link" href="{{params.url}}">View need</a></p>
   {% endif %}
 </div>

@@ -25,7 +25,10 @@
   }) %}
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
-        {{appUserNeed({ user: user, goal: goal, outcome: outcome, status: status })}}
+        {{appUserNeed({
+          description: need,
+          status: status
+        })}}
 
         {{ appProse({
           prose: content
@@ -35,7 +38,7 @@
           <h2 class="govuk-heading-l">Posts</h2>
           <ul class="govuk-list govuk-list--bullet">
             {% for post in collections[page.fileSlug] %}
-              <li><a href="{{post.url}}">{{post.data.title}}</a></li>
+              <li><a class="govuk-link" href="{{post.url}}">{{post.data.title}}</a></li>
             {% endfor %}
           </ul>
         {% endif %}

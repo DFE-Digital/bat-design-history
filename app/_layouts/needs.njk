@@ -1,9 +1,8 @@
 {% extends "base.njk" %}
 
-{% from "document-list/macro.njk" import appDocumentList %}
+{% from "user-need/macro.njk" import appUserNeed %}
 {% from "pagination/macro.njk" import appPagination %}
 {% from "prose/macro.njk" import appProse %}
-{% from "related/macro.njk" import appRelated %}
 
 {% block main %}
   <div class="govuk-width-container">
@@ -21,10 +20,20 @@
       <div class="govuk-grid-row">
         <section class="govuk-grid-column-two-thirds">
           <h1 class="govuk-heading-xl">{{title}}</h1>
-          {{ appDocumentList({
-            classes: "govuk-!-margin-bottom-6",
-            items: pagination.items
-          }) }}
+
+          {% if pagination.items.length > 0 %}
+            {% for item in pagination.items %}
+
+              {{appUserNeed({
+                url: item.url,
+                description: item.data.need,
+                status: item.data.status
+              })}}
+            {% endfor %}
+          {% else %}
+            <p class="govuk-body">No needs found.</p>
+          {% endif %}
+
           {{ appPagination({
             previous: {
               text: "Previous",
