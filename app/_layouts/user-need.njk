@@ -3,7 +3,8 @@
 {% from "article/macro.njk" import appArticle %}
 {% from "related/macro.njk" import appRelated %}
 {% from "prose/macro.njk" import appProse %}
-{% from "user-need/macro.njk" import appUserNeed with context %}
+{% from "user-need/macro.njk" import appUserNeed %}
+{% from "document-list/macro.njk" import appDocumentList %}
 
 {% block beforeContent %}
   {{ govukBreadcrumbs({
@@ -25,8 +26,9 @@
   }) %}
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
+
         {{appUserNeed({
-          description: need,
+          description: userneed,
           status: status
         })}}
 
@@ -36,11 +38,7 @@
 
         {% if collections[page.fileSlug].length %}
           <h2 class="govuk-heading-l">Posts</h2>
-          <ul class="govuk-list govuk-list--bullet">
-            {% for post in collections[page.fileSlug] %}
-              <li><a class="govuk-link" href="{{post.url}}">{{post.data.title}}</a></li>
-            {% endfor %}
-          </ul>
+          {{ appDocumentList({ items: collections[page.fileSlug] })}}
         {% endif %}
       </div>
     </div>

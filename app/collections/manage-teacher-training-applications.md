@@ -9,7 +9,7 @@ related:
       Password: `bat`
     href: https://manage-applications-beta.herokuapp.com/
   - text: User needs
-    href: /manage-teacher-training-applications/needs
+    href: /manage-teacher-training-applications/user-needs
 breadcrumbs:
   text: Manage teacher training applications
   href: /manage-teacher-training-applications

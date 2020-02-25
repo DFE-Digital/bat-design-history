@@ -3,6 +3,7 @@
 {% from "user-need/macro.njk" import appUserNeed %}
 {% from "pagination/macro.njk" import appPagination %}
 {% from "prose/macro.njk" import appProse %}
+{% from "user-needs/macro.njk" import appUserNeeds %}
 
 {% block main %}
   <div class="govuk-width-container">
@@ -22,14 +23,7 @@
           <h1 class="govuk-heading-xl">{{title}}</h1>
 
           {% if pagination.items.length > 0 %}
-            {% for item in pagination.items %}
-
-              {{appUserNeed({
-                url: item.url,
-                description: item.data.need,
-                status: item.data.status
-              })}}
-            {% endfor %}
+            {{ appUserNeeds({ items: pagination.items }) }}
           {% else %}
             <p class="govuk-body">No needs found.</p>
           {% endif %}

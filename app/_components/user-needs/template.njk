@@ -1,0 +1,5 @@
+{% from "user-need/macro.njk" import appUserNeed %}
+
+{% for item in params.items %}
+  {{ appUserNeed({ description: item.data.userneed, status: item.data.status, url: item.url }) }}
+{% endfor %}

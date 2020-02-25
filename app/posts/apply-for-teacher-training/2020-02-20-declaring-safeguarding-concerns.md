@@ -20,15 +20,8 @@ However, we also need to consider how candidates respond to this design.
 
 ## User needs
 
-{% from "user-need/macro.njk" import appUserNeed %}
-
-{% for item in collections.need | slugs(["AN001", "MN001"]) %}
-  {{ appUserNeed({
-    description: item.data.need,
-    url: item.url,
-    status: item.data.status
-  }) }}
-{% endfor %}
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypothesis
 
