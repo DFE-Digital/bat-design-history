@@ -2,6 +2,9 @@
 title: Interview needs
 description: Making sure candidates make reasonable requests for interview.
 date: 2020-01-28
+tags:
+ - MN006
+ - AN009
 ---
 
 Universities do not usually have much flexibility when setting interview dates.
@@ -10,21 +13,8 @@ Several universities told us that the guidance on our [Interview preferences pag
 
 ## User needs
 
-### Provider need
-
-As a provider
-
-I need to be flexible when setting a date for interview when appropriate
-
-So that candidates with varying circumstances can attend
-
-### Candidate need
-
-As a candidate
-
-I need need my provider to accommodate my circumstances
-
-So that I can go to the interview
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypothesis
 
@@ -45,7 +35,7 @@ If we encourage candidates to tell us about their circumstances in the guidance
 
 Then providers will try to accommodate them
 
-Because they want to widen participation and prevent discrimination  
+Because they want to widen participation and prevent discrimination
 
 ### How will we know this works?
 
