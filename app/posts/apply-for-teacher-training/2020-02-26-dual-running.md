@@ -94,7 +94,7 @@ If a candidate selects a course that isn’t available on Apply, we tell them th
     text: "You need to apply on UCAS",
     caption: "If a course is not available on Apply, we should direct candidates to UCAS."
   }, {
-    text: "Do you want to use a new GOV.UK service?",
+    text: "Apply for this course",
     caption: "Updated interstitial that makes the two different options clearer."
   }, {
     text: "You selected a course",
