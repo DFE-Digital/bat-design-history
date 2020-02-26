@@ -2,30 +2,19 @@
 title: Asking candidates to nominate referees
 description:
 date: 2020-02-17
+tags:
+ - AN002
+ - AN003
+ - AN004
+ - AN005
+ - AN006
 ---
 We decided to iterate the page where we ask candidates to nominate referees because we were getting unsuitable suggestions from them.
 
 ## User needs
 
-**As a candidate**
-I need to nominate two suitable referees
-So that my application can progress.
-
-**As a candidate**
-I need to understand who providers will accept references from
-So that I can suggest suitable referees, including suitable addresses.
-
-**As a candidate**
-I need to know who to suggest as referees if I’ve been self-employed
-So that my application can progress.
-
-**As a candidate**
-I need to know that providers would prefer to receive at least one reference from a professional address
-So I can suggest suitable referees.
-
-**As a candidate**
-I need to know what to do if I’m struggling to find a referee
-So that my application can progress.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypotheses
 
