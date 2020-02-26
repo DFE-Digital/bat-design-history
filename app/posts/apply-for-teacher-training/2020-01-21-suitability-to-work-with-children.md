@@ -67,6 +67,8 @@ If we show this information to providers then they can use it to make a decision
 
 If we put the information at the bottom of the provider form, then providers will be less likely to dismiss candidates who disclose something out of hand, because they will have reviewed the rest of their application already.
 
+(Note: Putting the section at the bottom won’t prevent users from looking at that section first and making a decision, but it should help with a user’s unconscious bias – those who might unknowingly dismiss someone because they disclosed something.)
+
 ## Questions
 
 This design is ready for research, but not ready for development.
