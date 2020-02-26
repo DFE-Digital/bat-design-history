@@ -2,6 +2,9 @@
 title: Work history and volunteering guidance
 description: Making sure providers get the information they need about a candidate's (unpaid) work history.
 date: 2020-01-21
+tags:
+ - AN011
+ - MN007
 ---
 We want candidates to tell us about their paid work experience on one page and their unpaid experience or volunteering on another page.
 
@@ -16,9 +19,8 @@ Clarifying the guidance on these pages should ensure that candidates do not:
 
 ## User needs
 
-As a provider, I need enough detail about a candidate’s work history, unpaid experience and volunteering so that I can make decisions on their application.
-
-As a candidate, I need to understand what information is needed about my (unpaid) work history so that I can be successful in my application.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypothesis
 

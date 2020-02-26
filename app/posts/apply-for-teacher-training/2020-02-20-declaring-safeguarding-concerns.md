@@ -2,6 +2,9 @@
 title: Declaring any safeguarding issues
 description: Starting a conversation between providers and candidates about safeguarding issues.
 date: 2020-02-20
+tags:
+ - AN001
+ - MN001
 ---
 
 Teacher training providers need to recruit candidates who are safe to work with children and young people. Providers use various sources of evidence to make a judgement on this.
@@ -22,17 +25,8 @@ However, we also need to consider how candidates respond to this section of the 
 
 ## User needs
 
-### Provider need
-
-As a provider
-I need to know about a candidate's past
-So that I can make a judgement on whether a candidate is suitable for teaching
-
-### Candidate need
-
-As a candidate
-I need to start a conversation with providers about any potential safeguarding issues
-So that I know whether it's worth carrying on with my application
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypothesis
 
@@ -46,8 +40,7 @@ However, we were able to observe a few pain points for candidates. The content c
 
 * what sort of information to declare (someone mentioned depression, which isn't the sort of thing we were looking for)
 * why we're asking about this
-* whether they should be open or not  
-
+* whether they should be open or not
 
 ### Our hypotheses
 

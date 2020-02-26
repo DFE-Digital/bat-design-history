@@ -2,6 +2,8 @@
 title: Replace a referee
 description: Let a candidate add a new referee
 date: 2020-01-30
+tags:
+ - AN010
 related:
   items:
     - text: Pull request
@@ -26,9 +28,8 @@ There's a [follow up design for adding 2 new referees](/apply-for-teacher-traini
 
 ## User needs
 
-As a candidate
-I need to provide an alternative referee if my original referees have not responded or have declined
-So that my application can progress
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypothesis
 

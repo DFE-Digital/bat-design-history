@@ -2,16 +2,18 @@
 title: Withdrawing an offer
 description: Flow for withdrawing an offer
 date: 2020-01-31
-tags: awaiting-validation
+tags:
+ - awaiting-validation
+ - MN002
+
 ---
 
 This flow shows how a provider can withdraw their offer.
 
 ## User needs
 
-As a provider
-I need to withdraw an offer
-So that I can rectify a mistake I've made or stop an unsuitable candidate from taking a spot
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Research findings
 

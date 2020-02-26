@@ -1,0 +1,46 @@
+{% extends "base.njk" %}
+
+{% from "article/macro.njk" import appArticle %}
+{% from "related/macro.njk" import appRelated %}
+{% from "prose/macro.njk" import appProse %}
+{% from "user-need/macro.njk" import appUserNeed %}
+{% from "document-list/macro.njk" import appDocumentList %}
+
+{% block beforeContent %}
+  {{ govukBreadcrumbs({
+    classes: "app-!-print-display-none",
+    items: breadcrumbs | breadcrumbs(app, page, title)
+  }) if breadcrumbs != false }}
+{% endblock %}
+
+{% block content %}
+  {% call appArticle({
+    header: {
+      title: page.fileSlug,
+      description: description
+    },
+    footer: {
+      date: page.date,
+      modified: modified if modified
+    }
+  }) %}
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+
+        {{appUserNeed({
+          description: userneed,
+          status: status
+        })}}
+
+        {{ appProse({
+          prose: content
+        }) }}
+
+        {% if collections[page.fileSlug].length %}
+          <h2 class="govuk-heading-l govuk-!-font-size-27">Posts</h2>
+          {{ appDocumentList({ items: collections[page.fileSlug] })}}
+        {% endif %}
+      </div>
+    </div>
+  {% endcall %}
+{% endblock %}

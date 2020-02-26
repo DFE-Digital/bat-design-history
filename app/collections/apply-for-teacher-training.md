@@ -11,6 +11,8 @@ related:
       Username: `apply`
       Password: `bat`
     href: https://apply-beta-prototype.herokuapp.com/
+  - text: User needs
+    href: /apply-for-teacher-training/user-needs
 pagination:
   data: collections.apply-for-teacher-training
   reverse: true

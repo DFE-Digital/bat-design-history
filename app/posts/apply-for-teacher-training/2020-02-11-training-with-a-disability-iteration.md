@@ -2,22 +2,17 @@
 title: Giving details about disability (iteration)
 description:
 date: 2020-02-11
+tags:
+ - AN007
+ - AN008
+ - MN005
 ---
 This design is [an iteration of the question as designed for the pilot](/apply-for-teacher-training/training-with-a-disability). This question was removed prior to launch due to a lack of confidence in how we were asking a sensitive and possibly contentious question.
 
 ## User needs
 
-**As a candidate**
-I need to inform a provider of a disability, health issue or access need I have,
-So that reasonable adjustments can be made should I be offered an interview and/or begin training with them.
-
-**As a candidate**
-I need reassurance that disclosing a disability won’t affect my application, either due to unconscious bias or discrimination,
-So that I can feel comfortable disclosing this information.
-
-**As a provider**
-I need to know if a candidate needs extra support,
-So that I can make any reasonable adjustments.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypotheses
 

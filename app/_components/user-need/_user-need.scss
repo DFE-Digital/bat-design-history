@@ -1,0 +1,16 @@
+.app-user-need {
+  background-color: govuk-colour('light-grey');
+  padding: govuk-spacing(5);
+  margin-bottom: govuk-spacing(6);
+  position: relative;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.app-user-need__status {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
