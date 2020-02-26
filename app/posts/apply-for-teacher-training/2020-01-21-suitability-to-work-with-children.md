@@ -2,6 +2,10 @@
 title: Suitability to work with children
 description: Add a section to disclose convictions or anything that could affect suitability to work with children.
 date: 2020-01-21
+tags:
+ - MN009
+ - AN015
+ - AN016
 related:
   items:
   - text: Survey playback
@@ -41,11 +45,8 @@ Any 'disclosure' would be superseded by the DBS so it is rather redundant.
 
 ## User needs
 
-As a provider I need to know if a candidate has a history that would affect their application, so that I can either discuss and assist them in their journey, or reject them, if appropriate.
-
-As a candidate with a checkered history I need an opportunity to be honest about my past, so that I have a better chance of becoming a teacher.
-
-As a candidate with a checkered history I need to know what a DBS check is, and what it will say about me, so that I can make a decision about what to disclose beforehand.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypotheses
 

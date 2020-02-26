@@ -2,6 +2,9 @@
 title: Working patterns for part time jobs
 description: Adding a place for candidates to describe their working pattern.
 date: 2020-01-20
+tags:
+ - MN008
+ - AN014
 ---
 We ask candidates to select ‘full time’ or ‘part time’ for their work history entries.
 
@@ -9,9 +12,8 @@ Some providers say that ‘part time’ doesn’t give enough detail. It could m
 
 ## User needs
 
-As a provider, I need detail about a candidate’s work history so that I have enough information to make decisions on their application.
-
-As a candidate, I need to be able to describe my part time jobs, so that I can show how much work I did.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 [Listen to a discussion about full time and part time with a candidate](https://lookback.io/watch/cxYdKBYN9TK7cmxHF?t=23m15.35s)
 
