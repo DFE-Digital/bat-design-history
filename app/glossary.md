@@ -17,7 +17,7 @@ Accredited body (Accredited provider)
 Allocation
 : Permission to run limited courses.
 
-Becoming a teacher (BaT)
+Becoming a teacher (BAT)
 : Our service line.
 
 Bursaries AND Scholarships
