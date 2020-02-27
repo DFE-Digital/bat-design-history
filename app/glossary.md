@@ -78,10 +78,10 @@ Scholarships
 : See Bursaries.
 
 SCITT
-: School-centred initial teacher training programmes are run by schools or groups of schools.
+: School-centred initial teacher training provider. A SCITT is most commonly a school who have incorporated a separate legal entity (company) dedicated to delivering teacher training. SCITTs are accredited bodies.
 
 School direct (SD)
-: Single school given school direct (fee and salaried) places. Must partner with accredited provider.
+: Single school given school direct (fee and salaried) places. Must partner with an accredited body.
 
 SITS
 : SITS:Vision, also known just as SITS, is a database application used for course and student management in further and higher education institutions, developed and maintained by the [Tribal Group](https://en.wikipedia.org/wiki/SITS:Vision).
