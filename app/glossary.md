@@ -12,7 +12,7 @@ Accredited
 : Accreditation is the means by which institutions are authorised to award degrees by DfE. 'Accredited' in effect means 'able to award degrees'. An accredited body can authorise other organisations to offer courses leading to a degree - the degree is awarded by the accredited body.
 
 Accredited body (Accredited provider)
-: Able to award QTS status (Accredited by DFE - the body does not accredit anyone).
+: A provider that has the DfE approved authority to deliver a training programme that leads to qualified teacher status (QTS). Accredited bodies must ensure that they remain compliant with the ITT criteria. Other providers can partner with an accredited body to deliver a course that leads to QTS. They do not accredit anyone.
 
 Allocation
 : Permission to run limited courses.
