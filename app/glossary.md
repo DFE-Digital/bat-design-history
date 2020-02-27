@@ -33,7 +33,7 @@ Cycle
 : The period during which ITT applications are open, usually beginning in October and ending in September.
 
 DTTP
-: Database of teacher training providers.
+: [Database of trainee teachers and providers](https://www.gov.uk/guidance/database-of-trainee-teachers-and-providers-dttp).
 
 Early career payments
 : These apply to chemistry, languages, maths and physics. They're sums of money you get after you've qualified as a teacher - they're paid out in your second, third and fourth year of teaching. You get £2k each year - £3k in some parts of the country.
