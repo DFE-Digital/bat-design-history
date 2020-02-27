@@ -24,7 +24,7 @@ Bursaries AND Scholarships
 : These are sums of money available to trainees on (fee-based) courses in certain subjects. They're tax-free, and awarded by DfE, in some cases in partnership with professional bodies. The main difference between bursaries and scholarships is that the value of scholarships is a little higher, and you'll generally need a 2:1 to qualify for one (you'll only need a 2:2 to get a bursary). You also have to apply for a scholarship, whereas you'll automatically receive a bursary once you start training (if you meet the criteria). You can only claim one of them - not both.
 
 Course
-: A training programme providers create for candiates to apply to.
+: A training programme providers create for candidates to apply to.
 
 Course Code
 : A code used to identify courses (unique to a provider).
@@ -62,11 +62,11 @@ Multi-Academy Trust (MAT)
 Organisation
 : There's no clear definition for this. We use it broadly to encompass the different types of entity involving in teacher training (schools, universities, School Directs, etc). So it's a catch-all, umbrella term.
 
-Postgraducate certificate in education (PGCE)
+Postgraduate certificate in education (PGCE)
 : This is a teaching qualification that - when it's paired with QTS (qualified teacher status) - allows you to teach in state schools in England, Scotland, Wales and Northern Ireland. It’s also recognised internationally (which is the major advantage of having it, over just QTS). PGCE without QTS qualifies you to teach further education, but not primary or secondary education.
 
 Provider led
-: A course that that is led by a HEI or a SCITT (the opposite of school led/based).
+: A course that that is led by an HEI or a SCITT (the opposite of school led/based).
 
 Qualified teacher status (QTS)
 : This is the qualification you need to teach in state schools in England. You can't teach without it.
@@ -93,7 +93,7 @@ Teaching School Alliance
 : Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
 
 Teacher supply model (TSM)
-:   Used to predict and manage the ITT market.
+: Used to predict and manage the ITT market.
 
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
