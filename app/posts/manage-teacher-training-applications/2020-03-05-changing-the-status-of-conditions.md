@@ -25,23 +25,20 @@ Then they'll be able to process applications more quickly and accurately
 
 ## An alternative route we ruled out
 
-We explored the following design at one point:
+We explored the following design:
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [
-    {
-      text: "Alternative content for updating status",
-      img: { src: "update-status-alternative.png" }
-    }
-  ]
+{% from "figure/macro.njk" import appFigure with context %}
+{{ appFigure({
+  image: {
+    file: "update-status-alternative.png"
+  }
 }) }}
 
-But, we ruled it out because:
+But we ruled it out because:
 
 - the options are inconsistent with the language we use everywhere else (‘Pending’, ‘Met’ and ‘Not met’)
 - the heading doesn't match the link that the user clicks to get here (‘Update status’)
-- the heading can be very long and hard to read based on the length of the condition
+- the heading can be very long and hard to read because of the length of the condition text
 
 ## Further research
 
