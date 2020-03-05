@@ -24,7 +24,15 @@ related:
     href: https://www.gov.uk/government/publications/dbs-list-of-offences-that-will-never-be-filtered-from-a-criminal-record-check
   - text: What will show up on a DBS check
     href: https://www.mind.org.uk/information-support/legal-rights/dbs-checks-and-your-mental-health/what-will-show-up-on-a-dbs-check
+  - text: 'Provider research playback'
+    href: https://docs.google.com/presentation/d/1Im8T9MkiuyvPnkHa4tOeZU9M-Sl_E10Zkv2mrn6lEJY/edit#slide=id.p
 ---
+
+{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{{ govukWarningText({
+  html: "[We iterated this design](/apply-for-teacher-training/declaring-safeguarding-concerns)" | markdown("inline"),
+  iconFallbackText: "Warning"
+}) }}
 
 Universities have given us some "red flag" feedback that we are not doing enough to capture information about criminal convictions in our application form.
 

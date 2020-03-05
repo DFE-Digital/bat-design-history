@@ -5,6 +5,10 @@ date: 2020-02-20
 tags:
  - AN001
  - MN001
+related:
+  items:
+    - text: 'Provider research playback'
+      href: https://docs.google.com/presentation/d/1Im8T9MkiuyvPnkHa4tOeZU9M-Sl_E10Zkv2mrn6lEJY/edit#slide=id.p
 ---
 
 Teacher training providers need to recruit candidates who are safe to work with children and young people. Providers use various sources of evidence to make a judgement on this.
