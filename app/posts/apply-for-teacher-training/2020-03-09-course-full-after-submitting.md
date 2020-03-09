@@ -8,6 +8,8 @@ related:
       href: https://trello.com/c/Iz9hu9JT/1102-design-when-a-course-becomes-full-between-submission-provider-receiving-application
     - text: Google Doc
       href: https://docs.google.com/document/d/1kx2GDiQ3GnPwShA6-Y906wTZRr27VMFoMD3aVyjVYtY
+    - text: Analyse data ticket
+      href: https://trello.com/c/6u3zLNGu/222-examine-behaviour-of-closing-re-opening-courses-because-of-no-vacancies
 ---
 
 Consider this scenario:
