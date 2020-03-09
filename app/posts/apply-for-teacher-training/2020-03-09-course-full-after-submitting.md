@@ -14,6 +14,8 @@ Consider this scenario:
 
 > A candidate chooses a course, the course has spaces at submission but becomes full whilst waiting for references or during the 5 day holding period
 
+Courses mostly get marked as full from May until the end of year. There’s a lot just before summer as providers stop recruiting – their courses aren’t full, but they have no one to do interviews over summer. Courses with the highest demand and fewest places, ie salaried and PE courses, can get marked as full at any time.
+
 Right now, if a course becomes full then:
 
 - we do not tell the candidate
