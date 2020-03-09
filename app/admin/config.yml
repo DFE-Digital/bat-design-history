@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: DFE-digital/bat-design-history
-  branch: master
+  name: git-gateway
 publish_mode: editorial_workflow
 site_url: https://bat-design-history.herokuapp.com
 display_url: View site
