@@ -32,7 +32,8 @@
     "lint": "standard",
     "prestart": "npm run build",
     "start": "npx eleventy --serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "netlify": "npm run build && npx eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
