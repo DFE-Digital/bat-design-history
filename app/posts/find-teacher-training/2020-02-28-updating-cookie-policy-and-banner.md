@@ -19,7 +19,7 @@ We were meeting requirement 1 and 2 but failed to ask users for their consent be
 #### Cookie banner
 The cookie banner is hidden by default using css. It does use a small amount of JavaScript to determine whether or not to show or hide the banner depending on whether or not the user has set their preference. 
 
-It was decided that this feature would rely on JavaScript (i.e if JavaScript fails to load or is disabled, no banner is shown) because the user might be decide to accept cookies at any point of their journey through the service and we did not want to risk losing any of their existing data or having to playback their data once the page reloaded. Technically this would have been difficult to implement. and using JavaScript makes it less obtrusive.
+It was decided that this feature would rely on JavaScript (i.e if JavaScript fails to load or is disabled, no banner is shown) because the user might decide to accept cookies at any point of their journey through the service and we did not want to risk losing any of their existing data or having to playback their data once the page reloaded. Technically this would have been difficult to implement, and using JavaScript makes it less obtrusive.
 
 If the user decides to accept the cookies then the following events happen:
 1. Hides the banner without a page refresh
