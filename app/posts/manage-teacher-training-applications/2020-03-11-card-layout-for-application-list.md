@@ -27,6 +27,7 @@ Then users will be able to see all of the information easily without scrolling h
 We'll know this works when:
 
 - Users can find the application they're looking for
+- Users can get a sense of the status to help choose an application to work on
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
