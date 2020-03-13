@@ -47,6 +47,9 @@ Early years initial teacher training (EYITT)
 Further Education
 : This is an educational level between secondary and higher education. It tends to be vocational. Most people studying FE courses will be over 16, but some courses are available to people aged 14 and over. FE courses are usually taught in FE colleges, sixth form colleges, and adult education centres (ie not schools). Strictly speaking, A Levels are part of FD - however, the term is generally used to refer to non-academic, vocational/skills-focused training.
 
+Get information about schools (GIAS)
+: This is a [register of schools and colleges in England](https://get-information-schools.service.gov.uk/). 
+
 Get into teaching (GiT)
 : Campaign site to encourage people to apply for teacher training.
 
@@ -55,6 +58,9 @@ Higher education institution (HEI)
 
 Initial teacher training (ITT)
 : The training you have to do to become a teacher. It's usually fine to say 'teacher training' rather than 'initial teacher training'. The 'ITT' abbreviation should be avoided - instead say teacher training, or just training.
+
+Marketing name
+: The commonly used name of an educational organisation. This may not be the legal name.
 
 Multi-Academy Trust (MAT)
 : A single trust responsible for a group of academies. MATs can be providers but cannot be lead schools.
@@ -97,3 +103,9 @@ Teacher supply model (TSM)
 
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
+
+UK Provider Reference Number (UKPRN)
+: This is the unique identifier given to higher education providers. 
+
+Unique Reference Number (URN)
+: This is the unique reference number given to all schools by Edubase.
