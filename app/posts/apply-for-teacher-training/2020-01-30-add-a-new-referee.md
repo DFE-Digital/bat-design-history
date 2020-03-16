@@ -3,7 +3,7 @@ title: Replace a referee
 description: Let a candidate add a new referee
 date: 2020-01-30
 tags:
- - AN010
+- AN010
 related:
   items:
     - text: Pull request

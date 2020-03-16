@@ -3,7 +3,7 @@ title: Tracking and updating the status of offer conditions
 description: Let providers track and update the status of offer conditions.
 date: 2020-03-05
 tags:
- - MN012
+- MN012
 ---
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

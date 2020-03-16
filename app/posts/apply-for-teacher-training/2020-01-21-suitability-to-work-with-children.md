@@ -3,9 +3,9 @@ title: Suitability to work with children
 description: Add a section to disclose convictions or anything that could affect suitability to work with children.
 date: 2020-01-21
 tags:
- - MN009
- - AN015
- - AN016
+- MN009
+- AN015
+- AN016
 related:
   items:
   - text: Survey playback

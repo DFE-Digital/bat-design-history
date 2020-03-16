@@ -3,11 +3,11 @@ title: Asking candidates to nominate referees
 description:
 date: 2020-02-17
 tags:
- - AN002
- - AN003
- - AN004
- - AN005
- - AN006
+- AN002
+- AN003
+- AN004
+- AN005
+- AN006
 ---
 We decided to iterate the page where we ask candidates to nominate referees because we were getting unsuitable suggestions from them.
 

@@ -3,8 +3,8 @@ title: Offer a different course
 description: First iteration of making an offer to a different course
 date: 2020-02-10
 tags:
- - awaiting-validation
- - MN003
+- awaiting-validation
+- MN003
 ---
 
 First iteration for letting providers make an offer to a different course as part of making sure the provider interface has parity with the API.

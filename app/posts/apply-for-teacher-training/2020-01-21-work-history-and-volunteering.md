@@ -3,8 +3,8 @@ title: Work history and volunteering guidance
 description: Making sure providers get the information they need about a candidate's (unpaid) work history.
 date: 2020-01-21
 tags:
- - AN011
- - MN007
+- AN011
+- MN007
 ---
 We want candidates to tell us about their paid work experience on one page and their unpaid experience or volunteering on another page.
 
