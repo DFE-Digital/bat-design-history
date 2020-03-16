@@ -3,9 +3,8 @@ title: Withdrawing an offer
 description: Flow for withdrawing an offer
 date: 2020-01-31
 tags:
- - awaiting-validation
- - MN002
-
+- awaiting-validation
+- MN002
 ---
 
 This flow shows how a provider can withdraw their offer.

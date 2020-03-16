@@ -3,8 +3,8 @@ title: Interview needs
 description: Making sure candidates make reasonable requests for interview.
 date: 2020-01-28
 tags:
- - MN006
- - AN009
+- MN006
+- AN009
 ---
 
 Universities do not usually have much flexibility when setting interview dates.
