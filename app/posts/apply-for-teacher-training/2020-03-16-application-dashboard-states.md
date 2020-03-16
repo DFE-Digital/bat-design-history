@@ -5,6 +5,8 @@ date: 2020-03-16
 ---
 How the dashboard looked at different stages of an application as of March 2020.
 
+Each state shows a different generated application, with between 1 and 3 choices. Any given state could show up to 3 choices.
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
