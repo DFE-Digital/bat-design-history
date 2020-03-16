@@ -58,10 +58,10 @@ How the dashboard looked at different stages of an application as of March 2020.
       text: "Details of offer",
       img: { src: "09-details-of-offer.png" }
     }, {
-      text: "Are you sure you want to accept",
+      text: "Are you sure you want to accept this offer?",
       img: { src: "10-are-you-sure-you-want-to-accept.png" }
     }, {
-      text: "Are you sure you want to decline",
+      text: "Are you sure you want to decline this offer?",
       img: { src: "11-are-you-sure-you-want-to-decline.png" }
     }]
 }) }}
