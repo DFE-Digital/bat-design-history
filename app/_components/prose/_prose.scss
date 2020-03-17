@@ -157,7 +157,7 @@
   }
 
   img {
-    @include govuk-responsive-margin(4, "bottom");
+    @include govuk-responsive-margin(3, "bottom");
     display: block;
     width: 100%;
     max-width: 100%;
