@@ -58,19 +58,3 @@ If the provider agrees, they contact UCAS and record a decline decision in web-l
 
 If the provider doesn't agree and the candidate still doesn't want to take up that training programme, the provider uses the 'confirmation withdrawal' decision to completely withdraw their application and bar the candidate from applying again in the cycle—can't go to Apply 2.
 
-## Notes on changing provider
-
-Providers can't change the provider a candidate applies to. Can only be changed by the candidate.
-
-if a school direct wants to offer a different location within their partnership, it is done as explained above in ‘Making changes after candidate accepts the offer’. That is they agree with the candidate and make changes.
-
-If the candidate changes provider within 7 days, they can change without having to use Apply 2.
-
-If 7 days has passed, the candidate must withdraw their choices from Apply 1 and use Apply 2.
-
-## What providers do if a course is full
-
-Providers can record a ‘not considered‘ decision if a course is full.
-
-There's guidance that says providers should help candidates by ‘offering a place on a suitable alternative course’ or ‘providing assistance to help you find a suitable alternative place elsewhere’ - this does say this in relation to ‘If you become a student, under your contract the training provider, they must do all they can to provider the educational services in accordance with the contract that you have with them.’
-
