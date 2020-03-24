@@ -1,7 +1,8 @@
 ---
 title: Application form
-description: Completing the UCAS application form
+description: Completing the UCAS application form.
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [

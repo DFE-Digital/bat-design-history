@@ -3,6 +3,7 @@ title: Giving details about disability
 description: Training with a disability and reasonable adjustments course choices.
 date: 2019-12-06
 ---
+
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "[See previous iteration here](/apply-for-teacher-training/training-with-a-disability-iteration)" | markdown("inline"),

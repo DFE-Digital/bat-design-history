@@ -1,7 +1,8 @@
 ---
 title: Review and submit
-description: See what you’ve entered, interview preferences and submission
+description: See what you’ve entered, interview preferences and submission.
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [

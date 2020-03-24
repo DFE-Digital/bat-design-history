@@ -3,6 +3,7 @@ title: Choosing which service to apply through
 description: During transition, providers can offer training courses through both UCAS and/or DfE. Which service should a candidate use?
 date: 2020-02-26
 ---
+
 During the 2019/20 and 2020/21 recruitment cycles, providers can offer training courses through UCAS Teacher Training and/or Apply.
 
 At the start of the transition period, most courses will only be available through UCAS, but some regions will have SCITTs offering courses across both services (a situation that is often referred to as ‘dual running’).

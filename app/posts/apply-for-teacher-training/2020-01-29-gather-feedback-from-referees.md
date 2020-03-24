@@ -1,6 +1,6 @@
 ---
 title: Gather feedback from referees
-description: Include a feedback form immediately after submitting a reference
+description: Include a feedback form immediately after submitting a reference.
 date: 2020-01-29
 related:
   items:
@@ -11,6 +11,7 @@ related:
     - text: Prototype PR
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/328
 ---
+
 We need a way to ask referees for their feedback so we know if the guidance is useful and the process is working.
 
 We've had a low response rate from the few referees who said we could contact them.

@@ -3,6 +3,7 @@ title: Picking courses to apply to
 description: Providing a route to Find, or selecting the course you want.
 date: 2019-08-16
 ---
+
 Candidates using Apply need to choose a course to apply to.
 
 If a candidate doesn’t know what course to apply to, give them a route to Find to begin or resume their search.

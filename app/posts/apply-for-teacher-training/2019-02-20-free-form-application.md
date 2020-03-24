@@ -7,6 +7,7 @@ related:
   - text: Prototype
     href: https://bat-apply.herokuapp.com/v04_2/application/index
 ---
+
 Our designer Vin documented these on [Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/279314433/Designs) (Project Bluesky).
 
 In user testing sessions, we"ve seen candidates with varied education and experience. Using structured format for data in the previous prototypes was a roadblock, as most candidates did not find their profile fitting into a standard format.

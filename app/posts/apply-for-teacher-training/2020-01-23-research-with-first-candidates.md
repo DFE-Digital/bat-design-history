@@ -1,6 +1,6 @@
 ---
 title: User research with first Apply candidates
-description: Research interviews with first users of production service
+description: Research interviews with first users of production service.
 date: 2020-01-23
 related:
   items:
@@ -9,17 +9,18 @@ related:
   - text: Research playback
     href: https://docs.google.com/presentation/d/1PwdjudhTgATRWMQtR1I0taTcbbyKosKlgaTCqABbsAA/
 ---
+
 We asked each user who submitted an application if they’d be happy to take part in research. With those who were, we conducted interviews. [They used the service as launched](/apply-for-teacher-training/apply-launch).
 
 ## Key issues
 
-- Problems signing in
-- Confusion around our eligibility questions
-- Candidates wanted to apply again after submitting their first application
-- ‘Apply for teacher training’ was seen as the only place to apply, rather than this service, this is good in the long run but troublesome during dual running
-- Qualifications were sparsely completed, "I didn’t put in [all my qualifications] because I assumed it was only the highest degree needed"
-- Trouble entering self employment into work history
-- Trouble describing working patterns for part time jobs ([we added this feature](/apply-for-teacher-training/part-time-working-hours))
+* Problems signing in
+* Confusion around our eligibility questions
+* Candidates wanted to apply again after submitting their first application
+* ‘Apply for teacher training’ was seen as the only place to apply, rather than this service, this is good in the long run but troublesome during dual running
+* Qualifications were sparsely completed, "I didn’t put in [all my qualifications] because I assumed it was only the highest degree needed"
+* Trouble entering self employment into work history
+* Trouble describing working patterns for part time jobs ([we added this feature](/apply-for-teacher-training/part-time-working-hours))
 
 ## Candidate 1
 

@@ -1,6 +1,6 @@
 ---
 title: Replace a referee
-description: Let a candidate add a new referee
+description: Let a candidate add a new referee.
 date: 2020-01-30
 tags:
 - AN010
@@ -15,6 +15,7 @@ related:
     - text: Email templates
       href: https://qa.apply-for-teacher-training.education.gov.uk/rails/mailers
 ---
+
 If a referee declines a request or doesn’t respond then we automatically send an email to the candidate to inform them. The candidate currently needs to reply to that email with a new referee's name, email address and their relationship to them.
 
 There are three reasons a candidate might need to do this:
@@ -79,41 +80,41 @@ It makes the add a new referee form the most obvious thing for everyone.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "You need to add a new referee",
-      img: { src: "01-you-need-to-add-a-new-referee.png" },
-      caption: "
+    text: "You need to add a new referee",
+    img: { src: "01-you-need-to-add-a-new-referee.png" },
+    caption: "
 * Show this page instead of the default home page
 * Give the reason why they need to replace a referee, matching the words used in emails:
-  * Our email requesting a reference didn’t reach Glinda Baumbach.
-  * We haven’t had a reference from Doyle Denesik.
-  * Carmel Kohler said they won’t give a reference.
+* Our email requesting a reference didn’t reach Glinda Baumbach.
+* We haven’t had a reference from Doyle Denesik.
+* Carmel Kohler said they won’t give a reference.
 * Allow users to skip the step, but show it again next time they sign in
-      "
-    }, {
-      text: "Add a new referee",
-      img: { src: "02-add-a-new-referee.png" },
-      caption: "
+    "
+  }, {
+    text: "Add a new referee",
+    img: { src: "02-add-a-new-referee.png" },
+    caption: "
 * Same as referee form with minor changes
 * Removes hint text about when we will contact them
 * Asks that a referee could give their reference as soon as possible
 * Has a descriptive title that matches button used to reach here (and no caption)
-      "
-    }, {
-      text: "Check your referees details",
-      img: { src: "03-check-your-referees-details.png" },
-      caption: "
+    "
+  }, {
+    text: "Check your referees details",
+    img: { src: "03-check-your-referees-details.png" },
+    caption: "
 * Because the action is immediate, we will automatically email their new referee, we need a review step
 * Give the candidate a chance to catch any errors
 * Confirming will send the reference request email and return the candidate to their application dashboard
-      "
-    }, {
-      text: "Application dashboard after adding a referee",
-      img: { src: "04-application-dashboard-after-adding-referee.png" }
-    }, {
-      text: "Application dashboard with warning",
-      img: { src: "05-application-dashboard-with-warning.png" },
-      caption: "
+    "
+  }, {
+    text: "Application dashboard after adding a referee",
+    img: { src: "04-application-dashboard-after-adding-referee.png" }
+  }, {
+    text: "Application dashboard with warning",
+    img: { src: "05-application-dashboard-with-warning.png" },
+    caption: "
 If they skipped the first screen, or didn't add a referee, maintain a warning on the dashboard
-      "
-    }]
+    "
+  }]
 }) }}

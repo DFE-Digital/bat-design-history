@@ -1,6 +1,6 @@
 ---
 title: Add another course
-description: Encourage candidates to add more courses at the start
+description: Encourage candidates to add more courses at the start.
 date: 2020-02-26
 related:
   items:
@@ -22,23 +22,23 @@ If we tell candidates they can’t add new choices after submitting their applic
 
 ## Design notes
 
-- After adding first and second choices, we show them a prompt (this includes after adding from Find)
-- After adding a third choice, we take them straight to the review screen
-- Selecting "Add another course" takes users to the "Have you found a course" screen
-- Selecting "No" takes users to the review page
-- The no text includes "not at the moment" as this action is not final, users can add more later (before they submit)
-- Guidance on 3 courses has been removed from the review screen in favour of the prompt
+* After adding first and second choices, we show them a prompt (this includes after adding from Find)
+* After adding a third choice, we take them straight to the review screen
+* Selecting "Add another course" takes users to the "Have you found a course" screen
+* Selecting "No" takes users to the review page
+* The no text includes "not at the moment" as this action is not final, users can add more later (before they submit)
+* Guidance on 3 courses has been removed from the review screen in favour of the prompt
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "Add another course",
-      img: { src: "01-add-another-course.png" }
-    }, {
-      text: "Add another course one left",
-      img: { src: "02-add-another-course-one-left.png" }
-    }, {
-      text: "Course choices review",
-      img: { src: "03-course-choices-review.png" }
-    }]
+    text: "Add another course",
+    img: { src: "01-add-another-course.png" }
+  }, {
+    text: "Add another course one left",
+    img: { src: "02-add-another-course-one-left.png" }
+  }, {
+    text: "Course choices review",
+    img: { src: "03-course-choices-review.png" }
+  }]
 }) }}

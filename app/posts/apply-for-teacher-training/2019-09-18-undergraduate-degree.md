@@ -7,6 +7,7 @@ related:
   - text: Pull request
     href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/167
 ---
+
 A candidate’s undergraudate degree is the most important one. It’s what determines eligibity for postgraduate teacher training.
 
 In research users have entered their most recent degree, not their first one. They have also not entered all of their degrees.

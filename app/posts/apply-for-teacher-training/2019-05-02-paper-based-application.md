@@ -3,6 +3,7 @@ title: Prototyping with paper-based application forms
 description: Testing hypotheses and preparing for a concierged service.
 date: 2019-05-02
 ---
+
 Before building a fully DfE operated apply service, we wanted to test certain elements of an end-to-end minimum viable product. We began with a series of hypotheses, two of which related to the design of the application form and the information given to providers. These hypotheses were:
 
 * A simplified service does not impede provider decision-making

@@ -10,6 +10,7 @@ related:
       Password: `batapply1`
     href: https://bat-apply-prototype.herokuapp.com
 ---
+
 Our designer Faz looked at capturing the same fields needed in the UCAS process but by using the GOV.UK design patterns.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

@@ -1,7 +1,7 @@
 ---
 title: What needs to change if you’re applying again
-description: What guidance, content and designs need to be tweaked when we build Apply 2
-date: 2020-03-17
+description: What guidance, content and designs need to be tweaked when we build Apply 2.
+date: 2020-03-23
 related:
   items:
     - text: Review in a Google Doc
@@ -11,14 +11,15 @@ related:
     - text: Initial prototype PR
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/363
 ---
+
 A review of the service, [following our initial designs](/apply-for-teacher-training/apply-again), looking for anything we have missed that might need to change when we build Apply 2.
 
 This does not include [things we already know about](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/363):
 
-- linking to starting a new application in emails and dashboard
-- the interstitial for starting a new application
-- reviewing previous applications once you’ve started a new application
-- course choices referring to 1 choice rather than 3
+* linking to starting a new application in emails and dashboard
+* the interstitial for starting a new application
+* reviewing previous applications once you’ve started a new application
+* course choices referring to 1 choice rather than 3
 
 ## Candidate interface
 
@@ -28,9 +29,9 @@ When you apply to a primary course you need to have a GCSE grade C or above in S
 
 The guidance for subject knowledge will be different for primary. Consider candidates that apply to:
 
-- primary courses in Apply 1, secondary course in Apply 2
-- secondary courses in Apply 1, primary course in Apply 2
-- mixed primary and secondary courses in Apply 1
+* primary courses in Apply 1, secondary course in Apply 2
+* secondary courses in Apply 1, primary course in Apply 2
+* mixed primary and secondary courses in Apply 1
 
 Do we need to flag this? When would we flag it? How would we flag the changes needed to their subject knowledge section?
 
@@ -46,9 +47,9 @@ If we implement tailoring, we will need to consider how tailored applications ge
 
 Needs will depend on where and when you are applying. When they apply again:
 
-- any dates entered before may no longer be relevant
-- new dates they are unavailable might need to be added
-- locations might be different – they might be travelling much further for this interview (for example – a provider that wasn’t their first choice because it was further away)
+* any dates entered before may no longer be relevant
+* new dates they are unavailable might need to be added
+* locations might be different – they might be travelling much further for this interview (for example – a provider that wasn’t their first choice because it was further away)
 
 Should we still prefill this section?
 Should we flag it for review?
@@ -73,8 +74,8 @@ Is this page still relevant? Will we keep the 5 day window? How would we update 
 
 ### Dashboard
 
-- “Courses you’ve applied to” should be singular
-- “All your training providers have now reached a decision” should also be singular
+* “Courses you’ve applied to” should be singular
+* “All your training providers have now reached a decision” should also be singular
 
 ### Accepting or rejecting offers
 
@@ -86,9 +87,9 @@ Is this page still relevant? Will we keep the 5 day window? How would we update 
 
 ### Application submitted email
 
-- might need to remove the section on Amending, if we’re not doing the 5 day thing
-- withdrawn courses needs to be singular, also remove (s)
-- if the candidate kept their references, we shouldn’t include the references section
+* might need to remove the section on Amending, if we’re not doing the 5 day thing
+* withdrawn courses needs to be singular, also remove (s)
+* if the candidate kept their references, we shouldn’t include the references section
 
 ### Rejected email
 
@@ -98,12 +99,12 @@ Update the Apply for more courses section or remove altogether if a separate ema
 
 ## Tickets created from this review
 
-- https://trello.com/c/wbmtsFzn/1233-apply-2-show-journey-for-completing-equality-questionnaire-when-answers-already-given
-- https://trello.com/c/oEMPAxzK/1235-dev-add-logic-to-pluralize-training-providers-on-you-submitted-your-application-page
-- https://trello.com/c/2i3hw1lz/1234-apply-2-update-references-guidance-on-you-submitted-your-application-page
-- https://trello.com/c/oEMPAxzK/1235-dev-add-logic-to-pluralize-training-providers-on-dashboard
-- https://trello.com/c/FNV1k2V8/1237-apply-2-update-guidance-on-accepting-or-rejecting-offers
-- https://trello.com/c/0rkgjeLO/1238-apply-2-anything-else-does-that-get-pre-filled
-- https://trello.com/c/CnYMXzRi/1239-apply-2-do-we-pre-fill-or-flag-interview-needs
-- https://trello.com/c/VdV5CGhz/1240-apply-2-how-do-we-handle-choosing-different-subjects-or-phases-in-apply-2
-- https://trello.com/c/oa6PiYAq/1241-apply-2-update-application-submitted-and-application-rejected-emails
+* https://trello.com/c/wbmtsFzn/1233-apply-2-show-journey-for-completing-equality-questionnaire-when-answers-already-given
+* https://trello.com/c/oEMPAxzK/1235-dev-add-logic-to-pluralize-training-providers-on-you-submitted-your-application-page
+* https://trello.com/c/2i3hw1lz/1234-apply-2-update-references-guidance-on-you-submitted-your-application-page
+* https://trello.com/c/oEMPAxzK/1235-dev-add-logic-to-pluralize-training-providers-on-dashboard
+* https://trello.com/c/FNV1k2V8/1237-apply-2-update-guidance-on-accepting-or-rejecting-offers
+* https://trello.com/c/0rkgjeLO/1238-apply-2-anything-else-does-that-get-pre-filled
+* https://trello.com/c/CnYMXzRi/1239-apply-2-do-we-pre-fill-or-flag-interview-needs
+* https://trello.com/c/VdV5CGhz/1240-apply-2-how-do-we-handle-choosing-different-subjects-or-phases-in-apply-2
+* https://trello.com/c/oa6PiYAq/1241-apply-2-update-application-submitted-and-application-rejected-emails

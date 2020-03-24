@@ -1,6 +1,6 @@
 ---
 title: Giving details about disability (iteration)
-description: An iteration of the disability section
+description: An iteration of the disability section.
 date: 2020-02-11
 tags:
 - AN007
@@ -11,6 +11,7 @@ related:
     - text: 'Provider research playback'
       href: https://docs.google.com/presentation/d/1Im8T9MkiuyvPnkHa4tOeZU9M-Sl_E10Zkv2mrn6lEJY/edit#slide=id.p
 ---
+
 This design is [an iteration of the question as designed for the pilot](/apply-for-teacher-training/training-with-a-disability). This question was removed prior to launch due to a lack of confidence in how we were asking a sensitive and possibly contentious question.
 
 ## User needs

@@ -1,7 +1,8 @@
 ---
 title: Work history
-description: Adding work history and explaining gaps
+description: Adding work history and explaining gaps.
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [

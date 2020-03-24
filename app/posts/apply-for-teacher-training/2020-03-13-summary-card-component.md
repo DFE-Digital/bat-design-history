@@ -8,6 +8,7 @@ related:
     description: Discussion about this component on the GOV.UK Design System Community Backlog
     href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
 ---
+
 {% from "gallery/macro.njk" import appGallery with context %}
 {% from "figure/macro.njk" import appFigure with context %}
 

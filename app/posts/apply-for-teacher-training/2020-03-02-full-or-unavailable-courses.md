@@ -1,6 +1,6 @@
 ---
 title: Stop applications to full or unavailable courses
-description: Prevent them from adding a full course, or submitting with a full course
+description: Prevent them from adding a full course, or submitting with a full course.
 date: 2020-03-02
 related:
   items:
@@ -49,9 +49,9 @@ If we let them find the course, but tell them why they can’t apply to it, they
 We need to stop candidates from applying to courses that can’t accept them.
 
 Either:
-- the course is now full
-- the location is full
-- [the course has been withdrawn](/publish-teacher-training-courses/deleting-and-withdrawing) (maybe it’s no longer running, or was published by mistake)
+* the course is now full
+* the location is full
+* [the course has been withdrawn](/publish-teacher-training-courses/deleting-and-withdrawing) (maybe it’s no longer running, or was published by mistake)
 
 {{ appUserNeeds({ items: collections['user-need'] | slugs(['AN019'])}) }}
 
@@ -74,13 +74,13 @@ If we give candidates the contact details for a provider, they will contact the 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "Try to add a course that’s full",
-      img: { src: "01-try-to-add-a-course-thats-full.png" }
-    }, {
-      text: "Review application with full or unavailable courses",
-      img: { src: "02-review-application-with-full-or-unavailable-courses.png" }
-    }, {
-      text: "Try to continue with full or unavailable courses",
-      img: { src: "03-try-to-continue-with-full-or-unavailable-courses.png" }
-    }]
+    text: "Try to add a course that’s full",
+    img: { src: "01-try-to-add-a-course-thats-full.png" }
+  }, {
+    text: "Review application with full or unavailable courses",
+    img: { src: "02-review-application-with-full-or-unavailable-courses.png" }
+  }, {
+    text: "Try to continue with full or unavailable courses",
+    img: { src: "03-try-to-continue-with-full-or-unavailable-courses.png" }
+  }]
 }) }}
