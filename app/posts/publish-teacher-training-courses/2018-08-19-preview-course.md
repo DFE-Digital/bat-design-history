@@ -3,6 +3,7 @@ title: Preview course
 description: Different preview states depending on course type and state.
 date: 2018-08-19
 ---
+
 Screenshots showing different preview states based on type and completeness of course.
 
 The [prototype preview logic](https://github.com/fofr/manage-courses-prototype/blob/master/app/views/preview.html) may also help when building this.

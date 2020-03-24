@@ -3,6 +3,7 @@ title: Iteration 28 June 2018
 description: Add character counts and refine preview.
 date: 2018-06-28
 ---
+
 As with the [previous iteration](/publish-teacher-training-courses/iteration-june-26), we ran an unmoderated research session with this design where we asked providers to complete a course listing, the user recorded their input to a [session on Lookback](https://lookback.io/watch/ACpaee3SkiuGxS5CD).
 
 In this iteration we:

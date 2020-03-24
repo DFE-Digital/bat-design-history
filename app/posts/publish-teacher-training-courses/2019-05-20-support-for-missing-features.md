@@ -3,6 +3,7 @@ title: Support for missing features
 description: Filling the gap left by unbuilt features.
 date: 2019-05-20
 ---
+
 Because of the UCAS transition timescales [we’ve shipped without required features](/publish-teacher-training-courses/shipped-for-transition).
 
 ## Make it easier to contact support

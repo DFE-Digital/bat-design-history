@@ -3,6 +3,7 @@ title: Type of location MVP
 description: A quick way to indicate if a location is an area or an address.
 date: 2019-04-15
 ---
+
 A quick way to indicate if a location is an area or an address.
 
 Some providers use the UCAS training locations to indicate a region or area, e.g. United Learning Sussex.

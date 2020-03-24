@@ -3,6 +3,7 @@ title: Minimum course requirements – iterations
 description: A view of how the minimum requirements design has been iterated since December.
 date: 2019-03-24
 ---
+
 Progression of the minimum requirements page design:
 
 * Started with a subject choice and a sensible default

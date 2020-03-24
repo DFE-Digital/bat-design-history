@@ -3,6 +3,7 @@ title: Tabs on course pages
 description: Splitting course details and enrichments.
 date: 2019-03-20
 ---
+
 An iteration on [the previous design](#old-course-design) where course details and enrichments were shown together.
 
 When updating course details, if the course has been published, the changes will be immediate. Showing this information alongside content that needs to be re-published if it changes creates a conflict.

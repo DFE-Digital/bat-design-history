@@ -3,6 +3,7 @@ title: Onboarding workflow and wizard
 description: How does the onboarding process look after UCAS transition?
 date: 2019-02-26
 ---
+
 ## Current process
 
 UCAS receives a spreadsheet of providers from allocations, they use that sheet to determine which providers are new, or are new lead schools, and they begin their onboarding process – a welcome email and an onboarding call to talk them through web-link.

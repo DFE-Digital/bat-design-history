@@ -1,6 +1,6 @@
 ---
 title: Accredited bodies research - Reporting round 2
-description: Continued research with accredited bodies to determine reporting needs
+description: Continued research with accredited bodies to determine reporting needs.
 date: 2019-10-22
 related:
   items:
@@ -9,6 +9,7 @@ related:
   - text: Research playback
     href: https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g75687fc910_0_119
 ---
+
 Round 2 was a continuation of the research started in [Accredited Bodies Research Round 1](/publish-teacher-training-courses/accredited-bodies-research-round-1) where we hoped to gain further insights into the needs of accredited bodies around reporting.
 
 ## Findings
@@ -69,9 +70,8 @@ There is a need to see what courses have been created and published.
 
 ## Research Summary
 
-* Accredited bodies need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system 
+* Accredited bodies need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system
 * There is a student information system which pulls applications and pushes data from UCAS. This is an automatic process.
 * Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in staging area which is when the application from UCAS can’t match up with offerings in the Accredited Bodies SITS system.
 * Accredited bodies need an alert/notification design that tells them of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
 * There is a need to be able to compare allocations with Accredited body reports to ensure courses are set up correctly.
-

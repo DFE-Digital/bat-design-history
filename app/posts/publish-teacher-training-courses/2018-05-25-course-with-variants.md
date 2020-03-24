@@ -3,6 +3,7 @@ title: Course with variants and field guidance
 description: Exploration of a course page with fields to capture variants of a course and the differences between them.
 date: 2018-05-25
 ---
+
 Exploration of a course page with fields to capture variants of a course and the differences between them.
 
 Based on UCAS course descriptions it’s often unclear how courses vary between qualification, funding, subject and accrediting provider – use fields on a course page to prompt providers to indicate these differences, helping candidates make an informed choice.

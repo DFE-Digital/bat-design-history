@@ -3,6 +3,7 @@ title: "Sign-in: User registers themself"
 description: We send users a sign-up link so they can register and then be forwarded on to our service.
 date: 2018-05-31
 ---
+
 We send users a sign-up link so they can register and then be forwarded on to our service.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

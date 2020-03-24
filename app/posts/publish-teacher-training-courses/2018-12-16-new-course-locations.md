@@ -3,6 +3,7 @@ title: New course wizard – Training locations
 description: Choosing training locations from the new course wizard.
 date: 2018-12-16
 ---
+
 For providers with multiple training locations we need to ask them which of those locations the course will be running at. Otherwise we can default to their only location.
 
 Providers might want to add locations at this stage, if this need arises we’ll accommodate it.

@@ -1,6 +1,6 @@
 ---
 title: Accredited bodies research - Round 3
-description: Research on the role of accredited bodies and their relationships with their partner schools
+description: Research on the role of accredited bodies and their relationships with their partner schools.
 date: 2019-11-01
 related:
   items:
@@ -9,7 +9,8 @@ related:
   - text: Research playback
     href: https://docs.google.com/presentation/d/1tt_QwL2cU7fpZ9pg4JywENfJGp66DBWtkfTqiBYsLEY/edit#slide=id.g75932c5169_0_62
 ---
-Round 3 is a continuation of the research started in [Accredited Bodies Research Round 1](/publish-teacher-training-courses/accredited-bodies-research-round-1) and [Round 2](/publish-teacher-training-courses/accredited-bodies-research-round-2). This round examines the role of accredited bodies and their relationships with their partner schools. 
+
+Round 3 is a continuation of the research started in [Accredited Bodies Research Round 1](/publish-teacher-training-courses/accredited-bodies-research-round-1) and [Round 2](/publish-teacher-training-courses/accredited-bodies-research-round-2). This round examines the role of accredited bodies and their relationships with their partner schools.
 
 ## Findings
 
@@ -20,7 +21,7 @@ Round 3 is a continuation of the research started in [Accredited Bodies Research
 * Organisations map out codes themselves eg Location in School A on UCAS will be assigned to Code X in one organisation’s SRS and Code Z in a different organisation with the same location. This can make integration difficult.
 * Providers need CSVs for multiple reasons. They need to check against allocations spreadsheets, use spreadsheets to share data themsleves as there is no single access point and alos for data manipulation.
 
-### Why do accredited bodies need course information  
+### Why do accredited bodies need course information
 
 >"We need to know because we are accountable for all the courses that we accredit. There is a reputational risk if we don’t have access [to the information]."
 

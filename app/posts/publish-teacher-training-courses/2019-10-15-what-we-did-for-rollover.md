@@ -3,6 +3,7 @@ title: Rollover – what we did in 2019
 description: How we handled our first rollover period.
 date: 2019-10-15
 ---
+
 ## What is rollover?
 
 Rollover is the process of copying courses from the current cycle to the next.

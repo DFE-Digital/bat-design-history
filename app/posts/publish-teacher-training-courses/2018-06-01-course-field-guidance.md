@@ -3,6 +3,7 @@ title: Contextual guidance on course fields
 description: A first pass at providing some guidance for each course field. Starting from the original onboarding guidance.
 date: 2018-06-01
 ---
+
 A first pass at providing some guidance for each course field. Starting from the original onboarding guidance.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

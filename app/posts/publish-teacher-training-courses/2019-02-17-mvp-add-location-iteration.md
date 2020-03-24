@@ -3,6 +3,7 @@ title: Add a location – 13 February iteration
 description: Clarify the purpose of locations.
 date: 2019-02-17
 ---
+
 The term ‘training locations’ is ambiguous.
 
 Providers can misinterpret what ‘training locations’ should mean. The data we want to capture is specifically a set of locations that candidates will choose between when they apply.

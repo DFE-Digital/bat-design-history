@@ -3,6 +3,7 @@ title: Courses as an accredited body
 description: See which courses you’re the accredited body for.
 date: 2019-05-22
 ---
+
 There is a need for accredited bodies to see the courses they are associated with. UCAS web-link used to give them a read-only view of all courses – running or not, as well as a CSV export of the data.
 
 A provider can currently see all published courses they’re the accredited body for on Find ([Example](https://find-postgraduate-teacher-training.education.gov.uk/results?page=3&l=3&query=The%20University%20of%20Warwick&qualifications=QtsOnly,PgdePgceWithQts,Other&fulltime=False&parttime=False&hasvacancies=True&senCourses=False)). We could link to this view as a quick fix.
