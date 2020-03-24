@@ -1,6 +1,6 @@
 ---
 title: Adding users
-description: First iteration of letting users invite other users to their organisation(s) to help manage applications
+description: First iteration of letting users invite other users to their organisation(s) to help manage applications.
 date: 2020-01-27
 tags: awaiting-validation
 ---
@@ -14,7 +14,7 @@ Currently there's no way for a user to add users to their organisation. The curr
 If we let users invite colleagues to their organisation(s)
 Then they'll be able to add users quickly without having to rely on support agents
 We’ll know this works when:
-- new users are created without the help of a support agent
+* new users are created without the help of a support agent
 
 ## Design notes
 
@@ -30,17 +30,13 @@ The ‘Users’ section in the navigation menu only appears if the user can mana
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "User list",
-      caption: "The provider column disappears if the user is part of just one organisation."
-    },
-    {
-      text: "Add new user",
-      caption: "The provider checkboxes disappear if the user is part of just one organisation."
-    },
-    {
-      text: "Success message"
-    }
-  ]
+  items: [{
+    text: "User list",
+    caption: "The provider column disappears if the user is part of just one organisation."
+  }, {
+    text: "Add new user",
+    caption: "The provider checkboxes disappear if the user is part of just one organisation."
+  }, {
+    text: "Success message"
+  }]
 }) }}

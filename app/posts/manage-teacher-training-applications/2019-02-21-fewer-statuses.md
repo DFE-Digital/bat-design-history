@@ -11,6 +11,7 @@ related:
   - text: Minimal and maximal statuses
     href: https://docs.google.com/document/d/1qQOvPcnvskyvwaTqtEUD2CAZjKfcYr7v0rlK_kcDhaA
 ---
+
 A minimum viable service that could allow the providers to access and manage their ITT applications.
 
 The team thought the statuses were not relevant so came up with a minimal set of statuses for an application.

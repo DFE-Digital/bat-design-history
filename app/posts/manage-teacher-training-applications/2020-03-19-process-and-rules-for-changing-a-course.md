@@ -1,6 +1,6 @@
 ---
 title: Process and rules for changing a course
-description: Process that providers follow when changing a candidate’s course
+description: Process that providers follow when changing a candidate’s course.
 date: 2020-03-19
 ---
 
@@ -57,4 +57,3 @@ They can only change an unconditional offer with the candidate’s full agreemen
 If the provider agrees, they contact UCAS and record a decline decision in web-link. The candidate can apply elsewhere using Apply 2.
 
 If the provider doesn't agree and the candidate still doesn't want to take up that training programme, the provider uses the 'confirmation withdrawal' decision to completely withdraw their application and bar the candidate from applying again in the cycle—can't go to Apply 2.
-

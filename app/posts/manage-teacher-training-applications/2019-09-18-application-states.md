@@ -3,6 +3,7 @@ title: Application states
 description: Create new states with filters.
 date: 2019-09-18
 ---
+
 [Pull request](https://github.com/DFE-Digital/manage-teacher-training-applications-prototype/pull/2)
 
 A quick update to expand the 4 states in the August 2019 prototype to better represent all states an application can be in.

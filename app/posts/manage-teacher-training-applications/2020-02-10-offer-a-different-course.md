@@ -1,6 +1,6 @@
 ---
 title: Offer a different course
-description: First iteration of making an offer to a different course
+description: First iteration of making an offer to a different course.
 date: 2020-02-10
 tags:
 - awaiting-validation
@@ -18,33 +18,23 @@ This option to make an offer to a different course would be available when the a
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Details page"
-    },
-    {
-      text: "Edit response"
-    },
-    {
-      text: "Make a different offer"
-    },
-    {
-      text: "Change provider"
-    },
-    {
-      text: "Change course"
-    },
-    {
-      text: "Change location"
-    },
-    {
-      text: "Change conditions"
-    },
-    {
-      text: "Confirm new offer"
-    },
-    {
-      text: "Flash message"
-    }
-  ]
+  items: [{
+    text: "Details page"
+  }, {
+    text: "Edit response"
+  }, {
+    text: "Make a different offer"
+  }, {
+    text: "Change provider"
+  }, {
+    text: "Change course"
+  }, {
+    text: "Change location"
+  }, {
+    text: "Change conditions"
+  }, {
+    text: "Confirm new offer"
+  }, {
+    text: "Flash message"
+  }]
 }) }}

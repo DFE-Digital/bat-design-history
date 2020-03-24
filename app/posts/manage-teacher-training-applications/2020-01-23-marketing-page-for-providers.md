@@ -1,6 +1,6 @@
 ---
 title: Marketing page for providers
-description: A page selling the benefits of joining the Apply pilot
+description: A page selling the benefits of joining the Apply pilot.
 date: 2020-01-23
 related:
   items:
