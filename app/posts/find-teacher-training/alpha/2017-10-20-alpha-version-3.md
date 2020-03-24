@@ -2,6 +2,7 @@
 title: Alpha version 3
 date: 2017-10-20
 ---
+
 [Version 3 prototype](https://search-and-compare-alpha.herokuapp.com/v03/)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

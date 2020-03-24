@@ -3,6 +3,7 @@ title: Just the UCAS data
 description: What an absolute minimum viable service might look like.
 date: 2018-07-20
 ---
+
 To deliver a viable service by October we are aggressively reducing scope, limiting many features to their irreducible core. When we have built the minimum viable service, we can begin to improve on features to better meet user needs. This is being tracked using a [Story map in Trello](https://trello.com/b/9fCxMchD/bat-search-story-map).
 
 To visualise what that service might look like, this is a design which uses:

@@ -4,6 +4,7 @@ description: Map based on code written during alpha/private-beta with some recen
 date: 2018-10-06
 tags: maps
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
