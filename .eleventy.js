@@ -32,12 +32,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('totalFromRows', require('./lib/filters/total-from-rows'))
 
   // Passthrough
-  eleventyConfig.addPassthroughCopy('./app/admin/config.yml');
-  eleventyConfig.addPassthroughCopy('./app/admin/logo.svg');
-  eleventyConfig.addPassthroughCopy('./app/admin/preview.js');
   eleventyConfig.addPassthroughCopy('./app/documents');
   eleventyConfig.addPassthroughCopy('./app/images');
-  eleventyConfig.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
 
   // Enable data deep merge
   eleventyConfig.setDataDeepMerge(true);
