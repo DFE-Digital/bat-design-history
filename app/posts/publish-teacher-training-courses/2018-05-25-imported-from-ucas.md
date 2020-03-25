@@ -14,11 +14,11 @@ Assumptions about content we will receive from UCAS based on [existing course da
 * The route – school direct, school direct salaried, SCITT or higher education
 * The qualification but [with caveats](/publish-teacher-training-courses/course-with-variants#course) (QTS, Postgraduate, Professional)
 * Campuses/locations associated with each course:
-    * Name
-    * Campus code
-    * Full or part time vacancies
-    * Address or region
-    * Applications open date
+  * Name
+  * Campus code
+  * Full or part time vacancies
+  * Address or region
+  * Applications open date
 * Course start month (not day)
 * Accrediting provider
 * Training provider name

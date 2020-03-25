@@ -34,11 +34,10 @@ Requests for additional PE places (PE with EBacc subject) were captured in [a se
 
 This email was sent to ITT providers and lead schools.
 
-{% set RequestForAllocations %}
-
+{% set requestForAllocations %}
 Dear Colleague
 
-### Initial Teacher Training (ITT) 2020 Recruitment: Requesting permission to recruit to unlimited courses and requesting places in allocated courses.
+### Initial Teacher Training (ITT) 2020 Recruitment: Requesting permission to recruit to unlimited courses and requesting places in allocated courses
 
 Providers and lead schools have until 12 July to submit requests for permission to recruit to unlimited courses and request allocations for allocated courses for ITT2020 (academic year 2020/21).
 
@@ -47,6 +46,7 @@ Please read the full guidance: [Requesting initial teacher training places.](htt
 As set out in the [Teacher Recruitment and Retention Strategy](https://www.gov.uk/government/publications/teacher-recruitment-and-retention-strategy), recruitment to all postgraduate ITT courses will remain unlimited for ITT2020 and ITT2021, with the exception of PE (fee-funded) routes.
 
 This year, the request process will be different:
+
 * Lead schools must register by completing and returning the Lead school registration template to DfE.
 * Lead schools should also enter their School Direct and Postgraduate Teaching Apprenticeship (PGTA) requests to the requests template and pass on to their ITT provider, who will submit to DfE on their behalf.
 * ITT providers should enter their Provider-led and undergraduate requests onto their request template.
@@ -86,13 +86,12 @@ For further enquiries, please contact the [ITT Recruitment & Allocations Team](m
 Kind regards
 
 ITT Recruitment & Allocations Team
-
 {% endset %}
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
   subject: "Requesting Initial Teacher Training places 2020 to 2021",
-  content: RequestForAllocations
+  content: requestForAllocations
 }) }}
 
 ## Email to providers 2 (Reminder)
@@ -103,7 +102,7 @@ The Allocations team sent a reminder in early July.
 
 Dear Colleague
 
-###  Reminder to request permission to recruit for ITT2020
+### Reminder to request permission to recruit for ITT2020
 
 All ITT providers and lead schools should complete the actions listed below before midday on 12 July in order to request places for ITT2020. You must request permission to recruit so that your courses can be listed as open for recruitment on ‘Find postgraduate teacher training’ and UCAS, and to access any DfE funding associated with training places.
 
@@ -140,7 +139,7 @@ To request permission to recruit, you were required to:
 * Be an accredited ITT provider, or meet the eligibility criteria required to act as a School Direct lead school (i.e. a Good or Outstanding Ofsted rating, and a minimum of five schools in a School Direct partnership)
 * Complete and submit the request template to DfE, with all the courses you planned to deliver for ITT2020 and, if applicable, the Lead School Registration template via ITT providers
 
-### All eligible ITT providers and lead schools that submitted requests have been granted permission to recruit for ITT2020.
+### All eligible ITT providers and lead schools that submitted requests have been granted permission to recruit for ITT2020
 
 Permission to recruit has been issued in two categories:
 

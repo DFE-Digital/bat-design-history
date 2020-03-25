@@ -8,6 +8,7 @@ Testing with users in the [middle of the digital inclusion scale](https://www.go
 * [Research summary](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/301596673/15th+Round+-+26th+April)
 * [Discussion guide](https://docs.google.com/document/d/12-FAWM0O5FxnodMo2B_1t4y88iOWSPqTZALVfhNC1Tc/edit)
 
+<!-- markdownlint-disable MD024 -->
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
@@ -16,7 +17,7 @@ Testing with users in the [middle of the digital inclusion scale](https://www.go
   }, {
     text: "Search by provider",
     img: { src: "search-by-provider.png" },
-    caption: "Trial improved training provider copy
+    caption: "Trial improved training provider copy.
 
 ### Result
 
@@ -64,9 +65,9 @@ Work is still needed to standardise course titles in the data."
     img: { src: "no-search-results.png" },
     caption: "With private beta data and a limited number of courses we found users often filtered themselves into a no results view ([BATSA-217](https://dfedigital.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=BATSA&modal=detail&selectedIssue=BATSA-217)).
 
-As a user without any nearby courses I need to see the next closest ones so that I can still apply to the most appropriate courses
+As a user without any nearby courses I need to see the next closest ones so that I can still apply to the most appropriate courses.
 
-As a user with no nearby courses with financial support I need to see my alternatives so that I can still apply to the most appropriate courses
+As a user with no nearby courses with financial support I need to see my alternatives so that I can still apply to the most appropriate courses.
 
 In this round we trialled a ‘suggested searches’ view. We wanted to indicate to users that their search was too constrained and that more results were available.
 

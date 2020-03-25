@@ -5,6 +5,7 @@ date: 2018-05-10
 tags: find-private-beta
 ---
 
+<!-- markdownlint-disable MD024 -->
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{

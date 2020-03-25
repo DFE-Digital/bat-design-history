@@ -34,6 +34,7 @@ Aiming to test:
 
 We [iterated this design](/find-teacher-training/mvp-iteration-jul-25) during research.
 
+<!-- markdownlint-disable MD024 -->
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{

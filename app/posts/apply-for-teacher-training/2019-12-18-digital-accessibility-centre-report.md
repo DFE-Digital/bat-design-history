@@ -11,6 +11,7 @@ An accessibility audit of the candidate, provider and support pages was carried 
 [Full report (PDF)](https://drive.google.com/file/d/1-cFyRAfUMLNVQRvGb0Bfrnv39CjbVkLj/view?usp=sharing)
 
 Screenshots of the service they used:
+
 * [Candidate](/apply-for-teacher-training/apply-launch)
 * [Provider](/manage-teacher-training-applications/as-launched-26-nov-2019)
 

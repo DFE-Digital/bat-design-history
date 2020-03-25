@@ -41,8 +41,7 @@ Some referees may not want to, or be able to give a reference. This slows down t
 
 If we let users tell us that they won't give a reference
 Then we'll be able to notify the candidate and get another referee quickly
-We‘ll know this works when:
-* referees click the refuse link in the email and confirm their refusal
+We‘ll know this works when referees click the refuse link in the email and confirm their refusal
 
 ### One big text box for the reference
 
@@ -54,16 +53,17 @@ We also don’t have enough confidence in the 1 to 10 scales, which providers de
 
 If we let users enter everything into 1 big text box
 Then we'll be able to see what problems arise with referees and providers
-We’ll know this works when:
-* providers successfully use the references given to make decisions
+We’ll know this works when providers successfully use the references given to make decisions
 
 ## Findings from providers
 
 Providers use references to build an overall picture of candidates, validate application information and to comply with safeguarding requirements.
 
 90% of providers rated the guidance we give to referees as ‘good’ or ‘excellent’,
-* “Very clear and concise and helps with decision on suitability for teaching”
-* “Think it is a great guide. Nearly all the prompts that I would be looking for are there.”
+
+> Very clear and concise and helps with decision on suitability for teaching
+
+> Think it is a great guide. Nearly all the prompts that I would be looking for are there.
 
 Providers need referees to clarify that candidates are safe to work with children to comply with safeguarding requirements. This was a noted omission.
 

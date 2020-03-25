@@ -30,10 +30,9 @@ In round 1 we hoped to better understand the reporting needs of accredited bodie
 
 ### Need for reporting and alerts
 
-_"I think it would be useful [auto email with report] but there are also going to be periods of the year where there’s nothing. It’s important for us to be reactive to any change… But it would still be a very useful thing [the report] for us to have because if for any reason we’ve missed any change, one notification, it will be picked up every so often by us being sent a sort of status report."_
+> I think it would be useful [auto email with report] but there are also going to be periods of the year where there’s nothing. It’s important for us to be reactive to any change… But it would still be a very useful thing [the report] for us to have because if for any reason we’ve missed any change, one notification, it will be picked up every so often by us being sent a sort of status report.
 
-_"I think that they [UCAS] relied on the notifications rather than sending out a lot of data. If we could do both, we could have the ability to have reports that we can look at in terms of ‘this is our entire provision’ as well as notifications, that would be the best of both worlds."_
-
+> I think that they [UCAS] relied on the notifications rather than sending out a lot of data. If we could do both, we could have the ability to have reports that we can look at in terms of ‘this is our entire provision’ as well as notifications, that would be the best of both worlds.
 
 ### The transition to Publish has created issues
 
