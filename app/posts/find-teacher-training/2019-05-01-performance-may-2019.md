@@ -32,6 +32,7 @@ As mentioned above, in order to analyse drop off points in the service, we need 
 * People move forwards, backwards or decide not to progress in their journey
 
 Our three personas can be defined as follows:
+
 * A surfer: a user who has little knowledge of teacher training, who hits the site to perform a rough exploration of the tool and its results.
 * A knowledge explorer: they have knowledge of the profession, but not of the options available and want to perform in depth searches to unpick their needs and identify the right types of providers, courses and financial options.
 * An information seeker: they realise they need more information and jump off - going on to provider websites, back to get into teaching or to seek advice from a TTA.
@@ -74,6 +75,7 @@ For a large proportion of information seekers, like with the surfer, we currentl
 ### Success criteria
 
 As a reminder, a successful journey is defined as, a user who:
+
 * visits at least one course details page, or
 * clicks through to any external link on the service (e.g. Get into Teaching or UCAS Apply).
 

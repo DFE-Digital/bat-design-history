@@ -29,6 +29,7 @@ After the teaching profile had been completed, users would then see an option to
 
 Guiding users through lengthier sections of their profile
 Building a digital version of the teaching profile meant we could think about how we guide users through some of its more complex sections. For qualifications, work history, school experience and reference sections, we used the following pattern:
+
 * Provide some introductory guidance about what the section is for, and how the information will be used
 * Ask candidates to add the relevant items (a qualification, a role, a job, a referee) one at a time
 * Present an overview of the entered information, allowing them to review and edit their answers.
@@ -36,6 +37,7 @@ Building a digital version of the teaching profile meant we could think about ho
 ## Collecting structured responses
 
 Building a digital form meant we could consider how to collect structured responses instead of free text answers. For example:
+
 * UK-based applicants could use an address look-up service, and choose from a list of addresses based on their postcode
 * Country/nationality questions could use an autocomplete input field, allowing applicants to choose from a predetermined list
 * For UK-awarded degrees, we could provide a list of common degree awards (First, Upper second, etc.)

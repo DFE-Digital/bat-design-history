@@ -7,6 +7,7 @@ date: 2019-03-26
 ## What is the problem?
 
 There are a number of courses offered by providers that combine two discrete subjects into a single course. For example:
+
 * English and Media (38PP) - University of Sussex
 * Drama (with English) (2N9G) - Middlesex University
 * Media Studies (with English) (2VQZ) - The Royal Greenwich Teaching School Alliance
@@ -17,6 +18,7 @@ This is due to the fact that there have not been consistent naming conventions i
 Currently, Find presents bursary information automatically, choosing the higher bursary of any subject the course is tagged with.
 
 The impact of this is two-part:
+
 * Candidates are unclear what bursaries are available to them
 * The Department does not know what bursary payment to make to the candidate
 
@@ -39,6 +41,7 @@ Policy teams indicated that the decision about offering bursaries for subject an
 Any complications are settled on a case by case basis between the Funding team and the provider in question. The impact here is on the candidate, not the Department or the provider. However, as mentioned above, the responsibility rests with the provider when setting up the course.
 
 As a result, to be able to offer (assess for, in policy speak) a bursary, a provider must:
+
 * have allocations to the subject in question
 * register a training position as the subject that holds the bursary
 
@@ -47,6 +50,7 @@ They must, in this instance, provide evidence that the course content contained 
 ## Re-scoping the problem
 
 Due to the feedback from policy, the team decided to focus on the problem that derived from our logic. This could be categorised as:
+
 * A ‘subject with subject’ course (for example, PE with Mathematics)
 * Where the first subject in the course title does not offer a bursary, but the second does
 
@@ -59,6 +63,7 @@ In total, we uncovered 17 courses from 6 unique providers that were [falsely adv
 We decided to deliver a quick fix to the problem and work with the financial incentives team longer term to improve the approach to assigning financial incentives information.
 
 As a short term solution, the team updated the financial incentives information to ‘eligible for student loans’ for:
+
 * Courses that contain ‘with’ in the title
 * Courses that start with: Drama, Media Studies, Physical Education and PE
 * Courses with more than one subject tag in the database

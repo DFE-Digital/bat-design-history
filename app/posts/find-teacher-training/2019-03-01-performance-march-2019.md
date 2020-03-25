@@ -55,6 +55,7 @@ The average user who finds a course page will visit at least 4 pages on the serv
 ### Successful journeys – building out a benchmark
 
 A successful journey is defined as, a user who:
+
 * visits at least one course details page, or
 * clicks through to any external link on the service (eg Get into Teaching or UCAS Apply)
 

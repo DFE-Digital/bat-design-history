@@ -47,12 +47,12 @@ A couple of providers echoed these concerns. For example, Bedfordshire Universit
 
 ### How will we know this works?
 
- We’ll know this works when:
+We’ll know this works when:
 
- * candidates have no difficulty filling out these sections of the application form
- * providers have a big picture of a candidate's work history
+* candidates have no difficulty filling out these sections of the application form
+* providers have a big picture of a candidate's work history
 
- We'll test the new content (refer to screenshots below) with users to see if we get the right results.
+We'll test the new content (refer to screenshots below) with users to see if we get the right results.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

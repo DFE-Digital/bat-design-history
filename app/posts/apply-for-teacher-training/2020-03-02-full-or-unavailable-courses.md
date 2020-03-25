@@ -49,6 +49,7 @@ If we let them find the course, but tell them why they can’t apply to it, they
 We need to stop candidates from applying to courses that can’t accept them.
 
 Either:
+
 * the course is now full
 * the location is full
 * [the course has been withdrawn](/publish-teacher-training-courses/deleting-and-withdrawing) (maybe it’s no longer running, or was published by mistake)

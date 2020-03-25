@@ -63,7 +63,7 @@ We need to show an error message at the top of the course page:
 
 ### This course needs attention in UCAS
 
-Candidates can’t apply to this course because no training location has a publish value set to ‘Yes’ in [UCAS web-link](#). This course will not appear in Find postgraduate teacher training.
+Candidates can’t apply to this course because no training location has a publish value set to ‘Yes’ in [UCAS web-link](https://www.ucas.com/sign-web-link). This course will not appear in Find postgraduate teacher training.
 
 To allow candidates to find and apply to this course, you must set the publish value of all currently running training locations to ‘Yes’.
 
@@ -73,7 +73,7 @@ We need to show a different error message at the top of the course page:
 
 ### Your training locations need attention in UCAS
 
-Training locations for this course are set to ‘Running’ in [UCAS web-link](#), but their publish value hasn’t been set to ‘Yes’.
+Training locations for this course are set to ‘Running’ in [UCAS web-link](https://www.ucas.com/sign-web-link), but their publish value hasn’t been set to ‘Yes’.
 
 These training locations will not appear in Find postgraduate teacher training:
 

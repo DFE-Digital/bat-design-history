@@ -13,8 +13,7 @@ Currently there's no way for a user to add users to their organisation. The curr
 
 If we let users invite colleagues to their organisation(s)
 Then they'll be able to add users quickly without having to rely on support agents
-We’ll know this works when:
-* new users are created without the help of a support agent
+We’ll know this works when new users are created without the help of a support agent
 
 ## Design notes
 

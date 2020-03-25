@@ -49,6 +49,7 @@ Providers interview before requesting a DBS check. Interviews will often involve
 Some universities disagree – this is feedback based on an early design where we asked explicitly about convictions (like UCAS do):
 
 > We do not undertake safeguarding obligations for interview. We do prior to placement in the school and ultimately continuation on the PGCE programme. We use enhanced DBS, check the Children's Barred List (list 99) and check the prohibition list. We found the [original] question on the form on safeguarding unhelpful. It would create more work as we would have to track what they answered and when, check that with their DBS outcome. What would the provider do if the candidate said 'no' if the DBS was 'yes' or visa versa? This creates an unnecessary step. Indeed the question does not really enable the candidate to 'disclose' anything.
+
 Any 'disclosure' would be superseded by the DBS so it is rather redundant.
 
 ## User needs
@@ -94,9 +95,10 @@ When we demo’d this design to a university (15 Jan) – they said this design 
 ### Survey
 
 Because recruiting users for this feature is difficult, we sent a survey out to users of the following forums to get quick responses from a large target audience:
-- Online aspiring teachers
-- Get into teaching support teaching
-- Career changer
+
+* Online aspiring teachers
+* Get into teaching support teaching
+* Career changer
 
 We had 39 responses.
 
@@ -113,19 +115,19 @@ Most respondents said they had nothing to share, 1 shared a health related issue
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "Application with suitability section",
-      img: { src: "01-application-with-suitability-section.png" }
-    }, {
-      text: "Your suitability to work with children",
-      img: { src: "02-your-suitability-to-work-with-children.png" }
-    }, {
-      text: "With yes option selected",
-      img: { src: "03-with-yes-option-selected.png" }
-    }, {
-      text: "Review section",
-      img: { src: "04-review-section.png" }
-    }, {
-      text: "How providers see this",
-      img: { src: "05-how-providers-see-this.png" }
-    }]
+    text: "Application with suitability section",
+    img: { src: "01-application-with-suitability-section.png" }
+  }, {
+    text: "Your suitability to work with children",
+    img: { src: "02-your-suitability-to-work-with-children.png" }
+  }, {
+    text: "With yes option selected",
+    img: { src: "03-with-yes-option-selected.png" }
+  }, {
+    text: "Review section",
+    img: { src: "04-review-section.png" }
+  }, {
+    text: "How providers see this",
+    img: { src: "05-how-providers-see-this.png" }
+  }]
 }) }}
