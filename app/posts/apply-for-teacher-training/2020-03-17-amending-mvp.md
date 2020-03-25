@@ -1,6 +1,6 @@
 ---
 title: The troubles with amending (or editing) your application
-description: Complexities we faced when building an MVP version of this feature
+description: Complexities we faced when building an MVP version of this feature.
 date: 2020-03-17
 related:
   items:
@@ -13,6 +13,7 @@ related:
     - text: MVP fixes Trello ticket
       href: https://trello.com/c/AEbgIFGH/1172-mvp-fixes-for-shipping-edit-application
 ---
+
 Candidates should be able to edit an application within 5 working days of submitting. Currently candidates can only do this via an email to support. Since December we’ve had only 1 request to edit an application – we needed to change a course choice.
 
 ## The original design
@@ -70,10 +71,10 @@ If after changing the request process to a form a new and significant user need 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "Editing your application",
-      img: { src: "01-editing-your-application.png" }
-    }, {
-      text: "Edit application",
-      img: { src: "02-edit-application.png" }
-    }]
+    text: "Editing your application",
+    img: { src: "01-editing-your-application.png" }
+  }, {
+    text: "Edit application",
+    img: { src: "02-edit-application.png" }
+  }]
 }) }}

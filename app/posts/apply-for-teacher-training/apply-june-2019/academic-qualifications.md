@@ -1,7 +1,8 @@
 ---
 title: Academic qualifications
-description: Adding your degree, statutory requirements and other qualifications
+description: Adding your degree, statutory requirements and other qualifications.
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [

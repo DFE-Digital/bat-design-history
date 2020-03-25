@@ -1,8 +1,9 @@
 ---
 title: Residency status
-description: Initial designs for capturing visas and residency status
+description: Initial designs for capturing visas and residency status.
 date: 2020-02-05
 ---
+
 Initial designs for capturing visas and residency status
 
 The residency status screen is shown when a non EU (and perhaps non EEA) nationality is selected.

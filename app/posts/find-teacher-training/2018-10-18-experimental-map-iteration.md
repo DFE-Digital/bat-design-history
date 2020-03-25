@@ -4,6 +4,7 @@ description: Second pass at showing courses on a full screen map.
 date: 2018-10-18
 tags: maps
 ---
+
 An iteration on the [first pass](/find-teacher-training/experimental-map/) of putting search results on a full-width map. This design adds:
 
 * training locations with a black dot

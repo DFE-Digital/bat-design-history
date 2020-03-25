@@ -1,7 +1,8 @@
 ---
 title: Personal details
-description: Adding name, nationality and visas
+description: Adding name, nationality and visas.
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [

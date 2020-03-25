@@ -1,7 +1,8 @@
 ---
 title: References
-description: Completing a reference for a UCAS applicant
+description: Completing a reference for a UCAS applicant.
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [

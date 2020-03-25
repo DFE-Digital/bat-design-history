@@ -3,6 +3,7 @@ title: Deleting and withdrawing courses
 description: And why there are both.
 date: 2019-03-09
 ---
+
 Deleting a course entirely removes it, it won’t be in the courses table. Providers can only delete courses that haven’t been published in this cycle. Deletions are soft – a developer should be able to restore a course that a provider deletes by mistake.
 
 Withdrawing is for courses that have already been published. Withdrawing a course removes it from Find and closes applications. Providers can’t published it again in this cycle, they might need to reuse the course in a subsequent one. A developer should be able to re-publish a course withdrawn by mistake.

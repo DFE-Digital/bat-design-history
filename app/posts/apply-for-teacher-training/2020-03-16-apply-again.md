@@ -5,6 +5,7 @@ date: 2020-03-16
 tags:
 - AN022
 ---
+
 If a candidate is not offered an interview by any of their initial 3 choices (or chooses not to accept an offer or withdraws their application), they can move to a secondary application phase. UCAS calls this ‘Apply 2’.
 
 During this phase, a candidate can make an unlimited number of applications, but this time, only one course choice is allowed. If the candidate is again unsuccessful (or chooses not to accept an offer or withdraws) they can keep applying until they do accept an offer, or until the application cycle for the academic year closes.

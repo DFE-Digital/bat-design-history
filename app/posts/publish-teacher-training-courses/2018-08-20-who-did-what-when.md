@@ -3,6 +3,7 @@ title: Who did what and when
 description: The beginnings of an audit trail for content.
 date: 2018-08-20
 ---
+
 These are the beginnings of an audit trail for content. We will record the most recent author and publisher, and the times these events happen.
 
 For organisations where multiple users could be editing a course or organisation, this makes it clear who has been working on what. We won’t yet show what changed.

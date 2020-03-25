@@ -3,6 +3,7 @@ title: New course wizard – Confirming course title
 description: Moving the course title fields into the wizard.
 date: 2018-12-19
 ---
+
 An iteration on [the initial design](/publish-teacher-training-courses/new-course-2#customise-title) which:
 
 * tries out moving the title change to the end of the wizard

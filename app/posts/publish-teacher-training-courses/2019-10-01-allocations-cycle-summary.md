@@ -9,6 +9,7 @@ related:
   - text: Raw research notes and audio/video
     href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
 ---
+
 A summary of the process followed for the 2020 – 2021 recruitment cycle.
 
 ## Process maps
@@ -52,7 +53,7 @@ This year, the request process will be different:
 * All request templates completed by ITT providers and lead schools must be submitted to DfE, using the template below, by the ITT provider only. Requests are not ratified unless submitted to DfE by the ITT provider.
 * Information submitted must include the minimum viability and forecast recruitment for each ITT course for ITT2020. Forecasts should reflect the number of trainees the partnership expects to realistically recruit to that course.
 
-Please note that request templates will be pre-populated with the courses listed on ‘Find’ for ITT2019 to help with data entry, but all number fields will be blank. You can access your personalised template here: 
+Please note that request templates will be pre-populated with the courses listed on ‘Find’ for ITT2019 to help with data entry, but all number fields will be blank. You can access your personalised template here:
 
 [The Manchester Metropolitan University – Request template ITT2020](https://sadfebatallocations.blob.core.windows.net/find-allocations/Allocations_requests_ITT2020-10004180-32868010-8c7f-4dbd-bfd6-4148957dc59c.xlsx)
 
@@ -76,7 +77,7 @@ To be eligible to register the school must have been judged by Ofsted as “good
 
 For ITT2020, lead schools should submit their requests for School Direct and Postgraduate Teaching Apprenticeship (PGTA) courses to their provider, who will ratify them by forwarding to DfE. Lead schools should agree their course requests with their partner provider as soon as possible, and should not return requests to DfE directly (please do not copy DfE in to correspondence emails).
 
-> Requests are not ratified unless submitted to DfE by the ITT provider. 
+> Requests are not ratified unless submitted to DfE by the ITT provider.
 
 Please remember that for PGTA courses the accredited ITT provider must be on the [Register of Apprenticeship Training Providers (RoATP)](https://roatp.apprenticeships.education.gov.uk/download).
 

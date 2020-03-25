@@ -3,6 +3,7 @@ title: Rollover reckons
 description: Thoughts on what rollover might look like. And notes on what rollover is right now.
 date: 2019-02-16
 ---
+
 ## UCAS rollover
 
 Around the end of May each year, UCAS will make a duplicate of a provider’s data and spin up a new instance of UCAS web-link. Within this new instance providers can begin preparing next cycle’s courses.

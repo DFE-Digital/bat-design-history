@@ -3,6 +3,7 @@ title: What we shipped for UCAS transition
 description: Locations, location editing and vacancies.
 date: 2019-05-14
 ---
+
 Based on our [transition MVP designs](/publish-teacher-training-courses/first-transition-mvp), when we transitioned all providers away from UCAS we’d shipped the following features:
 
 * a locations page

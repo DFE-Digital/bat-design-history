@@ -3,6 +3,7 @@ title: Progressive application
 description: Ask for further information only when needed.
 date: 2019-02-20
 ---
+
 Our designer Vin documented these on [Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/279314433/Designs) (Project Bluesky).
 
 We’ve heard from candidates that filling in the application details is painful and tedious. We believe that breaking the application in to chunks that candidates can fill in different stages will ease the process of application submission.

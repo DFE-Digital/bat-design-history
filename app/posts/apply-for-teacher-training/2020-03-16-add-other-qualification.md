@@ -5,6 +5,7 @@ date: 2020-03-16
 tags:
 - AN021
 ---
+
 Beyond the qualifications required for teacher training, candidates should provide details of other qualifications they have to demonstrate their subject knowledge and broader academic achievements. Giving this information is not mandatory, but it will likely improve a candidate’s chance of being invited to interview.
 
 Since the service launched in November, candidates have not felt compelled to complete this section fully. We initially tried to address the issue by renaming the section from ‘Other relevant qualifications’ to ‘Academic and other relevant qualifications’. However, some candidates were still not listing all their other qualifications, in particular A Levels and other GCSEs.

@@ -4,6 +4,7 @@ description: First pass at showing courses on a full screen map.
 date: 2018-10-07
 tags: maps
 ---
+
 A first pass at putting search results on a full-width map.
 
 By putting results on a map it should be:

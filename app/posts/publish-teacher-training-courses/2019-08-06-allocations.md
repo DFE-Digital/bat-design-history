@@ -3,6 +3,7 @@ title: Show allocation policy on a course
 description: Indicate the current policy on course detail pages.
 date: 2019-08-06
 ---
+
 {% set html %}
   <h4 class="govuk-heading-s govuk-!-margin-bottom-1"><a href="https://docs.google.com/document/d/1926pN2UTaknKAC4bYUGyCSiPe5lBXJZ33ld7LXmftYw/edit">Original context</a></h4>
   <p class="govuk-body-s">Document. Please ask for access permissions</p>

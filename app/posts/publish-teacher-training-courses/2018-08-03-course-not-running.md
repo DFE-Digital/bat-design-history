@@ -3,6 +3,7 @@ title: Course statuses – 3 August iteration
 description: A more indepth look at UCAS course status and how it’ll affect publishing.
 date: 2018-08-03
 ---
+
 As a user looking at all of my courses imported from UCAS, I need to know which of those courses have been published, so that I know which courses applicants are seeing.
 
 An iteration on the [first UCAS course status design](/publish-teacher-training-courses/ucas-course-status). Following that design we found that status in UCAS is per training location rather than per course. We need some logic to determine whether a course should be published based on the status of its training locations.

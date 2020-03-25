@@ -1,6 +1,6 @@
 ---
 title: Filtering applications
-description: Let users find items a long list of applications by status and provider
+description: Let users find items a long list of applications by status and provider.
 date: 2020-01-23
 tags: awaiting-validation
 ---

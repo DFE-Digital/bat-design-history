@@ -3,6 +3,7 @@ title: Vacancies
 description: First design for changing vacancies at each training location on a course.
 date: 2018-12-21
 ---
+
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "There’s <a href=\"/publish-teacher-training-courses/vacancies-iteration-14-jan\">an updated design</a>.",

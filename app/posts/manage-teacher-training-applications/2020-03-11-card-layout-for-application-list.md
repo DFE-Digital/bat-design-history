@@ -31,9 +31,7 @@ We'll know this works when:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [
-    {
-      text: "Application list"
-    }
-  ]
+  items: [{
+    text: "Application list"
+  }]
 }) }}

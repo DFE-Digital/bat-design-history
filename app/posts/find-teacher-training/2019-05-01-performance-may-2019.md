@@ -3,6 +3,7 @@ title: Performance report - May 2019
 description: After 4 months of transitioning providers from UCAS course management to DfE course management, this report focuses on the candidate facing tool and what sorts of behaviours have been coming out of our analytics.
 date: 2019-05-01
 ---
+
 The last 4 months have been provider focused. Since the start of 2019, the Find team have been working closely with UCAS to ensure that all training providers with permissions to recruit for postgraduate ITT courses in recruitment cycle 19/20 have access to the new DfE owned course management features.
 
 This means that providers will now only use DfE’s Publish teacher training courses tool to create, manage and enrich courses for postgraduate ITT, rather than having to jump between UCAS course management and DfE Publish courses.

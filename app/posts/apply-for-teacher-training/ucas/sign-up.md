@@ -1,7 +1,8 @@
 ---
 title: Sign up
-description: Registering for UCAS Teacher Training
+description: Registering for UCAS Teacher Training.
 ---
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [

@@ -1,6 +1,6 @@
 ---
 title: Work history breaks
-description: How we built work history breaks (previously ‘gaps’)
+description: How we built work history breaks (previously ‘gaps’).
 date: 2020-03-04
 related:
   items:
@@ -51,19 +51,19 @@ We might re-asses this decision when we have evidence for how the feature is bei
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "Work history containing breaks",
-      img: { src: "01-work-history-containing-breaks.png" }
-    }, {
-      text: "Explaining a break",
-      img: { src: "02-explaining-a-break.png" }
-    }, {
-      text: "First break explained",
-      img: { src: "03-first-break-explained.png" }
-    }, {
-      text: "Deleting a break",
-      img: { src: "04-deleting-a-break.png" }
-    }, {
-      text: "Do you want to add another job?",
-      img: { src: "05-do-you-want-to-add-another-job.png" }
-    }]
+    text: "Work history containing breaks",
+    img: { src: "01-work-history-containing-breaks.png" }
+  }, {
+    text: "Explaining a break",
+    img: { src: "02-explaining-a-break.png" }
+  }, {
+    text: "First break explained",
+    img: { src: "03-first-break-explained.png" }
+  }, {
+    text: "Deleting a break",
+    img: { src: "04-deleting-a-break.png" }
+  }, {
+    text: "Do you want to add another job?",
+    img: { src: "05-do-you-want-to-add-another-job.png" }
+  }]
 }) }}

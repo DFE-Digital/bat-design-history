@@ -7,6 +7,7 @@ related:
   - text: Trello ticket
     href: https://trello.com/c/h6HhGrR6
 ---
+
 An iteration following [an early 2019 design of the journey](/find-teacher-training/choose-how-to-apply-2).
 
 This design includes:

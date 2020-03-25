@@ -3,6 +3,7 @@ title: Copy content from another course
 description: Design for copying form values from one course to another.
 date: 2018-08-17
 ---
+
 ## We tried templates
 
 From our investigation into [sharing content using templates](/publish-teacher-training-courses/templates):

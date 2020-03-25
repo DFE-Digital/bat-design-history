@@ -12,6 +12,7 @@ related:
   - text: Findings and recommendations from usability testing
     href: https://docs.google.com/presentation/d/11n2OsN9LswmHab64FG0sIsQ-BijdS-GM
 ---
+
 In June the Apply team started development of the candidate-facing aspects of the service. To ensure that what we are delivering is usable and understandable, we created an interactive prototype that we could use to test with users and validate our design decisions.
 
 Using the content and structure of the [paper-based prototype](/apply-for-teacher-training/paper-based-application) as a foundation, combined with the common GOV.UK design system components, guidance and prototyping kit, we mocked up the user journeys and interactions candidates would use when completing their application online.

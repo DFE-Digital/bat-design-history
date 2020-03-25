@@ -1,6 +1,6 @@
 ---
 title: Accredited bodies research - Reporting
-description: Research interviews with accredited bodies to determine reporting needs
+description: Research interviews with accredited bodies to determine reporting needs.
 date: 2019-10-21
 related:
   items:
@@ -9,6 +9,7 @@ related:
   - text: Research playback
     href: https://docs.google.com/presentation/d/1yaNemUJLl8SlZoZKNOHs17xT4sywn5MKYzSHNsu1LGY/edit#slide=id.g62326b9f9a_0_0
 ---
+
 UCAS provided notifications and the CSV reports related to an accredited body’s courses. Publish is missing these features.
 
 In round 1 we hoped to better understand the reporting needs of accredited bodies, and the context in which they used these reports.

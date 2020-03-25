@@ -3,6 +3,7 @@ title: New course wizard – Further education
 description: Designs for the further education path in the new course wizard.
 date: 2019-01-28
 ---
+
 After selecting ‘Further education’ as a course type, the wizard goes down a different path.
 
 [Google diagram of new course workflow](https://docs.google.com/drawings/d/1DAhz464j1XDyQPoOH0adIwAceUwuGU1rqsWkVn8ZQ8I/edit)

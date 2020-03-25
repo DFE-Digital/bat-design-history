@@ -3,6 +3,7 @@ title: Problems with a course
 description: Exploration into highlighting problems with a course before publishing.
 date: 2019-04-14
 ---
+
 Exploration into highlighting problems with a course before publishing.
 
 We need to increase the quality of all courses on Find. For new courses providers will use the wizard and complete all required information. For existing courses we need a way of highlighting what’s wrong or what’s missing.

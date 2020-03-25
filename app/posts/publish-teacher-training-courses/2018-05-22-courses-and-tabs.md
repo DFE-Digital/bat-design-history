@@ -3,6 +3,7 @@ title: Courses and tabs
 description: Exploration of a home page view with tabs for courses, schools, default course and organisation details.
 date: 2018-05-22
 ---
+
 This is a visualisation of course information structured by:
 
 * training provider metadata (eg provider name, contact details)

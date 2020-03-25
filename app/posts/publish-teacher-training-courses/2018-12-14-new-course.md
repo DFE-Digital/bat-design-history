@@ -3,6 +3,7 @@ title: New course wizard
 description: Create a new course in Publish rather than UCAS.
 date: 2018-12-14
 ---
+
 As part of the [UCAS Transition work](https://docs.google.com/document/d/1H8ecdKnrJ2nJbc87Lgx5t-gx2_jnt0NLYLKf1Y_G9zg/edit#) ([Trello story map](https://trello.com/b/O0RjGYkw/ucas-transition-story-map)) we need to bring course creation into Publish. We [looked at this briefly in May](/publish-teacher-training-courses/new-course-wizard) before we knew we’d have UCAS data.
 
 This is a best guess first pass at the process which we expect users to question substantially. It recreates the fields UCAS asks for using the ‘[page-per-thing](https://design-system.service.gov.uk/patterns/question-pages/)’ pattern and ending with a ‘[check your answers](https://design-system.service.gov.uk/patterns/check-answers/)’ page.

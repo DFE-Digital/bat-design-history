@@ -3,6 +3,7 @@ title: "New course wizard: Languages – 5 February iteration"
 description: Simplify the fields for languages.
 date: 2019-02-14
 ---
+
 Providers model their modern languages courses differently.
 
 For example:

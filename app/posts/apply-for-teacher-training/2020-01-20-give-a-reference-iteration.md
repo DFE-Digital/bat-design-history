@@ -11,6 +11,7 @@ related:
     - text: Provider needs research playback
       href: https://docs.google.com/presentation/d/1CXI74doFP19PZ3gfWKOWNbcodeYa5q16DmEDGBmHBP4/
 ---
+
 An [iteration on the initial design](/apply-for-teacher-training/give-a-reference), removing some of the unnecessary fields.
 
 ## User needs
@@ -41,7 +42,7 @@ Some referees may not want to, or be able to give a reference. This slows down t
 If we let users tell us that they won't give a reference
 Then we'll be able to notify the candidate and get another referee quickly
 We‘ll know this works when:
-- referees click the refuse link in the email and confirm their refusal
+* referees click the refuse link in the email and confirm their refusal
 
 ### One big text box for the reference
 
@@ -54,15 +55,15 @@ We also don’t have enough confidence in the 1 to 10 scales, which providers de
 If we let users enter everything into 1 big text box
 Then we'll be able to see what problems arise with referees and providers
 We’ll know this works when:
-- providers successfully use the references given to make decisions
+* providers successfully use the references given to make decisions
 
 ## Findings from providers
 
 Providers use references to build an overall picture of candidates, validate application information and to comply with safeguarding requirements.
 
 90% of providers rated the guidance we give to referees as ‘good’ or ‘excellent’,
-- “Very clear and concise and helps with decision on suitability for teaching”
-- “Think it is a great guide. Nearly all the prompts that I would be looking for are there.”
+* “Very clear and concise and helps with decision on suitability for teaching”
+* “Think it is a great guide. Nearly all the prompts that I would be looking for are there.”
 
 Providers need referees to clarify that candidates are safe to work with children to comply with safeguarding requirements. This was a noted omission.
 
@@ -73,22 +74,22 @@ Providers need to validate that references are coming from an official source an
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "Email sent",
-      img: { src: "00-email-sent.png" }
-    }, {
-      text: "Reference form",
-      img: { src: "01-reference-form.png" }
-    }, {
-      text: "Reference submitted",
-      img: { src: "02-reference-submitted.png" }
-    }, {
-      text: "Consent given for research",
-      img: { src: "03-consent-given-for-research.png" }
-    }, {
-      text: "No consent for research",
-      img: { src: "04-no-consent-for-research.png" }
-    }, {
-      text: "Decline to give reference",
-      img: { src: "05-decline-to-give-reference.png" }
-    }]
+    text: "Email sent",
+    img: { src: "00-email-sent.png" }
+  }, {
+    text: "Reference form",
+    img: { src: "01-reference-form.png" }
+  }, {
+    text: "Reference submitted",
+    img: { src: "02-reference-submitted.png" }
+  }, {
+    text: "Consent given for research",
+    img: { src: "03-consent-given-for-research.png" }
+  }, {
+    text: "No consent for research",
+    img: { src: "04-no-consent-for-research.png" }
+  }, {
+    text: "Decline to give reference",
+    img: { src: "05-decline-to-give-reference.png" }
+  }]
 }) }}

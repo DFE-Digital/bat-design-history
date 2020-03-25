@@ -11,6 +11,7 @@ related:
   - text: Original manage applications roadmap
     href: https://docs.google.com/spreadsheets/d/1n4HVUfgKdZXySAFh3KXdCqZ-Ru71DVt7RAxOvl_NO3Y
 ---
+
 A minimum viable service that could allow the providers to access and manage their ITT applications.
 
 Only admins have access to the system/applications. The providers manage the workflow outside the system.

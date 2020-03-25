@@ -39,12 +39,12 @@ Because they want to widen participation and prevent discrimination
 
 ### How will we know this works?
 
- We’ll know this works when:
+We’ll know this works when:
 
- * candidates understand what this section is for
- * providers get information that they're likely to take into account when setting an interview date
+* candidates understand what this section is for
+* providers get information that they're likely to take into account when setting an interview date
 
- We'll test the new content with users to see if we get the right results.
+We'll test the new content with users to see if we get the right results.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
