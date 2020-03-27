@@ -16,9 +16,7 @@ Many computers offer the ability to ‘print to PDF’ but many people aren't aw
 
 If we let users download the application as a PDF then they can print it out or send it via email.
 
-We'll know this works when:
-
-- Users click the download link
+We'll know this works when we see users sharing the PDF application with colleagues.
 
 {{ appFigure({
   image: {
