@@ -1,6 +1,6 @@
 ---
 title: Reasons for rejection
-description: Helping providers give useful feedback to candidate's who have been rejected
+description: Helping providers give useful feedback to candidates who have been rejected
 date: 2020-03-27
 ---
 
