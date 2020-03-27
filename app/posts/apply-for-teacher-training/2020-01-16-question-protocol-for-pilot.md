@@ -32,7 +32,7 @@ Below is a snapshot of the questions we ask (or intended to ask) candidates for 
     question: "Are you a citizen of the UK, EU or EEA?",
     required: "Yes (prior to accessing the service)",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "only accepts candidates that are citizens of the UK and EEA. Apart from reducing the scope, there was a concern that SCITT’s are not well equipped to make decisions about international candidates"
     }],
     what: ["Candidate’s not meeting this requirement are asked to apply via UCAS"],
@@ -46,7 +46,7 @@ Below is a snapshot of the questions we ask (or intended to ask) candidates for 
     question: "Did you gain all your qualifications at institutions based in the UK?",
     required: "Yes (prior to accessing the service)",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "only accepts candidates with the qualifications needed for eligibility for ITT that have been awarded by UK institutions. Apart from reducing scope, there was a concern that SCITT’s are not well equipped to make decisions about international qualifications"
     }],
     what: ["Candidate’s not meeting this requirement are asked to apply via UCAS"],
@@ -64,7 +64,7 @@ Candidates can update course choices before (and 5 working days after) submittin
     question: "Have you chosen a course to apply to?",
     required: "Yes",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this to direct candidates to the [Find postgraduate teacher training](https://find-postgraduate-teacher-training.education.gov.uk) service to find a course to apply to if they haven’t done so yet"
     }],
     what: ["Answer not submitted as part of application"]
@@ -81,13 +81,13 @@ Candidates can update course choices before (and 5 working days after) submittin
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this to know which provider to send the completed application"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to identify source of student record"
     }, {
-      who: ["dfe"],
+      who: [{label: "DfE", colour: "blue"}],
       what: "uses this for reporting"
     }],
     what: ["Retrievable via API"],
@@ -105,13 +105,13 @@ Candidates can update course choices before (and 5 working days after) submittin
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to know which course is being applied to, and to determine funding"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “identify the subject of the ITT course”"
     }, {
-      who: ["dfe"],
+      who: [{label: "DfE", colour: "blue"}],
       what: "uses this for reporting"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -129,10 +129,10 @@ Candidates can update course choices before (and 5 working days after) submittin
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "uses this to indicate their preferred training location"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use the course and location code to generate a unique identifier (which then triggers a different workflow within a student record system)"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -154,13 +154,13 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to verify a candidate’s identity. If offered a place, it’s used when making a DBS check"
     }, {
-      who: ["provider", "dfe"],
+      who: [{label: "Provider", colour: "purple"}, {label: "DfE", colour: "blue"}],
       what: "use a combination of this and other values to identify individual candidates and for record matching"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to facilitate “checking data with providers and for Statutory Customers to link student records collected by HESA for statistical purposes”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -179,13 +179,13 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to verify a candidate’s identity. If offered a place, it is then used when making a DBS check"
     }, {
-      who: ["provider", "dfe"],
+      who: [{label: "Provider", colour: "purple"}, {label: "DfE", colour: "blue"}],
       what: "use a combination of this and other values to identify individual candidates and for record matching"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to facilitate “checking data with providers and for Statutory Customers to link student records collected by HESA for statistical purposes.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -208,13 +208,13 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "use this when performing a DBS check"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "needs this to be in the format YYYY-MM-DD in order to link to other records, and across higher education (wider than just ITT)"
     }, {
-      who: ["dfe"],
+      who: [{label: "DfE", colour: "blue"}],
       what: "uses this for record matching and statistical analysis, for example looking at application rates of over 35 year olds (something the minister has historically been interested in)"
     }],
     what: ["Retrievable via API"],
@@ -235,10 +235,10 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use this to assess if a candidate is [eligibile for student finance](https://www.gov.uk/student-finance/who-qualifies)"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this “to respond to Parliamentary Questions, Written Questions, FOI requests on complex citizenship/nationality issues. To be able to perform analysis on trainee demographics at the start of an academic year.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -275,10 +275,10 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use this field to assess if a candidate is [eligibile for student finance](https://www.gov.uk/student-finance/who-qualifies)"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires domicile to “distinguish between home and overseas students and to disaggregate students by origin. To obtain the numbers of students domiciled in particular EC countries and elsewhere abroad, and hence calculate participation rates. To forecast the demand for student allowances and grants. To record cross-border flows.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -297,7 +297,7 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["unknown"],
+      who: [{label: "Unknown"}],
       what: "Further research required"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -315,7 +315,7 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["unknown"],
+      who: [{label: "Unknown"}],
       what: "Further research required"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -333,7 +333,7 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may want to demonstrate language skills, especially if looking to teach a modern language subject or teach in school with children whose main language isn’t English"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -356,13 +356,13 @@ A candidate can update these details at any point during the application process
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "requires this to send candidates a ‘magic link’ to sign back in, and to send updates about their application"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "requires this to contact candidates to arrange interviews and send communications relevant to their application"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this as the “DfE requires this to communicate with newly qualified teachers”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -383,10 +383,10 @@ A candidate can update these details at any point during the application process
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "may use this to contact a candidate for user research"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use this to contact a candidate"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -413,16 +413,16 @@ A candidate can update these details at any point during the application process
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use this to write to candidates"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use this to advise candidates on travel and suitability of different campuses"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use this to determine the seriousness of an application (given the candidate’s proximity to the training location) and to advise candidates on travel and suitability of different campuses"
     }, {
-      who: ["dfe"],
+      who: [{label: "DfE", colour: "blue"}],
       what: "uses this for demographic reporting"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -447,7 +447,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     question: "How long have you been working?",
     required: "Yes",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "needs to offer guidance about completing this section and enable branching; if no employment history we need to capture that reason rather than ask for details of employment"
     }],
     what: ["Answer not submitted as part of application"]
@@ -463,7 +463,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       param: "—"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "wants to see 5 years of work history as part of their safeguarding responsibilities"
     }],
     what: ["Appears in provider-facing interface"],
@@ -482,10 +482,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this label to distinguish between different jobs when reviewing answers"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -503,10 +503,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this label to distinguish between different jobs when reviewing answers"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -525,7 +525,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -546,10 +546,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this to calculate any gaps in work history"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -567,10 +567,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may use this to demonstrate subject knowledge gained in the workplace"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -589,10 +589,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may use this to indicate experience working with children"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s suitability"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -611,10 +611,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this to calculate any gaps in work history"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background, and answer questions about any gaps in work history"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -633,7 +633,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background, and answer questions about gaps in employment history"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -652,7 +652,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     question: "Do you have experience volunteering with young people or in school?",
     required: "Yes",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "needs to offer guidance about completing this section and enable branching; if no experience of volunteering with young people or in school, we direct candidates to the [Get school experience](https://schoolexperience.education.gov.uk) service"
     }],
     what: ["Answer not submitted as part of application"]
@@ -669,10 +669,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this label to distinguish between different roles"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s experience"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -690,10 +690,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this label to distinguish between different roles"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -713,7 +713,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -732,10 +732,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "can use this to demonstrate what they learnt during their unpaid experience"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -753,10 +753,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may use this to indicate experience working with children"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to build a picture of a candidate’s suitability"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -777,7 +777,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     question: "Do you want to disclose a disability?",
     required: "Yes",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses the answer to show/hide textarea"
     }],
     what: ["Yes/no answer appears in provider-facing interface"]
@@ -794,7 +794,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may use this to support the candidate at interview (and training if accepted onto course)"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -823,13 +823,13 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to ensure candidate holds a first degree of a UK higher education institution or equivalent qualification"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "wants to see that candidate can demonstrate subject and curriculum knowledge at a sufficient level"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to enable “to create the student's DfE record”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -848,10 +848,10 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "wants to see that a candidate can demonstrate subject and curriculum knowledge"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “provide data on the qualifications of teachers.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -870,7 +870,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “provide data on the qualifications of teachers.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -890,7 +890,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “create the student's DfE record.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -909,10 +909,10 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may be interested in calibre of the institution studied at"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “create the student's DfE record.”"
     }],
     what: ["Retrievable via API"],
@@ -935,10 +935,10 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to perform a [NARIC](https://www.naric.org.uk) check (they need confirmation from a the institution that they’ve actually obtained the degree they say they have)"
     }, {
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “create the student's DfE record.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -956,13 +956,13 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to a UK degree"
     }, {
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -989,7 +989,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to ensure candidates for primary and secondary courses have achieved a standard equivalent to a grade 4 in GCSE Maths"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1009,7 +1009,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to ensure candidates have achieved a standard equivalent to a grade 4 in GCSE Maths"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1029,7 +1029,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "may use this to validate qualification with LRS"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1049,7 +1049,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1067,7 +1067,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1086,13 +1086,13 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1121,7 +1121,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to ensure candidates have achieved a standard equivalent to a grade 4 in GCSE English"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1141,7 +1141,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to ensure candidates have achieved a standard equivalent to a grade 4 in GCSE English"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1161,7 +1161,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "may use this to validate qualification with LRS"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1181,7 +1181,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1199,7 +1199,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1218,13 +1218,13 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1253,7 +1253,7 @@ This means this question is only required for candidates applying to a Primary c
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to ensure candidates have achieved a standard equivalent to a grade 4 in a GCSE science subject"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1273,7 +1273,7 @@ This means this question is only required for candidates applying to a Primary c
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to ensure candidates have achieved a standard equivalent to a grade 4 in a GCSE science subject"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1294,7 +1294,7 @@ This means this question is only required for candidates applying to a Primary c
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "may use this to validate qualification with LRS"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1314,7 +1314,7 @@ This means this question is only required for candidates applying to a Primary c
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1332,7 +1332,7 @@ This means this question is only required for candidates applying to a Primary c
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1351,13 +1351,13 @@ This means this question is only required for candidates applying to a Primary c
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "needs to provide evidence that their international qualification demonstrates a similar level and breadth as the equivalent UK qualification"
     }, {
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may already have a statement of comparability from [NARIC](https://www.naric.org.uk)"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to look for evidence that a qualification is of a standard equivalent to GCSE grade 4, not only in terms of its level, but also in terms of its breadth. Details of qualification can help determine if equivalent to GCSE"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1380,7 +1380,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "wants to see that a candidate can demonstrate subject and curriculum knowledge at a sufficient level"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1398,7 +1398,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "wants to see that a candidate can demonstrate subject and curriculum knowledge"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1416,7 +1416,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "want to see that a candidate can demonstrate subject and curriculum knowledge at a sufficient level"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1434,7 +1434,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["unknown"]
+      who: [{label: "Unknown"}]
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["In the future we can check any post-14 qualifications (awarded after 2006 in England, Wales and Northern Ireland) against the [Learning Records Service](https://www.gov.uk/topic/further-education-skills/learning-records-service)."]
@@ -1451,7 +1451,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may be interested in calibre of the institution studied at"
     }],
     what: ["Retrievable via API"],
@@ -1473,7 +1473,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may be interested in calibre of the institution studied at"
     }],
     what: ["Retrievable via API"],
@@ -1496,10 +1496,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "needs to demonstrate the distinct qualities that will make them an amazing teacher"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to assess a candidate’s suitability, commitment and motivation for teaching"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1517,10 +1517,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "applying to a primary course needs an opportunity to showcase their broader subject knowledge"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "needs to assess a candidate’s suitability for the training in a particular subject. This is critical if a candidate is applying to teach a subject different to their degree"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1536,7 +1536,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     question: "Do you have any preferences for your interview?",
     required: "Yes",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses the answer to show/hide textarea"
     }],
     what: ["Answer not submitted as part of application"]
@@ -1553,10 +1553,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "needs to ensure providers are aware of any dates or circumstances that should be considered when scheduling an interview"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "may need to know whether a candidate has any additional interview requirements, so they can meet their needs"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
@@ -1580,7 +1580,7 @@ Candidates can update their answers before submitting, but not after. If a refer
       param: "N/A"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this to determine which questions we ask a referee"
     }],
     what: ["Answer not submitted as part of application"]
@@ -1597,7 +1597,7 @@ Candidates can update their answers before submitting, but not after. If a refer
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this to address referee in email correspondence"
     }],
     what: ["Appears in support interface. If the referee provides a reference, appears in the provider-facing interface and retrievable via API"],
@@ -1615,10 +1615,10 @@ Candidates can update their answers before submitting, but not after. If a refer
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object"
     },
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses this to contact a referee and request a reference"
     }, {
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "use this to validate that a reference is from an official work source (with the domain name used as a proxy)"
     }],
     what: ["Appears in support interface. If the referee provides a reference, appears in the provider-facing interface and retrievable via API"],
@@ -1640,7 +1640,7 @@ Candidates can update their answers before submitting, but not after. If a refer
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object"
     },
     why: [{
-      who: ["provider"],
+      who: [{label: "Provider", colour: "purple"}],
       what: "uses this to validate that reference is from a suitable source"
     }],
     what: ["Appears in support interface. If the referee provides a reference, appears in the provider-facing interface and retrievable via API"],
@@ -1658,7 +1658,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     question: "Is there anything else you would like to tell us about your application?",
     required: "Yes",
     why: [{
-      who: ["service"],
+      who: [{label: "Service", colour: "grey"}],
       what: "uses the answer to show/hide textarea"
     }],
     what: ["Answer not submitted as part of application"]
@@ -1675,10 +1675,10 @@ Candidates can update their answers before (and 5 working days after) submitting
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
     },
     why: [{
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may want to disclose a disability or request a reasonable adjustment. With ‘training with a disability’ section removed, this is the only place in the application this information can be given"
     }, {
-      who: ["candidate"],
+      who: [{label: "Candidate", colour: "orange"}],
       what: "may want to voluntarily disclose a criminal conviction.
       What do we do with it?"
     }],
@@ -1705,7 +1705,7 @@ Candidates can update their answers before submitting. We don’t ask these ques
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object"
     },
     why: [{
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “monitor equal opportunities issues in the higher education sector and support higher education providers (HEPs) in meeting their obligations under the Equality Act 2010”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API only once the application status has changed to ‘enrolled’"],
@@ -1725,7 +1725,7 @@ Candidates can update their answers before submitting. We don’t ask these ques
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object"
     },
     why: [{
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “permit disability-based analysis; for monitoring levels and trends in participation by particular groups of people; to permit analysis based on type of disability”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API only once the application status has changed to ‘enrolled’"],
@@ -1745,7 +1745,7 @@ Candidates can update their answers before submitting. We don’t ask these ques
       href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object"
     },
     why: [{
-      who: ["hesa"],
+      who: [{label: "HESA", colour: "turquoise"}],
       what: "requires this to “monitor equal opportunities issues in the higher education sector and support higher education providers (HEPs) in meeting their obligations under the Equality Act 2010”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API only once the application status has changed to ‘enrolled’"],
