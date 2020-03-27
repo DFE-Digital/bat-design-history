@@ -69,8 +69,7 @@ Previously the [personal statement used a summary list](/manage-teacher-training
 - there's limited space in the right column to fit the content nicely
 - there's not enough space in the left column to explain what the candidate's view is
 
-If the sections are laid out with simple headings and paragraphs
-Then we it'll be much easier to read
+If the sections are laid out with simple headings, paragraphs and sensible line lengths, then it'll be easy to read
 
 {{ appFigure({
   image: {
