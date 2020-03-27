@@ -28,8 +28,7 @@ We'll know this works when we see users sharing the PDF application with colleag
 
 Previously this section was labelled [Accessibility needs](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers didn't fully understand what it meant.
 
-If the section is labelled ‘Disability, access and other needs’
-Then providers will understand it
+If we include "disability" in the section name then providers will know what the section is for.
 
 {{ appFigure({
   image: {
