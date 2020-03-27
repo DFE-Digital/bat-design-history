@@ -28,7 +28,7 @@ We'll know this works when:
 
 - providers answer the relevant questions
 - more candidate's reapply
-- candidate's avoiding applying to same provider if the provider says they won't accept future applications from them
+- candidates avoiding applying to same provider if the provider says they won't accept future applications from them
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
