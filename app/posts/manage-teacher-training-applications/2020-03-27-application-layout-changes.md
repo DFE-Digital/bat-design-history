@@ -38,10 +38,12 @@ If we include "disability" in the section name then providers will know what the
 
 ### Layout of criminal convictions and professional misconduct
 
-Previously this section was labelled [Safeguarding](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers didn't fully understand what it meant. Plus it was buried toward the bottom of the application.
+Previously this section was labelled [Safeguarding](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers didn't fully understand what it meant.
+
+It was also positioned lower down within the personal statement section. Like interview needs and access needs, we think it would be good to put safeguarding toward the top as we expect this to be accessed more often than other details.
 
 If the section is labelled ‘Criminal convictions and professional misconduct’ and displayed toward the top
-Then providers will spot and understand it
+Then providers will understand it and be able to get to it more easily
 
 {{ appFigure({
   image: {
@@ -51,7 +53,7 @@ Then providers will spot and understand it
 
 ### Layout of work history and unpaid experience sections
 
-Previously these sections used [a table layout with collapsed sections](/manage-teacher-training-applications/offer-panel#offer-panel-new) which is quite hard to read and means users have to click to reveal the content. It's also quite different to the way most CVs are laid out.
+Previously these sections were designed [with collapsed sections](/manage-teacher-training-applications/offer-panel#offer-panel-new) which is quite hard to read and means users have to click to reveal the content. It's also quite different to the way most CVs are laid out.
 
 If the sections are laid using headings and paragraphs
 Then it'll be more familiar, easier to read and won't need to be revealed
