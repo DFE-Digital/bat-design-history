@@ -14,8 +14,7 @@ Providers have consistently shown in research that they need to share applicatio
 
 Many computers offer the ability to ‘print to PDF’ but many people aren't aware of this feature.
 
-If we let users download the application as a PDF
-Then they can print it out or send it via email
+If we let users download the application as a PDF then they can print it out or send it via email.
 
 We'll know this works when:
 
