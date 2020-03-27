@@ -15,7 +15,7 @@ Currently the provider is just given a [free text field to provide feedback](/as
 This is problematic because:
 
 - providers may only give candidates a small amount of unstructured feedback
-- different users are likely to provide varying levels of feeedback to candidates
+- different users are likely to provide varying levels of feedback to candidates
 - it puts the onus on providers to type everything out manually on a repeated basis
 - it puts the onus on providers to remember all the reasons they are being rejected
 
