@@ -16,8 +16,8 @@
   {%- for reason in params.items.why -%}
   <li>
     {%- if reason.who -%}
-      {%- for actor in reason.who -%}
-        <strong class="govuk-tag app-protocol__tag--{{ actor | lower }}">{{ actor | capitalize }}</strong>
+      {%- for item in reason.who -%}
+        <strong class="govuk-tag{% if item.colour %} govuk-tag--{{ item.colour | lower }}{% endif %}">{{ item.label }}</strong>
       {%- endfor -%}
     {% endif %}
     {{ reason.what | markdown("inline") | safe }}
