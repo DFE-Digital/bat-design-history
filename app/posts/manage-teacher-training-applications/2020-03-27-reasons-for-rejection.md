@@ -27,7 +27,7 @@ Then providers will find it far easier to provide consistent, useful feedback
 We'll know this works when:
 
 - providers answer the relevant questions
-- more candidate's reapply
+- more candidates reapply
 - candidates avoiding applying to same provider if the provider says they won't accept future applications from them
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
