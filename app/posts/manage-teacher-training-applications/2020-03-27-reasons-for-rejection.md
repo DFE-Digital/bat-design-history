@@ -4,8 +4,6 @@ description: Helping providers give useful feedback to candidates who have been 
 date: 2020-03-27
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Hypothesis
 
 If a candidate’s application is rejected, they have a chance to apply again using [Apply 2](/apply-for-teacher-training/apply-again).
