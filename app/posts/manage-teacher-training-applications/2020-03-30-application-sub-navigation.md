@@ -15,12 +15,15 @@ The page has got really big and hard to navigate.
 If the parts of an application are split across pages
 Then users will be able to find and view the applicaition more easily
 
-### Concise header
+### Improved header
 
-Previously, the application has used the standard GOV.UK header component. But this takes up quite a bit of space and pushes the content of the application further down.
+Previously, the application used the [header component](https://design-system.service.gov.uk/components/header/). But:
 
-If the header puts the navigation on the right and saves space
-Then the content will be pushed up a bit making it easier to access
+- the links are small and located in the center which takes up unnecessary vertical space
+- the active blue colour is quite hard to see (despite it passing WCAG 2.1 contrast guidelines)
+
+If the links are on the right, highlighted in white and bigger
+Then the header will take up less room and be easier to see and use
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
