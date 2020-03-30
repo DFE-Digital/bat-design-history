@@ -28,7 +28,10 @@ We'll know this works when we see users sharing the PDF application with colleag
 
 Previously this section was labelled [Accessibility needs](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers didn't fully understand what it meant.
 
-If we include "disability" in the section name then providers will know what the section is for.
+Disability information needs to be accessed after the application has been reviewed and sifted. The specifics of the application are less relevant to the continued processing. Whereas information about disability will be needed up until the point of enrolment.
+
+If we include "disability" in the title and move it to the top
+Then providers will understand it and be able to get to it more easily
 
 {{ appFigure({
   image: {
@@ -40,7 +43,11 @@ If we include "disability" in the section name then providers will know what the
 
 Previously this section was labelled [Safeguarding](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers didn't fully understand what it meant.
 
-It was also positioned lower down within the personal statement section. Like interview needs and access needs, we think it would be good to put safeguarding toward the top as we expect this to be accessed more often than other details.
+It was also positioned lower down within the personal statement section in order to avoid unconscious bias against candidates who have disclosed something. But research showed it was often missed.
+
+Safeguarding information needs to be accessed after the application has been reviewed and sifted. The specifics of the application are less relevant to the continued processing. Whereas information about safeguarding will be needed up until the point of enrolment.
+
+Therefore, it makes more sense to put safeguarding information to be in a place that's distinct and easy to spot. Putting it toward the top is the simplest way to do this.
 
 If the section is labelled ‘Criminal convictions and professional misconduct’ and displayed toward the top
 Then providers will understand it and be able to get to it more easily
