@@ -23,7 +23,7 @@ const domain = 'http://localhost:3000'
 
 // Dependencies
 const webshot = require('webshot-node')
-const fs = require('fs')
+const fs = require('fs-extra')
 
 // Arguments
 const directoryName = process.argv.slice(-1)[0]
@@ -57,11 +57,11 @@ function warnIfNoArguments (title) {
 
 function makeDirectories () {
   if (!fs.existsSync(imageDirectory)) {
-    fs.mkdirSync(imageDirectory)
+    fs.ensureDirSync(imageDirectory)
   }
 
   if (!fs.existsSync(postDirectory)) {
-    fs.mkdirSync(postDirectory)
+    fs.ensureDirSync(postDirectory)
   }
 }
 
