@@ -67,6 +67,10 @@
     margin-left: 0;
   }
 
+  dd + dd {
+    margin-top: govuk-spacing(2);
+  }
+
   > ol {
     @extend %govuk-list;
     @extend %govuk-list--number;
