@@ -8,6 +8,7 @@ permalink: "/glossary.html"
 
 A collection of terms commonly used across the Becoming a Teacher service lines.
 
+TESTING
 
 Accreditation
 : All initial teacher training providers must be ‘accredited’ by the Secretary of State for Education. This process of ‘accreditation’ confirms they have permission to offer courses leading to Qualified Teacher Status (QTS). (NB: Ofsted is the body which checks the courses providers offer meet the standards set by the department.)
