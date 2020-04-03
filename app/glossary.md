@@ -8,11 +8,11 @@ permalink: "/glossary.html"
 
 A collection of terms commonly used across the Becoming a Teacher service lines.
 
-Accredited
-: Accreditation is the means by which institutions are authorised to award degrees by DfE. 'Accredited' in effect means 'able to award degrees'. An accredited body can authorise other organisations to offer courses leading to a degree - the degree is awarded by the accredited body.
-
-Accredited body (Accredited provider)
-: A provider that has the DfE approved authority to deliver a training programme that leads to qualified teacher status (QTS). Accredited bodies must ensure that they remain compliant with the ITT criteria. Other providers can partner with an accredited body to deliver a course that leads to QTS. They do not accredit anyone.
+Accreditation
+: All initial teacher training providers must be ‘accredited’ by the Secretary of State for Education. This process of ‘accreditation’ confirms they have permission to offer courses leading to Qualified Teacher Status (QTS). (NB: Ofsted is the body which checks the courses providers offer meet the standards set by the department.)
+: The exception is the School Direct (SD) training route; SDs need a ‘ratifying accredited provider’. The ratifying accredited provider may be a School Centred Initial Teacher Training (SCITT) or a Higher Education Institute (HEI), and is responsible for maintaining the quality of the training provided.
+: As accredited providers, SCITTs can offer QTS courses but do not have ‘degree awarding powers’. So to cater to candidates seeking academic awards (for example, a Post Graduate Certificate in Education (PGCE)), they need to partner with an HEI.
+: The relationship between accredited training providers and the institutions they ratify is complex. For example, we know that individual courses can be ratified by different accredited bodies (so a School Direct may work with both an HEI and more than one SCITT to ratify its courses).
 
 Allocation
 : Permission to run limited courses.
