@@ -87,7 +87,7 @@ This time we’ll keep the section heading above to make it more obvious that so
 
 If we turn the final task into a button and keep the heading
 Then candidates will know how to proceed without it being confused for a regular task
-We’ll know this works when users click the button
+We’ll know this works when users click the button.
 
 {{ appFigure({
   image: {
