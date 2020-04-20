@@ -65,8 +65,7 @@ At the moment, tasks have 2 states: incomplete and completed. But this doesn’t
 
 When applying again a copy of their previous application is made to candidates filling out the questions from scratch. So in this case, candidates are just as likely make wholesale changes as they are to just mark the task as complete. Having 2 states makes this far clearer when applying again.
 
-If we add ‘not started’ and ‘in progress’ states
-Then candidates will be able to see a more accurate reflection of their application and be able to differentiate between tasks that are not started and tasks that just need to be marked as complete.
+If we add ‘not started’ and ‘in progress’ states, then candidates will be able to see a more accurate reflection of their application and be able to differentiate between tasks that are not started and tasks that just need to be marked as complete.
 
 {{ appFigure({
   image: {
