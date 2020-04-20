@@ -24,6 +24,8 @@ We’ll know this works when candidates spot the banner
   }
 }) }}
 
+We’re not sure this wording had any real impact. Participants spotted the outstanding tasks and scrolled down.
+
 ### Show reasons for rejection
 
 Previous iterations let users click into previous applications. But this means reasons for rejection are quite hard to access.
@@ -37,6 +39,8 @@ We’ll know this works when users spot the feedback
     file: "reasons-for-rejection.png"
   }
 }) }}
+
+12 out of 13 participants found the reasons immediately and reacted positively to them. Just 1 participant who had lower digital literacy failed to find it immediately. But even then eventually did find it.
 
 ### Explicitly marking every task as complete
 
@@ -53,6 +57,8 @@ Then making a second application will work intuitively and consistently with app
   }
 }) }}
 
+13 out of 13 participants found and ticked the checkbox to mark the tasks as complete without any issues.
+
 ### Distinguishing between tasks that are ‘not started’ and ‘in progress’
 
 At the moment, tasks have 2 states: incomplete and completed. But this doesn’t accurately reflect the state of a task: some tasks may not have been toucher, whereas others could have been partially filled out.
@@ -67,6 +73,10 @@ Then candidates will be able to see a more accurate reflection of their applicat
     file: "status-tags.png"
   }
 }) }}
+
+2 out of 13 participants were frustrated that the task was masked as in progress as it had been copied from their previous application which was complete.
+
+Everyone else completed the task without a problem.
 
 ### Make ‘check and submit application’ a button
 
@@ -85,3 +95,5 @@ We’ll know this works when users click the button
     file: "button.png"
   }
 }) }}
+
+5 out of 5 participants found the button immediately.
