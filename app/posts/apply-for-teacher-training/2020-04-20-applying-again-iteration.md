@@ -87,7 +87,7 @@ A button has been tried before but because everything was marked as complete, so
 
 This time we’ll keep the section heading above to make it more obvious that something else needs to be done.
 
-Note: this iteration changes the content to read ‘Check and submit’ instead of ‘Review and submit’ which follows the [check answers pattern](https://design-system.service.gov.uk/patterns/check-answers/).
+This iteration changes the content to read ‘Check and submit’ instead of ‘Review and submit’ which follows the [check answers pattern](https://design-system.service.gov.uk/patterns/check-answers/).
 
 If we turn the final task into a button and keep the heading
 Then candidates will know how to proceed without it being confused for a regular task
