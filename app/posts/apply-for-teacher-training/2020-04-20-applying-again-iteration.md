@@ -81,11 +81,13 @@ If we add ‘not started’ and ‘in progress’ states, then candidates will b
 
 ### Make ‘check and submit application’ a button
 
-The ‘check and submit application’ task is not really a task. It doesn’t make sense being labelled as ‘not started’ or ‘in progress’ and it can never be marked as completed either.
+The ‘check and submit application’ task is not really a task. It doesn’t make sense being labelled as ‘not started’ or ‘in progress’ and it can never be marked as completed either. And some users missed it when it was a link without a status tag.
 
 A button has been tried before but because everything was marked as complete, some users thought there was nothing left to do.
 
 This time we’ll keep the section heading above to make it more obvious that something else needs to be done.
+
+Note: this iteration changes the content to read ‘Check and submit’ instead of ‘Review and submit’ which follows the [check answers pattern](https://design-system.service.gov.uk/patterns/check-answers/).
 
 If we turn the final task into a button and keep the heading
 Then candidates will know how to proceed without it being confused for a regular task
@@ -97,4 +99,4 @@ We’ll know this works when users click the button.
   }
 }) }}
 
-5 out of 5 participants found the button and used it without a problem. This solves the problem with the previous designs.
+5 out of 5 participants found the button and used it without a problem.
