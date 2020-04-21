@@ -57,7 +57,7 @@ Then making a second application will work intuitively and consistently with app
   }
 }) }}
 
-13 out of 13 participants found and ticked the checkbox to mark the tasks as complete without any issues.
+13 out of 13 participants found and ticked the checkbox to mark the tasks as complete without any issues. Although having to mark every task is longwinded.
 
 ### Distinguishing between tasks that are ‘not started’ and ‘in progress’
 
@@ -73,9 +73,11 @@ If we add ‘not started’ and ‘in progress’ states, then candidates will b
   }
 }) }}
 
-2 out of 13 participants were frustrated that the task was masked as in progress as it had been copied from their previous application which was complete.
+12 out of 13 participants understood the difference between these states.
 
-Everyone else completed the task without a problem.
+1 participant (P5) didn’t realise they needed to mark the other tasks as complete until they got to the review page.
+
+[See P5 on Lookback](https://lookback.io/watch/FvL23dcHaUZauAchg?t=25m1s)
 
 ### Make ‘check and submit application’ a button
 
