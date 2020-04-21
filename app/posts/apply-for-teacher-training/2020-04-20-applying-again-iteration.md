@@ -97,4 +97,4 @@ We’ll know this works when users click the button.
   }
 }) }}
 
-5 out of 5 participants found the button immediately.
+5 out of 5 participants found the button and used it without a problem.
