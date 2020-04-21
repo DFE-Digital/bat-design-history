@@ -60,7 +60,7 @@ So that the department has data on the qualifications of teachers
     caption: "Undergraduate degree grades are provided, but candidates can choose and specify ‘Other’"
   }, {
     text: "What grade is your degree? (Undergraduate degree) – Other",
-    caption: "If ‘Other’ is choosen, we allow a free text answer, but suggest other known (but little used) undergraduate degree types."
+    caption: "If ‘Other’ is chosen, we allow a free text answer, but suggest other known (but little used) undergraduate degree types."
   }, {
     text: "What grade is your degree? (Postgraduate degree)",
     caption: "Postgraduate degree grades are provided, but candidates can choose ‘Unknown’ or specify ‘Other’"
