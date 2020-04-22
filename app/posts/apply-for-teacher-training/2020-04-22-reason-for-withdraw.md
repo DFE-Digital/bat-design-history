@@ -21,5 +21,8 @@ So that we can improve the service and amend policies
     id: "withdraw-confirmation",
     text: "Course choice withdrawn",
     caption: "By showing a confirmation page after this action, we can then ask a candidate to tell us their reason for withdrawing. We make it clear that any feedback will only be used by the Department for Education. We also take this opportunity to ask if they would like to participate in user research."
+  }, {
+    id: "withdraw-confirmation-questions",
+    text: "Course choice withdrawn (with conditional radio options shown)"
   }]
 }) }}
