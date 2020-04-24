@@ -25,7 +25,7 @@ Publish will shortly [provide these notifications](https://bat-design-history.ne
 
 All school direct users are required to [submit a google form](/publish-teacher-training-courses/new-course-google-form) to request a new course. 
 
-After recieving the request, DfE support creates the course manually and notifies both the school direct and associated accredited body via email of the new course’s availability.
+After receiving the request, DfE support creates the course manually and notifies both the school direct and associated accredited body via email of the new course’s availability.
 
 ## How to access the new course wizard via URL
 
