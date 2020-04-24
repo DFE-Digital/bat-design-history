@@ -9,11 +9,7 @@ Development of the new course wizard began in September 2019 and was made availa
 
 Accredited bodies are able to access the new course wizard from the [Courses page](https://www.qa.publish-teacher-training-courses.service.gov.uk/organisations/T92/2020/courses).
 
-## Access for school directs
-
-Access to the wizard is yet been provided to school directs.
-
-## Why the wizard is not yet available to all users
+## Why the wizard is not yet available to school directs
 
 School directs will not receive access to the new course wizard until Publish can automatically notify their accredited body that a course has been created. 
 
