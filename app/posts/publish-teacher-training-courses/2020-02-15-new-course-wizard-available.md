@@ -1,5 +1,5 @@
 ---
-title: The new course wizard is available for accredited bodies
+title: New course wizard as launched for accredited bodies
 description: The new course wizard is now available to accredited bodies.  
 date: 2020-02-15
 ---
