@@ -1,7 +1,7 @@
 ---
-title: Setting up permissions (iteration 1 for Titan Partnership Ltd)
+title: Setting up permissions
 description: Let providers set up permissions between themselves and their partner organisations
-date: 2020-03-30
+date: 2020-04-24
 ---
 
 Training providers can work with multiple accredited bodies who ratify their courses. Some providers also ratify their own courses.
@@ -19,10 +19,10 @@ Then organisations won’t do or see something they’re not meant to.
 
 We tested a rough prototype with a user who processes applications for Titan Partnership Ltd and Aston Manor Academy and has the ‘manage organisation’ permission.
 
-There are 2 journeys below:
+The journeys include:
 
-- Onboarding journey that the first user with the manage organisation permission will see when they sign in for the first time
-- Inviting a user to their organisations
+- setting up permissions for partner organisations for the first time
+- inviting a new user to their organisation
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
