@@ -4,20 +4,25 @@ description: Let providers set up permissions between themselves and their partn
 date: 2020-03-30
 ---
 
-Training providers can work with multiple accredited bodies who ratify their courses. Training providers who provide the training may also ratify their own courses.
+Training providers can work with multiple accredited bodies who ratify their courses. Some providers also ratify their own courses.
 
-The relationships (who can do what at which organisation) varies widely depending on the specific relationship. For example take a training provider who provides courses of which some are ratified by one organisation and some are ratified by another.
+Who can do what at which organisations varies depending on the specific relationship.
 
-The first accredited body may be responsible for making decisions on behalf of the training provider. Whereas the second accredited body may not be allowed to do that.
+For example, take a training provider who runs courses, some of which are ratified by one organisation and some by another.
+
+The first accredited body may be responsible for making decisions (and the training provider cannot). Whereas the second accredited body shouldn’t make decisions (as thats the responsibility of the training provider).
 
 If we let training providers set permissions for their organisations
 Then organisations won’t do or see something they’re not meant to.
 
-This low-fi itertion was something we put in front of a user who processes applications for Titan Partnership Ltd and Aston Manor Academy.
+## The situation with Titan Partnerhship
 
-This is the onboarding journey that the first user with ‘manage organisation’ permissions goes through when they sign in to the provider UI.
+We tested a rough prototype with a user who processes applications for Titan Partnership Ltd and Aston Manor Academy and has the ‘manage organisation’ permission.
 
-We also tested the following design to let the same user invite users to both Titan Partnership Ltd and Aston Manor Academy.
+There are 2 journeys below:
+
+- Onboarding journey that the first user with the manage organisation permission will see when they sign in for the first time
+- Inviting a user to their organisations
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
