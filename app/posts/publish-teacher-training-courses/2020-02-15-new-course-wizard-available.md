@@ -17,7 +17,7 @@ Access to the wizard is yet been provided to school directs.
 
 School directs will not receive access to the new course wizard until Publish can automatically notify their accredited body that a course has been created. 
 
-An accredited body needs to be notified immediately when courses they accredit are created so they can maintain accurate data in their record systems. This was highlighted in [Accredited bodies research - Reporting round 2](publish-teacher-training-courses/accredited-bodies-research-round-2).
+An accredited body needs to be notified immediately so they can maintain accurate data in their record systems. This was highlighted in [Accredited bodies research - Reporting round 2](publish-teacher-training-courses/accredited-bodies-research-round-2).
  
 Publish will shortly [provide these notifications](https://bat-design-history.netlify.com/publish-teacher-training-courses/notifications-mvp) to ensure this need is met. Once notifications are enabled all users will have access to the wizard.
 
