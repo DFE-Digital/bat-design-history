@@ -15,7 +15,7 @@ Access to the wizard is yet been provided to school directs.
 
 ## Why the wizard is not yet available to all users
 
-School directs will not receive access to the new course wizard until Publish can automatically notify them that a course they accredited has been created. 
+School directs will not receive access to the new course wizard until Publish can automatically notify their accredited body that a course has been created. 
 
 An accredited body needs to be notified immediately when courses they accredit are created so they can maintain accurate data in their record systems. This was highlighted in [Accredited bodies research - Reporting round 2](publish-teacher-training-courses/accredited-bodies-research-round-2).
  
