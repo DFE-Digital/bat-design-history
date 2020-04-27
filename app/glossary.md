@@ -53,6 +53,9 @@ Get information about schools (GIAS)
 Get into teaching (GiT)
 : Campaign site to encourage people to apply for teacher training.
 
+HESA
+: The [Higher Education Statistics Agency](https://www.hesa.ac.uk) is the official agency for the collection, analysis and dissemination of quantitative information about higher education in the United Kingdom.
+
 Higher education institution (HEI)
 : A university.
 
