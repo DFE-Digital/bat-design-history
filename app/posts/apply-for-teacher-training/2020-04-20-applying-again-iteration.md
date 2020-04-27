@@ -2,11 +2,17 @@
 title: Applying again (iteration)
 description: A bunch of changes to improve the application process when applying again. Some of the changes are just as applicable when making the first application.
 date: 2020-04-20
+related:
+  items:
+  - text: Research summary
+    href: /apply-for-teacher-training/apply-again#user-research
+  - text: Research playback
+    href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-A bunch of changes to improve the application process when applying again. Some changes are applicable to the initial application too.
+Changes to [our initial design](/apply-for-teacher-training/apply-again) to improve the application process when applying again, [following research](/apply-for-teacher-training/apply-again#user-research). Some changes are applicable to the initial application too.
 
 ## Hypotheses
 
