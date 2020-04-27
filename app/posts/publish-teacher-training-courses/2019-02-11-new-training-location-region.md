@@ -6,7 +6,7 @@ date: 2019-02-11
 
 Following on from the [specific school or university](/publish-teacher-training-courses/new-training-location) workflow, this design builds out the ‘region’ training type.
 
-Providers have filled in UCAS training locations with names and addresses that correspond to areas, for example ‘United Teaching Northamptonshire’, ‘East Midlands’ or ‘London’. In Find we try to geocode these as best we can, but a point in the middle of London, or another type of best guess, doesn’t yielf the best results.
+Providers have filled in UCAS training locations with names and addresses that correspond to areas, for example ‘United Teaching Northamptonshire’, ‘East Midlands’ or ‘London’. In Find we try to geocode these as best we can, but a point in the middle of London, or another type of best guess, doesn’t yield the best results.
 
 This design aims to:
 
