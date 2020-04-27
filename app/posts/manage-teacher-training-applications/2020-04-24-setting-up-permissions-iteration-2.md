@@ -54,6 +54,16 @@ In the [previous iteration](/manage-teacher-training-applications/setting-up-per
 If we improve the content and use tick icons
 Then users will be able to understand what’s going on at a glance
 
+### Displaying permissions for the user’s organisation first
+
+In the [previous iteration](/manage-teacher-training-applications/setting-up-permissions) we unconsciously put the permssions for the partner organisation before that of the user’s organisation.
+
+This was inconsistent with the way we playback the relationship everywhere else.
+
+If we put the user’s organisation first
+Then users will find it a little easier to use
+Because it’s consistent
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
