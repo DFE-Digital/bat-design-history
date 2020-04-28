@@ -2,17 +2,18 @@
 title: Improving the references user journey
 description: Adapting the references section so it works for candidates applying for the first time and for candidates applying again.
 date: 2020-04-27
+tags:
+- AN023
 ---
 
 A candidate has to add 2 references when applying for the first time. When applying again, they can keep their old references or replace them.
 
 We need to adapt the references section so that it works for candidates in all scenarios. It was initially designed for candidates applying only once.
 
-## User need
+## User needs
 
-As a candidate
-I need to be able to add, delete and replace references
-So that I can have 2 suitable references in my application
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Showing the right guidance at the right time
 
@@ -39,7 +40,7 @@ There's an intermediate step between viewing your application menu and adding yo
 ### Hypothesis
 
 If we remove the intermediate step, whether you're applying for the first time or applying again
-Candidates will still give suitable referees
+Then candidates will still give suitable referees
 Because there’s similar guidance on the following page
 
 ### What this looks like
@@ -53,7 +54,7 @@ If a candidate deletes one or both of their referees they have to replace them. 
 ### Hypothesis
 
 If we make adding another referee the main call to action
-Candidates will know they need to do this
+Then candidates will know they need to do this
 
 ### What this looks like
 
