@@ -16,6 +16,8 @@ When making their first application we [advise candidates to choose a course fir
 
 The "Do you want to apply again?" page now takes users to the "We suggest you choose a course first" page, before showing them their application.
 
+If a candidate chooses a course first, and goes on to choose a course in a different phase or subject, then we could highlight to these users that they will need to update their subject knowledge and personal statement sections.
+
 ## Design notes
 
 The interstitial has also been updated so that:
