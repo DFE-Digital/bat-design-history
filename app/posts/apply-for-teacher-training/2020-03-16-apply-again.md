@@ -112,7 +112,10 @@ It might be possible for a candidate to apply to a course from Find when they ar
       img: { src: "01-apply-again-banner.png" }
     }, {
       text: "Do you want to apply again?",
-      img: { src: "02-apply-again-page.png" }
+      img: { src: "02-apply-again-page.png" },
+      caption: '
+[We’ve iterated this page](/apply-for-teacher-training/apply-again-course-first#do-you-want-to-apply-again) to make it more aspirational and to suggest that applying again is a continuation from the first application.
+      '
     }, {
       text: "Your new application (application copied)",
       img: { src: "03-application-copied.png" }
