@@ -43,7 +43,7 @@ Rather than having static sentences explaining the above, we'll rely on the guid
 
 ### Cutting out unnecessary steps
 
-There's an intermediate step between viewing your application menu and adding your referees. This takes the form of a webpage with guidance about how to choose your referees - but there's no evidence to say that it's needed.
+There's an [intermediate step between viewing your application menu and adding your referees](/apply-for-teacher-training/improving-the-references-user-journey#removing-the-intermediate-page-before-adding-referees) - but there's no evidence to say that it's needed.
 
 If we remove the intermediate step, whether you're applying for the first time or applying again
 Then candidates will still give suitable referees
@@ -51,7 +51,7 @@ Because there’s similar guidance on the following page
 
 #### What this looks like
 
-Candidates go straight to add their references, rather than [having to go through an intermediate step](/apply-for-teacher-training/improving-the-references-user-journey#removing-the-intermediate-page-before-adding-referees).
+Candidates go straight to add their references, rather than having to go through an intermediate step.
 
 {{ appFigure({
   image: {
@@ -61,16 +61,14 @@ Candidates go straight to add their references, rather than [having to go throug
 
 ### Leading the candidate to the necessary actions
 
-If a candidate deletes one or both of their referees they have to replace them. However, the design doesn’t encourage you to add another referee.
+If a candidate deletes one or both of their referees they have to replace them. However, [the button for adding another referee is not the clear call to action](/apply-for-teacher-training/improving-the-references-user-journey#the-button-for-adding-another-referee-was-not-the-clear-call-to-action).
 
 If we make adding another referee the main call to action
 Then candidates will know they need to do this
 
 #### What this looks like
 
-[The button for adding another referee was not the clear call to action](/apply-for-teacher-training/improving-the-references-user-journey#the-button-for-adding-another-referee-was-not-the-clear-call-to-action).
-
-It's now clearer that you need to add another referee when you delete one, even if you don’t do it now.
+It's now clearer that you need to add another referee when you delete one, even if you do not do it now.
 
 {{ appFigure({
   image: {
