@@ -33,7 +33,7 @@ Then candidates will understand what happens with their references
 
 #### What this looks like
 
-Rather than having static sentences explaining the above, we'll rely on the guidance only when you add or replace a referee.
+Rather than having static sentences explaining the above, we'll show guidance only when you add or replace a referee.
 
 {{ appFigure({
   image: {
