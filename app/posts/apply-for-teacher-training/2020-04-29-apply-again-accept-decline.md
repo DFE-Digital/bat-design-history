@@ -1,6 +1,6 @@
 ---
-title: 'Apply again: Accept or decline offer'
-description: Tweaks to the language used when responding to offers.
+title: 'Apply again: Accept or decline an offer and withdrawing'
+description: Tweaks to the language used when responding to offers or withdrawing.
 date: 2020-04-29
 related:
   items:
@@ -16,8 +16,8 @@ related:
 
 The updated content removes mention of:
 
-- UCAS when suggesting a candidate can apply again after declining
-- the caveat about "all other offers" when declining an offer on an application with 1 choice
+- UCAS when suggesting a candidate can apply again after declining or withdrawing
+- the caveat about "all other offers" when declining an offer and "all other choices" when withdrawing, for an application with 1 choice
 - automatically withdrawing other choices when accepting an offer on an application with 1 choice
 
 These changes should also apply to first applications that have only 1 choice.
@@ -36,5 +36,11 @@ These changes should also apply to first applications that have only 1 choice.
     }, {
       text: "Decline an offer on an application with 1 choice",
       img: { src: "04-decline-offer-on-second-application.png" }
+    }, {
+      text: "Withdraw choice on an application with multiple choices",
+      img: { src: "05-withdraw-choice-on-first-application.png" }
+    }, {
+      text: "Withdraw choice on an application with 1 choice",
+      img: { src: "06-withdraw-choice-on-second-application.png" }
     }]
 }) }}
