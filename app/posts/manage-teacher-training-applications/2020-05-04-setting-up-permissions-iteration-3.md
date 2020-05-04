@@ -6,18 +6,21 @@ date: 2020-05-04
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-For context you can read the:
+Previous iterations:
 
-* [first iteration for setting up permissions](/manage-teacher-training-applications/setting-up-permissions)
-* [first iteration for setting up permissions](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
+* [first iteration](/manage-teacher-training-applications/setting-up-permissions)
+* [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
 
-In this iteration we improved the design and tested it with a user who works at Somerset SCITT. They run and ratify their own courses as well as ratifying courses for Growing Expert Teachers, Taunton Teaching Alliance, The Beach Teaching School and Ventrus Teaching School Alliance.
+In this iteration we improved the design and tested it with a user who works at Somerset SCITT who:
 
-We set up the prototype based on the user's access on Find which told us that this user is part of Ventrus Teaching School Alliance. During the session we learnt that the user is also part of the other 3 organisations as well.
+* run and ratify their own courses
+* ratify courses for Growing Expert Teachers, Taunton Teaching Alliance, The Beach Teaching School and Ventrus Teaching School Alliance.
 
-What that means is that while this person works for Somerset SCITT, the individual training providers delegate power and control to people outside of their organisation as if they worked for them directly.
+The prototype is based on the user's access on Publish which shows they belong to Ventrus Teaching School Alliance. During the session we learnt that the user is also belong of the other 3 organisations too.
 
-We also know that this set up is quite common across other partnerships on Apply.
+This means that while this person works for Somerset SCITT, these training providers delegate power and control to people outside of their organisation.
+
+This set up is quite common across other partnerships on Apply.
 
 The journeys include:
 
@@ -48,12 +51,12 @@ Then they'll understand what’s about to happen on the following screens
 
 ### Making sure users understand permissions
 
-In the [previous iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2) we added information about permissions on each page that contains permission checkboxes.
+In the [previous iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2) we had information about permissions on each page that lets uses select permissions for each organisation.
 
-But there’s a lot of informationto digest.
+But there’s a lot of information to digest and we want to be sure users understand their meaning and implications.
 
-If we put this information on a dedicated page
-Then users will have the best chance of reading it
+If we put this information on a dedicated page before they select permissions
+Then users will have the best chance of understanding how permissions work
 
 {{ appFigure({
   image: {
@@ -61,14 +64,14 @@ Then users will have the best chance of reading it
   }
 }) }}
 
-### Making it easier to see contextual information when setting up permissions
+### Making it easier to understand permissions when setting up permissions between organisations
 
 In the [previous iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2) we added information about permissions on each page that contains permission checkboxes.
 
-Each permission is behind a collapsible Details panel drawing the user in multiple directions. It also means that when we add new permissions there will be more panels.
+Each permission type is collapsed inside a Details panel. This is a little messy and will get messier when new permissions are added.
 
-If we put all of the contextual information behind one panel
-Then it’ll be easier for users to either spot it or ignore it to focus on the task at hand
+If we put the information behind a single panel
+Then the user will have less to scan through
 
 {{ appFigure({
   image: {
@@ -78,12 +81,12 @@ Then it’ll be easier for users to either spot it or ignore it to focus on the 
 
 ### Seeing and managing organisational permissions
 
-If the user works for an accredited body which ratifies another organisation’s courses, they won’t be able to manage those permissions—they’ll only be able to see them.
+If the user works for an accredited body who ratifies courses for another organisation, they’ll only be able to see those permissions—not change them.
 
-Currently the organisation page doesn’t show these relationships.
+Currently the organisation page doesn’t show these relationships which means users could be confused because they know they have relationships with these organisations.
 
 If we add this information onto the page
-Then users will be able to understand what they can do and why
+Then users won’t be flummoxed and they’ll be able to undestand who controls certain permissions
 
 {{ appFigure({
   image: {
