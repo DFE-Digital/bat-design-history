@@ -11,12 +11,12 @@ Previous iterations:
 * [first iteration](/manage-teacher-training-applications/setting-up-permissions)
 * [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
 
-In this iteration we improved the design and tested it with a user who works at Somerset SCITT who:
+The following iteration was tested with Somerset SCITT who:
 
 * run and ratify their own courses
 * ratify courses for Growing Expert Teachers, Taunton Teaching Alliance, The Beach Teaching School and Ventrus Teaching School Alliance.
 
-The prototype is based on the user's access on Publish which shows they belong to Ventrus Teaching School Alliance. During the session we learnt that the user is also belong of the other 3 organisations too.
+The prototype is based on the user's access on Publish which shows they belong to Ventrus Teaching School Alliance. During the session we learnt that the user also belongs to 3 other organisations too.
 
 This means that while this person works for Somerset SCITT, these training providers delegate power and control to people outside of their organisation.
 
@@ -76,21 +76,6 @@ Then the user will have less to scan through
 {{ appFigure({
   image: {
     file: "step3.png"
-  }
-}) }}
-
-### Seeing and managing organisational permissions
-
-If the user works for an accredited body who ratifies courses for another organisation, they’ll only be able to see those permissions—not change them.
-
-Currently the organisation page doesn’t show these relationships which means users could be confused because they know they have relationships with these organisations.
-
-If we add this information onto the page
-Then users won’t be flummoxed and they’ll be able to undestand who controls certain permissions
-
-{{ appFigure({
-  image: {
-    file: "organisations2.png"
   }
 }) }}
 
