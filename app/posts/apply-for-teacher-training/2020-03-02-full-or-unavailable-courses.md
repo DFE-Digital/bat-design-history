@@ -8,6 +8,8 @@ related:
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/356
     - text: Trello
       href: https://trello.com/c/Ffktb1Rq/1098-stop-candidates-from-applying-to-courses-that-are-full-or-closed
+    - text: Trello (full time or part time full)
+      href: https://trello.com/c/pXsJFMZX/1291-design-handle-location-pt-ft-courses-filling
 ---
 
 We’ve divided the designs for full courses into two parts:
@@ -20,6 +22,7 @@ Here we are focusing on the first part, specifically, stopping candidates from:
 * picking a course that’s full
 * submitting an application with a course that’s full
 * submitting an application with a location that’s full
+* submitting an application to a course that was offered as full or part time, but now only has vacancies in the option they didn’t select (eg they chose part time, but the course now only has full time vacancies)
 
 ## Scenarios
 
@@ -53,6 +56,7 @@ Either:
 * the course is now full
 * the location is full
 * [the course has been withdrawn](/publish-teacher-training-courses/deleting-and-withdrawing) (maybe it’s no longer running, or was published by mistake)
+* the study mode they picked (full time or part time) is now full
 
 {{ appUserNeeds({ items: collections['user-need'] | slugs(['AN019'])}) }}
 
@@ -61,6 +65,38 @@ Either:
 If we warn the user when they are reviewing their application, then they will know that they should delete or change that course before they try to continue. If they try and continue regardless, we can prevent them using validation and show the same messages as errors.
 
 This is a prevention technique at the most appropriate point. We can nudge users earlier on in their journey, which would mean these messages are less likely to be seen. We aren’t designing these warnings yet.
+
+### Errors and warning messages
+
+Course is full:
+
+> You cannot apply to ‘[Provider] – [Course and code]’ because it has no vacancies
+
+Course has been withdrawn:
+
+> You cannot apply to ‘[Provider] – [Course and code]’ because it is not running
+
+Location is full:
+
+> Your chosen location for ‘[Provider] – [Course and code]’ has no vacancies
+
+Study mode is full (only for courses that offer a choice between full time and part time):
+
+> You cannot apply for a [part time|full time] course at ‘[Provider] – [Course and code]’ because it has no [part time|full time] vacancies
+
+Location is full for a study mode (only for courses that offer a choice between full time and part time):
+
+> Your chosen location for ‘[Provider] – [Course and code]’ has no [part time|full time] vacancies
+
+### Actions available
+
+Each error state has these options for recovery:
+
+- deleting the choice
+- changing to another course
+- contacting the training provider to discuss options (see below)
+
+When a location is full and another location is available, the first option is to ‘pick a new location’.
 
 ## Contacting a provider
 
