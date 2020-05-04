@@ -96,7 +96,7 @@ Each error state has these options for recovery:
 - changing to another course
 - contacting the training provider to discuss options (see below)
 
-When a location is full, there is another choice, the first option is to ‘pick a new location’.
+When a location is full and another location is available, the first option is to ‘pick a new location’.
 
 ## Contacting a provider
 
