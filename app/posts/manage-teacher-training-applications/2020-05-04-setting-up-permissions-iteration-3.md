@@ -12,11 +12,6 @@ Teacher training providers have to partner with ‘accredited bodies’ if they�
 
 Different organisations need access to different information depending on what they’ve agreed with their partners.
 
-## User needs
-
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
-
 We based this prototype on a user who works for Somerset SCITT - an accredited body who maintains the quality of Ventrus Teaching School Alliance, as well as other training providers - including themself (they are a training provider as well).
 
 This design should allow the user at Somerset SCITT to set permissions for the various training providers they partner with and invite different users to access different things.
@@ -24,6 +19,11 @@ This design should allow the user at Somerset SCITT to set permissions for the v
 Previous iterations
 * [first iteration](/manage-teacher-training-applications/setting-up-permissions)
 * [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypotheses
 
