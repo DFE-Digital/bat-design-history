@@ -2,31 +2,28 @@
 title: Setting up permissions (iteration 3)
 description: Let providers set up permissions between themselves and their partner organisations
 date: 2020-05-04
+tags:
+- MN013
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-Previous iterations:
+Teacher training providers have to partner with ‘accredited bodies’ if they’re not an ‘accredited body’ themself. Accredited bodies maintain the quality of teacher training providers.
 
+Different organisations need access to different information depending on what they’ve agreed with their partners.
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+
+We based this prototype on a user who works for Somerset SCITT - an accredited body who maintains the quality of Ventrus Teaching School Alliance, as well as other training providers - including themself (they are a training provider as well).
+
+This design should allow the user at Somerset SCITT to set permissions for the various training providers they partner with and invite different users to access different things.
+
+Previous iterations
 * [first iteration](/manage-teacher-training-applications/setting-up-permissions)
 * [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
-
-The following iteration was tested with Somerset SCITT who:
-
-* run and ratify their own courses
-* ratify courses for Growing Expert Teachers, Taunton Teaching Alliance, The Beach Teaching School and Ventrus Teaching School Alliance.
-
-The prototype is based on the user's access on Publish which shows they belong to Ventrus Teaching School Alliance. During the session we learnt that the user also belongs to 3 other organisations too.
-
-This means that while this person works for Somerset SCITT, these training providers delegate power and control to people outside of their organisation.
-
-This set up is quite common across other partnerships on Apply.
-
-The journeys include:
-
-- setting up permissions for partner organisations for the first time
-- inviting a new user to their organisation
-- managing organisational permissions and users
 
 ## Hypotheses
 
