@@ -17,7 +17,7 @@
       {{ params.titleHtml | safe if params.titleHtml else params.titleText }}
     </h{{ headingLevel }}>
     {% if params.actions.items.length %}
-      <div class="app-summary-card__actions  app-!-print-display-none">
+      <div class="app-summary-card__actions  govuk-!-display-none-print">
         {% if params.actions.items.length == 1 %}
           {{ _actionLink(params.actions.items[0]) | indent(12) | trim }}
         {% else %}
