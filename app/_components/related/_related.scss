@@ -12,15 +12,11 @@
 }
 
 .app-related__list-item {
-  @include govuk-font(16);
   margin-top: govuk-spacing(3);
 }
 
-.app-related__list-item-title {
-  @include govuk-font(16);
-  margin: 0 0 govuk-spacing(1);
-}
-
+.app-related__list-item-title,
 .app-related__list-item-description {
+  @include govuk-font(16);
   margin: 0 0 govuk-spacing(1);
 }
