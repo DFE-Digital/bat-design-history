@@ -6,16 +6,12 @@
   margin-top: #{govuk-spacing(2) * -1};
 }
 
-.app-masthead__title {
-  color: govuk-colour("white");
+.app-masthead * {
+  color: inherit;
 }
 
 .app-masthead__description {
   @include govuk-font(24);
-
-  a {
-    color: inherit;
-  }
 }
 
 .app-masthead__image {
