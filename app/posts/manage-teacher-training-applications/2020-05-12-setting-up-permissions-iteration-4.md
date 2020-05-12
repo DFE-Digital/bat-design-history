@@ -6,7 +6,8 @@ date: 2020-05-12
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-Previous iterations
+Previous iterations:
+
 * [first iteration](/manage-teacher-training-applications/setting-up-permissions)
 * [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
 * [third iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-3)
@@ -28,21 +29,21 @@ Then they'll know what's happened and what they have to do next
   }
 }) }}
 
-### Don’t ask the user to setup permissions to courses that are run and ratified by the same provider
+### Don’t ask users to set up permissions for courses that they both run and ratify
 
 In the previous iteration we asked the user to set up permissions for courses their organisation both runs and ratifies.
 
 But this is unnecessary because they’ll need to be able to do everything as there’s no one else to do it.
 
-If the permissions are automatically granted for courses that are run and ratified by the same organisation
-Then the user doesn’t have to be concerned about setting those permissions up
+If both permissions are automatically set for courses that are run and ratified by the same organisation
+Then users don’t need to manually do this task themselves
 
 ### Check answers layout when setting up organisational permissions
 
-In the previous iteration we tried to use a standard check answers page. But as the keys and values are really long it's hard to fit in the content nicely.
+In the previous iteration we used a standard check answers page. But the key-value pairs are really long which makes the content hard to read.
 
-If we stack the content without using the summary list component
-Then the content will be more legible
+If we stack the content instead of using the [summary list](https://design-system.service.gov.uk/components/summary-list/) component
+Then the content will be much easier to read
 
 {{ appFigure({
   image: {
@@ -50,13 +51,13 @@ Then the content will be more legible
   }
 }) }}
 
-### Make sure the title makes sense when setting up user-level permissions
+### Make sure the heading makes sense when setting up user-level permissions
 
-In the previous iteration the page title on the user permissions page read ‘Select permissions for courses run by Ventrus Teaching School Alliance’.
+In the previous iteration the heading on the user permissions page read ‘Select permissions for courses run by Ventrus Teaching School Alliance’.
 
 But that only makes sense for the ‘Make decisions’ and ‘Access safeguarding information’ permissions — not the ‘Manage organisation’ and ‘Manage users’ permission.
 
-If we the title is changed to ‘Select permissions: Ventrus Teaching School Alliance’
+If the title is changed to ‘Select permissions: Ventrus Teaching School Alliance’
 Then it makes sense for all 4 permissions
 
 {{ appFigure({
@@ -69,10 +70,10 @@ Then it makes sense for all 4 permissions
 
 In the previous iteration the hint text for the ‘Make decision’ and ‘Access safeguarding information’ permissions read ‘This user will be able to [permission description] on courses ratified by [accredited bodies]’.
 
-But this is wrong when you’re a user working at an accredited body. It should read something more like ‘Applies to courses run by [training providers]’.
+But this is wrong when the user works for an accredited body. It should read something more like ‘Applies to courses run by [training providers]’.
 
-If we change the hint text to work for accredited bodies
-Then user’s won’t be confused by incorrect descriptions
+If we change the hint text to work for an accredited body
+Then users won’t be confused by incorrect descriptions
 
 {{ appFigure({
   image: {
@@ -86,10 +87,10 @@ Coming soon
 
 ### Use tick icons for bullets on organisation details page
 
-In the previous iteration, we used standard list items (bullets) for each permission. But on all other pages we used the tick icon to represent a permission. This was more of an oversight than a conscious decision.
+In the previous iteration, we used a bulleted list for each permission. But on all other pages we used tick icons for permissions—an oversight more than anything.
 
-If we use the tick icons for permissions
-Then users will recognise the items as permissions more quickly
+If we use tick icons for permissions
+Then users will recognise the items as permissions more easily
 
 {{ appFigure({
   image: {
@@ -97,11 +98,14 @@ Then users will recognise the items as permissions more quickly
   }
 }) }}
 
-### Use blue box to explain who is responsible for setting up permissions
+### Use the blue box to explain how to change permissions as an accredited body
 
-In the previous iteration, we used the warning text component to explain to users of an accredited body that they'd need to contact the training provider to make changes.
+In the previous iteration, we used the [warning text](https://design-system.service.gov.uk/components/warning-text/) component to explain to users who work for an accredited body that they need to contact the training provider to make changes.
 
-But this got a bit lost amongst the rest of the content and was inconsistent to the blue box used when setting up permissions for the first time.
+But this got a bit lost amongst the rest of the content and was inconsistent to the blue box that’s used when seeting up organisational permissions.
+
+If we use the blue box for this content
+Then users will find it easier to read
 
 {{ appFigure({
   image: {
