@@ -60,7 +60,7 @@ Questions were asked about who has the rights to perform certain tasks.
 * Who has the ability to delete courses? 
 * Who has the ability to delete users? 
 
-> “Not all users should be able to delete other users..”
+> “Not all users should be able to delete other users…”
 
 A participant requested ‘manager’ and ‘administrator’ roles and mentioned that only an ‘administrator’ should be able to withdraw a course.
 
