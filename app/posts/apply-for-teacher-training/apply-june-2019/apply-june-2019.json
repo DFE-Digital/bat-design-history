@@ -1,7 +1,6 @@
 {
-  "eleventyExcludeFromCollections": true,
-  "breadcrumbs": [{
-    "text": "Apply - June 2019",
-    "href": "/apply-for-teacher-training/apply-june-2019"
-  }]
+  "layout": "page",
+  "eleventyNavigation": {
+    "parent": "apply-june-2019"
+  }
 }

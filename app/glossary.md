@@ -2,7 +2,6 @@
 layout: page
 title: Glossary
 description: A collection of terms commonly used across the Find Teacher Training Service.
-breadcrumbs: false
 permalink: "/glossary.html"
 ---
 

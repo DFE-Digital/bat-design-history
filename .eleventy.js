@@ -17,9 +17,9 @@ module.exports = function (eleventyConfig) {
 
   // Plugins
   eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
+  eleventyConfig.addPlugin(require('@11ty/eleventy-navigation'));
 
   // Filters
-  eleventyConfig.addFilter('breadcrumbs', require('./lib/filters/breadcrumbs'))
   eleventyConfig.addFilter('date', require('./lib/filters/date'))
   eleventyConfig.addFilter('fixed', require('./lib/filters/fixed'))
   eleventyConfig.addFilter('includes', require('./lib/filters/includes'))
@@ -38,6 +38,7 @@ module.exports = function (eleventyConfig) {
   // Enable data deep merge
   eleventyConfig.setDataDeepMerge(true);
 
+  // Collections
   eleventyConfig.addCollection('apply-for-teacher-training', function(collection) {
     return collection.getFilteredByTag('apply-for-teacher-training').filter(function(item) {
       return !item.data.tags.includes('user-need');

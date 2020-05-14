@@ -5,10 +5,12 @@
 {% from "prose/macro.njk" import appProse %}
 
 {% block beforeContent %}
-  {{ govukBreadcrumbs({
+  {{ appBreadcrumbs({
     classes: "govuk-!-display-none-print",
-    items: breadcrumbs | breadcrumbs(app, page, title)
-  }) if breadcrumbs != false }}
+    title: title,
+    items: collections.all,
+    key: eleventyNavigation.key
+  }) if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent }}
 {% endblock %}
 
 {% block content %}

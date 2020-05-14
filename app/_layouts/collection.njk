@@ -17,10 +17,12 @@
     startButton: startButton if startButton,
     image: image if image
   }) %}
-    {{ govukBreadcrumbs({
+    {{ appBreadcrumbs({
       classes: "app-breadcrumbs--inverted govuk-!-display-none-print",
-      items: breadcrumbs | breadcrumbs(app, page, title)
-    }) if breadcrumbs != false }}
+      title: title,
+      items: collections.all,
+      key: eleventyNavigation.key
+    }) if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent }}
   {% endcall %}
 
   <div class="govuk-width-container">

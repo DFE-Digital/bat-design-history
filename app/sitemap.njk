@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Sitemap
-breadcrumbs: false
 permalink: "/sitemap.html"
 ---
-{% for item in collections["product"] | sort("data.order") %}
-  <h2 class="govuk-heading-l">
-    <a href="{{ item.url }}">{{ item.data.title }}</a>
-  </h2>
-  {% set collection = item.data.pagination.data | replace("collections.", "") %}
-  <ul class="govuk-list">
-  {% for item in collections[collection] %}
-    <li class="govuk-!-margin-bottom-2">
-      <a href="{{ item.url }}">{{ item.data.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
+{% for item in collections.all | eleventyNavigation("app") %}
+  {% if loop.index == 1 %}
+    <h2 class="govuk-heading-l">Find</h2>
+  {% elseif loop.index == 3 %}
+    <h2 class="govuk-heading-l">Apply</h2>
+  {% endif %}
+  <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  </h3>
+  <p class="govuk-body">{{ item.excerpt }}</p>
+  {{ collections.all | eleventyNavigation(item.key) | eleventyNavigationToHtml({
+    listClass: "govuk-list govuk-list--bullet"
+  }) | safe }}
 {% endfor %}
