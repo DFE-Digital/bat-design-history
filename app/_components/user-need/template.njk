@@ -2,10 +2,13 @@
 
 <div class="app-user-need">
   {% if params.status %}
-    {{govukTag({ text: params.status, classes: "app-user-need__status" })}}
+    {{ govukTag({
+      classes: "app-user-need__status",
+      text: params.status
+    }) }}
   {% endif %}
-  <p class="govuk-body">{{params.description | nl2br | safe}}</p>
+  <p class="govuk-body">{{ params.description | nl2br | safe }}</p>
   {% if params.url %}
-    <p class="govuk-body"><a class="govuk-link" href="{{params.url}}">View need</a></p>
+    <p class="govuk-body"><a class="govuk-link" href="{{ params.url | pretty }}">View need</a></p>
   {% endif %}
 </div>
