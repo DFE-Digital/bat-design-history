@@ -81,9 +81,20 @@ Then users won’t be confused by incorrect descriptions
   }
 }) }}
 
-### Add a hint to warn the user of the consequences of inviting someone from outside of their organisation
+### Warn the user of the consequences of inviting someone from outside of their organisation
 
-Coming soon
+Inviting a user outside of your organisation means they’ll be able to view all applications to courses they look after. They'll also be able to make decisions about applications and view sensitive information, if given permission.
+
+This might be fine, but without guidance, the user might accidentally invite someone from say one accredited body to be able to see courses that are ratified by another.
+
+If we warn the user of the consequences of inviting someone ot their organisation
+Then it will be far less likely that the they’ll invite someone from outside of their organisation by mistake
+
+{{ appFigure({
+  image: {
+    file: "invite-warning.png"
+  }
+}) }}
 
 ### Use tick icons for bullets on organisation details page
 
@@ -102,7 +113,7 @@ Then users will recognise the items as permissions more easily
 
 In the previous iteration, we used the [warning text](https://design-system.service.gov.uk/components/warning-text/) component to explain to users who work for an accredited body that they need to contact the training provider to make changes.
 
-But this got a bit lost amongst the rest of the content and was inconsistent to the blue box that’s used when seeting up organisational permissions.
+But this got a bit lost amongst the rest of the content and was inconsistent to the blue box that’s used when setting up organisational permissions.
 
 If we use the blue box for this content
 Then users will find it easier to read
