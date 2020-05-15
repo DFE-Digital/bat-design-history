@@ -3,15 +3,6 @@
 {% from "article/macro.njk" import appArticle %}
 {% from "prose/macro.njk" import appProse %}
 
-{% block beforeContent %}
-  {{ appBreadcrumbs({
-    classes: "govuk-!-display-none-print",
-    title: title,
-    items: collections.all,
-    key: eleventyNavigation.key
-  }) if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent }}
-{% endblock %}
-
 {% block content %}
   {% call appArticle({
     header: {

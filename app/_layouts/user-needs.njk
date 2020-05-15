@@ -5,15 +5,6 @@
 {% from "prose/macro.njk" import appProse %}
 {% from "user-needs/macro.njk" import appUserNeeds %}
 
-{% block beforeContent %}
-  {{ appBreadcrumbs({
-    classes: "govuk-!-display-none-print",
-    title: title,
-    items: collections.all,
-    key: eleventyNavigation.key
-  }) if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent }}
-{% endblock %}
-
 {% block content %}
   {{ appProse({
     prose: content
