@@ -10,7 +10,7 @@ permalink: "/sitemap.html"
     <h2 class="govuk-heading-l">Apply</h2>
   {% endif %}
   <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
-    <a href="{{ item.url }}">{{ item.title }}</a>
+    <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
   </h3>
   <p class="govuk-body">{{ item.excerpt }}</p>
   {{ collections.all | eleventyNavigation(item.key) | eleventyNavigationToHtml({

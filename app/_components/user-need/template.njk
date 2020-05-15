@@ -9,6 +9,6 @@
   {% endif %}
   <p class="govuk-body">{{ params.description | nl2br | safe }}</p>
   {% if params.url %}
-    <p class="govuk-body"><a class="govuk-link" href="{{ params.url | pretty }}">View need</a></p>
+    <p class="govuk-body"><a class="govuk-link" href="{{ params.url | url | pretty }}">View need</a></p>
   {% endif %}
 </div>

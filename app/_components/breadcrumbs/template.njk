@@ -3,7 +3,7 @@
   <ol class="govuk-breadcrumbs__list">
   {%- for item in items %}
     <li class="govuk-breadcrumbs__list-item">
-      <a class="govuk-breadcrumbs__link" href="{{ item.url | url }}">{{ item.title }}</a>
+      <a class="govuk-breadcrumbs__link" href="{{ item.url | url | pretty }}">{{ item.title }}</a>
     </li>
   {%- endfor %}
     <li class="govuk-breadcrumbs__list-item" aria-current="page">{{ params.title }}</li>
