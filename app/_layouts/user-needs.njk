@@ -5,44 +5,41 @@
 {% from "prose/macro.njk" import appProse %}
 {% from "user-needs/macro.njk" import appUserNeeds %}
 
-{% block main %}
-  <div class="govuk-width-container">
-    {% block beforeContent %}
-      {{ govukBreadcrumbs({
-        classes: "govuk-!-display-none-print",
-        items: breadcrumbs | breadcrumbs(app, page, title)
-      }) if breadcrumbs != false }}
-    {% endblock %}
-    <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
-    {% block content %}
-      {{ appProse({
-        prose: content
+{% block beforeContent %}
+  {{ govukBreadcrumbs({
+    classes: "govuk-!-display-none-print",
+    items: breadcrumbs | breadcrumbs(app, page, title)
+  }) if breadcrumbs != false }}
+{% endblock %}
+
+{% block content %}
+  {{ appProse({
+    prose: content
+  }) }}
+  <div class="govuk-grid-row">
+    <section class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-xl">{{ title }}</h1>
+
+      {% if pagination.items.length > 0 %}
+        {{ appUserNeeds({
+          items: pagination.items
+        }) }}
+      {% else %}
+        <p class="govuk-body">No needs found.</p>
+      {% endif %}
+
+      {{ appPagination({
+        previous: {
+          text: "Previous",
+          href: pagination.href.previous
+        } if pagination.href.previous,
+        next: {
+          text: 'Next',
+          href: pagination.href.next
+        } if pagination.href.next,
+        selected: pagination.pageNumber,
+        items: pagination.hrefs
       }) }}
-      <div class="govuk-grid-row">
-        <section class="govuk-grid-column-two-thirds">
-          <h1 class="govuk-heading-xl">{{title}}</h1>
-
-          {% if pagination.items.length > 0 %}
-            {{ appUserNeeds({ items: pagination.items }) }}
-          {% else %}
-            <p class="govuk-body">No needs found.</p>
-          {% endif %}
-
-          {{ appPagination({
-            previous: {
-              text: "Previous",
-              href: pagination.href.previous
-            } if pagination.href.previous,
-            next: {
-              text: 'Next',
-              href: pagination.href.next
-            } if pagination.href.next,
-            selected: pagination.pageNumber,
-            items: pagination.hrefs
-          }) }}
-        </section>
-      </div>
-    {% endblock %}
-    </main>
+    </section>
   </div>
 {% endblock %}
