@@ -1,6 +1,7 @@
 {
+  "tags": false,
   "layout": "page",
   "eleventyNavigation": {
-    "parent": "apply-ucas"
+    "parent": "ucas"
   }
 }

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Private beta
 description: The private beta was a reduced version of the alpha, focusing on a single subject – business studies.
 date: 2018-05-15
@@ -16,7 +15,6 @@ eleventyComputed:
   eleventyNavigation:
     key: find-private-beta
     title: "{{ title }}"
-    parent: Find postgraduate teacher training
 ---
 
 The private beta was a reduced version of the alpha, focusing on a single subject – business studies.

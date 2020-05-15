@@ -1,6 +1,6 @@
 {
   "layout": "collection",
-  "permalink": "{{ page.filePathStem | replace('collections/', '') }}/index.html",
+  "permalink": "{{ page.filePathStem | replace('collections/', '') }}/",
   "eleventyComputed": {
     "eleventyNavigation": {
       "key": "{{ title }}",
