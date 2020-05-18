@@ -1,9 +1,6 @@
 {
-  "breadcrumbs": [{
-    "text": "Publish teacher training courses",
-    "href": "/publish-teacher-training-courses"
-  }],
-  "tags": [
-    "publish-teacher-training-courses"
-  ]
+  "tags": ["publish-teacher-training-courses"],
+  "eleventyNavigation": {
+    "parent": "Publish teacher training courses"
+  }
 }

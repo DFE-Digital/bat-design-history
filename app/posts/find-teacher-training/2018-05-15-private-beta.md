@@ -1,6 +1,4 @@
 ---
-eleventyExcludeFromCollections: false
-layout: post
 title: Private beta
 description: The private beta was a reduced version of the alpha, focusing on a single subject – business studies.
 date: 2018-05-15
@@ -13,6 +11,10 @@ related:
       Password: beta
   - text: "Prototype code on Github"
     href: https://github.com/DFE-Digital/search-and-compare-prototype/tree/beta
+eleventyComputed:
+  eleventyNavigation:
+    key: find-private-beta
+    title: "{{ title }}"
 ---
 
 The private beta was a reduced version of the alpha, focusing on a single subject – business studies.

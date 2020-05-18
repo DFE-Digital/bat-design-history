@@ -5,13 +5,6 @@
 {% from "prose/macro.njk" import appProse %}
 {% from "user-needs/macro.njk" import appUserNeeds %}
 
-{% block beforeContent %}
-  {{ govukBreadcrumbs({
-    classes: "govuk-!-display-none-print",
-    items: breadcrumbs | breadcrumbs(app, page, title)
-  }) if breadcrumbs != false }}
-{% endblock %}
-
 {% block content %}
   {{ appProse({
     prose: content

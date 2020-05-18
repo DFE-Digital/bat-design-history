@@ -1,7 +1,7 @@
 {
-  "eleventyExcludeFromCollections": true,
-  "breadcrumbs": [{
-    "text": "Alpha",
-    "href": "/find-teacher-training/alpha"
-  }]
+  "tags": false,
+  "layout": "page",
+  "eleventyNavigation": {
+    "parent": "find-alpha"
+  }
 }

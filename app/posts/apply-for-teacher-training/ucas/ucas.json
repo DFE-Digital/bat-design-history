@@ -1,8 +1,7 @@
 {
-  "eleventyExcludeFromCollections": true,
+  "tags": false,
   "layout": "page",
-  "breadcrumbs": [{
-    "text": "UCAS Teacher Training",
-    "href": "/apply-for-teacher-training/ucas"
-  }]
+  "eleventyNavigation": {
+    "parent": "ucas"
+  }
 }

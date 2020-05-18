@@ -1,9 +1,6 @@
 {
-  "breadcrumbs": [{
-    "text": "Apply for teacher training",
-    "href": "/apply-for-teacher-training"
-  }],
-  "tags": [
-    "apply-for-teacher-training"
-  ]
+  "tags": ["apply-for-teacher-training"],
+  "eleventyNavigation": {
+    "parent": "Apply for teacher training"
+  }
 }

@@ -1,7 +1,7 @@
 {
-  "eleventyExcludeFromCollections": true,
-  "breadcrumbs": [{
-    "text": "Private beta",
-    "href": "/find-teacher-training/private-beta"
-  }]
+  "tags": false,
+  "layout": "page",
+  "eleventyNavigation": {
+    "parent": "find-private-beta"
+  }
 }

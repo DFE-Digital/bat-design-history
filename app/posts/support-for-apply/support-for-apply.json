@@ -1,9 +1,6 @@
 {
-  "breadcrumbs": [{
-    "text": "Support for Apply",
-    "href": "/support-for-apply"
-  }],
-  "tags": [
-    "support-for-apply"
-  ]
+  "tags": ["support-for-apply"],
+  "eleventyNavigation": {
+    "parent": "Support for Apply"
+  }
 }

@@ -1,9 +1,6 @@
 {
-  "breadcrumbs": [{
-    "text": "Find postgraduate teacher training",
-    "href": "/find-teacher-training"
-  }],
-  "tags": [
-    "find-teacher-training"
-  ]
+  "tags": ["find-teacher-training"],
+  "eleventyNavigation": {
+    "parent": "Find postgraduate teacher training"
+  }
 }

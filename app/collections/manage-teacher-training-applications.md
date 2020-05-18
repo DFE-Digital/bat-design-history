@@ -10,13 +10,11 @@ related:
     href: https://manage-applications-beta.herokuapp.com/
   - text: User needs
     href: /manage-teacher-training-applications/user-needs
-breadcrumbs:
-  text: Manage teacher training applications
-  href: /manage-teacher-training-applications
 pagination:
   data: collections.manage-teacher-training-applications
   reverse: true
   size: 50
 permalink: "manage-teacher-training-applications/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html"
-order: 4
+eleventyNavigation:
+  order: 4
 ---
