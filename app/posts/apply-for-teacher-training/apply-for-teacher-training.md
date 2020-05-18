@@ -1,4 +1,6 @@
 ---
+tags: false
+layout: collection
 title: Apply for teacher training
 description: A service for candidates to submit an application to their chosen teacher training courses
 related:
@@ -14,7 +16,11 @@ pagination:
   data: collections.apply-for-teacher-training
   reverse: true
   size: 50
-permalink: "apply-for-teacher-training/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html"
-eleventyNavigation:
-  order: 3
+permalink: "apply-for-teacher-training/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    excerpt: "{{ description }}"
+    parent: app
+    order: 3
 ---
