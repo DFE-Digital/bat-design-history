@@ -1,6 +1,6 @@
 ---
 title: Setting up permissions (iteration 2)
-description: Let providers set up permissions between themselves and their partner organisations
+description: Helping users understand what it means to set up organisational permissions and what default access means. Plus a few other improvements.
 date: 2020-04-24
 ---
 

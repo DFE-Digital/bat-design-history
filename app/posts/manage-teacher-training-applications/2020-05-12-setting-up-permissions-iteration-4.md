@@ -1,6 +1,6 @@
 ---
 title: Setting up permissions (iteration 4)
-description: Let providers set up permissions between themselves and their partner organisations
+description: Showing a confirmation page after agreeing to the data sharing agreement, not asking users to setup permissions when they both run and ratify their courses, explaining the consequences of inviting someone from outside the organisation and various other content improvements.
 date: 2020-05-12
 ---
 

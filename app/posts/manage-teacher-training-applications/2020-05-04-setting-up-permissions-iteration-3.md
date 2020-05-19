@@ -1,6 +1,6 @@
 ---
 title: Setting up permissions (iteration 3)
-description: Let providers set up permissions between themselves and their partner organisations
+description: Handling when the user belongs to multiple organisations and including clearer guidance for how permissions work.
 date: 2020-05-04
 tags:
 - MN013
