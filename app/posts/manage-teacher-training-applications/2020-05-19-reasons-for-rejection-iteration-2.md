@@ -87,5 +87,10 @@ Then providers will be able to provide feedback in the right format without worr
     img: {
       src: "preview.png"
     }
+  }, {
+    text: "Step 5 (not interested in future applications)",
+    img: {
+      src: "preview-not-interested.png"
+    }
   }]
 }) }}
