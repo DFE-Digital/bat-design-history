@@ -1,4 +1,6 @@
 ---
+tags: false
+layout: collection
 title: Manage teacher training applications
 description: A service for training providers to see, manage and make decisions on applications they receive
 related:
@@ -14,7 +16,11 @@ pagination:
   data: collections.manage-teacher-training-applications
   reverse: true
   size: 50
-permalink: "manage-teacher-training-applications/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html"
-eleventyNavigation:
-  order: 4
+permalink: "manage-teacher-training-applications/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    excerpt: "{{ description }}"
+    parent: app
+    order: 4
 ---
