@@ -26,7 +26,7 @@ Then providers won't have to type this manually
 
 ### Add a question in relation to whether they were only rejected because they were offered a different course by the same provider
 
-The previous iteration didn’t include a question for when the application was rejected due being offered one of their other choices.
+The previous iteration didn’t include a question for when the application was rejected due to being offered one of their other choices.
 
 If we include this question
 Then providers won't have to type this manually
