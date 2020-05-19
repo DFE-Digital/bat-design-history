@@ -2,13 +2,20 @@
 title: Making the references process faster
 description: Changing the way we ask for references to find out if it’s taking longer than needed.
 date: 2020-05-18
+tags:
+- AN024
 ---
 
 On average it takes about 11 days to get references.
 
-This could have a negative impact on candidates. They need 2 references to get a place and courses can become full at any time.
+This potentially has a negative impact on candidates. They need 2 references to get a place but courses can become full at any time.
 
 We changed the way we ask for references to find out if it’s taking longer than needed.
+
+### User need
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Making the process faster
 
@@ -214,3 +221,7 @@ We could update this guidance after 5 working days have passed:
 ### Other content
 
 Reference-related content is also found in other areas throughout the service, including the post-submission page, the edit your application page and the cancel your referee page. We used similar messaging here too.
+
+## How will we know this works?
+
+We'll look as user behaviour to see if references are collected more quickly.
