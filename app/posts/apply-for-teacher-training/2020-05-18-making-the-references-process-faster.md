@@ -8,30 +8,30 @@ On average it takes about 11 days to get references.
 
 This could have a negative impact on candidates. They need 2 references to get a place and courses can become full at any time.
 
-We could change the way we ask for references to find out if it’s taking longer than needed.
+We changed the way we ask for references to find out if it’s taking longer than needed.
 
-## Ways we could make the process faster
+## Making the process faster
 
 ### Assigning responsibility
 
 If we give candidates responsibility for chasing their references
 Then they will get their references more quickly
 
-For example:
+We're using messages like this:
 
 > Get your reference as soon as possible.
 
 If we give candidates responsibility for telling referees that our emails may go to junk or spam
 Then candidates will make sure referees get the email
 
-For example:
+We're using messages like this:
 
 > Your referee has not responded yet. Ask them if they got the email - it may have gone to junk or spam.
 
 If we tell referees that a candidate’s success depends on their reference
 Then they will give a reference quickly
 
-For example:
+We're using messages like this:
 
 > Teacher training courses can become full at any time. The sooner the candidate gets a reference, the more likely it is that they’ll get a place.
 
@@ -40,7 +40,7 @@ For example:
 If we give the candidate options about what to do when their referee has not responded
 Then they will have more chance of getting a reference quickly
 
-For example:
+We're using messages like this:
 
 > We have not had a reference from your referee yet. Add a new referee.
 If you know the referee is planning on giving a reference, you can keep chasing them instead.
@@ -50,7 +50,7 @@ If you know the referee is planning on giving a reference, you can keep chasing 
 If we add urgency to the content
 Then candidates will chase their references quickly
 
-For example:
+We're using messages like this:
 
 > Courses can become full at any time. Keep in touch with your referees to ensure they give a reference as soon as possible.
 
@@ -58,7 +58,7 @@ If we remove the deadline and add urgency in other ways
 Then referees will give a reference quickly
 Because they will not wait until the deadline
 
-For example:
+We're using messages like this:
 
 > The sooner the candidate gets a reference, the more likely it is that they’ll get a place. Give a reference as soon as possible.
 
@@ -72,7 +72,7 @@ Because users will:
 * [have options](/apply-for-teacher-training/making-the-references-process-faster/#giving-options)
 * [know it's urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
 
-### Examples of how the messaging could work on the [interstitial page](https://bat-design-history.netlify.app/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
+### Examples of how the messaging works on the [interstitial page](https://bat-design-history.netlify.app/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
 
 #### 'Response overdue'
 
@@ -127,11 +127,11 @@ Because users will:
 > [Continue without adding a new referee]"
 }) }}
 
-### Examples of how the messaging could work with the reference status tags
+### Examples of how the messaging works with the reference status tags
 
 [Reference status tags](https://bat-design-history.netlify.app/apply-for-teacher-training/improving-the-references-user-journey/#what-this-looks-like) are not necessarily the best places for instructions: if a candidate cancels a reference and adds a new one, the cancelled tag will still show - meaning an instruction to 'add a new referee' would be out of date.
 
-To avoid complexity and outdated content, we can give instructions on the states which are likely to get updated:
+To avoid complexity and outdated content, we give instructions on the states which are likely to get updated:
 
 #### 'Awaiting response'
 
@@ -145,7 +145,7 @@ We could update this guidance after 5 working days have passed:
 
 > Your referee has not responded yet. Keep chasing the referee or cancel this request in favour of another referee.
 
-### Examples of how the messaging could work in our emails
+### Examples of how the messaging works in our emails
 
 #### Email to referee to ask for a reference
 
@@ -213,4 +213,4 @@ We could update this guidance after 5 working days have passed:
 
 ### Other content
 
-Reference-related content is also found in other areas throughout the service, including the post-submission page, the edit your application page and the cancel your referee page. We'll use similar messaging here too.
+Reference-related content is also found in other areas throughout the service, including the post-submission page, the edit your application page and the cancel your referee page. We used similar messaging here too.
