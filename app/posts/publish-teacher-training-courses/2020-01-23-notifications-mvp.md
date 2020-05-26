@@ -47,7 +47,7 @@ A change has been made in Find postgraduate teacher training to a course that yo
 
 View the course at ((course_url)).
 
-If you’re unhappy about this change, please notify your contact at ((provider_name)).
+If you have any questions about this, please notify your contact at ((provider_name)).
 
 To stop receiving these notifications, or to update your settings, contact becomingateacher@digital.education.gov.uk, or reply to this email.
 
@@ -58,7 +58,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [Course name] (code) has been updated",
+  subject: "Course [course_name] (course_code) has been updated",
   content: template1
 }) }}
 
@@ -75,7 +75,7 @@ A new course, which you’re listed as the accredited body for, has been publish
 
 View the course at ((course_url)).
 
-If you’re unhappy about this, please notify your contact at ((provider_name)).
+If you have any questions about this, please notify your contact at ((provider_name)).
 
 To stop receiving these notifications, or to update your settings, contact becomingateacher@digital.education.gov.uk, or reply to this email.
 
@@ -85,8 +85,110 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [Course name] (code) has been created",
+  subject: "Course [course_name] (course_code) has been created",
   content: template2
+}) }}
+
+## Email template: A course has been published
+
+{% set template6 %}
+Dear colleague,
+
+A new course, which your organisation is the accredited body for, has been published on Find postgraduate teacher training.
+
+((provider_name)) created ((course_name)) (((course_code))) in Publish teacher training courses. It was published on Find at ((create_course_datetime)).
+
+View the course at ((course_url)).
+
+To stop receiving these notifications, or to update your settings, contact becomingateacher@digital.education.gov.uk, or reply to this email.
+
+Regards,
+The Becoming a Teacher team
+{% endset %}
+
+{% from "email/macro.njk" import appEmail %}
+{{ appEmail({
+  subject: "Course [course_name] (course_code) has been published",
+  content: template6
+}) }}
+
+## Email template: A course has been withdrawn
+
+{% set template3 %}
+Dear colleague,
+
+Dear colleague,
+
+A course, which your organisation is the accredited body for, has been withdrawn from Find postgraduate teacher training.
+
+((provider_name)) withdrew ((course name)) (((course code))) in Publish teacher training courses, at ((attribute_change_datetime)).
+
+This course is no longer visible on Find and candidates can’t apply to it. It also can’t be republished or reopened to applicants in the current cycle.
+
+You can view the withdrawn course in Publish at ((course url)).
+
+If you have any questions about this change, please notify your contact at ((provider_name)). 
+
+To stop receiving these notifications, or to update your settings, contact becomingateacher@digital.education.gov.uk, or reply to this email.
+
+Regards,
+The Becoming a Teacher team
+{% endset %}
+
+{% from "email/macro.njk" import appEmail %}
+{{ appEmail({
+  subject: "Course [course_name] (course_code) has been withdrawn",
+  content: template3
+}) }}
+
+## Email template: Your organisation has been added as the accredited body
+
+{% set template4 %}
+Dear colleague,
+
+Your organisation has been added as the accredited body for a course in Find postgraduate teacher training.
+
+The accredited body for ((course_name)) (((course_code))) was previously ((old accredited body)). This was changed in Publish teacher training courses by ((provider_name)) at ((attribute_change_datetime)).
+
+View the course at ((course_url)).
+
+If you have any questions about this, please notify your contact at ((provider_name)).  
+
+To stop receiving these notifications, or to update your settings, contact becomingateacher@digital.education.gov.uk, or reply to this email.
+
+Regards,
+The Becoming a Teacher team
+{% endset %}
+
+{% from "email/macro.njk" import appEmail %}
+{{ appEmail({
+  subject: "You are now listed as the accredited body for [course_name] (course_code)",
+  content: template4
+}) }}
+
+## Email template: Your organisation has been removed as the accredited body
+
+{% set template5 %}
+Dear colleague,
+
+Your organisation has been removed as the accredited body for a course in Find postgraduate teacher training.
+
+The accredited body for ((course_name)) (((course_code))) is now ((new accredited body)). The change was made by (provider_name) in Publish teacher training courses at ((attribute_change_datetime)).
+
+View the course at ((course_url)).
+
+If you have any questions about this, please notify your contact at ((provider_name)).
+
+To stop receiving these notifications, or to update your settings, contact becomingateacher@digital.education.gov.uk, or reply to this email.
+
+Regards,
+The Becoming a Teacher team
+{% endset %}
+
+{% from "email/macro.njk" import appEmail %}
+{{ appEmail({
+  subject: "Course [course_name] (course_code) has a new accredited body",
+  content: template5
 }) }}
 
 ## Roadmap
