@@ -62,7 +62,7 @@ The Becoming a Teacher team
   content: template1
 }) }}
 
-## Email template: A course has been created
+## Email template: A course has been published
 
 [Trello card](https://trello.com/c/KbHLq4Pq/3076-m-send-notification-when-a-course-has-been-created)
 
@@ -85,7 +85,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [course_name] (course_code) has been created",
+  subject: "Course [course_name] (course_code) has been published",
   content: template2
 }) }}
 
