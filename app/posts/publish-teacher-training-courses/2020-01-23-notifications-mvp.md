@@ -89,16 +89,18 @@ The Becoming a Teacher team
   content: template2
 }) }}
 
-## Email template: A course has been published
+## Email template: A course has been created
 
 {% set template6 %}
 Dear colleague,
 
-A new course, which your organisation is the accredited body for, has been published on Find postgraduate teacher training.
+A new course has been created in Publish teacher training courses, and your organisation has been added as the accredited body for it.
 
-((provider_name)) created ((course_name)) (((course_code))) in Publish teacher training courses. It was published on Find at ((create_course_datetime)).
+((Provider_name)) created ((course_name)) ((course_code)) at ((create_course_datetime)). The course has not yet been published on Find postgraduate teacher training. You’ll receive a notification if it is published.
 
-View the course at ((course_url)).
+View the course at ((publish_url)).
+
+If you have any questions about this, please notify your contact at ((provider_name)). 
 
 To stop receiving these notifications, or to update your settings, contact becomingateacher@digital.education.gov.uk, or reply to this email.
 
@@ -108,15 +110,13 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [course_name] (course_code) has been published",
+  subject: "Course [course_name] (course_code) has been created",
   content: template6
 }) }}
 
 ## Email template: A course has been withdrawn
 
 {% set template3 %}
-Dear colleague,
-
 Dear colleague,
 
 A course, which your organisation is the accredited body for, has been withdrawn from Find postgraduate teacher training.
