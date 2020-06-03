@@ -70,7 +70,7 @@ Some users manage applications across multiple provider organisations. Our curre
 ##### Accredited bodies 
 Accredited Providers must ensure that they remain compliant with the ITT criteria. We’ve identified in research that in some partnerships, application management is controlled centrally, whilst for other partnerships, Accredited bodies only need to have sight of submitted applications and acceptances to to track volumes, as opposed to individual applications (possibly a dashboard?. How might we cater for this scenario?
 
-#### Scenario 3 - restricting access to sensitive personal information 
+#### Scenario 3: restricting access to sensitive personal information 
 Sensitive personal information will be collected in Apply for safeguarding and statistical reporting needs. This information includes:
 * Safeguarding and disability research 
 * Equality monitoring 
