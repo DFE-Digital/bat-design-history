@@ -63,7 +63,7 @@ The most common organisational structures for providers are shown below:
 
 For many organisations, multiple different user types are involved in the application decision making process. We’ve identified common patterns through research where admissions staff will sift applications (on a daily basis), whilst academic staff will be largely involved in the interview process (may only require occasional access).
 
-#### Scenario 2 - managing applications across multiple organisations
+#### Scenario 2: managing applications across multiple organisations
 
 Some users manage applications across multiple provider organisations. Our current business rules state that provider users should be able to view and make decisions on applications to courses that they deliver, or ratify. The provider UI and API enable provider users to change the course as part of an offer. We need to make sure that if a course change happens, the application is no longer visible to the provider (if it is not a course they ratify, or deliver)
 
