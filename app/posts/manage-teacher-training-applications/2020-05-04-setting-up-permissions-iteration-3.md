@@ -17,6 +17,7 @@ We based this prototype on a user who works for Somerset SCITT - an accredited b
 This design should allow the user at Somerset SCITT to set permissions for the various training providers they partner with and invite different users to access different things.
 
 Previous iterations
+
 * [first iteration](/manage-teacher-training-applications/setting-up-permissions)
 * [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
 

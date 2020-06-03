@@ -39,10 +39,10 @@ When applying again, a candidate can make an unlimited number of applications, o
 
 ## User research
 
-- [Research playback deck](https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit)
-- [Lookback recordings from first iteration](https://lookback.io/dfe-digital/candidates-apply-2-research-round-10)
-- [Lookback recordings from second iteration](https://lookback.io/dfe-digital/candidates-apply-2-part-2-round-13)
-- [Discussion guide](https://docs.google.com/spreadsheets/d/1pFiuoqEqqkZDQJZksrciMab6O3_RI8LbixwwuuecfSA/edit)
+* [Research playback deck](https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit)
+* [Lookback recordings from first iteration](https://lookback.io/dfe-digital/candidates-apply-2-research-round-10)
+* [Lookback recordings from second iteration](https://lookback.io/dfe-digital/candidates-apply-2-part-2-round-13)
+* [Discussion guide](https://docs.google.com/spreadsheets/d/1pFiuoqEqqkZDQJZksrciMab6O3_RI8LbixwwuuecfSA/edit)
 
 ### Apply 2 naming
 
@@ -93,15 +93,15 @@ It might be possible for a candidate to apply to a course from Find when they ar
 
 ## Design changes
 
-- Course choices becomes Course choice
-- 3 choices becomes 1 choice in guidance
-- The ‘add another course’ flow doesn’t happen
-- Add an apply again page and link to it in a banner on the dashboard
-- Show a ‘Your application was copied’ banner when a new application is made
-- Tweak the title of the application page to be "Your new application"
-- Show previous applications in the right column
-- Show reference statuses to indicate if a reference has been received or not
-- Make received references read only (you can delete but not change any other aspect)
+* Course choices becomes Course choice
+* 3 choices becomes 1 choice in guidance
+* The ‘add another course’ flow doesn’t happen
+* Add an apply again page and link to it in a banner on the dashboard
+* Show a ‘Your application was copied’ banner when a new application is made
+* Tweak the title of the application page to be "Your new application"
+* Show previous applications in the right column
+* Show reference statuses to indicate if a reference has been received or not
+* Make received references read only (you can delete but not change any other aspect)
 
 [Our review of the service](/apply-for-teacher-training/changes-for-apply-2) highlighted further changes for the ‘Apply again’ context.
 

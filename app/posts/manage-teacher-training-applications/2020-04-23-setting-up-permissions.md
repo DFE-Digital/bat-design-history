@@ -21,8 +21,8 @@ We tested a rough prototype with a user who processes applications for Titan Par
 
 The journeys include:
 
-- setting up permissions for partner organisations for the first time
-- inviting a new user to their organisation
+* setting up permissions for partner organisations for the first time
+* inviting a new user to their organisation
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

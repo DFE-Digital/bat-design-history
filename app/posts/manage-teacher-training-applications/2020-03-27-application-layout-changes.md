@@ -75,8 +75,8 @@ Then it'll be more familiar, easier to read and won't need to be revealed
 
 Previously the [personal statement used a summary list](/manage-teacher-training-applications/offer-panel#offer-panel-new). But this is problematic because:
 
-- there's limited space in the right column to fit the content nicely
-- there's not enough space in the left column to explain what the candidate's view is
+* there's limited space in the right column to fit the content nicely
+* there's not enough space in the left column to explain what the candidate's view is
 
 If the sections are laid out with simple headings, paragraphs and sensible line lengths, then it'll be easy to read
 
@@ -122,18 +122,19 @@ Previously [the respond to application section was wrapped in a box](/manage-tea
 
 The main reason for the box was to differentiate the offer from the application. But putting ‘Respond to application’ inside the box is problematic because:
 
-- it doesn't represent an offer
-- other important details like ‘Respond to applicant by’ could be more prominent
-- the [status banner used to prompt candidate to give a new referee](/apply-for-teacher-training/add-a-new-referee#application-dashboard-with-warning) is a better way to lay this out
+* it doesn't represent an offer
+* other important details like ‘Respond to applicant by’ could be more prominent
+* the [status banner used to prompt candidate to give a new referee](/apply-for-teacher-training/add-a-new-referee#application-dashboard-with-warning) is a better way to lay this out
 
 If the status banner is used then it:
-- won't be confused for an offer
-- will use a more suitable pattern
-- will make the respond by date more consistent
+
+* won't be confused for an offer
+* will use a more suitable pattern
+* will make the respond by date more consistent
 
 We'll know this works when:
 
-- users spot the banner and click on ‘Respond to application’
+* users spot the banner and click on ‘Respond to application’
 
 {{ appFigure({
   image: {

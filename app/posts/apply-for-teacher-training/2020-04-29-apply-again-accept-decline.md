@@ -16,9 +16,9 @@ related:
 
 The updated content removes mention of:
 
-- UCAS when suggesting a candidate can apply again after declining or withdrawing
-- the caveat about "all other offers" when declining an offer and "all other choices" when withdrawing, for an application with 1 choice
-- automatically withdrawing other choices when accepting an offer on an application with 1 choice
+* UCAS when suggesting a candidate can apply again after declining or withdrawing
+* the caveat about "all other offers" when declining an offer and "all other choices" when withdrawing, for an application with 1 choice
+* automatically withdrawing other choices when accepting an offer on an application with 1 choice
 
 These changes should also apply to first applications that have only 1 choice.
 

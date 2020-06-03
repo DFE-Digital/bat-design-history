@@ -130,14 +130,14 @@ The design should be slightly different when the user belongs to one organisatio
 
 When inviting a user:
 
-- remove the ‘select organisations...’ page from the flow
-- change the content on the ‘Select permissions...’ page to read just ‘Select permissions’
-- remove the ‘Organisations this user has access to...’ line on the check answers page
+* remove the ‘select organisations...’ page from the flow
+* change the content on the ‘Select permissions...’ page to read just ‘Select permissions’
+* remove the ‘Organisations this user has access to...’ line on the check answers page
 
 When editing a user:
 
-- remove the ‘Organisations this user has access to...’ line on the details page
-- change the ‘change permissions’ page to read just ‘Change permissions’
+* remove the ‘Organisations this user has access to...’ line on the details page
+* change the ‘change permissions’ page to read just ‘Change permissions’
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

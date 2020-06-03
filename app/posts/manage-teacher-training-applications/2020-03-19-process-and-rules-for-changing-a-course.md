@@ -30,15 +30,15 @@ If the provider and candidate agree to a change of interview date, they can reco
 
 If the provider initially made a conditional offer they can change:
 
-- training programme, start date, location and campus
-- to an unconditional offer
+* training programme, start date, location and campus
+* to an unconditional offer
 
 ### Changing the details of an unconditional offer
 
 If the provider initially made an unconditional offer they can:
 
-- change or add conditions
-- change training programme, start date, location and campus
+* change or add conditions
+* change training programme, start date, location and campus
 
 ## Making changes after candidate accepts the offer
 

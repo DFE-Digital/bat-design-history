@@ -5,6 +5,7 @@ date: 2020-05-18
 tags:
 - AN024
 ---
+<!-- markdownlint-disable MD024 -->
 
 On average it takes about 11 days to get references.
 

@@ -1,6 +1,6 @@
 ---
 title: Allocations alpha
-description: Designing to accomodate changes to the allocations process for 2021/22.  
+description: Designing to accomodate changes to the allocations process for 2021/22.
 date: 2020-03-12
 related:
   items:
@@ -20,6 +20,7 @@ related:
 The Allocations alpha explored potential changes to the [previous Allocations process](/publish-teacher-training-courses/allocations-cycle-summary).
 
 We prototyped and tested features to:
+
 * provide a clear understanding of the changes to the recruitment cycle
 * grant permission to recruit for uncapped courses as part of the add courses/rollover journey on Publish
 * enable accredited providers to request and receive allocations for capped courses on Publish
@@ -72,7 +73,7 @@ This page were generally deemed to be clear and succinct.
 
 ## Requesting EYITT and undergraduate courses
 
-Google forms will be used to collect requests for EYITT and undergraduate courses as the number of ITT providers offering these courses is low and these courses are outside the scope of ublish teacher training courses. 
+Google forms will be used to collect requests for EYITT and undergraduate courses as the number of ITT providers offering these courses is low and these courses are outside the scope of ublish teacher training courses.
 
 Links to these forms will be sent to accredited bodies via email.
 
@@ -90,9 +91,9 @@ Users would prefer to be able to submit requests for all undergraduate courses c
 
 ## Request PE courses
 
-Accredited bodies will have the ability to request courses on behalf of organisations they accredit from within Publish. 
+Accredited bodies will have the ability to request courses on behalf of organisations they accredit from within Publish.
 
-If the organisation is currently offering PE, we need to know if they intended to offer PE again in the following cycle. 
+If the organisation is currently offering PE, we need to know if they intended to offer PE again in the following cycle.
 
 If the request is for an organisation running PE for the first time or had previously offered PE before the current cycle, we need to know how many places the organisation is requesting.
 
@@ -108,7 +109,7 @@ Some were confused by who is actually doing the requesting, noting that the only
 
 Users liked not having to provide a numerical range in their request yet many thought was likely to cause people to inflate numbers (as has happened anecdotally in the past).
 
-Users mentioned that a reminder of previous years’ allocations might be helpful. We addressed this by including them on confirmation screens which was seen as logical by participants. 
+Users mentioned that a reminder of previous years’ allocations might be helpful. We addressed this by including them on confirmation screens which was seen as logical by participants.
 
 ## What we learned in Alpha
 
@@ -148,28 +149,28 @@ The internal ownership of Publish varies by organisation: so the proposed new al
     },
     {
       text: "Publish teacher training courses"
-    }, 
+    },
     {
       text: "Request PE courses"
-    }, 
+    },
     {
       text: "Do you want to request PE for this organisation"
-    }, 
+    },
     {
       text: "Intends to offer fee-funded PE"
-    }, 
+    },
     {
       text: "Not offering fee-funded PE"
-    }, 
+    },
     {
       text: "Who are you requesting a course for"
-    }, 
+    },
     {
       text: "How many places would you like to request"
-    }, 
+    },
     {
       text: "Check your information"
-    }, 
+    },
     {
       text: "New organisation added"
     }
