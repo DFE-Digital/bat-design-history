@@ -20,8 +20,6 @@ One thing we would like to explore as a team is whether there are other Big Data
 
 You can [see the live report in our dashboard](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt).
 
-### Contents
-
 [[toc]]
 
 ## Find personas

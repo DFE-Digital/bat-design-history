@@ -23,8 +23,6 @@ For the first iteration of this report, we’ll use the following structure to o
 
 You can [see the live report in our dashboard](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt).
 
-### Contents
-
 [[toc]]
 
 ## Service overview
