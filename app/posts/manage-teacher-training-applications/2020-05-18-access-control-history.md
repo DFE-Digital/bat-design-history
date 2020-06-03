@@ -59,7 +59,7 @@ The most common organisational structures for providers are shown below:
 * There should be commonality between Apply and Publish access designs
 * Access to a candidate’s sensitive information should be restricted
 
-#### Scenario 1- Situations in which provider users need different levels of access
+#### Scenario 1: Situations in which provider users need different levels of access
 
 For many organisations, multiple different user types are involved in the application decision making process. We’ve identified common patterns through research where admissions staff will sift applications (on a daily basis), whilst academic staff will be largely involved in the interview process (may only require occasional access).
 
