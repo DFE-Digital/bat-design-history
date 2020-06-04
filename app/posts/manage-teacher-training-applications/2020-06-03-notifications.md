@@ -18,12 +18,12 @@ Currently all users get the following notifications by email:
 - Offer declined
 - Offer declined by default
 
-Users cannot configure these notifications and they do not get notified online within the application.
+Users cannot configure notifications and they do not get notified online within the application.
 
 This means users have to check their email in order to know what's going on. And there's a risk that these notifications will be ignored because the more notifications you get, the less useful they are.
 
 If we give users the option to be notified online
-Then users who regularly spend time within the service don't have to leave the service and login to their email to find out what's happened
+Then users who regularly spend time within the service don't have to leave the service to check their email
 
 If we let users configure what notifications they get
 Then users will only get the notifications they need in the way that suits them
@@ -34,7 +34,7 @@ A notification bubble appears next to the notifications link in the header at th
 
 Clicking on that takes the user to the notification page.
 
-Notififcations stay unread until the user reads the notification. To do that they have to visit the page which relates to the notification.
+Notifications stay unread until the user reads the notification. To do that they have to visit the page which relates to the notification.
 
 For example, when an application is submitted the user needs to visit that application for the notification to be marked as read.
 
@@ -44,7 +44,7 @@ If the user only belongs to one organisation, there should be no `h2` on the set
 
 ## Default notification settings
 
-When the user is being set up for the first time, it would be helpful to set up sensible defaults for notifications as follows:
+When a user is set up, it would be helpful to set up notifications based on their permissions:
 
 If the user has view-only permissions then all notifications relating to applications should be turned off by default.
 
