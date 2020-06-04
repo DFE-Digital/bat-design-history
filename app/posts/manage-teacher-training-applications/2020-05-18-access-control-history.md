@@ -165,7 +165,7 @@ __Key access control findings:__
 
 ##### Potential access models
 
-[Spreadsheet modeling how access permissions could work for these organisations](https://docs.google.com/spreadsheets/d/19D1PUSff78vevA8uuGtVJsnsIz7di_x3CNvbupzxNnc/edit#gid=0)
+[Spreadsheet modeling how access permissions could work for these organisations](https://docs.google.com/spreadsheets/d/19D1PUSff78vevA8uuGtVJsnsIz7di_x3CNvbupzxNnc)
 
 #### Organisation types & links
 
