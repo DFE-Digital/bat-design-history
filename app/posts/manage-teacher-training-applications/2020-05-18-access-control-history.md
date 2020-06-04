@@ -12,6 +12,8 @@ Different organisations need access to different information depending on what t
 
 How can we go about achieving this in the Manage service?
 
+## Table of contents
+
 * [The initial problem statement](#the-initial-problem-statement)
 * [Context and guidance](#context-and-guidance)
     * [How UCAS works](#how-ucas-works)
@@ -118,6 +120,12 @@ We formulated a starting hypothesis to test:
 > By introducing access controls ( e.g. read only vs. authorised to make decisions) we can better support provider users to manage applications across different organisational structures. Specifically, we can mitigate the risk of information being seen, or decisions being made, by the wrong person.
 >> By implementing this, we’ll be able to give providers more flexibility to manage their own partnerships.
 
+--- 
+
+[Return to table of contents](#table-of-contents)
+
+---
+
 ### Research we've done
 
 #### Accredited body research: survey findings
@@ -210,6 +218,12 @@ The research shows that:
     * An ITT Director may be the only person who should view safeguarding information
     * A subject lead at a school may only need to view applications
     * An ITT Administrator may need to make decisions and manage who should have access to the system.
+
+--- 
+
+[Return to table of contents](#table-of-contents)
+
+---
 
 ### User needs
 
@@ -342,6 +356,12 @@ __Key findings:__
 
 We have a good level of confidence in the understanding and the data that sits behind the decision made. We have a mid-level confidence in our designs to explain and allow providers to set up these permissions successfully for the first time. We need to do more testing with different organisation structures and with HEIs to understand how this might affect them.
 
+--- 
+
+[Return to table of contents](#table-of-contents)
+
+---
+
 ### Policy 
 
 From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that don’t provide the course have complete management responsibilities over that provider's applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
@@ -358,6 +378,12 @@ A user with Manage Users permission can invite other users from outside their or
 
 * Run policy workshop and come to decision around onboarding
 * Research with HEIs to understand how access management will work with student record systems
+
+--- 
+
+[Return to table of contents](#table-of-contents)
+
+---
 
 ### Current solution
 
@@ -377,6 +403,12 @@ __Adding users:__
 * They navigate to the “Users” area and select invite user
 * They can select which organisations the new user should belong to
 * They then select permissions for that user for each organisation in turn. The permissions screen shows the scope of different permissions for that organisation (for example, Provider X has been set-up at the organisational level to be able to make decisions for courses ratified by Accredited Body A, but not Accredited Body B. The permissions screen will show that the Make Decisions permission only applies to courses ratified by Accredited Body A)
+
+--- 
+
+[Return to table of contents](#table-of-contents)
+
+---
 
 ### Worked examples
 
@@ -519,6 +551,12 @@ __Adding users:__
         * She selects that they can manage the organisation and manage users
         * She selects that they can make decisions. She sees that this applies to courses ratified by Staffordshire University and KNSTE.
 
+--- 
+
+[Return to table of contents](#table-of-contents)
+
+---
+
 ## Appendix - UCAS Weblink Screenshots
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
@@ -549,3 +587,9 @@ Note that for changing an offer in weblink, the user can change:
 * Whether it’s a modular course (this appears to be most relevant to HEIs, less so to other providers)
 * The mode of study
 * The details of the offer (note the relatively small character limit)
+
+--- 
+
+[Return to table of contents](#table-of-contents)
+
+---
