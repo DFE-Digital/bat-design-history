@@ -10,8 +10,8 @@ In this iteration we drastically improved the design and tested it with a user w
 
 The journeys include:
 
-- setting up permissions for partner organisations for the first time
-- inviting a new user to their organisation
+* setting up permissions for partner organisations for the first time
+* inviting a new user to their organisation
 
 ## Hypotheses
 

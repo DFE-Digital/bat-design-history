@@ -25,15 +25,16 @@ So that only the appropriate people have access to my organisation
 ## Hypotheses
 
 ### Request Access
+
 A Publish user can currently request access for a new user. They currently access this feature via a link in the sidebar on the Organisation page.
- 
+
 If we rename the Request Access flow to Invite User and include it within the proposed Users feature then it will still be easy to find yet be located more logically in our information architecture.
 
 ### An updated header design
 
-As part of this research we included an alternative header design for Publish. Prior research and support tickets provide evidence that some users get confused between Find and Publish due to their similarities. 
+As part of this research we included an alternative header design for Publish. Prior research and support tickets provide evidence that some users get confused between Find and Publish due to their similarities.
 
-The design adds two new links; Notifications and Users being added to the header. 
+The design adds two new links; Notifications and Users being added to the header.
 
 If we change the appearance of the header then users will easily identify they are not on Find.
 
@@ -53,21 +54,21 @@ All the research participants were able to find the Users link in the updated he
 
 > “Really simple, easy and straightforward”
 
-Many participants expressed concerns about the level of access a user may have within Publish. 
+Many participants expressed concerns about the level of access a user may have within Publish.
 
 Questions were asked about who has the rights to perform certain tasks.
 
-* Who has the ability to delete courses? 
-* Who has the ability to delete users? 
+* Who has the ability to delete courses?
+* Who has the ability to delete users?
 
 > “Not all users should be able to delete other users…”
 
 A participant requested ‘manager’ and ‘administrator’ roles and mentioned that only an ‘administrator’ should be able to withdraw a course.
 
-Concern over the approval process was also expressed. 
+Concern over the approval process was also expressed.
 
-* Who approves the new account? 
-* On what grounds is approval determined? 
+* Who approves the new account?
+* On what grounds is approval determined?
 * How long does it take?
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
@@ -78,7 +79,7 @@ Concern over the approval process was also expressed.
     },
     {
       text: "Invite a user"
-    }, 
+    },
     {
       text: "Invite a user success"
     },

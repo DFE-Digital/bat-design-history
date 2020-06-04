@@ -21,8 +21,9 @@ If a candidate chooses a course first, and goes on to choose a course in a diffe
 ## Design notes
 
 The interstitial has also been updated so that:
-- we avoid using "copying" and present the journey more as a continuation
-- it is more aspirational, giving hope that they can still get a place this year
+
+* we avoid using "copying" and present the journey more as a continuation
+* it is more aspirational, giving hope that they can still get a place this year
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

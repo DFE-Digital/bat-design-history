@@ -92,9 +92,9 @@ Location is full for a study mode (only for courses that offer a choice between 
 
 Each error state has these options for recovery:
 
-- deleting the choice
-- changing to another course
-- contacting the training provider to discuss options (see below)
+* deleting the choice
+* changing to another course
+* contacting the training provider to discuss options (see below)
 
 When a location is full and another location is available, the first option is to ‘pick a new location’.
 
