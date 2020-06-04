@@ -114,7 +114,7 @@ For a short story of this, see our [show and tell slides](https://docs.google.co
 * Weblink is not  accessible to all users who interact with applications, meaning applications are constantly downloaded and managed outside of the service - this has GDPR implications.
 * There are constraints around the types of sensitive data the system can collect and display due to the permissions setup. For example, detailed information about criminal convictions from the candidate.
 
-__Goal:__ We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
+**Goal:** We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
 
 We formulated a starting hypothesis to test: 
 > By introducing access controls ( e.g. read only vs. authorised to make decisions) we can better support provider users to manage applications across different organisational structures. Specifically, we can mitigate the risk of information being seen, or decisions being made, by the wrong person.
