@@ -85,7 +85,7 @@ In this document, ‘access management’ and ‘access control’ mean the perm
 
 Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions aren’t needed for this. 
 
-For a short story of this, see our [Show and Tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs/edit#slide=id.g7714d84945_0_339) 
+For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs) 
 
 * [How UCAS works](#how-ucas-works)
 * [Research we've done](#research-we%E2%80%99ve-done)
