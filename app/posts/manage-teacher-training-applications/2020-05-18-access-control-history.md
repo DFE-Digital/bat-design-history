@@ -6,7 +6,7 @@ date: 2020-05-18
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-Teacher training providers have to partner with ‘accredited bodies’ if they’re not an ‘accredited body’ themselves. Accredited bodies maintain the quality of teacher training providers.
+Teacher training providers have to partner with accredited bodies if they’re not an accredited body themselves. Accredited bodies maintain the quality of teacher training providers.
 
 Different organisations need access to different information depending on what they’ve agreed with their partners.
 
