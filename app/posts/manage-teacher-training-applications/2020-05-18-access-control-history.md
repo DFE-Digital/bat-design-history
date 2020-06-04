@@ -118,7 +118,7 @@ __Goal:__ We have an opportunity in Manage to build a more secure and robust acc
 
 We formulated a starting hypothesis to test: 
 > By introducing access controls ( e.g. read only vs. authorised to make decisions) we can better support provider users to manage applications across different organisational structures. Specifically, we can mitigate the risk of information being seen, or decisions being made, by the wrong person.
->> By implementing this, we’ll be able to give providers more flexibility to manage their own partnerships.
+> By implementing this, we’ll be able to give providers more flexibility to manage their own partnerships.
 
 --- 
 
