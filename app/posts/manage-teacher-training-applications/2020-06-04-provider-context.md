@@ -39,11 +39,7 @@ Instead, we'll need to find a way to check in with the candidate-side changes on
 {{ appScreenshots({
   items: [{
     text: "Provider context 1"
-  }
-    , {
-    text: "Provider context 2",
-    img: {
-      src: "provider-context-2.png"
-    }
+  }, {
+    text: "Provider context 2"
   }]
 }) }}
