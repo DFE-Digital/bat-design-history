@@ -6,17 +6,23 @@ date: 2020-06-03
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-## Hypotheses
+## Problem statement
 
 Providers don't have easy access to the candidate-facing application form.
 
-By showing them the guidance to candidates in context, as they read an application, we can help them understand the candidate response.
+They only see candidate answers, not the way the question is asked or what guidance is given.
 
-## Problems we've encountered due to this lack of context:
+This can lead to problems, for example:
 
 When candidates fail to enter all their relevant qualifications, providers worry this is because the form doesn't ask for them.
+
 When candidates disclose sensitive information, providers aren't sure if they understand the implications/what they are being asked.
+
 When candidates 'get things wrong' in other ways, providers don't know if it's because the guidance is unclear.
+
+## Hypothesis
+
+By showing providers the guidance and questions to candidates in context, as they read an application, we can help them understand the candidate response.
 
 ## Design proposal
 
@@ -28,4 +34,16 @@ We considered having these components automatically update with changes on the c
 
 Instead, we'll need to find a way to check in with the candidate-side changes on a regular basis so we can update accordingly.
 
-## screenshots
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Provider context 1"
+  }
+    , {
+    text: "Provider context 2",
+    img: {
+      src: "provider-context-2.png"
+    }
+  }]
+}) }}
