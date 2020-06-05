@@ -16,7 +16,7 @@ This can lead to problems, for example:
 
 When candidates fail to enter all their relevant qualifications, providers worry this is because the form doesn't ask for them.
 
-When candidates disclose sensitive information, providers aren't sure if they understand the implications/what they are being asked.
+When candidates disclose sensitive information, providers aren’t sure if they understand the implications/what they are being asked.
 
 When candidates 'get things wrong' in other ways, providers don't know if it's because the guidance is unclear.
 
