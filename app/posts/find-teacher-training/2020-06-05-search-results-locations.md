@@ -33,7 +33,7 @@ With these options for the placement school text:
 
 ### Testing with candidates
 
-For candidates we expanded this to give more context about where time would be spent:
+For candidates we expanded university search results to give more context about where time would be spent:
 
 > __Location:__
 >
@@ -44,6 +44,17 @@ For candidates we expanded this to give more context about where time would be s
 > University:
 > 4 miles away
 > You’ll be at university only some of the time
+
+And we gave more context to other results:
+
+> __Location:__
+>
+> 2 miles away
+> (Nearest of 3 locations to choose from)
+>
+> Location:
+> [Name of training location eg "Patcham High School"]
+> [Address of training location]
 
 We found that:
 
