@@ -26,7 +26,7 @@ By showing providers the guidance and questions to candidates in context, as the
 
 ## Design proposal
 
-We added a details component to the provider-facing application form labelled 'View guidance to candidate'. Selecting the component allows providers to see what the candidate sees as they complete the form.
+We added a details component to the provider-facing application form labelled ‘View guidance to candidate’. Selecting the component allows providers to see what the candidate sees as they complete the form.
 
 ## Technical considerations
 
