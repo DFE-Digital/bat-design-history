@@ -112,6 +112,14 @@ We used our last candidate sessions to explore some map concepts:
 
 These are experimental designs, showing 10 interactive maps on a page has significant performance drawbacks.
 
+## Further design tweaks
+
+In research we also tested:
+
+* removing the radius control altogether
+* removing the sort by control
+* giving the page a more specific title related to the user’s search
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
