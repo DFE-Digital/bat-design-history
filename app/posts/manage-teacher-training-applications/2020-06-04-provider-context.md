@@ -14,7 +14,7 @@ They only see candidate answers, not the way the question is asked or what guida
 
 This can lead to problems, for example:
 
-When candidates fail to enter all their relevant qualifications, providers worry this is because the form doesn't ask for them.
+When candidates fail to enter all their relevant qualifications, providers worry this is because the form doesn’t ask for them.
 
 When candidates disclose sensitive information, providers aren’t sure if they understand the implications/what they are being asked.
 
