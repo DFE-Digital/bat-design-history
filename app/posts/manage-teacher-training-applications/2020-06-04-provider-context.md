@@ -32,7 +32,7 @@ We added a details component to the provider-facing application form labelled â€
 
 We considered having these components automatically update with changes on the candidate side before rejecting this as too developer labour intensive.
 
-Instead, we'll need to find a way to check in with the candidate-side changes on a regular basis so we can update accordingly.
+Instead, weâ€™ll need to find a way to check in with the candidate-side changes on a regular basis so we can update accordingly.
 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
