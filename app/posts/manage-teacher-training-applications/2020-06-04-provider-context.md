@@ -8,7 +8,7 @@ date: 2020-06-03
 
 ## Problem statement
 
-Providers don't have easy access to the candidate-facing application form.
+Providers don’t have easy access to the candidate-facing application form.
 
 They only see candidate answers, not the way the question is asked or what guidance is given.
 
