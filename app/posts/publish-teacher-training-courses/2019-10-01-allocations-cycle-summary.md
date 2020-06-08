@@ -30,6 +30,10 @@ A new process was communicated to providers via an email sent from `itt.allocati
 
 Requests for additional PE places (PE with EBacc subject) were captured in [a separate form](https://drive.google.com/open?id=1vg8lo_59kpXDRw6aWfuFjJWzXQ0driok).
 
+## Collecting allocations mid-cycle
+
+Providers were required to submit a separate spreadsheet if they wanted to request permission to recruit in a subject they had not requested at the beginning of the cycle. This was referred to as the 'spreadsheet for missing allocations'.
+
 ## Email to providers 1
 
 This email was sent to ITT providers and lead schools.
