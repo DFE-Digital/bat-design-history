@@ -9,17 +9,17 @@ date: 2020-06-05
 
 ## Hypotheses
 
-On our provider-facing application form, we created detail components so providers can choose to view our guidance to candidates.
+Currently, no users can see safeguarding information on an application. But as we're introducing the permission to see safeguarding information we want to let those users know there's information to see.
 
-In the 'Criminal convictions and professional misconduct' section, for users with permission to view the material, we also used a detail component to indicate the candidate has disclosed information.
+But we don't want to risk colleagues seeing the information accidentally with an ‘over the shoulder’ attack.
 
-This design added privacy to the display of information, useful even for users with permission.
+We also want to make sure users without the safeguarding permission know why they can't see it so they can request permission or follow up with the person with safeguarding information as necessary.
 
-If we separate these 2 detail components and give some explanation for the latter's use
-Then users won't be confused by the appearance of two components side by outside
+If the safeguarding section is disclosed within a collapsible panel
+Then users with safeguarding permissions can reveal the information safely
 
-If we create different content for users who don't have permission to view
-Then users will understand why they don't have access to the disclosed information
+If the safeguarding section explains why it's hidden for users without the permission
+Then they'll be able to request permission or follow up with the user who has access
 
 
 ## Design proposals
