@@ -37,6 +37,4 @@ Then they'll be able to request permission or follow up with the user who has ac
   image: {
     file: "for-users-without-permission-to-view-safeguarding-information.png"
   }
-
-}]
 }) }}
