@@ -1,6 +1,6 @@
 ---
-title: Access control - feature design rationale
-description: Determining the best best model for managing organisational and user access controls and permissions
+title: Setting user permissions: context and user research
+description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here's how we arrived at our designs
 date: 2020-05-18
 ---
 
@@ -41,9 +41,9 @@ Examples we know of include:
 * School lead
 * Subject matter specialist
 * Head of department
-* Course Tutor 
+* Course tutor
 
-Organisations can deliver initial teacher training manage through various organisational structures
+Organisations can deliver initial teacher training through various organisational structures.
 
 The most common organisational structures for providers are shown below:
 {{ appFigure({
@@ -57,37 +57,38 @@ The most common organisational structures for providers are shown below:
 #### Hypotheses
 
 * There are situations in which provider users need different levels of access
-* Providers need to be able view applications made to their courses, or courses that they accredit
+* Providers need to be able view applications made to their courses, or courses that they ratify
 * There should be commonality between Apply and Publish access designs
 * Access to a candidate’s sensitive information should be restricted
+* Access to decision-making about applications should be restricted
 
 #### Scenario 1: Situations in which provider users need different levels of access
 
-For many organisations, multiple different user types are involved in the application decision making process. We’ve identified common patterns through research where admissions staff will sift applications (on a daily basis), whilst academic staff will be largely involved in the interview process (may only require occasional access).
+For many organisations, multiple different user types are involved in the application decision-making process. We’ve identified common patterns through research where admissions staff will sift applications (on a daily basis), while academic staff will be largely involved in the interview process (and may only require occasional access).
 
 #### Scenario 2: managing applications across multiple organisations
 
-Some users manage applications across multiple provider organisations. Our current business rules state that provider users should be able to view and make decisions on applications to courses that they deliver, or ratify. The provider UI and API enable provider users to change the course as part of an offer. We need to make sure that if a course change happens, the application is no longer visible to the provider (if it is not a course they ratify, or deliver)
+Some users manage applications across multiple provider organisations. Our current business rules state that provider users should be able to view and make decisions on applications to courses that they deliver, or ratify. The provider UI and API enable provider users to change the course as part of an offer. We need to make sure that if a course change happens, the application is no longer visible to the provider (if it is not a course they ratify, or deliver).
 
-##### Accredited bodies 
-Accredited Providers must ensure that they remain compliant with the ITT criteria. We’ve identified in research that in some partnerships, application management is controlled centrally, whilst for other partnerships, Accredited bodies only need to have sight of submitted applications and acceptances to to track volumes, as opposed to individual applications (possibly a dashboard?. How might we cater for this scenario?
+##### Accredited bodies
+Accredited bodies must ensure that the providers they ratify remain compliant with the initial teacher training (ITT) criteria. We’ve identified in research that in some partnerships, application management is controlled centrally by the accredited body. For other partnerships, accredited bodies only need to have sight of submitted applications and acceptances to track volumes, as opposed to individual applications (possibly a dashboard?. How might we cater for this scenario?
 
-#### Scenario 3: restricting access to sensitive personal information 
+#### Scenario 3: restricting access to sensitive personal information
 Sensitive personal information will be collected in Apply for safeguarding and statistical reporting needs. This information includes:
-* Safeguarding and disability research 
-* Equality monitoring 
+* Safeguarding and disability research
+* Equality monitoring
 
-Not all users should have access to this information, so we’ll need to figure out how and when to present this data. 
+Not all users should have access to this information, so we’ll need to figure out how and when to present this data.
 
 We should also restrict access to this information for internal support users
 
 ## Context and guidance
 
-In this document, ‘access management’ and ‘access control’ mean the permissions given training provider users and organisations to make decisions and see sensitive information. 
+In this document, ‘access management’ and ‘access control’ mean the permissions given training provider users and organisations to make decisions and see sensitive information.
 
-Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions aren’t needed for this. 
+Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions aren’t needed for this.
 
-For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs) 
+For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs)
 
 * [How UCAS works](#how-ucas-works)
 * [Research we've done](#research-we%E2%80%99ve-done)
@@ -116,11 +117,11 @@ For a short story of this, see our [show and tell slides](https://docs.google.co
 
 **Goal:** We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
 
-We formulated a starting hypothesis to test: 
+We formulated a starting hypothesis to test:
 > By introducing access controls ( e.g. read only vs. authorised to make decisions) we can better support provider users to manage applications across different organisational structures. Specifically, we can mitigate the risk of information being seen, or decisions being made, by the wrong person.
 > By implementing this, we’ll be able to give providers more flexibility to manage their own partnerships.
 
---- 
+---
 
 [Return to table of contents](#table-of-contents)
 
@@ -137,7 +138,7 @@ We conducted a survey to learn how providers work with one another, particularly
 __Key findings:__
 * There is a lot of complexity in this space.
 * We identified a number of different organisational structures, each of which has implications for how applications are processed and managed.
-* Organisational structures aren’t always based on a formal accreditation relationship and they likely change over time based on the system and their ways of working. 
+* Organisational structures aren’t always based on a formal accreditation relationship and they likely change over time based on the system and their ways of working.
 * Whoever an application starts with has some involvement at all stages of the application process.
 * Applications are being looked at by more than one organisation at most stages of the process.
 * Some of the stages can involve multiple actions or workflows.
@@ -145,7 +146,7 @@ __Key findings:__
 
 #### Access control research: moderated sessions
 
-We conducted a number of research sessions with providers to understand more about how they work with other providers and accredited bodies. The sessions below illustrate the organisational complexity faced by different types of providers, the impact it has on their processes and the implications for access control. 
+We conducted a number of research sessions with providers to understand more about how they work with other providers and accredited bodies. The sessions below illustrate the organisational complexity faced by different types of providers, the impact it has on their processes and the implications for access control.
 
 ##### Catholic Teaching School Alliance (CTSA)
 
@@ -160,7 +161,7 @@ __Key access control findings:__
 * CTSA use an external assessor for sifting applications. It would be very useful if this person could have access to Apply, but be restricted from any decision-making actions
 * The HEIs need to see the safeguarding information, CTSA do not.
 
-##### Keele and North Staffordshire Teacher Education (KNSTE) 
+##### Keele and North Staffordshire Teacher Education (KNSTE)
 
 An accredited body and SCITT, ratifying courses for 12 partner schools, of which 4 are Schools Direct, some of whom are ratified  by other accredited bodies. KNSTE also run their own courses.
 * [Session notes](https://docs.google.com/document/d/1QOGasJVs06b4NMhBWnPj9bIrhPL_P5ggf0t_N1F_2yo/edit)
@@ -177,7 +178,7 @@ __Key access control findings:__
 
 #### Organisation types & links
 
-We developed a set of organisational diagrams to explain the different set ups within organisations. These were developed with evidence from qualitative research sessions, through policy documentation and historical research across teams in DfE. 
+We developed a set of organisational diagrams to explain the different set ups within organisations. These were developed with evidence from qualitative research sessions, through policy documentation and historical research across teams in DfE.
 
 These diagrams show the organisational structures, but do not explain what different providers within the organisation are responsible for.
 
@@ -197,10 +198,10 @@ In completing this section, candidates may supply sensitive data. We tested this
 
 For SCITTs this may be:
 * Directors, chairs, CEOs
-* HR 
+* HR
 * Possibly admin staff
 
-For HEIs this may be: 
+For HEIs this may be:
 * ITT lead/director
 * Criminal convictions teams
 * HR teams
@@ -219,7 +220,7 @@ The research shows that:
     * A subject lead at a school may only need to view applications
     * An ITT Administrator may need to make decisions and manage who should have access to the system.
 
---- 
+---
 
 [Return to table of contents](#table-of-contents)
 
@@ -298,7 +299,7 @@ The aim of the session was to review the options within the options analysis pap
 
 #### Rationale for decision made
 
-The decision was made to go with option 2. It allows the provider to have full control over who has access to perform which functions. It also meets their needs around managing applications entirely within the Manage service. Although more technical to build, it will allow us greater flexibility in the future to add more permissions and will give us the data to understand how the organisations within the ITT space are set up. 
+The decision was made to go with option 2. It allows the provider to have full control over who has access to perform which functions. It also meets their needs around managing applications entirely within the Manage service. Although more technical to build, it will allow us greater flexibility in the future to add more permissions and will give us the data to understand how the organisations within the ITT space are set up.
 
 __Pros:__
 * Mitigates the high risk of someone making a decision when they are not allowed to
@@ -356,13 +357,13 @@ __Key findings:__
 
 We have a good level of confidence in the understanding and the data that sits behind the decision made. We have a mid-level confidence in our designs to explain and allow providers to set up these permissions successfully for the first time. We need to do more testing with different organisation structures and with HEIs to understand how this might affect them.
 
---- 
+---
 
 [Return to table of contents](#table-of-contents)
 
 ---
 
-### Policy 
+### Policy
 
 From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that don’t provide the course have complete management responsibilities over that provider's applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
 
@@ -379,7 +380,7 @@ A user with Manage Users permission can invite other users from outside their or
 * Run policy workshop and come to decision around onboarding
 * Research with HEIs to understand how access management will work with student record systems
 
---- 
+---
 
 [Return to table of contents](#table-of-contents)
 
@@ -389,7 +390,7 @@ A user with Manage Users permission can invite other users from outside their or
 
 __Onboarding:__
 * A user indicates the organisation they belong to
-* They can choose another user either within their organisation, or from another provider if they’re part of a close network, to set up their organisation (optionally) 
+* They can choose another user either within their organisation, or from another provider if they’re part of a close network, to set up their organisation (optionally)
 * The user signs the data sharing agreement
 * The user sets up the access permissions for their organisation and where relevant the organisation that ratifies their courses. Ratifying organisations do not get to set permissions for the courses they ratify. If they run and ratify their own courses, they will automatically be given access to the make decisions and view safeguarding permissions.
 * Onboarding can be considered complete once all organisations in a given structure have been onboarded
@@ -404,7 +405,7 @@ __Adding users:__
 * They can select which organisations the new user should belong to
 * They then select permissions for that user for each organisation in turn. The permissions screen shows the scope of different permissions for that organisation (for example, Provider X has been set-up at the organisational level to be able to make decisions for courses ratified by Accredited Body A, but not Accredited Body B. The permissions screen will show that the Make Decisions permission only applies to courses ratified by Accredited Body A)
 
---- 
+---
 
 [Return to table of contents](#table-of-contents)
 
@@ -412,12 +413,12 @@ __Adding users:__
 
 ### Worked examples
 
-#### Catholic Teaching Schools Alliance (CTSA) - a complex School Direct 
+#### Catholic Teaching Schools Alliance (CTSA) - a complex School Direct
 
 ##### Context:
 * School Direct
 * 4 accredited bodies with different working practices:
-    * Goldsmiths 
+    * Goldsmiths
     * Kings College
     * St. Mary’s
     * UCL
@@ -432,7 +433,7 @@ __Adding users:__
     * For UCL: she sets that they can see safeguarding information and that CTSA can make decisions
 
 ##### Add users:
-* CTSA have an external vettor who reviews all incoming applications. 
+* CTSA have an external vettor who reviews all incoming applications.
     * They are added as a CTSA user. They are given no permissions, meaning they get to see all applications and make notes, but nothing else.
 * Clare has a deputy.
     * They are added with Manage users and Make Decisions permissions (the make decisions permission field shows that decisions can be made for all 4 HEIs)
@@ -480,7 +481,7 @@ __Adding users:__
         * Somerset SCITT can make decisions and see safeguarding information, Venturas Teaching School Alliance can see safeguarding information.
 
 ##### Adding users:
-* Claudine (Somerset SCITT)  wants to add: 
+* Claudine (Somerset SCITT)  wants to add:
     * Her Senior Administrator:
         * She selects that they have the “make decisions” permission. She sees that this applies to courses run by all 5 providers.
     * Her safeguarding lead:
@@ -551,7 +552,7 @@ __Adding users:__
         * She selects that they can manage the organisation and manage users
         * She selects that they can make decisions. She sees that this applies to courses ratified by Staffordshire University and KNSTE.
 
---- 
+---
 
 [Return to table of contents](#table-of-contents)
 
@@ -588,7 +589,7 @@ Note that for changing an offer in weblink, the user can change:
 * The mode of study
 * The details of the offer (note the relatively small character limit)
 
---- 
+---
 
 [Return to table of contents](#table-of-contents)
 
