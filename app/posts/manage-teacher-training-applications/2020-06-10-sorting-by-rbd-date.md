@@ -1,6 +1,6 @@
 ---
 title: Sorting by reject by default date
-description: Notify users when certain things happen and let users configure what notifications they receive
+description: Let users sort by RBD date
 date: 2020-06-03
 tags:
 - MN014
@@ -13,12 +13,33 @@ tags:
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
+## How it works
+
+By default the application list is sorted by last changed which means that the application has had a change of status of a note added to it.
+
+The user can now choose to sort by RBD date (days left to respond until the application is rejected automatically).
+
+When the user sorts by RBD date the days left to respond replaces the last changed date for each application in the list that has a state of submitted.
+
+## Design rationale
+
+The sort controls are aligned left to keep it located in the same place on small screens (where the filter toggle button appears on the right) and also gives it the best chance of being seen by users who zoom.
+
+The label is visually hidden but the button acts as a quasi label for sighted users.
+
+The button is included because [submitting a form when a select box value is changed can cause accessibility issues](https://adamsilver.io/articles/select-boxes-shouldnt-submit-on-change/).
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Notification bubble",
+    text: "Sorting by last changed (default)",
     img: {
-      src: "notification-bubble.png"
+      src: "last-changed.png"
+    }
+  }, {
+    text: "Sorting by days left to respond",
+    img: {
+      src: "days-left.png"
     }
   }]
 }) }}

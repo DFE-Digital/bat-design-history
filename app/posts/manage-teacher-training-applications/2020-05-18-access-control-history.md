@@ -1,5 +1,5 @@
 ---
-title: Setting user permissions: context and user research
+title: 'Setting user permissions: context and user research'
 description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here's how we arrived at our designs
 date: 2020-05-18
 ---
