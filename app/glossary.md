@@ -61,6 +61,9 @@ Higher education institution (HEI)
 Initial teacher training (ITT)
 : The training you have to do to become a teacher. It's usually fine to say 'teacher training' rather than 'initial teacher training'. The 'ITT' abbreviation should be avoided - instead say teacher training, or just training.
 
+Lead school
+: The main organisation in a School Direct partnership. It can be a maintained school, academy, head office, sixth form college, pupil referral unit, or free school. It partners with other schools and accredited bodies to deliver teacher training courses. It has overall responsibility for making sure that School Direct criteria are upheld, and for requesting training places from DfE. Places are allocated directly to the lead school. A 'good' or 'outstanding' Ofsted rating is a requirement for lead schools.
+
 Marketing name
 : The commonly used name of an educational organisation. This may not be the legal name.
 
