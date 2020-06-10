@@ -23,7 +23,7 @@ When the user sorts by RBD date the days left to respond replaces the last chang
 
 ## Design rationale
 
-The sort controls are aligned left to keep it located in the same place on small screens (where the filter toggle button appears on the right) and also gives it the best chance of being seen by users who zoom.
+The sort controls are left aligned so that is consistently located on small screens (where the filter toggle button appears right aligned) and also gives it the best chance of being seen by users who zoom.
 
 The label is visually hidden but the button acts as a quasi label for sighted users.
 
