@@ -15,7 +15,7 @@ tags:
 
 ## How it works
 
-By default the application list is sorted by last changed which means that the application has had a change of status of a note added to it.
+By default the application list is sorted by last changed, meaning the application’s status recently changed or a note was added to it.
 
 The user can now choose to sort by RBD date (days left to respond until the application is rejected automatically).
 
