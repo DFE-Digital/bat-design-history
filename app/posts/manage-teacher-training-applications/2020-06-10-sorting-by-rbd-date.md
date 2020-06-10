@@ -1,5 +1,5 @@
 ---
-title: Sorting by reject by default date
+title: Sorting by reject by default (RBD) date
 description: Let users sort by RBD date
 date: 2020-06-03
 tags:
