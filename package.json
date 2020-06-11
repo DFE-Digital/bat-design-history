@@ -34,7 +34,8 @@
     "prestart": "npm run build",
     "start": "npx eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "netlify": "npm run build && npx eleventy"
+    "netlify": "npm run build && npx eleventy",
+    "heroku": "npm run build && npx eleventy && http-server public/ -p $PORT"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
@@ -46,6 +47,7 @@
     "dotenv": "^8.2.0",
     "fs-extra": "^9.0.0",
     "govuk-frontend": "^3.7.0",
+    "http-server": "^0.12.3",
     "lodash": "^4.17.15",
     "luxon": "^1.24.1",
     "markdown-it-abbr": "^1.0.4",
