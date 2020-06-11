@@ -6,7 +6,7 @@ date: 2020-06-03
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-## Problem statement
+## Hypotheses
 
 Providers don’t have easy access to the candidate-facing application form.
 
@@ -20,9 +20,7 @@ When candidates disclose sensitive information, providers aren’t sure if they 
 
 When candidates 'get things wrong' in other ways, providers don't know if it's because the guidance is unclear.
 
-## Hypothesis
-
-By showing providers the guidance and questions to candidates in context, as they read an application, we can help them understand the candidate response.
+If we show providers the guidance and questions to candidates in context, as they read an application, we can help them understand the candidate response
 
 ## Design proposal
 
