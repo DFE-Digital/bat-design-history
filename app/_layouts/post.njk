@@ -7,7 +7,7 @@
 {% block content %}
   {% call appArticle({
     header: {
-      title: title
+      title: title | widont
     },
     footer: {
       date: page.date,
