@@ -3,15 +3,10 @@ layout: page
 title: Sitemap
 permalink: "/sitemap.html"
 ---
-{% for item in collections.all | eleventyNavigation("app") %}
-  {% if loop.index == 1 %}
-    <h2 class="govuk-heading-l">Find</h2>
-  {% elseif loop.index == 3 %}
-    <h2 class="govuk-heading-l">Apply</h2>
-  {% endif %}
-  <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+{% for item in collections.all | eleventyNavigation("home") %}
+  <h2 class="govuk-heading-m govuk-!-margin-bottom-1">
     <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
-  </h3>
+  </h2>
   <p class="govuk-body">{{ item.excerpt }}</p>
   {{ collections.all | eleventyNavigation(item.key) | eleventyNavigationToHtml({
     listClass: "govuk-list govuk-list--bullet"

@@ -16,6 +16,6 @@ eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
-    parent: app
+    parent: home
     order: 2
 ---
