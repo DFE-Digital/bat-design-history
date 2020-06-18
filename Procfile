@@ -1,1 +1,1 @@
-web: npm run heroku
+web: http-server public/ -p $PORT

@@ -1,6 +1,6 @@
 # Design history for becoming a teacher
 
-https://bat-design-history.netlify.com
+https://bat-design-history.netlify.app
 
 ## Purpose of this project
 
@@ -24,20 +24,13 @@ This repository makes it easy to:
 Most of the time you'll be adding new posts. If you're just doing this then:
 
 * Open Terminal
-* Type `npm start`
-
-This will automatically restart the application with your changes to markdown and images applied.
-
-If you're making changes to the CSS or JavaScript then:
-
-* Open Terminal
 * Type `npm run watch`
 
-This will automatically restart the application with changes to the CSS, JavaScript and markdown applied.
+This will automatically restart the application with any changes to Markdown, images, CSS, JavaScript applied.
 
 ## Technical notes
 
-The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.io) static site generator.
+The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.dev) static site generator.
 
 ## Legacy
 
