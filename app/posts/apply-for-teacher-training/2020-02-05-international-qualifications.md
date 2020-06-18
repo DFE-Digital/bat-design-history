@@ -4,6 +4,12 @@ description: Initial designs for capturing international qualifications.
 date: 2020-02-05
 ---
 
+{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{{ govukWarningText({
+  html: "[We iterated this design before opening up the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status)" | markdown("inline"),
+  iconFallbackText: "Warning"
+}) }}
+
 Initial designs for capturing:
 
 * international degrees
