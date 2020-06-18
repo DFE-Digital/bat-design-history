@@ -60,8 +60,5 @@
     "markdownlint-cli": "^0.23.0",
     "standard": "^14.3.4",
     "webshot-node": "^0.18.2"
-  },
-  "nodemonConfig": {
-    "ext": "css, scss, js, json, md, njk"
   }
 }
