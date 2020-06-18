@@ -1,3 +1,13 @@
+.app-article__header {
+  margin-bottom: govuk-spacing(6);
+}
+
+.app-article__title {
+  @include govuk-font($size: 48, $weight: bold);
+  margin-top: 0;
+  margin-bottom: govuk-spacing(4);
+}
+
 .app-article__body {
   @include govuk-responsive-margin(8, "bottom");
 

@@ -10,6 +10,11 @@ related:
       href: https://trello.com/c/Ffktb1Rq/1098-stop-candidates-from-applying-to-courses-that-are-full-or-closed
     - text: Trello (full time or part time full)
       href: https://trello.com/c/pXsJFMZX/1291-design-handle-location-pt-ft-courses-filling
+tags:
+- AN017
+- AN018
+- AN019
+- AN020
 ---
 
 We’ve divided the designs for full courses into two parts:

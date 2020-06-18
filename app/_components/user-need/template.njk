@@ -1,14 +1,18 @@
 {% from "govuk/components/tag/macro.njk" import govukTag %}
 
-<div class="app-user-need">
+<article class="app-user-need">
+  {% if params.title %}
+    <h3 class="app-user-need__title">
+      <a href="{{ params.url | url | pretty }}">{{ params.title }}</a>
+    </h3>
+  {% endif %}
   {% if params.status %}
     {{ govukTag({
       classes: "app-user-need__status",
-      text: params.status
+      text: params.status | capitalize
     }) }}
   {% endif %}
-  <p class="govuk-body">{{ params.description | nl2br | safe }}</p>
-  {% if params.url %}
-    <p class="govuk-body"><a class="govuk-link" href="{{ params.url | url | pretty }}">View need</a></p>
-  {% endif %}
-</div>
+  <div class="app-user-need__description">
+    {{ params.description | markdown | safe }}
+  </div>
+</article>
