@@ -1,6 +1,6 @@
 ---
-title: Using radio buttons for setting organisation level permissions
-description: Grouping permissions by type instead of organisation and using radio buttons instead of checkboxes
+title: Selecting organisation level permissions by type
+description: Grouping permissions by type instead of organisation to better handle validation errors
 date: 2020-06-18
 ---
 
@@ -12,17 +12,17 @@ At least 1 organisation needs to be able to make decisions. And at least 1 organ
 
 If the user fails to do this they should see an error message. The problem is the error message relates to both groups.
 
-To make this work for 2 groups of checkboxes would mean combining them together somehow.
+To make this work for 2 groups would mean combining them together somehow.
 
 Either by having more verbose labels like ‘[name of organisation] can make decisions‘ or by putting the 2 fields inside another fieldset which can cause accessibility issues.
 
-Or we could show the same error message in both fields which isn’t ideal because users may fix the error in one field by selecting options from the other.
+Or we could show the same error message in both fields which isn’t ideal because users can fix the error in one field by selecting options in the other.
 
-If we use radio buttons grouped by permission
+If we use group permissions by type intead of organisation
 Then we can show one error message per field
 
 {{ appFigure({
   image: {
-    file: "radio-buttons.png"
+    file: "type.png"
   }
 }) }}
