@@ -15,10 +15,9 @@
   },
   permalink: "apply-for-teacher-training/user-needs/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html",
   eleventyComputed: {
-    title: "User needs",
+    title: "User needs for Apply",
     eleventyNavigation: {
-      key: "apply-user-needs",
-      title: data => data.title,
+      key: data => data.title,
       parent: "Apply for teacher training"
     }
   }

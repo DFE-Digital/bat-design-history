@@ -1,7 +1,7 @@
 module.exports = {
   tags: ["user-need"],
   eleventyNavigation: {
-    parent: "apply-user-needs"
+    parent: "User needs for Apply"
   },
   eleventyComputed: {
     title: data => `Need ${data.page.fileSlug}`,
