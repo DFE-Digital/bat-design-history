@@ -1,10 +1,5 @@
-const commonjs = require('@rollup/plugin-commonjs')
 const resolve = require('@rollup/plugin-node-resolve')
-
-const plugins = [
-  commonjs(),
-  resolve()
-]
+const commonjs = require('@rollup/plugin-commonjs')
 
 module.exports = [{
   input: 'app/_javascripts/application.js',
@@ -12,5 +7,14 @@ module.exports = [{
     file: 'public/javascripts/application.js',
     format: 'iife'
   },
-  plugins
+  plugins: [
+    resolve(),
+    commonjs()
+  ]
+}, {
+  input: 'node_modules/govuk-frontend/govuk/all.js',
+  output: {
+    file: 'public/javascripts/govuk-frontend.js'
+  },
+  context: 'window'
 }]
