@@ -3,7 +3,7 @@
 {% for item in params.items %}
   {{ appUserNeed({
     title: item.data.title,
-    description: item.data.content,
+    description: item.templateContent,
     status: item.data.status,
     url: item.url
   }) }}
