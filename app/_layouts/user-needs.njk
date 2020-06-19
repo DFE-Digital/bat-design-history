@@ -1,17 +1,11 @@
-{% extends "base.njk" %}
+{% extends "page.njk" %}
 
-{% from "user-need/macro.njk" import appUserNeed %}
 {% from "pagination/macro.njk" import appPagination %}
-{% from "prose/macro.njk" import appProse %}
 {% from "user-needs/macro.njk" import appUserNeeds %}
 
-{% block content %}
-  {{ appProse({
-    prose: content
-  }) }}
+{% set content %}
   <div class="govuk-grid-row">
-    <section class="govuk-grid-column-two-thirds">
-      <h1 class="govuk-heading-xl">{{ title }}</h1>
+    <div class="govuk-grid-column-two-thirds">
 
       {% if pagination.items.length > 0 %}
         {{ appUserNeeds({
@@ -33,6 +27,6 @@
         selected: pagination.pageNumber,
         items: pagination.hrefs
       }) }}
-    </section>
+    </div>
   </div>
-{% endblock %}
+{% endset %}

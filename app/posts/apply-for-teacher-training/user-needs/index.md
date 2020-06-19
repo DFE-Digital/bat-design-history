@@ -2,7 +2,6 @@
 {
   tags: false,
   layout: "user-needs",
-  title: "User needs",
   description: "User needs for the Apply for teacher training service",
   pagination: {
     data: "collections.user-need",
@@ -16,6 +15,7 @@
   },
   permalink: "apply-for-teacher-training/user-needs/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html",
   eleventyComputed: {
+    title: "User needs",
     eleventyNavigation: {
       key: "apply-user-needs",
       title: data => data.title,

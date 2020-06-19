@@ -1,3 +1,5 @@
+{% from "govuk/components/tag/macro.njk" import govukTag %}
+
 <article class="app-article">
   {% if params.header %}
   <header class="app-article__header">
@@ -6,7 +8,12 @@
     {% endif %}
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
-        <h1 class="govuk-heading-xl {{params.header.classes}}">{{ params.header.title }}</h1>
+        <h1 class="app-article__title {{params.header.classes}}">{{ params.header.title }}</h1>
+        {% if params.header.tag %}
+          {{ govukTag({
+            text: params.header.tag | capitalize
+          }) }}
+        {% endif %}
       </div>
     </div>
   </header>
