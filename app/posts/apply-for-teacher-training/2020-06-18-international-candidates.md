@@ -92,7 +92,16 @@ We’ll know this works when the proportion of international candidates who subm
 
 ## International addresses
 
-This section remains unchanged from the [original design for capturing international addresses](/apply-for-teacher-training/international-address/). We can derive a candidate’s domicile from the information given in this section.
+This section remains largely unchanged from the [original design for capturing international addresses](/apply-for-teacher-training/international-address/). However, so that we can derive a candidate’s domicile from the information given in this section, we ask for the country a candidate lives in before they give their address.
+
+{{ appScreenshots({
+  headingLevel: 3,
+  items: [{
+    text: "Where do you live?"
+  }, {
+    text: "What is your address"
+  }]
+}) }}
 
 ## English language proficiency
 
