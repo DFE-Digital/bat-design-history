@@ -178,7 +178,7 @@ Terms like ‘GCSE’, ‘grade’, ‘subject’, and ‘awarding body’ were 
 
 ### Hypothesis
 
-If we provide examples of the type of answer required for qualification type and subject taken
+If we provide examples of the type of answer required for qualification type, subject taken and grade
 Then candidates with international qualifications will be better able to answer
 We’ll know this works when providers are able to make an informed decision.
 
@@ -199,14 +199,17 @@ We’ll know this works when providers are able to make an informed decision.
     text: "Which institution did you study at?",
     caption: "For international degrees, we also ask for the country the institution is based in, with selection from a structured list of countries."
   }, {
-    text: "Do you have a NARIC statement of comparability for your degree? (Yes, first degree)",
-    caption: "If yes, we ask for a NARIC reference number as well as the comparable qualification shown on the certificate (up to integrated masters degree)."
-  }, {
-    text: "Do you have a NARIC statement of comparability for your degree? (Yes, subsequent degree)",
-    caption: "If yes, we ask for a NARIC reference number as well as the comparable qualification shown on the certificate (up to post doctoral award)."
+    text: "Do you have a NARIC statement of comparability for your degree? (Yes)",
+    caption: "If yes, we ask for a NARIC reference number as well as the comparable qualification shown on the certificate (up to integrated masters degree). We only ask this for the first undergraduate degree entered."
   }, {
     text: "Do you have a NARIC statement of comparability for your degree? (No)",
     caption: "If no, we advise candidates to check with their provider if this is needed, and Get Into Teaching."
+  }, {
+    text: "What grade is your degree?",
+    caption: "When asking for a grade, we give the following options: ‘Not applicable’, ‘Unknown’, ‘Other’ and ‘I’m still studying for my degree‘. If ‘Other’ is selected, hint text gives example grade values."
+  }, {
+    text: "What grade is your degree? (I’m still studying for my degree)",
+    caption: "‘I’m still studying for my degree’ shows the same guidance as that for domestic candidates."
   }, {
     text: "When did you study for your degree?",
     caption: "Same as for a UK degree."
@@ -230,6 +233,9 @@ We’ll know this works when providers are able to make an informed decision.
   }, {
     text: "Do you have a NARIC statement of comparability for your maths qualification? (No)",
     caption: "If no, we advise candidates to check with their provider if this is needed, and Get Into Teaching."
+  }, {
+    text: "What grade is your maths qualification?",
+    caption: "When asking for a grade, we give the following options: ‘Not applicable’, ‘Unknown’ and ‘Other’. If ‘Other’ is selected, hint text gives example grade values."
   }, {
     text: "When was your maths qualification awarded?",
     caption: "Same as for a UK qualification."
