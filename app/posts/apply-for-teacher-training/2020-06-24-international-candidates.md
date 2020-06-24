@@ -1,7 +1,7 @@
 ---
 title: Opening up the service to international candidates
 description: Allowing international candidates to give details about their residency status, address, language skills and academic qualifications.
-date: 2020-06-18
+date: 2020-06-24
 related:
   items:
     - text: "International candidates: Analysis"
@@ -137,11 +137,14 @@ We’ll know this works when providers get the information they need to decide w
 {{ appScreenshots({
   headingLevel: 3,
   items: [{
-    text: "Your application - qualifications",
-    caption: "If the nationality is not British or Irish, we show an ‘English language qualifications’ section under the qualifications title on the application."
+    text: "Your application – qualifications",
+    caption: "If the nationality is not British or Irish, we show an ‘English as a foreign language section under the qualifications title on the application."
   }, {
-    text: "English language qualifications",
-    caption: "The 2 most common qualifications are shown."
+    text: "English as a foreign language",
+    caption: "We ask candidates if they have an English as a foreign language qualification. If yes, we ask them for details in the next step. If no, they can provide further details about working towards getting one. Candidates can also respond by saying that they don’t consider English to be a foreign language to them."
+  }, {
+    text: "What English language qualification do you have?",
+    caption: "The 2 most common qualifications are shown, as well as an option for other."
   }, {
     text: "Add IELTS qualification",
     caption: "We ask for a Test Report Form (TRF) number and overall band score, as well as the year the qualification was awarded."
@@ -152,7 +155,13 @@ We’ll know this works when providers get the information they need to decide w
     text: "Add English language qualification",
     caption: "For any other english language qualification, we ask for its name, a score or grade, as well as the year the qualification was awarded."
   }, {
-    text: "Reviewing English language qualifications"
+    text: "Reviewing English as a foreign language"
+  }, {
+    text: "Reviewing English as a foreign language (Don’t have)",
+    caption: "If a cadidate doesn’t yet have a qualification, we show any reason they’ve given."
+  }, {
+    text: "Reviewing English as a foreign language (Don’t need)",
+    caption: "If a cadidate doesn’t need a qualification because English is not a foreign language, we show that response."
   }]
 }) }}
 
