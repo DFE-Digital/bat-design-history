@@ -4,7 +4,11 @@ description: Initial designs for capturing visas and residency status.
 date: 2020-02-05
 ---
 
-Initial designs for capturing visas and residency status
+{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{{ govukWarningText({
+  html: "[We iterated this design before opening up the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status)" | markdown("inline"),
+  iconFallbackText: "Warning"
+}) }}
 
 The residency status screen is shown when a non EU (and perhaps non EEA) nationality is selected.
 
