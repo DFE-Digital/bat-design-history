@@ -12,7 +12,7 @@ We know that there are specific activities providers undertake when a recruitmen
 * ending a recruitment cycle
 * handling "edge case" applications
 * planning a new cycle
-* data & reporting to DfE
+* data and reporting to DfE
 
 We also wanted to assess design changes for:
 * reasons for rejection
@@ -87,4 +87,3 @@ Needs also added to the following categories:
 * [Sorting by RBD date](../sorting-by-rbd-date)
 * [Reasons for rejection - iteration 3](../reasons-for-rejection-iteration-3)
 * [More context for providers](../provider-context/)
-
