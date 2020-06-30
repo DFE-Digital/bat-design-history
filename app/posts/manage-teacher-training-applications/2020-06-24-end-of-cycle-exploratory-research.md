@@ -2,6 +2,14 @@
 title: Research - end of cycle (exploratory)
 description: Understand provider needs around ending a recruitment cycle. Also some usability testing of reasons for rejection, candidate guidance on the application view and sort by Reject by Default date
 date: 2020-06-18
+related:
+  items:
+  - text: Sorting by RBD date
+    href: /manage-teacher-training-applications/sorting-by-rbd-date
+  - text: Reasons for rejection
+    href: /manage-teacher-training-applications/reasons-for-rejection-iteration-3
+  - text: More context for providers
+    href: /manage-teacher-training-applications/provider-context
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -81,11 +89,5 @@ Needs also added to the following categories:
 * [Reporting and collecting data](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g80a8d09ca1_0_42)
 * [COVID-19 Impacts](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g8a6173f9e3_0_128)
 * [Prototype feedback](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g8a6173f9e3_0_198)
-
-## Relates to
-
-* [Sorting by RBD date](../sorting-by-rbd-date)
-* [Reasons for rejection - iteration 3](../reasons-for-rejection-iteration-3)
-* [More context for providers](../provider-context/)
 
 
