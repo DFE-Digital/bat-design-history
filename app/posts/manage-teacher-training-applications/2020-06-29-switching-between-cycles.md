@@ -10,7 +10,7 @@ tags:
 - MN020
 ---
 
-Let users look at applications in the previous and next cycles by clicking ‘Switch cycle’ at the top left.
+Let users look at applications in the previous and next cycles.
 
 ## User needs
 
