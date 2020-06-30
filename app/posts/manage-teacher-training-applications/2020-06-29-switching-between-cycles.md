@@ -1,36 +1,43 @@
 ---
 title: Switching between cycles
-description: Let users see past applications and deferred applications in the next cycle
+description: Let users see switch between past and future cycles
 date: 2020-06-29
+tags:
+- MN016
+- MN017
+- MN018
+- MN019
+- MN020
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
+Let users look at applications in the previous and next cycles by clicking ‘Switch cycle’ at the top left.
 
-## Past applications
+## User needs
 
-As a provider
-I need to see reasons why I rejected past applications
-So that I can make an informed decision about the candidate if they reapply (and see if they acted on past recommendations)
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
-As a provider
-I need see past applications for successfully recruited candidates
-So that if they end up underperforming I can go back and check if something was missed and perhaps understand why
-
-As a provider
-I need see past applications for successfully recruited candidates
-So that I can use their application as a tool to check on their progress during the course
-
-## Deferred
-
-As a provider
-I need to defer an application on request from a candidate
-So that they can take a place in the next cycle and keep a good candidate in the system
-
-As a provider
-I need to be aware of which applications I have deferred, because I manage them differently to other candidates
-So that I can check in regularly with the candidate to ensure they start the course as planned
-
-## Screenshots
-
-- Current cycle
-- Change cycle flow
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Application list (current cycle)",
+    img: {
+      src: "application-list-current-cycle.png"
+    }
+  }, {
+    text: "Switch cycle",
+    img: {
+      src: "switch-cycle.png"
+    }
+  }, {
+    text: "Application list (next cycle)",
+    img: {
+      src: "application-list-next-cycle.png"
+    }
+  }, {
+    text: "Application list (with no applications)",
+    img: {
+      src: "application-list-previous-cycle.png"
+    }
+  }]
+}) }}
