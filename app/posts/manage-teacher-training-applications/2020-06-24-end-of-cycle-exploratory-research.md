@@ -20,7 +20,7 @@ We know that there are specific activities providers undertake when a recruitmen
 * ending a recruitment cycle
 * handling "edge case" applications
 * planning a new cycle
-* data & reporting to DfE
+* data and reporting to DfE
 
 We also wanted to assess design changes for:
 * reasons for rejection
@@ -82,7 +82,7 @@ Needs also added to the following categories:
 
 ## Findings report
 
-[End of cycle resarch findings](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/edit?usp=sharing)
+[End of cycle research findings](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/edit?usp=sharing)
 * [End of cycle management](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g85c8fec79f_0_157)
 * [Dealing with edge case applications](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g80a8d09ca1_0_28)
 * [Preparing for the next recruitment cycle](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g80a8d09ca1_0_35)
