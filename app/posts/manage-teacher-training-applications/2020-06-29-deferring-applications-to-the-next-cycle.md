@@ -2,26 +2,50 @@
 title: Deferring applications to the next cycle
 description: Let providers defer applications to the next cycle
 date: 2020-06-29
+tags:
+- MN016
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-As a provider
-I need to defer an application on request from a candidate
-So that they can take a place in the next cycle and keep a good candidate in the system
+## User needs
 
-What does defer mean? It means putting an application in it's current state (according to certain rules as shown below) into the next cycle ready to be reconfirmed when the next cycle begins.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
-## Rules
+## How it works
 
-- Candidate must have accepted the offer or beyond (Conditions met/recruited or pending)
-- It must have been requested by the candidate
-- Providers can defer entry at any point within the cycle
-- if a candidate has met all their conditions when the offer is deferred, then the should not edit the conditions/status of conditions.
-- it's up to providers to accept the request for deferring an application to the next cycle.
+Only applications in the ‘accepted’ or ‘conditions met’ state can be deferred to the next cycle.
 
-## Screenshots
+Deferral can only happen if the candidate requests it.
 
-Click change cycle
-Click next cycle
-Confirm
+Providers can defer an application at any point in the current cycle.
+
+If a candidate has met all of their conditions when the offer is deferred, then the provider should not edit the conditions or the statuses of those conditions. There are exceptions which is why the UI doesn’t enforce this.
+
+It’s up to providers to accept the request for deferral.
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Application page with change cycle link",
+    img: {
+      src: "application-page.png"
+    }
+  }, {
+    text: "Change cycle page",
+    img: {
+      src: "change-cycle.png"
+    }
+  }, {
+    text: "Check answers",
+    img: {
+      src: "check-answers.png"
+    }
+  }, {
+    text: "Flash message",
+    img: {
+      src: "flash-message.png"
+    }
+  }]
+}) }}
