@@ -49,7 +49,7 @@ Finally, the question has the potential to deter candidates whose first language
 
 ### Bringing all English qualifications into one section
 
-We could bring the ‘English GCSE or equivalent’ and ‘English as a foreign language’ questions into one question - which every candidate must answer.
+We could bring the [English GCSE](/apply-for-teacher-training/structured-data-for-pre-degree-qualifications/#what-english-gcse-did-you-do) and [English as a foreign language](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language) questions into one question - which every candidate must answer.
 
 This would not disrupt our existing designs very much.
 
@@ -72,7 +72,7 @@ For example:
 > [  ] Scottish National 5
 
 > [  ] English Language Test
->For example, IELTS, LanguageCert International ESOL,TOEFL, Duolingo English Test, CPE,  CAE
+>For example, IELTS, LanguageCert International ESOL, TOEFL, Duolingo English Test, CPE,  CAE
 
 > [  ] Other
 "
