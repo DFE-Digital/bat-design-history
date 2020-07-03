@@ -16,15 +16,13 @@ Providers assess English language ability through:
 
 So far, our design work has focussed on [asking candidates about their English GCSEs](/apply-for-teacher-training/structured-data-for-pre-degree-qualifications/#what-english-gcse-did-you-do).
 
-International candidates are less likely to have an English GCSE, so we needed a new design.
+International candidates are less likely to have an English GCSE, so we needed to adapt the application form.
 
 [We’ve tried one design to help providers assess international candidates’ level of English, but research suggested that it was not quite right](/apply-for-teacher-training/international-candidates/#english-language-proficiency).
 
-[Our new design](/apply-for-teacher-training/candidate-level-english/#our-new-design) has a different focus: asking international candidates to give details about their English language qualifications.
+[Our new design](#our-new-design) has a different focus: asking international candidates to give details about their English language qualifications.
 
 This gives providers evidence-based information about candidates, no matter where they’re from.
-
-The challenge: designing something that works for everyone.
 
 ## Our new design
 
