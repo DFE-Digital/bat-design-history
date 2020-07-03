@@ -22,7 +22,7 @@ International candidates are less likely to have an English GCSE, so we needed a
 
 [Our new design](/apply-for-teacher-training/candidate-level-english/#our-new-design) has a different focus: asking international candidates to give details about their English language qualifications.
 
-Why? To give providers evidence-based information about candidates, no matter where they’re from.
+This gives providers evidence-based information about candidates, no matter where they’re from.
 
 The challenge: designing something that works for everyone.
 
