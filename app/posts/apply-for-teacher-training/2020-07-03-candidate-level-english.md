@@ -61,9 +61,9 @@ For example:
 
 > ### English GCSE or equivalent, or other evidence of ability in English
 
-> What type of English qualification do you have?
+> What type of English qualification do you have? Select all that apply.
 
-> Select all that apply.
+> If you do not have an English qualification, ask your provider how to show your level of English.
 
 > [  ] GCSE
 
@@ -75,9 +75,6 @@ For example:
 >For example, IELTS, LanguageCert International ESOL,TOEFL, Duolingo English Test, CPE,  CAE
 
 > [  ] Other
-
-> [  ] I do not have an English qualification
-> Talk to your provider about showing your level of English.
 "
 }) }}
 
