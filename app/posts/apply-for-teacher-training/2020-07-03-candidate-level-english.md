@@ -1,5 +1,5 @@
 ---
-title: Is your English is good enough to be a teacher?
+title: Is your English good enough to be a teacher?
 description: We're asking international candidates to give details about their English language qualifications.
 date: 2020-07-03
 tags:
