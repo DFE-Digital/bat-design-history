@@ -36,6 +36,7 @@ The challenge: designing something that works for everyone.
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ### Problems with this design
+
 Showing [the 'English as a foreign language' question](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language) only to candidates who are not British or Irish means we’re treating candidates differently depending on where they’re from.
 
 It may appear that we’re making assumptions about a candidate’s English proficiency based on their nationality.
