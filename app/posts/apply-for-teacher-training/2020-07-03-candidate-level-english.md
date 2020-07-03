@@ -35,7 +35,7 @@ This gives providers evidence-based information about candidates, no matter wher
 
 ### Problems with this design
 
-Showing [the 'English as a foreign language' question](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language) only to candidates who are not British or Irish means we’re treating candidates differently depending on where they’re from.
+Showing the [English as a foreign language](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language) question only to candidates who are not British or Irish means we’re treating candidates differently depending on where they’re from.
 
 It may appear that we’re making assumptions about a candidate’s English proficiency based on their nationality.
 
@@ -49,7 +49,7 @@ Finally, the question has the potential to deter candidates whose first language
 
 ### Bringing all English qualifications into one section
 
-We could bring the [English GCSE](/apply-for-teacher-training/structured-data-for-pre-degree-qualifications/#what-english-gcse-did-you-do) and [English as a foreign language](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language) questions into one question - which every candidate must answer.
+We could bring the [English GCSE](/apply-for-teacher-training/structured-data-for-pre-degree-qualifications/#what-english-gcse-did-you-do) and [English as a foreign language](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language) questions into one question.
 
 This would not disrupt our existing designs very much.
 
