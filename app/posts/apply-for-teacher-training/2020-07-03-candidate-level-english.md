@@ -27,7 +27,8 @@ This gives providers evidence-based information about candidates, no matter wher
 The challenge: designing something that works for everyone.
 
 ## Our new design
-[We’re asking anyone who is not British or Irish if they have any ‘English as a foreign language’ qualifications](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language).
+
+[We ask candidates who are not British or Irish if they have any ‘English as a foreign language’ qualifications](/apply-for-teacher-training/international-candidates/#english-as-a-foreign-language).
 
 ### User needs
 
