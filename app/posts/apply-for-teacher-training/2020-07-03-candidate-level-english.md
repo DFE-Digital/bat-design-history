@@ -83,7 +83,7 @@ For example:
 "
 }) }}
 
-This approach does not make assumptions about a candidate's ability based on their background.
+This approach does not make assumptions about a candidate’s ability based on their background.
 
 It also does not imply that one qualification is more valuable than another. (International candidates may not even realise that their language qualification is equivalent to an English GCSE.)
 
