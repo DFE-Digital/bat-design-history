@@ -89,7 +89,7 @@ It also does not imply that one qualification is more valuable than another. (In
 
 ### Asking candidates to indicate their own ability
 
-We also considered asking candidates to indicate their own ability on a proficiency scale, but quickly dismissed this idea.
+We also considered asking candidates to indicate their own ability on a proficiency scale, but dismissed this idea.
 
 We were concerned that candidates are not necessarily the best judge of their own ability.
 
