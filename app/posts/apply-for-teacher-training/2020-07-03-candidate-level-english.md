@@ -6,6 +6,7 @@ tags:
 - AN026
 - MN015
 ---
+
 Candidates need to have good English to be a teacher.
 
 Providers assess English language ability through:
