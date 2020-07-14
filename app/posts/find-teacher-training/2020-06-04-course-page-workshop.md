@@ -28,7 +28,7 @@ Members of the Find team participated in a workshop to collect ideas for course 
 
 **As a candidate who works part-time and wants to study part-time**
 I need to know how many days per year I will spend doing my practical placement
-So that I know if I can do it or know (considering my part-time job and the annual leave I have).
+So that I know if I can do it or not (considering my part-time job and the annual leave I have).
 
 **As a candidate who wants to find a course to become a teacher**
 I need to know exactly what will happen during the interview
