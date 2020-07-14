@@ -1,0 +1,20 @@
+{% from "govuk/components/tag/macro.njk" import govukTag %}
+
+<article class="app-need">
+  {%- if params.title -%}
+    <h3 class="app-need__title">
+      <a href="{{ params.url | url | pretty }}">{{ params.title }}</a>
+    </h3>
+  {%- endif -%}
+  <div class="app-need__tags">
+  {%- for label in params.labels -%}
+    {{- govukTag({
+      classes: "govuk-tag--" + (label.color | default("default")),
+      text: label.name | capitalize
+    }) -}}
+  {%- endfor -%}
+  </div>
+  <div class="app-need__description">
+    {{- params.description | markdown | safe -}}
+  </div>
+</article>

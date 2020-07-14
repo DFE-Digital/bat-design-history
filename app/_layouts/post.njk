@@ -11,14 +11,14 @@
       tag: status
     },
     footer: {
-      date: page.date,
+      date: date or page.date,
       modified: modified if modified
     }
   }) %}
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
       {{ appProse({
-        prose: content
+        prose: content | markdown | safe
       }) }}
     </div>
 

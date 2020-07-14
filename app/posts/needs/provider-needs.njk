@@ -1,0 +1,16 @@
+---
+tags: false
+layout: needs
+title: Provider needs
+description: User needs for providers mangaging teacher training applications
+pagination:
+  data: needs.provider
+  reverse: true
+  size: 50
+permalink: "needs/provider/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html"
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    excerpt: "{{ description }}"
+    parent: home
+---

@@ -1,0 +1,27 @@
+---
+pagination:
+  data: needs.provider
+  size: 1
+  alias: need
+  addAllPagesToCollections: true
+tags: need
+eleventyComputed:
+  permalink: "needs/{{ need.shortLink }}/"
+  title: "{{ need.name }}"
+  modified: "{{ need.dateLastActivity }}"
+  labels: "{{ need.labels }}"
+  eleventyNavigation:
+    key: "{{ title }}"
+    parent: Provider needs
+---
+{% from "govuk/components/tag/macro.njk" import govukTag %}
+{% for label in need.labels %}
+{{ govukTag({
+  text: label.name | capitalize,
+  classes: "govuk-tag--" + (label.color | default('default'))
+}) }}
+{% endfor %}
+
+{{ need.desc }}
+
+[View evidence for this need on Trello]({{ need.shortUrl }})

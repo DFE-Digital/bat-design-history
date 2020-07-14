@@ -13,6 +13,7 @@ tags:
 - AN026
 - AN027
 - MN015
+- o3kDbr6l
 ---
 
 When we launched the service in November, we de-scoped all features related to international recruitment.
@@ -66,8 +67,9 @@ It may be useful for international applicants to know which providers can sponso
 ### User need
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({
-  items: collections['user-need'] | slugs(['AN025'])
+{% from "needs/macro.njk" import appNeeds %}
+{{ appNeeds({
+  items: collections["need"] | needs(["o3kDbr6l"])
 }) }}
 
 ### Hypothesis

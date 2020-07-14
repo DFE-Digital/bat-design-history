@@ -1,0 +1,11 @@
+{% from "need/macro.njk" import appNeed %}
+
+{% for item in params.items %}
+  {% set item = item.data.need or item %}
+  {{ appNeed({
+    title: item.name,
+    description: item.desc,
+    labels: item.labels,
+    url: "/needs/" + item.shortLink
+  }) }}
+{% endfor %}

@@ -1,0 +1,16 @@
+---
+tags: false
+layout: needs
+title: Candidate needs
+description: User needs for candidates applying for teacher training
+pagination:
+  data: needs.candidate
+  reverse: true
+  size: 50
+permalink: "needs/candidate/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% else %}index{% endif %}.html"
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    excerpt: "{{ description }}"
+    parent: home
+---

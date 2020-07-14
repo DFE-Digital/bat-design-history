@@ -24,6 +24,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('fixed', require('./lib/filters/fixed'))
   eleventyConfig.addFilter('includes', require('./lib/filters/includes'))
   eleventyConfig.addFilter('markdown', require('./lib/filters/markdown'))
+  eleventyConfig.addFilter('needs', require('./lib/filters/needs'))
   eleventyConfig.addFilter('notifyPlaceholders', require('./lib/filters/notify-placeholders'))
   eleventyConfig.addFilter('pretty', require('./lib/filters/pretty'))
   eleventyConfig.addFilter('slug', require('./lib/filters/slug'))

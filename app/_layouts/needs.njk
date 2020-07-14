@@ -1,0 +1,32 @@
+{% extends "page.njk" %}
+
+{% from "pagination/macro.njk" import appPagination %}
+{% from "needs/macro.njk" import appNeeds %}
+
+{% set content %}
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+
+      {% if pagination.items.length > 0 %}
+        {{ appNeeds({
+          items: pagination.items
+        }) }}
+      {% else %}
+        <p class="govuk-body">No needs found.</p>
+      {% endif %}
+
+      {{ appPagination({
+        previous: {
+          text: "Previous",
+          href: pagination.href.previous
+        } if pagination.href.previous,
+        next: {
+          text: 'Next',
+          href: pagination.href.next
+        } if pagination.href.next,
+        selected: pagination.pageNumber,
+        items: pagination.hrefs
+      }) }}
+    </div>
+  </div>
+{% endset %}
