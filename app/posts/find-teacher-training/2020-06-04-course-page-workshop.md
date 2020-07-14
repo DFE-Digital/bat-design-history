@@ -10,7 +10,7 @@ related:
     href: https://miro.com/welcomeonboard/yADFg4XSksX2gQpJCVr1VMl8Q7hYYV0TaDUKObyCYuZp2Mam2b1K65efFUBhEY3b
 ---
 
-Members of the Find team participated in a workshop to collect ideas for course page improvement that address the needs of candidates, providers and the DfE.
+Members of the Find team participated in a workshop to collect ideas for course page improvements that address the needs of candidates, providers and the DfE.
  
 ## Who attended?
 
@@ -192,4 +192,3 @@ So that we understand more about the users experience on the course page.
 **As the Find team**
 I need to assure course pages are indexing well and follow best SEO practices
 So that we increase candidates chance of finding them.
-
