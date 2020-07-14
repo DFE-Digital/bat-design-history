@@ -1,6 +1,6 @@
 ---
 title: Course page workshop
-description: Identifing user and stakeholder needs and opportunities for course page improvements
+description: Identifying user and stakeholder needs and opportunities for course page improvements
 date: 2020-06-04
 related:
   items:
@@ -192,5 +192,4 @@ So that we understand more about the users experience on the course page.
 **As the Find team**
 I need to assure course pages are indexing well and follow best SEO practices
 So that we increase candidates chance of finding them.
-
 
