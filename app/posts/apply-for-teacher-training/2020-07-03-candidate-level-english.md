@@ -10,6 +10,7 @@ tags:
 Candidates need to have good English to be a teacher.
 
 Providers assess English language ability through:
+
 * personal statements
 * communication at interview
 * qualifications like English GCSEs or English language tests
