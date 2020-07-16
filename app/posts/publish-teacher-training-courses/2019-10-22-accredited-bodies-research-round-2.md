@@ -43,7 +43,7 @@ The participants needed to know about any new courses so that they can update th
 
 ### Stuck in between UCAS and SITS
 
-There is an area where candidates get ‘lost’ if courses on UCAS don’t align with the Accredited bodies system.
+There is an area where candidates get ‘lost’ if courses on UCAS don’t align with the accredited bodies system.
 
 > The system is a student support system. It holds all student information and pulls it from UCAS directly. Every student is linked to a program (course) and plan code for identification. When a person is pulled into the system, it all has to link up. If they’re in UCAS and that program (course) doesn’t currently exist with us, they stay in UCAS and can't be pulled into our system.
 
@@ -54,9 +54,9 @@ There is an area where candidates get ‘lost’ if courses on UCAS don’t alig
 
 ### A need for notifications
 
-The notification needs vary for different Accredited bodies. Some have a very good partnership with their partner schools who will contact them directly about any changes made, others do not communicate regularly.
+The notification needs vary for different accredited bodies. Some have a very good relationship with their partner schools who will contact them directly about any changes made, others do not communicate regularly.
 
-> It would be great to have as an option for notifications per provider and for new providers.
+> It would be great to have the option for notifications per provider and for new providers.
 
 [Lookback highlight](https://lookback.io/watch/mB5M4s3nkDD7yTgxB)
 [Lookback highlight](https://lookback.io/watch/Z3H5Gb4jg9B5Qn8yW)
@@ -94,6 +94,6 @@ Some participants felt the course list lacked detail and needed a breakdown of l
 
 * Accredited bodies need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system
 * There is a student information system which pulls applications and pushes data from UCAS. This is an automatic process.
-* Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in the staging area which is when the application from UCAS can’t match up with offerings in the Accredited Bodies SITS system.
+* Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in the staging area which is when the application from UCAS can’t match up with offerings in the accredited Bodies SITS system.
 * Accredited bodies need an alert/notification design that tells them of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
-* There is a need to be able to compare allocations with Accredited body reports to ensure courses are set up correctly.
+* There is a need to be able to compare allocations with accredited body reports to ensure courses are set up correctly.
