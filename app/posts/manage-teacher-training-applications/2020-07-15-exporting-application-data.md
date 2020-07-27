@@ -7,6 +7,7 @@ tags:
 - MN022
 ---
 
+{{description}}
 
 ## User needs
 
@@ -15,9 +16,16 @@ tags:
 
 ## How it works
 
-Users can click on ‘Export data’ in the top right of the navigation bar.
+Users can click ‘Export data’ in the top right of the navigation bar.
 
-This takes them to a page where they can download all applications as a CSV file.
+This takes them to a page where they can export applications as a CSV file.
+
+They can select:
+
+- applications during the current and previous cycle
+- all applications or applications that match a particular status
+- to include diversity information (if the user has permission to see this information)
+- applications for certain organisations (if the user belongs to multiple organisations)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
