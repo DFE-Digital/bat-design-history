@@ -1,4 +1,6 @@
 # Folders to ignore
 node_modules
 public
+.cache
 .DS_Store
+.env

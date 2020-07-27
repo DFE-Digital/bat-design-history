@@ -3,8 +3,8 @@ title: Exporting application data
 description: Let users export application data as a CSV
 date: 2020-07-15
 tags:
-- MN021
 - MN022
+- MN023
 ---
 
 {{description}}
