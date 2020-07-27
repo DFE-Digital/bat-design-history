@@ -1,6 +1,6 @@
 ---
 title: "Help users know what needs doing and what’s changed"
-description: New application list focused on what needs doing and an activity log focused on what’s changed
+description: New application list focused on what needs doing and an activity log focused on what’s changed.
 date: 2020-07-15
 tags:
  - MN004
@@ -25,8 +25,8 @@ If we give users an activity log to see what’s changed then users who are proc
 We removed the sort controls and ordered the list by priority as follows:
 
 1. Deferred offers (these need dealing with as soon as the next cycle begins)
-3. Applications that are approaching the deadline and will be rejected automatically if not dealt with
-2. Applications that were automatically rejected because the provider didn’t respond in time
+2. Applications that are approaching the deadline and will be rejected automatically if not dealt with
+3. Applications that were automatically rejected because the provider didn’t respond in time
 4. New applications that are waiting on the provider’s response.
 5. Applications that are waiting on the candidate to accept or decline an offer or to meet conditions.
 6. Successful applications where conditions have been met.
