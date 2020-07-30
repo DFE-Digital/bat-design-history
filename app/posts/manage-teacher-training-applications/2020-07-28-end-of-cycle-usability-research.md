@@ -1,5 +1,5 @@
 ---
-title: Research - end of cycle (usability)
+title: Research – end of cycle (usability)
 description: The testing of our designs of deferrals, switching cycles and the task view and activity log. Also some general feedback about Manage and other prototype features.
 date: 2020-07-29
 related:
