@@ -95,7 +95,7 @@ Several providers indicated they need more levels of permission in Publish.
 
 > We wouldn't want publishing functionality for all users - people clicking on things they shouldn’t. If we could have a standard account as read only, and an admin account with the privilege to publish and unpublish, that would be great.
 
-### Courses and an accredited body prototype feedback
+### Courses as an accredited body prototype feedback
 
 Participants suggested a need for more information on the Courses and accredited screens. This included:
 
@@ -105,7 +105,6 @@ Participants suggested a need for more information on the Courses and accredited
 Access and permissions were also mentioned.
 
 > We’d like tutors to be able to see (but not be able to edit) this information.
-
 
 
 
