@@ -71,7 +71,7 @@ The process of importing applications from the SRS is generally automatic and ta
   }
 }) }}
 
-If a course does not yet exist in the SRS or if all course data does not map to a providers records, the application does not get assigned to a course and instead, is effectively blocked and placed in an import error list. This is sometimes referred to as the staging area within the SRS.
+If a course does not yet exist in the SRS or if all course data does not map to a provider’s records, the application does not get assigned to a course and instead, is effectively blocked and placed in an import error list. This is sometimes referred to as the staging area within the SRS.
 
 As there is no matching course to link it to in the SRS, the application appears as a _partial_ record where information such as student name and date of birth are visible yet all course details are omitted. 
 
@@ -105,7 +105,6 @@ Participants suggested a need for more information on the Courses and accredited
 Access and permissions were also mentioned.
 
 > We’d like tutors to be able to see (but not be able to edit) this information.
-
 
 
 
