@@ -105,9 +105,3 @@ Participants suggested a need for more information on the Courses and accredited
 Access and permissions were also mentioned.
 
 > We’d like tutors to be able to see (but not be able to edit) this information.
-
-
-
-
-
-
