@@ -63,7 +63,7 @@ The UCAS Weblink is used by both accredited bodies with SRS and accredited bodie
 
 ### Issues with the application process
 
-The processing of importing applications from the SRS is generally automatic and takes place daily, or at specific times configured by the accredited body. The UCAS Weblink connects UCAS with the providers SRS.
+The process of importing applications from the SRS is generally automatic and takes place daily, or at specific times configured by the accredited body. The UCAS Weblink connects UCAS with the providers SRS.
 
 {{ appFigure({
   image: {
@@ -105,7 +105,6 @@ Participants suggested a need for more information on the Courses and accredited
 Access and permissions were also mentioned.
 
 > We’d like tutors to be able to see (but not be able to edit) this information.
-
 
 
 
