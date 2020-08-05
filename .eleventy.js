@@ -55,6 +55,12 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection('publish-teacher-training-courses', function(collection) {
+    return collection.getFilteredByTag('publish-teacher-training-courses').filter(function(item) {
+      return !item.data.tags.includes('user-need');
+    });
+  });
+
   // Config
   return {
     dataTemplateEngine: 'njk',
