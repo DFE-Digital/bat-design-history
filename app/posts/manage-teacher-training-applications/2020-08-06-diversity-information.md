@@ -37,7 +37,7 @@ We explored adding additional rows to the applicant details summary list, but wi
 
 {{ appImage({
   file: 'multiple-lines-short-grey.png',
-  alt: 'a foo'
+  alt: '3 lines in a summary list, with grey text that reads ‘Only available when the candidate accepts your offer’'
 })}}
 
 Once you add multiple rows it gets somewhat repetitive. We tried making them grey to knock them back a bit - and because they’re more of a message from the system than a candidate’s answer
@@ -46,7 +46,7 @@ For users without the correct permissions the text isn’t quite right - so they
 
 {{ appImage({
   file: 'multiple-lines-long-grey.png',
-  alt: 'a foo'
+  alt: '3 lines in a summary list, with grey text that reads ‘Only available to users with ‘view diversity information’ permission once an offer has been accepted’'
 })}}
 
 ## Second iteration
