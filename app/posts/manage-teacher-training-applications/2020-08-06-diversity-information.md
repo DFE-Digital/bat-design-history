@@ -51,7 +51,7 @@ For users without the correct permissions the text isn’t quite right - so they
 
 ## Second iteration
 
-After thinking about it a bit, we are going to try making a new section for the equality and diversity information. This means it doesn't have to sit with the biographic information, and we can be more free with the guidance we give.
+After thinking about it a bit, we are going to try making a new section for the equality and diversity information. This means it doesn‘t have to sit with the biographic information, and we can be more free with the guidance we give.
 
 Rather than show the same placeholder line for each row, we’ll hide and show the entire summary list.
 
