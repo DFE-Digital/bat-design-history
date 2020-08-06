@@ -2,17 +2,16 @@
 title: Notifications for users with access to multiple organisations
 description: Allowing accredited body users to choose which organisations they receive notifications about.
 date: 2020-07-13
+tags:
+ - PU001
 ---
 
 In [previous research](/publish-teacher-training-courses/users-with-multiple-organisation-access/) into users with access to multiple organisations we identified that users who belong to an accredited body with multiple training providers needed more flexibility in their notifications settings.
 
 ## User need
 
-**As a user who belongs to an accredited body with multiple training providers**
-I need the ability to choose which organisations I receive notifications about
-So that I only get notified about specific events
-
-<!-- Approximately 18% of Publish users belong to more than one organisation. -->
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PU001')}) }}
 
 <table class="govuk-table">
   <caption class="govuk-table__caption">The ratio of accredited bodies with multiple training providers</caption>

@@ -8,6 +8,8 @@ related:
     href: https://docs.google.com/presentation/d/1nEHtz_gDq_OXtiAPsucswPoUYEa1qiH6TV8GIPCSBeQ/edit#slide=id.g8a7af39ae0_0_32
   - text: Research recordings
     href: https://drive.google.com/drive/u/0/folders/1NBOe2-5ltGeoWIOik1-CQ4Vfhz3MPsoD
+tags:
+ - PU001
 ---
 
 We were interested in learning more about users who belong to multiple organisations.
@@ -152,9 +154,8 @@ The research highlighted the need for multi-organisation users to be able to spe
 
 #### User need
 
-**As a user who belongs to an accredited body with multiple training providers**
-I need the ability to choose which organisations I receive notifications about
-So that I only get notified about specific events
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PU001')}) }}
 
 When asked about notifications frequency participants mentioned that they would like to be notified as soon as a change happens. This is consistent with findings in [previous notifications research](/publish-teacher-training-courses/managing-users/).
 

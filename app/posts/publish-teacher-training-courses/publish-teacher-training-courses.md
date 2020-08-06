@@ -7,6 +7,8 @@ related:
   items:
   - text: Prototype
     href: https://manage-courses-prototype.herokuapp.com
+  - text: User needs
+    href: /publish-teacher-training-courses/user-needs
 pagination:
   data: collections.publish-teacher-training-courses
   reverse: true
