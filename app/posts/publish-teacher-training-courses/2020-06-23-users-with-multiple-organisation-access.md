@@ -9,7 +9,10 @@ related:
   - text: Research recordings
     href: https://drive.google.com/drive/u/0/folders/1NBOe2-5ltGeoWIOik1-CQ4Vfhz3MPsoD
 tags:
- - PU001
+ - PN010
+ - PN011
+ - PN012
+ - PN013
 ---
 
 We were interested in learning more about users who belong to multiple organisations.
@@ -155,7 +158,7 @@ The research highlighted the need for multi-organisation users to be able to spe
 #### User need
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PU001')}) }}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PN013')}) }}
 
 When asked about notifications frequency participants mentioned that they would like to be notified as soon as a change happens. This is consistent with findings in [previous notifications research](/publish-teacher-training-courses/managing-users/).
 
@@ -167,9 +170,8 @@ Some participants mentioned the need to implement levels of access and permissio
 
 #### User need
 
-**As an Publish user**
-I need to be able to assign permissions to other users
-So that I can control their access level to features
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PN010')}) }}
 
 > You need one person and or possibly two people to edit users... because that would prevent any malicious editing from people.
 
@@ -185,9 +187,8 @@ This suggests there is a need for course access permissions when adding users to
 
 #### User need
 
-**As an accredited body user when accessing a training providers organisation**
-I need to be able to see only the courses my accredited body is responsible for
-So that I don’t breach the agreement with my partners
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PN011')}) }}
 
 > Yorkshire Anglican, they have two courses, one with us, and one with the University of Huddersfield. My partners are not happy that I can access those courses.
 
@@ -201,14 +202,11 @@ One participant mentioned their involvement with the Apply trial and queried acc
 
 > We are part of the trial with Apply. Does it mean we’ll need to register again with Apply or will it be automatically?
 
-
-
 ### Copying course content
 
 #### User need
 
-**As an accredited body managing courses for different organisations**
-I need to be able to copy course content from one organisation to another, and not just within the same organisation
-So that I save time and it is easier for me
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PN012')}) }}
 
 > I would increase the copy facility so that you can copy between lead schools as well. So if I've got an identical course running out five different schools I've not got to, I can just copy it from one lead school to another.
