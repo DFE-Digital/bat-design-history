@@ -10,10 +10,9 @@ In research we asked participants to find an application from the previous cycle
 
 Several participants went to the search box and didn’t realise the results were scoped by the currently selected cycle.
 
-The switcher also means there’s two ways of changing what the user sees in the list: the switcher and the filter.
+The switcher also means there’s 2 ways of changing what the user sees in the list: the switcher and the filter.
 
-If we let users filter by cycle instead of switching
-Then users can:
+If we let users filter by cycle instead of switching then users will be able to:
 
 * search for applications across cycle
 * modify the list in the way they’re used to
