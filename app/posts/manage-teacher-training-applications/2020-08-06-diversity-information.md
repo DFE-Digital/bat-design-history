@@ -1,7 +1,7 @@
 ---
 title: Showing equality and diversity information to providers
 description: How we plan to show equality information to those who should see it, but make sure it’s protected
-date: 2020-08-06
+date: 2020-08-12
 related:
   items:
   - text: Equality monitoring
@@ -40,7 +40,7 @@ We explored adding additional rows to the applicant details summary list, but wi
   alt: '3 lines in a summary list, with grey text that reads ‘Only available when the candidate accepts your offer’'
 })}}
 
-Once you add multiple rows it gets somewhat repetitive. We tried making them grey to knock them back a bit - and because they’re more of a message from the system than a candidate’s answer
+Once you add multiple rows it gets somewhat repetitive. We tried making them grey to knock them back a bit - and because they’re more of a message from the system than a candidate’s answer.
 
 For users without the correct permissions the text isn’t quite right - so they need more explanation.
 
@@ -51,7 +51,7 @@ For users without the correct permissions the text isn’t quite right - so they
 
 ## Second iteration
 
-After thinking about it a bit, we are going to try making a new section for the equality and diversity information. This means it doesn‘t have to sit with the biographic information, and we can be more free with the guidance we give.
+We decided we are going to try making a new section for the equality and diversity information. This means it doesn‘t have to sit with the biographic information, and there is more space for any guiance we might need.
 
 Rather than show the same placeholder line for each row, we’ll hide and show the entire summary list.
 
@@ -60,6 +60,7 @@ Rather than show the same placeholder line for each row, we’ll hide and show t
 
 {{ appScreenshots({
   headingLevel: 3,
+  title: "Scenarios",
   items: [
   {
     text: "Scenario 1: Questionnaire not completed",
