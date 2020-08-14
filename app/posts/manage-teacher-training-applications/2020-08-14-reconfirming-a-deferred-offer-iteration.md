@@ -18,6 +18,8 @@ The proceeding page h1 is similar to the button text with ‘Review deferred off
 
 The check answers page says ‘Review offer’ so that it matches the button and is consistent when the course is available in the next cycle without requiring any changes.
 
+The application page now uses the task view so there’s a heading at the top of the list prompting users there in addition to the application details page.
+
 ## How it works
 
 When the next cycle begins any deferred offered will be at the top of the application list.
@@ -46,7 +48,7 @@ There are 3 flows we’ve prototyped to help with the initial round of user rese
 
 This is the most common scenario and is easiest to deal with.
 
-When the user clicks the reconfirm button they jump straight to the check answers screen.
+When the user clicks the ‘Review offer’ button they jump straight to the check answers screen.
 
 {{ appFigure({
   image: {
@@ -66,7 +68,7 @@ The new offer is shown above the old offer on the offer page.
 
 ## 2. The course no longer runs in the next cycle
 
-When the user clicks the reconfirm button they’re told they need to choose another course.
+When the user clicks the ‘Review offer’ button they’re told they need to choose another course.
 
 {{ appFigure({
   image: {
@@ -118,7 +120,7 @@ Then they see the check answers page.
 
 ## 3. The location for a course is no longer available in the next cycle
 
-When the user clicks the reconfirm button they’re told they need to choose another location or another course.
+When the user clicks the ‘Review offer’ button they’re told they need to choose another location or another course.
 
 {{ appFigure({
   image: {
