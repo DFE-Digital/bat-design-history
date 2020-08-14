@@ -8,9 +8,19 @@ date: 2020-08-14
 
 Given that DfE don’t have a confirmed set of courses until rollover occurs, providers need to reconfirm deferred applications when the new cycle starts.
 
+## Changes from the previous iteration
+
+We made the following content tweaks from the [previous iteration](/manage-teacher-training-applications/reconfirming-a-deferred-application/):
+
+The button now says ‘Review offer’ instead of ‘Check and confirm’ which confused some participants.
+
+The proceeding page h1 is similar to the button text with ‘Review deferred offer’ and is now using the warning text component to explain the specific situation to users.
+
+The check answers page says ‘Review offer’ so that it matches the button and is consistent when the course is available in the next cycle without requiring any changes.
+
 ## How it works
 
-When the next cycle begins any deferred applications will be in the application list.
+When the next cycle begins any deferred offered will be at the top of the application list.
 
 {{ appFigure({
   image: {
