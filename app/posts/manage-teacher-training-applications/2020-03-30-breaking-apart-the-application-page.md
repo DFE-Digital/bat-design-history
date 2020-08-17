@@ -24,16 +24,6 @@ This meant the options for an offer were hidden behind ‘Edit response’ makin
 If we put the offer on a page of its own
 Then the options can be found more easily
 
-### Improved header
-
-Previously, the application used the [header component](https://design-system.service.gov.uk/components/header/). But:
-
-* the links are small and located in the center which takes up unnecessary vertical space
-* the active blue colour is quite hard to see (despite it passing WCAG 2.1 contrast guidelines)
-
-If the links are on the right, highlighted in white and bigger
-Then the header will take up less room and be easier to see and use
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
