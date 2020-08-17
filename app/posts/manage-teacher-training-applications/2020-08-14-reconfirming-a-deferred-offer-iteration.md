@@ -30,7 +30,7 @@ When the next cycle begins any deferred offered will be at the top of the applic
   }
 }) }}
 
-Clicking on an application will show a banner prompting users to reconfirm the offer.
+Clicking on an application will show a prompt under the h1 to review and confirm the deferred offer.
 
 {{ appFigure({
   image: {
