@@ -58,7 +58,7 @@ And the flow is dependent on previous answers. For example, if the user chooses 
       src: "respond-to-application.png"
     }
   }, {
-    text: "Select course",
+    text: "Select provider",
     img: {
       src: "provider.png"
     }
