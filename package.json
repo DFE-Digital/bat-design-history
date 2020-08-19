@@ -30,9 +30,9 @@
     "prestart": "npm run build",
     "start": "npm run watch:files",
     "dev": "npm run watch",
-    "test:javascripts": "standard",
-    "test:markdown": "markdownlint 'app/**/*.md'",
-    "test": "npm-run-all test:*"
+    "lint:javascripts": "standard",
+    "lint:markdown": "markdownlint 'app/**/*.md'",
+    "lint": "npm-run-all lint:*"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
