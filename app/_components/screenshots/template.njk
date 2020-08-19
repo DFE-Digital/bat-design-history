@@ -5,8 +5,8 @@
   {% if not params.hideContents %}
   <div class="govuk-!-display-none-print">
     <h{{ headingLevel }}>
-      <a class="header-anchor" href="#{{ title | slug }}">#</a>
       {{ title }}
+      <a class="header-anchor" href="#{{ title | slug }}">#</a>
     </h{{ headingLevel }}>
     <ul class="govuk-list app-screenshots__contents">
       {% for item in params.items %}

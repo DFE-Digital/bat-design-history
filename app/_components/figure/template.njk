@@ -3,10 +3,10 @@
 <figure class="app-figure">
 {% if params.title %}
   <figcaption class="govuk-heading-s">
+    {{ params.title }}
     {% if params.id %}
       <a class="header-anchor" href="#{{ params.id }}">#</a>
     {% endif %}
-    {{ params.title }}
   </figcaption>
 {% endif %}
 {% if params.embed %}
