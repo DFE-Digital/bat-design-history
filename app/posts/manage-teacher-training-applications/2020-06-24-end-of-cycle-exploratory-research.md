@@ -17,12 +17,14 @@ related:
 ## The context
 
 We know that there are specific activities providers undertake when a recruitment cycle is closing. This research was to understand provider needs for:
+
 * ending a recruitment cycle
 * handling "edge case" applications
 * planning a new cycle
 * data and reporting to DfE
 
 We also wanted to assess design changes for:
+
 * reasons for rejection
 * adding a way for providers to see the question guidance shown to candidates
 * sorting controls, adding the ability to sort by Reject By Default (RBD) date
@@ -35,6 +37,7 @@ One to one, moderated, semi-structured sessions
 ## Who we researched with
 
 Provider users, typically ITT administrators or ITT Directors from:
+
 * 7 SCITTs
 * 2 Schools Direct
 
@@ -47,6 +50,7 @@ Provider users, typically ITT administrators or ITT Directors from:
 [Provider user needs](https://trello.com/b/5m1pMTme/apply-provider-needs-e2e)
 
 New need categories:
+
 * End of cycle
   * [Know upcoming dates](https://trello.com/c/w2C5r8Tp/177-i-need-to-know-the-upcoming-key-dates-from-dfe-in-advance-so-that-i-can-manage-my-time)
   * [Add existing courses automatically to Apply](https://trello.com/c/idQ8pSJ2/178-i-need-my-existing-pilot-courses-to-be-automatically-added-to-apply-next-year)
@@ -67,6 +71,7 @@ New need categories:
   * [Filter by deferred offers](https://trello.com/c/QPiL96f9/171-i-need-to-be-able-to-filter-my-applications-by-those-who-are-deferred-so-that-i-can-find-the-applications-easily)
 
 Needs also added to the following categories:
+
 * Recruitment
   * [Understand the policy around application routes](https://trello.com/c/bp2UPV3m/164-i-need-to-be-aware-of-the-policy-around-application-routes-so-that-i-can-inform-candidates-the-best-route-to-apply-through-and-a)
 * Data and tracking
@@ -82,12 +87,10 @@ Needs also added to the following categories:
 
 ## Findings report
 
-[End of cycle research findings](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/edit?usp=sharing)
+* [End of cycle research findings](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/edit?usp=sharing)
 * [End of cycle management](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g85c8fec79f_0_157)
 * [Dealing with edge case applications](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g80a8d09ca1_0_28)
 * [Preparing for the next recruitment cycle](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g80a8d09ca1_0_35)
 * [Reporting and collecting data](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g80a8d09ca1_0_42)
 * [COVID-19 Impacts](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g8a6173f9e3_0_128)
 * [Prototype feedback](https://docs.google.com/presentation/d/1Jtchf-8CZv_E75UuNFMl-YR9tD-_RcYOEa3wIpOJzqI/#slide=id.g8a6173f9e3_0_198)
-
-

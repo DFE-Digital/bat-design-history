@@ -25,6 +25,7 @@ This means that for most people looking at most applications, they won’t be ab
 There’s three new pieces of data to display, but a few different scenarios to cover.
 
 They are:
+
 * The candidate has completed the diversity questionnaire or not
 * The application is complete or not
 * The viewing user has permission to see diversity information or not

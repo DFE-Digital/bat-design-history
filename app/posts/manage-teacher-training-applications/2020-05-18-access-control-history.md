@@ -16,24 +16,26 @@ How can we go about achieving this in the Manage service?
 
 * [The initial problem statement](#the-initial-problem-statement)
 * [Context and guidance](#context-and-guidance)
-    * [How UCAS works](#how-ucas-works)
-    * [Research we've done](#research-we%E2%80%99ve-done)
-    * [User needs](#user-needs)
-    * [Options analysis session](#options-analysis-session)
-    * [Designs, research and iterations](#designs%2C-research-and-iterations)
-    * [Policy](#policy)
-    * [Next steps](#next-steps)
-    * [Current solution](#current-solution)
-    * [Worked examples](#worked-examples)
+  * [How UCAS works](#how-ucas-works)
+  * [Research we've done](#research-we%E2%80%99ve-done)
+  * [User needs](#user-needs)
+  * [Options analysis session](#options-analysis-session)
+  * [Designs, research and iterations](#designs%2C-research-and-iterations)
+  * [Policy](#policy)
+  * [Next steps](#next-steps)
+  * [Current solution](#current-solution)
+  * [Worked examples](#worked-examples)
 * [Appendix - UCAS Weblink Screenshots](#appendix---ucas-weblink-screenshots)
 
 
 ## The initial problem statement
 
 ### Who are our users?
+
 People who manage applications. A user could be assigned to one or more providers in order to manage applications.
 
 Examples we know of include:
+
 * Head of admissions
 * Admissions officer
 * Administrator
@@ -71,10 +73,13 @@ For many organisations, multiple different user types are involved in the applic
 Some users manage applications across multiple provider organisations. Our current business rules state that provider users should be able to view and make decisions on applications to courses that they deliver, or ratify. The provider UI and API enable provider users to change the course as part of an offer. We need to make sure that if a course change happens, the application is no longer visible to the provider (if it is not a course they ratify, or deliver).
 
 ##### Accredited bodies
+
 Accredited bodies must ensure that the providers they ratify remain compliant with the initial teacher training (ITT) criteria. We’ve identified in research that in some partnerships, application management is controlled centrally by the accredited body. For other partnerships, accredited bodies only need to have sight of submitted applications and acceptances to track volumes, as opposed to individual applications (possibly a dashboard?. How might we cater for this scenario?
 
 #### Scenario 3: restricting access to sensitive personal information
+
 Sensitive personal information will be collected in Apply for safeguarding and statistical reporting needs. This information includes:
+
 * Safeguarding and disability research
 * Equality monitoring
 
@@ -136,6 +141,7 @@ We conducted a survey to learn how providers work with one another, particularly
 [Accredited body survey report](https://docs.google.com/presentation/d/1r7PNdue_o4TEdIZZXGkpNlSzFuzsamRdIsw1-x_fQPA/edit#slide=id.p)
 
 __Key findings:__
+
 * There is a lot of complexity in this space.
 * We identified a number of different organisational structures, each of which has implications for how applications are processed and managed.
 * Organisational structures aren’t always based on a formal accreditation relationship and they likely change over time based on the system and their ways of working.
@@ -151,10 +157,12 @@ We conducted a number of research sessions with providers to understand more abo
 ##### Catholic Teaching School Alliance (CTSA)
 
 A School Direct with 4 different HEI accredited bodies.
+
 * [Session notes](https://docs.google.com/document/d/1hSYC9knyDeW1LsUlenZeil9tkoeoIPRZTc7v5YZeL4Y/edit)
 * [Process map](https://drive.google.com/drive/folders/1p4Ap6BwUsEi4X_5xuqY1wp2QgY6IUHf5)
 
 __Key access control findings:__
+
 * Each accredited body HEI has a slightly different process that they want to be followed for managing applications for courses they ratify
 * CTSA are very much in control of driving the process and have to be mindful of which HEI an application is for
 * CTSA are able to move candidates from a course ratified by one HEI to a course ratified by another HEI
@@ -164,9 +172,11 @@ __Key access control findings:__
 ##### Keele and North Staffordshire Teacher Education (KNSTE)
 
 An accredited body and SCITT, ratifying courses for 12 partner schools, of which 4 are Schools Direct, some of whom are ratified  by other accredited bodies. KNSTE also run their own courses.
+
 * [Session notes](https://docs.google.com/document/d/1QOGasJVs06b4NMhBWnPj9bIrhPL_P5ggf0t_N1F_2yo/edit)
 
 __Key access control findings:__
+
 * Each school has an agreement with KNSTE SCITT on ways of working
 * People from the SCITT and from the schools are involved in decision-making, but most of the time KNSTE are uploading decisions into UCAS. So there are users who only need to view applications.
 * However, given that the Schools Direct are also working with other accredited bodies, they will have their own additional ways of working agreements. These may be quite different to how they work with KNSTE
@@ -197,11 +207,13 @@ During research, we identified a candidate need to explain any criminal convicti
 In completing this section, candidates may supply sensitive data. We tested this information with providers who expressed a strong interest in seeing this data. They also highlighted that the data would need to be locked down to certain individuals. This will be the same case as the HESA data, which providers need to report into HEI systems or DTTP.
 
 For SCITTs this may be:
+
 * Directors, chairs, CEOs
 * HR
 * Possibly admin staff
 
 For HEIs this may be:
+
 * ITT lead/director
 * Criminal convictions teams
 * HR teams
@@ -213,12 +225,13 @@ However, this does not support the need from providers to see the sensitive data
 #### In summary
 
 The research shows that:
+
 * Providers organise themselves in a variety of ways. We have identified a number of common organisational structures, some more straightforward than others. We learnt it is possible for providers to exist within a highly interconnected network of organisations.
 * Providers can have different ways of working with one another. A single provider, typically a School Direct, can have multiple different ways of working depending upon the accredited body which ratifies a particular  course for a particular application.
 * There are multiple roles within providers, each of which may require different access permissions. For example:
-    * An ITT Director may be the only person who should view safeguarding information
-    * A subject lead at a school may only need to view applications
-    * An ITT Administrator may need to make decisions and manage who should have access to the system.
+  * An ITT Director may be the only person who should view safeguarding information
+  * A subject lead at a school may only need to view applications
+  * An ITT Administrator may need to make decisions and manage who should have access to the system.
 
 ---
 
@@ -231,11 +244,13 @@ The research shows that:
 #### Sharing applications with other users
 
 ##### Key needs
+
 >__As an__ administrator within a provider
 >__I need to__ share an application with other decision-makers (potentially in other organisations)
 >__So that__ we can decide how to progress the application
 
 ##### Supporting needs
+
 * [Share an application with decision makers](https://trello.com/c/MunTJ6wX/67-share-an-application-with-decision-makers)
 * [Have access to the application form before and during the interview process](https://trello.com/c/T1mspQpA/89-need-to-have-access-to-the-application-form-before-and-during-the-interview-process)
 * [Interview panelists know enough about the candidate's application to be useful in the interview](https://trello.com/c/f2fqLASM/82-interview-panelists-know-enough-about-the-candidates-application-to-be-useful-in-the-interview)
@@ -243,17 +258,20 @@ The research shows that:
 #### Shared decision-making
 
 ##### Key needs
+
 >__As a__ partner school or School Direct
 >__I need to__ send a provisional decision about an application to the accredited body for that course
 >__So that__ they can make the final decision and issue the offer
 
 ##### Supporting needs
+
 * [Know when new applications arrive](https://trello.com/c/08w4bRtM/144-know-when-new-applications-arrive)
 * [Inform the HEI of the decision made](https://trello.com/c/YqmCz0Py/141-inform-the-hei-of-the-decision-made)
 
 #### Multi-organisation application processing
 
 ##### Key needs
+
 >__As a__ provider user
 >__I need to__ be able to see applications for the other organisations in my network
 >__So that__ I can process applications according to the working practices we’ve agreed upon
@@ -271,12 +289,14 @@ The research shows that:
 >__So that__ I can ensure that promising candidates aren’t lost and are provided with the best chance of being made an offer
 
 ##### Supporting needs
+
 * [Know which organisation a candidate has applied to](https://trello.com/c/DAQq1mXq/142-know-which-organisation-a-candidate-has-applied-to)
 * [Know when I'm allowed to invite candidates to interview](https://trello.com/c/euz9hTyd/140-know-when-im-allow-to-invite-candidates-for-interview)
 
 #### Safeguarding
 
 ##### Key needs
+
 >__As a__ provider
 >__I need__ certain individuals within my organisation to know about a candidate’s past
 >__So that__ we can make a judgement on whether to pursue their application while also reducing the risk of candidate’s information being made public to the wrong people
@@ -302,6 +322,7 @@ The aim of the session was to review the options within the options analysis pap
 The decision was made to go with option 2. It allows the provider to have full control over who has access to perform which functions. It also meets their needs around managing applications entirely within the Manage service. Although more technical to build, it will allow us greater flexibility in the future to add more permissions and will give us the data to understand how the organisations within the ITT space are set up.
 
 __Pros:__
+
 * Mitigates the high risk of someone making a decision when they are not allowed to
 * We can allow certain users to have access to certain sensitive data
 * UI reflects possible permissions
@@ -309,6 +330,7 @@ __Pros:__
 * When relationships change between organisations, you can set it once for all users.
 
 __Cons:__
+
 * Technically more complicated to implement - every user needs to be updated to reflect changes to relationships between orgs
 
 ### Designs, research and iterations
@@ -329,23 +351,26 @@ Given the decision made, we spun up some prototypes to understand this complex l
 #### Our design process
 
 We have adopted a multidisciplinary design process, with collaboration throughout:
+
 * Research to determine user needs and understand the context
 * Exploration of processes with design (interaction and content), business analysis and development to understand possible approaches and limitations
 * Proposal of different approaches for handling inter-organisational permissions
 * Modelling of different scenarios for example providers
 * Collaboration between research and design to create initial designs
 * Designs tested with providers and iterated
-    * Process and content iterated
+  * Process and content iterated
 * Designs validated, policy implications identified
 
 #### Research findings
 
 We have tested the onboarding flow in depth with three providers so far:
+
 * SCITT - Titan Ltd
 * School Direct - Millais Alliance
 * SCITT - Somerset SCITT
 
 __Key findings:__
+
 * The organisation-to-organisation set up has been understood by providers and they can set up their organisation structures
 * The user permissions set up has been understood by providers and they can effectively invite users with the right permissions
 * Providers who work collaboratively may need to set these permissions up collaboratively (e.g. with their accredited body)
@@ -389,6 +414,7 @@ A user with Manage Users permission can invite other users from outside their or
 ### Current solution
 
 __Onboarding:__
+
 * A user indicates the organisation they belong to
 * They can choose another user either within their organisation, or from another provider if they’re part of a close network, to set up their organisation (optionally)
 * The user signs the data sharing agreement
@@ -396,10 +422,12 @@ __Onboarding:__
 * Onboarding can be considered complete once all organisations in a given structure have been onboarded
 
 __Modifying organisation set-up:__
+
 * A user with the appropriate permissions can navigate to the “Organisations” area and see the permissions for the organisation(s) they belong to
 * There they can change the organisational setup for those organisations to which they belong. If they are an accredited body, they will see the permissions that the other organisations they work with have set. Should they not agree with these settings they can contact the organisation in question and ask them to alter them.
 
 __Adding users:__
+
 * The first user, who set up the organisation, will by default have “manage organisations” and “manage users” permissions
 * They navigate to the “Users” area and select invite user
 * They can select which organisations the new user should belong to
@@ -415,142 +443,151 @@ __Adding users:__
 
 #### Catholic Teaching Schools Alliance (CTSA) - a complex School Direct
 
-##### Context:
+##### Context
+
 * School Direct
 * 4 accredited bodies with different working practices:
-    * Goldsmiths
-    * Kings College
-    * St. Mary’s
-    * UCL
+  * Goldsmiths
+  * Kings College
+  * St. Mary’s
+  * UCL
 
-##### Onboarding:
+##### Onboarding
+
 * Clare at CTSA is invited to Apply and signs the data sharing agreement
 * She is then shown that (based on the data held in Publish) we believe she has courses ratified by the 4 HEIs
 * She is taken to a screen to set-up the permissions for each HEI in turn:
-    * For Goldsmiths: she sets that they can make decisions and see safeguarding information and that CTSA can make decisions
-    * For Kings College: she sets that they can make decisions and see safeguarding information and that CTSA can make decisions
-    * For St. Mary’s: she sets that they can make decisions and see safeguarding information and that CTSA can make decisions
-    * For UCL: she sets that they can see safeguarding information and that CTSA can make decisions
+  * For Goldsmiths: she sets that they can make decisions and see safeguarding information and that CTSA can make decisions
+  * For Kings College: she sets that they can make decisions and see safeguarding information and that CTSA can make decisions
+  * For St. Mary’s: she sets that they can make decisions and see safeguarding information and that CTSA can make decisions
+  * For UCL: she sets that they can see safeguarding information and that CTSA can make decisions
 
-##### Add users:
+##### Add users
+
 * CTSA have an external vettor who reviews all incoming applications.
-    * They are added as a CTSA user. They are given no permissions, meaning they get to see all applications and make notes, but nothing else.
+  * They are added as a CTSA user. They are given no permissions, meaning they get to see all applications and make notes, but nothing else.
 * Clare has a deputy.
-    * They are added with Manage users and Make Decisions permissions (the make decisions permission field shows that decisions can be made for all 4 HEIs)
+  * They are added with Manage users and Make Decisions permissions (the make decisions permission field shows that decisions can be made for all 4 HEIs)
 
 #### Somerset SCITT - a SCITT with a large degree of control over the courses they ratify
 
-##### Context:
+##### Context
+
 * A SCITT that runs their own courses
 * Works with 4 Schools Direct:
-    * Growing Expert Teachers
-    * Taunton Teaching Alliance
-    * The Beach Teaching School
-    * Venturas Teaching School Alliance
+  * Growing Expert Teachers
+  * Taunton Teaching Alliance
+  * The Beach Teaching School
+  * Venturas Teaching School Alliance
 * The Schools Direct are only ratified by Somerset SCITT
 
-##### Onboarding:
-* Somerset SCITT
-    * Claudine at Somerset SCITT is invited to Apply and signs the data sharing agreement for Somerset SCITT
-    * She is then shown that according to the data in Publish, her organisation ratifies and runs their own courses
-    * She is informed that as Somerset SCITT ratify and run their own courses, Somerset SCITT users can have the option of make decisions and view safeguarding permissions.
-    * Claudine now has to wait for the Schools Direct to be onboarded or indicate that they want her to onboard them
-* Growing Expert Teachers
-    * Alice at Growing Expert Teachers is contacted to be onboarded
-    * She signs the data sharing agreement
-    * She can then see that Growing Expert Teachers have courses ratified by Somerset SCITT
-    * She then sets up the following organisation permissions based on the working practices agreed with Somerset SCITT:
-        * Somerset SCITT can make decisions and see safeguarding information, Growing Expert Teachers can see safeguarding information.
-* Taunton Teaching Alliance
-    * Alan at Taunton Teaching Alliance is contacted to be onboarded. He indicates that he wants to give that control to Claudine
-    * Claudine is invited to sign the data sharing agreement
-    * She can then see that Taunton Teaching Alliance have courses ratified by Somerset SCITT
-    * She then sets up the following organisation permissions:
-        * Somerset SCITT can make decisions and see safeguarding information, Taunton Teaching Alliance can see safeguarding information.
-* The Beach Teaching School
-    * Gavin at The Beach Teaching School is contacted to be onboarded
-    * He signs the data sharing agreement
-    * He can then see that The Beach Teaching School have courses ratified by Somerset SCITT
-    * He then sets up the following organisation permissions based on the working practices agreed with Somerset SCITT:
-        * Somerset SCITT can make decisions and see safeguarding information, The Beach Teaching School can see safeguarding information.
-* Venturas Teaching School Alliance
-    * Karen at Venturas Teaching School Alliance is contacted to be onboarded
-    * She signs the data sharing agreement
-    * She can then see that Venturas Teaching School Alliance have courses ratified by Somerset SCITT
-    * She then sets up the following organisation permissions based on the working practices agreed with Somerset SCITT:
-        * Somerset SCITT can make decisions and see safeguarding information, Venturas Teaching School Alliance can see safeguarding information.
+##### Onboarding
 
-##### Adding users:
+* Somerset SCITT
+  * Claudine at Somerset SCITT is invited to Apply and signs the data sharing agreement for Somerset SCITT
+  * She is then shown that according to the data in Publish, her organisation ratifies and runs their own courses
+  * She is informed that as Somerset SCITT ratify and run their own courses, Somerset SCITT users can have the option of make decisions and view safeguarding permissions.
+  * Claudine now has to wait for the Schools Direct to be onboarded or indicate that they want her to onboard them
+* Growing Expert Teachers
+  * Alice at Growing Expert Teachers is contacted to be onboarded
+  * She signs the data sharing agreement
+  * She can then see that Growing Expert Teachers have courses ratified by Somerset SCITT
+  * She then sets up the following organisation permissions based on the working practices agreed with Somerset SCITT:
+    * Somerset SCITT can make decisions and see safeguarding information, Growing Expert Teachers can see safeguarding information.
+* Taunton Teaching Alliance
+  * Alan at Taunton Teaching Alliance is contacted to be onboarded. He indicates that he wants to give that control to Claudine
+  * Claudine is invited to sign the data sharing agreement
+  * She can then see that Taunton Teaching Alliance have courses ratified by Somerset SCITT
+  * She then sets up the following organisation permissions:
+    * Somerset SCITT can make decisions and see safeguarding information, Taunton Teaching Alliance can see safeguarding information.
+* The Beach Teaching School
+  * Gavin at The Beach Teaching School is contacted to be onboarded
+  * He signs the data sharing agreement
+  * He can then see that The Beach Teaching School have courses ratified by Somerset SCITT
+  * He then sets up the following organisation permissions based on the working practices agreed with Somerset SCITT:
+    * Somerset SCITT can make decisions and see safeguarding information, The Beach Teaching School can see safeguarding information.
+* Venturas Teaching School Alliance
+  * Karen at Venturas Teaching School Alliance is contacted to be onboarded
+  * She signs the data sharing agreement
+  * She can then see that Venturas Teaching School Alliance have courses ratified by Somerset SCITT
+  * She then sets up the following organisation permissions based on the working practices agreed with Somerset SCITT:
+    * Somerset SCITT can make decisions and see safeguarding information, Venturas Teaching School Alliance can see safeguarding information.
+
+##### Adding users
+
 * Claudine (Somerset SCITT)  wants to add:
-    * Her Senior Administrator:
-        * She selects that they have the “make decisions” permission. She sees that this applies to courses run by all 5 providers.
-    * Her safeguarding lead:
-        * She selects that they have the “view safeguarding information” permission. She sees that this applies to courses run by all 5 providers.
-    * Her Programme manager:
-        * She sets that they are a user of both Somerset SCITT and Taunton Teaching Alliance and that they can:
-            * Manage organisations for both Somerset SCITT and Taunton Teaching Alliance (this option is not available for the other organisations as they manage their own set-up)
-            * Manage users for both Somerset SCITT and Taunton Teaching Alliance (this option is not available for the other organisations as they manage their own set-up)
-            * Make decisions for all 5 organisations
+  * Her Senior Administrator:
+    * She selects that they have the “make decisions” permission. She sees that this applies to courses run by all 5 providers.
+  * Her safeguarding lead:
+    * She selects that they have the “view safeguarding information” permission. She sees that this applies to courses run by all 5 providers.
+  * Her Programme manager:
+    * She sets that they are a user of both Somerset SCITT and Taunton Teaching Alliance and that they can:
+      * Manage organisations for both Somerset SCITT and Taunton Teaching Alliance (this option is not available for the other organisations as they manage their own set-up)
+      * Manage users for both Somerset SCITT and Taunton Teaching Alliance (this option is not available for the other organisations as they manage their own set-up)
+      * Make decisions for all 5 organisations
 * Karen (Venturas Teaching School Alliance) wants to add:
-    * Her deputy:
-        * She can only select her own organisation. She sets that her deputy can:
-            * Manage organisations
-            * Manage users
-            * Make decisions
+  * Her deputy:
+    * She can only select her own organisation. She sets that her deputy can:
+      * Manage organisations
+      * Manage users
+      * Make decisions
 
 #### Keele and North Staffordshire Teacher Education (KNSTE) - a SCITT with more autonomous partners
 
-##### Context:
+##### Context
+
 * A SCITT that runs its own courses via 8 partner schools
 * Also works with 4 Schools Direct:
-    * Blackfriars Teaching School Alliance (accredited by The Oaks, KNSTE and University of Derby)
-    * City Learning Trust (accredited by Staffordshire University, Manchester Metropolitan University and KNSTE)
-    * Painsley Teaching School Alliance (accredited by University of Derby and KNSTE)
-    * Uttoxeter Learning Trust Teaching School (accredited by The John Taylor SCITT and KNSTE)
+  * Blackfriars Teaching School Alliance (accredited by The Oaks, KNSTE and University of Derby)
+  * City Learning Trust (accredited by Staffordshire University, Manchester Metropolitan University and KNSTE)
+  * Painsley Teaching School Alliance (accredited by University of Derby and KNSTE)
+  * Uttoxeter Learning Trust Teaching School (accredited by The John Taylor SCITT and KNSTE)
 
-##### Onboarding:
+##### Onboarding
+
 * KNSTE
-    * Susan at KNSTE is invited to Apply and signs the data sharing agreement for KNSTE
-    * She can see that KNSTE run and ratify their own courses and that they can make decisions and view safeguarding information
-    * Susan now has to wait for the Schools Direct to be onboarded or indicate that they want her to onboard them
+  * Susan at KNSTE is invited to Apply and signs the data sharing agreement for KNSTE
+  * She can see that KNSTE run and ratify their own courses and that they can make decisions and view safeguarding information
+  * Susan now has to wait for the Schools Direct to be onboarded or indicate that they want her to onboard them
 * Blackfriars Teaching School Alliance
-    * Erica at Blackfriars Teaching School Alliance is invited to Apply and signs the data sharing agreement
-    * She can see that Blackfriars Teaching School Alliance have courses ratified by The Oaks, KNSTE and University of Derby. She sets the following permissions:
-        * The Oaks can see safeguarding information, Blackfriars Teaching School Alliance can make decisions
-        * KNSTE can see safeguarding information, Blackfriars Teaching School Alliance can make decisions
-        * University of Derby can see safeguarding information, Blackfriars Teaching School Alliance can make decisions
+  * Erica at Blackfriars Teaching School Alliance is invited to Apply and signs the data sharing agreement
+  * She can see that Blackfriars Teaching School Alliance have courses ratified by The Oaks, KNSTE and University of Derby. She sets the following permissions:
+    * The Oaks can see safeguarding information, Blackfriars Teaching School Alliance can make decisions
+    * KNSTE can see safeguarding information, Blackfriars Teaching School Alliance can make decisions
+    * University of Derby can see safeguarding information, Blackfriars Teaching School Alliance can make decisions
 * City Learning Trust
-    * Yasmin at City Learning Trust is invited to Apply and signs the data sharing agreement
-    * She can see that City Learning Trust have courses ratified by Staffordshire University, Manchester Metropolitan University and KNSTE. She sets the following permissions:
-        * Staffordshire University can see safeguarding information, City Learning Trust can make decisions
-        * Manchester Metropolitan University can see safeguarding information and make decisions, City Learning Trust don’t have any permissions set.
-        * KNSTE can see safeguarding information, City Learning Trust can make decisions
+  * Yasmin at City Learning Trust is invited to Apply and signs the data sharing agreement
+  * She can see that City Learning Trust have courses ratified by Staffordshire University, Manchester Metropolitan University and KNSTE. She sets the following permissions:
+    * Staffordshire University can see safeguarding information, City Learning Trust can make decisions
+    * Manchester Metropolitan University can see safeguarding information and make decisions, City Learning Trust don’t have any permissions set.
+    * KNSTE can see safeguarding information, City Learning Trust can make decisions
 * Painsley Teaching School Alliance
-    * Priti at Painsley Teaching School Alliance is invited to Apply and signs the data sharing agreement
-    * She can see that Painsley Teaching School Alliance have courses ratified by KNSTE and University of Derby. She sets the following permissions:
-        * KNSTE can make decisions and see safeguarding information, Painsley Teaching School Alliance can make decisions
-        * University of Derby can see safeguarding information, Painsley Teaching School Alliance can make decisions
-    * She also indicates that Susan at KNSTE can also manage Painsley Teaching School Alliance’s organisational setup. She acknowledges that this means that Susan will be able to see applications for courses ratified by both KNSTE and University of Derby for Painsley.
+  * Priti at Painsley Teaching School Alliance is invited to Apply and signs the data sharing agreement
+  * She can see that Painsley Teaching School Alliance have courses ratified by KNSTE and University of Derby. She sets the following permissions:
+    * KNSTE can make decisions and see safeguarding information, Painsley Teaching School Alliance can make decisions
+    * University of Derby can see safeguarding information, Painsley Teaching School Alliance can make decisions
+  * She also indicates that Susan at KNSTE can also manage Painsley Teaching School Alliance’s organisational setup. She acknowledges that this means that Susan will be able to see applications for courses ratified by both KNSTE and University of Derby for Painsley.
 * Uttoxeter Learning Trust Teaching School
-    * Pauline at Uttoxeter Learning Trust Teaching School is invited to Apply and signs the data sharing agreement
-    * She can see that Uttoxeter Learning Trust Teaching School have courses ratified by The John Taylor SCITT and KNSTE. She sets the following permissions:
-        * The John Taylor SCITT can see safeguarding information, Uttoxeter Learning Trust Teaching School can make decisions
-        * KNSTE can see safeguarding information, Uttoxeter Learning Trust Teaching School can make decisions
+  * Pauline at Uttoxeter Learning Trust Teaching School is invited to Apply and signs the data sharing agreement
+  * She can see that Uttoxeter Learning Trust Teaching School have courses ratified by The John Taylor SCITT and KNSTE. She sets the following permissions:
+    * The John Taylor SCITT can see safeguarding information, Uttoxeter Learning Trust Teaching School can make decisions
+    * KNSTE can see safeguarding information, Uttoxeter Learning Trust Teaching School can make decisions
 
-##### Adding users:
+##### Adding users
+
 * Susan (KNSTE) wants to add:
-    * Her deputy:
-        * She can select that they can see applications for all 5 organisations
-        * She selects that they can Manage organisations for KNSTE and Painsley (as this permission has been allowed by Painsley)
-        * She selects that they can make decisions and sees that this is only possible for KNSTE and Painsley courses
-    * Her Head of HR
-        * She can select that they can see applications for all 5 organisations
-        * She selects that they can see safeguarding information for all 5 organisations
+  * Her deputy:
+    * She can select that they can see applications for all 5 organisations
+    * She selects that they can Manage organisations for KNSTE and Painsley (as this permission has been allowed by Painsley)
+    * She selects that they can make decisions and sees that this is only possible for KNSTE and Painsley courses
+  * Her Head of HR
+    * She can select that they can see applications for all 5 organisations
+    * She selects that they can see safeguarding information for all 5 organisations
 * Yasmin (City Learning Trust) wants to add:
-    * Her Head of ITT:
-        * She can only select that they can see applications for City Learning Trust
-        * She selects that they can manage the organisation and manage users
-        * She selects that they can make decisions. She sees that this applies to courses ratified by Staffordshire University and KNSTE.
+  * Her Head of ITT:
+    * She can only select that they can see applications for City Learning Trust
+    * She selects that they can manage the organisation and manage users
+    * She selects that they can make decisions. She sees that this applies to courses ratified by Staffordshire University and KNSTE.
 
 ---
 
@@ -581,6 +618,7 @@ __Adding users:__
 }) }}
 
 Note that for changing an offer in weblink, the user can change:
+
 * The course
 * The location
 * The month (assume this is the starting month)
