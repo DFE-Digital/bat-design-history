@@ -179,6 +179,7 @@
     font-style: italic;
     font-weight: normal;
     color: govuk-colour("mid-grey");
+    margin-left: govuk-spacing(1);
 
     &:hover {
       color: $govuk-link-hover-colour;
