@@ -24,6 +24,7 @@ related:
 ## The context
 
 This research covered the following areas:
+
 * Notifications: is the design clear and understandable and does it give providers the necessary level of control over notifications?
 * Application list: do providers understand the action orientated view and does it scale?
 * Deferrals: do the iterated designs address previous issues?
