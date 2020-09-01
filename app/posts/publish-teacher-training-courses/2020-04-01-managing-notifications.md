@@ -6,14 +6,15 @@ related:
   items:
   - text: Research playback
     href: https://docs.google.com/presentation/d/1dzCle8W2MrZoUmbOQ72BboRn9v-6tZ3SaprhNIREAQE/
+tags:
+ - PN003
 ---
 As a follow up to establishing a [notifications MVP](/publish-teacher-training-courses/notifications-mvp), we designed and conducted research on our initial ideas for managing email notifications within Publish.
 
 ## User needs
 
-**As an accredited body**
-I need to be notified of changes by providers in Publish to courses I accredit
-So that I can keep my student record system up to date and in sync with UCAS.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PN003')}) }}
 
 ## Who we tested with
 

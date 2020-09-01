@@ -2,6 +2,8 @@
 title: Notifications MVP
 description: Identifying an initial set of notifications and the critical user flows required to manage notifications in Publish.  
 date: 2020-01-23
+tags:
+ - PN003
 ---
 UCAS provided email notifications to it's users. This functionality is yet be introduced to Publish teacher training courses. To address this, we established an introductory set of notifications to satisfy our user’s critical needs.
 
@@ -9,9 +11,8 @@ We learned through the [accredited bodies research](https://bat-design-history.n
 
 ## User needs
 
-**As an accredited body**
-I need to be notified of changes by providers in Publish to courses I accredit
-So that I can keep my student record system up to date and in sync with UCAS.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Critical notifications
 
