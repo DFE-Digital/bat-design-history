@@ -157,7 +157,7 @@ This update includes:
 
 When a training provider has multiple accredited bodies, the accredited body user who enables notifications should only receive notifications for the courses they are the accredited body for. They must not receive notifications for courses they are not attached to.
 
-For example: Mary belongs to Suffolk and Norfolk Primary SCITT, who is the accredited body for some of Thorpe St Andrew School and Sixth Forms courses. The University of East Anglia is also an accredited body for some of Thorpe St Andrew School and Sixth Forms courses. Mary should not receive notifications about changes to courses from the University of East Anglia. 
+For example: Mary belongs to Suffolk and Norfolk Primary SCITT, who is the accredited body for some of Thorpe St Andrew School and Sixth Forms courses. The University of East Anglia is also an accredited body for some of Thorpe St Andrew School and Sixth Forms courses. Mary should not receive notifications about changes to courses from the University of East Anglia.
 
 ### Potential roadmap
 

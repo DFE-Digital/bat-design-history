@@ -11,7 +11,7 @@ related:
 ---
 
 Members of the Find team participated in a workshop to collect ideas for course page improvements that address the needs of candidates, providers and the DfE.
- 
+
 ## Who attended?
 
 * 2 x Interaction designers
@@ -41,7 +41,8 @@ I need a clear, at a glance understanding of the structure of the course.
 I need to know if my qualifications are good enough
 So that I don’t waste a choice on a course I won’t be successful in.
 
->Use structured data to capture provider’s requirements for a course, for example:
+> Use structured data to capture provider’s requirements for a course, for example:
+>
 > * You only need legal minimum
 > * You must have X degree grade
 
@@ -57,13 +58,14 @@ So that we reduce duplication (benefits users as more consistent and easy to com
 I need to see how far the training locations are from me
 So that I can estimate my commute time.
 
->Pass the user’s searched for location through to the maps on the course page, so they can see the training locations relative to where they are/or searched.
+> Pass the user’s searched for location through to the maps on the course page, so they can see the training locations relative to where they are/or searched.
 >
->Move the maps up.
+> Move the maps up.
 >
->Reconsider how we communicate location to users, perhaps with a new sections “Where you’ll spend your time”.
+> Reconsider how we communicate location to users, perhaps with a new sections “Where you’ll spend your time”.
 >
->Use structured data to collect time spent in different locations, for example:
+> Use structured data to collect time spent in different locations, for example:
+>
 > * 1 day per week at Uni
 > * 5 weeks at Uni
 > * 2 weeks at first placement school
@@ -74,6 +76,7 @@ I need to have specific information about the course
 So that I can understand if it’s the right course for me.
 
 > Add specific information about:
+>
 > * Where - Location - Where I’m going to be based and for how long
 > * When - Time - for how many days
 > * What - To do what - what I’m going to do and why?
@@ -97,25 +100,24 @@ So that they will be prompted to apply.
 I need to understand what the course offers me
 So that I can understand if it’s the right course for me.
 
-> Examples of displaying key information. 
-> [UCL example](https://www.ucl.ac.uk/ioe/courses/teacher-training/mathematics-pgce) [University of Oxford example](http://www.education.ox.ac.uk/programmes/pgce/) 
+> Examples of displaying key information.
+> [UCL example](https://www.ucl.ac.uk/ioe/courses/teacher-training/mathematics-pgce) [University of Oxford example](http://www.education.ox.ac.uk/programmes/pgce/)
 
 **As a candidate new to teacher training**
 I need to understand the terms providers use
 So that I can correctly interpret the course page.
 
-> Add validations to ask users to certain explain abbreviations. 
+> Add validations to ask users to certain explain abbreviations.
 >
 > Ban other abbreviations.
 >
 > Add validations or warnings to commonly used terms or phrases that candidates don’t understand.
 
-
 **As a candidate**
 I need to know what all these terms mean in plain English.
 
 **As an international candidate**
-I need to understand the information on the course page 
+I need to understand the information on the course page
 So that I know whether I can apply.
 
 **As a provider**
@@ -129,13 +131,13 @@ I need examples of really good content (relevant to my courses)
 So that I have something to model my own pages on.
 
 **As a provider**
-I need evidence that good content leads to more applications, with quotes and feedback from candidates supporting this, to encourage me to pay more attention to my content. 
+I need evidence that good content leads to more applications, with quotes and feedback from candidates supporting this, to encourage me to pay more attention to my content.
 
 **As a provider**
 I need a way to format and check content I write so that I can improve it.
 
-**As a provider** 
-I want to understand how much detail to provide 
+**As a provider**
+I want to understand how much detail to provide
 So that content is clear and concise.
 
 > Are we making candidates read too much? Consider setting limits on word count.
@@ -146,13 +148,12 @@ So that my courses display correctly to candidates
 And so that candidates can read them easily.
 
 > Avoid [common markdown bugs](https://github.com/DFE-Digital/manage-courses-ui/issues/188).
-> 
+>
 > Convert all list type markers to markdown lists (-, *, •).
-> 
+>
 > Fix links with spaces between [ ] and ( ).
-> 
-> [Broken list example](https://www.find-postgraduate-teacher-training.service.gov.uk/course/E28/2M8K#section-entry
-)
+>
+> [Broken list example](https://www.find-postgraduate-teacher-training.service.gov.uk/course/E28/2M8K#section-entry)
 
 **As a provider giving a detailed course description**
 I need to break up the description into sections
@@ -180,13 +181,13 @@ So that I can find the right course for me.
 > Add more information about the different routes and teaching qualifications at the beginning of the journey in Find, after the search and before choosing the subject.
 
 **As a candidate**
-I need to know what a SCITT is, and what School Direct means, and what these partnership things are, and what an accredited body is, and why so many providers have funny names like ‘Achieve with TLA’ and ‘Academies Enterprise Trust’ and whether it’s better to train with one of these or with a school or a university. 
+I need to know what a SCITT is, and what School Direct means, and what these partnership things are, and what an accredited body is, and why so many providers have funny names like ‘Achieve with TLA’ and ‘Academies Enterprise Trust’ and whether it’s better to train with one of these or with a school or a university.
 
 **As a candidate**
-I need some immediate way of knowing how good a course or provider is - a ratings system maybe, akin to school and university league tables? 
+I need some immediate way of knowing how good a course or provider is - a ratings system maybe, akin to school and university league tables?
 
 **As the Find team**
-We need to consolidate survey data, user support feedback, and existing user research 
+We need to consolidate survey data, user support feedback, and existing user research
 So that we understand more about the users experience on the course page.
 
 **As the Find team**
