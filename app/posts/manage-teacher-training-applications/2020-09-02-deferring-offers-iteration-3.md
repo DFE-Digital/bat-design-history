@@ -8,15 +8,13 @@ tags:
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-Getting deferral ready for the first release and addressing issues found in research with the [previous iteration](/manage-teacher-training-applications/deferring-offers-iteration/).
+Getting deferral ready for release and addressing issues found in research with the [previous iteration](/manage-teacher-training-applications/deferring-offers-iteration/).
 
-## Using a ‘panel’ for the offer
+## Using an offer panel
 
 The details of the offer are played back in various flows such as changing an offer and reconfirming a deferred offer.
 
-To differentiate the offer from other details on the page we put a border around it.
-
-To be consistent we have put a border around it on the offer page too.
+To differentiate the offer from other details on the page we put a border around it – and to be consistent we’ve put a border around it on the offer page too.
 
 {{ appFigure({
   image: {
@@ -32,13 +30,13 @@ To be consistent we have put a border around it on the offer page too.
   caption: "Offer page when we track conditions together"
 }) }}
 
-## Putting offer actions towards the top of the panel
+## Putting offer actions at the top of the panel
 
 The [previous iteration](/manage-teacher-training-applications/deferring-offers-iteration/#offer-page-with-defer-link) placed the offer actions at the bottom of the page.
 
-This makes them harder to find as they’re more likely to be missed which we found in research.
+Research shows that this makes them harder to find as they’re more likely to be missed or off screen.
 
-If we put them at the top then users will be able to find and use these actions more easily.
+If we put the actions at the top of the panel then users will be able to find and use them more easily.
 
 {{ appFigure({
   image: {
@@ -58,7 +56,7 @@ The [previous iteration](/manage-teacher-training-applications/deferring-offers-
 
 ## Updating the timeline when deferring an offer
 
-When an offer has been deferred, we show it as an event in the timeline
+When an offer has been deferred, we show it as an event in the timeline.
 
 {{ appFigure({
   image: {
