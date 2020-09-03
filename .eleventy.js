@@ -60,6 +60,12 @@ module.exports = function (eleventyConfig) {
       return !item.data.tags.includes('user-need');
     });
   });
+  
+  eleventyConfig.addCollection('register-trainee-teachers', function(collection) {
+    return collection.getFilteredByTag('register-trainee-teachers').filter(function(item) {
+      return !item.data.tags.includes('user-need');
+    });
+  });
 
   // Config
   return {
