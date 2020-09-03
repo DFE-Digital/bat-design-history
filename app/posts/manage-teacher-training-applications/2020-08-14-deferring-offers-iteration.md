@@ -1,5 +1,5 @@
 ---
-title: Deferring offers to the next cycle
+title: Deferring offers to the next cycle (iteration 2)
 description: Let providers defer offers to the next cycle
 date: 2020-08-14
 tags:
@@ -33,7 +33,7 @@ If a candidate has met all of their conditions when the offer is deferred, then 
 
 It’s up to providers to accept the request for deferral.
 
-At the beginning of the new cycle, providers will have to [reconfirm the deferred offer](/manage-teacher-training-applications/reconfirm-deferred-offer-iteration).
+At the beginning of the new cycle, providers will have to [reconfirm the deferred offer](/manage-teacher-training-applications/reconfirming-a-deferred-offer-iteration).
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

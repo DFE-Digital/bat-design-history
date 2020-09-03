@@ -10,14 +10,14 @@ Getting deferral ready for release and addressing issues found in research with 
 
 ## A clearer prompt
 
-In the previous iteration some participants found the option to reconfirm an offer hard to spot.
+In the previous iteration some participants didn’t notice the prompt to reconfirm an offer at the top of the application details pages.
 
-For this iteration we’ve made the prompt far clearer by:
+S we’ve made the prompt clearer by:
 
 * using the inset text component
 * adding a heading
-* explaining the situation of the deferred offer. For example, that the course is available in the new cycle.
-* using a clearer call to action
+* explaining the situation of the deferred offer – for example, that the course is available in the new cycle
+* using more explicit button text
 
 {{ appFigure({
   image: {
@@ -46,7 +46,7 @@ In the previous iteration, when the course is still available in the new cycle, 
 
 But providers may need to change the status of the conditions from met to pending.
 
-So we send users to a welcome screen just like we do when the course or location is unavailable.
+So we now send users to a welcome screen to set the scene (like we do when the course or location is unavailable).
 
 {{ appFigure({
   image: {
@@ -55,7 +55,11 @@ So we send users to a welcome screen just like we do when the course or location
   caption: "Welcome screen when the course is available"
 }) }}
 
-We also changed the layout and content of these screens to be clearer and to put the details of the deferred above inside a Details component.
+We also:
+
+* improved the content
+* moved the deferred offer details up
+* collapsed the deferred offer within a Details component
 
 {{ appFigure({
   image: {
@@ -75,41 +79,51 @@ We also changed the layout and content of these screens to be clearer and to put
 
 For first release, if the course or location is unavaible, the user will be prompted to contact support to reconfirm the candidate’s offer.
 
-{{ appFigure({
+<!-- {{ appFigure({
   image: {
     file: "welcome--support.png"
   },
   caption: "Welcome screen when the course or location is unavailable and Support has to reconfirm the offer on behalf of the provider"
-}) }}
+}) }} -->
 
 ## Confirming the status of conditions
 
-After the welcome screen users have to confirm the status of the conditions.
+In the previous iteration, users could update the status of conditions from the review screen at the end.
 
-For example, a DBS check was valid a few months ago but the candidate now needs to get a new one.
+But this puts the onus on the user to find the action and remember to do it.
+
+So now we send users directly to a check the status of the conditions as part of the flow.
 
 {{ appFigure({
   image: {
     file: "confirm-statuses--combined.png"
   },
-  caption: "Confirm statuses when the conditions are tracked together and they’re met"
+  caption: "Confirming statuses when the conditions are already met and tracked together"
 }) }}
 
 {{ appFigure({
   image: {
     file: "confirm-statuses--combined-pending.png"
   },
-  caption: "Confirm statuses when the conditions are tracked together and they’re pending"
+  caption: "Confirming statuses when the conditions are still pending and tracked together"
 }) }}
 
 {{ appFigure({
   image: {
     file: "confirm-statuses--individual.png"
   },
-  caption: "Confirm statuses when the conditions are tracked individually"
+  caption: "Confirming statuses when the conditions are tracked individually"
 }) }}
 
 ## Improving the review offer screen
+
+We improved the review screen as follows:
+
+* the link to change conditions now says ‘Add or change conditions’ which is more explicit
+* the ‘Change’ links now say ‘Update status’ which is more explicit
+* the content explaining what will happen is clearer and more concise
+* we have a design for when the conditions are tracked together by including an ‘Update status of conditions’ link above the conditions
+* the status tags are aligned right
 
 The last screen in the flow lets users review their new offer.
 
@@ -129,7 +143,9 @@ The last screen in the flow lets users review their new offer.
 
 ## Updating the timeline when reconfirming a deferred offer
 
-After an offer has been reconfirmed to the new cycle, an event appears at the top of the timeline.
+In the previous iteration we forgot to update the timeline to reflect the action.
+
+Now the act of reconfirming a deferred offer, shows at the top of the timeline.
 
 {{ appFigure({
   image: {

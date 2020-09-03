@@ -1,5 +1,5 @@
 ---
-title: Reconfirming a deferred offer iteration
+title: Reconfirming a deferred offer (iteration 2)
 description: Prompt providers to reconfirm a deferred offer from the previous cycle
 date: 2020-08-14
 ---
