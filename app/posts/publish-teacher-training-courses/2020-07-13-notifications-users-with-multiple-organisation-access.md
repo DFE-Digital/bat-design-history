@@ -3,7 +3,7 @@ title: Notifications for users with access to multiple organisations
 description: Allowing accredited body users to choose which organisations they receive notifications about.
 date: 2020-07-13
 tags:
- - PU001
+ - PN013
 ---
 
 In [previous research](/publish-teacher-training-courses/users-with-multiple-organisation-access/) into users with access to multiple organisations we identified that users who belong to an accredited body with multiple training providers needed more flexibility in their notifications settings.
@@ -11,7 +11,7 @@ In [previous research](/publish-teacher-training-courses/users-with-multiple-org
 ## User need
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PU001')}) }}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PN013')}) }}
 
 <table class="govuk-table">
   <caption class="govuk-table__caption">The ratio of accredited bodies with multiple training providers</caption>
@@ -157,7 +157,7 @@ This update includes:
 
 When a training provider has multiple accredited bodies, the accredited body user who enables notifications should only receive notifications for the courses they are the accredited body for. They must not receive notifications for courses they are not attached to.
 
-For example: Mary belongs to Suffolk and Norfolk Primary SCITT, who is the accredited body for some of Thorpe St Andrew School and Sixth Forms courses. The University of East Anglia is also an accredited body for some of Thorpe St Andrew School and Sixth Forms courses. Mary should not receive notifications about changes to courses from the University of East Anglia. 
+For example: Mary belongs to Suffolk and Norfolk Primary SCITT, who is the accredited body for some of Thorpe St Andrew School and Sixth Forms courses. The University of East Anglia is also an accredited body for some of Thorpe St Andrew School and Sixth Forms courses. Mary should not receive notifications about changes to courses from the University of East Anglia.
 
 ### Potential roadmap
 

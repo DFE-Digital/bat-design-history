@@ -73,7 +73,7 @@ The process of importing applications from the SRS is generally automatic and ta
 
 If a course does not yet exist in the SRS or if all course data does not map to a provider’s records, the application does not get assigned to a course and instead, is effectively blocked and placed in an import error list. This is sometimes referred to as the staging area within the SRS.
 
-As there is no matching course to link it to in the SRS, the application appears as a _partial_ record where information such as student name and date of birth are visible yet all course details are omitted. 
+As there is no matching course to link it to in the SRS, the application appears as a _partial_ record where information such as student name and date of birth are visible yet all course details are omitted.
 
 Providers often have to go on Find to identify the course, then fix or set up the course in their SRS to begin importing applications.
 

@@ -16,6 +16,10 @@ related:
     href: https://rollover-prototype.herokuapp.com/
   - text: Request PE courses prototype
     href: https://allocations-alpha.herokuapp.com/
+tags:
+ - PN004
+ - PN005
+ - PN006
 ---
 The Allocations alpha explored potential changes to the [previous Allocations process](/publish-teacher-training-courses/allocations-cycle-summary).
 
@@ -32,14 +36,8 @@ We prototyped and tested features to:
 
 ## User needs
 
-**As an ITT provider**
-I want to understand the new allocations process so that I can request allocations and receive permission to recruit trainees for the upcoming recruitment cycle.
-
-**As an ITT provider**
-I want to receive permission to recruit in uncapped courses so that I can recruit to uncapped courses and access any DfE funding associated with these courses.
-
-**As an ITT provider**
-I want to receive permission to recruit and allocations for capped courses so I know how many trainees I can recruit to these courses and access any DfE funding associated with these courses.
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Who we tested with
 

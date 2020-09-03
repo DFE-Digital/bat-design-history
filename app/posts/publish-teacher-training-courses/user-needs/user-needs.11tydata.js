@@ -1,15 +1,15 @@
 module.exports = {
-  tags: ["user-need"],
+  tags: ['user-need'],
   eleventyNavigation: {
-    parent: "User needs for Publish"
+    parent: 'User needs for Publish'
   },
   eleventyComputed: {
     title: data => `Need ${data.page.fileSlug}`,
     related: data => {
-      const relatedPosts = data.collections[data.page.fileSlug];
+      const relatedPosts = data.collections[data.page.fileSlug]
       if (relatedPosts) {
         return {
-          title: "Related posts",
+          title: 'Related posts',
           items: relatedPosts.map(item => ({
             text: item.data.title,
             description: item.data.description,

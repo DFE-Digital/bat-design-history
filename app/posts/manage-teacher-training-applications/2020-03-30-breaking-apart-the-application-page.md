@@ -1,5 +1,5 @@
 ---
-title: Application sub navigation
+title: Breaking apart the application page (sub navigation)
 description: Help providers navigate the parts of an application more easily with sub navigation
 date: 2020-03-30
 ---
@@ -15,15 +15,14 @@ The page has got really big and hard to navigate.
 If the parts of an application are split across pages
 Then users will be able to find and view the applicaition more easily
 
-### Improved header
+### Putting offer onto a page of its own
 
-Previously, the application used the [header component](https://design-system.service.gov.uk/components/header/). But:
+Previously, the offer was represented by a [tiny panel in the right hand column](/manage-teacher-training-applications/offer-a-different-course/#details-page).
 
-* the links are small and located in the center which takes up unnecessary vertical space
-* the active blue colour is quite hard to see (despite it passing WCAG 2.1 contrast guidelines)
+This meant the options for an offer were hidden behind ‘Edit response’ making them hard to discover.
 
-If the links are on the right, highlighted in white and bigger
-Then the header will take up less room and be easier to see and use
+If we put the offer on a page of its own
+Then the options can be found more easily
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

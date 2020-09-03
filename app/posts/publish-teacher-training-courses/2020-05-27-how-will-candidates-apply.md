@@ -6,6 +6,8 @@ related:
   items:
   - text: Trello card
     href: https://trello.com/c/ksa6MOhH/3424-where-do-candidates-apply-for-a-course
+tags:
+ - PN009
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -17,9 +19,8 @@ Two organisations have recently indicated their preference for candidates to app
 
 ## User need
 
-**As a provider**
-I need to be able exclude my course from UCAS
-So that candidates can apply for courses in my preferred way
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs('PN009')}) }}
 
 ## Notes on a proposed process
 

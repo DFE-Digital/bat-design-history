@@ -8,19 +8,17 @@ related:
     href: https://docs.google.com/presentation/d/1Kb8QIVThwopRVoJYfM5hRiZ1ks6j1CE-lQlz4X9p_hM/edit?usp=sharing
   - text: Research recordings
     href: https://drive.google.com/drive/u/0/folders/1SvRYGvLBB3GTaqgRRQ_42ouavpGaADac
+tags:
+ - PN007
+ - PN008
 ---
 
 This work closely follows [user management patterns](/manage-teacher-training-applications/adding-users) from the Apply service. There is an assumption that Publish and Apply have common users. Maintaining consistent UI supports the intention to provide a consistent experience across Find and Apply.
 
 ## User needs
 
-**As a Publish user**
-I need to see the other users that have access to my organisation
-So that I can check the appropriate people have access
-
-**As a Publish user**
-I need to be able to add and remove users
-So that only the appropriate people have access to my organisation
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Hypotheses
 
