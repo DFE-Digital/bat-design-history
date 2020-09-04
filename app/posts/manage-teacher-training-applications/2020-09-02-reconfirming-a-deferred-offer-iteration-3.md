@@ -75,16 +75,23 @@ We also:
   caption: "Welcome screen when the course is unavailable"
 }) }}
 
-## What the user sees when the course or location is unavailable
+## First release: reconfirming an offer via support
 
-For first release, if the course or location is unavaible, the user will be prompted to contact support to reconfirm the candidate’s offer.
+To reduce development effort the first release will ask users to contact support to reconfirm an offer if the course or location is no longer available in the new cycle.
 
-<!-- {{ appFigure({
+{{ appFigure({
   image: {
-    file: "welcome--support.png"
+    file: "welcome--support-1.png"
   },
-  caption: "Welcome screen when the course or location is unavailable and Support has to reconfirm the offer on behalf of the provider"
-}) }} -->
+  caption: "Welcome screen when the location is unavailable and a support agent has to reconfirm the offer on behalf of the provider"
+}) }}
+
+{{ appFigure({
+  image: {
+    file: "welcome--support-2.png"
+  },
+  caption: "Welcome screen when the course is unavailable and a support agent has to reconfirm the offer on behalf of the provider"
+}) }}
 
 ## Confirming the status of conditions
 
