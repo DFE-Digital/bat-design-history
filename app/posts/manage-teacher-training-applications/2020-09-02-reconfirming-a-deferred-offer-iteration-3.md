@@ -75,7 +75,7 @@ We also:
   caption: "Welcome screen when the course is unavailable"
 }) }}
 
-## First release: reconfirming an offer with assistance from support
+## First release: reconfirming an offer via support
 
 To reduce development effort the first release will ask users to contact support to reconfirm an offer if the course or location is no longer available in the new cycle.
 
