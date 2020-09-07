@@ -65,7 +65,7 @@ When details of the offer change, it should appear as an entry in the activity l
 
 ## Viewing an application that’s been transferred to a different provider
 
-Even though users at the previous organisation can no longer see the application in their application list, they’ll still have links to these applications from old email notifications, activity log entries and bookmarks.
+Even though users at the previous organisation can no longer see the application in their application list, they are likely to have links to these applications via old emails, activity log entries and bookmarks.
 
 When they do, the user should stll be able to see the application but in some sort of read only state. Something like this:
 
