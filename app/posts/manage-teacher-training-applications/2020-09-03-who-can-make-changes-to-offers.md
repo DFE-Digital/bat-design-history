@@ -41,7 +41,7 @@ Users who belong to the old organisation will no longer be able to see it unless
 
 {% set example2 %}
   Given I belong to organisation A
-  And the application was made to course at organisation A
+  And the application was made to a course at organisation A
   And the application was made to a course accredited by organisation B
   And I change the offer to a course accredited by organisation C
   Then I can still see the application
@@ -75,4 +75,3 @@ When they do, the user should stll be able to see the application but in some so
 * The last event on the timeline will be ‘Changed to provider X’
 
 The specific designs will be worked out in future sprints.
-
