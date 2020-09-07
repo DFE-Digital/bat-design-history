@@ -67,7 +67,7 @@ When details of the offer change, it should appear as an entry in the activity l
 
 Even though users at the previous organisation can no longer see the application in their application list, they are likely to have links to these applications via old emails, activity log entries and bookmarks.
 
-When they do, the user should stll be able to see the application but in some sort of read only state. Something like this:
+When they click on one of those links, they should still be able to see the application but in some sort of ‘read only’ state. Something like this:
 
 * A banner appears at the top of the page explaining that the application no longer belongs to them and why
 * There will be no buttons or links that allow the user to change the application or offer in anyway
