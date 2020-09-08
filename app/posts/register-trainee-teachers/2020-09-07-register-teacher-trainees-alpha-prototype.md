@@ -1,5 +1,5 @@
 ---
-title: Register Trainee Teachers - alpha prototype 
+title: Initial alpha static prototype 
 description: A look at the alpha prototype and beginning to think about the next steps.
 date: 2020-09-07
 related:
