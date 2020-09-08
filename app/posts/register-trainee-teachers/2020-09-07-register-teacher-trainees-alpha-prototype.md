@@ -14,7 +14,7 @@ related:
     href: https://projects.invisionapp.com/share/R2YGO89WADV#/screens/428900167
 ---
 
-The Register Teacher Trainee service exists to support the exchange of data on trainee teachers in England between accredited Initial Teacher Training (ITT) providers and the DfE.
+The Register teacher trainee service exists to support the exchange of data on trainee teachers in England between accredited Initial Teacher Training (ITT) providers and the DfE.
 
 Each year the service provides data on approximately 40K trainee teachers across 632 institutions in England.
 
