@@ -7,7 +7,7 @@ related:
   - text: Alpha assessment
     href: https://docs.google.com/presentation/d/1Ws9gmeHZTjmc2NRZlSCcVEfReEmyi9KB1_BLyyJv-ZE/
   - text: Alpha research overview
-    href: https://dfedigital.atlassian.net/wiki/spaces/TTDT/pages/1626931201/3.+User+Research+Rounds+Sprint+Work
+    href: https://dfedigital.atlassian.net/wiki/spaces/TTDT/pages/1626931201/
   - text: Alpha research analysis 
     href: https://dfedigital.atlassian.net/wiki/spaces/TTDT/pages/1626931201/3.+User+Research+Rounds+Sprint+Work
   - text: Static prototype 
