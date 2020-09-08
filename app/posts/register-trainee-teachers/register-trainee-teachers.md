@@ -3,12 +3,13 @@ tags: false
 layout: collection
 title: Register trainee teachers
 description: A service for collecting and maintaing trainee teacher registration data
-# related:
-#   items:
-#   - text: Prototype
-#     href: https://manage-courses-prototype.herokuapp.com
-#   - text: User needs
-#     href: /register-trainee-teachers/user-needs
+related:
+  items:
+  - text: Prototype
+    description: |
+      Username: `register`
+      Password: `bat`
+    href: https://register-prototype.herokuapp.com/records
 pagination:
   data: collections.register-trainee-teachers
   reverse: true
