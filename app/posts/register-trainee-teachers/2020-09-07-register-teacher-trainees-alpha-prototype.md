@@ -16,7 +16,7 @@ related:
 
 The Register teacher trainee service exists to support the exchange of data on trainee teachers in England between accredited Initial Teacher Training (ITT) providers and the DfE.
 
-Each year the service provides data on approximately 40K trainee teachers across 632 institutions in England.
+Each year the service provides data on approximately 40,000 trainee teachers across 632 institutions in England.
 
 The Register alpha focused on replacing an existing DfE product, the [Database of trainee teachers and providers (DTTP)](https://www.gov.uk/guidance/database-of-trainee-teachers-and-providers-dttp) and ran from 27 April to the end of July, with an assessment in early August.
 
