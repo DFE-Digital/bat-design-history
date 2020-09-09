@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: Register trainee teachers
-description: A service for collecting and maintaing trainee teacher registration data
+description: A service for collecting and managing trainee teacher registration data
 related:
   items:
   - text: Prototype
