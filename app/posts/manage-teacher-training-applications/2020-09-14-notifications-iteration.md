@@ -146,25 +146,30 @@ Here’s a first rough design for an email digest.
 > Your organisation, Springbank SCITT, has the following notifications for Tuesday 1 to Monday 7 September 2020 – click through to view more information:
 
 > ### New applications
-> - [Application received for Primary (5-11) O32P at Main Site](#)
-> - [Application received for Primary 79UK at Camberley](#)
+
+> - [Application received for Primary (5-11) O32P at Main Site](/)
+> - [Application received for Primary 79UK at Camberley](/)
 
 > ### Accepted offers
-> - [Dawn Walker (YMD6R3R) has accepted your offer](#)
+
+> - [Dawn Walker (YMD6R3R) has accepted your offer](/)
 
 > ### Withdrawals
-> - [Kristie Howell (1N82XDT) has withdrawn their application](#)
+
+> - [Kristie Howell (1N82XDT) has withdrawn their application](/)
 
 > ### Reject by default deadline approaching
-> - [Respond to James Sully's (YGC5A62) application](#)
+
+> - [Respond to James Sully's (YGC5A62) application](/)
 
 > ### Automatically rejected: please give feedback
-> - [Shaun Gaillard's (WLPJIOB) application was rejected automatically](#)
 
-> If you have any questions or to leave feedback, contact us at [becomingateacher@digital.education.gov.uk](#).
+> - [Shaun Gaillard's (WLPJIOB) application was rejected automatically](/)
+
+> If you have any questions or to leave feedback, contact us at [becomingateacher@digital.education.gov.uk](/).
 
 > Regards,
 > Becoming a Teacher team
 
-> To stop receiving these emails, change your notifications settings in [Manage teacher training applications](#)."
+> To stop receiving these emails, change your notifications settings in [Manage teacher training applications](/)."
 }) }}
