@@ -80,7 +80,7 @@ This works well if the user is changing one notification at a time. But if they 
 If we let users change all notifications at the same time
 Then they’ll be able to change their settings more quickly
 
-Note: we thought about using toggle switch but decided to try this first instead as it's easier to build and far less risk. Toggle switches may be confusing and inaccessible without the right care.
+Note: we thought about using toggle switches but decided to try this first instead as it's easier to build and far less risk. Toggle switches may be confusing and inaccessible without the right care.
 
 {{ appFigure({
   image: {
@@ -100,9 +100,9 @@ Note: we thought about using toggle switch but decided to try this first instead
 
 In the previous iteration we let users change their notification settings about any changes to their permissions.
 
-But permissions should change very infrequently so we don’t think users should have the ability to customise how they receive it.
+But permissions shouldn’t change often so we don’t think users should have the ability to customise how they receive notifications about this.
 
-And it doesn’t feel right being part of the notifications area which is all about applications.
+And it doesn’t feel right being part of the notifications area which is only about applications.
 
 ## Changing ‘Online notification’ to ‘Notifications area’
 
@@ -111,7 +111,7 @@ In the previous iteration we referred to in-service notifications as ‘Online n
 If we use ‘Notifications area’
 Then it’ll be easier for users to understand it
 
-Note: research shows that users don’t instantly understand what it means until they use the notifications area. This could be easily solved when the user sets up their notifications and potentially by using hint text to explain what it means.
+Note: research shows that users don’t instantly understand what ‘Notifications area’ means until they use it. This could be solved with an onboarding flow and using hint text to explain what it means.
 
 {{ appFigure({
   image: {
@@ -121,9 +121,9 @@ Note: research shows that users don’t instantly understand what it means until
 
 ## Helping users know they can configure their notifications
 
-Letting users configure their notifications is a significant and useful new feature. So it's important we make sure users are aware of what they can do.
+Letting users configure their notifications is a significant and useful new feature. So it’s important users know about it.
 
-Also, our research shows that while users understand what email notificiations are, they’re not so clued up about getting notifications within the service itself.
+Also, our research shows that while users understand what email notificiations are, they don’t necessarily understand with in-service notifications are.
 
 If we tell users how notifications work when they sign in
 Then users will be more likely to make better use of notifications
