@@ -8,7 +8,7 @@ date: 2020-09-15
 
 ## Put ‘Organisations’ and ‘Users’ in the account area
 
-Previously ‘Organisations’ and ‘Users’ were account navigation items alongside as they’re secondary features.
+Previously ‘Organisations’ and ‘Users’ were account navigation items as they’re secondary features.
 
 But they relate to the user’s account with notification settings and profile.
 
