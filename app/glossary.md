@@ -10,7 +10,7 @@ A collection of terms commonly used across the Becoming a Teacher service lines.
 Accreditation
 : All initial teacher training providers must be ‘accredited’ by the Secretary of State for Education. This process of ‘accreditation’ confirms they have permission to offer courses leading to Qualified Teacher Status (QTS). (NB: Ofsted is the body which checks the courses providers offer meet the standards set by the department.)
 : The exception is the School Direct (SD) training route; SDs need a ‘ratifying accredited provider’. The ratifying accredited provider may be a School Centred Initial Teacher Training (SCITT) or a Higher Education Institute (HEI), and is responsible for maintaining the quality of the training provided.
-: As accredited providers, SCITTs can offer QTS courses but do not have ‘degree awarding powers’. So to cater to candidates seeking academic awards (for example, a Post Graduate Certificate in Education (PGCE)), they need to partner with an HEI.
+: As accredited bodies, SCITTs can offer QTS courses but do not have the power to award a degree. To enable candidates who seek an academic award like a PGCE (Post Graduate Certificate in Education) they need to partner with an HEI.
 : The relationship between accredited training providers and the institutions they ratify is complex. For example, we know that individual courses can be ratified by different accredited bodies (so a School Direct may work with both an HEI and more than one SCITT to ratify its courses).
 
 Allocation
@@ -31,6 +31,9 @@ Course Code
 Cycle
 : The period during which ITT applications are open, usually beginning in October and ending in September.
 
+Database of Qualified Teachers (DQT)
+: A database maintained by the Teacher Regulation Agency. Teachers can sign in to view their teacher record, get copies of QTS and other teaching related qualifications and update their personal and employment details.
+
 DTTP
 : [Database of trainee teachers and providers](https://www.gov.uk/guidance/database-of-trainee-teachers-and-providers-dttp).
 
@@ -41,7 +44,10 @@ English Baccalaureate (EBacc)
 : A combination of subjects (the ‘core’ subjects, academically) that pupils can study at GCSE level. The EBacc is not a qualification in itself. The government assesses school performance based on how well pupils perform in the EBacc subjects. It’s also used as something of a marketing device - pupils are encouraged to choose these subjects.
 
 Early years initial teacher training (EYITT)
-: EYITT status allows you to teach 0 to 5 year olds. It’s equivalent to QTS, but exclusively for that specific age group.
+: The equivalent to ITT but specifically for teaching 0 to 5 year olds.
+
+Early years teacher status (EYTS)
+: The equivalent to QTS and allows you to teach 0 to 5 year olds.
 
 Further Education
 : This is an educational level between secondary and higher education. It tends to be vocational. Most people studying FE courses will be over 16, but some courses are available to people aged 14 and over. FE courses are usually taught in FE colleges, sixth form colleges, and adult education centres (ie not schools). Strictly speaking, A Levels are part of FD - however, the term is generally used to refer to non-academic, vocational/skills-focused training.
@@ -69,6 +75,9 @@ Marketing name
 
 Multi-Academy Trust (MAT)
 : A single trust responsible for a group of academies. MATs can be providers but cannot be lead schools.
+
+Niche routes
+: Non-mainstream routes into teaching, for example, Teach First.
 
 Organisation
 : There’s no clear definition for this. We use it broadly to encompass the different types of entity involving in teacher training (schools, universities, School Directs, etc). So it’s a catch-all, umbrella term.
@@ -103,11 +112,20 @@ Student record system (SRS)
 Teacher Analysis Division (TAD)
 : Part of DfE.
 
-Teaching School Alliance
-: Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
+Teacher Qualifications Unit (TQU)
+: Administers the Database of Qualified Teachers.
+
+Teacher Reference Number (TRN)
+: A unique number assigned to new teachers. The TRN follows teachers from training right through to pensions.
+
+Teacher Regulation Agency (TRA)
+: An executive agency of the DfE who maintains the database of qualified teachers in England, issues the TRN, awards QTS to teachers who complete ITT and awards EYTS to teachers who complete EYITT.
 
 Teacher supply model (TSM)
 : Used to predict and manage the ITT market.
+
+Teaching School Alliance
+: Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
 
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
