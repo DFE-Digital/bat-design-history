@@ -112,20 +112,20 @@ Student record system (SRS)
 Teacher Analysis Division (TAD)
 : Part of DfE.
 
-Teaching School Alliance
-: Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
-
-Teacher Regulation Agency (TRA)
-: An executive agency of the DfE who maintains the database of qualified teachers in England, issues the TRN, awards QTS to teachers who complete ITT and awards EYTS to teachers who complete EYITT.
+Teacher Qualifications Unit (TQU)
+: Administers the Database of Qualified Teachers.
 
 Teacher Reference Number (TRN)
 : A unique number assigned to new teachers. The TRN follows teachers from training right through to pensions.
 
+Teacher Regulation Agency (TRA)
+: An executive agency of the DfE who maintains the database of qualified teachers in England, issues the TRN, awards QTS to teachers who complete ITT and awards EYTS to teachers who complete EYITT.
+
 Teacher supply model (TSM)
 : Used to predict and manage the ITT market.
 
-Teacher Qualifications Unit (TQU)
-: Administers the Database of Qualified Teachers.
+Teaching School Alliance
+: Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
 
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
