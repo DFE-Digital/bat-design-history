@@ -109,6 +109,9 @@ Teaching School Alliance
 Teacher supply model (TSM)
 : Used to predict and manage the ITT market.
 
+Teacher Qualifications Unit (TQU)
+: Administers the Database of Qualified Teachers.
+
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
 
