@@ -31,7 +31,7 @@ Course Code
 Cycle
 : The period during which ITT applications are open, usually beginning in October and ending in September.
 
-Database of qualified teachers (DQT)
+Database of Qualified Teachers (DQT)
 : A database maintained by the Teacher Regulation Agency. Teachers can sign in to view their teacher record, get copies of QTS and other teaching related qualifications and update their personal and employment details.
 
 DTTP
@@ -116,7 +116,7 @@ Teaching School Alliance
 : Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
 
 Teacher Regulation Agency (TRA)
-: An executive agency of the DfE who maintains the database of qualified teachers in England, issues the TRN, awards QTS to teachers who complete ITT and EYTS to teachers who successfully complete EYITT.
+: An executive agency of the DfE who maintains the database of qualified teachers in England, issues the TRN, awards QTS to teachers who complete ITT and awards EYTS to teachers who complete EYITT.
 
 Teacher Reference Number (TRN)
 : A unique number assigned to new teachers. The TRN follows teachers from training right through to pensions.
