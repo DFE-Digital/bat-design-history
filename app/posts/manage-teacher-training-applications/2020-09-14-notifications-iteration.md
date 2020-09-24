@@ -9,7 +9,8 @@ date: 2020-09-14
 
 View the [previous iteration](/manage-teacher-training-applications/notifications/).
 
-## Relevant research from recent test rounds
+## Relevant research
+
 https://docs.google.com/presentation/d/1K1GnksPhYP9MhziExv-Iz8q-_fHSfC00Gx4cbXdAdD8/edit?usp=sharing
 
 ## Notification area part of primary navigation
