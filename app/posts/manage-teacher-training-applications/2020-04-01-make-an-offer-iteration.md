@@ -6,7 +6,7 @@ date: 2020-04-01
 
 Currently providers can only make an offer to the course the candidate applied to.
 
-But sometimes providers need to make changes to the offer like the course or location. To do this they currently haev to go through support.
+But sometimes providers need to make changes to the offer like the course or location. To do this they currently have to go through support.
 
 If we let providers change details of an offer as they make it then providers will be able to make suitable offers without relying on support.
 
