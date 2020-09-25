@@ -10,7 +10,7 @@ Previously each application in the application list took up a lot of vertical sp
 
 This means less applications are within the viewport at any one time.
 
-Some users have also said periodically they’d they like a more dense layout – something that the UCAS UI provides.
+Some users have also said they’d like a more dense layout – similar to what they’re used to with UCAS.
 
 If we give users a more dense application list
 Then users will be able to see more information with less effort
