@@ -1,6 +1,6 @@
 ---
 title: Dense application list layout
-description: Improving the information architecture of the account area
+description: A more dense layout for each application card in the application list.
 date: 2020-09-25
 ---
 
