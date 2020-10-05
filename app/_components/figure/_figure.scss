@@ -33,6 +33,10 @@
   }
 
   figcaption {
+    * {
+      color: $govuk-secondary-text-colour;
+    }
+
     > :last-child {
       margin-bottom: 0;
     }
