@@ -1,20 +1,12 @@
-.app-email {
+.app-prose .app-email {
   @include govuk-font($size: false);
   border: $govuk-border-width solid $govuk-border-colour;
   padding: govuk-spacing(4);
   margin-bottom: govuk-spacing(8);
   max-width: 40rem;
 
-  h1 {
-    @extend %govuk-heading-xl;
-  }
-
-  h2 {
-    @extend %govuk-heading-l;
-  }
-
-  h3 {
-    @extend %govuk-heading-m;
+  h1, h2, h3, h4 {
+    @include govuk-font($size: 27, $weight: bold);
   }
 
   p {
@@ -35,6 +27,34 @@
     @extend %govuk-link;
   }
 
+  .placeholder,
+  .placeholder-conditional {
+    @include govuk-font($size: 19);
+    background: govuk-colour("yellow");
+    color: $govuk-text-colour;
+    display: inline;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+
+  .placeholder {
+    border-radius: 20px;
+    box-shadow:
+      inset 0.47em 0 0 0 govuk-colour("white"),
+      inset -0.47em 0 0 0 govuk-colour("white"),
+      inset 0 -0.15em 0 0 govuk-colour("white"),
+      inset 0 0.15em 0 0 govuk-colour("white");
+  }
+
+  .placeholder-conditional {
+    border-radius: 20px 8px 8px 20px;
+    box-shadow:
+      inset 0.47em 0 0 0 govuk-colour("white"),
+      inset -0.89em 0 0 0 govuk-colour("white"),
+      inset 0 -0.16em 0 0 govuk-colour("white"),
+      inset 0 0.16em 0 0 govuk-colour("white");
+  }
+
   // Used when showing screenshots of HTML email
   img:first-of-type {
     margin: - govuk-spacing(4);
@@ -42,11 +62,30 @@
     max-width: none;
     outline: 0;
   }
+
+  .header-anchor {
+    display: none;
+  }
 }
 
-.app-email__subject {
+.app-email__headers {
+  @include govuk-font($size: 19);
   padding-bottom: govuk-spacing(4);
   margin-top: 0;
   margin-bottom: govuk-spacing(4);
   border-bottom: 1px solid $govuk-border-colour;
+
+  &__row {
+    display: flex;
+  }
+
+  &__key {
+    color: $govuk-secondary-text-colour;
+    font-weight: normal;
+    margin-right: govuk-spacing(4);
+  }
+
+  &__value {
+    font-weight: normal;
+  }
 }

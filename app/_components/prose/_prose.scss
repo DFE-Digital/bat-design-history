@@ -55,7 +55,7 @@
 
   strong,
   b,
-  dt {
+  dt:not([class]) {
     @include govuk-typography-weight-bold;
   }
 
@@ -143,12 +143,15 @@
   code {
     background-color: govuk-colour("light-grey");
     font-family: monospace, monospace;
-    font-size: 0.875em;
   }
 
   pre {
     padding: govuk-spacing(4);
     overflow: scroll;
+  }
+
+  code {
+    font-size: 0.875em;
   }
 
   pre + h2 {
