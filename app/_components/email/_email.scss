@@ -29,7 +29,6 @@
 
   .placeholder,
   .placeholder-conditional {
-    @include govuk-font($size: 19);
     background: govuk-colour("yellow");
     color: $govuk-text-colour;
     display: inline;
