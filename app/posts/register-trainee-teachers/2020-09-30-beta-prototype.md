@@ -36,25 +36,25 @@ This pattern allows us to have multiple sections that users can complete in any 
   caption: "Task list overview"
 }) }}
 
-A task collecting some data:
 {{ appFigure({
   image: {
     file: "2020.09.22_17_18_55_Candidate personal details - Register trainee teachers - GOV.UK.png"
-  }
+  },
+  caption: "A task collecting some data"
 }) }}
 
-Confirming those details:
 {{ appFigure({
   image: {
     file: "2020.09.22_17_19_23_Confirm personal details - Register trainee teachers - GOV.UK.png"
-  }
+  },
+  caption: "Confirming those details"
 }) }}
 
-A partially completed task list:
 {{ appFigure({
   image: {
     file: "2020.09.22_17_21_58_Overview - Register trainee teachers - GOV.UK.png"
-  }
+  },
+  caption: "A partially completed task list"
 }) }}
 
 ## Screenshots of all pages
@@ -63,163 +63,163 @@ A partially completed task list:
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "2020.09.22_17_06_58_Register for teacher training   GOV.UK",
+      text: "Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_06_58_Register for teacher training - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_12_55_  Register trainee teachers   GOV.UK",
+      text: "Assessment Only (AO) guidance - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_12_55_- Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_15_23_  Register trainee teachers   GOV.UK",
+      text: "Data requirements - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_15_23_- Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_15_45_Trainee teachers   Register trainee teachers   GOV.UK",
+      text: "Trainee teachers - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_15_45_Trainee teachers - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_16_00_Add a trainee   Register trainee teachers   GOV.UK",
+      text: "Add a trainee - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_16_00_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_16_11_Other routes not supported   Register trainee teachers   GOV.UK",
+      text: "Other routes not supported - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_16_11_Other routes not supported - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_17_39_Overview   Register trainee teachers   GOV.UK",
+      text: "Overview - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_17_39_Overview - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_18_55_Candidate personal details   Register trainee teachers   GOV.UK",
+      text: "Candidate personal details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_18_55_Candidate personal details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_19_23_Confirm personal details   Register trainee teachers   GOV.UK",
+      text: "Confirm personal details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_19_23_Confirm personal details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_19_51_Contact details   Register trainee teachers   GOV.UK",
+      text: "Contact details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_19_51_Contact details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_21_51_Confirm personal details   Register trainee teachers   GOV.UK",
+      text: "Confirm personal details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_21_51_Confirm personal details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_21_58_Overview   Register trainee teachers   GOV.UK",
+      text: "Overview - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_21_58_Overview - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_22_22_Has the candidate disclosed diversity information_   Register trainee teachers   GOV.UK",
+      text: "Has the candidate disclosed diversity information_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_22_22_Has the candidate disclosed diversity information_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_22_28_Confirm diversity information   Register trainee teachers   GOV.UK",
+      text: "Confirm diversity information - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_22_28_Confirm diversity information - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_22_35_Ethnic group   Register trainee teachers   GOV.UK",
+      text: "Ethnic group - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_22_35_Ethnic group - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_22_42_Which of the following best describes their Asian or Asian British background_   Register trainee teachers   GOV.UK",
+      text: "Which of the following best describes their Asian or Asian British background_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_22_42_Which of the following best describes their Asian or Asian British background_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_22_48_Which of the following best describes their Black, African, Black British or Caribbean background_   Register trainee teachers   GOV.UK",
+      text: "Which of the following best describes their Black, African, Black British or Caribbean background_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_22_48_Which of the following best describes their Black, African, Black British or Caribbean background_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_23_11_Which of the following best describes their Mixed or multiple ethnic groups background_   Register trainee teachers   GOV.UK",
+      text: "Which of the following best describes their Mixed or multiple ethnic groups background_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_23_11_Which of the following best describes their Mixed or multiple ethnic groups background_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_23_26_Which of the following best describes their White background_   Register trainee teachers   GOV.UK",
+      text: "Which of the following best describes their White background_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_23_26_Which of the following best describes their White background_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_23_36_Which of the following best describes their Another ethnic group background_   Register trainee teachers   GOV.UK",
+      text: "Which of the following best describes their Another ethnic group background_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_23_36_Which of the following best describes their Another ethnic group background_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_23_58_Is the candidate disabled_   Register trainee teachers   GOV.UK",
+      text: "Is the candidate disabled_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_23_58_Is the candidate disabled_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_24_04_Confirm diversity information   Register trainee teachers   GOV.UK",
+      text: "Confirm diversity information - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_24_04_Confirm diversity information - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_24_11_Which disabilities were disclosed_   Register trainee teachers   GOV.UK",
+      text: "Which disabilities were disclosed_ - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_24_11_Which disabilities were disclosed_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_24_19_Confirm diversity information   Register trainee teachers   GOV.UK",
+      text: "Confirm diversity information - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_24_19_Confirm diversity information - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_24_33_Check record   Register trainee teachers   GOV.UK",
+      text: "Check record - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_24_33_Check record - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_24_41_Check record   Register trainee teachers   GOV.UK",
+      text: "Check record - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_24_41_Check record - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_24_55_GCSE details   Register trainee teachers   GOV.UK",
+      text: "GCSE details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_24_55_GCSE details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_25_04_Confirm GCSE details   Register trainee teachers   GOV.UK",
+      text: "Confirm GCSE details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_25_04_Confirm GCSE details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_25_24_Add undergraduate degree   Register trainee teachers   GOV.UK",
+      text: "Add undergraduate degree - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_25_24_Add undergraduate degree - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_25_44_Add undergraduate degree   Register trainee teachers   GOV.UK",
+      text: "Add undergraduate degree - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_25_44_Add undergraduate degree - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_25_59_Degree details   Register trainee teachers   GOV.UK",
+      text: "Degree details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_25_59_Degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_26_25_Confirm degree details   Register trainee teachers   GOV.UK",
+      text: "Confirm degree details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_26_25_Confirm degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_26_36_Add undergraduate degree   Register trainee teachers   GOV.UK",
+      text: "Add undergraduate degree - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_26_36_Add undergraduate degree - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_27_46_Degree details   Register trainee teachers   GOV.UK",
+      text: "Degree details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_27_46_Degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_28_07_Confirm degree details   Register trainee teachers   GOV.UK",
+      text: "Confirm degree details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_28_07_Confirm degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_28_19_Assessment details   Register trainee teachers   GOV.UK",
+      text: "Assessment details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_28_19_Assessment details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_28_45_Confirm assessment details   Register trainee teachers   GOV.UK",
+      text: "Confirm assessment details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_28_45_Confirm assessment details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_28_59_Check record   Register trainee teachers   GOV.UK",
+      text: "Check record - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_28_59_Check record - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_29_08_Trainee submitted for TRN   Register trainee teachers   GOV.UK",
+      text: "Trainee submitted for TRN - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_29_08_Trainee submitted for TRN - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_29_16_Trainee teachers   Register trainee teachers   GOV.UK",
+      text: "Trainee teachers - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_29_16_Trainee teachers - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_29_29_Sally Jenkins   Register trainee teachers   GOV.UK",
+      text: "Sally Jenkins - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_29_29_Sally Jenkins - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_29_37_Sally Jenkins   Register trainee teachers   GOV.UK",
+      text: "Sally Jenkins - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_29_37_Sally Jenkins - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_29_52_Trainee ID (optional)   Register trainee teachers   GOV.UK",
+      text: "Trainee ID (optional) - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_29_52_Trainee ID (optional) - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_30_01_Assessment details   Register trainee teachers   GOV.UK",
+      text: "Assessment details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_30_01_Assessment details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_30_27_Sally Jenkins   Register trainee teachers   GOV.UK",
+      text: "Sally Jenkins - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_30_27_Sally Jenkins - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_30_35_Recommend for QTS   Register trainee teachers   GOV.UK",
+      text: "Recommend for QTS - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_30_35_Recommend for QTS - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_30_57_Check assessment details   Register trainee teachers   GOV.UK",
+      text: "Check assessment details - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_30_57_Check assessment details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_31_02_Sally Jenkins   Register trainee teachers   GOV.UK",
+      text: "Sally Jenkins - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_31_02_Sally Jenkins - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_35_03_Sally Jenkins   Register trainee teachers   GOV.UK",
+      text: "Sally Jenkins - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_35_03_Sally Jenkins - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_35_11_Sally Jenkins   Register trainee teachers   GOV.UK",
+      text: "Sally Jenkins - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_35_11_Sally Jenkins - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_35_27_Trainee teachers   Register trainee teachers   GOV.UK",
+      text: "Trainee teachers - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_35_27_Trainee teachers - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_35_37_Trainee teachers   Register trainee teachers   GOV.UK",
+      text: "Trainee teachers - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_35_37_Trainee teachers - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "2020.09.22_17_35_48_Trainee teachers   Register trainee teachers   GOV.UK",
+      text: "Trainee teachers - Register trainee teachers - GOV.UK",
       img: { src: "2020.09.22_17_35_48_Trainee teachers - Register trainee teachers - GOV.UK.png" }
     }]
 }) }}
