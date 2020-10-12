@@ -29,7 +29,7 @@ Publish previously allowed organisations to provide a common fee for UK and EU s
   }
 }) }}
 
-## Design Notes
+## Design notes
 
 This update uncouples EU student fees from UK fees, leaving the optional international field for fees for students from any non-UK location.
 
