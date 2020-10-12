@@ -29,11 +29,11 @@ The new prototype borrows heavily from the Apply and Manage services. Register s
 This pattern allows us to have multiple sections that users can complete in any order. As the Register service supports more routes, we can vary the sections shown to they are specific to each route.
 
 {% from "figure/macro.njk" import appFigure with context %}
-Task list overview:
 {{ appFigure({
   image: {
     file: "2020.09.22_17_17_39_Overview - Register trainee teachers - GOV.UK.png"
-  }
+  },
+  caption: "Task list overview"
 }) }}
 
 A task collecting some data:
