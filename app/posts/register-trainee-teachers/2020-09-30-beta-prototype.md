@@ -22,7 +22,7 @@ Working in HTML and designing for progressive enhancement necessitated some chan
 * break up forms across pages to support adding multiples (like multiple degrees)
 * implicitly require that each section be completed as a whole, and not allow individual fields to be left blank
 
-The new prototype borrows heavily from the Apply and Manage services. Register sits half way between them in sorts of data collected and actions users need to take - so it's been incredibly helpful to have them to take inspiration from.
+The new prototype borrows heavily from the Apply and Manage services. Register sits half way between them in terms of data collected and actions users need to take, so it’s been incredibly helpful to have them to take inspiration from.
 
 ## Task list pattern
 
