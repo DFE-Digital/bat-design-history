@@ -15,6 +15,7 @@ related:
 We began work on a new prototype for the Register service in early September 2020. The [alpha prototype](/register-trainee-teachers/alpha-prototype/) was a static InVision prototype, which while good for quick iteration, limited some of the usability testing we could do. This new one is built with the [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/) and allows us to test complex journeys with realistic data.
 
 ## Journey changes
+
 Working in HTML and designing for progressive enhancement necessitated some changes from the alpha designs:
 
 * use the task list pattern rather than tabs for each form
