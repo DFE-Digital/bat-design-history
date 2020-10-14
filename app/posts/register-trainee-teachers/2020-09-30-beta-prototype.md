@@ -1,7 +1,7 @@
 ---
 title: Beta prototype v1
-description:
-date: 2020-10-12
+description: Building a new prototype from scratch
+date: 2020-10-14
 related:
   items:
   - text: Current beta prototype (Heroku)
@@ -12,7 +12,6 @@ related:
     href: /register-trainee-teachers/alpha-prototype/
 ---
 
-## Building a new prototype from scratch
 We began work on a new prototype for the Register service in early September 2020. The [alpha prototype](/register-trainee-teachers/alpha-prototype/) was a static InVision prototype, which while good for quick iteration, limited some of the usability testing we could do. This new one is built with the [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/) and allows us to test complex journeys with realistic data.
 
 ## Journey changes
