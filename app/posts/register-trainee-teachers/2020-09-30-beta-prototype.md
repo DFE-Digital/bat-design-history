@@ -26,7 +26,7 @@ The new prototype borrows heavily from the Apply and Manage services. Register s
 
 ## Task list pattern
 
-This pattern allows us to have multiple sections that users can complete in any order. As the Register service supports more routes, we can vary the sections shown to they are specific to each route.
+This pattern allows us to have multiple sections that users can complete in any order. As the Register service supports more routes, we can vary the sections shown so they are specific to each route.
 
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
