@@ -1,7 +1,7 @@
 ---
 title: Smaller headings
 description: Reduce the size of all headings to make them easier to read
-date: 2020-10-01
+date: 2020-10-16
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
