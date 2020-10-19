@@ -14,9 +14,9 @@ Several content and layout improvements to setting up and managing organisationa
 
 We combined the [first](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-set-up-welcome-page) and [second](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-set-up-information-page) pages of the onboarding flow into one as shown below.
 
-On the one hand we worry about the amount of content there is, on the other we know that our current content doesn’t give enough information for some users to understand how permissions work.
+On the one hand we worry about users not reading the content because there’s a lot of it. On the other hand we know that the current content doesn’t give enough information for some users to understand how permissions work.
 
-On balance we decided to provide more content so users have an opportunity to understand as opposed to making user users read content (because there’s less) that they don’t fully understand.
+So we decided it’s better to provide more verbose content so that users at least have the opportunity to fully understand how permissions work.
 
 {{ appFigure({
   image: {
@@ -32,9 +32,9 @@ When some users submitted a form when the next page loaded they couldn’t tell 
 
 So we [reduced the size](/manage-teacher-training-applications/smaller-headings) and length of the headings as shown below.
 
-We also found that users were confused that organisations can view applications without setting these permissions explicitly. Even though we had guidance for this, users weren’t reading this.
+We also found that even though there was content to explain organisations can view applications without setting permissions for this, that some users weren’t reading it.
 
-So we decided to put the content front and center and used icons to draw attention. We didn’t use disabled checkboxes because they’re not focusable by keyboard.
+So we decided to lay out the content like the other permissions. We used check icons instead of disabled checkboxes because disabled controls are not focusable by keyboard.
 
 {{ appFigure({
   image: {
