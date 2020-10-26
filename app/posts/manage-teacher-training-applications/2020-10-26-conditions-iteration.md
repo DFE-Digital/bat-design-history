@@ -1,5 +1,5 @@
 ---
-title: Managing conditions iteration
+title: Conditions iteration
 description: Let users add, edit and remove conditions
 date: 2020-10-26
 ---
@@ -62,6 +62,11 @@ We explored ways to let users delete such conditions but we backed out of this b
     text: "Check conditions page",
     img: {
       src: "check-conditions.png"
+    }
+  }, {
+    text: "Check conditions page – all conditions removed",
+    img: {
+      src: "check-conditions--no-conditions.png"
     }
   }, {
     text: "Success message",
