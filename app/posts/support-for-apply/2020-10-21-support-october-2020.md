@@ -33,7 +33,13 @@ Navigation was updated to reflect this change. We also revised the layout of sev
     img: { src: "1100-candidates-candidates.png" }
   }, {
     text: "UCAS matches",
-    img: { src: "1200-ucas-matches.png" }
+    img: { src: "1200-candidates-ucas-matches.png" }
+  }, {
+    text: "UCAS match details",
+    img: { src: "1210-candidates-ucas-match.png" }
+  }, {
+    text: "UCAS match history",
+    img: { src: "1220-candidates-ucas-match-history.png" }
   }]
 }) }}
 
@@ -83,19 +89,19 @@ Navigation was updated to reflect this change. We also revised the layout of sev
     img: { src: "2200-providers-api-tokens.png" }
   }, {
     text: "All provider users",
-    img: { src: "2300-providers-users.png" }
+    img: { src: "2300-providers-provider-users.png" }
   }, {
     text: "Provider user details",
-    img: { src: "2301-providers-provider-user.png" }
+    img: { src: "2310-providers-provider-user.png" }
   }, {
     text: "Add provider user",
-    img: { src: "2302-providers-provider-user-new.png" }
+    img: { src: "2311-providers-provider-user-new.png" }
   }, {
     text: "Edit provider user",
-    img: { src: "2303-providers-provider-user-edit.png" }
+    img: { src: "2312-providers-provider-user-edit.png" }
   }, {
     text: "Provider user history",
-    img: { src: "2304-providers-provider-user-history.png" }
+    img: { src: "2320-providers-provider-user-history.png" }
   }]
 }) }}
 
@@ -127,7 +133,7 @@ Navigation was updated to reflect this change. We also revised the layout of sev
     img: { src: "3300-performance-validation-errors.png" }
   }, {
     text: "Validation error summary",
-    img: { src: "3301-performance-validation-error-summary.png" }
+    img: { src: "3310-performance-validation-error-summary.png" }
   }]
 }) }}
 
@@ -150,10 +156,10 @@ Navigation was updated to reflect this change. We also revised the layout of sev
     img: { src: "4400-settings-support-users.png" }
   }, {
     text: "Support user",
-    img: { src: "4401-settings-support-user.png" }
+    img: { src: "4410-settings-support-user.png" }
   }, {
     text: "Add support user",
-    img: { src: "4402-settings-support-user-new.png" }
+    img: { src: "4411-settings-support-user-new.png" }
   }]
 }) }}
 
