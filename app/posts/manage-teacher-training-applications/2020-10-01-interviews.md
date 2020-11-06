@@ -19,7 +19,7 @@ But because the service doesn't let providers manage interviews, the status stay
 
 If we let users set up and manage interviews, then it’ll be easier to manage the application process inside the service.
 
-### Application list
+## Application list
 
 The ‘Submitted’ status has been split out into ‘Received’, ‘Awaiting interview’ and ‘Interviewed’. And there's a new section in the list of candidates awaiting interview.
 
@@ -29,7 +29,7 @@ The ‘Submitted’ status has been split out into ‘Received’, ‘Awaiting i
   }
 }) }}
 
-### Prompts
+## Prompts
 
 When an application has been received, the prompt is to: set up an interview or make a decision.
 
@@ -59,7 +59,7 @@ There’s still an option to set up another interview because there’s no guara
   }
 }) }}
 
-### Setting up an interview
+## Setting up an interview
 
 When the user sets up an interview they need to fill out a date, time, location and additional details.
 
@@ -87,7 +87,7 @@ Then you are taken to the interviews tab with a success message.
   }
 }) }}
 
-### Interview list page
+## Interview list page
 
 A new top level page has been added so that users can see all the upcoming interviews.
 
