@@ -1,6 +1,6 @@
 ---
-title: Replacing banner prompts
-description: Users sometimes struggle to spot calls to action within blue ‘status’ banners
+title: Banner prompt iteration
+description: Helping users better spot prompts to take action
 date: 2020-08-14
 ---
 
