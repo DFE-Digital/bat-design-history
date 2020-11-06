@@ -76,9 +76,6 @@ Marketing name
 Multi-Academy Trust (MAT)
 : A single trust responsible for a group of academies. MATs can be providers but cannot be lead schools.
 
-NARIC
-: The [National Academic Recognition Centre](https://www.naric.org.uk/) is the agency responsible for recognising international qualifications and skills. Providers can request international applicants to provide a 'Naric Equivalency Certificate' to ensure their qualifications align with UK requirements.
-
 NASBTT
 : The [National Association of School-Based Teacher Trainers](https://www.nasbtt.org.uk) is a registered charity which represents the interests of schools-led teacher training provision in relation to the development and implementation of national policy developments. They are the largest representative body of SCITTs and School Directs.
 
@@ -135,6 +132,9 @@ Teaching School Alliance
 
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
+
+UK NARIC
+: All EU and EEA states (as well as some other associated countries) have a designated National Academic Recognition Information Centre that is responsible for recognising international qualifications and skills. The [National Recognition Information Centre for the United Kingdom](https://www.naric.org.uk/) is the UK’s agency. Providers can ask international applicants to provide a [statement of comparability](https://www.naric.org.uk/Qualifications/SOC/Default.aspx) to ensure their qualifications align with UK requirements.
 
 UK Provider Reference Number (UKPRN)
 : This is the unique identifier given to higher education providers.
