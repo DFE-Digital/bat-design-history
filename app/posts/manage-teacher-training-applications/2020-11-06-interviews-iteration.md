@@ -46,7 +46,7 @@ We added hint text to the location field to let users know they can provide othe
 
 ## Move location before additional details
 
-In the previous iteration the location comes before additional details. This wasn’t very logical and inconsistent with the order on the summary card.
+In the previous iteration the location came before additional details. This wasn’t very logical, and it’s inconsistent with the order on the summary card.
 
 So now location always comes before additional details which comes last.
 
@@ -125,7 +125,7 @@ This is something we’ll keep an eye on with this new iteration.
       src: "prompt--interviewing.png"
     }
   }, {
-    text: "Cancelling an interview :step 1",
+    text: "Cancelling an interview: step 1",
     img: {
       src: "cancel--1.png"
     }
