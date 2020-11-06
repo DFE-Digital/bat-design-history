@@ -14,17 +14,19 @@ The intention was to have the status change automatically to ‘Interviewed’ a
 
 Alternatively, we thought about letting users change the status themselves by marking an application as ‘Interviewed’ but that means we have to rely on users actually doing that for very little gain.
 
-Really, the next step is to make an offer or reject the application, so an interim step is unnecessary or worse prone to misuse.
+Really, the next step is to make an offer or reject the application, so an interim step is unnecessary or worse, prone to misuse.
 
-To avoid all that complexity we decided to collapse the status into a single ‘Interviewing’ status as soon as one interview has been set up. The application remains in that state until an offer is made or the application is rejected.
+To avoid all that complexity we decided to collapse the status into a single ‘Interviewing’ status as soon as one interview has been set up.
+
+The application remains in that state until an offer is made or the application is rejected.
 
 ## Prompting users to make a decision once an interview has been set up
 
 In the previous iteration, when an application is in the ‘Awaiting interview’ state, we prompted users to either make a decison or set up another interview.
 
-But we felt it was confusing to prompt users to set up another interview when some providers may only ever set up one interview.
+But we felt it was confusing to prompt users to set up another interview for providers that don’t set up multiple interviews.
 
-So we changed it so that users can set up another interview from the interviews page, but the prompt has a single ‘Make a decision’ call to action.
+So we removed that option from the prompt but still let users set up another interview from the interviews page.
 
 ## Hiding the ‘Cancel’ and ‘Change’ links once an offer is made or the application is rejected
 
@@ -36,29 +38,31 @@ This was more an oversight than anything else. But now we only let users cancel 
 
 In the previous iteration we used [Inset text](https://design-system.service.gov.uk/components/inset-text/) at the top of the page where users fill out the interview details.
 
-But some users missed this, so we’ve put it in a box instead to see if that helps.
+But some users missed this, so we’ve put the preferences in a box instead.
 
 ## Add hint text to location
 
-We added hint text to the location field to let users know they can provide other details like directions which we know is something candidates find useful.
+We added hint text to the location field to let users know they can provide other details, like directions which we know candidates find useful.
 
 ## Move location before additional details
 
-In the previous iteration the location was added after the additional details on the form but appears before on the summary card.
+In the previous iteration the location comes before additional details. This wasn’t very logical and inconsistent with the order on the summary card.
 
-This was more an oversight than anything else. But now we’ve put it in a more logical order that matches the summary card order.
+So now location always comes before additional details which comes last.
 
 ## Add organisation before location
 
-For users who belong to both the training provider and accredited body we won’t know who to send the invite on behalf of. This means candidates may be confused about who the interview is with.
+Some users beloing to both the training provider and the accredited body.
 
-So for users who belong to both organisations, we now ask users to specify the organisation they’re interviewin on behalf of.
+In this case we don’t know who to send the interview details on behalf of.
 
-## Showing past interviews on interviews list
+So for users who belong to both organisations, we now ask users to specify the organisation.
+
+## Showing past interviews on interviews list page
 
 In the previous iteration we didn’t think about whether past interviews would show on the interviews list page.
 
-We decided that it was best to show past interviews rather than having them disappear. This way users don’t have to hunt for them elsewhere.
+We decided that it is better to show past interviews rather than having them disappear. This way users don’t have to hunt for them elsewhere.
 
 So we added sub headings to distinguish upcoming interviews from those that have already taken place.
 
@@ -86,6 +90,7 @@ This is something we’ll keep an eye on with this new iteration.
 - The ‘Interview preferences’ icon is using a check mark which isn’t really what it’s for
 - Should a cancelled interview disappear from the UI or get marked as cancelled?
 - The interview list page needs to show course details
+- Use or don’t use an ‘article’ for the button text - be consistent
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
