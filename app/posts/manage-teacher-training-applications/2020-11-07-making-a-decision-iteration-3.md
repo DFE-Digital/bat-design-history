@@ -1,13 +1,13 @@
 ---
 title: Making a decision iteration 3
-description: Various improvements to the way interviews work
-date: 2020-11-06
+description: Various improvements to the flow for making a decision
+date: 2020-11-07
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
-[View previous iteration](/manage-teacher-training-applications/make-decision-iteration-2)
+[View previous iteration](/manage-teacher-training-applications/making-a-decision-iteration-2)
 
 ## Reducing the number of options
 
