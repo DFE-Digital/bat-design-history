@@ -133,6 +133,9 @@ Teaching School Alliance
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
 
+UK NARIC
+: All EU and EEA states (as well as some other associated countries) have a designated National Academic Recognition Information Centre that is responsible for recognising international qualifications and skills. The [National Recognition Information Centre for the United Kingdom](https://www.naric.org.uk/) is the UK’s agency. Providers can ask international applicants to provide a [statement of comparability](https://www.naric.org.uk/Qualifications/SOC/Default.aspx) to ensure their qualifications align with UK requirements.
+
 UK Provider Reference Number (UKPRN)
 : This is the unique identifier given to higher education providers.
 
