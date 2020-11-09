@@ -1,5 +1,5 @@
 ---
-title: Make an offer iteration
+title: Making a decision iteration 2
 description: Let users make offers to different training providers, courses, locations
 date: 2020-04-01
 ---
