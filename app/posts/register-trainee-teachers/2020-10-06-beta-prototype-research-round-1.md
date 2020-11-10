@@ -1,6 +1,6 @@
 ---
 title: Beta prototype research (Round 1)
-description: Validating existing Assessment Only user needs and testing the prototype
+description: Validating existing assessment only user needs and testing the prototype
 date: 2020-10-06
 related:
   items:
