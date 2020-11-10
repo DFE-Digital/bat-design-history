@@ -8,9 +8,9 @@ This is an iteration of the [current flow](/manage-teacher-training-applications
 
 ## Only showing the new offer on the ‘check answers’ page
 
-Currently, the previous offer and new offer are shown next to each other on the ‘check answers’ page.
+Currently, the previous offer and new offer are shown together on the ‘check answers’ page.
 
-This is inconsistent with the ‘check answers’ page when making an initial offer and editing conditions and gives the user more content to read.
+This is inconsistent with the ‘check answers’ page when making an initial offer and editing conditions. It also gives the user more content to read.
 
 We think on balance that it’s okay to just show the details of the new offer.
 
@@ -20,9 +20,9 @@ Currently, on the ‘check answers’ page, users can only change the attributes
 
 For example, if the user choses to change the location, they can only change the location. They cannot change the training provider or course.
 
-This means the user is forced to perform multiple actions, each of which triggers an email to the candidate.
+This means that the user may be forced to perform multiple actions, each of which triggers an email to the candidate.
 
-So we decided to let users change any details of the offer regardless of which action the user originally chose.
+So we decided to let users change any details of the offer regardless of which action they originally chose.
 
 This way, users get the most flexible experience and candidates receive as few emails as possible.
 
@@ -44,7 +44,7 @@ We’ve addressed this by changing the content as follows:
 
 No matter what the user is changing (training provider, course, location, conditions), they can change other details about the offer from the ‘check answers’ page.
 
-Whatever the user selects to change is what the user sees before arriving at the ‘check answers’ page. For example, if the user chooses to change the location, they see the location page first.
+Whatever the user selects to change is what the user sees before arriving at the ‘check answers’ page. For example, if they choose to change the location, they see the location page first.
 
 If the user keeps all the attributes the same, then an email will not be sent to the candidate as nothing has  changed.
 
