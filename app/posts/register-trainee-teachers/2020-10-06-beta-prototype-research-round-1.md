@@ -1,5 +1,5 @@
 ---
-title: Beta prototype research (Round 1)
+title: Beta prototype research (round 1)
 description: Validating existing assessment only user needs and testing the prototype
 date: 2020-10-06
 related:
