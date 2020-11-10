@@ -1,5 +1,5 @@
 ---
-title: Editing conditions iteration
+title: Changing conditions iteration
 description: Let users add, edit and remove conditions
 date: 2020-10-26
 ---
