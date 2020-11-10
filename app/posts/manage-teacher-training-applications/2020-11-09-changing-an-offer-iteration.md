@@ -4,7 +4,7 @@ description: Improvements to the way users edit an offer
 date: 2020-11-09
 ---
 
-[View current flow](/manage-teacher-training-applications/changing-an-offer-november-2020).
+This is an iteration of the [current flow](/manage-teacher-training-applications/changing-an-offer-november-2020).
 
 ## Only showing the new offer on the ‘check answers’ page
 
@@ -20,11 +20,11 @@ Currently, on the ‘check answers’ page, users can only change the attributes
 
 For example, if the user choses to change the location, they can only change the location. They cannot change the training provider or course.
 
-This means that users are forced to perform multiple actions, each of which will send out a notification email to candidates.
+This means the user is forced to perform multiple actions, each of which triggers an email to the candidate.
 
 So we decided to let users change any details of the offer regardless of which action the user originally chose.
 
-This way, users get the most flexible experience and candidates receive fewer emails.
+This way, users get the most flexible experience and candidates receive as few emails as possible.
 
 ## Clarifying what happens when an offer is changed
 
@@ -42,9 +42,11 @@ We’ve addressed this by changing the content as follows:
 
 ## How it works
 
-No matter what the user is changing (training provider, course, location, conditions), the can change other details about the offer from the ‘check answers’ page.
+No matter what the user is changing (training provider, course, location, conditions), they can change other details about the offer from the ‘check answers’ page.
 
-Whatever the user selects to change is what the user sees before arriving at the ‘check answers’ page.
+Whatever the user selects to change is what the user sees before arriving at the ‘check answers’ page. For example, if the user chooses to change the location, they see the location page first.
+
+If the user keeps all the attributes the same, then an email will not be sent to the candidate as nothing has  changed.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
