@@ -4,32 +4,30 @@ description: How the prototype looked for round 2 of research
 date: 2020-10-26
 ---
 
-After validating our prototype approach in the [first round of reserach](/beta-prototype-research-round-1/)...
+Overall the response to the prototype in the [first round of research](/register-trainee-teachers/beta-prototype-research-round-1/) was positive.
 
-## Significant updates
+> This is very different to DTTP! It’s more friendly, a lot bigger and brighter. It’s a lot clearer.
 
-Allocations screens
-Filters (adding subjects and indicitive cyles)
-Support for multiple routes
-Timeline
-Defer/resinate
-Withdrawal
-Add static content pages
-Home page
-Allowing users to add a 'not provided' gender option
-Improvements when asking about ethnicity and disabilities
+> I think if this could be rolled out across everything [all routes], then it would make my job a lot easier.
 
-## Task list pattern
+Users intuitively knew how to navigate the prototype and they understood what data we were requesting from them.
 
-This pattern allows us to have multiple sections that users can complete in any order. As the Register service supports more routes, we can vary the sections shown so they are specific to each route.
+## User-facing updates
 
-<!-- {% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "2020.09.22_17_17_39_Overview - Register trainee teachers - GOV.UK.png"
-  },
-  caption: "Task list overview"
-}) }} -->
+Our response to the findings from round one of of research as well as additional feature development include the following updates:
+
+* Support for multiple routes has been added with the second route, provider-led now available.
+* Allocations data is now being requested on the provider-led route when creating records with Physical Education courses.
+* Filter functionality has been enhanced when viewing teacher records. Users can now filter by route and subject, search by name and trainee ID and sort by date updated and last name.
+* A timeline has been included on a record that lists key events in a trainees record.   
+* Trainees can now be deferred and reinstated.
+* Trainees can now be withdrawn.
+* A homepage has been introduced which includes an overview of trainee statuses.
+* Improvements on how we ask for international addresses, gender, ethnicity and disabilities have been made.
+* The 'Recommend for QTS' flow has been renamed to 'Record QTS outcome' and updated to acknowledge that a trainee record will not always be recommended for QTS, and instead may be required to record a 'not passed' outcome.   
+* A [prototype settings](https://register-prototype.herokuapp.com/admin) page has been added which enables features to be toggled on and off. 
+* Ongoing iteration of content throughout the prototype with an focus on ensuring our use of terminology is consistant.
+* We have hidden the guidance section to test the hypothesis that guidance may not be needed.
 
 ## Screenshots of all pages
 
