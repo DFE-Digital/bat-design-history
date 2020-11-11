@@ -26,7 +26,7 @@ Our response to the findings from round one of of research as well as additional
 * Improvements on how we ask for international addresses, gender, ethnicity and disabilities have been made.
 * The 'Recommend for QTS' flow has been renamed to 'Record QTS outcome' and updated to acknowledge that a trainee record will not always be recommended for QTS, and instead may be required to record a 'not passed' outcome.   
 * A [prototype settings](https://register-prototype.herokuapp.com/admin) page has been added which enables features to be toggled on and off. 
-* Ongoing iteration of content throughout the prototype with an focus on ensuring our use of terminology is consistant.
+* Ongoing iteration of content throughout the prototype with an focus on ensuring our use of terminology is consistent.
 * We have hidden the guidance section to test the hypothesis that guidance may not be needed.
 
 ## Screenshots of all pages
