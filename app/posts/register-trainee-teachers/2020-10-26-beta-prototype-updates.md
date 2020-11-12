@@ -40,7 +40,7 @@ Our response to the findings from round one of of research as well as additional
       text: "Data requirements",
       img: { src: "2020.11.02_12_16_20_Data requirements - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee - What type are they one?",
+      text: "Add a trainee - What type of training are they on?",
       img: { src: "2020.11.02_12_16_42_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Add a trainee - Type of training completed",
@@ -94,7 +94,7 @@ Our response to the findings from round one of of research as well as additional
       text: "Which of the following best describes their White background?",
       img: { src: "2020.11.02_12_22_35_Which of the following best describes their White background_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Which of the following best describes their White background?",
+      text: "Which of the following best describes their White background? - Another White background",
       img: { src: "2020.11.02_12_22_44_Which of the following best describes their White background_ - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Has the trainee shared that they are disabled?",
@@ -121,13 +121,13 @@ Our response to the findings from round one of of research as well as additional
       text: "Degree details - UK degree",
       img: { src: "2020.11.02_12_26_10_Degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Confirm degree details",
+      text: "Confirm degree details - UK Degree",
       img: { src: "2020.11.02_12_26_51_Confirm degree details - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Degree details - Non-UK degree",
       img: { src: "2020.11.02_12_28_01_Degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Confirm degree details",
+      text: "Confirm degree details - Non-UK Degree",
       img: { src: "2020.11.02_12_28_17_Confirm degree details - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Add a trainee - All sections complete",
@@ -163,10 +163,10 @@ Our response to the findings from round one of of research as well as additional
       text: "Sarah Jones - Record updated",
       img: { src: "2020.11.02_12_32_04_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "When did the trainee defer",
+      text: "When did the trainee defer?",
       img: { src: "2020.11.02_12_32_23_- Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "When did the trainee defer - Custom date",
+      text: "When did the trainee defer? - Custom date",
       img: { src: "2020.11.02_12_32_28_- Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Check deferral details",
@@ -175,7 +175,7 @@ Our response to the findings from round one of of research as well as additional
       text: "Sarah Jones - Deferred",
       img: { src: "2020.11.02_12_32_50_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "When did the trainee return",
+      text: "When did the trainee return?",
       img: { src: "2020.11.02_12_33_00_- Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Check reinstatement details",
@@ -193,13 +193,13 @@ Our response to the findings from round one of of research as well as additional
       text: "Sarah Jones - Withdrawn",
       img: { src: "2020.11.02_12_33_47_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Paulette Feest - Recommended for QTS",
+      text: "Paulette Feest - Record",
       img: { src: "2020.11.02_12_36_13_Paulette Feest - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Has the trainee passed their assessment? - Passed on what date?",
+      text: "Has the trainee passed their assessment?",
       img: { src: "2020.11.02_12_36_19_Has the trainee passed their assessment_ - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Has the trainee passed their assessment?",
+      text: "Has the trainee passed their assessment? - Custom date",
       img: { src: "2020.11.02_12_36_37_Has the trainee passed their assessment_ - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Check assessment details",
@@ -208,7 +208,7 @@ Our response to the findings from round one of of research as well as additional
       text: "Trainee recommended for QTS",
       img: { src: "2020.11.02_12_36_59_Trainee recommended for QTS - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Paulette Feest",
+      text: "Paulette Feest - Recommended for QT",
       img: { src: "2020.11.02_12_37_11_Paulette Feest - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Trainees must pass their assessment to be recommended for QTS",
