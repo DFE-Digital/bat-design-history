@@ -40,10 +40,10 @@ Our response to the findings from round one of of research as well as additional
       text: "Data requirements",
       img: { src: "2020.11.02_12_16_20_Data requirements - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee",
+      text: "Add a trainee - What type are they one?",
       img: { src: "2020.11.02_12_16_42_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee",
+      text: "Add a trainee - Type of training completed",
       img: { src: "2020.11.02_12_16_58_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Programme details",
@@ -55,7 +55,7 @@ Our response to the findings from round one of of research as well as additional
       text: "Confirm programme details",
       img: { src: "2020.11.02_12_17_55_Confirm programme details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee",
+      text: "Add a trainee - Route into teaching completed",
       img: { src: "2020.11.02_12_18_03_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Trainee personal details",
@@ -64,22 +64,22 @@ Our response to the findings from round one of of research as well as additional
       text: "Confirm personal details",
       img: { src: "2020.11.02_12_19_33_Confirm personal details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee",
+      text: "Add a trainee - Personal details completed",
       img: { src: "2020.11.02_12_19_41_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Contact details",
       img: { src: "2020.11.02_12_19_53_Contact details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Contact details",
+      text: "Contact details - Outside the UK",
       img: { src: "2020.11.02_12_20_01_Contact details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Contact details",
+      text: "Contact details - Inside the UK",
       img: { src: "2020.11.02_12_20_10_Contact details - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Confirm contact details",
       img: { src: "2020.11.02_12_21_48_Confirm contact details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee",
+      text: "Add a trainee - Contact details completed",
       img: { src: "2020.11.02_12_21_58_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Has the trainee shared diversity information?",
@@ -106,31 +106,31 @@ Our response to the findings from round one of of research as well as additional
       text: "Confirm diversity information",
       img: { src: "2020.11.02_12_23_48_Confirm diversity information - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee",
+      text: "Add a trainee - Diversity information completed",
       img: { src: "2020.11.02_12_25_02_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Add undergraduate degree",
       img: { src: "2020.11.02_12_25_11_Add undergraduate degree - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add undergraduate degree",
+      text: "Add undergraduate degree - UK degree",
       img: { src: "2020.11.02_12_25_18_Add undergraduate degree - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add undergraduate degree",
+      text: "Add undergraduate degree - Non-UK degree",
       img: { src: "2020.11.02_12_25_26_Add undergraduate degree - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Degree details",
+      text: "Degree details - UK degree",
       img: { src: "2020.11.02_12_26_10_Degree details - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Confirm degree details",
       img: { src: "2020.11.02_12_26_51_Confirm degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Degree details",
+      text: "Degree details - Non-UK degree",
       img: { src: "2020.11.02_12_28_01_Degree details - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Confirm degree details",
       img: { src: "2020.11.02_12_28_17_Confirm degree details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Add a trainee",
+      text: "Add a trainee - All sections complete",
       img: { src: "2020.11.02_12_28_35_Add a trainee - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Confirm degree details",
@@ -142,13 +142,13 @@ Our response to the findings from round one of of research as well as additional
       text: "Trainee teachers",
       img: { src: "2020.11.02_12_29_04_Trainee teachers - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Trainee teachers",
+      text: "Trainee teachers - Filtered view",
       img: { src: "2020.11.02_12_29_36_Trainee teachers - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Sarah Jones - Trainee details",
       img: { src: "2020.11.02_12_30_03_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Sarah Jones - Personal detials and education",
+      text: "Sarah Jones - Personal details and education",
       img: { src: "2020.11.02_12_30_13_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Sarah Jones - Timeline",
@@ -160,19 +160,19 @@ Our response to the findings from round one of of research as well as additional
       text: "Confirm personal details",
       img: { src: "2020.11.02_12_31_22_Confirm personal details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Sarah Jones",
+      text: "Sarah Jones - Record updated",
       img: { src: "2020.11.02_12_32_04_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "When did the trainee defer",
       img: { src: "2020.11.02_12_32_23_- Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "When did the trainee defer",
+      text: "When did the trainee defer - Custom date",
       img: { src: "2020.11.02_12_32_28_- Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Check deferral details",
       img: { src: "2020.11.02_12_32_39_Check deferral details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Sarah Jones",
+      text: "Sarah Jones - Deferred",
       img: { src: "2020.11.02_12_32_50_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "When did the trainee return",
@@ -181,7 +181,7 @@ Our response to the findings from round one of of research as well as additional
       text: "Check reinstatement details",
       img: { src: "2020.11.02_12_33_06_Check reinstatement details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Sarah Jones",
+      text: "Sarah Jones - Reinstated",
       img: { src: "2020.11.02_12_33_12_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Withdraw trainee",
@@ -190,13 +190,13 @@ Our response to the findings from round one of of research as well as additional
       text: "Check withdrawal details",
       img: { src: "2020.11.02_12_33_41_Check withdrawal details - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Sarah Jones",
+      text: "Sarah Jones - Withdrawn",
       img: { src: "2020.11.02_12_33_47_Sarah Jones - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Paulette Feest",
+      text: "Paulette Feest - Recommended for QTS",
       img: { src: "2020.11.02_12_36_13_Paulette Feest - Register trainee teachers - GOV.UK.png" }
     }, {
-      text: "Has the trainee passed their assessment?",
+      text: "Has the trainee passed their assessment? - Passed on what date?",
       img: { src: "2020.11.02_12_36_19_Has the trainee passed their assessment_ - Register trainee teachers - GOV.UK.png" }
     }, {
       text: "Has the trainee passed their assessment?",
