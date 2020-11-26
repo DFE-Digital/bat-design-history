@@ -25,6 +25,8 @@ The organisation shown under the course is the one who’s running the interview
 
 The time – instead of the candidate’s name – is linked as that’s the attribute that relates the most to the interview. The name relates to the candidate or the candidate’s application.
 
+The interview preferences are displayed as words without an icon. We think it’s good to not draw attention to it so much because the preferences matter less after the interview has been arranged.
+
 The link has hidden text containing the name of the candidate and the date to make it accessible for visually impaired users.
 
 Clicking an interview now anchors the user down to the particular interview to make sure it’s in view.
@@ -89,12 +91,38 @@ And the ‘or’ between the buttons has been removed as it we think it’s unne
 
 ## How it works
 
-### Statuses
+### Candidate comms
+
+For this version, the candidate will only get updates about interviews by email – not in their dashboard.
+
+### Candidate interviews page
+
+The interviews page is only shown once an interview has been set up.
+
+### Available actions
+
+An interview can only be set up, changed or cancelled when an application is in the ‘Received’ or ‘Interviewing’ states.
+
+When in any other state the buttons and links should not be shown.
 
 ### Time input
 
-### Upcoming or past
+Helping users to enter a time is challenging.
 
-### Interviews section
+To start we’re going ot use a single text box.
 
-The interviews section only shows once an interview has been set up.
+A space, full stop or colon can be used between hours and minutes.
+
+The hours do not need to be zero padded and minutes do not need to be included if it’s on the hour.
+
+Suffixes for `am` and `pm` must be included. An error will be shown otherwise.
+
+If this proves to be a problem, we’ll explore the option of an autocomplete control.
+
+### Upcoming versus past interviews
+
+Upcoming interviews are those with dates that are today or in the future.
+
+Past interviews are those that are before today.
+
+Once the status moves beyond ‘Interviewing’ all interviews become ‘Past interviews’.
