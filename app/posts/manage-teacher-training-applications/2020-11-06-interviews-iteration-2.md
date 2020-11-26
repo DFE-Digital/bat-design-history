@@ -100,6 +100,11 @@ This is something we’ll keep an eye on with this new iteration.
       src: "application-list.png"
     }
   }, {
+    text: "Interview page when no interviews have been set up",
+    img: {
+      src: "interviews-page--no-interviews.png"
+    }
+  }, {
     text: "Prompt: when in the received state",
     img: {
       src: "prompt--received.png"

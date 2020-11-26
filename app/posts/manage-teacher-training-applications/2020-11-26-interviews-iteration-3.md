@@ -105,6 +105,8 @@ An interview can only be set up, changed or cancelled when an application is in 
 
 When in any other state the buttons and links are not shown.
 
+Interviews must be set up for today or in the future.
+
 ### Time input
 
 Helping users to enter a time is challenging.
@@ -126,6 +128,12 @@ Upcoming interviews are those with dates that are today or in the future.
 Past interviews are those that are before today.
 
 Once the status moves beyond ‘Interviewing’ all interviews become ‘Past interviews’.
+
+### Specifying which organisation is carrying out the interview
+
+The question that asks users to specify which organisation is carrying out the interview only shows for users who belong to the training provider and accredited body of that course.
+
+Otherwise, it will automatically be on behalf of the user who’s setting up the interview.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -190,9 +198,19 @@ Once the status moves beyond ‘Interviewing’ all interviews become ‘Past in
       src: "changing--3.png"
     }
   }, {
+    text: "Interviews page",
+    img: {
+      src: "interviews-page.png"
+    }
+  }, {
     text: "Interview list page",
     img: {
-      src: "interview-list-page.png"
+      src: "interview-schedule-page.png"
+    }
+  }, {
+    text: "Interview list page - past interviews",
+    img: {
+      src: "interview-schedule-page--past.png"
     }
   }]
 }) }}
