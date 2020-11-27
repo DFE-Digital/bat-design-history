@@ -7,6 +7,7 @@
 
   h1, h2, h3, h4 {
     @include govuk-font($size: 27, $weight: bold);
+    margin-bottom: govuk-spacing(4);
   }
 
   p {
@@ -25,6 +26,12 @@
 
   a {
     @extend %govuk-link;
+  }
+
+  blockquote {
+    border-left: 10px solid govuk-colour('mid-grey');
+    padding: govuk-spacing(2);
+    margin: 0 0 govuk-spacing(4) 0;
   }
 
   .placeholder,

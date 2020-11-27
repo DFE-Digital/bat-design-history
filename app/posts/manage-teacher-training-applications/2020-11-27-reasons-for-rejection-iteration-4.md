@@ -1,0 +1,193 @@
+---
+title: Reasons for rejection (iteration 4)
+description: Various improvements to reasons for rejection
+date: 2020-11-27
+---
+
+{% from "email/macro.njk" import appEmail %}
+
+This iteration contains the following improvements:
+
+- Removed negative contractions
+- Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
+- Changed to heading level 2 for candidate feedback on check answers page
+- Removed introductory content from within the candidate feedback (inset text)
+- Remove apology for the course being full
+- Removed ‘Please’ in various questions
+- Removed capitalisation on maths and science
+- Improved general clarity of the questions
+
+## Emails
+
+### When all applications have been rejected
+
+{{ appEmail({
+  subject: "Update on your application - all decisions now made",
+  content: "
+
+  Dear {name}
+
+  # Update on your application
+
+  {Provider} has decided not to make you an offer to study {course}. They've given feedback to explain this decision.
+
+  > **Quality of application**
+  >
+  > Your subject knowledge could be improved.
+  >
+  > Understand the purpose of PE in schools and then learn more about the procedures related to safeguarding.
+  >
+  > **Qualifications**
+  >
+  > Your degree does not meet the course requirements.
+  >
+  > **Future applications**
+  >
+  > The provider would not be interested in future applications from you.
+
+  Contact {provider} directly if you have any questions about their feedback.
+
+  # You can apply again
+
+  {if this was not the only application}
+    You’ve now had decisions about all the courses you applied for. You did not get any offers, so you can apply again.
+  {endif}
+
+  Your last application has been saved. You can make changes before you submit your new application.
+
+  {link}
+
+  # Get support
+
+  If you need help getting a place on a course, contact Get Into Teaching (8:30am to 5pm Monday to Friday). Call for free on 0800 389 2500 or chat to an adviser online:
+
+  https://getintoteaching.education.gov.uk/lp/live-chat
+
+  Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+  "
+}) }}
+
+### When waiting for one decision and has one offer
+
+{{ appEmail({
+  subject: "Update on your application - decide what to do",
+  content: "
+
+  Dear {name}
+
+  # Update on your application
+
+  {Provider} has decided not to make you an offer to study {course}. They've given feedback to explain this decision.
+
+  > **Quality of application**
+  >
+  > Your subject knowledge could be improved.
+  >
+  > Understand the purpose of PE in schools and then learn more about the procedures related to safeguarding.
+  >
+  > **Qualifications**
+  >
+  > Your degree does not meet the course requirements.
+  >
+  > **Future applications**
+  >
+  > The provider would not be interested in future applications from you.
+
+  Contact {provider} directly if you have any questions about their feedback.
+
+  # You have an offer and are waiting for a decision about another course
+
+  You have an offer from {provider1} to study {course1}.
+
+  {provider2} has until {date} to make a decision about your application to study {course2}.
+
+  You can wait until you’ve received both decisions before you respond. Alternatively you can sign in to you account and accept the offer you’ve already got:
+
+  {link}
+
+  # Get support
+
+  Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+  "
+}) }}
+
+### When waiting for one or two decisions and no offers made
+
+{{ appEmail({
+  subject: "Update on your application",
+  content: "
+
+  Dear {name}
+
+  # Update on your application
+
+  {Provider} has decided not to make you an offer to study {course}. They've given feedback to explain this decision.
+
+  > **Quality of application**
+  >
+  > Your subject knowledge could be improved.
+  >
+  > Understand the purpose of PE in schools and then learn more about the procedures related to safeguarding.
+  >
+  > **Qualifications**
+  >
+  > Your degree does not meet the course requirements.
+  >
+  > **Future applications**
+  >
+  > The provider would not be interested in future applications from you.
+
+  Contact {provider} directly if you have any questions about their feedback.
+
+  { if one }
+  # You’re waiting for a decision
+
+  You’re waiting for {provider} to make a decision about your application to study {course}. They should do this by {date}.
+
+  { else }
+  # You’re waiting for decisions
+
+  You’re waiting for decisions about your applications to:
+
+  - {provider} to study {course}
+  - {provider} to study {course}
+
+  They should make their decisions by {date}.
+  { endif }
+
+  # Get support
+
+  Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+  "
+}) }}
+
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Make decision",
+    img: {
+      src: "make-decision.png"
+    }
+  }, {
+    text: "Reasons (1)",
+    img: {
+      src: "questions-1.png"
+    }
+  }, {
+    text: "Reasons (2)",
+    img: {
+      src: "questions-2.png"
+    }
+  }, {
+    text: "Check answers",
+    img: {
+      src: "check-answers.png"
+    }
+  }, {
+    text: "Application details",
+    img: {
+      src: "application-details.png"
+    }
+  }]
+}) }}
