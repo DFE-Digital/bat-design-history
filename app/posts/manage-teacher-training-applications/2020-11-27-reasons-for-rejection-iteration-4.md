@@ -12,8 +12,7 @@ This iteration contains the following improvements:
 - Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
 - Changed to heading level 2 for candidate feedback on check answers page
 - Removed introductory content from within the candidate feedback (inset text)
-- Remove apology for the course being full
-- Removed ‘Please’ in various questions
+- Removed pleasantries like ‘Sorry’ and ‘Please’
 - Removed capitalisation on maths and science
 - Improved general clarity of the questions
 
