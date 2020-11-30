@@ -170,6 +170,13 @@ Contact becomingateacher@digital.education.gov.uk if you have problems applying 
   "
 }) }}
 
+## Potential improvements
+
+Currently the emails have been designed to work regardless of whether the candidate applied to one or multiple courses.
+
+We could improve the clarity of some of the emails if we sent bespoke emails for candidates who only applied to one course.
+
+For example, if the candidate applied to one course and was rejected, then the subject could be more specific. Something like ‘Application successful – you can apply again’.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
