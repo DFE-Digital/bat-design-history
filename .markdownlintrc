@@ -5,9 +5,7 @@
   "first-line-h1": false,
   "first-heading-h1": false,
   "no-bare-urls": false,
-  "no-duplicate-heading": {
-    "siblings_only": true
-  },
+  "no-duplicate-heading": false,
   "no-inline-html": false,
   "no-trailing-punctuation": {
     "punctuation": ".,;:"

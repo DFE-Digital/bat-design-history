@@ -82,7 +82,6 @@ There’s some concept of a template in the tool provided by UCAS. Users can sel
 
 [UCAS documentation for ‘Entry profiles’](https://www.ucas.com/file/115116/download?token=Du-edwFy)
 
-<!-- markdownlint-disable MD024 -->
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
