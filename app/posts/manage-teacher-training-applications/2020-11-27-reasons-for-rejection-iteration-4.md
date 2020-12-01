@@ -4,28 +4,25 @@ description: Various improvements to reasons for rejection
 date: 2020-11-27
 ---
 
-<!-- markdownlint-disable MD024 MD025 -->
+<!-- markdownlint-disable MD001 MD025 -->
 
 {% from "email/macro.njk" import appEmail %}
 
 This iteration contains the following improvements:
 
-- Removed negative contractions
-- Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
-- Changed to heading level 2 for candidate feedback on check answers page
-- Removed introductory content from within the candidate feedback (inset text)
-- Removed pleasantries like ‘Sorry’ and ‘Please’
-- Removed capitalisation on maths and science
-- Improved general clarity of the questions
+* Removed negative contractions
+* Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
+* Changed to heading level 2 for candidate feedback on check answers page
+* Removed introductory content from within the candidate feedback (inset text)
+* Removed pleasantries like ‘Sorry’ and ‘Please’
+* Removed capitalisation on maths and science
+* Improved general clarity of the questions
 
 ## Emails
 
 ### When all applications have been rejected
 
-{{ appEmail({
-  subject: "Update on your application - all decisions now made",
-  content: "
-
+{% set template1 %}
 Dear ((name))
 
 # Update on your application
@@ -63,15 +60,16 @@ If you need help getting a place on a course, contact Get Into Teaching (8:30am 
 https://getintoteaching.education.gov.uk/lp/live-chat
 
 Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
-  "
+{% endset %}
+
+{{ appEmail({
+  subject: "Update on your application - all decisions now made",
+  content: template1
 }) }}
 
 ## When waiting for one decision and has one offer
 
-{{ appEmail({
-  subject: "Update on your application - decide what to do",
-  content: "
-
+{% set template2 %}
 Dear ((name))
 
 # Update on your application
@@ -107,16 +105,16 @@ You can wait until you’ve received both decisions before you respond. Alternat
 # Get support
 
 Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
-  "
-}) }}
-
-<!-- markdownlint-disable MD001  -->
-### When waiting for one or two decisions and no offers made
+{% endset %}
 
 {{ appEmail({
-  subject: "Update on your application",
-  content: "
+  subject: "Update on your application - decide what to do",
+  content: template2
+}) }}
 
+### When waiting for one or two decisions and no offers made
+
+{% set template3 %}
 Dear ((name))
 
 # Update on your application
@@ -146,20 +144,24 @@ Contact ((provider)) directly if you have any questions about their feedback.
 You’re waiting for ((provider)) to make a decision about your application to study ((course)). They should do this by ((date)).
 
 ((else??
-<!-- markdownlint-disable MD024 MD025 -->
+
 # You’re waiting for decisions
 
 You’re waiting for decisions about your applications to:
 
-- ((provider)) to study ((course))
-- ((provider)) to study ((course))
+* ((provider)) to study ((course))
+* ((provider)) to study ((course))
 
 They should make their decisions by ((date)).
 
 ## Get support
 
 Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
-  "
+{% endset %}
+
+{{ appEmail({
+  subject: "Update on your application",
+  content: template3
 }) }}
 
 ## Potential improvements
