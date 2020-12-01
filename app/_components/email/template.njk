@@ -3,9 +3,9 @@
   <dl class="app-email__headers">
     <div class="app-email__headers__row">
       <dt class="app-email__headers__key">Subject</dt>
-      <dd class="app-email__headers__value">{{- params.subject | safe if params.subject -}}</dd>
+      <dd class="app-email__headers__value">{{- params.subject | notifyPlaceholders | safe if params.subject -}}</dd>
     </div>
   </dl>
 {%- endif %}
-{{- params.content | markdown | safe if params.content -}}
+{{- params.content | notifyPlaceholders | markdown | safe if params.content -}}
 </div>
