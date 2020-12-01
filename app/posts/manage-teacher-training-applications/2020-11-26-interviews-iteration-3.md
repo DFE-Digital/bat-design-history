@@ -11,7 +11,7 @@ Previous iterations:
 - [Iteration 1](/manage-teacher-training-applications/interviews)
 - [Iteration 2](/manage-teacher-training-applications/interviews-iteration-2)
 
-## Changes of note
+## Main changes
 
 ### Interview schedule
 
@@ -134,6 +134,13 @@ Once the status moves beyond ‘Interviewing’ all interviews become ‘Past in
 The question that asks users to specify which organisation is carrying out the interview only shows for users who belong to the training provider and accredited body of that course.
 
 Otherwise, it will automatically be on behalf of the user who’s setting up the interview.
+
+### Pressing back when setting up an interview
+
+The back link on the first page of the set up interview flow works differently depending on the following:
+
+1. If an interview has been set up, it goes to the interviews page.
+2. If an interview has not been set up, it goes to the application details page.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

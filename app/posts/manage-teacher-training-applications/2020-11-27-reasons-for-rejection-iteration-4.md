@@ -6,6 +6,12 @@ date: 2020-11-27
 
 {% from "email/macro.njk" import appEmail %}
 
+Previous iterations:
+
+- [Iteration 1](/manage-teacher-training-applications/reasons-for-rejection/)
+- [Iteration 2](/manage-teacher-training-applications/reasons-for-rejection-iteration-2/)
+- [Iteration 3](/manage-teacher-training-applications/reasons-for-rejection-iteration-3/)
+
 This iteration contains the following improvements:
 
 - Removed negative contractions
