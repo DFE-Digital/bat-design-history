@@ -15,71 +15,71 @@ Previous iterations:
 
 ### Interview schedule
 
-‘Interviews’ was changed to ‘Interview schedule’ to differentiate it from the candidate’s interviews page from within an application.
+‘Interviews’ was changed to ‘Interview schedule’ to differentiate it from the candidate’s interviews page within an application.
 
-Interviews are grouped by date to make it easier to scan. Only the most crucial information is shown for the same reason.
+Interviews are grouped by date to make it easier to scan them. Only the most crucial information is shown for the same reason.
 
-Users can click an interview to see more detail such as interview preferences and additional details.
+Users can click an interview for more information such as the candidate's interview preferences and additional details added by the provider.
 
-The organisation shown under the course is the one who’s running the interview.
+The organisation shown under the course is the one which is running the interview.
 
-In the previous iteration, the link to the interview details page was the name of the candidate. But we now link the time because it’s the most related to an interview.
+In the previous iteration, the link to the interview details page was the name of the candidate. But we now link the time because it’s the thing which is most related to a specific interview.
 
 The link has hidden text containing the name of the candidate and the date to make it accessible for visually impaired users.
 
-The interview preferences are displayed as words without an icon. We think preferences matter less after the interview has been arranged.
+The interview preferences are displayed as bold text without an icon. We think this will be enough to draw attention to them without giving too much emphasis, since many candidate preferences will matter less once the interview has been arranged.
 
 Clicking an interview now anchors the user down to the particular interview to make sure it’s in view.
 
-Past interviews are shown as a separate page.
+Past interviews are shown on a separate page.
 
 ### Candidate interview page
 
-The interviews are organised by upcoming and past interviews to match the schedule and make them easier to find.
+Interviews are categorised as either upcoming or past to match the schedule and make them easier to find.
 
 The course is shown for each interview so that users do not have to go to the application details page to find it.
 
-The button to set up an interview has been changed from ‘Set up an interview’ to ‘Set up interview’ to be less wordy and more consistent with the other calls to action.
+The button to set up an interview has been changed from ‘Set up an interview’ to ‘Set up interview’. This is less wordy and is consistent with the other calls to action.
 
-The ‘Change’ link has been changed to ‘Change details’. The ‘Cancel’ link has been changed to ‘Cancel interview’.
+The ‘Change’ link has been changed to ‘Change details’. The ‘Cancel’ link has been changed to ‘Cancel interview’. This is to make their functions clearer.
 
 The summary list labels have changed to match the labels on the form.
 
-We changed the width of the summary cards to be two-thirds which makes them easier to read and makes it easier to spot the available actions.
+We changed the width of the summary cards to be two-thirds. This makes it easier to read them and spot the available actions.
 
 When there are no additional details, the value is set to ‘None’.
 
 ### Set up and change interview forms
 
-The interview preferences box now uses a large heading to make it easier to spot and correctly represent the information hierarchy.
+The interview preferences box now uses a large heading to make it easier to spot and to correctly represent the information hierarchy.
 
 The time hint now provides a range of example times including how to enter midday.
 
 The label for ‘Organisation’ has been changed to ‘Organisation carrying out the interview’ which is much clearer.
 
-The label for ‘Location’ has been changed to ‘Address or online meeting details’ to be clearer about what this field expects without relying on hint text to clarify.
+The label for ‘Location’ has been changed to ‘Address or online meeting details’ to make it clear what it's used for without relying on hint text.
 
-The ‘Additional details’ field is now been marked as optional.
+The ‘Additional details’ field has now been marked as optional.
 
 ### Set up and change interview check answers pages
 
-The `h1` has changed from ‘Check and confirm interview’ to ‘Check and send interview’ to be clearer. We therefore removed the warning text to explain that an email will be sent.
+The `h1` has changed from ‘Check and confirm interview’ to ‘Check and send interview’ so it's clearer that details will be sent to the candidate. We therefore removed the warning text which explained that an email will be sent.
 
-The same goes for the button’s label which has been changed from ‘Confirm interview’ to ‘Send interview details’.
+The same goes for the button’s label, which has been changed from ‘Confirm interview’ to ‘Send interview details’.
 
 All the labels match the new labels in the form as explained earlier.
 
-The success message now says ‘Interview set up’ and uses the new [Notification Banner](https://design-system.service.gov.uk/components/notification-banner/) component.
+The success message now says ‘Interview set up’ and uses the new [notification banner](https://design-system.service.gov.uk/components/notification-banner/) component.
 
 ### Cancelling an interview form
 
-The label for the reason for cancellation has been changed from ‘Tell the candidate why you’re cancelling the interview’ to ‘Reason for cancelling interview’ which is more concise and makes error messages easier to read.
+The label for the reason for cancellation has been changed from ‘Tell the candidate why you’re cancelling the interview’ to ‘Reason for cancelling interview’. It's more concise and makes error messages easier to read.
 
 ### Cancelling an interview check answers page
 
-The `h1` has changed from ‘Check and confirm interview cancellation’ to ‘Check and send interview cancellation’ to be clearer. We therefore removed the warning text to explain that an email will be sent.
+The `h1` has been changed from ‘Check and confirm interview cancellation’ to ‘Check and send interview cancellation’ to make it clearer. We therefore removed the warning text explaining that an email will be sent.
 
-The button’s label has been from changed from ‘Confirm cancellation to ‘Send cancellation’.
+The button’s label has been changed from ‘Confirm cancellation’ to ‘Send cancellation’.
 
 The success message now says ‘Interview cancelled’.
 
@@ -87,7 +87,7 @@ The success message now says ‘Interview cancelled’.
 
 The ‘Set up an interview’ button has been changed to ‘Set up interview’ to be less wordy.
 
-And the ‘or’ between the buttons has been removed as it’s unnecessary.
+The ‘or’ between the buttons has been removed as it’s unnecessary.
 
 ## How it works
 
@@ -103,7 +103,7 @@ The interviews page is only shown once an interview has been set up.
 
 An interview can only be set up, changed or cancelled when an application is in the ‘Received’ or ‘Interviewing’ states.
 
-When in any other state the buttons and links are not shown.
+The buttons and links are not shown in any other state.
 
 Interviews must be set up for today or in the future.
 
@@ -111,7 +111,7 @@ Interviews must be set up for today or in the future.
 
 Helping users to enter a time is challenging.
 
-To start we’re going ot use a single text box.
+To start we’re going to use a single text box.
 
 A space, full stop or colon can be used between hours and minutes.
 
@@ -125,22 +125,22 @@ If this proves to be a problem, we’ll explore the option of an autocomplete co
 
 Upcoming interviews are those with dates that are today or in the future.
 
-Past interviews are those that are before today.
+Past interviews are those with dates that are before today.
 
-Once the status moves beyond ‘Interviewing’ all interviews become ‘Past interviews’.
+Once the status moves beyond ‘Interviewing’ all interviews become past interviews.
 
 ### Specifying which organisation is carrying out the interview
 
-The question that asks users to specify which organisation is carrying out the interview only shows for users who belong to the training provider and accredited body of that course.
+Users are only asked to specify an organisation if they belong to both the training provider and accredited body for that course.
+ 
+Otherwise, the interview will automatically be on behalf of whichever organisation they belong to.
 
-Otherwise, it will automatically be on behalf of the user who’s setting up the interview.
+### Using the back link when setting up an interview
 
-### Pressing back when setting up an interview
+The back link on the first page of the set up interview flow works differently depending on whether another interview has been set up:
 
-The back link on the first page of the set up interview flow works differently depending on the following:
-
-1. If an interview has been set up, it goes to the interviews page.
-2. If an interview has not been set up, it goes to the application details page.
+- If an interview has been set up, the back link goes to the interviews page.
+- If an interview has not been set up, the back link goes to the application details page.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
