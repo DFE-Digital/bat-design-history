@@ -27,7 +27,6 @@ The allocations team will be in contact with these organisations individually.
 This email was sent to accredited bodies on 8 June 2020.
 
 {% set requestPeEmail %}
-
 Dear Colleague
 
 In April, we contacted you about requesting teacher training courses for the 2021/22 recruitment cycle.

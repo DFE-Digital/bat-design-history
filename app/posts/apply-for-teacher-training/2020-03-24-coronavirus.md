@@ -20,7 +20,7 @@ We communicated this information to candidates by:
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
   subject: "There might be a delay in processing your teacher training application",
-  content: "Dear [candidateName]
+  content: "Dear ((candidate_name))
 
   Given the impact of coronavirus (COVID-19) on schools and universities, your teacher training application might be processed more slowly than usual.
 

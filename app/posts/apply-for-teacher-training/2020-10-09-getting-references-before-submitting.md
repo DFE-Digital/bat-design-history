@@ -224,8 +224,8 @@ We’ll know these changes work if:
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "<span class=\"placeholder\">((referee_name))</span> has not responded yet",
-  content: "#### <span class=\"placeholder\">((referee_name))</span> has not responded yet
+  subject: "((referee_name)) has not responded yet",
+  content: "#### ((referee_name)) has not responded yet
 
   You can add as many referees as you like to increase the chances of getting 2 references quickly.
 
@@ -233,7 +233,7 @@ We’ll know these changes work if:
 
   Manage your references:
 
-  <span class=\"placeholder\">((manage_references_url))</span>
+  ((manage_references_url))
 
   You cannot submit your application without 2 references. Courses can become full anytime - get your references as soon as possible."
 }) }}
@@ -241,8 +241,8 @@ We’ll know these changes work if:
 ### Reference request failed
 
 {{ appEmail({
-  subject: "Referee request did not reach <span class=\"placeholder\">((referee_name))</span>",
-  content: "#### Referee request did not reach <span class=\"placeholder\">((referee_name))</span>
+  subject: "Referee request did not reach ((referee_name))",
+  content: "#### Referee request did not reach ((referee_name))
 
   Check you gave the correct email address and request the reference again.
 
@@ -252,7 +252,7 @@ We’ll know these changes work if:
 
   Manage your references:
 
-  <span class=\"placeholder\">((manage_references_url))</span>
+  ((manage_references_url))
 
   You cannot submit your application without 2 references. Courses can become full anytime – get your references as soon as possible."
 }) }}
@@ -260,8 +260,8 @@ We’ll know these changes work if:
 ### Reference declined
 
 {{ appEmail({
-  subject: "<span class=\"placeholder\">((referee_name))</span> has declined your reference request",
-  content: "#### <span class=\"placeholder\">((referee_name))</span> has declined your reference request
+  subject: "((referee_name)) has declined your reference request",
+  content: "#### ((referee_name)) has declined your reference request
 
   You can add as many referees as you like to increase the chances of getting 2 references quickly.
 
@@ -269,7 +269,7 @@ We’ll know these changes work if:
 
   Manage your references:
 
-  <span class=\"placeholder\">((manage_references_url))</span>
+  ((manage_references_url))
 
   You cannot submit your application without 2 references. Courses can become full anytime – get your references as soon as possible."
 }) }}
@@ -277,8 +277,8 @@ We’ll know these changes work if:
 ### Reference given
 
 {{ appEmail({
-  subject: "You have a reference from <span class=\"placeholder\">((referee_name))</span>",
-  content: "#### You have a reference from <span class=\"placeholder\">((referee_name))</span>
+  subject: "You have a reference from ((referee_name))",
+  content: "#### You have a reference from ((referee_name))
 
   You need to get another reference back before you can send your application to training providers.
 
@@ -286,14 +286,14 @@ We’ll know these changes work if:
 
   Manage your references:
 
-  <span class=\"placeholder\">((manage_references_url))</span>"
+  ((manage_references_url))"
 }) }}
 
 ### Second references given
 
 {{ appEmail({
-  subject: "You have a reference from <span class=\"placeholder\">((referee_name))</span>",
-  content: "#### You have a reference from <span class=\"placeholder\">((referee_name))</span>
+  subject: "You have a reference from ((referee_name))",
+  content: "#### You have a reference from ((referee_name))
 
   You’ve got 2 references back now.
 
@@ -301,5 +301,5 @@ We’ll know these changes work if:
 
   Sign in to continue your application:
 
-  <span class=\"placeholder\">((dashboard_url))</span>"
+  ((dashboard_url))"
 }) }}

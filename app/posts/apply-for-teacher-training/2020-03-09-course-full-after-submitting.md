@@ -69,15 +69,15 @@ We also don’t know how important the course is to a candidate – if it's thei
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
   subject: "A course you’ve applied to is full",
-  content: "You applied to the course [provider] – [course] ([code]). The provider marked this course as full before we received your references.
+  content: "You applied to the course ((provider_name)) – ((course_name)) (((course_code))). The provider marked this course as full before we received your references.
 
 If you do nothing your application will be sent. Some providers will still consider your application because it was submitted before they marked the course as full.
 
-You still have [X days] to edit your application. You can:
+You still have ((days_remaining)) to edit your application. You can:
 
-* add another course [ if less than 3 courses ]
-* change this course to another one [ if 3 courses ]
+* ((if less than 3 courses??add another course))
+* ((if 3 courses??change this course to another one))
 * do nothing and we will still send your application to your training provider
 
-[link to application]"
+((link_to_application))"
 }) }}
