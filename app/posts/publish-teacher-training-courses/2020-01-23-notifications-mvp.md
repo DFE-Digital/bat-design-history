@@ -1,13 +1,13 @@
 ---
 title: Notifications MVP
-description: Identifying an initial set of notifications and the critical user flows required to manage notifications in Publish.  
+description: Identifying an initial set of notifications and the critical user flows required to manage notifications in Publish.
 date: 2020-01-23
 tags:
  - PN003
 ---
 UCAS provided email notifications to it's users. This functionality is yet be introduced to Publish teacher training courses. To address this, we established an introductory set of notifications to satisfy our user’s critical needs.
 
-We learned through the [accredited bodies research](https://bat-design-history.netlify.com/publish-teacher-training-courses/accredited-bodies-research-round-2#a-need-for-notifications) that there was a need for notifications to be sent to accredited bodies about changes made in Publish. 
+We learned through the [accredited bodies research](https://bat-design-history.netlify.com/publish-teacher-training-courses/accredited-bodies-research-round-2#a-need-for-notifications) that there was a need for notifications to be sent to accredited bodies about changes made in Publish.
 
 ## User needs
 
@@ -44,7 +44,7 @@ Dear colleague,
 
 A change has been made in Find postgraduate teacher training to a course that you’re listed as the accredited body for.
 
-((provider_name)) changed the ((attribute_changed)) of ((course_name)) (((course_code))) from “((original_value))” to “((updated_value))“. The change was made at ((attribute_change_datetime)).
+((provider_name)) changed the ((attribute_changed)) of ((course_name)) (((course_code))) from “((original_value))” to “((updated_value))”. The change was made at ((attribute_change_datetime)).
 
 View the course at ((course_url)).
 
@@ -59,7 +59,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [course_name] (course_code) has been updated",
+  subject: "Course ((course_name)) (((course_code))) has been updated",
   content: template1
 }) }}
 
@@ -86,7 +86,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [course_name] (course_code) has been published",
+  subject: "Course ((course_name)) (((course_code))) has been published",
   content: template2
 }) }}
 
@@ -97,11 +97,11 @@ Dear colleague,
 
 A new course has been created in Publish teacher training courses, and your organisation has been added as the accredited body for it.
 
-((Provider_name)) created ((course_name)) ((course_code)) at ((create_course_datetime)). The course has not yet been published on Find postgraduate teacher training. You’ll receive a notification if it is published.
+((provider_name)) created ((course_name)) (((course_code))) at ((create_course_datetime)). The course has not yet been published on Find postgraduate teacher training. You’ll receive a notification if it is published.
 
 View the course at ((publish_url)).
 
-If you have any questions about this, please notify your contact at ((provider_name)). 
+If you have any questions about this, please notify your contact at ((provider_name)).
 
 To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
 
@@ -111,7 +111,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [course_name] (course_code) has been created",
+  subject: "Course ((course_name)) (((course_code))) has been created",
   content: template6
 }) }}
 
@@ -122,13 +122,13 @@ Dear colleague,
 
 A course, which your organisation is the accredited body for, has been withdrawn from Find postgraduate teacher training.
 
-((provider_name)) withdrew ((course name)) (((course code))) in Publish teacher training courses, at ((attribute_change_datetime)).
+((provider_name)) withdrew ((course name)) (((course_code))) in Publish teacher training courses, at ((attribute_change_datetime)).
 
 This course is no longer visible on Find and candidates can’t apply to it. It also can’t be republished or reopened to applicants in the current cycle.
 
 You can view the withdrawn course in Publish at ((course url)).
 
-If you have any questions about this change, please notify your contact at ((provider_name)). 
+If you have any questions about this change, please notify your contact at ((provider_name)).
 
 To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
 
@@ -138,7 +138,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [course_name] (course_code) has been withdrawn",
+  subject: "Course ((course_name)) (((course_code))) has been withdrawn",
   content: template3
 }) }}
 
@@ -153,7 +153,7 @@ The accredited body for ((course_name)) (((course_code))) was previously ((old a
 
 View the course at ((course_url)).
 
-If you have any questions about this, please notify your contact at ((provider_name)).  
+If you have any questions about this, please notify your contact at ((provider_name)).
 
 To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
 
@@ -163,7 +163,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "You are now listed as the accredited body for [course_name] (course_code)",
+  subject: "You are now listed as the accredited body for ((course_name)) (((course_code)))",
   content: template4
 }) }}
 
@@ -188,7 +188,7 @@ The Becoming a Teacher team
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  subject: "Course [course_name] (course_code) has a new accredited body",
+  subject: "Course ((course_name)) (((course_code))) has a new accredited body",
   content: template5
 }) }}
 
@@ -198,4 +198,4 @@ Next steps will include:
 
 * A notifications pilot with a small number of providers who have expressed a key interest in receiving notifications.
 * A diary study conducted with the pilot participants.
-* Design and research of "manage notifications" functionality for Publish.     
+* Design and research of "manage notifications" functionality for Publish.

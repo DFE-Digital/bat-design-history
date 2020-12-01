@@ -21,7 +21,7 @@ We communicated this change to providers by:
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
   subject: "Coronavirus: how Apply for teacher training is adapting",
-  content: "Dear [providerName]
+  content: "Dear ((provider_name))
 
   You may have heard from UCAS that we won’t be rejecting or declining any offers automatically until 20 April 2020.
 
