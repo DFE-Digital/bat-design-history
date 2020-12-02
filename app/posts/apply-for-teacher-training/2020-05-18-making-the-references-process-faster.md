@@ -5,7 +5,6 @@ date: 2020-05-18
 tags:
 - AN024
 ---
-<!-- markdownlint-disable MD024 -->
 
 On average it takes about 11 days to get references.
 
@@ -90,11 +89,11 @@ Because users will:
 
 > ### You need to add a new referee
 
-> [Referee] has not responded.
+> ((referee_name)) has not responded.
 
 > Add a new referee as soon as possible. Courses can become full at any time and providers do not consider applications without 2 references.
 
-> Adding a new referee will not prevent [Referee] from giving a reference. You can keep chasing [Referee] if you know they’re planning on giving a reference.
+> Adding a new referee will not prevent ((referee_name)) from giving a reference. You can keep chasing ((referee_name)) if you know they’re planning on giving a reference.
 
 > [Add new referee]
 
@@ -109,7 +108,7 @@ Because users will:
 
 > ### You need to add a new referee
 
-> You cancelled your request for a reference from [Referee].
+> You cancelled your request for a reference from ((referee_name)).
 
 > Add a new referee as soon as possible. Courses can become full at any time and providers do not consider applications without 2 references.
 
@@ -140,23 +139,23 @@ To avoid complexity and outdated content, we give instructions on the states whi
 {{ appEmail({
   content: "
 
-> Dear [Referee]
+> Dear ((referee_name))
 
-> ### Give a reference for [Candidate] as soon as possible
+> ### Give a reference for ((candidate_name)) as soon as possible
 
-> [Candidate] put us in touch with you to get a reference for their teacher training application. They applied to:
+> ((candidate_name)) put us in touch with you to get a reference for their teacher training application. They applied to:
 
-> [list courses]
+> ((course_choices))
 
 > Give a reference as soon as possible by filling in this short form (it does not take long):
 
-> [link]
+> ((link))
 
 > Teacher training courses can become full at any time. The sooner [Candidate] gets a reference, the more likely it is that they’ll get a place.
 
 > Let us know as soon as possible if you will not give a reference:
 
-> [link]
+> ((link))
 
 > ### Your data
 
@@ -173,11 +172,11 @@ To avoid complexity and outdated content, we give instructions on the states whi
 {{ appEmail({
   content: "
 
-> Dear [Candidate]
+> Dear ((candidate_name))
 
 > ### Get in contact with your referee as soon as possible
 
-> [Referee] has not given you a reference yet.
+> ((referee_name)) has not given you a reference yet.
 
 > Ask them to check their inbox including their junk or spam emails and give a reference as soon as possible.
 
@@ -185,11 +184,11 @@ To avoid complexity and outdated content, we give instructions on the states whi
 
 > You gave us this email address:
 
-> [address]
+> ((referee_email_address))
 
 > If this is not correct, cancel the reference request and add in the referee details again:
 
-> [link]
+> ((link))
 
 > We cannot send your application to your teacher training providers without 2 references. Courses can become full at any time - get your reference as soon as possible.
 

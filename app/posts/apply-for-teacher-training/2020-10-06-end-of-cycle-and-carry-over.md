@@ -111,7 +111,7 @@ On the 18 September, candidates get an email:
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
   subject: "Your references did not come back in time",
-  content: "Dear <span class=\"placeholder\">((candidate))</span>
+  content: "Dear ((candidate))
 
 #### Your references did not come back in time
 
@@ -119,7 +119,7 @@ Your referees did not respond in time for courses starting in the 2020 to 2021 a
 
 You can update your referees and apply again for courses starting in the 2021 to 2022 academic year.
 
-<span class=\"placeholder\">((dashboard_url))</span>
+((dashboard_url))
 
 #### Get support
 
@@ -176,23 +176,23 @@ When a teacher training provider rejects an application, the candidate gets an e
 
 {{ appEmail({
   subject: "Your application was unsuccessful but you can apply again",
-  content: "Dear <span class=\"placeholder\">((candidate))</span>
+  content: "Dear ((candidate))
 
 #### Application decision
 
-<span class=\"placeholder-conditional\">((rejected_automatically??</span><span class=\"placeholder\">((provider))</span> did not respond to your application for <span class=\"placeholder\">((course_and_code))</span> in time.))
+((rejected_automatically??((provider)) did not respond to your application for ((course_and_code)) in time.))
 
-<span class=\"placeholder-conditional\">((rejected_by_provider??</span><span class=\"placeholder\">((provider))</span> decided not to progress your teacher training application for <span class=\"placeholder\">((course_and_code))</span> on this occasion.))
+((rejected_by_provider??((provider)) decided not to progress your teacher training application for ((course_and_code)) on this occasion.))
 
 #### You can apply again
 
 It’s easy to apply again. We’ve saved your last application, so all you have to do is make any changes and submit.
 
-<span class=\"placeholder-conditional\">((has_feedback??</span>Review your feedback and apply again:))
+((has_feedback??Review your feedback and apply again:))
 
-<span class=\"placeholder-conditional\">((no_feedback??</span>Apply again:))
+((no_feedback??Apply again:))
 
-<span class=\"placeholder\">((dashboard_url))</span>
+((dashboard_url))
 
 #### Get support
 
@@ -249,7 +249,7 @@ Before 18 September, candidates get an email:
 
 {{ appEmail({
   subject: "Submit your application no later than 18 September",
-  content: "Dear <span class=\"placeholder\">((candidate))</span>
+  content: "Dear ((candidate))
 
 #### Submit your application no later than 18 September
 
@@ -257,7 +257,7 @@ If you’re hoping to start a course this academic year, submit your application
 
 Review and submit your application:
 
-<span class=\"placeholder\">((sign_in_url))</span>
+((sign_in_url))
 
 #### Ask your provider how quickly you need to submit: courses are filling up
 
@@ -265,7 +265,7 @@ Although 18 September is the last day you can submit your application, courses c
 
 Contact your teacher training provider to check availability.
 
-<span class=\"placeholder\">((provider_contact_details))</span>
+((provider_contact_details))
 
 #### Get support
 

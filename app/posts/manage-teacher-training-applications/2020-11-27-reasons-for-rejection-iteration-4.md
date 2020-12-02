@@ -4,6 +4,8 @@ description: Various improvements to reasons for rejection
 date: 2020-11-27
 ---
 
+<!-- markdownlint-disable MD001 MD025 -->
+
 {% from "email/macro.njk" import appEmail %}
 
 Previous iterations:
@@ -14,28 +16,24 @@ Previous iterations:
 
 This iteration contains the following improvements:
 
-- Removed negative contractions
-- Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
-- Changed to heading level 2 for candidate feedback on check answers page
-- Removed introductory content from within the candidate feedback (inset text)
-- Removed pleasantries like ‘Sorry’ and ‘Please’
-- Removed capitalisation on maths and science
-- Improved general clarity of the questions
+* Removed negative contractions
+* Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
+* Changed to heading level 2 for candidate feedback on check answers page
+* Removed introductory content from within the candidate feedback (inset text)
+* Removed pleasantries like ‘Sorry’ and ‘Please’
+* Removed capitalisation on maths and science
+* Improved general clarity of the questions
 
 ## Emails
 
 ### When all applications have been rejected
 
-{{ appEmail({
-  subject: "Update on your application - all decisions now made",
-  content: "
+{% set template1 %}
+Dear ((name))
 
-Dear {name}
-
-<!-- markdownlint-disable MD024 MD025 -->
 # Update on your application
 
-{Provider} has decided not to make you an offer to study {course}. They've given feedback to explain this decision.
+((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
 
 > **Quality of application**
 >
@@ -51,20 +49,16 @@ Dear {name}
 >
 > The provider would not be interested in future applications from you.
 
-Contact {provider} directly if you have any questions about their feedback.
+Contact ((provider)) directly if you have any questions about their feedback.
 
-<!-- markdownlint-disable MD024 MD025 -->
 # You can apply again
 
-{if this was not the only application}
-  You’ve now had decisions about all the courses you applied for. You did not get any offers, so you can apply again.
-{endif}
+((if this was not the only application??You’ve now had decisions about all the courses you applied for. You did not get any offers, so you can apply again.))
 
 Your last application has been saved. You can make changes before you submit your new application.
 
-{link}
+((link))
 
-<!-- markdownlint-disable MD024 MD025 -->
 # Get support
 
 If you need help getting a place on a course, contact Get Into Teaching (8:30am to 5pm Monday to Friday). Call for free on 0800 389 2500 or chat to an adviser online:
@@ -72,21 +66,21 @@ If you need help getting a place on a course, contact Get Into Teaching (8:30am 
 https://getintoteaching.education.gov.uk/lp/live-chat
 
 Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
-  "
+{% endset %}
+
+{{ appEmail({
+  subject: "Update on your application - all decisions now made",
+  content: template1
 }) }}
 
 ## When waiting for one decision and has one offer
 
-{{ appEmail({
-  subject: "Update on your application - decide what to do",
-  content: "
+{% set template2 %}
+Dear ((name))
 
-Dear {name}
-
-<!-- markdownlint-disable MD024 MD025 -->
 # Update on your application
 
-{Provider} has decided not to make you an offer to study {course}. They've given feedback to explain this decision.
+((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
 
 > **Quality of application**
 >
@@ -102,39 +96,36 @@ Dear {name}
 >
 > The provider would not be interested in future applications from you.
 
-Contact {provider} directly if you have any questions about their feedback.
+Contact ((provider)) directly if you have any questions about their feedback.
 
-<!-- markdownlint-disable MD024 MD025 -->
 # You have an offer and are waiting for a decision about another course
 
-You have an offer from {provider1} to study {course1}.
+You have an offer from ((provider1)) to study ((course1)).
 
-{provider2} has until {date} to make a decision about your application to study {course2}.
+((provider2)) has until ((date)) to make a decision about your application to study ((course2)).
 
 You can wait until you’ve received both decisions before you respond. Alternatively you can sign in to you account and accept the offer you’ve already got:
 
-{link}
-
+((link))
 
 # Get support
 
 Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
-  "
-}) }}
-
-<!-- markdownlint-disable MD001  -->
-### When waiting for one or two decisions and no offers made
+{% endset %}
 
 {{ appEmail({
-  subject: "Update on your application",
-  content: "
+  subject: "Update on your application - decide what to do",
+  content: template2
+}) }}
 
-Dear {name}
+### When waiting for one or two decisions and no offers made
 
-<!-- markdownlint-disable MD024 MD025 -->
+{% set template3 %}
+Dear ((name))
+
 # Update on your application
 
-{Provider} has decided not to make you an offer to study {course}. They've given feedback to explain this decision.
+((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
 
 > **Quality of application**
 >
@@ -150,30 +141,33 @@ Dear {name}
 >
 > The provider would not be interested in future applications from you.
 
-Contact {provider} directly if you have any questions about their feedback.
+Contact ((provider)) directly if you have any questions about their feedback.
 
-{ if one }
-<!-- markdownlint-disable MD024 MD025 -->
+((if one??
+
 # You’re waiting for a decision
 
-You’re waiting for {provider} to make a decision about your application to study {course}. They should do this by {date}.
+You’re waiting for ((provider)) to make a decision about your application to study ((course)). They should do this by ((date)).
 
-{ else }
-<!-- markdownlint-disable MD024 MD025 -->
+((else??
+
 # You’re waiting for decisions
 
 You’re waiting for decisions about your applications to:
 
-- {provider} to study {course}
-- {provider} to study {course}
+* ((provider)) to study ((course))
+* ((provider)) to study ((course))
 
-They should make their decisions by {date}.
-{ endif }
+They should make their decisions by ((date)).
 
 ## Get support
 
 Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
-  "
+{% endset %}
+
+{{ appEmail({
+  subject: "Update on your application",
+  content: template3
 }) }}
 
 ## Potential improvements
