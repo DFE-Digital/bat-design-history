@@ -146,6 +146,7 @@ The back link on the first page of the set up interview flow works differently d
 
 ### New interview
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "Interview arranged - Preston Teacher Training Consortium",
   content: "
@@ -179,6 +180,7 @@ Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digi
 
 ### Interview details updated
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "Interview details updated - Preston Teacher Training Consortium",
   content: "
@@ -212,6 +214,7 @@ Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digi
 
 ### Interview cancelled
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "Interview cancelled – Preston Teacher Training Consortium",
   content: "
