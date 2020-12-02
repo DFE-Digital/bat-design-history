@@ -177,7 +177,7 @@ Currently the emails have been designed to work regardless of whether the candid
 
 We could improve the clarity of some of the emails if we sent bespoke emails for candidates who only applied to one course.
 
-For example, if the candidate applied to one course and was rejected, then the subject could be more specific. Something like ‘Application successful – you can apply again’.
+For example, if the candidate applied to one course and was rejected, then the subject could be more specific. Something like ‘Application unsuccessful – you can apply again’.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
