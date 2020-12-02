@@ -74,7 +74,7 @@ Contact becomingateacher@digital.education.gov.uk if you have problems applying 
   content: template1
 }) }}
 
-## When waiting for one decision and has one offer
+### When waiting for one decision and has one offer
 
 {% set template2 %}
 Dear ((name))
