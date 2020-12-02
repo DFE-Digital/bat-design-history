@@ -1,5 +1,5 @@
 ---
-title: Reasons for rejection (iteration 4)
+title: Reasons for rejection iteration 4
 description: Various improvements to reasons for rejection
 date: 2020-11-27
 ---
@@ -8,21 +8,28 @@ date: 2020-11-27
 
 {% from "email/macro.njk" import appEmail %}
 
+Previous iterations:
+
+- [Iteration 1](/manage-teacher-training-applications/reasons-for-rejection/)
+- [Iteration 2](/manage-teacher-training-applications/reasons-for-rejection-iteration-2/)
+- [Iteration 3](/manage-teacher-training-applications/reasons-for-rejection-iteration-3/)
+
 This iteration contains the following improvements:
 
-* Removed negative contractions
-* Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
-* Changed to heading level 2 for candidate feedback on check answers page
-* Removed introductory content from within the candidate feedback (inset text)
-* Removed pleasantries like ‘Sorry’ and ‘Please’
-* Removed capitalisation on maths and science
-* Improved general clarity of the questions
+- Removed negative contractions
+- Removed ‘Advice’ and ‘Details’ prefixes on candidate feedback
+- Changed to heading level 2 for candidate feedback on check answers page
+- Removed introductory content from within the candidate feedback (inset text)
+- Removed pleasantries like ‘Sorry’ and ‘Please’
+- Removed capitalisation on maths and science
+- Improved general clarity of the questions
 
 ## Emails
 
 ### When all applications have been rejected
 
 {% set template1 %}
+<!-- markdownlint-disable MD024 -->
 Dear ((name))
 
 # Update on your application
@@ -149,8 +156,8 @@ You’re waiting for ((provider)) to make a decision about your application to s
 
 You’re waiting for decisions about your applications to:
 
-* ((provider)) to study ((course))
-* ((provider)) to study ((course))
+- ((provider)) to study ((course))
+- ((provider)) to study ((course))
 
 They should make their decisions by ((date)).
 

@@ -1,5 +1,5 @@
 ---
-title: Reasons for rejection (iteration 2)
+title: Reasons for rejection iteration 2
 description: Helping providers give useful feedback to candidates who’ve been rejected
 date: 2020-05-12
 ---

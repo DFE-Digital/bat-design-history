@@ -1,5 +1,5 @@
 ---
-title: Interviews iteration
+title: Interviews iteration 2
 description: Various improvements to the way interviews work
 date: 2020-11-06
 ---
@@ -98,6 +98,11 @@ This is something we’ll keep an eye on with this new iteration.
     text: "Application list",
     img: {
       src: "application-list.png"
+    }
+  }, {
+    text: "Interview page when no interviews have been set up",
+    img: {
+      src: "interviews-page--no-interviews.png"
     }
   }, {
     text: "Prompt: when in the received state",

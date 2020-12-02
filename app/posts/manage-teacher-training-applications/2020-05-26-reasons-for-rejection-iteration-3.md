@@ -1,5 +1,5 @@
 ---
-title: Reasons for rejection (iteration 3)
+title: Reasons for rejection iteration 3
 description: Combined some questions onto one page, added an additional question and improved content
 date: 2020-05-26
 ---
@@ -10,14 +10,14 @@ date: 2020-05-26
 
 ### Combine questions onto one page
 
-In the previous iteration, we put [uncommon questions on a separate page](http://localhost:8080/manage-teacher-training-applications/reasons-for-rejection-iteration-2/#step-3). But users were confused – they thought some categories were missing.
+In the previous iteration, we put [uncommon questions on a separate page](/manage-teacher-training-applications/reasons-for-rejection-iteration-2/#step-3). But users were confused – they thought some categories were missing.
 
 If we combine the questions onto the first page
 Then users won't be confused and they'll be able to scan through all the categories more easily
 
 ### Move some safeguarding options into a new question about honesty and professionalism
 
-In the previous iteration, the [safeguarding question contained unrelated options](http://localhost:8080/manage-teacher-training-applications/reasons-for-rejection-iteration-2/#step-3). This confused some users.
+In the previous iteration, the [safeguarding question contained unrelated options](/manage-teacher-training-applications/reasons-for-rejection-iteration-2/#step-3). This confused some users.
 
 If we put these options in a separate question
 Then users will be able to find them more easily
