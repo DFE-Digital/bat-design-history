@@ -1,5 +1,5 @@
 ---
-title: Reasons for rejection (iteration 4)
+title: Reasons for rejection iteration 4
 description: Various improvements to reasons for rejection
 date: 2020-11-27
 ---

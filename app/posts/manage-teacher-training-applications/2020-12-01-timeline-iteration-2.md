@@ -17,7 +17,7 @@ A while ago we added links to each event in the timeline. For example:
 
 {{ appFigure({
   image: {
-    file: "timeline-links.png"
+    file: "timeline--links.png"
   },
   caption: "Timeline with links to the related item"
 }) }}
@@ -30,7 +30,7 @@ We considered the following design:
 
 {{ appFigure({
   image: {
-    file: "timeline-explanations.png"
+    file: "timeline--explanations.png"
   },
   caption: "Out of date or cancelled items with explanations"
 }) }}
@@ -41,10 +41,7 @@ As this is a big piece of work to address we decided that for now we’d just re
 
 {{ appFigure({
   image: {
-    file: "timeline-links-removed.png"
+    file: "timeline--no-links.png"
   },
   caption: "Out of date or cancelled items have links removed"
 }) }}
-
-
-

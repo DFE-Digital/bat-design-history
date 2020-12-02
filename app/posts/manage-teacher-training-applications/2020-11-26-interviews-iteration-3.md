@@ -4,14 +4,12 @@ description: Various improvements to the way interviews work and getting it read
 date: 2020-11-26
 ---
 
-This post documents various improvements to the way interviews work.
-
 Previous iterations:
 
 - [Iteration 1](/manage-teacher-training-applications/interviews)
 - [Iteration 2](/manage-teacher-training-applications/interviews-iteration-2)
 
-## Main changes
+## Main improvements
 
 ### Interview schedule
 
@@ -132,7 +130,7 @@ Once the status moves beyond ‘Interviewing’ all interviews become past inter
 ### Specifying which organisation is carrying out the interview
 
 Users are only asked to specify an organisation if they belong to both the training provider and accredited body for that course.
- 
+
 Otherwise, the interview will automatically be on behalf of whichever organisation they belong to.
 
 ### Using the back link when setting up an interview

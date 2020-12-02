@@ -1,5 +1,5 @@
 ---
-title: Reasons for rejection (iteration 3)
+title: Reasons for rejection iteration 3
 description: Combined some questions onto one page, added an additional question and improved content
 date: 2020-05-26
 ---
