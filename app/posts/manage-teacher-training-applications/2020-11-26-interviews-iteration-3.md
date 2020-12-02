@@ -4,6 +4,8 @@ description: Various improvements to the way interviews work and getting it read
 date: 2020-11-26
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 Previous iterations:
 
 - [Iteration 1](/manage-teacher-training-applications/interviews)
@@ -139,6 +141,99 @@ The back link on the first page of the set up interview flow works differently d
 
 - If an interview has been set up, the back link goes to the interviews page.
 - If an interview has not been set up, the back link goes to the application details page.
+
+## Emails
+
+### New interview
+
+{{ appEmail({
+  subject: "Interview arranged - Preston Teacher Training Consortium",
+  content: "
+
+Dear Kelly
+
+# Interview arranged
+
+You have an interview with Preston Teacher Training Consortium about your application to study Mathematics.
+
+The details are as follows:
+
+> 4 January 2021 at 11am
+>
+> 3 Cavendish Road
+> Preston
+> PR1 4RR
+>
+> Give your name at reception when you arrive and someone will collect you.
+>
+> There will be a panel interview in the morning, which should take around an hour. We'll take a break for lunch then there will be a two-hour exercise to complete in the afternoon.
+
+Contact Preston Teacher Training Consortium if you have any questions or you will not be able to attend the interview.
+
+# Get support
+
+Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) if you have problems applying online or want to give feedback.
+
+  "
+}) }}
+
+### Interview details updated
+
+{{ appEmail({
+  subject: "Interview details updated - Preston Teacher Training Consortium",
+  content: "
+
+Dear Kelly
+
+# Interview details updated
+
+Preston Teacher Training Consortium has updated the details of the interview about your application to study Mathematics.
+
+The new details are as follows:
+
+> 6 August 2021 at 1pm
+>
+> 3 Cavendish Road
+> Preston
+> PR1 4RR
+>
+> Give your name at reception when you arrive and someone will collect you.
+>
+> There will be a panel interview in the morning, which should take around an hour. We’ll take a break then there will be a two-hour exercise.
+
+Contact Preston Teacher Training Consortium if you have any questions or you will not be able to attend the interview.
+
+# Get support
+
+Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) if you have problems applying online or want to give feedback.
+
+  "
+}) }}
+
+### Interview cancelled
+
+{{ appEmail({
+  subject: "Interview cancelled – Preston Teacher Training Consortium",
+  content: "
+
+Dear Kelly
+
+# Interview cancelled
+
+Preston Teacher Training Consortium has cancelled the interview on 4 January 2021 at 11am about your application to study Mathematics.
+
+They've given the following reason for cancelling the interview:
+
+> You contacted us to say you didn't want to apply for this course any more.
+
+Contact Preston Teacher Training Consortium if you have any questions.
+
+# Get support
+
+Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) if you have problems applying online or want to give feedback.
+
+  "
+}) }}
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
