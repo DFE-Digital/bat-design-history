@@ -151,11 +151,11 @@ The back link on the first page of the set up interview flow works differently d
   subject: "Interview arranged - Preston Teacher Training Consortium",
   content: "
 
-Dear Kelly
+Dear ((name))
 
 # Interview arranged
 
-You have an interview with Preston Teacher Training Consortium about your application to study Mathematics.
+You have an interview with ((provider)) about your application to study Mathematics.
 
 The details are as follows:
 
@@ -169,7 +169,7 @@ The details are as follows:
 >
 > There will be a panel interview in the morning, which should take around an hour. We'll take a break for lunch then there will be a two-hour exercise to complete in the afternoon.
 
-Contact Preston Teacher Training Consortium if you have any questions or you will not be able to attend the interview.
+Contact ((provider)) if you have any questions or you will not be able to attend the interview.
 
 # Get support
 
@@ -185,11 +185,11 @@ Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digi
   subject: "Interview details updated - Preston Teacher Training Consortium",
   content: "
 
-Dear Kelly
+Dear ((name))
 
 # Interview details updated
 
-Preston Teacher Training Consortium has updated the details of the interview about your application to study Mathematics.
+((provider)) has updated the details of the interview about your application to study Mathematics.
 
 The new details are as follows:
 
@@ -203,7 +203,7 @@ The new details are as follows:
 >
 > There will be a panel interview in the morning, which should take around an hour. We’ll take a break then there will be a two-hour exercise.
 
-Contact Preston Teacher Training Consortium if you have any questions or you will not be able to attend the interview.
+Contact ((provider)) if you have any questions or you will not be able to attend the interview.
 
 # Get support
 
@@ -219,17 +219,17 @@ Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digi
   subject: "Interview cancelled – Preston Teacher Training Consortium",
   content: "
 
-Dear Kelly
+Dear ((name))
 
 # Interview cancelled
 
-Preston Teacher Training Consortium has cancelled the interview on 4 January 2021 at 11am about your application to study Mathematics.
+((provider)) has cancelled the interview on 4 January 2021 at 11am about your application to study Mathematics.
 
 They've given the following reason for cancelling the interview:
 
 > You contacted us to say you didn't want to apply for this course any more.
 
-Contact Preston Teacher Training Consortium if you have any questions.
+Contact ((provider)) if you have any questions.
 
 # Get support
 
@@ -237,6 +237,13 @@ Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digi
 
   "
 }) }}
+
+## Things to look out for in research
+
+We need more research to understand if:
+
+- provider users know that the reason for cancelling an interview will be sent to the candidate
+- international candidates need the time zone as part of the interview details
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
