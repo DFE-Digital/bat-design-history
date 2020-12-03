@@ -15,7 +15,6 @@ Our intention in the second round of research was to answer the following questi
 * Are there any other needs specific to the Provider-led Postgraduate route?
 * What are our users key behaviours and needs around data collection and input? 
 * What are the needs around inputting large numbers of trainees?
-* Are we requesting the right data, relevant to the Assessment Only route?
 * How do users handle alternative assessment outcomes to a QTS recommendation?
 * Do our users want to manage data on individual or on cohort basis and how is a cohort characterised?
 * What is understood about “Allocations”?
