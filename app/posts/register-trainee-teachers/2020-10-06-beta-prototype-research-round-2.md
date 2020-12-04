@@ -12,7 +12,7 @@ related:
 
 Our intention in the second round of research was to answer the following questions:
 
-* Are there any other needs specific to the Provider-led Postgraduate route?
+* Are there any other needs specific to the provider-led postgraduate route?
 * What are our users key behaviours and needs around data collection and input? 
 * What are the needs around inputting large numbers of trainees?
 * How do users handle alternative assessment outcomes to a QTS recommendation?
