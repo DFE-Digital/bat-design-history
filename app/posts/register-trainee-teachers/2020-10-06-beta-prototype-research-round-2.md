@@ -17,7 +17,7 @@ Our intention in the second round of research was to answer the following questi
 * What are the needs around inputting large numbers of trainees?
 * How do users handle alternative assessment outcomes to a QTS recommendation?
 * Do our users want to manage data on individual or on cohort basis and how is a cohort characterised?
-* What is understood about “Allocations”?
+* What is understood about “allocations”?
 * What are their habits around updating records due to withdrawals and deferrals? 
 
 ## Who we tested with
