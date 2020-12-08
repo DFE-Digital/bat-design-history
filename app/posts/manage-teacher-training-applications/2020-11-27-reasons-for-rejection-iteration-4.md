@@ -1,6 +1,6 @@
 ---
-title: Reasons for rejection iteration 4
-description: Various improvements to reasons for rejection
+title: Reasons for rejection iteration 4 (emails)
+description: Various improvements to reasons for rejection and email redesign
 date: 2020-11-27
 ---
 
@@ -169,6 +169,70 @@ Contact becomingateacher@digital.education.gov.uk if you have problems applying 
 {{ appEmail({
   subject: "Update on your application",
   content: template3
+}) }}
+
+### When received one or two offers, not waiting for any decisions
+
+{% set template4 %}
+Dear ((name))
+
+# Update on your application
+
+((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
+
+> **Quality of application**
+>
+> Your subject knowledge could be improved.
+>
+> Understand the purpose of PE in schools and then learn more about the procedures related to safeguarding.
+>
+> **Qualifications**
+>
+> Your degree does not meet the course requirements.
+>
+> **Future applications**
+>
+> The provider would not be interested in future applications from you.
+
+Contact ((provider)) directly if you have any questions about their feedback.
+
+((if one??
+
+# Respond to your offer by ((date))
+
+You’ve received an offer from ((provider)) to study ((course)). You’re not waiting for any other decisions.
+
+The offer will automatically be withdrawn if you do not respond by ((date)).
+
+Sign in to your account to respond:
+
+((link))
+
+((else??
+
+# Respond to your offers by ((date))
+
+You’ve received offers from:
+
+- ((provider)) to study ((course))
+- ((provider)) to study ((course))
+
+You’re not waiting for any other decisions.
+
+The offers will automatically be withdrawn if you do not respond by ((date)).
+
+Sign in to your account to respond:
+
+((link))
+
+# Get support
+
+Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+{% endset %}
+
+{{ appEmail({
+  subject: "Update on your application - respond by ((date))",
+  content: template4
 }) }}
 
 ## Potential improvements
