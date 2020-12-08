@@ -12,6 +12,7 @@ For many providers, we (DfE) already have information about the courses they off
 For this round of research, we experimented with offering providers a list of courses from Publish instead of having them pick a route and then entering course details.
 
 Research questions we had:
+
 1. Are providers familiar with Publish?
 2. How do they refer to their courses on Publish? 
 3. Would they be familiar with the course code?
