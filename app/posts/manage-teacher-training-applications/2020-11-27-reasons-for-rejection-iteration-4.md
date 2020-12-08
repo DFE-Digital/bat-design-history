@@ -1,6 +1,6 @@
 ---
-title: Reasons for rejection iteration 4
-description: Various improvements to reasons for rejection
+title: Reasons for rejection iteration 4 (emails)
+description: Various improvements to reasons for rejection and email redesign
 date: 2020-11-27
 ---
 
@@ -198,7 +198,7 @@ Contact ((provider)) directly if you have any questions about their feedback.
 
 ((if one??
 
-#  Respond to your offer by ((date))
+# Respond to your offer by ((date))
 
 You’ve received an offer from ((provider)) to study ((course)). You’re not waiting for any other decisions.
 
@@ -214,8 +214,8 @@ Sign in to your account to respond:
 
 You’ve received offers from:
 
-* ((provider)) to study ((course))
-* ((provider)) to study ((course))
+- ((provider)) to study ((course))
+- ((provider)) to study ((course))
 
 You’re not waiting for any other decisions.
 
