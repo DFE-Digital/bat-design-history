@@ -33,7 +33,7 @@ We were interested in learning more about users who belong to multiple organisat
 
 ## Who are multi-organisation users?
 
-Approximately 18% of Publish users belong to more than one organisation.
+Approximately 21% of active Publish users belong to more than one organisation.
 
 <table class="govuk-table">
   <caption class="govuk-table__caption">The ratio of users who belong to multiple organisations</caption>
@@ -45,61 +45,69 @@ Approximately 18% of Publish users belong to more than one organisation.
   </thead>
   <tbody class="govuk-table__body">
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">2759</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">1410</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">210</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">245</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">96</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">62</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">3</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">40</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">17</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">4</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">10</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">12</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">4</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">6</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">14</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cel govuk-table__cell--numeric">8</td>
+      <td class="govuk-table__cel govuk-table__cell--numeric">2</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">8</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">18</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">9</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">21</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">11</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">12</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">52</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">13</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">16</td>
     </tr>
     <tr class="govuk-table__row">
+      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
       <td class="govuk-table__cell govuk-table__cell--numeric">17</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">17</td>
     </tr>
     <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">Total users: 3357</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">18</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
+      <td class="govuk-table__cell govuk-table__cell--numeric">20</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <td class="govuk-table__cell govuk-table__cell--numeric">Total active users: 1765</td>
       <td class="govuk-table__cel"></td>
     </tr>
   </tbody>
 </table>
 
-(Data from early July 2020)
+(Data from May 2020)
 
 ## Research findings
 
