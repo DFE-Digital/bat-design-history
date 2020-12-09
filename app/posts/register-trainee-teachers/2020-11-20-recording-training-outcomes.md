@@ -16,7 +16,7 @@ In the next round of research we hoped to validate our current understanding aro
 
 ## There are multiple outcomes to consider
 
-Early version of this flow included a button labelled 'Recommend for QTS'. We were concerned that this was too specific and didn't reflect other possible outcomes such as failure or awards other than QTS.
+Early version of this flow included a button labelled 'Recommend for QTS'. We were concerned that this was too specific and didn’t reflect other possible outcomes such as failure or awards other than QTS.
 
 As a result we’ve decided to include a more generic button label, 'Record outcome’.
 
