@@ -1,6 +1,6 @@
 ---
-title: Filter applications by full time and part time
-description: Provide options to view the application list by full time and part time courses
+title: Filter applications by full time or part time
+description: Provide options to view the application list by full time or part time courses
 date: 2020-12-09
 ---
 
