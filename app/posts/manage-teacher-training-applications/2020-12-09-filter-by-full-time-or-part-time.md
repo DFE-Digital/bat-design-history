@@ -14,13 +14,13 @@ We added the study mode to the course title in the application card to indicate 
 {{ appScreenshots({
   items: [
     {
-      text: "Index page"
+      text: "Applications list"
     },
     {
-      text: "Index page – filtered full time"
+      text: "Applications list – filtered full time"
     },
     {
-      text: "Index page – filtered part time"
+      text: "Applications list – filtered part time"
     }
   ]
 }) }}
