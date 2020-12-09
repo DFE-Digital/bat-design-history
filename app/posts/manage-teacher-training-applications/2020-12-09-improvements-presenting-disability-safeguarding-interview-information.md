@@ -1,12 +1,12 @@
 ---
-title: Improvements for representing disability, safeguarding or interview information
+title: Improvements for representing disability, safeguarding and interview information
 description: A series of changes to the disability, interview needs and safeguarding sections. Plus removing the candidate guidance blocks.
 date: 2020-12-09
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-The original task was to make it easier to understand whether the candidate had been asked questions relating to disability or safeguarding information, or interview needs.
+The original task was to make it easier to understand whether the candidate had been asked questions relating to disability, safeguarding information and interview needs.
 
 Initially we considered just changing the wording which would appear if the candidate had not been asked the question, rather than if they hadn’t given any information.
 
@@ -17,7 +17,7 @@ The questions currently in the application service, and their respective respons
 Question to candidate | Answer ‘no’ | Answered ‘yes’ | Was never asked
 ----------------------|-------------|----------------|----------------
 Do you have any interview needs? | No preferences. | [Their answer] | No preferences.
-Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding. <br> [Their answer] | Never asked |
+Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding. <br><br> [Their answer] | Never asked |
 Do you want to ask for help to become a teacher? | No information shared. | [Their answer] |  |
 
 ## Improvements summary
@@ -27,7 +27,7 @@ We have made the following improvements to the presentation of this information:
 - put the content into summary lists (tables)
 - replay the actual question asked and the answer given
 - not show anything at all if the candidate was not asked the question
-- remove the Details components which reveal the guidance given to candidates
+- remove the guidance given to candidates
 - no longer hide the safeguarding information with the Details component
 - use generic wording for users without permission to view safeguarding information
 
@@ -49,17 +49,21 @@ The content will match the the radio button which the candidate chose when they 
 
 If it’s a ‘yes’ response, we’ll also give the candidate’s free text input as usual.
 
-This means we don’t have to interpret or explain what the generic answer means because we just play it back verbatim. For example: ‘Do you want to ask for help to become a teacher? – No’ is clearer than ‘Do you want to ask for help to become a teacher? – No information shared.’
+This means we don’t have to interpret or explain what the generic answer means because we just play it back verbatim.
+
+For example: ‘Do you want to ask for help to become a teacher? – No’ is clearer than ‘Do you want to ask for help to become a teacher? – No information shared.’
 
 ## Not showing anything if the candidate was not asked
 
 We don't think it's a good idea to indicate questions which were not asked.
 
-When replaying questions and answers in a service, it’s normal only to include those which were actually asked. Since the application details are a record of what was asked and the candidate’s response, omitting the question entirely implies that it was not asked.
+When replaying questions and answers in a service, it’s normal only to include those which were actually asked.
+
+Since the application details are a record of what was asked and the candidate’s response, omitting the question entirely implies that it was not asked.
 
 As we are now going to lay out the candidate’s answers verbatim, it will be even more obvious that the absence of the field means the question wasn’t asked. We don’t think there’s any need to explain this with words.
 
-In addition, the service will likely introduce and remove questions. We don’t think it will be useful to keep adding the new ones into older applications, or marking a question as removed into new applications because it will add to the length and complexity of the page.
+In addition, the service will likely add and remove questions. We don’t think it will be useful to keep adding the new ones into older applications, or marking a question as removed into new applications because it will add to the length and complexity of the page.
 
 ## Removing the guidance
 
@@ -97,17 +101,14 @@ If the issue of incorrectly set up permissions does persist, we probably need a 
 
 ## Distinguishing between system messaging for lack of safeguarding permissions and candidate answers
 
-Currently, the system message that tells the user they can’t view safeguarding permission has the same typographic styling as the candidate’s answer when it can be viewed.
+Currently, the system message that tells the user they can’t view safeguarding permission has the same standard black text as the candidate’s actual answer (when it can be viewed).
 
-We tried using inset text, warning text, details (toggle), a box and grey text when the user lacks permission.
+We tried using inset text, warning text, details (toggle), a box and grey text when the user lacks permission. But:
 
-Inset text makes it look like a table border.
-
-Warning text is too prominent and is not intended to be used this way.
-
-The Details component draws attention and requires a click to view a tiny amount of information.
-
-A box is too prominent and looks messy inside a table.
+- inset text makes it look like a table border
+- warning text is too prominent and is not intended to be used this way
+- the Details component draws attention and requires a click to view a tiny amount of information
+- a box is too prominent and looks messy inside a table
 
 So we decided to use a combination of grey text and a prefix of ‘Unavailable:’.
 
@@ -115,7 +116,7 @@ So we decided to use a combination of grey text and a prefix of ‘Unavailable:�
 
 As we’ve worked on this, we’ve discussed the fact that we’re not storing exactly what the user was asked and what answers they could choose from.
 
-Since the application service is still being iterated, this means that we risk the chance of misrepresenting a candidate’s answers over time. The answer will remain the same, but the question it appears to be answering will change.
+Since the candidate service is still being iterated, this means that we risk the chance of misrepresenting a candidate’s answers over time. The answer will remain the same, but the question it appears to be answering will change.
 
 This risk also applies to other parts of the application details which are not covered in this piece of work.
 
