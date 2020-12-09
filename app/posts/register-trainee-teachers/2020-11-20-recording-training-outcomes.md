@@ -69,10 +69,10 @@ We anticipate these reasons will change based on insights from future research.
     text: "Check outcome details - standards not met and trainee withdrawing",
     img: { src: "Screenshot_2020-11-30 Standards not met and withdrawing -  Check outcome details - Register trainee teachers - GOV UK.png" }
   }, {
-    text: "Trainee details - standards not met",
+    text: "Trainee details - training outcome recorded",
     img: { src: "Screenshot_2020-11-30 Leslie Jacobson - Standards not met - Register trainee teachers - GOV UK.png" }
   }, {
-    text: "Trainee details - standards not met and trainee withdrawing",
+    text: "Trainee details - training outcome recorded and trainee withdrawn",
     img: { src: "Screenshot_2020-11-30 Leslie Jacobson - Withdrawn - Register trainee teachers - GOV UK.png" }
   }]
 }) }}
