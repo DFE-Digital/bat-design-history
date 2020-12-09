@@ -78,21 +78,19 @@ Some users feel responsible to communicate the TRN to the trainees, others expec
 
 ### Recommending for and tracking QTS
 
-Users were able to navigate the action easily, but there were some issues around terminology of data. “Assessment only end date” was interpreted either as the date of recommending a trainee for QTS (today’s date) or the final tutor visit. “Date of standards assessment” was by most interpreted as the date of the final tutor visit.
+Users were able to find the section easily, but there were some issues around terminology of data. “Assessment only end date” was interpreted either as the date of recommending a trainee for QTS (today’s date) or the final tutor visit. “Date of standards assessment” was by most interpreted as the date of the final tutor visit.
 
 > “What is ‘date of assessment’ - the last day of assessment or the first day of assessment? This is not very clear at all."
 
-Passing the standards assessment is a requirement for receiving QTS. Therefore “Standards assessment not taken” and “Not passed” is misleading, it should either not be there, or show an error message with a link to “Withdrawal”.
-
-[screen shot]
+Passing the standards assessment is a requirement for receiving QTS. Therefore the options “Not taken” and “Not passed” are misleading, it should either not be there, or show an error message with a link to “Withdrawal”.
 
 Most users were not interested in closely tracking the QTS outcome. Still we could make our “Recommended for QTS” confirmation page more useful by communicating how long it will take for the QTS outcome to be updated on the system, and what the users’ next steps should be.
 
-The term “QTS pending” in the records overview page was interpreted differently by different users. Some viewed it as “about to receive QTS”, while others believed these candidates were “about to be recommended for QTS”.
+The status “QTS pending” in the trainee records page was interpreted differently by different users. Some viewed it as “about to receive QTS”, while others believed these candidates were “about to be recommended for QTS”.
 
 ### Managing trainee data
 
-Users easily navigated through the trainee record and were able to complete the actions required to manage ITT data in DTTP, though some felt a little overwhelmed and would prefer a landing page.
+Users easily navigated through the trainee records screen and were able to complete the actions required to manage ITT data in DTTP, though some felt a little overwhelmed and would prefer a landing page before they got to this screen.
 
 > “This is very clear, very different to what we currently see. The system will update automatically which means you always know exactly what stage the applicant is at.”
 
@@ -106,9 +104,9 @@ Some users had issues finding the export button, struggled to deselect filters, 
 
 What we've learned
 
-* we’ve enabled  users to complete all the tasks required to handle and input assessment only  data
+* we’ve enabled users to complete all the tasks required to handle and input assessment only data
 * we were able to serve most of their needs around clarity and efficiency
-* the users navigated the service intuitively and much quicker than DTTP
+* the users navigated the service intuitively and much quicker than compared to DTTP
 * users understood what data was requested and we were able to confirm what data they would be able to provide it in a real-life scenario 
 
 > “I think if this could be rolled out across everything [all routes], then it would make my job a lot easier.”
