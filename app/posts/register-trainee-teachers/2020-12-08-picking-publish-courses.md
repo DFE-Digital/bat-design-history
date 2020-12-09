@@ -1,7 +1,7 @@
 ---
 title: Picking courses from Publish
 description:
-date: 2020-12-08
+date: 2020-12-02
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
