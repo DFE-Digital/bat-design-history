@@ -1,6 +1,6 @@
 ---
 title: Collecting trainee start date
-description:
+description: Adding a second date in addition to the course start date
 date: 2020-12-01
 ---
 
