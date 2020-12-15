@@ -107,7 +107,7 @@ Some users had issues finding the export button, struggled to deselect filters, 
 * we’ve enabled users to complete all the tasks required to handle and input assessment only data
 * we were able to serve most of their needs around clarity and efficiency
 * the users navigated the service intuitively and much quicker than compared to DTTP
-* users understood what data was requested and we were able to confirm what data they would be able to provide it in a real-life scenario 
+* users understood what data was requested and we were able to confirm that they would be able to provide it in a real-life scenario
 
 > “I think if this could be rolled out across everything [all routes], then it would make my job a lot easier.”
 
