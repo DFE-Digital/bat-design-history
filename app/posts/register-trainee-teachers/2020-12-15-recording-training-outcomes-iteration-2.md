@@ -30,7 +30,7 @@ A more likely scenario is for the trainee to either be withdrawn if they’re un
 
 > “We would usually withdraw rather than say that they failed the programme.”
 
-> “This would be really rare, normally would withdraw before this point.
+> “This would be really rare, normally would withdraw before this point.”
 >
 >They’d be informed of this process, it has to be ratified by executive boards, lots of paperwork before this point.
 >
