@@ -40,7 +40,7 @@ A more likely scenario is for the trainee to either be withdrawn if they’re un
 
 ## Future work
 
-Now that we know a potential scenario is to withdraw a trainee who’s likely to fail, we need to revise the reasons for withdrawal - ensuring there’s an option  that covers preempting failure.
+Now that we know a potential scenario is to withdraw a trainee who’s likely to fail, we need to revise the reasons for withdrawal - ensuring there’s an option that covers preempting failure.
 
 We also need to consider how we’ll accommodate trainees who are not on track to meet the QTS standards on time and need an extension.
 
