@@ -4,7 +4,7 @@ description: Removing the option for failure when recording training outcomes
 date: 2020-12-15
 ---
 
-In the [previous iteration of recording training outcomes](/register-trainee-teachers/recording-training-outcomes/) we made the assumption that  our users sometimes withdraw trainees when recording that they did not meet the QTS standards.
+In the [previous iteration of recording training outcomes](/register-trainee-teachers/recording-training-outcomes/) we made the assumption that our users sometimes withdraw trainees when recording that they did not meet the QTS standards.
 
 User research has taught us that our understanding did not reflect real user behaviour. Recording a “failure outcome” is not something users typically do. 
 
@@ -30,13 +30,7 @@ A more likely scenario is for the trainee to either be withdrawn if they're unli
 
 > “We would usually withdraw rather than say that they failed the programme.”
 
-> “This would be really rare, normally would withdraw before this point.
->
->They’d be informed of this process, it has to be ratified by executive boards, lots of paperwork before this point.
->
->Would also be possibly given an extension, assuming no appeals, then would need to confirm that here.
->
->This would all happen on a case by case basis, would be doing additional work with them, adapting the course to suit them, could be happening in the third month of the year. Wouldn’t offer an extension to someone who isn’t going to get there regardless.”
+> “This would be really rare, normally would withdraw before this point. They’d be informed of this process, it has to be ratified by executive boards, lots of paperwork before this point. Would also be possibly given an extension, assuming no appeals, then would need to confirm that here. This would all happen on a case by case basis, would be doing additional work with them, adapting the course to suit them, could be happening in the third month of the year. Wouldn’t offer an extension to someone who isn’t going to get there regardless.”
 
 ## Future work
 
