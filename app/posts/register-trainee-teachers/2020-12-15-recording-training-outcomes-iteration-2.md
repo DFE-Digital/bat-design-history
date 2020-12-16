@@ -30,7 +30,7 @@ A more likely scenario is for the trainee to either be withdrawn if they're unli
 
 > “We would usually withdraw someone, rather than say that they failed the programme.”
 
-> “[Failing] would be really rare, normally we would withdraw them before this point. If the trainee was not on track to pass, “they’d be informed... it has to be ratified by our executive boards -there’s lots of paperwork before we get to this point. They would also possibly be given an extension, assuming they don’t appeal the decision We’d need to confirm that here [on DTTP/ Register]. This would all happen on a case by case basis. We would be doing additional work with them, adapting the course to suit them - it could be happening in the third month of the year. We wouldn’t offer an extension to someone who isn’t going to get there regardless.”
+> “[Failing] would be really rare, normally we would withdraw them before this point. If the trainee was not on track to pass, they’d be informed... it has to be ratified by our executive boards - there’s lots of paperwork before we get to this point. They would also possibly be given an extension, assuming they don’t appeal the decision. We’d need to confirm that here [on DTTP/ Register]. This would all happen on a case by case basis. We would be doing additional work with them, adapting the course to suit them - it could be happening in the third month of the year. We wouldn’t offer an extension to someone who isn’t going to get there regardless.”
 
 ## Future work
 
