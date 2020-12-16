@@ -18,7 +18,7 @@ Withdrawal is not the default next step in the process for a trainee whose asses
 
 What’s more, failure is actually a rare outcome. 
 
-A more likely scenario is for the trainee to either be withdrawn if they're unlikely to pass, or have their course extended if they're likely to pass but need more time. 
+A more likely scenario is for the trainee to either be withdrawn if they’re unlikely to pass, or have their course extended if they’re likely to pass but need more time. 
 
 ## What our users said
 
