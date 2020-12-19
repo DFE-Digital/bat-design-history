@@ -9,15 +9,15 @@ module.exports = function (eleventyConfig) {
     serveStaticOptions: {
       extensions: ['html']
     }
-  });
+  })
 
   // Template libraries
-  eleventyConfig.setLibrary('njk', require('./lib/libraries/nunjucks'));
-  eleventyConfig.setLibrary('md', require('./lib/libraries/markdown'));
+  eleventyConfig.setLibrary('njk', require('./lib/libraries/nunjucks'))
+  eleventyConfig.setLibrary('md', require('./lib/libraries/markdown'))
 
   // Plugins
-  eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
-  eleventyConfig.addPlugin(require('@11ty/eleventy-navigation'));
+  eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'))
+  eleventyConfig.addPlugin(require('@11ty/eleventy-navigation'))
 
   // Filters
   eleventyConfig.addFilter('date', require('./lib/filters/date'))
@@ -34,39 +34,39 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('widont', require('./lib/filters/widont'))
 
   // Passthrough
-  eleventyConfig.addPassthroughCopy('./app/documents');
-  eleventyConfig.addPassthroughCopy('./app/images');
+  eleventyConfig.addPassthroughCopy('./app/documents')
+  eleventyConfig.addPassthroughCopy('./app/images')
   eleventyConfig.addPassthroughCopy({
     'node_modules/govuk-frontend/govuk/assets': 'assets'
-  });
+  })
 
   // Enable data deep merge
-  eleventyConfig.setDataDeepMerge(true);
+  eleventyConfig.setDataDeepMerge(true)
 
   // Collections
-  eleventyConfig.addCollection('apply-for-teacher-training', function(collection) {
-    return collection.getFilteredByTag('apply-for-teacher-training').filter(function(item) {
-      return !item.data.tags.includes('user-need');
-    });
-  });
+  eleventyConfig.addCollection('apply-for-teacher-training', collection => {
+    return collection.getFilteredByTag('apply-for-teacher-training').filter(item => {
+      return !item.data.tags.includes('user-need')
+    })
+  })
 
-  eleventyConfig.addCollection('manage-teacher-training-applications', function(collection) {
-    return collection.getFilteredByTag('manage-teacher-training-applications').filter(function(item) {
-      return !item.data.tags.includes('user-need');
-    });
-  });
+  eleventyConfig.addCollection('manage-teacher-training-applications', collection => {
+    return collection.getFilteredByTag('manage-teacher-training-applications').filter(item => {
+      return !item.data.tags.includes('user-need')
+    })
+  })
 
-  eleventyConfig.addCollection('publish-teacher-training-courses', function(collection) {
-    return collection.getFilteredByTag('publish-teacher-training-courses').filter(function(item) {
-      return !item.data.tags.includes('user-need');
-    });
-  });
+  eleventyConfig.addCollection('publish-teacher-training-courses', collection => {
+    return collection.getFilteredByTag('publish-teacher-training-courses').filter(item => {
+      return !item.data.tags.includes('user-need')
+    })
+  })
 
-  eleventyConfig.addCollection('register-trainee-teachers', function(collection) {
-    return collection.getFilteredByTag('register-trainee-teachers').filter(function(item) {
-      return !item.data.tags.includes('user-need');
-    });
-  });
+  eleventyConfig.addCollection('register-trainee-teachers', collection => {
+    return collection.getFilteredByTag('register-trainee-teachers').filter(item => {
+      return !item.data.tags.includes('user-need')
+    })
+  })
 
   // Config
   return {
@@ -81,5 +81,5 @@ module.exports = function (eleventyConfig) {
     },
     templateFormats: ['njk', 'md'],
     passthroughFileCopy: true
-  };
-};
+  }
+}
