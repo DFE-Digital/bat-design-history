@@ -1,6 +1,6 @@
 ---
 title: Let users turn email notifications on and off
-description: Some users check the service regularly and do not need to receive an email every time an application's status changes. We're going to let those users turn off notifications.
+description: Some users check the service regularly and do not need to receive an email every time an application’s status changes. We’re going to let those users turn off notifications.
 date: 2020-12-14
 ---
 
@@ -41,4 +41,3 @@ The hint text explains what emails are included, since the service will still se
     }
   }]
 }) }}
-
