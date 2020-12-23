@@ -18,7 +18,7 @@ These are all changes which are not triggered by a provider, so the user may not
 
 Some users do not find the emails useful because they receive too many. We want to offer the ability to turn off notifications.
 
-We've added a new section to 'Your account', called 'Email notifications'. This is a page with a pair of radio buttons to turn email notifications on or off, with a green button to save the setting.
+We've added a new section to ‘Your account’, called ‘Email notifications’. This is a page with a pair of radio buttons to turn email notifications on or off, with a green button to save the setting.
 
 The hint text explains what emails are included, since the service will still send users system generated emails which are not related to applications.
 
