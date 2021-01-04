@@ -1,6 +1,6 @@
 ---
 title: Bulk actions on a group of records
-description:
+description: Letting providers do common actions in one go
 date: 2020-12-18
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
