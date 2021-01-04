@@ -15,7 +15,7 @@ We can help support these two processes by letting providers perform actions in 
 
 Initial assumptions:
 
-* We’ll need all details to be the same for the selected group - so for QTS this means the dates will need to be the same
+* All details will need to be the same for the selected group, for example the entire group will be recommended for QTS on the same date
 * Our existing options for filters will be sufficient for providers to get to the right set of trainees
 
 We’ve set up actions to happen in a few stages:
@@ -59,4 +59,3 @@ We’ve set it up like this so in the future we may be able to build on this fea
 We’d like to improve on how we link to the bulk actions flow. It might be better to link directly to a specific action instead of a picker. However it’ll take some time to find the best way to do this - so for the first version we’re keeping it as a separate flow.
 
 We’d also like to explore letting providers directly pick trainees from the trainee list - but this has complications as you’d need to deal with cases where providers pick trainees with incompatible actions.
-
