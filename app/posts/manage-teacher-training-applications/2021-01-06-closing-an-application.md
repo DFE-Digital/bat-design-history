@@ -1,7 +1,7 @@
 ---
-title: Closing an application at any time (withdrawal versus rejection)
-description: Looking into how we can improve the process for closing an application at any time
-date: 2020-01-06
+title: Closing an application (withdrawal versus rejection)
+description: Attempting to improve the way to close an application at any time
+date: 2021-01-06
 ---
 
 ## Background
@@ -44,7 +44,7 @@ So we want to look at ways to improve the process for closing an application at 
 ## Key metrics
 
 - less requests through support
-- more candidates applying again / being successful when they do apply
+- more candidates applying again or being successful when they do apply
 
 ## What we did and why
 
@@ -54,19 +54,14 @@ So we want to look at ways to improve the process for closing an application at 
 - Let providers give additional feedback even if the reason given was that the course is full because if the candidate was poor, then the course being full is not the main reason for closing the application
 - We put questions that are not a reflection of the candidate toward the bottom of the form
 - Once an offer has been made, we hide irrelevant questions like safeguarding and performance at interview
+- Replace ‘Declined’, ‘Rejected’, ‘Offer withdrawn’ and ‘Application withdrawn’ statuses with ‘Closed’
+- Direct users to updating the status of a condition if they choose ‘Close application’ when in the ‘Accepted’ state
 
 ## Giving a choice back to candidates under certain circumstances
 
 We think that candidates should be given a choice back if their application is closed through no fault of their own. For example, when the course is full.
 
-## What we want to know from research
-
-- Do users need to distinguish between applications that were closed for different reasons on the application list?
-- Do users understand what ‘Close application’ means?
-- Can users figure out how to close an application when their mental model is to withdraw an application?
-- Do some users go to close an application when they want to mark a condition as not met?
-
-## Other things we considered and discarded
+## Other options we discarded for now
 
 We originally put ‘Close application’ in a sidebar on the application page.
 
@@ -75,3 +70,70 @@ But from previous reseach and on the basis that we currently have ‘Withdraw of
 We also tried to only show ‘Close application’ under the candidate’s name when in the offered, accepted and conditions met states. This seemed sensible on the basis that the prompts let users close the application - like when making a decision.
 
 But that meant an application couldn’t be closed when in the deferred state. So we decided to put ‘Close application’ just under the name at all times.
+
+## What we want to know from research
+
+- Do users understand what ‘Close application’ means?
+- Can users figure out how to close an application when their mental model is to withdraw an application?
+- Do some users go to close an application when they want to mark a condition as not met?
+- Do users need to distinguish between applications that were closed for different reasons on the application list?
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Application list",
+    img: {
+      src: "application-list.png"
+    }
+  }, {
+    text: "Application details (when in ‘Interviewing’ state)",
+    img: {
+      src: "application-details.png"
+    }
+  }, {
+    text: "Offer page (when in ‘Offered’ state)",
+    img: {
+      src: "offer-page.png"
+    }
+  }, {
+    text: "Make decision page",
+    img: {
+      src: "make-decision.png"
+    }
+  }, {
+    text: "Close application step 1 (pre offer)",
+    img: {
+      src: "close-application-01--pre-offer.png"
+    }
+  }, {
+    text: "Close application step 1 (post offer)",
+    img: {
+      src: "close-application-01--post-offer.png"
+    }
+  }, {
+    text: "Close application step 1 (post accepted)",
+    img: {
+      src: "close-application-01--post-accepted.png"
+    }
+  }, {
+    text: "Close application step 2 (pre offer)",
+    img: {
+      src: "close-application-02--pre-offer.png"
+    }
+  }, {
+    text: "Close application step 3 (pre offer)",
+    img: {
+      src: "close-application-03--pre-offer.png"
+    }
+  }, {
+    text: "Close application step 4 (pre offer)",
+    img: {
+      src: "close-application-03--pre-offer.png"
+    }
+  }, {
+    text: "Interstitial page when marking a condition as not met",
+    img: {
+      src: "interstitial.png"
+    }
+  }]
+}) }}
