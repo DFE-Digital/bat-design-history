@@ -2,60 +2,63 @@
 title: Closing an application (withdrawal versus rejection)
 description: Attempting to improve the way to close an application at any time
 date: 2021-01-06
+related:
+  items:
+  - text: Reasons for closing an application
+    href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
+    description: Map of what reasons are available at what stage of the application process
 ---
 
 ## Background
 
-Currently, candidates can end their application by:
+Candidates can end their application by:
 
 - withdrawing their application (application withdrawn)
 - declining an offer (declined)
 
 They might also request their application to be withdrawn which would currently have to be done in Support.
 
-Currently, providers can close an application by:
+Providers can close an application by:
 
-- rejecting an application (until an offer is made)
-- letting the deadline for making a decision lapse
-- withdrawing an offer
-- marking a condition as not met
+- rejecting an application (rejected)
+- not responding to an application before the deadline (rejected)
+- withdrawing an offer (offer withdrawn)
+- marking a condition as not met (conditions not met)
 
-Currently it’s not always clear to providers what the difference is between rejection and withdrawal. And providers give candidates different types of feedback depending on what’s being done.
+Providers give candidates different types of feedback depending on what they’re doing. For example, when rejecting a candidate, providers fill out structured reasons for rejection. Whereas, when withdrawing an offer, they get a free text box.
 
-For example, when rejecting a candidate initially, providers fill out structured reasons for rejection. Whereas, when withdrawing an offer, they get a free text box.
+It’s not always clear to providers what the difference is between rejection and withdrawal.
 
-So we want to look at ways to improve the process for closing an application at any time.
+And an application can not be always be closed depending on the status. For example, if a candidate stops responding after they accept an offer, there’s no way to close the application besides marking a condition as not met.
 
 ## Why are we doing this?
 
-- to give candidates accurate and useful feedback why they were unsuccessful
-- to allow candidates to be withdrawn at their request
-- to allow providers to process applications where candidates have disappeared or stopped responding
-- to make it easier for providers to choose the right action without getting hung up on terminology
-- to stop providers getting punished for rejections
-- to give providers confidence that they won’t get punished
-- to make sure DfE can accurately differentiate between withdrawals and rejections
+We’re doing this work to:
+
+- make it easier for providers to choose the right action without getting hung up on terminology
+- allow providers to process applications where candidates have disappeared or stopped responding
+- give providers confidence that they won’t get punished about rejecting an application
+- give candidates useful feedback about why they were unsuccessful
+- allow candidates to be withdrawn at their request
+- make sure DfE can accurately differentiate between withdrawals and rejections
 
 ## What outcomes are we looking for
 
-- less or no requests via support to ‘close off’ applications
-- less or no applications being incorrectly marked as automatically rejected, automatically declined
-
-## Key metrics
-
-- less requests through support
-- more candidates applying again or being successful when they do apply
+- less or no support requests to close applications
+- less or no applications being incorrectly marked as automatically rejected or automatically declined
+- more candidates applying again and being successful when they do
 
 ## What we did and why
 
-- Replaced any use of ‘reject’ and ‘withdraw’ to ‘Close application’ so that users do not get hung up on terminology
-- Kept all questions on the first screen for closing an application as it’s more work to split them up for this round of research
-- Always let users close an application (unless it’s already been closed) so that there’s a consistent way to close an application regardless of the status
-- Let providers give additional feedback even if the reason given was that the course is full because if the candidate was poor, then the course being full is not the main reason for closing the application
-- We put questions that are not a reflection of the candidate toward the bottom of the form
-- Once an offer has been made, we hide irrelevant questions like safeguarding and performance at interview
+- Replaced the words ‘reject application’ and ‘withdraw offer’ to ‘Close application’ so that users do not get hung up on terminology
 - Replace ‘Declined’, ‘Rejected’, ‘Offer withdrawn’ and ‘Application withdrawn’ statuses with ‘Closed’
-- Direct users to updating the status of a condition if they choose ‘Close application’ when in the ‘Accepted’ state
+- Always let users close an application (unless it’s already been closed) so that there’s a consistent way to close an application regardless of the status
+- Kept all questions on the first screen for closing an application as it’s more work to split them up for this round of research
+- We put questions that are not a reflection of the candidate toward the bottom of the form
+- Once an offer has been made, irrelevant questions like safeguarding and performance at interview are removed
+- Let providers give additional feedback when the course is full because if the candidate was poor, then the course being full is not the main reason for closing the application
+- Let users navigate easily to change the status of a condition if they choose ‘Close application’ when in the ‘Accepted’ state
+- Kept the ‘performance at interview’ question in the ‘Received’ state because a provider may not use the interview feature
 
 ## Giving a choice back to candidates under certain circumstances
 
@@ -77,6 +80,14 @@ But that meant an application couldn’t be closed when in the deferred state. S
 - Can users figure out how to close an application when their mental model is to withdraw an application?
 - Do some users go to close an application when they want to mark a condition as not met?
 - Do users need to distinguish between applications that were closed for different reasons on the application list?
+- Do users mistake ‘Close application’ for going back to the application list?
+
+## Other things to explore later
+
+- Maybe the reason about qualifications overlaps with why a condition was not met. For example, they could not provide evidence of a qualification
+- The ‘offered a place elsewhere’ reason could a dedicated flow once UCAS is gone because Manage knows that a place was offered elsewhere. Peraps it could even be automated.
+- We currently skip the ‘other advice’ question when safeguarding and honesty is given as a reason. Maybe this is wrong?
+- We currently skip the ‘Future applications’ question when safeguarding, honesty and other offer is given as a reason. Maybe this is wrong?
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
