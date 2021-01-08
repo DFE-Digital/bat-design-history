@@ -24,6 +24,10 @@ Other considerations included:
 
 Neither considerations were implemented in this iteration as we could not establish a need for them.
 
+## Why we are doing this
+
+Providers have highlighted that when a candidate contacts them, they sometimes refer to their reference number. Being able to search by reference number as well as the candidate's name helps providers search more easily and accurately.
+
 ## How it works
 
 When a user carries out a search or filters the applications list, a list of applications matching the search or filters is returned. If no applications are found, users are presented with an empty state.
@@ -35,6 +39,11 @@ The search term is retained in the search field. Once a search has been carried 
 Navigating to an application, or away from the applications list page clears the search term, but not the filters. The search is considered to be complete. Filters remain selected to support the user’s workflow.
 
 If a single application is found via the search or filters or a combination of both, the user is presented with applications list containing the single application, not automatically taken to the detail of the application. This allows users to orientate themselves or correct mistakes before making a decision to view the application.
+
+If no applications are found, we show a message depending on the search and filter terms:
+- There are no results for ‘search term’.
+- There are no results for ‘search term’ and the selected filter.
+- There are no results for ‘search term’ and the selected filters.
 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
