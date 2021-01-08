@@ -41,6 +41,7 @@ Navigating to an application, or away from the applications list page clears the
 If a single application is found via the search or filters or a combination of both, the user is presented with applications list containing the single application, not automatically taken to the detail of the application. This allows users to orientate themselves or correct mistakes before making a decision to view the application.
 
 If no applications are found, we show a message depending on the search and filter terms:
+
 - There are no results for ‘search term’.
 - There are no results for ‘search term’ and the selected filter.
 - There are no results for ‘search term’ and the selected filters.
