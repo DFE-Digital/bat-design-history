@@ -9,7 +9,7 @@ related:
     description: Previous post outlining initial design
 ---
 
-An accessibility audit highlighted that our feedback form didn’t indicate that two of the questions, “What issues are there in this section?” and “Do you have any other feedback about this section?”.
+An accessibility audit highlighted that our feedback form didn’t indicate that two of the questions are optional: “What issues are there in this section?” and “Do you have any other feedback about this section?”.
 
 Whilst we could fix this adding the word "(optional)" to the legend and label, this would be a bit odd as it doesn’t really make sense for a user to not tick any of the checkboxes or provide any written feedback.
 
