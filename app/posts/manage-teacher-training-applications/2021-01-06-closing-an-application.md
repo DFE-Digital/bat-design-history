@@ -75,7 +75,7 @@ But from previous research and on the basis that we currently have ‘Withdraw o
 
 We also tried to only show ‘Close application’ under the candidate’s name when in the offered, accepted and conditions met states. This seemed sensible on the basis that the prompts let users close the application - like when making a decision.
 
-But that meant an application couldn’t be closed when in the deferred state. So we decided to put ‘Close application’ just under the name at all times.
+But that meant an application couldn’t be closed when in the deferred state. So we decided to put ‘Close application’ under the name at all times.
 
 ## What we want to know from research
 
