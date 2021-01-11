@@ -40,7 +40,7 @@ We’re doing this work to:
 - make it easier for providers to choose the right action without getting hung up on terminology
 - let providers close an application at any time throughout the application process
 - allow providers to process applications where candidates have disappeared or stopped responding
-- give providers confidence that they won’t get punished about rejecting an application
+- give providers confidence that they won’t get punished for rejecting an application
 - give candidates useful feedback about why they were unsuccessful
 - allow candidates to be withdrawn at their request
 - make sure DfE can accurately differentiate between withdrawals and rejections
