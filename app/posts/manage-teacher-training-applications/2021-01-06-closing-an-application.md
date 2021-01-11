@@ -18,7 +18,7 @@ Candidates can close their application by:
 - withdrawing their application (application withdrawn)
 - declining an offer (declined)
 
-They might also request their application to be withdrawn which would currently have to be done in Support.
+They might also request for their application to be withdrawn which would currently have to be done by the support team.
 
 Providers can close an application by:
 
