@@ -11,7 +11,9 @@ related:
 
 ## Background
 
-Candidates can end their application by:
+Candidates and providers can close applications for a number of reasons, leading to several different final application statuses.
+
+Candidates can close their application by:
 
 - withdrawing their application (application withdrawn)
 - declining an offer (declined)
