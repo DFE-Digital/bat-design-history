@@ -37,7 +37,10 @@ If no applications are found, we show a message depending on the search and filt
 - There are no results for ‘search term’.
 - There are no results for ‘search term’ and the selected filter.
 - There are no results for ‘search term’ and the selected filters.
+- There are no results for the selected filter.
+- There are no results for the selected filters.
 
+If no search term is provided when submitting a search, the user is presented with the list of applications.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
