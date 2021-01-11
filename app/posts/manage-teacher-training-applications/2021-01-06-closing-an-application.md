@@ -71,7 +71,7 @@ We think that candidates should be given a choice back if their application is c
 
 We originally put ‘Close application’ in a sidebar on the application page.
 
-But from previous reseach and on the basis that we currently have ‘Withdraw offer’ on the offer page, we think that users will need to close an application from the offer page (and potentially other pages).
+But from previous research and on the basis that we currently have ‘Withdraw offer’ on the offer page, we think that users will need to close an application from the offer page (and potentially other pages).
 
 We also tried to only show ‘Close application’ under the candidate’s name when in the offered, accepted and conditions met states. This seemed sensible on the basis that the prompts let users close the application - like when making a decision.
 
