@@ -31,7 +31,7 @@ Providers give candidates different types of feedback depending on what they’r
 
 It’s not always clear to providers what the difference is between rejection and withdrawal.
 
-And an application can not be always be closed depending on the status. For example, if a candidate stops responding after they accept an offer, there’s no way to close the application besides marking a condition as not met.
+There are also some situations in which an application cannot be closed. For example, if a candidate stops responding after they accept an offer then the only way to close the application is to mark a condition as not met.
 
 ## Why are we doing this?
 
