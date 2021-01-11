@@ -27,7 +27,7 @@ Providers can close an application by:
 - withdrawing an offer (offer withdrawn)
 - marking a condition as not met (conditions not met)
 
-Providers give candidates different types of feedback depending on what they’re doing. For example, when rejecting a candidate, providers fill out structured reasons for rejection. Whereas, when withdrawing an offer, they get a free text box.
+Providers give candidates different types of feedback depending on what they’re doing. For example, providers fill out structured reasons for rejection when rejecting a candidate. They get a free text box instead when withdrawing an offer.
 
 It’s not always clear to providers what the difference is between rejection and withdrawal.
 
