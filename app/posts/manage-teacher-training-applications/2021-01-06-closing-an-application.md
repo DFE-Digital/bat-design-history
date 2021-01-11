@@ -90,7 +90,7 @@ But that meant an application couldn’t be closed when in the deferred state. S
 - Rejection due to qualifications may overlap with why a condition was not met. For example, the candidate could not provide evidence of a qualification.
 - The ‘offered a place elsewhere’ reason could a dedicated flow once UCAS is gone because Manage knows that a place was offered elsewhere. Perhaps it could even be automated.
 - We currently skip the ‘other advice’ question when safeguarding and honesty is given as a reason. Maybe this is wrong?
-- We currently skip the ‘Future applications’ question when safeguarding, honesty and other offer is given as a reason. Maybe this is wrong?
+- We currently skip the ‘future applications’ question when safeguarding, honesty or other offer are given as a reason. Maybe this is wrong?
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
