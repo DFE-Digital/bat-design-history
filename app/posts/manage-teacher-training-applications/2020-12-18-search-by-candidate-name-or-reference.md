@@ -30,7 +30,7 @@ The search term is retained in the search field. Once a search has been carried 
 
 Navigating to an application, or away from the applications list page clears the search term, but not the filters. The search is considered to be complete. Filters remain selected to support the user’s workflow.
 
-If a single application is found via the search or filters or a combination of both, the user is presented with applications list containing the single application, not automatically taken to the detail of the application. This allows users to orientate themselves or correct mistakes before making a decision to view the application.
+If one application is found when searching or filtering, it’s shown in the application list. The user is not automatically taken to the application page. This allows users to orientate themselves or correct mistakes before making a decision to view the application.
 
 If no applications are found, we show a message depending on the search and filter terms:
 
