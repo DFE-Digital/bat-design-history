@@ -28,7 +28,7 @@ Searching and filtering are independent of one another. This means, if someone f
 
 The search term is retained in the search field. Once a search has been carried out, a ‘Clear search’ link is provided below the search field, allowing users to reset the search back to the initial state. The initial state may be a full applications list or a sub-set if the list has previously been filtered.
 
-Navigating to an application, or away from the applications list page clears the search term, but not the filters. The search is considered to be complete. Filters remain selected to support the user’s workflow.
+Navigating to an application, or away from the applications list page clears the search term, but not the filters. The search is considered to be complete.
 
 If one application is found when searching or filtering, it’s shown in the application list. The user is not automatically taken to the application page. This allows users to orientate themselves or correct mistakes before making a decision to view the application.
 
