@@ -6,33 +6,25 @@ date: 2020-12-18
 
 We updated the search to allow users to find applications by reference in addition to candidate name.
 
-The search works independently from the filters, allowing users to filter or search in whatever way suits their needs.
-
-This change included:
-
-- moving the search form to above the applications list to accept terms that are compared to a candidate’s full name or reference
-- removing the candidate name search from the filters side bar
-- adding the reference number to each application listing
-- retaining the search term in the search field
-- providing a way to clear the search term once a search has been carried out, allowing users to get back to the original list state
-- updating the text and position of the clear filter action, which also resolved one of the issues highlighted in the recent accessibility review
-
-Other considerations included:
-
-- highlighting the search term in the applications that match
-- introducing a sorting mechanism (eg by relevance, alphabetical ascending/descending, etc) to allow users to sort the list beyond the default priority
-
-Neither considerations were implemented in this iteration as we could not establish a need for them.
-
 ## Why we are doing this
 
 Providers have highlighted that when a candidate contacts them, they sometimes refer to their reference number. Being able to search by reference number as well as the candidate's name helps providers search more easily and accurately.
 
+## What we changed and why
+
+This change included:
+
+- moving the search form out of the filters sidebar to above the applications list giving more space for search and solving the lack of a search button next to the field in the filters sidebar
+- adding the reference number to each application listing to help users find the item they are searching for
+- retaining the search term in the search field so users can easily recall and modify their search if needed
+- providing a way to clear the search term once a search has been carried out, allowing users to get back to the original list state without having to submit an empty search
+- updating the text of the clear filter action from ‘Clear’ to ‘Clear filters’ to make the action less ambiguous
+
 ## How it works
 
-When a user carries out a search or filters the applications list, a list of applications matching the search or filters is returned. If no applications are found, users are presented with an empty state.
+When a user carries out a search or filters the applications list, a list of applications matching the search or filters is returned.
 
-Searching and filtering are independent of one another. This means, if someone first searches for an application and then applies one or more filters, the filters act upon the sub-set of applications returned by the initial search. Similarly, if someone first filters the applications list, a subsequent search is across the applications in the filtered list, not the full list.
+Searching and filtering are independent of one another. This means, if someone first searches for an application and then applies one or more filters, the filters act upon the sub-set of applications returned by the initial search. Similarly, if someone first filters the applications list, a subsequent search is across the applications in the filtered list, not the full list. In addition clearing a search will not clear the filters and clearing the filters will not clear the search.
 
 The search term is retained in the search field. Once a search has been carried out, a ‘Clear search’ link is provided below the search field, allowing users to reset the search back to the initial state. The initial state may be a full applications list or a sub-set if the list has previously been filtered.
 
@@ -50,16 +42,46 @@ If no applications are found, we show a message depending on the search and filt
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Applications list – No search or filters"
+    text: "No search or filters",
+    caption: "The default applications list with no search or filters.",
+    img: {
+      src: "applications-list-no-search-or-filters.png"
+    }
   }, {
-    text: "Applications list – Search by name"
+    text: "Search by name",
+    caption: "The applications list showing a candidate name search with the search term retained in the search field.",
+    img: {
+      src: "applications-list-search-by-name.png"
+    }
   }, {
-    text: "Applications list – Search by reference"
+    text: "Search by reference",
+    caption: "The applications list showing a candidate reference search with the search term retained in the search field.",
+    img: {
+      src: "applications-list-search-by-reference.png"
+    }
   }, {
-    text: "Applications list – Search by partial string"
+    text: "Search by partial string",
+    caption: "The applications list showing the search accepts a full or partial string.",
+    img: {
+      src: "applications-list-search-by-partial-string.png"
+    }
   }, {
-    text: "Applications list – No search results"
+    text: "No search results",
+    img: {
+      src: "applications-list-no-search-results.png"
+    }
   }, {
-    text: "Applications list – Filtered search"
+    text: "Filtered search",
+    caption: "The applications list showing both search and filters used.",
+    img: {
+      src: "applications-list-filtered-search.png"
+    }
   }]
 }) }}
+
+## Other considerations
+
+- highlighting the search term in the applications that match
+- introducing a sorting mechanism (eg by relevance, alphabetical ascending/descending, etc) to allow users to sort the list beyond the default priority
+
+Neither considerations were implemented in this iteration as we could not establish a need for them.
