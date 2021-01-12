@@ -8,29 +8,34 @@ We updated the search to allow users to find applications by reference in additi
 
 ## Why we are doing this
 
-Providers have highlighted that when a candidate contacts them, they sometimes refer to their reference number. Being able to search by reference number as well as the candidate's name helps providers search more easily and accurately.
+Providers have highlighted the need to be able to search for an application by reference in addition to searching by candidate name.
+
+Searching by reference is more accurate compared to searching by name since many candidates can have the same name, but a single candidate has a single reference number.
+
+Searching by reference is available in the UCAS system and we are reflecting the functionality in the manage teacher training applications service.
 
 ## What we changed and why
 
 This change included:
 
 - moving the search form out of the filters sidebar to above the applications list giving more space for search and solving the lack of a search button next to the field in the filters sidebar
+- comparing search terms to both a candidate’s name and reference
 - adding the reference number to each application listing to help users find the item they are searching for
-- retaining the search term in the search field so users can easily recall and modify their search if needed
+- retaining the search term in the search field after a search has been carried out, so that users can easily recall and modify their search if needed
 - providing a way to clear the search term once a search has been carried out, allowing users to get back to the original list state without having to submit an empty search
 - updating the text of the clear filter action from ‘Clear’ to ‘Clear filters’ to make the action less ambiguous
 
 ## How it works
 
-When a user carries out a search or filters the applications list, a list of applications matching the search or filters is returned.
+When a user carries out a search or filters the applications list, a list of applications matching the search and filters is returned.
 
-Searching and filtering are independent of one another. This means, if someone first searches for an application and then applies one or more filters, the filters act upon the sub-set of applications returned by the initial search. Similarly, if someone first filters the applications list, a subsequent search is across the applications in the filtered list, not the full list. In addition clearing a search will not clear the filters and clearing the filters will not clear the search.
+Searching and filtering are independent of one another. This means that if someone first searches for an application and then applies one or more filters, the filters act upon the sub-set of applications returned by the initial search. Similarly, if someone first filters the applications list, a subsequent search is across the applications in the filtered list, not the full list. In addition clearing a search will not clear the filters and clearing the filters will not clear the search.
 
 The search term is retained in the search field. Once a search has been carried out, a ‘Clear search’ link is provided below the search field, allowing users to reset the search back to the initial state. The initial state may be a full applications list or a sub-set if the list has previously been filtered.
 
-Navigating to an application, or away from the applications list page clears the search term, but not the filters. The search is considered to be complete.
+Navigating to an application, or away from the applications list page, clears the search term but not the filters. The search is considered to be complete.
 
-If one application is found when searching or filtering, it’s shown in the application list. The user is not automatically taken to the application page. This allows users to orientate themselves or correct mistakes before making a decision to view the application.
+If a single application is found via the search, filters or a combination of both, the user is presented with an applications list containing the single application. They are not automatically taken to the detail of the application. This allows users to orientate themselves or correct mistakes before making a decision to view the application.
 
 If no applications are found, we show a message depending on the search and filter terms:
 
@@ -87,4 +92,4 @@ If no search term is provided when submitting a search, the user is presented wi
 - highlighting the search term in the applications that match
 - introducing a sorting mechanism (eg by relevance, alphabetical ascending/descending, etc) to allow users to sort the list beyond the default priority
 
-Neither considerations were implemented in this iteration as we could not establish a need for them.
+Neither consideration was implemented in this iteration as we could not establish a need for them.
