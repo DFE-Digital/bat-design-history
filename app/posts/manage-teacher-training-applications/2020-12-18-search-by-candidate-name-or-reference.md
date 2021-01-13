@@ -8,7 +8,7 @@ We updated the search to allow users to find applications by reference in additi
 
 ## Why we are doing this
 
-Providers have highlighted the need to be able to search for an application by reference in addition to searching by candidate name.
+Providers need to be able to search for an application by reference in addition to searching by candidate name.
 
 Searching by reference is more accurate compared to searching by name since many candidates can have the same name, but a single candidate has a single reference number.
 
