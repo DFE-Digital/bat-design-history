@@ -9,33 +9,32 @@ related:
     description: Map of what reasons are available at what stage of the application process
 ---
 
-We [previously explored a very different way to let providers close an application at any time](/manage-teacher-training-applications/closing-an-application/).
+We previously explored a [very different way to let providers close an application at any time](/manage-teacher-training-applications/closing-an-application/).
 
-But we weren’t happy with it for several reasons. Here’s a few of them:
+But we weren’t happy with it for several reasons.
 
-Firstly, having a process called ‘Close application’ (which is a new term) doesn’t always make sense. For example, when making a decision the choices were ‘Make offer’ and ‘Close application’.
+Firstly, having a process called ‘close application’ (which was a new term) didn’t always make sense. For example, when making a decision the choices were ‘make offer’ and ‘close application’.
 
-Secondly, having a new term caused us to end up with a new ‘Closed’ status.
+Secondly, having a new term caused us to end up with a new ‘closed’ status.
 
-Thirdly, if the user does click ‘Close application’ when making a decision, it’s strange that one of the reasons is ‘Because the candidate requested it’.
+Thirdly, if the user did click ‘close application’ when making a decision, it was strange that one of the reasons was ‘because the candidate requested it’.
 
-We tried changing the term to ‘Withdraw or reject application’ which felt better as we were using simple terms that are familiar. But if the user answers ‘No’ to all the structured reasons, then we didn’t know whether this would result in it being a rejection or a withdrawal.
+We tried changing the term to ‘withdraw or reject application’ which would familiar to users. But if the user answered ‘no’ to all the reasons, then we didn’t know whether this would result in it being a rejection or a withdrawal.
 
 ## What we did and why
 
-After more thought we realised that we have 2 main categories:
+After more thought we realised that we have 2 main categories of reasons for an application to not progress:
 
-Rejecting an application means it was unsuccessful. This may or may not be the candidate’s fault.
-
-Withdrawing an application. This is only ever triggered by a candidate.
+- A provider can reject an application or withdraw an offer. This may or may not be the candidate’s fault.
+- A candidate can withdraw an application. This is only ever triggered by a candidate – either by doing it themselves in the candidate service or by asking providers to do it for them.
 
 Trying to combine these 2 things was the source of the problems we were now facing.
 
-So we have gone back to the previous design where the option behind ‘Make decision’ is ‘Reject application’.
+So we have gone back to the previous design where the option behind ‘make decision’ is ‘reject application’.
 
-And we’ve added an option to ‘Withdraw at candidate’s request’ at any time throughout the process.
+And we’ve added an option to ‘withdraw at candidate’s request’ at any time throughout the process.
 
-This work is consciously not polished and will be tested in research before doing that.
+We no longer need a question under ‘withdraw offer’ to redirect users to update the status of conditions. This is because withdrawing an offer goes back to how it was before. An offer can only be withdrawn when in the ‘offered’ state.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
