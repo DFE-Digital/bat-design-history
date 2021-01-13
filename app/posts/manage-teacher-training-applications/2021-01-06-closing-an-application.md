@@ -1,6 +1,6 @@
 ---
 title: Closing an application (withdrawal versus rejection)
-description: Attempting to improve the way to close an application at any time
+description: Exploration to improve the way to close an application at any time
 date: 2021-01-06
 related:
   items:
