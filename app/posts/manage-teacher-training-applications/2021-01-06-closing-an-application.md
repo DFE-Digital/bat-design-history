@@ -1,6 +1,6 @@
 ---
 title: Closing an application (withdrawal versus rejection)
-description: Attempting to improve the way to close an application at any time
+description: Exploration to improve the way to close an application at any time
 date: 2021-01-06
 related:
   items:
@@ -10,22 +10,6 @@ related:
 ---
 
 ## Background
-
-Candidates and providers can close applications for a number of reasons, leading to several different final application statuses.
-
-Candidates can close their application by:
-
-- withdrawing their application (application withdrawn)
-- declining an offer (declined)
-
-They might also request for their application to be withdrawn which would currently have to be done by the support team.
-
-Providers can close an application by:
-
-- rejecting an application (rejected)
-- not responding to an application before the deadline (rejected)
-- withdrawing an offer (offer withdrawn)
-- marking a condition as not met (conditions not met)
 
 Providers give candidates different types of feedback depending on what they’re doing. For example, providers fill out structured reasons for rejection when rejecting a candidate. They get a free text box instead when withdrawing an offer.
 
