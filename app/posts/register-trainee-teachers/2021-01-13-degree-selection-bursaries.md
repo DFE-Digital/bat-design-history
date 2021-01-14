@@ -1,6 +1,6 @@
 ---
 title: Selecting which degree a bursary was awarded for
-description: A description just for Jesse
+description: Helping providers pick between multiple degrees to tell us which one attacted a bursary.
 date: 2021-01-13
 ---
 
