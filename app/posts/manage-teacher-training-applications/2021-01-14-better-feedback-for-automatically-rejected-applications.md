@@ -10,7 +10,7 @@ Firstly, they don’t get feedback straight away. Secondly, the feedback they ev
 
 If we give candidates the same type of feedback as normally rejected applications, they’ll be able to compare feedback more easily with other rejected applications. This will help to give them a better chance of applying again successfully.
 
-We also moved the record of the feedback from the top of the application details page to a separate ‘feedback’ page. This is because it doesn’t make sence on the application details page and pushes the application details down the page.
+We also moved the record of the feedback from the top of the application details page to a separate ‘feedback’ page. It doesn’t make sense for it to be on the application details page, which contains information submitted by the candidate, and pushes the application details down the page.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -51,5 +51,4 @@ We also moved the record of the feedback from the top of the application details
     }
   }]
 }) }}
-
 
