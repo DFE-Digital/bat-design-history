@@ -6,7 +6,7 @@ date: 2021-01-14
 
 At the moment, candidates are penalised in two ways when their application is automatically rejected.
 
-Firstly, they don’t get feedback. Secondly, the feedback they eventually receive is free text and inconsistent with feedback they would receive if they have another application rejected in the normal way.
+Firstly, they don’t get feedback straight away. Secondly, the feedback they eventually receive is free text and inconsistent with the structured feedback they would receive for an application rejected in the normal way.
 
 If we give candidates the same feedback as normally rejected applications, they’ll be able to compare feedback more easily and have a better chance of applying again successfully.
 
@@ -51,7 +51,6 @@ We also moved the record of the feedback from the top of the application details
     }
   }]
 }) }}
-
 
 
 
