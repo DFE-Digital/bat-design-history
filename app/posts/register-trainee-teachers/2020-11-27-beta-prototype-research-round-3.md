@@ -16,6 +16,8 @@ related:
     href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
 ---
 
+Research conducted: 23 to 27 November 2020
+
 The objective of our third research round was to achieve confidence in the proposed ITT data input for the assessment only (AO) route while continuing to improve our provider-led (Pl) journey.
 
 Since UR round 2 we made some key changes to the prototype:
