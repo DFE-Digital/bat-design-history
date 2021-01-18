@@ -19,6 +19,7 @@ related:
 The objective of our third research round was to achieve confidence in the proposed ITT data input for the assessment only (AO) route while continuing to improve our provider-led (Pl) journey.
 
 Since UR round 2 we made some key changes to the prototype:
+
 * added the sign in journey
 * changed the process of inputting programme data from manually typing the data to [selecting courses pulled from Publish](/register-trainee-teachers/picking-publish-courses/)
 * changed the [process of recording the assessment outcomes](/register-trainee-teachers/recording-training-outcomes/) to include failure and course extension
