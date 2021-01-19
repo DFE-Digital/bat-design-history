@@ -32,8 +32,8 @@ The intention was to answer the following questions:
 * What are the habits and needs around early data input and submitting for TRN (prior to course start)
 * How do providers refer to their courses and how familiar are they with the Publish course codes?
 * Do users understand our review and confirm features, as well as our error messages?
-* Are we meeting user needs around navigation, specifically searching for and sorting  trainee records?
-* Are we meeting user needs around recording assessment outcomes, especially alternative & negative ones?
+* Are we meeting user needs around navigation, specifically searching for and sorting trainee records?
+* Are we meeting user needs around recording assessment outcomes, especially alternative and negative ones?
 
 ## Who we tested with
 
