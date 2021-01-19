@@ -73,7 +73,7 @@ So far there is no interest in submitting for TRN early, before trainees have st
 
 Users did respond positively to the possibility of creating drafts as soon as they have the data - throughout the year. Yet despite this most also said they would still prefer to upload all the data in one go in September.
 
->“I don’t work over July/August. I [...] start uploading when I get the opportunity in September. 
+>“I don’t work over July / August. I [...] start uploading when I get the opportunity in September. 
 >
 >If I managed to move the way we work back [and] had more time in July then I might [input data earlier]. If we’re still interviewing, we would end up with part-done, part-not-done [records], it would get a bit disjointed. 
 >
