@@ -138,7 +138,7 @@ Currently a trainee is either withdrawn if they’re unlikely to pass assessment
 
 >“Normally they would withdraw before this point. They’d be informed of this process, it has to be ratified by executive boards, lots of paperwork before this point. We wouldn’t offer an extension to someone who isn’t going to get there regardless.”
 
-Read more on what [our users said about 'failing'](/register-trainee-teachers/recording-training-outcomes-iteration-2/#what-our-users-said).
+Read more on what [our users said about ‘failing’](/register-trainee-teachers/recording-training-outcomes-iteration-2/#what-our-users-said).
 
 Users act responsibly when it comes to updating outcomes on DTTP, but because an extension is not considered a formal “outcome” it is currently either not recorded at all or falls under deferrals.
 
