@@ -28,12 +28,12 @@ Since UR round 2 we made some key changes to the prototype:
 
 The intention was to answer the following questions:
 
-* How do users that are responsible for multiple providers (e.g. lead schools) manage data? 
-* What are the habits and needs around early data input and submitting for TRN (prior to course start)
-* How do providers refer to their courses and how familiar are they with the Publish course codes?
-* Do users understand our review and confirm features, as well as our error messages?
-* Are we meeting user needs around navigation, specifically searching for and sorting trainee records?
-* Are we meeting user needs around recording assessment outcomes, especially alternative and negative ones?
+* how do users that are responsible for multiple providers (e.g. lead schools) manage data? 
+* what are the habits and needs around early data input and submitting for TRN (prior to course start)
+* how do providers refer to their courses and how familiar are they with the Publish course codes?
+* do users understand our review and confirm features, as well as our error messages?
+* are we meeting user needs around navigation, specifically searching for and sorting trainee records?
+* are we meeting user needs around recording assessment outcomes, especially alternative and negative ones?
 
 ## Who we tested with
 
@@ -47,7 +47,7 @@ The intention was to answer the following questions:
 
 ### Sign in
 
-There's an immediate brand recognition of BAT and the request to cross-link between the services (e.g. create a landing page/hub at sign in from which they can get into Manage, Publish or Register). This coherence adds to our users’ confidence in our service.
+There’s an immediate brand recognition with the services we offer and the request to cross-link between those services (e.g. create a landing page/hub at sign in from which they can get into Manage, Publish or Register). This coherence adds to our users’ confidence in our service.
 
 >“I like the continuity between the systems. At the moment all the systems I’m using are completely different to each other, they’re asking for different information. Whereas this is using all the same terms, all the same language, it’s a lot easier to find things. Even down to how it’s structured and formatted on the page it’s easier to see what you’re looking for. Definitely prefer this once it’s all set up.”
 
@@ -55,7 +55,7 @@ There's an immediate brand recognition of BAT and the request to cross-link betw
 
 ### Early drafts and requesting TRN
 
-Currently the process of “registering trainees” seems to be viewed as one activity that starts with uploading data onto DTTP and finishes with putting the record through for TRN as a final step.
+Currently the process of registering trainees seems to be viewed as one activity that starts with uploading data onto DTTP and finishes with putting the record through for TRN as a final step.
 
 If we enable providers to input data throughout the year, then creating drafts early and submitting them for TRN once trainees have started become two distinct actions.
 
