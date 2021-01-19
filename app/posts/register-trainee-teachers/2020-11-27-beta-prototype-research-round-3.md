@@ -132,7 +132,7 @@ Trainees go through a standard assessment and can either pass or fail it. If the
 
 Currently a trainee is either withdrawn if they’re unlikely to pass assessment, or they get an extension if they’re likely to pass but need a bit more time.
 
-'Failing' is considered a rare exception. Failing and then staying on the course is entirely unrealistic.
+‘Failing’ is considered a rare exception. Failing and then staying on the course is entirely unrealistic.
 
 >“We’ve never had anybody fail. Something would be implemented before that, a remediation stage - 3 week period to make sure they pass. Or we extend the course in which case I would change the [programme] date.”
 
