@@ -16,7 +16,7 @@ We combined ‘offer declined’ and ‘offer declined automatically’ into one
 
 Only ‘application withdrawn’ has ‘by candidate’ in the label. This is because an application can be withdrawn by providers as well. And when a provider withdraws an application, they don’t need to be notified.
 
-We used radio buttons instead of checkboxes because the labels explicitly state what the user is doing. Checkbox labels are described as the type of email which means extra effort is needed to understand what ticking means.
+We used radio buttons instead of checkboxes because the labels explicitly state what the user is doing. Extra effort is needed to understand what ticking a checkbox means.
 
 ## How it works
 
@@ -52,4 +52,3 @@ Future work may include:
     }
   }]
 }) }}
-
