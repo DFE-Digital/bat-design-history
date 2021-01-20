@@ -2,6 +2,11 @@
 title: Managing individual email notifications
 description: Let users choose which emails they receive
 date: 2021-01-18
+related:
+  items:
+  - text: Email content changes to turn off notifications
+    href: https://docs.google.com/document/d/1FOT_jBRlMRLjcbyw_sz6IygwCNZkaBp__oRBRBEkn-Y/edit#heading=h.7yben527pu0m
+    description: A document showing the content that will appear at the bottom of each email notification
 ---
 
 Currently users can [turn off all email notifications](/manage-teacher-training-applications/turn-email-notifications-on-off/). But we know users want to specify which emails they receive.
