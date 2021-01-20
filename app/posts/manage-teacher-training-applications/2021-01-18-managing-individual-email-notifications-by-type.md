@@ -31,7 +31,7 @@ Users are given a link to the settings page at the bottom of every email that ca
 Future work may include:
 
 - being able to configure notifications separately based on the organisation or the relationship between the organisation and partner organisations.
-- changing the content of the email notifications to match the permissions. For example, if the user cannot make decisions, then there should not be a call to action in the email.
+- changing the content of the email notifications to match the permissions - for example, if the user cannot make decisions then there should not be a call to action in the email
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
