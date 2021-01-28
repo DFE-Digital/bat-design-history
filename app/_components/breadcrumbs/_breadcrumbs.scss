@@ -1,5 +1,5 @@
 $app-breadcrumbs-inverted-text-colour: govuk-colour("white");
-$app-breadcrumbs-inverted-border-colour: govuk-colour("light-blue");
+$app-breadcrumbs-inverted-border-colour: $dfe-brand-accent-colour;
 
 .app-breadcrumbs--inverted {
   @include govuk-responsive-margin(6, "bottom");

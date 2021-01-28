@@ -1,5 +1,133 @@
+@import url("https://rsms.me/inter/inter.css");
+
+// DfE colours
+$dfe-brand-colour: #003a69;
+$dfe-brand-accent-colour: #1d70b8; // govuk-colour("blue")
+$dfe-brand-colour: #003a69;
+$dfe-light-grey: #f5f5f5;
+$dfe-mid-grey: #cbcbcb;
+
 // GOV.UK Frontend styles
 $govuk-global-styles: true;
+$govuk-font-family: "Inter", sans-serif;
+$govuk-body-background-colour: $dfe-light-grey;
+$govuk-link-colour: $dfe-brand-colour;
+$govuk-link-hover-colour: $dfe-brand-accent-colour;
+$govuk-typography-scale: (
+  80: (
+    null: (
+      font-size: 53px,
+      line-height: 55px
+    ),
+    tablet: (
+      font-size: 80px,
+      line-height: 80px
+    ),
+    print: (
+      font-size: 53pt,
+      line-height: 1.1
+    )
+  ),
+  48: (
+    null: (
+      font-size: 32px,
+      line-height: 1.3
+    ),
+    tablet: (
+      font-size: 40px,
+      line-height: 1.3
+    ),
+    print: (
+      font-size: 32pt,
+      line-height: 1.15
+    )
+  ),
+  36: (
+    null: (
+      font-size: 24px,
+      line-height: 1.3
+    ),
+    tablet: (
+      font-size: 32px,
+      line-height: 1.3
+    ),
+    print: (
+      font-size: 24pt,
+      line-height: 1.05
+    )
+  ),
+  27: (
+    null: (
+      font-size: 18px,
+      line-height: 20px
+    ),
+    tablet: (
+      font-size: 27px,
+      line-height: 30px
+    ),
+    print: (
+      font-size: 18pt,
+      line-height: 1.15
+    )
+  ),
+  24: (
+    null: (
+      font-size: 18px,
+      line-height: 1.3
+    ),
+    tablet: (
+      font-size: 24px,
+      line-height: 1.3
+    ),
+    print: (
+      font-size: 18pt,
+      line-height: 1.15
+    )
+  ),
+  19: (
+    null: (
+      font-size: 15px,
+      line-height: 1.35
+    ),
+    tablet: (
+      font-size: 18px,
+      line-height: 1.45
+    ),
+    print: (
+      font-size: 14pt,
+      line-height: 1.15
+    )
+  ),
+  16: (
+    null: (
+      font-size: 14px,
+      line-height: 16px
+    ),
+    tablet: (
+      font-size: 16px,
+      line-height: 20px
+    ),
+    print: (
+      font-size: 14pt,
+      line-height: 1.2
+    )
+  ),
+  14: (
+    null: (
+      font-size: 12px,
+      line-height: 15px
+    ),
+    tablet: (
+      font-size: 14px,
+      line-height: 20px
+    ),
+    print: (
+      font-size: 12pt,
+      line-height: 1.2
+    )
+  )
+);
+
 @import "govuk/all.scss";
 
 // Design History styles

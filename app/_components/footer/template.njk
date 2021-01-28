@@ -1,0 +1,18 @@
+<footer class="govuk-footer app-footer govuk-!-display-none-print" role="contentinfo">
+  <div class="govuk-width-container">
+    <div class="govuk-footer__meta">
+      <div class="govuk-footer__meta-item govuk-footer__meta-item--grow">
+        <h2 class="govuk-visually-hidden">{{ params.meta.visuallyHiddenTitle or "Support links" }}</h2>
+        {% if params.meta.items %}
+          <ul class="govuk-footer__inline-list">
+          {% for item in params.meta.items %}
+            <li class="govuk-footer__inline-list-item">
+              <a class="govuk-footer__link" href="{{ item.href }}">{{ item.text }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</footer>

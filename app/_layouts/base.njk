@@ -2,8 +2,9 @@
 
 {% set htmlClasses = 'no-js' %}
 
-{% from "header/macro.njk" import appHeader %}
 {% from "breadcrumbs/macro.njk" import appBreadcrumbs %}
+{% from "footer/macro.njk" import appFooter %}
+{% from "header/macro.njk" import appHeader %}
 
 {% block head %}
 <!--[if lte IE 8]><link href="/stylesheets/application-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
@@ -38,7 +39,7 @@
 
 {% block footer %}
   <div class="govuk-!-display-none-print">
-    {{ govukFooter({
+    {{ appFooter({
       meta: {
         items: [{
           text: "Sitemap",

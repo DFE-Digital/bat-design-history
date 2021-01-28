@@ -168,7 +168,7 @@ $icon-size: 40px;
   .app-site-search__hint,
   .app-site-search__input,
   .app-site-search__option {
-    @include govuk-font($size: 19);
+    @include govuk-font($size: 16);
   }
 
   .app-site-search__link {

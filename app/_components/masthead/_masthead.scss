@@ -2,7 +2,7 @@
   @include govuk-responsive-padding(6, "top");
   @include govuk-responsive-padding(6, "bottom");
   color: govuk-colour("white");
-  background-color: govuk-colour("blue");
+  background-color: $dfe-brand-colour;
   margin-top: #{govuk-spacing(2) * -1};
 }
 

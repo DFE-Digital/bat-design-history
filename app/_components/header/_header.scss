@@ -2,6 +2,27 @@
 // See: https://github.com/alphagov/govuk-design-system/blob/master/src/stylesheets/components/_header.scss
 
 @include govuk-exports("app-header") {
+  .app-header {
+    color: $govuk-text-colour;
+    background-color: white;
+    border-color: $dfe-light-grey;
+  }
+
+  .govuk-header__link:link,
+  .govuk-header__link:visited {
+    color: inherit;
+  }
+
+  .govuk-header__link--homepage,
+  .govuk-header__product-name {
+    @include govuk-font(19);
+    font-weight: 600;
+  }
+
+  .govuk-header__container {
+    border-color: $dfe-brand-colour;
+  }
+
   // Override the default 33% width on the logo in GOV.UK Frontend (prevents
   // unnecessary wrapping of app.productName on smaller tablet / desktop
   // viewports)
