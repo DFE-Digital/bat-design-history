@@ -6,8 +6,6 @@ date: 2021-02-01
 
 The way changing an offer works as an accredited body is buggy, confusing and inconsistent with how it works as a training provider.
 
-This post explains some of the issues.
-
 ## Changing the training provider if you’re an accredited body
 
 Scenario:
