@@ -40,7 +40,7 @@ Scenario:
 Issues:
 
 - The user should only see courses that they accredit.
-- The ‘change link’ appears because the selected training provider has multiple courses - it should only appear if the currently selected training provider runs multiple courses that the accredited body ratifies.
+- The ‘change’ link appears because the selected training provider has multiple courses - it should only appear if the currently selected training provider runs multiple courses that the accredited body ratifies.
 - The accredited body can select a course they don’t ratify and then when they try and complete the flow, they see an error.
 
 ## Changing to a course if you’re a school direct
