@@ -25,7 +25,7 @@ Issues:
 
 Questions:
 
-- When changing the provider should we give the user a list of all school direct partners? Probably.
+- Should we give the user a list of all school direct partners? Probably.
 
 ## Changing the course if you’re an accredited body
 
