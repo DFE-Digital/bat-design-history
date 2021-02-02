@@ -6,7 +6,7 @@ date: 2021-02-01
 
 The way changing an offer works as an accredited body is buggy, confusing and inconsistent with how it works as a training provider.
 
-## Changing the training provider if you’re an accredited body
+## Changing the provider as an accredited body
 
 Scenario:
 
@@ -15,6 +15,7 @@ Scenario:
 > And I have the ‘make decisions’ permission
 > When I click ‘change provider’
 > I am taken to a page with just my accredited body as a pre-selected radio button
+> And I cannot change the provider
 
 Issues:
 
@@ -25,7 +26,7 @@ Questions:
 
 - Should we give the user a list of all school direct partners? Probably.
 
-## Changing the course if you’re an accredited body
+## Changing the course as an accredited body
 
 Scenario:
 
@@ -33,15 +34,16 @@ Scenario:
 > Who ratifies courses at the training provider
 > And I have the ‘make decisions’ permission
 > When I click ‘change course’
-> I am taken to a page that lists all the courses that the training provider runs
+> And I select a course that I do not ratify
+> And I try and complete the flow
+> I get an error preventing me from doing that
 
 Issues:
 
 - The user should only see courses that they accredit.
 - The ‘change’ link appears because the selected training provider has multiple courses - it should only appear if the currently selected training provider runs multiple courses that the accredited body ratifies.
-- The accredited body can select a course they don’t ratify and then when they try and complete the flow, they see an error.
 
-## Changing to a course if you’re a school direct
+## Changing to a course ratified by a different accredited body if you’re a school direct
 
 Scenario:
 
@@ -49,13 +51,14 @@ Scenario:
 > Who runs courses ratified by multiple accredited bodies
 > And I have the ‘make decisions’ permission
 > When I click ‘change course’
-> And I select a course that is
-> I am taken to a page that shows all my courses
+> When I select a course that’s ratified by a different accredited body
+> And I try and complete the flow
+> I get an error preventing me from doing that
 
 Issues:
 
-- If the user selects a course ratified by a different accredited body and try to complete the flow, they see an error.
-- Users cannot see the accredited body for each course radio button.
+- The school direct should be able to change to any course they run.
+- The accredited body for each course should be shown for each radio button.
 
 ## Next steps
 
