@@ -4,7 +4,7 @@ description: Various issues with changing the details of an offer as a user who 
 date: 2021-02-01
 ---
 
-The way changing an offer works as an accredited body is buggy, confusing and inconsistent with how it works as a training provider.
+The way changing an offer works as an accredited body or school direct can be buggy, confusing and inconsistent.
 
 ## Changing the provider as an accredited body
 
