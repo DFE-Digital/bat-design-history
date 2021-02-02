@@ -19,6 +19,7 @@ Scenario:
 
 Issues:
 
+- The list should contain all the school directs they can change to
 - There shouldn’t be a ‘change’ link if the user cannot actually change the provider.
 - It says ‘provider’ on the offer panel and it says ‘training provider’ on the next screen, but it actually shows the accredited body.
 
