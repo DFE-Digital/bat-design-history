@@ -41,10 +41,10 @@ Scenario:
 
 Issues:
 
-- The user should only see courses that they accredit.
+- The user should only see courses that they ratify.
 - The ‘change’ link appears because the selected training provider has multiple courses - it should only appear if the currently selected training provider runs multiple courses that the accredited body ratifies.
 
-## Changing to a course ratified by a different accredited body if you’re a school direct
+## Changing to a course ratified by a different accredited body as a school direct
 
 Scenario:
 
@@ -52,7 +52,7 @@ Scenario:
 > Who runs courses ratified by multiple accredited bodies
 > And I have the ‘make decisions’ permission
 > When I click ‘change course’
-> When I select a course that’s ratified by a different accredited body
+> And I select a course that’s ratified by a different accredited body
 > And I try and complete the flow
 > I get an error preventing me from doing that
 
