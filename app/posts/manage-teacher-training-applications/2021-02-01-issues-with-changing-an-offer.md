@@ -60,7 +60,3 @@ Issues:
 
 - The school direct should be able to change to any course they run, but we need to understand any implications of doing this, especially from the accredited body perspective.
 - The accredited body for each course should be shown for each radio button.
-
-## Next steps
-
-We intend to explore better ways to make the offer panel and subsequent flows clearer. One way may include giving users a single change link which takes the user down a flow similar to the candidate service
