@@ -58,7 +58,7 @@ Scenario:
 
 Issues:
 
-- The school direct should be able to change to any course they run. Although we need to understand any implications of doing this, especially from the accredited body perspective.
+- The school direct should be able to change to any course they run, but we need to understand any implications of doing this, especially from the accredited body perspective.
 - The accredited body for each course should be shown for each radio button.
 
 ## Next steps
