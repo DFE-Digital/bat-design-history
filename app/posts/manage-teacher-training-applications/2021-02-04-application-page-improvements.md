@@ -8,71 +8,65 @@ tags:
  - MN026
 ---
 
-This iteration contains several improvements to the way we present the candidate’s application.
+This iteration contains several improvements to the way we present the candidate’s application to providers.
 
-## Marking roles that are relevant teaching
+## Marking roles that are relevant to teaching
 
-We used to mark roles which involved working with children.
+We used to mark roles that involved working with children.
 
-But research shows that roles can be relevant to teaching even if the role didn’t involve working with children.
+But research shows that a role can be relevant to teaching even if it doesn’t involve working with children.
 
-So to reflect the replcement question that we ask candidates, we changed the flag that can appear against a work history item.
+We are instead going to ask candidates whether roles are relevant to teaching, so we changed the flag which can appear against work history items.
 
 ## Removed job descriptions
 
-We used to ask candidates to enter descriptions of their roles. But this creates more work for candidates and also more work for providers to read irrelevant descriptions.
+We used to ask candidates to enter descriptions of their roles. This created more work for candidates and also for providers, who had to read descriptions which were sometimes irrelevant.
 
-Instead the ‘relevant to teaching’ flag lets providers find out more about these roles during the interview process.
+So we have removed the job descriptions for new applications. Instead a new ‘relevant to teaching’ flag indicates roles which providers might want to find out more about during an interview.
 
-So we removed the job descriptions.
-
-Note: job descriptions should still be shown for old applications where the candidate did provide this information.
+Job descriptions should still be shown for old applications where the candidate did provide this information.
 
 ## Making it easier to spot gaps in work
 
-Providers need to spot gaps across the candidate’s education and work history.
+Providers need to spot periods of time in which a candidate was not working or getting unpaid experience. 
 
-We have always presented gaps but to make it easier we have used the inset text component to make them easy to distinguish from jobs.
+We have combined work experience and unpaid roles into one list, so that providers do not need to compare two separate lists. We mark unpaid experience so providers can distinguish between paid and unpaid roles.
 
-We have also moved work history above qualifications and put the items into reverse chronological order.
+We have always indicated gaps but we now use the inset text component to make it easier to spot them.
 
-This matches the more familiar CV layout which should make it much easier to scan for gaps.
+We have also moved work history above qualifications and put the items into reverse chronological order. This matches the more familiar layout of many CVs, which should make it much easier to scan for gaps.
 
-We have also combined work experience and unpaid roles into one list to meet the same need.
+## Move interview needs and disability information towards the bottom
 
-As these sections are now combined, we are also marking unpaid experience so providers can distinguish between paid and unpaid roles.
+Interview needs are shown in context when a provider sets up an interview. 
 
-## Move interview needs and disability information the bottom
+This means it is not essential for providers to see interview needs at the ‘sift stage’ when they are deciding whether to interview the candidate.
 
-Interview needs are now shown in context of setting up an interview.
+Disability information should not be a consideration at the sift stage.
 
-Disability information shouldn’t be a consideration at the sift stage.
-
-Moving all of these toward the bottom elevates work history and qualifications which is always used at the sift stage.
+Moving both of these towards the bottom elevates work history and qualifications, which are always used at the sift stage. 
 
 ## Add ‘No, I have always been in full time education’
 
-A common reason for not having any work history is because the candidate has always been in full time education.
+A common reason for not having any work history is that the candidate has always been in full time education.
 
 This has become a new option for candidates to choose from and so we now show this on the application page.
 
 ## Mark approximate dates
 
-Some candidates find it hard to remember exact dates of roles.
+Some candidates find it hard to remember the exact dates when roles began and ended.
 
-To solve this candidates now have the option to say that the dates are approximate.
-
-This also means candidates won't be caught out by providers as they’re being honest ahead of any interview.
+Rather than having to guess the dates and risk being seen as dishonest, candidates now have the option to say that they are approximate. 
 
 As this is a new option for candidates, we now flag this on the application page.
 
 ## Telling providers when candidates have no unpaid experience
 
-We currently hide the entire ‘unpaid experience’ section of the application if the user says ‘no’ to ‘do you have any experience to add?’.
+We used to hide the entire ‘unpaid experience’ section of the application if the user said ‘no’ to ‘do you have any experience to add?’
 
-This means providers cannot tell the difference between something that was asked and not provided, and something that was never asked in the first place.
+This meant that providers could not tell the difference between something that was asked and not provided, and something that was never asked in the first place.
 
-So now we display all the candidate’s answers verbatim.
+We will now display all the candidate’s answers exactly as they given.
 
 ## Make headings and space consistent across sections
 
