@@ -40,11 +40,11 @@ This matches the more familiar CV layout which should make it much easier to sca
 
 We have also combined work experience and unpaid roles into one list to meet the same need.
 
-## Move interview needs, disability information and safeguarding towards the bottom
+As these sections are now combined, we are also marking unpaid experience so providers can distinguish between paid and unpaid roles.
+
+## Move interview needs and disability information the bottom
 
 Interview needs are now shown in context of setting up an interview.
-
-Safeguarding is uncommon and providers get notified about applications that contain safeguading issues. [Is this true Bill]
 
 Disability information shouldn’t be a consideration at the sift stage.
 
@@ -74,6 +74,10 @@ This means providers cannot tell the difference between something that was asked
 
 So now we display all the candidate’s answers verbatim.
 
+## Make headings and space consistent across sections
+
+As part of this work we took the opportunity to tidy up the heading sizes and space between sections to be consistent.
+
 ## User needs
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
@@ -82,14 +86,29 @@ So now we display all the candidate’s answers verbatim.
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Application page",
+    text: "Separate work history and unpaid experience - both provided",
     img: {
       src: "application-page.png"
     }
   }, {
-    text: "Application page with no work history or unpaid experience",
+    text: "Separate work history and unpaid experience - both not provided",
     img: {
       src: "application-page--no-work-history.png"
+    }
+  }, {
+    text: "Combined work history and unpaid experience - both provided",
+    img: {
+      src: "application-page--combined-work-history.png"
+    }
+  }, {
+    text: "Combined work history and unpaid experience - just unpaid experience",
+    img: {
+      src: "application-page--combined-no-work-history.png"
+    }
+  }, {
+    text: "Combined work history and unpaid experience - just work history",
+    img: {
+      src: "application-page--combined-no-unpaid-experience.png"
     }
   }]
 }) }}
