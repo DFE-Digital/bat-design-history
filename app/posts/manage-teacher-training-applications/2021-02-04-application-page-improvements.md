@@ -3,9 +3,9 @@ title: Application page improvements
 description: Various improvements to the way we present work history and other parts of the application details page
 date: 2021-02-04
 tags:
- - MN004
- - MN014
- - MN021
+ - MN024
+ - MN025
+ - MN026
 ---
 
 This iteration contains several improvements to the way we present the candidate’s application.
@@ -52,7 +52,27 @@ Moving all of these toward the bottom elevates work history and qualifications w
 
 ## Add ‘No, I have always been in full time education’
 
+A common reason for not having any work history is because the candidate has always been in full time education.
+
+This has become a new option for candidates to choose from and so we now show this on the application page.
+
 ## Mark approximate dates
+
+Some candidates find it hard to remember exact dates of roles.
+
+To solve this candidates now have the option to say that the dates are approximate.
+
+This also means candidates won't be caught out by providers as they’re being honest ahead of any interview.
+
+As this is a new option for candidates, we now flag this on the application page.
+
+## Telling providers when candidates have no unpaid experience
+
+We currently hide the entire ‘unpaid experience’ section of the application if the user says ‘no’ to ‘do you have any experience to add?’.
+
+This means providers cannot tell the difference between something that was asked and not provided, and something that was never asked in the first place.
+
+So now we display all the candidate’s answers verbatim.
 
 ## User needs
 
@@ -62,9 +82,14 @@ Moving all of these toward the bottom elevates work history and qualifications w
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Feedback page",
+    text: "Application page",
     img: {
-      src: "feedback-page.png"
+      src: "application-page.png"
+    }
+  }, {
+    text: "Application page with no work history or unpaid experience",
+    img: {
+      src: "application-page--no-work-history.png"
     }
   }]
 }) }}
