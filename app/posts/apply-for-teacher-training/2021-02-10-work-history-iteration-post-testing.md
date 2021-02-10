@@ -37,4 +37,12 @@ The Add another job button was moved to the top of the page, for consistency wit
 
 ## Screenshots
 
-TODO
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [
+    {
+      text: "Initial branching question"
+    }
+  ]
+}) }}
+
