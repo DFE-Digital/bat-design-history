@@ -4,7 +4,7 @@ description: Our previous iteration of the task list did not reflect the way our
 date: 2021-02-05
 ---
 
-Our task list did not reflect the way our users work.
+The task list did not reflect the way our users work.
 
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
@@ -12,7 +12,7 @@ Our task list did not reflect the way our users work.
     file: "task-list-version-one.png",
     alt: "An image of the previous iteration of the task list. It was not in keeping with user behaviour."
   },
-  caption: "We tested this iteration of the task list with users and found that it was not in keeping with the way they work."
+  caption: "We tested this iteration of the task list with users and found that it was not in keeping with their behaviour."
 }) }}
 
 In this entry we explain why, and how we changed the task list to better accommodate providers’ already effective processes.
@@ -21,12 +21,11 @@ In this entry we explain why, and how we changed the task list to better accommo
 
 Although ‘Personal details’ was not the first section in the list, one user completed this task first.
 
-This would allow her to find the record later, she explained. If she got interrupted and had to leave the record unfinished, she’d search for the trainee name.
+This would allow her to find the record later, she explained. If she was interrupted and had to leave the record unfinished, she’d search for the trainee name.
 
 ### Hypothesis
 
-If we move the personal details section to the top
-Then it’ll be easy for users to complete this section first and find an unfinished draft
+If we move the personal details section to the top, then it’ll be easy for users to complete this section first and find an unfinished draft.
 
 ## Use precise language
 
@@ -34,8 +33,7 @@ One user did not understand the difference between ‘Type of training’ and �
 
 ### Hypothesis
 
-If the task names better summarise the content therein
-Then users will know what to expect from each task; they should not have to guess
+If the task names better summarise the content therein, then users will know what to expect from each task; they should not have to guess.
 
 ## Use fewer sections
 
@@ -49,8 +47,7 @@ Providers are efficient; they have their data ready and input it quickly, in one
 
 ### Hypothesis
 
-If we use fewer sections
-Then we’ll better reflect how our users actually work; quickly, without stopping and starting
+If we use fewer sections, then we’ll better reflect how our users actually work; quickly, without stopping and starting.
 
 ## Use meaningful categories
 
@@ -72,10 +69,9 @@ This is reflected in later aspects of the user journey, where personal details a
   caption: "A trainee record after it has been created: personal details and training information have separate tabs."
 }) }}
 
-### Hypothesis
+### Hypothesis 
 
-If we split the task list into 2 sections, one focussed on the person and one focused on the training
-Then we’ll create a meaningful distinction between different types of trainee data
+If we split the task list into 2 sections, one focussed on the person and one focused on the training, then we’ll create a meaningful distinction between different types of trainee data.
 
 ## Do we really need a task list?
 
@@ -92,5 +88,5 @@ For now, the above changes may help make the task list feel less burdensome.
     file: "task-list-version-two.png",
     alt: "The new iteration of the task list."
   },
-  caption: "The task list uses more precise language and has more meaningful categories. It has fewer sections, reducing it’s length and the need to scroll."
+  caption: "The task list now uses more precise language and has more meaningful categories. It has fewer sections, reducing it’s length and the need to scroll."
 }) }}
