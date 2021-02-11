@@ -1,54 +1,63 @@
 ---
 title: Showing when an offer will be automatically declined
-description: Telling users when an offer will be automatically declined within the application list and application pages
+description: Telling users how long they have before an offer will be automatically declined if the candidate does not respond
 date: 2021-02-11
 ---
 
-## Showing when an offer will be automatically declined on the application list
+At the moment, the service tells users how long they have before an application is automatically rejected. This is indicated on both the application list and the application itself when the application is in the ‘received’ and ‘interviewing’ statuses.
 
-- The h2 was changed from ‘Waiting for candidate action‘ to ‘Waiting for candidate to respond to offer’.
-- If the offer will be declined tonight (at 11:59pm) it says ‘Last day for candidate to respond’.
-- If the offer will be declined tomorrow night (at 11:59pm) it says ‘1 day for candidate to respond’.
-- If the offer will be declined any later such as 2 days from now, it says ‘2 days for candidate to respond’.
+The service does not tell users how long they have before an offer is automatically declined if the candidate does not respond. It's good to let users know that something is going to happen automatically if no action is taken.
 
-## Showing when an offer will be automatically declined on the application page
+In addition research shows that some users want to follow up with candidates who have not yet responded to offers. Showing how long they have left will help users decide when to contact candidates.
 
-We added a prompt to the offer page.
+While working on this change, we also made several other minor changes to improve consistency within the service. We‘ll now use ‘make a decision’ to describe what a user does and ‘respond‘ to describe how a candidate reacts to an offer. 
 
-- If the offer will be declined tonight (at 11:59pm) it says, for example, ‘Your offer will be automatically declined at the end of today (15 August 2020 at 11:59pm) if the candidate does not respond.’.
-- If the offer will be declined tomorrow night (at 11:59pm) it says, for example, ‘Your offer will be automatically declined at the end of tomorrow (16 August 2020 at 11:59pm) if the candidate does not respond.’.
-- If the offer will be declined any later such as 2 days from now, it says ‘Your offer will be automatically declined in 2 days (17 August 2020 at 11:59pm) if the candidate does not respond.’.
+Applications are automatically rejected after 40 working days at 11:59pm. 
 
-## What if there’s no offer deadline in the system yet?
+Offers are automically declined after 10 working days at 11:59pm.
 
-Offers only have a deadline after providers have made a decision on all of their applications.
+## Showing on the application list when an offer will be automatically declined
 
-For this iteration we’re not going to explain this in the service. But we will look to address this in a separate piece of work.
+- The group heading will be changed from “Waiting for candidate action“ to “Waiting for candidate to respond to offer”.
+- If the offer will be declined tonight it will say “Last day for candidate to respond”. 
+- If the offer will be declined tomorrow night it will say “1 day for candidate to respond”.
+- If the offer will be declined 2 or more days from now it will say, for example, “2 days for candidate to respond”.
 
-We may also look to notify users when all decisions have been made and that the deadline has now been added.
+## Showing a prompt in the application for when an offer will be automatically declined 
+
+We'll add a prompt to the application details, offer, interviews, notes and timeline pages.
+
+- If the offer will be declined tonight it will say, for example, “Your offer will be automatically declined at the end of today (15 August 2020 at 11:59pm) if the candidate does not respond.”
+- If the offer will be declined tomorrow night it will say, for example, “Your offer will be automatically declined at the end of tomorrow (16 August 2020 at 11:59pm) if the candidate does not respond.”
+- If the offer will be declined 2 or more days from now, it will say, for example, “Your offer will be automatically declined in 2 days (17 August 2020 at 11:59pm) if the candidate does not respond.”
+
+## If there’s no offer deadline in the system
+
+An offer only has a deadline after providers have made decisions about all of a candidate’s applications.
+
+For this iteration we’re not going to explain this in the service. We’ll consider this later.
+
+We’ll also consider notifying users when all decisions have been made, telling them when their offer will be automatically declined.
 
 ## Other changes
 
-We are now more clearly distinguishing between prompts for providers to make a decision and explanations about waiting for candidates to respond.
+We’ll make a few changes to applications in the ‘received’ and ‘interviewing’ states.
 
-So we made a few changes to applications in the ‘received’ and ‘interviewing’ states as follows:
+- The group heading will be changed from “Deadline approaching: respond to the candidate” to “Deadline approaching: make decision about application”.
+- If the application will be rejected tonight it will say “Last day to make decision”.
+- If the application will be rejected tomorrow night it will say “1 day to make decision”.
+- If the application will be rejected 2 or more days from now it will say, for example, “2 days to make decision”.
 
-- The h2 was changed from ‘Deadline approaching: respond to the candidate
-’ to ‘Deadline approaching: make decision about application’
-- If the application will be rejected tonight (at 11:59pm) it says ‘Last day to make decision’.
-- If the application will be rejected tomorrow night (at 11:59pm) it says ‘1 day to make decision’.
-- If the application will be declined rejected any later such as 2 days from now, it says ‘2 days to make decision’.
+We also reflected these changes in the application.
 
-We also reflected these changes on the application page.
+- If the application will be rejected tonight it will say, for example, “This application will be automatically rejected at the end of today (15 August 2020 at 11:59pm) if you do not make a decision.”
+- If the application will be rejected tomorrow night it will say, for example, “This application will be automatically rejected at the end of tomorrow (16 August 2020 at 11:59pm) if you do not make a decision.”
+- If the application will be rejected 2 or more days from now it will say, for example, “This application will be automatically rejected in 2 days (17 August 2020 at 11:59pm) if you do not make a decision.”
 
-- If the application will be rejected tonight (at 11:59pm) it says, for example, ‘This application will be automatically rejected at the end of today (15 August 2020 at 11:59pm) if you do not make a decision.’.
-- If the application will be rejected tomorrow night (at 11:59pm) it says, for example, ‘This application will be automatically rejected at the end of tomorrow (16 August 2020 at 11:59pm) if you do not make a decision.’.
-- If the application will be rejected any later such as 2 days from now, it says ‘This application will be automatically rejected in 2 days (17 August 2020 at 11:59pm) if you do not make a decision.’.
+We also changed the prompt for users to give feedback when an application is automatically rejected. This appears on the application details, offer, interviews, notes and timeline pages.
 
-We also changed the ‘give feedback’ prompts as follows:
-
-- The `h2` on the application list changed from ‘Give feedback: you did not respond in time’ to ‘Give feedback: you did not make a decision in time’.
-- The prompt on the application page changed from ‘You did not respond to the application within 40 working days. Tell the candidate why their application was unsuccessful.’ to ‘You did not make a decision about the application within 40 working days. Tell the candidate why their application was unsuccessful.’
+- The group heading on the application list will change from “Give feedback: you did not respond in time” to “Give feedback: you did not make a decision in time”.
+- The prompt on the application page will change from “You did not respond to the application within 40 working days. Tell the candidate why their application was unsuccessful.” to “You did not make a decision about the application within 40 working days. Tell the candidate why their application was unsuccessful.”
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
