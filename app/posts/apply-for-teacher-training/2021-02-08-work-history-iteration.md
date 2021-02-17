@@ -15,7 +15,7 @@ Many providers told us that they want to see a candidate's full work history, no
 
 Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail.
 
-Analysis of validation errors also revealed that candidates were often leaving the “Skills and experience relevant to teaching” question blank, which then displays an error. Our hypothesis was because they wanted to come back and write this section later.
+Analysis of validation errors also revealed that candidates were often leaving the “Skills and experience relevant to teaching” question blank, which then displays an error. Our hypothesis was that they wanted to come back and write this section later.
 
 ## What we did
 
