@@ -11,38 +11,38 @@ related:
     href: https://bat-design-history.netlify.app/apply-for-teacher-training/work-history/
     description: Previous change to the work history flow
 ---
-Discussions with providers revealed that many of them require a “full” work history, rather than just work within the past 5 years, for safeguarding reasons.
+Many providers told us that they want to see a candidate's full work history, not just the last 5 years - for safeguarding reasons.
 
-Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However providers indicated that they didn’t always read these in detail.
+Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail.
 
 Analysis of validation errors also revealed that candidates were often leaving the “Skills and experience relevant to teaching” question blank, which then displays an error. Our hypothesis was because they wanted to come back and write this section later.
 
 ## What we did
 
-The work history section was moved beneath the “Safeguarding” heading on the application review page. This was to try and communicate to candidates that the purpose of the work history was mainly for safeguarding, rather than something used to direct assess them.
+We moved the work history section beneath the “Safeguarding” heading on the application review page. This was to try and communicate to candidates that the purpose of the work history was mainly for safeguarding, rather than something used to directly assess them.
 
-We changed the “How long have you been working?” question to “Do you have any work history?” as we no longer needed to guide candidates they only needed to enter their past 5 years of work history.
+We changed the “How long have you been working?” question to “Do you have any work history?”. We didn't need to guide candidates towards entering only their last 5 years of work history any more.
 
-An answer to this question was added of “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option avoids the need to them to have to explain this in their own words.
+We added an answer to this question – “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option means they don't have to explain this in their own words.
 
 If someone selected “No, I do not have any work history”, then we revealed a textbox asking “Tell us why you’ve been out of the workplace” with some hint text which gave three examples. These were very brief, to indicate to candidates that they did not need to be super detailed.
 
-When someone indicated they did have work history, we took them to a page with an empty table and some guidance that they needed to add their full work history. They could then add a first job.
+When someone indicated they did have work history, we took them to an empty table and guidance to add their full work history. They could then add a first job.
 
 On the Add a job form, we made a number of minor changes and one significant change.
 
-The most significant change was to remove the textbox asking candidates to describe their job and the skills and experience relevant to teaching. This was to reduce the burden on candidates, particularly those with a long work history which may include many jobs done long ago which are completely unrelated to teaching (such as bar or retail work). We did consider making this field optional instead, but considered that many candidate would feel they _ought_ to write something anyway, which likely wouldn’t get read or be helpful.
+The most significant change was to remove the textbox asking candidates to describe their job and the skills and experience relevant to teaching. This was to reduce the burden on candidates, particularly those with long work histories which may include many jobs done long ago that are unrelated to teaching - like bar or retail work. We did consider making this field optional instead, but considered that many candidates would feel they _ought_ to write something anyway, which likely wouldn’t get read or be helpful.
 
 Minor changes included:
 
-* Removing the working pattern question for part time jobs – as this didn’t seem to be strongly required, and would be a complicated to answer for part time or casual jobs done a long time ago..
-* Removing the hint text suggesting candidates add the name of their own company if self-employed, as this didn’t seem to be required.
+* Removing the working pattern question for part time jobs – this didn’t seem to be strongly required, and would be a complicated to answer for part time or casual jobs done a long time ago..
+* Removing the hint text suggesting candidates add the name of their own company if self-employed – this didn’t seem to be required.
 * Changing the end date from “End date (leave blank if this is your current role)” to “Are you still working in this job?”. If the candidate answered “No” then a ”When did you leave this job?” question was revealed.
 * Changing the start date from “Start date” to “When did you start this job?”, for consistency with the “When did you leave this job?” question, and to better reflect the fact that we don’t ask for a full date, only month and year.
 
-Upon adding a job, candidates were returned to the Work history review page, rather than being asked whether or not they wanted to add another job. This was partly to solve an issue seen in production where candidates go to add another job, but then leave all the fields blank and submit the form, causing validation errors. Our hypothesis was that this is because they either changed their mind or didn’t realise that they would need to add another job immediately. Additionally, by taking candidates back to the review page after adding each job, they are able to review their progress in adding jobs so far, and can remind themselves where they’ve got to – which may be more important when adding lots and lots of jobs.
+When a candidate added a job, they were returned to the Work history review page, rather than being asked whether or not they wanted to add another job. This was partly to solve an issue seen in production where candidates go to add another job, but then leave all the fields blank and submit the form, causing validation errors. Our hypothesis was that this is because they either changed their mind or didn’t realise that they would need to add another job immediately. Additionally, by taking candidates back to the review page after adding each job, they are able to review their progress in adding jobs so far, and can remind themselves where they’ve got to – which may be more important when adding lots and lots of jobs.
 
-The review page was redesigned. Instead of using summary cards for each job, the jobs were presented in a table format. This was intended to remove the duplicatation caused by repeating the field names in each summary card, and make it easier for candidates to scan the page, as each job takes up less vertical height.
+We redesigned the review page. Instead of using summary cards for each job, the jobs were presented in a table format. This was intended to remove the duplication caused by repeating the field names in each summary card, and make it easier for candidates to scan the page, as each job takes up less vertical height.
 
 Pull request: https://github.com/DFE-Digital/apply-for-teacher-training-prototype/pull/434
 
@@ -58,9 +58,9 @@ Candidates were able to add lots of jobs fairly quickly - likely much more quick
 
 Some candidates were unclear that they needed to add their complete work history, either not reading or ignoring the guidance. Instead they only added 'relevant' or 'proper' jobs, and omitting their first jobs working in bars or in retail.
 
-Some candidates experessed surprise that they weren’t asked for more details. Whilst some were happy with how quick it was, others wanted to be able to explain more about their roles to support their application.
+Some candidates expressed surprise that they weren’t asked for more details. Whilst some were happy with how quick it was, others wanted to be able to explain more about their roles to support their application.
 
-Some candidates hesitated when it came to entering the start and end year and months for some of their early roles, and had to spend some time thinking about this. When asked, they suggested that they weren’t completely certain, but were able to either work it out or enter a reasonable guess by anchoring their early jobs to other significant events in their lives.
+Some candidates hesitated when it came to entering the start and end year and month for some of their early roles, and had to spend some time thinking about this. When asked, they suggested that they weren’t completely certain, but were able to either work it out or enter a reasonable guess by anchoring their early jobs to other significant events in their lives.
 
 One candidate consistently entered their employers’ names within the Job title field, and then had to correct themselves. Other candidates entered the employer names first, and then returned to the job title field later having had to give it more thought.
 
@@ -78,11 +78,11 @@ We renamed ‘Job title’ to ‘Role’, as candidates may not remember their e
 
 We added some hint text to ‘Role’ saying “If you had more than one role with this employer, enter your last role.” as feedback from providers suggested that listing out each promotion within a employment was unnecessary.
 
-We added a checkbox labelled “I’m not sure of the exact month or year I started” and ”I’m not sure of the exact month or year I left” so that candidates can use these when they could not recall the relevant months.
+We added a checkbox labelled “I’m not sure of the exact month or year I started” and ”I’m not sure of the exact month or year I left” for candidates who struggled with the exact months and years.
 
-We renamed “Did this job involve working in a school or with childen?” to “Did you use skills relevant to teaching in this job?” as providers indicated that they were most interested in _relevant_ work history, which could encompass a wider variety of jobs.
+We renamed “Did this job involve working in a school or with children?” to “Did you use skills relevant to teaching in this job?” as providers indicated that they were most interested in _relevant_ work history, which could encompass a wider variety of jobs.
 
-We added the hint text “You can go into more detail about this in your personal statement.” to the ”Did this job involve working in a school or with childen?” question to remind candidates that they can give more details about relevant jobs in their personal statement.
+We added the hint text “You can go into more detail about this in your personal statement.” to the ”Did this job involve working in a school or with children?” question to encourage candidates to give more details about relevant jobs in their personal statement.
 
 On the review page, we simplified the design, moving away from a table and just using headings with horizontal lines between jobs, enclosed within a bordered section. This removed the need to include column headings and a table caption, and addressed accessibility issues with having used a row of merged cells for the break in history prompts.
 
