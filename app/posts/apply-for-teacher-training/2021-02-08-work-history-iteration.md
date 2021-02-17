@@ -1,6 +1,6 @@
 ---
-title: Work history iteration
-description: Moving the work history within Safeguarding section
+title: Improving work history
+description: Asking for a full work history and simplifying the section by removing skills and experience.
 date: 2021-01-08
 related:
   items:
