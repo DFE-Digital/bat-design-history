@@ -16,7 +16,7 @@ In the current DTTP service, trainees are added by accredited providers. The maj
 
 Our first step towards supporting multiple providers was looking at how DTTP, Manage and Publish handle them.
 
-On the DTTP service, each accredited provider is kept separate. A user account can be connected to multiple providers - but when signing in, they choose which provider they’re inputting data for. When they need to add trainees for a different provider, they return to the service start and pick the other provider. In this ‘hat model’ the user puts on the ‘hat’ of the provider they want to act as. This is also similar to how Publish works. 
+On the DTTP service, each accredited provider is kept separate. A user account can be connected to multiple providers - but when signing in, they choose which provider they’re inputting data for. When they need to add trainees for a different provider, they return to the service start and pick the other provider. In this ‘hat model’ the user puts on the ‘hat’ of the provider they want to act as. This is also similar to how Publish works.
 
 Users accounts can also be connected to a lead school to see all trainees for a lead school. For the moment we’re not supporting this as it only applies to routes we’ve not worked on yet.
 
@@ -33,19 +33,23 @@ We’ve also heard that some accredited providers would like their partner schoo
 Which to choose?
 
 The hat model is:
+
 * similar to the current service
 * suited to workflows where you work as a single provider at a time
 
 It could be problematic because users may:
+
 * add data to the wrong provider
 * need to swap between providers for certain tasks
 * need to split their work by provider
 
 The blended model could be a good option because it allows users to:
-* view their records in one place 
+
+* view their records in one place
 * switch between provider without signing out
 
 However, with this model, users need to:
+
 * specify which provider they’re inputting data for
 * select a filter if they want to see just the records that relate to a single provider
 
@@ -59,51 +63,46 @@ In this model, the user picks a provider to work as immediately after signing in
 
 {{ appScreenshots({
   hideContents: true,
-  items: [
-    {
-      text: "Hat model: chooser",
-      img: { src: "hat-model-chooser.png" }
-    }, {
-      text: "Hat model: header",
-      img: { src: "hat-model-header.png" }
-    }, {
-      text: "Hat model: task list",
-      img: { src: "hat-model-task-list.png" }
-    }]
+  items: [{
+    text: "Hat model: chooser",
+    img: { src: "hat-model-chooser.png" }
+  }, {
+    text: "Hat model: header",
+    img: { src: "hat-model-header.png" }
+  }, {
+    text: "Hat model: task list",
+    img: { src: "hat-model-task-list.png" }
+  }]
 }) }}
 
 ### Blended model
 
 The main changes here are the option to filter by provider and the need to pick a provider when adding a trainee.
 
-
 {{ appScreenshots({
   hideContents: true,
-  items: [
-    {
-      text: "Blended model: filters",
-      img: { src: "blended-model-filters.png" }
-    }, {
-      text: "Blended model: chooser",
-      img: { src: "blended-model-chooser.png" }
-    }, {
-      text: "Blended model: task list",
-      img: { src: "blended-model-task-list.png" }
-    }]
+  items: [{
+    text: "Blended model: filters",
+    img: { src: "blended-model-filters.png" }
+  }, {
+    text: "Blended model: chooser",
+    img: { src: "blended-model-chooser.png" }
+  }, {
+    text: "Blended model: task list",
+    img: { src: "blended-model-task-list.png" }
+  }]
 }) }}
 
 ### Swapping between models
 
 To help with usability testing and design, we added an internal settings page in the prototype to let us play with various scenarios. This lets us easily try different scenarios - such as a user with access to 5 providers
 
-
 {{ appScreenshots({
   hideContents: true,
-  items: [
-    {
-      text: "Provider admin screen",
-      img: { src: "provider-admin-screen.png" }
-    }]
+  items: [{
+    text: "Provider admin screen",
+    img: { src: "provider-admin-screen.png" }
+  }]
 }) }}
 
 ## Testing these designs
