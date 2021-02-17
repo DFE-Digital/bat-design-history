@@ -91,13 +91,57 @@ On the review page, we simplified the design, moving away from a table and just 
 The Add another job button was moved to the top of the page, for consistency with other sections.
 
 
-## Screenshots
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
+
 {{ appScreenshots({
   items: [
     {
-      text: "Initial branching question"
+      text: "Initial branching question",
+      img: {
+        src: "initial-branching-question.png"
+      }
+    },
+    {
+      text: "Initial branching question - no work history",
+      img: {
+        src: "initial-branching-question-no-work-history.png"
+      }
+    },
+    {
+      text: "Work history review (initial blank state)",
+      img: {
+        src: "work-history-blank-state.png"
+      }
+    },
+    {
+      text: "Add a job (blank)",
+      img: {
+        src: "add-a-job-blank.png"
+      }
+    },
+    {
+      text: "Add a job (filled in)",
+      img: {
+        src: "add-a-job-filled-in.png"
+      }
+    },
+    {
+      text: "Work history - with prompt to explain a break",
+      img: {
+        src: "work-history-showing-break-prompt.png"
+      }
+    },
+    {
+      text: "Please tell us what you were doing over this period",
+      img: {
+        src: "tell-us-what-you-were-doing-over-this-period.png"
+      }
+    },
+    {
+      text: "Work history - completed",
+      img: {
+        src: "completed-work-history-showing-break.png"
+      }
     }
   ]
 }) }}
