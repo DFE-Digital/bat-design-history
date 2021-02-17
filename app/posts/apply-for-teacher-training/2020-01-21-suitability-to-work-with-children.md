@@ -97,7 +97,7 @@ When we demo’d this design to a university (15 Jan) – they said this design 
 Because recruiting users for this feature is difficult, we sent a survey out to users of the following forums to get quick responses from a large target audience:
 
 * Online aspiring teachers
-* Get into teaching support teaching
+* Get Into Teaching support teaching
 * Career changer
 
 We had 39 responses.

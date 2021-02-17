@@ -55,7 +55,7 @@ Further Education
 Get information about schools (GIAS)
 : This is a [register of schools and colleges in England](https://get-information-schools.service.gov.uk/).
 
-Get into teaching (GiT)
+Get Into Teaching (GIT)
 : Campaign site to encourage people to apply for teacher training.
 
 HESA
