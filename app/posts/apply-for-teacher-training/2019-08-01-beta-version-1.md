@@ -53,7 +53,7 @@ We made the following changes to the information we ask candidates to deliver a 
 This was felt unnecessary, and may possibly reveal gender information which isn’t required at this stage of the application
 ‘First name(s)’ and ‘Last name’ (combined)
 
-Previous prototypes had separated first name and last name into 2 fields. We checked the GOV.UK design pattern and found it recommends a single field, because [not everyone’s name fits into the ‘first name last name’ pattern](https://design-system.service.gov.uk/patterns/names/). Having confirmed with DfE’s statisticians that a single field for names would give them the information they needed to map users coming from Get into Teaching, we were able to make the change.
+Previous prototypes had separated first name and last name into 2 fields. We checked the GOV.UK design pattern and found it recommends a single field, because [not everyone’s name fits into the ‘first name last name’ pattern](https://design-system.service.gov.uk/patterns/names/). Having confirmed with DfE’s statisticians that a single field for names would give them the information they needed to map users coming from Get Into Teaching, we were able to make the change.
 
 ### ‘What is your residence status?’ (updated)
 
@@ -81,13 +81,13 @@ Added information about basic eligibility requirements (to avoid wasting the tim
 
 * Created start page content about the nature and purpose of the section and added reassurance for candidates still studying for their degree
 
-* International qualifications – changed the hierarchy of guidance so that candidates are first advised to contact their provider, then Get into Teaching, and finally NARIC if need be. Our reasoning was that NARIC is the most expensive and confusing of the options, but some candidates may have started down this path and therefore need to be able to supply statements of equivalency etc.
+* International qualifications – changed the hierarchy of guidance so that candidates are first advised to contact their provider, then Get Into Teaching, and finally NARIC if need be. Our reasoning was that NARIC is the most expensive and confusing of the options, but some candidates may have started down this path and therefore need to be able to supply statements of equivalency etc.
 
 *  Made allowance for candidates who might still be studying (UK and international)
 
 For missing GCSEs:
 
-* provided more contextual guidance where candidates might find it helpful: ‘Have you considered how you will meet this requirement in time for the start of your course? Get advice from a training provider or Get into Teaching’
+* provided more contextual guidance where candidates might find it helpful: ‘Have you considered how you will meet this requirement in time for the start of your course? Get advice from a training provider or Get Into Teaching’
 
 * Allowed for the possibility that not all candidates will have chosen a provider at this stage
 

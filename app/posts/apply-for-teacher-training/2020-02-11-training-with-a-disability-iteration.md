@@ -31,14 +31,14 @@ We’ll know this works when more candidates provide relevant details of their p
 
 ### Using a more supportive and reassuring guidance tone (option one)
 
-The original design used content largely adapted from that used on the Get into Teaching website.
+The original design used content largely adapted from that used on the Get Into Teaching website.
 
 If we use more supportive and reassuring guidance, that includes examples of the type of support a provider can offer
 Then a candidate will feel more comfortable providing an answer
 
 ### Reaffirming legal rights and protections against discrimination (option two)
 
-The original design used content largely adapted from that used on the Get into Teaching website.
+The original design used content largely adapted from that used on the Get Into Teaching website.
 
 If the guidance states that it's against the law for a provider to discriminate against candidates with access needs
 Then a candidate will feel more comfortable providing an answer

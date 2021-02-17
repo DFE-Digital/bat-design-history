@@ -55,7 +55,7 @@ Further Education
 Get information about schools (GIAS)
 : This is a [register of schools and colleges in England](https://get-information-schools.service.gov.uk/).
 
-Get into teaching (GiT)
+Get Into Teaching (GIT)
 : Campaign site to encourage people to apply for teacher training.
 
 HESA
@@ -108,6 +108,9 @@ School direct (SD)
 
 SITS
 : SITS:Vision, also known just as SITS, is a database application used for course and student management developed and maintained by the [Tribal Group](https://en.wikipedia.org/wiki/SITS:Vision). This is the most common student record system used by providers.
+
+Subject knowledge enhancement (SKE)
+: Subject knowledge enhancement courses are offered to enhance a candidates existing knowledge where they may not need a full course. See [Get Into Teaching’s page](https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/subject-knowledge-enhancement-ske-courses) for more details.
 
 Student record system (SRS)
 : Database application commonly used by further and higher education institutions to store, administer and manage all types of student information. Vendors of this software include Ellucian, Technology One, Tribal and Unit 4.

@@ -157,8 +157,8 @@ Until we roll that out, we can combine aspects of this new design with elements 
 
 We’ve changed the standardised guidance boxouts:
 
-* They used to say “Advice from Get into teaching”
-* They now don’t say “Advice from Get into teaching”
+* They used to say “Advice from Get Into Teaching”
+* They now don’t say “Advice from Get Into Teaching”
 
 We changed this because research suggested candidates didn’t notice who the guidance was from. Also, sometimes guidance points to GOV.UK, and the GIT reference was in a small font that had accessibility issues.
 

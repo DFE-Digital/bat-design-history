@@ -55,7 +55,7 @@ The average user who finds a course page will visit at least 4 pages on the serv
 A successful journey is defined as, a user who:
 
 * visits at least one course details page, or
-* clicks through to any external link on the service (eg Get into Teaching or UCAS Apply)
+* clicks through to any external link on the service (eg Get Into Teaching or UCAS Apply)
 
 Since the launch of our service, the site has seen 116,665 users complete a successful journey. This makes up 37.2% of our total user base. On average, a ‘successful’ user will visit ~9 pages per session, spending 9 minutes and 56 seconds on the service. This is around 2x the time spent by your average user, visiting 3 more pages per session.
 
@@ -63,7 +63,7 @@ We’re starting to get a benchmark for what good looks like and how much time u
 
 Focusing on this quarter – since January the service has seen an average of 8,000 users completing successful journeys on the service per week. However, as mentioned previously, following an initial spike in usage through January, the number of visitors to the site has levelled off at ~50,000 per month. This means that the percentage of successful journeys has increased to 50% of our user usage in March, compared to 44% in January. This indicates that whilst our user volumes spiked in January, relatively speaking, this did not convert to successful journeys.
 
-This could be indicative of a number of root causes, most notably: campaign pushes resulting in an increase in people ‘just having a look’ or the ‘new year, new me’ user equally trying to satisfy their desire for change by exploring different avenues. This behaviour of exploration is supported by a similar spike in usage on the Get into Teaching service over the same period, both in this recruitment cycle and in the previous.
+This could be indicative of a number of root causes, most notably: campaign pushes resulting in an increase in people ‘just having a look’ or the ‘new year, new me’ user equally trying to satisfy their desire for change by exploring different avenues. This behaviour of exploration is supported by a similar spike in usage on the Get Into Teaching service over the same period, both in this recruitment cycle and in the previous.
 
 ### Conversion – trending downwards or levelling off… what’s the difference?
 
