@@ -76,7 +76,7 @@ We reordered the Add job form, to make the ‘Name of employer’ the first fiel
 
 We renamed ‘Job title’ to ‘Role’, as candidates may not remember their exact job title (or even have had one), and so ‘Role’ implies they can use a short description instead.
 
-We added some hint text to ‘Role’ saying “If you had more than one role with this employer, enter your last role.” as feedback from providers suggested that listing out each promotion within a employment was unnecessary.
+We added hint text to ‘Role’ saying “If you had more than one role with this employer, enter your last role.” as feedback from providers suggested that listing out each promotion within a employment was unnecessary.
 
 We added a checkbox labelled “I’m not sure of the exact month or year I started” and ”I’m not sure of the exact month or year I left” for candidates who struggled with the exact months and years.
 
@@ -143,4 +143,3 @@ The Add another job button was moved to the top of the page, for consistency wit
     }
   ]
 }) }}
-
