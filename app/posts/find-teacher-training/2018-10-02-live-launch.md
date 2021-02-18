@@ -4,7 +4,7 @@ description: Our live public beta launch.
 date: 2018-10-02
 ---
 
-On 2 October 2018 we launched the public beta of Find posgraduate teacher training to users. This included a new start page on GOV.UK and links to it from UCAS and Get into Teaching.
+On 2 October 2018 we launched the public beta of Find posgraduate teacher training to users. This included a new start page on GOV.UK and links to it from UCAS and Get Into Teaching.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

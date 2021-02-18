@@ -6,11 +6,10 @@ description: A service for candidates to find courses by location, provider or s
 related:
   items:
   - text: Prototype
-    href: https://search-and-compare-prototype.herokuapp.com/
-  - text: Team Trello
-    href: https://trello.com/b/fXA6ioZN/team-board-find-team
-  - text: Performance dashboard
-    href: https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt
+    description: |
+      Username: `find`
+      Password: `bat`
+    href: https://find-prototype.herokuapp.com/
 pagination:
   data: collections.find-teacher-training
   reverse: true
