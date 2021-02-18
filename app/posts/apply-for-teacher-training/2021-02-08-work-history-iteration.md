@@ -46,8 +46,6 @@ Our hypothesis was that this is because they either changed their mind or didnâ€
 
 We redesigned the review page. Instead of using summary cards for each job, the jobs were presented in a table format. This was intended to remove the duplication caused by repeating the field names in each summary card, and make it easier for candidates to scan the page, as each job takes up less vertical height.
 
-Pull request: https://github.com/DFE-Digital/apply-for-teacher-training-prototype/pull/434
-
 ## Results of the user research
 
 We tested a prototype with XX candidates. We recruited older candidates so that we could test the new section with people who likely had a longer work history.
