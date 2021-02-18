@@ -25,7 +25,7 @@ We changed the “How long have you been working?” question to “Do you have 
 
 We added an answer to this question – “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option means that they don’t have to explain this in their own words.
 
-If someone selected “No, I do not have any work history”, we revealed a textbox asking “Tell us why you’ve been out of the workplace” with some hint text which gave three examples. These were very brief, to indicate to candidates that they did not need to be super detailed.
+If someone selected “No, I do not have any work history”, we revealed a textbox asking “Tell us why you’ve been out of the workplace” – previously this was on a separate follow-up page. We also added hint text which gave three examples of reasons for not having any work history. These were very brief, to indicate to candidates that they did not need to be super detailed.
 
 When someone indicated they did have work history, we took them to an empty table and guidance to add their full work history. They could then add a first job.
 
