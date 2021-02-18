@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glossary
+title: A to Z glossary
 description: A collection of terms commonly used across the Becoming a Teacher service lines.
 permalink: "/glossary.html"
 ---
