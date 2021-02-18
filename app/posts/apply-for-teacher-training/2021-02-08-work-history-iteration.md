@@ -80,7 +80,7 @@ We added hint text to ‘Role’ saying “If you had more than one role with th
 
 We added a checkbox labelled “I’m not sure of the exact month or year I started” and ”I’m not sure of the exact month or year I left” for candidates who struggled with the exact months and years.
 
-We renamed “Did this job involve working in a school or with children?” to “Did you use skills relevant to teaching in this job?” as providers indicated that they were most interested in _relevant_ work history, which could encompass a wider variety of jobs.
+We renamed “Did this job involve working in a school or with children?” to “Did you use skills relevant to teaching in this job?” as providers indicated that they were most interested in ‘relevant’ work history, which could encompass a wider variety of jobs.
 
 We added the hint text “You can go into more detail about this in your personal statement.” to the ”Did this job involve working in a school or with children?” question to encourage candidates to give more details about relevant jobs in their personal statement.
 
