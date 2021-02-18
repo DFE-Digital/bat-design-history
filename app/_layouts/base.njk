@@ -37,19 +37,18 @@
 {% set mainClasses = mainClasses | default("govuk-main-wrapper--auto-spacing") %}
 
 {% block footer %}
-  <div class="govuk-!-display-none-print">
-    {{ govukFooter({
-      meta: {
-        items: [{
-          text: "Sitemap",
-          href: "/sitemap"
-        }, {
-          text: "GitHub",
-          href: "https://github.com/dfe-digital/bat-design-history"
-        }]
-      }
-    }) }}
-  </div>
+  {{ govukFooter({
+    classes: "govuk-!-display-none-print",
+    meta: {
+      items: [{
+        text: "Sitemap",
+        href: "/sitemap"
+      }, {
+        text: "GitHub",
+        href: "https://github.com/dfe-digital/bat-design-history"
+      }]
+    }
+  }) }}
 {% endblock %}
 
 {% block bodyEnd %}
