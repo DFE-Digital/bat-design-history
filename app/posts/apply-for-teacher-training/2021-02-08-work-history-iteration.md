@@ -11,7 +11,7 @@ related:
     href: https://bat-design-history.netlify.app/apply-for-teacher-training/work-history/
     description: Previous change to the work history flow
 ---
-Many providers told us that they want to see a candidate's full work history, not just the last 5 years - for safeguarding reasons.
+Many providers told us that they want to see a candidate’s full work history, not just the last 5 years - for safeguarding reasons.
 
 Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail.
 
@@ -21,9 +21,9 @@ Analysis of validation errors also revealed that candidates were often leaving t
 
 We moved the work history section beneath the “Safeguarding” heading on the application review page. This was to try and communicate to candidates that the purpose of the work history was mainly for safeguarding, rather than something used to directly assess them.
 
-We changed the “How long have you been working?” question to “Do you have any work history?”. We didn't need to guide candidates towards entering only their last 5 years of work history anymore.
+We changed the “How long have you been working?” question to “Do you have any work history?”. We didn’t need to guide candidates towards entering only their last 5 years of work history anymore.
 
-We added an answer to this question – “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option means that they don't have to explain this in their own words.
+We added an answer to this question – “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option means that they don’t have to explain this in their own words.
 
 If someone selected “No, I do not have any work history”, we revealed a textbox asking “Tell us why you’ve been out of the workplace” with some hint text which gave three examples. These were very brief, to indicate to candidates that they did not need to be super detailed.
 
@@ -56,7 +56,7 @@ We found that moving the work history section beneath the Safeguarding heading d
 
 Candidates were able to add lots of jobs fairly quickly - likely much more quickly than if they were still being asked for skills and experience relevant to teaching for each job.
 
-Some candidates were unclear that they needed to add their complete work history, either not reading or ignoring the guidance. Instead they only added 'relevant' or 'proper' jobs, and omitting their first jobs working in bars or in retail.
+Some candidates were unclear that they needed to add their complete work history, either not reading or ignoring the guidance. Instead they only added “relevant” or “proper” jobs, and omitting their first jobs working in bars or in retail.
 
 Some candidates expressed surprise that they weren’t asked for more details. Whilst some were happy with how quick it was, others wanted to be able to explain more about their roles to support their application.
 
