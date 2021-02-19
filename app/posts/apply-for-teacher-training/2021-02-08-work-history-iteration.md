@@ -5,15 +5,18 @@ date: 2021-01-08
 related:
   items:
   - text: Work history breaks
-    href: https://bat-design-history.netlify.app/apply-for-teacher-training/work-history-breaks/
+    href: /apply-for-teacher-training/work-history-breaks/
     description: Previous post about breaks in work history
   - text: Work history - August iteration
-    href: https://bat-design-history.netlify.app/apply-for-teacher-training/work-history/
+    href: /apply-for-teacher-training/work-history/
     description: Previous change to the work history flow
+  - text: Work history
+    href: /apply-for-teacher-training/apply-june-2019/work-history
+    description: Initial implementation of work history
 ---
-Many providers told us that they want to see a candidate’s full work history, not just the last 5 years - for safeguarding reasons.
+Many providers told us that they need to see a candidate’s full work history, not just the last 5 years, in order to meet policies around safeguarding.
 
-Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail.
+Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail, possibly because roles weren’t relevant to teaching, or because the text was too long and overlapped with a personal statement.
 
 Analysis of validation errors also revealed that candidates were often leaving the “Skills and experience relevant to teaching” question blank. Our hypothesis was that they wanted to come back and write this section later.
 
@@ -84,7 +87,7 @@ We renamed “Did this job involve working in a school or with children?” to �
 
 We added the hint text “You can go into more detail about this in your personal statement.” to the ”Did this job involve working in a school or with children?” question to encourage candidates to give more details about relevant jobs in their personal statement.
 
-On the review page, we simplified the design, moving away from a table and just using headings with horizontal lines between jobs, enclosed within a bordered section. This removed the need to include column headings and a table caption, and addressed accessibility issues with having used a row of merged cells for the break in history prompts.
+On the review page, we switched from a table to headings with horizontal lines between jobs, enclosed within a bordered section. This removed the need to include column headings and a table caption, and addressed accessibility issues with having used a row of merged cells for the break in history prompts.
 
 The Add another job button was moved to the top of the page, for consistency with other sections.
 
