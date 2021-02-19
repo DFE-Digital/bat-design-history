@@ -48,7 +48,7 @@ We redesigned the review page. Instead of using summary cards for each job, the 
 
 ## Results of the user research
 
-We tested a prototype with XX candidates. We recruited older candidates so that we could test the new section with people who likely had a longer work history.
+We tested a prototype with 7 candidates. We recruited older candidates so that we could test the new section with people who likely had a longer work history.
 
 We also tested a mock-up of applications showing long work histories with providers, to check our assumptions.
 
