@@ -66,7 +66,7 @@ One candidate consistently entered their employers’ names within the Job title
 
 Some candidates suggested that they would be able to get the relevant information from their CV, but no candidates had a CV that included their complete work history.
 
-Not all candidates responded to the prompts to enter explanations of breaks within their work history. Those that did were able to explain their break, eg by mentioning unemployment or raising children, with no stress and using only a brief explanation.
+Not all candidates responded to the prompts to enter explanations of breaks within their work history. Those that did were able to explain their break, for example by mentioning unemployment or raising children, with no stress and using only a brief explanation.
 
 ## What we changed
 
