@@ -37,25 +37,18 @@
 {% set mainClasses = mainClasses | default("govuk-main-wrapper--auto-spacing") %}
 
 {% block footer %}
-  <div class="govuk-!-display-none-print">
-    {{ govukFooter({
-      meta: {
-        items: [{
-          text: "Sitemap",
-          href: "/sitemap"
-        }, {
-          text: "Support playbook",
-          href: "https://docs.google.com/document/d/1SV2HWQgRM46dLLEEXHsGADqj1p04Vk6rOcC5VvbDa3A/edit"
-        }, {
-          text: "Support model",
-          href: "https://docs.google.com/document/d/1akzv0scmArgVtGcIqYstoQUTXXd823uQBd3SsFK1Ow8/edit"
-        }, {
-          text: "Wiki",
-          href: "https://dfedigital.atlassian.net/wiki/spaces/BaT/overview"
-        }]
-      }
-    }) }}
-  </div>
+  {{ govukFooter({
+    classes: "govuk-!-display-none-print",
+    meta: {
+      items: [{
+        text: "Sitemap",
+        href: "/sitemap"
+      }, {
+        text: "GitHub",
+        href: "https://github.com/dfe-digital/bat-design-history"
+      }]
+    }
+  }) }}
 {% endblock %}
 
 {% block bodyEnd %}
