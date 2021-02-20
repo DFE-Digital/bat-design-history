@@ -11,11 +11,11 @@
   .app-figure {
     @include govuk-responsive-margin(2, "bottom");
 
-    a {
+    > a {
       display: block;
     }
 
-    img {
+    > img {
       object-fit: cover;
       object-position: top;
     }

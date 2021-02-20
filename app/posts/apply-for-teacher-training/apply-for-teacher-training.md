@@ -1,5 +1,4 @@
 ---
-tags: false
 layout: collection
 title: Apply for teacher training
 description: A service for candidates to submit an application to their chosen teacher training courses
@@ -17,6 +16,8 @@ pagination:
   reverse: true
   size: 50
 permalink: "apply-for-teacher-training/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+override:tags:
+  - post
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

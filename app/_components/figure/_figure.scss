@@ -31,14 +31,14 @@
       @extend %govuk-section-break--m;
     }
   }
+}
 
-  figcaption {
-    * {
-      color: $govuk-secondary-text-colour;
-    }
+.app-figure__caption.app-prose {
+  *:not([class]) {
+    color: $govuk-secondary-text-colour;
+  }
 
-    > :last-child {
-      margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
   }
 }

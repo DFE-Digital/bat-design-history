@@ -35,7 +35,7 @@
     color: $govuk-secondary-text-colour;
   }
 
-  > p,
+  > p:not([class]),
   > dl,
   > blockquote p {
     @extend %govuk-body-m;
