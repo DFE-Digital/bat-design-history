@@ -1,7 +1,7 @@
 {
   "layout": "post",
   "permalink": "{{ page.filePathStem | replace('posts/', '') }}/",
-  "tags": ["search-index"],
+  "tags": ["post"],
   "eleventyComputed": {
     "eleventyNavigation": {
       "key": "{{ title }}"

@@ -3,6 +3,12 @@ layout: page
 title: A to Z glossary
 description: A collection of terms commonly used across the Becoming a Teacher service lines.
 permalink: "/glossary.html"
+tags: reference
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    excerpt: "{{ description }}"
+    parent: home
 ---
 
 A collection of terms commonly used across the Becoming a Teacher service lines.

@@ -2,7 +2,7 @@
 eleventyExcludeFromCollections: true
 permalink: /search.json
 ---
-[{% for item in collections["search-index"] %}
+[{% for item in collections.post %}
   {
     "data": {
       "title": {{ item.data.title | dump | safe }},
