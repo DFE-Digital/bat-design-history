@@ -24,30 +24,35 @@ The number of subjects offered by providers in the form of a course varies betwe
 
 Providers are able to rename subjects when creating a course, whilst retaining the underlying subject code. For example, ‘Primary’ (code: 00) is often renamed to ‘Primary (5-11)’ or ‘Primary (7-11)’. There are also instances where ‘Primary’ is renamed to a subject that already exists, such as ‘Primary with mathematics’ (code: 03).
 
-Some courses are compound subjects—they are made up of several subjects. For example, Biology, Chemistry and Physics together form a course called commonly labelled ‘Combined science’. French, German and Spanish together may form a course labelled ‘Modern languages’.
+Some courses are compound subjects—they are made up of several subjects. For example, Biology, Chemistry and Physics together form a course often labelled ‘Combined science’. French, German and Spanish together may form a course labelled ‘Modern languages’.
 
-Other compound courses include:
+Other example compound courses include:
 
-- Maths and Physics
 - Biology and Physical Education
 - Business Studies and Economics
 - English and Drama
+- Maths and Physics
 
 ## What we changed and why
 
 This change included:
 
-- introducing a new filter mechanism to display a long list of subjects. There are approximately 40 subjects that can be displayed in the list, so displaying them as standard list of checkboxes similar to other filters, would have extended the filter panel to a difficult to use length.
+- introducing a new filter pattern to display a long list of subjects. There may be as many as 40 subjects displayed in the list, so showing them as standard list of checkboxes, similar to other filters, would have extended the filter panel to an unmanageable length.
 - providing a means to search through the list of subjects so that a user does not need to scroll through the list of items. For example, they can type ‘primary’ and will be presented with all the primary subjects.
 - repeating the selected subject tags in the context of the filter, providing an immediate and obvious confirmation of the subjects that have been applied and an additional way to remove the filters.
 
 
 ## How it works
 
+The subject filter only shows subjects for the courses offered by the provider.
+
+If there are more than 15 subjects offered by the provider, the subject filter is enhanced with JavaScript. In this situation, the filter includes a search box and the list of subject checkboxes is contained in a scrollable region. Typing in the search box will reduce the number of subjects shown, if the search term is found. If the term is not found, the subject list will be empty.
+
+If JavaScript is disabled, the subjects are still contained within the scrollable region, but the search box is no longer shown.
+
 If there are 15 subjects or fewer offered by a provider, the subject filter will be displayed as a list of checkboxes.
 
-If there are more than 15 subjects offered by a provider, the subject filter is enhanced with JavaScript. In this situation, the filter includes a search box and the list of subject checkboxes is encapsulated in a scrollable region.
-
+Once one or more subjects are chosen and the filter has been applied, the subject tags will be displayed in the main tag list at the top of the filter panel as well as in context of the subject filter itself. Repeating the filters in context helps to remind users what subjects have been chosen as they may be hidden in the scrollable region.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
