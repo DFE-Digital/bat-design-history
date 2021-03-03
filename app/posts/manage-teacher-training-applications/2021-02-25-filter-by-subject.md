@@ -8,7 +8,7 @@ Users need to be able to filter their applications by subject.
 
 ## Course data analysis
 
-Analysing the course data for providers using the Manage service, there are approximately 40 subjects across primary and secondary levels.
+There are approximately 40 subjects across primary and secondary levels in the Manage service.
 
 The number of subjects offered by providers in the form of a course varies between providers.
 
@@ -28,7 +28,7 @@ Some courses are made up of multiple subjects and are also labelled differently.
 - Biology, Chemistry and Physics together is commonly labelled ‘Combined science’
 - French, German and Spanish together is commonly labelled ‘Modern languages’
 
-Renaming subjects can be problematic. For example, ‘Primary’ (code: 00) is often renamed to ‘Primary (5-11)’ or ‘Primary (7-11)’. But there are also instances where ‘Primary’ is renamed to a subject that already exists, such as ‘Primary with mathematics’ (code: 03).
+Renaming subjects can be problematic. For example, ‘Primary’ (code: 00) is often renamed to ‘Primary (5-11)’ or ‘Primary (7-11)’ to match their associated age groups. There are also instances where ‘Primary’ is renamed to a subject that already exists, such as ‘Primary with mathematics’ (code: 03).
 
 ## What we changed and why
 
@@ -46,7 +46,9 @@ If there are more than 15 subjects, JavaScript is used to add a search box. Typi
 
 If JavaScript is unavailable, the subjects are still contained within the scrollable region, but the search box is no longer shown.
 
-If there are 15 subjects or fewer offered by a provider, the subject filter will be displayed as a list of checkboxes.
+The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
+
+If there are 15 subjects or fewer offered by a provider, the subject filter will be displayed as a simple list of checkboxes.
 
 When a subject has been selected and the filters have been applied, the remove filter ‘tags’ are displayed under ‘selected filters’ at the top of the filter panel. They’re also displayed at the top of the subject filter to tell users what subjects have been selected as they may be hidden in the scrollable region.
 
