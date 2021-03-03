@@ -1,20 +1,14 @@
 ---
-title: Filtering applications by subject
+title: Filter applications by subject
 description: Let users filter the applications list by the course’s subject
 date: 2021-02-25
 ---
 
-We introduced a subject filter to allow users to filter by the course’s subject in the applications list.
-
-## Why we are doing this
-
-Providers need to be able to filter their applications by subject.
-
-When providers share applications with people who do the shortlisting (for example, subject leads in a school or a subject tutor at an HEI), those users only need to see specific subjects and not the entire list.
+Users need to be able to filter their applications by subject.
 
 ## Course data analysis
 
-From the course data for ‘synced’ providers, there are approximately 40 subjects across primary and secondary levels.
+Analysing the course data for providers using the Manage service, there are approximately 40 subjects across primary and secondary levels.
 
 The number of subjects offered by providers in the form of a course varies between providers.
 
@@ -22,16 +16,19 @@ The number of subjects offered by providers in the form of a course varies betwe
 - The maximum number of subjects offered: 28
 - The minimum number of subjects offered: 1
 
-Providers are able to rename subjects when creating a course, whilst retaining the underlying subject code. For example, ‘Primary’ (code: 00) is often renamed to ‘Primary (5-11)’ or ‘Primary (7-11)’. There are also instances where ‘Primary’ is renamed to a subject that already exists, such as ‘Primary with mathematics’ (code: 03).
-
-Some courses are compound subjects—they are made up of several subjects. For example, Biology, Chemistry and Physics together form a course often labelled ‘Combined science’. French, German and Spanish together may form a course labelled ‘Modern languages’.
-
-Other example compound courses include:
+Some courses are made up of multiple subjects. For example,
 
 - Biology and Physical Education
 - Business Studies and Economics
 - English and Drama
 - Maths and Physics
+
+Some courses are made up of multiple subjects and are also labelled differently. For example;
+
+- Biology, Chemistry and Physics together is commonly labelled ‘Combined science’
+- French, German and Spanish together is commonly labelled ‘Modern languages’
+
+Renaming subjects can be problematic. For example, ‘Primary’ (code: 00) is often renamed to ‘Primary (5-11)’ or ‘Primary (7-11)’. But there are also instances where ‘Primary’ is renamed to a subject that already exists, such as ‘Primary with mathematics’ (code: 03).
 
 ## What we changed and why
 
@@ -41,18 +38,22 @@ This change included:
 - providing a means to search through the list of subjects so that a user does not need to scroll through the list of items. For example, they can type ‘primary’ and will be presented with all the primary subjects.
 - repeating the selected subject tags in the context of the filter, providing an immediate and obvious confirmation of the subjects that have been applied and an additional way to remove the filters.
 
-
 ## How it works
 
 The subject filter only shows subjects for the courses offered by the provider.
 
-If there are more than 15 subjects, JavaScript is used to add a search box. Typing in the search box will update the subject list below with subjects that match the search term. If there are no matches, the list will be empty.
+If there are more than 15 subjects offered by the provider, the subject filter is enhanced with JavaScript. In this situation, the filter includes a search box and the list of subject checkboxes is contained in a scrollable region. Typing in the search box will reduce the number of subjects shown, if the search term is found. If the term is not found, the subject list will be empty.
 
-If JavaScript is unavailable, the subjects are still contained within the scrollable region, but the search box is no longer shown.
+If JavaScript is disabled, the subjects are still contained within the scrollable region, but the search box is no longer shown.
 
 If there are 15 subjects or fewer offered by a provider, the subject filter will be displayed as a list of checkboxes.
 
-When a subject has been selected and the filters have been applied, the remove filter ‘tags’ are displayed under ‘selected filters’ at the top of the filter panel. They’re also displayed at the top of the subject filter to tell users what subjects have been selected as they may be hidden in the scrollable region.
+Once one or more subjects are chosen and the filter has been applied, the subject tags will be displayed in the main tag list at the top of the filter panel as well as in context of the subject filter itself. Repeating the filters in context helps to remind users what subjects have been chosen as they may be hidden in the scrollable region.
+
+## Other considerations
+
+- reordering the subject list to show all checked subjects in alphabetical order at the top of the list of subjects, followed by an alphabetical list of unchecked subjects. This was not implemented as reordering applied filters to the top of the list increases error rates and misinterpretations.
+- providing a ‘selected’ count below the filter’s heading similar to that found in the GOV.UK finder frontend components called ‘[option select](https://finder-frontend.herokuapp.com/component-guide/option-select)’. This was not implemented in this iteration as we could not establish a need for it.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -82,8 +83,3 @@ When a subject has been selected and the filters have been applied, the remove f
     }
   }]
 }) }}
-
-## Other considerations
-
-- reordering the subject list to show all checked subjects in alphabetical order at the top of the list of subjects, followed by an alphabetical list of unchecked subjects. This was not implemented as reordering applied filters to the top of the list increases error rates and misinterpretations.
-- providing a ‘selected’ count below the filter’s heading similar to that found in the GOV.UK finder frontend components called ‘[option select](https://finder-frontend.herokuapp.com/component-guide/option-select)’. This was not implemented in this iteration as we could not establish a need for it.
