@@ -1,5 +1,5 @@
 ---
-title: Filter applications by subject
+title: Filtering applications by subject
 description: Let users filter the applications list by the course’s subject
 date: 2021-02-25
 ---
@@ -42,13 +42,13 @@ This change included:
 
 The subject filter only shows subjects for the courses offered by the provider.
 
-If there are more than 15 subjects offered by the provider, the subject filter is enhanced with JavaScript. In this situation, the filter includes a search box and the list of subject checkboxes is contained in a scrollable region. Typing in the search box will reduce the number of subjects shown, if the search term is found. If the term is not found, the subject list will be empty.
+If there are more than 15 subjects, JavaScript is used to add a search box. Typing in the search box will update the subject list below with subjects that match the search term. If there are no matches, the list will be empty.
 
-If JavaScript is disabled, the subjects are still contained within the scrollable region, but the search box is no longer shown.
+If JavaScript is unavailable, the subjects are still contained within the scrollable region, but the search box is no longer shown.
 
 If there are 15 subjects or fewer offered by a provider, the subject filter will be displayed as a list of checkboxes.
 
-Once one or more subjects are chosen and the filter has been applied, the subject tags will be displayed in the main tag list at the top of the filter panel as well as in context of the subject filter itself. Repeating the filters in context helps to remind users what subjects have been chosen as they may be hidden in the scrollable region.
+When a subject has been selected and the filters have been applied, the remove filter ‘tags’ are displayed under ‘selected filters’ at the top of the filter panel. They’re also displayed at the top of the subject filter to tell users what subjects have been selected as they may be hidden in the scrollable region.
 
 ## Other considerations
 
