@@ -4,32 +4,38 @@ description: Some improvements to the activity log and timeline driven by the ne
 date: 2021-03-03
 ---
 
-When we designed the [interview journeys](/manage-teacher-training-applications/interviews-iteration-3/) we realised the activity log and timeline needs to handle events that relate to things that can later be changed or deleted.
+When we designed the [interview journeys](/manage-teacher-training-applications/interviews-iteration-3/) we realised the activity log and timeline need to handle events relating to things that can be changed or deleted.
 
-As a temporary, minimal solution at the time, we decided to hide any ‘view interview’ link on an event where that interview no longer exists.
+As a minimal solution at the time, we decided to hide the ‘view interview’ link on any event relating to an interview which no longer exists.
 
 The problem is that without a link users cannot see the details of the interview and so cannot fully understand what’s happened.
 
+We decided also to look at how notes are displayed in the activity log and timeline. Currently notes appear only as a link, meaning that users always need to click through to read the note.
+
 ## What we did
 
-We added the details of the interview (and other types of event) inline so users can understand what’s happened without leaving the activity log or timeline.
+We added the details of interviews and notes so that users can understand what’s happened without leaving the activity log or timeline.
 
-We also moved away from the blue ‘train track’ styling which didn’t work very well, especially on the activity log where the events are across different applications.
+We also moved away from the blue ‘train track’ styling which didn’t work very well, especially on the activity log where it implied a connection between events in different applications.
 
 It also sets us up nicely to use the same application list layout when we introduce search and filter.
 
 ## How it works
 
-Everything that happens to an application is shown on the timeline and activity log.
+Everything that happens to an application is shown in the timeline and activity log.
 
-On the activity log, events are grouped by day.
+Events are grouped by day in the activity log.
 
-If, for example, an event relates to an interview that exists, a link is provided. If the interview has since been cancelled, all events that relate to that interview will not have a link.
+If an event relates to an interview that exists then a link is provided. If the interview has since been cancelled, all events that relate to that interview will not have a link.
+
+A link is still given for notes.
 
 ## Future considerations
 
-- Adding the ability to filter and search the activity log
-- Inlining further details about all events like marking a condition as met or submitting an application
+We'll consider:
+
+- adding the ability to filter and search the activity log
+- putting further details in the timeline and event log for all events, such as marking a condition as met or submitting an application
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
