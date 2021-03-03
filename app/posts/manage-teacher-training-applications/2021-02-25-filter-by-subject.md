@@ -28,7 +28,7 @@ Some courses are made up of multiple subjects and are also labelled differently,
 - biology, chemistry and physics together is commonly labelled ‘combined science’
 - French, German and Spanish together is commonly labelled ‘modern languages’
 
-Renaming subjects can be problematic. For example, ‘primary’ (code 00) is often renamed to ‘primary (5-11)’ or ‘primary (7-11)’. But there are also instances where ‘primary’ is renamed to a subject that already exists, such as ‘primary with mathematics’ (which is also code 03).
+Renaming subjects can be problematic. For example, ‘primary’ (code 00) is often renamed to ‘primary (5-11)’ or ‘primary (7-11)’. There are also instances where ‘primary’ is renamed to a subject that already exists, such as ‘primary with mathematics’ (which is also code 03).
 
 ## What we changed and why
 
@@ -42,11 +42,13 @@ We repeated the selected tags at the top of the subject filter, providing an imm
 
 The subject filter only shows subjects for the courses offered by the provider.
 
-If there are more than 15 subjects, a scroll bar is added and JavaScript is used to add a search box. Typing in the search box updates the list below it with subjects matching the search term. If there are no matches, the list is empty.
+If there are more than 15 subjects, a scrollable region is created and JavaScript is used to add a search box. Typing in the search box updates the list below it with subjects matching the search term. If there are no matches, the list is empty.
 
 If JavaScript is unavailable, the subjects are still contained within the scrollable region but the search box is no longer shown.
 
-If there are 15 subjects or fewer, the subjects are displayed as a standard list of checkboxes without a scroll bar or search box.
+The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
+
+If there are 15 subjects or fewer, the subject filter will be displayed as a simple list of checkboxes.
 
 When a subject has been selected and the filters have been applied, the remove filter tags are displayed under ‘selected filters’ at the top of the filter panel. They’re also displayed at the top of the subject filter since they may be hidden outside the visible scrollable region.
 
