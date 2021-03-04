@@ -16,7 +16,7 @@ We added the details of the interview (and other types of event) inline so users
 
 We also moved away from the blue ‘train track’ styling which didn’t work very well, especially on the activity log where the events are across different applications.
 
-It also sets us up nicely to use the same application list layout when we introduce search and filter.
+The new styling will also work better than the ‘train track’ when we introduce the filter panel on the left hand side of the page.
 
 ## How it works
 
