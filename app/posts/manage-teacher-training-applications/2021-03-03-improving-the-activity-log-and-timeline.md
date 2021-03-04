@@ -28,11 +28,9 @@ Events are grouped by day in the activity log.
 
 If an event relates to an interview that exists then a link is provided. If the interview has since been cancelled, all events that relate to that interview will not have a link.
 
-A link is still given for notes.
-
 ## Future considerations
 
-We'll consider:
+We’ll consider:
 
 - adding the ability to filter and search the activity log
 - putting further details in the timeline and event log for all events, such as marking a condition as met or submitting an application
