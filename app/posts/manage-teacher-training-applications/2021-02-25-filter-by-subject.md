@@ -16,19 +16,24 @@ The number of subjects offered varies between providers.
 - Maximum number of subjects offered: 28
 - Minimum number of subjects offered: 1
 
-Some courses are made up of multiple subjects, for example:
+Some courses are made up of two subjects, for example:
 
 - biology and physical education
 - business studies and economics
 - English and drama
 - maths and physics
 
-Some courses are made up of multiple subjects and are also labelled differently, for example:
+In these examples, the two subjects are combined into one course title, for example ‘business studies with economics’.
 
-- biology, chemistry and physics together is commonly labelled ‘combined science’
-- French, German and Spanish together is commonly labelled ‘modern languages’
+Some courses are made up of multiple subjects and are also titled differently, for example:
 
-Renaming subjects can be problematic. For example, ‘primary’ (code 00) is often renamed to ‘primary (5-11)’ or ‘primary (7-11)’. There are also instances where ‘primary’ is renamed to a subject that already exists, such as ‘primary with mathematics’ (which is also code 03).
+- biology and chemistry together may be titled ‘Combined science’
+- French and German together is titled ‘modern languages (French and German)’
+- French, German and Spanish together is titled more simply as ‘modern languages’
+
+Course titles can be changed by an administrator. Changes are often made to make title clearer, for example adding the age group to the title.
+
+Changing the course title can cause problems. For example, the ‘primary’ subject (code 00) is often renamed to ‘primary (5-11)’ or ‘primary (7-11)’. There are also instances where ‘primary’ is renamed to a subject that already exists, such as ‘primary with mathematics’ (which is also code 03).
 
 ## What we changed and why
 
@@ -40,7 +45,9 @@ We repeated the selected tags at the top of the subject filter, providing an imm
 
 ## How it works
 
-The subject filter only shows subjects for the courses offered by the provider.
+The subject filter only shows individual subjects for the courses offered by the provider.
+
+For example, if the provider offers a course called ‘business studies with economics’ the filter will include business studies and economics as separate options. If the provider offers a course called ‘modern languages’, which includes French, German and Spanish, the filter will include the three languages.
 
 If there are more than 15 subjects, a scrollable region is created and JavaScript is used to add a search box. Typing in the search box updates the list below it with subjects matching the search term. If there are no matches, the list is empty.
 
