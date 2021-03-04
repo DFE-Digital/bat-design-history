@@ -36,6 +36,7 @@ We'll consider:
 
 - adding the ability to filter and search the activity log
 - putting further details in the timeline and event log for all events, such as marking a condition as met or submitting an application
+- adding content to past events to spell out that something has changed or been deleted
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
