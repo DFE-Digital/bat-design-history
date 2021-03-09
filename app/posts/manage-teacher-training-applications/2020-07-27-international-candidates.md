@@ -61,7 +61,7 @@ We will display this information in the format of a card, or multiple cards, sho
 
 * ### Institution and county
 
-  For example ‘University of Paris, France’. This information is only shown for international degrees.
+  For example ‘University of Paris, France’. We show this information for international degrees to help providers work out equivalencies (an awarding institution can have quite a bearing on this).
 
 * ### Year started and year graduated
 
