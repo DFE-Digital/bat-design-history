@@ -70,7 +70,7 @@ We ask for the placement school’s unique reference number (URN) in a plain tex
 
 The next iteration on this field will most likely be a search with autocomplete results.
 
-In DTTP, placement duration is recorded in total number of days. We’re assuming, however, that some users might not have start and finish dates or know the exact number of days at the time of inputting the data.  We also don’t think it’s clear whether users should only count weekdays or full weeks.
+In DTTP, placement duration is recorded in total number of days. We’re assuming, however, that some users might not have start and finish dates or know the exact number of days at the time of inputting the data. We also don’t think it’s clear whether users should only count weekdays or full weeks.
 
 By asking for a start month and duration in weeks, we’re hoping to satisfy the need for placement data whilst not hindering our users’ ability to complete the tasks of creating and managing trainee records in a timely manner.
 
