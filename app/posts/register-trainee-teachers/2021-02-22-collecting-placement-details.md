@@ -33,7 +33,7 @@ However, the pre-COVID guidance is far more specific about the number of schools
 
 >“Trainees must have taught in 2 schools prior to the award of QTS. It is not sufficient for trainees only to have had experience of working in 2 schools. Providers may wish to consider whether a trainee with prior assessed experience of teaching in a school has gained enough relevant teaching experience to allow the provider confidently to count that previous teaching as one of the 2 schools specified.”
 
-We do not know what the guidance will be in the next academic year. This will have a significant impact on how  we collect placement details.
+We do not know what the guidance will be in the next academic year.
 
 ## Designs
 
