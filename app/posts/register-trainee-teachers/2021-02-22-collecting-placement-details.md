@@ -163,7 +163,7 @@ Will our users notice the banner prompting for placement details? We hope to val
 We also want to understand more about the details providers keep, for example:
 
 * do they know the placement location’s URN?
-* do they know the start and end dates for each placement?  
+* do they know the start and end dates for each placement?
 
 ## Future work
 
