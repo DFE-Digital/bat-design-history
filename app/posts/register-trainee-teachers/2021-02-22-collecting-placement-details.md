@@ -29,7 +29,7 @@ Current guidance in regards to training in schools states:
 
 Source: [Initial teacher training (ITT): criteria and supporting advice](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#c23-training-in-schools)
 
-However, the pre-COVID guidance is far more specific about the number of schools that trainee must have taught in:
+However, the pre-COVID guidance is far more specific about the number of schools that a trainee must have taught in:
 
 >“Trainees must have taught in 2 schools prior to the award of QTS. It is not sufficient for trainees only to have had experience of working in 2 schools. Providers may wish to consider whether a trainee with prior assessed experience of teaching in a school has gained enough relevant teaching experience to allow the provider confidently to count that previous teaching as one of the 2 schools specified.”
 
