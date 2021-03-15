@@ -7,9 +7,9 @@ date: 2021-02-22
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "figure/macro.njk" import appFigure with context %}
 
-Our internal data consumers need us to make inputting training placement details mandatory  before recommending trainees for their qualifications. There is a need to ensure there are enough ITT placement opportunities to meet the potential rise in trainee teachers from 2021 onwards yet there is currently a significant knowledge gap in relation to the current placement capacity and behaviour of the ITT market.
+Our internal data consumers need us to make inputting training placement details mandatory before recommending trainees for their qualifications. There is a need to ensure there are enough ITT placement opportunities to meet the potential rise in trainee teachers from 2021 onwards yet there is currently a significant knowledge gap in relation to the current placement capacity and behaviour of the ITT market.
 
-DTTP allows users to input placement details but the fields are optional and, as a result, data is rarely entered. Additionally, the majority of data is inputted in DTTP before providers know the details of all trainee placements so entering placement data would require the providers to revisit the record at a later date.
+DTTP allows users to input placement details, but the fields are optional. As a result, the data is rarely entered. Additionally, the majority of data is input in DTTP before providers know the details of all trainee placements so entering placement data would require the providers to revisit the record at a later date.
 
 ## Training placement criteria
 
@@ -29,11 +29,11 @@ Current guidance in regards to training in schools states:
 
 Source: [Initial teacher training (ITT): criteria and supporting advice](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#c23-training-in-schools)
 
-However, the pre-COVID guidance is far more specific about the number of schools that trainee must have taught in:
+However, the pre-COVID guidance is far more specific about the number of schools that a trainee must have taught in:
 
 >“Trainees must have taught in 2 schools prior to the award of QTS. It is not sufficient for trainees only to have had experience of working in 2 schools. Providers may wish to consider whether a trainee with prior assessed experience of teaching in a school has gained enough relevant teaching experience to allow the provider confidently to count that previous teaching as one of the 2 schools specified.”
 
-We do not know what the guidance will be in the next academic year. This will have a significant impact on how  we collect placement details.
+We do not know what the guidance will be in the next academic year.
 
 ## Designs
 
@@ -60,7 +60,7 @@ Answering ‘No, I’ll add them later’ marks the section complete, while answ
 {{ appFigure({
   image: {
     file: "does-the-user-have-placement-details-yet.png",
-    alt: "Do you have the trainee's placement details?"
+    alt: "Do you have the trainee’s placement details?"
   }
 }) }}
 
@@ -70,7 +70,7 @@ We ask for the placement school’s unique reference number (URN) in a plain tex
 
 The next iteration on this field will most likely be a search with autocomplete results.
 
-In DTTP, placement duration is recorded in total number of days. We’re assuming, however, that some users might not have start and finish dates or know the exact number of days at the time of inputting the data.  We also don’t think it’s clear whether users should only count weekdays or full weeks.
+In DTTP, placement duration is recorded in total number of days. We’re assuming, however, that some users might not have start and finish dates or know the exact number of days at the time of inputting the data. We also don’t think it’s clear whether users should only count weekdays or full weeks.
 
 By asking for a start month and duration in weeks, we’re hoping to satisfy the need for placement data whilst not hindering our users’ ability to complete the tasks of creating and managing trainee records in a timely manner.
 
@@ -163,7 +163,7 @@ Will our users notice the banner prompting for placement details? We hope to val
 We also want to understand more about the details providers keep, for example:
 
 * do they know the placement location’s URN?
-* do they know the start and end dates for each placement?  
+* do they know the start and end dates for each placement?
 
 ## Future work
 
