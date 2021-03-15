@@ -9,7 +9,7 @@ date: 2021-02-22
 
 Our internal data consumers need us to make inputting training placement details mandatory before recommending trainees for their qualifications. There is a need to ensure there are enough ITT placement opportunities to meet the potential rise in trainee teachers from 2021 onwards yet there is currently a significant knowledge gap in relation to the current placement capacity and behaviour of the ITT market.
 
-DTTP allows users to input placement details but the fields are optional and, as a result, data is rarely entered. Additionally, the majority of data is inputted in DTTP before providers know the details of all trainee placements so entering placement data would require the providers to revisit the record at a later date.
+DTTP allows users to input placement details, but the fields are optional. As a result, the data is rarely entered. Additionally, the majority of data is input in DTTP before providers know the details of all trainee placements so entering placement data would require the providers to revisit the record at a later date.
 
 ## Training placement criteria
 
