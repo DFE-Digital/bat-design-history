@@ -60,7 +60,7 @@ Answering ‘No, I’ll add them later’ marks the section complete, while answ
 {{ appFigure({
   image: {
     file: "does-the-user-have-placement-details-yet.png",
-    alt: "Do you have the trainee's placement details?"
+    alt: "Do you have the trainee’s placement details?"
   }
 }) }}
 
