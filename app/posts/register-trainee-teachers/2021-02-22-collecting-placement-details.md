@@ -1,6 +1,6 @@
 ---
 title: Collecting placement details
-description: A first pass at collecting a trainees placement detials 
+description: A first pass at collecting a trainees’ placement details 
 date: 2021-02-22
 ---
 
