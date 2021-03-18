@@ -59,7 +59,7 @@ Using the Publish database, we looked at how many SDs are connected to each HEI.
 - Maximum number of SDs per HEI: 33
 - Minimum number of SDs per HEI: 0
 
-If we ask an HEI user separately about each SD then on average they will see 10 pages of questions. 
+If we ask an HEI user separately about each SD then on average they will see 10 pages of questions.
 
 ### Number of HEIs connected to each SD
 
@@ -429,8 +429,8 @@ After analysing the research findings from iteration 3, we decided not to contin
 
 We made this decision because we found that:
 
-* some users would find it hard to complete the process in a single session
-* the user giving contact details might not be able to agree to the DSA
-* it was hard to give users enough information for them to complete the process
+- some users would find it hard to complete the process in a single session
+- the user giving contact details might not be able to agree to the DSA
+- it was hard to give users enough information for them to complete the process
 
 We decided to try a simpler approach, gathering contact details in a spreadsheet and setting up SDs in manage using the support console.
