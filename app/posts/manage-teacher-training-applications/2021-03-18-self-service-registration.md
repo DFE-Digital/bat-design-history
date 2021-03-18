@@ -1,12 +1,10 @@
 ---
-title: Self-service registration for accrediting bodies and their training providers
-description: Let higher education institutions register on Manage and invite their school direct partners
+title: Self-service registration for higher education institutions and their school direct partners
+description: Exploring ways to help higher education institutions register and invite their school direct partners to use the Manage service
 date: 2021-03-18
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
-
-The aim of the work was to answer the following question:
 
 How might we provide a self-service journey for higher education institutions (HEIs) and their school direct partners (SDs) to register on the Manage service?
 
