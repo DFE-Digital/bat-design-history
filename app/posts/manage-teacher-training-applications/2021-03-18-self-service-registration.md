@@ -20,7 +20,7 @@ Adding them all manually will be a great deal of work for the transition team. W
 
 ## Requirements
 
-Before we started designing possible solutions, we found out about what the process needs to include.
+Before we started designing possible solutions, we spoke to members of the provendor and transition teams about their requirements.
 
 These requirements are not presented as user needs, since this work is being done primarily for the benefit of teams within DfE.
 
@@ -30,11 +30,11 @@ We need to:
 
 - make sure that HEIs and SDs sign a data sharing agreement (DSA)
 - record who signed the DSA
-- only show any personal data to HEIs and SDs after they’ve sign the DSA, so we do not violate data protection rules
+- only show personal data to HEIs and SDs after they’ve sign the DSA, so we do not violate data protection rules
 
 ### Getting contact details
 
-We need to make sure we have an up to date list of the contact names and email addresses for each SD.
+We need to make sure we have an up to date contact name and email address for each SD.
 
 ### Inviting training providers
 
@@ -47,7 +47,7 @@ We need to:
 
 ## Provider data analysis
 
-There are 87 HEIs in the Manage database. 22 HEIs are set up to use Manage and the remaining 65 are not.
+There are 87 HEIs in the Manage database. 22 HEIs have been set up to use Manage and the remaining 65 have not.
 
 ### Number of SDs connected to each HEI
 
@@ -57,12 +57,11 @@ Using the Publish database, we looked at how many SDs are connected to each HEI.
 - 24% of HEIs have between 1 and 10 SDs
 - 36% of HEIs have between 11 and 20 SDs
 - 15% of HEIs have more than 20 SDs
+- Average number of SDs per HEI: 10
+- Maximum number of SDs per HEI: 33
+- Minimum number of SDs per HEI: 0
 
-Average number of SDs per HEI: 10
-Maximum number of SDs per HEI: 33
-Minimum number of SDs per HEI: 0
-
-This is particularly relevant for the use of a one-thing-per-page design. If we ask an HEI user separately about each SD then on average they will see 10 pages of questions. If we ask about all the contact details on a single page then on average there will be 10 items in the list.
+If we ask an HEI user separately about each SD then on average they will see 10 pages of questions. 
 
 ### Number of HEIs connected to each SD
 
@@ -71,7 +70,7 @@ This is particularly relevant for the use of a one-thing-per-page design. If we 
 - 6% have 3 HEIs
 - 3% have more than 3 HEIs
 
-This is important since if an SD has multiple HEIs, they only need to be onboarded once so the other HEIs do not need to provide onboarding information.
+This is important since if an SD has multiple HEIs, they only need to be onboarded once. The other HEIs accrediting their courses will not need to provide contact details for them.
 
 ### Cross-over between users of Manage and Publish
 
@@ -87,7 +86,7 @@ This is important since if an SD has multiple HEIs, they only need to be onboard
 - 27% of active Publish users are in Manage
 - 23% of active Publish users are active in Manage
 
-Since there are a lot of users in Publish who are not set up in Manage, we have a large pool of contact details to draw from. These users will already have DfE sign in accounts.
+Since there are a lot of users in Publish who are not set up in Manage, we have a large pool of contact details to draw from. These users will already have DfE Sign In accounts.
 
 ## Iteration 1
 
@@ -95,12 +94,12 @@ We decided to start by prototyping a small service which would allow HEI users t
 
 ### What we did and why
 
-In our first iteration, we wanted HEI users to answer two questions:
+In our first iteration, we wanted HEI users to answer two questions.
 
 - Do you want to open courses at the training provider?
 - Who do you want to manage teacher training applications at the provider?
 
-This would allow us to invite the right people and leave the HEI in control of when courses they accredit become available.
+This would allow us to invite the right people at each SD, while leaving the HEI in control of when their courses become available.
 
 {{ appFigure({
   image: {
@@ -112,7 +111,7 @@ This would allow us to invite the right people and leave the HEI in control of w
 
 The journey began on a ‘start page’ listing the SDs working with the HEI and setting out the steps involved in creating an account.
 
-The aim was to give the user a chance to gather information before starting, which is particularly important since it is not possible to save and return to the process.
+The aim was to give the user a chance to gather information before starting, which is important since it is not possible to save and return to the process.
 
 Users would reach the start page from an email. For this iteration we did not include DfE Sign In account creation, as we assumed that the email would contain a ‘magic link’ bypassing it.
 
@@ -128,7 +127,7 @@ In this iteration we assumed that HEIs may not want to make courses available on
 
 After the start page, the user was asked whether they would like to open courses at each SD. For this iteration we set this out as one SD per page.
 
-If the user said yes, they were asked for contact details. No fields were pre-filled as we assumed we wanted to gather fresh information.
+If the user said they would like to open courses then they were asked for contact details. No fields were pre-filled as we assumed we wanted to gather fresh information.
 
 {{ appFigure({
   image: {
@@ -140,7 +139,7 @@ If the user said yes, they were asked for contact details. No fields were pre-fi
 
 Once the user had decided whether or not to open courses for each SD, they were asked to complete a data sharing agreement (DSA).
 
-We took the existing DSA directly from Manage without any changes. We didn’t want to check how readable it was, we wanted to find out whether users in research felt they could sign it or would need to refer to someone else.
+We took the existing DSA directly from Manage without any changes. Our main concern was not readability, but whether users felt they could sign it or would need to refer to someone else.
 
 {{ appFigure({
   image: {
@@ -150,7 +149,7 @@ We took the existing DSA directly from Manage without any changes. We didn’t w
   caption: "Figure 4: Data sharing agreement"
 }) }}
 
-The check answers page was straightforward. We needed to make it clear that clicking the green button would send invitations to SDs. We also decided to remind the user that they would also be agreeing to the DSA.
+On the check answers page we needed to make it clear that clicking the green button would send invitations to SDs. We also decided to remind the user that they would be agreeing to the DSA.
 
 {{ appFigure({
   image: {
@@ -159,6 +158,8 @@ The check answers page was straightforward. We needed to make it clear that clic
   },
   caption: "Figure 5: Check your answers page"
 }) }}
+
+We used a standard success page and did not tailor it to this journey at all. This was largely due to a lack of time, but also because we did not know what the next steps would be.
 
 {{ appFigure({
   image: {
@@ -227,7 +228,7 @@ We also listed the SDs which are already using Manage, so that the user would no
   caption: "Figure 10: Start page inviting providers to manage teacher training applications"
 }) }}
 
-For each of the SDs that needed to be onboarded, we included a list of people we knew were already in the Apply service on the Publish side. This was intended to further reduce the effort needed to complete the form.
+For each of the SDs which were not on Manage, we included a list of people who already had accounts in the Publish service. This was intended to further reduce the effort needed to complete the form.
 
 Users could either choose one of these people or add new contact details.
 
@@ -265,7 +266,7 @@ The data sharing agreement remained the same as in Manage.
   caption: "Figure 14: Data sharing agreement"
 }) }}
 
-We removed mention of the DSA from the ‘check your answers’ page since there’s already a check box at the end of the DSA itself. That should be enough to confirm that the user has agreed to the DSA.
+We removed mention of the DSA from the ‘check your answers’ page since there was already a confirmation check box at the end of the DSA itself.
 
 {{ appFigure({
   image: {
@@ -316,15 +317,15 @@ We were still assuming that the user would have entered this service through a �
 
 #### Contact details
 
-- Users weren’t sure where the email details came from, although this wasn’t helped by the use of test data.
+- Users weren’t sure where the email details came from, although this wasn’t helped by the use of test data rather than email addresses they recognised.
 
 #### End of process
 
 - HEIs would like to be notified once an SD completes their registration on Manage.
 
-## Iteration 4: reorganising the flow and including DfE sign in
+## Iteration 4: reorganising the flow and including DfE Sign In
 
-For this iteration we reordered the questions so that DfE sign-in and the DSA came before asking who to invite from each training provider.
+For this iteration we reordered the questions so that DfE Sign In and the DSA came before asking who to invite from each training provider.
 
 We decided that we would not be able to use a ‘magic link’ as they only work for a short time. It would be better to use DfE Sign In and get users to set up accounts in the usual way.
 
@@ -425,3 +426,13 @@ The invitation, check answers and success pages were the same as in previous ite
 }) }}
 
 ## Next steps
+
+After analysing the research findings from iteration 3, we decided not to continue designing a service for HEI users to invite their SD partners.
+
+We made this decision because we found that:
+
+* some users would find it hard to complete the process in a single session
+* the user giving contact details might not be able to agree to the DSA
+* it was hard to give users enough information for them to complete the process
+
+We decided to try a simpler approach, gathering contact details in a spreadsheet and setting up SDs in manage using the support console.
