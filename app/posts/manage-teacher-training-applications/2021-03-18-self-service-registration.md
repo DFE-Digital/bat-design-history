@@ -17,7 +17,9 @@ Around 70 HEIs have not yet registered to use Manage. On average each of them ac
 We need to make sure that all these organisations have registered to use Manage before the UCAS service is turned off in October 2021.
 
 Adding them all manually will be a great deal of work for the transition team. We want to make the process more efficient, while not placing a significant burden on HEIs or SDs.
+
 ## Requirements
+
 Before we started designing possible solutions, we found out about what the process needs to include.
 
 These requirements are not presented as user needs, since this work is being done primarily for the benefit of teams within DfE.
