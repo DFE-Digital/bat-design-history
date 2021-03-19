@@ -88,7 +88,7 @@ As there are a lot of Publish users who are not on Manage, we can use their info
 
 ## Iteration 1
 
-We decided to start by prototyping a small service which would allow HEI users to provide us with the information we need.
+We decided to start by prototyping a separate flow that would allow HEI users to provide us with the information we need.
 
 ### What we did and why
 
