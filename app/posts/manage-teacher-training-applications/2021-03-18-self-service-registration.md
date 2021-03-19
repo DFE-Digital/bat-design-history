@@ -6,7 +6,7 @@ date: 2021-03-18
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-How might we provide a self-service journey for higher education institutions (HEIs) and their school direct partners (SDs) to register on the Manage service?
+We explored ways to help higher education institutions (HEIs) register to use Manage and invite their school direct partners (SDs) to register.
 
 ## Why we are doing this
 
