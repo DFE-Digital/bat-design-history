@@ -55,6 +55,8 @@ If JavaScript is unavailable, the subjects are still contained within the scroll
 
 The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
 
+The scroll area shows 4 and half subjects to help users realise there are are other subjects in the list. This smaller height lets users move to a filter below.
+
 If there are 15 subjects or fewer, the subject filter will be displayed as a simple list of checkboxes.
 
 When a subject has been selected and the filters have been applied, the remove filter tags are displayed under ‘selected filters’ at the top of the filter panel. They’re also displayed at the top of the subject filter since they may be hidden outside the visible scrollable region.
@@ -65,6 +67,7 @@ We considered some changes which were not implemented.
 
 - Reordering the subject list to show all checked subjects in alphabetical order at the top of the list of subjects, followed by an alphabetical list of unchecked subjects. This was not implemented as it is known to increase error rates and misinterpretations.
 - Providing a ‘selected’ count below the filter’s heading similar to that found in the GOV.UK finder frontend component called [option select](https://finder-frontend.herokuapp.com/component-guide/option-select). This was not implemented in this iteration as we could not establish a need for it.
+- Putting each filter section into an expandable region, but hiding the content means the user has to work harder to reveal the content.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
