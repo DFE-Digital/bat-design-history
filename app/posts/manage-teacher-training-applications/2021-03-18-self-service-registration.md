@@ -14,7 +14,7 @@ Around 70 HEIs have not yet registered to use Manage. On average each of them ac
 
 We need to make sure that all these organisations have registered to use Manage before the UCAS service is turned off in October 2021.
 
-Adding them all manually will be a great deal of work for the transition team. We want to make the process more efficient, while not placing a significant burden on HEIs or SDs.
+Adding them all manually will be a lot of work for the transition team. We want to make the process more efficient, without adding a significant burden on users at HEIs or SDs.
 
 ## Requirements
 
@@ -68,7 +68,7 @@ If we ask an HEI user separately about each SD then on average they will see 10 
 - 6% have 3 HEIs
 - 3% have more than 3 HEIs
 
-This is important since if an SD has multiple HEIs, they only need to be onboarded once. The other HEIs accrediting their courses will not need to provide contact details for them.
+This is important because if an SD has multiple HEIs, they only need to be registered once. The other HEIs ratifying their courses will not need to provide contact details for them.
 
 ### Cross-over between users of Manage and Publish
 
@@ -84,7 +84,7 @@ This is important since if an SD has multiple HEIs, they only need to be onboard
 - 27% of active Publish users are in Manage
 - 23% of active Publish users are active in Manage
 
-Since there are a lot of users in Publish who are not set up in Manage, we have a large pool of contact details to draw from. These users will already have DfE Sign In accounts.
+As there are a lot of Publish users who are not on Manage, we can use their information to ease the registration process as they’ll already have DfE Sign-in accounts.
 
 ## Iteration 1
 
@@ -121,7 +121,7 @@ Users would reach the start page from an email. For this iteration we did not in
   caption: "Figure 2: Set up your account"
 }) }}
 
-In this iteration we assumed that HEIs may not want to make courses available on Find straight away.
+In this iteration we assumed that HEIs may not want to open courses on Find during this process.
 
 After the start page, the user was asked whether they would like to open courses at each SD. For this iteration we set this out as one SD per page.
 
@@ -147,7 +147,7 @@ We took the existing DSA directly from Manage without any changes. Our main conc
   caption: "Figure 4: Data sharing agreement"
 }) }}
 
-On the check answers page we needed to make it clear that clicking the green button would send invitations to SDs. We also decided to remind the user that they would be agreeing to the DSA.
+On the ‘check answers’ page we needed to make it clear that clicking ‘send invites’ would send invitations to SDs. We also decided to remind the user that they would be agreeing to the DSA.
 
 {{ appFigure({
   image: {
