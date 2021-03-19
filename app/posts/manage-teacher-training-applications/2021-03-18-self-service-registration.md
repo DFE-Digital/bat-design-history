@@ -111,7 +111,7 @@ The journey began on a ‘start page’ listing the SDs working with the HEI and
 
 The aim was to give the user a chance to gather information before starting, which is important since it is not possible to save and return to the process.
 
-Users would reach the start page from an email. For this iteration we did not include DfE Sign In account creation, as we assumed that the email would contain a ‘magic link’ bypassing it.
+Users would reach the start page from an email. For this iteration we did not include DfE Sign-in account creation, as we assumed that the email would contain a ‘magic link’ bypassing it.
 
 {{ appFigure({
   image: {
@@ -152,9 +152,9 @@ On the ‘check answers’ page we needed to make it clear that clicking ‘send
 {{ appFigure({
   image: {
     file: "self-service-registration-v1-04.png",
-    alt: "Check your answers page"
+    alt: "‘Check answers’ page"
   },
-  caption: "Figure 5: Check your answers page"
+  caption: "Figure 5: ‘Check answers’ page"
 }) }}
 
 We used a standard success page and did not tailor it to this journey at all. This was largely due to a lack of time, but also because we did not know what the next steps would be.
@@ -264,14 +264,14 @@ The data sharing agreement remained the same as in Manage.
   caption: "Figure 14: Data sharing agreement"
 }) }}
 
-We removed mention of the DSA from the ‘check your answers’ page since there was already a confirmation check box at the end of the DSA itself.
+We removed mention of the DSA from the ‘check answers’ page since there was already a confirmation check box at the end of the DSA itself.
 
 {{ appFigure({
   image: {
     file: "self-service-registration-v3-04.png",
-    alt: "Check your answers page"
+    alt: "‘Check answers’ page"
   },
-  caption: "Figure 15: Check your answers page"
+  caption: "Figure 15: ‘Check answers’ page"
 }) }}
 
 The success page had minimal content, saying that:
@@ -321,11 +321,11 @@ We were still assuming that the user would have entered this service through a �
 
 - HEIs would like to be notified once an SD completes their registration on Manage.
 
-## Iteration 4: reorganising the flow and including DfE Sign In
+## Iteration 4: reorganising the flow and including DfE Sign-in
 
-For this iteration we reordered the questions so that DfE Sign In and the DSA came before asking who to invite from each training provider.
+For this iteration we reordered the questions so that DfE Sign-in and the DSA came before asking who to invite from each training provider.
 
-We decided that we would not be able to use a ‘magic link’ as they only work for a short time. It would be better to use DfE Sign In and get users to set up accounts in the usual way.
+We decided that we would not be able to use a ‘magic link’ as they only work for a short time. It would be better to use DfE Sign-in and get users to set up accounts in the usual way.
 
 {{ appFigure({
   image: {
@@ -337,7 +337,7 @@ We decided that we would not be able to use a ‘magic link’ as they only work
 
 The start page set out the steps of the journey:
 
-- either sign in or register with DfE Sign In
+- either sign in or register with DfE Sign-in
 - accept the DSA
 - provide contact details for SDs
 
@@ -351,14 +351,14 @@ It also listed the SDs which required contact details and those which did not.
   caption: "Figure 18: Start page"
 }) }}
 
-We mocked up the DfE Sign In flow to make the overall journey more realistic.
+We mocked up the DfE Sign-in flow to make the overall journey more realistic.
 
 {{ appFigure({
   image: {
     file: "self-service-registration-v4-02.png",
-    alt: "DfE sign in"
+    alt: "DfE Sign-in"
   },
-  caption: "Figure 19: DfE sign in"
+  caption: "Figure 19: DfE Sign-in"
 }) }}
 
 The DSA remained the same as in previous iterations.
@@ -371,7 +371,7 @@ The DSA remained the same as in previous iterations.
   caption: "Figure 19: Data sharing agreement"
 }) }}
 
-We included a mid-journey ‘start page’ after DfE Sign In and the DSA, in case the user had forgotten the details of what they would need to do.
+We included a mid-journey ‘start page’ after DfE Sign-in and the DSA, in case the user had forgotten the details of what they would need to do.
 
 {{ appFigure({
   image: {
@@ -410,9 +410,9 @@ The invitation, check answers and success pages were the same as in previous ite
 {{ appFigure({
   image: {
     file: "self-service-registration-v4-06.png",
-    alt: "Check your answers page"
+    alt: "‘Check answers’ page"
   },
-  caption: "Figure 24: Check your answers page"
+  caption: "Figure 24: ‘Check answers’ page"
 }) }}
 
 {{ appFigure({
