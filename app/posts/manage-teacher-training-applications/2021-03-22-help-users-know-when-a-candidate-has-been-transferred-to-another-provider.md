@@ -1,5 +1,5 @@
 ---
-title: Help users know when a candidate is transferred to another provider
+title: Help users know when a candidate has been transferred to another provider
 description: As a candidate can be moved between organisations, it’s useful for users at those organisations to know what’s happened
 date: 2021-03-22
 related:
@@ -14,11 +14,11 @@ The Manage service lets users transfer a candidate to a different course. That c
 - users at a training provider which runs courses ratified by more than one accredited body can move a candidate to a course at a different accredited body
 - users who belong to more than one provider can move candidates between them
 
-When a candidate is transferred users at the old provider will no longer be able to see the application in their application list even though they may have links to the application in old email notifications and in the activity log.
+When a candidate is transferred, users at the old provider will no longer be able to see the application in their application list even though they may have links to the application in old email notifications and in the activity log.
 
 Also, users at the new provider will suddenly be able to see the application in their application list. This may be disconcerting.
 
-There is also the question of what these users see when they do browse to an application they no longer own or newly own.
+There’ss also the question of what users see when they do browse to an application they no longer own or newly own.
 
 ## Notifying users at the old and new provider
 
@@ -48,7 +48,7 @@ We also decided to:
 Users at the new provider can see everything except:
 
 - interviews that were arranged with the old provider
-- notes made when the coursethe old provider made
+- notes made when the course was with the old provider
 - events relating to a course at the old provider
 
 See details of exactly what users at the new provider can see:
@@ -58,7 +58,7 @@ See details of exactly what users at the new provider can see:
 
 - Added the accredited body next to each radio button on the course list page
 - Change ‘Provider’ to ‘Training provider’
-- Add ‘Accredited Body’ to the offer details panel when the training provider is not the accredited body (to match prod)
+- Add ‘Accredited body’ to the offer details panel when the training provider is not the accredited body (to match prod)
 
 ## Future considerations
 
