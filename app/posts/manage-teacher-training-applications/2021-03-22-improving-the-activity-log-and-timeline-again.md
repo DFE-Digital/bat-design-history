@@ -25,9 +25,14 @@ The activity log is only different in that the candidate’s name is shown in th
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Description",
+    text: "Activity log",
     img: {
-      src: "image.png"
+      src: "activity-log.png"
+    }
+  }, {
+    text: "Timeline",
+    img: {
+      src: "timeline.png"
     }
   }]
 }) }}
