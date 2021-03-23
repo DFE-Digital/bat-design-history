@@ -4,21 +4,23 @@ description: Various improvements to the activity log and timeline driven by the
 date: 2021-03-22
 ---
 
-Before now, the design of the activity log did not show all of the event details.
+Before now, the design of the activity log did not show all of the details relating to an event.
 
-For example, the make offer or change offer event did not show the conditons of the offer. This means that if a condition is removed, you cannot tell who removed it.
+For example, the make offer or change offer event did not show the conditons of the offer.
 
-## What we did
+This means users cannot tell that an offer was changed due to a condition being removed or added.
 
-We added an event for:
+So we added all the relevant details for events relating to:
 
-- making an offer
-- adding, removing or changing the conditions of an offer
+- making or changing an offer including adding or removing conditions
 - updating the status of conditions
 - deferring an offer
 - reconfirming an offer
+- adding a note
 
-We also changed all the offer events to show the conditions of the offer.
+We also tried to make sure the activity log and timeline content are as consistent as possible.
+
+The activity log is only different in that the candidate’s name is shown in the event title. This isn’t needed on the timeline as all events on the timeline relate to that application.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
