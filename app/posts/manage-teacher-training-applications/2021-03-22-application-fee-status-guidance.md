@@ -64,3 +64,32 @@ If the candidate has not met the criteria for funding, we display the message �
 If the candidate does not have the right to work or study in the UK at the time of the application, we display ‘Candidate needs to apply for permission to work and study in the UK’ in the candidate details section.
 
 ## Other considerations
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Application details – Eligible for funding",
+    caption: "Figure 1: The application details screen showing the candidate is eligible for home tuition fee funding",
+    img: {
+      src: "application-details-eligible-for-funding.png"
+    }
+  }, {
+    text: "Application details – Not eligible for funding (right to work or study)",
+    caption: "Figure 2: The application details screen showing the candidate is not eligible for home tuition fee funding because the candidate does not have a right to work or study in the UK",
+    img: {
+      src: "application-details-not-eligible-for-funding-right-to-work.png"
+    }
+  },  {
+    text: "Application details – Not eligible for funding (international address)",
+    caption: "Figure 3: The application details screen showing the candidate is not eligible for home tuition fee funding because their address in not in the UK",
+    img: {
+      src: "application-details-not-eligible-for-funding-address.png"
+    }
+  },{
+    text: "Application details – Not eligible for funding (right to work or study and international address)",
+    caption: "Figure 4: The application details screen showing the candidate is not eligible for home tuition fee funding because the candidate does not have a right to work or study in the UK and they do not have a UK address",
+    img: {
+      src: "application-details-not-eligible-for-funding-right-to-work-and-address.png"
+    }
+  }]
+}) }}
