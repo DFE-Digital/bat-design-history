@@ -4,7 +4,7 @@ description: Why we decided to stop asking users whether or not they want to rec
 date: 2021-03-05
 ---
 
-When a user rejects an application, they have to say whether or not they want to receive future applgit chications from the candidate.
+When a user rejects an application, they have to say whether or not they want to receive future applications from the candidate.
 
 We ask this question so that:
 
