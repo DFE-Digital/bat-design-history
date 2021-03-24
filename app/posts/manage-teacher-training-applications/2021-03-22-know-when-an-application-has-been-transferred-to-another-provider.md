@@ -81,29 +81,34 @@ In future, we’ll research or consider:
       src: "interviews-page--transferred.png"
     }
   }, {
+    text: "Notes page (transferred)",
+    img: {
+      src: "notes-page--transferred.png"
+    }
+  }, {
     text: "Timeline page (transferred)",
     img: {
       src: "timeline-page--transferred.png"
     }
   }, {
-    text: "Make Offer: conditions",
+    text: "Make decision",
+    img: {
+      src: "make-decision.png"
+    }
+  }, {
+    text: "Make offer: conditions",
     img: {
       src: "make-offer--conditions.png"
     }
   }, {
-    text: "Make Offer: check answers",
+    text: "Make offer: check answers",
     img: {
       src: "make-offer--check-answers.png"
     }
   }, {
-    text: "Make Offer: success",
+    text: "Make offer: success",
     img: {
       src: "make-offer--success.png"
-    }
-  }, {
-    text: "Offer page",
-    img: {
-      src: "offer-page.png"
     }
   }, {
     text: "Change offer: training provider",
