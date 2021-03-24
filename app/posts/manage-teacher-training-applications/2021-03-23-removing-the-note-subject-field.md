@@ -1,12 +1,12 @@
 ---
-title: Removing the note subject field
+title: Removing the subject field from notes
 description: Why we decided to remove the note subject field
 date: 2021-03-23
 ---
 
-Currently, a note is made up of a subject and message. The reason for having the subject was so that it could [be squeezed into the application list](/manage-teacher-training-applications/sorting-by-rbd-date/#sorting-by-last-changed-default).
+A note is currently made up of a subject and a message. The reason for having the subject was so that it could be [squeezed into the application list](/manage-teacher-training-applications/sorting-by-rbd-date/#sorting-by-last-changed-default).
 
-But as we [no longer show the note on the application list](/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/) we’ve decided to remove - this makes it’s easier to create a note.
+Since we no longer show the subject on the application list, we’ve decided not to include the field on the ‘Add note’ page. This will make it easier for users to create a note. 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
