@@ -191,18 +191,16 @@ The user could only complete the second task once the first had been completed.
     file: "self-service-registration-v2-02.png",
     alt: "The task list"
   },
-  caption: "Figure 8: The task list"
+  caption: "Figure 8: Task list page"
 }) }}
 
-## Iteration 3: assuming courses will be opened
+We did not use the task list pattern as we decided it would only be of value if we allowed the ability to save and return later. Without allowing this, the user would still need to gather the contact details in advance whether they had to enter them in a fixed sequence or in an order of their own choosing.
 
-We created a third iteration to test with users.
+## Iteration 3: assuming courses will be opened
 
 In this iteration we assumed that all courses would automatically be opened once the relevant HEI and SD were registered on Manage.
 
 We removed the ‘Do you want to open courses at the training provider?’ question and went straight to asking for contact details.
-
-We did not use the task list pattern as we decided it added unnecessary complications.
 
 ### What we did and why
 
