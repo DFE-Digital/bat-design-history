@@ -4,7 +4,7 @@ description: Helping users avoid entering an interview date after automatic reje
 date: 2021-03-26
 ---
 
-When setting up an interview, the user will see an error if they enter a date after the application will be automatically rejected.
+When setting up an interview, the user will see an error if they enter a date that’s after the automatic rejection date.
 
 To help users avoid seeing this error, we’ve added hint text which mentions the automatic rejection date when setting up the details of the interview.
 
