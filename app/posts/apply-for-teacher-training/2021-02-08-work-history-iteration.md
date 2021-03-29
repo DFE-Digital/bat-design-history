@@ -14,6 +14,7 @@ related:
     href: /apply-for-teacher-training/apply-june-2019/work-history
     description: Initial implementation of work history
 ---
+
 Many providers told us that they need to see a candidate’s full work history, not just the last 5 years, in order to meet policies around safeguarding.
 
 Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail, possibly because roles weren’t relevant to teaching, or because the text was too long and overlapped with a personal statement.
@@ -91,58 +92,27 @@ On the review page, we switched from a table to headings with horizontal lines b
 
 The Add another job button was moved to the top of the page, for consistency with other sections.
 
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
-
 {{ appScreenshots({
-  items: [
-    {
-      text: "Initial branching question",
-      img: {
-        src: "initial-branching-question.png"
-      }
-    },
-    {
-      text: "Initial branching question - no work history",
-      img: {
-        src: "initial-branching-question-no-work-history.png"
-      }
-    },
-    {
-      text: "Work history review (initial blank state)",
-      img: {
-        src: "work-history-blank-state.png"
-      }
-    },
-    {
-      text: "Add a job (blank)",
-      img: {
-        src: "add-a-job-blank.png"
-      }
-    },
-    {
-      text: "Add a job (filled in)",
-      img: {
-        src: "add-a-job-filled-in.png"
-      }
-    },
-    {
-      text: "Work history - with prompt to explain a break",
-      img: {
-        src: "work-history-showing-break-prompt.png"
-      }
-    },
-    {
-      text: "Please tell us what you were doing over this period",
-      img: {
-        src: "tell-us-what-you-were-doing-over-this-period.png"
-      }
-    },
-    {
-      text: "Work history - completed",
-      img: {
-        src: "completed-work-history-showing-break.png"
-      }
-    }
-  ]
+  items: [{
+    text: "Initial branching question"
+  }, {
+    text: "Initial branching question - no work history"
+  }, {
+    id: "work-history-blank-state",
+    text: "Work history review (initial blank state)"
+  }, {
+    text: "Add a job (blank)"
+  }, {
+    text: "Add a job (filled in)"
+  }, {
+    id: "work-history-showing-break-prompt",
+    text: "Work history - with prompt to explain a break"
+  }, {
+    id: "tell-us-what-you-were-doing-over-this-period",
+    text: "Please tell us what you were doing over this period"
+  }, {
+    id: "completed-work-history-showing-break",
+    text: "Work history - completed"
+  }]
 }) }}
