@@ -1,5 +1,5 @@
 ---
-title: Show guidance on a candidate’s tuition fee status
+title: Show tuition fee status
 description: Let users see when a candidate’s application is eligible for home tuition fee funding.
 date: 2021-03-22
 ---
