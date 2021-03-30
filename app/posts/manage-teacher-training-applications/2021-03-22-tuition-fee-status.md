@@ -6,9 +6,24 @@ date: 2021-03-22
 
 It’s possible to work out from a candidate’s application whether or not they’re likely to qualify for ‘home tuition fee funding’. This has implications for how the provider’s course is funded as well as for the candidate’s ability to get things like student loans.
 
+Funding status is determined through a combination of three factors: nationality, the right to work or study in the UK and residency (whether they have a UK address).
+
+British and Irish candidates automatically qualify for home funding. All other candidates must have the right to work or study in the UK and have a UK address.
+
+Candidates may have the right to work or study in the UK for a number of reasons including:
+
+- EU settled status
+- EU pre-settled status
+- permanent residence card
+- family visa
+- student visa
+- refugee status
+
 We can’t be sure whether or not they qualify because we don’t ask them enough questions, so the assessment is provisional.
 
 ## Candidate data analysis
+
+Looking at the candidate data, we can see who is likely to qualify for home tuition fee funding and who is not.
 
 The proportion of all candidates who are British or Irish:
 
@@ -44,19 +59,6 @@ We emphasised that the assessment may not be correct. Providers should always ch
 
 ## How it works
 
-Funding status is determined through a combination of three factors: nationality, the right to work or study in the UK and residency (whether they have a UK address).
-
-British and Irish candidates automatically qualify for home funding. All other candidates must have the right to work or study in the UK and have a UK address.
-
-Candidates may have the right to work or study in the UK for a number of reasons including:
-
-- EU settled status
-- EU pre-settled status
-- permanent residence card
-- family visa
-- student visa
-- refugee status
-
 If the candidate meets the criteria for funding, we display the message ‘Eligible for home tuition fee funding (automated assessment - check details with candidate)’.
 
 If the candidate has not met the criteria for funding, we display the message ‘Not eligible for home tuition fee funding (automated assessment - check details with candidate)’.
@@ -78,9 +80,10 @@ We need to carry out research with providers to find out:
 - what data they would check and what questions would they ask of the candidate, so that they can make a more accurate assessment
 - whether they equate “not eligible for home funding” with overseas applicants
 - what they think the initial assessment means for the funding for their course and for the candidate’s access to funding
-- what they would do with the information and how they might change the eligibility result
+- what they would do with the information
 
 We will also need to work with the candidate team to understand the implications for candidates, and whether the provisional fee status should be made available to candidates as well as providers.
+
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -98,7 +101,7 @@ We will also need to work with the candidate team to understand the implications
     }
   },  {
     text: "Application details – Not eligible for funding (international address)",
-    caption: "Figure 3: The application details screen showing the candidate is not eligible for home tuition fee funding because their address in not in the UK",
+    caption: "Figure 3: The application details screen showing the candidate is not eligible for home tuition fee funding because their address is not in the UK",
     img: {
       src: "application-details-not-eligible-for-funding-address.png"
     }
