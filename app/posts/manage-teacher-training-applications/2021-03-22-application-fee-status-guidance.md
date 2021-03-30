@@ -1,12 +1,12 @@
 ---
 title: Show guidance on a candidate’s tuition fee status
-description: Let users see when a candidate’s application is eligible for home student tuition fees.
+description: Let users see when a candidate’s application is eligible for home tuition fee funding.
 date: 2021-03-22
 ---
 
 It’s possible to work out from a candidate’s application whether or not they’re likely to qualify for ‘home tuition fee funding’. This has implications for how the provider’s course is funded as well as for the candidate’s ability to get things like student loans.
 
-We can’t be sure whether or not they qualify because we don’t ask them enough questions, therefore the assessment is provisional.
+We can’t be sure whether or not they qualify because we don’t ask them enough questions, so the assessment is provisional.
 
 ## Candidate data analysis
 
@@ -61,11 +61,26 @@ If the candidate meets the criteria for funding, we display the message ‘Eligi
 
 If the candidate has not met the criteria for funding, we display the message ‘Not eligible for home tuition fee funding (automated assessment - check details with candidate)’.
 
-If the candidate does not have the right to work or study in the UK at the time of the application, we display ‘Candidate needs to apply for permission to work and study in the UK’ in the candidate details section.
+If the candidate does not have the right to work or study in the UK at the time of the application, we also display ‘Candidate needs to apply for permission to work and study in the UK’ in the candidate details section.
 
-## Research
+## Understanding needs and impact
 
-## Other considerations
+We need to get a stronger understanding of the needs of providers and the impact on candidates before we can recommend providing an assessment of fee status.
+
+The assessment will rely on information provided by candidates which could be inaccurate. For example, we ask whether they have the right to live and work in the UK rather than asking a series of questions to work out whether they have the right. The candidate could get the answer wrong, or could say they are ‘not sure’ (which would be treated as a ‘no’ for this assessment).
+
+This is particularly important to consider in light of recent changes due to Brexit, which has introduced the new EU pre-settled and settled statuses for EU nationals. We need to be sure that candidates will not be put at a disadvantage by our changes.
+
+We need to carry out research with providers to find out:
+
+- what they think has been used to make the initial assessment
+- whether they pick up on the hints that the assessment might not be right, and why they think that might be
+- what data they would check and what questions would they ask of the candidate, so that they can make a more accurate assessment
+- whether they equate “not eligible for home funding” with overseas applicants
+- what they think the initial assessment means for the funding for their course and for the candidate’s access to funding
+- what they would do with the information and how they might change the eligibility result
+
+We will also need to work with the candidate team to understand the implications for candidates, and whether the provisional fee status should be made available to candidates as well as providers.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
