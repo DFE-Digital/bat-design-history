@@ -4,13 +4,13 @@ description: Why we changed the status tag for confirmed offers.
 date: 2021-03-29
 ---
 
-When a provider offers a candidate a place on a course, usually there are some conditions attached, such as completing an enhanced Disclosure and Barring Service check, and a Fitness to Teach check. Once these have been met, the provider can update the status of the offer, and this then shown as "Conditions met" to the candidate.
+When a provider offers a candidate a place on a course, they usually need to meet certain conditions before they start. These can include an enhanced Disclosure and Barring Service check and a Fitness to Teach check. Once these conditions have been met the provider can update the status of the offer. This is shown to the candidate as "Conditions met"
 
-However, some courses don’t have any conditions at all, or at least any conditions specified on the service (there might be some administrative conditions off-service). In these scenarios, the status doesn’t make sense.
+However some providers make unconditional offers. Others contact candidates with information about thier conditions away from our service. In these scenarios, where we do not know if conditions apply, the status "Conditions met" may cause confusion.
 
-Whilst we could have a different status label for those who have accepted unconditional offers only, it is simpler if there is a single label which applies in all scenarios.
+We could have a different status for those who have unconditional offers, but it is simpler if we have a single label that applies to both scenarios.
 
-For this reason, we changed the label to "Offer confirmed".
+For this reason, we have changed the label to "Offer confirmed".
 
 This is consistent with the language used on the service when the candidate has not yet met the conditions, which states:
 
