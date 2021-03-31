@@ -24,7 +24,7 @@ We made changes to what we show to the old and new providers.
 
 When an application is transferred to a different provider, users at the old provider will no longer be able to see the application in their application list. They will still be able to reach the application through links in old emails or the activity log.
 
-Users at the new provider will be able to see the application in their application list. 
+Users at the new provider will be able to see the application in their application list.
 
 ### What users at the old provider will see
 
@@ -52,11 +52,11 @@ There’s a [spreadsheet explaining what users at the new provider can see](http
 
 ### Emails
 
-We created emails to send to users who have had an application transferred to or from their organisation. 
+We created emails to send to users who have had an application transferred to or from their organisation.
 
 We created different versions for training providers and accrediting bodies. This is because an accredited body will want to know who ratifies the course the candidate has been transferred to.
 
-The emails mention that an offer has been made. This means we'll need variations on these emails if we allow users to transfer applications without making an offer. 
+The emails mention that an offer has been made. This means we'll need variations on these emails if we allow users to transfer applications without making an offer.
 
 A user will not receive any email notification if they had access to the application before the change and still have access to it.
 
@@ -175,31 +175,31 @@ In future, we’ll research or consider:
 {{ appEmail({
  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
  content: "
- 
+
 Dear James Bradley
-  
+
 # Application transferred to another organisation
- 
+
 Laura Goldman’s application to study English Literature (Y65RD) at Blackpool Teacher Training Academy has been transferred to another organisation.
- 
+
 They’re now applying to study English and Drama (T56DH) at Preston Teaching Guild.
- 
+
 The application has been removed from your list, but you can still view a version with limited details:
- 
+
 https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
- 
+
 # Get help, give feedback or report a problem
- 
+
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
- 
+
 You can also contact us at becomingateacher@digital.education.gov.uk.
- 
+
 # Change your email notification settings
- 
+
 You can turn off email notifications if you do not want to be told when applications are transferred to other organisations:
- 
+
 https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
- 
+
  "
 }) }}
 
@@ -209,31 +209,31 @@ https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notificati
 {{ appEmail({
  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
  content: "
- 
+
 Dear Alexa Gibbs
-  
+
 # Application transferred to another organisation
- 
+
 Laura Goldman’s application to study English Literature (Y65RD) at Blackpool Teacher Training Academy has been transferred to a course that Kingston University does not ratify.
 
 They’re now applying to study English and Drama (T56DH) at Preston Teaching Guild ratified by Bedfordshire University.
 
 The application has been removed from your list, but you can still view a version with limited details:
- 
+
 https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
 
 # Get help, give feedback or report a problem
- 
+
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
- 
+
 You can also contact us at becomingateacher@digital.education.gov.uk.
- 
+
 # Change your email notification settings
- 
+
 You can turn off email notifications if you do not want to be told when applications are transferred to other organisations:
- 
+
 https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
- 
+
  "
 }) }}
 
@@ -243,11 +243,11 @@ https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notificati
 {{ appEmail({
  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
  content: "
- 
+
 Dear James Bradley
-  
+
 # Application received from another organisation
- 
+
 Laura Goldman’s application has been transferred to you.
 
 They have an offer to study English and Drama (T56DH) at Preston Teaching Guild.
@@ -257,17 +257,17 @@ You can view Laura Goldman’s application:
 https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
 
 # Get help, give feedback or report a problem
- 
+
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
- 
+
 You can also contact us at becomingateacher@digital.education.gov.uk.
- 
+
 # Change your email notification settings
- 
+
 You can turn off email notifications if you do not want to be told when applications are received from other organisations:
- 
+
 https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
- 
+
  "
 }) }}
 
@@ -277,11 +277,11 @@ https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notificati
 {{ appEmail({
  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
  content: "
- 
+
 Dear Alexa Gibbs
-  
+
 # Application received from another organisation
- 
+
 Laura Goldman’s application has been transferred to a course that you ratify.
 
 They have an offer to study English and Drama (T56DH) at Preston Teaching Guild.
@@ -291,16 +291,16 @@ You can view Laura Goldman’s application:
 https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
 
 # Get help, give feedback or report a problem
- 
+
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
- 
+
 You can also contact us at becomingateacher@digital.education.gov.uk.
- 
+
 # Change your email notification settings
- 
+
 You can turn off email notifications if you do not want to be told when applications are received from other organisations:
- 
+
 https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
- 
+
  "
 }) }}
