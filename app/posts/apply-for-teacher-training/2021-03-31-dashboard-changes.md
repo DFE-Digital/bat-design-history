@@ -9,9 +9,11 @@ related:
     description: Previous post about dashboard states
 ---
 
-The ‘Dashboard’ is the name we use internally for the page a candidate sees after they’ve submitted their application.
+The ‘dashboard’ is the name we use internally for the page a candidate sees after they have submitted their application.
 
 It lists the applications a candidate has made and the stage they are at in the application process. They can complete tasks there too, such as accepting an offer, or withdrawing an application.
+
+We do not use the term ‘dashboard’ externally.
 
 ### Why change the dashboard?
 
@@ -26,7 +28,7 @@ The objective of our work has been to:
 
 We made changes to:
 
-* The flow for how candidates get to the dashboard after submission
+* The flow for how candidates get to the dashboard after submitting an application
 * The layout of the dashboard
 * The content presented on the dashboard
 
@@ -36,7 +38,6 @@ Once a candidate submits their application, they go straight to the dashboard. P
 We’ve mapped out what the dashboard looks like for the different application stages, and the behaviours we want to drive at each one.
 We have refined the content to drive the right behaviours.
 
-Also we don’t use the term ‘Dashboard’ externally any more.
 
 ### Post-submission flow
 
