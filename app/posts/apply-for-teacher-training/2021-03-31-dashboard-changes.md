@@ -33,12 +33,6 @@ We made changes to:
 * The content presented on the dashboard
 
 
-The design (Frankie to add…)
-Once a candidate submits their application, they go straight to the dashboard. Previously they went to a “Your application has been submitted” confirmation page and were given an option to “Go to your dashboard”.
-We’ve mapped out what the dashboard looks like for the different application stages, and the behaviours we want to drive at each one.
-We have refined the content to drive the right behaviours.
-
-
 ### Post-submission flow
 
 To familiarise candidates with the dashboard, we wanted to take them to it immediately after they submitted their application.
@@ -46,6 +40,10 @@ To familiarise candidates with the dashboard, we wanted to take them to it immed
 Previously they were taken to confirmation page. This page was only seen once. We felt the candidate might leave the service at this point and not see their dashboard. Our hypothesis was that candidates would realise they could return to their application if they saw the dashboard immediately after submitting their application.
 
 We now take candidates straight to the dashboard, via an optional feedback survey. A green confirmation banner gives reassurance that the application was submitted, and lets candidates know that they can expect an email update when anything changes.
+
+## Layout of the dashboard
+
+TBD
 
 ### Dashboard at different stages
 
