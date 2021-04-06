@@ -4,9 +4,19 @@ description: Let users see when a candidate’s application is eligible for home
 date: 2021-03-22
 ---
 
-It’s possible to work out from a candidate’s application whether or not they’re likely to qualify for ‘home tuition fee funding’. This has implications for how the provider’s course is funded as well as for the candidate’s ability to get things like student loans.
+Some candidates qualify for ‘home tuition fee funding’, which means that: 
 
-Funding status is determined through a combination of three factors: nationality, the right to work or study in the UK and residency (whether they have a UK address).
+- they’ll pay the ’home’ rate of tuition fees, which is usually lower than the ‘overseas’ rate
+- they’re eligible for student loans
+- they might be eligible for bursaries and scholarships
+
+## Who qualifies for home tuition fee funding
+
+A candidate’s funding status is determined through a combination of three factors: 
+
+- nationality
+- the right to work or study in the UK
+- residency (whether they have a UK address)
 
 British and Irish candidates automatically qualify for home funding. All other candidates must have the right to work or study in the UK and have a UK address.
 
@@ -19,7 +29,9 @@ Candidates may have the right to work or study in the UK for a number of reasons
 - student visa
 - refugee status
 
-We can’t be sure whether or not they qualify because we don’t ask them enough questions, so the assessment is provisional.
+Within the Manage service, we can’t be sure whether or not a candidate qualifies for home tuition fee funding. This is because we don’t ask them enough questions in the candidate service.
+
+It has been proposed that we should offer a provisional assessment.
 
 ## Candidate data analysis
 
