@@ -56,6 +56,36 @@ When an interview is cancelled we’ll generate the cancellation reason based on
 - When an application is rejected the reason will be ‘Your application was unsuccessful.’
 - When an application is withdrawn on behalf of the candidate the reason will be ‘You withdrew your application.’
 
+The reason will be included in the interview cancellation email sent to the candidate.
+
+<!-- markdownlint-disable MD025 MD001 -->
+{{ appEmail({
+ subject: "Interview cancelled - Florene Mayert Academy",
+ content: "
+
+Dear James Bradley
+
+# Interview cancelled
+
+Florene Mayert Academy has cancelled the interview on 28 April 2021 at 12am (midnight) about your application to study Biological Science.
+
+They’ve given the following reason for cancelling the interview:
+
+^ We made you an offer.
+
+Contact Florene Mayert Academy if you have any questions.
+
+# Get support
+
+You can chat to a Get Into Teaching adviser online for help and advice:
+
+https://beta-getintoteaching.education.gov.uk/#talk-to-us
+
+You can also call for free on 0800 389 2501, Monday to Friday, 8.30am to 5pm (except public holidays).
+
+ "
+}) }}
+
 ## Telling the user that upcoming interviews will be cancelled
 
 When a user makes an offer, rejects an application or withdraws an application, if there are upcoming interviews then the ‘check answers’ page will say:
