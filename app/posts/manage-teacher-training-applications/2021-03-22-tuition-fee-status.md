@@ -10,7 +10,7 @@ Many candidates qualify for ‘home tuition fee funding’. This means that they
 - are eligible for student loans
 - might be eligible for bursaries and scholarships
 
-The UCAS application service offers a provisional assessment of whether a candidate qualifies. It has been suggested that we should do the same in the Manage service.
+The UCAS application service offers a provisional assessment of whether a candidate qualifies. It has been suggested that we should do the same.
 
 ## Who qualifies for home tuition fee funding
 
@@ -31,11 +31,11 @@ Candidates may have the right to work or study in the UK for a number of reasons
 - student visa
 - refugee status
 
-Within the Manage service, we can’t be sure whether or not a candidate qualifies for home tuition fee funding. This is because we don’t ask them enough questions in the candidate service.
+We can’t be sure whether a candidate qualifies for home funding because we do not ask them enough questions when they apply. This is why we can only offer a provisional assessment.
 
 ## Candidate data analysis
 
-Looking at the candidate data, we can see who is likely to qualify for home tuition fee funding and who is not.
+Looking at the candidate data, we can see who is likely to qualify for home tuition fee funding.
 
 The proportion of all candidates who are British or Irish:
 
@@ -81,20 +81,22 @@ If the candidate does not have the right to work or study in the UK at the time 
 
 We need to get a stronger understanding of the needs of providers and the impact on candidates before we can recommend providing an assessment of fee status.
 
-The assessment will rely on information provided by candidates which could be inaccurate. For example, we ask whether they have the right to live and work in the UK rather than asking a series of questions to work out whether they have the right. The candidate could get the answer wrong, or could say they are ‘not sure’ (which would be treated as a ‘no’ for this assessment).
+The assessment will rely on information provided by candidates which could be inaccurate. 
+
+For example, we ask whether they have the right to live and work in the UK rather than asking questions to work this out. The candidate could get the answer wrong, or could say they are ‘not sure’ (which would be treated as a ‘no’ for this assessment).
 
 This is particularly important to consider in light of recent changes due to Brexit, which has introduced the new EU pre-settled and settled statuses for EU nationals. We need to be sure that candidates will not be put at a disadvantage by our changes.
 
 We need to carry out research with providers to find out:
 
 - what they think has been used to make the initial assessment
-- whether they pick up on the hints that the assessment might not be right, and why they think that might be
-- what data they would check and what questions would they ask of the candidate, so that they can make a more accurate assessment
+- whether they realise that the assessment might not be right, and why they think that might be
+- what data they would check and what questions they would ask of the candidate, so that they can make a more accurate assessment
 - whether they equate “not eligible for home funding” with overseas applicants
 - what they think the initial assessment means for the funding for their course and for the candidate’s access to funding
 - what they would do with the information
 
-We will also need to work with the candidate team to understand the implications for candidates, and whether the provisional fee status should be made available to candidates as well as providers.
+We will also need to work with the candidate team to understand the implications for candidates. We should consider whether to make the provisional fee status available to candidates as well as providers.
 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
