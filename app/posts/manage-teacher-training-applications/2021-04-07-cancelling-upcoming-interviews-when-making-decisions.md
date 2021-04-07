@@ -4,6 +4,8 @@ description: Automatically cancelling any upcoming interviews when making an off
 date: 2021-04-07
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 It's possible that there will still be upcoming interviews scheduled when a user makes an offer, rejects an application or withdraws an application.
 
 This means that:
@@ -63,7 +65,7 @@ The reason will be included in the interview cancellation email sent to the cand
  subject: "Interview cancelled - Florene Mayert Academy",
  content: "
 
-Dear James Bradley
+Dear Pat Thomas
 
 # Interview cancelled
 
@@ -71,7 +73,7 @@ Florene Mayert Academy has cancelled the interview on 28 April 2021 at 12am (mid
 
 They’ve given the following reason for cancelling the interview:
 
-^ We made you an offer.
+> We made you an offer.
 
 Contact Florene Mayert Academy if you have any questions.
 
@@ -103,6 +105,36 @@ As usual, users will be notified about applications that have been withdrawn. We
 
 - ‘The upcoming interview with them has been cancelled.’ - if there’s one upcoming interview 
 - ‘The upcoming interviews with them have been cancelled.’ - if there’s more than one upcoming interview
+
+<!-- markdownlint-disable MD025 MD001 -->
+{{ appEmail({
+ subject: "Interview cancelled - Florene Mayert Academy",
+ content: "
+
+Dear Roxane Kihn
+
+# Application withdrawn
+
+Kelsi Sawayn has withdrawn their application for Creative Arts (62CV).
+
+https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8729
+
+The upcoming interview with them has been cancelled.
+
+# Get help, give feedback or report a problem
+
+For an overview of Manage teacher training applications, see our Service guidance.
+
+You can also contact us at becomingateacher@digital.education.gov.uk.
+
+# Change your email notification settings
+
+You can turn off email notifications if you do not want to be told when application statuses change:
+
+https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
+
+ "
+}) }}
 
 ## Future considerations
 
