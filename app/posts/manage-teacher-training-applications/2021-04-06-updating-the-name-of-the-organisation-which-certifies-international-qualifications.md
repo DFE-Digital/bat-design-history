@@ -16,7 +16,7 @@ The provider service gives the reference number so that users can check it onlin
 
 The wording in the candidate service will be changed to ask for an ENIC reference number.
 
-Since we will not know whether the candidate entered a NARIC or ENIC reference number, we’ve decided to mention both for now. We'll review this at the end of the 2020-21 recruitment cycle.
+Since we will not know whether the candidate entered a NARIC or ENIC reference number, we’ve decided to mention both for now. We'll review this at the end of the 2020 to 2021 recruitment cycle.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
