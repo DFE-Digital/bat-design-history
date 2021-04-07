@@ -41,9 +41,21 @@ Previously they were taken to confirmation page. This page was only seen once. W
 
 We now take candidates straight to the dashboard, via an optional feedback survey. A green confirmation banner gives reassurance that the application was submitted, and lets candidates know that they can expect an email update when anything changes.
 
-## Layout of the dashboard
+### Layout
 
-TBD
+The page now shows up to three separate sections:
+
+1. Your current applications
+2. Information about updating your contact information (moved from the right)
+3. Your previous applications (if there were any)
+
+The current applications are still shown each in a separate summary box, however the course name and provider name are both shown in the header, rather than on separate rows.
+
+Actions candidates can take, such as withdrawing from a course or responding to an offer, are shown on a separate line at the bottom. This allows us to add extra context.
+
+A link to view the full details of an application is shown at the top right.
+
+For previous applications, these are shown in a table, with only the minimum of detail (course name, provider name and outcome), with a link to view the full details.
 
 ### Dashboard at different stages
 
