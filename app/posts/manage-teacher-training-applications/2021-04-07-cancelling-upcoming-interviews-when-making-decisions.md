@@ -78,32 +78,32 @@ It might be helpful to give users a page to see ‘today’s interviews’ separ
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Make offer check answers page when there are upcoming interviews",
+    text: "Make offer ‘check answers’ page when there’s an upcoming interview",
     img: {
-      src: "make-offer--check-answers.png"
+      src: "check-answers--make-offer.png"
     }
   }, {
-    text: "Reject application check answers page when there are upcoming interviews",
+    text: "Reject application ‘check answers’ page when there’s an upcoming interview",
     img: {
-      src: "reject-application--check-answers.png"
+      src: "check-answers--reject-application.png"
     }
   }, {
-    text: "Withdraw application check answers page when there are upcoming interviews",
+    text: "Withdraw application ‘check answers’ page when there’s an upcoming interview",
     img: {
-      src: "withdraw-application--check-answers.png"
+      src: "check-answers--withdraw-application.png"
     }
   }, {
-    text: "Timeline showing cancelled interview and offer made events",
+    text: "Timeline showing ‘interview cancelled’ and ‘offer made’ events",
     img: {
       src: "timeline--offer-made.png"
     }
   }, {
-    text: "Timeline showing cancelled interview and application rejected events",
+    text: "Timeline showing ‘interview cancelled’ and ‘application rejected’ events",
     img: {
       src: "timeline--application-rejected.png"
     }
   }, {
-    text: "Timeline showing cancelled interview and application withdrawn events",
+    text: "Timeline showing ‘interview cancelled’ and ‘application withdrawn’ events",
     img: {
       src: "timeline--application-withdrawn.png"
     }
