@@ -4,11 +4,13 @@ description: Let users see when a candidate’s application is eligible for home
 date: 2021-03-22
 ---
 
-Some candidates qualify for ‘home tuition fee funding’, which means that: 
+Many candidates qualify for ‘home tuition fee funding’. This means that they: 
 
-- they’ll pay the ’home’ rate of tuition fees, which is usually lower than the ‘overseas’ rate
-- they’re eligible for student loans
-- they might be eligible for bursaries and scholarships
+- pay the ’home’ rate of tuition fees, which is usually lower than the ‘overseas’ rate
+- are eligible for student loans
+- might be eligible for bursaries and scholarships
+
+The UCAS application service offers a provisional assessment of whether a candidate qualifies. It has been suggested that we should do the same in the Manage service.
 
 ## Who qualifies for home tuition fee funding
 
@@ -30,8 +32,6 @@ Candidates may have the right to work or study in the UK for a number of reasons
 - refugee status
 
 Within the Manage service, we can’t be sure whether or not a candidate qualifies for home tuition fee funding. This is because we don’t ask them enough questions in the candidate service.
-
-It has been proposed that we should offer a provisional assessment.
 
 ## Candidate data analysis
 
