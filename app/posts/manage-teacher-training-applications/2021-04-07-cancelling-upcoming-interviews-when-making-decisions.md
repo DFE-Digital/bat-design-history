@@ -57,7 +57,7 @@ When an interview is cancelled we’ll generate the cancellation reason based on
 
 - When an offer is made the reason will be ‘We made you an offer.’
 - When an application is rejected the reason will be ‘Your application was unsuccessful.’
-- When an offer is made the reason will be ‘You withdrew your application.’
+- When an application is withdrawn the reason will be ‘You withdrew your application.’
 
 ## Telling the user that upcoming interviews will be cancelled
 
