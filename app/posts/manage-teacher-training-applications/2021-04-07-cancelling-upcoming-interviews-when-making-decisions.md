@@ -83,17 +83,17 @@ It might be helpful to give users a page to see ‘today’s interviews’ separ
   items: [{
     text: "Make offer check answers page when there are upcoming interviews",
     img: {
-      src: "make-offer--check-answers.png"
+      src: "check-answers--make-offer.png"
     }
   }, {
     text: "Reject application check answers page when there are upcoming interviews",
     img: {
-      src: "reject-application--check-answers.png"
+      src: "check-answers--reject-application.png"
     }
   }, {
     text: "Withdraw application check answers page when there are upcoming interviews",
     img: {
-      src: "withdraw-application--check-answers.png"
+      src: "check-answers--withdraw-application.png"
     }
   }, {
     text: "Timeline showing cancelled interview and offer made events",
