@@ -46,7 +46,7 @@ If the interview is at 10am, then from 11am the interview would no longer be upc
 
 This helps by preventing the interview from suddenly disappearing when the interview start time arrives.
 
-But the 1 hour window is arbirtrary and means it’s hard for users to understand why it’s disappeared. We do not ask users to enter the length of interviews, so we do not know what time they are scheduled to end.
+But the 1 hour window is arbirtrary and means it’s hard for users to understand why the interview has disappeared. We do not ask users to enter the length of interviews, so we do not know what time they are scheduled to end.
 
 ## Generating reasons for cancelling an interview
 
@@ -54,22 +54,25 @@ When an interview is cancelled we’ll generate the cancellation reason based on
 
 - When an offer is made the reason will be ‘We made you an offer.’
 - When an application is rejected the reason will be ‘Your application was unsuccessful.’
-- When an offer is made the reason will be ‘You withdrew your application.’
+- When an application is withdrawn on behalf of the candidate the reason will be ‘You withdrew your application.’
 
 ## Telling the user that upcoming interviews will be cancelled
 
-When a user goes to make an offer, reject an application or withdraw an application, if there are upcoming interviews we’ll say on the ‘check answers’ page that they’ll be cancelled.
+When a user makes an offer, rejects an application or withdraws an application, if there are upcoming interviews then the ‘check answers’ page will say:
 
-If there’s one upcoming interview we’ll say ‘The upcoming interview will be cancelled.’. If there’s more than one upcoming interview we’ll say ‘Upcoming interviews will be cancelled.’
+- ‘The upcoming interview will be cancelled.’ - if there’s one upcoming interview 
+- ‘Upcoming interviews will be cancelled.’ - if there’s more than one upcoming interview
 
 ## Cancelling an interview when the candidate withdraws their application
 
-An upcoming interview can also be cancelled if a candidate withdraws their application. In this case the reason will be ‘Candidate withdrew their application.’ which will appear on the timeline and activity log.
+An upcoming interview can also be cancelled if a candidate withdraws their application. 
 
-As usual, users will be notified about applications that have been withdrawn. We'll add a sentence to this email to let users know that upcoming interviews have been cancelled.
+In this case the reason will be ‘Candidate withdrew their application.’ This will appear on the timeline and activity log.
 
-- The upcoming interview with them has been cancelled.
-- The upcoming interviews with them have been cancelled.
+As usual, users will be notified about applications that have been withdrawn. We'll add a sentence to the email to let users know that upcoming interviews have been cancelled. It will say:
+
+- ‘The upcoming interview with them has been cancelled.’ - if there’s one upcoming interview 
+- ‘The upcoming interviews with them have been cancelled.’ - if there’s more than one upcoming interview
 
 ## Future considerations
 
