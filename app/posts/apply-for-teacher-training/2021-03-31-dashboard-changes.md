@@ -51,7 +51,7 @@ The page now shows up to three separate sections:
 2. Information about updating your contact information (moved from the right)
 3. Your previous applications (if there were any)
 
-The current applications are still shown each in a separate summary box, however the course name and provider name are both shown in the header, rather than on separate rows.
+Current applications are still shown each in a separate summary box, however the course name and provider name are now both shown in the header, rather than on separate rows.
 
 Actions candidates can take, such as withdrawing from a course or responding to an offer, are shown on a separate line at the bottom. This allows us to add extra context.
 
