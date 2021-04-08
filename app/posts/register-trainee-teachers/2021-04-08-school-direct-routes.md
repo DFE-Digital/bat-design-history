@@ -6,7 +6,7 @@ date: 2021-04-08
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "figure/macro.njk" import appFigure with context %}
 
-We’re continuing to expand our manual data entry for new training routes, now adding School direct. 
+We’re continuing to expand our manual data entry for new training routes, now adding [School direct routes](https://beta-getintoteaching.education.gov.uk/ways-to-train).
 
 School direct represents two similar routes:
 
@@ -48,7 +48,6 @@ It’s not uncommon that a trainee’s employing school is also their lead schoo
 {{ appFigure({
   image: {
     file: "training-details-confirmation.png",
-    
     alt: "Confirming the school details"
   },
   title: "Confirming the school details"
