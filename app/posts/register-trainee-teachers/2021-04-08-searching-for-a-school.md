@@ -7,7 +7,7 @@ related:
   - text: Publish’s schools autocomplete
     href: publish-teacher-training-courses/schools-autocomplete/
   - text: Adding School direct routes
-    href: register-trainee-teachers/adding-school-direct/
+    href: register-trainee-teachers/school-direct-routes/
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "figure/macro.njk" import appFigure with context %}
