@@ -4,8 +4,6 @@ description: Using a spreadsheet to help higher education institutions invite th
 date: 2021-04-08
 ---
 
-{% from "email/macro.njk" import appEmail %}
-
 We’ve been looking at ways to help higher education institutions (HEIs) to:
 
 - set themselves up to use Manage
@@ -82,7 +80,9 @@ After the research we decided to focus on the next stage of the process. We’ll
 
 ### Asking users to give SD contact details
 
-<!-- markdownlint-disable MD025 MD001 -->
+{% from "email/macro.njk" import appEmail %}
+
+<!-- markdownlint-disable MD001 MD025 MD042 -->
 {{ appEmail({
  subject: "Give contact details for your School Direct partners",
  content: "
@@ -101,8 +101,8 @@ There’s space for you to add the name and email address of your main contact a
 
 You can either:
 
-- [download the spreadsheet as a CSV file](), fill it in and return it to providercontacts@digital.education.gov.uk
-- fill in an online [Google Sheets version]() of the same spreadsheet
+- [download the spreadsheet as a CSV file](#), fill it in and return it to providercontacts@digital.education.gov.uk
+- fill in an online [Google Sheets version](#) of the same spreadsheet
 
 The spreadsheet may indicate that you do not need to give contact details for some partners. This is because they already have accounts.
 
@@ -120,3 +120,4 @@ You can also contact the support team at becomingateacher@digital.education.gov.
 
  "
 }) }}
+<!-- markdownlint-enable MD001 MD025 MD042 -->
