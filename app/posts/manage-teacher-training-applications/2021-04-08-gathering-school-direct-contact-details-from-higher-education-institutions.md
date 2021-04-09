@@ -84,7 +84,7 @@ You can also contact the support team at becomingateacher@digital.education.gov.
 }) }}
 <!-- markdownlint-enable MD001 MD025 MD042 -->
 
-### Choice of spreadsheet file format
+## Choice of spreadsheet file format
 
 Government departments are required to use open formats. The two main choices are: 
 
@@ -93,7 +93,7 @@ Government departments are required to use open formats. The two main choices ar
 
 By default <span>GOV.UK</span> Notify does not support ODS files, so we chose CSV for the research sessions. If we find that CSV is too limiting, we could ask the Notify team whether we could use an ODS file.
 
-### Asking users to complete a data sharing agreement
+## Asking users to complete a data sharing agreement
 
 Since the previous iteration, we’d discovered that HEI users have to sign a data sharing agreement (DSA) in order to get access to the ‘sandbox’ version of Manage. They access this so that they can experiment before signing up to use the service with real data.
 
@@ -148,4 +148,3 @@ Currently it takes a long time for a user in the transition team to add multiple
 - they need to choose an organisation from a very long list, which makes the page slow to load and hard to navigate
 
 We’re going design a more streamlined way to set up multiple users.
-
