@@ -15,7 +15,7 @@ School direct represents two similar routes:
 
 The school direct routes are similar to our previous routes, especially Provider led (postgrad). The main new addition is asking about schools - their lead school for fee funded courses, and their lead and employing schools for salaried course.
 
-For the moment we’ve included these new data fields as part of the task list section that collects the trainee’s start date and ID. This is broadly a collection of training details specific to the trainee, whereas  the other section ‘course details’ is generic details about the course they’re on. 
+For the moment we’ve included these new data fields as part of the task list section that collects the trainee’s start date and ID. This is broadly a collection of training details specific to the trainee, whereas the other section ‘course details’ is generic details about the course they’re on. 
 
 We’re worried this ‘training details’ section is too generic - and will look at addressing this in the future.
 
