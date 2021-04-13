@@ -20,12 +20,12 @@ Several fields in Register require users to search for a school - placement loca
 
 When testing entering schools as part of the placement data we found that:
 
-* participants accepted the need of using URNs.
-* finding the URN could  be fiddly and slowed participants down if they did not already have it.
-* there was some mistrust of URNs and consistent preference for using the name and postcode to both identify and confirm schools. 
-* participants commented that they would like to see the name of the school to help confirm the URN is the correct one.
+* participants accepted the need of using URNs
+* finding the URN could  be fiddly and slowed participants down if they did not already have it
+* there was some mistrust of URNs and consistent preference for using the name and postcode to both identify and confirm schools
+* participants commented that they would like to see the name of the school to help confirm the URN is the correct one
 
->“URNs are unreliable: Because a school has gone from school to trust etc. these numbers might change." P4
+>“URNs are unreliable: Because a school has gone from school to trust etc. these numbers might change.” P4
 
 The [Get information about schools service](https://www.get-information-schools.service.gov.uk/) has a school lookup with an autocomplete - which demonstrated that it was possible to reasonably search across 30k schools.
 
@@ -54,9 +54,9 @@ There are some pros and cons of using an autocomplete.
 
 It will require JavaScript and an Ajax call to look up the results - we can’t progressively enhance a select as there are close to 30k schools to search from! This means we’ll need a no-js journey - likely to be a search box and a results page.
 
-A reason to do this over and above a search results page is how quickly you can use this to narrow down your results. The feedback is immediate - particularly for schools you know and are familiar with.
+A reason to do this over and above a search results page is how quickly users can narrow down search results. The feedback is immediate - particularly for schools they know and are familiar with.
 
-This design assumes that all schools that might be needed will be listed - because all schools will be listed in the Get information about schools service. There are likely times when this will not be the case, such as early years settings. For those cases, we'll need the ability to add free text rather than picking from one of these options.
+This design assumes that all schools that might be needed will be listed. There may be times when this will not be the case, such as early years settings. For those cases, we'll need the ability to add free text rather than picking from one of these options.
 
 ## Suggesting likely schools
 
