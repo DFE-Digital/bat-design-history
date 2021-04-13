@@ -52,7 +52,7 @@ Searching for a URN looks similar:
 
 There are some pros and cons of using an autocomplete.
 
-It will require JavaScript and an Ajax call to look up the results - we can’t progressively enhance a select as there are close to 30k schools to search from! This means we’ll need a no-js journey - likely to be a search box and a results page.
+It will require JavaScript and an Ajax call to look up the results - we can’t progressively enhance a select as there are close to 30k schools to search from! This means we’ll need a no-js journey - likely to be a combined search box and a results page.
 
 A reason to do this over and above a search results page is how quickly users can narrow down search results. The feedback is immediate - particularly for schools they know and are familiar with.
 
