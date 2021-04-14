@@ -5,7 +5,10 @@ description: A service for training providers to publish and manage their course
 related:
   items:
   - text: Prototype
-    href: https://manage-courses-prototype.herokuapp.com
+    description: |
+      Username: `publish`
+      Password: `bat`
+    href: https://publish-courses-prototype.herokuapp.com
   - text: User needs
     href: /publish-teacher-training-courses/user-needs
 pagination:

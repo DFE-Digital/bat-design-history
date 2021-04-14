@@ -12,7 +12,7 @@ Once a user has logged in, if they have access to an organisation and if they ha
 
 While a user hasn’t agree to the terms, the only pages they can access are this one, terms and conditions, privacy policy and cookies (ie the footer links). Access to any other valid URL should redirect them back to here.
 
-[View design in prototype](https://manage-courses-prototype.herokuapp.com/onboarding/accept-terms)
+[View design in prototype](https://publish-courses-prototype.herokuapp.com/onboarding/accept-terms)
 
 [Story map](https://trello.com/c/fnReQwNM/121-dont-allow-publishing-until-a-publisher-has-accepted-terms-and-conditions), [Trello ticket](https://trello.com/c/QVVSINV5/135-design-terms-and-conditions-acceptance-flow-when-a-user-signs-in-to-publish-courses)
 

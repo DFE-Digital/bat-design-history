@@ -6,7 +6,7 @@ date: 2018-08-19
 
 Screenshots showing different preview states based on type and completeness of course.
 
-The [prototype preview logic](https://github.com/fofr/manage-courses-prototype/blob/master/app/views/preview.html) may also help when building this.
+The [prototype preview logic](https://github.com/DFE-Digital/publish-teacher-training-prototype/blob/main/app/views/preview.html) may also help when building this.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

@@ -4,7 +4,7 @@ description: An autocomplete for selecting partner schools quickly.
 date: 2018-11-27
 ---
 
-[Live demo](https://manage-courses-prototype.herokuapp.com/school-autocomplete) and [pull request](https://github.com/DFE-Digital/manage-courses-prototype/pull/18).
+[Live demo](https://publish-courses-prototype.herokuapp.com/school-autocomplete) and [pull request](https://github.com/DFE-Digital/publish-teacher-training-prototype/pull/18).
 
 If we begin asking providers for their [list of partner schools](/find-teacher-training/maps-for-providers-with-many-partners) we’ll need a fast and easy way to create and manage that list. Partner schools can be more than 1,000.
 

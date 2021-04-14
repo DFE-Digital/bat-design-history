@@ -11,7 +11,7 @@ This can happen if the invite email gets shared or forwarded, or if the user’s
 This design explains the situation to the user and asks for the details we need. A quick design to unblock onboarding, a later version could incorporate a request access form – a more direct approach for users.
 
 [BATSA-422](https://dfedigital.atlassian.net/browse/BATSA-422)
-[Page in prototype](https://manage-courses-prototype.herokuapp.com/no-access)
+[Page in prototype](https://publish-courses-prototype.herokuapp.com/no-access)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
