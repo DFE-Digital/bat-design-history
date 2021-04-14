@@ -18,6 +18,8 @@ To solve this problem we’ll:
 - automatically cancel upcoming interviews when the user makes an offer, rejects an application or withdraws an application
 - send an email to the candidate to tell them that each upcoming interview has been cancelled
 
+There’s no need to cancel interviews when an application is automatically rejected. This is because users cannot set up an interview to take place after the automatic rejection date.
+
 ## The problem with cancelling interviews scheduled for today
 
 The upcoming interviews list includes today’s interviews. This is intended to make it easy to find the details just before or after an interview has taken place.
@@ -92,18 +94,18 @@ You can also call for free on 0800 389 2501, Monday to Friday, 8.30am to 5pm (ex
 
 When a user makes an offer, rejects an application or withdraws an application, if there are upcoming interviews then the ‘check answers’ page will say:
 
-- ‘The upcoming interview will be cancelled.’ - if there’s one upcoming interview 
+- ‘The upcoming interview will be cancelled.’ - if there’s one upcoming interview
 - ‘Upcoming interviews will be cancelled.’ - if there’s more than one upcoming interview
 
 ## Cancelling an interview when the candidate withdraws their application
 
-An upcoming interview can also be cancelled if a candidate withdraws their application. 
+An upcoming interview can also be cancelled if a candidate withdraws their application.
 
 In this case the reason will be ‘Candidate withdrew their application.’ This will appear on the timeline and activity log.
 
 As usual, users will be notified about applications that have been withdrawn. We'll add a sentence to the email to let users know that upcoming interviews have been cancelled. It will say:
 
-- ‘The upcoming interview with them has been cancelled.’ - if there’s one upcoming interview 
+- ‘The upcoming interview with them has been cancelled.’ - if there’s one upcoming interview
 - ‘The upcoming interviews with them have been cancelled.’ - if there’s more than one upcoming interview
 
 <!-- markdownlint-disable MD025 MD001 -->
