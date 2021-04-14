@@ -18,7 +18,7 @@ To solve this problem we’ll:
 - automatically cancel upcoming interviews when the user makes an offer, rejects an application or withdraws an application
 - send an email to the candidate to tell them that each upcoming interview has been cancelled
 
-There’s no need to cancel interviews when an application is automatically rejected. This is because users cannot set up an interview to take place after the automatic rejection date.
+There’s no need to cancel interviews when an application is automatically rejected. This is because users cannot set up an interview which takes place after the automatic rejection date.
 
 ## The problem with cancelling interviews scheduled for today
 
