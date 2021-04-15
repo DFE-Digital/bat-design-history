@@ -1,5 +1,5 @@
 ---
-title: Withdrawing an application at any time
+title: Withdrawing an application
 description: Let providers withdraw an application at the candidate’s request at any time
 date: 2021-01-13
 related:
