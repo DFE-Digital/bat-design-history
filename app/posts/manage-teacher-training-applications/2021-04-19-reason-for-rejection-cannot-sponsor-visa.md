@@ -16,7 +16,7 @@ Looking at the candidate data, we can see who is likely to receive this reason f
 
 12% of candidates do not have British or Irish nationality, they are ‘international’.
 
-15% of international candidates’ right to work in the UK is unknown (for example, marked as ‘not yet, or not sure’).
+15% of international candidates’ right to work or study in the UK is unknown (for example, marked as ‘not yet, or not sure’).
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
