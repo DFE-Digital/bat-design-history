@@ -65,5 +65,9 @@ If they have given feedback on the personal statement, we will include this in t
     }, {
       text: "Personal statement section, showing feedback from previous applications",
       img: { src: "personal-statement-feedback.png" }
+    },
+    {
+      text: "Email notification received when application is unsuccessful",
+      img: { src: "email.png" }
     }]
 }) }}
