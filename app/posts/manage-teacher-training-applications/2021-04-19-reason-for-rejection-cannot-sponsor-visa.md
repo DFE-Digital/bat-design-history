@@ -23,7 +23,12 @@ Looking at the candidate data, we can see who is likely to receive this reason f
   items: [{
     text: "Reasons for rejecting the candidate’s application",
     img: {
-      src: "reason-for-rejection-cannot-sponsor-visa-01.png"
+      src: "reason-for-rejection-cannot-sponsor-visa-01a.png"
+    }
+  }, {
+    text: "Reasons for rejecting the candidate’s application - cannot sponsor visa",
+    img: {
+      src: "reason-for-rejection-cannot-sponsor-visa-01b.png"
     }
   }, {
     text: "Check your feedback and reject application",
