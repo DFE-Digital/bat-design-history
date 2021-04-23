@@ -36,7 +36,7 @@ For these candidates, the provider will be shown the cannot sponsor visa reason 
 
 15% of international candidates’ right to work or study in the UK is unknown (for example, marked as ‘not yet, or not sure’).
 
-For these candidates, it is likely their applications will be rejected because of the lack of visa or the provider is not able to sponsor the visa.
+For these candidates, one of the reasons their application can be rejected is the provider cannot sponsor their visa.
 
 ## What we did and why
 
