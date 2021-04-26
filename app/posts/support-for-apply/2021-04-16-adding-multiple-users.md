@@ -1,18 +1,35 @@
 ---
 title: Improving the add user flow
-Description:
+Description: Make it quicker and easier for DfE support users to add provider users to Manage
 date: 2021-04-16
 ---
-
 {% from "figure/macro.njk" import appFigure with context %}
 
-We’ve been looking at ways to improve the invitation and set up process for higher education institutions (HEIs) and their school direct partners (SDs) in Manage.
+We’ve been looking at ways to improve the invitation and set up a process for higher education institutions (HEIs) and their school direct partners (SDs) in Manage.
 
 We started by designing a [small online service that allowed HEIs to set themselves up and invite SDs](https://bat-design-history.netlify.app/manage-teacher-training-applications/self-service-registration/).
 
 After testing that design we decided to explore a simpler approach, focusing on [gathering contact details for SDs from HEIs](https://bat-design-history.netlify.app/manage-teacher-training-applications/gathering-school-direct-contact-details-from-higher-education-institutions/).
 
+The research suggested that the simpler approach would work. However since the transition team already gathers data from HEIs in an existing spreadsheet, we are not sure we’ll need to send a separate one.
+
+The next step was to make improvements to the support service so that contact details can be easily added regardless of how they are gathered.
+
+## Why we did this work
+
+Adding users in support is slow and prone to errors because:
+
+- the service lists all providers every time a user is added - this list is slow to load and difficult to navigate
+- it’s only possible to add one user at a time
+
 ## User data analysis
+
+Looking at the data, we found that:
+
+- 80% of users only need to be linked to one provider
+- roughly half the users have all permissions, while the other half have a mixture of permissions
+
+This data may change once we start to add more providers, particularly higher education institutions (HEIs) that typically have a lot more users than other types of provider. There are, however, only 87 HEIs and some are already using the service.
 
 ### Number of providers per user
 
@@ -20,7 +37,7 @@ After testing that design we decided to explore a simpler approach, focusing on 
 14% of users are linked to 2 providers
 6% of users have more than 2 providers
 
-
+This suggests that we should add a user to a provider, rather than adding providers to users.
 
 ### Number of users per provider
 
@@ -30,23 +47,68 @@ After testing that design we decided to explore a simpler approach, focusing on 
 8% of providers have 4 users
 12% of providers have more than 4 users
 
+This suggests that the priority should be to focus on improving the add single user flow.
 
+### Number of users per provider type
+
+Average number of users in an HEI: 6
+Average number of users in a SCITT: 3
+Average number of users in a SD: 2
+
+This suggests that the main use for adding multiple users will be when setting up HEIs. There are far fewer HEIs than SCITTS or SDs.
 
 ### Permissions
 
-52% of users have all permissions and the remaining 48% have a variety of permissions.
+There are 5 permissions in the Manage service:
+- manage organisational permissions
+- manage users
+- make decisions and set up interviews
+- view safeguarding information
+- view diversity information
 
+52% of users have all permissions
+48% of users have a range of permissions
+
+This suggests that we should show permission choices per user, rather than apply a single set of permissions to all users in the add multiple users flow.
 
 
 ## What we changed and why
 
+We moved adding a user to within the providers’ section, removing the need to choose a provider in the add user flow.
+
+We also created a way to add multiple users.
+
 ### Adding a single user
 
+We simplified the add user form, removing the need to choose a provider. The form now only includes:
+
+- first name
+- last name
+- email address
+- permissions
+
+We did not add anything which was not already in the form. For example, we do not ask for:
+
+- DfE unique identifier
+- notification settings
+
+We provided a way to save and add another user so that DfE support users can quickly add more than one user to a provider.
 
 ### Adding multiple users
 
+We introduced a way for DfE support users to copy and paste information from a spreadsheet or CSV file into the service.
+
+This allows DfE support users to quickly and easily enter new user information in bulk using data they have previously collected from providers.
+
+After data has been entered, we present a series of screens showing each user’s contact information and allowing DfE support users to set their permissions.
+
+At the end of the flow, DfE support users can check their answers before saving the users.
+
+As in the previous add user flow, this will trigger the sending of emails to the new users.
 
 ## How it works
+
+
 
 {{ appFigure({
   image: {
