@@ -53,7 +53,7 @@ We ask the provider to give details about why they chose the option. This is bec
 Analysis of the current reasons given that mention visas shows that of 32 items of feedback:
 
 - only 3 explain why they can’t sponsor a visa (“we’re a SCITT”, “not a licensed visa sponsor”, “not enough face to face teaching”)
-- there are several uses of “tier 4" which is the old name for the Student visa
+- there are several uses of “tier 4” which is the old name for the Student visa
 - most do not mention a specific visa type
 - hardly any give the candidate pointers about what they could do next (for example try a salaried course)
 
