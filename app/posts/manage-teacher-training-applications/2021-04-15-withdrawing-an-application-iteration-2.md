@@ -49,7 +49,7 @@ We'll look out for unexpectedly high levels of use of this new feature.
 ### When all applications have been rejected
 
 {% set template1 %}
-<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 MD001 -->
 Dear ((name))
 
 # Update on your application
@@ -232,7 +232,7 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Withdraw link on application details",
+    text: "Withdraw link on application details page",
     img: {
       src: "application-details.png"
     }
