@@ -78,6 +78,8 @@ We moved adding a user to within the providers’ section, removing the need to 
 
 We also created a way to add multiple users.
 
+If there’s already a user with the same email address as the user being added, the new permissions will be applied to the existing user.
+
 ### Adding a single user
 
 We simplified the add user form, removing the need to choose a provider. The form now only includes:
@@ -116,6 +118,12 @@ As in the previous add user flow, this will trigger the sending of emails to the
   caption: "Figure 1: Provider’s user list page"
 }) }}
 
+We introduced the ‘add multiple users’ button as a secondary action alongside the main action of ‘add user’.
+
+Clicking ‘add user’ takes the DfE support user to the add single user form.
+
+Clicking ‘add multiple users’ takes the DfE support user to the add multiple users form.
+
 ### Adding a single user
 
 {{ appFigure({
@@ -131,8 +139,14 @@ As in the previous add user flow, this will trigger the sending of emails to the
     file: "adding-single-user-01.png",
     alt: "Add user and set their permissions page"
   },
-  caption: "Figure 3: Add user and set their permissions page"
+  caption: "Figure 3: Add user and set permissions page"
 }) }}
+
+We have removed the need to choose which providers the user belongs to. This is because the DfE support user has reached this page in the context of a specific provider, in this example 2Schools Consortium.
+
+We introduced ‘Save user and add another’ to simplify the addition of multiple users. Clicking this button saves the user details and returns the DfE support user back to this page.
+
+The permissions are optional.
 
 ### Adding multiple users
 
@@ -152,13 +166,23 @@ As in the previous add user flow, this will trigger the sending of emails to the
   caption: "Figure 5: Adding multiple users page"
 }) }}
 
+User details can be copy and pasted into this form field from a CSV file or spreadsheet. The form field accepts comma-separated and tab-separated values.
+
+The details of each user must be on a new line.
+
 {{ appFigure({
   image: {
     file: "adding-multiple-users-02.png",
     alt: "Add user details and set their permissions page"
   },
-  caption: "Figure 6: Add user details and set their permissions page"
+  caption: "Figure 6: Add user details and set permissions page"
 }) }}
+
+For each user in the copy and pasted data, we show the add user page pre-populated with their first name, last name and email address.
+
+If the user’s details are missing or the email address is incorrect, we display an error message.
+
+The permissions are optional.
 
 {{ appFigure({
   image: {
@@ -197,3 +221,11 @@ There is not a strong need for this since:
 - over time the need for the users section should diminish as more users are onboarded and the provider admins become comfortable with managing their own users in Manage
 - the number of users and frequency of change is low
 - providing two places to manage users is unnecessary
+
+### Removing a user from the ‘add multiple user’ flow
+
+In the new design, the DfE user cannot change their mind about how many users to add.
+
+If they paste in the details of 10 users and later decide they only need to add 9, they will need to cancel and start again.
+
+We could add the ability to remove a user from the list of those to be added, either on the ‘Add user details and set permissions’ page or on the check answers page.
