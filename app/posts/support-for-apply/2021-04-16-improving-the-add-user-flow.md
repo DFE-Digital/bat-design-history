@@ -182,7 +182,7 @@ There is not a strong need for this since:
 - the providers with the largest number of users are HEIs, and there’s only a small number of them
 - once all providers have been added to Manage, the multiple user upload will not be used regularly
 
-### Accepting permissions information within the copy and pasted CSV data.
+### Accepting permissions information within the copy and pasted CSV data
 
 We could extend the format of accepted data to include permissions, for example by entering “true” or “false” in a specified order.
 
