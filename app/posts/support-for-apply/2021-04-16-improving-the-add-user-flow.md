@@ -60,6 +60,7 @@ This suggests that the main use for adding multiple users will be when setting u
 ### Permissions
 
 There are 5 permissions in the Manage service:
+
 - manage organisational permissions
 - manage users
 - make decisions and set up interviews
@@ -122,7 +123,7 @@ As in the previous add user flow, this will trigger the sending of emails to the
     file: "adding-single-user-flow.png",
     alt: "Adding a single user to a provider"
   },
-  caption: "Figure 2: Adding a single user to a provider"
+  caption: "Figure 2: Adding a single user to a provider flow"
 }) }}
 
 {{ appFigure({
@@ -140,7 +141,7 @@ As in the previous add user flow, this will trigger the sending of emails to the
     file: "adding-multiple-users-flow.png",
     alt: "Adding multiple users to a provider"
   },
-  caption: "Figure 4: Adding multiple users to a provider"
+  caption: "Figure 4: Adding multiple users to a provider flow"
 }) }}
 
 {{ appFigure({
@@ -166,8 +167,6 @@ As in the previous add user flow, this will trigger the sending of emails to the
   },
   caption: "Figure 7: Check details and add users page"
 }) }}
-
-## Other considerations
 
 ## Other considerations
 
