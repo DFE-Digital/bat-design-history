@@ -6,18 +6,21 @@ date: 2021-04-15
 
 {% from "email/macro.njk" import appEmail %}
 
-The [first iteration of withdrawing an application](/manage-teacher-training-applications/withdrawing-an-application) tested whether users could: 
+The [first iteration of withdrawing an application](/manage-teacher-training-applications/withdrawing-an-application) tested whether users could:
 
-- find the ‘Withdraw at candidate’s request’ link 
+- find the ‘Withdraw at candidate’s request’ link
 - understand the difference between rejecting an application, withdrawing an offer and withdrawing at the candidate’s request
 
 As the design tested well, this iteration is to tidy the rest of the flow and get it ready for first release.
 
 ## How it works
 
-Users can click a ‘Withdraw at candidate’s request’ link from the application details page at any time. 
+Users can click a ‘Withdraw at candidate’s request’ link from the application details page unless:
 
-They’re taken to a page asking them to confirm that they want to withdraw the application. If there are any upcoming interviews then the page explains that they’ll be cancelled.
+- the application has already been rejected or withdrawn
+- any offer has been withdrawn or declined
+
+When clicked, the user is taken to a page asking them to confirm that they want to withdraw the application. If there are any upcoming interviews then the page explains that they’ll be cancelled.
 
 Clicking ‘Cancel’ or ‘Back’ takes the user to the application details page.
 
@@ -31,7 +34,7 @@ Clicking ‘Withdraw application’:
 
 ## Future considerations
 
-We’re not asking for a reason for withdrawing the application because: 
+We’re not asking for a reason for withdrawing the application because:
 
 - the candidate may not give a reason
 - if the candidate does give a reason, there’s no need to replay it to them
@@ -224,4 +227,24 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
 {{ appEmail({
   subject: "Update on your application - respond by ((date))",
   content: template4
+}) }}
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Withdraw link on application details",
+    img: {
+      src: "application-details.png"
+    }
+  }, {
+    text: "Confirm withdrawal",
+    img: {
+      src: "confirm-withdrawal.png"
+    }
+  }, {
+    text: "Notification banner",
+    img: {
+      src: "notification-banner.png"
+    }
+  }]
 }) }}
