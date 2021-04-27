@@ -71,7 +71,6 @@ There are 5 permissions in the Manage service:
 
 This suggests that we should show permission choices per user, rather than apply a single set of permissions to all users in the add multiple users flow.
 
-
 ## What we changed and why
 
 We moved adding a user to within the providers’ section, removing the need to choose a provider in the add user flow.
@@ -107,8 +106,6 @@ At the end of the flow, DfE support users can check their answers before saving 
 As in the previous add user flow, this will trigger the sending of emails to the new users.
 
 ## How it works
-
-
 
 {{ appFigure({
   image: {
@@ -146,7 +143,6 @@ As in the previous add user flow, this will trigger the sending of emails to the
   caption: "Figure 4: Adding multiple users to a provider"
 }) }}
 
-
 {{ appFigure({
   image: {
     file: "adding-multiple-users-01.png",
@@ -173,8 +169,32 @@ As in the previous add user flow, this will trigger the sending of emails to the
 
 ## Other considerations
 
+## Other considerations
+
 We considered some changes which were not implemented.
 
-- Adding permissions data to the copy-pasted CSV data
-- Uploading a CSV file
-- Adding users at the top level
+### Uploading a CSV file
+
+We could reduce the work for DfE support users further if we allowed them to upload a file, rather than copying and pasting the data.
+
+There is not a strong need for this since:
+
+- we will not be adding very large numbers of users
+- the providers with the largest number of users are HEIs, and there’s only a small number of them
+- once all providers have been added to Manage, the multiple user upload will not be used regularly
+
+### Accepting permissions information within the copy and pasted CSV data.
+
+We could extend the format of accepted data to include permissions, for example by entering “true” or “false” in a specified order.
+
+We decided that this adds unnecessary complications. For example, we’d have to handle DfE support users entering “true” or “false” too few or too many times.
+
+### Providing a way to see and manage all users in the service
+
+We could provide a central place for DfE support users to manage users.
+
+There is not a strong need for this since:
+
+- over time the need for the users section should diminish as more users are onboarded and the provider admins become comfortable with managing their own users in Manage
+- the number of users and frequency of change is low
+- providing two places to manage users is unnecessary
