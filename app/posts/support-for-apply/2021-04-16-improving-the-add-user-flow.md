@@ -1,6 +1,6 @@
 ---
 title: Improving the add user flow
-Description: Make it quicker and easier for DfE support users to add provider users to Manage
+description: Make it quicker and easier for DfE support users to add provider users to Manage
 date: 2021-04-16
 ---
 {% from "figure/macro.njk" import appFigure with context %}
