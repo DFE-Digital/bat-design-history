@@ -1,6 +1,6 @@
 ---
 title: Setting the withdrawal date for deferred trainees
-description: 
+description: Improving how we collect this data
 date: 2021-04-27
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
