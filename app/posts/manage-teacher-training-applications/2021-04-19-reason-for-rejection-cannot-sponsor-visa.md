@@ -6,17 +6,17 @@ date: 2021-04-19
 
 A recent policy change means that [state-funded schools cannot sponsor Student visas](https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers#recruit-by-becoming-a-visa-sponsor).
 
-This has prompted us to add ‘cannot sponsor visa’ as a reason for rejection. This will make it easier for providers to give the right reason, and allow us to gather further data about why providers reject applications.
-
-Although for now, we will present this as a simple yes/no question, it’s important to note that the visa situation is quite complicated. This may require further work later.
+This has prompted us to add ‘cannot sponsor visa’ as a reason for rejection. It will make it easier for providers to give the right reason and improve our data about why providers reject applications.
 
 ## Other types of visa available to candidates
 
-A Student visa may not be the only option available to a candidate, depending on their circumstances and the course they’re applying for. These other options include:
+Although this work is in response to the change in rules for Student visas, other types of visas may be available to candidates. 
+
+Depending on their circumstances and the course they’re applying for, candidates may be eligible for:
 
 - Skilled Worker visa
 - Youth Mobility Scheme visa
-- Graduate visa - this has not been launched yet
+- Graduate visa - available from 1 July 2021
 
 The Skilled Worker visa:
 
@@ -34,28 +34,28 @@ A new Graduate visa is being introduced for people who have already studied in t
 
 Looking at the candidate data, we can see who is likely to receive the ‘cannot sponsor visa’ reason for rejection.
 
-12% of candidates do not have British or Irish nationality, they are ‘international’.
+12% of candidates do not have British or Irish nationality, so they are considered ‘international’.
 
-15% of international candidates answer ‘not yet, or not sure’ when asked about their right to work or study in the UK. These candidates are the most likely to have an application rejected because the provider is not able to sponsor the visa.
+15% of these international candidates answer ‘not yet, or not sure’ when asked about their right to work or study in the UK. 
 
-Less than 1% of application rejections mention visa as a reason for rejection.
+Looking at provider data, we found that less than 1% of application feedback mentions visa as a reason for rejection.
 
 ## What we did and why
 
-To provide consistent and useful feedback to candidates, we added the question “Was it because you cannot sponsor the candidate’s visa?” to the reasons for rejection.
+We added the question “Was it because you cannot sponsor the candidate’s visa?” to the reasons for rejection. This will help providers to give consistent and useful feedback to candidates.
 
-The question is only shown when the candidate is not a British or Irish citizen, they are ‘international’.
+The question is only shown when the candidate is not a British or Irish citizen.
 
-We ask the provider to give details about why they chose the option. This is because we know that there may be various reasons, not just because they cannot sponsor a Student visa.
+We ask the provider to give details about why they chose the option. This is because we know that the visa situation is complicated and the provider may be able to give useful information to the candidate.
 
 ## Future work
 
-Analysis of the current reasons given that mention visas shows that of 32 items of feedback:
+We found 32 items of feedback which mention visas. Of these:
 
 - only 3 explain why they can’t sponsor a visa (“we’re a SCITT”, “not a licensed visa sponsor”, “not enough face to face teaching”)
-- there are several uses of “tier 4” which is the old name for the Student visa
 - most do not mention a specific visa type
-- hardly any give the candidate pointers about what they could do next (for example try a salaried course)
+- there are several uses of “tier 4” which is the old name for the Student visa
+- very few give the candidate advice about what they could do next (for example try a salaried course)
 
 We plan to keep track of the reasons for rejection and test them with the following hypothesis:
 
@@ -65,8 +65,8 @@ If we find that the feedback has not improved, we will consider changing the des
 
 - include hint text with the ‘give details’ field
 - give more specific structured reasons within the ‘cannot sponsor visa’ response
-- include pre-written content in the feedback sent to candidates
-- reduce the range of candidates for which we show the option
+- include fixed content in the feedback sent to candidates
+- reduce the range of candidates we show the option to
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
