@@ -1,6 +1,6 @@
 ---
 title: Improving the add user flow
-description: Make it quicker and easier for DfE support users to add provider users to Manage
+description: Make it quicker and easier for support users to add provider users to Manage
 date: 2021-04-16
 ---
 {% from "figure/macro.njk" import appFigure with context %}
@@ -76,7 +76,7 @@ This suggests that in the add multiple users flow we should show permission choi
 
 ## What we changed and why
 
-Currently, clicking on ‘add provider user’ takes the DfE support user out of the provider section of the support service. This means that they have to choose which provider they want to add the user to.
+Currently, clicking on ‘add provider user’ takes the support user out of the provider section of the support service. This means that they have to choose which provider they want to add the user to.
 
 We moved the function of adding a user to within the provider section. The user will be added to the provider which has already been selected.
 
@@ -98,19 +98,19 @@ We did not add anything which was not already in the form. For example, we do no
 - DfE unique identifier
 - notification settings
 
-We provided a way to save and add another user, so that DfE support users can quickly add more than one user to a provider.
+We provided a way to save and add another user, so that support users can quickly add more than one user to a provider.
 
 An email will be sent to the new user as soon as they are added. This will be the same email which is currently sent to new users.
 
 ### Adding multiple users
 
-We introduced a way for DfE support users to copy and paste information from a spreadsheet or CSV file into the service.
+We introduced a way for support users to copy and paste information from a spreadsheet or CSV file into the service.
 
-This allows DfE support users to quickly and easily enter new user information in bulk, using data they have previously collected from providers.
+This allows support users to quickly and easily enter new user information in bulk, using data they have previously collected from providers.
 
-After data has been entered, we present a series of screens showing each user’s contact information and allowing DfE support users to set their permissions.
+After data has been entered, we present a series of screens showing each user’s contact information and allowing support users to set their permissions.
 
-At the end of the flow, DfE support users can check their answers before saving the users. This will also trigger the sending of emails to the new users.
+At the end of the flow, support users can check their answers before saving the users. This will also trigger the sending of emails to the new users.
 
 ## How it works
 
@@ -124,9 +124,9 @@ At the end of the flow, DfE support users can check their answers before saving 
 
 We introduced the ‘add multiple users’ button as a secondary action alongside the main action of ‘add user’.
 
-Clicking ‘add user’ takes the DfE support user to the add single user form.
+Clicking ‘add user’ takes the support user to the add single user form.
 
-Clicking ‘add multiple users’ takes the DfE support user to the add multiple users form.
+Clicking ‘add multiple users’ takes the support user to the add multiple users form.
 
 ### Adding a single user
 
@@ -146,9 +146,9 @@ Clicking ‘add multiple users’ takes the DfE support user to the add multiple
   caption: "Figure 3: Add user and set permissions page"
 }) }}
 
-The DfE support user doesn’t need to choose which provider the user belongs to. They reached this page through the 2Schools consortium provider page, so the user will be added to that provider.
+The support user doesn’t need to choose which provider the user belongs to. They reached this page through the 2Schools consortium provider page, so the user will be added to that provider.
 
-We introduced ‘Save user and add another’ to simplify the addition of multiple users. Clicking this button saves the user details and returns the DfE support user back to this page.
+We introduced ‘Save user and add another’ to simplify the addition of multiple users. Clicking this button saves the user details and returns the support user back to this page.
 
 Adding permissions is optional. If none are added, the user will only be able to view applications.
 
@@ -202,7 +202,7 @@ We considered some changes which were not implemented. We could consider them fo
 
 ### Uploading a CSV file
 
-We could reduce the work for DfE support users further if we allowed them to upload a file, rather than copying and pasting the data.
+We could reduce the work for support users further if we allowed them to upload a file, rather than copying and pasting the data.
 
 There is not a strong need for this since:
 
@@ -214,11 +214,11 @@ There is not a strong need for this since:
 
 We could extend the format of accepted data to include permissions, for example by entering “true” or “false” in a specified order.
 
-We decided that this adds unnecessary complications. For example, we’d need to handle DfE support users entering “true” or “false” too few or too many times.
+We decided that this adds unnecessary complications. For example, we’d need to handle support users entering “true” or “false” too few or too many times.
 
 ### Providing a way to see and manage all users in the service
 
-We could provide a central place for DfE support users to manage users.
+We could provide a central place for support users to manage users.
 
 There is not a strong need for this since:
 
