@@ -47,8 +47,14 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
   content: emailTemplate
 }) }}
 
+When more than one condition has been met:
 
+- the subject and heading should say ‘Conditions met’ instead of ‘Condition met’
+- the lede sentence should say ‘conditions’ instead of ‘condition’
 
+When more than one condition still needs to be met:
+
+- the lede in should say ‘The following conditions still need...’ instead of ‘The following condition still needs...’
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
