@@ -36,7 +36,7 @@ We found that further placements are often unknown at the point of requesting a 
 
 All users felt confident that Register will enable them to change or finalise the placement info at a later point.
 
-> “I've always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn't make any difference as long as we can change. I’ve had to change things due to the pandemic.” 
+> “I’ve always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn't make any difference as long as we can change. I’ve had to change things due to the pandemic.” 
 > Round 5 P3 (SCITT)
 
 > “We had a couple of times when a trainee changed placements, I wonder how I would record that? I think I would just add another placement I’m guessing and change the previous placement to just 2 weeks?”
