@@ -54,7 +54,7 @@ There is the concept of a main location:
 * Host school 
 * Training location
 
-These locations are typically schoolswhere the SCITT administration is based.
+These locations are typically schools where the SCITT administration is based.
 
 For provider-led trainees, this could also be their ‘training location’ - where the academic training takes place. In this case providers do not count time spent at this location towards a placement duration. 
 
