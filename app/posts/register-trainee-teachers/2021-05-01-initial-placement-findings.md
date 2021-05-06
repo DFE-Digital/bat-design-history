@@ -34,7 +34,7 @@ The rationale behind asking for placements is opaque and can lead to additional 
 
 We found that further placements are often unknown at the point of requesting a TRN.
 
-All users feel confident that Register will enable them to change or finalise the placement info at a later point.
+All users felt confident that Register will enable them to change or finalise the placement info at a later point.
 
 > “I've always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn't make any difference as long as we can change. I’ve had to change things due to the pandemic.” 
 > Round 5 P3 (SCITT)
