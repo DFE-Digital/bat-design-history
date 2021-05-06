@@ -171,7 +171,7 @@ The current design displays placements in order of them being added to Register.
 
 ### Iterate our designs
 
-Requiring the user to input  a specific start date and duration in weeks doesn't reflect how placements really happen and therefore not meet some of our user’s needs. 
+Requiring the user to input a specific start date and duration in weeks doesn’t reflect how placements really happen and therefore not meet some of our user’s needs. 
 
 Additionally, due to the one-day-a-week pattern we observed with some EY providers, it would be more appropriate to ask them about duration in days, not weeks.
 
