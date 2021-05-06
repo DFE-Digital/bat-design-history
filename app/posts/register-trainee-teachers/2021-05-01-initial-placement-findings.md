@@ -50,9 +50,9 @@ Terminology varies by provider with numerous terms being used to describe simila
 
 There is the concept of a main location:
 
-* Main school or main setting 
-* Host school 
-* Training location
+* main school or main setting 
+* host school 
+* training location
 
 These locations are typically schools where the SCITT administration is based.
 
