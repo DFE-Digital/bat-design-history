@@ -76,7 +76,7 @@ We identified commonly used terms by providers when referring to placements:
 * Complementary placement
 * Phase B
 
-Placements are mandatory and provide trainees with  versatile teaching experience. ‘Contrast’ and ‘complementary’ placements reflect that notion and offer the trainee exposure to a different context than their main location, or previous placements. For example, an inner city placement might be contrasted with a rural placement. A placement in an all-girls school might be followed by a placement in an all-boys setting.
+Placements are mandatory and provide trainees with versatile teaching experience. ‘Contrast’ and ‘complementary’ placements reflect that notion and offer the trainee exposure to a different context than their main location, or previous placements. For example, an inner city placement might be contrasted with a rural placement. A placement in an all-girls school might be followed by a placement in an all-boys setting.
 
 ### Placement patterns
 
