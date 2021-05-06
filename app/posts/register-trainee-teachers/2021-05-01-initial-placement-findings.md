@@ -42,7 +42,7 @@ All users felt confident that Register will enable them to change or finalise th
 > “We had a couple of times when a trainee changed placements, I wonder how I would record that? I think I would just add another placement I’m guessing and change the previous placement to just 2 weeks?”
 > Round 5 P6 (SCITT)
 
-We learned that providers’ approach to placements was more varied than we anticipated. We assumed that a trainee would have two linear placements and that terminology would be consistent across the ITT market. Neither turned out to be true and our initial designs did not fit with user needs.
+We learned that providers’ approach to placements was more varied than we anticipated. We assumed that a trainee would have two linear placements and that ITT provider terminology would be consistent. Neither turned out to be true and our initial designs did not fit with user needs.
 
 ### Placement terminology
 
