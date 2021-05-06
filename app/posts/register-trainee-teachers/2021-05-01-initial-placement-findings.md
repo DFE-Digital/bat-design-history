@@ -197,7 +197,7 @@ Considering the frequency of location change for some trainees, our hunch is tha
 * create a significant amount of additional work, becoming a burden for our users
 * increase errors as users might forget about the updating the system with placement changes
 
-By acknowledging the scale of the burden we are knowingly compromising our users' experience.
+By acknowledging the scale of the burden we are knowingly compromising our users’ experience.
 
 How might we make the process of adding placement data fit with the reality of how placements happen to reduce effort and minimise potential for error?
 
