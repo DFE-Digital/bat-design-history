@@ -205,4 +205,4 @@ Asking for the placement data at trainee record setup allows for flexibility and
 
 In turn collecting placement details at time of QTS recommendation removes complexity when creating records yet would mean users spend significantly more time completing the task of recommending for qualifications.
 
-By exploring different ways of prompting outstanding actions we could change provider's behavior to record data changes as soon as they occur, minimising potential for error and reducing time needed to recommend a trainee for QTS.
+By exploring different ways of prompting outstanding actions we could change provider’s behaviour to record data changes as soon as they occur, minimising potential for error and reducing time needed to recommend a trainee for QTS.
