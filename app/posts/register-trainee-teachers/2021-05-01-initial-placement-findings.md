@@ -32,7 +32,7 @@ The rationale behind asking for placements is opaque and can lead to additional 
 > “Compliance states that we need two, but why does the DfE need to know where the person is placed? They just need to know that they are placed?” 
 > Round 6 P6 (SCITT)
 
-We found that further placements are often unknown at the point of requesting TRN.
+We found that further placements are often unknown at the point of requesting a TRN.
 
 All users feel confident that Register will enable them to change or finalise the placement info at a later point.
 
