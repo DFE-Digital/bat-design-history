@@ -7,12 +7,13 @@ date: 2021-05-01
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "figure/macro.njk" import appFigure with context %}
 
+We’ve been continuing our work around [collecting placement details](/register-trainee-teachers/collecting-placement-details/) through exploratory research and usability testing on the prototype.
+
 Dates of research:
  
 * round 5: 4 -12 March 2021, 7 participants, all SCITT
 * round 6: 29 March - 12 April 2021, 9 participants, 4 HEI, 5 SCITT, (8 EY Employment, 3 EY Graduate, 2 EY UG, 1SD Salaried, 2 SD tuition fee)
 
-We’ve been continuing our work around [collecting placement details](/register-trainee-teachers/collecting-placement-details/) through exploratory research and usability testing on the prototype.
 
 ## What we learned
 
