@@ -1,15 +1,15 @@
 ---
-title: Searching for a school
+title: Searching for a school (part 1)
 description: Exploring using an autocomplete to pick schools
 date: 2021-04-08
 related:
   items:
   - text: Collecting placement details
-    href: register-trainee-teachers/collecting-placement-details/
+    href: /register-trainee-teachers/collecting-placement-details/
   - text: Publish’s schools autocomplete
-    href: publish-teacher-training-courses/schools-autocomplete/
+    href: /publish-teacher-training-courses/schools-autocomplete/
   - text: Adding School direct routes
-    href: register-trainee-teachers/school-direct-routes/
+    href: /register-trainee-teachers/school-direct-routes/
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "figure/macro.njk" import appFigure with context %}
@@ -56,7 +56,7 @@ It will require JavaScript and an Ajax call to look up the results - we can’t 
 
 A reason to do this over and above a search results page is how quickly users can narrow down search results. The feedback is immediate - particularly for schools they know and are familiar with.
 
-This design assumes that all schools that might be needed will be listed. There may be times when this will not be the case, such as early years settings. For those cases, we'll need the ability to add free text rather than picking from one of these options.
+This design assumes that all schools that might be needed will be listed. There may be times when this will not be the case, such as early years settings. For those cases, we’ll need the ability to add free text rather than picking from one of these options.
 
 ## Suggesting likely schools
 
