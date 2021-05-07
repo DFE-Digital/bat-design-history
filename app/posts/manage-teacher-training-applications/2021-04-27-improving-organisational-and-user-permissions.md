@@ -32,7 +32,7 @@ We added a link to manage email notifications, as it’s something which users m
   }
 }) }}
 
-If the user cannot manage users, we only mention viewing applications or changing email settings.
+If the user cannot manage users, we only mention viewing applications and managing email notifications.
 
 {{ appFigure({
   image: {
@@ -42,7 +42,7 @@ If the user cannot manage users, we only mention viewing applications or changin
 
 ## Setting up organisational permissions
 
-### Start page content
+### Start page
 
 We’ve made the content more concise. We no longer say what kinds of permissions will be set, as the user will see this on the next page.
 
@@ -72,16 +72,16 @@ We’ve changed the caption so that we’re consistently using the term “organ
 
 For the labels, we’ve changed:
 
-* “safeguarding information” to “criminal convictions and professional misconduct”
-* “diversity information” to “equality and diversity information”
+- “safeguarding information” to “criminal convictions and professional misconduct”
+- “diversity information” to “equality and diversity information”
 
 We’ve also removed the hint text because the field legends can now stand alone.
 
 We’ve replaced the tick icons with normal bullet points. This is because:
 
-* on this page we only use tick icons, we aren’t contrasting them with crosses, so they have no more meaning than a bullet point
-* the use of a tick may imply that they can be ‘unticked’ or replaced with crosses - it may not be clear to the user that the items cannot be changed
-* the heading makes it clear that the list is things the user can do, so there’s no need to further emphasise that it’s a list of positives
+- on this page we only use tick icons, we aren’t contrasting them with crosses, so they have no more meaning than a bullet point
+- the use of a tick may imply that they can be ‘unticked’ or replaced with crosses - it may not be clear to the user that the items cannot be changed
+- the heading makes it clear that the list is things the user can do, so there’s no need to further emphasise that it’s a list of positives
 
 {{ appFigure({
   image: {
@@ -143,7 +143,7 @@ Now we’re just going to list them all as there’s plenty of space to do so. T
 
 ### User details
 
-We added sub headings to split up this long page. It makes it easier to see permissions for each organisation you belong to.
+We added subheadings to split up this long page. It makes it easier to see permissions for each organisation you belong to.
 
 {{ appFigure({
   image: {
@@ -257,14 +257,15 @@ If a permission has not been set up yet, the message will be different depending
 
 The message will be:
 
-- ‘Permissions need to be set up’ - if the user belongs to the training provider
-- ‘Nobody can do this - the training provider needs to change organisational permissions’ - if the user belongs only to the accredited body
+- ‘Neither organisation can do this - you can change permissions to allow it’ - if the user belongs to the training provider
+- ‘Neither organisation can do this - [provider] can change permissions to allow it’ - if the user belongs only to the accredited body
+
 
 The change permissions link will not be shown to a user who belongs only to the accredited body.
 
 {{ appFigure({
   image: {
-    file: "organisational-permissions--nothing-set.png"
+    file: "organisational-permissions--not-set-accredited-body.png"
   }
 }) }}
 
@@ -274,7 +275,7 @@ This has been changed to reflect the changes made to the flow for setting up org
 
 {{ appFigure({
   image: {
-    file: "change-org-permission.png"
+    file: "change-org-permissions.png"
   }
 }) }}
 
@@ -284,7 +285,7 @@ We’ve updated the content for the success message, calling them “organisatio
 
 {{ appFigure({
   image: {
-    file: "change-org-permission--success.png"
+    file: "change-org-permissions--success.png"
   }
 }) }}
 
