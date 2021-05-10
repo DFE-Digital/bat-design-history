@@ -87,16 +87,15 @@ We tested v1, v2, v3 endpoints and the public v1 endpoint.
 
 ### Publish
 
-We manually tested the create a course journey and sporadic checks of various screens and flows in both the ‘Current Cycle’ and ‘Next Cycle’ during rollover, and of Publish after rollover. There could have been more structure to the QA process, instead we adopted a ‘click around and see if things are ok’ approach. We should take a more organised approach to our rollover QA process.
+We manually tested the create a course journey and sporadic checks of various screens and flows in both the ‘Current Cycle’ and ‘Next Cycle’ during rollover, and of Publish after rollover. We adopted a ‘click around and see if things are ok’ approach to our QA. We should introduce more structure to our rollover QA process in future.
 
-We encountered a number of issues relating to error validation in this testing. While not directly linked to rollover this highlighted room for improvement in our QA processes.
-
+We encountered a number of issues relating to error validation in this testing. While not directly linked to rollover this also highlighted room for improvement in our QA processes.
 
 ## Development milestones
 
 ### Before/during rollover
 
-A spike which lasted at least 7 days
+A spike which lasted at least 7 days.
 
 https://github.com/DFE-Digital/find-teacher-training/pull/386
 https://github.com/DFE-Digital/publish-teacher-training/pull/1304
@@ -104,13 +103,13 @@ https://github.com/DFE-Digital/teacher-training-api/pull/1520
 
 ### After rollover
 
-Rollover settings
+Rollover settings.
 
 https://github.com/DFE-Digital/find-teacher-training/pull/461
 https://github.com/DFE-Digital/publish-teacher-training/pull/1384
 https://github.com/DFE-Digital/teacher-training-api/pull/1586
 
-Course opening dates were updated on Find and Apply
+Course opening dates were updated on Find and Apply.
 
 https://github.com/DFE-Digital/find-teacher-training/pull/462
 
@@ -124,7 +123,7 @@ https://github.com/DFE-Digital/publish-teacher-training/pull/1352
 https://github.com/DFE-Digital/publish-teacher-training/pull/1387
 https://github.com/DFE-Digital/find-teacher-training/pull/464
 
-Financial incentive for most courses were then removed
+Financial incentive for most courses were then removed.
 
 https://github.com/DFE-Digital/teacher-training-api/pull/1589
 
@@ -135,17 +134,16 @@ We [uncoupled EU from UK course fees](https://bat-design-history.netlify.app/pub
 https://github.com/DFE-Digital/publish-teacher-training/pull/1374
 https://github.com/DFE-Digital/find-teacher-training/pull/458
 
-[screenshot]
-
 ### Age range
 
-We made the age range field mandatory for all courses in the next cycle. This data was missing from approximately 14,000 / 15,000 courses. Rollover this gives us the opportunity to collect this data. A notice summary was displayed on courses that did not specify the age range.
+We made the age range field mandatory for all courses in the next cycle. This data was missing from approximately 14,000 / 15,000 courses. Rollover gave us the opportunity to collect this data.
 
 {{ appFigure({
   image: {
     file: "age-range-banner.png",
     alt: "A banner prompting users to supply an age range."
-  }
+  },
+  caption: "A notice summary was displayed on courses that did not specify an age range."
 }) }}
 
 {{ appFigure({
