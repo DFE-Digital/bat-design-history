@@ -17,7 +17,6 @@ In [part 1](../searching-for-a-school) we explored using an autocomplete to help
 
 In part 1  we also saw that if the results returned too slowly a user might type a query and immediately click continue before we had a chance to show them results. When this happens we can fall back to a no-JavaScript page, but we hope it will be fast enough to avoid this.
 
-
 ## Searching without JavaScript
 
 The start point is the same as the JavaScript journey - a text input enabling them to type a search query.
@@ -51,13 +50,6 @@ From our testing so far, we think that the school users want will usually be in 
   }
 }) }}
 
-{{ appFigure({
-  image: {
-    file: "3. no-results.png",
-    alt: "Content shown when there are no results, prompting the user to change their search."
-  }
-}) }}
-
 The design is the same for single results - but we plan to work on this next.
 
 {{ appFigure({
@@ -80,21 +72,3 @@ We’re starting off by only returning the first 15 results. If there are more m
 
 From our internal testing, 15 seems a reasonable balance between not showing too many on a page, but having a high likelihood that the school you’re looking for should be shown. The more specific the search term, which is what we think providers are likely to use, the less likely you’ll encounter the truncation.
 
-{# {{ appScreenshots({
-  items: [{
-      text: "1. search input",
-      img: { src: "1. search-input.png" }
-    }, {
-      text: "2. search results",
-      img: { src: "2. search-results.png" }
-    }, {
-      text: "3. no results",
-      img: { src: "3. no-results.png" }
-    }, {
-      text: "4. single result",
-      img: { src: "4. single-result.png" }
-    }, {
-      text: "5. truncated results",
-      img: { src: "5. truncated-results.png" }
-    }]
-}) }} #}
