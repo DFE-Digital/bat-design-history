@@ -59,7 +59,7 @@ The design is the same for single results - but we plan to work on this next.
   }
 }) }}
 
-## Truncating results
+## Truncating results
 
 We’re starting off by only returning the first 15 results. If there are more matches, we’ll show a message that the results are truncated, and suggest users refine their search. We’ll need to monitor how often users need to search again because the school they wanted wasn’t in the list.
 
