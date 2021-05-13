@@ -52,7 +52,7 @@ The Mary persona represents a specific and potentially problematic scenario in P
 
 Mary has access to multiple organisations and is associated with two accredited bodies. 
 
-Mary also has access to a school direct (Thorpe St Andrew School and Sixth Form) with courses accredited by one of the accredited bodies (Suffolk and Norfolk Secondary SCITT) they belong to.
+Mary also has access to Thorpe St Andrew School and Sixth Form with courses accredited by one of the accredited bodies (Suffolk and Norfolk Secondary SCITT) they belong to.
 
 Thorpe St Andrew School and Sixth Form also has courses accredited by a third party, an organisation Mary has no connection to, yet Mary can view and edit these courses.
 
