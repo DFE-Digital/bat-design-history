@@ -44,7 +44,7 @@ Colin is DfE support and has administrator access to all organisations.
 
 ## Logging in as a specific user
 
-For troubleshooting a specific user's issues Support are able to login with the users anonymised email using the ‘Sign in as a specific user’ link in the header. You can also sign in as yourself this way.
+For troubleshooting a specific user’s issues, DfE Support are able to login with the user's anonymised email using the ‘Sign in as a specific user’ link in the header. You can also sign in as yourself this way.
 
 ## There is something about Mary
 
