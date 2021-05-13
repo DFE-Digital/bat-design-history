@@ -6,7 +6,7 @@ date: 2020-08-20
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-When joining the Find/Publish team members had traditionally been granted administrator access to the QA Publish environment.
+When joining the Find or Publish teams, team members had traditionally been granted administrator access to the QA Publish environment.
 
 Admin permissions include access to:
  
@@ -44,9 +44,9 @@ Susy is a SCITT service manager who belongs to Durham SCITT, an accredited body.
 
 ## Logging in as a specific user
 
-For troubleshooting a specific user's issues Support are able to login with the users anonymised email using the ‘Sign in as a specific user’ link in the header. You can also sign in as yourself this way.
+For troubleshooting a specific user’s issues, DfE Support are able to login with the user's anonymised email using the ‘Sign in as a specific user’ link in the header. You can also sign in as yourself this way.
 
-## There is something about Mary
+## There’s something about Mary
 
 The Mary persona represents a specific and potentially problematic scenario in Publish that has [emerged in recent research](/publish-teacher-training-courses/users-with-multiple-organisation-access/#limiting-access-to-some-courses). 
 
