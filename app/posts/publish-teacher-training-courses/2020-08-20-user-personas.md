@@ -27,20 +27,20 @@ We’ve created test accounts based on existing anonymised users for both QA and
 
 Anne is a course administrator who belongs to Groby and Partners, a school direct.
 
-### Susy
+### Colin
 
-Susy is a SCITT service manager who belongs to Durham SCITT, an accredited body.
+Colin is DfE support and has administrator access to all organisations.
 
 ### Mary
 
 Mary is a SCITT Business Support Coordinator who belongs to:
 
 * multiple accredited bodies, Suffolk and Norfolk Primary SCITT and Suffolk and Norfolk Secondary SCITT
-* Thorpe St Andrew School and Sixth Form, a school direct with courses accredited by Suffolk and Norfolk Secondary SCITT as well as courses accredited by an organisation not associated with either of Mary’s accredited bodies.
+* Thorpe St Andrew School and Sixth Form, with courses accredited by Suffolk and Norfolk Secondary SCITT as well as courses accredited by an organisation not associated with either of Mary’s accredited bodies.
 
-### Colin
+### Susy
 
-Colin is DfE support and has administrator access to all organisations. 
+Susy is a SCITT service manager who belongs to Durham SCITT, an accredited body.
 
 ## Logging in as a specific user
 
