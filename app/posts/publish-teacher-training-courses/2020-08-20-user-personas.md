@@ -46,7 +46,7 @@ Colin is DfE support and has administrator access to all organisations.
 
 For troubleshooting a specific user’s issues, DfE Support are able to login with the user's anonymised email using the ‘Sign in as a specific user’ link in the header. You can also sign in as yourself this way.
 
-## There is something about Mary
+## There’s something about Mary
 
 The Mary persona represents a specific and potentially problematic scenario in Publish that has [emerged in recent research](/publish-teacher-training-courses/users-with-multiple-organisation-access/#limiting-access-to-some-courses). 
 
