@@ -6,7 +6,7 @@ date: 2020-08-20
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-When joining the Find/Publish team members had traditionally been granted administrator access to the QA Publish environment.
+When joining the Find or Publish teams, team members had traditionally been granted administrator access to the QA Publish environment.
 
 Admin permissions include access to:
  
