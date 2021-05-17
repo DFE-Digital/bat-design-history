@@ -66,9 +66,14 @@ If we find that this confuses users then we could mention interviews, for exampl
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "BLAHG",
+    text: "Additional permissions",
     img: {
-      src: "activity-log.png"
+      src: "invite-user--additional-permissions.png"
+    }
+  }, {
+    text: "User details",
+    img: {
+      src: "user-details.png"
     }
   }]
 }) }}
