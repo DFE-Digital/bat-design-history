@@ -6,7 +6,7 @@ date: 2021-05-12
 
 Until now, the ‘make decisions’ permission has included the ability to set up, change and cancel interviews. This piece of work splits it out, so that ‘set up interviews’ is a separate permission.
 
-We’ll give the new permission to all users who currently have ‘make decisions’ permission. This means that no users will gain or lose permissions when we introduce the new one.
+We’ll give the new permission to all users who currently have the ‘make decisions’ permission. This means that no users will gain or lose permissions when we introduce the new one.
 
 ## Why we made the change
 
@@ -21,7 +21,7 @@ The change will also make it possible to reflect a relationship between organisa
 
 We considered calling the permission ‘set up, change and cancel interviews’.
 
-We decided to use just ‘set up interviews’ because:
+We decided to use ‘set up interviews’ because:
 
 - we don’t think users will be confused by it
 - it’s concise
@@ -42,7 +42,7 @@ We do not think that providers will need to control this permission in a more de
 The ‘set up interviews’ permission is now shown:
 
 - as an option when a user is invited
-- as an option when a user’s permission are changed
+- as an option when a user’s permissions are changed
 - in a user’s details, if the user being viewed has the permission
 - in the ‘user permissions’ section of the user’s account, if they have the permission
 
@@ -54,7 +54,7 @@ We should consider telling users that the permission has been split. We do not a
 
 We could tell them using either an email or the provider newsletter.
 
-### Mentioning interviews on the ‘Organisational permissions’ pages
+### Mentioning interviews on the organisational permissions pages
 
 We have decided not to mention interviews when users set up or change organisational permissions. We think that it’s unnecessary detail at that point.
 
