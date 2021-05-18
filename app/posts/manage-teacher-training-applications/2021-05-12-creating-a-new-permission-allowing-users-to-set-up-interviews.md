@@ -39,12 +39,28 @@ We do not think that providers will need to control this permission in a more de
 
 ## What we changed
 
+### Setting up and managing user permissions
+
 The ‘set up interviews’ permission is now shown:
 
 - as an option when a user is invited
 - as an option when a user’s permissions are changed
 - in a user’s details, if the user being viewed has the permission
 - in the ‘user permissions’ section of the user’s account, if they have the permission
+
+### Application pages
+
+If a an application has a status of ‘received’ or ‘interviewing’ we show a prompt which includes:
+
+- the date and time when the application will be automatically rejected
+- buttons for actions based on the status of the application and the user’s permissions
+
+Now that interviews have been split from making decisions, we need to change the possible combinations of buttons to:
+
+- ‘make decision’ and ‘set up interview’ - if the status is ‘received’ and the user has both permissions 
+- ‘set up interview’ - if the status is ‘received’ and the user only has ‘set up interviews’ permission 
+- ‘make decision’ - if the user only has ‘make decisions’ permission, whatever the status
+- no buttons - if none of the other combinations of buttons apply
 
 ## Future considerations
 
