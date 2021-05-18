@@ -50,17 +50,26 @@ The ‘set up interviews’ permission is now shown:
 
 ### Application pages
 
-If a an application has a status of ‘received’ or ‘interviewing’ we show a prompt which includes:
+If an application has a status of ‘received’ or ‘interviewing’ we show a prompt which includes:
 
 - the date and time when the application will be automatically rejected
 - buttons for actions based on the status of the application and the user’s permissions
 
-Now that interviews have been split from making decisions, we need to change the possible combinations of buttons to:
+Now that interviews have been split from making decisions, we’ve changed the possible combinations of buttons to:
 
 - ‘make decision’ and ‘set up interview’ - if the status is ‘received’ and the user has both permissions 
 - ‘set up interview’ - if the status is ‘received’ and the user only has ‘set up interviews’ permission 
 - ‘make decision’ - if the user only has ‘make decisions’ permission, whatever the status
-- no buttons - if none of the other combinations of buttons apply
+- no buttons - if none of the other options applies
+
+We’ve made the wording of the prompts more passive, saying “if a decision has not been made” rather than “if you do not make a decision”. This covers situations where the user does not have permission to make a decision. 
+
+We’ve also made sure that the h2 heading for the prompt matches the buttons:
+
+- Set up an interview or make a decision
+- Set up an interview
+- Make a decision
+- no h2 (if there are no buttons)
 
 ## Future considerations
 
