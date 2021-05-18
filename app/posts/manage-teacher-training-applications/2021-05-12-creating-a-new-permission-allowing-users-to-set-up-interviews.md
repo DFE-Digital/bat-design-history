@@ -39,12 +39,41 @@ We do not think that providers will need to control this permission in a more de
 
 ## What we changed
 
+### Setting up and managing user permissions
+
 The ‘set up interviews’ permission is now shown:
 
 - as an option when a user is invited
 - as an option when a user’s permissions are changed
 - in a user’s details, if the user being viewed has the permission
 - in the ‘user permissions’ section of the user’s account, if they have the permission
+
+### Application pages
+
+If an application has a status of ‘received’ or ‘interviewing’ we show a prompt which includes:
+
+- the date and time when the application will be automatically rejected
+- buttons for actions based on the status of the application and the user’s permissions
+
+Now that setting up interviews has been split from making decisions, we’ve changed the possible combinations of buttons to:
+
+- ‘make decision’ and ‘set up interview’ - if the status is ‘received’ and the user has both permissions
+- ‘set up interview’ - if the status is ‘received’ and the user only has ‘set up interviews’ permission
+- ‘make decision’ - if the user only has ‘make decisions’ permission, whatever the status
+- no buttons - if none of the other options applies
+
+We’ve made the wording of the prompts more passive, since the user may not have permission to make a decision. The wording is:
+
+- if a decision has not been made by today
+- if a decision has not been made by tomorrow
+- if a decision has not been made within X days
+
+We’ve also made sure that the h2 heading for the prompt matches the buttons:
+
+- Set up an interview or make a decision
+- Set up an interview
+- Make a decision
+- no h2 (if there are no buttons)
 
 ## Future considerations
 
@@ -74,6 +103,36 @@ If we find that this confuses users then we could mention interviews, for exampl
     text: "User details",
     img: {
       src: "user-details.png"
+    }
+  }, {
+    text: "Prompt when status is received and can make decisions and set up interviews",
+    img: {
+      src: "received--both.png"
+    }
+  }, {
+    text: "Prompt when status is received and can make decisions but not set up interviews",
+    img: {
+      src: "received--make-decision.png"
+    }
+  }, {
+    text: "Prompt when status is received and can set up interviews but not make decisions",
+    img: {
+      src: "received--setup-interview.png"
+    }
+  }, {
+    text: "Prompt when status is received but cannot set up interviews or make decisions",
+    img: {
+      src: "received--none.png"
+    }
+  }, {
+    text: "Prompt when status is interviewing and can make decisions",
+    img: {
+      src: "interviewing--make-decision.png"
+    }
+  }, {
+    text: "Prompt when status is interviewing but cannot make decisions",
+    img: {
+      src: "interviewing--none.png"
     }
   }]
 }) }}
