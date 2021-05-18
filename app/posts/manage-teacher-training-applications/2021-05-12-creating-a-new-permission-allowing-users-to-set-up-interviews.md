@@ -57,8 +57,8 @@ If an application has a status of ‘received’ or ‘interviewing’ we show a
 
 Now that interviews have been split from making decisions, we’ve changed the possible combinations of buttons to:
 
-- ‘make decision’ and ‘set up interview’ - if the status is ‘received’ and the user has both permissions 
-- ‘set up interview’ - if the status is ‘received’ and the user only has ‘set up interviews’ permission 
+- ‘make decision’ and ‘set up interview’ - if the status is ‘received’ and the user has both permissions
+- ‘set up interview’ - if the status is ‘received’ and the user only has ‘set up interviews’ permission
 - ‘make decision’ - if the user only has ‘make decisions’ permission, whatever the status
 - no buttons - if none of the other options applies
 
@@ -99,6 +99,36 @@ If we find that this confuses users then we could mention interviews, for exampl
     text: "User details",
     img: {
       src: "user-details.png"
+    }
+  }, {
+    text: "Prompt when status is received and can make decisions and set up interviews",
+    img: {
+      src: "received--both.png"
+    }
+  }, {
+    text: "Prompt when status is received and can make decisions but not set up interviews",
+    img: {
+      src: "received--make-decision.png"
+    }
+  }, {
+    text: "Prompt when status is received and can set up interviews but not make decisions",
+    img: {
+      src: "received--setup-interview.png"
+    }
+  }, {
+    text: "Prompt when status is received but cannot set up interviews or make decisions",
+    img: {
+      src: "received--none.png"
+    }
+  }, {
+    text: "Prompt when status is interviewing and can make decisions",
+    img: {
+      src: "interviewing--make-decision.png"
+    }
+  }, {
+    text: "Prompt when status is interviewing but cannot make decisions",
+    img: {
+      src: "interviewing--none.png"
     }
   }]
 }) }}
