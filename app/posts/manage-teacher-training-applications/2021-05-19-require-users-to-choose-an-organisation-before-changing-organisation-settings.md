@@ -23,11 +23,9 @@ Combining organisation permissions and users adds complication to several pages.
 
 This is a lot of extra complexity for the 20% of users who belong to multiple organisations. We think that this change will make it easier for those users to understand permissions.
 
-It may also help to reinforce the principle that users should only belong to organisations they actually work for. They should use organisational permission to set up other relationships.
+It may also help to reinforce the principle that users should only belong to organisations they actually work for. They should use organisational permissions to set up other relationships.
 
 ## What we’ve done
-
-There are no changes to the ‘your account’ section.
 
 ### Organisation settings
 
@@ -66,21 +64,6 @@ We’ve removed the page for selecting which organisations the new user will hav
 If the user belongs to more than one organisation, we give its name in the caption. The format is ‘user name - organisation name’.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  title: "Screenshots: your account",
-  items: [{
-    text: "Account - user permissions",
-    img: {
-      src: "account-permissions.png"
-    }
-  }, {
-    text: "Account - user permissions (belongs to multiple organisations)",
-    img: {
-      src: "account-permissions--multi.png"
-    }
-  }]
-}) }}
-
 {{ appScreenshots({
   title: "Screenshots: organisation settings",
   items: [{
