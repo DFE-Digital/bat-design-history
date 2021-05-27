@@ -1,6 +1,6 @@
 ---
 title: Require users to choose an organisation before changing organisation settings
-Description: Users will only be able to change organisational permissions and user settings for one organisation at a time
+description: Users will only be able to change organisational permissions and user settings for one organisation at a time
 date: 2021-05-17
 ---
 
@@ -45,7 +45,7 @@ We’d previously introduced h2 headings to separate out personal details and pe
 
 We’ve made ‘delete user’ a link rather than a button as it’s a destructive action and rarely used. We’ve moved it to the top, just under the h1, because that’s where we normally place actions.
 
-If the user belongs to more than one organisation, the caption for the h1 heading will show which organisation they selected. 
+If the user belongs to more than one organisation, the caption for the h1 heading will show which organisation they selected.
 
 ### Change permissions
 
@@ -53,7 +53,7 @@ We’ve taken the organisation name out of the h1 headings when users change per
 
 ### Delete user
 
-We’ve changed this from a question to a statement, to better fit with other h1 headings. 
+We’ve changed this from a question to a statement, to better fit with other h1 headings.
 
 We’re including the name of the organisation, to make sure it’s clear where the user will be deleted from.
 
