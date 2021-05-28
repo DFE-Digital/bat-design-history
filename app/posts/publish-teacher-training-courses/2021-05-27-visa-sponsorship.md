@@ -10,7 +10,7 @@ A relatively common reason for rejection is that the provider is unable to spons
 
 Whilst we have attempted to communicate which providers are likely to be able to sponsor visas, through guidance and a link to the [register of licenced sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students), this puts the onus on the candidate to understand and research these options.
 
-To make this simpler, we are proposing to ask providers to indicate which visas they are able to sponsor
+To make this simpler, we are proposing to ask providers to indicate which visas they are able to sponsor.
 
 ## Initial design
 
@@ -18,7 +18,7 @@ Our initial design added a question for each course: “Can you sponsor a visa f
 
 However research with providers showed that the answer would be same for all courses.
 
-The only difference was where providers offered both salaried and fee-paying courses, as different types of visas would be needed – a Skilled worker or a Student visa
+The only difference was where providers offered both salaried and fee-paying courses, as different types of visas would be needed – a Skilled worker or a Student visa.
 
 {{ appScreenshots({
   hideContents: true,
