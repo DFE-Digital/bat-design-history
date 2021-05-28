@@ -49,3 +49,7 @@ Hint text was added to make it clearer which type of courses each question appli
       img: { src: "visa-sponsorship.png" }
     }]
 }) }}
+
+## Further issues to explore
+
+The research also revealed a wider issue around organisations who both provide courses directly, and accredit courses provided by other organisations. In these instances, 2 participants were unclear which courses the ”About your organisation” section applied to.
