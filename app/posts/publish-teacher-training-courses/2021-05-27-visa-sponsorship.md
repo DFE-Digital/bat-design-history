@@ -31,9 +31,11 @@ The only difference was where providers offered both salaried and fee-paying cou
 
 ## Second iteration
 
-Instead, we created a new page within the  “About your organisation” section, which asks two Yes or No questions about the two different types of visa.
+We created a new page within the  “About your organisation” section, which asks two ‘Yes or No’ questions about the two different types of visa.
 
-This did cause some confusion to providers who only offered one type of course, and for which the other question was then irrelevant. However as we are currently unable to know for sure which providers will only ever offer one type of course, this minimal confusion is acceptable.
+Asking these questions once, rather than once per course, saves providers time, particularly in the context of rollover where they may have hundreds of courses to update.
+
+The 2 questions did cause some confusion to providers who only offered 1 type of course, and for which the other question was then irrelevant. However as we are currently unable to know for sure which providers will only ever offer one type of course, this minimal confusion is acceptable.
 
 Hint text was added to make it clearer which type of courses each question applies to.
 
