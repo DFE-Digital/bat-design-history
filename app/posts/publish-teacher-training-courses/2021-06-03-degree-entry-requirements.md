@@ -51,7 +51,7 @@ The ‘(or equivalent)’ text refers to non-UK degrees which use different clas
     }]
 }) }}
 
-For non-Primary training courses, providers are told that candidates will be given generic guidance that they degree subject should match the subject they want to teach.
+For non-Primary training courses, providers are told that candidates will be given generic guidance that their degree subject should match the subject they want to teach.
 
 However, providers are able to add more specific requirements by answering ‘Yes’ and entering some additional text. In research, providers typically use this for describing a particular percentage of a course which should match the subject, based on course modules.
 
