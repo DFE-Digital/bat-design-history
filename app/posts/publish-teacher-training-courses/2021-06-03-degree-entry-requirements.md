@@ -79,4 +79,6 @@ If they follow the ‘Change’ link, they are taken through each of the questio
 
 These changes were usability tested with 5 providers in May 2021. Most participants were able to answer the new questions with ease, although some indicated they would need to check their policy with colleagues.
 
-There was broad agreement that the guidance indicating that candidates would be ‘discouraged but not blocked’ from applying if they did not meet the minimum degree classification was a good balance, as they did consider exceptional cases.
+Participants gave examples of degree requirements varying between courses, for example subjects without SKE courses. This validated the decision to ask these questions separately for each course.
+
+There was broad agreement that the guidance indicating that candidates would be ‘discouraged but not blocked’ from applying if they did not meet the minimum degree classification was a good balance, as all providers described examples where they would be flexible in certain cases or for exceptional candidates.
