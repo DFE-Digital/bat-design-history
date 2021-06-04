@@ -46,7 +46,7 @@ For the pending GCSE question, providers are unable to say which subjects this a
 
 The equivalency test option does vary by GCSE subject though, as some providers indicated that they could offer these tests in some subjects but not others.
 
-We also added an option text field to allow providers to give further details on their equivalency tests, as research indicated that there were some nuances around this, and may be other information that candidates need to know.
+We also added an optional text field to allow providers to give further details on their equivalency tests, as research indicated that there were some nuances around this, and may be other information that candidates need to know.
 
 {{ appScreenshots({
   hideContents: true,
