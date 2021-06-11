@@ -2,8 +2,6 @@
 title: Courses with multiple subjects
 description: Adding support for a second and third subject on a course
 date: 2021-05-08
-related:
-  items:
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "figure/macro.njk" import appFigure with context %}
