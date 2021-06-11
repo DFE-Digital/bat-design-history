@@ -23,11 +23,10 @@ The only difference was where providers offered both salaried and fee-paying cou
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "Visa sponsorship question on a course page",
-      img: { src: "visa-sponsorship-course-page.png" }
-    }]
+    id: "visa-sponsorship-course-page",
+    text: "Visa sponsorship question on a course page"
+  }]
 }) }}
-
 
 ## Second iteration
 
@@ -42,12 +41,12 @@ Hint text was added to make it clearer which type of courses each question appli
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "Prompt to answer visa sponsorship question",
-      img: { src: "visa-sponsorship-prompt.png" }
-    }, {
-      text: "Visa sponsorship question",
-      img: { src: "visa-sponsorship.png" }
-    }]
+    id: "visa-sponsorship-prompt",
+    text: "Prompt to answer visa sponsorship question"
+  }, {
+    id: "visa-sponsorship",
+    text: "Visa sponsorship question"
+  }]
 }) }}
 
 ## Further issues to explore

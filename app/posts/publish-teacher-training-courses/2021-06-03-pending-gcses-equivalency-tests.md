@@ -13,8 +13,8 @@ UCAS uses this information to block candidates from applying for a course if the
 {{ appScreenshots({
   hideContents: true,
   items: [{
-    text: "Existing GCSE question",
-    img: { src: "existing-question.png" }
+    id: "existing-question",
+    text: "Existing GCSE question"
   }]
 }) }}
 
@@ -29,8 +29,8 @@ We initially did a very minimal change to the question, removing the UCAS refere
 {{ appScreenshots({
   hideContents: true,
   items: [{
-    text: "First iteration",
-    img: { src: "first-iteration.png" }
+    id: "first-iteration",
+    text: "First iteration"
   }]
 }) }}
 
@@ -51,7 +51,7 @@ We also added an optional text field to allow providers to give further details 
 {{ appScreenshots({
   hideContents: true,
   items: [{
-    text: "Second iteration",
-    img: { src: "second-iteration.png" }
+    id: "second-iteration",
+    text: "Second iteration"
   }]
 }) }}

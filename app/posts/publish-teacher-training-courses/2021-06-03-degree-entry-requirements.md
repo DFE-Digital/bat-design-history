@@ -21,9 +21,9 @@ When a provider views a course that has been ‘rolled over’, they see a promp
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "Prompt to add degree requirements",
-      img: { src: "prompt-for-degree-requirements.png" }
-    }]
+    id: "prompt-for-degree-requirements",
+    text: "Prompt to add degree requirements"
+  }]
 }) }}
 
 The first question asks whether or not there is a degree minimum classification.
@@ -33,11 +33,10 @@ The hint text explains that if a minimum classification is specified, candidates
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "Do you require a minimum degree classificaiton?",
-      img: { src: "do-you-require-minimum-degree.png" }
-    }]
+    id: "do-you-require-minimum-degree",
+    text: "Do you require a minimum degree classificaiton?"
+  }]
 }) }}
-
 
 If answering ‘yes’, a second question asks what the minimum degree classification is. Only 2:1, 2:2 or Third are given as options.
 
@@ -46,9 +45,9 @@ The ‘(or equivalent)’ text refers to non-UK degrees which use different clas
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "Do you require a minimum degree classificaiton?",
-      img: { src: "degree-minimum-classification.png" }
-    }]
+    id: "degree-minimum-classification",
+    text: "Do you require a minimum degree classificaiton?"
+  }]
 }) }}
 
 For non-Primary training courses, providers are told that candidates will be given generic guidance that their degree subject should match the subject they want to teach.
@@ -58,9 +57,9 @@ However, providers are able to add more specific requirements by answering ‘Ye
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "Do you have any additional degree subject requirements?",
-      img: { src: "degree-subject-requirements.png" }
-    }]
+    id: "degree-subject-requirements",
+    text: "Do you have any additional degree subject requirements?"
+  }]
 }) }}
 
 Upon returning to the course description tab, providers are shown a summary of their answers, and any additional text they entered.
@@ -70,9 +69,9 @@ If they follow the ‘Change’ link, they are taken through each of the questio
 {{ appScreenshots({
   hideContents: true,
   items: [{
-      text: "Degree requirements summarised",
-      img: { src: "degree-requirements-summarised.png" }
-    }]
+    id: "degree-requirements-summarised",
+    text: "Degree requirements summarised"
+  }]
 }) }}
 
 ## User research findings
