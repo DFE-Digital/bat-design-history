@@ -1,6 +1,6 @@
 ---
-title: Learning about what data our users need
-description: 
+title: Learning about our users’ data needs
+description: Exploring what data would be helpful to users and how they would use it
 date: 2021-06-18
 ---
 
@@ -22,7 +22,7 @@ Providers can see several reports in UCAS Weblink, including:
 - cancelled applications
 - applicant (candidate) data
 
-The reports include data for the current and previous years. The detailed data is shown in tables rather than as a summary, and it can be downloaded.
+The reports include data for the current and previous years. The detailed data is shown in tables and can be downloaded.
 
 UCAS also publishes [statistical releases](https://www.ucas.com/data-and-analysis/ucas-teacher-training-statistical-releases). These are publicly available but do not give data for individual providers.
 
@@ -64,22 +64,35 @@ We showed this spreadsheet to research participants rather than incorporating it
 We divided the needs we discovered into five categories:
 
 - total numbers of applications
-- application processing
-- capacity management
-- diversity
-- marketing
+- application processing, for example the proportion of candidates who are rejected after an interview 
+- capacity management, for example how long it takes to process an application
+- diversity, for example the ethnicity of successful and unsuccessful candidates
+- marketing, for example knowing where candidates go after turning down an offer
 
-Participants talked about using this data in various ways, including:
+The participants wanted to further cut the data in various ways, for example by:
+
+- course
+- partner organisation
+- stage within the application process
+
+They also wanted to compare the data to other periods, particularly the same time in the previous year.
+
+Participants described how they used data, including:
+
+- helping them plan staff availability
+- improving and speeding up processes
+- recognising and avoiding bias in recruitment
+- understanding recruitment trends
+- deciding whether marketing initiatives have worked
+
+They also talked about accessing and sharing this data in various ways, including:
 
 - looking at it on their screen
 - emailing it to a colleague
 - printing it, for example to take to a meeting
 - downloading it as a spreadsheet to do further analysis
 
-There is more information on these findings in:
-
-- [the research playback](https://docs.google.com/presentation/d/1SgcynK_0RYSv1S_M5iPz96jxuqDy_Qo7K6WR1emEDOk/edit#slide=id.gd73ed30205_0_123) 
-- [a spreadsheet summarising the needs we found](https://docs.google.com/spreadsheets/d/1PUCvgXHD81ArZg1TTkxV50gh2nCdBw9C1MIXT1qBxFM/edit#gid=0)
+We found that it would be hard to meet users’ needs with only a downloadable spreadsheet.
 
 ## The next round of research
 
