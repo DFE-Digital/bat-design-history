@@ -1,5 +1,5 @@
 ---
-title: Learning about our users’ data needs
+title: Finding out what data our users need
 description: Exploring what data would be helpful to users and how they would use it
 date: 2021-06-18
 ---
