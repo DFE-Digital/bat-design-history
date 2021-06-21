@@ -8,7 +8,7 @@ We previously decided to [only show which organisation the user selected if they
 
 But some users were slightly confused about which organisation they were managing, even if they only belong to just one organisation.
 
-So we’ve changed it so that the organisation name is part of the caption when the user belongs to one or multiple organisations.
+So we’ve changed it so that the organisation name is part of the caption regardless of whether the user belongs to one or multiple organisations.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
