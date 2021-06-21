@@ -4,7 +4,7 @@ description: Reinstating the list of partners next to each user permission even 
 date: 2021-06-21
 ---
 
-To give users less to read, we [stopped spelling out the partner organisations when the permissions apply to all or none of the relationships](/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/#making-the-descriptions-more-concise-when-all-or-none-of-the-permissions-are-applicable) to give users less to read.
+To give users less to read, [we stopped spelling out the partner organisations when the permissions apply to all or none of the relationships](/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/#making-the-descriptions-more-concise-when-all-or-none-of-the-permissions-are-applicable).
 
 But research showed that some users were unsure about who their partners were.
 
