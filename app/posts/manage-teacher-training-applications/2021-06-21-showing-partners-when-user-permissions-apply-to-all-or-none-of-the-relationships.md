@@ -4,11 +4,11 @@ description: Reinstating the list of partners next to each user permission even 
 date: 2021-06-21
 ---
 
-To give users less to read, [we stopped spelling out the partner organisations when the permissions apply to all or none of the relationships](/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/#making-the-descriptions-more-concise-when-all-or-none-of-the-permissions-are-applicable).
+To give users less to read, [we stopped spelling out the partners when the permissions apply to all or none of the relationships](/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/#making-the-descriptions-more-concise-when-all-or-none-of-the-permissions-are-applicable).
 
-But research showed that some users were unsure about who their partners were.
+But this was problematic because some users felt unsure who their partners were.
 
-So we’ve decided to spell out each partner even if the user permissions appliy to all or none of the relationships.
+So we’ve decided to revert back to spelling out each partner. This may also help users relate user permissions back to organisational permissions.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
