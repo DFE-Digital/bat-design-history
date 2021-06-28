@@ -55,7 +55,7 @@ If JavaScript is unavailable, the subjects are still contained within the scroll
 
 The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
 
-The scroll area shows 4 and half subjects to help users realise there are are other subjects in the list. This smaller height lets users move to a filter below.
+The scroll area shows 4 and half subjects to help users realise there are other subjects in the list. This smaller height lets users move to a filter below.
 
 If there are 15 subjects or fewer, the subject filter will be displayed as a simple list of checkboxes.
 
