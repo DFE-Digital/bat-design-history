@@ -6,6 +6,33 @@ date: 2021-06-30
 
 Users need to be able to assign their applications to users within their organisation.
 
+## User data analysis
+
+### Number of users in an organisation
+
+The number of users in an organisation varies between Higher Education Institutes (HEI), School Centred Initial Teacher Training (SCITT) and School Directs (SD).
+
+- Number of users in an HEI: average 6, maximum 37
+- Number of users in a SCITT: average 3, maximum 10
+- Number of users in an SD: average 3, maximum 18
+
+Research has shown that providers with a large number of users will typically assign applications to individuals to process. Those in smaller teams do not.
+
+### Percentage of users linked to one or more organisation
+
+- 76% of users are linked to 1 organisation
+- 16% of users are linked to 2 organisations
+- 8% of users are linked to 3 or more organisations
+
+For the 24% of users who have two or more organisations, we need to differentiate between the users, so the signed in user knows who is in each organisation.
+
+### Percentage of users with a unique name
+
+- 97% of users have a unique first and last name in Manage
+- 3% of users do not have a unique first and last name in Manage
+
+For the 3% of users where there are duplicate names and the users are in the same organisation, we need to differentiate between them.
+
 ## What we changed and why
 
 We introduced a way for users to assign an application. This allows providers to manage who within their team is responsible for an application.
@@ -16,7 +43,7 @@ In the new assignment form, we provide a list of users within all organisations 
 
 ### Application list
 
-If an application is assigned to one or more users, their names appear on the application card after the words ‘Assigned to:’
+If an application is assigned to one or more users, their names appear on the application card after the words ‘Assigned to’.
 
 There is no ‘assigned to’ line if the application is not assigned to anyone.
 
