@@ -4,15 +4,15 @@ description: Let providers reject an application because they cannot sponsor a c
 date: 2021-04-19
 ---
 
-A recent policy change means that [state-funded schools cannot sponsor Student visas](https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers#recruit-by-becoming-a-visa-sponsor).
+We have added ‘cannot sponsor visa’ as a reason for rejection.
 
-This has prompted us to add ‘cannot sponsor visa’ as a reason for rejection. It will make it easier for providers to give the right reason and improve our data about why providers reject applications.
+This will make it easier for providers to give the right reason and improve our data about why providers reject applications.
 
-## Other types of visa available to candidates
+## Types of visa available to candidates
 
-Although this work is in response to the change in rules for Student visas, other types of visas may be available to candidates. 
+Candidates can apply for a Student visa but it cannot be sponsored by a state-funded school.
 
-Depending on their circumstances and the course they’re applying for, candidates may be eligible for:
+Depending on their circumstances and the course they’re applying for, candidates may also be eligible for:
 
 - Skilled Worker visa
 - Youth Mobility Scheme visa
@@ -21,7 +21,7 @@ Depending on their circumstances and the course they’re applying for, candidat
 The Skilled Worker visa:
 
 - is available only for salaried courses (17% of all applications are to salaried courses)
-- can only be sponsored by the school where the candidate would be working
+- can be sponsored by the school where the candidate would be working, or by the local authority or multi-academy trust that the school operates under
 
 The Youth Mobility Scheme visa:
 
