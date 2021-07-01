@@ -10,10 +10,10 @@ Research shows that providers prefer to get help through online chat.
 
 We think that online chat will:
 
-- increase the percentage of issues solved with one interaction
-- increase user’s satisfaction score
 - decrease the time to resolve the issue
 - decrease the number of requests through email
+- increase the percentage of issues solved with one interaction
+- result in a better satisfaction score compared to email
 
 ## What we did
 
