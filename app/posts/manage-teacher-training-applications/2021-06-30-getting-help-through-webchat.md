@@ -1,63 +1,60 @@
 ---
-title: Getting help trough webchat
-description: Letting users contact support via webchat
+title: Getting help through online chat
+description: Giving users a way to get help through online chat
 date: 2021-06-30
 ---
 
-UCAS currently gives providers a way to get support via email and phone. And our service only allows support via email.
+UCAS providers users with email and phone support. We only give email support.
 
-We did some research that showed that providers would prefer to contact support via instant webchat.
+Research shows that providers prefer to get help through online chat.
 
-And we think that if we let users get support through webchat it’ll we increase the percentage of issues that can be solved instantly through one interaction.
+We think that online chat will:
 
-We’ll know the ability to get help via chat is succcessful if the:
-
-- time to resolve the issue is reduced via chat when compared to email
-- satisfaction rating is higher via chat when compared to email
-- number of issues via email are reduced
-- percentage of issues that require multiple interactions is reduced
-- resolution rate is higher
+- increase the percentage of issues solved with one interaction
+- increase user’s satisfaction score
+- decrease the time to resolve the issue
+- decrease the number of requests through email
 
 ## What we did
 
-We made several changes to the footer to include a link that lets users start chatting with a support agent.
+We’ve made several changes to ‘Get support’ area within the footer to inlcude an option to chat.
 
-### Adding chat as an option
+### Including a chat option
 
-We added an option to get help via online chat.
+When chat is available, there’s a link that says ‘Speak to an adviser now (opens in new window)’.
 
-When advisors are available to chat, there’s a link that says ‘Speak to an advisor now’.
+When chat is unavailable, there’s a sentence that says ‘Available Monday to Friday, 10am to midday (except public holidays)’.
 
-When no advisors are available, there’s no link and instead we say ‘available Monday to Friday, 10am to midday (except public holidays)’.
+The status changes automatically without a page refresh.
 
-This updates automatically with JavaScript. We’ve decided not to announce the dynamic change to screen readers because it’s:
+We decided not to notify users of this (visually or audibly) because it’s unlikely to be relevant to the user.
 
-- equitable - sighted users will have to have scrolled to the bottom when the status changes to be informed about that change
-- unnecessary - the chance of a user needing support, scrolling to the bottom as the chat feature goes online or offline is low
+### Removal of survey link
 
-### Remove survey out of footer
+Currently there’s a line that says ‘Alternatively, [give feedback through our survey]’.
 
-Currently there’s a line that says ‘Alternatively, [give feedback through our survey]’ that appears under ‘Get support’.
+We removed this because:
 
-But we’ve removed this because there’s already a link to the survey at the top of the page and it’s not related to getting support.
+- there’s already a link to the survey at the top of the page
+- it’s not related to getting support
 
-### Changed the email details
+### Changing the content around email
 
-Currently, we mention that ‘we respond within 5 working days, or one working day for more urgent queries’
+Currently, we say ‘we respond within 5 working days, or one working day for more urgent queries’
 
-We changed this to ‘up to 5 day response times, 1 day for urgent requests’.
+We’ve tweaked this to say ‘blah’.
 
-### Changed the link learn more about how the service works
+### Changing and moving the link to learn more about how the service works
 
-Currently, there’s a link that says ‘How to use Manage teacher training applications’ that appears under ‘Get support’.
+Currently, the link says ‘How to use Manage teacher training applications’.
 
-But as it’s not a channel of support, we moved it to the bottom left as a regular footer link.
+But as it’s not a type of support, we’ve moved it to the bottom left as a regular footer link.
 
 We also changed the link text to ‘How to use this service’ to be more concise.
 
-## Notes
+### Changing the ‘Get support’ heading to ‘Get help’
 
-cannot change email because the support tickets through zendesk cover multiple products not just manage.
+We changed the heading to ‘Get help’ to be more concise.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -65,11 +62,11 @@ cannot change email because the support tickets through zendesk cover multiple p
     text: "Offline",
     img: {
       src: "offline.png"
-    },
+    }
   }, {
     text: "Online",
     img: {
       src: "online.png"
-    },
+    }
   }]
 }) }}
