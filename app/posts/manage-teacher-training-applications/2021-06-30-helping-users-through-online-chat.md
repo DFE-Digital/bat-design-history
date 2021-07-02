@@ -1,14 +1,14 @@
 ---
-title: Getting help through online chat
+title: Helping users through online chat
 description: Giving users a way to get help through online chat
 date: 2021-06-30
 ---
 
-UCAS providers users with email and phone support. We only give email support.
+UCAS provides users with email and phone support. Our service only provides email.
 
-Research shows that providers prefer to get help through online chat.
+Out of email, phone and online chat, our research shows chat is most preferred.
 
-We think that online chat will:
+We think that giving users the option to chat will:
 
 - decrease the time to resolve the issue
 - decrease the number of requests through email
@@ -17,7 +17,7 @@ We think that online chat will:
 
 ## What we did
 
-We’ve made several changes to ‘Get support’ area within the footer to inlcude an option to chat.
+We made some changes to the ‘Get support’ area of the footer to accommodate chat.
 
 ### Including a chat option
 
@@ -25,9 +25,9 @@ When chat is available, there’s a link that says ‘Speak to an adviser now (o
 
 When chat is unavailable, there’s a sentence that says ‘Available Monday to Friday, 10am to midday (except public holidays)’.
 
-The status changes automatically without a page refresh.
+The status changes automatically without a page refresh. We decided not to notify users of this (visually or audibly) because it’s unlikely to be relevant to the user.
 
-We decided not to notify users of this (visually or audibly) because it’s unlikely to be relevant to the user.
+Chat relies on JavaScript to work. In the case where JavaScript is unavailable, there’s a sentence that says ‘Unavailable’.
 
 ### Removal of survey link
 
@@ -40,15 +40,15 @@ We removed this because:
 
 ### Changing the content around email
 
-Currently, we say ‘we respond within 5 working days, or one working day for more urgent queries’
+Currently there’s a sentence which says ‘we respond within 5 working days, or one working day for more urgent queries’
 
-We’ve tweaked this to say ‘blah’.
+We changed this to ‘You’ll get a response within 5 working days, or one working day for urgent requests.’ to focus more on the user.
 
 ### Changing and moving the link to learn more about how the service works
 
-Currently, the link says ‘How to use Manage teacher training applications’.
+Currently there’s a ‘How to use Manage teacher training applications’ link.
 
-But as it’s not a type of support, we’ve moved it to the bottom left as a regular footer link.
+But it’s not a type of support so we moved it to the bottom left as a regular footer link.
 
 We also changed the link text to ‘How to use this service’ to be more concise.
 
