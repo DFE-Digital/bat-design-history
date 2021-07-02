@@ -4,50 +4,66 @@ description: Let users assign an application to one or more users in their organ
 date: 2021-06-30
 ---
 
-Users need to be able to assign their applications to users within their organisation.
+Users need to be able to assign applications to themselves or other users within the organisations they belong to.
+
+We know that some organisations already do this outside of our service. We want to make it possible within the service, so that users do not need to refer elsewhere to find out what applications are assigned to them.
 
 ## User data analysis
 
 ### Number of users in an organisation
 
-The number of users in an organisation varies between Higher Education Institutes (HEI), School Centred Initial Teacher Training (SCITT) and School Directs (SD).
+The number of users in an organisation varies between higher education institutions (HEIs), school-centred initial teacher training providers (SCITTs) and school direct providers (SDs).
 
 - Number of users in an HEI: average 6, maximum 37
 - Number of users in a SCITT: average 3, maximum 10
 - Number of users in an SD: average 3, maximum 18
 
-Research has shown that providers with a large number of users will typically assign applications to individuals to process. Those in smaller teams do not.
+Research has shown that providers with a large number of users will typically assign applications to individuals to process. Providers with fewer users are less likely to do so.
 
-### Percentage of users linked to one or more organisation
+### Number of organisations which users belong to
 
-- 76% of users are linked to 1 organisation
-- 16% of users are linked to 2 organisations
-- 8% of users are linked to 3 or more organisations
+- 76% of users belong to 1 organisation
+- 16% of users belong to 2 organisations
+- 8% of users belong to 3 or more organisations
 
-For the 24% of users who have two or more organisations, we need to differentiate between the users, so the signed in user knows who is in each organisation.
+This means that 24% of users will be able to assign applications to users in 2 or more organisations. We need to make sure that these users are able to find the user they want to assign the application to.
 
 ### Percentage of users with a unique name
 
 - 97% of users have a unique first and last name in Manage
 - 3% of users do not have a unique first and last name in Manage
 
-For the 3% of users where there are duplicate names and the users are in the same organisation, we need to differentiate between them.
+We need to make it possible for the signed in user to distinguish between multiple users with the same name. 
 
-## What we changed and why
+## What we changed
 
-We introduced a way for users to assign an application. This allows providers to manage who within their team is responsible for an application.
+We introduced a page which allows users to assign an application. It can be reached from the application details page of a candidate’s application. 
 
-In the new assignment form, we provide a list of users within all organisations the user belongs to. They can assign one or more users to the application, including themselves.
+On this new assignment page we show a list of users within all organisations the signed in user belongs to. They can assign the application to one or more users, including themselves.
+
+All users can assign applications and have applications assigned to them, whatever permissions they have.
+
+The applications list and applications details pages show a list of which users an application is assigned to.
 
 ## How it works
 
+### Assigning an application to users
+
+On the new assignment page we display an alphabetical list of users within the signed in user’s organisations.
+
+The signed in user is displayed at the top of the list with “(you)” appended to their name. This will make it easier for users to assign applications to themselves.
+
+If the list of options contains duplicate names, we include the user’s email address in a hint. This will make it possible to choose between two users with the same name.
+
+After submitting the form, the user is returned to the section of the application details which they came from. For example if they were looking at the timeline then they will be returned to it.
+
+A success message is displayed on the application details page.
+
 ### Application list
 
-If an application is assigned to one or more users, their names appear on the application card after the words ‘Assigned to’.
+If an application is assigned to one or more users, their names appear on the application card. Nothing appears if the application is not assigned to anyone.
 
-There is no ‘assigned to’ line if the application is not assigned to anyone.
-
-It is not possible to assign someone to an application from this page. The user needs to click into application details first.
+It is not possible to assign an application to someone from this page. The user needs to click into application details first.
 
 ### Application details
 
@@ -57,25 +73,36 @@ If one or more users are assigned to the application then we show an alphabetica
 
 If no one is assigned to the application then we show a default message and a change link.
 
-### Assigning users to an application
-
-When changing who is assigned to an application, we display an alphabetical list of users within the signed in users organisation.
-
-The signed in user is displayed at the top of the list with “(you)” appended to their name for easy identification and self-assignment.
-
-If the list of options contains duplicate names, we include an email address hint to make it easier to choose the right name.
-
-After submitting the form, the user is returned to the section of the application details which they came from. For example if they were looking at the timeline then they will be returned to the timeline.
-
-A success message is displayed on the application details page.
-
 ## Other considerations
 
-We considered some changes which were not implemented.
+We considered some changes which were not implemented. We want to learn more through research about whether they're needed.
 
-- Separating the checkboxes by organisation. We decided not to do this because only 24% of users are linked to 2 or more organisations and we differentiate users by email address.
-- Assigning many applications to many users. This was not implemented in this iteration as we could not establish a need for it.
-- Assigning applications to users outside the organisation or to users without access to Manage. This was not implemented in this iteration as we wanted to learn more from research before implementing something more complex.
+### Showing the organisations which users belong to
+
+For the assignment page we considered either:
+
+- separating the checkboxes by organisation
+- giving the email address of all users
+
+We decided not to do this because we think that the signed in user will be looking for a specific person to assign the application to. 
+
+It's possible to do this in a single alphabetical list of names without email addresses (except where a name appears more than once).
+
+We intend to explore this in research, to find out whether participants need to be able to browse for users to assign applications to. In that case it may be useful for them to know which organisation each user belongs to.
+
+### Assigning many applications to many users
+
+We have not implemented ‘bulk’ assignment in this iteration as we have not established a need for it. 
+
+### Assigning applications to people outside the organisation
+
+This could include assigning to:
+
+- a user in the partner organisation for the application (for example the accredited body, if the signed in user belongs to the training provider)
+- a user in any other organisation which uses the service
+- someone who does not use the service
+
+ One or more of these could be part of a future iteration.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
