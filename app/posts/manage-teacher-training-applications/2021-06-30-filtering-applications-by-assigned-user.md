@@ -4,92 +4,73 @@ description: Let users filter the applications list by the assigned user
 date: 2021-06-30
 ---
 
-Users need to be able to filter their applications by the assigned user.
+This is part of our work to [allow users to assign applications to themselves or other users](https://bat-design-history.netlify.app/manage-teacher-training-applications/assigning-applications-to-users). 
 
-## What we changed and why
+Users need to be able to filter applications by the user they’ve been assigned to. They also need to be able to see which applications have not been assigned to anyone.
 
-We added a new filter to the filter panel called ‘assigned user’.
+## What we changed
 
-We reused the checkbox filter pattern introduced in the [filter by subject](https://bat-design-history.netlify.app/manage-teacher-training-applications/filter-by-subject/) piece of work, allowing the interface to adapt to large or small numbers of users in a provider.
+We added a new filter called ‘assigned user’ to the filter panel.
+
+We reused the new filter pattern introduced in the [filter by subject](https://bat-design-history.netlify.app/manage-teacher-training-applications/filter-by-subject/) work. This allows the interface to adapt if the list of users is long.
 
 ## How it works
 
-The assigned user filter shows an alphabetical list of the names of users in the same organisation as the signed-in user.
+The assigned user filter shows an alphabetical list of all users in organisations which the signed in user belongs to.
 
-The signed-in user’s name is always second in the list, below the unassigned option, so that it is easier for the user to find the applications they need to work on.
+The list starts with an ‘unassigned’ option so that users can easily find all unassigned applications.
 
-The filter includes an unassigned option so that users can find all unassigned applications.
+The signed in user’s name is always second in the list, to make it easier for them to find applications they need to work on.
 
-If the filter contains duplicate names, we include an email address hint to make it easier to choose the right name.
+If the filter contains duplicate names, we include an email address hint to make it easier to choose the right user.
 
-If there are more than 15 users in the organisation, a scrollable region is created and JavaScript is used to add a search box. Typing in the search box updates the list below it with names matching the search term. If there are no matches, the list is empty.
+### Long lists of users
+
+The filter changes if there are more than 15 entries in the list, including the unassigned option.
+
+A scrollable region is created and indicated by: 
+
+- a bottom border 
+- a scrollbar
+- cutting off midway through a checkbox
+
+The scrollable region shows 4 and a half names to help users realise there are other names in the list. Restricting the height of the filter makes it easier to find and use other filters underneath it.
+
+If JavaScript is available then it’s used to add a search box. Typing in this box updates the list with options matching the search term. If there are no matches, the list is empty.
+
+The unassigned option will appear in the list if appropriate letters are typed (for example, ‘un’).
 
 If JavaScript is unavailable, the names are still contained within the scrollable region but the search box is no longer shown.
 
-The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
+### After filters are applied
 
-The scroll area shows 4 and a half names to help users realise there are other names in the list. This smaller height lets users move to a filter below.
+After the user applies the filter, they will see all applications which include any of the selected options. 
 
-If there are 15 names or fewer, the assigned user filter will be displayed as a simple list of checkboxes.
+For example, if the user selected ‘Barbara Shade’ and ‘Unassigned‘ they will see all applications with are either assigned to Barbara or not assigned to anyone.
 
-When a name has been selected and the filters have been applied, the remove filter tags are displayed under ‘selected filters’ at the top of the filter panel. They’re also displayed at the top of the assigned user filter since they may be hidden outside the visible scrollable region.
+For each option the user selected, a ‘remove filter’ tag will be displayed under ‘selected filters’ at the top of the filter panel. 
 
-## Other considerations
-
-We considered some changes which were not implemented.
-
-- Reordering the list of names to show all checked names in alphabetical order at the top of the list of names, followed by an alphabetical list of unchecked names. This was not implemented as it is known to increase error rates and misinterpretations.
-- Providing a ‘selected’ count below the filter’s heading similar to that found in the GOV.UK finder frontend component called [option select](https://finder-frontend.herokuapp.com/component-guide/option-select). This was not implemented in this iteration as we could not establish a need for it.
+The tags are also displayed at the top of the assigned user filter since they may be hidden outside the visible scrollable region.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "No filters",
-    img: {
-      src: "filter-by-assigned-user-no-filters.png"
-    }
-  }, {
-    text: "Filtered assigned applications - one user",
-    img: {
-      src: "filter-by-assigned-user-one-user.png"
-    }
-  }, {
-    text: "Filtered assigned applications - multiple users",
-    img: {
-      src: "filter-by-assigned-user-multiple-users.png"
-    }
-  }, {
-    text: "Filter unassigned applications",
-    img: {
-      src: "filter-by-assigned-user-unassigned-applications.png"
-    }
-  }, {
-    text: "Filter assigned and unassigned applications",
+    text: "Standard filter after the user has applied filters",
     img: {
       src: "filter-by-assigned-user-assigned-and-unassigned-applications.png"
     }
   }, {
-    text: "Duplicate names",
+    text: "Email addresses shown for duplicate names",
     img: {
       src: "filter-by-assigned-user-duplicate-names.png"
     }
   }, {
-    text: "Inline filter",
-    img: {
-      src: "filter-by-assigned-user-inline-filter.png"
-    }
-  }, {
-    text: "Inline filter - selected users",
+    text: "Filter for long lists after filters have been applied",
     img: {
       src: "filter-by-assigned-user-inline-filter-selected-users.png"
     }
   }, {
-    text: "Inline filter - duplicate names",
-    img: {
-      src: "filter-by-assigned-user-inline-filter-duplicate-names.png"
-    }
-  }, {
-    text: "Filter by assigned user with JavaScript disabled",
+    text: "Filter for long with JavaScript unavailable",
     img: {
       src: "filter-by-assigned-user-inline-filter-no-javascript.png"
     }
