@@ -6,49 +6,47 @@ date: 2021-06-30
 
 UCAS provides users with email and phone support. Our service only provides email.
 
-Out of email, phone and online chat, our research shows chat is most preferred.
+Out of email, phone and online chat, our research shows chat is preferred.
 
 We think that giving users the option to chat will:
 
-- decrease the time to resolve the issue
-- decrease the number of requests through email
+- decrease the time to resolve any issue
+- decrease the number of issues made through email
 - increase the percentage of issues solved with one interaction
 - result in a better satisfaction score compared to email
 
 ## What we did
 
-We made some changes to the ‘Get support’ area of the footer to accommodate chat.
+We made some changes to the footer to accommodate chat.
 
 ### Including a chat option
 
 When chat is available, there’s a link that says ‘Speak to an adviser now (opens in new window)’.
 
-When chat is unavailable, there’s a sentence that says ‘Available Monday to Friday, 10am to midday (except public holidays)’.
+When chat is unavailable, it says ‘Available Monday to Friday, 10am to midday (except public holidays)’.
 
-The status changes automatically without a page refresh. We decided not to notify users of this (visually or audibly) because it’s unlikely to be relevant to the user.
+The status changes automatically without a page refresh. We decided not to notify users of this – visually or audibly – because it’s unlikely to be relevant to the user.
 
-Chat relies on JavaScript to work. In the case where JavaScript is unavailable, there’s a sentence that says ‘Unavailable’.
+Chat relies on JavaScript to work. When JavaScript is unavailable, it says ‘You cannot use online chat because there’s a problem. Send an email if you keep seeing this message.’.
 
 ### Removal of survey link
 
-Currently there’s a line that says ‘Alternatively, [give feedback through our survey]’.
+We removed the option to give feedback through our survey because:
 
-We removed this because:
-
-- there’s already a link to the survey at the top of the page
+- there’s already a link to do so at the top of the page
 - it’s not related to getting support
 
 ### Changing the content around email
 
-Currently there’s a sentence which says ‘we respond within 5 working days, or one working day for more urgent queries’
+Currently it says ‘we respond within 5 working days, or one working day for more urgent queries’
 
 We changed this to ‘You’ll get a response within 5 working days, or one working day for urgent requests.’ to focus more on the user.
 
-### Changing and moving the link to learn more about how the service works
+### Changing and moving the link to learn about the service
 
 Currently there’s a ‘How to use Manage teacher training applications’ link.
 
-But it’s not a type of support so we moved it to the bottom left as a regular footer link.
+But as it’s not a type of support, we moved it to the bottom left of the footer.
 
 We also changed the link text to ‘How to use this service’ to be more concise.
 
@@ -67,6 +65,11 @@ We changed the heading to ‘Get help’ to be more concise.
     text: "Online",
     img: {
       src: "online.png"
+    }
+  }, {
+    text: "JavaScript unavailable",
+    img: {
+      src: "unavailable.png"
     }
   }]
 }) }}
