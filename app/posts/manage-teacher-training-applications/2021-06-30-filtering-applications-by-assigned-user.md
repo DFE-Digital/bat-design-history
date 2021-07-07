@@ -4,7 +4,7 @@ description: Let users filter the applications list by the assigned user
 date: 2021-06-30
 ---
 
-This is part of our work to [allow users to assign applications to themselves or other users](https://bat-design-history.netlify.app/manage-teacher-training-applications/assigning-applications-to-users). 
+This is part of our work to [allow users to assign applications to themselves or other users](/manage-teacher-training-applications/assigning-applications-to-users).
 
 Users need to be able to filter applications by the user they’ve been assigned to. They also need to be able to see which applications have not been assigned to anyone.
 
@@ -12,7 +12,7 @@ Users need to be able to filter applications by the user they’ve been assigned
 
 We added a new filter called ‘assigned user’ to the filter panel.
 
-We reused the new filter pattern introduced in the [filter by subject](https://bat-design-history.netlify.app/manage-teacher-training-applications/filter-by-subject/) work. This allows the interface to adapt if the list of users is long.
+We reused the new filter pattern introduced in the [filter by subject](/manage-teacher-training-applications/filter-by-subject/) work. This allows the interface to adapt if the list of users is long.
 
 ## How it works
 
@@ -28,9 +28,9 @@ If the filter contains duplicate names, we include an email address hint to make
 
 The filter changes if there are more than 15 entries in the list, including the unassigned option.
 
-A scrollable region is created and indicated by: 
+A scrollable region is created and indicated by:
 
-- a bottom border 
+- a bottom border
 - a scrollbar
 - cutting off midway through a checkbox
 
@@ -44,11 +44,11 @@ If JavaScript is unavailable, the names are still contained within the scrollabl
 
 ### After filters are applied
 
-After the user applies the filter, they will see all applications which include any of the selected options. 
+After the user applies the filter, they will see all applications which include any of the selected options.
 
 For example, if the user selected ‘Barbara Shade’ and ‘Unassigned‘ they will see all applications with are either assigned to Barbara or not assigned to anyone.
 
-For each option the user selected, a ‘remove filter’ tag will be displayed under ‘selected filters’ at the top of the filter panel. 
+For each option the user selected, a ‘remove filter’ tag will be displayed under ‘selected filters’ at the top of the filter panel.
 
 The tags are also displayed at the top of the assigned user filter since they may be hidden outside the visible scrollable region.
 
