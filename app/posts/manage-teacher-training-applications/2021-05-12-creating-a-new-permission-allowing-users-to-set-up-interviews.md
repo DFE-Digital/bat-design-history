@@ -62,11 +62,11 @@ Now that setting up interviews has been split from making decisions, we’ve cha
 - ‘make decision’ - if the user only has ‘make decisions’ permission, whatever the status
 - no buttons - if none of the other options applies
 
-We’ve made the wording of the prompts more passive, since the user may not have permission to make a decision. The wording is:
+We’ve made the wording of the prompts more passive, since the user may not have permission to make a decision.
 
-- if a decision has not been made by today
-- if a decision has not been made by tomorrow
-- if a decision has not been made within X days
+- If the application will be automatically rejected tonight it will say, for example, “This application will be automatically rejected if a decision has not been made by the end of today (19 January 2021 at 11:59pm).”
+- If the application will be automatically rejected tomorrow night it will say, for example, “This application will be automatically rejected if a decision has not been made by the end of tomorrow (20 January 2021 at 11:59pm).”
+- If the application will be automatically rejected in 2 or more days from now, it will say, for example, “This application will be automatically rejected if a decision has not been made within 2 days (21 January 2021 at 11:59pm).”
 
 We’ve also made sure that the h2 heading for the prompt matches the buttons:
 
