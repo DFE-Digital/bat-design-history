@@ -32,14 +32,7 @@ Our intention was to answer the following questions:
 
 ## Who we tested with
 
-We tested with these providers:
-
-* Associated Merseyside Partnership (AMP) SCITT
-* Partnership London SCITT
-* University College Birmingham
-* Essex Primary SCITT
-* The Pimlico London SCITT
-* Suffolk and Norfolk SCITT
+We tested with 7 SCITTs and 1 HEI offering the Assessment only route
 
 ## Research findings
 
@@ -76,10 +69,10 @@ Regarding the “trainee status overview" section:
 
 Our data requirements page did not receive a lot of attention, but when prompted it clearly fit into the existing behaviour of checking data requirements approximately once a year.
 
-We found that:
+We found that some:
 
-* some users check data requirements around May - but most check in September, just before submitting ITT data
-* some DTTP users are not always clear which data is required and which data is optional 
+* users check data requirements around May - but most check in September, just before submitting ITT data
+* DTTP users are not always clear which data is required and which data is optional 
 
 
 > “DTTP tells you what data is required and whether it’s essential - I just double check once a year that that’s the same as last year, usually in September.”
@@ -113,7 +106,6 @@ Two users filled out “age range” first and then completely missed inputting 
 * age range
 * subject
 
-
 ### Allocations
 
 The concept of DfE subject allocations is correctly understood both on DTTP and on Register.
@@ -145,7 +137,6 @@ When changing a trainee’s address from international to national, many users d
   }
 }) }}
 
-
 ### Multiple degrees
 
 Even though users recognise our system enables them to input multiple degrees, some users might input only the one they consider most relevant. Some have confirmed this is how they went about it on DTTP. 
@@ -164,8 +155,8 @@ There is also a chance that other adjectivals could be hard to find if they do n
 
 Later in the user journey, the international degree institution drop-down list consists of country names which results in an inconsistency within our interface. We need to ensure consistency across BAT and within our interface. 
 
+Users commented that it is much simpler to enter degree data on Register than on DTTP.
 
-Users commented that it is much simpler to enter degree data on Register than on DTTP. 
 However, they did not realise that they could start typing the relevant institution to be given a list of suggestions. Instead, they scrolled through the entire list.  
 
 ### Confirmation 
@@ -240,6 +231,7 @@ In order to save time, some users would prefer to be “directed to the next sec
 ### User needs
 
 As a provider (of all other routes except AO) I need to add multiple records in a short period.
+
 I need to request multiple TRNs and recommend multiple trainees for QTS in an easy and efficient way. 
 
 I need to report on data from the service at a cohort level.
@@ -275,7 +267,8 @@ Most participants used the search bar to search by surname - however, one user d
 
 Users easily understood and completed the process of deferring and reinstating trainees.  
 
-The terminology seems clear (deferred = dormant, reinstate = return onto course). 
+The terminology seems clear (deferred = dormant, reinstate = return onto course).
+
 Reinstatement of a deferred trainee and extension of one's course both mean that the trainee becomes part of the current cohort. 
 
 > “We would update it within a couple of days because it affects bursaries and funding.”
@@ -311,7 +304,7 @@ According to our participants, trainees do not get automatically withdrawn havin
 
 As a result, withdrawal is not the right default process for someone whose assessment outcome was “failure”.
 
-> “Trainees get one opportunity to repeat. [Their status on DTTP] would stay as a ‘continuing student’ if they were repeating their assessment. If they choose not to repeat, they would be on as a fail. I’ve not had anybody fail Assessment Only.”
+> “Trainees get one opportunity to repeat. [Their status on DTTP] would stay as a ‘continuing student’ if they were repeating their assessment. If they choose not to repeat, they would be on as a fail. I’ve not had anybody fail Assessment only.”
 
 > “We’d wait until they passed before touching their DTTP record.” 
 
