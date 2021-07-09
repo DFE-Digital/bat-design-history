@@ -13,6 +13,7 @@ related:
   - text: User needs
     href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
 ---
+{% from "figure/macro.njk" import appFigure with context %}
 
 Research completed: 27 to 29 October 2020 
 
@@ -93,11 +94,12 @@ Several users did not understand that before landing on the task list they had a
   
 > “Initially I didn’t understand how I can have completed a section when I’ve only just landed on this page.”
 
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
+{{ appFigure({
+  image: {
+    file: "1. first section completed.png ",
+    alt: "Annotated screenshot showing a section with a status tag ‘completed’"
+  }
+}) }}
 
 Some users prefer to set up a new record starting with the name, because it would help them identify the draft afterwards. For this reason some of our users completed the personal details section first. 
 
@@ -129,17 +131,20 @@ No = I do not have permission to recruit, or may go over [the] allocation so may
 
 When changing a trainee’s address from international to national, many users did not initially select “In the UK”, which  allows us to collect  structured data. Instead they proceeded to input the UK address into the free text field, intended for “Outside the UK” addresses.
 
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
+{{ appFigure({
+  image: {
+    file: "2. international address.png",
+    alt: "A screenshot of a form asking for an international address using a textarea"
+  }
+}) }}
 
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
-****************Insert image*****************
+{{ appFigure({
+  image: {
+    file: "3. uk address.png",
+    alt: "A screenshot of a form asking for a UK address using a separate fields"
+  }
+}) }}
+
 
 ### Multiple degrees
 
@@ -289,6 +294,14 @@ Users easily completed the process of withdrawing a trainee. The most typical re
 Some struggled to differentiate between two of the terms:
 
 > “I don’t understand the difference between Academic failure and Did not pass assessment.”
+
+{{ appFigure({
+  image: {
+    file: "4. withdrawal reasons.png",
+    alt: "A series of radio choices for reasons a trainee might withdraw from a course."
+  }
+}) }}
+
 
 But withdrawing someone is not the right default process for someone whose assessment outcome was “failure”. (View next section on assessment outcomes) 
 
