@@ -64,11 +64,9 @@ Candidates were not able to apply again whilst having an application in draft, i
   }]
 }) }}
 
-## Research findings
-
-TODO
-
 
 ## Next steps
 
-Whilst the results of this research showed some promise, we decided not to implement these changes until we were able to understand the potential impact on providers.
+We plan to test this design with candidates.
+
+We also need to understand the potential impact on providers and any new requirements for the [Manage teacher training applications](/manage-teacher-training-applications/) service.
