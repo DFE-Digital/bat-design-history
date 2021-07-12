@@ -6,7 +6,7 @@ date: 2021-07-21
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
-Candidates applying for teacher training courses can currently select up to three different courses on their initial application. Once this is submitted, they have to wait until all the course choices they selected have been resolved, either leading to an offer or a rejection (although they can also withdraw).
+Candidates applying for teacher training courses can currently select up to 3 different courses on their initial application. Once this is submitted, they have to wait until all the course choices they selected have been resolved, either leading to an offer or a rejection (although they can also withdraw).
 
 If no choice led to a place, the candidate is then given an opportunity to [apply again](/apply-for-teacher-training/apply-again-changes/). From this point on they can only apply to one course at a time, and must wait for each application to be resolved before being able to submit another application.
 
