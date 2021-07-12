@@ -50,7 +50,7 @@ A back link was added to enable them to return to the post-submission dashboard.
   }]
 }) }}
 
-If the candidate returned to the post-submission dashboard before submitted their new application, the dashboard showed the ‘draft’ application at the top of the page, enabling them to continue it. This used a slightly different design, omitting the course choice header, as the courses might not have been chosen yet, or there might be two difference courses chosen.
+If the candidate returned to the post-submission dashboard before submitting their new application, the dashboard showed the ‘draft’ application at the top of the page, enabling them to continue it. This used a slightly different design, omitting the course choice header, as the courses might not have been chosen yet, or there might be two difference courses chosen.
 
 Candidates were not able to apply again whilst having an application in draft, in order to prevent the confusion of having two unsubmitted applications.
 
