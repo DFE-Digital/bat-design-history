@@ -98,3 +98,5 @@ For an overview of Manage teacher training applications, see our Service guidanc
 
 You can also contact us at [becomingateacher@digital.education.gov.uk](becomingateacher@digital.education.gov.uk)."
 }) }}
+
+<!-- markdownlint-enable MD025 -->
