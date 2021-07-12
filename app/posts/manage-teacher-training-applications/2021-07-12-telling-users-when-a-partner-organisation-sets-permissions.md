@@ -29,18 +29,18 @@ Dear ((name))
 
 Make offers and reject applications: 
 
-* ((partner_organisation))
-* ((your_organisation)) 
+- ((partner_organisation))
+- ((your_organisation)) 
 
 View criminal convictions and professional misconduct: 
 
-* ((partner_organisation))
-* ((your_organisation)) 
+- ((partner_organisation))
+- ((your_organisation)) 
 
 View sex, disability and ethnicity information: 
 
-* ((partner_organisation))
-* ((your_organisation)) 
+- ((partner_organisation))
+- ((your_organisation)) 
 
 # Change organisation permissions
 
@@ -73,18 +73,18 @@ They have set up the following organisation permissions.
 
 Make offers and reject applications: 
 
-* ((partner_organisation))
-* ((your_organisation)) 
+- ((partner_organisation))
+- ((your_organisation)) 
 
 View criminal convictions and professional misconduct: 
 
-* ((partner_organisation))
-* ((your_organisation)) 
+- ((partner_organisation))
+- ((your_organisation)) 
 
 View sex, disability and ethnicity information: 
 
-* ((partner_organisation))
-* ((your_organisation)) 
+- ((partner_organisation))
+- ((your_organisation)) 
 
 # Change organisation permissions
 
