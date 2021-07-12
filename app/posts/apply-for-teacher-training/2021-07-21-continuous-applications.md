@@ -36,7 +36,7 @@ On the post-submission dashboard, if a candidate had less than 3 active applicat
   }]
 }) }}
 
-When a user pressed this button, they were taken to a copy of their most recent application, with the course choices removed. Some text in the task list advised them of how many courses they were now able to pick.
+When a user pressed this button, they were taken to a copy of their most recent application, with their previous course choices removed. Some text in the task list advised them of how many courses they were now able to pick.
 
 A back link was added to enable them to return to the post-submission dashboard.
 
