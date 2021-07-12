@@ -21,8 +21,6 @@ The email will list all the organisation permissions. If a permission has been g
   subject: "	((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them",
   content: "Dear ((name))
 
-Dear ((name))
-
 # ((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them
 
 ((partner_organisation)) has set the following organisation permissions.
