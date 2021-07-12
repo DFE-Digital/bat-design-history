@@ -15,15 +15,17 @@ We'll send an email to the organisation which did not set permissions. We'll onl
 
 The email will list all the organisation permissions. If a permission has been given to both organisations, they'll be listed alphabetically.
 
+<!-- markdownlint-disable MD025 -->
+
 {{ appEmail({
-  subject: "	((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them",
+  subject: "	((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them",
   content: "Dear ((name))
 
-# ((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them
+Dear ((name))
 
-You can now manage applications made through <span>GOV.UK</span> for the courses you work on with ((partner_organisation)). 
+# ((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them
 
-They have set up the following organisation permissions.
+((partner_organisation)) has set the following organisation permissions.
 
 Make offers and reject applications: 
 
@@ -53,17 +55,21 @@ For an overview of Manage teacher training applications, see our Service guidanc
 You can also contact us at [becomingateacher@digital.education.gov.uk](becomingateacher@digital.education.gov.uk)."
 }) }}
 
-If the permissions have been set up for the first time then the email will also tell users that candidates can now manage applications to courses.
+<!-- markdownlint-enable MD025 -->
+
+If organisation permissions had not previously been set up, the email will tell users that they can now manage the courses they work on with their partner.
+
+<!-- markdownlint-disable MD025 -->
 
 {{ appEmail({
-  subject: "	((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them",
+  subject: "	((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them",
   content: "Dear ((name))
 
-Dear ((name))
+# ((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them
 
-# ((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them
+You can now manage applications made through <span>GOV.UK</span> for the courses you work on with ((partner_organisation)). 
 
-((partner_organisation)) has set the following organisation permissions.
+They have set up the following organisation permissions.
 
 Make offers and reject applications: 
 
