@@ -223,7 +223,7 @@ If we exclude free text responses where it’s unambiguous which answer should h
   ]
 }) }}
 
-We can see that most of the remaining free text answers are where the user did not provide enough detail - or perhaps entered a qualification that was not a degree. Where the applicant’s qualification is not a degree it’s unlikely the record would end up in Register - as they would likely not be eligible for the course (for courses that require a degree).For the remaining ones we may need providers to amend the record to give the detail required.
+We can see that most of the remaining free text answers are where the user did not provide enough detail - or perhaps entered a qualification that was not a degree. Where the applicant’s qualification is not a degree it’s unlikely the record would end up in Register - as they would likely not be eligible for the course (for courses that require a degree). For the remaining ones we may need providers to amend the record to give the detail required.
 
 {{ govukTable({
   caption: "Top free text entries for degree subject",
@@ -324,7 +324,7 @@ We can see that most of the remaining free text answers are where the user did n
 
 The free text inputs for subjects are largely a mix of subjects which are not listed in the fixed list (English, physical education), or degrees where the candidate has done a mix of subjects (Mathematics and physics).
 
-We’ll look at whether we’re able to add the common subjects that are not in the current degree subject list. We can do the same for the common dual subjects, but there are lots of dual subject combinations. -We need toto do analysis on these to work out what would be the best thing for Register to store.
+We’ll look at whether we’re able to add the common subjects that are not in the current degree subject list. We can do the same for the common dual subjects, but there are lots of dual subject combinations. We need to do do analysis on these to work out what would be the best thing for Register to store.
 
 ## Next steps
 
