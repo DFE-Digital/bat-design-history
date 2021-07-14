@@ -87,6 +87,6 @@ In an earlier iteration of this pattern, we tried hiding the checkbox until inva
   }
 }) }}
 
-This tested really poorly - the participant missed the banner and clicked continue. This returned them to the task list where the section still had the status `review` - but it was not clear what they needed to do next. hey opened the section to try to review it, and then clicked continue again. Keeping the checkbox and showing clear validation messaging if users attempted to confirm without reviewing the invalid answers has tested much better.
+This tested really poorly - the participant missed the banner and clicked continue. This returned them to the task list where the section still had the status ‘review’ - but it was not clear what they needed to do next. They opened the section to try to review it, and then clicked continue again. Keeping the checkbox and showing clear validation messaging if users attempted to confirm without reviewing the invalid answers has tested much better.
 
 
