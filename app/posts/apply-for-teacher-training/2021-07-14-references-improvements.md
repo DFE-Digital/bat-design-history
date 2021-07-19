@@ -111,6 +111,7 @@ Sometimes candidates would choose referees who were unable to give a reference t
 This was generating a lot of support queries from referees who were trying to submit references over email, in line with their organisational policies.
 
 Support colleagues were having to:
+
 * tell referees that email references are not accepted
 * contact individual candidates to ask them to choose different referees
 
