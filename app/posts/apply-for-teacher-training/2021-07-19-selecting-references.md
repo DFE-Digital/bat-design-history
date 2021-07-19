@@ -1,7 +1,7 @@
 ---
 title: Selecting references
 description: Letting candidates choose which references to submit with their application
-date: 2021-07-14
+date: 2021-07-19
 ---
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
