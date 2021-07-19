@@ -124,7 +124,7 @@ We’ve now changed the guidance around choosing referees to include more inform
 {{ appScreenshots({
   hideContents: true,
   items: [{
-    text: "'Choose your referees' page",
+    text: "‘Choose your referees’ page",
     img: {
       src: "choose-your-referees-page.png"
     }
