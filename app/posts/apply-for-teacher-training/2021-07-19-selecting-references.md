@@ -15,7 +15,7 @@ We decided to build a feature that allows candidates to select which 2 reference
   items: [{
     text: "Select 2 references link on task list",
     img: {
-      src: "Select-2-references-link.png"
+      src: "select-2-references-link.png"
     }
   }]
 }) }}
@@ -25,7 +25,7 @@ We decided to build a feature that allows candidates to select which 2 reference
   items: [{
     text: "Selecting references section",
     img: {
-      src: "Select-2-references-section.png"
+      src: "select-2-references-section.png"
     }
   }]
 }) }}
@@ -49,7 +49,7 @@ To do this, we moved some of the guidance from the ‘Choose your referees’ pa
   items: [{
     text: "References guidance in task list",
     img: {
-      src: "References-guidance-task-list.png"
+      src: "references-guidance-task-list.png"
     }
   }]
 }) }}
@@ -89,7 +89,7 @@ So we decided to change the wording in the email they get when they receive addi
   items: [{
     text: "Email explaining that you can change your selection",
     img: {
-      src: "You-can-change-selection-email.png"
+      src: "you-can-change-selection-email.png"
     }
   }]
 }) }}
@@ -99,7 +99,7 @@ So we decided to change the wording in the email they get when they receive addi
   items: [{
     text: "Guidance in task list explaining that you can change your selection",
     img: {
-      src: "You-can-change-selection-task-list-2.png"
+      src: "you-can-change-selection-task-list-2.png"
     }
   }]
 }) }}
