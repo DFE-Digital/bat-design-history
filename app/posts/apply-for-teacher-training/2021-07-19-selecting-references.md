@@ -6,9 +6,13 @@ date: 2021-07-19
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
-Previously candidates were unable to choose which 2 references would be sent with their application to providers. They would request several references and whichever 2 they received first would be sent with their application.
+Previously, candidates were unable to choose which 2 references would be sent with their application to providers. They would request several references and whichever 2 they received first would be sent with their application.
 
-We decided to build a feature that allows candidates to select which 2 references they want to send to providers.
+This would result in support requests from candidates asking to swap their references when they received more.
+
+This was also causing confusion for referees. If a candidate had already received 2 references and then a 3rd referee tried to submit a reference, the system would not allow them to.
+
+In response, we decided to build a feature that allows candidates to select which 2 references they want to send to providers.
 
 {{ appScreenshots({
   hideContents: true,
@@ -56,7 +60,7 @@ To do this, we moved some of the guidance from the ‘Choose your referees’ pa
 
 ### Prompting candidates to select 2 references
 
-We decided to prompt candidates to select 2 references as soon as they receive 2 or more.
+We realised that the messaging in the emails and in the task list did not tell candidates what to do once they'd received 2 or more references. So we decided to prompt them to select 2 as soon as they receive 2 or more.
 
 {{ appScreenshots({
   hideContents: true,
