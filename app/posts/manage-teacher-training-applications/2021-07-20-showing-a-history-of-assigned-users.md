@@ -51,7 +51,7 @@ We do not usually indicate in the timeline and activity log that something was d
       src: "application-assignment-timeline.png"
     }
   }, {
-    text: "Provider’s activity log",
+    text: "Activity log",
     img: {
       src: "application-assignment-activity-log.png"
     }
