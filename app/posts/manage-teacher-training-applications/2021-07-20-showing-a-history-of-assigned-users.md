@@ -32,7 +32,7 @@ Below each list of assigned users, we provide a link to the application details.
 
 We considered some changes which were not implemented.
 
-We decided not to show who has been added or removed from the list of assigned users. We do not do this for other events such as interviews and it would make the timeline and activity log more complicated. We may consider this again in future.
+We decided not to show who has been added or removed from the list of assigned users. We do not do this for other events such as interviews and it would make the timeline and activity log more complicated.
 
 In other places where we list assigned users, if the signed in user is assigned then we:
 
