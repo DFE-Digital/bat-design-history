@@ -34,6 +34,8 @@ We considered some changes which were not implemented.
 
 We decided not to show who has been added or removed from the list of assigned users. We do not do this for other events such as interviews and it would make the timeline and activity log more complicated.
 
+We may consider this again in future, as part of a review of how we indicate changes in the timeline and activity log.
+
 In other places where we list assigned users, if the signed in user is assigned then we:
 
 - put their name first
