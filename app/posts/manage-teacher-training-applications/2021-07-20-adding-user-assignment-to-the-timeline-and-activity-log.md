@@ -1,6 +1,6 @@
 ---
-title: Showing a history of assigned users
-description: Let users see who was assigned to an application in the activity log and timeline
+title: Adding user assignment to the timeline and activity log
+description: Adding an event to the timeline and activity log when users are assigned to or unassigned from an application
 date: 2021-07-20
 ---
 
