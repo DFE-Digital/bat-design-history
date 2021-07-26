@@ -1,6 +1,6 @@
 ---
 title: Showing degree institution regardless of candidate nationality or application status
-description: Showing users the institution of the candidate’s degree regardless of their nationality or status of their application
+description: Showing the institution of the candidate’s degree regardless of their nationality or status of their application
 date: 2021-07-26
 ---
 
