@@ -40,6 +40,9 @@ module.exports = function (eleventyConfig) {
     'node_modules/govuk-frontend/govuk/assets': 'assets'
   })
 
+  // TODO: Remove once every section is using Markdown figures with absolute image paths
+  eleventyConfig.addPassthroughCopy({ './app/images/support-for-apply': 'support-for-apply' })
+
   // Enable data deep merge
   eleventyConfig.setDataDeepMerge(true)
 

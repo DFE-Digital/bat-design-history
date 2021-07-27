@@ -2,6 +2,7 @@
 
 {% from "article/macro.njk" import appArticle %}
 {% from "related/macro.njk" import appRelated %}
+{% from "new-screenshots/macro.njk" import newScreenshots %}
 {% from "prose/macro.njk" import appProse %}
 
 {% block content %}
@@ -20,6 +21,20 @@
       {{ appProse({
         prose: content
       }) }}
+
+      {% if screenshots %}
+        {% for collection in screenshots %}
+          {{ newScreenshots({
+            title: collection.title,
+            items: collection.items
+          }) }}
+        {% else %}
+          {{ newScreenshots({
+            title: screenshots.title,
+            items: screenshots.items
+          }) if screenshots }}
+        {% endfor %}
+      {% endif %}
     </div>
 
     {% if related %}
