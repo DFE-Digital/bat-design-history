@@ -13,7 +13,7 @@ Now both organisations in a partnership can set organisation permissions. We the
 
 We'll send an email to the organisation which did not set permissions. We'll only send it to users who have permission to manage organisation permissions.
 
-The email will list all the organisation permissions. If a permission has been given to both organisations, they'll be listed alphabetically.
+The email will list all the organisation permissions. If a permission has been given to both organisations, the organisation which did not set permissions will appear first.
 
 <!-- markdownlint-disable MD025 -->
 
@@ -27,18 +27,18 @@ The email will list all the organisation permissions. If a permission has been g
 
 Make offers and reject applications:
 
-- ((partner_organisation))
 - ((your_organisation))
+- ((partner_organisation))
 
 View criminal convictions and professional misconduct:
 
-- ((partner_organisation))
 - ((your_organisation))
+- ((partner_organisation))
 
 View sex, disability and ethnicity information:
 
-- ((partner_organisation))
 - ((your_organisation))
+- ((partner_organisation))
 
 # Change organisation permissions
 
@@ -71,18 +71,18 @@ They have set up the following organisation permissions.
 
 Make offers and reject applications:
 
-- ((partner_organisation))
 - ((your_organisation))
+- ((partner_organisation))
 
 View criminal convictions and professional misconduct:
 
-- ((partner_organisation))
 - ((your_organisation))
+- ((partner_organisation))
 
 View sex, disability and ethnicity information:
 
-- ((partner_organisation))
 - ((your_organisation))
+- ((partner_organisation))
 
 # Change organisation permissions
 
