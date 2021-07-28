@@ -1,5 +1,5 @@
 ---
-title: Telling users when a partner organisation sets permissions 
+title: Telling users when a partner organisation sets permissions
 description: Sending an email to users when their partner organisation sets up permissions for the first time or changes them
 date: 2021-07-12
 ---
@@ -11,7 +11,7 @@ Now both organisations in a partnership can set organisation permissions. We the
 
 ## What we changed and why
 
-We'll send an email to the organisation which did not set permissions. We'll only send it to users who have permission to make offers and reject applications. 
+We'll send an email to the organisation which did not set permissions. We'll only send it to users who have permission to manage organisation permissions.
 
 The email will list all the organisation permissions. If a permission has been given to both organisations, they'll be listed alphabetically.
 
@@ -25,20 +25,20 @@ The email will list all the organisation permissions. If a permission has been g
 
 ((partner_organisation)) has set the following organisation permissions.
 
-Make offers and reject applications: 
+Make offers and reject applications:
 
 - ((partner_organisation))
-- ((your_organisation)) 
+- ((your_organisation))
 
-View criminal convictions and professional misconduct: 
-
-- ((partner_organisation))
-- ((your_organisation)) 
-
-View sex, disability and ethnicity information: 
+View criminal convictions and professional misconduct:
 
 - ((partner_organisation))
-- ((your_organisation)) 
+- ((your_organisation))
+
+View sex, disability and ethnicity information:
+
+- ((partner_organisation))
+- ((your_organisation))
 
 # Change organisation permissions
 
@@ -65,24 +65,24 @@ If organisation permissions had not previously been set up, the email will tell 
 
 # ((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them
 
-You can now manage applications made through <span>GOV.UK</span> for the courses you work on with ((partner_organisation)). 
+You can now manage applications made through <span>GOV.UK</span> for the courses you work on with ((partner_organisation)).
 
 They have set up the following organisation permissions.
 
-Make offers and reject applications: 
+Make offers and reject applications:
 
 - ((partner_organisation))
-- ((your_organisation)) 
+- ((your_organisation))
 
-View criminal convictions and professional misconduct: 
-
-- ((partner_organisation))
-- ((your_organisation)) 
-
-View sex, disability and ethnicity information: 
+View criminal convictions and professional misconduct:
 
 - ((partner_organisation))
-- ((your_organisation)) 
+- ((your_organisation))
+
+View sex, disability and ethnicity information:
+
+- ((partner_organisation))
+- ((your_organisation))
 
 # Change organisation permissions
 
