@@ -7,7 +7,6 @@ tags:
 ---
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "image/macro.njk" import appImage with context %}
 
 {{description}}
 

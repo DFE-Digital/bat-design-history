@@ -36,19 +36,19 @@ What’s the difference between:
 
 ## Examples of the problem
 
-![Screenshot of private beta search results. Two very similar search results in private beta. One is full time and one is part time.](/images/publish-teacher-training-courses/ucas-examples/private-beta-problem-01.png)
+![Screenshot of private beta search results. Two very similar search results in private beta. One is full time and one is part time.](/publish-teacher-training-courses/ucas-examples/private-beta-problem-01.png)
 
 Two very similar search results in private beta. One is full time and one is part time.
 
-![Screenshot of private beta search results. Two identical search results in private beta. One is PGCE with QTS, the other is QTS only.](/images/publish-teacher-training-courses/ucas-examples/private-beta-problem-02.png)
+![Screenshot of private beta search results. Two identical search results in private beta. One is PGCE with QTS, the other is QTS only.](/publish-teacher-training-courses/ucas-examples/private-beta-problem-02.png)
 
 Two identical search results in private beta. One is PGCE with QTS, the other is QTS only.
 
-![Screenshot of UCAS search results. A similar problem with UCAS – 6 courses, one per school.](/images/publish-teacher-training-courses/ucas-examples/ucas-problem-01.png)
+![Screenshot of UCAS search results. A similar problem with UCAS – 6 courses, one per school.](/publish-teacher-training-courses/ucas-examples/ucas-problem-01.png)
 
 A similar problem with UCAS – 6 courses, one per school.
 
-![Screenshot of UCAS search results. Another UCAS example – four courses, different accrediting providers, two salaried and two unsalaried.](/images/publish-teacher-training-courses/ucas-examples/ucas-problem-02.png)
+![Screenshot of UCAS search results. Another UCAS example – four courses, different accrediting providers, two salaried and two unsalaried.](/publish-teacher-training-courses/ucas-examples/ucas-problem-02.png)
 
 Another UCAS example – four courses, different accrediting providers, two salaried and two unsalaried.
 

@@ -68,18 +68,17 @@ We’re [tracking grouping on the story map](https://trello.com/c/jQftifYl/44-gr
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  path: "/images/publish-teacher-training-courses/unfolded-courses",
   items: [{
     text: "Organisation",
-    img: { src: "organisation.png" }
+    img: { src: "/publish-teacher-training-courses/unfolded-courses/organisation.png" }
   }, {
     text: "Course: PGCE with QTS full time with salary",
-    img: { src: "pgce-with-qts-full-time-with-salary.png" }
+    img: { src: "/publish-teacher-training-courses/unfolded-courses/pgce-with-qts-full-time-with-salary.png" }
   }, {
     text: "Course: PGCE with QTS full time",
-    img: { src: "pgce-with-qts-full-time.png" }
+    img: { src: "/publish-teacher-training-courses/unfolded-courses/pgce-with-qts-full-time.png" }
   }, {
     text: "About your organisation",
-    img: { src: "about-your-organisation.png" }
+    img: { src: "/publish-teacher-training-courses/unfolded-courses/about-your-organisation.png" }
   }]
 }) }}

@@ -21,8 +21,7 @@ Update the design so that:
   }, {
     text: "Old design",
     img: {
-      path: "/images/publish-teacher-training-courses/new-course-iteration-14-jan",
-      src: "who-is-the-accredited-body.png"
+      src: "/publish-teacher-training-courses/new-course-iteration-14-jan/who-is-the-accredited-body.png"
     }
   }]
 }) }}

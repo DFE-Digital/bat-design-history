@@ -1,5 +1,4 @@
 {%- from "../embed/macro.njk" import appEmbed with context -%}
-{%- from "../image/macro.njk" import appImage with context -%}
 <figure class="app-figure">
 {% if params.title %}
   <figcaption class="govuk-heading-s">
@@ -15,11 +14,9 @@
   }) | indent(2) }}
 {% endif %}
 {% if params.image %}
-  {{ appImage({
-    path: params.image.path,
-    file: params.image.file,
-    alt: params.image.alt
-  }) | indent(2) }}
+  <a href="{{ params.image.file }}">
+    <img src="{{ params.image.file }}" alt="{{ params.image.alt }}">
+  </a>
 {% endif %}
 {% if params.caption %}
   <figcaption class="app-figure__caption app-prose">

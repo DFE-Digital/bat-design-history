@@ -22,8 +22,7 @@ The original design only catered for the dominant use case. For MVP we can ask f
   }, {
     text: "Original design",
     img: {
-      path: "/images/publish-teacher-training-courses/new-course-iteration-14-jan",
-      src: "pick-languages.png"
+      src: "/publish-teacher-training-courses/new-course-iteration-14-jan/pick-languages.png"
     }
   }]
 }) }}

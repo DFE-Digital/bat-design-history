@@ -2,7 +2,6 @@
 layout: page
 title: Mission patches
 description: Archive of patches created to celebrate milestones in the development of our different services.
-permalink: "/mission-patches.html"
 tags: reference
 eleventyComputed:
   eleventyNavigation:
@@ -22,7 +21,6 @@ eleventyComputed:
 The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a beaver because we are building a complex service and delivering it in the rapid-flowing waters of the ever-changing initial teacher training market.
 
 {{ appGallery({
-  path: "/images/mission-patches",
   items: [{
     text: "Apply for teacher training SCITT Pilot",
     caption: "This patch celebrated the tenacity of our team, who despite a power cut and several building evacuations, launched the service from a nearby pub. November 2019"
@@ -45,7 +43,6 @@ The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a be
 The mascot for Find (and Publish) is a canary. When we launched Publish we weren’t sure how much our recent integration with DfE Sign-in would work. Our first few providers were used as [canaries](https://en.wikipedia.org/wiki/Sentinel_species) to test if they could access service – we had many dead canaries until we got the process right and could roll out the service to everyone.
 
 {{ appGallery({
-  path: "/images/mission-patches",
   items: [{
     text: "Find teacher training beta",
     caption: "This patch celebrated the launch of the Find service moving into its beta phase. November 2018"
@@ -67,7 +64,6 @@ The mascot for Register is an octopus called Inky. We chose an octopus because t
 The team was formed during a period where they couldn’t be physically near, so just like an octopus, they reached with curiosity to connect with those around them.
 
 {{ appGallery({
-  path: "/images/mission-patches",
   items: [{
     text: "Register trainee teachers private beta",
     caption: "This patch celebrated the service entering private beta with a junior octopus to represent an emerging service. September 2020"
@@ -79,7 +75,6 @@ The team was formed during a period where they couldn’t be physically near, so
 ## Other projects
 
 {{ appGallery({
-  path: "/images/mission-patches",
   items: [{
     text: "Allocations discovery",
     caption: "This patch captured the team trying to find their way. The allocations discovery was a confusing time with complex problems to solve. A fox was chosen for their cleverness but also because a team member’s last name was Fox. January 2020"

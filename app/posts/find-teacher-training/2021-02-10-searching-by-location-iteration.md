@@ -166,8 +166,7 @@ The boxouts colour bar has changed from GIT green to GOV.UK blue.
 
 {{ appFigure({
   image: {
-    path: "/images/find-teacher-training/searching-by-location",
-    file: "standardised-guidance-school-placements.png"
+    file: "/find-teacher-training/searching-by-location/standardised-guidance-school-placements.png"
   },
   caption: "Previous design for standardised guidance."
 }) }}

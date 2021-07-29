@@ -20,15 +20,13 @@ Progression of the minimum requirements page design:
     {
       text: "Question 1: Candidates with pending GCSEs",
       img: {
-        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration-9-apr",
-        src: "candidates-with-pending-gcses.png"
+        src: "/publish-teacher-training-courses/new-course-wizard-iteration-9-apr/candidates-with-pending-gcses.png"
       }
     },
     {
       text: "Question 2: Tests for candidates without GCSE requirements",
       img: {
-        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration-9-apr",
-        src: "tests-for-candidates-without-gcse-requirements.png"
+        src: "/publish-teacher-training-courses/new-course-wizard-iteration-9-apr/tests-for-candidates-without-gcse-requirements.png"
       }
     },
     { text: "Two questions" },
@@ -38,15 +36,13 @@ Progression of the minimum requirements page design:
     {
       text: "Introduce options",
       img: {
-        path: "/images/publish-teacher-training-courses/new-course-iteration",
-        src: "minimum-gcse-requirements.png"
+        src: "/publish-teacher-training-courses/new-course-iteration/minimum-gcse-requirements.png"
       }
     },
     {
       text: "Original design",
       img: {
-        path: "/images/publish-teacher-training-courses/minimum-requirements",
-        src: "minimum-course-requirements.png"
+        src: "/publish-teacher-training-courses/minimum-requirements/minimum-course-requirements.png"
       }
     }
   ]

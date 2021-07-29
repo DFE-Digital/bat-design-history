@@ -12,4 +12,4 @@ For most questions this is ok, but for some there’s a knock-on effect to furth
 
 The diagram below documents which questions are simple, and which affect other questions. ([Google diagram](https://docs.google.com/drawings/d/1OrJYSTmRSJD2GEAWFnr2lXLNo7A9J9GDsPMQUm0Pi0M/edit))
 
-![Edit course workflow](/images/publish-teacher-training-courses/edit-course-workflow/workflow.svg)
+![Edit course workflow](/publish-teacher-training-courses/edit-course-workflow/workflow.svg)

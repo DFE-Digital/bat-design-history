@@ -38,20 +38,17 @@ This alternative creates a simpler application process that is also easier to bu
   items: [{
     text: "Application with courses",
     img: {
-      path: "/images/apply-for-teacher-training/pick-a-course",
-      src: "your-application.png"
+      src: "/apply-for-teacher-training/pick-a-course/your-application.png"
     }
   }, {
     text: "Old dashboard",
     img: {
-      path: "/images/apply-for-teacher-training/apply-june-2019/personal-details",
-      src: "dashboard.png"
+      src: "/apply-for-teacher-training/apply-june-2019/personal-details/dashboard.png"
     }
   }, {
     text: "Old personal teaching profile",
     img: {
-      path: "/images/apply-for-teacher-training/apply-june-2019/personal-details",
-      src: "personal-teaching-profile.png"
+      src: "/apply-for-teacher-training/apply-june-2019/personal-details/personal-teaching-profile.png"
     }
   }]
 }) }}

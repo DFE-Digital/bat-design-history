@@ -15,16 +15,14 @@ For example, we informed candidates about upcoming application deadlines and adv
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: "/images/apply-for-teacher-training/end-of-cycle/",
-    file: "your-application-with-first-deadline.png",
+    file: "/apply-for-teacher-training/end-of-cycle/your-application-with-first-deadline.png",
     alt: "Screenshot of a banner informing candidates of the upcoming deadline for applications."
   }
 }) }}
 
 {{ appFigure({
   image: {
-    path: "/images/apply-for-teacher-training/end-of-cycle/",
-    file: "your-application-with-second-deadline.png",
+    file: "/apply-for-teacher-training/end-of-cycle/your-application-with-second-deadline.png",
     alt: "Screenshot of a banner informing candidates of the upcoming deadline for applying again."
   }
 }) }}
@@ -33,8 +31,7 @@ We also started to think about how to communicate with candidates once deadlines
 
 {{ appFigure({
   image: {
-    path: "/images/apply-for-teacher-training/end-of-cycle/",
-    file: "application-dashboard-with-opening-date.png",
+    file: "/apply-for-teacher-training/end-of-cycle/application-dashboard-with-opening-date.png",
     alt: "Screenshot of a banner informing candidates that applications for courses starting in this academic year have now closed."
   }
 }) }}
@@ -55,8 +52,7 @@ Candidates have to initiate applying again, like they do in the existing journey
 
 {{ appFigure({
   image: {
-    path: "/images/apply-for-teacher-training/apply-again/",
-    file: "01-apply-again-banner.png",
+    file: "/apply-for-teacher-training/apply-again/01-apply-again-banner.png",
     alt: "Screenshot of ‘Application dashboard’ with banner asking candidate if they want to apply again."
   },
   caption: "Within a recruitment cycle, a candidate is asked “Do you want to apply again”?"
@@ -64,8 +60,7 @@ Candidates have to initiate applying again, like they do in the existing journey
 
 {{ appFigure({
   image: {
-    path: "/images/apply-for-teacher-training/apply-again/",
-    file: "02-apply-again-page.png",
+    file: "/apply-for-teacher-training/apply-again/02-apply-again-page.png",
     alt: "Screenshot of interstitial page explaining to candidate how applying again works."
   },
   caption: "If they click the link, an intersitital page explains how applying again works."
@@ -73,8 +68,7 @@ Candidates have to initiate applying again, like they do in the existing journey
 
 {{ appFigure({
   image: {
-    path: "/images/apply-for-teacher-training/applying-again-iteration/",
-    file: "banner.png",
+    file: "/apply-for-teacher-training/applying-again-iteration/banner.png",
     alt: "Screenshot of ‘Your new application’ page with banner that informs the candidate that we’ve copied their application."
   },
   caption: "If they click ‘Start now’, we show them their new application, with information copied over from their last one."

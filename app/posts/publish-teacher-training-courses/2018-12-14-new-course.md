@@ -45,7 +45,7 @@ If the course is marked as a special educational needs one, it’s appended to t
 
 ## New course workflow
 
-![New course workflow](/images/publish-teacher-training-courses/new-course/workflow.png)
+![New course workflow](/publish-teacher-training-courses/new-course/workflow.png)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

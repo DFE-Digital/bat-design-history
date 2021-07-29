@@ -21,8 +21,7 @@ GOV.​UK uses a component that may help us achieve this. The [feedback componen
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: "/images/apply-for-teacher-training/feedback-component/",
-    file: "govuk-component.png",
+    file: "/apply-for-teacher-training/feedback-component/govuk-component.png",
     alt: "Screenshot of a banner informing candidates of the upcoming deadline for applications."
   }
 }) }}

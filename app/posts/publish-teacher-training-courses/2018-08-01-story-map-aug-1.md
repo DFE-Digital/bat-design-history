@@ -28,8 +28,7 @@ Show the end to end journey, from publishing and enriching courses to search and
   }, {
     text: "Publishing a course",
     img: {
-      path: "/images/publish-teacher-training-courses/validating-on-publish",
-      src: "validating-a-course-on-publish.png"
+      src: "/publish-teacher-training-courses/validating-on-publish/validating-a-course-on-publish.png"
     }
   }, {
     text: "Service start page",

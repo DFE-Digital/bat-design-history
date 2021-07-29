@@ -33,7 +33,7 @@ The course is not published yet because candidates can’t apply to it. It can�
 
 On the organisation page any course with the status ‘Needs attention on UCAS’ should have that status displayed in red and bold to drawn attention to it. The status should link to the course page:
 
-![Screenshot showing needs attention on UCAS status](/images/publish-teacher-training-courses/needs-attention-status.png)
+![Screenshot showing needs attention on UCAS status](/publish-teacher-training-courses/needs-attention-status.png)
 
 ### 3\. New - not yet running
 

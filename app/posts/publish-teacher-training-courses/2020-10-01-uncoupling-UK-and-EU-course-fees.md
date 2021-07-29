@@ -23,8 +23,7 @@ Publish previously allowed organisations to provide a common fee for UK and EU s
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: "/images/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/",
-    file: "original-edit-course-fees.png",
+    file: "/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/original-edit-course-fees.png",
     alt: "Screenshot the original edit course length and fees page."
   }
 }) }}
