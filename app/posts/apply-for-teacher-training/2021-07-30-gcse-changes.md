@@ -1,3 +1,4 @@
+---
 title: Changes to the GCSE questions and guidance
 description: Helping candidates apply for courses which accept pending GCSEs or equivalency tests
 date: 2021-07-30
@@ -6,7 +7,7 @@ date: 2021-07-30
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
 
-One of the reasons for rejections the candidates receive is that they do not have the right qualifications in English or maths (plus science for Primary course). This is specified as GCSE grade C (4) or above, or equivalent, in the national criteria for initial teacher training.
+One of the reasons for rejections the candidates receive is that they do not have the right qualifications in English or maths (plus science for Primary course). This is specified as GCSE grade 4 (C&#8203;) or above, or equivalent, in the national criteria for initial teacher training.
 
 If candidates do not have this qualification, they can still apply, as some providers will:
 
@@ -19,7 +20,7 @@ In order to be able to display this contextual guidance, we also needed to make 
 
 ### Changes to GCSE flow
 
-The previous design asked to "Add [subject] GCSE grade 4 ( C) or above, or equivalent”, with an option for "I do not have this qualification yet":
+The previous design asked to "Add [subject] GCSE grade 4 (C&#8203;) or above, or equivalent”, with an option for "I do not have this qualification yet":
 
 {{ appScreenshots({
   hideContents: true,
