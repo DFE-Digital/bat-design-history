@@ -11,13 +11,7 @@ related:
 
 We currently ask users for feedback, or to report any problems, in the final two paragraphs of a course detail page:
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "/find-teacher-training/feedback-component/existing-content.png",
-    alt: "Existing content shown on course pages."
-  }
-}) }}
+![Existing content shown on course pages.](/find-teacher-training/feedback-component/existing-content.png)
 
 To ensure we gather feedback consistently, we will use [the same feedback component](/apply-for-teacher-training/feedback-component/) used on the Apply service instead. Using this component means we can also ask for feedback on search result pages, too.
 

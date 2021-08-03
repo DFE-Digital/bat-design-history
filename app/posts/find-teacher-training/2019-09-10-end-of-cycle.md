@@ -8,10 +8,4 @@ A follow-up to our original [end of cycle notice](/find-teacher-training/end-of-
 
 It is confusing to allow users to search for courses in the current cycle. Find returns a small set of courses that haven’t been filled, this will mislead candidates about their options for 2020/21. It is not clear that results shown are just for 2019/20.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "course-search-disabled.png"
-  },
-  caption: "Course search disabled page"
-}) }}
+![Screenshot of landing page with closed message.](course-search-disabled.png "Course search disabled page")
