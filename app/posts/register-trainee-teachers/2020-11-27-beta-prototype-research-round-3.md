@@ -8,7 +8,7 @@ related:
     href: https://lookback.io/org/dfe-digital/projects/register-i-round-3-i-ao-provider-led/rounds
   - text: Raw findings
     href: https://drive.google.com/drive/u/0/folders/19Ir3HwBuwOVg50cFm3dDi2-EfQ1ZmY4I
-  - text: Research Plan 
+  - text: Research Plan
     href: https://docs.google.com/document/d/1bppLVBhXxf-rOSR6GVzIXx1Oifgc9wdr2BrjmNKerqI/
   - text: Research playback
     href: https://docs.google.com/presentation/d/1t5uAjPsI_Y6cnHO9o5__XFfQeMzdX9o54Gz1Yy7a3Ew/
@@ -28,7 +28,7 @@ Since UR round 2 we made some key changes to the prototype:
 
 The intention was to answer the following questions:
 
-* how do users that are responsible for multiple providers (e.g. lead schools) manage data? 
+* how do users that are responsible for multiple providers (e.g. lead schools) manage data?
 * what are the habits and needs around early data input and submitting for TRN (prior to course start)
 * how do providers refer to their courses and how familiar are they with the Publish course codes?
 * do users understand our review and confirm features, as well as our error messages?
@@ -73,17 +73,17 @@ So far there is no interest in submitting for TRN early, before trainees have st
 
 Users did respond positively to the possibility of creating drafts as soon as they have the data - throughout the year. Yet despite this most also said they would still prefer to upload all the data in one go in September.
 
->“I don’t work over July / August. I [...] start uploading when I get the opportunity in September. 
+>“I don’t work over July / August. I [...] start uploading when I get the opportunity in September.
 >
->If I managed to move the way we work back [and] had more time in July then I might [input data earlier]. If we’re still interviewing, we would end up with part-done, part-not-done [records], it would get a bit disjointed. 
+>If I managed to move the way we work back [and] had more time in July then I might [input data earlier]. If we’re still interviewing, we would end up with part-done, part-not-done [records], it would get a bit disjointed.
 >
 >To do that in July would take me away from other stuff, but it might be helpful.”
 
-Our system currently supports creating drafts and submitting records for individual trainees. If we were to enable submitting a group of draft records in one go, we may need to rethink [how we display drafts](/images/register-trainee-teachers/beta-prototype-updates/2020.11.02_12_29_04_Trainee%20teachers%20-%20Register%20trainee%20teachers%20-%20GOV.UK.png) in the user interface. 
+Our system currently supports creating drafts and submitting records for individual trainees. If we were to enable submitting a group of draft records in one go, we may need to rethink [how we display drafts](/register-trainee-teachers/beta-prototype-updates/2020.11.02_12_29_04_Trainee%20teachers%20-%20Register%20trainee%20teachers%20-%20GOV.UK.png) in the user interface.
 
 ### Homepage
 
-The homepage seems to work well as a springboard into our service. Users understand the statuses and appreciate them as shortcuts to the filtered records. Users understand what cycle the information relates to. 
+The homepage seems to work well as a springboard into our service. Users understand the statuses and appreciate them as shortcuts to the filtered records. Users understand what cycle the information relates to.
 
 >“That’s really good because a lot of the time [in DTTP] there’s no clear indication of how many I’m waiting for. This is really clear what the status of everything is.”
 
@@ -104,7 +104,7 @@ Pulling data through from Publish is a good solution for programme data input. T
 
 >“Useful that this has already been populated - I assume it comes through Publish?”
 
-Subject and course code seemed to be the most important details needed to identify a course. We [adjusted the prototype](/images/register-trainee-teachers/picking-publish-courses/asking-for-publish-course.png) to respond to this feedback during the testing round - removing data that did not help users identify a course. 
+Subject and course code seemed to be the most important details needed to identify a course. We [adjusted the prototype](/register-trainee-teachers/picking-publish-courses/asking-for-publish-course.png) to respond to this feedback during the testing round - removing data that did not help users identify a course.
 
 The current design works well for picking from around 10 courses or less - but we have providers that offer up to 90 courses, and we need to make sure our solution works for them too.
 
@@ -112,13 +112,13 @@ The current design works well for picking from around 10 courses or less - but w
 
 ### Confirming data input and error messages
 
-Users liked the idea of checking their work using the section confirmation pages  and understood the progress labels. 
+Users liked the idea of checking their work using the section confirmation pages  and understood the progress labels.
 
 > "The ‘Completed’ button says ‘I’m happy with this section‘, and that this is ok to be saved against that record."
 
 > "There could be certain sections where I’d want to save a partially complete record. [It should then show] in progress or draft."
 
-Users also understood different error messages and were able to adjust data to submit easily.     
+Users also understood different error messages and were able to adjust data to submit easily.
 
 ### Negative assessment outcome
 
@@ -146,8 +146,8 @@ Users act responsibly when it comes to updating outcomes on DTTP, but because an
 
 Lookback highlights:
 
-[What happens if a trainee fails?](https://lookback.io/watch/Hqxvr2mhA37qBnTJ5 ) 
-[When do you make this decision?](https://lookback.io/watch/2Top4tRiz4MJwpM3u) 
+[What happens if a trainee fails?](https://lookback.io/watch/Hqxvr2mhA37qBnTJ5 )
+[When do you make this decision?](https://lookback.io/watch/2Top4tRiz4MJwpM3u)
 
 ### Handling ITT data for several organisations
 

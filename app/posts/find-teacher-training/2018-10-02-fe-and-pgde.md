@@ -57,15 +57,14 @@ This qualification is at level lower than PGCE. It is mostly relevant in the FE 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  path: "/images/find-teacher-training/live-launch",
   items: [{
     text: "Qualification filter",
-    img: { src: "qualification-filter.png" }
+    img: { src: "/find-teacher-training/live-launch/qualification-filter.png" }
   }, {
     text: "Further education search results",
-    img: { src: "further-education-results.png" }
+    img: { src: "/find-teacher-training/live-launch/further-education-results.png" }
   }, {
     text: "Full course page (PGDE)",
-    img: { src: "full-course-page-pgde.png" }
+    img: { src: "/find-teacher-training/live-launch/full-course-page-pgde.png" }
   }]
 }) }}

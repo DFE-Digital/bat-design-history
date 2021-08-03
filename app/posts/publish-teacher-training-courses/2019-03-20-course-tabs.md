@@ -33,8 +33,7 @@ By splitting the page into tabs we:
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: "/images/publish-teacher-training-courses/deleting-and-withdrawing",
-    file: "course-that-can-be-deleted.png"
+    file: "/publish-teacher-training-courses/deleting-and-withdrawing/course-that-can-be-deleted.png"
   },
   caption: "Delete link has been added to the bottom of the status column."
 }) }}

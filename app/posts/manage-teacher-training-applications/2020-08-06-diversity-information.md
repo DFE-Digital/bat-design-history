@@ -10,8 +10,6 @@ related:
     href: /apply-for-teacher-training/apply-september-2019/#equality-and-diversity
 ---
 
-{% from "image/macro.njk" import appImage with context %}
-
 In March we started collecting equality and diversity information from candidates. This is an optional questionnaire that we ask candidates to complete to reduce discrimination on the basis of sex, disability and ethnicity.
 
 We’ll only make this information available to providers once an application is complete.
@@ -36,19 +34,13 @@ We want providers to be clear what information is available, but also why they c
 
 We explored adding additional rows to the applicant details summary list, but with a placeholder line if they couldn’t be shown.
 
-{{ appImage({
-  file: 'multiple-lines-short-grey.png',
-  alt: '3 lines in a summary list, with grey text that reads ‘Only available when the candidate accepts your offer’'
-})}}
+![3 lines in a summary list, with grey text that reads ‘Only available when the candidate accepts your offer’](multiple-lines-short-grey.png)
 
 Once you add multiple rows it gets somewhat repetitive. We tried making them grey to knock them back a bit - and because they’re more of a message from the system than a candidate’s answer.
 
 For users without the correct permissions the text isn’t quite right - so they need more explanation.
 
-{{ appImage({
-  file: 'multiple-lines-long-grey.png',
-  alt: '3 lines in a summary list, with grey text that reads ‘Only available to users with ‘view diversity information’ permission once an offer has been accepted’'
-})}}
+![3 lines in a summary list, with grey text that reads ‘Only available to users with ‘view diversity information’ permission once an offer has been accepted’](multiple-lines-long-grey.png)
 
 ## Second iteration
 

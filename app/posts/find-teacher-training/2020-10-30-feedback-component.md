@@ -14,8 +14,7 @@ We currently ask users for feedback, or to report any problems, in the final two
 {% from "figure/macro.njk" import appFigure with context %}
 {{ appFigure({
   image: {
-    path: "/images/find-teacher-training/feedback-component/",
-    file: "existing-content.png",
+    file: "/find-teacher-training/feedback-component/existing-content.png",
     alt: "Existing content shown on course pages."
   }
 }) }}

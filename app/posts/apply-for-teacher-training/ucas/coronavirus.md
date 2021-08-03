@@ -11,5 +11,5 @@ This is the email UCAS sent to providers:
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-  content: "![Changes to decline by default (DBD) and reject by default (RBD) dates, and updating vacancy statuses](/images/apply-for-teacher-training/ucas/coronavirus/change-to-deadlines.png)"
+  content: "![Changes to decline by default (DBD) and reject by default (RBD) dates, and updating vacancy statuses](/apply-for-teacher-training/ucas/coronavirus/change-to-deadlines.png)"
 }) }}

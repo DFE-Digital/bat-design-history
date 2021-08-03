@@ -23,7 +23,7 @@ To skip the start page, the content on the Apply and Find start pages must be co
 
 ## User journey
 
-![User journey diagram](/images/apply-for-teacher-training/find-to-apply/find-to-apply-journey.svg)
+![User journey diagram](/apply-for-teacher-training/find-to-apply/find-to-apply-journey.svg)
 
 [Google drawing](https://docs.google.com/drawings/d/1d30V3qtVYQNL_gWIMuGjgjm2doWMIDyIyYWchIKnPe8)
 

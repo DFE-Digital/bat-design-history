@@ -16,7 +16,7 @@ Workflow co-designed with UCAS.
 
 [Prototype](https://publish-courses-prototype.herokuapp.com/onboarding/accept-terms)
 
-[![Onboarding workflow](/images/publish-teacher-training-courses/onboarding-wizard/onboarding-workflow.svg)](https://docs.google.com/drawings/d/12slZCbsAB8m0-T9s_QGmqFZRxhwF1KfkoiN2g4Xk0mY/edit)
+[![Onboarding workflow](/publish-teacher-training-courses/onboarding-wizard/onboarding-workflow.svg)](https://docs.google.com/drawings/d/12slZCbsAB8m0-T9s_QGmqFZRxhwF1KfkoiN2g4Xk0mY/edit)
 
 ### Lead schools
 
