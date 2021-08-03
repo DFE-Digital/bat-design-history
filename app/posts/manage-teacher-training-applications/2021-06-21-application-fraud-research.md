@@ -12,7 +12,7 @@ We wanted to understand what providers expect the DfE to do in instances of frau
 
 ## What we researched
 
-We asked providers to talk about instances of fraudulent candidate applications and how they handled them. 
+We asked providers to talk about instances of fraudulent applications and how they handled them. 
 
 We also asked whether there are situations where they would expect the DfE to be involved. 
 
@@ -34,7 +34,7 @@ However, providers are looking for written guidance on how to handle different f
 
 Providers want guidance on consequences they could implement if a candidate commits a certain type of fraud. They feel this would increase consistency across providers and also within the same provider. 
 
-Providers did not have many examples of fraud, but divided what they had experienced into two categories:
+Providers did not have many examples of fraud, but what they’ve experienced can be divided into two categories:
 
 - false or incorrect qualifications
 - personal statements were plagiarised
