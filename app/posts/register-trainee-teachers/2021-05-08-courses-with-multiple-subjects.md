@@ -3,27 +3,12 @@ title: Courses with multiple subjects
 description: Adding support for a second and third subject on a course
 date: 2021-05-08
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "figure/macro.njk" import appFigure with context %}
 
 When providers add trainees to the DTTP, they can record up to 3 course subjects. These indicate which subjects the trainee was trained to teach in. Register previously only had a single subject field, so we’ve added the ability to add a second and third subject.
 
+![Our previous subject field.](subject-existing.png "Previous subject field")
 
-{{ appFigure({
-  title: "Previous subject field",
-  image: {
-    file: "subject-existing.png",
-    alt: "Our previous subject field."
-  }
-}) }}
-
-{{ appFigure({
-  title: "Revised subject fields",
-  image: {
-    file: "subject-multiple.png",
-    alt: "Our revised subject input - a details component reveals an autocomplete for second and third subject"
-  }
-}) }}
+![Our revised subject input – a details component reveals an autocomplete for second and third subject.](subject-multiple.png "Revised subject fields")
 
 ## Implementation details
 

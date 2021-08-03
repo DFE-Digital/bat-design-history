@@ -6,14 +6,7 @@ date: 2021-02-05
 
 The task list did not reflect the way our users work.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "task-list-version-one.png",
-    alt: "An image of the previous iteration of the task list. It was not in keeping with user behaviour."
-  },
-  caption: "We tested this iteration of the task list with users and found that it was not in keeping with their behaviour."
-}) }}
+![An image of the previous iteration of the task list. It was not in keeping with user behaviour.](task-list-version-one.png "We tested this iteration of the task list with users and found that it was not in keeping with their behaviour.")
 
 In this entry we explain why, and how we changed the task list to better accommodate providers’ already effective processes.
 
@@ -61,15 +54,9 @@ However, they’ll come back to review and update training information.
 
 This is reflected in later aspects of the user journey, where personal details and training information are separate:
 
-{{ appFigure({
-  image: {
-    file: "review-a-trainee-record.png",
-    alt: "Detail of a training record after it has been created. Personal details and training details have separate tabs."
-  },
-  caption: "A trainee record after it has been created: personal details and training information have separate tabs."
-}) }}
+![Detail of a training record after it has been created. Personal details and training details have separate tabs.](review-a-trainee-record.png "A trainee record after it has been created: personal details and training information have separate tabs.")
 
-### Hypothesis 
+### Hypothesis
 
 If we split the task list into 2 sections, one focussed on the person and one focused on the training, then we’ll create a meaningful distinction between different types of trainee data.
 
@@ -83,10 +70,4 @@ For now, the above changes may help make the task list feel less burdensome.
 
 ## The task list now
 
-{{ appFigure({
-  image: {
-    file: "task-list-version-two.png",
-    alt: "The new iteration of the task list."
-  },
-  caption: "The task list now uses more precise language and has more meaningful categories. It has fewer sections, reducing it’s length and the need to scroll."
-}) }}
+![The new iteration of the task list.](task-list-version-two.png "The task list now uses more precise language and has more meaningful categories. It has fewer sections, reducing it’s length and the need to scroll.")

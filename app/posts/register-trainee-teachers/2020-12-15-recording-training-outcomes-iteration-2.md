@@ -16,7 +16,7 @@ DTTP users do not currently record any assessment outcomes other than “passed�
 
 Withdrawal is not the default next step in the process for a trainee whose assessment outcome has been recorded as a “failure”.
 
-What’s more, failure is actually a rare outcome. 
+What’s more, failure is actually a rare outcome.
 
 A more likely scenario is for the trainee to either be withdrawn if they're unlikely to pass, or to have their course extended if they're likely to pass but need more time.
 
@@ -42,18 +42,18 @@ We also need to consider how we’ll accommodate trainees who are not on track t
 {{ appScreenshots({
   items: [{
     text: "Trainee details - TRN recieved",
-    img: { src: "Clay Stracke - TRN recieved.png" }
+    img: { src: "trn-recieved.png" }
   }, {
     text: "When did they meet the QTS standards?",
-    img: { src: "When did they meet the QTS standards.png" }
+    img: { src: "when-did-they-meet-the-qts-standards.png" }
   }, {
     text: "Check QTS details",
-    img: { src: "Check QTS details.png" }
+    img: { src: "check-qts-details.png" }
   }, {
     text: "Trainee recommended for QTS",
-    img: { src: "Trainee recommended for QTS.png" }
-  }, {  
+    img: { src: "trainee-recommended-for-qts.png" }
+  }, {
     text: "Trainee details - Recommended for QTS ",
-    img: { src: "Clay Stracke - Recommended for QTS.png" }
+    img: { src: "recommended-for-qts.png" }
   }]
 }) }}
