@@ -14,13 +14,7 @@ We need to ensure these changes are reflected in the provider interface.
 
 [Candidates can now add multiple nationalities](/apply-for-teacher-training/nationality) (up to 5). Manage teacher training applications will be updated to ensure that all nationalities can be shown.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "nationalities.png"
-  },
-  caption: "Personal details with 3 nationalities shown."
-}) }}
+![](nationalities.png "Personal details with 3 nationalities shown.")
 
 ## Residency status
 
@@ -38,12 +32,7 @@ The provider interface will show a new ‘Has the right to work or study in the 
 
 If the candidate indicates that they have the right to work or study in the UK, we show an additional ‘Residency status’ field on the provider interface which displays the free text answer given by the candidate that gives more details about their circumstances.
 
-{{ appFigure({
-  image: {
-    file: "residency.png"
-  },
-  caption: "Personal details with residency status and additional details shown."
-}) }}
+![](residency.png "Personal details with residency status and additional details shown.")
 
 ## Degree(s)
 
@@ -75,19 +64,9 @@ We will display this information in the format of a card, or multiple cards, sho
 
   For example, ‘NARIC statement #4000228363 says this is comparable to a Bachelor (Honours) degree.’ This is only shown for international degrees, and if details have been given by the candidate.
 
-{{ appFigure({
-  image: {
-    file: "qualification-card-uk-degree.png"
-  },
-  caption: "Qualification card showing a UK degree."
-}) }}
+  ![](qualification-card-uk-degree.png "Qualification card showing a UK degree.")
 
-{{ appFigure({
-  image: {
-    file: "qualification-card-international-degree.png"
-  },
-  caption: "Qualification card showing an international degree."
-}) }}
+  ![](qualification-card-international-degree.png "Qualification card showing an international degree.")
 
 ## GCSE equivalents
 
@@ -144,19 +123,9 @@ We will display this information within a card, showing the following informatio
 
   If a candidate does not have an equivalent qualification, we say ‘Candidate does not have this qualification yet’, alongside the reason given.
 
-{{ appFigure({
-  image: {
-    file: "qualification-card-uk-gcse.png"
-  },
-  caption: "Qualification cards showing UK GCSEs, with one missing."
-}) }}
+  ![](qualification-card-uk-gcse.png "Qualification cards showing UK GCSEs, with one missing.")
 
-{{ appFigure({
-  image: {
-    file: "qualification-card-international-gcse-equivalent.png"
-  },
-  caption: "Qualification cards showing international GCSE equivalent qualifications."
-}) }}
+  ![](qualification-card-international-gcse-equivalent.png "Qualification cards showing international GCSE equivalent qualifications.")
 
 ## English as a foreign language
 
@@ -172,23 +141,8 @@ On the provider interface, under the heading ‘English as a foreign language’
 
 If the candidate has a qualification, we’ll show a qualification card below the corresponding statement. If they do not have a qualification yet, we’ll show the reason they’ve given.
 
-{{ appFigure({
-  image: {
-    file: "efl-qualification.png"
-  },
-  caption: "English as a foreign language showing qualification gained."
-}) }}
+![](efl-qualification.png "English as a foreign language showing qualification gained.")
 
-{{ appFigure({
-  image: {
-    file: "efl-missing.png"
-  },
-  caption: "English as a foreign language showing reason why they do not have this qualification yet."
-}) }}
+![](efl-missing.png "English as a foreign language showing reason why they do not have this qualification yet.")
 
-{{ appFigure({
-  image: {
-    file: "efl-not-applicable.png"
-  },
-  caption: "English as a foreign language for a candidate that does not consider English to be a foreign language."
-}) }}
+![](efl-not-applicable.png "English as a foreign language for a candidate that does not consider English to be a foreign language.")

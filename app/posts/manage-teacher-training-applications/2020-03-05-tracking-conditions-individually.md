@@ -26,12 +26,7 @@ Then they'll be able to process applications more quickly and accurately
 
 We explored the following design:
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "update-status-alternative.png"
-  }
-}) }}
+![](update-status-alternative.png)
 
 But we ruled it out because:
 

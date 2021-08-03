@@ -5,7 +5,6 @@ date: 2020-09-03
 ---
 
 {% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
-{% from "figure/macro.njk" import appFigure with context %}
 
 This post explains who can make (changes to) offers and what users at the organisations can see before and after these changes happen.
 
@@ -33,7 +32,6 @@ Users who belong to the old organisation will no longer be able to see it unless
   And users who only belong to provider A can no longer see the application in their list
   And users who belong to provider B can see the application in their list
 {% endset %}
-
 
 {{ govukInsetText({
   html: example1 | markdown

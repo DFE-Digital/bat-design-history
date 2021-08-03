@@ -4,8 +4,6 @@ description: Exploring ways to help higher education institutions register and i
 date: 2021-03-18
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 We explored ways to help higher education institutions (HEIs) register to use Manage and invite their school direct partners (SDs) to register.
 
 ## Why we are doing this
@@ -99,13 +97,7 @@ In our first iteration, we wanted HEI users to answer two questions.
 
 This would allow us to invite the right people at each SD, while leaving the HEI in control of when their courses become available.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v1-flow.png",
-    alt: "Iteration 1 user flow"
-  },
-  caption: "Figure 1: Iteration 1 user flow"
-}) }}
+![Iteration 1 user flow.](self-service-registration-v1-flow.png "Figure 1: Iteration 1 user flow")
 
 The journey began on a ‘start page’ listing the SDs working with the HEI and setting out the steps involved in creating an account.
 
@@ -113,13 +105,7 @@ The aim was to give the user a chance to gather information before starting, whi
 
 Users would reach the start page from an email. For this iteration we did not include DfE Sign-in account creation, as we assumed that the email would contain a ‘magic link’ bypassing it.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v1-01.png",
-    alt: "Start page asking user to set up their account"
-  },
-  caption: "Figure 2: Set up your account"
-}) }}
+![Start page asking user to set up their account.](self-service-registration-v1-01.png "Figure 2: Set up your account")
 
 In this iteration we assumed that HEIs may not want to open courses on Find during this process.
 
@@ -127,57 +113,27 @@ After the start page, the user was asked whether they would like to open courses
 
 If the user said they would like to open courses then they were asked for contact details. No fields were pre-filled as we assumed we wanted to gather fresh information.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v1-02.png",
-    alt: "Question page asking ‘do you want to open courses at the school direct?’"
-  },
-  caption: "Figure 3: Question page asking ‘Do you want to open courses at the school direct?’"
-}) }}
+![Question page asking ‘do you want to open courses at the school direct?’.](self-service-registration-v1-02.png "Figure 3: Question page asking ‘Do you want to open courses at the school direct?’")
 
 Once the user had decided whether or not to open courses for each SD, they were asked to complete a data sharing agreement (DSA).
 
 We took the existing DSA directly from Manage without any changes. Our main concern was not readability, but whether users felt they could sign it or would need to refer to someone else.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v1-03.png",
-    alt: "Data sharing agreement"
-  },
-  caption: "Figure 4: Data sharing agreement"
-}) }}
+![Data sharing agreement.](self-service-registration-v1-03.png "Figure 4: Data sharing agreement")
 
 On the ‘check answers’ page we needed to make it clear that clicking ‘send invites’ would send invitations to SDs. We also decided to remind the user that they would be agreeing to the DSA.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v1-04.png",
-    alt: "‘Check answers’ page"
-  },
-  caption: "Figure 5: ‘Check answers’ page"
-}) }}
+![‘Check answers’ page.](self-service-registration-v1-04.png "Figure 5: ‘Check answers’ page")
 
 We used a standard success page and did not tailor it to this journey at all. This was largely due to a lack of time, but also because we did not know what the next steps would be.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v1-05.png",
-    alt: "Success page"
-  },
-  caption: "Figure 6: Success page"
-}) }}
+![Success page](self-service-registration-v1-05.png "Figure 6: Success page")
 
 ## Iteration 2: using the task list pattern
 
 For this version, we explored using the task list pattern to allow a non-linear journey. Users could use the task list to choose the order in which to provide contact details.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v2-flow.png",
-    alt: "Iteration 2 user flow"
-  },
-  caption: "Figure 7: Iteration 2 user flow"
-}) }}
+![Iteration 2 user flow.](self-service-registration-v2-flow.png "Figure 7: Iteration 2 user flow")
 
 The task list page gave two tasks for each SD:
 
@@ -186,13 +142,7 @@ The task list page gave two tasks for each SD:
 
 The user could only complete the second task once the first had been completed.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v2-02.png",
-    alt: "The task list"
-  },
-  caption: "Figure 8: Task list page"
-}) }}
+![The task list.](self-service-registration-v2-02.png "Figure 8: Task list page")
 
 We did not use the task list pattern as we decided it would only be of value if we allowed the ability to save and return later. Without allowing this, the user would still need to gather the contact details in advance whether they had to enter them in a fixed sequence or in an order of their own choosing.
 
@@ -204,73 +154,31 @@ We removed the ‘Do you want to open courses at the training provider?’ quest
 
 ### What we did and why
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-flow.png",
-    alt: "Iteration 3 user flow"
-  },
-  caption: "Figure 9: Iteration 3 user flow"
-}) }}
+![Iteration 3 user flow.](self-service-registration-v3-flow.png "Figure 9: Iteration 3 user flow")
 
 The start page listed the SDs we needed contact details for. We only asked about SDs which are not already using Manage, reducing the effort required by the HEIs to complete the process.
 
 We also listed the SDs which are already using Manage, so that the user would not think we’d missed them out.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-01.png",
-    alt: "Start page inviting providers to manage teacher training applications"
-  },
-  caption: "Figure 10: Start page inviting providers to manage teacher training applications"
-}) }}
+![Start page inviting providers to manage teacher training applications.](self-service-registration-v3-01.png "Figure 10: Start page inviting providers to manage teacher training applications")
 
 For each of the SDs which were not on Manage, we included a list of people who already had accounts in the Publish service. This was intended to further reduce the effort needed to complete the form.
 
 Users could either choose one of these people or add new contact details.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-02a.png",
-    alt: "Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people"
-  },
-  caption: "Figure 11: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people"
-}) }}
+![Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people.](self-service-registration-v3-02a.png "Figure 11: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people")
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-02b.png",
-    alt: "Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields"
-  },
-  caption: "Figure 12: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields"
-}) }}
+![Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields.](self-service-registration-v3-02b.png "Figure 12: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields")
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-02c.png",
-    alt: "Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation"
-  },
-  caption: "Figure 13: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation"
-}) }}
+![Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation.](self-service-registration-v3-02c.png "Figure 13: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation")
 
 The data sharing agreement remained the same as in Manage.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-03.png",
-    alt: "Data sharing agreement"
-  },
-  caption: "Figure 14: Data sharing agreement"
-}) }}
+![Data sharing agreement.](self-service-registration-v3-03.png "Figure 14: Data sharing agreement")
 
 We removed mention of the DSA from the ‘check answers’ page since there was already a confirmation check box at the end of the DSA itself.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-04.png",
-    alt: "‘Check answers’ page"
-  },
-  caption: "Figure 15: ‘Check answers’ page"
-}) }}
+![‘Check answers’ page.](self-service-registration-v3-04.png "Figure 15: ‘Check answers’ page")
 
 The success page had minimal content, saying that:
 
@@ -280,13 +188,7 @@ The success page had minimal content, saying that:
 
 We were still assuming that the user would have entered this service through a ‘magic link’ and so would have to do further things to finish setting up their account.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v3-05.png",
-    alt: "Success page"
-  },
-  caption: "Figure 16: Success page"
-}) }}
+![Success page.](self-service-registration-v3-05.png "Figure 16: Success page")
 
 ### What we learned
 
@@ -325,13 +227,7 @@ For this iteration we reordered the questions so that DfE Sign-in and the DSA ca
 
 We decided that we would not be able to use a ‘magic link’ as they only work for a short time. It would be better to use DfE Sign-in and get users to set up accounts in the usual way.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-flow.png",
-    alt: "Iteration 4 user flow"
-  },
-  caption: "Figure 17: Iteration 4 user flow"
-}) }}
+![Iteration 4 user flow.](self-service-registration-v4-flow.png "Figure 17: Iteration 4 user flow")
 
 The start page set out the steps of the journey:
 
@@ -341,85 +237,31 @@ The start page set out the steps of the journey:
 
 It also listed the SDs which required contact details and those which did not.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-01.png",
-    alt: "Start page"
-  },
-  caption: "Figure 18: Start page"
-}) }}
+![Start page.](self-service-registration-v4-01.png "Figure 18: Start page")
 
 We mocked up the DfE Sign-in flow to make the overall journey more realistic.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-02.png",
-    alt: "DfE Sign-in"
-  },
-  caption: "Figure 19: DfE Sign-in"
-}) }}
+![DfE Sign-in](self-service-registration-v4-02.png "Figure 19: DfE Sign-in")
 
 The DSA remained the same as in previous iterations.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-03.png",
-    alt: "Data sharing agreement"
-  },
-  caption: "Figure 19: Data sharing agreement"
-}) }}
+![Data sharing agreement.](self-service-registration-v4-03.png "Figure 19: Data sharing agreement")
 
 We included a mid-journey ‘start page’ after DfE Sign-in and the DSA, in case the user had forgotten the details of what they would need to do.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-04.png",
-    alt: "Mid-journey start page"
-  },
-  caption: "Figure 20: Mid-journey start page"
-}) }}
+![Mid-journey start page.](self-service-registration-v4-04.png "Figure 20: Mid-journey start page")
 
 The invitation, check answers and success pages were the same as in previous iterations.
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-05a.png",
-    alt: "Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people"
-  },
-  caption: "Figure 21: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people"
-}) }}
+![Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people.](self-service-registration-v4-05a.png "Figure 21: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing pre-defined list of people")
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-05b.png",
-    alt: "Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields"
-  },
-  caption: "Figure 22: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields"
-}) }}
+![Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields.](self-service-registration-v4-05b.png "Figure 22: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ and showing the ‘someone else’ option fields")
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-05c.png",
-    alt: "Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation"
-  },
-  caption: "Figure 23: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation"
-}) }}
+![Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation.](self-service-registration-v4-05c.png "Figure 23: Question page asking ‘Who do you want to invite to manage applications at the training provider?’ only showing name and email fields as there are no known people in the organisation")
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-06.png",
-    alt: "‘Check answers’ page"
-  },
-  caption: "Figure 24: ‘Check answers’ page"
-}) }}
+![‘Check answers’ page.](self-service-registration-v4-06.png "Figure 24: ‘Check answers’ page")
 
-{{ appFigure({
-  image: {
-    file: "self-service-registration-v4-07.png",
-    alt: "Success page"
-  },
-  caption: "Figure 25: Success page"
-}) }}
+![Success page.](self-service-registration-v4-07.png "Figure 25: Success page")
 
 ## Next steps
 

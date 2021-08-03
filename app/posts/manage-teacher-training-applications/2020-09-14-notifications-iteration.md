@@ -9,7 +9,6 @@ related:
 ---
 
 {% from "email/macro.njk" import appEmail %}
-{% from "figure/macro.njk" import appFigure with context %}
 
 View the [previous iteration](/manage-teacher-training-applications/notifications/).
 
@@ -22,11 +21,7 @@ But this makes out that notifications are less important than they actually are 
 If we put the notifications area in the primary navigation
 Then it’ll be easy to access and make it a main way to manage applications
 
-{{ appFigure({
-  image: {
-    file: "primary-navigation.png"
-  }
-}) }}
+![](primary-navigation.png)
 
 ## Notification page updates
 
@@ -38,11 +33,7 @@ Since the previous iteration we have made several changes:
 4. ‘Notification settings’ is now ‘Change your notification settings’ to make it clear it relates to the user’s settings – not the organisations.
 5. ‘Seen’ is now ‘Already seen’ to make it clearer.
 
-{{ appFigure({
-  image: {
-    file: "notifications-page.png"
-  }
-}) }}
+![](notifications-page.png)
 
 ## Notification settings are now part of ‘Your account’
 
@@ -51,11 +42,7 @@ In the previous iteration the settings page was part of the Notifications area. 
 If we put the notification settings page in the account section
 Then user’s will be more likely to find it
 
-{{ appFigure({
-  image: {
-    file: "account-page.png"
-  }
-}) }}
+![](account-page.png)
 
 ## Notification settings page: tables and icons
 
@@ -69,11 +56,7 @@ When using regular text for the notification settings screen makes it harder to 
 If we use a tick icon
 Then it’ll be easier to scan
 
-{{ appFigure({
-  image: {
-    file: "table-layout.png"
-  }
-}) }}
+![](table-layout.png)
 
 ## Changing notification settings in bulk
 
@@ -86,19 +69,9 @@ Then they’ll be able to change their settings more quickly
 
 Note: we thought about using toggle switches but decided to try this first instead as it's easier to build and far less risk. Toggle switches may be confusing and inaccessible without the right care.
 
-{{ appFigure({
-  image: {
-    file: "settings-page.png"
-  },
-  caption: "There’s a change link per organisational relationship"
-}) }}
+![](settings-page.png "There’s a change link per organisational relationship")
 
-{{ appFigure({
-  image: {
-    file: "edit-settings-form.png"
-  },
-  caption: "Users can make changes to multiple notifications in one form"
-}) }}
+![](edit-settings-form.png "Users can make changes to multiple notifications in one form")
 
 ## Removing notifications about changes to permissions
 
@@ -117,11 +90,7 @@ Then it’ll be easier for users to understand it
 
 Note: research shows that users don’t instantly understand what ‘Notifications area’ means until they use it. This could be solved with an onboarding flow and using hint text to explain what it means.
 
-{{ appFigure({
-  image: {
-    file: "table-layout.png"
-  }
-}) }}
+![](table-layout.png)
 
 ## Helping users know they can configure their notifications
 
@@ -132,11 +101,7 @@ Also, our research shows that while users understand what email notificiations a
 If we tell users how notifications work when they sign in
 Then users will be more likely to make better use of notifications
 
-{{ appFigure({
-  image: {
-    file: "onboarding-prompt.png"
-  }
-}) }}
+![](onboarding-prompt.png)
 
 ## Email digests
 

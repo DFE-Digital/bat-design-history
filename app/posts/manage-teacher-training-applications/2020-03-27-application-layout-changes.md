@@ -4,8 +4,6 @@ description: Various layout changes to make room for new features and improve ex
 date: 2020-03-27
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Hypotheses
 
 ### Download application as PDF
@@ -18,11 +16,7 @@ If we let users download the application as a PDF then they can print it out or 
 
 We'll know this works when we see users sharing the PDF application with colleagues.
 
-{{ appFigure({
-  image: {
-    file: "download.png"
-  }
-}) }}
+![](download.png)
 
 ### Layout of disability, access and other needs
 
@@ -33,11 +27,7 @@ Disability information needs to be accessed after the application has been revie
 If we include "disability" in the title and move it to the top
 Then providers will understand it and be able to get to it more easily
 
-{{ appFigure({
-  image: {
-    file: "disability.png"
-  }
-}) }}
+![](disability.png)
 
 ### Layout of criminal convictions and professional misconduct
 
@@ -52,11 +42,7 @@ Therefore, it makes more sense to put safeguarding information to be in a place 
 If the section is labelled ‘Criminal convictions and professional misconduct’ and displayed toward the top
 Then providers will understand it and be able to get to it more easily
 
-{{ appFigure({
-  image: {
-    file: "criminal-convictions.png"
-  }
-}) }}
+![](criminal-convictions.png)
 
 ### Layout of work history and unpaid experience sections
 
@@ -65,11 +51,7 @@ Previously these sections were [designed with collapsed sections](/manage-teache
 If the sections are laid using headings and paragraphs
 Then it'll be more familiar, easier to read and won't need to be revealed
 
-{{ appFigure({
-  image: {
-    file: "work-history.png"
-  }
-}) }}
+![](work-history.png)
 
 ### Layout of personal statement section
 
@@ -80,11 +62,7 @@ Previously the [personal statement used a summary list](/manage-teacher-training
 
 If the sections are laid out with simple headings, paragraphs and sensible line lengths, then it'll be easy to read
 
-{{ appFigure({
-  image: {
-    file: "personal-statement.png"
-  }
-}) }}
+![](personal-statement.png)
 
 ### Layout of references section
 
@@ -95,11 +73,7 @@ But putting multiple answers in one row could confuse users—especially screen 
 If we use one row per question
 Then the row's key will clearly describe the row's value so users will understand it
 
-{{ appFigure({
-  image: {
-    file: "references.png"
-  }
-}) }}
+![](references.png)
 
 ### Box panel for offer
 
@@ -110,11 +84,7 @@ But with the addition of the notes section, making the offer panel more prominen
 If we just use headings and whitespace to differentiate between the parts of the page
 Then the sections of the page will be more equally weighted
 
-{{ appFigure({
-  image: {
-    file: "offer.png"
-  }
-}) }}
+![](offer.png)
 
 ### Box panel for respond to application
 
@@ -136,8 +106,4 @@ We'll know this works when:
 
 * users spot the banner and click on ‘Respond to application’
 
-{{ appFigure({
-  image: {
-    file: "banner.png"
-  }
-}) }}
+![](banner.png)

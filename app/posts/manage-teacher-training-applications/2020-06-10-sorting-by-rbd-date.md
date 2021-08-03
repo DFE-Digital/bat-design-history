@@ -6,8 +6,6 @@ tags:
 - MN014
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## User needs
 
 {% from "user-needs/macro.njk" import appUserNeeds %}

@@ -8,8 +8,6 @@ related:
     href: /manage-teacher-training-applications/end-of-cycle-exploratory-research/
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Previous research
 
 We know that there are specific activities providers undertake when a recruitment cycle is closing. We have already run a round of research to understand the needs behind:

@@ -4,8 +4,6 @@ description: A series of changes to the disability, interview needs and safeguar
 date: 2020-12-09
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 The original task was to make it easier to understand whether the candidate had been asked questions relating to disability, safeguarding information and interview needs.
 
 Initially we considered just changing the wording which would appear if the candidate had not been asked the question, rather than if they hadn’t given any information.
@@ -31,11 +29,7 @@ We have made the following improvements to the presentation of this information:
 - no longer hide the safeguarding information with the Details component
 - use generic wording for users without permission to view safeguarding information
 
-{{ appFigure({
-  image: {
-    file: "inline.png"
-  }
-}) }}
+![](inline.png)
 
 ## Putting the content into summary lists (tables)
 

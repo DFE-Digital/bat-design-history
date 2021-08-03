@@ -4,8 +4,6 @@ description: Help users understand how notes work when they first go to add a no
 date: 2020-06-18
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Research shows that users aren’t sure how notes work.
 
 They’re particularly uncertain about whether candidates will be able to see their notes.
@@ -21,26 +19,14 @@ If the user hasn’t added a note before there will be an extra piece of guidanc
 
 If there are no notes at all, there will be an extra line above the ‘Add note’ button that says ‘There are no notes yet’.
 
-{{ appFigure({
-  image: {
-    file: "notes-page.png"
-  }
-}) }}
+![](notes-page.png)
 
 When the user clicks ‘Add note’ they’re taken to the interstitial page explaining how notes work.
 
-{{ appFigure({
-  image: {
-    file: "interstitial.png"
-  }
-}) }}
+![](interstitial.png)
 
 They can click the checkbox to stop this page showing again.
 
 Clicking ‘Continue’ will take the user to add a note like normal.
 
-{{ appFigure({
-  image: {
-    file: "add-note.png"
-  }
-}) }}
+![](add-note.png)

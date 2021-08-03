@@ -4,8 +4,6 @@ description: Improve the content and layout for setting up organisational and us
 date: 2020-10-19
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Several content and layout improvements to setting up and managing organisational and user permissions.
 
 ## Setting up organisational permissions
@@ -18,11 +16,7 @@ On the one hand we worry about users not reading the content because there’s a
 
 So we decided it’s better to provide more verbose content so that users at least have the opportunity to fully understand how permissions work.
 
-{{ appFigure({
-  image: {
-    file: "org-permissions--welcome.png"
-  }
-}) }}
+![](org-permissions--welcome.png)
 
 ### Permissions form
 
@@ -36,11 +30,7 @@ We also found that even though there was content to explain organisations can vi
 
 So we decided to lay out the content like the other permissions. We used check icons instead of disabled checkboxes because disabled controls are not focusable by keyboard.
 
-{{ appFigure({
-  image: {
-    file: "org-permissions--form.png"
-  }
-}) }}
+![](org-permissions--form.png)
 
 ### Check answers
 
@@ -50,11 +40,7 @@ The previous design made it hard to see which relationships related to which org
 
 And we added a note to explain why view permissions cannot be changed.
 
-{{ appFigure({
-  image: {
-    file: "org-permissions--check.png"
-  }
-}) }}
+![](org-permissions--check.png)
 
 ## Managing organisational permissions
 
@@ -64,11 +50,7 @@ In the [previous design](manage-teacher-training-applications/setting-up-permiss
 
 And it didn’t give users any context as to what they could do in this section. So we added some guidance too.
 
-{{ appFigure({
-  image: {
-    file: "manage-org-permissions--list.png"
-  }
-}) }}
+![](manage-org-permissions--list.png)
 
 ### Details page
 
@@ -82,28 +64,13 @@ So we decided to write content to make it clear that these permissions hadn’t 
 
 If you belong to the training provider you can set them up. But if you belong to the accredited body you can’t. So there’s different content depending on the situation.
 
-{{ appFigure({
-  image: {
-    file: "manage-org-permissions--details-training-provider.png"
-  },
-  caption: "Organisational permissions details page when you belong to the training provider"
-}) }}
+![](manage-org-permissions--details-training-provider.png "Organisational permissions details page when you belong to the training provider")
 
-{{ appFigure({
-  image: {
-    file: "manage-org-permissions--details-accredited-body.png"
-  },
-  caption: "Organisational permissions details page when you belong to the accredited body"
-}) }}
+![](manage-org-permissions--details-accredited-body.png "Organisational permissions details page when you belong to the accredited body")
 
 And when setting up user permissions we decided to make it clear which organisations the permission is not applicable to. This should clarify why users with the right permission still cannot see or do things.
 
-{{ appFigure({
-  image: {
-    file: "manage-users--details.png"
-  },
-  caption: "User details page with cross icons for organisations where the permission does not apply"
-}) }}
+![](manage-users--details.png "User details page with cross icons for organisations where the permission does not apply")
 
 ## User permissions
 
@@ -111,9 +78,4 @@ In the previous design, when setting (or changing) user permissions we explained
 
 But not all users seem to spot this content. So we’re going to try the following design where users have to specify explicitly that they want to give this user view-only permission or otherwise.
 
-{{ appFigure({
-  image: {
-    file: "manage-users--permissions.png"
-  },
-  caption: "User permissions form"
-}) }}
+![](manage-users--permissions.png "User permissions form")

@@ -4,7 +4,6 @@ description: Various improvements to the flow for making a decision
 date: 2020-11-07
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
 [View previous iteration](/manage-teacher-training-applications/making-a-decision-iteration-2)
@@ -36,12 +35,7 @@ So now we show the course details in context of making a decision so they don’
 
 Previously the page looked like this:
 
-{{ appFigure({
-  image: {
-    file: "check--before.png"
-  },
-  caption: "Check answers: before"
-}) }}
+![](check--before.png "Check answers: before")
 
 We spotted the following issues:
 
@@ -51,12 +45,7 @@ We spotted the following issues:
 
 Here’s the new version which addresses these issues:
 
-{{ appFigure({
-  image: {
-    file: "make-offer--check.png"
-  },
-  caption: "Check answers: after"
-}) }}
+![](make-offer--check.png "Check answers: after")
 
 ## Making the conditions screen consistent
 

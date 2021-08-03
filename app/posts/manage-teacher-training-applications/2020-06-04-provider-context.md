@@ -4,8 +4,6 @@ description: Help providers make sense of application form responses by showing 
 date: 2020-06-03
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Hypotheses
 
 Providers don’t have easy access to the candidate-facing application form.

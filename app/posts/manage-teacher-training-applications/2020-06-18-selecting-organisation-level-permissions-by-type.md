@@ -4,8 +4,6 @@ description: Grouping permissions by type instead of organisation to better hand
 date: 2020-06-18
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 The [previous iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-set-up-permissions-form) has 2 groups of checkboxes to select permissions for each organisation.
 
 At least 1 organisation needs to be able to make decisions. And at least 1 organisation needs to be able to see safeguarding information.
@@ -21,8 +19,4 @@ Or we could show the same error message in both fields which isn’t ideal becau
 If we use group permissions by type intead of organisation
 Then we can show one error message per field
 
-{{ appFigure({
-  image: {
-    file: "type.png"
-  }
-}) }}
+![](type.png)

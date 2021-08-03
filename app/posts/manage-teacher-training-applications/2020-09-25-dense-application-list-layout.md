@@ -4,8 +4,6 @@ description: A more dense layout for each application card in the application li
 date: 2020-09-25
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Previously each application in the application list took up a lot of vertical space.
 
 This means less applications are within the viewport at any one time.
@@ -15,18 +13,6 @@ Some users have said [they’d like a more dense layout](https://lookback.io/wat
 If we give users a more dense application list
 Then users will be able to see more information with less effort
 
-### Before
+![](application-list--before.png "Before")
 
-{{ appFigure({
-  image: {
-    file: "application-list--before.png"
-  }
-}) }}
-
-### After
-
-{{ appFigure({
-  image: {
-    file: "application-list--after.png"
-  }
-}) }}
+![](application-list--after.png "After")

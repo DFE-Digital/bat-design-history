@@ -4,8 +4,6 @@ description: Users and organisations need to configure permissions to make decis
 date: 2020-05-18
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Teacher training providers have to partner with accredited bodies if they’re not an accredited body themselves. Accredited bodies maintain the quality of teacher training providers.
 
 Different organisations need access to different information depending on what they’ve agreed with their partners.
@@ -48,11 +46,8 @@ Examples we know of include:
 Organisations can deliver initial teacher training through various organisational structures.
 
 The most common organisational structures for providers are shown below:
-{{ appFigure({
-  image: {
-    file: "organisation-structures.png"
-  }
-}) }}
+
+![](organisation-structures.png)
 
 ### Why do we need to look into this?
 
