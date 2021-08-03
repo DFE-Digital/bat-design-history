@@ -10,8 +10,6 @@ related:
     href: https://docs.google.com/presentation/d/1tt_QwL2cU7fpZ9pg4JywENfJGp66DBWtkfTqiBYsLEY/edit#slide=id.g75932c5169_0_62
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Round 3 is a continuation of the research started in [Accredited Bodies Research Round 1](/publish-teacher-training-courses/accredited-bodies-research-round-1) and [Round 2](/publish-teacher-training-courses/accredited-bodies-research-round-2). This round examines the role of accredited bodies and their relationships with their partner schools.
 
 ## Findings
@@ -65,11 +63,7 @@ The UCAS Weblink is used by both accredited bodies with SRS and accredited bodie
 
 The process of importing applications from the SRS is generally automatic and takes place daily, or at specific times configured by the accredited body. The UCAS Weblink connects UCAS with the providers SRS.
 
-{{ appFigure({
-  image: {
-    file: "application-process.png"
-  }
-}) }}
+![Application process diagram.](application-process.png)
 
 If a course does not yet exist in the SRS or if all course data does not map to a provider’s records, the application does not get assigned to a course and instead, is effectively blocked and placed in an import error list. This is sometimes referred to as the staging area within the SRS.
 

@@ -30,10 +30,4 @@ By splitting the page into tabs we:
 
 ## Old course design
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "/publish-teacher-training-courses/deleting-and-withdrawing/course-that-can-be-deleted.png"
-  },
-  caption: "Delete link has been added to the bottom of the status column."
-}) }}
+![Old course page design.](/publish-teacher-training-courses/deleting-and-withdrawing/course-that-can-be-deleted.png "Delete link has been added to the bottom of the status column.")

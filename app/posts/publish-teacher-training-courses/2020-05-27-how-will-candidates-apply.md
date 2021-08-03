@@ -10,8 +10,6 @@ tags:
  - PN009
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Two organisations have recently indicated their preference for candidates to apply in a specific way other than through UCAS.
 
 1. Bolton University would only like to be on Apply teacher training, and not on UCAS.
@@ -28,11 +26,7 @@ Our preference is for candidates to apply for courses on UCAS and ultimately sol
 
 At this stage we will not be introducing features to Publish that let providers determine how candidates can apply for courses.
 
-{{ appFigure({
-  image: {
-    file: "flowchart.png"
-  }
-}) }}
+![Flowchart diagram](flowchart.png)
 
 If a provider requires an alternative application process, details will be provided to candidates on the [Apply for this course](https://www.apply-for-teacher-training.education.gov.uk/candidate/apply?providerCode=C30&courseCode=AC21) page. The Find API will need to be able to exclude the course from UCAS.
 
@@ -43,4 +37,3 @@ When support deals with a request from a provider to be omitted from UCAS we mus
 * set some kind of internal flag so that the course is not sent to UCAS via v1 of the API
 * collect and store bespoke text from the provider on how to apply (probably hardcoded while cases are very small), which must include an onward link
 * show this text on the page that shows after clicking the “Apply for this course” button
-
