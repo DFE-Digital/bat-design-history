@@ -10,13 +10,7 @@ Having introduced [structured fields for UK degrees](/apply-for-teacher-training
 
 Currently we ask candidates to provide a degree grade. If they have not completed their degree yet, we ask for a predicted grade:
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "what-grade-is-your-uk-degree.png"
-  },
-  caption: "This option appears after an ‘or’ divider, and with a list of grades above it. Candidates might infer from this that not having a degree yet is considered a lesser option."
-}) }}
+![Screenshot of ‘What grade is your degree?’ question.](what-grade-is-your-uk-degree.png "This option appears after an ‘or’ divider, and with a list of grades above it. Candidates might infer from this that not having a degree yet is considered a lesser option.")
 
 * * *
 
@@ -61,12 +55,7 @@ When asking for a grade for an international degree, we followed [the pattern us
 
 However, as we do not provide structured answers for international degrees, this pattern does not work, meaning we effectively put the most useful option under ‘Other’:
 
-{{ appFigure({
-  image: {
-    file: "what-grade-is-your-international-degree.png",
-    alt: "Screenshot of What grade is your international degree"
-  }
-}) }}
+![Screenshot of ‘What grade is your international degree?’ question.](what-grade-is-your-international-degree.png)
 
 ### Hypothesis
 
@@ -90,8 +79,4 @@ Then candidates will be able to better understand the question and provide the r
 
 With the above changes in place, we can explicitly play back whether a candidate has completed their degree, and whether they have given a predicted grade.
 
-{{ appFigure({
-  image: {
-    file: "review-answers.png"
-  }
-}) }}
+![Screenshot of degree review answers page.](review-answers.png)

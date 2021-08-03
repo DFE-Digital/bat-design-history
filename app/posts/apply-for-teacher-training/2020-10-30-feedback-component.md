@@ -18,13 +18,7 @@ We already ask for feedback once candidates submit an application, but some neve
 
 GOV.​UK uses a component that may help us achieve this. The [feedback component](https://components.publishing.service.gov.uk/component-guide/feedback). It is designed to sit just above the footer invites user feedback on the current page:
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "/apply-for-teacher-training/feedback-component/govuk-component.png",
-    alt: "Screenshot of a banner informing candidates of the upcoming deadline for applications."
-  }
-}) }}
+![Screenshot of a banner informing candidates of the upcoming deadline for applications.](/apply-for-teacher-training/feedback-component/govuk-component.png)
 
 Pages on GOV.​UK tend to revolve around guidance, whereas many pages within our service tend to be form-based. However, we can adapt this component by using a prompt question that works better given the context of a section within a form.
 

@@ -12,29 +12,13 @@ We previously made some changes to [how Apply for teacher training works at the 
 
 For example, we informed candidates about upcoming application deadlines and advised them to talk to teacher training providers about course availability:
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "/apply-for-teacher-training/end-of-cycle/your-application-with-first-deadline.png",
-    alt: "Screenshot of a banner informing candidates of the upcoming deadline for applications."
-  }
-}) }}
+![Screenshot of a banner informing candidates of the upcoming deadline for applications.](/apply-for-teacher-training/end-of-cycle/your-application-with-first-deadline.png)
 
-{{ appFigure({
-  image: {
-    file: "/apply-for-teacher-training/end-of-cycle/your-application-with-second-deadline.png",
-    alt: "Screenshot of a banner informing candidates of the upcoming deadline for applying again."
-  }
-}) }}
+![Screenshot of a banner informing candidates of the upcoming deadline for applying again.](/apply-for-teacher-training/end-of-cycle/your-application-with-second-deadline.png)
 
 We also started to think about how to communicate with candidates once deadlines had passed:
 
-{{ appFigure({
-  image: {
-    file: "/apply-for-teacher-training/end-of-cycle/application-dashboard-with-opening-date.png",
-    alt: "Screenshot of a banner informing candidates that applications for courses starting in this academic year have now closed."
-  }
-}) }}
+![Screenshot of a banner informing candidates that applications for courses starting in this academic year have now closed.](/apply-for-teacher-training/end-of-cycle/application-dashboard-with-opening-date.png)
 
 Our initial designs focussed on letting candidates know about key dates so that they know when they can and cannot apply.
 
@@ -50,29 +34,11 @@ To help users navigate through a complicated system – and for technical simpli
 
 Candidates have to initiate applying again, like they do in the existing journey to apply again _within_ a recruitment cycle:
 
-{{ appFigure({
-  image: {
-    file: "/apply-for-teacher-training/apply-again/01-apply-again-banner.png",
-    alt: "Screenshot of ‘Application dashboard’ with banner asking candidate if they want to apply again."
-  },
-  caption: "Within a recruitment cycle, a candidate is asked “Do you want to apply again”?"
-}) }}
+![Screenshot of ‘Application dashboard’ with banner asking candidate if they want to apply again.](/apply-for-teacher-training/apply-again/01-apply-again-banner.png "Within a recruitment cycle, a candidate is asked “Do you want to apply again”?")
 
-{{ appFigure({
-  image: {
-    file: "/apply-for-teacher-training/apply-again/02-apply-again-page.png",
-    alt: "Screenshot of interstitial page explaining to candidate how applying again works."
-  },
-  caption: "If they click the link, an intersitital page explains how applying again works."
-}) }}
+![Screenshot of interstitial page explaining to candidate how applying again works.](/apply-for-teacher-training/apply-again/02-apply-again-page.png "If they click the link, an intersitital page explains how applying again works.")
 
-{{ appFigure({
-  image: {
-    file: "/apply-for-teacher-training/applying-again-iteration/banner.png",
-    alt: "Screenshot of ‘Your new application’ page with banner that informs the candidate that we’ve copied their application."
-  },
-  caption: "If they click ‘Start now’, we show them their new application, with information copied over from their last one."
-}) }}
+![Screenshot of ‘Your new application’ page with banner that informs the candidate that we’ve copied their application.](/apply-for-teacher-training/applying-again-iteration/banner.png "If they click ‘Start now’, we show them their new application, with information copied over from their last one.")
 
 However, we needed to adapt this journey to help users in a more complicated situation – progressing an application across 2 recruitment cycles.
 
@@ -126,21 +92,11 @@ For any technical issues using Apply for teacher training, contact us at <becomi
 
 If a candidate clicks on the link in the email or logs into their account directly, they see a banner:
 
-{{ appFigure({
-  image: {
-    file: "apply-again-banner-references.png",
-    alt: "Screenshot of a banner informing candidates that their references did not come back in time but they can still apply again."
-  }
-}) }}
+![Screenshot of a banner informing candidates that their references did not come back in time but they can still apply again.](apply-again-banner-references.png)
 
 If they click on the link in the banner, they see an interstitial page:
 
-{{ appFigure({
-  image: {
-    file: "apply-again-interstitial.png",
-    alt: "Screenshot of interstitial page explaining to candidate how applying again works."
-  }
-}) }}
+![Screenshot of interstitial page explaining to candidate how applying again works.](apply-again-interstitial.png)
 
 The content of this page changes depending on whether a candidate sees it before or after the start of the new cycle:
 
@@ -199,21 +155,11 @@ For any technical issues using Apply for teacher training, contact us at <becomi
 
 If a candidate clicks on the link in the email or logs into their account directly, they’ll see a banner:
 
-{{ appFigure({
-  image: {
-    file: "apply-again-banner-unsuccessful.png",
-    alt: "Screenshot of a banner informing candidates that their application did not lead to a place but they can still apply again."
-  }
-}) }}
+![Screenshot of a banner informing candidates that their application did not lead to a place but they can still apply again.](apply-again-banner-unsuccessful.png)
 
 If they click on the link to apply again, they’ll see an interstitial page:
 
-{{ appFigure({
-  image: {
-    file: "apply-again-interstitial.png",
-    alt: "Screenshot of interstitial page explaining to candidate how applying again works."
-  }
-}) }}
+![Screenshot of interstitial page explaining to candidate how applying again works.](apply-again-interstitial.png)
 
 The content of this page changes depending on whether a candidate sees it before or after the start of the new cycle:
 
@@ -272,12 +218,7 @@ For any technical issues using Apply for teacher training, contact us at <becomi
 
 If the candidate does not submit by 18 September, they see an interstitial if they sign back in:
 
-{{ appFigure({
-  image: {
-    file: "apply-again-interstitial-not-submitted.png",
-    alt: "Screenshot of interstitial page explaining to candidate how applying again works."
-  }
-}) }}
+![Screenshot of interstitial page explaining to candidate how applying again works.](apply-again-interstitial-not-submitted.png)
 
 The content of this page changes depending on whether a candidate sees it before or after the start of the new cycle:
 
@@ -303,10 +244,4 @@ Your course choices have been removed. You can add them again now.
 
 Candidates get messages on their task list to let them know what’s going on.
 
-{{ appFigure({
-  image: {
-    file: "your-application.png",
-    alt: "The ‘Your application’ page."
-  },
-  caption: "The task list shows a message under ‘Course choices’ and the page’s call to action is revised to explain the situation to candidate, allowing them to review their application, but not submit it at this time."
-}) }}
+![The ‘Your application’ page.](your-application.png "The task list shows a message under ‘Course choices’ and the page’s call to action is revised to explain the situation to candidate, allowing them to review their application, but not submit it at this time.")

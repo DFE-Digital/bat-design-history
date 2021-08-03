@@ -6,8 +6,6 @@ tags:
 - AN023
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 A candidate has to add 2 references when applying for the first time. When applying again, they can keep their old references or replace them.
 
 We need to adapt the references section so that it works for candidates in all scenarios. It was initially designed for candidates applying only once.
@@ -35,11 +33,7 @@ Then candidates will understand what happens with their references
 
 Rather than having static sentences explaining the above, we'll show guidance only when you add or replace a referee.
 
-{{ appFigure({
-  image: {
-    file: "showing-guidance-at-the-relevant-point-when-replacing-referees.png"
-  }
-}) }}
+![Showing guidance at the relevant point when replacing referees](showing-guidance-at-the-relevant-point-when-replacing-referees.png)
 
 ### Cutting out unnecessary steps
 
@@ -53,11 +47,7 @@ Because there’s similar guidance on the following page
 
 Candidates go straight to add their references, rather than having to go through an intermediate step.
 
-{{ appFigure({
-  image: {
-    file: "candidates-go-straight-to-add-their-referee.png"
-  }
-}) }}
+![Candidates go straight to add their references](candidates-go-straight-to-add-their-referee.png)
 
 ### Leading the candidate to the necessary actions
 
@@ -70,19 +60,11 @@ Then candidates will know they need to do this
 
 It's now clearer that you need to add another referee when you delete one, even if you do not do it now.
 
-{{ appFigure({
-  image: {
-    file: "making-it-clearer-that-you-need-to-add-another-referee.png"
-  }
-}) }}
+![Making it clearer that you need to add another referee](making-it-clearer-that-you-need-to-add-another-referee.png)
 
 We've also made it clear that you need 2 referees when you've deleted both of them.
 
-{{ appFigure({
-  image: {
-    file: "making-it-clearer-that-you-need-to-add-2-referees.png"
-  }
-}) }}
+![Making it clearer that you need to add 2 referees](making-it-clearer-that-you-need-to-add-2-referees.png)
 
 ### Marking the references section as complete when applying again
 
@@ -95,19 +77,11 @@ Then candidates will know they do not have to review the section if they do not 
 
 The section is already marked as complete when you sign in to apply again.
 
-{{ appFigure({
-  image: {
-    file: "the-box-is-already-ticked-to-show-the-references-section-is-complete.png"
-  }
-}) }}
+![Checkbox is already ticked to show the references section iscomplete](the-box-is-already-ticked-to-show-the-references-section-is-complete.png)
 
 And it's clear that you do not have to review the references section.
 
-{{ appFigure({
-  image: {
-    file: "the-references-section-is-automatically-marked-as-complete.png"
-  }
-}) }}
+![References section marked as complete](the-references-section-is-automatically-marked-as-complete.png)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

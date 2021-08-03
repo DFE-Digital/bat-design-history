@@ -80,12 +80,7 @@ Although they contend with these obstacles, response to Apply Again screens was 
 
 ## User journey
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "flow.svg"
-  }
-}) }}
+![User journey flow diagram](flow.svg)
 
 ### A note on journeys from Find
 

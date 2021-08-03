@@ -72,12 +72,7 @@ If a candidate selects a course that isn’t available on Apply, we tell them th
 
 ## User journey
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "flow.svg"
-  }
-}) }}
+![User journey flow diagram](flow.svg)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
