@@ -11,7 +11,7 @@ eleventyComputed:
 ---
 
 <style>
-  .app-figure > a { outline: 0 }
+  .app-prose figure > a { outline: 0 }
 </style>
 
 {% from "gallery/macro.njk" import appGallery with context %}
