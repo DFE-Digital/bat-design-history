@@ -4,8 +4,6 @@ description: Notify users when certain things happen and let users configure wha
 date: 2020-06-03
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Hypotheses
 
 Currently all users get the following notifications by email:

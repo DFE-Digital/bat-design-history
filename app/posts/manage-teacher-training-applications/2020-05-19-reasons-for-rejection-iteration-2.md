@@ -4,8 +4,6 @@ description: Helping providers give useful feedback to candidates who’ve been 
 date: 2020-05-12
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Hypotheses
 
 ### Tell candidates how they can improve certain aspects of their application

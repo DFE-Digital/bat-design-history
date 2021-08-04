@@ -12,8 +12,6 @@ related:
     href: /manage-teacher-training-applications/provider-context
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## The context
 
 We know that there are specific activities providers undertake when a recruitment cycle is closing. This research was to understand provider needs for:

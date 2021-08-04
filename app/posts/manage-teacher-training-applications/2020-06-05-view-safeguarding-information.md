@@ -4,9 +4,6 @@ description: The way we show sensitive material to users differs, depending on w
 date: 2020-06-05
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
-
 ## Hypotheses
 
 Currently, no users can see safeguarding information on an application. But as we're introducing the permission to see safeguarding information we want to let those users know there's information to see.
@@ -21,20 +18,12 @@ Then users with safeguarding permissions can reveal the information safely
 If the safeguarding section explains why it's hidden for users without the permission
 Then they'll be able to request permission or follow up with the user who has access
 
-
 ## Design proposals
 
 1. Users with permission to view sensitive material
-{{ appFigure({
-  image: {
-    file: "for-users-with-permission-to-view-safeguarding-information.png"
-  }
-}) }}
 
+  ![Application section with option to view sensitive material.](for-users-with-permission-to-view-safeguarding-information.png)
 
-2. Users without permission to view sensitive material
-{{ appFigure({
-  image: {
-    file: "for-users-without-permission-to-view-safeguarding-information.png"
-  }
-}) }}
+1. Users without permission to view sensitive material
+
+  ![Application section with access restricted to viewing sensitive material.](for-users-without-permission-to-view-safeguarding-information.png)

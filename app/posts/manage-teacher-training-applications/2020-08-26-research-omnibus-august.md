@@ -16,10 +16,8 @@ related:
     href: /manage-teacher-training-applications/diversity-information
   - text: Exporting applications
     href: /manage-teacher-training-applications/exporting-application-data
-    
----
 
-{% from "figure/macro.njk" import appFigure with context %}
+---
 
 ## The context
 

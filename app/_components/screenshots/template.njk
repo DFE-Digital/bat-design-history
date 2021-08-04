@@ -1,4 +1,3 @@
-{%- from "../figure/macro.njk" import appFigure with context -%}
 {%- set title = params.title or "Screenshots" -%}
 {%- set headingLevel = params.headingLevel or 2 -%}
 <section class="app-screenshots app-prose govuk-!-margin-top-9" id="screenshots">
@@ -20,16 +19,18 @@
   {%- set id = item.id or (item.text | slug) -%}
   {%- set file = item.img.src or (id + ".png") -%}
   {%- set alt = item.img.alt or ("Screenshot of " + item.text) -%}
-  <div class="app-screenshots__screenshot" id="{{ id }}">
-    {{ appFigure({
-      id: id,
-      image: {
-        file: file,
-        alt: alt
-      },
-      title: item.text,
-      caption: item.caption
-    }) }}
-  </div>
+  <figure class="app-screenshots__screenshot" id="{{ id }}">
+    <h{{ headingLevel + 1 }} class="govuk-heading-s">
+      {{ item.text }}<a class="header-anchor" href="#{{ id }}">#</a>
+    </h{{ headingLevel + 1 }}>
+    <a href="{{ file }}">
+      <img src="{{ file }}" alt="{{ alt }}">
+    </a>
+    {% if item.caption %}
+      <figcaption>
+        {{ item.caption | markdown | safe }}
+      </figcaption>
+    {% endif %}
+  </figure>
 {%- endfor %}
 </section>

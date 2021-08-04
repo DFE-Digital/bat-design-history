@@ -27,15 +27,9 @@ An assumption in this first design is that we need to support registering traine
     }]
 }) }}
 
-
 Once trainees are submitted for TRN, we will prevent them being submitted for QTS until a start date is added.
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "trainee-record-page.png"
-  }
-}) }}
 
+![Trainee record page](trainee-record-page.png)
 
 ## Future work
 

@@ -20,13 +20,7 @@ In late September and early October 2020 we received enquiries from organisation
 
 Publish previously allowed organisations to provide a common fee for UK and EU students as a required field and an optional fee for international students.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/original-edit-course-fees.png",
-    alt: "Screenshot the original edit course length and fees page."
-  }
-}) }}
+![Screenshot the original edit course length and fees page.](/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/original-edit-course-fees.png)
 
 ## Design notes
 

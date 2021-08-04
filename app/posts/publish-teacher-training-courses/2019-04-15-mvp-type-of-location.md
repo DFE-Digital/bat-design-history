@@ -14,10 +14,4 @@ In the design below, if a user selects ‘An area’, then we would validate dif
 
 A [more complete workflow was previously designed and tested](/publish-teacher-training-courses/new-training-location-region).
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "type-of-location.png"
-  },
-  caption: "Type of location"
-}) }}
+![Type of location.](type-of-location.png "Type of location")

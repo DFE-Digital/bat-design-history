@@ -3,10 +3,7 @@ title: Investigating free text responses from Apply
 description: Looking at data submitted to Apply and how it might impact Register
 date: 2021-04-20
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "figure/macro.njk" import appFigure with context %}
 {% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
-
 
 As part of importing applications from Apply, we have a challenge that some of the data we get may not meet the requirements of our downstream systems. In particular, for some fields applicants can give free text responses, where we (currently) require an answer from a fixed list.
 
@@ -121,7 +118,7 @@ There are some fields where we require a response from a fixed list, where Apply
 
 We can see that the majority of these most common free text entries are things a human might understand (and do correspond to one of our fixed values), but for some reason the relevant autocomplete option was not picked.
 
-The Apply candidate team have already done work to improve the chances that the correct answer is selected - including better validation and improvements to the autocomplete. 
+The Apply candidate team have already done work to improve the chances that the correct answer is selected - including better validation and improvements to the autocomplete.
 
 However, where Register does receive responses like this, if we believe the answer unambiguously maps to one of our fixed options, we’ll automatically convert them.
 
@@ -318,7 +315,7 @@ We can see that most of the remaining free text answers are where the user did n
         text: "5"
       }
     ]
-    
+
   ]
 }) }}
 

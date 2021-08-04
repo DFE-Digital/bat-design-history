@@ -11,8 +11,6 @@ related:
   - text: Adding School direct routes
     href: /register-trainee-teachers/school-direct-routes/
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "figure/macro.njk" import appFigure with context %}
 
 Several fields in Register require users to search for a school - placement location, lead school and employing school.
 
@@ -31,24 +29,15 @@ The [Get information about schools service](https://www.get-information-schools.
 
 In this iteration, we’re using these findings to explore using an autocomplete for the lookup. It looks like this:
 
-{{ appFigure({
-  image: {
-    file: "schools-autocomplete-name.gif",
-    alt: "A user types in a school name and is shown a set of results that narrows as they type more characters."
-  }
-}) }}
+![A user types in a school name and is shown a set of results that narrows as they type more characters.](schools-autocomplete-name.gif)
 
 You can search by school name, URN, or postcode.
 
 There are lots of schools with similar names - which is why we’ve included the URN, town, and postcode. Searching for a URN is something we’d like to encourage as you’re more likely to get to an exact result. If the name returned is the one you know, you’ve definitely picked the right one.
 
 Searching for a URN looks similar:
-{{ appFigure({
-  image: {
-    file: "schools-autocomplete-urn.gif",
-    alt: "A user types in a school URN and is shown a set of results that narrows as they type more characters."
-  }
-}) }}
+
+![A user types in a school URN and is shown a set of results that narrows as they type more characters.](schools-autocomplete-urn.gif)
 
 There are some pros and cons of using an autocomplete.
 

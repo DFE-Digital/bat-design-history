@@ -8,7 +8,7 @@
   grid-template-columns: repeat(auto-fill, minmax(16rem,1fr));
   grid-gap: govuk-spacing(6);
 
-  .app-figure {
+  figure {
     @include govuk-responsive-margin(2, "bottom");
 
     > a {

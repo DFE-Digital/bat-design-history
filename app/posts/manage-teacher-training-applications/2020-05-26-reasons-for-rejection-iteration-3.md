@@ -4,8 +4,6 @@ description: Combined some questions onto one page, added an additional question
 date: 2020-05-26
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Hypotheses
 
 ### Combine questions onto one page

@@ -3,7 +3,6 @@ title: Unassigning applications when a user is deleted
 description: Letting the signed in user know that applications will be unassigned if they delete a user from an organisation
 date: 2021-07-07
 ---
-{% from "figure/macro.njk" import appFigure with context %}
 
 This is part of the work to [let users assign applications to themselves or other users](/manage-teacher-training-applications/assigning-applications-to-users/).
 
@@ -31,21 +30,11 @@ The message includes a link to the applications list, with filters applied to sh
 
 This gives the signed in user the opportunity to reassign applications.
 
-{{ appFigure({
-  image: {
-    file: "unassigning-applications-delete-user-confirmation-message.png",
-    alt: "The delete user confirmation screen with a message saying that applications are assigned to the user"
-  }
-}) }}
+![The delete user confirmation screen with a message saying that applications are assigned to the user.](unassigning-applications-delete-user-confirmation-message.png)
 
 If no applications meet the criteria, we do not display a message.
 
-{{ appFigure({
-  image: {
-    file: "unassigning-applications-delete-user-confirmation-no-message.png",
-    alt: "The delete user confirmation screen without any message about assigned applications"
-  }
-}) }}
+![The delete user confirmation screen without any message about assigned applications.](unassigning-applications-delete-user-confirmation-no-message.png)
 
 ### After the user has been deleted
 

@@ -52,12 +52,7 @@ Rather than simply giving a deadline, we are transparent about the fact that cou
 
 Asking candidates to talk to their provider may help them understand course availability and take appropriate action.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "your-application-with-first-deadline.png"
-  }
-}) }}
+![First deadline banner on application page.](your-application-with-first-deadline.png)
 
 ### Showing the deadline for candidates applying for the second time
 
@@ -72,11 +67,7 @@ The banner will show until 18 September.
 
 Again, we’re transparent about the fact that courses can fill up at any time, and advise candidates to contact their provider.
 
-{{ appFigure({
-  image: {
-    file: "your-application-with-second-deadline.png"
-  }
-}) }}
+![Second deadline banner on application page.](your-application-with-second-deadline.png)
 
 ### Showing the deadline for candidates who are in between applications
 
@@ -86,19 +77,11 @@ This appears for candidates who have finished an application without accepting a
 
 This banner will show until 18 September.
 
-{{ appFigure({
-  image: {
-    file: "application-dashboard-with-second-deadline.png"
-  }
-}) }}
+![Apply again banner showing deadline.](application-dashboard-with-second-deadline.png)
 
 After 18 September, we inform candidates that applications reopen from 13 October – rather than showing them the above message.
 
-{{ appFigure({
-  image: {
-    file: "application-dashboard-with-opening-date.png"
-  }
-}) }}
+![Banner informing candidates when applications re-open.](application-dashboard-with-opening-date.png)
 
 ### Telling candidates what to do if they have an application in progress and miss their deadline
 
@@ -109,11 +92,7 @@ This banner appears on the main menu for candidates who:
 * created an account by 24 August
 * did not submit by their deadline
 
-{{ appFigure({
-  image: {
-    file: "your-application-with-opening-date.png"
-  }
-}) }}
+![Banner informing candidates when applications reopen.](your-application-with-opening-date.png)
 
 Asking the candidate to come back at a later date shows that their work is not wasted.
 
@@ -123,11 +102,7 @@ We’ll prevent candidates from adding courses if they miss their deadline becau
 
 Instead of asking candidates to choose a course, we’ll let them know that they can find courses from 13 October:
 
-{{ appFigure({
-  image: {
-    file: "your-application-course-choices.png"
-  }
-}) }}
+![Application page informing candidates when courses can be chosen.](your-application-course-choices.png)
 
 ### Preventing candidates from submitting after their deadline
 
@@ -135,11 +110,7 @@ We’ll also prevent candidates from submitting if they miss their deadline.
 
 Instead of a submit button, we’ll invite candidates to review their application:
 
-{{ appFigure({
-  image: {
-    file: "your-application-review.png"
-  }
-}) }}
+![Button inviting candidates to review their application.](your-application-review.png)
 
 This may encourage candidates to continue their application even if they cannot submit.
 
@@ -153,10 +124,6 @@ We took this decision to simplify a potentially complex and painful user journey
 
 If a candidate tries to create an account between 25 August and 12 October we’ll show this message:
 
-{{ appFigure({
-  image: {
-    file: "create-an-account.png"
-  }
-}) }}
+![Create an account page with message informing candidates that applications have now closed.](create-an-account.png)
 
 In the future we could reconsider the recruitment process – perhaps allowing candidates to create an account all year round.

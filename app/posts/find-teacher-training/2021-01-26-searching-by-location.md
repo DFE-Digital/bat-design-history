@@ -95,27 +95,11 @@ We could include standardised content about how placements work and explain that
 
 To distinguish between provider-generated content and standardised guidance, we can use a box out device and link back to related content on Get Into Teaching. By using Get Into Teaching brand colours, we can give a subtle nod back to that part of the user journey.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "standardised-guidance-school-placements.png"
-  },
-  caption: "An example of standardised guidance about school placements."
-}) }}
+![Standardised guidance boxout.](standardised-guidance-school-placements.png "An example of standardised guidance about school placements.")
 
-{{ appFigure({
-  image: {
-    file: "standardised-guidance-qualifications.png"
-  },
-  caption: "An example of standardised guidance about qualifications."
-}) }}
+![Standardised guidance boxout.](standardised-guidance-qualifications.png "An example of standardised guidance about qualifications.")
 
-{{ appFigure({
-  image: {
-    file: "standardised-guidance-financial-support.png"
-  },
-  caption: "An example of standardised guidance about financial support."
-}) }}
+![Standardised guidance boxout.](standardised-guidance-financial-support.png "An example of standardised guidance about financial support.")
 
 Finally, we currently show a map of the training locations a provider has given, alongside a table which shows a code for each location. This map gives an impression of accuracy and certainty, which doesn’t reflect reality, while the list of location codes is only useful if you decide to apply with UCAS.
 

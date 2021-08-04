@@ -26,14 +26,7 @@ We decided to keep the headings short as we have no control over column width in
 
 If an SD was already using Manage, the contact name and email cells would be pre-filled with ‘Not needed - already has account’.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "sd-contact-details-spreadsheet.png",
-    alt: "Spreadsheet for gathering SD contact details"
-  },
-  caption: "Spreadsheet for gathering SD contact details"
-}) }}
+![Spreadsheet for gathering SD contact details.](sd-contact-details-spreadsheet.png "Spreadsheet for gathering SD contact details")
 
 We also created an email explaining what we wanted users to do. It asked them to either:
 

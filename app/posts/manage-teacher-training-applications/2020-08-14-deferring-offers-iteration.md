@@ -6,8 +6,6 @@ tags:
 - MN016
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 The [previous iteration](/manage-teacher-training-applications/deferring-applications-to-the-next-cycle) let users change the cycle for an application on the application page.
 
 But research showed that providers think and talk about this process as deferring an offer.
