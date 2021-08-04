@@ -4,11 +4,11 @@ title: Support for Apply
 description: A tool for support agents to manage the Apply for teacher training service
 related:
   items:
-  - text: Prototype
-    description: |
-      Username: `apply`
-      Password: `bat`
-    href: https://support-for-apply-prototype.herokuapp.com
+    - text: Prototype
+      description: |
+        Username: `apply`
+        Password: `bat`
+      href: https://support-for-apply-prototype.herokuapp.com
 pagination:
   data: collections.support-for-apply
   reverse: true
