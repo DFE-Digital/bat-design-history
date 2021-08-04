@@ -1,7 +1,6 @@
 ---
 title: Initial placements findings
 description: Initial findings on placements show they are more complex than we initially thought.
-
 date: 2021-05-01
 ---
 

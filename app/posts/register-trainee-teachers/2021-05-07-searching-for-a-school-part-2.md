@@ -4,10 +4,10 @@ description: Designs for our non-JavaScript school search
 date: 2021-05-07
 related:
   items:
-  - text: Searching for a school
-    href: /register-trainee-teachers/searching-for-a-school/
-  - text: Adding School direct routes
-    href: /register-trainee-teachers/school-direct-routes/
+    - text: Searching for a school
+      href: /register-trainee-teachers/searching-for-a-school/
+    - text: Adding School direct routes
+      href: /register-trainee-teachers/school-direct-routes/
 ---
 
 In [part 1](../searching-for-a-school) we explored using an autocomplete to help users search for schools. The prototype worked well for quickly picking a school - but it requires JavaScript to be running successfully for it to be used. Not everyone has JavaScript and it doesn’t always run successfully. We need a fallback / no-JavaScript version that we can progressively enhance from.

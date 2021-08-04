@@ -4,12 +4,12 @@ description: Exploring using an autocomplete to pick schools
 date: 2021-04-08
 related:
   items:
-  - text: Collecting placement details
-    href: /register-trainee-teachers/collecting-placement-details/
-  - text: Publish’s schools autocomplete
-    href: /publish-teacher-training-courses/schools-autocomplete/
-  - text: Adding School direct routes
-    href: /register-trainee-teachers/school-direct-routes/
+    - text: Collecting placement details
+      href: /register-trainee-teachers/collecting-placement-details/
+    - text: Publish’s schools autocomplete
+      href: /publish-teacher-training-courses/schools-autocomplete/
+    - text: Adding School direct routes
+      href: /register-trainee-teachers/school-direct-routes/
 ---
 
 Several fields in Register require users to search for a school - placement location, lead school and employing school.
