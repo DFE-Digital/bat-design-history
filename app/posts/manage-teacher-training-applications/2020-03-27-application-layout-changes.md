@@ -16,7 +16,7 @@ If we let users download the application as a PDF then they can print it out or 
 
 We'll know this works when we see users sharing the PDF application with colleagues.
 
-![](download.png)
+![Screenshot of ‘Download application (PDF)’ link.](download.png)
 
 ### Layout of disability, access and other needs
 
@@ -27,7 +27,7 @@ Disability information needs to be accessed after the application has been revie
 If we include "disability" in the title and move it to the top
 Then providers will understand it and be able to get to it more easily
 
-![](disability.png)
+![Screenshot of ‘Disability, access and other needs’ section of application form.](disability.png)
 
 ### Layout of criminal convictions and professional misconduct
 
@@ -42,7 +42,7 @@ Therefore, it makes more sense to put safeguarding information to be in a place 
 If the section is labelled ‘Criminal convictions and professional misconduct’ and displayed toward the top
 Then providers will understand it and be able to get to it more easily
 
-![](criminal-convictions.png)
+![Screenshot of ‘Criminal convictions and professional misconduct’ section of application form.](criminal-convictions.png)
 
 ### Layout of work history and unpaid experience sections
 
@@ -51,7 +51,7 @@ Previously these sections were [designed with collapsed sections](/manage-teache
 If the sections are laid using headings and paragraphs
 Then it'll be more familiar, easier to read and won't need to be revealed
 
-![](work-history.png)
+![Screenshot of ‘Work history’ section of application form.](work-history.png)
 
 ### Layout of personal statement section
 
@@ -62,7 +62,7 @@ Previously the [personal statement used a summary list](/manage-teacher-training
 
 If the sections are laid out with simple headings, paragraphs and sensible line lengths, then it'll be easy to read
 
-![](personal-statement.png)
+![Screenshot of ‘Personal statement’ section of application form.](personal-statement.png)
 
 ### Layout of references section
 
@@ -73,7 +73,7 @@ But putting multiple answers in one row could confuse users—especially screen 
 If we use one row per question
 Then the row's key will clearly describe the row's value so users will understand it
 
-![](references.png)
+![Screenshot of ‘First referee’ section of application form.](references.png)
 
 ### Box panel for offer
 
@@ -84,7 +84,7 @@ But with the addition of the notes section, making the offer panel more prominen
 If we just use headings and whitespace to differentiate between the parts of the page
 Then the sections of the page will be more equally weighted
 
-![](offer.png)
+![Screenshot of application page with ‘Offered’ status tag.](offer.png)
 
 ### Box panel for respond to application
 
@@ -106,4 +106,4 @@ We'll know this works when:
 
 * users spot the banner and click on ‘Respond to application’
 
-![](banner.png)
+![Screenshot of banner on application page.](banner.png)

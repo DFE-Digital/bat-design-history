@@ -35,7 +35,7 @@ So now we show the course details in context of making a decision so they don’
 
 Previously the page looked like this:
 
-![](check--before.png "Check answers: before")
+![Screenshot of check answers page before change.](check--before.png "Check answers: before")
 
 We spotted the following issues:
 
@@ -45,7 +45,7 @@ We spotted the following issues:
 
 Here’s the new version which addresses these issues:
 
-![](make-offer--check.png "Check answers: after")
+![Screenshot of check answers page after change.](make-offer--check.png "Check answers: after")
 
 ## Making the conditions screen consistent
 

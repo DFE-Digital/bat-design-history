@@ -21,7 +21,7 @@ But really we need to make it clear that they have successfully agreed to the da
 If we show the user a confirmation page
 Then they'll know what's happened and what they have to do next
 
-![](data-sharing-confirmation-page.png)
+![Screenshot of confirmation page.](data-sharing-confirmation-page.png)
 
 ### Don’t ask users to set up permissions for courses that they both run and ratify
 
@@ -39,7 +39,7 @@ In the previous iteration we used a standard check answers page. But the key-val
 If we stack the content instead of using the [summary list](https://design-system.service.gov.uk/components/summary-list/) component
 Then the content will be much easier to read
 
-![](organisation-setup-check-answers-page.png)
+![Screenshot of ‘Check permissions’ page.](organisation-setup-check-answers-page.png)
 
 ### Make sure the heading makes sense when setting up user-level permissions
 
@@ -50,7 +50,7 @@ But that only makes sense for the ‘Make decisions’ and ‘Access safeguardin
 If the title is changed to ‘Select permissions: Ventrus Teaching School Alliance’
 Then it makes sense for all 4 permissions
 
-![](invite-user-permissions-page-2.png)
+![Screenshot of ‘Select permissions’ page.](invite-user-permissions-page-2.png)
 
 ### Make sure the content makes sense when inviting a user to an accredited body
 
@@ -61,7 +61,7 @@ But this is wrong when the user works for an accredited body. It should read som
 If we change the hint text to work for an accredited body
 Then users won’t be confused by incorrect descriptions
 
-![](invite-user-permissions-page-1.png)
+![Screenshot of ‘Select permissions’ page.](invite-user-permissions-page-1.png)
 
 ### Warn the user of the consequences of inviting someone from outside of their organisation
 
@@ -72,7 +72,7 @@ This might be fine, but without guidance, the user might accidentally invite som
 If we warn the user of the consequences of inviting someone ot their organisation
 Then it will be far less likely that the they’ll invite someone from outside of their organisation by mistake
 
-![](invite-warning.png)
+![Screenshot of ‘Basic details’ page.](invite-warning.png)
 
 ### Use tick icons for bullets on organisation details page
 
@@ -81,7 +81,7 @@ In the previous iteration, we used a bulleted list for each permission. But on a
 If we use tick icons for permissions
 Then users will recognise the items as permissions more easily
 
-![](organisation-details-page-2.png)
+![Screenshot of organisation details page.](organisation-details-page-2.png)
 
 ### Use the blue box to explain how to change permissions as an accredited body
 
@@ -92,7 +92,7 @@ But this got a bit lost amongst the rest of the content and was inconsistent to 
 If we use the blue box for this content
 Then users will find it easier to read
 
-![](organisation-details-page-1.png)
+![Screenshot of organisation details page showing blue boxes.](organisation-details-page-1.png)
 
 ## Differences when the user belongs to just one organisation
 

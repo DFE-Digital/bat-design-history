@@ -22,11 +22,11 @@ The application page now uses the task view so there’s a heading at the top of
 
 When the next cycle begins any deferred offered will be at the top of the application list.
 
-![](application-list.png)
+![Screenshot of ‘Applications’ page.](application-list.png)
 
 Clicking on an application will show a prompt under the h1 to review and confirm the deferred offer.
 
-![](reconfirm-banner.png)
+![Screenshot of application page with reconfirmation prompt below the page heading.](reconfirm-banner.png)
 
 There are 3 flows we’ve prototyped to help with the initial round of user research:
 
@@ -40,47 +40,47 @@ This is the most common scenario and is easiest to deal with.
 
 When the user clicks the ‘Review offer’ button they jump straight to the check answers screen.
 
-![](1-check-answers.png)
+![Screenshot of ‘Review offer’ page.](1-check-answers.png)
 
 They have an opportunity to change details or add a conditon if they need.
 
 The new offer is shown above the old offer on the offer page.
 
-![](1-success.png)
+![Screenshot of application page with success banner.](1-success.png)
 
 ## 2. The course no longer runs in the next cycle
 
 When the user clicks the ‘Review offer’ button they’re told they need to choose another course.
 
-![](2-step1.png)
+![Screenshot of ‘Review deferred offer’ page.](2-step1.png)
 
 Clicking continue lets users choose another course.
 
-![](2-step2.png)
+![Screenshot of ‘Select training provider’ form.](2-step2.png)
 
 If the user belongs to multiple providers they see the provider page otherwise they skip this page.
 
 Then they see the course page.
 
-![](2-step3.png)
+![Screenshot of ‘Select course’ form.](2-step3.png)
 
 Then they see the location page.
 
-![](2-step4.png)
+![Screenshot of ‘Select location’ form.](2-step4.png)
 
 Then they see the conditions page.
 
-![](2-step5.png)
+![Screenshot of ‘Conditions of offer’ form.](2-step5.png)
 
 Then they see the check answers page.
 
-![](2-step6.png)
+![Screenshot of ‘Review offer’ page.](2-step6.png)
 
 ## 3. The location for a course is no longer available in the next cycle
 
 When the user clicks the ‘Review offer’ button they’re told they need to choose another location or another course.
 
-![](3-step1.png)
+![Screenshot of ‘Review deferred offer’ page with a warning about the location.](3-step1.png)
 
 Clicking choose course takes the user down the same flow as above.
 

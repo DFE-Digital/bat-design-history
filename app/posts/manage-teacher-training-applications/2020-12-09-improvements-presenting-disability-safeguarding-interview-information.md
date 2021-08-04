@@ -15,8 +15,8 @@ The questions currently in the application service, and their respective respons
 Question to candidate | Answer ‘no’ | Answered ‘yes’ | Was never asked
 ----------------------|-------------|----------------|----------------
 Do you have any interview needs? | No preferences. | [Their answer] | No preferences.
-Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding. <br><br> [Their answer] | Never asked |
-Do you want to ask for help to become a teacher? | No information shared. | [Their answer] |  |
+Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding.<br><br>[Their answer] | Never asked |
+Do you want to ask for help to become a teacher? | No information shared. | [Their answer] | |
 
 ## Improvements summary
 
@@ -29,7 +29,7 @@ We have made the following improvements to the presentation of this information:
 - no longer hide the safeguarding information with the Details component
 - use generic wording for users without permission to view safeguarding information
 
-![](inline.png)
+![Screenshot of ‘Disability support’, ‘Safeguarding issues’ and ‘Interview needs’ sections of the application page.](inline.png)
 
 ## Putting the content into summary lists (tables)
 

@@ -22,11 +22,11 @@ To reduce the burden on the support team, we’re going to let accredited body u
 
 After the user signs the data sharing agreement, they’ll see a confirmation page prompting them to set up organisational permissions. This page is the same as for training providers.
 
-![](dsa--set-up-permissions.png)
+![Screenshot of ‘Data sharing agreement signed’ confirmation page.](dsa--set-up-permissions.png)
 
 The start page content is also the same as for training providers.
 
-![](set-up-org-permissions-start-page.png)
+![Screenshot of ‘Set up organisational permissions’ page.](set-up-org-permissions-start-page.png)
 
 If the user belongs to multiple organisations then each has its own subheading. The first sentence under each subheading will say ‘run by’ for accredited bodies and ‘ratified by’ for training providers.
 
@@ -34,30 +34,30 @@ If the user belongs to both the accredited body and training provider, we will n
 
 In the example below, Springbank SCITT is not shown under Wren Academy. This is because the relationship has already been shown under Springbank SCITT and they only need to set permissions once.
 
-![](set-up-org-permissions-start-page--multi.png)
+![Screenshot of ‘Set up organisational permissions’ page.](set-up-org-permissions-start-page--multi.png)
 
 After the start page, the user needs to choose organisational permissions for each relationship.
 
-![](set-up-org-permissions-relationship.png)
+![Screenshot of ‘Set up organisational permissions’ form.](set-up-org-permissions-relationship.png)
 
 There are no changes to the check answers page.
 
-![](set-up-org-permissions-check-answers.png)
+![Screenshot of ‘Check and save organisational permissions’ page.](set-up-org-permissions-check-answers.png)
 
 The confirmation page also remains the same.
 
-![](set-up-org-permissions-confirmation.png)
+![Screenshot of ‘Organisational permissions set up’ confirmation page.](set-up-org-permissions-confirmation.png)
 
 ### Changing organisational permissions
 
 When the user goes to the organisational permissions page, they’ll be able to click ‘Change permissions’.
 
-![](org-permissions.png)
+![Screenshot of ‘Organisational permissions’ page.](org-permissions.png)
 
 The rest of the flow is the same as for training providers. The user must choose the new organisational permissions.
 
-![](change-org-permissions.png)
+![Screenshot of ‘Change permissions’ form.](change-org-permissions.png)
 
 The user then returns to the ‘organisational permissions’ page, with a success banner showing that the change has been made.
 
-![](change-org-permissions-success.png)
+![Screenshot of ‘Organisational permissions’ page with success banner.](change-org-permissions-success.png)

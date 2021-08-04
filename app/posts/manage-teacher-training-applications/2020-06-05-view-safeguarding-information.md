@@ -22,8 +22,8 @@ Then they'll be able to request permission or follow up with the user who has ac
 
 1. Users with permission to view sensitive material
 
-  ![](for-users-with-permission-to-view-safeguarding-information.png)
+  ![Application section with option to view sensitive material.](for-users-with-permission-to-view-safeguarding-information.png)
 
-2. Users without permission to view sensitive material
+1. Users without permission to view sensitive material
 
-  ![](for-users-without-permission-to-view-safeguarding-information.png)
+  ![Application section with access restricted to viewing sensitive material.](for-users-without-permission-to-view-safeguarding-information.png)

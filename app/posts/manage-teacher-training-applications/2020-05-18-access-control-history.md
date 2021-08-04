@@ -25,7 +25,6 @@ How can we go about achieving this in the Manage service?
   * [Worked examples](#worked-examples)
 * [Appendix - UCAS Weblink Screenshots](#appendix---ucas-weblink-screenshots)
 
-
 ## The initial problem statement
 
 ### Who are our users?
@@ -47,7 +46,7 @@ Organisations can deliver initial teacher training through various organisationa
 
 The most common organisational structures for providers are shown below:
 
-![](organisation-structures.png)
+![Diagram of organisational structures.](organisation-structures.png)
 
 ### Why do we need to look into this?
 
@@ -118,6 +117,7 @@ For a short story of this, see our [show and tell slides](https://docs.google.co
 **Goal:** We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
 
 We formulated a starting hypothesis to test:
+
 > By introducing access controls ( e.g. read only vs. authorised to make decisions) we can better support provider users to manage applications across different organisational structures. Specifically, we can mitigate the risk of information being seen, or decisions being made, by the wrong person.
 > By implementing this, we’ll be able to give providers more flexibility to manage their own partnerships.
 

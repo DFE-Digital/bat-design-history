@@ -19,14 +19,14 @@ If the user hasn’t added a note before there will be an extra piece of guidanc
 
 If there are no notes at all, there will be an extra line above the ‘Add note’ button that says ‘There are no notes yet’.
 
-![](notes-page.png)
+![Screenshot of empty notes page.](notes-page.png)
 
 When the user clicks ‘Add note’ they’re taken to the interstitial page explaining how notes work.
 
-![](interstitial.png)
+![Screenshot of interstitial page explainin how notes work.](interstitial.png)
 
 They can click the checkbox to stop this page showing again.
 
 Clicking ‘Continue’ will take the user to add a note like normal.
 
-![](add-note.png)
+![Screenshot of ‘Add note’ form.](add-note.png)

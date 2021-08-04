@@ -17,11 +17,11 @@ S we’ve made the prompt clearer by:
 * explaining the situation of the deferred offer – for example, that the course is available in the new cycle
 * using more explicit button text
 
-![](prompt--course-available.png "Prompt when the course is available")
+![Prompt when the course is available.](prompt--course-available.png "Prompt when the course is available")
 
-![](prompt--location-unavailable.png "Prompt when the location is unavailable")
+![Prompt when the location is unavailable.](prompt--location-unavailable.png "Prompt when the location is unavailable")
 
-![](prompt--course-unavailable.png "Prompt when the course is unavailable")
+![Prompt when the course is unavailable.](prompt--course-unavailable.png "Prompt when the course is unavailable")
 
 ## Welcome screen
 
@@ -31,7 +31,7 @@ But providers may need to change the status of the conditions from met to pendin
 
 So we now send users to a welcome screen to set the scene (like we do when the course or location is unavailable).
 
-![](welcome--course-available.png "Welcome screen when the course is available")
+![Welcome screen when the course is available.](welcome--course-available.png "Welcome screen when the course is available")
 
 We also:
 
@@ -39,17 +39,17 @@ We also:
 * moved the deferred offer details up
 * collapsed the deferred offer within a Details component
 
-![](welcome--location-unavailable.png "Welcome screen when the location is unavailable")
+![Welcome screen when the location is unavailable.](welcome--location-unavailable.png "Welcome screen when the location is unavailable")
 
-![](welcome--course-unavailable.png "Welcome screen when the course is unavailable")
+![Welcome screen when the course is unavailable.](welcome--course-unavailable.png "Welcome screen when the course is unavailable")
 
 ## First release: reconfirming an offer via support
 
 To reduce development effort the first release will ask users to contact support to reconfirm an offer if the course or location is no longer available in the new cycle.
 
-![](welcome--support-1.png "Welcome screen when the location is unavailable and a support agent has to reconfirm the offer on behalf of the provider")
+![Welcome screen when the location is unavailable and a support agent has to reconfirm the offer on behalf of the provider.](welcome--support-1.png "Welcome screen when the location is unavailable and a support agent has to reconfirm the offer on behalf of the provider")
 
-![](welcome--support-2.png "Welcome screen when the course is unavailable and a support agent has to reconfirm the offer on behalf of the provider")
+![Welcome screen when the course is unavailable and a support agent has to reconfirm the offer on behalf of the provider.](welcome--support-2.png "Welcome screen when the course is unavailable and a support agent has to reconfirm the offer on behalf of the provider")
 
 ## Confirming the status of conditions
 
@@ -59,11 +59,11 @@ But this puts the onus on the user to find the action and remember to do it.
 
 So now we send users directly to a check the status of the conditions as part of the flow.
 
-![](confirm-statuses--combined.png "Confirming statuses when the conditions are already met and tracked together")
+![Confirming statuses when the conditions are already met and tracked together.](confirm-statuses--combined.png "Confirming statuses when the conditions are already met and tracked together")
 
-![](confirm-statuses--combined-pending.png "Confirming statuses when the conditions are still pending and tracked together")
+![Confirming statuses when the conditions are still pending and tracked together.](confirm-statuses--combined-pending.png "Confirming statuses when the conditions are still pending and tracked together")
 
-![](confirm-statuses--individual.png "Confirming statuses when the conditions are tracked individually")
+![Confirming statuses when the conditions are tracked individually.](confirm-statuses--individual.png "Confirming statuses when the conditions are tracked individually")
 
 ## Improving the review offer screen
 
@@ -77,9 +77,9 @@ We improved the review screen as follows:
 
 The last screen in the flow lets users review their new offer.
 
-![](review--combined.png "Review page when the conditions are tracked together")
+![Review page when the conditions are tracked together.](review--combined.png "Review page when the conditions are tracked together")
 
-![](review--individual.png "Review page when the conditions are tracked individually")
+![Review page when the conditions are tracked individually.](review--individual.png "Review page when the conditions are tracked individually")
 
 ## Updating the timeline when reconfirming a deferred offer
 
@@ -87,4 +87,4 @@ In the previous iteration we forgot to update the timeline to reflect the action
 
 Now the act of reconfirming a deferred offer, shows at the top of the timeline.
 
-![](timeline.png "Timeline with ‘Offer reconfirmed’ event")
+![Timeline with ‘Offer reconfirmed’ event.](timeline.png "Timeline with ‘Offer reconfirmed’ event")

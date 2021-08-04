@@ -10,7 +10,7 @@ This post documents how we have introduced manual export alongside the existing 
 
 A HESA export is currently available in production:
 
-![](hesa-export--current.png "Export page for HESA data")
+![Screenhost of export page for HESA data.](hesa-export--current.png "Export page for HESA data")
 
 We originally planned to replace the HESA export with a [manual export we designed previously](/manage-teacher-training-applications/export/).
 

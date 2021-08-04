@@ -19,4 +19,4 @@ Or we could show the same error message in both fields which isn’t ideal becau
 If we use group permissions by type intead of organisation
 Then we can show one error message per field
 
-![](type.png)
+![Screenshot of permissions page grouping permissions by type intead of organisation.](type.png)

@@ -33,9 +33,9 @@ The [previous design](/manage-teacher-training-applications/setting-up-permissio
 If we show the user they're part of multiple organisations
 Then they'll understand what’s about to happen on the following screens
 
-![](before-you-start.png)
+![Screenshot of ‘Set up permissions for your organisation’ page.](before-you-start.png)
 
-![](data-sharing.png)
+![Screenshot of ‘Data sharing agreement’ page.](data-sharing.png)
 
 ### Making sure users understand permissions
 
@@ -46,7 +46,7 @@ But there’s a lot of information to digest and we want to be sure users unders
 If we put this information on a dedicated page before they select permissions
 Then users will have the best chance of understanding how permissions work
 
-![](step2.png)
+![Screenshot of ‘Understanding access permissions’ page.](step2.png)
 
 ### Making it easier to understand permissions when setting up permissions between organisations
 
@@ -57,7 +57,7 @@ Each permission type is collapsed inside a Details panel. This is a little messy
 If we put the information behind a single panel
 Then the user will have less to scan through
 
-![](step3.png)
+![Screenshot of page showing an opened Details panel.](step3.png)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

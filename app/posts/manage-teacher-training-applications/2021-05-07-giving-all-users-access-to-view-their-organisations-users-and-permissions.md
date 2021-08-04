@@ -22,7 +22,7 @@ Users who cannot manage organisational permissions will:
 - see a message saying ‘You cannot change these permissions because you do not have permission to manage organisations.’
 - not see the ‘Change permissions’ links
 
-![](organisational-permissions.png)
+![Screenshot of organisational permissions page.](organisational-permissions.png)
 
 ### User list page
 
@@ -31,7 +31,7 @@ Users who cannot manage users will:
 - see a message saying ‘You cannot invite users to the service because you do not have permission to manage users.’
 - not see the ‘Invite user’ button
 
-![](user-list.png)
+![Screenshot of users list page.](user-list.png)
 
 ### User details page
 
@@ -40,7 +40,7 @@ Users who cannot manage users will:
 - see a message saying ‘You cannot change these details because you do not have permission to manage users.’
 - not see the ‘change’ links
 
-![](user-details.png)
+![Screenshot of user details page.](user-details.png)
 
 ### Remove descriptions for profile, email notifications, users and organisational permissions
 
@@ -51,22 +51,22 @@ We removed the descriptions because:
 - it’s easier for users to scan a simple list of links
 - the descriptions would need to be customised based on whether the user has the appropriate permissions
 
-![](account.png)
+![Screenshot of account page.](account.png)
 
-![](organisation-settings.png)
+![Screenshot of organisation settings page.](organisation-settings.png)
 
 ### Separate organisational settings from account settings
 
 We put ‘Organisational permissions’ and ‘Users’ into a new section called ‘Organisation settings’ because they’re not related to the user’s account.
 
-![](organisation-settings.png)
+![Screenshot of organisation settings page.](organisation-settings.png)
 
 ### Separate user’s permissions from their profile
 
 We moved the user’s permissions out of their profile into a new page called ‘user permissions’.
 
-![](user-permissions.png)
+![Screenshot of user permissions page.](user-permissions.png)
 
 We renamed the profile page to ‘personal details’ as it’s a better description of the contents.
 
-![](personal-details.png)
+![Screenshot of personal details page.](personal-details.png)

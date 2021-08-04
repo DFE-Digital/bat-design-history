@@ -10,7 +10,7 @@ Improving the styling of the sub navigation component.
 
 Previously the sub navigation was styled like this:
 
-![](old.png "Old sub navigation styles look like tabs")
+![Old sub navigation styles look like tabs.](old.png "Old sub navigation styles look like tabs")
 
 Even though they look like tabs, they do not behave like tabs which could cause confusion.
 
@@ -24,4 +24,4 @@ We agree with the GOV.UK Design System [working group that potential confusion s
 
 So we changed the styles of the sub navigation to avoid looking like tabs like this:
 
-![](new.png "New sub navigation styles do not look like tabs")
+![New sub navigation styles do not look like tabs.](new.png "New sub navigation styles do not look like tabs")

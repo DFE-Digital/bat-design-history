@@ -21,25 +21,25 @@ If we let users set up and manage interviews, then it’ll be easier to manage t
 
 The ‘Submitted’ status has been split out into ‘Received’, ‘Awaiting interview’ and ‘Interviewed’. And there's a new section in the list of candidates awaiting interview.
 
-![](application-list.png)
+![Screenshot of ‘Applications’ page.](application-list.png)
 
 ## Prompts
 
 When an application has been received, the prompt is to: set up an interview or make a decision.
 
-![](prompt--received.png)
+![Screenshot of application with ‘Set up an interview‘ and ‘Make decision’ prompts.](prompt--received.png)
 
 When just one interview has been set up, the prompt is to: set up another interview or make a decision.
 
 This is because interviews often take place with both the training provider and the accredited body.
 
-![](prompt--awaiting-interview.png)
+![Screenshot of application with ‘Set up another interview‘ and ‘Make decision’ prompts.](prompt--awaiting-interview.png)
 
 When the last interview has taken place, at midnight the status flips automatically to ‘Interviewed’ and the prompt is: to make a decision or set up another interview.
 
 There’s still an option to set up another interview because there’s no guarantee that just because one interview took place, that another isn’t needed at this point in time.
 
-![](prompt--interviewed.png)
+![Screenshot of application with ‘Make decision’ and ‘Set up another interview‘ prompts.](prompt--interviewed.png)
 
 ## Setting up an interview
 
@@ -47,15 +47,15 @@ When the user sets up an interview they need to fill out a date, time, location 
 
 Additional details is a catch all field that we’re using to find out what we’re missing during research.
 
-![](set-up-interview--form.png)
+![Screenshot of ‘Set up an interview‘ page.](set-up-interview--form.png)
 
 Then you have a check answers screen.
 
-![](set-up-interview--check.png)
+![Screenshot of ‘Check and confirm interview’ page.](set-up-interview--check.png)
 
 Then you are taken to the interviews tab with a success message.
 
-![](set-up-interview--success.png)
+![Screenshot of application page with success banner.](set-up-interview--success.png)
 
 ## Interview list page
 
@@ -63,4 +63,4 @@ A new top level page has been added so that users can see all the upcoming inter
 
 This means they don’t have to go outside the service to do this and they don’t have to go into a particular application to see the interview details.
 
-![](interview-list-page.png)
+![Screenshot of ‘Interviews’ page.](interview-list-page.png)

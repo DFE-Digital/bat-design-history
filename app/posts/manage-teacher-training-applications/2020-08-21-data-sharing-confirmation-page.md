@@ -12,8 +12,8 @@ And it means there’s no opportunity to tell users what they can or must do nex
 
 If we show users a confirmation page then they’ll know they signed the agreement successfully and how to proceed.
 
-![](dsa-user-prompt.png "When there’s no organisation level permissions to set up but the user has ‘user’ permission, they have the option to set up users.")
+![When there’s no organisation level permissions to set up but the user has ‘user’ permission, they have the option to set up users.](dsa-user-prompt.png "When there’s no organisation level permissions to set up but the user has ‘user’ permission, they have the option to set up users")
 
-![](dsa-org-prompt.png "When there’s organisation level permissions to set up, the user is prompted to set up permissions.")
+![When there’s organisation level permissions to set up, the user is prompted to set up permissions.](dsa-org-prompt.png "When there’s organisation level permissions to set up, the user is prompted to set up permissions")
 
-![](dsa-basic.png "When the user has no ‘org’ or ‘user’ permissions, they can continue to the application list page.")
+![When the user has no ‘org’ or ‘user’ permissions, they can continue to the application list page.](dsa-basic.png "When the user has no ‘org’ or ‘user’ permissions, they can continue to the application list page")

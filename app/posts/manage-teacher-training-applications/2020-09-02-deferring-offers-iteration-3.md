@@ -14,9 +14,9 @@ The details of the offer are played back in various flows such as changing an of
 
 To differentiate the offer from other details on the page we put a border around it – and to be consistent we’ve put a border around it on the offer page too.
 
-![](offer-page.png "Offer page when we track conditions individually")
+![Offer page when we track conditions individually.](offer-page.png "Offer page when we track conditions individually")
 
-![](offer-page--combined-conditions.png "Offer page when we track conditions together")
+![Offer page when we track conditions together.](offer-page--combined-conditions.png "Offer page when we track conditions together")
 
 ## Putting offer actions at the top of the panel
 
@@ -26,19 +26,19 @@ Research shows that this makes them harder to find as they’re more likely to b
 
 If we put the actions at the top of the panel then users will be able to find and use them more easily.
 
-![](offer-page.png)
+![Offer page with actions at the top of the panel.](offer-page.png)
 
 ## Improving content when deferring an offer
 
 The [previous iteration](/manage-teacher-training-applications/deferring-offers-iteration/#defer-offer-page) was a little long winded and unclear. Here we’ve tightened up the content.
 
-![](defer.png)
+![Screenshot of ‘Check and confirm offer deferral’ page.](defer.png)
 
 ## Updating the timeline when deferring an offer
 
 When an offer has been deferred, we show it as an event in the timeline.
 
-![](timeline.png)
+![Screenshot of timeline page for a deferred candidate.](timeline.png)
 
 ## User needs
 

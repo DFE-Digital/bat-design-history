@@ -13,7 +13,7 @@ But they relate to the user’s account with notification settings and profile.
 If we put ‘Organisations’ and ‘Users’ in the account area
 Then they’ll be where users expect to find them and they won’t detract from the application-related features
 
-![](account-page.png)
+![Screenshot of ‘Your account’ page.](account-page.png)
 
 ## Introduce an account landing page
 
@@ -23,7 +23,7 @@ Now ‘Organisations’ and ‘Users’ are part of the account area it would be
 
 This also lets us tell users what each section offers.
 
-![](account-page.png)
+![Screenshot of ‘Your account’ page.](account-page.png)
 
 ## Introduce a profile page
 
@@ -34,7 +34,7 @@ But now the account section contains notification settings, users and organisati
 If we give users a profile page
 Then users will be able to distinguish their profile from the account area
 
-![](profile-page.png)
+![Screenshot of ‘Profile’ page.](profile-page.png)
 
 ## Change ‘Organisations’ for ‘Organisational permissions’
 
@@ -45,7 +45,7 @@ This is ambiguous because the user isn’t able to manage organisations.
 If we name the section ‘Organisational permissions’
 Then it will help users understand the intent of the section more quickly
 
-![](organisational-permissions-page.png)
+![Screenshot of ‘Organisational permissions’ page.](organisational-permissions-page.png)
 
 ## Providing guidance on the ‘Organisational permissions’ page
 
@@ -53,4 +53,4 @@ The previous iteration of this page had no guidance on how the organisational pe
 
 As it’s quite a complicated feature, we added some guidance at the top of the page.
 
-![](organisational-permissions-page.png)
+![Screenshot of ‘Organisational permissions’ page.](organisational-permissions-page.png)

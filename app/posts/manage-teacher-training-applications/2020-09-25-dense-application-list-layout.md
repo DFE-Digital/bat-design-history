@@ -13,6 +13,6 @@ Some users have said [they’d like a more dense layout](https://lookback.io/wat
 If we give users a more dense application list
 Then users will be able to see more information with less effort
 
-![](application-list--before.png "Before")
+![Screenshot of application list before change to a more dense layout.](application-list--before.png "Before")
 
-![](application-list--after.png "After")
+![Screenshot of application list after change to a more dense layout.](application-list--after.png "After")

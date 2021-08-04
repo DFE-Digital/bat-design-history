@@ -26,7 +26,7 @@ Then they'll be able to process applications more quickly and accurately
 
 We explored the following design:
 
-![](update-status-alternative.png)
+![Screenshot of ‘Has Eloise Wells met condition ‘Fitness to teach check’?’ form.](update-status-alternative.png)
 
 But we ruled it out because:
 
