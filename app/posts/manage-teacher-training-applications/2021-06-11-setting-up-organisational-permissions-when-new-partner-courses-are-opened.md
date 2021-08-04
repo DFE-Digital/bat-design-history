@@ -2,9 +2,16 @@
 title: Setting up organisational permissions when new partner courses are opened
 description: Changing the way we notify and ask users to set up organisational permissions for newly opened partner courses
 date: 2021-06-11
+screenshots:
+  items:
+    - text: Data sharing agreement confirmation page
+      src: dsa-confirmation.png
+    - text: Start page
+      src: start-page.png
+    - text: Start page (user belongs to multiple organisations)
+      src: start-page--multi-org.png
 ---
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "email/macro.njk" import appEmail %}
 
 The flow to [set up organisational permissions](/manage-teacher-training-applications/setting-up-permissions-iteration-5/) is currently triggered when new partner courses are synced.
@@ -115,22 +122,3 @@ But we decided not to do this for now because we think that users:
 
 * who can manage organisational permissions will know how to set them up
 * should immediately set them up as it would otherwise stop users from processing applications
-
-{{ appScreenshots({
-  items: [{
-    text: "Data sharing agreement confirmation page",
-    img: {
-      src: "dsa-confirmation.png"
-    }
-  }, {
-    text: "Start page",
-    img: {
-      src: "start-page.png"
-    }
-  }, {
-    text: "Start page (user belongs to multiple organisations)",
-    img: {
-      src: "start-page--multi-org.png"
-    }
-  }]
-}) }}

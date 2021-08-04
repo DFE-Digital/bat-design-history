@@ -3,9 +3,21 @@ title: Application page improvements
 description: Various improvements to the way we present work history and other parts of the application details page
 date: 2021-02-04
 tags:
- - MN024
- - MN025
- - MN026
+  - MN024
+  - MN025
+  - MN026
+screenshots:
+  items:
+    - text: Separate work history and unpaid experience - both provided
+      src: application-page.png
+    - text: Separate work history and unpaid experience - both not provided
+      src: application-page--no-work-history.png
+    - text: Combined work history and unpaid experience - both provided
+      src: application-page--combined-work-history.png
+    - text: Combined work history and unpaid experience - just unpaid experience
+      src: application-page--combined-no-work-history.png
+    - text: Combined work history and unpaid experience - just work history
+      src: application-page--combined-no-unpaid-experience.png
 ---
 
 This iteration contains several improvements to the way we present the candidate’s application to providers.
@@ -28,7 +40,7 @@ Job descriptions should still be shown for old applications where the candidate 
 
 ## Making it easier to spot gaps in work
 
-Providers need to spot periods of time in which a candidate was not working or getting unpaid experience. 
+Providers need to spot periods of time in which a candidate was not working or getting unpaid experience.
 
 We have combined work experience and unpaid roles into one list, so that providers do not need to compare two separate lists. We mark unpaid experience so providers can distinguish between paid and unpaid roles.
 
@@ -38,13 +50,13 @@ We have also moved work history above qualifications and put the items into reve
 
 ## Move interview needs and disability information towards the bottom
 
-Interview needs are shown in context when a provider sets up an interview. 
+Interview needs are shown in context when a provider sets up an interview.
 
 This means it is not essential for providers to see interview needs at the ‘sift stage’ when they are deciding whether to interview the candidate.
 
 Disability information should not be a consideration at the sift stage.
 
-Moving both of these towards the bottom elevates work history and qualifications, which are always used at the sift stage. 
+Moving both of these towards the bottom elevates work history and qualifications, which are always used at the sift stage.
 
 ## Add ‘No, I have always been in full time education’
 
@@ -56,7 +68,7 @@ This has become a new option for candidates to choose from and so we now show th
 
 Some candidates find it hard to remember the exact dates when roles began and ended.
 
-Rather than having to guess the dates and risk being seen as dishonest, candidates now have the option to say that they are approximate. 
+Rather than having to guess the dates and risk being seen as dishonest, candidates now have the option to say that they are approximate.
 
 As this is a new option for candidates, we now flag this on the application page.
 
@@ -76,33 +88,3 @@ As part of this work we took the opportunity to tidy up the heading sizes and sp
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Separate work history and unpaid experience - both provided",
-    img: {
-      src: "application-page.png"
-    }
-  }, {
-    text: "Separate work history and unpaid experience - both not provided",
-    img: {
-      src: "application-page--no-work-history.png"
-    }
-  }, {
-    text: "Combined work history and unpaid experience - both provided",
-    img: {
-      src: "application-page--combined-work-history.png"
-    }
-  }, {
-    text: "Combined work history and unpaid experience - just unpaid experience",
-    img: {
-      src: "application-page--combined-no-work-history.png"
-    }
-  }, {
-    text: "Combined work history and unpaid experience - just work history",
-    img: {
-      src: "application-page--combined-no-unpaid-experience.png"
-    }
-  }]
-}) }}

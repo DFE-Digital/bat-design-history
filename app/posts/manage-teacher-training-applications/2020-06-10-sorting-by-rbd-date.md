@@ -3,7 +3,13 @@ title: Sorting by reject by default (RBD) date
 description: Let users sort by RBD date
 date: 2020-06-03
 tags:
-- MN014
+  - MN014
+screenshots:
+  items:
+    - text: Sorting by last changed (default)
+      src: last-changed.png
+    - text: Sorting by days left to respond
+      src: days-left.png
 ---
 
 ## User needs
@@ -26,18 +32,3 @@ The sort controls are left aligned so that is consistently located on small scre
 The label is visually hidden but the button acts as a quasi label for sighted users.
 
 The button is included because [submitting a form when a select box value is changed can cause accessibility issues](https://adamsilver.io/articles/select-boxes-shouldnt-submit-on-change/).
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Sorting by last changed (default)",
-    img: {
-      src: "last-changed.png"
-    }
-  }, {
-    text: "Sorting by days left to respond",
-    img: {
-      src: "days-left.png"
-    }
-  }]
-}) }}

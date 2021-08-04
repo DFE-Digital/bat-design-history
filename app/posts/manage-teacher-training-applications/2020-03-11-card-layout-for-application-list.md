@@ -2,6 +2,9 @@
 title: Card layout for application list
 description: Use a card layout to fit more information inside each row without sacrificing readability and scannability.
 date: 2020-03-11
+screenshots:
+  items:
+    - Application list
 ---
 
 Use a card layout to fit more information inside each row without sacrificing readability and scannability.
@@ -28,10 +31,3 @@ We'll know this works when:
 
 * Users can find the application they're looking for
 * Users can get a sense of the status to help choose an application to work on
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list"
-  }]
-}) }}

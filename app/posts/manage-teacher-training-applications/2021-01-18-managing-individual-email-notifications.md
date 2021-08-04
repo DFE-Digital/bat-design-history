@@ -2,11 +2,16 @@
 title: Managing individual email notifications
 description: Let users choose which emails they receive
 date: 2021-01-18
+screenshots:
+  items:
+    - Account page
+    - Email notifications settings page
+    - Success banner
 related:
   items:
-  - text: Content for the end of each email
-    href: https://docs.google.com/document/d/1FOT_jBRlMRLjcbyw_sz6IygwCNZkaBp__oRBRBEkn-Y/edit#heading=h.7yben527pu0m
-    description: A document showing the content that will appear at the bottom of each email notification
+    - text: Content for the end of each email
+      href: https://docs.google.com/document/d/1FOT_jBRlMRLjcbyw_sz6IygwCNZkaBp__oRBRBEkn-Y/edit#heading=h.7yben527pu0m
+      description: A document showing the content that will appear at the bottom of each email notification
 ---
 
 Currently users can [turn off all email notifications](/manage-teacher-training-applications/turn-email-notifications-on-off/). But we know users want to specify which emails they receive.
@@ -37,23 +42,3 @@ Future work may include:
 
 - being able to configure notifications separately based on the organisation or the relationship between the organisation and partner organisations.
 - changing the content of the email notifications to match the permissions - for example, if the user cannot make decisions then there should not be a call to action in the email
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Account page",
-    img: {
-      src: "account-page.png"
-    }
-  }, {
-    text: "Email notification settings page",
-    img: {
-      src: "email-notifications-page.png"
-    }
-  }, {
-    text: "Success banner",
-    img: {
-      src: "success-banner.png"
-    }
-  }]
-}) }}

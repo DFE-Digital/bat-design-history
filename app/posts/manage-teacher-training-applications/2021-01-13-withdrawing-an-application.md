@@ -2,11 +2,23 @@
 title: Withdrawing an application
 description: Let providers withdraw an application at the candidate’s request at any time
 date: 2021-01-13
+screenshots:
+  items:
+    - text: Withdraw application link
+      src: application-details.png
+    - text: Withdraw application (reasons)
+      src: withdraw--01.png
+    - text: Withdraw application (other advice)
+      src: withdraw--02.png
+    - text: Withdraw application (check answers)
+      src: withdraw--03.png
+    - text: Withdraw application (confirmation banner)
+      src: withdraw--04.png
 related:
   items:
-  - text: Reasons for closing an application
-    href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
-    description: Map of what reasons are available at what stage of the application process
+    - text: Reasons for closing an application
+      href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
+      description: Map of what reasons are available at what stage of the application process
 ---
 
 We previously explored a [very different way to let providers close an application at any time](/manage-teacher-training-applications/closing-an-application/).
@@ -35,33 +47,3 @@ So we have gone back to the previous design where the option behind ‘make deci
 And we’ve added an option to ‘withdraw at candidate’s request’ at any time throughout the process.
 
 We no longer need a question under ‘withdraw offer’ to redirect users to update the status of conditions. This is because withdrawing an offer goes back to how it was before. An offer can only be withdrawn when in the ‘offered’ state.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Withdraw application link",
-    img: {
-      src: "application-details.png"
-    }
-  }, {
-    text: "Withdraw application (reasons)",
-    img: {
-      src: "withdraw--01.png"
-    }
-  }, {
-    text: "Withdraw application (other advice)",
-    img: {
-      src: "withdraw--02.png"
-    }
-  }, {
-    text: "Withdraw application (check answers)",
-    img: {
-      src: "withdraw--03.png"
-    }
-  }, {
-    text: "Withdraw application (confirmation banner)",
-    img: {
-      src: "withdraw--04.png"
-    }
-  }]
-}) }}

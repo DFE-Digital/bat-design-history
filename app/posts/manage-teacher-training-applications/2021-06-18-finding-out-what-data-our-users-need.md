@@ -2,12 +2,13 @@
 title: Finding out what data our users need
 description: Exploring what data would be helpful to users and how they would use it
 date: 2021-06-18
+screenshots:
+  items:
+    - text: Data shown to research participants
+      src: spreadsheet-example.png
 ---
 
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-
-Users need to see data about the applications they receive. 
+Users need to see data about the applications they receive.
 
 This data helps them make decisions and report to other people, for example when a course is close to being full.
 
@@ -32,7 +33,7 @@ We were considering various ways of providing data in our service, including:
 
 - displaying counts on the applications list
 - sending a regular email to users
-- providing data for download only 
+- providing data for download only
 - adding reports to the ‘export data’ section
 - creating a separate section for reports
 
@@ -47,7 +48,7 @@ We decided to carry out more research to help us understand:
 - how providers want to manipulate data
 - whether higher education institutions have different needs
 
-We created a spreadsheet containing data that we thought may be useful to providers. 
+We created a spreadsheet containing data that we thought may be useful to providers.
 
 This included the average number of days to reach each status, as well as the number of applications by:
 
@@ -55,7 +56,7 @@ This included the average number of days to reach each status, as well as the nu
 - course
 - training location
 - candidate’s nationality
-- candidate’s country of residence 
+- candidate’s country of residence
 
 We showed this spreadsheet to research participants rather than incorporating it into the service prototype. This allowed us to focus the conversation on the data needs rather than possible designs.
 
@@ -64,7 +65,7 @@ We showed this spreadsheet to research participants rather than incorporating it
 We divided the needs we discovered into five categories:
 
 - total numbers of applications
-- application processing, for example the proportion of candidates who are rejected after an interview 
+- application processing, for example the proportion of candidates who are rejected after an interview
 - capacity management, for example how long it takes to process an application
 - diversity, for example the ethnicity of successful and unsuccessful candidates
 - marketing, for example knowing where candidates go after turning down an offer
@@ -96,18 +97,9 @@ We found that it would be hard to meet users’ needs with only a downloadable s
 
 ## The next round of research
 
-We decided to focus on providing data within a new section of the service. 
+We decided to focus on providing data within a new section of the service.
 
 We used the needs we’d identified to create a series of reports. Our findings also helped us decide:
 
 - which reports to create
 - what configuration options we should offer
-
-{{ appScreenshots({
-  items: [{
-    text: "Data shown to research participants",
-    img: {
-      src: "spreadsheet-example.png"
-    }
-  }]
-}) }}

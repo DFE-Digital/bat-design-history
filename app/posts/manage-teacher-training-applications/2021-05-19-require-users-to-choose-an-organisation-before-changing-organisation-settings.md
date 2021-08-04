@@ -2,6 +2,77 @@
 title: Require users to choose an organisation before changing organisation settings
 description: Users will only be able to change organisational permissions and user settings for one organisation at a time
 date: 2021-05-17
+screenshots:
+  - title: "Screenshots: organisation settings"
+    items:
+      - text: Organisation settings
+        src: organisation-settings.png
+      - text: Organisation settings (belongs to multiple organisations)
+        src: organisation-settings--multi.png
+  - title: "Screenshots: organisation permissions"
+    items:
+      - text: Organisation permissions
+        src: organisation-permissions.png
+      - text: Organisation permissions (belongs to multiple organisations)
+        src: organisation-permissions--multi.png
+      - text: Organisation permissions - edit
+        src: organisation-permissions-edit.png
+      - text: Organisation permissions - edit - success
+        src: organisation-permissions-edit--success.png
+  - title: "Screenshots: user list"
+    items:
+      - text: User list
+        src: user-list.png
+      - text: User list (belongs to multiple organisations)
+        src: user-list--multi.png
+  - title: "Screenshots: user details"
+    items:
+      - text: User details
+        src: user-details.png
+      - text: User details (belongs to multiple organisations)
+        src: user-details--multi.png
+  - title: "Screenshots: invite user"
+    items:
+      - text: User - invite - personal details
+        src: user-new--personal-details.png
+      - text: User - invite - personal details (belongs to multiple organisations)
+        src: user-new--personal-details--multi.png
+      - text: User - invite - permissions
+        src: user-new--permissions.png
+      - text: User - invite - permissions (belongs to multiple organisations)
+        src: user-new--permissions--multi.png
+      - text: User - invite - additional permissions
+        src: user-new--additional-permissions.png
+      - text: User - invite - additional permissions (belongs to multiple organisations)
+        src: user-new--additional-permissions--multi.png
+      - text: User - invite - check answers
+        src: user-new--check.png
+      - text: User - invite - check answers (belongs to multiple organisations)
+        src: user-new--check--multi.png
+      - text: User - invite - success
+        src: user-new--success.png
+  - title: "Screenshots: edit user permissions"
+    items:
+      - text: User - edit permissions - permissions
+        src: user-edit--permissions.png
+      - text: User - edit permissions - permissions (belongs to multiple organisations)
+        src: user-edit--permissions--multi.png
+      - text: User - edit permissions - additional permissions
+        src: user-edit--additional-permissions.png
+      - text: User - edit permissions - additional permissions (belongs to multiple organisations)
+        src: user-edit--additional-permissions--multi.png
+      - text: User - edit permissions - check answers
+        src: user-edit--check.png
+      - text: User - edit permissions - check answers (belongs to multiple organisations)
+        src: user-edit--check--multi.png
+      - text: User - edit permissions - success
+        src: user-edit--success.png
+    - title: "Screenshots: delete user"
+      items:
+        - text: User - delete
+          src: user-delete.png
+        - text: User - delete - success
+          src: user-delete--success.png
 ---
 
 This builds on the work to [give all users access to view their organisation’s users and permissions](/manage-teacher-training-applications/giving-all-users-access-to-view-their-organisations-users-and-permissions). We separated the ‘your account’ section into:
@@ -19,7 +90,6 @@ Combining organisation permissions and users adds complication to several pages.
 - having to hide duplicate relationships if the user belongs to both the training provider and accredited body
 - showing multiple pages in the user invitation journey, with the possibility of confusion about which page is for which organisation
 - having to indicate which permissions can be changed in a user profile, since the user viewing it may not have manage user permissions for all the organisations
-
 
 This is a lot of extra complexity for the 20% of users who belong to multiple organisations. We think that this change will make it easier for those users to understand permissions.
 
@@ -62,179 +132,3 @@ We’re including the name of the organisation, to make sure it’s clear where 
 We’ve removed the page for selecting which organisations the new user will have access to. This will already have been selected.
 
 If the user belongs to more than one organisation, we give its name in the caption. The format is ‘user name - organisation name’.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  title: "Screenshots: organisation settings",
-  items: [{
-    text: "Organisation settings",
-    img: {
-      src: "organisation-settings.png"
-    }
-  }, {
-    text: "Organisation settings (belongs to multiple organisations)",
-    img: {
-      src: "organisation-settings--multi.png"
-    }
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Screenshots: organisation permissions",
-  items: [{
-    text: "Organisation permissions",
-    img: {
-      src: "organisation-permissions.png"
-    }
-  }, {
-    text: "Organisation permissions (belongs to multiple organisations)",
-    img: {
-      src: "organisation-permissions--multi.png"
-    }
-  }, {
-    text: "Organisation permissions - edit",
-    img: {
-      src: "organisation-permissions-edit.png"
-    }
-  }, {
-    text: "Organisation permissions - edit - success",
-    img: {
-      src: "organisation-permissions-edit--success.png"
-    }
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Screenshots: user list",
-  items: [{
-    text: "User list",
-    img: {
-      src: "user-list.png"
-    }
-  }, {
-    text: "User list (belongs to multiple organisations)",
-    img: {
-      src: "user-list--multi.png"
-    }
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Screenshots: user details",
-  items: [{
-    text: "User details",
-    img: {
-      src: "user-details.png"
-    }
-  }, {
-    text: "User details (belongs to multiple organisations)",
-    img: {
-      src: "user-details--multi.png"
-    }
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Screenshots: invite user",
-  items: [{
-    text: "User - invite - personal details",
-    img: {
-      src: "user-new--personal-details.png"
-    }
-  }, {
-    text: "User - invite - personal details (belongs to multiple organisations)",
-    img: {
-      src: "user-new--personal-details--multi.png"
-    }
-  }, {
-    text: "User - invite - permissions",
-    img: {
-      src: "user-new--permissions.png"
-    }
-  }, {
-    text: "User - invite - permissions (belongs to multiple organisations)",
-    img: {
-      src: "user-new--permissions--multi.png"
-    }
-  }, {
-    text: "User - invite - additional permissions",
-    img: {
-      src: "user-new--additional-permissions.png"
-    }
-  }, {
-    text: "User - invite - additional permissions (belongs to multiple organisations)",
-    img: {
-      src: "user-new--additional-permissions--multi.png"
-    }
-  }, {
-    text: "User - invite - check answers",
-    img: {
-      src: "user-new--check.png"
-    }
-  }, {
-    text: "User - invite - check answers (belongs to multiple organisations)",
-    img: {
-      src: "user-new--check--multi.png"
-    }
-  }, {
-    text: "User - invite - success",
-    img: {
-      src: "user-new--success.png"
-    }
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Screenshots: edit user permissions",
-  items: [{
-    text: "User - edit permissions - permissions",
-    img: {
-      src: "user-edit--permissions.png"
-    }
-  }, {
-    text: "User - edit permissions - permissions (belongs to multiple organisations)",
-    img: {
-      src: "user-edit--permissions--multi.png"
-    }
-  }, {
-    text: "User - edit permissions - additional permissions",
-    img: {
-      src: "user-edit--additional-permissions.png"
-    }
-  }, {
-    text: "User - edit permissions - additional permissions (belongs to multiple organisations)",
-    img: {
-      src: "user-edit--additional-permissions--multi.png"
-    }
-  }, {
-    text: "User - edit permissions - check answers",
-    img: {
-      src: "user-edit--check.png"
-    }
-  }, {
-    text: "User - edit permissions - check answers (belongs to multiple organisations)",
-    img: {
-      src: "user-edit--check--multi.png"
-    }
-  }, {
-    text: "User - edit permissions - success",
-    img: {
-      src: "user-edit--success.png"
-    }
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Screenshots: delete user",
-  items: [{
-    text: "User - delete",
-    img: {
-      src: "user-delete.png"
-    }
-  }, {
-    text: "User - delete - success",
-    img: {
-      src: "user-delete--success.png"
-    }
-  }]
-}) }}

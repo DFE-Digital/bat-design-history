@@ -2,6 +2,12 @@
 title: Adding user assignment to the timeline and activity log
 description: Adding an event to the timeline and activity log when users are assigned to or unassigned from an application
 date: 2021-07-20
+screenshots:
+  items:
+    - text: Application timeline
+      src: application-assignment-timeline.png
+    - text: Activity log
+      src: application-assignment-activity-log.png
 ---
 
 This is part of [letting users assign applications to themselves or other users](/manage-teacher-training-applications/assigning-applications-to-users/).
@@ -42,18 +48,3 @@ In other places where we list assigned users, if the signed in user is assigned 
 - put “(you)” after their name
 
 We do not usually indicate in the timeline and activity log that something was done by the signed in user. So we decided not to do so for assigned users.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application timeline",
-    img: {
-      src: "application-assignment-timeline.png"
-    }
-  }, {
-    text: "Activity log",
-    img: {
-      src: "application-assignment-activity-log.png"
-    }
-  }]
-}) }}

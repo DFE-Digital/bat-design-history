@@ -2,9 +2,23 @@
 title: Show tuition fee status
 description: Let users see when a candidate’s application is eligible for home tuition fee funding.
 date: 2021-03-22
+screenshots:
+  items:
+    - text: Application details – Eligible for funding
+      caption: "Figure 1: The application details screen showing the candidate is eligible for home tuition fee funding"
+      src: application-details-eligible-for-funding.png
+    - text: Application details – Not eligible for funding (right to work or study)
+      caption: "Figure 2: The application details screen showing the candidate is not eligible for home tuition fee funding because the candidate does not have a right to work or study in the UK"
+      src: application-details-not-eligible-for-funding-right-to-work.png
+    - text: Application details – Not eligible for funding (international address)
+      caption: "Figure 3: The application details screen showing the candidate is not eligible for home tuition fee funding because their address is not in the UK"
+      src: application-details-not-eligible-for-funding-address.png
+    - text: Application details – Not eligible for funding (right to work or study and international address)
+      caption: "Figure 4: The application details screen showing the candidate is not eligible for home tuition fee funding because the candidate does not have a right to work or study in the UK and they do not have a UK address"
+      src: application-details-not-eligible-for-funding-right-to-work-and-address.png
 ---
 
-Many candidates qualify for ‘home tuition fee funding’. This means that they: 
+Many candidates qualify for ‘home tuition fee funding’. This means that they:
 
 - pay the ’home’ rate of tuition fees, which is usually lower than the ‘overseas’ rate
 - are eligible for student loans
@@ -14,7 +28,7 @@ The UCAS application service offers a provisional assessment of whether a candid
 
 ## Who qualifies for home tuition fee funding
 
-A candidate’s funding status is determined through a combination of three factors: 
+A candidate’s funding status is determined through a combination of three factors:
 
 - nationality
 - the right to work or study in the UK
@@ -81,7 +95,7 @@ If the candidate does not have the right to work or study in the UK at the time 
 
 We need to get a stronger understanding of the needs of providers and the impact on candidates before we can recommend providing an assessment of fee status.
 
-The assessment will rely on information provided by candidates which could be inaccurate. 
+The assessment will rely on information provided by candidates which could be inaccurate.
 
 For example, we ask whether they have the right to live and work in the UK rather than asking questions to work this out. The candidate could get the answer wrong, or could say they are ‘not sure’ (which would be treated as a ‘no’ for this assessment).
 
@@ -97,33 +111,3 @@ We need to carry out research with providers to find out:
 - what they would do with the information
 
 We will also need to work with the candidate team to understand the implications for candidates. We should consider whether to make the provisional fee status available to candidates as well as providers.
-
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application details – Eligible for funding",
-    caption: "Figure 1: The application details screen showing the candidate is eligible for home tuition fee funding",
-    img: {
-      src: "application-details-eligible-for-funding.png"
-    }
-  }, {
-    text: "Application details – Not eligible for funding (right to work or study)",
-    caption: "Figure 2: The application details screen showing the candidate is not eligible for home tuition fee funding because the candidate does not have a right to work or study in the UK",
-    img: {
-      src: "application-details-not-eligible-for-funding-right-to-work.png"
-    }
-  },  {
-    text: "Application details – Not eligible for funding (international address)",
-    caption: "Figure 3: The application details screen showing the candidate is not eligible for home tuition fee funding because their address is not in the UK",
-    img: {
-      src: "application-details-not-eligible-for-funding-address.png"
-    }
-  },{
-    text: "Application details – Not eligible for funding (right to work or study and international address)",
-    caption: "Figure 4: The application details screen showing the candidate is not eligible for home tuition fee funding because the candidate does not have a right to work or study in the UK and they do not have a UK address",
-    img: {
-      src: "application-details-not-eligible-for-funding-right-to-work-and-address.png"
-    }
-  }]
-}) }}

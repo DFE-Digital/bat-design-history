@@ -2,6 +2,18 @@
 title: Changing conditions iteration
 description: Let users add, edit and remove conditions
 date: 2020-10-26
+screenshots:
+  items:
+    - text: Offer page with ‘Add or change conditions’ link
+      src: offer-page.png
+    - text: Edit conditions page
+      src: conditions-page.png
+    - text: Check conditions page
+      src: check-conditions.png
+    - text: Check conditions page – all conditions removed
+      src: check-conditions--no-conditions.png
+    - text: Success message
+      src: success-message.png
 ---
 
 Various improvements to the way users manage conditions.
@@ -45,33 +57,3 @@ Some providers add ‘nice to have’ conditions (or recommendations) as part of
 We know that at least one provider marked this ‘condition’ as ‘Not met’ thinking that this would not end the candidate’s application.
 
 We explored ways to let users delete such conditions but we backed out of this because we felt that this would be better served by differentiating recommendations from conditions – something that we’ll do later.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Offer page with ‘Add or change conditions’ link",
-    img: {
-      src: "offer-page.png"
-    }
-  }, {
-    text: "Edit conditions page",
-    img: {
-      src: "conditions-page.png"
-    }
-  }, {
-    text: "Check conditions page",
-    img: {
-      src: "check-conditions.png"
-    }
-  }, {
-    text: "Check conditions page – all conditions removed",
-    img: {
-      src: "check-conditions--no-conditions.png"
-    }
-  }, {
-    text: "Success message",
-    img: {
-      src: "success-message.png"
-    }
-  }]
-}) }}

@@ -2,6 +2,20 @@
 title: Tracking conditions individually iteration
 description: Improving the way we let users update the status of conditions
 date: 2020-10-27
+screenshots:
+  items:
+    - text: Offer page
+      src: offer-page.png
+    - text: Update status of conditions page
+      src: status-page.png
+    - text: "Check: when a condition has been marked as ‘not met’"
+      src: check--not-met.png
+    - text: "Check: when a condition has been marked as ‘met’"
+      src: check--met.png
+    - text: "Check: when all conditions have been marked as ‘met’"
+      src: check--all-met.png
+    - text: Success message
+      src: success-message.png
 ---
 
 {% from "email/macro.njk" import appEmail %}
@@ -55,38 +69,3 @@ When more than one condition has been met:
 When more than one condition still needs to be met:
 
 - the second sentence should say ‘The following conditions still need...’ instead of ‘The following condition still needs...’
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Offer page",
-    img: {
-      src: "offer-page.png"
-    }
-  }, {
-    text: "Update status of conditions page",
-    img: {
-      src: "status-page.png"
-    }
-  }, {
-    text: "Check: when a condition has been marked as ‘not met’",
-    img: {
-      src: "check--not-met.png"
-    }
-  }, {
-    text: "Check: when a condition has been marked as ‘met’",
-    img: {
-      src: "check--met.png"
-    }
-  }, {
-    text: "Check: when all conditions have been marked as ‘met’",
-    img: {
-      src: "check--all-met.png"
-    }
-  }, {
-    text: "Success message",
-    img: {
-      src: "success-message.png"
-    }
-  }]
-}) }}

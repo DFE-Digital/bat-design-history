@@ -2,6 +2,10 @@
 title: Improving activity log and timeline again
 description: Improvements to the activity log and timeline to help make it clear to users why they can no longer see an application that’s been transferred to a new training provider or accredited body.
 date: 2021-03-22
+screenshots:
+  items:
+    - Activity log
+    - Timeline
 ---
 
 The design of the activity log does not show all the details relating to an event.
@@ -19,18 +23,3 @@ We added all the relevant details for events relating to:
 - adding a note
 
 We also made the activity log and timeline content as consistent as possible. The only difference is that on the activity log the candidate’s name is part of the event title, which isn’t necessary on the timeline.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Activity log",
-    img: {
-      src: "activity-log.png"
-    }
-  }, {
-    text: "Timeline",
-    img: {
-      src: "timeline.png"
-    }
-  }]
-}) }}

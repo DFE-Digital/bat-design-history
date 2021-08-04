@@ -3,7 +3,7 @@ title: Deferring offers to the next cycle (iteration 3)
 description: Let providers defer offers to the next cycle
 date: 2020-09-02
 tags:
-- MN016
+  - MN016
 ---
 
 Getting deferral ready for release and addressing issues found in research with the [previous iteration](/manage-teacher-training-applications/deferring-offers-iteration/).

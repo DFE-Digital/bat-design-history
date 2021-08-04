@@ -4,12 +4,12 @@ description: Understand provider needs around ending a recruitment cycle. Also s
 date: 2020-06-18
 related:
   items:
-  - text: Sorting by RBD date
-    href: /manage-teacher-training-applications/sorting-by-rbd-date
-  - text: Reasons for rejection
-    href: /manage-teacher-training-applications/reasons-for-rejection-iteration-3
-  - text: More context for providers
-    href: /manage-teacher-training-applications/provider-context
+    - text: Sorting by RBD date
+      href: /manage-teacher-training-applications/sorting-by-rbd-date
+    - text: Reasons for rejection
+      href: /manage-teacher-training-applications/reasons-for-rejection-iteration-3
+    - text: More context for providers
+      href: /manage-teacher-training-applications/provider-context
 ---
 
 ## The context

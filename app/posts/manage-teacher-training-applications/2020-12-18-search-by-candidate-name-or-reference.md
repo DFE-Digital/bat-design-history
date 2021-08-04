@@ -2,6 +2,25 @@
 title: Search by candidate name or reference
 description: Let users search the applications list by candidate name or reference
 date: 2020-12-18
+screenshots:
+  items:
+    - text: No search or filters
+      caption: The default applications list with no search or filters
+      src: applications-list-no-search-or-filters.png
+    - text: Search by name
+      caption: The applications list showing a candidate name search with the search term retained in the search field
+      src: applications-list-search-by-name.png
+    - text: Search by reference
+      caption: The applications list showing a candidate reference search with the search term retained in the search field
+      src: applications-list-search-by-reference.png
+    - text: Search by partial string
+      caption: The applications list showing the search accepts a full or partial string
+      src: applications-list-search-by-partial-string.png
+    - text: No search results
+      src: applications-list-no-search-results.png
+    - text: Filtered search
+      caption: The applications list showing both search and filters used
+      src: applications-list-filtered-search.png
 ---
 
 We updated the search to allow users to find applications by reference in addition to candidate name.
@@ -46,46 +65,6 @@ If no applications are found, we show a message depending on the search and filt
 - There are no results for the selected filters.
 
 If no search term is provided when submitting a search, the user is presented with the list of applications.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "No search or filters",
-    caption: "The default applications list with no search or filters.",
-    img: {
-      src: "applications-list-no-search-or-filters.png"
-    }
-  }, {
-    text: "Search by name",
-    caption: "The applications list showing a candidate name search with the search term retained in the search field.",
-    img: {
-      src: "applications-list-search-by-name.png"
-    }
-  }, {
-    text: "Search by reference",
-    caption: "The applications list showing a candidate reference search with the search term retained in the search field.",
-    img: {
-      src: "applications-list-search-by-reference.png"
-    }
-  }, {
-    text: "Search by partial string",
-    caption: "The applications list showing the search accepts a full or partial string.",
-    img: {
-      src: "applications-list-search-by-partial-string.png"
-    }
-  }, {
-    text: "No search results",
-    img: {
-      src: "applications-list-no-search-results.png"
-    }
-  }, {
-    text: "Filtered search",
-    caption: "The applications list showing both search and filters used.",
-    img: {
-      src: "applications-list-filtered-search.png"
-    }
-  }]
-}) }}
 
 ## Other considerations
 
