@@ -2,6 +2,12 @@
 title: The troubles with amending (or editing) your application
 description: Complexities we faced when building an MVP version of this feature.
 date: 2020-03-17
+screenshots:
+  items:
+    - text: Editing your application
+      src: 01-editing-your-application.png
+    - text: Edit application
+      src: 02-edit-application.png
 related:
   items:
     - text: Technical options for building full design
@@ -67,14 +73,3 @@ We plan to:
 * improve tooling for support users to make edits
 
 If after changing the request process to a form a new and significant user need arises, one that is too large for support, we will consider building self-serve editing for the most commonly requested edits – eg course choices, or re-evaluate our decision not to build the original design.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Editing your application",
-    img: { src: "01-editing-your-application.png" }
-  }, {
-    text: "Edit application",
-    img: { src: "02-edit-application.png" }
-  }]
-}) }}

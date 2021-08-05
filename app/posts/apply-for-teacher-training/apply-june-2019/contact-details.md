@@ -1,14 +1,10 @@
 ---
 title: Contact details
 description: Adding emails, phone number and address.
+screenshots:
+  items:
+    - Contact details
+    - What is your address
+    - Select address
+    - Manually add address
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Contact details" },
-    { text: "What is your address" },
-    { text: "Select address" },
-    { text: "Manually add address" }
-  ]
-}) }}

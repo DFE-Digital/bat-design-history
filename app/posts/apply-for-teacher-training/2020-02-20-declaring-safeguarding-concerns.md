@@ -3,8 +3,8 @@ title: Declaring any safeguarding issues
 description: Starting a conversation between providers and candidates about safeguarding issues.
 date: 2020-02-20
 tags:
-- AN001
-- MN001
+  - AN001
+  - MN001
 related:
   items:
     - text: 'Provider research playback'
@@ -60,14 +60,8 @@ Because there will be less potential for misinterpretation
 Then candidates will be more likely to be open
 Because they'll be reassured that it doesn't necessarily mean an automatic rejection
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  hideContents: true,
-  items: [
-    { text: "New design for declaring any safeguarding issues" }
-  ]
-}) }}
+![Screenshot of new design for declaring any safeguarding issues.](new-design-for-declaring-any-safeguarding-issues.png "New design for declaring any safeguarding issues")
 
 ### How will we know this works?
 
- We’ll know this works when candidates start sharing relevant information in the live service.
+We’ll know this works when candidates start sharing relevant information in the live service.

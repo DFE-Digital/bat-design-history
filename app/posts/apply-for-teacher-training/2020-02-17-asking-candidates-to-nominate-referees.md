@@ -2,11 +2,15 @@
 title: Asking candidates to nominate referees
 date: 2020-02-17
 tags:
-- AN002
-- AN003
-- AN004
-- AN005
-- AN006
+  - AN002
+  - AN003
+  - AN004
+  - AN005
+  - AN006
+screenshots:
+  items:
+    - Choosing your referees
+    - Details of referee
 ---
 
 We decided to iterate the page where we ask candidates to nominate referees because we were getting unsuitable suggestions from them.
@@ -51,12 +55,3 @@ If we add hint text explaining that providers prefer professional email addresse
 Then we’ll be more likely to get suitable suggestions from candidates
 
 We’ll know this works when fewer candidates enter personal email addresses.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Choosing your referees"
-  }, {
-    text: "Details of referee"
-  }]
-}) }}

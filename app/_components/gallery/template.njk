@@ -5,9 +5,7 @@
   {%- set alt = item.img.alt or ("Screenshot of " + item.text) -%}
   <li class="app-gallery__item" id="{{ id }}">
     <figure>
-      <a href="{{ file }}">
-        <img src="{{ file }}" alt="{{ alt }}">
-      </a>
+      <a href="{{ file }}"><img src="{{ file }}" alt="{{ alt }}"></a>
       {%- if item.caption or item.text %}
         <figcaption>{{ item.caption or item.text | markdown | safe }}</figcaption>
       {%- endif %}

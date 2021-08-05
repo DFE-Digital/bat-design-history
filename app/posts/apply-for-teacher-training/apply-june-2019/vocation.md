@@ -1,11 +1,7 @@
 ---
 title: Why you want to be a teacher?
 description: Also known as vocation.
+screenshots:
+  items:
+    - Why you want to be a teacher?
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Why you want to be a teacher?" }
-  ]
-}) }}

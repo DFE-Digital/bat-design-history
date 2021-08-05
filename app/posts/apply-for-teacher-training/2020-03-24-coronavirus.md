@@ -2,6 +2,11 @@
 title: Informing candidates about the impact of coronavirus (COVID-19)
 description: Communicating temporary changes to the decline by default and reject by default decision dates.
 date: 2020-03-24
+screenshots:
+  items:
+    - Information banner on ‘Your application’ page
+    - Information banner on ‘Application dashboard’ page
+    - Updated confirmation page
 ---
 
 On 18 March 2020, the government announced that [schools, colleges and early years settings](https://www.gov.uk/government/news/schools-colleges-and-early-years-settings-to-close) would close as part of a broader range of measures to reduce the spread of the coronavirus (COVID-19).
@@ -27,15 +32,4 @@ We communicated this information to candidates by:
   To check the status of your application, sign in to Apply for teacher training https://www.apply-for-teacher-training.education.gov.uk/candidate/sign-in?u=[token]
 
   If you have any questions about this, you can contact us at <becomingateacher@digital.education.gov.uk>"
-}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Information banner on ‘Your application’ page"
-  }, {
-    text: "Information banner on ‘Application dashboard’ page"
-  }, {
-    text: "Updated confirmation page"
-  }]
 }) }}

@@ -4,10 +4,10 @@ description: A bunch of changes to improve the application process when applying
 date: 2020-04-20
 related:
   items:
-  - text: Research summary
-    href: /apply-for-teacher-training/apply-again#user-research
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
+    - text: Research summary
+      href: /apply-for-teacher-training/apply-again#user-research
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
 ---
 
 Changes to [our initial design](/apply-for-teacher-training/apply-again) to improve the application process when applying again, [following research](/apply-for-teacher-training/apply-again#user-research). Some changes are applicable to the initial application too.

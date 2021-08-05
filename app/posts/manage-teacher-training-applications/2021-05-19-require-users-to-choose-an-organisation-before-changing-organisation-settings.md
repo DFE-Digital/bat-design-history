@@ -67,12 +67,12 @@ screenshots:
         src: user-edit--check--multi.png
       - text: User - edit permissions - success
         src: user-edit--success.png
-    - title: "Screenshots: delete user"
-      items:
-        - text: User - delete
-          src: user-delete.png
-        - text: User - delete - success
-          src: user-delete--success.png
+  - title: "Screenshots: delete user"
+    items:
+      - text: User - delete
+        src: user-delete.png
+      - text: User - delete - success
+        src: user-delete--success.png
 ---
 
 This builds on the work to [give all users access to view their organisation’s users and permissions](/manage-teacher-training-applications/giving-all-users-access-to-view-their-organisations-users-and-permissions). We separated the ‘your account’ section into:
