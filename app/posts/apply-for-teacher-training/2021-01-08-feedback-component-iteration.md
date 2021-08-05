@@ -25,7 +25,6 @@ Instead, it makes more sense to simplify the form by removing the checkboxes, an
 
 This could be reviewed again in future if the volume of the feedback increases to such an extent that the free text fields become too time-consuming to analyse.
 
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
