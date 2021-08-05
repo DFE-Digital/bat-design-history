@@ -17,7 +17,7 @@ Makes the heading one size larger for consistency with the rest of the service a
 
 Updates the nav to refer to ‘trainees’ consistently instead of ‘records’. The service currently uses ‘records’ and ‘trainees’ either inconsistently or in a way thats pretty subtle — I personally find ‘record’ to be too general and find it helpful to use ‘trainee’.
 
-Removes the lead-in paragraph, this doesn't need to be seen repeatedly by users.
+Removes the lead-in paragraph, this doesn’t need to be seen repeatedly by users.
 
 Styles ‘Add a trainee’ as a link and puts it into the new ‘Draft trainees’ section.
 
