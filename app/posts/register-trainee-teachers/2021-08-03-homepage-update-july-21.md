@@ -31,7 +31,7 @@ This gives a stronger distinction between ‘draft’ and non-draft trainee reco
 
 The three actions in draft are shown as a simple list in part because they are conditional on whether the user has any draft trainees or records imported from Apply. If the user hasn’t created any draft trainees but has records from Apply we'd only show them the ‘See draft trainees imported from Apply’ link because the ‘all draft’ link would do the exact same thing. This will also make prioritisation clearer.
 
-Removes the middle section of the page with 3 links as the relationship between them wasn't clear and the new sections give a clearer home for the ‘Registered trainees’ and ‘Guidance’ links.
+Removes the middle section of the page with 3 links as the relationship between them wasn’t clear and the new sections give a clearer home for the ‘Registered trainees’ and ‘Guidance’ links.
 
 Adds a link to the current year’s trainees.
 
