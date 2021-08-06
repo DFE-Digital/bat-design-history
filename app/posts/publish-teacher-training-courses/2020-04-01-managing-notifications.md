@@ -2,12 +2,17 @@
 title: Managing notifications
 description: Initial ideas for managing notifications.
 date: 2020-04-01
+screenshots:
+  items:
+    - Notifications
+    - Manage your notifications
+    - Subscribed to notifications
 related:
   items:
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1dzCle8W2MrZoUmbOQ72BboRn9v-6tZ3SaprhNIREAQE/
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1dzCle8W2MrZoUmbOQ72BboRn9v-6tZ3SaprhNIREAQE/
 tags:
- - PN003
+  - PN003
 ---
 As a follow up to establishing a [notifications MVP](/publish-teacher-training-courses/notifications-mvp), we designed and conducted research on our initial ideas for managing email notifications within Publish.
 
@@ -43,18 +48,3 @@ When asked to select notification frequency, all participants selected ‘Each t
 > “The key thing for me is being able to react to changes that the school partners make as quickly as possible. The vast majority won’t need any further action by me as they are within the prior agreements that we have made with our partners, but in the few cases where there may be errors or inaccuracies then I would want to contact the school as soon as possible.”
 
 Participants acknowledged the benefit of a daily/weekly/monthly digest and mentioned it could be suitable for some members of their organisation.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "Notifications"
-    },
-    {
-      text: "Manage your notifications"
-    }, 
-    {
-      text: "Subscribed to notifications"
-    }
-  ]
-}) }}

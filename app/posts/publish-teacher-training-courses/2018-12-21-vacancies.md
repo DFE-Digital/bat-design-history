@@ -2,6 +2,14 @@
 title: Vacancies
 description: First design for changing vacancies at each training location on a course.
 date: 2018-12-21
+screenshots:
+  items:
+    - Organisation table showing link to edit vacancies
+    - Multiple training locations
+    - Multiple training locations (two columns)
+    - Multiple training locations with no vacancies
+    - Single training location with vacancies
+    - Single training location no vacancies
 ---
 
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
@@ -29,15 +37,3 @@ When we tried removing the message about the UCAS Apply delay it wasn’t clear 
 
 * [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
 * [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Organisation table showing link to edit vacancies" },
-    { text: "Multiple training locations" },
-    { text: "Multiple training locations (two columns)" },
-    { text: "Multiple training locations with no vacancies" },
-    { text: "Single training location with vacancies" },
-    { text: "Single training location no vacancies" }
-  ]
-}) }}

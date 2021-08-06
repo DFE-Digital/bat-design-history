@@ -3,6 +3,13 @@ layout: page
 title: Publishing during rollover
 description: What does Publish do, what changes?
 date: 2019-04-22
+screenshots:
+  items:
+    - Courses for next cycle
+    - Draft course with publish messaging
+    - Course just published
+    - Published course
+    - Course with unpublished changes
 ---
 
 During rollover there are two cycles: the current cycle, and another that’s being prepared for the next cycle. Courses in the next cycle can’t go live until the cycle begins, which is usually in October.
@@ -74,14 +81,3 @@ Once a cycle has opened all changes should revert.
 We probably need a way for providers to preview their course after it’s been published, as View on website won’t be a thing.
 
 The preview links could persist on the course page and not be dependent on the course’s state.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Courses for next cycle" },
-    { text: "Draft course with publish messaging" },
-    { text: "Course just published" },
-    { text: "Published course" },
-    { text: "Course with unpublished changes" }
-  ]
-}) }}

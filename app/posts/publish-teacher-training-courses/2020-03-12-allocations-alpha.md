@@ -2,25 +2,38 @@
 title: Allocations alpha
 description: Designing to accomodate changes to the allocations process for 2021/22.
 date: 2020-03-12
+screenshots:
+  items:
+    - Recruiting for the next cycle
+    - Publish teacher training courses
+    - Request PE courses
+    - Do you want to request PE for this organisation
+    - Intends to offer fee-funded PE
+    - Not offering fee-funded PE
+    - Who are you requesting a course for
+    - How many places would you like to request
+    - Check your information
+    - New organisation added
 related:
   items:
-  - text: UR Playback Sprint 1
-    href: https://drive.google.com/open?id=1LTdnHvZ4_3WEXjnLNQnkLBwo_KT_suwIuwus5uLeuIc
-  - text: UR Playback Sprint 2
-    href: https://drive.google.com/open?id=1MBExJ5LGdohmdqqiIPTjFKJhB-3r8NpWLGmLzAEMAOw
-  - text: UR Playback Sprint 3
-    href: https://drive.google.com/open?id=1__6rdAMfb_Ooizx2WbnEvGHq2pH_SL1Pp-wtWkaToio
-  - text: Alpha Report
-    href: https://drive.google.com/open?id=19CKc1oNcEb7GifojX7KpaI25KNqD4fAxPB2lxIpgUsw
-  - text: Rollover prototype
-    href: https://rollover-prototype.herokuapp.com/
-  - text: Request PE courses prototype
-    href: https://allocations-alpha.herokuapp.com/
+    - text: UR Playback Sprint 1
+      href: https://drive.google.com/open?id=1LTdnHvZ4_3WEXjnLNQnkLBwo_KT_suwIuwus5uLeuIc
+    - text: UR Playback Sprint 2
+      href: https://drive.google.com/open?id=1MBExJ5LGdohmdqqiIPTjFKJhB-3r8NpWLGmLzAEMAOw
+    - text: UR Playback Sprint 3
+      href: https://drive.google.com/open?id=1__6rdAMfb_Ooizx2WbnEvGHq2pH_SL1Pp-wtWkaToio
+    - text: Alpha Report
+      href: https://drive.google.com/open?id=19CKc1oNcEb7GifojX7KpaI25KNqD4fAxPB2lxIpgUsw
+    - text: Rollover prototype
+      href: https://rollover-prototype.herokuapp.com/
+    - text: Request PE courses prototype
+      href: https://allocations-alpha.herokuapp.com/
 tags:
- - PN004
- - PN005
- - PN006
+  - PN004
+  - PN005
+  - PN006
 ---
+
 The Allocations alpha explored potential changes to the [previous Allocations process](/publish-teacher-training-courses/allocations-cycle-summary).
 
 We prototyped and tested features to:
@@ -138,39 +151,3 @@ The internal ownership of Publish varies by organisation: so the proposed new al
 > Overall, this is a huge step forward, it just needs a bit of work on getting the terminology right
 
 > I know what I’m doing here and am in control of it.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "Recruiting for the next cycle"
-    },
-    {
-      text: "Publish teacher training courses"
-    },
-    {
-      text: "Request PE courses"
-    },
-    {
-      text: "Do you want to request PE for this organisation"
-    },
-    {
-      text: "Intends to offer fee-funded PE"
-    },
-    {
-      text: "Not offering fee-funded PE"
-    },
-    {
-      text: "Who are you requesting a course for"
-    },
-    {
-      text: "How many places would you like to request"
-    },
-    {
-      text: "Check your information"
-    },
-    {
-      text: "New organisation added"
-    }
-  ]
-}) }}

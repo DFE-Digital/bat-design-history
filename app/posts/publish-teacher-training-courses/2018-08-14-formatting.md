@@ -2,6 +2,16 @@
 title: Formatting
 description: Paragraphs, lists and links.
 date: 2018-08-14
+screenshots:
+  items:
+    - text: Animation showing editor features
+      src: markdown-editor.gif
+    - text: Course with Simple MDE editor
+      src: course.png
+    - text: Preview of markdown
+      src: preview.png
+    - text: About your organisation with Simple MDE editor
+      src: about-your-organisation.png
 ---
 
 From user research we’ve found that users need to format their text using paragraphs, lists and links.
@@ -48,20 +58,3 @@ Simple MDE (markdown editor) is a frontend library that enhances textareas to ma
 We can restrict features down to paragraphs, lists and links only. The library also provides an inline preview of how the markdown will render.
 
 We’ll test how this library performs out of the box in user research.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Animation showing editor features",
-    img: { src: "markdown-editor.gif" }
-  }, {
-    text: "Course with Simple MDE editor",
-    img: { src: "course.png" }
-  }, {
-    text: "Preview of markdown",
-    img: { src: "preview.png" }
-  }, {
-    text: "About your organisation with Simple MDE editor",
-    img: { src: "about-your-organisation.png" }
-  }]
-}) }}

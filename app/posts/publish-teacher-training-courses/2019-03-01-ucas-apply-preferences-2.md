@@ -2,6 +2,13 @@
 title: "UCAS Apply preferences: Letters and alerts"
 description: Only the GT12 letter and email alert preferences are needed.
 date: 2019-03-01
+screenshots:
+  items:
+    - Organisation
+    - UCAS Apply preferences
+    - "Onboarding: Apply preferences preface"
+    - Pick a letter
+    - Email alerts
 ---
 
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
@@ -36,14 +43,3 @@ We don’t have this contact data for providers yet so we can’t see if provide
 Bring the alert preference and the email the alerts are sent to together. When a provider says they want alerts there’s an email field to complete.
 
 For this to propagate to UCAS it needs to be sent through as the email for the UTT Output correspondent in the API.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Organisation" },
-    { text: "UCAS Apply preferences" },
-    { text: "Onboarding: Apply preferences preface" },
-    { text: "Pick a letter" },
-    { text: "Email alerts" }
-  ]
-}) }}

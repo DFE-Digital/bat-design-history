@@ -4,10 +4,10 @@ description: Research on the role of accredited bodies and their relationships w
 date: 2019-11-01
 related:
   items:
-  - text: Lookback sessions
-    href: https://lookback.io/dfe-digital/find-accrediting-bodies-round-3
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1tt_QwL2cU7fpZ9pg4JywENfJGp66DBWtkfTqiBYsLEY/edit#slide=id.g75932c5169_0_62
+    - text: Lookback sessions
+      href: https://lookback.io/dfe-digital/find-accrediting-bodies-round-3
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1tt_QwL2cU7fpZ9pg4JywENfJGp66DBWtkfTqiBYsLEY/edit#slide=id.g75932c5169_0_62
 ---
 
 Round 3 is a continuation of the research started in [Accredited Bodies Research Round 1](/publish-teacher-training-courses/accredited-bodies-research-round-1) and [Round 2](/publish-teacher-training-courses/accredited-bodies-research-round-2). This round examines the role of accredited bodies and their relationships with their partner schools.

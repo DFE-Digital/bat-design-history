@@ -2,15 +2,22 @@
 title: Managing users
 description: Providing a way for users to view, invite and remove users from their organisation.
 date: 2020-04-15
+screenshots:
+  items:
+    - Users
+    - Invite a user
+    - Invite a user success
+    - View a user
+    - Delete a user
 related:
   items:
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1Kb8QIVThwopRVoJYfM5hRiZ1ks6j1CE-lQlz4X9p_hM/edit?usp=sharing
-  - text: Research recordings
-    href: https://drive.google.com/drive/u/0/folders/1SvRYGvLBB3GTaqgRRQ_42ouavpGaADac
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1Kb8QIVThwopRVoJYfM5hRiZ1ks6j1CE-lQlz4X9p_hM/edit?usp=sharing
+    - text: Research recordings
+      href: https://drive.google.com/drive/u/0/folders/1SvRYGvLBB3GTaqgRRQ_42ouavpGaADac
 tags:
- - PN007
- - PN008
+  - PN007
+  - PN008
 ---
 
 This work closely follows [user management patterns](/manage-teacher-training-applications/adding-users) from the Apply service. There is an assumption that Publish and Apply have common users. Maintaining consistent UI supports the intention to provide a consistent experience across Find and Apply.
@@ -68,24 +75,3 @@ Concern over the approval process was also expressed.
 * Who approves the new account?
 * On what grounds is approval determined?
 * How long does it take?
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "Users"
-    },
-    {
-      text: "Invite a user"
-    },
-    {
-      text: "Invite a user success"
-    },
-    {
-      text: "View a user"
-    },
-    {
-      text: "Delete a user"
-    }
-  ]
-}) }}

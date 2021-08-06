@@ -2,6 +2,19 @@
 title: Request PE courses as launched for accredited bodies
 description: The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies.
 date: 2020-06-15
+screenshots:
+  items:
+    - Request PE courses
+    - Do you want to request PE for this organisation
+    - Intends to offer fee-funded PE
+    - Not offering fee-funded PE
+    - Who are you requesting a course for
+    - How many places would you like to request
+    - Check your information
+    - New organisation added
+    - The request window has closed
+    - Number of places confirmed
+    - No PE requests were made
 ---
 
 The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies.
@@ -74,43 +87,4 @@ Becoming a Teacher team
 {{ appEmail({
   subject: "Request teacher training courses for 2021/22",
   content: requestPeEmail
-}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "Request PE courses"
-    },
-    {
-      text: "Do you want to request PE for this organisation"
-    },
-    {
-      text: "Intends to offer fee-funded PE"
-    },
-    {
-      text: "Not offering fee-funded PE"
-    },
-    {
-      text: "Who are you requesting a course for"
-    },
-    {
-      text: "How many places would you like to request"
-    },
-    {
-      text: "Check your information"
-    },
-    {
-      text: "New organisation added"
-    },
-    {
-      text: "The request window has closed"
-    },
-    {
-      text: "Number of places confirmed"
-    },
-    {
-      text: "No PE requests were made"
-    }
-  ]
 }) }}

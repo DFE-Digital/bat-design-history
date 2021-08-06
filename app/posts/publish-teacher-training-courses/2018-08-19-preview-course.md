@@ -2,31 +2,16 @@
 title: Preview course
 description: Different preview states depending on course type and state.
 date: 2018-08-19
+screenshots:
+  items:
+    - Preview of fee paying course with all fields
+    - Preview of fee paying course with only required fields
+    - Preview of empty fee paying course
+    - Preview of salaried course with all fields
+    - Preview of salaried course with only required fields
+    - Preview of empty salaried course
 ---
 
 Screenshots showing different preview states based on type and completeness of course.
 
 The [prototype preview logic](https://github.com/DFE-Digital/publish-teacher-training-prototype/blob/main/app/views/preview.html) may also help when building this.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Preview of fee paying course with all fields",
-    img: { src: "preview-of-fee-paying-course-with-all-fields.png" }
-  }, {
-    text: "Preview of fee paying course with only required fields",
-    img: { src: "preview-of-fee-paying-course-with-only-required-fields.png" }
-  }, {
-    text: "Preview of empty fee paying course",
-    img: { src: "preview-of-empty-fee-paying-course.png" }
-  }, {
-    text: "Preview of salaried course with all fields",
-    img: { src: "preview-of-salaried-course-with-all-fields.png" }
-  }, {
-    text: "Preview of salaried course with only required fields",
-    img: { src: "preview-of-salaried-course-with-only-required-fields.png" }
-  }, {
-    text: "Preview of empty salaried course",
-    img: { src: "preview-of-empty-salaried-course.png" }
-  }]
-}) }}

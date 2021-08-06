@@ -4,15 +4,15 @@ description: We were interested in learning more about users who belong to multi
 date: 2020-06-23
 related:
   items:
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1nEHtz_gDq_OXtiAPsucswPoUYEa1qiH6TV8GIPCSBeQ/edit#slide=id.g8a7af39ae0_0_32
-  - text: Research recordings
-    href: https://drive.google.com/drive/u/0/folders/1NBOe2-5ltGeoWIOik1-CQ4Vfhz3MPsoD
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1nEHtz_gDq_OXtiAPsucswPoUYEa1qiH6TV8GIPCSBeQ/edit#slide=id.g8a7af39ae0_0_32
+    - text: Research recordings
+      href: https://drive.google.com/drive/u/0/folders/1NBOe2-5ltGeoWIOik1-CQ4Vfhz3MPsoD
 tags:
- - PN010
- - PN011
- - PN012
- - PN013
+  - PN010
+  - PN011
+  - PN012
+  - PN013
 ---
 
 We were interested in learning more about users who belong to multiple organisations.

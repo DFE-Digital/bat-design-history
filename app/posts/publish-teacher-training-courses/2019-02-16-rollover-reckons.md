@@ -2,6 +2,12 @@
 title: Rollover reckons
 description: Thoughts on what rollover might look like. And notes on what rollover is right now.
 date: 2019-02-16
+screenshots:
+  title: First designs
+  items:
+    - Start rollover
+    - Pick which courses
+    - Multiple cycles
 ---
 
 ## UCAS rollover
@@ -39,16 +45,3 @@ Useful allocations documents:
 ## Between cycles
 
 While there are two cycles, providers need to easily manage courses and locations in both. They need to manage vacancies in the current cycle, for example closing courses for summer when they aren’t recruiting.
-
-* * *
-
-## First designs
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Start rollover" },
-    { text: "Pick which courses" },
-    { text: "Multiple cycles" }
-  ]
-}) }}
