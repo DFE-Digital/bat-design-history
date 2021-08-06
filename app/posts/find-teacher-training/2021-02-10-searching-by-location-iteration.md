@@ -77,16 +77,10 @@ This makes the design more consistent with Manage and Support.
 {% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   items: [{
-    id: "filters-mobile-closed",
-    img: {
-      alt: "Screenshot of filters hidden on mobile"
-    },
+    text: "Filters hidden on mobile",
     caption: "Filters hidden."
   }, {
-    id: "filters-mobile-open",
-    img: {
-      alt: "Screenshot of filters revealed on mobile"
-    },
+    text: "Filters revealed on mobile",
     caption: "Filters revealed."
   }]
 }) }}

@@ -2,7 +2,12 @@
 title: Results on a map – Full screen
 description: First pass at showing courses on a full screen map.
 date: 2018-10-07
-tags: maps
+screenshots:
+  items:
+    - Results on a map
+    - Results open on a map
+    - Results on a map mobile
+    - Mobile filter open
 ---
 
 A first pass at putting search results on a full-width map.
@@ -48,20 +53,3 @@ Give the map as much space as possible, going full width. This should make it ea
 As per convention, keep a space on the left for controlling the view: title, controls and filters for searching again.
 
 On mobile this view moves to below the map and the filter toggle expands over the map like a modal. (In the screenshots it’s missing a + icon and a way of hiding the modal)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Results on a map",
-    img: { src: "results-on-a-map.png" }
-  }, {
-    text: "Results open on a map",
-    img: { src: "01b-results-open-on-map.png" }
-  }, {
-    text: "Results on a map mobile",
-    img: { src: "results-on-a-map-mobile.png" }
-  }, {
-    text: "Mobile filter open",
-    img: { src: "mobile-filter-open.png" }
-  }]
-}) }}
