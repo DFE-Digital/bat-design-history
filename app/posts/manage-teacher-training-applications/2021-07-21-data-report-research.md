@@ -107,9 +107,9 @@ This meant that users needed to concentrate carefully in order to understand the
 
 ### When participants would use the reports
 
-Participants said that they would refer to the status report during the recruitment cycle. They would use the data to monitor how fast courses were filling up. 
+Participants said that they would refer to the status report regularly during the recruitment cycle. They would use the data to monitor how fast courses were filling up. 
 
-They would use the progress report to help review their processes at the end of each recruitment cycle. 
+Participants would use the progress report less frequently during the recruitment cycle. But they would also use it when reviewing their processes at the end of the cycle. 
 
 ### Seeing where candidates leave the application process
 
