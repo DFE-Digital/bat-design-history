@@ -87,7 +87,7 @@ We found that participants:
 - easily assigned a user to an application
 - expected that an assigned user would be notified
 - easily removed assigned users and filtered by assigned users
-- could delete a user, although some participants had minor issues
+- understood the impact of deleting a user on assignment - but most felt they would benefit from a warning
 - understood that applications would be unassigned if their user was deleted
 - may need to be able to bulk assign applications
 - would go to the timeline or activity log to see who had previously been assigned
