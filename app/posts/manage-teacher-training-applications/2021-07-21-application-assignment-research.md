@@ -64,7 +64,7 @@ After clicking to save assigned users, participants were returned to the applica
 
 We wanted to understand: 
 
-- their understanding of what it was telling them they had done 
+- what they thought the success banner was telling them 
 - whether they expected that anything else would happen - for example, whether the assigned user would receive a notification
 
 ![Application details page with success message showing that a user has been assigned](application-details--success.png)
@@ -81,14 +81,14 @@ We had not made any changes to the delete user flow. We wanted to understand whe
 ![Delete user page with no indication that the user was assigned to any applications](delete-user.png)
 
 ## What we found
+
 We found that participants:
 
 - spotted that the assignment feature existed with minimal direction from us
 - easily assigned a user to an application
 - expected that an assigned user would be notified
 - easily removed assigned users and filtered by assigned users
-- understood the impact of deleting a user on assignment - but most felt they would benefit from a warning
-- understood that applications would be unassigned if their user was deleted
+- understood that deleted users would be unassigned from applications - but most participants felt they would benefit from a warning
 - may need to be able to bulk assign applications
 - would go to the timeline or activity log to see who had previously been assigned
 
@@ -104,7 +104,7 @@ Two participants did not immediately see the ‘change’ link. They found it qu
 
 ### Notifying assigned users
 
-Participants from smaller providers would be happy to get an email notification each time users were assigned to an application. 
+Participants from smaller providers would be happy to get an email notification each time users are assigned to an application. 
 
 Those from larger providers thought that this would be overwhelming. One mid-sized provider suggested a ‘digest’ email, saying something like “you have been assigned to 20 applications today”.
 
