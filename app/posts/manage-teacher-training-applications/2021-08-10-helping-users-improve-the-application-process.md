@@ -1,12 +1,12 @@
 ---
-title: Helping users understand and improve the application process
-description: First release to help users check how quickly their courses are filling up
+title: Helping users check how quickly courses are filling up
+description: Various changes to get the design of the reports area ready for an initial release
 date: 2021-07-26
 tags:
 - MN027
 ---
 
-We’ve made some changes to the existing ‘Export data’ area to help users make the application process better.
+We’ve made some changes to the existing ‘Export data’ area, as part of the work to help users make the application process better.
 
 The user need this work aims to address is:
 
@@ -20,24 +20,26 @@ The user need this work aims to address is:
   status: needs.data.status
 }) }}
 
-A user might do this by, for example:
+A user might manage the flow by, for example:
 
 - closing a course
 - moving the candidate to a different course
 - being more or less stringent about the quality of candidates
 - increasing or reducing marketing efforts for a particular course
 
+We had already designed and tested a report showing the statuses of applications. These changes were to get the designs ready for an initial release.
+
 ## What we changed
 
 ### Changed ‘Export data’ link to ‘Reports’
 
-We renamed the ‘Export data’ section to ‘Reports’ to better reflect that this section includes the new status of active applications report.
+We renamed the ‘Export data’ section to ‘Reports’ to better reflect that this section includes the new report and not just data exports.
 
 ### Removed the link to the HESA export from the application data export page
 
-Currently, the application data export page has a link to the HESA export.
+Currently, the application data export page has a link to the Higher Education Statistics Agency (HESA) export.
 
-But now the HESA export is accessible from the reports page, so we’ve:
+But now the HESA export is accessible directly from the reports page, so we’ve:
 
 - removed the link from the application data export page
 - changed the breadcrumb on the HESA export page
@@ -46,9 +48,9 @@ But now the HESA export is accessible from the reports page, so we’ve:
 
 The report was previously called ‘Status of applications’.
 
-Research showed that the title meant that some users expected all statuses to be included, not just those that help users know how quickly their courses are filling up.
+Research showed that some users expected all statuses to be included, not just those that help users know how quickly their courses are filling up.
 
-By changing the name of the status report to ‘Status of active applications’, users are less likely to expect the report to include statuses like ‘rejected’ and ‘application withdrawn’.
+By changing the name of the status report to ‘Status of active applications’, users are less likely to expect the report to include statuses like ‘rejected’.
 
 ## How it works
 
@@ -56,9 +58,9 @@ By changing the name of the status report to ‘Status of active applications’
 
 This page provides links to the:
 
-- existing application data export
-- existing HESA export
-- new status of active applications report
+- application data export
+- HESA export
+- status of active applications report
 
 If the user belongs to multiple organisations, the status of active applications report will be listed under an h2 heading for each organisation.
 
@@ -70,18 +72,13 @@ There’s an ‘Export data (CSV)’ link which generates a CSV.
 
 The courses are listed alphabetically by course name. The course name and code will both be displayed.
 
-If a course has a partner organisation, it’s shown under the course name as grey hint text.
+If a course has a partner organisation, it’s shown under the course name as grey text.
 
 ## Future considerations
 
-At the moment the application data export and HESA export works across multiple organisations.
+At the moment the application data export and HESA export work across multiple organisations.
 
 In future these pages will be scoped to a single organisation like the status of active applications report.
-
-## Screenshots
-
-Data export page without link to HESA
-Status of active applications report (maybe with and without partner hint text)
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
