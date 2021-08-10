@@ -1,5 +1,5 @@
 ---
-title: Data report research
+title: Data reports research
 description: We wanted to know if users could find, understand and use reports about the status and progress of applications
 date: 2021-07-21
 related:
@@ -52,7 +52,7 @@ Some users went to the ‘status of applications’ report first. We wanted to f
 
 - understood what the report was showing
 - could use the report to answer questions about their current performance
-- understood the terminology in the report, especially the column headings
+- understood the terminology in the report, particularly the column headings
 
 ![Status of applications table](status-of-applications.png)
 
@@ -75,7 +75,7 @@ We found that:
 - participants generally understood the data in the status report
 - the terms ‘ready to enrol’ and ‘awaiting conditions’ were unclear
 - participants would refer to the status report during the recruitment cycle
-- participants would refer to the progress report at the end of a recruitment cycle
+- participants would refer to the progress report throughout, but particularly at the end of a recruitment cycle
 - it was not always easy for participants to pull out information quickly from the progress report
 - there was a need to see where candidates left the application process
 - ​​showing numbers of applications in the progress report helped participants to understand it, to an extent
@@ -88,9 +88,9 @@ When given a task to find either data downloads or performance statistics, parti
 
 Participants felt that the data would be useful and were able to answer our questions about it. 
 
-They understood that the data was grouped by course with the partner organisations indicated.
+They understood that the data was grouped by course and the partner organisations were indicated.
 
-Participants were not certain what the ‘ready to enrol’ and ‘awaiting conditions’ status labels implied about the state of applications.
+Some participants were not certain what the ‘ready to enrol’ and ‘awaiting conditions’ status labels implied about the state of applications.
 
 ### Understanding the progress report 
 
@@ -99,9 +99,9 @@ Some participants had to view the data very carefully to pick out specific infor
 - the length of the column headings
 - subtle differences between the headings 
 
-In addition, some participants seemed to expect that as the layout of columns from left to right would reflect the progression of applications.  
+In addition, some participants seemed to expect that the layout of columns from left to right would reflect the progression of applications.  
 
-This was not the case. For example, ‘Applications that led to interviews’ and ‘Applications that led to offers’ are qualitatively different, rather than adjacent stages of a process. 
+This was not the case. For example, ‘Applications that led to interviews’ and ‘Applications that led to offers’ are next to each other in the report but are not adjacent stages of the application process. 
 
 This meant that users needed to concentrate carefully in order to understand the differences.
 
@@ -121,7 +121,7 @@ They wanted to see where in the process the candidates stopped applying because 
 
 Participants appreciated being able to see the numbers as well as percentages, but they raised more questions than they answered.
 
-We did not include a column showing the total number of applications received. Several participants couldn’t make sense of the number of applications that had made it to interview without seeing this total. Some attempted to calculate it.
+We did not include a column showing the total number of applications received. Several participants could not make sense of the number of applications that had made it to interview without seeing this total. Some attempted to calculate it.
 
 In addition, the application numbers were the same in each of the final three columns: 
 
@@ -131,6 +131,6 @@ In addition, the application numbers were the same in each of the final three co
 
 This is because each of these is the result of the candidate reaching the ready to enrol state. However, the percentages are different as they are calculated based on different starting stages. 
 
-For example, “applications which led to candidates being ready to enrol” is the total ‘conversion’ rate for the course. This would be smaller than the percentage of candidates who successfully complete their conditions.
+For example, “applications which led to candidates being ready to enrol” is the total ‘conversion’ rate for the course. This will be smaller than the percentage of candidates who successfully complete their conditions.
 
-Participants found this confusing and couldn’t easily work out why the numbers were the same. This also suggests that they did not fully understand the column headings.
+Participants found this confusing and could not easily work out why the numbers were the same but the percentages were different. This also suggests that they did not fully understand the column headings.
