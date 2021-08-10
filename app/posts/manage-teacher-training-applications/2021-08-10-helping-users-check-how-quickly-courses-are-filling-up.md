@@ -1,7 +1,7 @@
 ---
 title: Helping users check how quickly courses are filling up
 description: Various changes to get the design of the reports area ready for an initial release
-date: 2021-07-26
+date: 2021-08-10
 tags:
 - MN027
 ---
@@ -10,14 +10,14 @@ We’ve made some changes to the existing ‘Export data’ area, as part of the
 
 The user need this work aims to address is:
 
-{% set needs = collections['user-need'] | slugs(tags) | first %}
+{% set need = collections['user-need'] | slugs(tags) | first %}
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: needs.data.title,
-  description: needs.templateContent,
-  url: needs.url,
-  status: needs.data.status
+  title: need.data.title,
+  description: need.templateContent,
+  url: need.url,
+  status: need.data.status
 }) }}
 
 A user might manage the flow by, for example:
