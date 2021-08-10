@@ -1,34 +1,123 @@
 ---
-title: Research into setting organisation and user permissions
-description: Determining whether users can set organisation and user permissions, and understand the links between the two
+title: Organisation and user permissions research
+description: Finding out whether users can set organisation and user permissions, and understand the links between the two
 date: 2021-06-21
 related:
   items:
   - text: Research findings slides
     href: https://docs.google.com/presentation/d/1-NNXVPR68PbK84pU8yMmFpOZcRyJDPYdpdw3WNuYMxU/edit#slide=id.p3
+  - text: Design history entry about displaying permissions in the user list
+    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/displaying-permissions-in-the-user-list/ 
+  - text: Design history entry about moving organisation permissions guidance
+    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/ 
 ---
 
-We tested the flow which providers use to set up permissions between their own organisation and their partners. We also tested how they set up permissions for users within their own organisation. 
+This round of research was part of an extended piece of work improving permissions.
 
-We wanted to see if participants: 
+In this round, we wanted to see if participants could: 
 
-- could understand the permissions model 
-- were able to set up permissions to reflect how their organisation works with its partners 
-
-For this iteration of the design we had removed the organisation hint text from checkboxes when selecting user permissions. We had done this because very lengthy hint text is not recommended from an accessibility point of view. 
-
-So in particular we were looking at whether the details component was sufficient to explain the connection between organisation and user permissions.
+- understand the permissions model 
+- set up permissions to reflect how their organisation works with its partners 
+- set up permissions for a new user to reflect how they would work within their organisation
 
 ## What we researched
 
+We tested the flow which providers use to set up permissions between their own organisation and their partners. We also tested how they set up permissions for users within their own organisation. 
+
+### Organisation permissions
+
+We started with an email which participants would receive when a partner organisation joined the service. It gave some background information and asked the participant to click to set up organisation permissions.
+
+The flow continued with the 'set up organisation permissions' start page, then a page to set the permissions each partner organisation. 
+
+After all organisation permissions had been chosen, the participant reached a 'check answers' page and then a confirmation page.
+
+### User permissions
+
+We asked participants to add a user and give them appropriate permissions. The flow took them from the organisation settings page to the users page, where they could click a button to invite a user.
+
+After giving the name and email address of the user, the participant had to set permissions. 
+
+For this iteration of the design we had removed hint text from checkboxes when selecting user permissions. We had done this because very long hint text is considered bad for accessibility. 
+
+In particular we were looking at whether the details component was sufficient to explain the connection between organisation and user permissions.
+
+## Who we researched with
+
+We carried out research sessions with:
+
+- 2 higher education institutions (HEIs)
+- 4 school-centred initial teacher training (SCITT) providers
+- 3 school direct providers
+
+All participants were administrators or admissions leads.
+
+## What we found
+
+All participants set up organisation permissions correctly. 
+
+The new user list design gave participants a good overview of their colleagues’ permissions. Participants were able to invite users and change their permissions. 
+
+The user details page helped users understand how organisation permissions affected user permissions. It did this by listing the organisations to which each permission applied next to the permission itself.
+
+Some participants had trouble understanding:
+
+- how organisation permissions and user permissions relate to each other
+- what ‘criminal convictions’ and ‘diversity information’ permissions included
+- which users belong to which organisation
+- who their partners are, when user permissions apply to all or none of the relationships
+
+We also found that few participants expanded the details component on the user permissions page.
+
+### How organisation permissions and user permissions relate to each other
+
+It was not clear to particpants how organisation permissions and user permissions relate to each other. 
+
+For example, some participants did not realise that they may need to change both organisation and user permissions to allow a user to view criminal convictions. Even some participants who did understand this were unable to navigate the service to do it. 
+
+Some participants could not fully explain what they’d done after they had set up organisation permissions.
+
+### ‘Criminal convictions and professional misconduct’ and ‘diversity information’ permissions
+
+Some participants found the ‘criminal convictions’ and ‘diversity information’ permission labels unclear. They were not sure what information would be restricted after permitting certain organisations with these permissions.
+
+During the course of the research we changed the wording of the ‘diversity’ permission to ‘sex, disability and ethnicity information’. Participants found this wording to be clear.
+
+We did not change the 'criminal convictions' wording.
+
+### Understanding which users belong to which organisation
+
+The scope of the users list wasn’t completely clear. Some participants:
+
+- asked if the list included users in their partner organisations
+- talked about working out who belonged to which organisation based on their email address
+
+This may cause users to add partner organisation users to their organisation or to contact support.
+
+During the round of research we added the organisation name above the h1 heading as a caption. This helped users understand what they were looking at. 
+
+We still need to test understanding of the organisational settings page for users who belong to multiple organisations.
+
+### Understanding who their partners are when user permissions apply to all or none of the relationships 
+
+Some participants did not know who their partners were when user permissions applied to all or none of their relationships.
+
+Users may not be sure if they have added the correct permissions for a user.
+
+We responded to this by changing the content during the round of research. Spelling out all the organisations even when it applied to all partners. This worked well.)))
+
+### Details component
+
+Most participants had to be directed to use the details component (the show/hide triangle control). They would not have used it otherwise.
+
+This meant they would not have seen the content explaining the impact of organisation permissions on user permissions. This information is important in building an understanding what a user can and cannot do. 
+
+Although participants were able to set permissions, they did not have a strong mental model of what they had done and the implications of it.
+
+If users cannot access this information then they may create new users without fully understanding what those users will be able to do.
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [{
-    text: "Data sharing agreement - confirmation",
-    img: {
-      src: "dsa-confirmation.png"
-    }
-  }, {
     text: "Set up organisation permissions - start page",
     img: {
       src: "set-up--start.png"
@@ -70,84 +159,3 @@ So in particular we were looking at whether the details component was sufficient
     }
   }]
 }) }}
-
-## Who we researched with
-
-We carried out research sessions with:
-
-- 2 higher education institutions (HEIs)
-- 4 school-centred initial teacher training (SCITT) providers
-- 3 school direct providers
-
-All participants were administrators or admissions leads.
-
-## What we found
-
-All participants set up organisation permissions correctly. 
-
-The user list page gave users a good overview of their colleagues’ permissions. Participants were able to invite users and change their permissions. 
-
-The user details page helped users understand how organisation permissions affected user permissions. This was because it listed out the organisations to which each permission applied next to the permission itself.
-
-But there were some problematic areas.
-
-### Understanding how organisation permissions and user permissions relate to each other
-
-It was not clear to users how organisation permissions and user permissions relate to each other. For example, participants did not realise that they may need to change both organisation and user permissions to allow a user to view criminal convictions.
-
-Even when some participants realised that they needed to make changes to both organisational and user permissions, they were often unable to navigate the service to do it. 
-
-Some participants couldn’t fully explain what they’d done after they had set up organisation permissions.
-
-#### What this means
-
-We could do more to explain to users what we’re asking them to do when it comes to setting up organisation permissions.
-
-If we don’t, it may mean users ask for support when managing permissions and adding users.
-
-### Understanding ‘criminal convictions’ and ‘diversity information’ permissions
-
-Some participants found the ‘criminal convictions’ and ‘diversity information’ permission labels unclear. 
-
-Some participants were not sure what information would be restricted after permitting certain organisations with these permissions.
-
-#### What this means
-
-This may mean some users are reluctant to set up permissions without contacting support.
-
-During the course of the research we changed the wording of the ‘diversity’ permission to ‘XXX’ which worked well. 
-The ‘criminal convictions’ label may benefit from further work.
-
-### Understanding which users belong to which organisation
-
-The scope of the users list wasn’t completely clear. Some participants:
-
-- asked if the list of users included their partner organisations
-- talked about working out who belonged to which organisation based on their email address
-
-#### What this means
-
-This may cause users to add partner org users to their organisation or to contact support.
-
-During this round, we added the organisation name above the h1 heading as a caption.
-
-We need to test understanding for a user who encounters the multi-organisation organisational settings page.
-
-### Understanding who their partners are when user permissions apply to all or none of the relationships
-Some participants didn’t know who their partners were when user permissions applied to all or none of their relationships.
-
-#### What this means
-Users may not be sure if they have added the correct permissions for a user.
-
-During this round, we spelt out all the organisations even when it applied to all partners. This worked well.
-
-### Little use of the details component
-
-Participants rarely expanded the details component (the show/hide triangle control) that explained the impact of organisation permissions on user permissions. Most participants had to be directed to use the component as they would not have used it otherwise.
-
-#### What this means
-
-This information is important in building an understanding of how organisation permissions work in tandem with user permissions to determine what a user can and cannot do and for which organisations. So whilst participants were able to set permissions, they had not built a model of what they had actually done and the implications of this.
-
-If users cannot access this information then they may create new users in the system without fully understanding what it is they’re allowing those users to be able to do.
-
