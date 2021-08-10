@@ -4,6 +4,16 @@ description: Various changes to get the design of the reports area ready for an 
 date: 2021-08-10
 tags:
 - MN027
+screenshots:
+  items:
+    - text: Reports landing page
+      src: reports.png
+    - text: Reports landing page when the user belongs to multiple organisations
+      src: reports--multi-org.png
+    - text: Data export page now without a link to the HESA export
+      src: export-application-data.png
+    - text: HESA export now with a new breadcrumb
+      src: export-hesa-data.png
 ---
 
 We’ve made some changes to the existing ‘Export data’ area, as part of the work to help users make the application process better.
@@ -80,27 +90,4 @@ At the moment the application data export and HESA export work across multiple o
 
 In future these pages will be scoped to a single organisation like the status of active applications report.
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Reports landing page",
-    img: {
-      src: "reports.png"
-    }
-  }, {
-    text: "Reports landing page when the user belongs to multiple organisations",
-    img: {
-      src: "reports--multi-org.png"
-    }
-  }, {
-    text: "Data export page now without a link to the HESA export",
-    img: {
-      src: "export-application-data.png"
-    }
-  }, {
-    text: "HESA export now with a new breadcrumb",
-    img: {
-      src: "export-hesa-data.png"
-    }
-  }]
-}) }}
+
