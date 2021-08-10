@@ -2,6 +2,10 @@
 title: Who did what and when
 description: The beginnings of an audit trail for content.
 date: 2018-08-20
+screenshots:
+  items:
+    - About your organisation
+    - Course
 ---
 
 These are the beginnings of an audit trail for content. We will record the most recent author and publisher, and the times these events happen.
@@ -13,17 +17,3 @@ This information will also help with support.
 [All states in prototype](/publish-teacher-training-courses/publish-changes/iteration-aug-15)
 
 [Trello](https://trello.com/c/MdtRyOft/129-surface-information-about-who-and-when-the-last-draft-about-your-org-was-saved)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "About your organisation",
-      img: { src: "about-your-organisation.png" }
-    },
-    {
-      text: "Course",
-      img: { src: "course.png" }
-    }
-  ]
-}) }}

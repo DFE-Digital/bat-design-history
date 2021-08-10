@@ -2,6 +2,11 @@
 title: Location labels and survey research
 description: First attempts to understand location with a classification exercise.
 date: 2018-11-16
+screenshots:
+  items:
+    - Organisation
+    - Locations
+    - Location survey
 ---
 
 Following research on maps with candidates and [discussions with providers about location](/publish-teacher-training-courses/the-location-problem), we sought to focus further research by providing prototypes.
@@ -66,17 +71,3 @@ Email and website field: This seemed to be liked, as users could put in the webs
 Inputting form: The University Site label was not correct - they don’t spend most of their time there, only some. It wasn’t wholly clear you could check more than one box - or how this information would look to candidates. There’s some discrepancies of terminology, UCL don’t use ‘professional training’, perhaps the labels need to be more generic - e.g. Uni campus, host school, placement school. The ‘area’ feature was understood well by Hertfordshire Uni, but not used by any other organisation. He liked that he could put in a rough radius and the number of schools, signifying the extent of their organisation. Two people saw the label and that once an option was picked, it was highlighted in the table. They wanted to all change the location details currently in within this tool. They wanted to change the address and the name of it - not ‘main site’! Alex also very specifically said they’re NOT places you apply, they are schools you can choose when applying - this breaks our method of calling them ‘application locations’.
 
 [Full write up and affinity mapping](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/737280130/5th+round+provider+insights)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Organisation",
-    img: { src: "01-organisation.png" }
-  }, {
-    text: "Locations",
-    img: { src: "02-locations.png" }
-  }, {
-    text: "Location survey",
-    img: { src: "03-location-survey.png" }
-  }]
-}) }}

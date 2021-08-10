@@ -2,6 +2,18 @@
 title: Prompting candidates to review their answers before submitting
 description: Making recommendations to candidates on how they can improve their application prior to submission, aka ‘flight check’.
 date: 2021-04-22
+screenshots:
+  items:
+    - text: Reviewing course choices
+      caption: If more choices are available, we show how many
+    - text: Reviewing GCSE with pass grade
+    - text: Reviewing GCSE without pass grade
+    - text: Reviewing degrees
+    - text: Reviewing work history
+    - text: Reviewing personal statement
+    - text: Reviewing subject knowledge
+    - text: Asking for details of how candidate is working towards meeting GCSE requirement
+      src: explanation-if-no-gcse-pass-grade.png
 ---
 
 Now that we have greater insight into common [reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-3/), we are better placed to make recommendations to candidates on how they can improve their application and be more likely to have a successful outcome.
@@ -89,25 +101,3 @@ However, we do know the standard ITT entry criteria regarding GCSEs and their eq
 Currently, we ask candidates to explain how they plan to meet this criteria if they do not have this qualification, but not if they enter a non-pass grade (i.e. a grade lower than C or 4).
 
 To address this, we added an additional question to the GCSE flow. If a candidate enters a non-pass grade, we ask them the same question that would be asked if they had said they don’t have this qualification yet.
-
-{{ appScreenshots({
-  items: [{
-    text: "Reviewing course choices",
-    caption: "If more choices are available, we show how many"
-  }, {
-    text: "Reviewing GCSE with pass grade"
-  }, {
-    text: "Reviewing GCSE without pass grade"
-  }, {
-    text: "Reviewing degrees"
-  }, {
-    text: "Reviewing work history"
-  }, {
-    text: "Reviewing personal statement"
-  }, {
-    text: "Reviewing subject knowledge"
-  }, {
-    id: "explanation-if-no-gcse-pass-grade",
-    text: "Asking for details of how candidate is working towards meeting GCSE requirement"
-  }]
-}) }}

@@ -34,7 +34,7 @@ So we decided to lay out the content like the other permissions. We used check i
 
 ### Check answers
 
-[See previous design here](manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-set-up-check-answers-page).
+[See previous design here](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-set-up-check-answers-page).
 
 The previous design made it hard to see which relationships related to which organisation. So we decided to use the card component as shown below.
 
@@ -46,7 +46,7 @@ And we added a note to explain why view permissions cannot be changed.
 
 ### List page
 
-In the [previous design](manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-list-page) we labelled the page ‘Organisations’ but the section only lets you manage organisational permissions so we updated the heading.
+In the [previous design](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-list-page) we labelled the page ‘Organisations’ but the section only lets you manage organisational permissions so we updated the heading.
 
 And it didn’t give users any context as to what they could do in this section. So we added some guidance too.
 

@@ -2,6 +2,91 @@
 title: Templates
 description: Use templates to share information between courses.
 date: 2018-07-05
+screenshots:
+  items:
+    - text: Courses
+      caption: The courses view (unfolded, showing each variant of a course) with a column showing which template each course uses. If the course doesn’t use a template then ‘Custom course’ is displayed.
+    - text: Templates
+      caption: |
+        A tab for templates showing all templates an organisation has made. This table might be expanded to include how many courses each one is applied to.
+
+        ### Results
+
+        Users navigated to and from this list easily. One user expected the table of templates to eventually show state – eg published or approved.
+    - text: New template
+      caption: |
+        Create a template by choosing a name.
+
+        ### Results
+
+        Users followed our guidance and experimented with template names similar to the one suggested. Names used were:
+
+        * Secondary PGCE courses
+        * Primary PGCE courses
+        * Tuition fee
+        * Secondary PGCE information
+        * Secondary PGCE - core
+        * History Secondary PGCE course
+        * Secondary French PGCE
+        * Primary Non-Salaried
+        * English
+        * Secondary PGCE (M) QTS
+        * Secondary St Marys Unsalaried
+        * SCITT
+        * Darrick Wood SDS (SDS means ‘school direct salaried’)
+    - text: Template
+      caption: |
+        A template looks the same as a course. It can be edited in parts and previewed.
+
+        ### Results
+
+        Sometimes users couldn’t tell if they were looking at a template or a course.
+
+        After entering information it is summarised on this page, some users then mistook this page to be a preview of the course, thinking that this might be what candidates would see.
+
+        We might want to switch this to the simpler [task-list pattern](https://design-system.service.gov.uk/patterns/task-list-pages/) that shows ‘completed’ badges, maybe indicating word counts too.
+    - text: Set fields for a template
+      caption: An example of fields available for a template.
+    - text: Template preview
+      caption: |
+        A template preview needs to indicate:
+
+        * that it’s a template
+        * which bits will vary by course
+
+        Hypothesis: There might be a need to indicate where each field can be edited.
+
+        ### Results
+
+        Users were confused about the missing “about your organisation” and “training with a disability” fields. Most did find where to add these fields eventually but the section previews should point to where information can be entered.
+    - text: Apply template to courses
+      caption: |
+        A bulk editing screen to apply a template to many courses at once. This could be delivered in a later iteration of templates.
+
+        ### Results
+
+        Users who found this page were able to apply templates to courses. Most users however applied courses one by one through the course view (below).
+    - text: Pick a template for a course
+      caption: |
+        When navigating to a course users are presented with a choice on how to proceed. They can pick a template or choose to write a custom course description.
+
+        ### Results
+
+        Users often clicked through to one of these pages as their first action. A prompt asking them to create their first template worked well.
+
+        When presented with a list of templates users were able to make a choice easily and understood the outcome. Some users were distracted or confused by the ‘View template’ link in the form.
+
+        Writing custom course content was also understood.
+    - text: Template selected for a course
+      caption: |
+        Once a template is selected a user can preview the course or click through to the template itself. No other fields are needed.
+
+        ### Results
+
+        Users searched this page to find a way to tweak or modify a template for a specific course. Some did this on the preview too.
+    - text: Don’t use a template
+      caption: If a custom course is selected the course fields will appear and the course can be previewed and submitted to DfE for the QA process.
+    - text: Course preview
 ---
 
 A first pass at providing users with a template function.
@@ -81,106 +166,3 @@ We saw 2 users misunderstand templates, they created subject specific course tem
 There’s some concept of a template in the tool provided by UCAS. Users can select a training programme from which they can copy fields. Though once a copy has been made no subsequent edits are updated – users must resort to copy and paste again.
 
 [UCAS documentation for ‘Entry profiles’](https://www.ucas.com/file/115116/download?token=Du-edwFy)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Courses",
-    img: { src: "courses.png" },
-    caption: "The courses view (unfolded, showing each variant of a course) with a column showing which template each course uses. If the course doesn’t use a template then ‘Custom course’ is displayed."
-  }, {
-    text: "Templates",
-    img: { src: "templates.png" },
-    caption: "A tab for templates showing all templates an organisation has made. This table might be expanded to include how many courses each one is applied to.
-
-### Results
-
-Users navigated to and from this list easily. One user expected the table of templates to eventually show state – eg published or approved."
-  }, {
-    text: "New template",
-    img: { src: "new-template.png" },
-    caption: "Create a template by choosing a name.
-
-### Results
-
-Users followed our guidance and experimented with template names similar to the one suggested. Names used were:
-
-* Secondary PGCE courses
-* Primary PGCE courses
-* Tuition fee
-* Secondary PGCE information
-* Secondary PGCE - core
-* History Secondary PGCE course
-* Secondary French PGCE
-* Primary Non-Salaried
-* English
-* Secondary PGCE (M) QTS
-* Secondary St Marys Unsalaried
-* SCITT
-* Darrick Wood SDS (SDS means ‘school direct salaried’)"
-  }, {
-    text: "Template",
-    img: { src: "template.png" },
-    caption: "A template looks the same as a course. It can be edited in parts and previewed.
-
-### Results
-
-Sometimes users couldn’t tell if they were looking at a template or a course.
-
-After entering information it is summarised on this page, some users then mistook this page to be a preview of the course, thinking that this might be what candidates would see.
-
-We might want to switch this to the simpler [task-list pattern](https://design-system.service.gov.uk/patterns/task-list-pages/) that shows ‘completed’ badges, maybe indicating word counts too."
-  }, {
-    text: "Set fields for a template",
-    img: { src: "set-fields-for-a-template.png" },
-    caption: "An example of fields available for a template."
-  }, {
-    text: "Template preview",
-    img: { src: "template-preview.png" },
-    caption: "A template preview needs to indicate:
-
-* that it’s a template
-* which bits will vary by course
-
-Hypothesis: There might be a need to indicate where each field can be edited.
-
-### Results
-
-Users were confused about the missing “about your organisation” and “training with a disability” fields. Most did find where to add these fields eventually but the section previews should point to where information can be entered."
-  }, {
-    text: "Apply template to courses",
-    img: { src: "apply-template-to-courses.png" },
-    caption: "A bulk editing screen to apply a template to many courses at once. This could be delivered in a later iteration of templates.
-
-### Results
-
-Users who found this page were able to apply templates to courses. Most users however applied courses one by one through the course view (below)."
-  }, {
-    text: "Pick a template for a course",
-    img: { src: "pick-a-template-for-a-course.png" },
-    caption: "When navigating to a course users are presented with a choice on how to proceed. They can pick a template or choose to write a custom course description.
-
-### Results
-
-Users often clicked through to one of these pages as their first action. A prompt asking them to create their first template worked well.
-
-When presented with a list of templates users were able to make a choice easily and understood the outcome. Some users were distracted or confused by the ‘View template’ link in the form.
-
-Writing custom course content was also understood."
-  }, {
-    text: "Template selected for a course",
-    img: { src: "template-selected-for-a-course.png" },
-    caption: "Once a template is selected a user can preview the course or click through to the template itself. No other fields are needed.
-
-### Results
-
-Users searched this page to find a way to tweak or modify a template for a specific course. Some did this on the preview too."
-  }, {
-    text: "Don’t use a template",
-    img: { src: "dont-use-a-template.png" },
-    caption: "If a custom course is selected the course fields will appear and the course can be previewed and submitted to DfE for the QA process."
-  }, {
-    text: "Course preview",
-    img: { src: "course-preview.png" }
-  }]
-}) }}

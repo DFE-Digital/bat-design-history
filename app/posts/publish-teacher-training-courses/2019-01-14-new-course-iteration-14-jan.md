@@ -2,6 +2,22 @@
 title: New course wizard – 14 January iteration
 description: Updates to subjects, minimum requirements and course titles.
 date: 2019-01-14
+screenshots:
+  items:
+    - What type of course?
+    - Pick a subject
+    - Pick languages
+    - Pick a course outcome
+    - Fee paying or salaried?
+    - Full time or part time?
+    - Pick the training locations
+    - Who is the accredited body?
+    - Minimum GCSE requirements
+    - When does the course start?
+    - Is this course title right?
+    - Check your answers
+    - Course created
+    - Change course information
 ---
 
 In this iteration we changed:
@@ -12,23 +28,3 @@ In this iteration we changed:
 * Minimum GCSE requirements with a change option
 * Title in main wizard flow
 * Accredited body title tweaks
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "What type of course?" },
-    { text: "Pick a subject" },
-    { text: "Pick languages" },
-    { text: "Pick a course outcome" },
-    { text: "Fee paying or salaried?" },
-    { text: "Full time or part time?" },
-    { text: "Pick the training locations" },
-    { text: "Who is the accredited body?" },
-    { text: "Minimum GCSE requirements" },
-    { text: "When does the course start?" },
-    { text: "Is this course title right?" },
-    { text: "Check your answers" },
-    { text: "Course created" },
-    { text: "Change course information" }
-  ]
-}) }}

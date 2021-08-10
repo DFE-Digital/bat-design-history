@@ -2,6 +2,14 @@
 title: Tabs on course pages
 description: Splitting course details and enrichments.
 date: 2019-03-20
+screenshots:
+  items:
+    - An unpublished course
+    - An unpublished course – Edit course details
+    - After editing – check your answers (not yet published)
+    - A published course
+    - A published course – Edit course details
+    - After editing – check your answers (published)
 ---
 
 An iteration on [the previous design](#old-course-design) where course details and enrichments were shown together.
@@ -15,18 +23,6 @@ By splitting the page into tabs we:
 * create a space to try and explain this
 * separate fields that need publishing and those that publish immediately
 * reduce the length of the page
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "An unpublished course" },
-    { text: "An unpublished course – Edit course details" },
-    { text: "After editing – check your answers (not yet published)" },
-    { text: "A published course" },
-    { text: "A published course – Edit course details" },
-    { text: "After editing – check your answers (published)" }
-  ]
-}) }}
 
 ## Old course design
 

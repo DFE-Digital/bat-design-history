@@ -2,6 +2,11 @@
 title: Course statuses – 3 August iteration
 description: A more indepth look at UCAS course status and how it’ll affect publishing.
 date: 2018-08-03
+screenshots:
+  items:
+    - Courses with status column
+    - A course that is not running
+    - A course that is running
 ---
 
 As a user looking at all of my courses imported from UCAS, I need to know which of those courses have been published, so that I know which courses applicants are seeing.
@@ -33,17 +38,3 @@ We hypothesise that a user needs to know the difference between a course that is
 Courses that aren’t running can’t be edited. The fields and publish actions do not show.
 
 [Trello ticket](https://trello.com/c/BOvg2Duh/46-design-workflow-for-courses-that-are-not-published-because-of-their-ucas-status)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Courses with status column",
-    img: { src: "courses-with-status-column.png" }
-  }, {
-    text: "A course that’s not running",
-    img: { src: "a-course-not-running.png" }
-  }, {
-    text: "A course that’s running",
-    img: { src: "a-course-that-is-running.png" }
-  }]
-}) }}

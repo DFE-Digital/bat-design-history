@@ -2,6 +2,16 @@
 title: Rollover wizard
 description: A full rollover wizard, ending in a page with current and next cycles.
 date: 2019-02-21
+screenshots:
+  items:
+    - Organisation with rollover prompt
+    - Start rollover
+    - Pick courses
+    - Pick locations
+    - Confirm
+    - Organisation after rollover
+    - Current cycle after rollover
+    - Next cycle after rollover
 ---
 
 Following on from [rollover reckons](/publish-teacher-training-courses/rollover-reckons), this shows a full rollover wizard.
@@ -48,17 +58,3 @@ We could copy everything, show two cycles and emphasise a new delete course feat
 This is more in keeping with the way UCAS has done rollover until now. It also gives us less to build.
 
 We would need to think of another way to encourage providers to review and fix their courses for the next cycle.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Organisation with rollover prompt" },
-    { text: "Start rollover" },
-    { text: "Pick courses" },
-    { text: "Pick locations" },
-    { text: "Confirm" },
-    { text: "Organisation after rollover" },
-    { text: "Current cycle after rollover" },
-    { text: "Next cycle after rollover" }
-  ]
-}) }}

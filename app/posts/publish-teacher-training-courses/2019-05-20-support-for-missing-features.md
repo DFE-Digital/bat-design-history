@@ -2,6 +2,11 @@
 title: Support for missing features
 description: Filling the gap left by unbuilt features.
 date: 2019-05-20
+screenshots:
+  items:
+    - Get support and guidance
+    - Request a change
+    - Request a change to this course
 ---
 
 Because of the UCAS transition timescales [we’ve shipped without required features](/publish-teacher-training-courses/shipped-for-transition).
@@ -21,12 +26,3 @@ Where a new feature was designed to be discoverable, people are looking for it �
 In the place where a feature should be there’s no action and no confirmation that they would have found it. This leads users to continue searching, some try another feature for the wrong purpose – ie the only one they can find.
 
 In the design below we add a call to action where the feature would be – ‘Request change’ rather than ‘Change’. This would take users to a focused support page and automatically fill in some of the known context for them.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Get support and guidance" },
-    { text: "Request a change" },
-    { text: "Request a change to this course" }
-  ]
-}) }}

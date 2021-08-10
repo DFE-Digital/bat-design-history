@@ -2,6 +2,16 @@
 title: Course page – 11 January iteration
 description: Edit course information, update the status column.
 date: 2019-01-11
+screenshots:
+  items:
+    - Published course
+    - Published with unpublished changes
+    - Draft course
+    - New course
+    - Course with publish errors
+    - Change course information
+    - Confirm answers (for comparison)
+    - Organisation
 ---
 
 An iteration on the [current course page](/publish-teacher-training-courses/enrichment-sept-6#course) which:
@@ -41,17 +51,3 @@ The new design:
 * adds ‘Is it on Find?’, ‘Applications’ and ‘Vacancies’ labels to provide the same information as the course table
 * removes the ‘View on website’ section, replaced with ‘Is it on Find?’
 * moves the audit trail (eg when published, when saved) details to the bottom
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Published course" },
-    { text: "Published with unpublished changes" },
-    { text: "Draft course" },
-    { text: "New course" },
-    { text: "Course with publish errors" },
-    { text: "Change course information" },
-    { text: "Confirm answers (for comparison)" },
-    { text: "Organisation" }
-  ]
-}) }}

@@ -4,20 +4,20 @@ description: We wanted to know if users were able to locate a button to start an
 date: 2021-06-21
 related:
   items:
-  - text: Research findings slides
-    href: https://docs.google.com/presentation/d/1-NNXVPR68PbK84pU8yMmFpOZcRyJDPYdpdw3WNuYMxU/edit#slide=id.p3
+    - text: Research findings slides
+      href: https://docs.google.com/presentation/d/1-NNXVPR68PbK84pU8yMmFpOZcRyJDPYdpdw3WNuYMxU/edit#slide=id.p3
 ---
 
 The support team want to launch online chat as a way for providers to seek help. It will be integrated with Zendesk, the online support system used by the team.
 
-We wanted to find out: 
+We wanted to find out:
 
 - whether users could work out how to start a chat
 - users’ expectations of using online chat
 
 ## What we researched
 
-We added the Zendesk chat widget to a version of the service used for testing. 
+We added the Zendesk chat widget to a version of the service used for testing.
 
 The widget appeared as a blue button labelled ‘Chat’ at the bottom right of all pages. In this round of testing we did not ask users to click the button.
 

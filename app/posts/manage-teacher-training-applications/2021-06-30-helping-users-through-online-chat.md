@@ -2,6 +2,11 @@
 title: Helping users through online chat
 description: Giving users a way to get help through online chat
 date: 2021-06-30
+screenshots:
+  items:
+    - Offline
+    - Online
+    - JavaScript unavailable
 ---
 
 UCAS provides users with email and phone support. Our service only provides email.
@@ -53,23 +58,3 @@ We also changed the link text to ‘How to use this service’ to be more concis
 ### Changing the ‘Get support’ heading to ‘Get help’
 
 We changed the heading to ‘Get help’ to be more concise.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Offline",
-    img: {
-      src: "offline.png"
-    }
-  }, {
-    text: "Online",
-    img: {
-      src: "online.png"
-    }
-  }, {
-    text: "JavaScript unavailable",
-    img: {
-      src: "unavailable.png"
-    }
-  }]
-}) }}

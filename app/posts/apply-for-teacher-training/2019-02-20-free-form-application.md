@@ -2,10 +2,18 @@
 title: Free form application and qualifications
 description: More free text, less structured data.
 date: 2019-02-20
+screenshots:
+  items:
+    - Your application
+    - Personal details
+    - Your qualifications
+    - Your qualifications (expanded)
+    - Your teaching experience and motivation
+    - References
 related:
   items:
-  - text: Prototype
-    href: https://bat-apply.herokuapp.com/v04_2/application/index
+    - text: Prototype
+      href: https://bat-apply.herokuapp.com/v04_2/application/index
 ---
 
 Our designer Vin documented these on [Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/279314433/Designs) (Project Bluesky).
@@ -24,15 +32,3 @@ Candidates want to express more about themselves than just giving mandatory data
 
 * Providers found that the application contents are not detailed enough for them to make a decision on the application
 * Providers need factual data about the education and work
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Your application" },
-    { text: "Personal details" },
-    { text: "Your qualifications" },
-    { text: "Your qualifications (expanded)" },
-    { text: "Your teaching experience and motivation" },
-    { text: "References" }
-  ]
-}) }}

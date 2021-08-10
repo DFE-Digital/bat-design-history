@@ -2,6 +2,14 @@
 title: Add training location wizard
 description: Add a training location in Publish rather than UCAS.
 date: 2019-01-31
+screenshots:
+  items:
+    - Training locations
+    - What type of training location?
+    - Pick location
+    - Is this name and address correct?
+    - Something needs changing
+    - Check your answers
 ---
 
 The first design for adding training locations to an organisation. It follows the same patterns as the [new course wizard](/publish-teacher-training-courses/new-course-iteration-14-jan) – one thing per page, check your answers at the end, back-and-forth editing once the wizard is finished.
@@ -39,15 +47,3 @@ No one has needed to edit the details pulled in from Edubase.
 On the summary screens we started with ‘Code’, which a user misunderstood. We renamed it to ‘UCAS campus code’ and haven’t seen any further issues. [One provider wanted to change the code](https://lookback.io/watch/vw6eDzqmL4s24rR2Y?t=51m43s) to something which aligns with the schools, eg St Mary’s could be M, and St Peter’s could be P.
 
 [Research playback presentation](https://docs.google.com/presentation/d/17wz2ZWJCNbbqsaywigok-fHv07IUjjiLRSaffCuim64/edit)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Training locations" },
-    { text: "What type of training location?" },
-    { text: "Pick location" },
-    { text: "Is this name and address correct?" },
-    { text: "Something needs changing" },
-    { text: "Check your answers" }
-  ]
-}) }}

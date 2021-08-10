@@ -2,6 +2,14 @@
 title: Subjects, bursaries and SKE courses
 description: An iteration on the MVP, with full course pages and a subject filter with bursary and SKE information.
 date: 2018-09-25
+screenshots:
+  items:
+    - Start page
+    - Find by location
+    - Find by subject
+    - Search results
+    - Salary filter
+    - Full course page
 ---
 
 We tested this design with 4 users:
@@ -29,29 +37,6 @@ We [iterated the design](/find-teacher-training/live-launch#find-by-subject) to 
 
 ## You can’t apply yet
 
-In lieu of the "Apply on UCAS" link, users frequently clicked through to the Get Into Teaching guidance, which was deemed to be useful.
+In lieu of the “Apply on UCAS” link, users frequently clicked through to the Get Into Teaching guidance, which was deemed to be useful.
 
 One user was confused about how to apply, they’d contact the provider for more information.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Start page",
-    img: { src: "start-page.png" }
-  }, {
-    text: "Find by location",
-    img: { src: "find-by-location.png" }
-  }, {
-    text: "Find by subject",
-    img: { src: "find-by-subject.png" }
-  }, {
-    text: "Search results",
-    img: { src: "search-results.png" }
-  }, {
-    text: "Salary filter",
-    img: { src: "salary-filter.png" }
-  }, {
-    text: "Full course page",
-    img: { src: "full-course-page.png" }
-  }]
-}) }}

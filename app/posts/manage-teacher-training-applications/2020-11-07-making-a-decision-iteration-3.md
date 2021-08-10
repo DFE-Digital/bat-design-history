@@ -2,9 +2,29 @@
 title: Making a decision iteration 3
 description: Various improvements to the flow for making a decision
 date: 2020-11-07
+screenshots:
+  items:
+    - text: Make a decision
+      src: decision.png
+    - text: "Make offer: conditions"
+      src: make-offer--conditions.png
+    - text: "Make offer: check answers"
+      src: make-offer--check.png
+    - text: "Make offer: success"
+      src: success.png
+    - text: "Change course details and make an offer: training provider"
+      src: change--training-provider.png
+    - text: "Change course details and make an offer: course"
+      src: change--course.png
+    - text: "Change course details and make an offer: location"
+      src: change--location.png
+    - text: "Change course details and make an offer: conditions"
+      src: change--conditions.png
+    - text: "Change course details and make an offer: check answers"
+      src: change--check.png
+    - text: "Change course details and make an offer: success"
+      src: success.png
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 [View previous iteration](/manage-teacher-training-applications/making-a-decision-iteration-2)
 
@@ -49,61 +69,7 @@ Here’s the new version which addresses these issues:
 
 ## Making the conditions screen consistent
 
-The screen for specifying conditions and [editing conditions](/manage-teacher-training-applications/editing-conditions-iteration) now match. Specifically:
+The screen for specifying conditions and [editing conditions](/manage-teacher-training-applications/changing-conditions-iteration) now match. Specifically:
 
 - the hint text for the DBS check option
 - simplifying the way to add further conditions
-
-{{ appScreenshots({
-  items: [{
-    text: "Make a decision",
-    img: {
-      src: "decision.png"
-    }
-  }, {
-    text: "Make offer: conditions",
-    img: {
-      src: "make-offer--conditions.png"
-    }
-  }, {
-    text: "Make offer: check answers",
-    img: {
-      src: "make-offer--check.png"
-    }
-  }, {
-    text: "Make offer: success",
-    img: {
-      src: "success.png"
-    }
-  }, {
-    text: "Change course details and make an offer: training provider",
-    img: {
-      src: "change--training-provider.png"
-    }
-  }, {
-    text: "Change course details and make an offer: course",
-    img: {
-      src: "change--course.png"
-    }
-  }, {
-    text: "Change course details and make an offer: location",
-    img: {
-      src: "change--location.png"
-    }
-  }, {
-    text: "Change course details and make an offer: conditions",
-    img: {
-      src: "change--conditions.png"
-    }
-  }, {
-    text: "Change course details and make an offer: check answers",
-    img: {
-      src: "change--check.png"
-    }
-  }, {
-    text: "Change course details and make an offer: success",
-    img: {
-      src: "success.png"
-    }
-  }]
-}) }}

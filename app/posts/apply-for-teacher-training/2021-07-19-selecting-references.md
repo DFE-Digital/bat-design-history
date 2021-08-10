@@ -4,8 +4,6 @@ description: Letting candidates choose which references to submit with their app
 date: 2021-07-19
 ---
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-
 Previously, candidates were unable to choose which 2 references would be sent with their application to providers. They would request several references and whichever 2 they received first would be sent with their application.
 
 This would result in support requests from candidates asking to swap their references when they received more.
@@ -14,25 +12,9 @@ This was also causing confusion for referees. If a candidate had already receive
 
 In response, we decided to build a feature that allows candidates to select which 2 references they want to send to providers.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Select 2 references link on task list",
-    img: {
-      src: "select-2-references-link.png"
-    }
-  }]
-}) }}
+![Screenshot of ‘Select 2 references’ link on task list](select-2-references-link.png "‘Select 2 references’ link on task list")
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Selecting references section",
-    img: {
-      src: "select-2-references-section.png"
-    }
-  }]
-}) }}
+![Screenshot of ‘Select 2 references’ guidance.](select-2-references-section.png "Selecting references section")
 
 ## Telling candidates that they can choose which 2 references to send to providers
 
@@ -48,39 +30,15 @@ We realised that candidates needed to know that they can choose which 2 get sent
 
 To do this, we moved some of the guidance from the ‘Choose your referees’ page onto the task list page. We also made it clearer that candidates can request many references and then select which 2 they want to send with their application.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "References guidance in task list",
-    img: {
-      src: "references-guidance-task-list.png"
-    }
-  }]
-}) }}
+![Screenshot of references guidance in task list.](references-guidance-task-list.png "References guidance in task list")
 
 ### Prompting candidates to select 2 references
 
 We realised that the messaging in the emails and in the task list did not tell candidates what to do once they'd received 2 or more references. So we decided to prompt them to select 2 as soon as they receive 2 or more.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Select 2 references email prompt",
-    img: {
-      src: "select-2-prompt-email.png"
-    }
-  }]
-}) }}
+![Screenshot of select 2 references email prompt.](select-2-prompt-email.png "Select 2 references email prompt")
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Select 2 references prompt in task list",
-    img: {
-      src: "select-2-prompt-task-list.png"
-    }
-  }]
-}) }}
+![Screenshot of select 2 references prompt in task list](select-2-prompt-task-list.png "Select 2 references prompt in task list")
 
 ### Telling candidates that they can change their selection
 
@@ -88,25 +46,9 @@ Candidates did not realise that they could change their selection if more refere
 
 So we decided to change the wording in the email they get when they receive additional references after already selecting 2.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Email explaining that you can change your selection",
-    img: {
-      src: "you-can-change-selection-email.png"
-    }
-  }]
-}) }}
+![Screenshot of email explaining that you can change your selection.](you-can-change-selection-email.png "Email explaining that you can change your selection")
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Guidance in task list explaining that you can change your selection",
-    img: {
-      src: "you-can-change-selection-task-list-2.png"
-    }
-  }]
-}) }}
+![Screenshot of guidance in task list explaining that you can change your selection.](you-can-change-selection-task-list-2.png "Guidance in task list explaining that you can change your selection")
 
 ## Helping candidates choose the right referees
 
@@ -125,12 +67,4 @@ In order to reduce the number of support queries, we decided to give candidates 
 
 We’ve now changed the guidance around choosing referees to include more information about what providing a reference will involve, as well as the word limit. We also explicitly say that references sent by email will not be accepted.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "‘Choose your referees’ page",
-    img: {
-      src: "choose-your-referees-page.png"
-    }
-  }]
-}) }}
+![Screenshot of ‘Choose your referees’ page.](choose-your-referees-page.png "‘Choose your referees’ page")

@@ -2,6 +2,34 @@
 title: Recording training outcomes
 description: An early attempt at recording training outcomes
 date: 2020-11-20
+screenshots:
+  items:
+    - text: Trainee details
+      src: trainee-details.png
+    - text: Have they met the standards for QTS?
+      src: have-they-met-the-standards-for-qts.png
+    - text: When did they meet the standards?
+      src: when-did-they-meet-the-standards.png
+    - text: Check outcome details - standards met
+      caption: If the user has met the standards.
+      src: standards-met-check-outcome-details.png
+    - text: Trainee recommended for QTS
+      src: trainee-recommended-for-qts.png
+    - text: When should they be recorded as having not met the standards?
+      caption: If the user has not met the standards.
+      src: when-should-they-be-recorded-as-having-not-met-the-standards.png
+    - text: Why are they not being recommended for QTS?
+      src: why-are-they-not-being-recommended-for-qts.png
+    - text: Will the trainee stay on the programme?
+      src: will-the-trainee-stay-on-the-programme.png
+    - text: Check outcome details - standards not met and trainee is staying on the programme
+      src: standards-not-met-check-outcome-details.png
+    - text: Check outcome details - standards not met and trainee withdrawing
+      src: standards-not-met-and-withdrawing-check-outcome-details.png
+    - text: Trainee details - training outcome recorded
+      src: trainee-details-standards-not-met.png
+    - text: Trainee details - training outcome recorded and trainee withdrawn
+      src: trainee-details-withdrawn.png
 ---
 
 When recording a training outcome we need to know if trainees have met the standards to be awarded a qualification. There is also a need to record unsuccessful outcomes.
@@ -33,46 +61,3 @@ In this iteration of the prototype we have included the following options:
 * for another reason (free text field)
 
 We anticipate these reasons will change based on insights from future research.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Trainee details",
-    img: { src: "trainee-details.png" }
-  }, {
-    text: "Have they met the standards for QTS?",
-    img: { src: "have-they-met-the-standards-for-qts.png" }
-  }, {
-    text: "When did they meet the standards?",
-    img: { src: "when-did-they-meet-the-standards.png" }
-  }, {
-    text: "Check outcome details - standards met",
-    caption: "If the user has met the standards.",
-    img: { src: "standards-met-check-outcome-details.png" }
-  }, {
-    text: "Trainee recommended for QTS",
-    img: { src: "trainee-recommended-for-qts.png" }
-  }, {
-    text: "When should they be recorded as having not met the standards?",
-    caption: "If the user has not met the standards.",
-    img: { src: "when-should-they-be-recorded-as-having-not-met-the-standards.png" }
-  }, {
-    text: "Why are they not being recommended for QTS?",
-    img: { src: "why-are-they-not-being-recommended-for-qts.png" }
-  }, {
-    text: "Will the trainee stay on the programme?",
-    img: { src: "will-the-trainee-stay-on-the-programme.png" }
-  }, {
-    text: "Check outcome details - standards not met and trainee is staying on the programme",
-    img: { src: "standards-not-met-check-outcome-details.png" }
-  }, {
-    text: "Check outcome details - standards not met and trainee withdrawing",
-    img: { src: "standards-not-met-and-withdrawing-check-outcome-details.png" }
-  }, {
-    text: "Trainee details - training outcome recorded",
-    img: { src: "trainee-details-standards-not-met.png" }
-  }, {
-    text: "Trainee details - training outcome recorded and trainee withdrawn",
-    img: { src: "trainee-details-withdrawn.png" }
-  }]
-}) }}

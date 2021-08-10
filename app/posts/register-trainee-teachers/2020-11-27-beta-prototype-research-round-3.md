@@ -4,16 +4,16 @@ description: Continuing research into the provider-led journey
 date: 2020-11-27
 related:
   items:
-  - text: Lookback recordings
-    href: https://lookback.io/org/dfe-digital/projects/register-i-round-3-i-ao-provider-led/rounds
-  - text: Raw findings
-    href: https://drive.google.com/drive/u/0/folders/19Ir3HwBuwOVg50cFm3dDi2-EfQ1ZmY4I
-  - text: Research Plan
-    href: https://docs.google.com/document/d/1bppLVBhXxf-rOSR6GVzIXx1Oifgc9wdr2BrjmNKerqI/
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1t5uAjPsI_Y6cnHO9o5__XFfQeMzdX9o54Gz1Yy7a3Ew/
-  - text: User needs
-    href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
+    - text: Lookback recordings
+      href: https://lookback.io/org/dfe-digital/projects/register-i-round-3-i-ao-provider-led/rounds
+    - text: Raw findings
+      href: https://drive.google.com/drive/u/0/folders/19Ir3HwBuwOVg50cFm3dDi2-EfQ1ZmY4I
+    - text: Research Plan
+      href: https://docs.google.com/document/d/1bppLVBhXxf-rOSR6GVzIXx1Oifgc9wdr2BrjmNKerqI/
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1t5uAjPsI_Y6cnHO9o5__XFfQeMzdX9o54Gz1Yy7a3Ew/
+    - text: User needs
+      href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
 ---
 
 Research conducted: 23 to 27 November 2020
@@ -79,7 +79,7 @@ Users did respond positively to the possibility of creating drafts as soon as th
 >
 >To do that in July would take me away from other stuff, but it might be helpful.”
 
-Our system currently supports creating drafts and submitting records for individual trainees. If we were to enable submitting a group of draft records in one go, we may need to rethink [how we display drafts](/register-trainee-teachers/beta-prototype-updates/2020.11.02_12_29_04_Trainee%20teachers%20-%20Register%20trainee%20teachers%20-%20GOV.UK.png) in the user interface.
+Our system currently supports creating drafts and submitting records for individual trainees. If we were to enable submitting a group of draft records in one go, we may need to rethink [how we display drafts](/register-trainee-teachers/beta-prototype-updates/37-trainee-teachers.png) in the user interface.
 
 ### Homepage
 
@@ -104,7 +104,7 @@ Pulling data through from Publish is a good solution for programme data input. T
 
 >“Useful that this has already been populated - I assume it comes through Publish?”
 
-Subject and course code seemed to be the most important details needed to identify a course. We [adjusted the prototype](/register-trainee-teachers/picking-publish-courses/asking-for-publish-course.png) to respond to this feedback during the testing round - removing data that did not help users identify a course.
+Subject and course code seemed to be the most important details needed to identify a course. We [adjusted the prototype](/register-trainee-teachers/picking-publish-courses/asking-for-a-publish-course.png) to respond to this feedback during the testing round - removing data that did not help users identify a course.
 
 The current design works well for picking from around 10 courses or less - but we have providers that offer up to 90 courses, and we need to make sure our solution works for them too.
 

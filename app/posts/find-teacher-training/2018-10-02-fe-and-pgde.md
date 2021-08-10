@@ -2,6 +2,14 @@
 title: PGDE and further education courses
 description: We quickly iterated fixes to correctly indicate qualifications on these courses.
 date: 2018-10-02
+screenshots:
+  items:
+    - text: Qualification filter
+      src: /find-teacher-training/live-launch/qualification-filter.png
+    - text: Further education search results
+      src: /find-teacher-training/live-launch/further-education-search-results.png
+    - text: Full course page (PGDE)
+      src: /find-teacher-training/live-launch/full-course-page-pgde.png
 ---
 
 We started with two qualification options:
@@ -54,17 +62,3 @@ We chose to ignore QTLS. Providers who want to talk about it can use the course 
 ### ProfGCE (Professional graduate certificate in education)
 
 This qualification is at level lower than PGCE. It is mostly relevant in the FE sector. For now we have not done anything about ProfGCE courses, there is only one reference in all the enrichment data, and that refers to it as an option.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Qualification filter",
-    img: { src: "/find-teacher-training/live-launch/qualification-filter.png" }
-  }, {
-    text: "Further education search results",
-    img: { src: "/find-teacher-training/live-launch/further-education-results.png" }
-  }, {
-    text: "Full course page (PGDE)",
-    img: { src: "/find-teacher-training/live-launch/full-course-page-pgde.png" }
-  }]
-}) }}

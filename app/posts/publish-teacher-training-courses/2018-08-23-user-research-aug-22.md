@@ -2,6 +2,14 @@
 title: User research – 22 August
 description: Testing markdown, SimpleMDE and publishing workflow.
 date: 2018-08-23
+screenshots:
+  items:
+    - Organisation
+    - Course
+    - Preview
+    - About your organisation
+    - Course length and fees
+    - Workflow states
 ---
 
 In August we’ve struggled to find providers to test with, because schools are on holiday and universities are very busy.
@@ -45,26 +53,3 @@ One user didn’t realise they needed to publish courses themselves. They believ
 It’s not clear to users that courses which are set to running but have no published content will still be seen by applicants, just in a minimal state. We need to set these expectations better. This will begin with a comms email.
 
 [“It just wouldn’t be there until it’s published”](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=1h34m42.25s)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Organisation",
-    img: { src: "organisation.png" }
-  }, {
-    text: "Course",
-    img: { src: "course.png" }
-  }, {
-    text: "Preview",
-    img: { src: "preview.png" }
-  }, {
-    text: "About your organisation",
-    img: { src: "about-your-organisation.png" }
-  }, {
-    text: "Course length and fees",
-    img: { src: "course-length-and-fees.png" }
-  }, {
-    text: "Workflow states",
-    img: { src: "workflow-states.png" }
-  }]
-}) }}

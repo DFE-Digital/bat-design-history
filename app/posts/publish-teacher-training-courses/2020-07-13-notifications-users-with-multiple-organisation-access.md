@@ -3,7 +3,12 @@ title: Notifications for users with access to multiple organisations
 description: Allowing accredited body users to choose which organisations they receive notifications about.
 date: 2020-07-13
 tags:
- - PN013
+  - PN013
+screenshots:
+  items:
+    - Opt in with one partner school
+    - Opt in with multiple partner schools
+    - Confirmation of opt-in
 ---
 
 In [previous research](/publish-teacher-training-courses/users-with-multiple-organisation-access/) into users with access to multiple organisations we identified that users who belong to an accredited body with multiple training providers needed more flexibility in their notifications settings.
@@ -163,18 +168,3 @@ For example: Mary belongs to Suffolk and Norfolk Primary SCITT, who is the accre
 
 * Consider in-app notifications
 * Allow users to specify which particular notifications they receive
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "Opt in with one partner school"
-    },
-    {
-      text: "Opt in with multiple partner schools"
-    },
-    {
-      text: "Confirmation of opt-in"
-    }
-  ]
-}) }}

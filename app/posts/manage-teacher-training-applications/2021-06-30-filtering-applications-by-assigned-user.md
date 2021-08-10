@@ -2,6 +2,16 @@
 title: Filtering applications by assigned user
 description: Let users filter the applications list by the assigned user
 date: 2021-06-30
+screenshots:
+  items:
+    - text: Standard filter after the user has applied filters
+      src: filter-by-assigned-user-assigned-and-unassigned-applications.png
+    - text: Email addresses shown for duplicate names
+      src: filter-by-assigned-user-duplicate-names.png
+    - text: Filter for long lists after filters have been applied
+      src: filter-by-assigned-user-inline-filter-selected-users.png
+    - text: Filter for long with JavaScript unavailable
+      src: filter-by-assigned-user-inline-filter-no-javascript.png
 ---
 
 This is part of our work to [allow users to assign applications to themselves or other users](/manage-teacher-training-applications/assigning-applications-to-users).
@@ -51,28 +61,3 @@ For example, if the user selected ‘Barbara Shade’ and ‘Unassigned‘ they 
 For each option the user selected, a ‘remove filter’ tag will be displayed under ‘selected filters’ at the top of the filter panel.
 
 The tags are also displayed at the top of the assigned user filter since they may be hidden outside the visible scrollable region.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Standard filter after the user has applied filters",
-    img: {
-      src: "filter-by-assigned-user-assigned-and-unassigned-applications.png"
-    }
-  }, {
-    text: "Email addresses shown for duplicate names",
-    img: {
-      src: "filter-by-assigned-user-duplicate-names.png"
-    }
-  }, {
-    text: "Filter for long lists after filters have been applied",
-    img: {
-      src: "filter-by-assigned-user-inline-filter-selected-users.png"
-    }
-  }, {
-    text: "Filter for long with JavaScript unavailable",
-    img: {
-      src: "filter-by-assigned-user-inline-filter-no-javascript.png"
-    }
-  }]
-}) }}

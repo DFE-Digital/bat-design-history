@@ -2,6 +2,14 @@
 title: Withdrawing an application iteration 2
 description: Getting the withdraw application flow ready for first release
 date: 2021-04-15
+screenshots:
+  items:
+    - text: Withdraw link on application details page
+      src: application-details.png
+    - text: Confirm withdrawal
+      src: confirm-withdrawal.png
+    - text: Notification banner
+      src: notification-banner.png
 ---
 
 {% from "email/macro.njk" import appEmail %}
@@ -227,24 +235,4 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
 {{ appEmail({
   subject: "Update on your application - respond by ((date))",
   content: template4
-}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Withdraw link on application details page",
-    img: {
-      src: "application-details.png"
-    }
-  }, {
-    text: "Confirm withdrawal",
-    img: {
-      src: "confirm-withdrawal.png"
-    }
-  }, {
-    text: "Notification banner",
-    img: {
-      src: "notification-banner.png"
-    }
-  }]
 }) }}

@@ -13,11 +13,4 @@ This design explains the situation to the user and asks for the details we need.
 [BATSA-422](https://dfedigital.atlassian.net/browse/BATSA-422)
 [Page in prototype](https://publish-courses-prototype.herokuapp.com/no-access)
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Which organisation?",
-    img: { src: "01-no-known-organisation.png" }
-  }]
-}) }}
+![Screenshot of ‘Which organisation’ page.](01-no-known-organisation.png Which organisation?)

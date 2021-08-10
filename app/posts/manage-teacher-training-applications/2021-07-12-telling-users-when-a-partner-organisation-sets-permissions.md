@@ -16,9 +16,8 @@ We'll send an email to the organisation which did not set permissions. We'll onl
 The email will list all the organisation permissions. If a permission has been given to both organisations, the organisation which did not set permissions will appear first.
 
 <!-- markdownlint-disable MD025 -->
-
 {{ appEmail({
-  subject: "	((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them",
+  subject: "((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them",
   content: "Dear ((name))
 
 # ((partner_organisation)) has changed organisation permissions for teacher training courses you work on with them
@@ -50,7 +49,7 @@ You can change these organisation permissions in your organisation settings:
 
 For an overview of Manage teacher training applications, see our Service guidance.
 
-You can also contact us at [becomingateacher@digital.education.gov.uk](becomingateacher@digital.education.gov.uk)."
+You can also contact us at <becomingateacher@digital.education.gov.uk>."
 }) }}
 
 <!-- markdownlint-enable MD025 -->
@@ -60,7 +59,7 @@ If organisation permissions had not previously been set up, the email will tell 
 <!-- markdownlint-disable MD025 -->
 
 {{ appEmail({
-  subject: "	((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them",
+  subject: "((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them",
   content: "Dear ((name))
 
 # ((partner_organisation)) has set up organisation permissions for teacher training courses you work on with them
@@ -94,7 +93,5 @@ You can change these organisation permissions in your organisation settings:
 
 For an overview of Manage teacher training applications, see our Service guidance.
 
-You can also contact us at [becomingateacher@digital.education.gov.uk](becomingateacher@digital.education.gov.uk)."
+You can also contact us at <becomingateacher@digital.education.gov.uk>."
 }) }}
-
-<!-- markdownlint-enable MD025 -->

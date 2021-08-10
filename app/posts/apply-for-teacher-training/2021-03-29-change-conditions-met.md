@@ -2,6 +2,12 @@
 title: Changing “Conditions met”
 description: Why we changed the status tag for confirmed offers.
 date: 2021-03-29
+screenshots:
+  items:
+    - text: Previous status label
+      src: conditions-met.png
+    - text: New status label
+      src: offer-confirmed.png
 ---
 
 When a provider offers a candidate a place on a course, they usually need to meet certain conditions before they start. These can include an enhanced Disclosure and Barring Service check and a Fitness to Teach check. Once these conditions have been met the provider can update the status of the offer. This is shown to the candidate as "Conditions met"
@@ -19,19 +25,3 @@ This is consistent with the language used on the service when the candidate has 
 > Before your offer is confirmed, there are some final conditions to meet.
 
 It is also potentially a more positive-sounding label.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-
-{{ appScreenshots({
-  items: [{
-    text: "Previous status label",
-    img: {
-      src: "conditions-met.png"
-    }
-  }, {
-    text: "New status label",
-    img: {
-    src: "offer-confirmed.png"
-    }
-  }]
-}) }}

@@ -2,6 +2,10 @@
 title: Age ranges
 description: Move age range from an optional question on the subject page to a required question on its own page.
 date: 2019-03-25
+screenshots:
+  items:
+    - Primary age ranges
+    - Secondary age ranges
 ---
 
 Move age range from an optional question on the subject page to a required question on its own page.
@@ -21,11 +25,3 @@ Provide a list of the most common age ranges as published on [ITT criteria and s
 > No training programme should cover fewer than 4 school years.
 
 We can’t easily map existing UCAS data to age range. We should ask for it again for all courses.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Primary age ranges" },
-    { text: "Secondary age ranges" }
-  ]
-}) }}

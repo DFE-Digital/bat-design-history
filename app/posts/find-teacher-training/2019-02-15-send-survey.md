@@ -2,20 +2,21 @@
 title: SEND survey and updates
 description: Research and findings into courses with a SEND specialism
 date: 2019-02-15
-tags: send
+screenshots:
+  items:
+    - text: Subjects
+      src: 01-subjects.png
+    - text: Subjects with SEND selected
+      src: 02-subjects-with-send-selected.png
 ---
 
 A record of [this Google Doc](https://docs.google.com/document/d/1Cxu1X3SKwRWlVTIp5PAiiKsBUMi7YoeDIJxu-77uPzs/edit).
 
 We received feedback from a provider that we were falsely advertising SEND courses on the Find tool:
 
-<div class="govuk-inset-text">
-‘There is no such thing as a specialist SEN teacher training course. You could also speak to Susie Townsend or Peter Flew at Roehampton University, they will confirm that all teacher training courses are required legally to train someone to be capable of teaching in a mainstream schools.’
-</div>
+> ”There is no such thing as a specialist SEN teacher training course. You could also speak to Susie Townsend or Peter Flew at Roehampton University, they will confirm that all teacher training courses are required legally to train someone to be capable of teaching in a mainstream schools.”
 
-<div class="govuk-inset-text">
-‘What you need to establish is whether it is accurate (under current regulations) to describe a teacher training course in this country as being SEND teacher training, and it is my understanding that this is inaccurate. DFE deliberately and purposefully want all teacher training courses to qualify trainees to teach in mainstream schools and this is what the qualification QTS relates to.’
-</div>
+> ”What you need to establish is whether it is accurate (under current regulations) to describe a teacher training course in this country as being SEND teacher training, and it is my understanding that this is inaccurate. DFE deliberately and purposefully want all teacher training courses to qualify trainees to teach in mainstream schools and this is what the qualification QTS relates to.”
 
 ## What research have we done?
 
@@ -52,37 +53,22 @@ From the above, it is clear that training providers and lead schools offer SEND 
 
 ## What does policy say?
 
-<div class="govuk-inset-text">
-“It is accurate to say that there are no SEND specialist courses. SEND is not a subject, and there is no allocation made to it. So the way that FIND advertises these is indeed potentially misleading. SEND can only be offered in addition to generalist primary or secondary subject specialist training.
-
-Supporting advice to Criterion C2.3 describes SEND training as an ‘additional specialism’ as follows:
-
-Training may take place in a special school or in a pupil referral unit (PRU), particularly where a provider chooses to offer an additional specialism in special educational needs. In these cases, providers should ensure the overall training programme enables trainees to demonstrate all of the Teachers’ Standards across the full age and ability range of training.
-
-[https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice)
-
-In addition, the question ‘do you want to teach SEND’ is poorly phrased – as indicated above SEND is not a subject to be taught. Candidates who opt for courses that include an additional specialism in SEND do so because they want to teach pupils with SEN/D, not because they want to teach it as a subject.”
-</div>
+> “It is accurate to say that there are no SEND specialist courses. SEND is not a subject, and there is no allocation made to it. So the way that FIND advertises these is indeed potentially misleading. SEND can only be offered in addition to generalist primary or secondary subject specialist training.
+>
+> Supporting advice to Criterion C2.3 describes SEND training as an ‘additional specialism’ as follows:
+>
+> Training may take place in a special school or in a pupil referral unit (PRU), particularly where a provider chooses to offer an additional specialism in special educational needs. In these cases, providers should ensure the overall training programme enables trainees to demonstrate all of the Teachers’ Standards across the full age and ability range of training.
+>
+> [https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice)
+>
+> In addition, the question ‘do you want to teach SEND’ is poorly phrased – as indicated above SEND is not a subject to be taught. Candidates who opt for courses that include an additional specialism in SEND do so because they want to teach pupils with SEN/D, not because they want to teach it as a subject.”
 
 When probed on clarifying a little further, this was their response:
 
-<div class="govuk-inset-text">
-“I’d be happy for you to suggest other alternatives to the tick box issue, as it’s useful to be aware of user research. However, we do risk communicating in a way which could give users an incorrect understanding of how ITT courses work – particularly those that are interested in an SEND specialism. Even if the content’s meaning is obvious to us, I’m very concerned that presenting it this way it would cause confusion in an area that DfE is already highly criticised for making confusing. Essentially, it is not in line with current ITT policy to display SEND in the context of a list alongside primary and secondary. Can we explore alternative options for this, please?”
-</div>
+> “I’d be happy for you to suggest other alternatives to the tick box issue, as it’s useful to be aware of user research. However, we do risk communicating in a way which could give users an incorrect understanding of how ITT courses work – particularly those that are interested in an SEND specialism. Even if the content’s meaning is obvious to us, I’m very concerned that presenting it this way it would cause confusion in an area that DfE is already highly criticised for making confusing. Essentially, it is not in line with current ITT policy to display SEND in the context of a list alongside primary and secondary. Can we explore alternative options for this, please?”
 
 ## Conclusion
 
 There should be a critical distinction between policy and the way we advertise our courses to candidates. Policy have failed to acknowledge that the ITT criteria clearly stipulates how providers should offer their SEND training, not how candidates should interpret this policy.
 
 Text sits alongside the tick box to clearly indicate that this is not a “phase”, but a specialism.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Subjects",
-    img: { src: "01-subjects.png" }
-  }, {
-    text: "Subjects with SEND selected",
-    img: { src: "02-subjects-with-send-selected.png" }
-  }]
-}) }}

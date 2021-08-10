@@ -4,8 +4,8 @@ description: Improving the design of seeing and managing notifications
 date: 2020-09-14
 related:
   items:
-  - text: Related research on this topic
-    href: https://docs.google.com/presentation/d/1K1GnksPhYP9MhziExv-Iz8q-_fHSfC00Gx4cbXdAdD8/edit?usp=sharing
+    - text: Related research on this topic
+      href: https://docs.google.com/presentation/d/1K1GnksPhYP9MhziExv-Iz8q-_fHSfC00Gx4cbXdAdD8/edit?usp=sharing
 ---
 
 {% from "email/macro.njk" import appEmail %}

@@ -2,11 +2,10 @@
 title: Displaying permissions in the user list
 description: Displaying user permissions next to each user in the list so that users don’t have to click through to see them
 date: 2021-06-15
+screenshots:
+  items:
+    - User list
 ---
-
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "email/macro.njk" import appEmail %}
 
 At the moment, the user list page only shows the name and email address of each colleague. To view permissions, the user needs to click through to the details page.
 
@@ -32,12 +31,3 @@ The maximum number of users in a:
 * HEI (Higher Education Institute) is 37
 * SCITT (School Centred Initial Teacher Training) is 10
 * SD (School Direct) is 15
-
-{{ appScreenshots({
-  items: [{
-    text: "User list",
-    img: {
-      src: "user-list.png"
-    }
-  }]
-}) }}

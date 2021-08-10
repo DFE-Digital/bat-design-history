@@ -2,20 +2,31 @@
 title: Equality monitoring
 description: First pass at asking for information for monitoring equality.
 date: 2019-08-18
+screenshots:
+  items:
+    - Equality monitoring
+    - What is your sex?
+    - Sexual orientation
+    - Disability status
+    - Any health problems?
+    - Ethnic group
+    - Ethnic background
+    - Religion
+    - Check your answers
 related:
   items:
-  - text: HESA Initial Teacher Training record 2019/20
-    href: https://www.hesa.ac.uk/collection/c19053
-  - text: HESA sexual orientation reference (not ITT)
-    href: https://www.hesa.ac.uk/collection/c18051/a/sexort
-  - text: HESA gender identity reference (not ITT)
-    href: https://www.hesa.ac.uk/collection/c18051/a/genderid
-  - text: HESA religion or belief reference (not ITT)
-    href: https://www.hesa.ac.uk/collection/c18051/a/relblf
-  - text: Spreadsheet showing what’s currently collected
-    href: https://docs.google.com/spreadsheets/d/1uY6ZzQePVoWgIzrdRKtuinj9NzQ5dgwaL6DMIYFUH_c
-  - text: Trello ticket
-    href: https://trello.com/c/ztd2hNAH
+    - text: HESA Initial Teacher Training record 2019/20
+      href: https://www.hesa.ac.uk/collection/c19053
+    - text: HESA sexual orientation reference (not ITT)
+      href: https://www.hesa.ac.uk/collection/c18051/a/sexort
+    - text: HESA gender identity reference (not ITT)
+      href: https://www.hesa.ac.uk/collection/c18051/a/genderid
+    - text: HESA religion or belief reference (not ITT)
+      href: https://www.hesa.ac.uk/collection/c18051/a/relblf
+    - text: Spreadsheet showing what’s currently collected
+      href: https://docs.google.com/spreadsheets/d/1uY6ZzQePVoWgIzrdRKtuinj9NzQ5dgwaL6DMIYFUH_c
+    - text: Trello ticket
+      href: https://trello.com/c/ztd2hNAH
 ---
 
 Our first pass at asking for information for monitoring equality.
@@ -61,18 +72,3 @@ See also this [LGBT survey](https://equalities.blog.gov.uk/2017/09/29/lgbtsurvey
 ## Asking about ethnicity
 
 The design system provides a [complete pattern for collecting ethnicity information](https://design-system.service.gov.uk/patterns/ethnic-group/) that we have reused.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Equality monitoring" },
-    { text: "What is your sex?" },
-    { text: "Sexual orientation" },
-    { text: "Disability status" },
-    { text: "Any health problems?" },
-    { text: "Ethnic group" },
-    { text: "Ethnic background" },
-    { text: "Religion" },
-    { text: "Check your answers" }
-  ]
-}) }}

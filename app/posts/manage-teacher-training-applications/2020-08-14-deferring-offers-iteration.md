@@ -3,7 +3,12 @@ title: Deferring offers to the next cycle (iteration 2)
 description: Let providers defer offers to the next cycle
 date: 2020-08-14
 tags:
-- MN016
+  - MN016
+screenshots:
+  items:
+    - Offer page with defer link
+    - Defer offer page
+    - Flash message
 ---
 
 The [previous iteration](/manage-teacher-training-applications/deferring-applications-to-the-next-cycle) let users change the cycle for an application on the application page.
@@ -32,23 +37,3 @@ If a candidate has met all of their conditions when the offer is deferred, then 
 It’s up to providers to accept the request for deferral.
 
 At the beginning of the new cycle, providers will have to [reconfirm the deferred offer](/manage-teacher-training-applications/reconfirming-a-deferred-offer-iteration).
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Offer page with defer link",
-    img: {
-      src: "offer-page.png"
-    }
-  }, {
-    text: "Defer offer page",
-    img: {
-      src: "defer-offer-page.png"
-    }
-  }, {
-    text: "Flash message",
-    img: {
-      src: "flash-message.png"
-    }
-  }]
-}) }}

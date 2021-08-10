@@ -2,6 +2,9 @@
 title: Managing applications across cycles (reconfirming deferred offers)
 description: Let users filter by cycle instead of having to switch cycles
 date: 2020-08-12
+screenshots:
+  items:
+    - Application list at start of new cycle
 ---
 
 In the last round of research we let users [switch between cycles](/manage-teacher-training-applications/switching-between-cycles/).
@@ -30,13 +33,3 @@ At the start of a new cycle:
 
 * if there are deferred offers, they’ll appear at the top to prompt users to reconfirm their offers
 * if there are applications pending conditions, they’ll appear at the top to prompt users to mark them as ‘met’ or ‘not met’
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list at start of new cycle",
-    img: {
-      src: "application-list.png"
-    }
-  }]
-}) }}

@@ -2,6 +2,17 @@
 title: No more course folding
 description: Reasoning behind not folding courses and unfolded course designs.
 date: 2018-08-09
+screenshots:
+  title: Unfolded course designs
+  items:
+    - text: Organisation
+      src: /publish-teacher-training-courses/unfolded-courses/organisation.png
+    - text: "Course: PGCE with QTS full time with salary"
+      src: /publish-teacher-training-courses/unfolded-courses/pgce-with-qts-full-time-with-salary.png
+    - text: "Course: PGCE with QTS full time"
+      src: /publish-teacher-training-courses/unfolded-courses/pgce-with-qts-full-time.png
+    - text: About your organisation
+      src: /publish-teacher-training-courses/unfolded-courses/about-your-organisation.png
 ---
 
 We defined folding as the combination of ‘course variants’ by subject, eg PGCE with QTS, QTS only, salaried and unsalaried would all show as one search result and course detail page.
@@ -63,22 +74,3 @@ The benefit of folding on search results that we saw with applicants can be achi
 Rather than 1 result linking to a page with all variants, instead group a provider’s courses in the search results. A group will have multiple links to each variant – allowing for a cursory comparison, while the group itself can be easily skipped past.
 
 We’re [tracking grouping on the story map](https://trello.com/c/jQftifYl/44-group-listings-to-make-results-easier-to-scan) and consider it outside of the minimum viable service.
-
-## Unfolded course designs
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Organisation",
-    img: { src: "/publish-teacher-training-courses/unfolded-courses/organisation.png" }
-  }, {
-    text: "Course: PGCE with QTS full time with salary",
-    img: { src: "/publish-teacher-training-courses/unfolded-courses/pgce-with-qts-full-time-with-salary.png" }
-  }, {
-    text: "Course: PGCE with QTS full time",
-    img: { src: "/publish-teacher-training-courses/unfolded-courses/pgce-with-qts-full-time.png" }
-  }, {
-    text: "About your organisation",
-    img: { src: "/publish-teacher-training-courses/unfolded-courses/about-your-organisation.png" }
-  }]
-}) }}

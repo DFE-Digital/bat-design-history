@@ -4,11 +4,9 @@ description: Dipping our toes in to the complex world of organisations, provider
 date: 2021-02-16
 related:
   items:
-  - text: Round 3 findings
-    href: register-trainee-teachers/beta-prototype-research-round-3/
+    - text: Round 3 findings
+      href: /register-trainee-teachers/beta-prototype-research-round-3/
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 So far, our prototype has been designed to work the simple case - users who work for a single provider. We’re now extending that to look at how it could work for different organisational setups.
 
@@ -61,49 +59,27 @@ We’ve started by designing both approaches.
 
 In this model, the user picks a provider to work as immediately after signing in. Thereafter, they can swap providers by clicking the provider name in the header.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Hat model: chooser",
-    img: { src: "hat-model-chooser.png" }
-  }, {
-    text: "Hat model: header",
-    img: { src: "hat-model-header.png" }
-  }, {
-    text: "Hat model: task list",
-    img: { src: "hat-model-task-list.png" }
-  }]
-}) }}
+![Screenshot of hat model: chooser](hat-model-chooser.png "Hat model: chooser")
+
+![Screenshot of hat model: header.](hat-model-header.png "Hat model: header")
+
+![Screenshot of hat model: task list.](hat-model-task-list.png "Hat model: task list")
 
 ### Blended model
 
 The main changes here are the option to filter by provider and the need to pick a provider when adding a trainee.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Blended model: filters",
-    img: { src: "blended-model-filters.png" }
-  }, {
-    text: "Blended model: chooser",
-    img: { src: "blended-model-chooser.png" }
-  }, {
-    text: "Blended model: task list",
-    img: { src: "blended-model-task-list.png" }
-  }]
-}) }}
+![Screenshot of blended model: filters.](blended-model-filters.png "Blended model: filters")
+
+![Screenshot of blended model: chooser.](blended-model-chooser.png "Blended model: chooser")
+
+![Screenshot of blended model: task list.](blended-model-task-list.png "Blended model: task list")
 
 ### Swapping between models
 
 To help with usability testing and design, we added an internal settings page in the prototype to let us play with various scenarios. This lets us easily try different scenarios - such as a user with access to 5 providers
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Provider admin screen",
-    img: { src: "provider-admin-screen.png" }
-  }]
-}) }}
+![Screenshot of provider admin screen.](provider-admin-screen.png "Provider admin screen")
 
 ## Testing these designs
 

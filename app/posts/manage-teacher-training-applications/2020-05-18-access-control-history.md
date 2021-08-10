@@ -596,19 +596,13 @@ __Adding users:__
 {{ appScreenshots({
   items: [{
     text: "Application list",
-    img: {
-      src: "Weblink-application-list.png"
-    }
+    src: "Weblink-application-list.png"
   }, {
     text: "Modify application",
-    img: {
-      src: "Weblink-modify-application.png"
-    }
+    src: "Weblink-modify-application.png"
   }, {
     text: "Change offer",
-    img: {
-      src: "Weblink-change-offer.png"
-    }
+    src: "Weblink-change-offer.png"
   }]
 }) }}
 

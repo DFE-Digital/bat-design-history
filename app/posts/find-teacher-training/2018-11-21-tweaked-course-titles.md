@@ -2,6 +2,10 @@
 title: Iterate course titles
 description: Make it easier to differentiate between search results.
 date: 2018-11-21
+screenshots:
+  items:
+    - Search results
+    - Course
 ---
 
 Search results must be distinct, and the differences between courses must be clear. When a provider offers multiple courses for the same subject, it’s not obvious to users what the difference is ([see BHSSA example](/find-teacher-training/live-launch/search-results.png)).
@@ -20,14 +24,3 @@ Other design changes include:
 
 [Pull request](https://github.com/DFE-Digital/search-and-compare-ui/pull/286)
 [Previous examples of the problem](/publish-teacher-training-courses/what-is-a-course)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Search results",
-    img: { src: "search-results.png" }
-  }, {
-    text: "Course",
-    img: { src: "course.png" }
-  }]
-}) }}

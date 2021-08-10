@@ -1,19 +1,15 @@
 ---
 title: Academic qualifications
 description: Adding your degree, statutory requirements and other qualifications.
+screenshots:
+  items:
+    - Academic qualifications
+    - Your degree
+    - Add degree
+    - Add non-UK degree
+    - Maths GCSE or equivalent
+    - Add maths GCSE or equivalent
+    - English GCSE or equivalent
+    - Add English GCSE equivalent
+    - Add other qualification
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Academic qualifications" },
-    { text: "Your degree" },
-    { text: "Add degree" },
-    { text: "Add non-UK degree" },
-    { text: "Maths GCSE or equivalent" },
-    { text: "Add maths GCSE or equivalent" },
-    { text: "English GCSE or equivalent" },
-    { text: "Add English GCSE equivalent" },
-    { text: "Add other qualification" }
-  ]
-}) }}

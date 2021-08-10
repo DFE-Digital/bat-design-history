@@ -3,7 +3,19 @@ title: Improving the references user journey
 description: Adapting the references section so it works for candidates applying for the first time and for candidates applying again.
 date: 2020-04-27
 tags:
-- AN023
+  - AN023
+screenshots:
+  items:
+    - The box is already ticked to show the references section is complete
+    - The references section is automatically marked as complete
+    - Making it clearer that you need to add another referee
+    - Making it clearer that you need to add 2 referees
+    - Removing the intermediate page before adding referees
+    - The button for adding another referee was not the clear call to action
+    - Static guidance about contacting your referees when you submit
+    - Static guidance about sending the application to the provider once the references are in
+    - Showing guidance at the relevant point when replacing referees
+    - Candidates go straight to add their referee
 ---
 
 A candidate has to add 2 references when applying for the first time. When applying again, they can keep their old references or replace them.
@@ -22,7 +34,7 @@ We need to adapt the references section so that it works for candidates in all s
 At various points in the user journey we tell candidates:
 
 * [we’ll contact your referees after you submit your application](/apply-for-teacher-training/improving-the-references-user-journey#static-guidance-about-contacting-your-referees-when-you-submit)
-* [we'll send your application to your provider when your references are in](/apply-for-teacher-training/improving-the-references-user-journey#static-guidance-about-sending-the-application-to-the-provider-once-the-references-are-in)
+* [we’ll send your application to your provider when your references are in](/apply-for-teacher-training/improving-the-references-user-journey#static-guidance-about-sending-the-application-to-the-provider-once-the-references-are-in)
 
 This is not the case if a candidate keeps their references when applying again.
 
@@ -31,15 +43,15 @@ Then candidates will understand what happens with their references
 
 #### What this looks like
 
-Rather than having static sentences explaining the above, we'll show guidance only when you add or replace a referee.
+Rather than having static sentences explaining the above, we’ll show guidance only when you add or replace a referee.
 
 ![Showing guidance at the relevant point when replacing referees](showing-guidance-at-the-relevant-point-when-replacing-referees.png)
 
 ### Cutting out unnecessary steps
 
-There's an [intermediate step between viewing your application menu and adding your referees](/apply-for-teacher-training/improving-the-references-user-journey#removing-the-intermediate-page-before-adding-referees) - but there's no evidence to say that it's needed.
+There’s an [intermediate step between viewing your application menu and adding your referees](/apply-for-teacher-training/improving-the-references-user-journey#removing-the-intermediate-page-before-adding-referees) - but there’s no evidence to say that it’s needed.
 
-If we remove the intermediate step, whether you're applying for the first time or applying again
+If we remove the intermediate step, whether you’re applying for the first time or applying again
 Then candidates will still give suitable referees
 Because there’s similar guidance on the following page
 
@@ -58,11 +70,11 @@ Then candidates will know they need to do this
 
 #### What this looks like
 
-It's now clearer that you need to add another referee when you delete one, even if you do not do it now.
+It’s now clearer that you need to add another referee when you delete one, even if you do not do it now.
 
 ![Making it clearer that you need to add another referee](making-it-clearer-that-you-need-to-add-another-referee.png)
 
-We've also made it clear that you need 2 referees when you've deleted both of them.
+We’ve also made it clear that you need 2 referees when you’ve deleted both of them.
 
 ![Making it clearer that you need to add 2 referees](making-it-clearer-that-you-need-to-add-2-referees.png)
 
@@ -79,22 +91,6 @@ The section is already marked as complete when you sign in to apply again.
 
 ![Checkbox is already ticked to show the references section iscomplete](the-box-is-already-ticked-to-show-the-references-section-is-complete.png)
 
-And it's clear that you do not have to review the references section.
+And it’s clear that you do not have to review the references section.
 
 ![References section marked as complete](the-references-section-is-automatically-marked-as-complete.png)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "The box is already ticked to show the references section is complete" },
-    { text: "The references section is automatically marked as complete" },
-    { text: "Making it clearer that you need to add another referee" },
-    { text: "Making it clearer that you need to add 2 referees" },
-    { text: "Removing the intermediate page before adding referees" },
-    { text: "The button for adding another referee was not the clear call to action" },
-    { text: "Static guidance about contacting your referees when you submit" },
-    { text: "Static guidance about sending the application to the provider once the references are in" },
-    { text: "Showing guidance at the relevant point when replacing referees"},
-    { text: "Candidates go straight to add their referee"}
-  ]
-}) }}
