@@ -10,6 +10,26 @@ related:
     href: https://bat-design-history.netlify.app/manage-teacher-training-applications/displaying-permissions-in-the-user-list/ 
   - text: Design history entry about moving organisation permissions guidance
     href: https://bat-design-history.netlify.app/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/ 
+screenshots:
+  items:
+    - text: Set up organisation permissions - start page
+      src: set-up--start.png
+    - text: Set up organisation permissions - relationship
+      src: set-up--relationship.png
+    - text: Set up organisation permissions - check answers
+      src: set-up--check.png
+    - text: Set up organisation permissions - confirmation
+      src: set-up--confirmation.png
+    - text: Set up organisation permissions - organisation settings
+      src: organisation-settings.png
+    - text: Users - list
+      src: user--list.png
+    - text: Invite user - partners not listed if permission applies to all or none
+      src: permissions-form-not-listing-all--open.png
+    - text: Invite user - partners listed if permission applies to all or none
+      src: permissions-form--open.png
+    - text: User - details
+      src: your-permissions.png
 ---
 
 {% from "email/macro.njk" import appEmail %}
@@ -172,53 +192,3 @@ You can also contact us at [becomingateacher@digital.education.gov.uk](mailto:be
 }) }}
 
 <!-- markdownlint-enable -->
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Set up organisation permissions - start page",
-    img: {
-      src: "set-up--start.png"
-    }
-  }, {
-    text: "Set up organisation permissions - relationship",
-    img: {
-      src: "set-up--relationship.png"
-    }
-  }, {
-    text: "Set up organisation permissions - check answers",
-    img: {
-      src: "set-up--check.png"
-    }
-  }, {
-    text: "Set up organisation permissions - confirmation",
-    img: {
-      src: "set-up--confirmation.png"
-    }
-  }, {
-    text: "Set up organisation permissions - organisation settings",
-    img: {
-      src: "organisation-settings.png"
-    }
-  }, {
-    text: "Users - list",
-    img: {
-      src: "user--list.png"
-    }
-  }, {
-    text: "Invite user - partners not listed if permission applies to all or none",
-    img: {
-      src: "permissions-form-not-listing-all--open.png"
-    }
-  }, {
-    text: "Invite user - partners listed if permission applies to all or none",
-    img: {
-      src: "permissions-form--open.png"
-    }
-  }, {
-    text: "User - details",
-    img: {
-      src: "your-permissions.png"
-    }
-  }]
-}) }}
