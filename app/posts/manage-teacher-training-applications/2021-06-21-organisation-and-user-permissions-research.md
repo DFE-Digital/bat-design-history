@@ -149,12 +149,12 @@ If users cannot access this information then they may create new users without f
 
 Candidates can now apply through GOV.UK for courses that you work on with: 
 
-* Essex Teacher Training
-* UCL, University College London (University of London)
-* University of Birmingham
-* University of Derby
-* University of East Anglia
-* University of Greenwich
+- Essex Teacher Training
+- UCL, University College London (University of London)
+- University of Birmingham
+- University of Derby
+- University of East Anglia
+- University of Greenwich
 
 Either you or these partner organisations must set up organisation permissions before you can manage applications to the courses.
 
@@ -206,12 +206,12 @@ You can also contact us at [becomingateacher@digital.education.gov.uk](mailto:be
       src: "user--list.png"
     }
   }, {
-    text: "Adding a user - permissions form which does not list partners if a permission applies to all or none",
+    text: "Invite user - partners not listed if permission applies to all or none",
     img: {
       src: "permissions-form-not-listing-all--open.png"
     }
   }, {
-    text: "Adding a user - iterated permissions form which lists all partners if a permission applies to all or none",
+    text: "Invite user (improved) - partners listed if permission applies to all or none",
     img: {
       src: "permissions-form--open.png"
     }
