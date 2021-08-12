@@ -211,7 +211,7 @@ You can also contact us at [becomingateacher@digital.education.gov.uk](mailto:be
       src: "permissions-form-not-listing-all--open.png"
     }
   }, {
-    text: "Invite user (improved) - partners listed if permission applies to all or none",
+    text: "Invite user - partners listed if permission applies to all or none",
     img: {
       src: "permissions-form--open.png"
     }
