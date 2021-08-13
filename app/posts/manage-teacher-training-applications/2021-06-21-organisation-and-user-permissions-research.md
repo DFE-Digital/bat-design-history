@@ -38,7 +38,7 @@ This research was part of an extended piece of work to improve the way users set
 
 We wanted to see if participants could: 
 
-- understand the permissions model 
+- understand how permissions work 
 - set up organisation permissions to reflect how they work with their partners 
 - set up user permissions to reflect how a new user would work within their organisation
 
@@ -64,13 +64,13 @@ We tested the flows which providers use to set up permissions:
 
 We started with an email which users would receive when a partner organisation joined the service. We wanted to know whether participants understood what they were being asked to do.
 
-After clicking a link in the email, the participant saw a 'set up organisation permissions' start page. The content was very similar to the email and again we wanted to see whether users understood enough to continue.  
+After clicking a link in the email, the participant saw the start page for setting up organisation permissions. The content was very similar to the email and again we wanted to see whether users understood enough to continue.  
 
 Participants then saw a series of pages where they could set the permissions for each partner organisation. We‘d added a line to say that all users would be able to view applications and wanted to see whether that improved participants‘ understanding.
 
 After they‘d chosen organisation permissions for all partners, the participant reached a 'check answers' page. We were interested to see whether they used this page and went back to make any changes. 
 
-Finally there was a confirmation page. This had links to further actions such as ‘invite or manage users‘ and we wanted to see what users chose to do.
+Finally there was a confirmation page. This had links to further actions such as inviting or managing users and we wanted to see what users chose to do.
 
 ### User permissions
 
