@@ -44,7 +44,7 @@ Where providers do accept equivalency tests, they are asked to give details, and
 
 ### Secondary courses
 
-For Secondary courses, a standardised paragraph is added about the degree subject:
+For secondary courses, a standardised paragraph is added about the degree subject:
 
 > Your degree subject should be in [course subject] or a similar subject. Otherwise you’ll need to prove your subject knowledge in some other way.
 
