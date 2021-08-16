@@ -1,5 +1,5 @@
 module.exports = {
-  productName: 'Becoming a teacher design history',
+  productName: 'Does this work?',
   sections: {
     title: 'Services'
   }
