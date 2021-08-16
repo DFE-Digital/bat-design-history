@@ -6,7 +6,13 @@ date: 2021-08-06
 
 ## Contents
 
-xxx
+* [Dates that affect Find](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#dates-that-affect-find)
+* [Candidates are informed about upcoming deadlines](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-about-upcoming-deadlines)
+* [Candidates are informed that the deadline to apply for the first time has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-that-the-deadline-to-apply-for-the-first-time-has-passed)
+* [Candidates are discouraged from from searching for courses after the deadline to apply again has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-discouraged-from-searching-for-courses-after-the-deadline-to-apply-again-has-passed)
+* [Candidates can no longer view courses when the recruitment cycle has ended](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-can-no-longer-view-courses-when-the-recruitment-cycle-has-ended)
+* [Candidates can browse courses when the recruitment cycle begins](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-can-browse-courses-when-the-recruitment-cycle-begins)
+* [Candidates can submit their application when applications open](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-can-submit-their-application-when-applications-open)
 
 ## Dates that affect Find
 
@@ -38,13 +44,13 @@ A banner starts showing across Find approximately 2 months before the [deadline 
 
 ## Candidates are informed that the deadline to apply for the first time has passed
 
-After the [deadline to apply for the first time](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#7-september-2021-at-6pm), a new banner replaces the [previous banner](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-about-deadlines):
+After the [deadline to apply for the first time](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#7-september-2021-at-6pm), a new banner replaces the [previous banner](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-about-upcoming-deadlines):
 
 ![Inform candidates that the first deadline has passed and the deadline to apply again is approaching.](first-deadline-passed.png)
 
 ### If a candidate applying for the first time tries to apply to a course after the deadline
 
-Even after the [deadline to apply for the first time](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#7-september-2021-at-6pm) has passed, it’s still possible for a candidate applying for the first time to click on the ‘Apply for this course’ button on course pages (they might ignore or miss the [banner message](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-that-the-deadline-to-apply-for-the-first-time-has-passed-and-the-deadline-to-apply-again-is-approaching)):
+Even after the [deadline to apply for the first time](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#7-september-2021-at-6pm) has passed, it’s still possible for a candidate applying for the first time to click on the ‘Apply for this course’ button on course pages (they might ignore or miss the [banner message](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-that-the-deadline-to-apply-for-the-first-time-has-passed)):
 
 ![Candidates applying for the first time can still click on the 'apply' button even after their deadline.](apply-for-this-course-button.png)
 
@@ -54,13 +60,13 @@ To prevent candidates applying for the first time from adding courses starting i
 
 ![Candidates applying for the first time after the deadline cannot select a course.](select-course-journey.png)
 
-The candidate is instead sent straight to their task list where they’re informed that [courses are closed](/apply-for-teacher-training/end-of-cycle-2021/#if-they-carry-over-before-find-reopens%2C-they-cannot-find-courses) and that [they cannot submit yet](/end-of-cycle-2021/#if-they-carry-over-before-apply-reopens%2C-they-cannot-submit).
+The candidate is instead sent straight to their task list where they’re informed that [courses are closed](/apply-for-teacher-training/end-of-cycle-2021/#if-they-carry-over-before-find-reopens%2C-they-cannot-find-courses) and that [they cannot submit yet](/apply-for-teacher-training/end-of-cycle-2021/#if-they-carry-over-before-apply-reopens%2C-they-cannot-submit).
 
 Candidates applying again after the deadline to apply for the first time will go through the course selection journey as normal.
 
-## Candidates are discouraged from from searching for courses after the deadline to apply again has passed
+## Candidates are discouraged from searching for courses after the deadline to apply again has passed
 
-Although no candidates can submit an application after the [deadline to apply again](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#21-september-2021-at-6pm) pas passed, we continue to show course listings so that providers and candidates who’ve already applied can finalise any post-submission activity (such as making and accepting offers).
+Although candidates cannot submit an application after the [deadline to apply again](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#21-september-2021-at-6pm) pas passed, we continue to show course listings so that providers and candidates who’ve already applied can finalise any post-submission activity (such as making and accepting offers).
 
 A banner lets candidates know that they should come back later to find courses starting in the 2022 to 2023 academic year if they want to apply:
 
@@ -90,7 +96,7 @@ Anyone trying to visit Find will be informed that courses are closed and that th
 
 [For the same reasons as above, we could introduce a link to Apply for teacher training so that candidates can still start an application](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#is-disabling-the-button-the-right-approach%3F).
 
-## When the recruitment cycle begins
+## Candidates can browse courses when the recruitment cycle begins
 
 When the [recruitment cycle begins](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#5-october-2021-at-9am) candidates can view courses starting in the 2022 to 2023 academic year.
 
@@ -100,9 +106,9 @@ Candidates can add courses to their application but they cannot submit it until 
 
 {% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
 {{ govukInsetText({
-  text: "Users will no longer be asked whether they want to apply on UCAS, as UCAS will be switched off by this point."
+  text: "On clicking 'Apply for this course', users will no longer be asked whether they want to apply on UCAS."
 }) }}
 
-## Candidates can apply for courses starting in the 2022 to 2023 academic year when applications open
+## Candidates can submit their application when applications open
 
-Candidates can submit applications as normal when [applications open](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#12-october-2021-at-9am).
+Candidates can submit applications for courses starting in the 2022 to 2023 academic year [applications open](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#12-october-2021-at-9am).
