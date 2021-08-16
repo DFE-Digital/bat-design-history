@@ -54,7 +54,7 @@ Even after the [deadline to apply for the first time](/find-teacher-training/cha
 
 ![Candidates applying for the first time can still click on the 'apply' button even after their deadline.](apply-for-this-course-button.png)
 
-The button will not be disabled yet because candidates applying again are still eligible to apply until 21 September 2021 at 6pm.
+The button will not be disabled because candidates applying again are still eligible to choose and apply to the courses shown on Find until 21 September 2021 at 6pm.
 
 To prevent candidates applying for the first time from adding courses starting in the 2021 to 2022 academic year (which they're no longer eligible to apply to) we will not take them through the usual "You selected a course" journey:
 
