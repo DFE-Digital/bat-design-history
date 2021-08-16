@@ -4,7 +4,7 @@ description: Why we have made the descriptions of entry requirements more consis
 date: 2021-08-16
 ---
 
-For the 2021 to 2022 cycle, providers were asked to describe the academic qualification entry requirements for each course as a single free text field.
+Prior to the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course as a single free text field.
 
 As there is a minimum initial teacher training entry requirement across all courses, this led to the standard entry requirements being described in different ways by different providers.
 
