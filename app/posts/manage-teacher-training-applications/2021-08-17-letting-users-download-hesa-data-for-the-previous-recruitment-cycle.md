@@ -11,7 +11,7 @@ The service only lets users download HESA data for the current recruitment cycle
 
 Users need to submit this data to HESA but the deadline comes after the end of the recruitment cycle.
 
-This is problematic because some users may forget to download the data before the end of the recruitment cycle. They’ll then need to contact support to get the data they need to submit.
+This may cause problems because some users may forget to download the data before the end of the recruitment cycle. They’ll then need to contact support to get the data they need to submit.
 
 To solve this problem, we’ll let users download the previous cycle’s HESA data.
 
