@@ -4,7 +4,7 @@ description: Why we have made the descriptions of entry requirements more consis
 date: 2021-08-16
 ---
 
-Prior to the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course as a single free text field.
+Before the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course in a single free text field.
 
 As there is a minimum initial teacher training entry requirement across all courses, this led to the standard entry requirements being described in different ways by different providers.
 
@@ -16,9 +16,15 @@ For instance:
 
 > GCSE in English (or approved equivalent) at grade C/Level 4 or above GCSE in Mathematics (or approved equivalent) at grade C/Level 4 or above GCSE in Science (or approved equivalent) at grade C/Level 4 or above
 
-These minor inconsistencies may be confusing for candidates, and the requirements weren’t always written in the easiest to understand way.
+These small differences may be confusing for candidates. The way providers had written requirements could also be difficult to understand.
 
-Instead, for the 2022 to 2023 cycle, we have changed the Publish interface to only ask providers to specify the entry requirements that may differ across courses, namely the [acceptance of pending GCSEs and GCSE equivalency tests](/publish-teacher-training-courses/pending-gcses-equivalency-tests/) and the [minimum degree class required](/publish-teacher-training-courses/degree-entry-requirements/).
+For the 2022 to 2023 cycle, we've changed the Publish interface to only ask providers to specify the entry requirements that may differ across courses.
+
+These are:
+
+* whether or not they [accept pending GCSEs and GCSE equivalency tests](/publish-teacher-training-courses/pending-gcses-equivalency-tests/)
+* the [minimum degree class required](/publish-teacher-training-courses/degree-entry-requirements/)
+* any additional degree subject requirements (for secondary courses)
 
 These changes allow us use consistent language to describe the standard entry requirements.
 
@@ -56,6 +62,6 @@ The GCSE requirements for Secondary courses do not include science:
 
 ## Findings from user research
 
-There was consistent confusion around the term 'equivalent', as it is used both in 'equivalency test' and 'or equivalent', but these mean different things. To improve this, we have qualified these terms as 'GCSE equivalency test' and 'or equivalent qualification'.
+There was confusion around the term ‘equivalent’, as it was for both ‘equivalency tests’, but also to mean an ‘equivalent’ qualification. To improve this, we’ve used the terms ‘GCSE equivalency test’ or ‘equivalent qualification’.
 
-From speaking to providers, we learnt that there is a wide variation in how GCSE equivalency tests are handled, with some running these in-house and others requiring specific third-party companies. This meant that we could not use terms like "offered" or "accepted". Instead the language refers to considering candidates who need to take the a GCSE equivalency test, with the free text paragraph after giving details.
+We learnt that providers handle GCSE equivalency tests differently. Some providers run them in-house, others only accept tests from specific third-party companies. This meant that we could not use terms like ‘offered’ or ‘accepted’. Instead the language refers to considering candidates who need to take the a GCSE equivalency test, with the free text paragraph after giving details.
