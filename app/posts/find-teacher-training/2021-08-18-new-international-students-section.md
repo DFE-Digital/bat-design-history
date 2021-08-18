@@ -1,0 +1,21 @@
+---
+title: New ‘International students’ section
+description: Why we have added a new section to course paes
+date: 2021-08-18
+screenshots:
+  items:
+    - text: International students section – provider can sponsor visas
+      src: can-sponsor-visas.png
+    - text: International students section – provider unable to sponsor visas
+      src: unable-to-sponsor-visas.png
+---
+
+We have started looking at how to improve the experience of non-UK based candidates applying for postgraduate teacher training. As part of this, we reviewed the information on course pages.
+
+As there are a few things that only international students need to know, we have added a new section to bring this information together.
+
+The section starts by saying whether that course is able to sponsor visas or not. This text is based on the answer given by the course provider to the [new visa sponsorship questions](/publish-teacher-training-courses/visa-sponsorship/) on the Publish service.
+
+The rest of the information is static, and the same for every course.
+
+We plan to iterate and add to this information as we learn more about the needs of international candidates.
