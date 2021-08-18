@@ -9,7 +9,7 @@ date: 2021-08-17
 
 Previously, the Courses section was at the top of the application. This was to help direct candidates to the right site to complete their application. Some courses were on UCAS and others were on Apply for teacher training.
 
-But when UCAS is switched off in September, candidates will be able to apply for all courses using Apply.
+For the 2022 to 2023 cycle, candidates will need to apply for all courses using Apply.
 
 ### Encouraging candidates to add their personal details before choosing a course
 
