@@ -21,9 +21,7 @@ Based on this, we decided to warn candidates who need a sponsored visa, if they 
   hideContents: true,
   items: [{
     text: "Visa warning in the Course choices summary",
-    img: {
-      src: "visa-warning-message.png"
-    }
+    src: "visa-warning-message.png"
   }]
 }) }}
 
@@ -33,9 +31,7 @@ To do that, we needed them to enter their nationality and state if they had the 
   hideContents: true,
   items: [{
     text: "Personal details section at the top of the application",
-    img: {
-      src: "personal-details-top.png"
-    }
+    src: "personal-details-top.png"
   }]
 }) }}
 
