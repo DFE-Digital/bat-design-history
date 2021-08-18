@@ -26,7 +26,7 @@ These are:
 * the [minimum degree class required](/publish-teacher-training-courses/degree-entry-requirements/)
 * any additional degree subject requirements (for secondary courses)
 
-These changes allow us use consistent language to describe the standard entry requirements.
+These changes allow us to use consistent language to describe the standard entry requirements.
 
 ## New content structure
 
@@ -38,7 +38,7 @@ The standardised content is:
 >
 > GCSE grade 4 (&#8203;C) or above in English, maths and science, or equivalent qualification.
 
-Then the following paragraph is constructed from the provider’s answers to the pending GCSEs and equivalency tests questions, for example:
+Then the following paragraph is created from the provider’s answers to the pending GCSEs and equivalency tests questions, for example:
 
 > We’ll consider candidates who are currently taking GCSEs. We will not consider candidates who need to take GCSE equivalency tests.
 
@@ -62,6 +62,6 @@ The GCSE requirements for Secondary courses do not include science:
 
 ## Findings from user research
 
-There was confusion around the term ‘equivalent’, as it was for both ‘equivalency tests’, but also to mean an ‘equivalent’ qualification. To improve this, we’ve used the terms ‘GCSE equivalency test’ or ‘equivalent qualification’.
+There was confusion around the term ‘equivalent’, as it was used within both ‘equivalency test’ and also ‘GCSE, or equivalent’. To improve this, we’ve used the terms ‘GCSE equivalency test’ or ‘equivalent qualification’.
 
-We learnt that providers handle GCSE equivalency tests differently. Some providers run them in-house, others only accept tests from specific third-party companies. This meant that we could not use terms like ‘offered’ or ‘accepted’. Instead the language refers to considering candidates who need to take the a GCSE equivalency test, with the free text paragraph after giving details.
+We learnt that providers handle GCSE equivalency tests differently. Some providers run them in-house, others only accept tests from specific third-party companies. This meant that we could not use terms like ‘offered’ or ‘accepted’. Instead the language refers to considering candidates who need to take a GCSE equivalency test, with the free text paragraph after giving details.
