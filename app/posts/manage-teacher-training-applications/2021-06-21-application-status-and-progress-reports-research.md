@@ -20,7 +20,7 @@ screenshots:
 
 In the previous round of research, we tested a way of allowing users to configure their own data reports. 
 
-This was flexible but would require a large amount of design and development work. We decided to try something smaller which would meet specific user needs.
+This was flexible but would require a large amount of design, research and development work. We decided to try something smaller which would meet specific user needs.
 
 For this round, we tested 2 reports which could not be configured and showed: 
 
