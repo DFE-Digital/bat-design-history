@@ -1,7 +1,7 @@
 ---
 title: Online chat research
 description: We wanted to know if users were able to locate a button to start an online chat and what they expected would happen after they clicked it
-date: 2021-06-21
+date: 2021-06-24
 related:
   items:
     - text: Research findings slides
