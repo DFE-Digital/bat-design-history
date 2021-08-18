@@ -46,7 +46,7 @@ or
 
 > We’ll consider candidates who are currently taking GCSEs. We’ll consider candidates who need to take a GCSE equivalency test in English, maths, or science.
 
-Where providers do accept equivalency tests, they are asked to give details, and this free text field is shown at the end.
+Where providers do accept equivalency tests, they’re asked to give details, and this free text field is shown at the end.
 
 ### Secondary courses
 
