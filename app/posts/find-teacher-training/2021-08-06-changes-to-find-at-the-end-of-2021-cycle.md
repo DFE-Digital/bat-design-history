@@ -88,13 +88,11 @@ The link text could state: 'You can still [start or continue an application for 
 
 ## Candidates can no longer view courses when the recruitment cycle has ended
 
-[When the recruitment cycle ends](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#4-october-2021-at-midnight) candidates can no longer be placed on courses starting in the 2021 to 2022 academic year, so we stop showing course listings on Find.
+[When the recruitment cycle ends](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#4-october-2021-at-midnight) candidates can no longer be placed on courses starting in the 2021 to 2022 academic year, so we stop showing the 2021 to 2022 courses.
 
-Anyone trying to visit Find will be informed that courses are closed and that they should come back later to find courses starting in the 2022 to 2023 academic year:
+Anyone trying to visit Find will be informed that courses are closed, but we enable them start or continue an application anyway:
 
-![Course listing are not shown when the recruitment cycle ends.](cannot-view-courses.png)
-
-[For the same reasons as above, we could introduce a link to Apply for teacher training so that candidates can still start an application](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#is-disabling-the-button-the-right-approach%3F).
+![Course listing are not shown when the recruitment cycle ends.](find-does-not-show-courses-when-the-cycle-has-ended.png)
 
 ## Candidates can browse courses when the recruitment cycle begins
 
