@@ -17,23 +17,11 @@ We know that providers reject candidates for not having the right to work or stu
 
 Based on this, we decided to warn candidates who need a sponsored visa, if they choose a course that does not sponsor visas. That way, they could change their course choice before submitting their application.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Visa warning in the Course choices summary",
-    src: "visa-warning-message.png"
-  }]
-}) }}
+![Screenshot showing visa warning in the Course choices summary](visa-warning-message.png "Visa warning in the Course choices summary")
 
 To do that, we needed them to enter their nationality and state if they had the right to work or study in the UK, before they chose their courses. So we decided to move the Personal details section to the top of the application.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Personal details section at the top of the application",
-    src: "personal-details-top.png"
-  }]
-}) }}
+![Screenshot showing personal details section at the top of the application](personal-details-top.png "Personal details section at the top of the application")
 
 Another benefit of completing the Personal details section first, is that international candidates will see the English as a foreign language assessment section sooner. If candidates enter a nationality other than British or Irish, that section will appear under Qualifications.
 
