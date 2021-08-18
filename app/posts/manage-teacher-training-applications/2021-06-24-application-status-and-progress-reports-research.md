@@ -1,7 +1,7 @@
 ---
 title: Application status and progress reports research
 description: This research focused on a report showing numbers of applications at specific statuses and another showing application progression
-date: 2021-06-21
+date: 2021-06-24
 related:
   items:
   - text: Research findings slides
@@ -18,13 +18,13 @@ screenshots:
       src: progress-report--long-headings.png
 ---
 
-In the previous round of research, we tested a way of allowing users to configure their own data reports. 
+In the previous round of research, we tested a way of allowing users to configure their own data reports.
 
 This was flexible but would require a large amount of design, research and development work. We decided to try something smaller which would meet specific user needs.
 
-For this round, we tested 2 reports which could not be configured and showed: 
+For this round, we tested 2 reports which could not be configured and showed:
 
-- numbers of applications at certain statuses 
+- numbers of applications at certain statuses
 - progression through the application journey
 
 We chose these because research had suggested they would be useful to providers. We wanted to check this and find out how the reports would support their needs for data.
@@ -45,7 +45,7 @@ All participants were administrators or admissions leads.
 
 We started on the application list page. We asked participants either to:
 
-- look for statistics about how recruitment was performing 
+- look for statistics about how recruitment was performing
 - download application data
 
 We wanted to know whether they found the ‘reports and data export’ link.
@@ -61,8 +61,8 @@ The status report gave absolute numbers only, for example the number of applicat
 
 There were links to 2 versions of the progress report. They showed the same data but had headings which:
 
-- just indicated a change of status 
-- focused more on what the change of status represented, with a second row indicating the change of status 
+- just indicated a change of status
+- focused more on what the change of status represented, with a second row indicating the change of status
 
 The progress reports gave percentages, for example the percentage of applications which made it from ‘interviewing’ to ‘offered’ status. Again each of the organisation’s courses had its own row and the partner organisation was indicated.
 
@@ -81,13 +81,13 @@ They also made several suggestions for additional features.
 
 ### Finding the ‘reports and data export’ section
 
-All participants found and used the reports link. 
+All participants found and used the reports link.
 
-This was the case whether we asked them to find statistics about how recruitment was performing or to download application data. 
+This was the case whether we asked them to find statistics about how recruitment was performing or to download application data.
 
 ### Using the reports
 
-Participants said they would find the data in the reports useful. They could relate the reports to different scenarios which they encounter in their work. 
+Participants said they would find the data in the reports useful. They could relate the reports to different scenarios which they encounter in their work.
 
 The status report appeared to meet the need to understand the state of recruitment and manage course capacity.
 
@@ -97,10 +97,10 @@ Participants said that the progress report would be helpful in understanding tre
 
 Participants preferred the version of the progression report with headings which focused on what the change of status represented. We found that:
 
-- the description in the first row gave participants a concise term to refer to 
-- the indication of the status change in the second row helped them understand how the percentages were calculated 
+- the description in the first row gave participants a concise term to refer to
+- the indication of the status change in the second row helped them understand how the percentages were calculated
 
-Participants mentioned specific terms which were in the table and they also used, such as ‘conversion’. 
+Participants mentioned specific terms which were in the table and they also used, such as ‘conversion’.
 
 ### Scrolling down the data tables
 
@@ -112,7 +112,7 @@ It will be harder for users to make accurate use of the figures if they cannot b
 
 HEI participants were not familiar with the statuses used in Manage. In particular they could not accurately describe what ‘offer accepted’ and ‘ready to enroll’ meant.
 
-If they sometimes need to use our service rather than their own student record systems, HEI users will need to learn how our statuses relate to theirs. 
+If they sometimes need to use our service rather than their own student record systems, HEI users will need to learn how our statuses relate to theirs.
 
 ### Feature requests
 
