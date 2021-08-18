@@ -1,7 +1,7 @@
 ---
 title: Application fraud research
 description: Finding out how providers handle fraudulent applications and what they consider the DfE’s role to be
-date: 2021-06-21
+date: 2021-06-24
 related:
   items:
     - text: Research findings slides

@@ -1,15 +1,15 @@
 ---
 title: Organisation and user permissions research
 description: Finding out whether users can set organisation and user permissions, and understand the links between the two
-date: 2021-06-21
+date: 2021-06-24
 related:
   items:
   - text: Research findings slides
     href: https://docs.google.com/presentation/d/1-NNXVPR68PbK84pU8yMmFpOZcRyJDPYdpdw3WNuYMxU/edit#slide=id.p3
   - text: Design history entry about displaying permissions in the user list
-    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/displaying-permissions-in-the-user-list/ 
+    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/displaying-permissions-in-the-user-list/
   - text: Design history entry about moving organisation permissions guidance
-    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/ 
+    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/
 screenshots:
   items:
     - text: Set up organisation permissions - start page
@@ -36,10 +36,10 @@ screenshots:
 
 This research was part of an extended piece of work to improve the way users set up permissions.
 
-We wanted to see if participants could: 
+We wanted to see if participants could:
 
-- understand how permissions work 
-- set up organisation permissions to reflect how they work with their partners 
+- understand how permissions work
+- set up organisation permissions to reflect how they work with their partners
 - set up user permissions to reflect how a new user would work within their organisation
 
 ## Who we researched with
@@ -54,7 +54,7 @@ All participants were administrators or admissions leads.
 
 ## What we researched
 
-We tested the flows which providers use to set up permissions: 
+We tested the flows which providers use to set up permissions:
 
 - between their own organisation and their partners
 
@@ -64,11 +64,11 @@ We tested the flows which providers use to set up permissions:
 
 We started with an email which users would receive when a partner organisation joined the service. We wanted to know whether participants understood what they were being asked to do.
 
-After clicking a link in the email, the participant saw the start page for setting up organisation permissions. The content was very similar to the email and again we wanted to see whether users understood enough to continue.  
+After clicking a link in the email, the participant saw the start page for setting up organisation permissions. The content was very similar to the email and again we wanted to see whether users understood enough to continue.
 
 Participants then saw a series of pages where they could set the permissions for each partner organisation. We‘d added a line to say that all users would be able to view applications and wanted to see whether that improved participants‘ understanding.
 
-After they‘d chosen organisation permissions for all partners, the participant reached a 'check answers' page. We were interested to see whether they used this page and went back to make any changes. 
+After they‘d chosen organisation permissions for all partners, the participant reached a 'check answers' page. We were interested to see whether they used this page and went back to make any changes.
 
 Finally there was a confirmation page. This had links to further actions such as inviting or managing users and we wanted to see what users chose to do.
 
@@ -78,9 +78,9 @@ We asked participants to add a user and give them appropriate permissions. The f
 
 We had changed the user list page so that it showed all users‘ permissions, which were previously only available on the separate page for each user. We wanted to find out whether this would be useful for participants.
 
-After clicking to invite a user and giving a name and email address, the participant had to set the user’s permissions. 
+After clicking to invite a user and giving a name and email address, the participant had to set the user’s permissions.
 
-For this iteration of the design we had removed hint text from the checkboxes used to set user permissions. We had done this because very long hint text can cause problems for screen reader users. 
+For this iteration of the design we had removed hint text from the checkboxes used to set user permissions. We had done this because very long hint text can cause problems for screen reader users.
 
 We’d moved the hint text into a details component, a triangular control which reveals the content once clicked. We were particularly interested in whether participants:
 
@@ -113,9 +113,9 @@ However we also found that:
 
 ### How organisation permissions and user permissions relate to each other
 
-It was not clear to particpants how organisation permissions and user permissions relate to each other. 
+It was not clear to particpants how organisation permissions and user permissions relate to each other.
 
-For example, some participants did not realise that they may need to change both organisation and user permissions to allow a user to view criminal convictions. Even some participants who did understand this were unable to navigate the service to do it. 
+For example, some participants did not realise that they may need to change both organisation and user permissions to allow a user to view criminal convictions. Even some participants who did understand this were unable to navigate the service to do it.
 
 Some participants could not fully explain what they’d done after they had set up organisation permissions.
 
@@ -136,11 +136,11 @@ The scope of the users list wasn’t completely clear. Some participants:
 
 This may cause users to incorrectly add partner organisation users to their organisation. It may also lead them to contact support.
 
-During the round of research we added the organisation name above the h1 heading as a caption. This helped users understand what they were looking at. 
+During the round of research we added the organisation name above the h1 heading as a caption. This helped users understand what they were looking at.
 
 We still need to test understanding of the organisational settings page for users who belong to multiple organisations.
 
-### Understanding which partner organisations are referred to in user permissions 
+### Understanding which partner organisations are referred to in user permissions
 
 We did not list partner organisation names when a user permission applied to all or none of them. We found that some participants did not know what we meant by “all” or “none”.
 
@@ -152,7 +152,7 @@ We responded to this by changing the content during the round of research. We li
 
 Most participants had to be directed to use the details component. They would not have used it otherwise.
 
-This meant they would not have seen the content explaining the impact of organisation permissions on user permissions. This information is important in building an understanding what a user can and cannot do. 
+This meant they would not have seen the content explaining the impact of organisation permissions on user permissions. This information is important in building an understanding what a user can and cannot do.
 
 Although participants were able to set permissions, they did not have a strong understanding of what they had done and the implications of it.
 
@@ -167,7 +167,7 @@ If users cannot access this information then they may create new users without f
 
 # Set up organisation permissions for your teacher training courses
 
-Candidates can now apply through GOV.UK for courses that you work on with: 
+Candidates can now apply through GOV.UK for courses that you work on with:
 
 - Essex Teacher Training
 - UCL, University College London (University of London)
