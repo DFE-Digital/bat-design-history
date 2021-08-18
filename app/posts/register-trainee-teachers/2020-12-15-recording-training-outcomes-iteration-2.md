@@ -2,6 +2,18 @@
 title: Recording training outcomes (iteration 2)
 description: Removing the option for failure when recording training outcomes
 date: 2020-12-15
+screenshots:
+  items:
+    - text: Trainee details - TRN recieved
+      src: trn-recieved.png
+    - text: When did they meet the QTS standards?
+      src: when-did-they-meet-the-qts-standards.png
+    - text: Check QTS details
+      src: check-qts-details.png
+    - text: Trainee recommended for QTS
+      src: trainee-recommended-for-qts.png
+    - text: Trainee details - Recommended for QTS
+      src: recommended-for-qts.png
 ---
 
 In the [previous iteration of recording training outcomes](/register-trainee-teachers/recording-training-outcomes/) we made the assumption that our users needed to record outcomes other than “pass”. Furthermore our users might then withdraw a trainee after recording that the trainee had “failed” (did not meet the QTS standards).
@@ -16,7 +28,7 @@ DTTP users do not currently record any assessment outcomes other than “passed�
 
 Withdrawal is not the default next step in the process for a trainee whose assessment outcome has been recorded as a “failure”.
 
-What’s more, failure is actually a rare outcome. 
+What’s more, failure is actually a rare outcome.
 
 A more likely scenario is for the trainee to either be withdrawn if they're unlikely to pass, or to have their course extended if they're likely to pass but need more time.
 
@@ -37,23 +49,3 @@ A more likely scenario is for the trainee to either be withdrawn if they're unli
 Now that we know a potential scenario is to withdraw a trainee who’s likely to fail, we need to revise the reasons for withdrawal - ensuring there’s an option that covers preempting failure.
 
 We also need to consider how we’ll accommodate trainees who are not on track to meet the QTS standards and need an extension.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Trainee details - TRN recieved",
-    img: { src: "Clay Stracke - TRN recieved.png" }
-  }, {
-    text: "When did they meet the QTS standards?",
-    img: { src: "When did they meet the QTS standards.png" }
-  }, {
-    text: "Check QTS details",
-    img: { src: "Check QTS details.png" }
-  }, {
-    text: "Trainee recommended for QTS",
-    img: { src: "Trainee recommended for QTS.png" }
-  }, {  
-    text: "Trainee details - Recommended for QTS ",
-    img: { src: "Clay Stracke - Recommended for QTS.png" }
-  }]
-}) }}

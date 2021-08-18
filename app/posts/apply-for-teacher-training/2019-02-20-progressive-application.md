@@ -2,6 +2,14 @@
 title: Progressive application
 description: Ask for further information only when needed.
 date: 2019-02-20
+screenshots:
+  items:
+    - Your application
+    - Your application (expanded)
+    - Invite reply
+    - Invite reply (expanded)
+    - Conditional offer
+    - Conditional offer (with tracking)
 ---
 
 Our designer Vin documented these on [Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/279314433/Designs) (Project Bluesky).
@@ -16,15 +24,3 @@ A user flow where a candidate creates an application in bits as and when require
 * Even when the work experience and other qualificaiton sections were clearly marked and understood as optional, the candidates chose to fill in all parts of the application
 * Candidates felt a need to sell themselves more to the providers and hence needed more space to express themselves
 * Asking the mandatory data like Work Experience after the interview was illogical in the candidates perspective
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Your application" },
-    { text: "Your application (expanded)" },
-    { text: "Invite reply" },
-    { text: "Invite reply (expanded)" },
-    { text: "Conditional offer" },
-    { text: "Conditional offer (with tracking)" }
-  ]
-}) }}

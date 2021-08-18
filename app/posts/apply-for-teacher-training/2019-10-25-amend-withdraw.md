@@ -2,6 +2,26 @@
 title: Amending and withdrawing
 description: Amending applications and withdrawing course choices.
 date: 2019-10-25
+screenshots:
+  items:
+    - text: Dashboard post submission (within amendment period)
+      src: dashboard-submitted.png
+    - text: Dashboard post submission (within amendment period and with pending changes)
+      src: dashboard-amending.png
+    - text: Editing your application
+      src: edit-application.png
+    - text: Edit your application (with three states)
+      src: application-amending.png
+    - text: Review your application (with warning text)
+      src: review-amending.png
+    - text: Confirmation page (with updated title)
+      src: confirmation-amended.png
+    - text: Dashboard post amendment (with option to withdraw course choices)
+      src: dashboard-amended.png
+    - text: Withdrawing a course choice
+      src: withdraw-choice.png
+    - text: Dashboard post amendment (with a course choice withdrawn)
+      src: dashboard-withdrawn.png
 ---
 
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
@@ -29,35 +49,3 @@ Changes made as part of this work included:
 ## Days and deadlines
 
 The business logic dictates that a candidate has 5 working days after submitting their application during which they can submit changes. This period will typically be 7 days, but longer if there are bank holidays. To avoid adding complexity, we decided to always show the date an application needs to be resubmitted alongside the number of calendar days remaining (calculated by counting back from that date).
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    id: "dashboard-submitted",
-    text: "Dashboard post submission (within amendment period)"
-  }, {
-    id: "dashboard-amending",
-    text: "Dashboard post submission (within amendment period and with pending changes)"
-  }, {
-    id: "edit-application",
-    text: "Editing your application"
-  }, {
-    id: "application-amending",
-    text: "Edit your application (with three states)"
-  }, {
-    id: "review-amending",
-    text: "Review your application (with warning text)"
-  }, {
-    id: "confirmation-amended",
-    text: "Confirmation page (with updated title)"
-  }, {
-    id: "dashboard-amended",
-    text: "Dashboard post amendment (with option to withdraw course choices)"
-  }, {
-    id: "withdraw-choice",
-    text: "Withdrawing a course choice"
-  }, {
-    id: "dashboard-withdrawn",
-    text: "Dashboard post amendment (with a course choice withdrawn)"
-  }]
-}) }}

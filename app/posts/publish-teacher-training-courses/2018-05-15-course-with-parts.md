@@ -2,21 +2,17 @@
 title: Course with parts
 description: Experimental designs looking at breaking course fields onto different pages, based on a theme.
 date: 2018-05-15
+screenshots:
+  items:
+    - Courses
+    - Course
+    - Course subject and description
+    - About this course
+    - Requirements and qualifications
+    - School placements
+    - Application codes
 ---
 
 Experimental designs looking at breaking course fields onto different pages, based on a theme.
 
 Try listing courses like search.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Courses" },
-    { text: "Course" },
-    { text: "Course subject and description" },
-    { text: "About this course" },
-    { text: "Requirements and qualifications" },
-    { text: "School placements" },
-    { text: "Application codes" }
-  ]
-}) }}

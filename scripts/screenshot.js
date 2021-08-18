@@ -66,7 +66,7 @@ function makeDirectories () {
 }
 
 function decoratePaths () {
-  paths.forEach(function (item, index) {
+  paths.forEach(item => {
     item.id = item.title.replace(/ +/g, '-').toLowerCase()
     item.file = `${imageDirectory}/${item.id}.png`
     item.src = item.file.replace('app/assets', '/public')
@@ -101,41 +101,31 @@ function takeScreenshots () {
   })
 }
 
+function generateFrontMatter (items) {
+  return `---
+  title: ${title}
+  date: ${datestamp}
+  screenshots:
+    ${items}
+---`
+}
+
 function generatePage () {
-  let template = ''
-  const templateStart = `---
-title: ${title}
-description:
-date: ${datestamp}
----
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [`
+  let items = 'items:'
 
-  const templateEnd = `
-  ]
-}) }}
-`
-
-  paths.forEach(function (item, index) {
-    template += `${index > 0 ? ', ' : ''}
-    {
-      text: "${item.title}"
-    }`
+  paths.forEach(item => {
+    items += `
+      - text: "${item.title}"`
   })
 
   const filename = `${postDirectory}/${datestamp}-${deepestDirectory}.md`
 
-  fs.writeFile(
-    filename,
-    templateStart + template + templateEnd,
-    function (err) {
-      if (err) {
-        console.error(err)
-      }
-      console.log(`Page generated: ${filename}`)
+  fs.writeFile(filename, generateFrontMatter(items), err => {
+    if (err) {
+      console.error(err)
     }
-  )
+    console.log(`Page generated: ${filename}`)
+  })
 }
 
 start()

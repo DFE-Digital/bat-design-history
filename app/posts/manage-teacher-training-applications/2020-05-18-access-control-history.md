@@ -4,8 +4,6 @@ description: Users and organisations need to configure permissions to make decis
 date: 2020-05-18
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Teacher training providers have to partner with accredited bodies if they’re not an accredited body themselves. Accredited bodies maintain the quality of teacher training providers.
 
 Different organisations need access to different information depending on what they’ve agreed with their partners.
@@ -27,7 +25,6 @@ How can we go about achieving this in the Manage service?
   * [Worked examples](#worked-examples)
 * [Appendix - UCAS Weblink Screenshots](#appendix---ucas-weblink-screenshots)
 
-
 ## The initial problem statement
 
 ### Who are our users?
@@ -48,11 +45,8 @@ Examples we know of include:
 Organisations can deliver initial teacher training through various organisational structures.
 
 The most common organisational structures for providers are shown below:
-{{ appFigure({
-  image: {
-    file: "organisation-structures.png"
-  }
-}) }}
+
+![Diagram of organisational structures.](organisation-structures.png)
 
 ### Why do we need to look into this?
 
@@ -123,6 +117,7 @@ For a short story of this, see our [show and tell slides](https://docs.google.co
 **Goal:** We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
 
 We formulated a starting hypothesis to test:
+
 > By introducing access controls ( e.g. read only vs. authorised to make decisions) we can better support provider users to manage applications across different organisational structures. Specifically, we can mitigate the risk of information being seen, or decisions being made, by the wrong person.
 > By implementing this, we’ll be able to give providers more flexibility to manage their own partnerships.
 
@@ -601,19 +596,13 @@ __Adding users:__
 {{ appScreenshots({
   items: [{
     text: "Application list",
-    img: {
-      src: "Weblink-application-list.png"
-    }
+    src: "Weblink-application-list.png"
   }, {
     text: "Modify application",
-    img: {
-      src: "Weblink-modify-application.png"
-    }
+    src: "Weblink-modify-application.png"
   }, {
     text: "Change offer",
-    img: {
-      src: "Weblink-change-offer.png"
-    }
+    src: "Weblink-change-offer.png"
   }]
 }) }}
 

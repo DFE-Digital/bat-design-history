@@ -2,6 +2,23 @@
 title: Choose how to apply – Iteration and research
 description: An updated journey into UCAS or new Apply service, tested with users.
 date: 2019-02-27
+screenshots:
+  items:
+    - text: Prototype flow and findings
+      caption: |
+        [Google drawing](https://docs.google.com/drawings/d/12wrGFPlEGNkG1U6Qlkx1OCHLBtGochNTBS9jMhPV7Fs/edit)
+    - text: User journey
+      caption: |
+        [Google drawing](https://docs.google.com/drawings/d/1kSIYsL1JaMADJkDT1gavtsasHTCOhZRbHMY9M4Oc9nE/edit?usp=sharing)
+      src: user-journey.svg
+    - text: Apply for this course (with choice)
+    - text: Apply for this course (without choice)
+    - text: Apply start page
+    - text: Create account
+    - text: Sign up email
+    - text: Application complete
+    - text: Application submitted email
+    - text: Application rejected email
 ---
 
 Following on from the [initial design](/find-teacher-training/choose-how-to-apply).
@@ -27,40 +44,3 @@ We tested this with 14 users.
 For people who’ve never applied to Teacher Training, when given a choice about two application services, no users were turned away by that choice. All of them would continue to apply.
 
 For people who applied using DFE Apply, applying again through UCAS represents a pain point. We hypothesise that by sending applicants wishing to apply to many courses directly to UCAS we can reduce the risk of that pain point.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Prototype flow and findings",
-    img: { src: "prototype-flow-and-findings.png" },
-    caption: "[Google drawing](https://docs.google.com/drawings/d/12wrGFPlEGNkG1U6Qlkx1OCHLBtGochNTBS9jMhPV7Fs/edit)"
-  }, {
-    text: "User journey",
-    img: { src: "apply-flow.svg" },
-    caption: "[Google drawing](https://docs.google.com/drawings/d/1kSIYsL1JaMADJkDT1gavtsasHTCOhZRbHMY9M4Oc9nE/edit?usp=sharing)"
-  }, {
-    text: "Apply for this course (with choice)",
-    img: { src: "apply-for-this-course-(with-choice).png" }
-  }, {
-    text: "Apply for this course (without choice)",
-    img: { src: "apply-for-this-course-(without-choice).png" }
-  }, {
-    text: "Apply start page",
-    img: { src: "apply-start-page.png" }
-  }, {
-    text: "Create account",
-    img: { src: "create-account.png" }
-  }, {
-    text: "Sign up email",
-    img: { src: "sign-up-email.png" }
-  }, {
-    text: "Application complete",
-    img: { src: "application-complete.png" }
-  }, {
-    text: "Application submitted email",
-    img: { src: "application-submitted-email.png" }
-  }, {
-    text: "Application rejected email",
-    img: { src: "application-rejected-email.png" }
-  }]
-}) }}

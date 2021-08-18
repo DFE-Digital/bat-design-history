@@ -4,13 +4,13 @@ title: Manage teacher training applications
 description: A service for training providers to see, manage and make decisions on applications they receive
 related:
   items:
-  - text: Prototype
-    description: |
-      Username: `apply`
-      Password: `bat`
-    href: https://manage-applications-beta.herokuapp.com/
-  - text: User needs
-    href: /manage-teacher-training-applications/user-needs
+    - text: Prototype
+      description: |
+        Username: `apply`
+        Password: `bat`
+      href: https://manage-applications-beta.herokuapp.com/
+    - text: User needs
+      href: /manage-teacher-training-applications/user-needs
 pagination:
   data: collections.manage-teacher-training-applications
   reverse: true

@@ -4,10 +4,10 @@ description: Research interviews with first users of production service.
 date: 2020-01-23
 related:
   items:
-  - text: Lookback sessions
-    href: https://lookback.io/dfe-digital/live-service-post-application-research
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1PwdjudhTgATRWMQtR1I0taTcbbyKosKlgaTCqABbsAA/
+    - text: Lookback sessions
+      href: https://lookback.io/dfe-digital/live-service-post-application-research
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1PwdjudhTgATRWMQtR1I0taTcbbyKosKlgaTCqABbsAA/
 ---
 
 We asked each user who submitted an application if they’d be happy to take part in research. With those who were, we conducted interviews. [They used the service as launched](/apply-for-teacher-training/apply-launch).

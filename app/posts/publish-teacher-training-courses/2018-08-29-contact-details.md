@@ -2,6 +2,13 @@
 title: Contact details
 description: Allow users to edit their contact details.
 date: 2018-08-29
+screenshots:
+  items:
+    - About your organisation
+    - Contact details
+    - About your organisation with errors
+    - Contact details with errors
+    - Preview with missing contact details
 ---
 
 We added the [contact details from UCAS](/publish-teacher-training-courses/iteration-aug-23#about-your-organisation) to the design ([Trello](https://trello.com/c/XcWDGsvo/175-design-showing-org-info-to-publishers)). In user research we asked training providers about those details. We expected to be able to display them to applicants. We thought this was something we could avoid building for the minimum viable service.
@@ -70,23 +77,3 @@ The first line of the address, town or city, county and postcode are required fi
 Applicants can use the postcode to quickly lookup directions. The county along with the town or city is a quick indicator of where an address is.
 
 If we have problems with these fields being required we can loosen the rules.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "About your organisation",
-    img: { src: "about-your-organisation.png" }
-  }, {
-    text: "Contact details",
-    img: { src: "contact-details.png" }
-  }, {
-    text: "About your organisation with errors",
-    img: { src: "about-your-organisation-with-errors.png" }
-  }, {
-    text: "Contact details with errors",
-    img: { src: "contact-details-with-errors.png" }
-  }, {
-    text: "Preview with missing contact details",
-    img: { src: "preview-with-missing-contact-details.png" }
-  }]
-}) }}

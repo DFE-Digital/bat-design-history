@@ -3,12 +3,19 @@ title: Tracking conditions individually
 description: Let providers track and update the status of offer conditions individually.
 date: 2020-03-05
 tags:
-- MN012
+  - MN012
+screenshots:
+  items:
+    - Application details
+    - Update status
+    - Confirm met
+    - Confirm met when last condition
+    - Met success message
+    - Confirm not met
+    - Not met success message
 ---
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-
-{{description}}
+{{ description }}
 
 ## Hypothesis
 
@@ -26,12 +33,7 @@ Then they'll be able to process applications more quickly and accurately
 
 We explored the following design:
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "update-status-alternative.png"
-  }
-}) }}
+![Screenshot of ‘Has Eloise Wells met condition ‘Fitness to teach check’?’ form.](update-status-alternative.png)
 
 But we ruled it out because:
 
@@ -42,21 +44,3 @@ But we ruled it out because:
 ## Further research
 
 Further research is needed to see if providers need to update multiple conditions at the same time.
-
-{{ appScreenshots({
-  items: [ {
-    text: "Application details"
-  }, {
-    text: "Update status"
-  }, {
-    text: "Confirm met"
-  }, {
-    text: "Confirm met when last condition"
-  }, {
-    text: "Met success message"
-  }, {
-    text: "Confirm not met"
-  }, {
-    text: "Not met success message"
-  }]
-}) }}

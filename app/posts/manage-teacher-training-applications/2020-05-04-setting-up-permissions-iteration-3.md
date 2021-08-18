@@ -3,10 +3,44 @@ title: Setting up permissions (iteration 3)
 description: Handling when the user belongs to multiple organisations and including clearer guidance for how permissions work.
 date: 2020-05-04
 tags:
-- MN013
+  - MN013
+screenshots:
+  items:
+    - text: Data sharing agreement
+      src: step0.png
+    - text: Set up permissions step 1
+      src: step1.png
+    - text: Set up permissions step 2
+      src: step2.png
+    - text: Set up permissions step 3
+      src: step3.png
+    - text: Set up permissions step 4
+      src: step4.png
+    - text: Set up permissions step 5
+      src: step5.png
+    - text: Invite a user step 1
+      src: users1.png
+    - text: Invite a user step 2
+      src: users2.png
+    - text: Invite a user step 3
+      src: users3.png
+    - text: Invite a user step 4
+      src: users4.png
+    - text: Invite a user step 5
+      src: users5.png
+    - text: Invite a user step 6
+      src: users6.png
+    - text: Invite a user step 7
+      src: users6.png
+    - text: Edit a user
+      src: users7.png
+    - text: Organisation list page
+      src: organisations1.png
+    - text: Organisation page for Somerset SCITT
+      src: organisations2.png
+    - text: Organisation page for Ventrus Teaching School Alliance
+      src: organisations3.png
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 Teacher training providers have to partner with ‘accredited bodies’ if they’re not an ‘accredited body’ themself. Accredited bodies maintain the quality of teacher training providers.
 
@@ -35,17 +69,9 @@ The [previous design](/manage-teacher-training-applications/setting-up-permissio
 If we show the user they're part of multiple organisations
 Then they'll understand what’s about to happen on the following screens
 
-{{ appFigure({
-  image: {
-    file: "before-you-start.png"
-  }
-}) }}
+![Screenshot of ‘Set up permissions for your organisation’ page.](before-you-start.png)
 
-{{ appFigure({
-  image: {
-    file: "data-sharing.png"
-  }
-}) }}
+![Screenshot of ‘Data sharing agreement’ page.](data-sharing.png)
 
 ### Making sure users understand permissions
 
@@ -56,11 +82,7 @@ But there’s a lot of information to digest and we want to be sure users unders
 If we put this information on a dedicated page before they select permissions
 Then users will have the best chance of understanding how permissions work
 
-{{ appFigure({
-  image: {
-    file: "step2.png"
-  }
-}) }}
+![Screenshot of ‘Understanding access permissions’ page.](step2.png)
 
 ### Making it easier to understand permissions when setting up permissions between organisations
 
@@ -71,98 +93,4 @@ Each permission type is collapsed inside a Details panel. This is a little messy
 If we put the information behind a single panel
 Then the user will have less to scan through
 
-{{ appFigure({
-  image: {
-    file: "step3.png"
-  }
-}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Data sharing agreement",
-    img: {
-      src: "step0.png"
-    }
-  }, {
-    text: "Set up permissions step 1",
-    img: {
-      src: "step1.png"
-    }
-  }, {
-    text: "Set up permissions step 2",
-    img: {
-      src: "step2.png"
-    }
-  }, {
-    text: "Set up permissions step 3",
-    img: {
-      src: "step3.png"
-    }
-  }, {
-    text: "Set up permissions step 4",
-    img: {
-      src: "step4.png"
-    }
-  }, {
-    text: "Set up permissions step 5",
-    img: {
-      src: "step5.png"
-    }
-  }, {
-    text: "Invite a user step 1",
-    img: {
-      src: "users1.png"
-    }
-  }, {
-    text: "Invite a user step 2",
-    img: {
-      src: "users2.png"
-    }
-  }, {
-    text: "Invite a user step 3",
-    img: {
-      src: "users3.png"
-    }
-  }, {
-    text: "Invite a user step 4",
-    img: {
-      src: "users4.png"
-    }
-  }, {
-    text: "Invite a user step 5",
-    img: {
-      src: "users5.png"
-    }
-  }, {
-    text: "Invite a user step 6",
-    img: {
-      src: "users6.png"
-    }
-  }, {
-    text: "Invite a user step 7",
-    img: {
-      src: "users6.png"
-    }
-  }, {
-    text: "Edit a user",
-    img: {
-      src: "users7.png"
-    }
-  }, {
-    text: "Organisation list page",
-    img: {
-      src: "organisations1.png"
-    }
-  }, {
-    text: "Organisation page for Somerset SCITT",
-    img: {
-      src: "organisations2.png"
-    }
-  }, {
-    text: "Organisation page for Ventrus Teaching School Alliance",
-    img: {
-      src: "organisations3.png"
-    }
-  }]
-}) }}
+![Screenshot of page showing an opened Details panel.](step3.png)

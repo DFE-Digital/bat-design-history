@@ -2,9 +2,13 @@
 title: Notifications
 description: Notify users when certain things happen and let users configure what notifications they receive
 date: 2020-06-03
+screenshots:
+  items:
+    - Notification bubble
+    - Notifications page
+    - Notification settings
+    - Change notification setting
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 ## Hypotheses
 
@@ -49,28 +53,3 @@ When a user is set up, it would be helpful to set up notifications based on thei
 If the user has view-only permissions then all notifications relating to applications should be turned off by default.
 
 If the user can make decisions, then all notifications relating to applications should be turned on by default. This means getting immediate notifications by email. Daily and weekly digest emails should be turned off.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Notification bubble",
-    img: {
-      src: "notification-bubble.png"
-    }
-  }, {
-    text: "Notifications page",
-    img: {
-      src: "notifications-page.png"
-    }
-  }, {
-    text: "Notifications settings",
-    img: {
-      src: "notification-settings.png"
-    }
-  }, {
-    text: "Change notification settings page",
-    img: {
-      src: "change-notification-setting.png"
-    }
-  }]
-}) }}

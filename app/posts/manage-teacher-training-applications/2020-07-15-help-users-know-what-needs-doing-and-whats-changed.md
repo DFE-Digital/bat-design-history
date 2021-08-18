@@ -3,9 +3,13 @@ title: "Help users know what needs doing and what’s changed"
 description: New application list focused on what needs doing and an activity log focused on what’s changed.
 date: 2020-07-15
 tags:
- - MN004
- - MN014
- - MN021
+  - MN004
+  - MN014
+  - MN021
+screenshots:
+  items:
+    - Application list ordered by priority
+    - Activity log
 ---
 
 Previously the application list was [ordered by ‘last changed’](/manage-teacher-training-applications/sorting-by-rbd-date/). And with an option to sort by days left to respond.
@@ -50,18 +54,3 @@ For example, if an offer was made, the details of the offer are shown.
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list ordered by priority",
-    img: {
-      src: "application-list.png"
-    }
-  }, {
-    text: "Activity log",
-    img: {
-      src: "activity-log.png"
-    }
-  }]
-}) }}

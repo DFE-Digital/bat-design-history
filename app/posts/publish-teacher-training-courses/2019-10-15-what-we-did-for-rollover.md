@@ -2,6 +2,14 @@
 title: Rollover – what we did in 2019
 description: How we handled our first rollover period.
 date: 2019-10-15
+screenshots:
+  items:
+    - Before rollover period
+    - During rollover period
+    - After rollover period
+    - Courses for next cycle
+    - Courses after old cycle closed but new cycle not yet open
+    - Courses once cycle has opened
 ---
 
 ## What is rollover?
@@ -58,15 +66,3 @@ When ending rollover, ie when the current cycle ends, the next cycle is promoted
 When the cycle opens, the cycle is marked as open ([Pull request](https://github.com/DFE-Digital/publish-teacher-training/pull/666))
 
 [Rollover settings on Github](https://github.com/DFE-Digital/publish-teacher-training/blob/baeaf4f28a51dea68c05f7641b03d65f831ecaf0/config/settings.yml#L46-L48)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Before rollover period" },
-    { text: "During rollover period" },
-    { text: "After rollover period" },
-    { text: "Courses for next cycle" },
-    { text: "Courses after old cycle closed but new cycle not yet open" },
-    { text: "Courses once cycle has opened" }
-  ]
-}) }}

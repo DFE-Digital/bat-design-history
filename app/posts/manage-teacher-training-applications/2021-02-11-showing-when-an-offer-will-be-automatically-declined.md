@@ -2,6 +2,16 @@
 title: Showing when an offer will be automatically declined
 description: Telling users how long they have before an offer will be automatically declined if the candidate does not respond
 date: 2021-02-11
+screenshots:
+  items:
+    - Application list
+    - Decline prompt - today
+    - Decline prompt - tomorrow
+    - Decline prompt - anytime after tomorrow
+    - Make decision prompt - today
+    - Make decision prompt - tomorrow
+    - Make decision prompt - anytime after tomorrow
+    - Give feedback prompt
 ---
 
 The service tells users how long they have to make a decision before an application is automatically rejected. It’s shown on both the application list and the application itself.
@@ -56,48 +66,3 @@ We’ll also change way we remind users to give feedback when an application is 
 
 - The group heading on the application list will change from “Give feedback: you did not respond in time” to “Give feedback: you did not make a decision in time”.
 - The prompt on the application page will change from “You did not respond to the application within 40 working days. Tell the candidate why their application was unsuccessful.” to “You did not make a decision about the application within 40 working days. Tell the candidate why their application was unsuccessful.”
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list",
-    img: {
-      src: "application-list.png"
-    }
-  }, {
-    text: "Decline prompt - today",
-    img: {
-      src: "decline-prompt--today.png"
-    }
-  }, {
-    text: "Decline prompt - tomorrow",
-    img: {
-      src: "decline-prompt--tomorrow.png"
-    }
-  }, {
-    text: "Decline prompt - anytime after tomorrow",
-    img: {
-      src: "decline-prompt--beyond.png"
-    }
-  }, {
-    text: "Make decision prompt - today",
-    img: {
-      src: "decide-prompt--today.png"
-    }
-  }, {
-    text: "Make decision prompt - tomorrow",
-    img: {
-      src: "decide-prompt--tomorrow.png"
-    }
-  }, {
-    text: "Make decision prompt - anytime after tomorrow",
-    img: {
-      src: "decide-prompt--beyond.png"
-    }
-  }, {
-    text: "Give feedback prompt",
-    img: {
-      src: "feedback-prompt.png"
-    }
-  }]
-}) }}

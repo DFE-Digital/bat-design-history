@@ -2,10 +2,17 @@
 title: Moving organisational permissions guidance above the form
 description: Moving the organisational permissions hint text above the form and some other related tweaks
 date: 2021-06-14
+screenshots:
+  items:
+    - text: Permissions form (details panel closed)
+      src: permissions-form--closed.png
+    - text: Permissions form (details panel open)
+      src: permissions-form--open.png
+    - text: User details page
+      src: user-details.png
+    - text: Your permissions page
+      src: your-permissions.png
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "email/macro.njk" import appEmail %}
 
 This work builds on the work we do to [simplify how we ask about and display permissions](/manage-teacher-training-applications/simplifying-how-we-ask-about-and-display-permissions/).
 
@@ -35,27 +42,3 @@ We've changed the text to say:
 We replaced ‘ratified by’ and ‘run by’ with ‘work on with’ in the lede for the bullets.
 
 This removes unnecessary jargon that may not be true from the user’s point of view. For example, the accredited body user may think they run the course with their partner school.
-
-{{ appScreenshots({
-  items: [{
-    text: "Permissions form (details panel closed)",
-    img: {
-      src: "permissions-form--closed.png"
-    }
-  }, {
-    text: "Permissions form (details panel open)",
-    img: {
-      src: "permissions-form--open.png"
-    }
-  }, {
-    text: "User details page",
-    img: {
-      src: "user-details.png"
-    }
-  }, {
-    text: "Your permissions page",
-    img: {
-      src: "your-permissions.png"
-    }
-  }]
-}) }}

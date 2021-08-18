@@ -2,6 +2,20 @@
 title: Prompting users to set up permissions when changing a user’s access
 description: Improvements to changing a user’s access to organisations
 date: 2020-08-12
+screenshots:
+  items:
+    - text: Details page
+      src: details.png
+    - text: Change access – current
+      src: access-1.png
+    - text: Change access – remove Wren Academy and add The Royal Borough Teaching School Alliance
+      src: access-2.png
+    - text: Set permissions for The Royal Borough Teaching School Alliance
+      src: permissions.png
+    - text: Check permissions
+      src: check.png
+    - text: Updated details page
+      src: details-flash.png
 ---
 
 Currently when a user is given access to a new provider (when changing their access) they have to separately set up permissions for that organisation by clicking ‘Change’ from the details page.
@@ -23,38 +37,3 @@ The details page should always show the row ‘Organisations this user has acces
 When changing access the user has to select at least one organisation. If they want to remove the user from all organisations, they have to press the ‘Delete’ button on the details screen.
 
 At the end of the flow an email will be sent to users explaining what changes have been made.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Details page",
-    img: {
-      src: "details.png"
-    }
-  }, {
-    text: "Change access – current",
-    img: {
-      src: "access-1.png"
-    }
-  }, {
-    text: "Change access – remove Wren Academy and add The Royal Borough Teaching School Alliance",
-    img: {
-      src: "access-2.png"
-    }
-  }, {
-    text: "Set permissions for The Royal Borough Teaching School Alliance",
-    img: {
-      src: "permissions.png"
-    }
-  }, {
-    text: "Check permissions",
-    img: {
-      src: "check.png"
-    }
-  }, {
-    text: "Updated details page",
-    img: {
-      src: "details-flash.png"
-    }
-  }]
-}) }}

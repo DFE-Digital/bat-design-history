@@ -2,9 +2,19 @@
 title: Reasons for rejection iteration 3
 description: Combined some questions onto one page, added an additional question and improved content
 date: 2020-05-26
+screenshots:
+  items:
+    - text: Step 1
+      src: respond.png
+    - text: Step 2
+      src: questions-1.png
+    - text: Step 3
+      src: questions-2.png
+    - text: Step 4
+      src: preview.png
+    - text: Step 5 (not interested in future applications)
+      src: preview-not-interested.png
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 ## Hypotheses
 
@@ -21,33 +31,3 @@ In the previous iteration, the [safeguarding question contained unrelated option
 
 If we put these options in a separate question
 Then users will be able to find them more easily
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Step 1",
-    img: {
-      src: "respond.png"
-    }
-  }, {
-    text: "Step 2",
-    img: {
-      src: "questions-1.png"
-    }
-  }, {
-    text: "Step 3",
-    img: {
-      src: "questions-2.png"
-    }
-  }, {
-    text: "Step 4",
-    img: {
-      src: "preview.png"
-    }
-  }, {
-    text: "Step 5 (not interested in future applications)",
-    img: {
-      src: "preview-not-interested.png"
-    }
-  }]
-}) }}

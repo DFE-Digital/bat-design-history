@@ -2,7 +2,12 @@
 title: Special educational needs (SEN) filter
 description: SEN is a subject, but also not a subject. Any subject could have an SEN focus.
 date: 2018-11-02
-tags: send
+screenshots:
+  items:
+    - text: Subject filter with SEN option
+      src: 01-subject-filter-with-sen.png
+    - text: Results with SEN filter enabled
+      src: 02-results-with-sen-filter.png
 ---
 
 Users have struggled to find SEN courses because SEN is not listed as a subject anywhere.
@@ -22,14 +27,3 @@ Only SEN courses should display.
 If a user selects only SEN and no other subject we should show all SEN courses across all subjects.
 
 [Trello](https://trello.com/c/aLZpgfHA/439-design-surface-special-education-needs-sen-in-subject-search)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Subject filter with SEN option",
-    img: { src: "01-subject-filter-with-sen.png" }
-  }, {
-    text: "Results with SEN filter enabled",
-    img: { src: "02-results-with-sen-filter.png" }
-  }]
-}) }}

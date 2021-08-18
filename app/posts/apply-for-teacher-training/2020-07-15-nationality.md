@@ -20,12 +20,7 @@ Candidates who had British or Irish nationality as well as an additional oversea
 
 We looked at [patterns used on other GOV.UK services](https://github.com/alphagov/govuk-design-system-backlog/issues/73), such as [Register to Vote](https://www.gov.uk/register-to-vote):
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "govuk-register-to-vote.png"
-  }
-}) }}
+![Screenshot of ‘What is your nationality’ question on the Register to vote service.](govuk-register-to-vote.png)
 
 This pattern solves the above issues, but we made some changes.
 
@@ -39,27 +34,11 @@ This pattern allows candidates to add up to 3 other nationalities in addition to
 
 We need to show different fields and buttons depending on how many nationalities are added.
 
-{{ appFigure({
-  image: {
-    file: "what-is-your-nationality-1-other.png"
-  },
-  caption: "With 1 or 2 fields, the ‘Add another nationality’ button is shown."
-}) }}
+![Nationality question showing ‘Other’ nationality field conditionally shown.](what-is-your-nationality-1-other.png "With 1 or 2 fields, the ‘Add another nationality’ button is shown")
 
-{{ appFigure({
-  image: {
-    file: "what-is-your-nationality-2-others.png"
-  },
-  caption: "With 2 or 3 fields, each field shows a corresponding ‘Remove’ button."
-}) }}
+![Nationality question showing ‘Other’ nationality field conditionally shown.](what-is-your-nationality-2-others.png "With 2 or 3 fields, each field shows a corresponding ‘Remove’ button")
 
-{{ appFigure({
-  image: {
-    file: "what-is-your-nationality-3-others.png"
-  },
-  caption: "With 3 fields, the ‘Add another nationality’ button is hidden
-These state changes could present a challenge to screen reader users."
-}) }}
+![Nationality question showing ‘Other’ nationality field conditionally shown.](what-is-your-nationality-3-others.png "With 3 fields, the ‘Add another nationality’ button is hidden. These state changes could present a challenge to screen reader users.")
 
 We’ll make this behaviour easier to understand by:
 
@@ -69,16 +48,6 @@ We’ll make this behaviour easier to understand by:
 
 We’re announcing label descriptions because it helps users keep track of which fields are being added or removed. However, we’re not visually displaying them as there is no implicit order to the nationalities a candidate has. We’d like to avoid having 2 different experiences, but this seems like a reasonable tradeoff between meeting accessibility needs and making the content understandable to an international audience.
 
-{{ appFigure({
-  image: {
-    file: "what-is-your-nationality-no-js.png"
-  },
-  caption: "If JavaScript is not present, a candidate is shown 3 select menus - one for each nationality they can add."
-}) }}
+![Nationality question with JavaScript disabled.](what-is-your-nationality-no-js.png "If JavaScript is not present, a candidate is shown 3 select menus - one for each nationality they can add")
 
-{{ appFigure({
-  image: {
-    file: "review-personal-details.png"
-  },
-  caption: "We only need to show one nationality summary item when reviewing these answers, which shows each nationality chosen."
-}) }}
+![Screenshot of ‘Personal details’ review page](review-personal-details.png "We only need to show one nationality summary item when reviewing these answers, which shows each nationality chosen.")

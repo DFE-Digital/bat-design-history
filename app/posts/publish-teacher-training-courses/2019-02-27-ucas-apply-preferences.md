@@ -193,10 +193,4 @@ We indicate the difference in letters to new providers and ask for their choice.
 
 * * *
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "ucas-apply-preferences.png"
-  },
-  caption: "UCAS Apply preferences"
-}) }}
+![Screenshot of UCAS Apply preferences.](ucas-apply-preferences.png "UCAS Apply preferences")

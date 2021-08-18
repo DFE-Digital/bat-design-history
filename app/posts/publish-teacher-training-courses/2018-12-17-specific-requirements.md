@@ -2,6 +2,11 @@
 title: Specific course requirements for UCAS Apply
 description: Documentation on minimum qualifications settings in UCAS web-link and apply.
 date: 2018-12-17
+screenshots:
+  items:
+    - Example warnings in UCAS apply
+    - Qualification options in UCAS
+    - How UCAS explains the options to providers
 ---
 
 Providers can set specific requirements for their courses when setting up or editing their training programmes in UCAS web-link.
@@ -107,12 +112,3 @@ Example course: [B60/X341](https://find-postgraduate-teacher-training.education.
 > You do not require an applicant to hold GCSE grades A-C, 4 or above, or equivalent. This code can only be used for further education or post-compulsory education courses.
 
 This option accepts all applicants, even if they have grades below a C.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Example warnings in UCAS apply" },
-    { text: "Qualification options in UCAS" },
-    { text: "How UCAS explains the options to providers" }
-  ]
-}) }}

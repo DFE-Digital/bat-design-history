@@ -2,14 +2,38 @@
 title: Universities as an area
 description: Research with providers about placement schools
 date: 2020-05-22
+screenshots:
+  items:
+    - text: New results
+      src: 01-new-results.png
+      caption: Indicate in each University search result that placement schools are nearby, alongside the distance to the university.
+    - text: Live results
+      src: 02-live-results.png
+      caption: Live results from Find for comparison of design and result ranking
+    - text: Capturing placement school data
+      src: 03-capturing-placement-school-data.png
+    - text: Oxford Brookes University
+      src: 11-oxford-brookes.png
+    - text: Oxford Brookes University 2
+      src: 13-oxford-brookes-2.png
+    - text: University of Bedfordshire
+      src: 12-university-of-bedfordshire.png
+    - text: The University of Reading
+      src: 14-university-of-reading.png
+    - text: Oxford University
+      src: 15-oxford-university.png
+    - text: Bishop Grosseteste University
+      src: 16-bishop-grosseteste-university.png
+    - text: Asking about vacancies
+      src: 20-asking-about-vacancies.png
 related:
   items:
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1MBIB73BAneqCvxCaVyUCMvq-o7AuhG9arj1hUdnoe-k/
-  - text: Research notes
-    href: https://docs.google.com/document/d/1MXl4YbPBhaoVC7vReXUebeIndhPvB7yAcn4S8wqiCgs/
-  - text: Search examples and ranking changes
-    href: https://docs.google.com/document/d/1GytwLyTA39L33L_gz0MPG6e_CwdyxRXhTWZNQI6VXSI/
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1MBIB73BAneqCvxCaVyUCMvq-o7AuhG9arj1hUdnoe-k/
+    - text: Research notes
+      href: https://docs.google.com/document/d/1MXl4YbPBhaoVC7vReXUebeIndhPvB7yAcn4S8wqiCgs/
+    - text: Search examples and ranking changes
+      href: https://docs.google.com/document/d/1GytwLyTA39L33L_gz0MPG6e_CwdyxRXhTWZNQI6VXSI/
 ---
 
 Following the [options for better representing universities in Find](/find-teacher-training/finding-universities/), we asked 8 universities to:
@@ -74,45 +98,4 @@ When capturing information about placement schools:
 * It would be difficult (‘an internal exercise’) to give the number of placement schools in bands of 5/10/15 miles
 * Participants misinterpreted "within 5 miles" as being from the candidate rather than the campus
 * Range and average worked best for the majority of universities, average commute might work too
-* Participants correctly guessed that these fields might be in "About your organisation", "Locations" was a frequent second guess
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "New results",
-      img: { src: "01-new-results.png" },
-      caption: "
-Indicate in each University search result that placement schools are nearby, alongside the distance to the university.
-      "
-    }, {
-      text: "Live results",
-      img: { src: "02-live-results.png" },
-      caption: "
-Live results from Find for comparison of design and result ranking
-      "
-    }, {
-      text: "Capturing placement school data",
-      img: { src: "03-capturing-placement-school-data.png" }
-    }, {
-      text: "Oxford Brookes University",
-      img: { src: "11-oxford-brookes.png" }
-    }, {
-      text: "Oxford Brookes University 2",
-      img: { src: "13-oxford-brookes-2.png" }
-    }, {
-      text: "University of Bedfordshire",
-      img: { src: "12-university-of-bedfordshire.png" }
-    }, {
-      text: "The University of Reading",
-      img: { src: "14-university-of-reading.png" }
-    }, {
-      text: "Oxford University",
-      img: { src: "15-oxford-university.png" }
-    }, {
-      text: "Bishop Grosseteste University",
-      img: { src: "16-bishop-grosseteste-university.png" }
-    }, {
-      text: "Asking about vacancies",
-      img: { src: "20-asking-about-vacancies.png" }
-    }]
-}) }}
+* Participants correctly guessed that these fields might be in "About your organisation "Locations" was a frequent second guess

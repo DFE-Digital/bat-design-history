@@ -2,6 +2,13 @@
 title: Shared organisation details
 description: Share organisation information between courses and split the organisation page across tabs.
 date: 2018-07-03
+screenshots:
+  items:
+    - Organisation
+    - About your organisation
+    - With one accrediting provider
+    - With multiple accrediting providers
+    - Course without organisation section
 ---
 
 The ‘About your organisation’ section is not unique to a course ([see old design](/publish-teacher-training-courses/iteration-june-28#course)). The data is about the organisation itself. Represent this by moving the fields out of course pages and up to the organisation view.
@@ -23,23 +30,3 @@ An organisation can have no accrediting provider, one provider, or many. Add a f
 | 7 accreditors | 1 provider |
 
 [BATSA-402](https://dfedigital.atlassian.net/browse/BATSA-402)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Organisation",
-    img: { src: "organisation.png" }
-  }, {
-    text: "About your organisation",
-    img: { src: "about-your-organisation.png" }
-  }, {
-    text: "With one accrediting provider",
-    img: { src: "with-one-accrediting-provider.png" }
-  }, {
-    text: "With multiple accrediting providers",
-    img: { src: "with-multiple-accrediting-providers.png" }
-  }, {
-    text: "Course without organisation section",
-    img: { src: "course-without-organisation-section.png" }
-  }]
-}) }}

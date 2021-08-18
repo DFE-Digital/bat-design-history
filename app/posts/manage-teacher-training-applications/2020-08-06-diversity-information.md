@@ -4,10 +4,10 @@ description: How we plan to show equality information to those who should see it
 date: 2020-08-12
 related:
   items:
-  - text: Equality monitoring
-    href: /apply-for-teacher-training/equality-monitoring/
-  - text: Apply – September 2019
-    href: /apply-for-teacher-training/apply-september-2019/#equality-and-diversity
+    - text: Equality monitoring
+      href: /apply-for-teacher-training/equality-monitoring/
+    - text: Apply – September 2019
+      href: /apply-for-teacher-training/apply-september-2019/#equality-and-diversity
 ---
 
 In March we started collecting equality and diversity information from candidates. This is an optional questionnaire that we ask candidates to complete to reduce discrimination on the basis of sex, disability and ethnicity.
@@ -48,38 +48,25 @@ We decided we are going to try making a new section for the equality and diversi
 
 Rather than show the same placeholder line for each row, we’ll hide and show the entire summary list.
 
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
-
 {{ appScreenshots({
   headingLevel: 3,
   title: "Scenarios",
-  items: [
-  {
+  items: [{
     text: "Scenario 1: Questionnaire not completed",
-    img: {
-      src: "1-scenario-1.png"
-    }
+    src: "1-scenario-1.png"
   }, {
     text: "Scenario 2: Questionnaire completed, application in progress, user has view rights",
-    img: {
-      src: "2-scenario-2.png"
-    }
+    src: "2-scenario-2.png"
   }, {
     text: "Scenario 3: Questionnaire completed, application in progress, user does not have view rights",
-    img: {
-      src: "3-scenario-3.png"
-    }
+    src: "3-scenario-3.png"
   }, {
     text: "Scenario 4: Questionnaire completed, offer accepted, user has view rights",
-    img: {
-      src: "4-scenario-4.png"
-    }
+    src: "4-scenario-4.png"
   }, {
     text: "Scenario 5: Questionnaire completed, offer accepted, user does not have view rights",
-    img: {
-      src: "5-scenario-5.png"
-    }
+    src: "5-scenario-5.png"
   }]
 }) }}
 

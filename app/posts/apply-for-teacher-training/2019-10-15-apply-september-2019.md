@@ -2,41 +2,37 @@
 title: Apply – September 2019
 description: A full set of screens showing the design in mid-September.
 date: 2019-10-15
+screenshots:
+  items:
+    - Your application
+    - Have you chosen a course to apply to
+    - Find a course
+    - Which training provider
+    - Personal details review
+    - Contact details review
+    - Work history review
+    - School experience review
+    - Degree review
+    - Maths GCSE review
+    - English GCSE review
+    - Other qualifications review
+    - Personal statement 1 review
+    - Personal statement 2 review
+    - References review
+    - Application review
+    - Degree 1
+    - Degree 2
+    - GCSE maths
+    - GCSE English
+    - Contact details edit
+    - Address edit
+    - Work history edit
+    - School experience edit
+    - Other qualifications edit
+    - Referee edit
+    - Equality and diversity
+    - Sex
+    - Disability status
+    - Disabilities
+    - Ethnic group
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Your application" },
-    { text: "Have you chosen a course to apply to" },
-    { text: "Find a course" },
-    { text: "Which training provider" },
-    { text: "Personal details review" },
-    { text: "Contact details review" },
-    { text: "Work history review" },
-    { text: "School experience review" },
-    { text: "Degree review" },
-    { text: "Maths GCSE review" },
-    { text: "English GCSE review" },
-    { text: "Other qualifications review" },
-    { text: "Personal statement 1 review" },
-    { text: "Personal statement 2 review" },
-    { text: "References review" },
-    { text: "Application review" },
-    { text: "Degree 1" },
-    { text: "Degree 2" },
-    { text: "GCSE maths" },
-    { text: "GCSE English" },
-    { text: "Contact details edit" },
-    { text: "Address edit" },
-    { text: "Work history edit" },
-    { text: "School experience edit" },
-    { text: "Other qualifications edit" },
-    { text: "Referee edit" },
-    { text: "Equality and diversity" },
-    { text: "Sex" },
-    { text: "Disability status" },
-    { text: "Disabilities" },
-    { text: "Ethnic group" }
-  ]
-}) }}

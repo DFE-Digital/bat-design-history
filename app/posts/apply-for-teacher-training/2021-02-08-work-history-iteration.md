@@ -2,17 +2,31 @@
 title: Improving work history
 description: Asking for a full work history and simplifying the section by removing skills and experience.
 date: 2021-01-08
+screenshots:
+  items:
+    - text: Initial branching question
+    - text: Initial branching question - no work history
+    - id: work-history-blank-state
+      text: Work history review (initial blank state)
+    - text: Add a job (blank)
+    - text: Add a job (filled in)
+    - id: work-history-showing-break-prompt
+      text: Work history - with prompt to explain a break
+    - id: tell-us-what-you-were-doing-over-this-period
+      text: Please tell us what you were doing over this period"
+    - id: completed-work-history-showing-break
+      text: Work history - completed
 related:
   items:
-  - text: Work history breaks
-    href: /apply-for-teacher-training/work-history-breaks/
-    description: Previous post about breaks in work history
-  - text: Work history - August iteration
-    href: /apply-for-teacher-training/work-history/
-    description: Previous change to the work history flow
-  - text: Work history
-    href: /apply-for-teacher-training/apply-june-2019/work-history
-    description: Initial implementation of work history
+    - text: Work history breaks
+      href: /apply-for-teacher-training/work-history-breaks/
+      description: Previous post about breaks in work history
+    - text: Work history - August iteration
+      href: /apply-for-teacher-training/work-history/
+      description: Previous change to the work history flow
+    - text: Work history
+      href: /apply-for-teacher-training/apply-june-2019/work-history
+      description: Initial implementation of work history
 ---
 
 Many providers told us that they need to see a candidate’s full work history, not just the last 5 years, in order to meet policies around safeguarding.
@@ -91,28 +105,3 @@ We added the hint text “You can go into more detail about this in your persona
 On the review page, we switched from a table to headings with horizontal lines between jobs, enclosed within a bordered section. This removed the need to include column headings and a table caption, and addressed accessibility issues with having used a row of merged cells for the break in history prompts.
 
 The Add another job button was moved to the top of the page, for consistency with other sections.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Initial branching question"
-  }, {
-    text: "Initial branching question - no work history"
-  }, {
-    id: "work-history-blank-state",
-    text: "Work history review (initial blank state)"
-  }, {
-    text: "Add a job (blank)"
-  }, {
-    text: "Add a job (filled in)"
-  }, {
-    id: "work-history-showing-break-prompt",
-    text: "Work history - with prompt to explain a break"
-  }, {
-    id: "tell-us-what-you-were-doing-over-this-period",
-    text: "Please tell us what you were doing over this period"
-  }, {
-    id: "completed-work-history-showing-break",
-    text: "Work history - completed"
-  }]
-}) }}

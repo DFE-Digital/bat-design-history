@@ -73,27 +73,12 @@ We’ll start by emailing candidates who end up in this situation. [The email](h
 
 Later on we’ll build a more sophisticated process, allowing candidates to make changes themselves. They’ll also get a notification on their dashboard.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "flow.svg"
-  }
-}) }}
+![User journey flow diagram](flow.svg)
 
 We used Google Docs rather than HTML to prototype our designs. This allowed us to quickly iterate the design and content.
 
-{{ appFigure({
-  image: {
-    file: "update-course-choice.png"
-  },
-  caption: "Using `{{ }}` to indicate content that will vary."
-}) }}
+![Screenshot of a Google Doc with a mock up of a form](update-course-choice.png "Using a placeholder syntax to indicate which content can vary")
 
-{{ appFigure({
-  image: {
-    file: "your-updated-course-choice.png"
-  },
-  caption: "Using tables to imitate buttons and summary cards."
-}) }}
+![Screenshot of a Google Doc with a mock-up of 2 summary cards](your-updated-course-choice.png "Using tables to imitate buttons and summary cards")
 
 We’ll see if [the resulting document](https://docs.google.com/document/d/1FwPaGSYzSViXtbB2INHwO7bdxr0fFFUpVs4z978tW9Q/) gives developers enough information to build the pages in this flow.

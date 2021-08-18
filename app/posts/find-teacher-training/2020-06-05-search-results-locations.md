@@ -2,6 +2,20 @@
 title: Placement schools in search results
 description: Iterating results to better indicate why a University course is near to a candidate and trying maps
 date: 2020-06-05
+screenshots:
+  items:
+    - text: "Version 4: Explaining placement schools"
+      src: 01-search-results-with-placement-school-details.png
+    - text: University search results with a map
+      src: 02-university-search-results-with-map.png
+    - text: Other search results with a map
+      src: 03-non-university-search-results-with-map.png
+    - text: "Version 3: Showing distance away from you"
+      src: 04-search-results-distance-away-from-you.png
+    - text: "Version 2: Showing where time will be spent"
+      src: 05-search-results-distance-away.png
+    - text: "Version 1: Showing distance of placement schools"
+      src: 06-search-results-minimal.png
 ---
 
 Following [our intention to treat universities as an area](/find-teacher-training/universities-as-an-area/), we needed to update the search result design to better indicate the distance of each course.
@@ -119,26 +133,3 @@ In research we also tested:
 * removing the radius control altogether
 * removing the sort by control
 * giving the page a more specific title related to the user’s search
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "Version 4: Explaining placement schools",
-      img: { src: "01-search-results-with-placement-school-details.png" }
-    }, {
-      text: "University search results with a map",
-      img: { src: "02-university-search-results-with-map.png" }
-    }, {
-      text: "Other search results with a map",
-      img: { src: "03-non-university-search-results-with-map.png" }
-    }, {
-      text: "Version 3: Showing distance away from you",
-      img: { src: "04-search-results-distance-away-from-you.png" }
-    }, {
-      text: "Version 2: Showing where time will be spent",
-      img: { src: "05-search-results-distance-away.png" }
-    }, {
-      text: "Version 1: Showing distance of placement schools",
-      img: { src: "06-search-results-minimal.png" }
-    }]
-}) }}

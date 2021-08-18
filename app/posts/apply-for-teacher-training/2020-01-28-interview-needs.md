@@ -3,8 +3,8 @@ title: Interview needs
 description: Making sure candidates make reasonable requests for interview.
 date: 2020-01-28
 tags:
-- MN006
-- AN009
+  - MN006
+  - AN009
 ---
 
 Universities do not usually have much flexibility when setting interview dates.
@@ -46,10 +46,4 @@ We’ll know this works when:
 
 We'll test the new content with users to see if we get the right results.
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  hideContents: true,
-  items: [
-    { text: "New interview needs content" }
-  ]
-}) }}
+![Screenshot of new interview needs content.](new-interview-needs-content.png "New interview needs content")

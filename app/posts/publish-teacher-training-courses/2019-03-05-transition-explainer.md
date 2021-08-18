@@ -13,10 +13,4 @@ We need to make it clear to all users that they must:
 
 We’re doing this with a page they’ll see when they first log in, much like the [‘Before you begin’ terms and conditions page](/publish-teacher-training-courses/terms-agreement). After seeing it once it won’t be shown to them again.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "when-an-organisation-is-transitioned.png"
-  },
-  caption: "A page transitioned organisations will see when they first log in"
-}) }}
+![Screenshot of page transitioned organisations see when they first log in.](when-an-organisation-is-transitioned.png "A page transitioned organisations will see when they first log in")

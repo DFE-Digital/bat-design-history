@@ -1,14 +1,10 @@
 ---
 title: References
 description: Adding first and second referees.
+screenshots:
+  items:
+    - Add first referee
+    - Add second referee
+    - References
+    - Review references
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Add first referee" },
-    { text: "Add second referee" },
-    { text: "References" },
-    { text: "Review references" }
-  ]
-}) }}

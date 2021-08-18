@@ -2,6 +2,17 @@
 title: An MVP for the first cohort transition from UCAS
 description: A projected cut of the service and how it will look around the time we transition the first and second cohorts from UCAS.
 date: 2019-04-02
+screenshots:
+  items:
+    - Transition screen
+    - Organisation page with locations
+    - Locations – read only with Google form for adding
+    - Courses with UCAS status column for now
+    - Course – description tab
+    - Course – basic detail tab
+    - Withdrawing a course via support
+    - Deleting a course via support
+    - Edit vacancies for a course with one location
 ---
 
 A projected cut of the service and how it will look around the time we transition the first and second cohorts from UCAS.
@@ -19,18 +30,3 @@ In this MVP version we’ve descoped:
 * migrating publish statuses and dropping the UCAS status column
 
 The course tabs shown below are also illustrative and may not be ready.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Transition screen" },
-    { text: "Organisation page with locations" },
-    { text: "Locations – read only with Google form for adding" },
-    { text: "Courses with UCAS status column for now" },
-    { text: "Course – description tab" },
-    { text: "Course – basic detail tab" },
-    { text: "Withdrawing a course via support" },
-    { text: "Deleting a course via support" },
-    { text: "Edit vacancies for a course with one location" }
-  ]
-}) }}

@@ -3,7 +3,36 @@ title: Replace a referee
 description: Let a candidate add a new referee.
 date: 2020-01-30
 tags:
-- AN010
+  - AN010
+screenshots:
+  items:
+    - text: You need to add a new referee
+      src: 01-you-need-to-add-a-new-referee.png
+      caption: |
+        * Show this page instead of the default home page
+        * Give the reason why they need to replace a referee, matching the words used in emails:
+        * Our email requesting a reference didn’t reach Glinda Baumbach.
+        * We haven’t had a reference from Doyle Denesik.
+        * Carmel Kohler said they won’t give a reference.
+        * Allow users to skip the step, but show it again next time they sign in
+    - text: Add a new referee
+      caption: |
+        * Same as referee form with minor changes
+        * Removes hint text about when we will contact them
+        * Asks that a referee could give their reference as soon as possible
+        * Has a descriptive title that matches button used to reach here (and no caption)
+      src: 02-add-a-new-referee.png
+    - text: Check your referees details
+      caption: |
+        * Because the action is immediate, we will automatically email their new referee, we need a review step
+        * Give the candidate a chance to catch any errors
+        * Confirming will send the reference request email and return the candidate to their application dashboard
+      src: 03-check-your-referees-details.png
+    - text: Application dashboard after adding a referee
+      src: 04-application-dashboard-after-adding-referee.png
+    - text: Application dashboard with warning
+      caption: If they skipped the first screen, or didn’t add a referee, maintain a warning on the dashboard
+      src: 05-application-dashboard-with-warning.png
 related:
   items:
     - text: Pull request
@@ -78,44 +107,3 @@ Instead of making a smart link, we could put the candidate’s account into a �
 This means a candidate will be prompted to add a new referee if they are responding to that email, or if they’re looking to sign in for any other purpose (ie to check their application status).
 
 It makes the add a new referee form the most obvious thing for everyone.
-
-<!-- markdownlint-disable MD032 -->
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "You need to add a new referee",
-    img: { src: "01-you-need-to-add-a-new-referee.png" },
-    caption: "
-* Show this page instead of the default home page
-* Give the reason why they need to replace a referee, matching the words used in emails:
-* Our email requesting a reference didn’t reach Glinda Baumbach.
-* We haven’t had a reference from Doyle Denesik.
-* Carmel Kohler said they won’t give a reference.
-* Allow users to skip the step, but show it again next time they sign in
-    "
-  }, {
-    text: "Add a new referee",
-    img: { src: "02-add-a-new-referee.png" },
-    caption: "
-* Same as referee form with minor changes
-* Removes hint text about when we will contact them
-* Asks that a referee could give their reference as soon as possible
-* Has a descriptive title that matches button used to reach here (and no caption)
-    "
-  }, {
-    text: "Check your referees details",
-    img: { src: "03-check-your-referees-details.png" },
-    caption: "
-* Because the action is immediate, we will automatically email their new referee, we need a review step
-* Give the candidate a chance to catch any errors
-* Confirming will send the reference request email and return the candidate to their application dashboard
-    "
-  }, {
-    text: "Application dashboard after adding a referee",
-    img: { src: "04-application-dashboard-after-adding-referee.png" }
-  }, {
-    text: "Application dashboard with warning",
-    img: { src: "05-application-dashboard-with-warning.png" },
-    caption: "If they skipped the first screen, or didn’t add a referee, maintain a warning on the dashboard"
-  }]
-}) }}

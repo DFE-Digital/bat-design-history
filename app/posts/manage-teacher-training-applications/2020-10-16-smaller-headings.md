@@ -4,52 +4,20 @@ description: Reduce the size of all headings to make them easier to read
 date: 2020-10-16
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 Currently, all top level page headings are extra large (`govuk-heading-xl`).
 
 We decided to reduce them in order to make them easier to read and follow the new default `h1` size on the GOV.UK Design System.
 
 Here are a few before and after shots:
 
-{{ appFigure({
-  image: {
-    file: "application-list--before.png"
-  },
-  caption: "Application list: before"
-}) }}
+![Screenshot of application list before change.](application-list--before.png "Application list: before")
 
-{{ appFigure({
-  image: {
-    file: "application-list--after.png"
-  },
-  caption: "Application list: after"
-}) }}
+![Screenshot of application list after change.](application-list--after.png "Application list: after")
 
-{{ appFigure({
-  image: {
-    file: "application-details--before.png"
-  },
-  caption: "Application details: before"
-}) }}
+![Screenshot of application details before change.](application-details--before.png "Application details: before")
 
-{{ appFigure({
-  image: {
-    file: "application-details--after.png"
-  },
-  caption: "Application details: after"
-}) }}
+![Screenshot of application details after change.](application-details--after.png "Application details: after")
 
-{{ appFigure({
-  image: {
-    file: "reject-application--before.png"
-  },
-  caption: "Reject application: before"
-}) }}
+![Screenshot of reject application page before change.](reject-application--before.png "Reject application: before")
 
-{{ appFigure({
-  image: {
-    file: "reject-application--after.png"
-  },
-  caption: "Reject application: after"
-}) }}
+![Screenshot of reject application page after change.](reject-application--after.png "Reject application: after")

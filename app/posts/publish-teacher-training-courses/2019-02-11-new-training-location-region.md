@@ -2,6 +2,14 @@
 title: Add a region or area workflow
 description: Add a region or area, rather than a school or university.
 date: 2019-02-11
+screenshots:
+  items:
+    - What type of location?
+    - Region name
+    - Schools in the area
+    - Confirm
+    - Confirm (with a map)
+    - Edit
 ---
 
 Following on from the [specific school or university](/publish-teacher-training-courses/new-training-location) workflow, this design builds out the ‘region’ training type.
@@ -24,15 +32,3 @@ Concerns we expect from providers that the design would need to address:
 * [Gateway Alliance](https://lookback.io/watch/XkCjbzaEZNPrEnNcp?t=32m54.07s) (didn’t test the design, but would use regions)
 * [University of Huddersfield](https://lookback.io/watch/pWYBvEpr8YfeF7pAx)
 * [The Royal Borough Teaching School Alliance](https://lookback.io/watch/iviAKDMGPxMK68voe)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "What type of location?" },
-    { text: "Region name" },
-    { text: "Schools in the area" },
-    { text: "Confirm" },
-    { text: "Confirm (with a map)" },
-    { text: "Edit" }
-  ]
-}) }}

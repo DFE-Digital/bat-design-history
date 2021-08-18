@@ -2,17 +2,17 @@
 title: Opening up the service to international candidates
 description: Allowing international candidates to give details about their residency status, address, language skills and academic qualifications.
 date: 2020-06-24
+tags:
+  - AN025
+  - AN026
+  - AN027
+  - MN015
 related:
   items:
     - text: "International candidates: Analysis"
       href: https://docs.google.com/presentation/d/1k6yi90ywhOt8yDjSZBNa7k0xmrbVQbmZd_ymvAC1KaE
     - text: "International candidates: User research findings"
       href: https://docs.google.com/presentation/d/1HLxjU9sidIpKRupV_9g8yVFLOHWZNBdEG_k4X4QH0Mk
-tags:
-- AN025
-- AN026
-- AN027
-- MN015
 ---
 
 When we launched the service in November, we de-scoped all features related to international recruitment.

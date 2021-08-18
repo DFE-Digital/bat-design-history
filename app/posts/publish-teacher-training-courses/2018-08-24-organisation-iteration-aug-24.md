@@ -12,11 +12,4 @@ In this design we:
 * added more detail about what the user needs to do
 * included a prompt about copying courses
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Organisation",
-    img: { src: "organisation.png" }
-  }]
-}) }}
+![Screenshot of organisation page.](organisation.png "Organisation")

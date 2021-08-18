@@ -2,6 +2,12 @@
 title: Updating Cookie policy and banner
 description: Design changes and implementation of cookies.
 date: 2020-02-28
+screenshots:
+  items:
+    - Cookies - Before
+    - Cookies - After
+    - Cookie Banner - Before
+    - Cookie Banner - After
 ---
 
 To adhere to [The Privacy and Electronic Communications (EC Directive) Regulations 2003 - Confidentiality of communications - Regulation 6](http://www.legislation.gov.uk/uksi/2003/2426/regulation/6) the following is needed:
@@ -31,13 +37,3 @@ If the user decides to accept the cookies then the following events happen:
 #### Cookie policy page form
 
 There are various ways to implement this form. For example [GOV.UK Notify](https://www.notifications.service.gov.uk/cookies) uses JavaScript to set the radio buttons options and to show/hide any validation errors or success messages. We did not take this approach because it would need a lot of additional coding to make it accessible. We also discovered as a result of implementing it as a traditional form that submits data to the server, we would be able to report on the number of users who actively reject cookies by looking at the server logs.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Cookies - Before" },
-    { text: "Cookies - After" },
-    { text: "Cookie Banner - Before" },
-    { text: "Cookie Banner - After" }
-  ]
-}) }}

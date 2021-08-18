@@ -2,6 +2,13 @@
 title: Breaking apart the application page (sub navigation)
 description: Help providers navigate the parts of an application more easily with sub navigation
 date: 2020-03-30
+screenshots:
+  items:
+    - text: Application page
+      caption: Banner shows across all pages when it’s a new application. And there is no offer page
+    - text: Offer page
+    - text: Notes page
+    - text: Timeline page
 ---
 
 ## Hypotheses
@@ -23,17 +30,3 @@ This meant the options for an offer were hidden behind ‘Edit response’ makin
 
 If we put the offer on a page of its own
 Then the options can be found more easily
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application page",
-    caption: "Banner shows across all pages when it's a new application. And there is no offer page."
-  }, {
-    text: "Offer page"
-  }, {
-    text: "Notes page"
-  }, {
-    text: "Timeline page"
-  }]
-}) }}

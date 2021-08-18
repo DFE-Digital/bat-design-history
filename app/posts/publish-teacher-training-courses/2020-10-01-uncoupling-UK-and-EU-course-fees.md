@@ -2,6 +2,12 @@
 title: Uncoupling UK and EU course fees
 description: Allowing providers to specify different course fees for UK and EU/international students
 date: 2020-10-01
+screenshots:
+  items:
+    - Course description tab
+    - Edit course length and fees
+    - Preview of a course page with UK and international fees
+    - Preview of a course page with only UK fees
 ---
 
 In late September and early October 2020 we received enquiries from organisations querying how to add separate course fees for UK and EU students.
@@ -20,13 +26,7 @@ In late September and early October 2020 we received enquiries from organisation
 
 Publish previously allowed organisations to provide a common fee for UK and EU students as a required field and an optional fee for international students.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/original-edit-course-fees.png",
-    alt: "Screenshot the original edit course length and fees page."
-  }
-}) }}
+![Screenshot the original edit course length and fees page.](/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/original-edit-course-fees.png)
 
 ## Design notes
 
@@ -35,21 +35,3 @@ This update uncouples EU student fees from UK fees, leaving the optional interna
 ## Further questions
 
 If there are no international fees displayed, is the course still open to international students? The Find course pages currently do not address this scenario and this is an additional piece of work that will need to follow.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "Course description tab"
-    },
-    {
-      text: "Edit course length and fees"
-    },
-    {
-      text: "Preview of a course page with UK and international fees"
-    },
-    {
-      text: "Preview of a course page with only UK fees"
-    }
-  ]
-}) }}

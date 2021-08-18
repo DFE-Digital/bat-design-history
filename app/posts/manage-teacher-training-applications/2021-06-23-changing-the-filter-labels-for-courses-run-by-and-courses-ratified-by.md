@@ -2,6 +2,17 @@
 title: Changing the filter labels for ‘courses run by’ and ‘courses ratified by’
 description: Avoiding certains words to describe relationships in the service
 date: 2021-06-21
+screenshots:
+  items:
+    - text: Application list (belongs to a single training provider)
+      caption: In this set up the user belongs to Endeavour TSA who has 6 accredited body partners. As the user belongs to just one training provider, the locations filter is showing automatically.
+      src: application-list--training-provider.png
+    - text: Application list (belongs to a single accredited body)
+      caption: In this set up the user belongs to the University of Leicester who has 4 partner schools. And the University of Leicester do not run their own courses.
+      src: application-list--accredited-body.png
+    - text: Application list (belongs to a training provider and accredited body)
+      caption: "In this set up the user belongs to Endeavour TSA who has 6 accredited body partners one of which is Essex Teacher Training. The user also belongs to Essex Teacher Training who run their own courses and ratify courses for Academies Enterprise Trust: Eastern."
+      src: application-list--both.png
 ---
 
 For the recent changes to permissions, we’ve [stopped using the words ‘ratified by’ or ‘run by’](/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/#no-longer-distinguishing-between-the-training-provider-and-accredited-body-within-a-relationship).
@@ -27,26 +38,3 @@ Note that the locations filter should be automatically shown in this case.
 At the moment, the location filter label says, for example ’Training locations for Endeavour TSA’.
 
 But as we usually just say ‘location’ we’ve changed this to ‘Locations for Endeavour TSA’.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list (belongs to a single training provider)",
-    img: {
-      src: "application-list--training-provider.png"
-    },
-    caption: 'In this set up the user belongs to Endeavour TSA who has 6 accredited body partners. As the user belongs to just one training provider, the locations filter is showing automatically.'
-  }, {
-    text: "Application list (belongs to a single accredited body)",
-    img: {
-      src: "application-list--accredited-body.png"
-    },
-    caption: 'In this set up the user belongs to the University of Leicester who has 4 partner schools. And the University of Leicester do not run their own courses.'
-  }, {
-    text: "Application list (belongs to a training provider and accredited body)",
-    img: {
-      src: "application-list--both.png"
-    },
-    caption: 'In this set up the user belongs to Endeavour TSA who has 6 accredited body partners one of which is Essex Teacher Training. The user also belongs to Essex Teacher Training who run their own courses and ratify courses for Academies Enterprise Trust: Eastern.'
-  }]
-}) }}

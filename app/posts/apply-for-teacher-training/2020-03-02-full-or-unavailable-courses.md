@@ -2,6 +2,19 @@
 title: Stop applications to full or unavailable courses
 description: Prevent them from adding a full course, or submitting with a full course.
 date: 2020-03-02
+tags:
+  - AN017
+  - AN018
+  - AN019
+  - AN020
+screenshots:
+  items:
+    - text: Try to add a course that’s full
+      src: 01-try-to-add-a-course-thats-full.png
+    - text: Review application with full or unavailable courses
+      src: 02-review-application-with-full-or-unavailable-courses.png
+    - text: Try to continue with full or unavailable courses
+      src: 03-try-to-continue-with-full-or-unavailable-courses.png
 related:
   items:
     - text: Pull request
@@ -10,11 +23,6 @@ related:
       href: https://trello.com/c/Ffktb1Rq/1098-stop-candidates-from-applying-to-courses-that-are-full-or-closed
     - text: Trello (full time or part time full)
       href: https://trello.com/c/pXsJFMZX/1291-design-handle-location-pt-ft-courses-filling
-tags:
-- AN017
-- AN018
-- AN019
-- AN020
 ---
 
 We’ve divided the designs for full courses into two parts:
@@ -112,17 +120,3 @@ Some providers close a course when they think they have enough interviews lined 
 ### Hypothesis
 
 If we give candidates the contact details for a provider, they will contact the provider if the course is important enough to them.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Try to add a course that’s full",
-    img: { src: "01-try-to-add-a-course-thats-full.png" }
-  }, {
-    text: "Review application with full or unavailable courses",
-    img: { src: "02-review-application-with-full-or-unavailable-courses.png" }
-  }, {
-    text: "Try to continue with full or unavailable courses",
-    img: { src: "03-try-to-continue-with-full-or-unavailable-courses.png" }
-  }]
-}) }}

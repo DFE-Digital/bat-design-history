@@ -2,6 +2,11 @@
 title: Banner prompt iteration
 description: Helping users better spot prompts to take action
 date: 2020-08-14
+screenshots:
+  items:
+    - Respond to application
+    - Reconfirm deferred offer
+    - Give feedback
 ---
 
 We’ve been using blue ‘status’ banners to prompt users to:
@@ -23,23 +28,3 @@ We thought about moving the banner below the h1 but were concerned the styling o
 Instead we decided to put the paragraph and button underneath the h1.
 
 So far research has shown a marked improvement.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Respond to application",
-    img: {
-      src: "respond-to-application.png"
-    }
-  }, {
-    text: "Reconfirm a deferred offer",
-    img: {
-      src: "reconfirm-deferred-offer.png"
-    }
-  }, {
-    text: "Give feedback",
-    img: {
-      src: "give-feedback.png"
-    }
-  }]
-}) }}

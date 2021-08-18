@@ -2,6 +2,10 @@
 title: New course wizard – Confirming course title
 description: Moving the course title fields into the wizard.
 date: 2018-12-19
+screenshots:
+  items:
+    - Course title is ok
+    - Course title needs changes
 ---
 
 An iteration on [the initial design](/publish-teacher-training-courses/new-course-2#customise-title) which:
@@ -14,11 +18,3 @@ An iteration on [the initial design](/publish-teacher-training-courses/new-cours
 We tested this with the last user in our ‘New course wizard’ round of research.
 
 [University of East London](https://lookback.io/watch/8X5QYCPob8XmSAtbw)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Course title is ok" },
-    { text: "Course title needs changes" }
-  ]
-}) }}

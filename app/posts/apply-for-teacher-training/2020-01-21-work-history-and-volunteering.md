@@ -1,10 +1,16 @@
 ---
 title: Work history and volunteering guidance
-description: Making sure providers get the information they need about a candidate's (unpaid) work history.
+description: Making sure providers get the information they need about a candidate’s (unpaid) work history.
 date: 2020-01-21
 tags:
-- AN011
-- MN007
+  - AN011
+  - MN007
+screenshots:
+  items:
+    - Old guidance on work history page
+    - Old guidance on volunteering page
+    - New guidance on work history page
+    - New guidance on volunteering page
 ---
 
 We want candidates to tell us about their paid work experience on one page and their unpaid experience or volunteering on another page.
@@ -50,16 +56,6 @@ A couple of providers echoed these concerns. For example, Bedfordshire Universit
 We’ll know this works when:
 
 * candidates have no difficulty filling out these sections of the application form
-* providers have a big picture of a candidate's work history
+* providers have a big picture of a candidate’s work history
 
-We'll test the new content (refer to screenshots below) with users to see if we get the right results.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Old guidance on work history page" },
-    { text: "Old guidance on volunteering page" },
-    { text: "New guidance on work history page" },
-    { text: "New guidance on volunteering page" }
-  ]
-}) }}
+We’ll test the new content (refer to screenshots below) with users to see if we get the right results.

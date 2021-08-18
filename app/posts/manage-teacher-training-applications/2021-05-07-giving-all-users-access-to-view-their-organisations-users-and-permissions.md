@@ -4,8 +4,6 @@ description: Giving all users the ability to view their organisation’s users a
 date: 2021-05-07
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 At the moment, users need to have:
 
 - manage users permission to view the users area, which includes user permissions
@@ -24,11 +22,7 @@ Users who cannot manage organisational permissions will:
 - see a message saying ‘You cannot change these permissions because you do not have permission to manage organisations.’
 - not see the ‘Change permissions’ links
 
-{{ appFigure({
-  image: {
-    file: "organisational-permissions.png"
-  }
-}) }}
+![Screenshot of organisational permissions page.](organisational-permissions.png)
 
 ### User list page
 
@@ -37,11 +31,7 @@ Users who cannot manage users will:
 - see a message saying ‘You cannot invite users to the service because you do not have permission to manage users.’
 - not see the ‘Invite user’ button
 
-{{ appFigure({
-  image: {
-    file: "user-list.png"
-  }
-}) }}
+![Screenshot of users list page.](user-list.png)
 
 ### User details page
 
@@ -50,11 +40,7 @@ Users who cannot manage users will:
 - see a message saying ‘You cannot change these details because you do not have permission to manage users.’
 - not see the ‘change’ links
 
-{{ appFigure({
-  image: {
-    file: "user-details.png"
-  }
-}) }}
+![Screenshot of user details page.](user-details.png)
 
 ### Remove descriptions for profile, email notifications, users and organisational permissions
 
@@ -65,43 +51,22 @@ We removed the descriptions because:
 - it’s easier for users to scan a simple list of links
 - the descriptions would need to be customised based on whether the user has the appropriate permissions
 
-{{ appFigure({
-  image: {
-    file: "account.png"
-  }
-}) }}
+![Screenshot of account page.](account.png)
 
-{{ appFigure({
-  image: {
-    file: "organisation-settings.png"
-  }
-}) }}
+![Screenshot of organisation settings page.](organisation-settings.png)
 
 ### Separate organisational settings from account settings
 
 We put ‘Organisational permissions’ and ‘Users’ into a new section called ‘Organisation settings’ because they’re not related to the user’s account.
 
-{{ appFigure({
-  image: {
-    file: "organisation-settings.png"
-  }
-}) }}
+![Screenshot of organisation settings page.](organisation-settings.png)
 
 ### Separate user’s permissions from their profile
 
 We moved the user’s permissions out of their profile into a new page called ‘user permissions’.
 
-{{ appFigure({
-  image: {
-    file: "user-permissions.png"
-  }
-}) }}
+![Screenshot of user permissions page.](user-permissions.png)
 
 We renamed the profile page to ‘personal details’ as it’s a better description of the contents.
 
-{{ appFigure({
-  image: {
-    file: "personal-details.png"
-  }
-}) }}
-
+![Screenshot of personal details page.](personal-details.png)
