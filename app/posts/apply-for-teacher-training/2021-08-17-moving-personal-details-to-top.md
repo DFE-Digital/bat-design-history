@@ -11,7 +11,7 @@ Previously, the Courses section was at the top of the application. This was to h
 
 But when UCAS is switched off in September, candidates will be able to apply for all courses using Apply.
 
-### Getting candidates to add their personal details before choosing a course
+### Encouraging candidates to add their personal details before choosing a course
 
 When we worked on the visa sponsorship content on Apply, we thought it would be helpful to warn candidates who need visas if they chose a course that does not sponsor visas. That way they could change their course choice before submitting their application.
 
