@@ -2,9 +2,11 @@
 title: Showing users data about applications and candidates
 description: We created several reports which users could then filter to see data they were interested in
 date: 2021-05-18
+screenshots:
+
 ---
 
-In previous research we showed participants a [spreadsheet of data](​​/manage-teacher-training-applications/finding-out-what-data-our-users-need/) to find out about their needs.
+In previous research we showed participants a [spreadsheet of data](/manage-teacher-training-applications/finding-out-what-data-our-users-need/) to find out about their needs.
 
 This helped us to choose which reports to create in a new section of the service called ‘Statistics’. We gave users the ability to filter the data in each of these reports.
 
@@ -26,7 +28,7 @@ We created a series of reports about applications:
 - courses by training provider
 - courses by training location
 - courses by reasons for rejection
-- courses performance
+- course performance
 - courses diversity - sex
 - courses diversity - ethnicity
 - courses diversity - nationality
