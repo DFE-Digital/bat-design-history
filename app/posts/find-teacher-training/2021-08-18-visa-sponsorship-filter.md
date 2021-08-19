@@ -4,7 +4,7 @@ description: Why we added a new filter to Find
 date: 2021-08-18
 ---
 
-In the 2021 to 2022 cycle, providers often rejected candidates for not having the right to work or study in the UK. We think this is because it was hard for candidates to tell which courses were able to sponsor visas (they had to either ask the provider, or check a long list of providers with the ability to sponsor visas).
+In the 2021 to 2022 cycle, providers often rejected candidates for not having the right to work or study in the UK. We think this is because it was hard for candidates to tell which courses were able to sponsor visas. They had to either ask the provider, or check a long list of providers with the ability to sponsor visas.
 
 To address this, we’ve [asked providers if they can sponsor visas](/publish-teacher-training-courses/visa-sponsorship/) for the 2022 to 2023 cycle. We’ve then added this information within a [new ‘International students’ section](/find-teacher-training/new-international-students-section/).
 
