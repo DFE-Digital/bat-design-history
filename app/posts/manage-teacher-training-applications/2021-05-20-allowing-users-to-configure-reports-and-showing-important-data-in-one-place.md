@@ -57,9 +57,9 @@ If users did not split data further, they would see a report with the data they 
 
 If users decided to split data further, they could choose up to 2 more dimensions.
 
-![Figure 5:](configurable-course-report-06.png "Figure 5:")
+![Figure 5: Adding a second dimension to the report](configurable-course-report-06.png "Figure 5: Adding a second dimension to the report, which adds a sub column to the previously chosen training provider column")
 
-![Figure 6:](configurable-course-report-07.png "Figure 6:")
+![Figure 6: Adding a third dimension to the report](configurable-course-report-07.png "Figure 6: Adding a third dimension to the report, which adds a sub row to the course row")
 
 These additional dimensions would be displayed in the report by:
 
@@ -73,9 +73,9 @@ Adding additional dimensions allowed users to create reports meeting needs such 
 - courses split by training provider and year received
 - courses split by training provider, year received and application status
 
-![Figure 7: Courses split by training provider and year received](configurable-course-report-XX.png "Figure 7: Courses split by training provider and year received")
+![Figure 7: Courses split by training provider and year received](configurable-course-report-09.png "Figure 7: Courses split by training provider and year received")
 
-![Figure 8: Courses split by training provider, year received and application status](configurable-course-report-XX.png "Figure 8: Courses split by training provider, year received and application status")
+![Figure 8: Courses split by training provider, year received and application status](configurable-course-report-08.png "Figure 8: Courses split by training provider, year received and application status")
 
 When the user generated a report, it would be displayed along with filters. Using the filters, the user could:
 
@@ -84,7 +84,7 @@ When the user generated a report, it would be displayed along with filters. Usin
 
 For example, if one of the dimensions was ‘status’ then the user could filter to only see certain statuses.
 
-![Figure 9: Courses filtered by training provider](configurable-course-report-04.png " Figure 9: Courses filtered by training providere")
+![Figure 9: Courses filtered by training provider](configurable-course-report-04.png " Figure 9: Courses filtered by training provider")
 
 ## Other considerations
 
