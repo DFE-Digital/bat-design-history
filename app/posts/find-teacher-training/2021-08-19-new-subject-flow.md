@@ -2,6 +2,13 @@
 title: New subject flow
 description: Why we changed how users select course subjects
 date: 2021-08-19
+related:
+  items:
+    - text: Special educational needs (SEN) filter
+      href: /find-teacher-training/sen-filter/
+    - text: SEND survey and updates
+      href: /find-teacher-training/send-survey/
+
 ---
 
 We have improved the way that we ask uses which course subjects they are interested in.
@@ -49,7 +56,7 @@ If a user selects ‘Further education’, then no further course subject questi
 
 ## Special educational needs and disability (SEND)
 
-Previously, the ‘Show only courses with a SEND specialism’ checkbox worked as an additional filter to the other subject checkboxes. This meant that if you ticked it as well as a subject, only courses had that subject AND a SEND-specialism were shown. This makes it behave differently from the other subject checkboxes.
+Previously, the ‘Show only courses with a SEND specialism’ checkbox worked as [an additional filter](/find-teacher-training/sen-filter/) to the other subject checkboxes. This meant that if you ticked it as well as a subject, only courses had that subject AND a SEND-specialism were shown. This makes it behave differently from the other subject checkboxes.
 
 We initially explored whether we could treat SEND as a subject, and have it behave the same way as other subjects. This makes some sense for primary courses which have specialisms, but less sense for secondary courses.
 
@@ -72,4 +79,3 @@ If a user answers yes, they are shown a list of the specialist subjects. A check
 If someone wants to teach the secondary age group, we show them a list of all the subjects in alphabetical order. Whilst this is a long list, we found in usability tests that users were able to find the subjects they were interested in quickly.
 
 ![](secondary.png)
-
