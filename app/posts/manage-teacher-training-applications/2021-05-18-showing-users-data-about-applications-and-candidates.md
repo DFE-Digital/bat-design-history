@@ -3,7 +3,17 @@ title: Showing users data about applications and candidates
 description: We created several reports which users could then filter to see data they were interested in
 date: 2021-05-18
 screenshots:
-
+  items:
+    - text: Statistics landing page
+      src: statistics-landing-page.png
+    - text: Courses by status report
+      src: courses-by-status-report.png
+    - text: Courses by status report configuration
+      src: courses-by-status-report-configuration.png
+    - text: Courses by status report – filtered
+      src: courses-by-status-report--filtered.png
+    - text: Candidate nationality report
+      src: candidate-nationality-report.png
 ---
 
 In previous research we showed participants a [spreadsheet of data](/manage-teacher-training-applications/finding-out-what-data-our-users-need/) to find out about their needs.
