@@ -12,7 +12,7 @@ jobs:
     - name: Install packages
       run: npm install
     - name: Run linters with autofix
-      run: npm run lint:fix
+      run: npm run lint:fix || exit 0
     - name: Push any fixes
       run: |
         git config --global user.email "lint-bot@example.com"
