@@ -8,7 +8,6 @@ related:
       href: /find-teacher-training/sen-filter/
     - text: SEND survey and updates
       href: /find-teacher-training/send-survey/
-
 ---
 
 We have improved the way that we ask uses which course subjects they are interested in.
