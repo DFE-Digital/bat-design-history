@@ -30,7 +30,7 @@ Whilst users were generally able to select the subjects they were interested in,
 * Users can’t see the subjects until they interact with the page, which slows things down and can be confusing
 * The page heading only mentions subjects, but ‘Primary’ and ‘Further education’ are not really subjects
 * ‘Modern languages’ and ‘Further education’ can be unfamiliar terms
- * The ‘Show only courses with a SEND specialism’ checkbox works in a different way from all the other checkboxes
+* The ‘Show only courses with a SEND specialism’ checkbox works in a different way from all the other checkboxes
 
 The design also had some suspected accessibility issues. Each of the sections was marked up as a separate list of checkboxes, with a visually-hidden legend of ‘Choose from the following [section name] subjects’, in addition to the accordion section header. This may be confusing or unexpected.
 
@@ -80,4 +80,4 @@ If a user answers yes, they are shown a list of the specialist subjects. A check
 
 If someone wants to teach the secondary age group, we show them a list of all the subjects in alphabetical order. Whilst this is a long list, we found in usability tests that users were able to find the subjects they were interested in quickly.
 
-![](secondary.png)
+![Screenshot of the page asking users what secondary subject they are interested in teaching](secondary.png)
