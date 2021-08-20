@@ -4,9 +4,9 @@ description: A design pattern to enable the display of multiple summaries alongs
 date: 2020-03-13
 related:
   items:
-  - text: Summary card
-    description: Discussion about this component on the GOV.UK Design System Community Backlog
-    href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
+    - text: Summary card
+      description: Discussion about this component on the GOV.UK Design System Community Backlog
+      href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}

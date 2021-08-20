@@ -8,10 +8,4 @@ The spreadsheet sent to providers rendered as a single page form. See the [origi
 
 Guidance included alongside each field matches the spreadsheet guidance. Note that extra guidances was needed regarding word counts and validation in the spreadsheet.
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  hideContents: true,
-  items: [
-    { text: "Spreadsheet as a form" }
-  ]
-}) }}
+![Screenshot of spreadsheet as a form.](spreadsheet-as-a-form.png "Spreadsheet as a form")

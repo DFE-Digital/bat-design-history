@@ -2,6 +2,13 @@
 title: Picking courses to apply to
 description: Providing a route to Find, or selecting the course you want.
 date: 2019-08-16
+screenshots:
+  items:
+    - Your application
+    - Have you chosen a course to apply to?
+    - Which training provider?
+    - Which course?
+    - Find a course (when course isn’t known)
 ---
 
 Candidates using Apply need to choose a course to apply to.
@@ -13,14 +20,3 @@ Otherwise provide autocomplete features for picking the provider and course. The
 We’ll need to amend this design to include training locations too – some courses offer multiple locations that a candidate can choose between. For example national SCITTs or school direct providers working with many schools.
 
 Users coming directly from Find could have a course pre-populated or added using a different flow, this hasn’t been designed yet.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Your application" },
-    { text: "Have you chosen a course to apply to?" },
-    { text: "Which training provider?" },
-    { text: "Which course?" },
-    { text: "Find a course (when course isn’t known)" }
-  ]
-}) }}

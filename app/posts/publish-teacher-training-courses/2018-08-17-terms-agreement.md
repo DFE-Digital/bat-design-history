@@ -2,6 +2,10 @@
 title: Terms agreement
 description: A user must agree to terms before enriching.
 date: 2018-08-17
+screenshots:
+  items:
+    - Before you begin
+    - Before you begin with error
 ---
 
 Before each user can begin enriching their course data we need them to agree to our terms and conditions.
@@ -15,14 +19,3 @@ While a user hasn’t agree to the terms, the only pages they can access are thi
 [View design in prototype](https://publish-courses-prototype.herokuapp.com/onboarding/accept-terms)
 
 [Story map](https://trello.com/c/fnReQwNM/121-dont-allow-publishing-until-a-publisher-has-accepted-terms-and-conditions), [Trello ticket](https://trello.com/c/QVVSINV5/135-design-terms-and-conditions-acceptance-flow-when-a-user-signs-in-to-publish-courses)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Before you begin",
-    img: { src: "before-you-begin.png" }
-  }, {
-    text: "Before you begin with error",
-    img: { src: "before-you-begin-with-error.png" }
-  }]
-}) }}

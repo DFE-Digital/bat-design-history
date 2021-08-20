@@ -2,6 +2,20 @@
 title: Assigning applications to users
 description: Let users assign an application to one or more users in their organisation
 date: 2021-06-30
+screenshots:
+  items:
+    - text: Application unassigned
+      src: assigning-applications-to-users-application-details-unassigned.png
+    - text: Application assigned
+      src: assigning-applications-to-users-application-details-assigned.png
+    - text: Application assigned (without inset prompt)
+      src: assigning-applications-to-users-application-details-assigned-without-inset.png
+    - text: Assign users form
+      src: assigning-applications-to-users-assign-users-form.png
+    - text: Assign users form (with duplicate names)
+      src: assigning-applications-to-users-assign-users-form-with-duplicate-names.png
+    - text: Success message
+      src: assigning-applications-to-users-application-details-success-message.png
 ---
 
 Users need to be able to assign applications to themselves or other users within the organisations they belong to.
@@ -33,11 +47,11 @@ This means that 24% of users will be able to assign applications to users in 2 o
 - 97% of users have a unique first and last name in Manage
 - 3% of users do not have a unique first and last name in Manage
 
-We need to make it possible for the signed in user to distinguish between multiple users with the same name. 
+We need to make it possible for the signed in user to distinguish between multiple users with the same name.
 
 ## What we changed
 
-We introduced a page which allows users to assign an application. It can be reached from the application details page of a candidate’s application. 
+We introduced a page which allows users to assign an application. It can be reached from the application details page of a candidate’s application.
 
 On this new assignment page we show a list of users within all organisations the signed in user belongs to. They can assign the application to one or more users, including themselves.
 
@@ -84,7 +98,7 @@ For the assignment page we considered either:
 - separating the checkboxes by organisation
 - giving the email address of all users
 
-We decided not to do this because we think that the signed in user will be looking for a specific person to assign the application to. 
+We decided not to do this because we think that the signed in user will be looking for a specific person to assign the application to.
 
 It's possible to do this in a single alphabetical list of names without email addresses (except where a name appears more than once).
 
@@ -92,7 +106,7 @@ We intend to explore this in research, to find out whether participants need to 
 
 ### Assigning many applications to many users
 
-We have not implemented ‘bulk’ assignment in this iteration as we have not established a need for it. 
+We have not implemented ‘bulk’ assignment in this iteration as we have not established a need for it.
 
 ### Assigning applications to people outside the organisation
 
@@ -103,38 +117,3 @@ This could include assigning to:
 - someone who does not use the service
 
  One or more of these could be part of a future iteration.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application unassigned",
-    img: {
-      src: "assigning-applications-to-users-application-details-unassigned.png"
-    }
-  }, {
-    text: "Application assigned",
-    img: {
-      src: "assigning-applications-to-users-application-details-assigned.png"
-    }
-  }, {
-    text: "Application assigned (without inset prompt)",
-    img: {
-      src: "assigning-applications-to-users-application-details-assigned-without-inset.png"
-    }
-  }, {
-    text: "Assign users form",
-    img: {
-      src: "assigning-applications-to-users-assign-users-form.png"
-    }
-  }, {
-    text: "Assign users form (with duplicate names)",
-    img: {
-      src: "assigning-applications-to-users-assign-users-form-with-duplicate-names.png"
-    }
-  }, {
-    text: "Success message",
-    img: {
-      src: "assigning-applications-to-users-application-details-success-message.png"
-    }
-  }]
-}) }}

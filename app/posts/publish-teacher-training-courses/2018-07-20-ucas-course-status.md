@@ -2,6 +2,10 @@
 title: UCAS course status
 description: An iteration on the onboarding design (read-only) to include course status.
 date: 2018-07-20
+screenshots:
+  items:
+    - Courses
+    - Course
 ---
 
 We show all UCAS courses rather than just the published ones. This means we are displaying courses that should go live but also those which have been suspended. Users need to see the status of their courses so they know what will be shown to candidates. The status needs to match the UCAS status.
@@ -38,14 +42,3 @@ Discontinued means that the training programme is no longer available or perhaps
 ### Suspended
 
 Suspended means that you will not be running your training programme in the current cycle, for any reason, but may run it again the future. The programme will not be displayed in the search tool for applicants to research. Suspended training programmes will be rolled over to the next application cycle in May each year.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Courses",
-    img: { src: "courses.png" }
-  }, {
-    text: "Course",
-    img: { src: "course.png" }
-  }]
-}) }}

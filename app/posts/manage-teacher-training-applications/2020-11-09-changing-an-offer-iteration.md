@@ -2,6 +2,13 @@
 title: Changing an offer iteration
 description: Improvements to the way users edit an offer
 date: 2020-11-09
+screenshots:
+  items:
+    - Offer page
+    - Select course
+    - Select location
+    - Check answers
+    - Success
 ---
 
 This is an iteration of the [current flow](/manage-teacher-training-applications/changing-an-offer-november-2020).
@@ -47,33 +54,3 @@ No matter what the user is changing (training provider, course, location, condit
 Whatever the user selects to change is what the user sees before arriving at the ‘check answers’ page. For example, if they choose to change the location, they see the location page first.
 
 If the user keeps all the attributes the same, then an email will not be sent to the candidate as nothing has  changed.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Offer page",
-    img: {
-      src: "offer-page.png"
-    }
-  }, {
-    text: "Select course",
-    img: {
-      src: "select-course.png"
-    }
-  }, {
-    text: "Select location",
-    img: {
-      src: "select-location.png"
-    }
-  }, {
-    text: "Check answers",
-    img: {
-      src: "check.png"
-    }
-  }, {
-    text: "Success",
-    img: {
-      src: "flash.png"
-    }
-  }]
-}) }}

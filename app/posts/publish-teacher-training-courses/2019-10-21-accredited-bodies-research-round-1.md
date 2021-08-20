@@ -4,10 +4,10 @@ description: Research interviews with accredited bodies to determine reporting n
 date: 2019-10-21
 related:
   items:
-  - text: Lookback sessions
-    href: https://lookback.io/dfe-digital/find-accrediting-bodies-reporting
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1yaNemUJLl8SlZoZKNOHs17xT4sywn5MKYzSHNsu1LGY/edit#slide=id.g62326b9f9a_0_0
+    - text: Lookback sessions
+      href: https://lookback.io/dfe-digital/find-accrediting-bodies-reporting
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1yaNemUJLl8SlZoZKNOHs17xT4sywn5MKYzSHNsu1LGY/edit#slide=id.g62326b9f9a_0_0
 ---
 
 UCAS provided notifications and the CSV reports related to an accredited body’s courses. Publish is missing these features.

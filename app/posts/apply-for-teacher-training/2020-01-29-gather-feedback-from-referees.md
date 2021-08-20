@@ -2,6 +2,12 @@
 title: Gather feedback from referees
 description: Include a feedback form immediately after submitting a reference.
 date: 2020-01-29
+screenshots:
+  items:
+    - text: Form as presented
+      src: 01-form-as-presented.png
+    - text: Form with all fields showing
+      src: 02-form-with-all-fields-showing.png
 related:
   items:
     - text: Trello
@@ -27,14 +33,3 @@ Linking to a separate Google Form would limit responses.
 ## Design notes
 
 There is no validation on this form, submitting something incorrectly will have no cost to the referee, and little cost to us. We'd prefer quick and easy submission.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "Form as presented",
-      img: { src: "01-form-as-presented.png" }
-    }, {
-      text: "Form with all fields showing",
-      img: { src: "02-form-with-all-fields-showing.png" }
-    }]
-}) }}

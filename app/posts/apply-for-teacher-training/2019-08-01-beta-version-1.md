@@ -4,13 +4,13 @@ description: Testing an interactive version of the application form.
 date: 2019-08-01
 related:
   items:
-  - text: Prototype v1
-    description: |
-      Username: `bat-apply`
-      Password: `briantownley`
-    href: https://apply-beta-prototype-v1.herokuapp.com
-  - text: Findings and recommendations from usability testing
-    href: https://docs.google.com/presentation/d/11n2OsN9LswmHab64FG0sIsQ-BijdS-GM
+    - text: Prototype v1
+      description: |
+        Username: `bat-apply`
+        Password: `briantownley`
+      href: https://apply-beta-prototype-v1.herokuapp.com
+    - text: Findings and recommendations from usability testing
+      href: https://docs.google.com/presentation/d/11n2OsN9LswmHab64FG0sIsQ-BijdS-GM
 ---
 
 In June the Apply team started development of the candidate-facing aspects of the service. To ensure that what we are delivering is usable and understandable, we created an interactive prototype that we could use to test with users and validate our design decisions.

@@ -2,6 +2,14 @@
 title: Removing the teaching profile
 description: Why we removed it, and the alternative.
 date: 2019-08-19
+screenshots:
+  items:
+    - text: Application with courses
+      src: /apply-for-teacher-training/pick-a-course/your-application.png
+    - text: Old dashboard
+      src: /apply-for-teacher-training/apply-june-2019/personal-details/dashboard.png
+    - text: Old personal teaching profile
+      src: /apply-for-teacher-training/apply-june-2019/personal-details/personal-teaching-profile.png
 ---
 
 [In the July 2019 prototype](https://apply-beta-prototype-v1.herokuapp.com/) ([screenshots](/apply-for-teacher-training/apply-june-2019/personal-details)) we tested a version of the application where course choice was separated from your teaching profile. Your teaching profile was a shareable or reusable profile that would be pulled into each application.
@@ -32,23 +40,3 @@ This means everything you need to submit your first application is kept together
 Once an application is submitted a new application can be started, where new course choices are made and your initial application can be edited. Initially only one draft application will be allowed – we need to see how this tests. It might stop users from shortlisting using Apply.
 
 This alternative creates a simpler application process that is also easier to build as an MVP for the upcoming pilots.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application with courses",
-    img: {
-      src: "/apply-for-teacher-training/pick-a-course/your-application.png"
-    }
-  }, {
-    text: "Old dashboard",
-    img: {
-      src: "/apply-for-teacher-training/apply-june-2019/personal-details/dashboard.png"
-    }
-  }, {
-    text: "Old personal teaching profile",
-    img: {
-      src: "/apply-for-teacher-training/apply-june-2019/personal-details/personal-teaching-profile.png"
-    }
-  }]
-}) }}

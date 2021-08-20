@@ -2,9 +2,72 @@
 title: Placement schools and training centres
 description: Asking providers to give more detailed location information
 date: 2021-06-14
+screenshots:
+- title: Managing placement school locations
+  headingLevel: 3
+  items:
+    - id: locations-schools-not-setup
+      text: Locations – Placement schools (none added)
+      caption: Before providers can manage school placement locations, they need to indicate their preferences by completing a wizard.
+    - id: locations-schools-wizard-display
+      text: How do you want to display placement schools?
+    - id: locations-schools-wizard-apply
+      text: Can candidates choose a placement school when they apply?
+      caption: If a provider opts to show precise locations of their placement schools, they are asked if candidates can select one of these locations when they apply.
+    - id: locations-schools-wizard-add
+      text: How do you want to add placement schools?
+      caption: If no placement schools have been added previously, we ask how the provider wants to add placement school locations.
+    - id: locations-schools-add
+      text: Add a placement school
+    - id: locations-schools-wizard-upload
+      text: Upload school data
+    - id: locations-schools-wizard-upload-review
+      text: Review locations
+    - id: locations-schools-display-list
+      text: Locations – Placement schools (precise locations)
+      caption: A list of placement schools when the provider has opted to display individual school locations.
+    - id: locations-schools-display-list-and-apply
+      text: Locations – Placement schools (precise locations that can be applied to)
+      caption: A list of placement schools when the provider has opted to display individual school locations and let candidates choose one when they apply.
+    - id: locations-schools-display-areas
+      text: Locations – Placement schools (general placement areas)
+      caption: A list of placement schools when the provider has opted to display general placement areas.
+- title: Managing training centre locations
+  headingLevel: 3
+  items:
+    - id: locations-centres-none
+      text: Locations – Training centres (none added)
+    - id: locations-centres-add
+      text: Add a training centre
+    - id: locations-centres
+      text: Locations – Training centres
+- title: Adding locations to a course
+  headingLevel: 3
+  items:
+    - id: course-locations-incomplete
+      text: Course (showing prompt to add schools and centres)
+    - id: course-select-schools-none
+      text: In which schools can candidates be placed? (No schools added)
+    - id: course-select-schools-some
+      text: In which schools can candidates be placed?
+    - id: course-select-centres-none
+      text: Where will candidates do their centre-based training? (No centres added)
+    - id: course-select-centres-one
+      text: Where will candidates do their centre-based training?
+    - id: course-locations-complete-list
+      text: Course (showing precise locations added)
+    - id: course-locations-complete-area
+      text: Course (showing general placement areas)
+- title: Previewing a course
+  headingLevel: 3
+  items:
+    - id: preview-list
+      text: Course preview (showing precise locations)
+    - id: preview-list-apply
+      text: Course preview (showing precise locations that can be applied to)
+    - id: preview-area
+      text: Course preview (showing general placement areas)
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 ## The location problem
 
@@ -74,102 +137,3 @@ To give providers the flexibility they desire, we will let decide how they want 
 Additionally, should they choose to show precise locations, they can decide if candidates can choose a placement school when they apply. If they select this option, they can manage vacancies and open and close courses at each location, as they do currently.
 
 ## How it works
-
-{{ appScreenshots({
-  title: "Managing placement school locations",
-  headingLevel: 3,
-  items: [{
-    id: "locations-schools-not-setup",
-    text: "Locations – Placement schools (none added)",
-    caption: "Before providers can manage school placement locations, they need to indicate their preferences by completing a wizard."
-  }, {
-    id: "locations-schools-wizard-display",
-    text: "How do you want to display placement schools?"
-  }, {
-    id: "locations-schools-wizard-apply",
-    text: "Can candidates choose a placement school when they apply?",
-    caption: "If a provider opts to show precise locations of their placement schools, they are asked if candidates can select one of these locations when they apply"
-  }, {
-    id: "locations-schools-wizard-add",
-    text: "How do you want to add placement schools?",
-    caption: "If no placement schools have been added previously, we ask how the provider wants to add placement school locations"
-  }, {
-    id: "locations-schools-add",
-    text: "Add a placement school"
-  }, {
-    id: "locations-schools-wizard-upload",
-    text: "Upload school data"
-  }, {
-    id: "locations-schools-wizard-upload-review",
-    text: "Review locations"
-  }, {
-    id: "locations-schools-display-list",
-    text: "Locations – Placement schools (precise locations)",
-    caption: "A list of placement schools when the provider has opted to display individual school locations."
-  }, {
-    id: "locations-schools-display-list-and-apply",
-    text: "Locations – Placement schools (precise locations that can be applied to)",
-    caption: "A list of placement schools when the provider has opted to display individual school locations and let candidates choose one when they apply."
-  }, {
-    id: "locations-schools-display-areas",
-    text: "Locations – Placement schools (general placement areas)",
-    caption: "A list of placement schools when the provider has opted to display general placement areas."
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Managing training centre locations",
-  headingLevel: 3,
-  items: [{
-    id: "locations-centres-none",
-    text: "Locations – Training centres (none added)"
-  }, {
-    id: "locations-centres-add",
-    text: "Add a training centre"
-  }, {
-    id: "locations-centres",
-    text: "Locations – Training centres"
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Adding locations to a course",
-  headingLevel: 3,
-  items: [{
-    id: "course-locations-incomplete",
-    text: "Course (showing prompt to add schools and centres)"
-  }, {
-    id: "course-select-schools-none",
-    text: "In which schools can candidates be placed? (No schools added)"
-  }, {
-    id: "course-select-schools-some",
-    text: "In which schools can candidates be placed?"
-  }, {
-    id: "course-select-centres-none",
-    text: "Where will candidates do their centre-based training? (No centres added)"
-  }, {
-    id: "course-select-centres-one",
-    text: "Where will candidates do their centre-based training?"
-  }, {
-    id: "course-locations-complete-list",
-    text: "Course (showing precise locations added)"
-  }, {
-    id: "course-locations-complete-area",
-    text: "Course (showing general placement areas)"
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Previewing a course",
-  headingLevel: 3,
-  items: [{
-    id: "preview-list",
-    text: "Course preview (showing precise locations)"
-  }, {
-    id: "preview-list-apply",
-    text: "Course preview (showing precise locations that can be applied to)"
-  }, {
-    id: "preview-area",
-    text: "Course preview (showing general placement areas)"
-  }]
-}) }}

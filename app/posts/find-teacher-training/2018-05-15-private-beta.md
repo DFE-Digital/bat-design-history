@@ -4,13 +4,13 @@ description: The private beta was a reduced version of the alpha, focusing on a 
 date: 2018-05-15
 related:
   items:
-  - text: "Private beta prototype"
-    href: https://search-and-compare-beta.herokuapp.com/index
-    description: |
-      Username: bat
-      Password: beta
-  - text: "Prototype code on Github"
-    href: https://github.com/DFE-Digital/search-and-compare-prototype/tree/beta
+    - text: "Private beta prototype"
+      href: https://search-and-compare-beta.herokuapp.com/index
+      description: |
+        Username: bat
+        Password: beta
+    - text: "Prototype code on Github"
+      href: https://github.com/DFE-Digital/search-and-compare-prototype/tree/beta
 eleventyComputed:
   eleventyNavigation:
     key: find-private-beta

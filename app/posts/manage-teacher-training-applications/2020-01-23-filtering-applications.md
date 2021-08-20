@@ -3,6 +3,12 @@ title: Filtering applications
 description: Let users find items a long list of applications by status and provider.
 date: 2020-01-23
 tags: awaiting-validation
+screenshots:
+  items:
+    - Application list
+    - Filtering by status
+    - Filtering by provider
+    - Filtering by status and provider
 ---
 
 Let users find applications quickly and easily within a very long list.
@@ -56,16 +62,3 @@ The width of the page is wider to accomodate the filter.
 * they raised the need to see what had changed across all applications on a given day. So which applications had gone from one state to another (and what those states were). They also felt that the audit trail would be very useful. At a pinch, a combination of date updated, new state and audit trail would work for this, but seeing what had changed on the dashboard would be useful. They use a “movement view” as a way of staying on top of what actions they need to take. E.g. something moving from offered to accepted means lots of paperwork needs to go out to the candidate.
 
 [Research on lookback](https://lookback.io/watch/j5Z8YfSp4g85kEYQn)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list"
-  }, {
-    text: "Filtering by status"
-  }, {
-    text: "Filtering by provider"
-  }, {
-    text: "Filtering by status and provider"
-  }]
-}) }}

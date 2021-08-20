@@ -2,6 +2,11 @@
 title: Application states
 description: Create new states with filters.
 date: 2019-09-18
+screenshots:
+  items:
+    - Applications
+    - New applications
+    - Rejected
 ---
 
 [Pull request](https://github.com/DFE-Digital/manage-teacher-training-applications-prototype/pull/2)
@@ -52,12 +57,3 @@ An unconditional offer (which would be ‘Accepted (unconditional)’) goes stra
 * Withdrawn – candidate has removed their application
 * Offer rejected – candidate was made an offer but refused
 * Declined by default – candidate didn’t respond to offer in time
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Applications" },
-    { text: "New applications" },
-    { text: "Rejected" }
-  ]
-}) }}

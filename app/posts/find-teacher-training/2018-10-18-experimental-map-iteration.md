@@ -2,7 +2,13 @@
 title: Results on a map – Full screen iteration
 description: Second pass at showing courses on a full screen map.
 date: 2018-10-18
-tags: maps
+screenshots:
+  items:
+    - Training locations and providers on map
+    - Training location open on map
+    - Provider open on map
+    - Another provider open on map
+    - Provider with one course open on map
 ---
 
 An iteration on the [first pass](/find-teacher-training/experimental-map/) of putting search results on a full-width map. This design adds:
@@ -85,23 +91,3 @@ In the original design we tried clustering results: when zoomed out many results
 It was quickly removed.
 
 Example of a user struggling with clustering: [“It didn’t mean a lot to me, I saw the 3 and thought it meant within 3 miles of \[city\]… what is that, the 2 and the 3?”](https://lookback.io/watch/u9cZaEQQRZGDofaKP?t=57m9.02s).
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Training locations and providers on a map",
-    img: { src: "training-locations-and-providers-on-map.png" }
-  }, {
-    text: "Training location open on map",
-    img: { src: "training-location-open-on-map.png" }
-  }, {
-    text: "Provider open on map",
-    img: { src: "provider-open-on-map.png" }
-  }, {
-    text: "Another provider open on map",
-    img: { src: "another-provider-open-on-map.png" }
-  }, {
-    text: "Provider with one course open on map",
-    img: { src: "provider-with-one-course-open-on-map.png" }
-  }]
-}) }}

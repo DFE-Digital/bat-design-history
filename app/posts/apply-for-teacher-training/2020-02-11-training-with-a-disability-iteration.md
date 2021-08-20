@@ -3,9 +3,16 @@ title: Giving details about disability (iteration)
 description: An iteration of the disability section.
 date: 2020-02-11
 tags:
-- AN007
-- AN008
-- MN005
+  - AN007
+  - AN008
+  - MN005
+screenshots:
+  items:
+    - text: Get extra assistance to become a teacher (with supportive guidance)
+    - text: Get extra assistance to become a teacher (stating legal position)
+    - text: Review answer
+    - text: What providers see
+      caption: Answer is shown to providers with a succinct and actionable label. If no needs are disclosed, we show ‘Not specified’
 related:
   items:
     - text: 'Provider research playback'
@@ -50,18 +57,3 @@ Then a candidate will feel more comfortable providing an answer
 * Candidates wanted a mix of reassurance, and also information about their legal standing.
 * Candidates were unclear what would happen with this information, or unsure if they would need to contact a provider directly as well.
 * Providers asked for more varied examples of the types of support available (ie mental health).
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Get extra assistance to become a teacher (with supportive guidance)"
-  }, {
-    text: "Get extra assistance to become a teacher (stating legal position)"
-  }, {
-    text: "Review answer"
-  }, {
-    id: "provider-view",
-    text: "What providers see",
-    caption: "Answer is shown to providers with a succinct and actionable label. If no needs are disclosed, we show ‘Not specified’."
-  }]
-}) }}

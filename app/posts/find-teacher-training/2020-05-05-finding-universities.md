@@ -2,6 +2,14 @@
 title: Make it easier to find university courses
 description: How we model university locations makes finding courses less likely
 date: 2020-05-05
+screenshots:
+  items:
+    - text: Show us where your schools are
+      src: 01-show-us-where-your-schools-are.png
+    - text: Example with polygon
+      src: 02-example-with-polygon.png
+    - text: Example with circle
+      src: 03-example-with-circle.png
 ---
 
 Most candidates search by location. When searching by location we calculate the distance between the candidate and each of a course’s training locations. We order those results by distance, and show the closest ones first.
@@ -82,17 +90,3 @@ All of these approaches depend on every provider giving us decent data. They're 
 Alternatively, we could assume that each university works with many schools near to its campus. Rather than representing that campus as a single point, we might extend the point by something like 5 miles, creating an estimated area for that university.
 
 Like option 3, searches within that area or close to it can then be prioritised, giving each university course a greater likelihood of showing in search results.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "Show us where your schools are",
-      img: { src: "01-show-us-where-your-schools-are.png" }
-    }, {
-      text: "Example with polygon",
-      img: { src: "02-example-with-polygon.png" }
-    }, {
-      text: "Example with circle",
-      img: { src: "03-example-with-circle.png" }
-    }]
-}) }}

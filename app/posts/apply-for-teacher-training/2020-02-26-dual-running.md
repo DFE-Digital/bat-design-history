@@ -2,6 +2,22 @@
 title: Choosing which service to apply through
 description: During transition, providers can offer training courses through both UCAS and/or DfE. Which service should a candidate use?
 date: 2020-02-26
+screenshots:
+  items:
+    - text: Start page
+      caption: With an additional link pointing users to the list of available providers.
+    - text: Training providers available through Apply
+      caption: With additional guidance about the two services.
+    - text: We suggest you choose a course first
+      caption: We encourage new users coming from the start page to choose a course before continuing with the rest of their application.
+    - text: You need to apply on UCAS
+      caption: If a course is not available on Apply, we should direct candidates to UCAS.
+    - text: Apply for this course
+      caption: Updated interstitial that makes the two different options clearer.
+    - text: You selected a course
+      caption: If a candidate coming from Find is already signed in, we should take them to a page confirming their course choice.
+    - text: Find a course
+      caption: The link to Find should open in a new window.
 ---
 
 During the 2019/20 and 2020/21 recruitment cycles, providers can offer training courses through UCAS Teacher Training and/or Apply.
@@ -73,30 +89,3 @@ If a candidate selects a course that isn’t available on Apply, we tell them th
 ## User journey
 
 ![User journey flow diagram](flow.svg)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Start page",
-    caption: "With an additional link pointing users to the list of available providers."
-  }, {
-    id: "training-providers-available-through-apply-for-teacher-training",
-    text: "Training providers available through Apply",
-    caption: "With additional guidance about the two services."
-  }, {
-    text: "We suggest you choose a course first",
-    caption: "We encourage new users coming from the start page to choose a course before continuing with the rest of their application."
-  }, {
-    text: "You need to apply on UCAS",
-    caption: "If a course is not available on Apply, we should direct candidates to UCAS."
-  }, {
-    text: "Apply for this course",
-    caption: "Updated interstitial that makes the two different options clearer."
-  }, {
-    text: "You selected a course",
-    caption: "If a candidate coming from Find is already signed in, we should take them to a page confirming their course choice."
-  }, {
-    text: "Find a course",
-    caption: "The link to Find should open in a new window."
-  }]
-}) }}

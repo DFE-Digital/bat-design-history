@@ -1,15 +1,11 @@
 ---
 title: Work history
 description: Adding work history and explaining gaps.
+screenshots:
+  items:
+    - Work history
+    - 5 year gap
+    - Add job
+    - Review work history
+    - Explain gap in work history
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Work history" },
-    { text: "5 year gap" },
-    { text: "Add job" },
-    { text: "Review work history" },
-    { text: "Explain gap in work history" }
-  ]
-}) }}

@@ -2,6 +2,12 @@
 title: Improvements for representing disability, safeguarding and interview information
 description: A series of changes to the disability, interview needs and safeguarding sections. Plus removing the candidate guidance blocks.
 date: 2020-12-09
+screenshots:
+  items:
+    - text: Everything provided, user lacks permission to view safeguarding information
+      src: application-list--1.png
+    - text: Some information not provided, user has permission to view safeguarding information
+      src: application-list--1.png
 ---
 
 The original task was to make it easier to understand whether the candidate had been asked questions relating to disability, safeguarding information and interview needs.
@@ -113,18 +119,3 @@ As we’ve worked on this, we’ve discussed the fact that we’re not storing e
 Since the candidate service is still being iterated, this means that we risk the chance of misrepresenting a candidate’s answers over time. The answer will remain the same, but the question it appears to be answering will change.
 
 This risk also applies to other parts of the application details which are not covered in this piece of work.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Everything provided, user lacks permission to view safeguarding information",
-    img: {
-      src: "application-list--1.png"
-    }
-  }, {
-    text: "Some information not provided, user has permission to view safeguarding information",
-    img: {
-      src: "application-list--1.png"
-    }
-  }]
-}) }}

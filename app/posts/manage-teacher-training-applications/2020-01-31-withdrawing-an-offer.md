@@ -3,8 +3,15 @@ title: Withdrawing an offer
 description: Flow for withdrawing an offer.
 date: 2020-01-31
 tags:
-- awaiting-validation
-- MN002
+  - awaiting-validation
+  - MN002
+screenshots:
+  items:
+    - Application in offered state
+    - Edit response
+    - Withdraw offer
+    - Confirm withdrawal
+    - Application in withdrawn state
 ---
 
 This flow shows how a provider can withdraw their offer.
@@ -20,18 +27,3 @@ This flow shows how a provider can withdraw their offer.
 
 * Offer withdrawn
 * Application withdrawn
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application in offered state"
-  }, {
-    text: "Edit response"
-  }, {
-    text: "Withdraw offer"
-  }, {
-    text: "Confirm withdrawal"
-  }, {
-    text: "Application in withdrawn state"
-  }]
-}) }}

@@ -4,10 +4,10 @@ description: Making allowances for providers with bespoke application processes.
 date: 2020-05-27
 related:
   items:
-  - text: Trello card
-    href: https://trello.com/c/ksa6MOhH/3424-where-do-candidates-apply-for-a-course
+    - text: Trello card
+      href: https://trello.com/c/ksa6MOhH/3424-where-do-candidates-apply-for-a-course
 tags:
- - PN009
+  - PN009
 ---
 
 Two organisations have recently indicated their preference for candidates to apply in a specific way other than through UCAS.

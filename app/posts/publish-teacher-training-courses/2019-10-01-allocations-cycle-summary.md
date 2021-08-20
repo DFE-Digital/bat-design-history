@@ -4,10 +4,10 @@ description: A summary of the request process followed for this cycle.
 date: 2019-10-01
 related:
   items:
-  - text: Research playbacks
-    href: https://drive.google.com/drive/u/0/folders/13m8XwzRyoNHtncoGVsomBhFMJaSSrMpZ
-  - text: Raw research notes and audio/video
-    href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
+    - text: Research playbacks
+      href: https://drive.google.com/drive/u/0/folders/13m8XwzRyoNHtncoGVsomBhFMJaSSrMpZ
+    - text: Raw research notes and audio/video
+      href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
 ---
 
 A summary of the process followed for the 2020 – 2021 recruitment cycle.

@@ -3,6 +3,24 @@ layout: page
 title: In what order should we build the Edit screens?
 description: List edit screens with their complexity and priority.
 date: 2019-04-19
+screenshots:
+  items:
+    - Level and SEND
+    - Subject
+    - Languages
+    - Age range
+    - Outcome
+    - Fee or salary
+    - Apprenticeship
+    - Full time or part time
+    - Locations
+    - Accredited body
+    - Applications open
+    - UCAS GCSEs pending
+    - UCAS Equivalency tests
+    - Course start date
+    - Title
+    - Confirm your changes
 ---
 
 [Edit screen workflows in a Google Drawing](https://docs.google.com/drawings/d/1OrJYSTmRSJD2GEAWFnr2lXLNo7A9J9GDsPMQUm0Pi0M/edit) and the [new course flow](https://docs.google.com/drawings/d/1DAhz464j1XDyQPoOH0adIwAceUwuGU1rqsWkVn8ZQ8I/edit) for context.
@@ -43,25 +61,3 @@ Further education screens are probably out of scope for MVP.
 | [Start date](#course-start-date) | Rarely edited | Low | Low | No |
 | [Title](#title) | Changes to titles need to be approved | Medium | High | No |
 | [Confirm changes](#confirm-your-change) | All edits must be summarised before confirming | High | High | -- |
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Level and SEND" },
-    { text: "Subject" },
-    { text: "Languages" },
-    { text: "Age range" },
-    { text: "Outcome" },
-    { text: "Fee or salary" },
-    { text: "Apprenticeship" },
-    { text: "Full time or part time" },
-    { text: "Locations" },
-    { text: "Accredited body" },
-    { text: "Applications open" },
-    { text: "UCAS GCSEs pending" },
-    { text: "UCAS Equivalency tests" },
-    { text: "Course start date" },
-    { text: "Title" },
-    { text: "Confirm your changes" }
-  ]
-}) }}

@@ -2,14 +2,34 @@
 title: Applying again (Apply 2)
 description: Providing an option for unsuccessful applicants to apply again.
 date: 2020-03-16
+tags:
+  - AN022
+screenshots:
+  items:
+    - text: Apply again banner
+      src: 01-apply-again-banner.png
+    - text: Do you want to apply again?
+      caption: |
+        [We’ve iterated this page](/apply-for-teacher-training/apply-again-course-first#do-you-want-to-apply-again) to make it more aspirational and to suggest that applying again is a continuation from the first application.
+      src: 02-apply-again-page.png
+    - text: Your new application (application copied)
+      src: 03-application-copied.png
+    - text: With one previous application
+      src: 04-with-one-previous-application.png
+    - text: A single course choice
+      src: 05-a-single-course-choice.png
+    - text: A single course added
+      src: 06-a-single-course-added.png
+    - text: A single course in review
+      src: 07-a-single-course-in-review.png
+    - text: References, 1 received and 1 replaced
+      src: 08-references-received-or-replaced.png
 related:
   items:
-    - text: 'Prototype PR'
+    - text: Prototype pull request
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/363
     - text: Research playback
       href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
-tags:
-- AN022
 ---
 
 If a candidate is not offered an interview by any of their initial 3 choices (or chooses not to accept an offer or withdraws their application), they can move to a secondary application phase. UCAS calls this ‘Apply 2’.
@@ -99,35 +119,3 @@ It might be possible for a candidate to apply to a course from Find when they ar
 * Make received references read only (you can delete but not change any other aspect)
 
 [Our review of the service](/apply-for-teacher-training/changes-for-apply-2) highlighted further changes for the ‘Apply again’ context.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "Apply again banner",
-      img: { src: "01-apply-again-banner.png" }
-    }, {
-      text: "Do you want to apply again?",
-      img: { src: "02-apply-again-page.png" },
-      caption: '
-[We’ve iterated this page](/apply-for-teacher-training/apply-again-course-first#do-you-want-to-apply-again) to make it more aspirational and to suggest that applying again is a continuation from the first application.
-      '
-    }, {
-      text: "Your new application (application copied)",
-      img: { src: "03-application-copied.png" }
-    }, {
-      text: "With one previous application",
-      img: { src: "04-with-one-previous-application.png" }
-    }, {
-      text: "A single course choice",
-      img: { src: "05-a-single-course-choice.png" }
-    }, {
-      text: "A single course added",
-      img: { src: "06-a-single-course-added.png" }
-    }, {
-      text: "A single course in review",
-      img: { src: "07-a-single-course-in-review.png" }
-    }, {
-      text: "References, 1 received and 1 replaced",
-      img: { src: "08-references-received-or-replaced.png" }
-    }]
-}) }}

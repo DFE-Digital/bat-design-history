@@ -3,6 +3,13 @@ title: Adding users
 description: First iteration of letting users invite other users to their organisation(s) to help manage applications.
 date: 2020-01-27
 tags: awaiting-validation
+screenshots:
+  items:
+    - text: User list
+      caption: The provider column disappears if the user is part of just one organisation
+    - text: Add new user
+      caption: The provider checkboxes disappear if the user is part of just one organisation
+    - text: Success message
 ---
 
 First iteration to let users add more users to their organisation(s) to help them manage applications without relying on support agents to setup accounts.
@@ -26,16 +33,3 @@ The ‘Users’ section in the navigation menu only appears if the user can mana
 1 participant so far. Was able to invite a user without a problem. The issue of who would be able to remove users was raised.
 
 [Research on Lookback](https://lookback.io/watch/j5Z8YfSp4g85kEYQn)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "User list",
-    caption: "The provider column disappears if the user is part of just one organisation."
-  }, {
-    text: "Add new user",
-    caption: "The provider checkboxes disappear if the user is part of just one organisation."
-  }, {
-    text: "Success message"
-  }]
-}) }}

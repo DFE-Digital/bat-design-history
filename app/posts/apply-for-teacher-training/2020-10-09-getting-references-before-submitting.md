@@ -3,15 +3,93 @@ title: Getting references before submitting an application
 description: Removing the delay between submitting an application and it reaching providers.
 date: 2020-10-09
 tags:
-- AN024
-- AN023
-- AN013
-- AN010
+  - AN024
+  - AN023
+  - AN013
+  - AN010
+screenshots:
+  - title: "Screenshots: Requesting a reference"
+    items:
+      - id: your-application-incomplete
+        text: ‘Your application’ page with no reference requests made or started
+        caption: While incomplete the prompt for this section is ‘Add your references’
+      - id: request-start
+        text: Choose your referees
+        caption: Before adding a referee, we give some guidance about academic and character references, suggest contacting referees beforehand, and remind candidates that they can make as many requests as they like
+      - id: request-type
+        text: What kind of referee do you want to add?
+      - id: request-name
+        text: What is the referee’s name?
+      - id: request-email
+        text: What is the referee’s email address?
+      - id: request-relationship
+        text: How do you know this referee and how long have you known them?
+      - id: request-review
+        text: Check your answers before sending your request
+        caption: Candidates have the option to request a reference now, or at a later date
+      - id: request-candidate-name
+        text: Tell the referee your name
+        caption: If the candidate hasn’t added their personal details yet, we ask for their first and last name before sending a reference request. This information will populate the same questions in the ‘Personal details’ section.
+  - title: "Screenshots: Tracking and managing reference requests"
+    items:
+      - id: your-application-in-progress
+        text: ‘Your application’ page with requests in progress
+        caption: While in progress the prompt for this section is ‘Manage your references’
+      - id: review-in-progress
+        text: Reviewing references in progress
+        caption: Until 2 references have been given, candidates have the option to add another referee
+      - id: summary-not-requested-yet
+        text: "Reference summary card: Not requested yet"
+        caption: In this state, a referee can be deleted, or the request can be sent
+      - id: summary-awaiting-response
+        text: "Reference summary card: Awaiting response"
+        caption: In this state, a reference can be cancelled. Candidates can also send a reminder if they haven’t done so yet
+      - id: summary-reference-overdue
+        text: "Reference summary card: Reference overdue"
+        caption: In this state, a reference can be cancelled. Candidates can also send a reminder if they haven’t done so yet
+      - id: summary-reference-declined
+        text: "Reference summary card: Reference declined"
+        caption: In this state, a reference can be deleted
+      - id: summary-request-failed
+        text: "Reference summary card: Request failed"
+        caption: In this state, a reference can be deleted. Candidates can also edit the email address and/or send their request again.
+      - id: summary-request-cancelled
+        text: "Reference summary card: Request cancelled"
+        caption: In this state (resulting if the candidate cancels their request, or cancelled by us in the application has been carried over from the previous cycle), a reference can be deleted. Candidates can also send their request again.
+      - id: summary-reference-given
+        text: "Reference summary card: Reference given"
+      - id: action-delete-referee
+        text: Delete a referee
+      - id: action-request
+        text: Request a reference
+      - id: action-nudge
+        text: Send a reminder email
+        caption: This page shows the date the next automated reminder will be sent, so that candidates don’t send an unnecessary reminder
+      - id: action-cancel
+        text: Cancel a reference request
+      - id: action-delete-request
+        text: Delete a reference request
+  - title: "Screenshots: Submitting an application"
+    items:
+      - id: your-application-completed
+        text: ‘Your application’ page with 2 references given
+        caption: When completed the prompt for this section is ‘Review your references’
+      - id: review-completed
+        text: Reviewing completed references
+      - id: review-your-application
+        text: ’Review your application’ page with only the 2 given references shown
+        caption: When reviewing an application, only given references are shown, and reference summary cards do not show the request history
+      - id: send-application
+        text: ‘Send application’ page
+        caption: Content has been updated to say ‘Send application’ rather than ‘Submit application’, and to make it clear that it will be sent directly to the provider(s)
+      - id: confirmation
+        text: Confirmation page
+        caption: Content has been updated to remove the previous guidance about chasing references
 related:
   items:
-  - text: 💔 Decoupled references
-    href: https://trello.com/c/bPmL433p
-    description: Card on Trello that captures all of the work we did to research, design and implement this change.
+    - text: 💔 Decoupled references
+      href: https://trello.com/c/bPmL433p
+      description: Card on Trello that captures all of the work we did to research, design and implement this change.
 ---
 
 Obtaining references is a pain point for many candidates. Identifying appropriate referees can be difficult, especially for recent graduates and candidates who have been out of the workplace. Once they have been identified, ensuring they respond, can again be challenging.
@@ -100,123 +178,6 @@ We’ll know these changes work if:
 * The overall time it takes to get a reference is reduced
 * The overall time it takes to complete an application is reduced
 * The overall time it takes for a candidate to start an application to it reaching a provider is reduced
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  title: "Design: Requesting a reference",
-  headingLevel: 2,
-  items: [{
-    id: "your-application-incomplete",
-    text: "‘Your application’ page with no reference requests made or started",
-    caption: "While incomplete the prompt for this section is ‘Add your references’."
-  }, {
-    id: "request-start",
-    text: "Choose your referees",
-    caption: "Before adding a referee, we give some guidance about academic and character references, suggest contacting referees beforehand, and remind candidates that they can make as many requests as they like."
-  }, {
-    id: "request-type",
-    text: "What kind of referee do you want to add?"
-  }, {
-    id: "request-name",
-    text: "What is the referee’s name?"
-  }, {
-    id: "request-email",
-    text: "What is the referee’s email address?"
-  }, {
-    id: "request-relationship",
-    text: "How do you know this referee and how long have you known them?"
-  }, {
-    id: "request-review",
-    text: "Check your answers before sending your request",
-    caption: "Candidates have the option to request a reference now, or at a later date."
-  }, {
-    id: "request-candidate-name",
-    text: "Tell the referee your name",
-    caption: "If the candidate hasn’t added their personal details yet, we ask for their first and last name before sending a reference request. This information will populate the same questions in the ‘Personal details’ section."
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Design: Tracking and managing reference requests",
-  headingLevel: 2,
-  items: [{
-    id: "your-application-in-progress",
-    text: "‘Your application’ page with requests in progress",
-    caption: "While in progress the prompt for this section is ‘Manage your references’."
-  }, {
-    id: "review-in-progress",
-    text: "Reviewing references in progress",
-    caption: "Until 2 references have been given, candidates have the option to add another referee"
-  }, {
-    id: "summary-not-requested-yet",
-    text: "Reference summary card: Not requested yet",
-    caption: "In this state, a referee can be deleted, or the request can be sent."
-  }, {
-    id: "summary-awaiting-response",
-    text: "Reference summary card: Awaiting response",
-    caption: "In this state, a reference can be cancelled. Candidates can also send a reminder if they haven’t done so yet."
-  }, {
-    id: "summary-reference-overdue",
-    text: "Reference summary card: Reference overdue",
-    caption: "In this state, a reference can be cancelled. Candidates can also send a reminder if they haven’t done so yet."
-  }, {
-    id: "summary-reference-declined",
-    text: "Reference summary card: Reference declined",
-    caption: "In this state, a reference can be deleted."
-  }, {
-    id: "summary-request-failed",
-    text: "Reference summary card: Request failed",
-    caption: "In this state, a reference can be deleted. Candidates can also edit the email address and/or send their request again."
-  }, {
-    id: "summary-request-cancelled",
-    text: "Reference summary card: Request cancelled",
-    caption: "In this state (resulting if the candidate cancels their request, or cancelled by us in the application has been carried over from the previous cycle), a reference can be deleted. Candidates can also send their request again."
-  }, {
-    id: "summary-reference-given",
-    text: "Reference summary card: Reference given"
-  }, {
-    id: "action-delete-referee",
-    text: "Delete a referee"
-  }, {
-    id: "action-request",
-    text: "Request a reference"
-  }, {
-    id: "action-nudge",
-    text: "Send a reminder email",
-    caption: "This page shows the date the next automated reminder will be sent, so that candidates don’t send an unnecessary reminder."
-  }, {
-    id: "action-cancel",
-    text: "Cancel a reference request"
-  }, {
-    id: "action-delete-request",
-    text: "Delete a reference request"
-  }]
-}) }}
-
-{{ appScreenshots({
-  title: "Design: Submitting an application",
-  headingLevel: 2,
-  items: [{
-    id: "your-application-completed",
-    text: "‘Your application’ page with 2 references given",
-    caption: "When completed the prompt for this section is ‘Review your references’."
-  }, {
-    id: "review-completed",
-    text: "Reviewing completed references"
-  }, {
-    id: "review-your-application",
-    text: "’Review your application’ page with only the 2 given references shown",
-    caption: "When reviewing an application, only given references are shown, and reference summary cards do not show the request history."
-  }, {
-    id: "send-application",
-    text: "‘Send application’ page",
-    caption: "Content has been updated to say ‘Send application’ rather than ‘Submit application’, and to make it clear that it will be sent directly to the provider(s)."
-  }, {
-    id: "confirmation",
-    text: "Confirmation page",
-    caption: "Content has been updated to remove the previous guidance about chasing references."
-  }]
-}) }}
 
 ## Emails
 

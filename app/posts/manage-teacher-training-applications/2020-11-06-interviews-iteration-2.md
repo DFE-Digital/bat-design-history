@@ -2,6 +2,36 @@
 title: Interviews iteration 2
 description: Various improvements to the way interviews work
 date: 2020-11-06
+screenshots:
+  items:
+    - text: Application list
+      src: application-list.png
+    - text: Interview page when no interviews have been set up
+      src: interviews-page--no-interviews.png
+    - text: "Prompt: when in the received state"
+      src: prompt--received.png
+    - text: "Set up interview: step 1"
+      src: set-up-interview--1.png
+    - text: "Set up interview: check answers"
+      src: set-up-interview--2.png
+    - text: "Set up interview: success message on the interviews page"
+      src: set-up-interview--3.png
+    - text: "Prompt: when in the interviewing state"
+      src: prompt--interviewing.png
+    - text: "Cancelling an interview: step 1"
+      src: cancel--1.png
+    - text: "Cancelling an interview: check answers"
+      src: cancel--2.png
+    - text: "Cancelling an interview: success message on interviews page"
+      src: cancel--3.png
+    - text: Changing an interview :step 1
+      src: changing--1.png
+    - text: "Changing an interview: check answers"
+      src: changing--2.png
+    - text: "Changing an interview: success message on interviews page"
+      src: changing--3.png
+    - text: Interview list page
+      src: interview-list-page.png
 ---
 
 This post documents various improvements to the way interviews work. [View initial iteration](/manage-teacher-training-applications/interviews).
@@ -91,78 +121,3 @@ This is something we’ll keep an eye on with this new iteration.
 - Should a cancelled interview disappear from the UI or get marked as cancelled?
 - The interview list page needs to show course details.
 - Use or don’t use an ‘article’ for the button text - be consistent.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list",
-    img: {
-      src: "application-list.png"
-    }
-  }, {
-    text: "Interview page when no interviews have been set up",
-    img: {
-      src: "interviews-page--no-interviews.png"
-    }
-  }, {
-    text: "Prompt: when in the received state",
-    img: {
-      src: "prompt--received.png"
-    }
-  }, {
-    text: "Set up interview: step 1",
-    img: {
-      src: "set-up-interview--1.png"
-    }
-  }, {
-    text: "Set up interview: check answers",
-    img: {
-      src: "set-up-interview--2.png"
-    }
-  }, {
-    text: "Set up interview: success message on the interviews page",
-    img: {
-      src: "set-up-interview--3.png"
-    }
-  }, {
-    text: "Prompt: when in the interviewing state",
-    img: {
-      src: "prompt--interviewing.png"
-    }
-  }, {
-    text: "Cancelling an interview: step 1",
-    img: {
-      src: "cancel--1.png"
-    }
-  }, {
-    text: "Cancelling an interview: check answers",
-    img: {
-      src: "cancel--2.png"
-    }
-  }, {
-    text: "Cancelling an interview: success message on interviews page",
-    img: {
-      src: "cancel--3.png"
-    }
-  }, {
-    text: "Changing an interview :step 1",
-    img: {
-      src: "changing--1.png"
-    }
-  }, {
-    text: "Changing an interview: check answers",
-    img: {
-      src: "changing--2.png"
-    }
-  }, {
-    text: "Changing an interview: success message on interviews page",
-    img: {
-      src: "changing--3.png"
-    }
-  }, {
-    text: "Interview list page",
-    img: {
-      src: "interview-list-page.png"
-    }
-  }]
-}) }}

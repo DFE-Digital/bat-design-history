@@ -4,8 +4,8 @@ description: The testing of our designs of deferrals, switching cycles and the t
 date: 2020-07-29
 related:
   items:
-  - text: End of cycle exploratory research
-    href: /manage-teacher-training-applications/end-of-cycle-exploratory-research/
+    - text: End of cycle exploratory research
+      href: /manage-teacher-training-applications/end-of-cycle-exploratory-research/
 ---
 
 ## Previous research

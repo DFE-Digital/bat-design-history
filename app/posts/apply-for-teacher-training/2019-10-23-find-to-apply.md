@@ -2,10 +2,21 @@
 title: From Find to Apply
 description: User journey and screenshots for a new user.
 date: 2019-10-23
+screenshots:
+  items:
+    - Choose how to apply
+    - Check you can use GOV.UK Apply
+    - Give us your email
+    - Check your email
+    - Confirm email address
+    - Account created
+    - You selected a course
+    - Pick a course location
+    - Course choices
 related:
   items:
-  - text: Trello ticket
-    href: https://trello.com/c/h6HhGrR6
+    - text: Trello ticket
+      href: https://trello.com/c/h6HhGrR6
 ---
 
 An iteration following [an early 2019 design of the journey](/find-teacher-training/choose-how-to-apply-2).
@@ -26,18 +37,3 @@ To skip the start page, the content on the Apply and Find start pages must be co
 ![User journey diagram](/apply-for-teacher-training/find-to-apply/find-to-apply-journey.svg)
 
 [Google drawing](https://docs.google.com/drawings/d/1d30V3qtVYQNL_gWIMuGjgjm2doWMIDyIyYWchIKnPe8)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Choose how to apply" },
-    { text: "Check you can use GOV.UK Apply" },
-    { text: "Give us your email" },
-    { text: "Check your email" },
-    { text: "Confirm email address" },
-    { text: "Account created" },
-    { text: "You selected a course" },
-    { text: "Pick a course location" },
-    { text: "Course choices" }
-  ]
-}) }}

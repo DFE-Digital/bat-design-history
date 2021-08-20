@@ -4,14 +4,14 @@ description: Validating existing assessment only user needs and testing the prot
 date: 2020-10-06
 related:
   items:
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/1_iH4sW9sHr-ICvm8pwA5UaJFToWsQjf-P8U2A3fbYXw/
-  - text: Lookback recordings
-    href: https://lookback.io/org/dfe-digital/projects/registerprovidersaousability/rounds
-  - text: Raw findings
-    href: https://drive.google.com/drive/u/0/folders/1dGLTkJxFWyUb4mZ9rpBtk0ao7shjzibH
-  - text: User needs
-    href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/1_iH4sW9sHr-ICvm8pwA5UaJFToWsQjf-P8U2A3fbYXw/
+    - text: Lookback recordings
+      href: https://lookback.io/org/dfe-digital/projects/registerprovidersaousability/rounds
+    - text: Raw findings
+      href: https://drive.google.com/drive/u/0/folders/1dGLTkJxFWyUb4mZ9rpBtk0ao7shjzibH
+    - text: User needs
+      href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
 ---
 
 Our intention in this first round of research was to answer the following questions:
@@ -72,7 +72,7 @@ Data requirements for international trainees need to be discussed with data cons
 
 ### Tracking TRN
 
-Some users feel responsible to communicate the TRN to the trainees, others expect this to be done by the DfE. As a result users place different weight on the importance of tracking the TRN. Although at point of testing our content was incorrect (we stated that DfE does not send the TRNs to trainees, we now know that it does send it by post or email depending on the route they’re on), users responded positively to being shown content around next steps. 
+Some users feel responsible to communicate the TRN to the trainees, others expect this to be done by the DfE. As a result users place different weight on the importance of tracking the TRN. Although at point of testing our content was incorrect (we stated that DfE does not send the TRNs to trainees, we now know that it does send it by post or email depending on the route they’re on), users responded positively to being shown content around next steps.
 
 > “Typically I have to keep going in every couple of days to check if it’s been generated. It would be nice to have an automated email, or for the TRN to go directly to the trainee that I’ve inputted.”
 

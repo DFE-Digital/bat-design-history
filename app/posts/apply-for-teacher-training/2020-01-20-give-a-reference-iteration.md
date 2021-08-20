@@ -3,9 +3,23 @@ title: Give a teacher training reference (iteration)
 description: Simplifying the previous design.
 date: 2020-01-20
 tags:
-- awaiting-validation
-- AN012
-- AN013
+  - awaiting-validation
+  - AN012
+  - AN013
+screenshots:
+  items:
+    - text: Email sent
+      src: 00-email-sent.png
+    - text: Reference form
+      src: 01-reference-form.png
+    - text: Reference submitted
+      src: 02-reference-submitted.png
+    - text: Consent given for research
+      src: 03-consent-given-for-research.png
+    - text: No consent for research
+      src: 04-no-consent-for-research.png
+    - text: Decline to give reference
+      src: 05-decline-to-give-reference.png
 related:
   items:
     - text: Provider needs research playback
@@ -70,26 +84,3 @@ Providers need referees to clarify that candidates are safe to work with childre
 Providers need references to be personalised and tailored to teacher training context to determine a candidate’s suitability to train to teach.
 
 Providers need to validate that references are coming from an official source and so they don’t have to follow up with the candidate or referee.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Email sent",
-    img: { src: "00-email-sent.png" }
-  }, {
-    text: "Reference form",
-    img: { src: "01-reference-form.png" }
-  }, {
-    text: "Reference submitted",
-    img: { src: "02-reference-submitted.png" }
-  }, {
-    text: "Consent given for research",
-    img: { src: "03-consent-given-for-research.png" }
-  }, {
-    text: "No consent for research",
-    img: { src: "04-no-consent-for-research.png" }
-  }, {
-    text: "Decline to give reference",
-    img: { src: "05-decline-to-give-reference.png" }
-  }]
-}) }}

@@ -2,6 +2,10 @@
 title: Improving the activity log and timeline
 description: Some improvements to the activity log and timeline driven by the need accomodate interviews that can be changed or cancelled
 date: 2021-03-03
+screenshots:
+  items:
+    - Activity log
+    - Timeline
 ---
 
 When we designed the [interview journeys](/manage-teacher-training-applications/interviews-iteration-3/) we realised the activity log and timeline need to handle events relating to things that can be changed or deleted.
@@ -35,18 +39,3 @@ We’ll consider:
 - adding the ability to filter and search the activity log
 - putting further details in the timeline and event log for all events, such as marking a condition as met or submitting an application
 - adding content to past events to spell out that something has changed or been deleted
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Activity log",
-    img: {
-      src: "activity-log.png"
-    }
-  }, {
-    text: "Timeline",
-    img: {
-      src: "timeline.png"
-    }
-  }]
-}) }}

@@ -2,6 +2,18 @@
 title: An interface for minimal service provision
 description: Looking towards rolling out the pilot.
 date: 2019-10-15
+screenshots:
+  items:
+    - Applications
+    - Application
+    - Respond to application
+    - Reject application
+    - Confirm rejection
+    - Make an offer
+    - Confirm offer
+    - Application (success message)
+    - Candidate accepted offer (email)
+    - Candidate rejected offer (email)
 ---
 
 Based on research findings from testing earlier versions of the prototype, and having determined the need for a minimal service for managing applications even at the very start of the pilot with SCITTs, we created an updated and stripped-down version of the interface.
@@ -54,19 +66,3 @@ Unconditional offers are the product of a UCAS process forked from the undergrad
 Providers also like to make informal recommendations to candidates, such as the completion of a SKE. As these can be undertaken at the same time as the course, they are not a precondition of offer.
 
 With this in mind, we consolidated the two offer types into one, allowing providers to make (non-binding) recommendations and (binding) academic conditions, alongside the standard conditions in a single offer.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Applications" },
-    { text: "Application" },
-    { text: "Respond to application" },
-    { text: "Reject application" },
-    { text: "Confirm rejection" },
-    { text: "Make an offer" },
-    { text: "Confirm offer" },
-    { text: "Application (success message)" },
-    { text: "Candidate accepted offer (email)" },
-    { text: "Candidate rejected offer (email)" }
-  ]
-}) }}

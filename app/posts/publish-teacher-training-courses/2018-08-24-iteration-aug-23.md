@@ -2,6 +2,15 @@
 title: Iteration – 23 August
 description: Trying to bring ‘About your organisation’ into the user journey.
 date: 2018-08-24
+screenshots:
+  items:
+    - text: Organisation
+    - text: About your organisation
+    - text: Edit about your organisation
+    - text: Course
+      caption: Note the similarity with ‘About your organisation’ and the orange draft status
+    - text: Preview
+    - text: Course length and fees
 ---
 
 In this iteration we:
@@ -32,27 +41,3 @@ The [previous design had two calls to action](/publish-teacher-training-courses/
 We also needed to show what information we’d imported from UCAS about this organisation (eg contact details). There wasn’t an obvious place to put this.
 
 The new design creates an overview page containing a summary and the publishing workflow. Editing is moved to a child page, separating the save and publish actions in the same way a course does. The design is now consistent with courses. On the overview there is space to put imported UCAS data, like on a course.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Organisation",
-    img: { src: "organisation.png" }
-  }, {
-    text: "About your organisation",
-    img: { src: "about-your-organisation.png" }
-  }, {
-    text: "Edit about your organisation",
-    img: { src: "edit-about-your-organisation.png" }
-  }, {
-    text: "Course",
-    img: { src: "course.png" },
-    caption: "Note the similarity with ‘About your organisation’ and the orange draft status."
-  }, {
-    text: "Preview",
-    img: { src: "preview.png" }
-  }, {
-    text: "Course length and fees",
-    img: { src: "course-length-and-fees.png" }
-  }]
-}) }}

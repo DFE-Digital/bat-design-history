@@ -2,6 +2,40 @@
 title: Setting up permissions (iteration 4)
 description: Showing a confirmation page after agreeing to the data sharing agreement, not asking users to setup permissions when they both run and ratify their courses, explaining the consequences of inviting someone from outside the organisation and various other content improvements.
 date: 2020-05-12
+screenshots:
+  items:
+    - text: Data sharing agreement
+      src: data-sharing.png
+    - text: Data sharing confirmation page
+      src: data-sharing-confirmation-page.png
+    - text: Organisation set up welcome page
+      src: organisation-setup-welcome-page.png
+    - text: Organisation set up information page
+      src: organisation-setup-information-page.png
+    - text: Organisation set up permissions form
+      src: organisation-setup-permissions-form.png
+    - text: Organisation set up check answers page
+      src: organisation-setup-check-answers-page.png
+    - text: Organisation set up confirmation page
+      src: organisation-setup-confirmation-page.png
+    - text: User list page
+      src: user-list-page.png
+    - text: "Invite user: basic details"
+      src: invite-user-basic-details.png
+    - text: "Invite user: organisation page"
+      src: invite-user-organisation-page.png
+    - text: "Invite user: permissions page 1"
+      src: invite-user-permissions-page-1.png
+    - text: "Invite user: permissions page 2"
+      src: invite-user-permissions-page-2.png
+    - text: "Invite user: check answers page"
+      src: invite-user-check-answers-page.png
+    - text: Organisation list page
+      src: organisation-list-page.png
+    - text: Organisation details example 1
+      src: organisation-details-page-1.png
+    - text: Organisation details example 2
+      src: organisation-details-page-2.png
 ---
 
 Previous iterations:
@@ -108,88 +142,3 @@ When editing a user:
 
 * remove the ‘Organisations this user has access to...’ line on the details page
 * change the ‘change permissions’ page to read just ‘Change permissions’
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Data sharing agreement",
-    img: {
-      src: "data-sharing.png"
-    }
-  }, {
-    text: "Data sharing confirmation page",
-    img: {
-      src: "data-sharing-confirmation-page.png"
-    }
-  }, {
-    text: "Organisation set up welcome page",
-    img: {
-      src: "organisation-setup-welcome-page.png"
-    }
-  }, {
-    text: "Organisation set up information page",
-    img: {
-      src: "organisation-setup-information-page.png"
-    }
-  }, {
-    text: "Organisation set up permissions form",
-    img: {
-      src: "organisation-setup-permissions-form.png"
-    }
-  }, {
-    text: "Organisation set up check answers page",
-    img: {
-      src: "organisation-setup-check-answers-page.png"
-    }
-  }, {
-    text: "Organisation set up confirmation page",
-    img: {
-      src: "organisation-setup-confirmation-page.png"
-    }
-  }, {
-    text: "User list page",
-    img: {
-      src: "user-list-page.png"
-    }
-  }, {
-    text: "Invite user: basic details",
-    img: {
-      src: "invite-user-basic-details.png"
-    }
-  }, {
-    text: "Invite user: organisation page",
-    img: {
-      src: "invite-user-organisation-page.png"
-    }
-  }, {
-    text: "Invite user: permissions page 1",
-    img: {
-      src: "invite-user-permissions-page-1.png"
-    }
-  }, {
-    text: "Invite user: permissions page 2",
-    img: {
-      src: "invite-user-permissions-page-2.png"
-    }
-  }, {
-    text: "Invite user: check answers page",
-    img: {
-      src: "invite-user-check-answers-page.png"
-    }
-  }, {
-    text: "Organisation list page",
-    img: {
-      src: "organisation-list-page.png"
-    }
-  }, {
-    text: "Organisation details example 1",
-    img: {
-      src: "organisation-details-page-1.png"
-    }
-  }, {
-    text: "Organisation details example 2",
-    img: {
-      src: "organisation-details-page-2.png"
-    }
-  }]
-}) }}

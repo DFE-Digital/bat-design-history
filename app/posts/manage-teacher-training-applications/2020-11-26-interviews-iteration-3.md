@@ -2,6 +2,38 @@
 title: Interviews iteration 3
 description: Various improvements to the way interviews work and getting it ready for development
 date: 2020-11-26
+screenshots:
+  items:
+    - text: Application list
+      src: application-list.png
+    - text: "Prompt: when in the received state"
+      src: prompt--received.png
+    - text: "Set up interview: step 1"
+      src: set-up-interview--1.png
+    - text: "Set up interview: check answers"
+      src: set-up-interview--2.png
+    - text: "Set up interview: success message on the interviews page"
+      src: set-up-interview--3.png
+    - text: "Prompt: when in the interviewing state"
+      src: prompt--interviewing.png
+    - text: "Cancelling an interview: step 1"
+      src: cancel--1.png
+    - text: "Cancelling an interview: check answers"
+      src: cancel--2.png
+    - text: "Cancelling an interview: success message on interviews page"
+      src: cancel--3.png
+    - text: Changing an interview :step 1
+      src: changing--1.png
+    - text: "Changing an interview: check answers"
+      src: changing--2.png
+    - text: "Changing an interview: success message on interviews page"
+      src: changing--3.png
+    - text: Interviews page
+      src: interviews-page.png
+    - text: Interview list page
+      src: interview-schedule-page.png
+    - text: Interview list page - past interviews
+      src: interview-schedule-page--past.png
 ---
 
 {% from "email/macro.njk" import appEmail %}
@@ -149,9 +181,7 @@ The back link on the first page of the set up interview flow works differently d
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "Interview arranged - Preston Teacher Training Consortium",
-  content: "
-
-Dear ((name))
+  content: "Dear ((name))
 
 # Interview arranged
 
@@ -173,9 +203,7 @@ Contact ((provider)) if you have any questions or you will not be able to attend
 
 # Get support
 
-Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) if you have problems applying online or want to give feedback.
-
-  "
+Contact <becomingateacher@digital.education.gov.uk> if you have problems applying online or want to give feedback."
 }) }}
 
 ### Interview details updated
@@ -183,9 +211,7 @@ Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digi
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "Interview details updated - Preston Teacher Training Consortium",
-  content: "
-
-Dear ((name))
+  content: "Dear ((name))
 
 # Interview details updated
 
@@ -207,9 +233,7 @@ Contact ((provider)) if you have any questions or you will not be able to attend
 
 # Get support
 
-Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) if you have problems applying online or want to give feedback.
-
-  "
+Contact <becomingateacher@digital.education.gov.uk> if you have problems applying online or want to give feedback."
 }) }}
 
 ### Interview cancelled
@@ -217,9 +241,7 @@ Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digi
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "Interview cancelled – Preston Teacher Training Consortium",
-  content: "
-
-Dear ((name))
+  content: "Dear ((name))
 
 # Interview cancelled
 
@@ -233,9 +255,7 @@ Contact ((provider)) if you have any questions.
 
 # Get support
 
-Contact [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) if you have problems applying online or want to give feedback.
-
-  "
+Contact <becomingateacher@digital.education.gov.uk> if you have problems applying online or want to give feedback."
 }) }}
 
 ## Things to look out for in research
@@ -244,83 +264,3 @@ We need more research to understand if:
 
 - provider users know that the reason for cancelling an interview will be sent to the candidate
 - international candidates need the time zone as part of the interview details
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list",
-    img: {
-      src: "application-list.png"
-    }
-  }, {
-    text: "Prompt: when in the received state",
-    img: {
-      src: "prompt--received.png"
-    }
-  }, {
-    text: "Set up interview: step 1",
-    img: {
-      src: "set-up-interview--1.png"
-    }
-  }, {
-    text: "Set up interview: check answers",
-    img: {
-      src: "set-up-interview--2.png"
-    }
-  }, {
-    text: "Set up interview: success message on the interviews page",
-    img: {
-      src: "set-up-interview--3.png"
-    }
-  }, {
-    text: "Prompt: when in the interviewing state",
-    img: {
-      src: "prompt--interviewing.png"
-    }
-  }, {
-    text: "Cancelling an interview: step 1",
-    img: {
-      src: "cancel--1.png"
-    }
-  }, {
-    text: "Cancelling an interview: check answers",
-    img: {
-      src: "cancel--2.png"
-    }
-  }, {
-    text: "Cancelling an interview: success message on interviews page",
-    img: {
-      src: "cancel--3.png"
-    }
-  }, {
-    text: "Changing an interview :step 1",
-    img: {
-      src: "changing--1.png"
-    }
-  }, {
-    text: "Changing an interview: check answers",
-    img: {
-      src: "changing--2.png"
-    }
-  }, {
-    text: "Changing an interview: success message on interviews page",
-    img: {
-      src: "changing--3.png"
-    }
-  }, {
-    text: "Interviews page",
-    img: {
-      src: "interviews-page.png"
-    }
-  }, {
-    text: "Interview list page",
-    img: {
-      src: "interview-schedule-page.png"
-    }
-  }, {
-    text: "Interview list page - past interviews",
-    img: {
-      src: "interview-schedule-page--past.png"
-    }
-  }]
-}) }}

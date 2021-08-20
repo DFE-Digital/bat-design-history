@@ -4,8 +4,6 @@ description: Provide links to the application, offer, note, interview the event 
 date: 2020-12-01
 ---
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-
 See [first iteration](/manage-teacher-training-applications/timeline).
 
 A while ago we added links to each event in the timeline. For example:
