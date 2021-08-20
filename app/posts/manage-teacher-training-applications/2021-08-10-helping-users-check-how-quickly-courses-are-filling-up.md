@@ -7,11 +7,13 @@ tags:
 screenshots:
   items:
     - text: Reports landing page
-      src: reports.png
+      src: reports-landing-page--single-organisation.png
     - text: Reports landing page when the user belongs to multiple organisations
-      src: reports--multi-org.png
+      src: reports-landing-page--multiple-organisations.png
     - text: Data export page now without a link to the HESA export
-      src: export-application-data.png
+      src: export-application-data--single-organisation.png
+    - text: Data export page when the user belongs to multiple organisations
+      src: export-application-data--multiple-organisations.png
     - text: HESA export now with a new breadcrumb
       src: export-hesa-data.png
 ---
@@ -89,5 +91,3 @@ If a course has a partner organisation, it’s shown under the course name as gr
 At the moment the application data export and HESA export work across multiple organisations.
 
 In future these pages will be scoped to a single organisation like the status of active applications report.
-
-
