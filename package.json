@@ -31,8 +31,11 @@
     "start": "npm run watch:files",
     "dev": "npm run watch",
     "lint:javascripts": "standard",
+    "lint:javascripts:fix": "standard --fix",
     "lint:markdown": "markdownlint 'app/**/*.md'",
-    "lint": "npm-run-all lint:*"
+    "lint:markdown:fix": "markdownlint 'app/**/*.md' --fix",
+    "lint": "npm-run-all lint:javascripts lint:markdown",
+    "lint:fix": "npm-run-all lint:javascripts:fix lint:markdown:fix"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",

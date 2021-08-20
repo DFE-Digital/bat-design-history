@@ -1,17 +1,24 @@
 name: Lint
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+on: [pull_request]
 
 jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.event.pull_request.head.ref }}
     - name: Install packages
       run: npm install
-    - name: Run linters
+    - name: Run linters with autofix
+      run: npm run lint:fix
+    - name: Push any fixes
+      run: |
+        git config --global user.email "lint-bot@example.com"
+        git config --global user.name "lint-bot"
+        git add --all
+        git commit -m "Code style fixes" || exit 0
+        git push
+    - name: Re-run linters
       run: npm run lint
