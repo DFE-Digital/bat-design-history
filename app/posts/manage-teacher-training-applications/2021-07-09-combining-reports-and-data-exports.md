@@ -8,6 +8,15 @@ This builds on work we did to [allow users to configure reports and show importa
 
 ## What we did
 
+### Removed the link to the HESA export from the application data export page
+
+Currently, the application data export page has a link to the Higher Education Statistics Agency (HESA) export.
+
+But now the HESA export is accessible directly from the reports page, so we’ve:
+
+- removed the link from the application data export page
+- changed the breadcrumb on the HESA export page
+
 ### Combined the reports and export data sections into one
 
 Previously we had separated the existing ‘export data’ section from the newer ‘reports’.
