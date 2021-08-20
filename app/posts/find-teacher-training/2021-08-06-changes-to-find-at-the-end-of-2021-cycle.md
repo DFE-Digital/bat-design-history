@@ -102,11 +102,6 @@ The ‘Apply for this course’ button is reinstated on course pages.
 
 Candidates can add courses to their application but they cannot submit it until [applications open](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#12-october-2021-at-9am).
 
-{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
-{{ govukInsetText({
-  text: "On clicking 'Apply for this course', users will no longer be asked whether they want to apply on UCAS as it will no longer be a route to apply for teacher training from October 2021."
-}) }}
-
 ## Applications reopen
 
 Candidates can submit applications for courses starting in the 2022 to 2023 academic year when [applications open](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#12-october-2021-at-9am).
