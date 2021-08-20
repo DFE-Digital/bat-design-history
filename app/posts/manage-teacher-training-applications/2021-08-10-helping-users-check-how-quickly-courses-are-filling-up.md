@@ -18,7 +18,7 @@ screenshots:
       src: export-hesa-data.png
 ---
 
-We’ve made some changes to the existing ‘Export data’ area, as part of the work to help users make the application process better.
+We’ve made some changes to the existing ‘Reports’ area, as part of the work to help users make the application process better.
 
 The user need this work aims to address is:
 
@@ -42,10 +42,6 @@ A user might manage the flow by, for example:
 We had already designed and tested a report showing the statuses of applications. These changes were to get the designs ready for an initial release.
 
 ## What we changed
-
-### Changed ‘Export data’ link to ‘Reports’
-
-We renamed the ‘Export data’ section to ‘Reports’ to better reflect that this section includes the new report and not just data exports.
 
 ### Removed the link to the HESA export from the application data export page
 
