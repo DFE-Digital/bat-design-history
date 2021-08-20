@@ -9,7 +9,7 @@ date: 2021-08-19
 * [Dates that affect Find](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#dates-that-affect-find)
 * [Candidates are informed about upcoming deadlines](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-about-upcoming-deadlines)
 * [Candidates are informed that the deadline to apply for the first time has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-informed-that-the-deadline-to-apply-for-the-first-time-has-passed)
-* [Candidates are discouraged from from searching for courses after the deadline to apply again has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-discouraged-from-searching-for-courses-after-the-deadline-to-apply-again-has-passed)
+* [Candidates are discouraged from searching for courses after the deadline to apply again has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-are-discouraged-from-searching-for-courses-after-the-deadline-to-apply-again-has-passed)
 * [Candidates can no longer view courses when the recruitment cycle has ended](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-can-no-longer-view-courses-when-the-recruitment-cycle-has-ended)
 * [Candidates can browse courses when the recruitment cycle begins](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-can-browse-courses-when-the-recruitment-cycle-begins)
 * [Candidates can submit their application when applications open](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#candidates-can-submit-their-application-when-applications-open)
