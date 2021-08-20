@@ -3,19 +3,15 @@ title: Helping users check how quickly courses are filling up
 description: Various changes to get the design of the reports area ready for an initial release
 date: 2021-08-10
 tags:
-- MN027
+  - MN027
 screenshots:
   items:
     - text: Reports landing page
       src: reports-landing-page--single-organisation.png
     - text: Reports landing page when the user belongs to multiple organisations
       src: reports-landing-page--multiple-organisations.png
-    - text: Data export page now without a link to the HESA export
-      src: export-application-data--single-organisation.png
-    - text: Data export page when the user belongs to multiple organisations
-      src: export-application-data--multiple-organisations.png
-    - text: HESA export now with a new breadcrumb
-      src: export-hesa-data.png
+    - text: Status of active applications report
+      src: status-of-active-applications-report.png
 ---
 
 We’ve made some changes to the existing ‘Reports’ area, as part of the work to help users make the application process better.
@@ -43,14 +39,15 @@ We had already designed and tested a report showing the statuses of applications
 
 ## What we changed
 
-### Removed the link to the HESA export from the application data export page
+### Updated the reports landing page
 
-Currently, the application data export page has a link to the Higher Education Statistics Agency (HESA) export.
+This page provides links to the:
 
-But now the HESA export is accessible directly from the reports page, so we’ve:
+- application data export
+- HESA export
+- status of active applications report
 
-- removed the link from the application data export page
-- changed the breadcrumb on the HESA export page
+If the user belongs to multiple organisations, the status of active applications report will be listed under an h2 heading for each organisation.
 
 ### Changed the name of the status report
 
@@ -61,16 +58,6 @@ Research showed that some users expected all statuses to be included, not just t
 By changing the name of the status report to ‘Status of active applications’, users are less likely to expect the report to include statuses like ‘rejected’.
 
 ## How it works
-
-### Reports landing page
-
-This page provides links to the:
-
-- application data export
-- HESA export
-- status of active applications report
-
-If the user belongs to multiple organisations, the status of active applications report will be listed under an h2 heading for each organisation.
 
 ### Status of active applications report
 
