@@ -17,11 +17,11 @@ We have improved the way that we ask uses which course subjects they are interes
 
 Previously, this was done via an [Accordion component](https://design-system.service.gov.uk/components/accordion/). This had sections for Primary, Secondary, Secondary: Modern languages, Further education and Special educations needs and disability (SEND).
 
-![](select-subject-old-closed.png)
+![Screenshot showing existing subject select accordion, with all sections closed](select-subject-old-closed.png)
 
 Opening these sections revealed a set of checkboxes for individual subjects.
 
-![](select-subject-old-all-open.png)
+![Screenshot showing existing subject select accordion, with all sections open](select-subject-old-all-open.png)
 
 ## Issues with the previous design
 
@@ -46,7 +46,7 @@ The accordion design we were using had some [known accessibility issues](https:/
 
 To resolve the issues, we have added an initial question about age group. This allows us to then present a different list of subjects depending upon which age group was selected.
 
-![](subject-flow.png)
+![Flow diagram showing how the new age group and subject question pages are linked together](subject-flow.png)
 
 If a user selects ‘Primary’, we ask a follow-up question about whether they would like to see specialist subjects or not. If they answer Yes, we show the primary specialist subjects, as well as the option to see primary courses without a specialist subject.
 
@@ -70,14 +70,14 @@ In future, we can review usage of this filter, alongside other issues around SEN
 
 If someone wants to teach the primary age group, we ask them if want to find courses with a specialist subject. Having this as a separate question lets us explain what this means, and also means that users who answer ‘No’ can skip straight to the list of courses.
 
-![](primary.png)
+![Screenshot of the new page asking users if they would like to find Primary courses that include a specialist subject](primary.png)
 
 If a user answers yes, they are shown a list of the specialist subjects. A checkbox at the bottom allows them to also see primary courses without a specialist subject.
 
-![](primary-specialist.png)
+![Screenshot of the new page asking users what specialist subjects they are interested in](primary-specialist.png)
 
 ## Secondary courses
 
 If someone wants to teach the secondary age group, we show them a list of all the subjects in alphabetical order. Whilst this is a long list, we found in usability tests that users were able to find the subjects they were interested in quickly.
 
-![](secondary.png)
+![Screenshot of the page asking users what secondary subject they are interested in teaching](secondary.png)
