@@ -72,7 +72,7 @@ Candidates applying again after the deadline to apply for the first time will go
 
 ## Candidates are discouraged from searching for courses after the deadline to apply again has passed
 
-Although candidates cannot submit an application after the [deadline to apply again](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#21-september-2021-at-6pm) pas passed, we continue to show course listings so that providers and candidates who’ve already applied can finalise any post-submission activity (such as making and accepting offers).
+Although candidates cannot submit an application after the [deadline to apply again](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#21-september-2021-at-6pm) has passed, we continue to show course listings so that providers and candidates who’ve already applied can finalise any post-submission activity (such as making and accepting offers).
 
 A banner lets candidates know that courses are closed but that they can start or continue applying for the next cycle anyway:
 
@@ -90,7 +90,7 @@ As before, candidates do not go through the ['you selected a course' journey](/f
 
 [When the recruitment cycle ends](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#4-october-2021-at-midnight) candidates can no longer be placed on courses starting in the 2021 to 2022 academic year, so we stop showing the 2021 to 2022 courses.
 
-Anyone trying to visit Find will be informed that courses are closed, but we enable them start or continue an application anyway:
+Anyone trying to visit Find will be informed that courses are closed, but we enable them to start or continue an application anyway:
 
 ![Course listing are not shown when the recruitment cycle ends.](find-does-not-show-courses-when-the-cycle-has-ended.png)
 
