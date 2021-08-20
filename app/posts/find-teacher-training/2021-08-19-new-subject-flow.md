@@ -54,6 +54,8 @@ If a user selects ‘Secondary’, we show all the secondary subjects a single a
 
 If a user selects ‘Further education’, then no further course subject questions are required.
 
+![Screenshot of new page askind users what age group they are interested in teaching](age-group.png)
+
 ## Special educational needs and disability (SEND)
 
 Previously, the ‘Show only courses with a SEND specialism’ checkbox worked as [an additional filter](/find-teacher-training/sen-filter/) to the other subject checkboxes. This meant that if you ticked it as well as a subject, only courses had that subject AND a SEND-specialism were shown. This makes it behave differently from the other subject checkboxes.
