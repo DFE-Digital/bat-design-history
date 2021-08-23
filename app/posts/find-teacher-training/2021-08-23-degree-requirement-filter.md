@@ -12,7 +12,7 @@ Additionally, in research with candidates, we discovered that those with lower d
 
 To address this, for the 2022 to 2023 cycle, we have asked providers to [tell us the minimum degree requirement](/publish-teacher-training-courses/degree-entry-requirements/) for each course as a structured question.
 
-This means that we are now able to let candidates filter courses according to the degree requirements, saving time.
+This means that we are now able to let candidates filter courses according to the degree requirements, saving time. We hope this will mean less applications are unsuccessful due to not meeting the degree entry requirements.
 
 ## First iteration
 
