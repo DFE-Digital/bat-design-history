@@ -10,7 +10,7 @@ Whilst this requirement was described on course pages as part of the entry requi
 
 Additionally, in research with candidates, we discovered that those with lower degree grades, such as 2:2 or a Third, sometimes have to spend a long time sifting through courses in order to find ones that will accept their degree grade.
 
-To address this, for the 2022 to 2023 cycle, we have asked providers to [tell us the minimum degree requirement](/publish-teacher-training-courses/degree-entry-requirements/) for each course as a structured question.
+To address this, for the 2022 to 2023 cycle, we’ve asked providers to [tell us the minimum degree requirement](/publish-teacher-training-courses/degree-entry-requirements/) for each course as a structured question.
 
 This means that we are now able to let candidates filter courses according to the degree requirements, saving time. We hope this will mean less applications are unsuccessful due to not meeting the degree entry requirements.
 
