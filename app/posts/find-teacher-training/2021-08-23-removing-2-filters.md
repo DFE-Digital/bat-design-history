@@ -39,7 +39,7 @@ A ‘Change’ link at the end of the line allows users to change either locatio
 
 We tested the new interface with users, and found no issues. One user used the Change link unprompted. When asked to change the subject, users either used the Change link, or used the back button, which also works fine.
 
-User research also validated the assumption that most users had a fairly fixed idea of the subject they wanted to teach, and often the area too.
+User research also validated the assumption that when searching for courses on Find, most users had a fairly fixed idea of the subject they wanted to teach, and often the area too.
 
 One issue we found was that the ‘New search’ link, which appeared right-aligned opposite ‘Sorted by distance’ on desktop but was more prominent on mobile, was now redundant as it does the same as the ‘Change’ link, and one user clicked it seemingly by accident. We have removed this link.
 
