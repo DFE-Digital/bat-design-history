@@ -1,6 +1,6 @@
 ---
-title: Helping users check where candidates are leaving the application process
-description: We created a report showing how candidates choose to drop out of applying
+title: Helping users check how candidates drop out of the application process
+description: We created a report showing how candidates leave the application process, when the choice is theirs rather than the provider’s
 date: 2021-07-21
 tags:
   - MN028
@@ -14,15 +14,16 @@ screenshots:
       src: candidate-drop-out-report.png
 ---
 
-This work follows on from a report showing the [progress of applications](/providing-status-and-progress-reports-alongside-data-exports).
+This work follows on from the creation of a report showing the [progress of applications](/providing-status-and-progress-reports-alongside-data-exports).
 
-We found that some research participants had trouble understanding that report because it:
+We found that some research participants had trouble understanding the progress report because it:
 
 - included a lot of different status changes and therefore a lot of columns
 - had some headings which were hard to understand
 - could not be laid out in a way which reflected the progression of applications from left to right
+- did not include total applications for comparison
 
-This caused us to look again at the user need we wanted to meet.
+This caused us to look again at the user needs and refine the wording of the need we were trying to meet.
 
 {% set need = collections['user-need'] | slugs(tags) | first %}
 
@@ -34,46 +35,33 @@ This caused us to look again at the user need we wanted to meet.
   status: need.data.status
 }) }}
 
-Providers track and report on candidate progress to understand:
+We decided to concentrate on how candidates leave the application process. This can happen because of an action taken by the provider or the candidate.
 
-- the quality of applications they receive
-- the desirability of their training offer
-- if there are any problems in their sifting process
-- if there are any issues with the conditions they set
-- whether there is any bias in their processes
-- the overall conversion of a course
+Provider actions include:
 
-From research, we’ve found that knowing where candidates drop out of the application process is necessary to improve the process.
+- rejecting applications before interview
+- rejecting applications after interview
+- withdrawing offers
+
+Candidate actions include:
+
+- withdrawing offers - either directly or by asking the provider to do it
+- declining offers
+- failing to meet an offer condition - this could be because the candidate has decided not to continue or because they cannot meet the condition
 
 ## What we did
 
-We decided to concentrate on how candidates leave the application process. This can happen because of a decision made by the provider or the candidate.
-
-Provider decisions include:
-
-- applications that led to a rejection
-- interviews that led to a rejection
-- offers that were withdrawn
-
-Candidate decisions include:
-
-- applications that led to being withdrawn
-- offers that were declined
-- accepted offers that led to candidates not meeting one or more conditions
-
-When a provider rejects a an application the candidate didn’t drop out.
-
-We consider a drop out to occur when a candidate:
+We created a ‘candidate drop out rate’ report, giving data for when a candidate:
 
 - chooses to withdraw their application
 - chooses to decline an offer
 - couldn’t meet one or more conditions of the offer
 
-Candidate drop outs are outside the control of a provider.
-
 ## How it works
 
-### Reports landing page
+We made changes to the reports page, removed the progress report and added the drop out rates report.
+
+### Reports page
 
 This page now provides links to the:
 
@@ -84,7 +72,7 @@ This page now provides links to the:
 
 If the user belongs to multiple organisations, the ‘status of active applications’ and ‘candidate drop out rates’ reports are under an h2 heading for each organisation.
 
-In the previous iteration, there were separate exports for each organisation. In the prototype we’ve gone back to having the exports cover all organisations, since we do not expect to make that change immediately.
+In the previous iteration, there were separate exports for each organisation. In the prototype gone back to having the exports cover all organisations, since we do not expect to make that change immediately.
 
 ### Candidate drop out rates report
 
