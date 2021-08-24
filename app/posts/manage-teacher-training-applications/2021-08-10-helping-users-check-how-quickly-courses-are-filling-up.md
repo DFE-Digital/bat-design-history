@@ -67,7 +67,7 @@ By changing the name of the status report to ‘status of active applications’
 
 ### Making existing exports work across all organisations
 
-The user can access a separate status report for each organisation they belong to. If they belong to multiple organisations, each one will have an h2 heading with the report underneath.
+The user can access a separate application status report for each organisation they belong to. If they belong to multiple organisations, each one will have an h2 heading with the report underneath.
 
 In the previous version of this work, we also provided separate application data and HESA exports for each organisation. 
 
