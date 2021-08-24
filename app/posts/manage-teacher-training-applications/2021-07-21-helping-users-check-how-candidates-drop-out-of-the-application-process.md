@@ -14,7 +14,7 @@ screenshots:
       src: candidate-drop-out-report.png
 ---
 
-This work follows on from the creation of a report showing the [progress of applications](/providing-status-and-progress-reports-alongside-data-exports).
+This work follows on from the creation of a report showing the [progress of applications](/manage-teacher-training-applications/providing-status-and-progress-reports-alongside-data-exports).
 
 We found that some research participants had trouble understanding the progress report because it:
 
