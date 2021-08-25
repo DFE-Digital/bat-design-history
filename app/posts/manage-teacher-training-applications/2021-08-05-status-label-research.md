@@ -1,14 +1,16 @@
 ---
 title: Status label research
-description: This research focused on a survey to understand the effectiveness of proposed new status labels to replace ‘awaiting conditions’ and ‘ready to enrol’
+description: We sent out a survey about proposed new status labels to replace ‘awaiting conditions’ and ‘ready to enrol’
 date: 2021-08-05
 related:
   items:
     - text: Research findings slides
       href: https://docs.google.com/presentation/d/1g_T1UVyQ9c_mRLR6mKSYNr-FSBmmiQAYrWyVmOqgwFM/edit
+    - text: Previous research findings slides
+      href: https://docs.google.com/presentation/d/17ru6auwHbwiLT09Ge7dMrSUGEJ2jqHAxKsPisbjp4f0/edit
 ---
 
-[Previous research into status labels](https://docs.google.com/presentation/d/17ru6auwHbwiLT09Ge7dMrSUGEJ2jqHAxKsPisbjp4f0/edit) showed that some participants did not understand what ‘awaiting conditions’ and ‘ready to enrol’ mean.
+Previous research into status labels showed that some participants did not understand what ‘awaiting conditions’ and ‘ready to enrol’ mean.
 
 This was particularly common for participants who belonged to Higher Education Institutions (HEIs). The terms did not fit in with their previous experience of using the UCAS service.
 
@@ -16,8 +18,8 @@ This was particularly common for participants who belonged to Higher Education I
 
 We were considering:
 
-- replacing 'awaiting conditions' with ‘conditions pending’ when a candidate has accepted an offer and has conditions to meet
-- replacing 'ready to enroll' with ‘recruited’ when a candidate has either met all their conditions or accepted an unconditional offer
+- replacing ‘awaiting conditions’ with ‘conditions pending’ when a candidate has accepted an offer and has conditions to meet
+- replacing ‘ready to enroll’ with ‘recruited’ when a candidate has either met all their conditions or accepted an unconditional offer
 
 We used a survey to find out whether providers understood our proposed status labels.
 
@@ -26,18 +28,18 @@ We used a survey to find out whether providers understood our proposed status la
 The survey was sent to 166 providers. We received 41 responses from:
 
 - 6 Higher Education Institutions (HEIs)
-- 25 School Centred Initial Teacher Training providers (SCITTs)
+- 25 School Centred Initial Teacher Training providers
 - 10 School Direct providers
 
 ## How we did the research
 
-For each of the status labels, we asked participants to:
+For each status label (‘conditions pending’ and ‘recruited’) we asked participants to:
 
-- describe what they thought the it meant
+- describe what they thought it meant
 - say whether they thought it meant that an application had received an offer
 - say whether they thought it meant that an application had accepted an offer
 - read a description of what we intended it to mean, then rate how well it conveyed that meaning
-- give alternative suggestions for it, saying why they thought their suggestion would be better
+- give alternative suggestions for what we might call that status, saying why they thought their suggestion would be better
 
 Some participants saw ‘conditions pending’ first but others saw ‘recruited’ first.
 
@@ -45,45 +47,34 @@ Some participants saw ‘conditions pending’ first but others saw ‘recruited
 
 We found that:
 
-- ‘conditions pending’ was well understood
-- ‘recruited’ was an improvement over the current label
+- most participants understood ‘conditions pending’ 
+- most participants understood that ‘recruited’ is the final status of a successful application, but we cannot be sure that they fully understood what it indicates
 - providers have different understandings of what conditions are
-- providers
 
 ### Understanding ‘conditions pending’
 
-All participants described the ‘conditions pending’ status label as we intended it to be understood.
-
-However, HEI participants were not sure whether candidates would have accepted an offer which was in the ‘conditions pending’ status.
+All participants described the ‘conditions pending’ status label as we intended it to be understood. However, HEI participants were not sure whether it meant that candidates had accepted an offer.
 
 All participants rated the label positively, apart from the HEI participants.
 
 Participants did not suggest any alternative status labels which we had not already considered.
 
-Given that all participants accurately described the state the label represented on first viewing, this is an improvement over the current status.
-
 ### Understanding ‘recruited’
 
-Most participants described ‘recruited’ as indicating an offer that has been accepted. They said that either that there were no conditions left to complete or the provider had never set any conditions.
+Most participants described ‘recruited’ as indicating that an offer has been accepted and the candidate is ready to start the course. 
 
-When asked to suggest an alternative status lavel, participants did not suggest anything which we had not already considered.
+Only around half of the participants mentioned conditions. We therefore cannot be certain that ‘recruited’ accurately conveys that the candidate met the conditions if there were any.
 
 When asked to rate the label, 77% of participants rated it as neutral or positive. Half of those who rated it negatively still described it accurately.
 
-### Understanding what conditions are
+Participants did not suggest any alternative status labels which we had not already considered.
 
-Almost half of the participants did not mention conditions in their description of ‘recruited’. This is worrying, as conditions having been met is one of the things that this status label needs to convey.
+### Differences in understanding conditions
 
-All providers will set conditions for some applications. This means it is important that they understand that applications in the ‘recruited’ state could have had conditions and that these have now been met.
-
-Based on these findings we be certain that ‘recruited’ accurately conveys that conditions have been met for an offer which had them.
-
-### It is hard to apply a single label that all users interpret consistently
-
-There are differences in the ways that providers handle conditions.
+There are differences in the ways that providers understand and handle conditions.
 
 For example, some providers consider a DBS check to be a condition which must be met before the candidate can be considered to be recruited. 
 
-Other providers consider a candidate to be recruited before that point, with a DBS check not a condition but rather something which has to happen before the candidate starts the course. They handle this sort of requirement outside of our online service.
+Other providers consider a candidate to be recruited before that point, with a DBS check not a condition but just something which has to happen before the candidate starts the course. They handle this sort of requirement outside of our service.
 
-This lack of consistency makes it difficult to create a single status label that will be interpreted the same by all providers.
+These differences make it difficult to choose a single status label to replace ‘ready to enroll’ which will be interpreted the same by all providers.
