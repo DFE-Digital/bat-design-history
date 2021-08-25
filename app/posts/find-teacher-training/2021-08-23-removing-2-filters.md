@@ -4,7 +4,7 @@ description: Why we removed subject and location as filters
 date: 2021-08-23
 ---
 
-We have recently added two new filtering options to Find, for [degree requirements](/find-teacher-training/degree-requirement-filter/) and for [visa sponsorship](/find-teacher-training/visa-sponsorship-filter/).
+We have recently added 2 new filtering options to Find, for [degree requirements](/find-teacher-training/degree-requirement-filter/) and for [visa sponsorship](/find-teacher-training/visa-sponsorship-filter/).
 
 In order to avoid the list of filters becoming overwhelming, we also reviewed the existing filters.
 
