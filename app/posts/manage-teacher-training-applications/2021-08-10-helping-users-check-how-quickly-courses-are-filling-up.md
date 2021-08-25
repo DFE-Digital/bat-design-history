@@ -1,22 +1,20 @@
 ---
 title: Helping users check how quickly courses are filling up
-description: Various changes to get the design of the reports area ready for an initial release
+description: Various small changes to get the design of the reports area ready for an initial release
 date: 2021-08-10
 tags:
-- MN027
+  - MN027
 screenshots:
   items:
     - text: Reports landing page
-      src: reports.png
+      src: reports-landing-page--single-organisation.png
     - text: Reports landing page when the user belongs to multiple organisations
-      src: reports--multi-org.png
-    - text: Data export page now without a link to the HESA export
-      src: export-application-data.png
-    - text: HESA export now with a new breadcrumb
-      src: export-hesa-data.png
+      src: reports-landing-page--multiple-organisations.png
+    - text: Status of active applications report
+      src: status-of-active-applications-report.png
 ---
 
-We’ve made some changes to the existing ‘Export data’ area, as part of the work to help users make the application process better.
+We’ve made some changes to the reports section of the service, following on from work to [provide status and progress reports alongside data exports](/manage-teacher-training-applications/providing-status-and-progress-reports-alongside-data-exports/).
 
 The user need this work aims to address is:
 
@@ -41,53 +39,36 @@ We had already designed and tested a report showing the statuses of applications
 
 ## What we changed
 
-### Changed ‘Export data’ link to ‘Reports’
+For the intial release we have:
 
-We renamed the ‘Export data’ section to ‘Reports’ to better reflect that this section includes the new report and not just data exports.
-
-### Removed the link to the HESA export from the application data export page
-
-Currently, the application data export page has a link to the Higher Education Statistics Agency (HESA) export.
-
-But now the HESA export is accessible directly from the reports page, so we’ve:
-
-- removed the link from the application data export page
-- changed the breadcrumb on the HESA export page
-
-### Changed the name of the status report
-
-The report was previously called ‘Status of applications’.
-
-Research showed that some users expected all statuses to be included, not just those that help users know how quickly their courses are filling up.
-
-By changing the name of the status report to ‘Status of active applications’, users are less likely to expect the report to include statuses like ‘rejected’.
+- removed the progress report from the reports page
+- changed the name of the status report
+- made the existing exports work across all organisations
 
 ## How it works
 
-### Reports landing page
+### Removing the progress report
 
-This page provides links to the:
+The reports page provides links for:
 
 - application data export
-- HESA export
+- Higher Education Statistics Agency (HESA) export
 - status of active applications report
 
-If the user belongs to multiple organisations, the status of active applications report will be listed under an h2 heading for each organisation.
+We’ve removed the link to the application progression report. This is because we’ve decided to focus on releasing the status report first.
 
-### Status of active applications report
+### Changing the name of the status report
 
-The caption for the h1 is the name of the organisation which the user accessed on the previous page. This page will show all courses which that organisation works on.
+The report was previously called ‘status of applications’.
 
-There’s an ‘Export data (CSV)’ link which generates a CSV.
+Research showed that some users expected all statuses to be included, not just those that help users know how quickly their courses are filling up.
 
-The courses are listed alphabetically by course name. The course name and code will both be displayed.
+By changing the name of the status report to ‘status of active applications’, users are less likely to expect the report to include statuses like ‘rejected’.
 
-If a course has a partner organisation, it’s shown under the course name as grey text.
+### Making existing exports work across all organisations
 
-## Future considerations
+The user can access a separate application status report for each organisation they belong to. If they belong to multiple organisations, each one will have an h2 heading with the report underneath.
 
-At the moment the application data export and HESA export work across multiple organisations.
+In the previous version of this work, we also provided separate application data and HESA exports for each organisation. 
 
-In future these pages will be scoped to a single organisation like the status of active applications report.
-
-
+For the intial release, we returned these exports to work across all organisations the user belongs to. We plan to change this later.
