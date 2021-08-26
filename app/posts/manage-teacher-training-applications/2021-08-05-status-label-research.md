@@ -47,13 +47,13 @@ Some participants saw ‘conditions pending’ first but others saw ‘recruited
 
 We found that:
 
-- most participants understood ‘conditions pending’ 
+- most participants understood ‘conditions pending’
 - most participants understood that ‘recruited’ is the final status of a successful application, but we cannot be sure that they fully understood what it indicates
 - providers have different understandings of what conditions are
 
 ### Understanding ‘conditions pending’
 
-All participants described the ‘conditions pending’ status label as we intended it to be understood. However, HEI participants were not sure whether it meant that candidates had accepted an offer.
+Most participants described the ‘conditions pending’ status label as we intended it to be understood. However, HEI participants were not sure whether it meant that candidates had accepted an offer.
 
 All participants rated the label positively, apart from the HEI participants.
 
@@ -61,7 +61,7 @@ Participants did not suggest any alternative status labels which we had not alre
 
 ### Understanding ‘recruited’
 
-Most participants described ‘recruited’ as indicating that an offer has been accepted and the candidate is ready to start the course. 
+Most participants described ‘recruited’ as indicating that an offer has been accepted and the candidate is ready to start the course.
 
 Only around half of the participants mentioned conditions. We therefore cannot be certain that ‘recruited’ accurately conveys that the candidate met the conditions if there were any.
 
@@ -73,7 +73,7 @@ Participants did not suggest any alternative status labels which we had not alre
 
 There are differences in the ways that providers understand and handle conditions.
 
-For example, some providers consider a DBS check to be a condition which must be met before the candidate can be considered to be recruited. 
+For example, some providers consider a DBS check to be a condition which must be met before the candidate can be considered to be recruited.
 
 Other providers consider a candidate to be recruited before that point, with a DBS check not a condition but just something which has to happen before the candidate starts the course. They handle this sort of requirement outside of our service.
 
