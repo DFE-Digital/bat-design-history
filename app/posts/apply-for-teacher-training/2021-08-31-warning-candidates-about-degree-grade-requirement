@@ -13,7 +13,13 @@ We realised that we could help candidates by:
 * showing the minimum degree requirement for each course (on Find)
 * warning them if they’d chosen a course that may not accept their degree grade
 
+## Showing minimum degree requirements on Find
+
+We added a line to the course summary in the Find search results.
+
 ![Course summary on Find with a line about the minimum degree requirement.](course-summary-find.png)
+
+## Warning candidates if they do not meet the degree requirement
 
 We added a row on the Course summary card for the minimum degree requirement for that course.
 
@@ -23,11 +29,11 @@ The warning message explains that they do not have the right degree grade, but t
 
 ![Warning message candidate sees if they have a third-class degree and choose a course that requires a 2:1 or above.](degree-requirement-warning-message.png)
 
-## Candidates with a non-UK degree
+### Candidates with a non-UK degree
 
 If a candidate has a non-UK degree, they do not see a warning message. Instead they just see the minimum degree requirement for that course.
 
-## When candidates will see the warning message
+### When candidates will see the warning message
 
 Candidates usually choose their courses before they add their qualifications. This is because the Course choices section comes before Qualifications in the application.
 
