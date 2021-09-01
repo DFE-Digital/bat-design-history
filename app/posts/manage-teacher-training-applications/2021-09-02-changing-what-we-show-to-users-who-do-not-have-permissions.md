@@ -4,34 +4,29 @@ description: TODO
 date: 2021-09-02
 ---
 
-We get a lot of support queries asking about what permissions have been set and why parts of the application form are hidden.
-
 As part of our recent work on permissions, we added messages telling users why they could not manage users or manage organisation permissions.
 
-We have now looked at this again and realised that these changes introduced inconsistency.
+We looked at this again and realised that these changes introduced inconsistency.
 
-To address this, we’ve made our approach consistent. At the same time we’ve made additional changes to improve the way we indicate why users cannot view some parts of the application.
+We’ve now made our approach consistent. At the same time we’ve made additional changes to improve the way we indicate why users cannot view some parts of the application.
 
 ## Simplifying what we show to users who do not have permission to do something
 
-In the most recent design, if a user does not have permission to manage users we show a message to explain why they cannot invite a user.
+In the most recent design, if a user does not have permission to manage users we show a message to explain why they cannot invite a user. We hide the ‘invite user’ button.
 
 ![User list page](user-list--no-permissions.png)
 
-Similary, if they canno change user details.
+Similarly if they cannot change user details, we show a message to explain why. We also hide the ‘change’ and ‘delete user’ links.
 
 ![User details page](user-details--no-permissions.png)
 
-- change user details
-- invite a user
-
-We hide the buttons and links that let the user do these things.
-
-The same applies to users who cannot manage organisation permissions.
+The same applies to users who cannot manage organisation permissions. We show a message and hide the ‘change’ links.
 
 ![Organisation permissions](organisation-permissions--no-permissions.png)
 
 However, if a user does not have permission to make offers and reject applications we just hide the button. We do not show a message.
+
+![Make decision prompt]()
 
 To make things consistent, we decided not to show any messages to users who do not have permission to do something.
 
@@ -50,7 +45,7 @@ We did this because:
 
 At the moment, users who cannot make offers and reject applications are incorrectly shown the prompt to give feedback on automatically rejected applications.
 
-They are not shown a button, so they cannot actually give feedback.
+They’re not shown a button, so they cannot actually give feedback.
 
 ![Feedback prompt](feedback--live.png)
 
@@ -61,7 +56,7 @@ We’ve fixed this by:
 
 ![Feedback prompt](feedback--new.png)
 
-## Simplifying how we explain to users that they lack permission to view sex, disability and ethnicity information
+## Simplifying what we show to users who do not have permission to view sex, disability and ethnicity information
 
 Currently the content we show in this section is based on whether the:
 
@@ -73,19 +68,19 @@ We only show the candidate’s answers if they provided information and accepted
 
 ![Diversity information](diversity--can-view.png)
 
-When the candidate hasn’t provided information it says ‘No information shared’.
+If the candidate has not provided information it says ‘No information shared’.
 
 ![Diversity information](diversity--no-info.png)
 
-When an offer has not been accepted and the user does not have permission, we have a message to tell the user that.
+If an offer has not been accepted and the user does not have permission, we tell the user that.
 
 ![Diversity information](diversity--not-accepted-and-cannot-view.png)
 
-When the user has permission but the offer hasn’t been accepted, we have a message to tell the user that.
+If the user has permission but the offer has not been accepted, we tell the user that.
 
 ![Diversity information](diversity--not-accepted-but-can-view.png)
 
-Finally, when the user has permission but the offer hasn’t been accepted, we have a message to tell the user that.
+Finally, if the user has permission but the offer has not been accepted, we tell the user that.
 
 ![Diversity information](diversity--accept-but-cannot-view.png)
 
@@ -93,7 +88,7 @@ As part of this work we changed the layout to [replay the actual questions and a
 
 ![Diversity information](diversity-new--old-labels.png)
 
-Doing this we discovered that some of the question labels used in the candidate service did not make sense on their own. So we changed:
+Doing this we discovered that some of the questions used in the candidate service did not make sense on their own. So we changed:
 
 - “Can you complete a 3-minute questionnaire?” to “Do you want to answer a few questions about your sex, disability and ethnicity?”
 - “Please select all that apply to you” to “What disabilities do you have?”
@@ -110,10 +105,8 @@ If the user has permission but the candidate has not accepted an offer, the answ
 
 ## Simplifying what we show to users who do not have permission to view criminal record and professional misconduct information
 
-In the [most recent design](/manage-teacher-training-applications/improvements-presenting-disability-safeguarding-interview-information/):
-
-- the heading is “Safeguarding issues”
-- if the user or their organisation does not have permission to view the information, we show a message in grey text saying “Unavailable: you and your organisation both need permission to view these safeguarding issues.”
+In the [most recent design](/manage-teacher-training-applications/improvements-presenting-disability-safeguarding-interview-information/)
+the heading is “Safeguarding issues”. If the user or their organisation does not have permission to view the information, we show a message in grey text saying “Unavailable: you and your organisation both need permission to view these safeguarding issues.”
 
 ![Criminal record before](criminal-record--before.png)
 
@@ -127,6 +120,6 @@ We decided not to mention the user’s organisation because it felt unnecessary.
 
 So we have changed the message to “You cannot view this because you do not have permission to view criminal record and professional misconduct information.”
 
-We also changed “Do you want to share any safeguarding issues?” to “Do you want to declare any safeguarding issues such as a criminal record or professional misconduct?” to make it easier to understand in isolation.
+We changed “Do you want to share any safeguarding issues?” to “Do you want to declare any safeguarding issues such as a criminal record or professional misconduct?” in the candidate service. This makes it easier to understand in isolation.
 
 ![Criminal record after](criminal-record--after.png)
