@@ -26,7 +26,7 @@ The same applies to users who cannot manage organisation permissions. We show a 
 
 However, if a user does not have permission to make offers and reject applications we just hide the button. We do not show a message.
 
-![Make decision prompt]()
+![Received prompt without permissions](received-prompt--no-permissions.png)
 
 To make things consistent, we decided not to show any messages to users who do not have permission to do something.
 
@@ -105,8 +105,7 @@ If the user has permission but the candidate has not accepted an offer, the answ
 
 ## Simplifying what we show to users who do not have permission to view criminal record and professional misconduct information
 
-In the [most recent design](/manage-teacher-training-applications/improvements-presenting-disability-safeguarding-interview-information/)
-the heading is “Safeguarding issues”. If the user or their organisation does not have permission to view the information, we show a message in grey text saying “Unavailable: you and your organisation both need permission to view these safeguarding issues.”
+In the [most recent design](/manage-teacher-training-applications/improvements-presenting-disability-safeguarding-interview-information/) the heading is “Safeguarding issues”. If the user or their organisation does not have permission to view the information, we show a message in grey text saying “Unavailable: you and your organisation both need permission to view these safeguarding issues.”
 
 ![Criminal record before](criminal-record--before.png)
 
