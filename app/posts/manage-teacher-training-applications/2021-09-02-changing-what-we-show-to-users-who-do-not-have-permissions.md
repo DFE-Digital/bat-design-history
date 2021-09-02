@@ -1,6 +1,6 @@
 ---
 title: Changing what we show to users who do not have permissions
-description: TODO
+description: Improving how we deal with users who do not have permissions and improving the layout of the sex, disability and ethnicity section of the application
 date: 2021-09-02
 ---
 
