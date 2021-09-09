@@ -23,18 +23,18 @@ We made changes to the:
 - report title
 - column headings within the table
 
-## Report title
+### Report title
 
 We had been concerned that the title ‘Candidate drop out rates’ could imply that candidates had done something wrong. It also does not clearly say what is in the report.
 
 After a research participant also mentioned concerns about the title, we changed it to ‘Where candidates choose to leave the application process’.
 
-## Column headings
+### Column headings
 
 During research we changed the table’s column headings to make it clearer that:
 
-- the ‘applications withdrawn’ column included applications withdrawn at any time
-- the ‘accepted offers with conditions not met’ column only included offers which had ended, not those with conditions pending
+- the ‘applications withdrawn’ column includes applications withdrawn at any time
+- the ‘accepted offers with conditions not met’ column only includes offers which have ended, not those with conditions pending
 
 We then checked how many applications end because conditions are not met. The number is very small, so for most users that column of the report would show only zeroes.
 
