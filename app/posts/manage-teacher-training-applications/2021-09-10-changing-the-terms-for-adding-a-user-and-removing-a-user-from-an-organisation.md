@@ -22,12 +22,12 @@ screenshots:
       src: remove-user--success.png
 ---
 
-When we were [redesigning the email notifications for adding and removing users to and from an organisation], we noticed our terminology could be better.
+When we were [redesigning the email notifications for adding and removing users to and from an organisation](/manage-teacher-training-applications/emailing-users-who-are-added-to-or-removed-from-an-organisation/), we noticed our terminology could be better.
 
 At the moment we use:
 
 - ‘invite user’ to add a user to an organisation - but the user does not get the chance to decline the invitation so it’s misleading
-- ‘delete user’ to remove a user from an organisation - but deleting is not the opposite of adding and it’s less accurate because the user will still retain their DfE Sign-in account
+- ‘delete user’ to remove a user from an organisation - but deleting is not the opposite of adding and it could be misleading because the user will still retain their DfE Sign-in account
 
 So we’ve changed the:
 
