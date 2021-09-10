@@ -11,7 +11,7 @@ We wanted to:
 - improve the email we currently send to users who are added to an organisation
 - create an email to send to users who are removed from an organisation
 
-We did this work alongside the [renaming in the service](/manage-teacher-training-applications/2021-09-10-changing-the-terms-for-adding-a-user-and-removing-a-user-from-an-organisation/) of:
+We did this work alongside the [renaming in the service](/manage-teacher-training-applications/changing-the-terms-for-adding-a-user-and-removing-a-user-from-an-organisation/) of:
 
 - ‘invite user’ to ‘add user’
 - ‘delete user’ to ‘remove user’
