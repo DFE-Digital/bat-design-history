@@ -14,6 +14,8 @@ screenshots:
       src: check-answers.png
     - text: Application details
       src: application-details.png
+tags:
+  - AN029
 ---
 
 <!-- markdownlint-disable MD001 MD025 -->
@@ -35,6 +37,11 @@ This iteration contains the following improvements:
 - Removed pleasantries like ‘Sorry’ and ‘Please’
 - Removed capitalisation on maths and science
 - Improved general clarity of the questions
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Emails
 

@@ -11,6 +11,8 @@ screenshots:
     - Feedback sent
     - Timeline updated
     - Feedback page
+tags:
+  - AN029
 ---
 
 At the moment, candidates are penalised in two ways when their application is automatically rejected.
@@ -22,3 +24,8 @@ If we give candidates the same type of feedback as normally rejected application
 We also moved the record of the feedback from the top of the application details page to a separate ‘feedback’ page.
 
 It doesn’t make sense for it to be on the application details page, which contains information submitted by the candidate. And it’s harder to find and pushes the application details further down the page.
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}

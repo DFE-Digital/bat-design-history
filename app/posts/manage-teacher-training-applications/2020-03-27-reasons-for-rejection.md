@@ -8,6 +8,8 @@ screenshots:
     - Reasons
     - Check answers
     - Flash message
+tags:
+  - AN029
 ---
 
 ## Hypothesis
@@ -33,3 +35,8 @@ We'll know this works when:
 * providers answer the relevant questions
 * more candidates reapply
 * candidates avoiding applying to same provider if the provider says they won't accept future applications from them
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
