@@ -12,6 +12,8 @@ screenshots:
       src: reason-for-rejection-cannot-sponsor-visa-02.png
     - text: Application feedback
       src: reason-for-rejection-cannot-sponsor-visa-03.png
+tags:
+  - AN029
 ---
 
 We have added ‘cannot sponsor visa’ as a reason for rejection.
@@ -77,3 +79,8 @@ If we find that the feedback has not improved, we will consider changing the des
 - give more specific structured reasons within the ‘cannot sponsor visa’ response
 - include fixed content in the feedback sent to candidates
 - reduce the range of candidates we show the option to
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}

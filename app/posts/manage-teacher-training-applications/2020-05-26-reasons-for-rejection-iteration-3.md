@@ -14,6 +14,8 @@ screenshots:
       src: preview.png
     - text: Step 5 (not interested in future applications)
       src: preview-not-interested.png
+tags:
+  - AN029
 ---
 
 ## Hypotheses
@@ -31,3 +33,8 @@ In the previous iteration, the [safeguarding question contained unrelated option
 
 If we put these options in a separate question
 Then users will be able to find them more easily
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}

@@ -31,6 +31,8 @@ related:
     - text: Reasons for closing an application
       href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
       description: Map of what reasons are available at what stage of the application process
+tags:
+  - AN029
 ---
 
 ## Background
@@ -56,6 +58,11 @@ Providers give candidates different types of feedback depending on what they’r
 It’s not always clear to providers what the difference is between rejection and withdrawal.
 
 There are also some situations in which an application cannot be closed. For example, if a candidate stops responding after they accept an offer then the only way to close the application is to mark a condition as not met.
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Why are we doing this?
 
