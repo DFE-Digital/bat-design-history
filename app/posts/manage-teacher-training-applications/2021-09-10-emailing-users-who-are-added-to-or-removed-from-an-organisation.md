@@ -1,5 +1,5 @@
 ---
-title: Emailing users who are added to or removed from an organisation 
+title: Emailing users who are added to or removed from an organisation
 description: We improved the email sent to users when they’re added to an organisation and created one to send when users are removed
 date: 2021-09-10
 ---
@@ -20,7 +20,7 @@ We did this work alongside the [renaming in the service](/manage-teacher-trainin
 
 When a user is added to an organisation, they’ll receive an email telling them:
 
-- who added them
+- who added them (if it was a colleague, not a member of the support team)
 - which organisation they’ve been added to
 - what additional permissions they’ve been given
 - how to sign in if they have a DfE Sign-in account
@@ -34,6 +34,8 @@ The current email does not tell the user who added them. We think this is useful
 - they’re reassured that this is a legitimate email rather than spam
 
 The current email also does not list the user’s additional permissions. Doing so will help the user to understand what they’ll be able to do once they sign in.
+
+If a member of the support team added the user, the subject and opening sentence will say “You’ve been added to ((organisation))”.
 
 <!-- markdownlint-disable MD025 -->
 
@@ -54,7 +56,7 @@ You have permission to:
 
 # Sign in to manage applications
 
-If you have a DfE Sign-in account, you can use it to sign in: 
+If you have a DfE Sign-in account, you can use it to sign in:
 
 ((link))
 
@@ -71,8 +73,10 @@ You can also contact us at <becomingateacher@digital.education.gov.uk>."
 
 When a user is removed from an organisation, they’ll receive an email telling them:
 
-- who removed them
+- who removed them (if it was a colleague, not a member of the support team)
 - which organisation they’ve been removed from
+
+If a member of the support team removed the user, the subject and opening sentence will say “You’ve been removed from ((organisation))”.
 
 <!-- markdownlint-disable MD025 -->
 
