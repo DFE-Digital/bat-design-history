@@ -36,16 +36,16 @@ Dear ((name))
 
 They’ve marked the following condition as met:
 
-* ((condition))
+- ((condition))
 
 They’ve marked the following condition as pending:
 
-* ((condition))
+- ((condition))
 
 The following condition still need to be met:
 
-* ((condition))
-* ((condition))
+- ((condition))
+- ((condition))
 
 # Get support
 
