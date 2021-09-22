@@ -34,16 +34,15 @@ Dear ((name))
 
 ((provider)) has updated the status of your conditions for ((course)).
 
-They’ve marked the following conditions as met:
+They’ve marked the following condition as met:
 
-- ((condition))
 - ((condition))
 
 They’ve marked the following condition as pending:
 
 - ((condition))
 
-The following conditions still need to be met:
+The following condition still need to be met:
 
 - ((condition))
 - ((condition))
