@@ -2,7 +2,20 @@
 title: Degree grade requirement warning message
 description: Warning candidates when they do not meet the degree grade requirement.
 date: 2021-09-22
+related:
+  items:
+    - text: Standardising entry requirement content
+      href: /find-teacher-training/standardised-entry-requirement-descriptions/
+      description: Post about adding standard text for entry requirements on Find.
+    - text: Degree requirements filter
+      href: /find-teacher-training/degree-requirement-filter/
+      description: Post about adding a degree requirements filter to Find.
+    - text: Degree entry requirements
+      href: /publish-teacher-training-courses/degree-entry-requirements/
+      description: Post about collecting degree entry requirements on Publish.
 ---
+
+{% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
 
 One of the reasons why providers reject candidates is because they do not have the right degree grade (for example 2:1 or above).
 
