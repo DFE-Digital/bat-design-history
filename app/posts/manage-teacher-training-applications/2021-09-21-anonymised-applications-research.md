@@ -20,14 +20,16 @@ This new research is a first step into investigating whether anonymous applicati
 
 ## What we researched
 
-Many providers start with a ‘sift’ in which they check that the candidate has:
+When they receive an application, providers typically check that the candidate has:
 
 - shown basic literacy skills
 - written enough
 - expressed themselves adequately
-- put some care into what they’ve written
+- put care into what they’ve written
 
-All providers have a ‘shortlisting’ stage, where they choose which candidates to interview.
+They may reject the application if it does not meet these standards. Some providers describe this as ‘sifting’ applications.
+
+Providers usually combine this sifting with choosing which candidates to invite for interview, often known as ‘shortlisting’.
 
 We wanted to find out if an anonymised application contained enough information for users to sift and shortlist it.
 
@@ -54,11 +56,11 @@ We asked providers to review the application.
 
 We found that:
 
-- an anonymous application could work for both sift and shortlisting stages
+- an anonymous application could work for sifting and shortlisting
 - more information is needed after shortlisting
 - references would work better for anonymous applications if they were only required after an offer had been accepted
 
-### Anonymous applications for sifting and shortlisting
+### Sifting and shortlisting anonymous applications
 
 On initial review of the application, none of the participants noticed that any information had been left out. 
 
@@ -66,11 +68,11 @@ This suggests that an anonymised application could work. However, in a research 
 
 When questioned further, participants said that the majority of the removed information was not required to sift applications. The exception was the criminal record and professional misconduct details.
 
-Some participants felt that the detail of references could be withheld until after an offer had been accepted. Others felt that there may be value in seeing references at the shortlisting stage, as they could help providers decide whether to invite the candidate to interview. 
+Some participants felt that the detail of references could be withheld until after an offer had been accepted. Others felt that there may be value in seeing references when shortlisting applications, as they could help providers decide whether to invite the candidate to interview. 
 
 ### Information needed after after shortlisting
 
-Participants said that applications cannot remain anonymous after the shortlisting stage. They need the candidate’s name and contact details to invite them to interview. 
+Participants said that applications cannot remain anonymous after shortlisting. They need the candidate’s name and contact details to invite them to interview. 
 
 They also said that they would probably want to include the candidate’s name when they send the application to their partner schools as a PDF. They do this after deciding to shortlist a candidate for interview.
 
@@ -83,10 +85,10 @@ We have created a [spreadsheet showing when providers need information and why t
 References can include information which could lead to unfair decisions. Participants appeared comfortable with the compromise of showing only:
 
 - what the referee said about the candidate 
-- that the referee knows of no reason that the candidate should not work with children
+- that the referee knows of no reason that the candidate should not work with children 
 
-We could also consider asking for references as a condition of an offer, instead of at the start of the application process. This is a common approach in other recruitment processes. 
+Some participants said they would be comfortable with asking for references as a condition of an offer, instead of at the start of the application process. This is a common approach in recruitment outside of teacher training. 
 
 This change would help keep applications anonymous and also make it quicker and easier for candidates to make their initial application. However, DfE policy would need to be changed for this to be possible. 
 
-In addition, providers would need to be reassured that this would not increase the chance of students being put at risk. 
+In addition, participants said they would need to be reassured that this would not increase the chance of students being put at risk. 
