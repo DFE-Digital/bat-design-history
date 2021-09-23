@@ -10,7 +10,7 @@ related:
 
 We wanted to understand how providers currently find the service. 
 
-We also wanted to find out if they had any need for a landing page collecting together services and information from the DfE.
+We also wanted to learn whether they have any need for a landing page collecting together services and information from the DfE.
 
 ## Who we researched with
 
@@ -56,6 +56,4 @@ Participants belonging to multiple organisations with multiple email addresses w
 
 ### Needs for a landing page
 
-Aside from the DfE service list containing all the services a user has access to, the research did not reveal any compelling needs for a landing page.
-
-Participants’ main goal is to be able to access the service they require with the minimum of effort. 
+The only user need we found for a landing page is for users to be able to access all the related services. Participants wanted to be able to access the service they require with the minimum of effort. 
