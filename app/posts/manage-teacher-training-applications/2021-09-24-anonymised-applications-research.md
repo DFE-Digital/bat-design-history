@@ -1,7 +1,7 @@
 ---
 title: Anonymised applications research
 description: Finding out whether users would have enough information on an anonymised application to be able to sift and shortlist candidates
-date: 2021-09-21
+date: 2021-09-24
 related:
   items:
     - text: Research findings slides
@@ -87,8 +87,6 @@ References can include information which could lead to unfair decisions. Partici
 - what the referee said about the candidate 
 - that the referee knows of no reason that the candidate should not work with children 
 
-Some participants said they would be comfortable with asking for references as a condition of an offer, instead of at the start of the application process. This is a common approach in recruitment outside of teacher training. 
+We could also consider asking for references as a condition of an offer, instead of at the start of the application process. This is a common approach in recruitment outside of teacher training, but would require a change in DfE policy.
 
-This change would help keep applications anonymous and also make it quicker and easier for candidates to make their initial application. However, DfE policy would need to be changed for this to be possible. 
-
-In addition, participants said they would need to be reassured that this would not increase the chance of students being put at risk. 
+This change would help keep applications anonymous and also make it quicker and easier for candidates to make their initial application. However, we’d need to do research to find out more about how it would affect providers and ensure that students were not put at risk. 
