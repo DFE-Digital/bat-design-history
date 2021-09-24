@@ -1,7 +1,7 @@
 ---
-title: Finding the service 
+title: Finding the service research
 description: Research focusing on how providers currently find the service and if they have any need for a landing page
-date: 2021-09-21
+date: 2021-09-24
 related:
   items:
     - text: Research findings slides
