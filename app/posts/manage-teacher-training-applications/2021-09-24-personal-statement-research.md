@@ -1,7 +1,7 @@
 ---
 title: Personal statement research
 description: Finding out what users look for in personal statements, including whether it’s different for primary and secondary courses
-date: 2021-09-20
+date: 2021-09-24
 related:
   items:
     - text: Research findings slides
