@@ -66,6 +66,12 @@ module.exports = function (eleventyConfig) {
     })
   })
 
+  eleventyConfig.addCollection('support-for-apply', collection => {
+    return collection.getFilteredByTag('support-for-apply').filter(item => {
+      return !item.data.tags.includes('user-need')
+    })
+  })
+
   // Config
   return {
     dataTemplateEngine: 'njk',
