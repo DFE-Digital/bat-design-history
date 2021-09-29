@@ -1,6 +1,6 @@
 ---
-title: Showing different stages of the application process in the ‘candidate drop out’ report
-description: Following research, we created a second iteration of the report showing users how candidates choose to leave the application process
+title: Dividing the application process differently when we show how candidates choose to leave the process
+description: We improved the ‘candidate drop out’ report to better reflect how users think about the application process
 date: 2021-09-22
 tags:
   - MN028
@@ -18,19 +18,9 @@ screenshots:
 
 This work follows on from our design to [show users where candidates choose to leave the application process](/manage-teacher-training-applications/showing-users-where-candidates-choose-to-leave-the-application-process/).
 
-The user need we’re trying to meet with this work is:
+We want to help users improve their processes, so that fewer candidates choose not to continue with their applications.
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
-{% from "user-need/macro.njk" import appUserNeed %}
-{{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
-}) }}
-
-We made changes to the report during a round of research.
+We tested the report with users and made changes to it during the round of research.
 
 ## What we changed
 
@@ -46,13 +36,13 @@ When we started the round of research, the report showed:
 - applications withdrawn before offer made
 - offers declined and applications withdrawn after offer made
 
-We quickly found that there were problems with dividing the data in this way. In particular, some research participants were confused by the mention of withdrawing after an offer has been made.
+We found that there were problems with dividing the data in this way. In particular, some participants were confused by the mention of withdrawing after an offer has been made.
 
-We think that they were confused because candidates cannot withdraw when an offer has been made but not yet accepted. It’s possible for a provider to withdraw on a candidate’s behalf at this point, but no provider has actually done this.
+We think that they were confused because candidates cannot withdraw when an offer has been made but not yet accepted. It’s possible for a provider to withdraw on a candidate’s behalf at this point, but no provider has actually done so.
 
-Since the user need is to know when the candidate left the process, we also decided to change the wording to emphasise this rather than how they left it.
+Since the user need is to know where in the process the candidate decided to leave, we also changed the wording to emphasise this rather than how they left it.
 
-We decided to divide the data into 3 sections:
+We divided the data into 3 sections:
 
 - before offer made (applications withdrawn) - showing the number withdrawn out of all applications received
 - while considering offer (offers declined and applications withdrawn) - showing the number declined out of all offers made
@@ -60,7 +50,7 @@ We decided to divide the data into 3 sections:
 
 However, some participants thought that “while considering offer” referred to them considering it rather than the candidate.
 
-We decided to change the wording to make it clear who took action at each stage. The column headings at the end of the round of research were:
+We therefore changed the wording to make it clear who took action at each stage. The column headings at the end of the round of research were:
 
 - before offer made to candidate (applications withdrawn)
 - while candidate considering offer (offers declined and applications withdrawn)
@@ -68,6 +58,6 @@ We decided to change the wording to make it clear who took action at each stage.
 
 ### Report title
 
-We changed the title to more clearly reflect the focus on when the candidate left the process rather than how they left it.
+Once we changed the column headings, we decided that they were describing when candidates left the process rather than where they left it.
 
-We changed it from ‘Where candidates choose to leave the application process’ to ‘When candidates choose to leave the application process’
+We changed the title to ‘When candidates choose to leave the application process’.
