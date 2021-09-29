@@ -1,6 +1,6 @@
 ---
 title: Helping users check how diverse their candidates are
-description: We created a report showing the sex, disability, ethnicity and age of candidates applying compared to those recruited
+description: We created a report showing the sex, disability, ethnicity and age of candidates who apply to a provider and are recruited by them
 date: 2021-09-07
 tags:
   - MN029
@@ -26,6 +26,7 @@ The user need this work aims to address is:
   status: need.data.status
 }) }}
 
+
 By making it easy for all providers to view and export equality and diversity information, we can help providers improve their recruitment practices.
 
 ## What we did
@@ -38,9 +39,9 @@ It includes data about candidates applying to the provider’s courses and those
 
 Users can view a report for any organisation they belong to. They do not need any user or organisation permission to view it.
 
-The caption for the h1 is the name of the organisation whose data is in the report.
+The caption for the h1 heading is the name of the organisation whose data is in the report.
 
-There’s an ‘Export data (ZIP)’ link which generates a ZIP file of the data in the report. The file contains CSV files for each section.
+There’s an ‘Export data (ZIP)’ link which generates a ZIP file containing a CSV file for each section of the report.
 
 The report has four sections:
 
@@ -68,7 +69,7 @@ Candidates are asked 2 questions. The first is whether they are disabled, with t
 - no
 - prefer not to say
 
-Candidates who say ‘yes’ can then choose 1 or more options from:
+Candidates who say ‘yes’ can then choose one or more options from:
 
 - blind
 - deaf
@@ -89,16 +90,16 @@ Candidates are asked to choose from a broad list of ethnicities:
 
 - Asian or Asian British
 - Black, African, Black British or Caribbean
-- Mixed or multiple ethnic groups
+- mixed or multiple ethnic groups
 - White
-- Another ethnic group
-- Prefer not to say
+- another ethnic group
+- prefer not to say
 
 For each of these they are then asked to choose a more specific option, which includes ‘other’ and ‘prefer not to say’.
 
 In the report, we organise these by listing the more specific options under each of the broader options.
 
-This means that the totals in the ‘candidates applied’ and ‘candidates recruited’ will not be the same as the total numbers of candidates.
+This means that the totals in the ‘candidates applied’ and ‘candidates recruited’ columns will not be the same as the total numbers of candidates.
 
 ### Age
 
@@ -115,29 +116,25 @@ The age groups include:
 - 55 to 64
 - 65 and over
 
-We do not include under 18 as candidates are not eligible to apply.
-
 ### Where this data comes from
+
+The data for sex, disability and ethnicity comes from an optional questionnaire.
 
 We tell users how many candidates completed the questionnaire. We give both a number and a percentage of the total number of candidates who applied to them.
 
-We also break this down in a table.
-
-Since all candidates have to enter their age, we
+The data for age comes from the candidate’s date of birth, which they must enter as part of their application. We tell the user that the data for age is based on all applications.
 
 ## Other considerations
 
-We discussed a number of other considerations including:
+We considered a number of other changes including:
 
 - comparing data with regional, national or provider datasets
 - downloading data as a single worksheet
-- using the UCAS age boundaries
+- using the UCAS age groups
 
 ### Comparing data
 
-We decided to start with a
-
-We want to find out from research whether it would be useful to enhance this. For example, we could compare data to:
+We want to find out from research whether it would be useful to allow the user to compare data to:
 
 - other recruitment cycles
 - the same time in a previous year
@@ -154,7 +151,9 @@ We could try using an open document format spreadsheet to contain all the data i
 
 ### Age groups
 
-We could provide the age data using the published data age boundaries:
+The age data published by UCAS uses different age groups. The Apply service will use the same groups when it starts publishing data.
+
+We could provide the age data using the same groups to make comparison easier. The groups are:
 
 - 21 and under
 - 22
@@ -169,3 +168,5 @@ We could provide the age data using the published data age boundaries:
 - 55 to 59
 - 60 to 64
 - 65 and over
+
+If we decide not to use these groups, we will need to extend the youngest group to ‘16 to 24’. This is because it is possible for candidates to apply from 16 years of age.
