@@ -112,7 +112,7 @@ We updated the page title to include the category and reason in the title name.
 
 If the user clicks a category, for example ‘qualifications’, the category name will be displayed in the heading.
 
-If the user clicks a reason for rejection within a category, for example ‘no english gcse grade 4 (c) or above, or accepted equivalent’, the category name and the reason for rejection will be displayed in the heading.
+If the user clicks a reason for rejection within a category, for example ‘no english gcse grade 4 &#40;c&#41; or above, or accepted equivalent’, the category name and the reason for rejection will be displayed in the heading.
 
 ## Other considerations
 
