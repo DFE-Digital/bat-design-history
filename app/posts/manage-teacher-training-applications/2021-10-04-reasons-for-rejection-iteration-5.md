@@ -24,6 +24,8 @@ related:
       href: https://docs.google.com/document/u/2/d/1ON91Cc_2mjqNNG0OUPdqP3qP_HyJ6S9iMYo71MVUrh0/edit#
     - text: Analysis of ‘other’ free text reasons for rejection
       href: https://docs.google.com/document/u/2/d/1ON91Cc_2mjqNNG0OUPdqP3qP_HyJ6S9iMYo71MVUrh0/edit#
+   - text: Claire's metrics
+      href: TODO
 ---
 
 We launched [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-4/) on 14 January 2021.
@@ -52,11 +54,18 @@ We took a baseline of data between January 2021 and September 2021.
 
 | Description | Rate |
 |------------|-----------|
-| Rate of candidates who apply again | 1% <br>901 out of 3000 |
-| Rate of candidates who receive offer after applying again | 1% <br>901 out of 3000 |
-| Rate of candidates who receive feedback after automatic rejection | 1% <br>901 out of 3000 |
-| Rate ‘other’ is used | 1% <br>901 out of 3000 |
+| Rate of candidates who apply again | 20.8% <br>617 out of 2972 |
+| Rate of candidates who were successful after applying again | 32.1% <br> 198 out of 617 |
+| Rate of candidates who receive feedback after automatic rejection | TBD% <br>TBD out of TBD |
+| Rate ‘other’ is used | 26.6% <br>1075 out of 4045 |
 | Average time taken to get through the rejection journey | 62 seconds |
+
+The ‘rate of candidates who were successful after applying again’ means any candidate who applies again and their application ends up in the following states:
+
+- recruited
+- pending conditions
+- offer deferred
+- awaiting candidate response
 
 We’ll know that the new design is better if:
 
@@ -142,10 +151,10 @@ Categories that do not contain sub reasons reveal a ‘give details’ field whi
 
 The following sub reasons within ‘qualifications’ do not reveal a field:
 
-- No English GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
-- No maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
-- No science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
-- No degree
+- no English GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
+- no maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
+- no science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
+- no degree
 
 After the user selects ‘continue’ they’re taken to a ‘check answers’ page.
 
@@ -163,14 +172,14 @@ We made several changes to the design.
 
 ### Using checkboxes instead of radio buttons for categories
 
-Up to now, we’ve used yes-no radio buttons for the top-level categories.
+At the moment, we use yes-no radio buttons for the top-level categories.
 
-We did this because our research showed that providers do not like to give feedback - using radio buttons makes sure users read and answer each question.
+We designed it like this because our research showed that providers do not like to give feedback - using radio buttons makes sure users read and answer each question.
 
-But we’re now changing the radio buttons into checkboxes because:
+But we’re now switching from radio buttons to checkboxes because:
 
 - they’re easier to scan and read
-- they do not force users to select ‘no’ for each non-applicable category
+- they do not require users to select ‘no’ for each non-applicable category
 
 We think that making it easier and quicker to reject an application, will increase the chance of users giving useful feedback.
 
