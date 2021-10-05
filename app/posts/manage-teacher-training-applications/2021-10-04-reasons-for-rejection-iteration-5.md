@@ -1,6 +1,6 @@
 ---
 title: Reasons for rejection iteration 5
-description: A major change to the categorisation and interaction for giving feedback when rejecting an application.
+description: Changing the categorisation, content and interaction of selecting reasons for rejection.
 date: 2021-10-04
 tags:
   - AN029
@@ -28,7 +28,7 @@ related:
 
 We launched [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-4/) on 14 January 2021.
 
-Since then, our research and analysis found that some:
+Since then, our research and analysis has shown that some:
 
 - users find the categorisation confusing - for example, it’s not clear what ‘candidate behaviour’ means and what sub reasons it contains
 - common reasons are missing - for example, ‘could not schedule an interview’
@@ -48,29 +48,29 @@ This can result in poor or no feedback and may mean that candidates:
 
 ## Measuring success
 
-We took a baseline of data from January 2021 to September 2021.
+We took a baseline of data between January 2021 and September 2021.
 
 | Description | Rate |
 |------------|-----------|
-| Rate candidates apply again | 1% <br>901 out of 3000 |
-| Rate candidates receive offer after applying again | 1% <br>901 out of 3000 |
-| Rate candidates receive feedback after automatic rejection | 1% <br>901 out of 3000 |
+| Rate of candidates who apply again | 1% <br>901 out of 3000 |
+| Rate of candidates who receive offer after applying again | 1% <br>901 out of 3000 |
+| Rate of candidates who receive feedback after automatic rejection | 1% <br>901 out of 3000 |
 | Rate ‘other’ is used | 1% <br>901 out of 3000 |
-| Average time taken to get through the rejection joruney | 62 seconds |
+| Average time taken to get through the rejection journey | 62 seconds |
 
 We’ll know that the new design is better if:
 
-- the rate candidates apply again increases
-- the rate candidates receive an offer after applying again increases
-- the rate candidates receive feedback after automatic rejection increases
+- the rate of candidates who apply again increases
+- the rate of candidates who receive an offer after applying again increases
+- the rate of candidates receive feedback after automatic rejection increases
 - the rate ‘other’ is used decreases
 - the average time it takes to get through the rejection journey decreases
 
-We also plan to add a link to a satisfaction survey at the bottom of the email candidates receive when their application is rejected.
+We may also start sending a survey to candidates when they receive feedback. This would give us a way to track the quality of feedback candidates are receiving.
 
-## Analysis of which categories and sub reasons were given
+## Analysis of reasons used to reject applications
 
-As part of our analysis, we documented how often certain structured reasons for rejection were used between January 2021 and September 2021.
+We looked at how often each reason was used to reject an application between January 2021 and September 2021.
 
 ### Categories
 
@@ -138,26 +138,24 @@ Some categories reveal a list of sub reasons. At least one sub reason must be se
 
 Most sub reasons reveal a ‘give details’ field which is required.
 
-Categories that do not contain sub reasons reveal a ‘give details’ textarea which is required.
+Categories that do not contain sub reasons reveal a ‘give details’ field which is required.
 
-The following sub reasons within ‘qualifications’ do not reveal anything:
+The following sub reasons within ‘qualifications’ do not reveal a field:
 
 - No English GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
 - No maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
 - No science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent
 - No degree
 
-After the user selects ‘Continue’ they’re taken to a ‘check answers’ page.
+After the user selects ‘continue’ they’re taken to a ‘check answers’ page.
 
-Each row represents a category. The category is shown in bold.
+Each row in the summary list represents a category. The category is shown in bold.
 
-The description contains any sub reason or details given.
+The description contains any selected sub reasons and further details.
 
 If the sub reason contains further details it will have a colon on the end. If it doesn’t it will have a period.
 
-After the user selects ‘Send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page showing a record of the feedback.
-
-
+After the user selects ‘send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page.
 
 ## What we changed
 
@@ -169,77 +167,84 @@ Up to now, we’ve used yes-no radio buttons for the top-level categories.
 
 We did this because our research showed that providers do not like to give feedback - using radio buttons makes sure users read and answer each question.
 
-But we’re now changing to a single group of checkboxes because they’re much easier to scan and read and they do not force users to select ‘no’ for each category that does not apply.
+But we’re now changing the radio buttons into checkboxes because:
 
-We think that making it easier and quicker to use will increase the chance of users giving useful feedback.
+- they’re easier to scan and read
+- they do not force users to select ‘no’ for each non-applicable category
 
-Using checkboxes has also meant that we can put all of the reasons for rejection on one page. Previously if ‘No’ was answered for every yes-no question, the user would be taken to another page with a textarea so they could tell the candidate why they’re rejecting the application.
+We think that making it easier and quicker to reject an application, will increase the chance of users giving useful feedback.
 
-### Showing the reasons in the order in which users check details
+Using checkboxes also means we’re able to show all possible reasons on one page. At the moment, if ‘no’ was answered for every yes-no question, the user would be taken to a page with a free text ‘other’ field.
 
-We found it difficult to order the categories. Ordering by frequency of use alone means, for example, ‘Other’ goes to the top even though it is best positioned at the bottom.
+### Showing reasons in the order they’re checked
 
-Ordering alphabetically means, for example, ‘Teaching knowledge and ability’ is toward the bottom even though it’s a commonly used reason.
+We tried ordering the categories by frequency of use. But this would, for example, put ‘other’ at the top which would be confusing.
 
-So we ordered the reasons in roughly the order in which users check details as well as how often they’re used.
+We tried ordering the categories alphabetically. But this would, for example, put ‘teaching knowledge and ability’ at the bottom even though it’s frequently used.
+
+So we put the reasons in rougly the order they’re checked as well as how often they’re used.
 
 ### Not hiding reasons based on details or stage of application
 
-We decided not to hide certain reasons based on the details or stage of the application.
+We decided not to hide certain reasons based on the details or stage of the application because:
 
-Doing so could make it harder for users to familiarise themselves with the structure. There’s also a risk that we have considered why a user may still want to use those reasons in certain cases.
+- it could make it harder for users to familiarise themselves with the structure
+- there’s a risk that we move a reason that could still be of use in those cases
 
-### Describing reasons as either facts or topics
+### Phrasing reasons based on fact or topic
 
-We have 2 different ways of labelling reasons.
+We have 2 different ways of phrasing reasons. For example, we’re using phrases like:
 
-We use terms like ‘did not attend interview’ for reasons that are facts.
+- ‘did not attend interview’ for facts
+- ‘spelling and grammar’ (not ‘Poor spelling and grammar’) to avoid critical judgments that may demoralise candidates
 
-We use ‘Spelling and grammar’ (not ‘Poor spelling and grammar’) to avoid terms that may not be factual and can demoralise the candidate.
-
-### Using just one ‘give details’ field per reason
+### Using only one ‘give details’ field per reason
 
 At the moment, the ‘other’ checkbox within ‘candidate behaviour’ reveals 2 text fields: ‘give details‘ and ‘what could they do to improve?’.
 
-This is unnecessary as both fields will probably contain the same information.
+But:
 
-Also recent research from GDS shows that [conditionally revealing more than one field is inaccessible].
+- this is unnecessary because both fields would probably contain the same information
+- research by GDS shows that [conditionally revealing more than one field is inaccessible](https://accessibility.blog.gov.uk/2021/09/21/an-update-on-the-accessibility-of-conditionally-revealed-questions/)
 
-### Changing the h1 heading from ‘Reasons for rejecting this application’ to ‘Tell the candidate why you’re rejecting their application’
+So we’ve changed it so that only one ‘give details’ field is revealed.
 
-At the moment, the h1 says ‘Reasons for rejecting this application’ and there’s hint text which says ‘This feedback will be sent to the candidate’.
+### Changing the h1 heading to ‘tell the candidate why you’re rejecting their application’
 
-This to help users realise this feedback will be sent to the candidate. We think this helps users to write directly to the candidate in a constructive way.
+At the moment, the h1 says ‘reasons for rejecting this application’ and we rely on hint text which says ‘this feedback will be sent to the candidate’ to help users:
 
-But hint text is not always noticed, so we changed the h1 to ‘Tell the candidate why you’re rejecting their application’.
+- realise their feedback will be sent to the candidate
+- write constructively
+
+But as hint text is not always read, we changed the h1 to ‘tell the candidate why you’re rejecting their application’.
 
 ### Creating a ‘personal statement’ category
 
-We previously had ‘personal statement’ within ‘quality of application’.
+We previously had ‘personal statement’ as a reason within ‘quality of application’.
 
-But we made this a top level section because it’s used a lot in its own right during the sift and interview stages of the application process.
+But as the ‘personal statement’ is often given as a reason to reject an application, we’ve made it a top level category to make it easy to find.
 
 It contains:
 
-- Quality of writing
-- Other
+- quality of writing
+- other
 
 We decided not to include ‘evidence of plagiarism’ as a sub reason because it's only been used once.
 
 ### Creating a ‘teaching knowledge and ability’ category
 
-We replaced the existing ‘performance at interview’ and ‘quality of application’ sections with ‘teaching knowledge and ability’.
+We replaced the ‘performance at interview’ and ‘quality of application’ categories with ‘teaching knowledge and ability’.
 
-This means the same category can be used regardless of when or how the information was found out.
+This means the same category can be used regardless of when or how the information was discovered.
 
 It contains:
 
-- Understanding of subject
-- Understanding of safeguarding
-- Understanding of teaching methods
-- Understanding of teaching role
-- Presentation skills
-- Other
+- understanding of subject
+- understanding of safeguarding
+- understanding of teaching methods
+- understanding of teaching role
+- presentation skills
+- other
 
 All of these reasons have been used as a reason for rejection.
 
@@ -247,113 +252,117 @@ All of these reasons have been used as a reason for rejection.
 
 We moved sub reasons from ‘candidate behaviour’ and ‘honesty and professionalism’ to ‘communication and scheduling’.
 
-This better describes the commonly used reasons within the category.
+We did this because ‘communication and scheduling’ better describes the reasons within.
 
 It contains:
 
-- Did not reply to messages
-- Did not attend interview
-- Could not arrange interview
-- Other
+- did not reply to messages
+- did not attend interview
+- could not arrange interview
+- other
 
-We added ‘Could not arrange interview’ as it’s [commonly used as a reason for rejection](https://docs.google.com/document/d/1pSGebtmnm0Gg3ROaqVX96nUvimFY71bfRKlbVhWPobU/edit#) and [tagged adam](https://docs.google.com/document/d/1ON91Cc_2mjqNNG0OUPdqP3qP_HyJ6S9iMYo71MVUrh0/edit# )
+We added ‘could not arrange interview’ becaue it’s [commonly used as a reason for rejection](https://docs.google.com/document/d/1pSGebtmnm0Gg3ROaqVX96nUvimFY71bfRKlbVhWPobU/edit#).
 
 ### Creating a ‘references’ category
 
-We previously had ‘references did not support the application’ within ‘honesty and professionalism’.
+We currently have ‘references did not support the application’ within ‘honesty and professionalism’.
 
-But as that category no longer exists we created a ‘references’ top level category.
+But we now have a ‘references’ top level category instead which will make it easier to find.
 
-We decided not to add the following sub reasons:
+We decided not to add these sub reasons:
 
-- The references do not meet our requirements
-- Work history does not correspond to the reference
-- The references indicated that the candidate was unsuitable to work with children
+- the references do not meet our requirements
+- work history does not correspond to the reference
+- the references indicated that the candidate was unsuitable to work with children
 
 This is because:
 
-- the reasons have been very rarely used
-- the reference may relate to safeguarding which is already a category of its own and could cause users to be confused as to which one to use
+- the reasons have been rarely used
+- the reason may relate to safeguarding - as this is a separate category it could cause users to be confused about which to choose
 
 ### Removing sub reasons from ‘safeguarding’
 
-We decided not to include the following sub reasons:
+We decided not to include these sub reasons:
 
-- The candidate disclosed information which makes them unsuitable to work with children
-- The vetting process found information which makes the candidate unsuitable to work with children
+- the candidate disclosed information which makes them unsuitable to work with children
+- the vetting process found information which makes the candidate unsuitable to work with children
 
-This is because they’re very rarely used.
+This is because they’re rarely used.
 
-### Changing ‘Cannot sponsor visa’ to ‘Visa sponsorship’
+### Changing ‘cannot sponsor visa’ to ‘visa sponsorship’
 
-We changed ‘cannot sponsor visa’ to ‘Visa sponsorship because:
+We changed ‘cannot sponsor visa’ to ‘visa sponsorship’ because:
 
 - there may be other reasons relating to visa sponsorship
-- it better matches the other top level categories like ‘qualifications’
+- it’s phrased as a topic which is consistent with the other categories
 
 ### Changes to the ‘qualifications’ category
 
 We added a ‘give details’ field to the ‘degree does not meet course requirements’ to let providers give further details.
 
-We also added ‘could not verify qualifications’ with a ‘give details’ field because:
+We added ‘could not verify qualifications’. This should help users clearly distinguish between, for example:
 
-- it may give candidates clearer feedback
-- for example, the candidate may have a maths GCSE but cannot prove it
+- not having a maths GCSE
+- not being able to verify their maths GCSE
 
-We decided not to add ‘qualifications found to be incorrect’ because:
+When selected, it reveals a ‘give details’ field in order to give details as to how the qualification could not be verified.
 
-- it’s rarely used
-- it could make it harder to choose between it and other reasons like ‘No maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’
+We decided not to add ‘qualifications found to be incorrect’ because it:
 
-We removed ‘for primary applicants’ from ‘No science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’ because it may be asked for non primary courses.
+- is rarely used
+- would not be obvious whether it should be used instead of, for example, ‘no maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’
+
+We removed ‘for primary applicants’ from ‘no science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’ because it may be asked for non primary courses.
 
 ### Added ‘give details’ to the ‘course full’ category
 
-We added a conditionally revealed ‘give details’ field because some users have used the ‘other advice or feedback’ to tell candidates to apply again next year due to the course being full.
+We added a conditionally revealed ‘give details’ field because some users have used the ‘other advice or feedback’ to encourage candidates to apply again in the next recruitment cycle due to the course being full.
 
 ### Removed ‘make offer on other course’ category
 
 We removed ‘offered a place on another course’ because:
 
-- it was only needed in case the provider made an offer to an application made through UCAS
-- it’s unnecessary - if a provider has multiple applications from the same candidate, then the reason one application was unsuccessful was probably not because one of the others was successful
+- it was only needed if the provider made an offer through UCAS
+- offering a place on one course should not be a reason for not offering a place on another
 
 ### Removed ‘other advice or feedback’ category
 
 We removed ‘other advice or feedback’ because:
 
-- every category or relevant sub reason has a field to provide detail
-- it makes the rejection process quicker
-- the ‘other’ category can be used which is always available
+- it makes the rejection flow less onerous
+- every reason has a ‘give details’ field to provide further detail
+- the ‘other’ category can be used which is now always available
 
 ### Removed ‘honesty and professionalism’ category
 
-We removed ‘honest and professionalism’ as it was very rarely used.
+We removed ‘honesty and professionalism’ because:
 
-Also this section was mostly used as a way to state that the candidate did not attend interview which is now a sub reason under ‘communication and scheduling’.
+- it’s rarely used.
+- the category was mostly used to state that the candidate did not attend interview which is now a sub reason within ‘communication and scheduling’
 
 ### Other reasons we did not add
 
-We considered adding a ‘work history’ top level category. But this would be rarely used. We also have ‘teaching knowledge and ability’ and ‘safeguarding’ that can be used to describe reasons relating to work history.
+We decided not to add a ‘work history’ category because:
 
-We considered adding ‘lack of relevant experience’. But it’s a policy requirement that training providers do not use this as a reason for rejection.
+- it’s rarely used
+- the ‘teaching knowledge and ability’ and ‘safeguarding’ categories can be used to enter reasons that relate to work history
+
+We decided not to add ‘lack of relevant experience’ within ‘teaching knowledge and ability’ because policy states that training providers must not use this as a reason for rejection.
 
 ### Changes to the check answers page
 
 At the moment we use inset text to give users a preview of what their feedback will look like for candidates.
 
-This helps users realise their feedback is going to be sent to the candidate and how it’ll look.
+This helps users realise their feedback is going to be sent to the candidate. But this is problematic because we have change links within the preview area which makes the preview misleading.
 
-The problem is that we do not display exactly how it will look because we put change links within the preview area.
+So we changed this to show the answers in a standard summary list. We think this will be fine because the h1 on the first page is ‘tell the candidate why you’re rejecting their application’.
 
-So we have changed this to a standard summary list. We think this will work fine because the h1 on the first page is ‘Tell the candidate why you’re rejecting their application’.
-
-We removed the line that says ‘Your feedback will be given to the candidate in the format below.’ as it’s also unnecessary.
+For the same reason, we also removed ‘your feedback will be given to the candidate in the format below.’
 
 ## Future considerations
 
 In future we’ll consider:
 
-- how to help users flag safeguarding concerns to DfE to avoid dangerous candidates from proceeding with other unaware training providers
+- notifying DfE about dangerous candidates in order to stop them from proceeding with other unaware training providers
 - adding ‘knowledge of primary’ as a reason when a candidate applies to a primary course
-- whether ‘Visa sponsorship’ should only be shown for candidates without British nationality
+- whether ‘visa sponsorship’ should only be shown for candidates without British nationality
