@@ -35,6 +35,8 @@ The candidate user need this meets is:
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
+## How it works currently
+
 When a user selects ‘reject application’ they’re taken to a page with a list of categories and yes/no radio buttons.
 
 Saying yes to some categories reveals a list of sub-categories with checkboxes. The user must select at least one of these unless they change their answer to say no to the category.
@@ -62,7 +64,7 @@ This can result in poor or no feedback and may mean that candidates:
 
 ## Analysis of reasons used to reject applications
 
-We looked at how often each reason was used to reject an application between January 2021 and September 2021. 
+We looked at how often each reason was used to reject an application between January 2021 and September 2021.
 
 This data does not include applications which were automatically rejected because the provider took too long to respond.
 
@@ -126,7 +128,7 @@ This data does not include applications which were automatically rejected becaus
 
 ## Measuring whether our changes are successful
 
-We took a baseline of data between January 2021 and September 2021. 
+We took a baseline of data between January 2021 and September 2021.
 
 This data does not include applications which were automatically rejected because the provider took too long to respond.
 
@@ -184,16 +186,16 @@ We decided not to hide certain reasons based on the details or stage of the appl
 - it could make it harder for users to familiarise themselves with the order in which reasons appear
 - there’s a risk that we hide a reason that could still be of use in those cases
 
-We previously hid ‘cannot sponsor visa’ when the candidate was a British citizen. We will no longer do so.
+At the moment, we hide ‘cannot sponsor visa’ when the candidate is a British citizen. We’ll no longer do so.
 
 ### Phrasing reasons based on fact or topic
 
-We want to be consistent with how we phrase reasons, but some are factual while others are subjective. 
+We want to be consistent with how we phrase reasons, but some are factual while others are subjective.
 
 We have decided to avoid negative wording where the reason is subjective. For example, we use:
 
 - ‘did not attend interview’
-- ‘spelling and grammar’ 
+- ‘spelling and grammar’
 
 We do not use ’poor spelling and grammar’ since this is subjective. The user can decide how critical they should be in the details they give.
 
@@ -208,7 +210,7 @@ We’ve changed this so that only one ‘give details’ field is revealed, beca
 
 ### Changing the h1 heading to ‘tell the candidate why you’re rejecting their application’
 
-At the moment, the h1 says ‘reasons for rejecting this application’. 
+At the moment, the h1 says ‘reasons for rejecting this application’.
 
 We rely on hint text which says ‘this feedback will be sent to the candidate’ to encourage users to write clearly and constructively.
 
@@ -216,7 +218,7 @@ But as hint text is not always read, we changed the h1 to ‘tell the candidate 
 
 ### Creating a ‘personal statement’ category
 
-We previously had ‘personal statement’ as a reason within ‘quality of application’.
+At the moment, ‘personal statement’ is a reason within ‘quality of application’.
 
 But as the personal statement is often given as a reason to reject an application, we’ve made it a top level category to make it easy to find.
 
@@ -278,7 +280,7 @@ This is because:
 
 ### Removing sub-categories from ‘safeguarding’
 
-We decided not to include these sub-categories:
+We decided to remove these sub-categories:
 
 - the candidate disclosed information which makes them unsuitable to work with children
 - the vetting process found information which makes the candidate unsuitable to work with children
@@ -304,7 +306,7 @@ We added ‘could not verify qualifications’ and a ‘give details’ field. T
 We decided not to add ‘qualifications found to be incorrect’ because it’s:
 
 - rarely used
-- not suffiently different to reasons such as ‘no maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’ 
+- not suffiently different to reasons such as ‘no maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’
 
 We removed ‘for primary applicants’ from ‘no science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’. Science GCSE is required for some secondary courses.
 
@@ -349,7 +351,7 @@ Previously we used inset text to give users a preview of what their feedback wou
 
 This helped make sure users understood that their feedback was going to be sent to the candidate. But it was problematic because we had change links within the preview area, making the preview misleading.
 
-We changed this to show the answers in a standard summary list. We think this will be clear enough now that the h1 heading on the first page is ‘tell the candidate why you’re rejecting their application’. 
+We changed this to show the answers in a standard summary list. We think this will be clear enough now that the h1 heading on the first page is ‘tell the candidate why you’re rejecting their application’.
 
 We also removed the line saying that ‘your feedback will be given to the candidate in the format below’.
 
@@ -360,6 +362,17 @@ The description contains any selected sub-category and further details.
 If the sub-category contains further details it will have a colon at the end. If it doesn’t it will have a full stop.
 
 After the user selects ‘send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page.
+
+### We kept ‘course full’ as a reason for rejection
+
+We considered moving ‘course full’ at the same level as ‘make offer’ and ‘reject application’.
+
+But we decided not to do that because:
+
+- we have a worry that some users might use it as a way to keep places for better candidates
+- we’d have to mark it as ‘application withdrawn’ when we think this is something triggered by candidates
+
+If anything, we’d let training providers withdraw their course or mark it as full. But this might be better off as a feature of Publish teacher training courses.
 
 ## Future considerations
 
