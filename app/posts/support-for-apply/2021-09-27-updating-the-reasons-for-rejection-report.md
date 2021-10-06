@@ -23,7 +23,7 @@ screenshots:
       src: structured-reasons-for-rejection-details--category.png
     - text: Structured reasons for rejection details showing the category and sub-category
       src: structured-reasons-for-rejection-details--reason.png
-    - text: Structured reasons for rejection details showing no results
+    - text: Structured reasons for rejection details showing the category has no results
       src: structured-reasons-for-rejection-details--empty.png
 ---
 
