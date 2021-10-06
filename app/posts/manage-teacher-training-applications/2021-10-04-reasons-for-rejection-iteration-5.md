@@ -24,7 +24,7 @@ related:
       href: https://docs.google.com/document/u/2/d/1ON91Cc_2mjqNNG0OUPdqP3qP_HyJ6S9iMYo71MVUrh0/edit#
     - text: Analysis of ‘other’ free text reasons for rejection
       href: https://docs.google.com/document/u/2/d/1ON91Cc_2mjqNNG0OUPdqP3qP_HyJ6S9iMYo71MVUrh0/edit#
-    - text: Claire's metrics
+    - text: Metrics taken between January 2021 and September 2021
       href: TODO
 ---
 
@@ -65,8 +65,6 @@ This can result in poor or no feedback and may mean that candidates:
 ## Analysis of reasons used to reject applications
 
 We looked at how often each reason was used to reject an application between January 2021 and September 2021.
-
-This data does not include applications which were automatically rejected because the provider took too long to respond.
 
 ### Categories
 
@@ -128,23 +126,22 @@ This data does not include applications which were automatically rejected becaus
 
 ## Measuring whether our changes are successful
 
-We took a baseline of data between January 2021 and September 2021.
-
-This data does not include applications which were automatically rejected because the provider took too long to respond.
+We took a record of data between January 2021 and September 2021.
 
 | Description | Rate or amount |
 |------------|-----------|
-| Candidates who apply again | 20.8% <br>617 out of 2972 candidates |
-| Candidates who receive an offer after applying again | 32.1% <br> 198 out of 617 candidates |
-| Use of the ‘other’ category as a reason for rejection | 26.6% <br>1075 out of 4045 reasons |
+| Candidates who apply again | 20.8% <br>617 out of 2972 |
+| Candidates who receive an offer after applying again | 32.1% <br> 198 out of 617 |
+| Automatically rejected applications that receive feedback | 11.1% <br> x of y |
+| Rejected applications that only use the ‘other’ category | 26.6% <br>1075 out of 4045 |
 | Average time taken for a user to get through the rejection journey | 62 seconds |
 
 We’ll know that the new design is better if:
 
 - a larger proportion of candidates apply again
 - a larger proportion of candidates are successful after applying again
-- a larger proportion of candidates receive feedback after automatic rejection
-- a smaller proportion of rejections use the ‘other’ category
+- a larger proportion of automatic rejected applications that receive feedback
+- a smaller proportion of rejections applications that only use the ‘other’ category
 - the average time to get through the rejection journey decreases
 
 We may also start sending a survey to candidates when they receive feedback. This would give us a way to track the quality of feedback candidates are receiving.
@@ -312,7 +309,7 @@ We removed ‘for primary applicants’ from ‘no science GCSE grade 4 &#40;C&#
 
 ### Added ‘give details’ to the ‘course full’ category
 
-We added a ‘give details’ field because some users want to encourage candidates to apply again in the next recruitment cycle. Previously they needed to add ‘other’ as a reason or use ‘other advice or feedback’.
+We added a ‘give details’ field because some users want to encourage candidates to apply again in the next recruitment cycle. At the moment, they use ‘other advice or feedback’ to do this.
 
 ### Removed ‘make offer on other course’ category
 
@@ -363,9 +360,9 @@ If the sub-category contains further details it will have a colon at the end. If
 
 After the user selects ‘send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page.
 
-### We kept ‘course full’ as a reason for rejection
+### Keeping ‘course full’ as a reason for rejection
 
-We considered moving ‘course full’ at the same level as ‘make offer’ and ‘reject application’.
+We considered moving ‘course full’ to the same level as ‘make offer’ and ‘reject application’.
 
 But we decided not to do that because:
 
