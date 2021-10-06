@@ -28,9 +28,9 @@ related:
       href: TODO
 ---
 
-We launched [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-4/) on 14 January 2021. 
+We launched [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-4/) on 14 January 2021. This requires users to select from a range of reasons rather than just entering free text.
 
-The user need this meets is:
+The candidate user need this meets is:
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
@@ -39,11 +39,11 @@ When a user selects ‘reject application’ they’re taken to a page with a li
 
 Saying yes to some categories reveals a list of sub-categories with checkboxes. The user must select at least one of these unless they change their answer to say no to the category.
 
-Categories that do not contain sub-categories reveal a ‘give details’ field which must be completed. Most sub-categories also reveal a ‘give details’ field which must be completed.
+Categories that do not contain sub-categories reveal a ‘give details’ field. Most sub-categories also reveal a ‘give details’ field. The user must complete this field.
 
-If the user says no to all the categories, they are shown an ‘other’ category with a ‘give details’ field which they must complete.
+If the user says no to all the categories then on the next page they're given a field asking them why they’re rejecting the application. The category is considered to be ‘other’.
 
-Users can also add ‘other advice and feedback’ before they complete the rejection flow.
+The user can also add ‘other advice and feedback’ as part of the rejection flow.
 
 ## Why we made changes
 
@@ -58,7 +58,7 @@ This can result in poor or no feedback and may mean that candidates:
 
 - do not know why their application was unsuccessful
 - are not encouraged to apply again
-- find it harder to improve any future applications
+- find it hard to know how to improve for any future applications
 
 ## Analysis of reasons used to reject applications
 
@@ -68,7 +68,7 @@ This data does not include applications which were automatically rejected becaus
 
 ### Categories
 
-| Category | Rate |
+| Category | Rate (out of all reasons given) |
 |------------|----------|
 | Course full | 24.7% <br>999 out of 4045 |
 | Qualifications | 18.1% <br>733 out of 4045 |
@@ -83,17 +83,17 @@ This data does not include applications which were automatically rejected becaus
 
 ### Qualifications
 
-| Reason | Rate |
+| Reason | Rate (out of all reasons given) |
 |------------|----------|
+| No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 12.5% <br>104 out of 4045 |
+| No Maths GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 10.3% <br>86 out of 4045 |
+| No Science GCSE grade 4 &#40;C&#41; or above, or valid equivalent (for primary applicants) | 4.3% <br>36 out of 4045 |
 | No degree | 4.4% <br>37 out of 4045 |
-| No English GCSE grade 4 	&#40;C&#41; or above, or valid equivalent | 12.5% <br>104 out of 4045 |
-| No Maths GCSE grade 4 	&#40;C&#41; or above, or valid equivalent | 10.3% <br>86 out of 4045 |
-| No Science GCSE grade 4 	&#40;C&#41; or above, or valid equivalent (for primary applicants) | 4.3% <br>36 out of 4045 |
 | Other | 68.4% <br>570 out of 4045 |
 
 ### Quality of application
 
-| Reason | Rate |
+| Reason | Rate (out of all reasons given) |
 |------------|----------|
 | Personal statement | 53.5% <br> 357 out of 4045 |
 | Subject knowledge | 23.2% <br> 155 out of 4045 |
@@ -101,15 +101,15 @@ This data does not include applications which were automatically rejected becaus
 
 ### Candidate behaviour
 
-| Reason | Rate |
+| Reason | Rate (out of all reasons given) |
 |------------|----------|
-| Didn't attend interview | 56% <br> 69 out of 4045 |
 | Didn't reply to our interview offer | 15% <br> 19 out of 4045 |
+| Didn't attend interview | 56% <br> 69 out of 4045 |
 | Other | 29% <br> 36 out of 4045 |
 
 ### Honesty and professionalism
 
-| Reason | Rate |
+| Reason | Rate (out of all reasons given) |
 |------------|----------|
 | Information given on application form false or inaccurate | 3.92% <br> 1 out of 4045 |
 | Evidence of plagiarism in personal statement or elsewhere | 3.92% <br> 1 out of 4045 |
@@ -118,34 +118,26 @@ This data does not include applications which were automatically rejected becaus
 
 ### Safeguarding
 
-| Category | Rate |
+| Category | Rate (out of all reasons given) |
 |------------|----------|
 | Information disclosed by candidate makes them unsuitable to work with children | 18.9% <br> 3 out of 4045 |
 | Information revealed by our vetting process makes the candidate unsuitable to work with children | 0% |
 | Other | 81.1% <br> 12 out of 4045 |
 
-## Measuring the success of our changes
+## Measuring whether our changes are successful
 
 We took a baseline of data between January 2021 and September 2021. 
 
 This data does not include applications which were automatically rejected because the provider took too long to respond.
 
-| Description | Rate |
+| Description | Rate or amount |
 |------------|-----------|
 | Candidates who apply again | 20.8% <br>617 out of 2972 candidates |
-| Candidates who were successful after applying again | 32.1% <br> 198 out of 617 candidates |
-| Candidates who receive feedback after automatic rejection | TBD% <br>TBD out of TBD |
+| Candidates who receive an offer after applying again | 32.1% <br> 198 out of 617 candidates |
 | Use of the ‘other’ category as a reason for rejection | 26.6% <br>1075 out of 4045 reasons |
 | Average time taken for a user to get through the rejection journey | 62 seconds |
 
-A candidate is considered to be successful after applying again if their application has one of the following statuses:
-
-- recruited
-- pending conditions
-- offer deferred
-- awaiting candidate response
-
-We’ll be confident that the new design is better if:
+We’ll know that the new design is better if:
 
 - a larger proportion of candidates apply again
 - a larger proportion of candidates are successful after applying again
@@ -157,11 +149,11 @@ We may also start sending a survey to candidates when they receive feedback. Thi
 
 ## What we changed
 
-We made numerous changes to the design.
+We made a large number of changes to the design.
 
 ### Using checkboxes instead of radio buttons for rejection categories
 
-At the moment, we use yes-no radio buttons for the top-level categories.
+At the moment, we use yes/no radio buttons for the categories.
 
 We designed it like this because our research showed that many providers do not like to give feedback. Using radio buttons makes sure users read and answer each question.
 
@@ -172,7 +164,7 @@ But we’re now switching from radio buttons to checkboxes because:
 
 We think that making it easier and quicker to reject an application will increase the chance of users giving useful feedback.
 
-Using checkboxes also means we’re able to show all possible reasons on one page. At the moment, if ‘no’ was answered for every yes-no question, the user would be taken to a page with a free text ‘other’ field.
+Using checkboxes also means we’ll be able to show all possible categories on one page, including ‘other’. At the moment ‘other’ is shown on a second page if the user answers no to all the other categories.
 
 ### Showing reasons in the order they’re checked
 
@@ -180,9 +172,9 @@ We tried ordering the categories by frequency of use. But this would, for exampl
 
 We tried ordering the categories alphabetically. But this would, for example, put ‘teaching knowledge and ability’ at the bottom even though it’s frequently used.
 
-So we put the reasons in an order which combines:
+So we put the reasons in an order which balances:
 
-- the order they’re likely to be checked by a provider - so, for example, references come later than qualifications
+- the order they’re likely to be checked by a provider - for example, references come later than qualifications
 - how often they’re used
 
 ### Not hiding reasons based on the details or stage of application
@@ -196,7 +188,7 @@ We previously hid ‘cannot sponsor visa’ when the candidate was a British cit
 
 ### Phrasing reasons based on fact or topic
 
-We want to be consistent with how we phrase reasons, but some are objective while others are subjective. 
+We want to be consistent with how we phrase reasons, but some are factual while others are subjective. 
 
 We have decided to avoid negative wording where the reason is subjective. For example, we use:
 
@@ -209,7 +201,7 @@ We do not use ’poor spelling and grammar’ since this is subjective. The user
 
 At the moment, the ‘other’ checkbox within ‘candidate behaviour’ reveals 2 text fields: ‘give details‘ and ‘what could they do to improve?’
 
-We’ve changed this so that only one ‘give details’ field is revealed, because
+We’ve changed this so that only one ‘give details’ field is revealed, because:
 
 - both fields would usually contain very similar information
 - research by GDS shows that [conditionally revealing more than one field is inaccessible](https://accessibility.blog.gov.uk/2021/09/21/an-update-on-the-accessibility-of-conditionally-revealed-questions/)
@@ -256,7 +248,7 @@ All of these have been used by providers as reasons for rejection.
 
 We moved sub-categories from ‘candidate behaviour’ and ‘honesty and professionalism’ to ‘communication and scheduling’.
 
-We did this because ‘communication and scheduling’ better describes the reasons within.
+We did this because ‘communication and scheduling’ better describes the sub-categories.
 
 It contains:
 
@@ -271,7 +263,7 @@ We added ‘could not arrange interview’ because it’s [commonly used as a re
 
 We currently have ‘references did not support the application’ within ‘honesty and professionalism’.
 
-But we now have a ‘references’ top level category instead which will make it easier to find.
+But we now have a ‘references’ category instead which will make it easier to find.
 
 We decided not to add these sub-categories:
 
@@ -282,7 +274,7 @@ We decided not to add these sub-categories:
 This is because:
 
 - the reasons have rarely been used
-- the reason may relate to safeguarding - as this is a separate category it could cause users to be confused about which to choose
+- the reason may relate to safeguarding, which is a separate category - users could be confused about which to choose
 
 ### Removing sub-categories from ‘safeguarding’
 
@@ -304,7 +296,7 @@ We changed ‘cannot sponsor visa’ to ‘visa sponsorship’ because:
 
 We added a ‘give details’ field to ‘degree does not meet course requirements’. We think that further details will be useful for candidates.
 
-We added ‘could not verify qualifications’ with a ‘give details’ field. This should help users clearly distinguish between, for example:
+We added ‘could not verify qualifications’ and a ‘give details’ field. This should help users clearly distinguish between, for example:
 
 - not having a maths GCSE
 - not being able to prove that they have a maths GCSE or what grade it is
@@ -312,7 +304,7 @@ We added ‘could not verify qualifications’ with a ‘give details’ field. 
 We decided not to add ‘qualifications found to be incorrect’ because it’s:
 
 - rarely used
-- not suffiently different to reasons such as ‘no maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’ - it may not be obvious which should be used 
+- not suffiently different to reasons such as ‘no maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’ 
 
 We removed ‘for primary applicants’ from ‘no science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’. Science GCSE is required for some secondary courses.
 
@@ -332,7 +324,7 @@ We removed ‘offered a place on another course’ because:
 We removed ‘other advice or feedback’ because:
 
 - it makes the rejection flow easier for users
-- every reason has a ‘give details’ field to provide further detail
+- most reasons have a ‘give details’ field to provide further detail
 - the ‘other’ category is now always available, even if a user has chosen another reason for rejection
 
 ### Removed ‘honesty and professionalism’ category
@@ -355,15 +347,17 @@ We decided not to add ‘lack of relevant experience’ within ‘teaching knowl
 
 Previously we used inset text to give users a preview of what their feedback would look like for candidates.
 
-This helped make sure users understood that their feedback is going to be sent to the candidate. But it was problematic because we had change links within the preview area, making the preview misleading.
+This helped make sure users understood that their feedback was going to be sent to the candidate. But it was problematic because we had change links within the preview area, making the preview misleading.
 
-We changed this to show the answers in a standard summary list. We think this will be clear enough now that the h1 heading on the first page is ‘tell the candidate why you’re rejecting their application’. We also removed the line saying that ‘your feedback will be given to the candidate in the format below’.
+We changed this to show the answers in a standard summary list. We think this will be clear enough now that the h1 heading on the first page is ‘tell the candidate why you’re rejecting their application’. 
 
-Each row in the summary list represents a category. The category is shown in bold.
+We also removed the line saying that ‘your feedback will be given to the candidate in the format below’.
+
+Each row in the summary list represents a category, which is shown in bold text.
 
 The description contains any selected sub-category and further details.
 
-If the sub-category contains further details it will have a colon on the end. If it doesn’t it will have a full stop.
+If the sub-category contains further details it will have a colon at the end. If it doesn’t it will have a full stop.
 
 After the user selects ‘send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page.
 
