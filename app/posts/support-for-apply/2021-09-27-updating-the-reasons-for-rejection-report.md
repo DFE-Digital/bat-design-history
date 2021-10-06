@@ -23,6 +23,8 @@ screenshots:
       src: structured-reasons-for-rejection-details--category.png
     - text: Structured reasons for rejection details showing the category and sub-category
       src: structured-reasons-for-rejection-details--reason.png
+    - text: Structured reasons for rejection details showing no results
+      src: structured-reasons-for-rejection-details--empty.png
 ---
 
 When a provider rejects an application, they must select at least one category of reason for rejection. They are also asked to do this for applications which are automatically rejected.
@@ -55,7 +57,7 @@ We changed the report to:
 
 - list categories and sub-categories in the order in which providers see them
 - add the ‘other reasons’ category which was missing from the report
-- make the ‘glance metrics’ (prominent pieces of data) more useful by showing numbers and percentages for overall and recent use  
+- make the ‘glance metrics’ (prominent pieces of data) more useful by showing numbers and percentages for overall and recent use
 - make the columns in the tables of sub-categories more useful by showing numbers and percentages for overall and recent use
 - allow users to see data for the current or previous cycle
 
@@ -150,10 +152,10 @@ We added navigation to the page to allow users to choose between the current and
 - 2021 to 2022 (starts 2022)
 - 2020 to 2021 (starts 2021)
 
-We formatted all numbers and percentages consistently, by using: 
+We formatted all numbers and percentages consistently, by using:
 
 - 2 decimal places for each percentage
-- a comma to indicate thousands 
+- a comma to indicate thousands
 
 ### Details page
 
