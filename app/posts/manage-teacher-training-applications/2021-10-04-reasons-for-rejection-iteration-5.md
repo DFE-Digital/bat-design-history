@@ -133,7 +133,7 @@ We’ll know that the new design is better if:
 - a smaller proportion of rejections applications that only use the ‘other’ category
 - the average time to get through the rejection journey decreases
 
-We decided what changes data between January 2021 and September 2021.
+We looked at data from January 2021 and September 2021.
 
 | Description | Rate or amount |
 |------------|-----------|
@@ -142,11 +142,9 @@ We decided what changes data between January 2021 and September 2021.
 | Rejected applications that only use the ‘other’ category | 26.6% <br>1075 out of 4045 |
 | Average time taken for a user to get through the rejection journey | 62 seconds |
 
-We may also start sending a survey to candidates when they receive feedback. This would give us a way to track the quality of feedback candidates are receiving.
+We may also start sending a survey to candidates when they receive feedback. This would give us a way to track the quality of feedback which candidates are receiving.
 
 ## What we changed
-
-We made a large number of changes to the design.
 
 ### Using checkboxes instead of radio buttons for rejection categories
 
@@ -154,7 +152,7 @@ At the moment, we use yes/no radio buttons for the categories.
 
 We designed it like this because our research showed that many providers do not like to give feedback. Using radio buttons makes sure users read and answer each question.
 
-But we’re now switching from radio buttons to checkboxes because:
+We’re now switching from radio buttons to checkboxes because:
 
 - they’re easier to scan and read
 - they do not require users to select ‘no’ for each category which does not apply
@@ -163,7 +161,7 @@ We think that making it easier and quicker to reject an application will increas
 
 Using checkboxes also means we’ll be able to show all possible categories on one page, including ‘other’. At the moment ‘other’ is shown on a second page if the user answers no to all the other categories.
 
-### Showing reasons in the order they’re checked
+### Changing the order in which the categories are shown
 
 We tried ordering the categories by frequency of use. But this would, for example, put ‘other’ at the top which would be confusing.
 
@@ -179,11 +177,11 @@ So we put the reasons in an order which balances:
 We decided not to hide certain reasons based on the details or stage of the application because:
 
 - it could make it harder for users to familiarise themselves with the order in which reasons appear
-- there’s a risk that we hide a reason that could still be of use in those cases
+- there’s a risk that we hide a reason that the user wants to use
 
 At the moment, we hide ‘cannot sponsor visa’ when the candidate is a British citizen. We’ll no longer do so.
 
-### Phrasing reasons based on fact or topic
+### Phrasing reasons based on whether they’re factual or subjective
 
 We want to be consistent with how we phrase reasons, but some are factual while others are subjective.
 
@@ -309,7 +307,7 @@ We removed ‘for primary applicants’ from ‘no science GCSE grade 4 &#40;C&#
 
 We added a ‘give details’ field because some users want to encourage candidates to apply again in the next recruitment cycle. At the moment, they use ‘other advice or feedback’ to do this.
 
-### Removed ‘make offer on other course’ category
+### Removed ‘make offer on another course’ category
 
 We removed ‘offered a place on another course’ because:
 
@@ -354,25 +352,25 @@ Each row in the summary list represents a category, which is shown in bold text.
 
 The description contains any selected sub-category and further details.
 
-If the sub-category contains further details it will have a colon at the end. If it doesn’t it will have a full stop.
+If the sub-category contains further details it has a colon at the end. If it doesn’t it has a full stop.
 
 After the user selects ‘send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page.
 
 ### Keeping ‘course full’ as a reason for rejection
 
-We considered moving ‘course full’ to the same level as ‘make offer’ and ‘reject application’.
+We considered moving ‘course full’ to being a choice alongside ‘make offer’ and ‘reject application’.
 
-But we decided not to do that because:
+We decided not to do that because:
 
-- we have a worry that some users might use it as a way to keep places for better candidates
-- we’d have to mark it as ‘application withdrawn’ when we think this is something triggered by candidates
+- we are concerned that some users might use it as a way to keep places for better candidates
+- we’d have to mark the application as ‘withdrawn’, which is currently something triggered by candidates
 
-If anything, we’d let training providers withdraw their course or mark it as full. But this might be better off as a feature of Publish teacher training courses.
+We may consider letting training providers withdraw their course or mark it as full within our service. But this might be better left as a feature of the ‘Publish teacher training courses’ service.
 
 ## Future considerations
 
 In future we’ll consider:
 
 - notifying DfE about candidates with safeguarding issues, in case they need to be prevented from proceeding with other training providers
-- adding ‘knowledge of primary’ as a reason when a candidate applies to a primary course
+- adding ‘knowledge of primary teaching’ as a reason when a candidate applies to a primary course
 - whether ‘visa sponsorship’ should only be shown for candidates without British nationality
