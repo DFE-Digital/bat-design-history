@@ -85,19 +85,19 @@ We looked at how often each reason was used to reject an application between Jan
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 |------------|----------|----------|
-| No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 12.5% <br>104 out of 4045 |
-| No Maths GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 10.3% <br>86 out of 4045 |
-| No Science GCSE grade 4 &#40;C&#41; or above, or valid equivalent (for primary applicants) | 4.3% <br>36 out of 4045 |
-| No degree | 4.4% <br>37 out of 4045 |
-| Other | 68.4% <br>570 out of 4045 |
+| No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.6% <br> 104 out of 4045 | 12.5% <br>104 out of 833  |
+| No Maths GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.1% <br> 86 out of 4045 | 10.3% <br>86 out of 833 |
+| No Science GCSE grade 4 &#40;C&#41; or above, or valid equivalent (for primary applicants) | 0.9% <br> 36 out of 4045 | 4.3% <br>36 out of 833 |
+| No degree | 0.9% <br> 37 out of 4045 | 4.4% <br>37 out of 833 |
+| Other | 14% <br> 570 out of 4045 | 68.4% <br>570 out of 833 |
 
 ### Quality of application
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 |------------|----------|----------|
-| Personal statement | 53.5% <br> 357 out of 4045 |
-| Subject knowledge | 23.2% <br> 155 out of 4045 |
-| Other | 23.4% <br> 156 out of 4045 |
+| Personal statement | 8.8% <br> 357 out of 4045 | 53.5% <br> 357 out of 668 |
+| Subject knowledge | 3.8% <br> 155 out of 4045 | 23.2%<br> 155 out of 668 |
+| Other | 3.9% <br> 156 out of 4045 | 23.4% <br> 156 out of 668 |
 
 ### Candidate behaviour
 
@@ -362,7 +362,7 @@ We considered moving ‘course full’ to being a choice alongside ‘make offer
 
 We decided not to do that because:
 
-- we are concerned that some users might use it as a way to keep places for better candidates
+- we’re concerned that some users might use it as a way to keep places for better candidates
 - we’d have to mark the application as ‘withdrawn’, which is currently something triggered by candidates
 
 We may consider letting training providers withdraw their course or mark it as full within our service. But this might be better left as a feature of the ‘Publish teacher training courses’ service.
