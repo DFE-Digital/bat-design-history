@@ -28,7 +28,7 @@ related:
       href: https://docs.google.com/document/u/2/d/1frRtggMYqO_KG46vDto3MvZ041TfhsMZRcZghR-hvzs/edit#
 ---
 
-We launched [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-4/) on 14 January 2021. This requires users to select from a range of reasons rather than just entering free text.
+We launched [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-4/) on 14 January 2021. Users must select from a range of reasons when they reject an application, rather than just entering free text.
 
 The candidate user need this meets is:
 
@@ -68,7 +68,7 @@ We looked at how often each reason was used to reject an application between Jan
 
 ### Categories
 
-| Category | Rate (out of all reasons given) |
+| Category | Percentage of all rejections |
 |------------|----------|
 | Course full | 24.7% <br>999 out of 4045 |
 | Qualifications | 18.1% <br>733 out of 4045 |
@@ -83,8 +83,8 @@ We looked at how often each reason was used to reject an application between Jan
 
 ### Qualifications
 
-| Reason | Rate (out of all reasons given) |
-|------------|----------|
+| Reason | Percentage of all rejections | Percentage of all rejections within this category |
+|------------|----------|----------|
 | No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 12.5% <br>104 out of 4045 |
 | No Maths GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 10.3% <br>86 out of 4045 |
 | No Science GCSE grade 4 &#40;C&#41; or above, or valid equivalent (for primary applicants) | 4.3% <br>36 out of 4045 |
@@ -93,24 +93,24 @@ We looked at how often each reason was used to reject an application between Jan
 
 ### Quality of application
 
-| Reason | Rate (out of all reasons given) |
-|------------|----------|
+| Reason | Percentage of all rejections | Percentage of all rejections within this category |
+|------------|----------|----------|
 | Personal statement | 53.5% <br> 357 out of 4045 |
 | Subject knowledge | 23.2% <br> 155 out of 4045 |
 | Other | 23.4% <br> 156 out of 4045 |
 
 ### Candidate behaviour
 
-| Reason | Rate (out of all reasons given) |
-|------------|----------|
+| Reason | Percentage of all rejections | Percentage of all rejections within this category |
+|------------|----------|----------|
 | Didn't reply to our interview offer | 15% <br> 19 out of 4045 |
 | Didn't attend interview | 56% <br> 69 out of 4045 |
 | Other | 29% <br> 36 out of 4045 |
 
 ### Honesty and professionalism
 
-| Reason | Rate (out of all reasons given) |
-|------------|----------|
+| Reason | Percentage of all rejections | Percentage of all rejections within this category |
+|------------|----------|----------|
 | Information given on application form false or inaccurate | 3.92% <br> 1 out of 4045 |
 | Evidence of plagiarism in personal statement or elsewhere | 3.92% <br> 1 out of 4045 |
 | References didn’t support application | 13.7% <br> 3 out of 4045 |
@@ -118,22 +118,13 @@ We looked at how often each reason was used to reject an application between Jan
 
 ### Safeguarding
 
-| Category | Rate (out of all reasons given) |
-|------------|----------|
+| Reason | Percentage of all rejections | Percentage of all rejections within this category |
+|------------|----------|----------|
 | Information disclosed by candidate makes them unsuitable to work with children | 18.9% <br> 3 out of 4045 |
 | Information revealed by our vetting process makes the candidate unsuitable to work with children | 0% |
 | Other | 81.1% <br> 12 out of 4045 |
 
 ## Measuring whether our changes are successful
-
-We took a record of data between January 2021 and September 2021.
-
-| Description | Rate or amount |
-|------------|-----------|
-| Candidates who apply again | 20.8% <br>617 out of 2972 |
-| Candidates who receive an offer after applying again | 32.1% <br> 198 out of 617 |
-| Rejected applications that only use the ‘other’ category | 26.6% <br>1075 out of 4045 |
-| Average time taken for a user to get through the rejection journey | 62 seconds |
 
 We’ll know that the new design is better if:
 
@@ -141,6 +132,15 @@ We’ll know that the new design is better if:
 - a larger proportion of candidates are successful after applying again
 - a smaller proportion of rejections applications that only use the ‘other’ category
 - the average time to get through the rejection journey decreases
+
+We decided what changes data between January 2021 and September 2021.
+
+| Description | Rate or amount |
+|------------|-----------|
+| Candidates who apply again | 20.8% <br>617 out of 2972 |
+| Candidates who receive an offer after applying again | 32.1% <br> 198 out of 617 |
+| Rejected applications that only use the ‘other’ category | 26.6% <br>1075 out of 4045 |
+| Average time taken for a user to get through the rejection journey | 62 seconds |
 
 We may also start sending a survey to candidates when they receive feedback. This would give us a way to track the quality of feedback candidates are receiving.
 
