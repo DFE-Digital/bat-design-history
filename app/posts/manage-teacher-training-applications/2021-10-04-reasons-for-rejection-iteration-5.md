@@ -25,7 +25,7 @@ related:
     - text: Analysis of ‘other’ free text reasons for rejection
       href: https://docs.google.com/document/u/2/d/1ON91Cc_2mjqNNG0OUPdqP3qP_HyJ6S9iMYo71MVUrh0/edit#
     - text: Metrics taken between January 2021 and September 2021
-      href: TODO
+      href: https://docs.google.com/document/u/2/d/1frRtggMYqO_KG46vDto3MvZ041TfhsMZRcZghR-hvzs/edit#
 ---
 
 We launched [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection-iteration-4/) on 14 January 2021. This requires users to select from a range of reasons rather than just entering free text.
@@ -132,7 +132,6 @@ We took a record of data between January 2021 and September 2021.
 |------------|-----------|
 | Candidates who apply again | 20.8% <br>617 out of 2972 |
 | Candidates who receive an offer after applying again | 32.1% <br> 198 out of 617 |
-| Automatically rejected applications that receive feedback | 11.1% <br> x of y |
 | Rejected applications that only use the ‘other’ category | 26.6% <br>1075 out of 4045 |
 | Average time taken for a user to get through the rejection journey | 62 seconds |
 
@@ -140,7 +139,6 @@ We’ll know that the new design is better if:
 
 - a larger proportion of candidates apply again
 - a larger proportion of candidates are successful after applying again
-- a larger proportion of automatic rejected applications that receive feedback
 - a smaller proportion of rejections applications that only use the ‘other’ category
 - the average time to get through the rejection journey decreases
 
