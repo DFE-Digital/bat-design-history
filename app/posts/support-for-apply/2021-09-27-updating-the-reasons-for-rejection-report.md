@@ -17,8 +17,12 @@ related:
       href: /manage-teacher-training-applications/reasons-for-rejection-iteration-4/
 screenshots:
   items:
-    - text: Structured reasons for rejection report
-      src: structured-reasons-for-rejection-report.png
+    - text: Performance section landing page
+      src: performance-landing-page.png
+    - text: Structured reasons for rejection report showing data for the current cycle
+      src: structured-reasons-for-rejection-report--current-cycle.png
+    - text: Structured reasons for rejection report showing data for the previous cycle
+      src: structured-reasons-for-rejection-report--previous-cycle.png
     - text: Structured reasons for rejection details showing the category
       src: structured-reasons-for-rejection-details--category.png
     - text: Structured reasons for rejection details showing the category and sub-category
@@ -63,6 +67,19 @@ We changed the report to:
 
 We also improved the headings of the pages which give details of the reasons for rejection.
 
+### Current and previous cycles
+
+We added a section to the performance landing page called ‘Structured reasons for rejection’.
+
+We list reports for the current and previous cycles, including:
+
+- 2021 to 2022 (starts 2022) - current
+- 2020 to 2021 (starts 2021)
+
+We mark the current cycle with the word ‘current’.
+
+We added a caption to the page heading on the report and details pages to show which cycle the user has chosen.
+
 ### Categories and sub-categories
 
 Previously, the categories were not displayed in any logical order. We changed the report to show the categories in the same order as they are shown to providers.
@@ -106,6 +123,8 @@ In the new design we have 2 boxes showing:
 
 Instead of saying ‘this month’, we now give the name of the current month. This makes it clearer what time period the glance metrics relate to.
 
+If the report is not for the current cycle, we remove the current month glance metric as it is not relevant. The current month of the current cycle contains only partial data and cannot be directly compared to last year.
+
 ![Summary metrics](summary-metrics.png "Figure 1: Glance metrics for a category")
 
 These changes make it easier for a user to understand:
@@ -138,6 +157,8 @@ We removed the ‘total’ and ‘this month’ columns as the numbers alone do 
 
 We also show how each of these percentages was calculated.
 
+If the report is not for the current cycle, we remove the month columns as they are not relevant. The current month of the current cycle contains only partial data and cannot be directly compared to last year.
+
 ![Table data](table-data.png "Figure 2: Table showing sub-category data")
 
 ### Other changes
@@ -147,10 +168,7 @@ We added a section called ‘understanding this report’ to explain that:
 - the report does not include rejections made through the API, as they’re free text rather than structured
 - the percentages for all the categories will not add up to 100%, since users can choose more than one reason for rejection
 
-We added navigation to the page to allow users to choose between the current and previous cycle’s data. When the new cycle opens on 12 October 2021 the navigation will display two options:
-
-- 2021 to 2022 (starts 2022)
-- 2020 to 2021 (starts 2021)
+We added a caption to the page headings to show which cycle the data in the report is for.
 
 We formatted all numbers and percentages consistently, by using:
 
