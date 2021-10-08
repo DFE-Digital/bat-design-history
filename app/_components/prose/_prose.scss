@@ -140,7 +140,7 @@
   table {
     @extend .govuk-table;
     @include govuk-responsive-margin(8, "bottom");
-    @include govuk-responsive-margin(8, "top");
+    @include govuk-responsive-margin(4, "top");
 
     tr {
       @extend .govuk-table__row !optional;
