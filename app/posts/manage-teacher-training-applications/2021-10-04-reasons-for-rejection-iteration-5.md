@@ -129,7 +129,7 @@ We looked at how often each reason was used to reject an application between Jan
 We’ll know that the new design is better if:
 
 - a larger proportion of candidates apply again
-- a larger proportion of candidates are successful after applying again
+- a larger proportion of candidates receive an offer after applying again
 - a smaller proportion of rejected applications that only use the ‘other’ category
 - the average time to get through the rejection journey decreases
 
