@@ -365,7 +365,7 @@ We decided not to do that because:
 
 We may consider letting training providers withdraw their course or mark it as full within our service. But this might be better left as a feature of the ‘Publish teacher training courses’ service.
 
-### Deciding not to add a 'give details' field to the 'course full' category #
+### Deciding not to add a 'give details' field to the 'course full' category
 
 We considered adding a 'give details' field because a few users had added comments to 'other advice or feedback' encouraging candidates to apply next year.
 
