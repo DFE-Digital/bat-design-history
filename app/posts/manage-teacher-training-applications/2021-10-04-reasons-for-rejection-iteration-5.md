@@ -103,26 +103,26 @@ We looked at how often each reason was used to reject an application between Jan
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 |------------|----------|----------|
-| Didn't reply to our interview offer | 15% <br> 19 out of 4045 |
-| Didn't attend interview | 56% <br> 69 out of 4045 |
-| Other | 29% <br> 36 out of 4045 |
+| Didn't reply to our interview offer | 0.47% <br> 19 out of 4045 | 15% <br> 19 out of 124 |
+| Didn't attend interview | 1.71% <br> 69 out of 4045 | 55% <br> 69 out of 124 |
+| Other | 0.89% <br> 36 out of 4045 | 30% <br> 39 out of 124 |
 
 ### Honesty and professionalism
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 |------------|----------|----------|
-| Information given on application form false or inaccurate | 3.92% <br> 1 out of 4045 |
-| Evidence of plagiarism in personal statement or elsewhere | 3.92% <br> 1 out of 4045 |
-| References didn’t support application | 13.7% <br> 3 out of 4045 |
-| Other | 78% <br> 16 out of 4045 |
+| Information given on application form false or inaccurate | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21
+| Evidence of plagiarism in personal statement or elsewhere | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21 |
+| References didn’t support application | 0.07% <br> 3 out of 4045 | 3.92% <br> 3 out of 21 |
+| Other | 0.4% <br> 16 out of 4045 | 3.92% <br> 16 out of 21 |
 
 ### Safeguarding
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 |------------|----------|----------|
-| Information disclosed by candidate makes them unsuitable to work with children | 18.9% <br> 3 out of 4045 |
-| Information revealed by our vetting process makes the candidate unsuitable to work with children | 0% |
-| Other | 81.1% <br> 12 out of 4045 |
+| Information disclosed by candidate makes them unsuitable to work with children | 0.07% <br> 3 out of 4045 | 18.9% <br> 3 out of 15 |
+| Information revealed by our vetting process makes the candidate unsuitable to work with children | 0% | 0% |
+| Other | 0.3% <br> 12 out of 4045 | 81.1% <br> 12 out of 15 |
 
 ## Measuring whether our changes are successful
 
@@ -303,10 +303,6 @@ We decided not to add ‘qualifications found to be incorrect’ because it’s:
 
 We removed ‘for primary applicants’ from ‘no science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent’. Science GCSE is required for some secondary courses.
 
-### Added ‘give details’ to the ‘course full’ category
-
-We added a ‘give details’ field because some users want to encourage candidates to apply again in the next recruitment cycle. At the moment, they use ‘other advice or feedback’ to do this.
-
 ### Removed ‘make offer on another course’ category
 
 We removed ‘offered a place on another course’ because:
@@ -366,6 +362,12 @@ We decided not to do that because:
 - we’d have to mark the application as ‘withdrawn’, which is currently something triggered by candidates
 
 We may consider letting training providers withdraw their course or mark it as full within our service. But this might be better left as a feature of the ‘Publish teacher training courses’ service.
+
+### Deciding not to add a ‘give details’ field to the ‘course full’ category
+
+We considered adding a ‘give details’ field because some users were saying something in ‘other advice or feedback’ about applying next year.
+
+But we decided not to go add a field because users may not have anything else to add or may not read the application.
 
 ## Future considerations
 
