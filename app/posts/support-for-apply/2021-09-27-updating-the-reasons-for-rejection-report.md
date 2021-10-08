@@ -59,30 +59,28 @@ We wanted to improve the report to make it easier for users to get the informati
 
 We changed the report to:
 
+- allow users to see data for the current or previous recruitment cycle
 - list categories and sub-categories in the order in which providers see them
 - add the ‘other reasons’ category which was missing from the report
 - make the ‘glance metrics’ (prominent pieces of data) more useful by showing numbers and percentages for overall and recent use
 - make the columns in the tables of sub-categories more useful by showing numbers and percentages for overall and recent use
-- allow users to see data for the current or previous cycle
 
 We also improved the headings of the pages which give details of the reasons for rejection.
 
-### Current and previous cycles
+### Current and previous recruitment cycles
 
 We added a section to the performance landing page called ‘Structured reasons for rejection’.
 
-We list reports for the current and previous cycles, including:
+This section lists available reports by recruitment cycle, with the current cycle indicated. Initially the section will include:
 
 - 2021 to 2022 (starts 2022) - current
 - 2020 to 2021 (starts 2021)
 
-We mark the current cycle with the word ‘current’.
-
-We added a caption to the page heading on the report and details pages to show which cycle the user has chosen.
+We added the same text as a caption for the page headings on the report and details pages, so that the user can see which cycle the information is for.
 
 ### Categories and sub-categories
 
-Previously, the categories were not displayed in any logical order. We changed the report to show the categories in the same order as they are shown to providers.
+The categories were not previously displayed in any logical order. We changed the report to show the categories in the same order as they are shown to providers.
 
 We also added the missing ‘other reasons’ category, which providers use if the reason for rejection does not fit into any other category.
 
@@ -123,7 +121,9 @@ In the new design we have 2 boxes showing:
 
 Instead of saying ‘this month’, we now give the name of the current month. This makes it clearer what time period the glance metrics relate to.
 
-If the report is not for the current cycle, we remove the current month glance metric as it is not relevant. The current month of the current cycle contains only partial data and cannot be directly compared to last year.
+If the report is not for the current recruitment cycle, we remove the current month glance metric as it is not relevant. The current month of the current cycle contains only partial data, so it cannot be compared to the whole of the same month in the previous cycle.
+
+We considered including partial data for the same month in the previous cycle, taken up to the same day of the month as in the current cycle. We decided that this is unnecessarily complicated since there we do not know of a clear need for it.  
 
 ![Summary metrics](summary-metrics.png "Figure 1: Glance metrics for a category")
 
@@ -148,7 +148,7 @@ We updated the tables to show the sub-categories in the same order as providers 
 
 We removed the ‘total’ and ‘this month’ columns as the numbers alone do not indicate how common the sub-categories are.
 
- In their place the new design has columns showing each sub-category as a percentage of:
+In their place the new design has columns showing each sub-category as a percentage of:
 
 - all rejections
 - all rejections within the category
@@ -157,7 +157,7 @@ We removed the ‘total’ and ‘this month’ columns as the numbers alone do 
 
 We also show how each of these percentages was calculated.
 
-If the report is not for the current cycle, we remove the month columns as they are not relevant. The current month of the current cycle contains only partial data and cannot be directly compared to last year.
+If the report is not for the current recruitment cycle, we remove the current month columns as they are not relevant. The current month of the current cycle contains only partial data, so it cannot be compared to the whole of the same month in the previous cycle.
 
 ![Table data](table-data.png "Figure 2: Table showing sub-category data")
 
@@ -165,12 +165,12 @@ If the report is not for the current cycle, we remove the month columns as they 
 
 We added a section called ‘understanding this report’ to explain that:
 
-- the report does not include rejections made through the API, as they’re free text rather than structured
+- the report does not include rejections made through the API - this is because they’re free text rather than structured
 - the percentages for all the categories will not add up to 100%, since users can choose more than one reason for rejection
 
 We added a caption to the page headings to show which cycle the data in the report is for.
 
-We formatted all numbers and percentages consistently, by using:
+We formatted all numbers and percentages consistently, using:
 
 - 2 decimal places for each percentage
 - a comma to indicate thousands
