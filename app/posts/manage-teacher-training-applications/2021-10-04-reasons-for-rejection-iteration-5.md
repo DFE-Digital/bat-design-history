@@ -130,7 +130,7 @@ We’ll know that the new design is better if:
 
 - a larger proportion of candidates apply again
 - a larger proportion of candidates are successful after applying again
-- a smaller proportion of rejections applications that only use the ‘other’ category
+- a smaller proportion of rejected applications that only use the ‘other’ category
 - the average time to get through the rejection journey decreases
 
 We looked at data from January 2021 and September 2021.
@@ -367,7 +367,7 @@ We may consider letting training providers withdraw their course or mark it as f
 
 We considered adding a ‘give details’ field because some users were saying something in ‘other advice or feedback’ about applying next year.
 
-But we decided not to go add a field because users may not have anything else to add or may not read the application.
+But we decided not to go add a field because most users do not have anything else to add.
 
 ## Future considerations
 
