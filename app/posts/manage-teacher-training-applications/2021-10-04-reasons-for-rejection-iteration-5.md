@@ -161,6 +161,8 @@ We think that making it easier and quicker to reject an application will increas
 
 Using checkboxes also means we’ll be able to show all possible categories on one page, including ‘other’. At the moment ‘other’ is shown on a second page if the user answers no to all the other categories.
 
+The user must select at least one category. If any sub-categories are revealed, they must select at least one of them. If a ‘give details’ field is revealed, they must complete it.
+
 ### Changing the order in which the categories are shown
 
 We tried ordering the categories by frequency of use. But this would, for example, put ‘other’ at the top which would be confusing.
