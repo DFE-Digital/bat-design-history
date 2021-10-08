@@ -79,7 +79,7 @@ We looked at how often each reason was used to reject an application between Jan
 | Cannot sponsor visa | 2.2% <br>87 out of 4045 |
 | Honesty and professionalism | 0.5% <br>20 out of 4045 |
 | Safeguarding | 0.4% <br>15 out of 4045 |
-| Other | 26% <br>X out of 4045 |
+| Other | 26% <br>1064 out of 4045 |
 
 ### Qualifications
 
