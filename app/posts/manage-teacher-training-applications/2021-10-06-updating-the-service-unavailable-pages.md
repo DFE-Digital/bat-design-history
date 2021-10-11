@@ -4,9 +4,9 @@ description: Improving how we show the service is offline for planned maintenanc
 date: 2021-10-06
 screenshots:
   items:
-    - text: There is a problem with the service page
+    - text: There’s a problem with the service
       src: problem-with-the-service-page.png
-    - text: Service unavailable page
+    - text: The service is offline for planned maintenance
       src: service-unavailable-page.png
 ---
 
