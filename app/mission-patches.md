@@ -86,7 +86,7 @@ The team was formed during a period where they couldn’t be physically near, so
     caption: "This patch celebrated how well the team handled the allocations request period. It was a stressful time but we remained calm and collected. July 2020"
   }, {
     text: "Data discovery",
-    caption: "This patch celebrated the completion of a discovery into the department’s data collection and usage. The team chose a lobster (named Madame Michelle Bisque) as they uncovered many legacy systems which like lobsters, [tend to live far longer than they should](https://twitter.com/drsnooks/status/1217775748980912130). February 2020"
+    caption: "This patch celebrated the completion of a discovery into the department’s data collection and usage. The team chose a lobster (named Madame Michelle Bisque) as they uncovered many legacy systems which like lobsters, [tend to live far longer than they should](https://twitter.com/drsnooks/status/1217775748980912130). February 2020" | markdown | safe
   }, {
     text: "Impact squad",
     caption: "This patch celebrated the creation of a team to coordinate impactful change across the service line. The team chose an elephant (named Kahar after the team’s founding product manager) given their strength, wisdom and memory. Different coloured eyes represent diversity, and that the team works across Get into teaching (green) and Becoming a teacher (blue). May 2021"
