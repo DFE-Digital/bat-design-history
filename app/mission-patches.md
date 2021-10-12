@@ -33,6 +33,9 @@ The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a be
   }, {
     text: "Apply for teacher training HEI Pilot",
     caption: "This patch celebrated 11 early-adopter HEIs joining Apply as we embarked on our second recruitment cycle. As the University of Bedfordshire was the first HEI to be onboarded, Brian’s mortarboard featured a red tassel. October 2020"
+  }, {
+    text: "Apply for teacher training UCAS Switch-off",
+    caption: "This patch celebrated applications for the 2022/23 cycle being made exclusively via the Apply service. Brian dons the helmet he wore in his very first patch as he detonates the UCAS ITT service he helped to replace. October 2021"
   }]
 }) }}
 
