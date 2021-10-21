@@ -123,7 +123,7 @@ Instead of saying ‘this month’, we now give the name of the current month. T
 
 If the report is not for the current recruitment cycle, we remove the current month glance metric as it is not relevant. The current month of the current cycle contains only partial data, so it cannot be compared to the whole of the same month in the previous cycle.
 
-We considered including partial data for the same month in the previous cycle, taken up to the same day of the month as in the current cycle. We decided that this is unnecessarily complicated since there we do not know of a clear need for it.  
+We considered including partial data for the same month in the previous cycle, taken up to the same day of the month as in the current cycle. We decided that this is unnecessarily complicated since there we do not know of a clear need for it.
 
 ![Summary metrics](summary-metrics.png "Figure 1: Glance metrics for a category")
 
@@ -172,7 +172,7 @@ We added a caption to the page headings to show which cycle the data in the repo
 
 We formatted all numbers and percentages consistently, using:
 
-- 2 decimal places for each percentage
+- 2 decimal places for each percentage, removing any trailing zeros
 - a comma to indicate thousands
 
 ### Details page
