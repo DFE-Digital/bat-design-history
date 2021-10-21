@@ -72,7 +72,7 @@ When an interview is cancelled we’ll generate the cancellation reason based on
 
 - When an offer is made the reason will be ‘We made you an offer.’
 - When an application is rejected the reason will be ‘Your application was unsuccessful.’
-- When an application is withdrawn on behalf of the candidate the reason will be ‘You withdrew your application.’
+- When an application is withdrawn the reason will be ‘You withdrew your application.’
 
 The reason will be included in the interview cancellation email sent to the candidate.
 
