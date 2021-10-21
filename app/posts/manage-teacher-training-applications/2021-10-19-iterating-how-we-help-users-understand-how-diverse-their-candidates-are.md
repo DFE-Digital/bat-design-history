@@ -35,7 +35,7 @@ We made changes to the:
 - section about how to understand the report
 - data export for the report
 
-## Column headings and data
+### Column headings and data
 
 Previously the tables showed data for the number of:
 
@@ -51,7 +51,7 @@ Since it’s easier to compare percentages, we decided to show both numbers and 
 
 The first of these columns will help users spot bias in their application process. For example if a higher proportion of candidates giving the answer ‘male’ are recruited than those giving the answer ‘female’, then there may be bias.
 
-The second column will help users understand the composition of the group of candidates they’ve recruited. It will not directly indicate bias in the provider’s processes, since it will be influenced by the number of candidates who apply in each group. 
+The second column will help users understand the composition of the group of candidates they’ve recruited. It will not directly indicate bias in the provider’s processes, since it will be influenced by the number of candidates who apply in each group.
 
 ### Age data
 
@@ -77,9 +77,9 @@ The first table was missing from the export, so we added it.
 
 ## Further considerations
 
-We tell candidates that their responses to the questionnaire are anonymous until they accept an offer from a provider. 
+We tell candidates that their responses to the questionnaire are anonymous until they accept an offer from a provider.
 
-It is possible that the data in this report could be used to link a candidate’s responses to them when only a small number of applications have been received. 
+It is possible that the data in this report could be used to link a candidate’s responses to them when only a small number of applications have been received.
 
 We considered hiding data until the provider has received a certain number of applications. We haven’t done this because:
 
