@@ -172,7 +172,7 @@ We added a caption to the page headings to show which cycle the data in the repo
 
 We formatted all numbers and percentages consistently, using:
 
-- 2 decimal places for each percentage, removing any trailing zeros
+- up to 2 decimal places for each percentage, removing any trailing zeroes   
 - a comma to indicate thousands
 
 ### Details page
