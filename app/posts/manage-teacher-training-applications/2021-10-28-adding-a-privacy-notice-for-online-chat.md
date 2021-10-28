@@ -24,6 +24,8 @@ This was done to make it easier to get an agreement on the content of the new pr
 
 We decided not to link from the service privacy notice to the chat privacy notice. Instead we have made it easy for users to find the notice they need.
 
+We also changed the link in the footer from ‘Privacy policy’ to ‘Privacy’. This is more consistent with other links such as ‘Accessibility’ and ‘Complaints’.
+
 ## How it works
 
 We updated the privacy policy page. We replaced the service privacy notice with links to the:
