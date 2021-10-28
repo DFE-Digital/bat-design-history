@@ -20,6 +20,8 @@ We’re using Zendesk to manage online chat. We need a privacy notice to tell us
 
 The online chat privacy notice was written as a separate page, rather than being included within the existing service privacy notice.
 
+This was done to make it easier to get an agreement on the content of the new privacy notice.
+
 We decided not to link from the service privacy notice to the chat privacy notice. Instead we have made it easy for users to find the notice they need.
 
 ## How it works
@@ -38,4 +40,4 @@ We decided that this would lead to a poor user experience since it would require
 We think that the privacy notices could be improved further. We would like to consider:
 
 - separating the candidate and provider privacy notices, as they are currently combined despite being aimed at different users
-- merging the online chat notice into the separate provider privacy notice
+- merging the online chat notice into the provider privacy notice
