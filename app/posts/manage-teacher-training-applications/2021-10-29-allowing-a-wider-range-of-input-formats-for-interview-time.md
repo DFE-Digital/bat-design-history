@@ -66,7 +66,7 @@ While most users get an error only once, many get an error multiple times.
 
 ## What we changed
 
-We made changes to allow a wider range of formats. These changes would have prevented 220 of the 269 date format errors we found in our analysis.
+We made changes to allow a wider range of formats. These changes would have prevented 220 of the 269 time format errors we found in our analysis.
 
 We also changed the hint text to reflect that we allow the use of a 24 hour format. At the same time we changed the field label.
 
