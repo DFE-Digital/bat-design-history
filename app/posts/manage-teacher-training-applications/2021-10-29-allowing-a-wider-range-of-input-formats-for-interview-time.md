@@ -4,7 +4,7 @@ description: We’ve made the interview time validation more flexible so that we
 date: 2021-10-29
 related:
   items:
-    - text: Analysis
+    - text: Analysis of errors when entering interview time
       href: https://docs.google.com/spreadsheets/d/1VI-HWVNe0_hzn2bOeQWJHiEiVSlgnl9G-Ve1jvcgVBU/edit#gid=22066222
 screenshots:
   items:
@@ -25,11 +25,11 @@ Most of the errors occur because we do not allow users to:
 - use a 24 hour format such as ‘13:15’ instead of ‘1:15pm’
 - make mistakes like leaving spaces between hours and minutes
 - leave the interview time field empty
-- enter both a start and end time in the field, such as ‘1pm - 2pm’
+- enter both a start and end time in the field, for example ‘1pm - 2pm’
 
 ## Data analysis
 
-We looked at the errors which users are making. As of 22 October 2021:
+We looked at the errors which users are making. From the launch of the interview feature to 22 October 2021:
 
 - 4114 interviews have been set up
 - 401 errors have been triggered
@@ -48,9 +48,9 @@ Out of the 269 errors due to the format not being accepted:
 - 10 omitted a colon or dot, for example ‘930am’
 - 4 used a semicolon, for example ‘9;30am’
 - 6 had a double digit hour without am or pm, for example ‘10’ or ‘13’
-- 33 were not accepted due to other reasons, such as entering ‘12noon’, ‘12om’, ‘2pm - 3pm’ or ‘tbc’
+- 33 were not accepted for other reasons, such as entering ‘12noon’, ‘12om’, ‘2pm - 3pm’ or ‘tbc’
 
-While most users get an error once, many get an error multiple times.
+While most users get an error only once, many get an error multiple times.
 
 | Number of errors | Number of users |
 |------------|----------|
@@ -66,7 +66,7 @@ While most users get an error once, many get an error multiple times.
 
 ## What we changed
 
-We made changes to allow a wider range of formats. These changes would have prevented 220 of the 269 format errors we found in our analysis.
+We made changes to allow a wider range of formats. These changes would have prevented 220 of the 269 date format errors we found in our analysis.
 
 We also changed the hint text to reflect that we allow the use of a 24 hour format. At the same time we changed the field label.
 
@@ -76,13 +76,15 @@ We currently accept a 12 hour format such as ‘9am’ or ‘2:30pm’. We do no
 
 We’ll now accept both formats.
 
-We will not allow mixed formats for afternoon times, even if they’re consistent, such as ‘22:15pm’. This is due to a limitation of the technical solution being used to validate times.
+We will not allow mixed formats for times in the afternoon, even if they’re consistent such as ‘22:15pm’. This is due to a limitation of the technical solution being used to validate times.
 
 ### Allow dots and other characters
 
 We do not currently accept minor mistakes such as using ‘a.m.’ instead of ‘am’. We also do not accept dots or spaces instead of colons, such as ‘3.15pm’.
 
-We will now allow the use of colons, dots, spaces or no punctuation at all, as long as the value can be reliably interpreted as a 12 or 24 hour format.
+In most cases we will now allow the use of colons, dots, spaces or no punctuation at all, as long as the value can be interpreted as a 12 or 24 hour format.
+
+An exception is if a user includes a space within ‘a m‘ or ‘p m’. We will not accept this due to a limitation of the technical solution being used to validate times.
 
 ### Changing the label and hint text
 
@@ -90,9 +92,11 @@ The label for the input is currently ‘time’. We changed it to ‘start time�
 
 The hint text currently says ‘For example, 9am or 2:30pm - enter 12pm for midday’. We changed it to ‘For example, 2pm or 14:30’ to show we also accept a 24 hour format.
 
-We removed the note about midday because it allows us to have very short and clear hint text. There’s no evidence that users accidentally enter midnight when they mean midday.
+We removed the note about midday because it allows us to have very short and clear hint text.
 
-This could be because the current hint text is functioning well, but we think that playing back the time on the ‘check answers’ page is enough. We’ll reconsider this if we find that a significant number of users are making a mistake.
+There’s no evidence that users accidentally enter midnight when they mean midday. This could be because the current hint text is functioning well, but we think that playing back the time on the ‘check answers’ page is enough.
+
+We’ll reconsider this if we find that a significant number of users are making a mistake.
 
 ## Examples of acceptable and unacceptable time formats
 
@@ -139,12 +143,12 @@ These examples help to explain the rules we’ll follow. They do not include eve
 | `9;15am` | Uses semicolon |
 | `17:15am` | Not a 12 hour or 24 hour format |
 | `1715am` | Not a 12 hour or 24 hour format |
-| `515a m` | Users have never got an error due to this and it’s extra work to cater for it |
-| `17:15pm` | Users have got this error 12 times but it’s extra work to cater for it |
+| `515a m` | Users have never got an error due to this and it’s extra work to make the service accept it |
+| `17:15pm` | Users have got this error 12 times but it’s extra work to make the service accept it |
 | `17pm` | Not a 12 hour or 24 hour format |
-| `8am-9am` | Not a time |
-| `tbc` | Not a time |
-| `12noon` | Not a time |
+| `8am-9am` | We do not accept ranges |
+| `tbc` | Not 12 hour or 24 hour format |
+| `12noon` | Not 12 hour or 24 hour format |
 
 ## Further considerations
 
