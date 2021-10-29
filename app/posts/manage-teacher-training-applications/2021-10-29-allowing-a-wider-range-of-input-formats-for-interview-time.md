@@ -102,49 +102,49 @@ These examples help to explain the rules we’ll follow. They do not include eve
 
 | Input | Output | Why we accept this input |
 |------------|----------|----------|
-| 05:15 | 5:15am | 24 hour format |
-| 0515 | 5:15am | 24 hour format, no separator |
-| 05.15 | 5:15am | 24 hour format |
-| 05 15 | 5.15am | 24 hour format, ignore space |
-| 5:am | 5am | 12 hour format, ignore colon |
-| 5.am | 5am | 12 hour format, ignore dot |
-| 515am | 5:15am | 12 hour format, no separator |
-| 515.am | 5:15am | 12 hour format, no separator, ignore dot |
-| 515a.m. | 5:15am | 12 hour format, no separator, ignore dots |
-| 515a.m | 5:15am | 12 hour format, no separator, ignore dots |
-| 515 am | 5:15am | 12 hour format, no separator, ignore space |
-| 5 15am | 5:15am | 12 hour format, no separator, ignore space |
-| 5 15 am | 5:15am | 12 hour format, no separator, ignore space |
-| 5 15 | 5:15am | 24 hour format, no separator, no leading zero |
-| 5:15 | 5:15am | 24 hour format, no leading zero |
-| 515 | 5:15am | 24 hour format, no separator, no leading zero |
-| 0515pm | 5:15pm | 12 hour format, no separator, ignore leading zero |
-| 05:15am | 5:15am | 12 hour format, ignore leading zero |
-| 05.15am | 5:15am | 12 hour format, ignore leading zero |
-| 5:00am | 5am | 12 hour format |
-| 13 | 1pm | 24 hour format, no minutes |
-| 5 | 5am | 24 hour format, no minutes, no leading zero |
-| 00 | 12am | 24 hour format, no minutes, no trailing zeros |
-| 05 | 5am | 24 hour format, no minutes |
-| 12 | 12am | 24 hour format, no minutes |
-| 5. | 5am | 24 hour format, no minutes, no leading zero, ignore dot |
+| `05:15` | `5:15am` | 24 hour format |
+| `0515` | `5:15am` | 24 hour format, no separator |
+| `05.15` | `5:15am` | 24 hour format |
+| `05 15` | `5.15am` | 24 hour format, ignore space |
+| `5:am` | `5am` | 12 hour format, ignore colon |
+| `5.am` | `5am` | 12 hour format, ignore dot |
+| `515am` | `5:15am` | 12 hour format, no separator |
+| `515.am` | `5:15am` | 12 hour format, no separator, ignore dot |
+| `515a.m.` | `5:15am` | 12 hour format, no separator, ignore dots |
+| `515a.m` | `5:15am` | 12 hour format, no separator, ignore dots |
+| `515 am` | `5:15am` | 12 hour format, no separator, ignore space |
+| `5 15am` | `5:15am` | 12 hour format, no separator, ignore space |
+| `5 15 am` | `5:15am` | 12 hour format, no separator, ignore space |
+| `5 15` | `5:15am` | 24 hour format, no separator, no leading zero |
+| `5:15` | `5:15am` | 24 hour format, no leading zero |
+| `515` | `5:15am` | 24 hour format, no separator, no leading zero |
+| `0515pm` | `5:15pm` | 12 hour format, no separator, ignore leading zero |
+| `05:15am` | `5:15am` | 12 hour format, ignore leading zero |
+| `05.15am` | `5:15am` | 12 hour format, ignore leading zero |
+| `5:00am` | `5am` | 12 hour format |
+| `13` | `1pm` | 24 hour format, no minutes |
+| `5` | `5am` | 24 hour format, no minutes, no leading zero |
+| `00` | `12am` | 24 hour format, no minutes, no trailing zeros |
+| `05` | `5am` | 24 hour format, no minutes |
+| `12` | `12am` | 24 hour format, no minutes |
+| `5.` | `5am` | 24 hour format, no minutes, no leading zero, ignore dot |
 
 ### Examples of unacceptable time formats
 
-| Input | Why we accept this input |
+| Input | Why we do not accept this input |
 |------------|----------|
-| 0 | Not 12 hour or 24 hour format |
-| 0am | Not 12 hour or 24 hour format |
-| 00am | Not 12 hour or 24 hour format |
-| 9;15am | Uses semicolon |
-| 17:15am | Not a 12 hour or 24 hour format |
-| 1715am | Not a 12 hour or 24 hour format |
-| 515a m | Analysis shows users never type this and it’s extra work to cater for it. |
-| 17:15pm | Analysis shows this has happened 12 times but it’s extra work |
-| 17pm | Not a 12 hour or 24 hour format |
-| 8am-9am | Not a time |
-| tbc | Not a time |
-| 12noon | Not a time |
+| `0` | Not 12 hour or 24 hour format |
+| `0am` | Not 12 hour or 24 hour format |
+| `00am` | Not 12 hour or 24 hour format |
+| `9;15am` | Uses semicolon |
+| `17:15am` | Not a 12 hour or 24 hour format |
+| `1715am` | Not a 12 hour or 24 hour format |
+| `515a m` | Users have never got an error due to this and it’s extra work to cater for it |
+| `17:15pm` | Users have got this error 12 times but it’s extra work to cater for it |
+| `17pm` | Not a 12 hour or 24 hour format |
+| `8am-9am` | Not a time |
+| `tbc` | Not a time |
+| `12noon` | Not a time |
 
 ## Further considerations
 
