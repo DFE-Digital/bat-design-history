@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
   {%- if page.data.layout %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
-    <lastMod>{{ page.date | rssDate }}</lastMod>
+    <lastMod>{{ page.date.toISOString() }}</lastMod>
     <changefreq>{{ page.sitemap.changefreq | default('monthly') }}</changefreq>
 		<priority>{{ page.sitemap.priority | default('0.2') }}</priority>
   </url>
