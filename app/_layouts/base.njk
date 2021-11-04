@@ -8,8 +8,9 @@
 {% block head %}
 <!--[if lte IE 8]><link href="/stylesheets/application-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if gt IE 8]><!--><link href="/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" /><!--<![endif]-->
+<meta name="description" content="{{ description | markdown('inline') | striptags(true) | default('A history of the designs for the Apply, Find, Publish and Register services') }}">
 <meta property="og:title" content="{{ title }}">
-{% if description %}<meta property="og:description" name="description" content="{{ description | markdown("inline") | striptags(true) }}">{% endif %}
+<meta property="og:description" name="description" content="{{ description | markdown('inline') | striptags(true) | default('A history of the designs for the Apply, Find, Publish and Register services') }}">
 <meta property="og:image" content="/opengraph-image.png">
 {% endblock %}
 
