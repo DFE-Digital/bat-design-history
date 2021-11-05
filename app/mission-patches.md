@@ -70,6 +70,9 @@ The team was formed during a period where they couldn’t be physically near, so
   items: [{
     text: "Register trainee teachers private beta",
     caption: "This patch celebrated the service entering private beta with a junior octopus to represent an emerging service. September 2020"
+  }, {
+    text: "10,000 trainee teachers",
+    caption: "10,000 trainees added to Register trainee teachers. October 2021"
   }]
 }) }}
 
