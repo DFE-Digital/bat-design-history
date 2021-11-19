@@ -35,7 +35,7 @@ We want to use a term which is clear and does not require prior knowledge to und
 - what ‘ITT’ means
 - that ‘2022’ refers to the year the course starts, rather than the year in which candidates are recruited
 
-## How we’ll refer to a recruitment cycle from now on
+## How we’ll refer to recruitment cycles from now on
 
 We’ll use the full phrase ‘recruitment cycle’.
 
