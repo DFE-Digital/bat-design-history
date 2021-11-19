@@ -1,6 +1,6 @@
 ---
 title: Referring to recruitment cycles
-description: Making sure we’re consistent in how we communicate to providers about recruitment cycles
+description: Making sure we’re consistent in how we refer to recruitment cycles
 date: 2021-11-19
 screenshots:
   items:
