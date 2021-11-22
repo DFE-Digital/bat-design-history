@@ -19,6 +19,7 @@ We documented the rules and principles which we followed, so that we can:
 ## Rules for writing emails
 
 After auditing all 25 emails that we currently send to providers, we defined rules to ensure we are consistent and clear.
+
 ### Subject line
 
 The subject line should say:
@@ -192,6 +193,7 @@ Use the following footer for emails which can be switched off.
 
 {{ appEmail({
   content: "
+
 # Get help
 
 Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)
@@ -207,6 +209,7 @@ Use the following footer for emails that cannot be switched off.
 
 {{ appEmail({
   content: "
+
 # Get help
 
 Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)
@@ -261,6 +264,7 @@ As a result it’s harder for users to distinguish emails between services. As a
 In future we want to use a separate account and have a service specific from address.
 
 ### Giving users different content depending on whether they have permissions
+
 We want to consider showing different information within the ‘application submitted with safeguarding issues’ based on whether they have permission to view criminal convictions and professional misconduct information.
 
 Similarly, for other emails that ask users to give feedback once an application is automatically rejected. We could only tell users to give feedback if they have permission to do so.
