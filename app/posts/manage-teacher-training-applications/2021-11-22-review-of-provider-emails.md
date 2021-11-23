@@ -2,6 +2,10 @@
 title: Review of provider emails
 description: Making emails clearer and more consistent.
 date: 2021-11-22
+related:
+  items:
+    - text: New provider emails
+      href: https://docs.google.com/document/d/1n05Y66yvLyxj03UEr9TjLqjiZO--fUVB9KGrHZS_uJs/edit#heading=h.tte0cqvhtv4d
 ---
 
 {% from "email/macro.njk" import appEmail %}
