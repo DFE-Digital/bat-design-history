@@ -59,7 +59,7 @@ Keep the subject line short. Give more detail in the opening line if necessary.
 >
 > #### Bad examples
 >
-> - Gorse SCITT has set up organisation permissions for teacher training courses you work on with them
+> - Gorse SCITT has set up organisation permissions for teacher training courses you run with them
 > - Jennifer Walters submitted an application for English Literature (XB55)
 
 For now, we should end all subject lines with “- manage teacher training applications”. This is because we share a GOV&#8203;.&#8203;UK Notify account with other services, and our emails are sent from “Becoming a Teacher”.
@@ -225,9 +225,9 @@ We kept a record of common terms we use in emails, to use them as the basis of a
 - “application for” - not “application to”
 - “automatically rejected” - not “rejected by default” or “RBD”, avoid “automatic rejection” if possible
 - “automatically declined” - not “declined by default” or “application withdrawn automatically”
-- “courses that you work on with” - not “courses run by” or “courses ratified by”
+- “courses you run with” - not “courses you work on with”, “courses run by” or “courses ratified by”
 - “make a decision about” - or if there’s room to spell it out, “make offers and reject applications”, not “respond to the candidate”
-- “offer conditions” - not “conditions” or “your conditions” or “their conditions”
+- “offer conditions” - not “conditions”, “your conditions” or “their conditions”
 - “removed from [organisation]” - not “deleted from [organisation]”
 - “respond” - when candidates reply to offers, not when providers set up an interview or make a decision
 - “submitted an application” - not “application received” or “new application”
@@ -249,7 +249,7 @@ We added:
 
 - the lead-in “Set up organisation permissions” to the link in the email asking users to set up organisation permissions
 - tailored content when there’s only one partner in the email asking users to set up organisation permissions
-- ‘Deadline approaching - ’ to the start of the subject in the email that chases providers to make a decision
+- “Deadline approaching - ” to the start of the subject in the email that chases providers to make a decision
 
 ## Further considerations
 
@@ -257,11 +257,13 @@ We spotted a number of issues we’ll consider later.
 
 ### Using a separate GOV&#8203;.&#8203;UK Notify account
 
-At the moment, we use the same GOV&#8203;.&#8203;UK Notify account to send emails from the ‘Publish teacher training courses’, ‘Manage teacher training applications’ and ‘Register trainee teachers’. This means our emails are sent from “Becoming a Teacher”.
+We use the same GOV&#8203;.&#8203;UK Notify account for the ‘Publish teacher training courses’, ‘Manage teacher training applications’ and ‘Register trainee teachers’ services.
 
-This makes it harder for users to distinguish emails received from different services. As a temporary solution we’re appending “- manage teacher training applications” to every subject line.
+This means all emails have “Becoming a Teacher” as the ‘from address’. This makes it harder to distinguish emails received from different services.
 
-In future we want to have a unique from address for each service.
+As a temporary solution we’ll append “- manage teacher training applications” to the subject line.
+
+In future we want to have a unique ‘from address’ for each service.
 
 ### Giving users tailored content depending on whether they have certain permissions
 
@@ -270,11 +272,13 @@ We’ll consider showing tailored email content for users who lack permissions w
 - submitted with safeguarding information
 - automatically rejected and feedback needs to be sent to the candidate
 
-### Deadline approaching to make a decision email
+### Giving users a chaser email when they were only given 20 days to make a decision
 
-We’ll consider whether we should have an alternative version of the chaser email when only 20 days were given in the first place. For example, we could remind users when 10 days remain.
+We’ll consider if it’s useful to send a chaser email when the user is only given 20 days to make a decision. For example, we could remind them when 10 days remain.
 
-We also want to let users turn off this email notification.
+### Letting users turn off the chaser email notification
+
+We want to let users turn off this email notification.
 
 ### Changing the way we refer to automatically rejected applications
 
@@ -284,7 +288,7 @@ There’s been some work done to avoid the negative connotations with the word �
 
 We put the candidate’s name at the start of several emails because it helps differentiate it from other emails of the same type.
 
-But we’ll consider whether making the name prominent could give someone preconceptions about who they are.
+But we’ll consider whether making the name prominent could give someone preconceptions about the candidate.
 
 ### Showing IP address and user agent when a new sign in is detected
 
@@ -292,12 +296,14 @@ The email we send to users when they sign in from a new device contains the IP a
 
 We’ll consider whether it’s useful and if we should provide the location.
 
+The email is also sent the next time a user signs in after 6 months has passed. We’ll consider whether the current wording is misleading in this case.
+
 ### Highlighting certain details using inset text
 
 We’ll consider if it would be useful to use inset text to highlight details that are different across emails of the same type.
 
 ### Sign in page when DfE Sign-in is unavailable
 
-The sign in page currently mentions ‘login’ instead of ‘sign in’. We’ll make this consistent with the email users receive when they sign in when DfE Sign-in is unavailable.
+The sign in page currently mentions ‘login’ instead of ‘sign in’. We’ll make this consistent with the email which users receive when DfE Sign-in is unavailable.
 
 We’ll also add a referrer to the link so that users are redirected correctly.
