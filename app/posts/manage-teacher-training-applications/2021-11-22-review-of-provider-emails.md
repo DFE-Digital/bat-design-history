@@ -78,8 +78,7 @@ Since each email should deal with only one topic, it should be unnecessary to us
 
 #### Good example
 
-<!-- markdownlint-disable MD025 -->
-
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   content: "Dear Jennifer
 
@@ -92,12 +91,9 @@ https://www.service.com/applications/12345
 ..."
 }) }}
 
-<!-- markdownlint-enable MD025 -->
-
 #### Bad example
 
-<!-- markdownlint-disable MD025 -->
-
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   content: "Dear Jennifer
 
@@ -114,8 +110,6 @@ https://www.service.com/applications/12345
 ..."
 }) }}
 
-<!-- markdownlint-enable MD025 -->
-
 ### Links to the service
 
 The lead-in to the link should say why the user may want to click. Do not say “sign in” as the user may already have signed in.
@@ -124,6 +118,7 @@ The link should usually be at the end of the email body, just before the ‘Get 
 
 #### Good example
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   content: "Dear Jennifer
 
@@ -142,6 +137,7 @@ https://www.service.com/applications/12345
 
 #### Bad example
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   content: "Dear Jennifer
 
@@ -157,8 +153,6 @@ The application will be automatically rejected after 40 working days, on 21 Janu
 
 ..."
 }) }}
-
-<!-- markdownlint-enable MD025 -->
 
 Start with “You can” if the user is unlikely to take immediate action. For example, “You can update the status of the offer conditions:”.
 
@@ -194,6 +188,7 @@ Try not to refer to the service by name. If you cannot do this, put the name in 
 
 Use the following footer for emails which can be switched off.
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   content: "
 
@@ -207,9 +202,11 @@ You can change your email notification settings:
 
 "
 }) }}
+<!-- markdownlint-enable MD025 MD001 -->
 
 Use the following footer for emails that cannot be switched off.
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   content: "
 
@@ -218,6 +215,7 @@ Use the following footer for emails that cannot be switched off.
 Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)
 "
 }) }}
+<!-- markdownlint-enable MD025 MD001 -->
 
 ## Terms we use
 
