@@ -237,18 +237,18 @@ We kept a record of common terms we use in emails, to use them as the basis of a
 
 We removed:
 
-- any mention of GOV&#8203;.&#8203;UK because UCAS has been switched off so there’s no need to differentiate between them
+- any mention of GOV&#8203;.&#8203;UK because the UCAS service has been switched off, so there’s no need to differentiate between them
 - any links to the guidance from the footer because it only contains dates and deadlines
 - the heading “Change your email notification settings” from the footer because it draws too much attention
-- any mention of the reference number because a link to the applications is provided
-- the line “The information can only be viewed if you have permission to view criminal convictions and professional misconduct.” from the emails users get when an application is submitted with safeguarding issues - this is because it’s available in the application
-- the email that users get when courses are opened on Apply because it’s no longer being used
-- the line ‘in your organisation settings’ from the emails to do with setting up and updating organisation permissions because it’s unnecessary
+- any mention of the candidate reference number because we provide a link to the application
+- the line about needing permission to view from the email about safeguarding issues because we tell thim this in the application
+- the email that users get when courses are opened on ‘Apply for teacher training’ because it’s no longer being used
+- the line “in your organisation settings” from the emails about setting up and updating organisation permissions because it’s unnecessary
 
 We added:
 
-- the lead-in “Set up organisation permissions” to the email asking users to set up organisation permissions
-- content to handle the case when there’s only one partner to the email asking users to set up organsition permissions
+- the lead-in “Set up organisation permissions” to the link in the email asking users to set up organisation permissions
+- tailored content when there’s only one partner in the email asking users to set up organisation permissions
 - ‘Deadline approaching - ’ to the start of the subject in the email that chases providers to make a decision
 
 ## Further considerations
