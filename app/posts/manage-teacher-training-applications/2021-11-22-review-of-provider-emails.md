@@ -1,24 +1,22 @@
 ---
 title: Review of provider emails
-description: Making emails clearer and more consistent
+description: Making emails clearer and more consistent.
 date: 2021-11-22
 ---
 
 {% from "email/macro.njk" import appEmail %}
 
-We reviewed the emails sent to providers to make:
+We reviewed the emails sent to providers to:
 
-- them consistent
-- any obvious and easy improvements
+- improve consistency
+- make any obvious and easy improvements
 
-We documented the rules and principles which we followed, so that we can:
-
-- ensure consistency if we create further emails
-- share a style guide with other teams, as a possible starting point for improving consistency between services
+We documented the rules which we followed as a possible starting point for improving consistency between services.
 
 ## Rules for writing emails
 
 After auditing all 25 emails that we currently send to providers, we defined rules to ensure we are consistent and clear.
+
 ### Subject line
 
 The subject line should say:
@@ -28,45 +26,47 @@ The subject line should say:
 
 Start with the most important piece of information, so that users see it even if the subject line has been shortened.
 
-For example, if the email is about a candidate, put ((candidate_name)) as close to the start as possible.
+For example, if the email is about a candidate, put the candidate’s name as close to the start as possible.
 
-#### Good examples
-
-- Jennifer Walters submitted an application for English Literature
-- Jennifer Walters accepted your offer for English Literature
-
-#### Bad example
-
-- Application received from Jennifer Walters for English Literature
-- Offer accepted by Jennifer Walters for English Literature
+> #### Good examples
+>
+> - Jennifer Walters submitted an application for English Literature
+> - Jennifer Walters accepted your offer for English Literature
+>
+> #### Bad examples
+>
+> - Application received from Jennifer Walters for English Literature
+> - Offer accepted by Jennifer Walters for English Literature
 
 If it’s not possible to write concisely with the most important information at the start, you can use a dash as a separator.
 
-#### Good example
-
-- Safeguarding issues - Jennifer Walters submitted an application for English Literature
-- Deadline approaching - Jennifer Walters submitted an application for English Literature
-
-#### Bad example
-
-- Jennifer Walters submitted an application for English Literature which contains safeguarding issues
-- You only have 20 days left to make a decision about Jennifer Walters’s application
+> #### Good examples
+>
+> - Safeguarding issues - Jennifer Walters submitted an application for English Literature
+> - Deadline approaching - Jennifer Walters submitted an application for English Literature
+>
+> #### Bad examples
+>
+> - Jennifer Walters submitted an application for English Literature which contains safeguarding issues
+> - You only have 20 days left to make a decision about Jennifer Walters’s application
 
 Keep the subject line short. Give more detail in the opening line if necessary.
 
-#### Good example
-
-- Jennifer Walters submitted an application for English Literature
-
-#### Bad example
-
-- Jennifer Walters submitted an application for English Literature (XB55)
+> #### Good examples
+>
+> - Gorse SCITT has set up organisation permissions
+> - Jennifer Walters submitted an application for English Literature
+>
+> #### Bad examples
+>
+> - Gorse SCITT has set up organisation permissions for teacher training courses you work on with them
+> - Jennifer Walters submitted an application for English Literature (XB55)
 
 For now, we should end all subject lines with “- manage teacher training applications”. This is because we share a GOV&#8203;.&#8203;UK Notify account with other services, and our emails are sent from “Becoming a Teacher”.
 
 ### Greeting
 
-Start with “Dear ((first_name))”, for example “Dear Peter.
+Start with “Dear [first name]”, for example “Dear Peter”.
 
 ### Headings
 
@@ -105,9 +105,11 @@ https://www.service.com/applications/12345
 
 Peter Parker has submitted an application for English Literature (XB55).
 
+# Next steps
+
 Sign in to view the application:
 
-https://www.example.com/applications/12345
+https://www.service.com/applications/12345
 
 ..."
 }) }}
@@ -131,7 +133,7 @@ The application will be automatically rejected after 40 working days, on 21 Janu
 
 View the application:
 
-https://www.example.com/applications/12345
+https://www.service.com/applications/12345
 
 # Get help
 
@@ -147,7 +149,7 @@ Peter Parker has submitted an application for English Literature (XB55).
 
 View the application:
 
-https://www.example.com/applications/12345
+https://www.service.com/applications/12345
 
 The application will be automatically rejected after 40 working days, on 21 January 2022.
 
@@ -158,33 +160,35 @@ The application will be automatically rejected after 40 working days, on 21 Janu
 
 <!-- markdownlint-enable MD025 -->
 
-Start with “You can” if the action does not need to be done immediately. For example, “You can update the status of the offer conditions:”
+Start with “You can” if the user is unlikely to take immediate action. For example, “You can update the status of the offer conditions:”.
 
 ### Talking about the service
 
 Avoid saying “we” because it’s not clear who “we” are.
 
-#### Good examples
-
-- A new device has been used to sign in to your account.
-- The application will be automatically rejected after 20 working days.
-
-#### Bad examples
-
-- We detected you signed in on a new device.
-- We’ll reject the application on your behalf after 20 working days.
+> #### Good examples
+>
+> - A new device has been used to sign in to your account.
+> - The application will be automatically rejected after 20 working days.
+>
+> #### Bad examples
+>
+> - We detected you signed in on a new device.
+> - We’ll reject the application on your behalf after 20 working days.
 
 ### Referring to services
 
 Try not to refer to the service by name. If you cannot do this, put the name in inverted commas. For example, ‘Register trainee teachers’.
 
-#### Good examples
-
-- Candidates can now find courses.
-
-#### Bad examples
-
-- Candidates can now see courses on Find.
+> #### Good examples
+>
+> - Candidates can now find courses.
+> - Once the candidate has met all the offer conditions, their details will be added to the ‘Register trainee teachers’ service.
+>
+> #### Bad examples
+>
+> - Candidates can now see courses on Find.
+> - Once the candidate has met all the offer conditions, their details will be added to Register trainee teachers.
 
 ### Footer
 
@@ -196,7 +200,7 @@ Use the following footer for emails which can be switched off.
 
 Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)
 
-You can turn off email notifications if you do not want to be told when application statuses change:
+You can change your email notification settings:
 
 ((notifications_link))
 
@@ -218,17 +222,17 @@ Get help, report a problem or give feedback at [becomingateacher@digital.educati
 
 We kept a record of common terms we use in emails, to use them as the basis of a style guide. The terms we recorded are:
 
-- “added to [organisation]” (not “invited to [organisation]”)
-- “application for” (not “application to”)
-- “automatically rejected” (not “rejected by default” or “RBD”, avoid “automatic rejection” if possible)
-- “automatically declined” (not “declined by default” or “application withdrawn automatically”)
-- “courses that you work on with” (not “courses run by” or “courses ratified by”)
-- “make a decision about” (or if there’s room to spell it out, “make offers and reject applications”, not “respond to the candidate”)
-- “offer conditions” (not “conditions” or “your conditions” or “their conditions”)
-- “removed from [organisation]” (not “deleted from [organisation]”)
-- “respond” (when candidates reply to offers, not when providers set up an interview or make a decision)
-- “submitted an application” (not “application received” or “new application”)
-- “update the status of the offer conditions” (not “mark offer conditions as met or not met” or “track conditions”)
+- “added to [organisation]” - not “invited to [organisation]”
+- “application for” - not “application to”
+- “automatically rejected” - not “rejected by default” or “RBD”, avoid “automatic rejection” if possible
+- “automatically declined” - not “declined by default” or “application withdrawn automatically”
+- “courses that you work on with” - not “courses run by” or “courses ratified by”
+- “make a decision about” - or if there’s room to spell it out, “make offers and reject applications”, not “respond to the candidate”
+- “offer conditions” - not “conditions” or “your conditions” or “their conditions”
+- “removed from [organisation]” - not “deleted from [organisation]”
+- “respond” - when candidates reply to offers, not when providers set up an interview or make a decision
+- “submitted an application” - not “application received” or “new application”
+- “update the status of the offer conditions” - not “mark offer conditions as met or not met” or “track conditions”
 
 ## Other changes we made
 
