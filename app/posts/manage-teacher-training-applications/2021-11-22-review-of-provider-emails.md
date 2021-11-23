@@ -196,6 +196,7 @@ Use the following footer for emails which can be switched off.
 
 {{ appEmail({
   content: "
+
 # Get help
 
 Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)
@@ -211,6 +212,7 @@ Use the following footer for emails that cannot be switched off.
 
 {{ appEmail({
   content: "
+
 # Get help
 
 Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)
@@ -263,7 +265,7 @@ This makes it harder for users to distinguish emails received from different ser
 
 In future we want to have a unique from address for each service.
 
-### Giving users different content depending on whether they have permissions
+### Giving users tailored content depending on whether they have certain permissions
 
 We’ll consider showing tailored email content for users who lack permissions when an application is:
 
