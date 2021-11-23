@@ -47,7 +47,7 @@ If it’s not possible to write concisely with the most important information at
 > #### Good examples
 >
 > - Safeguarding issues - Jennifer Walters submitted an application for English Literature
-> - Deadline approaching - Jennifer Walters submitted an application for English Literature
+> - Deadline approaching - Jennifer Walters application for English Literature needs a decision
 >
 > #### Bad examples
 >
