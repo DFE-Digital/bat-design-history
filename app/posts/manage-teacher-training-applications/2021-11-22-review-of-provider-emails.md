@@ -253,11 +253,11 @@ We added:
 
 ## Further considerations
 
-While reviewing all of the emails we spotted some things we’ll consider later.
+We spotted a number of issues we’ll consider later.
 
-### Use a separate GOV&#8203;.&#8203;UK Notify account
+### Using a separate GOV&#8203;.&#8203;UK Notify account
 
-We currently use the same GOV&#8203;.&#8203;UK Notify account to send emails from Publish, Manage and Register. This means our emails are sent from “Becoming a Teacher”.
+At the moment, we use the same GOV&#8203;.&#8203;UK Notify account to send emails from the ‘Publish teacher training courses’, ‘Manage teacher training applications’ and ‘Register trainee teachers’. This means our emails are sent from “Becoming a Teacher”.
 
 This makes it harder for users to distinguish emails received from different services. As a temporary solution we’re appending “- manage teacher training applications” to every subject line.
 
@@ -278,7 +278,7 @@ We also want to let users turn off this email notification.
 
 ### Changing the way we refer to automatically rejected applications
 
-There’s been some work done to avoid the negative connotations with the word ‘rejection’ on the candidate service. We’ll consider the language we use throughout Manage.
+There’s been some work done to avoid the negative connotations with the word ‘rejection’ on the candidate service. We’ll consider the language we use throughout service.
 
 ### Using candidate name at the start of the subject line
 
