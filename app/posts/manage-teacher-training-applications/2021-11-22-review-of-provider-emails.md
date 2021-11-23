@@ -217,7 +217,6 @@ Get help, report a problem or give feedback at [becomingateacher@digital.educati
 "
 }) }}
 
-
 ## Terms we use
 
 We kept a record of common terms we use in emails, to use them as the basis of a style guide. The terms we recorded are:
@@ -239,68 +238,66 @@ We kept a record of common terms we use in emails, to use them as the basis of a
 We removed:
 
 - any mention of GOV&#8203;.&#8203;UK because UCAS has been switched off so there’s no need to differentiate between them
-- links to the guidance from within the footer because it only contains dates and deadlines
-- “Change your email notification settings” from the footer because it draws too much attention and is no longer necessary since we shortened the footer content
-- any reference to the application reference number because a link to the applications is provided
-- the line “The information can only be viewed if you have permission to view criminal convictions and professional misconduct.” from application_submitted_with_safeguarding_issues because that information is available from within the application
-- the courses_open_on_apply email because it’s no longer being used
+- any links to the guidance from the footer because it only contains dates and deadlines
+- the heading “Change your email notification settings” from the footer because it draws too much attention
+- any mention of the reference number because a link to the applications is provided
+- the line “The information can only be viewed if you have permission to view criminal convictions and professional misconduct.” from the emails users get when an application is submitted with safeguarding issues - this is because it’s available in the application
+- the email that users get when courses are opened on Apply because it’s no longer being used
 - the line ‘in your organisation settings’ from the emails to do with setting up and updating organisation permissions because it’s unnecessary
 
 We added:
 
 - the lead-in “Set up organisation permissions” to the email asking users to set up organisation permissions
-- content to handle the case when there’s only one partner to the email asking users t set up organsition permissions
-- ‘Deadline approaching - ’ to the start of the subject to the email chasing providers to make a decision
+- content to handle the case when there’s only one partner to the email asking users to set up organsition permissions
+- ‘Deadline approaching - ’ to the start of the subject in the email that chases providers to make a decision
 
 ## Further considerations
 
-While reviewing all of the emails we spotted some things we’d like to consider in future.
+While reviewing all of the emails we spotted some things we’ll consider later.
 
 ### Use a separate GOV&#8203;.&#8203;UK Notify account
 
 We currently use the same GOV&#8203;.&#8203;UK Notify account to send emails from Publish, Manage and Register. This means our emails are sent from “Becoming a Teacher”.
 
-As a result it’s harder for users to distinguish emails between services. As a temporary solution we are appending “- manage teacher training applications” to every subject line.
+This makes it harder for users to distinguish emails received from different services. As a temporary solution we’re appending “- manage teacher training applications” to every subject line.
 
-In future we want to use a separate account and have a service specific from address.
+In future we want to have a unique from address for each service.
 
 ### Giving users different content depending on whether they have permissions
-We want to consider showing different information within the ‘application submitted with safeguarding issues’ based on whether they have permission to view criminal convictions and professional misconduct information.
 
-Similarly, for other emails that ask users to give feedback once an application is automatically rejected. We could only tell users to give feedback if they have permission to do so.
+We’ll consider showing tailored email content for users who lack permissions when an application is:
+
+- submitted with safeguarding information
+- automatically rejected and feedback needs to be sent to the candidate
 
 ### Deadline approaching to make a decision email
 
-We want to consider whether we should have an alternative version of the chaser when only 20 days were given in the first place. We could, for example, remind users when 10 days remain.
+We’ll consider whether we should have an alternative version of the chaser email when only 20 days were given in the first place. For example, we could remind users when 10 days remain.
 
-We could do further analysis to work out if there’s a better time to send this email.
-
-We would also like to let users switch this email notification off.
+We also want to let users turn off this email notification.
 
 ### Changing the way we refer to automatically rejected applications
 
-There’s been work underway to avoid the negative connotations with the word ‘rejection’.
-
-We want to consider this throughout the service because ideally we do not want candidates and providers to talk about the same thing using different terms.
+There’s been some work done to avoid the negative connotations with the word ‘rejection’ on the candidate service. We’ll consider the language we use throughout Manage.
 
 ### Using candidate name at the start of the subject line
 
-We put the candidate’s name at the start of several email notifications because it helps to differentiate it from other emails of the same type.
+We put the candidate’s name at the start of several emails because it helps differentiate it from other emails of the same type.
 
-But we want to consider whether the name being prominent could give someone preconceptions about who they are.
+But we’ll consider whether making the name prominent could give someone preconceptions about who they are.
 
 ### Showing IP address and user agent when a new sign in is detected
 
-The email we sent to users when they sign in from a new device contains the IP address and user agent string.
+The email we send to users when they sign in from a new device contains the IP address and user agent string.
 
-We want to consider if this is useful and whether we should provide the server location.
+We’ll consider whether it’s useful and if we should provide the location.
 
 ### Highlighting certain details using inset text
 
-We want to consider whether using inset text to pull the details that are different across emails of the same type would be useful.
+We’ll consider if it would be useful to use inset text to highlight details that are different across emails of the same type.
 
 ### Sign in page when DfE Sign-in is unavailable
 
-The sign in page currently mentions ‘login’ instead of ‘sign in’. We want to make this consistent with the email users receive when they use the email fallback to sign in.
+The sign in page currently mentions ‘login’ instead of ‘sign in’. We’ll make this consistent with the email users receive when they sign in when DfE Sign-in is unavailable.
 
-We’d also like to add a referrer on the link so that users can be redirected correctly.
+We’ll also add a referrer to the link so that users are redirected correctly.
