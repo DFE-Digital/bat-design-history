@@ -1,43 +1,40 @@
 ---
-title: Improving the qualifications section of the application details
-description: We moved the qualifications from cards to summary lists and made various improvements to how we display this information.
+title: Improving the qualifications section of the application details page
+description: We put qualifications into summary lists and made other improvements to how we display them
 date: 2021-11-23
 ---
 
-Providers check the candidate’s qualifications when assessing their application, particularly in the early ‘sift’ to check that the candidate meets the minimum requirements.
+Providers check a candidate’s qualifications when assessing their application, particularly in the early ‘sift’ to check that the candidate meets the minimum requirements of the course.
 
-We started this piece of work because in some circumstances the service did not play back information given by candidates about GCSEs or equivalents.
+We started this piece of work because in some circumstances the service did not play back information given by candidates about GCSEs or equivalent qualifications.
 
-Fixing this problem led to us working on the rest of the qualifications section of the application.
+Fixing this problem led to us making changes to other parts of the qualifications section.
 
 ## What candidates are asked when they apply
 
-Candidates are asked about:
+When they apply, candidates are asked about their:
 
-- English and maths GCSE or equivalent qualifications
-- science GCSE or equivalent qualification, if they’re applying for a primary course
+- GCSEs or equivalent qualifications
 - English as a foreign language qualification, if they are not British or Irish
-- A levels and other qualifications - adding these is optional
+- A levels and other qualifications, if they want to add them
 - degrees
-
-The wording given here is not always exactly as it is in the candidate service.
 
 ### GCSEs or equivalent qualifications
 
 Candidates are asked about their English and maths qualifications. They’re also asked about science if they’re applying for a primary course.
 
-The options for each qualification are:
+For each subject, the candidate has to say whether they have:
 
-- GCSE
-- O level
-- Scottish National 5
+- a GCSE
+- an O level
+- a Scottish National 5
 - another UK qualification
 - a non-UK qualification
-- I do not have a GCSE in [subject] (or equivalent) yet
+- no GCSE or equivalent
 
-#### UK qualification
+#### GCSE, O level, Scottish National 5 or another UK qualification
 
-Candidates who have a GCSE, O level, Scottish National 5 or another UK qualification are asked to enter:
+Candidates who have a UK qualification are asked to enter:
 
 - qualification name - if they answered ‘another UK qualification’
 - grade
@@ -47,33 +44,36 @@ Candidates who have a GCSE, O level, Scottish National 5 or another UK qualifica
 
 #### Non-UK qualification
 
-Candidates who have a non-UK qualification are asked whether they have a statement of comparability from UK ENIC. If they do, they’re asked for:
-
-- UK ENIC reference number
-- the comparable UK qualification
-
-The options for comparable qualifications are:
-
-- GCSE (grades A*-C / 9-4)
-- Between GCSE and GCE AS level
-- GCE Advanced Subsidiary (AS) level
-- GCE Advanced (A) level
-
-Whether or not they have a statement of comparability, they’re asked for:
+Candidates with non-UK qualifications are asked for:
 
 - qualification name, for example Baccalauréat Général
 - the country or territory in which they studied
-- if they have a statement of comparability from UK ENIC
-- grade - the options are ‘Not applicable’, ‘Unknown’ or ‘Other’, with the last of these leading to entering a grade
+- if they have a statement of comparability from UK ENIC, the UK agency that recognises international qualifications and skills
+- UK ENIC reference number - if they said they have a statement of comparability
+- the comparable UK qualification - if they said they have a statement of comparability
+- grade
 - year awarded
+
+The options for comparable UK qualifications are:
+
+- GCSE (grades A* to C or 9 to 4)
+- between GCSE and AS level
+- AS level
+- A level
+
+The options for grade are:
+
+- not applicable
+- unknown
+- other - the candidate needs to enter a grade if they choose this
 
 #### No GCSE or equivalent qualification
 
-Candidates who do not have a GCSE or equivalent qualification are asked “Are you currently studying for a GCSE in [subject], or equivalent?”
+Candidates who do not have a GCSE or equivalent qualification are if they're currently studying for a GCSE or equivalent in the subject.
 
-If they are studying, they are asked to enter details of the qualification they’re studying for.
+If they’re studying for it, they’re asked to enter details of the qualification they’re studying for.
 
-If they are not studying, they’re asked for evidence of having skills at the required standard.
+If they are not studying for it, they’re asked for evidence of having skills at the required standard.
 
 ### English as a foreign language qualification
 
@@ -81,15 +81,13 @@ Candidates who are not British or Irish are asked “Have you done an English as
 
 The options are:
 
-- Yes
-- No, English is not a foreign language to me
-- No, I have not done an English as a foreign language assessment
+- yes
+- no, English is not a foreign language to me
+- no, I have not done an English as a foreign language assessment
 
-#### Has done an English as a foreign language assessment
+#### The candidate has done an English as a foreign language assessment
 
-If the candidate answered “yes” they’re asked, “What English language assessment did you do?”
-
-The options are:
+If the candidate answered “yes” then they’re asked what assessment they did. The options are:
 
 - International English Language Testing System (IELTS)
 - Test of English as a Foreign Language (TOEFL)
@@ -115,22 +113,21 @@ If they did another assessment, they’re asked for:
 
 #### English is not a foreign language to the candidate
 
-If the candidate answered “No, English is not a foreign language to me” they do not need to answer any more questions.
+If the candidate answered “No, English is not a foreign language to me” then they do not need to answer any more questions.
 
-#### Candidate has not done an English as a foreign language assessment
+#### The candidate has not done an English as a foreign language assessment
 
-If the candidate answered “No, I have not done an English as a foreign language assessment”, they’re asked to enter details of any assessment they’re planning to take.
+If the candidate answered “No, I have not done an English as a foreign language assessment” then they’re asked to enter details of any assessment they’re planning to take.
 
 ### A levels and other qualifications
 
-Candidates are asked “Do you want to add any A levels and other qualifications?” The options are:
+Candidates are asked “Do you want to add any A levels and other qualifications?” They can enter:
 
 - A level
 - AS level
 - GCSE
-- Other UK qualification
-- Non-UK qualification
-- I do not want to add any other qualifications
+- other UK qualification
+- non-UK qualification
 
 If the candidate wants to add a qualification, they must enter the details of the qualification.
 
@@ -144,9 +141,9 @@ For A level, AS level, GCSE and other UK qualifications, the candidate is asked 
 For non-UK qualifications, the candidate is asked for:
 
 - qualification name
-- subject (optional)
+- subject - this is optional
 - country or territory where they studied
-- grade (optional)
+- grade - this is optional
 - year awarded
 
 ### Degrees
@@ -154,13 +151,13 @@ For non-UK qualifications, the candidate is asked for:
 Candidates are asked to add at least one undergraduate degree. The options are:
 
 - UK degree
-- Non-UK degree
+- non-UK degree
 
 #### UK degree
 
 Candidates are asked to enter:
 
-- degree type, for example, “BSc Bachelor of Science”
+- degree type - for example, “BSc Bachelor of Science”
 - subject
 - institution
 - whether they have completed the degree
@@ -176,7 +173,9 @@ Candidates are asked to enter:
 - subject
 - institution name
 - country or territory in which the institution is based
-- whether they have a statement of comparability from UK ENIC - if so then they’re asked for the UK ENIC reference number and comparable UK degree
+- whether they have a statement of comparability from UK ENIC
+- UK ENIC reference number - if they said they have a statement of comparability
+- the comparable UK degree - if they said they have a statement of comparability
 - whether they have completed the degree
 - grade - or the grade they expect they’ll get if they haven’t completed the degree
 - start year
@@ -199,19 +198,17 @@ We decided to show GCSEs in summary lists, rather than in cards. We did this bec
 
 - easier to understand because questions can be replayed alongside answers
 - more capable of displaying long answers
-- consistent with the rest of the application details
+- consistent with the rest of the application details page
 - a standard pattern in the design system
 
-We decided to also use summary lists for degrees and English as a foreign language assessments.
-
-We also made changes to make sure the service accurately replays the information which candidates entered.
+We decided to also use summary lists for degrees and English as a foreign language assessments. We also made other changes to make sure the service accurately replays the information which candidates entered.
 
 To ensure consistency we decided to create some rules about how we play back information. We will:
 
 - keep separate questions and answers separate rather than combining them into a single line when we replay them
 - leave out questions where the answer just allows the candidate to give details - for example, we do not replay “Do you have a UK ENIC statement of comparability?” if the answer is yes since we can just replay the details
 - shorten simple questions - for example “What is your email address?” is shown as “Email address”
-- show questions in full if doing so will help providers understand what was asked - for example, we show “Have you completed this degree?” as “Completed” could be ambiguous
+- show questions in full if doing so will help providers understand what was asked - for example, we show “Have you completed this degree?” since “Completed” could be ambiguous
 
 ## How it works
 
@@ -219,7 +216,7 @@ We show details of the candidate’s qualifications in this order:
 
 - degrees
 - GCSEs or equivalents
-- English as a foreign language qualification - if the candidate is not British or Irish, and did not say that English is not a foreign language to them
+- English as a foreign language qualification - if the candidate is not from the UK or Ireland, and did not say that English is not a foreign language to them
 - A levels and other qualifications
 
 ### Degrees
