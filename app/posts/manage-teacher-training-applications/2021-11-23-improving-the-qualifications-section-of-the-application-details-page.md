@@ -263,7 +263,7 @@ For a non-UK degree, the fields we show are:
 - UK ENIC reference number - if they said they have a statement of comparability
 - Comparable UK degree - if they said they have a statement of comparability
 
-![International candidate degree](qualifications-degree--international.png "International candidate")
+![International candidate degree](qualifications-degree--international.png "International candidate degree")
 
 ![International candidate degree without a UK ENIC statement of comparability](qualifications-degree--international-no-uk-enic.png "International candidate degree without UK ENIC statement of comparability")
 
@@ -313,9 +313,9 @@ If the candidate has a non-UK qualification, we show:
 - UK ENIC reference number - if they said they have a statement of comparability
 - Comparable UK qualification - if they said they have a statement of comparability
 
-![International candidate with equivalent qualification](qualifications-gcse--international.png "International candidate with equivalent qualification")
+![International candidate with a UK ENIC statement of comparability](qualifications-gcse--international.png "International candidate with a UK ENIC statement of comparability")
 
-![International candidate without comparable qualification](qualifications-gcse--international-no-uk-enic.png "International candidate without comparable qualification")
+![International candidate without a UK ENIC statement of comparability](qualifications-gcse--international-no-uk-enic.png "International candidate without a UK ENIC statement of comparability")
 
 #### No GCSE or equivalent
 
@@ -369,7 +369,7 @@ If the candidate said they did a TOEFL assessment, we show:
 - Total score
 - Year completed
 
-![International candidate has English as an TOEFL foreign language assessment](qualifications-english-assessment--TOEFL.png "International candidate has English as an TOEFL foreign language assessment")
+![International candidate has English as a TOEFL foreign language assessment](qualifications-english-assessment--TOEFL.png "International candidate has English as a TOEFL foreign language assessment")
 
 If the candidate said they did another type of assessment, we show:
 
@@ -386,7 +386,7 @@ If the candidate has not done an English as a foreign language assessment, we sh
 - Have you done an English as a foreign language assessment?
 - If you’re planning on doing an assessment, give details - we show “Not provided” if the candidate did not give details
 
-![International candidate doesn’t have an English as a foreign language qualification](qualifications-english-assessment--no.png "International candidate doesn’t have an English as a foreign language qualification")
+![International candidate doesn’t have an English as a foreign language assessment](qualifications-english-assessment--no.png "International candidate doesn’t have an English as a foreign language assessment")
 
 ### A levels and other qualifications
 
