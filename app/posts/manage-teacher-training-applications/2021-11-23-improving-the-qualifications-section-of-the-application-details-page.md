@@ -2,6 +2,10 @@
 title: Improving the qualifications section of the application details page
 description: We put qualifications into summary lists and made other improvements to how we display them
 date: 2021-11-23
+related:
+  items:
+    - text: Making it clearer that a candidate has chosen not to add A levels and other qualifications
+      href: /manage-teacher-training-applications/making-it-clearer-that-a-candidate-has-chosen-not-to-add-a-levels-and-other-qualifications/
 ---
 
 Providers check a candidate’s qualifications when assessing their application, particularly in the early ‘sift’ to check that the candidate meets the minimum requirements of the course.
@@ -390,7 +394,7 @@ If the candidate has not done an English as a foreign language assessment, we sh
 
 ### A levels and other qualifications
 
-The A levels and other qualifications section was recently changed to use a table. Using a summary list could make the section very long for some users, so we have left it as a table for now.
+[The A levels and other qualifications section was recently changed](/manage-teacher-training-applications/making-it-clearer-that-a-candidate-has-chosen-not-to-add-a-levels-and-other-qualifications/) to use a table. Using a summary list could make the section very long for some users, so we have left it as a table for now.
 
 We will no longer play back the question “Do you want to add A levels and other qualifications?” if the answer was “yes”. This is because the answer was only given so that the candidate could give details.
 
