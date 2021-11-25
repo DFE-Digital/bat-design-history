@@ -265,7 +265,7 @@ For a non-UK degree, the fields we show are:
 
 ![International candidate degree](qualifications-degree--international.png "International candidate")
 
-![International candidate degree without UK ENIC statement of comparability](qualifications-degree--international-no-uk-enic.png "International candidate degree without UK ENIC statement of comparability")
+![International candidate degree without a UK ENIC statement of comparability](qualifications-degree--international-no-uk-enic.png "International candidate degree without UK ENIC statement of comparability")
 
 ![International candidate who hasn’t completed their degree](qualifications-degree--international-incomplete.png "International candidate who hasn’t completed their degree")
 
@@ -292,10 +292,10 @@ If the candidate has a qualification but did not get a grade C or 4, or the equi
 - Qualification type
 - Grade
 - Year awarded
-- Are you currently studying to retake this qualification?
-- Evidence of having [subject] skills at the right level - this is “Not provided” if the candidate did not enter anything
+- Are you currently studying to retake this qualification? - we replay this even if the candidate said ‘yes’ because they are not asked for details
+- Evidence of having [subject] skills at the right level - if they are not studying to retake it
 
-We show ‘Are you currently studying to retake this qualification?’ even if they say ‘yes’ because they are not asked for details.
+The evidence field is optional and we show “Not provided” if the candidate did not enter anything.
 
 ![Candidate retaking GCSE qualification](qualifications-gcse--retaking.png "Candidate retaking GCSE qualification")
 
@@ -324,7 +324,7 @@ If the candidate said that they do not have an English qualification yet, we sho
 - What type of English qualification do you have? - the answer will be “I do not have a GCSE in [subject] (or equivalent) yet”
 - Are you currently studying for this qualification?
 - Details of the qualification you’re studying for - if they said they’re studying for it
-- Evidence of having [subject] skills at the right level
+- Evidence of having [subject] skills at the right level - if they said they are not studying for it
 
 We decided to show ‘Are you currently studying for this qualification?’ even if they say ‘yes’ because we think the answer is more than just a way to give details.
 
@@ -351,7 +351,7 @@ If the candidate says that they did an English as a foreign language assessment,
 
 Previously if the candidate answered ‘other’ we replayed this answer. We then replayed the assessment name on a separate line.
 
-We will now not show ‘other’ because it has no meaning in itself. It is only an option to allow the candidate to enter details. So we just replay the assessment name.
+We will now not show ‘other’ because it has no meaning in itself. It is only an option to allow the candidate to enter details, so we just replay the assessment name.
 
 If the candidate said they did an IELTS assessment, we show:
 
@@ -384,20 +384,26 @@ If the candidate said they did another type of assessment, we show:
 If the candidate has not done an English as a foreign language assessment, we show:
 
 - Have you done an English as a foreign language assessment?
-- If you’re planning on doing an assessment, give details
+- If you’re planning on doing an assessment, give details - we show “Not provided” if the candidate did not give details
 
 ![International candidate doesn’t have an English as a foreign language qualification](qualifications-english-assessment--no.png "International candidate doesn’t have an English as a foreign language qualification")
 
 ### A levels and other qualifications
 
-The A levels and other qualifications section was changed recently and now uses a table. Using a summary list could make the section very long for some users.
+The A levels and other qualifications section was recently changed to use a table. Using a summary list could make the section very long for some users, so we have left it as a table for now.
 
 We will no longer play back the question “Do you want to add A levels and other qualifications?” if the answer was “yes”. This is because the answer was only given so that the candidate could give details.
 
-We also changed the table heading “Qualification” to “Qualification type”. This was to make it consistent with the other parts of this section of the application details.
+We also changed the table heading “Qualification” to “Qualification type”. This was to make it consistent with the other parts of the qualifications section.
 
 ![Candidate has added A levels and other qualifications](qualifications-other--yes.png "Candidate has added A levels and other qualifications")
 
 ![Candidate doesn’t want to add A levels and other qualifications](qualifications-other--no.png "Candidate doesn’t want to add A levels and other qualifications")
 
 ## Other considerations
+
+We should review the whole application details page because:
+
+- working on this section revealed some inconsistencies between our service and the candidate service
+- we’ve made some decisions which we should implement throughout the page, for example not showing questions and answers which exist only to allow candidates to enter further details
+- we’d like to address other issues with the page which have been found in research, such as the order in which sections appear
