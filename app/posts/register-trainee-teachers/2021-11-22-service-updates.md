@@ -57,4 +57,4 @@ We will not use it for everything we release because the user interface should m
 
 We’ll also use it to remind users of significant dates and changes to ITT data collection, for example DTTP switch off and the ongoing work with HESA data.
 
-Anybody on the team can recommend an entry for ‘News and updates’. It will need to get approval from the product manager and then be written by the content designer before it's posted.
+Anybody on the team can recommend an entry for ‘News and updates’. It will need to get approval from the product manager and then be written by the content designer before it’s posted.
