@@ -27,7 +27,6 @@ It’s crucial for us to communicate with the providers involved in ITT data col
 
 Some users told us that they relied on emails from DfE about updates, but admitted that they could be missed amongst the many that DfE send. Some also told us that they read updates on the DTTP homepage to find out the latest information.
 
-
 As we added more training routes to Register and increased the amount of data collected, we experienced more support queries and more need for us to tell users about features we’d released.
 
 There was an obvious need for us to communicate with users about common support queries we were receiving. For example, on certain training routes there is no need for us to collect data on schools when a trainee is either self funded or is employed by a private school.
@@ -57,4 +56,4 @@ We will not use it for everything we release because the user interface should m
 
 We’ll also use it to remind users of significant dates and changes to ITT data collection, for example DTTP switch off and the ongoing work with HESA data.
 
-Anybody on the team can recommend an entry for ‘News and updates’. It will need to get approval from the product manager and then be written by the content designer before it's posted.
+Anybody on the team can recommend an entry for ‘News and updates’. It will need to get approval from the product manager and then be written by the content designer before it’s posted.
