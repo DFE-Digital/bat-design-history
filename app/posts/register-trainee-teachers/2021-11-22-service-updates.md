@@ -44,7 +44,7 @@ We did not want to solely focus on the what’s new aspect as this content could
 
 Similar to the design system, the latest message is posted on Register’s sign in page. It contains the date the message was published, a headline and then main body content of the news or update.
 
-Beneath the latest message users can view all of the previous messages through the link - they do not have to be signed in to view this page. There’s also a link to this page from Register’s homepage:
+Beneath the latest message users can view all of the previous messages through the link - they do not have to be signed in to view this page. There’s also a link to this page from Register’s homepage.
 
 On the news and updates page, users can view all of the messages that have been posted, in chronological order. We’re using anchor links so it’s easier for users to find what they’re looking for. We can also link to specific posts in our other communications, for example, provider emails or the BAT (Becoming a teacher) newsletter.
 
