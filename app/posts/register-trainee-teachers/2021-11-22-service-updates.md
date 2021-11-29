@@ -27,7 +27,6 @@ It’s crucial for us to communicate with the providers involved in ITT data col
 
 Some users told us that they relied on emails from DfE about updates, but admitted that they could be missed amongst the many that DfE send. Some also told us that they read updates on the DTTP homepage to find out the latest information.
 
-
 As we added more training routes to Register and increased the amount of data collected, we experienced more support queries and more need for us to tell users about features we’d released.
 
 There was an obvious need for us to communicate with users about common support queries we were receiving. For example, on certain training routes there is no need for us to collect data on schools when a trainee is either self funded or is employed by a private school.
