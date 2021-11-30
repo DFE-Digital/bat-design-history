@@ -78,6 +78,19 @@ The team was formed during a period where they couldn’t be physically near, so
 
 * * *
 
+## Get Into Teaching
+
+The mascot for Get into Teaching is called Tian. We chose a mole with a plaid shirt and a mug due to the fact that we were beginning to open up more as a society, much like a mole surfacing from underground. 
+
+We chose the plaid shirt and mug due to the fact that several team members shared this 'look' as a profile picture on Slack.
+
+{{ appGallery({
+  items: [{
+    text: "Get Into Teaching Public Beta",
+    caption: "This patch celebrated the service entering Public Beta with a mole to represent our emergence. April 2021. 
+
+* * *
+
 ## Other projects
 
 {{ appGallery({
