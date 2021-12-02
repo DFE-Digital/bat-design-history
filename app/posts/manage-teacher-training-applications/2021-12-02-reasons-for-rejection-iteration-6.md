@@ -75,7 +75,7 @@ We dropped “accepted” because it’s unnecessary.
 
 We will only show:
 
-- “No science GCSE grade (C) or above, or equivalent” when the candidate is not applying to a primary course
+- “No science GCSE grade (C) or above, or equivalent” when the candidate is not applying to a primary course§
 - “Subject knowledge” when the candidate is not applying to a primary course
 - “Visa sponsorship” when the candidate does not have british citizenship
 
@@ -91,6 +91,19 @@ We changed “No degree” to “No bachelor’s degree, or equivalent” becaus
 We try to avoid giving users instructions like ‘select’, ‘enter’ in order to be more concise.
 
 So we changed the label to “Details”.
+
+### Frontloading the reasons withing “Teaching knowledge and ability”
+
+To make the reasons easier to distinguis, we changed:
+
+- “Understanding of subject” to “Subject knowledge”
+- “Understanding of safeguarding to “Safeguarding knowledge”
+- “Understanding of teaching method” to “Teaching method knowledge”
+- “Understanding of teaching role to “Teaching role knowledge”
+
+### Improving the words for no maths, English and science GCSE reasons
+
+...
 
 ### We decided not to change “safeguarding” to “possible risk to children”
 
