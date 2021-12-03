@@ -1,6 +1,6 @@
 ---
 title: Reasons for rejection iteration 6
-description: We made a few changes to the reasons for rejection flow to ready it for production.
+description: Getting the new flow ready for production.
 date: 2021-12-02
 tags:
   - AN029
@@ -29,85 +29,93 @@ The candidate user need this meets is:
 
 We tested our new approach with 11 users in person and by sending 61 users a tree test.
 
-It tested very well in comparison with the [previous version](/manage-teacher-training-applications/reasons-for-rejection-iteration-5/).
+It tested very well in comparison with the [previous version](/manage-teacher-training-applications/reasons-for-rejection-iteration-5/). However, we have made some changes.
 
-However, we made some changes based on some of the issues we did find.
+## What we changed
 
-### Changing “Communication and scheduling” to “Communication, attendance and scheduling”
+We have:
 
-In the tree test, we told users to imagine they had an application where the candidate did not show up for their interview. And then to choose a reason for rejection.
+- changed the wording of some of the reasons
+- decided to only show certain reasons when they’re relevant to the application
 
-44 people took the correct path. But 17 people chose ‘other’ indicating that the label did not work well enough.
+### Changing the reasons within “Qualifications”
 
-We changed the from “Communication and scheduling” to “Communication, attendance and scheduling” to give users the best chance of understanding the options that are inside.
+We changed:
 
-### Changing “Presentation skills” to “Teaching demonstration”
+- “No maths GCSE grade 4 &#40;C&#41; or above, or accepted equivalent” to “No maths GCSE at minimum grade 4 or C, or equivalent”
+- “No English GCSE grade 4 &#40;C&#41; or above, or accepted equivalent” to “No English GCSE at minimum grade 4 or C, or equivalent”
+- “No science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent” to “No science GCSE at minimum grade 4 or C, or equivalent”
 
-We asked some users in person to reject an application on the basis that they did not perform well at interview.
-
-We noticed that users did not instantly tick “Teaching knowledge and ability”. When probed, users said that most of the options relate to issues found before candidates are invited for interview.
-
-We know that 14% of applications are rejected due to the candidate’s performance at interview.
-
-We considered changing the label to “Teaching knowledge, ability and interview”. But we decided not to change this because it could cause hesitation for users if the reason was to do with not attending interview which is part of “Communication, attendance and scheduling”.
-
-We did change “Presentation skills” to “Teaching demonstration” to broaden the reason so that it can be used for different things relating to the candidate’s demonstration.
-
-### Deciding not to add an option “Other candidates are better and placed are limited”
-
-Some providers tell candidates that their application was rejected due to having better candidates.
-
-And prior to launching structured reasons for rejection, 33 out of approximately 500 applications were rejected due to this reason.
-
-We considered adding a new reason for this but we decided not to because:
-
-- users should give candidates clear feedback about what they can do to improve
-- “Other” can be used to give feedback
-- it has not been used a lot since launching structured reasons for rejection
-
-### Changing ‘accepted equivalent’ to ‘equivalent’
-
-Within the qualifications section, we have reasons such as “No maths GCSE grade 4 (C)or above, or accepted equivalent”.
-
-We dropped “accepted” because it’s unnecessary.
-
-### Only showing reasons if they are applicable to the type of application
-
-We will only show:
-
-- “No science GCSE grade (C) or above, or equivalent” when the candidate is not applying to a primary course§
-- “Subject knowledge” when the candidate is not applying to a primary course
-- “Visa sponsorship” when the candidate does not have british citizenship
-
-### Changing “No degree” to “No bachelor’s degree, or equivalent”
+The new labels are clearer and more concise.
 
 We changed “No degree” to “No bachelor’s degree, or equivalent” because:
 
-- it’s more specific - for example, a foundation degree is not eligible
 - matches what candidate’s are asked
+- it’s more specific - for example, a foundation degree is not accepted, for
 
-### Changing “Give details” to “Details”
+### Changing “Communication and scheduling” to “Communication, attendance and scheduling”
 
-We try to avoid giving users instructions like ‘select’, ‘enter’ in order to be more concise.
+In the tree test, we asked users to select the right option for when the candidate did not show up for their interview.
 
-So we changed the label to “Details”.
+44 people took the correct path. But 17 people chose ‘other’ indicating that the label did not work well enough.
 
-### Frontloading the reasons withing “Teaching knowledge and ability”
+So we changed “Communication and scheduling” to “Communication, attendance and scheduling” to make it clearer.
 
-To make the reasons easier to distinguis, we changed:
+### Changing “Presentation skills” to “Teaching demonstration”
+
+Our analysis shows that 14% of applications are rejected due to performance at interview.
+
+We asked users to reject an application on the basis that the candidate did not perform well at interview. Some users did not instantly tick “Teaching knowledge and ability”. They said that most of the reasons are applicable before the interview.
+
+We considered changing the label to “Teaching knowledge, ability and interview”. But we decided not to because it could cause hesitation. For example, if the reason the user is looking for is “Did not attend interview” which is within “Communication, attendance and scheduling”.
+
+We did change “Presentation skills” to “Teaching demonstration” to broaden the reason so that it can be used for different things relating to the candidate’s demonstration.
+
+### Changing the reasons within “Teaching knowledge and ability”
+
+We changed:
 
 - “Understanding of subject” to “Subject knowledge”
 - “Understanding of safeguarding to “Safeguarding knowledge”
 - “Understanding of teaching method” to “Teaching method knowledge”
 - “Understanding of teaching role to “Teaching role knowledge”
 
-### Improving the words for no maths, English and science GCSE reasons
+This makes the reasons easier to distinguish.
 
-...
+### Changing “Give details” to “Details”
 
-### We decided not to change “safeguarding” to “possible risk to children”
+We changed all instances of “Give details” to “Details”. This is more concise.
 
-...
+### Showing certain reasons when they’re relevant to the application
+
+We’ll only show:
+
+- “No science GCSE at minimum grade 4 or C, or equivalent” when the candidate is applying to a primary course
+- “Subject knowledge” when the candidate is applying to a primary course
+- “Visa sponsorship” when the candidate does not have British citizenship
+
+### Deciding not to change “safeguarding” to “possible risk to children”
+
+We considered changing:
+
+- “Safeguarding” to “Possible risk to children”
+- “Understanding of safeguarding” to “Understanding about child safety in schools”
+
+We think this is clearer and avoids jargon.
+
+But we decided not to make this change because safeguarding as a term is well understood and would require a significant effort to apply this change across the service.
+
+### Deciding not to add an option “Other candidates are better and placed are limited”
+
+Some providers tell candidates that their application was rejected due to having better candidates.
+
+And prior to launching structured reasons for rejection, 33 out of 660 applications were rejected due to this reason.
+
+We considered adding a new reason for this but we decided not to because:
+
+- users should give candidates feedback about how they can improve
+- “Other” can be used to give feedback
+- it has not been used much since launching structured reasons for rejection
 
 ## Emails
 
