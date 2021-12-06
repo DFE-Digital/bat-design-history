@@ -22,14 +22,14 @@ related:
 
 We recently redesigned the way users [reject applications and give feedback to candidates](/manage-teacher-training-applications/reasons-for-rejection-iteration-5/).
 
-The candidate user need this meets is:
+The user need this meets is:
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
-We tested our new approach with 11 users in person and by sending 61 users a tree test.
+We tested our new approach with 11 users in person and by sending a tree test to 61 users.
 
-It tested very well in comparison with the [previous version](/manage-teacher-training-applications/reasons-for-rejection-iteration-5/). However, we have made some changes.
+It tested very well but we decided to make some changes.
 
 ## What we changed
 
@@ -38,7 +38,7 @@ We have:
 - changed the wording of some of the reasons
 - decided to only show certain reasons when they’re relevant to the application
 
-### Changing the reasons within “Qualifications”
+### Changing the reasons within ‘qualifications’
 
 We changed:
 
@@ -48,28 +48,18 @@ We changed:
 
 The new labels are clearer and more concise.
 
-We changed “No degree” to “No bachelor’s degree, or equivalent” because:
+We changed “No degree” to “No bachelor’s degree, or equivalent” because it:
 
-- matches what candidate’s are asked
-- it’s more specific - for example, a foundation degree is not accepted, for
+- matches what candidates are asked
+- is more specific - for example, a foundation degree is not accepted
 
-### Changing “Communication and scheduling” to “Communication, attendance and scheduling”
+### Changing ‘communication and scheduling’ to ‘communication, attendance and scheduling’
 
-In the tree test, we asked users to select the right option for when the candidate did not show up for their interview.
+In the tree test, we asked users what reason they would choose if a candidate did not show up for their interview.
 
-44 people took the correct path. But 17 people chose ‘other’ indicating that the label did not work well enough.
+44 people chose the category ‘communication and scheduling’ and then ‘did not attend interview’. But 17 people instead chose the category ‘other’. This indicated that the name of the category did not work well enough.
 
-So we changed “Communication and scheduling” to “Communication, attendance and scheduling” to make it clearer.
-
-### Changing “Presentation skills” to “Teaching demonstration”
-
-Our analysis shows that 14% of applications are rejected due to performance at interview.
-
-We asked users to reject an application on the basis that the candidate did not perform well at interview. Some users did not instantly tick “Teaching knowledge and ability”. They said that most of the reasons are applicable before the interview.
-
-We considered changing the label to “Teaching knowledge, ability and interview”. But we decided not to because it could cause hesitation. For example, if the reason the user is looking for is “Did not attend interview” which is within “Communication, attendance and scheduling”.
-
-We did change “Presentation skills” to “Teaching demonstration” to broaden the reason so that it can be used for different things relating to the candidate’s demonstration.
+So we changed ‘communication and scheduling’ to ‘communication, attendance and scheduling’ to make it clearer.
 
 ### Changing the reasons within “Teaching knowledge and ability”
 
@@ -82,17 +72,27 @@ We changed:
 
 This makes the reasons easier to distinguish.
 
+We also changed “Presentation skills” to “Teaching demonstration” so that it can be used in a broader range of situations.
+
 ### Changing “Give details” to “Details”
 
 We changed all instances of “Give details” to “Details”. This is more concise.
 
-### Showing certain reasons when they’re relevant to the application
+### Showing certain reasons only when they’re relevant to the application
 
 We’ll only show:
 
 - “No science GCSE at minimum grade 4 or C, or equivalent” when the candidate is applying to a primary course
-- “Subject knowledge” when the candidate is applying to a primary course
-- “Visa sponsorship” when the candidate does not have British citizenship
+- “Subject knowledge” when the candidate is applying to a secondary course
+- “Visa sponsorship” when the candidate is not a British or Irish citizen
+
+### Deciding not to change ‘teaching knowledge and ability’ to ‘teaching knowledge, ability and interview’
+
+Our analysis shows that 14% of applications are rejected due to performance at interview.
+
+We asked users to reject an application on the basis that the candidate did not perform well at interview. Some users did not instantly tick “teaching knowledge and ability”.
+
+We considered changing the label to “Teaching knowledge, ability and interview”. But we decided not to because it could cause hesitation. For example, the user may think that it would contain “Did not attend interview” which is actually within “Communication, attendance and scheduling”.
 
 ### Deciding not to change “safeguarding” to “possible risk to children”
 
