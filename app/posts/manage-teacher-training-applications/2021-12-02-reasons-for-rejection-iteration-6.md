@@ -6,14 +6,22 @@ tags:
   - AN029
 screenshots:
   items:
-    - text: Reasons closed
-      src: reasons--closed.png
-    - text: Reasons open
-      src: reasons--open.png
-    - text: Check answers
-      src: check-answers.png
-    - text: Feedback page
-      src: feedback-page.png
+    - text: Reject - reasons (collapsed)
+      src: rejection-reasons--collapsed.png
+    - text: Reject - reasons (expanded)
+      src: rejection-reasons--expanded.png
+    - text: Reject - check answers
+      src: rejection-check-answers.png
+    - text: Reject - feedback
+      src: rejection-feedback.png
+    - text: Give feedback - reasons (collapsed)
+      src: give-feedback-reasons--collapsed.png
+    - text: Give feedback - reasons (expanded)
+      src: give-feedback-reasons--expanded.png
+    - text: Give feedback - check answer
+      src: give-feedback-check-answers.png
+    - text: Give feedback - feedback
+      src: give-feedback-feedback.png
 related:
   items:
     - text: Research playback slides
