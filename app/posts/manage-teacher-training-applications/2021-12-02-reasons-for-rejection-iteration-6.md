@@ -140,7 +140,7 @@ For each reason we include the category as a heading, followed by:
 - the sub-category with a full stop at the end, for example “No degree.” - if details were not required for the sub-category
 - the sub-category with a colon at the end, for example “Could not verify qualifications:”, followed by the details in a new paragraph - if details were required for the sub-category
 
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD025 MD001 -->
 
 {{ appEmail({
   subject: "Update on your application",
