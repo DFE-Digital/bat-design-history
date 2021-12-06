@@ -18,7 +18,7 @@ screenshots:
       src: give-feedback-reasons--collapsed.png
     - text: Give feedback - reasons (expanded)
       src: give-feedback-reasons--expanded.png
-    - text: Give feedback - check answer
+    - text: Give feedback - check answers
       src: give-feedback-check-answers.png
     - text: Give feedback - feedback
       src: give-feedback-feedback.png
@@ -28,6 +28,8 @@ related:
       href: https://docs.google.com/presentation/u/1/d/1XX9FH8yW2MLC8kiypKzS5ax81PMC-eq_36e3ZUkggO0/edit#slide=id.g100bb4a0b51_1_113
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 We recently redesigned the way users [reject applications and give feedback to candidates](/manage-teacher-training-applications/reasons-for-rejection-iteration-5/).
 
 The user need this meets is:
@@ -35,18 +37,20 @@ The user need this meets is:
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
-We tested our new approach with 11 users in person and by sending a tree test to 61 users.
+In our service we divide reasons for rejection into categories, some of which have sub-categories.
 
-It tested very well but we decided to make some changes.
+We tested a revised set of categories and sub-categories with 11 users in person. We also sent a tree test to 61 users, giving them scenarios and asking them which reason they would choose for each.
+
+The new design tested very well but we decided to make some changes. Some of these were in response to the research findings and others were due to things we spotted during a review of the design.
 
 ## What we changed
 
 We have:
 
 - changed the wording of some of the reasons
-- decided to only show certain reasons when they’re relevant to the application
+- decided to show certain reasons only if they’re relevant to the application
 
-### Changing the reasons within ‘qualifications’
+### Changing the sub-categories within “qualifications”
 
 We changed:
 
@@ -54,22 +58,24 @@ We changed:
 - “No English GCSE grade 4 &#40;C&#41; or above, or accepted equivalent” to “No English GCSE at minimum grade 4 or C, or equivalent”
 - “No science GCSE grade 4 &#40;C&#41; or above, or accepted equivalent” to “No science GCSE at minimum grade 4 or C, or equivalent”
 
-The new labels are clearer and more concise.
+The new labels are clearer and avoid the need to use brackets.
 
 We changed “No degree” to “No bachelor’s degree, or equivalent” because it:
 
 - matches what candidates are asked
 - is more specific - for example, a foundation degree is not accepted
 
-### Changing ‘communication and scheduling’ to ‘communication, attendance and scheduling’
+### Changing “Communication and scheduling” to “Communication, attendance and scheduling”
 
-In the tree test, we asked users what reason they would choose if a candidate did not show up for their interview.
+In the tree test, we asked participants what reason they would choose if a candidate did not show up for their interview.
 
-44 people chose the category ‘communication and scheduling’ and then ‘did not attend interview’. But 17 people instead chose the category ‘other’. This indicated that the name of the category did not work well enough.
+We intended for participants to choose the category “Communication and scheduling” and then the sub-category “Did not attend interview”. We found that 44 participants did so.
 
-So we changed ‘communication and scheduling’ to ‘communication, attendance and scheduling’ to make it clearer.
+Since 17 people instead chose the category “Other”, however, we felt that the name of the category did not work well enough.
 
-### Changing the reasons within “Teaching knowledge and ability”
+We changed “Communication and scheduling” to “Communication, attendance and scheduling” to make it clearer.
+
+### Changing the sub-categories within “Teaching knowledge and ability”
 
 We changed:
 
@@ -78,7 +84,7 @@ We changed:
 - “Understanding of teaching method” to “Teaching method knowledge”
 - “Understanding of teaching role to “Teaching role knowledge”
 
-This makes the reasons easier to distinguish.
+This makes it easier to distinguish the sub-categories from each other.
 
 We also changed “Presentation skills” to “Teaching demonstration” so that it can be used in a broader range of situations.
 
@@ -86,61 +92,258 @@ We also changed “Presentation skills” to “Teaching demonstration” so tha
 
 We changed all instances of “Give details” to “Details”. This is more concise.
 
-### Showing certain reasons only when they’re relevant to the application
+### Showing certain reasons only if they’re relevant to the application
 
 We’ll only show:
 
-- “No science GCSE at minimum grade 4 or C, or equivalent” when the candidate is applying to a primary course
-- “Subject knowledge” when the candidate is applying to a secondary course
-- “Visa sponsorship” when the candidate is not a British or Irish citizen
+- “No science GCSE at minimum grade 4 or C, or equivalent” if the candidate is applying to a primary course
+- “Subject knowledge” if the candidate is applying to a secondary course
+- “Visa sponsorship” if the candidate is not a British or Irish citizen
 
-### Deciding not to change ‘teaching knowledge and ability’ to ‘teaching knowledge, ability and interview’
+This will avoid the possibility of users being distracted or confused by being shown reasons which are not relevant.
+
+### Deciding not to change “Teaching knowledge and ability” to “Teaching knowledge, ability and interview”
 
 Our analysis shows that 14% of applications are rejected due to performance at interview.
 
-We asked users to reject an application on the basis that the candidate did not perform well at interview. Some users did not instantly tick “teaching knowledge and ability”.
+We asked participants to reject an application on the basis that the candidate did not perform well at interview. Some participants did not instantly select “Teaching knowledge and ability”.
 
-We considered changing the label to “Teaching knowledge, ability and interview”. But we decided not to because it could cause hesitation. For example, the user may think that it would contain “Did not attend interview” which is actually within “Communication, attendance and scheduling”.
+We considered changing the label to “Teaching knowledge, ability and interview”. But we decided not to because it could cause hesitation. For example, a user may expect it to contain “Did not attend interview” which is actually within “Communication, attendance and scheduling”.
 
-### Deciding not to change “safeguarding” to “possible risk to children”
+### Deciding not to change “Safeguarding” to “Possible risk to children”
 
 We considered changing:
 
 - “Safeguarding” to “Possible risk to children”
-- “Understanding of safeguarding” to “Understanding about child safety in schools”
+- “Understanding of safeguarding” to “Understanding about keeping children safe”
 
-We think this is clearer and avoids jargon.
+We think this would be clearer, avoiding jargon which could have various interpretations.
 
-But we decided not to make this change because safeguarding as a term is well understood and would require a significant effort to apply this change across the service.
+We decided not to propose this change. Safeguarding is a widely used term and it would require a significant effort to agree and apply this change across the service.
 
-### Deciding not to add an option “Other candidates are better and placed are limited”
+### Deciding not to add an option “Other candidates are better and places are limited”
 
-Some providers tell candidates that their application was rejected due to having better candidates.
+Some providers tell candidates that their application was rejected because other candidates were better. Before we launched structured reasons for rejection, 33 out of 660 applications were rejected for this reason.
 
-And prior to launching structured reasons for rejection, 33 out of 660 applications were rejected due to this reason.
+We considered adding a new reason to cover this but we decided not to because:
 
-We considered adding a new reason for this but we decided not to because:
-
-- users should give candidates feedback about how they can improve
-- “Other” can be used to give feedback
-- it has not been used much since launching structured reasons for rejection
+- users should give candidates feedback about how the candidate can improve, rather than just saying that they’re not quite good enough
+- we have not seen this reason used much in the “Other” category since we launched structured reasons for rejection
 
 ## Emails
 
-The way we present feedback is based on what reasons providers tick.
+We send an email to rejected candidates, with the reasons given in inset text to separate then from the rest of the content.
 
-If the user only ticks “Other” then a heading will not be shown.
+For each reason we include the category as a heading, followed by:
 
-EXAMPLE
+- the details entered by the provider - if the category does not include any sub-categories
+- the sub-category with a full stop at the end, for example “No degree.” - if details were not required for the sub-category
+- the sub-category with a colon at the end, for example “Could not verify qualifications:”, followed by the details in a new paragraph - if details were required for the sub-category
 
-If the user ticks “Other” as well as other categories like “Qualifications”, a heading of “Other” will be shown.
+<!-- markdownlint-disable MD025 -->
 
-EXAMPLE
+{{ appEmail({
+  subject: "Update on your application",
+  content: "Dear ((first_name))
 
-If the user only ticks “Other” as reason within a category like “Qualifications”, the lede paragraph will not be shown.
+((provider1)) has decided not to make you an offer to study ((subject_and_code1)). They’ve given feedback to explain this decision.
 
-EXAMPLE
+> # Qualifications
+>
+> No degree.
+>
+> Could not verify qualifications:
+>
+> The certificate you provided was not enough for us to confirm that your maths qualification is the equivalent of a GCSE.
+>
+> # References
+>
+> Your references did not suggest that you would be a suitable candidate.
+>
+>
 
-If the user ticks “Other” as well as other reasons within a category like “Qualifications”, a lede paragraph of “Other:” will be shown.
+As we discussed at the interview, we thought you were a strong candidate but were concerned that you would not be able to commit enough time to training.
 
-EXAMPLE
+Contact ((provider)) directly if you have any questions about their feedback.
+
+# You’re waiting for decisions
+
+You’re waiting for decisions about your applications to:
+
+- ((provider2)) to study ((subject_and_code2))
+- ((provider3)) to study ((subject_and_code3))
+
+They should make their decisions by ((date)).
+
+# Get support
+
+You can chat to a Get Into Teaching adviser online for help and advice:
+
+https://getintoteaching.education.gov.uk/#talk-to-us
+
+You can also call for free on 0800 389 2500, Monday to Friday, 8:30am to 5:30pm (except public holidays).
+"
+}) }}
+
+<!-- markdownlint-enable MD025 -->
+
+### When we show “Other” in the email
+
+We have rules about when we show the:
+
+- “Other” category
+- “Other” sub-category which appears in several categories
+
+If the only category is “Other” then we do not include a heading.
+
+<!-- markdownlint-disable MD025 -->
+
+{{ appEmail({
+  subject: "Update on your application",
+  content: "Dear ((first_name))
+
+((provider1)) has decided not to make you an offer to study ((subject_and_code1)). They’ve given feedback to explain this decision.
+
+> As we discussed at the interview, we thought you were a strong candidate but were concerned that you would not be able to commit enough time to training.
+
+Contact ((provider)) directly if you have any questions about their feedback.
+
+# You’re waiting for decisions
+
+You’re waiting for decisions about your applications to:
+
+- ((provider2)) to study ((subject_and_code2))
+- ((provider3)) to study ((subject_and_code3))
+
+They should make their decisions by ((date)).
+
+# Get support
+
+You can chat to a Get Into Teaching adviser online for help and advice:
+
+https://getintoteaching.education.gov.uk/#talk-to-us
+
+You can also call for free on 0800 389 2500, Monday to Friday, 8:30am to 5:30pm (except public holidays).
+"
+}) }}
+
+<!-- markdownlint-enable MD025 -->
+
+If the the “Other” category appears with other categories then we‘ll show the heading “Other”.
+
+<!-- markdownlint-disable MD025 -->
+
+{{ appEmail({
+  subject: "Update on your application",
+  content: "Dear ((first_name))
+
+((provider1)) has decided not to make you an offer to study ((subject_and_code1)). They’ve given feedback to explain this decision.
+
+> # Qualifications
+>
+> No bachelor’s degree, or equivalent.
+>
+> # Other
+>
+> We were concerned about your timekeeping and general professionalism.
+
+Contact ((provider)) directly if you have any questions about their feedback.
+
+# You’re waiting for decisions
+
+You’re waiting for decisions about your applications to:
+
+- ((provider2)) to study ((subject_and_code2))
+- ((provider3)) to study ((subject_and_code3))
+
+They should make their decisions by ((date)).
+
+# Get support
+
+You can chat to a Get Into Teaching adviser online for help and advice:
+
+https://getintoteaching.education.gov.uk/#talk-to-us
+
+You can also call for free on 0800 389 2500, Monday to Friday, 8:30am to 5:30pm (except public holidays).
+"
+}) }}
+
+<!-- markdownlint-enable MD025 -->
+
+If the user only ticks “Other” as the sub-category within a category like “Qualifications”, the lead-in line will not be shown.
+
+<!-- markdownlint-disable MD025 -->
+
+{{ appEmail({
+  subject: "Update on your application",
+  content: "Dear ((first_name))
+
+((provider1)) has decided not to make you an offer to study ((subject_and_code1)). They’ve given feedback to explain this decision.
+
+> # Qualifications
+>
+> Your degree is not relevant to the subject you want to teach.
+
+Contact ((provider)) directly if you have any questions about their feedback.
+
+# You’re waiting for decisions
+
+You’re waiting for decisions about your applications to:
+
+- ((provider2)) to study ((subject_and_code2))
+- ((provider3)) to study ((subject_and_code3))
+
+They should make their decisions by ((date)).
+
+# Get support
+
+You can chat to a Get Into Teaching adviser online for help and advice:
+
+https://getintoteaching.education.gov.uk/#talk-to-us
+
+You can also call for free on 0800 389 2500, Monday to Friday, 8:30am to 5:30pm (except public holidays).
+"
+}) }}
+
+<!-- markdownlint-enable MD025 -->
+
+If the user ticks an “Other” sub-category as well as another sub-category within the same category, we‘ll show the lead-in line “Other:”.
+
+<!-- markdownlint-disable MD025 -->
+
+{{ appEmail({
+  subject: "Update on your application",
+  content: "Dear ((first_name))
+
+((provider1)) has decided not to make you an offer to study ((subject_and_code1)). They’ve given feedback to explain this decision.
+
+> # Qualifications
+>
+> No maths GCSE at minimum grade 4 or C, or equivalent.
+>
+> Other:
+>
+> Your degree is not relevant to the subject you want to teach.
+
+Contact ((provider)) directly if you have any questions about their feedback.
+
+# You’re waiting for decisions
+
+You’re waiting for decisions about your applications to:
+
+- ((provider2)) to study ((subject_and_code2))
+- ((provider3)) to study ((subject_and_code3))
+
+They should make their decisions by ((date)).
+
+# Get support
+
+You can chat to a Get Into Teaching adviser online for help and advice:
+
+https://getintoteaching.education.gov.uk/#talk-to-us
+
+You can also call for free on 0800 389 2500, Monday to Friday, 8:30am to 5:30pm (except public holidays).
+"
+}) }}
+
+<!-- markdownlint-enable MD025 -->
