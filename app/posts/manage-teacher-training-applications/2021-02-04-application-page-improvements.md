@@ -5,7 +5,7 @@ date: 2021-02-04
 tags:
   - MN024
   - MN025
-  - MN026
+  - MN007
 screenshots:
   items:
     - text: Separate work history and unpaid experience - both provided
