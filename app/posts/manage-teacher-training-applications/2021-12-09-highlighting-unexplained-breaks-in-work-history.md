@@ -21,4 +21,7 @@ But users are specifically looking for unexplained breaks.
 
 We’ll no longer use inset text for breaks that candidates have explained.
 
-We changed the description of an unexplained break from “Break” to “Unexplained break”. This means users do not have to rely on a visual signifier.
+We changed the description of an unexplained break from "Break" to "Unexplained break" so that:
+
+- users do not have to rely on the inset border to understand the meaning
+- screen reader users can distinguish between breaks with and without explanations
