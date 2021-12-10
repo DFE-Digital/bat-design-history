@@ -1,7 +1,7 @@
 ---
 title: Highlighting unexplained breaks in work history
 description: Instead of highlighting all breaks, we’ll now just highlight unexplained breaks.
-date: 2021-12-02
+date: 2021-12-09
 tags:
   - MN025
 screenshots:
