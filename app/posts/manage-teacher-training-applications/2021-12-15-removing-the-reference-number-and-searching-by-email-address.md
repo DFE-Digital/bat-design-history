@@ -33,3 +33,27 @@ Before making any changes to the live service, we want to find out if:
 - if it’s helpful to search by email address
 - support users ever need the reference number
 - it would be better to search for an application that lets them find a specific application
+
+## Future considerations
+
+### Helping users find a unique application in Manage
+
+Searching by reference number and email address may bring back multiple applications. To pick the right one the user needs to know the course.
+
+If we want to let users find an application without knowing the course then we’d need to let users find an application by something that identifies the individual application.
+
+We want to understand the user needs around this further.
+
+### Helping users find an application without personally identifiable information
+
+We want to consider the impact of sharing a candidate's personal details, like email address, when contacting support and whether this is GDPR compliant.
+
+### Helping users find related applications
+
+We want to consider whether it would be useful to give users the ability to see all related applications that belong to the same candidate.
+
+### Finding out whether it’s okay to retain reference number just for student record systems
+
+The API currently contains the reference number and vendors have been encouraged to use it.
+
+While we do not think providers need the reference number in Manage, we want to make sure they are not confused about it continuing to appear in student record systems.
