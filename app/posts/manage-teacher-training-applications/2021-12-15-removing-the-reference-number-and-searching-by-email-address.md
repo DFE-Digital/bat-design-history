@@ -12,47 +12,42 @@ screenshots:
 
 When making an application, a candidate can choose up to 3 courses.
 
-Once the candidate submits their application, each choice becomes an application that the provider receives.
+Once the candidate submits their application, each choice becomes a separate application that is sent to the provider.
 
 Candidates used to be given a reference number for their main application. But the [reference number was removed](/apply-for-teacher-training/dashboard-changes/) because:
 
 - very few candidates ever quoted it when contacting support
-- the support team use the candidate’s email address to find their application
+- the support team use the candidate’s name or email address and the course to find their application
 
-Additionally, if a candidate applies to more than one course at the same provider, searching by the reference number will result in multiple applications.
-
-For these reasons, we want to try:
+For these reasons, we want to prototype:
 
 - removing the reference number from the application list and details pages
 - removing the ability to search by reference number
 - adding the ability to search by email address
 
-Before making any changes to the live service, we want to find out if:
+## Helping users find an application
 
-- providers need the reference number
-- if it’s helpful to search by email address
-- support users ever need the reference number
-- it would be better to search for an application that lets them find a specific application
+If a candidate applies to more than one course at the same provider, searching by reference number, candidate name or email address will return multiple applications.
 
-## Future considerations
+To select the right application, the user would need additional information like the course name. And they would have to ask the candidate for it.
 
-### Helping users find a unique application in Manage
+We want to find out how much of a problem this is and if it would be better to let users search by a unique ID for the application.
 
-Searching by reference number and email address may bring back multiple applications. To pick the right one the user needs to know the course.
+## Finding out if providers need the reference number
 
-If we want to let users find an application without knowing the course then we’d need to let users find an application by something that identifies the individual application.
+Given that the reference number relates to multiple applications, we don’t think it’s useful to know. We want to find out to what extent providers are using the reference number.
 
-We want to understand the user needs around this further.
+For example, perhaps providers need to quote the reference number when contacting support.
 
-### Helping users find an application without personally identifiable information
+## Helping users find an application without personally identifiable information
 
 We want to consider the impact of sharing a candidate's personal details, like email address, when contacting support and whether this is GDPR compliant.
 
-### Helping users find related applications
+## Helping users find related applications
 
 We want to consider whether it would be useful to give users the ability to see all related applications that belong to the same candidate.
 
-### Finding out whether it’s okay to retain reference number just for student record systems
+## Finding out whether it’s okay to retain reference number just for student record systems
 
 The API currently contains the reference number and vendors have been encouraged to use it.
 
