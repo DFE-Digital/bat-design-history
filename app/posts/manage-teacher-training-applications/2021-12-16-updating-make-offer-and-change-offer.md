@@ -42,7 +42,7 @@ screenshots:
 
 Providers can offer a different course to the one that a candidate applied for.
 
-We recently did some work to [let providers change course before making an offer](#). Doing so has led us to make changes to the make offer and change offer flows.
+We recently did some work to [let providers change course before making an offer](/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/). Doing so has led us to make changes to the make offer and change offer flows.
 
 ## What we changed
 
