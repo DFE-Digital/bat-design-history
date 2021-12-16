@@ -222,7 +222,7 @@ If we find that users are confused, we could either:
 
 ### Transferring to another provider
 
-We have already designed what users should see when an application is [transferred to another provider](https://bat-design-history.netlify.app/manage-teacher-training-applications/what-to-show-when-an-application-has-been-transferred-to-another-provider/).
+We have already designed what users should see when an application is [transferred to another provider](/manage-teacher-training-applications/what-to-show-when-an-application-has-been-transferred-to-another-provider/).
 
 We should consider implementing that design at the same time as this new work.
 
