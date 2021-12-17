@@ -1,6 +1,6 @@
 ---
 title: Letting providers change course before making an offer
-description:
+description: We added change links and a flow to let providers change course details before they make an offer.
 date: 2021-12-16
 screenshots:
   items:
