@@ -17,9 +17,9 @@ screenshots:
     - text: Check and update course
       src: course-applied-for--check-answers.png
     - text: Timeline - course updated
-      src: timeline--course-updated.png
+      src: timeline--course-changed.png
     - text: Activity log - course updated
-      src: activity-log--course-updated.png
+      src: activity-log--course-changed.png
 ---
 
 Currently providers can make an offer for a different course to the one which a candidate applied for. They cannot change the course before they make an offer.
