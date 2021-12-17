@@ -11,7 +11,7 @@ screenshots:
     - text: Change course
       src: course-applied-for--change-course.png
     - text: Change full time or part time
-      src: course-applied-for--change-full-time-part-time.png
+      src: course-applied-for--change-full-time-or-part-time.png
     - text: Change location
       src: course-applied-for--change-location.png
     - text: Check and update course
@@ -29,7 +29,9 @@ Providers sometimes need to change the course sooner so that they can:
 - move candidates to a more appropriate school or course
 - keep good candidates even if a course is full
 
-We made changes to make this possible. Doing so led to us making [changes to the flows which let users make and change offers](link to other design history entry).
+We made changes to allow providers to do this.
+
+<!-- Doing so led to us making [changes to the flows which let users make and change offers](link to other design history entry). -->
 
 ## Information which providers give about courses
 
@@ -66,13 +68,13 @@ Looking at whether courses are full time or part time, we found that:
 
 - 94% of courses are full time
 - 2% of courses are part time
-- 4% of courses can be either full time and part time
+- 4% of courses can be either full time or part time
 
 Looking at course locations, we found that:
 
-- 70% of courses run by SCITTs have one location
-- 72% of courses run by School Direct providers have one location
-- 96% of courses run by HEIs have one location
+- 70% of courses provided by school centred initial teacher training providers (SCITTs) have only one location
+- 72% of courses provided by school direct providers have only one location
+- 96% of courses provided by higher education institutions (HEIs) have only one location
 
 ## What we changed
 
@@ -118,7 +120,7 @@ Course attributes can be changed in this order:
 - full time or part time
 - location
 
-When the user clicks a change link on the application details page, they’re taken to the page to change the appropriate course attribute.
+When the user clicks a change link on the application details page, they’re taken to a page to change the appropriate course attribute.
 
 They will then continue to the next attribute which has multiple options, based on the choice they just made.
 
@@ -128,7 +130,7 @@ When they continue, they will be taken to:
 
 - choose full time or part time, if both options are available for the course they chose
 - choose location, if the course they chose is only part time or only full time and the course has multiple locations
-- the check answers page, if the course they chose is only part time or only full time and the course only has one location
+- the check answers page, if the course they chose is only part time or only full time and has only one location
 
 #### Training provider
 
@@ -171,39 +173,38 @@ On this page we show for each location:
 
 When a course is changed, a new event is added to the activity log and timeline. The new event shows:
 
-- title of the event - “Course updated”
-- the candidate’s name - in the activity log only
+- title of the event, which is “Course updated”
+- candidate’s name - in the activity log only
 - date and time the change was made
 - who made the change - the user’s first and last name
 - new course details - in the same order as they’re displayed in the application details
 - link to the application details
-
-When a user makes or changes an offer, we will now show qualifications and funding type as part of the course details.
 
 ## Further considerations
 
 In future we may consider:
 
 - showing pages even if there’s no decision to be made
-- transferring a candidate to another provider
-- adding a note about why the course or offer has been changed
-- allowing users to change to a course which is ratified by a different accredited body
+- improving what we show when a candidate’s application is transferred to another provider
+- letting users add a note about why the course has been changed
+- letting users change to a course which is ratified by a different accredited body
+- using an alternative design when a provider has many courses or a course has many locations
 
 ### Showing pages even if there’s no decision to be made
 
-In the new design we do not show pages where there is only one option, since the user cannot make a choice.
+In the change course flow we do not show pages where there is only one option, since the user cannot make a choice.
 
-For example, if the new training provider only offers one course then we will not show a list of courses. If the course also is only full time or only part time, and has only one funding type, then the user would be taken straight to the check answers page.
+For example, if user chooses a new training provider which only offers one course then we will not show a list of courses. If the course also is only full time or only part time, and has only one location, then the user will be taken straight to the check answers page.
 
-We think that this will not be a problem because the user can either:
+We think that this will not be a problem because the user will see all the course attributes on the check answers page. If the details are not correct then the user can click either:
 
-- click a change link on the check answers page
-- cancel the change
+- a change link
+- the cancel link
 
-If we find that users are confused, we could either:
+If we find that users are confused by this, we could show pages where there is no decision to be made. We could include either:
 
-- show pages even if they have only a single radio button
-- write some content for pages where there is no decision for the user to make
+- a single radio button
+- content explaining that there’s no decision to make
 
 ### Transferring to another provider
 
@@ -213,7 +214,9 @@ We should consider implementing that design at the same time as this new work.
 
 ### Adding a note about why the course or offer has been changed
 
-We could consider allowing users to add a note at the end of the journey. This would help them to keep track of why they made a change and might mean that they do not need to keep notes outside of the service.
+We could consider allowing users to add a note at the end of the change course flow.
+
+This would help them to keep track of why they made a change and might mean that they do not need to keep notes outside the service.
 
 ### Allowing users to change to a course which is ratified by a different accredited body
 
@@ -222,3 +225,9 @@ Currently it is only possible to change to a course which is ratified by the sam
 There is a plan to change this. We should make sure that our design will work well once that has been done.
 
 We do not think that we will need to add a change link next to ‘accredited body’. We think that users would want to select a new training provider or course instead, with the accredited body linked to the course.
+
+### Using an alternative design when a provider has many courses or a course has many locations
+
+It could be difficult for a user to choose from a large number of courses or locations.
+
+We could consider an alternative design rather than showing a long list of radio buttons and labels. For example, we could show a text input field with an autocomplete.
