@@ -42,33 +42,35 @@ screenshots:
       src: activity-log--offer-changed.png
 ---
 
-Providers can offer a different course to the one that a candidate applied for.
+Currently providers can offer a different course to the one that a candidate applied for.
 
 We recently did some work to [let providers change course before making an offer](/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/). Doing so has led us to make changes to the make offer and change offer flows.
 
 ## What we changed
 
-We made changes to:
+We added qualifications and funding type to the summary lists in the:
 
-- make decision
+- offer section of the application
+- make decision page
+- check answers page for make offer
+- check answers page for change offer
+- offer made event
+- offer changed event
+- application submitted event
+
+We also made changes to:
+
 - make offer
 - change course details and make an offer
 - change offer
-- activity log and timeline
-
-### Make decision
-
-We added qualifications and funding type to the summary list which users see before choosing what decision to make.
 
 ### Make offer
 
-We changed the make offer journey to be consistent with changing courses. To do this we:
+We changed the make offer flow to be consistent with changing courses. To do this we:
 
 - removed ‘select’ from page headings, for example changing ‘Select training provider’ to ‘Training provider’
 - added ‘Make offer’ to the caption
-- added qualifications and funding type to the summary list on the check answers page
-
-If the user clicks a change link on the check answers page, they’ll be taken into a journey that matches the change course journey.
+- changed the flow which users enter if they click a change link on the check answers page
 
 If the user changes an offer at this point, we will not change the ‘course applied for’ section in the application details.
 
@@ -94,7 +96,3 @@ We show change links on an offer if:
 If the user clicks one of these links, they’ll follow the same journey as if they’d changed the course. The ‘course applied for’ in the application details will not change.
 
 We also added ‘change offer’ to the caption.
-
-### Activity log and timeline
-
-When a user makes or changes an offer, we will now show qualifications and funding type as part of the course details.
