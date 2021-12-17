@@ -1,6 +1,6 @@
 ---
-title: Removing the reference number and searching by email address
-description: As candidates no longer get a reference number for their application, we have removed it. Users can now search by email address instead.
+title: 'Exploration: removing the reference number'
+description: As candidates no longer get a reference number for their application, we’re researching the impact of Manage removing it and letting users search by email address instead.
 date: 2021-12-09
 screenshots:
   items:
