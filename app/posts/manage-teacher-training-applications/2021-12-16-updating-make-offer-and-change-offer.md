@@ -13,15 +13,17 @@ screenshots:
     - text: Make offer - change course
       src: make-offer--change-course.png
     - text: Make offer - change full time or part time
-      src: make-offer--change-full-time-part-time.png
+      src: make-offer--change-full-time-or-part-time.png
     - text: Make offer - change location
       src: make-offer--change-location.png
-    - text: Make offer - check and update course
+    - text: Make offer - check and send offer
       src: make-offer--check-answers.png
     - text: Timeline - offer made
       src: timeline--offer-made.png
     - text: Activity log - offer made
       src: activity-log--offer-made.png
+    - text: Offer
+      src: offer.png
     - text: Edit offer
       src: edit-offer–conditions.png
     - text: Edit offer - change training provider
@@ -29,10 +31,10 @@ screenshots:
     - text: Edit offer - change course
       src: edit-offer--change-course.png
     - text: Edit offer - change full time or part time
-      src: edit-offer--change-full-time-part-time.png
+      src: edit-offer--change-full-time-or-part-time.png
     - text: Edit offer - change location
       src: edit-offer--change-location.png
-    - text: Edit offer - check and update course
+    - text: Edit offer - check and send offer
       src: edit-offer--check-answers.png
     - text: Timeline - offer changed
       src: timeline--offer-changed.png
