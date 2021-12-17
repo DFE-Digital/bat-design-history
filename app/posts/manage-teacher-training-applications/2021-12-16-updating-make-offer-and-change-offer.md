@@ -4,10 +4,10 @@ description: We’ve made some improvements to make offer and change offer flows
 date: 2021-12-16
 screenshots:
   items:
-    - text: Make decision
+    - text: Make a decision
       src: make-decision.png
-    - text: Make offer
-      src: make-offer–conditions.png
+    - text: Make offer - conditions of offer
+      src: make-offer–-conditions-of-offer.png
     - text: Make offer - change training provider
       src: make-offer--change-training-provider.png
     - text: Make offer - change course
@@ -17,25 +17,25 @@ screenshots:
     - text: Make offer - change location
       src: make-offer--change-location.png
     - text: Make offer - check and send offer
-      src: make-offer--check-answers.png
+      src: make-offer--check-and-send-offer.png
     - text: Timeline - offer made
       src: timeline--offer-made.png
     - text: Activity log - offer made
       src: activity-log--offer-made.png
     - text: Offer
       src: offer.png
-    - text: Edit offer
-      src: edit-offer–conditions.png
-    - text: Edit offer - change training provider
-      src: edit-offer--change-training-provider.png
-    - text: Edit offer - change course
-      src: edit-offer--change-course.png
-    - text: Edit offer - change full time or part time
-      src: edit-offer--change-full-time-or-part-time.png
-    - text: Edit offer - change location
-      src: edit-offer--change-location.png
-    - text: Edit offer - check and send offer
-      src: edit-offer--check-answers.png
+    - text: Change offer - conditions of offer
+      src: change-offer--conditions-of-offer.png
+    - text: Change offer - change training provider
+      src: change-offer--change-training-provider.png
+    - text: Change offer - change course
+      src: change-offer--change-course.png
+    - text: Change offer - change full time or part time
+      src: change-offer--change-full-time-or-part-time.png
+    - text: Change offer - change location
+      src: change-offer--change-location.png
+    - text: Change offer - check and send offer
+      src: change-offer--check-and-send-offer.png
     - text: Timeline - offer changed
       src: timeline--offer-changed.png
     - text: Activity log - offer changed
