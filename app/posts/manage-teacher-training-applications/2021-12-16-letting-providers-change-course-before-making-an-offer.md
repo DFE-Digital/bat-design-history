@@ -22,7 +22,7 @@ screenshots:
       src: activity-log--course-updated.png
 ---
 
-Currently providers can offer a different course to the one which a candidate applied for. They cannot change the course before they make an offer.
+Currently providers can make an offer for a different course to the one which a candidate applied for. They cannot change the course before they make an offer.
 
 Providers sometimes need to change the course sooner so that they can:
 
@@ -31,9 +31,9 @@ Providers sometimes need to change the course sooner so that they can:
 
 We made changes to make this possible. Doing so led to us making [changes to the flows which let users make and change offers](link to other design history entry).
 
-## What providers do when they publish a course
+## Information which providers give about courses
 
-When providers create a course, they enter information including:
+When providers publish a course, they enter information including:
 
 - type of course, for example “primary”
 - one or more subjects, for example “Primary with English”
@@ -45,21 +45,6 @@ When providers create a course, they enter information including:
 - accredited body
 - when applications will open - this can be immediately or on a specific date
 - when the course starts, for example “September 2022”
-
-## What candidates are asked when they apply
-
-When candidates apply, they’re asked to choose:
-
-- training provider
-- course
-- location, if there is more than one
-- full time or part time, if both options are available
-
-Some courses have options which candidates are not asked to choose when they apply:
-
-- qualification, for example if the course offers both QTS and PGCE
-- subject option, for example modern foreign languages
-- age group, for example 3-5, 5-7 or 7-11
 
 ## Course data analysis
 
