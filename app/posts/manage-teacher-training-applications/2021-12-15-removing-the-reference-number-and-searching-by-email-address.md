@@ -31,7 +31,8 @@ We want to carry out research with providers and support users to find out:
 - whether its’s useful to search by email address
 - how we can help users distinguish between applications from the same candidate
 - how we can help users find related applications for a particular candidate
-- whether it’s okay to retain reference numbers just for student record systems
+- what support agents need from candidates and providers
+- whether we should stop encouraging vendors to use the support reference
 - how we can help users find an application without personally identifiable information
 
 ### Finding out if providers need the reference number
@@ -64,11 +65,34 @@ To search using the candidate ID, a user would have to find it then cut and past
 
 We want to find out if it would be better to let users view all related applications for a particular candidate without having to search.
 
-### Finding out if we should retain the reference number for student record systems
+### Finding out what support agents need from candidates and providers
 
-We have heard that vendors of student record systems do not fully understand the purpose of the reference number. But because candidates used to be given one, we’ve encouraged providers to use the reference (as a way to find an application).
+Candidates no longer provide their reference number to support because they do not have it.
 
-We want to find out the impact of removing the reference number from student record systems and whether we should now stop encouraging vendors to use it.
+This has made some support requests more difficult to deal with. For example, one candidate contacted support using an email address that does not match the one they used to apply.
+
+Their name was also obfuscated. This meant the support agent had to go back to the candidate for more information.
+
+We want to find out what support agents need from candidates and providers to carry out support requests efficiently.
+
+### Finding out whether we should stop encouraging providers to use the reference number
+
+Vendors have not fully understood the purpose of the reference number. They have shown signs of confusion about whether the reference number was unique to a candidate or to an application. Neither of which is true.
+
+Because of this, we have had to spend a lot of time encouraging vendors to use the reference number when referring to applications. This way candidates, providers and support agents can all use the same reference number to refer to an application.
+
+In response, vendors have enabled the ability to search by reference number. Manage also lets users search by reference number.
+
+But candidates are no longer given a reference number. And the reference number does not refer to a unique application. Therefore we want to remove it from student record systems and Manage.
+
+But doing so would mean going against what we have been communicating and would not allow users to find applications easily.
+
+We want to find out the user needs of users who work in Manage and student record systems to find out whether:
+
+- we can remove the reference number
+- introduce a unique application ID
+- stop encouraging vendors to use the reference number
+- start encouraging vendors to use a unqique application ID
 
 ### Helping users find an application without personally identifiable information
 
