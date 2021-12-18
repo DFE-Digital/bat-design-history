@@ -7,7 +7,7 @@ screenshots:
     - text: Make a decision
       src: make-decision.png
     - text: Make offer - conditions of offer
-      src: make-offer–-conditions-of-offer.png
+      src: make-offer--conditions-of-offer.png
     - text: Make offer - change training provider
       src: make-offer--change-training-provider.png
     - text: Make offer - change course
