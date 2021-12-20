@@ -81,13 +81,13 @@ We want to find out if it would be better to let users view all related applicat
 
 Some support requests have been more difficult to process without the reference number. For example, one candidate contacted support using an email address that did not match the one they used to apply.
 
-The candidate’s name was also not given in full in their email. This meant the support agent had to go back to the candidate for more information.
+The candidate’s name was also not given in full in their email. This meant the support user had to go back to the candidate for more information.
 
 We want to find out what support users need from candidates and providers to carry out support requests efficiently.
 
 ### Finding out whether we should stop encouraging providers and vendors to use the reference number
 
-We wanted to have a single way for candidates, providers and support agents to refer to an application. Since the reference number was given to candidates it was the most obvious choice.
+We wanted to have a single way for candidates, providers and support users to refer to an application. Since the reference number was given to candidates it was the most obvious choice.
 
 Since we encouraged providers to use it, vendors enabled the ability to search by reference number in student record systems. Manage also lets users search by reference number.
 
@@ -106,11 +106,11 @@ Before we remove the reference number, we want to find out the needs of users wh
 - remove the reference number
 - show the application choice ID and start encouraging vendors to use it
 
-The application choice ID is unique to an application but is currently only seen by support agents.
+The application choice ID is unique to an application but is currently only seen by support users.
 
 ### Helping users find an application without personally identifiable information
 
-We want to check whether support agents asking for personal details about a candidate is compliant with the UK General Data Protection Regulation.
+We want to check whether support users asking for personal details about a candidate is compliant with the UK General Data Protection Regulation.
 
 We want to check whether there’s a difference between:
 
