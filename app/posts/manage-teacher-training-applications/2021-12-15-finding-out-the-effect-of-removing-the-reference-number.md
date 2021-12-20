@@ -1,7 +1,7 @@
 ---
 title: Finding out the effect of removing the reference number
 description: As candidates no longer get a reference number for their application, we’re researching the impact of removing it from Manage and letting users search by email address instead.
-date: 2021-12-09
+date: 2021-12-17
 screenshots:
   items:
     - text: Application list
@@ -15,21 +15,17 @@ A candidate can apply for up to 3 courses.
 Candidates used to be given a single reference number for all the applications they made at the same time. But the [reference number was removed](/apply-for-teacher-training/dashboard-changes/) because:
 
 - very few candidates ever quoted it when contacting support
-- the support team find the candidate’s application using their name or email address and details of the course
+- support users find the candidate’s application using their name or email address and details of the course
 
-For these reasons, we want to try:
-
-- removing the reference number from the application list and details pages
-- removing the ability to search by reference number
-- adding the ability to search by email address
+We want to find out the effect of removing the reference number on providers and support users.
 
 ## How we identify candidates and their applications
 
 We currently show 3 different identifiers:
 
-- reference number - this represents all applications the candidate made at the same time and is seen by providers and support agents
-- application choice ID - this represents the candidate’s individual applications and is seen by support agents
-- candidate ID - this represents the candidate and is seen by providers and support agents
+- reference number - this represents all applications the candidate made at the same time and is seen by providers and support users
+- application choice ID - this represents the candidate’s individual applications and is seen by support users
+- candidate ID - this represents the candidate and is seen by providers and support users
 
 Some of these have alternative names and there are also some identifiers which we do not share with candidates or providers. There’s more information about this in the [proposal for how to deal with identifiers](https://docs.google.com/document/d/1lgX1RNWypscqf_7si89HHgZlAyasAgNYekHABFMgWaE/edit).
 
@@ -41,7 +37,7 @@ We want to carry out research with providers and support users to find out:
 - whether its’s useful to search by email address
 - how we can help users distinguish between applications from the same candidate
 - how we can help users find related applications for a particular candidate
-- what support agents need from candidates and providers
+- what support users need from candidates and providers
 - whether we should stop encouraging vendors to use the support reference
 - how we can help users find an application without personally identifiable information
 
@@ -55,7 +51,13 @@ Before doing so we want to see if providers need it for another reason such as b
 
 If a provider is contacted by a candidate, they may need to search for their application in the service. If there are multiple applications from candidates with the same name, the provider may need a way to distinguish between them.
 
-We wanted to find out whether it would be useful for providers to be able to search by email address. This would be harder to ask for and type compared to name, but it would be unique to a candidate.
+We want to find out whether it would be useful for providers to be able to search by email address. This would be harder to ask for and type compared to name, but it would be unique to a candidate.
+
+To help test this we have updated the prototype by:
+
+- removing the reference number from the application list and details pages
+- removing the ability to search by reference number
+- adding the ability to search by email address
 
 ### Helping users distinguish between applications from the same candidate
 
@@ -75,15 +77,13 @@ To search using the candidate ID, a user would have to find it then cut and past
 
 We want to find out if it would be better to let users view all related applications for a particular candidate without having to search.
 
-### Finding out what support agents need from candidates and providers
+### Finding out what support users need from candidates and providers
 
-Candidates no longer provide their reference number to support because they do not have it.
-
-This has made some support requests more difficult to deal with. For example, one candidate contacted support using an email address that did not match the one they used to apply.
+Some support requests have been more difficult to process without the reference number. For example, one candidate contacted support using an email address that did not match the one they used to apply.
 
 The candidate’s name was also not given in full in their email. This meant the support agent had to go back to the candidate for more information.
 
-We want to find out what support agents need from candidates and providers to carry out support requests efficiently.
+We want to find out what support users need from candidates and providers to carry out support requests efficiently.
 
 ### Finding out whether we should stop encouraging providers and vendors to use the reference number
 
