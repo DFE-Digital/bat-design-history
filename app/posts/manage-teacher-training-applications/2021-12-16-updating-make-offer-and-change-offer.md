@@ -46,53 +46,66 @@ Currently providers can offer a different course to the one that a candidate app
 
 We recently did some work to [let providers change course before making an offer](/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/). Doing so has led us to make changes to the make offer and change offer flows.
 
+## The new change course flow
+
+In the new change course flow, attributes can be changed in this order:
+
+- training provider
+- course
+- full time or part time
+- location
+
+When the user clicks a change link on the application details page, they’re taken to a page to change the appropriate course attribute.
+
+They will then continue to the next attribute which has multiple options, based on the choice they just made.
+
+For example, if the user clicked the change link next to ‘course’ then they will be taken to a page where they can change course. They will not be asked to change training provider.
+
+When they continue, they will be taken to:
+
+- choose full time or part time, if both options are available for the course they chose
+- choose location, if the course they chose is only part time or only full time and the course has multiple locations
+- the check answers page, if the course they chose is only part time or only full time and has only one location
+
 ## What we changed
 
-We added qualifications and funding type to the summary lists in the:
+We added qualifications and funding type to the summary lists which appear in the:
 
-- offer section of the application
+- offer section of the application details page
 - make decision page
-- check answers page for make offer
-- check answers page for change offer
-- offer made event
-- offer changed event
-- application submitted event
+- check answers page for making an offer
+- check answers page for changing an offer
+- offer made event in the timeline and activity log
+- offer changed event in the timeline and activity log
+- application submitted event in the timeline and activity log
 
-We also made changes to:
+We also made further changes to the:
 
-- make offer
-- change course details and make an offer
-- change offer
+- make an offer flow
+- change course details and make an offer flow
+- change offer flow
 
-### Make offer
+### Make offer flow
 
-We changed the make offer flow to be consistent with changing courses. To do this we:
+In the make offer flow we:
 
 - removed ‘select’ from page headings, for example changing ‘Select training provider’ to ‘Training provider’
 - added ‘Make offer’ to the caption
-- changed the flow which users enter if they click a change link on the check answers page
+- changed the flow reached by clicking a change link on the check answers page, to match the change course flow
 
-If the user changes an offer at this point, we will not change the ‘course applied for’ section in the application details.
+### Change course details and make an offer flow
 
-### Change course details and make an offer
+If the user chooses to change course details at the same time as making an offer, the pages they see are the same as in the change course flow. They start the flow with the first attribute they can change.
 
-If the user chooses to change course details at the same time as making an offer, they start the journey at the first attribute which can be changed.
+After the user has chosen the new course attributes, they’ll also need to choose conditions. This has not changed and is the same as in the make offer journey.
 
-For example, if they only belong to one training provider then they will not be asked to choose one. They will go straight to choose a course.
+### Change offer flow
 
-The journey will match the change course journey, except that the user will need to choose conditions as they do in the make offer journey.
+We added ‘change offer’ to the caption used in this flow.
 
-The ‘course applied for’ in the application details will not be changed.
-
-### Change offer
-
-We updated the change offer journey to be consistent with changing courses and making offers.
-
-We show change links on an offer if:
+We also updated the change offer flow to be consistent with changing courses. We show change links on an offer if:
 
 - the user has permission to make offers and reject applications
 - the application has a status of ‘offered’
 
-If the user clicks one of these links, they’ll follow the same journey as if they’d changed the course. The ‘course applied for’ in the application details will not change.
-
-We also added ‘change offer’ to the caption.
+If the user clicks one of these change links, they follow the same flow as they would if they’d changed the course before they made an offer.
