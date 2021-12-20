@@ -29,9 +29,7 @@ Providers sometimes need to change the course sooner so that they can:
 - move candidates to a more appropriate school or course
 - keep good candidates even if a course is full
 
-We made changes to allow providers to do this.
-
-<!-- Doing so led to us making [changes to the flows which let users make and change offers](link to other design history entry). -->
+We made changes to allow providers to do this. Doing so led to us making [changes to the flows which let users make and change offers](/manage-teacher-training-applications/updating-make-offer-and-change-offer/).
 
 ## Information which providers give about courses
 
