@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "private": true,
   "engines": {
-    "node": "^15.0.0"
+    "node": "^16.0.0"
   },
   "description": "A history of the designs for the Find and Apply services",
   "keywords": [
@@ -17,19 +17,12 @@
   "repository": "github:DFE-Digital/bat-design-history",
   "bugs": "https://github.com/DFE-Digital/bat-design-history/issues",
   "scripts": {
-    "prebuild": "rm -rf public",
-    "build:files": "eleventy",
-    "build:javascripts": "rollup --config etc/rollup.config.js",
-    "build:styles": "node-sass app/_stylesheets -o public/stylesheets --include-path node_modules/govuk-frontend --include-path app",
-    "build": "npm-run-all --serial build:*",
-    "prewatch": "npm run build",
-    "watch:files": "eleventy --serve --quiet",
-    "watch:javascripts": "rollup --config etc/rollup.config.js --watch",
-    "watch:styles": "node-sass app/_stylesheets -o public/stylesheets --include-path node_modules/govuk-frontend --watch",
-    "watch": "npm-run-all --parallel watch:*",
+    "prebuild": "rimraf public",
+    "build": "eleventy --quiet",
+    "predev": "npm run build",
+    "dev": "eleventy --serve --quiet",
     "prestart": "npm run build",
-    "start": "npm run watch:files",
-    "dev": "npm run watch",
+    "start": "http-server",
     "lint:javascripts": "standard",
     "lint:javascripts:fix": "standard --fix",
     "lint:markdown": "markdownlint 'app/**/*.md'",
@@ -38,32 +31,16 @@
     "lint:fix": "npm-run-all lint:javascripts:fix lint:markdown:fix"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.3.2",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
-    "@rollup/plugin-commonjs": "^20.0.0",
-    "@rollup/plugin-node-resolve": "^13.0.4",
-    "accessible-autocomplete": "^2.0.3",
+    "@11ty/eleventy": "^1.0.0-beta",
     "fs-extra": "^10.0.0",
-    "govuk-frontend": "^3.13.0",
-    "http-server": "^0.12.3",
-    "luxon": "^2.0.1",
-    "markdown-it-abbr": "^1.0.4",
-    "markdown-it-anchor": "^8.1.2",
-    "markdown-it-deflist": "^2.1.0",
-    "markdown-it-footnote": "^3.0.3",
-    "markdown-it-image-figures": "^1.2.0",
-    "markdown-it-ins": "^3.0.1",
-    "markdown-it-mark": "^3.0.1",
-    "markdown-it-sub": "^1.0.0",
-    "markdown-it-sup": "^1.0.0",
-    "markdown-it-table-of-contents": "^0.5.2",
-    "node-sass": "^6.0.1",
-    "npm-run-all": "^4.1.5",
-    "rollup": "^2.55.1"
+    "govuk-eleventy-plugin": "^1.0.3",
+    "http-server": "^14.0.0",
+    "sass": "^1.45.1",
+    "rimraf": "^3.0.2",
+    "npm-run-all": "^4.1.5"
   },
   "devDependencies": {
-    "markdownlint-cli": "^0.28.1",
+    "markdownlint-cli": "^0.30.0",
     "standard": "^16.0.3",
     "webshot-node": "^0.18.2"
   },

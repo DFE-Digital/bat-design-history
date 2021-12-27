@@ -5,7 +5,6 @@ date: 2019-04-08
 ---
 
 {% from "email/macro.njk" import appEmail %}
-{% from "embed/macro.njk" import appEmbed %}
 
 {% set videoContent %}
 Dear colleague,
@@ -35,10 +34,7 @@ Becoming a Teacher team
 
 Guidance video:
 
-{{ appEmbed({
-  youtubeId: "nxmtXGy1cCY",
-  title: "Vacancies editing - Publish teacher training courses"
-}) }}
+@[youtube](https://www.youtube.com/watch?v=nxmtXGy1cCY)
 
 Guidance page with video:
 

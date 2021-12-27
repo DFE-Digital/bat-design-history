@@ -1,14 +1,15 @@
-{% extends "base.njk" %}
+{% extends "govuk/layouts/page.njk" %}
 
-{% from "article/macro.njk" import appArticle %}
 {% from "screenshots/macro.njk" import appScreenshots %}
-{% from "prose/macro.njk" import appProse %}
+
+{% block styles %}
+  <link rel="stylesheet" href="/assets/application.css">
+{% endblock %}
 
 {% block content %}
   {% call appArticle({
     header: {
-      title: title | widont,
-      tag: status
+      title: title | noOrphans
     }
   }) %}
     {{ appProse({

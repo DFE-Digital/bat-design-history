@@ -1,12 +1,11 @@
 // GOV.UK Frontend styles
 $govuk-global-styles: true;
-@import "govuk/all.scss";
+@import "govuk/base";
+@import "govuk/core/all";
+@import "_components/all";
 
 // Design History styles
 @import "../_components/all.scss";
-
-// Vendor styles
-@import "vendor/prism.scss";
 
 // Becoming a teacher design history styles
 @import "bat-design-history.scss";

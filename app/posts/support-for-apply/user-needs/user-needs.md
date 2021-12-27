@@ -1,6 +1,6 @@
 ---js
 {
-  tags: false,
+  'override:tags': [],
   layout: "user-needs",
   description: "User needs for Support for Apply",
   pagination: {

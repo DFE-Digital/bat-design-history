@@ -1,15 +1,15 @@
-{% extends "base.njk" %}
+{% extends "govuk/layouts/post.njk" %}
 
-{% from "article/macro.njk" import appArticle %}
-{% from "related/macro.njk" import appRelated %}
 {% from "screenshots/macro.njk" import appScreenshots %}
-{% from "prose/macro.njk" import appProse %}
+
+{% block styles %}
+  <link rel="stylesheet" href="/assets/application.css">
+{% endblock %}
 
 {% block content %}
   {% call appArticle({
     header: {
-      title: title | widont,
-      tag: status
+      title: title | noOrphans
     },
     footer: {
       date: page.date,
@@ -29,7 +29,7 @@
       {% endfor %}
     </div>
 
-    {% if related %}
+    {% if related.items | length > 0 %}
     <div class="govuk-grid-column-one-third">
       {{ appRelated({
         title: related.title or "Related links",
