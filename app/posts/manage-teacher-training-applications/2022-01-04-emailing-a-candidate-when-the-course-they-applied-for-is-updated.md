@@ -6,7 +6,18 @@ date: 2022-01-04
 
 {% from "email/macro.njk" import appEmail %}
 
-### Change course
+We recently made some changes to [let providers change a course the candidate applied for](/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/) before an offer is made.
+
+Notifying the candidate when a course is changed will keep them more informed. They will be less likely to need to contact the training provider.
+
+## How it works
+
+A user can change the course:
+
+- the candidate applied for before an offer is made
+- the candidate was offered before the offer is accepted
+
+### Changing the course applied for
 
 <!-- markdownlint-disable MD025 -->
 
@@ -40,7 +51,7 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
 
 <!-- markdownlint-enable MD025 -->
 
-### Change offer
+### Changing the course offered
 
 <!-- markdownlint-disable MD025 -->
 
