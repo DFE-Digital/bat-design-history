@@ -1,6 +1,6 @@
 ---
 title: Emailing a candidate when the course is updated
-description: Telling a candidate when the provider changes the course they applied for
+description: Telling a candidate when the provider changes the course they applied for or offered
 date: 2022-01-04
 ---
 
