@@ -41,7 +41,7 @@ We do not show funding type in the course details as it does not appear in Apply
 
 We tell candidates to contact the training provider with any questions, even if the user who changed the course details belongs to the accredited body. This is because the training provider is more likely to be able to answer the candidate’s questions.
 
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD001 MD025 -->
 
 {{ appEmail({
   subject: "Course details changed for ((old_course_and_code))",
@@ -71,7 +71,7 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
   "
 }) }}
 
-<!-- markdownlint-enable MD025 -->
+<!-- markdownlint-enable MD001 MD025 -->
 
 ### Changing the course details at the same time as making an offer or after making an offer
 
@@ -81,7 +81,7 @@ We've updated this email to reflect the decisions we made when creating the new 
 - shows the qualification
 - tells users to contact the training provider even if the change was made by a user at the accredited body
 
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD001 MD025 -->
 
 {{ appEmail({
   subject: "Offer changed for ((old_course_and_code))",
@@ -125,4 +125,4 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
   "
 }) }}
 
-<!-- markdownlint-enable MD025 -->
+<!-- markdownlint-enable MD001 MD025 -->
