@@ -10,7 +10,7 @@ screenshots:
 
 We give users the ability to [manage individual email notifications](/manage-teacher-training-applications/managing-individual-email-notifications).
 
-But we forgot to include the reminder to make a decision 20 working days before automatic rejection which we’ve now added.
+We forgot to include the reminder to make a decision 20 working days before automatic rejection. We’ve now added the option to turn the reminder on or off.
 
 ## Future considerations
 
@@ -18,5 +18,5 @@ In future we want to consider:
 
 - letting users configure when they receive the reminder notification
 - sending one email with multiple reminders
-- sending a reminder users at 10 days when the when the application window is reduced to 20 days
-- whether we should change the content of the email based on whether the user has permission to make offers and reject applications
+- sending a reminder to users 10 working days before automatic rejection if they only started with 20 working days
+- changing the content of the email based on whether the user has permission to make offers and reject applications
