@@ -138,7 +138,7 @@ Postgraduate certificate in education (PGCE)
 : This is a teaching qualification that - when it’s paired with QTS (qualified teacher status) - allows you to teach in state schools in England, Scotland, Wales and Northern Ireland. It’s also recognised internationally (which is the major advantage of having it, over just QTS). PGCE without QTS qualifies you to teach further education, but not primary or secondary education.
 
 Postgraduate diploma in education (PGDE)
-: Very similar to the PGCE. Generally includes more credits towards a Master’s degree, but is essentially the same.
+: Very similar to the PGCE. Generally includes more credits towards a Master’s degree.
 
 Provider led
 : A course that that is led by an HEI or a SCITT (the opposite of school led/based).
