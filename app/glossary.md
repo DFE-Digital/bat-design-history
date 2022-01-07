@@ -51,8 +51,8 @@ Cycle
 Database of Qualified Teachers (DQT)
 : A database maintained by the Teacher Regulation Agency. Teachers can sign in to view their teacher record, get copies of QTS and other teaching related qualifications and update their personal and employment details.
 
-DBS Check
-: A service from the Disclosure and Barring Service which checks for any potential criminal record. There are two levels, a ‘basic’ check and an ‘enhanced’ check. Applying for teacher training requires the enhanced check. Generally, the acronym does not need to be spelled out, but the check should be described, for example as a criminal record check.
+DBS check
+: A service from the Disclosure and Barring Service which checks for any potential criminal record. There are four levels, ‘basic’, ‘standard’, ‘enhanced’ and ‘enhanced with barred lists’. Applying for teacher training requires the enhanced check. Generally, the acronym does not need to be spelled out, but the check should be described, for example as a criminal record check. See [DBS checks](https://www.gov.uk/government/organisations/disclosure-and-barring-service/about#dbs-checks).
 
 DTTP
 : [Database of trainee teachers and providers](https://www.gov.uk/guidance/database-of-trainee-teachers-and-providers-dttp).
