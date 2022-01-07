@@ -114,7 +114,7 @@ Marketing name
 : The commonly used name of an educational organisation. This may not be the legal name.
 
 Modern languages
-: This term is sometimes used to differentiate the teaching of languages in everyday use from ‘ancient languages’ such as Latin and Ancient Greek which are no longer widely spoken. It also typically does not include teaching English. Avoid using in non-internal communication.
+: This term is sometimes used to differentiate the teaching of languages in everyday use from ‘ancient languages’ such as Latin and Ancient Greek which are no longer widely spoken. It also typically does not include teaching English. Prefer listing the specific languages where possible.
 
 Multi-Academy Trust (MAT)
 : A single trust responsible for a group of academies. MATs can be providers but cannot be lead schools.
