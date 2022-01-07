@@ -202,7 +202,7 @@ UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
 
 UK ENIC
-: A service which provides impartial judgement on the international qualifications, and how they compare to UK qualifications. Previously known as UK NARIC prior to the UK leaving the European Union. ENIC stands for European Network of Information Centres, but the term does not need to be spelled out. See [UK ENIC](https://www.enic.org.uk) website.
+: A service which provides impartial judgement on international qualifications, and how they compare to UK qualifications. Previously known as UK NARIC prior to the UK leaving the European Union. ENIC stands for European Network of Information Centres, but the term does not need to be spelled out. See [UK ENIC](https://www.enic.org.uk) website.
 
 UK NARIC
 : Previous name for UK ENIC, whilst the UK was part of the EU.
