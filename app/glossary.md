@@ -24,6 +24,9 @@ Accreditation
 Allocation
 : Permission to run limited courses.
 
+Ancient languages
+: Used to describe teaching the study of languages no longer in widespread spoken usage, such as Latin or Ancient Greek. Prefer using the specific languages studied where possible.
+
 ## B
 
 Becoming a teacher (BAT)
@@ -48,6 +51,9 @@ Cycle
 Database of Qualified Teachers (DQT)
 : A database maintained by the Teacher Regulation Agency. Teachers can sign in to view their teacher record, get copies of QTS and other teaching related qualifications and update their personal and employment details.
 
+DBS Check
+: A service from the Disclosure and Barring Service which checks for any potential criminal record. There are two levels, a ‘basic’ check and an ‘enhanced’ check. Applying for teacher training requires the enhanced check. Generally, the acronym does not need to be spelled out, but the check should be described, for example as a criminal record check.
+
 DTTP
 : [Database of trainee teachers and providers](https://www.gov.uk/guidance/database-of-trainee-teachers-and-providers-dttp).
 
@@ -59,6 +65,9 @@ Early career payments
 English Baccalaureate (EBacc)
 : A combination of subjects (the ‘core’ subjects, academically) that pupils can study at GCSE level. The EBacc is not a qualification in itself. The government assesses school performance based on how well pupils perform in the EBacc subjects. It’s also used as something of a marketing device - pupils are encouraged to choose these subjects.
 
+English as a foreign language
+: Used to describe the use of English by people whose first language or languages are not English. The teaching of this is a specialism sometimes described as ‘teaching English as a foreign language’ (TEFL). The use of English as a foreign language can be assessed through formal assessments such the ‘International English Language Testing System’ (IELTS) and ‘Test of English as a Foreign Language’ (TOEFL).
+
 Early years initial teacher training (EYITT)
 : The equivalent to ITT but specifically for teaching 0 to 5 year olds.
 
@@ -66,6 +75,9 @@ Early years teacher status (EYTS)
 : The equivalent to QTS and allows you to teach 0 to 5 year olds.
 
 ## F
+
+Fitness to teach check
+: This is not a specific check, but a general description of assessments of a person’s health and physical and mental capacity to teach. Each provider may use different processes or services for these checks, which are usually a condition of offers on teacher training courses.
 
 Further Education
 : This is an educational level between secondary and higher education. It tends to be vocational. Most people studying FE courses will be over 16, but some courses are available to people aged 14 and over. FE courses are usually taught in FE colleges, sixth form colleges, and adult education centres (ie not schools). Strictly speaking, A Levels are part of FD - however, the term is generally used to refer to non-academic, vocational/skills-focused training.
@@ -76,7 +88,7 @@ Get information about schools (GIAS)
 : This is a [register of schools and colleges in England](https://get-information-schools.service.gov.uk/).
 
 Get Into Teaching (GIT)
-: Campaign site to encourage people to apply for teacher training.
+: A marketing campaign and website to encourage people to become a teacher. The brand is capitalised, and the acronym should not be used publicly. See [Get Into Teaching](https://getintoteaching.education.gov.uk) website.
 
 ## H
 
@@ -101,6 +113,9 @@ Lead school
 Marketing name
 : The commonly used name of an educational organisation. This may not be the legal name.
 
+Modern languages
+: This term is sometimes used to differentiate the teaching of languages in everyday use from ‘ancient languages’ such as Latin and Ancient Greek which are no longer widely spoken. It also typically does not include teaching English. Avoid using in non-internal communication.
+
 Multi-Academy Trust (MAT)
 : A single trust responsible for a group of academies. MATs can be providers but cannot be lead schools.
 
@@ -121,6 +136,9 @@ Organisation
 
 Postgraduate certificate in education (PGCE)
 : This is a teaching qualification that - when it’s paired with QTS (qualified teacher status) - allows you to teach in state schools in England, Scotland, Wales and Northern Ireland. It’s also recognised internationally (which is the major advantage of having it, over just QTS). PGCE without QTS qualifies you to teach further education, but not primary or secondary education.
+
+Postgraduate diploma in education (PGDE)
+: Very similar to the PGCE. Generally includes more credits towards a Master’s degree, but is essentially the same.
 
 Provider led
 : A course that that is led by an HEI or a SCITT (the opposite of school led/based).
@@ -145,6 +163,9 @@ SCITT
 
 School direct (SD)
 : Single school given school direct (fee and salaried) places. Must partner with an accredited body.
+
+Special educational needs and disability (SEND or SEN)
+: Needs and disabilities that can affect a child’s ability to learn. These children may be eligible for additional support. Both SEND and SEN acronyms are widely used, but the term should always be spelled out, uncapitalised, on initial use. See [Children with special education needs and disabilities (SEND)](https://www.gov.uk/children-with-special-educational-needs) on GOV.UK.
 
 SITS
 : SITS:Vision, also known just as SITS, is a database application used for course and student management developed and maintained by the [Tribal Group](https://en.wikipedia.org/wiki/SITS:Vision). This is the most common student record system used by providers.
@@ -180,8 +201,11 @@ Teaching School Alliance
 UCAS
 : The Universities and Colleges Admissions Service whose main role is to operate the application process for British universities.
 
+UK ENIC
+: A service which provides impartial judgement on the international qualifications, and how they compare to UK qualifications. Previously known as UK NARIC prior to the UK leaving the European Union. ENIC stands for European Network of Information Centres, but the term does not need to be spelled out. See [UK ENIC](https://www.enic.org.uk) website.
+
 UK NARIC
-: All EU and EEA states (as well as some other associated countries) have a designated National Academic Recognition Information Centre that is responsible for recognising international qualifications and skills. The [National Recognition Information Centre for the United Kingdom](https://www.naric.org.uk/) is the UK’s agency. Providers can ask international applicants to provide a [statement of comparability](https://www.naric.org.uk/Qualifications/SOC/Default.aspx) to ensure their qualifications align with UK requirements.
+: Previous name for UK ENIC, whilst the UK was part of the EU.
 
 UK Provider Reference Number (UKPRN)
 : This is the unique identifier given to higher education providers.
