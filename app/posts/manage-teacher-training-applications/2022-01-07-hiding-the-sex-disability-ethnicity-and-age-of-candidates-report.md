@@ -48,7 +48,10 @@ Removing the link would make it impossible for the user to know when the report 
 
 Replacing the link with an explanation did not work well because it did not stand out among the links. We decided to keep the link and add content on the report page explaining when the user will be able to view the report and why we’re hiding it.
 
-We also added details of the recruitment cycle to the h1 heading for the page, to make it clear that the report does not include data for previous cycles.
+To make it clear what this report includes we added:
+
+- details of the recruitment cycle to the h1 heading for the page
+- a sentence to the "About this data" section to say "this data comes from candidates who have submitted an application since 12 October 2021."
 
 ![Reports landing page](reports-landing-page.png "Reports landing page")
 
