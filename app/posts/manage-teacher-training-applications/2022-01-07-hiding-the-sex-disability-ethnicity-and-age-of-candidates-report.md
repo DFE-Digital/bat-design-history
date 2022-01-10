@@ -78,10 +78,10 @@ This means that we no longer need to have content on the report page saying why 
     src: "reports-landing-page.png",
     text: "Reports landing page"
   }, {
-    src: "candidate-sex-disability-ethnicity-age-report--interstital.png",
+    src: "candidate-sex-disability-ethnicity-age-report--interstitial.png",
     text: "Candidate sex, disability, ethnicity and age report - interstitial"
   }, {
-    src: "candidate-sex-disability-ethnicity-age-report--interstital-report-hidden.png",
+    src: "candidate-sex-disability-ethnicity-age-report--interstitial-report-hidden.png",
     text: "Candidate sex, disability, ethnicity and age report - interstitial with current report hidden"
   }, {
     src: "candidate-sex-disability-ethnicity-age-report--current-cycle.png",
