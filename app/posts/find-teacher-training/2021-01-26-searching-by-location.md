@@ -86,7 +86,7 @@ A better alternative may be [Travel to Work Areas](https://en.wikipedia.org/wiki
 
 Using TTWAs would also make it easier for providers to select which areas can offer school placements in, and would therefore be more likely to keep this information updated.
 
-{% from "gallery/macro.njk" import appGallery with context %}
+{% from "govuk/components/gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   items: [{
     text: "Current model",

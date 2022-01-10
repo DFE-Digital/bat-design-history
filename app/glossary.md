@@ -8,7 +8,7 @@ eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
-    parent: home
+    parent: Home
 ---
 
 A collection of terms commonly used across the Becoming a Teacher service lines.

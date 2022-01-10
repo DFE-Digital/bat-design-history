@@ -74,7 +74,7 @@ We’ve changed how the search filters appear on a mobile device;
 
 This makes the design more consistent with Manage and Support.
 
-{% from "gallery/macro.njk" import appGallery with context %}
+{% from "govuk/components/gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   items: [{
     text: "Filters hidden on mobile",

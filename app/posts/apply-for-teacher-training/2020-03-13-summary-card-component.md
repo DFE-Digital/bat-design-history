@@ -9,7 +9,7 @@ related:
       href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
 ---
 
-{% from "gallery/macro.njk" import appGallery with context %}
+{% from "govuk/components/gallery/macro.njk" import appGallery with context %}
 
 Throughout the service we ask candidates to enter multiple items of information (eg jobs, work experiences, qualifications, course choices). We then give candidates the opportunity to review their answers, not only after completing each section, but when reviewing their entire application.
 
