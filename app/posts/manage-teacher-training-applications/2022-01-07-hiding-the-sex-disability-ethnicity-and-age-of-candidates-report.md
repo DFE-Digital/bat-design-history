@@ -47,17 +47,14 @@ We also added details of the recruitment cycle to the h1 heading for the page, t
 {{ appScreenshots({
   headingLevel: 3,
   items: [{
-    src: "reports-landing-page.gng",
-    text: "",
-    caption: ""
+    src: "reports-landing-page.png",
+    text: "Reports landing page"
   }, {
     src: "candidate-sex-disability-ethnicity-age-report.png",
-    text: "",
-    caption: ""
+    text: "Candidate sex, disability, ethnicity and age report"
   }, {
-    src: "candidate-sex-disability-ethnicity-age-report--dat-hidden.png",
-    text: "",
-    caption: ""
+    src: "candidate-sex-disability-ethnicity-age-report--data-hidden.png",
+    text: "Candidate sex, disability, ethnicity and age report with data hidden"
   }]
 }) }}
 
@@ -78,17 +75,20 @@ This means that we no longer need to have content on the report page saying why 
 {{ appScreenshots({
   headingLevel: 3,
   items: [{
-    src: "",
-    text: "",
-    caption: ""
+    src: "reports-landing-page.png",
+    text: "Reports landing page"
   }, {
-    src: "",
-    text: "",
-    caption: ""
+    src: "candidate-sex-disability-ethnicity-age-report--interstital.png",
+    text: "Candidate sex, disability, ethnicity and age report - interstitial"
   }, {
-    src: "",
-    text: "",
-    caption: ""
+    src: "candidate-sex-disability-ethnicity-age-report--interstital-report-hidden.png",
+    text: "Candidate sex, disability, ethnicity and age report - interstitial with current report hidden"
+  }, {
+    src: "candidate-sex-disability-ethnicity-age-report--current-cycle.png",
+    text: "Candidate sex, disability, ethnicity and age report - current cycle"
+  }, {
+    src: "candidate-sex-disability-ethnicity-age-report--previous-cycle.png",
+    text: "Candidate sex, disability, ethnicity and age report - previous cycle"
   }]
 }) }}
 
