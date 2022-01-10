@@ -25,7 +25,7 @@ We don’t have a complete view of how quickly applications came in during the 2
 
 We decided to look at data from the current recruitment cycle, to see the effect of showing the report only after a provider has received applications from 10 candidates.
 
-Analysis showed by the 15 December 2021, the report could be viewed by 63% of providers who had received at least one application.
+Analysis showed that by 15 December 2021, the report could be viewed by 63% of providers who had received at least one application.
 
 We intend to go ahead with showing the report after a provider receives applications from 10 candidates. We’ll review this at the end of the cycle by looking at when the report became available to each provider.
 
@@ -56,13 +56,22 @@ We also added details of the recruitment cycle to the h1 heading for the page, t
 
 ![Candidate sex, disability, ethnicity and age report with data hidden](candidate-sex-disability-ethnicity-age-report--data-hidden.png "Candidate sex, disability, ethnicity and age report with data hidden")
 
-## Showing the report for 2 recruitment cycles
+## Further considerations
 
-We considered how we might show the report once it’s available for 2 recruitment cycles.
+In future we’ll consider:
+
+- only showing data for completed applications rather than all received applications
+- showing data for other outcomes, for example rejections
+- grouping outcomes and showing data for positive and negative outcomes
+- always showing the table with the age of candidates, which we do not need to hide since the date of birth appears in a candidate’s application details
+
+We will also need a design for showing the report once it’s available for 2 recruitment cycles.
 
 We will not initially need to do this because we do not intend to show data for the 2020 to 2021 recruitment cycle. It would be incomplete because many applications were made through the UCAS service.
 
-In our design we:
+### Showing the report for 2 recruitment cycles
+
+We do not intend for this design to be implemented yet and may make further changes. However we wanted to record the details of the design, in which we:
 
 - have only one link on the reports page
 - link to a page which gives information about the report and has a section for each recruitment cycle
@@ -81,15 +90,3 @@ The previous recruitment cycle’s report will always be available because we pl
 ![Candidate sex, disability, ethnicity and age report - current cycle](candidate-sex-disability-ethnicity-age-report--current-cycle.png "Candidate sex, disability, ethnicity and age report - current cycle")
 
 ![Candidate sex, disability, ethnicity and age report - previous cycle](candidate-sex-disability-ethnicity-age-report--previous-cycle.png "Candidate sex, disability, ethnicity and age report - previous cycle")
-
-## Further considerations
-
-In future we’ll consider:
-
-- only showing data for completed applications rather than all received applications
-- showing data for other outcomes, for example rejections
-- grouping outcomes and showing data for positive and negative outcomes
-
-We’ll also consider always showing the table with the age of candidates. We do not need to hide this data because the date of birth appears in a candidate’s application details.
-
-We do not intend to do this initially as we do not know whether providers will find the age data useful on its own.
