@@ -51,7 +51,7 @@ Replacing the link with an explanation did not work well because it did not stan
 To make it clear what this report includes we added:
 
 - details of the recruitment cycle to the h1 heading for the page
-- a sentence to the "About this data" section to say "this data comes from candidates who have submitted an application since 12 October 2021."
+- a sentence to the ‘About this data’ section to say “this data comes from candidates who have submitted an application since 12 October 2021.”
 
 ![Reports landing page](reports-landing-page.png "Reports landing page")
 
