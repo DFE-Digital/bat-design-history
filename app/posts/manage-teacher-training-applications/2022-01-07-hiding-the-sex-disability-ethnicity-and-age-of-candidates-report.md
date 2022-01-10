@@ -44,19 +44,11 @@ Replacing the link with an explanation did not work well because it did not stan
 
 We also added details of the recruitment cycle to the h1 heading for the page, to make it clear that the report does not include data for previous cycles.
 
-{{ appScreenshots({
-  headingLevel: 3,
-  items: [{
-    src: "reports-landing-page.png",
-    text: "Reports landing page"
-  }, {
-    src: "candidate-sex-disability-ethnicity-age-report.png",
-    text: "Candidate sex, disability, ethnicity and age report"
-  }, {
-    src: "candidate-sex-disability-ethnicity-age-report--data-hidden.png",
-    text: "Candidate sex, disability, ethnicity and age report with data hidden"
-  }]
-}) }}
+![Reports landing page](reports-landing-page.png "Reports landing page")
+
+![Candidate sex, disability, ethnicity and age report](candidate-sex-disability-ethnicity-age-report.png "Candidate sex, disability, ethnicity and age report")
+
+![Candidate sex, disability, ethnicity and age report with data hidden](candidate-sex-disability-ethnicity-age-report--data-hidden.png "Candidate sex, disability, ethnicity and age report with data hidden")
 
 ## Further considerations
 
@@ -72,25 +64,15 @@ In our design we:
 
 This means that we no longer need to have content on the report page saying why it is unavailable. We will hide the link until the report is available.
 
-{{ appScreenshots({
-  headingLevel: 3,
-  items: [{
-    src: "reports-landing-page.png",
-    text: "Reports landing page"
-  }, {
-    src: "candidate-sex-disability-ethnicity-age-report--interstitial.png",
-    text: "Candidate sex, disability, ethnicity and age report - interstitial"
-  }, {
-    src: "candidate-sex-disability-ethnicity-age-report--interstitial-report-hidden.png",
-    text: "Candidate sex, disability, ethnicity and age report - interstitial with current report hidden"
-  }, {
-    src: "candidate-sex-disability-ethnicity-age-report--current-cycle.png",
-    text: "Candidate sex, disability, ethnicity and age report - current cycle"
-  }, {
-    src: "candidate-sex-disability-ethnicity-age-report--previous-cycle.png",
-    text: "Candidate sex, disability, ethnicity and age report - previous cycle"
-  }]
-}) }}
+![Reports landing page](reports-landing-page.png "Reports landing page")
+
+![Candidate sex, disability, ethnicity and age report - interstitial](candidate-sex-disability-ethnicity-age-report--interstitial.png "Candidate sex, disability, ethnicity and age report - interstitial")
+
+![Candidate sex, disability, ethnicity and age report - interstitial with current report hidden](candidate-sex-disability-ethnicity-age-report--interstitial-report-hidden.png "Candidate sex, disability, ethnicity and age report - interstitial with current report hidden")
+
+![Candidate sex, disability, ethnicity and age report - current cycle](candidate-sex-disability-ethnicity-age-report--current-cycle.png "Candidate sex, disability, ethnicity and age report - current cycle")
+
+![Candidate sex, disability, ethnicity and age report - previous cycle](candidate-sex-disability-ethnicity-age-report--previous-cycle.png "Candidate sex, disability, ethnicity and age report - previous cycle")
 
 In future we will also consider:
 
