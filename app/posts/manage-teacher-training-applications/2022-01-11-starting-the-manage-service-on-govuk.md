@@ -17,15 +17,13 @@ We’ll start the service on the main gov.uk domain so that:
 
 ## What we did
 
-## Creating a separate page for each service
-
-We worked with the DfE digital communications team to create a new start page in the Whitehall content management system.
+We worked with the DfE digital communications team to create a new GOV.UK start page, using the Whitehall content management system.
 
 We decided to create a start page just for Manage. We considered creating a single start page for Publish, Manage and Register but decided not to do so because:
 
 - the user groups for the 3 services are different, although they significantly overlap - we’ll make it easy for users to find what they’re looking for by focusing on one thing
-- the services allow users to complete different tasks relating to different stages in the teacher training application process
-- it will be easier for users to spot what they’re looking for in search results, since we can name each start page after an individual service instead of using a title which sums up the services
+- the 3 services allow users to complete different tasks relating to different stages in the teacher training application process - users may not need more than one service at a time
+- it will be easier for users to spot what they’re looking for in search results, since we can name each start page after an individual service instead of using a title which sums up what the services are for
 - having a separate start page per service is a standard cross-government pattern
 
 ## How it works
@@ -36,24 +34,31 @@ The new start page on GOV.UK tells users:
 - the main features of the service
 - how to get an account
 
+There are some elements of the page which we cannot control, such as:
+
+- a heading saying ’Guidance’
+- information about the department which created the content and date of publication
+- the text ’Applies to England’, which is used when content does not apply to the whole of the UK
+- links to print the page
+
+The URL of the page will be www.gov.uk/government/manage-teacher-training-applications.
+
 ![GOV.UK start page](govuk-start-page.png "GOV.UK start page")
 
-We cannot link directly from a GOV.UK page to DfE Sign-in, so we need to keep the interim page at `/provider/sign-in`. We’ve changed the content on this page to match the new start page.
+We cannot link directly from a GOV.UK page to DfE Sign-in, so we need to keep the interim page at `/provider/sign-in`. We’ve changed the content to match the new start page.
 
-We have not included information about who can use the service, since users will only be able to reach this page from the GOV.UK start page or a bookmark.
+We have not included information about who can use the service, since users should not reach the page unless it applies to them. We do tell users how to get an account.
 
-In the content after the start button we’ll tell users how to get an account if they do not already have one.
+If a user who has signed in reaches this page, they’ll be redirected to `/provider/applications`.
 
-If a user who has signed in reaches this page, they will be redirected to `/provider/applications`.
+![Interim page between the start page and DfE Sign-in](interim-page.png "Interim page between the start page and DfE Sign-in")
 
-![Interim page](interim-page.png "Interim page")
-
-We will remove the current start page and redirect traffic from `/provider` to:
+We’ll remove the old start page from the service.gov.uk domain and redirect traffic from `/provider` to:
 
 - `/applications` if the user has signed in
 - `/sign-in` if the user has not signed in
 
-## Order in which changes will be made
+## Order in which changes should be made
 
 We need to make the changes in the following order.
 
