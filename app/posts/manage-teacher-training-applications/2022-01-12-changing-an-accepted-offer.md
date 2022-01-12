@@ -8,18 +8,18 @@ screenshots:
       src: offer-page.png
 ---
 
-To change an offer after it's been accepted, users have to send proof that the candidate agrees and details of the changes to support.
+To change an offer after it's been accepted, users have to send an email to support with proof that the candidate agrees and details of the changes.
 
-But we do not currently tell users how to do this which may mean that users do not:
+We do not currently tell users how to do this, which may mean that users do not:
 
-- realise that it’s possible to change an offer after it has been accepted
-- know what they need to do in order to change an offer after it has been accepted
+- realise that it’s possible to change an offer after it’s been accepted
+- know what they need to do in order to change an offer after it’s been accepted
 
-Because of this, we have put a message on the offer page to tell users how to do this.
+We have put a message on the offer page to tell users how to change an offer after it’s been accepted.
 
 ## How it works
 
-When the application status is ‘Conditions pending’ or ‘Recruited’ we show some inset text the says:
+When the application status is ‘Conditions pending’ or ‘Recruited’ we show inset text that says:
 
 > To change this offer, send proof that the candidate agrees and details of the changes to becomingateacher@digital.education.gov.uk.
 
