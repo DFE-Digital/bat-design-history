@@ -66,7 +66,7 @@ Keep the subject line short. Give more detail in the opening line if necessary.
 > - Gorse SCITT has set up organisation permissions for teacher training courses you run with them
 > - Jennifer Walters submitted an application for English Literature (XB55)
 
-For now, we should end all subject lines with “- manage teacher training applications”. This is because we share a GOV&#8203;.&#8203;UK Notify account with other services, and our emails are sent from “Becoming a Teacher”.
+For now, we should end all subject lines with “- manage teacher training applications”. This is because we share a GOV.UK Notify account with other services, and our emails are sent from “Becoming a Teacher”.
 
 ### Greeting
 
@@ -241,7 +241,7 @@ We kept a record of common terms we use in emails, to use them as the basis of a
 
 We removed:
 
-- any mention of GOV&#8203;.&#8203;UK because the UCAS service has been switched off, so there’s no need to differentiate between them
+- any mention of GOV.UK because the UCAS service has been switched off, so there’s no need to differentiate between them
 - any links to the guidance from the footer because it only contains dates and deadlines
 - the heading “Change your email notification settings” from the footer because it draws too much attention
 - any mention of the candidate reference number because we provide a link to the application
@@ -259,9 +259,9 @@ We added:
 
 We spotted a number of issues we’ll consider later.
 
-### Using a separate GOV&#8203;.&#8203;UK Notify account
+### Using a separate GOV.UK Notify account
 
-We use the same GOV&#8203;.&#8203;UK Notify account for the ‘Publish teacher training courses’, ‘Manage teacher training applications’ and ‘Register trainee teachers’ services.
+We use the same GOV.UK Notify account for the ‘Publish teacher training courses’, ‘Manage teacher training applications’ and ‘Register trainee teachers’ services.
 
 This means all emails have “Becoming a Teacher” as the ‘from address’. This makes it harder to distinguish emails received from different services.
 
