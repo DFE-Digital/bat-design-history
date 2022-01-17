@@ -10,10 +10,9 @@ The ‘Manage teacher training applications’ service currently starts on a ser
 
 The start page is not indexed by search engines, so users find it using browser bookmarks or by opening emails sent by the service.
 
-We’ll start the service on the main gov.uk domain so that:
+We’ll start the service on the main gov.uk domain so that it’s easier for users to find.
 
-- it’s easier for users to find
-- we meet government standards, which say that [all public-facing services must have a starting point on GOV.UK](https://www.gov.uk/service-manual/service-assessments/get-your-service-on-govuk)
+This will also mean that we’re following the approach set out in the government Service Standard, which says that [all public-facing services must have a starting point on GOV.UK](https://www.gov.uk/service-manual/service-assessments/get-your-service-on-govuk).
 
 ## What we did
 
