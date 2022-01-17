@@ -45,7 +45,11 @@ The URL of the page will be www.gov.uk/government/manage-teacher-training-applic
 
 ![GOV.UK start page](govuk-start-page.png "GOV.UK start page")
 
-We cannot link directly from a GOV.UK page to DfE Sign-in, so we need to keep the interim page at `/provider/sign-in`. We’ve changed the content to match the new start page.
+Users must sign in to DfE Sign-in before they can use Manage.
+
+For security reasons, DfE Sign-in requires a token which has been issued from a page managed by DfE on the service.gov.uk domain.
+
+This means that we cannot link directly from the new start page to DfE Sign-in. Instead we need to keep the interim page at `/provider/sign-in`.
 
 We have not included information about who can use the service, since users should not reach the page unless it applies to them. We do tell users how to get an account.
 
@@ -55,8 +59,8 @@ If a user who has signed in reaches this page, they’ll be redirected to `/prov
 
 We’ll remove the old start page from the service.gov.uk domain and redirect traffic from `/provider` to:
 
-- `/applications` if the user has signed in
-- `/sign-in` if the user has not signed in
+- `/provider/applications` if the user has signed in
+- `/provider/sign-in` if the user has not signed in
 
 ## Order in which changes should be made
 
