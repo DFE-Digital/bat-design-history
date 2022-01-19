@@ -1,7 +1,7 @@
 ---
 title: Highlighting invalid answers
 description: Exploring patterns for showing answers that are invalid
-date: 2022-01-18
+date: 2022-01-19
 related:
   items:
   - text: Apply integration - iteration 1
@@ -10,7 +10,6 @@ related:
     href: /register-trainee-teachers/investigating-free-text-responses-from-apply/
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "figure/macro.njk" import appFigure with context %}
 
 We previously [investigated free-text responses we may get from Apply](..investigating-free-text-responses-from-apply/). Where the free text response cannot be mapped and we (currently) require an answer from a fixed list, we will ask our provider users to correct the answer.
 
@@ -22,33 +21,17 @@ The styling has been a collaboration with other teams in DfE Becoming a teacher 
 
 ## Showing invalid answers on summary pages
 
-
 Summary pages get a notification banner if an answer is not recognised.
 
-{{ appFigure({
-  image: {
-    file: "1. banner highlighting invalid answer.png",
-    alt: "A notice banner is shown above the summary card."
-  }
-}) }}
+![A notice banner is shown above the summary card.](1.-banner-highlighting-invalid-answer.png)
 
 In the summary card, the candidate’s answer is shown inset with a message that the provider needs to review it.
 
-{{ appFigure({
-  image: {
-    file: "2. summary card with invalid answer.png",
-    alt: "Inside the summary card, the row with the invalid data is highlighted"
-  }
-}) }}
+![Inside the summary card, the row with the invalid data is highlighted](2.-summary-card-with-invalid-answer.png)
 
 When the provider continues through to review the answer, we show a similar banner and inset on the form field:
 
-{{ appFigure({
-  image: {
-    file: "3. edit form with banner.png",
-    alt: "On the form, a similar notice and inset style is used"
-  }
-}) }}
+![On the form, a similar notice and inset style is used](3.-edit-form-with-banner.png)
 
 The styling of these inset messages is very similar to the error message style.
 
@@ -56,21 +39,11 @@ The styling of these inset messages is very similar to the error message style.
 
 Providers must fix the invalid data in order to mark a section as complete. If they attempt to mark the section as complete without correcting the data, the notification banner and inset change to use error styling:
 
-{{ appFigure({
-  image: {
-    file: "4. validation-message.png",
-    alt: "The notice and inset style are replaced with a validation error if the user attempts to submit without fixing the invalid answers."
-  }
-}) }}
+![On the form, a similar notice and inset style is used](4.-validation-message.png)
 
 ## Video of invalid answers pattern
 
-{{ appFigure({
-  image: {
-    file: "invalid-answers.gif",
-    alt: "Video of a user attempting to complete a section without fixing the invalid answers."
-  }
-}) }}
+![Video of a user attempting to complete a section without fixing the invalid answers.](invalid-answers.gif)
 
 ## How this has tested
 
@@ -80,13 +53,6 @@ We’ve seen several users miss the banner on first pass - we think this is a ca
 
 In an earlier iteration of this pattern, we tried hiding the checkbox until invalid answers had been fixed:
 
-{{ appFigure({
-  image: {
-    file: "5. hidden-checkbox.png",
-    alt: "A message shown to the user if they have invalid answer"
-  }
-}) }}
+![A message shown to the user if they have invalid answer](5.-hidden-checkbox.png)
 
 This tested really poorly - the participant missed the banner and clicked continue. This returned them to the task list where the section still had the status ‘review’ - but it was not clear what they needed to do next. They opened the section to try to review it, and then clicked continue again. Keeping the checkbox and showing clear validation messaging if users attempted to confirm without reviewing the invalid answers has tested much better.
-
-
