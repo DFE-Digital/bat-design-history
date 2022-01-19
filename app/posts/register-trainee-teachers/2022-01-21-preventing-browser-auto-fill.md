@@ -7,6 +7,7 @@ date: 2022-01-21
 Many users have their browsers set to auto-fill user data - this is often useful as it can save them time. When a user gets to a ‘First name’ field, the browser will offer to auto-fill the user’s name.
 
 ## When auto-fill isn’t suitable
+
 For Register, auto-fill is not relevant and it makes using Register harder. Our users are filling in their trainee’s details, not their own. We do not want the details of _other_ trainees or the Register user showing up when they’re adding a new trainee.
 
 ![A text input with auto-fill overlay](1-text-input-with-auto-fill.png)
@@ -35,6 +36,7 @@ Our current working solution is to randomise the name attribute on page load, an
 We also set the autocomplete attribute to a non-standard value. In testing we found that `off` or any valid value would mean that this solution would not work.
 
 ### How to use
+
 Include this javascript in your page. For each input you do not want auto-filled, add the attribute `data-js-disable-browser-autofill="on"`. You can also add this to the parent `form` to disable auto-fill for all inputs within a form.
 
 We’ve been using this solution for 6 months, with good results. Users have not reported this auto-fill issue again since then - and it’s been more robust than any other solution we’ve found.
@@ -44,6 +46,7 @@ We’ve been using this solution for 6 months, with good results. Users have not
 If you’re using the design system macros, you can add the attribute like this:
 
 {% raw %}
+
 ```jinja2
 {{ govukInput({
   label: {
@@ -58,26 +61,31 @@ If you’re using the design system macros, you can add the attribute like this:
   }
 }) }}
 ```
+
 {% endraw %}
 
 Or in a form like this:
 {% raw %}
+
 ```html
   <form method="POST" data-js-disable-browser-autofill="on">
     {# Your inputs here #}
   </form>
 ```
+
 {% endraw %}
 
 
 ## Potential downsides of our solution
 
 ### Accessibility
+
 The solution relies on the `autocomplete` attribute being set to a non-standard value. This could be said to be a fail of WCAG 1.3.5: Identify Input Purpose. 
 
 Our team has decided that this is an acceptable trade off - that we believe the impact of a non-standard value is minimal and the value of disabling auto-fill much greater. However, we’ve mentioned it in our accessibility statement.
 
 ### Javascript
+
 The solution uses javascript as the simplest way to randomise the `name` - this means that users who do not receive our javascript may still see auto-fill.
 
 If something were to go wrong with the javascript, the impact could be that data would not get successfully submitted to the server. However, the javascript is simple, and we have good monitoring in place to know if this were to happen.
