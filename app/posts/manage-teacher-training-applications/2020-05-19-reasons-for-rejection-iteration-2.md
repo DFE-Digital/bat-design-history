@@ -2,9 +2,23 @@
 title: Reasons for rejection iteration 2
 description: Helping providers give useful feedback to candidates whoâ€™ve been rejected
 date: 2020-05-12
+screenshots:
+  items:
+    - text: Step 1
+      src: respond.png
+    - text: Step 2
+      src: questions-1.png
+    - text: Step 3
+      src: questions-2.png
+    - text: Step 4
+      src: questions-3.png
+    - text: Step 5
+      src: preview.png
+    - text: Step 5 (not interested in future applications)
+      src: preview-not-interested.png
+tags:
+  - AN029
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 ## Hypotheses
 
@@ -60,37 +74,7 @@ The previous iteration used a standard check answers page which meant providerâ€
 If we show providers how their feedback will be shown to candidates
 Then providers will be able to provide feedback in the right format without worrying how it might come across to candidates.
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Step 1",
-    img: {
-      src: "respond.png"
-    }
-  }, {
-    text: "Step 2",
-    img: {
-      src: "questions-1.png"
-    }
-  }, {
-    text: "Step 3",
-    img: {
-      src: "questions-2.png"
-    }
-  }, {
-    text: "Step 4",
-    img: {
-      src: "questions-3.png"
-    }
-  }, {
-    text: "Step 5",
-    img: {
-      src: "preview.png"
-    }
-  }, {
-    text: "Step 5 (not interested in future applications)",
-    img: {
-      src: "preview-not-interested.png"
-    }
-  }]
-}) }}
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}

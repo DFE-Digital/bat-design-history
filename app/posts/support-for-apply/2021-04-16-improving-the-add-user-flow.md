@@ -3,7 +3,6 @@ title: Improving the add user flow
 description: Make it quicker and easier for support users to add provider users to Manage
 date: 2021-04-16
 ---
-{% from "figure/macro.njk" import appFigure with context %}
 
 We’ve been considering improvements to how we invite and set up higher education institutions (HEIs) and their school direct partners (SDs) in Manage.
 
@@ -114,13 +113,7 @@ At the end of the flow, support users can check their answers before saving the 
 
 ## How it works
 
-{{ appFigure({
-  image: {
-    file: "adding-users-01.png",
-    alt: "Provider’s user list page"
-  },
-  caption: "Figure 1: Provider’s user list page"
-}) }}
+![Provider’s user list page](adding-users-01.png "Figure 1: Provider’s user list page")
 
 We introduced the ‘add multiple users’ button as a secondary action alongside the main action of ‘add user’.
 
@@ -130,21 +123,9 @@ Clicking ‘add multiple users’ takes the support user to the add multiple use
 
 ### Adding a single user
 
-{{ appFigure({
-  image: {
-    file: "adding-single-user-flow.png",
-    alt: "Adding a single user to a provider"
-  },
-  caption: "Figure 2: Adding a single user to a provider flow"
-}) }}
+![Adding a single user to a provider](adding-single-user-flow.png "Figure 2: Adding a single user to a provider flow")
 
-{{ appFigure({
-  image: {
-    file: "adding-single-user-01.png",
-    alt: "Add user and set their permissions page"
-  },
-  caption: "Figure 3: Add user and set permissions page"
-}) }}
+![Add user and set their permissions page](adding-single-user-01.png "Figure 3: Add user and set permissions page")
 
 The support user doesn’t need to choose which provider the user belongs to. They reached this page through the 2Schools consortium provider page, so the user will be added to that provider.
 
@@ -154,33 +135,15 @@ Adding permissions is optional. If none are added, the user will only be able to
 
 ### Adding multiple users
 
-{{ appFigure({
-  image: {
-    file: "adding-multiple-users-flow.png",
-    alt: "Adding multiple users to a provider"
-  },
-  caption: "Figure 4: Adding multiple users to a provider flow"
-}) }}
+![Adding multiple users to a provider](adding-multiple-users-flow.png "Figure 4: Adding multiple users to a provider flow")
 
-{{ appFigure({
-  image: {
-    file: "adding-multiple-users-01.png",
-    alt: "Adding multiple users page"
-  },
-  caption: "Figure 5: Adding multiple users page"
-}) }}
+![Adding multiple users page](adding-multiple-users-01.png "Figure 5: Adding multiple users page")
 
 User details can be copy and pasted into this form field from a CSV file or spreadsheet. The form field accepts comma-separated and tab-separated values.
 
 The details of each user must be on a new line.
 
-{{ appFigure({
-  image: {
-    file: "adding-multiple-users-02.png",
-    alt: "Add user details and set their permissions page"
-  },
-  caption: "Figure 6: Add user details and set permissions page"
-}) }}
+![Add user details and set their permissions page](adding-multiple-users-02.png "Figure 6: Add user details and set permissions page")
 
 For each user entered into the ‘add users’ form field, we show the add user page pre-filled with their first name, last name and email address.
 
@@ -188,13 +151,7 @@ If the user’s details are missing or the email address is incorrect, we displa
 
 Adding permissions is optional. If none are added, the user will only be able to view applications.
 
-{{ appFigure({
-  image: {
-    file: "adding-multiple-users-03.png",
-    alt: "Check details and add users page"
-  },
-  caption: "Figure 7: Check details and add users page"
-}) }}
+![Check details and add users page](adding-multiple-users-03.png "Figure 7: Check details and add users page")
 
 ## Future considerations
 

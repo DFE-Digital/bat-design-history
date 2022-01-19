@@ -2,6 +2,13 @@
 title: Copy content from another course (Live)
 description: We changed this feature when we built it.
 date: 2018-09-12
+screenshots:
+  items:
+    - About this course before copying
+    - Copying content on about this course
+    - Copying content on fees and length
+    - Copying content on requirements
+    - Nothing to copy
 ---
 
 When we initially designed and tested the [copy content feature](/publish-teacher-training-courses/copy-content-from-another-course) we expected the backend to be a bottleneck:
@@ -43,23 +50,3 @@ We’ve had support requests asking where the feature is. In research people hav
 * their first course, thinking they copy from it to another
 
 We’ve made some copy changes to better highlight the feature but we need to reassess where this lives. Does a full course copy make sense now? Would that live on the course overview?
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "About this course before copying",
-    img: { src: "about-this-course-before-copying.png" }
-  }, {
-    text: "Copying content on about this course",
-    img: { src: "copying-content-on-about-this-course.png" }
-  }, {
-    text: "Copying content on fees and length",
-    img: { src: "copying-content-on-fees-and-length.png" }
-  }, {
-    text: "Copying content on requirements",
-    img: { src: "copying-content-on-requirements.png" }
-  }, {
-    text: "Nothing to copy",
-    img: { src: "nothing-to-copy.png" }
-  }]
-}) }}

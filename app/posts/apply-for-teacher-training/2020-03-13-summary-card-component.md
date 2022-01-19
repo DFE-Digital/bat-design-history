@@ -4,13 +4,12 @@ description: A design pattern to enable the display of multiple summaries alongs
 date: 2020-03-13
 related:
   items:
-  - text: Summary card
-    description: Discussion about this component on the GOV.UK Design System Community Backlog
-    href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
+    - text: Summary card
+      description: Discussion about this component on the GOV.UK Design System Community Backlog
+      href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}
-{% from "figure/macro.njk" import appFigure with context %}
 
 Throughout the service we ask candidates to enter multiple items of information (eg jobs, work experiences, qualifications, course choices). We then give candidates the opportunity to review their answers, not only after completing each section, but when reviewing their entire application.
 
@@ -40,11 +39,7 @@ We needed a component that would help users clearly identify different summaries
 
 Use the summary card when you need to show multiple summaries – for example, when reviewing an application that includes several repeated types of information (a set of courses or a series of qualifications, say).
 
-{{ appFigure({
-  image: {
-    file: "summary-card-with-title-and-multiple-actions.png"
-  }
-}) }}
+![Summary card with title and multiple actions](summary-card-with-title-and-multiple-actions.png)
 
 ## When to use this component
 
@@ -64,21 +59,13 @@ The summary card component allows you to visually group related pieces of inform
 
 Summary cards should have a title where possible, but can appear without one if they appear alongside other summary cards that do have a title.
 
-{{ appFigure({
-  image: {
-    file: "summary-card.png"
-  }
-}) }}
+![A summary card](summary-card.png)
 
 ### Summary card with a title
 
 If the information in each summary card can have a title, this should be shown in the summary card’s header. A title will typically use a unique name for the information shown – for example, the name of an organisation or title of a qualification.
 
-{{ appFigure({
-  image: {
-    file: "summary-card-with-title.png"
-  }
-}) }}
+![Summary card with title](summary-card-with-title.png)
 
 ### Summary card with a title and actions
 
@@ -88,8 +75,4 @@ For sighted users, the actions get their context from the heading they appear ne
 
 Assistive technology users, like those who use a screen reader, may hear the links out of context and not know what they do. To give more context, add visually hidden text to the links. This means a screen reader user will hear a meaningful action like ‘Delete choice: University of Bristol’ or ‘Withdraw choice: The University of Gloucestershire’.
 
-{{ appFigure({
-  image: {
-    file: "summary-card-with-title-and-multiple-actions.png"
-  }
-}) }}
+![Summary card with title and multiple actions](summary-card-with-title-and-multiple-actions.png)

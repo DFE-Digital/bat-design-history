@@ -2,6 +2,21 @@
 title: UCAS settings and contacts
 description: Problems sharing contact information, and how we get around them.
 date: 2019-03-08
+screenshots:
+  items:
+    - text: UCAS Apply settings
+    - text: UTT Correspondent
+    - text: web-link correspondent
+    - text: Finance contact
+    - text: Fraud contact
+    - text: UCAS administrator
+    - text: Postal address
+    - text: Pick a letter for successful applicants
+    - text: Email alerts for new applications
+    - text: UCAS Apply preferences with contacts section
+      caption: "Old design: UCAS Apply preferences with contacts section"
+    - text: Contacts captured during onboarding
+      caption: "Old design: UCAS Apply preferences with contacts section"
 ---
 
 An [update to the UCAS settings design](/publish-teacher-training-courses/ucas-apply-preferences-2) to include UCAS contacts.
@@ -46,20 +61,3 @@ We wanted to capture UTT Correspondent as UCAS Correspondent for clarity, but UC
 The application alerts contact is captured when users asks to receive alerts.
 
 The GT12 reply to contact is captured when users edit their letter template.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "UCAS Apply settings" },
-    { text: "UTT Correspondent" },
-    { text: "web-link correspondent" },
-    { text: "Finance contact" },
-    { text: "Fraud contact" },
-    { text: "UCAS administrator" },
-    { text: "Postal address" },
-    { text: "Pick a letter for successful applicants" },
-    { text: "Email alerts for new applications" },
-    { text: "UCAS Apply preferences with contacts section", caption: "Old design: UCAS Apply preferences with contacts section" },
-    { text: "Contacts captured during onboarding", caption: "Old design: UCAS Apply preferences with contacts section" }
-  ]
-}) }}

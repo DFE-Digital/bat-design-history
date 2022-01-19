@@ -4,13 +4,11 @@ description: A bunch of changes to improve the application process when applying
 date: 2020-04-20
 related:
   items:
-  - text: Research summary
-    href: /apply-for-teacher-training/apply-again#user-research
-  - text: Research playback
-    href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
+    - text: Research summary
+      href: /apply-for-teacher-training/apply-again#user-research
+    - text: Research playback
+      href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 Changes to [our initial design](/apply-for-teacher-training/apply-again) to improve the application process when applying again, [following research](/apply-for-teacher-training/apply-again#user-research). Some changes are applicable to the initial application too.
 
@@ -24,11 +22,7 @@ If we tell candidates to review all sections
 Then candidates are more likely to improve their application
 We’ll know this works when candidates spot the banner
 
-{{ appFigure({
-  image: {
-    file: "banner.png"
-  }
-}) }}
+![Success banner](banner.png)
 
 We’re not sure this wording had any real impact. Participants spotted the outstanding tasks and scrolled down.
 
@@ -40,11 +34,7 @@ If we show the reasons more prominently on the application page
 Then candidates are more likely to incorporate the feedback
 We’ll know this works when users spot the feedback
 
-{{ appFigure({
-  image: {
-    file: "reasons-for-rejection.png"
-  }
-}) }}
+![Showing reasons for rejection on the application page](reasons-for-rejection.png)
 
 12 out of 13 participants found the reasons immediately and reacted positively to them. Just 1 participant who had lower digital literacy failed to find it immediately. But even then eventually did find it.
 
@@ -57,11 +47,7 @@ When the new application is copied, all sections should be marked as incomplete.
 If all tasks work the same why by asking candidates to mark tasks as complete
 Then making a second application will work intuitively and consistently with apply 1
 
-{{ appFigure({
-  image: {
-    file: "personal-details.png"
-  }
-}) }}
+![Personal details review page](personal-details.png)
 
 13 out of 13 participants found and ticked the checkbox to mark the tasks as complete without any issues. Although having to mark every task is longwinded.
 
@@ -73,11 +59,7 @@ When applying again, a copy of the previous application is created so that candi
 
 If we add ‘not started’ and ‘in progress’ states, then candidates will be able to see a more accurate reflection of their application and be able to differentiate between tasks that are not started and tasks that just need to be marked as complete.
 
-{{ appFigure({
-  image: {
-    file: "status-tags.png"
-  }
-}) }}
+![Different status tags on the application task list](status-tags.png)
 
 12 out of 13 participants understood the difference between these states.
 
@@ -99,10 +81,6 @@ If we turn the final task into a button and keep the heading
 Then candidates will know how to proceed without it being confused for a regular task
 We’ll know this works when users click the button.
 
-{{ appFigure({
-  image: {
-    file: "button.png"
-  }
-}) }}
+![‘Check and submit your application’ button below the application task list](button.png)
 
 5 out of 5 participants found the button and used it without a problem.

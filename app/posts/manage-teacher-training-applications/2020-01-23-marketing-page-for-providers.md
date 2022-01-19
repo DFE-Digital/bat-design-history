@@ -2,6 +2,10 @@
 title: Marketing page for providers
 description: A page selling the benefits of joining the Apply pilot.
 date: 2020-01-23
+screenshots:
+  items:
+    - Marketing page for providers
+    - Sign up Google form
 related:
   items:
     - text: Sketch file
@@ -13,11 +17,3 @@ The page uses deliberately simplified screenshots so that:
 
 * they don’t become outdated
 * they succinctly support the point being made without other UI distraction
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Marketing page for providers" },
-    { text: "Sign up Google form" }
-  ]
-}) }}

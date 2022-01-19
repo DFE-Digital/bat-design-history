@@ -4,22 +4,19 @@ description: Usability testing of a number of new and iterated features within M
 date: 2020-08-26
 related:
   items:
-  - text: Notifications
-    href: /manage-teacher-training-applications/notifications
-  - text: Application list
-    href: /manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed
-  - text: Deferring applications
-    href: /manage-teacher-training-applications/deferring-offers-iteration
-  - text: Reconfirming a deferred application
-    href: /manage-teacher-training-applications/reconfirming-a-deferred-offer-iteration
-  - text: Diversity information
-    href: /manage-teacher-training-applications/diversity-information
-  - text: Exporting applications
-    href: /manage-teacher-training-applications/exporting-application-data
-    
+    - text: Notifications
+      href: /manage-teacher-training-applications/notifications
+    - text: Application list
+      href: /manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed
+    - text: Deferring applications
+      href: /manage-teacher-training-applications/deferring-offers-iteration
+    - text: Reconfirming a deferred application
+      href: /manage-teacher-training-applications/reconfirming-a-deferred-offer-iteration
+    - text: Diversity information
+      href: /manage-teacher-training-applications/diversity-information
+    - text: Exporting applications
+      href: /manage-teacher-training-applications/export
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 ## The context
 

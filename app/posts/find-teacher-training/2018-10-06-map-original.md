@@ -2,22 +2,10 @@
 title: Results on a map – Early design with tweaks
 description: Map based on code written during alpha/private-beta with some recent tweaks.
 date: 2018-10-06
-tags: maps
+screenshots:
+  items:
+    - Results on a map
+    - Result open on a map
+    - Multiple results open on a map
+    - Results on a map mobile
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Results on a map",
-    img: { src: "results-on-a-map.png" }
-  }, {
-    text: "Result open on a map",
-    img: { src: "result-open-on-a-map.png" }
-  }, {
-    text: "Multiple results open on a map",
-    img: { src: "multiple-results-open-on-a-map.png" }
-  }, {
-    text: "Results on a map mobile",
-    img: { src: "results-on-a-map-mobile.png" }
-  }]
-}) }}

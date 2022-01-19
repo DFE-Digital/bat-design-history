@@ -2,6 +2,38 @@
 title: Structured data for pre-degree qualifications
 description: Capturing structured answers for GCSE and other pre-degree qualifications.
 date: 2020-05-29
+screenshots:
+  items:
+  - text: Add maths GCSE grade 4 (C) or above, or equivalent
+    caption: A reminder of the different GCSE standard equivalent options we show candidates (in this case for maths). The label for ‘GCE O level’ is changed to ‘O level’ to avoid confusion with GCSE.
+  - text: What grade is your maths GCSE?
+    caption: This question is unchanged, except that the grade field now uses an autocomplete that gives options from 9 to 1, A\* to G, and U.
+  - text: What English GCSE did you do?
+    caption: For an English GCSE, we ask candidates to enter each of their GCSE qualifications in this subject area. When entering grades, an autocomplete gives a list of options from 9 to 1, A\* to G, and U. For English and English Studies, as both single and double awards are available, these options go from 9-9 to 1-1, A\*A\* to GG, 9 to 1, A to G, and U. If they select ‘Other English subject’, we also ask for the name of the exam.
+  - text: What science GCSEs did you do?
+    caption: For science GCSEs, we ask candidates to tell us how many science GCSEs they did. When entering grades, an autocomplete gives a list of options. For a single award, options go from 9 to 1, A* to G, and U. For a double award, options go from 9-9 to 1-1, A\*A\* to GG, and U. For a triple award, we ask for a grade for each subject – Biology, Chemistry and Physics – and single grade options are given.
+  - text: Reviewing GCSEs
+    caption: Where applicable, we show the exam type alongside each grade.
+  - text: Academic and other relevant qualifications
+    caption: |
+      A reminder of the different qualification options we show candidates. If you select ‘Other UK qualification’ suggestions are given for the following from this list of common Scottish and vocational qualifications:
+
+      * BTEC
+      * GCE O level
+      * NVQ
+      * Scottish National 5
+      * Scottish Higher
+      * Scottish Advanced Higher
+      * SVQ
+      * VRQ
+  - text: Add GCSE qualification
+    caption: Candidates can enter free text for a subject, but GCSE subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (9-9 to 1-1, A\*A\* to GG, 9 to 1, A to G, and U).
+  - text: Add AS level qualification
+    caption: Candidates can enter free text for a subject, but AS level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (AA to DE, A to E, and U).
+  - text: Add A level qualification
+    caption: Candidates can enter free text for a subject, but A level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (A\*A\* to DE, A* to E, and U).
+  - text: Add BTEC, NVQ or VRQ qualification
+    caption: "When entering grades, an autocomplete gives a list of grade options: Distinction, Merit, Pass, Unclassified and Not applicable."
 related:
   items:
     - text: Ofqual’s register of qualifications
@@ -11,9 +43,11 @@ related:
     - text: Structured data for qualifications (Google Sheet)
       href: https://docs.google.com/spreadsheets/d/1F-Rrk3d732ep6ifc5-KdDi9zlgo9lBVk1Z8-sOElgVg
 ---
-<div class="govuk-inset-text">
-  <p>This follows on from the work to <a href="/apply-for-teacher-training/structured-data-for-degrees">allow degree qualifications to use structured data</a>.</p>
-</div>
+
+{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+{{ govukInsetText({
+  html: "This follows on from the work to [allow degree qualifications to use structured data](/apply-for-teacher-training/structured-data-for-degrees)." | markdown
+}) }}
 
 Since the service launched in November, candidates have been able to enter details about their academic and other relevant qualifications using free text answers for most questions.
 
@@ -93,47 +127,3 @@ BTECs can simarly be measured against a number of other certifications:
 * Level 4-5 - Years 1 and 2 of an undergraduate degree
 
 Possible grades are distinction, merit, pass, or unclassified.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Add maths GCSE grade 4 (C) or above, or equivalent",
-    caption: "A reminder of the different GCSE standard equivalent options we show candidates (in this case for maths). The label for ‘GCE O level’ is changed to ‘O level’ to avoid confusion with GCSE."
-  }, {
-    text: "What grade is your maths GCSE?",
-    caption: "This question is unchanged, except that the grade field now uses an autocomplete that gives options from 9 to 1, A\* to G, and U."
-  }, {
-    text: "What English GCSE did you do?",
-    caption: "For an English GCSE, we ask candidates to enter each of their GCSE qualifications in this subject area. When entering grades, an autocomplete gives a list of options from 9 to 1, A\* to G, and U. For English and English Studies, as both single and double awards are available, these options go from 9-9 to 1-1, A\*A\\* to GG, 9 to 1, A to G, and U. If they select ‘Other English subject’, we also ask for the name of the exam."
-  }, {
-    text: "What science GCSEs did you do?",
-    caption: "For science GCSEs, we ask candidates to tell us how many science GCSEs they did. When entering grades, an autocomplete gives a list of options. For a single award, options go from 9 to 1, A* to G, and U. For a double award, options go from 9-9 to 1-1, A\*A\\* to GG, and U. For a triple award, we ask for a grade for each subject – Biology, Chemistry and Physics – and single grade options are given."
-  }, {
-    text: "Reviewing GCSEs",
-    caption: "Where applicable, we show the exam type alongside each grade."
-  }, {
-    text: "Academic and other relevant qualifications",
-    caption: "A reminder of the different qualification options we show candidates. If you select ‘Other UK qualification’ suggestions are given for the following from this list of common Scottish and vocational qualifications:
-
-* BTEC
-* GCE O level
-* NVQ
-* Scottish National 5
-* Scottish Higher
-* Scottish Advanced Higher
-* SVQ
-* VRQ"
-  }, {
-    text: "Add GCSE qualification",
-    caption: "Candidates can enter free text for a subject, but GCSE subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (9-9 to 1-1, A\*A\* to GG, 9 to 1, A to G, and U)."
-  }, {
-    text: "Add AS level qualification",
-    caption: "Candidates can enter free text for a subject, but AS level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (AA to DE, A to E, and U)."
-  }, {
-    text: "Add A level qualification",
-    caption: "Candidates can enter free text for a subject, but A level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (A\*A\\* to DE, A* to E, and U)."
-  }, {
-    text: "Add BTEC, NVQ or VRQ qualification",
-    caption: "When entering grades, an autocomplete gives a list of grade options: Distinction, Merit, Pass, Unclassified and Not applicable."
-  }]
-}) }}

@@ -2,11 +2,37 @@
 title: Closing an application (withdrawal versus rejection)
 description: Exploration to improve the way to close an application at any time
 date: 2021-01-06
+screenshots:
+  items:
+    - text: Application list
+      src: application-list.png
+    - text: Application details (when in ‘Interviewing’ state)
+      src: application-details.png
+    - text: Offer page (when in ‘Offered’ state)
+      src: offer-page.png
+    - text: Make decision page
+      src: make-decision.png
+    - text: Close application step 1 (pre offer)
+      src: close-application-01--pre-offer.png
+    - text: Close application step 1 (post offer)
+      src: close-application-01--post-offer.png
+    - text: Close application step 1 (post accepted)
+      src: close-application-01--post-accepted.png
+    - text: Close application step 2 (pre offer)
+      src: close-application-02--pre-offer.png
+    - text: Close application step 3 (pre offer)
+      src: close-application-03--pre-offer.png
+    - text: Close application step 4 (pre offer)
+      src: close-application-03--pre-offer.png
+    - text: Interstitial page when marking a condition as not met
+      src: interstitial.png
 related:
   items:
-  - text: Reasons for closing an application
-    href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
-    description: Map of what reasons are available at what stage of the application process
+    - text: Reasons for closing an application
+      href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
+      description: Map of what reasons are available at what stage of the application process
+tags:
+  - AN029
 ---
 
 ## Background
@@ -32,6 +58,11 @@ Providers give candidates different types of feedback depending on what they’r
 It’s not always clear to providers what the difference is between rejection and withdrawal.
 
 There are also some situations in which an application cannot be closed. For example, if a candidate stops responding after they accept an offer then the only way to close the application is to mark a condition as not met.
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Why are we doing this?
 
@@ -91,63 +122,3 @@ But that meant an application couldn’t be closed when in the deferred state. S
 - The ‘offered a place elsewhere’ reason could a dedicated flow once UCAS is gone because Manage knows that a place was offered elsewhere. Perhaps it could even be automated.
 - We currently skip the ‘other advice’ question when safeguarding and honesty is given as a reason. Maybe this is wrong?
 - We currently skip the ‘future applications’ question when safeguarding, honesty or other offer are given as a reason. Maybe this is wrong?
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application list",
-    img: {
-      src: "application-list.png"
-    }
-  }, {
-    text: "Application details (when in ‘Interviewing’ state)",
-    img: {
-      src: "application-details.png"
-    }
-  }, {
-    text: "Offer page (when in ‘Offered’ state)",
-    img: {
-      src: "offer-page.png"
-    }
-  }, {
-    text: "Make decision page",
-    img: {
-      src: "make-decision.png"
-    }
-  }, {
-    text: "Close application step 1 (pre offer)",
-    img: {
-      src: "close-application-01--pre-offer.png"
-    }
-  }, {
-    text: "Close application step 1 (post offer)",
-    img: {
-      src: "close-application-01--post-offer.png"
-    }
-  }, {
-    text: "Close application step 1 (post accepted)",
-    img: {
-      src: "close-application-01--post-accepted.png"
-    }
-  }, {
-    text: "Close application step 2 (pre offer)",
-    img: {
-      src: "close-application-02--pre-offer.png"
-    }
-  }, {
-    text: "Close application step 3 (pre offer)",
-    img: {
-      src: "close-application-03--pre-offer.png"
-    }
-  }, {
-    text: "Close application step 4 (pre offer)",
-    img: {
-      src: "close-application-03--pre-offer.png"
-    }
-  }, {
-    text: "Interstitial page when marking a condition as not met",
-    img: {
-      src: "interstitial.png"
-    }
-  }]
-}) }}

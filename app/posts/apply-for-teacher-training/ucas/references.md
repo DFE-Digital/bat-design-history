@@ -1,16 +1,12 @@
 ---
 title: References
 description: Completing a reference for a UCAS applicant.
+screenshots:
+  items:
+    - Referee giving reference
+    - Referee giving their details
+    - Referee viewing applicants details
+    - Referee creating reference
+    - Referee confirming reference
+    - Referee finished
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Referee giving reference" },
-    { text: "Referee giving their details" },
-    { text: "Referee viewing applicants details" },
-    { text: "Referee creating reference" },
-    { text: "Referee confirming reference" },
-    { text: "Referee finished" }
-  ]
-}) }}

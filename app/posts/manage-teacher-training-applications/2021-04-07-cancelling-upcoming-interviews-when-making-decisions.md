@@ -2,6 +2,20 @@
 title: Cancelling upcoming interviews when making decisions
 description: Automatically cancelling any upcoming interviews when making an offer, rejecting an application or withdrawing an application
 date: 2021-04-07
+screenshots:
+  items:
+    - text: Make offer check answers page when there are upcoming interviews
+      src: check-answers--make-offer.png
+    - text: Reject application check answers page when there are upcoming interviews
+      src: check-answers--reject-application.png
+    - text: Withdraw application check answers page when there are upcoming interviews
+      src: check-answers--withdraw-application.png
+    - text: Timeline showing cancelled interview and offer made events
+      src: timeline--offer-made.png
+    - text: Timeline showing cancelled interview and application rejected events
+      src: timeline--application-rejected.png
+    - text: Timeline showing cancelled interview and application withdrawn events
+      src: timeline--application-withdrawn.png
 ---
 
 {% from "email/macro.njk" import appEmail %}
@@ -58,16 +72,14 @@ When an interview is cancelled we’ll generate the cancellation reason based on
 
 - When an offer is made the reason will be ‘We made you an offer.’
 - When an application is rejected the reason will be ‘Your application was unsuccessful.’
-- When an application is withdrawn on behalf of the candidate the reason will be ‘You withdrew your application.’
+- When an application is withdrawn the reason will be ‘You withdrew your application.’
 
 The reason will be included in the interview cancellation email sent to the candidate.
 
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
- subject: "Interview cancelled - Florene Mayert Academy",
- content: "
-
-Dear Pat Thomas
+  subject: "Interview cancelled - Florene Mayert Academy",
+  content: "Dear Pat Thomas
 
 # Interview cancelled
 
@@ -85,9 +97,7 @@ You can chat to a Get Into Teaching adviser online for help and advice:
 
 https://beta-getintoteaching.education.gov.uk/#talk-to-us
 
-You can also call for free on 0800 389 2501, Monday to Friday, 8.30am to 5pm (except public holidays).
-
- "
+You can also call for free on 0800 389 2501, Monday to Friday, 8.30am to 5pm (except public holidays)."
 }) }}
 
 ## Telling the user that upcoming interviews will be cancelled
@@ -110,10 +120,8 @@ As usual, users will be notified about applications that have been withdrawn. We
 
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
- subject: "Interview cancelled - Florene Mayert Academy",
- content: "
-
-Dear Roxane Kihn
+  subject: "Interview cancelled - Florene Mayert Academy",
+  content: "Dear Roxane Kihn
 
 # Application withdrawn
 
@@ -133,46 +141,9 @@ You can also contact us at becomingateacher@digital.education.gov.uk.
 
 You can turn off email notifications if you do not want to be told when application statuses change:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
-
- "
+https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
 }) }}
 
 ## Future considerations
 
 It might be helpful to give users a page to see ‘today’s interviews’ separately from ‘upcoming interviews’.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Make offer check answers page when there are upcoming interviews",
-    img: {
-      src: "check-answers--make-offer.png"
-    }
-  }, {
-    text: "Reject application check answers page when there are upcoming interviews",
-    img: {
-      src: "check-answers--reject-application.png"
-    }
-  }, {
-    text: "Withdraw application check answers page when there are upcoming interviews",
-    img: {
-      src: "check-answers--withdraw-application.png"
-    }
-  }, {
-    text: "Timeline showing cancelled interview and offer made events",
-    img: {
-      src: "timeline--offer-made.png"
-    }
-  }, {
-    text: "Timeline showing cancelled interview and application rejected events",
-    img: {
-      src: "timeline--application-rejected.png"
-    }
-  }, {
-    text: "Timeline showing cancelled interview and application withdrawn events",
-    img: {
-      src: "timeline--application-withdrawn.png"
-    }
-  }]
-}) }}

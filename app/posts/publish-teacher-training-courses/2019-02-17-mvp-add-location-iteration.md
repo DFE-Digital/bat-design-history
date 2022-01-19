@@ -2,6 +2,13 @@
 title: Add a location – 13 February iteration
 description: Clarify the purpose of locations.
 date: 2019-02-17
+screenshots:
+  items:
+    - Organisation
+    - Locations
+    - Add a location
+    - Location added
+    - Location edited
 ---
 
 The term ‘training locations’ is ambiguous.
@@ -18,14 +25,3 @@ This design tries to fix this by:
 * checking the meaning is understood at the point of adding a location (using a checkbox)
 
 Success messages after saving and edited have been added, these reinforce the message and give routes to editing courses.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Organisation" },
-    { text: "Locations" },
-    { text: "Add a location" },
-    { text: "Location added" },
-    { text: "Location edited" }
-  ]
-}) }}

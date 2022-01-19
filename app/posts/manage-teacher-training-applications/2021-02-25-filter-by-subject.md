@@ -2,6 +2,20 @@
 title: Filtering applications by subject
 description: Let users filter the applications list by the course’s subject
 date: 2021-02-25
+screenshots:
+  items:
+    - text: No search or filters
+      caption: The default applications list with no search or filters
+      src: applications-list-no-search-or-filters.png
+    - text: Filtered by subject
+      caption: The applications list showing the list filtered by subject
+      src: applications-list-filter-by-subject.png
+    - text: Filter by subject inline filter
+      caption: The applications list showing the subject filter's inline filter being used to find a subject from the list of subjects
+      src: applications-list-filter-by-subject-filter.png
+    - text: Filter by subject with JavaScript disabled
+      caption: The applications list showing the subject filter with JavaScript disabled. The inline search is not present as this relies on JavaScript
+      src: applications-list-filter-by-subject-no-javascript.png
 ---
 
 Users need to be able to filter their applications by subject.
@@ -55,7 +69,7 @@ If JavaScript is unavailable, the subjects are still contained within the scroll
 
 The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
 
-The scroll area shows 4 and half subjects to help users realise there are are other subjects in the list. This smaller height lets users move to a filter below.
+The scroll area shows 4 and half subjects to help users realise there are other subjects in the list. This smaller height lets users move to a filter below.
 
 If there are 15 subjects or fewer, the subject filter will be displayed as a simple list of checkboxes.
 
@@ -68,32 +82,3 @@ We considered some changes which were not implemented.
 - Reordering the subject list to show all checked subjects in alphabetical order at the top of the list of subjects, followed by an alphabetical list of unchecked subjects. This was not implemented as it is known to increase error rates and misinterpretations.
 - Providing a ‘selected’ count below the filter’s heading similar to that found in the GOV.UK finder frontend component called [option select](https://finder-frontend.herokuapp.com/component-guide/option-select). This was not implemented in this iteration as we could not establish a need for it.
 - Putting each filter section into an expandable region, but hiding the content means the user has to work harder to reveal the content.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "No search or filters",
-    caption: "The default applications list with no search or filters.",
-    img: {
-      src: "applications-list-no-search-or-filters.png"
-    }
-  }, {
-    text: "Filtered by subject",
-    caption: "The applications list showing the list filtered by subject.",
-    img: {
-      src: "applications-list-filter-by-subject.png"
-    }
-  }, {
-    text: "Filter by subject inline filter",
-    caption: "The applications list showing the subject filter's inline filter being used to find a subject from the list of subjects.",
-    img: {
-      src: "applications-list-filter-by-subject-filter.png"
-    }
-  }, {
-    text: "Filter by subject with JavaScript disabled",
-    caption: "The applications list showing the subject filter with JavaScript disabled. The inline search is not present as this relies on JavaScript.",
-    img: {
-      src: "applications-list-filter-by-subject-no-javascript.png"
-    }
-  }]
-}) }}

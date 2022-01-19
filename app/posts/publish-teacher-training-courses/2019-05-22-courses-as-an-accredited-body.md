@@ -2,6 +2,11 @@
 title: Courses as an accredited body
 description: See which courses you’re the accredited body for.
 date: 2019-05-22
+screenshots:
+  items:
+    - Organisation page with new section
+    - Courses as an accredited body
+    - Courses from a training provider
 ---
 
 There is a need for accredited bodies to see the courses they are associated with. UCAS web-link used to give them a read-only view of all courses – running or not, as well as a CSV export of the data.
@@ -50,12 +55,3 @@ Accredited bodies expressed a need to be notified when they are associated with 
 The practice recommended by UCAS of discontinuing a course and creating a new one to fix errors causes problems for accredited bodies – changes to course codes may not be communicated back to them, meaning their internal systems are wrong.
 
 [A discussion about alerts](https://lookback.io/watch/SnRd92det9Eeehb3w?t=14m40s)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Organisation page with new section" },
-    { text: "Courses as an accredited body" },
-    { text: "Courses from a training provider" }
-  ]
-}) }}

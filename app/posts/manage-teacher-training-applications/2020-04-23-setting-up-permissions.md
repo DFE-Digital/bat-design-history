@@ -2,6 +2,25 @@
 title: Setting up permissions
 description: Let providers set up permissions between themselves and their partner organisations
 date: 2020-04-24
+screenshots:
+  items:
+    - text: Onboarding step 1
+      caption: Permissions for courses run and ratified by Titan Partnership Ltd
+      src: step1.png
+    - text: Onboarding step 2
+      caption: Permissions for courses run by Aston Manor Academy and ratified by Titan Partnership Ltd
+      src: step2.png
+    - text: Onboarding step 3 (Check answers)
+      src: step3.png
+    - text: Invite user step 1 (list page)
+      src: users1.png
+    - text: Invite user step 2 (form)
+      caption: Note the label text in brackets to clarify what the permission means based on the permissions between partner organisations.
+      src: users2.png
+    - text: Invite user step 3 (check answers)
+      src: users3.png
+    - text: Invite user step 4 (flash message)
+      src: users4.png
 ---
 
 Training providers can work with multiple accredited bodies who ratify their courses. Some providers also ratify their own courses.
@@ -23,46 +42,3 @@ The journeys include:
 
 * setting up permissions for partner organisations for the first time
 * inviting a new user to their organisation
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Onboarding step 1",
-    caption: "Permissions for courses run and ratified by Titan Partnership Ltd",
-    img: {
-      src: "step1.png"
-    }
-  }, {
-    text: "Onboarding step 2",
-    caption: "Permissions for courses run by Aston Manor Academy and ratified by Titan Partnership Ltd",
-    img: {
-      src: "step2.png"
-    }
-  }, {
-    text: "Onboarding step 3 (Check answers)",
-    img: {
-      src: "step3.png"
-    }
-  }, {
-    text: "Invite user step 1 (list page)",
-    img: {
-      src: "users1.png"
-    }
-  }, {
-    text: "Invite user step 2 (form)",
-    caption: "Note the label text in brackets to clarify what the permission means based on the permissions between partner organisations.",
-    img: {
-      src: "users2.png"
-    }
-  }, {
-    text: "Invite user step 3 (check answers)",
-    img: {
-      src: "users3.png"
-    }
-  }, {
-    text: "Invite user step 4 (flash message)",
-    img: {
-      src: "users4.png"
-    }
-  }]
-}) }}

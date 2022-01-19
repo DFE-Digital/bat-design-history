@@ -27,31 +27,30 @@ We’ve set up actions to happen in a few stages:
 
 We’ve set it up like this so in the future we may be able to build on this feature by starting at stage 3 with an existing list of trainees.
 
-
 {{ appScreenshots({
   title: "Designs",
   items: [{
-      text: "1. Link in header",
-      img: { src: "1. header.png" }
-    }, {
-      text: "2. Select action",
-      img: { src: "2. select action.png" }
-    }, {
-      text: "3. Filter records",
-      img: { src: "3. filter records.png" }
-    }, {
-      text: "4. Select trainees",
-      img: { src: "4. select trainees.png" }
-    }, {
-      text: "5. QTS date",
-      img: { src: "5. qts date.png" }
-    }, {
-      text: "6. Confirm trainees",
-      img: { src: "6. confirm trainees.png" }
-    }, {
-      text: "7. Confirmation",
-      img: { src: "7. confirmation.png" }
-    }]
+    text: "1. Link in header",
+    src: "01-header.png"
+  }, {
+    text: "2. Select action",
+    src: "02-select-action.png"
+  }, {
+    text: "3. Filter records",
+    src: "03-filter-records.png"
+  }, {
+    text: "4. Select trainees",
+    src: "04-select-trainees.png"
+  }, {
+    text: "5. QTS date",
+    src: "05-qts-date.png"
+  }, {
+    text: "6. Confirm trainees",
+    src: "06-confirm-trainees.png"
+  }, {
+    text: "7. Confirmation",
+    src: "07-confirmation.png"
+  }]
 }) }}
 
 ## Further work

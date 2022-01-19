@@ -27,12 +27,7 @@ You can [see the live report in our dashboard](https://datastudio.google.com/rep
 
 ## Service overview
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "service-overview.png"
-  }
-}) }}
+![Screenshot of performance dashbord](service-overview.png)
 
 ### Peformance data on Find
 
@@ -44,11 +39,7 @@ The average user who finds a course page will visit at least 4 pages on the serv
 
 ## Success measures
 
-{{ appFigure({
-  image: {
-    file: "success-measures.png"
-  }
-}) }}
+![Screenshot of performance dashbord](success-measures.png)
 
 ### Successful journeys – building out a benchmark
 

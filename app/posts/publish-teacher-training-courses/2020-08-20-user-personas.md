@@ -4,13 +4,11 @@ description: Viewing Publish from the perspective of our users
 date: 2020-08-20
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 When joining the Find or Publish teams, team members had traditionally been granted administrator access to the QA Publish environment.
 
 Admin permissions include access to:
- 
-* all organisations 
+
+* all organisations
 * admin features
 * new features or sometimes features in development that are hidden behind flags
 
@@ -21,7 +19,7 @@ Viewing Publish exclusively as an administrator made it harder for the team to e
 
 ## Test accounts
 
-We’ve created test accounts based on existing anonymised users for both QA and review apps when testing PRs. The test accounts represent common user personas identified in the service and will help in testing new features and building more empathy with our users. 
+We’ve created test accounts based on existing anonymised users for both QA and review apps when testing PRs. The test accounts represent common user personas identified in the service and will help in testing new features and building more empathy with our users.
 
 ### Anne
 
@@ -48,23 +46,17 @@ For troubleshooting a specific user’s issues, DfE Support are able to login wi
 
 ## There’s something about Mary
 
-The Mary persona represents a specific and potentially problematic scenario in Publish that has [emerged in recent research](/publish-teacher-training-courses/users-with-multiple-organisation-access/#limiting-access-to-some-courses). 
+The Mary persona represents a specific and potentially problematic scenario in Publish that has [emerged in recent research](/publish-teacher-training-courses/users-with-multiple-organisation-access/#limiting-access-to-some-courses).
 
-Mary has access to multiple organisations and is associated with two accredited bodies. 
+Mary has access to multiple organisations and is associated with two accredited bodies.
 
 Mary also has access to Thorpe St Andrew School and Sixth Form with courses accredited by one of the accredited bodies (Suffolk and Norfolk Secondary SCITT) they belong to.
 
 Thorpe St Andrew School and Sixth Form also has courses accredited by a third party, an organisation Mary has no connection to, yet Mary can view and edit these courses.
 
-Initial research suggests users should only be able to see only courses their accredited body is responsible for. This is a business rule that Publish has potentially overlooked. 
+Initial research suggests users should only be able to see only courses their accredited body is responsible for. This is a business rule that Publish has potentially overlooked.
 
-{{ appFigure({
-  image: {
-    file: "courses-screenshot.png",
-    alt: "Screenshot the a courses page showing courses under different organisations."
-  },
-  caption: "Mary is not associated with the University of East Anglia yet can still view and edit the courses they accredit."
-}) }}
+![Screenshot the a courses page showing courses under different organisations.](courses-screenshot.png "Mary is not associated with the University of East Anglia yet can still view and edit the courses they accredit.")
 
 ## Next steps
 

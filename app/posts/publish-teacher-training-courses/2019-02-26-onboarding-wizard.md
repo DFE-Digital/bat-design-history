@@ -2,6 +2,15 @@
 title: Onboarding workflow and wizard
 description: How does the onboarding process look after UCAS transition?
 date: 2019-02-26
+screenshots:
+  items:
+    - Accept terms
+    - Organisation name
+    - Provider code
+    - Ways candidates can contact you
+    - Add your first location
+    - Preferences for UCAS Apply
+    - Request access for people
 ---
 
 ## Current process
@@ -16,7 +25,7 @@ Workflow co-designed with UCAS.
 
 [Prototype](https://publish-courses-prototype.herokuapp.com/onboarding/accept-terms)
 
-[![Onboarding workflow](/images/publish-teacher-training-courses/onboarding-wizard/onboarding-workflow.svg)](https://docs.google.com/drawings/d/12slZCbsAB8m0-T9s_QGmqFZRxhwF1KfkoiN2g4Xk0mY/edit)
+[![Onboarding workflow](/publish-teacher-training-courses/onboarding-wizard/onboarding-workflow.svg)](https://docs.google.com/drawings/d/12slZCbsAB8m0-T9s_QGmqFZRxhwF1KfkoiN2g4Xk0mY/edit)
 
 ### Lead schools
 
@@ -52,16 +61,3 @@ We can use a wizard to confirm a provider’s:
 The following designs are an initial first draft.
 
 It’s not clear whether we will have time to build an onboarding wizard, as MVP it may be appropriate to do much of this through support or support templates.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Accept terms" },
-    { text: "Organisation name" },
-    { text: "Provider code" },
-    { text: "Ways candidates can contact you" },
-    { text: "Add your first location" },
-    { text: "Preferences for UCAS Apply" },
-    { text: "Request access for people" }
-  ]
-}) }}

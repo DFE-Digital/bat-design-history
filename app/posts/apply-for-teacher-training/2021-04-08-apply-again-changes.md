@@ -2,6 +2,14 @@
 title: Apply again changes
 description: Encouraging candidates to apply again, using feedback from previous applications.
 date: 2021-04-08
+screenshots:
+  items:
+    - text: Dashboard after clicking Apply again, showing success banner and sections to review
+      src: apply-again-dashboard.png
+    - text: Personal statement section, showing feedback from previous applications
+      src: personal-statement-feedback.png
+    - text: Email notification received when application is unsuccessful
+      src: email.png
 ---
 If a candidate’s first application does not end with a place on a course, they can apply again.
 
@@ -56,18 +64,3 @@ If a candidate says they have “Reviewed this section” then it is marked as �
 A provider can give feedback on specific sections of an application.
 
 If they have given feedback on the personal statement, we will include this in the ‘Why you want to teach’ and ‘Your suitability to teach a subject or age group’ sections.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "Dashboard after clicking Apply again, showing success banner and sections to review",
-      img: { src: "apply-again-dashboard.png" }
-    }, {
-      text: "Personal statement section, showing feedback from previous applications",
-      img: { src: "personal-statement-feedback.png" }
-    },
-    {
-      text: "Email notification received when application is unsuccessful",
-      img: { src: "email.png" }
-    }]
-}) }}

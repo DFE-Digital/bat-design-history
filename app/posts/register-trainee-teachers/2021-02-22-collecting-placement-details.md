@@ -1,11 +1,8 @@
 ---
 title: Collecting placement details
-description: A first pass at collecting a trainees’ placement details 
+description: A first pass at collecting a trainees’ placement details
 date: 2021-02-22
 ---
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "figure/macro.njk" import appFigure with context %}
 
 Our internal data consumers need us to make inputting training placement details mandatory before recommending trainees for their qualifications. There is a need to ensure there are enough ITT placement opportunities to meet the potential rise in trainee teachers from 2021 onwards yet there is currently a significant knowledge gap in relation to the current placement capacity and behaviour of the ITT market.
 
@@ -13,13 +10,13 @@ DTTP allows users to input placement details, but the fields are optional. As a 
 
 ## Training placement criteria
 
-Experience of teaching in schools is a requirement to receive qualified teacher status. For the vast majority of trainees, this experience is acquired through training placements. 
+Experience of teaching in schools is a requirement to receive qualified teacher status. For the vast majority of trainees, this experience is acquired through training placements.
 
-Due to COVID-19 and the resulting disruption of schools across England, it has not been possible for many trainee teachers to be physically placed in schools. 
+Due to COVID-19 and the resulting disruption of schools across England, it has not been possible for many trainee teachers to be physically placed in schools.
 
 Current guidance in regards to training in schools states:
 
->“..training programmes are designed to provide trainee teachers with sufficient time being trained in schools (see note 5), early years and/or further education settings to enable them to demonstrate that they have met all the standards for QTS. This means they would typically be structured to include at least the following periods of time to be spent in training in schools, early years or further education settings (see note 6):
+>“…training programmes are designed to provide trainee teachers with sufficient time being trained in schools (see note 5), early years and/or further education settings to enable them to demonstrate that they have met all the standards for QTS. This means they would typically be structured to include at least the following periods of time to be spent in training in schools, early years or further education settings (see note 6):
 >
 >* a four-year undergraduate programme - 160 days (32 weeks)
 >* a one, two or three-year undergraduate programme - 120 days (24 weeks)
@@ -39,13 +36,7 @@ We do not know what the guidance will be in the next academic year.
 
 ### When adding a new trainee
 
-{{ appFigure({
-  image: {
-    file: "adding-a-new-trainee.png",
-    alt: "Adding a new trainee"
-  },
-  caption: "‘Placement details’ has been added to the ‘About their Training’ section on the draft overview screen for all routes except assessment only."
-}) }}
+![Adding a new trainee.](adding-a-new-trainee.png "‘Placement details’ has been added to the ‘About their Training’ section on the draft overview screen for all routes except assessment only.")
 
 #### Does the user have placement details yet?
 
@@ -57,16 +48,11 @@ When do users know placement details? It differs. We need to take 3 potential sc
 
 Answering ‘No, I’ll add them later’ marks the section complete, while answering ‘Yes, I can add at least one of them now’ takes the user to the ‘Placement details’ section.
 
-{{ appFigure({
-  image: {
-    file: "does-the-user-have-placement-details-yet.png",
-    alt: "Do you have the trainee’s placement details?"
-  }
-}) }}
+![Do you have the trainee’s placement details?](does-the-user-have-placement-details-yet.png)
 
 #### Adding a placement
 
-We ask for the placement school’s unique reference number (URN) in a plain text field. We assume there are many schools with similar names so we need a unique identifier to tell them apart. 
+We ask for the placement school’s unique reference number (URN) in a plain text field. We assume there are many schools with similar names so we need a unique identifier to tell them apart.
 
 The next iteration on this field will most likely be a search with autocomplete results.
 
@@ -74,85 +60,39 @@ In DTTP, placement duration is recorded in total number of days. We’re assumin
 
 By asking for a start month and duration in weeks, we’re hoping to satisfy the need for placement data whilst not hindering our users’ ability to complete the tasks of creating and managing trainee records in a timely manner.
 
-{{ appFigure({
-  image: {
-    file: "placement-details.png",
-    alt: "Placement detail"
-  },
-  caption: "Users need to confirm they have completed adding all known placement details at the time of editing this draft."
-}) }}
+![Placement detail.](placement-details.png "Users need to confirm they have completed adding all known placement details at the time of editing this draft.")
 
 #### Confirm placement details
 
-{{ appFigure({
-  image: {
-    file: "confirm-placement-details.png",
-    alt: "Confirm placement details"
-  },
-  caption: "Users need to confirm they have completed adding all known placement details at the time of editing this draft."
-}) }}
+![Confirm placement details.](confirm-placement-details.png "Users need to confirm they have completed adding all known placement details at the time of editing this draft.")
 
-{{ appFigure({
-  image: {
-    file: "confirm-placement-details-not-known.png",
-    alt: "Confirm placement details - placements not known"
-  },
-  caption: "An alternative summary card on the ‘Confirm placement details’ page is displayed if the user has answered ‘No, I’ll add them later’."
-}) }}
+![Confirm placement details - placements not known.](confirm-placement-details-not-known.png "An alternative summary card on the ‘Confirm placement details’ page is displayed if the user has answered ‘No, I’ll add them later’.")
 
 ### After the record has been submitted for TRN
 
 We’ve introduced a banner to draw the user’s attention to the fact that further details are required before an outcome can be recorded.
 
+![Trainee record.](trainee-record.png "This record requires additional details before an outcome can be recorded")
 
-{{ appFigure({
-  image: {
-    file: "trainee-record.png",
-    alt: "Trainee record"
-  },
-  caption: "This record requires additional details before an outcome can be recorded"
-}) }}
-
-{{ appFigure({
-  image: {
-    file: "confirm-placements-on-record.png",
-    alt: "Confirm placement details"
-  },
-  caption: "The ‘Confirm placement details’ page when only one placement has been recorded."
-}) }}
+![Confirm placement details.](confirm-placements-on-record.png "The ‘Confirm placement details’ page when only one placement has been recorded.")
 
 #### Confirm placements details are complete
 
 Once a record has had the minimum required number of placements added (currently set to 2), the prompt in the banner changes from ‘Add placement details’ to ‘Confirm training placement details are complete’.
 
-{{ appFigure({
-  image: {
-    file: "confirm-placements-on-record.png",
-    alt: "Trainee record: confirm placements"
-  }
-}) }}
+![Trainee record: confirm placements.](confirm-placements-on-record.png "Trainee record: confirm placements")
 
 #### Have all placements been added?
 
 Once 2 or more placements have been added, the ‘Confirm placement details’ page changes state. The user can now confirm that all placements have been added by checking the ‘Have all placements been added?’ input.
 
-{{ appFigure({
-  image: {
-    file: "confirm-placement-details-minimum-added.png",
-    alt: "Confirm placement details"
-  }
-}) }}
+![Confirm placement details.](confirm-placement-details-minimum-added.png)
 
 #### Ready to recommend for QTS
 
-Once the minimum number of placements has been added and the user has confirmed that all placements have been added the trainee can now be recommended for QTS.   
+Once the minimum number of placements has been added and the user has confirmed that all placements have been added the trainee can now be recommended for QTS.
 
-{{ appFigure({
-  image: {
-    file: "trainee-record-ready-to-recommend.png",
-    alt: "Trainee record: ready to recommend"
-  }
-}) }}
+![Trainee record: ready to recommend.](trainee-record-ready-to-recommend.png)
 
 ## Testing these designs
 

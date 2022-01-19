@@ -2,6 +2,11 @@
 title: Giving details about disability
 description: Training with a disability and reasonable adjustments course choices.
 date: 2019-12-06
+screenshots:
+  items:
+    - Training with a disability
+    - Review when disability given
+    - Review without disability
 ---
 
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
@@ -47,12 +52,3 @@ From a lawyer at EHRC we found out that:
 “Relevant” is subjective, but see [sections 5 and 6 of the The Education (Health Standards) (England) Regulations 2003](http://www.legislation.gov.uk/uksi/2003/3139/regulation/5/made).
 
 Essentially, we can ask questions if it’s regarding an applicant’s ability to do the activities outlined in this legislation.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Training with a disability" },
-    { text: "Review when disability given" },
-    { text: "Review without disability" }
-  ]
-}) }}

@@ -2,6 +2,34 @@
 title: Recording training outcomes
 description: An early attempt at recording training outcomes
 date: 2020-11-20
+screenshots:
+  items:
+    - text: Trainee details
+      src: trainee-details.png
+    - text: Have they met the standards for QTS?
+      src: have-they-met-the-standards-for-qts.png
+    - text: When did they meet the standards?
+      src: when-did-they-meet-the-standards.png
+    - text: Check outcome details - standards met
+      caption: If the user has met the standards.
+      src: standards-met-check-outcome-details.png
+    - text: Trainee recommended for QTS
+      src: trainee-recommended-for-qts.png
+    - text: When should they be recorded as having not met the standards?
+      caption: If the user has not met the standards.
+      src: when-should-they-be-recorded-as-having-not-met-the-standards.png
+    - text: Why are they not being recommended for QTS?
+      src: why-are-they-not-being-recommended-for-qts.png
+    - text: Will the trainee stay on the programme?
+      src: will-the-trainee-stay-on-the-programme.png
+    - text: Check outcome details - standards not met and trainee is staying on the programme
+      src: standards-not-met-check-outcome-details.png
+    - text: Check outcome details - standards not met and trainee withdrawing
+      src: standards-not-met-and-withdrawing-check-outcome-details.png
+    - text: Trainee details - training outcome recorded
+      src: trainee-details-standards-not-met.png
+    - text: Trainee details - training outcome recorded and trainee withdrawn
+      src: trainee-details-withdrawn.png
 ---
 
 When recording a training outcome we need to know if trainees have met the standards to be awarded a qualification. There is also a need to record unsuccessful outcomes.
@@ -24,7 +52,7 @@ As a result we’ve decided to include a more generic button label, 'Record outc
 
 We are trying to understand more around the requirements for recording the reasons why trainees are not being recommended for QTS.
 
-We had initially placed reasons for failure within the withdrawal flow yet we began wondering what would happen to a trainee that failed to meet the standards but did not withdraw from the course. 
+We had initially placed reasons for failure within the withdrawal flow yet we began wondering what would happen to a trainee that failed to meet the standards but did not withdraw from the course.
 
 In this iteration of the prototype we have included the following options:
 
@@ -33,46 +61,3 @@ In this iteration of the prototype we have included the following options:
 * for another reason (free text field)
 
 We anticipate these reasons will change based on insights from future research.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Trainee details",
-    img: { src: "Screenshot_2020-11-30 Leslie Jacobson - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Have they met the standards for QTS?",
-    img: { src: "Screenshot_2020-11-30 Have the met the standards - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "When did they meet the standards?",
-    img: { src: "Screenshot_2020-11-30 When did they meet the standards - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Check outcome details - standards met",
-    caption: "If the user has met the standards.",
-    img: { src: "Screenshot_2020-11-30 Standards met - Check outcome details - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Trainee recommended for QTS",
-    img: { src: "Screenshot_2020-11-30 Trainee recommended for QTS - Register trainee teachers - GOV UK.png" }
-  }, {  
-    text: "When should they be recorded as having not met the standards?",
-    caption: "If the user has not met the standards.",
-    img: { src: "Screenshot_2020-11-30 When should they be recorded as having not met the standards - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Why are they not being recommended for QTS?",
-    img: { src: "Screenshot_2020-11-30 Add a reason for not passing their assessment - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Will the trainee stay on the programme?",
-    img: { src: "Screenshot_2020-11-30 Will the trainee stay on the programme - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Check outcome details - standards not met and trainee is staying on the programme",
-    img: { src: "Screenshot_2020-11-30 Standards not met - Check outcome details - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Check outcome details - standards not met and trainee withdrawing",
-    img: { src: "Screenshot_2020-11-30 Standards not met and withdrawing -  Check outcome details - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Trainee details - training outcome recorded",
-    img: { src: "Screenshot_2020-11-30 Leslie Jacobson - Standards not met - Register trainee teachers - GOV UK.png" }
-  }, {
-    text: "Trainee details - training outcome recorded and trainee withdrawn",
-    img: { src: "Screenshot_2020-11-30 Leslie Jacobson - Withdrawn - Register trainee teachers - GOV UK.png" }
-  }]
-}) }}

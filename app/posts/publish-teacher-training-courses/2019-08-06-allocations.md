@@ -2,6 +2,10 @@
 title: Show allocation policy on a course
 description: Indicate the current policy on course detail pages.
 date: 2019-08-06
+screenshots:
+  items:
+    - Allocations for a course
+    - Allocations for a fee-funded PE course
 ---
 
 {% set html %}
@@ -27,11 +31,3 @@ The link to request allocations will point to a Google form, responses will be s
 The link text, ‘request allocations’ might need to refer to ‘permission to recruit’. We’ve opted for allocations for now because this gives the impression of asking for a number of places, versus permission which is either true or false.
 
 Guidance on GOV.UK: [Requesting initial teacher training places: 2020 to 2021](https://www.gov.uk/government/publications/requesting-initial-teacher-training-places-2020-to-2021)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Allocations for a course" },
-    { text: "Allocations for a fee-funded PE course" }
-  ]
-}) }}

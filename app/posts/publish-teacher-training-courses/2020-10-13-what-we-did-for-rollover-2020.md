@@ -5,10 +5,9 @@ date: 2020-10-13
 ---
 
 {% from "govuk/components/summary-list/macro.njk" import govukSummaryList %}
-{% from "figure/macro.njk" import appFigure with context %}
 {% from "email/macro.njk" import appEmail %}
 
-Rollover is the process of copying courses from the current cycle to the next. This entry documents significant information and dates from the second Publish rollover. 
+Rollover is the process of copying courses from the current cycle to the next. This entry documents significant information and dates from the second Publish rollover.
 
 This is [what we did for the first rollover](/publish-teacher-training-courses/what-we-did-for-rollover/) in 2019.
 
@@ -274,29 +273,17 @@ https://github.com/DFE-Digital/find-teacher-training/pull/458
 
 We made the age range field mandatory for all courses in the next cycle. This data was missing from approximately 14,000 / 15,000 courses. Rollover gave us the opportunity to collect this data.
 
-{{ appFigure({
-  image: {
-    file: "age-range-banner.png",
-    alt: "A banner prompting users to supply an age range."
-  },
-  caption: "A notice summary was displayed on courses that did not specify an age range."
-}) }}
+![A banner prompting users to supply an age range.](age-range-banner.png "A notice summary was displayed on courses that did not specify an age range.")
 
-{{ appFigure({
-  image: {
-    file: "age-range-error.png",
-    alt: "If no age range is provided, an error summary is displayed."
-  },
-  caption: "An error summary is displayed if a user tries to publish a course without providing an age range."
-}) }}
+![If no age range is provided, an error summary is displayed.](age-range-error.png "An error summary is displayed if a user tries to publish a course without providing an age range.")
 
-### Service performance 
+### Service performance
 
 We enabled a rollover tab on the [Publish performance dashboard](https://www.publish-teacher-training-courses.service.gov.uk/performance-dashboard) to track providers progress in rolling over their courses. This cycle we will be able to compare progress between this rollover and the last one.
 
-### Langauge 
+### Langauge
 
-Consistency of language was an issue during rollover. Dates referring to cycle (eg., 2019 to 2020) needed to be updated across the service. While a find and replace in the code base helped, there were several instances where manual updates needed to be made, such as the Google Form to create PE courses.  
+Consistency of language was an issue during rollover. Dates referring to cycle (eg., 2019 to 2020) needed to be updated across the service. While a find and replace in the code base helped, there were several instances where manual updates needed to be made, such as the Google Form to create PE courses.
 
 The default earliest "Applications open date" for courses was set to 8th October, copied over from the previous cycle's start date. Since this date was pushed back for the new cycle, we needed to adjust the default and ensure the example start date for form completion was within the correct range.
 
@@ -327,27 +314,21 @@ The [allocations process](/publish-teacher-training-courses/request-pe-courses/)
   ]
 }) }}
 
-
 ### Design updates
 
 We launched an [interruption screen](https://qa.publish-teacher-training-courses.service.gov.uk/rollover-recruitment) to communicate changes to recruitment policy. Users saw this on their first visit in the new cycle.
 
 https://github.com/DFE-Digital/publish-teacher-training/pull/1376
 
-{{ appFigure({
-  image: {
-    file: "interstitial-screen.png",
-    alt: "A page containing guidence about recruiting for next cycle"
-  }
-}) }}
+![A page containing guidence about recruiting for next cycle.](interstitial-screen.png)
 
 ### Issues
 
 We received support tickets (e.g., [#9466](https://becomingateacher.zendesk.com/agent/tickets/9466)) from providers who couldn’t find their confirmed places. Users were looking in the ‘Next cycle’ section though we had only published them in the ‘Current cycle’ section.
 
-Rollover copies over all courses from the previous cycle. This meant there were fee-funded PE courses automatically created in the new cycle which had not received permission to recruit. We had to contact the providers of these courses and inform them that we would withdraw the courses. 
+Rollover copies over all courses from the previous cycle. This meant there were fee-funded PE courses automatically created in the new cycle which had not received permission to recruit. We had to contact the providers of these courses and inform them that we would withdraw the courses.
 
-This email was sent to providers before the new cycle launched. ([Notify link](https://www.notifications.service.gov.uk/services/022acc23-c40a-4077-bbd6-fc98b2155534/templates/276d444a-f805-48a4-8e6b-aaf0f79febd5)) 
+This email was sent to providers before the new cycle launched. ([Notify link](https://www.notifications.service.gov.uk/services/022acc23-c40a-4077-bbd6-fc98b2155534/templates/276d444a-f805-48a4-8e6b-aaf0f79febd5))
 
 {{ appEmail({
   subject: "Permission to run fee-funded PE",

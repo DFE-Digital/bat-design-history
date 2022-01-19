@@ -26,27 +26,11 @@ This makes the page look less cluttered and makes headings consistent - previous
 
 It also means accessible technology will give users a clearer understanding of what’s changed after they change the filters.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "teacher-training-courses.png"
-  },
-  caption: "Teacher training courses"
-}) }}
+![Screenshot of search results page.](teacher-training-courses.png "Teacher training courses")
 
-{{ appFigure({
-  image: {
-    file: "teacher-training-courses-none.png"
-  },
-  caption: "Teacher training courses - no courses found"
-}) }}
+![Screenshot of search results page with no results.](teacher-training-courses-none.png "Teacher training courses - no courses found")
 
-{{ appFigure({
-  image: {
-    file: "teacher-training-courses-scotland.png"
-  },
-  caption: "Teacher training courses (location lies outside of England)"
-}) }}
+![Screenshot of search results page with no results outside of England.](teacher-training-courses-scotland.png "Teacher training courses (location lies outside of England)")
 
 ## Improved search filters
 
@@ -79,12 +63,7 @@ We’ve changed where the London boroughs show on the search page:
 
 This declutters the page and brings the London search results in line with other location filter options.
 
-{{ appFigure({
-  image: {
-    file: "filters.png"
-  },
-  caption: "Filters before changes (left) and the revised design (right)."
-}) }}
+![Comparision of filters before and after design changes.](filters.png "Filters before changes (left) and the revised design (right).")
 
 ### Changing how search filters look on a mobile device
 
@@ -98,16 +77,10 @@ This makes the design more consistent with Manage and Support.
 {% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   items: [{
-    id: "filters-mobile-closed",
-    img: {
-      alt: "Screenshot of filters hidden on mobile"
-    },
+    text: "Filters hidden on mobile",
     caption: "Filters hidden."
   }, {
-    id: "filters-mobile-open",
-    img: {
-      alt: "Screenshot of filters revealed on mobile"
-    },
+    text: "Filters revealed on mobile",
     caption: "Filters revealed."
   }]
 }) }}
@@ -121,37 +94,17 @@ We’ve changed the search results filters:
 
 This was changed to bring it in line with other values in search result items which are not combined with other values, and should make it easier to compare items.
 
-{{ appFigure({
-  image: {
-    file: "result-item-before.png"
-  },
-  caption: "Previous design for a search result item."
-}) }}
+![Previous design for a search result item.](result-item-before.png "Previous design for a search result item")
 
-{{ appFigure({
-  image: {
-    file: "result-item-after.png"
-  },
-  caption: "Revised design for a search result item."
-}) }}
+![Revised design for a search result item.](result-item-after.png "Revised design for a search result item")
 
 The new design for search result items depends on candidate’s being able to use the new location model to search for courses.
 
 Until we roll that out, we can combine aspects of this new design with elements from the current design, which show the distance to the nearest location we know about:
 
-{{ appFigure({
-  image: {
-    file: "result-item-interim-scitt.png"
-  },
-  caption: "Interim design for a search result item. Alongside the list of travel areas the course offers placements in, we continue to show the distance to the nearest location, but we no longer show the address."
-}) }}
+![Interim design for a search result item.](result-item-interim-scitt.png "Interim design for a search result item. Alongside the list of travel areas the course offers placements in, we continue to show the distance to the nearest location, but we no longer show the address.")
 
-{{ appFigure({
-  image: {
-    file: "result-item-interim-hei.png"
-  },
-  caption: "Interim design for a search result item for a university. Alongside the travel area the university is located within, we continue to show the distance to the main campus and the note that explains that only some time will be spent at that location."
-}) }}
+![Interim design for a search result item for a university.](result-item-interim-hei.png "Interim design for a search result item for a university. Alongside the travel area the university is located within, we continue to show the distance to the main campus and the note that explains that only some time will be spent at that location.")
 
 ### Remove GIT branding from standardised guidance boxouts
 
@@ -164,17 +117,6 @@ We changed this because research suggested candidates didn’t notice who the gu
 
 The boxouts colour bar has changed from GIT green to GOV.UK blue.
 
-{{ appFigure({
-  image: {
-    path: "/images/find-teacher-training/searching-by-location",
-    file: "standardised-guidance-school-placements.png"
-  },
-  caption: "Previous design for standardised guidance."
-}) }}
+![Previous design for standardised guidance.](/find-teacher-training/searching-by-location/standardised-guidance-school-placements.png "Previous design for standardised guidance")
 
-{{ appFigure({
-  image: {
-    file: "standardised-guidance.png"
-  },
-  caption: "Revised design for standardised guidance."
-}) }}
+![Revised design for standardised guidance.](standardised-guidance.png "Revised design for standardised guidance")

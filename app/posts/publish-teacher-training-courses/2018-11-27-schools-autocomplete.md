@@ -2,6 +2,12 @@
 title: Schools autocomplete
 description: An autocomplete for selecting partner schools quickly.
 date: 2018-11-27
+screenshots:
+  items:
+    - text: Schools autocomplete
+      src: 01-partner-schools-autocomplete.png
+    - text: Schools autocomplete (GIF)
+      src: 02-schools-autocomplete.gif
 ---
 
 [Live demo](https://publish-courses-prototype.herokuapp.com/school-autocomplete) and [pull request](https://github.com/DFE-Digital/publish-teacher-training-prototype/pull/18).
@@ -41,14 +47,3 @@ While out of scope for a prototype, the live version of this must be able to han
 
 * starting a search with St Mary’s, then qualifying it with London or the beginning of a postcode (eg BN1), should show all matching schools in London or that area
 * common alternatives must be considered, eg CofE, C of E, CE, Church of England
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Schools autocomplete",
-    img: { src: "01-partner-schools-autocomplete.png" }
-  }, {
-    text: "Schools autocomplete (GIF)",
-    img: { src: "02-schools-autocomplete.gif" }
-  }]
-}) }}

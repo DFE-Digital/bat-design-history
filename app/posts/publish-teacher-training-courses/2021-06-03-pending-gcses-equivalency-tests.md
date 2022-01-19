@@ -4,19 +4,11 @@ description: Asking providers how flexible they are on GCSE entry requirements
 date: 2021-06-03
 ---
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-
 Providers are currently asked to indicate how flexible they are around the GCSE requirement by answering a question for each subject (maths and English, plus science for Primary courses).
 
 UCAS uses this information to block candidates from applying for a course if they do not have the relevant GCSE grades and the course provider has selected the ‘least flexible’ option.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Existing GCSE question",
-    img: { src: "existing-question.png" }
-  }]
-}) }}
+![Screenshot of existing GCSE question.](existing-question.png "Existing GCSE question")
 
 The [original design](/publish-teacher-training-courses/minimum-course-requirements-logic) for this question used two separate questions instead - one on pending GCSEs and one on equivalency tests. However this was implemented differently for compatibility with UCAS.
 
@@ -26,13 +18,7 @@ Candidates will not longer use UCAS for the 2022 to 2023 cycle. This gave us an 
 
 We initially did a very minimal change to the question, removing the UCAS references and changing the guidance to indicate that candidates would be ‘discouraged but not blocked’ from applying if they did not have the relevant GCSE grade.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "First iteration",
-    img: { src: "first-iteration.png" }
-  }]
-}) }}
+![Screenshot of first iteration.](first-iteration.png "First iteration")
 
 Usability research with providers revealed that the phrasing of this question was confusing. Providers did not always understand that the answers were on a scale and that the ‘equivalency test’ option also included those taking the GCSE.
 
@@ -48,10 +34,4 @@ The equivalency test option does vary by GCSE subject though, as some providers 
 
 We also added an optional text field to allow providers to give further details on their equivalency tests, as research indicated that there were some variations around this, and that there may be other information that candidates need to know.
 
-{{ appScreenshots({
-  hideContents: true,
-  items: [{
-    text: "Second iteration",
-    img: { src: "second-iteration.png" }
-  }]
-}) }}
+![Screenshot of second iteration.](second-iteration.png "Second iteration")

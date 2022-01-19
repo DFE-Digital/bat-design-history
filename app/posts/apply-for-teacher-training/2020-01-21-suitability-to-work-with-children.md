@@ -3,29 +3,41 @@ title: Suitability to work with children
 description: Add a section to disclose convictions or anything that could affect suitability to work with children.
 date: 2020-01-21
 tags:
-- MN009
-- AN015
-- AN016
+  - MN010
+  - AN015
+  - AN016
+screenshots:
+  items:
+    - text: Application with suitability section
+      src: 01-application-with-suitability-section.png
+    - text: Your suitability to work with children
+      src: 02-your-suitability-to-work-with-children.png
+    - text: With yes option selected
+      src: 03-with-yes-option-selected.png
+    - text: Review section
+      src: 04-review-section.png
+    - text: How providers see this
+      src: 05-how-providers-see-this.png
 related:
   items:
-  - text: Survey playback
-    href: https://docs.google.com/presentation/d/1sPxwjerXVdunLLzjwSSTOZyT9j9s_xfF_hRf9W412c0/edit#slide=id.p
-  - text: Trello ticket
-    href: https://trello.com/c/hkMU3bDS/744-re-evaluate-designs-for-criminal-conviction-declarations-feedback-from-providers
-  - text: Earlier trello ticket
-    href: https://trello.com/c/InaE3OPE/101-dbs-guidance-and-criminal-records-checks
-  - text: Candidate PR
-    href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/323
-  - text: Provider PR
-    href: https://github.com/DFE-Digital/manage-teacher-training-applications-prototype/pull/28
-  - text: What UCAS do
-    href: /apply-for-teacher-training/ucas/application#criminal-declaration-in-course-choice
-  - text: List of offences that will never be filtered from a DBS certificate
-    href: https://www.gov.uk/government/publications/dbs-list-of-offences-that-will-never-be-filtered-from-a-criminal-record-check
-  - text: What will show up on a DBS check
-    href: https://www.mind.org.uk/information-support/legal-rights/dbs-checks-and-your-mental-health/what-will-show-up-on-a-dbs-check
-  - text: 'Provider research playback'
-    href: https://docs.google.com/presentation/d/1Im8T9MkiuyvPnkHa4tOeZU9M-Sl_E10Zkv2mrn6lEJY/edit#slide=id.p
+    - text: Survey playback
+      href: https://docs.google.com/presentation/d/1sPxwjerXVdunLLzjwSSTOZyT9j9s_xfF_hRf9W412c0/edit#slide=id.p
+    - text: Trello ticket
+      href: https://trello.com/c/hkMU3bDS/744-re-evaluate-designs-for-criminal-conviction-declarations-feedback-from-providers
+    - text: Earlier trello ticket
+      href: https://trello.com/c/InaE3OPE/101-dbs-guidance-and-criminal-records-checks
+    - text: Candidate PR
+      href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/323
+    - text: Provider PR
+      href: https://github.com/DFE-Digital/manage-teacher-training-applications-prototype/pull/28
+    - text: What UCAS do
+      href: /apply-for-teacher-training/ucas/application#criminal-declaration-in-course-choice
+    - text: List of offences that will never be filtered from a DBS certificate
+      href: https://www.gov.uk/government/publications/dbs-list-of-offences-that-will-never-be-filtered-from-a-criminal-record-check
+    - text: What will show up on a DBS check
+      href: https://www.mind.org.uk/information-support/legal-rights/dbs-checks-and-your-mental-health/what-will-show-up-on-a-dbs-check
+    - text: Provider research playback
+      href: https://docs.google.com/presentation/d/1Im8T9MkiuyvPnkHa4tOeZU9M-Sl_E10Zkv2mrn6lEJY/edit#slide=id.p
 ---
 
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
@@ -111,23 +123,3 @@ Most respondents said they had nothing to share, 1 shared a health related issue
 82% of respondents agreed that this question should be asked in the "About you" section.
 
 [Read the full playback](https://docs.google.com/presentation/d/1sPxwjerXVdunLLzjwSSTOZyT9j9s_xfF_hRf9W412c0/edit#slide=id.p)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Application with suitability section",
-    img: { src: "01-application-with-suitability-section.png" }
-  }, {
-    text: "Your suitability to work with children",
-    img: { src: "02-your-suitability-to-work-with-children.png" }
-  }, {
-    text: "With yes option selected",
-    img: { src: "03-with-yes-option-selected.png" }
-  }, {
-    text: "Review section",
-    img: { src: "04-review-section.png" }
-  }, {
-    text: "How providers see this",
-    img: { src: "05-how-providers-see-this.png" }
-  }]
-}) }}

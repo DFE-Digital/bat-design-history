@@ -2,6 +2,20 @@
 title: Minimum course requirements – iterations
 description: A view of how the minimum requirements design has been iterated since December.
 date: 2019-03-24
+screenshots:
+  items:
+    - text: "Question 1: Candidates with pending GCSEs"
+      src: /publish-teacher-training-courses/new-course-wizard-iteration-9-apr/candidates-with-pending-gcses.png
+    - text: "Question 2: Tests for candidates without GCSE requirements"
+      src: /publish-teacher-training-courses/new-course-wizard-iteration-9-apr/tests-for-candidates-without-gcse-requirements.png
+    - text: Two questions
+    - text: Options in a table
+    - text: Explicitly reference UCAS
+    - text: Pick an option, remove subject choice
+    - text: Introduce options
+      src: /publish-teacher-training-courses/new-course-iteration/minimum-gcse-requirements.png
+    - text: Original design
+      src: /publish-teacher-training-courses/minimum-requirements/minimum-course-requirements.png
 ---
 
 Progression of the minimum requirements page design:
@@ -13,41 +27,3 @@ Progression of the minimum requirements page design:
 * Simplify preference choice using a table
 * Remove table and switch to two questions
 * Split questions over two pages
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    {
-      text: "Question 1: Candidates with pending GCSEs",
-      img: {
-        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration-9-apr",
-        src: "candidates-with-pending-gcses.png"
-      }
-    },
-    {
-      text: "Question 2: Tests for candidates without GCSE requirements",
-      img: {
-        path: "/images/publish-teacher-training-courses/new-course-wizard-iteration-9-apr",
-        src: "tests-for-candidates-without-gcse-requirements.png"
-      }
-    },
-    { text: "Two questions" },
-    { text: "Options in a table" },
-    { text: "Explicitly reference UCAS" },
-    { text: "Pick an option, remove subject choice" },
-    {
-      text: "Introduce options",
-      img: {
-        path: "/images/publish-teacher-training-courses/new-course-iteration",
-        src: "minimum-gcse-requirements.png"
-      }
-    },
-    {
-      text: "Original design",
-      img: {
-        path: "/images/publish-teacher-training-courses/minimum-requirements",
-        src: "minimum-course-requirements.png"
-      }
-    }
-  ]
-}) }}

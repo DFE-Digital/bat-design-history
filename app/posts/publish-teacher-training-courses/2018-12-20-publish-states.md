@@ -14,12 +14,7 @@ You could write and publish content for new courses on Publish, they’d be labe
 * [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
 * [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "courses-quiz.png"
-  }
-}) }}
+![Screenshot of courses quiz.](courses-quiz.png)
 
 We tested this courses quiz with users to see if they understood each state given the information provided.
 

@@ -2,6 +2,20 @@
 title: Reasons for rejection iteration 4 (emails)
 description: Various improvements to reasons for rejection and email redesign
 date: 2020-11-27
+screenshots:
+  items:
+    - text: Make decision
+      src: make-decision.png
+    - text: Reasons (1)
+      src: questions-1.png
+    - text: Reasons (2)
+      src: questions-2.png
+    - text: Check answers
+      src: check-answers.png
+    - text: Application details
+      src: application-details.png
+tags:
+  - AN029
 ---
 
 <!-- markdownlint-disable MD001 MD025 -->
@@ -23,6 +37,11 @@ This iteration contains the following improvements:
 - Removed pleasantries like ‘Sorry’ and ‘Please’
 - Removed capitalisation on maths and science
 - Improved general clarity of the questions
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Emails
 
@@ -64,7 +83,7 @@ Your last application has been saved. You can make changes before you submit you
 
 If you need help getting a place on a course, contact Get Into Teaching (8:30am to 5pm Monday to Friday). Call for free on 0800 389 2500 or chat to an adviser online:
 
-https://getintoteaching.education.gov.uk/lp/live-chat
+<https://getintoteaching.education.gov.uk/lp/live-chat>
 
 Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
 {% endset %}
@@ -227,7 +246,7 @@ Sign in to your account to respond:
 
 # Get support
 
-Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+Contact <becomingateacher@digital.education.gov.uk> if you have problems applying online or want to give feedback.
 {% endset %}
 
 {{ appEmail({
@@ -242,33 +261,3 @@ Currently the emails have been designed to work regardless of whether the candid
 We could improve the clarity of some of the emails if we sent bespoke emails for candidates who only applied to one course.
 
 For example, if the candidate applied to one course and was rejected, then the subject could be more specific. Something like ‘Application unsuccessful – you can apply again’.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Make decision",
-    img: {
-      src: "make-decision.png"
-    }
-  }, {
-    text: "Reasons (1)",
-    img: {
-      src: "questions-1.png"
-    }
-  }, {
-    text: "Reasons (2)",
-    img: {
-      src: "questions-2.png"
-    }
-  }, {
-    text: "Check answers",
-    img: {
-      src: "check-answers.png"
-    }
-  }, {
-    text: "Application details",
-    img: {
-      src: "application-details.png"
-    }
-  }]
-}) }}

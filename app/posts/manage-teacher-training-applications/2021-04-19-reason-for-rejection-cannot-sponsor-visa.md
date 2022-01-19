@@ -2,17 +2,29 @@
 title: Adding a ‘cannot sponsor visa’ reason for rejection
 description: Let providers reject an application because they cannot sponsor a candidate’s visa
 date: 2021-04-19
+screenshots:
+  items:
+    - text: Reasons for rejecting the candidate’s application
+      src: reason-for-rejection-cannot-sponsor-visa-01a.png
+    - text: Reasons for rejecting the candidate’s application - cannot sponsor visa
+      src: reason-for-rejection-cannot-sponsor-visa-01b.png
+    - text: Check your feedback and reject the application
+      src: reason-for-rejection-cannot-sponsor-visa-02.png
+    - text: Application feedback
+      src: reason-for-rejection-cannot-sponsor-visa-03.png
+tags:
+  - AN029
 ---
 
-A recent policy change means that [state-funded schools cannot sponsor Student visas](https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers#recruit-by-becoming-a-visa-sponsor).
+We have added ‘cannot sponsor visa’ as a reason for rejection.
 
-This has prompted us to add ‘cannot sponsor visa’ as a reason for rejection. It will make it easier for providers to give the right reason and improve our data about why providers reject applications.
+This will make it easier for providers to give the right reason and improve our data about why providers reject applications.
 
-## Other types of visa available to candidates
+## Types of visa available to candidates
 
-Although this work is in response to the change in rules for Student visas, other types of visas may be available to candidates. 
+Candidates can apply for a Student visa but it cannot be sponsored by a state-funded school.
 
-Depending on their circumstances and the course they’re applying for, candidates may be eligible for:
+Depending on their circumstances and the course they’re applying for, candidates may also be eligible for:
 
 - Skilled Worker visa
 - Youth Mobility Scheme visa
@@ -21,7 +33,7 @@ Depending on their circumstances and the course they’re applying for, candidat
 The Skilled Worker visa:
 
 - is available only for salaried courses (17% of all applications are to salaried courses)
-- can only be sponsored by the school where the candidate would be working
+- can be sponsored by the school where the candidate would be working, or by the local authority or multi-academy trust that the school operates under
 
 The Youth Mobility Scheme visa:
 
@@ -36,7 +48,7 @@ Looking at the candidate data, we can see who is likely to receive the ‘cannot
 
 12% of candidates do not have British or Irish nationality, so they are considered ‘international’.
 
-15% of these international candidates answer ‘not yet, or not sure’ when asked about their right to work or study in the UK. 
+15% of these international candidates answer ‘not yet, or not sure’ when asked about their right to work or study in the UK.
 
 Looking at provider data, we found that less than 1% of application feedback mentions visa as a reason for rejection.
 
@@ -68,27 +80,7 @@ If we find that the feedback has not improved, we will consider changing the des
 - include fixed content in the feedback sent to candidates
 - reduce the range of candidates we show the option to
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Reasons for rejecting the candidate’s application",
-    img: {
-      src: "reason-for-rejection-cannot-sponsor-visa-01a.png"
-    }
-  }, {
-    text: "Reasons for rejecting the candidate’s application - cannot sponsor visa",
-    img: {
-      src: "reason-for-rejection-cannot-sponsor-visa-01b.png"
-    }
-  }, {
-    text: "Check your feedback and reject the application",
-    img: {
-      src: "reason-for-rejection-cannot-sponsor-visa-02.png"
-    }
-  }, {
-    text: "Application feedback",
-    img: {
-      src: "reason-for-rejection-cannot-sponsor-visa-03.png"
-    }
-  }]
-}) }}
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}

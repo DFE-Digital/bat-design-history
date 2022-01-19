@@ -4,11 +4,11 @@ title: Register trainee teachers
 description: A service for collecting and managing trainee teacher registration data
 related:
   items:
-  - text: Prototype
-    description: |
-      Username: `register`
-      Password: `bat`
-    href: https://register-prototype.herokuapp.com/records
+    - text: Prototype
+      description: |
+        Username: `register`
+        Password: `bat`
+      href: https://register-prototype.herokuapp.com/records
 pagination:
   data: collections.register-trainee-teachers
   reverse: true
@@ -21,5 +21,5 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 6
+    order: 5
 ---

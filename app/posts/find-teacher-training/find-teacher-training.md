@@ -4,11 +4,11 @@ title: Find postgraduate teacher training
 description: A service for candidates to find courses by location, provider or subject
 related:
   items:
-  - text: Prototype
-    description: |
-      Username: `find`
-      Password: `bat`
-    href: https://find-prototype.herokuapp.com/
+    - text: Prototype
+      description: |
+        Username: `find`
+        Password: `bat`
+      href: https://find-prototype.herokuapp.com/
 pagination:
   data: collections.find-teacher-training
   reverse: true

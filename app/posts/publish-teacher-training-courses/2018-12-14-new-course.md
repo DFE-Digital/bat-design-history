@@ -2,6 +2,16 @@
 title: New course wizard
 description: Create a new course in Publish rather than UCAS.
 date: 2018-12-14
+screenshots:
+  items:
+    - Type of course
+    - Pick a subject
+    - Pick languages
+    - Pick outcome
+    - Full time or part time
+    - Accredited provider
+    - Confirm
+    - Customise title
 ---
 
 As part of the [UCAS Transition work](https://docs.google.com/document/d/1H8ecdKnrJ2nJbc87Lgx5t-gx2_jnt0NLYLKf1Y_G9zg/edit#) ([Trello story map](https://trello.com/b/O0RjGYkw/ucas-transition-story-map)) we need to bring course creation into Publish. We [looked at this briefly in May](/publish-teacher-training-courses/new-course-wizard) before we knew we’d have UCAS data.
@@ -45,18 +55,4 @@ If the course is marked as a special educational needs one, it’s appended to t
 
 ## New course workflow
 
-![New course workflow](/images/publish-teacher-training-courses/new-course/workflow.png)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Type of course" },
-    { text: "Pick a subject" },
-    { text: "Pick languages" },
-    { text: "Pick outcome" },
-    { text: "Full time or part time" },
-    { text: "Accredited provider" },
-    { text: "Confirm" },
-    { text: "Customise title" }
-  ]
-}) }}
+![New course workflow](/publish-teacher-training-courses/new-course/workflow.png)

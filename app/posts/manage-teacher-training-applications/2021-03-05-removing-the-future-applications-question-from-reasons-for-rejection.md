@@ -2,6 +2,14 @@
 title: Removing the ‘future applications’ question from reasons for rejection
 description: We decided to stop asking users whether or not they want to receive future applications from the candidate
 date: 2021-03-05
+screenshots:
+  items:
+    - text: ‘Other reasons for rejection’ page when a reason has not been selected on the previous page
+      src: other-reasons--01.png
+    - text: ‘Other reasons for rejection’ page when a reason has been selected on the previous page
+      src: other-reasons--02.png
+tags:
+  - AN029
 ---
 
 When a user rejects an application, they have to say whether or not they want to receive future applications from the candidate.
@@ -31,17 +39,7 @@ Removing the question can cause the ‘other advice’ question to appear on its
 - giving feedback after an application is rejected automatically
 - withdrawing an offer
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "‘Other reasons for rejection’ page when a reason has not been selected on the previous page",
-    img: {
-      src: "other-reasons--01.png"
-    }
-  }, {
-    text: "‘Other reasons for rejection’ page when a reason has been selected on the previous page",
-    img: {
-      src: "other-reasons--02.png"
-    }
-  }]
-}) }}
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}

@@ -2,6 +2,11 @@
 title: Giving teacher training providers longer to make decisions on applications because of coronavirus (COVID-19)
 description: Communicating temporary changes to the decline by default and reject by default decision dates.
 date: 2020-03-24
+screenshots:
+  items:
+    - Guidance page
+    - Information banner on signed out landing page
+    - Information banner on ‘Applications’ page
 ---
 
 On 18 March 2020, the government announced that [schools, colleges and early years settings](https://www.gov.uk/government/news/schools-colleges-and-early-years-settings-to-close) would close as part of a broader range of measures to reduce the spread of the coronavirus (COVID-19).
@@ -32,15 +37,4 @@ We communicated this change to providers by:
   We’ll update this guidance if anything changes, and notify you by email.
 
   If you have any questions about this, you can contact us at <becomingateacher@digital.education.gov.uk>"
-}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Guidance page"
-  }, {
-    text: "Information banner on signed out landing page"
-  }, {
-    text: "Information banner on ‘Applications’ page"
-  }]
 }) }}

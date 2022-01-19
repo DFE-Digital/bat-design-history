@@ -4,10 +4,10 @@ description: Identifying user and stakeholder needs and opportunities for course
 date: 2020-06-04
 related:
   items:
-  - text: Workshop agenda and raw group notes
-    href: https://docs.google.com/document/d/1ZjgnXosijDO8EJ8MCoGN-6IaJXNu0_A225oY1QqaCmo/edit?usp=sharing
-  - text: Miro board
-    href: https://miro.com/welcomeonboard/yADFg4XSksX2gQpJCVr1VMl8Q7hYYV0TaDUKObyCYuZp2Mam2b1K65efFUBhEY3b
+    - text: Workshop agenda and raw group notes
+      href: https://docs.google.com/document/d/1ZjgnXosijDO8EJ8MCoGN-6IaJXNu0_A225oY1QqaCmo/edit?usp=sharing
+    - text: Miro board
+      href: https://miro.com/welcomeonboard/yADFg4XSksX2gQpJCVr1VMl8Q7hYYV0TaDUKObyCYuZp2Mam2b1K65efFUBhEY3b
 ---
 
 Members of the Find team participated in a workshop to collect ideas for course page improvements that address the needs of candidates, providers and the DfE.

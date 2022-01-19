@@ -2,9 +2,13 @@
 title: Exporting data iteration 2
 description: Giving users a dedicated way to export HESA and other improvements
 date: 2020-12-08
+screenshots:
+  items:
+    - text: Manual export
+      src: manual-export.png
+    - text: HESA export
+      src: hesa-export--new.png
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 This post documents how we have introduced manual export alongside the existing HESA export.
 
@@ -12,12 +16,7 @@ This post documents how we have introduced manual export alongside the existing 
 
 A HESA export is currently available in production:
 
-{{ appFigure({
-  image: {
-    file: "hesa-export--current.png"
-  },
-  caption: "Export page for HESA data"
-}) }}
+![Screenhost of export page for HESA data.](hesa-export--current.png "Export page for HESA data")
 
 We originally planned to replace the HESA export with a [manual export we designed previously](/manage-teacher-training-applications/export/).
 
@@ -40,18 +39,3 @@ Currently, the HESA export includes data for all years. This means users will ha
 We think it should only include data for the previous year to prevent users from having to remove the data manually.
 
 We’ll look to address this as a separate piece of work.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Manual export",
-    img: {
-      src: "manual-export.png"
-    }
-  }, {
-    text: "HESA export",
-    img: {
-      src: "hesa-export--new.png"
-    }
-  }]
-}) }}

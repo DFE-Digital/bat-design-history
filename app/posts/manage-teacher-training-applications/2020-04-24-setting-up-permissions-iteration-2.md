@@ -2,6 +2,40 @@
 title: Setting up permissions (iteration 2)
 description: Helping users understand what it means to set up organisational permissions and what default access means. Plus a few other improvements.
 date: 2020-04-24
+screenshots:
+  items:
+    - text: Data sharing
+      caption: Added this to make the prototype more realistic
+      src: data-sharing.png
+    - text: Setting up permissions step 1
+      src: permissions1.png
+    - text: Setting up permissions step 2
+      caption: Permissions for courses run by The Millais Alliance and ratified by University of Brighton
+      src: permissions2.png
+    - text: Setting up permissions step 3
+      caption: Permissions for courses run by The Millais Alliance and ratified by University of Sussex
+      src: permissions3.png
+    - text: Setting up permissions step 4
+      caption: Permissions for courses run by The Millais Alliance and ratified by University of Chichester
+      src: permissions4.png
+    - text: Setting up permissions step 4
+      caption: Check answers
+      src: permissions5.png
+    - text: Invite a user step 1
+      caption: User list page
+      src: user-list.png
+    - text: Invite a user step 2
+      caption: Basic details
+      src: new-user1.png
+    - text: Invite a user step 3
+      caption: Permissions
+      src: new-user2.png
+    - text: Invite a user step 4
+      caption: Check answers
+      src: new-user3.png
+    - text: Invite a user step 5
+      caption: Success message
+      src: new-user4.png
 ---
 
 For context you can read about the [first iteration for setting up permissions](/manage-teacher-training-applications/setting-up-permissions).
@@ -63,73 +97,3 @@ This was inconsistent with the way we playback the relationship everywhere else.
 If we put the user’s organisation first
 Then users will find it a little easier to use
 Because it’s consistent
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Data sharing",
-    caption: "Added this to make the prototype more realistic",
-    img: {
-      src: "data-sharing.png"
-    }
-  }, {
-    text: "Setting up permissions step 1",
-    img: {
-      src: "permissions1.png"
-    }
-  }, {
-    text: "Setting up permissions step 2",
-    caption: "Permissions for courses run by The Millais Alliance and ratified by University of Brighton",
-    img: {
-      src: "permissions2.png"
-    }
-  }, {
-    text: "Setting up permissions step 3",
-    caption: "Permissions for courses run by The Millais Alliance and ratified by University of Sussex",
-    img: {
-      src: "permissions3.png"
-    }
-  }, {
-    text: "Setting up permissions step 4",
-    caption: "Permissions for courses run by The Millais Alliance and ratified by University of Chichester",
-    img: {
-      src: "permissions4.png"
-    }
-  }, {
-    text: "Setting up permissions step 4",
-    caption: "Check answers",
-    img: {
-      src: "permissions5.png"
-    }
-  }, {
-    text: "Invite a user step 1",
-    caption: "User list page",
-    img: {
-      src: "user-list.png"
-    }
-  }, {
-    text: "Invite a user step 2",
-    caption: "Basic details",
-    img: {
-      src: "new-user1.png"
-    }
-  }, {
-    text: "Invite a user step 3",
-    caption: "Permissions",
-    img: {
-      src: "new-user2.png"
-    }
-  }, {
-    text: "Invite a user step 4",
-    caption: "Check answers",
-    img: {
-      src: "new-user3.png"
-    }
-  }, {
-    text: "Invite a user step 5",
-    caption: "Success message",
-    img: {
-      src: "new-user4.png"
-    }
-  }]
-}) }}

@@ -2,6 +2,10 @@
 title: Problems with a course
 description: Exploration into highlighting problems with a course before publishing.
 date: 2019-04-14
+screenshots:
+  items:
+    - We’ve found problems with this course
+    - Problems with this course
 ---
 
 Exploration into highlighting problems with a course before publishing.
@@ -19,11 +23,3 @@ Specifically we want to:
 * enter an age range for all their courses
 * remind providers to publish their About your organisation section
 * avoid duplicate About this course sections
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "We’ve found problems with this course" },
-    { text: "Problems with this course" }
-  ]
-}) }}

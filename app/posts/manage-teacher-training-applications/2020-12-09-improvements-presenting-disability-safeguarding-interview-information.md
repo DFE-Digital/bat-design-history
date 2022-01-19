@@ -2,9 +2,13 @@
 title: Improvements for representing disability, safeguarding and interview information
 description: A series of changes to the disability, interview needs and safeguarding sections. Plus removing the candidate guidance blocks.
 date: 2020-12-09
+screenshots:
+  items:
+    - text: Everything provided, user lacks permission to view safeguarding information
+      src: application-list--1.png
+    - text: Some information not provided, user has permission to view safeguarding information
+      src: application-list--1.png
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 The original task was to make it easier to understand whether the candidate had been asked questions relating to disability, safeguarding information and interview needs.
 
@@ -17,8 +21,8 @@ The questions currently in the application service, and their respective respons
 Question to candidate | Answer ‘no’ | Answered ‘yes’ | Was never asked
 ----------------------|-------------|----------------|----------------
 Do you have any interview needs? | No preferences. | [Their answer] | No preferences.
-Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding. <br><br> [Their answer] | Never asked |
-Do you want to ask for help to become a teacher? | No information shared. | [Their answer] |  |
+Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding.<br><br>[Their answer] | Never asked |
+Do you want to ask for help to become a teacher? | No information shared. | [Their answer] | |
 
 ## Improvements summary
 
@@ -31,11 +35,7 @@ We have made the following improvements to the presentation of this information:
 - no longer hide the safeguarding information with the Details component
 - use generic wording for users without permission to view safeguarding information
 
-{{ appFigure({
-  image: {
-    file: "inline.png"
-  }
-}) }}
+![Screenshot of ‘Disability support’, ‘Safeguarding issues’ and ‘Interview needs’ sections of the application page.](inline.png)
 
 ## Putting the content into summary lists (tables)
 
@@ -119,18 +119,3 @@ As we’ve worked on this, we’ve discussed the fact that we’re not storing e
 Since the candidate service is still being iterated, this means that we risk the chance of misrepresenting a candidate’s answers over time. The answer will remain the same, but the question it appears to be answering will change.
 
 This risk also applies to other parts of the application details which are not covered in this piece of work.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Everything provided, user lacks permission to view safeguarding information",
-    img: {
-      src: "application-list--1.png"
-    }
-  }, {
-    text: "Some information not provided, user has permission to view safeguarding information",
-    img: {
-      src: "application-list--1.png"
-    }
-  }]
-}) }}

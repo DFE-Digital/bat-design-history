@@ -3,8 +3,12 @@ title: Working patterns for part time jobs
 description: Adding a place for candidates to describe their working pattern.
 date: 2020-01-20
 tags:
-- MN008
-- AN014
+  - MN007
+  - AN014
+screenshots:
+  items:
+    - Working pattern for a part time job
+    - Work history review page
 ---
 
 We ask candidates to select ‘full time’ or ‘part time’ for their work history entries.
@@ -49,11 +53,3 @@ We've updated the design (refer to screenshots below) to include a field for can
 ## Findings
 
 Candidates are frequently completing this, and typically give hours per week as in the example. They have also used the free text fields to indicate zero hour contract details and similar situations.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "Working pattern for a part time job" },
-    { text: "Work history review page" }
-  ]
-}) }}

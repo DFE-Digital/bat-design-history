@@ -4,6 +4,9 @@ description: Watch our video about the new Publish teacher training courses.
 date: 2019-04-08
 ---
 
+{% from "email/macro.njk" import appEmail %}
+{% from "embed/macro.njk" import appEmbed %}
+
 {% set videoContent %}
 Dear colleague,
 
@@ -25,24 +28,18 @@ Regards,
 Becoming a Teacher team
 {% endset %}
 
-{% from "email/macro.njk" import appEmail %}
 {{ appEmail({
   subject: "Watch our video about the new Publish teacher training courses",
   content: videoContent
 }) }}
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  embed: {
-    youtubeId: "nxmtXGy1cCY",
-    title: "Vacancies editing - Publish teacher training courses"
-  },
-  caption: "Guidance video"
+Guidance video:
+
+{{ appEmbed({
+  youtubeId: "nxmtXGy1cCY",
+  title: "Vacancies editing - Publish teacher training courses"
 }) }}
 
-{{ appFigure({
-  image: {
-    file: "guidance-for-publish-teacher-training-courses.png"
-  },
-  caption: "Guidance page with video"
-}) }}
+Guidance page with video:
+
+![Guidance page with video.](guidance-for-publish-teacher-training-courses.png "")

@@ -2,6 +2,17 @@
 title: Managing multiple organisations
 description: Some users will be responsible for courses from multiple organisations. eg SCITT-schools.
 date: 2018-07-02
+screenshots:
+  items:
+    - text: Organisations
+      caption: |
+        A list of organisations the user can manage. Sometimes these organisations will have very similar names, eg Chepping View Primary Academy and Chepping View Primary Academy SCITT.
+
+        Include course count as an additional differentiator.
+    - text: Courses for an organisation
+      caption: This page is the same as for a single user organisation, with the exception of the breadcrumb.
+    - text: Course
+      caption: See breadcrumb again
 ---
 
 The way DfE models organisations is different to the way they’ve been modelled in UCAS. Some users will have access to multiple UCAS institutions.
@@ -62,22 +73,3 @@ The design worked without any supporting copy. The separation of organisations w
 Original story: [BATSA-401](https://dfedigital.atlassian.net/browse/BATSA-401)
 
 When running the prototype, set \`multi-organisation\` to true in [prototype\_data.json](https://github.com/DFE-Digital/publish-teacher-training-prototype/blob/main/app/data/prototype-data.json#L4)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Organisations",
-    img: { src: "organisations.png" },
-    caption: "A list of organisations the user can manage. Sometimes these organisations will have very similar names, eg Chepping View Primary Academy and Chepping View Primary Academy SCITT.
-
-Include course count as an additional differentiator."
-  }, {
-    text: "Courses for an organisation",
-    img: { src: "courses-for-an-organisation.png" },
-    caption: "This page is the same as for a single user organisation, with the exception of the breadcrumb."
-  }, {
-    text: "Course",
-    img: { src: "course.png" },
-    caption: "See breadcrumb again."
-  }]
-}) }}

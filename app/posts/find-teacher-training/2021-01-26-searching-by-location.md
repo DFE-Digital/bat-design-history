@@ -2,15 +2,45 @@
 title: Searching by location
 description: Considering a different way to model where providers offer school placements.
 date: 2021-01-26
+screenshots:
+  items:
+    - text: Find teacher training courses
+      caption: Shows a list of popular cities/towns to incentivise to searching within broad areas rather than by postcode. The search input below this list allows searching using a place name, postcode, provider name or provider code.
+    - text: Select where you want to train in London
+      caption: If you select ‘London’ or enter a location within the London travel area, you are asked to select the London Boroughs you want to search in. If you enter a postcode, the borough(s) that this postcode lies within is pre-selected.
+    - text: Select the subjects you want to teach
+      caption: Removes guidance about financial support and SKEs (this is now shown in context on course detail pages) and adds guidance about primary course specialisms.
+    - text: Teacher training courses
+      caption: Search filters have been updated so options can now be changed without leaving the page
+    - text: Teacher training courses (in London)
+      caption: If searching within London, the list of boroughs being searched within is shown above the results, alongside a link to change them
+    - text: Teacher training courses (for a provider)"
+    - text: Teacher training courses (across England)"
+    - text: Teacher training courses (no courses found)"
+    - text: Teacher training courses (location lies within Scotland)
+      caption: |
+        As this service only lists training courses in England, we can provide the relevant link to [teachinscotland.scot](https://teachinscotland.scot/)
+    - text: Teacher training courses (location lies within Wales)
+      caption: |
+        As this service only lists training courses in England, we can provide the relevant link to [discoverteaching.wales](https://www.discoverteaching.wales/routes-into-teaching/)
+    - text: Teacher training courses (location lies within Northern Ireland)
+      caption: |
+        As this service only lists training courses in England, we can provide the relevant link to [education-ni.gov.uk](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland)
+    - text: Course details
+      caption: Showing standardised guidance
+    - text: Apply for this course
+      caption: This remains unchanged
+    - text: Apply for this course with UCAS
+      caption: UCAS application route showing course, provider and location codes
 related:
   items:
-  - text: Locations research overview
-    href: https://docs.google.com/presentation/d/1ambjdiFgZ0oSiJd_LVKt6qihaapg-3zEu0l9kVGZgmM/
-    description: Summary of previous research carried out on locations prior to July 2020
-  - text: User research findings (iteration 1)
-    href: https://docs.google.com/presentation/d/10hgv9S6L2mL7hDmI_6DOeD-emgg9DN0Dzxm25bDZwes/
-  - text: User research findings (iteration 2)
-    href: https://docs.google.com/presentation/d/1kNpaTUxkc24-uS0P1-nN5b0R6wu0GWZR07hPr03BARU/
+    - text: Locations research overview
+      href: https://docs.google.com/presentation/d/1ambjdiFgZ0oSiJd_LVKt6qihaapg-3zEu0l9kVGZgmM/
+      description: Summary of previous research carried out on locations prior to July 2020
+    - text: User research findings (iteration 1)
+      href: https://docs.google.com/presentation/d/10hgv9S6L2mL7hDmI_6DOeD-emgg9DN0Dzxm25bDZwes/
+    - text: User research findings (iteration 2)
+      href: https://docs.google.com/presentation/d/1kNpaTUxkc24-uS0P1-nN5b0R6wu0GWZR07hPr03BARU/
 ---
 
 ## The location problem
@@ -59,19 +89,13 @@ Using TTWAs would also make it easier for providers to select which areas can of
 {% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   items: [{
-    id: "location-model-before",
-    img: {
-      alt: "Diagram of current model"
-    },
     text: "Current model",
-    caption: "Search using a postcode. A radius of 50 miles is drawn around the user’s postcode. Providers who happen to have a location listed that lies within that area are returned."
+    caption: "Search using a postcode. A radius of 50 miles is drawn around the user’s postcode. Providers who happen to have a location listed that lies within that area are returned.",
+    alt: "Diagram of current model"
   }, {
-    id: "location-model-after",
-    img: {
-      alt: "Diagram of proposed model"
-    },
     text: "Proposed model",
-    caption: "Search using Travel to Work Areas. A user picks an area (or enters a postcode that is mapped to an area). Providers who offer school placements in that area are returned."
+    caption: "Search using Travel to Work Areas. A user picks an area (or enters a postcode that is mapped to an area). Providers who offer school placements in that area are returned.",
+    alt: "Diagram of proposed model"
   }]
 }) }}
 
@@ -95,27 +119,11 @@ We could include standardised content about how placements work and explain that
 
 To distinguish between provider-generated content and standardised guidance, we can use a box out device and link back to related content on Get Into Teaching. By using Get Into Teaching brand colours, we can give a subtle nod back to that part of the user journey.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "standardised-guidance-school-placements.png"
-  },
-  caption: "An example of standardised guidance about school placements."
-}) }}
+![Standardised guidance boxout.](standardised-guidance-school-placements.png "An example of standardised guidance about school placements.")
 
-{{ appFigure({
-  image: {
-    file: "standardised-guidance-qualifications.png"
-  },
-  caption: "An example of standardised guidance about qualifications."
-}) }}
+![Standardised guidance boxout.](standardised-guidance-qualifications.png "An example of standardised guidance about qualifications.")
 
-{{ appFigure({
-  image: {
-    file: "standardised-guidance-financial-support.png"
-  },
-  caption: "An example of standardised guidance about financial support."
-}) }}
+![Standardised guidance boxout.](standardised-guidance-financial-support.png "An example of standardised guidance about financial support.")
 
 Finally, we currently show a map of the training locations a provider has given, alongside a table which shows a code for each location. This map gives an impression of accuracy and certainty, which doesn’t reflect reality, while the list of location codes is only useful if you decide to apply with UCAS.
 
@@ -128,58 +136,6 @@ We set the right expectations about where they will train.
 
 If we provide standardised guidance on course pages\
 Then we can set the scene about placements, be an authoritative source (and in time providers can avoid providing the same information in different ways)
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Find teacher training courses",
-    caption: "Shows a list of popular cities/towns to incentivise to searching within broad areas rather than by postcode. The search input below this list allows searching using a place name, postcode, provider name or provider code."
-  }, {
-    text: "Select where you want to train in London",
-    caption: "If you select ‘London’ or enter a location within the London travel area, you are asked to select the London Boroughs you want to search in. If you enter a postcode, the borough(s) that this postcode lies within is pre-selected. "
-  }, {
-    text: "Select the subjects you want to teach",
-    caption: "Removes guidance about financial support and SKEs (this is now shown in context on course detail pages) and adds guidance about primary course specialisms."
-  }, {
-    id: "teacher-training-courses",
-    text: "Teacher training courses",
-    caption: "Search filters have been updated so options can now be changed without leaving the page."
-  }, {
-    id: "teacher-training-courses-london",
-    text: "Teacher training courses (in London)",
-    caption: "If searching within London, the list of boroughs being searched within is shown above the results, alongside a link to change them."
-  }, {
-    id: "teacher-training-courses-provider",
-    text: "Teacher training courses (for a provider)"
-  }, {
-    id: "teacher-training-courses-england",
-    text: "Teacher training courses (across England)"
-  }, {
-    id: "teacher-training-courses-none",
-    text: "Teacher training courses (no courses found)"
-  }, {
-    id: "teacher-training-courses-scotland",
-    text: "Teacher training courses (location lies within Scotland)",
-    caption: "As this service only lists training courses in England, we can provide the relevant link to [teachinscotland.scot](https://teachinscotland.scot/)."
-  }, {
-    id: "teacher-training-courses-wales",
-    text: "Teacher training courses (location lies within Wales)",
-    caption: "As this service only lists training courses in England, we can provide the relevant link to [discoverteaching.wales](https://www.discoverteaching.wales/routes-into-teaching/)."
-  }, {
-    id: "teacher-training-courses-northern-ireland",
-    text: "Teacher training courses (location lies within Northern Ireland)",
-    caption: "As this service only lists training courses in England, we can provide the relevant link to [education-ni.gov.uk](https://www.education-ni.gov.uk/articles/initial-teacher-education-courses-northern-ireland)."
-  }, {
-    text: "Course details",
-    caption: "Showing standardised guidance."
-  }, {
-    text: "Apply for this course",
-    caption: "This remains unchanged."
-  }, {
-    text: "Apply for this course with UCAS",
-    caption: "UCAS application route showing course, provider and location codes."
-  }]
-}) }}
 
 *[TTWA]: Travel to Work Area
 *[TTWAs]: Travel to Work Areas

@@ -2,11 +2,29 @@
 title: Dashboard changes
 description: How we changed what candidates see after they have submitted their application
 date: 2021-03-31
+screenshots:
+  items:
+    - text: Initial view, showing confirmation banner
+      src: confirmation-banner.png
+    - text: Having interviews scheduled
+      src: interviews.png
+    - text: Being unsuccessful, and getting feedback from providers
+      src: received-feedback.png
+    - text: Receiving two different offers
+      src: received-two-offers.png
+    - text: Accepting an offer
+      src: offer-accepted.png
+    - text: Deferring an offer
+      src: offer-deferred.png
+    - text: Having a confirmed offer (after conditions met)
+      src: offer-confirmed.png
+    - text: Applying again (showing the status of previous applications)
+      src: applying-again.png
 related:
   items:
-  - text: Application dashboard states
-    href: /apply-for-teacher-training/application-dashboard-states/
-    description: Previous post about dashboard states
+    - text: Application dashboard states
+      href: /apply-for-teacher-training/application-dashboard-states/
+      description: Previous post about dashboard states
 ---
 
 {% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
@@ -33,7 +51,6 @@ We made changes to:
 * The flow for how candidates get to the dashboard after submitting an application
 * The layout of the dashboard
 * The content presented on the dashboard
-
 
 ### Post-submission flow
 
@@ -66,305 +83,162 @@ Part of the dashboard work has been to define the different states an applicatio
 We added each state to the prototype to make it easier to iterate the design and content.
 
 {{ govukTable({
-caption: "Applications to a single course",
-captionClasses: "govuk-table__caption--m",
-firstCellIsHeader: false,
-head: [
-  {
+  caption: "Applications to a single course",
+  captionClasses: "govuk-table__caption--m",
+  firstCellIsHeader: false,
+  head: [{
     text: "Application status"
-  },
-  {
+  }, {
     text: "Candidate next steps"
-  }
-],
-rows: [
-  [
-    {
+  }],
+  rows: [
+    [{
       text: "Awaiting decision from provider"
-    },
-    {
+    }, {
       text: "Wait for a decision"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Interview scheduled in future"
-    },
-    {
+    }, {
       text: "Attend interview / contact teacher training adviser to help prepare."
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "After interview, still awaiting decision"
-    },
-    {
+    }, {
       text: "Wait for decision"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Received an offer with conditions"
-    },
-    {
+    }, {
       text: "Respond to offer"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Received an offer for a different course"
-    },
-    {
+    }, {
       text: "Respond to offer"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Received an offer from a course from a different provider"
-    },
-    {
+    }, {
       text: "Respond to offer"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Unsuccessful - provider has given feedback"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Unsuccessful - course was full"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Unsuccessful - provider did not respond in time"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Candidate withdrew application"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Offer withdrawn by provider"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Accepted (pending conditions)"
-    },
-    {
+    }, {
       text: "Meet conditions"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Declined"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Deferred"
-    },
-    {
+    }, {
       text: "Meet conditions before deferral start date"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Candidate did not respond to offer in time"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Candidate did not meet offer conditions"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Candidate recruited"
-    },
-    {
+    }, {
       text: "No nudges given"
-    }
+    }]
   ]
-]
 }) }}
 
 {{ govukTable({
-caption: "Applications for multiple courses",
-captionClasses: "govuk-table__caption--m",
-firstCellIsHeader: false,
-head: [
-  {
+  caption: "Applications for multiple courses",
+  captionClasses: "govuk-table__caption--m",
+  firstCellIsHeader: false,
+  head: [{
     text: "Application status"
-  },
-  {
+  }, {
     text: "Candidate next steps"
-  }
-],
-rows: [
-  [
-    {
+  }],
+  rows: [
+    [{
       text: "Awaiting decisions from all providers"
-    },
-    {
+    }, {
       text: "Wait for a decision"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Interviewing"
-    },
-    {
+    }, {
       text: "Attend interview / contact teacher training adviser to help prepare."
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "One offer received, still awaiting one more provider decision"
-    },
-    {
+    }, {
       text: "Wait for all decisions to be made"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Two rejections received, still awaiting third provider decision"
-    },
-    {
+    }, {
       text: "Wait for all decisions to be made"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Received one offer"
-    },
-    {
+    }, {
       text: "Respond to offer"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Received two offers"
-    },
-    {
+    }, {
       text: "Respond to offer"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Ended without success"
-    },
-    {
+    }, {
       text: "Apply again"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Accepted offer, pending conditions"
-    },
-    {
+    }, {
       text: "Meet conditions"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Offer deferred"
-    },
-    {
+    }, {
       text: "Meet conditions before deferral start date"
-    }
-  ],
-  [
-    {
+    }],
+    [{
       text: "Recruited"
-    },
-    {
+    }, {
       text: "No nudges given"
-    }
-  ]
-]
-}) }}
-
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-
-{{ appScreenshots({
-  items: [
-    {
-      text: "Initial view, showing confirmation banner",
-      img: {
-        src: "confirmation-banner.png"
-      }
-    },
-    {
-      text: "Having interviews scheduled",
-      img: {
-        src: "interviews.png"
-      }
-    },
-    {
-      text: "Being unsuccessful, and getting feedback from providers",
-      img: {
-        src: "received-feedback.png"
-      }
-    },
-    {
-      text: "Receiving two different offers",
-      img: {
-        src: "received-two-offers.png"
-      }
-    },
-    {
-      text: "Accepting an offer",
-      img: {
-        src: "offer-accepted.png"
-      }
-    },
-    {
-      text: "Deferring an offer",
-      img: {
-        src: "offer-deferred.png"
-      }
-    },
-    {
-      text: "Having a confirmed offer (after conditions met)",
-      img: {
-        src: "offer-confirmed.png"
-      }
-    },
-    {
-      text: "Applying again (showing the status of previous applications)",
-      img: {
-        src: "applying-again.png"
-      }
-    }
+    }]
   ]
 }) }}

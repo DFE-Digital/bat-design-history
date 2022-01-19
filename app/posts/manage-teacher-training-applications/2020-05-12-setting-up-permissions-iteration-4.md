@@ -2,9 +2,41 @@
 title: Setting up permissions (iteration 4)
 description: Showing a confirmation page after agreeing to the data sharing agreement, not asking users to setup permissions when they both run and ratify their courses, explaining the consequences of inviting someone from outside the organisation and various other content improvements.
 date: 2020-05-12
+screenshots:
+  items:
+    - text: Data sharing agreement
+      src: data-sharing.png
+    - text: Data sharing confirmation page
+      src: data-sharing-confirmation-page.png
+    - text: Organisation set up welcome page
+      src: organisation-setup-welcome-page.png
+    - text: Organisation set up information page
+      src: organisation-setup-information-page.png
+    - text: Organisation set up permissions form
+      src: organisation-setup-permissions-form.png
+    - text: Organisation set up check answers page
+      src: organisation-setup-check-answers-page.png
+    - text: Organisation set up confirmation page
+      src: organisation-setup-confirmation-page.png
+    - text: User list page
+      src: user-list-page.png
+    - text: "Invite user: basic details"
+      src: invite-user-basic-details.png
+    - text: "Invite user: organisation page"
+      src: invite-user-organisation-page.png
+    - text: "Invite user: permissions page 1"
+      src: invite-user-permissions-page-1.png
+    - text: "Invite user: permissions page 2"
+      src: invite-user-permissions-page-2.png
+    - text: "Invite user: check answers page"
+      src: invite-user-check-answers-page.png
+    - text: Organisation list page
+      src: organisation-list-page.png
+    - text: Organisation details example 1
+      src: organisation-details-page-1.png
+    - text: Organisation details example 2
+      src: organisation-details-page-2.png
 ---
-
-{% from "figure/macro.njk" import appFigure with context %}
 
 Previous iterations:
 
@@ -23,11 +55,7 @@ But really we need to make it clear that they have successfully agreed to the da
 If we show the user a confirmation page
 Then they'll know what's happened and what they have to do next
 
-{{ appFigure({
-  image: {
-    file: "data-sharing-confirmation-page.png"
-  }
-}) }}
+![Screenshot of confirmation page.](data-sharing-confirmation-page.png)
 
 ### Don’t ask users to set up permissions for courses that they both run and ratify
 
@@ -45,11 +73,7 @@ In the previous iteration we used a standard check answers page. But the key-val
 If we stack the content instead of using the [summary list](https://design-system.service.gov.uk/components/summary-list/) component
 Then the content will be much easier to read
 
-{{ appFigure({
-  image: {
-    file: "organisation-setup-check-answers-page.png"
-  }
-}) }}
+![Screenshot of ‘Check permissions’ page.](organisation-setup-check-answers-page.png)
 
 ### Make sure the heading makes sense when setting up user-level permissions
 
@@ -60,11 +84,7 @@ But that only makes sense for the ‘Make decisions’ and ‘Access safeguardin
 If the title is changed to ‘Select permissions: Ventrus Teaching School Alliance’
 Then it makes sense for all 4 permissions
 
-{{ appFigure({
-  image: {
-    file: "invite-user-permissions-page-2.png"
-  }
-}) }}
+![Screenshot of ‘Select permissions’ page.](invite-user-permissions-page-2.png)
 
 ### Make sure the content makes sense when inviting a user to an accredited body
 
@@ -75,11 +95,7 @@ But this is wrong when the user works for an accredited body. It should read som
 If we change the hint text to work for an accredited body
 Then users won’t be confused by incorrect descriptions
 
-{{ appFigure({
-  image: {
-    file: "invite-user-permissions-page-1.png"
-  }
-}) }}
+![Screenshot of ‘Select permissions’ page.](invite-user-permissions-page-1.png)
 
 ### Warn the user of the consequences of inviting someone from outside of their organisation
 
@@ -90,11 +106,7 @@ This might be fine, but without guidance, the user might accidentally invite som
 If we warn the user of the consequences of inviting someone ot their organisation
 Then it will be far less likely that the they’ll invite someone from outside of their organisation by mistake
 
-{{ appFigure({
-  image: {
-    file: "invite-warning.png"
-  }
-}) }}
+![Screenshot of ‘Basic details’ page.](invite-warning.png)
 
 ### Use tick icons for bullets on organisation details page
 
@@ -103,11 +115,7 @@ In the previous iteration, we used a bulleted list for each permission. But on a
 If we use tick icons for permissions
 Then users will recognise the items as permissions more easily
 
-{{ appFigure({
-  image: {
-    file: "organisation-details-page-2.png"
-  }
-}) }}
+![Screenshot of organisation details page.](organisation-details-page-2.png)
 
 ### Use the blue box to explain how to change permissions as an accredited body
 
@@ -118,11 +126,7 @@ But this got a bit lost amongst the rest of the content and was inconsistent to 
 If we use the blue box for this content
 Then users will find it easier to read
 
-{{ appFigure({
-  image: {
-    file: "organisation-details-page-1.png"
-  }
-}) }}
+![Screenshot of organisation details page showing blue boxes.](organisation-details-page-1.png)
 
 ## Differences when the user belongs to just one organisation
 
@@ -138,88 +142,3 @@ When editing a user:
 
 * remove the ‘Organisations this user has access to...’ line on the details page
 * change the ‘change permissions’ page to read just ‘Change permissions’
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Data sharing agreement",
-    img: {
-      src: "data-sharing.png"
-    }
-  }, {
-    text: "Data sharing confirmation page",
-    img: {
-      src: "data-sharing-confirmation-page.png"
-    }
-  }, {
-    text: "Organisation set up welcome page",
-    img: {
-      src: "organisation-setup-welcome-page.png"
-    }
-  }, {
-    text: "Organisation set up information page",
-    img: {
-      src: "organisation-setup-information-page.png"
-    }
-  }, {
-    text: "Organisation set up permissions form",
-    img: {
-      src: "organisation-setup-permissions-form.png"
-    }
-  }, {
-    text: "Organisation set up check answers page",
-    img: {
-      src: "organisation-setup-check-answers-page.png"
-    }
-  }, {
-    text: "Organisation set up confirmation page",
-    img: {
-      src: "organisation-setup-confirmation-page.png"
-    }
-  }, {
-    text: "User list page",
-    img: {
-      src: "user-list-page.png"
-    }
-  }, {
-    text: "Invite user: basic details",
-    img: {
-      src: "invite-user-basic-details.png"
-    }
-  }, {
-    text: "Invite user: organisation page",
-    img: {
-      src: "invite-user-organisation-page.png"
-    }
-  }, {
-    text: "Invite user: permissions page 1",
-    img: {
-      src: "invite-user-permissions-page-1.png"
-    }
-  }, {
-    text: "Invite user: permissions page 2",
-    img: {
-      src: "invite-user-permissions-page-2.png"
-    }
-  }, {
-    text: "Invite user: check answers page",
-    img: {
-      src: "invite-user-check-answers-page.png"
-    }
-  }, {
-    text: "Organisation list page",
-    img: {
-      src: "organisation-list-page.png"
-    }
-  }, {
-    text: "Organisation details example 1",
-    img: {
-      src: "organisation-details-page-1.png"
-    }
-  }, {
-    text: "Organisation details example 2",
-    img: {
-      src: "organisation-details-page-2.png"
-    }
-  }]
-}) }}

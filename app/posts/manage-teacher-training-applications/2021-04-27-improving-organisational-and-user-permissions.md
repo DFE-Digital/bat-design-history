@@ -4,8 +4,6 @@ description: Changes throughout the set up and manage journeys for organisationa
 date: 2021-04-27
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 We have made several improvements to the design for organisational permissions and user management.
 
 ## Data sharing agreement confirmation page
@@ -16,29 +14,17 @@ If the user can manage organisations and there are organisational permissions to
 
 We removed a sentence saying that “we’ll guide you through” setting up organisational permissions as it isn’t necessary.
 
-{{ appFigure({
-  image: {
-    file: "dsa--set-up-permissions.png"
-  }
-}) }}
+![Screenshot of ‘Data sharing agreement signed’ confirmation page.](dsa--set-up-permissions.png)
 
 If the user cannot manage organisations or there are no organisational permissions to set up, they instead get options for next steps. These are now given in bullet points.
 
 We added a link to manage email notifications, as it’s something which users may want to do next.
 
-{{ appFigure({
-  image: {
-    file: "dsa--invite-users.png"
-  }
-}) }}
+![Screenshot of ‘Data sharing agreement signed’ confirmation page with next step links.](dsa--invite-users.png)
 
 If the user cannot manage users, we only mention viewing applications and managing email notifications.
 
-{{ appFigure({
-  image: {
-    file: "dsa--basic.png"
-  }
-}) }}
+![Screenshot of ‘Data sharing agreement signed’ confirmation page with next step links, but not a link to invite or manage users.](dsa--basic.png)
 
 ## Setting up organisational permissions
 
@@ -52,19 +38,11 @@ It’s important to list the organisations the user belongs to, as well as their
 
 If the user belongs to multiple organisations, we now use subheadings to separate them.
 
-{{ appFigure({
-  image: {
-    file: "setup-org-start-page--multi.png"
-  }
-}) }}
+![Screenshot of ‘Set up organisational permissions’ page.](setup-org-start-page--multi.png)
 
 If the user belongs to only one organisation, we do not need to use the subheadings.
 
-{{ appFigure({
-  image: {
-    file: "setup-org-start-page--single.png"
-  }
-}) }}
+![Screenshot of ‘Set up organisational permissions’ page for a user that belongs to only one organisation.](setup-org-start-page--single.png)
 
 ### Organisational permissions form page
 
@@ -83,11 +61,7 @@ We’ve replaced the tick icons with normal bullet points. This is because:
 - the use of a tick may imply that they can be ‘unticked’ or replaced with crosses - it may not be clear to the user that the items cannot be changed
 - the heading makes it clear that the list is things the user can do, so there’s no need to further emphasise that it’s a list of positives
 
-{{ appFigure({
-  image: {
-    file: "setup-org-relationship.png"
-  }
-}) }}
+![Screenshot of ‘Set up organisational permissions’ form.](setup-org-relationship.png)
 
 ### Check answers page
 
@@ -101,19 +75,11 @@ We’ve changed the label on the button, as we’re distinguishing between organ
 
 If the user belongs to multiple organisations they’ll see a subheading for each organisation they belong to.
 
-{{ appFigure({
-  image: {
-    file: "setup-org-check-answers--multi.png"
-  }
-}) }}
+![Screenshot of ‘Check and save organisational permissions’ page.](setup-org-check-answers--multi.png)
 
 Otherwise, they’ll just see a set of summary cards without the subheadings.
 
-{{ appFigure({
-  image: {
-    file: "setup-org-check-answers--single.png"
-  }
-}) }}
+![Screenshot of ‘Check and save organisational permissions’ page for a user that belongs to only one organisation.](setup-org-check-answers--single.png)
 
 ### Confirmation page
 
@@ -121,11 +87,7 @@ We’re now using bullets, which are easier to scan than a block of text. Only u
 
 We also added an option to manage email notifications. This is a new feature and it’s something which users may want to do next.
 
-{{ appFigure({
-  image: {
-    file: "setup-org-confirmation-page.png"
-  }
-}) }}
+![Screenshot of confirmation page.](setup-org-confirmation-page.png)
 
 ## User management
 
@@ -135,21 +97,13 @@ If a user belongs to multiple organisations, we used to show just the first one 
 
 Now we’re just going to list them all as there’s plenty of space to do so. The full list may be helpful to users.
 
-{{ appFigure({
-  image: {
-    file: "user-list.png"
-  }
-}) }}
+![Screenshot of user list page.](user-list.png)
 
 ### User details
 
 We added subheadings to split up this long page. It makes it easier to see permissions for each organisation you belong to.
 
-{{ appFigure({
-  image: {
-    file: "user-details.png"
-  }
-}) }}
+![Screenshot of user detais page.](user-details.png)
 
 ## Inviting a user
 
@@ -165,21 +119,13 @@ We also removed the warning text which told users that “anyone you invite to y
 
 We did this because we address it better on the ‘user permissions’ page, with a more explicit radio button label. The information is at the point where the user needs to make a decision.
 
-{{ appFigure({
-  image: {
-    file: "invite-user--personal-details.png"
-  }
-}) }}
+![Screenshot of personal details form.](invite-user--personal-details.png)
 
 ### Organisational access
 
 There are no changes to this page, other than the added cancel link.
 
-{{ appFigure({
-  image: {
-    file: "invite-user--access.png"
-  }
-}) }}
+![Screenshot of organisational access form.](invite-user--access.png)
 
 ### User permissions
 
@@ -189,11 +135,7 @@ We are no longer nesting the additional permissions on this page. They’re now 
 
 These changes should make it easier for a user to understand what is being asked and make the right choice.
 
-{{ appFigure({
-  image: {
-    file: "invite-user--permissions.png"
-  }
-}) }}
+![Screenshot of user permissions form.](invite-user--permissions.png)
 
 ### Additional permissions
 
@@ -203,11 +145,7 @@ We removed the icons. The content should be clear enough to work without them, p
 
 We also made the hint text clearer by mentioning organisational permissions.
 
-{{ appFigure({
-  image: {
-    file: "invite-user--additional-permissions.png"
-  }
-}) }}
+![Screenshot of additional permissions form.](invite-user--additional-permissions.png)
 
 ### Check answers
 
@@ -217,21 +155,13 @@ The summary list now has subheadings to make it easier to understand.
 
 We removed the warning text saying that we’ll email the user. This is not necessary since the heading and button make it clear we’re going to invite them.
 
-{{ appFigure({
-  image: {
-    file: "invite-user--check-answers.png"
-  }
-}) }}
+![Screenshot of check answers page.](invite-user--check-answers.png)
 
 ### Confirmation message
 
 We updated the success message content. We no longer say “successfully” in the main text since it’s in the banner header.
 
-{{ appFigure({
-  image: {
-    file: "invite-user--success.png"
-  }
-}) }}
+![Screenshot of users page with success banner.](invite-user--success.png)
 
 ## Managing organisational permissions
 
@@ -247,11 +177,7 @@ We removed the tick icons. Since everything which appears gets a tick, they do n
 
 We are no longer showing ‘view only’ permissions. These apply to all organisation relationships and cannot be changed on this page. We want the user to focus on checking the answers they gave.
 
-{{ appFigure({
-  image: {
-    file: "organisational-permissions.png"
-  }
-}) }}
+![Screenshot of organisational permissions page.](organisational-permissions.png)
 
 If a permission has not been set up yet, the message will be different depending on whether the user belongs to the training provider or accredited body. Only the former can currently change organisational permissions.
 
@@ -260,34 +186,21 @@ The message will be:
 - ‘Neither organisation can do this - you can change permissions to allow it’ - if the user belongs to the training provider
 - ‘Neither organisation can do this - [provider] can change permissions to allow it’ - if the user belongs only to the accredited body
 
-
 The change permissions link will not be shown to a user who belongs only to the accredited body.
 
-{{ appFigure({
-  image: {
-    file: "organisational-permissions--not-set-accredited-body.png"
-  }
-}) }}
+![Screenshot of organisational permissions page.](organisational-permissions--not-set-accredited-body.png)
 
 ### Changing organisational permissions
 
 This has been changed to reflect the changes made to the flow for setting up organisational permissions.
 
-{{ appFigure({
-  image: {
-    file: "change-org-permissions.png"
-  }
-}) }}
+![Screenshot of change organisational permissions form.](change-org-permissions.png)
 
 ### Confirmation message
 
 We’ve updated the content for the success message, calling them “organisational permissions” rather than just “permissions”.
 
-{{ appFigure({
-  image: {
-    file: "change-org-permissions--success.png"
-  }
-}) }}
+![Screenshot of organisational permissions page with success banner.](change-org-permissions--success.png)
 
 ## Related data
 

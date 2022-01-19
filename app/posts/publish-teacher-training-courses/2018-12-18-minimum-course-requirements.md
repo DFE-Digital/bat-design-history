@@ -21,10 +21,4 @@ Things not yet considered in this design:
 
 > Providers should look for further evidence of a breadth of achievement in English where applicants have achieved a GCSE grade 4 or above in English literature only.
 
-{% from "figure/macro.njk" import appFigure with context %}
-{{ appFigure({
-  image: {
-    file: "minimum-course-requirements.png"
-  },
-  caption: "Minimum course requirements"
-}) }}
+![Screenshot of minimum course requirements.](minimum-course-requirements.png "Minimum course requirements")

@@ -35,10 +35,8 @@ module.exports = function (eleventyConfig) {
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('./app/documents')
-  eleventyConfig.addPassthroughCopy('./app/images')
-  eleventyConfig.addPassthroughCopy({
-    'node_modules/govuk-frontend/govuk/assets': 'assets'
-  })
+  eleventyConfig.addPassthroughCopy({ './app/images': '.' })
+  eleventyConfig.addPassthroughCopy({ 'node_modules/govuk-frontend/govuk/assets': 'assets' })
 
   // Enable data deep merge
   eleventyConfig.setDataDeepMerge(true)
@@ -64,6 +62,12 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('register-trainee-teachers', collection => {
     return collection.getFilteredByTag('register-trainee-teachers').filter(item => {
+      return !item.data.tags.includes('user-need')
+    })
+  })
+
+  eleventyConfig.addCollection('support-for-apply', collection => {
+    return collection.getFilteredByTag('support-for-apply').filter(item => {
       return !item.data.tags.includes('user-need')
     })
   })

@@ -2,6 +2,11 @@
 title: Edit a course outcome
 description: Allow providers to choose an outcome, instead of using our inferred one.
 date: 2018-10-18
+screenshots:
+  items:
+    - Course with prefilled outcome
+    - Edit outcome
+    - Edit outcome with more options open
 ---
 
 We currently infer the outcome with a mapping from UCAS data:
@@ -34,17 +39,3 @@ If one of the options in the disclosure is selected then the box should be opene
 ## Further education options
 
 Further education courses don’t come with QTS. We need to add a bit of context to the outcome option here so that providers don’t click ‘PGCE’ or ‘PGDE’ by mistake. In publish courses only we add the further education context to the label and make the lack of QTS explicit.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Course with prefilled outcome",
-    img: { src: "course-with-prefilled-outcome.png" }
-  }, {
-    text: "Edit outcome",
-    img: { src: "edit-outcome.png" }
-  }, {
-    text: "Edit outcome with more options open",
-    img: { src: "edit-outcome-with-more-options-open.png" }
-  }]
-}) }}

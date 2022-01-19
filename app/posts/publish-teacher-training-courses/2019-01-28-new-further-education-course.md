@@ -2,6 +2,15 @@
 title: New course wizard – Further education
 description: Designs for the further education path in the new course wizard.
 date: 2019-01-28
+screenshots:
+  items:
+    - What type of course?
+    - What is the course title?
+    - Pick a course outcome
+    - Full time or part time?
+    - Pick training locations
+    - When does the course start?
+    - Check your answers
 ---
 
 After selecting ‘Further education’ as a course type, the wizard goes down a different path.
@@ -57,16 +66,3 @@ Should FE course be with all the others? “Yes - the application process is the
 How school placements work should be renamed to How placements work for FE courses, placements aren’t in schools.
 
 As courses aren’t tied to allocations, the opening date for applications is arbitrary. “because this course is not subject to allocation restrictions, we know the course is going to run.” ([video](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=15m25.7s))
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-    { text: "What type of course?" },
-    { text: "What is the course title?" },
-    { text: "Pick a course outcome" },
-    { text: "Full time or part time?" },
-    { text: "Pick training locations" },
-    { text: "When does the course start?" },
-    { text: "Check your answers" }
-  ]
-}) }}

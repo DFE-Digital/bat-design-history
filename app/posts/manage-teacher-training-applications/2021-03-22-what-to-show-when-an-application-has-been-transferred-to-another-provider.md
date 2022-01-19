@@ -4,8 +4,8 @@ description: We need to show users the appropriate information when an applicati
 date: 2021-03-22
 related:
   items:
-  - text: Spreadsheet explaining who can see what and why
-    href: https://docs.google.com/spreadsheets/d/1X7WpeElTngGI41eQ8rDselJQVgOB_u8JZmJFo_F0OMU/edit#gid=0
+    - text: Spreadsheet explaining who can see what and why
+      href: https://docs.google.com/spreadsheets/d/1X7WpeElTngGI41eQ8rDselJQVgOB_u8JZmJFo_F0OMU/edit#gid=0
 ---
 
 {% from "email/macro.njk" import appEmail %}
@@ -89,82 +89,23 @@ In future, we’ll research or consider:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  items: [{
-    text: "Application page (transferred)",
-    img: {
-      src: "application-page--transferred.png"
-    }
-  }, {
-    text: "Offer page (transferred)",
-    img: {
-      src: "offer-page--transferred.png"
-    }
-  }, {
-    text: "Interviews page (transferred)",
-    img: {
-      src: "interviews-page--transferred.png"
-    }
-  }, {
-    text: "Notes page (transferred)",
-    img: {
-      src: "notes-page--transferred.png"
-    }
-  }, {
-    text: "Timeline page (transferred)",
-    img: {
-      src: "timeline-page--transferred.png"
-    }
-  }, {
-    text: "Make decision",
-    img: {
-      src: "make-decision.png"
-    }
-  }, {
-    text: "Make offer: conditions",
-    img: {
-      src: "make-offer--conditions.png"
-    }
-  }, {
-    text: "Make offer: check answers",
-    img: {
-      src: "make-offer--check-answers.png"
-    }
-  }, {
-    text: "Make offer: success",
-    img: {
-      src: "make-offer--success.png"
-    }
-  }, {
-    text: "Change offer: training provider",
-    img: {
-      src: "change-offer--provider.png"
-    }
-  }, {
-    text: "Change offer: course",
-    img: {
-      src: "change-offer--course.png"
-    }
-  }, {
-    text: "Change offer: location",
-    img: {
-      src: "change-offer--location.png"
-    }
-  }, {
-    text: "Change offer: check answers",
-    img: {
-      src: "change-offer--check-answers.png"
-    }
-  }, {
-    text: "Change offer: success",
-    img: {
-      src: "change-offer--success.png"
-    }
-  }, {
-    text: "Email notification settings",
-    img: {
-      src: "email-notification-settings.png"
-    }
-  }]
+  items: [
+    "Application page (transferred)",
+    "Offer page (transferred)",
+    "Interviews page (transferred)",
+    "Notes page (transferred)",
+    "Timeline page (transferred)",
+    "Make decision",
+    "Make offer: conditions",
+    "Make offer: check answers",
+    "Make offer: success",
+    "Change offer: training provider",
+    "Change offer: course",
+    "Change offer: location",
+    "Change offer: check answers",
+    "Change offer: success",
+    "Email notification settings"
+  ]
 }) }}
 
 ## Emails
@@ -173,10 +114,8 @@ In future, we’ll research or consider:
 
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
- subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
- content: "
-
-Dear James Bradley
+  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
+  content: "Dear James Bradley
 
 # Application transferred to another organisation
 
@@ -198,19 +137,15 @@ You can also contact us at becomingateacher@digital.education.gov.uk.
 
 You can turn off email notifications if you do not want to be told when applications are transferred to other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
-
- "
+https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
 }) }}
 
 ### Application transferred to another organisation - accredited body version
 
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
- subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
- content: "
-
-Dear Alexa Gibbs
+  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
+  content: "Dear Alexa Gibbs
 
 # Application transferred to another organisation
 
@@ -232,19 +167,15 @@ You can also contact us at becomingateacher@digital.education.gov.uk.
 
 You can turn off email notifications if you do not want to be told when applications are transferred to other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
-
- "
+https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
 }) }}
 
 ### Received from another training provider
 
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
- subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
- content: "
-
-Dear James Bradley
+  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
+  content: "Dear James Bradley
 
 # Application received from another organisation
 
@@ -266,19 +197,15 @@ You can also contact us at becomingateacher@digital.education.gov.uk.
 
 You can turn off email notifications if you do not want to be told when applications are received from other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
-
- "
+https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
 }) }}
 
 ### Received from another accredited body
 
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
- subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
- content: "
-
-Dear Alexa Gibbs
+  subject: "Application transferred to another organisation - Laura Goldman (R5573ZA)",
+  content: "Dear Alexa Gibbs
 
 # Application received from another organisation
 
@@ -300,7 +227,5 @@ You can also contact us at becomingateacher@digital.education.gov.uk.
 
 You can turn off email notifications if you do not want to be told when applications are received from other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
-
- "
+https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
 }) }}

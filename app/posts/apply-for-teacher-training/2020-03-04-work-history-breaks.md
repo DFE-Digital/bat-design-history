@@ -2,6 +2,18 @@
 title: Work history breaks
 description: How we built work history breaks (previously ‘gaps’).
 date: 2020-03-04
+screenshots:
+  items:
+    - text: Work history containing breaks
+      src: 01-work-history-containing-breaks.png
+    - text: Explaining a break
+      src: 02-explaining-a-break.png
+    - text: First break explained
+      src: 03-first-break-explained.png
+    - text: Deleting a break
+      src: 04-deleting-a-break.png
+    - text: Do you want to add another job?
+      src: 05-do-you-want-to-add-another-job.png
 related:
   items:
     - text: Trello
@@ -47,23 +59,3 @@ If the break would pre-fill up until today, then instead of putting today’s da
 We do not validate that all breaks have been explained. We encourage explanations but don’t force them – we don’t want to prevent them submitting an application over this. Providers can choose to discuss or ask about breaks at interview.
 
 We might re-asses this decision when we have evidence for how the feature is being used.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-    text: "Work history containing breaks",
-    img: { src: "01-work-history-containing-breaks.png" }
-  }, {
-    text: "Explaining a break",
-    img: { src: "02-explaining-a-break.png" }
-  }, {
-    text: "First break explained",
-    img: { src: "03-first-break-explained.png" }
-  }, {
-    text: "Deleting a break",
-    img: { src: "04-deleting-a-break.png" }
-  }, {
-    text: "Do you want to add another job?",
-    img: { src: "05-do-you-want-to-add-another-job.png" }
-  }]
-}) }}
