@@ -18,10 +18,7 @@ Our Apply integration launched some months ago, but this looks at the first desi
 
 We can not fully automate registering trainees as the data we get from Apply is not the complete data set Register needs. This is for 2 main reasons:
 
-1. It tells us about the course the trainee applied to, not what they start
-
-We’ve heard that sometimes providers may need to change or update course details.
-
+1. It tells us about the course the trainee applied to, not what they start. We’ve heard that sometimes providers may need to change or update course details.
 2. It’s incomplete — some information needs to come from the provider
 
 In the data from Apply we get details about the course they applied to and, their personal details and education, but only the provider knows:
