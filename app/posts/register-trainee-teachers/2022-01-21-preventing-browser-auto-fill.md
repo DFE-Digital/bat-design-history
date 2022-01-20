@@ -4,9 +4,9 @@ description: Our solution to disabling browser auto-fill
 date: 2022-01-21
 ---
 
-Many users have their browsers set to auto-fill user data - this is often useful as it can save them time. When a user gets to a ‘First name’ field, the browser will offer to auto-fill the user’s name.
+Many users’ browsers default to auto-fillilling user data - this is often useful as it can save them time. When a user gets to a ‘First name’ field, the browser will offer to auto-fill the user’s name.
 
-## When auto-fill isn’t suitable
+## When auto-fill is not suitable
 
 For Register, auto-fill is not relevant and it makes using Register harder. Our users are filling in their trainee’s details, not their own. We do not want the details of _other_ trainees or the Register user showing up when they’re adding a new trainee.
 
@@ -41,9 +41,9 @@ Include this javascript in your page. For each input you do not want auto-filled
 
 We’ve been using this solution for 6 months, with good results. Users have not reported this auto-fill issue again since then - and it’s been more robust than any other solution we’ve found.
 
-### With the design system
+#### With the GOV.UK Design System
 
-If you’re using the design system macros, you can add the attribute like this:
+If you’re using the Design System macros, you can add the attribute like this:
 
 {% raw %}
 
@@ -82,14 +82,14 @@ Or in a form like this:
 
 The solution relies on the `autocomplete` attribute being set to a non-standard value. This could be said to be a fail of WCAG 1.3.5: Identify Input Purpose. 
 
-Our team has decided that this is an acceptable trade off - that we believe the impact of a non-standard value is minimal and the value of disabling auto-fill much greater. However, we’ve mentioned it in our accessibility statement.
+Our team has decided that this is an acceptable trade off — that we believe the impact of a non-standard value is minimal and the value of disabling auto-fill is greater. However, we’ve mentioned it in our accessibility statement.
 
 ### Javascript
 
-The solution uses javascript as the simplest way to randomise the `name` - this means that users who do not receive our javascript may still see auto-fill.
+The solution uses javascript as the simplest way to randomise the `name`, but users who do not receive our javascript may still see auto-fill.
 
 If something were to go wrong with the javascript, the impact could be that data would not get successfully submitted to the server. However, the javascript is simple, and we have good monitoring in place to know if this were to happen.
 
 ## Alternate solutions
 
-Instead of client side javascript, a service could append a random string to the name on the server side when sending the html. This would remove the javascript requirement, but would require more work in matching up the responses as they came in. For our service, we decided that the simpler solution of client side javascript would meet our needs.
+Instead of client-side javascript, a service could append a random string to the name on the server when sending the html. This would remove the javascript requirement, but would require more work in matching up the responses as they came in. For our service, we decided that the simpler solution of client-side javascript would meet our needs.
