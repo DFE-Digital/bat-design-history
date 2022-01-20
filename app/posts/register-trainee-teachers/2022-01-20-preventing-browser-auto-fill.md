@@ -4,7 +4,7 @@ description: Our solution to disabling browser auto-fill
 date: 2022-01-20
 ---
 
-Many users’ browsers default to auto-filling user data - this is often useful as it can save them time. When a user gets to a ‘First name’ field, the browser will offer to auto-fill the user’s name.
+Many users’ browsers default to auto-filling user data — this is often useful as it can save them time. When a user gets to a ‘First name’ field, the browser will offer to auto-fill the user’s name.
 
 ## When auto-fill is not suitable
 
