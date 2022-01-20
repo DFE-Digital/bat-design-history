@@ -4,7 +4,7 @@ description: Our solution to disabling browser auto-fill
 date: 2022-01-20
 ---
 
-Many users’ browsers default to auto-fillilling user data - this is often useful as it can save them time. When a user gets to a ‘First name’ field, the browser will offer to auto-fill the user’s name.
+Many users’ browsers default to auto-filling user data — this is often useful as it can save them time. When a user gets to a ‘First name’ field, the browser will offer to auto-fill the user’s name.
 
 ## When auto-fill is not suitable
 
@@ -18,7 +18,7 @@ Similarly, we use autocompletes to help users pick things like schools. If auto-
 
 ## The official methods for disabling auto-fill do not work
 
-The official way of turning off browser auto-fill is to set `autocomplete=”off”` on the input or the parent `form` element. Unfortunately, this isn’t respected by all browsers. One browser has decided to ignore the website author’s request - despite many examples where their auto-fill breaks services.
+The official way of turning off browser auto-fill is to set `autocomplete=”off”` on the input or the parent `form` element. Unfortunately, this isn’t respected by all browsers. One browser has [decided to ignore the website author’s request](https://bugs.chromium.org/p/chromium/issues/detail?id=914451) - despite many examples where their auto-fill breaks services.
 
 This leaves us, like many other projects, investigating hacks to work around the browsers.
 
