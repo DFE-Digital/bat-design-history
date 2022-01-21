@@ -41,7 +41,7 @@ We also set the autocomplete attribute to a non-standard value. In testing we fo
 
 Include this javascript in your page. For each input you do not want auto-filled, add the attribute `data-js-disable-browser-autofill="on"`. You can also add this to the parent `form` to disable auto-fill for all inputs within a form.
 
-We’ve been using this solution for 6 months, with good results. Users have not reported this auto-fill issue again since then - and it’s been more robust than any other solution we’ve found.
+We’ve been using this solution for 6 months, with good results. Users have not reported this auto-fill issue again since then — and it’s been more robust than any other solution we’ve found.
 
 #### With the GOV.UK Design System
 
