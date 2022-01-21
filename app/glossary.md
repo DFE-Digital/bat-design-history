@@ -145,7 +145,7 @@ The commonly used name of an educational organisation. This may not be the legal
 
 This term is sometimes used to differentiate the teaching of languages in everyday use from ‘ancient languages’ such as Latin and Ancient Greek which are no longer widely spoken. It also typically does not include teaching English. Prefer listing the specific languages where possible.
 
-### Multi-Academy Trust (MAT)
+### Multi-academy trust (MAT)
 
 A single trust responsible for a group of academies. MATs can be providers but cannot be lead schools.
 
@@ -175,18 +175,21 @@ This is a teaching qualification that - when it’s paired with QTS (qualified t
 
 Very similar to the PGCE. Generally includes more credits towards a Master’s degree.
 
-Provider led
-: A course that that is led by an HEI or a SCITT (the opposite of school led/based).
+### Provider led
+
+A course that that is led by an HEI or a SCITT (the opposite of school led/based).
 
 ## Q
 
-Qualified teacher status (QTS)
-: This is the qualification you need to teach in state schools in England. You can’t teach without it.
+### Qualified teacher status (QTS)
+
+This is the qualification you need to teach in state schools in England. You can’t teach without it.
 
 ## R
 
-Rollover
-: This takes place in Publish - it’s the copying over of courses from one recruitment cycle to the next. It starts in mid July and takes about a month in full. All courses are copied over; training providers can then eliminate any courses they don’t want to run, and make any other changes to ensure their course profiles are correct for the upcoming cycle.
+### Rollover
+
+This takes place in Publish - it’s the copying over of courses from one recruitment cycle to the next. It starts in mid July and takes about a month in full. All courses are copied over; training providers can then eliminate any courses they don’t want to run, and make any other changes to ensure their course profiles are correct for the upcoming cycle.
 
 ## S
 
@@ -194,7 +197,7 @@ Rollover
 
 See [Bursaries](#bursaries-and-scholarships).
 
-### School Centred Initial Teacher Training (SCITT)
+### School centred initial teacher training (SCITT)
 
 School-centred initial teacher training provider. A SCITT is most commonly a school who have incorporated a separate legal entity (company) dedicated to delivering teacher training. SCITTs are accredited bodies.
 
