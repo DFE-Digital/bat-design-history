@@ -1,18 +1,26 @@
 ---
-title: Making titles consistent and more useful
-description: We changed all of the page titles we use across the service to use the same format.
+title: Making page titles consistent and more meaningful
+description: We changed the page titles to be consistent and include information from the captions.
 date: 2022-01-20
 ---
 
-We recently made changes to the headings we use in the service. At the same time we reviewed and made changes to the titles.
+We reviewed the page titles we use in the service. This was part of an audit which also included:
 
-The title appears in the browser tab. It’s the first thing to be read out in screen readers so it’s important that they’re useful and consistent.
+- captions and h1 headings
+- button labels and warning text
+- the use of red buttons
+- the appearance and use of boxes
 
-We have designed the title to be made up of the following bits of content separated by dashes:
+The page title appears in the browser tab. It’s the first thing to be read out by screen readers so it’s important that page titles are meaningful and consistent.
+
+At the moment, the page title does not include information from the caption. For example, it does not include the action being taken or the name of the candidate.
+
+The title will now be made up of the following parts separated by hyphens:
 
 - heading
 - caption
-- name of the service
+- Manage teacher training applications
+- GOV.UK
 
 ## Examples
 
