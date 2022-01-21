@@ -18,7 +18,7 @@ Similarly, we use autocompletes to help users pick things like schools. If auto-
 
 ## The official methods for disabling auto-fill do not work
 
-The official way of turning off browser auto-fill is to set `autocomplete=”off”` on the input or the parent `form` element. Unfortunately, this isn’t respected by all browsers. One browser has [decided to ignore the website author’s request](https://bugs.chromium.org/p/chromium/issues/detail?id=914451) - despite many examples where their auto-fill breaks services.
+The official way of turning off browser auto-fill is to set `autocomplete=”off”` on the input or the parent `form` element. Unfortunately, this isn’t respected by all browsers. One browser has [decided to ignore the website author’s request](https://bugs.chromium.org/p/chromium/issues/detail?id=914451) — despite many examples where their auto-fill breaks services.
 
 This leaves us, like many other projects, investigating hacks to work around the browsers.
 
