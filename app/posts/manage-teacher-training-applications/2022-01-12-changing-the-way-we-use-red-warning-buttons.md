@@ -12,12 +12,12 @@ screenshots:
 
 We looked at the way we use red warning buttons. This was part of an audit which also included:
 
-- [page titles]
-- [captions and h1 headings]
-- [button labels and warning text]
-- [the appearance and use of boxes]
+- page titles
+- captions and h1 headings
+- button labels and warning text
+- the appearance and use of boxes
 
-The GOV.UK Design System contains the following [guidance about red warning buttons]((https://design-system.service.gov.uk/components/button/#warning-buttons)):
+The GOV.UK Design System contains the following [guidance about red warning buttons](https://design-system.service.gov.uk/components/button/#warning-buttons):
 
 > Warning buttons are designed to make users think carefully before they use them. They only work if used very sparingly. Most services should not need one.
 >
