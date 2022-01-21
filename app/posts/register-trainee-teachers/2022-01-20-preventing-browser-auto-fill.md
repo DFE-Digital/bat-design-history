@@ -34,7 +34,8 @@ Ultimately, it seems that if browsers see the same combination of field name / t
 
 ## Our solution
 
-Our current working solution ([view on GitHub(https://github.com/DFE-Digital/register-trainee-teachers/blob/main/app/webpacker/scripts/global/disable-browser-autofill.js)]) is to randomise the name attribute on page load, and restore it before submitting it. As the name is randomised each time, browsers will treat it as a new field they’ve not seen before. 
+Our current working solution ([view on GitHub(https://github.com/DFE-Digital/register-trainee-teachers/blob/main/app/webpacker/scripts/global/disable-browser-autofill.js)]) is to randomise the name attribute on page load, and restore it before submitting it. As the name is randomised each time, browsers will treat it as a new field they’ve not seen before.
+
 We also set the autocomplete attribute to a non-standard value. In testing we found that `off` or any valid value would mean that this solution would not work.
 
 ### How to use
