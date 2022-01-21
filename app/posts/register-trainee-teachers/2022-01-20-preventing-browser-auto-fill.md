@@ -8,7 +8,7 @@ Many users’ browsers default to auto-filling user data — this is often usefu
 
 ## When auto-fill is not suitable
 
-For Register, auto-fill is not relevant and it makes using Register harder. Our users are filling in their trainee’s details, not their own. We do not want the details of _other_ trainees or the Register user showing up when they’re adding a new trainee.
+For Register, auto-fill is not relevant and it makes using Register harder. Our users are filling in their trainee’s details, not their own. We do not want the details of other trainees or the Register user showing up when they’re adding a new trainee.
 
 ![A text input with auto-fill overlay](1-text-input-with-auto-fill.png)
 
@@ -34,7 +34,7 @@ Ultimately, it seems that if browsers see the same combination of field name / t
 
 ## Our solution
 
-Our current working solution is to randomise the name attribute on page load, and restore it before submitting it. As the name is randomised each time, browsers will treat it as a new field they’ve not seen before. 
+Our current working solution ([view on GitHub(https://github.com/DFE-Digital/register-trainee-teachers/blob/main/app/webpacker/scripts/global/disable-browser-autofill.js)]) is to randomise the name attribute on page load, and restore it before submitting it. As the name is randomised each time, browsers will treat it as a new field they’ve not seen before. 
 We also set the autocomplete attribute to a non-standard value. In testing we found that `off` or any valid value would mean that this solution would not work.
 
 ### How to use
