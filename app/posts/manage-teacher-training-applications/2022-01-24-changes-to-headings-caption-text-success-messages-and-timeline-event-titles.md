@@ -4,7 +4,7 @@ description: We changed headings, caption text, success messages and timeline ev
 date: 2022-01-20
 ---
 
-We reviewed the headings, caption text, success message and timeline events we use in each flow of the service. This was part of an audit which also included:
+We reviewed the headings, caption text, success messages and timeline events we use in each flow within the service. This was part of an audit which also included:
 
 - page titles
 - button labels and warning text
@@ -17,28 +17,31 @@ We created a [spreadsheet with the new heading, caption text, success messages a
 
 ### Headings
 
-Previously we had inconsistent headings such as:
+At the moment, we have inconsistent headings such as:
 
 - “Check and update course” on the check answers page when updating the course the candidate applied for
 - “Check your feedback and reject application” on the check answers page when rejecting an application
 - “Add note” when entering a note
 - “Location” when selecting a location
 
-All headings that describe form controls will no longer say ”Add...“, “Select...” or “Enter...”.
+We’ll now make sure all headings on check answers pages begin with “Check details and...”. For example:
 
-All headings on check answers pages will now begin with “Check details and...”.
+- “Check and update course” will be “Check details and update course applied for”
+- “Check your feedback and reject application” will be “Check details and reject application”
+
+We’ll delete ”Add...“, “Select...” and “Enter...” from headings that describe form controls. For example, “Add note” will be “Note”.
 
 ### Captions
 
-Previously some flows had captions and some did not. We’ll now use captions for every flow to describe the action being taken.
+At the moment, some flows have captions and some do not. We’ll now use captions for every flow to describe the action being taken.
 
 All flows that are triggered by ‘change’ links will have caption text starting with “Update...”. For example, when changing an offer the caption says “Update offer”.
 
-### Success messages, timeline and activity log events
+### Success messages and timeline event titles
 
-We aligned the success messages, timeline and activity log events with the changes to caption text.
+We changed the success messages and timeline event titles to be consistent with the new caption text.
 
 For example, when updating an offer:
 
 - the success message is “Offer updated”
-- the timeline and activity log titles are “Offer updated”
+- the timeline event title is “Offer updated”
