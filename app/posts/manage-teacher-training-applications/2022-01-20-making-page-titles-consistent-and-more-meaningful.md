@@ -6,9 +6,9 @@ date: 2022-01-20
 
 We reviewed the page titles we use in the service. This was part of an audit which also included:
 
-- captions and h1 headings
+- [headings, caption text, success messages and timeline event titles](/manage-teacher-training-applications/changes-to-headings-caption-text-success-messages-and-timeline-event-titles/)
 - button labels and warning text
-- the use of red buttons
+- [the use of red buttons](/manage-teacher-training-applications/changing-the-way-we-use-red-warning-buttons/)
 - the appearance and use of boxes
 
 The page title appears in the browser tab. It’s the first thing to be read out by screen readers so it’s important that page titles are meaningful and consistent.
