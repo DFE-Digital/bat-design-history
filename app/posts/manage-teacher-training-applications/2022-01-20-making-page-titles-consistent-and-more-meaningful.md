@@ -9,7 +9,7 @@ We reviewed the page titles we use in the service. This was part of an audit whi
 - [headings, caption text, success messages and timeline event titles](/manage-teacher-training-applications/changes-to-headings-caption-text-success-messages-and-timeline-event-titles/)
 - [button labels and warning text](/manage-teacher-training-applications/changes-to-button-labels-and-addition-of-warning-text/)
 - [the use of red buttons](/manage-teacher-training-applications/changing-the-way-we-use-red-warning-buttons/)
-- the appearance and use of boxes
+- [the use and appearance of boxes](/manage-teacher-training-applications/changes-to-the-use-and-appearance-of-boxes/)
 
 The page title appears in the browser tab. It’s the first thing to be read out by screen readers so it’s important that page titles are meaningful and consistent.
 

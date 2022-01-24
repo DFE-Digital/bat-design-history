@@ -9,7 +9,7 @@ We reviewed the headings, caption text, success messages and timeline events we 
 - [page titles](/manage-teacher-training-applications/making-page-titles-consistent-and-more-meaningful/)
 - [button labels and warning text](/manage-teacher-training-applications/changes-to-button-labels-and-addition-of-warning-text/)
 - [the use of red buttons](/manage-teacher-training-applications/changing-the-way-we-use-red-warning-buttons/)
-- the appearance and use of boxes
+- [the appearance and use of boxes](/manage-teacher-training-applications/changes-to-the-use-and-appearance-of-boxes/)
 
 ## How it works
 

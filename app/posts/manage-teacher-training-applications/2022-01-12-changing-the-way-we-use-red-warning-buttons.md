@@ -15,7 +15,7 @@ We looked at the way we use red warning buttons. This was part of an audit which
 - [headings, caption text, success messages and timeline event titles](/manage-teacher-training-applications/changes-to-headings-caption-text-success-messages-and-timeline-event-titles/)
 - [page titles](/manage-teacher-training-applications/making-page-titles-consistent-and-more-meaningful/)
 - [button labels and warning text](/manage-teacher-training-applications/changes-to-button-labels-and-addition-of-warning-text/)
-- the appearance and use of boxes
+- [the use and appearance of boxes](/manage-teacher-training-applications/changes-to-the-use-and-appearance-of-boxes/)
 
 The GOV.UK Design System contains the following [guidance about red warning buttons](https://design-system.service.gov.uk/components/button/#warning-buttons):
 
