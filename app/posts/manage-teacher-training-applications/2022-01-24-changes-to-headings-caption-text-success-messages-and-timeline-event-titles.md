@@ -7,7 +7,7 @@ date: 2022-01-24
 We reviewed the headings, caption text, success messages and timeline events we use in each flow within the service. This was part of an audit which also included:
 
 - [page titles](/manage-teacher-training-applications/making-page-titles-consistent-and-more-meaningful/)
-- button labels and warning text
+- [button labels and warning text](/manage-teacher-training-applications/changes-to-button-labels-and-addition-of-warning-text/)
 - [the use of red buttons](/manage-teacher-training-applications/changing-the-way-we-use-red-warning-buttons/)
 - the appearance and use of boxes
 

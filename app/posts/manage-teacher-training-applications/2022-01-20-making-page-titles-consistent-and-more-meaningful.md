@@ -7,7 +7,7 @@ date: 2022-01-20
 We reviewed the page titles we use in the service. This was part of an audit which also included:
 
 - [headings, caption text, success messages and timeline event titles](/manage-teacher-training-applications/changes-to-headings-caption-text-success-messages-and-timeline-event-titles/)
-- button labels and warning text
+- [button labels and warning text](/manage-teacher-training-applications/changes-to-button-labels-and-addition-of-warning-text/)
 - [the use of red buttons](/manage-teacher-training-applications/changing-the-way-we-use-red-warning-buttons/)
 - the appearance and use of boxes
 
