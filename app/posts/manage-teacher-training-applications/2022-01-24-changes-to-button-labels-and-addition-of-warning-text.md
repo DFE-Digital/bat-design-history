@@ -8,7 +8,7 @@ screenshots:
       src: check-details-and-make-offer.png
     - text: Check details and update user permissions page
       src: check-details-and-update-user-permissions.png
-    - text: Organisation permissions page
+    - text: Update organisation permissions page
       src: organisation-permissions.png
 ---
 
