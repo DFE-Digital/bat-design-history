@@ -12,8 +12,8 @@ screenshots:
 
 We looked at the way we use red warning buttons. This was part of an audit which also included:
 
-- page titles
-- captions and h1 headings
+- [headings, caption text, success messages and timeline event titles](/manage-teacher-training-applications/changes-to-headings-caption-text-success-messages-and-timeline-event-titles/)
+- [page titles](/manage-teacher-training-applications/making-page-titles-consistent-and-more-meaningful/)
 - button labels and warning text
 - the appearance and use of boxes
 
