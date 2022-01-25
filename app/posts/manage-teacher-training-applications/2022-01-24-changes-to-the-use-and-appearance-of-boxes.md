@@ -26,12 +26,13 @@ We also removed some boxes and their content as they were unnecessary.
 
 Previously some boxes used thick lines and some used thin lines. For example:
 
-- each set of permissions on the organisation permissions page was surrounded by a thick line
-- the candidate interview preferences on the interview details page were surrounded by a thin line
+- each set of permissions on the organisation permissions page was surrounded by a thin line
+- the candidate interview preferences on the interview details page were surrounded by a thick line
 
 We do not think that this distinction conveys any difference in meaning, so we decided to use thin lines for all boxes.
 
 ![Organisation permissions page](organisation-permissions.png "Update organisation permissions page")
+
 ![Interview details page](interview-details.png "Interview details page")
 
 ### When we show boxes around content
@@ -42,6 +43,7 @@ We’ve decided to only show content in boxes when either:
 - it’s helpful for users to see information from another part of the service, for example we replay course details at the start of the ‘make decision’ flow
 
 ![Interviews page](interviews.png "Interviews page")
+
 ![Make a decision](make-a-decision.png "Make a decision page")
 
 As a result of this, we’ve removed the box around summary lists on the check answers pages.
