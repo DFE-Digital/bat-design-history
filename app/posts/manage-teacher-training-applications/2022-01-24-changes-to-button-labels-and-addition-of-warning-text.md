@@ -16,7 +16,7 @@ We reviewed the content of button labels on the final pages of each flow in the 
 
 - [page titles](/manage-teacher-training-applications/making-page-titles-consistent-and-more-meaningful/)
 - [headings, caption text, success messages and timeline event titles](/manage-teacher-training-applications/changes-to-headings-caption-text-success-messages-and-timeline-event-titles/)
-- the use and appearance of boxes
+- [the use and appearance of boxes](/manage-teacher-training-applications/changes-to-the-use-and-appearance-of-boxes/)
 - [the use of red buttons](/manage-teacher-training-applications/changing-the-way-we-use-red-warning-buttons/)
 
 As a result of our decisions about button labels, we decided to add warning text to the final pages of many of the flows.
@@ -51,4 +51,4 @@ All warning text begins with standard wording, either:
 - “The candidate will be sent an email to tell them…”
 - “The user will be sent an email to tell them…”
 
-The only exception is when changing organisation permissions, as emails may be sent to multiple users.
+The only exceptions are when setting up or changing organisation permissions, as emails may be sent to multiple users.
