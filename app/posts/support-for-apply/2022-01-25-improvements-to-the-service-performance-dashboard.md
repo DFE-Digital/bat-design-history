@@ -1,7 +1,7 @@
 ---
 title: Improvements to the service performance dashboard
 description: We added data and improved the content in the service performance dashboard.
-date: 2021-12-25
+date: 2022-01-25
 screenshots:
   items:
     - text: Service performance report - all years
