@@ -23,7 +23,7 @@ For salaried courses, candidates need a Skilled Worker visa.
 
 Read more information about the [different types of visas for students](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-if-youre-a-non-uk-citizen#visa).
 
-Providers need more clarity on visa sponsorship. In the [previous iteration](/publish-teacher-training-courses/visa-question-wording-change/)we added guidance telling providers how they can become a visa sponsor.
+Providers need more clarity on visa sponsorship. In the [previous iteration](/publish-teacher-training-courses/visa-question-wording-change/) we added guidance telling providers how they can become a visa sponsor.
 
 Before becoming a sponsor, not all providers know:
 
@@ -38,7 +38,7 @@ We updated the guidance to show:
 - a more detailed explanation of visa sponsorship
 - information on where to find out more
 
-![PLACEHOLDER TEXT](organisation-settings--visa-sponsorship.png "PLACEHOLDER")
+![Visa sponsorship page](organisation-settings--visa-sponsorship.png)
 
 ## Future considerations
 
