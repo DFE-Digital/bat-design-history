@@ -21,7 +21,7 @@ Before becoming a sponsor, not all providers know:
 
 ## Types of visa available to candidates
 
-Depending on their circumstances and the course they’re applying for, candidates may be eligible for:
+Depending on their circumstances and the course they’re applying for, candidates may be eligible for a:
 
 - Skilled Worker visa
 - Student visa
