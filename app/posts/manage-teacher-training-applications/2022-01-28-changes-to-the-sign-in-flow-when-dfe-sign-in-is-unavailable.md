@@ -10,7 +10,7 @@ screenshots:
       src: confirmation.png
 ---
 
-We redesigned the normal sign in flow as part of [creating a start page on GOV.UK](#).
+We redesigned the normal sign in flow as part of [creating a start page on GOV.UK](/manage-teacher-training-applications/starting-the-manage-service-on-govuk/).
 
 While doing this work, we noticed some ways to improve the sign in flow when DfE Sign-in is unavailable.
 
