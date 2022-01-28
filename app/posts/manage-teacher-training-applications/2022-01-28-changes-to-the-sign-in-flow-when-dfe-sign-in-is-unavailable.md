@@ -1,6 +1,6 @@
 ---
 title: Changes to the sign in flow when DfE Sign-in is unavailable
-description: We made several changes to the content to the sign in flow when DfE Sign-in is down.
+description: We made several changes to the content in the sign in flow when DfE Sign-in is unavailable.
 date: 2022-01-24
 screenshots:
   items:
@@ -10,9 +10,9 @@ screenshots:
       src: confirmation.png
 ---
 
-We redesigned the regular sign in flow as part of [creating a start page on GOV.UK](#).
+We redesigned the normal sign in flow as part of [creating a start page on GOV.UK](#).
 
-Whilst doing this work, we noticed some ways to improve the sign in flow when DfE Sign-in is unavailable.
+While doing this work, we noticed some ways to improve the sign in flow when DfE Sign-in is unavailable.
 
 For example:
 
@@ -28,14 +28,14 @@ We changed:
 
 ### Notification banner changes
 
-The notification banner was two-thirds in width. We changed it to be full width as standard.
+The notification banner had a width which was two-thirds of the page. We changed it to be full width as standard.
 
-The title was ‘Information’. We changed this to ‘Important’ as standard.
+The title was “Information”. We changed this to “Important” as standard.
 
-The content currently consists of:
+The content used to consist of:
 
-- a heading which says ‘Temporary login’
-- body text which says ‘DfE Sign-in is experiencing problems. You need to sign in using your email address.’
+- a heading which said “Temporary login”
+- text which said “DfE Sign-in is experiencing problems. You need to sign in using your email address.”
 
 We combined this into standard heading text which says “DfE Sign-in is currently unavailable.”
 
@@ -43,12 +43,20 @@ We combined this into standard heading text which says “DfE Sign-in is current
 
 We changed:
 
-- “You must sign in to your account to manage teacher training applications.” to “You need to request an email with a link to sign in.”. We did this to indicate that this flow works differently to the regular DfE Sign-in flow.
-- the button label from “Continue” to “Request link to sign in” which better describes the action about to be taken.
+- “You must sign in to your account to manage teacher training applications.” to “You need to request an email with a link to sign in.” - this indicates that the flow is different to the normal DfE Sign-in flow
+- the button label from “Continue” to “Request link to sign in”, which more clearly describes the action
 
-We also updated the content under the form titled “Get an account” to match the changes we made when we [created the start page on GOV.UK](#).
+We also updated the content under the form about getting an account to match the changes we made when we created the start page on GOV.UK.
 
-We improved the content on the confirmation page to be clearer by changing:
+We made the content on the confirmation page clearer by changing:
 
-- the first sentence from “We’ve sent you an email. Click on the link to confirm your address and return to this service.” to say “Sign in by clicking the link in the email you’ve been sent.”
-- the second sentence used to say “If our email does not arrive within 5 minutes, check your spam and trash folder, or [try again].” to “Check your spam and trash folder if you cannot find the email. You can also [request another link to sign in].”
+- “We’ve sent you an email. Click on the link to confirm your address and return to this service.” to “Sign in by clicking the link in the email you’ve been sent.”
+- “If our email does not arrive within 5 minutes, check your spam and trash folder, or [try again].” to “Check your spam and trash folder if you cannot find the email. You can also [request another link to sign in].”
+
+## How it works
+
+If the user leaves the email address blank, an error will be shown saying “Enter an email address”.
+
+If the user enters an invalid email address, an error will be shown saying “Enter an email address in the correct format, like name@example.com”.
+
+If the user enters a valid email address, they will be taken to the confirmation page.
