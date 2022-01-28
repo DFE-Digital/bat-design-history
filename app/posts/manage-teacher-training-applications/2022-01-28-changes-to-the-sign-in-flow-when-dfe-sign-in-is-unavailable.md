@@ -51,4 +51,4 @@ We also updated the content under the form titled “Get an account” to match 
 We improved the content on the confirmation page to be clearer by changing:
 
 - the first sentence from “We’ve sent you an email. Click on the link to confirm your address and return to this service.” to say “Sign in by clicking the link in the email you’ve been sent.”
-- the second sentence used to say “If our email does not arrive within 5 minutes, check your spam and trash folder, or [try again].” to “If you cannot find the email, check your spam and trash folder. You can also [request another link to sign in].”
+- the second sentence used to say “If our email does not arrive within 5 minutes, check your spam and trash folder, or [try again].” to “Check your spam and trash folder if you cannot find the email. You can also [request another link to sign in].”
