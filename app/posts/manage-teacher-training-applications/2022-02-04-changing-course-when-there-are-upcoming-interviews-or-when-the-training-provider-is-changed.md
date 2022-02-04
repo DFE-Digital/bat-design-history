@@ -8,6 +8,8 @@ screenshots:
       src: check-answers.png
     - text: Check answers page (upcoming interviews but no change of training provider)
       src: check-answers--upcoming-interviews.png
+    - text: Check answers page (no upcoming interviews but a change of training provider)
+      src: check-answers--change-of-training-provider.png
     - text: Check answers page (upcoming interviews and a change of training provider)
       src: check-answers--upcoming-interviews-change-of-training-provider.png
 ---
@@ -47,33 +49,33 @@ Changes to upcoming interviews means changes to the training provider or course.
 
 The warning text content will be:
 
-^ The candidate will be sent an email to tell them that the course has been updated.
+> The candidate will be sent an email to tell them that the course has been updated.
 
 ### Changes to upcoming interviews and no change of training provider
 
 The warning text content will be:
 
-^ The upcoming interview will be updated with the new course details.
-^
-^ The candidate will be sent emails to tell them that the course and the upcoming interview have been updated.
+> The upcoming interview will be updated with the new course details.
+>
+> The candidate will be sent emails to tell them that the course and the upcoming interview have been updated.
 
 ### No changes to upcoming interviews and a change of training provider
 
 The warning text content will be:
 
-^ Emails will be sent to:
-^ - the candidate, to tell them that the course has been updated
-^ - users at the new and old training providers, to tell them that the application has been transferred between organisations
+> Emails will be sent to:
+> - the candidate, to tell them that the course has been updated
+> - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
 ### Changes to upcoming interviews and a change of training provider
 
 The warning text content will be:
 
-^ The upcoming interview will be updated with the new course details.
-^
-^ Emails will be sent to:
-^ - the candidate, to tell them that the course and the upcoming interview have been updated
-^ - users at the new and old training providers, to tell them that the application has been transferred between organisations
+> The upcoming interview will be updated with the new course details.
+>
+> Emails will be sent to:
+> - the candidate, to tell them that the course and the upcoming interview have been updated
+> - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
 
 ## Future considerations
