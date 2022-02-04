@@ -117,7 +117,7 @@ They’re now applying to study English and Drama (T56DH) at Preston Teaching Gu
 
 # Get help
 
-Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk).
+Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)."
 }) }}
 <!-- markdownlint-enable MD025 MD001 -->
 
@@ -138,7 +138,7 @@ https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
 
 # Get help
 
-Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk).
+Get help, report a problem or give feedback at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk)."
 }) }}
 
 <!-- markdownlint-enable MD025 MD001 -->
