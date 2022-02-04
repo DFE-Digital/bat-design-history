@@ -74,33 +74,31 @@ This is different from other flows such as making an offer, where we say that in
 
 If there are no changes to upcoming interviews and no change of training provider, the warning text content will be:
 
-^ The candidate will be sent an email to tell them that the course has been updated.
+> The candidate will be sent an email to tell them that the course has been updated.
 
 If there are changes to upcoming interviews and no change of training provider,the warning text content will be:
 
-^ The upcoming interview will be updated with the new course details.
-^
-^ The candidate will be sent emails to tell them that the course and the upcoming interview have been updated.
+> The upcoming interview will be updated with the new course details.
+>
+> The candidate will be sent emails to tell them that the course and the upcoming interview have been updated.
 
 If there are no changes to upcoming interviews and a change of training provider, the warning text content will be:
 
-^ Emails will be sent to:
-^ - the candidate, to tell them that the course has been updated
-^ - users at the new and old training providers, to tell them that the application has been transferred between organisations
+> Emails will be sent to:
+> - the candidate, to tell them that the course has been updated
+> - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
 If there are changes to upcoming interviews and a change of training provider, the warning text content will be:
 
-^ The upcoming interview will be updated with the new course details.
-^
-^ Emails will be sent to:
-^ - the candidate, to tell them that the course and the upcoming interview have been updated
-^ - users at the new and old training providers, to tell them that the application has been transferred between organisations
+> The upcoming interview will be updated with the new course details.
+>
+> Emails will be sent to:
+> - the candidate, to tell them that the course and the upcoming interview have been updated
+> - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
 ### Emails to provider users
 
 A user will not receive any email notification if they had access to the application before the change and still have access to it.
-
-
 
 ## Future considerations
 
