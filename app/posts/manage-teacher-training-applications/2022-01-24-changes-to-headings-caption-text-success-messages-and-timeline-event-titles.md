@@ -19,14 +19,14 @@ We created a [spreadsheet with the new heading, caption text, success messages a
 
 At the moment, we have inconsistent headings such as:
 
-- “Check and update course” on the check answers page when updating the course the candidate applied for
+- “Check and update course” on the check answers page when updating the course
 - “Check your feedback and reject application” on the check answers page when rejecting an application
 - “Add note” when entering a note
 - “Location” when selecting a location
 
 We’ll now make sure all headings on check answers pages begin with “Check details and...”. For example:
 
-- “Check and update course” will be “Check details and update course applied for”
+- “Check and update course” will be “Check details and update course”
 - “Check your feedback and reject application” will be “Check details and reject application”
 
 We’ll delete ”Add...“, “Select...” and “Enter...” from headings that describe form controls. For example, “Add note” will be “Note”.
