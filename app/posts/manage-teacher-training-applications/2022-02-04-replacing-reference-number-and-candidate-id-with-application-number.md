@@ -10,7 +10,7 @@ screenshots:
       src: application-details.png
 ---
 
-We have previously written about the [effect of removing the reference number](#). We have since analysed and researched the impact of replacing the [reference number and candidate ID with the application number](https://docs.google.com/presentation/d/1puOPyRmPvlTbnuocQqzO6oKtiRRoZDburdKtTNbe0nA/edit#slide=id.g1126224a75f_0_4).
+We have previously written about the [effect of removing the reference number](/). We have since analysed and researched the impact of replacing the [reference number and candidate ID with the application number](https://docs.google.com/presentation/d/1puOPyRmPvlTbnuocQqzO6oKtiRRoZDburdKtTNbe0nA/edit#slide=id.g1126224a75f_0_4).
 
 Based on the findings, we decided to replace the reference number and the candidate ID with the application number.
 
