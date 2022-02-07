@@ -51,6 +51,7 @@ We removed a bullet point advising the user to make course content unique and to
 On the Organisation overview page, we will review the introductory content for the other sections.
 
 We will remove the grey boxes and review and reposition the contents.
-We will change [the way we refer to cycles]( https://bat-design-history.netlify.app/manage-teacher-training-applications/referring-to-recruitment-cycles/) in Publish to align with Manage.
+
+We will change [the way we refer to cycles](/manage-teacher-training-applications/referring-to-recruitment-cycles/) in Publish to align with Manage.
 
 The ‘Course information’ page is one of the key pages in Publish. We will continue to discuss how to improve the way we collect course information from providers. We’ll use Publish and Apply user research to help us balance provider needs (what providers want to tell candidates) and candidate needs (what candidates want to know). This is an ongoing project.
