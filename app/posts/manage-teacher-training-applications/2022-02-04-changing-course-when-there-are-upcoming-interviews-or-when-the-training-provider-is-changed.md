@@ -14,8 +14,6 @@ screenshots:
       src: check-answers--upcoming-interviews-change-of-training-provider.png
 ---
 
-{% from "email/macro.njk" import appEmail %}
-
 We recently designed a new flow to [let providers change the course before making an offer](https://bat-design-history.netlify.app/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/).
 
 We did not consider what happens if:
@@ -64,6 +62,7 @@ The warning text content is:
 The warning text content is:
 
 > Emails will be sent to:
+>
 > - the candidate, to tell them that the course has been updated
 > - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
@@ -74,6 +73,7 @@ The warning text content is:
 > The upcoming interview will be updated with the new course details.
 >
 > Emails will be sent to:
+>
 > - the candidate, to tell them that the course and the upcoming interview have been updated
 > - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
