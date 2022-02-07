@@ -23,16 +23,16 @@ We did not consider what happens if:
 
 ## What we changed
 
-We added warning text to tell users that if there are upcoming interviews:
+If the user changes the course to one run by a different training provider, the warning text tells them that emails will be sent to users at the old and new providers.
+
+If there are upcoming interviews, the warning text tells the user that:
 
 - the interviews will be updated with the new course details
 - the candidate will be sent emails to tell them that the interviews have been updated
 
-If the user changes the course to one run by a different training provider, the warning text will tell them that emails will be sent to users at the old and new providers.
+In other flows, such as making an offer, we do not mention separately that interviews will be cancelled. We just say that an email will be sent about the cancellation.
 
-We think it’s important to be clear that upcoming interviews will be changed, as users may not expect it to happen. We have emphasised this by putting it first in the warning text.
-
-This is different from other flows such as making an offer, where we mention that interviews will be cancelled but do not put it first. We think that the information is less important in those flows.
+We think that here it’s important to emphasise that the interviews will be updated, since users may not expect it to happen. So we separately say that the interviews will be updated and mention it again when we say what emails will be sent.
 
 ## How it works
 
@@ -79,9 +79,9 @@ The warning text content is:
 
 ## Future considerations
 
-We plan to carry out user research to help us decide whether to:
+We need to write content for the emails which will be sent when the training provider is changed.
+
+We also plan to carry out user research to help us decide whether to:
 
 - show details of upcoming interviews
 - allow users to choose whether to change or cancel upcoming interviews
-
-We’ll need to write content for the emails which will be sent when the training provider is changed.
