@@ -31,9 +31,13 @@ We changed the bullet points that introduce the Courses section. Users can now s
 - assign locations to a course
 - copy content between courses
 
+![Screenshot of organisation overview page](organisation-overview.png "Organisation overview")
+
 ### Courses list
 
 We removed the bullet point list as it was repeating the content on the overview page, so it was unnecessary.
+
+![Screenshot of courses list page](courses-list.png "Courses list")
 
 ### About this course
 
@@ -45,6 +49,8 @@ We changed:
 - all instances of “e.g.” to “for example”
 
 We removed a bullet point advising the user to make course content unique and to not copy from other courses. We have the functionality to copy content from a course, so this advice was contradictory.
+
+![Screenshot of course information page](course-information.png "Course information")
 
 ## Future considerations
 
