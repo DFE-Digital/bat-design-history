@@ -39,7 +39,7 @@ We removed the bullet point list as it was repeating the content on the overview
 
 ![Screenshot of courses list page](courses-list.png "Courses list")
 
-### About this course
+### Course information page
 
 We changed:
 
