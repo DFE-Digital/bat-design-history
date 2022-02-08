@@ -36,28 +36,32 @@ We think that here it’s important to emphasise that the interviews will be upd
 
 ## How it works
 
-The content of the warning text depends on whether there will be:
+The content of the warning text depends on whether:
 
-- changes to upcoming interviews
-- a change of training provider
+- there are upcoming interviews
+- the new course is with a different training provider
 
-We only warn users about changes to upcoming interviews if they’re changing the course.
+We will not update the details of upcoming interviews if the only changes are to the training location or whether the course is part time or full time. So in this case we will not warn the user that the interviews are being changed.
 
-### No changes to upcoming interviews and no change of training provider
+### There are no upcoming interviews and the training provider is not being changed
 
 The warning text content is:
 
 > The candidate will be sent an email to tell them that the course has been updated.
 
-### Changes to upcoming interviews but no change of training provider
+### There are upcoming interviews but the training provider is not being changed
 
 The warning text content is:
 
 > The upcoming interview will be updated with the new course details.
->
 > The candidate will be sent emails to tell them that the course and the upcoming interview have been updated.
 
-### No changes to upcoming interviews but there’s a change of training provider
+
+If the only changes are to the training location or whether the course is full time or part time, the warning text content is:
+
+>The candidate will be sent an email to tell them that the course has been updated.
+
+### There are no upcoming interviews but the training provider is being changed
 
 The warning text content is:
 
@@ -66,15 +70,22 @@ The warning text content is:
 > - the candidate, to tell them that the course has been updated
 > - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
-### Changes to upcoming interviews and a change of training provider
+### There are upcoming interviews and the training provider is being changed
 
 The warning text content is:
 
-> The upcoming interview will be updated with the new course details.
+>The upcoming interview will be updated with the new course details.
 >
-> Emails will be sent to:
+>Emails will be sent to:
 >
 > - the candidate, to tell them that the course and the upcoming interview have been updated
+> - users at the new and old training providers, to tell them that the application has been transferred between organisations
+
+If the only changes are to the training location or whether the course is full time or part time, the warning text content is:
+
+> Emails will be sent to:
+>
+> - the candidate, to tell them that the course has been updated
 > - users at the new and old training providers, to tell them that the application has been transferred between organisations
 
 ## Future considerations
