@@ -26,7 +26,7 @@ We’ve only added the analytics to fields that are collecting non-sensitive dat
 
 * lead and employing schools
 * degree subjects
-* degree institutions
+* degree institutions&nbsp;
 * course subjects
 
 ## Event triggers
@@ -52,7 +52,7 @@ Our event includes:
 
 ## Adding the analytics to our service
 
-The analytics  need a small amount of javascript code to be added to the web page for the autocompletes. This collects the data about the autocomplete activity and fires an event. Google Tag Manager (GTM) is configured to respond to the event (trigger) and then pass (tag) the data to Google Analytics.
+The analytics  need a small amount of javascript code to be added to the web page for the autocompletes. This collects the data about the autocomplete activity and fires an event. Google Tag Manager (GTM) is configured to respond to the event (trigger) and then pass (tag) the data to Google&nbsp;Analytics.
 
 The key stages in set-up were:
 
@@ -212,7 +212,7 @@ A significant number of ‘failed’ searches are typos. These are to be expecte
 
 ### Synonyms
 
-In many cases the word the user tries is not in the list, but there is a word that means the same thing. A good example from the table above is a user searching for `teachi`, `learn`, and `mentor` — for which the user ultimately picked `Education studies`. We could consider adding `Teaching` as a synonym for `Education studies`.
+In many cases the word the user tries is not in the list, but there is a word that means the same thing. A good example from the table above is a user searching for ‘teachi’, ‘learn’, and ‘mentor’ — for which the user ultimately picked ‘Education studies’. We could consider adding ‘Teaching’ as a synonym for ‘Education studies’.
 
 ### Abbreviations
 
@@ -220,7 +220,7 @@ We can see some users search by abbreviation. PE (physical education) is common,
 
 ### Missing options
 
-Some searches seem like things that it would be reasonable to expect to be in the list. A good example from the table above is `jew` - for which we assume they were searching for `jewellery`. Ultimately the user picked `Silversmithing and Goldsmithing`, which is similar, but perhaps not quite the same. We’ll need analysis to understand the implications of adding new items.
+Some searches seem like things that it would be reasonable to expect to be in the list. A good example from the table above is ‘jew’ - for which we assume they were searching for ‘jewellery’. Ultimately the user picked ‘Silversmithing and Goldsmithing’, which is similar, but perhaps not quite the same. We’ll need analysis to understand the implications of adding new items.
 
 ### Incorrect searches
 
@@ -228,7 +228,7 @@ For some searches, the user looks to be confused about what the field is asking.
 
 ### Using the definite article
 
-Some users search with the definite article `The`, for example `The University of Birmingham`. In our data, not all items have the definite article, when a user searches with it, the search fails. We’ve already addressed this by updating our autocompletes to support searching without ‘stop words’. Words like ‘a’, ‘an’, ‘and’, ‘of’, ‘in’, and ‘the’.
+Some users search with the definite article ‘The’, for example ‘The University of Birmingham’. In our data, not all items have the definite article, when a user searches with it, the search fails. We’ve already addressed this by updating our autocompletes to support searching without ‘stop words’. Words like ‘a’, ‘an’, ‘and’, ‘of’, ‘in’, and ‘the’.
 
 ### Searching by country name rather than nationality
 
@@ -236,4 +236,4 @@ Our nationality picker has a list of nationalities rather than countries. . We c
 
 ### Unknown issue
 
-A fair number of ‘failed searches’ result in no answer being picked. If the text captured is really short, we cannot easily tell what the issue was (or if there was an issue). We can see that  one user searched for a degree subject `arts` and then escaped out of the field. Were they searching for an arts subject? Or perhaps were typing in `Bachelor of arts` and realised they were in the wrong field? We cannot know.
+A fair number of ‘failed searches’ result in no answer being picked. If the text captured is really short, we cannot easily tell what the issue was (or if there was an issue). We can see that  one user searched for a degree subject ‘arts’ and then escaped out of the field. Were they searching for an arts subject? Or perhaps were typing in ‘Bachelor of arts’ and realised they were in the wrong field? We cannot know.
