@@ -212,7 +212,7 @@ A significant number of ‘failed’ searches are typos. These are to be expecte
 
 ### Synonyms
 
-In many cases the word the user tries is not in the list, but there is a word that means the same thing. A good example from the table above is a user searching for `teachi`, `learn`, and `mentor` – for which the user ultimately picked `Education studies`. We could consider adding `Teaching` as a synonym for `Education studies`.
+In many cases the word the user tries is not in the list, but there is a word that means the same thing. A good example from the table above is a user searching for `teachi`, `learn`, and `mentor` — for which the user ultimately picked `Education studies`. We could consider adding `Teaching` as a synonym for `Education studies`.
 
 ### Abbreviations
 
