@@ -20,7 +20,7 @@ We wanted to better understand where our autocompletes were not meeting our user
 
 ## Recording when users do not find what they’re looking for
 
-We want to understand what is happening when users do not find what they’re looking for in the autocomplete suggestions.. When a user changes a mind, we record what they typed and what they ended up picking.
+We want to understand what is happening when users do not find what they’re looking for in the autocomplete suggestions. When a user changes a mind, we record what they typed and what they ended up picking.
 
 We’ve only added the analytics to fields that are collecting non-sensitive data:
 
