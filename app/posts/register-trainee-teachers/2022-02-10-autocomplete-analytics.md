@@ -204,7 +204,7 @@ Failed searches are not necessarily bad. Autocompletes are dynamic interfaces an
 
 ## What we’ve found and how we can improve our autocompletes
 
-This data can not be easily quantified – it needs manual analysis to pick out common themes and issues. But there are place where we can see ways to improve the autocomplete for our users
+This data can not be easily quantified — it needs manual analysis to pick out common themes and issues. But there are place where we can see ways to improve the autocomplete for our users
 
 ### Typos
 
