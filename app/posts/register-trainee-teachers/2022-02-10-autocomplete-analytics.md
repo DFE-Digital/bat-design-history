@@ -39,7 +39,7 @@ When a user presses backspace we take that as a signal that they’re changing t
 
 If a user escapes, there’s a good chance this is because the results they were getting were not matching their expectations.
 
-## Included in the event
+### Included in the event
 
 Our event includes:
 
