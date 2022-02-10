@@ -45,6 +45,10 @@ These are sums of money available to trainees on (fee-based) courses in certain 
 
 ## C
 
+### Continuous professional development (CPD)
+
+A generic term referring to training of people already qualified and in employment. Avoid using the acronym, or spell it out on first use.
+
 ### Course
 
 A training programme providers create for candidates to apply to.
@@ -246,6 +250,10 @@ Used to predict and manage the ITT market.
 ### Teaching School Alliance
 
 Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
+
+### Teaching Vacancies (TVS)
+
+A service for [advertising, finding and applying for teaching jobs](https://teaching-vacancies.service.gov.uk/). Capitalised. Do not use the acronym publicly.
 
 ## U
 
