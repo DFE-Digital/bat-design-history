@@ -16,13 +16,17 @@ At the moment candidates can only make one choice when applying again. We’re c
 
 This means there’s more chance of providers receiving multiple applications from the same candidate.
 
-## What we changed
+## How it works
 
-We added a new section to the application called “Other applications”.
+We added a new section to the application called “Other applications”. It lists all other applications which the candidate submitted in the current and previous cycles to organisations the user belongs to.
 
-It lists all other applications which the candidate submitted in the current and previous cycles to organisations the user belongs to.
+The section is only shown if there are other applications to list.
 
-The section will not be shown if there are no other applications to list.
+The applications are displayed in the same format and order as they are in the application list.
+
+Clicking the name of the candidate in the list of other applications takes the user to that application.
+
+If there’s more than one application in the list, we put the course and recruitment cycle in hidden text for the candidate name to distinguish between applications.
 
 ## Future considerations
 
