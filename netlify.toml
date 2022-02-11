@@ -1,3 +1,9 @@
+[[redirects]]
+  from = "/glossary"
+  to = "https://dfe-glossary.herokuapp.com/"
+  status = 301
+  force = true
+
 [build]
   command = "npm run build"
   publish = "public"
