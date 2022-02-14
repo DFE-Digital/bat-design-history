@@ -108,9 +108,9 @@ Users can choose to receive both the weekly summary and individual notifications
 
 Notifications do not appear if they’ve been superseded by a further change. For example, if an application was received and withdrawn within the week covered by the email then only the withdrawal is included.
 
-The heading for each category of notifications only appears if there’s at least one application in that category. The weekly summary is only sent if it contains at least one notification.
-
 All applications with less than 20 working days are listed, even if they’ve been mentioned in a previous email.
+
+The heading for each category of notifications only appears if there’s at least one application in that category. The weekly summary is only sent if it contains at least one notification.
 
 ## Further considerations
 
