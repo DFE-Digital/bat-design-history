@@ -9,28 +9,26 @@ screenshots:
 
 {% from "email/macro.njk" import appEmail %}
 
-Users can choose to receive individual email notifications.
-
-Notifications are sent when:
+Users can choose to receive individual email notifications, which are sent when:
 
 - applications are received
-- applications are received from another organisation
+- applications are received from other organisations
 - there are 20 working days left before applications are automatically rejected
 - applications are automatically rejected
 - applications are withdrawn by the candidate
-- applications are transferred to another organisation
+- applications are transferred to other organisations
 - offers are accepted
 - offers are declined
 
-Research shows that some users would find it useful to be able to receive a weekly summary of notifications.
+Research shows that some users will find it useful to receive a weekly summary of notifications.
 
-It’ll be particularly helpful for users who are not processing applications every day, but need an overview of the applications being processed.
+This will be particularly helpful for users who do not process applications every day, but need an overview of the applications being processed.
 
 ## What we changed
 
 We added a new option to the notification settings page, which lets users choose to receive a weekly summary of email notifications.
 
-The email includes the date and time of the start and end of the period covers, plus a section for each type of notification which can be sent individually.
+The email includes the date and time of the start and end of the period covered, plus a section for each type of notification which can be sent individually.
 
 <!-- markdownlint-disable MD001 MD025 -->
 
@@ -108,11 +106,11 @@ Like all other email notifications, the option to receive the weekly summary is 
 
 Users can choose to receive both the weekly summary and individual notifications.
 
-Each category of notifications will only appear if at least one application is applicable in that category. If there are no notifications, the user will not receive the weekly summary.
+Notifications do not appear if they’ve been superseded by a further change. For example, if an application was received and withdrawn within the week covered by the email then only the withdrawal is included.
 
-Notifications do not appear if they’ve been superseded by a further change. For example, if an application was received and withdrawn within the week covered by the email then only the withdrawal will be included.
+The heading for each category of notifications only appears if there’s at least one application in that category. The weekly summary is only sent if it contains at least one notification.
 
-All applications with less than 20 working days will be listed, even if they’ve been mentioned in a previous email.
+All applications with less than 20 working days are listed, even if they’ve been mentioned in a previous email.
 
 ## Further considerations
 
@@ -124,21 +122,22 @@ We could consider:
 
 ### Avoiding hiding URLs within the email
 
-The GOV.UK guidance on sending emails says that we should “spell out any web addresses (URLs) in full to show the user where links are going”. This is intended to help protect users from phishing.
+The [GOV.UK guidance on sending emails](https://www.gov.uk/service-manual/design/sending-emails-and-text-messages) says that we should “spell out any web addresses (URLs) in full to show the user where links are going”. This is intended to help protect users from phishing.
 
 If we spell out URLs in the current design then it will be impossible to tell the links apart, other than by referring to the text alongside them. This could be a particular problem for screen reader users.
 
-We could test that design with users. We could also consider other designs, such as a single link to a new page within the service which summarises the previous week. We could also explore this alongside the [notifications feature](/manage-teacher-training-applications/notifications/).
+We could test that design with users or try other designs which would let us avoid hiding URLs in emails. For example we could create a new page within the service which summarises the previous week’s email notifications.
+
+We could explore this alongside the [notifications feature](/manage-teacher-training-applications/notifications/) which was designed but is not used in the live service.
 
 ### Adding more notifications to the weekly summary
 
-We could also consider including notifications which are not available individually.
+We could also consider including notifications in the email which are not available individually.
 
 For example, we could include applications where an offer has been made and the provider is waiting for the candidate’s decision.
 
 ### Reminding users to make decisions about applications 5 working days before they’re automatically rejected
 
-Users currently get an email reminder that there are 20 working days before an application is automatically rejected. But the application list highlights applications that have 5 days left before they’re automatically rejected.
+Users currently get an email reminder that there are 20 working days before an application will be automatically rejected. But the application list instead highlights applications when there are 5 working days left.
 
 We want to consider sending an email 5 working days before an application will be automatically rejected. This could be instead of the email 20 working days before, or in addition to it.
-
