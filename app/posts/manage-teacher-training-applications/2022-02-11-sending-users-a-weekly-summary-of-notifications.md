@@ -9,7 +9,7 @@ screenshots:
 
 {% from "email/macro.njk" import appEmail %}
 
-Users can choose to receive individual email notifications. They are sent when things happen which are not a result of action by their organisation or their partner organisations.
+Users can choose to receive individual email notifications.
 
 Notifications are sent when:
 
@@ -120,7 +120,7 @@ We could consider:
 
 - avoiding hiding URLs within the email
 - adding more notifications
-- reminding users to make decisions about applications 5 working days before they will be automatically rejected
+- reminding users to make decisions about applications 5 working days before they’re automatically rejected
 
 ### Avoiding hiding URLs within the email
 
@@ -136,9 +136,9 @@ We could also consider including notifications which are not available individua
 
 For example, we could include applications where an offer has been made and the provider is waiting for the candidate’s decision.
 
-### Reminding users to make decisions about applications 5 working days before they will be automatically rejected
+### Reminding users to make decisions about applications 5 working days before they’re automatically rejected
 
-Users currently get an email reminder that there are 20 working days until an application will be automatically rejected. But the application list highlights applications that have 5 days left before they’re automatically rejected.
+Users currently get an email reminder that there are 20 working days before an application is automatically rejected. But the application list highlights applications that have 5 days left before they’re automatically rejected.
 
 We want to consider sending an email 5 working days before an application will be automatically rejected. This could be instead of the email 20 working days before, or in addition to it.
 
