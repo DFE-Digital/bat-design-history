@@ -17,7 +17,7 @@ We have changed ‘applicants’ to ‘candidates’ on the following pages:
 
 ### About your organisation
 
-![Screenshot of 'About your organisation' page](about-your-org.png "About your organisation")
+![Screenshot of 'About your organisation' page](about-your-organisation.png "About your organisation")
 
 ### Course information
 
