@@ -2,31 +2,16 @@
 title: Changing 'applicants' to 'candidates'
 description: We changed ‘applicants’ to ‘candidates’ to match the wording on Manage and Apply
 date: 2022-02-17
+screenshots:
+  items:
+    - text: About your organisation
+      src: about-your-org.png
+    - text: Course information
+      src: course-information.png
 ---
 
-We were inconsistent with the way we referred to candidates in Publish. We used a mixture of ‘applicants’ and ‘candidates’.
+The way we refer to candidates was inconsistent to Apply for teacher training and Manage teacher training.
 
-Manage and Apply use ‘candidates’ so we changed the content on Publish to improve consistency across the service line.
-
-## What we changed
-
-We have changed ‘applicants’ to ‘candidates’ on the following pages:
-
-- About your organisation
-- Course information
-
-### About your organisation
-
-![Screenshot of 'About your organisation' page](about-your-org.png "About your organisation")
-
-### Course information
-
-![Screenshot of 'Course information' page](course-information.png "Course information")
-
-## Future considerations
-
-This content change is part of a wider project to align the way we refer to things in BAT.
+At the moment we use ‘applicants’ instead of ‘candidates’. We have updated the service to only refer to ‘candidates’.
 
 We know that providers often use multiple services so we want to make sure we’re being consistent in our use of terminology.
-
-Next, we will review how we refer to cycles. See the work done by the Manage team: [Referring to recruitment cycles](https://bat-design-history.netlify.app/manage-teacher-training-applications/referring-to-recruitment-cycles/).
