@@ -1,5 +1,5 @@
 ---
-title: Changing 'applicants' to 'candidates'
+title: Changing ‘applicants’ to ‘candidates’
 description: We changed ‘applicants’ to ‘candidates’ to match the wording used on the Apply and Manage services
 date: 2022-02-17
 screenshots:
