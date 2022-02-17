@@ -5,7 +5,7 @@ date: 2022-02-17
 screenshots:
   items:
     - text: About your organisation
-      src: about-your-org.png
+      src: about-your-organisation.png
     - text: Course information
       src: course-information.png
 ---
