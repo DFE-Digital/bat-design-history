@@ -12,6 +12,6 @@ screenshots:
 
 The way we refer to candidates was inconsistent with the Apply for teacher training and Manage teacher training applications services.
 
-At the moment we use ‘applicants’ instead of ‘candidates’. We have updated the service to only refer to ‘candidates’.
+At the moment we use ‘applicants’ instead of ‘candidates’. We’ve updated the service to only refer to ‘candidates’.
 
 We know that providers often use multiple services so we want to make sure we’re being consistent in our use of terminology.
