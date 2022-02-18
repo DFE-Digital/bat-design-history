@@ -79,7 +79,7 @@ For each of these examples, the search term gives us enough information to know 
 
 The autocomplete does not sort results. It returns results ordered in the same order as the source data. If the source data was alphabetical, then the results will be too. This means that more likely matches may appear some way down the list.
 
-Although alphabetical may seem natural, users tend to expect that autocompletes will return relevant results first. This is particularly important when there are lots of results - users don’t need to read many to get to the more relevant ones.
+Although alphabetical may seem natural, users tend to expect that autocompletes will return relevant results first. This is particularly important when there are lots of results - users don’t need to read many to get to the more relevant ones. If what the user has typed exactly matches an option, it would be sensible for that option to be suggested first.
 
 ### Support for synonyms
 
@@ -125,45 +125,72 @@ These would benefit from having synonyms added:
 
 Matches on each word of the search query — all words are required to match, but the order doesn’t matter.
 
+![Alt text.](autocomplete-before-degree-type-bachelor-art.png "Autocomplete before")
 
+![Alt text.](autocomplete-after-degree-type-bachelor-art.png "Autocomplete after")
 
 ### Prioritising better matches
 
 Results are sorted with better matches at the top — an exact match will be first, followed by matches against the name and then matches against the synonym.
 
 
+![Alt text.](autocomplete-before-degree-subject-spa.png "Autocomplete before")
 
+![Alt text.](autocomplete-after-degree-subject-spa.png "Autocomplete after")
 
 
 ### Punctuation-less searching
 
 Searches without punctuation so it doesn’t matter if a user types `master’s` or `masters` doesn’t matter.
 
+![Alt text.](autocomplete-before-degree-subject-dh-law.png "Autocomplete before")
+
+![Alt text.](autocomplete-after-degree-subject-dh-law.png "Autocomplete after")
+
+![Alt text.](autocomplete-before-degree-subject-quran.png "Autocomplete before")
+
+![Alt text.](autocomplete-after-degree-subject-quran.png "Autocomplete after")
 
 ### Matching with synonyms
 
 We’ve added built support for synonyms so related words can also be searched — `maths` and `mathematics` will both work. These can be added with data attributes.
+
+![Alt text.](autocomplete-before-degree-type-masters.png "Autocomplete before")
+
+![Alt text.](autocomplete-after-degree-type-masters.png "Autocomplete after")
 
 
 ### Boosting specific items
 
 Individual items can be boosted if they’re common. A service could use these to tune the autocomplete so the most popular options are more likely to be sorted to the top. We’ve boosted the degree types `Bachelor of Arts` and `Bachelor of Science` as they’re by far the most common.
 
+![Alt text.](autocomplete-before-boost.png "Autocomplete before")
+
+![Alt text.](autocomplete-after-boost.png "Autocomplete after")
 
 ### Ignoring stop words
 
-Queries including stop words (a, an, and, of, in, the) will work whether or not the user uses them, and regardless of if item's name has a stop word.
+Queries including stop words (a, an, and, of, in, the) will work whether or not the user uses them, and regardless of if the matched item's name has a stop word.
 
+![Alt text.](autocomplete-before-stop-words.png "Autocomplete before")
+
+![Alt text.](autocomplete-after-stop-words.png "Autocomplete after")
 
 ### Appending more information
 
-Individual items have the data attribute `data-append` to specify content to be shown at the end of the item. We use this to show the degree type abbreviation in bold. The styling is provided by the item.
+Individual items have the data attribute `data-append` to specify content to be shown at the end of the item. We use this to show the degree type abbreviation in bold.
 
+![Alt text.](autocomplete-before-append.png "Autocomplete before")
+
+![Alt text.](autocomplete-after-append.png "Autocomplete after")
 
 ### Showing hints
 
-Individual items can have a data attribute `data-hint` that provides more information to display visually. This is shown on a new line. The styling is provided by the item.
+Individual items can have a data attribute `data-hint` that provides more information to display visually. This is shown on a new line.
 
+![Alt text.](autocomplete-before-hints.png "Autocomplete before")
+
+![Alt text.](autocomplete-after-hints.png "Autocomplete after")
 
 —---
 
