@@ -125,9 +125,9 @@ These would benefit from having synonyms added:
 
 Matches on each word of the search query — all words are required to match, but the order doesn’t matter.
 
-![Alt text.](autocomplete-before-degree-type-bachelor-art.png "Autocomplete before")
+![Before: a search for ‘Bachelor art’ returns no results.](autocomplete-before-degree-type-bachelor-art.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-degree-type-bachelor-art.png "Autocomplete after")
+![After: a search for ‘Bachelor art’ returns four results.](autocomplete-after-degree-type-bachelor-art.png "Autocomplete after")
 
 ### Prioritising better matches
 
@@ -143,54 +143,54 @@ Results are sorted with better matches at the top — an exact match will be fir
 
 Searches without punctuation so it doesn’t matter if a user types `master’s` or `masters` doesn’t matter.
 
-![Alt text.](autocomplete-before-degree-subject-dh-law.png "Autocomplete before")
+![Before: a search for ‘dh law’ returns no results.](autocomplete-before-degree-subject-dh-law.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-degree-subject-dh-law.png "Autocomplete after")
+![After: a search for ‘dh law’ returns a result for ‘D.H. Lawrence Studies’](autocomplete-after-degree-subject-dh-law.png "Autocomplete after")
 
-![Alt text.](autocomplete-before-degree-subject-quran.png "Autocomplete before")
+![Before: a search for ‘quran’ returns no results.](autocomplete-before-degree-subject-quran.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-degree-subject-quran.png "Autocomplete after")
+![after: a search for ‘quran’ returns returns a result for ‘The Qur’an And Islamic Texts’.](autocomplete-after-degree-subject-quran.png "Autocomplete after")
 
 ### Matching with synonyms
 
 We’ve added built support for synonyms so related words can also be searched — `maths` and `mathematics` will both work. These can be added with data attributes.
 
-![Alt text.](autocomplete-before-degree-type-masters.png "Autocomplete before")
+![Before: a search for ‘masters’ returns no results.](autocomplete-before-degree-type-masters.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-degree-type-masters.png "Autocomplete after")
+![After: a search for ‘masters’ returns multiple results beginning ‘Master of…’.](autocomplete-after-degree-type-masters.png "Autocomplete after")
 
 
 ### Boosting specific items
 
 Individual items can be boosted if they’re common. A service could use these to tune the autocomplete so the most popular options are more likely to be sorted to the top. We’ve boosted the degree types `Bachelor of Arts` and `Bachelor of Science` as they’re by far the most common.
 
-![Alt text.](autocomplete-before-boost.png "Autocomplete before")
+![Before: a search for ‘bs’ returns ‘Bachelor of Surgery’ as the first result, and ‘Bachelor of Science’ as the third result.](autocomplete-before-boost.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-boost.png "Autocomplete after")
+![After: a search for ‘bs’ returns ‘Bachelor of Science’ as the first result.](autocomplete-after-boost.png "Autocomplete after")
 
 ### Ignoring stop words
 
 Queries including stop words (a, an, and, of, in, the) will work whether or not the user uses them, and regardless of if the matched item's name has a stop word.
 
-![Alt text.](autocomplete-before-stop-words.png "Autocomplete before")
+![Before: a search for ‘the university of bedford’ returns no results.](autocomplete-before-stop-words.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-stop-words.png "Autocomplete after")
+![After: a search for ‘the university of bedford’ returns ‘University of Bedfordshire’.](autocomplete-after-stop-words.png "Autocomplete after")
 
 ### Appending more information
 
 Individual items have the data attribute `data-append` to specify content to be shown at the end of the item. We use this to show the degree type abbreviation in bold.
 
-![Alt text.](autocomplete-before-append.png "Autocomplete before")
+![Before: a search for a type degree returns the full name of each degree type.](autocomplete-before-append.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-append.png "Autocomplete after")
+![After: a search for a type of degree returns the full name and the abbreviation for each degree type.](autocomplete-after-append.png "Autocomplete after")
 
 ### Showing hints
 
 Individual items can have a data attribute `data-hint` that provides more information to display visually. This is shown on a new line.
 
-![Alt text.](autocomplete-before-hints.png "Autocomplete before")
+![Before: a search for ‘level’ returns two results, though the word is not visible in the matched names.](autocomplete-before-hints.png "Autocomplete before")
 
-![Alt text.](autocomplete-after-hints.png "Autocomplete after")
+![After: a search for ‘level’ returns two results - each result has a hint shown on the line below with more information about the result, including the word ‘level’.](autocomplete-after-hints.png "Autocomplete after")
 
 —---
 
