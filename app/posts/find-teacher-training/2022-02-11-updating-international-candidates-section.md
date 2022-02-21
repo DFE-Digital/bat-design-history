@@ -16,15 +16,18 @@ related:
       href: /find-teacher-training/new-international-students-section/
 ---
 
-In August last year, we [added a new ‘International students’ section](/find-teacher-training/new-international-students-section/) as a place where we could explain things that people applying from outside the UK need to know, including whether the course offered visa sponsorship or not.
+We previously added an [‘International students’ section](/find-teacher-training/new-international-students-section/) to help candidates from outside the UK get the information they need, such as whether visa sponsorship is available for a course.
 
-We have renamed this section ‘International candidates’ for more consistency with the ‘candidate’ term we use elsewhere, and because users are not students at the point of applying, and may also apply for a salaried course where the term ‘student’ is less applicable.
+We have renamed this section ‘International candidates’ because:
+
+* it's more consistent with ‘candidate’, which we use throughout Apply for teacher training
+* candidates may apply for a salaried course where the term ‘student’ is less applicable
 
 We have also updated the content to:
 
 * explicitly explain that candidates already have the right to work and study if they have ‘indefinite leave to remain’
 * mention other visa types which do not need sponsorship, such as Graduate and Family visas
-* link to a guidance page on GOV.UK titled [Train to teach in England if you’re a non-UK citizen](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-if-youre-a-non-uk-citizen) which has more information.
+* link to GOV.UK guidance about [training to teach in England if you’re a non-UK citizen](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-if-youre-a-non-uk-citizen)
 
 
 Where the information from Publish indicates that the provider can sponsor the relevant visa for the course (Student or Skilled worker), we have made the guidance less certain:
