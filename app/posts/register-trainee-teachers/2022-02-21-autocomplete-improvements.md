@@ -1,7 +1,7 @@
 ---
 title: Improvements to our autocompletes
 description: To add
-date: 2022-02-18
+date: 2022-02-21
 related:
   items:
   - text: Using analytics to understand where our autocompletes could be improved
@@ -129,14 +129,13 @@ Matches on each word of the search query — all words are required to match, bu
 
 ![After: a search for ‘Bachelor art’ returns four results.](autocomplete-after-degree-type-bachelor-art.png "Autocomplete after")
 
-### Prioritising better matches
+### Prioritising closer matches
 
-Results are sorted with better matches at the top — an exact match will be first, followed by matches against the name and then matches against the synonym.
+Results are sorted with closer matches at the top — an exact match will be first, followed by matches against the name and then matches against the synonym.
 
+![Before: a search for ‘history’ returns many results, shown in alphabetical order. The list starts with ‘African history’, but does not include the more generic option ‘History’ as it is lower in the list.](autocomplete-before-degree-subject-history.png "Autocomplete before")
 
-![Alt text.](autocomplete-before-degree-subject-spa.png "Autocomplete before")
-
-![Alt text.](autocomplete-after-degree-subject-spa.png "Autocomplete after")
+![Before: a search for ‘history’ returns many results. ‘History’ is the first result, followed by several beginning ‘History of…’.](autocomplete-after-degree-subject-history.png "Autocomplete after")
 
 
 ### Punctuation-less searching
