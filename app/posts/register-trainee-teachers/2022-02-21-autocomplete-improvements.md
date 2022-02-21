@@ -22,7 +22,7 @@ For most projects you should be able to ‘drop-in’ our new code. You can add 
 
 ### Filtering available items
 
-The autocomplete takes your search query and looks for an *exact match* in the available entries. This excludes close matches or ones where there’s an extra word or punctuation in between.
+The autocomplete takes your search query and looks for an exact match in the available entries. This excludes close matches or ones where there’s an extra word or punctuation in between.
 
 For example, these searches will fail:
 
@@ -79,7 +79,7 @@ For each of these examples, the search term gives us enough information to know 
 
 The autocomplete does not sort results. It returns results ordered in the same order as the source data. If the source data was alphabetical, then the results will be too. This means that more likely matches may appear some way down the list.
 
-Although alphabetical may seem natural, users tend to expect that autocompletes will return relevant results first. This is particularly important when there are lots of results - users don’t need to read many to get to the more relevant ones. If what the user has typed exactly matches an option, it would be sensible for that option to be suggested first.
+Although alphabetical may seem natural, users tend to expect that autocompletes will return relevant results first. This is particularly important when there are lots of results - so that users do not need to scroll past low quality matches to get to the more likely ones. If what the user has typed exactly matches an option, it would be sensible for that option to be suggested first.
 
 ### Support for synonyms
 
@@ -189,7 +189,7 @@ Individual items can have a data attribute `data-hint` that provides more inform
 
 ![Before: a search for ‘level’ returns two results, though the word is not visible in the matched names.](autocomplete-before-hints.png "Autocomplete before")
 
-![After: a search for ‘level’ returns two results - each result has a hint shown on the line below with more information about the result, including the word ‘level’.](autocomplete-after-hints.png "Autocomplete after")
+![After: a search for ‘level’ returns two results. Each result has a hint shown on the line below with more information about the result, including the word ‘level’.](autocomplete-after-hints.png "Autocomplete after")
 
 —---
 
