@@ -1,6 +1,6 @@
 ---
 title: Improvements to our autocompletes
-description: To add
+description: Looking through individual improvements we’ve made to our autocompletes to better support our users
 date: 2022-02-21
 related:
   items:
