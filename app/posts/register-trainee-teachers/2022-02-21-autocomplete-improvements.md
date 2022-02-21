@@ -191,8 +191,6 @@ Individual items can have a data attribute `data-hint` that provides more inform
 
 ![After: a search for ‘level’ returns two results. Each result has a hint shown on the line below with more information about the result, including the word ‘level’.](autocomplete-after-hints.png "Autocomplete after")
 
-—---
-
 ## Work for teams to do
 
 Much of the improvements teams can expect to see depend on them optimising it by providing suitable synonyms and boosting likely results. We’ve learned a lot about what users are likely to type in to our autocompletes by watching users use them in user research, [analysing free text responses from Apply](/register-trainee-teachers/investigating-free-text-responses-from-apply/), and by [adding analytics to our autocompletes](/register-trainee-teachers/autocomplete-analytics/) to see where users are struggling.
