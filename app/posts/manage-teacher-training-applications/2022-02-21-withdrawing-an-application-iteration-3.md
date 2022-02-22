@@ -4,7 +4,20 @@ description: Allowing users to withdraw an application after making an offer, ev
 date: 2022-02-21
 screenshots:
   items:
-    - text: Timeline
+    - text: Application details
+    - text: Reasons (before offer)
+      src: reasons.png
+    - text: Check answers (before offer)
+      src: check-answers.png
+    - text: Exit page
+      src: exit.png
+    - text: Reject application
+      src: reject.png
+    - text: Reasons (after offer)
+      src: reasons--offered.png
+    - text: Check answers (after offer)
+      src: check-answers--offered.png
+    - text: Feedback
 ---
 
 At the moment we only let users withdraw an application at the candidate’s request.
