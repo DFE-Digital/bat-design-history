@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "private": true,
   "engines": {
-    "node": "^15.0.0"
+    "node": "16.14.0"
   },
   "description": "A history of the designs for the Find and Apply services",
   "keywords": [
