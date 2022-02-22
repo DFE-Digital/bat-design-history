@@ -15,7 +15,7 @@ As a result, the application stays at the top of the application list waiting to
 
 ## What we changed
 
-To give providers a way to withdraw an application at any point in the process we’ve changed ‘Withdraw at candidate’s request’ to ‘Withdraw application’. We’ve also changed the journey which users enter after clicking the link.
+To give providers a way to withdraw an application at any point in the process we changed ‘Withdraw at candidate’s request’ to ‘Withdraw application’. We also changed the journey which users enter after clicking the link.
 
 ## How it works
 
@@ -63,22 +63,32 @@ We want to consider:
 
 ### Changing the ‘withdraw offer’ flow
 
-At the moment the ‘withdraw offer’ flow will end the application and give any feedback to the candidate.
+At the moment the ‘withdraw offer’ flow will end the application and send feedback to the candidate.
 
-But ‘withdraw application’ now gives users the same functionality. It’s confusing to give users 2 methods to achieve the same thing.
+But the ‘withdraw application’ flow now gives users the same functionality. It’s confusing to give users 2 methods to achieve the same thing.
 
-We also know that some users expect ‘withdraw offer’ to undo the offer rather than end the application. So we want to consider changing the ‘withdraw offer’ flow so that it undoes the offer rather than ending the application.
+We also know that some users expect ‘withdraw offer’ to undo the offer rather than end the application. So we want to consider changing the ‘withdraw offer’ flow so that it cancels the offer without ending the application.
 
 ### Moving the ‘withdraw application’ link
 
-Since ‘withdraw application’ gives users a way to end an application no matter the status, we want to consider moving the link to the top to make it accessible from any page of the application.
+Since the ‘withdraw application’ flow gives users a way to end an application no matter the status, we want to consider moving the link to the top to make it accessible from any page of the application.
 
 ### Removing the need to confirm a deferred offer
 
-An offer is legally binding, even if it’s deferred.
+When we initially added the flow for deferring an offer, we added a step that meant providers would have to confirm the deferred offer at the start of the next recruitment cycle.
 
-We currently ask users to confirm deferred offers in case the course is no longer available. We could instead automatically confirm deferred offers if the case is available in the new recruitment cycle.
+This was because the course may not be available in the next recruitment cycle.
+
+We intended providers to confirm all deferred offers at the start of the next recruitment cycle without speaking to the candidate.
+
+But in reality many providers contact the candidate before confirming their deferred offer in order to make sure they take up their place.
+
+This is at odds with the fact that an accepted offer is legally binding, even if deferred.
+
+Instead of asking users to confirm the deferred offer, we want to consider automatically confirm deferred offers if the course is available in the next recruitment cycle.
 
 ### Asking candidates to confirm that they want to take up their deferred offer
 
-We could ask candidates whether they still want to study the course at the start of the new recruitment cycle.
+After deferring an offer, some candidates fall out of contact or decide not to take up their offer.
+
+Instead of getting providers to contact the candidate, we want to consider letting providers send out requests to the candidate to confirm their deferred offer during the next recruitment cycle.
