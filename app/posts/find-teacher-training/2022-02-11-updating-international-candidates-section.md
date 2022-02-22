@@ -16,7 +16,7 @@ related:
       href: /find-teacher-training/new-international-students-section/
 ---
 
-We previously added an [‘International students’ section](/find-teacher-training/new-international-students-section/) to help candidates from outside the UK get the information they need, such as whether visa sponsorship is available for a course.
+We previously added an [‘International students’ section](/find-teacher-training/new-international-students-section/) to help candidates from outside the UK get the information they need. This includes letting them know whether visa sponsorship is available for a course.
 
 We have renamed this section ‘International candidates’ because:
 
