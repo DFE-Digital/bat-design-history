@@ -28,11 +28,13 @@ As a result, the application stays at the top of the application list waiting to
 
 ## What we changed
 
-To give providers a way to withdraw an application at any point in the process we changed ‘Withdraw at candidate’s request’ to ‘Withdraw application’. We also changed the journey which users enter after clicking the link.
+We changed ‘Withdraw at candidate’s request’ to ‘Withdraw application’ to give providers a way to withdraw an application at any point.
+
+We also changed the pages within the withdrawal journey.
 
 ## How it works
 
-When the user clicks ‘Withdraw application’ they’re asked to give a reason. The reasons available and the journey which follows depend on whether the provider has made an offer.
+When the user withdraws an application they’re asked to give a reason. The reasons available and the journey which follows depend on whether the provider has made an offer.
 
 ### The provider has not made an offer
 
@@ -55,7 +57,7 @@ After an offer has been made the reasons for withdrawing an application are:
 
 If the user selects ‘Other’, a text box is revealed so they can give details. This field is required.
 
-Clicking the “Continue” button takes the user to the ‘check answers’ page.
+Clicking ‘Continue’ takes the user to the check answers page.
 
 The warning text on the page is based on whether the candidate has upcoming interviews. The possible versions of the text are:
 
@@ -63,28 +65,32 @@ The warning text on the page is based on whether the candidate has upcoming inte
 - The candidate will be sent emails to tell them why you withdrew their application and that the upcoming interview has been cancelled.
 - The candidate will be sent emails to tell them why you withdrew their application and that the upcoming interviews have been cancelled.
 
-Clicking ‘Withdraw application’ on the check answers page takes the user to the feedback page. It displays the feedback that was sent to the candidate. A flash message tells the user that the application has been withdrawn.
+Clicking ‘Withdraw application’ on the check answers page takes the user to the feedback page. It displays the feedback that was sent to the candidate. A success message tells the user that the application has been withdrawn.
 
 ## Further considerations
 
 We want to consider:
 
-- changing the ‘withdraw offer’ flow
-- moving the ‘withdraw application’ link
+- changing the withdraw offer flow
+- moving the link to withdraw an application
 - removing the need to confirm a deferred offer
 - asking candidates to confirm that they want to take up their deferred offer
 
-### Changing the ‘withdraw offer’ flow
+### Changing the withdraw offer flow
 
-At the moment the ‘withdraw offer’ flow will end the application and send feedback to the candidate.
+At the moment the withdraw offer flow ends the application and sends feedback to the candidate.
 
-But the ‘withdraw application’ flow now gives users the same functionality. It’s confusing to give users 2 methods to achieve the same thing.
+Since the newly designed withdraw application flow lets users withdraw an application after an offer has been made, there are now 2 ways to achieve the same thing.
 
-We also know that some users expect ‘withdraw offer’ to undo the offer rather than end the application. So we want to consider changing the ‘withdraw offer’ flow so that it cancels the offer without ending the application.
+We also know that some users expect withdrawing an offer to undo the offer rather than end the application.
 
-### Moving the ‘withdraw application’ link
+So we want to consider changing the flow so that it cancels the offer without ending the application. This would revert the application back to its previous status.
 
-Since the ‘withdraw application’ flow gives users a way to end an application no matter the status, we want to consider moving the link to the top to make it accessible from any page of the application.
+### Moving the link to withdraw application
+
+The withdraw application flow gives users a way to end an application in any status.
+
+We want to consider moving the link to the top to make it accessible from any page of the application.
 
 ### Removing the need to confirm a deferred offer
 
@@ -92,16 +98,14 @@ When we initially added the flow for deferring an offer, we added a step that me
 
 This was because the course may not be available in the next recruitment cycle.
 
-We intended providers to confirm all deferred offers at the start of the next recruitment cycle without speaking to the candidate.
+We intended that providers would confirm deferred offers at the start of the next recruitment cycle without speaking to the candidate.
 
-But in reality many providers contact the candidate before confirming their deferred offer in order to make sure they take up their place.
+However, research shows that many providers contact the candidate before confirming their deferred offer in order to make sure they intend to take up their place. We’re not sure that providers should be doing this because an accepted offer is legally binding, even if it’s deferred.
 
-This is at odds with the fact that an accepted offer is legally binding, even if deferred.
-
-Instead of asking users to confirm the deferred offer, we want to consider automatically confirm deferred offers if the course is available in the next recruitment cycle.
+Instead of asking users to confirm the deferred offer, we want to consider automatically confirming deferred offers if the course is available in the next recruitment cycle.
 
 ### Asking candidates to confirm that they want to take up their deferred offer
 
 After deferring an offer, some candidates fall out of contact or decide not to take up their offer.
 
-Instead of getting providers to contact the candidate, we want to consider letting providers send out requests to the candidate to confirm their deferred offer during the next recruitment cycle.
+We want to consider letting providers send out requests to candidates to confirm their deferred offers during the next recruitment cycle.
