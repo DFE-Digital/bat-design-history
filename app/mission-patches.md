@@ -60,6 +60,19 @@ The mascot for Find (and Publish) is a canary. When we launched Publish we weren
 
 * * *
 
+## Publish teacher training courses
+
+The mascot for Publish is a penguin.
+
+{{ appGallery({
+  items: [{
+    text: "Publish teacher training courses",
+    caption: "PLACEHOLDER This patch celebrated the start of the 2021-22 recruitment cycle. October 2021"
+  }]
+}) }}
+
+* * *
+
 ## Register trainee teachers
 
 The mascot for Register is an octopus called Inky. We chose an octopus because they have multiple hearts which symbolises how multiple teams combined to form Publish/Register. Their many legs symbolise how we’re joining up many dots for internal and external stakeholders.
@@ -80,7 +93,7 @@ The team was formed during a period where they couldn’t be physically near, so
 
 ## Get Into Teaching
 
-The mascot for Get Into Teaching is called Tian. We chose a mole due to the fact that we were beginning to open up more as a society, much like a mole surfacing from underground. 
+The mascot for Get Into Teaching is called Tian. We chose a mole due to the fact that we were beginning to open up more as a society, much like a mole surfacing from underground.
 
 We chose the plaid shirt and mug due to the fact that several team members shared this 'look' as a profile picture on Slack.
 
