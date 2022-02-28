@@ -1,7 +1,7 @@
 ---
 title: Updating the ‘International candidates’ section
 description: Why we have updated and renamed this section
-date: 2022-02-11
+date: 2022-02-28
 screenshots:
   items:
     - text: International candidates - sponsorship may be available
