@@ -14,7 +14,7 @@ We have:
 
 - corrected the guidance on the ‘Add location’ page
 - corrected the guidance on the ‘Locations’ page
-- moved the guidance on the ‘Select the locations for this course’ page to below the table
+- moved the guidance on the ‘Select the locations for this course’ page to below the form
 
 ### Add a location page
 
