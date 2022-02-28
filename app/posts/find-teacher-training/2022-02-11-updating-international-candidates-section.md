@@ -34,7 +34,7 @@ Where the information from Publish indicates that the provider can sponsor the r
 
 > Before you apply for this course, contact us to check [visa type] visa sponsorship is available.
 
-This is because visa sponsorship availability is more complicated than we previously believed, and depends upon either who the accrediting body is (for Student visas) or who the employer is (for Skilled worker visas), and therefore the information as collected through Publish may not be accurate.
+This is because visa sponsorship availability can vary across courses based upon who the accrediting body is (for Student visas) or who the employer is (for Skilled worker visas).
 
 We plan to make some changes to Publish, so that we can offer candidates more certainty in the future. 
 
