@@ -30,7 +30,7 @@ We have also updated the content to:
 * link to GOV.UK guidance about [training to teach in England if you’re a non-UK citizen](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-if-youre-a-non-uk-citizen)
 
 
-Where the information from Publish indicates that the provider can sponsor the relevant visa for the course (Student or Skilled worker), we have made the guidance less certain:
+Where the information from Publish indicates that the provider can sponsor the relevant visa for the course (Student or Skilled Worker), we have made the guidance less certain:
 
 > Before you apply for this course, contact us to check [visa type] visa sponsorship is available.
 
