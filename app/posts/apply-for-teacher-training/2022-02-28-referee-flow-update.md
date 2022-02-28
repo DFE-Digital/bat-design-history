@@ -6,11 +6,13 @@ date: 2022-02-28
 
 We made some changes to the way that references are given on Apply, after noticing that we were receiving a lot of support requests relating to references.
 
-Several people got in touch to say that they had accidentally refused to give a candidate a reference. Previously there were two links in the email to potential referees, one which led to a form collecting a reference, and one which led to a form where they could confirm that they were unable to give a reference.
+Several people got in touch to say that they had accidentally refused to give a candidate a reference. Previously there were 2 links in the email to potential referees: one which led to a form collecting a reference, and one which led to a form where they could confirm that they were unable to give a reference.
 
-Even though declining a reference required someone to first click a confirmation button, our hypothesis was that people were scanning the email, clicking the second link, and then clicking the confirmation button without full reading the content.
+Even though declining a reference required someone to first click a confirmation button, our hypothesis was that people were scanning the email, clicking the second link, and then clicking the confirmation button without fully reading the content.
 
-To resolve this, we updated the email so that it only contains a single link, and that people are asked whether or not they can give a reference as an explicit question, which then still required a confirmation button.
+To resolve this, we edited the user journey so that:
+* there is only one link in the email
+* the reference form asks whether you can give a reference
 
 ![Screenshot showing updated email sent to referees](referee-email.png "Updated email content")
 
