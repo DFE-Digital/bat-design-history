@@ -145,7 +145,7 @@ The 'becoming a teacher' services are part of a broader range of digital service
 
 {% macro serviceList(params) %}
   <p class="govuk-body-s">For teachers:</p>
-  <ul class="govuk-list govuk-!-font-size-16">
+  <ul class="govuk-list govuk-list--bullet govuk-!-font-size-16">
     {% for service in services[params.phase].teachers %}
       <li>
         {% if service.href %}
@@ -159,7 +159,7 @@ The 'becoming a teacher' services are part of a broader range of digital service
 
   {% if services[params.phase].providers %}
   <p class="govuk-body-s">For schools and providers:</p>
-  <ul class="govuk-list govuk-!-font-size-16">
+  <ul class="govuk-list govuk-list--bullet govuk-!-font-size-16">
     {% for service in services[params.phase].providers %}
       <li>
         {% if service.href %}
@@ -199,7 +199,7 @@ The 'becoming a teacher' services are part of a broader range of digital service
 
 <h3 class="govuk-body">Database services</h3>
 
-<ul class="govuk-list govuk-!-font-size-16">
+<ul class="govuk-list govuk-list--bullet govuk-!-font-size-16">
   <li>Get Into Teaching CRM</li>
   <li>Database of trainee teachers and providers</li>
   <li>Database of Qualified Teachers</li>
