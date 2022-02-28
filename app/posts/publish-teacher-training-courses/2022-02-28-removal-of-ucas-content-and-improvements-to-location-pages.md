@@ -19,6 +19,7 @@ The body copy was incorrect. It read:
 “Once a location is added (and assigned to a course), candidates can choose it as their preferred place of training when completing the UCAS application form.
 
 When you’ve added this location you can assign it to a course from the ‘Basic details’ tab on the course page.”
+
 We corrected the guidance and made the copy more concise.
 
 We changed the button from ‘Save’ to ‘Add location’.
