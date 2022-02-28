@@ -5,7 +5,9 @@ date: 2022-02-28
 ---
 
 We updated the content on the ‘Locations’ pages in Publish to remove mention of UCAS. We also made some minor changes to improve the comprehension and clarity of the content on the ‘Location’ pages.
+
 ## What we changed
+
 We have:
 
 - corrected the guidance on the ‘Add a location’ page
