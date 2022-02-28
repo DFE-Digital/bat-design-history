@@ -1,16 +1,18 @@
 ---
-title: Removal of UCAS content and improvements to Location pages
-description: We updated the location pages remove mention of UCAS and improved the content
+title: Removing UCAS content
+description: We updated the location pages to remove all mentions of UCAS and made other changes to the content
 date: 2022-02-28
 ---
 
-We updated the content on the ‘Locations’ pages in Publish to remove mention of UCAS. We also made some minor changes to improve the comprehension and clarity of the content on the ‘Location’ pages.
+We updated the content on the ‘Locations’ pages to remove all mentions of UCAS.
+
+We also made some minor changes to improve the comprehension and clarity of the content on the ‘Location’ pages.
 
 ## What we changed
 
 We have:
 
-- corrected the guidance on the ‘Add a location’ page
+- corrected the guidance on the ‘Add location’ page
 - corrected the guidance on the ‘Locations’ page
 - moved the guidance on the ‘Select the locations for this course’ page to below the table
 
@@ -26,7 +28,7 @@ We corrected the guidance and made the copy more concise.
 
 We changed the button from ‘Save’ to ‘Add location’.
 
-![Add a location page](add-a-location.png "Add a location page")
+![Add a location page](locations--add-location.png "Add a location page")
 
 ### Locations page
 
@@ -36,10 +38,10 @@ We also improved the copy to make it clearer and more concise.
 
 We updated the button to ‘Add location’.
 
-![Locations page](locations.png "Locations page")
+![Locations page](locations--list.png "Locations page")
 
 ### Select the locations for this course page
 
 We moved the guidance, “Manage all your locations to add to or edit this list.” to the bottom of the page. The content was interrupting the flow of information on the page and could have been confusing for users using screen readers.
 
-![Select the locations for this course page](select-locations.png "Select the locations for this course page")
+![Select the locations for this course page](courses--select-location.png "Select the locations for this course page")
