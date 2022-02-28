@@ -36,6 +36,6 @@ We also add the following caveat when indicating that visa sponsorship is availa
 
 This is because visa sponsorship availability can vary across courses based upon who the accrediting body is (for Student visas) or who the employer is (for Skilled worker visas).
 
-We plan to make some changes to Publish, so that we can offer candidates more certainty in the future.
+We plan to make some changes to Publish so that we can offer candidates more certainty in the future.
 
 We have also added a sub-section titled ‘International qualifications’ which gives more explicit information about statements of comparability from UK ENIC, including that candidates may be able to get this for free.
