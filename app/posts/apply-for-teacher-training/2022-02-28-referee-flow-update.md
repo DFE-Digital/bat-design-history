@@ -11,6 +11,7 @@ Several people got in touch to say that they had accidentally refused to give a 
 Even though declining a reference required someone to first click a confirmation button, our hypothesis was that people were scanning the email, clicking the second link, and then clicking the confirmation button without fully reading the content.
 
 To resolve this, we edited the user journey so that:
+
 * there is only one link in the email
 * the reference form asks whether you can give a reference
 
