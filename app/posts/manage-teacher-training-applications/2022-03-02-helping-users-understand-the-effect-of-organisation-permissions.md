@@ -26,9 +26,4 @@ We added a guidance page to ‘How to use this service’, explaining that:
 
 ## Future considerations
 
-We do not want to rely on guidance to help users understand how to use the service.
-
-We would like to improve how permissions work by either:
-
-- improving way we use the existing permissions model
-- using a simpler permissions model
+We do not want to rely on guidance to help users understand how to use the service. We would like to introduce a simpler permissions model.
