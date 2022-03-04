@@ -133,19 +133,21 @@ The user can cancel the change using the ‘Cancel’ link. The changes will not
 In future we may consider:
 
 - explaining why SCITTs cannot edit their Student visa answer in organisation settings
-- skipping the Student visa question if the provider is a SCITT
-- allowing HEIs to conditionally offer visa sponsorships to lead schools they ratify
+- skipping the Student visa question if the training provider or accredited body is a SCITT
+- giving HEIs the option to allow their training providers the ability to sponsor student visas
 
 ### Explaining why SCITTs cannot edit their Student visa answer in organisation settings
 
-Some users may not know that immigration rules prevent state-funded schools from sponsoring Student visas. We may consider showing the reason.
+Some users may not know that immigration rules prevent state-funded schools from sponsoring Student visas. We may consider showing the reason in their organisation’s settings.
 
-### Skipping the Student visa question if the provider is a SCITT
+### Skipping the Student visa question if the training provider or accredited body is a SCITT
 
-Since SCITTs cannot sponsor Student visas, if they create a self-ratified course that is fee-paying, the answer to whether they can sponsor a Student visa will always be “no”. In this case, they do not need to answer the question and we can default it to “no - cannot sponsor”.
+SCITTs cannot sponsor Student visas. We may consider removing the Student visa question in the new and edit course flows, if the funding type is fee paying and the training provider or accredited body is a SCITT.
 
-### Allowing HEIs to conditionally offer visa sponsorships to lead schools they ratify
+In this case, they do not need to answer the question and we can default it to “no - cannot sponsor”.
 
-HEIs do not need to offer visa sponsorship to their training providers, even if they are able to sponsor visas.
+### Giving HEIs the option to allow their training providers the ability to sponsor Student visas
+
+HEIs do not need to sponsor visas for courses their training providers offer.
 
 We may consider allowing HEIs to specify which of their training providers they will be willing to sponsor candidates’ visas.
