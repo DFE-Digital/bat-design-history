@@ -43,7 +43,7 @@ The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a be
 
 ## Find postgraduate teacher training
 
-The mascot for Find (and Publish) is a canary. When we launched Publish we weren’t sure how much our recent integration with DfE Sign-in would work. Our first few providers were used as [canaries](https://en.wikipedia.org/wiki/Sentinel_species) to test if they could access service – we had many dead canaries until we got the process right and could roll out the service to everyone.
+The mascot for Find is a canary. When we launched Publish we weren’t sure how much our recent integration with DfE Sign-in would work. Our first few providers were used as [canaries](https://en.wikipedia.org/wiki/Sentinel_species) to test if they could access service – we had many dead canaries until we got the process right and could roll out the service to everyone.
 
 {{ appGallery({
   items: [{
@@ -62,12 +62,14 @@ The mascot for Find (and Publish) is a canary. When we launched Publish we weren
 
 ## Publish teacher training courses
 
-The mascot for Publish is a penguin.
+Pip the Publish penguin represents resilience and focus. In freezing temperatures, penguins rely on excellent teamwork by huddling together to keep warm. The heart celebrates the team huddling together to “give Publish some love”, while the bats are a reference to the wider service line. The igloos symbolise the building blocks of the API.
+
+Penguins are streamlined, efficient and resourceful; just like we want to Publish to be.
 
 {{ appGallery({
   items: [{
     text: "Publish teacher training courses",
-    caption: "PLACEHOLDER This patch celebrated the start of the 2021-22 recruitment cycle. October 2021"
+    caption: "This patch celebrated the start of the 2021-22 recruitment cycle. October 2021"
   }]
 }) }}
 
