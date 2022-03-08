@@ -72,18 +72,17 @@ For example, these searches will fail:
   ]
 }) }}
 
-
 For each of these examples, the search term gives us enough information to know what the user meant, but the filtering algorithm is too strict.
 
 ### Sorting filtered results
 
 The autocomplete does not sort results. It returns results ordered in the same order as the source data. If the source data was alphabetical, then the results will be too. This means that more likely matches may appear some way down the list.
 
-Although alphabetical may seem natural, users tend to expect that autocompletes will return relevant results first. This is particularly important when there are lots of results - so that users do not need to scroll past low quality matches to get to the more likely ones. If what the user has typed exactly matches an option, it would be sensible for that option to be suggested first.
+Although alphabetical may seem natural, users tend to expect that autocompletes will return relevant results first. This is particularly important when there are lots of results. If what the user has typed exactly matches an option, it would be sensible for that option to be suggested first.
 
 ### Support for synonyms
 
-The default sorting algorithm uses the list of items with no in-built support for synonyms. If we know users refer to the same thing by two different names, we should aim to support both of those.
+The default sorting algorithm uses the list of items with no in-built support for synonyms. If we know users refer to the same thing by two different names, we should aim to recognise both of those.
 
 These would benefit from having synonyms added:
 
@@ -117,13 +116,11 @@ These would benefit from having synonyms added:
   ]
 }) }}
 
-
-
 ## Our revised algorithm
 
 ### Matching each word in the query
 
-Matches on each word of the search query — all words are required to match, but the order doesn’t matter.
+Matches on each word of the search query — all words are required to match, but the order does not matter.
 
 ![Before: a search for ‘Bachelor art’ returns no results.](autocomplete-before-degree-type-bachelor-art.png "Autocomplete before")
 
@@ -137,10 +134,9 @@ Results are sorted with closer matches at the top — an exact match will be fir
 
 ![Before: a search for ‘history’ returns many results. ‘History’ is the first result, followed by several beginning ‘History of…’.](autocomplete-after-degree-subject-history.png "Autocomplete after")
 
-
 ### Punctuation-less searching
 
-Searches without punctuation so it doesn’t matter if a user types `master’s` or `masters` doesn’t matter.
+Searches without punctuation so it does not matter if a user types `master’s` or `masters`.
 
 ![Before: a search for ‘dh law’ returns no results.](autocomplete-before-degree-subject-dh-law.png "Autocomplete before")
 
@@ -152,16 +148,15 @@ Searches without punctuation so it doesn’t matter if a user types `master’s`
 
 ### Matching with synonyms
 
-We’ve added built support for synonyms so related words can also be searched — `maths` and `mathematics` will both work. These can be added with data attributes.
+We’ve added support for synonyms so related words can also be searched — `maths` and `mathematics` will both work. These can be added with data attributes.
 
 ![Before: a search for ‘masters’ returns no results.](autocomplete-before-degree-type-masters.png "Autocomplete before")
 
 ![After: a search for ‘masters’ returns multiple results beginning ‘Master of…’.](autocomplete-after-degree-type-masters.png "Autocomplete after")
 
-
 ### Boosting specific items
 
-Individual items can be boosted if they’re common. A service could use these to tune the autocomplete so the most popular options are more likely to be sorted to the top. We’ve boosted the degree types `Bachelor of Arts` and `Bachelor of Science` as they’re by far the most common.
+Individual items can be boosted if they’re common. A service could use these to tune the autocomplete so the most popular options are more likely to be sorted to the top. In Register we’ve boosted the degree types `Bachelor of Arts` and `Bachelor of Science` as they’re by far the most common.
 
 ![Before: a search for ‘bs’ returns ‘Bachelor of Surgery’ as the first result, and ‘Bachelor of Science’ as the third result.](autocomplete-before-boost.png "Autocomplete before")
 
@@ -169,7 +164,7 @@ Individual items can be boosted if they’re common. A service could use these t
 
 ### Ignoring stop words
 
-Queries including stop words (a, an, and, of, in, the) will work whether or not the user uses them, and regardless of if the matched item's name has a stop word.
+Queries including stop words (the, of, in, and, at, &) will work whether or not the user uses them, and regardless of if the matched item’s name has a stop word.
 
 ![Before: a search for ‘the university of bedford’ returns no results.](autocomplete-before-stop-words.png "Autocomplete before")
 
@@ -177,7 +172,7 @@ Queries including stop words (a, an, and, of, in, the) will work whether or not 
 
 ### Appending more information
 
-Individual items have the data attribute `data-append` to specify content to be shown at the end of the item. We use this to show the degree type abbreviation in bold.
+Individual items can have the data attribute `data-append` to specify content to be shown at the end of the item. We use this to show the degree type abbreviation in bold.
 
 ![Before: a search for a type degree returns the full name of each degree type.](autocomplete-before-append.png "Autocomplete before")
 
@@ -185,7 +180,7 @@ Individual items have the data attribute `data-append` to specify content to be 
 
 ### Showing hints
 
-Individual items can have a data attribute `data-hint` that provides more information to display visually. This is shown on a new line.
+Individual items can have a data attribute `data-hint` that provides more information to display visually on the next line.
 
 ![Before: a search for ‘level’ returns two results, though the word is not visible in the matched names.](autocomplete-before-hints.png "Autocomplete before")
 

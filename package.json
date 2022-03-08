@@ -46,7 +46,7 @@
     "accessible-autocomplete": "^2.0.3",
     "fs-extra": "^10.0.0",
     "govuk-frontend": "^3.13.0",
-    "http-server": "^0.12.3",
+    "http-server": "^14.1.0",
     "luxon": "^2.0.1",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.1.2",
@@ -57,13 +57,13 @@
     "markdown-it-mark": "^3.0.1",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
-    "markdown-it-table-of-contents": "^0.5.2",
-    "node-sass": "^6.0.1",
+    "markdown-it-table-of-contents": "^0.6.0",
+    "node-sass": "^7.0.1",
     "npm-run-all": "^4.1.5",
     "rollup": "^2.55.1"
   },
   "devDependencies": {
-    "markdownlint-cli": "^0.28.1",
+    "markdownlint-cli": "^0.31.1",
     "standard": "^16.0.3",
     "webshot-node": "^0.18.2"
   },
