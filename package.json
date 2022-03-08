@@ -5,7 +5,7 @@
   "engines": {
     "node": "16.14.0"
   },
-  "description": "A history of the designs for the Find and Apply services",
+  "description": "A history of the designs for the Find, Apply, Publish, Manage, Register and Support services",
   "keywords": [
     "becoming-a-teacher",
     "govuk",
@@ -40,7 +40,7 @@
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.3.2",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "@rollup/plugin-commonjs": "^20.0.0",
     "@rollup/plugin-node-resolve": "^13.0.4",
     "accessible-autocomplete": "^2.0.3",
