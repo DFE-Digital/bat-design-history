@@ -1,7 +1,7 @@
 ---
 title: Apply again to 3 courses
 description: We changed our policy so that candidates can apply to 3 courses when applying again.
-date: 2022-02-28
+date: 2022-03-10
 ---
 
 Previously, candidates could apply to one course when applying again.
