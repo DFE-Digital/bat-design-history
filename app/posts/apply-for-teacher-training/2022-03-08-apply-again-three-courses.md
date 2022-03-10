@@ -40,7 +40,7 @@ More applications may actually benefit providers, giving them more candidates to
 
 ![Course review page where candidates are prompted to add one more course after selecting 2 courses](prompt-to-add-one-more-course.png "After selecting 2 courses, candidates are prompted to add one more course.")
 
-![Email to candidate when their application is not successful, inviting them to apply again and choose 3 courses.](apply-again-email.png "When an application ends, candidates are invited to apply again and choose 3 courses.")
+![Email candidates receive When their application ends, where they are encouraged to apply again and choose 3 courses](apply-again-email.png "When their application ends, candidates are encouraged to apply again and choose 3 courses.")
 
 ## Outcome of the policy change so far
 
