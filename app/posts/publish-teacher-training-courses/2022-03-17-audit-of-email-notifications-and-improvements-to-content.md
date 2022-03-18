@@ -71,7 +71,7 @@ When a user changes the subject, the title of the course also changes.
 
 Saving the change updates the course on Find without the need to re-publish the course.
 
-As we are notifying users about this in the ‘Course updated’ email (see below) we will remove the ‘Course subject change’ notification.
+As we are notifying users about this in the ‘Course updated’ email we will remove the ‘Course subject change’ notification.
 
 {{ appEmail({
   subject: "((previous_course_name)) (((course_code))) subject has been updated",
@@ -113,11 +113,16 @@ Saving the change updates the course on Find without the need to re-publish the 
 
 Dear colleague,
 
+((course_name)) (((course_code))) has been updated - your organisation is the accredited body for this course.
+
+((provider_name)) changed the ((attribute_changed)) from “((original_value))” to “((updated_value))“.
+
 View the course at ((course_url)).
 
 If you have any questions, contact ((provider_name)).
 
 Regards,
+
 The Becoming a Teacher team
 
 ---
@@ -138,13 +143,14 @@ If a user withdraws a course, they are not able to reinstate it themselves - the
 
 Dear colleague,
 
-((course_name)) (((course_code))) has been updated - your organisation is the accredited body for this course.
+((provider_name)) withdrew ((course_name)) (((course_code))) - your organisation is the accredited body.
 
-((provider_name)) changed the ((attribute_changed)) from “((original_value))” to “((updated_value))”.
+This course is no longer visible on Find and candidates cannot apply to it. It also can’t be republished or reopened to applicants in the current cycle.
 
 If you have any questions, contact ((provider_name)).
 
 Regards,
+
 The Becoming a Teacher team
 
 ---
@@ -168,11 +174,14 @@ When a user makes a change to a course description field, the status of the cour
 
 Dear colleague,
 
+((provider_name)) published ((course_name)) (((course_code))) - your organisation is the accredited body for this course.
+
 View the course at ((course_url)).
 
 If you have any questions, contact ((provider_name)).
 
 Regards,
+
 The Becoming a Teacher team
 
 ---
@@ -200,11 +209,16 @@ We do not send a notification when:
 
 Dear colleague,
 
+((provider_name)) changed the location of ((course_name)) (((course_code))) - your organisation is the accredited body for this course.
+
+The location has been changed from “((previous_site_names))” to “((updated_site_names))”.
+
 View the course at ((course_url)).
 
 If you have any questions, contact ((provider_name)).
 
 Regards,
+
 The Becoming a Teacher team
 
 ---
@@ -225,11 +239,18 @@ Saving the change updates the course on Find without the need to re-publish the 
 
 Dear colleague,
 
+((provider_name)) changed the vacancy status of ((course_name)) (((course _code))) - your organisation is the accredited body for this course.
+
+Applications were opened at: ((vacancies_opened)).
+
+Applications were closed at: ((vacancies_closed)).
+
 View the course at ((course_url)).
 
 If you have any questions, contact ((provider_name)).
 
 Regards,
+
 The Becoming a Teacher team
 
 ---
@@ -250,11 +271,16 @@ Saving the change updates the course on Find without the need to re-publish the 
 
 Dear colleague,
 
+((vacancies_filled??A course in Find postgraduate teacher training, which your organisation is the accredited body for, no longer has vacancies.))((vacancies_opened??A course in Find postgraduate teacher training, which your organisation is the accredited body for, has been updated to show that it now has vacancies.))
+
+((provider_name)) ((vacancies_filled??closed))((vacancies_opened??opened)) applications to ((course_name)) (((course _code))). ((vacancies_filled??This course won’t be visible in Find unless users specifically search for courses without vacancies.))((vacancies_opened??This course is now visible in Find.))
+
 View the course at ((course_url)).
 
 If you have any questions, contact ((provider_name)).
 
 Regards,
+
 The Becoming a Teacher team
 
 ---
