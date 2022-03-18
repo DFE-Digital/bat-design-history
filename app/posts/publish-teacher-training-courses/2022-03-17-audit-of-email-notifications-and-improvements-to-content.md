@@ -1,7 +1,9 @@
 ---
-title: Audit of Publish email notifications and improvements to content
+title: Audit of email notifications and improvements to content
 description: We documented which emails are sent and when. We also improved the content to make the notifications clearer and more concise.
 date: 2022-03-16
+tags:
+  - PN003
 related:
   items:
     - text: Notifications iteration
@@ -10,18 +12,29 @@ related:
       href: /publish-teacher-training-courses/notifications-mvp/
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
+<!-- markdownlint-disable MD001 MD025 -->
+
 We conducted a content audit of Publish notification emails. This involved:
 
 - documenting which emails are sent and when
 - improving the content of the emails
 - future considerations for notification emails
+
 ### User need
 
-The original purpose of the email notifications was to answer user need PN003.
+The user need email notifications aims to address is:
 
-“As an accredited body
-I need to be notified of changes by providers in Publish to courses I accredit
-So that I can keep my student record system up to date and in sync with UCAS.”
+{% set need = collections['user-need'] | slugs(tags) | first %}
+
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  title: need.data.title,
+  description: need.templateContent,
+  url: need.url,
+  status: need.data.status
+}) }}
 
 As the need to keep records in sync with UCAS is no longer applicable, we will reassess the user need and conduct more user research. We will look at how the notifications are currently being used and assess their value and effectiveness.
 
@@ -60,6 +73,21 @@ Saving the change updates the course on Find without the need to re-publish the 
 
 As we are notifying users about this in the ‘Course updated’ email (see below) we will remove the ‘Course subject change’ notification.
 
+{{ appEmail({
+  subject: "((previous_course_name)) (((course_code))) subject has been updated",
+  content: "
+
+Dear colleague,
+
+Regards,
+The Becoming a Teacher team
+
+---
+
+To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+  "
+}) }}
+
 ### 2. Course updated
 
 We send this email notification when a user changes the course:
@@ -71,11 +99,41 @@ We send this email notification when a user changes the course:
 
 Saving the change updates the course on Find without the need to re-publish the course.
 
+{{ appEmail({
+  subject: "((course_name)) (((course_code))) has been updated",
+  content: "
+
+Dear colleague,
+
+Regards,
+The Becoming a Teacher team
+
+---
+
+To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+  "
+}) }}
+
 ### 3. Course withdrawn
 
 We send this notification when a user withdraws a course. The course will no longer be viewable on Find and it cannot be republished until the next recruitment cycle.
 
 If a user withdraws a course, they are not able to reinstate it themselves - they need to contact the Publish support team.
+
+{{ appEmail({
+  subject: "((course_name)) (((course_code))) has been withdrawn",
+  content: "
+
+Dear colleague,
+
+Regards,
+The Becoming a Teacher team
+
+---
+
+To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+  "
+}) }}
 
 ### 4. Course published
 
@@ -85,6 +143,21 @@ We send this email notification when a user:
 - updates a course after making changes to any of the fields in the ‘Course description’ tab, for example, ‘About this course’
 
 When a user makes a change to a course description field, the status of the course changes to ‘Published *with unpublished changes’. The user must publish the changes to update the course on Find.
+
+{{ appEmail({
+  subject: "((course_name)) (((course_code))) has been published",
+  content: "
+
+Dear colleague,
+
+Regards,
+The Becoming a Teacher team
+
+---
+
+To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+  "
+}) }}
 
 ### 5. Sites updated
 
@@ -99,11 +172,41 @@ We do not send a notification when:
 - a new location is added to the organisation
 - details of an existing location are changed - for example, the location address
 
+{{ appEmail({
+  subject: "Location changed for ((course_name)) (((course_code)))",
+  content: "
+
+Dear colleague,
+
+Regards,
+The Becoming a Teacher team
+
+---
+
+To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+  "
+}) }}
+
 ### 6. Vacancies partially updated
 
 We send this email when a user changes the locations on the ‘Edit vacancies’ page.
 
 Saving the change updates the course on Find without the need to re-publish the course.
+
+{{ appEmail({
+  subject: "Vacancy status updated for ((course_name)) (((course_code)))",
+  content: "
+
+Dear colleague,
+
+Regards,
+The Becoming a Teacher team
+
+---
+
+To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+  "
+}) }}
 
 ### 7. Vacancies updated
 
@@ -111,13 +214,26 @@ We send this email when a user selects ‘there are no vacancies’ on the ‘Ed
 
 Saving the change updates the course on Find without the need to re-publish the course.
 
+{{ appEmail({
+  subject: "Vacancies ((vacancies_filled??filled))((vacancies_open??open)) for ((course_name)) (((course_code)))",
+  content: "
+
+Dear colleague,
+
+Regards,
+The Becoming a Teacher team
+
+---
+
+To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+  "
+}) }}
+
 ### 8. Welcome email
 
 We send this email notification the first time a user signs in to the service.
 
 We have included this email in the audit and user maps, but have not changed the content of this email yet as more discussion is needed.
-
-
 
 ## Future considerations
 
@@ -140,3 +256,5 @@ We are also documenting the different status types of a course. This work may af
 Following more work on notifications, we expect that content updates will be needed. Additionally, we need to ensure that any changes made to the wording in the UI are replicated in the emails. For example, ‘Add a new course’ will become ‘Add course’ when the wording on the button changes.
 
 We will look at other services’ notifications to align format and terminology.
+
+<!-- markdownlint-enable MD001 MD025 -->
