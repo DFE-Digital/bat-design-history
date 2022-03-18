@@ -24,7 +24,7 @@ We conducted a content audit of Publish notification emails. This involved:
 
 ### User need
 
-The user need email notifications aims to address is:
+The user need that email notifications aim to address is:
 
 {% set need = collections['user-need'] | slugs(tags) | first %}
 
@@ -79,6 +79,14 @@ As we are notifying users about this in the ‘Course updated’ email (see belo
 
 Dear colleague,
 
+((provider_name)) made changes to ((previous_course_name)) (((course_code))) - your organisation is the accredited body for this course.
+
+The subject has been changed from “((previous_subjects))” to “((updated_subjects))”. As a result, the title has also changed from “((previous_course_name))” to “((updated_course_name))”.
+
+View the course at ((course_url)).
+
+If you have any questions, contact ((provider_name)).
+
 Regards,
 The Becoming a Teacher team
 
@@ -105,6 +113,10 @@ Saving the change updates the course on Find without the need to re-publish the 
 
 Dear colleague,
 
+View the course at ((course_url)).
+
+If you have any questions, contact ((provider_name)).
+
 Regards,
 The Becoming a Teacher team
 
@@ -125,6 +137,12 @@ If a user withdraws a course, they are not able to reinstate it themselves - the
   content: "
 
 Dear colleague,
+
+((course_name)) (((course_code))) has been updated - your organisation is the accredited body for this course.
+
+((provider_name)) changed the ((attribute_changed)) from “((original_value))” to “((updated_value))”.
+
+If you have any questions, contact ((provider_name)).
 
 Regards,
 The Becoming a Teacher team
@@ -149,6 +167,10 @@ When a user makes a change to a course description field, the status of the cour
   content: "
 
 Dear colleague,
+
+View the course at ((course_url)).
+
+If you have any questions, contact ((provider_name)).
 
 Regards,
 The Becoming a Teacher team
@@ -178,6 +200,10 @@ We do not send a notification when:
 
 Dear colleague,
 
+View the course at ((course_url)).
+
+If you have any questions, contact ((provider_name)).
+
 Regards,
 The Becoming a Teacher team
 
@@ -199,6 +225,10 @@ Saving the change updates the course on Find without the need to re-publish the 
 
 Dear colleague,
 
+View the course at ((course_url)).
+
+If you have any questions, contact ((provider_name)).
+
 Regards,
 The Becoming a Teacher team
 
@@ -219,6 +249,10 @@ Saving the change updates the course on Find without the need to re-publish the 
   content: "
 
 Dear colleague,
+
+View the course at ((course_url)).
+
+If you have any questions, contact ((provider_name)).
 
 Regards,
 The Becoming a Teacher team
