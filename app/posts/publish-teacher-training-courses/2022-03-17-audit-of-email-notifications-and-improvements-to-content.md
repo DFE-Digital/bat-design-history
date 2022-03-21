@@ -297,24 +297,25 @@ We have included this email in the audit and user maps, but have not changed the
 
 ## Future considerations
 
-### Notifications, permissions and course statuses
+### Notifications
 
 Notifications are currently switched off by default. We will explore why this decision was made and look at changing the default to ‘on’.
 
+We will also conduct a workshop to understand the value of the current notifications and if any other notifications are needed.
+
+### Permissions
+
 We are in the process of scoping out the possible user permissions for Publish. This work is likely to affect notifications because:
 
--	we may need more notifications as new functionality is added - for example, the ability for a user to ‘review’ a course before it is published
--	we currently only send notifications to accredited bodies - we may want to expand this to lead schools
+- we may need more notifications as new functionality is added - for example, the ability for a user to ‘review’ a course before it is published
+- we currently only send notifications to accredited bodies - we may want to expand this to lead schools
+
+### Course statuses
 
 We are also documenting the different status types of a course. This work may affect notifications because:
 
--	we may find ways to streamline and reduce the number of notifications needed
--	the user actions that trigger notifications may change
+- we may find ways to streamline and reduce the number of notifications needed
+- the user actions that trigger notifications may change
 
-### Content updates
-
-Following more work on notifications, we expect that content updates will be needed. Additionally, we need to ensure that any changes made to the wording in the UI are replicated in the emails. For example, ‘Add a new course’ will become ‘Add course’ when the wording on the button changes.
-
-We will look at other services’ notifications to align format and terminology.
 
 <!-- markdownlint-enable MD001 MD025 -->
