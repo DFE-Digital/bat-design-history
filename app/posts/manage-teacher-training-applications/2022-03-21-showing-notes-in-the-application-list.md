@@ -8,11 +8,19 @@ screenshots:
       src: application-list--filter-has-notes.png
     - text: Application list with search by content of the latest note
       src: application-list--search-note-content.png
+tags:
+  - MN004
+  - MN021
 ---
 
 Providers use notes in their spreadsheets to help them prioritise work and see what needs to be done. They can look at notes for different applications at the same time.
 
 Notes are rarely used within the service. Research suggests that notes will be more useful if we show them in the application list.
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## What we changed
 
@@ -28,11 +36,11 @@ We added the latest note to each application in the list. This allows users to s
 
 If an application has more than one note then we add, for example, “(1 more note)”. This links to the application’s notes page.
 
-### Search the content of the latest note
+### Searching the content of the latest note
 
 We changed the search function so that users can search the content of the latest note.
 
-### Filter by whether or not an application has a note
+### Filtering by whether or not an application has a note
 
 We added a new filter category so that users can filter by applications that do or do not have notes.
 
