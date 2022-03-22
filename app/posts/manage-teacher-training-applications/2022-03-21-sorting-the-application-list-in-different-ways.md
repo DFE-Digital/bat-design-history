@@ -10,6 +10,8 @@ screenshots:
       src: application-list--most-recently-updated-sort.png
     - text: Application list sorted by least recently updated
       src: application-list--least-recently-updated-sort.png
+tags:
+  - MN021
 ---
 
 At the moment the [application list is sorted by priority](/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/). We gather applications under headings such as:
@@ -26,6 +28,11 @@ This priority order is problematic because:
 
 - users often want to process applications in other ways such as by most or least recently updated
 - the grouping makes it harder to process applications in other ways - for example, it isn't easy to view all received applications at a particular location because received applications appear in two different priority groups
+
+## User need
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## What we changed
 
