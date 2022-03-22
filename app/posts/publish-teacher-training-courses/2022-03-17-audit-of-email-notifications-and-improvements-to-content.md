@@ -63,7 +63,7 @@ We also:
 -	moved the link to change notifications settings to below the sign-off
 -	removed the ‘updated at time/date’ dynamic field as we felt it was unnecessary - the email is sent around the same time any change is made
 
-### 1. Course subject change
+### Course subject change
 
 We send this email notification when a user changes the course subject.
 
@@ -96,7 +96,7 @@ To change your notification settings, go to https://www.publish-teacher-training
   "
 }) }}
 
-### 2. Course updated
+### Course updated
 
 We send this email notification when a user changes the course:
 
@@ -131,7 +131,7 @@ To change your notification settings, go to https://www.publish-teacher-training
   "
 }) }}
 
-### 3. Course withdrawn
+### Course withdrawn
 
 We send this notification when a user withdraws a course. The course will no longer be viewable on Find and it cannot be republished until the next recruitment cycle.
 
@@ -159,7 +159,7 @@ To change your notification settings, go to https://www.publish-teacher-training
   "
 }) }}
 
-### 4. Course published
+### Course published
 
 We send this email notification when a user:
 
@@ -190,7 +190,7 @@ To change your notification settings, go to https://www.publish-teacher-training
   "
 }) }}
 
-### 5. Sites updated
+### Sites updated
 
 We send this email notification when a user changes which locations are assigned to a course.
 
@@ -227,7 +227,7 @@ To change your notification settings, go to https://www.publish-teacher-training
   "
 }) }}
 
-### 6. Vacancies partially updated
+### Vacancies partially updated
 
 We send this email when a user changes the locations on the ‘Edit vacancies’ page.
 
@@ -259,7 +259,7 @@ To change your notification settings, go to https://www.publish-teacher-training
   "
 }) }}
 
-### 7. Vacancies updated
+### Vacancies updated
 
 We send this email when a user selects ‘there are no vacancies’ on the ‘Edit vacancies’ page.
 
@@ -289,7 +289,7 @@ To change your notification settings, go to https://www.publish-teacher-training
   "
 }) }}
 
-### 8. Welcome email
+### Welcome email
 
 We send this email notification the first time a user signs in to the service.
 
@@ -297,22 +297,26 @@ We have included this email in the audit and user maps, but have not changed the
 
 ## Future considerations
 
-### Notifications
+In future we may consider:
+
+- switching on notifications by default
+- adding new notifications when we add permissions to the service
+- updating notification content when the status of a course changes
+
+### Switching on notifications by default
 
 Notifications are currently switched off by default. We will explore why this decision was made and look at changing the default to ‘on’.
 
-We will also conduct a workshop to understand the value of the current notifications and if any other notifications are needed.
-
-### Permissions
+### Adding new notifications when we add permissions to the service
 
 We are in the process of scoping out the possible user permissions for Publish. This work is likely to affect notifications because:
 
 - we may need more notifications as new functionality is added - for example, the ability for a user to ‘review’ a course before it is published
 - we currently only send notifications to accredited bodies - we may want to expand this to lead schools
 
-### Course statuses
+### Updating notification content when the status of a course changes
 
-We are also documenting the different status types of a course. This work may affect notifications because:
+We are documenting the different status types of a course. This work may affect notifications because:
 
 - we may find ways to streamline and reduce the number of notifications needed
 - the user actions that trigger notifications may change
