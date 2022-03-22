@@ -2,6 +2,9 @@
 title: Only showing filters that return useful results
 description: We set rules for when individual filters, categories of filters and the filter panel should appear.
 date: 2022-03-15
+tags:
+  - MN021
+  - MN014
 ---
 
 At the moment, we show filters in the application list even if they return no results.
@@ -19,6 +22,11 @@ Showing all the filters at all times means that:
 
 - users can waste time by choosing a filter which is not useful
 - the list of filters is very long - we’ve heard users complain about this in research
+
+## User need
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## What we changed
 
