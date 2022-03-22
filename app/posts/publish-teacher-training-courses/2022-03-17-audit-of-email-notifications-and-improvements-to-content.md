@@ -295,7 +295,7 @@ We send this email notification the first time a user signs in to the service.
 
 We have included this email in the audit and user maps, but have not changed the content of this email yet as more discussion is needed.
 
-## Future considerations
+## Further considerations
 
 In future we may consider:
 
@@ -307,18 +307,24 @@ In future we may consider:
 
 Notifications are currently switched off by default. We will explore why this decision was made and look at changing the default to ‘on’.
 
+We will also conduct a workshop to understand the value of the current notifications and if any other notifications are needed.
+
 ### Adding new notifications when we add permissions to the service
 
-We are in the process of scoping out the possible user permissions for Publish. This work is likely to affect notifications because:
+We are introducing user permissions to the service to give providers more control over who can manage their organisation’s data.
+
+This work is likely to affect notifications because:
 
 - we may need more notifications as new functionality is added - for example, the ability for a user to ‘review’ a course before it is published
 - we currently only send notifications to accredited bodies - we may want to expand this to lead schools
 
 ### Updating notification content when the status of a course changes
 
-We are documenting the different status types of a course. This work may affect notifications because:
+We are considering how to improve the course publishing workflow and the different statuses a course can be in.
 
-- we may find ways to streamline and reduce the number of notifications needed
+This work may affect notifications because:
+
+- we may find ways to simplify and reduce the number of notifications needed
 - the user actions that trigger notifications may change
 
 
