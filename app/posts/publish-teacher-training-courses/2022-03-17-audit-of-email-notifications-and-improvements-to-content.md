@@ -36,11 +36,13 @@ The user need that email notifications aim to address is:
   status: need.data.status
 }) }}
 
-As the need to keep records in sync with UCAS is no longer applicable, we will reassess the user need and conduct more user research. We will look at how the notifications are currently being used and assess their value and effectiveness.
+As the need to keep records in sync with UCAS is no longer applicable, we will reassess the user need and conduct more user research.
+
+We will look at how the notifications are currently being used and assess their value and effectiveness.
 
 ## Documenting which emails are sent and when
 
-We started this work by listing all email notification templates in a spreadsheet. This helped us to organise the folders in Notify and remove templates that are no longer in use.
+We started this work by listing all email notification templates in a spreadsheet. This helped us to organise the folders in GOV.UK Notify and remove templates that are no longer in use.
 
 We documented when each notification is sent in our Publish user journey maps and included screenshots.
 
@@ -54,14 +56,14 @@ Some of the notification emails hadn’t been updated following changes to the s
 
 We updated the emails so that:
 
--	all terminology is consistent with the UI
+-	all terminology is consistent with the service
 -	the email contains a single message and is as short as possible
 -	users can quickly see which provider the notification is referring to
 
 We also:
 
 -	moved the link to change notifications settings to below the sign-off
--	removed the ‘updated at time/date’ dynamic field as we felt it was unnecessary - the email is sent around the same time any change is made
+-	removed the ‘updated at time/date’ information as we felt it was unnecessary - the email is sent around the same time any change is made
 
 ### Course subject change
 
@@ -69,7 +71,7 @@ We send this email notification when a user changes the course subject.
 
 When a user changes the subject, the title of the course also changes.
 
-Saving the change updates the course on Find without the need to re-publish the course.
+Saving the change updates the course on Find postgraduate teacher training (Find) without the need to re-publish the course.
 
 As we are notifying users about this in the ‘Course updated’ email we will remove the ‘Course subject change’ notification.
 
