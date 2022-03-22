@@ -23,7 +23,7 @@ Showing all the filters at all times means that:
 - users can waste time by choosing a filter which is not useful
 - the list of filters is very long - we’ve heard users complain about this in research
 
-## User need
+## User needs
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
