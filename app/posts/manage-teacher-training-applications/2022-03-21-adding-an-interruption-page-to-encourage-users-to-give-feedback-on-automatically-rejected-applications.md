@@ -43,9 +43,11 @@ Most participants indicated that they would not give feedback at the point of se
 
 ## Further considerations
 
-While participants indicated that they would find the page annoying, that is central to how an interruption page works. Users are encouraged to give feedback so that they no longer see the page.
+While participants indicated that they would find the page annoying, that is part of how an interruption page works. Users are encouraged to give feedback so that they no longer see the page.
 
-We’ve decided not to use the interruption page yet. We’ll monitor the number of automatically rejected applications without feedback and if it increases then we may consider using the interruption page.
+We’ve decided not to use the interruption page yet, since we’re already making a number of other changes such as introducing an overview page.
+
+We’ll monitor the proportion of automatically rejected applications without feedback. If the proportion increases then we may consider using the interruption page.
 
 If we do use the page then we’ll want to consider whether to:
 
