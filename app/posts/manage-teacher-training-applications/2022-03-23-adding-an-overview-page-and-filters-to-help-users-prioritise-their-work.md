@@ -1,10 +1,11 @@
 ---
 title: Adding an overview page and filters to help users prioritise their work
 description: We added a new overview page and filters to compensate for removing priority headings from the application list.
-date: 2022-03-23
+date: 2022-03-21
 tags:
   - AN029
   - MN021
+  - MN030
 ---
 
 We removed the priority headings from the application list as part of the work to let users [sort the application list in different ways](/manage-teacher-training-applications/sorting-the-application-list-in-different-ways/).
@@ -22,8 +23,6 @@ Users need to be able to find these types of applications so that they can plan 
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
-
-- one about new applications/sifted applications
 
 ## What we changed
 
@@ -61,7 +60,7 @@ The overview page includes up to 4 coloured blocks. They are:
 
 Each block links to the application list with the appropriate filters selected. Any previously selected filters will be cleared in favour of the filters that relate to the block.
 
-A block does not appear if the appropriate filters would return no applications.
+A block does not appear if the appropriate filters would show no applications.
 
 ## Further considerations
 
