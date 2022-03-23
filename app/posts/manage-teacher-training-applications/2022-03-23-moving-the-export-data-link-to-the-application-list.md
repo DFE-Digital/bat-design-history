@@ -8,7 +8,7 @@ screenshots:
       src: application-list--export-data-link.png
 ---
 
-At the moment, users have to navigate to the reports section before they can [export applications](/manage-teacher-training-applications/export-iteration-2/).
+At the moment, users have to navigate to the reports section before they can [export applications](/manage-teacher-training-applications/providing-status-and-progress-reports-alongside-data-exports/#data-exports).
 
 We decided to move the export link to the application list to make it easier to find. This is particularly useful for users who use spreadsheets to manage applications, as they export applications to add details to their spreadsheets.
 
