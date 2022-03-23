@@ -58,4 +58,4 @@ We also want to consider changing the search to:
 
 - default to searching by individual words rather than phrases - at the moment, searching for ‘interview request’ would not return a note which says ‘request for interview’
 - allow the use of speech marks to search for phrases
-- return results which include some or all of the words in a search which does not use speech marks, with most relevant results at the top
+- return results which include some or all of the words in a search which does not use speech marks, possibly with the most relevant results at the top
