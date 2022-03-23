@@ -1,7 +1,7 @@
 ---
 title: Explaining that notes are not shown to candidates
 description: We added content to the notes page to make it clear that candidates cannot see notes added by providers.
-date: 2022-03-15
+date: 2022-03-23
 screenshots:
   items:
     - text: Explaining on the notes page that notes are not shown to candidates
