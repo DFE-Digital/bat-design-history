@@ -24,12 +24,18 @@ While the overview page is useful, users can still ignore it quite easily. We wa
 
 ## What we changed
 
-We added an interruption page that is shown when the user signs in if one or more applications have been automatically rejected and need feedback.
+We added an interruption page that is shown when the user signs in if one or more automatically rejected applications need feedback.
 
-We included a skip link so that users are not forced to give feedback immediately because:
+The page has a green button which takes the user to the application list, filtered to show only applications which need feedback.
+
+We have no way within the current design to force users to give feedback, as they could remove the filter and keep working. But they would at least see the list of applications which need attention.
+
+We included a skip link on the interruption page in case users do not want to give feedback immediately because:
 
 - most users will have signed in to deal with other applications
 - we cannot be sure that the user who sees the page will be able to provide feedback
+
+Users who clicked the skip link would be taken to the overview page.
 
 ## Research findings
 
@@ -37,11 +43,12 @@ Most participants indicated that they would not give feedback at the point of se
 
 ## Further considerations
 
-While participants indicated that they would find this page annoying, that is central to how an interruption page works. Users are encouraged to give feedback so that they no longer see the page.
+While participants indicated that they would find the page annoying, that is central to how an interruption page works. Users are encouraged to give feedback so that they no longer see the page.
 
 We’ve decided not to use the interruption page yet. We’ll monitor the number of automatically rejected applications without feedback and if it increases then we may consider using the interruption page.
 
-If we do use the page then we’ll want to consider whether:
+If we do use the page then we’ll want to consider whether to:
 
-- to give users the ability to skip the interruption page 3 times and after that, forcing them to give feedback
-- to send users a weekly email to remind them about applications that need feedback
+- give users the ability to skip the interruption page only a certain number of times, forcing them to view the filtered application list after that
+- force users to give feedback before they can complete other tasks
+- send users a weekly email to remind them about applications that need feedback
