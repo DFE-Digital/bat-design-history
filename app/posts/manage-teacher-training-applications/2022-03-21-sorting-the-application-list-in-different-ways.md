@@ -14,7 +14,7 @@ tags:
   - MN021
 ---
 
-At the moment the [application list is sorted by priority](/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/). We gather applications under headings such as:
+At the moment [the application list is sorted by priority](/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/). We gather applications under headings such as:
 
 - Confirm deferred offers
 - Give feedback: you did not make a decision in time
@@ -27,7 +27,7 @@ This allows us to highlight types of applications which we think should be prior
 This priority order is problematic because:
 
 - users often want to process applications in other ways such as by most or least recently updated
-- the grouping makes it harder to process applications in other ways - for example, it isn't easy to view all received applications at a particular location because received applications appear in two different priority groups
+- the grouping makes it harder to process applications in other ways - for example, it isn't easy to view all received applications at a particular location because received applications appear in 2 different priority groups
 
 ## User need
 
@@ -36,13 +36,15 @@ This priority order is problematic because:
 
 ## What we changed
 
-We removed the priority headings and changed the default sort order. We also added two more options to sort the list.
+We removed the priority headings, changed the default sort order and added two more options to sort the list.
 
-### Removing the priority headings and changed the default sort order to status
+We also now show the last updated date for each application.
+
+### Removing the priority headings and changing the default sort order
 
 To give users more control over the application list, we removed the priority headings.
 
-The default order is now by status, so that users can look at all received applications together. We've made this the default order as it’ll be useful even without applying filters.
+The default order is now by status so that, for example, users can look at all received applications together. We've made this the default order as it’ll be useful even without applying filters.
 
 ### Adding the ability to sort by most and least recently updated
 
@@ -86,13 +88,13 @@ When a user sorts by most recently changed:
 
 - the status option will be a link
 - the updated least recently option will be a link
-- the updated most recently link will be regular text
+- the updated most recently link will be standard text
 
 When a user sorts by least recently changed:
 
 - the status option will be a link
 - the updated most recently option will be a link
-- the updated last recently link will be regular text
+- the updated last recently link will be standard text
 
 An update includes:
 
