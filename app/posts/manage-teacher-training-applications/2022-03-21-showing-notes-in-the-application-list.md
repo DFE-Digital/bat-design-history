@@ -1,7 +1,7 @@
 ---
 title: Showing notes in the application list
 description: We added the latest note for each application to the application list.
-date: 2022-03-15
+date: 2022-03-21
 screenshots:
   items:
     - text: Application list filtered by ‘has note’
