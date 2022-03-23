@@ -2,6 +2,14 @@
 title: Adding an overview page and filters to help users prioritise their work
 description: We added a new overview page and filters to compensate for removing priority headings from the application list.
 date: 2022-03-21
+screenshots:
+  items:
+    - text: Overview page
+      src: overview.png
+    - text: Application list after user clicks blue block to view offers with conditions pending from the previous recruitment cycle
+      src: application-list--conditions-pending-previous-cycle.png
+    - text: Application list filtered to show application which needs feedback, marked with ‘Feedback needed’
+      src: application-list--filtered-feedback-needed.png
 tags:
   - AN029
   - MN021
