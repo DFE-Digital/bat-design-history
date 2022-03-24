@@ -30,7 +30,7 @@ Users can currently filter the application list by partner organisation but they
 
 ## What we changed
 
-We added a table to the [overview page](/manage-teacher-training-applications/2022-03-21-adding-an-overview-page-and-filters-to-help-users-prioritise-their-work). It shows the number of applications waiting for a decision, broken down by partner organisation.
+We added a table to the [overview page](/manage-teacher-training-applications/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work). It shows the number of applications waiting for a decision, broken down by partner organisation.
 
 ## How it works
 
