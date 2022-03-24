@@ -1,7 +1,7 @@
 ---
 title: Adding an overview page and filters to help users prioritise their work
 description: We added a new overview page and filters to compensate for removing priority headings from the application list.
-date: 2022-03-21
+date: 2022-03-16
 screenshots:
   items:
     - text: Overview page

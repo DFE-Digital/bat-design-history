@@ -1,7 +1,7 @@
 ---
 title: Adding an interruption page to encourage users to give feedback on automatically rejected applications
 description: We tried showing an interruption page to users who need to give feedback on automatically rejected applications.
-date: 2022-03-21
+date: 2022-03-18
 tags:
   - MN004
   - MN021

@@ -1,7 +1,7 @@
 ---
 title: Removing the individual note pages
 description: We removed the individual note pages because they repeat information available in the notes list.
-date: 2022-03-23
+date: 2022-03-24
 screenshots:
   items:
     - text: Notes page

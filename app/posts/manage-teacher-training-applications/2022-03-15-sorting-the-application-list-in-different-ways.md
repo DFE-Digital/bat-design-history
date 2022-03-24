@@ -1,7 +1,7 @@
 ---
 title: Sorting the application list in different ways
 description: We made the default sort order more straightforward and added 2 new options to sort by.
-date: 2022-03-21
+date: 2022-03-15
 screenshots:
   items:
     - text: Application list sorted by status

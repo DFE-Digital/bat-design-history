@@ -1,7 +1,7 @@
 ---
 title: Only showing filters that return useful results
 description: We set rules for when individual filters, categories of filters and the filter panel should appear.
-date: 2022-03-21
+date: 2022-03-19
 tags:
   - MN021
   - MN014
