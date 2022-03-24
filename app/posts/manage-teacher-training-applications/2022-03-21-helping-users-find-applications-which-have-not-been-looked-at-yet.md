@@ -1,7 +1,7 @@
 ---
 title: Helping users find applications which have not been looked at yet
 description: We tried different ways of helping users find applications which have not been looked at yet.
-date: 2022-03-24
+date: 2022-03-21
 tags:
   - MN030
 ---
