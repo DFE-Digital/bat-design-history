@@ -36,7 +36,7 @@ If the user clicks to change a note then they’re taken to a page with a text f
 
 The user can edit the note then click the ‘Update note’ button. They‘re taken back to the notes page, which has a success message saying ‘Note updated’.
 
-If the user clicks to delete a note then they’re taken to a page which asks them to confirm that they want to delete it. The page gives the note text.
+If the user clicks to delete a note then they’re taken to a page which asks them to confirm that they want to delete it. The page shows the note.
 
 The user can click the red ‘Delete note’ button to delete the note. They’re taken back to the notes page, which has a success message saying ‘Note deleted’.
 
