@@ -1,7 +1,7 @@
 ---
 title: Moving the export data link to the application list
 description: We made it easier for users to find the link which lets them export applications.
-date: 2022-03-23
+date: 2022-03-25
 screenshots:
   items:
     - text: Application list with export data link
