@@ -26,9 +26,9 @@ We decided to order the notes by most recently created, not by most recently upd
 - users can create a new note if it’s important that a comment appears at the top of the page
 - this is a convention in other online services
 
-We removed the pipe character (a vertical line, |) between the change and delete links because it’s unnecessary. We do not use a pipe anywhere else.
+We removed the vertical line between the change and delete links because it’s unnecessary. We do not use a vertical line like this anywhere else.
 
-We put ‘Candidates cannot view notes’ in inset text because we wanted to distinguish it from notes.
+We changed ‘The candidate cannot view notes’ to ‘Candidates cannot view notes’. This makes it clear that no candidates can view notes, rather than this specific candidate. We also put it in inset text to distinguish it from notes.
 
 We decided that only the user who created a note can change or delete it. If the user who created a note has been deleted then the note and the creator should remain visible.
 
