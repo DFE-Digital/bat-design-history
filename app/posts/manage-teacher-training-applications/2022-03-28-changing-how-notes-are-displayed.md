@@ -1,6 +1,6 @@
 ---
-title: Improving how users change and delete notes
-description: TODO
+title: Changing how notes are displayed
+description: We changed the way notes are displayed since letting users change or delete them.
 date: 2022-03-28
 screenshots:
   items:
@@ -8,9 +8,9 @@ screenshots:
       src: notes.png
 ---
 
-We recently designed a way to [change and delete notes](/manage-teacher-training-applications/letting-users-change-and-delete-notes/).
+We recently gave users a way to [change and delete notes](/manage-teacher-training-applications/letting-users-change-and-delete-notes/).
 
-But we’ve now made some additional changes to make sure these features are ready for production.
+Based on this we’ve made further changes and clarified how notes should work.
 
 ## What we changed
 
