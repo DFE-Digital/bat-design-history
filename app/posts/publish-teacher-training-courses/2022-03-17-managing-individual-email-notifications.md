@@ -32,13 +32,29 @@ screenshots:
 
 Currently, only users in accredited bodies receive email notifications for courses run by their training providers.
 
-Users can turn off all email notifications. User research suggests that users want to specify which emails they receive.
+Users can turn off all email notifications. Research shows that users want to choose which email notifications they receive.
 
-Without this ability, users have to filter out the emails they don’t want to read. It could also result in the email notifications being ignored.
+At the moment some users filter out the emails they don’t want to read. It could also result in the email notifications being ignored.
 
 If we let users manage individual email notifications, then their inbox will only contain useful emails.
 
 We also think that email notifications are useful to all users to help them manage their workload.
+
+## Data analysis
+
+We looked at the relationship between users and providers.
+
+We found that:
+
+- 82% of users belong to 1 provider
+- 11% belong to 2 providers
+- 7% belong to more than 2 providers
+- Average number of providers per user: 1.5
+- Maximum number of providers per user: 16
+
+This data suggests that the priority should be to focus on the single provider flow.
+
+We also need to make it possible for users to find and manage their email notifications for all organisations they belong to.
 
 ## What we changed
 
@@ -50,6 +66,8 @@ We have now replaced these and added a new section available to all users called
 
 - your personal details
 - your email notifications
+
+## How it works
 
 ### Your personal details
 
@@ -79,11 +97,11 @@ We group similar notifications. For example, ‘Course published by your organis
 
 We show a change link above the summary list as all notifications can be changed on one page.
 
-If the user is a member of multiple organisations, we display the organisation name, the list of notifications and a change link for each organisation.
+If the user belongs to multiple organisations, the organisation name, the list of notifications and a change link for each organisation is displayed.
 
 ### Changing email notifications
 
-We display yes/no radio buttons for each category of notification.
+We show yes/no radio buttons for each category of notification.
 
 We used radio buttons instead of checkboxes because the labels explicitly state what the user is doing. Extra effort is needed to understand what ticking a checkbox means.
 
@@ -93,7 +111,7 @@ By switching notifications on, users will receive notifications for each organis
 
 Users are given a link to the settings page at the bottom of every email so they can easily update their settings.
 
-If the user is a member of multiple organisations, we append the organisation name to the page caption so they know which organisation they’re updating the notifications for.
+If the user belongs to multiple organisations, we append the organisation name to the page caption so they know which organisation they’re updating the notifications for.
 
 ## Further considerations
 
