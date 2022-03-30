@@ -201,6 +201,5 @@ The 'becoming a teacher' services are part of a broader range of digital service
 
 <ul class="govuk-list govuk-list--bullet govuk-!-font-size-16">
   <li>Get Into Teaching CRM</li>
-  <li>Database of trainee teachers and providers</li>
   <li>Database of Qualified Teachers</li>
 </ul>
