@@ -50,14 +50,14 @@ The details of your interview for ((old_course_and_code)) have been updated.
 
 The new details are:
 
-> Training provider: ((provider))
+> Training provider: ((new_provider))
 > Course: ((new_course_and_code))
 > Date: ((date))
 > Time: ((time))
 > Address or online meeting details: ((address_or_online_meeting_details))
 > Additional details: ((additional_details))
 
-Contact ((provider)) if you have any questions. Let them know if you cannot attend the interview.
+Contact ((new_provider)) if you have any questions. Let them know if you cannot attend the interview.
 
 # Get help
 
