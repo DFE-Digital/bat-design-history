@@ -140,11 +140,11 @@ For the 16 courses that had financial incentives added, we analysed the impact o
 - 6 saw a decrease in applications in the 30 days after we made the change compared to the 30 days before the change
 - 4 saw no change in applications in the 30 days after we made the change compared to the 30 days before the change
 
-However, any change in application levels, whether an increase or decrease, must be caveated by the following:
+When looking at any change in application levels, we need to consider that:
 
-- Levels of submitted application forms are highest in the period after Apply opens, i.e. in October and November, with levels then steadily reaching a more stable level as time goes on
-- For 6 of the 15 courses, the 30 day period before the change encompassed Christmas day and the following week, where overall application levels were down
-- Whilst 5 courses saw an increase in applications in the 30 days after the change and 5 courses that saw a decrease, none of the increases or decreases was more than 4 applications, indicating no significant impact
+- levels of submitted application forms are highest in the period after Apply opens, i.e. in October and November, with levels then steadily reaching a more stable level as time goes on
+- for 6 of the 15 courses, the 30 day period before the change encompassed Christmas day and the following week, where overall application levels were down
+- whilst 5 courses saw an increase in applications in the 30 days after the change and 5 courses that saw a decrease, none of the increases or decreases was more than 4 applications, indicating no significant impact
 - 11 of the 15 courses that had financial incentives added had less than 10 applications in total; any change in application levels was so small as not to have any significant impact
 
 <!-- markdownlint-enable MD001 MD025 -->
