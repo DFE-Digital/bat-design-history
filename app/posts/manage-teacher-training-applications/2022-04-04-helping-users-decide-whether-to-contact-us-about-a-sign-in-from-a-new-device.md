@@ -20,6 +20,7 @@ We've removed the mention of the IP address and browser, as most users will not 
 
 We also give reasons why the sign in could have been incorrectly assessed as being from a new device. This will help users understand what has happened.
 
+<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "Sign in from new device detected - manage teacher training applications",
   content: "
