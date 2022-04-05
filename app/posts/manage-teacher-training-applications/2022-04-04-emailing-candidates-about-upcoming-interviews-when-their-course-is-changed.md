@@ -11,7 +11,7 @@ When a user changes the details of the course a candidate has applied for, we se
 We also automatically update the details of any upcoming interviews if the course has been changed to:
 
 - a different course run by the same training provider
-- a course run by another training provider which the user belongs to
+- a course run by another training provider
 
 We do not update interview details if the change is only to:
 
