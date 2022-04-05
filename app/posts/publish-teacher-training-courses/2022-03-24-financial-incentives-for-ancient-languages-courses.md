@@ -1,6 +1,6 @@
 ---
 title: Financial incentives for ancient language courses
-description: We added ancient languages to the subject drop down list and informed providers about the new financial incentive.
+description: We added ancient languages to the subject drop-down list and informed providers about the new financial incentive.
 date: 2022-03-24
 ---
 
@@ -8,7 +8,7 @@ date: 2022-03-24
 
 <!-- markdownlint-disable MD001 MD025 -->
 
-In December 2021, the DfE financial incentives team announced a new bursary of £15,000. This is for successful candidates on any ITT course which is made up of at least 50% ancient languages.
+In December 2021, the DfE financial incentives team announced a new bursary of £15,000. This bursary is for successful candidates on an ITT course that includes at least 50% ancient languages.
 
 Ancient languages subjects include:
 
@@ -16,7 +16,7 @@ Ancient languages subjects include:
 - Ancient Greek
 - Ancient Hebrew
 
-When the policy was introduced, there were no ancient language subjects in the drop down list on the subject selection page in the ‘Add course’ flow. This meant that providers could not publish a course in ancient languages themselves.
+There weren’t any ancient language subjects in the drop-down list on the subject selection page in the ‘Add course’ flow when DfE introduced the policy. The missing subjects meant that providers could not publish courses in ancient languages.
 
 Providers who wanted to publish a course with an ancient language would have to create a ‘Classics’ course and either:
 
@@ -25,16 +25,16 @@ Providers who wanted to publish a course with an ancient language would have to 
 
 ## Adding ancient languages to the list of subjects
 
-We added Latin, Ancient Greek and Ancient Hebrew in the available list of subjects in the service, ensuring that:
+We added Latin, Ancient Greek and Ancient Hebrew to the available list of subjects in the service, ensuring that:
 
-- the new policy was reflected on the Publish service and the financial incentive information was included for the relevant courses
-- the ancient language financial incentive information was distributed correctly to Find, Manage and Register
+- the service reflected the new policy, and relevant courses included financial incentive information for the relevant courses
+- we distributed the ancient language financial incentive information correctly to Find, Manage and Register
 - candidates were made aware of the new financial incentive for ancient languages
-- uneccessary burden on our developers and support team was removed
+- we removed the unnecessary burden on our developers and support team
 
 ## Getting in touch with providers
 
-In January 2022, we emailed the 15 providers who offered Classics courses to tell them that we could update the course information to reflect the financial incentive policy (if their course was made up of at least 50% ancient languages).
+In January 2022, we emailed the 15 providers who offered Classics courses to tell them that we could update the course information to reflect the financial incentive policy (if their course included at least 50% ancient languages).
 
 {{ appEmail({
   subject: "Reminder: we need more information about your Classics course",
@@ -117,34 +117,34 @@ In January and February 2022, we received responses from nearly all providers we
 
 Out of the 17 ‘Classics’ courses offered by 15 providers:
 
-- 13 were made up of at least 50% ancient languages
-- 2 were withdrawn
-- 2 did not respond
+- 13 courses were made up of at least 50% ancient languages
+- 2 courses were withdrawn
+- 2 providers did not respond
 
-Out of the 3 ‘Latin with Classics’ or ‘Classics (Latin and Ancient Greek)’ courses offered by 3 providers:
+Out of the 3 ‘Latin with Classics’ or ‘Classics (Latin and Ancient Greek)’ courses offered by three providers:
 
-- 3 were made up of at least 50% Latin or Ancient Greek
+- all courses were made up of at least 50% Latin or Ancient Greek
 
 ## Changing the subjects for these courses
 
-For the 16 courses made up of 50% ancient language, we used the Publish support console to:
+For the 16 courses made up of 50% ancient language, we used the support console to:
 
-- change the first subject of the course to the relevant ancient language, so that candidates could search for and find accurate course and financial information
-- add ‘Classics’ as the second subject of the course so that candidates could also find the course when filtering for Classics on Find
+- change the first subject of the course to the relevant ancient language so that candidates can accurately find the course and financial information
+- add ‘Classics’ as the second subject of the course so that candidates could also find the course when filtering for Classics
 
 ## Analysing our impact
 
 For the 16 courses that had financial incentives added, we analysed the impact of 15 of these (1 provider got in touch with us later in March 2022).
 
-- 33% (5) saw an increase in applications in the 30 days after the change was made compared to the 30 days before the change
-- 40% (6) saw a decrease in applications in the 30 days after the change was made compared to the 30 days before the change
-- 27% (4) saw no change in applications in the 30 days after the change was made compared to the 30 days before the change
+- 5 saw an increase in applications in the 30 days after we made the change compared to the 30 days before the change
+- 6 saw a decrease in applications in the 30 days after we made the change compared to the 30 days before the change
+- 4 saw no change in applications in the 30 days after we made the change compared to the 30 days before the change
 
 However, any change in application levels, whether an increase or decrease, must be caveated by the following:
 
 - Levels of submitted application forms are highest in the period after Apply opens, i.e. in October and November, with levels then steadily reaching a more stable level as time goes on
-- For 6 of the 15 courses, the 30 day period before the change encompassed Christmas day and the following week, where overall application levels were down compared to at other times
-- Whilst there were 5 courses that saw an increase in applications in the 30 days after the change and 5 courses that saw a decrease, none of the increases or decreases were more than 4 applications either way, indicating no major impact
-- 11 of the 15 courses that had financial incentives added had less than 10 applications in total, any change in application levels was so small as to not have any significant impact
+- For 6 of the 15 courses, the 30 day period before the change encompassed Christmas day and the following week, where overall application levels were down
+- Whilst 5 courses saw an increase in applications in the 30 days after the change and 5 courses that saw a decrease, none of the increases or decreases was more than 4 applications, indicating no significant impact
+- 11 of the 15 courses that had financial incentives added had less than 10 applications in total; any change in application levels was so small as not to have any significant impact
 
 <!-- markdownlint-enable MD001 MD025 -->
