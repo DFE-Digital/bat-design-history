@@ -21,7 +21,7 @@ We wanted to make it easy for providers to reuse courses from the current cycle 
 - adding a banner to remind providers to publish their courses
 - sending a series of emails to providers about the rollover process
 
-#Important dates
+## Timeline
 
 | Date | What happened |
 | --- | --- |
