@@ -27,24 +27,9 @@ We wanted to provide a way to navigate the service that was:
 - obvious - avoided overlap between items, for example, ‘courses’ and ‘courses as an accredited body’
 - consistent - available throughout the service
 
+## Service home page
 
-## Signing in to the service
-
-When users sign in to the service, they must go through several steps before reaching the home page.
-
-These steps include:
-
-- accepting terms and conditions - if they have previously not done so
-- being asked to prepare for the next recruitment cycle - if they sign in during the ‘rollover’ period
-- choosing an organisation - if they belong to multiple organisations
-- completing their PE allocation request - if the organisation the user belongs to is an accredited body and they have signed in during the ‘allocation’ period
-- choosing the current or next cycle page - if they sign in during the ‘rollover’ period
-
-<!-- The rollover period is between [MONTH] and [MONTH]. -->
-
-<!-- The PE allocation period is between [MONTH] and [MONTH]. -->
-
-The home page includes guidance and links to the following sections:
+The service’s home page includes guidance and links to the following sections:
 
 - About your organisation
 - Locations
@@ -53,7 +38,7 @@ The home page includes guidance and links to the following sections:
 - View your PE allocations - if the organisation is an accredited body
 - Users - shown in a grey sidebar
 
-If the user goes to one of the sections, they can return to the page by clicking on the service name in the header. They cannot move to another section without first going back.
+If the user goes to one of the sections, they can return to the home page by clicking on the service name in the header or using the backlink. They cannot move to another section without first going back to the home page.
 
 ## Data analysis
 
@@ -71,23 +56,33 @@ Understanding the relationship between users and organisations helps us make dec
 
 For example, we show a way to change the organisation if the users belong to multiple organisations.
 
-From the data, we can see that:
+From the data, we found that:
 
 - 82% of users belong to 1 organisation
 - 11% belong to 2 organisations
 - 7% belong to more than two organisations
-- Average number of organisations per user: 1.5
-- Maximum number of organisations per user: 16
+- the average number of organisations per user is 1.5
+- the maximum number of organisations per user is 16
 
-This data suggests that few users must choose an organisation when managing their courses.
+This data suggests that a relatively small number of users must choose an organisation when managing their courses.
 
-We also need to make it possible for the users who belong to multiple organisations to change their organisation easily.
+We need to make it possible for users who belong to multiple organisations to change their organisation easily.
 
 ### Length of organisation names
 
-- Average length of organisation name: 28 characters
-- Maximum length of organisation name: 95 characters
-- Minimum length of organisation name: 3 characters
+Understanding the length of organisation names helps us make decisions about:
+
+- what interface elements we can use
+- where to place the organisation name
+- how the organisation name may look in different situations
+
+For example, long organisation names will cause content to wrap, whilst short names may be lost amongst other content.
+
+From the data, we found that the:
+
+- average length of organisation name is 28 characters
+- maximum length of organisation name is 95 characters
+- minimum length of organisation name is 4 characters
 
 For users who belong to multiple organisations, we need to make it easy to know which organisation they are currently viewing.
 
@@ -132,7 +127,7 @@ We changed ‘courses as an accredited body’ to ‘training providers’ becau
 
 ### Changing organisation
 
-If the user belongs to multiple organisations, we include a way to choose and change their organisation.
+If the user belongs to multiple organisations, they can select which organisation they want to view and easily switch between them.
 
 The organisation ‘switcher’ sits above the primary navigation. It includes the name of the current organisation and a ‘change organisation’ link.
 
@@ -153,7 +148,7 @@ The breadcrumb includes a ‘home’ link to help users get back to:
 
 We use backlinks within a flow, for example, when adding a course. Backlinks allow the user to navigate back through the flow without using the browser’s back button.
 
-We do not use backlinks on the main section pages, for example, ‘courses’ or within a course, since the primary navigation can be used to get back to the start.
+We do not use backlinks on the main section pages, for example, ‘courses’ or within a course, since users can use the primary navigation to get back to the start.
 
 ### Heading captions
 
@@ -161,16 +156,16 @@ We only show heading captions where the heading may be ambiguous or a duplicate 
 
 Previously, we included the organisation name in some heading captions. We have removed these for users belonging to a single organisation and multiple organisations.
 
-Users belonging to one organisation will know the organisation's name.
+Users belonging to a single organisation will know the organisation’s name.
 
-We show the organisation name in the organisation switcher for users belonging to multiple organisations.
+We show the organisation name in the switcher for users belonging to multiple organisations.
 
-An exception is when a multi-organisation user views email notification settings. We need to replay the organisation name as it does not exist anywhere else.
+An exception is when a multi-organisation user views email notification settings. We need to replay the organisation’s name as it doesn’t exist anywhere else.
 
 ## Further considerations
 
 In future, we may consider:
 
-- how to change the recruitment cycle when users sign in during the rollover period
+- improving the way users can change the recruitment cycle during the rollover period
 - what menu options are available to different types of users based on their permissions
-- combine courses the organisation runs and courses the organisation’s partners run into one filterable list
+- combining courses the organisation runs and courses the organisation’s partners run into one filterable list
