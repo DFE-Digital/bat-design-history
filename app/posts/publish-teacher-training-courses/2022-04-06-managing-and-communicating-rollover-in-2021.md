@@ -14,7 +14,9 @@ related:
 
 On 5 October 2021, the new recruitment cycle for initial teacher training started. This meant that people wanting to train to teach from autumn 2022 could start applying to courses on Find postgraduate teacher training.
 
-We wanted to make it easy for providers to reuse courses from the current cycle and help them to be well informed about how to prepare their courses. We did this by:
+We wanted to make it easy for providers to reuse courses from the current cycle and help them to be well informed about how to prepare their courses.
+
+We did this by:
 
 - duplicating courses from one recruitment cycle to the next
 - adding a new page to that allows the user to switch between courses for the current cycle and rolled over courses for the next cycle
@@ -27,7 +29,7 @@ We wanted to make it easy for providers to reuse courses from the current cycle 
 | --- | --- |
 | June 2021 | First email sent to providers to let them know rollover is approaching. |
 | 6 July 2021 | Courses rolled over - banner and new page released. |
-| September 2021 | Second email to providers to remind them that rollover is now in progress. |
+| September 2021 | Second email to providers to tell them that rollover is now in progress. |
 | 14 September 2021 | First email reminder to sign in and publish courses. |
 | 28 September 2021 | Second email reminder to sign in and publish courses. |
 | 5 October 2021 | Find postgraduate teacher training opened. |
@@ -175,7 +177,7 @@ Becoming a Teacher team
 "
 }) }}
 
-At three weeks before Find opened (5 October), we emailed users again to remind them to make sure their courses were ready.
+Three weeks before Find opened (5 October), we emailed users again to remind them to make sure their courses were ready.
 
 We sent another reminder one week before Find opened.
 
@@ -230,7 +232,7 @@ Becoming a Teacher team
 
 ## After rollover
 
-After three weeks after the start of the cycle, we sent more targeted reminders depending on the status of the courses.
+Three weeks after the start of the cycle, we sent more targeted reminders depending on the status of the courses.
 
 ### Providers that have some but not all courses unpublished
 
@@ -296,8 +298,8 @@ We also contacted UCET and NASBTT who agreed to email their provider members and
 
 ## Future considerations
 
-We are in the process of creating an email comms plan for rollover 2022. We know from user research that some participants found the email reminders useful and well-timed. We plan to replicate what went well and look at how the process can be refined.
+We are in the process of creating a rollover plan for 2022. We know from user research that some participants found the email reminders useful and well-timed. We plan to replicate what went well and look at how the process can be refined.
 
-As a team, we’re compiling a list of important information we feel users need to know for rollover 2022. This will help to inform our messaging.
+As a team, we’re compiling a list of important information we feel users need to know for rollover 2022. This will help to inform our messaging and timing.
 
 <!-- markdownlint-enable MD001 MD025 -->
