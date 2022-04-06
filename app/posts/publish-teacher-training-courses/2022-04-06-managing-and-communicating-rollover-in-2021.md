@@ -73,11 +73,11 @@ This is known as the ‘rollover’ process. All your courses which were publish
 
 From 6 July, when you sign in you’ll see a new section titled ‘Next cycle (2022 to 2023)’. In this section, you should:
 
-* add any new courses you’re running for the first time in 2022 to 2023
-* fact-check your rolled over courses (paying attention to any details that might change for the new academic year)
-* delete any courses you’ll no longer be running
-* check formatting (for example, bulleted lists, links and paragraph breaks)
-* make sure your course locations are correct, and add any new ones
+- add any new courses you’re running for the first time in 2022 to 2023
+- fact-check your rolled over courses (paying attention to any details that might change for the new academic year)
+- delete any courses you’ll no longer be running
+- check formatting (for example, bulleted lists, links and paragraph breaks)
+- make sure your course locations are correct, and add any new ones
 
 Once you’ve checked and edited your courses, schedule them for publication by pressing the green ‘Publish in October’ button (you can still make further changes to them after doing this).
 
@@ -86,16 +86,16 @@ Your courses will then appear on Find in early October when the new cycle opens.
 # What’s new for this cycle?
 
 When you view the ‘Next cycle (2022 to 2023)’ section, you’ll need to:
-* add the UKPRN for your provider (lead schools will also need to add the URN)
-* add any new or additional locations (the limit of 37 locations will no longer be in place)
-* select if you can sponsor Student and Skilled Worker visas
-* select if you require a minimum degree classification
-* select if you have additional degree subject requirements for secondary courses
-* select if you’ll consider candidates with pending GCSEs or candidates who require an equivalency test
+- add the UKPRN for your provider (lead schools will also need to add the URN)
+- add any new or additional locations (the limit of 37 locations will no longer be in place)
+- select if you can sponsor Student and Skilled Worker visas
+- select if you require a minimum degree classification
+- select if you have additional degree subject requirements for secondary courses
+- select if you’ll consider candidates with pending GCSEs or candidates who require an equivalency test
 
 There will be some changes to how courses can be advertised:
 
-* the term “Early Years” will not be permitted in course titles, since Early Years Teacher Status is not awarded for any courses on Find. Courses can instead include the age range in the title – for example, Primary (3 to 7)
+- the term “Early Years” will not be permitted in course titles, since Early Years Teacher Status is not awarded for any courses on Find. Courses can instead include the age range in the title – for example, Primary (3 to 7)
 
 From the start of next cycle, Apply for teacher training will replace UCAS Teacher Training and will be the only service for applying to postgraduate ITT applications in England. If you need additional support preparing for Apply, please email becomingateacher@digital.education.gov.uk
 
