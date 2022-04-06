@@ -21,6 +21,17 @@ We wanted to make it easy for providers to reuse courses from the current cycle 
 - adding a banner to remind providers to publish their courses
 - sending a series of emails to providers about the rollover process
 
+#Important dates
+
+| Date | What happened |
+| --- | --- |
+| June 2021 | First email sent to providers to let them know rollover is approaching. |
+| 6 July 2021 | Courses rolled over - banner and new page released. |
+| September 2021 | Second email to providers to remind them that rollover is now in progress. |
+| 14 September 2021 | First email reminder to sign in and publish courses. |
+| 28 September 2021 | Second email reminder to sign in and publish courses. |
+| 5 October 2021 | Find postgraduate teacher training opened. |
+| 26 October 2022 | Targeted email reminder depending on course status. |
 
 ## Duplicating course information from one cycle to the next
 
