@@ -214,7 +214,7 @@ Becoming a Teacher team
 "
 }) }}
 
-### After rollover
+## After rollover
 
 After three weeks after the start of the cycle, we sent more targeted reminders depending on the status of the courses.
 
