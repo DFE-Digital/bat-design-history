@@ -5,7 +5,6 @@ date: 2022-04-05
 
 ---
 
-{% from "email/macro.njk" import appEmail %}
 
 
 On 5 October 2021, the new recruitment cycle for initial teacher training started. This meant that people wanting to train to teach from autumn 2022 could start applying to courses on Find postgraduate teacher training.
@@ -16,68 +15,6 @@ We wanted to make it easy for providers to reuse courses from the current cycle 
 - adding a new page to that allows the user to switch between courses for the current cycle and rolled over courses for the next cycle
 - added a banner to remind providers to publish their courses
 - sent a series of emails to providers about the rollover process
-
-# Important dates
-{{ govukSummaryList({
-  rows: [
-    {
-      key: {
-        text: "First email sent to providers"
-      },
-      value: {
-        text: "June 2021"
-      }
-    },
-    {
-      key: {
-        text: "Courses rolled over (banner and new page deployed)"
-      },
-      value: {
-        text: "6 July 2021"
-      }
-    },
-    {
-      key: {
-        text: "Second email to providers"
-      },
-      value: {
-        text: "September 2021"
-      }
-    },
-    {
-      key: {
-        text: "First email reminder"
-      },
-      value: {
-        text: "14 September 2021"
-      }
-    },
-    {
-      key: {
-        text: "Second email reminder"
-      },
-      value: {
-        text: "28 September 2021"
-      }
-    },
-    {
-      key: {
-        text: "Find postgraduate teacher training opened"
-      },
-      value: {
-        text: "5 October 2021"
-      }
-    }
-  {
-      key: {
-        text: "Targeted reminders (depending on course status)"
-      },
-      value: {
-        text: "26 October 2021"
-      }
-    }
-  ]
-}) }}
 
 
 ## Duplicating course information from one cycle to the next
@@ -99,9 +36,6 @@ We added a banner to remind users to publish their courses ready to be viewed on
 
 In June, we contacted providers to let them know that they will soon need to prepare and publish their courses for the new cycle.
 
-{{ appEmail({
-  subject: "New recruitment cycle for the 2022 to 2023 academic year",
-  content: "
 
 
 Dear colleague,
@@ -160,16 +94,12 @@ Regards,
 
 Becoming a Teacher team
 
-  "
-}) }}
+
 
 ## During rollover
 
 In September, we sent an email to tell providers to get their courses ready to be published.
 
-{{ appEmail({
-  subject: "Review and publish your courses for 2022 to 2023",
-  content: "
 
 Dear colleague,
 
@@ -216,16 +146,13 @@ Regards,
 
 Becoming a Teacher team
 
-  "
-}) }}
+
 
 At three weeks before Find opened (5 October), we emailed users again to remind them to make sure their courses were ready.
 
 We sent another reminder one week before Find opened.
 
-{{ appEmail({
-  subject: "Reminder to publish courses",
-  content: "
+
 
 Dear colleague,
 
@@ -268,8 +195,7 @@ If you'd like to provide feedback on the Publish teacher training courses servic
 Regards,
 Becoming a Teacher team
 
-  "
-}) }}
+
 
 ## After rollover
 
@@ -277,9 +203,7 @@ After three weeks after the start of the cycle, we sent more targeted reminders 
 
 # Providers that have some but not all courses unpublished
 
-{{ appEmail({
-  subject: "Reminder to publish or withdraw",
-  content: "
+
 
 Dear colleague,
 
@@ -308,8 +232,7 @@ If you have any questions, contact us at becomingateacher@digital.education.gov.
 Regards,
 Becoming a Teacher team
 
-  "
-}) }}
+
 
 # Providers who haven't published any courses
 
