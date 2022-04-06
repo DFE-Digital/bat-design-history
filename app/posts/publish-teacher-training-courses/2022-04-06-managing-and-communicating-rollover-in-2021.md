@@ -86,6 +86,7 @@ Your courses will then appear on Find in early October when the new cycle opens.
 # What’s new for this cycle?
 
 When you view the ‘Next cycle (2022 to 2023)’ section, you’ll need to:
+
 - add the UKPRN for your provider (lead schools will also need to add the URN)
 - add any new or additional locations (the limit of 37 locations will no longer be in place)
 - select if you can sponsor Student and Skilled Worker visas
@@ -250,8 +251,7 @@ We’ve noticed that you have not published some of your courses for the 2022 to
 
 This means that candidates cannot view or apply to these courses on Find postgraduate teacher training courses.
 
-#What you can do
-
+# What you can do
 
 Publish the courses, if you want candidates to view and apply to them for the 2022 to 2023 academic year.
 
