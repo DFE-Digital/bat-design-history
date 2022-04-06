@@ -5,7 +5,9 @@ date: 2022-04-05
 
 ---
 
+{% from "email/macro.njk" import appEmail %}
 
+<!-- markdownlint-disable MD001 MD025 -->
 
 On 5 October 2021, the new recruitment cycle for initial teacher training started. This meant that people wanting to train to teach from autumn 2022 could start applying to courses on Find postgraduate teacher training.
 
@@ -32,11 +34,13 @@ We added a banner to remind users to publish their courses ready to be viewed on
 ![Screenshot of new page and banner](rollover-new-page.png "New page and banner")
 ## Contacting providers about rollover
 
-# Before rollover
+### Before rollover
 
 In June, we contacted providers to let them know that they will soon need to prepare and publish their courses for the new cycle.
 
-
+{{ appEmail({
+  subject: "New recruitment cycle for the 2022 to 2023 academic year",
+  content: "
 
 Dear colleague,
 
@@ -94,6 +98,8 @@ Regards,
 
 Becoming a Teacher team
 
+"
+}) }}
 
 
 ## During rollover
@@ -264,3 +270,5 @@ We also contacted UCET and NASBTT who agreed to email their provider members and
 We are in the process of creating an email comms plan for rollover 2022. We know from user research that some participants found the email reminders useful and well-timed. We plan to replicate what went well and look at how the process can be refined.
 
 As a team, we’re compiling a list of important information we feel users need to know for rollover 2022. This will help to inform our messaging.
+
+<!-- markdownlint-enable MD001 MD025 -->
