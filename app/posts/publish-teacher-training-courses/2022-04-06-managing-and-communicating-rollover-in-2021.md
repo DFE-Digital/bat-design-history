@@ -12,14 +12,14 @@ related:
 
 <!-- markdownlint-disable MD001 MD025 -->
 
-On 5 October 2021, the new recruitment cycle for initial teacher training started. This meant that people wanting to train to teach from autumn 2022 could start applying to courses on Find postgraduate teacher training.
+On 5 October 2021, the new recruitment cycle for initial teacher training started. The start of the cycle meant that people wanting to train to teach from autumn 2022 could begin applying to courses on Find postgraduate teacher training.
 
-We wanted to make it easy for providers to reuse courses from the current cycle and help them to be well informed about how to prepare their courses.
+We wanted to make it easy for providers to reuse courses from the current cycle and inform them about how to prepare their courses.
 
 We did this by:
 
-- duplicating courses from one recruitment cycle to the next
-- adding a new page to that allows the user to switch between courses for the current cycle and rolled over courses for the next cycle
+- duplicating courses from the current (2020 to 2021) recruitment cycle to the next (2021 to 2022) recruitment cycle
+- adding a new page that allows users to switch between courses for the current recruitment cycle and rolled-over courses for the next recruitment cycle
 - adding a banner to remind providers to publish their courses
 - sending a series of emails to providers about the rollover process
 
@@ -37,15 +37,15 @@ We did this by:
 
 ## Duplicating course information from one cycle to the next
 
-On 6 July 2021, we rolled over all courses that had been published or withdrawn by providers between 5 October 2020 and 4 October 2021.
+On 6 July 2021, we rolled over all courses published or withdrawn by providers between 5 October 2020 and 4 October 2021.
 
-We copied all details and put the courses into the ‘Rolled over’ state. Providers could then review and edit the details, and publish them in time for the new recruitment cycle.
+We copied all details and put the courses into the ‘Rolled over’ state. Providers could then review and edit the details and publish them in time for the new recruitment cycle.
 
 ![Courses list in the ‘Rolled over’ state](rollover-courses-list.png "Courses list in the ‘Rolled over’ state")
 
 ## New page added to Publish
 
-Once the courses had been rolled over, we displayed an additional page to allow users to manage courses for the current cycle and the next cycle.
+Once we rolled over the courses, we displayed an interstitial page to allow users to manage courses for the current and next cycles.
 
 We added a banner to remind users to publish their courses ready to be viewed on Find from 5 October.
 
@@ -227,7 +227,7 @@ If anyone else in your organisation needs to see this email, please forward it t
 
 We’re looking to improve our services so that they are easier to navigate and meet the needs of our users.
 
-If you'd like to provide feedback on the Publish teacher training courses service, email becomingateacher@digital.education.gov.uk to schedule some time to share your thoughts.
+If you’d like to provide feedback on the Publish teacher training courses service, email becomingateacher@digital.education.gov.uk to schedule some time to share your thoughts.
 
 Regards,
 Becoming a Teacher team
@@ -274,7 +274,7 @@ Becoming a Teacher team
 "
 }) }}
 
-### Providers who haven't published any courses
+### Providers who haven’t published any courses
 
 We used the same format as above but with a different opening section:
 
@@ -300,8 +300,8 @@ We also contacted UCET and NASBTT who agreed to email their provider members and
 
 ## Further considerations
 
-We are in the process of creating a rollover plan for 2022. We know from user research that some participants found the email reminders useful and well-timed. We plan to replicate what went well and look at how the process can be refined.
+We are in the process of creating a rollover plan for 2022. We know from user research that some participants found the email reminders helpful and well-timed. We plan to replicate what went well and look at how we can refine the process.
 
-As a team, we’re compiling a list of important information we feel users need to know for rollover 2022. This will help to inform our messaging and timing.
+As a team, we’re compiling a list of important information we feel users need to know for rollover 2022. This information will help to inform our messaging and timing.
 
 <!-- markdownlint-enable MD001 MD025 -->
