@@ -41,7 +41,7 @@ On 6 July 2021, we rolled over all courses that had been published or withdrawn 
 
 We copied all details and put the courses into the ‘Rolled over’ state. Providers could then review and edit the details, and publish them in time for the new recruitment cycle.
 
-(screenshot of courses list in the ‘Rolled over’ state)
+![Courses list in the ‘Rolled over’ state](rollover-courses-list.png "Courses list in the ‘Rolled over’ state")
 
 ## New page added to Publish
 
@@ -49,7 +49,7 @@ Once the courses had been rolled over, we displayed an additional page to allow 
 
 We added a banner to remind users to publish their courses ready to be viewed on Find from 5 October.
 
-![Screenshot of new page and banner](rollover-new-page.png "New page and banner")
+![Rollover page and banner](rollover-interstitial.png "Rollover page and banner")
 
 ## Contacting providers about rollover
 
@@ -97,7 +97,7 @@ There will be some changes to how courses can be advertised:
 
 * the term “Early Years” will not be permitted in course titles, since Early Years Teacher Status is not awarded for any courses on Find. Courses can instead include the age range in the title – for example, Primary (3 to 7)
 
-From the start of next cycle, Apply for teacher training will replace UCAS Teacher Training and will be the only service for applying to postgraduate ITT applications in England. If you need additional support preparing for Apply, please email becomingateacher@digital.education.gov.uk    
+From the start of next cycle, Apply for teacher training will replace UCAS Teacher Training and will be the only service for applying to postgraduate ITT applications in England. If you need additional support preparing for Apply, please email becomingateacher@digital.education.gov.uk
 
 # Do I need to request permission for any courses?
 
@@ -109,7 +109,7 @@ You’ll still be able to view and edit your current courses after rollover. Whe
 
 # Next steps
 
-We’ll be in touch again in July to let you know that rollover has been completed and you can now view, edit and publish your courses for 2022 to 2023.  
+We’ll be in touch again in July to let you know that rollover has been completed and you can now view, edit and publish your courses for 2022 to 2023.
 
 If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at becomingateacher@digital.education.gov.uk.
 
@@ -185,7 +185,6 @@ We sent another reminder one week before Find opened.
   subject: "Reminder to publish courses",
   content: "
 
-
 Dear colleague,
 
 We’re writing to remind you that courses for the 2022 to 2023 academic year will be published on Find postgraduate teacher training on 5 October 2021, on https://www.gov.uk/find-postgraduate-teacher-training-courses
@@ -194,32 +193,37 @@ If you have not already done so, make sure you’ve checked and edited your cour
 
 There’s one week left before the start of the new academic cycle. Make sure you publish them, so that they will be visible on Find from 5 October, for candidates to apply to from 12 October.
 
-#Check your new courses
+# Check your new courses
+
 When you sign in to Publish, you’ll see a new section titled ‘Next cycle (2022 to 2023)’. This contains copies of published and withdrawn courses in the 2021 to 2022 cycle. Courses that were in draft or unpublished have not been copied over.
 
 In this section, you should:
-* check and update the details of any courses you want to run again in 2022/23,
-* add any new courses that you’re running for the first time in 2022/23
-* add the UKPRN for your provider (lead schools will also need to add the URN)
-* add any new or additional locations (the limit of 37 locations will no longer be in place)
-* select if you can sponsor Student and Skilled Worker visas
-* add additional information about the entry requirements for your courses
+
+- check and update the details of any courses you want to run again in 2022/23,
+- add any new courses that you’re running for the first time in 2022/23
+- add the UKPRN for your provider (lead schools will also need to add the URN)
+- add any new or additional locations (the limit of 37 locations will no longer be in place)
+- select if you can sponsor Student and Skilled Worker visas
+- add additional information about the entry requirements for your courses
 
 We’d encourage you to pay particular attention to the formatting on your course pages. You should:
-* click on any links to make sure they’re still working
-* check that bulleted lists are displaying correctly
-* insert paragraph breaks into long pieces of text, to make them easier to read
+
+- click on any links to make sure they’re still working
+- check that bulleted lists are displaying correctly
+- insert paragraph breaks into long pieces of text, to make them easier to read
 
 This is also a good time to review and improve the copy on your pages. Guidance and tips are available in Publish to help you with this. You’ll find these above each free-text box (for example, ‘About this course’, ‘Interview process’ and ‘How school placements work’).
 
-#Publish your courses
+# Publish your courses
+
 Once you’ve reviewed and edited your courses, you can line them up for publication to Find postgraduate teacher training.
 
 To publish, click the green ‘Publish in October’ button (you can still make changes to your courses after doing this). Your courses will appear on Find in October, when the new recruitment cycle opens, replacing your current courses.
 
 If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at becomingateacher@digital.education.gov.uk
 
-#Provide us with some feedback
+# Provide us with some feedback
+
 We’re looking to improve our services so that they are easier to navigate and meet the needs of our users.
 
 If you'd like to provide feedback on the Publish teacher training courses service, email becomingateacher@digital.education.gov.uk to schedule some time to share your thoughts.
@@ -239,7 +243,6 @@ Three weeks after the start of the cycle, we sent more targeted reminders depend
 {{ appEmail({
   subject: "Reminder to publish or withdraw",
   content: "
-
 
 Dear colleague,
 
@@ -295,8 +298,7 @@ We included reminders about rollover in several of the Becoming a teacher newsle
 
 We also contacted UCET and NASBTT who agreed to email their provider members and post reminders about publishing courses on their websites.
 
-
-## Future considerations
+## Further considerations
 
 We are in the process of creating a rollover plan for 2022. We know from user research that some participants found the email reminders useful and well-timed. We plan to replicate what went well and look at how the process can be refined.
 
