@@ -15,8 +15,8 @@ We wanted to make it easy for providers to reuse courses from the current cycle 
 
 - duplicating courses from one recruitment cycle to the next
 - adding a new page to that allows the user to switch between courses for the current cycle and rolled over courses for the next cycle
-- added a banner to remind providers to publish their courses
-- sent a series of emails to providers about the rollover process
+- adding a banner to remind providers to publish their courses
+- sending a series of emails to providers about the rollover process
 
 
 ## Duplicating course information from one cycle to the next
@@ -106,6 +106,9 @@ Becoming a Teacher team
 
 In September, we sent an email to tell providers to get their courses ready to be published.
 
+{{ appEmail({
+  subject: "Review and publish your courses for 2022 to 2023",
+  content: "
 
 Dear colleague,
 
@@ -152,12 +155,16 @@ Regards,
 
 Becoming a Teacher team
 
-
+"
+}) }}
 
 At three weeks before Find opened (5 October), we emailed users again to remind them to make sure their courses were ready.
 
 We sent another reminder one week before Find opened.
 
+{{ appEmail({
+  subject: "Reminder to publish courses",
+  content: "
 
 
 Dear colleague,
@@ -201,7 +208,8 @@ If you'd like to provide feedback on the Publish teacher training courses servic
 Regards,
 Becoming a Teacher team
 
-
+"
+}) }}
 
 ## After rollover
 
@@ -209,6 +217,9 @@ After three weeks after the start of the cycle, we sent more targeted reminders 
 
 # Providers that have some but not all courses unpublished
 
+{{ appEmail({
+  subject: "Reminder to publish or withdraw",
+  content: "
 
 
 Dear colleague,
@@ -238,7 +249,8 @@ If you have any questions, contact us at becomingateacher@digital.education.gov.
 Regards,
 Becoming a Teacher team
 
-
+"
+}) }}
 
 # Providers who haven't published any courses
 
