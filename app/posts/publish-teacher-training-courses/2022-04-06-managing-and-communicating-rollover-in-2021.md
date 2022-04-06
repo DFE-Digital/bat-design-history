@@ -9,11 +9,14 @@ date: 2022-04-05
 
 
 On 5 October 2021, the new recruitment cycle for initial teacher training started. This meant that people wanting to train to teach from autumn 2022 could start applying to courses on Find postgraduate teacher training.
+
 We wanted to make it easy for providers to reuse courses from the current cycle and help them to be well informed about how to prepare their courses. We did this by:
-duplicating courses from one recruitment cycle to the next
-adding a new page to that allows the user to switch between courses for the current cycle and rolled over courses for the next cycle
-added a banner to remind providers to publish their courses
-sent a series of emails to providers about the rollover process
+
+- duplicating courses from one recruitment cycle to the next
+- adding a new page to that allows the user to switch between courses for the current cycle and rolled over courses for the next cycle
+- added a banner to remind providers to publish their courses
+- sent a series of emails to providers about the rollover process
+
 # Important dates
 {{ govukSummaryList({
   rows: [
