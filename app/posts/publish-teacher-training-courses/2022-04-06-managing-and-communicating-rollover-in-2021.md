@@ -215,7 +215,7 @@ Becoming a Teacher team
 
 After three weeks after the start of the cycle, we sent more targeted reminders depending on the status of the courses.
 
-# Providers that have some but not all courses unpublished
+### Providers that have some but not all courses unpublished
 
 {{ appEmail({
   subject: "Reminder to publish or withdraw",
@@ -252,7 +252,7 @@ Becoming a Teacher team
 "
 }) }}
 
-# Providers who haven't published any courses
+### Providers who haven't published any courses
 
 We used the same format as above but with a different opening section:
 
@@ -260,7 +260,7 @@ We used the same format as above but with a different opening section:
 
 This means that candidates cannot view or apply to any of your courses on Find postgraduate teacher training courses.”
 
-# Providers with all courses in rolled over state
+### Providers with all courses in rolled over state
 
 We used the same format as above but with a different opening section:
 
@@ -270,7 +270,7 @@ This means that candidates cannot view or apply to any of these courses on Find 
 
 Rollover is when we copy all of your courses from one recruitment cycle to the next. You can then choose which ones you want to Publish for the next cycle.”
 
-# Additional communications
+## Additional communications
 
 We included reminders about rollover in several of the Becoming a teacher newsletters.
 
