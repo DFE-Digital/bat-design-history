@@ -18,11 +18,75 @@ We wanted to make it easy for providers to reuse courses from the current cycle 
 - adding a banner to remind providers to publish their courses
 - sending a series of emails to providers about the rollover process
 
+# Important dates
+{{ govukSummaryList({
+  rows: [
+    {
+      key: {
+        text: "First email sent to providers"
+      },
+      value: {
+        text: "June 2021"
+      }
+    },
+    {
+      key: {
+        text: "Courses rolled over (banner and new page deployed)"
+      },
+      value: {
+        text: "6 July 2021"
+      }
+    },
+    {
+      key: {
+        text: "Second email to providers"
+      },
+      value: {
+        text: "September 2021"
+      }
+    },
+    {
+      key: {
+        text: "First email reminder"
+      },
+      value: {
+        text: "14 September 2021"
+      }
+    },
+    {
+      key: {
+        text: "Second email reminder"
+      },
+      value: {
+        text: "28 September 2021"
+      }
+    },
+    {
+      key: {
+        text: "Find postgraduate teacher training opened"
+      },
+      value: {
+        text: "5 October 2021"
+      }
+    }
+  {
+      key: {
+        text: "Targeted reminders (depending on course status)"
+      },
+      value: {
+        text: "26 October 2021"
+      }
+    }
+  ]
+}) }}
+
 
 ## Duplicating course information from one cycle to the next
 
 On 6 July 2021, we rolled over all courses that had been published or withdrawn by providers between 5 October 2020 and 4 October 2021.
+
 We copied all details and put the courses into the ‘Rolled over’ state. Providers could then review and edit the details, and publish them in time for the new recruitment cycle.
+
 (screenshot of courses list in the ‘Rolled over’ state)
 
 ## New page added to Publish
@@ -32,6 +96,7 @@ Once the courses had been rolled over, we displayed an additional page to allow 
 We added a banner to remind users to publish their courses ready to be viewed on Find from 5 October.
 
 ![Screenshot of new page and banner](rollover-new-page.png "New page and banner")
+
 ## Contacting providers about rollover
 
 ### Before rollover
@@ -102,7 +167,7 @@ Becoming a Teacher team
 }) }}
 
 
-## During rollover
+### During rollover
 
 In September, we sent an email to tell providers to get their courses ready to be published.
 
@@ -211,7 +276,7 @@ Becoming a Teacher team
 "
 }) }}
 
-## After rollover
+### After rollover
 
 After three weeks after the start of the cycle, we sent more targeted reminders depending on the status of the courses.
 
