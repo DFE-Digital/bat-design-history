@@ -9,8 +9,6 @@ related:
 
 ---
 
-https://bat-design-history.netlify.app/publish-teacher-training-courses/what-we-did-for-rollover-2020/
-
 {% from "email/macro.njk" import appEmail %}
 
 <!-- markdownlint-disable MD001 MD025 -->
