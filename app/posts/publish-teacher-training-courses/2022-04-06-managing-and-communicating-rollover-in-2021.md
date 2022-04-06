@@ -2,7 +2,10 @@
 title: Managing and communicating rollover in 2021
 description: We duplicated courses, added a new page to the service and informed users about the rollover process.
 date: 2022-04-05
-
+related:
+  items:
+    - text: Rollover - what we did in 2020
+      href: /publish-teacher-training-courses/what-we-did-for-rollover-2020/
 ---
 
 {% from "email/macro.njk" import appEmail %}
