@@ -56,7 +56,7 @@ We added a ‘rejection feedback’ filter category with options for:
 
 We’re calling it ‘rejection feedback’ rather than just ‘feedback’ to make it clear what the filter will show.
 
-[John TODO]
+In the application list we changed “Feedback needed” to “Needs feedback” to match the name of the filter.
 
 ### Using existing filters to find deferred offers that can be confirmed
 
