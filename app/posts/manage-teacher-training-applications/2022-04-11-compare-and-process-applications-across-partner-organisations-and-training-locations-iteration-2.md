@@ -18,10 +18,7 @@ tags:
 
 We recently gave users [a way to compare and process applications across partner organisations](/manage-teacher-training-applications/helping-users-compare-and-process-applications-across-partner-organisations/).
 
-We’ve made improvements which include:
-
-- showing applications with a wider range of statuses
-- breaking applications down by training location
+But we did not give users a breakdown by training location. So we addressed this and made some additional changes.
 
 ## User needs
 
@@ -30,7 +27,7 @@ We’ve made improvements which include:
 
 ## Data analysis
 
-We found out how many locations an individual provider has. This may influence the way we help users view applications by location.
+We found out how many locations a provider has. This may influence the way we break down applications by location.
 
 ### All providers
 
@@ -77,15 +74,17 @@ Previously the heading for each section was ‘Applications waiting for you to m
 
 We’ve changed the heading of each section to ‘Applications to [organisation the user belongs to]’.
 
-Now that we show more statuses in the tables, it is not accurate to say that the applications are all waiting for decisions.
+Now that we show more statuses in the tables, it’s not accurate to say that the applications are all waiting for decisions.
 
 This change also means that each heading is unique and we do not need to use a caption to indicate which organisation’s data is in the table.
 
 ### Breaking applications down by location
 
-We show a section for each organisation that the user belongs to. Each organisation is either a training provider or an accredited body.
+The overview page has a section for each organisation that the user belongs to. Each organisation is either a training provider or an accredited body.
 
-Within each section we now break down applications by location. Since locations are operated by training providers, we show locations differently depending on whether the section is for a training provider or an accredited body.
+We previously only provided a breakdown by partner organisations. But we’ve since added a breakdown by location.
+
+Since locations are operated by training providers, locations are shown differently depending on whether the section is for a training provider or an accredited body.
 
 Training providers have separate tables breaking down applications by:
 
@@ -111,7 +110,7 @@ Each table previously had a column heading for ‘Organisation’. We’ve repla
 
 This change means that we can remove ‘self-ratified’ from next to the name of an organisation which is both the provider and accredited body for courses.
 
-It will be clear that the organisation is in the table because of its roles as a training provider, so there’s no need to say ‘self-ratified’.
+It’ll be clear that the organisation is in the table because of its role as a training provider, so there’s no need to say ‘self-ratified’.
 
 ### Showing organisations with zero applications
 
@@ -119,11 +118,11 @@ We decided not to hide organisations which have zero applications. Instead we sh
 
 ### Showing columns for more statuses
 
-We added columns showing the number of applications which have received, interviewing, offered, conditions pending and recruited statuses.
+We previously had columns to show the number of applications which have received and interviewing statuses.
 
-This will help give users more of an overview of their work, rather than focusing only on applications which need a decision.
+We added further columns which have offered, conditions pending and recruited statuses. This will give users more of an overview of their work, rather than focusing only on applications which need a decision.
 
-We decided not to show applications with deferred status, as they are not important to providers until the next recruitment cycle.
+We decided not to show applications with deferred status, as they’re not important to providers until the next recruitment cycle.
 
 ## How it works
 
@@ -131,7 +130,7 @@ There’s a section on the overview page for each organisation that the user bel
 
 The heading for each section is ‘Applications to [organisation]’.
 
-In each section, we show different tables depending on whether the organisation is a training provider or an accredited body.
+In each section, different tables are shown depending on whether the organisation is a training provider or an accredited body.
 
 If the organisation is a training provider, the section includes tables for:
 
@@ -141,6 +140,8 @@ If the organisation is a training provider, the section includes tables for:
 Locations and accredited bodies are ordered alphabetically.
 
 If the organisation is an accredited body, the section includes a table for applications by training provider. This can be toggled to show locations if at least one training provider in the table has more than one location.
+
+If none of the training provider partners have more than one location, the toggle link should not be displayed.
 
 Training providers and their locations are ordered alphabetically.
 
