@@ -10,11 +10,7 @@ screenshots:
       src: application-list.png
 ---
 
-<<<<<<< HEAD
 We recently [added an overview page](/manage-teacher-training-applications/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work/) which included coloured boxes showing the number of:
-=======
-We recently [added an overview page](/manage-teacher-training-applications/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work/) which included coloured boxes for:
->>>>>>> da533346c2de1cc8f7471f682b2cfeda3b3c44ad
 
 - offers with pending conditions from the previous recruitment cycle
 - automatically rejected applications that need feedback
