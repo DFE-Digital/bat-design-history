@@ -32,31 +32,34 @@ We’ve improved the design by:
 
 ## Data analysis
 
-We checked to see how many locations organisations typically have. This could affect the way we show a breakdown by location.
+We found out how many locations an individual provider has. This may influence the way we help users view applications by location.
 
-Accredited bodies who run their own courses:
+### All providers
 
-- Max is 65
-- Average is 2
-- Mode is 1
-- Mean is 1
-- 20 out of 200 providers have only 1 location
-- 90 out 200 providers have less than 15 locations
-- 110 out 200 providers have more than 15 locations
+- The median number of locations a provider has is 1
+- The mean number of locations for each provider is 4.8
+- The maximum number of locations a provider has is 65
+- 162 providers have more than 10 locations
+- 103 providers have more than 15 locations
+- 69 providers have more than 20 locations
 
-Training providers who are not accredited bodies:
+### Accredited bodies who run their own courses
 
-- Max is 65
-- Average is 2
-- Mode is 1
-- Mean is 1
+- The median number of locations an accredited body has is 1
+- The mean number of locations for each accredited body is 4.4
+- The max number of locations a accredited bodies has is 54
+- 21 accredited bodies have more than 10 locations
+- 15 accredited bodies have more than 15 locations
+- 11 accredited bodies have more than 20 locations
 
-All organisations:
+### Training providers who are not accredited bodies
 
-- Max is 65
-- Average is 2
-- Mode is 1
-- Mean is 1
+- The median number of locations a provider has is 1
+- The mean number of locations for each provider is 4.9
+- The maximum number of locations a provider has is 65
+- 141 training providers have more than 10 locations
+- 88 training providers have more than 15 locations
+- 58 training providers have more than 20 locations
 
 ## What we changed
 
