@@ -10,7 +10,7 @@ screenshots:
       src: application-list.png
 ---
 
-We recently [added an overview page](/manage-teacher-training-application/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work/) which included coloured boxes for:
+We recently [added an overview page](/manage-teacher-training-applications/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work/) which included coloured boxes for:
 
 - offers with pending conditions from the previous recruitment cycle
 - automatically rejected applications that need feedback
