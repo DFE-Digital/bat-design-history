@@ -20,7 +20,7 @@ We identified some problems with these boxes. The box about offers with pending 
 - does not help users deal with offers made in the current recruitment cycle
 - has a very long description because it has to mention the recruitment cycle
 
-We also wanted to change the colour of the box about automatically rejected applications. We do not think that orange is the most appropriate colour for it.
+We also wanted to change the colour of the box about automatically rejected applications. We think that red is the most appropriate colour for rejected applications.
 
 ## What we changed
 
