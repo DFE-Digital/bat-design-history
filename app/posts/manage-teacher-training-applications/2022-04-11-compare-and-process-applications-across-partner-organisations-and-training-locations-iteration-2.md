@@ -20,10 +20,10 @@ We recently gave users [a way to compare and process applications across partner
 
 We’ve improved the design by:
 
-- showing applications by separate statuses, rather than only those waiting for a decision
-- improving the way the tables work for users who belong to a training provider rather than an accredited body
+- showing applications with various statuses, rather than only those waiting for a decision
+- showing different tables depending on whether the user belongs to a training provider or an accredited body
 - allowing users to compare and process applications by training location
-- improving the way we indicate self ratified courses
+- changing the way we indicate self ratified courses
 
 ## User needs
 
@@ -69,7 +69,7 @@ We now:
 
 ### Names of organisations in headings
 
-We have a section for each organisation that the user belongs to.
+The overview page has a section for each organisation that the user belongs to.
 
 The heading of each section is now ‘Applications to [organisation the user belongs to]’.
 
@@ -77,13 +77,16 @@ This means that each heading is unique. Previously we had a generic heading and 
 
 ### Different tables for training providers and accredited bodies
 
-We now show different tables depending on whether they contain data for a training provider or an accredited body.
+We now show different tables in each section depending on whether the user belongs to a training provider or an accredited body.
 
-Training providers have separate tables breaking down applications by location and accredited body partners. We know that training providers are more likely to want to see applications by location.
+If the user belongs to a training provider, we show tables breaking down applications by:
 
-Accredited bodies have a table breaking down applications by training provider, with a toggle giving a further breakdown by location.
+- location
+- accredited body partners
 
-We think that for accredited bodies it’s most useful to show locations in the context of their training body partners.
+If the user belongs to an accredited body, we show a table breaking down applications by training provider partners. The table has a toggle to break down each training provider’s applications by location.
+
+We show different tables because locations are always connected to a training provider rather than an accredited body.
 
 ### Columns for more statuses
 
@@ -95,22 +98,24 @@ We decided not to show applications with deferred status, as they are not import
 
 ### Referring to organisation types and self-ratified courses
 
-Each table previously had a column heading for ‘Organisation’. We’ve replaced this with the column heading ‘Accredited body’ or ‘Training provider’ as appropriate. This fits with the approach of showing different tables to the 2 types of organisation.
+Each table previously had a column heading for ‘Organisation’. We’ve replaced this with the column heading ‘Accredited body’ or ‘Training provider’ as appropriate.
 
-This change also means that we can remove ‘self-ratified’ from next to the name of an organisation which is both the provider and accredited body for courses. It will be clear that the organisation is in the list because it’s a training provider, so there’s no need to say ‘self-ratified’.
+This change means that we can remove ‘self-ratified’ from next to the name of an organisation which is both the provider and accredited body for courses. It will be clear that the organisation is in the table as a training provider, so there’s no need to say ‘self-ratified’.
 
 ## How it works
 
-There’s a section for each organisation that the user belongs to. These sections appear in alphabetical order.
+There’s a section on the overview page for each organisation that the user belongs to. These sections appear in alphabetical order.
 
-We give the name of the organisation in the heading, rather than in a caption. The heading for each section is ‘Applications to [organisation]’.
+The heading for each section is ‘Applications to [organisation]’.
 
-For a training provider the section includes tables for:
+If the organisation the user belogns to is a training provider, the section includes tables for:
 
-- applications by location - if the training provider has more than one location
+- applications by location - if the training provider has courses at more than one location
 - applications by accredited body
 
-For an accredited body the section includes a table for applications by training provider. This can be toggled to show locations if at least one training provider has more than one location.
+If the organisation the user belogns to is an accredited body, the section includes a table for applications by training provider. This can be toggled to show locations if at least one training provider in the table has more than one location.
+
+If an accredited body ratifies its own courses, we show it at the top of the table of training providers.
 
 Each table only shows data for the current recruitment cycle. If there are no applications, the table is still displayed but shows zeroes.
 
@@ -122,4 +127,7 @@ On small screens the table is displayed within a horizontal scrollable pane.
 
 There is now an overlap between this page and the ‘status of active applications’ report. The only difference is that in the report we break down applications by course.
 
-We want to find out how useful it is to show the data for each course. If it is not very important to users, we could remove the ‘status of active applications’ report.
+We want to find out how useful it is to show the data for each course. We can then remove the ‘status of active applications’ report and either:
+
+- add the course breakdown to the overview page
+- omit the course breakdown
