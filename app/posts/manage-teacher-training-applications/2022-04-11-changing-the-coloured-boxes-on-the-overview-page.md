@@ -10,21 +10,21 @@ screenshots:
       src: application-list.png
 ---
 
-We recently [added an overview page](/manage-teacher-training-application/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work/) which included coloured boxes for:
+We recently [added an overview page](/manage-teacher-training-applications/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work/) which included coloured boxes showing the number of:
 
 - offers with pending conditions from the previous recruitment cycle
 - automatically rejected applications that need feedback
 
 We identified some problems with these boxes. The box about offers with pending conditions:
 
-- does not help users deal with offers made in the current cycle
-- the description is very long because it has to mention which cycle it relates to
+- does not help users deal with offers made in the current recruitment cycle
+- has a very long description because it has to mention the recruitment cycle
 
-We also wanted to change the colour of the box about automatically rejected applications. We did not think that the orange colour worked well.
+We also wanted to change the colour of the box about automatically rejected applications. We do not think that orange is the most appropriate colour for it.
 
 ## What we changed
 
-The blue box now shows offers with pending conditions from both the current and previous cycle.
+The blue box now shows offers with pending conditions from both the current and previous cycles.
 
 The box showing rejected applications is now red. We’ve also changed the colour of the rejected status label to match this.
 
