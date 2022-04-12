@@ -82,11 +82,14 @@ This means that each heading is unique. Previously we had a generic heading and 
 
 We now show different tables depending on whether they contain data for a training provider or an accredited body.
 
-Training providers have separate tables breaking down applications by location and accredited body partners. We know that training providers are more likely to want to see applications by location.
+Training providers have separate tables breaking down applications by:
 
-Accredited bodies have a table breaking down applications by training provider, with a toggle giving a further breakdown by location.
+- location
+- accredited body partners
 
-We think that for accredited bodies it’s most useful to show locations in the context of their training body partners.
+This is because training providers are more likely to process applications by location. Locations associated with a course belong to the training provider - not the accredited body. Therefore nesting the training provider’s locations underneath each accredited body partner is misleading and could be duplicated. For example, both accredited body partners could show the same location.
+
+Accredited bodies have a table breaking down applications by training provider, with a toggle giving a further breakdown by location. This way users are can see which locations belong to which of their training provider partners.
 
 ### Columns for more statuses
 
