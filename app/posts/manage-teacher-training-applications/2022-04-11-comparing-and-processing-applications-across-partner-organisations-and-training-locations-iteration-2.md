@@ -1,6 +1,7 @@
 ---
 title: Comparing and processing applications across partner organisations and training locations iteration 2
 date: 2022-04-11
+description: We added a breakdown of applications by location and additional statuses.
 screenshots:
   items:
     - text: User who belongs to a training provider
@@ -59,13 +60,13 @@ We found out how many locations a provider has. This may influence the way we br
 
 We decided to:
 
-- give the names of the organisations a user belongs to in headings rather than captions
+- change the heading for each organisation the user belongs to
 - break applications down by location
 - refer to organisation types in table headings and no longer mark self-ratified courses
 - show data for all organisations a user belongs to, even if it has no applications
 - show columns for more statuses in the tables
 
-### Giving the names of organisations a user belongs to
+### Changing the heading for each organisation the user belongs to
 
 The overview page has a section for each organisation that the user belongs to.
 
