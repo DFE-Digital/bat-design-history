@@ -1,5 +1,5 @@
 ---
-title: Helping users compare and process applications across partner organisations
+title: Comparing and processing applications across partner organisations
 description: We added a table to the overview page showing the number of applications waiting for a decision, broken down by partner organisation.
 date: 2022-03-17
 screenshots:
