@@ -1,6 +1,5 @@
 ---
-title: Compare and process applications across partner organisations and training locations (iteration 2)
-description: We now break applications down by training location and show additional statuses.
+title: Comparing and processing applications across partner organisations and training locations iteration 2
 date: 2022-04-11
 screenshots:
   items:
@@ -16,7 +15,7 @@ tags:
   - MN021
 ---
 
-We recently gave users [a way to compare and process applications across partner organisations](/manage-teacher-training-applications/helping-users-compare-and-process-applications-across-partner-organisations/).
+We recently gave users [a way to compare and process applications across partner organisations](/manage-teacher-training-applications/comparing-and-processing-applications-across-partner-organisations/).
 
 But we did not give users a breakdown by training location. So we addressed this and made some additional changes.
 
@@ -155,7 +154,7 @@ On small screens the table is displayed within a horizontal scrollable pane.
 
 ## Further considerations
 
-There is now an overlap between this page and the [status of active applications report](/manage-teacher-training-applications/helping-users-check-how-quickly-courses-are-filling-up/). The only difference is that in the report we break down applications by course.
+There’s now an overlap between this page and the [status of active applications report](/manage-teacher-training-applications/helping-users-check-how-quickly-courses-are-filling-up/). The only difference is that in the report we break down applications by course.
 
 We want to find out how useful users find this breakdown of applications by course. We can then remove the ‘status of active applications’ report and either:
 
