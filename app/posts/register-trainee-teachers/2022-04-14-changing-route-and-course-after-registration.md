@@ -43,6 +43,7 @@ We’ve combined the existing route and course rows into a single course row. Th
 
 Our Publish course picking page shows just those courses for the current route — so when changing course, we’ll first ask the user to select (or reconfirm) the route.
 
+![The course details summary card with a row that is labelled ‘Course’. Inside the row the route ‘Provider-led’ is shown, together with the the Publish course.](1-new-course-details-summary-card.png "Ammended course row")
 
 ## Flow
 
@@ -80,9 +81,11 @@ Our first release of course changes will likely have these shown as ‘missing d
 ## How it will look on a trainee
 
 ### A trainee before a course change
-
+![A trainee record before a course change.](2-trainee-before-course-change.png "A trainee record before a course change")
 
 ### A trainee after a course change
+
+![A trainee record after a course change.](3-trainee-after-course-change.png "A trainee record after a course change")
 
 In this example, the trainee has moved from a provider-led course to a school direct course. As a result, the provider now needs to give us school information, and reconfirm the funding.
 
