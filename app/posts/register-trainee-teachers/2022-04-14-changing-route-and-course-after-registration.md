@@ -30,12 +30,11 @@ For example, if a trainee moves:
 
 * from a provider-led course to a school direct course, then the record will now be missing school details, which are needed to correctly pay funding to the lead school
 * from a course without funding to one with funding available, we should check whether the trainee should be receiving any funding
-
-from a course with a bursary to one that doesn’t have funding, then the existing funding source is invalid
+* from a course with a bursary to one that doesn’t have funding, then the existing funding source is invalid
 
 ## New designs
 
-In the new designs, the training route is now part of the course details. Previously, it was separate — now we’ll consider it an inherent part of the course. We’ll ask about the route as the first question when setting course details.
+Previously the training route and course details were separate — now we’ll consider training route part of the course. We’ll ask about the route as the first question when setting course details.
 
 ### Course details summary card
 
@@ -49,12 +48,12 @@ Our Publish course picking page shows just those courses for the current route �
 
 Selecting ‘change’ on the course row takes the user to our existing route selection page. 
 
-After picking the route we do a number of things:
+After picking the new route we do a number of things:
 
-* if a route does not have Publish courses, we delete any existing Publish information we have on the trainees' course details such as course code and course name.
-* f the route has changed, we check for incompatible course data and delete it. For example deleting study mode when moving to assessment only courses, or deleting Early years subjects when moving away from Early years courses.
-* if the route has Publish courses, we then show the Publish course picking flow.
-* if the route does not have Publish courses, we show the manual course details flow.
+* if the new route does not have Publish courses, we delete any existing Publish information we have on the trainees' course details such as course code and course name.
+* if the new route has changed, we check for incompatible course data and delete it. For example deleting study mode when moving to assessment only courses, or deleting Early years subjects when moving away from Early years courses.
+* if the new route has Publish courses, we then show the Publish course picking flow.
+* if the new route does not have Publish courses, we show the manual course details flow.
 
 The user will finish with a course details confirmation page which captures their new route or course information.
 
