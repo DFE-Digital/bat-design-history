@@ -1,6 +1,6 @@
 ---
 title: Changing route and courses for registered trainees
-description: 
+description:
 date: 2022-04-14
 related:
   items:
@@ -46,7 +46,7 @@ Our Publish course picking page shows just those courses for the current route �
 
 ## Flow
 
-Selecting ‘change’ on the course row takes the user to our existing route selection page. 
+Selecting ‘change’ on the course row takes the user to our existing route selection page.
 
 After picking the new route we do a number of things:
 
@@ -80,6 +80,7 @@ Our first release of course changes will likely have these shown as ‘missing d
 ## How it will look on a trainee
 
 ### A trainee before a course change
+
 ![A trainee record before a course change.](2-trainee-before-course-change.png "A trainee record before a course change")
 
 ### A trainee after a course change
@@ -87,5 +88,3 @@ Our first release of course changes will likely have these shown as ‘missing d
 ![A trainee record after a course change.](3-trainee-after-course-change.png "A trainee record after a course change")
 
 In this example, the trainee has moved from a provider-led course to a school direct course. As a result, the provider now needs to give us school information, and reconfirm the funding.
-
-
