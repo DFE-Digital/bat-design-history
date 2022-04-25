@@ -1,6 +1,6 @@
 ---
 title: Shortlisting an application
-description: We added a way to shortlist a new application which can be used to distinguish new applications from those that have been sifted.
+description: We added a way to shortlist a new application, which can be used to distinguish new applications from those that have been sifted.
 date: 2022-04-25
 tags:
   - MN030
@@ -40,20 +40,26 @@ They check whether a candidate meets basic requirements such as having appropria
 - reject the candidate
 - move on to the next stage, such as sending the application to a tutor who will decide whether to interview the candidate
 
-At the moment, this stage happens while the application is still in the received status. If we add a ‘shortlisted’ status, users will be able to indicate that a candidate has met the basic requirements.
+At the moment there’s no way to indicate that this shortlisting stage has been completed. An application remains until the received status until:
+
+- an interview is set up
+- an offer is made
+- the application is rejected
+
+ If we add a shortlisted status, users will be able to indicate that a candidate has met the basic requirements.
 
 ## What we changed
 
 We added a way for users to shortlist applications. The new shortlisted status is displayed wherever statuses appear, including:
 
-- the tables of applications by status in the overview
+- the tables showing applications by status on the overview page
 - the filter list on the application list page
 - applications on the application list and details pages
 - the timeline and activity log
 
 ## How it works
 
-If an application has received status, its application details page has a prompt which indicates the automatic rejection date.
+If an application is in the received status, its application details page has a prompt which indicates the automatic rejection date.
 
 If the user and their organisation have the appropriate permissions, the prompt also has buttons allowing the user to:
 
@@ -64,7 +70,7 @@ We’ve added a ‘Shortlist’ button which appears if the user has permission 
 
 When the user clicks the button the page refreshes and a success message banner appears at the top. It says “Application shortlisted”.
 
-The button will no longer appear in the prompt. It’s not possible to move the application back to received status.
+Once the application is in the shortlisted status, the button no longer appears in the prompt. It’s not possible to move the application back to received status.
 
 ## What we want to find out
 
@@ -81,6 +87,6 @@ If we decide to introduce a way to shortlist an application, we could consider:
 - designing a different way for users to choose the status, rather than having an additional button in the prompt
 - allowing an application to be moved back from shortlisted to received status
 - what to show if a provider does not use the status - for example, we could hide it in the tables on the overview page
-- whether we could add a box to the overview, for example “5 received applications have not been shortlisted” or “7 applications for not been looked at yet”
-- whether the name of the status should be “sifted”
+- whether we should add a box to the overview, for example “5 received applications have not been shortlisted” or “7 applications have not been looked at yet”
+- whether the name of the status should be “sifted” instead
 - whether we need a new permission to allow users to shortlist an application
