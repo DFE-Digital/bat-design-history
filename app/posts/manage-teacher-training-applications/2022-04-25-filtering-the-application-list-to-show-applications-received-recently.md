@@ -27,7 +27,7 @@ We’ve already tried some approaches to helping users [find applications which 
 
 We know that users want to be able to view all the applications which are new to them.
 
-We want to offer users a way to choose to view only applications which were received on certain dates. Since users can already use filters in the application list, we want to try adding additional filters to it.
+We want to offer users a way to view only applications which were received on certain dates. Since users already filter the application list, we can provide additional filters there to achieve this.
 
 ## What we changed
 
@@ -38,20 +38,28 @@ We added a ‘date received’ filter category which includes:
 - 2 days ago
 - 3 days ago
 
-These cover the situations which we think are most important, which are for users to know what applications came in:
+These cover the situations which we think are most common, where users want to know what applications came in:
 
 - during the current day
 - since yesterday, including applications which arrived after the end of the user’s work hours
 - over the weekend, including on Friday after the end of the user’s work hours
 
-We also added a box to the overview showing the number of applications which have been received today. If the user clicks on the box, they’ll be taken to the application list filtered by ‘today’.
+We always include in the application list any information which users can filter by. This means that users can always see why an application appears in results.
+
+Previously we only showed the ‘updated’ date and time. For a new application, that would actually be the date and time it was recevied. We now show:
+
+- received date and time for all applications
+- updated date and time for applications which have been updated
+
+We also added a box to the overview showing the number of applications which have been received today. If the user clicks on the box, they‘re taken to the application list filtered by ‘today’.
 
 ## What we want to find out
 
-We want to find out:
+We want to find out if users:
 
-- if users need to find applications received longer than 3 days ago
-- if users understand the difference between date received and date updated
+- need to find applications received longer than 3 days ago
+- realise that they need to choose multiple filters to get results for a range of dates
+- understand the difference between date received and date updated
 
 ## Further considerations
 
