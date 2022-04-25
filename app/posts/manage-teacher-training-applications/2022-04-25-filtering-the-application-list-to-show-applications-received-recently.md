@@ -12,11 +12,11 @@ screenshots:
       src: application-list.png
 ---
 
-We’ve already tried some approaches to helping users [find applications which have not been looked at yet]. They did not work well in research, so we’ve decided instead to try letting users:
+We’ve already tried some approaches to helping users [find applications which have not been looked at yet](/manage-teacher-training-applications/helping-users-find-applications-which-have-not-been-looked-at-yet/). They did not work well in research, so we’ve decided instead to try letting users:
 
 - filter the application list to show applications received on certain dates
-- [shortlist applications](/shortisting-an-application)
-- [filter the activity log to show applications received between certain dates](/filtering-the-activity-log-to-show-applications-received-recently)
+- [shortlist applications](/manage-teacher-training-applications/shortisting-an-application/)
+- [filter the activity log to show applications received between certain dates](/manage-teacher-training-applications/filtering-the-activity-log-to-show-applications-received-recently/)
 
 ## User need
 
