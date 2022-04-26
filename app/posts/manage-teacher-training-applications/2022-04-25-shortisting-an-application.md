@@ -40,7 +40,7 @@ They check whether a candidate meets basic requirements such as having appropria
 - reject the candidate
 - move on to the next stage, such as sending the application to a tutor who will decide whether to interview the candidate
 
-At the moment there’s no way to indicate that this shortlisting stage has been completed. An application remains until the received status until:
+At the moment there’s no way to indicate that this shortlisting stage has been completed. An application remains in the received status until:
 
 - an interview is set up
 - an offer is made
