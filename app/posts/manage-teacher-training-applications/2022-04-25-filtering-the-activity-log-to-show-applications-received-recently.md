@@ -67,7 +67,7 @@ We also included a box on the overview page which shows the number of applicatio
 
 ## How it works
 
-[Filtering works the same way as it does on the application list](#).
+Filtering works the same way as it does on the application list.
 
 Users can enter dates and choose events, then click ‘Apply filters’.
 
