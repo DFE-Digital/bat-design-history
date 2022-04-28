@@ -12,9 +12,11 @@ related:
 
 <!-- markdownlint-disable MD001 MD025 -->
 
-When a user has been onboarded to an organisation in Publish, they receive a welcome email the first time they sign in.
+Once a user has been onboarded to an organisation in Publish, they receive a welcome email the first time they sign in.
 
-As part of our notification email audit, we noticed that our welcome email has some content that is out of date and a link that doesn’t work. It also contains instructions that are too detailed. For example, the ‘Add course’ flow is designed to guide the user through the process of adding a course so instructions in an email are not required.
+As part of our notification email audit, we found that our welcome email had some content that was out of date and a link that didn't work.
+
+It also contained detailed instructions that are unnecessary. For example, the ‘Add course’ flow is designed to guide the user through the process of adding a course so instructions in an email for how to add a course is not required.
 
 ## What we changed
 
@@ -41,7 +43,7 @@ We recommend that you bookmark the sign-in page at https://www.publish-teacher-t
 
 When you’re signed in you can:
 
-*create, edit and publish courses
+- create, edit and publish courses
 *add information about your organisation
 *add locations
 
