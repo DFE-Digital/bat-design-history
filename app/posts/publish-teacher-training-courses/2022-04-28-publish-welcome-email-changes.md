@@ -64,7 +64,9 @@ To change your notification settings, go to https://www.publish-teacher-training
 
 ## Future considerations
 
-We plan to update the How to publish teacher training courses https://qa2.publish-teacher-training-courses.service.gov.uk/guidance page in the future, which we currently link to from the footer in Publish. Once this is done, it may be useful to link to the new page from the welcome email.
+We plan to update the How to publish teacher training courses https://qa2.publish-teacher-training-courses.service.gov.uk/guidance page (currently linked to from the footer in Publish).
+
+Once this is done, it may be useful to link to the new page from the welcome email.
 
 
 <!-- markdownlint-enable MD001 MD025 -->
