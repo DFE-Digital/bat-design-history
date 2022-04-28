@@ -29,7 +29,7 @@ We made the email more concise and consistent by:
 
 We kept the subject line the same.
 
-## New welcome email
+### New welcome email
 
 {{ appEmail({
   subject: "Welcome to Publish teaching training courses",
