@@ -25,9 +25,9 @@ We made the email more concise and consistent by:
 - removing the detailed instructions
 - removing the names of buttons, for example, ‘Add a course’ - the wording in Publish is now ‘Add course’
 - removing the broken link to a PDF titled, ‘Tips for writing effectively’
-- changing the footer so it’s consistent with our other notification emails
+- changing the footer so it’s the same as our other notification emails
 
-We kept the subject line the same - ‘Welcome to Publish teacher training courses’.
+We kept the subject line the same.
 
 ## New welcome email
 
@@ -44,8 +44,8 @@ We recommend that you bookmark the sign-in page at https://www.publish-teacher-t
 When you’re signed in you can:
 
 - create, edit and publish courses
-*add information about your organisation
-*add locations
+- add information about your organisation
+- add locations
 
 When you’ve finished adding information, you’ll be able to publish your courses.
 
