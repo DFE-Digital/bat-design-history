@@ -1,6 +1,6 @@
 ---
-title: Publish welcome email changes
-description: We updated the Publish welcome email to make it consistent and concise
+title: Changes to the welcome email
+description: We updated the welcome email users’ receive to make it concise and consistent with other emails we send
 date: 2022-04-28
 related:
   items:
@@ -12,9 +12,9 @@ related:
 
 <!-- markdownlint-disable MD001 MD025 -->
 
-Once a user has been onboarded to an organisation in Publish, they receive a welcome email the first time they sign in.
+Once a user has been onboarded, they receive a welcome email the first time they sign in.
 
-As part of our notification email audit, we found that our welcome email had some content that was out of date and a link that didn't work.
+As part of our notification email audit, we found that our welcome email had some content that was out of date and a link that didn’t work.
 
 It also contained detailed instructions that are unnecessary. For example, the ‘Add course’ flow is designed to guide the user through the process of adding a course so instructions in an email for how to add a course is not required.
 
@@ -64,7 +64,7 @@ To change your notification settings, go to https://www.publish-teacher-training
 
 ## Future considerations
 
-We plan to update the How to publish teacher training courses https://qa2.publish-teacher-training-courses.service.gov.uk/guidance page (currently linked to from the footer in Publish).
+We plan to update the [How to publish teacher training courses](https://www.publish-teacher-training-courses.service.gov.uk/guidance) page (currently linked to from the footer in Publish).
 
 Once this is done, it may be useful to link to the new page from the welcome email.
 
