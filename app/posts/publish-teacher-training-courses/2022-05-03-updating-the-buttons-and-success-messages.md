@@ -12,16 +12,16 @@ screenshots:
 
 Some wording on the buttons and success messages in the service was inconsistent and didn’t match the interaction.
 
-We currently have a status called ‘Published *with unpublished changes’, which is triggered when a user makes a change to:
+The service includes a status called ‘Published *with unpublished changes’, which is triggered when a user makes a change to:
 
 - any of the text boxes in the ‘Description’ section
 - the ‘Course length and fees’ section
 
-When a change is made to a course that has the status ‘Published *with unpublished changes’, the button label is ‘Save’, and the success message is ‘Your changes have been saved’, matching the interaction. The changes won’t be visible on Find teacher training courses  (Find) until the user has changed the status to ‘Published’ by using the ‘Publish’ button on the course overview page.
+When a change is made to a course that has the status ‘Published *with unpublished changes’, the button label is ‘Save’, and the success message is ‘Your changes have been saved’, matching the interaction. The changes aren't visible on the Find teacher training courses (Find) service until the user has republished the course.
 
-However, we used the same wording for the ‘Requirements and eligibility’ and the ‘Basic details’ sections, but the changes are published on Find immediately. The user does not need to republish the course.
+We used the same wording for the ‘Requirements and eligibility’ and the ‘Basic details’ sections, but the changes are published to Find immediately. The user does not need to republish the course. This is inconsistent.
 
-We wanted to make the interactions clearer to users. We updated the content to match the interactions across Publish. At the same time, we made the success messages more descriptive.
+We wanted to make the interactions clearer to users. We updated the content to match the interactions across the service. At the same time, we made the success messages more descriptive.
 
 ## What we changed
 
@@ -35,7 +35,5 @@ We removed the inset text “Changes will appear on Find postgraduate teacher tr
 ## Future considerations
 
 We want to simplify the statuses of courses and have been looking at ways to do so. We want to remove ‘Published *with unpublished changes’ as a status type as part of this work. This change will affect the wording on the buttons and success messages that trigger this status.
-
-When we simplify the course statuses, we will be able to make the buttons and success messages the same, regardless of the situation, by using the word ‘updated’ in place of ‘saved’ or ‘published’.
 
 ## Screenshots
