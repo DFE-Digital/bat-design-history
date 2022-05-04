@@ -99,6 +99,10 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "name": "Support for early career teachers"
       },
       {
+        "name": "Find a lost teacher reference number (TRN)",
+        "href": "https://find-a-lost-trn.education.gov.uk/start"
+      },
+      {
         "name": "Teacher Self Service Portal",
         "href": "https://teacherservices.education.gov.uk/SelfService/Login"
       }
