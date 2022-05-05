@@ -1,5 +1,5 @@
 ---
-title: Updating the buttons and success messages
+title: Updating button labels and success messages
 description: We updated the content on some buttons and success messages to match the interaction.
 date: 2022-04-28
 screenshots:
@@ -35,5 +35,3 @@ We removed the inset text “Changes will appear on Find postgraduate teacher tr
 ## Future considerations
 
 We want to simplify the statuses of courses and have been looking at ways to do so. We want to remove ‘Published *with unpublished changes’ as a status type as part of this work. This change will affect the wording on the buttons and success messages that trigger this status.
-
-## Screenshots
