@@ -18,7 +18,7 @@ screenshots:
     - text: Training partner - draft course with permissions
       src: training-partner--draft-course-with-permissions.png
     - text: Training partner - draft course without permissions
-      src: training-partner--draft-course-without-permissions.png
+      src: training-partner--draft-course-no-permissions.png
 ---
 
 This work builds upon the changes we introduced to:
