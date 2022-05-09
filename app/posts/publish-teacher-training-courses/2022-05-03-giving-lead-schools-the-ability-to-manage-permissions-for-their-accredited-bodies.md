@@ -46,7 +46,7 @@ We made these changes so that users have a way to change permissions for the acc
 
 ## How it works
 
-### Viewing existing accredited body relationships if you’re a lead school
+### Viewing existing accredited body relationships
 
 We show the accredited bodies in alphabetical order.
 
