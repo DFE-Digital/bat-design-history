@@ -11,14 +11,14 @@ screenshots:
       src: training-partner--course-list-with-permissions.png
     - text: Training partner course list without any permissions
       src: training-partner--course-list-no-permissions.png
-    - text: Training partner - published course with permissions
-      src: training-partner--published-course-with-permissions.png
-    - text: Training partner - published course without permissions
-      src: training-partner--published-course-no-permissions.png
     - text: Training partner - draft course with permissions
       src: training-partner--draft-course-with-permissions.png
     - text: Training partner - draft course without permissions
       src: training-partner--draft-course-no-permissions.png
+    - text: Training partner - published course with permissions
+      src: training-partner--published-course-with-permissions.png
+    - text: Training partner - published course without permissions
+      src: training-partner--published-course-no-permissions.png
 ---
 
 This work builds upon the changes we introduced to:
