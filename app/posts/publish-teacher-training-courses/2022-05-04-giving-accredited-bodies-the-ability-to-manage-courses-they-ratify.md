@@ -74,7 +74,7 @@ If the course is published, we show:
 If the accredited body has the ‘Add course’ permission, we show:
 
 - an ‘Add course’ button on the course list
-- a ‘Delete course’ link on the course details page - the link is to the right of the ‘Publish course’ button if present
+- a ‘Delete course’ link on the course details page
 
 ### Change courses permission
 
