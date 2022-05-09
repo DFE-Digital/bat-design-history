@@ -47,8 +47,8 @@ Permitted actions include:
 
 We made these changes so that users of the accredited body:
 
-- do not also need to be members of their training partners to be able to manage courses they ratify
-- can clearly see which permissions have been given to them
+- do not need to be members of their training partners to be able to manage courses they ratify
+- can see which permissions they have
 
 ## How it works
 
@@ -56,27 +56,43 @@ By default, users of an accredited body can only view their training partner’s
 
 If their training partner has given the accredited body permission, they may also be able to manage the training partner’s courses.
 
+### Actions based on status
+
+On the course details pages, if the course is in draft, we show actions in the following order:
+
+- Publish course
+- Delete course
+
+If the course is published, we show:
+
+- View on find
+- Edit vacancies
+- Withdraw course
+
 ### Add courses permission
 
-If they have the ‘Add course’ permission, we display an ‘Add course’ button on the course list and a ‘Delete course’ link on the course details page.
+If the accredited body has the ‘Add course’ permission, we show:
+
+- an ‘Add course’ button on the course list
+- a ‘Delete course’ link on the course details page - the link is to the right of the ‘Publish course’ button if present
 
 ### Change courses permission
 
-If they have the ‘Change course’ permission, we show change links on the course details pages.
+If the accredited body has the ‘Change course’ permission, we show change links on the course details pages.
 
 Change links are also dependent on the status of the course. If the course is in ‘draft’, we show all change links. If the course is ‘published’, we show a subset of change links.
 
 ### Publish courses permission
 
-If they have the ‘Publish course’ permission, we show a ‘Publish course’ button on the course details pages below the page heading.
+If the accredited body has the ‘Publish course’ permission, we show a ‘Publish course’ button on the course details pages below the page heading.
 
 ### Withdraw courses permission
 
-If they have the ‘Withdraw course’ permission, we show a ‘Withdraw course’ link on the course details pages below the page heading. The link sits next to the ‘Publish course’ button if present.
+If the accredited body has the ‘Withdraw course’ permission, we show a ‘Withdraw course’ link on the course details pages below the heading.
 
 ### Change course vacancies permission
 
-If they have the ‘Change course vacancies’ permission, we show:
+If the accredited body has the ‘Change course vacancies’ permission, we show:
 
 - the ‘Edit’ link in the vacancies column on the course list
 - an ‘Edit vacancies’ link on the course details page
