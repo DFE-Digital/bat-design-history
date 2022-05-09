@@ -42,8 +42,8 @@ Permitted actions include:
 - Adding courses - this also includes deleting courses
 - Changing courses
 - Publishing courses
-- Withdrawing courses
 - Updating course vacancies
+- Withdrawing courses
 
 We made these changes so that users of the accredited body:
 
