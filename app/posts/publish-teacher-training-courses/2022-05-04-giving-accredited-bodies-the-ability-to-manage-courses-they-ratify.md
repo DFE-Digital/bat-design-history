@@ -56,43 +56,22 @@ By default, users of an accredited body can only view their training partner’s
 
 If their training partner has given the accredited body permission, they may also be able to manage the training partner’s courses.
 
-### Actions based on status
+### Courses list
 
-On the course details pages, if the course is in draft, we show actions in the following order:
+On the courses list page, we show:
 
-- Publish course
-- Delete course
+- an ‘Add course’ button - if the accredited body has the ‘Add courses’ permission
+- change links for course vacancies - if the accredited body has the ‘Change course vacancies’ permission
 
-If the course is published, we show:
+### Course details
+
+On the course details pages, if the course is in a ‘draft’ state, we show:
+
+- a ‘Publish course’ button - if the accredited body has the ‘Publish course’ permission
+- a ‘Delete course’ link - if the accredited body has the ‘Add courses’ permission
+
+If the course is published, we show links for:
 
 - View on find
-- Edit vacancies
-- Withdraw course
-
-### Add courses permission
-
-If the accredited body has the ‘Add course’ permission, we show:
-
-- an ‘Add course’ button on the course list
-- a ‘Delete course’ link on the course details page
-
-### Change courses permission
-
-If the accredited body has the ‘Change course’ permission, we show change links on the course details pages.
-
-Change links are also dependent on the status of the course. If the course is in ‘draft’, we show all change links. If the course is ‘published’, we show a subset of change links.
-
-### Publish courses permission
-
-If the accredited body has the ‘Publish course’ permission, we show a ‘Publish course’ button on the course details pages below the page heading.
-
-### Withdraw courses permission
-
-If the accredited body has the ‘Withdraw course’ permission, we show a ‘Withdraw course’ link on the course details pages below the heading.
-
-### Change course vacancies permission
-
-If the accredited body has the ‘Change course vacancies’ permission, we show:
-
-- the ‘Edit’ link in the vacancies column on the course list
-- an ‘Edit vacancies’ link on the course details page
+- Edit vacancies - if the accredited body has the ‘Change course vacancies’ permission
+- Withdraw course - if the accredited body has the ‘Withdraw course’ permission
