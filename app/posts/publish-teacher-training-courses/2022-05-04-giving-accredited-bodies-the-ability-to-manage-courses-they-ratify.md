@@ -48,7 +48,7 @@ Permitted actions include:
 We made these changes so that users of the accredited body:
 
 - do not need to be members of their training partners to be able to manage courses they ratify
-- can see which permissions they have
+- can see which actions have been given to them by their training partners
 
 ## How it works
 
@@ -73,5 +73,5 @@ On the course details pages, if the course is in a ‘draft’ state, we show:
 If the course is published, we show links for:
 
 - View on find
-- Edit vacancies - if the accredited body has the ‘Change course vacancies’ permission
+- Change vacancies - if the accredited body has the ‘Change course vacancies’ permission
 - Withdraw course - if the accredited body has the ‘Withdraw course’ permission
