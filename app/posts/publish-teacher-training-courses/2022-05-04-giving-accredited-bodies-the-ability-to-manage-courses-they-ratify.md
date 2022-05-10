@@ -23,8 +23,8 @@ screenshots:
 
 This work builds upon the changes we introduced to:
 
-- allow [lead schools to manage their accredited body relationships](/publish-teacher-training-courses/managing-accredited-bodies-if-youre-a-lead-school/)
-- give [lead schools the ability to manage permissions for their accredited bodies](/publish-teacher-training-courses/giving-lead-schools-the-ability-to-manage-permissions-for-their-accredited-bodies).
+- [allow lead schools to manage their accredited body relationships](/publish-teacher-training-courses/managing-accredited-bodies-if-youre-a-lead-school/)
+- [give lead schools the ability to manage permissions for their accredited bodies](/publish-teacher-training-courses/giving-lead-schools-the-ability-to-manage-permissions-for-their-accredited-bodies).
 
 ## User needs
 
