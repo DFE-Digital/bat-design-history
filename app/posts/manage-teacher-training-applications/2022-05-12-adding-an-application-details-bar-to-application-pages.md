@@ -55,11 +55,11 @@ The top of each of these pages has a header which contains:
 
 - the candidate’s name in large text
 - the application status
-- a prompt (if we need to tell the user about a deadline such as for automatic rejection)
+- a prompt (if we need to tell the user about a deadline, such as for automatic rejection)
 - a list of assigned users and a link to change which users are assigned
 - the sub navigation menu, which gives access to the each of the pages in the application
 
-![Screenshot of current header taking up a lot of space](current-big-header.png "Application details page showing how the header taking up a lot of space")
+![Screenshot of current applicationd details page](current-big-header.png "Current application details page")
 
 This header takes up a lot of space and pushes down the rest of the content on each page.
 
@@ -76,7 +76,7 @@ The number of available actions has increased as the service has developed. For 
 - make an offer
 - withdraw at the candidate’s request
 
-![Screenshot of a page with lots of actions](current-actions.png "Application details page showing a lot of different actions")
+![Screenshot of current application details page with shortlisting feature added](current-actions.png "Current application details page with shortlisting feature added")
 
 The new header makes it easier for users to find certain actions from any page in the application.
 
@@ -87,10 +87,10 @@ We created a section at the top of each application containing:
 - application number
 - candidate name
 - application status
-- prompt text - this tells the user about a deadline or other important information
+- prompt text which tells the user about a deadline or other important information
 - buttons for certain actions
 
-We’ve called this section an application details bar to make it easier to refer to.
+We’ve called this header an application details bar to make it easier to refer to.
 
 We decided to remove the assigned users feature from this design. There’s no current plan to develop the feature in production.
 
@@ -148,7 +148,7 @@ This is currently the only action which can be both global and non-global.
 
 ### Choosing which actions have buttons in the details bar
 
-In some statuses there will be several global actions. We do not want to show a button for each at the same time as this would make the details bar cramped and confusing.
+In some statuses there will be several global actions. We do not want to show buttons for all the actions at the same time as this would make the details bar cramped and confusing.
 
 We’ll show at most 2 buttons plus a ‘more actions’ toggle menu.
 
