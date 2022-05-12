@@ -15,7 +15,7 @@ screenshots:
     - text: Interviewing
       src: bar-interviewing.png
     - text: Interviewing - menu open
-      src: bar-interview--open.png
+      src: bar-interviewing--open.png
     - text: Offered
       src: bar-offered.png
     - text: Conditions pending
