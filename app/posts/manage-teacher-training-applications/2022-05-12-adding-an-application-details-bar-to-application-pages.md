@@ -94,7 +94,7 @@ We’ve called this header an application details bar to make it easier to refer
 
 We decided to remove the assigned users feature from this design. There’s no current plan to develop the feature in production.
 
-## Actions included in the application details bar
+### Actions included in the application details bar
 
 We decided to include only global actions in the application details bar. These are actions which:
 
@@ -109,7 +109,7 @@ We have not included non-global actions in the application details bar. These ar
 - do not usually affect the application as a whole
 - are typically only available within a specific page
 
-### Examples of global actions
+#### Examples of global actions
 
 Global actions available in the application details bar include:
 
@@ -119,9 +119,7 @@ Global actions available in the application details bar include:
 - make offer (in the received, shortlisted or interviewing states)
 - withdraw at candidate’s request (not in the rejected, declined, application withdrawn or offer withdrawn states)
 
-As part of this work, we’ve split the ‘make decision’ action into ‘reject’ and ‘make offer’. Instead of a page where the user can choose between rejecting and making an offer, we’ll treat this as 2 separate journeys.
-
-### Examples of non-global actions
+#### Examples of non-global actions
 
 Non-global actions include:
 
@@ -138,7 +136,7 @@ There are pages with content that directly relates to these actions. For example
 - update an offer on the offer page
 - download the application details on the application details page
 
-### Actions which can be both global and non-global
+#### Actions which can be both global and non-global
 
 We treat setting up a first interview as a global action because there’s no specific page on which to put the button. The interview page only appears after an interview has been set up.
 
@@ -146,7 +144,7 @@ Once the interview page has appeared, there’s a place to put the button for se
 
 This is currently the only action which can be both global and non-global.
 
-### Choosing which actions have buttons in the details bar
+#### Choosing which actions have buttons in the details bar
 
 In some statuses there will be several global actions. We do not want to show buttons for all the actions at the same time as this would make the details bar cramped and confusing.
 
@@ -168,11 +166,11 @@ The most common action that leads to a positive outcome has a green primary butt
 | Deferred and is ready to confirm | Confirm deferred offer is green, withdraw at candidate’s request is grey | Not applicable  |
 | Rejected and needs feedback | Give feedback is green | Not applicable |
 
-## Removing the option to reject on the decision page
+### Separating ‘make decision’ into ‘make offer’ and ‘reject’ journeys
 
-At the moment, users click ‘make decision’ in the prompt to make an offer or reject the application. This allowed us to have only 2 buttons in the prompt, ‘make decision’ and ‘set up interview’.
+At the moment, users click ‘make decision’ in the prompt to make an offer or reject the application. This allows us to have only 2 buttons in the prompt, ‘make decision’ and ‘set up interview’.
 
-They’re taken to the ‘make decision’ page which has 3 options:
+Users are taken to the ‘make decision’ page which has 3 options:
 
 - make offer
 - change course details and make offer
@@ -184,7 +182,7 @@ If the user clicks ‘reject’ then they go straight into the rejection flow. I
 
 - an h1 heading ‘make offer’ instead of ‘make decision’
 - no ‘reject application’ radio button
-- a legend of ‘Do you want to make an offer for this course?’
+- a legend which says ‘Do you want to make an offer for this course?’
 - a ‘yes’ option instead of ‘make offer’
 - a ‘no, change course details and make offer’ option instead of ‘change course details and make offer’
 
@@ -192,28 +190,16 @@ If the user clicks ‘reject’ then they go straight into the rejection flow. I
 
 We want to consider:
 
-- putting ‘add note’ in the global menu, making it possible to add notes from any page
-
-- showing assigned users within the header
-
+- showing assigned users within the application details bar
+- making ‘add note’ a global action so that it’s possible to add notes from any page
 - moving certain non-global actions like ‘add note’ to the right of the ‘notes’ h1 heading, to save space and be consistent with the application details bar
-
-- removing the concept of ‘make decision’ from the application list page, now that we’ve split the action into ‘reject’ and ‘make offer’
-
+- removing the concept of ‘make decision’ from the overview and application list pages, now that we’ve split the action into ‘reject’ and ‘make offer’
 - moving the success notification banner above the header
-
-- moving the ‘set up interview’ button from the interviews page to the global menu when the application is in the interviewing state
-
-- adding prompt text when in the conditions pending state, saying something like ‘3 conditions still need to be met’
-
+- moving the ‘set up interview’ button from the interviews page to the application details bar when the application is in the interviewing state
+- adding prompt text in the conditions pending state, saying something like ‘3 conditions still need to be met’
 - changing ‘defer offer’ to ‘defer application’ and making it a global action
-
-- removing the prompt telling users that deferred offers which are ready to confirm, since it may be clear from the status label and green ‘confirm deferred offer’ button
-
-- removing the prompt telling users that feedback is needed for automatically rejected applications, since it may be clear from status label the green ‘give feedback’ button
-
+- removing the prompt telling users that a deferred offer is ready to confirm, since it may be clear from the status label and green ‘confirm deferred offer’ button
+- removing the prompt telling users that feedback is needed for an automatically rejected application, since it may be clear from the status and green ‘give feedback’ button
 - wording the prompts differently depending on whether the user has permission to take action
-
 - changing ‘withdraw offer’ to ‘undo offer’, since we know that many users expect to be able to undo an offer without withdrawing the application
-
 - having ‘set up interview’ as a button when the application is in the received state, instead of having ‘reject’ as a button
