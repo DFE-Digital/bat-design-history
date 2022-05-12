@@ -158,15 +158,15 @@ For example, when an application has been received there are buttons to shortlis
 
 The most common action that leads to a positive outcome has a green primary button. Other actions have a grey secondary button.
 
-| Status | Button colours |
-|------------|----------|
-| Received | Shortlist is green, reject is grey |
-| Shortlisted | Set up interview is green |
-| Interview | Make offer is green, reject is grey |
-| Offered, conditions pending, recruited | Withdraw at candidate’s request is grey |
-| Deferred and not ready to confirm | Withdraw at candidate’s request is grey |
-| Deferred and is ready to confirm | Confirm deferred offer is green, withdraw at candidate’s request is grey |
-| Rejected and needs feedback | Give feedback is green |
+| Status | Button colours | More actions |
+|------------|----------|----------|
+| Received | Shortlist is green, reject is grey | Make offer, set up interview, withdraw at candidate’s request |
+| Shortlisted | Set up interview is green | Make offer, reject, withdraw at candidate’s request|
+| Interviewing | Make offer is green, reject is grey | Withdraw at candidate’s request |
+| Offered, conditions pending, recruited | Withdraw at candidate’s request is grey | Not applicable |
+| Deferred and not ready to confirm | Withdraw at candidate’s request is grey | Not applicable  |
+| Deferred and is ready to confirm | Confirm deferred offer is green, withdraw at candidate’s request is grey | Not applicable  |
+| Rejected and needs feedback | Give feedback is green | Not applicable |
 
 ## Removing the option to reject on the decision page
 
