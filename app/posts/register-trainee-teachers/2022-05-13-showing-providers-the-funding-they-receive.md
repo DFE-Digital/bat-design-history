@@ -5,11 +5,11 @@ date: 2022-05-13
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
-DTTP shows providers the money they receives from the DfE for bursaries, grants and scholarships. In research we saw that this information is useful, but not as complete or as clear as users would like.
+DTTP shows providers the money they receive from the DfE for bursaries, grants and scholarships. In research we saw that this information is useful, but not as complete or as clear as users would like.
 
 The value it offers users is providing confirmation to users they’ve registered their trainees correctly and that the DfE will pay as expected.
 
-We saw that users want more transparency and clarity in how the DfE decides how much it pays each month. There is rarely a straightforward relationship between the number of trainees eligible for funding and what the provider gets paid. The first 3 month’s payments based on the number of trainees given unconditional offers in Apply (minus 25% to allow for trainees that do not start). After these first 3 payments, the remaining payments will correct over or under payments. The funding team update their payment models quarterly. If a provider’s trainees change status this will only be reflected at the end of that quarter. This adds to the need for more over or under payment, increasing the complexity for providers in unpicking why they have been paid what they’ve been paid.
+We saw that users want more transparency and clarity in how the DfE decides how much it pays each month. There is rarely a straightforward relationship between the number of trainees eligible for funding and what the provider gets paid. The first 3 month’s payments are based on the number of trainees given unconditional offers in Apply (minus 25% to allow for trainees that do not start). After these first 3 payments, the remaining payments will correct over or under payments. The funding team update their payment models quarterly. If a provider’s trainees change status this will only be reflected at the end of that quarter. This adds to the need for more over or under payment, increasing the complexity for providers in unpicking why they have been paid what they’ve been paid.
 
 As the simplest way to show this information, we are adding the same funding data to Register. The data will continue to be uploaded from spreadsheets to Register.
 
@@ -21,9 +21,9 @@ The funding team break payments into 2 sets of data. Accredited providers (HEIs 
 
 This is the money the provider receives each month, separated by types of payment (for example, total amount of bursary money for all trainees for that month).
 
-The ‘payment profile’ always covers the whole academic year. It has payments that have been made and predicted payments. For example, if the user is looking at their payment profile in August they see one payment made in August and 11 predicted payments for the rest of the year. If the user is looking at their payment profile in July they see 12 payments that have been made and 6 predicted payments. More payment types are added through the year.
+The ‘payment profile’ always covers the whole academic year. It has payments that have been made and predicted payments. For example, if the user is looking at their payment profile in August they see one payment made in August and 11 predicted payments for the rest of the year. If the user is looking at their payment profile in July they see 12 payments that have been made and no predicted payments. More payment types are added through the year.
 
-DTTP adds each month’s payment profile data to the last one. For example, in August a user can see one payment profile, in July the user can see 12 payment profiles. Each payment profile repeats the data on payments made in previous months, but updates the current months and the predicted payments.
+DTTP keeps a history of all previous versions fo the payment profile. For example, in August a user can see one payment profile, in July the user can see 12 payment profiles.
 
 ### 2. The ‘training bursary summary’ or ‘school direct summary’
 
@@ -31,7 +31,7 @@ Accredited providers (HEIs and SCITTs) see a list of the bursary and scholarship
 
 Lead schools see the grants they receive.
 
-These summaries are based on the October census. They're not updated throughout the year. For example, if a trainee withdraws the amount shown is not adjusted. Because it’s based on the October census, the summary is not available until December.
+These summaries are based on the October census. They’re not updated throughout the year. For example, if a trainee withdraws then the amount shown is not adjusted. Because it’s based on the October census, the summary is not available until December.
 
 These summaries show all the funding available to a provider, not just the funding they or their trainees will receive. For example, a provider without any eligible trainees would still see all subjects, just with no amounts paid out.
 
@@ -39,7 +39,7 @@ These summaries show all the funding available to a provider, not just the fundi
 
 ### Payment profile
 
-The main thing we did with this information was remove the historic predictions and make it explicit which payments had been made and which were predicted. To make it clear which payments have been made and which are predicted, we made two tables and each month the number of paid months increases and the predictions decreases.
+The main thing we did with this information was remove the historic predictions and make it explicit which payments had been made and which were predicted. To do this we made two tables and each month the number of paid months increases and the number of predicted months decreases.
 
 Research showed that no one found the history of predicted payments necessary, so we removed them.
 
