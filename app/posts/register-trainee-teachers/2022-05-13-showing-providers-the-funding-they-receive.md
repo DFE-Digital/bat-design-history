@@ -7,7 +7,7 @@ date: 2022-05-13
 
 DTTP shows providers the money they receive from the DfE for bursaries, grants and scholarships. In research we saw that this information is useful, but not as complete or as clear as users would like.
 
-The value it offers users is providing confirmation to users they’ve registered their trainees correctly and that the DfE will pay as expected.
+The value it offers users is providing confirmation they’ve registered their trainees correctly and that the DfE will pay as expected.
 
 We saw that users want more transparency and clarity in how the DfE decides how much it pays each month. There is rarely a straightforward relationship between the number of trainees eligible for funding and what the provider gets paid. The first 3 month’s payments are based on the number of trainees given unconditional offers in Apply (minus 25% to allow for trainees that do not start). After these first 3 payments, the remaining payments will correct over or under payments. The funding team update their payment models quarterly. If a provider’s trainees change status this will only be reflected at the end of that quarter. This adds to the need for more over or under payment, increasing the complexity for providers in unpicking why they have been paid what they’ve been paid.
 
