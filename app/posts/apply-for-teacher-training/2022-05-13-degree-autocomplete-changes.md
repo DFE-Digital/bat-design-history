@@ -10,7 +10,15 @@ The section of our application where candidates enter their degree information h
 
 These fields allowed users to either pick from one of the options after typing in 2 or more characters, or enter their own answer.
 
-The options provided were taken from the [HESA ITT data collection guidelines](https://www.hesa.ac.uk/collection/c21053/index).
+* degree type (BA, BSc, etc)
+* university name
+* degree subject
+
+These fields allow users to either pick from one of the options after typing in 2 or more characters, or enter their own answer.
+
+## The issue
+
+The options provided were originally taken from the [HESA ITT data collection guidelines](https://www.hesa.ac.uk/collection/c21053/index).
 
 From looking at the data, we noted that a high proportion of candidates were not selecting options from the autocomplete.
 
