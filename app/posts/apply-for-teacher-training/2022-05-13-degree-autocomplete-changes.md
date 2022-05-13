@@ -6,9 +6,9 @@ date: 2022-05-13
 
 ![TODO](degree-autocomplete-changes.png "Old and new autocompletes")
 
-The section of our application where candidates enter their degree information had ‘autocomplete’ fields for degree type (BA, BSc, etc), university name and degree subject.
+We made some changes to the way that the autocomplete works within the degree information section.
 
-These fields allowed users to either pick from one of the options after typing in 2 or more characters, or enter their own answer.
+We use the autocomplete for three fields:
 
 * degree type (BA, BSc, etc)
 * university name
@@ -28,15 +28,18 @@ We were also concerned that for the subject field, the candidate may have not al
 
 ## What we changed
 
-To make it clearer that candidates could either select an option or type their own answer, we changed the design of the autocomplete so that the:
+We changed the design of the autocomplete so that the:
 
 * options have a ’Suggestions’ header
 * suggestions appear slightly below the text input, so that it looks less like a dropdown element
 * hint text explains how to use the component
+* no message is shown if there are no matching suggestions, instead it just appears as a regular text input
 
 In addition we added support for synonyms, so that we could add common alternative spellings and abbreviations for the options.
 
 This means that ‘maths’ now suggests ’Mathematics’ and ‘ucl’ now suggests ‘University College London’.
+
+We re-used [the implementation from Register](/register-trainee-teachers/autocomplete-improvements/), which also made some other improvements to the filtering, such as ignoring common words like 'the' and 'of'.
 
 ## Research
 
