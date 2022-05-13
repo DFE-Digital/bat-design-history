@@ -16,7 +16,7 @@ From looking at the data, we noted that a high proportion of candidates were not
 
 This led to messy data which made analysis harder, for example by having lots of different spellings and abbreviations for the same universities or subjects.
 
-We were also concerned that for the subject field, candidate may have not always realised that they could type in a subject not in the list, and may have picked the closest match instead. This may be frustrating, or cause minor issues later in the process when they have to produce evidence of their degree qualification.
+We were also concerned that for the subject field, the candidate may have not always realised that they could type in a subject not in the list, and may have picked the closest match instead. This may be frustrating, or cause minor issues later in the process when they have to produce evidence of their degree qualification.
 
 ## What we changed
 
