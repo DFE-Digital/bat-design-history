@@ -18,10 +18,10 @@ screenshots:
       src: users--add-user-success.png
     - text: User details
       src: users--user-details.png
-    - text: Delete user
-      src: users--delete-user.png
-    - text: User deleted success message
-      src: users--delete-user-success.png
+    - text: Remove user
+      src: users--remove-user.png
+    - text: User removed success message
+      src: users--remove-user-success.png
 ---
 
 When a provider adds a user to their organisation, they must request the addition, which goes via the Support team.
@@ -73,16 +73,33 @@ Users can check their answers at the end of the flow before saving the new user.
 
 Adding the user triggers sending an email to the new user with sign in details.
 
-### Deleting a user
+### Removing a user
 
-We introduced the ability to delete a user from the organisation.
+We introduced the ability to remove a user from the organisation.
 
-When someone clicks ‘Delete user’, they must confirm the deletion.
+When someone clicks ‘Remove user’, they must confirm the removal.
 
-Deleting a user triggers the sending of an email to the deleted user to tell them they have been removed from the organisation. If the provider did this incorrectly, the user could get help.
+Removing a user triggers the sending of an email to the user to tell them they have been removed from the organisation. If the provider did this incorrectly, the user could get help.
+
+Users cannot remove themselves from the organisation.
 
 ## Further considerations
+
+### Uploading users in bulk
 
 We considered allowing providers to add users in bulk, either via a file upload or copy and paste the data.
 
 There is not a strong need for this since providers will not be adding large numbers of users at any one time.
+
+### DfE Sign-in
+
+Users cannot sign in to the service without using a DfE Sign-in account.
+
+The email address entered must match the one used in the invitation. This is because we use the email address to link the organisation to the user.
+
+If the email address does not match, the user:
+
+- may not be able to sign in to the service
+- may be able to sign in to the service but not see the inviting provider’s part of the service
+
+We need to consider how we communicate this in our email notifications.
