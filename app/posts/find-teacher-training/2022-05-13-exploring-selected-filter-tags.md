@@ -3,8 +3,8 @@ title: Exploring selected filter tags
 description: How filter tags might work on Find
 date: 2022-05-23
 ogImage:
-  src: /find-teacher-training/exploring-selected-filter-tags/find-with-selected-filter-tags.png
-  alt: Screenshot showing the Find postgraduate teacher training with selected filter tags above the results
+  src: /find-teacher-training/exploring-selected-filter-tags/selected-filter-tags.png
+  alt: Selected filter tags
 related:
   items:
     - text: GitHub pull request with the prototype changes
