@@ -30,8 +30,6 @@ We made these changes because:
 
 - it gives accredited bodies one place to view their training partners and their training partners’ courses
 
--
-
 ## How it works
 
 We added a section called ‘Training partners’, accessible via the primary navigation.
