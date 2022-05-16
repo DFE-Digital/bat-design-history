@@ -1,6 +1,6 @@
 ---
 title: Exploring selected filter tags
-description: TODO
+description: How filter tags might work on Find
 date: 2022-05-23
 related:
   items:
@@ -56,7 +56,7 @@ Alternatively, we could decide to drop this filter, as most of the time candidat
 
 When the selected filter tags are applied to the service, it might look like this:
 
-![TODO](find-with-selected-filter-tags.png "Selected filter tags")
+![Screenshot showing the Find postgraduate teacher training with checked checkbox filters](find-with-selected-filter-tags.png "Selected filter tags")
 
 ## Further work
 
