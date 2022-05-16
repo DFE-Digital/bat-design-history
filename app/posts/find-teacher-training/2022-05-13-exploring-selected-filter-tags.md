@@ -2,11 +2,16 @@
 title: Exploring selected filter tags
 description: How filter tags might work on Find
 date: 2022-05-23
+ogImage:
+  src: /find-teacher-training/exploring-selected-filter-tags/find-with-selected-filter-tags.png
+  alt: Screenshot showing the Find postgraduate teacher training with selected filter tags above the results
 related:
   items:
     - text: GitHub pull request with the prototype changes
       href: https://github.com/DFE-Digital/find-teacher-training-prototype/pull/63
 ---
+
+![Selected filter tags](selected-filter-tags.png)
 
 We did some design exploration to see whether selected filter tags (also known as 'facet tags') would work for the service.
 
@@ -56,7 +61,7 @@ Alternatively, we could decide to drop this filter, as most of the time candidat
 
 When the selected filter tags are applied to the service, it might look like this:
 
-![Screenshot showing the Find postgraduate teacher training with checked checkbox filters](find-with-selected-filter-tags.png "Selected filter tags")
+![Screenshot showing the Find postgraduate teacher training with selected filter tags above the results](find-with-selected-filter-tags.png "Selected filter tags")
 
 ## Further work
 
