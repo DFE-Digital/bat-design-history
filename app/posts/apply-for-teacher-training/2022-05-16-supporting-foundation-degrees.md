@@ -10,7 +10,7 @@ ogImage:
 
 We have made some changes to better support candidates with foundation degrees.
 
-## The problem
+## The issue
 
 A number of candidates were being rejected due to not having a degree, which is a requirement for starting postgraduate teacher training courses.
 
