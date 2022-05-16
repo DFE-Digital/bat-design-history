@@ -1,7 +1,7 @@
 ---
 title: Exploring selected filter tags
 description: How filter tags might work on Find
-date: 2022-05-23
+date: 2022-05-13
 ogImage:
   src: /find-teacher-training/exploring-selected-filter-tags/selected-filter-tags.png
   alt: Selected filter tags
