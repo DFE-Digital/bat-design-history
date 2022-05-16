@@ -11,7 +11,7 @@ related:
       href: https://github.com/DFE-Digital/find-teacher-training-prototype/pull/63
 ---
 
-![](selected-filter-tags.png)
+![Selected filter tags](selected-filter-tags.png)
 
 We did some design exploration to see whether selected filter tags (also known as 'facet tags') would work for the service.
 
