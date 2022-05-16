@@ -14,9 +14,9 @@ screenshots:
       src: training-partners--course-description.png
 ---
 
-We wanted to simplify how accredited bodies viewed their training partners and their training partners’ courses.
+We wanted to simplify how accredited bodies viewed their training partners and their courses.
 
-Previously, accredited bodies could access courses published by their training partners in a section called ‘Courses as an accredited body’. They could not view full course information in the service, only on Find postgraduate teacher training (Find).
+Previously, accredited bodies could access courses published by their training partners in the ‘Courses as an accredited body’ section. They could not view complete course information in the service, only on Find postgraduate teacher training (Find).
 
 ## What we changed
 
@@ -76,10 +76,10 @@ For each course, we show:
 We do not show actions that would allow the accredited body to edit the course, including:
 
 - change links
-- the publish button - if the course status is ‘draft’
-- the withdraw link - if the course status is ‘published’
-- the delete link - if the course status is ‘draft’
+- the publish button - if the course status is ‘Draft’
+- the withdraw link - if the course status is ‘Published’
+- the delete link - if the course status is ‘Draft’
 
 ## Further considerations
 
-We are considering how accredited bodies manage the courses they run and those that their training partners run.
+We’re considering how accredited bodies manage their courses and those their training partners run.
