@@ -7,7 +7,7 @@ ogImage:
   alt: TODO
 ---
 
-![](flow-update.png "")
+![Diagram showing previous flow using radio buttons and checkboxes, and new flow using buttons and links](flow-update.png "")
 
 We explored some alternative designs for the initial flow of the service, with the aim to make more of a browsing experience.
 
@@ -44,13 +44,13 @@ Below this, we added some content to guide users who may not yet have decided wh
 
 Finally, we included some guidance for people who‘re already school teachers - who may be eligible to qualify as a teacher a different way.
 
-![](find-before-and-after.png "Existing first page compared with the prototype new one")
+![Screenshots showing old and new designs for the homepage, with the old design containing a 3 radio button options and the new design showing more content, two green buttons labelled 'Find primary courses' and 'Find secondary courses' and further links below](find-before-and-after.png "Existing first page compared with the prototype new one")
 
 ### Secondary subjects
 
 For the secondary age group, we then then took users to a page listing all the different subjects available, divided into 2 lists depending on whether a bursary or scholarship was on offer. We added numbers in brackets to indicate how many courses were available for each subject.
 
-![](find-secondary-courses.png "Prototype new secondary courses page")
+![Screenshot showing page titled 'Find secondary teacher training courses' with a list of subjects](find-secondary-courses.png "Prototype new secondary courses page")
 
 ### Location
 
@@ -62,11 +62,11 @@ Beneath the location box we added some guidance about the application process, i
 * when the deadline for applications is
 * that courses can fill up before the deadline
 
-![](secondary-subject.png "Prototype new secondary subject page")
+![Screenshot showing page titled 'Find Biology teacher training courses'](secondary-subject.png "Prototype new secondary subject page")
 
 When selecting the primary age group, we skipped the subject page and took users straight to a similar page listing regions and cities for primary courses. This was because the number of primary specialist subject courses available is very small, and users sometimes misunderstand how these courses work.
 
-![](primary.png "Prototype new primary courses page")
+![Screenshot showing page titled 'Find primary teacher training courses'](primary.png "Prototype new primary courses page")
 
 ## User research
 
