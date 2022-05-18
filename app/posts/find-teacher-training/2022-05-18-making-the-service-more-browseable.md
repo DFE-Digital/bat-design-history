@@ -1,7 +1,7 @@
 ---
 title: Making the service more browseable
 description: An exploration into how we might use links instead of form-based questions
-date: 2022-05-16
+date: 2022-05-18
 ogImage:
   src: /find-teacher-training/making-the-service-more-browseable/todo.png
   alt: TODO
