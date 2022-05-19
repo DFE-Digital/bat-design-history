@@ -10,6 +10,8 @@ related:
       href: /publish-teacher-training-courses/giving-accredited-bodies-the-ability-to-manage-courses-they-ratify/
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 We recently introduced a way for lead schools to [manage permissions for their accredited bodies](/publish-teacher-training-courses/giving-lead-schools-the-ability-to-manage-permissions-for-their-accredited-bodies/).
 
 As part of this work, we need to notify the accredited body when:
