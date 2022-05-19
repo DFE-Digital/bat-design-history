@@ -21,7 +21,9 @@ As part of this work, we need to notify the accredited body when:
 ## What we changed
 
 We have added three new notification emails in Notify that will be sent automatically depending on the action taken by the lead school.
+
 ### Accredited body added
+
 When a lead school user adds an accredited body to their account, all users of the accredited body will receive a notification email.
 
 {{ appEmail({
@@ -48,6 +50,7 @@ The Becoming a Teacher team
 }) }}
 
 ### Permissions changed
+
 When a lead school user adds or removes any permissions for an accredited body, all users at the accredited body will receive a notification email.
 
 {{ appEmail({
