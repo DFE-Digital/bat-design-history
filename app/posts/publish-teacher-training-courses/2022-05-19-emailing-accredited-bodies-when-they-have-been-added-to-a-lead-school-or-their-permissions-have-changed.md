@@ -12,6 +12,8 @@ related:
 
 {% from "email/macro.njk" import appEmail %}
 
+<!-- markdownlint-disable MD001 MD025 -->
+
 We recently introduced a way for lead schools to [manage permissions for their accredited bodies](/publish-teacher-training-courses/giving-lead-schools-the-ability-to-manage-permissions-for-their-accredited-bodies/).
 
 As part of this work, we need to notify the accredited body when:
@@ -107,3 +109,5 @@ The Becoming a Teacher team
 ## Further considerations
 
 We need to investigate if there is a need to allow users of the accredited body to turn off permissions notifications.
+
+<!-- markdownlint-enable MD001 MD025 -->
