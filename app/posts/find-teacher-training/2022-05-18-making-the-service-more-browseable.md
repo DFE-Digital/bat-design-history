@@ -68,12 +68,6 @@ When selecting the primary age group, we skipped the subject page and took users
 
 ![Screenshot showing page titled 'Find primary teacher training courses'](primary.png "Prototype new primary courses page")
 
-## User research
-
-We tested the new prototype new flow with XX participants.
-
-TODO
-
 ## Further work
 
 If we were to take this approach forward, we should iterate the design to make the guidance about the application process more visible and faster to read.
