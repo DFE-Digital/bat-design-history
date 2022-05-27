@@ -42,7 +42,7 @@ A green button was added for each age group.
 
 Below this, we added some content to guide users who may not yet have decided which age group to teach. This promoted the teacher training adviser and get school experience services. We also added some links to guidance for teaching age groups not covered by service.
 
-Finally, we included some guidance for people who‘re already school teachers - who may be eligible to qualify as a teacher a different way.
+Finally, we included some guidance for people who’re already school teachers - who may be eligible to qualify as a teacher a different way.
 
 ![Screenshots showing old and new designs for the homepage, with the old design containing a 3 radio button options and the new design showing more content, two green buttons labelled 'Find primary courses' and 'Find secondary courses' and further links below](find-before-and-after.png "Existing first page compared with the prototype new one")
 
