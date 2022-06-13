@@ -8,7 +8,7 @@ related:
       description: |
         Username: `find`
         Password: `bat`
-      href: https://find-prototype.herokuapp.com/
+      href: https://find-training-prototype.herokuapp.com/
 pagination:
   data: collections.find-teacher-training
   reverse: true
