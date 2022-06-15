@@ -50,6 +50,7 @@ We have done recent work with the Teaching Regulation Agency to improve the spee
 ![Homepage status boxes with zero trainees in ‘Pending TRN’ and ‘Qualification recommended’ statuses](3-homepage-status-boxes-empty.png)
 
 We also had development challenges building the cohorts. Some trainee records imported from HESA are incomplete and this made calculating the cohorts impossible for these trainees. We’d know the trainee had finished, but not when - this meant we couldn't know if they should be in current or past. This is because our definition of current included any trainee who started or finished this year. Without knowing their end date we couldn’t know if they finished this year.
+
 ## What we’ve changed
 
 The core need of identifying past and current trainees remains - and we believe it makes most sense to focus on current trainees rather than showing historic ones.
