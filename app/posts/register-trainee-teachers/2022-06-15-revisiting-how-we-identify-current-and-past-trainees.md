@@ -1,5 +1,5 @@
 ---
-title: Revisiting how we identify current and past trainese
+title: Revisiting how we identify current and past trainees
 description:
 date: 2022-06-15
 ---
