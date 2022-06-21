@@ -61,7 +61,8 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "href": "https://www.apply-for-teacher-training.service.gov.uk"
       },
       {
-        "name": "Application for QTS"
+        "name": "Apply for qualified teacher status (QTS) in England",
+        "href": "https://apply-for-qts-in-england.education.gov.uk/"
       }
     ],
     "providers": [
@@ -133,6 +134,10 @@ The 'becoming a teacher' services are part of a broader range of digital service
       {
         "name": "Find and compare schools",
         "href": "https://www.gov.uk/school-performance-tables"
+      },
+      {
+        "name": "Professional development for teachers and leaders",
+        "href": "https://professional-development-for-teachers-leaders.education.gov.uk"
       }
     ]
   },
