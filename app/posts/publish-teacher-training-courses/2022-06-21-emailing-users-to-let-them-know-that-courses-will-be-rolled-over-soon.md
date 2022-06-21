@@ -16,7 +16,7 @@ On 10 June 2022, we emailed all Publish users to tell them that their courses fo
 
 ## What we changed
 
-We updated the rollover 2021 email significantly. Last year, we needed to tell users about several new features in Publish, such as selecting if a minimum degree classification is required and adding a UKPRN number.
+We updated the rollover 2021 email significantly. Last year, we needed to tell users about several new features in Publish, such as selecting if a minimum degree classification is required and adding a UK Provider Reference Number (UKPRN).
 
 This year, the email is more concise and the key messages are that:
 
