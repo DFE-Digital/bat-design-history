@@ -18,7 +18,7 @@ On 10 June 2022, we emailed all Publish users to tell them that their courses fo
 
 We updated the rollover 2021 email significantly. Last year, we needed to tell users about several new features in Publish, such as selecting if a minimum degree classification is required and adding a UKPRN number.
 
-This year, the email is more concise and the key messages are:
+This year, the email is more concise and the key messages are that:
 
 - courses will be rolled over on 7 July 2022
 - there will be a new section called ‘Recruitment cycle 2022 to 2023 - current’
@@ -29,7 +29,7 @@ We also asked providers if they’d like to take part in a survey about changes 
 ## First rollover email - sent 10 June 2022
 
 {{ appEmail({
-  subject: "<lead school name> has added your organisation as an accredited body",
+  subject: "Get ready for the 2022 to 2023 recruitment cycle",
   content: "
 
 In October, courses for the 2023 to 2024 academic year will be published on Find postgraduate teacher training.
@@ -46,9 +46,9 @@ All courses which were published or withdrawn this recruitment cycle will be rol
 
 From 7 July, you’ll see a new section in Publish titled ‘Recruitment cycle 2022 to 2023 - current’. You can then:
 
-*add new courses
-*update rolled over courses
-*delete any courses you’ll no longer be running
+- add new courses
+- update rolled over courses
+- delete any courses you’ll no longer be running
 
 Also, you’ll find some improved guidance on what information to include in your course descriptions. This is based on our research into what candidates are looking for when they are browsing course page.
 
@@ -78,7 +78,7 @@ We created an email plan for rollover 2022. We used the emails sent in rollover 
 
 We plan to send four more emails as part of our plan:
 
-When courses are rolled over - July
-First reminder email - September
-Second reminder email - September
-Third reminder email - October
+- When courses are rolled over - July
+- First reminder email - September
+- Second reminder email - September
+- Third reminder email - October
