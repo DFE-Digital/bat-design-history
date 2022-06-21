@@ -24,7 +24,7 @@ This year, the email is more concise and the key messages are that:
 - there will be a new section called ‘Recruitment cycle 2022 to 2023 - current’
 - there will be improved guidance for course descriptions
 
-We also asked providers if they’d like to take part in a survey about changes we’re making to Publish and recieved ? responses.
+We also asked providers if they’d like to take part in a survey about changes we’re making to Publish.
 
 ## First rollover email - sent 10 June 2022
 
