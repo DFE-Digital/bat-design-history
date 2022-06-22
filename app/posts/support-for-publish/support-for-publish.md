@@ -8,7 +8,7 @@ related:
       description: |
         Username: `publish`
         Password: `bat`
-      href: https://support-for-publish-prototype.herokuapp.com
+      href: https://support-for-publish.herokuapp.com
     - text: User needs
       href: /support-for-publish/user-needs
 pagination:
