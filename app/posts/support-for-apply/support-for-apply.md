@@ -8,7 +8,7 @@ related:
       description: |
         Username: `apply`
         Password: `bat`
-      href: https://support-for-apply.herokuapp.com
+      href: https://support-apply-prototype.herokuapp.com
     - text: User needs
       href: /support-for-apply/user-needs
 pagination:
