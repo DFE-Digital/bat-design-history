@@ -28,7 +28,7 @@ The nationality question was previously located in the ‘personal information�
 
 ![Screenshot showing where the nationality question was previously located.](personal-information-section.png)
 
-## British/Irish nationals
+## British and Irish nationals
 
 British/Irish nationals who’ve been permanently resident in any combination of the following places for the 3 years before the course starts are usually eligible for home fees:
 
@@ -112,7 +112,7 @@ In this question we discourage candidates from treating gap years as time spent 
 
 ![x.](hint-text-gap-year.png)
 
-In the [question with the full list of places](/british-irish-list.png), however, we do not mention temporary absences.
+In the [question with the full list of places](british-irish-list.png), however, we do not mention temporary absences.
 
 It would add an extra layer to the question (which already has hint text) making it more complicated.
 
@@ -120,7 +120,75 @@ We tried and decided against the following hint text:
 
 ![x.](gap-year-hint-text.png)
 
-Even if you select ‘Somewhere else’ when you do not need to (for example, you lived away for only a couple of months), your answer to the [give details question](/detail-living.png) should help clarify things.
+Even if you select ‘Somewhere else’ when you do not need to (for example, you lived away for only a couple of months), your answer to the [give details question](detail-living.png) should help clarify things.
 
 </div>
 </details>
+
+## EU nationals with EU settled status
+
+EU nationals with EU settled status are also likely to be eligible for home fees if they’ve been permanently resident in any combination of the places listed above (the same list as for [British and Irish nationals](#british-and-irish-nationals)).
+
+So, in addition to nationality, we need to find out about a candidate’s immigration status.
+
+If you do not select British or Irish in the nationality question, we ask whether you have the right to work in the UK:
+
+![x.](nationality-other.png)
+
+![x.](right-to-work-in-uk.png)
+
+If you say ‘No’ you go to the check answers page because you’re unlikely to be eligible for home fees.
+
+<details class="govuk-details" data-module="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      What else happens if you say 'No'
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+
+If you say that you do not have the right to work or study in the UK, and you also select a course which does not sponsor visas, you get the following warning message in the course choices section:
+
+![x.](visa-warning.png)
+
+This is because international candidates often need a student or skilled worker visa to get the right to work or study in the UK - only some courses sponsor these visas, so we need to warn candidates if they select a course which does not.
+
+</div>
+</details>
+
+If you say ‘Yes’, we ask for your immigration status:
+
+![x.](immigration-status-eu-settled.png)
+
+Selecting both an EU nationality like ‘French’ and ‘EU settled status’ takes you to the [UK or Ireland question](uk-or-ireland.png).
+
+You're now on the same path as British/Irish nationals (saying 'Yes' takes you to the check answers page; saying 'No' takes you to the same [list of places that British/Irish nationals see](british-irish-list.png).
+
+<details class="govuk-details" data-module="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      What happens if you do not select an EU nationality
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+  </div>
+  </details>
+
+## EU nationals with EU pre-settled status
+
+EU nationals with EU pre-settled status are likely to be eligible for home fees if they’ve been permanently resident in any combination of the following countries for the 3 years before the course starts:
+
+• UK
+• Ireland
+• EU
+• Switzerland
+• Iceland
+• Liechtenstein
+• Norway
+• British Overseas Territories   
+
+This is not the same list as for British/Irish candidates and EU nationals with EU settled status, as it does not contain the Channel Islands and Isle of Man.
+
+So candidates who [select an EU nationality](nationality-other.png) like ‘French’, and ‘EU pre settled status’ from the [immigration status question](immigration-status-eu-settled.png), see a different list of places if they reach the following question:
+
+![x.](eu-pre-settled-list.png)
