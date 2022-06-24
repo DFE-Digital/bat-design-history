@@ -16,6 +16,7 @@ date: 2022-06-22
 * [Candidates with indefinite leave to remain or right of abode](/apply-for-teacher-training/home-fee-status/#candidates-with-indefinite-leave-to-remain-or-right-of-abode)
 * [Another immigration status](/apply-for-teacher-training/home-fee-status/#another-immigration-status)
 * [Resources](/apply-for-teacher-training/home-fee-status/#resources)
+* [Next steps](/apply-for-teacher-training/home-fee-status/#next-steps)
 
 ## User need
 
@@ -127,9 +128,7 @@ In this question we discourage candidates from treating gap years as time spent 
 
 ![Screenshot showing the question 'Will you have been living in the UK or Ireland for 3 years by the time the course starts?' pointing out hint text about gap years.](hint-text-gap-year.png)
 
-In the [question with the full list of places](british-irish-list.png), however, we do not mention temporary absences.
-
-It would add an extra layer to the question (which already has hint text) making it more complicated.
+In the question with the full list of places, however, we do not mention temporary absences. It would add an extra layer to the question (which already has hint text) making it more complicated.
 
 We tried and decided against the following hint text:  
 
@@ -179,6 +178,25 @@ Selecting both an EU nationality like ‘French’ and ‘EU settled status’ t
 
 You're now on the same path as British/Irish nationals (saying 'Yes' takes you to the check answers page; saying 'No' takes you to the same [list of places that British/Irish nationals see](british-irish-list.png).
 
+## EU nationals with EU pre-settled status
+
+EU nationals with EU pre-settled status are likely to be eligible for home fees if they’ve been permanently resident in any combination of the following countries for the 3 years before the course starts:
+
+• UK
+• Ireland
+• EU
+• Switzerland
+• Iceland
+• Liechtenstein
+• Norway
+• British Overseas Territories   
+
+This is not the same list as for British/Irish candidates and EU nationals with EU settled status, as it does not contain the Channel Islands and Isle of Man.
+
+So candidates who [select an EU nationality](nationality-other.png) like ‘French’ and ‘EU pre-settled status’ from the [immigration status question](immigration-status-eu-settled.png) see a different list of places if they reach the following question:
+
+![Screenshot showing the question 'Where will you have been living for the 3 years before the course starts?' showing the list of places for EU nationals with EU pre-settled status.](eu-pre-settled-list.png)
+
 <details class="govuk-details" data-module="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
@@ -195,25 +213,6 @@ You're now on the same path as British/Irish nationals (saying 'Yes' takes you t
 
   </div>
   </details>
-
-## EU nationals with EU pre-settled status
-
-EU nationals with EU pre-settled status are likely to be eligible for home fees if they’ve been permanently resident in any combination of the following countries for the 3 years before the course starts:
-
-• UK
-• Ireland
-• EU
-• Switzerland
-• Iceland
-• Liechtenstein
-• Norway
-• British Overseas Territories   
-
-This is not the same list as for British/Irish candidates and EU nationals with EU settled status, as it does not contain the Channel Islands and Isle of Man.
-
-So candidates who [select an EU nationality](nationality-other.png) like ‘French’, and ‘EU pre settled status’ from the [immigration status question](immigration-status-eu-settled.png), see a different list of places if they reach the following question:
-
-![Screenshot showing the question 'Where will you have been living for the 3 years before the course starts?' showing the list of places for EU nationals with EU pre-settled status.](eu-pre-settled-list.png)
 
 ## Candidates with indefinite leave to remain or right of abode
 
@@ -261,4 +260,4 @@ As a result, the design will not give providers everything they need to know to 
 
 If we implement this design we need to ensure that it's clear on the provider interface that candidates' answers to these questions will not necessarily be enough to assess their fee status.
 
-We also need find out it gives providers enough detail to have significant value. Otherwise, it does not merit the additional burden for candidates.
+We also need to assess whether it gives providers enough detail to have value. Otherwise, it does not merit the additional burden for candidates.
