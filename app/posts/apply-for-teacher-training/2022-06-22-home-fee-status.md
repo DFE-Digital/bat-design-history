@@ -78,13 +78,13 @@ We decided against this because:
 
 Instead, we divided the question into 2. Firstly, we just ask about the UK and Ireland:
 
-![x.](uk-or-ireland.png)
+![Screenshot showing the question 'Will you have been living in the UK or Ireland for 3 years by the time the course starts?'](uk-or-ireland.png)
 
 Answering yes takes you straight to the check answers page because you’re likely to be eligible for home fee status.
 
 We only ask about the full list of places if you answer ‘No’:
 
-![x.](british-irish-list.png)
+![Screenshot showing the question 'Where will you have been living for the 3 years before the course starts?'](british-irish-list.png)
 
 <details class="govuk-details" data-module="govuk-details">
   <summary class="govuk-details__summary">
@@ -109,7 +109,7 @@ If ‘Somewhere else' is not part of your selection, you go to the check answers
 
 If ‘Somewhere else’ is part of your selection, we ask for more detail:
 
-![x.](detail-living.png)
+![Screenshot showing the question 'Give details about where you’ll have been living for the 3 years before the course starts'.](detail-living.png)
 
 This is because you’re unlikely to be eligible for home fees if you’ve lived outside the listed places for a significant period of time, so providers need to find out more.
 
@@ -125,7 +125,7 @@ If you've lived outside the listed places temporarily, for example for a gap yea
 
 In this question we discourage candidates from treating gap years as time spent away:
 
-![x.](hint-text-gap-year.png)
+![Screenshot showing the question 'Will you have been living in the UK or Ireland for 3 years by the time the course starts?' pointing out hint text about gap years.](hint-text-gap-year.png)
 
 In the [question with the full list of places](british-irish-list.png), however, we do not mention temporary absences.
 
@@ -133,7 +133,7 @@ It would add an extra layer to the question (which already has hint text) making
 
 We tried and decided against the following hint text:  
 
-![x.](gap-year-hint-text.png)
+![Screenshot showing the question 'Where will you have been living for the 3 years before the course starts?' pointing out the hint text about gap years that we tried.](gap-year-hint-text.png)
 
 Even if you select ‘Somewhere else’ when you do not need to (for example, you lived away for only a couple of months), your answer to the [give details question](detail-living.png) should help clarify things.
 
@@ -148,9 +148,9 @@ So, in addition to nationality, we need to find out about a candidate’s immigr
 
 If you do not select British or Irish in the nationality question, we ask whether you have the right to work in the UK:
 
-![x.](nationality-other.png)
+![Screenshot showing the question 'What's your nationality?' when 'Other' and 'French' are selected](nationality-other.png)
 
-![x.](right-to-work-in-uk.png)
+![Screenshot showing the question 'Do you already have the right to work or study in the UK for the duration of this course?'](right-to-work-in-uk.png)
 
 If you say ‘No’ you go to the check answers page because you’re unlikely to be eligible for home fees.
 
@@ -164,7 +164,7 @@ If you say ‘No’ you go to the check answers page because you’re unlikely t
 
 If you say that you do not have the right to work or study in the UK, and you also select a course which does not sponsor visas, you get the following warning message in the course choices section:
 
-![x.](visa-warning.png)
+![Screenshot showing warning message when a course without visa sponsorship has been selected and user has selected that they do not yet have the right to work or study in the UK.](visa-warning.png)
 
 This is because international candidates often need a student or skilled worker visa to get the right to work or study in the UK - only some courses sponsor these visas, so we need to warn candidates if they select a course which does not.
 
@@ -173,7 +173,7 @@ This is because international candidates often need a student or skilled worker 
 
 If you say ‘Yes’, we ask for your immigration status:
 
-![x.](immigration-status-eu-settled.png)
+![Screenshot showing the question 'What's your immigration status?'](immigration-status-eu-settled.png)
 
 Selecting both an EU nationality like ‘French’ and ‘EU settled status’ takes you to the [UK or Ireland question](uk-or-ireland.png).
 
@@ -213,7 +213,7 @@ This is not the same list as for British/Irish candidates and EU nationals with 
 
 So candidates who [select an EU nationality](nationality-other.png) like ‘French’, and ‘EU pre settled status’ from the [immigration status question](immigration-status-eu-settled.png), see a different list of places if they reach the following question:
 
-![x.](eu-pre-settled-list.png)
+![Screenshot showing the question 'Where will you have been living for the 3 years before the course starts?' showing the list of places for EU nationals with EU pre-settled status.](eu-pre-settled-list.png)
 
 ## Candidates with indefinite leave to remain or right of abode
 
@@ -229,13 +229,13 @@ This list is shorter than for British/Irish candidates or EU nationals with EU s
 
 So candidates who select ‘Indefinite leave to remain’ or ‘Right of abode’ from the immigration status question see a different list of places if they reach the following question:
 
-![x.](leave-to-remain-list.png)
+![Screenshot showing the question 'Where will you have been living for the 3 years before the course starts?' showing the list of places for people with indefinite leave to remain or right of abode.](leave-to-remain-list.png)
 
 ## Another immigration status
 
 We list only the immigration statuses which are most likely to make you eligible for home fees, and include 'Another immigration status' to capture other cases:
 
-![x.](another-immigration-status.png)
+![Screenshot showing the question 'What's your immigration status?' when 'Another immigration status' is selected.](another-immigration-status.png)
 
 For example, if a candidate is a refugee or holder of humanitarian protection, they may also be eligible for home fees. The text box allows candidates to elaborate on their immigration status.
 
@@ -245,4 +245,20 @@ Not all parts of the [prototype](https://github.com/DFE-Digital/apply-for-teache
 
 Refer to the following map for the intended user journey:
 
-![x.](home-fee-status.png)
+![Screenshot showing the full user journey map of the nationality and residency section.](home-fee-status.png)
+
+## Next steps
+
+The 'Nationality and residency' section was not implemented due to changing priorities.
+
+If we reprioritise this work, we should test it with both candidates and providers.
+
+The design is intended to support providers, rather than candidates. It could introduce a barrier for candidates, as it means they have more questions to answer - and giving details about where they've been living may be off-putting for some.
+
+We tried to keep candidate questions to a minimum to reduce this burden (we think most people will only need to answer 2 questions).
+
+As a result, the design will not give providers everything they need to know to make an assessment of fee status. It's merely intended to reduce the burden that providers currently experience in collecting this information off the service - signalling when further questions need to be asked.
+
+If we implement this design we need to ensure that it's clear on the provider interface that candidates' answers to these questions will not necessarily be enough to assess their fee status.
+
+We also need find out it gives providers enough detail to have significant value. Otherwise, it does not merit the additional burden for candidates.
