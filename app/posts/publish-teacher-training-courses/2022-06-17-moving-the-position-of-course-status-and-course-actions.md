@@ -4,12 +4,12 @@ description: We moved the course status tag and course actions to make it easier
 date: 2022-06-17
 screenshots:
   items:
-    - text: Course details - empty, draft and rollover
-      src: course-details--draft-rollover.png
+    - text: Course details - empty, draft and rolled over
+      src: course-details--draft-rolled-over.png
     - text: Course details - published
       src: course-details--published.png
     - text: Course details - published with unpublished changes
-      src: ccourse-details--published-with-unpublished-changes.png
+      src: course-details--published-with-unpublished-changes.png
     - text: Course details - withdrawn
       src: course-details--withdrawn.png
 ---
