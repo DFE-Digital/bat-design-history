@@ -27,15 +27,15 @@ Trainees are only eligible for a bursary or scholarship if they’re entitled to
 
 ## What we changed
 
-We don’t currently show bursary and scholarship information in the service.
+We do not currently show bursary and scholarship information in the service.
 
-To make the service consistent with the Find postgraduate teacher training (Find) service, we added ‘Financial support from government’ to the course length and fees section of the course description page.
+To make the service consistent with Find postgraduate teacher training (Find), we added ‘Financial support from government’ to the course length and fees section of the course description page.
 
 ## How it works
 
 If a bursary is available, we show the bursary amount. For example, ‘Bursaries of £10,000 available’.
 
-Scholarships don’t exist independently from bursaries.
+Scholarships do not exist independently from bursaries.
 
 We show the scholarship and bursary amounts if a scholarship is available. For example, ‘Scholarships of £26,000 and bursaries of £24,000 are available’.
 
