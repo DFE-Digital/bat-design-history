@@ -4,6 +4,21 @@ description: We designed nationality and residency questions to help providers a
 date: 2022-06-22
 ---
 
+
+## Contents
+
+* [User need](/apply-for-teacher-training/home-fee-status/#user-need)
+* [Hypothesis](/apply-for-teacher-training/home-fee-status/#hypothesis)
+* [Nationality and residency section](/apply-for-teacher-training/home-fee-status/#nationality-and-residency-section)
+* [British and Irish nationals](/apply-for-teacher-training/home-fee-status/#british-and-irish-nationals)
+* [EU nationals with EU settled status](/apply-for-teacher-training/home-fee-status/#eu-nationals-with-eu-settled-status)
+* [EU nationals with EU pre-settled status](/apply-for-teacher-training/home-fee-status/#eu-nationals-with-eu-pre-settled-status)
+* [Candidates with indefinite leave to remain or right of abode](/apply-for-teacher-training/home-fee-status/#candidates-with-indefinite-leave-to-remain-or-right-of-abode)
+* [Another immigration status](/apply-for-teacher-training/home-fee-status/#another-immigration-status)
+* [Resources](/apply-for-teacher-training/home-fee-status/#resources)
+
+## User need
+
 Teacher training providers need to know if a candidate should pay home or international course fees before they make an offer.
 
 This is so that they can quote the course fees when they make the offer.
@@ -171,6 +186,13 @@ You're now on the same path as British/Irish nationals (saying 'Yes' takes you t
     </span>
   </summary>
   <div class="govuk-details__text">
+
+  If you select a nationality that is not an EU nationality, and you also select 'EU settled status' or 'EU pre-settled status', you go straight to the check answers page rather than being asked about where you've been living.
+
+  This is because you can only be eligible for home fees with settled or pre-settled status if you're an EU national.
+
+  (It's possible to have EU settled or pre-settled status without an EU nationality.)
+
   </div>
   </details>
 
@@ -192,3 +214,35 @@ This is not the same list as for British/Irish candidates and EU nationals with 
 So candidates who [select an EU nationality](nationality-other.png) like ‘French’, and ‘EU pre settled status’ from the [immigration status question](immigration-status-eu-settled.png), see a different list of places if they reach the following question:
 
 ![x.](eu-pre-settled-list.png)
+
+## Candidates with indefinite leave to remain or right of abode
+
+Candidates with indefinite leave to remain or right of abode are likely to be eligible for home fees if they’ve been permanently resident in any combination of the following countries for the 3 years before the course starts:
+
+* UK
+* Ireland
+* Channel Islands
+* Isle of Man
+* British Overseas Territories   
+
+This list is shorter than for British/Irish candidates or EU nationals with EU settled status.
+
+So candidates who select ‘Indefinite leave to remain’ or ‘Right of abode’ from the immigration status question see a different list of places if they reach the following question:
+
+![x.](leave-to-remain-list.png)
+
+## Another immigration status
+
+We list only the immigration statuses which are most likely to make you eligible for home fees, and include 'Another immigration status' to capture other cases:
+
+![x.](another-immigration-status.png)
+
+For example, if a candidate is a refugee or holder of humanitarian protection, they may also be eligible for home fees. The text box allows candidates to elaborate on their immigration status.
+
+## Resources
+
+Not all parts of the [prototype](https://github.com/DFE-Digital/apply-for-teacher-training-prototype/pull/646) work as intended yet.
+
+Refer to the following map for the intended user journey:
+
+![x.](home-fee-status.png)
