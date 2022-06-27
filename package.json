@@ -45,7 +45,7 @@
     "@rollup/plugin-node-resolve": "^13.3.0",
     "accessible-autocomplete": "^2.0.3",
     "fs-extra": "^10.1.0",
-    "govuk-frontend": "^4.1.0",
+    "govuk-frontend": "^4.2.0",
     "http-server": "^14.1.1",
     "luxon": "^2.4.0",
     "markdown-it-abbr": "^1.0.4",
