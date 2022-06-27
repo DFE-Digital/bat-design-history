@@ -16,7 +16,7 @@ screenshots:
 
 Currently, the course status and actions a user can take on a course are only in the sidebar of the course descriptions page.
 
-We wanted to make the course status and actions more evident and available regardless of the section a user might be in.
+We wanted to make the course status and actions clearer and available regardless of the section a user might be in.
 
 ## What we changed
 
@@ -55,7 +55,7 @@ If the course has the status ‘published’, we show links to:
 - change vacancies
 - withdraw course
 
-If the course is published and has unpublished changes, we first show a publish course button in the list of actions.
+If the course is published and has unpublished changes, we show a ‘publish course’ button first in the list of actions.
 
 If the course is ‘withdrawn’, we remove all actions, including change links.
 
