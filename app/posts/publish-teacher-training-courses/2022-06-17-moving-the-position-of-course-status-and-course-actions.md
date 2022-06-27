@@ -25,8 +25,8 @@ We removed the sidebar on the basic details and description pages.
 We now show the:
 
 - course status next to the course name
-- last published date immediately below the course name - if the course status is ‘published’
-- last withdrawn date immediately below the course name - if the course status is ‘withdrawn’
+- last published date below the course name - if the course status is ‘published’
+- last withdrawn date below the course name - if the course status is ‘withdrawn’
 - actions in a horizontal list above the sub-navigation
 
 We made these changes so that users could:
