@@ -44,6 +44,6 @@ For courses offering a salary, we show the text that is shown on Find. This ofte
 
 We could do further work to allow Apply to show more specific and accurate information about course costs. We could:
 
-* prompt providers to detail all extra costs
-* ask providers to specify whether the ‘home fee’ or ‘international students fee’ applies when making an offer to a candidate
-* give candidates more details about how the unqualified teacher pay scales translate into salary ranges
+- prompt providers to detail all extra costs
+- ask providers to specify whether the ‘home fee’ or ‘international students fee’ applies when making an offer to a candidate
+- give candidates more details about how the unqualified teacher pay scales translate into salary ranges
