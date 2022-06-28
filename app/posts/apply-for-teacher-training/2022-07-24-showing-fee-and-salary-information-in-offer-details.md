@@ -11,7 +11,7 @@ related:
       href: https://github.com/DFE-Digital/apply-for-teacher-training/pull/6879
 ---
 
-![Details of offer. Fees. UK: £2,250. International: £20,400](/apply-for-teacher-training/showing-fee-and-salary-information-within-offer-details/offer-details.png)
+![Details of offer. Fees. UK: £2,250. International: £20,400](/apply-for-teacher-training/showing-fee-and-salary-information-in-offer-details/offer-details.png)
 
 We’ve added fee and salary information to the offer details shown in Apply.
 
@@ -36,7 +36,7 @@ For courses with a fee, we show the fee for both UK and international students i
 
 ![Screenshot showing a ‘Details of offer’ heading, under which the fees for UK and international students are given. It also says that “an additional fee of £625 will apply if candidates take up the option of a PGCE qualification.”](details-of-offer-with-fee.png)
 
-For courses offering a salary, we show the text that is shown on Find. This often refers to a pay scale.
+For courses offering a salary, we show the text was entered by providers in Publish. This often refers to a pay scale.
 
 ![Screenshot showing a ‘Details of offer’ heading, under which the salary is listed as “The school will pay the salary as an unqualified teacher scale 1 as a minium.”](details-of-offer-with-salary.png)
 
@@ -45,5 +45,5 @@ For courses offering a salary, we show the text that is shown on Find. This ofte
 We could do further work to allow Apply to show more specific and accurate information about course costs. We could:
 
 * prompt providers to detail all extra costs
-* ask providers to specify whether the ‘home fee’ or ‘international students fee’ applies when making an offer to a candidate
+* ask providers to say when making an offer whether the candidate would pay the ‘home fee’ or ‘international students fee’
 * give candidates more details about how the unqualified teacher pay scales translate into salary ranges
