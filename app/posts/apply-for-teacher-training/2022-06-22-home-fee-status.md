@@ -2,6 +2,10 @@
 title: Helping providers assess a candidate’s fee status
 description: We designed nationality and residency questions to help providers assess fee status.
 date: 2022-06-22
+related:
+  items:
+    - text: Pull request adding nationality and residency section to the prototype
+      href: https://github.com/DFE-Digital/apply-for-teacher-training-prototype/pull/646
 ---
 
 
