@@ -175,6 +175,8 @@ If you say that you do not have the right to work or study in the UK, and you al
 
 This is because international candidates often need a student or skilled worker visa to get the right to work or study in the UK - only some courses sponsor these visas, so we need to warn candidates if they select a course which does not.
 
+You can find out more about this warning message in our entry about [moving the personal details section to the top of the application form](/apply-for-teacher-training/moving-personal-details-to-top/). 
+
 </div>
 </details>
 
