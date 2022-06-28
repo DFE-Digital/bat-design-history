@@ -36,7 +36,7 @@ For courses with a fee, we show the fee for both UK and international students i
 
 ![Screenshot showing a ‘Details of offer’ heading, under which the fees for UK and international students are given. It also says that “an additional fee of £625 will apply if candidates take up the option of a PGCE qualification.”](details-of-offer-with-fee.png)
 
-For courses offering a salary, we show the text was entered by providers in Publish. This often refers to a pay scale.
+For courses offering a salary, we show the text that was entered by providers in Publish. This often refers to a pay scale.
 
 ![Screenshot showing a ‘Details of offer’ heading, under which the salary is listed as “The school will pay the salary as an unqualified teacher scale 1 as a minium.”](details-of-offer-with-salary.png)
 
