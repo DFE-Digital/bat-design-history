@@ -2,12 +2,16 @@
 title: Helping providers assess a candidate’s fee status
 description: We designed nationality and residency questions to help providers assess fee status.
 date: 2022-06-22
+ogImage:
+  src: /apply-for-teacher-training/home-fee-status/nationality-and-residency.png
+  alt: "Flow diagram showing questions related to home fee status"
 related:
   items:
     - text: Pull request adding nationality and residency section to the prototype
       href: https://github.com/DFE-Digital/apply-for-teacher-training-prototype/pull/646
 ---
 
+![Flow diagram showing questions related to nationality and residency](nationality-and-residency.png)
 
 ## Contents
 
@@ -61,7 +65,7 @@ British/Irish nationals who’ve been permanently resident in any combination of
 * Iceland
 * Liechtenstein
 * Norway
-* British Overseas Territories   
+* British Overseas Territories
 
 So our first idea was to ask British/Irish candidates the following question:
 
@@ -134,7 +138,7 @@ In this question we discourage candidates from treating gap years as time spent 
 
 In the question with the full list of places, however, we do not mention temporary absences. It would add an extra layer to the question (which already has hint text) making it more complicated.
 
-We tried and decided against the following hint text:  
+We tried and decided against the following hint text:
 
 ![Screenshot showing the question 'Where will you have been living for the 3 years before the course starts?' pointing out the hint text about gap years that we tried.](gap-year-hint-text.png)
 
@@ -193,7 +197,7 @@ EU nationals with EU pre-settled status are likely to be eligible for home fees 
 • Iceland
 • Liechtenstein
 • Norway
-• British Overseas Territories   
+• British Overseas Territories
 
 This is not the same list as for British/Irish candidates and EU nationals with EU settled status, as it does not contain the Channel Islands and Isle of Man.
 
@@ -226,7 +230,7 @@ Candidates with indefinite leave to remain or right of abode are likely to be el
 * Ireland
 * Channel Islands
 * Isle of Man
-* British Overseas Territories   
+* British Overseas Territories
 
 This list is shorter than for British/Irish candidates or EU nationals with EU settled status.
 
