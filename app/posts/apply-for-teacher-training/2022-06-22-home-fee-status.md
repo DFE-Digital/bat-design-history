@@ -11,10 +11,11 @@ related:
       href: https://github.com/DFE-Digital/apply-for-teacher-training-prototype/pull/646
 ---
 
-![Flow diagram showing questions related to nationality and residency](nationality-and-residency.png)
+
 
 ## Contents
 
+* [Overview](/apply-for-teacher-training/home-fee-status/#overview)
 * [User need](/apply-for-teacher-training/home-fee-status/#user-need)
 * [Hypothesis](/apply-for-teacher-training/home-fee-status/#hypothesis)
 * [Nationality and residency section](/apply-for-teacher-training/home-fee-status/#nationality-and-residency-section)
@@ -25,6 +26,13 @@ related:
 * [Another immigration status](/apply-for-teacher-training/home-fee-status/#another-immigration-status)
 * [Resources](/apply-for-teacher-training/home-fee-status/#resources)
 * [Next steps](/apply-for-teacher-training/home-fee-status/#next-steps)
+
+
+## Overview
+
+We designed a new nationality and residency section to help providers assess candidates' fee status.
+
+![Flow diagram showing questions related to nationality and residency](nationality-and-residency.png)
 
 ## User need
 
@@ -67,18 +75,11 @@ British/Irish nationals who’ve been permanently resident in any combination of
 * Norway
 * British Overseas Territories
 
-So our first idea was to ask British/Irish candidates the following question:
+So our first idea was to ask British/Irish candidates the following question, with the option to respond 'Yes' or 'No':
 
-{% from "email/macro.njk" import appEmail %}
-{{ appEmail({
-  content: "
-
-  Will you have been living in the UK, Ireland, Channel Islands, Isle of Man, EU, Switzerland, Iceland, Liechtenstein, Norway or British Overseas Territories for 3 years before the course starts?
-
-  ( ) Yes
-  ( ) No
-"
-}) }}
+<div class="govuk-inset-text">
+Will you have been living in the UK, Ireland, Channel Islands, Isle of Man, EU, Switzerland, Iceland, Liechtenstein, Norway or British Overseas Territories for 3 years before the course starts?
+</div>
 
 We decided against this because:
 
@@ -175,7 +176,7 @@ If you say that you do not have the right to work or study in the UK, and you al
 
 This is because international candidates often need a student or skilled worker visa to get the right to work or study in the UK - only some courses sponsor these visas, so we need to warn candidates if they select a course which does not.
 
-You can find out more about this warning message in our entry about [moving the personal details section to the top of the application form](/apply-for-teacher-training/moving-personal-details-to-top/). 
+You can find out more about this warning message in our entry about [moving the personal details section to the top of the application form](/apply-for-teacher-training/moving-personal-details-to-top/).
 
 </div>
 </details>
