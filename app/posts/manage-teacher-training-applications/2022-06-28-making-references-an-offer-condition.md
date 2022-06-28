@@ -1,7 +1,7 @@
 ---
 title: Making references an offer condition
-description: Exploring how providers can request and review references after a candidate accepts an offer.
-date: 2022-06-22
+description: Exploring how providers could request and review references after a candidate accepts an offer.
+date: 2022-06-28
 screenshots:
   items:
     - text: Add offer conditions
@@ -10,8 +10,10 @@ screenshots:
       src: make-offer--check-details.png
     - text: Offer made
       src: application--offer-made.png
-    - text: References page
-      src: application--references.png
+    - text: References page with 2 references received
+      src: application--references-2-received.png
+    - text: References page with 2 references received and 1 requested
+      src: application--references-2-received-1-requested.png
     - text: Offer page with references condition pending
       src: application--offer-references-pending.png
     - text: Update status of conditions
@@ -21,6 +23,8 @@ screenshots:
     - text: Conditions marked as met
       src: application--conditions-met.png
 ---
+
+{% from "email/macro.njk" import appEmail %}
 
 Candidates for teacher training must currently include 2 references as part of their application.
 
@@ -61,7 +65,7 @@ References no longer appear in the application details page.
 
 When the provider makes an offer, they’re asked to add conditions as usual.
 
-There are currently 2 standard conditions, which have pre-selected checkboxes but can be unselected. They are:
+There are currently 2 standard conditions, which are selected by default but can be unselected. They are:
 
 - Disclosure and Barring Service check
 - fitness to train to teach check
@@ -76,24 +80,39 @@ If the user leaves the references checkbox ticked but does not enter any text, t
 
 ### After the candidate accepts an offer
 
-For this design, we’ve assumed that the candidate will:
+We’ve assumed that the candidate will:
 
 - request references at the same time as they accept an offer
 - be able to return to the candidate service and request more references, for example if there’s no response to a request
 
 When the candidate accepts an offer, the status of their application changes to ‘conditions pending’ as usual. A new ‘references’ page appears in their application, with content saying:
 
-- how many references the candidate has received - this will be hidden until at least 1 reference has been received
-- how many references the candidate has requested but not yet received
+- how many references the candidate has received - this will only be shown if at least one reference has been received
+- how many references the candidate has requested but not yet received - this only be shown if at least one reference has been requested but not received
 - what type of references they’ve requested, for example academic or professional
 - when they requested the references
 
-We will not indicate reference requests which have been:
+For example, if a candidate has requested one reference and requested one more then the content could be:
+
+> The candidate has received one reference.
+>
+> They have not yet received:
+>
+> - 1 professional reference requested on 13 June 2022
+
+If a candidate has requested 2 references and not received any then the content could be:
+
+> The candidate has not yet received:
+>
+> - 1 academic reference requested on 11 June 2022
+> - 1 school based reference requested on 11 June 2022
+
+We will not indicate which reference requests have been:
 
 - declined by the person asked to give the reference
 - cancelled by the candidate
 
-This is because users could interpret these as being negative, which would be unfair to candidates.
+This is because users could interpret these as being negative, which would be unfair to candidates. We’ll leave them in the list of requested references.
 
 ### Receiving references
 
@@ -108,30 +127,56 @@ A link in the email takes the user to the references page in the candidate’s a
 The references page will have been updated so that:
 
 - the received reference is not mentioned in the list of requested references
-- details of the received reference appears on the page
+- details of the received reference appear on the page
 
 The most recently received reference appears first. This is so that it is easier to spot that something has changed.
 
 ### Marking the references condition as met or not met
 
-If the provider is satisfied with the candidate’s references, they can go to the offer page and mark the condition is met. There are no changes to this journey.
+If the provider is satisfied with the candidate’s references, they can go to the offer page and mark the condition as met.
 
 If the provider is not satisfied with the candidate’s references, they can either:
 
 - ask them for more references - this will be done outside the service
 - go to the offer page and mark the condition as not met, which will move the application to the ‘conditions not met’ status
 
+There are no changes to the way in which a user marks a condition as met or not met.
+
 ## Further considerations
 
 We plan to research this design with users.
 
-If we go ahead with it, we’ll need to:
+If we go ahead with it, we’ll need to make changes to the services used by candidates and the people giving references. We’ll also need to:
 
 - decide how to show references in the timeline and activity log
 - add emails about references to the email notifications preferences page, so that providers can choose whether or not to receive them
-- design changes to the services used by candidates and the people giving references
-
-We need to consider:
-
-- whether to automatically give a heading such ‘References:’ to the text entered for the references condition, in case it is not clear from what the user has written
+- consider whether to automatically give a heading such ‘References:’ to the text entered for the references condition, in case it is not clear from what the user has written
 - try other designs for showing the number of references requested and received
+
+## Email sent to providers when a reference is received
+
+<!-- markdownlint-disable MD001 MD025 -->
+
+{{ appEmail({
+  subject: "((candidate))’s ((first_second_etc)) reference received - manage teacher training applications",
+  content: "
+
+Dear ((provider_user))
+
+You’ve received the second reference for ((candidate))’s application for ((course_and_code)).
+
+View the references for this application:
+
+((link_to_references_page))
+
+# Get help
+
+Get help, report a problem or give feedback at becomingateacher@digital.education.gov.uk.
+
+You can change your email notification settings:
+
+https://www.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
+  "
+}) }}
+
+<!-- markdownlint-enable MD001 MD025 -->
