@@ -61,6 +61,7 @@ We made these changes so that:
 We changed the name of ‘About this course’ to ‘Course summary’. We determined that the whole page on Find is about the course, whereas this section is designed to be a summary of the course’s unique features.
 
 We also added a link to [an updated ‘How to use this service’ page](/publish-teacher-training-courses/adding-new-guidance-pages/) that links to two new pages - ‘Course summary examples’ and ‘Writing descriptions for Publish teacher training courses’.
+
 ### How school placements work
 
 The guidance in the ‘How school placements work’ section was relevant, but we found a way to shorten the content and reduce the number of bullet points from 8 to 6.
