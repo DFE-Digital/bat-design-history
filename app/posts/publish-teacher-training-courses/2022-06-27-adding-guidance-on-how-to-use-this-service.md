@@ -18,7 +18,7 @@ screenshots:
 
 We have added a new guidance section to the service to help users create better course content.
 
-This work builds upon the changes we made to [improve the guidance on the course description pages](/publish-teacher-training-courses/adding-guidance-on-how-to-use-this-service/).
+This work builds upon the changes we made to [improve the guidance on the course description pages](/publish-teacher-training-courses/improving-the-guidance-on-the-course-description-pages/).
 
 ## What we changed
 
