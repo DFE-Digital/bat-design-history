@@ -60,7 +60,10 @@ We made these changes so that:
 
 We changed the name of ‘About this course’ to ‘Course summary’. We determined that the whole page on Find is about the course, whereas this section is designed to be a summary of the course’s unique features.
 
+Using our findings from user research, we updated the guidance above the text field to make it more aligned to what candidates are looking for.
+
 We also added a link to [an updated ‘How to use this service’ page](/publish-teacher-training-courses/adding-new-guidance-pages/) that links to two new pages - ‘Course summary examples’ and ‘Writing descriptions for Publish teacher training courses’.
+
 ### How school placements work
 
 The guidance in the ‘How school placements work’ section was relevant, but we found a way to shorten the content and reduce the number of bullet points from 8 to 6.
@@ -75,6 +78,6 @@ To make course pages on Find easier to read, we want to look at ways to break th
 
 We looked at reducing the word count for the ‘Course summary’ section, but providers received this idea negatively in our initial user research.
 
-We wanted to look at the Find page holistically to see if restructuring the content improves the candidate experience. However, the need to release the new guidance in time for rollover has meant we’ve not yet been able to do this.
+We wanted to look at the Find page holistically to see if restructuring the content improves the candidate experience. However, the need to release the new guidance in time for rollover has meant we’ve not yet been able to do this. We plan to look at restructuring the content in the future.
 
 We also want to investigate if a rich text editor will help providers create and edit their content.
