@@ -5,7 +5,7 @@ date: 2022-06-27
 related:
   items:
     - text: Improving the guidance on the course description pages
-    - href: /publish-teacher-training-courses/improving-the-guidance-on-the-course-description-pages/
+      href: /publish-teacher-training-courses/improving-the-guidance-on-the-course-description-pages/
 screenshots:
   items:
     - text: How to use this service
