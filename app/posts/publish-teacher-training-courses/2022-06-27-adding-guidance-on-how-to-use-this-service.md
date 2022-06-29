@@ -37,15 +37,17 @@ We updated the link and page title to ‘How to use this service’. We removed 
 
 ### Course summary examples
 
-This new page contains two examples of a well-structured course summary. The examples follow the updated guidance. They use plain English, short sentences and short paragraphs to make the content easy to read and scan.
+This new page contains two examples of a well-structured course summary.
+
+The examples follow the updated guidance. They use plain English, short sentences and short paragraphs to make the content easy to read and scan.
 
 ### Writing descriptions for Publish teacher training courses
 
 This page contains more information about writing well for the web. It includes:
 
-information about what candidates are looking for
-more ideas on what to include in course descriptions
-broader information on how people read online with a link to [planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) on GOV.UK
+- information about what candidates are looking for
+- more ideas on what to include in course descriptions
+- broader information on how people read online with a link to [planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) on GOV.UK
 
 ## Future considerations
 
