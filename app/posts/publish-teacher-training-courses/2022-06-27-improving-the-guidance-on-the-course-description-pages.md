@@ -15,6 +15,7 @@ screenshots:
     - text: Interview process
       src: guidance--interview-process.png
 ---
+
 User researchers working on Apply for teacher training (Apply) conducted a diary study with potential teacher training candidates. They asked participants to share their views on the course descriptions on Find postgraduate teacher training (Find).
 
 Participants said that:
@@ -58,7 +59,7 @@ We made these changes so that:
 
 ### Course summary
 
-We changed the name of ‘About this course’ to ‘Course summary’. We determined that the whole page on Find is about the course, whereas this section is designed to be a summary of the course’s unique features.
+We changed the name of ‘About this course’ to ‘Course summary’. Each course page on Find is about the course, whereas this section is designed to be a summary of the course’s unique features.
 
 Using our findings from user research, we updated the guidance above the text field to make it more aligned to what candidates are looking for.
 
