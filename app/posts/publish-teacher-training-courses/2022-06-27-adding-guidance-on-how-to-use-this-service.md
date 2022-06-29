@@ -5,7 +5,7 @@ date: 2022-06-27
 related:
   items:
     - text: Improving the guidance on the course description pages
-    - href: /publish-teacher-training-courses/improving-the-guidance-on-the-course-description pages/
+    - href: /publish-teacher-training-courses/improving-the-guidance-on-the-course-description-pages/
 screenshots:
   items:
     - text: How to use this service
@@ -16,9 +16,9 @@ screenshots:
       src: guidance--writing-descriptions.png
 ---
 
-We added new guidance and course summary examples as part of our work [changing the guidance above course description fields](/publish-teacher-training-courses/changing-the-guidance-above-course-description-fields/).
+We have added a new guidance section to the service to help users create better course content.
 
-We have also updated the guidance page linked to from the footer in Publish teacher training courses.
+This work builds upon the changes we made to [improve the guidance on the course description pages](/publish-teacher-training-courses/adding-guidance-on-how-to-use-this-service/).
 
 ## What we changed
 
