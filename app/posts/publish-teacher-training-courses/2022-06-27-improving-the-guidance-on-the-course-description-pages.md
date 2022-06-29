@@ -63,7 +63,7 @@ We changed the name of ‘About this course’ to ‘Course summary’. Each cou
 
 Using our findings from user research, we updated the guidance above the text field to make it more aligned to what candidates are looking for.
 
-We also added a link to [an updated ‘How to use this service’ page](/publish-teacher-training-courses/adding-new-guidance-pages/) that links to two new pages - ‘Course summary examples’ and ‘Writing descriptions for Publish teacher training courses’.
+We also added a link to an updated ‘How to use this service’ page that links to two new pages - ‘Course summary examples’ and ‘Writing descriptions for Publish teacher training courses’.
 
 ### How school placements work
 
