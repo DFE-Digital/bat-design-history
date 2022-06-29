@@ -42,6 +42,7 @@ This new page contains two examples of a well-structured course summary.
 The examples follow the updated guidance. They use plain English, short sentences and short paragraphs to make the content easy to read and scan.
 
 ### Writing descriptions for Publish teacher training courses
+
 This page contains more information about writing well for the web. It includes:
 
 - information about what candidates are looking for
