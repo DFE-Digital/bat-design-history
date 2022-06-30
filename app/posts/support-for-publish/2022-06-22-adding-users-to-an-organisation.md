@@ -1,6 +1,6 @@
 ---
 title: Adding users to an organisation
-description: Giving support users the ability to add provider users to Publish
+description: Giving support users the ability to add users to an organisation
 date: 2022-06-22
 screenshots:
   items:
@@ -24,12 +24,18 @@ screenshots:
       src: users--remove-user-success.png
 ---
 
+Currently, providers cannot add users to their organisation, they can only request that a new user is added. This request needs to be approved by the support team.
+
+As part of the approval process, a developer needs to link the user to the organisation.
+
+We wanted to reduce the burden on the support team and developers by introducing a simple way of adding a user to an organisation.
+
+This work builds upon the work we have done to [simplify how organisations manage their users](/publish-teacher-training-courses/simplifying-how-organisations-manage-users/).
 
 ## What we changed
 
 
 ## How it works
-
 
 ### List of users
 
@@ -57,13 +63,14 @@ On the user details page, we show a summary list of the user’s details, includ
 - organisations they belong to
 - last sign in date and time
 
-The first name, last name and email address fields can be changed, but the organisations they belong to and their last sign in date and time cannot be changed.
-
 This page also includes a ‘Remove user’ link, which allows the support user to remove the user from the organisation.
 
+#### Changing a user’s details
+
+The first name, last name and email address fields can be changed, but the organisations they belong to and their last sign in date and time cannot be changed.
 ### Adding a user
 
-We replaced the ‘Request access for someone else’ button with ‘Add user’. Clicking this button takes the user to the add user flow.
+Clicking ‘Add user’ takes the support user to the add user flow.
 
 The personal details form includes:
 
