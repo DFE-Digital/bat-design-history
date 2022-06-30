@@ -31,7 +31,7 @@ Previously, the organisation switcher only showed if the user belonged to multip
 
 The switcher shows:
 
-- the organisation's name
+- the organisation’s name
 - the recruitment cycle - for example, ‘2021 to 2022 - current’
 - a link to ‘Change recruitment cycle’ - if it is rollover
 - a link to ‘Change organisation’ - if the user belongs to multiple organisations
