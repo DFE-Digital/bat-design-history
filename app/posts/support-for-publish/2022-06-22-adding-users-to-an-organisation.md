@@ -69,6 +69,7 @@ On the user details page, we show a summary list of the user’s details, includ
 This page also includes a ‘Remove user’ link, which allows the support team to remove the user from the organisation.
 
 The support team can change the first name, last name and email address fields. They cannot change the organisations a user belongs to, except by adding or removing the user from an organisation.
+
 ### Adding a user
 
 Clicking ‘Add user’ starts the add user flow.
