@@ -1,6 +1,6 @@
 ---
 title: Adding users to an organisation
-description: Giving support users the ability to add users to an organisation
+description: Giving the support team the ability to add users to an organisation
 date: 2022-06-22
 screenshots:
   items:
@@ -24,20 +24,23 @@ screenshots:
       src: users--remove-user-success.png
 ---
 
-Currently, providers cannot add users to their organisation, they can only request that a new user is added. This request needs to be approved by the support team.
+Currently, providers cannot add users to their organisation themselves. They must complete an invite form in Publish teacher training courses to request that a new user is added to their organisation.
 
-As part of the approval process, a developer needs to link the user to the organisation.
+The support team can approve the request if a user is invited via the form. However, if the support team need to add a user that has not been invited via the invite form, the development team needs to link the new user to the organisation.
 
-We wanted to reduce the burden on the support team and developers by introducing a simple way of adding a user to an organisation.
+We wanted to reduce the burden on the support team and developers by introducing a simple way for the support team to add a user to an organisation.
 
-This work builds upon the work we have done to [simplify how organisations manage their users](/publish-teacher-training-courses/simplifying-how-organisations-manage-users/).
+This work builds upon our work to [simplify organisations manage their users](/publish-teacher-training-courses/simplifying-how-organisations-manage-users/).
 
 ## What we changed
 
+We added a two step process to enable the support team to add users to an organisation.
+
+We moved the ‘Remove user’ button next to each user on the users' list to the user details page and changed it to a link.
 
 ## How it works
 
-### List of users
+### User list
 
 On the user list page, we show:
 
@@ -49,7 +52,7 @@ For each user in the list, we show:
 - full name - including a link to the user details page
 - email address
 
-If the user list contains more than 50 users, we paginate the list.
+We paginate the list if the user list contains more than 50 users.
 
 When a user is added to the organisation or removed from the organisation, we show a success message above the page heading.
 
@@ -63,14 +66,12 @@ On the user details page, we show a summary list of the user’s details, includ
 - organisations they belong to
 - last sign in date and time
 
-This page also includes a ‘Remove user’ link, which allows the support user to remove the user from the organisation.
+This page also includes a ‘Remove user’ link, which allows the support team to remove the user from the organisation.
 
-#### Changing a user’s details
-
-The first name, last name and email address fields can be changed, but the organisations they belong to and their last sign in date and time cannot be changed.
+The support team can change the first name, last name and email address fields. They cannot change the organisations a user belongs to, except by adding or removing the user from an organisation.
 ### Adding a user
 
-Clicking ‘Add user’ takes the support user to the add user flow.
+Clicking ‘Add user’ starts the add user flow.
 
 The personal details form includes:
 
@@ -78,13 +79,13 @@ The personal details form includes:
 - last name
 - email address
 
-We show an error message if the user:
+We show an error message if:
 
-- does not enter all the information in the form
-- enters an incorrect email address - for example, they use invalid characters
-- enters an email address already used by another user
+- information is missing from the form
+- the email address is entered incorrectly - for example, invalid characters are used
+- an email address already used by another user
 
-Users can check their answers at the end of the flow before saving the new user.
+The support team user can check their answers at the end of the flow before saving the new user.
 
 Adding the user triggers sending an email to the new user with sign in details.
 
@@ -94,6 +95,4 @@ We introduced the ability to remove a user from the organisation.
 
 When someone clicks ‘Remove user’, they must confirm the removal.
 
-Removing a user triggers the sending of an email to the user to tell them they have been removed from the organisation. If the provider did this incorrectly, the user could get help.
-
-Users cannot remove themselves from the organisation.
+Removing a user triggers sending an email to the user to tell them they have been removed from the organisation.
