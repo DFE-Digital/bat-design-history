@@ -23,7 +23,7 @@ Using the ‘organisation switcher’ as a guide, we created a way to switch bet
 We added:
 
 - a recruitment cycles page that shows the current and the next recruitment cycles
-- updated the organisation switcher to include a way to switch recruitment cycle and show the recruitment cycle the user is working in
+- an updated organisation switcher to include a way to switch cycles and show the recruitment cycle the user is working in
 
 ## How it works
 
@@ -43,9 +43,9 @@ The ‘Recruitment cycles’ page lists two recruitment cycles:
 - the current cycle - for example, ‘2021 to 2022 - current’
 - the next cycle - for example, ‘2022 to 2023’
 
-We include the word ‘current’ in the label for the current recruitment cycle to make it obvious what cycle they’re looking at.
+We include the word ‘current’ in the label to clarify what cycle they’re viewing.
 
-### Signing into the service
+### Signing in to the service
 
 When a user signs into the service during rollover, they will see:
 
@@ -56,7 +56,7 @@ When a user signs into the service during rollover, they will see:
 
 Users who select ‘Change recruitment cycle’ are shown the list of recruitment cycles. Selecting one of the cycles returns the user to the courses page with the cycle displayed in the organisation switcher and the courses for that cycle shown in the courses list.
 
-If the user belongs to multiple organisations, the organisation will remain the same until the user chooses to change organisation.
+If the user belongs to multiple organisations, the organisation will remain the same until the user changes the organisation.
 
 ### Changing organisation
 
