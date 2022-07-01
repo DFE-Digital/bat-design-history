@@ -30,7 +30,7 @@ The support team can approve the request if a user is invited via the form. Howe
 
 We wanted to reduce the burden on the support team and developers by introducing a simple way for the support team to add a user to an organisation.
 
-This work builds upon our work to [simplify organisations manage their users](/publish-teacher-training-courses/simplifying-how-organisations-manage-users/).
+This work builds upon our work to [simplify how organisations manage their users](/publish-teacher-training-courses/simplifying-how-organisations-manage-users/).
 
 ## What we changed
 
