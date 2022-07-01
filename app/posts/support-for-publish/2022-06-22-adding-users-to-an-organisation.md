@@ -90,6 +90,8 @@ The support team user can check their answers at the end of the flow before savi
 
 Adding the user triggers sending an email to the new user with sign in details.
 
+If the support team adds the same user to a different organisation, we link the user to the new organisation. We don’t create a new user record.
+
 ### Removing a user
 
 We introduced the ability to remove a user from the organisation.
