@@ -72,6 +72,12 @@ module.exports = function (eleventyConfig) {
     })
   })
 
+  eleventyConfig.addCollection('support-for-publish', collection => {
+    return collection.getFilteredByTag('support-for-publish').filter(item => {
+      return !item.data.tags.includes('user-need')
+    })
+  })
+
   // Config
   return {
     dataTemplateEngine: 'njk',

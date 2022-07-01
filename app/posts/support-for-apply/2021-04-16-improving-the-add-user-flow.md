@@ -6,9 +6,9 @@ date: 2021-04-16
 
 We’ve been considering improvements to how we invite and set up higher education institutions (HEIs) and their school direct partners (SDs) in Manage.
 
-We started by designing a [small online service that allowed HEIs to set themselves up and invite SDs](https://bat-design-history.netlify.app/manage-teacher-training-applications/self-service-registration/).
+We started by designing a [small online service that allowed HEIs to set themselves up and invite SDs](/manage-teacher-training-applications/self-service-registration/).
 
-After testing that design we decided to explore a simpler approach, focusing on [gathering contact details for SDs from HEIs](https://bat-design-history.netlify.app/manage-teacher-training-applications/gathering-school-direct-contact-details-from-higher-education-institutions/).
+After testing that design we decided to explore a simpler approach, focusing on [gathering contact details for SDs from HEIs](/manage-teacher-training-applications/gathering-school-direct-contact-details-from-higher-education-institutions/).
 
 The research suggested that the simpler approach would work. However since the transition team already gathers data from HEIs in an existing spreadsheet, we are not sure we’ll need to send a separate one.
 
