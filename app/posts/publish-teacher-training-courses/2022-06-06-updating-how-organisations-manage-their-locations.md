@@ -42,6 +42,7 @@ We have:
 We made these changes because:
 
 -
+
 ## How it works
 
 ### Location list
