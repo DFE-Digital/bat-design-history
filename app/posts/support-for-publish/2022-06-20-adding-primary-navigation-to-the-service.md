@@ -12,6 +12,13 @@ screenshots:
 
 We recently added [primary navigation to the Publish teacher training courses service](/publish-teacher-training-courses/adding-primary-navigation-to-the-service/). We decided to do the same for the support website.
 
+We wanted to make sure that the navigation was:
+
+- clear - removes any doubt about what the section contains
+- simple - uses plain English and familiar words
+- obvious - avoided overlap between items, for example, users within the scope of an organisation and users in general
+- consistent - available throughout the service
+
 ## What we changed
 
 We have:
@@ -22,13 +29,6 @@ We have:
 - renamed ‘Providers’ to ‘Organisations’
 
 We removed ‘users’ and ‘PE allocations’. We want the support team to add users via an organisation, and allocating physical education places is no longer needed for the next recruitment cycle (2022 to 2023).
-
-We made these changes so that the navigation was:
-
-- clear - removes any doubt about what the section contains
-- simple - uses plain English and familiar words
-- obvious - avoided overlap between items, for example, users within the scope of an organisation and users in general
-- consistent - available throughout the service
 
 ## How it works
 
