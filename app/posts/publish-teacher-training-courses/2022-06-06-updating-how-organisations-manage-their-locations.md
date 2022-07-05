@@ -1,6 +1,6 @@
 ---
 title: Updating how organisations manage their locations
-description: We improved the process of adding and editing locations and now allow providers to remove locations
+description: We improved the process of managing locations and now allow providers to remove locations
 date: 2022-06-06
 screenshots:
   items:
@@ -30,6 +30,7 @@ screenshots:
       src: locations--location-removed.png
 ---
 
+In a recent round of research, we found that providers want to better manage locations within the service, including removing locations if the provider no longer needs the location.
 
 ## What we changed
 
@@ -41,7 +42,9 @@ We have:
 
 We made these changes because:
 
--
+- we wanted to simplify the new location and change location flows
+- it gives providers the ability to remove locations
+- it reduces the need for providers to contact the support team
 
 ## How it works
 
@@ -58,7 +61,7 @@ For each location in the list, we show the:
 - location code
 - unique reference number (URN)
 
-We paginate the list if the location list contains more than 50 locations.
+We paginate the list if it contains more than 50 locations.
 
 When a location is added to the organisation or removed from the organisation, we show a success message above the page heading.
 
@@ -71,21 +74,21 @@ On the location details page, we show a summary list of the location’s details
 - unique reference number (URN)
 - address
 
-The location code cannot be changed as it is automatically generated.
+Users can change the location’s name, URN and address. They cannot change the location code as the service generates it.
 
-This page also includes a ‘Remove location’ link, which allows users to remove the location from the organisation.
+This page also includes a ‘Remove location’ link, allowing users to remove the location from the organisation.
 
 ### Adding a location
 
 Clicking ‘Add location’ starts the add location flow.
 
-The flow includes three steps:
+The flow has three steps:
 
-1. adding the location name and URN
-2. providing an address for the location
-3. checking your answers
+1. Adding the location name and URN
+2. Providing an address for the location
+3. Checking your answers
 
-We show an error message if the information is missing from the forms or it is entered incorrectly. For example, a postcode is incorrect.
+We show an error message if the information is missing from the forms or entered incorrectly - for example, an incorrect postcode.
 
 Users can check their answers at the end of the flow before saving the new location.
 
