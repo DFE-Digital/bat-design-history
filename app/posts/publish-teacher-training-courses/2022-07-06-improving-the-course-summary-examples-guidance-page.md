@@ -4,8 +4,8 @@ description: We updated the course summary examples page in response to provider
 date: 2022-07-06
 related:
   items:
-    - text: Improving the guidance on the course description pages
-      href: /publish-teacher-training-courses/improving-the-guidance-on-the-course-description-pages/
+    - text: Adding guidance on how to use this service
+      href: /publish-teacher-training-courses/adding-guidance-on-how-to-use-this-service/
 screenshots:
   items:
     - text: Course summary examples
