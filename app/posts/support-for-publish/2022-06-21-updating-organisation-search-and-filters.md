@@ -30,7 +30,8 @@ This change included:
 - retaining the search term in the search field after the user has searched so that users can recall and modify their search if needed
 - providing a way to clear the search term once the user has searched, allowing users to get back to the original list state without having to submit an empty search
 - updating the text of the clear filter action from ‘Clear’ to ‘Clear filters’ to make the action less ambiguous
-- adding a filter for ‘provider type’ to the filters sidebar
+- including a filter for ‘provider type’ in the filters sidebar
+- adding the number of organisations displayed in the list to the page heading
 
 ## How it works
 
