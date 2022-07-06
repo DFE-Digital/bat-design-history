@@ -62,7 +62,6 @@ If the search doesn’t return a result, we show a message depending on the sear
 - There are no results for the selected filter.
 - There are no results for the selected filters.
 
-
 ### Empty searches
 
 If a user doesn’t enter a search term when submitting a search, we show a list of organisations that match any filter criteria.
