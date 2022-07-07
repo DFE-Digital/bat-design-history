@@ -40,7 +40,11 @@ When a user searches or filters the list of organisations, we return a list of o
 
 ### Searching and filtering
 
-Searching and filtering are independent of one another. If someone first searches for an organisation and then applies filters, the filters act upon the sub-set of organisations returned by the initial search. Similarly, if someone filters the list of organisations, a subsequent search is across the organisations in the filtered list, not the complete list. Clearing a search will not clear the filters, and clearing the filters will not clear the search.
+Searching and filtering are independent of one another. If someone first searches for an organisation and then applies filters, the filters act upon the sub-set of organisations returned by the initial search.
+
+Similarly, if someone filters the list of organisations, a subsequent search is across the organisations in the filtered list, not the complete list.
+
+Clearing a search will not clear the filters, and clearing the filters will not clear the search.
 
 ### Retaining and clearing the search term
 
