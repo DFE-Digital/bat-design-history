@@ -47,15 +47,15 @@ Having a page per report has several advantages over filtering:
 * the page can offer settings to produce different reports
 
 
-### Reports shown in header:
+### Reports shown in header
 
 ![Reports section shown in our primary navigation bar.](1.reports-in-nav.png)
 
-### Reports index:
+### Reports index
 
 ![An index page that lists available reports.](2.reports-index.png)
 
-### HESA report:
+### HESA report
 
 ![A page to download recent HESA data as a report.](3.hesa-report.png)
 
@@ -65,7 +65,7 @@ We get a field ‘hesa_updated_at’ with each record - this is a timestamp of t
 
 We’ve put in a change request to HESA to add additional metadata fields to capture the last time a record was uploaded. This would allow us to provide a report of trainees just uploaded, and to add prompts within our interface such as ‘View the 346 trainees you just uploaded’
 
-### Census report:
+### Census report
 
 ![A page to download trainees included in the ITT Census as a report.](4.census-report.png)
 
