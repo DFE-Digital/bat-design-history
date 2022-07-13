@@ -39,6 +39,6 @@ Scholarships do not exist independently from bursaries.
 
 We show the scholarship and bursary amounts if a scholarship is available. For example, ‘Scholarships of £26,000 and bursaries of £24,000 are available’.
 
-If no financial support is available for the academic year, we show ‘None available.’
+If no financial support is available for the academic year, we show ‘None available’.
 
-If the financial support information is unavailable, we show ‘Information not yet available.’
+If the financial support information is unavailable, we show ‘Information not yet available’.
