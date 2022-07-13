@@ -61,7 +61,8 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "href": "https://www.apply-for-teacher-training.service.gov.uk"
       },
       {
-        "name": "Application for QTS"
+        "name": "Apply for qualified teacher status (QTS) in England",
+        "href": "https://apply-for-qts-in-england.education.gov.uk/"
       }
     ],
     "providers": [
@@ -99,6 +100,10 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "name": "Support for early career teachers"
       },
       {
+        "name": "Find a lost teacher reference number (TRN)",
+        "href": "https://find-a-lost-trn.education.gov.uk/start"
+      },
+      {
         "name": "Teacher Self Service Portal",
         "href": "https://teacherservices.education.gov.uk/SelfService/Login"
       }
@@ -129,6 +134,10 @@ The 'becoming a teacher' services are part of a broader range of digital service
       {
         "name": "Find and compare schools",
         "href": "https://www.gov.uk/school-performance-tables"
+      },
+      {
+        "name": "Professional development for teachers and leaders",
+        "href": "https://professional-development-for-teachers-leaders.education.gov.uk"
       }
     ]
   },
@@ -201,6 +210,5 @@ The 'becoming a teacher' services are part of a broader range of digital service
 
 <ul class="govuk-list govuk-list--bullet govuk-!-font-size-16">
   <li>Get Into Teaching CRM</li>
-  <li>Database of trainee teachers and providers</li>
   <li>Database of Qualified Teachers</li>
 </ul>
