@@ -47,7 +47,7 @@ Draft courses can be published and deleted. During the rollover period, users ca
 
 A ‘Published’ status occurs when the user has published the course to Find. This status could be at any time in the recruitment cycle.
 
-A course can have a ‘Published’ status but not yet be live on Find. It can also have this status if it’s not yet open to applications.
+A course can have a ‘Published’ status but live on Find if it’s published before the start of the next recruitment cycle. It can also have this status if it's live on Find, but not yet open to applications.
 
 When a course is published, we prevent some changes from being made. For example, users cannot change the fee type or accredited body on published courses.
 
@@ -59,7 +59,7 @@ Published courses can be withdrawn and closed. Withdrawing a course removes it f
 
 A ‘Published with unpublished changes’ status occurs when the user has saved changes to a published course. The changes remain unpublished until the user publishes the course again.
 
-This status is problematic as users may not realise they must publish the course again before we show their changes on Find.
+This status is problematic as users may not realise they must publish the course again before we show their changes on Find. Additionally, we do not show what changes have been made to the descriptions. This could cause confusion if the user cannot remember what they changed or if other users of the same account cannot view the changes.
 
 ### Withdrawn
 
@@ -125,7 +125,7 @@ In future, we’ll also consider introducing 2 new statuses:
 
 ### In review
 
-We could add an ‘In review’ status. This status would allow users of the same organisation to request that another user reviews a course before it is published. This process may become important if we implement organisational and user permissions.
+With the removal of the ‘Published with unpublished changes’ status, we could add an ‘In review’ status instead. This status would allow users of the same organisation to request that another user reviews saved course content before it is published. We would show the user reviewing the content what changes have been made. This process may become important if we implement organisational and user permissions.
 
 ### Scheduled
 
