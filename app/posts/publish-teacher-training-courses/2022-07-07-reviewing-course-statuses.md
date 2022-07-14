@@ -49,7 +49,7 @@ Draft courses can be published and deleted. During the rollover period, users ca
 
 A ‘Published’ status occurs when the user has published the course to Find. This status could be at any time in the recruitment cycle.
 
-A course can have a ‘Published’ status but not live on Find if it’s published before the start of the next recruitment cycle. It can also have this status if it’s live on Find, but not yet open to applications.
+A course can have a ‘Published’ status but not be live on Find if it’s published before the start of the next recruitment cycle. It can also have this status if it’s live on Find, but not yet open to applications.
 
 When a course is published, we prevent some changes from being made. For example, users cannot change the fee type or accredited body on published courses.
 
