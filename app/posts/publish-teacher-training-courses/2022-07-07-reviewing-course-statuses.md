@@ -17,7 +17,7 @@ Statuses also enable DfE to analyse data to:
 
 When we created Publish, we adopted the course statuses from the service’s predecessor, UCAS.
 
-Courses statuses:
+Course statuses:
 
 - indicate the current status of the course - for example, draft, published and withdrawn
 - enable different actions to be taken at various points - for example, users can publish and delete draft courses, and they can withdraw published courses
@@ -37,13 +37,11 @@ An ‘Empty’ status occurs when the user creates a new course through the ‘A
 
 Empty courses cannot be published until all required fields are completed.
 
-This status serves a limited purpose, and we could remove it. The course in this scenario could be ‘Draft’ instead.
-
 ### Draft
 
-A ‘Draft’ status occurs when the user has completed all mandatory fields, but they have not yet published the course.
+A ‘Draft’ status occurs when the user has completed the mandatory description fields, but they have not yet published the course.
 
-Draft courses can be published and deleted. During the rollover period, users can manually roll over draft courses for publishing in the next recruitment cycle.
+Draft courses can be published and deleted. During the rollover period, users can manually rollover draft courses for publishing in the next recruitment cycle.
 
 ### Published
 
@@ -96,11 +94,27 @@ We looked at the 6 course statuses in Publish and found that some:
 
 To improve the way course status work, we need to remove, change and add to some of the statuses.
 
-- ‘Empty’ becomes ‘Draft’
-- ‘Scheduled’ will be added as a new status for when a course has been published but is not yet live on Find
-- ‘Published with unpublished changes’ will be removed as a status, and all changes will be saved and published immediately
-- ‘Closed’ will be added as a status for courses that are no longer open to applications but may be reopened in the same academic year
-- ‘Withdrawn’ will be improved so that it’s clear to users that this status is for courses that need to be removed entirely for the rest of the academic year
+### Empty
+
+The ‘Empty’ course status serves a limited purpose, and we will remove it.
+
+When a course is created it will be ‘Draft’ instead.
+
+### Scheduled
+
+We will add ‘Scheduled’ as a new status for when a course has been published but is not yet live on Find.
+
+### Published with unpublished changes
+
+We will remove‘Published with unpublished changes’. All changes will be saved and published immediately, simplifying the editing workflow
+
+### Closed
+
+We will add a ‘Closed’ status for courses that are published but no longer open to applications. These courses may be reopened in the same academic year.
+
+### Withdrawn
+
+We will improve the ‘Withdrawn’ status so that it’s clear to users that this status means that courses will be removed from Find and cannot be republished.
 
 ## Further considerations
 
