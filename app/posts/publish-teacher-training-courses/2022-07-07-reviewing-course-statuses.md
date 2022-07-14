@@ -140,5 +140,3 @@ With the removal of the ‘Published with unpublished changes’ status, we coul
 ### Scheduled
 
 We may want to introduce a ‘Scheduled’ status to distinguish between courses published but not yet live on Find and courses published and live on Find.
-
-As we introduce a new ‘Closed’ status, we may want to improve the ‘Withdraw’ interaction to clarify to the user that this status is for courses that are no longer running in that academic year.
