@@ -1,6 +1,6 @@
 ---
 title: Reviewing course statuses
-description:
+description: We reviewed the course statuses and found ways to improve them
 date: 2022-07-07
 ---
 
@@ -31,6 +31,8 @@ Each course status consists of:
 - actions for courses in that status
 - interactions with other services
 
+[![Current course status flow](course-statuses--current.png "Current course status flow")](/publish-teacher-training-courses/reviewing-course-statuses/course-statuses--current.png)
+
 ### Empty
 
 An ‘Empty’ status occurs when the user creates a new course through the ‘Add course’ flow, but the user has not added information to the description fields.
@@ -47,7 +49,7 @@ Draft courses can be published and deleted. During the rollover period, users ca
 
 A ‘Published’ status occurs when the user has published the course to Find. This status could be at any time in the recruitment cycle.
 
-A course can have a ‘Published’ status but not yet be live on Find. It can also have this status if it’s not yet open to applications.
+A course can have a ‘Published’ status but not live on Find if it’s published before the start of the next recruitment cycle. It can also have this status if it’s live on Find, but not yet open to applications.
 
 When a course is published, we prevent some changes from being made. For example, users cannot change the fee type or accredited body on published courses.
 
@@ -59,7 +61,7 @@ Published courses can be withdrawn and closed. Withdrawing a course removes it f
 
 A ‘Published with unpublished changes’ status occurs when the user has saved changes to a published course. The changes remain unpublished until the user publishes the course again.
 
-This status is problematic as users may not realise they must publish the course again before we show their changes on Find.
+This status is problematic as users may not realise they must publish the course again before we show their changes on Find. Additionally, we do not show what changes have been made to the descriptions. This could cause confusion if the user cannot remember what they changed or if other users of the same account cannot view the changes.
 
 ### Withdrawn
 
@@ -94,6 +96,8 @@ We looked at the 6 course statuses in Publish and found that some:
 
 To improve the way course status work, we need to remove, change and add to some of the statuses.
 
+[![Proposed course status flow](course-statuses--proposed.png "Proposed course status flow")](/publish-teacher-training-courses/reviewing-course-statuses/course-statuses--proposed.png)
+
 ### Empty
 
 The ‘Empty’ course status serves a limited purpose, and we will remove it.
@@ -106,7 +110,7 @@ We will add ‘Scheduled’ as a new status for when a course has been published
 
 ### Published with unpublished changes
 
-We will remove‘Published with unpublished changes’. All changes will be saved and published immediately, simplifying the editing workflow
+We will remove ‘Published with unpublished changes’. All changes will be saved and published immediately, simplifying the editing workflow
 
 ### Closed
 
@@ -125,7 +129,7 @@ In future, we’ll also consider introducing 2 new statuses:
 
 ### In review
 
-We could add an ‘In review’ status. This status would allow users of the same organisation to request that another user reviews a course before it is published. This process may become important if we implement organisational and user permissions.
+With the removal of the ‘Published with unpublished changes’ status, we could add an ‘In review’ status instead. This status would allow users of the same organisation to request that another user reviews saved course content before it is published. We would show the user reviewing the content what changes have been made. This process may become important if we implement organisational and user permissions.
 
 ### Scheduled
 
