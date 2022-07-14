@@ -110,7 +110,7 @@ We will add ‘Scheduled’ as a new status for when a course has been published
 
 ### Published with unpublished changes
 
-We will remove ‘Published with unpublished changes’. All changes will be saved and published immediately, simplifying the editing workflow
+We will remove ‘Published with unpublished changes’. All changes will be saved and published immediately, simplifying the editing workflow.
 
 ### Closed
 
