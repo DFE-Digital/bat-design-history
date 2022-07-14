@@ -1,6 +1,5 @@
 ---js
 {
-  tags: false,
   layout: "user-needs",
   description: "User needs for Support for Publish",
   pagination: {
