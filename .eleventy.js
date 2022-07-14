@@ -1,8 +1,4 @@
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
-
 module.exports = function (eleventyConfig) {
-
-  eleventyConfig.addPlugin(UpgradeHelper);
 
   // Browser Sync
   eleventyConfig.setBrowserSyncConfig({
