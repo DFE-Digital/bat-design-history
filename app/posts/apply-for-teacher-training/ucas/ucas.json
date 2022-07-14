@@ -1,5 +1,4 @@
 {
-  "tags": false,
   "layout": "page",
   "eleventyNavigation": {
     "parent": "ucas"
