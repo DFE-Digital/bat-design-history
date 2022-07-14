@@ -110,10 +110,6 @@ The ‘Empty’ course status serves a limited purpose, and we will remove it.
 
 Courses created by users will be in the ‘Draft’ status instead.
 
-### Scheduled
-
-We will add ‘Scheduled’ as a new status for when a course has been published but is not yet live on Find.
-
 ### Published with unpublished changes
 
 We will remove ‘Published with unpublished changes’. All changes will be saved and published immediately, simplifying the editing workflow.
