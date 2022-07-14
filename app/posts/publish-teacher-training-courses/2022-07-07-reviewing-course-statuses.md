@@ -37,11 +37,11 @@ Each course status consists of:
 
 An ‘Empty’ status occurs when the user creates a new course through the ‘Add course’ flow, but the user has not added information to the description fields.
 
-Empty courses cannot be published until all required fields are completed.
+Users cannot publish courses with the empty status until they complete all required fields.
 
 ### Draft
 
-A ‘Draft’ status occurs when the user has completed the mandatory description fields, but they have not yet published the course.
+A ‘Draft’ status occurs when the user has completed the mandatory description fields but they have not yet published the course.
 
 Draft courses can be published and deleted. During the rollover period, users can manually rollover draft courses for publishing in the next recruitment cycle.
 
@@ -49,11 +49,11 @@ Draft courses can be published and deleted. During the rollover period, users ca
 
 A ‘Published’ status occurs when the user has published the course to Find. This status could be at any time in the recruitment cycle.
 
-A course can have a ‘Published’ status but not be live on Find if it’s published before the start of the next recruitment cycle. It can also have this status if it’s live on Find, but not yet open to applications.
+A course can have a ‘Published’ status but not be live on Find if a user has published it before the start of the next recruitment cycle. It can also have this status if it’s live on Find but not yet open to applications.
 
 When a course is published, we prevent some changes from being made. For example, users cannot change the fee type or accredited body on published courses.
 
-Each year, we roll over published courses into the next recruitment cycle, where they can be deleted or published.
+Every July, we roll over published courses into the next recruitment cycle, where they can be deleted or published.
 
 Published courses can be withdrawn and closed. Withdrawing a course removes it from Find. Closing a course stops candidates from applying, for example, if the course is full.
 
@@ -61,7 +61,9 @@ Published courses can be withdrawn and closed. Withdrawing a course removes it f
 
 A ‘Published with unpublished changes’ status occurs when the user has saved changes to a published course. The changes remain unpublished until the user publishes the course again.
 
-This status is problematic as users may not realise they must publish the course again before we show their changes on Find. Additionally, we do not show what changes have been made to the descriptions. This could cause confusion if the user cannot remember what they changed or if other users of the same account cannot view the changes.
+This status is problematic as users may not realise they must publish the course again before we show their changes on Find.
+
+We do not show users' changes to the descriptions in Publish. This could confuse users if they cannot remember what they changed or if other users of the same account cannot view the changes.
 
 ### Withdrawn
 
@@ -80,7 +82,7 @@ A ‘Rolled over’ status occurs when:
 - published and withdrawn courses have been automatically rolled over
 - a user has decided that an empty, draft or rolled over course in the current cycle needs rolling over
 
-This status is identical to ‘Draft’ but we use it to distinguish courses from a previous recruitment cycle with new ‘Draft’ courses in the current recruitment.
+This status is identical to ‘Draft’, but we use it to distinguish courses from a previous recruitment cycle with new ‘Draft’ courses in the current recruitment.
 
 ‘Rolled over’ shows users that we copied the course from one recruitment cycle to the next.
 
@@ -92,7 +94,7 @@ We looked at the 6 course statuses in Publish and found that some:
 
 - are named ambiguously
 - are not required or overly complicated
-- have unclear functionality and risk being used incorrectly
+- have unclear functionality and are used incorrectly
 
 To improve the way course status work, we need to remove, change and add to some of the statuses.
 
@@ -102,7 +104,7 @@ To improve the way course status work, we need to remove, change and add to some
 
 The ‘Empty’ course status serves a limited purpose, and we will remove it.
 
-When a course is created it will be ‘Draft’ instead.
+Courses created by users will be in the ‘Draft’ status instead.
 
 ### Scheduled
 
@@ -114,11 +116,11 @@ We will remove ‘Published with unpublished changes’. All changes will be sav
 
 ### Closed
 
-We will add a ‘Closed’ status for courses that are published but no longer open to applications. These courses may be reopened in the same academic year.
+We will add a ‘Closed’ status for published courses that are no longer open to applications. Users can reopen these courses in the same academic year.
 
 ### Withdrawn
 
-We will improve the ‘Withdrawn’ status so that it’s clear to users that this status means that courses will be removed from Find and cannot be republished.
+We will improve the ‘Withdrawn’ status so that it’s clear to users that this status means that we will remove courses from Find, and users cannot republish them.
 
 ## Further considerations
 
@@ -129,7 +131,7 @@ In future, we’ll also consider introducing 2 new statuses:
 
 ### In review
 
-With the removal of the ‘Published with unpublished changes’ status, we could add an ‘In review’ status instead. This status would allow users of the same organisation to request that another user reviews saved course content before it is published. We would show the user reviewing the content what changes have been made. This process may become important if we implement organisational and user permissions.
+With the removal of the ‘Published with unpublished changes’ status, we could add an ‘In review’ status. This would allow users in the same organisation to request that another user review saved course content before publishing. This process may become important if we implement organisational and user permissions.
 
 ### Scheduled
 
