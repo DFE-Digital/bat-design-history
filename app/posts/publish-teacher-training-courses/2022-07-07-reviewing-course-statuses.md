@@ -39,7 +39,7 @@ Each course status consists of:
 
 An ‘Empty’ status occurs when the user creates a new course through the ‘Add course’ flow, but the user has not added information to the description fields.
 
-Users cannot publish courses with the empty status until they complete all required fields.
+Once the user has saved content in the description fields, the course status will change from 'Empty' to 'Draft'.
 
 ### Draft
 
