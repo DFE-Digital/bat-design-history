@@ -57,7 +57,7 @@ When a course is published, we prevent some changes from being made. For example
 
 Every July, we roll over published courses into the next recruitment cycle, where they can be deleted or published.
 
-Published courses can be withdrawn and closed. Withdrawing a course removes it from Find. Closing a course stops candidates from applying, for example, if the course is full.
+Published courses can be withdrawn or closed. Withdrawing a course removes it from Find. If the user has edited the vacancies to say ‘there are no vacancies’, the course remains on Find but is closed to applications.
 
 #### Published with unpublished changes
 
