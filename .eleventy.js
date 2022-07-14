@@ -16,6 +16,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary('md', require('./lib/libraries/markdown'))
 
   // Plugins
+  eleventyConfig.addPlugin(require('@11ty/eleventy-upgrade-help'))
   eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'))
   eleventyConfig.addPlugin(require('@11ty/eleventy-navigation'))
 
