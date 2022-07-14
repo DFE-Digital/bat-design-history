@@ -53,7 +53,7 @@ A ‘Published’ status occurs when the user has published the course to Find. 
 
 A course can have a ‘Published’ status but not be live on Find if a user has published it before the start of the next recruitment cycle. It can also have this status if it’s live on Find but not yet open to applications.
 
-When a course is published, we prevent some changes from being made. For example, users cannot change the fee type or accredited body on published courses.
+When a course is published, we prevent some changes from being made. For example, users cannot change the fee type or accredited body.
 
 Every July, we roll over published courses into the next recruitment cycle, where they can be deleted or published.
 
