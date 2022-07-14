@@ -31,6 +31,8 @@ Each course status consists of:
 - actions for courses in that status
 - interactions with other services
 
+### Current course status flow
+
 [![Current course status flow](course-statuses--current.png "Current course status flow")](/publish-teacher-training-courses/reviewing-course-statuses/course-statuses--current.png)
 
 ### Empty
@@ -97,6 +99,8 @@ We looked at the 6 course statuses in Publish and found that some:
 - have unclear functionality and are used incorrectly
 
 To improve the way course status work, we need to remove, change and add to some of the statuses.
+
+### Proposed course status flow
 
 [![Proposed course status flow](course-statuses--proposed.png "Proposed course status flow")](/publish-teacher-training-courses/reviewing-course-statuses/course-statuses--proposed.png)
 
