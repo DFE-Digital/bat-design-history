@@ -8,7 +8,7 @@ date: 2022-07-13
 
 The email sent to candidates when an interview is set up does not currently include the course name or code.
 
-We wanted to add these to the email and also reflect [changes we made to the email sent when an interview is updated](https://bat-design-history.netlify.app/manage-teacher-training-applications/emailing-candidates-about-upcoming-interviews-when-their-course-is-changed/).
+We wanted to add these to the email and also reflect [changes we made to the email sent when an interview is updated](/manage-teacher-training-applications/emailing-candidates-about-upcoming-interviews-when-their-course-is-changed/).
 
 While making these changes we looked at examples of text entered for:
 
