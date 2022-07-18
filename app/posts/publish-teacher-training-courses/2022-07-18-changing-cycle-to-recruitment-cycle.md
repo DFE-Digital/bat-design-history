@@ -23,10 +23,10 @@ When referring to the time period in which candidates can apply, we use ‘Recru
 
 “The 2022 to 2023 recruitment cycle is now open.”
 
-“Recruitment cycle - <year> to <year>”
+“Recruitment cycle - `<year>` to `<year>`”
 
 When referring to the time period in which the course is running, we use ‘Academic year’ plus the dates. For example:
 
 “The 2022 to 2023 academic year.”
 
-“Academic year - <year> to <year>”
+“Academic year - `<year>` to `<year>`”
