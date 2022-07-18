@@ -10,6 +10,8 @@ screenshots:
   items:
     - text: Recruitment cycle switcher
       src: recruitment-cycle-switcher.png
+    - text: Course details
+      src: course-details.png
 ---
 
 We were inconsistent in referring to recruitment cycles in Publish teacher training courses (Publish).
