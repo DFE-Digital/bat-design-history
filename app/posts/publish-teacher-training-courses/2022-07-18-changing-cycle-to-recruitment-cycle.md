@@ -4,8 +4,8 @@ description: We updated the wording in Publish to match Manage and our style gui
 date: 2022-07-18
 related:
   items:
-    - text: Audit of email notifications and improvements to content
-      href: /publish-teacher-training-courses/audit-of-email-notifications-and-improvements-to-content/
+    - text: Referring to recruitment cycles
+      href: https://bat-design-history.netlify.app/manage-teacher-training-applications/referring-to-recruitment-cycles/
 ---
 
 We were inconsistent in how we refer to recruitment cycles in Publish teacher training courses (Publish).
