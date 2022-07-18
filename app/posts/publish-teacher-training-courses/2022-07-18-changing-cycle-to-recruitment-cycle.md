@@ -9,6 +9,7 @@ related:
 ---
 
 We were inconsistent in how we refer to recruitment cycles in Publish teacher training courses (Publish).
+
 We updated the content to match the way we refer to recruitment cycles in Manage teacher training applications (Manage) and to align with our Becoming a Teacher (BAT) style guide.
 
 ## What we changed
