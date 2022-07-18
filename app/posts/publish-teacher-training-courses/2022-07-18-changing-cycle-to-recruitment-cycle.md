@@ -6,6 +6,10 @@ related:
   items:
     - text: Referring to recruitment cycles
       href: https://bat-design-history.netlify.app/manage-teacher-training-applications/referring-to-recruitment-cycles/
+screenshots:
+  items:
+    - text: Recruitment cycle switcher
+      src: recruitment-cycle-switcher.png
 ---
 
 We were inconsistent in referring to recruitment cycles in Publish teacher training courses (Publish).
