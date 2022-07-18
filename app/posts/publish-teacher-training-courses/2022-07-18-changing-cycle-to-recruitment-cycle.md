@@ -22,7 +22,7 @@ We also updated our emails to use the correct wording in line with our style gui
 
 When referring to the time period in which candidates can apply, we use ‘Recruitment cycle’ plus the dates. For example:
 
-“The 2022 to 2023 recruitment cycle is now open.”
+“The 2021 to 2022 recruitment cycle is now open.”
 
 “Recruitment cycle - 2021 to 2022”
 
