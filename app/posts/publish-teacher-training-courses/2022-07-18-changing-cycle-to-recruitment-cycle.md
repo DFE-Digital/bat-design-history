@@ -4,7 +4,7 @@ description: We updated the wording in Publish to match Manage and our style gui
 date: 2022-07-19
 related:
   items:
-    - text: Referring to recruitment cycles
+    - text: Referring to recruitment cycles in Manage teacher training applications
       href: /manage-teacher-training-applications/referring-to-recruitment-cycles/
     - text: Allowing users to manually rollover courses not previously published
       href: /publish-teacher-training-courses/allowing-users-to-manually-rollover-courses-not-previously-published/
