@@ -6,7 +6,8 @@ related:
   items:
   - text: Referring to recruitment cycles
       href: /manage-teacher-training-applications/referring-to-recruitment-cycles/
-      href: Allowing users to manually rollover courses not previously published /publish-teacher-training-courses/allowing-users-to-manually-rollover-courses-not-previously-published/
+      text: Allowing users to manually rollover courses not previously published
+      href: /publish-teacher-training-courses/allowing-users-to-manually-rollover-courses-not-previously-published/
     - text: Showing academic year on the course details page
       href: /publish-teacher-training-courses/showing-academic-year-on-the-course-details-page/
 
