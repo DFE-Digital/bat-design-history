@@ -2,6 +2,10 @@
 title: Adding questions about visa sponsorship to courses
 description: We added questions about visa sponsorship to the new course and the edit course flows.
 date: 2022-03-02
+related:
+  items:
+    - text: Guidance for accredited ITT providers on recruiting trainee teachers from overseas
+      href: https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers
 screenshots:
   items:
     - text: Organisation settings - lead school
