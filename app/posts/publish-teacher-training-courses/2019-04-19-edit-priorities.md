@@ -1,7 +1,7 @@
 ---
 layout: page
 title: In what order should we build the Edit screens?
-description: List edit screens with their complexity and priority.
+description: List edit screens with their complexity and priority
 date: 2019-04-19
 screenshots:
   items:
@@ -22,6 +22,7 @@ screenshots:
     - Title
     - Confirm your changes
 ---
+<!-- markdownlint-disable MD051 -->
 
 [Edit screen workflows in a Google Drawing](https://docs.google.com/drawings/d/1OrJYSTmRSJD2GEAWFnr2lXLNo7A9J9GDsPMQUm0Pi0M/edit) and the [new course flow](https://docs.google.com/drawings/d/1DAhz464j1XDyQPoOH0adIwAceUwuGU1rqsWkVn8ZQ8I/edit) for context.
 
@@ -61,3 +62,5 @@ Further education screens are probably out of scope for MVP.
 | [Start date](#course-start-date) | Rarely edited | Low | Low | No |
 | [Title](#title) | Changes to titles need to be approved | Medium | High | No |
 | [Confirm changes](#confirm-your-change) | All edits must be summarised before confirming | High | High | -- |
+
+<!-- markdownlint-enable MD051 -->
