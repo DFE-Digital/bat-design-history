@@ -1,6 +1,6 @@
 ---
 title: Course page – 11 January iteration
-description: Edit course information, update the status column.
+description: Edit course information, update the status column
 date: 2019-01-11
 screenshots:
   items:
@@ -13,6 +13,8 @@ screenshots:
     - Confirm answers (for comparison)
     - Organisation
 ---
+
+<!-- markdownlint-disable MD051 -->
 
 An iteration on the [current course page](/publish-teacher-training-courses/enrichment-sept-6#course) which:
 
@@ -51,3 +53,5 @@ The new design:
 * adds ‘Is it on Find?’, ‘Applications’ and ‘Vacancies’ labels to provide the same information as the course table
 * removes the ‘View on website’ section, replaced with ‘Is it on Find?’
 * moves the audit trail (eg when published, when saved) details to the bottom
+
+<!-- markdownlint-enable MD051 -->
