@@ -11,6 +11,7 @@ screenshots:
     - Published course
     - Course with unpublished changes
 ---
+<!-- markdownlint-disable MD051 -->
 
 During rollover there are two cycles: the current cycle, and another that’s being prepared for the next cycle. Courses in the next cycle can’t go live until the cycle begins, which is usually in October.
 
@@ -81,3 +82,5 @@ Once a cycle has opened all changes should revert.
 We probably need a way for providers to preview their course after it’s been published, as View on website won’t be a thing.
 
 The preview links could persist on the course page and not be dependent on the course’s state.
+
+<!-- markdownlint-ensable MD051 -->
