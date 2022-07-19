@@ -1,6 +1,6 @@
 ---
 title: Adding questions about visa sponsorship to courses
-description: We added questions about visa sponsorship to the new course and the edit course flows.
+description: We added questions about visa sponsorship to the new course and the edit course flows
 date: 2022-03-02
 related:
   items:
