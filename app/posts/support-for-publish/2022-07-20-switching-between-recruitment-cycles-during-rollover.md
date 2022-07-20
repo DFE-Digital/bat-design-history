@@ -48,5 +48,5 @@ During rollover, we display a recruitment cycle switcher above the primary navig
 
 The switcher shows:
 
-- the recruitment cycle - for example, ‘2021 to 2022 - current’
+- the recruitment cycle - for example, ‘Recruitment cycle 2021 to 2022 - current’
 - a link to ‘Change recruitment cycle’
