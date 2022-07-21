@@ -47,6 +47,7 @@ We show a horizontal list of actions based on the course status below the course
 If the course has the status ‘empty’, ‘draft’ or ‘rolled over’, we show a:
 
 - publish course button
+- preview course link
 - delete course link
 
 If the course has the status ‘published’, we show links to:
