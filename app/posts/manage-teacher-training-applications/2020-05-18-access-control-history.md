@@ -3,6 +3,7 @@ title: 'Setting user permissions: context and user research'
 description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here's how we arrived at our designs
 date: 2020-05-18
 ---
+<!-- markdownlint-disable MD051 -->
 
 Teacher training providers have to partner with accredited bodies if they’re not an accredited body themselves. Accredited bodies maintain the quality of teacher training providers.
 
@@ -621,3 +622,5 @@ Note that for changing an offer in weblink, the user can change:
 [Return to table of contents](#table-of-contents)
 
 ---
+
+<!-- markdownlint-enable MD051 -->
