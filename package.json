@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.3.3",
+    "@11ty/eleventy-navigation": "^0.3.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
     "@rollup/plugin-commonjs": "^22.0.2",
     "@rollup/plugin-node-resolve": "^13.3.0",
