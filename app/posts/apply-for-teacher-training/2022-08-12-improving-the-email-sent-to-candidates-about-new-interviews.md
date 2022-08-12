@@ -4,7 +4,7 @@ description: We now include the course subject and code. We also show details se
 date: 2022-08-12
 related:
   items:
-    - text: Pull request implementing this change
+    - text: Github pull request for these changes
       href: https://github.com/DFE-Digital/apply-for-teacher-training/pull/7276
 ---
 
@@ -12,14 +12,18 @@ related:
 
 The email sent to candidates when an interview is set up did not include the course name or code.
 
-We wanted to add these to the email and also reflect [changes we made to the email sent when an interview is updated](/manage-teacher-training-applications/emailing-candidates-about-upcoming-interviews-when-their-course-is-changed/).
+We wanted to add these details to the email and also reflect [changes we made to the email sent when an interview is updated](/manage-teacher-training-applications/emailing-candidates-about-upcoming-interviews-when-their-course-is-changed/).
 
 While making these changes we looked at examples of text entered for:
 
 - address or online meeting details
 - additional details
 
-We found that providers often give large amounts of information, sometimes including multiple paragraphs. This did not display well in the design so we decided to change it.
+We found that providers often give large amounts of information, sometimes including multiple paragraphs.
+
+This did not display well because we were using a single block of indented text. We decided to display the address and additional details separately.
+
+These changes went live on the service on 9 August 2022.
 
 ## What we changed
 
