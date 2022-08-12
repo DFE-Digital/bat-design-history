@@ -6,7 +6,7 @@ date: 2022-07-13
 
 {% from "email/macro.njk" import appEmail %}
 
-The email sent to candidates when an interview is set up does not currently include the course name or code.
+The email sent to candidates when an interview is set up did not include the course name or code.
 
 We wanted to add these to the email and also reflect [changes we made to the email sent when an interview is updated](/manage-teacher-training-applications/emailing-candidates-about-upcoming-interviews-when-their-course-is-changed/).
 
