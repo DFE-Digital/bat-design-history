@@ -15,7 +15,7 @@ While making these changes we looked at examples of text entered for:
 - address or online meeting details
 - additional details
 
-We found that providers often give large amounts of information, sometimes including multiple paragraphs. This does not display well in the existing design so we decided to change it.
+We found that providers often give large amounts of information, sometimes including multiple paragraphs. This did not display well in the design so we decided to change it.
 
 ## What we changed
 
