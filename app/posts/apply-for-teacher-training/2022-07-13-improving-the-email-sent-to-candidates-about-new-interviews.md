@@ -1,7 +1,11 @@
 ---
 title: Improving the email sent to candidates about new interviews
 description: We now include the course subject and code. We also show details separately rather than in a single section.
-date: 2022-07-13
+date: 2022-08-12
+related:
+  items:
+    - text: Pull request implementing this change
+      href: https://github.com/DFE-Digital/apply-for-teacher-training/pull/7276
 ---
 
 {% from "email/macro.njk" import appEmail %}
