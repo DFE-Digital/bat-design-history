@@ -33,7 +33,7 @@ We removed content saying that candidates will be able to save and return to the
 
 The priority in the email is for candidates to click the link, not for us to explain how the account will work.
 
-![TODO](updated-create-account-email.png "Updated email sent when creating an account")
+![Screenshot with the text 'Confirm that you want to create an account to apply for teacher training:' followed by a link](updated-create-account-email.png "Updated email sent when creating an account")
 
 ## Signing in
 
@@ -41,7 +41,7 @@ The sign in email now starts with the candidate’s name if they’ve entered it
 
 We also changed the lead-in line so that it mentions continuing an application.
 
-![TODO](updated-sign-in-email.png "Updated email sent when signing in")
+![Screenshot with the text 'Dear Frankie, Sign in to continue your application for teacher training:' followed by a link](updated-sign-in-email.png "Updated email sent when signing in")
 
 ## Trying to sign into an account which does not exist
 
@@ -53,14 +53,14 @@ It’s possible that some candidates were confused by the previous content of th
 
 The content encouraged these users to create an account but it’s possible that they had just used the wrong email address.
 
-![TODO](sign-in-no-account-before.png "Previous email sent when signing into an account that does not exist")
+![Screenshot with the text 'You tried to sign in to apply for teacher training. It looks like you do not have an account yet. Create an account:' followed by a link](sign-in-no-account-before.png "Previous email sent when signing into an account that does not exist")
 
 The new email content says that the candidate should either:
 
 - sign in with the email they used previously, if they’ve already started an application
 - create a new account, if they have not started an application
 
-![TODO](sign-in-no-account-after.png  "New email sent when signing into an account that does not exist")
+![Screenshot with the text 'Confirm that you want to create an account to apply for teacher training:' followed by a link](sign-in-no-account-after.png  "New email sent when signing in with an account that doesn’t exist")
 
 ## Next steps
 
