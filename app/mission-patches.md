@@ -108,6 +108,23 @@ We chose the plaid shirt and mug due to the fact that several team members share
 
 * * *
 
+## Support team
+
+Our team of ants represent the drive and passion for supporting users across all our services (the services, currently seven, are shown as the backpacks our hardworking ants carry).
+
+The sun and blue skies depict the happy and contented nature of the team and how they collectively make it a great working space. The Support Team banner flies high as the ants link together to demonstrate their collaboration and support of each other. Their antennae are on constant alert to assist and to be the voice of our users as we take forward their issues to product teams for service improvements.
+
+Ants are ‘superorganisms’ because they operate as a unified entity, collectively working together to support the colony. In the same way, this team has a one-team philosophy to support each other, our users and our product teams.
+
+{{ appGallery({
+  items: [{
+    text: "Teacher Services support team 20,000 tickets resolved",
+    caption: "Teacher Services support team 20,000 tickets resolved - 2021 to 2022"
+    }]
+}) }}
+
+* * *
+
 ## Other projects
 
 {{ appGallery({
