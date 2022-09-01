@@ -38,6 +38,34 @@ screenshots:
       src: add-course--course-start-date.png
     - text: Add course - check your answers
       src: add-course--check-your-answers.png
+    - text: Edit course - special educational needs and disability (SEND) specialism
+      src: add-course--subject-level.png
+    - text: Edit course - primary subjects
+      src: edit-course--subject-primary.png
+    - text: Edit course - secondary subjects
+      src: edit-course--subject-secondary.png
+    - text: Edit course - primary age ranges
+      src: edit-course--age-range-primary.png
+    - text: Edit course - secondary age ranges
+      src: edit-course--age-range-secondary.png
+    - text: Edit course - primary and secondary course qualifications
+      src: edit-course--qualification.png
+    - text: Edit course - further education course qualifications
+      src: edit-course--qualification-further-education.png
+    - text: Edit course - funding type
+      src: edit-course--funding-type.png
+    - text: Edit course - teaching apprenticeship
+      src: edit-course--apprenticeship.png
+    - text: Edit course - full time or part time
+      src: edit-course--study-mode.png
+    - text: Edit course - locations
+      src: edit-course--locations.png
+    - text: Edit course - accredited body
+      src: edit-course--accredited-body.png
+    - text: Edit course - applications open date
+      src: edit-course--applications-open-date.png
+    - text: Edit course - course start date
+      src: edit-course--course-start-date.png
 ---
 
 We improved the content on the add and edit course flows to make it clearer and more concise.
