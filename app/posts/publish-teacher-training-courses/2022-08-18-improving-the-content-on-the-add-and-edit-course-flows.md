@@ -70,6 +70,7 @@ For primary subjects, we removed the dropdown list and replaced it with radio bu
 ### Age range
 
 We shorted the title to ‘Age range’ to make it more concise.
+
 ### Qualification
 
 We shortened the title and used the terminology ‘Qualification’ to match Find postgraduate teacher training (Find).
