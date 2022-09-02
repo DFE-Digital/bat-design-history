@@ -66,15 +66,17 @@ screenshots:
       src: edit-course--course-start-date.png
 ---
 
-We improved the content on the add and edit course flows to make it clearer and more concise.
+We improved the content on the add course, and edit course flows to make them clearer and more concise.
 
-At the same time, we changed some of the interactions to make the process of adding and editing a course easier.
+At the same time, we changed some of the interactions to make adding and editing a course easier.
 
 ## What we changed
 
-### Links and captions
+### Back and cancel links
 
 We added ‘Back’ links to all pages in the ‘Add course’ flow, and ‘Cancel’ links to all pages in the ‘Add course’ and edit course flows.
+
+### Page captions
 
 We added a page caption to all pages which is dependent on whether a course is being added or edited.
 
