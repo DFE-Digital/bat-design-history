@@ -1,11 +1,7 @@
 ---
 title: Improving the content on the add and edit course flows
-description:
+description: We updated content and some interactions to make adding and editing a course clearer
 date: 2022-08-18
-related:
-  items:
-    - text:
-      href:
 screenshots:
   items:
     - text: Add course - subject level
@@ -14,6 +10,8 @@ screenshots:
       src: add-course--subject-primary.png
     - text: Add course - secondary subjects
       src: add-course--subject-secondary.png
+    - text: Add course - modern language subjects
+      src: add-course--subject-modern-languages.png
     - text: Add course - primary age ranges
       src: add-course--age-range-primary.png
     - text: Add course - secondary age ranges
@@ -36,14 +34,14 @@ screenshots:
       src: add-course--applications-open-date.png
     - text: Add course - course start date
       src: add-course--course-start-date.png
-    - text: Add course - check your answers
-      src: add-course--check-your-answers.png
-    - text: Edit course - special educational needs and disability (SEND) specialism
-      src: add-course--subject-level.png
+    - text: Edit course - special educational needs and disability (SEND)
+      src: edit-course--send.png
     - text: Edit course - primary subjects
       src: edit-course--subject-primary.png
     - text: Edit course - secondary subjects
       src: edit-course--subject-secondary.png
+    - text: Edit course - modern language subjects
+      src: edit-course--subject-modern-languages.png
     - text: Edit course - primary age ranges
       src: edit-course--age-range-primary.png
     - text: Edit course - secondary age ranges
