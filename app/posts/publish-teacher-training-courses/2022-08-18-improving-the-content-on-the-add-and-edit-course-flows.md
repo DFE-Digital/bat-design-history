@@ -66,7 +66,7 @@ screenshots:
       src: edit-course--course-start-date.png
 ---
 
-We improved the content on the add course, and edit course flows to make them clearer and more concise.
+We improved the content on the ‘Add course’, and edit course flows to make them clearer and more concise.
 
 At the same time, we changed some of the interactions to make adding and editing a course easier.
 
@@ -74,43 +74,52 @@ At the same time, we changed some of the interactions to make adding and editing
 
 ### Back and cancel links
 
-We added ‘Back’ links to all pages in the ‘Add course’ flow, and ‘Cancel’ links to all pages in the ‘Add course’ and edit course flows.
+We added ‘Back’ links to all pages in the ‘Add course’ flow and ‘Cancel’ links to all pages in the ‘Add course’ and edit course flows.
+
+The ‘Back’ link is below the primary navigation and above the page heading. In the ‘Add course’ flow, it takes the user back to the previous step in the flow. In the edit flows, it takes the user back to the course details page.
+
+The subject and visa questions may contain a dependent question. When a user is editing a course, ‘Back’ will take them to the previous question rather than the course details page.
+
+‘Cancel’ links are below the green submit button. In the ‘Add course’ flow, clicking on ‘Cancel’ will take the user back to their list of courses. Cancelling in the edit course flows will take the user back to course details.
 
 ### Page captions
 
-We added a page caption to all pages which is dependent on whether a course is being added or edited.
+We added a caption to all pages, depending on whether a course is being added or edited.
 
-- If a course is being added, we use ‘Add course’
-- If a course is being edited, we use the course name and code, for example, ‘Biology (2KR6)’.
+- If a user adds a course, the caption is ‘Add course’.
+- If a user edits a course, the caption is the course name and code, for example, ‘Biology (2KR6)’.
 
-### Subject level
+## Buttons
 
-The title was not specific enough so we changed the title to ‘Subject level’.
+We updated all buttons in the ‘Add course’ flow to ‘Continue’. In the edit course flows, we updated all buttons to ‘Update [information being updated]’, for example, ‘Update qualification’.
 
-This page contained another heading, ‘Special educational needs and disability (SEND)’ with ‘Yes’ and ‘No’ radio buttons. We removed this and created another page for this content within the ‘Add course’ flow.
+## Success and error messages
+
+We updated the success and error messages on the add course, and edit course flows to make them consistent.
+
+For example, on the edit course flow, we changed the success message, ‘Changes to course outcome published’ to match the new page title and updated button text, ‘Qualification updated’.
+
+We also updated the wording on the error messages on the add course, and edit course flows to match the page titles and the interaction. For example, ‘Pick a course outcome’ is now ‘Select a qualification’.
 
 ### Subject
 
-For both secondary and primary subject pages, we shortened the page title to ‘Subject’ and removed the hint text as it was uneccessary.
+We shortened the page title to ‘Subject’ for both primary and secondary subject pages and removed the hint text as it was unnecessary.
 
-For primary subjects, we removed the dropdown list and replaced it with radio buttons as this is a more accessible way of presenting the options.
+We removed the select component for primary subjects and replaced it with radio buttons. Radio buttons make it easier for the user to scan the list of options.
 
 ### Age range
 
-We shorted the title to ‘Age range’ to make it more concise.
+We shortened the title to ‘Age range’ to make it more concise.
 
 ### Qualification
 
 We shortened the title and used the terminology ‘Qualification’ to match Find postgraduate teacher training (Find).
 
-The radio button options were not in alphabetical order so we repositioned them.
+The radio button options were not in alphabetical order, so we repositioned them.
 
 ### Funding type
 
 We shortened the title, ‘Is it fee paying or salaried?’ to ‘Funding type’.
-
-### Apprenticeship
-
 
 ### Full time or part time
 
@@ -118,7 +127,7 @@ We changed the title from ‘Study mode’ to ‘Full time or part time’ to ma
 
 ### Locations
 
-We shortened the page title to ‘Locations’ and added hint text to make it clear that more than one location can be selected.
+We shortened the page title to ‘Locations’ and added hint text to clarify that more than one location can be selected.
 
 ### Accredited body
 
@@ -128,14 +137,30 @@ We shortened the page title and ordered the list of accredited bodies alphabetic
 
 We shortened the page title and updated the radio button labels.
 
-Courses are published on Find around a week before Apply opens. We changed the first radio label to make it clear that this option relates to the date that candidates can apply from, rather than the date courses are published on Find. We did this by adding the date that Apply opens, for example, ‘On 11 October 2022 when Apply opens - recommended’.
+Courses are published on Find around a week before Apply opens. We changed the first radio label to clarify that this option relates to the date candidates can apply from rather than the date courses are published on Find. We did this by adding the date that Apply opens, for example, ‘On 11 October 2022 when Apply opens - recommended’.
 
 ### Course start date
 
-We shortened the title to make it more concise. We removed the dropdown list and replaced it with radio buttons to make it more accessible.
+We shortened the title to make it more concise. We removed the select component and replaced it with radio buttons to make it more accessible.
 
-We have changed date options for the radio labels to show the present month to the end of the following academic year, for example October 2022 to July 2024.
+We have changed date options for the radio labels to show the current month to the end of the following academic year, for example, October 2022 to July 2024.
 
 ## Further considerations
 
-We will explore how far into the future we need to go with the course start date options. We may look into automatically changing the date options month by month.
+### What type of course?
+
+The page titled ‘What type of course?’ contains another heading, ‘Special educational needs and disability (SEND)’ with ‘Yes’ and ‘No’ radio buttons. We plan to remove this content and create another page for the SEND course option within the ‘Add course’ flow.
+
+We will then update the ‘What type of course?’ page title to ‘Subject level’ to make it more specific to the options.
+
+### Secondary subjects
+
+We will consider introducing an autocomplete to make it quicker for the user when selecting a subject. We will also investigate restructuring subjects to improve the mapping to HECOS/HESA.
+
+### Full time or part time
+
+The ‘Full time or part time’ page currently has radio buttons. We will consider changing this to checkboxes and removing the ‘Both’ option.
+
+### Course start date
+
+We will explore how far into the future we need to go with the course start date options.
