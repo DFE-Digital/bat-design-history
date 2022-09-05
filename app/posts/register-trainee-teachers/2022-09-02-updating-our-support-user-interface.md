@@ -104,4 +104,4 @@ The final data and settings sections are places where we can include information
 
 ## Further work
 
-We’ll now work through these changes and break them down in to separate stories we can deliver iteratively. Our focus will be on ones that reduce the burden on support staff during the Census period.
+We’ll now work through these changes and break them down in to separate stories we can deliver iteratively. Our focus will be on ones that reduce the burden on support staff during September and October when users start to register their new trainees so they can be included in the ITT census publication.
