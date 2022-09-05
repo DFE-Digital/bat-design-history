@@ -62,7 +62,7 @@ The new designs also support starting with an organisation and choosing to add a
 
 ![Screenshot of a page for editing a user’s access to an organisation. There are radio options for role type, and to remove access or archive the user.](8.user-organisation-access.png)
 
-For each organisation a user has access to, we can have an edit page to manage that relationship. Initially this would likely just be to remove access to an org - but in the future could control the user’s permissions at that organisation.
+For each organisation a user has access to, we can have an edit page to manage that relationship. Initially this would likely just be to remove access to an organisation - but in the future could control the user’s permissions at that organisation.
 
 #### Confirming a user’s removal from an organisation
 
