@@ -56,7 +56,7 @@ When adding a user to an organisation, users get an autocomplete of available or
 
 We have yet to build granular user permissions in Register, but this design explores how we might approach it when we do.
 
-The new designs also support starting with an organisation and choosing to add a user to it. Which approach to use might vary depending on the task - if a support agent has several users to add to one org, they might start with that org. If they have an existing user they need to add to a second org, it might make more sense to start with the user.
+The new designs also support starting with an organisation and choosing to add a user to it. Which approach to use might vary depending on the task - if a support agent has several users to add to one organisation, they might start with that organisation. If they have an existing user they need to add to a second organisation, it might make more sense to start with the user.
 
 #### Changing a user’s access to an organisation
 
