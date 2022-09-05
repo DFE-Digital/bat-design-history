@@ -2,6 +2,10 @@
 title: Updating our support user interface
 description: Improving the tools and interface our support staff use to administer Register
 date: 2022-09-05
+related:
+  items:
+  - text: Pull request adding support user interface
+    href: https://github.com/DFE-Digital/register-trainee-teachers-prototype/pull/540
 ---
 
 We’ve recently done some design work to improve the interface our support staff use to administer Register.
