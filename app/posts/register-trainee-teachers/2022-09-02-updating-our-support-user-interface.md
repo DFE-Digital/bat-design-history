@@ -4,9 +4,6 @@ description: Improving the tools and interface our support staff use to administ
 date: 2022-09-05
 ---
 
-# Updating our support user interface
-
-
 We’ve recently done some design work to improve the interface our support staff use to administer Register.
 
 The current interface has been added to bits and pieces as a time as we needed a feature – this means it has a confusing user interface and doesn’t always have features we need to support Register or perform common tasks.
