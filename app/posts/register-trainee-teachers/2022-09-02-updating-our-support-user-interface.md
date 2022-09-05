@@ -1,7 +1,7 @@
 ---
 title: Updating our support user interface
 description: Improving the tools and interface our support staff use to administer Register
-date: 2022-09-02
+date: 2022-09-05
 ---
 
 # Updating our support user interface
