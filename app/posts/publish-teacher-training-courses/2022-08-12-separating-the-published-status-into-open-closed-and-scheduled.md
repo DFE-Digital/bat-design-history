@@ -54,8 +54,8 @@ Courses with the ‘scheduled’ status indicates:
 - the course is not currently on Find for the upcoming recruitment cycle - but will be when the recruitment cycle opens
 - candidates cannot find or apply to the course
 
-Courses with this status can be changed up until the date the course is open on Find.
+Courses with this status can be changed until the course is open on Find.
 
 ## Further considerations
 
-In future, we will consider allowing courses to be scheduled throughout the recruitment cycle, to distinguish between courses published but not yet live on Find and courses published and live on Find.
+In future, we will consider allowing courses to be scheduled throughout the recruitment cycle to distinguish between courses published but not yet live on Find and courses published and live on Find.
