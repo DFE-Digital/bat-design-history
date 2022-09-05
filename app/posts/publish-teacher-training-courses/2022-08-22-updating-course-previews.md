@@ -1,6 +1,6 @@
 ---
-title: Updating course previews
-description: We updated course previews to make them more consistent with Find and improve how we indicate missing content
+title: Making course previews consistent with Find
+description: We updated course previews to make them consistent with Find and improved how we indicate missing content
 date: 2022-08-22
 screenshots:
   items:
@@ -11,6 +11,8 @@ screenshots:
 ---
 
 When a provider drafts a new course in Publish teacher training courses (Publish), they can preview it before they publish it on Find postgraduate teacher training (Find).
+
+The way we displayed previews in Publish was not consistent with the course pages in Find.
 
 ## What we changed
 
