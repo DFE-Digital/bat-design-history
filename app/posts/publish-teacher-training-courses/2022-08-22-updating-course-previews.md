@@ -1,6 +1,6 @@
 ---
 title: Updating course previews
-description:
+description: We updated course previews to make them more consistent with Find and improve how we indicate missing content
 date: 2022-08-22
 screenshots:
   items:
@@ -16,6 +16,7 @@ When a provider drafts a new course in Publish teacher training courses (Publish
 
 We have:
 
+- updated the content to match Find
 - removed the primary navigation
 - added a backlink to the course page
 - improved the call to actions when content is missing
@@ -26,4 +27,6 @@ To make the course preview a more accurate reflection of the course on Find, we 
 
 ### Missing content
 
-When a course is published, there are several required fields a provider must enter. We indicate these required fields in the preview using inset text and a call to action asking the provider to enter the information. The call to action links directly to the section they need to complete.
+When a course is published, there are several required fields a provider must enter.
+
+If the content is missing, we indicate required fields in the preview using inset text and a call to action asking the provider to enter the information. The call to action links directly to the section they need to complete.
