@@ -3,9 +3,8 @@ title: Updating our support user interface
 description: Improving the tools and interface our support staff use to administer Register
 date: 2022-09-02
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
-Updating our support user interface
+# Updating our support user interface
 
 
 We’ve recently done some design work to improve the interface our support staff use to administer Register.
