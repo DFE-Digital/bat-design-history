@@ -12,7 +12,7 @@ screenshots:
       src: course-statuses.png
 ---
 
-Courses in Publish postgraduate teacher training courses (Publish) are assigned a status. Statuses indicate to users where the course is in the publishing lifecycle. For example, a course with the ‘draft’ status indicates that the course is being created and has not yet been published.
+Courses in Publish postgraduate teacher training courses (Publish) are assigned a status. Statuses indicate to users where the course is in the publishing lifecycle. For example, a course with the ‘Draft’ status indicates that the course is being created and has not yet been published.
 
 Previously, when a course was published, it was assigned the status ‘Published’. This status did not indicate the true state of the course on Find postgraduate teacher training (Find) since the state is also determined by the number of vacancies and whether the recruitment cycle was open for applications.
 
@@ -26,7 +26,7 @@ We decided to split the publish status into three:
 
 ### Open
 
-Courses with the ‘open’ status indicates:
+A course with the ‘Open’ status indicates:
 
 - the course has been published and is available on Find
 - the course has vacancies
@@ -36,11 +36,11 @@ Courses with the ‘open’ status indicates:
 
 Courses can be closed by setting their vacancy status to none.
 
-Courses with the ‘closed’ status indicates:
+A course with the ‘Closed’ status indicates:
 
 - the course has been published and is available on Find
 - the course does not have vacancies
-- candidates cannot apply to the course
+- the course is on Find, but candidates cannot apply to it
 
 Closed courses can be reopened by updating the vacancy status in Publish.
 
@@ -48,7 +48,7 @@ The closed status is distinct from ‘Withdrawn’ where the course has been rem
 
 ### Scheduled
 
-Courses with the ‘scheduled’ status indicates:
+A course with the ‘Scheduled’ status indicates:
 
 - the course has been published during roll over
 - the course is not currently on Find for the upcoming recruitment cycle - but will be when the recruitment cycle opens
