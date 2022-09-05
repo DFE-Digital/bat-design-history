@@ -89,11 +89,13 @@ We added a caption to all pages, depending on whether a course is being added or
 - If a user adds a course, the caption is ‘Add course’.
 - If a user edits a course, the caption is the course name and code, for example, ‘Biology (2KR6)’.
 
-## Buttons
+### Buttons
 
-We updated all buttons in the ‘Add course’ flow to ‘Continue’. In the edit course flows, we updated all buttons to ‘Update [information being updated]’, for example, ‘Update qualification’.
+We updated all buttons in the ‘Add course’ flow to ‘Continue’.
 
-## Success and error messages
+In the edit course flows, we updated all buttons to ‘Update [information being updated]’, for example, ‘Update qualification’.
+
+### Success and error messages
 
 We updated the success and error messages on the add course, and edit course flows to make them consistent.
 
@@ -101,45 +103,47 @@ For example, on the edit course flow, we changed the success message, ‘Changes
 
 We also updated the wording on the error messages on the add course, and edit course flows to match the page titles and the interaction. For example, ‘Pick a course outcome’ is now ‘Select a qualification’.
 
-### Subject
+### Page specific changes
+
+#### Subject
 
 We shortened the page title to ‘Subject’ for both primary and secondary subject pages and removed the hint text as it was unnecessary.
 
 We removed the select component for primary subjects and replaced it with radio buttons. Radio buttons make it easier for the user to scan the list of options.
 
-### Age range
+#### Age range
 
 We shortened the title to ‘Age range’ to make it more concise.
 
-### Qualification
+#### Qualification
 
 We shortened the title and used the terminology ‘Qualification’ to match Find postgraduate teacher training (Find).
 
 The radio button options were not in alphabetical order, so we repositioned them.
 
-### Funding type
+#### Funding type
 
 We shortened the title, ‘Is it fee paying or salaried?’ to ‘Funding type’.
 
-### Full time or part time
+#### Full time or part time
 
 We changed the title from ‘Study mode’ to ‘Full time or part time’ to make it more relevant to the options.
 
-### Locations
+#### Locations
 
 We shortened the page title to ‘Locations’ and added hint text to clarify that more than one location can be selected.
 
-### Accredited body
+#### Accredited body
 
 We shortened the page title and ordered the list of accredited bodies alphabetically.
 
-### Applications open date
+#### Applications open date
 
 We shortened the page title and updated the radio button labels.
 
 Courses are published on Find around a week before Apply opens. We changed the first radio label to clarify that this option relates to the date candidates can apply from rather than the date courses are published on Find. We did this by adding the date that Apply opens, for example, ‘On 11 October 2022 when Apply opens - recommended’.
 
-### Course start date
+#### Course start date
 
 We shortened the title to make it more concise. We removed the select component and replaced it with radio buttons to make it more accessible.
 
