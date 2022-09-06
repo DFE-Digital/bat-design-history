@@ -66,35 +66,43 @@ screenshots:
       src: edit-course--course-start-date.png
 ---
 
-We improved the content on the ‘Add course’, and edit course flows to make them clearer and more concise.
+We improved the content on the ‘Add course’, and edit course flows to make the language clearer and more specific to the options presented on the page.
 
 At the same time, we changed some of the interactions to make adding and editing a course easier.
 
 ## What we changed
 
-### Back and cancel links
+We have made:
+
+- some general changes, for example to the navigation and messages
+- page specific changes
+
+### General changes
+
+#### Back and cancel links
 
 We added ‘Back’ links to all pages in the ‘Add course’ flow and ‘Cancel’ links to all pages in the ‘Add course’ and edit course flows.
 
 The ‘Back’ link is below the primary navigation and above the page heading. In the ‘Add course’ flow, it takes the user back to the previous step in the flow. In the edit flows, it takes the user back to the course details page.
 
 The subject and visa questions may contain a dependent question. When a user is editing a course, ‘Back’ will take them to the previous question rather than the course details page.
+
 ‘Cancel’ links are below the green submit button. In the ‘Add course’ flow, clicking on ‘Cancel’ will take the user back to their list of courses. Cancelling in the edit course flows will take the user back to course details.
 
-### Page captions
+#### Page captions
 
 We added a caption to all pages, depending on whether a course is being added or edited.
 
 - If a user adds a course, the caption is ‘Add course’.
 - If a user edits a course, the caption is the course name and code, for example, ‘Biology (2KR6)’.
 
-### Buttons
+#### Buttons
 
 We updated all buttons in the ‘Add course’ flow to ‘Continue’.
 
 In the edit course flows, we updated all buttons to ‘Update [information being updated]’, for example, ‘Update qualification’.
 
-### Success and error messages
+#### Success and error messages
 
 We updated the success and error messages on the add course, and edit course flows to make them consistent.
 
@@ -160,7 +168,7 @@ We will then update the ‘What type of course?’ page title to ‘Subject leve
 
 We will consider introducing an autocomplete to make it quicker for users to select a subject.
 
-We will also investigate restructuring subjects to improve the mapping to Higher Education Classification of Subjects (HECoS) and other services within Becoming a Teacher (BAT)..
+We will also investigate restructuring subjects to improve the mapping to Higher Education Classification of Subjects (HECoS) and other services within Becoming a Teacher (BAT).
 
 ### Full time or part time
 
