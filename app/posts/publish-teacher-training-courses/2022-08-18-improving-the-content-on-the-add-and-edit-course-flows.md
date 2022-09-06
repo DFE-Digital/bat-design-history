@@ -79,7 +79,6 @@ We added ‘Back’ links to all pages in the ‘Add course’ flow and ‘Cance
 The ‘Back’ link is below the primary navigation and above the page heading. In the ‘Add course’ flow, it takes the user back to the previous step in the flow. In the edit flows, it takes the user back to the course details page.
 
 The subject and visa questions may contain a dependent question. When a user is editing a course, ‘Back’ will take them to the previous question rather than the course details page.
-
 ‘Cancel’ links are below the green submit button. In the ‘Add course’ flow, clicking on ‘Cancel’ will take the user back to their list of courses. Cancelling in the edit course flows will take the user back to course details.
 
 ### Page captions
@@ -141,7 +140,7 @@ We shortened the page title and ordered the list of accredited bodies alphabetic
 
 We shortened the page title and updated the radio button labels.
 
-Courses are published on Find around a week before Apply opens. We changed the first radio label to clarify that this option relates to the date candidates can apply from rather than the date courses are published on Find. We did this by adding the date that Apply opens, for example, ‘On 11 October 2022 when Apply opens - recommended’.
+If the course is edited during the roll over period, we show ‘On 11 October 2022 when Apply opens - recommended’ as the first option, otherwise it is ‘As soon as the course is on Find - recommended’.
 
 #### Course start date
 
@@ -159,7 +158,9 @@ We will then update the ‘What type of course?’ page title to ‘Subject leve
 
 ### Secondary subjects
 
-We will consider introducing an autocomplete to make it quicker for the user when selecting a subject. We will also investigate restructuring subjects to improve the mapping to HECOS/HESA.
+We will consider introducing an autocomplete to make it quicker for users to select a subject.
+
+We will also investigate restructuring subjects to improve the mapping to Higher Education Classification of Subjects (HECoS) and other services within Becoming a Teacher (BAT)..
 
 ### Full time or part time
 
