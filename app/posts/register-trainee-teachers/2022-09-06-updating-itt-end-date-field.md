@@ -1,6 +1,6 @@
 ---
 title: Updating the ‘ITT end date’ field
-description: Improving the tools and interface our support staff use to administer Register
+description: Renaming the field and prompting for it to be updated so it stays up to date
 date: 2022-09-06
 related:
   items:
