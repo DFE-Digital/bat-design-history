@@ -31,7 +31,9 @@ We also disabled the ‘Apply for this course’ button, rather than remove it, 
 
 ### Content
 
-Whilst much of the content for a course is written by the provider, some content is the same for all courses. - for example, the government's advice on financial support from Get Into Teaching (GIT). We made sure this content was consistent with Find.
+Providers write most of the content for the course page, for example, about the course, school placements and entry requirements.
+
+Other content is the same for all courses, for example, the government's advice on financial support from Get Into Teaching (GIT) and support and advice. We made sure this content was consistent with Find.
 
 #### Missing content
 
