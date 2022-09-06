@@ -12,7 +12,7 @@ screenshots:
 
 When a provider drafts a new course in Publish teacher training courses (Publish), they can preview it before they publish it on Find postgraduate teacher training (Find).
 
-The way we displayed previews in Publish was not consistent with the course pages in Find.
+How we displayed previews in Publish was inconsistent with the course pages in Find.
 
 ## What we changed
 
@@ -25,18 +25,18 @@ We have:
 
 ### Navigation
 
-To make the course preview a more accurate reflection of the course on Find, we removed the service’s primary navigation and added a backlink to the course details page.
+To make the course preview a more accurate reflection of the course page on Find, we removed the service’s primary navigation and added a backlink to the course details page.
 
-We also disabled the ‘Apply for this course’ button, rather than remove it, to make providers aware where the button was situated within the course on Find.
+We also disabled the ‘Apply for this course’ button, rather than remove it, to inform providers where we show the button on the course page on Find.
 
 ### Content
 
-Whilst much of the content for a course is written by the provider, some content is the same for all courses. For example, the advice from Get into teaching (GIT) on financial support from the government. We made sure this content was consistent with Find.
+Whilst much of the content for a course is written by the provider, some content is the same for all courses. - for example, the government's advice on financial support from Get Into Teaching (GIT). We made sure this content was consistent with Find.
 
 #### Missing content
 
-When a course is published, there are several required fields a provider must enter.
+There are several required fields a provider must complete when publishing a course.
 
-If the content is missing, we indicate required fields in the preview using inset text and a call to action asking the provider to enter the information. The call to action links directly to the section they need to complete.
+If the content is missing, we indicate the required fields in the preview using inset text and show a call to action asking the provider to enter the information. The call to action links directly to the section they need to complete.
 
-For example, if the provider has not entered details about school placements, the inset text says “Enter information about school placements.” The link takes the user to the school placements question within the course description.
+For example, if the provider has not entered details about school placements, the inset text says, ‘Enter information about school placements.’ The link takes the user to the school placements question within the course description.
