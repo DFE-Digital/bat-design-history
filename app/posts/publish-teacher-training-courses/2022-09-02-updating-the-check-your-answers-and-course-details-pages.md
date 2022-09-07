@@ -35,11 +35,11 @@ We changed the title of the ‘Check your answers before confirming’ page to �
 
 We added the caption ‘Add course’ for consistency as this page is part of the ‘Add course’ flow.
 
-The ‘Title’ and ‘Description’ rows in the summary list were removed as they are not needed. ‘Title’ is the same as ‘Subject’ and ‘Description’ is the ‘Qualification’ plus the ‘Full time or part time’ information.
+We removed the ‘Title’ and ‘Description’ rows in the summary list as they are unnecessary. ‘Title’ is the same as ‘Subject’, and ‘Description’ is the ‘Qualification’ plus the ‘Full time or part time’ information.
 
-The ‘Preview’ section below the table was removed as it is not an accurate preview of what the course will look like on Find postgraduate teacher training (Find). Users can preview the course from the course details page.
+We removed the ‘Preview’ section below the table as it is not an accurate preview of what the course will look like on Find postgraduate teacher training (Find). Users can preview the draft course from the course details page.
 
-We updated the button to ‘Add course’ and removed the line of text, ‘Saving this course will not publish it.’ below the button as this content was not needed.
+We updated the button to ‘Add course’ and removed the line of text, ‘Saving this course will not publish it.’ below the button, as users do not need this content.
 
 We added a ‘Cancel’ link below the submit button.
 
@@ -48,11 +48,11 @@ We added a ‘Cancel’ link below the submit button.
 We changed the summary list headings to match the updated page titles in the ‘Add course’ and edit course flows. We updated:
 
 - Subject level
-- Subject - if one subject, otherwise we show plural 'Subjects'
+- Subject - if there is only one subject; otherwise, we show plural 'Subjects'
 - Qualification
 - Funding type - if the organisation is a lead school, otherwise we show ‘Teaching apprenticeship’ for accredited bodies
 - Full time or part time
-- Location - if one location, otherwise we show plural 'Locations'
+- Location - if there is only one location; otherwise, we show plural 'Locations'
 - Applications open date
 - Course start date
 
