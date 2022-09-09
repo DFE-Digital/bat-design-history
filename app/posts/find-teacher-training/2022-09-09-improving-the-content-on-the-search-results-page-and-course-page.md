@@ -1,18 +1,12 @@
----
-Title: Improving the content on the search results page and course page
-description: We made content improvements to filter headings, search results page summary and course page
-date: 2022-09-09
-screenshots:
-  items:
-    - text:
-      src:
-    - text:
-      src:
----
-
 We changed some of the content on the search results page and course page on Find postgraduate teacher training (Find) to make it clearer and more consistent.
 
 ## What we changed
+
+We have updated the:
+
+- filter headings
+- course listing
+- individual course pages
 
 ### Filter headings
 
@@ -20,9 +14,9 @@ We changed ‘Study type’ to ‘Full time or part time’. This matches the co
 
 We changed ‘Degree grade accepted’ to ‘Degree required’ as it matches the search results page summary heading and is more concise.
 
-### Search results page summary
+### Course listing
 
-We removed the full stop from the line of content next to ‘Degree required’. For example, ‘An undergraduate degree at class 2:2 or above, or equivalent’ - the full stop was not necessary.
+We removed the full stop from the content next to ‘Degree required’. For example, ‘An undergraduate degree at class 2:2 or above, or equivalent’ - the full stop was unnecessary.
 
 ### Course page
 
