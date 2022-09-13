@@ -1,11 +1,13 @@
 ---
-title: Updating visa sponsorship
-description:
+title: Making the visa sponsorship questions clearer
+description: We improved the clarity of the visa sponsorship questions and added more information
 date: 2022-08-25
 related:
   items:
     - text: Adding questions about visa sponsorship to courses
       href: /publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/
+    - text: Visa sponsorship question wording change
+      href: /publish-teacher-training-courses/visa-question-wording-change/
 screenshots:
   items:
     - text: Organisation details - accredited body - Student visas
@@ -31,16 +33,3 @@ screenshots:
     - text: Edit course - lead school - Student visas
       src: edit-course--lead-school-skilled-worker-visas.png
 ---
-
-
-## What we changed
-
-### Organisation details
-
-### Course details
-
-### Other changes
-
-## How it works
-
-## Further considerations
