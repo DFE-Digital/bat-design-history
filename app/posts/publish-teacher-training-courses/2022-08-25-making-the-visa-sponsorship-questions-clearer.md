@@ -95,7 +95,6 @@ For all provider types, we ask:
 
 #### Inset text
 
-
 We updated the inset text shown to Lead schools when creating a course.
 
 If the HEI can sponsor Student visas, we show:
