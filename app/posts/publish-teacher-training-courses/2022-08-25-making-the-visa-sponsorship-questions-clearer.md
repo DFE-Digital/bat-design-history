@@ -37,6 +37,7 @@ screenshots:
 In a recent round of research, we found that some users were confused by the wording of the questions in the visa sponsorship flow. We assume that the questions were too broad and aimed at many user groups.
 
 To account for this, we have changed the questions depending on the type of provider the user is. Changing the question means we can be more direct and only show information relevant to specific user groups.
+
 ## What we changed
 
 We have:
