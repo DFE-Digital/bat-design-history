@@ -113,7 +113,6 @@ If the HEI cannot sponsor Student visas, we show:
 
 We default the answer to ‘No’.
 
-
 #### ‘Learn more’ link
 
 If the HEI has answered ‘No’ to the visa questions in ‘Organisation details’, we include an extra line of content on the pages in the ‘Add course’ and edit course flows. We show:
