@@ -10,32 +10,33 @@ related:
       href: /publish-teacher-training-courses/visa-question-wording-change/
 screenshots:
   items:
-    - text: Organisation details - accredited body - student visas
+    - text: Organisation details - accredited body - Student visas
       src: organisation-details--accredited-body-student-visas.png
-    - text: Organisation details - accredited body - skilled worker visas
+    - text: Organisation details - accredited body - Skilled Worker visas
       src: organisation-details--accredited-body-skilled-worker-visas.png
-    - text: Add course - accredited body - student visas
+    - text: Add course - accredited body - Student visas
       src: add-course--accredited-body-student-visas.png
-    - text: Add course - accredited body - skilled worker visas
+    - text: Add course - accredited body - Skilled Worker visas
       src: add-course--accredited-body-skilled-worker-visas.png
-    - text: Add course - lead school - student visas
-      src: add-course--lead-school-student-visas.png
-    - text: Add course - lead school - student visas
+    - text: Add course - lead school - Student visas (accredited body can sponsor)
+      src: add-course--lead-school-student-visas-can-sponsor.png
+    - text: Add course - lead school - Student visas (accredited body cannot sponsor)
+      src: add-course--lead-school-student-visas-cannot-sponsor.png
+    - text: Add course - lead school - Skilled Worker visas
       src: add-course--lead-school-skilled-worker-visas.png
-    - text: Edit course - accredited body - student visas
+    - text: Edit course - accredited body - Student visas
       src: edit-course--accredited-body-student-visas.png
-    - text: Edit course - accredited body - skilled worker visas
+    - text: Edit course - accredited body - Skilled Worker visas
       src: edit-course--accredited-body-skilled-worker-visas.png
-    - text: Edit course - lead school - student visas
+    - text: Edit course - lead school - Student visas (accredited body can sponsor)
       src: edit-course--lead-school-student-visas.png
-    - text: Edit course - lead school - student visas
+    - text: Edit course - lead school - Skilled Worker visas
       src: edit-course--lead-school-skilled-worker-visas.png
 ---
 
 In a recent round of research, we found that some users were confused by the wording of the questions in the visa sponsorship flow. We assume that the questions were too broad and aimed at many user groups.
 
 To account for this, we have changed the questions depending on the type of provider the user is. Changing the question means we can be more direct and only show information relevant to specific user groups.
-
 ## What we changed
 
 We have:
@@ -75,7 +76,7 @@ We added hint text above the button to clarify that changing the answer in ‘Or
 
 ### Course details
 
-In the ‘Add course’ and edit course flows, we updated the visa sponsorship questions to make them more direct and specific.
+We updated the visa sponsorship questions in the ‘Add course’ and edit course flows to make them more direct and specific.
 
 #### Student visas
 
@@ -99,17 +100,18 @@ We updated the inset text shown to Lead schools when creating a course.
 
 If the HEI can sponsor Student visas, we show:
 
-‘[accredited body name] can sponsor Student visas for some of their courses’.
+> [accredited body name] can sponsor Student visas for some of their courses.
 
-The answer is defaulted to ‘Yes’.
+We default the answer to ‘Yes’.
 
 If the HEI cannot sponsor Student visas, we show:
 
-‘[accredited body name] have said they cannot sponsor Student visas so we have defaulted your answer to ‘No’.
+> [accredited body name] have said they cannot sponsor Student visas so we have defaulted your answer to ‘No’.
+>
+> If your organisation would like to sponsor Student visas, contact [accredited body name].
 
-If your organisation would like to sponsor Student visas, contact [accredited body name].’
+We default the answer to ‘No’.
 
-The answer is defaulted to ‘No’.
 
 #### ‘Learn more’ link
 
@@ -132,6 +134,6 @@ If the HEI has answered ‘No’ to the visa questions in ‘Organisation detail
 
 There is no visa information for Lead schools in ‘Organisation details’. We will consider adding a ‘Skilled Worker’ row to the summary list.
 
-Some users felt that they should not be able to change visa information after they had published the a course. Some users were confused about the absence of the ‘Change’ link. We need to look at the value of allowing users to change this information for published courses.
+Some users felt they should not be able to change visa information after publishing the course. Some users were confused about the absence of the ‘Change’ link. We need to look at the value of allowing users to change this information for published courses.
 
 At the moment, changing visa sponsorship information at an organisational level will not affect the answers given at a course level. We need to investigate the risks and benefits of allowing users to change visa sponsorship information for all courses.
