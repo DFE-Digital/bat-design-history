@@ -2,9 +2,6 @@
 title: Working patterns for part time jobs
 description: Adding a place for candidates to describe their working pattern.
 date: 2020-01-20
-tags:
-  - MN007
-  - AN014
 screenshots:
   items:
     - Working pattern for a part time job

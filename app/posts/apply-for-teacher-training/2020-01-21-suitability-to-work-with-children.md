@@ -2,10 +2,6 @@
 title: Suitability to work with children
 description: Add a section to disclose convictions or anything that could affect suitability to work with children.
 date: 2020-01-21
-tags:
-  - MN010
-  - AN015
-  - AN016
 screenshots:
   items:
     - text: Application with suitability section
