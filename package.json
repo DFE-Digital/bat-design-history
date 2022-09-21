@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "private": true,
   "engines": {
-    "node": "16.14.0"
+    "node": "16.x"
   },
   "description": "A history of the designs for the Find, Apply, Publish, Manage, Register and Support services",
   "keywords": [
@@ -38,7 +38,7 @@
     "lint:fix": "npm-run-all lint:javascripts:fix lint:markdown:fix"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
     "@rollup/plugin-commonjs": "^22.0.2",
