@@ -2,8 +2,6 @@
 title: Applying again (Apply 2)
 description: Providing an option for unsuccessful applicants to apply again.
 date: 2020-03-16
-tags:
-  - AN022
 screenshots:
   items:
     - text: Apply again banner

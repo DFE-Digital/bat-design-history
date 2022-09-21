@@ -2,8 +2,6 @@
 title: Improving the references user journey
 description: Adapting the references section so it works for candidates applying for the first time and for candidates applying again.
 date: 2020-04-27
-tags:
-  - AN023
 screenshots:
   items:
     - The box is already ticked to show the references section is complete

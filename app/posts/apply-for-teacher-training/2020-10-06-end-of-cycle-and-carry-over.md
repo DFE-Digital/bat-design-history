@@ -2,8 +2,6 @@
 title: Helping candidates work on an application across 2 recruitment cycles
 description: Applying again when a recruitment cycle has ended.
 date: 2020-10-06
-tags:
-  - AN028
 ---
 
 ## Our initial designs

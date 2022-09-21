@@ -2,8 +2,6 @@
 title: Making the references process faster
 description: Changing the way we ask for references to find out if it’s taking longer than needed.
 date: 2020-05-18
-tags:
-  - AN024
 ---
 
 On average it takes about 11 days to get references.
