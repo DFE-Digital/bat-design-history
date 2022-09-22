@@ -1,27 +1,11 @@
-.app-article__header {
-  margin-bottom: govuk-spacing(6);
-}
-
 .app-article__title {
   @include govuk-font($size: 48, $weight: bold);
   margin-top: 0;
-  margin-bottom: govuk-spacing(4);
+  margin-bottom: govuk-spacing(8);
 }
 
-.app-article__body {
-  @include govuk-responsive-margin(8, "bottom");
-
-  > *:last-child {
-    margin-bottom: 0;
-  }
-}
-
-.app-article__footer {
+.app-article__metadata {
   @include govuk-font($size: 16, $line-height: 1.5);
-  border-top: 1px solid $govuk-border-colour;
-  padding-top: govuk-spacing(2);
-
-  @include govuk-media-query($from: "tablet") {
-    max-width: 66%;
-  }
+  color: $govuk-secondary-text-colour;
+  margin-top: govuk-spacing(4);
 }
