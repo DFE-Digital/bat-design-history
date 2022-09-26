@@ -1,6 +1,7 @@
 ---
 title: Coronavirus (COVID-19) email
 description: Communicating temporary changes to the decline by default and reject by default decision dates.
+date: 2019-02-16
 ---
 
 On 18 March 2020, the government announced that [schools, colleges and early years settings](https://www.gov.uk/government/news/schools-colleges-and-early-years-settings-to-close) would close as part of a broader range of measures to reduce the spread of the coronavirus (COVID-19).

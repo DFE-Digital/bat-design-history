@@ -1,6 +1,7 @@
 ---
 title: Emails
 description: Registering for UCAS Teacher Training.
+date: 2019-02-16
 ---
 
 With an application started in March 2019, the following emails were sent over the course of the next three weeks, encouraging the applicant to complete and submit their application.
