@@ -22,7 +22,7 @@ In February 2022, the Department for Education (DfE) launched the ‘Engineers t
 
 The programme aims to increase the number of physics teachers in England by attracting individuals with a background in engineering or material sciences to start postgraduate teacher training.
 
-The pilot was successful, so we will expand the programme to all providers.
+The pilot was successful, so we are expanding the programme to all providers.
 
 ### The difference between ‘Engineers teach physics’ and physics courses
 
