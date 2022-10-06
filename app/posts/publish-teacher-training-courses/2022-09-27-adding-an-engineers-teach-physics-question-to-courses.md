@@ -52,12 +52,12 @@ If the user has chosen two subjects, the first is physics, and the course is par
 
 ### Add course flow
 
-In the add course flow, we added the question, 'Is this course part of the Engineers Teach Physics programme?' if the first subject of the course is physics.
+In the add course flow, we added the question, ‘Is this course part of the Engineers Teach Physics programme?’ if the first subject of the course is physics.
 
 If the user answers ‘Yes’ to this question, the course title is pre-populated with:
 
-- 'Engineers Teach Physics' if physics is the only subject
-- 'Engineers Teach Physics' and a list of subjects if the user has selected multiple subjects - for example, ‘Engineers Teach Physics with mathematics’
+- ‘Engineers Teach Physics’ if physics is the only subject
+- ‘Engineers Teach Physics’ and a list of subjects if the user has selected multiple subjects - for example, ‘Engineers Teach Physics with mathematics’
 
 If the user answers ‘No’ to this question, the name of the course is the subject, ‘Physics’.
 
@@ -69,7 +69,7 @@ Changing the answer will also change the course title.
 
 If the user changes the course subject to ‘Physics’, they need to confirm if the course is also part of the Engineers Teach Physics programme.
 
-Answering ‘Yes’ to the question 'Is this course part of the Engineers Teach Physics programme?' will change the title of the course as described in the [course titles](#course-titles) section.
+Answering ‘Yes’ to the question ‘Is this course part of the Engineers Teach Physics programme?’ will change the title of the course as described in the [course titles](#course-titles) section.
 
 ## Further considerations
 
