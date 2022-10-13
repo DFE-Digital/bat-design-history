@@ -2,6 +2,10 @@
 title: Exploring how to make the service more browsable
 description:
 date: 2022-09-28
+related:
+  items:
+    - text: Making the service more browseable
+      href: /find-teacher-training/making-the-service-more-browseable/
 screenshots:
   items:
     - text: Landing page
