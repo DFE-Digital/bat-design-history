@@ -8,10 +8,10 @@ related:
       href: /publish-teacher-training-courses/adding-an-engineers-teach-physics-question-to-courses/
 screenshots:
   items:
-    - text:
-      src:
-    - text:
-      src:
+    - text: Results list
+      src: course-list.png
+    - text: Results list filtered
+      src: course-list--filtered.png
 ---
 
 We recently added an ‘Engineers Teach Physics’ question to the ‘Add course’ and edit course flows in Publish postgraduate teacher training (Publish).
