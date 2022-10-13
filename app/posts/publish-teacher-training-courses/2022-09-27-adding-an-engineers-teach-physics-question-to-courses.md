@@ -63,13 +63,13 @@ If the user answers ‘No’ to this question, the name of the course is the sub
 
 #### Second subject
 
-If the user selects 'Physics' as a second subject, we do not show the question, 'Is this course part of the Engineers Teach Physics programme?' because physics needs to be the main subject for the course to be part of the Engineers Teach Physics programme.
+If the user selects ‘Physics’ as a second subject, we do not show the question, ‘Is this course part of the Engineers Teach Physics programme?’ because physics needs to be the main subject for the course to be part of the Engineers Teach Physics programme.
 
-In a scenario where 'Physics' is the main subject and 'Modern languages' is the second subject, we ask the user to:
+In a scenario where ‘Physics’ is the main subject and ‘Modern languages’ is the second subject, we ask the user to:
 
-- choose the main subject - in this case, 'Physics'
-- choose the second subject - in this case, 'Modern languages'
-- answer the question, 'Is this course part of the Engineers Teach Physics programme?'
+- choose the main subject - in this case, ‘Physics’
+- choose the second subject - in this case, ‘Modern languages’
+- answer the question, ‘Is this course part of the Engineers Teach Physics programme?’
 - select all the languages that apply from the checkbox list
 
 ### Edit course flow
