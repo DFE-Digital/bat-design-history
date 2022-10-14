@@ -13,7 +13,7 @@ The recommendations which need to be followed from the 2024/25 academic year onw
 - ITT providers to have lead mentors or a lead mentorship team
 - trainees to take part in ’Intensive training and practice’ sessions (4 weeks for postgraduate courses and 6 weeks for undergraduate courses)
 
-### ITT reform funding
+## ITT reform funding
 
 To support providers and schools in meeting the new requirements the DfE is making grant funding available.
 
