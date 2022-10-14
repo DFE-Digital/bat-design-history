@@ -4,11 +4,14 @@ description: Guidance page summarising ITT gerneral mentor funding and claim for
 date: 2022-06-26
 ---
 
-## ITT market reform
 
-[The initial teacher training (ITT) market review report](https://www.gov.uk/government/publications/initial-teacher-training-itt-market-review-report) was published in July&nbsp;2021. After public consultation, the DfE published their [response to the ITT market review](https://www.gov.uk/government/consultations/initial-teacher-training-itt-market-review) was published in December&nbsp;2021.
+[The initial teacher training (ITT) market review report](https://www.gov.uk/government/publications/initial-teacher-training-itt-market-review-report) was published in July&nbsp;2021. After public consultation, the DfE published their [response to the ITT market review](https://www.gov.uk/government/consultations/initial-teacher-training-itt-market-review) in December&nbsp;2021.
 
-The recommendations will be in place for the 2024 to 2025 academic year.
+The recommendations which need to be followed from the 2024/25 academic year onwards, include requirements for:
+
+- mentors to train take part in 20 hours of initial training and 6 hours of top-up training in subsequent years
+- ITT providers to have lead mentors or a lead mentorship team
+- trainees to take part in ’Intensive training and practice’ sessions (4 weeks for postgraduate courses and 6 weeks for undergraduate courses)
 
 ### ITT reform funding
 
@@ -69,13 +72,13 @@ This is a basic check on the claim. Schools can claim a maximum of 20&nbsp;hours
 
 The aim of the grant is to help schools pay for cover so the mentor isn’t compelled to train out of school hours.
 
-To simplify the grant, schools are claiming for hours of backfill cover. Rather than specifying the costs that may have been incurred.
+To simplify the grant, schools are claiming for hours of classroom cover. Rather than specifying the costs that may have been incurred.
 
 #### Hours of classroom cover paid for by 
 
-To prevent paying schools for something already paid for, the DfE wants to deduct any hours of backfill cover paid for by the ITT provider.
+To prevent paying schools for something already paid for, the DfE wants to deduct any hours of classroom cover paid for by the ITT provider.
 
-The form could ask for ‘hours of backfill not paid for by the provider’. My assumption is that it's easier to ask for the cover and the cover paid for by the provider separately.
+The form could ask for ‘hours of backfill not paid for by the provider’. Our assumption is that it's easier to ask for the cover and the cover paid for by the provider separately instead of asking the user to make the calculation.
 
 #### Declaration that each mentor mentored at least one trainee each
 
