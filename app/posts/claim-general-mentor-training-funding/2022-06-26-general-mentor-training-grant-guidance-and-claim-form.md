@@ -19,7 +19,7 @@ To support providers and schools in meeting the new requirements the DfE is maki
 
 For schools the funding is to help cover the cost of classroom cover while mentors train. In the 2024 to 2025 school year general mentors will need to complete 20&nbsp;hours of initial mentor training. In subsequent years general mentors who have completed the 20&nbsp;hours will need 6&nbsp;hours of training.
 
-[See full details of the ITT reform funding](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077177/Initial_Teacher_Training__ITT__Reform_Funding_Guidance_160522.pdf).
+[See full details of the ITT reform funding.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077177/Initial_Teacher_Training__ITT__Reform_Funding_Guidance_160522.pdf)
 
 ## Prototype
 
@@ -55,12 +55,12 @@ So we know who is making the claim and who to pay.
 
 The amount of funding available is adjusted for location. To pay the correct amount DfE will need to know where the school is.
 
-| **Location** | **Amount** |
-|:-----:|:-----:|
-| Inner London | £1072 |
-| Outer London | £965 |
-| Fringe | £902 |
-| Rest of England | £876 |
+| **Location**    | **Amount** |
+|:---------------:|:----------:|
+| Inner London    |      £1072 |
+| Outer London    |       £965 |
+| Fringe          |       £902 |
+| Rest of England |       £876 |
 
 This also allows us to check compliance using data from [Register trainee teachers](https://www.register-trainee-teachers.service.gov.uk/) (Register). Schools can only claim for mentors who mentor at least one trainee each. Assuming Register collects placement data by the end of the 2024 to 2025 academic year then we can verify that the school has not claimed for more teachers than it is eligible to.
 
