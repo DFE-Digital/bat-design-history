@@ -17,7 +17,7 @@ The recommendations which need to be followed from the 2024/25 academic year onw
 
 To support providers and schools in meeting the new requirements the DfE is making grant funding available.
 
-For schools the funding is to help cover the cost of classroom cover while mentors train. In the 2024 to 2025 school year general mentors will need to complete 20&nbsp;hours of initial mentor training. In subsequent years general mentors who have completed the 20&nbsp;hours will need 6&nbsp;hours of training.
+For schools the funding is to help cover the cost of classroom cover while mentors train. In the 2024 to 2025 school year, general mentors will need to complete 20&nbsp;hours of initial mentor training. In subsequent years general mentors who have completed the 20&nbsp;hours will need 6&nbsp;hours of training.
 
 [See full details of the ITT reform funding.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077177/Initial_Teacher_Training__ITT__Reform_Funding_Guidance_160522.pdf)
 
