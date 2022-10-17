@@ -17,7 +17,7 @@ The recommendations which need to be followed from the 2024/25 academic year onw
 
 To support providers and schools in meeting the new requirements the DfE is making grant funding available.
 
-For schools the funding is to help cover the cost of classroom cover while mentors train. In the 2024 to 2025 school year, general mentors will need to complete 20&nbsp;hours of initial mentor training. In subsequent years general mentors who have completed the 20&nbsp;hours will need 6&nbsp;hours of training.
+For schools the funding is to help cover the cost of classroom cover while mentors train. In the 2024/25 academic year, general mentors will need to complete 20&nbsp;hours of initial mentor training. In subsequent years general mentors who have completed the 20&nbsp;hours will need 6&nbsp;hours of training.
 
 [See full details of the ITT reform funding.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077177/Initial_Teacher_Training__ITT__Reform_Funding_Guidance_160522.pdf)
 
@@ -62,7 +62,7 @@ The amount of funding available is adjusted for location. To pay the correct amo
 | Fringe          |       £902 |
 | Rest of England |       £876 |
 
-This also allows us to check compliance using data from [Register trainee teachers](https://www.register-trainee-teachers.service.gov.uk/) (Register). Schools can only claim for mentors who mentor at least one trainee each. Assuming Register collects placement data by the end of the 2024 to 2025 academic year then we can verify that the school has not claimed for more teachers than it is eligible to.
+This also allows us to check compliance using data from [Register trainee teachers](https://www.register-trainee-teachers.service.gov.uk/) (Register). Schools can only claim for mentors who mentor at least one trainee each. Assuming Register collects placement data by the end of the 2024/25 academic year then we can verify that the school has not claimed for more teachers than it is eligible to.
 
 #### Number of general mentors
 
@@ -82,7 +82,7 @@ The form could ask for ‘hours of backfill not paid for by the provider’. Our
 
 #### Declaration that each mentor mentored at least one trainee each
 
-Funding is only available to mentors who mentored a trainee in the 2024 to 2025 academic year. The minimum ratio of trainees to mentors is 1:1. For example, if a trainee had 2 mentors and neither of those mentors mentored another trainee, then the school could only claim for one of those mentors.
+Funding is only available to mentors who mentored a trainee in the 2024/25 academic year. The minimum ratio of trainees to mentors is 1:1. For example, if a trainee had 2 mentors and neither of those mentors mentored another trainee, then the school could only claim for one of those mentors.
 
 #### Email address of user
 
