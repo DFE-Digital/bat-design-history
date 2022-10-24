@@ -83,7 +83,7 @@ We will review the success of the new process midway through the cycle in Novemb
 
 We plan to:
 
-* ask providers how the process is working for them
-* evaluate whether the changes is encouraging more candidates to apply
-* check that candidates are still able to receive references in a timely manner
-* consider further changes to the Manage interface to enable reference requirements to be more clearly communicated to candidates
+- ask providers how the process is working for them
+- evaluate whether the changes is encouraging more candidates to apply
+- check that candidates are still able to receive references in a timely manner
+- consider further changes to the Manage interface to enable reference requirements to be more clearly communicated to candidates
