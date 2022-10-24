@@ -1,20 +1,25 @@
 ---
-title: Changing the reference process to make it easier for candidates to submit applications
+title: Requesting references after offers have been accepted
 description: Candidates no longer need to get references before they can submit applications. They just need to give details of people who can give references.
 date: 2022-10-24
+ogImage:
+  src: /apply-for-teacher-training/collecting-references-after-offer/references-flow-changes.png
+  alt: "Flow diagram showing changes to when references are requested"
 related:
   items:
     - text: References analysis (May 2022)
       href: https://docs.google.com/document/d/1T3fRqdTwkgNOJNDg8DQ0VEcTinnGXJFCZprCyj99f5o/edit
 ---
 
-We made changes to how references are collected and sent to training providers.
+![Flow diagram showing questions related to nationality and residency](references-flow-changes.png)
 
-This design history entry covers the change in the process. Other entries cover:
+We changed the way that references are requested, so that this now happens after an offer has been accepted, instead of candidates needing to receive 2 references before they can submit their application.
 
-- [asking candidates for references to be contacted if they accept an offer](/asking-candidates-for-references-to-be-contacted-if-they-accept-an-offer)
-- [asking candidates to confirm who reference requests should be sent to](/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to)
-- [letting candidates deal with references after accepting an offer](/letting-candidates-deal-with-reference-requests-after-accepting-an-offer)
+This design history entry covers the change in the process. Other entries will cover:
+
+- asking candidates for references to be contacted if they accept an offer
+- asking candidates to confirm who reference requests should be sent to
+- letting candidates deal with references after accepting an offer
 
 ## The issue
 
