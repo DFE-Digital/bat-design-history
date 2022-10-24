@@ -56,6 +56,20 @@ The status of a request can be:
 
 There’s also a button which lets a candidate request another reference.
 
+### Reference details page
+
+This page shows:
+
+- name
+- email
+- type - this can be academic, professional, school experience or character
+- how the candidate knows the person giving the reference and how long they’ve known them
+- status
+- history
+
+A history entry is added every time the status of
+
+
 ### Links to cancel or send a reminder
 
 We added these links even though the candidate can do the same things on the reference details page. We know from analytics that some users are unaware that they can send a reminder and try to add a reference again instead.
@@ -64,7 +78,6 @@ If the candidate clicks one of these links, they’re taken to a page to confirm
 
 The reference request will have changed status to ‘request cancelled’ if the candidate cancelled it.
 
-### Reference details page
 
 ## Other approaches we considered
 
@@ -193,6 +206,23 @@ Contact ((provider)) if you need help getting references or choosing who to ask.
 <!-- markdownlint-enable MD001 MD025 MD042 MD051 -->
 
 ## Further work
+
+We’ve improved the wording of the history entries and the change is in the backlog of development work.
+
+Later we intend to improve the way that providers enter reference requirements.
+
+### Improved history entries
+
+- “You sent the request on ((date))” when the status changed to ‘requested’
+- “They gave a reference to the training provider on ((date))” when the status changed to ‘received by training provider’
+- “You cancelled the request on ((date)) when the status changed to cancelled
+- Request cancelled [automatically]
+Cannot give reference
+Request failed
+[Automatic reminder]
+[Reminder]
+
+### Entering reference requirements
 
 Currently providers can add information about their reference requirements as a condition. For example they may want to:
 
