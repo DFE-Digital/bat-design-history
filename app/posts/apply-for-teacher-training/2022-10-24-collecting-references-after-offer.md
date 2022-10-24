@@ -21,7 +21,11 @@ related:
 
 We’ve changed the way that references are requested. Previously candidates requested references as part of their application, but now they do it after they accept an offer of a place on a course.
 
+<<<<<<< HEAD
 This change was made on 7 September 2022, when candidates could start to prepare their applications for the 2022 to 2023 recruitment cycle.
+=======
+This change was made on 7 September 2022, when candidates could begin preparing their application for the the 2022 to 2023 recruitment cycle.
+>>>>>>> e89f998bb3f5ecc8040df3426b94723c10b18d6f
 
 ## The issue
 
