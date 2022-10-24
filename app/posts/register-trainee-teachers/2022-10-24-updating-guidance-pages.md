@@ -18,7 +18,7 @@ The page views on these pages were low. They were also created with only SCITT u
 
 Through multiple rounds of user research, users kept telling us they would find it useful to have guidance on:
 
-- how applications from Apply for teacher training (Apply) get imported into Register
+- how applications from the Apply for teacher training (Apply) service get imported into Register
 - clearer explanations how Register defines a ‘withdrawn‘ or ‘deferred‘ trainee compared to HESA
 - important dates users need to be aware of throughout an academic year (there are specific dates where users need to submit and check data in Register that we could communicate better)
 - how data submitted through HESA maps to Register’s user interface  and data exports so that users can compare their data more easily
