@@ -11,15 +11,11 @@ related:
       href: https://docs.google.com/document/d/1T3fRqdTwkgNOJNDg8DQ0VEcTinnGXJFCZprCyj99f5o/edit
 ---
 
-![Flow diagram showing questions related to nationality and residency](references-flow-changes.png)
+![Flow diagram previous and new flows. In the previous flow, references are requested, then 2 are selected before sending the application. In the new flow, reference details are collected, then the application is sent, then an offer is received, then reference details are checked and then references are requested.](references-flow-changes.png)
 
-We changed the way that references are requested, so that this now happens after an offer has been accepted, instead of candidates needing to receive 2 references before they can submit their application.
+We changed the way that references are requested, so that this now happens after an offer has been accepted, instead of as part of the application.
 
-This design history entry covers the change in the process. Other entries will cover:
-
-- asking candidates for references to be contacted if they accept an offer
-- asking candidates to confirm who reference requests should be sent to
-- letting candidates deal with references after accepting an offer
+This change was made for the start of the 2022 to 2023 recruitment cycle, beginning on 7 September 2022.
 
 ## The issue
 
@@ -27,7 +23,7 @@ Candidates previously had to get 2 references before they could submit their app
 
 - courses could become full while a candidate waited for their references
 - some candidates would need to ask their employer for a reference, revealing that they were planning on leaving their job even though they did not have a place yet
-- people were asked to spend time giving references for applications which were unsuccessful
+- candidates were not always sure who to ask for a reference, for example if they had been caring for a child for a number of years
 
 In addition, receiving references with the application meant that providers used them as part of assessing candidate quality.
 
@@ -57,78 +53,37 @@ Analysis of data in May 2022 found that:
 
 This suggested that changes to the references process could lead to significant increases in the numbers of candidates recruited.
 
-## Other approaches we considered
-
-We previously did some research on a [different approach to improving the references process](https://bat-design-history.netlify.app/manage-teacher-training-applications/making-references-an-offer-condition/). Candidates would only give details of people who could give references when they accepted an offer.
-
-This approach would make it even easier for candidates to apply but we decided not to follow it. We knew that training providers would be concerned about not knowing who candidates planned to ask for references.
-
 ## What we changed
 
-We made changes to the way:
+We changed the application form so that candidates no longer need to request and receive 2 references.
 
-- candidates submit applications
-- candidates accept offers
-- people give references for candidates
-- candidates check the progress of reference requests
-- providers receive references
+Instead, candidates just need to give details of at least 2 people who can give a reference if they later accept an offer. Providers see these details but are told not to use them to contact people who can give references.
 
-### Submitting an application
+When a candidate accepts an offer, they have to review the list of people which they gave when they applied. They can add or delete people from the list. After any changes, there must be at least 2 people in the list in order for the candidate to accept the offer.
 
-A candidate no longer needs to request and receive references before they can apply.
+When the candidate accepts an offer, this triggers emails to the people they said could give a reference.
 
-Instead, when they apply they have to give details of at least 2 people who can give a reference. They need to give:
+The people who can give references are asked to give a factual reference, for example about the candidate’s role and responsibilities. They’re no longer asked whether the candidate will make a good trainee teacher.
 
-- name
-- email address
-- how they know them and how long they’ve known them
+Providers can see references as soon as they are given.
 
-Providers see these details but are told not to use them to contact people who can give references.
+Other design history posts will cover these steps in more detail.
 
-### Accepting an offer
+## Other approaches we considered
 
-When the candidate accepts an offer, they have to review the list of people which they gave when they applied. They can add or delete people from the list. This might be useful if, for example:
+We considered only asking candidates to give details of people who could give a reference after they accepted an offer, and did some design and research on [making references an offer condition](/manage-teacher-training-applications/making-references-an-offer-condition/). This would be easier for candidates, but providers had concerns about not knowing that the candidate have people to ask for references.
 
-- they didn't originally include an academic reference but a provider has asked them to provide one
-- they know that one of the people they listed is no longer able to give a reference
-After any changes, there must be at least 2 people in the list in order for the candidate to accept the offer.
+We also debated removing the process of requesting references from the service altogether and instead requiring providers to handle this themselves as part of their enrolling process.
 
-### Giving a reference
-
-When the candidate clicks to accept an offer, this triggers emails to the people they said could give a reference. This happens even if there are no offer conditions and the candidate’s application has therefore moved into ‘recruited’ status.
-
-The people who can give references are asked:
-
-- to confirm what the candidate wrote about how they know each other
-- whether they know any reason why the candidate should not work with children
-- to give a factual reference, for example about the candidate's role and responsibilities if it's a professional reference
-They’re no longer asked whether the candidate will make a good trainee teacher.
-
-### Checking the progress of reference requests
-
-Once the candidate has accepted the offer, they can sign into their account to:
-
-- check the status of their reference requests
-- send reminders to the people who can give them references
-- cancel reference requests
-- make additional reference requests
-
-The service also sends automatic chaser emails to:
-
-- candidates who have reference requests which have not been answered yet
-- people who have been asked for a reference but have not given one yet
-
-### Receiving references
-
-A provider can see a reference as soon as it’s given.
-
-It is not possible to mark references as acceptable or unacceptable. The provider can contact the candidate outside the service if they want to:
-
-- ask for an additional reference
-- tell the candidate that they’re happy with the references which have been given
-
-If there were offer conditions, the provider can mark them as met or not met as usual.
+The approach we adopted was a compromise between improving the experience for candidates and not requiring too much change from providers.
 
 ## Future considerations
 
-???
+We will review the success of the new process midway through the cycle in November.
+
+We plan to:
+
+* ask providers how the process is working for them
+* evaluate whether the changes is encouraging more candidates to apply
+* check that candidates are still able to receive references in a timely manner
+* consider further changes to the Manage interface to enable reference requirements to be more clearly communicated to candidates
