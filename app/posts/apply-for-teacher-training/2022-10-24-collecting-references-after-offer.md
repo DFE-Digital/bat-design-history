@@ -15,7 +15,7 @@ related:
 
 We changed the way that references are requested, so that this now happens after an offer has been accepted, instead of as part of the application.
 
-This change was made for the start of the 2022 to 2023 recruitment cycle, beginning on 7 September 2022.
+This change was made on 7 September 2022, when candidates could begin preparing their application for the the 2022 to 2023 recruitment cycle.
 
 ## The issue
 
