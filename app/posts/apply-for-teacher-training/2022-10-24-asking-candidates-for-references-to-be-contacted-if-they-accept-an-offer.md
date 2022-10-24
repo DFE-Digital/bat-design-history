@@ -36,8 +36,8 @@ The section appeared after the courses section and before the qualifications sec
 
 Within the section, there were two tasks:
 
-* Request your references
-* Select 2 references
+- Request your references
+- Select 2 references
 
 The [select 2 references task](/apply-for-teacher-training/selecting-references/) was added in 2021. It allowed candidates with more than 2 references to select which ones to include in their application, rather than always including the first 2 to be received.
 
