@@ -1,6 +1,6 @@
 ---
 title: Updating Register’s guidance pages
-description: We updated Register’s guidance pages to help different training providers find what they need quickly. We also helped higher education institutions (HEIs) understand how data from the Higher Education Statistics Agency (HESA) maps to Register
+description: We updated Register’s guidance pages to help different training providers find what they need quickly
 date: 2022-10-24
 
 ---
