@@ -83,6 +83,7 @@ Providers see these details but are told not to use them to contact people who c
 ### Accepting an offer
 
 When the candidate accepts an offer, they have to review the list of people which they gave when they applied. They can add or delete people from the list. This might be useful if, for example:
+
 - they didn't originally include an academic reference but a provider has asked them to provide one
 - they know that one of the people they listed is no longer able to give a reference
 After any changes, there must be at least 2 people in the list in order for the candidate to accept the offer.
@@ -92,6 +93,7 @@ After any changes, there must be at least 2 people in the list in order for the 
 When the candidate clicks to accept an offer, this triggers emails to the people they said could give a reference. This happens even if there are no offer conditions and the candidate’s application has therefore moved into ‘recruited’ status.
 
 The people who can give references are asked:
+
 - to confirm what the candidate wrote about how they know each other
 - whether they know any reason why the candidate should not work with children
 - to give a factual reference, for example about the candidate's role and responsibilities if it's a professional reference
@@ -100,6 +102,7 @@ They’re no longer asked whether the candidate will make a good trainee teacher
 ### Checking the progress of reference requests
 
 Once the candidate has accepted the offer, they can sign into their account to:
+
 - check the status of their reference requests
 - send reminders to the people who can give them references
 - cancel reference requests
