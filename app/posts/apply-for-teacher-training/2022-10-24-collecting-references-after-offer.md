@@ -112,6 +112,7 @@ Once the candidate has accepted the offer, they can sign into their account to:
 - send reminders to the people who can give them references
 - cancel reference requests
 - make additional reference requests
+
 The service also sends automatic chaser emails to:
 
 - candidates who have reference requests which have not been answered yet
