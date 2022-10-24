@@ -77,6 +77,16 @@ We also debated removing the process of requesting references from the service a
 
 The approach we adopted was a compromise between improving the experience for candidates and not requiring too much change from providers.
 
+## Research and engagement
+
+We did research with candidates, providers and people who give references.
+
+We did usability testing with 5 candidates. We found that they preferred the new process, although we needed to make the change clearer in the initial application.
+
+We sent a survey to providers, did some usability testing, and ran a series of presentations. This showed that there was some apprehension about the new process, and a need to be reassured that it would not adversely affect their recruitment.
+
+We spoke to 7 referees, and tested the new process with them. They preferred the new process, and said it would save them time.
+
 ## Future considerations
 
 We will review the success of the new process midway through the cycle in November.
