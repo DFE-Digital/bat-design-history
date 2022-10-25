@@ -104,7 +104,7 @@ We engaged with providers by:
 - doing usability testing
 - running a series of presentations about the new process
 
-As we expected, we found that providers were concerned about the new process. They needed to be reassured that:
+We found that providers were concerned about the new process. They needed to be reassured that:
 
 - it would not slow down their recruitment
 - people giving references will still be asked whether they know any reason why candidates are not safe to work with children
