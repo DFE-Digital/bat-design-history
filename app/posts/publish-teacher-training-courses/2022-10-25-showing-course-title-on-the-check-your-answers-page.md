@@ -18,7 +18,7 @@ screenshots:
       src: add-course--check-your-answers-engineers-teach-physics.png
 ---
 
-Recently, we [updated the content on the ‘Check your answers’ and course details pages](/publish-teacher-training-courses/updating-the-check-your-answers-and-course-details-pages/) to make the content consistent with the add and edit course flows.
+We recently [updated the content on the ‘Check your answers’ and course details pages](/publish-teacher-training-courses/updating-the-check-your-answers-and-course-details-pages/) to make the content consistent with the add and edit course flows.
 
 We also [added a way for providers to mark their physics courses as being part of the ‘Engineers teach physics’ programme](/publish-teacher-training-courses/adding-an-engineers-teach-physics-question-to-courses/). When marking a physics course as being part of the ‘Engineers teach physics’ programme, the course title is updated.
 
