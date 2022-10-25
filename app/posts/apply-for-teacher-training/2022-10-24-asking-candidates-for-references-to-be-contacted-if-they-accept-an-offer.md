@@ -1,5 +1,5 @@
 ---
-title: Asking candidates for references to be contacted if they accept an offer
+title: Asking candidates for reference details
 description: How we changed the application to only require details of people who can give a reference instead of 2 received references.
 date: 2022-10-24
 related:
@@ -8,15 +8,13 @@ related:
       href: https://www.gov.uk/government/publications/keeping-children-safe-in-education--2
 ---
 
-For the 2022 to 2023 recruitment cycle, we’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates:
-
-- only need to give details of people who can give references, rather than having to request and receive references before submitting their application
-- must confirm these details when they accept an offer, so that reference requests can be sent
-- can check on the progress of reference requests - this includes requesting more, cancelling requests and sending reminders
+We’ve [changed the references process](/apply-for-teacher-training/collecting-references-after-offer/) so that candidates only need to give details of people who can give references, rather than having to request and receive references before submitting their application.
 
 ## The issue
 
-??
+We needed to update the application interface, which previously required candidates to request references and then once these had been received, select which 2 to include with their application. Instead we just needed to collect the details of at least 2 people who could give a reference.
+
+We also needed to communicate this change for any candidates who may have been familiar with the previous process.
 
 ## What we changed
 
@@ -30,6 +28,8 @@ We no longer use the word “referee” to describe someone who gives a referenc
 
 ### Application task list
 
+[![Screenshot with the text 'Confirm that you want to create an account to apply for teacher training:' followed by a link](application-task-list-before-and-after.png "Application task list: before and after")](/apply-for-teacher-training/asking-candidates-for-references-to-be-contacted-if-they-accept-an-offer/application-task-list-before-and-after.png)
+
 Previously there was a dedicated section of the main application task list for references.
 
 The section appeared after the courses section and before the qualifications section. This was to encourage users to request references before entering qualifications and writing a personal statement, since references could take a while to receive.
@@ -41,15 +41,11 @@ Within the section, there were two tasks:
 
 The [select 2 references task](/apply-for-teacher-training/selecting-references/) was added in 2021. It allowed candidates with more than 2 references to select which ones to include in their application, rather than always including the first 2 to be received.
 
-[Screenshot of old application task list]
-
 With the new process, references no longer need to be received before submitting the application. There is therefore no need to select which 2 to include.
 
 We no longer have a references section in the task list. Instead we’ve added it as a task within the existing safeguarding section. This helps to convey that references are now only used for safeguarding purposes, rather than to assess candidate quality.
 
 When we did usability testing with the task called ‘References’, many participants incorrectly assumed that people would be contacted straight away. So we renamed the task ‘References to be requested if you accept an offer’.
-
-[Screenshot of new application task list]
 
 ### References introduction
 
