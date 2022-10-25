@@ -89,7 +89,7 @@ We did research with candidates, providers and people who give references.
 
 ### Candidates
 
-We did usability testing with 5 participants who had already applied for teacher training. We asked them to use a redesigned journey which matched the new process.
+We did usability testing with 8 participants who had already applied for teacher training. We asked them to use a redesigned journey which matched the new process.
 
 We found that:
 
