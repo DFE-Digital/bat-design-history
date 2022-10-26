@@ -16,8 +16,6 @@ We’ve [changed the references process](/changing-the-reference-process-to-make
 
 ## The issue
 
-We needed to design a way for candidates to confirm details of references when they accept an offer.
-
 Candidates give details when they apply, but they may need to make changes before their reference requests are sent. This may happen for example if:
 
 - they didn't originally include an academic reference but a provider has asked them to provide one
