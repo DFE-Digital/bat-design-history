@@ -143,7 +143,28 @@ The button is green when details have only been added for one reference. This is
 
 When at least 2 references have been added, the add another reference button is grey. The question “Have you completed this section?” is added to the bottom of the page, with a green button to let the candidate continue.
 
-If a user marks the section as completed but then returns and deletes references so that they have fewer than 2, the section switches back to incomplete. The add another reference becomes green.
+If a user marks the task as completed but then returns and deletes references so that they have fewer than 2, the task switches back to incomplete. The button to add another reference becomes green.
+
+#### References carried over from the old references process
+
+![Screenshot showing a box with reference details in a table. These include type, name, email and how long the candidate has known them and for how long. There’s a link to allow the candidate to delete the details.](reference-already-given.png)
+
+If a candidate originally applied before 6pm on 20 September 2022, they would have used the old references process. This means that they would have received their references before submitting their application.
+
+If one of these candidates applies again now, they’ll use the new process but their application will already contain the reference details from the old process.
+
+When they click on the references task they will be taken straight to the references review page. This is because they already have 2 references so they are not required to add any more details.
+
+The candidate will not see the references. They’ll see the same details as they would need to enter for a new reference request:
+
+- type
+- name
+- email address
+- how they know the person and for how long
+
+Since the references have already been received, the candidate cannot change these details. They can however delete the details so that the references will not be sent to training providers.
+
+The candidate will need details for at least 2 reference requests so that they can mark the task as completed.
 
 ## Research
 
