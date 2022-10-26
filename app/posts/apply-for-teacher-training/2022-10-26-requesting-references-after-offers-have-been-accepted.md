@@ -3,7 +3,7 @@ title: Requesting references after offers have been accepted
 description: Candidates no longer need to get references before they can submit applications. They just need to give details of people who can give references.
 date: 2022-10-26
 ogImage:
-  src: /apply-for-teacher-training/collecting-references-after-offer/references-flow-changes.png
+  src: /apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/references-flow-changes.png
   alt: "Flow diagram showing changes to when references are requested"
 related:
   items:
