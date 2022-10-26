@@ -10,7 +10,7 @@ ogImage:
 
 {% from "email/macro.njk" import appEmail %}
 
-![](confirm-details.png)
+![Illustration with text: Confirm your reference details and accept your offer](confirm-details.png)
 
 We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates:
 
