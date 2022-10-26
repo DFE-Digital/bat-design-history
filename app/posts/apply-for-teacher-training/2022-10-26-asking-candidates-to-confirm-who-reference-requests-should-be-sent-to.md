@@ -161,11 +161,7 @@ Monday to Friday, 8:30am to 5:30pm (except public holidays).
   "
 }) }}
 
-<!-- markdownlint-enable MD001 MD025 -->
-
 ### Unconditional offer accepted
-
-<!-- markdownlint-disable MD001 MD025 -->
 
 {{ appEmail({
   subject: "You’ve accepted ((provider))’s offer to study ((course_and_code))",
