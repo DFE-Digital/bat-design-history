@@ -1,9 +1,9 @@
 ---
-title: Asking candidates for reference details
-description: How we changed the application to only require details of people who can give a reference instead of 2 received references.
+title: Asking candidates for reference details when they apply
+description: We changed the application process because candidates no longer need to receive 2 references before they apply.
 date: 2022-10-24
 ogImage:
-  src: /apply-for-teacher-training/asking-candidates-for-references-to-be-contacted-if-they-accept-an-offer/references-to-be-collected.png
+  src: /apply-for-teacher-training/asking-candidates-for-reference-details/references-to-be-collected.png
   alt: "Safeguarding: references to be collected if you accept an offer (incomplete)"
 related:
   items:
@@ -21,9 +21,9 @@ related:
       href: /apply-for-teacher-training/apply-june-2019/references/
 ---
 
-![Illustration with the text: "Safeguarding: references to be collected if you accept an offer (incomplete)""](/apply-for-teacher-training/asking-candidates-for-references-to-be-contacted-if-they-accept-an-offer/references-to-be-collected.png)
+![Illustration with the text: "Safeguarding: references to be collected if you accept an offer (incomplete)""](/apply-for-teacher-training/asking-candidates-for-reference-details/references-to-be-collected.png)
 
-We’ve [changed the references process](/apply-for-teacher-training/collecting-references-after-offer/) so that candidates only need to give details of people who can give references, rather than having to request and receive references before submitting their application.
+We’ve [changed the references process](/apply-for-teacher-training/collecting-references-after-offer/) so that candidates only need to give details of people who can give references. They no longer need to request and receive references before submitting their application.
 
 ## The issue
 
