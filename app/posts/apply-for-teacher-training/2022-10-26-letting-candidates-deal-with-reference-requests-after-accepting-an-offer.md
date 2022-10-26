@@ -2,15 +2,17 @@
 title: Letting candidates deal with reference requests after accepting an offer
 description: Candidates can check the status of requests, send reminders, request more references and cancel requests.
 date: 2022-10-26
+related:
+  items:
+    - text: Summary of candidate research for the new references process
+      href: https://docs.google.com/presentation/d/13gbxJk6S6j21MCtHN2B4E4-NM_BydZWqIX9SycDYoEk/edit#slide=id.g14472665577_1_98
 ---
 
 {% from "email/macro.njk" import appEmail %}
 
-We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates:
+We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates do not need to receive references before they submit their application. They instead need to give details of 2 people who can give a reference.
 
-- only need to give details of people who can give references, rather than having to request and receive references
-- have to confirm these details when they accept an offer, so that reference requests can be sent
-- can deal with reference requests after they accept an offer - this includes checking the status of requests, requesting more, cancelling requests and sending reminders
+When they accept an offer, candidates are given the chance to change these details before the requests are sent out.
 
 ## The issue
 
@@ -23,7 +25,7 @@ Previously a candidate had to request and receive references before submitting t
 
 Candidates now only need to request references after they accept an offer. They cannot click into the task in their application because they’ve already submitted it.
 
-We needed to design a way for candidates to check the status of their reference  requests after accepting an offer.
+We needed to design a way for candidates to deal with their reference requests after accepting an offer.
 
 ## What we changed
 
@@ -33,29 +35,22 @@ We made changes to this page. We also designed a new page to show the details of
 
 ### ‘Your teacher training course’ page
 
-Content at the top of this page tells the candidate the course and provider for the offer they’ve accepted.
+Content at the top of this page lists the course and provider for the offer which the candidate has accepted.
 
 Links on the right let them view or withdraw their application. These functions have not been changed.
 
-The page has a sections for references. Each reference request appears as a row in a list, and includes:
+The page has 2 subheadings, references and offer conditions.
+
+The references section lists the candidate’s reference requests. For each one it includes:
 
 - name - this has a link which leads to a reference request details page
-- the date when the request was sent or the date of the most recent reminder
-- the message "Email could not be sent - check email address and send again” if it has ‘request failed‘ status
 - status
+- additional information - depending on the status of the request
+- links to cancel or send a reminder - depending on the status of the request
 
-### Links to cancel or send a reminder
+There’s also a grey button which lets a candidate request another reference.
 
-A reference request has:
-
-- a link to cancel the request if it has ‘reference requested’ status
-- a link to send a reminder if the request has ‘reference requested’ status and it’s been at least 48 hours since the request was made or a reminder was sent
-
-We added these links even though the candidate can do the same things on the reference details page. We know from analytics that some users are unaware that they can send a reminder and try to add a reference again instead.
-
-If the candidate clicks one of these links, they’re taken to a page to confirm it. After they click the button to confirm, they’re returned to the ‘Your teacher training course’ page.
-
-#### Reference request status
+#### Statuses
 
 The status of a request can be:
 
@@ -66,7 +61,23 @@ The status of a request can be:
 - cannot give reference - if the person asked to give a reference said they could not do so
 - request failed - if the email bounced
 
-There’s also a button which lets a candidate request another reference.
+#### Additional information
+
+The additional information shown is:
+
+- the date when the request was sent or the date of the most recent reminder - if it has reference requested status
+- the message "Email could not be sent - check email address and send again” - if it has request failed status
+
+#### Links to cancel or send a reminder
+
+If it’s in reference requested status, a reference request has:
+
+- a link to cancel the request
+- a link to send a reminder if it’s been at least 48 hours since the request was made or a reminder was sent
+
+We added these links even though the candidate can do the same things on the reference details page. We know from analytics that in the past some users have been unaware that they can send a reminder and have tried to add a reference again instead.
+
+If the candidate clicks one of these links, they’re taken to a page to confirm the action. After they click the button to confirm, they’re returned to the ‘Your teacher training course’ page.
 
 The reference request will have changed status to ‘request cancelled’ if the candidate cancelled it.
 
@@ -85,24 +96,24 @@ A history entry is added every time the status of a request changes or a reminde
 
 - “Request sent on ((date))” when the status changes to ‘requested’
 - “Reference sent to provider on ((date))” when the status changes to ‘received by training provider’
-- x when the status changes to cancelled [automatically]
 - “Request cancelled on ((date))” when the status changes to ‘request cancelled‘
 - “Request declined on ((date))” when the status changes to ‘cannot give reference’
 - “The request did not reach ((address)) on ((date))” when the status changes to ‘request failed’
-[Automatic reminder]
 - “Reminder sent on ((date))” when the candidate sends a reminder
 - “Automated reminder sent on ((date))” when the service sends an automated reminder
 
 ## Other approaches we considered
 
-We considered including references within the conditions section of the page, but decided to give them a separate section. They’re different to other conditions because:
+We considered including references within the conditions section of the page, but decided to give them a separate section.
 
-- candidates can add reference requests, but training providers cannot add conditions once an offer have been accepted
+They’re different to other conditions because:
+
+- candidates can add reference requests, but training providers cannot add conditions once an offer has been accepted
 - candidates cannot take any action on conditions within the service, but they can cancel or send reminders about reference requests
 
 ## Emails
 
-The service sends emails:
+The service sends emails to candidates:
 
 - if a reference request cannot be sent
 - to remind the candidate that they haven’t received a reference
@@ -140,9 +151,9 @@ You can sign into your account to:
 
 ### Reminder that the candidate has not received a reference
 
-Reminders are sent to the candidate 9, 16 and 30 days after they requested a reference.
+Reminders are sent to the candidate 9, 16 and 30 days after they requested a reference. Each of these is 2 days later than the reminders which are sent to the people who received reference requests.
 
-The 3 reminders have slightly different content. The intention is that the message becomes more urgent as time passes.
+The 3 reminders sent to candidates have slightly different content. The intention is that the message becomes more urgent as time passes.
 
 #### Reminder after 9 days
 
@@ -223,28 +234,43 @@ Contact ((provider)) if you need help getting references or choosing who to ask.
 
 We’ve improved the wording of the history entries and the change is in the backlog of development work.
 
-Later we intend to improve the way that providers enter reference requirements.
+Later we intend to:
+
+- improve the way that providers enter reference requirements
+- consider sending an email to the candidate when someone says they cannot give a reference
 
 ### Improved history entries
 
-The new wording of the history entries for reference requests will be:
+We’re going to make the history entries clearer and distinguish between different types of automatic cancellation.
 
-- “You sent the request on ((date))” when the status changes to ‘requested’
-- “They gave a reference to the training provider on ((date))” when the status changed to ‘received by training provider’
-- “You cancelled the request on ((date)) when the status changed to cancelled
-- Request cancelled [automatically]
-Cannot give reference
-Request failed
-[Automatic reminder]
-[Reminder]
+The new wording will be:
+
+- “You sent the request on ((date))”
+- “They gave a reference to the training provider on ((date))”
+- “You cancelled the request on ((date))”
+- “The request was automatically cancelled because you withdrew your application on ((date))”
+- “The request was automatically cancelled because you did not meet your conditions on ((date))”
+- “The request was automatically cancelled because your offer was withdrawn on ((date))”
+- “They said they cannot give reference on ((date))”
+- “The request failed on ((date))”
+- “A reminder was automatically sent on ((date))”
+- “You sent a reminder on ((date))”
 
 ### Entering reference requirements
 
 Currently providers can add information about their reference requirements as a condition. For example they may want to:
 
 - give a deadline
-- ask the candidate to request for a reference from a specific employer
+- ask the candidate to request a reference from a specific employer
 
-If a provider does this, the information appears as a condition within the candidate interface. This may be confusing, particularly since emails tell candidates that they must meet conditions and provide references.
+If a provider does this, the information appears as a condition within the candidate interface.
 
-We’d like to improve this by asking providers for reference requirements in a more structured way. This would allow us to display it within the references section.
+It may be confusing for references to be mentioned both in the offer conditions and in their own specific section.
+
+We’d like to improve this by asking providers for reference requirements in a more structured way. This would allow us to display the additional information within the references section.
+
+### Email to say that someone cannot give a reference
+
+We send an email to the candidate when a reference request is bounced but not when someone says they cannot give a reference.
+
+We should consider adding this email so that candidates know that they may need to request another reference.
