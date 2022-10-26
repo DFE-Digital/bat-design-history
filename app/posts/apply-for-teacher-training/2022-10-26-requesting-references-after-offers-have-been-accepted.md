@@ -29,7 +29,7 @@ Candidates previously had to get 2 references before they could submit their app
 
 - courses could become full while candidates waited for their references
 - some candidates would need to ask their employer for a reference, revealing that they were planning on leaving their job even though they did not have a place on a course yet
-- candidates were not always sure who to ask for a reference, for example if they had been caring for a child for a number of years
+- candidates were not always sure who to ask for a reference, for example if they had been caring for a child for several years
 
 In addition, receiving references with the application meant that providers used them as part of assessing candidate quality.
 
@@ -89,7 +89,7 @@ We did research with candidates, providers and people who give references.
 
 ### Candidates
 
-We did usability testing with 8 participants who had already applied for teacher training. We asked them to use a redesigned journey which matched the new process.
+We did usability testing with 8 participants who had already applied for teacher training. We asked them to use a redesigned journey which followed the new process.
 
 We found that:
 
@@ -107,7 +107,7 @@ We engaged with providers by:
 We found that providers were concerned about the new process. They needed to be reassured that:
 
 - it would not slow down their recruitment
-- people giving references will still be asked whether they know any reason why candidates are not safe to work with children
+- people giving references would still be asked whether they know any reason why candidates are not safe to work with children
 
 ### People who give references
 
@@ -124,4 +124,4 @@ We’ll review the new process in November 2022. We plan to:
 - ask providers how the process is working for them
 - evaluate whether the change is encouraging more candidates to apply
 - check that the process is not causing delays to candidates getting their references
-- consider changing the Manage interface so that reference requirements can be more clearly communicated to candidates
+- consider changing the ‘Manage teacher training applications’ interface so that reference requirements can be more clearly communicated to candidates
