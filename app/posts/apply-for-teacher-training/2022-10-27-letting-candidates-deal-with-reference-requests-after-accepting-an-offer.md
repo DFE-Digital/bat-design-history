@@ -1,7 +1,7 @@
 ---
 title: Letting candidates deal with reference requests after accepting an offer
 description: Candidates can check the status of requests, send reminders, request more references and cancel requests.
-date: 2022-10-26
+date: 2022-10-27
 related:
   items:
     - text: Summary of candidate research for the new references process
@@ -116,11 +116,12 @@ They’re different to other conditions because:
 The service sends emails to candidates:
 
 - if a reference request cannot be sent
+- if someone says that they cannot give a reference
 - to remind the candidate that they haven’t received a reference
 
-### Reference request cannot be sent
-
 <!-- markdownlint-disable MD001 MD025 MD042 MD051 -->
+
+### Reference request cannot be sent
 
 {{ appEmail({
   subject: "((referee)) has not received your request for a reference",
@@ -144,10 +145,39 @@ You can sign into your account to:
 
 [Sign into your account].
 
-((provider)) must check your references before they can confirm your place on the course. Contact them if you need help getting references or choosing who to ask."
+((provider)) must check your references before they can confirm your place on the course. Contact them if you need help getting references or choosing who to ask.
+
+# Get help
+
+Call 0800 389 2500 or [chat online]
+
+Monday to Friday, 8:30am to 5:30pm (except public holidays)."
 }) }}
 
-<!-- markdownlint-enable MD001 MD025 MD042 MD051 -->
+### The person who received the request cannot give a reference
+
+{{ appEmail({
+  subject: "((referee)) is unable to give you a reference",
+  content: "
+
+Dear ((candidate_name))
+
+((referee)) has said that they’re unable to give you a reference.
+
+It’s important that ((provider)) receives your references as soon as possible.
+
+You can sign into your account to request a reference from someone else.
+
+[Sign into your account].
+
+((provider)) must check your references before they can confirm your place on the course. Contact them if you need help getting references or choosing who to ask.
+
+# Get help
+
+Call 0800 389 2500 or [chat online]
+
+Monday to Friday, 8:30am to 5:30pm (except public holidays)."
+}) }}
 
 ### Reminder that the candidate has not received a reference
 
@@ -156,8 +186,6 @@ Reminders are sent to the candidate 9, 16 and 30 days after they requested a ref
 The 3 reminders sent to candidates have slightly different content. The intention is that the message becomes more urgent as time passes.
 
 #### Reminder after 9 days
-
-<!-- markdownlint-disable MD001 MD025 MD042 MD051 -->
 
 {{ appEmail({
   subject: "((referee)) has not replied to your request for a reference",
@@ -175,14 +203,16 @@ You can sign into your account to:
 
 [Sign into your account].
 
-((provider)) must check your references before they can confirm your place on the course. Contact them if you need help getting references or choosing who to ask."
+((provider)) must check your references before they can confirm your place on the course. Contact them if you need help getting references or choosing who to ask.
+
+# Get help
+
+Call 0800 389 2500 or [chat online]
+
+Monday to Friday, 8:30am to 5:30pm (except public holidays)."
 }) }}
 
-<!-- markdownlint-enable MD001 MD025 MD042 MD051 -->
-
 #### Reminder after 16 days
-
-<!-- markdownlint-disable MD001 MD025 MD042 MD051 -->
 
 {{ appEmail({
   subject: "((referee)) has not replied to your request for a reference",
@@ -200,14 +230,16 @@ You can sign into your account to:
 
 [Sign into your account].
 
-((provider)) must check your references before they can confirm your place on the course. Contact them if you need help getting references or choosing who to ask."
+((provider)) must check your references before they can confirm your place on the course. Contact them if you need help getting references or choosing who to ask.
+
+# Get help
+
+Call 0800 389 2500 or [chat online]
+
+Monday to Friday, 8:30am to 5:30pm (except public holidays)."
 }) }}
 
-<!-- markdownlint-enable MD001 MD025 MD042 MD051 -->
-
 #### Reminder after 30 days
-
-<!-- markdownlint-disable MD001 MD025 MD042 MD051 -->
 
 {{ appEmail({
   subject: "((referee)) has not replied to your request for a reference",
@@ -225,7 +257,13 @@ You can sign into your account to:
 
 [Sign into your account].
 
-Contact ((provider)) if you need help getting references or choosing who to ask."
+Contact ((provider)) if you need help getting references or choosing who to ask.
+
+# Get help
+
+Call 0800 389 2500 or [chat online]
+
+Monday to Friday, 8:30am to 5:30pm (except public holidays)."
 }) }}
 
 <!-- markdownlint-enable MD001 MD025 MD042 MD051 -->
@@ -234,10 +272,7 @@ Contact ((provider)) if you need help getting references or choosing who to ask.
 
 We’ve improved the wording of the history entries and the change is in the backlog of development work.
 
-Later we intend to:
-
-- improve the way that providers enter reference requirements
-- consider sending an email to the candidate when someone says they cannot give a reference
+Later we intend to improve the way that providers enter reference requirements.
 
 ### Improved history entries
 
@@ -268,9 +303,3 @@ If a provider does this, the information appears as a condition within the candi
 It may be confusing for references to be mentioned both in the offer conditions and in their own specific section.
 
 We’d like to improve this by asking providers for reference requirements in a more structured way. This would allow us to display the additional information within the references section.
-
-### Email to say that someone cannot give a reference
-
-We send an email to the candidate when a reference request is bounced but not when someone says they cannot give a reference.
-
-We should consider adding this email so that candidates know that they may need to request another reference.
