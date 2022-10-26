@@ -7,8 +7,18 @@ ogImage:
   alt: "Safeguarding: references to be collected if you accept an offer (incomplete)"
 related:
   items:
-    - text: Keeping Children Safe in Education policy guidance
-      href: https://www.gov.uk/government/publications/keeping-children-safe-in-education--2
+    - text: "July 2021: Selecting references"
+      href: /apply-for-teacher-training/selecting-references/
+    - text: "October 2020: Getting references before submitting an application"
+      href: /apply-for-teacher-training/getting-references-before-submitting/
+    - text: "May 2020: Making the references process faster"
+      href: /apply-for-teacher-training/making-the-references-process-faster/
+    - text: "April 2020: Improving the references user journey"
+      href: /apply-for-teacher-training/improving-the-references-user-journey/
+    - text: "February 2020: Replace both referees"
+      href: /apply-for-teacher-training/add-2-new-referees/
+    - text: "June 2019: References (first design)"
+      href: /apply-for-teacher-training/apply-june-2019/references/
 ---
 
 ![Illustration with the text: "Safeguarding: references to be collected if you accept an offer (incomplete)""](/apply-for-teacher-training/asking-candidates-for-references-to-be-contacted-if-they-accept-an-offer/references-to-be-collected.png)
@@ -66,7 +76,7 @@ We used bullet points to give guidance on who to choose to give a reference, to 
 
 We removed the guidance that “if you’re applying for a salaried course, one of your references must be from an employer.” We could not find evidence for this rule and some applicants may not have an employer.
 
-We added guidance that candidates should include the headteacher if they have been working in a school. This is based on the Keeping Children Safe in Education policy guidance.
+We added guidance that candidates should include the headteacher if they have been working in a school. This is based on the [Keeping Children Safe in Education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) policy guidance.
 
 ### Type
 
