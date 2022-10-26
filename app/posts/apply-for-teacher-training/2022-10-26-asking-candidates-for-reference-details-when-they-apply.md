@@ -1,7 +1,7 @@
 ---
 title: Asking candidates for reference details when they apply
 description: We changed the application process because candidates no longer need to receive 2 references before they apply.
-date: 2022-10-26
+date: 2022-10-27
 ogImage:
   src: /apply-for-teacher-training/asking-candidates-for-reference-details-when-they-apply/references-to-be-collected.png
   alt: "Safeguarding: references to be collected if you accept an offer (incomplete)"
