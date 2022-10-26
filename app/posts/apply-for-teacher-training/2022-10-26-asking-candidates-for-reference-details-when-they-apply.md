@@ -7,6 +7,8 @@ ogImage:
   alt: "Safeguarding: references to be collected if you accept an offer (incomplete)"
 related:
   items:
+    - text: Summary of candidate research for the new references process
+      href: https://docs.google.com/presentation/d/13gbxJk6S6j21MCtHN2B4E4-NM_BydZWqIX9SycDYoEk/edit#slide=id.g14472665577_1_98
     - text: "July 2021: Selecting references"
       href: /apply-for-teacher-training/selecting-references/
     - text: "October 2020: Getting references before submitting an application"
@@ -23,7 +25,9 @@ related:
 
 ![Illustration with the text: "Safeguarding: references to be collected if you accept an offer (incomplete)""](/apply-for-teacher-training/asking-candidates-for-reference-details-when-they-apply/references-to-be-collected.png)
 
-We’ve [changed the references process](/apply-for-teacher-training/collecting-references-after-offer/) so that candidates only need to give details of people who can give references. They no longer need to request and receive references before submitting their application.
+We’ve [changed the references process](/apply-for-teacher-training/collecting-references-after-offer/) so that candidates do not need to receive references before they submit their application.
+
+They instead need to give details of 2 people who can give a reference.
 
 ## The issue
 
