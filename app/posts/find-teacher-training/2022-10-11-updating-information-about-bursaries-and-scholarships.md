@@ -1,5 +1,5 @@
 ---
-title: Updating bursary and scholarship information
+title: Updating information about bursaries and scholarships
 description: We updated the bursary and scholarship information following the publication of funding information for the academic year 2023 to 2024
 date: 2022-10-11
 related:
