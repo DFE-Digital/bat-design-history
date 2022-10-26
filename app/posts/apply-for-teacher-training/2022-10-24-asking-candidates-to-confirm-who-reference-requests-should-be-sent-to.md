@@ -36,6 +36,8 @@ We also:
 
 ### What candidates see if they sign in after receiving an offer
 
+![TODO](offer.png)
+
 When a candidate signs in after submitting their application, they see a summary card for each of their applications.
 
 If a provider has made an offer with conditions, the summary card includes a ‘conditions’ section. We’ve added content which mentions references:
@@ -44,11 +46,15 @@ If a provider has made an offer with conditions, the summary card includes a ‘
 
 ### Details of offer
 
+![TODO](offer-details.png)
+
 After the candidate clicks on the ‘respond to offer’ link, they’re taken to a page with details of the offer. This repeats the conditions but also shows additional details such as the fees or salary.
 
 For an offer with conditions, this page says “They’ll confirm your place once you’ve met the conditions and they’ve checked your references.”
 
 ### Asking candidates to confirm who can give them references
+
+![TODO](confirm-reference-details.png)
 
 We added a page with the h1 heading ‘Confirm your reference details and accept your offer’. It is very similar to the [page used to add reference details before submitting an application](/).
 
@@ -81,6 +87,8 @@ If the candidate adds a reference, they use the journey which is used to add ref
 
 ### References carried over from the old references process
 
+![TODO](reference-already-given.png)
+
 If a candidate originally applied before 4 October 2022, they would have used the old references process. This means that they would have received their references before submitting their application.
 
 The candidate still sees the same reference request details. They do not see the reference itself.
@@ -95,8 +103,6 @@ The service sends an email to a candidate when:
 - they accept an unconditional offer
 
 When the candidate accepts their offer, the service sends an email requesting references to each of the people whose details they gave.
-
-
 
 ## Further work
 
