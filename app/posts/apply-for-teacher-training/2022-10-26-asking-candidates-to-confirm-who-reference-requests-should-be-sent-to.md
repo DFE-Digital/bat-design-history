@@ -74,7 +74,7 @@ Before they click to accept the offer, the candidate can:
 
 - delete reference details, so that a reference request is not sent
 - change reference details
-- add details of another person who should receive a reference request
+- add reference details, so that an additional reference request is sent
 
 The ‘accept offer’ button only appears if the candidate has given details for at least 2 references.
 
@@ -82,25 +82,42 @@ After the candidate clicks the ‘accept offer’ button, they’re taken to a p
 
 A success message appears at the top of the page they’re taken to, saying “You have accepted your offer for [course_and_code] at [provider]”. This message has not been changed.
 
-### Deleting reference details
+#### Deleting reference details
 
-If the candidate clicks a delete link, they’re taken to a page asking them to confirm the deletion. This is the same as in the journey which is used to add references before submitting an application.
+![Screenshot showing page with the heading ‘Are you sure you want to delete the reference from Frankie?’. There is also a red button with the text ‘Yes I’m sure - delete this reference’](delete-reference-details.png)
 
-![TODO](delete-reference-details.png)
+If the candidate clicks a delete link, they’re taken to a page asking them to confirm the deletion. After they click the red button, they return to the page asking them to confirm who can give them references.
 
-### Adding details for another reference
+#### Changing reference details
 
-If the candidate adds a reference, they use the journey which is used to add references before submitting an application.
+If the candidate clicks a change link, they’re taken into [the journey which is used to add references before submitting an application](asking-candidates-for-reference-details-when-they-apply/).
 
-### References carried over from the old references process
+After they make the change, they return to the page asking them to confirm who can give them references.
 
-![TODO](reference-already-given.png)
+#### Adding details for another reference
 
-If a candidate originally applied before 4 October 2022, they would have used the old references process. This means that they would have received their references before submitting their application.
+If the candidate adds a reference, they use [the journey which is used to add references before submitting an application](asking-candidates-for-reference-details-when-they-apply/).
 
-The candidate still sees the same reference request details. They do not see the reference itself.
+At the end of the journey, they return to the page asking them to confirm who can give them references.
 
-The candidate can delete the details so that the training providers will not see the reference. They cannot change the details, so change links do not appear.
+#### References carried over from the old references process
+
+![Screenshot showing a box with reference details in a table. These include type, name, email and how long the candidate has known them and for how long. There’s a link to allow the candidate to delete the details.](reference-already-given.png)
+
+If a candidate originally applied before 6pm on 20 September 2022, they would have used the old references process. This means that they would have received their references before submitting their application.
+
+If one of these candidates applies again now, they’ll use the new process but their application will already contain the reference details from the old process.
+
+The candidate will not see the reference. They’ll see the same details as they would need to enter for a new reference request:
+
+- type
+- name
+- email address
+- how they know the person and for how long
+
+Since the reference has already been received, the candidate cannot change these details. They can however delete the details so that the reference will not be sent to training providers.
+
+The candidate will still need details for at least 2 reference requests so that they can accept their offer.
 
 ## Emails
 
@@ -109,8 +126,89 @@ The service sends an email to a candidate when:
 - they accept a conditional offer
 - they accept an unconditional offer
 
-When the candidate accepts their offer, the service sends an email requesting references to each of the people whose details they gave.
+### Conditional offer accepted
+
+<!-- markdownlint-disable MD001 MD025 -->
+
+{{ appEmail({
+  subject: "You’ve accepted ((provider))’s offer to study ((course_and_code))",
+  content: "
+
+Dear ((name))
+
+You’ve accepted ((provider))’s offer to study ((course_and_code)).
+
+Your place will be confirmed when:
+
+- ((provider)) has received and checked your references
+- you’ve met your offer conditions
+
+Sign into your account to check the progress of your reference requests and offer conditions.
+
+[Sign into your account].
+
+# If you’re unable to start training in ((month_and_year))
+
+Some providers allow you to defer your offer. This means that you could start your course a year later.
+
+Contact ((provider)) to find out if they’ll allow you to defer your offer. Asking them will not affect your existing offer.
+
+# Get help
+
+Call 0800 389 2500 or [chat online]
+
+Monday to Friday, 8:30am to 5:30pm (except public holidays).
+  "
+}) }}
+
+<!-- markdownlint-enable MD001 MD025 -->
+
+### Unconditional offer accepted
+
+<!-- markdownlint-disable MD001 MD025 -->
+
+{{ appEmail({
+  subject: "You’ve accepted ((provider))’s offer to study ((course_and_code))",
+  content: "
+
+Dear ((name))
+
+You’ve accepted ((provider))’s offer to study ((course_and_code)).
+
+((provider)) will check your references once they receive them.
+
+They’ll let you know if they need further information before you start training.
+
+Sign into your account to check the progress of your reference requests.
+
+[Sign into your account].
+
+# If you’re unable to start training in ((month_and_year))
+
+Some providers allow you to defer your offer. This means that you could start your course a year later.
+
+Contact ((provider)) to find out if they’ll allow you to defer your offer. Asking if it’s possible will not affect your existing offer.
+
+# Get help
+
+Call 0800 389 2500 or [chat online]
+
+https://getintoteaching.education.gov.uk/#talk-to-us
+
+Monday to Friday, 8:30am to 5:30pm (except public holidays).
+  "
+}) }}
+
+<!-- markdownlint-enable MD001 MD025 -->
+
+## Research
+
+We did usability testing on the new flow with 8 participants who had previously applied for teacher training. We found no major usability issues.
+
+However, some participants were confused as they thought that they would already have received their references before they applied. This may have been influenced by their recent experience of how the process used to work.
 
 ## Further work
 
 We need to add a message about references for unconditional offers, to match the one we show for conditional offers.
+
+We also need to make clearer on the offer page that choosing “Accept offer and conditions” will not accept the offer straight away. The page does not mention that the candidate will need to confirm their reference request details first.
