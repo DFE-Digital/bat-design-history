@@ -35,6 +35,8 @@ We made changes to this page. We also designed a new page to show the details of
 
 ### ‘Your teacher training course’ page
 
+![TODO](your-course.png)
+
 Content at the top of this page lists the course and provider for the offer which the candidate has accepted.
 
 Links on the right let them view or withdraw their application. These functions have not been changed.
@@ -51,6 +53,8 @@ The references section lists the candidate’s reference requests. For each one 
 There’s also a grey button which lets a candidate request another reference.
 
 #### Statuses
+
+![TODO](all-statuses.png)
 
 The status of a request can be:
 
@@ -82,6 +86,8 @@ If the candidate clicks one of these links, they’re taken to a page to confirm
 The reference request will have changed status to ‘request cancelled’ if the candidate cancelled it.
 
 ### Reference details page
+
+![TODO](request-details.png)
 
 If the candidate clicks the link on the name of someone they asked for a reference, they go to a  page showing:
 
