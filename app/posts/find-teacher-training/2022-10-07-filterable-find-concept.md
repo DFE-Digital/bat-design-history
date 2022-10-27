@@ -1,6 +1,6 @@
 ---
 title: Filterable Find postgraduate training courses (Find) concept
-description: We created a prototype to test a more filterable version of Find
+description: We built a prototype that removed the need for the question pages and focused the user on a complete list of courses, which they can search and filter.
 date: 2022-10-07
 related:
   items:
@@ -20,7 +20,7 @@ screenshots:
 
 In the current Find postgraduate teacher training (Find) service, users are given a series of questions to answer before getting to the search results page. In the [browse concept](/find-teacher-training/enhancing-the-browse-concept-prototype/) we have been developing, users reach the search results page by clicking links.
 
-To help test the validity of these two journeys, we built a concept that removed the need for the question and link pages, and focused the user on a complete list of courses they can search and filter.
+To help test the validity of these two journeys, we built a prototype that removed the need for the question and link pages, and focused the user on a complete list of courses, which they can search and filter.
 
 ## What we changed
 
@@ -44,11 +44,11 @@ If JavaScript is unavailable, we show the subjects within the scrollable region 
 
 We indicate the scrollable region by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
 
-To save space on the page, the scroll area just shows 4 subjects, as well as half a subject to help users realise more subjects are on the list. This smaller height lets users move to a filter below.
+To save space on the page, the scroll area shows 4 and a half subjects to help users realise more subjects are on the list. This smaller height lets users move to a filter below.
 
-If there are fewer than 15 subjects in the list, we display the subject filter as a simple list of checkboxes.
+If fewer than 15 subjects are in the list, we display the subject filter as a simple list of checkboxes.
 
-When a user selects one or more subjects, and clicks ‘Apply filters’, we show the selected subjects as tags at the top of the subject filter. This is because they may be hidden outside the visible scrollable region.
+When a user selects one or more subjects and clicks ‘Apply filters’, we show the selected subjects as tags at the top of the subject filter. This is because they may be hidden outside the visible scrollable region.
 
 ### Provider search
 
@@ -106,5 +106,5 @@ We considered some changes which we did not implement.
 - Showing chosen filters as tags at the top of the filter section. This was not implemented as we could not establish a need for it from previous research.
 - Reordering the subject list to show all checked subjects in alphabetical order at the top of the list of subjects, followed by an alphabetical list of unchecked subjects. This was not implemented as it is known to increase error rates and misinterpretations.
 - Providing a ‘selected’ count below the filter’s heading similar to that found in the GOV.UK finder frontend component called [option select](https://finder-frontend.herokuapp.com/component-guide/option-select). This was not implemented in this iteration as we could not establish a need for it.
-- Putting each filter section into an expandable region, but hiding the content. This was not implemented as it would mean the user has to work harder to reveal the content.
+- Putting each filter section into an expandable region but hiding the content. This was not implemented as it would mean the user has to work harder to reveal the content.
 - Highlighting the search term in the courses that match.
