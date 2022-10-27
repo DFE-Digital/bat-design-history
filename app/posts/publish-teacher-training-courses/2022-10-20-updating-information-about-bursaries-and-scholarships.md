@@ -9,7 +9,7 @@ related:
     - text: Get Into Teaching funding and support
       href: https://getintoteaching.education.gov.uk/funding-and-support
     - text: Updating information about bursaries and scholarships on Find postgraduate teacher training
-      href: /find-teacher-training/updating-bursary-and-scholarship-information/
+      href: /find-teacher-training/updating-information-about-bursaries-and-scholarships/
 screenshots:
   items:
     - text: Add course - secondary subject
