@@ -52,8 +52,8 @@ The references section lists the candidate’s reference requests. For each one 
 
 - name - this has a link which leads to a reference request details page
 - status
-- additional information - depending on the status of the request
-- links to cancel or send a reminder - depending on the status of the request
+- additional information, depending on the status of the request
+- links to cancel or send a reminder, depending on the status of the request
 
 There’s also a grey button which lets a candidate request another reference.
 
@@ -67,7 +67,7 @@ The status of a request can be:
 - requested
 - received by training provider
 - request cancelled - candidates can cancel requests, and they are automatically cancelled if the application is withdrawn or the candidate does not meet their conditions
-- cannot give reference - if the person asked to give a reference said they could not do so
+- cannot give reference - if the person who received the reference request said they could not give one
 - request failed - if the email bounced
 
 #### Additional information
@@ -117,7 +117,7 @@ A history entry is added every time the status of a request changes or a reminde
 
 We considered including references within the conditions section of the page, but decided to give them a separate section.
 
-They’re different to other conditions because:
+They’re different from other conditions because:
 
 - candidates can add reference requests, but training providers cannot add conditions once an offer has been accepted
 - candidates cannot take any action on conditions within the service, but they can cancel or send reminders about reference requests
@@ -128,7 +128,7 @@ The service sends emails to candidates:
 
 - if a reference request cannot be sent
 - if someone says that they cannot give a reference
-- to remind the candidate that they haven’t received a reference
+- to remind the candidate that they have not received a reference
 
 <!-- markdownlint-disable MD001 MD025 MD042 MD051 -->
 
@@ -190,9 +190,11 @@ Call 0800 389 2500 or [chat online]
 Monday to Friday, 8:30am to 5:30pm (except public holidays)."
 }) }}
 
-### Reminder that the candidate has not received a reference
+### Reminders that the candidate has not received a reference they requested
 
 Reminders are sent to the candidate 9, 16 and 30 days after they requested a reference. Each of these is 2 days later than the reminders which are sent to the people who received reference requests.
+
+This is intended to give people a chance to give a reference before we suggest that the candidate should remind them, cancel the request or ask someone else for a reference.
 
 The 3 reminders sent to candidates have slightly different content. The intention is that the message becomes more urgent as time passes.
 
