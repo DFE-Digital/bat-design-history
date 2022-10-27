@@ -9,7 +9,7 @@ related:
     - text: Get Into Teaching funding and support
       href: https://getintoteaching.education.gov.uk/funding-and-support
     - text: Updating bursary and scholarship information in Publish teacher training courses
-      href: /publish-teacher-training-courses/updating-bursary-and-scholarship-information/
+      href: /publish-teacher-training-courses/updating-information-about-bursaries-and-scholarships/
 screenshots:
   items:
     - text: Secondary subjects list
