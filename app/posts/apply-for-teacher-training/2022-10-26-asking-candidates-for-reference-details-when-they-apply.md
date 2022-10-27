@@ -149,22 +149,15 @@ If a user marks the task as completed but then returns and deletes references so
 
 ![Screenshot showing a box with reference details in a table. These include type, name, email and how long the candidate has known them and for how long. There’s a link to allow the candidate to delete the details.](reference-already-given.png)
 
-If a candidate originally applied before 6pm on 20 September 2022, they would have used the old references process. This means that they would have received their references before submitting their application.
+If a candidate originally applied or started their application before 6pm on 20 September 2022, they would have used the old references process. This means that they may have already received 1 or more references.
 
-If one of these candidates applies again now, they’ll use the new process but their application will already contain the reference details from the old process.
+If one of these candidates applies again or continues their application in the 2022 to 2023 recruitment year, they’ll use the new process but their application may contain the reference details from the old process.
 
-When they click on the references task they will be taken straight to the references review page. This is because they already have 2 references so they are not required to add any more details.
+If the reference had been received, they’ll see the details they entered about the person giving a reference, but will not be able to change these. They can however delete the details so that the references will not be sent to training providers.
 
-The candidate will not see the references. They’ll see the same details as they would need to enter for a new reference request:
+If the reference had be requested but not yet received, or not yet requested, then the reference details can be changed.
 
-- type
-- name
-- email address
-- how they know the person and for how long
-
-Since the references have already been received, the candidate cannot change these details. They can however delete the details so that the references will not be sent to training providers.
-
-The candidate will need details for at least 2 reference requests so that they can mark the task as completed.
+If a reference was previously requested but the referee said they were unable to give a reference, or the email bounced, then the reference details are not copied into the new application.
 
 ## Research
 
