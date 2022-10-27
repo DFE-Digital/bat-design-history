@@ -1,7 +1,7 @@
 ---
 title: Asking candidates to confirm who reference requests should be sent to
 description: When candidates accept an offer, they also now have to confirm who should receive reference requests.
-date: 2022-10-26
+date: 2022-10-27
 ogImage:
   src: /apply-for-teacher-training/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to/confirm-details.png
   alt: "Flow diagram showing questions related to home fee status"
@@ -104,20 +104,22 @@ At the end of the journey, they return to the page asking them to confirm who ca
 
 ![Screenshot showing a box with reference details in a table. These include type, name, email and how long the candidate has known them and for how long. There’s a link to allow the candidate to delete the details.](reference-already-given.png)
 
-If a candidate originally applied before 6pm on 20 September 2022, they would have used the old references process. This means that they would have received their references before submitting their application.
+If a candidate originally applied or started their application before 6pm on 20 September 2022, they would have used the old references process.
 
-If one of these candidates applies again now, they’ll use the new process but their application will already contain the reference details from the old process.
+They’ll use the new process if they apply again or continue their application in the 2022 to 2023 recruitment cycle.
 
-The candidate will not see the reference. They’ll see the same details as they would need to enter for a new reference request:
+Their application will contain the details of their reference requests from the old process, unless:
 
-- type
-- name
-- email address
-- how they know the person and for how long
+- the request email failed to send
+- the person they asked for a reference said they could not give one
+- the candidate deleted the details before they submitted their current application
 
-Since the reference has already been received, the candidate cannot change these details. They can however delete the details so that the reference will not be sent to training providers.
+The candidate will see the details of the reference request and will be able to:
 
-The candidate will still need details for at least 2 reference requests so that they can accept their offer.
+- change the details or delete them if the reference has not been received
+- delete the details if the reference has been received
+
+If they delete the details, the reference will not be sent to the training provider.
 
 ## Emails
 
