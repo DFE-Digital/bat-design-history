@@ -33,7 +33,7 @@ We have:
 
 ### Secondary subject question
 
-When creating a course, providers can choose one or two subjects, for example, biology, psychology, English and drama, geography and history.
+When creating a secondary course, providers can choose one or two subjects, for example, biology, psychology, English and drama, geography and history.
 
 If one of the subjects is ‘modern languages’, providers can also choose from a list of languages.
 
