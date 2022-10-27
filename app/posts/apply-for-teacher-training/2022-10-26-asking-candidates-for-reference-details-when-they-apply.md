@@ -115,7 +115,7 @@ This avoids the term ‘referee’ and also makes the name more visible. In the 
 
 We changed the hint text from “Use their professional email address if they have one.” to “Give their work email address if they have one.” We think that this is clearer.
 
-### How you know the person page
+### How you know the person
 
 ![Screenshot showing question: How do you know Jane Smith and how long have you known them? For example, ‘They are the head coach for my athletics club. I’ve known them for 5 years.’](reference-how-known.png)
 
