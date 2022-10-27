@@ -149,26 +149,18 @@ If a user marks the task as completed but then returns and deletes references so
 
 ![Screenshot showing a box with reference details in a table. These include type, name, email and how long the candidate has known them and for how long. There’s a link to allow the candidate to delete the details.](reference-already-given.png)
 
-If a candidate started their application before 6pm on 20 September 2022, they would have used the old references process.
+If a candidate originally applied or started their application before 6pm on 20 September 2022, they would have used the old references process.
 
-The candidate may have:
+They’ll use the new process if they apply again or continue their application in the 2022 to 2023 recruitment cycle.
 
-- applied using the old process, so they have already received references and chosen 2 for their application
-- started but not submitted their application, so they may already have requested and received references
+Their application will contain the details of their reference requests from the old process, except for requests which failed to send or where the person said they could not give a reference.
 
-The candidate will use the new references process if they apply again or continue their application in the 2022 to 2023 recruitment year.
+The candidate will see the details of the reference request and will be able to:
 
-If they applied using the old process then they’ll see the details they entered about the person giving a reference. They will not be able to change them.
+- change the details or delete them if the reference has not been received
+- delete the details if the reference has been received
 
-If they only started their application using the old process but did not submit it, then they will:
-
-- not be able to change the details of requests if they’ve received the reference
-- be able to change the details of requests if they have not received the reference
-- not see the details of requests if the email bounced or the person said they could not give a reference
-
-In any case, the candidate can delete details of a reference request. If they do this then the training provider will not see the reference.
-
-The candidate can only accept their offer once they have details for 2 references.
+If they delete the details, the reference will not be sent to the training provider.
 
 ## Research
 
