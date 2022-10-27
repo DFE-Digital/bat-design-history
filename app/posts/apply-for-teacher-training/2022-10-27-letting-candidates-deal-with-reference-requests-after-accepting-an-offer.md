@@ -17,7 +17,7 @@ ogImage:
 
 We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates do not need to receive references before they submit their application. They instead need to give details of 2 people who can give a reference.
 
-When they accept an offer, candidates are given the chance to change these details before the requests are sent out.
+Once they’ve accepted an offer, candidates now need to be able to see the status of reference requests, and request additional ones if needed.
 
 ## The issue
 
@@ -34,7 +34,7 @@ We needed to design a way for candidates to deal with their reference requests a
 
 ## What we changed
 
-After the candidate has accepted an offer, they’re taken to a page with the h1 heading ‘Your teacher training course’. They will return to the same page if they leave the service and sign in again.
+After the candidate has accepted an offer, they’re taken to a page with the title ‘Your teacher training course’. They will return to the same page if they leave the service and sign in again.
 
 We made changes to this page. We also designed a new page to show the details of a reference request.
 
@@ -46,7 +46,7 @@ Content at the top of this page lists the course and provider for the offer whic
 
 Links on the right let them view or withdraw their application. These functions have not been changed.
 
-The page has 2 subheadings, references and offer conditions.
+The page has 2 subheadings, 'references' and 'offer conditions'.
 
 The references section lists the candidate’s reference requests. For each one it includes:
 
@@ -64,7 +64,7 @@ There’s also a grey button which lets a candidate request another reference.
 The status of a request can be:
 
 - not sent - if the candidate started a new reference request and saved the person’s name but did not send the request
-- reference requested
+- requested
 - received by training provider
 - request cancelled - candidates can cancel requests, and they are automatically cancelled if the application is withdrawn or the candidate does not meet their conditions
 - cannot give reference - if the person asked to give a reference said they could not do so
