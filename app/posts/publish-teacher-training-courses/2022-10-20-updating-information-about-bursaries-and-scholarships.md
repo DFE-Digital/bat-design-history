@@ -20,6 +20,9 @@ screenshots:
       src: course-description--bursary.png
     - text: Course description - bursary and scholarship
       src: course-description--bursary-and-scholarship.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-updated-bursaries-and-scholarships
 ---
 
 We recently [updated the bursary and scholarship information on Find postgraduate teacher training (Find)](/find-teacher-training/updating-bursary-and-scholarship-information/) following the publication of funding information for the 2023 to 2024 academic year.
