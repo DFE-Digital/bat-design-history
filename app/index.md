@@ -5,5 +5,5 @@ description: A history of the designs for the Find, Apply, Publish, Manage, Regi
 eleventyComputed:
   eleventyNavigation:
     key: home
-    title: "{{ title }}"
+    title: Home
 ---
