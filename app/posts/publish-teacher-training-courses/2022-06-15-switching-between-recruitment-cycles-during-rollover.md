@@ -10,6 +10,9 @@ screenshots:
       src: cycle-switcher--action-bar-single-organisation.png
     - text: Action bar - multiple organisation user
       src: cycle-switcher--action-bar-multiple-organisations.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-switching-recruitment-cycles
 ---
 
 At the start of July each year, the process of rollover begins. During this period, users need to be able to see courses in the current recruitment cycle and prepare courses for publishing in the next recruitment cycle.

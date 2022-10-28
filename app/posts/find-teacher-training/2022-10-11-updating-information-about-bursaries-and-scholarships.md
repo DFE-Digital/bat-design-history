@@ -23,8 +23,6 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: find-updated-bursaries-and-scholarships
-    title: "{{ title }}"
-
 ---
 
 Candidates applying for teacher training courses in England may be eligible for a bursary or scholarship.

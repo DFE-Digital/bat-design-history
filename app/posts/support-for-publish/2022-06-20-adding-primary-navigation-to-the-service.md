@@ -10,6 +10,9 @@ screenshots:
       src: primary-navigation--organisation-details.png
     - text: Primary navigation - edit organisation details
       src: primary-navigation--edit-organisation-details.png
+eleventyComputed:
+  eleventyNavigation:
+    key: support-adding-primary-navigation
 ---
 
 We recently added [primary navigation to the Publish teacher training courses service](/publish-teacher-training-courses/adding-primary-navigation-to-the-service/). We decided to do the same for the support website.
