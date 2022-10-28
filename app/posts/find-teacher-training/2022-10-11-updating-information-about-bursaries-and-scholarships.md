@@ -20,6 +20,9 @@ screenshots:
       src: course-description--bursary.png
     - text: Course description - bursary and scholarship
       src: course-description--bursary-and-scholarship.png
+eleventyComputed:
+  eleventyNavigation:
+    key: find-updated-bursaries-and-scholarships
 ---
 
 Candidates applying for teacher training courses in England may be eligible for a bursary or scholarship.
