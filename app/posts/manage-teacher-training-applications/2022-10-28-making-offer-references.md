@@ -42,8 +42,8 @@ In this section, we explain that candidates now confirm which references they wa
 
 We also show the standard guidance that we give to candidates, which is that they need 2 references including:
 
-* an academic tutor if they graduated in the past 5 years or are still studying
-* the headteacher if they’ve been working in a school
+- an academic tutor if they graduated in the past 5 years or are still studying
+- the headteacher if they’ve been working in a school
 
 Providers are told to add any other requirements as a further condition.
 
@@ -81,7 +81,7 @@ Once we’ve learned more about how references are being used in the new process
 
 This might include:
 
-* letting providers remove the reference requirement altogether, for example if the provider already employs the candidate does not require additional safeguarding checks
-* adding a dedicated field where providers can tell candidates their reference requirements
-* allowing providers to set a deadline as a date field
-* giving a way for providers to tell candidates that their references have been checked and are acceptable, either individually or once 2 references have been received
+- letting providers remove the reference requirement altogether, for example if the provider already employs the candidate does not require additional safeguarding checks
+- adding a dedicated field where providers can tell candidates their reference requirements
+- allowing providers to set a deadline as a date field
+- giving a way for providers to tell candidates that their references have been checked and are acceptable, either individually or once 2 references have been received
