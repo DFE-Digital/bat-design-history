@@ -5,7 +5,7 @@ date: 2022-10-28
 screenshots:
   items:
     - text: Course description
-      src: course-description.png
+      src: course-description--qualifications-needed.png
 ---
 
 When viewing an ‘Engineers teach physics’ course on Find postgraduate teacher training (Find), we incorrectly show a message stating candidates need a degree in physics.
