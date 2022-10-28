@@ -18,7 +18,7 @@ HEIs have many more trainees, and that span multiple years. They tend not to gro
 Providers have asked for help:
 
 * identifying ‘this year’s’ trainees
-* iIdentifying ‘last year’s’ trainees
+* identifying ‘last year’s’ trainees
 
 Their common task is to find ‘this year’s’ trainees so they can export them and check their data. ‘This year’ would include all trainees added this year, as well as any trainees from prior years still in training or who withdrew or were awarded this year. This isn’t currently possible to filter to in Register. 
 
