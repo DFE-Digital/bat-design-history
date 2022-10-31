@@ -35,7 +35,7 @@ In our case, the html and assets are [stored in the same repo](https://github.co
 
 ## Keeping users up to date
 
-In the previous week, Register had an incident that brought the service down for 4.5 hours. We deployed our maintenance page soon after the incident started, with the following message:
+In the previous week, Register had an incident that brought the service down for 4 hours and 30 minutes. We deployed our maintenance page soon after the incident started, with the following message:
 
 ![Register’s initial service unnavailable message.](2.initial-message.png)
 
