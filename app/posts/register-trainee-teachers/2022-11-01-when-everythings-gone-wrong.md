@@ -15,7 +15,7 @@ ogImage:
 
 ![Screenshot of Register’s new maintenance page.](1.maintenance-page-screenshot.png)
 
-This post is about our ‘maintenance page’ - colloquially known as our ‘everything’s gone wrong page’. This is a page to be used when the entire service is down - either for maintenance or because something has gone very wrong with Register trainee teachers (Register). 
+This post is about our ‘maintenance page’ - known as our ‘everything’s gone wrong page’ within our team. This is a page to be used when the entire service is down - either for maintenance or because something has gone very wrong with Register trainee teachers (Register). 
 
 Services should be prepared with one of these before they need one.
 
