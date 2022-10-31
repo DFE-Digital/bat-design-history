@@ -18,11 +18,13 @@ ogImage:
 This post is about our ‘maintenance page’ - colloquially known as our ‘everything’s gone wrong page’. This is a page to be used when the entire service is down - either for maintenance or because something has gone very wrong with Register trainee teachers (Register). 
 
 Services should be prepared with one of these before they need one.
+
 ## Why have a maintenance page
 
 No services have 100% uptime. They all go down at some point - sometimes planned, sometimes because of incidents. During these times, it’s better to show a helpful message acknowledging the issue rather than a cryptic unstyled error.
  
 When a service goes down the developers on the service will be busy trying to get it back up. They won’t have time to create error pages to show, so teams need to have a page ready in advance.
+
 ## What makes our maintenance page different
 
 The page is based on the [Design System’s service unavailable pattern](https://design-system.service.gov.uk/patterns/service-unavailable-pages/).
@@ -30,6 +32,7 @@ The page is based on the [Design System’s service unavailable pattern](https:/
 An important implementation detail is that our page is 100% standalone from our app. It does not depend on our app or assets functioning in order to get shown. This could be important depending on what has broken about the service - it’s helpful that the maintenance page doesn't depend on anything else except hosting.
 
 In our case, the html and assets are [stored in the same repo](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/service_unavailable_page) as our production codebase, but deployed separately and manually.
+
 ## Keeping users up to date
 
 In the previous week, Register had an incident that brought the service down for 4.5 hours. We deployed our maintenance page soon after the incident started, with the following message:
