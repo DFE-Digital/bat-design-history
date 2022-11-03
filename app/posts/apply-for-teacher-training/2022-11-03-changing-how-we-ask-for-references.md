@@ -3,12 +3,12 @@ title: Changing how we ask people for a reference
 description: Why we now ask people to give a factual reference instead describing how the candidate would make a good teacher.
 date: 2022-11-03
 ogImage:
-  src: /apply-for-teacher-training/letting-candidates-deal-with-reference-requests-after-accepting-an-offer/managing-references.png
-  alt: "Illustration with the title 'References' and 3 references listed, 2 with the status 'REQUESTED' and 1 with the status 'RECEIVED BY TRAINING PROVIDER'"
+  src: /apply-for-teacher-training/changing-how-we-ask-for-references/reference-illustration.png
+  alt: "Illustration with the title 'References', 2 bullet points and an empty text box"
 
 ---
-
 {% from "email/macro.njk" import appEmail %}
+![Illustration with the title 'References', 2 bullet points and an empty text box](reference-illustration.png)
 
 We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates do not need to receive references before they submit their application, and instead only need to request references once they have accepted an offer.
 
