@@ -20,7 +20,7 @@ Previously when giving a reference, people were asked the question ‘Does (cand
 
 There were also given a word limit of 500 words, and told they could save and return later if they needed more time.
 
-![TODO](old-reference-question.png "Previous design for reference screen")
+![Screenshot showing the heading 'Does Jane Doe have the potential to teach?' followed by 'You could comment on things like their commuication skills, reliability and punctuality, transferable skills, ablity to work with children or academic schools'.](old-reference-question.png "Previous design for reference screen")
 
 With the change to collecting references after candidates had already accepted an offer, it was no longer appropriate to ask for such detail as the candidate’s potential for teaching would already have been assessed. At this point, the main reason for asking for a reference was for safeguarding purposes.
 
@@ -64,7 +64,7 @@ If you say you cannot give a reference, ((candidate name)) will know they should
 
 We added some content at the top confirming what the reference was for.
 
-![TODO](initial-question.png)
+![Screenshot showing the heading 'Give a reference for Jane Doe' followed by the question 'Can you give a reference for Jane Doe?' with Yes and No answers.](initial-question.png)
 
 ### Confirming how they know you
 
@@ -74,7 +74,9 @@ Previously the options were "Yes" and "No". One research participant was nervous
 
 We changed the answer to "No, I’ll give a more accurate information". This aims to help users understand that if they select this option they’ll be able to write in their own answer.
 
-![TODO](second-question.png)
+We also changed the question from "Is this correct?" to "Is this description accurate?"
+
+![Screenshot showing the heading 'Confirm how Jane Doe knows you' followed by a quoted description and the question 'Is this description accurate?'](second-question.png)
 
 ### Safeguarding question
 
@@ -84,7 +86,7 @@ We changed "Yes" to "Yes, I know a reason why they should not work with children
 
 We also added the hint text "Give facts, not your opinion". This was based on guidance in the [Keeping children safe in education policy](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2), which states that only substantiated allegations should be shared.
 
-![TODO](safeguarding.png)
+![Screenshot with the heading 'Do you know any reason why Jane Doe should not work with children?'](safeguarding.png)
 
 ### Reference
 
@@ -96,14 +98,14 @@ Some bullet point suggestions are included. These vary depending on the type of 
 
 References to a word limit have been removed, to discourage users from thinking they need to write a long reference. The word count now only appears as the user approaches the 500 word limit.
 
-![TODO](reference.png)
+![Screenshot with the heading 'Reference for Jane Doe'](reference.png)
 
 
 ### Check your answers
 
 We simplified this page, focusing on the three answers given followed by a green 'Submit reference' button.
 
-![TODO](check-answers.png)
+![Screenshot with the heading 'Check your reference for Jane Doe'](check-answers.png)
 
 ## Research
 
