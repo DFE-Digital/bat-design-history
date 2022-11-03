@@ -111,17 +111,17 @@ We did research 7 people who had previously given a reference or had previously 
 
 We asked them about their experience of giving references more generally, and found that they:
 
-* usually have to write references in their personal time
-* dislike having to use different forms and formats for different employers
-* have to look up students’ records, if they taught them a while ago
-* are sometimes prevented from their organisation policy from writing anything negative
-* would decline to give a reference if they had any concerns about the candidate
+- usually have to write references in their personal time
+- dislike having to use different forms and formats for different employers
+- have to look up students’ records, if they taught them a while ago
+- are sometimes prevented from their organisation policy from writing anything negative
+- would decline to give a reference if they had any concerns about the candidate
 
 We also tested our new flow with them, and found that they:
 
-* wanted a more specific indication of when the reference was needed by
-* were unclear what 'concerns about working with children' meant, particularly if they had not observed the candidate around children at all
-* were sometimes surprised by only needing to give factual information
+- wanted a more specific indication of when the reference was needed by
+- were unclear what 'concerns about working with children' meant, particularly if they had not observed the candidate around children at all
+- were sometimes surprised by only needing to give factual information
 
 The participants also appreciated the idea that they would only be asked for a reference if a candidate was successful, as this would reduce the number of references they had to write.
 
@@ -131,8 +131,8 @@ We plan to review the new references process once it has been in place for a few
 
 We will consider:
 
-* how long it takes people to give a reference
-* if fewer people mis-interpret the safeguarding question
-* whether 'how you know them and how long you’ve known them' could be improved, perhaps by splitting it into 2 questions
-* what kind of factual information people enter on the main reference page
+- how long it takes people to give a reference
+- if fewer people mis-interpret the safeguarding question
+- whether 'how you know them and how long you’ve known them' could be improved, perhaps by splitting it into 2 questions
+- what kind of factual information people enter on the main reference page
 
