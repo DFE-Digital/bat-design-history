@@ -16,6 +16,9 @@ screenshots:
       src: organisation-list.png
     - text: Your account
       src: your-account.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-adding-primary-navigation
 ---
 
 We have observed that users find it hard to navigate the service.
