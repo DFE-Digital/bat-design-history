@@ -54,7 +54,7 @@ October is a busy time for Register as data is being checked for the ITT Census 
 
 ## Preparing for future outages
 
-We learned a few lessons from our recent incident that related to our maintenance page.
+We learned a couple of lessons from our recent incident that related to our maintenance page.
 
 Firstly, not all the team was aware of the page’s existence or how to deploy it. We have now made sure the team is aware and more developers know how to use it.
 
