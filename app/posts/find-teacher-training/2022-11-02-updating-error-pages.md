@@ -40,7 +40,7 @@ The service unavailable pages do not include any elements which require the serv
 
 This page includes:
 
-- the page title - ‘Page not found - Publish teacher training courses - GOV.UK’
+- the page title - ‘Page not found - Find postgraduate teacher training - GOV.UK’
 - the heading - ‘Page not found’
 - content telling the user to check the web address
 - an email address for the user to contact us
@@ -49,7 +49,7 @@ This page includes:
 
 This page includes:
 
-- the page title - ‘Sorry, there’s a problem with the service - Find postgraduate teacher training- GOV.UK’
+- the page title - ‘Sorry, there’s a problem with the service - Find postgraduate teacher training - GOV.UK’
 - the heading - ‘Sorry, there’s a problem with the service’
 - content telling the user to try again later and that any information they’ve entered has not been saved
 - an email address for the user to contact us
