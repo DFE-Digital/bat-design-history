@@ -29,7 +29,7 @@ When a service goes down the developers on the service will be busy trying to ge
 
 The page is based on the [Design System’s service unavailable pattern](https://design-system.service.gov.uk/patterns/service-unavailable-pages/).
 
-An important implementation detail is the page is standalone from our app. It does not depend on our app or assets functioning to  work. This could be important depending on what has broken about the service - it’s important that the maintenance page doesn't depend on anything else except hosting.
+An important implementation detail is the page is standalone from our app. It does not depend on our app or assets functioning to  work. This could be important depending on what has broken about the service. It’s important the maintenance page does not depend on anything else except hosting.
 
 In our case, the html and assets are [stored in the same repo](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/service_unavailable_page) as our production codebase, but deployed separately and manually.
 
