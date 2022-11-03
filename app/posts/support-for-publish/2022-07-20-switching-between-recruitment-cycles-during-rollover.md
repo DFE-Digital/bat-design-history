@@ -12,6 +12,9 @@ screenshots:
       src: cycle-switcher--next-recruitment-cycle.png
     - text: Organisation details
       src: cycle-switcher--organisation-details.png
+eleventyComputed:
+  eleventyNavigation:
+    key: support-switching-recruitment-cycles
 ---
 
 At the start of July each year, the process of rollover begins. During this period, the support team need to be able to see courses in the current and next recruitment cycles to support the needs of our providers.

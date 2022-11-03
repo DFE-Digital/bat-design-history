@@ -24,8 +24,6 @@ We have updated the:
 
 We changed ‘Study type’ to ‘Full time or part time’. This matches the content in Publish teacher training courses (Publish) and is a more accurate description of the filter.
 
-We changed ‘Degree grade accepted’ to ‘Degree required’ as it matches the search results page summary heading and is more concise.
-
 We replaced brackets with hyphens on some of the options:
 
 - ‘Pass (ordinary degree)’ is now ‘Pass - ordinary degree’
