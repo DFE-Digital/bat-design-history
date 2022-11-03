@@ -107,7 +107,7 @@ We simplified this page, focusing on the three answers given followed by a green
 
 ## Research
 
-We did research 7 people who had previously given a reference or had previously declined to give a reference.
+We did research with 7 people who had previously given a reference or had previously declined to give a reference.
 
 We asked them about their experience of giving references more generally, and found that they:
 
