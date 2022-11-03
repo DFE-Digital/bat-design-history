@@ -31,7 +31,7 @@ The page is based on the [Design System’s service unavailable pattern](https:/
 
 An important implementation detail is the page is standalone from our app. It does not depend on our app or assets functioning to  work. This could be important depending on what has broken about the service. It’s important the maintenance page does not depend on anything else except hosting.
 
-In our case, the html and assets are [stored in the same repo](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/service_unavailable_page) as our production codebase, but deployed separately and manually.
+In our case, the html and assets are stored in the same place as our [production codebase](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/service_unavailable_page), but deployed separately and manually.
 
 ## Keeping users up to date
 
