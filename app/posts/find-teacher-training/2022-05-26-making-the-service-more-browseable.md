@@ -72,7 +72,7 @@ When selecting the primary age group, we skipped the subject page and took users
 
 The team researched this speculative design using a concept testing approach in May 2022, with 9 candidate participants, to gather evidence to decide if investing in a design that better supports a browse experience is worthwhile. Overall, the research findings suggested this design approach could provide a better experience for candidates, especially in presenting useful information in the context of searching for providers and courses to apply to. 
 
-### Summary findings:
+### Summary findings
 
 * Candidates responded positively to the new design concepts, all navigating to the results page without issue.
 * Find is definitely a good place to present information that candidates can often miss, as candidates noted this information unprompted and found it useful or new.
