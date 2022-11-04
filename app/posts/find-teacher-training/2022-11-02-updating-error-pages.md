@@ -29,7 +29,7 @@ We updated the service unavailable pages used when:
 
 ## How it works
 
-The page not found page tells someone we cannot find the page they were trying to view. We include page navigation to allow users to recover from the error.
+The ‘Page not found’ page tells the user we cannot find the page they were trying to view. We include navigation to allow the user to continue using the service.
 
 The service unavailable pages do not include any elements which require the service to be available. This means that they do not include:
 
