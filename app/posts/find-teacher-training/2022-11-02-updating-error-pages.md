@@ -6,6 +6,8 @@ related:
   items:
     - text: Updating the error pages on Publish teacher training courses
       href: /publish-teacher-training-courses/updating-error-pages/
+    - text: Updating the service unavailable pages on Manage teacher training applications
+      href: /manage-teacher-training-applications/updating-the-service-unavailable-pages/
 screenshots:
   items:
     - text: Page not found

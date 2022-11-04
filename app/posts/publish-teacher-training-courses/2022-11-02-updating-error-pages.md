@@ -6,6 +6,8 @@ related:
   items:
     - text: Updating the error pages on Find postgraduate teacher training
       href: /find-teacher-training/updating-error-pages/
+    - text: Updating the service unavailable pages on Manage teacher training applications
+      href: /manage-teacher-training-applications/updating-the-service-unavailable-pages/
 screenshots:
   items:
     - text: Page not found - signed in
