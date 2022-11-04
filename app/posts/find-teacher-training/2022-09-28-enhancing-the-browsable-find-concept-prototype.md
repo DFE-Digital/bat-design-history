@@ -77,7 +77,7 @@ The ‘Find secondary courses’ subjects page gives the user more information a
 
 The subjects with bursaries or scholarships are split into two columns - languages on the left and STEM subjects on the right.
 
-### Results
+### Results pages
 
 #### Primary
 
