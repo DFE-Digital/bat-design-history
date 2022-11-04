@@ -57,9 +57,13 @@ For both the primary and secondary search pages, we have changed the ‘Browse b
 The ‘Browse by region’ section shows the regions from the most northerly to the most southerly, so the list is easier to scan.
 
 Below both primary and secondary ‘Search by location’ sections, we added a link to ‘Browse all courses in England’. With secondary courses, we also include the subject the user has chosen in the link. For example, ‘Browse all French courses in England’.
+
 ### Breadcrumbs
+
 We added more comprehensive breadcrumbs to both journeys to allow the user to navigate more easily.
+
 ### Captions
+
 In the previous prototype, the captions were missing. We added:
 
 - ‘Find primary courses’ to the primary ‘Search by location’ page
