@@ -70,14 +70,14 @@ When selecting the primary age group, we skipped the subject page and took users
 
 ## User research summary
 
-The team researched this speculative design using a concept testing approach in May 2022, with 9 candidate participants.  
+The team researched this speculative design using a concept testing approach in May 2022, with 9 candidate participants, to gather evidence to decide if investing in a design that better supports a browse experience is worthwhile. Overall, the research findings suggested this design approach could provide a better experience for candidates, especially in presenting useful information in the context of searching for providers and courses to apply to. 
 
-Findings summary:
+Summary findings:
 
 * Candidates responded positively to the new design concepts, all navigating to the results page without issue.
 * Find is definitely a good place to present information that candidates can often miss, as candidates noted this information unprompted and found it useful or new.
 * Most participants had spent time on Get into Teaching, but hadn’t always retained information that would help them in their search.
-* A dominant mental model is choosing a training provider, rather than choosing a course, this design approach better fits this mental model.
+* A dominant mental model for candidates is choosing a training provider, rather than choosing a course, this design approach better fits this mental model.
 * There is a need for more clarity for school-led courses and provider type, but this could reinforce existing misconceptions.
 
 ## Further work
