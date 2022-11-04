@@ -68,6 +68,18 @@ When selecting the primary age group, we skipped the subject page and took users
 
 ![Screenshot showing page titled 'Find primary teacher training courses'](primary.png "Prototype new primary courses page")
 
+## User research summary
+
+The team researched this speculative design using a concept testing approach in May 2022, with 9 candidate participants, to gather evidence to decide if investing in a design that better supports a browse experience is worthwhile. Overall, the research findings suggested this design approach could provide a better experience for candidates, especially in presenting useful information in the context of searching for providers and courses to apply to. 
+
+### Summary findings
+
+- Candidates responded positively to the new design concepts, navigating to the results page without issue.
+- Find is a good place to present information that candidates can often miss, as candidates noted this information unprompted and found it useful or new.
+- Most participants had spent time on Get Into Teaching (GIT) but hadn’t always retained information that would help them in their search.
+- A dominant mental model for candidates is choosing a training provider rather than a course. This design approach better fits this mental model.
+- There is a need for more clarity for school-led courses and provider types, but this could reinforce existing misconceptions.
+
 ## Further work
 
 If we were to take this approach forward, we should iterate the design to make the guidance about the application process more visible and faster to read.
