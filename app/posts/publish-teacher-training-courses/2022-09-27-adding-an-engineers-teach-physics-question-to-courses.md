@@ -86,5 +86,5 @@ Answering ‘Yes’ to the question ‘Is this course part of the Engineers teac
 
 In future, we will consider how to:
 
-- surface the ‘Engineers teach physics’ courses more easily on Find postgraduate teacher training
+- surface the Engineers teach physics courses more easily on Find postgraduate teacher training
 - add a link to a GOV.UK page where users can find out more about the programme
