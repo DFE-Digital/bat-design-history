@@ -33,6 +33,8 @@ We did not expand the abbreviations for sighted users as users need to be able t
 
 We have expanded the abbreviations PGCE, PGDE, and QTS used at the top of the course description page, which we used to describe the qualifications.
 
+![Course qualifications](course-description--qualifications.png)
+
 There is enough space to expand the abbreviations, which helps describe content displayed elsewhere on the page - the course details list and the course summary written by providers.
 
 We have not expanded well-known abbreviations, for example, ‘GCSE’, which we believe 80% of the UK population will understand and commonly use.
