@@ -9,9 +9,9 @@ date: 2022-06-26
 
 The recommendations which need to be followed from the 2024 to 2025 academic year onwards, include requirements for:
 
-- mentors to train take part in 20 hours of initial training and 6 hours of top-up training in subsequent years
+- mentors to train take part in 20 hours of initial training and 6 hours of top&#8209;up training in subsequent years
 - ITT providers to have lead mentors or a lead mentorship team
-- trainees to take part in ’Intensive training and practice’ sessions (4 weeks for postgraduate courses and 6 weeks for undergraduate courses)
+- trainees to take part in ‘Intensive training and practice’ sessions (4 weeks for postgraduate courses and 6 weeks for undergraduate courses)
 
 ## ITT reform funding
 
@@ -19,7 +19,7 @@ To support providers and schools in meeting the new requirements the DfE is maki
 
 For schools the funding is to help cover the cost of classroom cover while mentors train. In the 2024 to 2025 academic year, general mentors will need to complete 20&nbsp;hours of initial mentor training. In subsequent years general mentors who have completed the 20&nbsp;hours will need 6&nbsp;hours of training.
 
-<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077177/Initial_Teacher_Training__ITT__Reform_Funding_Guidance_160522.pdf" class"govuk-link" target="_blank">See full details of the ITT reform funding (PDF)</a>.
+<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077177/Initial_Teacher_Training__ITT__Reform_Funding_Guidance_160522.pdf" class="govuk-link" target="_blank">See full details of the ITT reform funding (PDF)</a>.
 
 ## Prototype
 
@@ -29,7 +29,7 @@ We plan to distribute the funding for ITT providers through DfE’s normal busin
 
 Because the general mentor training grant is available to more than 20,000&nbsp;schools and we need specific information for each claim, a digital form is necessary to collect the data.
 
-To test our questions and assumptions about how the service will work, we built a guidance page and a form (in Google forms).
+To test our questions and assumptions about how the service will work, we built a guidance page and a form (in Google formss).
 
 ### Guidance
 
@@ -37,16 +37,15 @@ To test our questions and assumptions about how the service will work, we built 
 
 ### Claim form
 
-![Google form asking user for their email address](google-form/01-email-address.png "Google form asking user for their email address")
+![Google forms asking user for their email address](google-form/01-email-address.png "Google forms asking user for their email address")
 
-![Google form asking user for the URN of their school](google-form/02-school.png "Google form asking user for the unique reference number (URN) of their school")
+![Google forms asking user for the URN of their school](google-form/02-school.png "Google forms asking user for the unique reference number (URN) of their school")
 
-![Google form asking user for number of mentors, hours of classroom cover needed, and hours of classroom cover paid for by the provider](google-form/03-mentors.png "Google form asking user for number of mentors, hours of classroom cover needed, and hours of classroom cover paid for by the provider")
+![Google forms asking user for number of mentors, hours of classroom cover needed, and hours of classroom cover paid for by the provider](google-form/03-mentors.png "Google forms asking user for number of mentors, hours of classroom cover needed, and hours of classroom cover paid for by the provider")
 
-![Google form asking user if each mentor trained at least one trainee](google-form/04-declaration.png "Google form asking user if each mentor trained at least one trainee")
+![Google forms asking user if each mentor trained at least one trainee](google-form/04-declaration.png "Google forms asking user if each mentor trained at least one trainee")
 
-![Google form 
-page showing the user confirmation the form has been completed](google-form/05-confirmation.png "Google form 
+![Google forms page showing the user confirmation the form has been completed](google-form/05-confirmation.png "Google forms 
 page showing the user confirmation the form has been completed")
 
 ### Information required for a claim
@@ -58,7 +57,7 @@ So we know who is making the claim and who to pay.
 The amount of funding available is adjusted for location. To pay the correct amount DfE will need to know where the school is.
 
 | **Location**    | **Amount** |
-|:---            :|:       ---:|
+|:---             |        ---:|
 | Inner London    |      £1072 |
 | Outer London    |       £965 |
 | Fringe          |       £902 |
@@ -111,7 +110,7 @@ Schools try to avoid using external cover where possible, so were unsure what co
 
 No participants said that the funding they got from providers was specifically for anything other than costs of hosting a trainee. No schools felt that the cost of hosting a trainee was covered fully by the providers they worked with.
 
-Most participants listed a number of communications they received from the DfE as the way they’d expect to find out about the funding. Some also mentioned that they’d expect to be notified about the funding by the providers they worked with.
+Most participants listed a number of communications they received from the DfE as the way they expect to find out about the funding. Some also mentioned that they expect to be notified about the funding by the providers they worked with.
 
 Providing the data required by the form was trivial.
 
