@@ -6,7 +6,7 @@ date: 2020-08-01
 
 {% from "email/macro.njk" import appEmail %}
 
-Publish sends notifications to accredited bodies so that they can keep student record systems up to date and in sync with UCAS. 
+Publish sends notifications to accredited bodies so that they can keep student record systems up to date and in sync with UCAS.
 
 Our [first round of notification templates](/publish-teacher-training-courses/notifications-mvp/) did not address all of their needs.
 
@@ -167,3 +167,4 @@ Regards,
 The Becoming a Teacher team"
 }) }}
 
+*[UCAS]: Universities and Colleges Admissions Service

@@ -8,14 +8,14 @@ When joining the Find or Publish teams, team members had traditionally been gran
 
 Admin permissions include access to:
 
-* all organisations
-* admin features
-* new features or sometimes features in development that are hidden behind flags
+- all organisations
+- admin features
+- new features or sometimes features in development that are hidden behind flags
 
 Viewing Publish exclusively as an administrator made it harder for the team to experience the service from the perspective of our users. For example:
 
-* with approximately 2000 providers it’s often an hard to find the appropriate organisation for testing a specific scenario
-* our users often have complex relationships across multiple organisations which we can’t visualise as an admin user
+- with approximately 2000 providers it’s often an hard to find the appropriate organisation for testing a specific scenario
+- our users often have complex relationships across multiple organisations which we can’t visualise as an admin user
 
 ## Test accounts
 
@@ -33,8 +33,8 @@ Colin is DfE support and has administrator access to all organisations.
 
 Mary is a SCITT Business Support Coordinator who belongs to:
 
-* multiple accredited bodies, Suffolk and Norfolk Primary SCITT and Suffolk and Norfolk Secondary SCITT
-* Thorpe St Andrew School and Sixth Form, a School Direct with courses accredited by Suffolk and Norfolk Secondary SCITT as well as courses accredited by an organisation not associated with either of Mary’s accredited bodies.
+- multiple accredited bodies, Suffolk and Norfolk Primary SCITT and Suffolk and Norfolk Secondary SCITT
+- Thorpe St Andrew School and Sixth Form, a School Direct with courses accredited by Suffolk and Norfolk Secondary SCITT as well as courses accredited by an organisation not associated with either of Mary’s accredited bodies.
 
 ### Susy
 
@@ -60,5 +60,5 @@ Initial research suggests users should only be able to see only courses their ac
 
 ## Next steps
 
-* we need to consider if we should put basic auth on the Personas page itself
-* further research is required into the problematic scenario which the Mary persona represents
+- we need to consider if we should put basic auth on the Personas page itself
+- further research is required into the problematic scenario which the Mary persona represents
