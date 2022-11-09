@@ -41,3 +41,5 @@ UCAS search gave each user a unique session that lasted only 5 minutes. After 5 
 This session also formed part of the URL, meaning course pages couldn’t be linked to, bookmarked or shared. Once a session had expired the course would need to be found again through search.
 
 UCAS search referred to courses as ‘training programmes’.
+
+*[UCAS]: Universities and Colleges Admissions Service

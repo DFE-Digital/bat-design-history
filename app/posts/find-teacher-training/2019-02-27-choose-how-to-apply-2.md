@@ -27,13 +27,13 @@ Following on from the [initial design](/find-teacher-training/choose-how-to-appl
 
 In this version we:
 
-* added more context to the page with a choice
-* added a ‘learn more’ disclosure to the choice page
-* expanded the journey with further Apply pages and emails
+- added more context to the page with a choice
+- added a ‘learn more’ disclosure to the choice page
+- expanded the journey with further Apply pages and emails
 
 ## User research
 
-In research users started on the Find prototype and found a course they wanted to apply to. The first time they tried to apply they saw the ‘Apply with choice’ design. After stepping through a stubbed DfE Apply journey – showing account creation, sign up emails, screenshots of the application process and a submitted screen, we returned to Find to apply to another course. The next course they found showed only the option of applying through UCAS.
+In research users started on the Find postgraduate teacher training (Find) prototype and found a course they wanted to apply to. The first time they tried to apply they saw the ‘Apply with choice’ design. After stepping through a stubbed DfE Apply journey – showing account creation, sign up emails, screenshots of the application process and a submitted screen, we returned to Find to apply to another course. The next course they found showed only the option of applying through UCAS.
 
 We tested this with 14 users.
 
@@ -41,6 +41,9 @@ We tested this with 14 users.
 
 ### Key findings
 
-For people who’ve never applied to Teacher Training, when given a choice about two application services, no users were turned away by that choice. All of them would continue to apply.
+For people who’ve never applied to teacher training, when given a choice about two application services, no users were turned away by that choice. All of them would continue to apply.
 
 For people who applied using DFE Apply, applying again through UCAS represents a pain point. We hypothesise that by sending applicants wishing to apply to many courses directly to UCAS we can reduce the risk of that pain point.
+
+*[DfE]: Department for Education
+*[UCAS]: Universities and Colleges Admissions Service

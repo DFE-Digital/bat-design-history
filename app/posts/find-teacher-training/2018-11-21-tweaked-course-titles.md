@@ -12,15 +12,17 @@ Search results must be distinct, and the differences between courses must be cle
 
 Make courses more obviously different by:
 
-* using course codes to differentiate
-* putting the course offered at the top as most common differentiator
+- using course codes to differentiate
+- putting the course offered at the top as most common differentiator
 
 Other design changes include:
 
-* Use a format where name and code match what’s in UCAS Apply
-* Make it easier to skip past a provider’s courses by separating subject and provider
-* Update each course detail page to match the formatting of the search result
-* Demote accredited provider on a course page to minimise candidate confusion around ‘accredited provider’ alluded to in research with providers
+- Use a format where name and code match what’s in UCAS Apply
+- Make it easier to skip past a provider’s courses by separating subject and provider
+- Update each course detail page to match the formatting of the search result
+- Demote accredited provider on a course page to minimise candidate confusion around ‘accredited provider’ alluded to in research with providers
 
 [Pull request](https://github.com/DFE-Digital/search-and-compare-ui/pull/286)
 [Previous examples of the problem](/publish-teacher-training-courses/what-is-a-course)
+
+*[UCAS]: University and Colleges Admissions Service

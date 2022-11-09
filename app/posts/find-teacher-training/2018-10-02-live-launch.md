@@ -36,4 +36,6 @@ screenshots:
     - text: Course not enriched
 ---
 
-On 2 October 2018 we launched the public beta of Find posgraduate teacher training to users. This included a new start page on GOV.UK and links to it from UCAS and Get Into Teaching.
+On 2 October 2018 we launched the public beta of Find postgraduate teacher training (Find) to users. This included a new start page on GOV.UK and links to it from UCAS and Get Into Teaching (GIT).
+
+*[UCAS]: Universities and Colleges Admissions Service

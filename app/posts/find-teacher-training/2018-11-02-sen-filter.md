@@ -10,7 +10,7 @@ screenshots:
       src: 02-results-with-sen-filter.png
 ---
 
-Users have struggled to find SEN courses because SEN is not listed as a subject anywhere.
+Users have struggled to find special educational needs (SEN) courses because SEN is not listed as a subject anywhere.
 
 > I’m really looking at SEN teaching, however there is no way through this search tool to specify this ([Zendesk](https://becomingateacher.zendesk.com/agent/tickets/1436))
 

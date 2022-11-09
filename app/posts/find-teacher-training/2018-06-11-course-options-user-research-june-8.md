@@ -33,16 +33,16 @@ With fewer courses to add information for it should also provide a lighter work 
 
 6 remote user research sessions recorded using Lookback:
 
-* [Participant 1](https://lookback.io/watch/kw8NGRosYvft9yM3G)
-* [Participant 2](https://lookback.io/watch/fNgMHR8TLkg3d2Kr2)
-* [Participant 3](https://lookback.io/watch/FuAzAMcbq9LcCswXv)
-* [Participant 4](https://lookback.io/watch/kH3oS3z8nAoWMsJ8B)
-* [Participant 5](https://lookback.io/watch/Z3nCygSqTdw3agSGh)
-* [Participant 6](https://lookback.io/watch/8QnFPjo5LYrFdFBdd)
+- [Participant 1](https://lookback.io/watch/kw8NGRosYvft9yM3G)
+- [Participant 2](https://lookback.io/watch/fNgMHR8TLkg3d2Kr2)
+- [Participant 3](https://lookback.io/watch/FuAzAMcbq9LcCswXv)
+- [Participant 4](https://lookback.io/watch/kH3oS3z8nAoWMsJ8B)
+- [Participant 5](https://lookback.io/watch/Z3nCygSqTdw3agSGh)
+- [Participant 6](https://lookback.io/watch/8QnFPjo5LYrFdFBdd)
 
 ## Results
 
-The UX needed to be clearer on the course listings/results page, showing the course options, but most candidates understood the meaning; there is evidence that people did navigate differently the course listing page depending on which course they would choose.
+The user experience (UX) needed to be clearer on the course listings/results page, showing the course options, but most candidates understood the meaning; there is evidence that people did navigate differently the course listing page depending on which course they would choose.
 
 The course details page ended up being long as content wasn’t as similar across variants as we once thought. At the apply point people understood that there were options and some even would click both to compare.
 

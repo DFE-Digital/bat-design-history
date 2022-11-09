@@ -22,10 +22,12 @@ screenshots:
 
 Improvements to the [minimum viable service](/find-teacher-training/all-courses-minimum) include:
 
-* separating and classifying UCAS course subjects
-* tweaked distance copy in search results
-* added ‘address’ to location field in results
-* removed the sort by controls above search results
-* changed ‘at’ to ‘with’ in search results
-* highlighted course website on course details view
-* changed schools you can apply to, to ‘places’
+- separating and classifying UCAS course subjects
+- tweaked distance copy in search results
+- added ‘address’ to location field in results
+- removed the sort by controls above search results
+- changed ‘at’ to ‘with’ in search results
+- highlighted course website on course details view
+- changed schools you can apply to, to ‘places’
+
+*[UCAS]: Universities and Colleges Admissions Service

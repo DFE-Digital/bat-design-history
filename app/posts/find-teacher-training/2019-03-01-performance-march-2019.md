@@ -4,7 +4,7 @@ description: We’re 6 months into this year’s recruitment cycle and, for the 
 date: 2019-03-01
 ---
 
-We’re 6 months into this year’s recruitment cycle and, for the first time, the Department has data on how candidates are searching for courses.
+We’re 6 months into this year’s recruitment cycle and, for the first time, the Department for Education (DfE) has data on how candidates are searching for courses.
 
 Over the past 6 months the team have been iterating the product, transitioning with UCAS and developing analytics for the service.
 
@@ -12,14 +12,14 @@ Following recent product developments, and a push to find out more about the new
 
 At a high level, we’re looking at 3 objectives:
 
-* we want people to use our service
-* we want people engaging with the service in the way we’ve intended
-* we want people to feel like they’re ready to go on and apply once they’ve used our service.
+- we want people to use our service
+- we want people engaging with the service in the way we’ve intended
+- we want people to feel like they’re ready to go on and apply once they’ve used our service.
 
-For the first iteration of this report, we’ll use the following structure to outline how we’re measuring against these objectives and what sort of performance we’re seeing. The Service overview will focus on service usage and general user behaviour, our success measures will cover two-parts:
+For the first iteration of this report, we’ll use the following structure to outline how we’re measuring against these objectives and what sort of performance we’re seeing. The service overview will focus on service usage and general user behaviour, our success measures will cover two-parts:
 
-* the percentage of users who have experienced a successful journey
-* those that convert from Find to UCAS registration.
+- the percentage of users who have experienced a successful journey
+- those that convert from Find postgraduate teacher training (Find) to UCAS registration.
 
 You can [see the live report in our dashboard](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt).
 
@@ -45,8 +45,8 @@ The average user who finds a course page will visit at least 4 pages on the serv
 
 A successful journey is defined as, a user who:
 
-* visits at least one course details page, or
-* clicks through to any external link on the service (eg Get Into Teaching or UCAS Apply)
+- visits at least one course details page, or
+- clicks through to any external link on the service (eg Get Into Teaching or UCAS Apply)
 
 Since the launch of our service, the site has seen 116,665 users complete a successful journey. This makes up 37.2% of our total user base. On average, a ‘successful’ user will visit ~9 pages per session, spending 9 minutes and 56 seconds on the service. This is around 2x the time spent by your average user, visiting 3 more pages per session.
 
@@ -75,3 +75,5 @@ From our usage reports and success measures, we’re getting a sense of what we 
 In future weeks, we’ll start reporting on some of the more behavioural trends coming out of our analytics. This should start to give you some insight, not only into whether users are successful in their journey, but also how they navigate the service. For example, where they are looking to train, in which subjects and at what pace.
 
 In the meantime, feel free to [keep an eye on our dashboards](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt) and start familiarising yourself with some of the ways we’re looking at service performance.
+
+*[UCAS]: Universities and Colleges Admissions Service

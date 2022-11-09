@@ -17,3 +17,5 @@ When there is a catastrophic failure with Find and the team’s not around to pa
 Below are designs for what this static failover might look like.
 
 [Trello](https://trello.com/c/3HzliBXo/705-design-static-failover-for-find)
+
+*[DNS]: Domain Name Service

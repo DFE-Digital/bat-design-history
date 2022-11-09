@@ -13,9 +13,9 @@ screenshots:
 
 An iteration on the [first pass](/find-teacher-training/experimental-map/) of putting search results on a full-width map. This design adds:
 
-* training locations with a black dot
-* different map windows for training locations (the prototype lacks the name of a place so "School or campus" is used as a placeholder)
-* radius circles to indicate distance
+- training locations with a black dot
+- different map windows for training locations (the prototype lacks the name of a place so "School or campus" is used as a placeholder)
+- radius circles to indicate distance
 
 ## User research
 
@@ -23,16 +23,16 @@ We tested this design alongside the [original map](/find-teacher-training/map-or
 
 [Initial findings are on confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/615219275/First+round+on+location).
 
-* [Participant 1](https://lookback.io/watch/AprAGdLxxz9FdxGLJ)
-* [Participant 2](https://lookback.io/watch/u9cZaEQQRZGDofaKP)
-* [Participant 3](https://lookback.io/watch/ASAKdsr783jwsPMxh) ([part 2](https://lookback.io/watch/E9934fSeb3Zu5ubP4))
-* [Participant 4](https://lookback.io/watch/SQSacPWpZoagWWb7y) ([part 2](https://lookback.io/watch/Z7hgQ6xFz5fxBjw48))
-* [Participant 5](https://lookback.io/watch/GiTRz4TGGFdkWrQAy)
-* [Participant 6](https://lookback.io/watch/6fpoe9h3RPnvRxAti)
-* [Participant 7](https://lookback.io/watch/FCQB8Q5DTjkDAD44w) ([part 2](https://lookback.io/watch/MhCQ6R6gRASHmxxuX))
-* [Participant 8](https://lookback.io/watch/ZJAPjZSHPkKiDiNXk) ([part 2](https://lookback.io/watch/mgtvefiPnJvgREmih), [part 3](https://lookback.io/watch/eXcRdhFDjFx8H8rXP))
-* [Participant 9](https://lookback.io/watch/aMhWcCjxknPF69zsy)
-* [Participant 10](https://lookback.io/watch/JXJFEQMvzDBk8HH32)
+- [Participant 1](https://lookback.io/watch/AprAGdLxxz9FdxGLJ)
+- [Participant 2](https://lookback.io/watch/u9cZaEQQRZGDofaKP)
+- [Participant 3](https://lookback.io/watch/ASAKdsr783jwsPMxh) ([part 2](https://lookback.io/watch/E9934fSeb3Zu5ubP4))
+- [Participant 4](https://lookback.io/watch/SQSacPWpZoagWWb7y) ([part 2](https://lookback.io/watch/Z7hgQ6xFz5fxBjw48))
+- [Participant 5](https://lookback.io/watch/GiTRz4TGGFdkWrQAy)
+- [Participant 6](https://lookback.io/watch/6fpoe9h3RPnvRxAti)
+- [Participant 7](https://lookback.io/watch/FCQB8Q5DTjkDAD44w) ([part 2](https://lookback.io/watch/MhCQ6R6gRASHmxxuX))
+- [Participant 8](https://lookback.io/watch/ZJAPjZSHPkKiDiNXk) ([part 2](https://lookback.io/watch/mgtvefiPnJvgREmih), [part 3](https://lookback.io/watch/eXcRdhFDjFx8H8rXP))
+- [Participant 9](https://lookback.io/watch/aMhWcCjxknPF69zsy)
+- [Participant 10](https://lookback.io/watch/JXJFEQMvzDBk8HH32)
 
 There is a general positive response on seeing the map. We need to consider using these results as the default, if we can fix the issues found.
 
