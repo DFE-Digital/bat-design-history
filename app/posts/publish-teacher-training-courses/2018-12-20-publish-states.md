@@ -11,8 +11,8 @@ You could write and publish content for new courses on Publish, they’d be labe
 
 ## User research
 
-* [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
-* [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
+- [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
+- [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
 
 ![Screenshot of courses quiz.](courses-quiz.png)
 
@@ -22,9 +22,9 @@ We tested this courses quiz with users to see if they understood each state give
 
 Changes in this design:
 
-* replaced Last published column with an ‘Is it on Find?’ column, to be explicit
-* removed view on website link, making the Find status the link itself
-* changed the ‘Draft #2’ state to be clear that it is published and on Find, the concept of ‘second edition’ isn’t needed yet
+- replaced Last published column with an ‘Is it on Find?’ column, to be explicit
+- removed view on website link, making the Find status the link itself
+- changed the ‘Draft #2’ state to be clear that it is published and on Find, the concept of ‘second edition’ isn’t needed yet
 
 This is the design we tested in the quiz with users.
 
@@ -70,7 +70,7 @@ This is the design we tested in the quiz with users.
       </td>
       <td class="govuk-table__cell nowrap">
         <span class="govuk-tag app-tag-published">Published&nbsp;*</span><br>
-        <span class="govuk-body-s">* Unpublished changes</span>
+        <span class="govuk-body-s">- Unpublished changes</span>
       </td>
       <td class="govuk-table__cell nowrap">
         <a href="#">Yes – view online</a>
@@ -149,9 +149,9 @@ This is the design we tested in the quiz with users.
 
 Problems identified with this design in peer review, before user research:
 
-* ‘View on website’ is not a clear enough indicator that the course is on Find
-* ‘Draft #2’ was universally misunderstood – it’s live but has unpublished changes, people thought it was not live
-* The last published column wasn’t useful
+- ‘View on website’ is not a clear enough indicator that the course is on Find
+- ‘Draft #2’ was universally misunderstood – it’s live but has unpublished changes, people thought it was not live
+- The last published column wasn’t useful
 
 <table class="govuk-table ucas-info-table">
   <thead class="govuk-table__head">

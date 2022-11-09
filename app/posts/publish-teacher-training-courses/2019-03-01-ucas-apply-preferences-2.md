@@ -25,8 +25,8 @@ This design creates forms for editing those two preferences and puts a link to e
 
 Only provide options for the two commonly used letters:
 
-* Applicants must confirm their place (GT12B)
-* Applicants don’t need to respond (GT12)
+- Applicants must confirm their place (GT12B)
+- Applicants don’t need to respond (GT12)
 
 The last two combined account for [5% of providers](/publish-teacher-training-courses/ucas-apply-preferences#gt12).
 

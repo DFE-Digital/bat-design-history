@@ -82,11 +82,11 @@ From 3 July, we’ll duplicate all your current content (for 2020 – 2021) in P
 
 From 6 July, when you sign in to Publish you’ll see a new section titled ‘Next cycle (2021 – 2022)’. In this section, you should:
 
-* add any new courses you’re running for the first time in 2021 – 2022
-* fact-check your rolled over courses (paying attention to any details that might change for the new academic year)
-* delete any courses you’re no longer running
-* check formatting (eg bullet pointed lists, hyperlinks and paragraph breaks)
-* make sure your course locations are correct, and add any new ones
+- add any new courses you’re running for the first time in 2021 – 2022
+- fact-check your rolled over courses (paying attention to any details that might change for the new academic year)
+- delete any courses you’re no longer running
+- check formatting (eg bullet pointed lists, hyperlinks and paragraph breaks)
+- make sure your course locations are correct, and add any new ones
 
 Once you’ve checked and edited your courses, you can line them up for publication by clicking the green ‘Publish in October’ button (you can still make further changes to them after doing this). Your courses will then appear on Find in early October when the new cycle opens.
 
@@ -124,15 +124,15 @@ When you sign in to Publish, you’ll see a new section titled ‘Next cycle (20
 
 In this section, you should:
 
-* check any courses you want to run again in 2021/22, to make sure their details are correct for the new academic year
-* add any new courses that you’re running for the first time in 2021/22
-* check your course locations and add any new ones
+- check any courses you want to run again in 2021/22, to make sure their details are correct for the new academic year
+- add any new courses that you’re running for the first time in 2021/22
+- check your course locations and add any new ones
 
 We’d encourage you to pay particular attention to the formatting on your course pages. You should:
 
-* click on any links to make sure they’re still working
-* check that bulleted lists are displaying correctly
-* insert paragraph breaks into long pieces of text, to make them easier to read
+- click on any links to make sure they’re still working
+- check that bulleted lists are displaying correctly
+- insert paragraph breaks into long pieces of text, to make them easier to read
 
 This is also a good time to review and improve the copy on your pages. Guidance and tips are available in Publish to help you with this – you’ll find these at the head of each of the free-text boxes (eg ‘About this course’, ‘Interview process’ and ‘How school placements work’).
 

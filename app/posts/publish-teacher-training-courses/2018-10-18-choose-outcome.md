@@ -11,8 +11,8 @@ screenshots:
 
 We currently infer the outcome with a mapping from UCAS data:
 
-* qts: QTS
-* postgraduate or professional (with or without QTS selected): PGCE with QTS
+- qts: QTS
+- postgraduate or professional (with or without QTS selected): PGCE with QTS
 
 Additionally, if one of the subjects is ‘further education’ we give it the outcome of PGCE only.
 

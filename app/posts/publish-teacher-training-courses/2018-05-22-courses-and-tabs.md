@@ -20,9 +20,9 @@ screenshots:
 
         Should the page be paginated?
 
-        * 30% of providers have only 1 or 2 courses
-        * 85% of providers have 20 or fewer courses
-        * 10% of providers have 50-100 courses
+        - 30% of providers have only 1 or 2 courses
+        - 85% of providers have 20 or fewer courses
+        - 10% of providers have 50-100 courses
 
         We will classify some of these as variants of the same course, so numbers will be less. Some courses from School Direct schools may be bundled up into courses by the overall provider, so the number may increase. The net ought to be similar.
 

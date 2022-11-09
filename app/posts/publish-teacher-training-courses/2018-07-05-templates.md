@@ -21,19 +21,19 @@ screenshots:
 
         Users followed our guidance and experimented with template names similar to the one suggested. Names used were:
 
-        * Secondary PGCE courses
-        * Primary PGCE courses
-        * Tuition fee
-        * Secondary PGCE information
-        * Secondary PGCE - core
-        * History Secondary PGCE course
-        * Secondary French PGCE
-        * Primary Non-Salaried
-        * English
-        * Secondary PGCE (M) QTS
-        * Secondary St Marys Unsalaried
-        * SCITT
-        * Darrick Wood SDS (SDS means ‘school direct salaried’)
+        - Secondary PGCE courses
+        - Primary PGCE courses
+        - Tuition fee
+        - Secondary PGCE information
+        - Secondary PGCE - core
+        - History Secondary PGCE course
+        - Secondary French PGCE
+        - Primary Non-Salaried
+        - English
+        - Secondary PGCE (M) QTS
+        - Secondary St Marys Unsalaried
+        - SCITT
+        - Darrick Wood SDS (SDS means ‘school direct salaried’)
     - text: Template
       caption: |
         A template looks the same as a course. It can be edited in parts and previewed.
@@ -51,8 +51,8 @@ screenshots:
       caption: |
         A template preview needs to indicate:
 
-        * that it’s a template
-        * which bits will vary by course
+        - that it’s a template
+        - which bits will vary by course
 
         Hypothesis: There might be a need to indicate where each field can be edited.
 
