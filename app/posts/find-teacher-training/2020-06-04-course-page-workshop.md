@@ -43,8 +43,8 @@ So that I don’t waste a choice on a course I won’t be successful in.
 
 > Use structured data to capture provider’s requirements for a course, for example:
 >
-> * You only need legal minimum
-> * You must have X degree grade
+> - You only need legal minimum
+> - You must have X degree grade
 
 **As a potential candidate**
 I need to know the requirements a provider has before I apply
@@ -66,10 +66,10 @@ So that I can estimate my commute time.
 >
 > Use structured data to collect time spent in different locations, for example:
 >
-> * 1 day per week at Uni
-> * 5 weeks at Uni
-> * 2 weeks at first placement school
-> * 6 weeks in each placement school
+> - 1 day per week at Uni
+> - 5 weeks at Uni
+> - 2 weeks at first placement school
+> - 6 weeks in each placement school
 
 **As a candidate who wants to find a course to become a teacher**
 I need to have specific information about the course
@@ -77,10 +77,10 @@ So that I can understand if it’s the right course for me.
 
 > Add specific information about:
 >
-> * Where - Location - Where I’m going to be based and for how long
-> * When - Time - for how many days
-> * What - To do what - what I’m going to do and why?
-> * Who - Tutors / mentors / support available
+> - Where - Location - Where I’m going to be based and for how long
+> - When - Time - for how many days
+> - What - To do what - what I’m going to do and why?
+> - Who - Tutors / mentors / support available
 
 **As a candidate**
 I need to know if there are course vacancies or low on vacancies
