@@ -29,9 +29,9 @@ Accredited bodies were asked to provide feedback on notifications initiated by t
 
 ## Who we tested with
 
-* UCL
-* Middlesex University
-* University of Bedfordshire
+- UCL, University Collge London
+- Middlesex University
+- University of Bedfordshire
 
 ## What we learned
 

@@ -17,19 +17,19 @@ tags:
 
 We were interested in learning more about users who belong to multiple organisations.
 
-* Do they have unique needs?
-* Is there a need for access and permission levels across the organisations they belong to?
-* What are their notification needs?
+- Do they have unique needs?
+- Is there a need for access and permission levels across the organisations they belong to?
+- What are their notification needs?
 
 ## Who we talked to
 
-* TKAT SCITT
-* Kirklees and Calderdale SCITT
-* Suffolk and Norfolk Secondary SCITT
-* Essex Teacher Training
-* Associated Merseyside Partnership SCITT
-* Essex and Thames SCITT
-* University of East Anglia
+- TKAT SCITT
+- Kirklees and Calderdale SCITT
+- Suffolk and Norfolk Secondary SCITT
+- Essex Teacher Training
+- Associated Merseyside Partnership SCITT
+- Essex and Thames SCITT
+- University of East Anglia
 
 ## Who are multi-organisation users?
 
@@ -131,8 +131,8 @@ Users who are responsible for managing their training providers courses.
 
 A SCITT’s ITT administrator manages:
 
-* the courses provided by the SCITT
-* all the courses provided by their training providers (for which the SCITT is the accredited body)
+- the courses provided by the SCITT
+- all the courses provided by their training providers (for which the SCITT is the accredited body)
 
 > I have very very good communication with our schools... so once I know what schools can advertise, what subject... then I will put all in Publish, and I open them, close them, I manage them, the school doesn’t, I oversee it all, the schools don’t have any input at all, obviously they tell me what they want to advertise, but I update the system.
 
@@ -142,8 +142,8 @@ A SCITT’s ITT administrator manages:
 
 A SCITT’s ITT administrator manages:
 
-* the courses provided by the SCITT
-* the courses provided by only some of their training providers
+- the courses provided by the SCITT
+- the courses provided by only some of their training providers
 
 > ...it depends whether the schools are wanting to do this themselves because some schools don’t have admin support, so it’s teachers running it and they don’t have the admin time to do this section, we do that for them.
 
@@ -218,3 +218,6 @@ One participant mentioned their involvement with the Apply trial and queried acc
 {{ appUserNeeds({ items: collections['user-need'] | slugs('PN012')}) }}
 
 > I would increase the copy facility so that you can copy between lead schools as well. So if I've got an identical course running out five different schools I've not got to, I can just copy it from one lead school to another.
+
+*[ITT]: Initial Teacher Training
+*[SCITT]: School Centred Initial Teacher Training

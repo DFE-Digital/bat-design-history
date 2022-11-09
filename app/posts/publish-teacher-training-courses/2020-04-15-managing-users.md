@@ -20,7 +20,7 @@ tags:
   - PN008
 ---
 
-This work closely follows [user management patterns](/manage-teacher-training-applications/adding-users) from the Apply service. There is an assumption that Publish and Apply have common users. Maintaining consistent UI supports the intention to provide a consistent experience across Find and Apply.
+This work closely follows [user management patterns](/manage-teacher-training-applications/adding-users) from the Apply for teacher training (Apply) service. There is an assumption that Publish teacher training courses (Publish) and Apply have common users. Maintaining consistent user interface (UI) supports the intention to provide a consistent experience across Find and Apply.
 
 ## User needs
 
@@ -47,11 +47,11 @@ If we move links that are to do with user management and account preferences to 
 
 ## Who we tested with
 
-* Middlesex University
-* Nottinghamshire TORCH SCITT
-* Prince Henry's High School & South Worcestershire SCITT
-* University of Bedfordshire
-* University College London
+- Middlesex University
+- Nottinghamshire TORCH SCITT
+- Prince Henry's High School & South Worcestershire SCITT
+- University of Bedfordshire
+- University College London
 
 ## Research feedback
 
@@ -63,8 +63,8 @@ Many participants expressed concerns about the level of access a user may have w
 
 Questions were asked about who has the rights to perform certain tasks.
 
-* Who has the ability to delete courses?
-* Who has the ability to delete users?
+- Who has the ability to delete courses?
+- Who has the ability to delete users?
 
 > “Not all users should be able to delete other users…”
 
@@ -72,6 +72,8 @@ A participant requested ‘manager’ and ‘administrator’ roles and mentione
 
 Concern over the approval process was also expressed.
 
-* Who approves the new account?
-* On what grounds is approval determined?
-* How long does it take?
+- Who approves the new account?
+- On what grounds is approval determined?
+- How long does it take?
+
+*[SCITT]: School Centred Initial Teacher Training
