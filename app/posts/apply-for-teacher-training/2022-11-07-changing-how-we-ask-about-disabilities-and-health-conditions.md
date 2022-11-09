@@ -44,13 +44,13 @@ We reviewed the content for each of the options, with the aim to front-load the 
 
 ## Alternatives we considered
 
-The Higher Education Statistics Authority has some [guidance on collecting type of disability for initial teacher training] which includes suggested question wording from [Advance HE](https://www.advance-he.ac.uk). Their suggestion is to include a lengthy explanation of disability as defined in the Equality Act 2010, and then to ask this question:
+The Higher Education Statistics Authority has some [guidance on collecting type of disability for initial teacher training](https://www.hesa.ac.uk/collection/c22053/e/disable) which includes suggested question wording from [Advance HE](https://www.advance-he.ac.uk). Their suggestion is to include a lengthy explanation of disability as defined in the Equality Act 2010, and then to ask this question:
 
 > Considering the above, do you have an impairment, health condition or learning difference that has substantial and long-term impact on your ability to carry out normal day-to-day activities?
 
 We considered that this was too much of a cognitive burden on candidates, particularly at the application stage of the process.
 
-The [equality information pattern] in the GOV.UK Design System asks an initial question of ‘Do you have any physical or mental health conditions or illness lasting or expected to last 12 months or more?’ and then a follow-up question of ‘Do any of your conditions or illnesses reduce your ability to carry out day to day activities?’. This pattern does not include a list of disability or health conditions.
+The [equality information pattern](https://design-system.service.gov.uk/patterns/equality-information/) in the GOV.UK Design System asks an initial question of ‘Do you have any physical or mental health conditions or illness lasting or expected to last 12 months or more?’ and then a follow-up question of ‘Do any of your conditions or illnesses reduce your ability to carry out day to day activities?’. This pattern does not include a list of disability or health conditions.
 
 ## Initial results
 
