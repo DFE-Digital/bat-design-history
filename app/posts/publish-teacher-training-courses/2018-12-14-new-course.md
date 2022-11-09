@@ -26,28 +26,28 @@ These titles are largely inline with existing course titles.
 
 For most courses the title will be the subject:
 
-* Mathematics
-* Primary with mathematics
-* Biology
+- Mathematics
+- Primary with mathematics
+- Biology
 
 For modern languages the languages are appended to the title:
 
-* Modern languages (French and German)
-* Modern languages (French, German, Spanish)
-* Modern languages (French)
+- Modern languages (French and German)
+- Modern languages (French, German, Spanish)
+- Modern languages (French)
 
 If the course is marked as a special educational needs one, it’s appended to the title:
 
-* Mathematics (Special educational needs)
-* Primary with mathematics (Special educational needs)
-* Biology (Special educational needs)
+- Mathematics (Special educational needs)
+- Primary with mathematics (Special educational needs)
+- Biology (Special educational needs)
 
 ## Missing from this design
 
-* Training location assignment
-* Course start month
-* Applications open date
-* Apply eligibility settings
+- Training location assignment
+- Course start month
+- Applications open date
+- Apply eligibility settings
 
 ## User research
 
@@ -56,3 +56,5 @@ If the course is marked as a special educational needs one, it’s appended to t
 ## New course workflow
 
 ![New course workflow](/publish-teacher-training-courses/new-course/workflow.png)
+
+*[UCAS]: Universities and Colleges Admissions Service

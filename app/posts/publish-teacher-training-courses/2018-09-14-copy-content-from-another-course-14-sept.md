@@ -18,8 +18,8 @@ Because of its position in the right hand column it’s too easily missed by use
 
 This design aims to make the feature more discoverable by:
 
-* putting the form on each section of the course overview (behind a disclosure)
-* moving the form from the right to below the title, in the main flow of the document (also behind a disclosure)
+- putting the form on each section of the course overview (behind a disclosure)
+- moving the form from the right to below the title, in the main flow of the document (also behind a disclosure)
 
 There are subtle differences in the copy for the two pages.
 
@@ -27,7 +27,9 @@ There are subtle differences in the copy for the two pages.
 
 Notes on implementation:
 
-* the disclosure must have unique but hidden text for screenreaders (like the edit links)
-* when the form is submitted the behaviour is the same, eg the ‘About this course’ page is loaded with [the orange prompt](/publish-teacher-training-courses/copy-content-from-another-course-live#copying-content-on-about-this-course)
+- the disclosure must have unique but hidden text for screenreaders (like the edit links)
+- when the form is submitted the behaviour is the same, eg the ‘About this course’ page is loaded with [the orange prompt](/publish-teacher-training-courses/copy-content-from-another-course-live#copying-content-on-about-this-course)
 
 The disclosure is placed below the empty sections. It might be better above them as the primary action, this might draw attention away from the edit link. We’ll need to test this positioning and iterate.
+
+*[MVP]: Minimum Viable Product

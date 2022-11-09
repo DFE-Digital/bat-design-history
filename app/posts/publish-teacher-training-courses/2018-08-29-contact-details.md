@@ -63,8 +63,8 @@ A website fails validation if it is not a valid URL.
 
 After a website is entered we must:
 
-* convert it to lowercase
-* prepend \`http://\` if there is no protocol
+- convert it to lowercase
+- prepend \`http://\` if there is no protocol
 
 We need training providers to deep link to the page on their website that lists their courses. Some of the URLs we will import already do this. A top-level URL can make it hard to find the information needed – a school website doesn’t prioritise their ITT content, a university equally prioritises other types of course and facilities.
 
@@ -77,3 +77,5 @@ The first line of the address, town or city, county and postcode are required fi
 Applicants can use the postcode to quickly lookup directions. The county along with the town or city is a quick indicator of where an address is.
 
 If we have problems with these fields being required we can loosen the rules.
+
+*[UCAS]: Universities and Colleges Admissions Service

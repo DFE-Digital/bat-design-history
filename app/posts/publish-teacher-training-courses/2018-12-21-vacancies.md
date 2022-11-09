@@ -22,10 +22,10 @@ We don’t know how providers use vacancies yet. This design assumes that closin
 
 The design for editing vacancies must account for the following scenarios:
 
-* a course with one training location
-* a part time or full time course with one training location
-* a course with many training locations
-* a part time or full time course with many training locations
+- a course with one training location
+- a part time or full time course with one training location
+- a course with many training locations
+- a part time or full time course with many training locations
 
 Vacancies could sit within a course, alongside the enrichment fields, or separate to it. If vacancies were alongside enrichment then either; vacancies would need to be published after editing; or vacancies would behave differently to the other form. For this reason vacancies has been put elsewhere, and the design tries to make it clear that these changes will be immediate.
 
@@ -35,5 +35,7 @@ We found that putting vacancies in the Courses table worked well – all partici
 
 When we tried removing the message about the UCAS Apply delay it wasn’t clear to users that this would affect UCAS Apply.
 
-* [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
-* [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
+- [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
+- [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
+
+*[UCAS]: Universities and Colleges Admissions Service

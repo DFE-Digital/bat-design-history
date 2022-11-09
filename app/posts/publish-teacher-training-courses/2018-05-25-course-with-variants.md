@@ -31,10 +31,10 @@ Based on UCAS course descriptions it’s often unclear how courses vary between 
 
 Providers set up courses with the following qualifications in UCAS:
 
-* QTS, Postgraduate, Professional: 4661 courses
-* QTS, Postgraduate: 3919 courses
-* QTS: 3098 courses
-* QTS, Professional: 95 courses
+- QTS, Postgraduate, Professional: 4661 courses
+- QTS, Postgraduate: 3919 courses
+- QTS: 3098 courses
+- QTS, Professional: 95 courses
 
 Some providers have separate courses for their QTS and PGCE variants. We’ve seen examples of QTS only courses in UCAS that do actually offer a PGCE, the qualification isn’t set up correctly in UCAS. We don’t know the extent of this problem.
 
@@ -48,13 +48,19 @@ Salaried courses have their own course and are defined by their route:
 
 Routes:
 
-* School Direct: 7033
-* School Direct (salaried): 1910
-* SCITT: 1603
-* Higher Education: 1235
+- School Direct: 7033
+- School Direct (salaried): 1910
+- SCITT: 1603
+- Higher Education: 1235
 
 ## Schools
 
 Schools (campus/location in UCAS) will be imported with the course and associated with the training provider.
 
 We may want each school to have its own information: description, address and type. When a candidate can express a preference for a school, this information can be shown on the course page to aid their decision making.
+
+*[PGCE]: Postgraduate Certificate in Education
+*[QTS]: Qualified Teacher Status
+*[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training
+*[UCAS]: Universities and Colleges Admissions Service

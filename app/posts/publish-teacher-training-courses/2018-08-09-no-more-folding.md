@@ -74,3 +74,8 @@ The benefit of folding on search results that we saw with applicants can be achi
 Rather than 1 result linking to a page with all variants, instead group a provider’s courses in the search results. A group will have multiple links to each variant – allowing for a cursory comparison, while the group itself can be easily skipped past.
 
 We’re [tracking grouping on the story map](https://trello.com/c/jQftifYl/44-group-listings-to-make-results-easier-to-scan) and consider it outside of the minimum viable service.
+
+*[PGCE]: Postgraduate Certificate in Education
+*[PGDE]: Postgraduate Diploma in Education
+*[QTS]: Qualified Teacher Status
+*[UCAS]: Universities and Colleges Admissions Service

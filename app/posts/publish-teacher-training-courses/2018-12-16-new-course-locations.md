@@ -18,3 +18,5 @@ Providers might want to add locations at this stage, if this need arises we’ll
 UCAS models full time and part time on the training location. If a course is full time, all training locations can be marked as full time. Similarly with part time. But if ‘full time or part time’ is selected, then we don’t know which training locations offer the full time places and which offer the part time ones.
 
 On the training locations list, if ‘full time or part time’ is chosen, then for each selected location we ask for more detail.
+
+*[UCAS]: Universities and Colleges Admissions Service

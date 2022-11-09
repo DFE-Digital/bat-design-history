@@ -4,10 +4,10 @@ description: Work to define our definition of a course.
 date: 2018-05-24
 ---
 
-* [Slide deck](https://docs.google.com/presentation/d/1QgjOu_xpzZGDP_ylMIKzDL8CgW1TvtVKICb0P8YiTWQ/edit?usp=sharing)
-* [BATSA-287](https://dfedigital.atlassian.net/browse/BATSA-287)
-* [Initial UCAS analysis](https://docs.google.com/document/d/1mhfEWuCosHZYPAsJkrYnFUHfule8mLrA9yMpTXg4Gco/edit?usp=sharing)
-* [Hypotheses by Ray Khan](https://docs.google.com/document/d/1AoXjU4hh56ql_YgS1NonMvT60laBtNx_vW7TiIo14vE/edit?usp=sharing)
+- [Slide deck](https://docs.google.com/presentation/d/1QgjOu_xpzZGDP_ylMIKzDL8CgW1TvtVKICb0P8YiTWQ/edit?usp=sharing)
+- [BATSA-287](https://dfedigital.atlassian.net/browse/BATSA-287)
+- [Initial UCAS analysis](https://docs.google.com/document/d/1mhfEWuCosHZYPAsJkrYnFUHfule8mLrA9yMpTXg4Gco/edit?usp=sharing)
+- [Hypotheses by Ray Khan](https://docs.google.com/document/d/1AoXjU4hh56ql_YgS1NonMvT60laBtNx_vW7TiIo14vE/edit?usp=sharing)
 
 ## Why are we questioning this?
 
@@ -29,10 +29,10 @@ What will training providers manage?
 
 What’s the difference between:
 
-* A full time course vs a part time one
-* A course from the same provider, for the same subject but with a different accrediting provider
-* A course with a salary vs one without
-* A course offering a PGCE with QTS vs one with only a QTS
+- A full time course vs a part time one
+- A course from the same provider, for the same subject but with a different accrediting provider
+- A course with a salary vs one without
+- A course offering a PGCE with QTS vs one with only a QTS
 
 ## Examples of the problem
 
@@ -64,9 +64,9 @@ A \[subject\] and a \[training provider\].
 
 For example:
 
-* Chemistry at UCL
-* Chemistry at Calthorpe Park Fleet
-* Chemistry at University of Sussex
+- Chemistry at UCL, University College London
+- Chemistry at Calthorpe Park Fleet
+- Chemistry at University of Sussex
 
 It’s a decision about what to study and who delivers the training.
 
@@ -99,3 +99,7 @@ We need to validate and iterate them with users and training providers.
 We will use our course definition to create the data models and user interface for managing courses.
 
 This will inform iterations to our candidate course page.
+
+*[PGCE]: Postgraduate Certificate in Education
+*[QTS]: Qualified Teacher Status
+*[UCAS]: Universities and Colleges Admissions Service

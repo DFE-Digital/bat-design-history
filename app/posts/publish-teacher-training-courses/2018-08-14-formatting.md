@@ -58,3 +58,8 @@ Simple MDE (markdown editor) is a frontend library that enhances textareas to ma
 We can restrict features down to paragraphs, lists and links only. The library also provides an inline preview of how the markdown will render.
 
 We’ll test how this library performs out of the box in user research.
+
+*[HMTL]: Hyper Text Markup Language
+*[MDE]: Markdown Editor
+*[URL]: Universal Resource Locator
+*[URLs]: Universal Resource Locators

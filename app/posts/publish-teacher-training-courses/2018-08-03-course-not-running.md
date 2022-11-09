@@ -15,13 +15,13 @@ An iteration on the [first UCAS course status design](/publish-teacher-training-
 
 ## Separating out UCAS status
 
-The UCAS statuses are per location, not per course. Instead of repeating those statuses give an indicatication of the affect of those statuses on the course. State whether a course is running, not running, or not running because it is new.
+The UCAS statuses are per location, not per course. Instead of repeating those statuses give an indication of the affect of those statuses on the course. State whether a course is running, not running, or not running because it is new.
 
 Courses can have 1 of 3 statuses:
 
-* Running - the course is published and applicants can see it on search
-* Not running – the course is not published, it can’t be found on search
-* New - not yet running – the course is not published yet because it hasn’t been set to publish on UCAS
+- Running - the course is published and applicants can see it on search
+- Not running – the course is not published, it can’t be found on search
+- New - not yet running – the course is not published yet because it hasn’t been set to publish on UCAS
 
 ## Resolving course status from training location statuses
 
@@ -38,3 +38,5 @@ We hypothesise that a user needs to know the difference between a course that is
 Courses that aren’t running can’t be edited. The fields and publish actions do not show.
 
 [Trello ticket](https://trello.com/c/BOvg2Duh/46-design-workflow-for-courses-that-are-not-published-because-of-their-ucas-status)
+
+*[UCAS]: Universities and Colleges Admissions Service

@@ -25,4 +25,4 @@ screenshots:
 
 The full journey from admin screens to a user completing sign up.
 
-The invite email and the subsequent sign-in complete page provided by DfE Sign-in do not set up context and they leave users at a dead end. There is no easy route from DfE Sign in to ‘Publish teacher training courses’. Users reaching a dead end has been observed during onboarding of the first users.
+The invite email and the subsequent sign-in complete page provided by DfE Sign-in do not set up context and they leave users at a dead end. There is no easy route from DfE Sign in to ‘Publish teacher training courses’ (Publish). Users reaching a dead end has been observed during onboarding of the first users.

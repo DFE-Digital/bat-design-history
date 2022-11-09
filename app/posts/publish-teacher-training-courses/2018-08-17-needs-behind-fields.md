@@ -6,9 +6,9 @@ date: 2018-08-17
 
 Courses are divided across 3 parts to make them easier to complete:
 
-* About this course
-* Course length, fees and salary
-* Requirements
+- About this course
+- Course length, fees and salary
+- Requirements
 
 This information is combined with details about the training provider which is shared across all of their courses.
 
@@ -127,3 +127,8 @@ Applicants with access needs need to know how a provider can accommodate those n
 As a potential teacher with accessibility needs, I need to contact the ‘accessibility expert’ directly so that I can get reassurance that the provider is genuinely catering for my needs and not ticking policy boxes.
 
 As a provider I need to communicate exactly how and to what extent we are provisioned for different accessibility needs, so that we attract potential teachers that we can cater for.
+
+*[PGCE]: Postgraduate Certificate in Education
+*[PGDE]: Postgraduate Diploma in Education
+*[QTS]: Qualified Teacher Status
+*[UCAS]: Universities and Colleges Admissions Service

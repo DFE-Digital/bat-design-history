@@ -23,3 +23,5 @@ Users need to check their courses are there and showing correctly to validate ou
 Providers need access for multiple users, we’re creating a secure mechanism to request access for these users.
 
 See [prototype on Heroku](https://publish-courses-check-ucas.herokuapp.com/we-imported) or the branch [`check-ucas`](https://github.com/DFE-Digital/publish-teacher-training-prototype/tree/check-ucas) on Github.
+
+*[UCAS]: Universities and Colleges Admissions Service

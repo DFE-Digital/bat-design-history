@@ -45,8 +45,8 @@ If a user copies a course and tries to leave without saving we also warn about l
 
 We’ve had support requests asking where the feature is. In research people have been looking for this on:
 
-* the course overview
-* the course listing
-* their first course, thinking they copy from it to another
+- the course overview
+- the course listing
+- their first course, thinking they copy from it to another
 
 We’ve made some copy changes to better highlight the feature but we need to reassess where this lives. Does a full course copy make sense now? Would that live on the course overview?

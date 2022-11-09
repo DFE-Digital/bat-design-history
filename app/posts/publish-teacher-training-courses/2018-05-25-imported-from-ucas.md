@@ -8,35 +8,35 @@ date: 2018-05-25
 
 Assumptions about content we will receive from UCAS based on [existing course data](/find-teacher-training/ucas-course-examples).
 
-* Course title, QAd by UCAS to meet their standards (eg subject)
-* A list of subjects the course is associated with
-* Whether there are part time or full time vacancies
-* The route – school direct, school direct salaried, SCITT or higher education
-* The qualification but [with caveats](/publish-teacher-training-courses/course-with-variants#course) (QTS, Postgraduate, Professional)
-* Campuses/locations associated with each course:
-  * Name
-  * Campus code
-  * Full or part time vacancies
-  * Address or region
-  * Applications open date
-* Course start month (not day)
-* Accrediting provider
-* Training provider name
-* Training provider contact details – address, email, website
-* Age range (primary, secondary or middle years only)
+- Course title, quality assured by UCAS to meet their standards (eg subject)
+- A list of subjects the course is associated with
+- Whether there are part time or full time vacancies
+- The route – school direct, school direct salaried, SCITT or higher education
+- The qualification but [with caveats](/publish-teacher-training-courses/course-with-variants#course) (QTS, Postgraduate, Professional)
+- Campuses/locations associated with each course:
+  - Name
+  - Campus code
+  - Full or part time vacancies
+  - Address or region
+  - Applications open date
+- Course start month (not day)
+- Accrediting provider
+- Training provider name
+- Training provider contact details – address, email, website
+- Age range (primary, secondary or middle years only)
 
 ### Further information required
 
 Excluding free text fields, we also need, for each course:
 
-* Fees
-* Salary (if salaried)
-* Confirmation of QTS/PGCE with QTS status
-* Precise age range
-* Any schools not listed
-* Length of full time and part time courses
-* The name of the main site (first campus) if it differs from the provider name
-* Do SCITTs use universities to accredit PGCE aspect of course
+- Fees
+- Salary (if salaried)
+- Confirmation of QTS/PGCE with QTS status
+- Precise age range
+- Any schools not listed
+- Length of full time and part time courses
+- The name of the main site (first campus) if it differs from the provider name
+- Do SCITTs use universities to accredit PGCE aspect of course
 
 ## Folding multiple UCAS courses into one
 
@@ -75,3 +75,10 @@ If there are schools for a salaried course and different schools for unsalaried,
 ### Unfolding for apply
 
 We need to communicate how to apply to a variant accurately. eg Which school is available for what, what does and does not have vacancies, what the course codes are – if the choice is represented on UCAS as a separate course.
+
+*[PGCE]: Postgraduate Certificate in Education
+*[PGDE]: Postgraduate Diploma in Education
+*[QTS]: Qualified Teacher Status
+*[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training
+*[UCAS]: Universities and Colleges Admissions Service

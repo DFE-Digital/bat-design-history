@@ -16,9 +16,9 @@ In August we’ve struggled to find providers to test with, because schools are 
 
 We tested this design with 3 providers:
 
-* [Keele and North Staffordshire Teacher Education](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC)
-* [West London Teaching Schools Alliance](https://lookback.io/watch/acQugHJ6r7QFpvkMQ)
-* [Bromely Schools Collegiate](https://lookback.io/watch/QfEkvbkjW6uCJaLYJ) ([Part 2](https://lookback.io/watch/r7d8nZPwuqHCZNgpg))
+- [Bromley Schools Collegiate](https://lookback.io/watch/QfEkvbkjW6uCJaLYJ) ([Part 2](https://lookback.io/watch/r7d8nZPwuqHCZNgpg))
+- [Keele and North Staffordshire Teacher Education](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC)
+- [West London Teaching Schools Alliance](https://lookback.io/watch/acQugHJ6r7QFpvkMQ)
 
 ## Users miss ‘About your organisation’
 
@@ -53,3 +53,5 @@ One user didn’t realise they needed to publish courses themselves. They believ
 It’s not clear to users that courses which are set to running but have no published content will still be seen by applicants, just in a minimal state. We need to set these expectations better. This will begin with a comms email.
 
 [“It just wouldn’t be there until it’s published”](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=1h34m42.25s)
+
+*[UCAS]: Universities and Colleges Admissions Service

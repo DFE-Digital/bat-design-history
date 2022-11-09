@@ -8,8 +8,8 @@ The [previous iteration](/publish-teacher-training-courses/iteration-aug-23) whi
 
 In this design we:
 
-* made the steps more explicit
-* added more detail about what the user needs to do
-* included a prompt about copying courses
+- made the steps more explicit
+- added more detail about what the user needs to do
+- included a prompt about copying courses
 
 ![Screenshot of organisation page.](organisation.png "Organisation")

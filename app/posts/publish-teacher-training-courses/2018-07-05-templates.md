@@ -109,19 +109,19 @@ More about our research in confluence: [Confluence](https://dfedigital.atlassian
 
 ### Unmoderated sessions
 
-* [University of Sunderland](https://lookback.io/watch/Ww6yAHxHiNB95vLwR)
-* [Surrey South Farnham](https://lookback.io/watch/9nNasdJrSy7rJ4jYb)
-* [Excalibur TSA](https://lookback.io/watch/PBqjHp7QFt65r5Q2x)
-* [University of Reading – 1](https://lookback.io/watch/Der6yQKnYKaN3iuyS)
-* [University of Reading – 2](https://lookback.io/watch/Yy7TNgYpKT6dXDWF6)
-* [University of Reading – 3](https://lookback.io/watch/ziQcSNFCbY6gmKth6)
-* [University of Reading – 4](https://lookback.io/watch/e4dYojoqk5ZMyEW56)
+- [University of Sunderland](https://lookback.io/watch/Ww6yAHxHiNB95vLwR)
+- [Surrey South Farnham](https://lookback.io/watch/9nNasdJrSy7rJ4jYb)
+- [Excalibur TSA](https://lookback.io/watch/PBqjHp7QFt65r5Q2x)
+- [University of Reading – 1](https://lookback.io/watch/Der6yQKnYKaN3iuyS)
+- [University of Reading – 2](https://lookback.io/watch/Yy7TNgYpKT6dXDWF6)
+- [University of Reading – 3](https://lookback.io/watch/ziQcSNFCbY6gmKth6)
+- [University of Reading – 4](https://lookback.io/watch/e4dYojoqk5ZMyEW56)
 
 ### In-person moderated sessions
 
-* [Catholic Teaching Alliance](https://lookback.io/watch/6dwaSDCngbuPTiL4x)
-* [West London Teaching Schools Alliance](https://lookback.io/watch/CCdNXjjh34amgbWzK)
-* [Bromley Schools Collegiate](https://lookback.io/dfe-digital/bromley-multiple-orgs-and-templates)
+- [Catholic Teaching Alliance](https://lookback.io/watch/6dwaSDCngbuPTiL4x)
+- [West London Teaching Schools Alliance](https://lookback.io/watch/CCdNXjjh34amgbWzK)
+- [Bromley Schools Collegiate](https://lookback.io/dfe-digital/bromley-multiple-orgs-and-templates)
 
 ## What goes into a template?
 
@@ -165,4 +165,9 @@ We saw 2 users misunderstand templates, they created subject specific course tem
 
 There’s some concept of a template in the tool provided by UCAS. Users can select a training programme from which they can copy fields. Though once a copy has been made no subsequent edits are updated – users must resort to copy and paste again.
 
-[UCAS documentation for ‘Entry profiles’](https://www.ucas.com/file/115116/download?token=Du-edwFy)
+[UCAS documentation for ‘Entry profiles’](https://www.ucas.com/file/115116/download?token=Du-edwFy
+
+*[PGCE]: Postgraduate Certificate in Education
+*[PGDE]: Postgraduate Diploma in Education
+*[QTS]: Qualified Teacher Status
+*[UCAS]: Universities and Colleges Admissions Service

@@ -112,3 +112,5 @@ Example course: [B60/X341](https://find-postgraduate-teacher-training.education.
 > You do not require an applicant to hold GCSE grades A-C, 4 or above, or equivalent. This code can only be used for further education or post-compulsory education courses.
 
 This option accepts all applicants, even if they have grades below a C.
+
+*[UCAS]: Universities and Colleges Admissions Service

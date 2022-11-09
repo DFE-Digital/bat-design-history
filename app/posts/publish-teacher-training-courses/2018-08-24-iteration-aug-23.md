@@ -15,10 +15,10 @@ screenshots:
 
 In this iteration we:
 
-* removed the horizontal navigation in favour of sections in the page
-* took the course content status labels and reused them on course pages
-* updated the ‘About your organisation’ page to be more like a course
-* added details we received from UCAS to the ‘About your organisation’ page
+- removed the horizontal navigation in favour of sections in the page
+- took the course content status labels and reused them on course pages
+- updated the ‘About your organisation’ page to be more like a course
+- added details we received from UCAS to the ‘About your organisation’ page
 
 ## Removing horizontal navigation
 

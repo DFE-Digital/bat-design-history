@@ -38,7 +38,7 @@ screenshots:
 
 This is a visualisation of course information structured by:
 
-* training provider metadata (eg provider name, contact details)
-* common course information (eg about this provider or interview process)
-* schools an organisation is associated with
-* courses the organisation offers – full detailed comprised of all of the above
+- training provider metadata (eg provider name, contact details)
+- common course information (eg about this provider or interview process)
+- schools an organisation is associated with
+- courses the organisation offers – full detailed comprised of all of the above

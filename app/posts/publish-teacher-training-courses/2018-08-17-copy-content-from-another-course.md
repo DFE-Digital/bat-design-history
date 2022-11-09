@@ -35,9 +35,9 @@ We needed an alternative to templates, one that would alleviate the pain of copy
 
 In [user research](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC) this need continues to surface:
 
-* [“It’s quite repetitive”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=11m31s)
-* [“Is it going to be able to copy information from one course to another?”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=13m34s)
-* [“There isn’t a mechanism to duplicate the information”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=22m20s)
+- [“It’s quite repetitive”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=11m31s)
+- [“Is it going to be able to copy information from one course to another?”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=13m34s)
+- [“There isn’t a mechanism to duplicate the information”](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=22m20s)
 
 ## Copying fields from another course
 

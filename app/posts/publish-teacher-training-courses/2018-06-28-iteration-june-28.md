@@ -15,10 +15,10 @@ As with the [previous iteration](/publish-teacher-training-courses/iteration-jun
 
 In this iteration we:
 
-* added character counts
-* made interview process optional
-* hid incomplete optional fields from preview
-* added fields for international course fees
+- added character counts
+- made interview process optional
+- hid incomplete optional fields from preview
+- added fields for international course fees
 
 Based on the first submission, which was mostly copy and pasted text, we quickly added word counts to each field. We expect character counts to limit input and to trigger users into editing their text down.
 
