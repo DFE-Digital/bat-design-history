@@ -77,3 +77,4 @@ Concern over the approval process was also expressed.
 - How long does it take?
 
 *[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training

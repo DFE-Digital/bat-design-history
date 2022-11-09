@@ -221,3 +221,4 @@ One participant mentioned their involvement with the Apply trial and queried acc
 
 *[ITT]: Initial Teacher Training
 *[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training
