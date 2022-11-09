@@ -22,9 +22,9 @@ For the 2022 to 2023 cycle, we've changed the Publish teacher training courses (
 
 These are:
 
-* whether or not they [accept pending GCSEs and GCSE equivalency tests](/publish-teacher-training-courses/pending-gcses-equivalency-tests/)
-* the [minimum degree class required](/publish-teacher-training-courses/degree-entry-requirements/)
-* any additional degree subject requirements (for secondary courses)
+- whether or not they [accept pending GCSEs and GCSE equivalency tests](/publish-teacher-training-courses/pending-gcses-equivalency-tests/)
+- the [minimum degree class required](/publish-teacher-training-courses/degree-entry-requirements/)
+- any additional degree subject requirements (for secondary courses)
 
 These changes allow us to use consistent language to describe the standard entry requirements.
 

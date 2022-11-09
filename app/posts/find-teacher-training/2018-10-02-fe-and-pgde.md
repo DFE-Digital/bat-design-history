@@ -14,8 +14,8 @@ screenshots:
 
 We started with two qualification options:
 
-* PGCE with QTS
-* QTS
+- PGCE with QTS
+- QTS
 
 For most courses this was acceptable. Postgraduate certificate in education (PGCEs) are also known as PGCertEd or PGCert (if without an education specialism).
 
@@ -23,11 +23,11 @@ We need providers to always use PGCE and none of the variants, those variants ca
 
 The new options are:
 
-* PGCE with QTS
-* PGDE with QTS
-* QTS
-* PGCE
-* PGDE
+- PGCE with QTS
+- PGDE with QTS
+- QTS
+- PGCE
+- PGDE
 
 ## PGDE
 

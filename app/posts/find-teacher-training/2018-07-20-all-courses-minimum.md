@@ -20,11 +20,11 @@ screenshots:
 
         The results have been updated from the private beta to make it easier to differentiate them. Changes include:
 
-        * adding a summary of the course type
-        * including the (QTS) accrediting provider
-        * denoting the type of location
-        * cleaning up the address formatting
-        * removing decimal places from distance
+        - adding a summary of the course type
+        - including the (QTS) accrediting provider
+        - denoting the type of location
+        - cleaning up the address formatting
+        - removing decimal places from distance
 
         ### Vacancies
 
@@ -102,3 +102,5 @@ Aiming to test:
 - current filters and what is a priority in terms of building
 
 We [iterated this design](/find-teacher-training/mvp-iteration-jul-25) during research.
+
+*[UCAS]: Universities and Colleges Admissions Service

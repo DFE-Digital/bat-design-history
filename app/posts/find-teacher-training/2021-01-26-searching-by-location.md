@@ -47,8 +47,8 @@ related:
 
 Currently, Find uses a model inherited from UCAS. This allows courses to show 2 types of location:
 
-* the training provider’s contact address
-* their training locations – places a candidate can apply to, but not necessarily where they will spend the majority, if any, of their time.
+- the training provider’s contact address
+- their training locations – places a candidate can apply to, but not necessarily where they will spend the majority, if any, of their time.
 
 Providers can add up to 37 addresses. Some set themselves up as multiple providers so they can add more locations (such as [West London Teaching School Alliance](https://web.archive.org/web/20210125160621/https://www.find-postgraduate-teacher-training.service.gov.uk/results/filter/provider?l=3&prev_l=none&prev_lat=none&prev_lng=none&prev_loc=none&prev_lq=none&prev_query=none&prev_rad=none&query=West+London+Teaching+School+Alliance)). Others only list one address (this is the case for 50% of SCITTs and 100% of HEIs).
 
@@ -60,9 +60,9 @@ This is the [location problem](/publish-teacher-training-courses/the-location-pr
 
 Candidates are based in a number of schools during training. Because location information doesn’t accurately reflect real placement locations:
 
-* candidates may apply to a course based on an address that is not available
-* they may not know that they are placed in different locations during their training
-* they may not know that the amount of time spent in school differs according to the training route.
+- candidates may apply to a course based on an address that is not available
+- they may not know that they are placed in different locations during their training
+- they may not know that the amount of time spent in school differs according to the training route.
 
 For candidates, choosing a location is important, yet because of poor location information, Find potentially sets the wrong expectation for where they will train.
 
