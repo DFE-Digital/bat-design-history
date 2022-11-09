@@ -64,3 +64,4 @@ The GT12 reply to contact is captured when users edit their letter template.
 
 *[API]: Application Programming Interface
 *[UCAS]: Universities and Colleges Admissions Service
+*[UTT]: UCAS Teacher Training

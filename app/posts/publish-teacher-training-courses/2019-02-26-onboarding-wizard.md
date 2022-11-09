@@ -31,33 +31,35 @@ Workflow co-designed with UCAS.
 
 If there’s a lead school change we will treat this as an update to an existing provider rather than a new provider. It means that:
 
-* we’ll need to onboard new users for that lead school onto DfE Sign in
-* that new school will have access to all the existing courses and locations
-* new lead schools do not need to start from scratch
-* the marketing name of the provider shouldn’t change
+- we’ll need to onboard new users for that lead school onto DfE Sign in
+- that new school will have access to all the existing courses and locations
+- new lead schools do not need to start from scratch
+- the marketing name of the provider shouldn’t change
 
-Changes to lead schools can happen midcycle if a school doesn’t get Good or better in an Ofsted inspection.
+Changes to lead schools can happen mid cycle if a school doesn’t get Good or better in an Ofsted inspection.
 
 ### Setting expectations
 
 Setting expecations for users means:
 
-* alerting them to the need for a separate Apply service
-* priming them for contact and details from UCAS
-* describing need for UCAS web-link
-* pointing out UCAS.com account
+- alerting them to the need for a separate Apply service
+- priming them for contact and details from UCAS
+- describing need for UCAS web-link
+- pointing out UCAS.com account
 
 ## Onboarding wizard
 
 We can use a wizard to confirm a provider’s:
 
-* marketing name
-* contact details for candidates
-* UCAS provider code
-* first training location (eg not Main Site)
-* UCAS apply preferences
-* other users who should have access to Publish
+- marketing name
+- contact details for candidates
+- UCAS provider code
+- first training location (eg not Main Site)
+- UCAS apply preferences
+- other users who should have access to Publish
 
 The following designs are an initial first draft.
 
 It’s not clear whether we will have time to build an onboarding wizard, as MVP it may be appropriate to do much of this through support or support templates.
+
+*[UCAS]: Universities and Colleges Admissions Service

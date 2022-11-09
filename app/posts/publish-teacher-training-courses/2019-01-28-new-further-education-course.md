@@ -13,35 +13,35 @@ screenshots:
     - Check your answers
 ---
 
-After selecting ‘Further education’ as a course type, the wizard goes down a different path.
+After selecting ‘Further education’ (FE) as a course type, the wizard goes down a different path.
 
 [Google diagram of new course workflow](https://docs.google.com/drawings/d/1DAhz464j1XDyQPoOH0adIwAceUwuGU1rqsWkVn8ZQ8I/edit)
 
 Further education courses do not have:
 
-* subjects (or languages)
-* accredited bodies
-* minimum GCSE requirements (there is no legal requirement)
-* a fee or salary choice
+- subjects (or languages)
+- accredited bodies
+- minimum GCSE requirements (there is no legal requirement)
+- a fee or salary choice
 
 Some screens need to differ:
 
-* Title – there is no subject to generate a title from, we must ask for the title
-* Outcome – the outcomes listed are PGCE or PGDE, there is no QTS option
+- Title – there is no subject to generate a title from, we must ask for the title
+- Outcome – the outcomes listed are PGCE or PGDE, there is no QTS option
 
 Some pages can be reused:
 
-* training locations (if applicable, though no current providers need this screen)
-* full time or part time
-* course start date
+- training locations (if applicable, though no current providers need this screen)
+- full time or part time
+- course start date
 
 ## User research
 
 [Research playback presentation](https://docs.google.com/presentation/d/17wz2ZWJCNbbqsaywigok-fHv07IUjjiLRSaffCuim64/edit)
 
-* [Canterbury Christ Church University](https://lookback.io/watch/oDwREDkfjwjW5SpCi?t=18m55.28s)
-* [Sheffield Hallam University](https://lookback.io/watch/uCv5RfwkKAcyad3fJ?t=7m16.01s)
-* [University of Huddersfield](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=2m6.58s)
+- [Canterbury Christ Church University](https://lookback.io/watch/oDwREDkfjwjW5SpCi?t=18m55.28s)
+- [Sheffield Hallam University](https://lookback.io/watch/uCv5RfwkKAcyad3fJ?t=7m16.01s)
+- [University of Huddersfield](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=2m6.58s)
 
 ### Expertise
 
@@ -66,3 +66,8 @@ Should FE course be with all the others? “Yes - the application process is the
 How school placements work should be renamed to How placements work for FE courses, placements aren’t in schools.
 
 As courses aren’t tied to allocations, the opening date for applications is arbitrary. “because this course is not subject to allocation restrictions, we know the course is going to run.” ([video](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=15m25.7s))
+
+*[GCSE]: General Certificate of Secondary Education
+*[PGCE]: Postgraduate Certificate in Education
+*[PGDE]: Postgraduate Diploma in Education
+*[QTS]: Qualified Teacher Status

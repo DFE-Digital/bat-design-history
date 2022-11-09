@@ -190,3 +190,5 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
     </tr>
   </tbody>
 </table>
+
+*[UCAS]: Universities and Colleges Admissions Service

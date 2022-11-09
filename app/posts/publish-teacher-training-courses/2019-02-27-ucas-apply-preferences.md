@@ -194,3 +194,7 @@ We indicate the difference in letters to new providers and ask for their choice.
 * * *
 
 ![Screenshot of UCAS Apply preferences.](ucas-apply-preferences.png "UCAS Apply preferences")
+
+*[ASCII]: American Standard Code for Information Interchange
+*[UCAS]: Universities and Colleges Admissions Service
+*[UTT]: UCAS Teacher Training

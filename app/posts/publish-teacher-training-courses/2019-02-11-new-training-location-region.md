@@ -18,17 +18,19 @@ Providers have filled in UCAS training locations with names and addresses that c
 
 This design aims to:
 
-* allow providers the freedom to specify regions, using whatever name they choose
-* use a school autocomplete to list schools in the area, to get a proper geographical understanding of the region
+- allow providers the freedom to specify regions, using whatever name they choose
+- use a school autocomplete to list schools in the area, to get a proper geographical understanding of the region
 
 Concerns we expect from providers that the design would need to address:
 
-* I have too many schools to list
-* I don’t know which schools to list
-* Will candidates see these schools?
+- I have too many schools to list
+- I don’t know which schools to list
+- Will candidates see these schools?
 
 ## User research
 
-* [Gateway Alliance](https://lookback.io/watch/XkCjbzaEZNPrEnNcp?t=32m54.07s) (didn’t test the design, but would use regions)
-* [University of Huddersfield](https://lookback.io/watch/pWYBvEpr8YfeF7pAx)
-* [The Royal Borough Teaching School Alliance](https://lookback.io/watch/iviAKDMGPxMK68voe)
+- [Gateway Alliance](https://lookback.io/watch/XkCjbzaEZNPrEnNcp?t=32m54.07s) (didn’t test the design, but would use regions)
+- [University of Huddersfield](https://lookback.io/watch/pWYBvEpr8YfeF7pAx)
+- [The Royal Borough Teaching School Alliance](https://lookback.io/watch/iviAKDMGPxMK68voe)
+
+*[UCAS]: Universities and Colleges Admissions Service

@@ -41,3 +41,5 @@ Training location vacancy status | Course vacancy status
 -------------------------------- | ---------------------
 Any has F (full time), P (part time), B (both) | Yes
 All have N (no vacancies) | No
+
+*[UCAS]: Universities and Colleges Admissions Service

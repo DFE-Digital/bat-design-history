@@ -46,3 +46,4 @@ For this to propagate to UCAS it needs to be sent through as the email for the U
 
 *[API]: Application Programming Interface
 *[UCAS]: Universities and Colleges Admissions Service
+*[UTT]: UCAS Teacher Training

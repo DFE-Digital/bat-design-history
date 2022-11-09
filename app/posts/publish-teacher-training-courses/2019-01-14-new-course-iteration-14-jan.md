@@ -22,9 +22,11 @@ screenshots:
 
 In this iteration we changed:
 
-* A second secondary subject
-* Primary age ranges
-* When does the course start?
-* Minimum GCSE requirements with a change option
-* Title in main wizard flow
-* Accredited body title tweaks
+- A second secondary subject
+- Primary age ranges
+- When does the course start?
+- Minimum GCSE requirements with a change option
+- Title in main wizard flow
+- Accredited body title tweaks
+
+*[GCSE]: General Certificate of Secondary Education
