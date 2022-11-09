@@ -19,7 +19,7 @@ These changes have resulted in many more people selecting a disability or health
 
 ## The issue
 
-Previously, we asked an initial question of ‘Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’.
+Previously, we asked a filter question of ‘Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’.
 
 ![Screenshot showing page asking ’Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’](are-you-disabled.png "Previous design for filter question")
 
@@ -27,9 +27,11 @@ If a candidate selected Yes, then we presented a list of checkboxes, with the qu
 
 ![Screenshot showing page with the question ‘What disabilities do you have?’ and this list of options: Blind or a serious visual impairment not corrected by glasses, Dear or a serious hearing impairment, Learning difficulty for example dyslexia, Long-standing illness for example cancer, Mental health condition for example depression, Physical disability or mobility issue for example impaired use of arms or legs, Social or communication impairment for example Asperger’s and Other.](disabilities-before.png "Previous design for disabilities question")
 
-The main issue with presenting the questions in this way is that some candidates who might have selected one or more of the checkboxes may not have done so as they do not consider themselves disabled. We had some evidence of this from user research sessions, where one user who was dyslexic commented that not everyone considers this a disability.
+The advantage of using the filter question was that it let users avoid having to read the list of checkboxes.
 
-In addition, the Higher Education Statistics Agency have also updated their recommended list of disability options for the 2022 to 2023 recruitment cycle.
+However an issue was that candidates who might have selected one or more of the checkboxes may not have done so as they do not consider themselves disabled. We had some evidence of this from user research sessions, where one user who was dyslexic commented that not everyone considers this a disability.
+
+In addition, for the 2022 to 2023 recruitment cycle, the Higher Education Statistics Authority [updated their recommended list of options](https://www.hesa.ac.uk/collection/c22053/revision_history), with some wording changes and 1 new option.
 
 ## What we changed
 
