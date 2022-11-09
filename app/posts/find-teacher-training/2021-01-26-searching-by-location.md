@@ -139,8 +139,8 @@ Then we can set the scene about placements, be an authoritative source (and in t
 
 *[TTWA]: Travel to Work Area
 *[TTWAs]: Travel to Work Areas
-*[HEI]: Higer Education Institute
-*[HEIs]: Higer Education Institutes
+*[HEI]: Higher Education Institute
+*[HEIs]: Higher Education Institutes
 *[SCITT]: School Centred Initial Teacher Training
 *[SCITTs]: School Centred Initial Teacher Training
 *[UCAS]: Universities and Colleges Admissions Service

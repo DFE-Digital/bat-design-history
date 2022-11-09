@@ -159,4 +159,4 @@ We may consider allowing HEIs to specify which of their training providers they 
 *[SCITT]: School Centred Initial Teacher Training
 *[SCITTs]: School Centred Initial Teacher Training
 *[HEI]: Higher Education Institute
-*[HEI]: Higher Education Institutes
+*[HEIs]: Higher Education Institutes
