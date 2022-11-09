@@ -18,7 +18,7 @@ These changes have resulted in many more people selecting a disability or health
 
 Previously, we asked an initial question of ‘Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’.
 
-![Screenshot showing page asking ’Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’](are-you-disabled.png “Previous design for filter question”)
+![Screenshot showing page asking ’Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’](are-you-disabled.png "Previous design for filter question")
 
 If a candidate selected Yes, then we presented a list of checkboxes, with the question ‘What disabilities do you have?’
 
