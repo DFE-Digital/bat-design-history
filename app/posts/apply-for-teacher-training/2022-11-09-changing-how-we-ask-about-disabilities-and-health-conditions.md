@@ -29,7 +29,7 @@ If a candidate selected Yes, then we presented a list of checkboxes, with the qu
 
 The main issue with presenting the questions in this way is that some candidates who might have selected one or more of the checkboxes may not have done so as they do not consider themselves disabled. We had some evidence of this from user research sessions, where one user who was dyslexic commented that not everyone considers this a disability.
 
-In addition, for the 2022 to 2023 recruitment cycle, the Higher Education Statistics Authority updated their recommended list of options to present.
+In addition, the Higher Education Statistics Agency have also updated their recommended list of disability options for the 2022 to 2023 recruitment cycle.
 
 ## What we changed
 
