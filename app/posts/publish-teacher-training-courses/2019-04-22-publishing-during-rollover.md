@@ -17,7 +17,7 @@ During rollover there are two cycles: the current cycle, and another that’s be
 
 ## Setting publish context
 
-There will still be a Publish button, but instead of putting a course onto Find, it’ll not go live until October. We need to tell users this.
+There will still be a ‘Publish’ button, but instead of putting a course onto Find postgraduate teacher training (Find), it’ll not go live until October. We need to tell users this.
 
 On publishing [we will reiterate this](#course-just-published).
 
@@ -64,7 +64,7 @@ Only the text for a Published course needs to change in the Find? column.
 
 This should [behave as originally designed](/publish-teacher-training-courses/publish-states) – if the open date is in the future, a message shows:
 
-<p class="govuk-inset-text">Opening on [10 October]</p>
+> Opening on [10 October]
 
 This hasn’t been built on Live yet, instead the column currently says Closed until applications have opened.
 
@@ -72,8 +72,8 @@ This hasn’t been built on Live yet, instead the column currently says Closed u
 
 If the following are true:
 
-* the user is viewing the next cycle
-* the next cycle hasn’t opened yet
+- the user is viewing the next cycle
+- the next cycle hasn’t opened yet
 
 Once a cycle has opened all changes should revert.
 

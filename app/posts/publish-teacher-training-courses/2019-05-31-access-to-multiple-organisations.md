@@ -10,8 +10,8 @@ We discovered this while researching with accredited bodies: [Research video](ht
 
 ## Suggested changes
 
-* All users see the organisations page, rather than just multiple organisation users
-* At the bottom of the list we call out how to get access to more organisations
+- All users see the organisations page, rather than just multiple organisation users
+- At the bottom of the list we call out how to get access to more organisations
 
 This should also simplify the logic for the current systems.
 

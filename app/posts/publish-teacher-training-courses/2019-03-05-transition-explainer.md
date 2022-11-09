@@ -8,9 +8,11 @@ We’re communicating UCAS transition by email. Not everyone will read their ema
 
 We need to make it clear to all users that they must:
 
-* stop using UCAS to manage their courses
-* use Publish for all course management
+- stop using UCAS to manage their courses
+- use Publish for all course management
 
 We’re doing this with a page they’ll see when they first log in, much like the [‘Before you begin’ terms and conditions page](/publish-teacher-training-courses/terms-agreement). After seeing it once it won’t be shown to them again.
 
 ![Screenshot of page transitioned organisations see when they first log in.](when-an-organisation-is-transitioned.png "A page transitioned organisations will see when they first log in")
+
+*[UCAS]: Universities and Colleges Admissions Service

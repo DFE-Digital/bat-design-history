@@ -12,3 +12,5 @@ screenshots:
 Like [new courses](/publish-teacher-training-courses/new-course-google-form), we don’t expect to build the new location features in time for transition.
 
 As an MVP, and so that providers can still add locations when they need to, we’ve mirrored the page as a Google Form. We can ask the same questions and capture what we need, trigger a support request and then manually create what is asked for.
+
+*[MVP]: Minimum Viable Product

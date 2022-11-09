@@ -14,8 +14,8 @@ UCAS sets a status (1, 2, 3, 9 or n/a) for Maths, English and Science for each c
 
 In our design we instead ask two questions:
 
-* will you receive applications from candidates with pending GCSEs?
-* will you receive applications from candidates who need to take an English, Maths or Science equivalency test?
+- will you receive applications from candidates with pending GCSEs?
+- will you receive applications from candidates who need to take an English, Maths or Science equivalency test?
 
 ## What subjects are required?
 
@@ -44,3 +44,7 @@ A user can select Yes to equivalency tests but can restrict this by subject (see
 | No | Yes| Invalid* |
 
 \* It’s possible to make an invalid choice – UCAS doesn’t allow you to receive applications from candidates needing to take an equivalency test if you’ve blocked applications from candidates with pending GCSEs. In this case we need to warn the user with a validation message.
+
+*[GCSE]: General Certificate of Secondary Education
+*[GCSEs]: General Certificate of Secondary Education
+*[UCAS]: Universities and Colleges Admissions Service

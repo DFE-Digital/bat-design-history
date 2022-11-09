@@ -16,15 +16,15 @@ In round 1 we hoped to better understand the reporting needs of accredited bodie
 
 ## What did we want to find out?
 
-* Understand previous experiences
-* Uncover user’s needs
+- Understand previous experiences
+- Uncover user’s needs
 
 ## Findings
 
 ### Previous UCAS experience
 
-* UCAS alerted providers of changes to their courses via email
-* Accredited bodies to check the changes so that providers can add this information to all their application processes every single time it happens
+- UCAS alerted providers of changes to their courses via email
+- Accredited bodies to check the changes so that providers can add this information to all their application processes every single time it happens
 
 [Lookback highlight](https://docs.google.com/presentation/d/1yaNemUJLl8SlZoZKNOHs17xT4sywn5MKYzSHNsu1LGY/edit#slide=id.g62413edba2_0_545)
 
@@ -36,7 +36,10 @@ In round 1 we hoped to better understand the reporting needs of accredited bodie
 
 ### The transition to Publish has created issues
 
-* The problem with moving to Publish meant that there are no longer alerts to changes and no ability to generate CSV reports.
-* Instead DfE support provides a report which creates the potential for human error
+- The problem with moving to Publish meant that there are no longer alerts to changes and no ability to generate CSV reports.
+- Instead Department for Education (DfE) support provides a report which creates the potential for human error
 
 [Lookback highlight](https://docs.google.com/presentation/d/1yaNemUJLl8SlZoZKNOHs17xT4sywn5MKYzSHNsu1LGY/edit#slide=id.g62413edba2_0_545)
+
+*[CSV]: Comma Separated Values
+*[UCAS]: Universities and Colleges Admissions Service

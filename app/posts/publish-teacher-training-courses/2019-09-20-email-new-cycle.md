@@ -17,9 +17,9 @@ Last week we emailed to tell you that you can now publish your courses for the 2
 
 To publish a course, you must add all the mandatory information in Publish. This includes:
 
-* a course description
-* details about school placements
-* a profile of you as a provider
+- a course description
+- details about school placements
+- a profile of you as a provider
 
 If any of this is missing, you won’t be able to publish the course, and it won’t appear on Find.
 

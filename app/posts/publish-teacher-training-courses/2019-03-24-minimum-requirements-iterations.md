@@ -20,10 +20,15 @@ screenshots:
 
 Progression of the minimum requirements page design:
 
-* Started with a subject choice and a sensible default
-* Added the ability to change the choice
-* Remove subject choice, instead defaulting to legal minimums. Page only asks for preference
-* Make it clearer that this affects UCAS Apply
-* Simplify preference choice using a table
-* Remove table and switch to two questions
-* Split questions over two pages
+- Started with a subject choice and a sensible default
+- Added the ability to change the choice
+- Remove subject choice, instead defaulting to legal minimums. Page only asks for preference
+- Make it clearer that this affects UCAS Apply
+- Simplify preference choice using a table
+- Remove table and switch to two questions
+- Split questions over two pages
+
+
+*[GCSE]: General Certificate of Secondary Education
+*[GCSEs]: General Certificate of Secondary Education
+*[UCAS]: Universities and Colleges Admissions Service

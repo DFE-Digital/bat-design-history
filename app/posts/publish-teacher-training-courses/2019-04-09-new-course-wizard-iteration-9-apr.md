@@ -14,6 +14,12 @@ screenshots:
 
 Bring the wizard in line with changes made to the Google Form:
 
-* split UCAS application requirements over two pages
-* remove mention of ‘publishing’ from application open screen
-* ask about apprenticeships for Universities and SCITTs
+- split UCAS application requirements over two pages
+- remove mention of ‘publishing’ from application open screen
+- ask about apprenticeships for Universities and SCITTs
+
+*[GCSE]: General Certificate of Secondary Education
+*[GCSEs]: General Certificate of Secondary Education
+*[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training
+*[UCAS]: Universities and Colleges Admissions Service

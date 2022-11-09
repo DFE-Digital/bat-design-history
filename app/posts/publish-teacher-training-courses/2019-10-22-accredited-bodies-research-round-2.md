@@ -41,7 +41,7 @@ The participants needed to know about any new courses so that they can update th
 
 [Research highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_36)
 
-### Stuck in between UCAS and SITS
+### Stuck in between UCAS and SITS:Vision
 
 There is an area where candidates get ‘lost’ if courses on UCAS don’t align with the accredited bodies system.
 
@@ -92,8 +92,10 @@ Some participants felt the course list lacked detail and needed a breakdown of l
 
 ## Research Summary
 
-* Accredited bodies need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system
-* There is a student information system which pulls applications and pushes data from UCAS. This is an automatic process.
-* Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in the staging area which is when the application from UCAS can’t match up with offerings in the accredited Bodies SITS system.
-* Accredited bodies need an alert/notification design that tells them of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
-* There is a need to be able to compare allocations with accredited body reports to ensure courses are set up correctly.
+- Accredited bodies need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system
+- There is a student information system which pulls applications and pushes data from UCAS. This is an automatic process.
+- Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in the staging area which is when the application from UCAS can’t match up with offerings in the accredited Bodies SITS system.
+- Accredited bodies need an alert/notification design that tells them of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
+- There is a need to be able to compare allocations with accredited body reports to ensure courses are set up correctly.
+
+*[UCAS]: Universities and Colleges Admissions Service

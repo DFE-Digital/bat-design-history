@@ -15,3 +15,5 @@ In the design below, if a user selects ‘An area’, then we would validate dif
 A [more complete workflow was previously designed and tested](/publish-teacher-training-courses/new-training-location-region).
 
 ![Type of location.](type-of-location.png "Type of location")
+
+*[UCAS]: Universities and Colleges Admissions Service

@@ -14,12 +14,12 @@ Round 3 is a continuation of the research started in [Accredited Bodies Research
 
 ## Findings
 
-* At the start of each recruitment cycle, UCAS compiles a list of reference data for providers to consume. This is done via XML or ODBC into the provider’s SRS system. Any changes after this are not automatically synced.
-* Accrediting body organisations’ needs vary widely. HEIs and SCITTs have Student Record Systems and are affected by systems not being in sync. Some SCITTs use the UCAS Weblink and manual process for applications and are not affected.
-* The staging area is an area within the SRS where applications sit to be processed. Applications are stuck in staging because the application cannot be matched to a course in the system. Providers get an import error list, where details about the candidate are present but nothing about the course. To fix this, they typically will log onto UCAS Weblink to find the application, note the details and then go onto Find to find the course to set up in their SRS.
-* Providers have very different student record systems - there is the base application but much of the features are personalised to the organisation.
-* Organisations map out codes themselves eg Location in School A on UCAS will be assigned to Code X in one organisation’s SRS and Code Z in a different organisation with the same location. This can make integration difficult.
-* Providers need CSVs for multiple reasons. They need to check against allocations spreadsheets, use spreadsheets to share data themsleves as there is no single access point and alos for data manipulation.
+- At the start of each recruitment cycle, UCAS compiles a list of reference data for providers to consume. This is done via XML or ODBC into the provider’s student records systems (SRS) system. Any changes after this are not automatically synced.
+- Accrediting body organisations’ needs vary widely. HEIs and SCITTs have Student Record Systems and are affected by systems not being in sync. Some SCITTs use the UCAS Weblink and manual process for applications and are not affected.
+- The staging area is an area within the SRS where applications sit to be processed. Applications are stuck in staging because the application cannot be matched to a course in the system. Providers get an import error list, where details about the candidate are present but nothing about the course. To fix this, they typically will log onto UCAS Weblink to find the application, note the details and then go onto Find to find the course to set up in their SRS.
+- Providers have very different student record systems - there is the base application but much of the features are personalised to the organisation.
+- Organisations map out codes themselves eg Location in School A on UCAS will be assigned to Code X in one organisation’s SRS and Code Z in a different organisation with the same location. This can make integration difficult.
+- Providers need CSVs for multiple reasons. They need to check against allocations spreadsheets, use spreadsheets to share data themsleves as there is no single access point and alos for data manipulation.
 
 ### Why do accredited bodies need course information
 
@@ -93,9 +93,17 @@ Several providers indicated they need more levels of permission in Publish.
 
 Participants suggested a need for more information on the Courses and accredited screens. This included:
 
-* vacancy data per location when a course had multiple sites
-* approved allocation numbers
+- vacancy data per location when a course had multiple sites
+- approved allocation numbers
 
 Access and permissions were also mentioned.
 
 > We’d like tutors to be able to see (but not be able to edit) this information.
+
+*[HEI]: Higher Education Institute
+*[HEIs]: Higher Education Institutes
+*[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training
+*[UCAS]: Universities and Colleges Admissions Service
+*[XML]: Extensible Markup Language
+*[ODBC]: Open Database Connectivity

@@ -27,3 +27,5 @@ To confirm that you can take part, or if you have any questions, please respond 
   subject: "Publishing pilot: please confirm if you’re available 15 to 18 April",
   content: emailContent
 }) }}
+
+*[UCAS]: Universities and Colleges Admissions Service
