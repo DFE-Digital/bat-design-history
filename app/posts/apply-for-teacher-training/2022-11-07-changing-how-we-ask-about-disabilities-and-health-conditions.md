@@ -4,7 +4,7 @@ description: Why we no longer ask people if they are disabled, and instead show 
 date: 2022-11-09
 ogImage:
   src: /apply-for-teacher-training/changing-how-we-ask-about-disabilities-and-health-conditions/disability-question-changes.png
-  alt: "Illustration showing that previously there was an ‘Are you disabled?’ question which led to a ’What disabilities do you have?’ question, and now there is a single ‘Do you have any of these disabilities or health conditions?’ question"
+  alt: "Illustration showing that previously there was an ‘Are you disabled?’ question which led to a ‘What disabilities do you have?’ question, and now there is a single ‘Do you have any of these disabilities or health conditions?’ question"
 
 ---
 
@@ -16,13 +16,13 @@ These changes have resulted in many more people selecting a disability or health
 
 ## The issue
 
-Previously, we asked an initial question of ’Are you disabled?’ with the options ’Yes’, ‘No’ and ‘Prefer not to say’.
+Previously, we asked an initial question of ‘Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’.
 
-![Screenshot showing page asking ’Are you disabled?’ with the options ’Yes’, ‘No’ and ‘Prefer not to say’](are-you-disabled.png "Previous design for filter question")
+![Screenshot showing page asking ’Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’](are-you-disabled.png “Previous design for filter question”)
 
-If a candidate selected Yes, then we presented a list of checkboxes, with the question ’What disabilities do you have?’
+If a candidate selected Yes, then we presented a list of checkboxes, with the question ‘What disabilities do you have?’
 
-![Screenshot showing page with the question ’What disabilities do you have?’ and this list of options: Blind or a serious visual impairment not corrected by glasses, Dear or a serious hearing impairment, Learning difficulty for example dyslexia, Long-standing illness for example cancer, Mental health condition for example depression, Physical disability or mobility issue for example impaired use of arms or legs, Social or communication impairment for example Asperger’s and Other.](disabilities-before.png "Previous design for disabilities question")
+![Screenshot showing page with the question ‘What disabilities do you have?’ and this list of options: Blind or a serious visual impairment not corrected by glasses, Dear or a serious hearing impairment, Learning difficulty for example dyslexia, Long-standing illness for example cancer, Mental health condition for example depression, Physical disability or mobility issue for example impaired use of arms or legs, Social or communication impairment for example Asperger’s and Other.](disabilities-before.png "Previous design for disabilities question")
 
 The main issue with presenting the questions in this way is that some candidates who might have selected one or more of the checkboxes may not have done so as they do not consider themselves disabled. We had some evidence of this from user research sessions, where one user who was dyslexic commented that not everyone considers this a disability.
 
@@ -30,7 +30,7 @@ In addition, for the 2022 to 2023 recruitment cycle, the Higher Education Statis
 
 ## What we changed
 
-![Screenshot showing page with the question ’Do you have any of these disabilities or health conditions?’](disabilities-and-health-conditions.png "Updated design for disabilities or health conditions question")
+![Screenshot showing page with the question ‘Do you have any of these disabilities or health conditions?’](disabilities-and-health-conditions.png "Updated design for disabilities or health conditions question")
 
 We removed the first question, and instead present all users with a list of checkboxes.
 
@@ -44,7 +44,7 @@ We reviewed the content for each of the options, with the aim to front-load the 
 
 ## Alternatives we considered
 
-The Higher Education Statistics Authority has some [guidance on collecting type of disability for initial teacher training] which includes suggested question wording from [Advance HE](https://www.advance-he.ac.uk). Their suggesting is to include a lengthy explanation of disability as defined in the Equality Act 2010, and then to ask this question:
+The Higher Education Statistics Authority has some [guidance on collecting type of disability for initial teacher training] which includes suggested question wording from [Advance HE](https://www.advance-he.ac.uk). Their suggestion is to include a lengthy explanation of disability as defined in the Equality Act 2010, and then to ask this question:
 
 > Considering the above, do you have an impairment, health condition or learning difference that has substantial and long-term impact on your ability to carry out normal day-to-day activities?
 
@@ -58,9 +58,9 @@ Comparing the first 28 of the 2022 to 2023 recruitment cycle to the first 28 day
 
 The 3 most frequently selected options account for the majority of the change:
 
-- 6% of candidates have selected "Dyslexia, dyspraxia or attention deficit hyperactivity disorder (ADHD) or another learning difference" compared to 2% selected "Learning difficulty" last cycle
-- 5% of candidates selected "Mental health condition", compared to 1% of candidates selecting the same option last cycle
-- 2% of candidates selected "Long-term illness", compared to less than 0.5% of candidates selected "Long-standing illness" last cycle
+- 6% of candidates have selected “Dyslexia, dyspraxia or attention deficit hyperactivity disorder (ADHD) or another learning difference” compared to 2% selected “Learning difficulty” last cycle
+- 5% of candidates selected “Mental health condition”, compared to 1% of candidates selecting the same option last cycle
+- 2% of candidates selected “Long-term illness”, compared to less than 0.5% of candidates selected “Long-standing illness” last cycle
 
 ## Further considerations
 
