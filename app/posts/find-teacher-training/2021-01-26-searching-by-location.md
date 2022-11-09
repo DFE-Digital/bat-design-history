@@ -117,7 +117,7 @@ Course detail pages are largely made up of provider-generated content, but they 
 
 We could include standardised content about how placements work and explain that choosing a location comes later in the process. We can also include data about where a provider has placements if they have shared that information with us.
 
-To distinguish between provider-generated content and standardised guidance, we can use a box out device and link back to related content on Get Into Teaching. By using Get Into Teaching brand colours, we can give a subtle nod back to that part of the user journey.
+To distinguish between provider-generated content and standardised guidance, we can use a box out device and link back to related content on Get Into Teaching (GIT). By using Get Into Teaching brand colours, we can give a subtle nod back to that part of the user journey.
 
 ![Standardised guidance boxout.](standardised-guidance-school-placements.png "An example of standardised guidance about school placements.")
 
@@ -139,3 +139,8 @@ Then we can set the scene about placements, be an authoritative source (and in t
 
 *[TTWA]: Travel to Work Area
 *[TTWAs]: Travel to Work Areas
+*[HEI]: Higer Education Institute
+*[HEIs]: Higer Education Institutes
+*[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training
+*[UCAS]: Universities and Colleges Admissions Service

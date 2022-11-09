@@ -16,12 +16,12 @@ This means that we are now able to let candidates filter courses according to th
 
 ## First iteration
 
-In the first iteration we added 4 checkboxes within a new ”Degree required” filter which corresponded to the 4 different options that providers could select for each course:
+In the first iteration we added 4 checkboxes within a new ‘Degree required’ filter which corresponded to the 4 different options that providers could select for each course:
 
-* 2:1 degree or higher
-* 2:2 degree or higher
-* Third degree or higher
-* An undergraduate degree
+- 2:1 degree or higher
+- 2:2 degree or higher
+- Third degree or higher
+- An undergraduate degree
 
 ![Screenshot showing 4 checkboxes](first-iteration.png "First iteration of degree requirement filter")
 
@@ -33,9 +33,9 @@ We found that the filter had a lot of value, particularly for those with lower d
 
 However, we found a few issues:
 
-* some candidates selected the degree they had, such as a 2:2, and unchecked the other boxes
-* some candidates with higher degrees selected just courses requiring higher degree grades as a proxy for finding ‘better’ courses (although this may not be the case)
-* the wording ‘any undergraduate degree’ led one candidate to assume that this meant there were no degree subject requirements
+- some candidates selected the degree they had, such as a 2:2, and unchecked the other boxes
+- some candidates with higher degrees selected just courses requiring higher degree grades as a proxy for finding ‘better’ courses (although this may not be the case)
+- the wording ‘any undergraduate degree’ led one candidate to assume that this meant there were no degree subject requirements
 
 ## Second iteration
 

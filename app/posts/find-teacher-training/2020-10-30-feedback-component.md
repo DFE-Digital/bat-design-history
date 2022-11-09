@@ -28,4 +28,4 @@ We currently ask users for feedback, or to report any problems, in the final two
 
 ![Existing content shown on course pages.](/find-teacher-training/feedback-component/existing-content.png)
 
-To ensure we gather feedback consistently, we will use [the same feedback component](/apply-for-teacher-training/feedback-component/) used on the Apply service instead. Using this component means we can also ask for feedback on search result pages, too.
+To ensure we gather feedback consistently, we will use [the same feedback component](/apply-for-teacher-training/feedback-component/) used on the Apply for teacher training (Apply) service instead. Using this component means we can also ask for feedback on search result pages, too.

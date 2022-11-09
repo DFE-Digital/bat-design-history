@@ -24,9 +24,9 @@ Without a change in design it would not be clear why a University that’s 5 mil
 
 We must indicate to a candidate:
 
-* that placement schools are near to them, and that is why this result is ranking highly
-* that you will spend most of your time in these schools, rather than at University
-* how they end up in a placement school
+- that placement schools are near to them, and that is why this result is ranking highly
+- that you will spend most of your time in these schools, rather than at University
+- how they end up in a placement school
 
 ## What we tried
 
@@ -41,9 +41,9 @@ When we tested search results with providers, we started minimally, showing the 
 
 With these options for the placement school text:
 
-* Placement schools are in this area (if search is < 11 miles from University)
-* Placement schools are within 1 mile (if search is 11 miles from University)
-* Placement schools are within X miles (if search is X + 10 miles from University)
+- Placement schools are in this area (if search is < 11 miles from University)
+- Placement schools are within 1 mile (if search is 11 miles from University)
+- Placement schools are within X miles (if search is X + 10 miles from University)
 
 ### Testing with candidates
 
@@ -72,21 +72,21 @@ And we gave more context to other results:
 
 We found that:
 
-* statements about where candidates will spend their time were successful
-* "this area" is too vague, is that my area, my town, the area around the University?
-* candidates interpreted "within 1 mile" as being closer than "in this area"
-* some also thought that "within 1 mile" meant 1 mile of the university
-* candidates preferred specific distances
-* providers feared that candidates would want to choose their placement schools, some candidates expressed a preference to choose
+- statements about where candidates will spend their time were successful
+- ‘this area’ is too vague, is that my area, my town, the area around the University?
+- candidates interpreted ‘within 1 mile’ as being closer than ‘in this area’
+- some also thought that ‘within 1 mile’ meant 1 mile of the university
+- candidates preferred specific distances
+- providers feared that candidates would want to choose their placement schools, some candidates expressed a preference to choose
 
 ### Iterating and testing again with candidates
 
 We changed the following to make it clearer that we meant distance from them rather than from the university, and to avoid the false impression of exactness with specific numbers:
 
-* replaced "this area" with "near you"
-* removed "within X miles", which although was specific and candidates liked that, was not at all accurate
-* used vaguer terms to represent the diminishing chance that a placement school is close by, "might be near you" and then "might be in commuting distance"
-* added a details element to explain placement schools, to justify the vagueness (we don't know which school they will be in, they can't choose the school, the university won't know until the school begins, past schools used for certain subjects are not good indicators)
+- replaced ‘this area’ with ‘near you’
+- removed ‘within X miles’, which although was specific and candidates liked that, was not at all accurate
+- used vaguer terms to represent the diminishing chance that a placement school is close by, ‘might be near you’ and then ‘might be in commuting distance’
+- added a details element to explain placement schools, to justify the vagueness (we do not know which school they will be in, they cannot choose the school, the university will not know until the school begins, past schools used for certain subjects are not good indicators)
 
 > __Location:__
 >
@@ -100,9 +100,9 @@ We changed the following to make it clearer that we meant distance from them rat
 
 With these options for the placement school text:
 
-* Placement schools are near you (search is < 11 miles from University)
-* Placement schools might be near you (search is < 21 miles from University)
-* Placement schools might be in commuting distance (search is < 50 miles from University)
+- Placement schools are near you (search is < 11 miles from University)
+- Placement schools might be near you (search is < 21 miles from University)
+- Placement schools might be in commuting distance (search is < 50 miles from University)
 
 Explaining placement schools:
 
@@ -120,9 +120,9 @@ Distance alone is not helpful, as one candidate told us: 5 miles into Newcastle 
 
 We used our last candidate sessions to explore some map concepts:
 
-* showing a map of locations for each course
-* using circles to indicate where placement schools might be
-* showing their location on the map
+- showing a map of locations for each course
+- using circles to indicate where placement schools might be
+- showing their location on the map
 
 These are experimental designs, showing 10 interactive maps on a page has significant performance drawbacks.
 
@@ -130,6 +130,9 @@ These are experimental designs, showing 10 interactive maps on a page has signif
 
 In research we also tested:
 
-* removing the radius control altogether
-* removing the sort by control
-* giving the page a more specific title related to the user’s search
+- removing the radius control altogether
+- removing the sort by control
+- giving the page a more specific title related to the user’s search
+
+*[SCITT]: School Centred Initial Teacher Training
+*[SCITTs]: School Centred Initial Teacher Training
