@@ -121,3 +121,5 @@ In future we may consider:
 - adding email frequency options - for example, daily or weekly digest
 - adding email notifications when changes to organisation settings, locations and users are made
 - changing the content of the email notifications to match the users’ permissions
+
+*[DfE]: Department for Education

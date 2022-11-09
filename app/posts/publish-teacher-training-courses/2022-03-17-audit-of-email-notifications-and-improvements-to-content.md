@@ -329,5 +329,6 @@ This work may affect notifications because:
 - we may find ways to simplify and reduce the number of notifications needed
 - the user actions that trigger notifications may change
 
-
 <!-- markdownlint-enable MD001 MD025 -->
+
+*[UCAS]: Universities and Colleges Admissions Service

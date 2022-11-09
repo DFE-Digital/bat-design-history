@@ -45,3 +45,5 @@ We updated the button to ‘Add location’.
 We moved the guidance, “Manage all your locations to add to or edit this list.” to the bottom of the page. The content was interrupting the flow of information on the page and could have been confusing for users using screen readers.
 
 ![Select the locations for this course page](courses--select-location.png "Select the locations for this course page")
+
+*[UCAS]: Universities and Colleges Admissions Service

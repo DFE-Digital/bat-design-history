@@ -305,3 +305,8 @@ We are in the process of creating a rollover plan for 2022. We know from user re
 As a team, we’re compiling a list of important information we feel users need to know for rollover 2022. This information will help to inform our messaging and timing.
 
 <!-- markdownlint-enable MD001 MD025 -->
+
+*[ITT]: Initial Teacher Training
+*[NASBTT]: National Association of School-Based Teacher Trainers
+*[UCAS]: Universities and Colleges Admissions Service
+*[UCET]: Universities’ Council for the Education of Teachers

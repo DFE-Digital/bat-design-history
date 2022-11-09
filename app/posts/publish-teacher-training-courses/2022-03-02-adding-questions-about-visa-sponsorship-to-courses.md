@@ -155,3 +155,5 @@ In this case, they do not need to answer the question and we can default it to â
 HEIs do not need to sponsor visas for courses their training providers offer.
 
 We may consider allowing HEIs to specify which of their training providers they will be willing to sponsor candidatesâ€™ visas.
+
+*[SCITT]: School Centred Initial Teacher Training
