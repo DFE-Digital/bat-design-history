@@ -66,5 +66,5 @@ The 3 most frequently selected options account for the majority of the change:
 
 We plan to continue including these questions within usability research sessions, so that we can see whether there are any further changes we could make.
 
-We will review the work of other government departments, including the [Disability Unit](https://www.gov.uk/government/organisations/disability-unit), the [Government Analysis Function impairment harmonised standard](https://analysisfunction.civilservice.gov.uk/policy-store/impairment/) and the [GOV.UK Design System equality information pattern](https://design-system.service.gov.uk/patterns/equality-information/) as they develop.
+We will review the work of other government departments, including the [Disability Unit](https://www.gov.uk/government/organisations/disability-unit), the [Government Analysis Function impairment harmonised standard](https://analysisfunction.civilservice.gov.uk/policy-store/impairment/) and the GOV.UK Design System patterns as they develop.
 
