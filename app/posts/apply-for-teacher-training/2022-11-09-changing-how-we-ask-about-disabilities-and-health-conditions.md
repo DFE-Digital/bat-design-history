@@ -19,17 +19,17 @@ These changes have resulted in 3 times more people selecting a disability or hea
 
 ## The issue
 
-Previously, we asked a filter question of ‘Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’.
+Previously, we asked the question ‘Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’.
 
-![Screenshot showing page asking ’Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’](are-you-disabled.png "Previous design for filter question")
+![Screenshot showing page asking ’Are you disabled?’ with the options ‘Yes’, ‘No’ and ‘Prefer not to say’](are-you-disabled.png "Previous design for first question")
 
 If a candidate selected Yes, then we presented a list of checkboxes, with the question ‘What disabilities do you have?’
 
-![Screenshot showing page with the question ‘What disabilities do you have?’ and this list of options: Blind or a serious visual impairment not corrected by glasses, Dear or a serious hearing impairment, Learning difficulty for example dyslexia, Long-standing illness for example cancer, Mental health condition for example depression, Physical disability or mobility issue for example impaired use of arms or legs, Social or communication impairment for example Asperger’s and Other.](disabilities-before.png "Previous design for disabilities question")
+![Screenshot showing page with the question ‘What disabilities do you have?’ and this list of options: Blind or a serious visual impairment not corrected by glasses, Dear or a serious hearing impairment, Learning difficulty for example dyslexia, Long-standing illness for example cancer, Mental health condition for example depression, Physical disability or mobility issue for example impaired use of arms or legs, Social or communication impairment for example Asperger’s and Other.](disabilities-before.png "Previous design for second question")
 
-The advantage of using the filter question was that it let users avoid having to read the list of checkboxes.
+The advantage of asking the question ‘Are you disabled?’ on the first page is that it allowed the candidates to avoid having to read the list of checkboxes on the second page.
 
-However an issue was that candidates who might have selected one or more of the checkboxes may not have done so as they do not consider themselves disabled. We had some evidence of this from user research sessions, where one user who was dyslexic commented that not everyone considers this a disability.
+However this caused an issue because candidates who would have chosen some of the checkboxes may not consider themselves as disabled. This meant they would select ‘No’ on the first page which would then skip the second page. We had some evidence of this from user research sessions, where one user who was dyslexic commented that not everyone considers this a disability.
 
 In addition, for the 2022 to 2023 recruitment cycle, the Higher Education Statistics Authority [updated their recommended list of options](https://www.hesa.ac.uk/collection/c22053/revision_history), with some wording changes and 1 new option.
 
