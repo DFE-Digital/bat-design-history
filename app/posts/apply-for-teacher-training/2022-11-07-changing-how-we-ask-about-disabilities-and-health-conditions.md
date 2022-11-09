@@ -5,7 +5,10 @@ date: 2022-11-09
 ogImage:
   src: /apply-for-teacher-training/changing-how-we-ask-about-disabilities-and-health-conditions/disability-question-changes.png
   alt: "Illustration showing that previously there was an ‘Are you disabled?’ question which led to a ‘What disabilities do you have?’ question, and now there is a single ‘Do you have any of these disabilities or health conditions?’ question"
-
+related:
+  items:
+    - text: Initial design for equality monitoring in 2019
+      href: /apply-for-teacher-training/equality-monitoring/
 ---
 
 ![Illustration showing that previously there was an ‘Are you disabled?’ question which led to a ’What disabilities do you have?’ question, and now there is a single ‘Do you have any of these disabilities or health conditions?’ question](disability-question-changes.png)
