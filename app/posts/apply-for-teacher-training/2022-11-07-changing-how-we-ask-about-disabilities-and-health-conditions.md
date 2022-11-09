@@ -54,7 +54,7 @@ The [equality information pattern] in the GOV.UK Design System asks an initial q
 
 ## Initial results
 
-Comparing the first 28 of the 2022 to 2023 recruitment cycle to the first 28 days of the previous cycle, 3 times more candidates have selected one or more disability or health condition (15% compared to 4%).
+Comparing the first 28 of the 2022 to 2023 recruitment cycle to the first 28 days of the previous cycle (around 8,000 applications), 3 times more candidates have selected one or more disability or health condition (15% compared to 4%).
 
 The 3 most frequently selected options account for the majority of the change:
 
