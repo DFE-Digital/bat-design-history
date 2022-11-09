@@ -15,7 +15,7 @@ related:
 
 We’ve changed the way we ask candidates about disabilities and health conditions in the equality and diversity monitoring questions shown just before submitting an application.
 
-These changes have resulted in many more people selecting a disability or health condition.
+These changes have resulted in 3 times more people selecting a disability or health condition.
 
 ## The issue
 
