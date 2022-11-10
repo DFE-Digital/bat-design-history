@@ -14,10 +14,10 @@ screenshots:
 
         Participant 123 says that the UI is not clear, “[it is not clear there are two routes](https://lookback.io/watch/kH3oS3z8nAoWMsJ8B?t=28m39.7s-34m42s)”. However they understand that there are two courses. Also makes the point that if you do not know the acronyms then it could appear meaningless to some users (but not themself).
 
-        Looking at the second result, participant 122 doesn’t see the folded options, he only sees the bottom of the two options – ‘for the SCITT route you’re only getting your QTS, not your PGCE’. It seems to be due to his assumption that SCITTs dont do a PGCE. However [he says it’s due to a it not being visually clear](https://lookback.io/watch/Z3nCygSqTdw3agSGh?t=17m50.8s-22m24s).
+        Looking at the second result, participant 122 does not see the folded options, he only sees the bottom of the two options – ‘for the SCITT route you’re only getting your QTS, not your PGCE’. It seems to be due to his assumption that SCITTs dont do a PGCE. However [he says it’s due to a it not being visually clear](https://lookback.io/watch/Z3nCygSqTdw3agSGh?t=17m50.8s-22m24s).
     - text: First course
       caption: |
-        The folded Apply option doesn’t seem to work with participant 122 in the sense that [they do not see it or click it](https://lookback.io/watch/Z3nCygSqTdw3agSGh?t=31m11.7s-35m45s).
+        The folded Apply option does not seem to work with participant 122 in the sense that [they do not see it or click it](https://lookback.io/watch/Z3nCygSqTdw3agSGh?t=31m11.7s-35m45s).
     - text: Second course
     - text: Third course
     - text: Fourth course

@@ -32,7 +32,7 @@ UCAS keeps contact details for the following purposes:
 - new application alerts
 - recipient of GT12 letter responses from successful applicants
 
-From what we know, UCAS haven’t collected permission to share these contacts with us. This means that because of GDPR they cannot give us any contact details containing personally identifiable information.
+From what we know, UCAS have not collected permission to share these contacts with us. This means that because of GDPR they cannot give us any contact details containing personally identifiable information.
 
 The interface for seeing and editing these contact details is going away in UCAS. Department for Education (DfE) is becoming responsible for them.
 

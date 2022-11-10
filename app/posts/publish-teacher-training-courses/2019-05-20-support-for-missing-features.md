@@ -21,7 +21,7 @@ If they do not have a mail client configured, or if it’s configured for the wr
 
 ## Make features discoverable
 
-Where a new feature was designed to be discoverable, people are looking for it – often in the right place – but we haven’t built it yet.
+Where a new feature was designed to be discoverable, people are looking for it – often in the right place – but we have not built it yet.
 
 In the place where a feature should be there’s no action and no confirmation that they would have found it. This leads users to continue searching, some try another feature for the wrong purpose – ie the only one they can find.
 

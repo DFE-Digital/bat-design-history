@@ -23,7 +23,7 @@ Users told us that those UCAS contact details would not be correct.
 
 We import data from UCAS’s NetUpdate tool. We do not use any of the Entry Profiles information. Entry Profiles is the tool that Publish courses will replace, it is not available to training providers for the 2019/2020 cycle.
 
-Contact details for institutions in NetUpdate are incomplete, they do not have email and address fields. The websites stored haven’t been validated, they often do not have a protocol.
+Contact details for institutions in NetUpdate are incomplete, they do not have email and address fields. The websites stored have not been validated, they often do not have a protocol.
 
 The information shown to applicants is actually stored in the Entry Profiles system. Here there are well formatted addresses, telephone numbers, emails and validated websites.
 

@@ -49,4 +49,4 @@ A ‘Show all courses‘ option is selected by default.
 
 ## Next steps
 
-We plan to do some further user research to check that the second iteration addresses the issues, and doesn’t introduce any new ones.
+We plan to do some further user research to check that the second iteration addresses the issues, and does not introduce any new ones.

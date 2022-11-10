@@ -274,7 +274,7 @@ Becoming a Teacher team
 "
 }) }}
 
-### Providers who haven’t published any courses
+### Providers who have not published any courses
 
 We used the same format as above but with a different opening section:
 

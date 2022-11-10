@@ -194,7 +194,7 @@ The following email was sent to Publish users in October. ([Notify link](https:/
 
 Courses for the 2021 to 2022 recruitment cycle will be published to Find postgraduate teacher training tomorrow, Tuesday 6 October.
 
-If you haven’t already, you should go to Publish teacher training courses now and publish your courses. Do this by pressing the green ‘Publish in October’ button on the individual course pages.
+If you have not already, you should go to Publish teacher training courses now and publish your courses. Do this by pressing the green ‘Publish in October’ button on the individual course pages.
 
 If you do not do so, they will not appear on Find tomorrow. You must publish your courses to enable candidates to apply for them through UCAS or DfE Apply – applications open on Tuesday 13 October.
 

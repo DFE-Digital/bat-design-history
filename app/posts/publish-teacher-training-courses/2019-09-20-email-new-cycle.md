@@ -25,7 +25,7 @@ If any of this is missing, you will not be able to publish the course, and it wi
 
 ### Add your content to Publish now
 
-If you haven’t added content to the mandatory fields in Publish, we strongly advise you to do this as soon as possible. Any courses without this information - even if they appeared on Find for the 2019/20 cycle - cannot be published for the upcoming cycle, and candidates will not be able to apply to them via Gov.uk. You must add your content and publish the course before 1 October to ensure it appears on Find when the new cycle opens.
+If you have not added content to the mandatory fields in Publish, we strongly advise you to do this as soon as possible. Any courses without this information - even if they appeared on Find for the 2019/20 cycle - cannot be published for the upcoming cycle, and candidates will not be able to apply to them via Gov.uk. You must add your content and publish the course before 1 October to ensure it appears on Find when the new cycle opens.
 
 If you have any questions, or need any help in adding your content, please contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 

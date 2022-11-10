@@ -48,7 +48,7 @@ On toggling the full screen mode of a smaller map when prompted: [“\[The bigge
 
 ### The black dots are not seen or used
 
-We knew that we hadn’t explained the difference between the black dot (training locations) and the markers (administrative or main site addresses), and we expected users to not understand the difference, but we wanted to explore how they reacted to them.
+We knew that we had not explained the difference between the black dot (training locations) and the markers (administrative or main site addresses), and we expected users to not understand the difference, but we wanted to explore how they reacted to them.
 
 We found that most users did not engage with them:
 

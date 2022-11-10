@@ -55,7 +55,7 @@ When we tested with these providers they compared their courses with those of a 
 
 > “We want people to see a wide range of partner schools that we work with, for this subject” ([video](https://lookback.io/watch/j7XGfjfS8Bh4WrSzz?t=19m18s))
 
-(This work was parked to focus on UCAS transition. When providers can manage their locations in one place, it’ll be easier to fix and improve those locations. Map ideas haven’t been tested with users.)
+(This work was parked to focus on UCAS transition. When providers can manage their locations in one place, it’ll be easier to fix and improve those locations. Map ideas have not been tested with users.)
 
 ## Partner schools
 
@@ -72,7 +72,7 @@ There are constraints around how we show partner schools:
 - these schools cannot be broken down by subject, only by phase
 - providers do not want to give the impression that people can apply to specific schools
 
-> “We have to be careful that someone doesn’t apply to us because they want to work at a specific school … they can only apply to \[us\]” ([video](https://lookback.io/watch/j7XGfjfS8Bh4WrSzz?t=48m2.26s))
+> “We have to be careful that someone does not apply to us because they want to work at a specific school … they can only apply to \[us\]” ([video](https://lookback.io/watch/j7XGfjfS8Bh4WrSzz?t=48m2.26s))
 
 Breaking down schools by subject, if possible, can be misleading. For one provider they had 2 biology locations which just happened to be in Walthamstow, someone seeing that and looking from elsewhere might think that’s the only place they could be, which is not right.
 

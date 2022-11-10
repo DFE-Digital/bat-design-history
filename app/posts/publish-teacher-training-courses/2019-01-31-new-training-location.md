@@ -44,7 +44,7 @@ One user wanted to enter their school manually.
 
 No one has needed to edit the details pulled in from Edubase.
 
-On the summary screens we started with ‘Code’, which a user misunderstood. We renamed it to ‘UCAS campus code’ and haven’t seen any further issues. [One provider wanted to change the code](https://lookback.io/watch/vw6eDzqmL4s24rR2Y?t=51m43s) to something which aligns with the schools, eg St Mary’s could be M, and St Peter’s could be P.
+On the summary screens we started with ‘Code’, which a user misunderstood. We renamed it to ‘UCAS campus code’ and have not seen any further issues. [One provider wanted to change the code](https://lookback.io/watch/vw6eDzqmL4s24rR2Y?t=51m43s) to something which aligns with the schools, eg St Mary’s could be M, and St Peter’s could be P.
 
 [Research playback presentation](https://docs.google.com/presentation/d/17wz2ZWJCNbbqsaywigok-fHv07IUjjiLRSaffCuim64/edit)
 

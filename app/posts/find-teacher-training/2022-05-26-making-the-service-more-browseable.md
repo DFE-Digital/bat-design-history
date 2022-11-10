@@ -76,7 +76,7 @@ The team researched this speculative design using a concept testing approach in 
 
 - Candidates responded positively to the new design concepts, navigating to the results page without issue.
 - Find is a good place to present information that candidates can often miss, as candidates noted this information unprompted and found it useful or new.
-- Most participants had spent time on Get Into Teaching (GIT) but hadn’t always retained information that would help them in their search.
+- Most participants had spent time on Get Into Teaching (GIT) but had not always retained information that would help them in their search.
 - A dominant mental model for candidates is choosing a training provider rather than a course. This design approach better fits this mental model.
 - There is a need for more clarity for school-led courses and provider types, but this could reinforce existing misconceptions.
 

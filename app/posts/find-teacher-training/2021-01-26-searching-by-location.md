@@ -58,7 +58,7 @@ This is the [location problem](/publish-teacher-training-courses/the-location-pr
 
 ### School placements
 
-Candidates are based in a number of schools during training. Because location information doesn’t accurately reflect real placement locations:
+Candidates are based in a number of schools during training. Because location information does not accurately reflect real placement locations:
 
 - candidates may apply to a course based on an address that is not available
 - they may not know that they are placed in different locations during their training
@@ -76,7 +76,7 @@ However, a candidate will never be based at one location. Showing all addresses 
 
 ## A new approach
 
-Our challenge is to balance the candidate’s need to find courses based in a particular location while honestly reflecting the data we have, which doesn’t allow us to be specific about locations.
+Our challenge is to balance the candidate’s need to find courses based in a particular location while honestly reflecting the data we have, which does not allow us to be specific about locations.
 
 We have looked at matching the candidate’s location with a wider area. We initially considered using local authorities however, these can vary in size and have unrecognisable or unfamiliar names.
 
@@ -125,7 +125,7 @@ To distinguish between provider-generated content and standardised guidance, we 
 
 ![Standardised guidance boxout.](standardised-guidance-financial-support.png "An example of standardised guidance about financial support.")
 
-Finally, we currently show a map of the training locations a provider has given, alongside a table which shows a code for each location. This map gives an impression of accuracy and certainty, which doesn’t reflect reality, while the list of location codes is only useful if you decide to apply with UCAS.
+Finally, we currently show a map of the training locations a provider has given, alongside a table which shows a code for each location. This map gives an impression of accuracy and certainty, which does not reflect reality, while the list of location codes is only useful if you decide to apply with UCAS.
 
 We can remove the map, and only show the list of location codes if you choose to apply with UCAS.
 

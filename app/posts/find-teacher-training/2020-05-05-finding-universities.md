@@ -51,7 +51,7 @@ Problems included:
 - some schools are hard to find (eg which St Mary’s)
 - not all schools offer all subjects (ie sometimes the data will be inaccurate)
 - universities do not want candidates to see the list of schools (candidates cannot choose which school to go to, they will be placed by the university)
-- we couldn’t show these points on a map
+- we could not show these points on a map
 
 ### 2. Use school data to define an area
 

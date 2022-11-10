@@ -14,7 +14,7 @@ screenshots:
 
         The private beta data highlighted a new problem with this autocomplete: If we do not have course data for the provider a user searches for, the user sees a confusing error. (In this case the provider was the well known ‘Goldsmiths’)
 
-        By using school in the label we risk users searching for schools that are not ‘lead-schools’ – we haven’t seen this as a problem in research yet.
+        By using school in the label we risk users searching for schools that are not ‘lead-schools’ – we have not seen this as a problem in research yet.
     - text: Financial support
       caption: |
         Trial financial support content that is specific to business studies, [removing content about bursaries and scholarships](/find-teacher-training/private-beta/user-research-apr-12#financial-support), and moving details of support for other subjects to the bottom.

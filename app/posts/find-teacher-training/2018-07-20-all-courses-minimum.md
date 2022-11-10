@@ -28,7 +28,7 @@ screenshots:
 
         ### Vacancies
 
-        The design includes filters for vacancies. We aim to show only courses with vacancies but will provide a filter to see all courses – sometimes users need to see if there are more suitable courses nearby that they could apply to in the next cycle. This doesn’t need to be addressed until after launch – at launch all courses will have vacancies.
+        The design includes filters for vacancies. We aim to show only courses with vacancies but will provide a filter to see all courses – sometimes users need to see if there are more suitable courses nearby that they could apply to in the next cycle. This does not need to be addressed until after launch – at launch all courses will have vacancies.
 
         ### Results
 
@@ -43,7 +43,7 @@ screenshots:
         Participant 1 did not know if courses were salaried or not, “[None of them tell you if they are salaried or not – I assume it’s not salaried](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=31m31s)” (no salaried courses were shown, they were looking for unsalaried courses because they had a bursary).
     - text: Change subject
       caption: |
-        UCAS doesn’t have subjects for “Primary general”, “Primary mathematics” or “Primary physical education”.
+        UCAS does not have subjects for “Primary general”, “Primary mathematics” or “Primary physical education”.
 
         Business education is more commonly referred to as business studies.
 

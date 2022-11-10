@@ -30,7 +30,7 @@ A map is a little more complex than a listing because:
 
 This could make our result count confusing. eg "8 results found", but it shows 6 markers.
 
-The map design doesn’t currently cater for many of these scenarios.
+The map design does not currently cater for many of these scenarios.
 
 ### What are users expectations?
 

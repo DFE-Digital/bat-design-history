@@ -4,7 +4,7 @@ description: Asking for, validating and storing postcodes
 date: 2019-03-05
 ---
 
-We haven’t been validating postcodes in our contact addresses. This raises a few issues:
+We have not been validating postcodes in our contact addresses. This raises a few issues:
 
 - the UCAS API requires postcodes to be a certain length
 - our geocoding of the address will not be accurate

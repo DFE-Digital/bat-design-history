@@ -121,7 +121,7 @@ I need to understand the information on the course page
 So that I know whether I can apply.
 
 **As a provider**
-I need an alert system in Publish to know when I’ve done a content no-no, for example, a big red flag when I haven’t inserted paragraph breaks, or when a sentence is too long, or even when I use jargon - this will show up when I’m adding content.
+I need an alert system in Publish to know when I’ve done a content no-no, for example, a big red flag when I have not inserted paragraph breaks, or when a sentence is too long, or even when I use jargon - this will show up when I’m adding content.
 
 **As a provider**
 I need to know that it’s not ok to paste generic content across numerous course pages, for example, the same text for my maths, english, foreign languages and chemistry courses - perhaps there could be a way of detecting identical content in Publish, sending up a red flag to alert me to this.
@@ -167,7 +167,7 @@ So that the description is well structured.
 I need provocation to change ‘bad content’
 So that I do not just leave it how it is forever.
 
-> Analyse content and incentivise (for example, nudges/banners based on what they have/haven’t completed).
+> Analyse content and incentivise (for example, nudges/banners based on what they have/have not completed).
 
 **As a content designer**
 I’d like to see what other organisations have done to improve the quality of user-generated content, including ones outside government eg what systems do Right Move, Airbnb, etc have in place, if any.
