@@ -1,6 +1,6 @@
 ---
 title: Searching by location
-description: Considering a different way to model where providers offer school placements.
+description: Considering a different way to model where providers offer school placements
 date: 2021-01-26
 screenshots:
   items:
@@ -47,8 +47,8 @@ related:
 
 Currently, Find uses a model inherited from UCAS. This allows courses to show 2 types of location:
 
-* the training provider’s contact address
-* their training locations – places a candidate can apply to, but not necessarily where they will spend the majority, if any, of their time.
+- the training provider’s contact address
+- their training locations – places a candidate can apply to, but not necessarily where they will spend the majority, if any, of their time.
 
 Providers can add up to 37 addresses. Some set themselves up as multiple providers so they can add more locations (such as [West London Teaching School Alliance](https://web.archive.org/web/20210125160621/https://www.find-postgraduate-teacher-training.service.gov.uk/results/filter/provider?l=3&prev_l=none&prev_lat=none&prev_lng=none&prev_loc=none&prev_lq=none&prev_query=none&prev_rad=none&query=West+London+Teaching+School+Alliance)). Others only list one address (this is the case for 50% of SCITTs and 100% of HEIs).
 
@@ -58,11 +58,11 @@ This is the [location problem](/publish-teacher-training-courses/the-location-pr
 
 ### School placements
 
-Candidates are based in a number of schools during training. Because location information doesn’t accurately reflect real placement locations:
+Candidates are based in a number of schools during training. Because location information does not accurately reflect real placement locations:
 
-* candidates may apply to a course based on an address that is not available
-* they may not know that they are placed in different locations during their training
-* they may not know that the amount of time spent in school differs according to the training route.
+- candidates may apply to a course based on an address that is not available
+- they may not know that they are placed in different locations during their training
+- they may not know that the amount of time spent in school differs according to the training route.
 
 For candidates, choosing a location is important, yet because of poor location information, Find potentially sets the wrong expectation for where they will train.
 
@@ -76,7 +76,7 @@ However, a candidate will never be based at one location. Showing all addresses 
 
 ## A new approach
 
-Our challenge is to balance the candidate’s need to find courses based in a particular location while honestly reflecting the data we have, which doesn’t allow us to be specific about locations.
+Our challenge is to balance the candidate’s need to find courses based in a particular location while honestly reflecting the data we have, which does not allow us to be specific about locations.
 
 We have looked at matching the candidate’s location with a wider area. We initially considered using local authorities however, these can vary in size and have unrecognisable or unfamiliar names.
 
@@ -117,7 +117,7 @@ Course detail pages are largely made up of provider-generated content, but they 
 
 We could include standardised content about how placements work and explain that choosing a location comes later in the process. We can also include data about where a provider has placements if they have shared that information with us.
 
-To distinguish between provider-generated content and standardised guidance, we can use a box out device and link back to related content on Get Into Teaching. By using Get Into Teaching brand colours, we can give a subtle nod back to that part of the user journey.
+To distinguish between provider-generated content and standardised guidance, we can use a box out device and link back to related content on Get Into Teaching (GIT). By using Get Into Teaching brand colours, we can give a subtle nod back to that part of the user journey.
 
 ![Standardised guidance boxout.](standardised-guidance-school-placements.png "An example of standardised guidance about school placements.")
 
@@ -125,7 +125,7 @@ To distinguish between provider-generated content and standardised guidance, we 
 
 ![Standardised guidance boxout.](standardised-guidance-financial-support.png "An example of standardised guidance about financial support.")
 
-Finally, we currently show a map of the training locations a provider has given, alongside a table which shows a code for each location. This map gives an impression of accuracy and certainty, which doesn’t reflect reality, while the list of location codes is only useful if you decide to apply with UCAS.
+Finally, we currently show a map of the training locations a provider has given, alongside a table which shows a code for each location. This map gives an impression of accuracy and certainty, which does not reflect reality, while the list of location codes is only useful if you decide to apply with UCAS.
 
 We can remove the map, and only show the list of location codes if you choose to apply with UCAS.
 
@@ -139,3 +139,8 @@ Then we can set the scene about placements, be an authoritative source (and in t
 
 *[TTWA]: Travel to Work Area
 *[TTWAs]: Travel to Work Areas
+*[HEI]: Higher education institute
+*[HEIs]: Higher education institutes
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service

@@ -14,7 +14,7 @@ We’ve started looking at how to improve the experience for non-UK based candid
 
 As there are a few things that only international students need to know, we’ve added a new section to bring this information together.
 
-The section starts by saying whether that course is able to sponsor visas or not. This text is based on the answer providers give to the [new visa sponsorship questions](/publish-teacher-training-courses/visa-sponsorship/) on the Publish service.
+The section starts by saying whether that course is able to sponsor visas or not. This text is based on the answer providers give to the [new visa sponsorship questions](/publish-teacher-training-courses/visa-sponsorship/) in the Publish teacher training courses (Publish) service.
 
 The rest of the information is static, and the same for every course.
 

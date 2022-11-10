@@ -1,6 +1,6 @@
 ---
 title: Preparing for more features
-description: Updating the organisation and courses pages to accommodate new features being added as part of UCAS transition.
+description: Updating the organisation and courses pages to accommodate new features being added as part of UCAS transition
 date: 2019-01-30
 screenshots:
   items:
@@ -16,8 +16,8 @@ With all the courses being listed on the organisation page, the page was growing
 
 Tidy up the organisation page by:
 
-* moving courses to its own page
-* removing steps from titles, the order of completion is less important now
-* make the titles links, following the course page pattern
+- moving courses to its own page
+- removing steps from titles, the order of completion is less important now
+- make the titles links, following the course page pattern
 
 We’re also testing a space for guidance in the right hand column

@@ -1,6 +1,6 @@
 ---
 title: Financial incentives
-description: Changes made to the financial incentives logic for courses with multiple subjects.
+description: Changes made to the financial incentives logic for courses with multiple subjects
 date: 2019-03-26
 ---
 
@@ -8,10 +8,10 @@ date: 2019-03-26
 
 There are a number of courses offered by providers that combine two discrete subjects into a single course. For example:
 
-* English and Media (38PP) - University of Sussex
-* Drama (with English) (2N9G) - Middlesex University
-* Media Studies (with English) (2VQZ) - The Royal Greenwich Teaching School Alliance
-* Physical Education with Biology (3CZB) - University of Wolverhampton
+- English and Media (38PP) - University of Sussex
+- Drama (with English) (2N9G) - Middlesex University
+- Media Studies (with English) (2VQZ) - The Royal Greenwich Teaching School Alliance
+- Physical Education with Biology (3CZB) - University of Wolverhampton
 
 This is due to the fact that there have not been consistent naming conventions in UCAS.
 
@@ -19,8 +19,8 @@ Currently, Find presents bursary information automatically, choosing the higher 
 
 The impact of this is two-part:
 
-* Candidates are unclear what bursaries are available to them
-* The Department does not know what bursary payment to make to the candidate
+- Candidates are unclear what bursaries are available to them
+- The Department for Education (DfE) does not know what bursary payment to make to the candidate
 
 ## What have we done?
 
@@ -28,7 +28,7 @@ We searched the database for courses with multiple subject tags and used these a
 
 We contacted these providers to discuss subject weighting, bursary eligibility and how this eligibility is decided.
 
-Additionally, we spoke to ITT funding to get an understanding of policy around dual subjects and funding.
+Additionally, we spoke to initial training funding (ITT) funding to get an understanding of policy around dual subjects and funding.
 
 ## What did policy tell us?
 
@@ -42,8 +42,8 @@ Any complications are settled on a case by case basis between the Funding team a
 
 As a result, to be able to offer (assess for, in policy speak) a bursary, a provider must:
 
-* have allocations to the subject in question
-* register a training position as the subject that holds the bursary
+- have allocations to the subject in question
+- register a training position as the subject that holds the bursary
 
 They must, in this instance, provide evidence that the course content contained at least 50% weighted to the subject that it is being registered for.
 
@@ -51,8 +51,8 @@ They must, in this instance, provide evidence that the course content contained 
 
 Due to the feedback from policy, the team decided to focus on the problem that derived from our logic. This could be categorised as:
 
-* A ‘subject with subject’ course (for example, PE with Mathematics)
-* Where the first subject in the course title does not offer a bursary, but the second does
+- A ‘subject with subject’ course (for example, Physical Education with Mathematics)
+- Where the first subject in the course title does not offer a bursary, but the second does
 
 ## What was the scale of the issue?
 
@@ -64,8 +64,10 @@ We decided to deliver a quick fix to the problem and work with the financial inc
 
 As a short term solution, the team updated the financial incentives information to ‘eligible for student loans’ for:
 
-* Courses that contain ‘with’ in the title
-* Courses that start with: Drama, Media Studies, Physical Education and PE
-* Courses with more than one subject tag in the database
+- Courses that contain ‘with’ in the title
+- Courses that start with: Drama, Media Studies and Physical Education
+- Courses with more than one subject tag in the database
 
 This problem has now been resolved for the 17 courses identified.
+
+*[UCAS]: Universities and colleges admissions service

@@ -35,8 +35,8 @@ We could:
 
 ### Recommendation
 
-* A technical prototype for option 4 to test how search results will be affected
-* Research and design option 3 and 4 to test our assumptions and see if defining an area is a viable approach
+- A technical prototype for option 4 to test how search results will be affected
+- Research and design option 3 and 4 to test our assumptions and see if defining an area is a viable approach
 
 ### 1. Capture data on every school
 
@@ -46,12 +46,12 @@ We used [a school autocomplete](/publish-teacher-training-courses/schools-autoco
 
 Problems included:
 
-* too much data to add
-* too long a list to maintain
-* some schools are hard to find (eg which St Mary’s)
-* not all schools offer all subjects (ie sometimes the data will be inaccurate)
-* universities don’t want candidates to see the list of schools (candidates can’t *hoose which school to go to, they will be placed by the university)
-* we couldn’t show these points on a map
+- too much data to add
+- too long a list to maintain
+- some schools are hard to find (eg which St Mary’s)
+- not all schools offer all subjects (ie sometimes the data will be inaccurate)
+- universities do not want candidates to see the list of schools (candidates cannot choose which school to go to, they will be placed by the university)
+- we could not show these points on a map
 
 ### 2. Use school data to define an area
 
@@ -59,9 +59,9 @@ Mostly relevant to solving the problem of showing course results on a map. We al
 
 Problems included:
 
-* all the problems of capturing schools again
-* complexity of deriving an area from points
-* [strange looking areas on maps](/find-teacher-training/maps-for-providers-with-many-partners#outline-schools-and-ignore-outliers)
+- all the problems of capturing schools again
+- complexity of deriving an area from points
+- [strange looking areas on maps](/find-teacher-training/maps-for-providers-with-many-partners#outline-schools-and-ignore-outliers)
 
 ### 3. Ask for universities to define an area
 
@@ -69,15 +69,15 @@ Instead of telling us each school and deriving an area, they could give us their
 
 This means:
 
-* there's no long list of schools to maintain
-* no schools are shown to candidates
-* we'd have an area we could show on a map in the future
+- there's no long list of schools to maintain
+- no schools are shown to candidates
+- we'd have an area we could show on a map in the future
 
 But it depends on providers:
 
-* being able to define an area (eg by drawing on a map, or by specifying a circle’s centre and radius)
-* having a geographical understanding of roughly where their schools are
-* using their own list of schools to refine that area
+- being able to define an area (eg by drawing on a map, or by specifying a circle’s centre and radius)
+- having a geographical understanding of roughly where their schools are
+- using their own list of schools to refine that area
 
 With the area defined, any candidate searches that fall within that area can be prioritised. We'd need to show university search results slightly differently. Rather than "2 miles to nearest location", we’d need to say something like "works with schools in this area".
 
@@ -85,8 +85,11 @@ We have an initial prototype for this, screenshots shown below.
 
 ### 4. Make some assumptions about universities
 
-All of these approaches depend on every provider giving us decent data. They're good longterm solutions but they won’t improve search results immediately, and as data is collected the benefits may only be seen by some.
+All of these approaches depend on every provider giving us decent data. They're good longterm solutions but they will not improve search results immediately, and as data is collected the benefits may only be seen by some.
 
 Alternatively, we could assume that each university works with many schools near to its campus. Rather than representing that campus as a single point, we might extend the point by something like 5 miles, creating an estimated area for that university.
 
 Like option 3, searches within that area or close to it can then be prioritised, giving each university course a greater likelihood of showing in search results.
+
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

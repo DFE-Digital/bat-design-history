@@ -26,19 +26,19 @@ screenshots:
 
 [Edit screen workflows in a Google Drawing](https://docs.google.com/drawings/d/1OrJYSTmRSJD2GEAWFnr2lXLNo7A9J9GDsPMQUm0Pi0M/edit) and the [new course flow](https://docs.google.com/drawings/d/1DAhz464j1XDyQPoOH0adIwAceUwuGU1rqsWkVn8ZQ8I/edit) for context.
 
-Edits to one field can affect another. Changes should always lead to a Confirm your changes screen, and only after confirming will they be persisted. If a course is already published the changes will go live straight away. We need this mechanism first.
+Edits to one field can affect another. Changes should always lead to a ‘Confirm your changes’ screen, and only after confirming will they be persisted. If a course is already published the changes will go live straight away. We need this mechanism first.
 
 Then we should focus on fields providers edit in-cycle:
 
-* Locations
-* Full or part time
-* UCAS pending GCSEs and eligibility
+- Locations
+- Full or part time
+- UCAS pending GCSEs and eligibility
 
 We might also want to make the following editable to improve data, and for languages to improve how findable some courses are:
 
-* Outcome
-* Age range
-* Languages
+- Outcome
+- Age range
+- Languages
 
 Further education screens are probably out of scope for MVP.
 
@@ -64,3 +64,8 @@ Further education screens are probably out of scope for MVP.
 | [Confirm changes](#confirm-your-change) | All edits must be summarised before confirming | High | High | -- |
 
 <!-- markdownlint-enable MD051 -->
+
+*[GCSE]: General certificate of secondary education
+*[GCSEs]: General Certificate of Secondary Education
+*[UCAS]: Universities and colleges admissions service
+*[SEND]: Special Educational Needs and Disabilities

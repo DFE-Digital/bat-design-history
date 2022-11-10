@@ -1,6 +1,6 @@
 ---
 title: Experimental new course wizard
-description: Breaking down data required for each course into a page-per-thing wizard.
+description: Breaking down data required for each course into a page-per-thing wizard
 date: 2018-05-10
 screenshots:
   items:

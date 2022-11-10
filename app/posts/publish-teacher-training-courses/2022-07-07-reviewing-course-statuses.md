@@ -8,7 +8,7 @@ Courses in Publish postgraduate teacher training courses (Publish) are assigned 
 
 Statuses are helpful to users as they allow users to see where the course is in its publishing lifecycle.
 
-Statuses also enable DfE to analyse data to:
+Statuses also enable Department for Education (DfE) to analyse data to:
 
 - understand user behaviour
 - improve the service
@@ -136,3 +136,5 @@ With the removal of the ‘Published with unpublished changes’ status, we coul
 ### Scheduled
 
 We may want to introduce a ‘Scheduled’ status to distinguish between courses published but not yet live on Find and courses published and live on Find.
+
+*[UCAS]: Universities and colleges admissions service

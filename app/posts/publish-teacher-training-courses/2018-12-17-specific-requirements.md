@@ -1,6 +1,6 @@
 ---
 title: Specific course requirements for UCAS Apply
-description: Documentation on minimum qualifications settings in UCAS web-link and apply.
+description: Documentation on minimum qualifications settings in UCAS web-link and apply
 date: 2018-12-17
 screenshots:
   items:
@@ -24,7 +24,7 @@ Depending on the qualification selected in the Education section of apply and th
       <th class="govuk-table__header" scope="col">1: Must have</th>
       <th class="govuk-table__header" scope="col">2: Taking</th>
       <th class="govuk-table__header" scope="col">3: Equivalency test</th>
-      <th class="govuk-table__header" scope="col">9: Don’t care</th>
+      <th class="govuk-table__header" scope="col">9: do not care</th>
     </tr>
   </thead>
   <tbody class="govuk-table__body">
@@ -105,10 +105,12 @@ This option accepts applicants who have the qualification, have a pending qualif
 
 An equivalency test is not the same as entering an equivalent qualification in the Education section (eg an international baccalaureate with a top score of 45)
 
-### 9: Don’t care (Further education only, ‘same as N/A’)
+### 9: do not care (Further education only, ‘same as N/A’)
 
 Example course: [B60/X341](https://find-postgraduate-teacher-training.education.gov.uk/course/B60/X341)
 
 > You do not require an applicant to hold GCSE grades A-C, 4 or above, or equivalent. This code can only be used for further education or post-compulsory education courses.
 
 This option accepts all applicants, even if they have grades below a C.
+
+*[UCAS]: Universities and colleges admissions service

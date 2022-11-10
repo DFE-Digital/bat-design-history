@@ -45,7 +45,7 @@ We changed:
 
 - the title to “Course information” to distinguish it from the “About this course” field
 - all instances of “applicant” to “candidate” so that the terminology is consistent with other BAT services
-- all negative contractions, for example, “can’t” to “cannot”
+- all negative contractions, for example, “cannot” to “cannot”
 - all instances of “e.g.” to “for example”
 
 We removed a bullet point advising the user to make course content unique and to not copy from other courses. We have the functionality to copy content from a course, so this advice was contradictory.

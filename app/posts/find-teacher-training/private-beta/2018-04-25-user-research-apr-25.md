@@ -12,9 +12,9 @@ screenshots:
 
         Users had a better understanding of how to use this field.
 
-        The private beta data highlighted a new problem with this autocomplete: If we don’t have course data for the provider a user searches for, the user sees a confusing error. (In this case the provider was the well known ‘Goldsmiths’)
+        The private beta data highlighted a new problem with this autocomplete: If we do not have course data for the provider a user searches for, the user sees a confusing error. (In this case the provider was the well known ‘Goldsmiths’)
 
-        By using school in the label we risk users searching for schools that are not ‘lead-schools’ – we haven’t seen this as a problem in research yet.
+        By using school in the label we risk users searching for schools that are not ‘lead-schools’ – we have not seen this as a problem in research yet.
     - text: Financial support
       caption: |
         Trial financial support content that is specific to business studies, [removing content about bursaries and scholarships](/find-teacher-training/private-beta/user-research-apr-12#financial-support), and moving details of support for other subjects to the bottom.
@@ -59,7 +59,7 @@ screenshots:
 
         ### Result
 
-        Users saw and interacted with these links, but this didn’t prevent an initial misconception about the number of courses available to them. The design helps users find more courses but more work is needed to avoid this situation altogether.
+        Users saw and interacted with these links, but this did not prevent an initial misconception about the number of courses available to them. The design helps users find more courses but more work is needed to avoid this situation altogether.
     - text: Full course details
     - text: Study type filter
     - text: Qualifications filter
@@ -67,5 +67,5 @@ screenshots:
 
 Testing with users in the [middle of the digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals).
 
-* [Research summary](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/301596673/15th+Round+-+26th+April)
-* [Discussion guide](https://docs.google.com/document/d/12-FAWM0O5FxnodMo2B_1t4y88iOWSPqTZALVfhNC1Tc/edit)
+- [Research summary](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/301596673/15th+Round+-+26th+April)
+- [Discussion guide](https://docs.google.com/document/d/12-FAWM0O5FxnodMo2B_1t4y88iOWSPqTZALVfhNC1Tc/edit)

@@ -10,7 +10,7 @@ screenshots:
 
 Course descriptions on Find postgraduate teacher training (Find) include a section called ‘International candidates’. This section outlines what international candidates need to be able to undertake the course, such as visa requirements.
 
-Teaching apprenticeships for international candidates have additional requirements that weren’t included in the section.
+Teaching apprenticeships for international candidates have additional requirements that were not included in the section.
 
 ## What we changed
 

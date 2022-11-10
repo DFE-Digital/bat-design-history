@@ -1,6 +1,6 @@
 ---
 title: Emails for the new 2019/20 cycle
-description: Prompts and updates for providers.
+description: Prompts and updates for providers
 date: 2019-09-20
 ---
 
@@ -17,15 +17,15 @@ Last week we emailed to tell you that you can now publish your courses for the 2
 
 To publish a course, you must add all the mandatory information in Publish. This includes:
 
-* a course description
-* details about school placements
-* a profile of you as a provider
+- a course description
+- details about school placements
+- a profile of you as a provider
 
-If any of this is missing, you won’t be able to publish the course, and it won’t appear on Find.
+If any of this is missing, you will not be able to publish the course, and it will not appear on Find.
 
 ### Add your content to Publish now
 
-If you haven’t added content to the mandatory fields in Publish, we strongly advise you to do this as soon as possible. Any courses without this information - even if they appeared on Find for the 2019/20 cycle - can’t be published for the upcoming cycle, and candidates won’t be able to apply to them via Gov.uk. You must add your content and publish the course before 1 October to ensure it appears on Find when the new cycle opens.
+If you have not added content to the mandatory fields in Publish, we strongly advise you to do this as soon as possible. Any courses without this information - even if they appeared on Find for the 2019/20 cycle - cannot be published for the upcoming cycle, and candidates will not be able to apply to them via Gov.uk. You must add your content and publish the course before 1 October to ensure it appears on Find when the new cycle opens.
 
 If you have any questions, or need any help in adding your content, please contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 

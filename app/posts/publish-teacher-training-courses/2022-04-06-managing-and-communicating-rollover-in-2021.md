@@ -1,6 +1,6 @@
 ---
 title: Managing and communicating rollover in 2021
-description: We duplicated courses, added a new page to the service and informed users about the rollover process.
+description: We duplicated courses, added a new page to the service and informed users about the rollover process
 date: 2022-04-05
 related:
   items:
@@ -274,7 +274,7 @@ Becoming a Teacher team
 "
 }) }}
 
-### Providers who haven’t published any courses
+### Providers who have not published any courses
 
 We used the same format as above but with a different opening section:
 
@@ -305,3 +305,8 @@ We are in the process of creating a rollover plan for 2022. We know from user re
 As a team, we’re compiling a list of important information we feel users need to know for rollover 2022. This information will help to inform our messaging and timing.
 
 <!-- markdownlint-enable MD001 MD025 -->
+
+*[ITT]: Initial teacher training
+*[NASBTT]: National Association of School-Based Teacher Trainers
+*[UCAS]: Universities and colleges admissions service
+*[UCET]: Universities’ Council for the Education of Teachers

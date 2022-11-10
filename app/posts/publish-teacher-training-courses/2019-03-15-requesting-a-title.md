@@ -1,6 +1,6 @@
 ---
 title: Requesting a title
-description: What happens when a provider asks for a custom title.
+description: What happens when a provider asks for a custom title
 date: 2019-03-15
 ---
 

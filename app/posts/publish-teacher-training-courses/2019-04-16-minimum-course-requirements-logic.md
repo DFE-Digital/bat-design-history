@@ -1,6 +1,6 @@
 ---
 title: Logic mapping UCAS eligibility questions to API codes
-description: Which code should the API sent to UCAS based on a provider’s answers to questions.
+description: Which code should the API sent to UCAS based on a provider’s answers to questions
 date: 2019-04-16
 screenshots:
   items:
@@ -14,16 +14,16 @@ UCAS sets a status (1, 2, 3, 9 or n/a) for Maths, English and Science for each c
 
 In our design we instead ask two questions:
 
-* will you receive applications from candidates with pending GCSEs?
-* will you receive applications from candidates who need to take an English, Maths or Science equivalency test?
+- will you receive applications from candidates with pending GCSEs?
+- will you receive applications from candidates who need to take an English, Maths or Science equivalency test?
 
 ## What subjects are required?
 
 Maths and English are required for Primary and Secondary courses. Additionally science is needed for Primary.
 
-We don’t ask the questions for Further education courses because there is no legal requirement.
+We do not ask the questions for Further education courses because there is no legal requirement.
 
-When a subject isn’t required use the UCAS code 9\. When it is required, use the one derived from answers to the questions.
+When a subject is not required use the UCAS code 9\. When it is required, use the one derived from answers to the questions.
 
 | Level | English | Maths | Science |
 |-|-|-|-|
@@ -43,4 +43,8 @@ A user can select Yes to equivalency tests but can restrict this by subject (see
 | No | No| 1 |
 | No | Yes| Invalid* |
 
-\* It’s possible to make an invalid choice – UCAS doesn’t allow you to receive applications from candidates needing to take an equivalency test if you’ve blocked applications from candidates with pending GCSEs. In this case we need to warn the user with a validation message.
+\* It’s possible to make an invalid choice – UCAS does not allow you to receive applications from candidates needing to take an equivalency test if you’ve blocked applications from candidates with pending GCSEs. In this case we need to warn the user with a validation message.
+
+*[GCSE]: General certificate of secondary education
+*[GCSEs]: General Certificate of Secondary Education
+*[UCAS]: Universities and colleges admissions service

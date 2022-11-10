@@ -10,17 +10,17 @@ related:
       href: https://miro.com/welcomeonboard/yADFg4XSksX2gQpJCVr1VMl8Q7hYYV0TaDUKObyCYuZp2Mam2b1K65efFUBhEY3b
 ---
 
-Members of the Find team participated in a workshop to collect ideas for course page improvements that address the needs of candidates, providers and the DfE.
+Members of the Find postgraduate teacher training (Find) team participated in a workshop to collect ideas for course page improvements that address the needs of candidates, providers and the Department for Education (DfE).
 
 ## Who attended?
 
-* 2 x Interaction designers
-* Content designer
-* User researcher
-* Product owner
-* Delivery mananger
-* Business analyst
-* Front end developer
+- 2 x Interaction designers
+- Content designer
+- User researcher
+- Product owner
+- Delivery mananger
+- Business analyst
+- Front end developer
 
 ## User needs
 
@@ -39,12 +39,12 @@ I need a clear, at a glance understanding of the structure of the course.
 
 **As a candidate wanting to apply for a course**
 I need to know if my qualifications are good enough
-So that I don’t waste a choice on a course I won’t be successful in.
+So that I do not waste a choice on a course I will not be successful in.
 
 > Use structured data to capture provider’s requirements for a course, for example:
 >
-> * You only need legal minimum
-> * You must have X degree grade
+> - You only need legal minimum
+> - You must have X degree grade
 
 **As a potential candidate**
 I need to know the requirements a provider has before I apply
@@ -66,10 +66,10 @@ So that I can estimate my commute time.
 >
 > Use structured data to collect time spent in different locations, for example:
 >
-> * 1 day per week at Uni
-> * 5 weeks at Uni
-> * 2 weeks at first placement school
-> * 6 weeks in each placement school
+> - 1 day per week at Uni
+> - 5 weeks at Uni
+> - 2 weeks at first placement school
+> - 6 weeks in each placement school
 
 **As a candidate who wants to find a course to become a teacher**
 I need to have specific information about the course
@@ -77,10 +77,10 @@ So that I can understand if it’s the right course for me.
 
 > Add specific information about:
 >
-> * Where - Location - Where I’m going to be based and for how long
-> * When - Time - for how many days
-> * What - To do what - what I’m going to do and why?
-> * Who - Tutors / mentors / support available
+> - Where - Location - Where I’m going to be based and for how long
+> - When - Time - for how many days
+> - What - To do what - what I’m going to do and why?
+> - Who - Tutors / mentors / support available
 
 **As a candidate**
 I need to know if there are course vacancies or low on vacancies
@@ -111,7 +111,7 @@ So that I can correctly interpret the course page.
 >
 > Ban other abbreviations.
 >
-> Add validations or warnings to commonly used terms or phrases that candidates don’t understand.
+> Add validations or warnings to commonly used terms or phrases that candidates do not understand.
 
 **As a candidate**
 I need to know what all these terms mean in plain English.
@@ -121,10 +121,10 @@ I need to understand the information on the course page
 So that I know whether I can apply.
 
 **As a provider**
-I need an alert system in Publish to know when I’ve done a content no-no, e.g. a big red flag when I haven’t inserted paragraph breaks, or when a sentence is too long, or even when I use jargon - this will show up when I’m adding content.
+I need an alert system in Publish to know when I’ve done a content no-no, for example, a big red flag when I have not inserted paragraph breaks, or when a sentence is too long, or even when I use jargon - this will show up when I’m adding content.
 
 **As a provider**
-I need to know that it’s not ok to paste generic content across numerous course pages, e.g. the same text for my maths, english, foreign languages and chemistry courses - perhaps there could be a way of detecting identical content in Publish, sending up a red flag to alert me to this.
+I need to know that it’s not ok to paste generic content across numerous course pages, for example, the same text for my maths, english, foreign languages and chemistry courses - perhaps there could be a way of detecting identical content in Publish, sending up a red flag to alert me to this.
 
 **As a provider**
 I need examples of really good content (relevant to my courses)
@@ -165,9 +165,9 @@ So that the description is well structured.
 
 **As a provider**
 I need provocation to change ‘bad content’
-So that I don’t just leave it how it is forever.
+So that I do not just leave it how it is forever.
 
-> Analyse content and incentivise (e.g. nudges/banners based on what they have/haven’t completed).
+> Analyse content and incentivise (for example, nudges/banners based on what they have/have not completed).
 
 **As a content designer**
 I’d like to see what other organisations have done to improve the quality of user-generated content, including ones outside government eg what systems do Right Move, Airbnb, etc have in place, if any.

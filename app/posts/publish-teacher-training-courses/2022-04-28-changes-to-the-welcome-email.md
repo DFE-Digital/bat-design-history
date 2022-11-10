@@ -14,7 +14,7 @@ related:
 
 Once a user has been onboarded, they receive a welcome email the first time they sign in.
 
-As part of our notification email audit, we found that our welcome email had some content that was out of date and a link that didn’t work.
+As part of our notification email audit, we found that our welcome email had some content that was out of date and a link that did not work.
 
 It also contained detailed instructions that are unnecessary. For example, the ‘Add course’ flow is designed to guide the user through the process of adding a course so instructions in an email for how to add a course is not required.
 

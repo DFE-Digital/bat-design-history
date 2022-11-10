@@ -50,10 +50,10 @@ We have not expanded abbreviations or automatically applied an abbreviation tag 
 We have not expanded or marked up abbreviations in the course results page filters. This is because we do not have enough space and do not want to combine hover and click interactions. We will reassess our approach in the future to ensure it meets our users’ needs.
 
 
-*[GCSE]: General Certificate of Secondary Education
-*[HTML]: Hyper Text Markup Language
-*[ITT]: Initial Teacher Training
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
+*[GCSE]: General certificate of secondary education
+*[HTML]: Hyper text markup language
+*[ITT]: Initial teacher training
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
 *[SEND]: Special Educational Needs and Disabilities

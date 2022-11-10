@@ -6,7 +6,7 @@ date: 2020-08-01
 
 {% from "email/macro.njk" import appEmail %}
 
-Publish sends notifications to accredited bodies so that they can keep student record systems up to date and in sync with UCAS. 
+Publish sends notifications to accredited bodies so that they can keep student record systems up to date and in sync with UCAS.
 
 Our [first round of notification templates](/publish-teacher-training-courses/notifications-mvp/) did not address all of their needs.
 
@@ -69,7 +69,7 @@ A course, which your organisation is the accredited body for, has been withdrawn
 
 ((provider_name)) withdrew ((course_name)) (((course_code))) in Publish teacher training courses, at ((withdraw_course_datetime)).
 
-This course is no longer visible on Find and candidates can’t apply to it. It also can’t be republished or reopened to applicants in the current cycle.
+This course is no longer visible on Find and candidates cannot apply to it. It also cannot be republished or reopened to applicants in the current cycle.
 
 If you have any questions about this change, please notify your contact at ((provider_name)).
 
@@ -131,7 +131,7 @@ The Becoming a Teacher team"
 
 ((vacancies_filled??A course in Find postgraduate teacher training, which your organisation is the accredited body for, no longer has vacancies.))((vacancies_opened??A course in Find postgraduate teacher training, which your organisation is the accredited body for, has been updated to show that it now has vacancies.))
 
-((provider_name)) ((vacancies_filled??closed))((vacancies_opened??opened)) applications to ((course_name)) (((course _code))) in Publish teacher training courses at ((vacancies_updated_datetime)). ((vacancies_filled??This course won’t be visible in Find unless users specifically search for courses without vacancies.))((vacancies_opened??This course is now visible in Find.))
+((provider_name)) ((vacancies_filled??closed))((vacancies_opened??opened)) applications to ((course_name)) (((course _code))) in Publish teacher training courses at ((vacancies_updated_datetime)). ((vacancies_filled??This course will not be visible in Find unless users specifically search for courses without vacancies.))((vacancies_opened??This course is now visible in Find.))
 
 View the course at ((course_url)).
 
@@ -167,3 +167,4 @@ Regards,
 The Becoming a Teacher team"
 }) }}
 
+*[UCAS]: Universities and colleges admissions service

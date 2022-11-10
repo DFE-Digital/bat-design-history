@@ -1,6 +1,6 @@
 ---
 title: Rollover – what we did in 2019
-description: How we handled our first rollover period.
+description: How we handled our first rollover period
 date: 2019-10-15
 screenshots:
   items:
@@ -30,34 +30,34 @@ In a subsequent cycle, location names and addresses can change, new locations ar
 
 So we copied:
 
-* every provider
-* every location for each provider
-* every course for each provider
-* the most recent enrichment for each course (published or draft)
-* organisation details
-* contact details
+- every provider
+- every location for each provider
+- every course for each provider
+- the most recent enrichment for each course (published or draft)
+- organisation details
+- contact details
 
 Each of these things could then be edited independently in each cycle. For example – a provider could be renamed only in the next cycle, courses could be added to the next cycle and vacancies could be edited in the current cycle.
 
 In the next cycle we had to indicate that:
 
-* courses would not go live until October
-* publishing would mark them as ready
-* tell them if a course would be on Find or not
+- courses would not go live until October
+- publishing would mark them as ready
+- tell them if a course would be on Find or not
 
 [A write up of Publishing during rollover](/publish-teacher-training-courses/publishing-during-rollover)
 
 Once the rollover period was enabled and providers could see two cycles, we notified users by email and with [a screen after logging in](https://github.com/DFE-Digital/publish-teacher-training/pull/430).
 
-At the end of rollover we considered whether to allow read-only access to the 2019 cycle. This was a lot to build, and we weren’t sure of the needs. Instead we removed all access with the intention of adding a link to previous cycles if a need arose. As of mid-October, no one has requested to see last year’s courses.
+At the end of rollover we considered whether to allow read-only access to the 2019 cycle. This was a lot to build, and we were not sure of the needs. Instead we removed all access with the intention of adding a link to previous cycles if a need arose. As of mid-October, no one has requested to see last year’s courses.
 
 ## Settings for manage-courses-frontend
 
 There are 3 settings in manage-courses-frontend:
 
-* rollover – true or false, are we in a rollover period (ie do we show multiple cycles)
-* current_cycle – a year, the current cycle
-* current_cycle_open – is the current cycle open, if it’s not it’s assumed it hasn’t opened yet
+- rollover – true or false, are we in a rollover period (ie do we show multiple cycles)
+- current_cycle – a year, the current cycle
+- current_cycle_open – is the current cycle open, if it’s not it’s assumed it has not opened yet
 
 When starting rollover, once all content has been copied, the rollover flag is switched to true.
 
@@ -66,3 +66,5 @@ When ending rollover, ie when the current cycle ends, the next cycle is promoted
 When the cycle opens, the cycle is marked as open ([Pull request](https://github.com/DFE-Digital/publish-teacher-training/pull/666))
 
 [Rollover settings on Github](https://github.com/DFE-Digital/publish-teacher-training/blob/baeaf4f28a51dea68c05f7641b03d65f831ecaf0/config/settings.yml#L46-L48)
+
+*[UCAS]: Universities and colleges admissions service

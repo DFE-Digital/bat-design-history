@@ -1,6 +1,6 @@
 ---
 title: Add a location – 13 February iteration
-description: Clarify the purpose of locations.
+description: Clarify the purpose of locations
 date: 2019-02-17
 screenshots:
   items:
@@ -19,9 +19,11 @@ Training locations is used in the UCAS application and on Find.
 
 This design tries to fix this by:
 
-* renaming ‘training locations’ to ‘locations’
-* adding content about candidates selecting these locations
-* providing a definition with a link to further guidance
-* checking the meaning is understood at the point of adding a location (using a checkbox)
+- renaming ‘training locations’ to ‘locations’
+- adding content about candidates selecting these locations
+- providing a definition with a link to further guidance
+- checking the meaning is understood at the point of adding a location (using a checkbox)
 
 Success messages after saving and edited have been added, these reinforce the message and give routes to editing courses.
+
+*[UCAS]: Universities and colleges admissions service

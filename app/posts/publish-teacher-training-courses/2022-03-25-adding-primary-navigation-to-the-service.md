@@ -163,7 +163,7 @@ Users belonging to a single organisation will know the organisation’s name.
 
 We show the organisation name in the switcher for users belonging to multiple organisations.
 
-An exception is when a multi-organisation user views email notification settings. We need to replay the organisation’s name as it doesn’t exist anywhere else.
+An exception is when a multi-organisation user views email notification settings. We need to replay the organisation’s name as it does not exist anywhere else.
 
 ## Further considerations
 

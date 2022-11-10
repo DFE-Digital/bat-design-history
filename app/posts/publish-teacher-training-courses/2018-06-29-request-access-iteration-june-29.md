@@ -1,6 +1,6 @@
 ---
 title: Request access
-description: Request access for users.
+description: Request access for users
 date: 2018-06-29
 screenshots:
   items:

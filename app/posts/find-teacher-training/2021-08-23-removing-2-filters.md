@@ -4,7 +4,7 @@ description: Why we removed subject and location as filters
 date: 2021-08-23
 ---
 
-We have recently added 2 new filtering options to Find, for [degree requirements](/find-teacher-training/degree-requirement-filter/) and for [visa sponsorship](/find-teacher-training/visa-sponsorship-filter/).
+We have recently added 2 new filtering options to Find postgraduate teacher training (Find), for [degree requirements](/find-teacher-training/degree-requirement-filter/) and for [visa sponsorship](/find-teacher-training/visa-sponsorship-filter/).
 
 In order to avoid the list of filters becoming overwhelming, we also reviewed the existing filters.
 
@@ -26,8 +26,8 @@ Removing the location and subjects filters means that all the filters work in th
 
 After removing the location and subject filters, we still needed to:
 
-* show users which location and subjects are currently selected
-* allow users to change location or subjects
+- show users which location and subjects are currently selected
+- allow users to change location or subjects
 
 To do this, we have replaced the ‘Teacher training courses‘ text, which appeared before the ‘31 courses found‘ h1 in dark grey text, with a line summarising the current location and subjects.
 
@@ -43,3 +43,4 @@ User research also validated the assumption that when searching for courses on F
 
 One issue we found was that the ‘New search’ link, which appeared right-aligned opposite ‘Sorted by distance’ on desktop but was more prominent on mobile, was now redundant as it does the same as the ‘Change’ link, and one user clicked it seemingly by accident. We have removed this link.
 
+*[h1]: Heading level 1

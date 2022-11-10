@@ -1,6 +1,6 @@
 ---
 title: Allocations alpha
-description: Designing to accomodate changes to the allocations process for 2021/22.
+description: Designing to accomodate changes to the allocations process for 2021 - 2022
 date: 2020-03-12
 screenshots:
   items:
@@ -34,14 +34,14 @@ tags:
   - PN006
 ---
 
-The Allocations alpha explored potential changes to the [previous Allocations process](/publish-teacher-training-courses/allocations-cycle-summary).
+The allocations alpha explored potential changes to the [previous allocations process](/publish-teacher-training-courses/allocations-cycle-summary).
 
 We prototyped and tested features to:
 
-* provide a clear understanding of the changes to the recruitment cycle
-* grant permission to recruit for uncapped courses as part of the add courses/rollover journey on Publish
-* enable accredited providers to request and receive allocations for capped courses on Publish
-* request undergraduate and early years initial teacher training course places
+- provide a clear understanding of the changes to the recruitment cycle
+- grant permission to recruit for uncapped courses as part of the add courses/rollover journey on Publish teacher training courses (Publish)
+- enable accredited providers to request and receive allocations for capped courses on Publish
+- request undergraduate and early years initial teacher training course places
 
 ## Proposed allocations process map
 
@@ -54,21 +54,21 @@ We prototyped and tested features to:
 
 ## Who we tested with
 
-* Kings College London
-* UCL (ITE Administrator, Programme Services Coordinator)
-* Leeds Beckett University (Head of Subject: Teacher Education)
-* Brunel University London (Acting College Education Manager)
-* Newman University, Birmingham (Head of Registry)
-* City College Norwich (Teaching Centre Director)
-* University of Cambridge (Head of PGCE and Undergraduate Office)
-* President Kennedy School (Teaching School Manager)
-* Bishop's Stortford Educational Trust  (Training Director)
-* University of Bristol (PGCE Director )
-* Middlesex University (Head of ITT, Data Officer)
-* Chipping Hill Essex (Headteacher)
-* SAF ITT - Sharnbrook Academy Federation
-* University College London (Data and Compliance Coordinator)
-* University of East Anglia (School Manager)
+- Bishop's Stortford Educational Trust (Training Director)
+- Brunel University London (Acting College Education Manager)
+- Chipping Hill Essex (Headteacher)
+- City College Norwich (Teaching Centre Director)
+- Kings College London
+- Leeds Beckett University (Head of Subject: Teacher Education)
+- Middlesex University (Head of ITT, Data Officer)
+- Newman University, Birmingham (Head of Registry)
+- President Kennedy School (Teaching School Manager)
+- SAF ITT - Sharnbrook Academy Federation
+- UCL, University College London (ITE Administrator, Programme Services Coordinator)
+- University College London (Data and Compliance Coordinator)
+- University of Bristol (PGCE Director)
+- University of Cambridge (Head of PGCE and Undergraduate Office)
+- University of East Anglia (School Manager)
 
 ## What we tested
 
@@ -146,8 +146,13 @@ The internal ownership of Publish varies by organisation: so the proposed new al
 
 > But I’m still slightly confused about having to supply recruitment figures for one [new PE courses] and not the other [existing PE courses]
 
-> I don’t have to complete spreadsheets… Hurrah!
+> I do not have to complete spreadsheets… Hurrah!
 
 > Overall, this is a huge step forward, it just needs a bit of work on getting the terminology right
 
 > I know what I’m doing here and am in control of it.
+
+*[ITT]: Initial teacher training
+*[PGCE]: Postgraduate certificate in education
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

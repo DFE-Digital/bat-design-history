@@ -1,6 +1,6 @@
 ---
 title: Formatting
-description: Paragraphs, lists and links.
+description: Paragraphs, lists and links
 date: 2018-08-14
 screenshots:
   items:
@@ -29,7 +29,7 @@ We could allow users to paste URLs into the textarea. If the URL is valid then i
 Something like this:
 [/publish-teacher-training-courses/formatting](/publish-teacher-training-courses/formatting)
 
-The problem with these sorts of links is that they aren’t accessible. They don’t have any useful labels to indicate what the link is for. The URL is often long and hard to read.
+The problem with these sorts of links is that they are not accessible. They do not have any useful labels to indicate what the link is for. The URL is often long and hard to read.
 
 ## HTML
 
@@ -58,3 +58,8 @@ Simple MDE (markdown editor) is a frontend library that enhances textareas to ma
 We can restrict features down to paragraphs, lists and links only. The library also provides an inline preview of how the markdown will render.
 
 We’ll test how this library performs out of the box in user research.
+
+*[HTML]: Hyper text markup language
+*[MDE]: Markdown editor
+*[URL]: Universal resource locator
+*[URLs]: Universal resource locators

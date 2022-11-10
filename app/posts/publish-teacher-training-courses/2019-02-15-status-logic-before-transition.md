@@ -1,6 +1,6 @@
 ---
 title: Status logic before UCAS transition
-description: How vacancies, applications and whether a course is on Find is derived from a set of training locations.
+description: How vacancies, applications and whether a course is on Find is derived from a set of training locations
 date: 2019-02-15
 ---
 
@@ -41,3 +41,5 @@ Training location vacancy status | Course vacancy status
 -------------------------------- | ---------------------
 Any has F (full time), P (part time), B (both) | Yes
 All have N (no vacancies) | No
+
+*[UCAS]: Universities and colleges admissions service

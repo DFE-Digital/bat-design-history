@@ -1,6 +1,6 @@
 ---
 title: Managing notifications
-description: Initial ideas for managing notifications.
+description: Initial ideas for managing notifications
 date: 2020-04-01
 screenshots:
   items:
@@ -14,7 +14,7 @@ related:
 tags:
   - PN003
 ---
-As a follow up to establishing a [notifications MVP](/publish-teacher-training-courses/notifications-mvp), we designed and conducted research on our initial ideas for managing email notifications within Publish.
+As a follow up to establishing a [notifications MVP](/publish-teacher-training-courses/notifications-mvp), we designed and conducted research on our initial ideas for managing email notifications within Publish teacher training courses (Publish).
 
 ## User needs
 
@@ -23,9 +23,9 @@ As a follow up to establishing a [notifications MVP](/publish-teacher-training-c
 
 ## Who we tested with
 
-* UCL
-* The University of Warwick
-* The University of Winchester
+- UCL, University College London
+- The University of Warwick
+- The University of Winchester
 
 ## What we learned
 
@@ -35,16 +35,18 @@ Participants saw notifications as an opportunity to help track activity across t
 
 Participants mentioned they might share notifications with the following groups within their organisation:
 
-* members of same team
-* admission team to update their  student information system
-* a manager to update their student information system
-* student administration
-* program lead and program administration within academic departments
+- members of same team
+- admission team to update their  student information system
+- a manager to update their student information system
+- student administration
+- program lead and program administration within academic departments
 
 ## Prototype feedback
 
 When asked to select notification frequency, all participants selected ‘Each time a change is made’.
 
-> “The key thing for me is being able to react to changes that the school partners make as quickly as possible. The vast majority won’t need any further action by me as they are within the prior agreements that we have made with our partners, but in the few cases where there may be errors or inaccuracies then I would want to contact the school as soon as possible.”
+> “The key thing for me is being able to react to changes that the school partners make as quickly as possible. The vast majority will not need any further action by me as they are within the prior agreements that we have made with our partners, but in the few cases where there may be errors or inaccuracies then I would want to contact the school as soon as possible.”
 
 Participants acknowledged the benefit of a daily/weekly/monthly digest and mentioned it could be suitable for some members of their organisation.
+
+*[MVP]: Minimum viable product

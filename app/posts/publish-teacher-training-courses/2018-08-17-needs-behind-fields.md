@@ -1,14 +1,14 @@
 ---
 title: Fields we ask for and why
-description: Documentation of needs around each course field.
+description: Documentation of needs around each course field
 date: 2018-08-17
 ---
 
 Courses are divided across 3 parts to make them easier to complete:
 
-* About this course
-* Course length, fees and salary
-* Requirements
+- About this course
+- Course length, fees and salary
+- Requirements
 
 This information is combined with details about the training provider which is shared across all of their courses.
 
@@ -66,7 +66,7 @@ We already provide details of DfE bursaries and subject scholarships but some pr
 
 ### Salary
 
-Applicants need to know what salary they’ll get if they choose a salaried course. Training providers can’t give this figure – it’s usually based on a national scale that’s not agreed until January. This field allows providers to give context about the salary without having a figure at hand.
+Applicants need to know what salary they’ll get if they choose a salaried course. Training providers cannot give this figure – it’s usually based on a national scale that’s not agreed until January. This field allows providers to give context about the salary without having a figure at hand.
 
 Applicants need to know when there are no fees to pay. When taking a salaried course there are usually (but not always) no fees to pay. We prompt providers to either explain their additional fees (eg top-ups) or be explicit when there are no fees.
 
@@ -127,3 +127,8 @@ Applicants with access needs need to know how a provider can accommodate those n
 As a potential teacher with accessibility needs, I need to contact the ‘accessibility expert’ directly so that I can get reassurance that the provider is genuinely catering for my needs and not ticking policy boxes.
 
 As a provider I need to communicate exactly how and to what extent we are provisioned for different accessibility needs, so that we attract potential teachers that we can cater for.
+
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

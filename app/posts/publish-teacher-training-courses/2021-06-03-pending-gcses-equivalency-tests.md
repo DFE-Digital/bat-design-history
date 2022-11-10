@@ -35,3 +35,6 @@ The equivalency test option does vary by GCSE subject though, as some providers 
 We also added an optional text field to allow providers to give further details on their equivalency tests, as research indicated that there were some variations around this, and that there may be other information that candidates need to know.
 
 ![Screenshot of second iteration.](second-iteration.png "Second iteration")
+
+*[GCSE]: General certificate of secondary education
+*[UCAS]: Universities and colleges admissions service

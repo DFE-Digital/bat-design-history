@@ -1,6 +1,6 @@
 ---
 title: Managing notifications – feedback from universities
-description: Changes to notifications following research with HEIs.
+description: Changes to notifications following research with HEIs
 date: 2020-05-04
 related:
   items:
@@ -29,9 +29,9 @@ Accredited bodies were asked to provide feedback on notifications initiated by t
 
 ## Who we tested with
 
-* UCL
-* Middlesex University
-* University of Bedfordshire
+- UCL, University Collge London
+- Middlesex University
+- University of Bedfordshire
 
 ## What we learned
 

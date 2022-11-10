@@ -1,6 +1,6 @@
 ---
 title: "UCAS Apply preferences: Letters and alerts"
-description: Only the GT12 letter and email alert preferences are needed.
+description: Only the GT12 letter and email alert preferences are needed
 date: 2019-03-01
 screenshots:
   items:
@@ -25,8 +25,8 @@ This design creates forms for editing those two preferences and puts a link to e
 
 Only provide options for the two commonly used letters:
 
-* Applicants must confirm their place (GT12B)
-* Applicants don’t need to respond (GT12)
+- Applicants must confirm their place (GT12B)
+- Applicants do not need to respond (GT12)
 
 The last two combined account for [5% of providers](/publish-teacher-training-courses/ucas-apply-preferences#gt12).
 
@@ -36,10 +36,14 @@ In the UCAS supporting documentation they provider a summary of what each letter
 
 We need to capture and show the GT12 correspondent email/url field. This gets inserted into any GT12 letter template when applicants need to contact the provider to confirm something.
 
-We don’t have this contact data for providers yet so we can’t see if providers more commonly use an email or a link.
+We do not have this contact data for providers yet so we cannot see if providers more commonly use an email or a link.
 
 ## Email alerts
 
 Bring the alert preference and the email the alerts are sent to together. When a provider says they want alerts there’s an email field to complete.
 
 For this to propagate to UCAS it needs to be sent through as the email for the UTT Output correspondent in the API.
+
+*[API]: Application programming interface
+*[UCAS]: Universities and colleges admissions service
+*[UTT]: UCAS teacher training

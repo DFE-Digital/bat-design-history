@@ -1,6 +1,6 @@
 ---
 title: "New course wizard: Accredited body – 5 February iteration"
-description: Remove one of the choices, and minimise the chance of error.
+description: Remove one of the choices, and minimise the chance of error
 date: 2019-02-13
 screenshots:
   items:
@@ -14,6 +14,9 @@ The original choice between we are the accredited body versus another organisati
 
 Update the design so that:
 
-* the original choice is removed, removing the opportunity for error
-* there’s a default list of accredited bodies they’ve worked with before – minimising the chance of choosing the wrong organisation
-* a new accredited provider can be used, if explicitly chosen
+- the original choice is removed, removing the opportunity for error
+- there’s a default list of accredited bodies they’ve worked with before – minimising the chance of choosing the wrong organisation
+- a new accredited provider can be used, if explicitly chosen
+
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

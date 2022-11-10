@@ -8,14 +8,14 @@ Since deploying the [new question asking about visa sponsorship](/publish-teache
 
 Whilst in the majority of cases, it is likely the provider themselves who hold the ability to sponsor Student or Skilled Worker visas, in some cases this will be a different organisation:
 
-* if the provider is a school, it may be that the organisation accrediting the Qualified Teacher Status (QTS) is the one who sponsors a Student visa
-* if the provider is school-centred initial teacher training provider (SCITT) with multiple schools in their partnership, it may be that the school where the candidate is placed is the one who sponsors a Skilled Worker visa
+- if the provider is a school, it may be that the organisation accrediting the Qualified Teacher Status (QTS) is the one who sponsors a Student visa
+- if the provider is school-centred initial teacher training provider (SCITT) with multiple schools in their partnership, it may be that the school where the candidate is placed is the one who sponsors a Skilled Worker visa
 
-In order to account for these scenarios, we have changed the questions from ‘Can you sponsor [type] visas?‘ to ‘Can candidates get a sponsored [type] visa...’.
+In order to account for these scenarios, we have changed the questions from ‘Can you sponsor [type] visas?‘ to ‘Can candidates get a sponsored [type] visa?’.
 
 We also removed the hint text about the type of courses this applies to (salary or fee-paying) and incorporated this into the question itself.
 
-Some further guidance was added before the questions which link to the registers of licenced visa sponsors, and to a page on GOV.UK which explains how providers can become a visa sponsor.
+Some further guidance was added before the questions which link to the registers of licensed visa sponsors, and to a page on GOV.UK which explains how providers can become a visa sponsor.
 
 ## Before
 

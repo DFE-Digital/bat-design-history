@@ -1,6 +1,6 @@
 ---
 title: Allocations process for 2020 – 2021
-description: A summary of the request process followed for this cycle.
+description: A summary of the request process followed for this cycle
 date: 2019-10-01
 related:
   items:
@@ -20,7 +20,7 @@ A summary of the process followed for the 2020 – 2021 recruitment cycle.
 
 ## What happened?
 
-Before this cycle started DTTP (Database of Teacher Training Providers) became unusable.
+Before this cycle started the Database of Teacher Training Providers (DTTP) became unusable.
 
 A new process was communicated to providers via an email sent from `itt.allocations@education.gov.uk` in early June. The email contained a spreadsheet to capture requested allocation data.
 
@@ -28,7 +28,7 @@ A new process was communicated to providers via an email sent from `itt.allocati
 
 [Completed request for permission to recruit in 2020 – 2021 spreadsheet](https://docs.google.com/spreadsheets/d/1Fr5hVrvUB7UAzQe3lF5LtMb7U3rd6y7hv0FavkVa0z4/edit?usp=sharing).
 
-Requests for additional PE places (PE with EBacc subject) were captured in [a separate form](https://drive.google.com/open?id=1vg8lo_59kpXDRw6aWfuFjJWzXQ0driok).
+Requests for additional Physical Education (PE) places (Physical Education with EBacc subject) were captured in [a separate form](https://drive.google.com/open?id=1vg8lo_59kpXDRw6aWfuFjJWzXQ0driok).
 
 ## Collecting allocations mid-cycle
 
@@ -36,7 +36,7 @@ Providers were required to submit a separate spreadsheet if they wanted to reque
 
 ## Email to providers 1
 
-This email was sent to ITT providers and lead schools.
+This email was sent to initial teacher training (ITT) providers and lead schools.
 
 {% set requestForAllocations %}
 Dear Colleague
@@ -51,11 +51,11 @@ As set out in the [Teacher Recruitment and Retention Strategy](https://www.gov.u
 
 This year, the request process will be different:
 
-* Lead schools must register by completing and returning the Lead school registration template to DfE.
-* Lead schools should also enter their School Direct and Postgraduate Teaching Apprenticeship (PGTA) requests to the requests template and pass on to their ITT provider, who will submit to DfE on their behalf.
-* ITT providers should enter their Provider-led and undergraduate requests onto their request template.
-* All request templates completed by ITT providers and lead schools must be submitted to DfE, using the template below, by the ITT provider only. Requests are not ratified unless submitted to DfE by the ITT provider.
-* Information submitted must include the minimum viability and forecast recruitment for each ITT course for ITT2020. Forecasts should reflect the number of trainees the partnership expects to realistically recruit to that course.
+- Lead schools must register by completing and returning the Lead school registration template to DfE.
+- Lead schools should also enter their School Direct and Postgraduate Teaching Apprenticeship (PGTA) requests to the requests template and pass on to their ITT provider, who will submit to DfE on their behalf.
+- ITT providers should enter their Provider-led and undergraduate requests onto their request template.
+- All request templates completed by ITT providers and lead schools must be submitted to DfE, using the template below, by the ITT provider only. Requests are not ratified unless submitted to DfE by the ITT provider.
+- Information submitted must include the minimum viability and forecast recruitment for each ITT course for ITT2020. Forecasts should reflect the number of trainees the partnership expects to realistically recruit to that course.
 
 Please note that request templates will be pre-populated with the courses listed on ‘Find’ for ITT2019 to help with data entry, but all number fields will be blank. You can access your personalised template here:
 
@@ -110,8 +110,8 @@ Dear Colleague
 
 All ITT providers and lead schools should complete the actions listed below before midday on 12 July in order to request places for ITT2020. You must request permission to recruit so that your courses can be listed as open for recruitment on ‘Find postgraduate teacher training’ and UCAS, and to access any DfE funding associated with training places.
 
-* **Lead school registration:** All lead schools (new and existing) **must** register as a lead school by returning the attached registration template to [ITT.allocations@education.gov.uk](mailto:ITT.allocations@education.gov.uk)
-* **ITT requests:** All ITT providers and lead schools should enter information on the courses they wish to deliver using the templates provided. These must be submitted to DfE by ITT providers to confirm that all courses have been ratified. DfE will not accept templates directly from lead schools. Providers should email ITT.allocations@education.gov.uk
+- **Lead school registration:** All lead schools (new and existing) **must** register as a lead school by returning the attached registration template to [ITT.allocations@education.gov.uk](mailto:ITT.allocations@education.gov.uk)
+- **ITT requests:** All ITT providers and lead schools should enter information on the courses they wish to deliver using the templates provided. These must be submitted to DfE by ITT providers to confirm that all courses have been ratified. DfE will not accept templates directly from lead schools. Providers should email ITT.allocations@education.gov.uk
 
 As the process for requesting permission to recruit to ITT courses is different this year, all providers and lead schools should refer to the [Requesting initial teacher training places](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fgovernment%2Fuploads%2Fsystem%2Fuploads%2Fattachment_data%2Ffile%2F811725%2FRequesting_ITT_places_2020_to_2021.pdf&data=02%7C01%7Cl.george100%40durhamlearning.net%7Ce50fece0d1814dbbe9ee08d7038b8bf7%7C45dfff5283644d73bf3a8f98bdf10d87%7C0%7C1%7C636981770336567802&sdata=zC2l04aaHNQXPqDBf9b%2F1FGPYf3e17x5WJFEer6iB48%3D&reserved=0) document for full guidance. Please contact us if you have further enquiries or if you have not received a template at [ITT Recruitment & Allocations Team](mailto:ITT.allocations@education.gov.uk).
 
@@ -140,8 +140,8 @@ In July 2019, we asked all eligible ITT providers and lead schools to request pe
 
 To request permission to recruit, you were required to:
 
-* Be an accredited ITT provider, or meet the eligibility criteria required to act as a School Direct lead school (i.e. a Good or Outstanding Ofsted rating, and a minimum of five schools in a School Direct partnership)
-* Complete and submit the request template to DfE, with all the courses you planned to deliver for ITT2020 and, if applicable, the Lead School Registration template via ITT providers
+- Be an accredited ITT provider, or meet the eligibility criteria required to act as a School Direct lead school (i.e. a Good or Outstanding Ofsted rating, and a minimum of five schools in a School Direct partnership)
+- Complete and submit the request template to DfE, with all the courses you planned to deliver for ITT2020 and, if applicable, the Lead School Registration template via ITT providers
 
 ### All eligible ITT providers and lead schools that submitted requests have been granted permission to recruit for ITT2020
 
@@ -156,13 +156,13 @@ Recruitment to ITT courses in this category is limited by the number of places a
 
 The courses in the allocated category are:
 
-* Postgraduate PE courses, including PE provider-led and PE School Direct (fee-funded) routes
-* All undergraduate courses leading to QTS
-* All early years ITT courses leading to EYTS
+- Postgraduate PE courses, including PE provider-led and PE School Direct (fee-funded) routes
+- All undergraduate courses leading to QTS
+- All early years ITT courses leading to EYTS
 
 ### Next Steps
 
-You no longer need to use the Trainee Teacher Portal (TTP) to check whether you have permission to recruit. If you requested permission in July, you should now publish your courses using [Publish teacher training courses](https://interactions.signin.education.gov.uk/133e7c2e-0119-4cee-bace-41e22aec5f0f/usernamepassword?clientid=bats&redirect_uri=https://publish-teacher-training-courses.education.gov.uk/auth/cb). Once you have published your courses, they won’t appear immediately on Find postgraduate teacher training, but will go live on 1 October.
+You no longer need to use the Trainee Teacher Portal (TTP) to check whether you have permission to recruit. If you requested permission in July, you should now publish your courses using [Publish teacher training courses](https://interactions.signin.education.gov.uk/133e7c2e-0119-4cee-bace-41e22aec5f0f/usernamepassword?clientid=bats&redirect_uri=https://publish-teacher-training-courses.education.gov.uk/auth/cb). Once you have published your courses, they will not appear immediately on Find postgraduate teacher training, but will go live on 1 October.
 
 DfE will use the information submitted during the request period to check that all the courses published on Find have permission to recruit.
 
@@ -187,8 +187,10 @@ Recruitment and Allocations Team
 
 ## Research headline findings
 
-* Allocations data is known to be too inaccurate and unreliable for forecasting purposes
-* The plethora of routes into ITT leads to confusion for providers
-* Allocations data as it is currently collected is little used by the funding and accreditation teams
-* DfE still needs to know that providers actually want to request places for their courses for the current year
-* The process of collating and determining allocations for the next cycle was burdensome for TAD
+- Allocations data is known to be too inaccurate and unreliable for forecasting purposes
+- The plethora of routes into ITT leads to confusion for providers
+- Allocations data as it is currently collected is little used by the funding and accreditation teams
+- DfE still needs to know that providers actually want to request places for their courses for the current year
+- The process of collating and determining allocations for the next cycle was burdensome for TAD
+
+*[EBacc]: English Baccalaureate

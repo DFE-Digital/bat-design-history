@@ -1,6 +1,6 @@
 ---
 title: An end of cycle notice
-description: Tell users which year’s courses they are searching.
+description: Tell users which year’s courses they are searching
 date: 2019-08-30
 screenshots:
   items:
@@ -24,6 +24,8 @@ Ideally we’d do this on the GOV.UK start page, but GDS is too busy to update i
 
 This is the first page users will see.
 
-The green button takes users to the Find by location page.
+The green button takes users to the ‘find by location’ page.
 
 This design increased bounce rate on the page from 8% to 18% in the first weeks of September.
+
+*[GDS]: Government Digital Service
