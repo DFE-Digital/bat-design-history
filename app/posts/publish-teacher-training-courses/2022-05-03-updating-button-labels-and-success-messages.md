@@ -1,6 +1,6 @@
 ---
 title: Updating button labels and success messages
-description: We updated the content on some buttons and success messages to match the interaction.
+description: We updated the content on some buttons and success messages to match the interaction
 date: 2022-04-28
 screenshots:
   items:

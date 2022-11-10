@@ -1,6 +1,6 @@
 ---
 title: How will candidates apply for this course?
-description: Making allowances for providers with bespoke application processes.
+description: Making allowances for providers with bespoke application processes
 date: 2020-05-27
 related:
   items:

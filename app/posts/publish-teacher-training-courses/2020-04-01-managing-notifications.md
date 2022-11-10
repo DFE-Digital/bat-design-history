@@ -1,6 +1,6 @@
 ---
 title: Managing notifications
-description: Initial ideas for managing notifications.
+description: Initial ideas for managing notifications
 date: 2020-04-01
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: New course wizard as launched for accredited bodies
-description: The new course wizard is now available to accredited bodies.
+description: The new course wizard is now available to accredited bodies
 date: 2020-02-15
 screenshots:
   items:

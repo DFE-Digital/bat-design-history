@@ -1,6 +1,6 @@
 ---
 title: Researching the needs of users with access to multiple organisations
-description: We were interested in learning more about users who belong to multiple organisations.
+description: We were interested in learning more about users who belong to multiple organisations
 date: 2020-06-23
 related:
   items:

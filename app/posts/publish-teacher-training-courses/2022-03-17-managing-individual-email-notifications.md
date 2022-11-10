@@ -1,6 +1,6 @@
 ---
 title: Managing individual email notifications
-description: Let users choose which emails they receive.
+description: Let users choose which emails they receive
 date: 2022-03-18
 related:
   items:

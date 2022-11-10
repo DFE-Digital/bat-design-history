@@ -1,6 +1,6 @@
 ---
 title: Notifications MVP
-description: Identifying an initial set of notifications and the critical user flows required to manage notifications in Publish.
+description: Identifying an initial set of notifications and the critical user flows required to manage notifications in Publish teacher training courses
 date: 2020-01-23
 tags:
  - PN003

@@ -1,6 +1,6 @@
 ---
 title: Managing users
-description: Providing a way for users to view, invite and remove users from their organisation.
+description: Providing a way for users to view, invite and remove users from their organisation
 date: 2020-04-15
 screenshots:
   items:

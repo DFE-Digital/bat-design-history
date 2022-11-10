@@ -1,6 +1,6 @@
 ---
 title: Notifications for users with access to multiple organisations
-description: Allowing accredited body users to choose which organisations they receive notifications about.
+description: Allowing accredited body users to choose which organisations they receive notifications about
 date: 2020-07-13
 tags:
   - PN013

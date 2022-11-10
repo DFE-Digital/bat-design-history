@@ -1,6 +1,6 @@
 ---
 title: Managing and communicating rollover in 2021
-description: We duplicated courses, added a new page to the service and informed users about the rollover process.
+description: We duplicated courses, added a new page to the service and informed users about the rollover process
 date: 2022-04-05
 related:
   items:

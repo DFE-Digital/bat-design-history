@@ -1,6 +1,6 @@
 ---
 title: Allocations alpha
-description: Designing to accomodate changes to the allocations process for 2021/22.
+description: Designing to accomodate changes to the allocations process for 2021 - 2022
 date: 2020-03-12
 screenshots:
   items:

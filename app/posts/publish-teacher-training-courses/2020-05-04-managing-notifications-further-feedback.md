@@ -1,6 +1,6 @@
 ---
 title: Managing notifications – feedback from universities
-description: Changes to notifications following research with HEIs.
+description: Changes to notifications following research with HEIs
 date: 2020-05-04
 related:
   items:

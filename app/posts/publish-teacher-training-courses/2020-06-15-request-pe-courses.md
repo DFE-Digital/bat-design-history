@@ -1,6 +1,6 @@
 ---
 title: Request PE courses as launched for accredited bodies
-description: The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies.
+description: The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies
 date: 2020-06-15
 screenshots:
   items:

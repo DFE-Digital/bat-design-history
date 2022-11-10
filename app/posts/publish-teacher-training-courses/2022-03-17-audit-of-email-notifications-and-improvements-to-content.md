@@ -1,6 +1,6 @@
 ---
 title: Audit of email notifications and improvements to content
-description: We documented which emails are sent and when. We also improved the content to make the notifications clearer and more concise.
+description: We documented which emails are sent and when. We also improved the content to make the notifications clearer and more concise
 date: 2022-03-16
 tags:
   - PN003
