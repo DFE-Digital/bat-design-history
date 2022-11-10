@@ -22,7 +22,7 @@ Our validation should:
 - have a maximum length of 7 characters after whitespace is removed
 - only allow values that contain spaces, A-Z and 0-9
 
-We shouldn’t use a complex regular expression (eg ordering of letters and numbers), we do not need to use an API to check postcodes yet.
+We should not use a complex regular expression (eg ordering of letters and numbers), we do not need to use an API to check postcodes yet.
 
 ## Storing postcodes
 

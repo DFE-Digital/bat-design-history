@@ -47,7 +47,7 @@ On publishing [we will reiterate this](#course-just-published).
 
 ## Will it be on Find?
 
-We need to change the column title on the courses table and the corresponding section on the course page. None of the courses are on Find until October, Is it on Find? doesn’t make sense.
+We need to change the column title on the courses table and the corresponding section on the course page. None of the courses are on Find until October, Is it on Find? does not make sense.
 
 The question becomes: Will it be on Find?
 
@@ -66,14 +66,14 @@ This should [behave as originally designed](/publish-teacher-training-courses/pu
 
 > Opening on [10 October]
 
-This hasn’t been built on Live yet, instead the column currently says Closed until applications have opened.
+This has not been built on Live yet, instead the column currently says Closed until applications have opened.
 
 ## Logic for showing rollover version
 
 If the following are true:
 
 - the user is viewing the next cycle
-- the next cycle hasn’t opened yet
+- the next cycle has not opened yet
 
 Once a cycle has opened all changes should revert.
 

@@ -53,7 +53,7 @@ We researched this with:
 
 Providers copied all their courses and locations. They also expressed a need to repeat rollover. The route into the wizard was not spotted. Using the beginning of rollover to talk about What’s new did not work.
 
-We could copy everything, show two cycles and emphasise a new delete course feature for anything that shouldn’t be copied.
+We could copy everything, show two cycles and emphasise a new delete course feature for anything that should not be copied.
 
 This is more in keeping with the way UCAS has done rollover until now. It also gives us less to build.
 

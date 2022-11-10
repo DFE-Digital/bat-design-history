@@ -79,7 +79,7 @@ Users cannot add a duplicate accredited body. If they try, we display an error m
 
 #### Add a description of the accredited body
 
-The accredited body’s description is optional. If the user doesn’t add a description, we show ‘Not entered’.
+The accredited body’s description is optional. If the user does not add a description, we show ‘Not entered’.
 
 #### Select permissions for an accredited body
 
@@ -94,7 +94,7 @@ Permissions include:
 - Withdraw courses
 - Manage locations
 
-If the user doesn’t select any permissions, we show ‘None - view only’.
+If the user does not select any permissions, we show ‘None - view only’.
 
 If the user selects the ‘Add course’ permission, we also allow the accredited body user to delete the course.
 

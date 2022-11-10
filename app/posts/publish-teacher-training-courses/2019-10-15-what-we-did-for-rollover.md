@@ -57,7 +57,7 @@ There are 3 settings in manage-courses-frontend:
 
 - rollover – true or false, are we in a rollover period (ie do we show multiple cycles)
 - current_cycle – a year, the current cycle
-- current_cycle_open – is the current cycle open, if it’s not it’s assumed it hasn’t opened yet
+- current_cycle_open – is the current cycle open, if it’s not it’s assumed it has not opened yet
 
 When starting rollover, once all content has been copied, the rollover flag is switched to true.
 

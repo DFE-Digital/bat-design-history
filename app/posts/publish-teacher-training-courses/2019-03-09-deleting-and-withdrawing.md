@@ -21,6 +21,6 @@ We hypothesise that the two actions meet different needs.
 
 Deleting is for cleaning up your list of courses, usually around the time of rollover. The impact is relatively minor.
 
-Withdrawing is for taking down a course that shouldn’t be applied to. It should remain in the courses table so that it’s clear what has been published this cycle and what people might have applied to. The course might run again in the future. Or it can be deleted in the next cycle.
+Withdrawing is for taking down a course that should not be applied to. It should remain in the courses table so that it’s clear what has been published this cycle and what people might have applied to. The course might run again in the future. Or it can be deleted in the next cycle.
 
 We need to test these assumptions with users.

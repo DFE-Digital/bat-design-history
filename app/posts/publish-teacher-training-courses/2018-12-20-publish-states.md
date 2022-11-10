@@ -6,7 +6,7 @@ date: 2018-12-20
 
 Publishing before transition was complicated. Each training location had a state and a publish flag, which determines if the course appears in Find and can be applied to on UCAS Apply. Then the content has its own state – Empty, Draft or Published.
 
-You could write and publish content for new courses on Publish, they’d be labelled green, but they would not appear online if the user hadn’t set their training locations to running in UCAS (or if UCAS hadn’t approved this by [setting the publish flag to yes](/publish-teacher-training-courses/course-not-running-oct-15)).
+You could write and publish content for new courses on Publish, they’d be labelled green, but they would not appear online if the user had not set their training locations to running in UCAS (or if UCAS had not approved this by [setting the publish flag to yes](/publish-teacher-training-courses/course-not-running-oct-15)).
 
 ## User research
 

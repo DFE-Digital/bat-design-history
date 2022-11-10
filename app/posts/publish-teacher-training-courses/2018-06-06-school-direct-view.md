@@ -25,7 +25,7 @@ screenshots:
         Qualification outcomes are more complex than this. For example:
 
         - QTS with a PGCE top-up – top-ups can vary, eg alumni PGCE, this also affects fees
-        - PGCE can vary, some have masters credits others do not – sometimes you do not get the PGCE if you fail the masters bit, sometimes that doesn’t matter
+        - PGCE can vary, some have masters credits others do not – sometimes you do not get the PGCE if you fail the masters bit, sometimes that does not matter
     - text: Salary
       caption: |
         The salary is not available. It’s based on the national teacher’s pay scale that is not published until later in the year.

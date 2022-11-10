@@ -27,7 +27,7 @@ Contact details for institutions in NetUpdate are incomplete, they do not have e
 
 The information shown to applicants is actually stored in the Entry Profiles system. Here there are well formatted addresses, telephone numbers, emails and validated websites.
 
-If we used this data, because Entry Profiles is no longer available, and without a way to update it in Publish courses, providers couldn’t update or correct their contact information.
+If we used this data, because Entry Profiles is no longer available, and without a way to update it in Publish courses, providers could not update or correct their contact information.
 
 ## Editing contact details in Publish courses
 
@@ -55,7 +55,7 @@ Users should be allowed to enter telephone numbers in whatever format is familia
 
 We must allow users to include an extension number. This is usually in the format: 01234 987654 ext 1234
 
-“I set up UCAS, so it’s probably my details. UCAS probably doesn’t have the extension number” ([Video](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=2h28m54.82s))
+“I set up UCAS, so it’s probably my details. UCAS probably does not have the extension number” ([Video](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=2h28m54.82s))
 
 ### Website
 
@@ -66,7 +66,7 @@ After a website is entered we must:
 - convert it to lowercase
 - prepend \`http://\` if there is no protocol
 
-We need training providers to deep link to the page on their website that lists their courses. Some of the URLs we will import already do this. A top-level URL can make it hard to find the information needed – a school website doesn’t prioritise their ITT content, a university equally prioritises other types of course and facilities.
+We need training providers to deep link to the page on their website that lists their courses. Some of the URLs we will import already do this. A top-level URL can make it hard to find the information needed – a school website does not prioritise their ITT content, a university equally prioritises other types of course and facilities.
 
 ### Contact address
 

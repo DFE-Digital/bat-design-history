@@ -5,7 +5,7 @@ date: 2018-07-05
 screenshots:
   items:
     - text: Courses
-      caption: The courses view (unfolded, showing each variant of a course) with a column showing which template each course uses. If the course doesn’t use a template then ‘Custom course’ is displayed.
+      caption: The courses view (unfolded, showing each variant of a course) with a column showing which template each course uses. If the course does not use a template then ‘Custom course’ is displayed.
     - text: Templates
       caption: |
         A tab for templates showing all templates an organisation has made. This table might be expanded to include how many courses each one is applied to.
@@ -40,7 +40,7 @@ screenshots:
 
         ### Results
 
-        Sometimes users couldn’t tell if they were looking at a template or a course.
+        Sometimes users could not tell if they were looking at a template or a course.
 
         After entering information it is summarised on this page, some users then mistook this page to be a preview of the course, thinking that this might be what candidates would see.
 
@@ -103,7 +103,7 @@ We’ve observed in user research that without the ability to share information 
 
 To test templates we ran unmoderated remote research sessions with 4 training providers, and we visited 3 further providers.
 
-We attempted many more remote sessions but some users did not complete the exercise and others couldn’t record the session because of network firewalls or IT restrictions.
+We attempted many more remote sessions but some users did not complete the exercise and others could not record the session because of network firewalls or IT restrictions.
 
 More about our research in confluence: [Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/440074245/Testing+templates+and+multiple+orgs)
 
@@ -151,7 +151,7 @@ Multiple templates were largely useful and understood by users.
 
 ## Template limits and risks
 
-Because a template includes all course fields it might be inappropriate to use them across certain courses. For example, by setting the fees on a template to those of a PGCE course (£9,000), this template shouldn’t then be applied to a QTS course – which costs less. There’s a risk that users could apply these templates wrongly and show incorrect information to users.
+Because a template includes all course fields it might be inappropriate to use them across certain courses. For example, by setting the fees on a template to those of a PGCE course (£9,000), this template should not then be applied to a QTS course – which costs less. There’s a risk that users could apply these templates wrongly and show incorrect information to users.
 
 ### Results
 

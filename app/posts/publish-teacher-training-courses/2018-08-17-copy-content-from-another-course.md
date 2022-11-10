@@ -55,4 +55,4 @@ Users may not want to copy all the fields, if this is the case we can iterate th
 
 If the form already contains content, when they attempt to copy content a JavaScript confirmation dialogue should warn them that their content will be overwritten and ask them if they want to proceed.
 
-This part of the design hasn’t been built in the prototype.
+This part of the design has not been built in the prototype.

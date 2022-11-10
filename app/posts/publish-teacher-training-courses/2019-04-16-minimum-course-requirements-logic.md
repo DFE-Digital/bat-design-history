@@ -43,7 +43,7 @@ A user can select Yes to equivalency tests but can restrict this by subject (see
 | No | No| 1 |
 | No | Yes| Invalid* |
 
-\* It’s possible to make an invalid choice – UCAS doesn’t allow you to receive applications from candidates needing to take an equivalency test if you’ve blocked applications from candidates with pending GCSEs. In this case we need to warn the user with a validation message.
+\* It’s possible to make an invalid choice – UCAS does not allow you to receive applications from candidates needing to take an equivalency test if you’ve blocked applications from candidates with pending GCSEs. In this case we need to warn the user with a validation message.
 
 *[GCSE]: General certificate of secondary education
 *[GCSEs]: General Certificate of Secondary Education

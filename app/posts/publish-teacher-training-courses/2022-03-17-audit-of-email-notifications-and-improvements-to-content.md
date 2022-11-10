@@ -50,7 +50,7 @@ We currently only send notification emails to accredited bodies. There are eight
 
 ## Improving the content of the emails
 
-Some of the notification emails hadn’t been updated following changes to the service. We wanted to make sure the content was consistent and look at other improvements that could be made.
+Some of the notification emails had not been updated following changes to the service. We wanted to make sure the content was consistent and look at other improvements that could be made.
 
 ### What we changed
 

@@ -87,7 +87,7 @@ One provider expressed the need for a verification/approval step before courses 
 
 Several providers indicated they need more levels of permission in Publish.
 
-> We would not want publishing functionality for all users - people clicking on things they shouldn’t. If we could have a standard account as read only, and an admin account with the privilege to publish and unpublish, that would be great.
+> We would not want publishing functionality for all users - people clicking on things they should not. If we could have a standard account as read only, and an admin account with the privilege to publish and unpublish, that would be great.
 
 ### Courses as an accredited body prototype feedback
 

@@ -22,9 +22,9 @@ We need to allow users to easily set their outcome if what we’ve inferred is w
 
 ## Implementation options
 
-We could take a similar to contacts details: if a provider hasn’t set anything specific, we should continue to infer an outcome from the UCAS data. Once they’ve set their own we always use that one.
+We could take a similar to contacts details: if a provider has not set anything specific, we should continue to infer an outcome from the UCAS data. Once they’ve set their own we always use that one.
 
-Alternatively we could populate an enrichment field for each of the courses containing the outcome. Then we would only need to infer outcome for new courses. The enrichment population shouldn’t alter the content state (eg it should not make new drafts).
+Alternatively we could populate an enrichment field for each of the courses containing the outcome. Then we would only need to infer outcome for new courses. The enrichment population should not alter the content state (eg it should not make new drafts).
 
 ## QTS with optional PGCE
 

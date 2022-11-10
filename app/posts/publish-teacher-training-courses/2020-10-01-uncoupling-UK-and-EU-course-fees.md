@@ -18,7 +18,7 @@ In late September and early October 2020 we received enquiries from organisation
 
 > I am trying to update the fees information for our courses on the Publish portal but only seem to be able to enter fees for two categories: UK/EU students and International students.
 >
-> However, post Brexit, for the 2021/2 cycle, fees for EU students will be different from UK students. There doesn’t seem to be an option to enter distinct fees for EU students and they just show the same as UK students.
+> However, post Brexit, for the 2021/2 cycle, fees for EU students will be different from UK students. There does not seem to be an option to enter distinct fees for EU students and they just show the same as UK students.
 
 [Support ticket](https://becomingateacher.zendesk.com/agent/tickets/9380)
 

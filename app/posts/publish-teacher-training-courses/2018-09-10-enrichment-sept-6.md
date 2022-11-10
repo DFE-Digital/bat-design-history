@@ -20,7 +20,7 @@ Screenshots of Publish teacher training courses (Publish), based upon the Manage
 
 This is what the service looked like when we enabled organisation and course enrichment for the first time.
 
-This release doesn’t include:
+This release does not include:
 
 - editing contact details
 - about your organisation [layout improvements](/publish-teacher-training-courses/iteration-aug-23)

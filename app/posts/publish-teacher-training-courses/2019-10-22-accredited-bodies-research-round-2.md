@@ -45,7 +45,7 @@ The participants needed to know about any new courses so that they can update th
 
 There is an area where candidates get ‘lost’ if courses on UCAS do not align with the accredited bodies system.
 
-> The system is a student support system. It holds all student information and pulls it from UCAS directly. Every student is linked to a program (course) and plan code for identification. When a person is pulled into the system, it all has to link up. If they’re in UCAS and that program (course) doesn’t currently exist with us, they stay in UCAS and cannot be pulled into our system.
+> The system is a student support system. It holds all student information and pulls it from UCAS directly. Every student is linked to a program (course) and plan code for identification. When a person is pulled into the system, it all has to link up. If they’re in UCAS and that program (course) does not currently exist with us, they stay in UCAS and cannot be pulled into our system.
 
 > In the past someone has suspended a course, then a candidate has applied for that course, we cannot make them an offer. They're no longer linked to the main system and people disappear. It's a huge issue for applicants because it should be the easiest part of their journey but if the data is not correct and updated on a regular basis they get lost and they will not be able to apply.
 

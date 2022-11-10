@@ -134,7 +134,7 @@ A SCITT’s ITT administrator manages:
 - the courses provided by the SCITT
 - all the courses provided by their training providers (for which the SCITT is the accredited body)
 
-> I have very very good communication with our schools... so once I know what schools can advertise, what subject... then I will put all in Publish, and I open them, close them, I manage them, the school doesn’t, I oversee it all, the schools do not have any input at all, obviously they tell me what they want to advertise, but I update the system.
+> I have very very good communication with our schools... so once I know what schools can advertise, what subject... then I will put all in Publish, and I open them, close them, I manage them, the school does not, I oversee it all, the schools do not have any input at all, obviously they tell me what they want to advertise, but I update the system.
 
 [Research highlight](https://drive.google.com/file/d/17PVqL57VEWHTrM5o4Fkjz80vNFBnlC6j/view?usp=sharing)
 

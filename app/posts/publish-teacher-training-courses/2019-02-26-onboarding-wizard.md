@@ -34,9 +34,9 @@ If there’s a lead school change we will treat this as an update to an existing
 - we’ll need to onboard new users for that lead school onto DfE Sign in
 - that new school will have access to all the existing courses and locations
 - new lead schools do not need to start from scratch
-- the marketing name of the provider shouldn’t change
+- the marketing name of the provider should not change
 
-Changes to lead schools can happen mid cycle if a school doesn’t get Good or better in an Ofsted inspection.
+Changes to lead schools can happen mid cycle if a school does not get Good or better in an Ofsted inspection.
 
 ### Setting expectations
 

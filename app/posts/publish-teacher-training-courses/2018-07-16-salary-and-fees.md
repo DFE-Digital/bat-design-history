@@ -18,7 +18,7 @@ screenshots:
     - text: Preview of fee paying course
 ---
 
-Fee paying courses need to have some different fields to salaried courses. Courses offering a salary typically do not have any course fees (though some courses may have top-up fees for the PGCE aspect of a course) – for these courses we shouldn’t be asking for course fees. ([Example of the problem](/publish-teacher-training-courses/templates#dont-use-a-template))
+Fee paying courses need to have some different fields to salaried courses. Courses offering a salary typically do not have any course fees (though some courses may have top-up fees for the PGCE aspect of a course) – for these courses we should not be asking for course fees. ([Example of the problem](/publish-teacher-training-courses/templates#dont-use-a-template))
 
 Use different fields for school direct salaried courses and add fields to cater for:
 

@@ -324,7 +324,7 @@ https://github.com/DFE-Digital/publish-teacher-training/pull/1376
 
 ### Issues
 
-We received support tickets (e.g., [#9466](https://becomingateacher.zendesk.com/agent/tickets/9466)) from providers who couldn’t find their confirmed places. Users were looking in the ‘Next cycle’ section though we had only published them in the ‘Current cycle’ section.
+We received support tickets (e.g., [#9466](https://becomingateacher.zendesk.com/agent/tickets/9466)) from providers who could not find their confirmed places. Users were looking in the ‘Next cycle’ section though we had only published them in the ‘Current cycle’ section.
 
 Rollover copies over all courses from the previous cycle. This meant there were fee-funded PE courses automatically created in the new cycle which had not received permission to recruit. We had to contact the providers of these courses and inform them that we would withdraw the courses.
 

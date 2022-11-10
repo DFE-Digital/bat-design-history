@@ -73,7 +73,7 @@ We need to show a different error message at the top of the course page:
 
 ### Your training locations need attention in UCAS
 
-Training locations for this course are set to ‘Running’ in [UCAS web-link](https://www.ucas.com/sign-web-link), but their publish value hasn’t been set to ‘Yes’.
+Training locations for this course are set to ‘Running’ in [UCAS web-link](https://www.ucas.com/sign-web-link), but their publish value has not been set to ‘Yes’.
 
 These training locations will not appear in Find postgraduate teacher training:
 
