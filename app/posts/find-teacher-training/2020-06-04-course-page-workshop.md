@@ -193,3 +193,7 @@ So that we understand more about the users experience on the course page.
 **As the Find team**
 I need to assure course pages are indexing well and follow best SEO practices
 So that we increase candidates chance of finding them.
+
+*[SEO]: Search engine optimisation
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
