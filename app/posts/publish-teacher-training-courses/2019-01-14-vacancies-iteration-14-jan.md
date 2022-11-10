@@ -1,6 +1,6 @@
 ---
 title: Vacancies – 14 January iteration
-description: Updates to button styles, messaging and validation.
+description: Updates to button styles, messaging and validation
 date: 2019-01-14
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: Email with video of new vacancies feature
-description: Watch our video about the new Publish teacher training courses.
+description: Watch our video about the new Publish teacher training courses
 date: 2019-04-08
 ---
 

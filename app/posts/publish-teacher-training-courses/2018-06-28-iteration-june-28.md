@@ -1,6 +1,6 @@
 ---
 title: Iteration 28 June 2018
-description: Add character counts and refine preview.
+description: Add character counts and refine preview
 date: 2018-06-28
 screenshots:
   items:

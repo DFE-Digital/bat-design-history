@@ -1,6 +1,6 @@
 ---
 title: Copy content – 14 September iteration
-description: Make the copy feature easier to find.
+description: Make the copy feature easier to find
 date: 2018-09-14
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: Templates
-description: Use templates to share information between courses.
+description: Use templates to share information between courses
 date: 2018-07-05
 screenshots:
   items:

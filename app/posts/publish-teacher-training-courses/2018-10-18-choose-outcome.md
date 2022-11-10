@@ -1,6 +1,6 @@
 ---
 title: Edit a course outcome
-description: Allow providers to choose an outcome, instead of using our inferred one.
+description: Allow providers to choose an outcome, instead of using our inferred one
 date: 2018-10-18
 screenshots:
   items:

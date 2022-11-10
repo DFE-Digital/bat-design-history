@@ -1,6 +1,6 @@
 ---
 title: Postcodes
-description: Asking for, validating and storing postcodes.
+description: Asking for, validating and storing postcodes
 date: 2019-03-05
 ---
 

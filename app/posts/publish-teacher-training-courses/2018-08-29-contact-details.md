@@ -1,6 +1,6 @@
 ---
 title: Contact details
-description: Allow users to edit their contact details.
+description: Allow users to edit their contact details
 date: 2018-08-29
 screenshots:
   items:

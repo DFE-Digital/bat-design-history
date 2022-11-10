@@ -1,6 +1,6 @@
 ---
 title: New course wizard – Further education
-description: Designs for the further education path in the new course wizard.
+description: Designs for the further education path in the new course wizard
 date: 2019-01-28
 screenshots:
   items:

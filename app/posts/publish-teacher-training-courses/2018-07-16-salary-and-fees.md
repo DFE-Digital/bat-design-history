@@ -1,6 +1,6 @@
 ---
 title: Salary and fees
-description: Designs for different fields for salaried and fee paying courses.
+description: Designs for different fields for salaried and fee paying courses
 date: 2018-07-16
 screenshots:
   items:

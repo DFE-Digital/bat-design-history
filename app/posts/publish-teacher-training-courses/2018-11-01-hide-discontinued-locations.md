@@ -1,6 +1,6 @@
 ---
 title: Hide discontinued training locations
-description: Don’t show these locations to avoid confusion.
+description: Do not show these locations to avoid confusion
 date: 2018-11-01
 screenshots:
   items:

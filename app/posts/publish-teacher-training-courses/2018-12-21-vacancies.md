@@ -1,6 +1,6 @@
 ---
 title: Vacancies
-description: First design for changing vacancies at each training location on a course.
+description: First design for changing vacancies at each training location on a course
 date: 2018-12-21
 screenshots:
   items:

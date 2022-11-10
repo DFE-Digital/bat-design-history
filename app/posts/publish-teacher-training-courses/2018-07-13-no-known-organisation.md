@@ -1,6 +1,6 @@
 ---
-title: When a user isn’t recognised
-description: Designs for when a user’s email isn’t in our whitelist.
+title: When a user is not recognised
+description: Designs for when a user’s email is not in our whitelist
 date: 2018-07-13
 ---
 

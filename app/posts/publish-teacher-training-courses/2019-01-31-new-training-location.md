@@ -1,6 +1,6 @@
 ---
 title: Add training location wizard
-description: Add a training location in Publish rather than UCAS.
+description: Add a training location in Publish teacher training courses rather than UCAS
 date: 2019-01-31
 screenshots:
   items:

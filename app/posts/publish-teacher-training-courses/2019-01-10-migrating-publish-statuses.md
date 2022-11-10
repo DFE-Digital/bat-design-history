@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Migrating publish statuses
-description: How old UCAS status and enrichment status should map to a single new status.
+description: How old UCAS status and enrichment status should map to a single new status
 date: 2019-01-10
 ---
 

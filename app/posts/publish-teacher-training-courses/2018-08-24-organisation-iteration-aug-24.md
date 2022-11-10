@@ -1,6 +1,6 @@
 ---
 title: Iteration – 24 August
-description: Split homepage into tasks, Step 1 and Step 2.
+description: Split homepage into tasks, Step 1 and Step 2
 date: 2018-08-24
 ---
 

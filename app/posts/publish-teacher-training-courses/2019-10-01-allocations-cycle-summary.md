@@ -1,6 +1,6 @@
 ---
 title: Allocations process for 2020 – 2021
-description: A summary of the request process followed for this cycle.
+description: A summary of the request process followed for this cycle
 date: 2019-10-01
 related:
   items:

@@ -1,6 +1,6 @@
 ---
 title: New course wizard – Training locations
-description: Choosing training locations from the new course wizard.
+description: Choosing training locations from the new course wizard
 date: 2018-12-16
 screenshots:
   items:

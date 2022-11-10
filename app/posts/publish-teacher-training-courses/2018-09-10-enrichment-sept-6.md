@@ -1,6 +1,6 @@
 ---
 title: Enrichment release – 6 September
-description: Publish courses, as it was released with the course enrichment feature.
+description: Publish courses, as it was released with the course enrichment feature
 date: 2018-09-10
 screenshots:
   items:

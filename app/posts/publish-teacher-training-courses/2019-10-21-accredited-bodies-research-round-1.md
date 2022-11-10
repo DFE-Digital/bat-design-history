@@ -1,6 +1,6 @@
 ---
 title: Accredited bodies research - Reporting
-description: Research interviews with accredited bodies to determine reporting needs.
+description: Research interviews with accredited bodies to determine reporting needs
 date: 2019-10-21
 related:
   items:

@@ -1,6 +1,6 @@
 ---
 title: Onboarding wizard as a Google form
-description: Capturing contact details, UCAS admin details and first location.
+description: Capturing contact details, UCAS admin details and first location
 date: 2019-04-17
 screenshots:
   items:

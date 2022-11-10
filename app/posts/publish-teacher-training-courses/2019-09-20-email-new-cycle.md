@@ -1,6 +1,6 @@
 ---
 title: Emails for the new 2019/20 cycle
-description: Prompts and updates for providers.
+description: Prompts and updates for providers
 date: 2019-09-20
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Formatting
-description: Paragraphs, lists and links.
+description: Paragraphs, lists and links
 date: 2018-08-14
 screenshots:
   items:

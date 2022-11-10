@@ -1,6 +1,6 @@
 ---
 title: Logic mapping UCAS eligibility questions to API codes
-description: Which code should the API sent to UCAS based on a provider’s answers to questions.
+description: Which code should the API sent to UCAS based on a provider’s answers to questions
 date: 2019-04-16
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: UCAS Apply preferences
-description: Settings such as GT12 letters, Star J, Star X and other requirements.
+description: Settings such as GT12 letters, Star J, Star X and other requirements
 date: 2019-02-27
 ---
 {% from "bar-chart/macro.njk" import appBarChart %}

@@ -1,6 +1,6 @@
 ---
 title: What we shipped for UCAS transition
-description: Locations, location editing and vacancies.
+description: Locations, location editing and vacancies
 date: 2019-05-14
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: Who did what and when
-description: The beginnings of an audit trail for content.
+description: The beginnings of an audit trail for content
 date: 2018-08-20
 screenshots:
   items:

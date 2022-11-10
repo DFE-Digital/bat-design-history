@@ -1,6 +1,6 @@
 ---
 title: New course wizard – Confirming course title
-description: Moving the course title fields into the wizard.
+description: Moving the course title fields into the wizard
 date: 2018-12-19
 screenshots:
   items:

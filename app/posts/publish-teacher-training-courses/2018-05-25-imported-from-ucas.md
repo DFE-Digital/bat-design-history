@@ -1,6 +1,6 @@
 ---
 title: Course folding and UCAS course details
-description: Following the definition of a course, documentation on how we might fold courses based on UCAS data.
+description: Following the definition of a course, documentation on how we might fold courses based on UCAS data
 date: 2018-05-25
 ---
 

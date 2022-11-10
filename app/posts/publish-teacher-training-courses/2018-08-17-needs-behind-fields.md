@@ -1,6 +1,6 @@
 ---
 title: Fields we ask for and why
-description: Documentation of needs around each course field.
+description: Documentation of needs around each course field
 date: 2018-08-17
 ---
 

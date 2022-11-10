@@ -1,6 +1,6 @@
 ---
 title: Terms agreement
-description: A user must agree to terms before enriching.
+description: A user must agree to terms before enriching
 date: 2018-08-17
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: Rollover – what we did in 2019
-description: How we handled our first rollover period.
+description: How we handled our first rollover period
 date: 2019-10-15
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: Edit course information workflow
-description: Workflow diagram for editing course information.
+description: Workflow diagram for editing course information
 date: 2019-01-29
 ---
 

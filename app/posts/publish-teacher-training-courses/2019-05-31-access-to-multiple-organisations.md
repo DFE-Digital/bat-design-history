@@ -1,6 +1,6 @@
 ---
 title: Highlighting the multiple organisations feature
-description: Call out how to get access to more organisations.
+description: Call out how to get access to more organisations
 date: 2019-05-31
 ---
 

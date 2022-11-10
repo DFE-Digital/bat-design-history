@@ -1,6 +1,6 @@
 ---
 title: What is a course?
-description: Work to define our definition of a course.
+description: Work to define our definition of a course
 date: 2018-05-24
 ---
 

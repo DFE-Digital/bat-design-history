@@ -1,6 +1,6 @@
 ---
 title: UCAS GCSE requirements – A read only MVP
-description: Show the codes and their meanings to ship earlier.
+description: Show the codes and their meanings to ship earlier
 date: 2019-06-10
 screenshots:
   items:

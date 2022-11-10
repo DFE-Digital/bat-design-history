@@ -1,6 +1,6 @@
 ---
 title: Add a region or area workflow
-description: Add a region or area, rather than a school or university.
+description: Add a region or area, rather than a school or university
 date: 2019-02-11
 screenshots:
   items:

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Rethinking the publish workflow
 description: What does the publish workflow look like after UCAS transition?
 date: 2018-12-20

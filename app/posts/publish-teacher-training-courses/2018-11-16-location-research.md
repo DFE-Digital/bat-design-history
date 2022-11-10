@@ -1,6 +1,6 @@
 ---
 title: Location labels and survey research
-description: First attempts to understand location with a classification exercise.
+description: First attempts to understand location with a classification exercise
 date: 2018-11-16
 screenshots:
   items:

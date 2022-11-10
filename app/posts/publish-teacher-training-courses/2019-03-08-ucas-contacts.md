@@ -1,6 +1,6 @@
 ---
 title: UCAS settings and contacts
-description: Problems sharing contact information, and how we get around them.
+description: Problems sharing contact information, and how we get around them
 date: 2019-03-08
 screenshots:
   items:

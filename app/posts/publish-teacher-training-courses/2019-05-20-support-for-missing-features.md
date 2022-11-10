@@ -1,6 +1,6 @@
 ---
 title: Support for missing features
-description: Filling the gap left by unbuilt features.
+description: Filling the gap left by unbuilt features
 date: 2019-05-20
 screenshots:
   items:

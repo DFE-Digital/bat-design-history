@@ -1,6 +1,6 @@
 ---
 title: Accredited bodies research - Reporting round 2
-description: Continued research with accredited bodies to determine reporting needs.
+description: Continued research with accredited bodies to determine reporting needs
 date: 2019-10-22
 related:
   items:

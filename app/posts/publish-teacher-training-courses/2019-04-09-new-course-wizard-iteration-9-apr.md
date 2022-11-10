@@ -1,6 +1,6 @@
 ---
 title: New course wizard – 9 April iteration
-description: Bring the wizard in line with changes made to the Google Form.
+description: Bring the wizard in line with changes made to the Google Form
 date: 2019-04-09
 screenshots:
   items:

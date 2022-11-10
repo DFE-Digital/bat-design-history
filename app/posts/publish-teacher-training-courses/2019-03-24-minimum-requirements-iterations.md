@@ -1,6 +1,6 @@
 ---
 title: Minimum course requirements – iterations
-description: A view of how the minimum requirements design has been iterated since December.
+description: A view of how the minimum requirements design has been iterated since December
 date: 2019-03-24
 screenshots:
   items:

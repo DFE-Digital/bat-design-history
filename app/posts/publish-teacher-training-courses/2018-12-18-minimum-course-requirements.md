@@ -1,6 +1,6 @@
 ---
 title: New course wizard – Minimum course requirements
-description: Choose the minimum course requirements from the new course wizard.
+description: Choose the minimum course requirements from the new course wizard
 date: 2018-12-18
 ---
 

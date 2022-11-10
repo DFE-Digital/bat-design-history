@@ -1,6 +1,6 @@
 ---
 title: Schools autocomplete
-description: An autocomplete for selecting partner schools quickly.
+description: An autocomplete for selecting partner schools quickly
 date: 2018-11-27
 screenshots:
   items:

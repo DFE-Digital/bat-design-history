@@ -1,6 +1,6 @@
 ---
 title: Course statuses – 3 August iteration
-description: A more indepth look at UCAS course status and how it’ll affect publishing.
+description: A more indepth look at UCAS course status and how it will affect publishing
 date: 2018-08-03
 screenshots:
   items:
