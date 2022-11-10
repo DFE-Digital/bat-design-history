@@ -16,7 +16,7 @@ We received feedback from a provider that we were falsely advertising special ed
 
 > ”There is no such thing as a specialist SEN teacher training course. You could also speak to Susie Townsend or Peter Flew at Roehampton University, they will confirm that all teacher training courses are required legally to train someone to be capable of teaching in a mainstream schools.”
 
-> ”What you need to establish is whether it is accurate (under current regulations) to describe a teacher training course in this country as being SEND teacher training, and it is my understanding that this is inaccurate. DFE deliberately and purposefully want all teacher training courses to qualify trainees to teach in mainstream schools and this is what the qualification QTS relates to.”
+> ”What you need to establish is whether it is accurate (under current regulations) to describe a teacher training course in this country as being SEND teacher training, and it is my understanding that this is inaccurate. DfE deliberately and purposefully want all teacher training courses to qualify trainees to teach in mainstream schools and this is what the qualification QTS relates to.”
 
 ## What research have we done?
 
@@ -53,7 +53,7 @@ From the above, it is clear that training providers and lead schools offer SEND 
 
 ## What does policy say?
 
-> “It is accurate to say that there are no SEND specialist courses. SEND is not a subject, and there is no allocation made to it. So the way that FIND advertises these is indeed potentially misleading. SEND can only be offered in addition to generalist primary or secondary subject specialist training.
+> “It is accurate to say that there are no SEND specialist courses. SEND is not a subject, and there is no allocation made to it. So the way that Find advertises these is indeed potentially misleading. SEND can only be offered in addition to generalist primary or secondary subject specialist training.
 >
 > Supporting advice to Criterion C2.3 describes SEND training as an ‘additional specialism’ as follows:
 >
@@ -74,5 +74,8 @@ There should be a critical distinction between policy and the way we advertise o
 Text sits alongside the tick box to clearly indicate that this is not a “phase”, but a specialism.
 
 *[ITT]: Initial Teacher Training
+*[NQT]: Newly Qualified Teacher
+*[PGCE]: Postgraduate Certificate in Education
+*[QTS]: Qualified Teacher Status
 *[SCITT]: School Centred Initial Teacher Training
 *[SCITTs]: School Centred Initial Teacher Training
