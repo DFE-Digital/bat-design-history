@@ -23,7 +23,7 @@ Changes in this design:
 
 - replaced Last published column with an ‘Is it on Find?’ column, to be explicit
 - removed view on website link, making the Find status the link itself
-- changed the ‘Draft #2’ state to be clear that it is published and on Find, the concept of ‘second edition’ isn’t needed yet
+- changed the ‘Draft #2’ state to be clear that it is published and on Find, the concept of ‘second edition’ is not needed yet
 
 This is the design we tested in the quiz with users.
 
@@ -150,7 +150,7 @@ Problems identified with this design in peer review, before user research:
 
 - ‘View on website’ is not a clear enough indicator that the course is on Find
 - ‘Draft #2’ was universally misunderstood – it’s live but has unpublished changes, people thought it was not live
-- The last published column wasn’t useful
+- The last published column was not useful
 
 <table class="govuk-table ucas-info-table">
   <thead class="govuk-table__head">

@@ -35,7 +35,7 @@ The sync frequency varies across organisations.
 
 [Lookback highlight](https://lookback.io/watch/ozWtDtBffhvKoS7xM)
 
-### Changes aren't automatically synced
+### Changes are not automatically synced
 
 The participants needed to know about any new courses so that they can update the courses on their system.
 
@@ -43,11 +43,11 @@ The participants needed to know about any new courses so that they can update th
 
 ### Stuck in between UCAS and SITS:Vision
 
-There is an area where candidates get ‘lost’ if courses on UCAS don’t align with the accredited bodies system.
+There is an area where candidates get ‘lost’ if courses on UCAS do not align with the accredited bodies system.
 
-> The system is a student support system. It holds all student information and pulls it from UCAS directly. Every student is linked to a program (course) and plan code for identification. When a person is pulled into the system, it all has to link up. If they’re in UCAS and that program (course) doesn’t currently exist with us, they stay in UCAS and can't be pulled into our system.
+> The system is a student support system. It holds all student information and pulls it from UCAS directly. Every student is linked to a program (course) and plan code for identification. When a person is pulled into the system, it all has to link up. If they’re in UCAS and that program (course) doesn’t currently exist with us, they stay in UCAS and cannot be pulled into our system.
 
-> In the past someone has suspended a course, then a candidate has applied for that course, we can't make them an offer. They're no longer linked to the main system and people disappear. It's a huge issue for applicants because it should be the easiest part of their journey but if the data isn't correct and updated on a regular basis they get lost and they won't be able to apply.
+> In the past someone has suspended a course, then a candidate has applied for that course, we cannot make them an offer. They're no longer linked to the main system and people disappear. It's a huge issue for applicants because it should be the easiest part of their journey but if the data is not correct and updated on a regular basis they get lost and they will not be able to apply.
 
 [Lookback highlight](https://lookback.io/watch/Rm39LacvcTgXqfeZm)
 [Lookback highlight](https://lookback.io/watch/tZfZGw9T5DshrkgxB)
@@ -94,7 +94,7 @@ Some participants felt the course list lacked detail and needed a breakdown of l
 
 - Accredited bodies need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system
 - There is a student information system which pulls applications and pushes data from UCAS. This is an automatic process.
-- Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in the staging area which is when the application from UCAS can’t match up with offerings in the accredited Bodies SITS system.
+- Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in the staging area which is when the application from UCAS cannot match up with offerings in the accredited Bodies SITS system.
 - Accredited bodies need an alert/notification design that tells them of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
 - There is a need to be able to compare allocations with accredited body reports to ensure courses are set up correctly.
 

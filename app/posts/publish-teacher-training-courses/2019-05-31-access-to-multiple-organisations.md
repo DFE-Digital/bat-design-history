@@ -4,7 +4,7 @@ description: Call out how to get access to more organisations
 date: 2019-05-31
 ---
 
-Providers can already [manage multiple organisations from a single account](/publish-teacher-training-courses/multiple-organisations). But only providers who have this set up will know about this feature. There are users who don’t know they can do this who are using multiple logins to manage organisations.
+Providers can already [manage multiple organisations from a single account](/publish-teacher-training-courses/multiple-organisations). But only providers who have this set up will know about this feature. There are users who do not know they can do this who are using multiple logins to manage organisations.
 
 We discovered this while researching with accredited bodies: [Research video](https://lookback.io/watch/xG4kWc75pZTTj5pgb?t=3m37.92s)
 

@@ -13,7 +13,7 @@ date: 2019-02-27
 
 Providers can set preferences in NetUpdate for the way UCAS Apply behaves. NetUpdate is going away, we need to inherit and explain these preferences.
 
-Providers need a way to change them too – but they don’t change them often, if at all. We might be able to handle changes through support.
+Providers need a way to change them too – but they do not change them often, if at all. We might be able to handle changes through support.
 
 The following numbers come from a [Google Sheet containing raw preference data from UCAS](https://docs.google.com/spreadsheets/d/11YlO-_mbXoBMdZq2rPFiu6-Api4CHHYHiza41grj94A/).
 

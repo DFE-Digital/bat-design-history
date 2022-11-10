@@ -65,7 +65,7 @@ We show the accredited bodies in alphabetical order.
 For each accredited body, we show:
 
 - accredited body name
-- accredited body description - if there isn’t a description, we show ‘Not entered’
+- accredited body description - if there is not a description, we show ‘Not entered’
 - change and delete links
 
 The change link allows the user to change the accredited body’s description.

@@ -21,9 +21,9 @@ In our design we instead ask two questions:
 
 Maths and English are required for Primary and Secondary courses. Additionally science is needed for Primary.
 
-We don’t ask the questions for Further education courses because there is no legal requirement.
+We do not ask the questions for Further education courses because there is no legal requirement.
 
-When a subject isn’t required use the UCAS code 9\. When it is required, use the one derived from answers to the questions.
+When a subject is not required use the UCAS code 9\. When it is required, use the one derived from answers to the questions.
 
 | Level | English | Maths | Science |
 |-|-|-|-|

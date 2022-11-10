@@ -84,7 +84,7 @@ screenshots:
         ### Results
 
         Users searched this page to find a way to tweak or modify a template for a specific course. Some did this on the preview too.
-    - text: Don’t use a template
+    - text: do not use a template
       caption: If a custom course is selected the course fields will appear and the course can be previewed and submitted to DfE for the QA process.
     - text: Course preview
 ---
@@ -95,7 +95,7 @@ A first pass at providing users with a template function.
 
 ## Why use templates?
 
-For many training providers there is great similarity between the courses they offer for different subjects. Users need an easy way to share information between these courses so they don’t have to copy and paste content between them. Users also need to easily update all courses that share information, so that they all remain consistent, again without needing to copy and paste.
+For many training providers there is great similarity between the courses they offer for different subjects. Users need an easy way to share information between these courses so they do not have to copy and paste content between them. Users also need to easily update all courses that share information, so that they all remain consistent, again without needing to copy and paste.
 
 We’ve observed in user research that without the ability to share information users are likely to use copy and paste.
 
@@ -135,7 +135,7 @@ We found that users expect to be able to apply a template and then tweak it so t
 
 For example we saw that a Primary course is very similar to Primary with special educational needs, but the latter needs some extra supporting text.
 
-Some users made their courses generic to use templates whereas others noted that they wouldn’t use templates without the ability to tweak – instead opting for the ‘Custom course’ every time. Users said they need ‘elements of templates’, or to ‘pick and choose’.
+Some users made their courses generic to use templates whereas others noted that they would not use templates without the ability to tweak – instead opting for the ‘Custom course’ every time. Users said they need ‘elements of templates’, or to ‘pick and choose’.
 
 Without changes we risk making it easy for providers to not communicate the differences between their courses.
 

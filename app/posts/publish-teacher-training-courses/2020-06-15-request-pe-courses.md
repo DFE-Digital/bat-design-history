@@ -69,9 +69,9 @@ You’ll need to complete a Google form to request any EYITT or undergraduate co
 
 ### All other courses
 
-You don’t need to request any other courses. You’ll automatically get permission to recruit to them in September 2020. This will happen after your 2020/21 courses have been copied over in Publish (this is sometimes known as ‘rollover’), and you’ve confirmed they’re correct for the next cycle.
+You do not need to request any other courses. You’ll automatically get permission to recruit to them in September 2020. This will happen after your 2020/21 courses have been copied over in Publish (this is sometimes known as ‘rollover’), and you’ve confirmed they’re correct for the next cycle.
 
-You don’t need to take any action yet in relation to these courses. However, we’d recommend that you contact your training partners to agree what you’d like to offer for 2021/22.
+You do not need to take any action yet in relation to these courses. However, we’d recommend that you contact your training partners to agree what you’d like to offer for 2021/22.
 
 In July we’ll write to you again, to tell you when your current courses will be copied over, and how you can publish them on Find.
 

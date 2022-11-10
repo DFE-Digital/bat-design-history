@@ -94,7 +94,7 @@ We’ve tried to use existing location data on Find, but it has proven problemat
 
 We reverted these changes because the data was unreliable and providers behave differently.
 
-We can’t make improvements to Find until we have more accurate location data and can give providers the flexibility they want.
+We cannot make improvements to Find until we have more accurate location data and can give providers the flexibility they want.
 
 ## What location data can providers give us?
 
@@ -108,7 +108,7 @@ Depending on the route and type of provider, placements are arranged differently
 
 - **Providers potentially have 100s of placement locations.** Some providers work with a lot of schools, possibly hundreds.
 
-- **Placements are not known.** Some providers won’t know which courses are running in which locations until closer to the start of the academic year. Placements can also change throughout the year and vary by subject.
+- **Placements are not known.** Some providers will not know which courses are running in which locations until closer to the start of the academic year. Placements can also change throughout the year and vary by subject.
 
 - **Training does not take place in a single location.** Most routes involve candidates being placed in at least 2 different schools to give them broader teaching experience. Some routes can also involve study at a college or university campus
 

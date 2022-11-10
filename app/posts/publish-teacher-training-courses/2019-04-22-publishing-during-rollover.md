@@ -13,7 +13,7 @@ screenshots:
 ---
 <!-- markdownlint-disable MD051 -->
 
-During rollover there are two cycles: the current cycle, and another that’s being prepared for the next cycle. Courses in the next cycle can’t go live until the cycle begins, which is usually in October.
+During rollover there are two cycles: the current cycle, and another that’s being prepared for the next cycle. Courses in the next cycle cannot go live until the cycle begins, which is usually in October.
 
 ## Setting publish context
 
@@ -79,7 +79,7 @@ Once a cycle has opened all changes should revert.
 
 ## Missing from this design
 
-We probably need a way for providers to preview their course after it’s been published, as View on website won’t be a thing.
+We probably need a way for providers to preview their course after it’s been published, as View on website will not be a thing.
 
 The preview links could persist on the course page and not be dependent on the course’s state.
 

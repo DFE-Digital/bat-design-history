@@ -124,7 +124,7 @@ A course, which your organisation is the accredited body for, has been withdrawn
 
 ((provider_name)) withdrew ((course name)) (((course_code))) in Publish teacher training courses, at ((attribute_change_datetime)).
 
-This course is no longer visible on Find and candidates can’t apply to it. It also can’t be republished or reopened to applicants in the current cycle.
+This course is no longer visible on Find and candidates cannot apply to it. It also cannot be republished or reopened to applicants in the current cycle.
 
 You can view the withdrawn course in Publish at ((course url)).
 

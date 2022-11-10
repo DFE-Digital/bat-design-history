@@ -51,7 +51,7 @@ We researched this with:
 
 ### Should we stick with a wizard?
 
-Providers copied all their courses and locations. They also expressed a need to repeat rollover. The route into the wizard wasn’t spotted. Using the beginning of rollover to talk about What’s new didn’t work.
+Providers copied all their courses and locations. They also expressed a need to repeat rollover. The route into the wizard was not spotted. Using the beginning of rollover to talk about What’s new didn’t work.
 
 We could copy everything, show two cycles and emphasise a new delete course feature for anything that shouldn’t be copied.
 

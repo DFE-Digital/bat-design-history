@@ -4,7 +4,7 @@ description: Designs for when a user’s email is not in our whitelist
 date: 2018-07-13
 ---
 
-If a user signs up who isn’t on our whitelist we don’t know much about them. We can’t give them access to anyone’s courses. We need to know which organisation they should be part of and then validate that.
+If a user signs up who is not on our whitelist we do not know much about them. We cannot give them access to anyone’s courses. We need to know which organisation they should be part of and then validate that.
 
 This can happen if the invite email gets shared or forwarded, or if the user’s email address is different to the one we emailed.
 

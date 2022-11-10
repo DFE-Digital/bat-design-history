@@ -124,7 +124,7 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
       <td class="govuk-table__cell">
         <span class="govuk-tag app-tag-not-running">Withdrawn</span>
       </td>
-      <td class="govuk-table__cell">Anything that’s been live but isn’t live any more should be marked as withdrawn.</td>
+      <td class="govuk-table__cell">Anything that’s been live but is not live any more should be marked as withdrawn.</td>
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">Not running (but has been running in this cycle)</td>
@@ -134,7 +134,7 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
       <td class="govuk-table__cell">
         <span class="govuk-tag app-tag-not-running">Withdrawn</span>
       </td>
-      <td class="govuk-table__cell">Anything that’s been live but isn’t live any more should be marked as withdrawn.</td>
+      <td class="govuk-table__cell">Anything that’s been live but is not live any more should be marked as withdrawn.</td>
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">Not running (but has been running in this cycle)</td>
@@ -144,7 +144,7 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
       <td class="govuk-table__cell">
         <span class="govuk-tag app-tag-not-running">Withdrawn</span>
       </td>
-      <td class="govuk-table__cell">Anything that’s been live but isn’t live any more should be marked as withdrawn.</td>
+      <td class="govuk-table__cell">Anything that’s been live but is not live any more should be marked as withdrawn.</td>
     </tr>
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">Not running (not been running in this cycle)</td>
@@ -166,7 +166,7 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
       </td>
       <td class="govuk-table__cell">
         <ul>
-          <li>Not sure that courses can end up in this state (e.g. Not running means you can’t enrich)</li>
+          <li>Not sure that courses can end up in this state (e.g. Not running means you cannot enrich)</li>
           <li>None</li>
         </ul>
       </td>
@@ -181,7 +181,7 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
       </td>
       <td class="govuk-table__cell">
         <ul>
-          <li>Not sure that courses can end up in this state (e.g. Not running means you can’t enrich)</li>
+          <li>Not sure that courses can end up in this state (e.g. Not running means you cannot enrich)</li>
           <li>Move course back to draft state</li>
           <li>Email provider</li>
         </ul>

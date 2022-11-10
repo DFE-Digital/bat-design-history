@@ -16,7 +16,7 @@ Ancient languages subjects include:
 - Ancient Greek
 - Ancient Hebrew
 
-There weren’t any ancient language subjects in the drop-down list on the subject selection page in the ‘Add course’ flow when DfE introduced the policy. The missing subjects meant that providers could not publish courses in ancient languages.
+There were not any ancient language subjects in the drop-down list on the subject selection page in the ‘Add course’ flow when DfE introduced the policy. The missing subjects meant that providers could not publish courses in ancient languages.
 
 Providers who wanted to publish a course with an ancient language would have to create a ‘Classics’ course and either:
 

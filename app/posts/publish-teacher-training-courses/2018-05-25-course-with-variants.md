@@ -36,7 +36,7 @@ Providers set up courses with the following qualifications in UCAS:
 - QTS: 3098 courses
 - QTS, Professional: 95 courses
 
-Some providers have separate courses for their QTS and PGCE variants. We’ve seen examples of QTS only courses in UCAS that do actually offer a PGCE, the qualification isn’t set up correctly in UCAS. We don’t know the extent of this problem.
+Some providers have separate courses for their QTS and PGCE variants. We’ve seen examples of QTS only courses in UCAS that do actually offer a PGCE, the qualification is not set up correctly in UCAS. We do not know the extent of this problem.
 
 The opposite exists too, some use PGCE with QTS but highlight at interview or application stage that candidates can opt for the QTS only route if appropriate.
 

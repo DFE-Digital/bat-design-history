@@ -66,7 +66,7 @@ The design worked without any supporting copy. The separation of organisations w
 
 > “Oh lovely, that’s really good”
 >
-> “It’s nice that you don’t have to log in somewhere else”
+> “It’s nice that you do not have to log in somewhere else”
 
 * * *
 

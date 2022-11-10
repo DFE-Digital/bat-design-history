@@ -138,7 +138,7 @@ This is also a good time to review and improve the copy on your pages. Guidance 
 
 ### Publish your courses
 
-Once you’ve reviewed and edited your courses, you can line them up for publication to [Find postgraduate teacher training](https://find-postgraduate-teacher-training.education.gov.uk/). (You don’t need to request permission to recruit to any courses, except fee-funded PE – accredited bodies have until 10 July to do this.)
+Once you’ve reviewed and edited your courses, you can line them up for publication to [Find postgraduate teacher training](https://find-postgraduate-teacher-training.education.gov.uk/). (You do not need to request permission to recruit to any courses, except fee-funded PE – accredited bodies have until 10 July to do this.)
 
 To publish, hit the green ‘Publish in October’ button (you can still make changes to your courses after doing this). Your courses will appear on Find in October, when the new recruitment cycle opens, replacing your current courses.
 
@@ -196,7 +196,7 @@ Courses for the 2021 to 2022 recruitment cycle will be published to Find postgra
 
 If you haven’t already, you should go to Publish teacher training courses now and publish your courses. Do this by pressing the green ‘Publish in October’ button on the individual course pages.
 
-If you don’t do so, they won’t appear on Find tomorrow. You must publish your courses to enable candidates to apply for them through UCAS or DfE Apply – applications open on Tuesday 13 October.
+If you do not do so, they will not appear on Find tomorrow. You must publish your courses to enable candidates to apply for them through UCAS or DfE Apply – applications open on Tuesday 13 October.
 
 ### If you’ve already published your courses
 

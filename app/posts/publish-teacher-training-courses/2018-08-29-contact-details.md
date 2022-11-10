@@ -13,17 +13,17 @@ screenshots:
 
 We added the [contact details from UCAS](/publish-teacher-training-courses/iteration-aug-23#about-your-organisation) to the design ([Trello](https://trello.com/c/XcWDGsvo/175-design-showing-org-info-to-publishers)). In user research we asked training providers about those details. We expected to be able to display them to applicants. We thought this was something we could avoid building for the minimum viable service.
 
-Users told us that those UCAS contact details wouldn’t be correct.
+Users told us that those UCAS contact details would not be correct.
 
-> “Where are the contact details pulled from? … I don’t want it to put my personal details … I don’t want it to show an address, it’ll be wrong … If you pull in the address from UCAS it’ll be wrong … It could be an admin office, not somewhere someone can visit and see us” ([Video](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=58m55s))
+> “Where are the contact details pulled from? … I do not want it to put my personal details … I do not want it to show an address, it’ll be wrong … If you pull in the address from UCAS it’ll be wrong … It could be an admin office, not somewhere someone can visit and see us” ([Video](https://lookback.io/watch/kY9HWu5MJiJhgJ5yC?t=58m55s))
 
-> “So I need to put in the contact details… Where am I putting in the contact details? … The information I put on UCAS isn’t necessarily who they need to ring” ([Video](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=1h25m6.76s))
+> “So I need to put in the contact details… Where am I putting in the contact details? … The information I put on UCAS is not necessarily who they need to ring” ([Video](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=1h25m6.76s))
 
 ## The data is in Entry Profiles
 
-We import data from UCAS’s NetUpdate tool. We don’t use any of the Entry Profiles information. Entry Profiles is the tool that Publish courses will replace, it isn’t available to training providers for the 2019/2020 cycle.
+We import data from UCAS’s NetUpdate tool. We do not use any of the Entry Profiles information. Entry Profiles is the tool that Publish courses will replace, it is not available to training providers for the 2019/2020 cycle.
 
-Contact details for institutions in NetUpdate are incomplete, they don’t have email and address fields. The websites stored haven’t been validated, they often don’t have a protocol.
+Contact details for institutions in NetUpdate are incomplete, they do not have email and address fields. The websites stored haven’t been validated, they often do not have a protocol.
 
 The information shown to applicants is actually stored in the Entry Profiles system. Here there are well formatted addresses, telephone numbers, emails and validated websites.
 

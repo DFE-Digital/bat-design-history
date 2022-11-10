@@ -34,7 +34,7 @@ Currently, only users in accredited bodies receive email notifications for cours
 
 Users can turn off all email notifications. Research shows that users want to choose which email notifications they receive.
 
-At the moment some users filter out the emails they don’t want to read. It could also result in the email notifications being ignored.
+At the moment some users filter out the emails they do not want to read. It could also result in the email notifications being ignored.
 
 If we let users manage individual email notifications, then their inbox will only contain useful emails.
 

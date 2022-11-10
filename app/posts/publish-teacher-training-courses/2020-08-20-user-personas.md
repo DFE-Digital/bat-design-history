@@ -15,7 +15,7 @@ Admin permissions include access to:
 Viewing Publish exclusively as an administrator made it harder for the team to experience the service from the perspective of our users. For example:
 
 - with approximately 2000 providers it’s often an hard to find the appropriate organisation for testing a specific scenario
-- our users often have complex relationships across multiple organisations which we can’t visualise as an admin user
+- our users often have complex relationships across multiple organisations which we cannot visualise as an admin user
 
 ## Test accounts
 

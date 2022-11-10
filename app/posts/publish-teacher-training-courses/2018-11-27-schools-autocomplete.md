@@ -35,8 +35,8 @@ We’ve begun testing this pattern as part of the UCAS Transition work. It is be
 We’ve found that:
 
 - if many schools have the same name, the right one is hard to find, eg St Patrick’s or St Mary’s ([example](https://lookback.io/watch/vw6eDzqmL4s24rR2Y?t=48m48s))
-- imprecise punctuation meant that an exact match wasn’t shown (eg missing comma or apostrophe)
-- users don’t necessarily know the postcode, when they do the search works well
+- imprecise punctuation meant that an exact match was not shown (eg missing comma or apostrophe)
+- users do not necessarily know the postcode, when they do the search works well
 
 We’ve tweaked the prototype so that:
 

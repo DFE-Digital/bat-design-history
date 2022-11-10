@@ -17,7 +17,7 @@ Because features are missing more people need to contact us.
 
 We’ve found that users sometimes struggle to use our support links.
 
-If they don’t have a mail client configured, or if it’s configured for the wrong email, users will struggle to contact us. We’ve alleviated this by editing the copy to show the full support email address, but this design adds a form which will be easier to use.
+If they do not have a mail client configured, or if it’s configured for the wrong email, users will struggle to contact us. We’ve alleviated this by editing the copy to show the full support email address, but this design adds a form which will be easier to use.
 
 ## Make features discoverable
 

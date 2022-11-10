@@ -8,7 +8,7 @@ A quick way to indicate if a location is an area or an address.
 
 Some providers use the UCAS training locations to indicate a region or area, e.g. United Learning Sussex.
 
-When we validate locations we require building and street name, town or city, and postcode. For regions or areas this validation isn’t appropriate. However we still need enough information to show courses on a map.
+When we validate locations we require building and street name, town or city, and postcode. For regions or areas this validation is not appropriate. However we still need enough information to show courses on a map.
 
 In the design below, if a user selects ‘An area’, then we would validate differently.
 

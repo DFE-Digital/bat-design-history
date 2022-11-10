@@ -45,7 +45,7 @@ Some pages can be reused:
 
 ### Expertise
 
-Not everyone who enters a further education course knows exactly what their FE courses offer. Some providers weren’t sure if their courses offered QTS or not (they don’t). They have contacts in their organisation who can give more detail.
+Not everyone who enters a further education course knows exactly what their FE courses offer. Some providers were not sure if their courses offered QTS or not (they do not). They have contacts in their organisation who can give more detail.
 
 ### Titles
 
@@ -53,7 +53,7 @@ FE course titles are vague: Lifelong Learning, Further Education, FE Teacher Tra
 
 ### Pre-service and post-service
 
-We’d seen these terms in some courses. We weren’t sure what they meant.
+We’d seen these terms in some courses. We were not sure what they meant.
 
 Post-service, or in-service is aimed at people already working or volunteering in a school as it does not include school placements. ([video](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=5m4s))
 
@@ -63,9 +63,9 @@ Pre-service courses will include work placements.
 
 Should FE course be with all the others? “Yes - the application process is the same as those that result in QTS and managed in the same way. They’re getting the same treatment as someone who is applying for QTS” ([video](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=12m36.1s))
 
-How school placements work should be renamed to How placements work for FE courses, placements aren’t in schools.
+How school placements work should be renamed to How placements work for FE courses, placements are not in schools.
 
-As courses aren’t tied to allocations, the opening date for applications is arbitrary. “because this course is not subject to allocation restrictions, we know the course is going to run.” ([video](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=15m25.7s))
+As courses are not tied to allocations, the opening date for applications is arbitrary. “because this course is not subject to allocation restrictions, we know the course is going to run.” ([video](https://lookback.io/watch/pWYBvEpr8YfeF7pAx?t=15m25.7s))
 
 *[GCSE]: General certificate of secondary education
 *[PGCE]: Postgraduate certificate in education

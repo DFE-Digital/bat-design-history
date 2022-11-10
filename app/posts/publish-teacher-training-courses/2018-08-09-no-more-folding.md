@@ -35,7 +35,7 @@ We tested a course detail page with applicants: [applicant research](/find-teach
 
 ### Folding tested poorly with providers
 
-When we tested folding with training providers they expressed surprise and confusion. It wasn’t obvious to them how certain information could be explained in the fields provided. For example: ‘[About this course](/publish-teacher-training-courses/school-direct-view#about-this-course)’, “which course is that for, these courses are different?”
+When we tested folding with training providers they expressed surprise and confusion. It was not obvious to them how certain information could be explained in the fields provided. For example: ‘[About this course](/publish-teacher-training-courses/school-direct-view#about-this-course)’, “which course is that for, these courses are different?”
 
 We [iterated the page layout](/publish-teacher-training-courses/iteration-june-26) to be more explicit about the fields for each course variant to avoid this confusion. But we found that more and more small exceptions meant fewer fields could be shared between variants; eg a salaried course has a different interview process, and might have more emphasis on experience in the entry requirements.
 
@@ -57,11 +57,11 @@ On the [search results page](/find-teacher-training/course-options-user-research
 
 We saw that applicants didn’t understand that some fields only applied to some variants – we expected the [iterated course detail page](/publish-teacher-training-courses/iteration-june-26#preview) to largely fix this, but we didn’t test this version with applicants.
 
-## Don’t fold courses
+## do not fold courses
 
 The first version of the tool will be based on UCAS’s definition of a course. Course metadata will still be created and configured in UCAS. The UCAS model of a course must persist in some format in the publish courses tool. It is also the model that providers are most familiar with.
 
-Trying to create a new course model when we don’t control all aspects of the course, especially course creation and application is troublesome. Providers will need to understand both models and how they overlap.
+Trying to create a new course model when we do not control all aspects of the course, especially course creation and application is troublesome. Providers will need to understand both models and how they overlap.
 
 Sticking with the UCAS course model for the minimum viable service reduces risk and simplifies what we build.
 

@@ -38,6 +38,6 @@ The draft status was switched from blue to orange. This colour better communicat
 
 The [previous design had two calls to action](/publish-teacher-training-courses/user-research-aug-22#about-your-organisation) on one page. One for saving, another for publishing. With the publish button high up on the page there’s a risk users might use this rather than save, although we didn’t observe this in research.
 
-We also needed to show what information we’d imported from UCAS about this organisation (eg contact details). There wasn’t an obvious place to put this.
+We also needed to show what information we’d imported from UCAS about this organisation (eg contact details). There was not an obvious place to put this.
 
 The new design creates an overview page containing a summary and the publishing workflow. Editing is moved to a child page, separating the save and publish actions in the same way a course does. The design is now consistent with courses. On the overview there is space to put imported UCAS data, like on a course.

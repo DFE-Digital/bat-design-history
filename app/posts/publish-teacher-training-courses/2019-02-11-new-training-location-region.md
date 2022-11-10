@@ -24,7 +24,7 @@ This design aims to:
 Concerns we expect from providers that the design would need to address:
 
 - I have too many schools to list
-- I don’t know which schools to list
+- I do not know which schools to list
 - Will candidates see these schools?
 
 ## User research

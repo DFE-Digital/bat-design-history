@@ -24,7 +24,7 @@ Show the allocation policy for a course on the basic details tab.
 
 For the 2020 to 2021 cycle only PE fee-funded courses require allocated places.
 
-We don’t have data on whether a request for allocations has been made or not, so for PE we need to caveat the link to request allocations.
+We do not have data on whether a request for allocations has been made or not, so for PE we need to caveat the link to request allocations.
 
 The link to request allocations will point to a Google form, responses will be shared with the allocations team.
 

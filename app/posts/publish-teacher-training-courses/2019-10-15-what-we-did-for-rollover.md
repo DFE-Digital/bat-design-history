@@ -49,7 +49,7 @@ In the next cycle we had to indicate that:
 
 Once the rollover period was enabled and providers could see two cycles, we notified users by email and with [a screen after logging in](https://github.com/DFE-Digital/publish-teacher-training/pull/430).
 
-At the end of rollover we considered whether to allow read-only access to the 2019 cycle. This was a lot to build, and we weren’t sure of the needs. Instead we removed all access with the intention of adding a link to previous cycles if a need arose. As of mid-October, no one has requested to see last year’s courses.
+At the end of rollover we considered whether to allow read-only access to the 2019 cycle. This was a lot to build, and we were not sure of the needs. Instead we removed all access with the intention of adding a link to previous cycles if a need arose. As of mid-October, no one has requested to see last year’s courses.
 
 ## Settings for manage-courses-frontend
 

@@ -66,7 +66,7 @@ We already provide details of DfE bursaries and subject scholarships but some pr
 
 ### Salary
 
-Applicants need to know what salary they’ll get if they choose a salaried course. Training providers can’t give this figure – it’s usually based on a national scale that’s not agreed until January. This field allows providers to give context about the salary without having a figure at hand.
+Applicants need to know what salary they’ll get if they choose a salaried course. Training providers cannot give this figure – it’s usually based on a national scale that’s not agreed until January. This field allows providers to give context about the salary without having a figure at hand.
 
 Applicants need to know when there are no fees to pay. When taking a salaried course there are usually (but not always) no fees to pay. We prompt providers to either explain their additional fees (eg top-ups) or be explicit when there are no fees.
 

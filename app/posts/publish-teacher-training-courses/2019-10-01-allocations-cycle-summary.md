@@ -162,7 +162,7 @@ The courses in the allocated category are:
 
 ### Next Steps
 
-You no longer need to use the Trainee Teacher Portal (TTP) to check whether you have permission to recruit. If you requested permission in July, you should now publish your courses using [Publish teacher training courses](https://interactions.signin.education.gov.uk/133e7c2e-0119-4cee-bace-41e22aec5f0f/usernamepassword?clientid=bats&redirect_uri=https://publish-teacher-training-courses.education.gov.uk/auth/cb). Once you have published your courses, they won’t appear immediately on Find postgraduate teacher training, but will go live on 1 October.
+You no longer need to use the Trainee Teacher Portal (TTP) to check whether you have permission to recruit. If you requested permission in July, you should now publish your courses using [Publish teacher training courses](https://interactions.signin.education.gov.uk/133e7c2e-0119-4cee-bace-41e22aec5f0f/usernamepassword?clientid=bats&redirect_uri=https://publish-teacher-training-courses.education.gov.uk/auth/cb). Once you have published your courses, they will not appear immediately on Find postgraduate teacher training, but will go live on 1 October.
 
 DfE will use the information submitted during the request period to check that all the courses published on Find have permission to recruit.
 

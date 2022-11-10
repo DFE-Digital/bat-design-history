@@ -11,7 +11,7 @@ screenshots:
 An iteration on [the initial design](/publish-teacher-training-courses/new-course-2#customise-title) which:
 
 - tries out moving the title change to the end of the wizard
-- adds guidance on titles that are/aren’t allowed
+- adds guidance on titles that are/are not allowed
 
 ## User research
 

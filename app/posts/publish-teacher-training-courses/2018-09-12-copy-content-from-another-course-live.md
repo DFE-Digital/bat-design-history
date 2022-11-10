@@ -33,7 +33,7 @@ In the original when the fields were updated by JavaScript it was intuitive that
 
 Doing the same thing with a form submission and page reload is less intuitive. We could immediately save changes and show a success message, or we could request that users review what’s been copied and ask them to save. The second option is preferable as we’d like users to review and make changes before saving.
 
-To emphasise that ‘this isn’t quite done’, we introduced a new alert state – an orange intermediate alert. It’s not an error, it’s not successful yet, it’s sort like a draft – which is also orange. The colour doesn’t fit quite right but it seems to work.
+To emphasise that ‘this is not quite done’, we introduced a new alert state – an orange intermediate alert. It’s not an error, it’s not successful yet, it’s sort like a draft – which is also orange. The colour doesn’t fit quite right but it seems to work.
 
 ### JavaScript prompts
 
@@ -41,7 +41,7 @@ If a user makes changes to any fields and then tries to copy we warn about losin
 
 If a user copies a course and tries to leave without saving we also warn about losing unsaved changes.
 
-## People aren’t finding the feature
+## People are not finding the feature
 
 We’ve had support requests asking where the feature is. In research people have been looking for this on:
 

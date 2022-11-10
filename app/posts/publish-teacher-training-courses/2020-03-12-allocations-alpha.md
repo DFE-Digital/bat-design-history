@@ -146,7 +146,7 @@ The internal ownership of Publish varies by organisation: so the proposed new al
 
 > But I’m still slightly confused about having to supply recruitment figures for one [new PE courses] and not the other [existing PE courses]
 
-> I don’t have to complete spreadsheets… Hurrah!
+> I do not have to complete spreadsheets… Hurrah!
 
 > Overall, this is a huge step forward, it just needs a bit of work on getting the terminology right
 

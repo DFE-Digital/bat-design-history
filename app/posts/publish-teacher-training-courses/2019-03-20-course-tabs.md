@@ -19,7 +19,7 @@ When updating course details, if the course has been published, the changes will
 By splitting the page into tabs we:
 
 - replace the often missed ‘Edit course information’ link with many change links
-- more clearly indicate what can and can’t be changed after publishing
+- more clearly indicate what can and cannot be changed after publishing
 - create a space to try and explain this
 - separate fields that need publishing and those that publish immediately
 - reduce the length of the page

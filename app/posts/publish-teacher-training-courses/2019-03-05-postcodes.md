@@ -9,7 +9,7 @@ We haven’t been validating postcodes in our contact addresses. This raises a f
 - the UCAS API requires postcodes to be a certain length
 - our geocoding of the address will not be accurate
 
-There isn’t specific guidance in the design system for validating postcodes, but [there’s a discussion in the backlog](https://github.com/alphagov/govuk-design-system-backlog/issues/82).
+There is not specific guidance in the design system for validating postcodes, but [there’s a discussion in the backlog](https://github.com/alphagov/govuk-design-system-backlog/issues/82).
 
 For our case all postcodes will be in England, which avoids many of [the special cases](https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Special_cases).
 
@@ -22,7 +22,7 @@ Our validation should:
 - have a maximum length of 7 characters after whitespace is removed
 - only allow values that contain spaces, A-Z and 0-9
 
-We shouldn’t use a complex regular expression (eg ordering of letters and numbers), we don’t need to use an API to check postcodes yet.
+We shouldn’t use a complex regular expression (eg ordering of letters and numbers), we do not need to use an API to check postcodes yet.
 
 ## Storing postcodes
 

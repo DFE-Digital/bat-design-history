@@ -20,7 +20,7 @@ The UCAS statuses are per location, not per course. Instead of repeating those s
 Courses can have 1 of 3 statuses:
 
 - Running - the course is published and applicants can see it on search
-- Not running – the course is not published, it can’t be found on search
+- Not running – the course is not published, it cannot be found on search
 - New - not yet running – the course is not published yet because it hasn’t been set to publish on UCAS
 
 ## Resolving course status from training location statuses
@@ -33,9 +33,9 @@ If all locations are ‘Discontinued’ or ‘Suspended’, then the course is �
 
 We hypothesise that a user needs to know the difference between a course that is not running because it was stopped and one that is not running because it’s not ready to go live yet.
 
-## Courses that aren’t running
+## Courses that are not running
 
-Courses that aren’t running can’t be edited. The fields and publish actions do not show.
+Courses that are not running cannot be edited. The fields and publish actions do not show.
 
 [Trello ticket](https://trello.com/c/BOvg2Duh/46-design-workflow-for-courses-that-are-not-published-because-of-their-ucas-status)
 

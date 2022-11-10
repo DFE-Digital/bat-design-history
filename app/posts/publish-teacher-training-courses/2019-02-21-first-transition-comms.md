@@ -16,7 +16,7 @@ The new features will mean you’ll no longer need to add or edit course informa
 - updating the vacancy status of courses
 - changing course details (eg names, outcomes, and fee or salary status)
 
-Your existing content in web-link will be transferred automatically to Publish teacher training courses - you won’t need to take any action yourself. You’ll only need to use web-link to receive and process UCAS Teacher Training applications (note that any changes you make in Publish teacher training courses will be updated automatically in the UCAS application system).
+Your existing content in web-link will be transferred automatically to Publish teacher training courses - you will not need to take any action yourself. You’ll only need to use web-link to receive and process UCAS Teacher Training applications (note that any changes you make in Publish teacher training courses will be updated automatically in the UCAS application system).
 
 At first, in early April, the new publishing features will be available to a small group of providers. Later in the month, we’ll roll them out to everyone.
 

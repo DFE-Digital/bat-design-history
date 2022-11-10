@@ -38,7 +38,7 @@ screenshots:
       src: 14-submitted.png
 ---
 
-We don’t expect to build the new course wizard in time for transition.
+We do not expect to build the new course wizard in time for transition.
 
 As an MVP, and so that providers can still add courses when they need to, we’ve mirrored the wizard as a Google Form. We can ask the same questions and capture what we need, trigger a support request and then manually create what is asked for. Before rollover we expect new course volume to be small.
 
@@ -46,7 +46,7 @@ Parts of this journey we know will be harder:
 
 - adding multiple locations
 - adding an accredited body
-- requesting a title (we can’t generate an ideal title to show them)
+- requesting a title (we cannot generate an ideal title to show them)
 
 Users expect a swift response from support, and to have their course available in Publish as soon as possible. We will have a 1 day SLA (service level agreement) to create new courses.
 

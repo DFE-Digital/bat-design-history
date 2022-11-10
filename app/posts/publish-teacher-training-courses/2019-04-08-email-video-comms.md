@@ -20,7 +20,7 @@ To give you a preview of the expanded service, we’ve put together a video. Thi
 
 We’ll contact you shortly to confirm when we’ll start transferring your courses to Publish (and when you’ll lose access to current course management functions in [UCAS Web-link](https://www.ucas.com/sign-web-link)). We’re transferring all course information as a key part of the transition from UCAS.
 
-You don’t need to do anything to prepare for this. We’ll transfer your courses automatically, and for now you can continue to use Web-link as normal.
+You do not need to do anything to prepare for this. We’ll transfer your courses automatically, and for now you can continue to use Web-link as normal.
 
 If you have any questions about the new features, contact <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to see this email, please forward it to them.
 

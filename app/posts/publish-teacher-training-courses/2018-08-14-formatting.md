@@ -29,7 +29,7 @@ We could allow users to paste URLs into the textarea. If the URL is valid then i
 Something like this:
 [/publish-teacher-training-courses/formatting](/publish-teacher-training-courses/formatting)
 
-The problem with these sorts of links is that they aren’t accessible. They don’t have any useful labels to indicate what the link is for. The URL is often long and hard to read.
+The problem with these sorts of links is that they are not accessible. They do not have any useful labels to indicate what the link is for. The URL is often long and hard to read.
 
 ## HTML
 

@@ -17,6 +17,6 @@ Universities are the simplest provider. There are no schools to apply to and [no
 
 - remove schools link in header
 - hide accrediting provider
-- don’t show any of the qualification or salary study option fields
+- do not show any of the qualification or salary study option fields
 
 We showed this to universities at the [UCET](http://ucet.ac.uk/) June meetup. Each table was given a printout of the screens below, which some commented on.

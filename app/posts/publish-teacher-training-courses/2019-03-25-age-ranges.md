@@ -24,6 +24,6 @@ Provide a list of the most common age ranges as published on [ITT criteria and s
 >
 > No training programme should cover fewer than 4 school years.
 
-We can’t easily map existing UCAS data to age range. We should ask for it again for all courses.
+We cannot easily map existing UCAS data to age range. We should ask for it again for all courses.
 
 *[ITT]: Initial teacher training

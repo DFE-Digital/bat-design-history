@@ -53,8 +53,8 @@ We show the accredited bodies in alphabetical order.
 For each accredited body, we show:
 
 - accredited body name
-- accredited body description - if there isn’t a description, we show ‘Not entered’
-- accredited body permissions - if there aren’t any permissions, we show ‘None - view only’
+- accredited body description - if there is not a description, we show ‘Not entered’
+- accredited body permissions - if there are not any permissions, we show ‘None - view only’
 
 ### Adding a new accredited body relationship
 
@@ -105,7 +105,7 @@ We use checkboxes instead of radio buttons because:
 
 We put the permissions in an order which matches the lifecycle of a course.
 
-Withdrawing should be last as you can't do anything else to it afterwards.
+Withdrawing should be last as you cannot do anything else to it afterwards.
 
 ### Changing an accredited body’s permissions
 

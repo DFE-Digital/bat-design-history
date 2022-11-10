@@ -14,7 +14,7 @@ screenshots:
 
 Around the end of May each year, UCAS will make a duplicate of a provider’s data and spin up a new instance of UCAS web-link. Within this new instance providers can begin preparing next cycle’s courses.
 
-UCAS will not copy any course-training location combination marked as discontinued. This is the only mechanism providers can use to say ‘this course won’t run next year’. There’s a flaw – providers can’t set any courses currently running this year, for which they are actively recruiting, to discontinued. Which means some courses they know will not be offered next year could still be copied.
+UCAS will not copy any course-training location combination marked as discontinued. This is the only mechanism providers can use to say ‘this course will not run next year’. There’s a flaw – providers cannot set any courses currently running this year, for which they are actively recruiting, to discontinued. Which means some courses they know will not be offered next year could still be copied.
 
 The process is automatic and happens across all providers.
 
@@ -44,6 +44,6 @@ Useful allocations documents:
 
 ## Between cycles
 
-While there are two cycles, providers need to easily manage courses and locations in both. They need to manage vacancies in the current cycle, for example closing courses for summer when they aren’t recruiting.
+While there are two cycles, providers need to easily manage courses and locations in both. They need to manage vacancies in the current cycle, for example closing courses for summer when they are not recruiting.
 
 *[UCAS]: Universities and colleges admissions service

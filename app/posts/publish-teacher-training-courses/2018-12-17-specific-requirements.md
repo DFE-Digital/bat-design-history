@@ -24,7 +24,7 @@ Depending on the qualification selected in the Education section of apply and th
       <th class="govuk-table__header" scope="col">1: Must have</th>
       <th class="govuk-table__header" scope="col">2: Taking</th>
       <th class="govuk-table__header" scope="col">3: Equivalency test</th>
-      <th class="govuk-table__header" scope="col">9: Don’t care</th>
+      <th class="govuk-table__header" scope="col">9: do not care</th>
     </tr>
   </thead>
   <tbody class="govuk-table__body">
@@ -105,7 +105,7 @@ This option accepts applicants who have the qualification, have a pending qualif
 
 An equivalency test is not the same as entering an equivalent qualification in the Education section (eg an international baccalaureate with a top score of 45)
 
-### 9: Don’t care (Further education only, ‘same as N/A’)
+### 9: do not care (Further education only, ‘same as N/A’)
 
 Example course: [B60/X341](https://find-postgraduate-teacher-training.education.gov.uk/course/B60/X341)
 

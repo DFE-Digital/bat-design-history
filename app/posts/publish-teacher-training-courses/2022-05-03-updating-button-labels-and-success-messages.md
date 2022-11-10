@@ -17,7 +17,7 @@ The service includes a status called ‘Published *with unpublished changes’, 
 - any of the text boxes in the ‘Description’ section
 - the ‘Course length and fees’ section
 
-When a change is made to a course that has the status ‘Published *with unpublished changes’, the button label is ‘Save’, and the success message is ‘Your changes have been saved’, matching the interaction. The changes aren't visible on the Find teacher training courses (Find) service until the user has republished the course.
+When a change is made to a course that has the status ‘Published *with unpublished changes’, the button label is ‘Save’, and the success message is ‘Your changes have been saved’, matching the interaction. The changes are not visible on the Find teacher training courses (Find) service until the user has republished the course.
 
 We used the same wording for the ‘Requirements and eligibility’ and the ‘Basic details’ sections, but the changes are published to Find immediately. The user does not need to republish the course. This is inconsistent.
 
