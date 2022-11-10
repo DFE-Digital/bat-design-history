@@ -43,4 +43,4 @@ Discontinued means that the training programme is no longer available or perhaps
 
 Suspended means that you will not be running your training programme in the current cycle, for any reason, but may run it again the future. The programme will not be displayed in the search tool for applicants to research. Suspended training programmes will be rolled over to the next application cycle in May each year.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

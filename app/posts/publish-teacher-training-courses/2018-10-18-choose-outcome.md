@@ -40,7 +40,7 @@ If one of the options in the disclosure is selected then the box should be opene
 
 Further education courses don’t come with QTS. We need to add a bit of context to the outcome option here so that providers don’t click ‘PGCE’ or ‘PGDE’ by mistake. In publish courses only we add the further education context to the label and make the lack of QTS explicit.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
-*[UCAS]: Universities and Colleges Admissions Service
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

@@ -63,6 +63,6 @@ We chose to ignore QTLS. Providers who want to talk about it can use the course 
 
 This qualification is at level lower than PGCE. It is mostly relevant in the FE sector. For now we have not done anything about ProfGCE courses, there is only one reference in all the enrichment data, and that refers to it as an option.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status

@@ -72,5 +72,5 @@ Inputting form: The University Site label was not correct - they don’t spend m
 
 [Full write up and affinity mapping](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/737280130/5th+round+provider+insights)
 
-*[UCAS]: Universities and Colleges Admissions Service
-*[URN]: Unique Reference Number
+*[UCAS]: Universities and colleges admissions service
+*[URN]: Unique reference number

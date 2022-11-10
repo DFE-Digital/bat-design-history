@@ -56,4 +56,4 @@ The new design:
 
 <!-- markdownlint-enable MD051 -->
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -26,4 +26,4 @@ This design tries to fix this by:
 
 Success messages after saving and edited have been added, these reinforce the message and give routes to editing courses.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

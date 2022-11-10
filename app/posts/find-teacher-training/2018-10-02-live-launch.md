@@ -38,4 +38,4 @@ screenshots:
 
 On 2 October 2018 we launched the public beta of Find postgraduate teacher training (Find) to users. This included a new start page on GOV.UK and links to it from UCAS and Get Into Teaching (GIT).
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -39,4 +39,4 @@ Courses that aren’t running can’t be edited. The fields and publish actions 
 
 [Trello ticket](https://trello.com/c/BOvg2Duh/46-design-workflow-for-courses-that-are-not-published-because-of-their-ucas-status)
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

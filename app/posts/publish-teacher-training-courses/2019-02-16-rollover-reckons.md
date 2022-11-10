@@ -46,4 +46,4 @@ Useful allocations documents:
 
 While there are two cycles, providers need to easily manage courses and locations in both. They need to manage vacancies in the current cycle, for example closing courses for summer when they aren’t recruiting.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -54,4 +54,4 @@ It’s not clear to users that courses which are set to running but have no publ
 
 [“It just wouldn’t be there until it’s published”](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=1h34m42.25s)
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

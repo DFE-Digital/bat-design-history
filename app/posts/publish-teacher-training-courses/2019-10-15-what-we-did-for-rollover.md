@@ -67,4 +67,4 @@ When the cycle opens, the cycle is marked as open ([Pull request](https://github
 
 [Rollover settings on Github](https://github.com/DFE-Digital/publish-teacher-training/blob/baeaf4f28a51dea68c05f7641b03d65f831ecaf0/config/settings.yml#L46-L48)
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

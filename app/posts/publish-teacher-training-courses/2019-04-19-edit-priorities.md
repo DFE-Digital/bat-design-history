@@ -65,7 +65,7 @@ Further education screens are probably out of scope for MVP.
 
 <!-- markdownlint-enable MD051 -->
 
-*[GCSE]: General Certificate of Secondary Education
+*[GCSE]: General certificate of secondary education
 *[GCSEs]: General Certificate of Secondary Education
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service
 *[SEND]: Special Educational Needs and Disabilities

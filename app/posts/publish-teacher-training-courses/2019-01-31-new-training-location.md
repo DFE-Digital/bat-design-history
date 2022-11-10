@@ -48,10 +48,10 @@ On the summary screens we started with ‘Code’, which a user misunderstood. W
 
 [Research playback presentation](https://docs.google.com/presentation/d/17wz2ZWJCNbbqsaywigok-fHv07IUjjiLRSaffCuim64/edit)
 
-*[ITT]: Initial Teacher Training
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
-*[URN]: Unique Reference Number
-*[MVP]: Minimum Viable Product
-*[API]: Application Programming Interface
+*[ITT]: Initial teacher training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service
+*[URN]: Unique reference number
+*[MVP]: Minimum viable product
+*[API]: Application programming interface

@@ -54,5 +54,5 @@ As per convention, keep a space on the left for controlling the view: title, con
 
 On mobile this view moves to below the map and the filter toggle expands over the map like a modal. (In the screenshots it’s missing a + icon and a way of hiding the modal)
 
-*[PGCE]: Postgraduate Certificate in Education
-*[QTS]: Qualified Teacher Status
+*[PGCE]: Postgraduate certificate in education
+*[QTS]: Qualified teacher status

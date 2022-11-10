@@ -76,4 +76,4 @@ In future weeks, we’ll start reporting on some of the more behavioural trends 
 
 In the meantime, feel free to [keep an eye on our dashboards](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt) and start familiarising yourself with some of the ways we’re looking at service performance.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

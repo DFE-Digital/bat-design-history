@@ -49,4 +49,4 @@ When asked to select notification frequency, all participants selected ‘Each t
 
 Participants acknowledged the benefit of a daily/weekly/monthly digest and mentioned it could be suitable for some members of their organisation.
 
-*[MVP]: Minimum Viable Product
+*[MVP]: Minimum viable product

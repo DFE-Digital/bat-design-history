@@ -48,5 +48,5 @@ While out of scope for a prototype, the live version of this must be able to han
 - starting a search with St Mary’s, then qualifying it with London or the beginning of a postcode (eg BN1), should show all matching schools in London or that area
 - common alternatives must be considered, eg CofE, C of E, CE, Church of England
 
-*[UCAS]: Universities and Colleges Admissions Service
-*[URN]: Unique Reference Number
+*[UCAS]: Universities and colleges admissions service
+*[URN]: Unique reference number

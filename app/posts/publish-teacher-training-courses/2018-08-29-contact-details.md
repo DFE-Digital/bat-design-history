@@ -78,4 +78,4 @@ Applicants can use the postcode to quickly lookup directions. The county along w
 
 If we have problems with these fields being required we can loosen the rules.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -200,4 +200,4 @@ Next steps will include:
 - A diary study conducted with the pilot participants.
 - Design and research of "manage notifications" functionality for Publish.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

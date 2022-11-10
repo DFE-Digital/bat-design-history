@@ -28,4 +28,4 @@ To confirm that you can take part, or if you have any questions, please respond 
   content: emailContent
 }) }}
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

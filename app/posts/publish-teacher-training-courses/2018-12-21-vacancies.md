@@ -38,4 +38,4 @@ When we tried removing the message about the UCAS Apply delay it wasn’t clear 
 - [Suffolk and Norfolk Primary SCITT](https://lookback.io/watch/ud8KczRqKKAexox28)
 - [The Downland Alliance](https://lookback.io/watch/E8MxZYHrmy7E7q85w)
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

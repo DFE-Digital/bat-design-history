@@ -32,4 +32,4 @@ Notes on implementation:
 
 The disclosure is placed below the empty sections. It might be better above them as the primary action, this might draw attention away from the edit link. We’ll need to test this positioning and iterate.
 
-*[MVP]: Minimum Viable Product
+*[MVP]: Minimum viable product

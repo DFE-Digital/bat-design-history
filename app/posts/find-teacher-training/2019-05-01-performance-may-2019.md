@@ -104,6 +104,6 @@ Furthermore, as the recruitment cycle comes to a close, and schools close for th
 
 In the meantime, feel free to [keep an eye on our dashboards](https://datastudio.google.com/reporting/1M4DgevUBtTVwS09bEpWbkhPxxFqNOBjt) and start familiarising yourself with some of the ways we’re looking at service performance.
 
-*[ITT]: Initial Teacher Training
+*[ITT]: Initial teacher training
 *[SEND]: Special Educational Needs and Disabilities
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

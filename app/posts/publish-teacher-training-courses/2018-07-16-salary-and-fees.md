@@ -34,4 +34,4 @@ Use different fields for school direct salaried courses and add fields to cater 
 
 [BATSA-464](https://dfedigital.atlassian.net/browse/BATSA-464)
 
-*[PGCE]: Postgraduate Certificate in Education
+*[PGCE]: Postgraduate certificate in education

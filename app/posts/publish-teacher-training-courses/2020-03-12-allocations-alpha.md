@@ -152,7 +152,7 @@ The internal ownership of Publish varies by organisation: so the proposed new al
 
 > I know what I’m doing here and am in control of it.
 
-*[ITT]: Initial Teacher Training
-*[PGCE]: Postgraduate Certificate in Education
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[ITT]: Initial teacher training
+*[PGCE]: Postgraduate certificate in education
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

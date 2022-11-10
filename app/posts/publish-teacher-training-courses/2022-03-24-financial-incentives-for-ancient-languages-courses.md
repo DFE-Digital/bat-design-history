@@ -149,4 +149,4 @@ When looking at any change in application levels, we need to consider that:
 
 <!-- markdownlint-enable MD001 MD025 -->
 
-*[ITT]: Initial Teacher Training
+*[ITT]: Initial teacher training

@@ -59,8 +59,8 @@ Schools (campus/location in UCAS) will be imported with the course and associate
 
 We may want each school to have its own information: description, address and type. When a candidate can express a preference for a school, this information can be shown on the course page to aid their decision making.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[QTS]: Qualified Teacher Status
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
+*[PGCE]: Postgraduate certificate in education
+*[QTS]: Qualified teacher status
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service

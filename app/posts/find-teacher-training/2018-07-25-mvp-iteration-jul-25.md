@@ -30,4 +30,4 @@ Improvements to the [minimum viable service](/find-teacher-training/all-courses-
 - highlighted course website on course details view
 - changed schools you can apply to, to ‘places’
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

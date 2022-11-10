@@ -73,9 +73,9 @@ There should be a critical distinction between policy and the way we advertise o
 
 Text sits alongside the tick box to clearly indicate that this is not a “phase”, but a specialism.
 
-*[ITT]: Initial Teacher Training
-*[NQT]: Newly Qualified Teacher
-*[PGCE]: Postgraduate Certificate in Education
-*[QTS]: Qualified Teacher Status
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[ITT]: Initial teacher training
+*[NQT]: Newly qualified teacher
+*[PGCE]: Postgraduate certificate in education
+*[QTS]: Qualified teacher status
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

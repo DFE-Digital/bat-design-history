@@ -331,4 +331,4 @@ This work may affect notifications because:
 
 <!-- markdownlint-enable MD001 MD025 -->
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

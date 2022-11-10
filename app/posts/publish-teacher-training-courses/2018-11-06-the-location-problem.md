@@ -104,6 +104,6 @@ Providers who do list locations sometimes vary in their approach to listing cour
 
 [Trello](https://trello.com/c/WSTkBVma/552-location-discovery-discussions-with-providers)
 
-*[UCAS]: Universities and Colleges Admissions Service
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[UCAS]: Universities and colleges admissions service
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

@@ -136,9 +136,9 @@ To give providers the flexibility they desire, we will let decide how they want 
 
 Additionally, should they choose to show precise locations, they can decide if candidates can choose a placement school when they apply. If they select this option, they can manage vacancies and open and close courses at each location, as they do currently.
 
-*[HEI]: Higher Education Institute
-*[HEIs]: Higher Education Institutes
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
-*[URN]: Unique Reference Number
+*[HEI]: Higher education institute
+*[HEIs]: Higher education institutes
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service
+*[URN]: Unique reference number

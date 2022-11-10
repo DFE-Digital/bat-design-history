@@ -45,4 +45,4 @@ Access the course wizard by appending `/new` to an organisations course page URL
 
 [Example URL](https://www.qa.publish-teacher-training-courses.service.gov.uk/organisations/153/2020/courses/new)
 
-*[URL]: Universal Resource Locator
+*[URL]: Universal resource locator

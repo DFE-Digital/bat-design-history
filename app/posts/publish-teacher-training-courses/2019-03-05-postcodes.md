@@ -79,5 +79,5 @@ We need an error message that helps a user recover.
   }
 }) }}
 
-*[API]: Application Programming Interface
-*[UCAS]: Universities and Colleges Admissions Service
+*[API]: Application programming interface
+*[UCAS]: Universities and colleges admissions service

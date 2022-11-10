@@ -76,9 +76,9 @@ If there are schools for a salaried course and different schools for unsalaried,
 
 We need to communicate how to apply to a variant accurately. eg Which school is available for what, what does and does not have vacancies, what the course codes are – if the choice is represented on UCAS as a separate course.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service

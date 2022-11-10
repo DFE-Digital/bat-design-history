@@ -98,4 +98,4 @@ Some participants felt the course list lacked detail and needed a breakdown of l
 - Accredited bodies need an alert/notification design that tells them of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
 - There is a need to be able to compare allocations with accredited body reports to ensure courses are set up correctly.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

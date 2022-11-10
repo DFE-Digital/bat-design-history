@@ -62,6 +62,6 @@ The application alerts contact is captured when users asks to receive alerts.
 
 The GT12 reply to contact is captured when users edit their letter template.
 
-*[API]: Application Programming Interface
-*[UCAS]: Universities and Colleges Admissions Service
-*[UTT]: UCAS Teacher Training
+*[API]: Application programming interface
+*[UCAS]: Universities and colleges admissions service
+*[UTT]: UCAS teacher training

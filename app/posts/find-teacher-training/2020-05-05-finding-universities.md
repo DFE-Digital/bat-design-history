@@ -91,5 +91,5 @@ Alternatively, we could assume that each university works with many schools near
 
 Like option 3, searches within that area or close to it can then be prioritised, giving each university course a greater likelihood of showing in search results.
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

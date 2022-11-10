@@ -46,4 +46,4 @@ For people who’ve never applied to teacher training, when given a choice about
 For people who applied using DFE Apply, applying again through UCAS represents a pain point. We hypothesise that by sending applicants wishing to apply to many courses directly to UCAS we can reduce the risk of that pain point.
 
 *[DfE]: Department for Education
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

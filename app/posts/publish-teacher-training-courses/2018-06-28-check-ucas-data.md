@@ -24,4 +24,4 @@ Providers need access for multiple users, we’re creating a secure mechanism to
 
 See [prototype on Heroku](https://publish-courses-check-ucas.herokuapp.com/we-imported) or the branch [`check-ucas`](https://github.com/DFE-Digital/publish-teacher-training-prototype/tree/check-ucas) on Github.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

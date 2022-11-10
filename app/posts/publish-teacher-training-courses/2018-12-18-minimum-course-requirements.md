@@ -23,4 +23,4 @@ Things not yet considered in this design:
 
 ![Screenshot of minimum course requirements.](minimum-course-requirements.png "Minimum course requirements")
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

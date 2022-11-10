@@ -167,4 +167,4 @@ Regards,
 The Becoming a Teacher team"
 }) }}
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -42,4 +42,4 @@ This session also formed part of the URL, meaning course pages couldn’t be lin
 
 UCAS search referred to courses as ‘training programmes’.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -69,5 +69,5 @@ If we decide to take this further, we should do some usability testing to check 
 
 We may also decide to combine this work with automatically updating the results whenever filters are changed, instead of having an ‘Apply filters’ button.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[QTS]: Qualified Teacher Status
+*[PGCE]: Postgraduate certificate in education
+*[QTS]: Qualified teacher status

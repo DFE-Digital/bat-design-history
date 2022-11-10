@@ -38,5 +38,5 @@ After launch we tested this with providers:
 
 Insights were recorded in [Google Sheets](https://docs.google.com/spreadsheets/d/1XJvy0mirMWdumDno05OsOEduU8_Gbbm6ta7ZQaMXJ9g/edit?ts=5b97f2af#gid=0).
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

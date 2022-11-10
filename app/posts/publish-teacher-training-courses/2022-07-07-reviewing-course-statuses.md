@@ -137,4 +137,4 @@ With the removal of the ‘Published with unpublished changes’ status, we coul
 
 We may want to introduce a ‘Scheduled’ status to distinguish between courses published but not yet live on Find and courses published and live on Find.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

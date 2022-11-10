@@ -33,4 +33,4 @@ Concerns we expect from providers that the design would need to address:
 - [University of Huddersfield](https://lookback.io/watch/pWYBvEpr8YfeF7pAx)
 - [The Royal Borough Teaching School Alliance](https://lookback.io/watch/iviAKDMGPxMK68voe)
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

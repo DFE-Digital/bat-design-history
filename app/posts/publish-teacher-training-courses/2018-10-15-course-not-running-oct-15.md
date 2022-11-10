@@ -81,4 +81,4 @@ These training locations will not appear in Find postgraduate teacher training:
 
 To allow candidates to view and apply to a training location, you must set its publish value to ‘Yes’ in web-link.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

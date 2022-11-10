@@ -29,4 +29,4 @@ In this iteration we changed:
 - Title in main wizard flow
 - Accredited body title tweaks
 
-*[GCSE]: General Certificate of Secondary Education
+*[GCSE]: General certificate of secondary education

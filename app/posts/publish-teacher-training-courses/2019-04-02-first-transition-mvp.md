@@ -31,4 +31,4 @@ In this MVP version we’ve descoped:
 
 The course tabs shown below are also illustrative and may not be ready.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

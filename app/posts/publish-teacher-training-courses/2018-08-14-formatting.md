@@ -59,7 +59,7 @@ We can restrict features down to paragraphs, lists and links only. The library a
 
 We’ll test how this library performs out of the box in user research.
 
-*[HTML]: Hyper Text Markup Language
-*[MDE]: Markdown Editor
-*[URL]: Universal Resource Locator
-*[URLs]: Universal Resource Locators
+*[HTML]: Hyper text markup language
+*[MDE]: Markdown editor
+*[URL]: Universal resource locator
+*[URLs]: Universal resource locators

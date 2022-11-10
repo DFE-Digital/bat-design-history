@@ -219,6 +219,6 @@ One participant mentioned their involvement with the Apply trial and queried acc
 
 > I would increase the copy facility so that you can copy between lead schools as well. So if I've got an identical course running out five different schools I've not got to, I can just copy it from one lead school to another.
 
-*[ITT]: Initial Teacher Training
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[ITT]: Initial teacher training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

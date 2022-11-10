@@ -263,4 +263,4 @@ Problems identified with this design in peer review, before user research:
   </tbody>
 </table>
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -66,4 +66,4 @@ There was confusion around the term ‘equivalent’, as it was used within both
 
 We learnt that providers handle GCSE equivalency tests differently. Some providers run them in-house, others only accept tests from specific third-party companies. This meant that we could not use terms like ‘offered’ or ‘accepted’. Instead the language refers to considering candidates who need to take a GCSE equivalency test, with the free text paragraph after giving details.
 
-*[GCSE]: General Certificate of Secondary Education
+*[GCSE]: General certificate of secondary education

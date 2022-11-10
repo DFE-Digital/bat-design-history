@@ -46,4 +46,4 @@ We moved the guidance, “Manage all your locations to add to or edit this list.
 
 ![Select the locations for this course page](courses--select-location.png "Select the locations for this course page")
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

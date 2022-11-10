@@ -76,5 +76,5 @@ Concern over the approval process was also expressed.
 - On what grounds is approval determined?
 - How long does it take?
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

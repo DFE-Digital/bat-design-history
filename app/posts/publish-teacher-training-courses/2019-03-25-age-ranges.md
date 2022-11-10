@@ -26,4 +26,4 @@ Provide a list of the most common age ranges as published on [ITT criteria and s
 
 We can’t easily map existing UCAS data to age range. We should ask for it again for all courses.
 
-*[ITT]: Initial Teacher Training
+*[ITT]: Initial teacher training

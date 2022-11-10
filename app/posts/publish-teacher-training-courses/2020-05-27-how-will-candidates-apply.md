@@ -38,4 +38,4 @@ When support deals with a request from a provider to be omitted from UCAS we mus
 - collect and store bespoke text from the provider on how to apply (probably hardcoded while cases are very small), which must include an onward link
 - show this text on the page that shows after clicking the “Apply for this course” button
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

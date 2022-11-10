@@ -61,6 +61,6 @@ They follow the [original new course wizard workflow](https://docs.google.com/dr
 
 [Show and Tell presentation](https://docs.google.com/presentation/d/12U_mRFKxSpDDA6_FX1D9j1CHZgRCcIH_boK7zo4S6AE/edit#slide=id.g50b74472f0_12_27)
 
-*[MVP]: Minimum Viable Product
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[MVP]: Minimum viable product
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

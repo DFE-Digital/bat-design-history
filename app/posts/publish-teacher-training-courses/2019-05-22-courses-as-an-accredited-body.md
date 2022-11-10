@@ -57,4 +57,4 @@ The practice recommended by UCAS of discontinuing a course and creating a new on
 [A discussion about alerts](https://lookback.io/watch/SnRd92det9Eeehb3w?t=14m40s)
 
 *[CSV]: Comma Separated Values
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

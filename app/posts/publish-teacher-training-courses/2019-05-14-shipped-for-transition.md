@@ -50,4 +50,4 @@ The biggest support requests have been for:
 
 Some providers have been using the add course form to try and edit existing courses.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

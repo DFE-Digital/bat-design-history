@@ -42,4 +42,4 @@ In round 1 we hoped to better understand the reporting needs of accredited bodie
 [Lookback highlight](https://docs.google.com/presentation/d/1yaNemUJLl8SlZoZKNOHs17xT4sywn5MKYzSHNsu1LGY/edit#slide=id.g62413edba2_0_545)
 
 *[CSV]: Comma Separated Values
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

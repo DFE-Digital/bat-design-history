@@ -57,4 +57,4 @@ If the course is marked as a special educational needs one, it’s appended to t
 
 ![New course workflow](/publish-teacher-training-courses/new-course/workflow.png)
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

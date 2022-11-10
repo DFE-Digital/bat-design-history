@@ -10,4 +10,4 @@ We send our own welcome email so that users have an easy way back to our service
 
 ![Screenshot of welcome email.](01-welcome-email.png "Welcome email")
 
-*[URL]: Universal Resource Locator
+*[URL]: Universal resource locator

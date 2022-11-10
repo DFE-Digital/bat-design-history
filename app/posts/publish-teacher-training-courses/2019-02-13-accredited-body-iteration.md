@@ -18,5 +18,5 @@ Update the design so that:
 - there’s a default list of accredited bodies they’ve worked with before – minimising the chance of choosing the wrong organisation
 - a new accredited provider can be used, if explicitly chosen
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

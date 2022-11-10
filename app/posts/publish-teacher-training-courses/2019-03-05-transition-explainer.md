@@ -15,4 +15,4 @@ We’re doing this with a page they’ll see when they first log in, much like t
 
 ![Screenshot of page transitioned organisations see when they first log in.](when-an-organisation-is-transitioned.png "A page transitioned organisations will see when they first log in")
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

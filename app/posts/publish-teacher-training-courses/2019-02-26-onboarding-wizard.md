@@ -62,4 +62,4 @@ The following designs are an initial first draft.
 
 It’s not clear whether we will have time to build an onboarding wizard, as MVP it may be appropriate to do much of this through support or support templates.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

@@ -134,5 +134,5 @@ In research we also tested:
 - removing the sort by control
 - giving the page a more specific title related to the user’s search
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

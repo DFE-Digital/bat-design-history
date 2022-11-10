@@ -128,7 +128,7 @@ As a potential teacher with accessibility needs, I need to contact the ‘access
 
 As a provider I need to communicate exactly how and to what extent we are provisioned for different accessibility needs, so that we attract potential teachers that we can cater for.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
-*[UCAS]: Universities and Colleges Admissions Service
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

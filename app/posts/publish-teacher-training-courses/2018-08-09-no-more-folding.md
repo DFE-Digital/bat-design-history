@@ -75,7 +75,7 @@ Rather than 1 result linking to a page with all variants, instead group a provid
 
 We’re [tracking grouping on the story map](https://trello.com/c/jQftifYl/44-group-listings-to-make-results-easier-to-scan) and consider it outside of the minimum viable service.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
-*[UCAS]: Universities and Colleges Admissions Service
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

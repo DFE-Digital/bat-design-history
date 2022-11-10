@@ -45,6 +45,6 @@ We tested this with West London Teaching School Alliance:
 
 An iteration of this was tested with [Kingston School Direct](/publish-teacher-training-courses/kingston-school-direct)
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service

@@ -27,4 +27,4 @@ In the place where a feature should be there’s no action and no confirmation t
 
 In the design below we add a call to action where the feature would be – ‘Request change’ rather than ‘Change’. This would take users to a focused support page and automatically fill in some of the known context for them.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

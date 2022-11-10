@@ -41,4 +41,4 @@ In lieu of the “Apply on UCAS” link, users frequently clicked through to the
 
 One user was confused about how to apply, they’d contact the provider for more information.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

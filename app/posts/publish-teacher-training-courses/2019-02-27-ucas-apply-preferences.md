@@ -198,9 +198,9 @@ We indicate the difference in letters to new providers and ask for their choice.
 
 *[ASCII]: American Standard Code for Information Interchange
 *[HESA]: Higher Education Statistics Agency
-*[PDF]: Portable Document Format
-*[PDFs]: Portable Document Formats
-*[UCAS]: Universities and Colleges Admissions Service
-*[URL]: Universal Resource Locator
-*[URLs]: Universal Resource Locators
-*[UTT]: UCAS Teacher Training
+*[PDF]: Portable document format
+*[PDFs]: Portable document formats
+*[UCAS]: Universities and colleges admissions service
+*[URL]: Universal resource locator
+*[URLs]: Universal resource locators
+*[UTT]: UCAS teacher training

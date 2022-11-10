@@ -36,5 +36,5 @@ We also added an optional text field to allow providers to give further details 
 
 ![Screenshot of second iteration.](second-iteration.png "Second iteration")
 
-*[GCSE]: General Certificate of Secondary Education
-*[UCAS]: Universities and Colleges Admissions Service
+*[GCSE]: General certificate of secondary education
+*[UCAS]: Universities and colleges admissions service

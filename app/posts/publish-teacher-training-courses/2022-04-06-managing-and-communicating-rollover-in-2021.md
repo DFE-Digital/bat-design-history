@@ -306,7 +306,7 @@ As a team, we’re compiling a list of important information we feel users need 
 
 <!-- markdownlint-enable MD001 MD025 -->
 
-*[ITT]: Initial Teacher Training
+*[ITT]: Initial teacher training
 *[NASBTT]: National Association of School-Based Teacher Trainers
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service
 *[UCET]: Universities’ Council for the Education of Teachers

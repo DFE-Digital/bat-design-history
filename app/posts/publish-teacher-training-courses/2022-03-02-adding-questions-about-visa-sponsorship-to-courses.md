@@ -156,7 +156,7 @@ HEIs do not need to sponsor visas for courses their training providers offer.
 
 We may consider allowing HEIs to specify which of their training providers they will be willing to sponsor candidates’ visas.
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[HEI]: Higher Education Institute
-*[HEIs]: Higher Education Institutes
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[HEI]: Higher education institute
+*[HEIs]: Higher education institutes

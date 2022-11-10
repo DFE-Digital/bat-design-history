@@ -100,6 +100,6 @@ We will use our course definition to create the data models and user interface f
 
 This will inform iterations to our candidate course page.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[QTS]: Qualified Teacher Status
-*[UCAS]: Universities and Colleges Admissions Service
+*[PGCE]: Postgraduate certificate in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

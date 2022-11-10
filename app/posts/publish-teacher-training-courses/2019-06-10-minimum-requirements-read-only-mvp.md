@@ -15,4 +15,4 @@ Not showing the values of these settings to providers creates a risk – a provi
 
 To ship the read-only version of this feature earlier we updated the design. It will now show the UCAS codes (1, 2, 3 and 9) and the meanings of those codes.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

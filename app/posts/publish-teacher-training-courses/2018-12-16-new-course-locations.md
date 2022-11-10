@@ -19,4 +19,4 @@ UCAS models full time and part time on the training location. If a course is ful
 
 On the training locations list, if ‘full time or part time’ is chosen, then for each selected location we ask for more detail.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

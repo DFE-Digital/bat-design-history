@@ -113,4 +113,4 @@ Example course: [B60/X341](https://find-postgraduate-teacher-training.education.
 
 This option accepts all applicants, even if they have grades below a C.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

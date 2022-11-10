@@ -109,6 +109,6 @@ We considered some changes which we did not implement.
 - Putting each filter section into an expandable region but hiding the content. This was not implemented as it would mean the user has to work harder to reveal the content.
 - Highlighting the search term in the courses that match. This was not implemented as the search isn’t general and only across providers. A single provider’s courses are shown in the list when a search is complete.
 
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status

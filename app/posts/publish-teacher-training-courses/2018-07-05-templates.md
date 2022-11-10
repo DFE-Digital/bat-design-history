@@ -167,7 +167,7 @@ There’s some concept of a template in the tool provided by UCAS. Users can sel
 
 [UCAS documentation for ‘Entry profiles’](https://www.ucas.com/file/115116/download?token=Du-edwFy
 
-*[PGCE]: Postgraduate Certificate in Education
-*[PGDE]: Postgraduate Diploma in Education
-*[QTS]: Qualified Teacher Status
-*[UCAS]: Universities and Colleges Admissions Service
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

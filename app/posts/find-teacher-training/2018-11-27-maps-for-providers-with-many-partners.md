@@ -78,5 +78,5 @@ Breaking down schools by subject, if possible, can be misleading. For one provid
 
 > “Just doing it by subject is misleading” ([video](https://lookback.io/watch/j7XGfjfS8Bh4WrSzz?t=1h17m12.81s))
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

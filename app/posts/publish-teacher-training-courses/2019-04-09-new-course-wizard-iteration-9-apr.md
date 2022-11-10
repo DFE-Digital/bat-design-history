@@ -18,8 +18,8 @@ Bring the wizard in line with changes made to the Google Form:
 - remove mention of ‘publishing’ from application open screen
 - ask about apprenticeships for Universities and SCITTs
 
-*[GCSE]: General Certificate of Secondary Education
+*[GCSE]: General certificate of secondary education
 *[GCSEs]: General Certificate of Secondary Education
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service

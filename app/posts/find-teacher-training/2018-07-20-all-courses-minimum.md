@@ -103,4 +103,4 @@ Aiming to test:
 
 We [iterated this design](/find-teacher-training/mvp-iteration-jul-25) during research.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

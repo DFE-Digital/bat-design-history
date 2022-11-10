@@ -15,4 +15,4 @@ This design represents a baseline we could build first. We’d then iterate towa
 
 We’d also avoid having to categorise existing locations into types, though doing this at rollover might be the only appropriate time.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

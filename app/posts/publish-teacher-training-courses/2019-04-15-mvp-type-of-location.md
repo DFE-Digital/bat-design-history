@@ -16,4 +16,4 @@ A [more complete workflow was previously designed and tested](/publish-teacher-t
 
 ![Type of location.](type-of-location.png "Type of location")
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

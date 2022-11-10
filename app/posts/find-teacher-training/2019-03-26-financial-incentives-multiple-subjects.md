@@ -70,4 +70,4 @@ As a short term solution, the team updated the financial incentives information 
 
 This problem has now been resolved for the 17 courses identified.
 
-*[UCAS]: Universities and Colleges Admissions Service
+*[UCAS]: Universities and colleges admissions service

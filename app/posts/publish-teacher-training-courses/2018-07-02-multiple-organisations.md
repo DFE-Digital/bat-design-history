@@ -74,6 +74,6 @@ Original story: [BATSA-401](https://dfedigital.atlassian.net/browse/BATSA-401)
 
 When running the prototype, set \`multi-organisation\` to true in [prototype\_data.json](https://github.com/DFE-Digital/publish-teacher-training-prototype/blob/main/app/data/prototype-data.json#L4)
 
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service

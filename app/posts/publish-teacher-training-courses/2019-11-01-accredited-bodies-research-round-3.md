@@ -100,10 +100,10 @@ Access and permissions were also mentioned.
 
 > We’d like tutors to be able to see (but not be able to edit) this information.
 
-*[HEI]: Higher Education Institute
-*[HEIs]: Higher Education Institutes
-*[SCITT]: School Centred Initial Teacher Training
-*[SCITTs]: School Centred Initial Teacher Training
-*[UCAS]: Universities and Colleges Admissions Service
+*[HEI]: Higher education institute
+*[HEIs]: Higher education institutes
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service
 *[XML]: Extensible Markup Language
-*[ODBC]: Open Database Connectivity
+*[ODBC]: Open database connectivity

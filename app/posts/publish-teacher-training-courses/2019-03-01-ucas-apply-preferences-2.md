@@ -44,6 +44,6 @@ Bring the alert preference and the email the alerts are sent to together. When a
 
 For this to propagate to UCAS it needs to be sent through as the email for the UTT Output correspondent in the API.
 
-*[API]: Application Programming Interface
-*[UCAS]: Universities and Colleges Admissions Service
-*[UTT]: UCAS Teacher Training
+*[API]: Application programming interface
+*[UCAS]: Universities and colleges admissions service
+*[UTT]: UCAS teacher training
