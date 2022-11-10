@@ -107,7 +107,7 @@ We considered some changes which we did not implement.
 - Reordering the subject list to show all checked subjects in alphabetical order at the top of the list of subjects, followed by an alphabetical list of unchecked subjects. This was not implemented as it is known to increase error rates and misinterpretations.
 - Providing a ‘selected’ count below the filter’s heading similar to that found in the GOV.UK finder frontend component called [option select](https://govuk-finder-frontend.herokuapp.com/component-guide/option-select). This was not implemented in this iteration as we could not establish a need for it.
 - Putting each filter section into an expandable region but hiding the content. This was not implemented as it would mean the user has to work harder to reveal the content.
-- Highlighting the search term in the courses that match. This was not implemented as the search isn’t general and only across providers. A single provider’s courses are shown in the list when a search is complete.
+- Highlighting the search term in the courses that match. This was not implemented as the search is not general and only across providers. A single provider’s courses are shown in the list when a search is complete.
 
 *[PGCE]: Postgraduate certificate in education
 *[PGDE]: Postgraduate diploma in education

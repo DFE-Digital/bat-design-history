@@ -10,7 +10,7 @@ screenshots:
 ---
 
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
-{{ govukWarningText({ text: "We didn’t build this design. Instead we used an MVP ‘you can find copy here’ – ie a signpost where people were looking for the feature.", iconFallbackText: "Warning" }) }}
+{{ govukWarningText({ text: "We did not build this design. Instead we used an MVP ‘you can find copy here’ – ie a signpost where people were looking for the feature.", iconFallbackText: "Warning" }) }}
 
 An iteration on where the copy content feature sits.
 

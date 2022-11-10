@@ -10,7 +10,7 @@ screenshots:
       src: course-details--success-message.png
 ---
 
-Some wording on the buttons and success messages in the service was inconsistent and didn’t match the interaction.
+Some wording on the buttons and success messages in the service was inconsistent and did not match the interaction.
 
 The service includes a status called ‘Published *with unpublished changes’, which is triggered when a user makes a change to:
 

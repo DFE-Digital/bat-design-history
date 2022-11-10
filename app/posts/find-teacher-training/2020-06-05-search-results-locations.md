@@ -106,7 +106,7 @@ With these options for the placement school text:
 
 Explaining placement schools:
 
-> You can’t pick which schools you want to be in, but your university will try to place you in schools you can commute to.
+> You cannot pick which schools you want to be in, but your university will try to place you in schools you can commute to.
 >
 > Universities usually work with over 100 potential placement schools. Most will be within 10 miles of the university, but sometimes they can cover a wider area, especially outside of cities.
 >

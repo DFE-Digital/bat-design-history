@@ -36,7 +36,7 @@ We tested this design alongside the [original map](/find-teacher-training/map-or
 
 There is a general positive response on seeing the map. We need to consider using these results as the default, if we can fix the issues found.
 
-[“Straight away I received information that I didn’t know about, which is brilliant”](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=32m5.36s)
+[“Straight away I received information that I did not know about, which is brilliant”](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=32m5.36s)
 
 ### Users prefer the larger map
 
@@ -46,11 +46,11 @@ People could see the name of streets and places they recognised immediately. Peo
 
 On toggling the full screen mode of a smaller map when prompted: [“\[The bigger map\] makes life easier”](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=33m26.05s)
 
-### The black dots aren’t seen or used
+### The black dots are not seen or used
 
 We knew that we hadn’t explained the difference between the black dot (training locations) and the markers (administrative or main site addresses), and we expected users to not understand the difference, but we wanted to explore how they reacted to them.
 
-We found that most users didn’t engage with them:
+We found that most users did not engage with them:
 
 [“I just thought it was a feature of the map”](https://lookback.io/watch/6fpoe9h3RPnvRxAti?t=28m39.88s)
 
@@ -58,15 +58,15 @@ Users cannot deduce what a training location is, as it is based on provider para
 
 ### It’s too easy to misinterpret location
 
-The location markers strongly suggest that this is the location of training, at best that this is the main location, at worst that this is the only location. Where the location is an administrative one, we can’t be sure that any training takes place there.
+The location markers strongly suggest that this is the location of training, at best that this is the main location, at worst that this is the only location. Where the location is an administrative one, we cannot be sure that any training takes place there.
 
 [“The pins are where the courses are”](https://lookback.io/watch/6fpoe9h3RPnvRxAti?t=30m7.54s)
 
 ### The radius circles helped
 
-Users responded well to the radius circles – they understood their meaning and it helpers them to gauge distance more easily. The label in this design wasn’t always clear – a white background was added in the [next design](/find-teacher-training/map-2).
+Users responded well to the radius circles – they understood their meaning and it helpers them to gauge distance more easily. The label in this design was not always clear – a white background was added in the [next design](/find-teacher-training/map-2).
 
-Without the circles there’s a fair assumption that all points shown are within the radius searched ([video](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=27m43.27s)), which [isn’t always the case](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=30m27.11s). [Another example](https://lookback.io/watch/u9cZaEQQRZGDofaKP?t=53m34s).
+Without the circles there’s a fair assumption that all points shown are within the radius searched ([video](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=27m43.27s)), which [is not always the case](https://lookback.io/watch/GiTRz4TGGFdkWrQAy?t=30m27.11s). [Another example](https://lookback.io/watch/u9cZaEQQRZGDofaKP?t=53m34s).
 
 Without the red indicator it’s not always clear what location was searched for. The red marker and the circles work well together.
 
@@ -86,8 +86,8 @@ In the follow-up design these filters were collapsed (like on mobile) and the re
 
 ### Clustering
 
-In the original design we tried clustering results: when zoomed out many results get grouped into one map pointer with a number. The colour of the pointer changes as the value gets larger. Users didn’t understand the [default Google Maps clustering pattern](https://developers.google.com/maps/documentation/javascript/marker-clustering).
+In the original design we tried clustering results: when zoomed out many results get grouped into one map pointer with a number. The colour of the pointer changes as the value gets larger. Users did not understand the [default Google Maps clustering pattern](https://developers.google.com/maps/documentation/javascript/marker-clustering).
 
 It was quickly removed.
 
-Example of a user struggling with clustering: [“It didn’t mean a lot to me, I saw the 3 and thought it meant within 3 miles of \[city\]… what is that, the 2 and the 3?”](https://lookback.io/watch/u9cZaEQQRZGDofaKP?t=57m9.02s).
+Example of a user struggling with clustering: [“It did not mean a lot to me, I saw the 3 and thought it meant within 3 miles of \[city\]… what is that, the 2 and the 3?”](https://lookback.io/watch/u9cZaEQQRZGDofaKP?t=57m9.02s).

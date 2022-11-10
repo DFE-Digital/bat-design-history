@@ -88,7 +88,7 @@ We’ve tried to use existing location data on Find, but it has proven problemat
 
 - [boosting HEI courses](/find-teacher-training/search-results-locations/) in search results unfairly favoured one type of provider
 
-- [travel areas](/find-teacher-training/searching-by-location/#a-new-approach) didn’t align with providers’ understanding of where they offer placements
+- [travel areas](/find-teacher-training/searching-by-location/#a-new-approach) did not align with providers’ understanding of where they offer placements
 
 - [showing contextual guidance](/find-teacher-training/searching-by-location/#improving-guidance) explaining how school placements work did not reflect individual provider working methods
 

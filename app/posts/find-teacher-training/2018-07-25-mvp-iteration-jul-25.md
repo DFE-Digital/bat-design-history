@@ -14,7 +14,7 @@ screenshots:
 
         Participant 2 questioned the modern languages group, “[it’s not clear if modern languages is primary or secondary or both](https://lookback.io/watch/QCBC3KYjNxtEuQH5R?t=15m21s)”
 
-        As expected, some of the subject names weren’t clear. For example: “[I’m not sure what Social science means](https://lookback.io/watch/QCBC3KYjNxtEuQH5R?t=16m22s)”
+        As expected, some of the subject names were not clear. For example: “[I’m not sure what Social science means](https://lookback.io/watch/QCBC3KYjNxtEuQH5R?t=16m22s)”
     - text: Find by subject expanded
     - text: Teacher training courses
     - text: Minimum course page

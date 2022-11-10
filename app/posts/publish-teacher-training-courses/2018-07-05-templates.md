@@ -103,7 +103,7 @@ We’ve observed in user research that without the ability to share information 
 
 To test templates we ran unmoderated remote research sessions with 4 training providers, and we visited 3 further providers.
 
-We attempted many more remote sessions but some users didn’t complete the exercise and others couldn’t record the session because of network firewalls or IT restrictions.
+We attempted many more remote sessions but some users did not complete the exercise and others couldn’t record the session because of network firewalls or IT restrictions.
 
 More about our research in confluence: [Confluence](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/440074245/Testing+templates+and+multiple+orgs)
 
@@ -155,7 +155,7 @@ Because a template includes all course fields it might be inappropriate to use t
 
 ### Results
 
-We saw one user incorrectly apply a template, meaning a course showed the wrong fees. This may have been a symptom of the research as they didn’t spend too long checking their course information during the session.
+We saw one user incorrectly apply a template, meaning a course showed the wrong fees. This may have been a symptom of the research as they did not spend too long checking their course information during the session.
 
 Follow-up ticket to look at template validation, warnings and QA: [BATSA-452](https://dfedigital.atlassian.net/browse/BATSA-452)
 

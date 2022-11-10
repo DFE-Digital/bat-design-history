@@ -26,7 +26,7 @@ Opening these sections revealed a set of checkboxes for individual subjects.
 
 Whilst users were generally able to select the subjects they were interested in, the design had some issues:
 
-- Users can’t see the subjects until they interact with the page, which slows things down and can be confusing
+- Users cannot see the subjects until they interact with the page, which slows things down and can be confusing
 - The page heading only mentions subjects, but ‘Primary’ and ‘Further education’ are not really subjects
 - ‘Modern languages’ and ‘Further education’ can be unfamiliar terms
 - The ‘Show only courses with a SEND specialism’ checkbox works in a different way from all the other checkboxes

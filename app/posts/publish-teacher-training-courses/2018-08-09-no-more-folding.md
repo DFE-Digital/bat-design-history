@@ -45,7 +45,7 @@ The commonality we’d seen in the UCAS data was an illusion. By using UCAS cour
 
 #### When we unfolded
 
-When we tested a design for templates it was easier to [apply a template to a variant than a folded course](/publish-teacher-training-courses/templates#courses). In research we found that any ambiguity or concern regarding which course was which and which content to put into which field was gone – these topics didn’t arise. The unfolded courses tested well with users because it’s what they expected, it followed the same pattern as UCAS.
+When we tested a design for templates it was easier to [apply a template to a variant than a folded course](/publish-teacher-training-courses/templates#courses). In research we found that any ambiguity or concern regarding which course was which and which content to put into which field was gone – these topics did not arise. The unfolded courses tested well with users because it’s what they expected, it followed the same pattern as UCAS.
 
 We also presented an unfolded design to users for [checking their UCAS data](/publish-teacher-training-courses/check-ucas-data#courses) had imported correctly, this too was a natural fit.
 
@@ -55,7 +55,7 @@ The picture was better when we tested with applicants.
 
 On the [search results page](/find-teacher-training/course-options-user-research-june-8#search-results-with-variants) users largely understood that multiple courses were being represented. Here the benefit of course folding was seen more clearly; users could more easily scan past a single training provider without needing to read each variant of their course – in this sense the results were fairer.
 
-We saw that applicants didn’t understand that some fields only applied to some variants – we expected the [iterated course detail page](/publish-teacher-training-courses/iteration-june-26#preview) to largely fix this, but we didn’t test this version with applicants.
+We saw that applicants did not understand that some fields only applied to some variants – we expected the [iterated course detail page](/publish-teacher-training-courses/iteration-june-26#preview) to largely fix this, but we did not test this version with applicants.
 
 ## do not fold courses
 

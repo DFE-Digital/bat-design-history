@@ -30,7 +30,7 @@ In this design we tweaked the styles of the navigation from tabs to a bar. We ho
 
 ### Results
 
-This design tweak didn’t change user behaviour. A [more substantial redesign](/publish-teacher-training-courses/iteration-aug-23) is needed to bring ‘About the organisation’ into the user journey.
+This design tweak did not change user behaviour. A [more substantial redesign](/publish-teacher-training-courses/iteration-aug-23) is needed to bring ‘About the organisation’ into the user journey.
 
 ## Statuses
 
@@ -46,7 +46,7 @@ Users recognised the ‘running/not running’ text used by UCAS. They understoo
 
 [“Because it’s not running, it will not let me edit it … I’d change it to running and then assume the editing bars would pop up”](https://lookback.io/watch/acQugHJ6r7QFpvkMQ?t=1h55m0.26s)
 
-One user didn’t realise they needed to publish courses themselves. They believed draft meant it was ready for some sort of sign-off from DfE. We’d previously tested a QA process with this user. [“My guess is that someone else needs to sign it off”](https://lookback.io/watch/QfEkvbkjW6uCJaLYJ?t=47m6s).
+One user did not realise they needed to publish courses themselves. They believed draft meant it was ready for some sort of sign-off from DfE. We’d previously tested a QA process with this user. [“My guess is that someone else needs to sign it off”](https://lookback.io/watch/QfEkvbkjW6uCJaLYJ?t=47m6s).
 
 ## Courses are already published
 

@@ -40,7 +40,7 @@ School direct providers are known by two names:
 
 On Find (and UCAS Apply) we prefer the alliance name. This minimises candidate confusion. If the lead school name was used candidates might expect to train at that school. The type of that lead school can also be confusing – consider a primary lead school offering secondary courses via a partner. By using the alliance name we avoid organisation name changes when the lead school changes.
 
-On the Courses as an accredited body page we use the marketing name. One provider didn’t recognise the alliance names – they only know the lead schools. The design should be iterated to show both, this should also help users to improve their knowledge of which lead school belongs to which alliance.
+On the Courses as an accredited body page we use the marketing name. One provider did not recognise the alliance names – they only know the lead schools. The design should be iterated to show both, this should also help users to improve their knowledge of which lead school belongs to which alliance.
 
 ### Current workarounds
 

@@ -43,7 +43,7 @@ We identified PGDE courses by looking for any enriched course that used any of t
 
 ## Further education (FE)
 
-There are no qualifications required to teach further education. This means further education courses don’t offer QTS. To say ‘with QTS’ would be wrong.
+There are no qualifications required to teach further education. This means further education courses do not offer QTS. To say ‘with QTS’ would be wrong.
 
 For any further education course (eg where the further education subject is used) we omit the ‘with QTS’ in the course offered description.
 
@@ -55,7 +55,7 @@ There’s [29 further education courses](https://find-postgraduate-teacher-train
 
 ### QTLS (Qualified teaching learning and skills)
 
-We investigated Qualified teaching learning and skills (QTLS). This used to be required to teach FE but is no longer needed. On completion of an FE course students can still apply for QTLS through the [Society for Education and Training](https://set.et-foundation.co.uk/professionalism/qtls/), and depending on the subject, [QTLS is considered equivalent to QTS](https://www.gov.uk/guidance/qualified-teacher-status-qts#qualified-teacher-learning-and-skills-qtls). We learnt that this can be years after completing the course and that courses don’t directly award QTLS, it’s different to the QTS process.
+We investigated Qualified teaching learning and skills (QTLS). This used to be required to teach FE but is no longer needed. On completion of an FE course students can still apply for QTLS through the [Society for Education and Training](https://set.et-foundation.co.uk/professionalism/qtls/), and depending on the subject, [QTLS is considered equivalent to QTS](https://www.gov.uk/guidance/qualified-teacher-status-qts#qualified-teacher-learning-and-skills-qtls). We learnt that this can be years after completing the course and that courses do not directly award QTLS, it’s different to the QTS process.
 
 We chose to ignore QTLS. Providers who want to talk about it can use the course fields.
 

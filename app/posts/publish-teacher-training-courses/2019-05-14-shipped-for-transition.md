@@ -27,7 +27,7 @@ Based on our [transition MVP designs](/publish-teacher-training-courses/first-tr
 - a course page with tabs
 - a basic details course tab
 
-We didn’t ship pages for:
+We did not ship pages for:
 
 - deleting a course
 - withdrawing a course

@@ -46,7 +46,7 @@ Whilst the outcome remains that an NQT with QTS will be able to teach in mainstr
 When asked whether they felt they were allowed to describe their course as SEND, these were some of their responses:
 
 - "We describe it as having an SEND focus, students will be qualified for both Special Schools and Mainstream schools at the end."
-- "Yes, I feel we’re able to describe our course as having a SEND focus but we are aware that it is very important to make it explicit that, on successful completion of the training, candidates will become qualified as primary school teachers and that there isn’t currently a route to become qualified specifically as a special needs teacher."
+- "Yes, I feel we’re able to describe our course as having a SEND focus but we are aware that it is very important to make it explicit that, on successful completion of the training, candidates will become qualified as primary school teachers and that there is not currently a route to become qualified specifically as a special needs teacher."
 - "This is core PGCE with a SEND specialism and is not a SEND ITT course"
 
 From the above, it is clear that training providers and lead schools offer SEND specialist courses. They are, however, aware that these courses do not result in any different outcome to mainstream ITT.

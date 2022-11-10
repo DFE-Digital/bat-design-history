@@ -11,7 +11,7 @@ screenshots:
 
         As expected, location continues to be the number 1 need for users and the first choice was selected.
 
-        “I can’t travel far with kids at the moment”
+        “I cannot travel far with kids at the moment”
 
         “Wanted to do Physics with Maths, but closest was Sheffield, which was too far to travel”
     - text: Teacher training courses
@@ -32,15 +32,15 @@ screenshots:
 
         ### Results
 
-        Users [seemed to understand](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=41m39s) that they were only seeing courses with vacancies, and that they could use the filter to view courses that were full. (When a result didn’t show – “probably because there are no vacancies”)
+        Users [seemed to understand](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=41m39s) that they were only seeing courses with vacancies, and that they could use the filter to view courses that were full. (When a result did not show – “probably because there are no vacancies”)
 
         * * *
 
-        The ‘sort by’ dropdown caused some confusion. It isn’t clear how sorting by training provider would be useful. This was [removed in the next iteration](/find-teacher-training/mvp-iteration-jul-25#teacher-training-courses). The ordering of results by distance seemed implicit enough to remove the “sorted by distance” label too. We’ll see how this tests.
+        The ‘sort by’ dropdown caused some confusion. It is not clear how sorting by training provider would be useful. This was [removed in the next iteration](/find-teacher-training/mvp-iteration-jul-25#teacher-training-courses). The ordering of results by distance seemed implicit enough to remove the “sorted by distance” label too. We’ll see how this tests.
 
         * * *
 
-        Participant 1 didn’t know if courses were salaried or not, “[None of them tell you if they are salaried or not – I assume it’s not salaried](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=31m31s)” (no salaried courses were shown, they were looking for unsalaried courses because they had a bursary).
+        Participant 1 did not know if courses were salaried or not, “[None of them tell you if they are salaried or not – I assume it’s not salaried](https://lookback.io/watch/m3ue4g3QBwbt7pq9G?t=31m31s)” (no salaried courses were shown, they were looking for unsalaried courses because they had a bursary).
     - text: Change subject
       caption: |
         UCAS doesn’t have subjects for “Primary general”, “Primary mathematics” or “Primary physical education”.

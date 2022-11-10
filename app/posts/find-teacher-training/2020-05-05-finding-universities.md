@@ -50,7 +50,7 @@ Problems included:
 - too long a list to maintain
 - some schools are hard to find (eg which St Mary’s)
 - not all schools offer all subjects (ie sometimes the data will be inaccurate)
-- universities don’t want candidates to see the list of schools (candidates can’t choose which school to go to, they will be placed by the university)
+- universities do not want candidates to see the list of schools (candidates cannot choose which school to go to, they will be placed by the university)
 - we couldn’t show these points on a map
 
 ### 2. Use school data to define an area
@@ -85,7 +85,7 @@ We have an initial prototype for this, screenshots shown below.
 
 ### 4. Make some assumptions about universities
 
-All of these approaches depend on every provider giving us decent data. They're good longterm solutions but they won’t improve search results immediately, and as data is collected the benefits may only be seen by some.
+All of these approaches depend on every provider giving us decent data. They're good longterm solutions but they will not improve search results immediately, and as data is collected the benefits may only be seen by some.
 
 Alternatively, we could assume that each university works with many schools near to its campus. Rather than representing that campus as a single point, we might extend the point by something like 5 miles, creating an estimated area for that university.
 

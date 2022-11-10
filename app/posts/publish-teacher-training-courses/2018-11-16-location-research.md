@@ -34,9 +34,9 @@ These changes were not intended as final designs to be shipped in the product, b
 
 ### Maps
 
-Provider Codes: All preferred provider name than the code in the map. Hertfordshire knew what the code meant, but didn’t think it would make sense to candidates and UCL didn’t even know what they were.
+Provider Codes: All preferred provider name than the code in the map. Hertfordshire knew what the code meant, but did not think it would make sense to candidates and UCL did not even know what they were.
 
-Mini map: Users found there was not a very clear "call to action" to expand the mini map. It didn’t indicate that it will show any more information than you already see, which is why many users did not click on these.
+Mini map: Users found there was not a very clear "call to action" to expand the mini map. It did not indicate that it will show any more information than you already see, which is why many users did not click on these.
 
 Large map: There were lots of insights around the map, and how we could represent the data. From the SD places (Alex at WLTSA) there was good feedback on the locations, zoom level, transport links, white labels and usability in general.
 
@@ -62,7 +62,7 @@ Course listings - salary, name: From Alex, it came out that the mismatch of lang
 
 ### Manage courses prototype
 
-Changing location: Several providers wanted to change the name of their location or change the actual location itself. They would expect to be able to do this within the ‘locations’ part of our manage prototype. They all stated they wanted the location of the specific ‘education’ faculty and to add in the specific postcodes to make the location geo-coded better. They didn’t seem to know how to do this in WebLink.
+Changing location: Several providers wanted to change the name of their location or change the actual location itself. They would expect to be able to do this within the ‘locations’ part of our manage prototype. They all stated they wanted the location of the specific ‘education’ faculty and to add in the specific postcodes to make the location geo-coded better. They did not seem to know how to do this in WebLink.
 
 URN: 2/3 people knew what this meant. None of them knew the URN of their schools, with Alex (WLTSA) stating it would be difficult and time consuming to find all that information for every single school. Universities do not have a URN, so this would not be able to be added - Hertfordshire University. This URN number needs to be explained as to why we need it: it provides much more data about the specific school e.g. location, Ofsted, type of school etc.
 

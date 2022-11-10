@@ -8,9 +8,9 @@ screenshots:
       caption: |
         A sketch illustrating how a map of UCL’s 500 partner schools might be displayed. Not based on real data.
 
-        The distribution of schools in the area isn’t clear.
+        The distribution of schools in the area is not clear.
 
-        Because we don’t include points for schools, show a total in the area.
+        Because we do not include points for schools, show a total in the area.
 
         The bounded region can be interpreted optimistically, hypothetically: ‘I’m within that area, so I can be placed in a school close to me’. It can also be viewed pessimistically, ‘I could be put in a school the other side of London, that would be a horrible commute.’
 
@@ -49,7 +49,7 @@ screenshots:
         In Publish there might need to be a ‘Show/hide partner schools’ option. An obfuscate option.
 ---
 
-From research with providers we found that for courses offered by large SCITTs and universities we didn’t have enough data to accurately tell candidates the full story around location. This also applies to growing school direct alliances (for example [Trinity TSA](https://find-postgraduate-teacher-training.education.gov.uk/course/1YF/2QL9)).
+From research with providers we found that for courses offered by large SCITTs and universities we did not have enough data to accurately tell candidates the full story around location. This also applies to growing school direct alliances (for example [Trinity TSA](https://find-postgraduate-teacher-training.education.gov.uk/course/1YF/2QL9)).
 
 When we tested with these providers they compared their courses with those of a School Direct. A School Direct course usually has many training locations, leading to many points on a map for each course. These extra locations put School Direct courses closer to more users. In comparison, a university usually has one location – it’s main campus, and a large SCITT will use a set of locations that represent many more schools.
 
@@ -69,12 +69,12 @@ There are constraints around how we show partner schools:
 
 - not all schools for next year are known
 - this year’s schools give the best illustration but must be caveated
-- these schools can’t be broken down by subject, only by phase
-- providers don’t want to give the impression that people can apply to specific schools
+- these schools cannot be broken down by subject, only by phase
+- providers do not want to give the impression that people can apply to specific schools
 
 > “We have to be careful that someone doesn’t apply to us because they want to work at a specific school … they can only apply to \[us\]” ([video](https://lookback.io/watch/j7XGfjfS8Bh4WrSzz?t=48m2.26s))
 
-Breaking down schools by subject, if possible, can be misleading. For one provider they had 2 biology locations which just happened to be in Walthamstow, someone seeing that and looking from elsewhere might think that’s the only place they could be, which isn’t right.
+Breaking down schools by subject, if possible, can be misleading. For one provider they had 2 biology locations which just happened to be in Walthamstow, someone seeing that and looking from elsewhere might think that’s the only place they could be, which is not right.
 
 > “Just doing it by subject is misleading” ([video](https://lookback.io/watch/j7XGfjfS8Bh4WrSzz?t=1h17m12.81s))
 

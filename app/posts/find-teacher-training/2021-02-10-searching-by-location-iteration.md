@@ -52,7 +52,7 @@ We’ve changed the location and subject filters:
 - For area, we’ve replaced the search box with a link to a page where candidates can change their location or choose a provider.
 - For subject, we now link to a page where candidates can select a different subject. This removes the scrollable list of subjects that previously appeared in the filter sidebar, which may have caused accessibility problems on mobile devices.
 
-In future we might want to look at updating searches automatically (so users don’t have to use the ‘Apply filters’ button). This does pose usability and accessibility questions so we’d need to be sure it would work before investing in it.
+In future we might want to look at updating searches automatically (so users do not have to use the ‘Apply filters’ button). This does pose usability and accessibility questions so we’d need to be sure it would work before investing in it.
 
 ### London boroughs moved into filter sidebar
 
@@ -111,9 +111,9 @@ Until we roll that out, we can combine aspects of this new design with elements 
 We’ve changed the standardised guidance boxouts:
 
 - They used to say “Advice from Get Into Teaching”
-- They now don’t say “Advice from Get Into Teaching”
+- They now do not say “Advice from Get Into Teaching”
 
-We changed this because research suggested candidates didn’t notice who the guidance was from. Also, sometimes guidance points to GOV.UK, and the GIT reference was in a small font that had accessibility issues.
+We changed this because research suggested candidates did not notice who the guidance was from. Also, sometimes guidance points to GOV.UK, and the GIT reference was in a small font that had accessibility issues.
 
 The boxouts colour bar has changed from GIT green to GOV.UK blue.
 

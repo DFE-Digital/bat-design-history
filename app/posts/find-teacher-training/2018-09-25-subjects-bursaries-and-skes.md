@@ -35,7 +35,7 @@ There were no problems with the accordion pattern.
 
 We [iterated the design](/find-teacher-training/live-launch#find-by-subject) to remove the SKE text at the top and shortened and simplified the financial support details. We added jumping off links to Get Into Teaching (GIT). SKE information was added to each of the subjects, where it is more likely to be noticed.
 
-## You can’t apply yet
+## You cannot apply yet
 
 In lieu of the “Apply on UCAS” link, users frequently clicked through to the Get Into Teaching guidance, which was deemed to be useful.
 

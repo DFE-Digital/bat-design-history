@@ -78,9 +78,9 @@ When asked about placement schools:
 - In general, a university’s placement policy will consider individuals’ needs like child care arrangement, disabilities, reasonable adjustments, subject focus, student confidence, urban vs rural preference when placing a candidate to a placement school
 - Universities work with hundreds of placement schools (except Oxford University which works with 39 placement schools) which change, to some small degree, every year
 - Some universities talked about placement schools placed in local authorities, counties and regions (South East region, for example) rather than 5/10/15 miles
-- There were fears that we would show placement schools to candidates, or that we wouldn’t convey that candidates can’t choose their placement schools
+- There were fears that we would show placement schools to candidates, or that we would not convey that candidates cannot choose their placement schools
 - Oxford University have a policy of residency - all candidates have to live within 25 miles from Carfax
-- Some universities talk to candidates about travel or commute time, rather than distance. “Candidates need to be able to travel for 45 minutes”, “We don’t talk about it by distance, we talk about it by travel time”
+- Some universities talk to candidates about travel or commute time, rather than distance. “Candidates need to be able to travel for 45 minutes”, “We do not talk about it by distance, we talk about it by travel time”
 
 When drawing an area on a map:
 

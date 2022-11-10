@@ -39,7 +39,7 @@ I need a clear, at a glance understanding of the structure of the course.
 
 **As a candidate wanting to apply for a course**
 I need to know if my qualifications are good enough
-So that I don’t waste a choice on a course I won’t be successful in.
+So that I do not waste a choice on a course I will not be successful in.
 
 > Use structured data to capture provider’s requirements for a course, for example:
 >
@@ -111,7 +111,7 @@ So that I can correctly interpret the course page.
 >
 > Ban other abbreviations.
 >
-> Add validations or warnings to commonly used terms or phrases that candidates don’t understand.
+> Add validations or warnings to commonly used terms or phrases that candidates do not understand.
 
 **As a candidate**
 I need to know what all these terms mean in plain English.
@@ -165,7 +165,7 @@ So that the description is well structured.
 
 **As a provider**
 I need provocation to change ‘bad content’
-So that I don’t just leave it how it is forever.
+So that I do not just leave it how it is forever.
 
 > Analyse content and incentivise (for example, nudges/banners based on what they have/haven’t completed).
 

@@ -101,6 +101,6 @@ We are in the process of reviewing the content on the start page for the service
 
 ### Subject page
 
-The subject page contains information about bursaries and scholarships, but we don’t link out to more information about student loans. This was to avoid too many links on the page. However, we may need to add a link to more information about other finance options if we find a need to do so.
+The subject page contains information about bursaries and scholarships, but we do not link out to more information about student loans. This was to avoid too many links on the page. However, we may need to add a link to more information about other finance options if we find a need to do so.
 
 The groupings for the eligible bursaries and scholarships are incorrect. For example, ‘Latin’ is currently on the list of non-eligible subjects. We need to correct this.

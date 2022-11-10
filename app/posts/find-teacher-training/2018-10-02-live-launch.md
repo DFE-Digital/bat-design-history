@@ -8,12 +8,12 @@ screenshots:
       caption: |
         [Go to GOV.UK start page](https://www.gov.uk/find-postgraduate-teacher-training-courses)
 
-        This is published as a guidance page using Whitehall, rather than a standard service page such as [Check your state pension age](https://www.gov.uk/state-pension-age). This was because the service wasn’t ‘mainstream’, while it also gave DfE greater control over the content.
+        This is published as a guidance page using Whitehall, rather than a standard service page such as [Check your state pension age](https://www.gov.uk/state-pension-age). This was because the service was not ‘mainstream’, while it also gave DfE greater control over the content.
 
         It introduces some problems, and we’re beginning the process of [switching to a standard start page](https://trello.com/c/QDFcFsSd/425-apply-for-a-mainstream-govuk-start-page). Namely:
 
         - the incorrect page template has misleading elements; page type, breadcrumbs, irrelevant related links, prominence on ‘Applies to England’ rather than ‘Start now’
-        - we can’t easily track journeys from GOV.UK to our service, we have no visbility of referrers to the start page
+        - we cannot easily track journeys from GOV.UK to our service, we have no visbility of referrers to the start page
         - the published date is irrelevant
 
         A standard start page would also give us:

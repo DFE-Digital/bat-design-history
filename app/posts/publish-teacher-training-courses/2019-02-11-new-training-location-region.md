@@ -29,7 +29,7 @@ Concerns we expect from providers that the design would need to address:
 
 ## User research
 
-- [Gateway Alliance](https://lookback.io/watch/XkCjbzaEZNPrEnNcp?t=32m54.07s) (didn’t test the design, but would use regions)
+- [Gateway Alliance](https://lookback.io/watch/XkCjbzaEZNPrEnNcp?t=32m54.07s) (did not test the design, but would use regions)
 - [University of Huddersfield](https://lookback.io/watch/pWYBvEpr8YfeF7pAx)
 - [The Royal Borough Teaching School Alliance](https://lookback.io/watch/iviAKDMGPxMK68voe)
 

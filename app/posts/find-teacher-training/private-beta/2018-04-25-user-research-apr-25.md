@@ -12,7 +12,7 @@ screenshots:
 
         Users had a better understanding of how to use this field.
 
-        The private beta data highlighted a new problem with this autocomplete: If we don’t have course data for the provider a user searches for, the user sees a confusing error. (In this case the provider was the well known ‘Goldsmiths’)
+        The private beta data highlighted a new problem with this autocomplete: If we do not have course data for the provider a user searches for, the user sees a confusing error. (In this case the provider was the well known ‘Goldsmiths’)
 
         By using school in the label we risk users searching for schools that are not ‘lead-schools’ – we haven’t seen this as a problem in research yet.
     - text: Financial support
@@ -59,7 +59,7 @@ screenshots:
 
         ### Result
 
-        Users saw and interacted with these links, but this didn’t prevent an initial misconception about the number of courses available to them. The design helps users find more courses but more work is needed to avoid this situation altogether.
+        Users saw and interacted with these links, but this did not prevent an initial misconception about the number of courses available to them. The design helps users find more courses but more work is needed to avoid this situation altogether.
     - text: Full course details
     - text: Study type filter
     - text: Qualifications filter

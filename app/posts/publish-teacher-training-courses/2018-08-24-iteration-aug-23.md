@@ -22,7 +22,7 @@ In this iteration we:
 
 ## Removing horizontal navigation
 
-The switch from tabs to horizontal navigation didn’t have the desired effect. This bar now sits strangely on the page and we considered moving it to the top – but that would further deprioritise the ‘About your organisation’ journey.
+The switch from tabs to horizontal navigation did not have the desired effect. This bar now sits strangely on the page and we considered moving it to the top – but that would further deprioritise the ‘About your organisation’ journey.
 
 Instead we chose to be explicit: Do this, then do this.
 
@@ -36,7 +36,7 @@ The draft status was switched from blue to orange. This colour better communicat
 
 ## Making ‘About your organisation’ like a course
 
-The [previous design had two calls to action](/publish-teacher-training-courses/user-research-aug-22#about-your-organisation) on one page. One for saving, another for publishing. With the publish button high up on the page there’s a risk users might use this rather than save, although we didn’t observe this in research.
+The [previous design had two calls to action](/publish-teacher-training-courses/user-research-aug-22#about-your-organisation) on one page. One for saving, another for publishing. With the publish button high up on the page there’s a risk users might use this rather than save, although we did not observe this in research.
 
 We also needed to show what information we’d imported from UCAS about this organisation (eg contact details). There was not an obvious place to put this.
 
