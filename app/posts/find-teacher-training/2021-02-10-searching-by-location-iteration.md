@@ -1,6 +1,6 @@
 ---
 title: Searching by location (iteration)
-description: Updates to the design of search results having conducted a design review.
+description: Updates to the design of search results having conducted a design review
 date: 2021-02-10
 ---
 

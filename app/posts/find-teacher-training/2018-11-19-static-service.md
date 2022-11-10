@@ -1,6 +1,6 @@
 ---
 title: Static failover service
-description: If we had to provide a site without any dynamic features, how would it look.
+description: If we had to provide a site without any dynamic features, how would it look
 date: 2018-11-19
 screenshots:
   items:

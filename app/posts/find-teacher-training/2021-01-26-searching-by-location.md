@@ -1,6 +1,6 @@
 ---
 title: Searching by location
-description: Considering a different way to model where providers offer school placements.
+description: Considering a different way to model where providers offer school placements
 date: 2021-01-26
 screenshots:
   items:

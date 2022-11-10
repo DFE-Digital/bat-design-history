@@ -1,6 +1,6 @@
 ---
 title: Performance report - May 2019
-description: After 4 months of transitioning providers from UCAS course management to DfE course management, this report focuses on the candidate facing tool and what sorts of behaviours have been coming out of our analytics.
+description: After 4 months of transitioning providers from UCAS course management to DfE course management, this report focuses on the candidate facing tool and what sorts of behaviours have been coming out of our analytics
 date: 2019-05-01
 ---
 

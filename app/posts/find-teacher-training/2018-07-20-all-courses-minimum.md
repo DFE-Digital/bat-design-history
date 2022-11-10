@@ -1,6 +1,6 @@
 ---
 title: Just the UCAS data
-description: What an absolute minimum viable service might look like.
+description: What an absolute minimum viable service might look like
 date: 2018-07-20
 screenshots:
   items:

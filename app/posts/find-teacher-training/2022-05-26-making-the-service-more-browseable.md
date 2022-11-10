@@ -1,6 +1,6 @@
 ---
 title: Making the service more browseable
-description: How we could use links instead of form-based questions.
+description: How we could use links instead of form-based questions
 date: 2022-05-26
 ogImage:
   src: /find-teacher-training/making-the-service-more-browseable/flow-update.png

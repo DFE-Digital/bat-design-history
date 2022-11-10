@@ -1,6 +1,6 @@
 ---
 title: Closing search for the end of cycle
-description: Now Apply is closed, disable search until the new cycle begins.
+description: Now Apply is closed, disable search until the new cycle begins
 date: 2019-09-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Folded courses research 8 June 2018
-description: Testing study options in search results and on the course information page.
+description: Testing study options in search results and on the course information page
 date: 2018-06-11
 screenshots:
   items:

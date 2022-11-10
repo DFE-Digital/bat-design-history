@@ -1,6 +1,6 @@
 ---
 title: Results on a map – Full screen iteration
-description: Second pass at showing courses on a full screen map.
+description: Second pass at showing courses on a full screen map
 date: 2018-10-18
 screenshots:
   items:

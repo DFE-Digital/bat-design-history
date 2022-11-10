@@ -1,6 +1,6 @@
 ---
 title: Performance report - March 2019
-description: We’re 6 months into this year’s recruitment cycle and, for the first time, the Department has data on how candidates are searching for courses.
+description: We’re 6 months into this year’s recruitment cycle and, for the first time, the Department has data on how candidates are searching for courses
 date: 2019-03-01
 ---
 

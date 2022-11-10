@@ -1,6 +1,6 @@
 ---
 title: Choose how to apply
-description: User journey into UCAS or new Apply service.
+description: User journey into UCAS or new Apply service
 date: 2019-02-15
 screenshots:
   items:

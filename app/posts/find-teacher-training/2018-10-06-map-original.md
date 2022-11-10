@@ -1,6 +1,6 @@
 ---
 title: Results on a map – Early design with tweaks
-description: Map based on code written during alpha/private-beta with some recent tweaks.
+description: Map based on code written during alpha/private-beta with some recent tweaks
 date: 2018-10-06
 screenshots:
   items:

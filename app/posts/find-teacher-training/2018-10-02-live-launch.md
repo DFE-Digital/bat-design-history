@@ -1,6 +1,6 @@
 ---
 title: What we launched – 2 October 2018
-description: Our live public beta launch.
+description: Our live public beta launch
 date: 2018-10-02
 screenshots:
   items:
