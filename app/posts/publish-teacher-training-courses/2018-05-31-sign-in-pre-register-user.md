@@ -17,7 +17,7 @@ screenshots:
     - text: User chooses password
     - text: User success and return
       caption: |
-        There is no link back to our service, instead the user returns to DFE Sign-in.
+        There is no link back to our service, instead the user returns to DfE Sign-in.
 
         Combining this with the lack of context in the email, there is a disjointed user journey which will see users either not sign up because they don’t know why, or they don’t know how to get to our service because there is no onward link.
     - text: User receives success email

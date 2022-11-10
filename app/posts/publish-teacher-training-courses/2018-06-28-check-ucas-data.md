@@ -10,7 +10,7 @@ screenshots:
       caption: A list of all the provider’s courses, separated by accrediting provider where appropriate.
     - text: Courses by accrediting provider
     - text: Request access for someone
-      caption: This will be a Google Form to begin with. We used first name and last name as that’s a requirement of DFE Sign-in.
+      caption: This will be a Google Form to begin with. We used first name and last name as that’s a requirement of DfE Sign-in.
     - text: View course
       caption: |
         In user research we found that having [multiple sets of UCAS course information on one page](/publish-teacher-training-courses/school-direct-view#course-details-from-ucas) and deep linking to them was confusing. This design splits them out into a single page per course.

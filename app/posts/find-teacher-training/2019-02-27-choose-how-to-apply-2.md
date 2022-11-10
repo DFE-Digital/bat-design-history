@@ -29,7 +29,7 @@ In this version we:
 
 - added more context to the page with a choice
 - added a ‘learn more’ disclosure to the choice page
-- expanded the journey with further Apply pages and emails
+- expanded the journey with further Apply for teacher training (Apply) pages and emails
 
 ## User research
 
@@ -43,7 +43,7 @@ We tested this with 14 users.
 
 For people who’ve never applied to teacher training, when given a choice about two application services, no users were turned away by that choice. All of them would continue to apply.
 
-For people who applied using DFE Apply, applying again through UCAS represents a pain point. We hypothesise that by sending applicants wishing to apply to many courses directly to UCAS we can reduce the risk of that pain point.
+For people who applied using DfE Apply, applying again through UCAS represents a pain point. We hypothesise that by sending applicants wishing to apply to many courses directly to UCAS we can reduce the risk of that pain point.
 
 *[DfE]: Department for Education
 *[UCAS]: Universities and colleges admissions service
