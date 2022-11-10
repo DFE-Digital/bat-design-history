@@ -196,7 +196,7 @@ We indicate the difference in letters to new providers and ask for their choice.
 
 ![Screenshot of UCAS Apply preferences.](ucas-apply-preferences.png "UCAS Apply preferences")
 
-*[ASCII]: American Standard Code for Information Interchange
+*[ASCII]: American standard code for information interchange
 *[HESA]: Higher Education Statistics Agency
 *[PDF]: Portable document format
 *[PDFs]: Portable document formats
