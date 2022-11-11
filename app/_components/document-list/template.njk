@@ -5,15 +5,20 @@
       <h2 class="app-document-list__item-title">
         <a class="govuk-link" href="{{ item.url | url | pretty }}">{{ item.data.title | nl2br | safe }}</a>
       </h2>
-      {% if item.data.description %}
-      <p class="app-document-list__item-description">{{ item.data.description | markdown("inline") | safe }}</p>
-      {% endif %}
       {% if item.date %}
       <ul class="app-document-list__item-metadata">
         <li class="app-document-list__attribute">
           <time datetime="{{ item.date | date }}">{{ item.date | date("d LLLL y") }}</time>
         </li>
       </ul>
+      {% endif %}
+
+      {% if item.data.ogImage.src %}
+        <img src="{{ item.data.ogImage.src }}" alt="{{ item.data.ogImage.alt }}" class="app-document-list__item-image" />
+      {% endif %}
+
+      {% if item.data.description %}
+      <p class="app-document-list__item-description">{{ item.data.description | markdown("inline") | safe }}</p>
       {% endif %}
     </li>
   {% endfor %}
