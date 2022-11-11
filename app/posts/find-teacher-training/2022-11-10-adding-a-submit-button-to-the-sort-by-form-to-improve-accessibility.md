@@ -14,7 +14,7 @@ Previously, the select drop-down automatically submitted the user’s choice whe
 
 Keyboard-only users, including screen reader users, find selecting an option in the sort by drop-down confusing because they:
 
-- do not expect the content to update automatically or their focus to return to the beginning of the page
+- do not expect the content to update automatically or to not continue from where they were before
 - need to renavigate the page's content to return to their position
 - have difficulty selecting the second option in the drop-down, as moving through the list of options causes a change of context
 
