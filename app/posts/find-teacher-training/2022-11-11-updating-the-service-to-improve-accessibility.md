@@ -44,7 +44,7 @@ We have updated the filter legends to include the visually hidden text ‘filter
 
 For example:
 
-```
+```html
 <legend class="govuk-fieldset__legend govuk-fieldset__legend--s">
   Special educational needs<span class="govuk-visually-hidden"> filter</span>
 </legend>
@@ -60,7 +60,7 @@ The primary and secondary subject page titles are not unique, as they do not use
 
 For example:
 
-```
+```html
 <title>
 Primary courses with subject specialisms - Find postgraduate teacher training - GOV.UK
 </title>
@@ -85,7 +85,7 @@ We have:
 
 For example:
 
-```
+```html
 <p class="govuk-error-message">
   <span class="govuk-visually-hidden">Error:</span> Select find courses by location or by training provider
 </p>
@@ -109,7 +109,7 @@ We have added non-breaking space between ‘Change’ and the visually hidden te
 
 The space needs to be within the visually hidden text, not outside it.
 
-```
+```html
 <a class="govuk-link govuk-link--no-visited-state" href="#">
   Change<span class="govuk-visually-hidden"> subject or location</span>
 </a>
