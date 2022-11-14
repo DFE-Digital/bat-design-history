@@ -7,7 +7,7 @@ related:
     - text: Expanding abbreviations to improve accessibility
       href: /find-teacher-training/expanding-abbreviations-to-improve-accessibility/
     - text: Adding a submit button to the ‘sort by’ form to improve accessibility
-      Href: /find-teacher-training/adding-a-submit-button-to-the-sort-by-form-to-improve-accessibility/
+      href: /find-teacher-training/adding-a-submit-button-to-the-sort-by-form-to-improve-accessibility/
 ---
 
 We regularly review Find postgraduate teacher training (Find) to ensure it meets accessibility standards.
