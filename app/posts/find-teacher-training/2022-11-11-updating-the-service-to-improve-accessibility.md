@@ -32,6 +32,12 @@ It is unclear to users that they can use the button to close the filter options,
 
 We have updated the close filters button to include the visually hidden text ‘Close filter menu’.
 
+```html
+<button class="app-filter__close" type="button">
+  Close<span class="govuk-visually-hidden"> filter menu</span>
+</button>
+```
+
 ![Close filters button](close-filters-button.png "Close filters button")
 
 In future, we will consider updating the filters panel to be a [`dialog` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog).
