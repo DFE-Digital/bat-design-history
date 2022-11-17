@@ -48,7 +48,7 @@ The question includes the word "ever" as someone’s eligibility for free school
 
 We added some content so explain that, unlike the other existing equality and diversity questions, we are not revealing the answer to this question to providers if an application is accepted. This is because the information is not required by providers to submit data to the Higher Education Statistics Agency (HESA).
 
-We also added an explanatory paragraph about why we are asking this question so that candidates understand that we are not directly interested how people got meals at school, but what it indirect means about someone’s background.
+We also added an explanatory paragraph about why we are asking this question so that candidates understand that we are not directly interested how people got meals at school, but what it indirectly means about someone’s background.
 
 ## Alternatives we considered
 
