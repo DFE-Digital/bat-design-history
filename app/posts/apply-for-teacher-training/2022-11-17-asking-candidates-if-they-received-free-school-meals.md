@@ -80,6 +80,9 @@ With the second question we found that:
 
 * "if you finished school after 1980" tripped participants up and was misunderstood, sometimes causing candidate to not read the read of the question
 * participants would answer Yes or No even they went to school outside the UK, instead of selecting "Not applicable"
+* some candidates would answer Yes or No even if they were not sure
+
+With both questions, some candidates thought their answer would be taken into consideration by the provider, for example by assessing whether or not they could relate to the children they were teaching.
 
 After the research we spoke to colleagues at the Office for National Statistics, who are also doing their own research on these questions and will publishing their findings and recommendations in future.
 
