@@ -5,6 +5,12 @@ date: 2022-11-17
 ogImage:
   src: /apply-for-teacher-training/asking-candidates-if-they-received-free-school-meals/free-school-meals-illustration.png
   alt: "Illustration with the question 'Did you ever receive free school meals in the UK?' and the answers Yes and No"
+related:
+  items:
+    - text: Findings from candidate research (DfE-only)
+      href: https://docs.google.com/presentation/d/13gbxJk6S6j21MCtHN2B4E4-NM_BydZWqIX9SycDYoEk/edit?usp=sharing
+
+
 ---
 ![Illustration with the question 'Did you ever receive free school meals in the UK?' and the answers Yes and No](free-school-meals-illustration.png)
 
