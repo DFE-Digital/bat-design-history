@@ -2,7 +2,11 @@
 title: Asking candidates if they received free school meals
 description: How we are trying to assess the impact of the social-economic background of candidates on their chances of success.
 date: 2022-11-17
+ogImage:
+  src: /apply-for-teacher-training/asking-candidates-if-they-received-free-school-meals/free-school-meals-illustration.png
+  alt: "Illustration with the question 'Did you ever receive free school meals in the UK?' and the answers Yes and No"
 ---
+![Illustration with the question 'Did you ever receive free school meals in the UK?' and the answers Yes and No](free-school-meals-illustration.png)
 
 We have started asking candidates whether they received free school meals at school, in order to try and assess the impact of social-economic background on the chances of a successful application.
 
@@ -78,7 +82,7 @@ Based upon this, we decided to:
 * only ask the question about free school meals for now
 * filter out candidates who likely finished school before 1980 so that we could remove that part of the question
 * filter out candidates who likely went to school outside the UK, using nationality as a proxy, and for those that remain, make it clearer that the question only applies to free school meals received in the UK
-* ask candidates whether they received free schools instead of if they were eligible for them - whilst people might choose to never receive free school meals even if eligible (for example, opting for a packed lunch) we considered that this was unlikely and a worthwhile trade-off for a an easier to understand question
+* ask candidates whether they got free schools instead of if they were eligible for them - whilst people might choose to never eat free school meals even if eligible (for example, opting for a packed lunch) we considered that this was unlikely and a worthwhile trade-off for a an easier to understand question
 
 ## Initial results
 
