@@ -117,6 +117,7 @@ We plan to review the results after one year of asking the question. We’ll loo
 * how the proportions of candidates who received free school meals compared with the general population
 * if this data helps inform potential policy interventions
 * whether the level of "I do not know" and "Prefer not to say" answers is acceptable
+* whether we could avoid asking candidates this question by connecting to existing data held by the Department for Education
 
 We’ll also continue to talk to colleagues in other organisations who ask this question, such as the Social Mobility Commission, the Office for National Statistics and Teach First, to share our learning.
 
