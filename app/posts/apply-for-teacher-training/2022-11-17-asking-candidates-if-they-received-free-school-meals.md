@@ -30,6 +30,8 @@ Previously, we asked for:
 
 We were asked to investigate whether we could also add some questions to assess social-economic background. This is a hard-to-define measure which encompasses things such as family income, social class, education and the occupation of someone’s parents.
 
+As well as giving us more understanding of the diversity of our applicants, social-economic background data may also help us to better understand the drivers of some of the disparities we see between different groups of applicants applying for teacher training courses.
+
 ## What we did
 
 We researched different ways of assessing social-economic background, and settled on a single question about whether someone received free school meals.
