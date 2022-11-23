@@ -19,21 +19,19 @@ We added and updated links to the Get Into Teaching website from:
 
 We updated the content to emphasise contacting a teacher training adviser, should a candidate need further help and support. The paragraph about ways to train was removed as it detracted from the central call to action - contacting a teacher training advisor.
 
-We changed the 'teacher training adviser' link from the [Get an adviser start page](https://adviser-getintoteaching.education.gov.uk/) to the [ teacher training advisers page on Get Into Teaching](https://getintoteaching.education.gov.uk/teacher-training-advisers). We made this change to be consistent with other links out from Find - linking to Get Into Teaching rather than a GOV.UK page. Users can easily access more resources from this page.
+We changed the 'teacher training adviser' link from the [Get an adviser start page](https://adviser-getintoteaching.education.gov.uk/) to the [teacher training advisers](https://getintoteaching.education.gov.uk/teacher-training-advisers) page on Get Into Teaching. We made this change to be consistent with other links out from Find - linking to Get Into Teaching rather than a GOV.UK page. Users can easily access more resources from this page.
 
 ![Support and advice](support-and-advice.png)
 
 ### Financial support from the government
 
-As well as bursaries, scholarships and student loans, more financial support is available from the government, for example, a Childcare Grant. To make sure candidates are aware of all the financial support available, we’ve added a link at the bottom of the ‘Financial support from the government’ section to the [funding and support page on Get Into Teaching](https://getintoteaching.education.gov.uk/funding-and-support).
+As well as bursaries, scholarships and student loans, more financial support is available from the government, for example, a Childcare Grant. To make sure candidates are aware of all the financial support available, we’ve added a link at the bottom of the ‘Financial support from the government’ section for non-salaried courses to the [funding and support](https://getintoteaching.education.gov.uk/funding-and-support) page on Get Into Teaching.
 
 ![Financial support from the government - bursary](financial-support-from-the-government--bursary.png "Financial support from the government - bursary")
 
 ![Financial support from the government - bursary and scholarship](financial-support-from-the-government--bursary-and-scholarship.png "Financial support from the government - bursary and scholarship")
 
 ![Financial support from the government - loan](financial-support-from-the-government--loan.png "Financial support from the government - loan")
-
-![Financial support from the government - salary](financial-support-from-the-government--salary.png "Financial support from the government - salary")
 
 ### Where you will train
 
@@ -50,3 +48,6 @@ Candidates may want to be able to find out more general information about gettin
 ## Further considerations
 
 We are reviewing the Find start page to see how we can improve the content and link to the most relevant pages on Get Into Teaching.
+
+The content in the 'Financial support from the government' section for salaried courses needs to be improved. Currently, we say that no other financial support is available. However, the government may offer financial support depending on the candidates' needs. For example, Disabled Students' Allowance (DSA) is paid in addition to a salary, should the candidate be eligible.
+
