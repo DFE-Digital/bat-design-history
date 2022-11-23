@@ -19,7 +19,7 @@ We added and updated links to the Get Into Teaching website from:
 
 We updated the content to emphasise contacting a teacher training adviser, should a candidate need further help and support. The paragraph about ways to train was removed as it detracted from the central call to action - contacting a teacher training advisor.
 
-We changed the 'teacher training adviser' link from the [Get an adviser start page](https://adviser-getintoteaching.education.gov.uk/) to the [ teacher training advisers page on Get Into Teaching](https://getintoteaching.education.gov.uk/teacher-training-advisers). Linking to the Get Into Teaching website is consistent with other links out. Users can easily access more resources from this page.
+We changed the 'teacher training adviser' link from the [Get an adviser start page](https://adviser-getintoteaching.education.gov.uk/) to the [ teacher training advisers page on Get Into Teaching](https://getintoteaching.education.gov.uk/teacher-training-advisers). We made this change to be consistent with other links out from Find - linking to Get Into Teaching rather than a GOV.UK page. Users can easily access more resources from this page.
 
 ![Support and advice](support-and-advice.png)
 
