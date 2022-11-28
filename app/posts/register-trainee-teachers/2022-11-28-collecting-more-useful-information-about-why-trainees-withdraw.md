@@ -9,18 +9,18 @@ related:
 
 ---
 
-We want to understand more about why trainee teachers withdraw from courses. This could help the DfE to support trainees better and reduce the number of people who withdraw.
+We want to understand more about why trainee teachers withdraw from courses. This could help the Department for Education to support trainees better and reduce the number of people who withdraw.
 
 The current withdrawal journey:
 
 - uses the list of withdrawal reasons from the old database of trainee teachers and providers (DTTP) - some of these reasons are unclear, very similar or rarely used
-- only collects more details if the user selects ‘other’, so usually we only know the general reason why a trainee withdrew
+- only collects more details if the user selects ‘for another reason’, so usually we only know the general reason why a trainee withdrew
 - only allows the user to select one reason
-- is only used for trainees added manually - this includes all SCITT trainees and a minority of HEI trainees
+- is only used for trainees added manually, which means that it excludes most trainees on courses run by higher education institutions
 
 ## Analysis
 
-With the most frequently used listed first, the withdrawal reasons used in the 2021 to 2022 academic year were:
+We looked at the withdrawal reasons used in the 2021 to 2022 academic year. With the most frequently used listed first, they were:
 
 - personal reasons
 - unknown
@@ -40,9 +40,9 @@ With the most frequently used listed first, the withdrawal reasons used in the 2
 We have:
 
 - moved the date question to its own page
-- changed the reasons for withdrawal which users can choose
+- changed the list of reasons for withdrawal
 - allowed users to choose multiple reasons for withdrawal
-- added a page letting users give more details
+- added a page letting users give more details about why a trainee withdrew
 - added a summary of the withdrawal to the trainee record and removed some details from the timeline
 
 ### Moving the date question
@@ -58,7 +58,7 @@ We’ve moved the question about the date of withdrawal to its own page. This sh
 
 If we know the date when the trainee started initial teacher training (ITT), then this new page will be the first which the user sees after clicking ‘withdraw’ on the trainee’s record. Otherwise, the user will first be asked when the trainee started ITT.
 
-### Changing the reasons for withdrawal
+### Changing the list of reasons for withdrawal
 
 When deciding on the new reasons for withdrawal, we looked at:
 
@@ -89,6 +89,8 @@ The new reasons for withdrawal are:
 - another reason
 - unknown
 
+The reasons are listed alphabetically, except for ‘another reason’ and ‘unknown’.
+
 ### Letting users choose multiple reasons
 
 We think that trainees may withdraw from a course for a combination of reasons.
@@ -97,23 +99,21 @@ We decided to let providers choose more than one reason. This means that we now 
 
 A user should not be able to choose ‘unknown’ and another reason. If they choose ‘unknown’ then any other selected reasons are unselected. If they choose another reason then ‘unknown’ is unselected.
 
-If the user does not have Javascript enabled then they will be able to choose ‘unknown’ and another reason. When they click to continue, they will see the error message ‘Select why the trainee withdrew from the course or select ”Unknown”’.
+If the user does not have Javascript enabled then they will be able to choose ‘unknown’ and another reason. When they click to continue, they will see the error message ‘Select why the trainee withdrew from the course or select “Unknown”’.
 
 ### Asking users for more details
 
-Previously, users were only asked to give more details if they selected ‘other’ as the reason for withdrawal.
+Previously, users were only asked to give more details if they selected ‘for another reason’. This meant that we only had a limited understanding of why most trainees withdrew.
 
-We decided to always allow users to give additional information.
+For example, a user might have picked ‘financial reasons’ but we would not know whether that was related to bursaries, transport costs or something else.
 
-Previously a user might have picked ‘financial reasons’, for example, but we wouldn’t know whether that was related to bursaries, or to transport costs or something else. We hope this additional information can be used together with the new reasons to improve our analysis of the reasons of withdrawal.
+We decided to always allow users to give additional information. We show them an optional field for “details about why the trainee withdrew”. We hope that this additional information can be used to improve our analysis of the reasons for withdrawal.
 
-We created a new page with the optional question “
-
-We also added a second optional question, “Could the Department for Education have done anything to avoid the candidate withdrawing?”
+We also added an optional question, “Could the Department for Education have done anything to avoid the candidate withdrawing?”
 
 We want to understand whether the department could make improvements, and this is a good opportunity to collect suggestions from providers.
 
-We’ve set a limit of 1000 characters for each question. The number of characters remaining is displayed once they reach 750.
+We’ve set a limit of 1000 characters for each response. The number of characters remaining is displayed once they reach 750.
 
 If they exceed the limit, the warning turns from grey to red and shows how many characters over the limit the answer is.
 
