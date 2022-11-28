@@ -43,6 +43,7 @@ We have:
 - changed the list of reasons for withdrawal
 - allowed users to choose multiple reasons for withdrawal
 - added a page letting users give more details about why a trainee withdrew
+- changed the check answers page to reflect the changes to the withdrawal journey
 - added a summary of the withdrawal to the trainee record and removed some details from the timeline
 
 ### Moving the date question
@@ -122,19 +123,29 @@ If the user submits an answer which is too long, they get an error message which
 - Details about why the trainee withdrew must be 1000 characters or less
 - What the Department for Education could have done must be 1000 characters or less
 
-### Showing withdrawal details in the trainee record
+### Changing the check answers page
 
-We added a ‘withdrawal details’ box, which appears between the ‘trainee progress’ and ‘course details’ boxes in a trainee’s record.
+The check answers page can now show multiple reasons for withdrawal, each on its own line.
 
-The box only appears if the trainee has withdrawn from their course. It includes the same information which is shown to users when they check their answers before marking the candidate as withdrawn.
-
-The box includes:
+The information we replay on this page is:
 
 - date the trainee withdrew
 - why the trainee withdrew
 - details about why the trainee withdrew
-- could the Department for Education have done anything to avoid the candidate withdrawing? - this only appears if the answer to the question is ‘no’
-- what the Department for Education could have done - this only appears if the user said that the DfE could have done something
+- whether the Department for Education could have done anything to avoid the candidate withdrawing - this only appears if the answer to the question is ‘no’
+- what the Department for Education could have done - this only appears if the user said that the department could have done something
+
+### Showing withdrawal details in the trainee record
+
+We added a ‘withdrawal details’ box to the trainee record, which appears between the ‘trainee progress’ and ‘course details’ boxes.
+
+The new box only appears if the trainee has withdrawn from their course. It includes the same information which is shown to users when they check their answers before marking the candidate as withdrawn.
+
+The timeline for the trainee’s record now shows only:
+
+- which user marked the trainee as withdrawn
+- the date and time when the trainee was marked as withdrawn
+- the date when the trainee withdrew
 
 ## Further work
 
