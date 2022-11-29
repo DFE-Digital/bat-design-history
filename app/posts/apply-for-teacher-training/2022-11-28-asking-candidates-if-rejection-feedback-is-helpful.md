@@ -46,7 +46,7 @@ As of 28 November 2022, almost 2 weeks after having first asked this question, t
 
 The response rate so far has been around 12%, for rejections given since the feedback launched.
 
-Most candidates who have rated their feedback have done done so within a day of receiving it.
+Most candidates who have rated their feedback have done so within a day of receiving it.
 
 ## Further considerations
 
