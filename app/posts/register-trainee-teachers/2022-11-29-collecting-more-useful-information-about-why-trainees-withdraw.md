@@ -1,7 +1,7 @@
 ---
 title: Collecting more useful information about why trainees withdraw
 description: We made it possible for providers to give more accurate and detailed information about why trainee teachers withdraw from courses.
-date: 2022-11-28
+date: 2022-11-29
 related:
   items:
     - text: Withdrawal reasons for trainees who started in the 2021 to 2022 academic year
@@ -150,3 +150,33 @@ The timeline for the trainee’s record now shows only:
 ## Further work
 
 After the new reasons for withdrawal have been available to users for a few months, we’ll analyse how they’ve been used. This will help us to decide whether to make further changes to the list of reasons.
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  headingLevel: 2,
+  items: [
+  {
+    id: "1-when-did-trainee-withdraw",
+    text: "Page asking when the trainee withdrew"
+  },
+  {
+    id: "2-why-did-trainee-withdraw",
+    text: "New list of reasons for rejection, using checkboxes so that users can select more than one"
+  },
+  {
+    id: "3-more-details",
+    text: "Page asking for more details about why the trainee withdrew and whether the Department for Education could have done anything to avoid it"
+  },
+  {
+    id: "4-confirm",
+    text: "Check details page with a red button allowing the user to withdraw the trainee"
+  },
+  {
+    id: "5-trainee-page",
+    text: "Trainee record page with a message saying that the trainee has withdrawn, plus a box showing the withdrawal details"
+  },
+  {
+    id: "6-timeline",
+    text: "Timeline showing when the user marked the trainee as withdrawn and when the trainee actually withdrew"
+  }]
+}) }}
