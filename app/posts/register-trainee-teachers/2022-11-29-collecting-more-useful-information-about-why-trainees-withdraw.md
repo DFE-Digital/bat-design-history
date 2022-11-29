@@ -16,11 +16,11 @@ The current withdrawal journey:
 - uses the list of withdrawal reasons from the old database of trainee teachers and providers (DTTP) - some of these reasons are unclear, very similar or rarely used
 - only collects more details if the user selects ‘for another reason’, so usually we only know the general reason why a trainee withdrew
 - only allows the user to select one reason
-- is only used for trainees added manually, which means that it excludes most trainees on courses run by higher education institutions
+- is only used for trainees added manually, which means that it excludes most trainees on courses run by higher education institutions - but we expect it to be used by all training providers eventually
 
 ## Analysis
 
-We looked at the withdrawal reasons used in the 2021 to 2022 academic year. With the most frequently used listed first, they were:
+We looked at the withdrawal reasons used in the 2021 to 2022 academic year. With the most common listed first, they were:
 
 - personal reasons
 - unknown
@@ -66,7 +66,7 @@ When deciding on the new reasons for withdrawal, we looked at:
 - how often the existing reasons for withdrawal were used
 - the additional details entered where ‘for another reason’ had been chosen
 
-We want to cover most of the reasons used by training providers. This will allow them to be accurate without needing to choose ‘for another reason’ and will also improve the quality of the data which the DfE receives.
+We want to cover most of the reasons used by training providers. This will allow them to be accurate without needing to choose ‘for another reason’ and will also improve the quality of the data which we receive.
 
 For example, we found that in ‘for another reason’ users often mentioned that a trainee had decided not to become a teacher. So we decided to add that as a reason.
 
@@ -132,7 +132,7 @@ The information we replay on this page is:
 - date the trainee withdrew
 - why the trainee withdrew
 - details about why the trainee withdrew
-- whether the Department for Education could have done anything to avoid the candidate withdrawing - this only appears if the answer to the question is ‘no’
+- could the Department for Education have done anything to avoid the candidate withdrawing? - this only appears if the answer to the question is ‘no’
 - what the Department for Education could have done - this only appears if the user said that the department could have done something
 
 ### Showing withdrawal details in the trainee record
@@ -157,7 +157,7 @@ After the new reasons for withdrawal have been available to users for a few mont
   items: [
   {
     id: "1-when-did-trainee-withdraw",
-    text: "Page asking when the trainee withdrew"
+    text: "Asking when the trainee withdrew"
   },
   {
     id: "2-why-did-trainee-withdraw",
@@ -165,7 +165,7 @@ After the new reasons for withdrawal have been available to users for a few mont
   },
   {
     id: "3-more-details",
-    text: "Page asking for more details about why the trainee withdrew and whether the Department for Education could have done anything to avoid it"
+    text: "Asking for more details about why the trainee withdrew and whether the Department for Education could have done anything to avoid it"
   },
   {
     id: "4-confirm",
@@ -173,7 +173,7 @@ After the new reasons for withdrawal have been available to users for a few mont
   },
   {
     id: "5-trainee-page",
-    text: "Trainee record page with a message saying that the trainee has withdrawn, plus a box showing the withdrawal details"
+    text: "Trainee record with a message saying that the trainee has withdrawn, plus a box showing the withdrawal details"
   },
   {
     id: "6-timeline",
