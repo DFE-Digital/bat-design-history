@@ -29,7 +29,8 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "href": "https://getintoteaching.education.gov.uk/events"
       },
       {
-        "name": "Apply for a teaching internship"
+        "name": "Apply for a teaching internship",
+        "href": "https://getintoteaching.education.gov.uk/teaching-internship-providers"
       },
       {
         "name": "Get an adviser",
@@ -90,14 +91,16 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "href": "https://teaching-vacancies.service.gov.uk"
       },
       {
-        "name": "Claim back your student loan repayments"
+        "name": "Claim back your student loan repayments",
+        "href": "https://www.claim-additional-teaching-payment.service.gov.uk/student-loans/qts-year"
       },
       {
         "name": "Claim an early-career payment",
         "href": "https://www.claim-additional-teaching-payment.service.gov.uk/early-career-payments/landing-page"
       },
       {
-        "name": "Support for early career teachers"
+        "name": "Support for early career teachers",
+        "href": "https://support-for-early-career-teachers.education.gov.uk"
       },
       {
         "name": "Find a lost teacher reference number (TRN)",
@@ -146,6 +149,22 @@ The 'becoming a teacher' services are part of a broader range of digital service
       {
         "name": "Teachers’ pensions",
         "href": "https://www.teacherspensions.co.uk"
+      },
+      {
+        "name": "Appeal an induction outcome (email)"
+      },
+      {
+        "name": "Apply for a prohibition order to be set aside (email)"
+      }
+    ],
+    "providers": [
+      {
+        "name": "Refer serious misconduct by a teacher in England",
+        "href": "https://refer-serious-misconduct.education.gov.uk/start"
+      },
+      {
+        "name": "Teacher misconduct panel outcomes",
+        "href": "https://www.gov.uk/search/all?parent=&keywords=panel+outcome+misconduct&level_one_taxon=&manual=&organisations%5B%5D=teaching-regulation-agency&organisations%5B%5D=national-college-for-teaching-and-leadership&public_timestamp%5Bfrom%5D=&public_timestamp%5Bto%5D=&order=updated-newest"
       }
     ]
   }
