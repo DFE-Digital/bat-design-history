@@ -6,7 +6,7 @@ date: 2022-12-06
 
 ---
 
-Research carried out by the Apply for teacher training (Apply) team found that some candidates lack awareness of subject knowledge enhancement (SKE) courses. Some candidates had never heard of SKE, and some were unsure when and how to enrol.
+Research carried out by the Apply for teacher training (Apply) team found that some candidates lack awareness of subject knowledge enhancement (SKE) courses. Some candidates had never heard of SKE, and some were unsure when and how to apply.
 
 To make sure candidates have access to information about SKE when searching for courses, we’ve included a link to the Get Into Teaching page from Find postgraduate teacher training (Find).
 
