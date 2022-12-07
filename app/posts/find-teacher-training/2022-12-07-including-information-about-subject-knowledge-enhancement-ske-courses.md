@@ -2,6 +2,14 @@
 title: Including information about subject knowledge enhancement (SKE) courses
 description: We updated content in the ‘Entry requirements’ section and added a link to more information about SKE courses
 date: 2022-12-06
+related:
+  items:
+    - text: Subject knowledge enhancement (SKE) - Get Into Teaching
+      href: https://getintoteaching.education.gov.uk/train-to-be-a-teacher/subject-knowledge-enhancement
+    - text: Introduction to subject knowledge enhancement on GOV.UK
+      href: https://www.gov.uk/guidance/subject-knowledge-enhancement-an-introduction
+    - text: Subject knowledge enhancement (SKE) course directory on GOV.UK
+      href: https://www.gov.uk/government/publications/subject-knowledge-enhancement-course-directory/subject-knowledge-enhancement-ske-course-directory
 ---
 
 Research by the Apply for teacher training (Apply) team found that some candidates lack awareness of subject knowledge enhancement (SKE) courses. Some candidates had never heard of SKE, and some were unsure when and how to enrol.
