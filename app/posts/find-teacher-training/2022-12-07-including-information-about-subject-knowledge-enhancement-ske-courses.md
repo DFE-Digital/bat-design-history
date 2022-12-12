@@ -38,7 +38,7 @@ Since SKE is only available for specific subjects, we only show this content if 
 
 For primary mathematics, we include:
 
-> If you need to improve your primary mathematics knowledge, speak to the training provider about applying for a [subject knowledge enhancement (SKE) course](https://getintoteaching.education.gov.uk/train-to-be-a-teacher/subject-knowledge-enhancement).
+> If you need to improve your primary mathematics knowledge, you may be asked to complete a [subject knowledge enhancement (SKE) course](https://getintoteaching.education.gov.uk/train-to-be-a-teacher/subject-knowledge-enhancement).
 
 ## Future considerations
 
