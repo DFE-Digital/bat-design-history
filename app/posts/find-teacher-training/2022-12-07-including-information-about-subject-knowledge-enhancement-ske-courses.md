@@ -42,6 +42,6 @@ For primary mathematics, we include:
 
 ## Future considerations
 
-During our Publish teacher training courses (Publish) research, some providers told us they would like more control of the content in the entry requirements section. For example, it may be the case that a provider will not be willing to accept a drama graduate who has taken an SKE course n English to become an English teacher.
+During our Publish teacher training courses (Publish) research, some providers told us they would like more control of the content in the entry requirements section. For example, it may be the case that a provider will not be willing to accept a drama graduate who has taken an SKE course in English to become an English teacher.
 
 More research is needed in this area, and we will work with the Apply team to establish if changes need to be made to Publish.
