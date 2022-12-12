@@ -36,6 +36,10 @@ Since SKE is only available for specific subjects, we only show this content if 
 - physics
 - religious education
 
+For primary mathematics, we include:
+
+> If you need to improve your primary mathematics knowledge, speak to the training provider about applying for a [subject knowledge enhancement (SKE) course](https://getintoteaching.education.gov.uk/train-to-be-a-teacher/subject-knowledge-enhancement).
+
 ## Future considerations
 
 During our Publish teacher training courses (Publish) research, some providers told us they would like more control of the content in the entry requirements section. For example, it may be the case that a provider will not be willing to accept a drama graduate who has taken an SKE course n English to become an English teacher.
