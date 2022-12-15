@@ -2,6 +2,9 @@
 title: Improving the email sent to candidates about new interviews
 description: We now include the course subject and code. We also show details separately rather than in a single section.
 date: 2022-08-12
+tags:
+  - emails
+  - interviews
 related:
   items:
     - text: Github pull request for these changes

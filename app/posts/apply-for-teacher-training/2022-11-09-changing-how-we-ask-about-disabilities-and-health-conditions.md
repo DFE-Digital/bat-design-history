@@ -2,6 +2,8 @@
 title: Changing how we ask about disabilities and health conditions
 description: Why we no longer ask people if they are disabled, and instead show everyone a list of disabilities and health conditions.
 date: 2022-11-09
+tags:
+  - equality and diversity
 ogImage:
   src: /apply-for-teacher-training/changing-how-we-ask-about-disabilities-and-health-conditions/disability-question-changes.png
   alt: "Illustration showing that previously there was an ‘Are you disabled?’ question which led to a ‘What disabilities do you have?’ question, and now there is a single ‘Do you have any of these disabilities or health conditions?’ question."

@@ -2,6 +2,8 @@
 title: Changing how we ask people for a reference
 description: Why we now ask people to give a factual reference instead describing how the candidate would make a good teacher.
 date: 2022-11-03
+tags:
+  - references
 ogImage:
   src: /apply-for-teacher-training/changing-how-we-ask-for-references/reference-illustration.png
   alt: "Illustration with the title 'References', 2 bullet points and an empty text box"

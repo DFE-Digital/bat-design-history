@@ -2,6 +2,8 @@
 title: Helping providers assess a candidate’s fee status
 description: We designed nationality and residency questions to help providers assess fee status.
 date: 2022-06-28
+tags:
+  - fees
 ogImage:
   src: /apply-for-teacher-training/home-fee-status/nationality-and-residency.png
   alt: "Flow diagram showing questions related to home fee status"

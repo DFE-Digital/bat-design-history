@@ -2,6 +2,8 @@
 title: Degree autocomplete changes
 description: Why we made changes to the autocomplete
 date: 2022-05-13
+tags:
+  - qualifications
 ---
 
 ![TODO](degree-autocomplete-changes.png "Old and new autocompletes")

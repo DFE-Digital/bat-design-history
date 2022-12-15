@@ -2,6 +2,8 @@
 title: Asking candidates if they received free school meals
 description: How we are trying to assess the impact of the social-economic background of candidates on their chances of success.
 date: 2022-11-17
+tags:
+  - equality and diversity
 ogImage:
   src: /apply-for-teacher-training/asking-candidates-if-they-received-free-school-meals/free-school-meals-illustration.png
   alt: "Illustration with the question 'Did you ever receive free school meals in the UK?' and the answers Yes and No"

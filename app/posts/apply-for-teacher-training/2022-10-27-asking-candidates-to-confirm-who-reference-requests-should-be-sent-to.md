@@ -2,6 +2,8 @@
 title: Asking candidates to confirm who reference requests should be sent to
 description: When candidates accept an offer, they also now have to confirm who should receive reference requests.
 date: 2022-10-27
+tags:
+  - reference
 ogImage:
   src: /apply-for-teacher-training/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to/confirm-details.png
   alt: "Flow diagram showing questions related to home fee status"
