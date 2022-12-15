@@ -1,0 +1,40 @@
+{% extends "base.njk" %}
+
+{% from "document-list/macro.njk" import appDocumentList %}
+{% from "masthead/macro.njk" import appMasthead %}
+{% from "pagination/macro.njk" import appPagination %}
+{% from "prose/macro.njk" import appProse %}
+{% from "related/macro.njk" import appRelated %}
+
+{% block main %}
+  {% call appMasthead({
+    title: {
+      html: "Posted tagged ‘" + tag + "’"
+    }
+  }) %}
+  {% endcall %}
+
+  {% set items = collections[tag] %}
+
+  <div class="govuk-width-container">
+    {% block beforeContent %}{% endblock %}
+    <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
+    {% block content %}
+      {{ appProse({
+        prose: content
+      }) }}
+      <div class="govuk-grid-row">
+          <section class="govuk-grid-column-two-thirds">
+            <h2 class="govuk-heading-l govuk-!-font-size-27">
+              {{ app.posts.title or "Posts" }}
+            </h2>
+            {{ appDocumentList({
+              classes: "govuk-!-margin-bottom-6",
+              items: items
+            }) }}
+          </section>
+      </div>
+    {% endblock %}
+    </main>
+  </div>
+{% endblock %}
