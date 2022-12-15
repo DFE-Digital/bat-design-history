@@ -32,6 +32,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('tokenize', require('./lib/filters/tokenize'))
   eleventyConfig.addFilter('totalFromRows', require('./lib/filters/total-from-rows'))
   eleventyConfig.addFilter('widont', require('./lib/filters/widont'))
+  eleventyConfig.addFilter('postTags', require('./lib/filters/post-tags'))
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('./app/documents')
