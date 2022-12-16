@@ -2,7 +2,6 @@
 layout: page
 title: Mission patches
 description: Archive of patches created to celebrate milestones in the development of our different services.
-tags: reference
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
