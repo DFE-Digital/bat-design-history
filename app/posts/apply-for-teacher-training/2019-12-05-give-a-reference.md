@@ -2,6 +2,8 @@
 title: Give a teacher training reference
 description: Replacing the Google form with an integrated form.
 date: 2019-12-05
+tags:
+  - references
 screenshots:
   items:
     - text: Start page

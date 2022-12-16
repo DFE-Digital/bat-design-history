@@ -2,6 +2,8 @@
 title: Degree grade requirement warning message
 description: Warning candidates when they do not meet the degree grade requirement.
 date: 2021-09-22
+tags:
+  - qualifications
 related:
   items:
     - text: Standardising entry requirement content

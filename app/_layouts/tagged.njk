@@ -2,22 +2,29 @@
 
 {% from "document-list/macro.njk" import appDocumentList %}
 {% from "masthead/macro.njk" import appMasthead %}
-{% from "pagination/macro.njk" import appPagination %}
 {% from "prose/macro.njk" import appProse %}
-{% from "related/macro.njk" import appRelated %}
+{% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
 
 {% block main %}
-  {% call appMasthead({
-    title: {
-      html: "Posts tagged ‘" + tag + "’"
-    }
-  }) %}
-  {% endcall %}
+
 
   {% set items = collections[tag] %}
 
   <div class="govuk-width-container">
-    {% block beforeContent %}{% endblock %}
+    {% block beforeContent %}
+      {{ govukBreadcrumbs({
+        items: [
+          {
+            text: "Home",
+            href: "/"
+          },
+          {
+            text: "Tags",
+            href: "/tags"
+          }
+        ]
+      }) }}
+    {% endblock %}
     <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
     {% block content %}
       {{ appProse({
@@ -25,9 +32,8 @@
       }) }}
       <div class="govuk-grid-row">
           <section class="govuk-grid-column-two-thirds">
-            <h2 class="govuk-heading-l govuk-!-font-size-27">
-              {{ app.posts.title or "Posts" }}
-            </h2>
+            <h1 class="govuk-heading-l">Posts tagged ‘{{ tag }}’</h1>
+
             {{ appDocumentList({
               classes: "govuk-!-margin-bottom-6",
               items: items

@@ -2,6 +2,8 @@
 title: Equality monitoring
 description: First pass at asking for information for monitoring equality.
 date: 2019-08-18
+tags:
+  - equality and diversity
 screenshots:
   items:
     - Equality monitoring

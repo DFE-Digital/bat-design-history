@@ -2,6 +2,8 @@
 title: Informing candidates about the impact of coronavirus (COVID-19)
 description: Communicating temporary changes to the decline by default and reject by default decision dates.
 date: 2020-03-24
+tags:
+  - covid-19
 screenshots:
   items:
     - Information banner on ‘Your application’ page

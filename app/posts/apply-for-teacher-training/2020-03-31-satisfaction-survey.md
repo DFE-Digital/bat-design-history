@@ -2,6 +2,8 @@
 title: Capturing feedback about the service
 description: Using a survey to gather insights about how candidates feel about using the service.
 date: 2020-03-31
+tags:
+  - user feedback
 screenshots:
   items:
     - Confirmation page

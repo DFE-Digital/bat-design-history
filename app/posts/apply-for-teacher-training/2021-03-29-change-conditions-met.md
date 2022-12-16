@@ -2,6 +2,8 @@
 title: Changing “Conditions met”
 description: Why we changed the status tag for confirmed offers.
 date: 2021-03-29
+tags:
+  - application status
 screenshots:
   items:
     - text: Previous status label

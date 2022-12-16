@@ -2,6 +2,8 @@
 title: Residency status
 description: Initial designs for capturing visas and residency status.
 date: 2020-02-05
+tags:
+  - immigration status
 screenshots:
   items:
     - text: Residency status

@@ -1,6 +1,8 @@
 ---
 title: Improving the references user journey
 description: Adapting the references section so it works for candidates applying for the first time and for candidates applying again.
+tags:
+  - references
 date: 2020-04-27
 screenshots:
   items:

@@ -1,6 +1,9 @@
 ---
 title: Choosing which service to apply through
 description: During transition, providers can offer training courses through both UCAS and/or DfE. Which service should a candidate use?
+tags:
+  - UCAS
+  - transition
 date: 2020-02-26
 screenshots:
   items:

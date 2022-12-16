@@ -2,6 +2,9 @@
 title: International qualifications
 description: Initial designs for capturing international qualifications.
 date: 2020-02-05
+tags:
+  - qualifications
+  - international candidates
 screenshots:
   items:
     - text: International degree

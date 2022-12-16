@@ -1,6 +1,8 @@
 ---
 title: Asking candidates to nominate referees
 date: 2020-02-17
+tags:
+  - references
 screenshots:
   items:
     - Choosing your referees

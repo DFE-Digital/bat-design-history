@@ -2,6 +2,8 @@
 title: Declaring any safeguarding issues
 description: Starting a conversation between providers and candidates about safeguarding issues.
 date: 2020-02-20
+tags:
+  - safeguarding
 related:
   items:
     - text: 'Provider research playback'

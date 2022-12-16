@@ -2,6 +2,8 @@
 title: Changes to the GCSE questions and guidance
 description: Helping candidates apply for courses which accept pending GCSEs or equivalency tests
 date: 2021-07-30
+tags:
+  - qualifications
 ---
 
 One of the reasons why providers reject candidates is because they do not have the right GCSE grades. Candidates need grade 4 (C&#8203;) or above, or equivalent, in English and maths (and science, for Primary courses).

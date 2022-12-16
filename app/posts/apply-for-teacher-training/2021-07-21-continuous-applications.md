@@ -2,6 +2,8 @@
 title: Allowing candidates to apply again earlier
 description: An exploration of changes to the rules around 'applying again'
 date: 2021-07-21
+tags:
+  - apply again
 ---
 
 Candidates applying for teacher training courses can currently select up to 3 different courses on their initial application. Once this is submitted, they have to wait until all the course choices they selected have been resolved, either leading to an offer or a rejection (although they can also withdraw).

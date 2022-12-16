@@ -2,6 +2,8 @@
 title: Updating the 'Choose your courses' flow for the new cycle
 description: Removing the 'Choose a course first' and 'Choose your courses' pages.
 date: 2021-09-17
+tags:
+  - courses
 ---
 
 All courses will be on Apply for the 2022 to 2023 cycle. As a result, we needed to update the 'Choose your course' flow.

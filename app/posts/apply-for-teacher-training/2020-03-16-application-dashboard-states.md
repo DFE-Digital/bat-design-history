@@ -2,6 +2,8 @@
 title: Application dashboard
 description: How the dashboard looks at different stages of an application.
 date: 2020-03-16
+tags:
+  - application status
 screenshots:
   items:
     - text: Awaiting references

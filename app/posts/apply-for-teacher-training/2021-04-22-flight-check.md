@@ -2,6 +2,8 @@
 title: Prompting candidates to review their answers before submitting
 description: Making recommendations to candidates on how they can improve their application prior to submission, aka ‘flight check’.
 date: 2021-04-22
+tags:
+  - rejections
 screenshots:
   items:
     - text: Reviewing course choices
