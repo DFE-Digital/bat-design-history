@@ -12,7 +12,7 @@
       date: page.date,
       modified: modified if modified,
       tag: status,
-      tags: (tags | postTags(tagsToIgnore))
+      tags: (tags | excludeItems(tagsToIgnore))
     }
   }) %}
   <div class="govuk-grid-row">

@@ -25,7 +25,7 @@
             Last updated <time datetime="{{ params.modified | date }}">{{ params.modified | date("d LLLL y") }}</time>
           {% endif %}
 
-          {% if params.header.tags %}
+          {% if params.header.tags | length > 0 %}
             <span aria-hidden="true">•</span>
             Tags:
             {% for tag in params.header.tags %}
