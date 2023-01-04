@@ -12,7 +12,7 @@
       date: page.date,
       modified: modified if modified,
       tag: status,
-      tags: (tags | postTags)
+      tags: (tags | postTags(tagsToIgnore))
     }
   }) %}
   <div class="govuk-grid-row">
@@ -21,6 +21,8 @@
         prose: content
       }) }}
 
+
+      {{ tagsToIgnore | dump }}
       {% for collection in screenshots %}
         {{ appScreenshots(collection) }}
       {% else %}

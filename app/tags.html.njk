@@ -6,7 +6,7 @@ title: Tags
 ---
 
 <ul class="govuk-list govuk-list--bullet">
-  {% for tag in collections | allTags %}
+  {% for tag in collections | allTags(tagsToIgnore) %}
     <li><a href="/tagged/{{ tag | slugify }}">{{ tag }}</a> ({{ collections[tag] | length }})</li>
   {% endfor %}
 </ul>
