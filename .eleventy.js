@@ -110,9 +110,17 @@ module.exports = function (eleventyConfig) {
       if ('tags' in post.data) {
         // Add any new tags from the post to the array
         for (const tag of post.data.tags) {
-          if (!tags.includes(tag)) {
-            tags.push(tag)
+          // skip if already added
+          if (tags.includes(tag)) { continue }
+
+          // check that there’s not a tag which matches it except for capitlisation
+          const existingTag = tags.find(existingTag => existingTag.toLowerCase() === tag.toLowerCase())
+          if (existingTag) {
+            throw new Error('The post "' + post.data.title + '" contains tag "' + tag + '" which matches "' + existingTag + '" but capitalisation is different')
           }
+
+          // otherwise add the new tag
+          tags.push(tag)
         }
       }
     }
