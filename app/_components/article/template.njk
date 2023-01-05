@@ -29,7 +29,7 @@
             <span aria-hidden="true">•</span>
             Tags:
             {% for tag in params.header.tags %}
-              <a href="/tagged/{{ tag | slugify }}" class="govuk-link">{{ tag }}</a>
+              <a href="/tagged/{{ tag | slug }}" class="govuk-link">{{ tag }}</a>
             {% endfor %}
           {% endif %}
         </p>
