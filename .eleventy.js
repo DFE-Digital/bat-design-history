@@ -99,7 +99,6 @@ module.exports = function (eleventyConfig) {
     ])
   })
 
-
   // A collection of reference pages
   eleventyConfig.addCollection('allTags', collectionApi => {
     const posts = collectionApi.getAll()
