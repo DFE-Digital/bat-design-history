@@ -113,6 +113,9 @@ module.exports = function (eleventyConfig) {
     // (TODO: rethink this feature?)
     tags = tags.filter(tag => !tag.match(/[MPAS]N\d{3}/))
 
+    // sort tags alphabetically
+    tags = tags.sort((a, b) => a.localeCompare(b, 'en'))
+
     return tags
   })
 
