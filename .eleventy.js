@@ -92,7 +92,6 @@ module.exports = function (eleventyConfig) {
 
   // A collection of reference pages
   eleventyConfig.addCollection('allTags', collectionApi => {
-
     const posts = collectionApi.getAll()
 
     // Set up empty list of tags
@@ -116,7 +115,6 @@ module.exports = function (eleventyConfig) {
 
     return tags
   })
-
 
   // Config
   return {
