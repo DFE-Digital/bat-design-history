@@ -9,8 +9,10 @@ related:
   items:
     - text: Prompting providers to provide feedback on application list page
       href: /manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/#application-list-ordered-by-priority
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 ---
 
 Currently, if providers fail to respond to applications before the ‘reject by default’ date, candidates won’t get any feedback and providers have a way of not giving feedback.
