@@ -1,7 +1,7 @@
 ---
 layout: tagged
 pagination:
-  data: collections
+  data: collections.allTags
   size: 1
   alias: tag
 permalink: '/tagged/{{ tag | slug }}/'

@@ -32,7 +32,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('tokenize', require('./lib/filters/tokenize'))
   eleventyConfig.addFilter('totalFromRows', require('./lib/filters/total-from-rows'))
   eleventyConfig.addFilter('widont', require('./lib/filters/widont'))
-  eleventyConfig.addFilter('allTags', require('./lib/filters/all-tags'))
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('./app/documents')
@@ -90,6 +89,34 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('reference', collectionApi => {
     return collectionApi.getFilteredByGlob(['app/glossary.md', 'app/mission-patches.md', 'app/service-map.md'])
   })
+
+  // A collection of reference pages
+  eleventyConfig.addCollection('allTags', collectionApi => {
+
+    const posts = collectionApi.getAll()
+
+    // Set up empty list of tags
+    let tags = []
+
+    for (post of posts) {
+      if ('tags' in post.data) {
+        // Add any new tags from the post to the array
+        for (tag of post.data.tags) {
+          if (!tags.includes(tag)) {
+            tags.push(tag)
+          }
+        }
+      }
+    }
+
+    // Filter out any tags in the form of MN999 -
+    // these were used for tagging user needs.
+    // (TODO: rethink this feature?)
+    tags = tags.filter(tag => !tag.match(/[MPAS]N\d{3}/))
+
+    return tags
+  })
+
 
   // Config
   return {
