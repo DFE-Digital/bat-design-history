@@ -4,7 +4,7 @@ description: Allowing international candidates to give details about their resid
 date: 2020-06-24
 tags:
   - international candidates
-  - immigation status
+  - immigration status
   - English language
   - qualifications
 related:
