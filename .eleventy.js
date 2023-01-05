@@ -44,40 +44,52 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true)
 
   // Collections
+
+  // List of service index pages
+  eleventyConfig.addCollection('services', collection => {
+    return collection.getFilteredByGlob([
+      "app/posts/find-teacher-training/find-teacher-training.md",
+      "app/posts/apply-for-teacher-training/apply-for-teacher-training.md",
+      "app/posts/publish-teacher-training-courses/publish-teacher-training-courses.md",
+      "app/posts/manage-teacher-training-applications/manage-teacher-training-applications.md",
+      "app/posts/register-trainee-teachers/register-trainee-teachers.md",
+      "app/posts/support-for-apply/support-for-apply.md",
+      "app/posts/support-for-publish/support-for-publish.md"
+    ])
+  })
+
+  // Collections of posts for each service
   eleventyConfig.addCollection('apply-for-teacher-training', collection => {
-    return collection.getFilteredByTag('apply-for-teacher-training').filter(item => {
-      return !item.data.tags.includes('user-need')
-    })
+    return collection.getFilteredByGlob("app/posts/apply-for-teacher-training/*.md")
+  })
+
+  eleventyConfig.addCollection('find-teacher-training', collection => {
+    return collection.getFilteredByGlob("app/posts/find-teacher-training/*.md")
   })
 
   eleventyConfig.addCollection('manage-teacher-training-applications', collection => {
-    return collection.getFilteredByTag('manage-teacher-training-applications').filter(item => {
-      return !item.data.tags.includes('user-need')
-    })
+    return collection.getFilteredByGlob("app/posts/manage-teacher-training-applications/*.md")
   })
 
   eleventyConfig.addCollection('publish-teacher-training-courses', collection => {
-    return collection.getFilteredByTag('publish-teacher-training-courses').filter(item => {
-      return !item.data.tags.includes('user-need')
-    })
+    return collection.getFilteredByGlob("app/posts/publish-teacher-training-courses/*.md")
   })
 
   eleventyConfig.addCollection('register-trainee-teachers', collection => {
-    return collection.getFilteredByTag('register-trainee-teachers').filter(item => {
-      return !item.data.tags.includes('user-need')
-    })
+    return collection.getFilteredByGlob("app/posts/register-trainee-teachers/*.md")
   })
 
   eleventyConfig.addCollection('support-for-apply', collection => {
-    return collection.getFilteredByTag('support-for-apply').filter(item => {
-      return !item.data.tags.includes('user-need')
-    })
+    return collection.getFilteredByGlob("app/posts/support-for-apply/*.md")
   })
 
   eleventyConfig.addCollection('support-for-publish', collection => {
-    return collection.getFilteredByTag('support-for-publish').filter(item => {
-      return !item.data.tags.includes('user-need')
-    })
+    return collection.getFilteredByGlob("app/posts/support-for-publish/*.md")
+  })
+
+  // A collection of reference pages
+  eleventyConfig.addCollection('reference', collectionApi => {
+    return collectionApi.getFilteredByGlob(["app/glossary.md", "app/mission-patches.md", "app/service-map.md"])
   })
 
   // Config
