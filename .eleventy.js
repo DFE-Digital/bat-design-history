@@ -106,10 +106,10 @@ module.exports = function (eleventyConfig) {
     // Set up empty list of tags
     let tags = []
 
-    for (post of posts) {
+    for (const post of posts) {
       if ('tags' in post.data) {
         // Add any new tags from the post to the array
-        for (tag of post.data.tags) {
+        for (const tag of post.data.tags) {
           if (!tags.includes(tag)) {
             tags.push(tag)
           }
