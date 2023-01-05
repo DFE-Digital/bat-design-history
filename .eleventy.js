@@ -90,6 +90,16 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob(['app/glossary.md', 'app/mission-patches.md', 'app/service-map.md'])
   })
 
+  // A collection of user need pages
+  eleventyConfig.addCollection('user-need', collectionApi => {
+    return collectionApi.getFilteredByGlob([
+      'app/apply-for-teacher-training/user-needs/*.md',
+      'app/posts/manage-teacher-training-applications/user-needs/*.md',
+      'app/posts/publish-teacher-training-courses/user-needs/*.md'
+    ])
+  })
+
+
   // A collection of reference pages
   eleventyConfig.addCollection('allTags', collectionApi => {
     const posts = collectionApi.getAll()
