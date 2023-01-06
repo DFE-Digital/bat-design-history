@@ -2,6 +2,8 @@
 title: Apply again to 3 courses
 description: We changed our policy so that candidates can apply to 3 courses when applying again.
 date: 2022-03-10
+tags:
+  - apply again
 ---
 
 Previously, candidates could apply to one course when applying again.
@@ -56,7 +58,7 @@ Within 7 working days of introducing the policy, 9 candidates had received offer
 
 However, in this same timeframe, we observed that candidates were more likely to be offered a place if they had chosen only one course.
 
-This is possibly because providers sometimes encourage candidates to apply again if their application was rejected by default, so that the provider can then quickly offer the candidate a place.  
+This is possibly because providers sometimes encourage candidates to apply again if their application was rejected by default, so that the provider can then quickly offer the candidate a place.
 
 The statistics will be more useful as time goes on. Providers normally have 40 working days to respond to applications, so we do not have a complete picture yet.
 

@@ -14,8 +14,10 @@ screenshots:
       src: check-answers.png
     - text: Application details
       src: application-details.png
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 ---
 
 <!-- markdownlint-disable MD001 MD025 -->

@@ -2,6 +2,8 @@
 title: Work history and volunteering guidance
 description: Making sure providers get the information they need about a candidate’s (unpaid) work history.
 date: 2020-01-21
+tags:
+  - work history
 screenshots:
   items:
     - Old guidance on work history page

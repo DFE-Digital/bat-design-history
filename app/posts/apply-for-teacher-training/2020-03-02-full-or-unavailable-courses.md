@@ -2,6 +2,8 @@
 title: Stop applications to full or unavailable courses
 description: Prevent them from adding a full course, or submitting with a full course.
 date: 2020-03-02
+tags:
+  - course full
 screenshots:
   items:
     - text: Try to add a course that’s full

@@ -1,5 +1,4 @@
 module.exports = {
-  tags: ['user-need'],
   eleventyNavigation: {
     parent: 'User needs for Support for Apply'
   },

@@ -2,6 +2,8 @@
 title: Moving the personal details section to the top
 description: Encouraging candidates to add their personal details before they choose courses.
 date: 2021-08-17
+tags:
+  - personal details
 ---
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

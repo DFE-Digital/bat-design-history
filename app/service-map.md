@@ -2,7 +2,6 @@
 layout: page
 title: Teacher services map
 description: How the ‘becoming a teacher’  services relate to other services in the teaching journey
-tags: reference
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

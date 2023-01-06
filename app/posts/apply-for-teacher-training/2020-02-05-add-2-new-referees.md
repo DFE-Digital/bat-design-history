@@ -2,6 +2,8 @@
 title: Replace both referees
 description: Let a candidate add 2 new referees.
 date: 2020-02-05
+tags:
+  - references
 screenshots:
   items:
     - text: You need to add 2 new referees

@@ -2,6 +2,9 @@
 title: International address
 description: Initial designs for capturing international addresses.
 date: 2020-02-05
+tags:
+  - international candidates
+  - contact address
 screenshots:
   items:
     - text: Where do you live?

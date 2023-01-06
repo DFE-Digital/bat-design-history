@@ -8,8 +8,10 @@ screenshots:
       src: other-reasons--01.png
     - text: ‘Other reasons for rejection’ page when a reason has been selected on the previous page
       src: other-reasons--02.png
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 ---
 
 When a user rejects an application, they have to say whether or not they want to receive future applications from the candidate.

@@ -2,6 +2,8 @@
 title: Asking if rejection feedback is helpful
 description: How we are experimenting with measuring the usefulness of rejection feedback.
 date: 2022-11-17
+tags:
+  - rejections
 ogImage:
   src: /apply-for-teacher-training/asking-candidates-if-rejection-feedback-is-helpful/is-this-feedback-helpful.png
   alt: "Illustration with the text 'Is this feedback helpful?' and two buttons labelled 'Yes' and 'No'"

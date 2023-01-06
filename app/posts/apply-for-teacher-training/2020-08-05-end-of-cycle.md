@@ -2,6 +2,8 @@
 title: Making the recruitment process transparent at the end of the year
 description: Letting candidates know about courses closing and reopening while encouraging them to pursue their application.
 date: 2020-08-05
+tags:
+  - end of cycle
 ---
 
 Some candidates drop out of the application process over the summer.

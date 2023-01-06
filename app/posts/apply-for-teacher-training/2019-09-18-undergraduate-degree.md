@@ -2,6 +2,8 @@
 title: Asking for an undergraduate degree
 description: Get the most important degree details first.
 date: 2019-09-18
+tags:
+  - qualifications
 screenshots:
   items:
     - Add undergraduate degree

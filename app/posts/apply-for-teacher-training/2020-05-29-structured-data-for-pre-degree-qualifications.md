@@ -2,6 +2,8 @@
 title: Structured data for pre-degree qualifications
 description: Capturing structured answers for GCSE and other pre-degree qualifications.
 date: 2020-05-29
+tags:
+  - qualifications
 screenshots:
   items:
   - text: Add maths GCSE grade 4 (C) or above, or equivalent

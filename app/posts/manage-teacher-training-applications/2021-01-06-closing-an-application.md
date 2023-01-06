@@ -31,8 +31,10 @@ related:
     - text: Reasons for closing an application
       href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
       description: Map of what reasons are available at what stage of the application process
-tags:
+user_needs:
   - AN029
+tags:
+  - withdrawals
 ---
 
 ## Background

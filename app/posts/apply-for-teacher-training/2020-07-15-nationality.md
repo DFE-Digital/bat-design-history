@@ -2,6 +2,8 @@
 title: Asking for nationality
 description: Asking for nationality and getting a structured list of country codes.
 date: 2020-07-15
+tags:
+  - nationality
 ---
 
 As part of [opening up the service to international candidates](/apply-for-teacher-training/international-candidates/), we changed how we ask candidates for their nationality, providing explicit options for British and Irish, and allowing more than 2 nationalities to be entered as free text.

@@ -2,6 +2,8 @@
 title: The summary card component
 description: A design pattern to enable the display of multiple summaries alongside each other.
 date: 2020-03-13
+tags:
+  - summary card
 related:
   items:
     - text: Summary card

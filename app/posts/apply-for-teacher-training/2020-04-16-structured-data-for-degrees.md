@@ -2,6 +2,8 @@
 title: Structured data for degree qualifications
 description: Capturing structured answers for degree qualifications to facilitate reporting to HESA.
 date: 2020-04-16
+tags:
+  - qualifications
 screenshots:
   items:
     - text: Add first degree

@@ -2,6 +2,8 @@
 title: Apply as launched on 26 November 2019
 description: The initial pilot with one provider.
 date: 2019-11-29
+tags:
+  - pilot
 screenshots:
   items:
     - text: Start page

@@ -2,6 +2,8 @@
 title: "Apply again: Accept or decline an offer and withdrawing"
 description: Tweaks to the language used when responding to offers or withdrawing.
 date: 2020-04-29
+tags:
+  - apply again
 screenshots:
   items:
     - text: Accept an offer on an application with multiple choices

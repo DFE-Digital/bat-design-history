@@ -2,6 +2,8 @@
 title: "Apply again: Choose a course first"
 description: Reduce risk of candidates completing a second application for a course that is only available through UCAS.
 date: 2020-04-28
+tags:
+  - apply again
 screenshots:
   items:
     - text: Do you want to apply again?

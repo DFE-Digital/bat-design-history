@@ -2,6 +2,8 @@
 title: Apply again changes
 description: Encouraging candidates to apply again, using feedback from previous applications.
 date: 2021-04-08
+tags:
+  - apply again
 screenshots:
   items:
     - text: Dashboard after clicking Apply again, showing success banner and sections to review

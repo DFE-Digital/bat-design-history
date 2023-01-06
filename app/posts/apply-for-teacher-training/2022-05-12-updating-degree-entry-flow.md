@@ -2,6 +2,8 @@
 title: Changing the order of the initial degree questions
 description: Why we changed the order of questions to improve usability
 date: 2022-05-12
+tags:
+  - qualifications
 ---
 
 ![Diagram showing the start of the old flow, with 2 pages, and the start of the new flow, with 4 pages](degree-flow-changes.png)

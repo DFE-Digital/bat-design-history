@@ -2,6 +2,8 @@
 title: Prompting for feedback throughout the application journey
 description: Inviting candidates to provide feedback on the current page.
 date: 2020-10-30
+tags:
+  - user feedback
 screenshots:
   items:
     - text: Prompt

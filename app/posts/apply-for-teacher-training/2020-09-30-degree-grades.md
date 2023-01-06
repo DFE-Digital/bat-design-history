@@ -2,6 +2,8 @@
 title: Asking for degree grades
 description: Making it easier to enter predicted and international degree grades.
 date: 2020-09-30
+tags:
+  - qualifications
 ---
 
 Having introduced [structured fields for UK degrees](/apply-for-teacher-training/structured-data-for-degrees/) and allowing candidates to enter [international degrees](/apply-for-teacher-training/international-candidates/#international-qualifications), we reviewed the degree section and found some issues with how we ask for grades.

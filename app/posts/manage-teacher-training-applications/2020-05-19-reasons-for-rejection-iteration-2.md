@@ -16,8 +16,10 @@ screenshots:
       src: preview.png
     - text: Step 5 (not interested in future applications)
       src: preview-not-interested.png
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 ---
 
 ## Hypotheses

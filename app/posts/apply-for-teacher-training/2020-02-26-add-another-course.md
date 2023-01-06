@@ -2,6 +2,8 @@
 title: Add another course
 description: Encourage candidates to add more courses at the start.
 date: 2020-02-26
+tags:
+  - selecting courses
 screenshots:
   items:
     - text: Add another course

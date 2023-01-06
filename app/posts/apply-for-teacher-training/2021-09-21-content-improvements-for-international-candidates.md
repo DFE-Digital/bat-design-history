@@ -2,6 +2,9 @@
 title: Content improvements for international candidates
 description: Examples of how to enter international grades, explaining the difference between GCSE English and English as a foreign language qualifications.
 date: 2021-09-21
+tags:
+  - qualifications
+  - international candidates
 ---
 
 When we did user research with international students we found things we could change to improve their experience of applying for courses.

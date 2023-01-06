@@ -2,6 +2,8 @@
 title: Reason for withdrawing
 description: Asking candidates to tell us why they decided to withdraw their application.
 date: 2020-04-22
+tags:
+  - withdrawals
 screenshots:
   items:
     - id: withdraw

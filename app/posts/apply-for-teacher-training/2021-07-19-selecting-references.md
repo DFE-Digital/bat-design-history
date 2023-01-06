@@ -2,6 +2,8 @@
 title: Selecting references
 description: Letting candidates choose which references to submit with their application
 date: 2021-07-19
+tags:
+  - references
 ---
 
 Previously, candidates were unable to choose which 2 references would be sent with their application to providers. They would request several references and whichever 2 they received first would be sent with their application.
