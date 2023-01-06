@@ -8,7 +8,7 @@
 {% block main %}
 
 
-  {% set items = collections[tag] %}
+  {% set items = collections[tag] | reverse %}
 
   <div class="govuk-width-container">
     {% block beforeContent %}
