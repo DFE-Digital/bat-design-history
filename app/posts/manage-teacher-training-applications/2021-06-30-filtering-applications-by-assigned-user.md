@@ -12,6 +12,9 @@ screenshots:
       src: filter-by-assigned-user-inline-filter-selected-users.png
     - text: Filter for long with JavaScript unavailable
       src: filter-by-assigned-user-inline-filter-no-javascript.png
+tags:
+  - assigning applications
+  - filtering
 ---
 
 This is part of our work to [allow users to assign applications to themselves or other users](/manage-teacher-training-applications/assigning-applications-to-users).

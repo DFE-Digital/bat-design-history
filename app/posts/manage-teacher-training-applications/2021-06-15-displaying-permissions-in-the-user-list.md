@@ -5,6 +5,8 @@ date: 2021-06-15
 screenshots:
   items:
     - User list
+tags:
+  - user permissions
 ---
 
 At the moment, the user list page only shows the name and email address of each colleague. To view permissions, the user needs to click through to the details page.

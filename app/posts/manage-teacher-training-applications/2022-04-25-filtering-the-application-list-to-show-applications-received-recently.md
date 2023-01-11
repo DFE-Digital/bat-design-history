@@ -2,8 +2,10 @@
 title: Filtering the application list to show applications which were received recently
 description: We added a ‘date received’ filter category to help users find new applications.
 date: 2022-04-25
-tags:
+user_needs:
   - MN030
+tags:
+  - filtering
 screenshots:
   items:
     - text: Overview

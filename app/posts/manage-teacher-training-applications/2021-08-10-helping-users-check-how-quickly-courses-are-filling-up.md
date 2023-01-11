@@ -2,8 +2,10 @@
 title: Helping users check how quickly courses are filling up
 description: Various small changes to get the design of the reports area ready for an initial release
 date: 2021-08-10
-tags:
+user_needs:
   - MN027
+tags:
+  - reports
 screenshots:
   items:
     - text: Reports landing page
@@ -69,6 +71,6 @@ By changing the name of the status report to ‘status of active applications’
 
 The user can access a separate application status report for each organisation they belong to. If they belong to multiple organisations, each one will have an h2 heading with the report underneath.
 
-In the previous version of this work, we also provided separate application data and HESA exports for each organisation. 
+In the previous version of this work, we also provided separate application data and HESA exports for each organisation.
 
 For the intial release, we returned these exports to work across all organisations the user belongs to. We plan to change this later.

@@ -8,6 +8,8 @@ screenshots:
     - Your personal details
     - Your user permissions
     - Your email notifications
+tags:
+  - user interface
 ---
 
 We currently have the following sections within ‘your account’:

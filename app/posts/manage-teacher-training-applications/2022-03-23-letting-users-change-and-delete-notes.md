@@ -18,6 +18,8 @@ screenshots:
       src: notes--note-deleted.png
     - text: Timeline showing that a note has been deleted
       src: timeline--note-deleted.png
+tags:
+  - notes
 ---
 
 We know that some users want to:

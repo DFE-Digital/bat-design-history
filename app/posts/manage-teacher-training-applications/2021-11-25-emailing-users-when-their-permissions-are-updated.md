@@ -2,6 +2,9 @@
 title: Emailing users when their permissions are updated
 description: Adding a new email notification which is sent when a user’s permissions are updated.
 date: 2021-11-25
+tags:
+  - emails
+  - user permissions
 ---
 
 {% from "email/macro.njk" import appEmail %}

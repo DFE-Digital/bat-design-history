@@ -18,6 +18,8 @@ screenshots:
     - text: Check answers (after offer)
       src: check-answers--offered.png
     - text: Feedback
+tags:
+  - withdrawals
 ---
 
 At the moment we only let users withdraw an application at the candidate’s request.

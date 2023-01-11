@@ -7,6 +7,8 @@ screenshots:
     - Offline
     - Online
     - JavaScript unavailable
+tags:
+  - online chat
 ---
 
 UCAS provides users with email and phone support. Our service only provides email.

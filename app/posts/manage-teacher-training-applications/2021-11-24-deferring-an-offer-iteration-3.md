@@ -14,6 +14,8 @@ screenshots:
       src: timeline.png
     - text: Activity log
       src: activity-log.png
+tags:
+  - deferring
 ---
 
 We made improvements to the confirmation page which users see when they [defer an offer](/manage-teacher-training-applications/deferring-offers-iteration).

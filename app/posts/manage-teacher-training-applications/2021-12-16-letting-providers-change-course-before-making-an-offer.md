@@ -20,6 +20,8 @@ screenshots:
       src: timeline--course-changed.png
     - text: Activity log - course updated
       src: activity-log--course-changed.png
+tags:
+  - making an offer
 ---
 
 Currently providers can make an offer for a different course to the one which a candidate applied for. They cannot change the course before they make an offer.

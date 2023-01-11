@@ -6,6 +6,8 @@ related:
   items:
     - text: Research findings slides
       href: https://docs.google.com/presentation/d/1-NNXVPR68PbK84pU8yMmFpOZcRyJDPYdpdw3WNuYMxU/edit#slide=id.p3
+tags:
+  - fraud
 ---
 
 We wanted to understand what providers expect the DfE to do in instances of fraud. This will feed into policies for dealing with fraudulent applications.

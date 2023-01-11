@@ -16,6 +16,8 @@ screenshots:
       src: change.png
     - text: Changing interview details - check answers
       src: change--check.png
+tags:
+  - interviews
 ---
 
 A lot of users get an error message when they enter an interview time. A significant number of users have to try again more than once.

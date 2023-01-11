@@ -2,6 +2,8 @@
 title: Require users to choose an organisation before changing organisation settings
 description: Users will only be able to change organisational permissions and user settings for one organisation at a time
 date: 2021-05-17
+tags:
+  - user permissions
 screenshots:
   - title: "Screenshots: organisation settings"
     items:

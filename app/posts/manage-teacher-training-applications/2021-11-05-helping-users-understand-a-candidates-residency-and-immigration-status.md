@@ -10,6 +10,8 @@ screenshots:
       src: candidate-residency-and-immigration-02.png
     - text: Candidates who are not British or Irish and do not have the right to work or study in the UK
       src: candidate-residency-and-immigration-03.png
+tags:
+  - immigration status
 ---
 
 Providers need information about the residency and immigration status of candidates.

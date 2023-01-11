@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Data shown to research participants
       src: spreadsheet-example.png
+tags:
+  - reports
 ---
 
 Users need to see data about the applications they receive.

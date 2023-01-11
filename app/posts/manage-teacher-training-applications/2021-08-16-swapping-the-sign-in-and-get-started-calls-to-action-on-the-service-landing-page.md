@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Before
     - text: After
+tags:
+  - start page
 ---
 
 The service landing page is the first page the user comes to when using the service.

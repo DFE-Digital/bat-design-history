@@ -10,6 +10,8 @@ screenshots:
       src: start-page.png
     - text: Start page (user belongs to multiple organisations)
       src: start-page--multi-org.png
+tags:
+  - user permissions
 ---
 
 {% from "email/macro.njk" import appEmail %}

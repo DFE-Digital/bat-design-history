@@ -12,6 +12,8 @@ screenshots:
       src: user-details.png
     - text: Your permissions page
       src: your-permissions.png
+tags:
+  - user permissions
 ---
 
 This work builds on the work we do to [simplify how we ask about and display permissions](/manage-teacher-training-applications/simplifying-how-we-ask-about-and-display-permissions/).

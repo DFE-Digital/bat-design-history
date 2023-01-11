@@ -2,6 +2,8 @@
 title: Guidance about references when making an offer
 description: We added information about the new references process and how to tell candidates about further reference conditions.
 date: 2022-10-28
+tags:
+  - references
 ogImage:
   src: /manage-teacher-training-applications/making-offer-references/conditions-of-offer-references.png
   alt: "Illustration with the text: "Conditions of Offer: References""

@@ -14,6 +14,8 @@ screenshots:
       src: courses-by-status-report--filtered.png
     - text: Candidate nationality report with filter
       src: candidate-nationality-report.png
+tags:
+  - reports
 ---
 
 In previous research we showed participants a [spreadsheet of data about courses and candidates](/manage-teacher-training-applications/finding-out-what-data-our-users-need/) to find out what data they would find useful.
@@ -80,7 +82,7 @@ If these designs go into production, we may reconsider this decision as it may b
 
 Users can download the data they’re viewing using a link underneath the data table.
 
-We had previously considered making the data available as a download only. We decided to design on-screen reports because: 
+We had previously considered making the data available as a download only. We decided to design on-screen reports because:
 
 - it’s easier to filter and see results on-page rather than downloading a new spreadsheet each time
 - users will be able to access data without needing spreadsheet software

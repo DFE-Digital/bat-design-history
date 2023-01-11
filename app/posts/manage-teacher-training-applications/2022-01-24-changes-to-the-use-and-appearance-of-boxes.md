@@ -2,6 +2,8 @@
 title: Changes to the use and appearance of boxes
 description: We removed boxes from some flows in the service and changed all boxes to  have the same border thickness.
 date: 2022-01-24
+tags:
+  - graphic design
 ---
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

@@ -2,6 +2,8 @@
 title: Improving organisational and user permissions
 description: Changes throughout the set up and manage journeys for organisational and user permissions.
 date: 2021-04-27
+tags:
+  - user permissions
 ---
 
 We have made several improvements to the design for organisational permissions and user management.

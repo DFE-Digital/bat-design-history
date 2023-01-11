@@ -2,6 +2,8 @@
 title: Changing what we show to users who do not have permissions
 description: Improving how we deal with users who do not have permissions and improving the layout of the sex, disability and ethnicity section of the application
 date: 2021-09-02
+tags:
+  - user permissions
 ---
 
 As part of our recent work on permissions, we added messages telling users why they could not manage users or manage organisation permissions.

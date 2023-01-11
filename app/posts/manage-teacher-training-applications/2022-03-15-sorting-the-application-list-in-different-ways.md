@@ -10,8 +10,10 @@ screenshots:
       src: application-list--most-recently-updated-sort.png
     - text: Application list sorted by least recently updated
       src: application-list--least-recently-updated-sort.png
-tags:
+user_needs:
   - MN021
+tags:
+  - applications overview
 ---
 
 At the moment [the application list is sorted by priority](/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/). We gather applications under headings such as:

@@ -2,8 +2,10 @@
 title: Helping users check how diverse their candidates are
 description: We created a report showing the sex, disability, ethnicity and age of candidates who apply to a provider and are recruited by them
 date: 2021-09-07
-tags:
+user_needs:
   - MN029
+tags:
+  - equality and diversity
 screenshots:
   items:
     - text: Reports landing page

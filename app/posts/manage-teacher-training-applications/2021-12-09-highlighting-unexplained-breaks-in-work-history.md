@@ -2,8 +2,10 @@
 title: Highlighting unexplained breaks in work history
 description: Instead of highlighting all breaks, we’ll now just highlight unexplained breaks.
 date: 2021-12-09
-tags:
+user_needs:
   - MN025
+tags:
+  - work history
 screenshots:
   items:
     - text: Application details

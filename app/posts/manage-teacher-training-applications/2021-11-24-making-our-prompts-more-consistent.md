@@ -28,6 +28,8 @@ screenshots:
       src: confirm-deferred-offer.png
     - text: Confirm deferred offer (without permission to make offers and reject applications)
       src: confirm-deferred-offer--no-permission.png
+tags:
+  - user interface
 ---
 
 We made the content used in prompts more consistent.

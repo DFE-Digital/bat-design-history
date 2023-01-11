@@ -2,6 +2,8 @@
 title: Self-service registration for higher education institutions and their school direct partners
 description: Exploring ways to help higher education institutions register and invite their school direct partners to use the Manage service
 date: 2021-03-18
+tags:
+  - user management
 ---
 
 We explored ways to help higher education institutions (HEIs) register to use Manage and invite their school direct partners (SDs) to register.

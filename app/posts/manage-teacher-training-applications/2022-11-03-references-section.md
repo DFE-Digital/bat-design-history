@@ -2,6 +2,8 @@
 title: Adding a new page for references
 description: We moved information about references out from the application page onto a new references page
 date: 2022-11-03
+tags:
+  - references
 ogImage:
   src: /manage-teacher-training-applications/references-section/references-tab.png
   alt: "Illustration with the heading 'References' and a box containing 'Name', 'Email address' and 'How the candidate knows them and how long for'"

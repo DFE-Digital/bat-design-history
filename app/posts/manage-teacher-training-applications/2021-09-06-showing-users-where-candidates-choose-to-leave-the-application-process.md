@@ -10,6 +10,8 @@ screenshots:
       src: reports-landing-page--multiple-organisations.png
     - text: Where candidates choose to leave the application process report
       src: candidate-drop-out-report-iteration.png
+tags:
+  - reports
 ---
 
 This work follows on from our design of a report to [help users check how candidates drop out of the application process](/manage-teacher-training-applications/helping-users-check-how-candidates-drop-out-of-the-application-process/).

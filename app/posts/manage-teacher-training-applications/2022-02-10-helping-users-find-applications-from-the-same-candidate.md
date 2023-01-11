@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Other applications
       src: other-applications.png
+tags:
+  - applications overview
 ---
 
 Research on [replacing the reference number and candidate ID with the application number](/manage-teacher-training-applications/replacing-reference-number-and-candidate-id-with-application-number/) shows that users need to be able to find all applications for a candidate.

@@ -5,6 +5,8 @@ date: 2021-08-17
 screenshots:
   items:
     - text: HESA export page
+tags:
+  - reports
 ---
 
 The service only lets users download HESA data for the current recruitment cycle. The data becomes unavailable once a new cycle starts.

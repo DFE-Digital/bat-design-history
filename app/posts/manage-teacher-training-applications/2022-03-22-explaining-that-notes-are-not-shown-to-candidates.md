@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Explaining on the notes page that notes are not shown to candidates
       src: notes--explaining-notes-private.png
+tags:
+  - notes
 ---
 
 Research shows that some users are hesitant to add a note because they’re not sure if it’ll be sent to the candidate.

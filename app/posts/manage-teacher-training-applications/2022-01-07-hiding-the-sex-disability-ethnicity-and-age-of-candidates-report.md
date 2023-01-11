@@ -2,6 +2,8 @@
 title: Hiding the sex, disability, ethnicity and age of candidates report
 description: Protecting the identity of candidates by hiding the sex, disability, ethnicity and age of candidates report until a provider has received applications from 10 candidates.
 date: 2022-01-07
+tags:
+  - reports
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 

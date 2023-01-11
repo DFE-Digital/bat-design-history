@@ -2,6 +2,8 @@
 title: Gathering school direct contact details from higher education institutions
 description: Using a spreadsheet to help higher education institutions invite their school direct partners to use  Manage
 date: 2021-04-08
+tags:
+  - user management
 ---
 
 We’ve been looking at ways to help higher education institutions (HEIs) to:

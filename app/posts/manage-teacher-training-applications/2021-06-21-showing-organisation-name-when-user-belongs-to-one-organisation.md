@@ -9,6 +9,8 @@ screenshots:
     - User details
     - New user
     - Edit user
+tags:
+  - user interface
 ---
 
 We previously decided to [only show which organisation the user selected if they belong to more than one organisation](/manage-teacher-training-applications/require-users-to-choose-an-organisation-before-changing-organisation-settings/#users).

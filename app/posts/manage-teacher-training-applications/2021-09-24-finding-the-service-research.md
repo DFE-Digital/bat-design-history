@@ -6,9 +6,11 @@ related:
   items:
     - text: Research findings slides
       href: https://docs.google.com/presentation/d/1RWVUSnBpHkTpc3weWkDbY9cOTvHvWPqnj5czxjvgFyc/edit#slide=id gdce1a792ed_0_12
+tags:
+  - start page
 ---
 
-We wanted to understand how providers currently find the service. 
+We wanted to understand how providers currently find the service.
 
 We also wanted to learn whether they have any need for a landing page collecting together services and information from the DfE.
 
@@ -56,4 +58,4 @@ Participants belonging to multiple organisations with multiple email addresses w
 
 ### Needs for a landing page
 
-The only user need we found for a landing page is for users to be able to access all the related services. Participants wanted to be able to access the service they require with the minimum of effort. 
+The only user need we found for a landing page is for users to be able to access all the related services. Participants wanted to be able to access the service they require with the minimum of effort.

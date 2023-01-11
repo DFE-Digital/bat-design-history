@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Notes
       src: notes.png
+tags:
+  - notes
 ---
 
 We recently gave users a way to [change and delete notes](/manage-teacher-training-applications/letting-users-change-and-delete-notes/). We’ve made further changes and clarified how notes should work.

@@ -2,6 +2,8 @@
 title: Providing status and progress reports alongside data exports
 description: We created 2 reports to meet some of our users’ most common needs and put links to them in a section with data exports
 date: 2021-06-09
+tags:
+  - reports
 ---
 
 This follows on from work we did to [provide a single configurable report](/manage-teacher-training-applications/providing-a-configurable-course-report-and-showing-important-data-in-one-place/).
@@ -25,7 +27,7 @@ We combined the reports and data exports into one section, where users can find 
 
 All users can view these reports for the organisations they belong to. No permissions are required.
 
-The reports are broken down by course. We include every course, even if it currently has no applications. We show the partner organisation for each course if there is one. 
+The reports are broken down by course. We include every course, even if it currently has no applications. We show the partner organisation for each course if there is one.
 
 An export button for each report allows users to download a CSV file.
 
@@ -47,13 +49,13 @@ We combined these into one section because:
 
 ![Reports landing page – single organisation](reports-landing-page--single-organisation.png)
 
-Users who belong to multiple organisations see a set of links for each organisation. For example, each organisation they belong to has its own report for progress of applications. 
+Users who belong to multiple organisations see a set of links for each organisation. For example, each organisation they belong to has its own report for progress of applications.
 
 ![Reports landing page – multiple organisations](reports-landing-page--multiple-organisations.png)
 
 ### Status of applications report
 
-This report shows the status of all applications to each course in the current recruitment cycle. 
+This report shows the status of all applications to each course in the current recruitment cycle.
 
 ![Figure 2: Status of applications report](status-of-applications-report.png)
 
@@ -68,7 +70,7 @@ This report shows how many applications have moved between certain statuses. The
 - accepted offers which led to the candidate being ready to enroll
 - applications which led to the candidate being ready to enroll
 
-The report includes both the number of applications and a percentage for each status change. 
+The report includes both the number of applications and a percentage for each status change.
 
 The percentage is not always calculated based on total applications. For example, ‘interviews which led to offers’ shows a percentage based on the number of applications which reached the interviewing status.
 
@@ -87,9 +89,9 @@ Previously, the ‘Export data’ link went directly to the application data exp
 
 Now that there’s a ‘Reports’ landing page, users can reach the HESA data export directly.
 
-In addition, there are now separate application data and HESA export pages for each organisation. 
+In addition, there are now separate application data and HESA export pages for each organisation.
 
-We therefore made content changes, including: 
+We therefore made content changes, including:
 
 - adding a caption with the organisation name to both data export pages
 - removing the link to the HESA export from the application data export page
