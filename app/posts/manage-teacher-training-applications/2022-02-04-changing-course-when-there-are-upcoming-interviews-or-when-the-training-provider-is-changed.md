@@ -12,6 +12,8 @@ screenshots:
       src: check-answers--change-of-training-provider.png
     - text: Check answers page (upcoming interviews and a change of training provider)
       src: check-answers--upcoming-interviews-change-of-training-provider.png
+tags:
+  - interviews
 ---
 
 We recently designed a new flow to [let providers change the course before making an offer](https://bat-design-history.netlify.app/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/).

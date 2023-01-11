@@ -45,6 +45,8 @@ screenshots:
     items:
       text: User permissions
       src: account--user-permissions.png
+tags:
+  - user permissions
 ---
 
 We made three changes which we wanted to test with users.

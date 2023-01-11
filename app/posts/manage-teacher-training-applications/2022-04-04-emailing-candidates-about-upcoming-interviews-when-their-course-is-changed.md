@@ -2,6 +2,9 @@
 title: Emailing candidates about upcoming interviews when their course is changed
 description: We’ll send candidates an email with updated interview details if a user changes the subject or training provider for their course.
 date: 2022-04-04
+tags:
+  - interviews
+  - emails
 ---
 
 {% from "email/macro.njk" import appEmail %}

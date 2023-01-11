@@ -2,6 +2,8 @@
 title: Emailing users who are added to or removed from an organisation
 description: We improved the email sent to users when they’re added to an organisation and created one to send when users are removed
 date: 2021-09-10
+tags:
+  - emails
 ---
 
 {% from "email/macro.njk" import appEmail %}

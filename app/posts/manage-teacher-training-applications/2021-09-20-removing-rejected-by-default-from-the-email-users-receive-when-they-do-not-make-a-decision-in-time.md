@@ -2,6 +2,9 @@
 title: Removing ‘rejected by default’ from the email users receive when they do not make a decision in time
 description: We removed the term ‘rejected by default’ and made other improvements to the email about automatic rejection
 date: 2021-09-20
+tags:
+  - emails
+  - automatic rejection
 ---
 
 {% from "email/macro.njk" import appEmail %}

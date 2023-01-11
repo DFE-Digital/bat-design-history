@@ -8,6 +8,8 @@ screenshots:
       src: how-to-use-this-service.png
     - text: Dates and deadlines
       src: dates-and-deadlines.png
+tags:
+  - guidance
 ---
 
 We currently have a page of guidance about how to use the service, but it covers a lot of topics and is hard to read. It’s also out of date.

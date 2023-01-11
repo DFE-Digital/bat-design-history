@@ -12,8 +12,10 @@ screenshots:
       src: reason-for-rejection-cannot-sponsor-visa-02.png
     - text: Application feedback
       src: reason-for-rejection-cannot-sponsor-visa-03.png
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 ---
 
 We have added ‘cannot sponsor visa’ as a reason for rejection.

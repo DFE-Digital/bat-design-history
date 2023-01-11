@@ -6,6 +6,8 @@ screenshots:
   items:
     - Activity log
     - Timeline
+tags:
+  - activity log
 ---
 
 When we designed the [interview journeys](/manage-teacher-training-applications/interviews-iteration-3/) we realised the activity log and timeline need to handle events relating to things that can be changed or deleted.

@@ -6,6 +6,8 @@ related:
   items:
     - text: Research findings slides
       href: https://docs.google.com/presentation/d/17ru6auwHbwiLT09Ge7dMrSUGEJ2jqHAxKsPisbjp4f0/edit#slide=id.p3
+tags:
+  - reports
 ---
 
 We had already carried out research into two new reports showing:

@@ -2,6 +2,9 @@
 title: Telling users when a partner organisation sets permissions
 description: Sending an email to users when their partner organisation sets up permissions for the first time or changes them
 date: 2021-07-12
+tags:
+  - user management
+  - user permissions
 ---
 {% from "email/macro.njk" import appEmail %}
 

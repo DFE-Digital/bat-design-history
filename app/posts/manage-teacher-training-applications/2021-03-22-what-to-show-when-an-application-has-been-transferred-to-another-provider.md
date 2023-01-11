@@ -6,6 +6,8 @@ related:
   items:
     - text: Spreadsheet explaining who can see what and why
       href: https://docs.google.com/spreadsheets/d/1X7WpeElTngGI41eQ8rDselJQVgOB_u8JZmJFo_F0OMU/edit#gid=0
+tags:
+  - transferring applications
 ---
 
 {% from "email/macro.njk" import appEmail %}

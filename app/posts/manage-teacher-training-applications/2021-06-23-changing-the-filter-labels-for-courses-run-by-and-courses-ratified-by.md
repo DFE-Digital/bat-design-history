@@ -13,6 +13,8 @@ screenshots:
     - text: Application list (belongs to a training provider and accredited body)
       caption: "In this set up the user belongs to Endeavour TSA who has 6 accredited body partners one of which is Essex Teacher Training. The user also belongs to Essex Teacher Training who run their own courses and ratify courses for Academies Enterprise Trust: Eastern."
       src: application-list--both.png
+tags:
+  - filtering
 ---
 
 For the recent changes to permissions, we’ve [stopped using the words ‘ratified by’ or ‘run by’](/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/#no-longer-distinguishing-between-the-training-provider-and-accredited-body-within-a-relationship).

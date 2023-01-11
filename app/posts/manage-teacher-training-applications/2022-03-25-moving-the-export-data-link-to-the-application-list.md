@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Application list with export data link
       src: application-list--export-data-link.png
+tags:
+  - reports
 ---
 
 At the moment, users have to navigate to the reports section before they can [export applications](/manage-teacher-training-applications/providing-status-and-progress-reports-alongside-data-exports/#data-exports).

@@ -2,8 +2,10 @@
 title: Reasons for rejection iteration 5
 description: Changing the categorisation, content and interaction of selecting reasons for rejection.
 date: 2021-10-04
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 screenshots:
   items:
     - text: Reasons closed

@@ -2,11 +2,13 @@
 title: Providing a configurable course report and showing important data in one place
 description: We let users choose the rows and columns of a course report and also created a page showing important data
 date: 2021-05-20
+tags:
+  - reports
 ---
 
 This builds on work we did to [show data about applications and candidates](/manage-teacher-training-applications/showing-users-data-about-applications-and-candidates/).
 
-We found that some research participants had trouble working out which data report they needed. For this iteration we’ve made that decision easier but still give users access to a wide range of data. 
+We found that some research participants had trouble working out which data report they needed. For this iteration we’ve made that decision easier but still give users access to a wide range of data.
 
 ## What we did
 
@@ -41,7 +43,7 @@ If we develop this design further, we’ll need to address how to display course
 
 ![Default courses report showing the number of applications per course](configurable-course-report-01.png)
 
-Users can click ‘change report settings’ to enter the configuration flow. Here they can choose a dimension of data to form the columns of the report. 
+Users can click ‘change report settings’ to enter the configuration flow. Here they can choose a dimension of data to form the columns of the report.
 
 The options are:
 
@@ -58,13 +60,13 @@ After choosing, the user can either view the report or ‘split data further’ 
 
 ![Choosing what should be in the columns in the report](configurable-course-report-02.png)
 
-If the user does not split the data further, they see a report with the data they selected in the columns. 
+If the user does not split the data further, they see a report with the data they selected in the columns.
 
 In the example shown here, the user has chosen to have training provider in the columns. This is indicated in the ‘Settings’ section of the filter.
 
 ![Configured report showing a section containing filters and the content broken down by the user’s chosen dimension - in this case, training provider](configurable-course-report-03.png)
 
-If the user does split the data further, they can choose up to 2 more dimensions. 
+If the user does split the data further, they can choose up to 2 more dimensions.
 
 These additional dimensions will be displayed in the report by:
 
@@ -89,7 +91,7 @@ Adding additional dimensions allows users to create reports meeting needs such a
 Using the filter displayed alongside the report, the user can:
 
 - remove the dimensions which they chose
-- apply filters to the dimensions being shown  
+- apply filters to the dimensions being shown
 
 For example, if one of the dimensions is status then the user can filter to only see certain statuses.
 

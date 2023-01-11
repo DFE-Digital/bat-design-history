@@ -5,6 +5,8 @@ date: 2021-12-01
 screenshots:
   items:
     - text: Application details page
+tags:
+  - personal statement
 ---
 
 The candidate team changed the personal statement questions from:

@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Applications list
       src: applications-list.png
+tags:
+  - complaints
 ---
 
 The candidate service recently removed their complaints form because:

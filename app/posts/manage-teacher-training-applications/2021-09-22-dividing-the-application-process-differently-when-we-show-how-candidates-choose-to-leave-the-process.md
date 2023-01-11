@@ -2,8 +2,10 @@
 title: Dividing the application process differently when we show how candidates choose to leave the process
 description: We improved the ‘candidate drop out’ report to better reflect how users think about the application process
 date: 2021-09-22
-tags:
+user_needs:
   - MN028
+tags:
+  - reports
 screenshots:
   items:
     - text: Reports landing page

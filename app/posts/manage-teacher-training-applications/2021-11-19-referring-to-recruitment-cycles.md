@@ -11,6 +11,8 @@ related:
   items:
     - text: Proposal document
       href: https://docs.google.com/document/d/1IUjvjBTVD8SEoQ_OPrj_-C4FCGUR4l-uG7O5YVTDpb0/edit#heading=h.zgp75gcsaiv6
+tags:
+  - recruitment cycles
 ---
 
 At the moment we’re inconsistent in how we refer to recruitment cycles.

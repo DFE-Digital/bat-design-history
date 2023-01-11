@@ -2,6 +2,8 @@
 title: Making references an offer condition
 description: Exploring how providers could request and review references after a candidate accepts an offer.
 date: 2022-06-28
+tags:
+  - references
 screenshots:
   items:
     - text: Add offer conditions

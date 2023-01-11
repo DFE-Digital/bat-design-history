@@ -2,9 +2,11 @@
 title: Only showing filters that return useful results
 description: We set rules for when individual filters, categories of filters and the filter panel should appear.
 date: 2022-03-19
-tags:
+user_needs:
   - MN021
   - MN014
+tags:
+  - filtering
 ---
 
 At the moment, we show filters in the application list even if they return no results.

@@ -12,8 +12,10 @@ screenshots:
       src: accredited-body--locations.png
     - text: User who belongs to a training provider and accredited body
       src: multi-org.png
-tags:
+user_needs:
   - MN021
+tags:
+  - applications overview
 ---
 
 We recently gave users [a way to compare and process applications across partner organisations](/manage-teacher-training-applications/comparing-and-processing-applications-across-partner-organisations/).

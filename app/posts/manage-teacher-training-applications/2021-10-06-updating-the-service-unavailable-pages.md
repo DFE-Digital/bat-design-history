@@ -8,6 +8,8 @@ screenshots:
       src: problem-with-the-service-page.png
     - text: The service is offline for planned maintenance
       src: service-unavailable-page.png
+tags:
+  - service unavailable
 ---
 
 We updated the service unavailable pages used when:

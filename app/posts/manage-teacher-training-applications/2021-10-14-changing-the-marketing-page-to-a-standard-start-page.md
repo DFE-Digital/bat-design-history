@@ -5,6 +5,8 @@ date: 2021-10-14
 screenshots:
   items:
     - text: Start page
+tags:
+  - start page
 ---
 
 Since the UCAS application service has been switched off, some of the content on the [marketing page](/manage-teacher-training-applications/marketing-page-for-providers/) is no longer relevant.

@@ -2,6 +2,8 @@
 title: Unassigning applications when a user is deleted
 description: Letting the signed in user know that applications will be unassigned if they delete a user from an organisation
 date: 2021-07-07
+tags:
+  - assigning applications
 ---
 
 This is part of the work to [let users assign applications to themselves or other users](/manage-teacher-training-applications/assigning-applications-to-users/).

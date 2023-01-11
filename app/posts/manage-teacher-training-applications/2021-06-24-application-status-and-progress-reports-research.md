@@ -16,6 +16,8 @@ screenshots:
       src: progress-report--short-headings.png
     - text: Application progress report with longer headings
       src: progress-report--long-headings.png
+tags:
+  - application status
 ---
 
 In the previous round of research, we tested a way of allowing users to configure their own data reports.

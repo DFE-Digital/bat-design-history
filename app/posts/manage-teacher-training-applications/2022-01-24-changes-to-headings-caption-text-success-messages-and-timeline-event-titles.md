@@ -2,6 +2,8 @@
 title: Changes to headings, caption text, success messages and timeline event titles
 description: We changed headings, caption text, success messages and timeline event titles within many flows of the service.
 date: 2022-01-24
+tags:
+  - user interface
 ---
 
 We reviewed the headings, caption text, success messages and timeline events we use in each flow within the service. This was part of an audit which also included:

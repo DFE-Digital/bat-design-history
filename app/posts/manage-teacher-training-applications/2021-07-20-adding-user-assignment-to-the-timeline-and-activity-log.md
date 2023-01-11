@@ -8,6 +8,9 @@ screenshots:
       src: application-assignment-timeline.png
     - text: Activity log
       src: application-assignment-activity-log.png
+tags:
+  - assigning applications
+  - activity log
 ---
 
 This is part of [letting users assign applications to themselves or other users](/manage-teacher-training-applications/assigning-applications-to-users/).

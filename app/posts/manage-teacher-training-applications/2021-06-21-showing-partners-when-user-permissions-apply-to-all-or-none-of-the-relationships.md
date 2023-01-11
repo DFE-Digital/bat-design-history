@@ -6,6 +6,8 @@ screenshots:
   items:
     - User details
     - User permissions form
+tags:
+  - user permissions
 ---
 
 To give users less to read, [we stopped spelling out the partners when the permissions apply to all or none of the relationships](/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/#making-the-descriptions-more-concise-when-all-or-none-of-the-permissions-are-applicable).

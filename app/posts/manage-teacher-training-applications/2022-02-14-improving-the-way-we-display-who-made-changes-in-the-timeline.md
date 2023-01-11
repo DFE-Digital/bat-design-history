@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Timeline
     - text: Activity log
+tags:
+  - activity log
 ---
 
 The way we display who made changes in the timeline is misleading and complicated. For example:

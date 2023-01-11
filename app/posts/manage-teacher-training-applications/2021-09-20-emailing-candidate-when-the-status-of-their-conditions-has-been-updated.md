@@ -2,6 +2,9 @@
 title: Emailing a candidate when the status of their conditions has been updated
 description: Telling a candidate when the provider changes the status of offer conditions to met or pending
 date: 2021-09-20
+tags:
+  - emails
+  - notifications
 ---
 
 {% from "email/macro.njk" import appEmail %}

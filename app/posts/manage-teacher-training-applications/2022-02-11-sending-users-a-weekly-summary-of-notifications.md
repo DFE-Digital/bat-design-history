@@ -5,6 +5,8 @@ date: 2022-02-11
 screenshots:
   items:
     - text: Email notification settings
+tags:
+  - notifications
 ---
 
 {% from "email/macro.njk" import appEmail %}

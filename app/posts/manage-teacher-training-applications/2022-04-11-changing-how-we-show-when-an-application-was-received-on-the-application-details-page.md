@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Application details
       src: application-details.png
+tags:
+  - application details
 ---
 
 We changed ‘Submitted’ to ‘Date received’ in the application details.

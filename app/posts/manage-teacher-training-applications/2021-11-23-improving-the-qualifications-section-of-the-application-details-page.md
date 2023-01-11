@@ -6,6 +6,8 @@ related:
   items:
     - text: Making it clearer that a candidate has chosen not to add A levels and other qualifications
       href: /manage-teacher-training-applications/making-it-clearer-that-a-candidate-has-chosen-not-to-add-a-levels-and-other-qualifications/
+tags:
+  - qualifications
 ---
 
 Providers check a candidate’s qualifications when assessing their application, particularly in the early ‘sift’ to check that the candidate meets the minimum requirements of the course.

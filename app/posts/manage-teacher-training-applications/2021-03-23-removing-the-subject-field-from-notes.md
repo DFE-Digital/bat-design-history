@@ -6,6 +6,8 @@ screenshots:
   items:
     - Add note
     - Notes page with success message
+tags:
+  - notes
 ---
 
 A note is currently made up of a subject and a message. The reason for having the subject was so that it could be [squeezed into the application list](/manage-teacher-training-applications/sorting-by-rbd-date/#sorting-by-last-changed-default).

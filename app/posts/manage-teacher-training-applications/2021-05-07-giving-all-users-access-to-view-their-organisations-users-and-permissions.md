@@ -2,6 +2,8 @@
 title: Giving all users access to view their organisation’s users and permissions
 description: Giving all users the ability to view their organisation’s users and permissions regardless of their own permissions
 date: 2021-05-07
+tags:
+  - user permissions
 ---
 
 At the moment, users need to have:

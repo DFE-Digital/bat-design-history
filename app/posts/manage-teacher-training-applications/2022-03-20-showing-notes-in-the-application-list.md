@@ -8,9 +8,11 @@ screenshots:
       src: application-list--filter-has-notes.png
     - text: Application list with search by content of the latest note
       src: application-list--search-note-content.png
-tags:
+user_needs:
   - MN004
   - MN021
+tags:
+  - notes
 ---
 
 Providers use notes in their spreadsheets to help them prioritise work and see what needs to be done. They can look at notes for different applications at the same time.

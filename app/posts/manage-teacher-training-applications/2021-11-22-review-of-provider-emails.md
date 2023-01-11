@@ -6,6 +6,8 @@ related:
   items:
     - text: New provider emails
       href: https://docs.google.com/document/d/1n05Y66yvLyxj03UEr9TjLqjiZO--fUVB9KGrHZS_uJs/edit#heading=h.tte0cqvhtv4d
+tags:
+  - emails
 ---
 
 {% from "email/macro.njk" import appEmail %}

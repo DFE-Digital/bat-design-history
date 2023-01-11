@@ -8,6 +8,8 @@ screenshots:
       src: how-to-use-this-service.png
     - text: Permissions guidance
       src: permissions-guidance.png
+tags:
+  - user permissions
 ---
 
 We know from research that some users are confused about how permissions work.

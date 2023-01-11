@@ -8,8 +8,10 @@ screenshots:
       src: overview--applications-waiting-decisions.png
     - text: Application list filtered to show applications to courses run with a partner organisation which have the received or interviewing status
       src: application-list--filtered-received-interviewing-partner-organisation.png
-tags:
+user_needs:
   - MN021
+tags:
+  - applications overview
 ---
 
 Research shows that some users want to group applications by partner organisation when they process them.

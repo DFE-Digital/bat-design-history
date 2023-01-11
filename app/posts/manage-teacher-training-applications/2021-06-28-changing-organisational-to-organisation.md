@@ -36,6 +36,8 @@ screenshots:
       src: edit-permissions--check.png
     - text: Your permissions
       src: your-permissions.png
+tags:
+  - user permissions
 ---
 
 We’ve changed ‘organisational permissions’ to ‘organisation permissions’.

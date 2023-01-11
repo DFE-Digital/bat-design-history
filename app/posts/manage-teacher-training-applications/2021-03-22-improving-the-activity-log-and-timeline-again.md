@@ -6,6 +6,8 @@ screenshots:
   items:
     - Activity log
     - Timeline
+tags:
+  - activity log
 ---
 
 The design of the activity log does not show all the details relating to an event.

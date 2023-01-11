@@ -30,6 +30,8 @@ screenshots:
       src: permissions-form--open.png
     - text: User - details
       src: your-permissions.png
+tags:
+  - user permissions
 ---
 
 {% from "email/macro.njk" import appEmail %}

@@ -2,6 +2,9 @@
 title: Emailing a candidate when their course details are changed
 description: We created an email for candidates when course details are changed before an offer is made. We also updated the email sent when course details are changed at the same time as or after an offer is made.
 date: 2022-01-04
+tags:
+  - emails
+  - notifications
 ---
 
 {% from "email/macro.njk" import appEmail %}
