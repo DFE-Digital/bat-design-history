@@ -5,7 +5,7 @@ date: 2023-01-20
 related:
   items:
     - text: Adding information about relocation payments to course pages
-    - href: /find-teacher-training/adding-information-about-relocation-payments-to-course-pages
+    - href: /find-teacher-training/adding-information-about-relocation-payments-to-course-pages/
     - text: Adding questions about visa sponsorship to courses
     - href: /publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/
 ---
@@ -20,14 +20,13 @@ We made changes to the content and show different information depending on the t
 
 The section leads with a reminder that candidates need the right to study in the UK. This information was correct and in the right place for all course types.
 
-We changed the link at the end of the section to take users to a page about [training to teach in England on Get Into Teaching](https://getintoteaching.education.gov.uk/non-uk-teachers/train-to-teach-in-england-as-an-international-student
-), rather than the [GOV.UK page](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-if-youre-a-non-uk-citizen).
+We changed the link at the end of the section to take users to a page about [training to teach in England on Get Into Teaching](https://getintoteaching.education.gov.uk/non-uk-teachers/train-to-teach-in-england-as-an-international-student), rather than the [GOV.UK page](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-if-youre-a-non-uk-citizen).
 
 ### Apprenticeships
 
 If the course is an apprenticeship, we tell candidates that they must have lived in the UK for at least 3 years before the start of the course.
 
-![](international-candidates--apprenticeships.png)
+![International candidates - apprenticeships](international-candidates--apprenticeships.png)
 
 ## Salaried courses
 
@@ -35,7 +34,7 @@ Student visas are not available for courses with a salary. Therefore, we show in
 
 If a Skilled Worker visa is not available, we include more information about other types of visas and a link to a GOV.UK page.
 
-![](international-candidates--salaried.png)
+![International candidates - salaried courses](international-candidates--salaried.png)
 
 ## Fee-paying courses
 
@@ -43,7 +42,7 @@ Skilled Worker visas are not available for non-salaried courses. Therefore, we s
 
 If a Student visa is not available, we include more information about other types of visas and a link to a GOV.UK page.
 
-![](international-candidates--fee-paying.png)
+![International candidates - fee-paying courses](international-candidates--fee-paying.png)
 
 ## Relocation payments
 
@@ -65,11 +64,8 @@ We show information about relocation payments if the subject is:
 - Physics
 - Engineers teach physics
 
-![](international-candidates--relocation-payments.png)
+![International candidates - relocation payments](international-candidates--relocation-payments.png)
 
 ## Further considerations
 
 We will continue to review this section in line with any policy changes
-
-
-
