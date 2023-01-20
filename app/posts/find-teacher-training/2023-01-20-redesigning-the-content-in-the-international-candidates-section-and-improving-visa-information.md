@@ -45,26 +45,26 @@ If a Student visa is not available, we include more information about other type
 
 ![](international-candidates--fee-paying.png)
 
-(use http://localhost:3010/providers/1R3/courses/E855#international-candidates for screengrab)
-
 ## Relocation payments
 
 Depending on the subject, candidates may be eligible for £10,000 from the UK government to help with the financial costs of moving to England.
 
 We show information about relocation payments if the subject is:
-Ancient Greek
-Ancient Hebrew
-French
-German
-Italian
-Japanese
-Latin
-Mandarin
-Modern languages (other)
-Russian
-Spanish
-Physics
-Engineers teach physics
+
+- Ancient Greek
+- Ancient Hebrew
+- French
+- German
+- Italian
+- Japanese
+- Latin
+- Mandarin
+- Modern languages (other)
+- Russian
+- Spanish
+- Physics
+- Engineers teach physics
+
 ![](international-candidates--relocation-payments.png)
 
 ## Further considerations
