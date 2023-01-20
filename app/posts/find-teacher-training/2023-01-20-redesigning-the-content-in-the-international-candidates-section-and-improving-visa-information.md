@@ -68,4 +68,4 @@ We show information about relocation payments if the subject is:
 
 ## Further considerations
 
-We will continue to review this section in line with any policy changes
+We will continue to review this section in line with any policy changes.
