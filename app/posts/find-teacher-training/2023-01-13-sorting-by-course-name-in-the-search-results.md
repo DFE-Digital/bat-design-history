@@ -11,7 +11,7 @@ screenshots:
     - text: Course results - sorted by ‘Training provider (A to Z)’
       src: course-results--sorted-by-training-provider-a-z.png
     - text: Course results - sorted by ‘Training provider (Z to A)’
-      src: course-results--sorted-by-training-provider-a-z.png
+      src: course-results--sorted-by-training-provider-z-a.png
 ---
 
 Previously, Find postgraduate teacher training (Find) only allowed users to sort courses by training provider name ascending and descending.
