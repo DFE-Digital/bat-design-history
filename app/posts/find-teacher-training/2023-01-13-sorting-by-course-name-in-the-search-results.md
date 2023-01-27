@@ -42,7 +42,7 @@ For example, if the user sorts by ‘Course name (A to Z)’, we first sort by t
 
 If the user changes the sort to ‘Provider name (A to Z)’, we sort by the provider name ascending and then the course name ascending to ensure the courses are ordered logically per provider.
 
-###  Sorting by ‘Course name (A to Z)’
+### Sorting by ‘Course name (A to Z)’
 
 Sort by course name ascending and by provider name ascending.
 
