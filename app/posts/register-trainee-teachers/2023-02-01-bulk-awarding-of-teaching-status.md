@@ -131,6 +131,7 @@ The provider can choose to:
 We expect that most users will want to fix the errors. They’ll be able to do this by editing data in the spreadsheet or deleting lines which have errors. They’ll then upload the spreadsheet and we’ll check for errors again.
 
 If users skip the rows without errors, they can continue to check and submit recommendations. The trainees whose rows have errors will not appear in the list of trainees to be recommended.
+
 ### Check list of trainees and submit recommendations
 
 If there are no errors or the user has chosen to skip fixing them, we’ll take the user to a review page. Here they can see a list of all trainees they’re going to recommend. 
@@ -140,4 +141,5 @@ This page could be very long if the provider is recommending a lot of trainees. 
 We do not think that providers will check every trainee at this stage. We want to give them the opportunity to check as many as they need to be confident that the list is correct.
 
 Once the user proceeds, we’ll immediately recommend the trainees in the list. We’ll take the user to a success page which confirms how many trainees they’ve recommended.
+
 ## Screenshots
