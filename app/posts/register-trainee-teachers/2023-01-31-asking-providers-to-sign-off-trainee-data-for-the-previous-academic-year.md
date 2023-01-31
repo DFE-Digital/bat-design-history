@@ -2,18 +2,14 @@
 title: Asking providers to sign off trainee data for the previous academic year
 description: We created a way for providers to confirm which trainees qualified, withdrew and deferred in the previous academic year.
 date: 2023-01-31
-related:
-  items:
-    - text: Helping HEIs find trainees from a single year
-      href: /register-trainee-teachers/identifying-trainees-from-a-single-year/
 ---
 
 In January each year, training providers need to check and sign off their trainee data from the previous academic year. For example, in January 2023 they need to check the data for the 2021 to 2022 academic year.
 
-This is so that the data can be included in the annual [initial teacher training performance profiles publication](https://explore-education-statistics.service.gov.uk/find-statistics/initial-teacher-training-performance-profiles). This gives information about the outcomes for trainee teachers in England, including the proportion of:
+This is so that the data can be included in the annual [initial teacher training performance profiles publication](https://explore-education-statistics.service.gov.uk/find-statistics/initial-teacher-training-performance-profiles). This gives information about the outcomes for trainee teachers in England, including the proportion of trainees who:
 
-- trainees in their final year who gained qualified teacher status (QTS) or early years teacher status (EYTS)
-- trainees who got a job in a state school within 16 months of gaining QTS
+- were in their final year and gained qualified teacher status (QTS) or early years teacher status (EYTS)
+- got a job in a state school within 16 months of gaining QTS
 
 We decided to ask providers to check data for all their trainees for the 2021 to 2022 academic year, not just those who finished their courses in that year. This is not necessary for the performance profiles but will help make sure that trainee data is accurate.
 
@@ -30,14 +26,9 @@ We decided to split the guidance and report rather than having both on a single 
 - the people who download the report may not be the same ones who sign off the data
 - the service already has separate sections for guidance and reports
 
-We’ve included links between the guidance and the report. When we sent emails to providers about signing off data, we included links to both pages.
+The guidance and the report link to each other. When we sent emails to providers about signing off data, we included links to both pages.
 
-If providers do not want to use the new report, they can instead [filter their list of registered trainees to show the previous academic year](https://bat-design-history.netlify.app/register-trainee-teachers/identifying-trainees-from-a-single-year/).
-
-We also
-
-- improved the pages which list guidance and reports
-- made it possible to filter the list of registered trainees to show a specific academic year
+We also improved the pages which list guidance pages and reports.
 
 ### Guidance
 
@@ -50,7 +41,7 @@ The new guidance page tells providers how to:
 To find the data, providers can use either:
 
 - the new report we created
-- their list of registered trainees, which can be filtered to show the previous academic year
+- their list of registered trainees, which can be [filtered to show the previous academic year](/register-trainee-teachers/identifying-trainees-from-a-single-year/)
 
 For each trainee, the provider needs to check:
 
@@ -67,7 +58,7 @@ Providers sign off the trainee data using a Google form. This should be done by 
 
 We decided that it was not necessary to build a journey within Register for signing off data. People who sign off data may not be users of the service, so we cannot require them to sign in to it.
 
-## Report
+### Report
 
 We created a new report which includes all trainees who:
 
@@ -76,13 +67,11 @@ We created a new report which includes all trainees who:
 
 The report can be downloaded as a CSV file. It contains the same information about each trainee as the normal data export.
 
-### File name
-
 The format of the file name is:
 
 YYYY-MM-DD_HH-MM-SS_AAAA-BBBB-trainees_performance-profiles-sign-off_register-trainee-teachers
 
-Where:
+In this file name:
 
 - YYYY is the year when the file was downloaded, written in full
 - MM is the month written as 2 digits
@@ -93,7 +82,7 @@ Where:
 - AAAA is the year when the academic year began
 - BBBB is the year when the academic year ended
 
-## List of guidance pages
+### List of guidance pages
 
 We have a page which links to all the guidance pages. As we add more guidance it becomes harder for users to find what they’re looking for, so we added subheadings to help them.
 
@@ -105,7 +94,7 @@ The subheadings are:
 
 Some links appear under the main page heading rather than under a subheading.
 
-## List of reports
+### List of reports
 
 We decided not to include ‘performance profiles’ in the name of the new report. Instead the name is “Trainees who studied in the 2021 to 2022 academic year”.
 
@@ -123,3 +112,25 @@ We may decide to change the way we present information for the annual initial te
 - a link to a report which providers use to check their data
 
 We could separate these, as we’ve done for performance profiles.
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  headingLevel: 2,
+  items: [
+  {
+    id: "1-performance-profiles-report",
+    text: "New performance profiles report"
+  },
+  {
+    id: "2-performance-profiles-guidance",
+    text: "New performance profiles guidance"
+  },
+  {
+    id: "3-reports-index",
+    text: "List of reports including a link to the new performance profiles report"
+  },
+  {
+    id: "4-guidance-index",
+    text: "List of guidance pages with new subheadings and link to the new performance profiles guidance"
+  }]
+}) }}
