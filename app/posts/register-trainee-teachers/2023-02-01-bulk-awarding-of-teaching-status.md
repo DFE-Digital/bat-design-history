@@ -32,7 +32,8 @@ An HEI might need to recommend up to 500 trainees at once for teaching status. I
 
 ## Options we considered for bulk recommending
 
-We previously explored using the Register user interface for bulk actions. This works well for small numbers of trainees, but we do not think it would be suitable for recommending hundreds of trainees. 
+[We previously explored using the Register user interface for bulk actions.](/register-trainee-teachers/bulk-actions-v1/
+ogImage:) This works well for small numbers of trainees, but we do not think it would be suitable for recommending hundreds of trainees.
 
 We decided to let providers use spreadsheets to bulk recommend trainees. This is not ideal for recommending smaller numbers of trainees, but works well for larger numbers. 
 
@@ -57,7 +58,7 @@ The ITT provider portal is used for more than just recommendations. Providers ca
 We do not plan to support this, as we’d like to keep this flow focused on awards of teaching status. Instead: 
 
 - deferrals should come from HESA or be done one by one in Register
-- withdrawals should be done one by one in Register because we want to understand more about why trainees withdraw
+- withdrawals should be done one by one in Register because we want to [understand more about why trainees withdraw](/register-trainee-teachers/collecting-more-useful-information-about-why-trainees-withdraw/)
 
 ### Not allowing users to edit trainee data
 
