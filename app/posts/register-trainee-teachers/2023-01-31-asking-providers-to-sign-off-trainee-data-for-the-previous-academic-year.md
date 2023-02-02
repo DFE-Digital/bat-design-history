@@ -1,7 +1,7 @@
 ---
 title: Asking providers to sign off trainee data for the previous academic year
 description: We created a way for providers to confirm which trainees qualified, withdrew and deferred in the previous academic year.
-date: 2023-01-31
+date: 2023-02-02
 ---
 
 In January each year, training providers need to check and sign off their trainee data from the previous academic year. For example, in January 2023 they need to check the data for the 2021 to 2022 academic year.
