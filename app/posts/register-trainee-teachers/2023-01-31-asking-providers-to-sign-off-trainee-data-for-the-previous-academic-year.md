@@ -73,7 +73,7 @@ The report can be downloaded as a CSV file. It contains the same information abo
 
 The format of the file name is:
 
-YYYY-MM-DD_HH-MM-SS_AAAA-BBBB-trainees_performance-profiles-sign-off_register-trainee-teachers
+`YYYY-MM-DD_HH-MM-SS_AAAA-BBBB-trainees_performance-profiles-sign-off_register-trainee-teachers`
 
 In this file name:
 
