@@ -40,13 +40,13 @@ screenshots:
       src: location--removed.png
 ---
 
-Some providers find it difficult to enter large numbers of locations in Publish teacher training courses (Publish) and choose not to enter more than one location called ‘Main site’.
+Some providers find it difficult to enter large numbers of locations in Publish teacher training courses (Publish) and choose not to enter more than one location called, ‘Main site’.
 
-The effect of doing this means it is harder for a candidate to find a provider’s course on Find postgraduate teacher training (Find) when searching by location (the most popular type of search).
+This means it is harder for a candidate to find a provider’s course on Find postgraduate teacher training (Find) when searching by location (the most popular type of search).
 
 Candidates also don’t know where their school placements will likely be as the provider hasn’t listed any locations.
 
-To help providers, we have introduced a way for support users to quickly and easily upload a provider’s location information in bulk.
+To speed up the process of adding locations to Publish, we have introduced a way for support users to quickly and easily upload providers’ location information in bulk.
 
 ## What we changed
 
@@ -67,7 +67,7 @@ We introduced a way for support users to copy and paste information from a sprea
 
 This allows support users to quickly and easily enter new location information in bulk, using previously collected data from providers.
 
-After data has been entered, we present a series of screens showing each location’s information and allowing support users to correct any mistakes.
+After data has been entered, we show a series of screens with each location’s information and allow support users to edit the information.
 
 At the end of the flow, support users can check their answers before saving the locations.
 
@@ -75,11 +75,11 @@ At the end of the flow, support users can check their answers before saving the 
 
 ![Provider’s location list page](locations--list.png "Provider’s location list page")
 
-We introduced the ‘add multiple locations’ button as a secondary action alongside the main action of ‘add location’.
+We introduced the ‘Add multiple locations’ button as a secondary action alongside the main action of ‘Add location’.
 
-Clicking ‘add location’ takes the support user to the add single location form.
+Clicking ‘Add location’ takes the support user to the add single location form.
 
-Clicking ‘add multiple locations’ takes the support user to the add multiple locations form.
+Clicking ‘Add multiple locations’ takes the support user to the add multiple locations form.
 
 ### Adding a single location
 
@@ -87,7 +87,7 @@ Clicking ‘add multiple locations’ takes the support user to the add multiple
 
 ![Adding a single location form](adding-single-location--edit.png "Adding a single location form")
 
-We introduced ‘Save location and add another’ on the check your answers page to simplify the addition of multiple locations. Clicking this button saves the location details and returns the support user to the ‘add location’ page.
+We introduced ‘Save location and add another’ on the check your answers page to simplify adding multiple locations. Clicking this button saves the location details and returns the support user to the ‘Add location’ page.
 
 ### Adding multiple locations
 
@@ -113,9 +113,9 @@ The details of each location must be on a new line.
 
 ![Adding multiple locations edit form](adding-multiple-locations--edit.png "Adding multiple locations edit form")
 
-For each location entered into the ‘add location’ form field, we show the add location page pre-filled with the location name, unique reference number - if included - and address.
+For each location entered into the ‘Add location’ form field, we show the add location page pre-filled with the location name, unique reference number - if included - and address.
 
-If some location details are missing or incorrect, we display an error message.
+We display an error message if some location details are missing or incorrect.
 
 ## Further considerations
 
@@ -128,9 +128,8 @@ We could further reduce the work for support users if we allowed them to upload 
 There is not a strong need for this since:
 
 - we will not be adding a huge number of locations at one time
-- the providers with the largest number of missing locations are HEIs, and there’s only a small number of them
+- the providers with the largest number of missing locations are higher education institutions (HEIs), and there’s only a small number of them
 - once all locations have been added to Publish, the multiple location upload will not be used regularly
-
 
 ### Providing a way to see and manage all locations in the service
 
@@ -142,9 +141,9 @@ There is not a strong need for this since:
 - providing two places to manage locations is unnecessary
 - provider users should become more comfortable with managing their locations
 
-### Removing a location from the ‘add multiple location’ flow
+### Removing a location from the ‘Add multiple locations’ flow
 
-In the new design, the DfE user cannot change their mind about how many locations to add.
+In the new design, the support user cannot change their mind about how many locations to add.
 
 If they paste in the details of 10 locations and later decide they only need to add 9, they will need to cancel and start again.
 
