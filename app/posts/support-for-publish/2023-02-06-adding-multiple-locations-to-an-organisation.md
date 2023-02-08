@@ -148,3 +148,5 @@ In the new design, the support user cannot change their mind about how many loca
 If they paste in the details of 10 locations and later decide they only need to add 9, they will need to cancel and start again.
 
 We could add the ability to remove a location from the list of those to be added, either on the ‘Add location’ form page or on the check answers page.
+
+*[CSV]: Comma separated values
