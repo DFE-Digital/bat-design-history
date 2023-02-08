@@ -2,6 +2,8 @@
 title: Adding multiple locations to an organisation
 description: Giving the support team the ability to add multiple locations to an organisation
 date: 2023-02-06
+tags:
+  - locations
 screenshots:
   items:
     - text: Provider locations list
