@@ -1,7 +1,7 @@
 ---
 title: Bulk awarding of teaching status
 description: Letting providers bulk recommend trainees for qualified teacher status or early years teacher status.
-date: 2023-02-01
+date: 2023-02-10
 related:
   items:
     - text: Bulk actions on a group of records
@@ -142,4 +142,48 @@ We do not think that providers will check every trainee at this stage. We want t
 
 Once the user proceeds, we’ll immediately recommend the trainees in the list. We’ll take the user to a success page which confirms how many trainees they’ve recommended.
 
-## Screenshots
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  headingLevel: 2,
+  items: [
+  {
+    id: "1-initial-download-and-upload",
+    text: "Initial bulk recommend page with report and upload prompt"
+  },
+  {
+    id: "2-upload-summary-with-errors",
+    text: "Upload summary showing errors"
+  },
+  {
+    id: "3-fix-errors-and-upload",
+    text: "Errors summary with download of new report and upload prompt"
+  },
+  {
+    id: "4-upload-summary-no-errors",
+    text: "Upload summary without errors"
+  },
+  {
+    id: "5-check-who-youll-recommend-accordion-collapsed",
+    text: "Review page with accordion items collapsed"
+  },
+  {
+    id: "6-check-who-youll-recommend-accordion-expanded",
+    text: "Review page with accordion item expanded"
+  },
+  {
+    id: "7-make-changes",
+    text: "Make changes with download of report and upload prompt"
+  },
+  {
+    id: "8-confirmation",
+    text: "Confirmation page"
+  },
+  {
+    id: "9-cancel-changes",
+    text: "Cancel changes confirmation page"
+  },
+  {
+    id: "10-homepage-cards",
+    text: "Revised homepage with new cards to link to bulk recommend"
+  }]
+}) }}
