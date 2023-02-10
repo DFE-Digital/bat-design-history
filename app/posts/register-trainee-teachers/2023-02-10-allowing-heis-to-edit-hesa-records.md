@@ -52,21 +52,21 @@ Once editing has been enabled, the record will act like other records that can b
 
 Records imported from HESA previously had inset text explaining this and giving the date when HESA records were last updated. We’ve changed the wording of this text before editing is enabled to:
 
-- say what users can do before and after enabling editing
-- give the date when this particular HESA record was last updated
+* say what users can do before and after enabling editing
+* give the date when this particular HESA record was last updated
 
 After a user has enabled editing, this inset text changes to:
 
-- note that editing has been enabled
-- warn users that if they update the record in HESA then it will overwrite the changes they made in Register
+* note that editing has been enabled
+* warn users that if they update the record in HESA then it will overwrite the changes they made in Register
 
 ## Deferring, reinstating and withdrawing trainees
 
 Users can use either Register or the HESA service to indicate that a trainee has:
 
-- deferred
-- been reinstated (returned to training after a deferral)
-- withdrawn from training
+* deferred
+* been reinstated (returned to training after a deferral)
+* withdrawn from training
 
 We did not want to require users to need to enable editing to reveal these actions. So we’ll continue to show them whether or not editing has been enabled.
 
