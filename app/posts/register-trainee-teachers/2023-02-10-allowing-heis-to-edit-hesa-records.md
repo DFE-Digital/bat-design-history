@@ -1,6 +1,6 @@
 ---
-title: Allowing HEIs to edit HESA records in Register
-description: Giving more control to HEIs to correct mistakes themselves
+title: Allowing users to edit records imported from HESA in Register
+description: We’ve made it easier for users from higher education authorities to correct mistakes in their data.
 date: 2023-02-10
 related:
   items:
@@ -8,47 +8,75 @@ related:
       href: /register-trainee-teachers/bulk-awarding-of-teaching-status/
 ---
 
-We want to provide a way for HEI users to edit their HESA records within Register.
+We want to provide a way for users from higher education authorities (HEIs) to edit records imported into Register from the Higher Education Statistics Agency (HESA) service.
 
-Our users cannot currently edit HESA records. We did not allow it because there were previously lots of data discrepancies related to data being updated in some places but not all, and then different values syncing to other services.
+We did not initially allow this because there were previously lots of discrepancies in trainee data. This was due to it being updated in some places but not all, leading to unexpected changes when data was synced between services.
 
-The result was lots of inconsistency and data changing unexpectedly.
+We’ve decided to require users to explicitly opt in to editing because we still want them to make most edits in the HESA service.
+
+It will still be possible for data to be overwritten with this new feature but we’ll warn users about this and hope it will be rare.
+
+If data is overwritten, it will be clear to providers why it’s happened. They’ll be able to see that they enabled editing and updated a field, then later a HESA sync changed that field.
+
+This will be better than in the old DTTP service, where fields would change unexpectedly and it was not clear where changes were coming from.
 
 ## When a provider might need to make changes
 
-We want most updates to HESA trainees to come via HESA. But this may be difficult or impossible, for example when: 
+We want most updates to HESA trainees to be made in the HESA service. But this may be impossible because providers can only update HESA data at certain times of the year.
 
-* a HESA update window has passed, the trainee is ready to be awarded, but changes are needed
-* an academic year has just finished, and trainee has now withdrawn - the provider does not want to provide the trainee in the next HESA collection purely to tell us they've withdrawn
+A provider may need to update a trainee’s data outside of these ‘HESA windows’, for example to fix an error before they recommend the trainee for teaching status.
 
-Currently in these situations our support staff have to manually make the changes. We’d like to give our users a way to update trainees easily.
+A provider may also need to indicate that a trainee has withdrawn after an academic year has just finished. The provider can wait until the next academic year to do this, but then the trainee will appear in the next HESA collection.
+
+Currently in these situations DfE support staff have to manually make the changes. We’d like to give our users a way to update trainees easily themselves.
 
 ## Why we’re doing this now
 
 We’re about to allow providers to [bulk recommend trainees for QTS or EYTS](/register-trainee-teachers/bulk-awarding-of-teaching-status/).
-Once this is possible, we expect providers to notice mistakes and want to fix them immediately. If we do not allow users to edit HESA records, they’ll need to either:
+Once this is possible, we expect providers to notice mistakes in their data and want to fix them immediately.
 
-* submit these changes to HESA
+If we do not allow users to edit HESA records, they’ll need to either:
+
+* submit changes to HESA, if they’re within a ‘window’ when editing is possible
 * contact our support teams to manually correct the record
 
-If we make this change, they’ll be able to fix issues themselves.
+If we allow users to edit the records, they’ll be able to fix issues themselves.
 
 ## What we changed
 
-We’ve added a button to HESA records to let users enable editing of the record.
-We’ve decided to require users to explicitly opt in to editing because we still want them to make most edits in the HESA service.
+We’ve added a button to records imported from HESA to let users enable editing of the record.
 
-Once a user has enabled editing, they’ll be shown an interstitial page. It warns them that if they update the record in HESA in the future then that update will overwrite the changes they made in Register.
-Once editing is enabled, the record will act like other records that can be edited. We’ll update the HESA inset text to note that editing has been enabled.
+When a user clicks the button, they’ll be shown an interstitial page. It warns them that if they update the record in HESA in the future then that update will overwrite the changes they made in Register.
 
+Once editing has been enabled, the record will act like other records that can be edited. A timeline entry will show who enabled editing and when they did it.
 
-## Other details
+Records imported from HESA previously had inset text explaining this and giving the date when HESA records were last updated. We’ve changed the wording of this text before editing is enabled to:
+
+- say what users can do before and after enabling editing
+- give the date when this particular HESA record was last updated
+
+After a user has enabled editing, this inset text changes to:
+
+- note that editing has been enabled
+- warn users that if they update the record in HESA then it will overwrite the changes they made in Register
+
+## Deferring, reinstating and withdrawing trainees
+
+Users can use either Register or the HESA service to indicate that a trainee has:
+
+- deferred
+- been reinstated (returned to training after a deferral)
+- withdrawn from training
+
+We did not want to require users to need to enable editing to reveal these actions. So we’ll continue to show them whether or not editing has been enabled.
+
+If a trainee has been withdrawn using Register then we do not need to worry about an update in HESA overwriting the trainee’s data.
+
+If a trainee has been deferred or reinstated then we’ll show a warning. It will tell them that if they update the record in HESA then it will overwrite the changes they made in Register.
+
+## Further considerations
 
 We don’t feel there’s a need to have a ‘disable editing’ feature, but could add this in the future if we find there’s a need.
-
-Deferrals are handled specially. They’re statuses that can be updated in HESA, but currently sit with other actions on trainee records. As users will always be able to do actions on statuses on records, it felt weird to hide the ‘defer’ link on HESA records, and expect users to know that ‘enable editing’ would reveal it. Instead, we’ll show a warning if users attempt to defer or reinstate a HESA trainee.
-
-It’s still possible for data to overwrite with this new feature, but we hope this will be rare, and if it does happen, it will be clear to providers why it’s happened. They’ll be able to see that they enabled editing, updated a field, then later a HESA sync changed that field. This will be better than in DTTP where fields would change unexpectedly and it wasn’t clear where changes were coming from.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
