@@ -144,6 +144,10 @@ Once the user proceeds, we’ll immediately recommend the trainees in the list. 
   headingLevel: 2,
   items: [
   {
+    id: "1-guidance",
+    text: "Guidance for new feature"
+  },
+  {
     id: "1-initial-download-and-upload",
     text: "Initial bulk recommend page with report and upload prompt"
   },
