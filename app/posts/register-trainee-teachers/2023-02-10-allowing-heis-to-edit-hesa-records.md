@@ -2,11 +2,15 @@
 title: Allowing HEIs to edit HESA records in Register
 description: Giving more control to HEIs to correct mistakes themselves
 date: 2023-02-10
+related:
+  items:
+    - text: Bulk awarding of teaching status
+      href: /register-trainee-teachers/bulk-awarding-of-teaching-status/
 ---
 
-We want to provide a way for HEI users to edit their HESA records within Register. 
+We want to provide a way for HEI users to edit their HESA records within Register.
 
-Our users cannot currently edit HESA records. We did not allow it because there were previously lots of data discrepancies related to data being updated in some places but not all, and then different values syncing to other services. 
+Our users cannot currently edit HESA records. We did not allow it because there were previously lots of data discrepancies related to data being updated in some places but not all, and then different values syncing to other services.
 
 The result was lots of inconsistency and data changing unexpectedly.
 
@@ -21,7 +25,7 @@ Currently in these situations our support staff have to manually make the change
 
 ## Why we’re doing this now
 
-We’re about to allow providers to bulk recommend trainees for QTS or EYTS. 
+We’re about to allow providers to [bulk recommend trainees for QTS or EYTS](/register-trainee-teachers/bulk-awarding-of-teaching-status/).
 Once this is possible, we expect providers to notice mistakes and want to fix them immediately. If we do not allow users to edit HESA records, they’ll need to either:
 
 * submit these changes to HESA
