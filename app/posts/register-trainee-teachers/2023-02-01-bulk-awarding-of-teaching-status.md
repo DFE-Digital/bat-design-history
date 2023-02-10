@@ -30,13 +30,13 @@ An HEI might need to recommend up to 500 trainees at one time for teaching statu
 
 ## Options we considered for bulk recommending
 
-[We previously explored using the Register user interface for bulk actions.](/register-trainee-teachers/bulk-actions-v1/) This works well for small numbers of trainees, but we do not think it would be suitable for recommending hundreds of trainees.
+We previously explored [using the Register user interface for bulk actions](/register-trainee-teachers/bulk-actions-v1/). This works well for small numbers of trainees but we do not think it would be suitable for recommending hundreds of trainees.
 
-We decided to let providers use spreadsheets to bulk recommend trainees. This is not ideal for recommending smaller numbers of trainees, but works well for larger numbers.
+We decided to let providers use spreadsheets to bulk recommend trainees. This is not ideal for recommending smaller numbers of trainees but works well for larger numbers.
 
-It’s also flexible for providers who have existing student record systems. For them, they want to be able to export data. They can use the exports and merge them on to any template we provide.
+It’s also flexible for providers who have existing student record systems. They’ll be able to export their own data then merge it into any template we give them.
 
-In future iterations we may add a way to bulk recommend trainees entirely within the user interface like our bulk actions prototype explored.
+In future iterations we may add a way to bulk recommend trainees entirely within the user interface, as we explored with our bulk actions prototype.
 
 For now, letting users upload a spreadsheet allows us to support providers with large numbers of trainees. Providers with fewer trainees can use the spreadsheet or continue to recommend trainees one by one.
 
@@ -52,7 +52,7 @@ Our bulk recommendation flow will differ from the ITT provider portal by:
 
 The ITT provider portal is used for more than just recommendations. Providers can also use it to defer and withdraw trainees.
 
-We do not plan to support this, as we’d like to keep this flow focused on awards of teaching status. Instead: 
+We do not plan to support this, as we’d like to keep this flow focused on awards of teaching status. Instead:
 
 - deferrals should come from HESA or be done one by one in Register
 - withdrawals should be done one by one in Register because we want to [understand more about why trainees withdraw](/register-trainee-teachers/collecting-more-useful-information-about-why-trainees-withdraw/)
@@ -79,19 +79,19 @@ In Register we’ll give users immediate feedback about any errors. We’ll also
 
 To bulk recommend trainees, users need to:
 
-- download a CSV file listing trainees they can recommend
+- download a spreadsheet listing trainees they can recommend
 - enter the date when trainees met the teaching standards
-- upload the CSV file and fix any errors
+- upload the spreadsheet and fix any errors
 - check their list of trainees and submit their recommendations
 
-### Download a CSV file
+### Download a spreadsheet
 
-Users will be able to download a CSV file listing trainees they can recommend. We’re still deciding which trainees to include, but it’s likely to be trainees who have:
+Users will be able to download a CSV file listing trainees they can recommend. This will include all trainees who have a TRN and either:
 
-- received a teacher reference number (TRN)
-- an expected end date close to the current date
+- an estimated end date in the past 6 months or the next 6 months
+- no estimated end date
 
-The CSV file will be a new export. Unlike our existing exports, we’ll only include selected columns which will help providers to identify, check or filter their trainees.
+The spreadsheet will be a new export. Unlike our existing exports, we’ll only include selected columns which will help providers to identify, check or filter their trainees.
 
 Filtering the data in the spreadsheet may be important for providers with a lot of trainees. For example, they might only want to recommend trainees who are on certain courses.
 
@@ -99,9 +99,9 @@ Filtering the data in the spreadsheet may be important for providers with a lot 
 
 Providers need to enter the date when a trainee met the teaching standards into the final column of the spreadsheet.
 
-In the initial version of the design, we told users to leave the column blank if they did not want to recommend a trainee. We assumed that we would also accept the spreadsheet if they deleted rows instead. We found in research that users tended to prefer deleting rows instead - so our guidance now suggests that.
+In the initial version of the design, we told users to leave the column blank if they did not want to recommend a trainee. We assumed that we would also accept the spreadsheet if they deleted rows instead. We found in research that users tended to prefer deleting rows instead, so our guidance now suggests that.
 
-### Upload the CSV file and fix any errors
+### Upload the spreadsheet and fix any errors
 
 When the provider has added dates for all trainees they want to recommend, they’ll upload the spreadsheet to Register.
 
@@ -119,7 +119,7 @@ Since the spreadsheet we provide to users will not have any errors, it should on
 If there are errors, we’ll take the user to a page where they can download a new version of the spreadsheet. It has an additional column which gives details of the errors for each row.
 
 We decided to show the errors in the spreadsheet rather than in the user interface. This will make it easier to spot and fix errors, particularly when there are a lot of them. Users will not need to make comparisons between the user interface and the spreadsheet.
- 
+
 The provider can choose to:
 
 - fix the errors before continuing
@@ -144,8 +144,8 @@ Once the user proceeds, we’ll immediately recommend the trainees in the list. 
   headingLevel: 2,
   items: [
   {
-    id: "1-guidance",
-    text: "Guidance for new section"
+    id: "0-guidance",
+    text: "Guidance for bulk recommending trainees"
   },
   {
     id: "1-initial-download-and-upload",
