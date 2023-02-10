@@ -11,8 +11,6 @@ ogImage:
   alt: Flow diagram of the bulk award flow
 ---
 
-
-
 We’ve designed a new section of Register which allows providers to recommend multiple trainees for teaching status at the same time. 
 
 Trainees are recommended for teaching status if they successfully complete initial teacher training (ITT). They get either qualified teacher status (QTS) or early years teacher status (EYTS) depending on the course they took.
@@ -32,8 +30,7 @@ An HEI might need to recommend up to 500 trainees at once for teaching status. I
 
 ## Options we considered for bulk recommending
 
-[We previously explored using the Register user interface for bulk actions.](/register-trainee-teachers/bulk-actions-v1/
-ogImage:) This works well for small numbers of trainees, but we do not think it would be suitable for recommending hundreds of trainees.
+[We previously explored using the Register user interface for bulk actions.](/register-trainee-teachers/bulk-actions-v1/) This works well for small numbers of trainees, but we do not think it would be suitable for recommending hundreds of trainees.
 
 We decided to let providers use spreadsheets to bulk recommend trainees. This is not ideal for recommending smaller numbers of trainees, but works well for larger numbers. 
 
