@@ -109,7 +109,9 @@ And
 
 > Enter end age
 
-![Other age range error message](error-messages--age-range-other.png "Other age range error message")
+![Other primary age range error message](error-messages--age-range-primary-other.png "Other primary age range error message")
+
+![Other secondary age range error message](error-messages--age-range-secondary-other.png "Other secondary age range error message")
 
 If the course is primary and the user enters an age that is not between 3 and 11, we show an error message:
 
