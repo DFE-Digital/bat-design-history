@@ -49,11 +49,13 @@ If the user does not select a subject from the first subject drop-down, we show 
 
 > Select a subject
 
+![Secondary subject error message](error-messages--subject-secondary.png "Secondary subject error message")
+
 If the user selects a subject from the optional second subject drop-down, which matches the first subject chosen, we show an error message:
 
 > First subject and second subject cannot be the same
 
-![Secondary subject error message](error-messages--subject-secondary.png "Secondary subject error message")
+![Secondary subject error message if subjects are the same](error-messages--subject-secondary-same-subject.png "Secondary subject error message if subjects are the same")
 
 ### Modern languages
 
@@ -101,33 +103,34 @@ If the user does not select a secondary age range, we show an error message:
 
 If the user selects ‘Another age range’ but does not enter a range, we show an error message:
 
-> Enter from age
+> Enter start age
 
 And
 
-> Enter to age
+> Enter end age
 
 ![Other age range error message](error-messages--age-range-other.png "Other age range error message")
 
+If the course is primary and the user enters an age that is not between 3 and 11, we show an error message:
+
+> Enter an age between 3 and 11
+
+If the course is secondary and the user enters an age that is not between 11 and 19, we show an error message:
+
+> Enter an age between 11 and 19
+
+If the user enters a start age that is more than the end age, we show an error message:
+
+> Start age must be less than end age
+
 Age ranges must be a minimum of 4 years. If the user adds another age range that is less than 4 years, we show an error message:
 
-> Age ranges must be 4 or more years
-
-If the user enters an age range but the range is not between 5 and 19, we show an error message:
-
-> Enter an age range between 5 and 19
-
-If the user enters a number in the ‘From’ age range field that is less than 5, we show an error message:
-
-> Enter an age between 5 and 19
-
-If the user enters a number in the ‘To’ age range field that is greater than 19, we show an error message:
-
-> Enter an age between 5 and 19
+> End age must be at least four years after start age
 
 ### Qualification
 
 We show qualifications depending on the user's chosen subject level.
+
 #### Primary and secondary
 
 If the user does not select a qualification, we show an error message:
@@ -135,6 +138,7 @@ If the user does not select a qualification, we show an error message:
 > Select a qualification
 
 ![Primary and secondary level qualification error message](error-messages--qualification-primary-secondary.png "Primary and secondary level qualification error message")
+
 #### Further education
 
 If the user does not select a qualification, we show an error message:
@@ -151,13 +155,13 @@ If the user does not select a funding type, we show an error message:
 
 ![Funding type error message](error-messages--funding-type.png "Funding type error message")
 
-### Apprenticeships
+### Teaching Apprenticeship
 
 If the user does not select if this is a teaching apprenticeship, we show an error message:
 
 > Select if this is a teaching apprenticeship
 
-![Apprenticeship error message](error-messages--apprenticeships.png "Apprenticeship error message")
+![Apprenticeship error message](error-messages--teaching-apprenticeship.png "Apprenticeship error message")
 
 ### Full time or part time
 
@@ -166,6 +170,7 @@ If the user does not select if the course is full time, part time or both, we sh
 > Select full time or part time
 
 ![Full time or part time error message](error-messages--full-time-or-part-time.png "Full time or part time error message")
+
 ### Location
 
 In the ‘Add course’ flow, the location page is only shown if there is more than one location a user can choose from. If there is only one location, we default the answer and skip the page.
@@ -192,15 +197,17 @@ We show different visa sponsorship questions depending on whether the course is 
 
 #### Fee-paying courses
 
-If the user belongs to a higher education institution (HEI) and they do not answer the Student visa sponsorship question, we show the error message:
-
-> Select if your organisation can sponsor Student visas for this course
-
 If the user belongs to a lead school or school-centred initial teacher training (SCITT) and they do not answer the Student visa sponsorship question, we show the error message:
 
 > Select if Student visa sponsorship is available for this course
 
 ![Student visa error message](error-messages--visa-sponsorship-fee-paying.png "Student visa error message")
+
+If the user belongs to a higher education institution (HEI) and they do not answer the Student visa sponsorship question, we show the error message:
+
+> Select if your organisation can sponsor Student visas for this course
+
+![Student visa error message (HEI)](error-messages--visa-sponsorship-fee-paying-hei.png "Student visa error message (HEI)")
 
 #### Salaried or apprenticeship courses
 
@@ -218,7 +225,6 @@ If the user does not select an applications open date, we show an error message:
 
 ![Applications open date error message](error-messages--applications-open-date.png "Applications open date error message")
 
-
 #### Another date
 
 If the user selects ‘Another date’ but does not enter a date, we show an error message:
@@ -235,7 +241,7 @@ If the user enters an invalid date, we show an error message:
 
 > Applications open date must be a real date
 
-[Design system guidance on error messages in date inputs](https://design-system.service.gov.uk/components/date-input/#error-messages)
+If the user enters a partially correct date, we follow [GOV.UK design system guidance on error messages in date inputs](https://design-system.service.gov.uk/components/date-input/#error-messages)
 
 ### Course start date
 
@@ -249,10 +255,16 @@ If the user does not select a course start date, we show an error message:
 
 ### Subject level and special educational needs and disabilities
 
-Separate subject level and special educational needs and disabilities questions
+The subject level and special educational needs and disabilities (SEND) questions are currently on the same page when creating a new course but not when editing a course.
+
+We’re considering splitting the pages in the add course flow to be consistent with the edit flows and simplify the content and error messaging.
 
 ### Full time or part time
 
-Change the radio buttons to checkboxes
+The ‘Full time or part time’ page currently has radio buttons.
+It is not clear if the ‘Full time or part time’ option means:
 
-### Course start date
+- both full time and part time
+- either full time or part time
+
+We will consider changing this to checkboxes and removing the ‘Both’ option.
