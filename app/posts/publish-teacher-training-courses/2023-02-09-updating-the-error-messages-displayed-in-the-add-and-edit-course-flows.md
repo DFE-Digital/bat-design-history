@@ -43,6 +43,7 @@ If the user does not select a primary subject specialism, we show an error messa
 > Select a subject
 
 ![Primary subject specialism error message](error-messages--subject-primary.png "Primary subject specialism error message")
+
 #### Secondary subjects
 
 If the user does not select a subject from the first subject drop-down, we show an error message:
