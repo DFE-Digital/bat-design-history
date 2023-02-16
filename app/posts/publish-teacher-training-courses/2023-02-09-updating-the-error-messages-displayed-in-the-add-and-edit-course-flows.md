@@ -190,7 +190,7 @@ In the ‘Add course’ flow, the accredited body page is only shown if there is
 
 If there is more than one accredited body and the user does not select an accredited body, we show an error message:
 
-> Select a location
+> Select an accredited body
 
 ![Accredited body error message](error-messages--accredited-body.png "Accredited body error message")
 
