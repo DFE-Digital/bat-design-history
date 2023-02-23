@@ -16,6 +16,8 @@ We improved the error messages on the ‘Add course’ and edit course flows to 
 
 ## What we changed
 
+We have updated:
+
 - [Subject level](#subject-level)
 - [Special educational needs and disabilities](#special-educational-needs-and-disabilities)
 - [Subject](#subject)
