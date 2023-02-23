@@ -16,11 +16,11 @@ We improved the error messages on the ‘Add course’ and edit course flows to 
 
 ## What we changed
 
-We have updated:
+We have updated the error messages for:
 
 - [Subject level](#subject-level)
 - [Special educational needs and disabilities](#special-educational-needs-and-disabilities)
-- [Subject](#subject)
+- [Subject](#subject) - primary and secondary
 - [Modern languages](#modern-languages)
 - [Engineers teach physics](#engineers-teach-physics)
 - [Age range](#age-range)
@@ -30,7 +30,7 @@ We have updated:
 - [Full time or part time](#full-time-or-part-time)
 - [Location](#location)
 - [Accredited body](#accredited-body)
-- [Visa sponsorship](#visa-sponsorship)
+- [Visa sponsorship](#visa-sponsorship) - Student and Skilled Worker visas
 - [Applications open date](#applications-open-date)
 - [Course start date](#course-start-date)
 
