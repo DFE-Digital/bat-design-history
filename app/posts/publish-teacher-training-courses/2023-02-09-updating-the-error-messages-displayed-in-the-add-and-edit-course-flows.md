@@ -16,6 +16,22 @@ We improved the error messages on the ‘Add course’ and edit course flows to 
 
 ## What we changed
 
+- [Subject level](#subject-level)
+- [Special educational needs and disabilities](#special-educational-needs-and-disabilities)
+- [Subject](#subject)
+- [Modern languages](#modern-languages)
+- [Engineers teach physics](#engineers-teach-physics)
+- [Age range](#age-range)
+- [Qualification](#qualification)
+- [Funding type](#funding-type)
+- [Teaching apprenticeship](#teaching-apprenticeship)
+- [Full time or part time](#full-time-or-part-time)
+- [Location](#location)
+- [Accredited body](#accredited-body)
+- [Visa sponsorship](#visa-sponsorship)
+- [Applications open date](#applications-open-date)
+- [Course start date](#course-start-date)
+
 ### Subject level
 
 If the user does not select a subject level, we show an error message:
@@ -24,7 +40,7 @@ If the user does not select a subject level, we show an error message:
 
 ![Subject level error message](error-messages--subject-level.png "Subject level error message")
 
-### Special educational needs and disabilities (SEND)
+### Special educational needs and disabilities
 
 If the user does not select if this is a special educational needs and disability (SEND) course, we show an error message:
 
@@ -158,7 +174,7 @@ If the user does not select a funding type, we show an error message:
 
 ![Funding type error message](error-messages--funding-type.png "Funding type error message")
 
-### Teaching Apprenticeship
+### Teaching apprenticeship
 
 If the user does not select if this is a teaching apprenticeship, we show an error message:
 
