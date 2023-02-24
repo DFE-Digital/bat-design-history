@@ -4,6 +4,10 @@ description: Giving the support team the ability to add multiple locations to an
 date: 2023-02-06
 tags:
   - locations
+related:
+  items:
+    - text: Editing and removing organisation locations
+      href: /support-for-publish/editing-and-removing-organisation-locations/
 screenshots:
   items:
     - text: Provider locations list
@@ -30,16 +34,6 @@ screenshots:
       src: adding-multiple-locations--check-your-answers.png
     - text: Adding multiple locations - success
       src: adding-multiple-locations--success.png
-    - text: Location details
-      src: location--details.png
-    - text: Location details updated
-      src: location--details-updated.png
-    - text: Remove location
-      src: location--remove.png
-    - text: Location cannot be removed
-      src: location--cannot-remove.png
-    - text: Location removed
-      src: location--removed.png
 ---
 
 Some providers find it difficult to enter large numbers of locations in Publish teacher training courses (Publish) and choose not to enter more than one location called, ‘Main site’.
