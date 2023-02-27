@@ -36,13 +36,13 @@ screenshots:
       src: adding-multiple-locations--success.png
 ---
 
-Some providers find it difficult to enter large numbers of locations in Publish teacher training courses (Publish) and choose not to enter more than one location called, ‘Main site’.
+Some providers find it challenging to enter large numbers of locations in Publish teacher training courses (Publish) and choose not to enter more than one location called ‘Main site’.
 
-This means it is harder for a candidate to find a provider’s course on Find postgraduate teacher training (Find) when searching by location (the most popular type of search).
+This means it is harder for a candidate to find a provider’s course on Find postgraduate teacher training (Find) when searching by location (the most popular search type).
 
 Candidates also don’t know where their school placements will likely be as the provider hasn’t listed any locations.
 
-To speed up the process of adding locations to Publish, we have introduced a way for support users to quickly and easily upload providers’ location information in bulk.
+To speed up adding locations to Publish, we have introduced a way for support users to quickly and easily upload providers’ location information in bulk.
 
 ## What we changed
 
@@ -89,6 +89,8 @@ We introduced ‘Save location and add another’ on the check your answers page
 
 ![Adding multiple locations to a provider](adding-multiple-locations-flow.png "Adding multiple locations to a provider flow")
 
+#### Adding multiple locations form
+
 ![Adding multiple locations form](adding-multiple-locations--upload.png "Adding multiple locations form")
 
 Location details can be copied and pasted into this form field from a CSV file or spreadsheet. The form field accepts comma-separated and tab-separated values.
@@ -107,11 +109,24 @@ If any data is missing, support users need to include a blank item in its place 
 
 The details of each location must be on a new line.
 
+#### Editing each location in turn
+
 ![Adding multiple locations edit form](adding-multiple-locations--edit.png "Adding multiple locations edit form")
 
 For each location entered into the ‘Add location’ form field, we show the add location page pre-filled with the location name, unique reference number - if included - and address.
 
 We display an error message if some location details are missing or incorrect.
+
+#### Checking your answers
+
+![Adding multiple locations check your answers](adding-multiple-locations--check-your-answers.png "Adding multiple locations check your answers")
+
+We display each location:
+
+- in the order they were uploaded in the CSV file
+- in [summary cards](https://design-system.service.gov.uk/components/summary-list/#summary-cards)
+
+If the user selects ‘Change’ on one of the cards, they are taken to the edit location page, where they can make the change. If they submit the edit page, select back, or select cancel, they will return to the ‘Check your answers’ page.
 
 ## Further considerations
 
@@ -123,7 +138,7 @@ We could further reduce the work for support users if we allowed them to upload 
 
 There is not a strong need for this since:
 
-- we will not be adding a huge number of locations at one time
+- we will not be adding a considerable number of locations at one time
 - the providers with the largest number of missing locations are higher education institutions (HEIs), and there’s only a small number of them
 - once all locations have been added to Publish, the multiple location upload will not be used regularly
 
@@ -143,6 +158,6 @@ In the new design, the support user cannot change their mind about how many loca
 
 If they paste in the details of 10 locations and later decide they only need to add 9, they will need to cancel and start again.
 
-We could add the ability to remove a location from the list of those to be added, either on the ‘Add location’ form page or on the check answers page.
+We could add the ability to remove a location from the list of those to be added, either on the ‘Add location’ form page or the check answers page.
 
 *[CSV]: Comma separated values
