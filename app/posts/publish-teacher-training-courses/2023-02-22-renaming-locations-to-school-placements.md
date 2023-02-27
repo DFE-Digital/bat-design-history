@@ -17,7 +17,7 @@ screenshots:
     - text: Add course - locations - error
       src: school-placements--add-course-locations-error.png
     - text: Add course - check your answers
-      src: school-placements--check-your-answers.png
+      src: school-placements--add-course-check-your-answers.png
     - text: Course details
       src: school-placements--course-details.png
     - text: Edit course - locations
