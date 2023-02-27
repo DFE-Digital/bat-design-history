@@ -37,7 +37,27 @@ We have:
 
 ## How it works
 
+### Location details
+
+On the location details page, we show a summary list of the location’s details, including:
+
+- name
+- location code
+- unique reference number (URN)
+- address
+
+Users can change the location’s name, URN and address. They cannot change the location code as the service generates it.
+
+This page also includes a ‘Remove location’ link, allowing users to remove the location from the organisation.
+
 ### Editing a location
 
+Selecting ‘Change’ next to any location details takes the user to the edit location form, where they can update the location name, URN and address.
 
 ### Removing a location
+
+We introduced the ability to remove a location from the organisation.
+
+When someone clicks ‘Remove location’, they must confirm the removal.
+
+If the location is attached to a course, they cannot remove the location before first removing it from the course.
