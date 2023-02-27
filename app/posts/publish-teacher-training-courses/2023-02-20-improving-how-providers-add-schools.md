@@ -1,6 +1,6 @@
 ---
 title: Improving how providers add schools
-description: We added a way for providers to find schools to add to their account using Get information about schools data
+description: We added a way for providers to find schools to add to their account using Get Information about Schools (GIAS) data
 date: 2023-02-20
 tags:
   - locations
@@ -46,18 +46,18 @@ This means it is harder for a candidate to find a provider’s course on Find po
 
 Candidates also don’t know where their school placements will likely be as the provider hasn’t listed any schools.
 
-To improve the way providers add schools in Publish, we added a way for providers to find and add them using [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.
+To make it easier for providers to add schools in Publish, we added a way for providers to find and add them using [Get Information about Schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.
 
 ## What we changed
 
 We have:
 
-- changed ‘locations’ to ‘schools’
+- changed ‘Locations’ to ‘Schools’
 - added a school look-up to the ‘Add school’ flow
 
-### Changing ‘locations’ to ‘schools’
+### Changing ‘Locations’ to ‘Schools’
 
-We changed ‘locations’ to ‘schools’ in Publish because the data is used in the ‘School placements’ section in Find postgraduate teacher training (Find).
+We changed ‘Locations’ to ‘Schools’ in Publish because the data is used in the ‘School placements’ section in Find postgraduate teacher training (Find).
 
 ### School look-up
 
@@ -67,13 +67,13 @@ We added a school look-up to the ‘Add school’ flow, which uses GIAS data, to
 
 ![Adding a school](adding-schools-flow.png "Adding a school flow")
 
-Selecting ‘Add school’ on the schools list page takes the user to form where they can search for a school, university or college by entering its name, unique reference number (URN) or postcode.
+Selecting ‘Add school’ on the schools list page takes the user to a form where they can search for a school, university or college. They do this by entering the school name, unique reference number (URN) or postcode.
 
-We use data provided by Get information about schools (GIAS) and display it in an autocomplete.
+We use data provided by GIAS and display it in an autocomplete.
 
-For each school, university or college in the list, we display the name, town and postcode. This allows users to correctly choose similarly named locations.
+For each school, university or college in the list, we display the name, town and postcode. This allows users to correctly choose from similarly named locations.
 
-If the user submits the form before selecting a item from the autocomplete, we display an error message.
+If the user submits the form before selecting an item from the autocomplete, we display an error message.
 
 If the user cannot find the school, university or college in the list, they can skip the form and enter the details manually.
 
@@ -83,7 +83,7 @@ If any required information is missing, we display an error message.
 
 The final step is to check your answers before adding the school.
 
-Users cannot add the same school, university or college twice. If they do try to do this, we display an error message on the check your answers page when selecting ‘Add school’.
+Users cannot add the same school, university or college twice. If they try to do this, we display an error message on the check your answers page when selecting ‘Add school’.
 
 ## Further considerations
 
@@ -97,7 +97,7 @@ While the user journey is more complex, we could consider allowing providers to 
 
 ### Distinguishing between types of location
 
-The ‘Schools’ section focuses on administering locations which are used later in the ‘School placements’ section of the course details. However, there might be a need to collect different types of locations, such as where a candidate might do the academic part of their studies. If this were the case, we would need to distinguish between types of locations.
+The ‘Schools’ section focuses on locations used later in the ‘School placements’ section of the course details. However, there might be a need to collect different types of locations, such as where a candidate might do the academic part of their studies. If this were the case, we would need to distinguish between types of locations.
 
 GIAS data has several different categories that could be used, such as:
 
@@ -105,12 +105,12 @@ GIAS data has several different categories that could be used, such as:
 - type - a more granular group
 - phase - for example, nursery, primary and secondary
 
-However, we might need to consider using our own category.
+However, we might need to consider using our own categories.
 
 ### Making school data from GIAS read-only
 
-In Publish, we copy data from GIAS into the school listing. This allows users to amend the data if necessary. However, this also means the data could go out of sync with GIAS. To prevent this, we could make the school details read-only, allowing us to periodically synchronise the data when necessary.
+In Publish, we copy data from GIAS into the school listing. This allows users to amend the data if necessary. However, this also means the data could go out of sync with GIAS. To prevent this, we could make the school details read-only, allowing us to periodically synchronise the data.
 
 *[CSV]: Comma separated values
-*[GIAS]: Get information about schools
-*[URN]: unique reference number
+*[GIAS]: Get Information about Schools
+*[URN]: Unique reference number
