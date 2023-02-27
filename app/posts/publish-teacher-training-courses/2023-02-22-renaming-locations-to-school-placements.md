@@ -12,19 +12,19 @@ related:
       href: /support-for-publish/adding-multiple-locations-to-an-organisation/
 screenshots:
   items:
-    - text: Add course - locations
+    - text: Add course - school placements
       src: school-placements--add-course-locations.png
-    - text: Add course - locations - error
+    - text: Add course - school placements - error
       src: school-placements--add-course-locations-error.png
     - text: Add course - check your answers
       src: school-placements--add-course-check-your-answers.png
     - text: Course details
       src: school-placements--course-details.png
-    - text: Edit course - locations
+    - text: Edit course - school placements
       src: school-placements--edit-course-locations.png
-    - text: Edit course - locations - success
+    - text: Edit course - school placements - success
       src: school-placements--edit-course-locations-success.png
-    - text: Edit course - locations - error
+    - text: Edit course - school placements - error
       src: school-placements--edit-course-locations-error.png
 ---
 
