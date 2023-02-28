@@ -40,7 +40,7 @@ Some providers find it challenging to enter large numbers of locations in Publis
 
 This means it is harder for a candidate to find a provider’s course on Find postgraduate teacher training (Find) when searching by location (the most popular search type).
 
-Candidates also don’t know where their school placements will likely be as the provider hasn’t listed any locations.
+Without school placement information, candidates will not know where their school placements are likely to be. Our user research has found that this can deter candidates from applying for a course.
 
 To speed up adding locations to Publish, we have introduced a way for support users to quickly and easily upload providers’ location information in bulk.
 
@@ -158,6 +158,6 @@ In the new design, the support user cannot change their mind about how many loca
 
 If they paste in the details of 10 locations and later decide they only need to add 9, they will need to cancel and start again.
 
-We could add the ability to remove a location from the list of those to be added, either on the ‘Add location’ form page or the check answers page.
+We could add the ability to remove a location from the list of those to be added, either on the ‘Add location’ form page or the ‘Check your answers’ page.
 
 *[CSV]: Comma separated values
