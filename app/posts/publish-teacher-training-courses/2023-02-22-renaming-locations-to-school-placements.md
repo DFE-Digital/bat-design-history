@@ -1,6 +1,6 @@
 ---
 title: Renaming ‘locations’ to ‘school placements’
-description: We replaced the term ‘Locations’ with ‘School placements’ to reflect how the information is displayed on Find postgraduate teacher training
+description: We replaced the term ‘Locations’ with ‘School placements’ to reflect the information displayed on Find postgraduate teacher training
 date: 2023-02-22
 tags:
   - locations
@@ -28,7 +28,7 @@ screenshots:
       src: school-placements--edit-course-locations-error.png
 ---
 
-We replaced the term ‘Locations’ with ‘School placements’ to reflect how the information is displayed on Find postgraduate teacher training (Find).
+We replaced the term ‘Locations’ with ‘School placements’ to reflect the information displayed on Find postgraduate teacher training (Find).
 
 ## What we changed
 
@@ -39,3 +39,7 @@ We have changed the:
 - summary list on the course basic details page
 - locations page in the ‘Edit location’ flow
 - success and error messages
+
+### Summary lists
+
+If there is only one school placement, we use the singular ‘School placement’ for the label. If there is more than one school placement, we use the plural ‘School placements’.
