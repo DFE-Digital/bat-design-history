@@ -82,7 +82,7 @@ When a user selects ‘Modern languages’ as a first or second subject, we show
 
 If the user does not select a language, we show an error message:
 
-> Select a language
+> Select at least one language
 
 ![Languages error message](error-messages--languages.png "Languages error message")
 
