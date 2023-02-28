@@ -54,6 +54,18 @@ This page also includes a ‘Remove location’ link, allowing users to remove t
 
 Selecting ‘Change’ next to any location details takes the user to the edit location form, where they can edit the location name, URN and address.
 
+The edit location form includes:
+
+- location name
+- unique reference number
+- address line 1
+- address line 2
+- town or city
+- county
+- postcode
+
+Location name, address line 1 and postcode are required fields. If the data is missing or incorrect, we display an error message.
+
 ### Removing a location
 
 We introduced the ability to remove a location from the organisation.
