@@ -12,7 +12,7 @@ We added some content about what teaching training events are on the ‘Find cou
 
 ![Find courses by location or training partner](find-courses.png)
 
-Also, we updated the existing events link from the search results page to include its own unique UTM code.
+We updated the existing events link from the search results page to include its own unique UTM code.
 
 ## Future considerations
 
