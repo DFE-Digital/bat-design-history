@@ -27,7 +27,7 @@ related:
 
 ![Illustration with the text: "Safeguarding: references to be collected if you accept an offer (incomplete)""](/apply-for-teacher-training/asking-candidates-for-reference-details-when-they-apply/references-to-be-collected.png)
 
-We’ve [changed the references process](/apply-for-teacher-training/collecting-references-after-offer/) so that candidates do not need to receive references before they submit their application.
+We’ve [changed the references process](/apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/) so that candidates do not need to receive references before they submit their application.
 
 They instead need to give details of 2 people who can give a reference.
 
