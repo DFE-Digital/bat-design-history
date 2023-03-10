@@ -2,6 +2,9 @@
 layout: page
 title: Mission patches
 description: Archive of patches created to celebrate milestones in the development of our different services.
+ogImage:
+  src: /mission-patches/mission-patches.png
+  alt: "A collection of circular mission patches"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
