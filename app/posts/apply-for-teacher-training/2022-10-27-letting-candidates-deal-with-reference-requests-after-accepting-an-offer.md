@@ -15,7 +15,7 @@ ogImage:
 
 {% from "email/macro.njk" import appEmail %}
 
-We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates do not need to receive references before they submit their application. They instead need to give details of 2 people who can give a reference.
+We’ve [changed the references process](/apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/) so that candidates do not need to receive references before they submit their application. They instead need to give details of 2 people who can give a reference.
 
 Once they’ve accepted an offer, candidates now need to be able to see the status of reference requests, and request additional ones if needed.
 

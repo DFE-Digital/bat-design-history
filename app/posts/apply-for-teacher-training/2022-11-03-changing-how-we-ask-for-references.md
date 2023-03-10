@@ -12,7 +12,7 @@ ogImage:
 {% from "email/macro.njk" import appEmail %}
 ![Illustration with the title 'References', 2 bullet points and an empty text box](reference-illustration.png)
 
-We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates do not need to receive references before they submit their application, and instead only need to request references once they have accepted an offer.
+We’ve [changed the references process](/apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/) so that candidates do not need to receive references before they submit their application, and instead only need to request references once they have accepted an offer.
 
 This change meant we could also review the questions we ask people when giving a reference, refocusing it on factual information used for safeguarding purposes.
 

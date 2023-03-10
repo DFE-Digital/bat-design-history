@@ -14,7 +14,7 @@ ogImage:
 
 ![Illustration with heading: Confirm your reference details and accept your offer. Table showing: type, name, email, how you know them and for how long.](confirm-details.png)
 
-We’ve [changed the references process](/changing-the-reference-process-to-make-it-easier-for-candidates-to-submit-applications) so that candidates do not need to receive references before they submit their application. They instead need to [give details of 2 people who can give a reference](/apply-for-teacher-training/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to/).
+We’ve [changed the references process](/apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/) so that candidates do not need to receive references before they submit their application. They instead need to [give details of 2 people who can give a reference](/apply-for-teacher-training/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to/).
 
 When they accept an offer, candidates are given the chance to change these details.
 
