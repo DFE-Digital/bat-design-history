@@ -139,6 +139,9 @@ Ants are ‘superorganisms’ because they operate as a unified entity, collecti
   }, {
     text: "Impact squad",
     caption: "This patch celebrated the creation of a team to coordinate impactful change across the service line. The team chose an elephant (named Kahar after the team’s founding product manager) given their strength, wisdom and memory. Different coloured eyes represent diversity, and that the team works across Get into teaching (green) and Becoming a teacher (blue). May 2021"
+  }, {
+    text: "Profession time: rethinking the end of year report",
+    caption: "This patch celebrated an internal project run during profession time, where teams developed skills in data visualisation by rethinking the end of year report. 2022"
   }]
 }) }}
 
