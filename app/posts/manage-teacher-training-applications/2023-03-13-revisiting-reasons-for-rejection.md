@@ -6,10 +6,10 @@ tags:
   - rejections
 ogImage:
   src: /manage-teacher-training-applications/revisiting-reasons-for-rejection/reasons-for-rejection-revisited.png
-  alt: "TODO"
+  alt: "Illustration containing two headings: ‘Before’ and ’After’. Beneath the ‘Before’ heading are two checked boxes, where under each checked box, a ‘Reasons’ sub-heading is shown above some additional unchecked boxes. Beneath the ’After’ heading is just a set of boxes with no nested checkboxes."
 ---
 
-![TODO](reasons-for-rejection-revisited.png)
+![Illustration containing two headings: ‘Before’ and ’After’. Beneath the ‘Before’ heading are two checked boxes, where under each checked box, a ‘Reasons’ sub-heading is shown above some additional unchecked boxes. Beneath the ’After’ heading is just a set of boxes with no nested checkboxes.](reasons-for-rejection-revisited.png)
 
 As part of some wider research and design work around the application criteria, we revisited the reasons that providers can select when rejecting a candidate, simplifying the interface and reducing the number of options.
 
@@ -23,7 +23,7 @@ Unfortunately, whilst this tested well in usability sessions, since we launched 
 
 We decided to try simplifying the design by removing the nested checkboxes, and instead only have a single list of checkboxes, which each still reveal a single ‘Details’ field.
 
-![TODO](updated-rejection-reasons.png "New design for the candidate feedback screen")
+![Screenshot showing a page with the heading ‘Feedback for Peter Essien’. Beneath the heading is a exclaimation mark icon and the bolded text ‘You must not reject candidates for a lack of experience working in a school’. Beaneath this is the subheading ‘Tell Peter Essien why you are rejecting their application’. Beneath this is a set of 9 checkboxes labelled with different reasons. Beneath this is text box with the label ‘Give Peter Essien advice on what to do next. For example, “You should apply again to a different course”’. Beneath this is a green ‘Continue’ button.](updated-rejection-reasons.png "New design for the candidate feedback screen")
 
 We reduced the total number of checkboxes from 28 to 9, by grouping some of the checkboxes that we considered very similar.
 
