@@ -1,6 +1,6 @@
 ---
 title: Revisiting reasons for rejection
-description: TODO
+description: Why we decided to simplify the list of reasons for rejecting a candidate, and what the research told us
 date: 2023-03-13
 tags:
   - rejections
