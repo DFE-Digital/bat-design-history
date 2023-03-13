@@ -106,7 +106,7 @@ They were mixed reactions to the warning content about not rejecting candidates 
 Most providers liked the idea of the ‘advice on what to do next’ box, and suggested that it might:
 
 * be helpful for candidates
-* lead to fewer candidate requests for additional feedback from providers.
+* lead to fewer candidate requests for additional feedback from providers
 * allow a more human, friendly approach
 
 2 providers were not keen, and suggested that candidates should be looking elsewhere for this advice.
