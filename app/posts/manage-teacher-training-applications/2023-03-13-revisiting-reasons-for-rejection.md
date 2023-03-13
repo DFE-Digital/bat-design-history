@@ -19,7 +19,7 @@ In April 2022, the reasons for rejections were changed following several rounds 
 
 Unfortunately, whilst this tested well in usability sessions, since we launched this design we’ve found that ‘Other’ has been the most selected option.
 
-## What we researched
+## What we changed
 
 We decided to try simplifying the design by removing the nested checkboxes, and instead only have a single list of checkboxes, which each still reveal a single ‘Details’ field.
 
@@ -33,80 +33,65 @@ The ‘Other’ option was removed – in part so that we could see within the u
 
 The content was also edited to have a consistent style and be more descriptive, for example ‘We cannot sponsor a visa’ instead of ‘Visa sponsorship’.
 
-{% set oldList %}
-<h3 class="govuk-heading-s">Qualifications</h3>
-<ul class="govuk-list govuk-list--bullet">
-  <li>No maths GCSE at minimum grade 4 or C, or equivalent</li>
-  <li>No English GCSE at minimum grade 4 or C, or equivalent</li>
-  <li>No science GCSE at minimum grade 4 or C, or equivalent</li>
-  <li>No bachelor’s degree or equivalent</li>
-  <li>Degree does not meet course requirements</li>
-  <li>Could not verify qualifications</li>
-  <li>Other</li>
-</ul>
-
-<h3 class="govuk-heading-s">Personal statement</h3>
-<ul class="govuk-list govuk-list--bullet">
-  <li>Quality of writing</li>
-  <li>Other</li>
-</ul>
-
-<h3 class="govuk-heading-s">Teaching knowledge, ability and interview performance</h3>
-<ul class="govuk-list govuk-list--bullet">
-  <li>Teaching knowledge, ability and interview performance</li>
-  <li>Reasons</li>
-  <li>Subject knowledge</li>
-  <li>Safeguarding knowledge</li>
-  <li>Teaching method knowledge</li>
-  <li>Teaching role knowledge</li>
-  <li>Teaching demonstration</li>
-  <li>Other</li>
-</ul>
-
-<h3 class="govuk-heading-s">Communication, interview attendance and scheduling</h3>
-<ul class="govuk-list govuk-list--bullet">
-  <li>Did not reply to messages</li>
-  <li>Did not attend interview</li>
-  <li>Could not arrange interview</li>
-  <li>Other</li>
-</ul>
-
-<ul class="govuk-list govuk-list--bullet">
-  <li>Safeguarding</li>
-  <li>Visa sponsorship</li>
-  <li>Course full</li>
-  <li>Other</li>
-</ul>
-{% endset %}
-
-{% set newList %}
-  <ul class="govuk-list govuk-list--bullet">
-    <li>Does not have a degree or A level in [course subject]</li>
-    <li>Degree class does not meet course requirements</li>
-    <li>Personal statement did not demonstrate they are suitable to teach</li>
-    <li>Could not get in touch with them</li>
-    <li>Could not arrange an interview</li>
-    <li>Interview performance was not strong enough</li>
-    <li>We have safeguarding concerns</li>
-    <li>We cannot sponsor a visa</li>
-    <li>The course is now full</li>
-  </ul>
-{% endset %}
-
-<div class="govuk-grid-row">
-  <div class="govuk-grid-column-one-half">
-  <h3 class="govuk-heading-m">Before</h3>
-    {{ oldList | safe }}
-  </div>
-  <div class="govuk-grid-column-one-half">
-  <h3 class="govuk-heading-m">After</h3>
-    {{newList | safe }}
-  </div>
-</div>
-
 We added some warning text at the top to remind providers that they must not reject candidates for having a lack of experience working in a school.
 
 Beneath the reasons for rejection, we added a text box where providers could give the candidate advice on what to do next.
+
+### Reasons for rejection: before
+
+Qualifications:
+
+* No maths GCSE at minimum grade 4 or C, or equivalent
+* No English GCSE at minimum grade 4 or C, or equivalent
+* No science GCSE at minimum grade 4 or C, or equivalent
+* No bachelor’s degree or equivalent
+* Degree does not meet course requirements
+* Could not verify qualifications
+* Other
+
+
+Personal statement:
+
+* Quality of writing
+* Other
+
+Teaching knowledge, ability and interview performance:
+
+* Teaching knowledge, ability and interview performance
+* Reasons
+* Subject knowledge
+* Safeguarding knowledge
+* Teaching method knowledge
+* Teaching role knowledge
+* Teaching demonstration
+* Other
+
+Communication, interview attendance and scheduling:
+
+* Did not reply to messages
+* Did not attend interview
+* Could not arrange interview
+* Other
+
+(Non-categorised):
+
+* Safeguarding
+* Visa sponsorship
+* Course full
+* Other
+
+
+### Reasons for rejection: after
+
+* Does not have a degree or A level in [course subject]
+* Degree class does not meet course requirements
+* Personal statement did not demonstrate they are suitable to teach
+* Could not get in touch with them
+* Could not arrange an interview
+* Interview performance was not strong enough
+* We have safeguarding concerns
+* We cannot sponsor a visa
+* The course is now full
 
 ## Research
 
