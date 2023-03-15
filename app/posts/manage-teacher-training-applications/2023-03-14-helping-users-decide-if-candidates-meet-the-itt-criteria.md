@@ -40,6 +40,7 @@ We also wanted to understand more about how providers assess candidates and who 
 As part of the work we did to [revisit the reasons for rejection](/manage-teacher-training-applications/revisiting-reasons-for-rejection/), we added specific questions about if the candidate met the ITT criteria or not when a training provider decides to reject a candidate.
 
 On each of the questions about the ITT criteria, we added a support email address. We wanted to test if training providers would use it to ask for help if they were not sure if the candidate met the ITT criteria.
+
 ### Degree criteria question
 
 We added a question about if a candidate had a degree or not. This question would only show if the candidate had entered a degree in their application form that was not recognisable. For example, a degree from a country outside the UK.
@@ -61,6 +62,7 @@ We also included a snippet from the ITT criteria about GCSEs. We were particular
 The question about science GCSEs would only show if a candidate was applying to a primary course and their science qualification was not recognisable.
 
 ![Screenshot showing a page with the heading 'Science GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) in a science GCSE?'. This page also shows the candidates science qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](science-gcse-question.png)
+
 ### Optional extra feedback
 
 If the training provider answered ‘No’ to any of the questions about if the candidate met the ITT criteria, we show another page where training providers could give ‘optional’ extra feedback on other aspects of the candidate’s application.
