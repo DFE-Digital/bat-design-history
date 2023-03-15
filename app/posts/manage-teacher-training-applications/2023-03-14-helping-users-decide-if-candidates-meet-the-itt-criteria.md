@@ -39,6 +39,7 @@ We also wanted to understand more about how providers assess candidates and who 
 
 As part of the work we did to [revisit the reasons for rejection](/manage-teacher-training-applications/revisiting-reasons-for-rejection/), we added specific questions about if the candidate met the ITT criteria or not when a training provider decides to reject a candidate.
 
+On each of the questions about the ITT criteria, we added a support email address. We wanted to test if training providers would use it to ask for help if they were not sure if the candidate met the ITT criteria.
 ### Degree criteria question
 
 We added a question about if a candidate had a degree or not. This question would only show if the candidate had entered a degree in their application form that was not recognisable. For example, a degree from a country outside the UK.
@@ -60,7 +61,6 @@ We also included a snippet from the ITT criteria about GCSEs. We were particular
 The question about science GCSEs would only show if a candidate was applying to a primary course and their science qualification was not recognisable.
 
 ![Screenshot showing a page with the heading 'Science GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) in a science GCSE?'. This page also shows the candidates science qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](science-gcse-question.png)
-
 ### Optional extra feedback
 
 If the training provider answered ‘No’ to any of the questions about if the candidate met the ITT criteria, we show another page where training providers could give ‘optional’ extra feedback on other aspects of the candidate’s application.
@@ -80,6 +80,7 @@ Most issues were around the ITT criteria itself, which our team does not have co
 * hold the ITT criteria in high regard, and refer to it often when assessing candidates
 * feel there is a lot of ‘grey areas’ in the ITT criteria, especially when assessing “tricky” qualifications
 * find assessing international candidate’s qualifications the most time consuming – this may be leading to them rejecting these candidate prematurely
+* liked the addition of the support email address but generally want more direct support – users mentioned they would go to their own teams first or would prefer a specialsed email inbox
 * feel a third class degree is not strong enough for ITT – some providers mentioned that candidates need a 2:2 degree or higher to get a bursary from DfE which suggests that DfE thinks that 3rd class degrees are not the best
 * are not clear on the rules around if the degree subject should match the course subject
 * thought that the line “it’s the standard, not the certificate that matters” is too vague for them to use in practice
@@ -90,5 +91,3 @@ Most issues were around the ITT criteria itself, which our team does not have co
 As a team, we do not have control over the ITT criteria. However, our user researcher and policy colleagues have discussed this research with the team who look after the ITT criteria on GOV.UK, so that they can use this to make the guidance clearer.
 
 We think these designs can help training providers give better feedback to candidates and help them keep the ITT criteria in mind.
-
-As a team, we do not have control over the ITT criteria. However, our user researcher and policy colleagues have discussed this research with the team who look after the ITT criteria on GOV.UK, so that they can use this to make the guidance clearer.
