@@ -45,7 +45,7 @@ We added a question about if a candidate had a degree or not. This question woul
 
 We included a snippet taken directly from the ITT criteria about degrees. We did this to purposefully test if the language was understandable to training providers.
 
-![Screenshot showing a page with the heading 'Degree criteria ' and the question 'Do they meet the degree criteria'. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate's degree should have'](degree-question-page.png)
+![Screenshot showing a page with the heading 'Degree criteria ' and the question 'Do they meet the degree criteria'. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate's degree should have'](degree-question.png)
 
 ### English, maths and science GCSE criteria questions
 
@@ -53,13 +53,13 @@ After the degree question, we included questions about if the candidate has an E
 
 We also included a snippet from the ITT criteria about GCSEs. We were particularly interested in finding out what training providers understood by “it is the standard, not the certificate, that matters” in the criteria. As we thought this is particularly unclear.
 
-![Screenshot showing a page with the heading 'English GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) English GCSE?'. This page also shows the candidates English qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](english-gcse-question-page.png)
+![Screenshot showing a page with the heading 'English GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) English GCSE?'. This page also shows the candidates English qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](english-gcse-question.png)
 
-![Screenshot showing a page with the heading 'Maths GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) maths GCSE?'. This page also shows the candidates maths qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](maths-gcse-question-page.png)
+![Screenshot showing a page with the heading 'Maths GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) maths GCSE?'. This page also shows the candidates maths qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](maths-gcse-question.png)
 
 The question about science GCSEs would only show if a candidate was applying to a Primary course and their science qualification was not recognisable.
 
-![Screenshot showing a page with the heading 'Science GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) in a science GCSE?'. This page also shows the candidates science qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](science-gcse-question-page.png)
+![Screenshot showing a page with the heading 'Science GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) in a science GCSE?'. This page also shows the candidates science qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](science-gcse-question.png)
 
 ### Optional extra feedback
 
@@ -67,11 +67,11 @@ If the training provider answered ‘No’ to any of the questions about if the 
 
 We made this optional because by answering ‘No’ to any of the previous questions about the ITT criteria, the training provider would have already given some feedback to the candidate.
 
-![Screenshot showing a page with the heading 'Give Peter Essien any other feedback (optional)'. Beneath this is a set of 9 checkboxes labelled with different reasons. Beneath this is a green ‘Continue’ button.'](optional-feedback-page.png)
+![Screenshot showing a page with the heading 'Give Peter Essien any other feedback (optional)'. Beneath this is a set of 9 checkboxes labelled with different reasons. Beneath this is a green ‘Continue’ button.'](optional-feedback.png)
 
 If the training provider had answered ‘Yes’ to all of the questions about if the candidate met the ITT criteria, we show a page where the provider must give the candidate feedback on why they are rejecting their application.
 
-![Screenshot showing a page with the heading ‘Feedback for Peter Essien’. Beneath the heading is a exclaimation mark icon and the bolded text ‘You must not reject candidates for a lack of experience working in a school’. Beaneath this is the subheading ‘Tell Peter Essien why you are rejecting their application’. Beneath this is a set of 9 checkboxes labelled with different reasons. Beneath this is text box with the label ‘Give Peter Essien advice on what to do next. For example, “You should apply again to a different course”’. Beneath this is a green ‘Continue’ button.](optional-feedback-page.png)
+![Screenshot showing a page with the heading ‘Feedback for Peter Essien’. Beneath the heading is a exclaimation mark icon and the bolded text ‘You must not reject candidates for a lack of experience working in a school’. Beaneath this is the subheading ‘Tell Peter Essien why you are rejecting their application’. Beneath this is a set of 9 checkboxes labelled with different reasons. Beneath this is text box with the label ‘Give Peter Essien advice on what to do next. For example, “You should apply again to a different course”’. Beneath this is a green ‘Continue’ button.](feedback-page.png)
 
 ## What we learnt
 
