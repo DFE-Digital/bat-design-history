@@ -26,7 +26,7 @@ Sometimes candidates get rejected by training providers, even though they meet t
 
 ## What we changed
 
-On the page where we show the [preview of the email that will be sent to candidates when a provider rejects their application], we added a further question. The question asks training providers if they would like to recommend a candidate to join a shortlist.
+On the page where we show the [preview of the email](/manage-teacher-training-applications/rejection-email-previews/) that will be sent to candidates when a provider rejects their application, we added a further question. The question asks training providers if they would like to recommend a candidate to join a shortlist.
 
 This new question would only show if the [candidate meets all the ITT criteria](/manage-teacher-training-applications/helping-users-decide-if-candidates-meet-the-itt-criteria/).
 
