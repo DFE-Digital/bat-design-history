@@ -1,6 +1,6 @@
 ---
 title: Helping users decide if candidates meet the initial teacher training criteria
-description: Why we decided to simplify the list of reasons for rejecting a candidate, and what the research told us
+description: Exploring how training providers understand the initial teacher training criteria and if we can better support them when assessing candidates.
 date: 2023-03-14
 tags:
   - rejections
