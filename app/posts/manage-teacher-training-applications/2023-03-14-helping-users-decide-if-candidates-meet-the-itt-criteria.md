@@ -37,7 +37,7 @@ We also wanted to understand more about how providers assess candidates and who 
 
 ## What we changed
 
-As part of the work we did to [revisit the reasons for rejection](/manage-teacher-training-applications/revisiting-reasons-for-rejection/), when a training provider decides to reject a candidate we added specific questions about if the candidate met the ITT criteria or not.
+As part of the work we did to [revisit the reasons for rejection](/manage-teacher-training-applications/revisiting-reasons-for-rejection/), we added specific questions about if the candidate met the ITT criteria or not when a training provider decides to reject a candidate.
 
 ### Degree criteria question
 
