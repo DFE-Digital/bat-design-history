@@ -25,7 +25,7 @@ Candidates need to have the following qualifications to do ITT in England:
 
 [The ITT criteria is published for training providers on GOV.UK](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice).
 
-Previous reporting showed that candidates who are rejected based on their qualifications, are often from outside the UK and sometimes hold equivalent qualifications.
+Previous reporting showed that candidates who are rejected based on their qualifications often have qualifications from outside the UK or qualifications from the UK that aren’t GCSEs but are equivalent.
 
 We also saw that eligible candidates are sometimes rejected even though they meet the ITT criteria but have maybe applied for a course they do not have qualifications in. For example, a candidate applies to a History course, but they have a degree in science.
 
@@ -37,7 +37,7 @@ We also wanted to understand more about how providers assess candidates and who 
 
 ## What we changed
 
-As part of the work we did to [revisit the reasons for rejection](/manage-teacher-training-applications/revisiting-reasons-for-rejection/), when a training provider decides to reject a candidate we added specific questions about if the candidate met the ITT criteria or not.
+As part of the work we did to [revisit the reasons for rejection](/manage-teacher-training-applications/revisiting-reasons-for-rejection/), we added specific questions about if the candidate met the ITT criteria or not when a training provider decides to reject a candidate.
 
 ### Degree criteria question
 
