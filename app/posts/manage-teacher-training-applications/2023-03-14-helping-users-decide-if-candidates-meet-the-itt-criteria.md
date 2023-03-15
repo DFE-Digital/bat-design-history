@@ -25,7 +25,7 @@ Candidates need to have the following qualifications to do initial teacher train
 
 ## The issue
 
-Previous reporting showed that candidates who are rejected based on their qualifications, are often from outside the UK and sometimes hold equivalent qualifications.
+Previous reporting showed that candidates who are rejected based on their qualifications often have qualifications from outside the UK or qualifications from the UK that aren’t GCSEs but are equivalent.
 
 We also saw that eligible candidates are sometimes rejected for reasons outside their control. For example, a candidate applies to a History course, but they have a degree in science.
 
