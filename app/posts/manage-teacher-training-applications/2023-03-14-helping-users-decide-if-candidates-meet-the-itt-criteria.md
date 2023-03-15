@@ -5,7 +5,7 @@ date: 2023-03-14
 tags:
   - rejections
 ogImage:
-  src: /manage-teacher-training-applications/helping-users-assess-candidates-against-itt-criteria/itt-criteria-cover-image.png
+  src: /manage-teacher-training-applications/helping-users-decide-if-candidates-meet-the-itt-criteria/itt-criteria-cover-image.png
   alt: "Illustration containing 5 screens: Each screen has a question relating to the initial teacher training criteria. If users answer 'Yes' to every question, they go to a page to give a reason for rejecting the candidate. If users answer 'No' to one or more of the questions, they go to a page where they can give optional feedback to the candidate."
 ---
 
