@@ -30,7 +30,7 @@ Issues we’ve spotted with feedback have included:
 
 ## What we changed
 
-Previously, after selecting and writing the reasons for rejection, the confirmation page showed their answers using a ‘check your answers’ style summary list, with ‘change’ links:
+Previously, after the training provider selected and wrote their reasons for rejection, the confirmation page showed their answers using a ‘check your answers’ style summary list, with ‘change’ links:
 
 ![Screenshot of a page with the heading ’Check details and reject application’ followed by a table containing 2 reasons with the headings ‘Qualifications’ and ‘Personal statement’, the content of those rejections, and links labelled ‘Change’. Below this is a warning icon with the text ‘The candidate will be sent an email to tell them why you rejected their application’. Below this is a green button labelled ‘Reject application’](previous-check-answers.png)
 
