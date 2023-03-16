@@ -1,6 +1,6 @@
 ---
 title: Adding a school when there is no JavaScript available
-description: We added a no-JavaScript version of the add school flow, which we can progressively enhance
+description: We added a no-JavaScript version of the add school flow
 date: 2023-03-16
 tags:
   - locations
@@ -26,7 +26,7 @@ screenshots:
 
 When a provider adds a school in Publish teacher training courses (Publish), we use an autocomplete to help users search for schools.
 
-The autocomplete works well for quickly selecting a school, but it requires JavaScript to be running successfully for it to be used. Not everyone has JavaScript, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a school, but it requires JavaScript to be working. Not everyone has JavaScript, and it doesn’t always run successfully.
 
 We added a no-JavaScript version of the ‘Add school’ flow, which we can progressively enhance.
 
@@ -48,6 +48,6 @@ Selecting a school from the list allows the user to continue and add the school.
 
 If the user tries to continue without selecting a school, we show an error message.
 
-If the school the user is looking for isn’t listed, or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+If the school the user is looking for isn’t listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
 
 *[GIAS]: Get Information about Schools
