@@ -64,4 +64,4 @@ Users also wanted assurances that:
 * they would not have to commit to using the shortlist 
 * they would have enough information about candidates on the shortlist before contacting them
 
-We will not implement these designs yet until we’ve done more testing around the idea.
+We will not implement these designs until we’ve done more testing around the idea.
