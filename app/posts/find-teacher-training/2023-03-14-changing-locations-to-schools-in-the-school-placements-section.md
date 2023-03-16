@@ -12,6 +12,6 @@ related:
 
 We recently updated Publish teacher training courses (Publish), changing ‘locations’ to ‘schools’. We wanted to reflect this change in Find postgraduate teacher training (Find).
 
-In the ‘School placements’ section, we have replaced ‘locations’ with ‘schools’.
+In a course’s ‘School placements’ section, we have replaced ‘locations’ with ‘schools’.
 
 ![List of schools on a course](schools.png "List of schools on a course")
