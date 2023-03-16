@@ -22,7 +22,7 @@ Sometimes candidates get rejected by training providers, even though they meet t
 * if the candidate needs to improve their personal statement
 * the course is full
 * the provider thinks the candidate would be suitable for a different course
-* the candidate’s degree is a 3rd class degree and the training provider only accepts a degree class of 2:2
+* the candidate’s degree is a 3rd class degree and the training provider only accepts a degree class of 2:2 or above
 
 ## What we changed
 
