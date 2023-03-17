@@ -64,6 +64,7 @@ If they select 2, the following screen asks for the reason for both languages:
 
 They’ll then be asked for the length of both courses. Here one of the courses has to be exactly 8 weeks, and the other one can up to to 28 weeks:
 
+![TODO](ske-2-languages-length.png)
 
 In the check answers screen, both language courses are shown:
 
@@ -93,8 +94,34 @@ However, we also decided not support these within the new flow, as the numbers o
 
 ## Research
 
-TODO
+We tested this flow with participants from 8 providers. 5 of these worked at a school-based training provider, and 3 worked for a university.
+
+In the usability research, providers were able to complete the flow easily. They commented that being able to select options and not having to write the condition as text gave them ‘one less thing to think about the wording of’.
+
+Providers indicated that they would have all the information to answer the questions about the SKE conditions, as these are usually discussed at an interview.
+
+Some providers said that they did not specify the length of the SKE course, and left this up to the candidate. However the SKE policy states this must be set by the provider, so we were comfortable making this a required question.
+
+There was a small amount of ambiguity around the degree criteria, as some providers were not sure exactly how to assess whether the candidate’s degree matched the course subject applied to or not. This can become complicated with non-UK degrees, joint honours degrees and other mixed degree subjects. We decided not to tackle this within the interface but instead handle these queries through other channels.
+
+We also discovered a wider variety of findings about the SKE course policy itself, how providers assess whether candidates should take these, and how providers feel about the different providers of these courses. We have fed these findings back separately to the relevant policy teams.
+
+### Asking when SKE courses need to be finished by
+
+In the prototype we tested, we included an additional question, which asked providers whether they required the candidate to finish the SKE course before they started their teacher training course or not.
+
+![TODO](ske-deadline.png)
+
+We found that most providers wanted to strongly encourage trainees to complete the SKE course before their training, but that they would allow some overlap in exceptional circumstances. This meant they didn’t feel it was a straight yes or no answer.
+
+We also subsequently discovered that when a trainee starts their teacher training course, they lose their entitlement to the £175 per week bursary for any remaining weeks.
+
+For these reasons, we decided to drop this question. We will instead give all candidates the same guidance about aiming to complete their SKE course before they start training.
 
 ## Future considerations
 
-TODO
+The changes we’ve made only apply to those providers who make offers using the Manage interface. Providers making offers using their own student record system using our API will continue to send us conditions as a free text.
+
+In future, we hope to enhance the API to also include SKE courses as structured offer conditions.
+
+We also have concerns that the policy around SKE courses, such as the subjects it is available for, and the exact eligibility criteria, may change from year to year. We will need to update the flow whenever there are any changes.
