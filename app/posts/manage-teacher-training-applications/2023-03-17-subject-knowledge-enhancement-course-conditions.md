@@ -4,6 +4,9 @@ description: How we improved the process of requiring candidates to do a subject
 date: 2023-03-17
 tags:
   - subject knowledge enhancement courses
+ogImage:
+  src: /manage-teacher-training-applications/subject-knowledge-enhancement-course-conditions/ske-condition-cover-image.png
+  alt: "TODO"
 ---
 
 ![TODO](ske-condition-cover-image.png)
