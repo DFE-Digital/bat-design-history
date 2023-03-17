@@ -18,6 +18,9 @@ screenshots:
       src: accredited-providers--accredited-provider-updated.png
     - text: Accredited provider and visa updated
       src: accredited-providers--accredited-provider-and-visa-updated.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-renaming-accredited-body-to-accredited-provider
 ---
 
 We replaced the term ‘accredited body’ with ‘accredited provider’ to reflect how we talk about providers internally and externally.
