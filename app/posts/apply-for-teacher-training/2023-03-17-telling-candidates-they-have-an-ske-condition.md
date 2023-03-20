@@ -1,9 +1,9 @@
 ---
-title: Telling candidates they need to do a subject knowledge enhancement (SKE) course
-description: How we designed a way to tell candidates they have a subject knowledge enhancement (SKE) course as a condition of their offer.
+title: Telling candidates they need to do a subject knowledge enhancement course
+description: How we designed a way to tell candidates they have a subject knowledge enhancement course as a condition of their offer.
 date: 2023-03-17
 tags:
-  - rejections
+  - making an offer
 ogImage:
   src: /apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/ske-cover-image.png
   alt: "Illustration with the text 'Offer received' and inforation about doing an 8 week subject knowledge enhancement course in physics"
