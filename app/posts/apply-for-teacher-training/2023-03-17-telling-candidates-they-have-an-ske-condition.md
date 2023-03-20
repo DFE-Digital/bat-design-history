@@ -16,7 +16,7 @@ Previously, we designed a way to help training providers add a subject knowledge
 
 When this offer comes through to the candidate, we need a way for them to see information about the SKE course.
 
-We tested these designs and improved the content shown to candidates. We released this new feature in March 2023.
+We tested these designs and improved the content shown to candidates. We released this new feature on 20 March 2023.
 
 ## The issue
 
