@@ -66,7 +66,7 @@ If there are 2 language SKE courses, we show slightly different content with gra
 
 ![Screenshot showing the offer a candidate will recieve with 2 language subject knowledge enhancement courses attached. The courses are for an 8 week French course and a 12 week Spanish course. The content also tells the user they should start their courses by April 2023, there is a £175 bursary they can get while doing the courses and there are options on how they can study which include full time, part time and online or in-person. The screen then asks the user to respond to the offer'](language-ske.png)
 
-## After accepting an offer
+### After accepting an offer
 
 Once they accept the offer, we show their SKE course with their other conditions, like their Disclosure and Barring Service (DBS) check.
 
