@@ -58,7 +58,7 @@ We give them information on:
 
 ![Screenshot showing the offer a candidate will recieve with a subject knowledge enhancement course attached. The course is for a 12 week biology course. The content also tells the user they should start their course by April 2023, there is a £175 bursary they can get while doing the course and there are options on how they can study which include full time, part time and online or in-person. The screen then asks the user to respond to the offer'.](ske-offer-page.png)
 
-### language SKE courses
+### Language SKE courses
 
 Sometimes training providers can ask candidates to do 2 language SKE courses if they’re applying to a modern language course. This is so they can have the ability to teach another language at their school if they need to.
 
