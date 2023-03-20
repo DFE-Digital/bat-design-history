@@ -72,7 +72,7 @@ Once they accept the offer, we show their SKE course with their other conditions
 
 ### Selecting a training provider
 
-Currently, candidates can use the [SKE course directory](https://www.gov.uk/government/publications/subject-knowledge-enhancement-course-directory/subject-knowledge-enhancement-ske-course-directory) to find an SKE provider.This is published on GOV.UK and not owned by our team.
+Currently, candidates can use the [SKE course directory](https://www.gov.uk/government/publications/subject-knowledge-enhancement-course-directory/subject-knowledge-enhancement-ske-course-directory) to find an SKE provider. This is published on GOV.UK and not owned by our team.
 
 We wanted to test if it would be feasible to allow candidates to choose their SKE provider within our service.
 
