@@ -66,6 +66,8 @@ If there are 2 language SKE courses, we show slightly different content with gra
 
 ![Screenshot showing the offer a candidate will recieve with 2 language subject knowledge enhancement courses attached. The courses are for an 8 week French course and a 12 week Spanish course. The content also tells the user they should start their courses by April 2023, there is a £175 bursary they can get while doing the courses and there are options on how they can study which include full time, part time and online or in-person. The screen then asks the user to respond to the offer'](language-ske.png)
 
+## After accepting an offer
+
 Once they accept the offer, we show their SKE course with their other conditions, like their Disclosure and Barring Service (DBS) check.
 
 ![Screenshot with the heading 'Study before you start training' followed by content saying the user has a 20 weeks maths course with the tag 'Not yet started'. This is followed by content explaining when the user should start their course, that there will be a £175 bursary for the course and to contact the University of Sussex if they have any issues.](offer-page.png)
@@ -104,7 +106,7 @@ We iterated the designs to include:
 * clarity around what ‘part-time’ means
 * calculating the latest month of when a candidate should start their SKE course so they finish it before their ITT starts
 
-We also tested the SKE course directory and found that most users did not even know it exisited and that they could choose their own SKE provider.
+We also tested the SKE course directory and found that most users did not even know it existed and that they could choose their own SKE provider.
 
 The directory is also hard for users to make sense of because there was nothing to tell users which SKE provider was better than another. Users mentioned having reviews to help tell the difference.
 
