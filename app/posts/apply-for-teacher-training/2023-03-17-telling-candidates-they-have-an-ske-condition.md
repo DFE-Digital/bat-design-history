@@ -46,7 +46,7 @@ Some of the main issues candidates have are not knowing:
 
 ## What we did
 
-After the training provider sends an offer to a candidate with an SKE condition, we show some guidance before a candidate accepts their offer. This helps explain what an SKE is, so the candidate can make an informed decision about accepting the offer or not.
+After the training provider sends an offer to a candidate with an SKE course condition, we show some guidance before a candidate accepts their offer. This helps explain what an SKE course is, so the candidate can make an informed decision about accepting the offer or not.
 
 We give them information on:
 
