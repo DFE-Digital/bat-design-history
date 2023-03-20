@@ -4,6 +4,7 @@ description: How we designed a way to tell candidates they have a subject knowle
 date: 2023-03-17
 tags:
   - making an offer
+  - application details
 ogImage:
   src: /apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/ske-cover-image.png
   alt: "Illustration with the text 'Offer received' and inforation about doing an 8 week subject knowledge enhancement course in physics"
