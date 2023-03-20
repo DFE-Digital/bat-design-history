@@ -13,6 +13,8 @@ ogImage:
 
 We’ve made some changes to allow providers to require candidates to take a subject knowledge enhancement course as a condition of their offer.
 
+This feature was released to users on 20 March 2023.
+
 ## The issue
 
 Previously, providers could add ‘conditions’ to an offer using as many separate text boxes as they needed. One commonly added condition was to require candidates to take a [subject knowledge enhancement (SKE) course](https://www.gov.uk/guidance/subject-knowledge-enhancement-an-introduction) before doing their training. This is a DfE funded scheme which aims to support recruitment of teachers in hard-to-recruit priority subjects.
