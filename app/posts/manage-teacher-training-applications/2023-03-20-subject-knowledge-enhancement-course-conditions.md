@@ -1,7 +1,7 @@
 ---
 title: Making subject knowledge enhancement courses an offer condition
 description: How we improved the process of requiring candidates to do a subject knowledge enhancement course before starting their training.
-date: 2023-03-17
+date: 2023-03-20
 tags:
   - subject knowledge enhancement courses
 ogImage:
