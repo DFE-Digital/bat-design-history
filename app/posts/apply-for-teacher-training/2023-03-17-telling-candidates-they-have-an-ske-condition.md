@@ -7,7 +7,7 @@ tags:
   - application details
 ogImage:
   src: /apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/ske-cover-image.png
-  alt: "Illustration with the text 'Offer received' and inforation about doing an 8 week subject knowledge enhancement course in physics"
+  alt: "Illustration with the text 'Offer received' and information about doing an 8 week subject knowledge enhancement course in physics"
 
 ---
 ![Illustration with the text 'Offer received' and inforation about doing an 8 week subject knowledge enhancement course in physics](ske-cover-image.png)
