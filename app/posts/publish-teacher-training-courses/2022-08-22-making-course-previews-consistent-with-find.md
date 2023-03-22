@@ -2,6 +2,9 @@
 title: Making course previews consistent with Find
 description: We updated course previews to make them consistent with Find and improved how we indicate missing content
 date: 2022-08-22
+tags:
+  - courses
+  - previews
 screenshots:
   items:
     - text: Course preview
