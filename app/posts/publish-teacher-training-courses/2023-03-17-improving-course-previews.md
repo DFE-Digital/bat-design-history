@@ -1,6 +1,6 @@
 ---
-title: Improving course previews
-description: We updated the draft course previews to make it easier to see and update missing content
+title: Improving the course preview
+description: We updated the the draft course preview to make it easier to view and update missing content
 date: 2023-03-17
 tags:
   - courses
@@ -19,7 +19,11 @@ screenshots:
       src: course-preview--filled.png
 ---
 
-We updated the draft course previews in Publish teacher training courses (Publish) to make it easier to see and update missing content.
+We updated the draft course preview in Publish teacher training courses (Publish) to make it easier for providers to visualise how the course will appear on Find postgraduate teacher training (Find).
+
+Improving the course preview can help providers to see the see the static content on a course page in context. This should reduce the risk of providers writing unnecessary or duplicated content.
+
+We also made it easier for providers to add any missing content.
 
 ## What we changed
 
