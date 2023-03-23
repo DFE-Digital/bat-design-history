@@ -39,7 +39,7 @@ We also removed the disabled ‘Apply for this course’ button since it was unn
 
 We updated the preview banner to say:
 
-^This is a preview of how your course will appear on Find.
+> This is a preview of how your course will appear on Find.
 
 ### Edit call to actions
 
