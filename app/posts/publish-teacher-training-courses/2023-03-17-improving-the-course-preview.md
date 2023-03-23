@@ -56,3 +56,5 @@ We include edit links for:
 - Training with disabilities and other needs
 
 When a user selects one of the edit links, they are taken to the appropriate section, where they can add the required information. Once updated, they return to the course preview with the new information shown.
+
+We hide all information within a section until the required information is added. For example, we do not show the list of schools until the information in that section is complete.
