@@ -15,18 +15,21 @@ Previously, the personal statement had two sections on the application form: ‘
 
 We merged these personal statement sections into one, and improved the guidance around what we say to candidates to help them write a good personal statement. 
 
-We tested this design and improved the content shown to candidates after conducting research. We released this feature, via a feature flag, on 20th March 2023.
+We tested this design and improved the content shown to candidates after conducting research. 
+# We released this feature to candidates on 3 April 2023.
 
 ## The issue
 
 Candidates found it difficult splitting up their experience and knowledge they have into separate questions and found there was a lot of overlap between the two sections. Primary applicants had particular difficulty in answering separate questions, because ‘why you want to be a teacher’ and ‘why you want to teach Primary’ are very similar. 
+
+Candidates requesting that the personal statement be merged into one section was the 4th most common issue that arose as part of our candidate post-application feedback. 
 
 We wanted to test whether our new guidance aligned with what candidates expect to write about, and whether it was easy to read and comprehend the guidance. 
 
 We also wanted to learn more about how candidates would approach writing a personal statement, and what worries candidates about doing so. This will help determine what support we can give potential candidates in writing their personal statement. 
 
 
-‘Personal statement’ is one of the highest reasons for rejection used by providers. In merging the personal statement sections into one, there was scope for us to refine our guidance to help candidates improve the quality of their personal statement. 
+‘Personal statement’ is one of the highest reasons for rejection used by providers. 20% of all application rejections this cycle have 'personal statement' marked as a reason for rejection. In merging the personal statement sections into one, there was scope for us to refine our guidance to help candidates improve the quality of their personal statement. 
 
 
 ## What we did
@@ -49,6 +52,14 @@ We kept in the link to the teacher training advisers sign-up page, as candidates
 
 ![Screenshot with the heading ‘Personal Statement’, followed by content saying the user should write between 500 and 1000 words for their personal statement. The content also gives the user some examples they could write about, including skills and experience with young people they have, subject interest, their understanding of why teaching is important, their reasons for wanting to train to teach, and activities that could be relevant to teaching. The content below tells the user they can speak to a Teacher Training adviser for one-on-one support and provides a link. The screen then has a large empty text box and tells the user that they have 1000 words remaining underneath the text box.](merged-personal-statement.png)
 
+### Releasing this change mid-cycle
+
+Because we released this change in the middle of a recruitment cycle, we didn't want it to disrupt any candidates who were midway through writing a personal statement using the previous 2 sections.
+To avoid this, we only released the feature for new applications started on or after 3 April 2023.
+If a candidate is unsuccessful with an application that used 2 personal statement sections and decided to apply again, they will see the new merged personal statement section. When this happens, we:
+* mark the section as incomplete
+* copy the previous 2 answers into the new single personal statement section, separated by a paragraph break
+* show some content to explain what’s changed
 
 ## What we learnt in research
 
