@@ -20,7 +20,7 @@ We tested this design and improved the content shown to candidates after conduct
 
 ## The issue
 
-Candidates found it difficult splitting up their experience and knowledge they have into separate questions and found there was a lot of overlap between the two sections. Primary applicants had particular difficulty in answering separate questions, because ‘why you want to be a teacher’ and ‘why you want to teach Primary’ are very similar. 
+Candidates found it difficult splitting up the experience and knowledge they have into separate questions and that there was a lot of overlap. Primary applicants had particular difficulty in answering separate questions, because ‘why you want to be a teacher’ and ‘why you want to teach Primary’ are very similar. 
 
 Candidates requesting that the personal statement be merged into one section was the 4th most common issue that arose as part of our candidate post-application feedback. 
 
@@ -65,8 +65,8 @@ If a candidate is unsuccessful with an application that used 2 personal statemen
 
 We tested the design with 8 pre-application candidates at different stages of the consideration journey. We conducted two moderated content testing activities:
 
-* Activity 1: candidates were presented with snippets from a personal statement and asked to write what they thought the information was describing 
-* Activity 2: candidates were presented with the design, and invited to highlight where they thought the information was helpful, clear or confusing
+* presenting participants with snippets from a personal statement and asking them to write what they thought the information was describing 
+* showing participants the new guidance and inviting them to highlight where they thought the information was helpful, clear or confusing
 
 We found that there were no major usability or comprehension issues. The guidance met candidates’ expectations about what to write about, and no guidance was missing for them. 
 
