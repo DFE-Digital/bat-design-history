@@ -54,8 +54,8 @@ We kept in the link to the teacher training advisers sign-up page, as candidates
 
 We tested the design with 8 pre-application candidates at different stages of the consideration journey. We conducted two moderated content testing activities:
 
-* Activity 1: candidates were presented with snippets from a personal statement and asked to write what they thought the information was describing 
-* Activity 2: candidates were presented with the design, and invited to highlight where they thought the information was helpful, clear or confusing
+* presenting participants with snippets from a personal statement and asking them to write what they thought the information was describing 
+* showing participants the new guidance and inviting them to highlight where they thought the information was helpful, clear or confusing
 
 We found that there were no major usability or comprehension issues. The guidance met candidates’ expectations about what to write about, and no guidance was missing for them. 
 
