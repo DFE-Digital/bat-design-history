@@ -4,11 +4,12 @@ description: We merged the two personal statement sections into one and improved
 date: 2023-03-24
 tags:
   - personal statement
-#ogImage:
-#src: /apply-for-teacher-training/merged-personal-statement.png
-#alt: "Screenshot of the personal statement page, with guidance text and a text box."
+ogImage:
+  src: /apply-for-teacher-training/merging-the-personal-statement/personal-statement-cover-image.png
+  alt: "Illustration with the text 'Offer received' and information about doing an 8 week subject knowledge enhancement course in physics"
 
 ---
+![Illustration with the text 'Before' on the left and 'After' on the right. Below 'Before', two text boxes with the headings 'Why do you want to be a teacher?' and 'Why are you suited to teach your subjects or age group?' Below 'After', a single tex box with the heading 'Personal statement'.](personal-statement-cover-image.png)
 
 Previously, the personal statement had two sections on the application form: ‘Why you want to teach’ (600 words) and ‘Your suitability to teach a subject or age group’ (400 words). 
 
