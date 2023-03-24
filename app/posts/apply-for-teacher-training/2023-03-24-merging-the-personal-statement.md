@@ -19,7 +19,7 @@ We tested this design and improved the content shown to candidates after conduct
 
 ## The issue
 
-Candidates found it difficult splitting up their experience and knowledge they have into separate questions and found there was a lot of overlap between the two sections. Primary applicants had particular difficulty in answering separate questions, because ‘why you want to be a teacher’ and ‘why you want to teach Primary’ are very similar. 
+Candidates found it difficult splitting up the experience and knowledge they have into separate questions and that there was a lot of overlap. Primary applicants had particular difficulty in answering separate questions, because ‘why you want to be a teacher’ and ‘why you want to teach Primary’ are very similar. 
 
 We wanted to test whether our new guidance aligned with what candidates expect to write about, and whether it was easy to read and comprehend the guidance. 
 
