@@ -1,7 +1,7 @@
 ---
 title: Merging the personal statement 
 description: We merged the two personal statement sections into one and improved the guidance around what we say to candidates to help them write a good personal statement
-date: 2023-03-03
+date: 2023-03-24
 tags:
   - personal statement
 #ogImage:
