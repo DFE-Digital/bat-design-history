@@ -53,8 +53,8 @@ We kept in the link to the teacher training advisers sign-up page, as candidates
 
 We tested the design with 8 pre-application candidates at different stages of the consideration journey. We conducted two moderated content testing activities:
 
-Activity 1: candidates were presented with snippets from a personal statement and asked to write what they thought the information was describing 
-Activity 2: candidates were presented with the design, and invited to highlight where they thought the information was helpful, clear or confusing
+* Activity 1: candidates were presented with snippets from a personal statement and asked to write what they thought the information was describing 
+* Activity 2: candidates were presented with the design, and invited to highlight where they thought the information was helpful, clear or confusing
 
 We found that there were no major usability or comprehension issues. The guidance met candidates’ expectations about what to write about, and no guidance was missing for them. 
 
@@ -64,7 +64,7 @@ Users did make suggestions on where we could make the content clearer, or where 
 
 We iterated the our initial design to:
 
-remove ‘rewards and challenges’ – candidates felt this was too difficult to answer before beginning to train to teach
+* remove ‘rewards and challenges’ – candidates felt this was too difficult to answer before beginning to train to teach
 * merge ‘interests and passions’ and ‘qualifications and courses’ into a single bullet point with some examples –candidates struggled to determine what was relevant to teaching in these instances.
 * move ‘why you want to teach’ into the main bullet points 
 * include clarity around not having to address every bullet point – all users felt they would have to write something for every bullet point, which would make it harder for those who don’t have certain experiences or courses in knowing what to write. 
