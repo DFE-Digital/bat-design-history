@@ -1,5 +1,5 @@
 ---
-title: Merging the Personal Statement 
+title: Merging the personal statement 
 description: We merged the two personal statement sections into one and improved the guidance around what we say to candidates to help them write a good personal statement
 date: 2023-03-03
 tags:
@@ -9,8 +9,6 @@ tags:
 #alt: "Screenshot of the personal statement page, with guidance text and a text box."
 
 ---
-#![Screenshot of the personal statement page, with guidance text and a text box.']
-#(apply-for-teacher-training/merged-personal-statement.png)
 
 Previously, the personal statement had two sections on the application form: ‘Why you want to teach’ (600 words) and ‘Your suitability to teach a subject or age group’ (400 words). 
 
