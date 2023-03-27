@@ -1,7 +1,7 @@
 ---
 title: Merging the personal statement 
 description: We merged the two personal statement sections into one and improved the guidance around what we say to candidates to help them write a good personal statement
-date: 2023-03-24
+date: 2023-03-27
 tags:
   - personal statement
 ogImage:
@@ -16,7 +16,6 @@ Previously, the personal statement had two sections on the application form: ‘
 We merged these personal statement sections into one, and improved the guidance around what we say to candidates to help them write a good personal statement. 
 
 We tested this design and improved the content shown to candidates after conducting research. 
-# We released this feature to candidates on 3 April 2023.
 
 ## The issue
 
