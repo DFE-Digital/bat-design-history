@@ -70,9 +70,14 @@ We tested the design with 8 pre-application candidates at different stages of th
 * presenting participants with snippets from a personal statement and asking them to write what they thought the information was describing 
 * showing participants the new guidance and inviting them to highlight where they thought the information was helpful, clear or confusing
 
-We found that there were no major usability or comprehension issues. The guidance met candidates’ expectations about what to write about, and no guidance was missing for them. 
+We found that:
 
-Candidates were able to think of examples for almost all the bullet points and felt comfortable with the 1000 word limit. Candidates were able to think of examples for almost all the bullet points and our word choices largely made sense to them. 
+* there were no major usability or comprehension issues
+* our word choices largely made sense
+* the guidance met candidates’ expectations about what to write about
+* no guidance was missing for candidates 
+* candidates were able to think of examples for almost all the bullet points
+* most felt comfortable with the 1000 word limit. 
 
 Users did make suggestions on where we could make the content clearer, or where they would struggle to follow the guidance.
 
