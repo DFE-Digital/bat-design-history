@@ -17,6 +17,7 @@ We merged these personal statement sections into one, and improved the guidance 
 
 We tested this design and improved the content shown to candidates after conducting research. 
 
+
 ## The issue
 
 Candidates found it difficult splitting up the experience and knowledge they have into separate questions and that there was a lot of overlap. Primary applicants had particular difficulty in answering separate questions, because ‘why you want to be a teacher’ and ‘why you want to teach Primary’ are very similar. 
@@ -51,6 +52,7 @@ We kept in the link to the teacher training advisers sign-up page, as candidates
 
 ![Screenshot with the heading ‘Personal Statement’, followed by content saying the user should write between 500 and 1000 words for their personal statement. The content also gives the user some examples they could write about, including skills and experience with young people they have, subject interest, their understanding of why teaching is important, their reasons for wanting to train to teach, and activities that could be relevant to teaching. The content below tells the user they can speak to a Teacher Training adviser for one-on-one support and provides a link. The screen then has a large empty text box and tells the user that they have 1000 words remaining underneath the text box.](merged-personal-statement.png)
 
+
 ### Releasing this change mid-cycle
 
 Because we released this change in the middle of a recruitment cycle, we didn't want it to disrupt any candidates who were midway through writing a personal statement using the previous 2 sections.
@@ -59,6 +61,7 @@ If a candidate is unsuccessful with an application that used 2 personal statemen
 * mark the section as incomplete
 * copy the previous 2 answers into the new single personal statement section, separated by a paragraph break
 * show some content to explain what’s changed
+
 
 ## What we learnt in research
 
