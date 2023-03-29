@@ -1,12 +1,10 @@
 ---
-title: Highlighting provlems with trainee records
+title: Highlighting problems with trainee records
 description: A new feature to help providers fix their own data
 date: 2023-03-30
 ---
 
-Highlighting problems in trainee records
-
-As the number of records in Register grows we continue to discover problems with trainee data. 
+As the number of records in Register grows we continue to discover problems with trainee data.
 
 We’ve designed a new feature to help highlight these problems. This will make it easier for users to find problems and then fix them.
 
@@ -77,6 +75,8 @@ Some of these trainees will still be on courses. This is fine but we’ll ask pr
 
 ### Home page card
 
+![A new red card is added to the homepage that says ‘44 trainees with problems’.](1.homepage-tiles.png)
+
 We added a card to the home page, which appears if at least one trainee has a problem. It shows the number of trainees who have problems.
 
 If a user clicks on the card, they’re taken to the registered trainees page with a filter applied so that they see only trainees with problems.
@@ -84,10 +84,11 @@ If a user clicks on the card, they’re taken to the registered trainees page wi
 
 ### Updated filters on registered trainees page
 
+![Records on the trainees list have a new tag ‘problem’](2.trainees-list-filtered.png)
+
 We previously let users filter by whether a record was complete or incomplete. We don’t know of a good reason why users would need to see only complete trainee records, so we’ve changed this to show either ‘incomplete’ or ‘has problems’.
 
 We’ve called the filter section ‘available to do’. This is because both ‘records you can complete’ and ‘trainees with problems’ appear as cards in the ‘available to do’ section of the home page.
-
 
 ### Banner for registered trainee records
 
@@ -99,27 +100,30 @@ We’ve also updated the banner to use the GOV.UK notification banner component.
 
 #### Forgotten records
 
-
+![A banner is shown, warning the provider the trainee is forgotten](3.trainee-problem-forgotten.png)
 
 #### Duplicates
+
+![A banner is shown, warning the provider hte trainee is a duplicate](4.trainee-problem-duplicate.png)
 
 
 #### Combining multiple things in one banner
 
-
+![A banner is shown that has items: a problem and a warning that the record is incomplete](5.trianee-problem-multiple.png)
 
 ### Updated filters on draft records page
+
+![Draft list showing new filter for ‘has probem’](6.draft-list-filtered.png)
 
 We’ve added a new ‘has problems’ filter to the draft records page.
 
 ### Banner for draft trainee pages
 
+![A banner is shown, warning that the draft is a duplicate](7.draft-problem-duplicate.png)
+
 We do not show a banner to indicate that a draft record is incomplete. We instead have tags showing that each item in the task list is incomplete, in progress or completed.
 
 A draft trainee page will now show a banner if there’s a problem.
-
-#### Duplicates
-
 
 ## Next steps
 
