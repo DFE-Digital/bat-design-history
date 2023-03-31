@@ -35,7 +35,7 @@ We replaced the term ‘Locations’ with ‘School placements’ to reflect the
 We have changed the:
 
 - locations page in the ‘Add course’ flow
-- summary list on the ‘Check your answers’ page of the ‘Add course flow
+- summary list on the ‘Check your answers’ page of the ‘Add course’ flow
 - summary list on the course basic details page
 - locations page in the ‘Edit location’ flow
 - success and error messages
