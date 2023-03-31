@@ -77,11 +77,11 @@ Some of these trainees will still be on courses. This is fine but we’ll ask pr
 
 To help users find and fixed problems, we've:
 
-- added a home page card
-- changed the filters on the registered trainees page
-- changed the banner on registered trainee records so that it includes any problems
-- changed the filters on the draft trainees page
-- added a banner to draft trainee records which have problems
+* added a home page card
+* changed the filters on the registered trainees page
+* changed the banner on registered trainee records so that it includes any problems
+* changed the filters on the draft trainees page
+* added a banner to draft trainee records which have problems
 
 ### Home page card
 
@@ -105,9 +105,9 @@ Registered trainee records already have a banner when they’re incomplete. We n
 
 If the trainee may have been forgotten, we tell the user that they should have finished their training and give the end date for the course. We tell the user to decide whether to:
 
-- recommend the trainee for teaching status
-- withdraw the trainee
-- update the end date for the course
+* recommend the trainee for teaching status
+* withdraw the trainee
+* update the end date for the course
 
 ![A banner is shown on a trainee record, warning the provider that the trainee may have been forgotten.](3.trainee-problem-forgotten.png)
 
