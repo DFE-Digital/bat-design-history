@@ -44,8 +44,198 @@ We updated the ‘Add organisation’ and the edit organisation flows to improve
 
 ## What we changed
 
+We have:
+
+- updated the ‘Add organisation’ flow
+- updated the edit organisation flow
+
 ## How it works
+
+### Adding an organisation
 
 ![Add organisation flow](add-organisation--flow.png "Add organisation flow")
 
+#### Organisation details
+
+The organisation details form includes:
+
+- provider name
+- provider code
+- UK provider reference number (UKPRN)
+- is the organisation an accredited provider?
+- accredited provider ID - if the organisation is an accredited provider
+- provider type
+- unique reference number (URN) - if the provider is a school
+
+##### Is the organisation an accredited provider?
+
+Selecting ‘yes’ to ‘is the organisation an accredited provider?’ shows an additional field for ‘accredited provider ID’
+
+##### Provider type
+
+Selecting ‘school’ for the provider type shows an additional field for ‘unique reference number (URN)’
+
+#### Contact details
+
+The contact details form includes:
+
+- email address
+- telephone number
+- website
+- address - address lines 1 to 3, town or city, county and postcode
+
+If the provider is a school, we use the URN to look up the contact details in the Get information about schools (GIAS) data to prepopulate the form. We also show a message at the top of the page to tell the user where the data has come from.
+
+### Editing an organisation
+
+A user can edit:
+
+- provider name
+- UK provider reference number (UKPRN)
+- is the organisation an accredited provider?
+- accredited provider ID - if the organisation is an accredited provider
+- provider type
+- unique reference number (URN) - if the provider is a school
+- email address
+- telephone number
+- website
+- address - address lines 1 to 3, town or city, county and postcode
+
+Users cannot edit the provider code as this has affects on other services, for example Apply for teacher training.
+
+### Data validation rules
+
+#### Provider name
+
+> Enter a provider name
+
+We do not test for special characters
+
+#### Provider code
+
+Required
+
+> Enter a provider code
+
+Unique
+
+> UNIQUE MESSAGE
+
+Valid format
+
+- 3 characters
+- Alphanumeric
+
+> Enter a valid provider code
+
+#### UKPRN
+
+Required
+
+> Enter a UK provider reference number (UKPRN)
+
+Valid format
+
+- 8 digits starting with 1
+
+> Enter a valid UK provider reference number (UKPRN)
+
+We do not test for uniqueness because multiple providers can have the same number. For example, if there is one registered organisation with two marketing names - WLTTA has primary and secondary providers in our system
+
+#### Accredited provider
+
+Required
+
+> Select if the organisation is an accredited provider
+
+##### Accredited provider ID
+
+Required, if the organisation is an accredited provider
+
+> Enter an accredited provider ID
+
+Valid format
+
+- 4 digits number
+- Starts with 1 - if a higher education institution (HEI)
+- Starts with 5 - if school-centred initial teacher training (SCITT)
+
+> Enter a valid accredited provider ID
+
+We do not validate if the name is correct for a given provider as the provider name is a marketing name
+
+#### Provider type
+
+Required
+
+> Select a provider type
+
+Schools can’t be accredited providers
+
+> Accredited provider cannot be a school
+
+##### URN
+
+If the user has chosen ‘School’ as a provider type, they must enter a URN for the school. If they don’t enter a URN, we show an error message:
+
+> Enter a unique reference number (URN)
+
+The URN must be 5 or 6 digits long.
+
+> Enter a valid unique reference number (URN)
+
+#### Email address
+
+Required
+
+> Enter an email address
+
+Correct format
+
+> Enter an email address in the correct format, like name@example.com
+
+#### Telephone number
+
+Required
+
+> Enter a telephone number
+
+Correct format
+
+> Enter a real telephone number
+
+#### Website address
+
+Required
+
+> Enter a website address
+
+Correct format
+
+> Enter a website address in the correct format, like https://www.example.com
+
+#### Contact address
+
+Address line 1, Town or city and postcode are required.
+
+> Enter address line 1
+
+> Enter a town or city
+
+> Enter a postcode
+
+Postcode correct format
+
+> Enter a real postcode
+
 ## Further considerations
+
+We considered some changes which were not implemented.
+
+### Auto-generating the provider code
+
+### Implementing an accredited provider ID search
+
+Looking up accredited provider IDs in service rather than the support user having to go to find a spreadsheet
+
+### Creating provider-facing registration forms
