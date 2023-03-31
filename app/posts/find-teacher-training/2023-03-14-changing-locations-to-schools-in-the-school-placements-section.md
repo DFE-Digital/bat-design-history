@@ -4,6 +4,7 @@ description: We changed ‘locations’ to ‘schools’ in the school placement
 date: 2023-03-14
 tags:
   - locations
+  - schools
 related:
   items:
     - text: Improving how providers add schools

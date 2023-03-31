@@ -4,6 +4,7 @@ description: We replaced the term ‘Locations’ with ‘School placements’ t
 date: 2023-02-22
 tags:
   - locations
+  - schools
 related:
   items:
     - text: Improving how providers add schools
