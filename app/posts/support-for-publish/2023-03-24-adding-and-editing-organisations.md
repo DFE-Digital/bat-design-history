@@ -40,8 +40,12 @@ screenshots:
       src: organisation--cannot-remove.png
 ---
 
+We updated the ‘Add organisation’ and the edit organisation flows to improve how the support team manages organisations.
+
 ## What we changed
 
 ## How it works
+
+![Add organisation flow](add-organisation--flow.png "Add organisation flow")
 
 ## Further considerations
