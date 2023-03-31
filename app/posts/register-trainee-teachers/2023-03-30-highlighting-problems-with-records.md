@@ -97,7 +97,7 @@ We previously let users filter by whether a record was complete or incomplete. W
 
 We’ve called the filter section ‘available to do’. This is because both ‘records you can complete’ and ‘trainees with problems’ appear as cards in the ‘available to do’ section of the home page.
 
-![Some records on the trainees list have a new tag ‘problem’.](2.trainees-list-filtered.png)
+![The registered trainees page with the new ‘has problems’ filter selected. The records in the list all have the new ‘problem’ tag.](2.trainees-list-filtered.png)
 
 ### Banner on registered trainee records
 
@@ -123,7 +123,7 @@ Rather than adding another banner when a record has problems, we combine message
 
 We’ve added a new ‘has problems’ filter to the draft records page.
 
-![Draft list showing new filter for ‘has probem’](6.draft-list-filtered.png)
+![The draft trainees page with the new ‘has problems’ filter selected. The records in the list all have the new ‘problem’ tag.](6.draft-list-filtered.png)
 
 ### Banner on draft trainee records
 
@@ -131,7 +131,7 @@ We do not show a banner to indicate that a draft record is incomplete. We instea
 
 A draft trainee page will now show a banner if there’s a problem.
 
-![A banner is shown, warning that the draft is a duplicate](7.draft-problem-duplicate.png)
+![A banner is shown on a draft trainee record, warning the provider that the trainee is a duplicate.](7.draft-problem-duplicate.png)
 
 ## Next steps
 
