@@ -1,7 +1,7 @@
 ---
 title: Highlighting problems with trainee records
 description: Helping providers fix their own data so that they do not need to contact the support team.
-date: 2023-03-30
+date: 2023-04-03
 ---
 
 The number of trainee records held by Register increases by about 40,000 each academic year. We try to identify problems when records are added or imported, but some records have data issues that we cannot identify.
@@ -16,15 +16,15 @@ When providers contact us about problems with trainee records, they can require 
 
 Our analysts also often identify problems with trainee data. At the moment we either need to fix the problems ourselves or contact providers to ask them to do it.
 
-In many cases providers are better placed than us to know what to do but it can be hard for them to spot problems. For example, when we asked providers to sign off their trainee data for the previous year many of them noticed problems they had not seen before.
+In many cases providers are better placed than us to know what to do but it can be hard for them to spot problems. For example, when we [asked providers to sign off their trainee data for the previous year](/register-trainee-teachers/asking-providers-to-sign-off-trainee-data-for-the-previous-academic-year/) many of them noticed problems they had not seen before.
 
-It was good that this sign off process allowed users to spot mistakes but we’d like to help them to do so sooner. We’d also like to give them enough information to fix their own problems wherever possible.
+It was good that this sign off process allowed users to spot mistakes but we’d like to help them to do so sooner. We’d also like to give them enough information to fix their own problems whenever possible.
 
 ## Where problems come from
 
-We aim to have good validation to ensure we collect good data. This seems to be working, as errors in trainee data are down to 10% of their level when providers used DTTP.
+We aim to have good validation to ensure we collect good data. This seems to be working, as errors in trainee data have decreased significantly compared to when providers used DTTP.
 
-However, records imported from the Higher Education Statistics Agency (HESA) cannot be validated in the same way as records imported from Apply or manually created in Register.
+However, records imported from the Higher Education Statistics Agency (HESA) cannot be validated in the same way as records imported from Apply or manually created in Register. As a result, there are more errors in HESA data than in data from other sources.
 
 We’ve found that many problems with trainee records are caused by:
 
@@ -48,7 +48,7 @@ From this list, we picked 2 common problems to highlight initially. They are:
 
 Sometimes we suspect that 2 or more records refer to the same trainee. This can happen for a variety of reasons.
 
-For example, a school centred initial teacher training (SCITT) provider can manually register a trainee. If they later mark that trainee as having met conditions in the Manage service, then our Apply import will automatically create a draft trainee in register.
+For example, a school centred initial teacher training (SCITT) provider can manually register a trainee. If they later mark that trainee as having met conditions in the Manage service, then our Apply import will automatically create a draft trainee in Register.
 
  We currently need to contact the provider when we find a duplicate. We ask them to confirm that the records are duplicates and ask them which record we should keep.
 
@@ -66,16 +66,16 @@ The design of DTTP made it easy to lose track of records. Providers might not ha
 
 Register does a better job of highlighting these trainees and several providers have contacted us to clean up forgotten records. However we know that more remain and we expect that the problem will continue to occur.
 
-We’re currently planning on identifying forgotten records by searching for trainees who:
+We’re currently planning to identify forgotten records by searching for trainees who:
 
-* have deferred and have an estimated end date of more than 2 years ago
-* have not deferred and have an estimated end date of more than a year ago
+* have deferred and have an estimated end date more than 2 years ago
+* have not deferred and have an estimated end date more than a year ago
 
 Some of these trainees will still be on courses. This is fine but we’ll ask providers to update their estimated end dates.
 
 ## How it works
 
-To help users find and fixed problems, we've:
+To help users find and fix problems, we've:
 
 * added a home page card
 * changed the filters on the registered trainees page
@@ -115,7 +115,7 @@ If the trainee record is a duplicate we show a link to the other records for the
 
 ![A banner is shown on a trainee record, warning the provider that the trainee is a duplicate.](4.trainee-problem-duplicate.png)
 
-Rather than adding another banner when a record has problems, we combine messages about problems and incomplete records.
+Rather than adding another banner when an incomplete record also has other problems, we combine the messages into a single banner.
 
 ![A banner is shown on a trainee record, warning the provider that the record has a problem and is incomplete.](5.trianee-problem-multiple.png)
 
