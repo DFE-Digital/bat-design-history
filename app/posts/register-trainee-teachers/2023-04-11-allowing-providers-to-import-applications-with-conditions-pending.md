@@ -1,23 +1,21 @@
 ---
 title: Allowing providers to import applications with conditions pending
 description: Making it possible to register trainees whose status in Apply has not yet changed to recruited.
-date: 2023-04-06
+date: 2023-04-11
 related:
   items:
     - text: Apply integration - version 1
       href: /register-trainee-teachers/apply-integration-v1/
 ---
 
-The integration between the Manage and Register services automatically imports applications from Manage when they reach recruited status. This happens when the candidate has either:
+Part way through each recruitment cycle we start to automatically import applications for that cycle into Register from Manage. We only import applications when they reach recruited status, which happens when the candidate has either:
 
 - accepted an unconditional offer
 - met all the conditions of their offer
 
-We use recruited status to decide which applications to import because it’s the best way to identify someone who is due to start training.
+We set up the integration with Manage to use recruited status because it’s the best way to identify someone who is due to start training.
 
-The integration is not active throughout the year. It’s turned on part way through each recruitment cycle, to help providers register trainees who will start training in the upcoming academic year.
-
-The integration was used for some school centred initial teacher training (SCITT) applications in the 2020 to 2021 recruitment cycle and for the majority of them in 2021 to 2022.
+We’ve now decided to make it possible to import applications which still have conditions pending.
 
 ## Why we’re doing this
 
