@@ -33,14 +33,16 @@ screenshots:
     - text: Edit organisation contact details - success
       src: edit-organisation--contact-details-success.png
     - text: Remove organisation
-      src: remove-organisation.png
+      src: edit-organisation--remove.png
     - text: Organisation removed
-      src: organisation-removed.png
+      src: edit-organisation--removed.png
     - text: Cannot remove the organisation
-      src: organisation--cannot-remove.png
+      src: edit-organisation--cannot-remove.png
 ---
 
 We updated the ‘Add organisation’ and the edit organisation flows to improve how the support team manages organisations.
+
+EXPLAIN WHY - ITT REFORM AND CHANGES TO PROVIDERS. BETTER ORGANISATION OF DATA.
 
 ## What we changed
 
