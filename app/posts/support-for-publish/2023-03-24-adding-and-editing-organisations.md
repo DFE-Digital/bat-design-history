@@ -12,10 +12,14 @@ screenshots:
       src: add-organisation--details-errors.png
     - text: Add organisation contact details
       src: add-organisation--contact-details.png
+    - text: Add organisation contact details (school)
+      src: add-organisation--contact-details-school.png
     - text: Add organisation contact details - errors
       src: add-organisation--contact-details-errors.png
     - text: Add organisation - check your answers
       src: add-organisation--check-your-answers.png
+    - text: Add organisation - check your answers (school)
+      src: add-organisation--check-your-answers-school.png
     - text: Add organisation - success
       src: add-organisation--success.png
     - text: Organisation details
