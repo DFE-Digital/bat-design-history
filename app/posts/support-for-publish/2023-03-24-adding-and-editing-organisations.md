@@ -46,7 +46,7 @@ screenshots:
 
 We updated the ‘Add organisation’ and the edit organisation flows to improve how the support team manages organisations.
 
-EXPLAIN WHY - ITT REFORM AND CHANGES TO PROVIDERS. BETTER ORGANISATION OF DATA.
+
 
 ## What we changed
 
@@ -75,11 +75,30 @@ The organisation details form includes:
 
 ##### Is the organisation an accredited provider?
 
-Selecting ‘yes’ to ‘is the organisation an accredited provider?’ shows an additional field for ‘accredited provider ID’
+The ‘Is the organisation an accredited provider?’ question has two options:
+
+- Yes
+- No
+
+If the user selects ‘Yes’, we show an additional field for ‘Accredited provider ID’.
+
+The accredited provider ID is determined by the market regulations team within DfE.
+
+If the provider is a higher education institution (HEI), the number must start with a ‘1’. If the provider is a school centred initial teacher training (SCITT), the number must start with a ‘5’.
+
+Register trainee teachers (Register) use the accredited provider ID to ensure that providers are accredited to register teacher trainees for that academic year and award them Qualified teacher status (QTS) or Early years teacher status (EYTS).
 
 ##### Provider type
 
-Selecting ‘school’ for the provider type shows an additional field for ‘unique reference number (URN)’
+The ‘Provider type’ question has three options:
+
+- Higher education institution (HEI)
+- School centred initial teacher training (SCITT)
+- School
+
+If the user selects ‘school’, we show an additional field for ‘unique reference number (URN)’
+
+We use the URN to look up the school’s contact information from data provided by the Get information about schools (GIAS) service.
 
 #### Contact details
 
@@ -107,7 +126,7 @@ A user can edit:
 - website
 - address - address lines 1 to 3, town or city, county and postcode
 
-Users cannot edit the provider code as this has affects on other services, for example Apply for teacher training.
+Users cannot edit the provider code as this affects other services, for example, Apply for teacher training (Apply).
 
 ### Data validation rules
 
