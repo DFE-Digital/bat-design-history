@@ -13,33 +13,33 @@ related:
 screenshots:
   items:
     - text: Accredited provider list
-      src: accredited-provider--list.png
+      src: accredited-providers--list.png
     - text: Accredited provider list - empty
-      src: accredited-provider--list-empty.png
+      src: accredited-providers--list-empty.png
     - text: Find an accredited provider
-      src: accredited-provider--lookup.png
+      src: accredited-providers--find.png
     - text: Find an accredited provider - error
-      src: accredited-provider--lookup-error.png
+      src: accredited-providers--find-error.png
     - text: Enter details about the accredited provider
-      src: accredited-provider--add-details.png
+      src: accredited-providers--add-details.png
     - text: Enter details about the accredited provider - error
-      src: accredited-provider--add-details-error.png
+      src: accredited-providers--add-details-error.png
     - text: Check your answers
-      src: accredited-provider--check-your-answers.png
+      src: accredited-providers--check-your-answers.png
     - text: Accredited provider added
-      src: accredited-provider--added.png
+      src: accredited-providers--added.png
     - text: Update details about the accredited provider
-      src: accredited-provider--update-details.png
+      src: accredited-providers--update-details.png
     - text: Update details about the accredited provider - error
-      src: accredited-provider--update-details-error.png
+      src: accredited-providers--update-details-error.png
     - text: Accredited provider updated
-      src: accredited-provider--updated.png
+      src: accredited-providers--updated.png
     - text: Remove accredited provider
-      src: accredited-provider--remove.png
+      src: accredited-providers--remove.png
     - text: Accredited provider removed
-      src: accredited-provider--removed.png
+      src: accredited-providers--removed.png
     - text: Accredited provider cannot be removed
-      src: accredited-provider--cannot-remove.png
+      src: accredited-providers--cannot-remove.png
 ---
 
 ## What we changed
