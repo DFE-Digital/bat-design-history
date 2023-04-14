@@ -17,34 +17,38 @@ screenshots:
   items:
     - text: Schools list
       src: schools--list.png
+    - text: Schools list - empty
+      src: schools--list-empty.png
     - text: School details
       src: school--details.png
     - text: Edit school details
       src: school--edit.png
     - text: School updated - success
-      src: school--updated
-    - text: Remove school
-      src: school--remove.png
-    - text: School removed
-      src: school--removed.png
-    - text: School cannot be removed
-      src: school--cannot-remove.png
+      src: school--updated.png
     - text: Add school
       src: school--form.png
     - text: Add school - error
       src: school--form-error.png
     - text: Add school - check your answers
-      src: school--check-your-answers
+      src: school--check-your-answers.png
     - text: School added - success
       src: school--success.png
     - text: Add multiple schools
       src: schools--upload.png
+    - text: Add multiple schools - error
+      src: schools--upload-error.png
     - text: Add multiple schools - form
       src: schools--edit.png
     - text: Add multiple schools - check your answers
       src: schools--check-your-answers.png
     - text: Schools added - success
       src: schools--success.png
+    - text: Remove school
+      src: school--remove.png
+    - text: School removed
+      src: school--removed.png
+    - text: School cannot be removed
+      src: school--cannot-remove.png
 ---
 
 We recently updated Publish teacher training courses (Publish) and Find postgraduate teacher training (Find), changing ‘locations’ to ‘schools’. We wanted to reflect this change on the support website.
