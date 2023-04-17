@@ -104,7 +104,7 @@ We use the URN to look up the school’s contact information from data provided 
 
 #### Contact details
 
-Previously, the address entered in ‘Contact details’ would be the contact address shown on the course page on Find and the first location (‘School placement’ on Find). We now use the information entered here for ‘Contact details’ only. Adding a school placement is now a separate task.
+Previously, the address entered in ‘Contact details’ would be the contact address shown on the course page on Find and the first location (‘School placement’ on Find). We now use the information entered here for ‘Contact details’ only. Adding a school placement is a separate task.
 
 The contact details form includes:
 
@@ -136,7 +136,7 @@ Users cannot edit the provider code as this affects other services, for example,
 
 #### Provider name
 
-‘Provider name’ is required. If the user does not enter a provider name, we show the error message:
+Provider name is required. If the user does not enter a provider name, we show the error message:
 
 > Enter a provider name
 
@@ -144,7 +144,7 @@ We do not prevent special characters.
 
 #### Provider code
 
-‘Provider code’ is required. If the user does not enter a provider code, we show the error message:
+Provider code is required. If the user does not enter a provider code, we show the error message:
 
 > Enter a provider code
 
@@ -174,6 +174,7 @@ A UKPRN is eight digits starting with 1. If the user does not enter a valid form
 We do not test for uniqueness because multiple providers can have the same number.
 
 For example, one organisation may be registered in Publish twice, once for primary courses and once for secondary courses. Whilst we prefer that providers do not do this, we cannot ensure the UKPRN is unique until we have reconciled the duplicate organisations.
+
 #### Accredited provider
 
 ‘Is the organisation an accredited provider?’ is a required question. If the user does not answer the question, we show the error message:
