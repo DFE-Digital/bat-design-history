@@ -44,7 +44,7 @@ screenshots:
       src: edit-organisation--cannot-remove.png
 ---
 
-We updated the ‘Add organisation’ and the edit organisation flows to improve how the support team manages organisations.
+We updated the ‘Add organisation’ and the edit organisation flows to improve how the support team manages organisations. The improved order and labelling of the fields in the flows help the support agent to enter the information more quickly and accurately.
 
 ## What we changed
 
@@ -66,7 +66,7 @@ The organisation details form includes:
 - provider name
 - provider code
 - UK provider reference number (UKPRN)
-- is the organisation an accredited provider?
+- ‘Is the organisation an accredited provider?’
 - accredited provider ID - if the organisation is an accredited provider
 - provider type
 - unique reference number (URN) - if the provider is a school
@@ -75,7 +75,7 @@ The organisation details form includes:
 
 The provider code is an identifier used in Find postgraduate teacher training (Find) and Publish teacher training courses (Publish). It is a unique, 3-character alphanumeric code created by the Support team.
 
-##### Is the organisation an accredited provider?
+##### ‘Is the organisation an accredited provider?’
 
 The ‘Is the organisation an accredited provider?’ question has two options:
 
@@ -84,7 +84,7 @@ The ‘Is the organisation an accredited provider?’ question has two options:
 
 If the user selects ‘Yes’, we show an additional field for ‘Accredited provider ID’.
 
-The accredited provider ID is determined by the market regulations team within DfE.
+The market regulations team in DfE defines the accredited provider ID.
 
 If the provider is a higher education institution (HEI), the number must start with a ‘1’. If the provider is a school centred initial teacher training (SCITT), the number must start with a ‘5’.
 
@@ -100,18 +100,20 @@ The ‘Provider type’ question has three options:
 
 If the user selects ‘school’, we show an additional field for ‘Unique reference number (URN)’.
 
-We use the URN to look up the school’s contact information from data provided by the Get information about schools (GIAS) service.
+We use the URN to look up the school’s contact information from data provided by the [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) service.
 
 #### Contact details
+
+Previously, the address entered in ‘Contact details’ would be the contact address shown on the course page on Find and the first location (‘School placement’ on Find). We now use the information entered here for ‘Contact details’ only. Adding a school placement is now a separate task.
 
 The contact details form includes:
 
 - email address
 - telephone number
 - website
-- address - address lines 1 to 3, town or city, county and postcode
+- address - lines 1 to 3, town or city, county and postcode
 
-If the provider is a school, we use the URN to look up the contact details in the Get information about schools (GIAS) data to prepopulate the form. We also show a message telling the user where the data originated.
+If the provider is a school, we use the URN to look up the contact details in the [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data to prepopulate the form. We also show a message telling the user where the data originated.
 
 ### Editing an organisation
 
@@ -119,14 +121,14 @@ A user can edit:
 
 - provider name
 - UK provider reference number (UKPRN)
-- is the organisation an accredited provider?
+- ’Is the organisation an accredited provider?’
 - accredited provider ID - if the organisation is an accredited provider
 - provider type
 - unique reference number (URN) - if the provider is a school
 - email address
 - telephone number
 - website
-- address - address lines 1 to 3, town or city, county and postcode
+- address - lines 1 to 3, town or city, county and postcode
 
 Users cannot edit the provider code as this affects other services, for example, Apply for teacher training (Apply).
 
@@ -148,7 +150,7 @@ We do not prevent special characters.
 
 Provider codes must be unique. If the user does not enter a unique provider code, we show the error message:
 
-> UNIQUE MESSAGE
+> Provider code must be unique
 
 Provider codes must be:
 
@@ -171,11 +173,10 @@ A UKPRN is eight digits starting with 1. If the user does not enter a valid form
 
 We do not test for uniqueness because multiple providers can have the same number.
 
-For example, one organisation may be registered in Publish twice, once for primary courses and once for secondary courses. Whilst we prefer that providers do not do this, we can’t ensure the UKPRN is unique until we have reconciled the duplicate organisations.
-
+For example, one organisation may be registered in Publish twice, once for primary courses and once for secondary courses. Whilst we prefer that providers do not do this, we cannot ensure the UKPRN is unique until we have reconciled the duplicate organisations.
 #### Accredited provider
 
-‘Is the organisation an accredited body?’ is a required question. If the user does not answer the question, we show the error message:
+‘Is the organisation an accredited provider?’ is a required question. If the user does not answer the question, we show the error message:
 
 > Select if the organisation is an accredited provider
 
@@ -203,15 +204,13 @@ Provider type is required. If the user does not answer the question, we show the
 
 > Select a provider type
 
-If the user has answered ‘yes’ to ‘Is the organisation an accredited body?’, and
-
- ‘Schools can’t be accredited providers.
+If the user has answered ‘yes’ to ‘Is the organisation an accredited body?’, the provider type cannot be a school. If the user chooses ‘School’, we show the error message:
 
 > Accredited provider cannot be a school
 
 ##### URN
 
-If the user has chosen ‘School’ as a provider type, they must enter a URN for the school. If they don’t enter a URN, we show an error message:
+If the user has chosen ‘School’ as a provider type, they must enter a URN for the school. If they do not enter a URN, we show an error message:
 
 > Enter a unique reference number (URN)
 
@@ -273,9 +272,9 @@ If the user does not enter a valid postcode format, we show the error message:
 
 We considered some changes which we did not implement:
 
-- auto-generating the provider code
-- accredited provider ID search
-- provider-facing registration forms
+- Auto-generating the provider code
+- Accredited provider ID search
+- Provider-facing registration forms
 
 ### Auto-generating the provider code
 
@@ -285,13 +284,13 @@ We will consider making this change in a future piece of work.
 
 ### Accredited provider ID search
 
-The market regulations team in DfE defines the accredited body ID. They share this information with Becoming a Teacher (BAT) in a spreadsheet.
+The market regulations team in DfE defines the accredited provider ID. They share this information with Becoming a Teacher (BAT) in a spreadsheet.
 
 Since this information only changes occasionally and the support team do not regularly add or edit organisation IDs, we decided not to provide an accredited provider ID search. The support team can use the spreadsheet to find the ID.
 
 ### Provider-facing registration forms
 
-When we onboard a new provider, we send them a Microsoft form to capture some information about their organisation. The support team then uses this information to add the provider to the service.
+When we onboard a new provider, we send them a Microsoft form to collect information about their organisation. The support team then uses this information to add the provider to the service.
 
 Instead of using the Microsoft form, we could build an onboarding flow, which the provider completes, reducing the need for the support team to copy-type information.
 
