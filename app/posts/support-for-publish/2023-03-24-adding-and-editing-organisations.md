@@ -174,6 +174,7 @@ A UKPRN is eight digits starting with 1. If the user does not enter a valid form
 We do not test for uniqueness because multiple providers can have the same number.
 
 For example, one organisation may be registered in Publish twice, once for primary courses and once for secondary courses. Whilst we prefer that providers do not do this, we cannot ensure the UKPRN is unique until we have reconciled the duplicate organisations.
+
 #### Accredited provider
 
 ‘Is the organisation an accredited provider?’ is a required question. If the user does not answer the question, we show the error message:
