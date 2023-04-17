@@ -4,6 +4,7 @@ description: We added a way for providers to find schools to add to their accoun
 date: 2023-02-20
 tags:
   - locations
+  - schools
 related:
   items:
     - text: Adding multiple locations to an organisation in Support for Publish
