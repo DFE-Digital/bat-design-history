@@ -59,6 +59,12 @@ We have:
 
 ![Add organisation flow](add-organisation--flow.png "Add organisation flow")
 
+Adding an organisation has 3 steps:
+
+1. Enter organisation details - provider name, provider type and UKPRN
+2. Enter contact details - email address, telephone number, website address and postal address
+3. Check your answers
+
 #### Organisation details
 
 The organisation details form includes:
