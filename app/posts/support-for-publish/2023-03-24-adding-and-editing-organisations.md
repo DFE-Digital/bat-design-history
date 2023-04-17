@@ -46,8 +46,6 @@ screenshots:
 
 We updated the ‘Add organisation’ and the edit organisation flows to improve how the support team manages organisations.
 
-
-
 ## What we changed
 
 We have:
@@ -73,6 +71,10 @@ The organisation details form includes:
 - provider type
 - unique reference number (URN) - if the provider is a school
 
+##### Provider code
+
+The provider code is an identifier used in Find postgraduate teacher training (Find) and Publish teacher training courses (Publish). It is a unique, 3-character alphanumeric code created by the Support team.
+
 ##### Is the organisation an accredited provider?
 
 The ‘Is the organisation an accredited provider?’ question has two options:
@@ -96,7 +98,7 @@ The ‘Provider type’ question has three options:
 - School centred initial teacher training (SCITT)
 - School
 
-If the user selects ‘school’, we show an additional field for ‘unique reference number (URN)’
+If the user selects ‘school’, we show an additional field for ‘Unique reference number (URN)’.
 
 We use the URN to look up the school’s contact information from data provided by the Get information about schools (GIAS) service.
 
@@ -109,7 +111,7 @@ The contact details form includes:
 - website
 - address - address lines 1 to 3, town or city, county and postcode
 
-If the provider is a school, we use the URN to look up the contact details in the Get information about schools (GIAS) data to prepopulate the form. We also show a message at the top of the page to tell the user where the data has come from.
+If the provider is a school, we use the URN to look up the contact details in the Get information about schools (GIAS) data to prepopulate the form. We also show a message telling the user where the data originated.
 
 ### Editing an organisation
 
@@ -132,70 +134,78 @@ Users cannot edit the provider code as this affects other services, for example,
 
 #### Provider name
 
+‘Provider name’ is required. If the user does not enter a provider name, we show the error message:
+
 > Enter a provider name
 
-We do not test for special characters
+We do not prevent special characters.
 
 #### Provider code
 
-Required
+‘Provider code’ is required. If the user does not enter a provider code, we show the error message:
 
 > Enter a provider code
 
-Unique
+Provider codes must be unique. If the user does not enter a unique provider code, we show the error message:
 
 > UNIQUE MESSAGE
 
-Valid format
+Provider codes must be:
 
 - 3 characters
-- Alphanumeric
+- alphanumeric
+
+If the user does not enter a valid format, we show the error message:
 
 > Enter a valid provider code
 
 #### UKPRN
 
-Required
+UKPRN is required. If the user does not enter a UKPRN, we show the error message:
 
 > Enter a UK provider reference number (UKPRN)
 
-Valid format
-
-- 8 digits starting with 1
+A UKPRN is eight digits starting with 1. If the user does not enter a valid format, we show the error message:
 
 > Enter a valid UK provider reference number (UKPRN)
 
-We do not test for uniqueness because multiple providers can have the same number. For example, if there is one registered organisation with two marketing names - WLTTA has primary and secondary providers in our system
+We do not test for uniqueness because multiple providers can have the same number.
+
+For example, one organisation may be registered in Publish twice, once for primary courses and once for secondary courses. Whilst we prefer that providers do not do this, we can’t ensure the UKPRN is unique until we have reconciled the duplicate organisations.
 
 #### Accredited provider
 
-Required
+‘Is the organisation an accredited body?’ is a required question. If the user does not answer the question, we show the error message:
 
 > Select if the organisation is an accredited provider
 
 ##### Accredited provider ID
 
-Required, if the organisation is an accredited provider
+Users must enter an ‘Accredited provider ID’ if the organisation is an accredited provider. If the user does not enter an accredited provider ID, we show the error message:
 
 > Enter an accredited provider ID
 
-Valid format
+Accredited provider IDs have a specific format:
 
-- 4 digits number
-- Starts with 1 - if a higher education institution (HEI)
-- Starts with 5 - if school-centred initial teacher training (SCITT)
+- 4 digit number
+- starts with 1 - if a higher education institution (HEI)
+- starts with 5 - if school-centred initial teacher training (SCITT)
+
+If the user does not enter a valid format, we show the error message:
 
 > Enter a valid accredited provider ID
 
-We do not validate if the name is correct for a given provider as the provider name is a marketing name
+We do not validate if the name is correct for a given provider as we allow the provider to use a marketing name in Find postgraduate teacher training (Find).
 
 #### Provider type
 
-Required
+Provider type is required. If the user does not answer the question, we show the error message:
 
 > Select a provider type
 
-Schools can’t be accredited providers
+If the user has answered ‘yes’ to ‘Is the organisation an accredited body?’, and
+
+ ‘Schools can’t be accredited providers.
 
 > Accredited provider cannot be a school
 
@@ -211,56 +221,78 @@ The URN must be 5 or 6 digits long.
 
 #### Email address
 
-Required
+Email address is required. If the user does not enter an email address, we show the error message:
 
 > Enter an email address
 
-Correct format
+If the user does not enter a valid email address format, we show the error message:
 
 > Enter an email address in the correct format, like name@example.com
 
 #### Telephone number
 
-Required
+Telephone number is required. If the user does not enter a telephone number, we show the error message:
 
 > Enter a telephone number
 
-Correct format
+If the user does not enter a valid telephone number format, we show the error message:
 
 > Enter a real telephone number
 
 #### Website address
 
-Required
+Website address is required. If the user does not enter a website address, we show the error message:
 
 > Enter a website address
 
-Correct format
+If the user does not enter a valid website address format, we show the error message:
 
 > Enter a website address in the correct format, like https://www.example.com
 
 #### Contact address
 
-Address line 1, Town or city and postcode are required.
+Address line 1, town or city, and postcode are required address fields.
+
+If the user does not enter an address line 1, we show the error message:
 
 > Enter address line 1
 
+If the user does not enter a town or city, we show the error message:
+
 > Enter a town or city
+
+If the user does not enter a postcode, we show the error message:
 
 > Enter a postcode
 
-Postcode correct format
+If the user does not enter a valid postcode format, we show the error message:
 
 > Enter a real postcode
 
 ## Further considerations
 
-We considered some changes which were not implemented.
+We considered some changes which we did not implement:
+
+- auto-generating the provider code
+- accredited provider ID search
+- provider-facing registration forms
 
 ### Auto-generating the provider code
 
-### Implementing an accredited provider ID search
+The support team manually creates provider codes. We could remove the need to do this by auto-generating the code. We already know the format and can determine if the code is unique.
 
-Looking up accredited provider IDs in service rather than the support user having to go to find a spreadsheet
+We will consider making this change in a future piece of work.
 
-### Creating provider-facing registration forms
+### Accredited provider ID search
+
+The market regulations team in DfE defines the accredited body ID. They share this information with Becoming a Teacher (BAT) in a spreadsheet.
+
+Since this information only changes occasionally and the support team do not regularly add or edit organisation IDs, we decided not to provide an accredited provider ID search. The support team can use the spreadsheet to find the ID.
+
+### Provider-facing registration forms
+
+When we onboard a new provider, we send them a Microsoft form to capture some information about their organisation. The support team then uses this information to add the provider to the service.
+
+Instead of using the Microsoft form, we could build an onboarding flow, which the provider completes, reducing the need for the support team to copy-type information.
+
+We did not implement this as onboarding new organisations is infrequent and only occurs in cycles, not throughout the year.
