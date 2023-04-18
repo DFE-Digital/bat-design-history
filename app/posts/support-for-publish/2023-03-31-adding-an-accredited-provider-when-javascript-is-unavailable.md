@@ -6,7 +6,7 @@ tags:
   - accredited providers
 related:
   items:
-    - text: Managing accredited providers for training partners
+    - text: Managing accredited providers on behalf of training partners
       href: /support-for-publish/managing-accredited-providers-on-behalf-of-training-partners/
     - text: Managing accredited bodies if you’re a lead school
       href: /publish-teacher-training-courses/managing-accredited-bodies-if-youre-a-lead-school/
