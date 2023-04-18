@@ -7,7 +7,7 @@ tags:
 related:
   items:
     - text: Managing accredited providers for training partners
-      href: /support-for-publish/managing-accredited-providers-for-training-partners/
+      href: /support-for-publish/managing-accredited-providers-on-behalf-of-training-partners/
     - text: Managing accredited bodies if you’re a lead school
       href: /publish-teacher-training-courses/managing-accredited-bodies-if-youre-a-lead-school/
     - text: Updating how training partners manage their accredited providers
@@ -26,6 +26,9 @@ screenshots:
       src: accredited-providers--list-04.png
     - text: Error message
       src: accredited-providers--list-error.png
+eleventyComputed:
+  eleventyNavigation:
+    key: support-adding-accredited-provider-no-javascript
 ---
 
 When users add an accredited provider in the Support console, we use autocomplete to help them search for accredited providers.
