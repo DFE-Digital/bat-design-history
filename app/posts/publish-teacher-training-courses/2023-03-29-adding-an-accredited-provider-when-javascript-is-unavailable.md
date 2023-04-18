@@ -47,6 +47,6 @@ We display the name and provider code for each accredited provider in the list. 
 
 Selecting an accredited provider from the list allows the user to continue and add the accredited provider.
 
-We show an error message if the user tries to continue without selecting an accredited provider.
+We show an error message if the user tries to continue without selecting an accredited provider. We also show an error message if the user tries to add the accredited provider a second time.
 
 If the accredited provider the user is looking for is not listed, or the list has no results, they can change their search, which takes them back to the search form.
