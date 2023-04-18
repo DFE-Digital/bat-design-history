@@ -22,14 +22,14 @@
   }
 
   h5:not([class]) {
-    @include govuk-font($size: 19);
+    @include govuk-font($size: 19, $weight: "bold");
     @include govuk-responsive-margin(4, "bottom");
     margin-top: 0;
     color: $govuk-secondary-text-colour;
   }
 
   h6:not([class]) {
-    @include govuk-font($size: 16);
+    @include govuk-font($size: 16, $weight: "bold");
     @include govuk-responsive-margin(4, "bottom");
     margin-top: 0;
     color: $govuk-secondary-text-colour;
