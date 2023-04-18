@@ -30,7 +30,7 @@ screenshots:
 
 When users add an accredited provider in the Support console, we use autocomplete to help them search for accredited providers.
 
-The autocomplete works well for quickly selecting a school, but it requires JavaScript. Not everyone has JavaScript, and it does not always run successfully.
+The autocomplete works well for quickly selecting an accredited provider, but it requires JavaScript. Not everyone has JavaScript, and it does not always run successfully.
 
 We added a no-JavaScript version of the ‘Add accredited provider’ flow, which we can progressively enhance.
 
