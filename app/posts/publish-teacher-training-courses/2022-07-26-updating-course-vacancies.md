@@ -2,6 +2,9 @@
 title: Updating course vacancies
 description:
 date: 2022-07-26
+tags:
+  - courses
+  - vacancies
 screenshots:
   items:
     - text: Course list showing ‘open’ courses - courses with vacancies
