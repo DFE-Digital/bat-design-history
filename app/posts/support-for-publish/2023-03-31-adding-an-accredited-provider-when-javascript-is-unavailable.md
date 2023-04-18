@@ -40,7 +40,7 @@ Selecting ‘Add accredited provider’ on the ‘Accredited providers’ list p
 
 When the user continues without JavaScript, we show:
 
-- the number of results and the search term in the heading - for example, “7 results found for ‘Manchester’”
+- the number of results and the search term in the heading - for example, “7 results found for ‘manchester’”
 - a way to change the search if the accredited provider they are looking for is not listed or if there are too many results
 - a list of radio options matching their search query - we limit this list to 15 items
 
