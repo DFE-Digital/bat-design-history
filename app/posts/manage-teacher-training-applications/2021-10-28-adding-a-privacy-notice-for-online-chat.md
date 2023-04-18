@@ -10,6 +10,8 @@ screenshots:
       src: service-privacy-notice.png
     - text: Online chat privacy notice
       src: online-chat-privacy-notice.png
+tags:
+  - privacy
 ---
 
 We recently updated the service to [give users a way to get help through online chat](/manage-teacher-training-applications/helping-users-through-online-chat/).

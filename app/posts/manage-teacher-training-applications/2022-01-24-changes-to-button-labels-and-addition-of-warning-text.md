@@ -10,6 +10,9 @@ screenshots:
       src: check-details-and-update-user-permissions.png
     - text: Update organisation permissions page
       src: organisation-permissions.png
+tags:
+  - user interface
+  - warnings
 ---
 
 We reviewed the content of button labels on the final pages of each flow in the service. This was part of an audit which also included:

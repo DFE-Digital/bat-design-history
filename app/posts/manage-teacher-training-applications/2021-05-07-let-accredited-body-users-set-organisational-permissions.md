@@ -2,6 +2,8 @@
 title: Let accredited body users set organisational permissions
 description: Let accredited bodies set up and change organisational permissions
 date: 2021-05-07
+tags:
+  - user permissions
 ---
 
 At the moment, only training provider users can set organisational permissions.

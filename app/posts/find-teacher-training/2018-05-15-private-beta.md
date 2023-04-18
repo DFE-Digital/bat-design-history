@@ -1,6 +1,6 @@
 ---
 title: Private beta
-description: The private beta was a reduced version of the alpha, focusing on a single subject – business studies.
+description: The private beta was a reduced version of the alpha, focusing on a single subject – business studies
 date: 2018-05-15
 related:
   items:

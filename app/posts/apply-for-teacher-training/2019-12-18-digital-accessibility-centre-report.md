@@ -2,6 +2,8 @@
 title: Accessibility audit report from DAC
 description: The Digital Accessibility Centre audited our candidate, provider and support pages.
 date: 2019-12-18
+tags:
+  - accessibility
 ---
 
 An accessibility audit of the candidate, provider and support pages was carried out by the Digital Accessibility Centre (DAC) on 9 December 2019. The service was assessed against the [Web Content Accessibility Guidelines WCAG 2.1](https://www.w3.org/TR/WCAG21/).

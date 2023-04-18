@@ -2,6 +2,8 @@
 title: Dashboard changes
 description: How we changed what candidates see after they have submitted their application
 date: 2021-03-31
+tags:
+  - application status
 screenshots:
   items:
     - text: Initial view, showing confirmation banner

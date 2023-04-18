@@ -6,6 +6,8 @@ screenshots:
   items:
     - Before
     - After
+tags:
+  - qualifications
 ---
 
 To avoid bias, we currently show the degree institution only when the candidate is:

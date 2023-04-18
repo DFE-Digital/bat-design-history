@@ -10,6 +10,8 @@ screenshots:
       src: confirm-withdrawal.png
     - text: Notification banner
       src: notification-banner.png
+tags:
+  - withdrawals
 ---
 
 {% from "email/macro.njk" import appEmail %}

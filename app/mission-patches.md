@@ -2,7 +2,9 @@
 layout: page
 title: Mission patches
 description: Archive of patches created to celebrate milestones in the development of our different services.
-tags: reference
+ogImage:
+  src: /mission-patches/mission-patches.png
+  alt: "A collection of circular mission patches"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -36,6 +38,10 @@ The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a be
   }, {
     text: "Apply for teacher training UCAS Switch-off",
     caption: "This patch celebrated applications for the 2022/23 cycle being made exclusively via the Apply service. Brian dons the helmet he wore in his very first patch as he detonates the UCAS ITT service he helped to replace. October 2021"
+  },
+  {
+    text: "Apply for teacher training References change",
+    caption: "This patch celebrated the change to the way references are requested. This was a tough nut to crack. October 2022"
   }]
 }) }}
 
@@ -140,6 +146,9 @@ Ants are ‘superorganisms’ because they operate as a unified entity, collecti
   }, {
     text: "Impact squad",
     caption: "This patch celebrated the creation of a team to coordinate impactful change across the service line. The team chose an elephant (named Kahar after the team’s founding product manager) given their strength, wisdom and memory. Different coloured eyes represent diversity, and that the team works across Get into teaching (green) and Becoming a teacher (blue). May 2021"
+  }, {
+    text: "Profession time: rethinking the end of year report",
+    caption: "This patch celebrated an internal project run during profession time, where teams developed skills in data visualisation by rethinking the end of year report. 2022"
   }]
 }) }}
 

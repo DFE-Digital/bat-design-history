@@ -2,6 +2,8 @@
 title: The troubles with amending (or editing) your application
 description: Complexities we faced when building an MVP version of this feature.
 date: 2020-03-17
+tags:
+  - editing applications
 screenshots:
   items:
     - text: Editing your application

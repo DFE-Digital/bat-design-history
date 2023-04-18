@@ -2,6 +2,8 @@
 title: Work history breaks
 description: How we built work history breaks (previously ‘gaps’).
 date: 2020-03-04
+tags:
+  - work history
 screenshots:
   items:
     - text: Work history containing breaks

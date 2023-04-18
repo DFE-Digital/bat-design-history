@@ -39,5 +39,5 @@ screenshots:
 
 Testing business studies flow with users interested in becoming a teacher, but not necessarily within business studies.
 
-* [Research summary](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/264339608/13th+Round+-+April+12th)
-* [Discussion guide](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/270041089/Discussion+guide+-+13th+round+-+candidate+research)
+- [Research summary](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/264339608/13th+Round+-+April+12th)
+- [Discussion guide](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/270041089/Discussion+guide+-+13th+round+-+candidate+research)

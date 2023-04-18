@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Offer page
       src: offer-page.png
+tags:
+  - changing an offer
 ---
 
 To change an offer after it's been accepted, users have to send an email to support with proof that the candidate agrees and details of the changes.

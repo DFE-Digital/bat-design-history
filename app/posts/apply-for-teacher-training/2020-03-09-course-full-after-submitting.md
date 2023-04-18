@@ -2,6 +2,8 @@
 title: Courses that become full after submission
 description: Considerations for when a course becomes full between submission and the provider receiving it.
 date: 2020-03-09
+tags:
+  - course full
 related:
   items:
     - text: Trello

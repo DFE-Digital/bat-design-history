@@ -16,6 +16,9 @@ screenshots:
       src: organisation-list.png
     - text: Your account
       src: your-account.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-adding-primary-navigation
 ---
 
 We have observed that users find it hard to navigate the service.
@@ -160,7 +163,7 @@ Users belonging to a single organisation will know the organisation’s name.
 
 We show the organisation name in the switcher for users belonging to multiple organisations.
 
-An exception is when a multi-organisation user views email notification settings. We need to replay the organisation’s name as it doesn’t exist anywhere else.
+An exception is when a multi-organisation user views email notification settings. We need to replay the organisation’s name as it does not exist anywhere else.
 
 ## Further considerations
 

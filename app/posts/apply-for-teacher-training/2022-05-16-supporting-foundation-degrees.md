@@ -2,6 +2,8 @@
 title: Supporting foundation degrees
 description: How we have improved support for foundation degrees
 date: 2022-05-16
+tags:
+  - qualifications
 ogImage:
   src: /apply-for-teacher-training/supporting-foundation-degrees/foundation-degree.png
   alt: "Q: What type of degree is it? A: Foundation degree"

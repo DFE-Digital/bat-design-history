@@ -8,6 +8,8 @@ screenshots:
       src: other-qualifications.png
     - text: Other qualifications - none added
       src: other-qualifications--none-added.png
+tags:
+  - qualifications
 ---
 
 Candidates can choose to add details of A levels and other qualifications which are not required for the course they’re applying for.

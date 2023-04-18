@@ -16,6 +16,8 @@ screenshots:
       src: assigning-applications-to-users-assign-users-form-with-duplicate-names.png
     - text: Success message
       src: assigning-applications-to-users-application-details-success-message.png
+tags:
+  - assigning applications
 ---
 
 Users need to be able to assign applications to themselves or other users within the organisations they belong to.

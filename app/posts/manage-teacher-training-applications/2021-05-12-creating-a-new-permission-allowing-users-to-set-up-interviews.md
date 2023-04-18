@@ -20,6 +20,8 @@ screenshots:
       src: interviewing--make-decision.png
     - text: Prompt when status is interviewing but cannot make decisions
       src: interviewing--none.png
+tags:
+  - user permissions
 ---
 
 Until now, the ‘make decisions’ permission has included the ability to set up, change and cancel interviews. This piece of work splits it out, so that ‘set up interviews’ is a separate permission.

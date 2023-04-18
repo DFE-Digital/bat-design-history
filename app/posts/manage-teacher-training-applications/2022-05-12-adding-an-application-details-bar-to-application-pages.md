@@ -2,6 +2,8 @@
 title: Adding an application details bar to application pages
 description: We replaced the header on application pages with a smaller application details bar. This makes better use of space and includes actions which users can take from any page.
 date: 2022-05-11
+tags:
+  - user interface
 screenshots:
   items:
     - text: Received

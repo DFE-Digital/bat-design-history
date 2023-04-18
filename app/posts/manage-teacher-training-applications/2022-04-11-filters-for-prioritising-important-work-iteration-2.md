@@ -2,9 +2,11 @@
 title: Filters for prioritising important work (iteration 2)
 description: We removed the ‘important’ filter category and made changes to the filters which had been in it.
 date: 2022-04-11
-tags:
+user_needs:
   - AN029
   - MN021
+tags:
+  - filtering
 screenshots:
   items:
     - text: Days to make decision filter

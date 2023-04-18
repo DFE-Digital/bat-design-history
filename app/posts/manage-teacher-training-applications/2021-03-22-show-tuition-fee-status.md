@@ -16,6 +16,9 @@ screenshots:
     - text: Application details – Not eligible for funding (right to work or study and international address)
       caption: "Figure 4: The application details screen showing the candidate is not eligible for home tuition fee funding because the candidate does not have a right to work or study in the UK and they do not have a UK address"
       src: application-details-not-eligible-for-funding-right-to-work-and-address.png
+tags:
+  - fees
+  - international candidates
 ---
 
 Many candidates qualify for ‘home tuition fee funding’. This means that they:

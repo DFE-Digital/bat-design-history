@@ -1,6 +1,6 @@
 ---
 title: Financial incentives for ancient language courses
-description: We added ancient languages to the subject drop-down list and informed providers about the new financial incentive.
+description: We added ancient languages to the subject drop-down list and informed providers about the new financial incentive
 date: 2022-03-24
 ---
 
@@ -8,7 +8,7 @@ date: 2022-03-24
 
 <!-- markdownlint-disable MD001 MD025 -->
 
-In December 2021, the DfE financial incentives team announced a new bursary of £15,000. This bursary is for successful candidates on an ITT course that includes at least 50% ancient languages.
+In December 2021, the Department for Education (DfE) financial incentives team announced a new bursary of £15,000. This bursary is for successful candidates on an ITT course that includes at least 50% ancient languages.
 
 Ancient languages subjects include:
 
@@ -16,7 +16,7 @@ Ancient languages subjects include:
 - Ancient Greek
 - Ancient Hebrew
 
-There weren’t any ancient language subjects in the drop-down list on the subject selection page in the ‘Add course’ flow when DfE introduced the policy. The missing subjects meant that providers could not publish courses in ancient languages.
+There were not any ancient language subjects in the drop-down list on the subject selection page in the ‘Add course’ flow when DfE introduced the policy. The missing subjects meant that providers could not publish courses in ancient languages.
 
 Providers who wanted to publish a course with an ancient language would have to create a ‘Classics’ course and either:
 
@@ -148,3 +148,5 @@ When looking at any change in application levels, we need to consider that:
 - 11 of the 15 courses that had financial incentives added had less than 10 applications in total; any change in application levels was so small as not to have any significant impact
 
 <!-- markdownlint-enable MD001 MD025 -->
+
+*[ITT]: Initial teacher training

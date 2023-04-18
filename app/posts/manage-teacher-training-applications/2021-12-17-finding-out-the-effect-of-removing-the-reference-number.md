@@ -8,6 +8,8 @@ screenshots:
       src: application-list.png
     - text: Application details
       src: application-details.png
+tags:
+  - reference numbers
 ---
 
 A candidate can apply for up to 3 courses.

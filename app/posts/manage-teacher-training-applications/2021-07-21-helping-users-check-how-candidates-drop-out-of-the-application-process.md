@@ -2,8 +2,10 @@
 title: Helping users check how candidates drop out of the application process
 description: We created a report showing how candidates leave the application process, when the choice is theirs rather than the provider’s
 date: 2021-07-21
-tags:
+user_needs:
   - MN028
+tags:
+  - reports
 screenshots:
   items:
     - text: Reports landing page
@@ -35,9 +37,9 @@ This caused us to look again at the user needs and refine the wording of the nee
   status: need.data.status
 }) }}
 
-The progress report only met this need indirectly, as it focused on successful progress through the application process. 
+The progress report only met this need indirectly, as it focused on successful progress through the application process.
 
-We decided to address the need more directly, by creating a report showing how candidates leave the application process. 
+We decided to address the need more directly, by creating a report showing how candidates leave the application process.
 
 This can happen because of things under the control of the provider or things which are not under their control. Ways to leave the application process which are under the provider’s control include:
 

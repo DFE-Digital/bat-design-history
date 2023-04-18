@@ -2,6 +2,8 @@
 title: Showing dates and deadlines for the next recruitment cycle
 description: We added information about the next recruitment cycle to the dates and deadlines page.
 date: 2022-07-18
+tags:
+  - guidance
 screenshots:
   items:
     - text: Dates and deadlines page

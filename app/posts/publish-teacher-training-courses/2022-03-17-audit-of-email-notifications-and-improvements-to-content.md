@@ -1,6 +1,6 @@
 ---
 title: Audit of email notifications and improvements to content
-description: We documented which emails are sent and when. We also improved the content to make the notifications clearer and more concise.
+description: We documented which emails are sent and when. We also improved the content to make the notifications clearer and more concise
 date: 2022-03-16
 tags:
   - PN003
@@ -50,7 +50,7 @@ We currently only send notification emails to accredited bodies. There are eight
 
 ## Improving the content of the emails
 
-Some of the notification emails hadn’t been updated following changes to the service. We wanted to make sure the content was consistent and look at other improvements that could be made.
+Some of the notification emails had not been updated following changes to the service. We wanted to make sure the content was consistent and look at other improvements that could be made.
 
 ### What we changed
 
@@ -147,7 +147,7 @@ Dear colleague,
 
 ((provider_name)) withdrew ((course_name)) (((course_code))) - your organisation is the accredited body.
 
-This course is no longer visible on Find and candidates cannot apply to it. It also can’t be republished or reopened to applicants in the current cycle.
+This course is no longer visible on Find and candidates cannot apply to it. It also cannot be republished or reopened to applicants in the current cycle.
 
 If you have any questions, contact ((provider_name)).
 
@@ -275,7 +275,7 @@ Dear colleague,
 
 ((vacancies_filled??A course in Find postgraduate teacher training, which your organisation is the accredited body for, no longer has vacancies.))((vacancies_opened??A course in Find postgraduate teacher training, which your organisation is the accredited body for, has been updated to show that it now has vacancies.))
 
-((provider_name)) ((vacancies_filled??closed))((vacancies_opened??opened)) applications to ((course_name)) (((course _code))). ((vacancies_filled??This course won’t be visible in Find unless users specifically search for courses without vacancies.))((vacancies_opened??This course is now visible in Find.))
+((provider_name)) ((vacancies_filled??closed))((vacancies_opened??opened)) applications to ((course_name)) (((course _code))). ((vacancies_filled??This course will not be visible in Find unless users specifically search for courses without vacancies.))((vacancies_opened??This course is now visible in Find.))
 
 View the course at ((course_url)).
 
@@ -329,5 +329,6 @@ This work may affect notifications because:
 - we may find ways to simplify and reduce the number of notifications needed
 - the user actions that trigger notifications may change
 
-
 <!-- markdownlint-enable MD001 MD025 -->
+
+*[UCAS]: Universities and colleges admissions service

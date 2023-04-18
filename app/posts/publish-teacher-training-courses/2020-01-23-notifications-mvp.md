@@ -1,11 +1,11 @@
 ---
 title: Notifications MVP
-description: Identifying an initial set of notifications and the critical user flows required to manage notifications in Publish.
+description: Identifying an initial set of notifications and the critical user flows required to manage notifications in Publish teacher training courses
 date: 2020-01-23
 tags:
  - PN003
 ---
-UCAS provided email notifications to it's users. This functionality is yet be introduced to Publish teacher training courses. To address this, we established an introductory set of notifications to satisfy our user’s critical needs.
+UCAS provided email notifications to it's users. This functionality is yet be introduced to Publish teacher training courses (Publish). To address this, we established an introductory set of notifications to satisfy our user’s critical needs.
 
 We learned through the [accredited bodies research](https://bat-design-history.netlify.com/publish-teacher-training-courses/accredited-bodies-research-round-2#a-need-for-notifications) that there was a need for notifications to be sent to accredited bodies about changes made in Publish.
 
@@ -30,8 +30,8 @@ Events that would initiate a notification were identified:
 User journeys required to facilitate notifications were identified:
 The recipient needs to be able to:
 
-* opt in and opt out of notifications
-* update notifications settings (change email address etc)
+- opt in and opt out of notifications
+- update notifications settings (change email address etc)
 
 These tasks were deemed outside of our MVP and would be managed manually, with users contacting support, [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk).
 
@@ -124,7 +124,7 @@ A course, which your organisation is the accredited body for, has been withdrawn
 
 ((provider_name)) withdrew ((course name)) (((course_code))) in Publish teacher training courses, at ((attribute_change_datetime)).
 
-This course is no longer visible on Find and candidates can’t apply to it. It also can’t be republished or reopened to applicants in the current cycle.
+This course is no longer visible on Find and candidates cannot apply to it. It also cannot be republished or reopened to applicants in the current cycle.
 
 You can view the withdrawn course in Publish at ((course url)).
 
@@ -196,6 +196,8 @@ The Becoming a Teacher team
 
 Next steps will include:
 
-* A notifications pilot with a small number of providers who have expressed a key interest in receiving notifications.
-* A diary study conducted with the pilot participants.
-* Design and research of "manage notifications" functionality for Publish.
+- A notifications pilot with a small number of providers who have expressed a key interest in receiving notifications.
+- A diary study conducted with the pilot participants.
+- Design and research of "manage notifications" functionality for Publish.
+
+*[UCAS]: Universities and colleges admissions service

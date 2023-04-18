@@ -3,6 +3,8 @@ title: Shortlisting an application
 description: We added a way to shortlist a new application, which can be used to distinguish new applications from those that have been sifted.
 date: 2022-04-25
 tags:
+  - shortlisting
+user_needs:
   - MN030
 screenshots:
   items:

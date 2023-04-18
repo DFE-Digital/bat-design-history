@@ -2,11 +2,7 @@
 title: Asking candidates to nominate referees
 date: 2020-02-17
 tags:
-  - AN002
-  - AN003
-  - AN004
-  - AN005
-  - AN006
+  - references
 screenshots:
   items:
     - Choosing your referees

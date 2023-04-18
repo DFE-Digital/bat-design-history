@@ -2,6 +2,8 @@
 title: What needs to change if you’re applying again
 description: What guidance, content and designs need to be tweaked when we build Apply 2.
 date: 2020-03-23
+tags:
+  - apply again
 related:
   items:
     - text: Review in a Google Doc

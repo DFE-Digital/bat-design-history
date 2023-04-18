@@ -3,9 +3,7 @@ title: Give a teacher training reference (iteration)
 description: Simplifying the previous design.
 date: 2020-01-20
 tags:
-  - awaiting-validation
-  - AN012
-  - AN013
+  - references
 screenshots:
   items:
     - text: Email sent

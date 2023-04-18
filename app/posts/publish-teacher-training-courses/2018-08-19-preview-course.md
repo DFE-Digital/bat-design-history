@@ -1,6 +1,6 @@
 ---
 title: Preview course
-description: Different preview states depending on course type and state.
+description: Different preview states depending on course type and state
 date: 2018-08-19
 screenshots:
   items:

@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Application list
       src: application-list.png
+tags:
+  - notes
 ---
 
 We recently gave users the ability to:

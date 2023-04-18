@@ -2,6 +2,8 @@
 title: Updating the referee flow
 description: Why we made made changes to the reference flow
 date: 2022-02-28
+tags:
+  - references
 ---
 
 We made some changes to the way that references are given on Apply, after noticing that we were receiving a lot of support requests relating to references.

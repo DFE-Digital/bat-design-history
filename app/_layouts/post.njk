@@ -9,11 +9,10 @@
   {% call appArticle({
     header: {
       title: title | widont,
-      tag: status
-    },
-    footer: {
       date: page.date,
-      modified: modified if modified
+      modified: modified if modified,
+      tag: status,
+      tags: tags
     }
   }) %}
   <div class="govuk-grid-row">

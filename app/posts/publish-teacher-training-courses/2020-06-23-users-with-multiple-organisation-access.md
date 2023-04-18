@@ -1,6 +1,6 @@
 ---
 title: Researching the needs of users with access to multiple organisations
-description: We were interested in learning more about users who belong to multiple organisations.
+description: We were interested in learning more about users who belong to multiple organisations
 date: 2020-06-23
 related:
   items:
@@ -17,19 +17,19 @@ tags:
 
 We were interested in learning more about users who belong to multiple organisations.
 
-* Do they have unique needs?
-* Is there a need for access and permission levels across the organisations they belong to?
-* What are their notification needs?
+- Do they have unique needs?
+- Is there a need for access and permission levels across the organisations they belong to?
+- What are their notification needs?
 
 ## Who we talked to
 
-* TKAT SCITT
-* Kirklees and Calderdale SCITT
-* Suffolk and Norfolk Secondary SCITT
-* Essex Teacher Training
-* Associated Merseyside Partnership SCITT
-* Essex and Thames SCITT
-* University of East Anglia
+- TKAT SCITT
+- Kirklees and Calderdale SCITT
+- Suffolk and Norfolk Secondary SCITT
+- Essex Teacher Training
+- Associated Merseyside Partnership SCITT
+- Essex and Thames SCITT
+- University of East Anglia
 
 ## Who are multi-organisation users?
 
@@ -115,9 +115,9 @@ The reasons why users belong to multiple organisations vary and their relationsh
 
 SCITTs who manage multiple organisations to ensure they remain visible in search results by location.
 
-> It started out from when we first went on to UCAS we had about all SCITTs had about a third drop in applications initially because we weren't visible. So what we had to do was to try and make ourselves more visible. And the easiest way to do that was to have lots of different lead schools so that you would cover a geographical region.
+> It started out from when we first went on to UCAS we had about all SCITTs had about a third drop in applications initially because we were not visible. So what we had to do was to try and make ourselves more visible. And the easiest way to do that was to have lots of different lead schools so that you would cover a geographical region.
 
-> Because some are interested in applying to that school because they know that school and they know that location, as opposed to knowing who the SCITT is because some people, particularly people who aren't within education don't understand the differences.
+> Because some are interested in applying to that school because they know that school and they know that location, as opposed to knowing who the SCITT is because some people, particularly people who are not within education do not understand the differences.
 
 Users who are responsible for managing their training providers courses.
 
@@ -131,10 +131,10 @@ Users who are responsible for managing their training providers courses.
 
 A SCITT’s ITT administrator manages:
 
-* the courses provided by the SCITT
-* all the courses provided by their training providers (for which the SCITT is the accredited body)
+- the courses provided by the SCITT
+- all the courses provided by their training providers (for which the SCITT is the accredited body)
 
-> I have very very good communication with our schools... so once I know what schools can advertise, what subject... then I will put all in Publish, and I open them, close them, I manage them, the school doesn’t, I oversee it all, the schools don’t have any input at all, obviously they tell me what they want to advertise, but I update the system.
+> I have very very good communication with our schools... so once I know what schools can advertise, what subject... then I will put all in Publish, and I open them, close them, I manage them, the school does not, I oversee it all, the schools do not have any input at all, obviously they tell me what they want to advertise, but I update the system.
 
 [Research highlight](https://drive.google.com/file/d/17PVqL57VEWHTrM5o4Fkjz80vNFBnlC6j/view?usp=sharing)
 
@@ -142,10 +142,10 @@ A SCITT’s ITT administrator manages:
 
 A SCITT’s ITT administrator manages:
 
-* the courses provided by the SCITT
-* the courses provided by only some of their training providers
+- the courses provided by the SCITT
+- the courses provided by only some of their training providers
 
-> ...it depends whether the schools are wanting to do this themselves because some schools don’t have admin support, so it’s teachers running it and they don’t have the admin time to do this section, we do that for them.
+> ...it depends whether the schools are wanting to do this themselves because some schools do not have admin support, so it’s teachers running it and they do not have the admin time to do this section, we do that for them.
 
 [Research highlight](https://drive.google.com/file/d/1FmaVDL2HDRuR8uoFuSxUaWdom0KQl8NH/view?usp=sharing)
 
@@ -183,7 +183,7 @@ Some participants mentioned the need to implement levels of access and permissio
 
 > You need one person and or possibly two people to edit users... because that would prevent any malicious editing from people.
 
-> I was in this organisation, for example, and I then wanted to request access for somebody. Yeah. Which now is on this user's page. Yeah. You see all of this, if I requested access for someone else, what it was doing, it was giving them the same access that I had. It wasn't giving access to that individual provider.
+> I was in this organisation, for example, and I then wanted to request access for somebody. Yeah. Which now is on this user's page. Yeah. You see all of this, if I requested access for someone else, what it was doing, it was giving them the same access that I had. It was not giving access to that individual provider.
 
 This is consistent with [previous notifications research](/publish-teacher-training-courses/managing-users/#research-feedback) on user management.
 
@@ -218,3 +218,7 @@ One participant mentioned their involvement with the Apply trial and queried acc
 {{ appUserNeeds({ items: collections['user-need'] | slugs('PN012')}) }}
 
 > I would increase the copy facility so that you can copy between lead schools as well. So if I've got an identical course running out five different schools I've not got to, I can just copy it from one lead school to another.
+
+*[ITT]: Initial teacher training
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

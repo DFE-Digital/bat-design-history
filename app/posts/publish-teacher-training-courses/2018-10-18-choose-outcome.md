@@ -1,6 +1,6 @@
 ---
 title: Edit a course outcome
-description: Allow providers to choose an outcome, instead of using our inferred one.
+description: Allow providers to choose an outcome, instead of using our inferred one
 date: 2018-10-18
 screenshots:
   items:
@@ -11,8 +11,8 @@ screenshots:
 
 We currently infer the outcome with a mapping from UCAS data:
 
-* qts: QTS
-* postgraduate or professional (with or without QTS selected): PGCE with QTS
+- qts: QTS
+- postgraduate or professional (with or without QTS selected): PGCE with QTS
 
 Additionally, if one of the subjects is ‘further education’ we give it the outcome of PGCE only.
 
@@ -22,9 +22,9 @@ We need to allow users to easily set their outcome if what we’ve inferred is w
 
 ## Implementation options
 
-We could take a similar to contacts details: if a provider hasn’t set anything specific, we should continue to infer an outcome from the UCAS data. Once they’ve set their own we always use that one.
+We could take a similar to contacts details: if a provider has not set anything specific, we should continue to infer an outcome from the UCAS data. Once they’ve set their own we always use that one.
 
-Alternatively we could populate an enrichment field for each of the courses containing the outcome. Then we would only need to infer outcome for new courses. The enrichment population shouldn’t alter the content state (eg it should not make new drafts).
+Alternatively we could populate an enrichment field for each of the courses containing the outcome. Then we would only need to infer outcome for new courses. The enrichment population should not alter the content state (eg it should not make new drafts).
 
 ## QTS with optional PGCE
 
@@ -38,4 +38,9 @@ If one of the options in the disclosure is selected then the box should be opene
 
 ## Further education options
 
-Further education courses don’t come with QTS. We need to add a bit of context to the outcome option here so that providers don’t click ‘PGCE’ or ‘PGDE’ by mistake. In publish courses only we add the further education context to the label and make the lack of QTS explicit.
+Further education courses do not come with QTS. We need to add a bit of context to the outcome option here so that providers do not click ‘PGCE’ or ‘PGDE’ by mistake. In publish courses only we add the further education context to the label and make the lack of QTS explicit.
+
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Application details
       src: application-details.png
+tags:
+  - application details
 ---
 
 At the moment, we’re inconsistent in how we indicate that a candidate did not answer a question.

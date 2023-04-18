@@ -8,8 +8,10 @@ screenshots:
     - Reasons
     - Check answers
     - Flash message
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 ---
 
 ## Hypothesis

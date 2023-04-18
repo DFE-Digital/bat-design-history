@@ -8,6 +8,8 @@ screenshots:
       src: marking-a-condition-as-not-met.png
     - text: Removing a user from an organisation
       src: removing-a-user-from-an-organisation.png
+tags:
+  - warnings
 ---
 
 We looked at the way we use red warning buttons. This was part of an audit which also included:

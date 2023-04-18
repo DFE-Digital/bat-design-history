@@ -2,6 +2,9 @@
 title: Gather feedback from referees
 description: Include a feedback form immediately after submitting a reference.
 date: 2020-01-29
+tags:
+  - references
+  - user feedback
 screenshots:
   items:
     - text: Form as presented

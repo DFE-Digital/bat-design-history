@@ -1,6 +1,7 @@
 ---
 title: Work history
 description: Adding work history and explaining gaps.
+date: 2019-08-16
 screenshots:
   items:
     - Work history

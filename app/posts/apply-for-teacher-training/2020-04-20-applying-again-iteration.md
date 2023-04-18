@@ -1,6 +1,8 @@
 ---
 title: Applying again (iteration)
 description: A bunch of changes to improve the application process when applying again. Some of the changes are just as applicable when making the first application.
+tags:
+  - apply again
 date: 2020-04-20
 related:
   items:

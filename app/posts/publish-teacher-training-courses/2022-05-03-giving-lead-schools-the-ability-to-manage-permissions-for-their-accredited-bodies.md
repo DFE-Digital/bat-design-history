@@ -53,8 +53,8 @@ We show the accredited bodies in alphabetical order.
 For each accredited body, we show:
 
 - accredited body name
-- accredited body description - if there isn’t a description, we show ‘Not entered’
-- accredited body permissions - if there aren’t any permissions, we show ‘None - view only’
+- accredited body description - if there is not a description, we show ‘Not entered’
+- accredited body permissions - if there are not any permissions, we show ‘None - view only’
 
 ### Adding a new accredited body relationship
 
@@ -79,7 +79,7 @@ Users cannot add a duplicate accredited body. If they try, we display an error m
 
 #### Add a description of the accredited body
 
-The accredited body’s description is optional. If the user doesn’t add a description, we show ‘Not entered’.
+The accredited body’s description is optional. If the user does not add a description, we show ‘Not entered’.
 
 #### Select permissions for an accredited body
 
@@ -94,7 +94,7 @@ Permissions include:
 - Withdraw courses
 - Manage locations
 
-If the user doesn’t select any permissions, we show ‘None - view only’.
+If the user does not select any permissions, we show ‘None - view only’.
 
 If the user selects the ‘Add course’ permission, we also allow the accredited body user to delete the course.
 
@@ -105,7 +105,7 @@ We use checkboxes instead of radio buttons because:
 
 We put the permissions in an order which matches the lifecycle of a course.
 
-Withdrawing should be last as you can't do anything else to it afterwards.
+Withdrawing should be last as you cannot do anything else to it afterwards.
 
 ### Changing an accredited body’s permissions
 

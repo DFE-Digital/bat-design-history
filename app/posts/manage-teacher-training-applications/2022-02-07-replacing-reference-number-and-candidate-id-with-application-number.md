@@ -8,6 +8,8 @@ screenshots:
       src: application-list.png
     - text: Application details
       src: application-details.png
+tags:
+  - reference numbers
 ---
 
 As part of work to simplify how we use identifiers (IDs), we previously considered the [effect of removing the reference number](/manage-teacher-training-applications/finding-out-the-effect-of-removing-the-reference-number/).

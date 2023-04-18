@@ -2,6 +2,8 @@
 title: Improving work history
 description: Asking for a full work history and simplifying the section by removing skills and experience.
 date: 2021-01-08
+tags:
+  - work history
 screenshots:
   items:
     - text: Initial branching question

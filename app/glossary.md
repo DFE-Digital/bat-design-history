@@ -3,7 +3,6 @@ layout: page
 title: A to Z glossary
 description: Explanations of the terms DfE commonly uses
 permalink: "/glossary.html"
-tags: reference
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

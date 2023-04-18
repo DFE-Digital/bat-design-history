@@ -2,6 +2,8 @@
 title: Giving details about disability
 description: Training with a disability and reasonable adjustments course choices.
 date: 2019-12-06
+tags:
+  - disability support
 screenshots:
   items:
     - Training with a disability

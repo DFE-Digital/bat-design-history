@@ -1,6 +1,6 @@
 ---
 title: No more course folding
-description: Reasoning behind not folding courses and unfolded course designs.
+description: Reasoning behind not folding courses and unfolded course designs
 date: 2018-08-09
 screenshots:
   title: Unfolded course designs
@@ -25,17 +25,17 @@ The folding exercise was ran while we were unclear what data, if any, we’d get
 
 We tested folded courses with training providers:
 
-* [West London Teaching School Alliance](https://lookback.io/watch/mbc9BNqBJjoRkinAE) ([screenshots](/publish-teacher-training-courses/school-direct-view))
-* [Kingston School Direct](https://lookback.io/watch/FoHoHPQF7B5TwrFkw)
-* [Swiss Cottage Teaching School Alliance](https://lookback.io/watch/HwTQT7B4WGnzRR2SG)
-* [Bromley Schools Collegiate](https://lookback.io/watch/aLgtstXXFGEHFLeCL)
-* [Catholic Teaching Alliance](https://lookback.io/watch/i4dYWSnhubPdWSY36)
+- [West London Teaching School Alliance](https://lookback.io/watch/mbc9BNqBJjoRkinAE) ([screenshots](/publish-teacher-training-courses/school-direct-view))
+- [Kingston School Direct](https://lookback.io/watch/FoHoHPQF7B5TwrFkw)
+- [Swiss Cottage Teaching School Alliance](https://lookback.io/watch/HwTQT7B4WGnzRR2SG)
+- [Bromley Schools Collegiate](https://lookback.io/watch/aLgtstXXFGEHFLeCL)
+- [Catholic Teaching Alliance](https://lookback.io/watch/i4dYWSnhubPdWSY36)
 
 We tested a course detail page with applicants: [applicant research](/find-teacher-training/course-options-user-research-june-8)
 
 ### Folding tested poorly with providers
 
-When we tested folding with training providers they expressed surprise and confusion. It wasn’t obvious to them how certain information could be explained in the fields provided. For example: ‘[About this course](/publish-teacher-training-courses/school-direct-view#about-this-course)’, “which course is that for, these courses are different?”
+When we tested folding with training providers they expressed surprise and confusion. It was not obvious to them how certain information could be explained in the fields provided. For example: ‘[About this course](/publish-teacher-training-courses/school-direct-view#about-this-course)’, “which course is that for, these courses are different?”
 
 We [iterated the page layout](/publish-teacher-training-courses/iteration-june-26) to be more explicit about the fields for each course variant to avoid this confusion. But we found that more and more small exceptions meant fewer fields could be shared between variants; eg a salaried course has a different interview process, and might have more emphasis on experience in the entry requirements.
 
@@ -45,7 +45,7 @@ The commonality we’d seen in the UCAS data was an illusion. By using UCAS cour
 
 #### When we unfolded
 
-When we tested a design for templates it was easier to [apply a template to a variant than a folded course](/publish-teacher-training-courses/templates#courses). In research we found that any ambiguity or concern regarding which course was which and which content to put into which field was gone – these topics didn’t arise. The unfolded courses tested well with users because it’s what they expected, it followed the same pattern as UCAS.
+When we tested a design for templates it was easier to [apply a template to a variant than a folded course](/publish-teacher-training-courses/templates#courses). In research we found that any ambiguity or concern regarding which course was which and which content to put into which field was gone – these topics did not arise. The unfolded courses tested well with users because it’s what they expected, it followed the same pattern as UCAS.
 
 We also presented an unfolded design to users for [checking their UCAS data](/publish-teacher-training-courses/check-ucas-data#courses) had imported correctly, this too was a natural fit.
 
@@ -55,13 +55,13 @@ The picture was better when we tested with applicants.
 
 On the [search results page](/find-teacher-training/course-options-user-research-june-8#search-results-with-variants) users largely understood that multiple courses were being represented. Here the benefit of course folding was seen more clearly; users could more easily scan past a single training provider without needing to read each variant of their course – in this sense the results were fairer.
 
-We saw that applicants didn’t understand that some fields only applied to some variants – we expected the [iterated course detail page](/publish-teacher-training-courses/iteration-june-26#preview) to largely fix this, but we didn’t test this version with applicants.
+We saw that applicants did not understand that some fields only applied to some variants – we expected the [iterated course detail page](/publish-teacher-training-courses/iteration-june-26#preview) to largely fix this, but we did not test this version with applicants.
 
-## Don’t fold courses
+## do not fold courses
 
 The first version of the tool will be based on UCAS’s definition of a course. Course metadata will still be created and configured in UCAS. The UCAS model of a course must persist in some format in the publish courses tool. It is also the model that providers are most familiar with.
 
-Trying to create a new course model when we don’t control all aspects of the course, especially course creation and application is troublesome. Providers will need to understand both models and how they overlap.
+Trying to create a new course model when we do not control all aspects of the course, especially course creation and application is troublesome. Providers will need to understand both models and how they overlap.
 
 Sticking with the UCAS course model for the minimum viable service reduces risk and simplifies what we build.
 
@@ -74,3 +74,8 @@ The benefit of folding on search results that we saw with applicants can be achi
 Rather than 1 result linking to a page with all variants, instead group a provider’s courses in the search results. A group will have multiple links to each variant – allowing for a cursory comparison, while the group itself can be easily skipped past.
 
 We’re [tracking grouping on the story map](https://trello.com/c/jQftifYl/44-group-listings-to-make-results-easier-to-scan) and consider it outside of the minimum viable service.
+
+*[PGCE]: Postgraduate certificate in education
+*[PGDE]: Postgraduate diploma in education
+*[QTS]: Qualified teacher status
+*[UCAS]: Universities and colleges admissions service

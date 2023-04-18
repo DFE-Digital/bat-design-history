@@ -3,8 +3,7 @@ title: Give a reference (second iteration)
 description: Asking for more information from referees.
 date: 2020-03-05
 tags:
-  - MN010
-  - MN011
+  - references
 screenshots:
   items:
     - text: Confirm relationship

@@ -2,8 +2,10 @@
 title: Reasons for rejection iteration 6
 description: Getting the new flow ready for production.
 date: 2021-12-02
-tags:
+user_needs:
   - AN029
+tags:
+  - rejections
 screenshots:
   items:
     - text: Reject - reasons (collapsed)

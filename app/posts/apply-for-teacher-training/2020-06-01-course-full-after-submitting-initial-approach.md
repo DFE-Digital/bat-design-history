@@ -2,6 +2,8 @@
 title: Courses that become full after submission – our initial approach
 description: Informing candidates when a course becomes full between submission and the provider receiving it, and letting them decide what to do.
 date: 2020-06-01
+tags:
+  - course full
 related:
   items:
     - text: Content for email notifications

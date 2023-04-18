@@ -8,6 +8,8 @@ related:
       href: https://docs.google.com/presentation/d/1g_T1UVyQ9c_mRLR6mKSYNr-FSBmmiQAYrWyVmOqgwFM/edit
     - text: Previous research findings slides
       href: https://docs.google.com/presentation/d/17ru6auwHbwiLT09Ge7dMrSUGEJ2jqHAxKsPisbjp4f0/edit
+tags:
+  - application status
 ---
 
 Previous research into status labels showed that some participants did not understand what ‘awaiting conditions’ and ‘ready to enrol’ mean.

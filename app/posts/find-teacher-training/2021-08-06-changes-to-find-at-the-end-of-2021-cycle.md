@@ -1,18 +1,18 @@
 ---
 title: Finding courses at the end of the 2021 cycle
-description: Helping candidates navigate end of cycle policies.
+description: Helping candidates navigate end of cycle policies
 date: 2021-08-19
 ---
 
 ## Contents
 
-* [Dates that affect Find](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#dates-that-affect-find)
-* [Upcoming deadlines warning](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#upcoming-deadlines-warning)
-* [The deadline to apply for the first time has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#the-deadline-to-apply-for-the-first-time-has-passed)
-* [The deadline to apply again has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#the-deadline-to-apply-again-has-passed)
-* [Find is closed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#find-is-closed)
-* [Find reopens](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#find-reopens)
-* [Applications reopen](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#applications-reopen)
+- [Dates that affect Find](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#dates-that-affect-find)
+- [Upcoming deadlines warning](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#upcoming-deadlines-warning)
+- [The deadline to apply for the first time has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#the-deadline-to-apply-for-the-first-time-has-passed)
+- [The deadline to apply again has passed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#the-deadline-to-apply-again-has-passed)
+- [Find is closed](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#find-is-closed)
+- [Find reopens](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#find-reopens)
+- [Applications reopen](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#applications-reopen)
 
 ## Dates that affect Find
 

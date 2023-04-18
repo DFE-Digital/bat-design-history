@@ -40,6 +40,8 @@ screenshots:
       src: timeline--offer-changed.png
     - text: Activity log - offer changed
       src: activity-log--offer-changed.png
+tags:
+  - making an offer
 ---
 
 Currently providers can offer a different course to the one that a candidate applied for.

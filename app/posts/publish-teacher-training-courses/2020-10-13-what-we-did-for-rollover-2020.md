@@ -7,7 +7,7 @@ date: 2020-10-13
 {% from "govuk/components/summary-list/macro.njk" import govukSummaryList %}
 {% from "email/macro.njk" import appEmail %}
 
-Rollover is the process of copying courses from the current cycle to the next. This entry documents significant information and dates from the second Publish rollover.
+Rollover is the process of copying courses from the current cycle to the next. This entry documents significant information and dates from the second Publish teacher training courses (Publish) rollover.
 
 This is [what we did for the first rollover](/publish-teacher-training-courses/what-we-did-for-rollover/) in 2019.
 
@@ -82,11 +82,11 @@ From 3 July, we’ll duplicate all your current content (for 2020 – 2021) in P
 
 From 6 July, when you sign in to Publish you’ll see a new section titled ‘Next cycle (2021 – 2022)’. In this section, you should:
 
-* add any new courses you’re running for the first time in 2021 – 2022
-* fact-check your rolled over courses (paying attention to any details that might change for the new academic year)
-* delete any courses you’re no longer running
-* check formatting (eg bullet pointed lists, hyperlinks and paragraph breaks)
-* make sure your course locations are correct, and add any new ones
+- add any new courses you’re running for the first time in 2021 – 2022
+- fact-check your rolled over courses (paying attention to any details that might change for the new academic year)
+- delete any courses you’re no longer running
+- check formatting (eg bullet pointed lists, hyperlinks and paragraph breaks)
+- make sure your course locations are correct, and add any new ones
 
 Once you’ve checked and edited your courses, you can line them up for publication by clicking the green ‘Publish in October’ button (you can still make further changes to them after doing this). Your courses will then appear on Find in early October when the new cycle opens.
 
@@ -124,21 +124,21 @@ When you sign in to Publish, you’ll see a new section titled ‘Next cycle (20
 
 In this section, you should:
 
-* check any courses you want to run again in 2021/22, to make sure their details are correct for the new academic year
-* add any new courses that you’re running for the first time in 2021/22
-* check your course locations and add any new ones
+- check any courses you want to run again in 2021/22, to make sure their details are correct for the new academic year
+- add any new courses that you’re running for the first time in 2021/22
+- check your course locations and add any new ones
 
 We’d encourage you to pay particular attention to the formatting on your course pages. You should:
 
-* click on any links to make sure they’re still working
-* check that bulleted lists are displaying correctly
-* insert paragraph breaks into long pieces of text, to make them easier to read
+- click on any links to make sure they’re still working
+- check that bulleted lists are displaying correctly
+- insert paragraph breaks into long pieces of text, to make them easier to read
 
 This is also a good time to review and improve the copy on your pages. Guidance and tips are available in Publish to help you with this – you’ll find these at the head of each of the free-text boxes (eg ‘About this course’, ‘Interview process’ and ‘How school placements work’).
 
 ### Publish your courses
 
-Once you’ve reviewed and edited your courses, you can line them up for publication to [Find postgraduate teacher training](https://find-postgraduate-teacher-training.education.gov.uk/). (You don’t need to request permission to recruit to any courses, except fee-funded PE – accredited bodies have until 10 July to do this.)
+Once you’ve reviewed and edited your courses, you can line them up for publication to [Find postgraduate teacher training](https://find-postgraduate-teacher-training.education.gov.uk/). (You do not need to request permission to recruit to any courses, except fee-funded PE – accredited bodies have until 10 July to do this.)
 
 To publish, hit the green ‘Publish in October’ button (you can still make changes to your courses after doing this). Your courses will appear on Find in October, when the new recruitment cycle opens, replacing your current courses.
 
@@ -194,9 +194,9 @@ The following email was sent to Publish users in October. ([Notify link](https:/
 
 Courses for the 2021 to 2022 recruitment cycle will be published to Find postgraduate teacher training tomorrow, Tuesday 6 October.
 
-If you haven’t already, you should go to Publish teacher training courses now and publish your courses. Do this by pressing the green ‘Publish in October’ button on the individual course pages.
+If you have not already, you should go to Publish teacher training courses now and publish your courses. Do this by pressing the green ‘Publish in October’ button on the individual course pages.
 
-If you don’t do so, they won’t appear on Find tomorrow. You must publish your courses to enable candidates to apply for them through UCAS or DfE Apply – applications open on Tuesday 13 October.
+If you do not do so, they will not appear on Find tomorrow. You must publish your courses to enable candidates to apply for them through UCAS or DfE Apply – applications open on Tuesday 13 October.
 
 ### If you’ve already published your courses
 
@@ -324,7 +324,7 @@ https://github.com/DFE-Digital/publish-teacher-training/pull/1376
 
 ### Issues
 
-We received support tickets (e.g., [#9466](https://becomingateacher.zendesk.com/agent/tickets/9466)) from providers who couldn’t find their confirmed places. Users were looking in the ‘Next cycle’ section though we had only published them in the ‘Current cycle’ section.
+We received support tickets (e.g., [#9466](https://becomingateacher.zendesk.com/agent/tickets/9466)) from providers who could not find their confirmed places. Users were looking in the ‘Next cycle’ section though we had only published them in the ‘Current cycle’ section.
 
 Rollover copies over all courses from the previous cycle. This meant there were fee-funded PE courses automatically created in the new cycle which had not received permission to recruit. We had to contact the providers of these courses and inform them that we would withdraw the courses.
 

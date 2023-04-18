@@ -2,6 +2,8 @@
 title: Simplifying the sign up page
 description: Why we removed a lot of text and a checkbox
 date: 2022-04-27
+tags:
+  - account
 ---
 
 Our error message tracking showed us that the error message "You must agree to the terms of use" had been triggered 4,083 times. Given that we had around 95,000 candidates who have used the service, this was an error rate of around 4%.

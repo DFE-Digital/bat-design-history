@@ -1,6 +1,6 @@
 ---
 title: New course wizard as launched for accredited bodies
-description: The new course wizard is now available to accredited bodies.
+description: The new course wizard is now available to accredited bodies
 date: 2020-02-15
 screenshots:
   items:
@@ -27,7 +27,7 @@ Accredited bodies are able to access the new course wizard from the [Courses pag
 
 ## Why the wizard is not yet available to school directs
 
-School directs will not receive access to the new course wizard until Publish can automatically notify their accredited body that a course has been created.
+School directs will not receive access to the new course wizard until Publish teacher training courses (Publish) can automatically notify their accredited body that a course has been created.
 
 An accredited body needs to be notified immediately so they can maintain accurate data in their record systems. This was highlighted in [Accredited bodies research - Reporting round 2](/publish-teacher-training-courses/accredited-bodies-research-round-2).
 
@@ -44,3 +44,5 @@ After receiving the request, DfE support creates the course manually and notifie
 Access the course wizard by appending `/new` to an organisations course page URL in Publish.
 
 [Example URL](https://www.qa.publish-teacher-training-courses.service.gov.uk/organisations/153/2020/courses/new)
+
+*[URL]: Universal resource locator

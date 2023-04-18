@@ -1,6 +1,6 @@
 ---
 title: Request PE courses as launched for accredited bodies
-description: The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies.
+description: The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies
 date: 2020-06-15
 screenshots:
   items:
@@ -19,7 +19,7 @@ screenshots:
 
 The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies.
 
-Following the [allocations alpha](/publish-teacher-training-courses/allocations-alpha/), the request PE feature was implemented in Publish. Development began in [April 2020](https://github.com/DFE-Digital/publish-teacher-training/pulls?page=2&q=allocation) and we launched the feature to accredited bodies in early June 2020.
+Following the [allocations alpha](/publish-teacher-training-courses/allocations-alpha/), the request Physical Education (PE) feature was implemented in Publish teacher training courses (Publish). Development began in [April 2020](https://github.com/DFE-Digital/publish-teacher-training/pulls?page=2&q=allocation) and we launched the feature to accredited bodies in early June 2020.
 
 ## Design notes
 
@@ -46,9 +46,9 @@ In April, we contacted you about requesting teacher training courses for the 202
 
 As we set out in our email, for 2021/22 you only need to request:
 
-* fee-funded PE courses (ones without a salary)
-* early years initial teacher training (EYITT) courses
-* any undergraduate teacher training courses
+- fee-funded PE courses (ones without a salary)
+- early years initial teacher training (EYITT) courses
+- any undergraduate teacher training courses
 
 We also mentioned that, as an accredited body, you’ll need to request these courses on behalf of your training partners.
 
@@ -64,14 +64,14 @@ Go to the section titled ‘Request PE courses for 2021 – 2022’. You’ll fi
 
 You’ll need to complete a Google form to request any EYITT or undergraduate courses. In each case, you’ll be asked to specify trainee numbers.
 
-* [Complete the Google form for EYITT courses](https://docs.google.com/forms/d/e/1FAIpQLSeHmeVJgyRrC3RpJMYnK1zEpjFsVn8xJfck_4bhvggjm6bozQ/viewform)
-* [Complete the Google form for undergraduate teacher training courses](https://docs.google.com/forms/d/e/1FAIpQLSeE1poBDwObc-YchKxPMzEJjCRPX7b5XHZcYXIkOfo3zJRNfA/viewform)
+- [Complete the Google form for EYITT courses](https://docs.google.com/forms/d/e/1FAIpQLSeHmeVJgyRrC3RpJMYnK1zEpjFsVn8xJfck_4bhvggjm6bozQ/viewform)
+- [Complete the Google form for undergraduate teacher training courses](https://docs.google.com/forms/d/e/1FAIpQLSeE1poBDwObc-YchKxPMzEJjCRPX7b5XHZcYXIkOfo3zJRNfA/viewform)
 
 ### All other courses
 
-You don’t need to request any other courses. You’ll automatically get permission to recruit to them in September 2020. This will happen after your 2020/21 courses have been copied over in Publish (this is sometimes known as ‘rollover’), and you’ve confirmed they’re correct for the next cycle.
+You do not need to request any other courses. You’ll automatically get permission to recruit to them in September 2020. This will happen after your 2020/21 courses have been copied over in Publish (this is sometimes known as ‘rollover’), and you’ve confirmed they’re correct for the next cycle.
 
-You don’t need to take any action yet in relation to these courses. However, we’d recommend that you contact your training partners to agree what you’d like to offer for 2021/22.
+You do not need to take any action yet in relation to these courses. However, we’d recommend that you contact your training partners to agree what you’d like to offer for 2021/22.
 
 In July we’ll write to you again, to tell you when your current courses will be copied over, and how you can publish them on Find.
 

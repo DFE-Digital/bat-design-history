@@ -10,6 +10,8 @@ related:
       href: https://docs.google.com/presentation/d/14aFEiDamqaqZEfWU0HIT3LxAflxFIgM1q0SjeKLMZXc/edit#slide=id.g79b42ec7b3_1_30
     - text: Exploration of user need for assignment
       href: https://docs.google.com/presentation/d/1dGVrtL3UAAAoWv5oOX1hJy-Si4dloB6t80sJkKwYhtI/edit#slide=id.gc81c0e234a_0_37
+tags:
+  - assigning applications
 ---
 
 Previous research showed that larger organisations need additional features when managing teacher training applications.

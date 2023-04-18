@@ -1,6 +1,6 @@
 ---
 title: UCAS course status
-description: An iteration on the onboarding design (read-only) to include course status.
+description: An iteration on the onboarding design (read-only) to include course status
 date: 2018-07-20
 screenshots:
   items:
@@ -14,10 +14,10 @@ Add a status column to the course table, and add a row to the metadata on the co
 
 Statuses can be one of:
 
-* Running
-* Suspended
-* New
-* Discontinued
+- Running
+- Suspended
+- New
+- Discontinued
 
 View design:
 [https://publish-courses-check-ucas.herokuapp.com/courses](https://publish-courses-check-ucas.herokuapp.com/courses)
@@ -29,7 +29,7 @@ View design:
 
 ### Running
 
-Running means the training programme is running and you are ready and able to receive applications. If combined with Yes as the setting in Publish, the training programme will appear in the search tool.
+Running means the training programme is running and you are ready and able to receive applications. If combined with Yes as the setting in Publish teacher training courses (Publish), the training programme will appear in the search tool.
 
 ### New
 
@@ -42,3 +42,5 @@ Discontinued means that the training programme is no longer available or perhaps
 ### Suspended
 
 Suspended means that you will not be running your training programme in the current cycle, for any reason, but may run it again the future. The programme will not be displayed in the search tool for applicants to research. Suspended training programmes will be rolled over to the next application cycle in May each year.
+
+*[UCAS]: Universities and colleges admissions service

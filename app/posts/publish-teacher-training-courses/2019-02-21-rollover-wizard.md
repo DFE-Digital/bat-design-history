@@ -1,6 +1,6 @@
 ---
 title: Rollover wizard
-description: A full rollover wizard, ending in a page with current and next cycles.
+description: A full rollover wizard, ending in a page with current and next cycles
 date: 2019-02-21
 screenshots:
   items:
@@ -18,12 +18,12 @@ Following on from [rollover reckons](/publish-teacher-training-courses/rollover-
 
 Steps are:
 
-* begin rollover, explain anything that’s new in this cycle
-* pick the courses to copy
-* pick the locations to copy
-* check your answers
-* confirm and redirect to a new top-level cycles page
-* two cycles now available: current and next
+- begin rollover, explain anything that’s new in this cycle
+- pick the courses to copy
+- pick the locations to copy
+- check your answers
+- confirm and redirect to a new top-level cycles page
+- two cycles now available: current and next
 
 ## User research
 
@@ -31,29 +31,29 @@ Steps are:
 
 We researched this with:
 
-* [Surrey South Farnham SCITT](https://lookback.io/watch/Dudq3X8QvtiwsNvbk)
-* [Prince Henry’s High Scool and South Worcestershire SCITT](https://lookback.io/watch/bKs8CaeNHE8MCdY4B)
-* [Oxford University](https://lookback.io/watch/Dg3mjn74DyCCyzxRk)
-* [Cabot Learning Federation SCITT](https://lookback.io/watch/jYqw2TnGXjM9geySx)
-* [Edge Hill University](https://lookback.io/watch/8ia5o6EEmMt3Td8DR)
-* [The Northworthy Alliance](https://lookback.io/watch/Kqn9JdJnrbRBoPNxG)
-* [University of Exeter](https://lookback.io/watch/dnLAXAszhNxmFByMy)
+- [Surrey South Farnham SCITT](https://lookback.io/watch/Dudq3X8QvtiwsNvbk)
+- [Prince Henry’s High Scool and South Worcestershire SCITT](https://lookback.io/watch/bKs8CaeNHE8MCdY4B)
+- [Oxford University](https://lookback.io/watch/Dg3mjn74DyCCyzxRk)
+- [Cabot Learning Federation SCITT](https://lookback.io/watch/jYqw2TnGXjM9geySx)
+- [Edge Hill University](https://lookback.io/watch/8ia5o6EEmMt3Td8DR)
+- [The Northworthy Alliance](https://lookback.io/watch/Kqn9JdJnrbRBoPNxG)
+- [University of Exeter](https://lookback.io/watch/dnLAXAszhNxmFByMy)
 
 ### Repeating rollover
 
 2 providers wanted to go through rollover again. Reasons given were:
 
-* any mistakes made
-* last minute changes
-* receiving unexpected allocations
-* a new school in their partnership
-* deleting courses which may not apply
+- any mistakes made
+- last minute changes
+- receiving unexpected allocations
+- a new school in their partnership
+- deleting courses which may not apply
 
 ### Should we stick with a wizard?
 
-Providers copied all their courses and locations. They also expressed a need to repeat rollover. The route into the wizard wasn’t spotted. Using the beginning of rollover to talk about What’s new didn’t work.
+Providers copied all their courses and locations. They also expressed a need to repeat rollover. The route into the wizard was not spotted. Using the beginning of rollover to talk about What’s new did not work.
 
-We could copy everything, show two cycles and emphasise a new delete course feature for anything that shouldn’t be copied.
+We could copy everything, show two cycles and emphasise a new delete course feature for anything that should not be copied.
 
 This is more in keeping with the way UCAS has done rollover until now. It also gives us less to build.
 

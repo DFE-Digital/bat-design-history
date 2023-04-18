@@ -1,0 +1,12 @@
+---
+layout: page
+eleventyExcludeFromCollections: true
+permalink: "/tags/index.html"
+title: Tags
+---
+
+<ul class="govuk-list govuk-list--bullet">
+  {% for tag in collections.allTags %}
+    <li><a href="/tagged/{{ tag | slug }}">{{ tag }}</a> ({{ collections[tag] | length }})</li>
+  {% endfor %}
+</ul>

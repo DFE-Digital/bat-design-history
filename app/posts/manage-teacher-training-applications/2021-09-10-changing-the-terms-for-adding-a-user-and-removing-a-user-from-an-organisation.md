@@ -20,6 +20,8 @@ screenshots:
       src: remove-user.png
     - text: Remove user - success
       src: remove-user--success.png
+tags:
+  - user management
 ---
 
 When we were [redesigning the email notifications for adding and removing users to and from an organisation](/manage-teacher-training-applications/emailing-users-who-are-added-to-or-removed-from-an-organisation/), we noticed our terminology could be better.

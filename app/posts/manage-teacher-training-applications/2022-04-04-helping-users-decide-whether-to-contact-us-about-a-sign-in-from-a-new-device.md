@@ -2,6 +2,9 @@
 title: Helping users decide whether to contact us about a sign in from a new device
 description: We improved the email we send to users when they appear to have used a new device to sign into the service.
 date: 2022-04-04
+tags:
+  - security
+  - sign in
 ---
 
 {% from "email/macro.njk" import appEmail %}

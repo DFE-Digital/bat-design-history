@@ -2,8 +2,10 @@
 title: Simplifying how we help users spot bias in their recruitment processes
 description: We updated the report showing the sex, disability, ethnicity and age of candidates to focus on potential bias
 date: 2021-10-29
-tags:
+user_needs:
   - MN029
+tags:
+  - equality and diversity
 screenshots:
   items:
     - text: Sex, disability, ethnicity and age of candidates report

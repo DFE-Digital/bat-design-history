@@ -1,6 +1,6 @@
 ---
 title: Managing individual email notifications
-description: Let users choose which emails they receive.
+description: Let users choose which emails they receive
 date: 2022-03-18
 related:
   items:
@@ -34,7 +34,7 @@ Currently, only users in accredited bodies receive email notifications for cours
 
 Users can turn off all email notifications. Research shows that users want to choose which email notifications they receive.
 
-At the moment some users filter out the emails they don’t want to read. It could also result in the email notifications being ignored.
+At the moment some users filter out the emails they do not want to read. It could also result in the email notifications being ignored.
 
 If we let users manage individual email notifications, then their inbox will only contain useful emails.
 
@@ -121,3 +121,5 @@ In future we may consider:
 - adding email frequency options - for example, daily or weekly digest
 - adding email notifications when changes to organisation settings, locations and users are made
 - changing the content of the email notifications to match the users’ permissions
+
+*[DfE]: Department for Education

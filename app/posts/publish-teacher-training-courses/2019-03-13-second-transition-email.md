@@ -1,6 +1,6 @@
 ---
 title: Email about Publish changes in April
-description: Sent on Wednesday 13 March.
+description: Sent on Wednesday 13 March
 date: 2019-03-13
 ---
 
@@ -25,7 +25,7 @@ Note that if you lose Web-link access on a Friday, you’ll gain access to the n
 
 ### What you need to do now
 
-You don’t need to do anything to prepare for these changes. For now, you can continue to use Web-link to manage your course information. Any changes you make will be transferred to the expanded Publish teacher training courses.
+You do not need to do anything to prepare for these changes. For now, you can continue to use Web-link to manage your course information. Any changes you make will be transferred to the expanded Publish teacher training courses.
 
 If anyone else in your organisation needs to be aware of this email, please let them know. If you have any questions, contact <becomingateacher@digital.education.gov.uk>
 

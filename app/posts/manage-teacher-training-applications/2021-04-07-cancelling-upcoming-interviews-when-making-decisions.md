@@ -16,6 +16,8 @@ screenshots:
       src: timeline--application-rejected.png
     - text: Timeline showing cancelled interview and application withdrawn events
       src: timeline--application-withdrawn.png
+tags:
+  - interviews
 ---
 
 {% from "email/macro.njk" import appEmail %}

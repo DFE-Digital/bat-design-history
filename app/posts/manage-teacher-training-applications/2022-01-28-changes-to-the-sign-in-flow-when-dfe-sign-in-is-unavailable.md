@@ -8,6 +8,8 @@ screenshots:
       src: sign-in.png
     - text: Confirmation page
       src: confirmation.png
+tags:
+  - sign in
 ---
 
 We redesigned the normal sign in flow as part of [creating a start page on GOV.UK](/manage-teacher-training-applications/starting-the-manage-service-on-govuk/).

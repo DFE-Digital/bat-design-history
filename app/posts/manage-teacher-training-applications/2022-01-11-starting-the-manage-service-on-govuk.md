@@ -2,6 +2,8 @@
 title: Starting the Manage service on GOV.UK
 description:  We created a start page on GOV.UK and made plans for URL redirects and content changes within Manage.
 date: 2022-01-11
+tags:
+  - start pages
 ---
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

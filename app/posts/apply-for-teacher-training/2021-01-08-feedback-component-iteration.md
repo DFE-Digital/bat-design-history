@@ -2,6 +2,8 @@
 title: Simplifying the feedback form
 description: Removing checkboxes and making written feedback required.
 date: 2021-01-08
+tags:
+  - user feedback
 screenshots:
   items:
     - text: Feedback form

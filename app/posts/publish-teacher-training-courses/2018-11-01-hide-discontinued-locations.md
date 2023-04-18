@@ -1,6 +1,6 @@
 ---
 title: Hide discontinued training locations
-description: Don’t show these locations to avoid confusion.
+description: Do not show these locations to avoid confusion
 date: 2018-11-01
 screenshots:
   items:
@@ -10,7 +10,7 @@ screenshots:
       src: discontinued-training-locations-open.png
 ---
 
-The way we display non-running training locations in Publish has confused some publishers (we’ve received Zendesk tickets about superfluous training locations on their courses, where the publisher didn’t understand that the location was discontinued and they didn’t need to do anything).
+The way we display non-running training locations in Publish teacher training courses (Publish) has confused some publishers (we’ve received Zendesk tickets about superfluous training locations on their courses, where the publisher did not understand that the location was discontinued and they did not need to do anything).
 
 Also we show irrelevant info for those locations – this looks weird, eg vacancies on a suspended location.
 

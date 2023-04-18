@@ -3,7 +3,7 @@ title: Adding academic and other relevant qualifications
 description: Encourage candidates to demonstrate their subject knowledge and broader academic achievements.
 date: 2020-03-16
 tags:
-  - AN021
+  - qualifications
 screenshots:
   items:
     - text: Qualification type

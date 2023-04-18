@@ -1,6 +1,6 @@
 ---
 title: Tabs on locations
-description: Show courses at each location and location history.
+description: Show courses at each location and location history
 date: 2019-04-15
 screenshots:
   items:

@@ -1,6 +1,6 @@
 ---
 title: Iteration 28 June 2018
-description: Add character counts and refine preview.
+description: Add character counts and refine preview
 date: 2018-06-28
 screenshots:
   items:
@@ -15,10 +15,10 @@ As with the [previous iteration](/publish-teacher-training-courses/iteration-jun
 
 In this iteration we:
 
-* added character counts
-* made interview process optional
-* hid incomplete optional fields from preview
-* added fields for international course fees
+- added character counts
+- made interview process optional
+- hid incomplete optional fields from preview
+- added fields for international course fees
 
 Based on the first submission, which was mostly copy and pasted text, we quickly added word counts to each field. We expect character counts to limit input and to trigger users into editing their text down.
 

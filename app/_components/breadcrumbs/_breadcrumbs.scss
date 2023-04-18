@@ -16,11 +16,6 @@ $app-breadcrumbs-inverted-border-colour: govuk-colour("light-blue");
     border-color: $app-breadcrumbs-inverted-text-colour;
   }
 
-  .govuk-breadcrumbs__list-item:last-child a {
-    font-weight: bold;
-    text-decoration: none;
-  }
-
   a:link,
   a:visited,
   a:hover,

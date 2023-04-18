@@ -1,6 +1,6 @@
 ---
 title: UCAS teacher training (search)
-description: Screenshots of the UCAS service that Find replaced.
+description: Screenshots of the UCAS service that Find replaced
 date: 2018-05-01
 screenshots:
   items:
@@ -38,6 +38,8 @@ Screenshots of the UCAS search tool that Find postgraduate teacher training repl
 
 UCAS search gave each user a unique session that lasted only 5 minutes. After 5 minutes of inactivity a user needed to start again.
 
-This session also formed part of the URL, meaning course pages couldn’t be linked to, bookmarked or shared. Once a session had expired the course would need to be found again through search.
+This session also formed part of the URL, meaning course pages could not be linked to, bookmarked or shared. Once a session had expired the course would need to be found again through search.
 
 UCAS search referred to courses as ‘training programmes’.
+
+*[UCAS]: Universities and colleges admissions service

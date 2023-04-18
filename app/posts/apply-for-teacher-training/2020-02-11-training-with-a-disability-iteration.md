@@ -3,9 +3,7 @@ title: Giving details about disability (iteration)
 description: An iteration of the disability section.
 date: 2020-02-11
 tags:
-  - AN007
-  - AN008
-  - MN005
+  - disability support
 screenshots:
   items:
     - text: Get extra assistance to become a teacher (with supportive guidance)

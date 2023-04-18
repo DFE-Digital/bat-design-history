@@ -1,6 +1,6 @@
 ---
 title: Minimum course requirements – iterations
-description: A view of how the minimum requirements design has been iterated since December.
+description: A view of how the minimum requirements design has been iterated since December
 date: 2019-03-24
 screenshots:
   items:
@@ -20,10 +20,15 @@ screenshots:
 
 Progression of the minimum requirements page design:
 
-* Started with a subject choice and a sensible default
-* Added the ability to change the choice
-* Remove subject choice, instead defaulting to legal minimums. Page only asks for preference
-* Make it clearer that this affects UCAS Apply
-* Simplify preference choice using a table
-* Remove table and switch to two questions
-* Split questions over two pages
+- Started with a subject choice and a sensible default
+- Added the ability to change the choice
+- Remove subject choice, instead defaulting to legal minimums. Page only asks for preference
+- Make it clearer that this affects UCAS Apply
+- Simplify preference choice using a table
+- Remove table and switch to two questions
+- Split questions over two pages
+
+
+*[GCSE]: General certificate of secondary education
+*[GCSEs]: General Certificate of Secondary Education
+*[UCAS]: Universities and colleges admissions service

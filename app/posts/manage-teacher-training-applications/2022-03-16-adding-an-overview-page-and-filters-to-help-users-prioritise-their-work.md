@@ -10,10 +10,12 @@ screenshots:
       src: application-list--conditions-pending-previous-cycle.png
     - text: Application list filtered to show application which needs feedback, marked with ‘Feedback needed’
       src: application-list--filtered-feedback-needed.png
-tags:
+user_needs:
   - AN029
   - MN021
   - MN030
+tags:
+  - filtering
 ---
 
 We removed the priority headings from the application list as part of the work to let users [sort the application list in different ways](/manage-teacher-training-applications/sorting-the-application-list-in-different-ways/).

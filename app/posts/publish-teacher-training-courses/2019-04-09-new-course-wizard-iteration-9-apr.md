@@ -1,6 +1,6 @@
 ---
 title: New course wizard – 9 April iteration
-description: Bring the wizard in line with changes made to the Google Form.
+description: Bring the wizard in line with changes made to the Google Form
 date: 2019-04-09
 screenshots:
   items:
@@ -14,6 +14,12 @@ screenshots:
 
 Bring the wizard in line with changes made to the Google Form:
 
-* split UCAS application requirements over two pages
-* remove mention of ‘publishing’ from application open screen
-* ask about apprenticeships for Universities and SCITTs
+- split UCAS application requirements over two pages
+- remove mention of ‘publishing’ from application open screen
+- ask about apprenticeships for Universities and SCITTs
+
+*[GCSE]: General certificate of secondary education
+*[GCSEs]: General Certificate of Secondary Education
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training
+*[UCAS]: Universities and colleges admissions service

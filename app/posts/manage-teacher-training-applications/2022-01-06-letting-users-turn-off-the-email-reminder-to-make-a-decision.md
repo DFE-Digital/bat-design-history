@@ -6,6 +6,8 @@ screenshots:
   items:
     - text: Email notification settings
       src: email-notification-settings.png
+tags:
+  - notifications
 ---
 
 We give users the ability to [manage individual email notifications](/manage-teacher-training-applications/managing-individual-email-notifications).

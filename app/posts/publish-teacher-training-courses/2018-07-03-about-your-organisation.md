@@ -1,6 +1,6 @@
 ---
 title: Shared organisation details
-description: Share organisation information between courses and split the organisation page across tabs.
+description: Share organisation information between courses and split the organisation page across tabs
 date: 2018-07-03
 screenshots:
   items:

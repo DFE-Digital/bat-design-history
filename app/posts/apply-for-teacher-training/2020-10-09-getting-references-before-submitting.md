@@ -3,10 +3,7 @@ title: Getting references before submitting an application
 description: Removing the delay between submitting an application and it reaching providers.
 date: 2020-10-09
 tags:
-  - AN024
-  - AN023
-  - AN013
-  - AN010
+  - references
 screenshots:
   - title: "Screenshots: Requesting a reference"
     items:

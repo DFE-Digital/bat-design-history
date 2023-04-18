@@ -1,6 +1,6 @@
 ---
 title: Notifications for users with access to multiple organisations
-description: Allowing accredited body users to choose which organisations they receive notifications about.
+description: Allowing accredited body users to choose which organisations they receive notifications about
 date: 2020-07-13
 tags:
   - PN013
@@ -156,9 +156,9 @@ In [previous research](/publish-teacher-training-courses/users-with-multiple-org
 
 This update includes:
 
-* simplifying the language used in the page title [(View the original)](https://bat-design-history.netlify.app/publish-teacher-training-courses/accredited-bodies-new-features/#notifications-opt-in)
-* updating content to list all available notifications
-* the ability for multi-organisation users to specify which training providers they want to receive notifications about
+- simplifying the language used in the page title [(View the original)](https://bat-design-history.netlify.app/publish-teacher-training-courses/accredited-bodies-new-features/#notifications-opt-in)
+- updating content to list all available notifications
+- the ability for multi-organisation users to specify which training providers they want to receive notifications about
 
 When a training provider has multiple accredited bodies, the accredited body user who enables notifications should only receive notifications for the courses they are the accredited body for. They must not receive notifications for courses they are not attached to.
 
@@ -166,5 +166,5 @@ For example: Mary belongs to Suffolk and Norfolk Primary SCITT, who is the accre
 
 ### Potential roadmap
 
-* Consider in-app notifications
-* Allow users to specify which particular notifications they receive
+- Consider in-app notifications
+- Allow users to specify which particular notifications they receive

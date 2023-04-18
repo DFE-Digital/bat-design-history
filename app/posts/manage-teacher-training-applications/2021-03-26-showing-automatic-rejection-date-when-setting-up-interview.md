@@ -5,6 +5,8 @@ date: 2021-03-26
 screenshots:
   items:
     - Interview details form
+tags:
+  - automatic rejections
 ---
 
 When setting up an interview, the user will see an error if they enter a date that’s after the automatic rejection date.

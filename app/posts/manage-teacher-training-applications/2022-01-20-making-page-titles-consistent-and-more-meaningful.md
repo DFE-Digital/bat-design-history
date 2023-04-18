@@ -2,6 +2,8 @@
 title: Making page titles consistent and more meaningful
 description: We changed the page titles to be consistent and include information from the captions.
 date: 2022-01-20
+tags:
+  - page titles
 ---
 
 We reviewed the page titles we use in the service. This was part of an audit which also included:

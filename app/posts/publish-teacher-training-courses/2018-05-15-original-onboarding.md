@@ -1,6 +1,6 @@
 ---
 title: Original onboarding
-description: The spreadsheet sent to providers rendered as a single page form.
+description: The spreadsheet sent to providers rendered as a single page form
 date: 2018-05-15
 ---
 

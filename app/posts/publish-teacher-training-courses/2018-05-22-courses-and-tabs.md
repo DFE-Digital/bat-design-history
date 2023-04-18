@@ -1,6 +1,6 @@
 ---
 title: Courses and tabs
-description: Exploration of a home page view with tabs for courses, schools, default course and organisation details.
+description: Exploration of a home page view with tabs for courses, schools, default course and organisation details
 date: 2018-05-22
 screenshots:
   items:
@@ -20,9 +20,9 @@ screenshots:
 
         Should the page be paginated?
 
-        * 30% of providers have only 1 or 2 courses
-        * 85% of providers have 20 or fewer courses
-        * 10% of providers have 50-100 courses
+        - 30% of providers have only 1 or 2 courses
+        - 85% of providers have 20 or fewer courses
+        - 10% of providers have 50-100 courses
 
         We will classify some of these as variants of the same course, so numbers will be less. Some courses from School Direct schools may be bundled up into courses by the overall provider, so the number may increase. The net ought to be similar.
 
@@ -38,7 +38,7 @@ screenshots:
 
 This is a visualisation of course information structured by:
 
-* training provider metadata (eg provider name, contact details)
-* common course information (eg about this provider or interview process)
-* schools an organisation is associated with
-* courses the organisation offers – full detailed comprised of all of the above
+- training provider metadata (eg provider name, contact details)
+- common course information (eg about this provider or interview process)
+- schools an organisation is associated with
+- courses the organisation offers – full detailed comprised of all of the above

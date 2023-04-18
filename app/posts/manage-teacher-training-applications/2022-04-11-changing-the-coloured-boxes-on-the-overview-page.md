@@ -8,6 +8,8 @@ screenshots:
       src: overview-page.png
     - text: Application list
       src: application-list.png
+tags:
+  - applications overview
 ---
 
 We recently [added an overview page](/manage-teacher-training-applications/adding-an-overview-page-and-filters-to-help-users-prioritise-their-work/) which included coloured boxes showing the number of:

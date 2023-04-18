@@ -1,17 +1,17 @@
 ---
 title: The location problem
-description: Location is a complex issue, we begin to break it down.
+description: Location is a complex issue, we begin to break it down
 date: 2018-11-06
 ---
 
 We know that different providers treat location differently. A provider might:
 
-* list all of their schools as training locations on one course
-* list each school with its own course, duplicating courses
-* not list any school, because they are not yet known
-* not list any school, because there are too many
-* list only regional hubs rather than a list of schools
-* not list any other location, because you can only apply to the ‘main site’ (eg a University)
+- list all of their schools as training locations on one course
+- list each school with its own course, duplicating courses
+- not list any school, because they are not yet known
+- not list any school, because there are too many
+- list only regional hubs rather than a list of schools
+- not list any other location, because you can only apply to the ‘main site’ (eg a University)
 
 Providers may not list their schools and locations on Find or UCAS but they might list them on their own websites.
 
@@ -21,8 +21,8 @@ It’s not just a provider’s attitude towards giving location information, it 
 
 All our locations come from UCAS. We only know about two types of location:
 
-* a training provider’s contact address
-* listed training locations – these are places a candidate can apply to in UCAS Apply, not necessarily where they will spend the majority, if any, of their time when training.
+- a training provider’s contact address
+- listed training locations – these are places a candidate can apply to in UCAS Apply, not necessarily where they will spend the majority, if any, of their time when training.
 
 We call them ‘training locations’ on Find for consistency with UCAS, partly so that users know what to fill in on their application form. This terminology is confusing for us and for users. ‘Application locations’ is more appropriate.
 
@@ -34,11 +34,11 @@ UCAS provides no way of classifying these locations. They might be administrativ
 
 In user research we need to:
 
-* understand the terminology currently used by providers to define different types of location
-* determine their appetite for sharing location information
-* know the blockers for providing all locations
-* learn about negative (and positive) experiences from candidates about commute times
-* find out where in their process trainees find out about location
+- understand the terminology currently used by providers to define different types of location
+- determine their appetite for sharing location information
+- know the blockers for providing all locations
+- learn about negative (and positive) experiences from candidates about commute times
+- find out where in their process trainees find out about location
 
 ## What do we build next?
 
@@ -56,9 +56,9 @@ We aimed to understand the meaning of ‘location’ from providers and their ne
 
 We’ve spoken to 3 providers:
 
-* [Educate Teacher Training](https://lookback.io/watch/ivTWHyrMDfXG3ij2W) (SCITT) – [Write-up](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/652967938/Call+with+Educate+Group+-+Claire)
-* [Ealing Teaching School Alliance](https://lookback.io/watch/mJMixngKomcCCAhGj) (School direct) – [Write-up](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/668500067/Call+with+Polly+at+Ealing+TSA)
-* [Keele and North Staffordshire Teacher Education](https://lookback.io/watch/B4a3xtutcpg5i8FGn) (SCITT) – [Write-up](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/685342761/Call+with+Lucy+Miller+Keele+and+North+Staffordshire+SCITT)
+- [Educate Teacher Training](https://lookback.io/watch/ivTWHyrMDfXG3ij2W) (SCITT) – [Write-up](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/652967938/Call+with+Educate+Group+-+Claire)
+- [Ealing Teaching School Alliance](https://lookback.io/watch/mJMixngKomcCCAhGj) (School direct) – [Write-up](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/668500067/Call+with+Polly+at+Ealing+TSA)
+- [Keele and North Staffordshire Teacher Education](https://lookback.io/watch/B4a3xtutcpg5i8FGn) (SCITT) – [Write-up](https://dfedigital.atlassian.net/wiki/spaces/BaT/pages/685342761/Call+with+Lucy+Miller+Keele+and+North+Staffordshire+SCITT)
 
 ### Summary of findings
 
@@ -88,11 +88,11 @@ Unis make students aware that they will have to be prepared to travel up to 90 m
 
 List of location types for a Training Provider organisation:
 
-* Training Provider Headquarters - a registered address for the provider
-* Accredited provider
-* Administrative or admissions ‘hubs’ (if provider is sufficiently large)
-* Training centres (for lecture-based training for academic learning about how to teach)
-* Partner schools \[of which there are subtypes: a ‘main’ school, a ‘second‘ or ‘contrast’ school, SEND school, EAL school, …\]
+- Training Provider Headquarters - a registered address for the provider
+- Accredited provider
+- Administrative or admissions ‘hubs’ (if provider is sufficiently large)
+- Training centres (for lecture-based training for academic learning about how to teach)
+- Partner schools \[of which there are subtypes: a ‘main’ school, a ‘second‘ or ‘contrast’ school, SEND school, EAL school, …\]
 
 The actual locations for the above can all be the same (a single Schools Direct course), or all be different physical locations.
 
@@ -103,3 +103,7 @@ There is also a home learning (reflective note-taking, online modules) element t
 Providers who do list locations sometimes vary in their approach to listing courses where a subject is available in more than one location: eg one provider may list 11 courses with 1 location each, vs another provider who will list one course with 11 locations (schools)
 
 [Trello](https://trello.com/c/WSTkBVma/552-location-discovery-discussions-with-providers)
+
+*[UCAS]: Universities and colleges admissions service
+*[SCITT]: School centred initial teacher training
+*[SCITTs]: School centred initial teacher training

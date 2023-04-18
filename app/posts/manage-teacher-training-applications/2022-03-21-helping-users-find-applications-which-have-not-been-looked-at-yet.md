@@ -2,8 +2,11 @@
 title: Helping users find applications which have not been looked at yet
 description: We tried different ways of helping users find applications which have not been looked at yet.
 date: 2022-03-21
-tags:
+user_needs:
   - MN030
+tags:
+  - filtering
+  - applications overview
 ---
 
 Many providers have an initial ‘sifting’ stage when they first receive an application.

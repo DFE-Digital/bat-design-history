@@ -2,8 +2,10 @@
 title: Filtering the activity log to show applications which were received recently
 description: We added filters to the activity log, to help users find recently received applications.
 date: 2022-04-25
-tags:
+user_needs:
   - MN030
+tags:
+  - activity log
 screenshots:
   items:
     - text: Overview

@@ -14,8 +14,6 @@ pagination:
   reverse: true
   size: 50
 permalink: "register-trainee-teachers/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
-override:tags:
-  - post
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

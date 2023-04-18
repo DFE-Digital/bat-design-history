@@ -2,6 +2,9 @@
 title: Updating the emails sent when users create an account or sign in
 description: We’ve changed the account creation and sign in emails, to make it easier for users to understand the processes.
 date: 2022-08-19
+tags:
+  - emails
+  - accounts
 related:
   items:
     - text: Github pull request for sign in email

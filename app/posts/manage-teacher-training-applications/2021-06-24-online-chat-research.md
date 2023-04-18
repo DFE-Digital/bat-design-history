@@ -6,6 +6,8 @@ related:
   items:
     - text: Research findings slides
       href: https://docs.google.com/presentation/d/1-NNXVPR68PbK84pU8yMmFpOZcRyJDPYdpdw3WNuYMxU/edit#slide=id.p3
+tags:
+  - online chat
 ---
 
 The support team want to launch online chat as a way for providers to seek help. It will be integrated with Zendesk, the online support system used by the team.

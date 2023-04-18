@@ -14,6 +14,8 @@ related:
   items:
     - text: Status label research
       href: /manage-teacher-training-applications/status-label-research/
+tags:
+  - application status
 ---
 
 The ‘accepted’ and ‘conditions met’ statuses are not working as well as they could. We’ve made some changes to make them clearer.

@@ -1,6 +1,6 @@
 ---
 title: How will candidates apply for this course?
-description: Making allowances for providers with bespoke application processes.
+description: Making allowances for providers with bespoke application processes
 date: 2020-05-27
 related:
   items:
@@ -34,6 +34,8 @@ If a provider requires an alternative application process, details will be provi
 
 When support deals with a request from a provider to be omitted from UCAS we must:
 
-* set some kind of internal flag so that the course is not sent to UCAS via v1 of the API
-* collect and store bespoke text from the provider on how to apply (probably hardcoded while cases are very small), which must include an onward link
-* show this text on the page that shows after clicking the “Apply for this course” button
+- set some kind of internal flag so that the course is not sent to UCAS via v1 of the API
+- collect and store bespoke text from the provider on how to apply (probably hardcoded while cases are very small), which must include an onward link
+- show this text on the page that shows after clicking the “Apply for this course” button
+
+*[UCAS]: Universities and colleges admissions service

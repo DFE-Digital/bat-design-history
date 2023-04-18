@@ -5,6 +5,8 @@ date: 2021-04-06
 screenshots:
   items:
     - Qualifications section of application details
+tags:
+  - international qualifications
 ---
 
 Candidates with international qualifications need to provide confirmation that they’re comparable to the course's entry requirements.

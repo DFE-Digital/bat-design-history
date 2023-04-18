@@ -2,8 +2,10 @@
 title: Iterating how we help users understand how diverse their candidates are
 description: We changed the report showing the sex, disability, ethnicity and age of candidates to show percentages of candidates recruited within a group and in total
 date: 2021-10-19
-tags:
+user_needs:
   - MN029
+tags:
+  - equality and diversity
 screenshots:
   items:
     - text: Sex, disability, ethnicity and age of candidates report
