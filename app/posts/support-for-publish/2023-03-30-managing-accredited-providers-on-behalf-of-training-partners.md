@@ -1,5 +1,5 @@
 ---
-title: Managing accredited providers for training partners
+title: Managing accredited providers on behalf of training partners
 description: Giving the support team the ability to manage accredited providers on behalf of training providers
 date: 2023-03-30
 tags:
