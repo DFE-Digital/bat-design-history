@@ -1,6 +1,6 @@
 ---
 title: Managing accredited providers on behalf of training partners
-description: Giving the support team the ability to manage accredited providers on behalf of training providers
+description: Giving the support team the ability to manage accredited providers for training providers
 date: 2023-03-30
 tags:
   - accredited providers
@@ -44,7 +44,7 @@ screenshots:
 
 Support users cannot easily see the relationship between training partners and their accredited providers. They also cannot manage these relationships on behalf of the training partner.
 
-WHY IS THIS A PROBLEM
+There are occasions when it is quicker and more convenient for support users to view relationship details and make changes on behalf of the provider.
 
 ## What we changed
 
@@ -58,7 +58,7 @@ We added a way for support users to manage accredited provider relationships for
 
 Adding an accredited provider has 3 steps:
 
-1. Find an accredited provider by name UKPRN or postcode
+1. Find an accredited provider by name, UKPRN or postcode
 2. Enter details about the accredited provider
 3. Check your answers
 
@@ -76,11 +76,10 @@ We display an error message if the user submits the form before selecting an ite
 
 The second step requires users to enter details about the accredited provider.
 
-This information is used on Find postgraduate teacher training and can include:
+This information is used on Find postgraduate teacher training (Find) and can include:
 
-- SOMETHING
-- SOMETHING
-- SOMETHING
+- a short description of how the providers work together
+- any academic specialities, awards or achievements the accredited provider may have
 
 Users must enter 100 words or fewer.
 
@@ -88,21 +87,21 @@ Users must enter 100 words or fewer.
 
 The final step is to check your answers. The user can change both the provider and description of the accredited provider.
 
-Once they submit the page, we notified users of the accredited provider that their organisation has been added to the training partner as an accredited provider.
+Once they submit the page, we notify all users of the accredited provider that their organisation has been added to the training partner as an accredited provider.
 
-### Editing ‘About an accredited provider’
+### Editing ‘About the accredited provider’
 
-When a user clicks the change link next to the ‘About the accredited provider’, they’re taken to a page where they change the accredited provider's description.
+When users select the change link next to ‘About the accredited provider’, they’re taken to a page where they change the accredited provider's description.
 
 Users must enter 100 words or fewer.
 
 ### Removing an accredited provider
 
-When a user clicks the remove link next to the accredited provider’s name on the ‘Accredited providers’ list, they’re taken to a page to confirm the removal of the accredited provider.
+When a user selects the remove link next to the accredited provider’s name on the ‘Accredited providers’ list, they’re taken to a page to confirm the removal of the accredited provider.
 
-If the accredited provider does not ratify any courses the training partner runs, the user can remove them.
+If the accredited provider has not been attached to a course in Publish, the user can remove them.
 
-If the accredited provider does ratify courses run by the training partner, we show a page explaining why the user cannot remove the accredited provider.
+If the accredited provider is attached to a course, the user cannot remove them. They must detach the accredited provider from all courses before removing them. We show a page explaining why the user cannot remove the accredited provider.
 
 ### Validation rules
 
@@ -115,6 +114,8 @@ If the user does not enter a provider name, UKPRN or postcode before submitting 
 If the user selects a provider from the autocomplete that has already been added to the training partner, we show the error message:
 
 > [Provider name] has already been added
+
+In both cases, the user cannot continue adding the accredited provider.
 
 #### About the accredited provider
 
