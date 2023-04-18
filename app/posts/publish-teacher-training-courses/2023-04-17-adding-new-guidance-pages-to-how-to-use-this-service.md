@@ -39,6 +39,7 @@ We included a short description of the Publish service to the ‘How to use this
 (https://qa.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users)
 
 ### Change an accredited provider relationship
+
 (https://qa.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/change-an-accredited-provider-relationship)
 
 ### Roll over courses to a new recruitment cycle
