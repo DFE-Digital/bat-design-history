@@ -61,8 +61,8 @@ We have:
 
 Adding an organisation has 3 steps:
 
-1. Enter organisation details - provider name, provider type and UKPRN
-2. Enter contact details - email address, telephone number, website address and postal address
+1. Organisation details - provider name, provider type and UKPRN
+2. Contact details - email address, telephone number, website address and postal address
 3. Check your answers
 
 #### Organisation details
@@ -98,7 +98,7 @@ Register trainee teachers (Register) use the accredited provider ID to ensure th
 
 ##### Provider type
 
-The ‘Provider type’ question has three options:
+The ‘Provider type’ question has 3 options:
 
 - Higher education institution (HEI)
 - School centred initial teacher training (SCITT)
@@ -165,7 +165,7 @@ Provider codes must be:
 
 If the user does not enter a valid format, we show the error message:
 
-> Enter a valid provider code
+> Enter a valid provider code - it must be 3 characters and alphanumeric
 
 #### UKPRN
 
@@ -175,11 +175,11 @@ UKPRN is required. If the user does not enter a UKPRN, we show the error message
 
 A UKPRN is eight digits starting with 1. If the user does not enter a valid format, we show the error message:
 
-> Enter a valid UK provider reference number (UKPRN)
+> Enter a valid UK provider reference number (UKPRN) - it must be 8 digits starting with a 1, like 12345678
 
 We do not test for uniqueness because multiple providers can have the same number.
 
-For example, one organisation may be registered in Publish twice, once for primary courses and once for secondary courses. Whilst we prefer that providers do not do this, we cannot ensure the UKPRN is unique until we have reconciled the duplicate organisations.
+For example, one organisation may be registered in Publish twice, once for primary courses and once for secondary courses. Whilst we prefer that providers do not do this, we can only ensure the UKPRN is unique once we have reconciled the duplicate organisations.
 
 #### Accredited provider
 
@@ -189,7 +189,7 @@ For example, one organisation may be registered in Publish twice, once for prima
 
 ##### Accredited provider ID
 
-Users must enter an ‘Accredited provider ID’ if the organisation is an accredited provider. If the user does not enter an accredited provider ID, we show the error message:
+Users must enter an ‘Accredited provider ID’ if the organisation is accredited. If the user does not enter an accredited provider ID, we show the error message:
 
 > Enter an accredited provider ID
 
@@ -201,7 +201,11 @@ Accredited provider IDs have a specific format:
 
 If the user does not enter a valid format, we show the error message:
 
-> Enter a valid accredited provider ID
+> Enter a valid accredited provider ID - it must be 4 digits starting with a 1 or a 5
+
+We show a more specific error message if we know the provider type and the user does not enter a valid format. For example, if the provider is an HEI, we show:
+
+> Enter a valid accredited provider ID - it must be 4 digits starting with a 1, like 1234
 
 We do not validate if the name is correct for a given provider as we allow the provider to use a marketing name in Find postgraduate teacher training (Find).
 
@@ -223,7 +227,7 @@ If the user has chosen ‘School’ as a provider type, they must enter a URN fo
 
 The URN must be 5 or 6 digits long.
 
-> Enter a valid unique reference number (URN)
+> Enter a valid unique reference number (URN) - it must be 5 or 6 digits long
 
 #### Email address
 
@@ -293,7 +297,7 @@ We will consider making this change in a future piece of work.
 
 The market regulations team in DfE defines the accredited provider ID. They share this information with Becoming a Teacher (BAT) in a spreadsheet.
 
-Since this information only changes occasionally and the support team do not regularly add or edit organisation IDs, we decided not to provide an accredited provider ID search. The support team can use the spreadsheet to find the ID.
+Since this information only changes occasionally and the support team does not regularly add or edit organisation IDs, we decided not to provide an accredited provider ID search. The support team can use the spreadsheet to find the ID.
 
 ### Provider-facing registration forms
 
