@@ -1,5 +1,5 @@
 ---
-title: Adding an accredited provider when there is no JavaScript available
+title: Adding an accredited provider when JavaScript is unavailable
 description: We added a no-JavaScript version of the add accredited provider flow
 date: 2023-03-31
 tags:
@@ -7,11 +7,11 @@ tags:
 related:
   items:
     - text: Managing accredited providers for training partners
-      href:
+      href: /support-for-publish/managing-accredited-providers-for-training-partners/
     - text: Managing accredited bodies if you’re a lead school
       href: /publish-teacher-training-courses/managing-accredited-bodies-if-youre-a-lead-school/
     - text: Updating how training partners manage their accredited providers
-      href:
+      href: /publish-teacher-training-courses/updating-how-training-partners-manage-their-accredited-providers/
 screenshots:
   items:
     - text: Finding an accredited provider - without autocomplete
@@ -28,9 +28,9 @@ screenshots:
       src: accredited-providers--list-error.png
 ---
 
-When users add an accredited provider in Support, we use autocomplete to help them search for accredited providers.
+When users add an accredited provider in the Support console, we use autocomplete to help them search for accredited providers.
 
-The autocomplete works well for quickly selecting a school, but it requires JavaScript. Not everyone has JavaScript, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a school, but it requires JavaScript. Not everyone has JavaScript, and it does not always run successfully.
 
 We added a no-JavaScript version of the ‘Add accredited provider’ flow, which we can progressively enhance.
 
@@ -38,7 +38,7 @@ We added a no-JavaScript version of the ‘Add accredited provider’ flow, whic
 
 Selecting ‘Add accredited provider’ on the ‘Accredited providers’ list page takes the user to a form where they can search for an accredited provider. They do this by entering a provider name, UK provider reference number (UKPRN) or postcode.
 
-Without JavaScript, when the user continues, we show:
+When the user continues without JavaScript, we show:
 
 - the number of results and the search term in the heading - for example, “7 results found for ‘Manchester’”
 - a way to change the search if the accredited provider they are looking for is not listed or if there are too many results
@@ -50,4 +50,4 @@ Selecting an accredited provider from the list allows the user to continue and a
 
 We show an error message if the user tries to continue without selecting an accredited provider.
 
-If the accredited provider the user is looking for isn’t listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+If the accredited provider the user is looking for is not listed, or the list has no results, they can change their search, which takes them back to the search form.
