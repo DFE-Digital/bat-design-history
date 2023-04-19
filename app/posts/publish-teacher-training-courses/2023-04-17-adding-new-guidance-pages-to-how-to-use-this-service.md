@@ -23,10 +23,10 @@ We have included a short description of the Publish service on the [How to use t
 
 The new pages we added are:
 
-[Add an organisation](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-an-organisation)
-[Add and remove users](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users)
-[Change an accredited provider relationship](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/change-an-accredited-provider-relationship)
-[Roll over courses to a new recruitment cycle](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle)
+- [Add an organisation](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-an-organisation)
+- [Add and remove users](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users)
+- [Change an accredited provider relationship](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/change-an-accredited-provider-relationship)
+- [Roll over courses to a new recruitment cycle](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle)
 
 ### How to use this service
 
