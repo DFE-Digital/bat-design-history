@@ -8,12 +8,7 @@ related:
   items:
     - text: Adding guidance on how to use this service
       href: /publish-teacher-training-courses/adding-guidance-on-how-to-use-this-service/
-screenshots:
-  items:
-    - text:
-      src:
 ---
-
 
 We wanted to make sure that providers felt supported when using and onboarding to Publish teacher training courses (Publish). Following the initial teacher training (ITT) reforms, providers needed to know how to:
 
@@ -28,23 +23,23 @@ We included a short description of the Publish service to the ‘How to use this
 
 ### How to use this service
 
-(screengrab https://qa.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service)
+![How to use this service](how-to-use-this-service.png)
 
 ### Add an organisation
 
-(https://qa.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-an-organisation)
+![Add an organisation](adding-an-organisation.png)
 
 ### Add and remove users
 
-(https://qa.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users)
+![Add and remove users](adding-and-removing-users.png)
 
 ### Change an accredited provider relationship
 
-(https://qa.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/change-an-accredited-provider-relationship)
+![Change an accredited provider relationship](changing-an-accredited-provider-relationship.png)
 
 ### Roll over courses to a new recruitment cycle
 
-(https://qa.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle)
+![Roll over courses to a new recruitment cycle](rolling-over-courses.png)
 
 ## Future considerations
 
