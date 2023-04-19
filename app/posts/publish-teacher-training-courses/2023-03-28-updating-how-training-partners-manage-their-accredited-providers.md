@@ -1,6 +1,6 @@
 ---
 title: Updating how training partners manage their accredited providers
-description:
+description: We improved how training partners manage their accredited partner relationships
 date: 2023-03-28
 tags:
   - accredited providers
@@ -40,16 +40,23 @@ screenshots:
       src: accredited-providers--cannot-remove.png
 ---
 
-DESCRIPTION
+Previously, we [simplified how training partners managed their accredited provider relationships](/publish-teacher-training-courses/managing-accredited-bodies-if-youre-a-lead-school/).
+
+This previous work:
+
+- removed adding a new accredited body to the organisation in the add and change course flows
+- removed adding the accredited body’s description in ‘Organisation details’
+- added a section called ‘Accredited bodies’, accessible via the primary navigation
+- added a way to remove accredited providers from an organisation
 
 ## What we changed
 
-We have changed:
+We have:
 
-- the add accredited provider flow
-- editing ‘About the accredited provider’
-- removing an accredited provider
-- validation rules
+- improved the accredited provider search
+- made the ‘About the accredited provider’ mandatory
+- changed the wording for removing an accredited provider
+- updated the form validation rules
 
 ## How it works
 
@@ -100,7 +107,7 @@ Users must enter 100 words or fewer.
 
 When a user clicks the remove link next to the accredited provider’s name on the ‘Accredited providers’ list, they’re taken to a page to confirm the removal of the accredited provider.
 
-If the accredited provider has not been attached to a course in Publish teacher training courses (Publish), the user can remove them.
+If the accredited provider has yet to be attached to a course in Publish teacher training courses (Publish), the user can remove them.
 
 If the accredited provider is attached to a course, the user cannot remove them. They must detach the accredited provider from all courses before removing them. We show a page explaining why the user cannot remove the accredited provider.
 
@@ -117,7 +124,6 @@ If the user selects a provider from the autocomplete that has already been added
 > [Provider name] has already been added
 
 In both cases, the user cannot continue adding the accredited provider.
-
 #### About the accredited provider
 
 If the user does not enter details about the accredited provider, we show the error message:
