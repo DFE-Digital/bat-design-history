@@ -124,6 +124,7 @@ If the user selects a provider from the autocomplete that has already been added
 > [Provider name] has already been added
 
 In both cases, the user cannot continue adding the accredited provider.
+
 #### About the accredited provider
 
 If the user does not enter details about the accredited provider, we show the error message:
