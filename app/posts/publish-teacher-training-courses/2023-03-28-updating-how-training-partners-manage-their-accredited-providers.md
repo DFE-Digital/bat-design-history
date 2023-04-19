@@ -1,6 +1,6 @@
 ---
-title: Updating how training partners manage their accredited providers
-description: We improved how training partners manage their accredited partner relationships
+title: Improving how training partners manage their accredited providers
+description: We improved how training partners add, update and remove accredited providers
 date: 2023-03-28
 tags:
   - accredited providers
@@ -53,8 +53,8 @@ This previous work:
 
 We have:
 
-- improved the accredited provider search
-- made the ‘About the accredited provider’ mandatory
+- improved the accredited provider search, including the ability to search by provider name, UK provider reference number (UKPRN) and postcode
+- made the ‘About the accredited provider’ description mandatory
 - changed the wording for removing an accredited provider
 - updated the form validation rules
 
@@ -95,7 +95,7 @@ Users must enter 100 words or fewer.
 
 The final step is to check your answers. The user can change both the provider and description of the accredited provider.
 
-Once they submit the page, we notified users of the accredited provider that their organisation has been added to the training partner as an accredited provider.
+Once they submit the page, we notifiy users of the accredited provider that their organisation has been added to the training partner as an accredited provider.
 
 ### Editing ‘About the accredited provider’
 
@@ -105,11 +105,11 @@ Users must enter 100 words or fewer.
 
 ### Removing an accredited provider
 
-When a user clicks the remove link next to the accredited provider’s name on the ‘Accredited providers’ list, they’re taken to a page to confirm the removal of the accredited provider.
+When a user selects the remove link next to the accredited provider’s name on the ‘Accredited providers’ list, they’re taken to a page to confirm the removal of the accredited provider.
 
 If the accredited provider has yet to be attached to a course in Publish teacher training courses (Publish), the user can remove them.
 
-If the accredited provider is attached to a course, the user cannot remove them. They must detach the accredited provider from all courses before removing them. We show a page explaining why the user cannot remove the accredited provider.
+If the accredited provider is attached to a course, the user cannot remove them. Instead, they must contact the Support team. We show a page explaining why the user cannot remove the accredited provider.
 
 ### Data validation rules
 
@@ -124,7 +124,6 @@ If the user selects a provider from the autocomplete that has already been added
 > [Provider name] has already been added
 
 In both cases, the user cannot continue adding the accredited provider.
-
 #### About the accredited provider
 
 If the user does not enter details about the accredited provider, we show the error message:
