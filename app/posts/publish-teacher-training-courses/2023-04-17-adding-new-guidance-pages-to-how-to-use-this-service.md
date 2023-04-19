@@ -19,25 +19,42 @@ We wanted to make sure that providers felt supported when using and onboarding t
 
 ## What we changed
 
-We included a short description of the Publish service to the ‘How to use this service’ page and added links to the guidance pages under new headings.
+We have included a short description of the Publish service on the [How to use this service](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service) page and added links to the guidance pages under new headings.
+
+The new pages we added are:
+
+[Add an organisation](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-an-organisation)
+[Add and remove users](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users)
+[Change an accredited provider relationship](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/change-an-accredited-provider-relationship)
+[Roll over courses to a new recruitment cycle](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle)
 
 ### How to use this service
+
+We updated the page to describe what the service is and how Publish relates to Find. We added new headings to make the page easy to scan.
 
 ![How to use this service](how-to-use-this-service.png)
 
 ### Add an organisation
 
+This page contains a simple explaination of how a new provider can add their organisation to Publish. It also notes that the organisation will be added to Manage teacher training applications (Manage) as part of the onboarding process.
+
 ![Add an organisation](adding-an-organisation.png)
 
 ### Add and remove users
+
+In light of changing relationships due to ITT reforms, we wanted to make sure that users understood that they can now add and remove users themselves. We've provided a step-by-step guide on how to do it.
 
 ![Add and remove users](adding-and-removing-users.png)
 
 ### Change an accredited provider relationship
 
+If an accredited provider has not been reaccredited or if a training partner needs to form a new relationship, they will need to attach a different accredited provider to a course before can publish it. We've explained the process so that it is clear for users.
+
 ![Change an accredited provider relationship](changing-an-accredited-provider-relationship.png)
 
 ### Roll over courses to a new recruitment cycle
+
+Rollover can be a confusing concept for some users. To help providers understand the process, we've outlined what rollover is, given a description of some commonly used terms and explained when rollover happens.
 
 ![Roll over courses to a new recruitment cycle](rolling-over-courses.png)
 
