@@ -181,8 +181,6 @@ Course summary examples: https://www.publish-teacher-training-courses.service.go
 
 Writing descriptions for Publish teacher training courses: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses
 
----
-
 # Get help
 
 If you need any help, contact us at becomingateacher@digital.education.gov.uk.
