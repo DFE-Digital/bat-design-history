@@ -73,9 +73,9 @@ All courses which were published or withdrawn this recruitment cycle will be rol
 
 From 7 July, you’ll see a new section in Publish titled ‘Recruitment cycle 2022 to 2023 - current’. You can then:
 
-*add new courses
-*update rolled over courses
-*delete any courses you’ll no longer be running
+- add new courses
+- update rolled over courses
+- delete any courses you’ll no longer be running
 
 Also, you’ll find some improved guidance on what information to include in your course descriptions. This is based on our research into what candidates are looking for when they are browsing course page.
 
@@ -113,9 +113,9 @@ https://www.publish-teacher-training-courses.service.gov.uk/sign-in
 
 Sign in to Publish and go to ‘Recruitment cycle 2022 to 2023 - current’. From here, you can:
 
-*add new courses
-*check and edit rolled over courses
-*delete any courses you’ll no longer be running
+- add new courses
+- check and edit rolled over courses
+- delete any courses you’ll no longer be running
 
 # Updating and publishing courses
 
@@ -161,17 +161,17 @@ https://www.publish-teacher-training-courses.service.gov.uk/sign-in
 
 Sign in to Publish and go to ‘Recruitment cycle 2022 to 2023 - current’. From here, you can:
 
-*add new courses
-*check and edit rolled over courses
-*delete any courses you’ll no longer be running
+- add new courses
+- check and edit rolled over courses
+- delete any courses you’ll no longer be running
 
 # Updating and publishing courses
 
 Before publishing, check that:
 
-*course locations are correct - you can also add new locations if needed
-*all essential information, such as fees and visa sponsorship, is up to date
-*your course descriptions are specific and give candidates a good overview of what they can expect
+- course locations are correct - you can also add new locations if needed
+- all essential information, such as fees and visa sponsorship, is up to date
+- your course descriptions are specific and give candidates a good overview of what they can expect
 
 # Course summary examples and guidance
 
