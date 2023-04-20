@@ -183,9 +183,11 @@ Writing descriptions for Publish teacher training courses: https://www.publish-t
 
 <<<<<<< HEAD
 =======
+
 ---
 
 >>>>>>> a8a2287f038ef672aa1eac34e4aae16610759a12
+>>>>>>>
 # Get help
 
 If you need any help, contact us at becomingateacher@digital.education.gov.uk.
