@@ -1,7 +1,9 @@
 ---
 title: Managing and communicating rollover in 2021
 description: We duplicated courses, added a new page to the service and informed users about the rollover process
-date: 2022-04-05
+date: 2022-04-06
+tags:
+  - rollover
 related:
   items:
     - text: Rollover - what we did in 2020
