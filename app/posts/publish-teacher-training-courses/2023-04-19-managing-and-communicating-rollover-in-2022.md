@@ -2,6 +2,8 @@
 title: Managing and communicating rollover in 2022
 description: We duplicated courses, added a way to switch between recruitment cycles and informed users about the rollover process
 date: 2023-04-19
+tags:
+  - rollover
 related:
   items:
     - text: Managing and communicating rollover in 2021
