@@ -73,9 +73,9 @@ All courses which were published or withdrawn this recruitment cycle will be rol
 
 From 7 July, you’ll see a new section in Publish titled ‘Recruitment cycle 2022 to 2023 - current’. You can then:
 
-*add new courses
-*update rolled over courses
-*delete any courses you’ll no longer be running
+- add new courses
+- update rolled over courses
+- delete any courses you’ll no longer be running
 
 Also, you’ll find some improved guidance on what information to include in your course descriptions. This is based on our research into what candidates are looking for when they are browsing course page.
 
@@ -87,7 +87,7 @@ Please register your interest to take part by Wednesday 15 June at https://forms
 
 We’ll be in touch again in July to let you know that the courses have been rolled over.
 
-#Get help
+# Get help
 
 If anyone else in your organisation needs to see this email, please forward it to them. If you need any help, contact us at becomingateacher@digital.education.gov.uk.
 
@@ -113,11 +113,11 @@ https://www.publish-teacher-training-courses.service.gov.uk/sign-in
 
 Sign in to Publish and go to ‘Recruitment cycle 2022 to 2023 - current’. From here, you can:
 
-*add new courses
-*check and edit rolled over courses
-*delete any courses you’ll no longer be running
+- add new courses
+- check and edit rolled over courses
+- delete any courses you’ll no longer be running
 
-#Updating and publishing courses
+# Updating and publishing courses
 
 Before publishing courses, make sure that the information you’ve provided is up to date.
 
@@ -125,13 +125,13 @@ Having complete and accurate information gives candidates the best possible expe
 
 Check that:
 
-*course locations are correct - you can also add new locations if needed
-*all essential information, such as fees and visa sponsorship, is up to date
-*your course descriptions are specific and give candidates a good overview of what they can expect
+- course locations are correct - you can also add new locations if needed
+- all essential information, such as fees and visa sponsorship, is up to date
+- your course descriptions are specific and give candidates a good overview of what they can expect
 
 When your courses are ready, you can schedule them to go live as soon as Find opens on 4 October (you can still make changes to them after doing this).
 
-#Course summary examples and guidance
+# Course summary examples and guidance
 
 Based on our research into what candidates are looking for when reading course content, we’ve produced some new guidance.
 
@@ -139,7 +139,7 @@ Course summary examples: https://www.publish-teacher-training-courses.service.go
 
 Writing descriptions for Publish teacher training courses: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses
 
-#Get help
+# Get help
 
 If you need any help, contact us at becomingateacher@digital.education.gov.uk.
 
@@ -161,19 +161,19 @@ https://www.publish-teacher-training-courses.service.gov.uk/sign-in
 
 Sign in to Publish and go to ‘Recruitment cycle 2022 to 2023 - current’. From here, you can:
 
-*add new courses
-*check and edit rolled over courses
-*delete any courses you’ll no longer be running
+- add new courses
+- check and edit rolled over courses
+- delete any courses you’ll no longer be running
 
-#Updating and publishing courses
+# Updating and publishing courses
 
 Before publishing, check that:
 
-*course locations are correct - you can also add new locations if needed
-*all essential information, such as fees and visa sponsorship, is up to date
-*your course descriptions are specific and give candidates a good overview of what they can expect
+- course locations are correct - you can also add new locations if needed
+- all essential information, such as fees and visa sponsorship, is up to date
+- your course descriptions are specific and give candidates a good overview of what they can expect
 
-#Course summary examples and guidance
+# Course summary examples and guidance
 
 Based on our research into what candidates are looking for when reading course content, we’ve produced some new guidance.
 
@@ -181,9 +181,7 @@ Course summary examples: https://www.publish-teacher-training-courses.service.go
 
 Writing descriptions for Publish teacher training courses: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses
 
----
-
-#Get help
+# Get help
 
 If you need any help, contact us at becomingateacher@digital.education.gov.uk.
 
@@ -207,7 +205,7 @@ We’ve noticed that ((provider_name)) has the following unpublished courses for
 
 This means that candidates cannot currently view the course or apply on Find postgraduate teacher training (Find).
 
-#What you can do now
+# What you can do now
 
 You can publish or withdraw courses by signing in to Publish teacher training courses (Publish).
 
@@ -218,7 +216,7 @@ https://www.publish-teacher-training-courses.service.gov.uk/sign-in
 
 If you do not want to publish a course for the current recruitment cycle but might want to publish it next cycle, you can withdraw the course. This means you’ll be able to keep the course in your account and it will be rolled over next year.
 
-#Get help
+# Get help
 
 If you need any help, contact us at becomingateacher@digital.education.gov.uk.
 
