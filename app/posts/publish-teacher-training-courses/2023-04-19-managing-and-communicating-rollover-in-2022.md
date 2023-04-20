@@ -125,9 +125,9 @@ Having complete and accurate information gives candidates the best possible expe
 
 Check that:
 
-*course locations are correct - you can also add new locations if needed
-*all essential information, such as fees and visa sponsorship, is up to date
-*your course descriptions are specific and give candidates a good overview of what they can expect
+- course locations are correct - you can also add new locations if needed
+- all essential information, such as fees and visa sponsorship, is up to date
+- your course descriptions are specific and give candidates a good overview of what they can expect
 
 When your courses are ready, you can schedule them to go live as soon as Find opens on 4 October (you can still make changes to them after doing this).
 
@@ -181,8 +181,13 @@ Course summary examples: https://www.publish-teacher-training-courses.service.go
 
 Writing descriptions for Publish teacher training courses: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses
 
+<<<<<<< HEAD
+=======
+
 ---
 
+>>>>>>> a8a2287f038ef672aa1eac34e4aae16610759a12
+>>>>>>>
 # Get help
 
 If you need any help, contact us at becomingateacher@digital.education.gov.uk.
