@@ -17,6 +17,7 @@ We merged these personal statement sections into one, and improved the guidance 
 
 We tested this design and improved the content shown to candidates after conducting research. 
 
+This change was made to all applications started after 9am on 24 April 2023. Applications started before then were unaffected.
 
 ## The issue
 
