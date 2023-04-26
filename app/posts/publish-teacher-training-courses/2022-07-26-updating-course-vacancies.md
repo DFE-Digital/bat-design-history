@@ -46,6 +46,7 @@ We have:
 
 ## How it works
 
+![Change course vacancies flow](course-vacancies--flow.png "Change course vacancies flow")
 
 ## Further considerations
 
