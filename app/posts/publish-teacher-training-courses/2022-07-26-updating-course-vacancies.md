@@ -1,5 +1,5 @@
 ---
-title: Updating course vacancies
+title: Updating how providers manage course vacancies
 description:
 date: 2022-07-26
 tags:
@@ -105,7 +105,7 @@ We show a success message and change the course status to:
 - ‘Open’ if the course has vacancies and was previously closed
 - ‘Closed’ if the course does not have vacancies
 
-### Changing course locations
+### Changing locations
 
 If users add a new location to a closed course, the course is reopened.
 
