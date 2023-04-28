@@ -45,9 +45,9 @@ If a course is closed, it is still available on Find, but candidates cannot appl
 
 For all closed courses, we show a message:
 
-> You cannot apply for this course as it is closed for applications at this time. To find courses accepting applications, change your search to ‘Only show courses accepting applications’.
+> You cannot apply for this course as it is closed for applications. To find courses accepting applications, change your search to ‘Only show courses accepting applications’.
 
-![Warning text](warning-text.png "Warning text")
+![Course closed for applications](warning-message.png "Course closed for applications")
 
 ### Vacancies filter
 
@@ -57,7 +57,7 @@ We replaced the ‘Vacancies’ filter with one labelled ‘Applications open’
 
 We show all ‘Open’ and ‘Closed’ courses if the filter is deselected.
 
-![Vacancies filter](vacancies-filter.png "Vacancies filter")
+![Applications open filter](applications-open-filter.png "Applications open filter")
 
 ## Further considerations
 
