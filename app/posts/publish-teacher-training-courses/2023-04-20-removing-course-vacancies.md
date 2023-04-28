@@ -27,12 +27,12 @@ screenshots:
       src: open-course.png
     - text: Course opened
       src: course-opened.png
-    - text: Training partners’ courses list
-      src: courses-list--training-partners.png
     - text: Withdraw open course
       src: withdraw-open-course.png
     - text: Withdraw closed course
       src: withdraw-closed-course.png
+    - text: Training partners’ courses list
+      src: courses-list--training-partners.png
 ---
 
 When a provider publishes a course, they can list all the schools where a candidate can gain experience.
