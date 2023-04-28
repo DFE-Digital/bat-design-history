@@ -46,7 +46,70 @@ We have:
 
 ## How it works
 
+### Changing vacancies
+
 ![Change course vacancies flow](course-vacancies--flow.png "Change course vacancies flow")
+
+Changing the vacancies for a course has several steps. If the course has vacancies, we show:
+
+1. ‘Does the course have vacancies?’
+2. select locations with vacancies
+3. check your answers
+
+If the course does not have vacancies, we show:
+
+1. ‘Does the course have vacancies?’
+2. check your answers
+
+#### ‘Does the course have vacancies?’
+
+Selecting ‘Change vacancies’ from the courses list page or vacancies tab on the course page takes the user to a question asking, ‘Does the course have vacancies?’
+
+The question has two options:
+
+- Yes
+- No
+
+If the user selects ‘Yes’, we show a page where they must select all locations with vacancies.
+
+If the user selects ‘No’, we show a ‘Check your answers’ page.
+
+#### Select locations with vacancies
+
+If the course has vacancies, we show all locations associated with the course.
+
+Users can select which locations have vacancies.
+
+They cannot submit the page with no locations selected. If they do, we show an error message:
+
+> Select all locations with vacancies
+
+#### Check your answers
+
+The final step is to check your answers.
+
+If the course has vacancies, we show:
+
+- the answer to ‘Does the course have vacancies?’
+- a list of locations with vacancies
+
+If the course does not have vacancies, we show:
+
+- the answer to ‘Does the course have vacancies?’
+- a warning message: ‘Updating vacancies will close the course to applications’
+
+#### Submitting the change
+
+We show a success message and change the course status to:
+
+- ‘Open’ if the course has vacancies and was previously closed
+- ‘Closed’ if the course does not have vacancies
+
+### Changing course locations
+
+If users add a new location to a closed course, the course is reopened.
+
+If users remove a location from an open course and it is the only location with vacancies, the course is closed.
 
 ## Further considerations
 
