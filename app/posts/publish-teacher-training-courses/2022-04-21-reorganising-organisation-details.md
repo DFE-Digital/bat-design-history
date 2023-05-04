@@ -28,7 +28,7 @@ screenshots:
     - text: Edit training with our organisation
       src: organisation-details--train-with-us.png
     - text: Edit training with disabilities and other needs
-      src: organisation-details--training-with-disabilities.png
+      src: organisation-details--train-with-disabilities.png
     - text: Edit contact details
       src: organisation-details--contact-details.png
 ---
