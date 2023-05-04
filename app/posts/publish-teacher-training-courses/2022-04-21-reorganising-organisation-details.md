@@ -39,7 +39,7 @@ As part of these changes, we reviewed how organisation details were organised an
 
 ## What we changed
 
-Previously we simplified how Lead schools manage their accredited body relationships. This included:
+Previously we simplified how lead schools manage their accredited body relationships. This included:
 
 - removing adding the accredited body’s description in ‘Organisation details’
 - added a section called ‘Accredited bodies’, accessible via the primary navigation
