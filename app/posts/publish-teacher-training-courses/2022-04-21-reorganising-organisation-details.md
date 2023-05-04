@@ -61,7 +61,7 @@ The ‘Train with your organisation’ section spans full width as it contains l
 
 Selecting a change link next to UKPRN or URN takes the user to a page where they can edit either reference number.
 
-We give links to the [UK register of learning providers](https://www.ukrlp.co.uk/) and [Get information about schools](https://www.get-information-schools.service.gov.uk/) to help the user find the relevant reference number if not known.
+We give links to the [UK register of learning providers](https://www.ukrlp.co.uk/) and [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) to help the user find the relevant reference number if not known.
 
 We show ‘Not entered’ on the summary list if the user does not enter a reference number.
 
