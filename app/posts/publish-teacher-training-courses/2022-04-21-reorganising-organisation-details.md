@@ -56,6 +56,7 @@ The organisation details, visa sponsorship and contact details sections span two
 The ‘Train with your organisation’ section spans full width as it contains long-form content, and we wanted to make it easier to read without too much scrolling.
 
 ## How it works
+
 ### Organisation details
 
 Selecting a change link next to UKPRN or URN takes the user to a page where they can edit either reference number.
