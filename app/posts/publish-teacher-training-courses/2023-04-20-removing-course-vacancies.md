@@ -37,11 +37,11 @@ screenshots:
 
 When a provider publishes a course, they can list all the schools where a candidate can gain experience.
 
-Previously, once a course was published, it was open to applications. This meant there were vacancies at some or all of the schools listed.
+Previously, once a course was published, it was ‘Open’ for applications. This meant there were vacancies at some or all of the schools listed.
 
 We provided a way for users to state whether each school had vacancies.
 
-If the provider stated there were no vacancies for all schools on the list, the course is closed.  Closed courses can still be found on Find postgraduate teacher training (Find), but a candidate cannot apply.
+If the provider stated there were no vacancies for all schools on the list, the course is ‘Closed’. ‘Closed’ courses can still be found on Find postgraduate teacher training (Find), but a candidate cannot apply.
 
 We have removed the link between the ‘Open’ and ‘Closed’ course statuses and vacancies. Users can simply state whether the course is open or closed.
 
@@ -67,7 +67,7 @@ We removed the ability for users to manage vacancies in Publish teacher training
 
 ## How it works
 
-When a course is first published, it is ‘open’ on Find.
+When a course is first published, it is ‘Open’ on Find.
 
 In the ‘Open’ state, Publish users can:
 
