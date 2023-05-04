@@ -16,22 +16,22 @@ related:
       href: /publish-teacher-training-courses/reorganising-organisation-details/
 screenshots:
   items:
-    - text: Organisation details - school
-      src: organisation--details-school.png
+    - text: Organisation details - training partner
+      src: organisation-details--training-partner.png
     - text: Organisation details - accredited provider
-      src: organisation--details-accredited-provider.png
-    - text: Organisation details form - school
-      src: organisation--details-form-school.png
+      src: organisation-details--accredited-provider.png
+    - text: Organisation details form - training partner
+      src: organisation-details-form--training-partner.png
+    - text: Organisation details form with errors - training partner
+      src: organisation-details-form--errors-training-partner.png
     - text: Organisation details form - accredited provider
-      src: organisation--details-form-accredited-provider.png
-    - text: Organisation details form with errors - school
-      src: organisation--details-form-errors-school.png
+      src: organisation-details-form--accredited-provider.png
     - text: Organisation details form with errors - accredited provider
-      src: organisation--details-form-errors-accredited-provider.png
+      src: organisation-details-form--errors-accredited-provider.png
     - text: Organisation contact details
-      src: organisation--contact-details.png
+      src: organisation-contact-details-form.png
     - text: Organisation contact details with errors
-      src: organisation--contact-details-errors.png
+      src: organisation-contact-details-form--errors.png
 ---
 
 We recently made changes to Support for publish teacher training courses (Support) to [improve how the support team adds and edits organisation details](/support-for-publish/adding-and-editing-organisations/).
