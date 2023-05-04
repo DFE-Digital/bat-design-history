@@ -44,10 +44,10 @@ Previously we simplified how lead schools manage their accredited body relations
 - removing adding the accredited body’s description in ‘Organisation details’
 - adding a section called ‘Accredited bodies’, accessible via the primary navigation
 
-In this piece of work have separated the content into 4 sections:
+In this piece of work, we have separated the content into 4 sections:
 
 - organisation details - including the provider name, provider code, UK provider reference number (UKPRN) and unique reference number (URN)
-- about your organisation
+- about your organisation - including training with your organisation and training with disabilities and other needs
 - visa sponsorship - if the provider is an accredited body
 - contact details - including email address, telephone number and address
 
