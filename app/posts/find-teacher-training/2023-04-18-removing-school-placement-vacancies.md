@@ -41,26 +41,28 @@ We replaced the ‘Schools’ table with a list of schools and removed each scho
 
 ### Warning text
 
-If a course is closed, it is still available on Find, but candidates cannot apply.
+If a course is ‘Closed’, it is still available on Find postgraduate teacher training (Find), but candidates cannot apply.
 
 For all closed courses, we show a message:
 
-> You cannot apply for this course as it is closed for applications. To find courses accepting applications, change your search to ‘Only show courses accepting applications’.
+> You cannot apply for this course as it is closed for applications. To find courses open for applications, change your search to ‘Only show courses open for applications’.
 
 ![Course closed for applications](warning-message.png "Course closed for applications")
 
+We also append ‘Closed for applications’ next to the date you can apply from to avoid confusion.
+
 ### Vacancies filter
 
-If a course is open, it is available on Find, and candidates can apply.
+If a course is ‘Open’, it is available on Find, and candidates can apply.
 
-We replaced the ‘Vacancies’ filter with one labelled ‘Applications open’. The filter is selected by default, so we ‘Only show courses accepting applications.’
-
-We show all ‘Open’ and ‘Closed’ courses if the filter is deselected.
+We replaced the ‘Vacancies’ filter with one labelled ‘Applications open’. The filter is selected by default, so we ‘Only show courses open for applications.’
 
 ![Applications open filter](applications-open-filter.png "Applications open filter")
 
-## Further considerations
+We show all ‘Open’ and ‘Closed’ courses if the filter is deselected.
 
-If someone deselects the ‘Applications open’ filter, we show all open and closed courses. It is not easy to see which courses accept applications and which do not.
+For all ‘Closed’ courses in the list, we show an additional line in the summary list stating the ‘Closed for applications’. This helps users distinguish between the ‘Open’ and ‘Closed’ courses.
 
-In the future, we could add a label to ‘Closed’ courses on the courses list so that users can quickly see whether they can apply for the course.
+We do not add an ‘Open’ and ‘Closed’ status next to each course because, by default, we only show ‘Open’ courses in the list.
+
+![Applications open filter - deselected](applications-open-filter--unchecked.png "Applications open filter - deselected")
