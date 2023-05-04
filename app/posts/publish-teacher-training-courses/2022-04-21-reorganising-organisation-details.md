@@ -85,7 +85,7 @@ Changes to the visa sponsorship section are discussed in the post [adding questi
 
 Selecting a change link next to any contact details takes the user to a page where they can edit all the contact details.
 
-We show an error message ff the user does not enter:
+We show an error message if the user does not enter:
 
 - email address
 - telephone number
