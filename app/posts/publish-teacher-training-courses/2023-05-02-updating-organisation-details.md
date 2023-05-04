@@ -12,6 +12,8 @@ related:
       href: /publish-teacher-training-courses/improving-how-providers-add-schools/
     - text: Adding and editing organisations
       href: /support-for-publish/adding-and-editing-organisations/
+    - text: Reorganising organisation details
+      href: /publish-teacher-training-courses/reorganising-organisation-details/
 screenshots:
   items:
     - text: Organisation details - school
