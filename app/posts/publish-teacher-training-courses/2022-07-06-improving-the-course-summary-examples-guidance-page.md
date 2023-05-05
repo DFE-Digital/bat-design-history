@@ -22,7 +22,7 @@ While the response was generally positive, some providers:
 
 Originally, we created the examples ourselves, making sure they follow best practice and our guidance. However, we felt that using real examples as the basis for our examples would resonate more with providers.
 
-We emailed two providers who had high-quality course summary content to ask their permission to edit and use their content in our guidance. Both providers consented.
+We emailed 2 providers who had high-quality course summary content to ask their permission to edit and use their content in our guidance. Both providers consented.
 
 ## What we changed
 
@@ -30,7 +30,7 @@ As we are no longer reducing the word count for the ‘Course summary’ section
 
 We also:
 
-- changed the two course summary examples
+- changed the 2 course summary examples
 - added more information about why they are good examples
 
 ## Future considerations
