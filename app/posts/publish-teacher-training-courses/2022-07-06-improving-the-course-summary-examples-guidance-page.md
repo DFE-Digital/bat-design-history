@@ -26,7 +26,7 @@ We emailed two providers who had high-quality course summary content to ask thei
 
 ## What we changed
 
-As we are no longer reducing the word count for the ‘Course summary’ section from 400 words to 200 words, so we updated the introduction.
+As we are no longer reducing the word count for the ‘Course summary’ section from 400 words to 200 words, we updated the introduction.
 
 We also:
 
