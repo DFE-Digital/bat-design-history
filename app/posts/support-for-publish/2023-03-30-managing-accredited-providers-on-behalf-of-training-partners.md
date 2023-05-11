@@ -8,8 +8,8 @@ related:
   items:
     - text: Managing accredited bodies if you’re a lead school
       href: /publish-teacher-training-courses/managing-accredited-bodies-if-youre-a-lead-school/
-    - text: Updating how training partners manage their accredited providers
-      href: /publish-teacher-training-courses/updating-how-training-partners-manage-their-accredited-providers/
+    - text: Improving how training partners manage their accredited providers
+      href: /publish-teacher-training-courses/improving-how-training-partners-manage-their-accredited-providers/
 screenshots:
   items:
     - text: Accredited provider list
