@@ -83,7 +83,7 @@ This information is used on Find postgraduate teacher training (Find) and can in
 
 Users must enter 100 words or fewer.
 
-### Check your answers
+#### Check your answers
 
 The final step is to check your answers. The user can change both the provider and description of the accredited provider.
 
