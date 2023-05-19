@@ -26,7 +26,7 @@ We think that by surveying candidates on their reasons for withdrawal, and then 
 
 ## What we changed
 
-We added a new report with a table which displays all the reasons that candidates can select when withdrawing their application. These figures are broken down into columns for 'Withdrawn before a decision' and 'Withdrawn after accepting', as well as a total.
+We added a new report with a table which displays all the [reasons that candidates can select when withdrawing their application](/apply-for-teacher-training/changing-withdrawal-reasons/). These figures are broken down into columns for 'Withdrawn before a decision' and 'Withdrawn after accepting', as well as a total.
 
 ![Screenshot showing a page titled 'Withdrawals'. After the title is the content 'Candidates who withdraw their application are asked to select their reasons for withdrawing. This is an optional question. Candidates are asked this question when they withdraw before a decision on their application is made or after accepting an offer. Candidates who have received an offer are not able to withdraw – they have to either accept or decline instead.' There is then the heading 'Applications withdrawn in the 2022 to 2023 recruitment cycle' followed by the content 'Candidates can select multiple reasons, so the numbers in each column may not match the ‘Total’ number. This data has only been collected from 11 April 2023.' There is then a table with columns headed 'Reason',	'Withdrawn before a decision', 	'Withdrawn after accepting' and 'Total'. There are 12 rows for the different reasons, followed by a 'Total' row.](withdrawal-reasons-report.png)
 
