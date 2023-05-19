@@ -35,7 +35,7 @@ We updated the form to:
 
 We use a short link to the form: https://forms.office.com/e/ZUpgJKt0Qr
 
- ### Email to accompany the form
+### Email to accompany the form
 
 When an organisation wants to onboard to Publish, the Support team will send them an email containing a link to the form. We updated this to make it more concise and include mention of onboarding to Manage.
 
