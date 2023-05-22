@@ -41,7 +41,7 @@ screenshots:
       src: study-sites--cannot-remove.png
 ---
 
-On Find postgraduate teacher training (Find), we show all the schools where trainees could be placed during their training for each course. We do not show where they do their theoretical studies.
+On Find postgraduate teacher training (Find), we show all the schools where trainees could be placed during their training for each course. We need to show where they do their theoretical studies.
 
 During recent rounds of research, we found that:
 
@@ -63,7 +63,7 @@ On the study site list page, we show a:
 - button to ‘Add study site’
 - list of study sites the provider has added
 
-If the provider does not have any study sites, we do not show an empty list, we show the message:
+If the provider does not have any study sites, we do not show an empty list; we show the message:
 
 >A study site is where trainees do their theoretical training, such as a university campus. Add study sites for your organisation and then link one or more of them to a course from the ‘Basic details’ tab on the course page.
 >
@@ -73,7 +73,7 @@ If the provider does not have any study sites, we do not show an empty list, we 
 
 ### Adding a study site
 
-![Adding a study site flow](adding-schools-flow.png "Adding a school flow")
+![Adding a study site flow](adding-study-sites-flow.png "Adding a study site flow")
 
 Adding a study site has 3 steps:
 
@@ -85,7 +85,7 @@ Adding a study site has 3 steps:
 
 Selecting ‘Add study site’ on the study sites list page takes the user to a form where they can search for a school, university or college. They do this by entering the study site name, unique reference number (URN) or postcode.
 
-We use Get Information about Schools (GIAS) data and display it in an autocomplete.
+We use [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data and display it in an autocomplete.
 
 We display the name, town and postcode for each location in the list. This allows users to choose from similarly named locations correctly.
 
@@ -107,7 +107,7 @@ If any required information is missing, we display an error message.
 
 The final step is to check your answers before adding the study site.
 
-Users cannot add the same study site twice. If they try to do this, we display an error message when selecting' Add school' on the ‘Check your answers’ page.
+Users can only add the same study site once. If they try to add the location again, we display an error message when submitting the ‘Check your answers’ page.
 
 ### Editing a study site
 
@@ -134,7 +134,7 @@ If the study site is attached to a course, the user cannot remove them. They mus
 
 ## Further considerations
 
-We considered some changes which were not implemented. These included:
+We considered some changes that we did not implement. These included:
 
 - combining the ‘Schools’ and ‘Study sites’ sections
 - collecting other types of location
@@ -142,7 +142,7 @@ We considered some changes which were not implemented. These included:
 
 ### Combining the ‘Schools’ and ‘Study sites’ sections
 
-Previously, we changed ‘Locations’ to ‘Schools’. With the introduction of ‘Study sites’ we now have a section with similar data and interactions.
+Previously, we changed ‘Locations’ to ‘Schools’. With the introduction of study sites, we now have a second section with similar data and interactions.
 
 We could combine the two sections called ‘Training locations’ and include a question to collect location type.
 
@@ -157,6 +157,8 @@ Some providers offer online training as part of a trainee's theoretical studies.
 
 The study sites for training providers will often include the accredited provider location.
 
-We could reduce the need for training providers to add study sites if we could show the study sites of their accredited providers.
+We could reduce the need for training providers to add study sites if we show the study sites of their accredited providers.
 
 Until we know how providers will use the study site section, we will not show study sites from accredited providers in a training provider’s account.
+
+*[GIAS]: Get information about schools
