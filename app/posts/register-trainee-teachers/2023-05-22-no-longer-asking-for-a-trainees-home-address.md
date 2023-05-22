@@ -11,7 +11,7 @@ We currently collect a trainee’s home address when:
 
 The Higher Education Statistics Authority (HESA) does not collect home addresses. This means that we do not have home addresses for trainees who are training with higher education institutions.
 
-The DfE no longer needs to write to trainees at their home addresses. We use email to send messages to them, for example when they’ve been awarded teaching status.
+The DfE no longer needs to write to trainees at their home addresses. We now use email to send messages to them, for example when they’ve been awarded teaching status.
 
 We should not collect more data than we need, so we’ve decided to stop importing or asking for home addresses. We’ll delete the home addresses we’ve already collected.
 
