@@ -1,6 +1,6 @@
 ---
 title: Adding ‘Study sites’
-description: We added a way for providers to add ‘Study sites’ to their account using Get Information about Schools (GIAS) data
+description: We added a way for providers to add ‘Study sites’ to their account using Get information about schools (GIAS) data
 date: 2023-05-18
 tags:
   - locations
@@ -41,9 +41,9 @@ screenshots:
       src: study-sites--cannot-remove.png
 ---
 
-On Find postgraduate teacher training (Find), we show all the schools where trainees could be placed during their training for each course. We need to show where they do their theoretical studies.
+On a course page on Find postgraduate teacher training (Find), we show a list of schools where candidates could be placed to do their classroom training. During recent rounds of research, we found that there was a need for candidates to know where they will do the theoretical part of their training, too.
 
-During recent rounds of research, we found that:
+We found that:
 
 -  it was important for candidates to know where they will do the theoretical part of their studies to make a more informed choice about what course to apply for
 - providers have more than one ‘Study site’ per course
@@ -52,7 +52,7 @@ During recent rounds of research, we found that:
 
 We have added a section in Publish teacher training courses (Publish) called ‘Study sites’.
 
-This section allows providers to list all the places trainees may attend for theoretical training, such as a university campus.
+This section allows providers to list all the places trainees may need to attend for theoretical training, such as a university campus.
 
 ## How it works
 
@@ -65,7 +65,7 @@ On the study site list page, we show a:
 
 If the provider does not have any study sites, we do not show an empty list; we show the message:
 
->A study site is where trainees do their theoretical training, such as a university campus. Add study sites for your organisation and then link one or more of them to a course from the ‘Basic details’ tab on the course page.
+>A study site, such as a university campus, is where trainees do theoretical training. Add study sites for your organisation and then link one or more to a course from the ‘Basic details’ tab on the course page.
 >
 >Candidates will see a list of the selected study sites in the ‘Training locations’ section on the course page on Find.
 >
@@ -95,7 +95,7 @@ If the user cannot find the study site in the list, they can skip the form and e
 
 #### Review details about the study site
 
-Selecting a location name from the autocomplete and clicking continue takes the user to an edit form where they can review:
+Selecting a location name from the autocomplete and continuing takes the user to an edit form where they can review:
 
 - study site name
 - unique reference number (URN)
@@ -131,6 +131,34 @@ When a user selects the remove link below the study site’s details, they’re 
 If the study site has not been attached to a course in Publish, the user can remove them.
 
 If the study site is attached to a course, the user cannot remove them. They must detach the study site from all courses before removing them. We show a page explaining why the user cannot remove the study site.
+
+### Data validation rules
+
+#### Study site name
+
+‘Study site name’ is required. If the user does not enter a name, we show the error message:
+
+> Enter a study site name
+
+#### Address
+
+Address line 1, town or city, and postcode are required address fields.
+
+If the user does not enter an address line 1, we show the error message:
+
+> Enter address line 1
+
+If the user does not enter a town or city, we show the error message:
+
+> Enter a town or city
+
+If the user does not enter a postcode, we show the error message:
+
+> Enter a postcode
+
+If the user does not enter a valid postcode format, we show the error message:
+
+> Enter a real postcode
 
 ## Further considerations
 
