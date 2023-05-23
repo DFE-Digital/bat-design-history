@@ -25,10 +25,14 @@ screenshots:
       src: edit-course--study-sites-error.png
     - text: Edit course study sites - success
       src: edit-course--study-sites-success.png
+    - text: Course details
+      src: course-details.png
     - text: Adding a study site when the provider doesn’t have any
       src: course-details--add-study-site.png
     - text: Selecting a study site when the course doesn’t have any
       src: course-details--select-study-site.png
+    - text: Course details study sites not entered
+      src: course-details--study-sites-not-entered.png
     - text: Course preview
       src: course-preview--study-sites.png
 ---
