@@ -33,6 +33,8 @@ We updated the form to:
 * make it clear that the email address, phone number and postal address we collect is used in the ‘Contact details’ section on Find postgraduate teacher training (Find)
 * only ask for the unique reference number (URN) if they are not an accredited provider
 
+We include a short link to the form from the email (redeacted from the email below for the purposes of this design history).
+
 ### Email to accompany the form
 
 When an organisation wants to onboard to Publish, the Support team will send them an email containing a link to the form. We updated this to make it more concise and include mention of onboarding to Manage.
@@ -49,7 +51,7 @@ Manage teacher training applications allows you to view, manage and make decisio
 
 # Adding your organisation
 
-We need some details from you to add your organisation to Publish and Manage. Please complete the following form: https://forms.office.com/e/ZUpgJKt0Qr
+We need some details from you to add your organisation to Publish and Manage. Please complete the following form: [link to form].
 
 Once we’ve added your organisation, you’ll receive an email to let you know.
 
