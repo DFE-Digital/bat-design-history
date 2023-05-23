@@ -24,7 +24,7 @@ The Support team were using two forms; one for lead schools and one for accredit
 
 We realised that we no longer needed the lead school form, and we could combine the two forms in to one. We also discovered that the Support team onboard the provider to Manage teacher training courses (Manage) at the same time.
 
-### ‘Add an organisation to Publish and Manage’ form
+### ‘Add an organisation to Publish and Manage’ Microsoft form
 
 We updated the form to:
 
@@ -32,8 +32,6 @@ We updated the form to:
 * remove any unnecessary questions that were not required for onboarding, such as ‘What is your job role?’
 * make it clear that the email address, phone number and postal address we collect is used in the ‘Contact details’ section on Find postgraduate teacher training (Find)
 * only ask for the unique reference number (URN) if they are not an accredited provider
-
-We use a short link to the form: https://forms.office.com/e/ZUpgJKt0Qr
 
 ### Email to accompany the form
 
