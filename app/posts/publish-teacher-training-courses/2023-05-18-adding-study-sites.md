@@ -63,7 +63,14 @@ On the study site list page, we show a:
 - button to ‘Add study site’
 - list of study sites the provider has added
 
-If the provider does not have any study sites, we do not show an empty list; we show the message:
+The list of study sites includes the:
+
+- Study site name
+- unique reference number (URN)
+
+If the user has not entered a URN for a study site, we show ‘Not entered’ in the URN column.
+
+If the provider does not have any study sites, we do not show an empty list. Instead, we show the message:
 
 >A study site, such as a university campus, is where trainees do theoretical training. Add study sites for your organisation and then link one or more to a course from the ‘Basic details’ tab on the course page.
 >
@@ -77,11 +84,11 @@ If the provider does not have any study sites, we do not show an empty list; we 
 
 Adding a study site has 3 steps:
 
-1. Find a study site by name, UKPRN or postcode
+1. Find a study site by name, URN or postcode
 2. Review details about the study site
 3. Check your answers
 
-#### Find a study site by name, UKPRN or postcode
+#### Find a study site by name, URN or postcode
 
 Selecting ‘Add study site’ on the study sites list page takes the user to a form where they can search for a school, university or college. They do this by entering the study site name, unique reference number (URN) or postcode.
 
@@ -190,3 +197,4 @@ We could reduce the need for training providers to add study sites if we show th
 Until we know how providers will use the study site section, we will not show study sites from accredited providers in a training provider’s account.
 
 *[GIAS]: Get information about schools
+*[URN]: Unique reference number
