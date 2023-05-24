@@ -65,7 +65,7 @@ On the study site list page, we show a:
 
 The list of study sites includes the:
 
-- Study site name
+- study site name
 - unique reference number (URN)
 
 If the user has not entered a URN for a study site, we show ‘Not entered’ in the URN column.
@@ -76,7 +76,7 @@ If the provider does not have any study sites, we do not show an empty list. Ins
 >
 >Candidates will see a list of the selected study sites in the ‘Training locations’ section on the course page on Find.
 >
->Find out more about adding training locations to a course.
+>[Find out more about adding training locations to a course](https://www.example.com/).
 
 ### Adding a study site
 
