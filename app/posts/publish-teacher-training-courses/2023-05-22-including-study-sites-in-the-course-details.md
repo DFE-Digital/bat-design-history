@@ -41,7 +41,7 @@ When users add a course in Publish teacher training courses (Publish), they see 
 
 We recently gave users the ability to [add ‘Study sites’](/publish-teacher-training-courses/adding-study-sites) in Publish teacher training courses (Publish).
 
-Study sites work like placement schools in that the user can select all study sites available for a course. Therefore, we updated the ‘Add course’ and the edit course flows to include ‘Study sites’.
+Study sites work like placement schools in that users can select all study sites available for a course. Therefore, we updated the ‘Add course’, and the edit course flows to include ‘Study sites’.
 
 ## What we changed
 
