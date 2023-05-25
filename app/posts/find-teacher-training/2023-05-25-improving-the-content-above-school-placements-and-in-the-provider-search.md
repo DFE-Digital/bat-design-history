@@ -1,25 +1,14 @@
 ---
-
 title: Improving the content above school placements and in the provider search
-
 description: We changed the content above the list of school placements and in the provider search to make it more accurate
-
 date: 2023-05-25
-
 tags:
-
   - locations
-
   - school placements
-
 related:
-
   items:
-
     - text: Removing school placement vacancies
-
     - href: /find-teacher-training/removing-school-placement-vacancies/
-
 ---
 
 There were several content inaccuracies in Find postgraduate teacher training (Find). This meant we needed to update:
@@ -37,7 +26,7 @@ While some providers might take candidates’ choices into consideration, we kno
 
 We changed the wording above the school placements list to remove mention of candidates being able to select a preferred placement when they apply.
 
-[screengrab]
+![School placements](school-placements.png)
 
 ### Provider search
 
@@ -45,7 +34,7 @@ If a candidate searches for a school placement in the ‘By school, university o
 
 To avoid any confusion, we removed the word ‘school’ from the radio option label. We also removed the hint text and updated the text input label to avoid repetition.
 
-[screengrab]
+![Provider search](provider-search.png)
 
 ## Further considerations
 
