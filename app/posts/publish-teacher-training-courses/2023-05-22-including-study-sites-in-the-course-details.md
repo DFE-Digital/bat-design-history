@@ -1,6 +1,6 @@
 ---
 title: Including ‘Study sites’ in the course details
-description: We updated the ‘Add course’, and the edit course flows to include ‘Study sites’
+description: We updated the ‘Add course’ and the edit course flows to include ‘Study sites’
 date: 2023-05-22
 tags:
   - locations
@@ -41,7 +41,7 @@ When users add a course in Publish teacher training courses (Publish), they see 
 
 We recently gave users the ability to [add ‘Study sites’](/publish-teacher-training-courses/adding-study-sites) in Publish teacher training courses (Publish).
 
-Study sites work like placement schools in that users can select all study sites available for a course. Therefore, we updated the ‘Add course’, and the edit course flows to include ‘Study sites’.
+Study sites work like placement schools in that users can select all study sites available for a course. Therefore, we updated the ‘Add course’ and the edit course flows to include ‘Study sites’.
 
 ## What we changed
 
@@ -121,7 +121,7 @@ The user cannot edit the course details if the course is in the ‘withdrawn’ 
 
 ### Course preview
 
-We have renamed the ‘School placements’ section in the course preview to ‘Training locations’.
+We have renamed the course preview's ‘School placements’ section to ‘Training locations’.
 
 The section includes:
 
@@ -131,6 +131,12 @@ The section includes:
 - a list of school placements
 
 We only show study sites in the course preview if they have been added.
+
+### Publishing a course without a study site
+
+If a user tries to publish a course without a study site, we show an error message:
+
+> Select at least one study site
 
 ## Further considerations
 
