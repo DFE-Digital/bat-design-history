@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "private": true,
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "description": "A history of the designs for the Find, Apply, Publish, Manage, Register and Support services",
   "keywords": [
