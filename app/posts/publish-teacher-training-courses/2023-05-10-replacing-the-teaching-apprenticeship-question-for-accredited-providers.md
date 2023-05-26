@@ -10,6 +10,8 @@ related:
   items:
     - text: Exploring how we show funding information on courses
       href: /find-teacher-training/exploring-how-we-show-funding-information-on-courses/
+    - text: Initial teacher training (ITT) - criteria and supporting advice
+      href: https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice
 screenshots:
   items:
     - text: Add course funding type
@@ -26,7 +28,9 @@ screenshots:
       src: edit-course--funding-type-success.png
 ---
 
-One of the priorities for the initial teacher training (ITT) reforms is to make ITT less complex for providers, candidates and trainees.
+One of the priorities for the reforms to the [initial teacher training (ITT) criteria](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice) is to make ITT less complex for providers, candidates and trainees.
+
+As part of the reforms, all providers can now offer salaried courses.
 
 ## What we changed
 
@@ -40,12 +44,12 @@ If the provider is a school, we show a ‘Funding type’ question with 3 option
 
 If the provider is a higher education institution (HEI) or school-centred initial teacher training (SCITT), we display the question, ‘Is this a teaching apprenticeship?’. This question has 2 options:
 
-- yes
-- no
+- Yes
+- No
 
-Selecting ‘yes’ is the equivalent of selecting the funding type ‘Teaching apprenticeship - with salary’.
+Selecting ‘Yes’ is the equivalent of selecting the funding type, ‘Teaching apprenticeship - with salary’.
 
-Selecting ‘no’ is the equivalent of selecting the funding type ‘Fee paying - no salary’.
+Selecting ‘No’ is the equivalent of selecting the funding type ‘Fee paying - no salary’.
 
 We replaced the ‘Teaching apprenticeship’ question with ‘Funding type’ for all provider types, simplifying the ‘Add course’ and the edit course flows.
 
