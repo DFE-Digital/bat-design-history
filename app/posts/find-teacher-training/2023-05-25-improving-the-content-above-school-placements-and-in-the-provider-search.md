@@ -24,7 +24,9 @@ In Apply for teacher training courses (Apply) candidates were able to choose a s
 
 While some providers might take candidates’ choices into consideration, we know from research that other factors, such as vacancies and suitability, influence where a candidate might be placed.
 
-We changed the wording above the school placements list to remove mention of candidates being able to select a preferred placement when they apply.
+We changed the wording above the school placements list to remove mention of candidates being able to select a preferred placement when they apply. We changed the content to:
+
+> We work with the following schools to provide your school placements.
 
 ![School placements](school-placements.png)
 
