@@ -36,7 +36,7 @@ If a candidate searches for a school placement in the ‘By school, university o
 
 To avoid any confusion, we changed the radio option label to:
 
-> Search by university or other provider
+> By university or other training provider
 
 We also removed the hint text and updated the text input label to avoid repetition.
 
