@@ -32,7 +32,11 @@ We changed the wording above the school placements list to remove mention of can
 
 If a candidate searches for a school placement in the ‘By school, university or other provider’ field, they may not return any results. This is because school placements are not included in the search – the search includes providers only.
 
-To avoid any confusion, we removed the word ‘school’ from the radio option label. We also removed the hint text and updated the text input label to avoid repetition.
+To avoid any confusion, we changed the radio option label to:
+
+> Search by university or other provider
+
+We also removed the hint text and updated the text input label to avoid repetition.
 
 ![Provider search](provider-search.png)
 
