@@ -1,14 +1,18 @@
 ---
-title: Adding ‘Study sites’
-description: We added a way for providers to add ‘Study sites’ to their account using Get information about schools (GIAS) data
-date: 2023-05-18
+title: Managing 'Study sites' on behalf of providers
+description: We added a way for support users to add ‘Study sites’ to providers using Get information about schools (GIAS) data
+date: 2023-05-26
 tags:
   - locations
   - study sites
 related:
   items:
-    - text: Improving how providers add schools
-      href: /publish-teacher-training-courses/improving-how-providers-add-schools/
+    - text: Adding ‘Study sites’
+      href: /publish-teacher-training-courses/adding-study-sites/
+    - text: Adding a study site when JavaScript is unavailable
+      href: /publish-teacher-training-courses/adding-a-study-site-when-javascript-is-unavailable/
+    - text: Including ‘Study sites’ in the course details
+      href: /publish-teacher-training-courses/including-study-sites-in-the-course-details/
 screenshots:
   items:
     - text: Study sites list
@@ -41,18 +45,13 @@ screenshots:
       src: study-sites--cannot-remove.png
 ---
 
-On a course page on Find postgraduate teacher training (Find), we show a list of schools where candidates could be placed to do their classroom training. During recent rounds of research, we found that there was a need for candidates to know where they will do the theoretical part of their training, too.
+In previous work, we added a way for Publish teacher training (Publish) users to [add ‘Study sites’ to their organisation](/publish-teacher-training-courses/adding-study-sites/).
 
-We found that:
-
--  it was important for candidates to know where they will do the theoretical part of their studies to make a more informed choice about what course to apply for
-- providers have more than one ‘Study site’ per course
+There are occasions when it is quicker and more convenient for support users to view and make changes to study sites on behalf of the provider.
 
 ## What we changed
 
-We have added a section in Publish teacher training courses (Publish) called ‘Study sites’.
-
-This section allows providers to list all the places trainees may need to attend for theoretical training, such as a university campus.
+We added a way for support users to manage ‘Study sites’ on behalf of training providers.
 
 ## How it works
 
@@ -69,14 +68,6 @@ The list of study sites includes the:
 - unique reference number (URN)
 
 If the user has not entered a URN for a study site, we show ‘Not entered’ in the URN column.
-
-If the provider does not have any study sites, we do not show an empty list. Instead, we show the message:
-
->A study site, such as a university campus, is where trainees do theoretical training. Add study sites for your organisation and then link one or more to a course from the ‘Basic details’ tab on the course page.
->
->Candidates will see a list of the selected study sites in the ‘Training locations’ section on the course page on Find.
->
->[Find out more about adding training locations to a course](https://www.example.com/).
 
 ### Adding a study site
 
@@ -166,35 +157,3 @@ If the user does not enter a postcode, we show the error message:
 If the user does not enter a valid postcode format, we show the error message:
 
 > Enter a real postcode
-
-## Further considerations
-
-We considered some changes that we did not implement. These included:
-
-- combining the ‘Schools’ and ‘Study sites’ sections
-- collecting other types of location
-- showing accredited provider study sites in training partner accounts
-
-### Combining the ‘Schools’ and ‘Study sites’ sections
-
-Previously, we changed ‘Locations’ to ‘Schools’. With the introduction of study sites, we now have a second section with similar data and interactions.
-
-We could combine the two sections called ‘Training locations’ and include a question to collect location type.
-
-### Collecting other types of location
-
-Some providers offer online training as part of a trainee's theoretical studies. We have not included this in the current iteration as we need to:
-
-- understand the different online or remote training offered by providers
-- explore what information candidates need
-
-### Showing accredited provider study sites in training partner accounts
-
-The study sites for training providers will often include the accredited provider location.
-
-We could reduce the need for training providers to add study sites if we show the study sites of their accredited providers.
-
-Until we know how providers will use the study site section, we will not show study sites from accredited providers in a training provider’s account.
-
-*[GIAS]: Get information about schools
-*[URN]: Unique reference number
