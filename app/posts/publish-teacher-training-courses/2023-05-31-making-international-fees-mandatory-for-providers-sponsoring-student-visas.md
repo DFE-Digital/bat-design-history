@@ -22,17 +22,21 @@ screenshots:
       src: course-fees--error.png
 ---
 
-We’ve made the international fee mandatory for courses in Publish postgraduate teacher training (Publish), where the provider has said they can sponsor Student visas.
+We’ve made the international fee mandatory for courses in Publish postgraduate teacher training (Publish), where the provider has said they can sponsor Student visas. If the provider can sponsor Student visas they should have access to international fee information.
+
+Candidates looking for courses that can sponsor Student visas on Find postgraduate teacher training (Find) would benefit from being able to see the international fee to help them make an informed choice.
 
 ## Data analysis
 
-88% (10,219) of all courses published on Find postgraduate teacher training (Find) are fee paying.
+88% (10,219) of all courses published on Find are fee paying.
 
 28% (2,814) of all fee paying courses published on Find, the provider has said they can sponsor Student visas.
 
 30% (3,052) of all fee paying courses published on Find, the provider has added international fee details.
 
-48% (1,363) of all fee paying courses published on Find, where the provider has said they can sponsor Student visas, the provider has added international fee details. For the remaining 52% (1,451), we need to encourage the provider to add international fee details.
+48% (1,363) of all fee paying courses published on Find, where the provider has said they can sponsor Student visas, the provider has added international fee details.
+
+For the remaining 52% (1,451), we need to encourage the provider to add international fee details.
 
 ## What we changed
 
@@ -42,7 +46,7 @@ We have made the ‘Fee for international students’ question mandatory on Publ
 
 ### Editing course fees
 
-Currently, the ‘Fee for international students’ question is optional for providers to enter.
+Currently, the ‘Fee for international students’ question is optional - providers do not need to enter this information to be able to publish the course.
 
 We have made the question required if the provider has indicated that the course is fee paying and they can sponsor Student visas.
 
@@ -58,7 +62,7 @@ If a user tries to publish a course without international fees, we show an error
 
 ## Further considerations
 
-We considered making the fee for international students mandatory for all providers, regardless of whether they could sponsor a Student visa as they could still accept trainees who might not need a visa to be sponsored. For example, they may have the right to study through a family or graduate visa but still need to qualify for the home fee status.
+We considered making the fee for international students mandatory for all providers, regardless of whether they could sponsor a Student visa, as they could still accept trainees who might not need a visa to be sponsored. For example, they may have the right to study through a family or graduate visa but still need to qualify for the home fee status.
 
 We decided not to do this as it may prevent many providers from publishing courses in the next recruitment cycle.
 
