@@ -7,8 +7,8 @@ tags:
   - study sites
 related:
   items:
-    - text: Adding ‘Study sites’
-      href: /support-for-publish/adding-study-sites/
+    - text: Managing 'Study sites' on behalf of providers
+      href: /support-for-publish/managing-study-sites-on-behalf-of-providers/
 screenshots:
   items:
     - text: Finding a study site - without autocomplete
