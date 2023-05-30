@@ -39,6 +39,9 @@ screenshots:
       src: study-sites--removed.png
     - text: Study site cannot be removed
       src: study-sites--cannot-remove.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-adding-study-sites
 ---
 
 On a course page on Find postgraduate teacher training (Find), we show a list of schools where candidates could be placed to do their classroom training. During recent rounds of research, we found that there was a need for candidates to know where they will do the theoretical part of their training, too.
