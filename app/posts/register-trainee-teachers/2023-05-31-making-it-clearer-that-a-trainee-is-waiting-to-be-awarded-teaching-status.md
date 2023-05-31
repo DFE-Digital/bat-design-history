@@ -12,7 +12,7 @@ We show a summary card with EYTS details or QTS details on the trainee record as
 
 Until the award is made, we currently leave the award date field blank. We consider this to be a bug, since it could be confusing for users who have just recommended a trainee.
 
-# How it works
+## How it works
 
 We’ve added content which will appear in the award date field until the award has been made.
 
