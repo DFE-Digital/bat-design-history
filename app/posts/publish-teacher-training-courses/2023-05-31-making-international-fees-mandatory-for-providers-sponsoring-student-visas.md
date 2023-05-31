@@ -16,12 +16,14 @@ related:
       href: https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers
 screenshots:
   items:
-    - text: Course fees - required
-      src: course-fees--required.png
-    - text: Course fees - optional
+    - text: Course fees - optional international fees
       src: course-fees--optional.png
-    - text: Course fees - required with error
-      src: course-fees--required-error.png
+    - text: Course fees - optional international fees - no error on submission
+      src: course-fees--optional-no-error.png
+    - text: Course fees - international fees required
+      src: course-fees--required.png
+    - text: Course fees - international fees required - error on submission
+      src: course-fees--required-has-error.png
 ---
 
 We’ve made the international fee mandatory for courses in Publish postgraduate teacher training (Publish), where the provider has said they can sponsor Student visas. If the provider can sponsor Student visas they should have access to international fee information.
