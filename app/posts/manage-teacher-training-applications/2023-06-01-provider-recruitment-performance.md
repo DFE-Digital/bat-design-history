@@ -5,11 +5,11 @@ date: 2023-06-01
 tags:
   - reports
 ogImage:
-  src: /manage-teacher-training-applications/provider-recruitment-performance/mid-cycle-cover-image.png
+  src: /manage-teacher-training-applications/provider-recruitment-performance/mid-cycle-cover.png
   alt: "Illustration with the heading '2022 to 2023 recruitment cycle performance' followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change."
 ---
 
-![Illustration with the heading '2022 to 2023 recruitment cycle performance' followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change.](mid-cycle-cover-image.png)
+![Illustration with the heading '2022 to 2023 recruitment cycle performance' followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change.](mid-cycle-cover.png)
 
 We released 2 reports to show training providers how their recruitment performance was going halfway through the recruitment cycle (from 11 October 2022 to 3 April 2023).
 
