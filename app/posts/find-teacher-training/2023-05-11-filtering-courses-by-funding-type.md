@@ -18,7 +18,7 @@ related:
 
 We currently have a ‘Salary’ filter that allows candidates to tick a box to ‘Only show courses with a salary’. The policy team identified the need for candidates to see which salaried courses are ‘Teaching apprenticeships’.
 
-We wanted to explore the idea of allowing candidates to filter more specifically by fee paying courses, salaried courses and salaried teaching apprenticeship courses.
+We are exploring the idea of allowing candidates to filter more specifically by fee paying courses, salaried courses and salaried teaching apprenticeship courses.
 
 ## What we changed
 
