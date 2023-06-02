@@ -10,6 +10,8 @@ related:
   items:
     - text: Replacing the ‘Teaching apprenticeship’ question for accredited providers
       href: /publish-teacher-training-courses/replacing-the-teaching-apprenticeship-question-for-accredited-providers/
+    - text: Filtering courses by funding type
+      href: /find-teacher-training/filtering-courses-by-funding-type/
 ---
 
 One of the priorities for the initial teacher training (ITT) reforms is to make ITT less complex for providers, candidates and trainees.
