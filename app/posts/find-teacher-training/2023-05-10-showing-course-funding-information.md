@@ -32,7 +32,7 @@ If the course is funded through fees, we show additional information:
 
 - Bursaries and student finance are available if you’re eligible
 - Scholarships or bursaries, as well as student finance, are available if you’re eligible
-- Student finance if you’re eligible
+- Student finance is available if you’re eligible
 
 ### Courses list page
 
