@@ -1,6 +1,6 @@
 ---
 title: Filtering courses by funding type
-description: Exploring how we might filter courses by funding type
+description: Exploring how we might filter courses more specifically by fee paying courses, salaried courses and salaried teaching apprenticeship courses
 date: 2023-05-11
 tags:
   - funding
@@ -12,11 +12,14 @@ related:
       href: /find-teacher-training/showing-course-funding-information/
     - text: Replacing the ‘Teaching apprenticeship’ question for accredited providers
       href: /publish-teacher-training-courses/replacing-the-teaching-apprenticeship-question-for-accredited-providers/
+    - text: Guidance on postgraduate teaching apprenticeships
+      href: https://www.gov.uk/government/publications/postgraduate-teaching-apprenticeships-funding-manual
 ---
 
 We currently have a ‘Salary’ filter that allows candidates to tick a box to ‘Only show courses with a salary’. The policy team identified the need for candidates to see which salaried courses are ‘Teaching apprenticeships’.
 
 We wanted to explore the idea of allowing candidates to filter more specifically by fee paying courses, salaried courses and salaried teaching apprenticeship courses.
+
 ## What we changed
 
 We have replaced the ‘Salary’ filter with a ‘Fee or salary’ filter containing all 3 funding options.
