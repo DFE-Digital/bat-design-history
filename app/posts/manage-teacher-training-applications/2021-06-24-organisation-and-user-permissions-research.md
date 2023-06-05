@@ -7,9 +7,9 @@ related:
   - text: Research findings slides
     href: https://docs.google.com/presentation/d/1-NNXVPR68PbK84pU8yMmFpOZcRyJDPYdpdw3WNuYMxU/edit#slide=id.p3
   - text: Design history entry about displaying permissions in the user list
-    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/displaying-permissions-in-the-user-list/
+    href: /manage-teacher-training-applications/displaying-permissions-in-the-user-list/
   - text: Design history entry about moving organisation permissions guidance
-    href: https://bat-design-history.netlify.app/manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/
+    href: /manage-teacher-training-applications/moving-organisational-permissions-guidance-above-the-form/
 screenshots:
   items:
     - text: Set up organisation permissions - start page

@@ -11,7 +11,7 @@ We’ve been looking at ways to help higher education institutions (HEIs) to:
 - set themselves up to use Manage
 - invite their school direct partners (SDs) to set themselves up
 
-We started by designing a [small online service that allowed HEIs to set themselves up and invite SDs](https://bat-design-history.netlify.app/manage-teacher-training-applications/self-service-registration/).
+We started by designing a [small online service that allowed HEIs to set themselves up and invite SDs](/manage-teacher-training-applications/self-service-registration/).
 
 After testing that design we decided to explore a simpler approach, focusing on gathering contact details for SDs from HEIs.
 

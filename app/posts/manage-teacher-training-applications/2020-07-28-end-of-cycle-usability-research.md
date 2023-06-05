@@ -17,18 +17,18 @@ We know that there are specific activities providers undertake when a recruitmen
 * planning a new cycle
 * data and reporting to DfE
 
-See the [previous entry for this research](https://bat-design-history.netlify.app/manage-teacher-training-applications/end-of-cycle-exploratory-research/).
+See the [previous entry for this research](/manage-teacher-training-applications/end-of-cycle-exploratory-research/).
 
 ## Context
 
 This round of research focused on the usability of designs around:
 
-* [switching cycles](https://bat-design-history.netlify.app/manage-teacher-training-applications/switching-between-cycles/)
-* [retrospectively marking conditions as met for applications from the previous cycle](https://bat-design-history.netlify.app/manage-teacher-training-applications/reconfirming-a-deferred-application/)
-* [deferring an application](https://bat-design-history.netlify.app/manage-teacher-training-applications/deferring-applications-to-the-next-cycle/)
-* [confirming deferrals](https://bat-design-history.netlify.app/manage-teacher-training-applications/reconfirming-a-deferred-application/)
+* [switching cycles](/manage-teacher-training-applications/switching-between-cycles/)
+* [retrospectively marking conditions as met for applications from the previous cycle](/manage-teacher-training-applications/reconfirming-a-deferred-application/)
+* [deferring an application](/manage-teacher-training-applications/deferring-applications-to-the-next-cycle/)
+* [confirming deferrals](/manage-teacher-training-applications/reconfirming-a-deferred-application/)
 
-We also looked at the new [application list task design and the activity log](https://bat-design-history.netlify.app/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/)
+We also looked at the new [application list task design and the activity log](/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/)
 
 ## Approach
 

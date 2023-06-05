@@ -16,7 +16,7 @@ We recently gave users a way to [change and delete notes](/manage-teacher-traini
 
 We moved the name of the creator to above the note so that it’s immediately visible even if the note is long.
 
-We added ‘(you)’ next to the name of the note’s creator if it was created by the signed in user. This is to match how we indicate [applications which are assigned to the signed in user](https://bat-design-history.netlify.app/manage-teacher-training-applications/assigning-applications-to-users/).
+We added ‘(you)’ next to the name of the note’s creator if it was created by the signed in user. This is to match how we indicate [applications which are assigned to the signed in user](/manage-teacher-training-applications/assigning-applications-to-users/).
 
 We moved the date the note was created next to the name of the creator so that related information is grouped.
 

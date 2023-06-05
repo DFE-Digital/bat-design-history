@@ -10,7 +10,7 @@ related:
 
 So far, our prototype has been designed to work the simple case - users who work for a single provider. We’re now extending that to look at how it could work for different organisational setups.
 
-In the current DTTP service, trainees are added by accredited providers. The majority of our users work for a single accredited provider, but often a provider represents a partnership of multiple schools, and so about [20% of current DTTP users](https://bat-design-history.netlify.app/publish-teacher-training-courses/users-with-multiple-organisation-access/) are responsible for inputting ITT data across multiple schools.
+In the current DTTP service, trainees are added by accredited providers. The majority of our users work for a single accredited provider, but often a provider represents a partnership of multiple schools, and so about [20% of current DTTP users](/publish-teacher-training-courses/users-with-multiple-organisation-access/) are responsible for inputting ITT data across multiple schools.
 
 Our first step towards supporting multiple providers was looking at how DTTP, Manage and Publish handle them.
 

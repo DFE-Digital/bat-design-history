@@ -27,8 +27,8 @@ We wanted to make it easy for providers to reuse courses from the 2021 to 2022 r
 We did this by:
 
 - duplicating courses from the 2021 to 2022 recruitment cycle to the 2022 to 2023 recruitment cycle
-- giving users the ability to [switch between recruitment cycles]( https://bat-design-history.netlify.app/publish-teacher-training-courses/switching-between-recruitment-cycles-during-rollover/)
-- allowing users to [manually rollover courses not previously published]( https://bat-design-history.netlify.app/publish-teacher-training-courses/allowing-users-to-manually-rollover-courses-not-previously-published/)
+- giving users the ability to [switch between recruitment cycles](/publish-teacher-training-courses/switching-between-recruitment-cycles-during-rollover/)
+- allowing users to [manually rollover courses not previously published](/publish-teacher-training-courses/allowing-users-to-manually-rollover-courses-not-previously-published/)
 - sending a series of emails to providers about the rollover process
 
 ## Timeline

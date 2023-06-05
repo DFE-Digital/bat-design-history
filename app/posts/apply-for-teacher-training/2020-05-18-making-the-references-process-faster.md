@@ -79,7 +79,7 @@ Because users will:
 * [have options](/apply-for-teacher-training/making-the-references-process-faster/#giving-options)
 * [know it's urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
 
-### Examples of how the messaging works on the [interstitial page](https://bat-design-history.netlify.app/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
+### Examples of how the messaging works on the [interstitial page](/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
 
 #### 'Response overdue'
 
@@ -119,7 +119,7 @@ Because users will:
 
 ### Examples of how the messaging works with the reference status tags
 
-[Reference status tags](https://bat-design-history.netlify.app/apply-for-teacher-training/improving-the-references-user-journey/#what-this-looks-like) are not necessarily the best places for instructions: if a candidate cancels a reference and adds a new one, the cancelled tag will still show - meaning an instruction to 'add a new referee' would be out of date.
+[Reference status tags](/apply-for-teacher-training/improving-the-references-user-journey/#what-this-looks-like) are not necessarily the best places for instructions: if a candidate cancels a reference and adds a new one, the cancelled tag will still show - meaning an instruction to 'add a new referee' would be out of date.
 
 To avoid complexity and outdated content, we give instructions on the states which are likely to get updated:
 

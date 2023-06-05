@@ -7,7 +7,7 @@ tags:
 ---
 UCAS provided email notifications to it's users. This functionality is yet be introduced to Publish teacher training courses (Publish). To address this, we established an introductory set of notifications to satisfy our user’s critical needs.
 
-We learned through the [accredited bodies research](https://bat-design-history.netlify.com/publish-teacher-training-courses/accredited-bodies-research-round-2#a-need-for-notifications) that there was a need for notifications to be sent to accredited bodies about changes made in Publish.
+We learned through the [accredited bodies research](/publish-teacher-training-courses/accredited-bodies-research-round-2#a-need-for-notifications) that there was a need for notifications to be sent to accredited bodies about changes made in Publish.
 
 ## User needs
 

@@ -266,7 +266,7 @@ https://github.com/DFE-Digital/teacher-training-api/pull/1589
 
 ### Course fees
 
-We [uncoupled EU from UK course fees](https://bat-design-history.netlify.app/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/).
+We [uncoupled EU from UK course fees](/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/).
 
 https://github.com/DFE-Digital/publish-teacher-training/pull/1374
 https://github.com/DFE-Digital/find-teacher-training/pull/458

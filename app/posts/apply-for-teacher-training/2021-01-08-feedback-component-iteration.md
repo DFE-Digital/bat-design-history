@@ -15,7 +15,7 @@ screenshots:
 related:
   items:
     - text: Prompting for feedback throughout the application journey
-      href: https://bat-design-history.netlify.app/apply-for-teacher-training/feedback-component/
+      href: /apply-for-teacher-training/feedback-component/
       description: Previous post outlining initial design
 ---
 

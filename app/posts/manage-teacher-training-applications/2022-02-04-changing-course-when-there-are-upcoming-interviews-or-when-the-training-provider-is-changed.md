@@ -16,7 +16,7 @@ tags:
   - interviews
 ---
 
-We recently designed a new flow to [let providers change the course before making an offer](https://bat-design-history.netlify.app/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/).
+We recently designed a new flow to [let providers change the course before making an offer](/manage-teacher-training-applications/letting-providers-change-course-before-making-an-offer/).
 
 We did not consider what happens if:
 
