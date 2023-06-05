@@ -93,7 +93,7 @@ We now have a better understanding of candidate’s mental models when it comes 
 
 We learnt that candidates:
 
-* found the guidance on the application process useful so we’re looking to publish this soon
+* found the guidance on the application process useful
 * preferred the option for applications to become ‘inactive’ allowing them to apply to another course
 * did not expect applications to be open all year and expected a deadline and all applications to be assessed equally
 * would not feel comfortable withdrawing an application unless they had received feedback on it from a training provider
