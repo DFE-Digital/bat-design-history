@@ -56,4 +56,4 @@ On the first day we released this report, we received 108 unique page views from
 
 In the Permanent Secretary’s letter, she mentioned that training providers could contact us if they were interested in accessing a ‘pool’ of eligible candidates to recruit from.
 
- On the first day we released these reports, we received 12 responses from training providers asking about this. We’re now working as a team to think about a solution to this and how we can easily help providers to recruit suitable candidates.
+On the first day we released these reports, we received 12 responses from training providers asking about this. We’re now working as a team to think about a solution to this and how we can easily help providers to recruit suitable candidates.
