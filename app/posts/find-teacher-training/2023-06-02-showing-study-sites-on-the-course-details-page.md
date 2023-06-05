@@ -27,6 +27,7 @@ We have:
 ## How it works
 
 The training locations section includes:
+
 - advice from Get Into Teaching - if the provider is a higher education institution (HEI) or school centred initial teacher training (SCITT)
 - a description of the training - if the provider has added it
 - an alphabetical list of study sites
