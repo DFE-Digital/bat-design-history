@@ -23,7 +23,7 @@ Last recruitment cycle (October 2021 to September 2022), 65% of candidates who r
 
 So far this recruitment cycle (October 2022 to May 2023), 63% of candidates who received rejections on all their course choices are not applying again.
 
-Candidates have also told us that when they receive a rejection on one course choice, they expect to be able to apply for another course immediately, instead of wait for an outcome on all their course choices.
+Candidates have also told us that when they receive a rejection on one course choice, they expect to be able to apply for another course immediately, instead of waiting for an outcome on all their course choices.
 
 On top of this, candidates also struggle to apply again if they receive poor, or no feedback from providers and this makes them feel like they have less trust in providers.
 
