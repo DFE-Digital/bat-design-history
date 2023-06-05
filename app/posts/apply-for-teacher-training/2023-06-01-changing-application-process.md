@@ -38,7 +38,7 @@ From this research we realised we did not have a good understanding of a candida
 The hypotheses we wanted to test with this work were:
 
 * allowing candidates to continuously apply will reduce friction and increase applications per candidate
-* candidates will add another course quicker if an application is unsuccessful
+* candidates will apply to another course sooner when an application is unsuccessful
 * allowing candidates to continuously apply is more aligned to candidates’ mental models
 * candidates will penalise slow providers by withdrawing an application and applying somewhere else
 * allowing candidates to continuously apply creates a tighter feedback loop between providers and candidates
