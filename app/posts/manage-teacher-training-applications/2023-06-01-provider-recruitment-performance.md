@@ -52,7 +52,7 @@ We added another [report that shows the national figures](https://www.apply-for-
 
 ## What we learnt
 
-On the first day we realsed this report, we received 108 unique page views from providers. Between the 22 May 2023 and 24 May 2023 this number increased to 322 providers. This shows providers are engaging with their own data.
+On the first day we released this report, we received 108 unique page views from providers. Between the 22 May 2023 and 24 May 2023 this number increased to 322 providers. This shows providers are engaging with their own data.
 
 In the Permanent Secretary’s letter, she mentioned that training providers could contact us if they were interested in accessing a ‘pool’ of eligible candidates to recruit from.
 
