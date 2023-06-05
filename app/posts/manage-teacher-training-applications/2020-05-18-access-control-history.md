@@ -341,8 +341,8 @@ Given the decision made, we spun up some prototypes to understand this complex l
 
 #### Design history
 
-- [Iteration 1](https://bat-design-history.netlify.app/manage-teacher-training-applications/setting-up-permissions)
-- [Iteration 2](https://bat-design-history.netlify.app/manage-teacher-training-applications/setting-up-permissions-iteration-2)
+- [Iteration 1](/manage-teacher-training-applications/setting-up-permissions)
+- [Iteration 2](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
 
 #### Our design process
 

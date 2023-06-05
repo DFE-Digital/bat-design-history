@@ -52,7 +52,7 @@ After the deadline to apply for the first time, a new banner replaces the [previ
 
 It aims to discourage candidates applying for the first time from searching for courses because there's no guarantee that the courses shown (those starting in the 2021 to 2022 academic year) will be available the following year.
 
-[Learn what happens on Apply if a candidate starts an application but does not submit by their deadline](https://bat-design-history.netlify.app/apply-for-teacher-training/end-of-cycle-2021/#if-a-candidate-does-not-submit-by-their-deadline).
+[Learn what happens on Apply if a candidate starts an application but does not submit by their deadline](/apply-for-teacher-training/end-of-cycle-2021/#if-a-candidate-does-not-submit-by-their-deadline).
 
 ### If a candidate applying for the first time tries to select a course after the deadline
 

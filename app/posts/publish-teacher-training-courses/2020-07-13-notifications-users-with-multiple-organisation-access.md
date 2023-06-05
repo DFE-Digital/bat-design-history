@@ -156,7 +156,7 @@ In [previous research](/publish-teacher-training-courses/users-with-multiple-org
 
 This update includes:
 
-- simplifying the language used in the page title [(View the original)](https://bat-design-history.netlify.app/publish-teacher-training-courses/accredited-bodies-new-features/#notifications-opt-in)
+- simplifying the language used in the page title [(View the original)](/publish-teacher-training-courses/accredited-bodies-new-features/#notifications-opt-in)
 - updating content to list all available notifications
 - the ability for multi-organisation users to specify which training providers they want to receive notifications about
 
