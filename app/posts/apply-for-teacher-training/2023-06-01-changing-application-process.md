@@ -75,7 +75,7 @@ We also added some guidance explaining the application process. We currently do 
 
 ### Exploring an alternative to rejecting applications automatically
 
- Once a candidate submits an application, the training provider has 40 working days to respond. If they do not, the application is rejected automatically.  
+ Currently, once a candidate submits an application, the training provider has 40 working days to respond. If they do not, the application is rejected automatically.  
 
 As a team we had a workshop to look at alternative ways to help candidates have more autonomy over their applications and help providers to give feedback.
 
