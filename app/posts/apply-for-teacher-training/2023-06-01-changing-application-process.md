@@ -95,7 +95,8 @@ We learnt that candidates:
 
 * found the guidance on the application process useful
 * preferred the option for applications to become ‘inactive’ allowing them to apply to another course
-* did not expect applications to be open all year and expected a deadline and all applications to be assessed equally
+* did not expect applications to be open all year
+* expected a deadline with all applications submitted before the deadline assessed equally
 * would not feel comfortable withdrawing an application unless they had received feedback on it from a training provider
 * would expect to have an outcome on all their applications before deciding which to accept
 
