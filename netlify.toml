@@ -4,6 +4,12 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "https://bat-design-history.netlify.app/*"
+  to = "https://becoming-a-teacher.design-history.education.gov.uk/:splat"
+  status = 301
+  force = true
+
 [build]
   command = "npm run build"
   publish = "public"
