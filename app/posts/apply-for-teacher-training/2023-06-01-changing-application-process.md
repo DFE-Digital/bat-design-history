@@ -103,4 +103,10 @@ We learnt that candidates:
 
 We need to do more research to understand why providers do not give feedback to candidates, as this is a fundamental issue and prevents candidates from applying again.
 
-We’ll also be continuing to improve the designs to give candidates more flexibility when applying. We plan to launch some of the designs we tested this recruitment cycle (like publishing guidance on the application process). We’ll launch the bigger changes next recruitment cycle (like allowing applications to become ‘inactive’).
+## Next steps
+
+We’ll continue to iterate the designs.
+
+We plan to launch some of the designs we tested this recruitment cycle, like publishing guidance on the application process.
+
+We’ll launch the bigger changes next recruitment cycle, like allowing applications to become ‘inactive’.
