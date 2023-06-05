@@ -69,7 +69,7 @@ Once a candidates starts adding their courses, we would display them like we do 
 
 ### Guidance on the application process
 
-We also added some guidance explaining the application process. We do not explain this to candidates anywhere, including on the Get Into Teaching website.
+We also added some guidance explaining the application process. We currently do not explain this in detail to candidates anywhere, including on the Get Into Teaching website.
 
 ![Screenshot showing important dates and deadlines candidates should know when applying for teacher training. For example it states that applications open on 10 October 2022 and close on 17 September 2023.](new-guidance.png)
 
