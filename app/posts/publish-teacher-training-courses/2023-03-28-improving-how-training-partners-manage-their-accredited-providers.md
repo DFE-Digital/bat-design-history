@@ -133,4 +133,4 @@ If the user does not enter details about the accredited provider, we show the er
 
 The details about the accredited provider should be 100 words or fewer. If the user enters a description that is longer than 100 words, we show the error message:
 
-> Description about the accredited provider must be 100 words or fewer
+> Details about the accredited provider must be 100 words or fewer
