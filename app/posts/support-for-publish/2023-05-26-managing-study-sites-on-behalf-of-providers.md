@@ -138,6 +138,16 @@ If the study site is attached to a course, the user cannot remove them. They mus
 
 > Enter a study site name
 
+If the user selects a study site from the autocomplete that has already been added to the organisation, we show the error message:
+
+> [Study site name] has already been added
+
+#### Unique reference number (URN)
+
+URNs are optional. If the user enters a URN, it must be 5 or 6 digits long. If they do not enter a valid URN, we show an error message:
+
+> Enter a valid unique reference number (URN) - it must be 5 or 6 digits long
+
 #### Address
 
 Address line 1, town or city, and postcode are required address fields.

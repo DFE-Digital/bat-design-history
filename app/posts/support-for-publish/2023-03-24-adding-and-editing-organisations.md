@@ -225,7 +225,7 @@ If the user has chosen ‘School’ as a provider type, they must enter a URN fo
 
 > Enter a unique reference number (URN)
 
-The URN must be 5 or 6 digits long.
+The URN must be 5 or 6 digits long. If they do not enter a valid URN, we show an error message:
 
 > Enter a valid unique reference number (URN) - it must be 5 or 6 digits long
 
