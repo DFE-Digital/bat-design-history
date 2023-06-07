@@ -95,7 +95,7 @@ We learnt that candidates:
 
 * found the guidance on the application process useful
 * preferred the option for applications to become ‘inactive’ allowing them to apply to another course
-* understood the term ‘inactive’ and ‘awaiting decision’ but felt they were both ways to cover up that the training provider will not be giving feedback
+* understood the terms ‘inactive’ and ‘awaiting decision’ but felt they were both ways to cover up that the training provider will not be giving feedback
 * did not expect applications to be open all year
 * expected a deadline with all applications submitted before the deadline and then assessed equally
 * would not feel comfortable withdrawing an application unless they had received feedback on it from a training provider
