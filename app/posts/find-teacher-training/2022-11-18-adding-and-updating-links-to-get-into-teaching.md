@@ -2,6 +2,9 @@
 title: Adding and updating links to Get Into Teaching
 description: We added more links to advice pages on the Get Into Teaching website
 date: 2022-11-18
+tags:
+  - advice
+  - Get Into Teaching
 ---
 
 We were missing some opportunities to link to advice pages on Get Into Teaching from Find postgraduate teacher training (Find). To make sure candidates can easily access more information about teacher training, we added and updated links to Get Into Teaching. We also improved the content.
@@ -50,4 +53,3 @@ Candidates may want to be able to find out more general information about gettin
 We are reviewing the Find start page to see how we can improve the content and link to the most relevant pages on Get Into Teaching.
 
 The content in the 'Financial support from the government' section for salaried courses needs to be improved. Currently, we say that no other financial support is available. However, the government may offer financial support depending on the candidates' needs. For example, Disabled Students' Allowance (DSA) is paid in addition to a salary, should the candidate be eligible.
-

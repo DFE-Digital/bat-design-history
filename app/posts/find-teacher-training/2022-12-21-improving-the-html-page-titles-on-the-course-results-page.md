@@ -2,6 +2,8 @@
 title: Improving the HTML page titles on the course results page
 description: We updated the HTML page titles on the course results page to make them more accessible
 date: 2022-12-21
+tags:
+  - accessibility
 related:
   items:
     - text: Updating the service to improve accessibility

@@ -2,6 +2,9 @@
 title: Adding guidance for international candidates if the course is a teaching apprenticeship
 description: We added guidance about residency requirements for international candidates applying for a teaching apprenticeship course
 date: 2022-10-26
+tags:
+  - international candidates
+  - teaching apprenticeships
 screenshots:
   items:
     - text: Course description - international candidates and apprenticeships

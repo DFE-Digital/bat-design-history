@@ -2,6 +2,11 @@
 title: Updating information about bursaries and scholarships
 description: We updated the bursary and scholarship information following the publication of funding information for the academic year 2023 to 2024
 date: 2022-10-11
+tags:
+  - funding
+  - financial support
+  - bursaries
+  - scholarships
 related:
   items:
     - text: Funding initial teacher training (ITT) for the academic year 2023 to 2024

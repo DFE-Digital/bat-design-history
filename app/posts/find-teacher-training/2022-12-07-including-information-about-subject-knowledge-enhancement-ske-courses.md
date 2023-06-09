@@ -2,6 +2,9 @@
 title: Including information about subject knowledge enhancement (SKE) courses
 description: We updated content in the ‘Entry requirements’ section and added a link to more information about SKE courses
 date: 2022-12-06
+tags:
+  - subject knowledge enhancements
+  - entry requirements
 related:
   items:
     - text: Subject knowledge enhancement (SKE) - Get Into Teaching

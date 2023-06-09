@@ -2,6 +2,9 @@
 title: Filterable Find postgraduate training courses (Find) concept
 description: We built a prototype that removed the need for the question pages and focused the user on a complete list of courses, which they can search and filter
 date: 2022-10-07
+tags:
+  - filterable find
+  - concepts
 related:
   items:
     - text: Making the service more browseable

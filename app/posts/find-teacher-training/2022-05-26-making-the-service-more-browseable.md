@@ -2,6 +2,9 @@
 title: Making the service more browseable
 description: How we could use links instead of form-based questions
 date: 2022-05-26
+tags:
+  - browsable find
+  - concepts
 ogImage:
   src: /find-teacher-training/making-the-service-more-browseable/flow-update.png
   alt: Diagram showing previous flow using radio buttons and checkboxes, and new flow using buttons and links

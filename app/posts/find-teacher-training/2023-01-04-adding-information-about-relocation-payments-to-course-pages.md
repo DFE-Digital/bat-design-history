@@ -2,6 +2,10 @@
 title: Adding information about relocation payments to course pages
 description: We added content about relocation payments to the international candidates section
 date: 2023-01-04
+tags:
+  - relocation payments
+  - funding
+  - financial support
 related:
   items:
     - text: Train to teach in England as an international student

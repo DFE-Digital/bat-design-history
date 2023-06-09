@@ -2,6 +2,9 @@
 title: Enhancing the browsable Find concept prototype
 description: We made some improvements to the browse Find prototype
 date: 2022-09-28
+tags:
+  - browsable find
+  - concepts
 related:
   items:
     - text: Making the service more browseable

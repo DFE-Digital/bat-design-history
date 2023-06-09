@@ -2,6 +2,8 @@
 title: Adding a submit button to the ‘sort by’ form to improve accessibility
 description: We have removed the automatic form submission and added a submit button
 date: 2022-11-10
+tags:
+  - accessibility
 screenshots:
   items:
     - text: Course results

@@ -2,6 +2,10 @@
 title: Adding an ‘Engineers teach physics’ filter to the results list
 description: We added a way for candidates to filter physics courses to only show those that are part of the ‘Engineers teach physics’ programme
 date: 2022-09-30
+tags:
+  - engineers teach physics
+  - filters
+  - search results
 related:
   items:
     - text: Adding an ‘Engineers teach physics’ question to courses

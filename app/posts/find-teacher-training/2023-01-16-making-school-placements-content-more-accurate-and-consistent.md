@@ -2,6 +2,8 @@
 title: Making school placements content more accurate and consistent
 description: We changed school placements content on course pages to make it accurately reflect the candidates’ experience
 date: 2023-01-16
+tags:
+  - school placements
 ---
 
 The content that appears below the ‘Locations’ subheading in the ‘School placements’ section on course pages had the potential to be misleading for some candidates.
@@ -34,6 +36,3 @@ We updated the content that is displayed in this section if a SCITT runs the cou
 More research is needed to find out the value of asking candidates to select one placement when they apply for a course. We need to find out how much or how little candidate preference influences provider behaviour. In the meantime, we could add content to the page where we ask the candidate to select a placement to remind them that this is a preference only.
 
 We also need more research into how providers use locations in Publish. Our analysis so far indicates that there are inconsistencies in this area. For example, some providers may list all locations while others display none. Some providers use the free text box to list placements and explain how placements work, while others use this sparingly.
-
-
-
