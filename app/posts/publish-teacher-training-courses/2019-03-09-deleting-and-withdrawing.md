@@ -2,6 +2,10 @@
 title: Deleting and withdrawing courses
 description: And why there are both
 date: 2019-03-09
+tags:
+  - courses
+  - deletions
+  - withdrawals
 screenshots:
   items:
     - Course that can be deleted

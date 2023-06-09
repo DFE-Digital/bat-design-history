@@ -2,6 +2,9 @@
 title: Accredited bodies research - Round 3
 description: Research on the role of accredited bodies and their relationships with their partner schools
 date: 2019-11-01
+tags:
+  - accredited providers
+  - research
 related:
   items:
     - text: Lookback sessions

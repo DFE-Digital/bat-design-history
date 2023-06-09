@@ -2,6 +2,11 @@
 title: Preparing for more features
 description: Updating the organisation and courses pages to accommodate new features being added as part of UCAS transition
 date: 2019-01-30
+tags:
+  - courses
+  - organisations
+  - UCAS
+  - transition
 screenshots:
   items:
     - Organisation

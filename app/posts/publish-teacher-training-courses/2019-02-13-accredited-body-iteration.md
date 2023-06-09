@@ -2,6 +2,9 @@
 title: "New course wizard: Accredited body – 5 February iteration"
 description: Remove one of the choices, and minimise the chance of error
 date: 2019-02-13
+tags:
+  - courses
+  - accredited providers
 screenshots:
   items:
     - text: Who is the accredited body?

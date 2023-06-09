@@ -2,6 +2,9 @@
 title: Support for missing features
 description: Filling the gap left by unbuilt features
 date: 2019-05-20
+tags:
+  - support
+  - guidance
 screenshots:
   items:
     - Get support and guidance

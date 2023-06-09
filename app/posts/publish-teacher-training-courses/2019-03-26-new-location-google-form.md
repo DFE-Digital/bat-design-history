@@ -2,6 +2,8 @@
 title: New location as a Google form
 description: An MVP version of the location form we can ship with transition
 date: 2019-03-26
+tags:
+  - locations
 screenshots:
   items:
     - Locations with link to Google form

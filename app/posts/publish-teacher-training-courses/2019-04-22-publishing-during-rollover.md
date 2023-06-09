@@ -3,6 +3,9 @@ layout: page
 title: Publishing during rollover
 description: What does Publish do, what changes?
 date: 2019-04-22
+tags:
+  - rollover
+  - publishing
 screenshots:
   items:
     - Courses for next cycle

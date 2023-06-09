@@ -2,6 +2,8 @@
 title: Vacancies – 14 January iteration
 description: Updates to button styles, messaging and validation
 date: 2019-01-14
+tags:
+  - vacancies
 screenshots:
   items:
     - Close course (one training location)

@@ -2,6 +2,10 @@
 title: Accredited bodies research - Reporting round 2
 description: Continued research with accredited bodies to determine reporting needs
 date: 2019-10-22
+tags:
+  - accredited providers
+  - research
+  - reports
 related:
   items:
     - text: Lookback sessions

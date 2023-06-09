@@ -2,6 +2,10 @@
 title: "UCAS Apply preferences: Letters and alerts"
 description: Only the GT12 letter and email alert preferences are needed
 date: 2019-03-01
+tags:
+  - UCAS
+  - preferences
+  - notifications
 screenshots:
   items:
     - Organisation
