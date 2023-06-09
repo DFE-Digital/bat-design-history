@@ -8,6 +8,8 @@ related:
   items:
     - text: Adding questions about visa sponsorship to courses
       href: /publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/
+    - text: Adding and editing organisations
+      href: /support-for-publish/adding-and-editing-organisations/
 screenshots:
   items:
     - text: Organisation details
@@ -32,7 +34,9 @@ screenshots:
       src: skilled-worker-visas--updated.png
 ---
 
-Previously, we did some work to [add questions about visa sponsorship to courses](/publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/)
+Previously, we did some work to [add questions about visa sponsorship to courses](/publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/) to Publish teacher training courses (Publish).
+
+We added the same questions to the Support for Publish teacher training courses (Support) so that support agents can change visa sponsorship information on behalf of providers.
 
 ## Types of visa available to candidates
 
@@ -51,10 +55,9 @@ The Skilled Worker visa:
 - is available only for salaried courses
 - can be sponsored by the school where the candidate would be working or by the local authority or multi-academy trust that the school operates under
 
-
 ## What we changed
 
-We have added questions about visa sponsorship to the organisation details page
+We added visa sponsorship questions to the organisation details page in Support.
 
 ## How it works
 
@@ -70,7 +73,7 @@ If the support team or organisation has answered the questions, we show the answ
 - Yes - can sponsor
 - No - cannot sponsor
 
-Answers to these questions are used in the organisation’s or their training partners’ courses.
+Answers to these questions are used in the organisation’s or their training partners’ courses in Publish. This makes it easier for them to give the right answer on whether they can sponsor a Student or Skilled Worker visa for a course.
 
 If the Support team or organisation has not answered the Student visas question, we show a message and link to:
 
@@ -82,7 +85,7 @@ If the Support team or organisation has not answered the Skilled Worker visas qu
 
 ### Student visas question page
 
-On the Student visas question page, we ask, ‘Can this organisation sponsor Student visas they or their training partners run?’
+On the Student visas question page, we ask, ‘Can this organisation sponsor Student visas they or their training partners run?’.
 
 The question has 2 options:
 
@@ -101,7 +104,7 @@ If the user has not answered the question, we show an error message:
 
 ### Skilled Worker visas question page
 
-On the Skilled Worker visas question page, we ask, ‘Can this organisation sponsor Skilled Worker visas for courses they run?’
+On the Skilled Worker visas question page, we ask, ‘Can this organisation sponsor Skilled Worker visas for courses they run?’.
 
 The question has 2 options:
 
@@ -117,3 +120,31 @@ We do not default the question to a specific answer.
 If the user has not answered the question, we show an error message:
 
 > Select if this organisation can sponsor Skilled Worker visas for courses they run
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- creating an onboarding process for Publish users
+- changing visa sponsorship in bulk for courses
+
+### Creating an onboarding process for Publish users
+
+Currently, we have a [support process to onboard organisations](/support-for-publish/adding-and-editing-organisations/) onto Publish. However, we do not have a process for users to complete their setup.
+
+Users are shown an empty course list when they first enter Publish. We do not tell them what information to add before creating and publishing courses.
+
+For example, to successfully create and publish a course, a provider must have previously set up:
+
+- schools
+- study sites
+- an accredited provider - if the organisation is a training partner
+- visa sponsorship details
+
+In future, we will consider creating an onboarding process for Publish users to ensure their account is correctly set up.
+
+### Changing visa sponsorship in bulk for courses
+
+When a user changes their answer to the visa sponsorship questions, the changes are not reflected in the courses they or their training partners run. This means they need to amend each course individually.
+
+We will consider improving the ‘Change’ flow by including the option to update courses.
