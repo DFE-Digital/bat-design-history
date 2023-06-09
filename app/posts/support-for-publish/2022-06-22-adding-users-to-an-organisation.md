@@ -2,6 +2,8 @@
 title: Adding users to an organisation
 description: Giving the support team the ability to add users to an organisation
 date: 2022-06-22
+tags:
+  - users
 screenshots:
   items:
     - text: Users list

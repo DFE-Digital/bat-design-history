@@ -2,6 +2,9 @@
 title: Updating organisation search and filters
 description: We updated the search and filters to make it easier for users to find organisations
 date: 2022-06-21
+tags:
+  - search
+  - filters
 screenshots:
   items:
     - text: List of organisations
