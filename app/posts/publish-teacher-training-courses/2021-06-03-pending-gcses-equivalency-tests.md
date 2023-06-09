@@ -2,6 +2,10 @@
 title: Pending GCSEs and equivalency tests
 description: Asking providers how flexible they are on GCSE entry requirements
 date: 2021-06-03
+tags:
+  - GCSEs
+  - equivalency tests
+  - entry requirements
 ---
 
 Providers are currently asked to indicate how flexible they are around the GCSE requirement by answering a question for each subject (maths and English, plus science for Primary courses).

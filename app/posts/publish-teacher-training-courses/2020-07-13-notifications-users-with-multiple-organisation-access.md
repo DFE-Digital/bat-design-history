@@ -4,6 +4,10 @@ description: Allowing accredited body users to choose which organisations they r
 date: 2020-07-13
 tags:
   - PN013
+  - notifications
+  - organisations
+  - accredited providers
+  - training partners
 screenshots:
   items:
     - Opt in with one partner school

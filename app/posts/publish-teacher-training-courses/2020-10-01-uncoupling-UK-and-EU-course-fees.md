@@ -2,6 +2,11 @@
 title: Uncoupling UK and EU course fees
 description: Allowing providers to specify different course fees for UK and EU/international students
 date: 2020-10-01
+tags:
+  - funding
+  - fees
+  - domestic fees
+  - international fees
 screenshots:
   items:
     - Course description tab

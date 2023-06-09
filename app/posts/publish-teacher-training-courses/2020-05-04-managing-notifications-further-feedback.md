@@ -2,12 +2,13 @@
 title: Managing notifications – feedback from universities
 description: Changes to notifications following research with HEIs
 date: 2020-05-04
+tags:
+  - PN003
+  - notifications
 related:
   items:
     - text: Research playback
       href: https://docs.google.com/presentation/d/1uefvdokUVYdg0vRGKdAz1pq3bS8t78DUcUZ-hQ4dhY4/
-tags:
-  - PN003
 ---
 As a follow up to the [notifications diary study](/publish-teacher-training-courses/managing-notifications/) we iterated the notifications email templates and asked 3 universities to give feedback.
 

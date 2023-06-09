@@ -2,6 +2,9 @@
 title: Degree entry requirements
 description: Asking providers what their degree entry requirements are
 date: 2021-06-03
+tags:
+  - degrees
+  - entry requirements
 ---
 
 Some providers require a minimum degree classification, such as a 2:2, on top of the statutory requirement for a degree. Not meeting this can be a reason why candidates are rejected. Research has also shown that where candidates are aware of this before applying, it can take them a long time to sift through courses in order to find those that will accept their degree classification.

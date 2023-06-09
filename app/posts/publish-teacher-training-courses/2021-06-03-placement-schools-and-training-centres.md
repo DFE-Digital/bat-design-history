@@ -2,6 +2,10 @@
 title: Placement schools and training centres
 description: Asking providers to give more detailed location information
 date: 2021-06-14
+tags:
+  - locations
+  - placement schools
+  - training centres
 screenshots:
 - title: Managing placement school locations
   headingLevel: 3

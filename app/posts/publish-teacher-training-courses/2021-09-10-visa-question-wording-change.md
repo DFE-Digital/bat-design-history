@@ -2,6 +2,8 @@
 title: Visa sponsorship question wording change
 description: Why we updated the visa sponsorship question
 date: 2021-09-10
+tags:
+  - visa sponsorship
 ---
 
 Since deploying the [new question asking about visa sponsorship](/publish-teacher-training-courses/visa-sponsorship/), we have learnt that it is more complicated than we first thought.
