@@ -2,6 +2,9 @@
 title: Removing 2 filters
 description: Why we removed subject and location as filters
 date: 2021-08-23
+tags:
+  - filters
+  - search results
 ---
 
 We have recently added 2 new filtering options to Find postgraduate teacher training (Find), for [degree requirements](/find-teacher-training/degree-requirement-filter/) and for [visa sponsorship](/find-teacher-training/visa-sponsorship-filter/).

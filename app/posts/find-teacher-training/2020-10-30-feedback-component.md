@@ -2,6 +2,8 @@
 title: Prompting for feedback
 description: Gathering feedback on Find in a way that is consistent with Apply
 date: 2020-10-30
+tags:
+  - feedback
 screenshots:
   items:
     - text: Prompt

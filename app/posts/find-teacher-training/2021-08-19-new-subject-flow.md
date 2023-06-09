@@ -2,6 +2,8 @@
 title: New subject flow
 description: Why we changed how users select course subjects
 date: 2021-08-19
+tags:
+  - subjects
 related:
   items:
     - text: Special educational needs (SEN) filter

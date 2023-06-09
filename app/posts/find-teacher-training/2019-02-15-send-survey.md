@@ -2,6 +2,9 @@
 title: SEND survey and updates
 description: Research and findings into courses with a SEND specialism
 date: 2019-02-15
+tags:
+  - SEND
+  - survey
 screenshots:
   items:
     - text: Subjects

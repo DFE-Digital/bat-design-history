@@ -2,6 +2,9 @@
 title: UCAS teacher training (search)
 description: Screenshots of the UCAS service that Find replaced
 date: 2018-05-01
+tags:
+  - UCAS
+  - search
 screenshots:
   items:
     - text: Start page

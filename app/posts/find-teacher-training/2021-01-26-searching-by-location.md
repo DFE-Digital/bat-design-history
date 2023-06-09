@@ -2,6 +2,9 @@
 title: Searching by location
 description: Considering a different way to model where providers offer school placements
 date: 2021-01-26
+tags:
+  - search
+  - locations
 screenshots:
   items:
     - text: Find teacher training courses

@@ -2,6 +2,9 @@
 title: Maps for providers with many partner schools
 description: Finding out what does good look like for providers with many partner schools
 date: 2018-11-27
+tags:
+  - locations
+  - maps
 screenshots:
   items:
     - text: Sketch of UCL partner schools

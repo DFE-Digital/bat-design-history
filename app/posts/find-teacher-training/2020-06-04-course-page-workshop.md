@@ -2,6 +2,9 @@
 title: Course page workshop
 description: Identifying user and stakeholder needs and opportunities for course page improvements
 date: 2020-06-04
+tags:
+  - courses
+  - workshops
 related:
   items:
     - text: Workshop agenda and raw group notes

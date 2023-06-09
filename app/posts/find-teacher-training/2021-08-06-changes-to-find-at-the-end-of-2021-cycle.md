@@ -2,6 +2,8 @@
 title: Finding courses at the end of the 2021 cycle
 description: Helping candidates navigate end of cycle policies
 date: 2021-08-19
+tags:
+  - policy
 ---
 
 ## Contents

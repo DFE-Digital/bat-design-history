@@ -2,6 +2,8 @@
 title: Updating Cookie policy and banner
 description: Design changes and implementation of cookies
 date: 2020-02-28
+tags:
+  - cookies
 screenshots:
   items:
     - Cookies - Before

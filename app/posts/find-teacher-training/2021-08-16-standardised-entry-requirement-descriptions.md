@@ -2,6 +2,8 @@
 title: Standardising entry requirement content
 description: Why we have made the descriptions of entry requirements more consistent
 date: 2021-08-16
+tags:
+  - entry requirements
 ---
 
 Before the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course in a single free text field.

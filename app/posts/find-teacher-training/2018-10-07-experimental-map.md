@@ -2,6 +2,9 @@
 title: Results on a map – Full screen
 description: First pass at showing courses on a full screen map
 date: 2018-10-07
+tags:
+  - locations
+  - maps
 screenshots:
   items:
     - Results on a map

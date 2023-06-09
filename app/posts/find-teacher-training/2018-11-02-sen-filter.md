@@ -2,6 +2,9 @@
 title: Special educational needs (SEN) filter
 description: SEN is a subject, but also not a subject. Any subject could have an SEN focus.
 date: 2018-11-02
+tags:
+  - filters
+  - SEND
 screenshots:
   items:
     - text: Subject filter with SEN option

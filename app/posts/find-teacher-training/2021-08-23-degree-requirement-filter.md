@@ -2,6 +2,9 @@
 title: Degree requirements filter
 description: Why we added a new filter to Find
 date: 2021-08-23
+tags:
+  - search results
+  - filters
 ---
 
 In the 2021 to 2022 cycle, providers often rejected candidates because their degree classification did not meet the minimum required for the course. For example, the candidates may have a 2:2 degree, but the course required a 2:1 or above.

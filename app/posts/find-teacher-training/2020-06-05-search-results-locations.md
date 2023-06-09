@@ -2,6 +2,9 @@
 title: Placement schools in search results
 description: Iterating results to better indicate why a University course is near to a candidate and trying maps
 date: 2020-06-05
+tags:
+  - placement schools
+  - search results
 screenshots:
   items:
     - text: "Version 4: Explaining placement schools"

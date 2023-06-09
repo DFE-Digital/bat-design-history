@@ -2,6 +2,9 @@
 title: Just the UCAS data – 25 July iteration
 description: Tweaks to the minimum viable service including improved subject selection
 date: 2018-07-25
+tags:
+  - MVP
+  - subjects
 screenshots:
   items:
     - text: Find by subject collapsed

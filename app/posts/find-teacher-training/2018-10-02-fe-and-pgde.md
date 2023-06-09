@@ -2,6 +2,10 @@
 title: PGDE and further education courses
 description: We quickly iterated fixes to correctly indicate qualifications on these courses.
 date: 2018-10-02
+tags:
+  - PGDE
+  - further education
+  - qualifications
 screenshots:
   items:
     - text: Qualification filter
