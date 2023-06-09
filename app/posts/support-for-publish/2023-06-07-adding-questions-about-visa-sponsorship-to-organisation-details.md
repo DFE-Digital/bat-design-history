@@ -73,7 +73,7 @@ If the support team or organisation has answered the questions, we show the answ
 - Yes - can sponsor
 - No - cannot sponsor
 
-Answers to these questions are used in the organisation’s or their training partners’ courses in Publish. This makes it easier for them to give the right answer on whether they can sponsor a Student or Skilled Worker visa for a course.
+We use answers to these questions in the organisation’s or their training partners’ courses in Publish. These settings make it easier for providers to answer whether they can sponsor a Student or Skilled Worker visa for a course.
 
 If the Support team or organisation has not answered the Student visas question, we show a message and link to:
 
@@ -132,7 +132,7 @@ We considered some changes that we did not implement. These included:
 
 Currently, we have a [support process to onboard organisations](/support-for-publish/adding-and-editing-organisations/) onto Publish. However, we do not have a process for users to complete their setup.
 
-Users are shown an empty course list when they first enter Publish. We do not tell them what information to add before creating and publishing courses.
+We show users an empty course list when they first enter Publish. We do not tell them what information to add before creating and publishing courses.
 
 For example, to successfully create and publish a course, a provider must have previously set up:
 
@@ -141,10 +141,10 @@ For example, to successfully create and publish a course, a provider must have p
 - an accredited provider - if the organisation is a training partner
 - visa sponsorship details
 
-In future, we will consider creating an onboarding process for Publish users to ensure their account is correctly set up.
+In future, we will consider creating an onboarding process for Publish users to ensure they set up their organisation correctly.
 
 ### Changing visa sponsorship in bulk for courses
 
-When a user changes their answer to the visa sponsorship questions, the changes are not reflected in the courses they or their training partners run. This means they need to amend each course individually.
+When users change their answers to the visa sponsorship questions at the organisation level, they or their training partners must also change each course.
 
-We will consider improving the ‘Change’ flow by including the option to update courses.
+We will consider improving the change visa sponsorship flow to include the option to update courses.
