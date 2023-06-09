@@ -2,6 +2,9 @@
 title: Who did what and when
 description: The beginnings of an audit trail for content
 date: 2018-08-20
+tags:
+  - content
+  - auditing
 screenshots:
   items:
     - About your organisation

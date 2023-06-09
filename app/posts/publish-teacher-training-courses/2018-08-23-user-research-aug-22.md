@@ -2,6 +2,9 @@
 title: User research – 22 August
 description: Testing markdown, SimpleMDE and publishing workflow
 date: 2018-08-23
+tags:
+  - content
+  - markdown
 screenshots:
   items:
     - Organisation

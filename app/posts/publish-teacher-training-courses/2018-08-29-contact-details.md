@@ -2,6 +2,8 @@
 title: Contact details
 description: Allow users to edit their contact details
 date: 2018-08-29
+tags:
+  - contact details
 screenshots:
   items:
     - About your organisation

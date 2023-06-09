@@ -2,6 +2,9 @@
 title: School direct view – Iteration
 description: An iteration of the school direct view tested with Kingston School Direct
 date: 2018-06-11
+tags:
+  - courses
+  - school directs
 screenshots:
   items:
     - Courses

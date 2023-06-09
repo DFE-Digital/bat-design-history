@@ -2,6 +2,9 @@
 title: Course statuses – 15 October iteration
 description: We have uncovered more complexity around course statuses on UCAS
 date: 2018-10-15
+tags:
+  - courses
+  - statuses
 ---
 
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}

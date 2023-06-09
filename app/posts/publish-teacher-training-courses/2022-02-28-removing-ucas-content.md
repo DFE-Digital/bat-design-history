@@ -3,7 +3,7 @@ title: Removing UCAS content
 description: We updated the location pages to remove all mentions of UCAS and made other changes to the content
 date: 2022-02-28
 tags:
-  - ucas
+  - UCAS
 ---
 
 We updated the content on the ‘Locations’ pages to remove all mentions of UCAS.

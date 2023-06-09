@@ -2,6 +2,8 @@
 title: Fields we ask for and why
 description: Documentation of needs around each course field
 date: 2018-08-17
+tags:
+  - user needs
 ---
 
 Courses are divided across 3 parts to make them easier to complete:

@@ -2,6 +2,9 @@
 title: Request access
 description: Request access for users
 date: 2018-06-29
+tags:
+  - users
+  - permissions
 screenshots:
   items:
     - Request access

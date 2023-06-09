@@ -2,6 +2,9 @@
 title: Copy content from another course
 description: Design for copying form values from one course to another
 date: 2018-08-17
+tags:
+  - content
+  - copy content
 screenshots:
   items:
     - text: Animation showing content copying

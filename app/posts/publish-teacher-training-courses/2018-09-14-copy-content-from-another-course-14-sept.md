@@ -2,6 +2,9 @@
 title: Copy content – 14 September iteration
 description: Make the copy feature easier to find
 date: 2018-09-14
+tags:
+  - courses
+  - copy content
 screenshots:
   items:
     - Course with copy content prompts

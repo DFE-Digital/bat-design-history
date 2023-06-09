@@ -2,6 +2,8 @@
 title: No more course folding
 description: Reasoning behind not folding courses and unfolded course designs
 date: 2018-08-09
+tags:
+  - courses
 screenshots:
   title: Unfolded course designs
   items:

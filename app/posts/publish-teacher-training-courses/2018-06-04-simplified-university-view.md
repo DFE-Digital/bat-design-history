@@ -2,6 +2,9 @@
 title: A university’s view
 description: Universities are the simplest provider. There are no schools to apply to and no course folding.
 date: 2018-06-04
+tags:
+  - courses
+  - universities
 screenshots:
   items:
     - Courses

@@ -2,6 +2,10 @@
 title: Iteration 26 June 2018
 description: Separate courses by accrediting provider. Provide explicit fields for each course offered.
 date: 2018-06-26
+tags:
+  - courses
+  - UCAS
+  - accredited providers
 screenshots:
   items:
     - text: Courses

@@ -2,6 +2,8 @@
 title: Iteration – 23 August
 description: Trying to bring ‘About your organisation’ into the user journey
 date: 2018-08-24
+tags:
+  - organisations
 screenshots:
   items:
     - text: Organisation

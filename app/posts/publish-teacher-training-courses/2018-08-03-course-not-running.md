@@ -2,6 +2,9 @@
 title: Course statuses – 3 August iteration
 description: A more indepth look at UCAS course status and how it will affect publishing
 date: 2018-08-03
+tags:
+  - courses
+  - statuses
 screenshots:
   items:
     - Courses with status column

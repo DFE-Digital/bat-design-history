@@ -2,6 +2,8 @@
 title: Hide discontinued training locations
 description: Do not show these locations to avoid confusion
 date: 2018-11-01
+tags:
+  - locations
 screenshots:
   items:
     - text: Discontinued training locations behind disclosure

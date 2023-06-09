@@ -2,6 +2,8 @@
 title: The location problem
 description: Location is a complex issue, we begin to break it down
 date: 2018-11-06
+tags:
+  - locations
 ---
 
 We know that different providers treat location differently. A provider might:

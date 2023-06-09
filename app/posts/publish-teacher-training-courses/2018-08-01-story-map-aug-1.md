@@ -2,6 +2,9 @@
 title: Story map – 1 August 2018
 description: Screenshots of the end to end journey from publish courses to search and compare
 date: 2018-08-01
+tags:
+  - UCAS
+  - story map
 screenshots:
   items:
     - text: Check UCAS data
