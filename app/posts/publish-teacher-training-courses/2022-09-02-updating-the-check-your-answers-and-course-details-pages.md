@@ -2,6 +2,8 @@
 title: Updating the ‘Check your answers’ and course details pages
 description: We updated the ‘Check your answers’ and course details pages to make the content consistent with the add and edit course flows
 date: 2022-09-08
+tags:
+  - courses
 related:
   items:
     - text: Improving the content on the add and edit course flows

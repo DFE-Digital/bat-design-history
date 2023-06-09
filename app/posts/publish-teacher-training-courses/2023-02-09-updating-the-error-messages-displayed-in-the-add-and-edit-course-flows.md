@@ -2,6 +2,9 @@
 title: Updating the error messages displayed in the add and edit course flows
 description: We improved the error messages on the ‘Add course’ and edit course flows to make the language clearer and more accurate
 date: 2023-02-09
+tags:
+  - error messages
+  - courses
 related:
   items:
     - text: Improving the content on the add and edit course flows

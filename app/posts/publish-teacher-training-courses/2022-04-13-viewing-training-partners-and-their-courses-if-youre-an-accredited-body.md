@@ -2,6 +2,10 @@
 title: Viewing training partners and their courses if you’re an accredited body
 description: We moved courses as an accredited body into a new section called training partners
 date: 2022-04-13
+tags:
+  - accredited providers
+  - training partners
+  - permissions
 screenshots:
   items:
     - text: Training partners list

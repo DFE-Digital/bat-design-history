@@ -4,6 +4,8 @@ description: We documented which emails are sent and when. We also improved the 
 date: 2022-03-16
 tags:
   - PN003
+  - emails
+  - notifications
 related:
   items:
     - text: Notifications iteration

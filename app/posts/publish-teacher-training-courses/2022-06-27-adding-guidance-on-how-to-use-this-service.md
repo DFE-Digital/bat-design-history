@@ -2,6 +2,8 @@
 title: Adding guidance on how to use this service
 description: We added a new guidance section to the service to help users create better course content
 date: 2022-06-27
+tags:
+  - guidance
 related:
   items:
     - text: Improving the guidance on the course description pages

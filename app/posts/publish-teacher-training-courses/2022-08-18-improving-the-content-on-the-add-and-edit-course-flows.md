@@ -2,6 +2,8 @@
 title: Improving the content on the add and edit course flows
 description: We updated content and some interactions to make adding and editing a course clearer
 date: 2022-08-18
+tags:
+  - courses
 screenshots:
   items:
     - text: Add course - subject level

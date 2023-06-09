@@ -2,6 +2,9 @@
 title: Separating the ‘Published’ status into ‘Open’, ‘Closed’ and ‘Scheduled’ statuses
 description: We updated the ‘Published’ status to more accurately describe the state the course is in on Find postgraduate teacher training
 date: 2022-08-12
+tags:
+  - courses
+  - statuses
 related:
   items:
     - text: Reviewing course statuses

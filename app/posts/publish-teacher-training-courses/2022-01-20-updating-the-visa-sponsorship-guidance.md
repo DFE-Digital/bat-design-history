@@ -2,6 +2,9 @@
 title: Updating the visa sponsorship guidance
 description: We updated the visa sponsorship guidance for providers to include candidate eligibility criteria and how sponsorship works
 date: 2022-01-20
+tags:
+  - visa sponsorship
+  - guidance
 related:
   items:
     - text: Visa sponsorship question wording change

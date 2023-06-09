@@ -2,6 +2,9 @@
 title: Managing individual email notifications
 description: Let users choose which emails they receive
 date: 2022-03-18
+tags:
+  - emails
+  - notifications
 related:
   items:
     - text: Notifications for users with access to multiple organisations

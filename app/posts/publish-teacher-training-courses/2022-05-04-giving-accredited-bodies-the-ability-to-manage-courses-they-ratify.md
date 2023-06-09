@@ -5,6 +5,8 @@ date: 2022-05-04
 tags:
   - PN014
   - PN016
+  - accredited providers
+  - permissions
 screenshots:
   items:
     - text: Training partner course list with permissions

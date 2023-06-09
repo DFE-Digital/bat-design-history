@@ -2,6 +2,8 @@
 title: Updating error pages
 description: We updated error pages shown when a page is not found or when there is a problem with the service
 date: 2022-11-02
+tags:
+  - error pages
 related:
   items:
     - text: Updating the error pages on Find postgraduate teacher training

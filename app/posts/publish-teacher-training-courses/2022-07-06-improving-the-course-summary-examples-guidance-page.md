@@ -2,6 +2,9 @@
 title: Improving the course summary examples guidance page
 description: We updated the course summary examples page in response to provider feedback
 date: 2022-07-06
+tags:
+  - courses
+  - guidance
 related:
   items:
     - text: Adding guidance on how to use this service

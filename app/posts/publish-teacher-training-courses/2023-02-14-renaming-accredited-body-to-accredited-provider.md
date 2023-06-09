@@ -2,6 +2,8 @@
 title: Renaming ‘accredited body’ to ‘accredited provider’
 description: We replaced the term ‘accredited body’ with ‘accredited provider’ to reflect how we talk about providers internally and externally
 date: 2023-02-14
+tags:
+  - accredited providers
 screenshots:
   items:
     - text: Courses list

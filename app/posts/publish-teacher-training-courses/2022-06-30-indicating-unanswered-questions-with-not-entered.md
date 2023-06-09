@@ -2,6 +2,8 @@
 title: Indicating unanswered questions with ‘not entered’
 description: We made sure we’re consistent in how we indicate that a provider did not answer a question
 date: 2022-06-30
+tags:
+  - default content
 screenshots:
   items:
     - text: Course description

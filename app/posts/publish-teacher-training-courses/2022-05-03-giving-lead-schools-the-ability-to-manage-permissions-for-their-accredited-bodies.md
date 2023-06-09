@@ -4,6 +4,9 @@ description: We added a way for lead schools to give permission to their accredi
 date: 2022-05-03
 tags:
   - PN015
+  - permissions
+  - accredited providers
+  - lead schools
 screenshots:
   items:
     - text: Accredited body list showing an accredited bodies without permissions

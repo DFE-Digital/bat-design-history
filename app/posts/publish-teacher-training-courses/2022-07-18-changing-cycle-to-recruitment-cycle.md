@@ -2,6 +2,9 @@
 title: Changing ‘cycle’ to ‘recruitment cycle’
 description: We updated the wording in Publish to match Manage and our style guide
 date: 2022-07-19
+tags:
+  - recruitment cycles
+  - academic cycles
 related:
   items:
     - text: Referring to recruitment cycles in Manage teacher training applications

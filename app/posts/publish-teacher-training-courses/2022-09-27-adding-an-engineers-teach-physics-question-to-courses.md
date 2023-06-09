@@ -2,6 +2,8 @@
 title: Adding an ‘Engineers teach physics’ question to courses
 description: We added a way for providers to mark their physics courses as being part of the ‘Engineers teach physics’ programme
 date: 2022-09-27
+tags:
+  - engineers teach physics
 screenshots:
   items:
     - text: Add course - Engineers teach physics

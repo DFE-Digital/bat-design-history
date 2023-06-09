@@ -2,6 +2,9 @@
 title: Improving the guidance on the course description pages
 description: We updated the guidance on the course summary, school placements and interview process pages to make it more relevant and concise
 date: 2022-06-27
+tags:
+  - courses
+  - guidance
 related:
   items:
     - text: Adding guidance on how to use this service
