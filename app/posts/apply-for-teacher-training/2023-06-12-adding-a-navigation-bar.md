@@ -13,7 +13,7 @@ ogImage:
 
 We added a navigation bar to the candidate interface.
 
-Currently, this only contains 2 items, but we added the navigation bar to enable us to add additional navigation opens as we [change the application process](/apply-for-teacher-training/changing-application-process/) in future.
+Currently, this only contains 2 items, but we added the navigation bar to enable us to add additional navigation items as we [change the application process](/apply-for-teacher-training/changing-application-process/) in future.
 
 This change was made on 8 June 2023.
 
