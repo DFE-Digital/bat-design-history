@@ -4,6 +4,8 @@ description: Improving how we show the reasons why an application was rejected
 date: 2021-09-27
 tags:
   - SN001
+  - reasons for rejection
+  - reports
 related:
   title: Related Manage design history entries
   items:

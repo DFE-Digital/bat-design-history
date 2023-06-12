@@ -10,6 +10,7 @@ screenshots:
       src: service-unavailable-page.png
 tags:
   - service unavailable
+  - error pages
 ---
 
 We updated the service unavailable pages used when:

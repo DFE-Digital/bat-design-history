@@ -3,7 +3,7 @@ title: Sign up and log in using a magic link
 description: An alternative to using an account and password.
 date: 2019-08-16
 tags:
-  - account
+  - user accounts
 screenshots:
   items:
     - Start page

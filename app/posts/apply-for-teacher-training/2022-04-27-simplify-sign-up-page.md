@@ -3,7 +3,7 @@ title: Simplifying the sign up page
 description: Why we removed a lot of text and a checkbox
 date: 2022-04-27
 tags:
-  - account
+  - user accounts
 ---
 
 Our error message tracking showed us that the error message "You must agree to the terms of use" had been triggered 4,083 times. Given that we had around 95,000 candidates who have used the service, this was an error rate of around 4%.
@@ -25,4 +25,3 @@ We also took the opportunity to dramatically reduce and simplify the content on 
 ### After
 
 ![Screenshot showing sign up page containing just the line 'By continuing you agree to our terms of use and privacy policy.'](sign-up.png "New sign up page")
-

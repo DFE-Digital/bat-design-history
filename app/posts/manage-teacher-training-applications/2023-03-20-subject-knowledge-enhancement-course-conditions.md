@@ -3,7 +3,7 @@ title: Making subject knowledge enhancement courses an offer condition
 description: How we improved the process of requiring candidates to do a subject knowledge enhancement course before starting their training.
 date: 2023-03-20
 tags:
-  - subject knowledge enhancement courses
+  - subject knowledge enhancements
 ogImage:
   src: /manage-teacher-training-applications/subject-knowledge-enhancement-course-conditions/ske-condition-cover-image.png
   alt: "Illustration showing a table with the heading ‘Subject knowledge enhancement’. Beneath it there are 3 rows with the headings Subject, Length and Reason. The values for each of these is represented by a line."

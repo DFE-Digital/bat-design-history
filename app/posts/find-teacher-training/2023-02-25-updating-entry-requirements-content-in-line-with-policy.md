@@ -5,6 +5,7 @@ date: 2023-02-25
 tags:
   - policy
   - entry requirements
+  - subject knowledge enhancements
 related:
   items:
     - text: Including information about subject knowledge enhancement (SKE) courses

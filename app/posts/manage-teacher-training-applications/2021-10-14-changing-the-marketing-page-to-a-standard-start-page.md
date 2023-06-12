@@ -6,7 +6,7 @@ screenshots:
   items:
     - text: Start page
 tags:
-  - start page
+  - start pages
 ---
 
 Since the UCAS application service has been switched off, some of the content on the [marketing page](/manage-teacher-training-applications/marketing-page-for-providers/) is no longer relevant.
@@ -62,5 +62,3 @@ When we do this we’ll need to consider the needs of people who use:
 - Publish teacher training courses
 - Manage teacher training applications
 - Register teacher trainees
-
-

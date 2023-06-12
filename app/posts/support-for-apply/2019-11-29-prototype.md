@@ -1,6 +1,6 @@
 ---
 title: Support for Apply as designed for MVP
-description: The initial pilot designs.
+description: The initial pilot designs
 date: 2019-11-29
 screenshots:
   items:
@@ -21,12 +21,12 @@ Due to tight deadlines, referees submit their references ussing a Google Form. A
 
 Support agents can:
 
-* check the status of applications (applications that need action appear at the top)
-* see an audit trail of everything that’s happened to an application
-* create new vendor API tokens
+- check the status of applications (applications that need action appear at the top)
+- see an audit trail of everything that’s happened to an application
+- create new vendor API tokens
 
 In future we’ll look at:
 
-* letting referees submit references automatically via a GOV.UK styled form
-* letting support agents filter or sort the list of applications
-* add pagination to the application list
+- letting referees submit references automatically via a GOV.UK styled form
+- letting support agents filter or sort the list of applications
+- add pagination to the application list
