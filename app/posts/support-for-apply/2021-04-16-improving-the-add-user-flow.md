@@ -2,6 +2,8 @@
 title: Improving the add user flow
 description: Make it quicker and easier for support users to add provider users to Manage
 date: 2021-04-16
+tags:
+  - user management
 ---
 
 We’ve been considering improvements to how we invite and set up higher education institutions (HEIs) and their school direct partners (SDs) in Manage.
