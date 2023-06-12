@@ -2,6 +2,11 @@
 title: Salary and fees
 description: Designs for different fields for salaried and fee paying courses
 date: 2018-07-16
+tags:
+  - funding
+  - financial support
+  - salaries
+  - fees
 screenshots:
   items:
     - text: Course length and salary

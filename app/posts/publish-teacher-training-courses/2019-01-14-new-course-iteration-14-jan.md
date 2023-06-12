@@ -2,6 +2,8 @@
 title: New course wizard – 14 January iteration
 description: Updates to subjects, minimum requirements and course titles
 date: 2019-01-14
+tags:
+  - courses
 screenshots:
   items:
     - What type of course?

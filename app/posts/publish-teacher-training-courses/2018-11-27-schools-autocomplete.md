@@ -2,6 +2,9 @@
 title: Schools autocomplete
 description: An autocomplete for selecting partner schools quickly
 date: 2018-11-27
+tags:
+  - schools
+  - autocomplete
 screenshots:
   items:
     - text: Schools autocomplete

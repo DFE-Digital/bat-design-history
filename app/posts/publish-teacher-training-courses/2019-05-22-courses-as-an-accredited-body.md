@@ -2,6 +2,9 @@
 title: Courses as an accredited body
 description: See which courses you’re the accredited body for
 date: 2019-05-22
+tags:
+  - accredited providers
+  - courses
 screenshots:
   items:
     - Organisation page with new section

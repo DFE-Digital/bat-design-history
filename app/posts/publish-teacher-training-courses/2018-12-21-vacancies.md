@@ -2,6 +2,9 @@
 title: Vacancies
 description: First design for changing vacancies at each training location on a course
 date: 2018-12-21
+tags:
+  - vacancies
+  - training locations
 screenshots:
   items:
     - Organisation table showing link to edit vacancies

@@ -2,6 +2,8 @@
 title: Minimum viable Add training location
 description: A replication of what’s available on UCAS. For if we do not have time to build school autocompletes and other features, with everything else.
 date: 2019-02-12
+tags:
+  - locations
 screenshots:
   items:
     - Add training location

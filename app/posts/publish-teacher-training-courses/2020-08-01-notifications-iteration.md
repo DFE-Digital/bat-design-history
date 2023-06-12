@@ -2,6 +2,9 @@
 title: Notifications iteration
 description: Iterating the notifications we send to accredited bodies
 date: 2020-08-01
+tags:
+  - emails
+  - notifications
 ---
 
 {% from "email/macro.njk" import appEmail %}

@@ -2,6 +2,10 @@
 title: Financial incentives for ancient language courses
 description: We added ancient languages to the subject drop-down list and informed providers about the new financial incentive
 date: 2022-03-24
+tags:
+  - funding
+  - financial support
+  - financial incentives
 ---
 
 {% from "email/macro.njk" import appEmail %}

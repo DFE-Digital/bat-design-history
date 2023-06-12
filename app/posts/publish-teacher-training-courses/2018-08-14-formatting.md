@@ -2,6 +2,10 @@
 title: Formatting
 description: Paragraphs, lists and links
 date: 2018-08-14
+tags:
+  - content
+  - formatting
+  - markdown
 screenshots:
   items:
     - text: Animation showing editor features

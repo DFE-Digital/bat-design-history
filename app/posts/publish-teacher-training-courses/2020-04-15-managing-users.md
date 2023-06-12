@@ -2,6 +2,11 @@
 title: Managing users
 description: Providing a way for users to view, invite and remove users from their organisation
 date: 2020-04-15
+tags:
+  - PN007
+  - PN008
+  - users
+  - permissions
 screenshots:
   items:
     - Users
@@ -15,9 +20,6 @@ related:
       href: https://docs.google.com/presentation/d/1Kb8QIVThwopRVoJYfM5hRiZ1ks6j1CE-lQlz4X9p_hM/edit?usp=sharing
     - text: Research recordings
       href: https://drive.google.com/drive/u/0/folders/1SvRYGvLBB3GTaqgRRQ_42ouavpGaADac
-tags:
-  - PN007
-  - PN008
 ---
 
 This work closely follows [user management patterns](/manage-teacher-training-applications/adding-users) from the Apply for teacher training (Apply) service. There is an assumption that Publish teacher training courses (Publish) and Apply have common users. Maintaining consistent user interface (UI) supports the intention to provide a consistent experience across Find and Apply.

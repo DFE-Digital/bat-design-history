@@ -2,6 +2,8 @@
 title: New features for accredited bodies
 description:
 date: 2020-05-06
+tags:
+  - accredited providers
 screenshots:
   items:
     - New features interruption screen

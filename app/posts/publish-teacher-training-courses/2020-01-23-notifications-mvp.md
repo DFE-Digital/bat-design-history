@@ -4,6 +4,8 @@ description: Identifying an initial set of notifications and the critical user f
 date: 2020-01-23
 tags:
  - PN003
+ - notifications
+ - emails
 ---
 UCAS provided email notifications to it's users. This functionality is yet be introduced to Publish teacher training courses (Publish). To address this, we established an introductory set of notifications to satisfy our user’s critical needs.
 

@@ -2,6 +2,10 @@
 title: Email about Publish changes in April
 description: Sent on Wednesday 13 March
 date: 2019-03-13
+tags:
+  - emails
+  - UCAS
+  - transition
 ---
 
 {% set emailContent %}

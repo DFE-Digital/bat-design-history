@@ -2,6 +2,8 @@
 title: Courses and tabs
 description: Exploration of a home page view with tabs for courses, schools, default course and organisation details
 date: 2018-05-22
+tags:
+  - courses
 screenshots:
   items:
     - text: Courses

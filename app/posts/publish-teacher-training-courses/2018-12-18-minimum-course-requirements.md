@@ -2,6 +2,9 @@
 title: New course wizard – Minimum course requirements
 description: Choose the minimum course requirements from the new course wizard
 date: 2018-12-18
+tags:
+  - courses
+  - requirements
 ---
 
 Following on from the [investigation into UCAS specific course requirements](/publish-teacher-training-courses/specific-requirements), a design that comes towards the end of the new course wizard.

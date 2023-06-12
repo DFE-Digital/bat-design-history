@@ -2,6 +2,9 @@
 title: UCAS onboarding form
 description: The form completed by new training providers when they begin offering initial teacher training courses
 date: 2018-11-30
+tags:
+  - UCAS
+  - onboarding
 screenshots:
   items:
     - Onboarding form

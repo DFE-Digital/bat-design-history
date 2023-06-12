@@ -2,6 +2,8 @@
 title: Managing multiple organisations
 description: Some users will be responsible for courses from multiple organisations. eg SCITT-schools
 date: 2018-07-02
+tags:
+  - organisations
 screenshots:
   items:
     - text: Organisations

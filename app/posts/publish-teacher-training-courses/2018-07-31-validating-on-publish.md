@@ -2,6 +2,10 @@
 title: Validating on publish
 description: How validation works when a user tries to publish without the required fields
 date: 2018-07-31
+tags:
+  - courses
+  - required fields
+  - validation
 screenshots:
   items:
     - text: Validating a course on publish

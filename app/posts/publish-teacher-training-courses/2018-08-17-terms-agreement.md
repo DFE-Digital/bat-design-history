@@ -2,6 +2,8 @@
 title: Terms agreement
 description: A user must agree to terms before enriching
 date: 2018-08-17
+tags:
+  - terms and conditions
 screenshots:
   items:
     - Before you begin

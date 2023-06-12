@@ -2,6 +2,11 @@
 title: Allocations alpha
 description: Designing to accomodate changes to the allocations process for 2021 - 2022
 date: 2020-03-12
+tags:
+  - PN004
+  - PN005
+  - PN006
+  - allocations
 screenshots:
   items:
     - Recruiting for the next cycle
@@ -28,10 +33,6 @@ related:
       href: https://rollover-prototype.herokuapp.com/
     - text: Request PE courses prototype
       href: https://allocations-alpha.herokuapp.com/
-tags:
-  - PN004
-  - PN005
-  - PN006
 ---
 
 The allocations alpha explored potential changes to the [previous allocations process](/publish-teacher-training-courses/allocations-cycle-summary).

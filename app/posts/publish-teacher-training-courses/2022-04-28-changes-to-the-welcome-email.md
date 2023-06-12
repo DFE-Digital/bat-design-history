@@ -2,6 +2,8 @@
 title: Changes to the welcome email
 description: We updated the welcome email users receive to make it concise and consistent with other emails we send
 date: 2022-04-28
+tags:
+  - emails
 related:
   items:
     - text: Audit of email notifications and improvements to content

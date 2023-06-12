@@ -2,6 +2,9 @@
 title: Updating how organisations manage their locations
 description: We improved the process of managing locations and now allow providers to remove locations
 date: 2022-06-06
+tags:
+  - organisations
+  - locations
 screenshots:
   items:
     - text: Locations list

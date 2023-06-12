@@ -2,6 +2,9 @@
 title: Reviewing course statuses
 description: We reviewed the course statuses and found ways to improve them
 date: 2022-07-07
+tags:
+  - courses
+  - statuses
 ---
 
 Courses in Publish postgraduate teacher training courses (Publish) are assigned a status.

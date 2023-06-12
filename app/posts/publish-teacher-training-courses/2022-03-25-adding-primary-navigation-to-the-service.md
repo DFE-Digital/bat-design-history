@@ -2,6 +2,8 @@
 title: Adding primary navigation to the service
 description: Helping users navigate parts of the service with primary navigation
 date: 2022-03-25
+tags:
+  - navigation
 screenshots:
   items:
     - text: Single organisation user - lead school

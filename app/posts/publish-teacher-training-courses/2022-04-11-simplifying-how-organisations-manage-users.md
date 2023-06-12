@@ -2,6 +2,9 @@
 title: Simplifying how organisations manage their users
 description: We simplified the process of managing users and removed the need for Support team involvement
 date: 2022-04-11
+tags:
+  - organisations
+  - users
 screenshots:
   items:
     - text: Users list

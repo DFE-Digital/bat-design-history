@@ -2,6 +2,10 @@
 title: Showing academic year on the course details page
 description: We added academic year information next to the course start date on the course details page
 date: 2022-05-25
+tags:
+  - academic years
+  - academic cycles
+  - courses
 related:
   items:
     - text: Showing financial support from the government

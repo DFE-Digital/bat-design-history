@@ -2,6 +2,10 @@
 title: Course with variants and field guidance
 description: Exploration of a course page with fields to capture variants of a course and the differences between them
 date: 2018-05-25
+tags:
+  - courses
+  - variants
+  - guidance
 screenshots:
   items:
     - text: Course

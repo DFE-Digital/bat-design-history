@@ -2,6 +2,8 @@
 title: Type of location MVP
 description: A quick way to indicate if a location is an area or an address
 date: 2019-04-15
+tags:
+  - locations
 ---
 
 A quick way to indicate if a location is an area or an address.

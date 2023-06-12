@@ -2,6 +2,10 @@
 title: Email announcing UCAS transition
 description: Sent on Monday 20 February
 date: 2019-02-21
+tags:
+  - UCAS
+  - transition
+  - emails
 ---
 
 {% set emailContent %}

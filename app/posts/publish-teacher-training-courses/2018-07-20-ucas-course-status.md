@@ -2,6 +2,10 @@
 title: UCAS course status
 description: An iteration on the onboarding design (read-only) to include course status
 date: 2018-07-20
+tags:
+  - UCAS
+  - courses
+  - statuses
 screenshots:
   items:
     - Courses

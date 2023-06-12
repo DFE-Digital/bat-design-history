@@ -2,6 +2,9 @@
 title: Requesting a title
 description: What happens when a provider asks for a custom title
 date: 2019-03-15
+tags:
+  - courses
+  - course titles
 ---
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

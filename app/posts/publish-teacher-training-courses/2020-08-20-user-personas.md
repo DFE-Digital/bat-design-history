@@ -2,6 +2,9 @@
 title: User personas as test accounts in Publish
 description: Viewing Publish from the perspective of our users
 date: 2020-08-20
+tags:
+  - user personas
+  - test accounts
 ---
 
 When joining the Find or Publish teams, team members had traditionally been granted administrator access to the QA Publish environment.

@@ -2,6 +2,10 @@
 title: Emailing users to let them know that courses will be rolled over soon
 description: We emailed all Publish users to tell them that their courses would be rolled over on 7 July 2022
 date: 2022-06-21
+tags:
+  - courses
+  - emails
+  - rollover
 related:
   items:
     - text: Managing and communicating rollover in 2021

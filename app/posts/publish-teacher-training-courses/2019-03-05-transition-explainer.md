@@ -2,6 +2,9 @@
 title: Explaining transition
 description: A page transitioned organisations will see when they first sign in
 date: 2019-03-05
+tags:
+  - UCAS
+  - transition
 ---
 
 We’re communicating UCAS transition by email. Not everyone will read their email, and some of the new features will not be immediately obvious. The journey on UCAS’s side may not be ideal – we cannot rely on updated messaging or redirects.

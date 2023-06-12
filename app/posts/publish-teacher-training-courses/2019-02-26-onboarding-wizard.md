@@ -2,6 +2,8 @@
 title: Onboarding workflow and wizard
 description: How does the onboarding process look after UCAS transition?
 date: 2019-02-26
+tags:
+  - onboarding
 screenshots:
   items:
     - Accept terms

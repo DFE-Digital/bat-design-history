@@ -2,6 +2,10 @@
 title: Making the visa sponsorship questions clearer
 description: We improved the clarity of the visa sponsorship questions and made them more specific
 date: 2022-08-25
+tags:
+  - visa sponsorship
+  - student visas
+  - skilled worker visas
 related:
   items:
     - text: Adding questions about visa sponsorship to courses

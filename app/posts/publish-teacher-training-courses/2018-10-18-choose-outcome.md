@@ -2,6 +2,9 @@
 title: Edit a course outcome
 description: Allow providers to choose an outcome, instead of using our inferred one
 date: 2018-10-18
+tags:
+  - courses
+  - outcomes
 screenshots:
   items:
     - Course with prefilled outcome

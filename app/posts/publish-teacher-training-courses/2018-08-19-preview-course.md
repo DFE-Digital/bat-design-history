@@ -2,6 +2,9 @@
 title: Preview course
 description: Different preview states depending on course type and state
 date: 2018-08-19
+tags:
+  - courses
+  - previews
 screenshots:
   items:
     - Preview of fee paying course with all fields

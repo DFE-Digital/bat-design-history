@@ -2,6 +2,8 @@
 title: Showing course title on the ‘Check your answers’ page
 description: We updated the position of the course title on the add course ‘Check your answers’ page to make it clear to users how the course will be named
 date: 2022-10-25
+tags:
+  - courses
 screenshots:
   items:
     - text: Add course - check your answers - one subject

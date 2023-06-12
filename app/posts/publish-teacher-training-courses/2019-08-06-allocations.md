@@ -2,6 +2,9 @@
 title: Show allocation policy on a course
 description: Indicate the current policy on course detail pages
 date: 2019-08-06
+tags:
+  - allocations
+  - policy
 screenshots:
   items:
     - Allocations for a course

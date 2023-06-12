@@ -2,6 +2,10 @@
 title: Moving the position of course status and course actions
 description: We moved the course status tag and course actions to make it easier for users to see the status of their course and take action
 date: 2022-06-17
+tags:
+  - courses
+  - statuses
+  - actions
 screenshots:
   items:
     - text: Course details - empty, draft and rolled over

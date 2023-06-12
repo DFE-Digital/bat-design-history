@@ -2,6 +2,10 @@
 title: Emailing accredited bodies when they have been added to a lead school or their permissions have changed
 description: We created three notification emails to let accredited bodies know about changes to permissions
 date: 2022-05-19
+tags:
+  - accredited providers
+  - emails
+  - permissions
 related:
   items:
     - text: Giving lead schools the ability to manage permissions for their accredited bodies

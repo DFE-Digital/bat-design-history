@@ -2,6 +2,8 @@
 title: New course wizard
 description: Create a new course in Publish teacher training courses rather than UCAS
 date: 2018-12-14
+tags:
+  - courses
 screenshots:
   items:
     - Type of course

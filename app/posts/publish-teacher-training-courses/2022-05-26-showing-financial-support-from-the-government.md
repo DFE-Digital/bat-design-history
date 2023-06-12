@@ -2,6 +2,9 @@
 title: Showing financial support from the government
 description: We added bursary and scholarship information to the course length and fees section of the course description page
 date: 2022-05-26
+tags:
+  - funding
+  - financial support
 related:
   items:
     - text: Guidance on funding initial teacher training (ITT) for the academic year 2022 to 2023

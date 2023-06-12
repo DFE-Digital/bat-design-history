@@ -2,6 +2,8 @@
 title: Rollover wizard
 description: A full rollover wizard, ending in a page with current and next cycles
 date: 2019-02-21
+tags:
+  - rollover
 screenshots:
   items:
     - Organisation with rollover prompt

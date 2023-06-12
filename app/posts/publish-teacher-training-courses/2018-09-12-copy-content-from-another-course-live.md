@@ -2,6 +2,9 @@
 title: Copy content from another course (Live)
 description: We changed this feature when we built it
 date: 2018-09-12
+tags:
+  - courses
+  - copy content
 screenshots:
   items:
     - About this course before copying

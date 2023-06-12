@@ -3,6 +3,8 @@ layout: page
 title: In what order should we build the Edit screens?
 description: List edit screens with their complexity and priority
 date: 2019-04-19
+tags:
+  - courses
 screenshots:
   items:
     - Level and SEND

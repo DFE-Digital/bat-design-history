@@ -2,6 +2,9 @@
 title: UCAS settings and contacts
 description: Problems sharing contact information, and how we get around them
 date: 2019-03-08
+tags:
+  - UCAS
+  - settings
 screenshots:
   items:
     - text: UCAS Apply settings

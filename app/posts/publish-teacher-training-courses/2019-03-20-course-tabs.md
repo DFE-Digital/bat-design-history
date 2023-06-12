@@ -2,6 +2,8 @@
 title: Tabs on course pages
 description: Splitting course details and enrichments
 date: 2019-03-20
+tags:
+  - courses
 screenshots:
   items:
     - An unpublished course

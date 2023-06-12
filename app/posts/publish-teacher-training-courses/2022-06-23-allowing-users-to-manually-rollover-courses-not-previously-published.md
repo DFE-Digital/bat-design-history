@@ -2,6 +2,9 @@
 title: Allowing users to manually rollover courses not previously published
 description: We added a way for users to manually roll over courses into the next recruitment cycle
 date: 2022-06-23
+tags:
+  - courses
+  - rollover
 related:
   items:
     - text: Moving the position of course status and course actions

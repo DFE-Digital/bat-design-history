@@ -2,6 +2,9 @@
 title: Managing notifications
 description: Initial ideas for managing notifications
 date: 2020-04-01
+tags:
+  - PN003
+  - notifications
 screenshots:
   items:
     - Notifications
@@ -11,8 +14,6 @@ related:
   items:
     - text: Research playback
       href: https://docs.google.com/presentation/d/1dzCle8W2MrZoUmbOQ72BboRn9v-6tZ3SaprhNIREAQE/
-tags:
-  - PN003
 ---
 As a follow up to establishing a [notifications MVP](/publish-teacher-training-courses/notifications-mvp), we designed and conducted research on our initial ideas for managing email notifications within Publish teacher training courses (Publish).
 

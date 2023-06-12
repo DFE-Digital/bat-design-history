@@ -2,6 +2,9 @@
 title: "New course wizard: Languages – 5 February iteration"
 description: Simplify the fields for languages
 date: 2019-02-14
+tags:
+  - courses
+  - languages
 screenshots:
   items:
     - text: Pick the languages for this course

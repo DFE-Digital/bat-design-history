@@ -2,6 +2,9 @@
 title: Emails for the new 2019/20 cycle
 description: Prompts and updates for providers
 date: 2019-09-20
+tags:
+  - notifications
+  - emails
 ---
 
 In the lead up to the opening of the new recruitment cycle on 1 October 2019, we sent these emails.

@@ -2,6 +2,8 @@
 title: New course wizard – As a Google Form
 description: An MVP version of the wizard we can ship with transition
 date: 2019-03-20
+tags:
+  - courses
 screenshots:
   items:
     - text: Request a new course

@@ -2,6 +2,9 @@
 title: Improving content on the course pages
 description: We updated the content to make it clearer how to add, edit and remove a course and aligned the content with the style guide
 date: 2022-02-07
+tags:
+  - courses
+  - content
 ---
 
 As part of a wider content audit of the service, we wanted to improve the comprehension and clarity of the content on the “Courses” pages.

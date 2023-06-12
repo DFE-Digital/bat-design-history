@@ -2,6 +2,8 @@
 title: Tabs on locations
 description: Show courses at each location and location history
 date: 2019-04-15
+tags:
+  - locations
 screenshots:
   items:
     - Courses at each location

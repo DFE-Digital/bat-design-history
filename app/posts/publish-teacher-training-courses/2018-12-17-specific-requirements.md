@@ -2,6 +2,10 @@
 title: Specific course requirements for UCAS Apply
 description: Documentation on minimum qualifications settings in UCAS web-link and apply
 date: 2018-12-17
+tags:
+  - courses
+  - requirements
+  - UCAS
 screenshots:
   items:
     - Example warnings in UCAS apply

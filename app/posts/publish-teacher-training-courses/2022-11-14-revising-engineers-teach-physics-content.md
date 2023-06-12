@@ -2,6 +2,8 @@
 title: Revising ‘Engineers teach physics’ content
 description: We updated two pages containing Engineers teach physics content
 date: 2022-11-14
+tags:
+  - engineers teach physics
 related:
   items:
     - text: Adding an ‘Engineers teach physics’ question to courses

@@ -2,6 +2,8 @@
 title: Visa sponsorship
 description: Asking providers which visas they can sponsor
 date: 2021-05-27
+tags:
+  - visa sponsorship
 ---
 
 A relatively common reason for rejection is that the provider is unable to sponsor a visa for that candidate.

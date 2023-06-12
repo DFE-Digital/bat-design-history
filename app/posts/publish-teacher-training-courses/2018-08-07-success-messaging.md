@@ -5,6 +5,8 @@ date: 2018-08-07
 tags:
   - PN001
   - PN002
+  - messaging
+  - success messages
 screenshots:
   items:
     - Course saved
