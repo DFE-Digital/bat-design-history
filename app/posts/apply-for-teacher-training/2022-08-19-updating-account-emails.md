@@ -4,7 +4,7 @@ description: We’ve changed the account creation and sign in emails, to make it
 date: 2022-08-19
 tags:
   - emails
-  - accounts
+  - user accounts
 related:
   items:
     - text: Github pull request for sign in email
