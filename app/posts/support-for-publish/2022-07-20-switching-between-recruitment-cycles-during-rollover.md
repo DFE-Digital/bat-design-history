@@ -2,6 +2,9 @@
 title: Switching between recruitment cycles during rollover
 description: We added a way for users to be able to switch between recruitment cycles during rollover
 date: 2022-07-20
+tags:
+  - cycle switcher
+  - recruitment cycles
 screenshots:
   items:
     - text: Choose recruitment cycle
