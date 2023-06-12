@@ -2,6 +2,9 @@
 title: An end of cycle notice
 description: Tell users which year’s courses they are searching
 date: 2019-08-30
+tags:
+  - end of cycle
+  - notices
 screenshots:
   items:
     - Courses starting in different years

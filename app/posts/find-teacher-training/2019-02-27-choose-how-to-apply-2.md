@@ -2,6 +2,9 @@
 title: Choose how to apply – Iteration and research
 description: An updated journey into UCAS or new Apply service, tested with users
 date: 2019-02-27
+tags:
+  - UCAS
+  - research
 screenshots:
   items:
     - text: Prototype flow and findings

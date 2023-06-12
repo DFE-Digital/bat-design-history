@@ -2,6 +2,9 @@
 title: Visa sponsorship filter
 description: Why we added a new filter to Find
 date: 2021-08-18
+tags:
+  - filters
+  - visa sponsorship
 ---
 
 In the 2021 to 2022 cycle, providers often rejected candidates for not having the right to work or study in the UK. We think this is because it was hard for candidates to tell which courses were able to sponsor visas. They had to either ask the provider, or check a long list of providers with the ability to sponsor visas.

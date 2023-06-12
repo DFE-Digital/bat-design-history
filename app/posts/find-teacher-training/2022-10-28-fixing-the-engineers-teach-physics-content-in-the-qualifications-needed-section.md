@@ -2,6 +2,9 @@
 title: Fixing the ‘Engineers teach physics’ content in the ‘Qualifications needed’ section
 description: We updated the ‘Engineers teach physics’ content in the ‘Qualifications needed’ section of a course’s entry requirements
 date: 2022-10-28
+tags:
+  - engineers teach physics
+  - qualifications
 screenshots:
   items:
     - text: Course description

@@ -2,6 +2,10 @@
 title: Improving the content on the search results page and course page
 description: We made content improvements to filter headings, course listing and course page
 date: 2022-09-09
+tags:
+  - search results
+  - filters
+  - content
 screenshots:
   items:
     - text: Course list

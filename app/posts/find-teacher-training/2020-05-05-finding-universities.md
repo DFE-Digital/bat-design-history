@@ -2,6 +2,9 @@
 title: Make it easier to find university courses
 description: How we model university locations makes finding courses less likely
 date: 2020-05-05
+tags:
+  - locations
+  - universities
 screenshots:
   items:
     - text: Show us where your schools are

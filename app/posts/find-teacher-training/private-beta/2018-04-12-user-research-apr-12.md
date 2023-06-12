@@ -2,6 +2,9 @@
 title: User research 12 April 2018
 description: Testing business studies flow with users interested in becoming a teacher, but not necessarily within business studies.
 date: 2018-04-12
+tags:
+  - private beta
+  - research
 screenshots:
   items:
     - text: Index

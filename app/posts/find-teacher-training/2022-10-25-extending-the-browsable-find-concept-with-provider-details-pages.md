@@ -2,6 +2,9 @@
 title: Extending the browsable Find concept with provider details pages
 description: We added provider details pages to the browsable Find concept to make it easier for users to find information about a provider and their courses
 date: 2022-10-25
+tags:
+  - browsable find
+  - concepts
 related:
   items:
     - text: Making the service more browseable

@@ -2,6 +2,9 @@
 title: Choose how to apply
 description: User journey into UCAS or new Apply service
 date: 2019-02-15
+tags:
+  - UCAS
+  - research
 screenshots:
   items:
     - text: User journey

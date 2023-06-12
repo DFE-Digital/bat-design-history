@@ -2,6 +2,9 @@
 title: Sorting by course name in the search results
 description: We added sorting by course name to make it easier for users to find the courses they want
 date: 2023-01-13
+tags:
+  - courses
+  - sorting
 screenshots:
   items:
     - text: Course results - sorted by ‘Course name (A to Z)’

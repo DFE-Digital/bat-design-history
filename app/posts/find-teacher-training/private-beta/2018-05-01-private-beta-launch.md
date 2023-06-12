@@ -2,6 +2,8 @@
 title: Private beta as launched
 description: The service as it was launched on 1 May 2018.
 date: 2018-05-01
+tags:
+  - private beta
 screenshots:
   items:
     - text: Index

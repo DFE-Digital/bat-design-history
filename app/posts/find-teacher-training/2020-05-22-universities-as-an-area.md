@@ -2,6 +2,10 @@
 title: Universities as an area
 description: Research with providers about placement schools
 date: 2020-05-22
+tags:
+  - universities
+  - placement schools
+  - locations
 screenshots:
   items:
     - text: New results

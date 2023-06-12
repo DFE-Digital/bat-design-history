@@ -2,6 +2,9 @@
 title: Updating ‘Entry requirements’ content in line with policy
 description: We updated the content in the ‘Entry requirements’ section on the course page to make sure its consistent with policy
 date: 2023-02-25
+tags:
+  - policy
+  - entry requirements
 related:
   items:
     - text: Including information about subject knowledge enhancement (SKE) courses

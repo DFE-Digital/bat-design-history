@@ -2,6 +2,9 @@
 title: Results on a map – Full screen iteration
 description: Second pass at showing courses on a full screen map
 date: 2018-10-18
+tags:
+  - locations
+  - maps
 screenshots:
   items:
     - Training locations and providers on map

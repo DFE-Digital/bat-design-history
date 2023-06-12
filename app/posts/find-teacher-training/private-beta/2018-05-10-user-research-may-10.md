@@ -2,6 +2,8 @@
 title: User research 10 May 2018
 description: Testing with assisted digital, dyslexic and visually impaired users.
 date: 2018-05-10
+tags:
+  - private beta
 screenshots:
   items:
     - text: Search by location

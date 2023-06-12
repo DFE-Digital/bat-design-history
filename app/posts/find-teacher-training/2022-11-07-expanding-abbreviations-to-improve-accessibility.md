@@ -2,6 +2,9 @@
 title: Expanding abbreviations to improve accessibility
 description: We updated and expanded the abbreviations used in the service to improve accessibility
 date: 2022-11-07
+tags:
+  - accessibility
+  - courses
 screenshots:
   items:
     - text: Course results

@@ -2,6 +2,9 @@
 title: Redesigning the content in the ‘International candidates’ section and improving visa information
 description: We reviewed the layout of the ‘International candidates’ section and improved the visa content so that it is more accurate
 date: 2023-01-20
+tags:
+  - visa sponsorship
+  - international candidates
 related:
   items:
     - text: Adding information about relocation payments to course pages

@@ -2,6 +2,8 @@
 title: Iterate course titles
 description: Make it easier to differentiate between search results
 date: 2018-11-21
+tags:
+  - courses
 screenshots:
   items:
     - Search results

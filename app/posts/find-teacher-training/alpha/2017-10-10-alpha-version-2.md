@@ -1,6 +1,8 @@
 ---
 title: Alpha version 2
 date: 2017-10-10
+tags:
+  - alpha
 screenshots:
   items:
     - Index

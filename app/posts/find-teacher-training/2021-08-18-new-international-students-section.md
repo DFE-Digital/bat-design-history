@@ -2,6 +2,9 @@
 title: New ‘International students’ section
 description: Why we have added a new section to course paes
 date: 2021-08-18
+tags:
+  - international candidates
+  - visa sponsorship
 screenshots:
   items:
     - text: International students section – provider can sponsor visas

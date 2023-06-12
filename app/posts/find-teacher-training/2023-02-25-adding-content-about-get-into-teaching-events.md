@@ -2,6 +2,9 @@
 title: Adding content about Get Into Teaching events
 description: We added some more content about Get Into Teaching events and updated the campaign links
 date: 2023-02-25
+tags:
+  - events
+  - Get Into Teaching
 ---
 
 The Get Into Teaching marketing team were looking at additional ways to promote teacher training events. We have a link to the events page from the courses search results page in Find postgraduate teacher training (Find), but the team wanted to see if more could be done to explain what events involve and further promote them.

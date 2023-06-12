@@ -1,6 +1,9 @@
 ---
 title: User research 25 April 2018
 date: 2018-04-25
+tags:
+  - private beta
+  - research
 screenshots:
   items:
     - text: Index
