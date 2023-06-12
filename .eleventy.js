@@ -52,7 +52,8 @@ module.exports = function (eleventyConfig) {
       'app/posts/manage-teacher-training-applications/manage-teacher-training-applications.md',
       'app/posts/register-trainee-teachers/register-trainee-teachers.md',
       'app/posts/support-for-apply/support-for-apply.md',
-      'app/posts/support-for-publish/support-for-publish.md'
+      'app/posts/support-for-publish/support-for-publish.md',
+      'app/posts/school-placements/school-placements.md'
     ])
   })
 
@@ -85,6 +86,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/support-for-publish/*.md')
   })
 
+  eleventyConfig.addCollection('school-placements', collection => {
+    return collection.getFilteredByGlob('app/posts/school-placements/*.md')
+  })
+
   // A collection of reference pages
   eleventyConfig.addCollection('reference', collectionApi => {
     return collectionApi.getFilteredByGlob(['app/glossary.md', 'app/mission-patches.md', 'app/service-map.md'])
@@ -93,9 +98,10 @@ module.exports = function (eleventyConfig) {
   // A collection of user need pages
   eleventyConfig.addCollection('user-need', collectionApi => {
     return collectionApi.getFilteredByGlob([
-      'app/apply-for-teacher-training/user-needs/*.md',
+      'app/posts/apply-for-teacher-training/user-needs/*.md',
       'app/posts/manage-teacher-training-applications/user-needs/*.md',
-      'app/posts/publish-teacher-training-courses/user-needs/*.md'
+      'app/posts/publish-teacher-training-courses/user-needs/*.md',
+      'app/posts/school-placements/user-needs/*.md'
     ])
   })
 
