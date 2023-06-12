@@ -10,3 +10,7 @@ $govuk-global-styles: true;
 
 // Becoming a teacher design history styles
 @import "bat-design-history.scss";
+
+.app-prose .app-images--two-thirds-width img {
+  max-width: 66.6%;
+}
