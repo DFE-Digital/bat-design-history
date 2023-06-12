@@ -5,7 +5,7 @@ date: 2021-06-14
 tags:
   - locations
   - placement schools
-  - training centres
+  - training locations
 screenshots:
 - title: Managing placement school locations
   headingLevel: 3
