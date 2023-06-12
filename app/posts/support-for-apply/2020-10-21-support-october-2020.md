@@ -1,6 +1,6 @@
 ---
 title: Support – October 2020
-description: Design review and tidy up.
+description: Design review and tidy up
 date: 2020-10-21
 screenshots:
   - title: Candidates
@@ -113,10 +113,10 @@ After a year of rapid development and quick iterations without any design oversi
 
 During October 2020, we took the opportunity to review the design. We revised the information architecture, categorising pages under 5 headings:
 
-* Candidates
-* Providers
-* Performance
-* Settings
-* Documentation
+- Candidates
+- Providers
+- Performance
+- Settings
+- Documentation
 
 Navigation was updated to reflect this change. We also revised the layout of several different pages, adopting patterns used within the [provider-facing interface](/manage-teacher-training-applications/) where possible.

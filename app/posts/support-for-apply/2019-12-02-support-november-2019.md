@@ -1,6 +1,7 @@
 ---
 title: As launched on 26 November 2019
-description: An MVP support tool, showing essential application information.
+description: An MVP support tool, showing essential application information
+date: 2019-12-02
 screenshots:
   items:
     - text: Applications
