@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: School placements alpha
-description: Something
+description: A service for training providers and schools to manage their participation in ITT, view mentors and ITT partnerships
 related:
   items:
     - text: Prototype
