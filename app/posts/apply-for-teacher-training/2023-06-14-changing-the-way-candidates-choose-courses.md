@@ -1,6 +1,6 @@
 ---
 title: Changing the way candidates choose courses
-description: We changed the way candidates can apply to courses by moving the flow to a different section and helping candidates apply to diffeent training providers.
+description: We changed the way candidates can apply to courses by moving the flow to a different section of the service.
 date: 2023-06-14
 tags:
   - courses
