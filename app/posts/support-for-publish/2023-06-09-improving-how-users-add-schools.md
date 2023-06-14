@@ -31,13 +31,13 @@ screenshots:
       src: schools--check-your-answers.png
 ---
 
-We recently did some work to [improve how providers add schools](/publish-teacher-training-courses/improving-how-providers-add-schools/) in Publish teacher training courses (Publish). This work added a way for providers to find and add them using [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.
+We recently did some work to [improve how providers add schools](/publish-teacher-training-courses/improving-how-providers-add-schools/) in Publish teacher training courses (Publish). This work included giving providers a way to find and add schools using [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.
 
-To make it easier for the Support team to add schools, we copied the same approach to Support for Publish teacher training courses (Support).
+To make it easier for the Support team to add schools, we used the same approach in Support for Publish teacher training courses (Support).
 
 ## What we changed
 
-We added a school look-up to the ‘Add school’ flow, which uses GIAS data, to make it easier for the Support team to find and enter information about the schools providers partner with.
+We added a school look-up to the ‘Add school’ flow using GIAS data. This makes it easier for the Support team to find and enter information about the schools providers partner with.
 
 ## How it works
 
@@ -63,7 +63,7 @@ If the user cannot find the school in the list, they can skip the form and enter
 
 ### Review details about the school
 
-Selecting a location name from the autocomplete and continuing takes the user to an edit form where they can review:
+Selecting a location name from the autocomplete and continuing takes the user to an edit form where they can review the:
 
 - school name
 - unique reference number (URN)
