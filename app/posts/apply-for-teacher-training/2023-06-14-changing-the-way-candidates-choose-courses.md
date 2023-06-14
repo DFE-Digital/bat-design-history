@@ -76,7 +76,7 @@ On the final page, candidates can review their course selection. At this point t
 
 ## What we learnt
 
- We tested this flow with users and there were no usability issues as it’s very similar to what we have now. We did find that:
+We tested this flow with XX users in May 2023. There were no usability issues, as it’s very similar to what we have now. We did find that:
 
 * candidates did not read the information above the green ‘Add application’ button and selected the button immediately
 * selecting other courses they were interested in at the same provider was valuable but users thought this would use up an application choice
