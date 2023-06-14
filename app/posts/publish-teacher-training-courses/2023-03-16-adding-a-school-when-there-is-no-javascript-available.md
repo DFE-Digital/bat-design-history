@@ -4,6 +4,7 @@ description: We added a no-JavaScript version of the add school flow
 date: 2023-03-16
 tags:
   - locations
+  - schools
 related:
   items:
     - text: Improving how providers add schools
@@ -40,7 +41,7 @@ Without JavaScript, when the user continues, we show:
 - a way to change the search if the school they are looking for is not listed or if there are too many results
 - a list of radio options matching their search query - we limit this list to 15 items
 
-We use data provided by [Get Information about Schools (GIAS)](https://www.get-information-schools.service.gov.uk/).
+We use data provided by [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/).
 
 For each school, university or college in the list, we display the name, town and postcode. This allows users to correctly choose from similarly named locations.
 
