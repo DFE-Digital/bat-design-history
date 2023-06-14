@@ -20,7 +20,7 @@ We’re looking to make this change for the new recruitment cycle starting in Oc
 
 Currently, when a candidate applies for teacher training, they submit one application linked to 4 course choices. This means candidates have to wait for an outcome on all 4 course choices before they can apply again.
 
-We wanted to make the process more flexible by allowing candidates to submit an application with one course choice linked to it. This would allow them to switch out their applications independently from each other. Without having to wait for an outcome on all 4 applications.
+We wanted to make the process more flexible by allowing candidates to submit an application with one course choice linked to it. This would allow them to switch out their applications independently from each other, without having to wait for an outcome on all 4 applications.
 
 ## What we did
 
