@@ -1,6 +1,6 @@
 ---
 title: Improving how providers add schools
-description: We added a way for providers to find schools to add to their account using Get Information about Schools (GIAS) data
+description: We added a way for providers to find schools to add to their account using Get information about schools (GIAS) data
 date: 2023-02-20
 tags:
   - locations
@@ -47,7 +47,7 @@ This means it is harder for a candidate to find a provider’s course on Find po
 
 Candidates also don’t know where their school placements will likely be as the provider hasn’t listed any schools.
 
-To make it easier for providers to add schools in Publish, we added a way for providers to find and add them using [Get Information about Schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.
+To make it easier for providers to add schools in Publish, we added a way for providers to find and add them using [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.
 
 ## What we changed
 

@@ -1,12 +1,14 @@
 ---
-title: Adding a school when there is no JavaScript available
+title: Adding a school when JavaScript is unavailable
 description: We added a no-JavaScript version of the add school flow
-date: 2023-03-16
+date: 2023-06-10
 tags:
   - locations
   - schools
 related:
   items:
+    - text: Improving how users add schools in Support
+    - href: /publish-teacher-training-courses/improving-how-providers-add-schools/
     - text: Improving how providers add schools
     - href: /publish-teacher-training-courses/improving-how-providers-add-schools/
 screenshots:
@@ -25,9 +27,9 @@ screenshots:
       src: schools--list-error.png
 ---
 
-When a provider adds a school in Publish teacher training courses (Publish), we use an autocomplete to help users search for schools.
+When the Support team adds a school in Support for Publish teacher training courses (Support), we use an autocomplete to help users search for schools.
 
-The autocomplete works well for quickly selecting a school, but it requires JavaScript to be working. Not everyone has JavaScript, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a school, but it requires JavaScript. Not everyone has JavaScript, and it does not always run successfully.
 
 We added a no-JavaScript version of the ‘Add school’ flow, which we can progressively enhance.
 
@@ -38,17 +40,19 @@ Selecting ‘Add school’ on the schools list page takes the user to a form whe
 Without JavaScript, when the user continues, we show:
 
 - the number of results and the search term in the heading - for example, “7 results found for ‘challoner’”
-- a way to change the search if the school they are looking for is not listed or if there are too many results
+- a way to change the search if the school they are looking for is not listed, or if there are too many results
 - a list of radio options matching their search query - we limit this list to 15 items
 
 We use data provided by [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/).
 
-For each school, university or college in the list, we display the name, town and postcode. This allows users to correctly choose from similarly named locations.
+We display the name, town and postcode for each school, university or college in the list. This allows users to choose from similarly named locations correctly.
 
 Selecting a school from the list allows the user to continue and add the school.
 
-If the user tries to continue without selecting a school, we show an error message.
+We show an error message if the user tries to continue without selecting a school:
 
-If the school the user is looking for isn’t listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+> Select a school
+
+If the school the user is looking for is not listed or there are no results listed, they can change their search, which takes them back to the initial search form.
 
 *[GIAS]: Get Information about Schools
