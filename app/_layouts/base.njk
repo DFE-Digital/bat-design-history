@@ -13,7 +13,7 @@
 <meta property="og:description" content="{{ description | markdown('inline') | striptags(true) | default(app.description) }}">
 {% set ogImage = ogImage if ogImage else {"src": "/opengraph-image.png"} %}
 {% if ogImage %}<meta name="twitter:card" content="summary_large_image">{% endif %}
-{% if ogImage.src %}<meta property="og:image" content="{{ ogImage.src }}">{% endif %}
+{% if ogImage.src %}<meta property="og:image" content="{{ page.url }}{{ ogImage.src }}">{% endif %}
 {% if ogImage.alt %}<meta property="og:image:alt" content="{{ ogImage.alt }}">{% endif %}
 
 {% endblock %}
@@ -31,6 +31,7 @@
 {% endblock %}
 
 {% block beforeContent %}
+
   {{ appBreadcrumbs({
     classes: "govuk-!-display-none-print",
     title: title,
