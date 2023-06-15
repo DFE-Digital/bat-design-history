@@ -12,12 +12,24 @@
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description | markdown('inline') | striptags(true) | default(app.description) }}">
 
-<meta name="twitter:card" content="summary_large_image">
 {% if ogImage %}
   <meta property="og:image" content="{{ page.url }}{{ ogImage.src }}">
   <meta property="og:image:alt" content="{{ ogImage.alt }}">
 {% else %}
   <meta property="og:image" content="/opengraph-image.png">
+{% endif %}
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ description | markdown('inline') | striptags(true) | default(app.description) }}">
+{# https://dev.twitter.com/web/overview/widgets-webpage-properties#csp #}
+<meta name="twitter:widgets:csp" content="on">
+
+{% if ogImage %}
+  <meta property="twitter:image" content="{{ page.url }}{{ ogImage.src }}">
+  <meta property="twitter:image:alt" content="{{ ogImage.alt }}">
+{% else %}
+  <meta property="twitter:image" content="/opengraph-image.png">
 {% endif %}
 
 {% endblock %}
