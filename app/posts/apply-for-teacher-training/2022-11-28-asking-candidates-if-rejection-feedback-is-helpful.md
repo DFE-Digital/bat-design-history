@@ -5,10 +5,10 @@ date: 2022-11-17
 tags:
   - rejections
 ogImage:
-  src: /apply-for-teacher-training/asking-candidates-if-rejection-feedback-is-helpful/is-this-feedback-helpful.png
+  src: is-this-feedback-helpful.png
   alt: "Illustration with the text 'Is this feedback helpful?' and two buttons labelled 'Yes' and 'No'"
-
 ---
+
 ![Illustration with the text 'Is this feedback helpful?' and two buttons labelled 'Yes' and 'No'](is-this-feedback-helpful.png)
 
 When candidates receive a rejection from a provider along with some feedback, we are now asking candidates whether this feedback is helpful or not.
@@ -43,8 +43,8 @@ There is no confirmation step, and no way to change their answer, as we wanted t
 
 As of 28 November 2022, almost 2 weeks after having first asked this question, there have been 379 responses. Of these:
 
-* 191 (50%) said the feedback was helpful
-* 188 (50%) said the feedback was not helpful
+- 191 (50%) said the feedback was helpful
+- 188 (50%) said the feedback was not helpful
 
 The response rate so far has been around 12%, for rejections given since the feedback launched.
 
@@ -54,10 +54,10 @@ Most candidates who have rated their feedback have done so within a day of recei
 
 Once we have received more responses, we can start to look for patterns in the data by seeing if the helpfulness of rejection feedback varies by:
 
-* category of rejection received
-* type of training provider
-* individual training providers
-* whether or not the candidate had an interview
-* candidate characteristics
+- category of rejection received
+- type of training provider
+- individual training providers
+- whether or not the candidate had an interview
+- candidate characteristics
 
 We can also then consider ways to improve the helpfulness of the feedback.

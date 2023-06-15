@@ -5,7 +5,7 @@ date: 2022-11-09
 tags:
   - equality and diversity
 ogImage:
-  src: /apply-for-teacher-training/changing-how-we-ask-about-disabilities-and-health-conditions/disability-question-changes.png
+  src: disability-question-changes.png
   alt: "Illustration showing that previously there was an ‘Are you disabled?’ question which led to a ‘What disabilities do you have?’ question, and now there is a single ‘Do you have any of these disabilities or health conditions?’ question."
 related:
   items:
@@ -74,4 +74,3 @@ The 3 most frequently selected options account for the majority of the change:
 We plan to continue including these questions within usability research sessions, so that we can see whether there are any further changes we could make.
 
 We will review the work of other government departments, including the [Disability Unit](https://www.gov.uk/government/organisations/disability-unit), the [Government Analysis Function impairment harmonised standard](https://analysisfunction.civilservice.gov.uk/policy-store/impairment/) and the GOV.UK Design System patterns as they develop.
-

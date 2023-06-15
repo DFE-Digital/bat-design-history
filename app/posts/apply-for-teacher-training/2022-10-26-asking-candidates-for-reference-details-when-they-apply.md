@@ -5,7 +5,7 @@ date: 2022-10-27
 tags:
   - references
 ogImage:
-  src: /apply-for-teacher-training/asking-candidates-for-reference-details-when-they-apply/references-to-be-collected.png
+  src: references-to-be-collected.png
   alt: "Safeguarding: references to be collected if you accept an offer (incomplete)"
 related:
   items:

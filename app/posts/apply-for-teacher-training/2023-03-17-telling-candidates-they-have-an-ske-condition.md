@@ -6,10 +6,10 @@ tags:
   - making an offer
   - application details
 ogImage:
-  src: /apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/ske-cover-image.png
+  src: ske-cover-image.png
   alt: "Illustration with the text 'Offer received' and information about doing an 8 week subject knowledge enhancement course in physics"
-
 ---
+
 ![Illustration with the text 'Offer received' and inforation about doing an 8 week subject knowledge enhancement course in physics](ske-cover-image.png)
 
 Previously, we designed a way to help training providers add a subject knowledge enhancement (SKE) course as a condition of an offer.
@@ -22,15 +22,15 @@ We tested these designs and improved the content shown to candidates. We release
 
 Subject knowledge enhancement (SKE) courses are currently available in 9 secondary subjects:
 
-* biology
-* chemistry
-* computing
-* design and technology
-* English
-* languages
-* mathematics
-* physics
-* religious education
+- biology
+- chemistry
+- computing
+- design and technology
+- English
+- languages
+- mathematics
+- physics
+- religious education
 
 Providers can ask candidates to do an SKE course if they need to improve their subject knowledge before they start their initial teacher training (ITT).
 
@@ -38,11 +38,11 @@ From previous research, candidates often do not know what an SKE course is when 
 
 Some of the main issues candidates have are not knowing:
 
-* why they have to do an SKE course
-* how to find an SKE course or who to do it with (SKE providers and ITT providers can be different)
-* SKE courses are free
-* they can get a bursary of £175 a week while they do their SKE course
-* how they can study their course (for example, online, in-person or both)
+- why they have to do an SKE course
+- how to find an SKE course or who to do it with (SKE providers and ITT providers can be different)
+- SKE courses are free
+- they can get a bursary of £175 a week while they do their SKE course
+- how they can study their course (for example, online, in-person or both)
 
 ## What we did
 
@@ -50,11 +50,11 @@ After the training provider sends an offer to a candidate with an SKE course con
 
 We give them information on:
 
-* the subject and length of their SKE course
-* why they have to do an SKE course
-* when they should complete their SKE course by
-* the SKE course being free and they'll get £175 a week while they do it
-* how they can study their SKE (online, in-person or both)
+- the subject and length of their SKE course
+- why they have to do an SKE course
+- when they should complete their SKE course by
+- the SKE course being free and they'll get £175 a week while they do it
+- how they can study their SKE (online, in-person or both)
 
 ![Screenshot showing the offer a candidate will recieve with a subject knowledge enhancement course attached. The course is for a 12 week biology course. The content also tells the user they should start their course by April 2023, there is a £175 bursary they can get while doing the course and there are options on how they can study which include full time, part time and online or in-person. The screen then asks the user to respond to the offer'.](ske-offer-page.png)
 
@@ -102,9 +102,9 @@ Overall the designs tested well and there were no major usability issues. Users 
 
 We iterated the designs to include:
 
-* clarity about how the bursary would be paid – this can vary by provider
-* clarity around what ‘part-time’ means
-* calculating the latest month of when a candidate should start their SKE course so they finish it before their ITT starts
+- clarity about how the bursary would be paid – this can vary by provider
+- clarity around what ‘part-time’ means
+- calculating the latest month of when a candidate should start their SKE course so they finish it before their ITT starts
 
 We also tested the SKE course directory and found that most users did not even know it existed and that they could choose their own SKE provider.
 

@@ -5,9 +5,8 @@ date: 2023-03-14
 tags:
   - rejections
 ogImage:
-  src: /manage-teacher-training-applications/rejection-email-previews/email-preview.png
+  src: email-preview.png
   alt: "Illustration with the heading ‘The candidate will be sent this email’ followed by a box containing lines to indicate email content, followed by a green button"
-
 ---
 
 ![Illustration with the heading ‘The candidate will be sent this email’ followed by a box containing lines to indicate email content, followed by a green button](email-preview.png)
@@ -24,9 +23,9 @@ Since we [started asking candidates if the feedback was helpful](/apply-for-teac
 
 Issues we’ve spotted with feedback have included:
 
-* candidates being written about in the third person and referred to by their name or as ‘the applicant’
-* very short reasons not written as full sentences
-* use of ‘N/A’ or ‘see email’
+- candidates being written about in the third person and referred to by their name or as ‘the applicant’
+- very short reasons not written as full sentences
+- use of ‘N/A’ or ‘see email’
 
 ## What we changed
 
@@ -47,4 +46,3 @@ We tested the changed design in usability sessions with participants from 9 prov
 All providers were unaware that the candidate saw the feedback presented in this way, except for one provider who had used the sandbox to test the candidate journey.
 
 Around half suggested they would elaborate on feedback now they know how it looks, and would avoid the note-form style, third-person wording and bullet points they use currently.
-

@@ -5,7 +5,7 @@ date: 2022-06-24
 tags:
   - fees
 ogImage:
-  src: /apply-for-teacher-training/showing-fee-and-salary-information-in-offer-details/offer-details.png
+  src: offer-details.png
   alt: "Details of offer. Fees. UK: £2,250. International: £20,400"
 related:
   items:

@@ -5,7 +5,7 @@ date: 2023-03-13
 tags:
   - rejections
 ogImage:
-  src: /manage-teacher-training-applications/revisiting-reasons-for-rejection/reasons-for-rejection-revisited.png
+  src: reasons-for-rejection-revisited.png
   alt: "Illustration containing two headings: ‘Before’ and ’After’. Beneath the ‘Before’ heading are two checked boxes, where under each checked box, a ‘Reasons’ sub-heading is shown above some additional unchecked boxes. Beneath the ’After’ heading is just a set of boxes with no nested checkboxes."
 ---
 
@@ -41,57 +41,55 @@ Beneath the reasons for rejection, we added a text box where providers could giv
 
 Qualifications:
 
-* No maths GCSE at minimum grade 4 or C, or equivalent
-* No English GCSE at minimum grade 4 or C, or equivalent
-* No science GCSE at minimum grade 4 or C, or equivalent
-* No bachelor’s degree or equivalent
-* Degree does not meet course requirements
-* Could not verify qualifications
-* Other
-
+- No maths GCSE at minimum grade 4 or C, or equivalent
+- No English GCSE at minimum grade 4 or C, or equivalent
+- No science GCSE at minimum grade 4 or C, or equivalent
+- No bachelor’s degree or equivalent
+- Degree does not meet course requirements
+- Could not verify qualifications
+- Other
 
 Personal statement:
 
-* Quality of writing
-* Other
+- Quality of writing
+- Other
 
 Teaching knowledge, ability and interview performance:
 
-* Teaching knowledge, ability and interview performance
-* Reasons
-* Subject knowledge
-* Safeguarding knowledge
-* Teaching method knowledge
-* Teaching role knowledge
-* Teaching demonstration
-* Other
+- Teaching knowledge, ability and interview performance
+- Reasons
+- Subject knowledge
+- Safeguarding knowledge
+- Teaching method knowledge
+- Teaching role knowledge
+- Teaching demonstration
+- Other
 
 Communication, interview attendance and scheduling:
 
-* Did not reply to messages
-* Did not attend interview
-* Could not arrange interview
-* Other
+- Did not reply to messages
+- Did not attend interview
+- Could not arrange interview
+- Other
 
 (Non-categorised):
 
-* Safeguarding
-* Visa sponsorship
-* Course full
-* Other
-
+- Safeguarding
+- Visa sponsorship
+- Course full
+- Other
 
 ### Reasons for rejection: after
 
-* Does not have a degree or A level in [course subject]
-* Degree class does not meet course requirements
-* Personal statement did not demonstrate they are suitable to teach
-* Could not get in touch with them
-* Could not arrange an interview
-* Interview performance was not strong enough
-* We have safeguarding concerns
-* We cannot sponsor a visa
-* The course is now full
+- Does not have a degree or A level in [course subject]
+- Degree class does not meet course requirements
+- Personal statement did not demonstrate they are suitable to teach
+- Could not get in touch with them
+- Could not arrange an interview
+- Interview performance was not strong enough
+- We have safeguarding concerns
+- We cannot sponsor a visa
+- The course is now full
 
 ## Research
 
@@ -105,9 +103,9 @@ They were mixed reactions to the warning content about not rejecting candidates 
 
 Most providers liked the idea of the ‘advice on what to do next’ box, and suggested that it might:
 
-* be helpful for candidates
-* lead to fewer candidate requests for additional feedback from providers
-* allow a more human, friendly approach
+- be helpful for candidates
+- lead to fewer candidate requests for additional feedback from providers
+- allow a more human, friendly approach
 
 2 providers were not keen, and suggested that candidates should be looking elsewhere for this advice.
 
@@ -119,7 +117,6 @@ Participants also suggested that there might be some overlap between content wri
 
 Before we make these changes to the live service, we need to consider:
 
-* how we would update the rejection reasons in the candidate interface and emails
-* whether or not we should go ahead with the separate advice box, and if it should be optional
-* what the impact on the [rejection codes in the API](https://www.apply-for-teacher-training.service.gov.uk/api-docs/v1.3/reference#rejectionreason-object) would be
-
+- how we would update the rejection reasons in the candidate interface and emails
+- whether or not we should go ahead with the separate advice box, and if it should be optional
+- what the impact on the [rejection codes in the API](https://www.apply-for-teacher-training.service.gov.uk/api-docs/v1.3/reference#rejectionreason-object) would be

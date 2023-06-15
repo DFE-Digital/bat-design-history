@@ -5,10 +5,10 @@ date: 2023-06-01
 tags:
   - courses
 ogImage:
-  src: /apply-for-teacher-training/changing-application-process/changing-application-cover.png
+  src: changing-application-cover.png
   alt: "Illustration showing a before and after of the application process. Before shows how the application os one page where candidates can choose 4 course choices as part of their application for. After shows how candidates will fill out a section called ‘Your details’ first and then navigate to a section called ‘Your applications’ where they will choose their 4 courses and each of those would become an application."
-
 ---
+
 ![Illustration showing a before and after of the application process. Before shows how the application os one page where candidates can choose 4 course choices as part of their application for. After shows how candidates will fill out a section called ‘Your details’ first and then navigate to a section called ‘Your applications’ where they will choose their 4 courses and each of those would become an application."](changing-application-cover.png)
 
 The way the current application process works is based on old business rules from UCAS (the service that Apply for teacher training replaced).
@@ -19,7 +19,7 @@ We’re now in a position to change this process. We designed a way for candidat
 
 ## The issue
 
-Last recruitment cycle (October 2021 to September 2022), 65% of candidates who received rejections on all of their course choices did not apply again.  
+Last recruitment cycle (October 2021 to September 2022), 65% of candidates who received rejections on all of their course choices did not apply again.
 
 So far this recruitment cycle (October 2022 to May 2023), 63% of candidates who received rejections on all their course choices are not applying again.
 
@@ -37,11 +37,11 @@ From this research we realised we did not have a good understanding of a candida
 
 The hypotheses we wanted to test with this work were:
 
-* allowing candidates to continuously apply will reduce friction and increase applications per candidate
-* candidates will apply to another course sooner when an application is unsuccessful
-* allowing candidates to continuously apply is more aligned to candidates’ mental models
-* candidates will penalise slow providers by withdrawing an application and applying somewhere else
-* allowing candidates to continuously apply creates a tighter feedback loop between providers and candidates
+- allowing candidates to continuously apply will reduce friction and increase applications per candidate
+- candidates will apply to another course sooner when an application is unsuccessful
+- allowing candidates to continuously apply is more aligned to candidates’ mental models
+- candidates will penalise slow providers by withdrawing an application and applying somewhere else
+- allowing candidates to continuously apply creates a tighter feedback loop between providers and candidates
 
 ### Adding a navigation bar and splitting the application process
 
@@ -75,7 +75,7 @@ We also added some guidance explaining the application process. We currently do 
 
 ### Exploring an alternative to rejecting applications automatically
 
- Currently, once a candidate submits an application, the training provider has 40 working days to respond. If they do not, the application is rejected automatically.  
+ Currently, once a candidate submits an application, the training provider has 40 working days to respond. If they do not, the application is rejected automatically.
 
 As a team we had a workshop to look at alternative ways to help candidates have more autonomy over their applications and help providers to give feedback.
 
@@ -93,13 +93,13 @@ We now have a better understanding of candidate’s mental models when it comes 
 
 We learnt that candidates:
 
-* found the guidance on the application process useful
-* preferred the option for applications to become ‘inactive’ allowing them to apply to another course
-* understood the terms ‘inactive’ and ‘awaiting decision’ but felt they were both ways to cover up that the training provider will not be giving feedback
-* did not expect applications to be open all year
-* expected a deadline with all applications submitted before the deadline and then assessed equally
-* would not feel comfortable withdrawing an application unless they had received feedback on it from a training provider
-* would expect to have an outcome on all their applications before deciding which to accept
+- found the guidance on the application process useful
+- preferred the option for applications to become ‘inactive’ allowing them to apply to another course
+- understood the terms ‘inactive’ and ‘awaiting decision’ but felt they were both ways to cover up that the training provider will not be giving feedback
+- did not expect applications to be open all year
+- expected a deadline with all applications submitted before the deadline and then assessed equally
+- would not feel comfortable withdrawing an application unless they had received feedback on it from a training provider
+- would expect to have an outcome on all their applications before deciding which to accept
 
 ## Further considerations
 

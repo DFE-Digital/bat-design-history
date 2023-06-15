@@ -5,7 +5,7 @@ date: 2022-06-28
 tags:
   - fees
 ogImage:
-  src: /apply-for-teacher-training/home-fee-status/nationality-and-residency.png
+  src: nationality-and-residency.png
   alt: "Flow diagram showing questions related to home fee status"
 related:
   items:
@@ -17,17 +17,17 @@ related:
 
 ## Contents
 
-* [Overview](/apply-for-teacher-training/home-fee-status/#overview)
-* [User need](/apply-for-teacher-training/home-fee-status/#user-need)
-* [Hypothesis](/apply-for-teacher-training/home-fee-status/#hypothesis)
-* [Nationality and residency section](/apply-for-teacher-training/home-fee-status/#nationality-and-residency-section)
-* [British and Irish nationals](/apply-for-teacher-training/home-fee-status/#british-and-irish-nationals)
-* [EU nationals with EU settled status](/apply-for-teacher-training/home-fee-status/#eu-nationals-with-eu-settled-status)
-* [EU nationals with EU pre-settled status](/apply-for-teacher-training/home-fee-status/#eu-nationals-with-eu-pre-settled-status)
-* [Candidates with indefinite leave to remain or right of abode](/apply-for-teacher-training/home-fee-status/#candidates-with-indefinite-leave-to-remain-or-right-of-abode)
-* [Another immigration status](/apply-for-teacher-training/home-fee-status/#another-immigration-status)
-* [Resources](/apply-for-teacher-training/home-fee-status/#resources)
-* [Next steps](/apply-for-teacher-training/home-fee-status/#next-steps)
+- [Overview](/apply-for-teacher-training/home-fee-status/#overview)
+- [User need](/apply-for-teacher-training/home-fee-status/#user-need)
+- [Hypothesis](/apply-for-teacher-training/home-fee-status/#hypothesis)
+- [Nationality and residency section](/apply-for-teacher-training/home-fee-status/#nationality-and-residency-section)
+- [British and Irish nationals](/apply-for-teacher-training/home-fee-status/#british-and-irish-nationals)
+- [EU nationals with EU settled status](/apply-for-teacher-training/home-fee-status/#eu-nationals-with-eu-settled-status)
+- [EU nationals with EU pre-settled status](/apply-for-teacher-training/home-fee-status/#eu-nationals-with-eu-pre-settled-status)
+- [Candidates with indefinite leave to remain or right of abode](/apply-for-teacher-training/home-fee-status/#candidates-with-indefinite-leave-to-remain-or-right-of-abode)
+- [Another immigration status](/apply-for-teacher-training/home-fee-status/#another-immigration-status)
+- [Resources](/apply-for-teacher-training/home-fee-status/#resources)
+- [Next steps](/apply-for-teacher-training/home-fee-status/#next-steps)
 
 
 ## Overview
@@ -66,16 +66,16 @@ The nationality question was previously located in the ‘personal information�
 
 British/Irish nationals who’ve been permanently resident in any combination of the following places for the 3 years before the course starts are usually eligible for home fees:
 
-* UK
-* Ireland
-* Channel Islands
-* Isle of Man
-* EU
-* Switzerland
-* Iceland
-* Liechtenstein
-* Norway
-* British Overseas Territories
+- UK
+- Ireland
+- Channel Islands
+- Isle of Man
+- EU
+- Switzerland
+- Iceland
+- Liechtenstein
+- Norway
+- British Overseas Territories
 
 So our first idea was to ask British/Irish candidates the following question, with the option to respond 'Yes' or 'No':
 
@@ -85,8 +85,8 @@ Will you have been living in the UK, Ireland, Channel Islands, Isle of Man, EU, 
 
 We decided against this because:
 
-* it may be inaccessible due to the length of the question
-* most British/Irish candidates live permanently in the UK or Ireland - so listing all these places is unnecessary for most candidates
+- it may be inaccessible due to the length of the question
+- most British/Irish candidates live permanently in the UK or Ireland - so listing all these places is unnecessary for most candidates
 
 Instead, we divided the question into 2. Firstly, we just ask about the UK and Ireland:
 
@@ -231,11 +231,11 @@ So candidates who [select an EU nationality](nationality-other.png) like ‘Fren
 
 Candidates with indefinite leave to remain or right of abode are likely to be eligible for home fees if they’ve been permanently resident in any combination of the following countries for the 3 years before the course starts:
 
-* UK
-* Ireland
-* Channel Islands
-* Isle of Man
-* British Overseas Territories
+- UK
+- Ireland
+- Channel Islands
+- Isle of Man
+- British Overseas Territories
 
 This list is shorter than for British/Irish candidates or EU nationals with EU settled status.
 

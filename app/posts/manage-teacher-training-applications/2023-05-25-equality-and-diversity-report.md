@@ -9,7 +9,7 @@ tags:
   - sex
   - ethnicity
 ogImage:
-  src: /manage-teacher-training-applications/equality-and-diversity-report/sex-disability-ethnicity-age.png
+  src: sex-disability-ethnicity-age.png
   alt: "Illustration with the heading 'Sex, disability, ethnicity and age' followed by a table with 4 columns: Applied, Offered, Recruited, % (percentage sign)"
 ---
 
@@ -38,4 +38,3 @@ A final column calculates a percentage of candidates recruited from the total nu
 The design of the final report was based on one [previously designed and researched](/manage-teacher-training-applications/simplifying-how-we-help-users-spot-bias-in-their-recruitment-processes/), but with some changes to the disability and health conditions section to reflect changes in the way that this question is now asked.
 
 Instead of summarising the number of candidates who are disabled or not disabled, the table now includes rows for "at least 1 disability or health condition declared" and "I do not have any of these disabilities or health conditions".
-

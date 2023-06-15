@@ -5,9 +5,8 @@ date: 2022-10-27
 tags:
   - references
 ogImage:
-  src: /apply-for-teacher-training/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to/confirm-details.png
+  src: confirm-details.png
   alt: "Flow diagram showing questions related to home fee status"
-
 ---
 
 {% from "email/macro.njk" import appEmail %}

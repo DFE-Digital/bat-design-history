@@ -5,7 +5,7 @@ date: 2023-03-20
 tags:
   - subject knowledge enhancements
 ogImage:
-  src: /manage-teacher-training-applications/subject-knowledge-enhancement-course-conditions/ske-condition-cover-image.png
+  src: ske-condition-cover-image.png
   alt: "Illustration showing a table with the heading ‘Subject knowledge enhancement’. Beneath it there are 3 rows with the headings Subject, Length and Reason. The values for each of these is represented by a line."
 ---
 
@@ -21,10 +21,10 @@ Previously, providers could add ‘conditions’ to an offer using as many separ
 
 Adding these courses as conditions using free text posed a number of issues:
 
-* we could not automatically detect these conditions and then show candidates some useful information about the SKE courses
-* it was harder for DfE to analyse the impact of adding these conditions
-* the description of the condition was inconsistent across providers, with some providing more details than others
-* some providers may not have been aware of the scheme and its eligibility criteria
+- we could not automatically detect these conditions and then show candidates some useful information about the SKE courses
+- it was harder for DfE to analyse the impact of adding these conditions
+- the description of the condition was inconsistent across providers, with some providing more details than others
+- some providers may not have been aware of the scheme and its eligibility criteria
 
 ## What we changed
 
@@ -38,8 +38,8 @@ When making an offer for a course which is eligible for a funded SKE course, we 
 
 If the provider says a SKE course is required, they are asked to specify the reason for this. These reasons are taken from the SKE course funding criteria and are either:
 
-* they do not have a degree in the course subject
-* their degree was from more than 5 years ago (from course start date)
+- they do not have a degree in the course subject
+- their degree was from more than 5 years ago (from course start date)
 
 ![Screenshot with the heading ‘Why do they need to take a subject knowledge enhancement (SKE) course?’ with radio button answers for ‘They degree was not Physics’ and ‘Their degree subject was Physics but they graduated before September 2018’.](ske-reason.png)
 

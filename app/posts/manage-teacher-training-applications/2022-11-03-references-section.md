@@ -5,9 +5,8 @@ date: 2022-11-03
 tags:
   - references
 ogImage:
-  src: /manage-teacher-training-applications/references-section/references-tab.png
+  src: references-tab.png
   alt: "Illustration with the heading 'References' and a box containing 'Name', 'Email address' and 'How the candidate knows them and how long for'"
-
 ---
 
 ![Illustration with the heading "References" and a box containing 'Name', 'Email address' and 'How the candidate knows them and how long for'](references-tab.png)

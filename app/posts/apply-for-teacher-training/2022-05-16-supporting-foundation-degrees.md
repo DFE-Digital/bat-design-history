@@ -5,7 +5,7 @@ date: 2022-05-16
 tags:
   - qualifications
 ogImage:
-  src: /apply-for-teacher-training/supporting-foundation-degrees/foundation-degree.png
+  src: foundation-degree.png
   alt: "Q: What type of degree is it? A: Foundation degree"
 ---
 ![Q: What type of degree is it? A: Foundation degree](/apply-for-teacher-training/supporting-foundation-degrees/foundation-degree.png)

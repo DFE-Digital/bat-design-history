@@ -5,7 +5,7 @@ date: 2022-11-03
 tags:
   - references
 ogImage:
-  src: /apply-for-teacher-training/changing-how-we-ask-for-references/reference-illustration.png
+  src: reference-illustration.png
   alt: "Illustration with the title 'References', 2 bullet points and an empty text box"
 
 ---
@@ -139,4 +139,3 @@ We will consider:
 - if fewer people mis-interpret the safeguarding question
 - whether 'how you know them and how long you’ve known them' could be improved, perhaps by splitting it into 2 questions
 - what kind of factual information people enter on the main reference page
-

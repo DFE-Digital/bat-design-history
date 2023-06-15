@@ -5,9 +5,8 @@ date: 2022-10-28
 tags:
   - references
 ogImage:
-  src: /manage-teacher-training-applications/making-offer-references/conditions-of-offer-references.png
+  src: conditions-of-offer-references.png
   alt: "Illustration with the text: "Conditions of Offer: References""
-
 ---
 
 ![Illustration with the text: "Conditions of Offer: References"](conditions-of-offer-references.png)

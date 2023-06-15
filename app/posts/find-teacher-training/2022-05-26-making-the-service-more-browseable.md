@@ -6,7 +6,7 @@ tags:
   - browsable find
   - concepts
 ogImage:
-  src: /find-teacher-training/making-the-service-more-browseable/flow-update.png
+  src: flow-update.png
   alt: Diagram showing previous flow using radio buttons and checkboxes, and new flow using buttons and links
 ---
 
