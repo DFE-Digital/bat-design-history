@@ -5,7 +5,7 @@ date: 2023-06-01
 tags:
   - reports
 ogImage:
-  src: /manage-teacher-training-applications/provider-recruitment-performance/mid-cycle-cover.png
+  src: mid-cycle-cover.png
   alt: "Illustration with the heading '2022 to 2023 recruitment cycle performance' followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change."
 ---
 

@@ -5,7 +5,7 @@ date: 2023-06-12
 tags:
   - navigation
 ogImage:
-  src: /apply-for-teacher-training/adding-a-navigation-bar/navigation-bar.png
+  src: navigation-bar.png
   alt: "Illustration showing 3 horizontal elements: a bar with a black background and a crown and GOV.UK in white, a bar with a white background and a blue 'BETA' badge, and a bar with a grey background and 'Your applications' and 'Sign out' links in blue text."
 ---
 

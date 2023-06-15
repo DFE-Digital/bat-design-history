@@ -7,7 +7,7 @@ related:
     - text: Summary of candidate research for the new references process
       href: https://docs.google.com/presentation/d/13gbxJk6S6j21MCtHN2B4E4-NM_BydZWqIX9SycDYoEk/edit#slide=id.g14472665577_1_98
 ogImage:
-  src: /apply-for-teacher-training/letting-candidates-deal-with-reference-requests-after-accepting-an-offer/managing-references.png
+  src: managing-references.png
   alt: "Illustration with the title 'References' and 3 references listed, 2 with the status 'REQUESTED' and 1 with the status 'RECEIVED BY TRAINING PROVIDER'"
 
 ---

@@ -5,15 +5,14 @@ date: 2022-11-17
 tags:
   - equality and diversity
 ogImage:
-  src: /apply-for-teacher-training/asking-candidates-if-they-received-free-school-meals/free-school-meals-illustration.png
+  src: free-school-meals-illustration.png
   alt: "Illustration with the question 'Did you ever receive free school meals in the UK?' and the answers Yes and No"
 related:
   items:
     - text: Findings from candidate research (DfE-only)
       href: https://docs.google.com/presentation/d/13gbxJk6S6j21MCtHN2B4E4-NM_BydZWqIX9SycDYoEk/edit?usp=sharing
-
-
 ---
+
 ![Illustration with the question 'Did you ever receive free school meals in the UK?' and the answers Yes and No](free-school-meals-illustration.png)
 
 We have started asking candidates whether they received free school meals at school, in order to try and assess the impact of social-economic background on the chances of a successful application.

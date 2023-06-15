@@ -6,7 +6,7 @@ tags:
   - courses
   - applications
 ogImage:
-  src: /apply-for-teacher-training/changing-the-way-candidates-choose-courses/cover-image-2.png
+  src: cover-image-2.png
   alt: "Illustration showing 9 screens leading on from each other. The screens show a flow the user would take to choose a teacher training course from choosing a training provider, choosing a course, choosing additional courses, writing their personal statement, indicacting their interveiw needs, adding extra information and submitting their application."
 ---
 
@@ -78,16 +78,16 @@ On the final page, candidates can review their course selection. At this point t
 
 We tested this flow with 8 users in May 2023. There were no usability issues, as it’s very similar to what we have now. We did find that:
 
-* candidates did not read the information above the green ‘Add application’ button and selected the button immediately
-* selecting other courses they were interested in at the same provider was valuable but users thought this would use up an application choice
-* having the personal statement within the flow made candidates think they should personalise it per training provider
-* candidates liked being able to tell providers about their interview needs
-* candidates found the review page useful and liked the option of submitting immediately or saving it as a draft
+- candidates did not read the information above the green ‘Add application’ button and selected the button immediately
+- selecting other courses they were interested in at the same provider was valuable but users thought this would use up an application choice
+- having the personal statement within the flow made candidates think they should personalise it per training provider
+- candidates liked being able to tell providers about their interview needs
+- candidates found the review page useful and liked the option of submitting immediately or saving it as a draft
 
 ## Further considerations
 
 As part of launching this feature in October 2023, the team decided to leave out some features. We’re now iterating the designs, which include:
 
-* removing the ability for candidates to select other courses they’re interested in (we intend to revisit this later)
-* removing the ‘additional information’ question as we could not see a purpose for it
-* moving ‘interview needs’ back to the ‘Your details’ tab and renaming it to ‘Interview availability’
+- removing the ability for candidates to select other courses they’re interested in (we intend to revisit this later)
+- removing the ‘additional information’ question as we could not see a purpose for it
+- moving ‘interview needs’ back to the ‘Your details’ tab and renaming it to ‘Interview availability’

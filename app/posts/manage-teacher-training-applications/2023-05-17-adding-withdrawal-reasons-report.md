@@ -6,7 +6,7 @@ tags:
   - reports
   - withdrawals
 ogImage:
-  src: /manage-teacher-training-applications/adding-withdrawal-reasons-report/withdrawals.png
+  src: withdrawals.png
   alt: "Illustration with the heading 'Withdrawals' followed by a table with 4 columns: Reason, Before decision, After accepting, Total."
 ---
 

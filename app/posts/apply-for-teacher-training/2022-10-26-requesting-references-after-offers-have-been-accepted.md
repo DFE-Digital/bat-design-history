@@ -5,7 +5,7 @@ date: 2022-10-26
 tags:
   - references
 ogImage:
-  src: /apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/references-flow-changes.png
+  src: references-flow-changes.png
   alt: "Flow diagram showing changes to when references are requested"
 related:
   items:

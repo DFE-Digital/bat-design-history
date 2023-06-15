@@ -7,7 +7,7 @@ related:
     - text: Bulk actions on a group of records
       href: /register-trainee-teachers/bulk-actions-v1/
 ogImage:
-  src: /register-trainee-teachers/bulk-awarding-of-teaching-status/flow-diagram.png
+  src: flow-diagram.png
   alt: Flow diagram of the bulk award flow
 ---
 

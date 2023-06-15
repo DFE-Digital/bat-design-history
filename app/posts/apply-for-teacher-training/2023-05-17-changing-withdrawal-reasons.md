@@ -5,10 +5,10 @@ date: 2023-05-17
 tags:
   - withdrawals
 ogImage:
-  src: /apply-for-teacher-training/changing-withdrawal-reasons/withdrawal-reasons.png
+  src: withdrawal-reasons.png
   alt: "Illustration with the text ‘Why are you withdrawing this application? (optional)"
-
 ---
+
 ![Illustration with the text ‘Why are you withdrawing this application? (optional)](withdrawal-reasons.png)
 
 We changed how we ask candidate why they withdrew their application from an open question to a list of options.
@@ -27,8 +27,8 @@ A second question asked if we could get in touch with them to speak about their 
 
 The issues with asking an open question were that:
 
-* the text took a lot of manual work to analyse, resulting in this often not happening
-* the extra effort in writing out a reason may have resulting in more candidates choosing not to share a reason
+- the text took a lot of manual work to analyse, resulting in this often not happening
+- the extra effort in writing out a reason may have resulting in more candidates choosing not to share a reason
 
 We also found that we were not making use of the second question to recruit candidates for research.
 

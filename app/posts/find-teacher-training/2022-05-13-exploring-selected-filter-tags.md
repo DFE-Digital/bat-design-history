@@ -6,7 +6,7 @@ tags:
   - filters
   - tags
 ogImage:
-  src: /find-teacher-training/exploring-selected-filter-tags/selected-filter-tags.png
+  src: selected-filter-tags.png
   alt: Selected filter tags
 related:
   items:
