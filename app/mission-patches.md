@@ -42,6 +42,10 @@ The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a be
   {
     text: "Apply for teacher training References change",
     caption: "This patch celebrated the change to the way references are requested. This was a tough nut to crack. October 2022"
+  },
+  {
+    text: "Apply for teacher training SKE conditions",
+    caption: "This celebrated the addition of subject knowledge enhancement courses as a structured offer condition. March 2023"
   }]
 }) }}
 
