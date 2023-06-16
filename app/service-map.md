@@ -77,9 +77,6 @@ The 'becoming a teacher' services are part of a broader range of digital service
       {
         "name": "Register trainee teachers",
         "href": "https://www.register-trainee-teachers.education.gov.uk"
-      },
-      {
-        "name": "ITT Provider Portal"
       }
     ]
   },
