@@ -7,10 +7,10 @@ tags:
   - equality and diversity
 ogImage:
   src: /apply-for-teacher-training/moving-equality-diversity-survey/equality-survey-cover-image.png
-  alt: "Illustration showing 9 screens leading on from each other. The screens show a flow the user would take to choose a teacher training course from choosing a training provider, choosing a course, choosing additional courses, writing their personal statement, indicacting their interveiw needs, adding extra information and submitting their application."
+  alt: "Illustration showing a task list with different sections. The last section is called 'Equality and diversity' and shows some content explianing that training providers will not see the answer to this section until the uder has accepted an offer."
 ---
 
-![Illustration showing 9 screens leading on from each other. The screens show a flow the user would take to choose a teacher training course from choosing a training provider, choosing a course, choosing additional courses, writing their personal statement, indicacting their interveiw needs, adding extra information and submitting their application.](equality-survey-cover-image.png)
+![Illustration showing a task list with different sections. The last section is called 'Equality and diversity' and shows some content explianing that training providers will not see the answer to this section until the uder has accepted an offer.](equality-survey-cover-image.png)
 
 As part of the work to [change the application process](/apply-for-teacher-training/changing-application-process/). We moved the questions about equality and diversity to a new tab called ‘Your details’.
 
