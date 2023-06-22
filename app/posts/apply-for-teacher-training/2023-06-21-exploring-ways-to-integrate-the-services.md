@@ -1,6 +1,6 @@
 ---
-title: Exploring ways to integrate the services
-description: We sketched some idea for ways that the different services involved in becoming a teacher could be more joined-up.
+title: Exploring ways to integrate multiple services in the becoming a teacher journey
+description: We sketched some ideas for ways that the different services involved in becoming a teacher could be more joined-up.
 date: 2023-06-21
 ogImage:
   src: connecting-services.png
@@ -9,7 +9,7 @@ ogImage:
 
 ![Illustration showing the Apply for teacher training service connected to lots of other services.](connecting-services.png)
 
-As a service design exercise, we explored some ideas for ways that the different services involved in becoming a teacher could be more joined-up.
+As a service design exercise, we explored some ideas for ways that different government services involved in becoming a teacher could be more joined-up.
 
 These designs are all rough sketches to illustrate the ideas.
 
@@ -17,7 +17,7 @@ These designs are all rough sketches to illustrate the ideas.
 
 There are a lot of different steps involved in becoming a qualified teacher, from big ones like getting accepted onto a teacher training course, to smaller ones like completing safeguarding checks and applying for funding.
 
-The Get into teaching website already has a [how to become a teacher page](https://getintoteaching.education.gov.uk/steps-to-become-a-teacher) which outlines some of this.
+The Get Into Teaching website already has a [how to become a teacher page](https://getintoteaching.education.gov.uk/steps-to-become-a-teacher) which outlines some of this.
 
 Another approach might be to use the [step by step pattern](https://design-system.service.gov.uk/patterns/step-by-step-navigation/). This has the advantage that it can also link all of the start pages for each of the services together. For a similar example, see [become a car driving instructor](https://www.gov.uk/become-car-driving-instructor).
 
@@ -25,13 +25,13 @@ Another approach might be to use the [step by step pattern](https://design-syste
 
 ## Find a course
 
-The Find postgraduate teacher training service is currently separate from Apply for teacher training. There are links between the two, but the ‘Find’ service does not have any account or login functionality associated with it.
+The Find postgraduate teacher training (Find) service is currently separate from Apply for teacher training (Apply). There are links between the two, but the Find service does not have any account or login functionality associated with it.
 
-Currently, when adding a course from ‘Apply’, the service asks users if they already know which course they want to apply to. If they do, then they can pick the course within Apply using autocompletes and radio buttons, but if they don’t, they are sent over to Find first. This could be confusing.
+Currently, when adding a course from the Apply service, it asks users if they already know which course they want to apply to. If they do, they can pick the course within Apply using autocompletes and radio buttons, if they don’t, they’re sent over to Find first. This could be confusing.
 
 One option might be to incorporate both services under a single combined navigation header and a shared account.
 
-![Screenshot showing a page with a navigation bar with the items: Courses, Your details, Applications, Messagea and the service title 'Become a teacher'](find.png)
+![Screenshot showing a page with a navigation bar with the items: Courses, Your details, Applications, Messages and the service title 'Become a teacher'](find.png)
 
 This might make it clearer to users that the 2 services are closely connected.
 
@@ -39,9 +39,9 @@ This might make it clearer to users that the 2 services are closely connected.
 
 Currently, candidates who do not have British or Irish nationality are asked to confirm whether they have the right to work or study in the UK, and if so, what their immigration status is.
 
-The immigration status is not verified straight away. Instead, it is up to the provider to do this at a later date once an offer has been accepted.
+The immigration status is not verified straight away. Instead, it’s up to the provider to do this at a later date once an offer has been accepted.
 
-An alternative approach might be to ask the candidate if they have a ‘immigration status share code’ from the Home Office. These are issued for things like EU settled status and some types of visa.
+An alternative approach might be to ask the candidate if they have an ‘immigration status share code’ from the Home Office. These are issued for things like EU settled status and some types of visa.
 
 If the candidate has this, then their immigration status could be automatically verified.
 
@@ -56,7 +56,7 @@ This might help to:
 
 ## School qualifications
 
-Candidates are asked to enter their GCSE qualifications in English, maths and science, as having achieved a grade C or 4 in will demonstrate that they meet the minimum standard for initial teacher training. Candidates are also strongly encouraged to add their A level results, as these can support their application, particularly for secondary teaching.
+Candidates are asked to enter their GCSE qualifications in English, maths and science, and need to have achieved a grade C or 4 to demonstrate they meet the minimum standard for initial teacher training. Candidates are also strongly encouraged to add their A level results, as these can support their application, particularly for secondary teaching.
 
 Adding these qualifications can take some time, and some candidates may not even remember accurately what their qualifications were.
 
@@ -71,7 +71,7 @@ An idea to explore in future might be to link these services together, allowing 
 ![Screenshot showing a page listing GCSE and A level qualifications imported from the learner record](import-qualifications.png)
 
 
-This would also have the advantage of verifying these qualifications, so that providers to not have to ask for proof of them later, which currently involves candidates finding (or re-requesting) their original certificates.
+This would also have the advantage of verifying these qualifications, so that providers do not have to ask for proof of them later, which currently involves candidates finding (or re-requesting) their original certificates.
 
 ## Messages
 
@@ -99,11 +99,11 @@ To make this more seamless, the service could give candidates a link to apply fo
 
 ![Screenshot showing a page where criminal records checks have been successful](criminal-records-check-done.png)
 
-This would require tight integration with the [Disclosure and Barring Service (DBS)](https://www.gov.uk/government/organisations/disclosure-and-barring-service). Currently they don’t have an online service for enhanced checks, only basic ones, but this may change in future.
+This would require tight integration with the [Disclosure and Barring Service (DBS)](https://www.gov.uk/government/organisations/disclosure-and-barring-service). Currently they do not have an online service for enhanced checks, only basic ones, but this may change in future.
 
 ## Scholarships
 
-Candidates who are offered a place on a course for physics, maths, chemistry, computing or modern languages are offered the ability for apply for a scholarship. These are administered by professional bodies such as the Institute of Physics, and offer slightly more money than the standard bursary, as well as other benefits.
+Candidates who are offered a place on a course for physics, maths, chemistry, computing or modern languages are offered the ability to apply for a scholarship. These are administered by professional bodies such as the Institute of Physics, and offer slightly more money than the standard bursary, as well as other benefits.
 
 However applying for these currently involves filling out entirely separate application forms (asking for much of the same information as already entered on Apply), and also candidates have to know that this is available to them.
 
