@@ -6,7 +6,7 @@ tags:
   - applications
   - equality and diversity
 ogImage:
-  src: /apply-for-teacher-training/moving-equality-diversity-survey/equality-survey-cover-image.png
+  src: equality-survey-cover-image.png
   alt: "Illustration showing a task list with different sections. The last section is called 'Equality and diversity' and shows some content explaining that training providers will not see the answer to this section until the user has accepted an offer."
 ---
 
