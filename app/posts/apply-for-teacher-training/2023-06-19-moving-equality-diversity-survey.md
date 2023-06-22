@@ -12,7 +12,7 @@ ogImage:
 
 ![Illustration showing a task list with different sections. The last section is called 'Equality and diversity' and shows some content explaining that training providers will not see the answer to this section until the user has accepted an offer.](equality-survey-cover-image.png)
 
-As part of the work to [change the application process](/apply-for-teacher-training/changing-application-process/). We moved the questions about equality and diversity to a new tab called ‘Your details’.
+As part of the work to [change the application process](/apply-for-teacher-training/changing-application-process/), we moved the questions about equality and diversity to a new tab called ‘Your details’.
 
 We made this change in June 2023.
 
@@ -27,11 +27,11 @@ Currently, candidates submit one application linked to 4 course choices. Before 
 
 These questions are not shown to providers until a candidate accepts an offer.
 
-Candidates only have to fill in these question once because they only submit one application.
+Candidates only have to complete these question once because they only submit one application.
 
 ## What we changed
 
-As we change the application process, candidates will be able to submit multiple applications and we do not want candidates to have to fill out these questions again and again.
+We changed the application process so candidates will be able to submit multiple applications. Each time they submit, we do not want candidates to have to fill out the equality and diversity questions again and again.
 
 We moved these questions to the new tab called ‘Your details’.
 
