@@ -121,7 +121,7 @@ Most candidates applying to fee-paying courses will go on to apply for a student
 
 Currently this involves following the guidance and application process for [undergraduate student finance](https://www.gov.uk/student-finance) (even though the course is post graduate), which involves adding details of their course as well as proving that they have met the conditions of their offer.
 
-This could be improved through better integration with the Student Finance England, which might enable to apply for a student loan without having to re-enter and prove the details of their training course.
+This could be improved through better integration with Student Finance England, which might enable to apply for a student loan without having to re-enter and prove the details of their training course.
 
 ![Screenshot inviting trainees to apply for a student loan](student-loan.png)
 
