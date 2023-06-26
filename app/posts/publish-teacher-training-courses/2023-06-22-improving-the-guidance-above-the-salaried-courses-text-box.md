@@ -20,6 +20,6 @@ We added some more guidance above the ‘Salary details’ text box in Publish t
 
 - renamed the section ‘Salary details’ and changed the text box label to match
 - made the content more concise
-- added a link to the [unqualified teachers’ national pay scales]() to help providers access this information quickly
+- added a link to the [unqualified teachers’ national pay scales](https://www.gov.uk/government/publications/national-pay-scales-for-eligible-teaching-and-education-jobs/national-pay-scales-for-eligible-teaching-and-education-leadership-occupation-codes) to help providers access this information quickly
 
 ![The updated content above the free text box in Publish](salary-details.png)
