@@ -7,9 +7,9 @@ tags:
 - salary
 - funding
 related:
-items:
- - text: Improving the information on a salaried course page
- - href: /find-teacher-training/improving-the-information-on-a-salaried-course-page/
+  items:
+   - text: Improving the information on a salaried course page
+   - href: /find-teacher-training/improving-the-information-on-a-salaried-course-page/
 ---
 
 From the 2023 to 2024 recruitment cycle, all providers will be able to offer salaried courses. We took this opportunity to review the guidance content above the salaried courses text box in Publish teacher training courses (Publish) to see if it can be improved.
