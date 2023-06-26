@@ -10,7 +10,7 @@ tags:
 related:
   items:
     - text: Improving the guidance above the salaried courses text box
-    - href: publish-teacher-training-courses/improving-the-guidance-above-the-salaried-courses-text-box/
+    - href: /publish-teacher-training-courses/improving-the-guidance-above-the-salaried-courses-text-box/
     - text: Filtering courses by funding type
     - href: find-teacher-training/filtering-courses-by-funding-type/
 ---
