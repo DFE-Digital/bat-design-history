@@ -12,7 +12,7 @@ related:
     - text: Improving the guidance above the salaried courses text box
     - href: /publish-teacher-training-courses/improving-the-guidance-above-the-salaried-courses-text-box/
     - text: Filtering courses by funding type
-    - href: find-teacher-training/filtering-courses-by-funding-type/
+    - href: /find-teacher-training/filtering-courses-by-funding-type/
 ---
 
 From the 2023 to 2024 recruitment cycle, all providers will be able to offer salaried courses. We took this opportunity to review the content for salaried courses on Find postgraduate teacher training (Find) to make sure that it is clear.
