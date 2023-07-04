@@ -12,7 +12,7 @@ ogImage:
 
 ![Illustration showing a list of applications with the header 'Received – make a decision'. There are 5 applications in the list with each one showing the name of the candidate, the status each application is in, and how long ago the application was received.](automatic-rejections-cover.png)
 
-Leading up to the 2023 to 2024 teacher training recruitment cycle, we decided to [change the application process](/apply-for-teacher-training/changing-application-process/) for candidates. Most of the changes we made were in Apply for teacher training (Apply) . However, we also needed to reflect some of these changes in Manage teacher training applications (Manage).
+Leading up to the 2023 to 2024 teacher training recruitment cycle, we decided to [change the application process](/apply-for-teacher-training/changing-application-process/) for candidates. Most of the changes we made were in Apply for teacher training (Apply). However, we also needed to reflect some of these changes in Manage teacher training applications (Manage).
 
 Two of the biggest changes we made was to remove the functionality for:
 
@@ -24,7 +24,7 @@ Two of the biggest changes we made was to remove the functionality for:
 
 ### Provider receives an application
 
-When a provider receives an application, they have  40 working days to make a decision on it. If they do not take any action, the application is rejected automatically.
+When a provider receives an application, they have 40 working days to make a decision on it. If they do not take any action, the application is rejected automatically.
 
 Our research has found that this is the most negative experience for candidates. It does not make them feel empowered to apply for teacher training again. Candidates value feedback from training providers so they can improve their next application.
 
