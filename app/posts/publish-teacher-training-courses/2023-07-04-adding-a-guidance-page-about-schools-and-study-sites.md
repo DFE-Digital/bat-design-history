@@ -3,10 +3,10 @@ title: Adding a guidance page about schools and study sites
 description: We added a new guidance page to help providers understand how to add schools and study sites to a course
 date: 2023-07-04
 tags:
-- school placements
-- study sites
-- guidance
-- locations
+  - school placements
+  - study sites
+  - guidance
+  - locations
 related:
   items:
     - text: Improving the guidance on the course description pages
