@@ -1,5 +1,4 @@
 ---
-
 title: Adding a guidance page about schools and study sites
 description: We added a new guidance page to help providers understand how to add schools and study sites to a course
 date: 2023-07-04
@@ -8,9 +7,7 @@ tags:
 - study sites
 - guidance
 - locations
-
 related:
-
   items:
     - text: Improving the guidance on the course description pages
     - href: /publish-teacher-training-courses/adding-new-guidance-pages-to-how-to-use-this-service/
@@ -20,7 +17,6 @@ related:
     - href: /publish-teacher-training-courses/including-study-sites-in-the-course-details/
    - text: Add schools and study sites
     - href: /publish-teacher-training-courses/including-study-sites-in-the-course-details/
-
 ---
 
 From the 2023 to 2024 recruitment cycle, we have introduced ‘Study sites’. A study site is a place where trainees will do the theoretical part of their initial teacher training (ITT) course.
