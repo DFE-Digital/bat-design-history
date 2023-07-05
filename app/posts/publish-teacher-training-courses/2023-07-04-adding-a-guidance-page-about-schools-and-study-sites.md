@@ -16,7 +16,7 @@ related:
     - text: Including study sites in the course details page
       href: /publish-teacher-training-courses/including-study-sites-in-the-course-details/
     - text: Add schools and study sites
-      href: /publish-teacher-training-courses/add-schools-and-study-sites/
+      href: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-schools-and-study-sites/
 ---
 
 From the 2023 to 2024 recruitment cycle, we have introduced ‘Study sites’. A study site is a place where trainees will do the theoretical part of their initial teacher training (ITT) course.
@@ -25,7 +25,7 @@ To be able to publish a course, the provider will need to attach at least one st
 
 ## What we changed
 
-We added a new page to the ‘How to use this service’ section in Publish called ‘Add schools and study sites’. The page also explains how to add schools to an account and how to select them to be shown in the ‘School placements’ section on a course page.
+We added a new page to the ‘How to use this service’ section in Publish called ‘[Add schools and study sites](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-schools-and-study-sites)’. The page also explains how to add schools to an account and how to select them to be shown in the ‘School placements’ section on a course page.
 
 ## Further considerations
 
