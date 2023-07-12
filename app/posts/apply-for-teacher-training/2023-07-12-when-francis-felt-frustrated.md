@@ -13,11 +13,15 @@ ogImage:
 
 Previously, we designed guidance to tell candidates they have to do a [subject knowledge enhancement (SKE) course](/apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/) before their teacher training.
 
-We tested these designs and learnt a lot about SKE courses. Some of the findings we uncovered were about the wider SKE policy and do not fit with Apply for teacher training (Apply).
+We usability tested the designs with 7 participants, and received 232 survey responses from people who had previously received an offer for teacher training with a condition that they do an SKE course before their training started.
+
+Some of the findings we uncovered were about the wider SKE policy and the friction it was causing users of Apply for teacher training and wider. Some of the areas of friction were around:
+
+- choosing and applying to an SKE course
+- receving the funding for an SKE course
+- the content of SKE courses
 
 We wanted to capture these findings in a way that would help people empathise with candidates and providers. So, we wrote a story....
-
-We’ve added the story as a design history to share with other teams. It's purpose is to think about different ways to present research and show empathy beyond individual services.
 
 ## When Francis felt frustrated
 
