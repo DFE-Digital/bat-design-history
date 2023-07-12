@@ -143,7 +143,7 @@ It’s less than she earns as a waiter and she’s halfway through her SKE cours
 
 “Bit late, but ok”
 
-Francis fills out another form to provider her bak details.
+Francis fills out another form to provider her bank details.
 
 ![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](bank-account-details.png)
 
