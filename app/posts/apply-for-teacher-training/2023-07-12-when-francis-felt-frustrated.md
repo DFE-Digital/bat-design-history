@@ -13,7 +13,7 @@ ogImage:
 
 Previously, we designed guidance to tell candidates they have to do a [subject knowledge enhancement (SKE) course](/apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/) before their teacher training.
 
-We usability tested the designs with 7 participants, and received 232 survey responses from people who had previously received an offer for teacher training with a condition that they do an SKE course before their training started.
+We usability tested the designs with 7 participants. We also sent a survey and received 232 responses from people who had received an offer with a condition that they do an SKE course before their training started.
 
 Some of the findings we uncovered were about the wider SKE policy and the friction it was causing users of Apply for teacher training and wider. Some of the areas of friction were around:
 
