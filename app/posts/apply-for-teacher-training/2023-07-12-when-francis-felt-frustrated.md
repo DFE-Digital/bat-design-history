@@ -6,10 +6,10 @@ tags:
   - subject knowledge enhancements
 ogImage:
   src: francis-cover-image.png
-  alt: "Illustration showing a section called 'Interview availability in a task list. This screen then connects to the next screen with a question asking the user if there are any times they will not be available for interviews."
+  alt: "Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says 'When Francis felt frustrated."
 ---
 
-![Illustration showing a section called 'Interview availability in a task list. This screen then connects to the next screen with a question asking the user if there are any times they will not be available for interviews.](francis-cover-image.png)
+![Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says 'When Francis felt frustrated.](francis-cover-image.png)
 
 Previously, we designed guidance to tell candidates they have to do a [subject knowledge enhancement (SKE) course](/apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/) before their teacher training.
 
@@ -29,7 +29,7 @@ Francis has a degree in Pharmacology, and dreams of teaching chemistry and makin
 
 She applies to a secondary teacher training course in chemistry. To apply, she has to fill out a form.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](francis-applying.png)
+![Illustration of a woman sitting at a desk at her laptop. Behind her is an image of a teacher training application form. In the top right corner of the illustration there is a label that says 'Form 1'.](francis-applying.png)
 
 Francis gets an interview from a training provider called Fresh Teacher Training.  
 
@@ -39,7 +39,7 @@ Before her interview, Francis fills out a second form called a ‘subject knowle
 
 Francis starts to fret that she doesn’t know enough to teach.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](francis-subject-knowledge.png)
+![Illustration of a woman reading a book. Behind her is a form called 'Chemistry Subject Audit' in the top right corner of the illustration it says 'Form 2'.](francis-subject-knowledge.png)
 
 A recruitment officer from Fresh Teacher Training reviews Francis’ subject knowledge audit.  
 
@@ -63,7 +63,7 @@ Francis feels:
 
 Francis says “Yes” to the SKE course in the interview but feels under pressure.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](interview.png)
+![Illustration of a woman sitting at a desk looking at a laptop. Behind her is a man showing her something on the laptop.](interview.png)
 
 ## Getting a teacher training offer
 
@@ -73,7 +73,7 @@ The offer comes with the condition that Francis does a 12-week SKE course before
 
 12 weeks is all the time left before Francis starts her teacher training.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](offer-received.png)
+![Illustration of a woman looking at a laptop. The laptop is showing her the offer she's received for a teacher training course.](offer-received.png)
 
 Francis starts to fret (again):  
 
@@ -89,7 +89,7 @@ Francis accepts her offer.
 
 “Better than no offer at all!”
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](accept-offer.png)
+![Illustration of a woman sitting at a table with her laptop in front of her. Behind her it shows a page from the teacher training application form. The page shows the woman accepting an offer for teacher training.](accept-offer.png)
 
 ## Information overload
 
@@ -103,13 +103,13 @@ Francis joins some forums looking for any reviews on different SKE courses.
 
 Some reviews are fabulous, some are frightening.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](ske-directory.png)
+![Illustration showing a woman looking confused while she looks at a computer. Behind her it shows a page from the GOV.UK SKE directory.](ske-directory.png)
 
 Francis eventually chooses ExtrA Learning Trust that Fresh Teacher Training originally recommended.  
 
 She goes to the website and fills out another form.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](subject-knowledge-audit.png)
+![Illustration showing a woman hunched over a laptop looking tired. Behind her is an image of another form she has to fill out. In the top right corner of the illustration it says 'Form 3'.](subject-knowledge-audit.png)
 
 “Fiddlesticks” says Francis,  
 
@@ -125,7 +125,7 @@ They ask Francis to send her degree certificate and proof of her home fee status
 
 “Not again” says Francis.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](another-form.png)
+![Illustration of a woman looking angry and frustrated. Behind her is an image of another form she has to fill out for her SKE course. In the top right corner of the illustration it says 'Form 4'.](another-form.png)
 
 ## Starting the SKE course
 
@@ -135,7 +135,7 @@ Francis starts her SKE course online. She does it alone and mostly in the evenin
 
 Francis feels frustrated that she’s not spending enough time doing practical chemistry exercises.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](studying-at-night.png)
+![Illustration of a woman sitting at a window at night. Her laptop is balancing on her knees as she works.](studying-at-night.png)
 
 ## Surprise payment
 
@@ -147,9 +147,9 @@ It’s less than she earns as a waiter and she’s halfway through her SKE cours
 
 “Bit late, but ok”
 
-Francis fills out another form to provider her bank details.
+Francis fills out another form to provide her bank details.
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](bank-account-details.png)
+![Illustration of a woman sitting with her laptop on her lap. Behind her is an image of a form asking for her bank details. In the top right corner if the illustration it says 'Form 5'.](bank-account-details.png)
 
 It’s been 3 weeks since Francis gave her bank details. She wonders when she’ll get paid.
 
@@ -159,7 +159,7 @@ Fresh Teacher Training doesn’t know anything about the SKE bursary when she as
 
 After a few weeks, Francis suddenly receives her SKE bursary backdated from when she started, followed by more regular payments. “Phew!”
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](bursary.png)
+![Illustration of a woman who looks happy. Around her head are icons of different currencies like the dollar, pound and euro.](bursary.png)
 
 ## Time to start teacher training
 
@@ -171,7 +171,7 @@ Suddenly, the SKE bursary payments stop. She didn’t know you can’t get the b
 
  Francis feels frustrated!
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](francis-confused.png)
+![Illustration of a woman looking frustrated with her hands on her head. Around her head are icons of exclamation marks and question marks to show her frustration.](francis-confused.png)
 
 Francis makes some friends on her teacher training course. They also had to do an SKE course.  
 
@@ -183,4 +183,4 @@ Francis loves her teacher training course, but she’s relearning things she did
 
  Francis feels frustrated (again).
 
-![Screenshot showing a page with the old 'Interview needs' question with information about COVID-19 and how providers are not flexible with interview dates. The questions asl reads, 'Do you have any interview needs?'.](francis-frustrated.png)
+![Illustration of a woman looking sad and dejected.](francis-frustrated.png)
