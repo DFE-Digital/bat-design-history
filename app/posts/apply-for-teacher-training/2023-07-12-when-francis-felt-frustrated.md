@@ -17,7 +17,8 @@ We usability tested the designs with 7 participants. We also sent a survey and r
 
 Some of the findings we uncovered were about the wider SKE policy and the friction it was causing users of Apply for teacher training and wider. Some of the areas of friction were around:
 
-- choosing and applying to an SKE course
+- choosing an SKE course
+- applying for an SKE course (a separate process to applying for teacher training)
 - receving the funding for an SKE course
 - the content of SKE courses
 
