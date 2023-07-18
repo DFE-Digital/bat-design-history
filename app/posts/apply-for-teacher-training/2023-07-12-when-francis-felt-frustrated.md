@@ -13,7 +13,7 @@ ogImage:
 
 Previously, we designed guidance to tell candidates they have to do a [subject knowledge enhancement (SKE) course](/apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/) before their teacher training.
 
-We usability tested the designs with 7 participants. We also sent a survey and received 232 responses from people who had received an offer with a condition that they do an SKE course before their training started.
+We conducted usability testing the designs with 7 participants. We also sent a survey and received 232 responses from people who had received an offer with a condition that they do an SKE course before their training started.
 
 Some of the findings we uncovered were about the wider SKE policy and the friction it was causing users of Apply for teacher training and wider. Some of the areas of friction were around:
 
@@ -184,4 +184,10 @@ Francis loves her teacher training course, but she’s relearning things she did
 
  Francis feels frustrated (again).
 
+ – The End
+
 ![Illustration of a woman looking sad and dejected.](francis-frustrated.png)
+
+## Sharing our work
+
+We shared this story with other user centered design professions and with policy colleagues. The team that run the SKE policy are bringing all the research done on SKE courses (including ours) to look at improvements to the policy at various stages in a user's journey.
