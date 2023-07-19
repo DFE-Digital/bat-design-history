@@ -3,21 +3,14 @@ title: Encouraging providers to open their course to receive applications as soo
 description: We added some content to the ‘Applications open date’ question to encourage providers to open their course as soon as it’s on Find
 date: 2023-07-08
 tags:
-- applications
-- courses
-related:
-items:
-- text:
-href:
+ - applications
+ - courses
 screenshots:
 items:
-- text: Applications open date
-src: applications-open.png
-- text: Email to Publish users
-src: email-applications-open.png
-ogImage:
-src: applications-open.png
-alt: "The ‘Applications open date’ question on Publish."
+  - text: Applications open date
+     src: applications-open.png
+   - text: Email to Publish users
+    src: email-applications-open.png
 ---
 
 When a provider adds a course in Publish teacher training courses (Publish), we ask them when they would like applications to open for the course as part of the ‘Add course’ flow.
