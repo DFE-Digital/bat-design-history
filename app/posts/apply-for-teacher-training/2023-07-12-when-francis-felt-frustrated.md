@@ -1,5 +1,5 @@
 ---
-title: When Franics felt frustrated
+title: When Francis felt frustrated
 description: We developed a story about subject knowledge enhancement courses. The purpose of the story is to show how we can empathise with users by capturing their pain points in an engaging way.
 date: 2023-07-12
 tags:
