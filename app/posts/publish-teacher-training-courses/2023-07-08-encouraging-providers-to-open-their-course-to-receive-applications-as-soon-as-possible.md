@@ -26,7 +26,7 @@ We contacted 215 Publish users to ask them to confirm if the applications open d
 
 We added content to encourage users to open the course as soon as possible and included a link to an advice page explaining how recruitment cycles work.
 
-![applications-open.png](Applications open date question)
+![Screenshot of applications open date question](applications-open.png "Applications open date question")
 
 ## Further considerations
 
