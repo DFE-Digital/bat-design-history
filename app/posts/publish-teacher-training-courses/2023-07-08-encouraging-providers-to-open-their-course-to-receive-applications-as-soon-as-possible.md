@@ -5,21 +5,14 @@ date: 2023-07-08
 tags:
   - applications
   - courses
-screenshots:
- items:
-   - text: Applications open date
-     src: applications-open.png
-   - text: Email to Publish users
-     src: email-applications-open.png
 ---
 
 When a provider adds a course in Publish teacher training courses (Publish), we ask them when they would like applications to open for the course as part of the ‘Add course’ flow.
 
 They can choose from either:
 
-‘As soon as the course is on Find – recommended'
-
-‘Another date’
+- ‘As soon as the course is on Find – recommended'
+- ‘Another date’
 
 If the user selects ‘As soon as the course is on Find – recommended' we display the ‘Apply for this course’ button on Find postgraduate teacher training (Find) around a week after Find opens at the beginning of October.
 
@@ -32,6 +25,8 @@ We contacted 215 Publish users to ask them to confirm if the applications open d
 ## What we changed
 
 We added content to encourage users to open the course as soon as possible and included a link to an advice page explaining how recruitment cycles work.
+
+![applications-open.png](Applications open date question)
 
 ## Further considerations
 
