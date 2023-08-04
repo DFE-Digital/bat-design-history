@@ -33,7 +33,7 @@ We added a new line on the application card to show who updated the application.
 
 ### New notification banner
 
-A new blue notification banner added in the 'application', to show how many days ago it was updated, and a link to view the changes that takes the user to the timeline tab.
+When a training provider selects an application that's been updated, we show a new blue notification banner. We tell them how many days ago the application was updated with a link to view the changes that takes the provider to the timeline tab.
 
 ![Screenshot showing blue notification banner, 3 days ago](notification-banner-3days.png)
 
