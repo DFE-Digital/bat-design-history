@@ -19,19 +19,19 @@ This feature will be released in the 2023 to 2024 recruitment cycle which starts
 
 ## The issue
 
-The new feature in the application process now allows candidates to modify some of their information within the 'Your details' section after an application submission.
+The new feature in the application process now allows candidates to modify some of their information within the 'Your details' section after they've submitted an application.
 
-These updates need to be reflected in the Manage, so that the application changes are clearly visible to the providers.
+These updates need to be reflected in Manage so that any changes on an application are clearly visible to training providers.
 
 ## What we changed
 
 ### Application card
-We added a new line in the application card to show who updated that application, and also date and time of update.
+We added a new line on the application card to show who updated the application. We also show the date and time of the update.
 
 ![Screenshot showing updated application card in the applications tab](updated-card.png)
 
 ### New notification banner
-A new blue notification banner added in the 'application', to show how many days ago it was updated, and a link to view the changes that takes the user to the timeline tab.
+When a training provider selects an application that's been updated, we show a new blue notification banner. We tell them how many days ago the application was updated with a link to view the changes that takes the provider to the timeline tab.
 
 ![Screenshot showing blue notification banner, 3 days ago](notification-banner-3days.png)
 
@@ -40,7 +40,7 @@ A variation of the blue notification banner if it has been updated the same day.
 ![Screenshot showing blue notification banner, on the same day](banner-day-one.png)
 
 ### Timeline tab
-We also updated the timeline tab, by adding a section for 'Application updated' to show what has been updated. e.g. address or phone number.
+We also updated the timeline tab, by adding a section called 'Application updated' to show what has been updated. For example, the candidate's address or phone number.
 
 ![Screenshot showing the timeline tab](timeline.png)
 
