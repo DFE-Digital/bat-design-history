@@ -26,11 +26,13 @@ These updates need to be reflected in Manage so that any changes on an applicati
 ## What we changed
 
 ### Application card
+
 We added a new line on the application card to show who updated the application. We also show the date and time of the update.
 
 ![Screenshot showing updated application card in the applications tab](updated-card.png)
 
 ### New notification banner
+
 When a training provider selects an application that's been updated, we show a new blue notification banner. We tell them how many days ago the application was updated with a link to view the changes that takes the provider to the timeline tab.
 
 ![Screenshot showing blue notification banner, 3 days ago](notification-banner-3days.png)
@@ -40,6 +42,7 @@ A variation of the blue notification banner if it has been updated the same day.
 ![Screenshot showing blue notification banner, on the same day](banner-day-one.png)
 
 ### Timeline tab
+
 We also updated the timeline tab, by adding a section called 'Application updated' to show what has been updated. For example, the candidate's address or phone number.
 
 ![Screenshot showing the timeline tab](timeline.png)
