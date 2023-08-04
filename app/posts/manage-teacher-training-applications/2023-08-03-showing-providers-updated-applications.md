@@ -19,7 +19,7 @@ This feature will be released in the 2023 to 2024 recruitment cycle which starts
 
 ## The issue
 
-The new feature in the application process now allows candidates to modify some of their information within the 'Your details' section after an application submission.
+The new feature in the application process now allows candidates to modify some of their information within the 'Your details' section after they've submitted an application.
 
 These updates need to be reflected in the Manage, so that the application changes are clearly visible to the providers.
 
