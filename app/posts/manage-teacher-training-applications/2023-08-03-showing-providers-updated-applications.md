@@ -26,11 +26,13 @@ These updates need to be reflected in the Manage, so that the application change
 ## What we changed
 
 ### Application card
+
 We added a new line in the application card to show who updated that application, and also date and time of update.
 
 ![Screenshot showing updated application card in the applications tab](updated-card.png)
 
 ### New notification banner
+
 A new blue notification banner added in the 'application', to show how many days ago it was updated, and a link to view the changes that takes the user to the timeline tab.
 
 ![Screenshot showing blue notification banner, 3 days ago](notification-banner-3days.png)
@@ -40,6 +42,7 @@ A variation of the blue notification banner if it has been updated the same day.
 ![Screenshot showing blue notification banner, on the same day](banner-day-one.png)
 
 ### Timeline tab
+
 We also updated the timeline tab, by adding a section for 'Application updated' to show what has been updated. e.g. address or phone number.
 
 ![Screenshot showing the timeline tab](timeline.png)
