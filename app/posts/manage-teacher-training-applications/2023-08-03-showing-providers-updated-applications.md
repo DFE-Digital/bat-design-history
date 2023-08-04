@@ -1,6 +1,6 @@
 ---
-title: Showing providers updated applications
-description: We have added the ability to show providers when an application has been updated, and to see the changes in the timeline.
+title: Showing training providers when an application is updated by a candidate
+description: We have added the ability to show providers when an application has been updated and to see the changes in the timeline of an application.
 date: 2023-08-03
 tags:
   - applications
@@ -13,7 +13,7 @@ ogImage:
 
 ![Illustration showing a list of applications with the header 'Received – make a decision'. There are 5 applications in the list with each one showing the name of the candidate, the status each application is in, how long ago the application was received and 2 applications that have been updated.](showing-updated-apps.png)
 
-As part of our work to [change the application process](/apply-for-teacher-training/changing-application-process/), we decided to allow candidates to edit parts of their application form after they’ve submitted it. Most of the changes we made were in Apply for teacher training (Apply). However, we also needed to reflect some of these changes in Manage teacher training applications (Manage).
+As part of our work to [change the application process](/apply-for-teacher-training/changing-application-process/), we decided to allow candidates to edit parts of their application form after they’ve submitted it. Most of the [changes we made were in Apply for teacher training (Apply)](/apply-for-teacher-training/allowing-candidates-to-edit-application/). However, we also needed to reflect some of these changes in Manage teacher training applications (Manage).
 
 This feature will be released in the 2023 to 2024 recruitment cycle which starts in October 2023.
 
