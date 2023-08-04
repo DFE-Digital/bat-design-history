@@ -1,5 +1,5 @@
 ---
-title: Showing providers updated applications
+title: Showing training providers when an application is updated by a candidate
 description: We have added the ability to show providers when an application has been updated, and to see the changes in the timeline.
 date: 2023-08-03
 tags:
