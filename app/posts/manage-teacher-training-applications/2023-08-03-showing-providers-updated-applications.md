@@ -43,6 +43,6 @@ A variation of the blue notification banner if it has been updated the same day.
 
 ### Timeline tab
 
-We also updated the timeline tab, by adding a section for 'Application updated' to show what has been updated. e.g. address or phone number.
+We also updated the timeline tab, by adding a section called 'Application updated' to show what has been updated. For example, the candidate's address or phone number.
 
 ![Screenshot showing the timeline tab](timeline.png)
