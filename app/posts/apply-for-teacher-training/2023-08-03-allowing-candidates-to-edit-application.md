@@ -5,11 +5,11 @@ date: 2023-08-03
 tags:
   - applications
 ogImage:
-  src: journey-map-of-editing-information.png
-  alt: "Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says 'When Francis felt frustrated."
+  src: editable-sections-cover-image.png
+  alt: "Illustration showing 2 screens. 1 screen shows a section called 'Personal information' that can be edited. The section has 3 peices of information, name, date of birth and nationality. Next to each of these is a link that says 'Change. Below this is a question saying 'Have you completed this section?' with a yes or no option. The second screen is called 'English GCSE or equivalent' it has 3 peices of information, qualification type, year awarded and grade. There are no change links and below is a line of text that tells the user to contact support if they want to change the information."
 ---
 
-![Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says 'When Francis felt frustrated.](non-editable-section.png)
+![Illustration showing 2 screens. 1 screen shows a section called 'Personal information' that can be edited. The section has 3 peices of information, name, date of birth and nationality. Next to each of these is a link that says 'Change. Below this is a question saying 'Have you completed this section?' with a yes or no option. The second screen is called 'English GCSE or equivalent' it has 3 peices of information, qualification type, year awarded and grade. There are no change links and below is a line of text that tells the user to contact support if they want to change the information.](editable-sections-cover-image.png)
 
 As part of our work to [change the application process](/apply-for-teacher-training/changing-application-process/), we decided to allow candidates to edit parts of their application form after they’ve submitted it.
 
@@ -57,7 +57,7 @@ Once we had a clear understanding of how this would work, we prototyped the feat
 
 ## Sections candidates can edit
 
-When a candidate has submitted an application and wants to edit a section of the form, we show the summary page with change links. We also show the question ‘Have you completed this section?’. If the candidate says ‘Yes’ after making their edits, we will [push the updates through to Manage teacher training (Manage)] so the provider can be alerted to the change.
+When a candidate has submitted an application and wants to edit a section of the form, we show the summary page with change links. We also show the question ‘Have you completed this section?’. If the candidate says ‘Yes’ after making their edits, we will show the updates in Manage teacher training (Manage) so the training provider can be alerted to the change.
 
 ![Screenshot of the 'Personal information' summary screen which shows a users Name, Date of birth and Nationality, next to these sections is a change link so the user can edit the information. Below this is a question that says 'Have you completed this section?' with yes or no options for the user to select. Below this is a green button that says 'Continue'.](editable-section.png)
 
@@ -69,6 +69,6 @@ If a candidate wants to edit a section like ‘Qualifications’ or ‘Work hist
 
 ![Screenshot of a summary screen called 'English GCSE or equivalent'. The screen shows information like qualifitcation type, grade, year awarded and if the user is currently studying. Below this list is a line of content that tells the user to contact support if they need to edit this information.](non-editable-section.png)
 
-## Future considerations
+## Further considerations
 
 Once we release this feature, we will monitor user feedback and support tickets to see if we should allow updates to other sections of the application form.
