@@ -43,3 +43,7 @@ A variation of the blue notification banner if it has been updated the same day.
 We also updated the timeline tab, by adding a section for 'Application updated' to show what has been updated. e.g. address or phone number.
 
 ![Screenshot showing the timeline tab](timeline.png)
+
+## Further considerations
+
+We also plan to create a weekly email alert to send to providers when candidates update their applications. We decided on weekly emails because we do not want to overwhelm providers with lots of emails and we plan to monitor how often candidates update their applications.
