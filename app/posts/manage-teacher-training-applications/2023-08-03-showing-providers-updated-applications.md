@@ -27,7 +27,7 @@ These updates need to be reflected in Manage so that any changes on an applicati
 
 ### Application card
 
-We added a new line in the application card to show who updated that application, and also date and time of update.
+We added a new line on the application card to show who updated the application. We also show the date and time of the update.
 
 ![Screenshot showing updated application card in the applications tab](updated-card.png)
 
