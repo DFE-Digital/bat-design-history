@@ -1,5 +1,5 @@
 ---
-title: Improving the withdraw course page
+title: Improving the guidance when a training provider withdraws a course
 description: We added content and a link to the withdraw course page to help users better understand the implications of withdrawing a course
 date: 2023-08-07
 tags:
