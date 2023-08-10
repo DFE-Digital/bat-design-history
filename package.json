@@ -41,13 +41,13 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
-    "@rollup/plugin-commonjs": "^25.0.2",
+    "@rollup/plugin-commonjs": "^25.0.3",
     "@rollup/plugin-node-resolve": "^15.1.0",
     "accessible-autocomplete": "^2.0.3",
     "fs-extra": "^11.1.1",
-    "govuk-frontend": "^4.6.0",
+    "govuk-frontend": "^4.7.0",
     "http-server": "^14.1.1",
-    "luxon": "^3.3.0",
+    "luxon": "^3.4.0",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.6.7",
     "markdown-it-deflist": "^2.1.0",
@@ -60,7 +60,7 @@
     "markdown-it-table-of-contents": "^0.6.0",
     "node-sass": "^9.0.0",
     "npm-run-all": "^4.1.5",
-    "rollup": "^3.25.1"
+    "rollup": "^3.28.0"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.35.0",
