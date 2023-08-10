@@ -24,7 +24,7 @@ The ‘Advice from Get Into Teaching’ text box was not very informative. We im
 
 - letting candidates know that salaried courses are in high demand so they should check their eligibility with the provider and apply as soon as possible
 
-![The updated information we display in the ‘Salary’ section when a course comes with a salary](/find-teacher-training/improving-the-information-on-a-salaried-course-page/salaried-course-content-1.png)
+![The updated information we display in the ‘Salary’ section when a course comes with a salary](/find-teacher-training/improving-the-information-on-a-salaried-course-page/salaried-course-content.png)
 
 ## Future considerations
 
