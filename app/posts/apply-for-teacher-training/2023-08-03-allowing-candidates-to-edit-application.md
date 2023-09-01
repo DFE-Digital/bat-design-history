@@ -1,5 +1,5 @@
 ---
-title: Allowing candidates to edit their application form after they've submitted it
+title: Allowing candidates to edit their application form after they’ve submitted it
 description: As part of our work to change the application process, we designed a way for candidates to edit parts of their application form after they’ve submitted it. 
 date: 2023-08-03
 tags:
