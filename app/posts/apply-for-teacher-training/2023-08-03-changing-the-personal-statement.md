@@ -89,7 +89,7 @@ Once they've written their statement, they can review it and mark the section as
 
 ![Screenshot showing the review page before a candidate marks the personal statement section as complete.](master-statement-review.png)
 
-When a candidate is readyto add their applications on the ‘Your applications’ tab, we tell them they will be able to edit their personal statement.
+When a candidate is ready to add their applications on the ‘Your applications’ tab, we tell them they will be able to edit their personal statement.
 
 ![Screenshot of the 'Your applications' tab telling the candidate they will be able to edit their personal statement if they want to.](applications-edit-master-statement.png)
 
