@@ -36,7 +36,8 @@ The issue was that we were not sure if the personal statement belonged in ‘You
 
 We assumed it made more sense for the personal statement to be in ‘Your applications’ because candidate could then write a personal statement for each application.  
 
-Earlier in the year, we [merged the personal statement questions](/apply-for-teacher-training/merging-the-personal-statement/)from 2 questions into one, we also updated the guidance and word count for the personal statement. Usually, a personal statement should be between 500 to 1000 words. We worried that putting the personal statement at the end of the user journey would be unexpected for candidates who are just about to submit their application.
+Earlier in the year, we [merged the personal statement questions](/apply-for-teacher-training/merging-the-personal-statement/)
+from 2 questions into one, we also updated the guidance and word count for the personal statement. Usually, a personal statement should be between 500 to 1000 words. We worried that putting the personal statement at the end of the user journey would be unexpected for candidates who are just about to submit their application.
 
 ## What we did
 
@@ -72,7 +73,7 @@ Once the personal statement is edited, the candidate can submit their second app
 
 ![Screenshot showing the review page where a candidate can check the training provider, course and personal statement before submitting their second application.](second-personal-statement-review.png)
 
-We wanted to test if this would be helpful to candidates and make the process quicker for them. But we were not sure about copying the latest personal statement to each new application.
+We were not sure about copying the latest personal statement to each new application, so we wanted to test if this would be helpful to candidates and make the process quicker for them.
 
 ## Option 2 – the personal statement appears in ‘Your details’ and ‘Your applications’
 
@@ -88,7 +89,7 @@ Once they've written their statement, they can review it and mark the section as
 
 ![Screenshot showing the review page before a candidate marks the personal statement section as complete.](master-statement-review.png)
 
-When a candidate is readyto add their applications on the ‘Your applications’ tab, we tell them they will be able to edit their personal statement.
+When a candidate is ready to add their applications on the ‘Your applications’ tab, we tell them they will be able to edit their personal statement.
 
 ![Screenshot of the 'Your applications' tab telling the candidate they will be able to edit their personal statement if they want to.](applications-edit-master-statement.png)
 
