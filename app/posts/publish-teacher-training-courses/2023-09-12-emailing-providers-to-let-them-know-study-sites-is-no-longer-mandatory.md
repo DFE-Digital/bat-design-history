@@ -268,7 +268,7 @@ Candidates will see a list of the attached study sites in the ‘Training locati
 
 ## Future considerations
 
-For a course to be published, at least one ‘School placement’ is required. This was being used differently by different for providers. Some providers, usually the smaller organisations, know which schools they will be working with to offer school placements early on. They add the list of schools where the candidate might be placed in to do their classroom experience.
+For a course to be published, at least one ‘School placement’ is required. This was being used differently by providers. Some providers, usually the smaller organisations, know which schools they will be working with to offer school placements early on. They add the list of schools where the candidate might be placed in to do their classroom experience.
 
 However, for larger organisations, such as universities, they do not always know this information until much later in the year. When these organisations were onboarded, we collected an address from them on the Google Form and used it as the first school placement, usually called ‘Main site’. We realised this was often not a placement but could be simply the contact details for the provider. We changed the way we collect the information and made it clear that the address we collect will appear in the ‘Contact this training provider’ section on the course page.
 
