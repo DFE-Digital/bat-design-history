@@ -21,11 +21,13 @@
         prose: content
       }) }}
 
-      {% for collection in screenshots %}
-        {{ appScreenshots(collection) }}
-      {% else %}
-        {{ appScreenshots(screenshots) if screenshots }}
-      {% endfor %}
+      {% if screenshots %}
+        {% for collection in screenshots %}
+          {{ appScreenshots(collection) }}
+        {% else %}
+          {{ appScreenshots(screenshots) if screenshots }}
+        {% endfor %}
+      {% endif %}
     </div>
 
     {% if related %}

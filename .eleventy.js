@@ -46,14 +46,14 @@ module.exports = function (eleventyConfig) {
   // List of service index pages
   eleventyConfig.addCollection('services', collection => {
     return collection.getFilteredByGlob([
-      'app/posts/find-teacher-training/find-teacher-training.md',
       'app/posts/apply-for-teacher-training/apply-for-teacher-training.md',
-      'app/posts/publish-teacher-training-courses/publish-teacher-training-courses.md',
+      'app/posts/find-teacher-training/find-teacher-training.md',
       'app/posts/manage-teacher-training-applications/manage-teacher-training-applications.md',
+      'app/posts/publish-teacher-training-courses/publish-teacher-training-courses.md',
       'app/posts/register-trainee-teachers/register-trainee-teachers.md',
+      'app/posts/school-placements/school-placements.md',
       'app/posts/support-for-apply/support-for-apply.md',
-      'app/posts/support-for-publish/support-for-publish.md',
-      'app/posts/school-placements/school-placements.md'
+      'app/posts/support-for-publish/support-for-publish.md'
     ])
   })
 
@@ -78,16 +78,16 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/register-trainee-teachers/*.md')
   })
 
+  eleventyConfig.addCollection('school-placements', collection => {
+    return collection.getFilteredByGlob('app/posts/school-placements/*.md')
+  })
+
   eleventyConfig.addCollection('support-for-apply', collection => {
     return collection.getFilteredByGlob('app/posts/support-for-apply/*.md')
   })
 
   eleventyConfig.addCollection('support-for-publish', collection => {
     return collection.getFilteredByGlob('app/posts/support-for-publish/*.md')
-  })
-
-  eleventyConfig.addCollection('school-placements', collection => {
-    return collection.getFilteredByGlob('app/posts/school-placements/*.md')
   })
 
   // A collection of reference pages
@@ -100,8 +100,7 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob([
       'app/posts/apply-for-teacher-training/user-needs/*.md',
       'app/posts/manage-teacher-training-applications/user-needs/*.md',
-      'app/posts/publish-teacher-training-courses/user-needs/*.md',
-      'app/posts/school-placements/user-needs/*.md'
+      'app/posts/publish-teacher-training-courses/user-needs/*.md'
     ])
   })
 
