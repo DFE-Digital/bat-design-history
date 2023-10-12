@@ -4,8 +4,8 @@ description:
 date: 2022-04-14
 related:
   items:
-  - text: Picking courses from Publish
-    href: /register-trainee-teachers/picking-publish-courses/
+    - text: Picking courses from Publish
+      href: /register-trainee-teachers/picking-publish-courses/
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 

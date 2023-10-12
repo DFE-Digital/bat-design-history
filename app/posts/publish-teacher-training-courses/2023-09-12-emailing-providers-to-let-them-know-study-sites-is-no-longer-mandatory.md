@@ -3,9 +3,9 @@ title: Emailing providers to let them know ‘Study sites’ is no longer mandat
 description: We emailed all users to tell them they do not need to enter a study site to be able to publish a course and encouraged them to publish as soon as possible
 date: 2023-09-12
 tags:
- - study sites
- - emails
- - rollover
+  - study sites
+  - emails
+  - rollover
 ---
 
 

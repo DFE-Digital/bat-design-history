@@ -4,8 +4,8 @@ description: Improving the tools and interface our support staff use to administ
 date: 2022-09-05
 related:
   items:
-  - text: Pull request adding support user interface
-    href: https://github.com/DFE-Digital/register-trainee-teachers-prototype/pull/540
+    - text: Pull request adding support user interface
+      href: https://github.com/DFE-Digital/register-trainee-teachers-prototype/pull/540
 ---
 
 We’ve recently done some design work to improve the interface our support staff use to administer Register.
@@ -74,7 +74,7 @@ Many actions in our existing support interface are not confirmed - we’ll now m
 
 ![An index page for showing all accrediting providers. There are filters on the left, and a list of organisations on the right.](10.organisation-index.png)
 
-Like our users index, the organisation index shows all accrediting providers, with filters for type and an autocomplete to search. 
+Like our users index, the organisation index shows all accrediting providers, with filters for type and an autocomplete to search.
 
 ### Organisation page
 

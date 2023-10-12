@@ -4,10 +4,10 @@ description: A look at our ‘maintenance page’, to be used when the service i
 date: 2022-11-01
 related:
   items:
-  - text: Pull request updating our maintenance page
-    href: https://github.com/DFE-Digital/register-trainee-teachers/pull/2880
-  - text: Register’s maintenance page code
-    href: https://github.com/DFE-Digital/register-trainee-teachers/tree/main/service_unavailable_page
+    - text: Pull request updating our maintenance page
+      href: https://github.com/DFE-Digital/register-trainee-teachers/pull/2880
+    - text: Register’s maintenance page code
+      href: https://github.com/DFE-Digital/register-trainee-teachers/tree/main/service_unavailable_page
 ogImage:
   src: 1.maintenance-page-screenshot.png
   alt: Screenshot of Register’s new maintenance page

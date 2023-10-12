@@ -2,7 +2,6 @@
 title: Updating Register’s guidance pages
 description: We updated Register’s guidance pages to help different training providers find what they need quickly
 date: 2022-10-24
-
 ---
 
 We updated Register’s guidance pages to help different training providers find what they need quickly

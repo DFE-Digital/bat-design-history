@@ -3,8 +3,8 @@ title: Improving the guidance above the salaried courses text box
 description: We made some improvements to the static content on salaried course pages to make it more informative
 date: 2023-06-22
 tags:
-- salary
-- funding
+  - salary
+  - funding
 ---
 
 From the 2023 to 2024 recruitment cycle, all providers will be able to offer salaried courses. We took this opportunity to review the guidance content above the salaried courses text box in Publish teacher training courses (Publish) to see if it can be improved.
