@@ -46,6 +46,10 @@ The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a be
   {
     text: "Apply for teacher training SKE conditions",
     caption: "This celebrated the addition of subject knowledge enhancement courses as a structured offer condition. March 2023"
+  },
+  {
+    text: "Apply for teacher training Continuous applications",
+    caption: "This celebrated the launch of the continuous applications feature at the start of the 2023 to 2024 recruitment cycle. 10 October 2023"
   }]
 }) }}
 
