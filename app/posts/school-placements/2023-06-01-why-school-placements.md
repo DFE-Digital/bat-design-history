@@ -10,6 +10,8 @@ Schools play a critical role in delivering Initial Teacher Training (ITT) by pro
 
 ITT providers are responsible for organising at least two school placements for each of their trainees. Evidence shows that, over the past few years, ITT providers have found it more difficult to secure all the school placements they need. This risks England’s teacher pipeline because, without enough placements, we cannot train enough teachers.
 
+![A diagram showing the relationship between trainee teachers, ITT providers, schools and mentors](relationship-trainee-provider-school-mentor.png 'The relationship between trainee teachers, ITT providers, schools and mentors')
+
 ## Drivers behind the problem
 
 ### Impact of reforms and global events
