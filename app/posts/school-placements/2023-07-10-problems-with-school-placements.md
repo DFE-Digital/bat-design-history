@@ -8,12 +8,12 @@ tags:
   - problems
 ---
 
-During discovery, we identified several problem areas:
+During discovery, we identified four problem areas:
 
 1. reporting data
 2. mentor availability
 3. school placements market
-4. scalability
+4. scalability and standardisation
 
 ## 1. Problems with reporting data
 
@@ -24,7 +24,7 @@ During discovery, we identified several problem areas:
 The data is often incomplete because:
 
 - HESA collects data periodically, not continually.
-- Initial Teacher Training (ITT) providers don’t update data in the next submission window if it has changed.
+- ITT providers don’t update data in the next submission window if it has changed.
 - data collection isn’t mandatory
 
 1.3. Most school placement data is siloed within ITT providers and is not visible to DfE.
