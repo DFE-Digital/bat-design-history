@@ -13,7 +13,7 @@ In our previous post on the [problems with school placements](/school-placements
 1. reporting data
 2. mentor availability
 3. school placements market
-4. scalability
+4. scalability and standardisation
 
 We translated these into problem statements to give our team and stakeholders clarity and focus.
 
