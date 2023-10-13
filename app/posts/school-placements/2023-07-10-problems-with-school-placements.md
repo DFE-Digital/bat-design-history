@@ -36,9 +36,9 @@ The data is often incomplete because:
 The reforms have increased the time requirement for mentors, which includes:
 
 - 20 hours of initial training
-- 6 hours of refresher training, per year
+- 6 hours of refresher training per year
 
-2.2. Changes in ITT provider accreditation means schools have had to  change providers or change curriculum because the provider has had to partner with another provider and change their curriculum.
+2.2. Changes in ITT provider accreditation mean schools have had to change providers or curricula because the provider has had to partner with another provider and change their curriculum.
 
 2.3. Mandatory school participation in the Early Career Framework (ECF) means fewer mentors are available for ITT.
 
