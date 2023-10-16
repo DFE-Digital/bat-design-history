@@ -1,5 +1,5 @@
 ---
-title: Why school placements?
+title: Why are we working on school placements?
 description: Schools play a critical role in delivering Initial Teacher Training (ITT) by providing placements and mentors for trainee teachers, but engagement levels vary
 date: 2023-07-03
 tags:
