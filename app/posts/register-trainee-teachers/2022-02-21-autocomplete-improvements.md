@@ -4,12 +4,12 @@ description: Looking through individual improvements we’ve made to our autocom
 date: 2022-02-21
 related:
   items:
-  - text: Using analytics to understand where our autocompletes could be improved
-    href: /register-trainee-teachers/autocomplete-analytics/
-  - text: Investigating free text responses from Apply
-    href: /register-trainee-teachers/investigating-free-text-responses-from-apply/
-  - text: Autocomplete analytics dashboard (Register team members only)
-    href: https://datastudio.google.com/s/qW6s8xj8O-I
+    - text: Using analytics to understand where our autocompletes could be improved
+      href: /register-trainee-teachers/autocomplete-analytics/
+    - text: Investigating free text responses from Apply
+      href: /register-trainee-teachers/investigating-free-text-responses-from-apply/
+    - text: Autocomplete analytics dashboard (Register team members only)
+      href: https://datastudio.google.com/s/qW6s8xj8O-I
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}

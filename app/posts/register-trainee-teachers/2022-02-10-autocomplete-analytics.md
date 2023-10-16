@@ -4,10 +4,10 @@ description: An investigation in to where users struggle with our autocompletes
 date: 2022-02-10
 related:
   items:
-  - text: Investigating free text responses from Apply
-    href: /register-trainee-teachers/investigating-free-text-responses-from-apply/
-  - text: Autocomplete analytics dashboard (Register team members only)
-    href: https://datastudio.google.com/s/qW6s8xj8O-I
+    - text: Investigating free text responses from Apply
+      href: /register-trainee-teachers/investigating-free-text-responses-from-apply/
+    - text: Autocomplete analytics dashboard (Register team members only)
+      href: https://datastudio.google.com/s/qW6s8xj8O-I
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
@@ -26,7 +26,7 @@ We’ve only added the analytics to fields that are collecting non-sensitive dat
 
 * lead and employing schools
 * degree subjects
-* degree institutions&nbsp;
+* degree institutions
 * course subjects
 
 ## Event triggers

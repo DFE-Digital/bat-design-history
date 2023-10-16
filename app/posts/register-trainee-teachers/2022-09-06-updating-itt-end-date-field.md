@@ -4,11 +4,10 @@ description: Renaming the field and prompting for it to be updated so it stays u
 date: 2022-09-06
 related:
   items:
-  - text: Pull request adding renaming field
-    href: https://github.com/DFE-Digital/register-trainee-teachers-prototype/pull/556
-  - text: Pull request adding page to reinstatement flow
-    href: https://github.com/DFE-Digital/register-trainee-teachers-prototype/pull/558
-
+    - text: Pull request adding renaming field
+      href: https://github.com/DFE-Digital/register-trainee-teachers-prototype/pull/556
+    - text: Pull request adding page to reinstatement flow
+      href: https://github.com/DFE-Digital/register-trainee-teachers-prototype/pull/558
 ---
 
 We’ve made some changes to the ‘ITT end date’ field to make it more useful and accurate.

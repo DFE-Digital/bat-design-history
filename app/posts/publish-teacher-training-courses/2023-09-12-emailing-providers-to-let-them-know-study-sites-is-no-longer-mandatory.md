@@ -3,22 +3,14 @@ title: Emailing providers to let them know ‘Study sites’ is no longer mandat
 description: We emailed all users to tell them they do not need to enter a study site to be able to publish a course and encouraged them to publish as soon as possible
 date: 2023-09-12
 tags:
- - study sites
- - emails
- - rollover
+  - study sites
+  - emails
+  - rollover
 ---
-
-
-
-
-{% from "email/macro.njk" import appEmail %}
-
-
-
 
 <!-- markdownlint-disable MD001 MD025 -->
 
-
+{% from "email/macro.njk" import appEmail %}
 
 In July 2023, we rolled over courses in Publish teacher training courses (Publish) from the 2022 to 2023 recruitment cycle to the 2023 to 2024 recruitment cycle.
 
@@ -73,8 +65,6 @@ Adding as much location information as possible helps candidates understand the 
 You can add location information at any point during the recruitment cycle, even after publishing a course.
 
 We spoke to candidates using Find and many could not tell where they would need to travel to for the theoretical part of their course. We found that by splitting locations into two groups, school placements and study sites, candidates had a better understanding of where they might be training.
-
-
 
 ## Study sites
 
@@ -153,12 +143,6 @@ Candidates cannot choose which study site they will be training at – it's for 
 A school placement, found in the ‘Schools’ section in Publish, is a school that the trainee might be placed in to do classroom experience, for example. We make it clear on Find that candidates cannot choose which school they will be placed in.
 
 ^ You do not need to add lead partner information in this section – lead partners can set up their own accounts to publish and manage courses by completing this form: https://forms.office.com/e/ZUpgJKt0Qr
-
-
-
-
-
-
 
 As with study sites, school placement information is for information purposes - it helps candidates to build a picture of the course and see an example of some of the schools they might be placed in. When you add school placements in Publish teacher training courses (Publish), you can then ‘attach’ them to a course.
 
@@ -242,10 +226,6 @@ If you have any questions or need help publishing courses, contact us at becomin
 
 }) }}
 
-
-
-
-
 ## Updating the content in Publish
 
 ### School placements
@@ -273,3 +253,5 @@ For a course to be published, at least one ‘School placement’ is required. T
 However, for larger organisations, such as universities, they do not always know this information until much later in the year. When these organisations were onboarded, we collected an address from them on the Google Form and used it as the first school placement, usually called ‘Main site’. We realised this was often not a placement but could be simply the contact details for the provider. We changed the way we collect the information and made it clear that the address we collect will appear in the ‘Contact this training provider’ section on the course page.
 
 We need to consider how we can improve the way we collect location information, for both ‘Study sites’ and ‘School placements’, and how this affects other services, such as Apply for teacher training (Apply).
+
+<!-- markdownlint-enable MD001 MD025 -->

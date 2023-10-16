@@ -4,9 +4,8 @@ description: Improving ways providers can find everyone who was in training in a
 date: 2022-10-28
 related:
   items:
-  - text: Revisiting how we identify current and past trainees
-    href: /register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/
-
+    - text: Revisiting how we identify current and past trainees
+      href: /register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/
 ---
 
 Earlier this year we did some work to change how we [identified past and current trainees](/register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/). Whilst these changes largely improved working with current trainees, research with higher education institutions (HEIs) found we weren’t meeting all of their needs.
@@ -20,7 +19,7 @@ Providers have asked for help:
 * identifying ‘this year’s’ trainees
 * identifying ‘last year’s’ trainees
 
-Their common task is to find ‘this year’s’ trainees so they can export them and check their data. ‘This year’ would include all trainees added this year, as well as any trainees from prior years still in training or who withdrew or were awarded this year. This isn’t currently possible to filter to in Register. 
+Their common task is to find ‘this year’s’ trainees so they can export them and check their data. ‘This year’ would include all trainees added this year, as well as any trainees from prior years still in training or who withdrew or were awarded this year. This isn’t currently possible to filter to in Register.
 
 The data they will have sent to HESA in a collection will be similar to this group - it’s all trainees who have been in training in a given collection’s year.
 

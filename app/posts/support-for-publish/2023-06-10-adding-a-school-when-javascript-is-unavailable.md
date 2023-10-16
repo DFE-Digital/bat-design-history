@@ -8,9 +8,9 @@ tags:
 related:
   items:
     - text: Improving how users add schools in Support
-    - href: /publish-teacher-training-courses/improving-how-providers-add-schools/
+      href: /publish-teacher-training-courses/improving-how-providers-add-schools/
     - text: Improving how providers add schools
-    - href: /publish-teacher-training-courses/improving-how-providers-add-schools/
+      href: /publish-teacher-training-courses/improving-how-providers-add-schools/
 screenshots:
   items:
     - text: Finding a school - without autocomplete

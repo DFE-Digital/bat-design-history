@@ -2,7 +2,6 @@
 title: Adding support for iQTS
 description: Adding support for registering trainees studying international qualified teacher status (iQTS)
 date: 2022-10-18
-
 ---
 
 International qualified teacher status (iQTS) is a new teaching qualification currently being piloted by the DfE.
