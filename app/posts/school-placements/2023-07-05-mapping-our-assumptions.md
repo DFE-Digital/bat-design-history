@@ -54,9 +54,9 @@ We took the high-risk, unknown assumptions and collated them into categories:
 ### 4. DfE data use
 
 - The data we collect will:
-    - be enough to satisfy DfE’s needs
-    - improve planning and decision-making
-    - show gaps in ITT provision
+  - be enough to satisfy DfE’s needs
+  - improve planning and decision-making
+  - show gaps in ITT provision
 - We will know what to do with this data when we have it
 
 ### 5. Minimum service requirements
