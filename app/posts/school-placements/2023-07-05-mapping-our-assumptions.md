@@ -24,7 +24,7 @@ We then discussed each assumption and placed them on a priority matrix with cert
 
 ## Our assumptions
 
-We took the high risk, unknown assumptions and collated them into categories:
+We took the high-risk, unknown assumptions and collated them into categories:
 
 1. Collection via an alternative service
     - The Register trainee teachers (Register) team could add more fields to their service to get the data we need from schools
