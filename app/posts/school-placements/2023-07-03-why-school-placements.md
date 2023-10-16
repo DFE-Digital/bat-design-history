@@ -58,7 +58,8 @@ To successfully organise a school placement, ITT providers need to ensure that:
 
 - a trainee’s location, course subject, course age range/education phase and personal requirements match what a school and mentor can offer and/or need for their talent pipeline.
 - the placements arranged for each trainee contrast sufficiently to meet [ITT criterion C2.4](https://assets.publishing.service.gov.uk.mcas.ms/government/uploads/system/uploads/attachment_data/file/1181568/Initial_teacher_training_criteria_and_supporting_advice_2024_to_2025.pdf?McasCtx=4&McasTsid=20892).
-- trainee entry criteria, ITT curriculum, mentor training curriculum and general processes and ways of working differ between ITT providers. This makes it difficult for schools to work with multiple ITT providers, and it limits their ability to host placements and provide mentors for trainees at short notice (for example, when a pre-planned placement falls through last minute).
+
+Trainee entry criteria, ITT curriculum, mentor training curriculum and general processes and ways of working differ between ITT providers. This makes it difficult for schools to work with multiple ITT providers, and it limits their ability to host placements and provide mentors for trainees at short notice (for example, when a pre-planned placement falls through last minute).
 
 ## Barriers to addressing the problem
 
