@@ -53,7 +53,7 @@ The reforms have increased the time requirement for mentors, which includes:
 
 When providers have to look beyond their network, finding an appropriate school becomes onerous. Specific subjects (for example, modern foreign languages) and trainee needs (for example, training with a disability) compound this.
 
-If few schools are participating in ITT in an area, the problems with capacity are exacerbated.
+If only some schools are participating in ITT in an area, the problems with capacity are exacerbated.
 
 3.2. Some ITT providers need help filling their school placement capacity with suitable trainees in their area.
 
@@ -74,4 +74,4 @@ Some areas aren’t attractive to trainees. For example, the cost of living in a
 4.3. Schools struggle to respond quickly to last-minute changes in trainee or placement availability. This is because:
 
 - there is a long lead time to get agreements signed with providers
-- providers have different curriculums for for both trainees and mentors
+- providers have different curriculums for both trainees and mentors
