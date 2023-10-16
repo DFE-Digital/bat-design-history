@@ -43,8 +43,8 @@ Placement challenges exist because some providers need help filling school place
 
 ## 4. Problems with scalability and standardisation
 
-Schools need standardisation in ITT processes and mentor training to maintain partnerships with multiple ITT providers, access a broader pool of trainees, and ensure mentors' continuity even after relocation.
+Schools need to navigate the different requirements and ways of working between ITT providers.
 
-The lack of standardisation in ITT curriculum and processes hinders schools from maintaining partnerships with multiple ITT providers, limiting their access to a broader pool of trainees. It can also impact mentors’ ability to continue mentoring easily after relocation to a new school. Additionally, the absence of standardised mentor training and qualification criteria makes it challenging for mentors to continue their roles when they relocate. This inconsistency also affects schools' ability to ensure a consistent pool of qualified mentors.
+The lack of standardisation between ITT providers in ITT curriculum, mentor training curriculum and general processes hinders schools from maintaining partnerships with multiple ITT providers, limiting their access to a broader pool of trainees. It can also impact mentors’ ability to continue mentoring easily after relocation to a new school. This inconsistency also affects schools' ability to ensure a consistent pool of qualified mentors.
 
-**How might we** establish a standardised ITT curriculum, mentor training, and foster collaboration between schools and ITT providers to address these issues effectively?
+**How might we** help schools navigate differences in ITT curriculum, mentor training, and foster collaboration between schools and ITT providers to address these issues effectively?
