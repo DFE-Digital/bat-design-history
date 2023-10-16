@@ -1,7 +1,7 @@
 ---
 title: Problems with school placements
 description: During discovery, we identified several problem areas
-date: 2023-07-10
+date: 2023-07-07
 tags:
   - school placements
   - alpha
