@@ -43,9 +43,9 @@ We took the high-risk, unknown assumptions and collated them into categories:
 - Schools will share school placement data with us
 - If we mandate that schools submit data, we will not have to collect any from providers to fill any gaps
 - There are penalties for not providing the data if the service is mandatory
-- Financial incentive is enough for schools to want to share their mentor data
+- A financial incentive is enough for schools to want to share their mentor data
 - The most significant risk is that our service is not comprehensive enough to get sufficient uptake from schools and providers
-- Inferred assumption: it is okay if we do not get data from all schools
+- We can launch a service without a complete set of data
 
 ### 3. Financial incentives
 
@@ -54,9 +54,9 @@ We took the high-risk, unknown assumptions and collated them into categories:
 ### 4. DfE data use
 
 - The data we collect will:
-  - be enough to satisfy DfE’s needs
-  - improve planning and decision-making
-  - show gaps in ITT provision
+    - be enough to satisfy DfE’s needs
+    - improve planning and decision-making
+    - show gaps in ITT provision
 - We will know what to do with this data when we have it
 
 ### 5. Minimum service requirements
