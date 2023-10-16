@@ -110,17 +110,26 @@
     margin-top: govuk-spacing(2);
   }
 
+  ul,
   ol {
     @extend %govuk-list;
-    @extend %govuk-list--number;
     max-width: 40rem;
+
+    & li ul {
+      list-style-type: circle;
+
+      & li ul {
+        list-style-type: disc;
+      }
+    }
   }
 
-  ul:not([class]),
-  .table-of-contents ul {
-    @extend %govuk-list;
+  ol {
+    @extend %govuk-list--number;
+  }
+
+  ul {
     @extend %govuk-list--bullet;
-    max-width: 40rem;
   }
 
   a:not([class]) {
