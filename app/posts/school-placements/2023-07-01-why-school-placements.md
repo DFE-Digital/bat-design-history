@@ -1,9 +1,22 @@
 ---
 title: Why school placements?
+description: Schools play a critical role in delivering Initial Teacher Training (ITT) by providing placements and mentors for trainee teachers, but engagement levels vary
 date: 2023-07-01
 tags:
   - school placements
   - alpha
+related:
+  items:
+    - text: Early career framework
+      href: https://www.gov.uk/government/publications/early-career-framework
+    - text: "National Tutoring Programme: guidance for schools, 2022 to 2023"
+      href: https://www.gov.uk/government/publications/national-tutoring-programme-guidance-for-schools-2022-to-2023/national-tutoring-programme-guidance-for-schools-2022-to-2023
+    - text: "Guidance for mentors: how to support ECF-based training"
+      href: https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training
+    - text: Initial teacher training (ITT) provider guidance (PDF, 387 KB, 42 pages)
+      href: https://assets.publishing.service.gov.uk.mcas.ms/government/uploads/system/uploads/attachment_data/file/1119026/ITT_Provider_Guidance_Stage_2.pdf
+    - text: Accredited initial teacher training (ITT) providers
+      href: https://www.gov.uk/government/publications/accredited-initial-teacher-training-itt-providers
 ---
 
 Schools play a critical role in delivering Initial Teacher Training (ITT) by providing placements and mentors for trainee teachers. However, school involvement in ITT is not compulsory, and engagement levels vary.
@@ -20,7 +33,7 @@ Research shows the cumulative impact of recent reforms, initiatives, and other c
 
 #### The Covid-19 pandemic
 
-- Resources were diverted to address the disruption to schools, putting a strain on the education system and Covid-19 catch-up for pupils.
+- Resources were diverted to address the school disruption, putting a strain on the education system and Covid-19 catch-up for pupils.
 - An increased number of trainee teachers in the system led to greater demand for placements and exposed flaws in the school placements market.
 
 #### The Early Career Framework (ECF) and National Tutoring Programme
