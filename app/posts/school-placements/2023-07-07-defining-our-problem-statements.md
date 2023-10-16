@@ -1,11 +1,11 @@
 ---
 title: Defining our problem statements
-description: We translated our 4 problem areas into problem statements to give our team and stakeholders clarity and focus
+description: We translated our four problem areas into problem statements to give our team and stakeholders clarity and focus
 date: 2023-07-07
 tags:
   - school placements
   - alpha
-  - problem statements
+  - problems
 ---
 
 In our previous post on the [problems with school placements](/school-placements/problems-with-school-placements/), we outlined four problem areas:
@@ -15,13 +15,13 @@ In our previous post on the [problems with school placements](/school-placements
 3. school placements market
 4. scalability and standardisation
 
-We translated these into problem statements to give our team and stakeholders clarity and focus.
+We translated these four areas into problem statements to give our team and stakeholders clarity and focus.
 
 ## 1. Problems with reporting data
 
 DfE needs a data reporting service to help share data between School Centred Initial Teacher Training (SCITTs), Higher Education Institutions (HEIs), and the DfE.
 
-We aren't currently sharing data, so we don't have the complete picture and can't intervene when help is needed.
+We aren't sharing data, so we don't have the complete picture of school placement activity and can't intervene when help is needed.
 
 **How might we** create a data reporting service so stakeholders can report complete placement data using standardised and easily accessible platforms?
 
@@ -45,6 +45,6 @@ Placement challenges exist because some providers need help filling school place
 
 Schools need standardisation in ITT processes and mentor training to maintain partnerships with multiple ITT providers, access a broader pool of trainees, and ensure mentors' continuity even after relocation.
 
-The lack of standardisation in ITT curriculum and processes hinders schools from maintaining partnerships with multiple ITT providers, limiting their access to a broader pool of trainees. Additionally, the absence of standardised mentor training and qualification criteria makes it challenging for mentors to continue their roles when they relocate. This inconsistency also affects schools' ability to ensure a consistent pool of qualified mentors.
+The lack of standardisation in ITT curriculum and processes hinders schools from maintaining partnerships with multiple ITT providers, limiting their access to a broader pool of trainees. It can also impact mentors’ ability to continue mentoring easily after relocation to a new school. Additionally, the absence of standardised mentor training and qualification criteria makes it challenging for mentors to continue their roles when they relocate. This inconsistency also affects schools' ability to ensure a consistent pool of qualified mentors.
 
 **How might we** establish a standardised ITT curriculum, mentor training, and foster collaboration between schools and ITT providers to address these issues effectively?
