@@ -26,23 +26,25 @@ In this part of the experiment, we wanted to address problem statement 2, [probl
 >
 > **How might we** support providers to find enough mentors to maximise trainee capacity?
 
-
 ## What we did
 
 ### Experiment goals
 
-The experiment had two goals:
+The experiment had 2 goals:
 
 - general fact-finding about school placements
 - understanding how a provider might find a school placement
 
 #### General fact-finding about school placements
 
-General overview of their role, their organisation and their partner school network. A run-through of their pain points, core needs, and any specific challenges they face.
+The fact-finding part of the research included:
+
+- a general discussion about the participant’s role, their organisation and their partner school network
+- a run-through of their pain-points, core needs and any specific challenges they face with school placements
 
 #### Understanding how a provider might find a school placement
 
-Taking the provider through the journey of how they could search for a placement based on chosen criteria.
+Taking the research through a prototype journey of how they could search for a placement based on chosen criteria.
 
 ### How the prototype works
 
@@ -137,9 +139,45 @@ If a user selects the ‘secondary’ age group, we show a list of secondary sub
 
 ![Image showing the list of school placements page](experiment-1-find-placement--results.png 'List of school placements')
 
-#### School placements details
+Once the user has selected their location, subject level and subject, we show them a list of relevant school placements.
+
+The list page includes:
+
+- filters
+- a list of individual placements
+- pagination - if the list contains greater than 20 items
+
+The filter panel includes example ‘contrast factors’:
+
+- age group
+- gender
+- admissions policy
+
+‘Contrast factors’ allow ITT providers to filter the type of school placement and focus the results on what they need.
+
+The filters in the filter panel correspond to the information displayed in the individual school placement list item.
+
+An individual placement item on the list includes:
+
+- school name
+- subject
+- age range
+- gender
+- class size
+
+#### School placement details
 
 ![Image showing school placement details page](experiment-1-find-placement--details.png 'School placement details')
+
+Selecting the school name or subject in the individual school placement list items takes the user to the school placement details page.
+
+The school placement details page includes:
+
+- school name
+- subject
+- a summary list containing age range, gender and class size
+- contact details
+- information about training with disabilities and other needs
 
 ### Further considerations
 

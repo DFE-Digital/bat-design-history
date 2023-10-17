@@ -30,18 +30,21 @@ In this part of the experiment, we wanted to address problem statement 1, [probl
 
 ### Experiment goals
 
-The experiment had two goals:
+The experiment had 2 goals:
 
 - general fact-finding about school placements
 - understanding how a school might advertise a school placement
 
 #### General fact-finding about school placements
 
-General overview of their role, their organisation and their partner school network. A run-through of their pain points, core needs, and any specific challenges they face.
+The fact-finding part of the research included:
+
+- a general discussion about the participant’s role, their organisation and their ITT provider relationships
+- a run-through of their pain-points, core needs and any specific challenges they face with school placements
 
 #### Understanding how a school might advertise a school placement
 
-Taking the provider through how a school could post an opening for a placement for providers to view.
+Taking the participant through a prototype journey to show how a school could post an opening for a placement for ITT providers to view.
 
 
 ### How the prototype works
@@ -223,7 +226,6 @@ Showing middle years for both subject levels
 Inputting desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools would do. Training pattern is defined by the university or SCITT.
 
 Inputting the subject 'class size' wouldn't be a helpful field as this would vary between classes and schools. The trainee will be teaching various class sizes within a subject, it is not a static figure
-
 
 ## Next steps
 
