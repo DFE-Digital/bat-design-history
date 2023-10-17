@@ -9,16 +9,25 @@ related:
   items:
     - text: Adding school placements if you’re a school
       href: /school-placements/experiment-1-adding-school-placements-if-youre-a-school/
+    - text: Defining our problem statements
+      href: /school-placements/defining-our-problem-statements/
 ---
 
-[Preamble]
-
-## What we did
-
-This post is the second of two parts:
+This post is the second of 2 parts:
 
 1. [Adding school placements if you’re a school](/school-placements/experiment-1-adding-school-placements-if-youre-a-school/)
 2. Finding school placements if you’re an ITT provider
+
+In this part of the experiment, we wanted to address problem statement 2, [problems with mentor availability](/school-placements/defining-our-problem-statements/#2.-problems-with-mentor-availability):
+
+> Providers need high-quality mentors for their Initial Teacher Training (ITT) trainees.
+>
+> They need help finding mentors within their networks, limiting how many trainees they can recruit.
+>
+> **How might we** support providers to find enough mentors to maximise trainee capacity?
+
+
+## What we did
 
 ### Experiment goals
 

@@ -9,23 +9,24 @@ related:
   items:
     - text: Finding school placements if you’re an ITT provider
       href: /school-placements/experiment-1-finding-school-placements-if-youre-a-provider/
+    - text: Defining our problem statements
+      href: /school-placements/defining-our-problem-statements/
 ---
 
-Finding unmnet ITT capacity eg Schools that have capacity but it isn't being harnessed / Providers needing to find schools to place trainees they can't fulfil within their current network
-
-Unmet capacity
-Difficult to place subjects
-
-Schools being able to connect with new providers if they wish to continue ITT
-
-'A placement need temporary advertisment'
-
-## What we did
-
-This post is the first of two parts:
+This post is the first of 2 parts:
 
 1. Adding school placements if you’re a school
-2. [Finding school placements if you’re an ITT provider](/school-placements/experiement-1-finding-school-placements-if-youre-a-provider/)
+2. [Finding school placements if you’re an ITT provider](/school-placements/experiment-1-finding-school-placements-if-youre-a-provider/)
+
+In this part of the experiment, we wanted to address problem statement 1, [problems with reporting data](/school-placements/defining-our-problem-statements/#1.-problems-with-reporting-data):
+
+> DfE needs a data reporting service to help share data between School Centred Initial Teacher Training (SCITTs), Higher Education Institutions (HEIs), and the DfE.
+>
+> We aren’t sharing data, so we don’t have the complete picture of school placement activity and can’t intervene when help is needed.
+>
+> **How might we** create a data reporting service so stakeholders can report complete placement data using standardised and easily accessible platforms?
+
+## What we did
 
 ### Experiment goals
 
