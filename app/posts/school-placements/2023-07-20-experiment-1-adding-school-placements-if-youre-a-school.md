@@ -7,8 +7,8 @@ tags:
   - alpha
 related:
   items:
-    - text: Finding school placements if you’re a provider
-      href: /school-placements/finding-school-placements-if-youre-a-provider/
+    - text: Finding school placements if you’re an ITT provider
+      href: /school-placements/experiment-1-finding-school-placements-if-youre-a-provider/
 ---
 
 Finding unmnet ITT capacity eg Schools that have capacity but it isn't being harnessed / Providers needing to find schools to place trainees they can't fulfil within their current network
@@ -22,16 +22,28 @@ Schools being able to connect with new providers if they wish to continue ITT
 
 ## What we did
 
+This post is the first of two parts:
+
+1. Adding school placements if you’re a school
+2. [Finding school placements if you’re an ITT provider](/school-placements/experiement-1-finding-school-placements-if-youre-a-provider/)
+
 ### Experiment goals
 
-General fact-finding and validation
+The experiment had two goals:
+
+- general fact-finding about school placements
+- understanding how a school might advertise a school placement
+
+#### General fact-finding about school placements
+
 General overview of their role, their organisation and their partner school network. A run-through of their pain points, core needs, and any specific challenges they face.
 
-Act of school posting a placement
+#### Understanding how a school might advertise a school placement
+
 Taking the provider through how a school could post an opening for a placement for providers to view.
 
 
-### How it works
+### How the prototype works
 
 ![Add a school placement flow](experiment-1-add-school-placements-flow.png 'Add a school placement flow')
 
@@ -50,10 +62,11 @@ Selecting ‘Add placement’ takes the user to the start of the flow.
 
 ![Image showing the subject level question](experiment-1-add-placement--subject-level.png 'Subject level question')
 
-The question has 2 options:
+The question has 3 options:
 
 - primary
 - secondary
+- further education
 
 We do not default the question to a specific answer.
 
@@ -71,7 +84,7 @@ Users can only select one subject.
 
 ![Image showing the primary subject specialism question](experiment-1-add-placement--subject-primary.png 'Primary subject specialism question')
 
-If the user has selected the ‘Primary’ subject level, we show:
+If the user has selected the ‘Primary’ subject level, we show primary subject options:
 
 - Primary
 - Primary with English
@@ -83,7 +96,7 @@ If the user has selected the ‘Primary’ subject level, we show:
 
 ![Image showing the secondary subject question](experiment-1-add-placement--subject-secondary.png 'Secondary subject question')
 
-If the user has selected the ‘Secondary’ subject level, we show:
+If the user has selected the ‘Secondary’ subject level, we show secondary subject options:
 
 - Ancient Greek
 - Ancient Hebrew
@@ -159,15 +172,33 @@ If the user has not answered the question, we show an error message:
 
 ![Image showing the class size question](experiment-1-add-placement--class-size.png 'Class size question')
 
+We show a small text input for class size.
+
+If the user has not answered the question, we show an error message:
+
+> Enter a class size
+
 #### Training pattern
 
-![Image showing the training pattern question](experiment-1-add-placement--class-size.png 'Training pattern question')
+![Image showing the training pattern question](experiment-1-add-placement--training-pattern.png 'Training pattern question')
+
+We show 5 options for the training pattern, which correspond to the days of the week:
+
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+
+If the user has not answered the question, we show an error message:
+
+> Select a training pattern
 
 #### Check your answers
 
 ![Image showing the check your answers page](experiment-1-add-placement--check-your-answers.png 'Check your answers page')
 
-The final step is to check your answers. The user can change:
+The final step is the ‘Check your answers’ page. The user can change:
 
 - subject level
 - subject
