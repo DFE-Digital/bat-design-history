@@ -127,16 +127,18 @@ The 'becoming a teacher' services are part of a broader range of digital service
   "developYourPractice": {
     "teachers": [
       {
-        "name": "Register for a National Professional Qualification",
+        "name": "Register for a national professional qualification",
         "href": "https://register-national-professional-qualifications.education.gov.uk"
       },
       {
-        "name": "Find and compare schools",
+        "name": "Find school and college performance data in England",
         "href": "https://www.gov.uk/school-performance-tables"
-      },
+      }
+    ],
+    "providers": [
       {
-        "name": "Professional development for teachers and leaders",
-        "href": "https://professional-development-for-teachers-leaders.education.gov.uk"
+        "name": "Find a teaching school hub",
+        "href": "https://find-a-teaching-school-hub.education.gov.uk"
       }
     ]
   },
