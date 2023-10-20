@@ -20,33 +20,31 @@ This post is the second of 2 parts:
 
 In this part of the experiment, we wanted to address problem statement 2, [problems with mentor availability](/school-placements/defining-our-problem-statements/#2.-problems-with-mentor-availability):
 
-> Providers need high-quality mentors for their Initial Teacher Training (ITT) trainees.
+> Providers need high-quality mentors for Initial Teacher Training (ITT) trainees.
 >
 > They need help finding mentors within their networks, limiting how many trainees they can recruit.
 >
 > **How might we** support providers to find enough mentors to maximise trainee capacity?
 
-## What we did
-
-### Experiment goals
+## Experiment goals
 
 The experiment had 2 goals:
 
 - general fact-finding about school placements
 - understanding how a provider might find a school placement
 
-#### General fact-finding about school placements
+### General fact-finding about school placements
 
 The fact-finding part of the research included:
 
 - a general discussion about the participant’s role, their organisation and their partner school network
-- a run-through of their pain-points, core needs and any specific challenges they face with school placements
+- a run-through of their pain points, core needs and any specific challenges they face with school placements
 
-#### Understanding how a provider might find a school placement
+### Understanding how a provider might find a school placement
 
-Taking the research through a prototype journey of how they could search for a placement based on chosen criteria.
+Taking the participant through a prototype journey of how they could search for a placement based on chosen criteria.
 
-### How the prototype works
+## How the prototype works
 
 ![Find a school placement flow](experiment-1-find-school-placements-flow.png 'Find a school placement flow')
 
@@ -58,15 +56,15 @@ Finding a school placement has 5 steps:
 4. View a list of school placements
 5. View an individual school placement
 
-#### Find school placements by location or by school
+### Find school placements by location or by school
 
 ![Image showing find school placements by location or by school page](experiment-1-find-placement--school-or-location.png 'Find school placements by location or by school')
 
-We display the list of locations in an autocomplete. The Google Places API provides locations.
+We display the list of locations in an autocomplete. We populate the list of places using the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview).
 
-We display the list of schools in an autocomplete. We populate the schools list from Get information about schools (GIAS) data.
+We display the list of schools in an autocomplete. We populate the list of schools from [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
 
-#### Age group
+### Age group
 
 ![Image showing age group question](experiment-1-find-placement--age-group.png 'Age group question')
 
@@ -76,15 +74,21 @@ The question has 3 options:
 - secondary
 - further education
 
-#### Subject
+If the user has not answered the question, we show an error message:
+
+> Select an age group
+
+### Subject
 
 We show a list of subjects depending on the age group previously selected.
 
 Users must select at least one subject.
 
+#### Primary subject specialism
+
 ![Image showing primary subject specialism question](experiment-1-find-placement--subject-primary.png 'Primary subject specialism question')
 
-If a user selects the ‘primary’ age group, we show a list of primary subject specialisms. These include:
+We show a list of primary subject specialisms if a user selects the ‘primary’ age group. These include:
 
 - Primary
 - Primary with English
@@ -94,9 +98,11 @@ If a user selects the ‘primary’ age group, we show a list of primary subject
 - Primary with physical education
 - Primary with science
 
+#### Secondary subject
+
 ![Image showing secondary subject question](experiment-1-find-placement--subject-secondary.png 'Secondary subject question')
 
-If a user selects the ‘secondary’ age group, we show a list of secondary subjects. These include:
+We show a list of secondary subjects if a user selects the ‘secondary’ age group. These include:
 
 - Ancient Greek
 - Ancient Hebrew
@@ -135,7 +141,11 @@ If a user selects the ‘secondary’ age group, we show a list of secondary sub
 - Social sciences
 - Spanish
 
-#### List of school placements
+If the user has not answered the question, we show an error message:
+
+> Select a subject
+
+### List of school placements
 
 ![Image showing the list of school placements page](experiment-1-find-placement--results.png 'List of school placements')
 
@@ -165,7 +175,7 @@ An individual placement item on the list includes:
 - gender
 - class size
 
-#### School placement details
+### School placement details
 
 ![Image showing school placement details page](experiment-1-find-placement--details.png 'School placement details')
 
@@ -179,17 +189,41 @@ The school placement details page includes:
 - contact details
 - information about training with disabilities and other needs
 
-### Further considerations
+## Further considerations
 
-[Describe what we didn't do and why.]
+We considered some changes that we did not implement. These included:
 
-Reconciling age group, subject level and education phase
+- whether the service is behind a DfE Sign-in screen
+- skipping questions if we already know the answer - for example, age group
 
 ## What we found
 
-[Describe research findings.]
+### Using GIAS to find new placements
 
-Users saw value in being able to search for placement capacity within certain difficult-to-place subjects. For example, modern foreign languages
+ITT providers often use GIAS to generate a list of schools to place a trainee. Downloading data from GIAS and finding the correct person to contact is arduous, slowing down a provider’s ability to place trainees quickly and easily.
+
+### ITT provider-school partnerships
+
+ITT providers must establish whether the partnership is viable when they partner with a school.
+
+Once providers and schools decide the partnership is viable, they carry out an onboarding process. Onboarding is a process that takes time, and providers prefer to do this off-service.
+
+Not all provider curricula are the same. As part of the onboarding process, providers must train school-based mentors in their curriculum before the mentor and school can host trainees.
+
+These constraints mean we cannot have a ‘Place trainee’ action on the ‘School placement details’ page.
+
+### Mentor details are important
+
+Mentor details are essential for ITT providers when arranging placements because it allows them to:
+
+- keep accurate information on who is mentoring their trainees
+- find new placement schools to work with
+
+ITT providers often ask schools to share their mentors’ details. Showing them in service has significant utility.
+
+### Difficult to place subjects
+
+Participants saw value in being able to search for placement capacity within certain difficult-to-place subjects—for example, modern foreign languages.
 
 ## Next steps
 
