@@ -38,7 +38,7 @@ Finding a mentor has 5 steps:
 4. View a list of mentors
 5. View an individual mentor
 
-###  Find a mentor by location or by school
+### Find a mentor by location or by school
 
 ![Image showing find a mentor by location or by school page](experiment-4-find-mentors--school-or-location.png 'Find a mentor by location or by school')
 
@@ -153,6 +153,7 @@ An individual mentor item on the list includes:
 
 
 [Show iteration of the results filters - ‘Contrast factors’ between experiments 1, 2 and 4]
+
 ### Mentor details
 
 ![Image showing mentor details page](experiment-4-find-mentors--details.png 'Mentor details')
@@ -163,6 +164,7 @@ The school placement details page includes:
 
 
 [Show iteration of the summary details between experiments 1, 2 and 4]
+
 ## Further considerations
 
 [Describe what we didn't do and why.]
