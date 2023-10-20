@@ -123,6 +123,7 @@ On this intermediate check your answers page, the user can change:
 The question includes a list of all primary subjects specialisms providers can use to create courses on Publish.
 
 We also include a ‘none’ options.
+
 ### Which secondary subjects are hard to find placements for?
 
 ![Image showing the secondary subjects question it’s difficult to find placements for](experiment-3-report-information--difficulties-subjects-secondary.png 'Question page: Which secondary subjects are hard to find placements for?')
@@ -130,6 +131,7 @@ We also include a ‘none’ options.
 The question includes a list of all secondary subjects providers can use to create courses on Publish.
 
 We also include a ‘none’ option.
+
 ### What are the biggest challenges for you in managing ITT?
 
 ![Image showing the question “What are the biggest challenges for you in managing ITT?”](experiment-3-report-information--challenges.png 'Question page: What are the biggest challenges for you in managing ITT?')
