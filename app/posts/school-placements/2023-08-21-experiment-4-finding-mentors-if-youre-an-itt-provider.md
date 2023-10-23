@@ -1,6 +1,6 @@
 ---
 title: "Experiment 4: Finding mentors if you’re an ITT provider"
-description: XXXX
+description: We iterated our second experiment, exploring how providers might find information about mentors
 date: 2023-08-21
 tags:
   - school placements
@@ -13,18 +13,33 @@ related:
       href: /school-placements/experiment-2-iterating-what-we-show-to-itt-providers-when-they-search-for-school-placements/
 ---
 
-[Preamble]
+In this experiment, we again addressed problem statement 2, [problems with mentor availability](/school-placements/defining-our-problem-statements/#2.-problems-with-mentor-availability):
+
+> Providers need high-quality mentors for Initial Teacher Training (ITT) trainees.
+>
+> They need help finding mentors within their networks, limiting how many trainees they can recruit.
+>
+> **How might we** support providers to find enough mentors to maximise trainee capacity?
+
+This is the third iteration in our approach to ‘Finding a school placement’.
 
 ## Experiment goals
 
-The experiment had X goals:
+The experiment had 2 goals:
 
-- GOAL 1
-- GOAL 2
+- general fact-finding about mentors
+- understanding how a provider might find a mentor
 
-### Goal 1
+### General fact-finding about mentors
 
-### Goal 2
+The fact-finding part of the research included:
+
+- a general discussion about the participant’s role, their organisation and their partner school network
+- a run-through of their pain points, core needs and any specific challenges they face with finding mentors
+
+### Understanding how a provider might find a mentor
+
+Taking the research through a prototype journey of how they could search for a mentor based on chosen criteria.
 
 ## How the prototype works
 
@@ -38,7 +53,7 @@ Finding a mentor has 5 steps:
 4. View a list of mentors
 5. View an individual mentor
 
-### Find a mentor by location or by school
+###  Find a mentor by location or by school
 
 ![Image showing find a mentor by location or by school page](experiment-4-find-mentors--school-or-location.png 'Find a mentor by location or by school')
 
@@ -137,22 +152,60 @@ The list page includes:
 - a list of individual mentors
 - pagination - if the list contains greater than 20 items
 
+#### Filters
+
 The filter panel includes example ‘contrast factors’:
 
-- FACTOR 1
-- FACTOR 2
-- FACTOR 3
+- age range
+- key stage
+- gender
+- school type
+- religious character
+- SEND provision
+- Ofsted rating
+- admissions policy
+- ECF training
+
+We used data from GIAS to populate the school type, religious character, SEND provision and admissions policy filters.
 
 ‘Contrast factors’ allow ITT providers to filter the type of mentors and focus the results on what they need.
 
 The filters in the filter panel correspond to the information displayed in the individual mentor list item.
 
-An individual mentor item on the list includes:
+[Show iteration of the results filters - ‘Contrast factors’ between experiments 2 and 4]
 
-[Show iteration of the results list item between experiments 1, 2 and 4]
+#### List item
 
+We separated the search results item into two parts:
 
-[Show iteration of the results filters - ‘Contrast factors’ between experiments 1, 2 and 4]
+- school details
+- mentor details
+
+WHY?
+
+The school details include:
+
+- school name
+- subject
+- age range
+- key stage
+- school type
+- school gender
+- religious character
+- Ofsted rating
+- admissions policy
+
+The mentor details include:
+
+- mentor name
+- years mentoring
+- years teaching
+- which providers they trained with
+- ECF training
+
+The search results list item has changed extensively between experiments 2 and 4.
+
+![Image showing the change in search results content and layout between experiments 2 and 4](experiment-4-progression--search-result-item.png 'The change in search results content and layout between experiments 2 and 4')
 
 ### Mentor details
 
@@ -160,10 +213,71 @@ An individual mentor item on the list includes:
 
 Selecting the school name or subject in the individual school placement list items takes the user to the school placement details page.
 
-The school placement details page includes:
+The mentor details page is split into two sections:
 
+- mentor details
+- school details
 
-[Show iteration of the summary details between experiments 1, 2 and 4]
+#### Mentor details
+
+The mentor details are split into two further sections:
+
+- general mentor information
+- lead mentor information
+
+The general mentor information includes:
+
+- mentor name
+- years teaching
+- years mentoring
+- ITT provider training
+- ECF training
+
+The lead mentor information includes:
+
+- mentor name
+- email address
+
+Lead mentors are also known as:
+
+- ITT coordinator
+- ITT lead
+
+In the future, we must evaluate which term is the most appropriate for all our ITT providers and schools.
+
+#### School details
+
+The school details are split into two further sections:
+
+- contrast factors
+- contact details
+
+The contrast factors include:
+
+- age range
+- key stage
+- school type
+- school gender
+- religious character
+- Ofsted rating
+- admissions policy
+
+The contact details include:
+
+- email address
+- telephone number
+- website
+- address
+
+#### Iteration of the mentor details page
+
+![Image showing the change in the details page content and layout between experiments 2 and 4](experiment-4-progression--details-page.png 'The change in the details page content between experiments 2 and 4')
+
+The mentor details page has changed significantly between experiments 2 and 4. We have:
+
+- split the page between mentor content and school content
+- removed the section called ‘training with disabilities and other needs’
+- updated the information we display about a school (the ‘contrast factors’) and the mentor.
 
 ## Further considerations
 
