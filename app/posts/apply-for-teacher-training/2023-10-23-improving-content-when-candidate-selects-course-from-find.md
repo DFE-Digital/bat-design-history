@@ -47,8 +47,6 @@ We realised this content is very old and uses an old ‘warning’ pattern.
 
 Some of the content did not follow the GOV.UK style guidelines and there were no clear calls to action on what candidates could do to fix the issue.
 
-
-
 ![Screenshot of a red warning banner with content saying 'You have already selected a course.](old-warning-already-selected-course.png)
 
 The new content is:
@@ -56,6 +54,10 @@ The new content is:
 ‘You have already added an application for Primary (Y068). Find a different course to apply to.’
 
 This content helps the user fix the issue by giving them a call to action that links back to Find.
+
+![Screenshot of a red warning banner with content saying 'You have already selected a course.](new-warning-already-added-application.png)
+
+The second warning banner also did not tell users how to fix the issue.
 
 ![Screenshot of a red warning banner with content saying 'You cannot apply to a course because you already have applied to the maximum number of courses.](old-warning-too-many-choices.png)
 
@@ -69,13 +71,13 @@ This content helps the user fix the issue by telling them how to get another app
 
 The new content is:
 
-__There is a problem__
+__‘There is a problem__
 
 We could not find the course you’re looking for. There may be a problem with the training provider or the course.
 
-Try selecting the course again or find a different course to apply to.
+Try selecting the course again or find a different course to apply to.’
 
-This content helps the user on to the next step eve though the issue is likely a technical one.
+This content helps the user on to the next step even though the issue is likely a technical one.
 
 ## Further considerations
 
