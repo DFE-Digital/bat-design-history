@@ -71,7 +71,7 @@ This content helps the user fix the issue by telling them how to get another app
 
 The new content is:
 
-__‘There is a problem__
+###‘There is a problem
 
 We could not find the course you’re looking for. There may be a problem with the training provider or the course.
 
