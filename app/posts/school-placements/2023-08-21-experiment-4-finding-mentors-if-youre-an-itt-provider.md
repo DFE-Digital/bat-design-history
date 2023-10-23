@@ -53,7 +53,7 @@ Finding a mentor has 5 steps:
 4. View a list of mentors
 5. View an individual mentor
 
-###  Find a mentor by location or by school
+### Find a mentor by location or by school
 
 ![Image showing find a mentor by location or by school page](experiment-4-find-mentors--school-or-location.png 'Find a mentor by location or by school')
 
