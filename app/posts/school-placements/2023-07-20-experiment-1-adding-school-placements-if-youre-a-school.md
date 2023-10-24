@@ -44,10 +44,9 @@ The fact-finding part of the research included:
 
 Taking the participant through a prototype journey to show how a school could post an opening for a placement for ITT providers to view.
 
-
 ## How the prototype works
 
-![Add a school placement flow](experiment-1-add-school-placements-flow.png 'Add a school placement flow')
+![Image showing the flow diagram for adding a school placement](experiment-1-add-school-placements-flow.png 'Add a school placement flow')
 
 Adding a school placement has 6 steps:
 
@@ -252,7 +251,7 @@ Schools may be able to mentor trainees in an academic cycle, but they don’t ha
 
 Schools and their partner providers negotiate the numbers and types of trainees they can mentor each recruitment cycle.
 
-Schools might have spare capacity in some cases because their partner providers don’t offer courses in subjects the school has mentors for.
+Schools might sometimes have spare capacity because their partner providers don’t offer courses in subjects the school has mentored for.
 
 ### Mentor details are important
 
@@ -269,16 +268,12 @@ Storing mentor information in one place, as a single source of truth, has a lot 
 
 ### Training pattern
 
-Entering the desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools do.
+Entering the desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools do. Although this may have utility when partnering with several providers or being open to doing so, at present, it isn’t behaviour schools are used to.
 
-The ITT provider defines the trainees' training pattern.
+The ITT provider defines the trainees' training pattern as this is derived from their courses. A placement school must agree to these parameters when partnering with a provider, but these terms will be discussed during onboarding.
 
 ### Class size
 
 Entering the subject 'class size' isn’t helpful as this would vary between classes and schools.
 
 Trainees will teach various class sizes within a subject, depending on the school demographics.
-
-## Next steps
-
-[Describe what we will do next - leads into a subsequent experiment/fact-find.]

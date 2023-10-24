@@ -42,11 +42,11 @@ The fact-finding part of the research included:
 
 ### Understanding how a provider might find a school placement
 
-Taking the participant through a prototype journey of how they could search for a placement based on chosen criteria.
+We showed participants a prototype journey of how they could search for a placement based on chosen criteria.
 
 ## How the prototype works
 
-![Find a school placement flow](experiment-1-find-school-placements-flow.png 'Find a school placement flow')
+![Image showing the flow diagram for finding a school placement](experiment-1-find-school-placements-flow.png 'Find a school placement flow')
 
 Finding a school placement has 5 steps:
 
@@ -227,4 +227,8 @@ Participants saw value in being able to search for placement capacity within cer
 
 ## Next steps
 
-[Describe what we will do next - leads into a subsequent experiment/fact-find.]
+Mentors are essential to a placement (the others being school and time).
+
+Showing a mentor’s availability is helpful information for ITT providers to know so they can decide which schools to contact when placing a trainee.
+
+Since mentors also have teaching commitments and different work patterns, it is helpful for a school to set the availability of a mentor for a specific placement.
