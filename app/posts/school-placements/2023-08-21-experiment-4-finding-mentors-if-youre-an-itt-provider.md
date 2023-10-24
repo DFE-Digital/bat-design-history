@@ -1,15 +1,15 @@
 ---
 title: "Experiment 4: Finding mentors if you’re an ITT provider"
-description: We iterated our second experiment to explore how providers might find information about mentors
+description: We iterated our second experiment, exploring how providers might find information about mentors
 date: 2023-08-21
 tags:
   - school placements
   - alpha
 related:
   items:
-    - text: "Experiment 1: Finding school placements if you’re an ITT provider"
+    - text: "Experiment 1b: Finding school placements if you’re an ITT provider"
       href: /school-placements/experiment-1-finding-school-placements-if-youre-an-itt-provider/
-    - text: "Experiment 2: Iterating what we show to ITT providers when they search for school placements"
+    - text: "Experiment 2b: Iterating what we show to ITT providers when they search for school placements"
       href: /school-placements/experiment-2-iterating-what-we-show-to-itt-providers-when-they-search-for-school-placements/
 ---
 
@@ -203,11 +203,17 @@ The mentor details include:
 - which providers they trained with
 - ECF training
 
+#### Iteration of search results page
+
 The search results list item has changed extensively between experiments 2 and 4.
 
 ![Image showing the change in search results content and layout between experiments 2 and 4](experiment-4-progression--search-result-item.png 'The change in search results content and layout between experiments 2 and 4')
 
-### Mentor details
+We also changed the search results filters between experiments 2 and 4 to reflect the changes in the content we show on the search results list items.
+
+![Image showing the change in search results filters between experiments 2 and 4](experiment-4-progression--search-results-filters.png 'The change in search results filters between experiments 2 and 4')
+
+### Mentor details page
 
 ![Image showing mentor details page](experiment-4-find-mentors--details.png 'Mentor details')
 
@@ -285,7 +291,13 @@ The mentor details page has changed significantly between experiments 2 and 4. W
 
 ## What we found
 
-[Describe research findings.]
+When asking schools about their mentors, providers often get a generic list back and don't know who the mentors are.
+
+When asking schools about their mentors, schools can take a varying amount of time to respond, which affects planning placements.
+
+Participants said our proposed service could reduce administration time and disparate email contact.
+
+A lead mentor explained that our proposed service could help filter out requests on placements their school can't fulfil – for example, a subject they don’t have a mentor for.
 
 ## Next steps
 
