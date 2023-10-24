@@ -1,6 +1,6 @@
 ---
 title: "Experiment 2: Iterating what we show to ITT providers when they search for school placements"
-description: We iterated our first experiment exploring how providers might find information about school placements
+description: We iterated our first experiment to explore how providers might find information about school placements
 date: 2023-07-27T12:01:00+00:00
 tags:
   - school placements
@@ -13,8 +13,6 @@ related:
       href: /school-placements/experiment-1-finding-school-placements-if-youre-an-itt-provider/
 ---
 
-In the first experiment we found x and so we wanted to explore y
-
 This post is the second of 2 parts:
 
 1. [Iterating how schools add school placements](/school-placements/experiment-2-iterating-how-schools-add-school-placements/)
@@ -22,11 +20,13 @@ This post is the second of 2 parts:
 
 In this second part of the experiment, we again addressed problem statement 2, [problems with mentor availability](/school-placements/defining-our-problem-statements/#2.-problems-with-mentor-availability):
 
-> Providers need high-quality mentors for their Initial Teacher Training (ITT) trainees.
+> Providers need high-quality mentors for Initial Teacher Training (ITT) trainees.
 >
 > They need help finding mentors within their networks, limiting how many trainees they can recruit.
 >
 > **How might we** support providers to find enough mentors to maximise trainee capacity?
+
+This is the second iteration in our approach to ‘Finding a school placement’.
 
 ## Experiment goals
 
@@ -56,7 +56,7 @@ We made these changes because:
 
 -
 
-![Find a school placement flow](experiment-2-find-school-placements-flow.png 'Find a school placement flow')
+![Image showing the flow diagram for finding a school placement](experiment-2-find-school-placements-flow.png 'Find a school placement flow')
 
 Finding a school placement has 5 steps:
 
@@ -185,12 +185,17 @@ An individual placement item on the list includes:
 - mentor name
 - mentor availability
 
-Show iteration of the results list item
+#### Iteration of search results page
 
+We changed the search results list item between experiments 1 and 2 to reflect the changes in the content we collect from schools.
 
-Show iteration of the results filters - ‘Contrast factors’
+![Image showing the change in search results content and layout between experiments 1 and 2](experiment-2-progression--search-result-item.png 'The change in search results content and layout between experiments 1 and 2')
 
-### School placements details
+We also changed the search results filters between experiments 1 and 2 to reflect the changes in the content we show on the search results list items.
+
+![Image showing the change in search results filters between experiments 1 and 2](experiment-2-progression--search-results-filters.png 'The change in search results filters between experiments 1 and 2')
+
+### School placement details page
 
 ![Image showing school placement details page](experiment-2-find-placement--details.png 'School placement details')
 
@@ -204,19 +209,40 @@ The school placement details page includes:
 - contact details
 - information about training with disabilities and other needs
 
-Show iteration of the summary details
+#### Iteration of the school placement details page
+
+We changed the school placement details page between experiments 1 and 2 to reflect the changes in the content we collect from schools.
+
+![Image showing the change in the details page content and layout between experiments 1 and 2](experiment-2-progression--details-page.png 'The change in the details page content between experiments 1 and 2')
 
 ## Further considerations
 
 We considered some changes that we did not implement. These included:
 
 - whether the service is behind a DfE Sign-in screen
--
+- skipping questions if we already know the answer - for example, age group
+- removing irrelevant options if we know more details about the provider
+
+### DfE Sign-in
+
+We assume the service's ‘manage school placements’ side will be behind a DfE Sign-in screen. However, this is not necessarily true of a ‘find a school placement’ service.
+
+We must determine whether the ‘find a school placement’ service needs to be behind a DfE Sign-in.
+
+### Skipping questions or removing irrelevant options
+
+If the ‘find a school placement’ service is behind a DfE Sign-in, we can gather more information about the ITT provider and skip questions or remove irrelevant question options in the find flow.
+
+For example, if the ITT provider only runs secondary courses, we wouldn’t ask questions about the subject level or age range.
 
 ## What we found
 
-[Describe research findings.]
+Seeing potential placement schools in the service is helpful to providers. However, some users stated they would still need to ensure new partner schools met their partnership standards.
 
-## Next steps
+### General findings
 
-[Describe what we will do next - leads into a subsequent experiment/fact-find.]
+There has been a successful effort to standardise ITT course curriculum and mentor training amongst a cohort of providers to allow placement school or mentor sharing
+
+The mentoring profession could benefit from recognition and an official qualification. This finding echoes our previous research and that of other adjacent teams.
+
+Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar system would be helpful.

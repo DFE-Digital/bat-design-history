@@ -53,11 +53,13 @@ From the first iteration we:
 
 We made these changes because:
 
--
+- Entering the subject 'class size' isn’t helpful as this would vary between classes and schools.
+
+Trainees will teach various class sizes within a subject, depending on the school demographics.
 
 ### Adding a school placement
 
-![Add a school placement flow](experiment-2-add-school-placements-flow.png 'Add a school placement flow')
+![Image showing the flow diagram for adding a school placement](experiment-2-add-school-placements-flow.png 'Add a school placement flow')
 
 In this iteration, adding a school placement has 7 steps:
 
@@ -223,7 +225,7 @@ If the user has not answered the question, we show an error message:
 
 ### Mentor
 
-In this iteration, we added a question about the mentor for the school placement.
+In this iteration, we added a question about the mentor for the school placement. We added this question because
 
 ![Image showing the mentor question](experiment-2-add-placement--mentor.png 'Mentor question')
 
@@ -300,8 +302,12 @@ Whilst age range and Key Stages are linked, mentors might only mentor a specific
 
 ## What we found
 
-[Describe research findings.]
+Selecting 'mentor availability' was difficult as this would depend on which provider they had chosen to work with that school year. It is not ordinarily pre-defined.
 
-## Next steps
+### General findings
 
-[Describe what we will do next - leads into a subsequent experiment/fact-find.]
+There has been a successful effort to standardise ITT course curriculum and mentor training amongst a cohort of providers to allow placement school or mentor sharing
+
+The mentoring profession could benefit from recognition and an official qualification. This finding echoes our previous research and that of other adjacent teams.
+
+Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar system would be helpful.
