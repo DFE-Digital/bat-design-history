@@ -1,6 +1,6 @@
 ---
 title: "Experiment 4: Finding mentors if you’re an ITT provider"
-description: We iterated our second experiment, exploring how providers might find information about mentors
+description: We iterated our second experiment to explore how providers might find information about mentors
 date: 2023-08-21
 tags:
   - school placements
