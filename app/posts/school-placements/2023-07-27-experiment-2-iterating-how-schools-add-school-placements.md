@@ -214,6 +214,7 @@ If the user has selected the ‘Primary’ subject level, we show:
 ![Image showing the secondary key stage question](experiment-2-add-placement--key-stage-secondary.png 'Secondary key stage question')
 
 If the user has selected the ‘Secondary’ subject level, we show:
+
 - Key stage 3
 - Key stage 4
 - Key stage 5
