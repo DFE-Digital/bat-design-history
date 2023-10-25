@@ -184,6 +184,7 @@ We separated the search results item into two parts:
 - mentor details
 
 We separated the details because ITT providers:
+
 - need to select a placement school based on criteria that create a contrast between two placements - this information is separate from selecting a mentor
 - must select a subject-related mentor to support a trainee during a placement
 - need specific information regarding the mentors within the school to match them to a trainee
