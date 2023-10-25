@@ -39,7 +39,7 @@ The fact-finding part of the research included:
 
 ### Understanding how a provider might find a mentor
 
-Taking the research through a prototype journey of how they could search for a mentor based on chosen criteria.
+We showed participants a prototype journey of how they could search for a mentor based on chosen criteria.
 
 ## How the prototype works
 
@@ -59,7 +59,11 @@ Finding a mentor has 5 steps:
 
 We display the list of locations in an autocomplete. We populate the list of places using the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview).
 
+![Image showing the location autocomplete](experiment-4-find-mentors--location-autocomplete.png 'Location autocomplete')
+
 We display the list of schools in an autocomplete. We populate the list of schools from [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
+
+![Image showing the school autocomplete](experiment-4-find-mentors--school-autocomplete.png 'School autocomplete')
 
 ### Age group
 
@@ -172,8 +176,6 @@ We used data from GIAS to populate the school type, religious character, SEND pr
 
 The filters in the filter panel correspond to the information displayed in the individual mentor list item.
 
-[Show iteration of the results filters - ‘Contrast factors’ between experiments 2 and 4]
-
 #### List item
 
 We separated the search results item into two parts:
@@ -181,7 +183,10 @@ We separated the search results item into two parts:
 - school details
 - mentor details
 
-WHY?
+We separated the details because ITT providers:
+- need to select a placement school based on criteria that create a contrast between two placements - this information is separate from selecting a mentor
+- must select a subject-related mentor to support a trainee during a placement
+- need specific information regarding the mentors within the school to match them to a trainee
 
 The school details include:
 
@@ -285,10 +290,6 @@ The mentor details page has changed significantly between experiments 2 and 4. W
 - removed the section called ‘training with disabilities and other needs’
 - updated the information we display about a school (the ‘contrast factors’) and the mentor.
 
-## Further considerations
-
-[Describe what we didn't do and why.]
-
 ## What we found
 
 When asking schools about their mentors, providers often get a generic list back and don't know who the mentors are.
@@ -298,7 +299,3 @@ When asking schools about their mentors, schools can take a varying amount of ti
 Participants said our proposed service could reduce administration time and disparate email contact.
 
 A lead mentor explained that our proposed service could help filter out requests on placements their school can't fulfil – for example, a subject they don’t have a mentor for.
-
-## Next steps
-
-[Describe what we will do next - leads into a subsequent experiment/fact-find.]
