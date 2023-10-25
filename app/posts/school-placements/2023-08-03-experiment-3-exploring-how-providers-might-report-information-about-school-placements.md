@@ -8,26 +8,38 @@ tags:
   - reporting
 related:
   items:
-    - text: XXXX
-      href: example.com
-    - text: XXXX
-      href: example.com
+    - text: "Experiment 1a: Adding school placements if you’re a school"
+      href: /school-placements/experiment-1-adding-school-placements-if-youre-a-school/
+    - text: "Experiment 1b: Finding school placements if you’re an ITT provider"
+      href: /school-placements/experiment-1-finding-school-placements-if-youre-an-itt-provider/
+    - text: "Experiment 2a: Iterating how schools add school placements"
+      href: /school-placements/experiment-2-iterating-how-schools-add-school-placements/
+    - text: "Experiment 2b: Iterating what we show to ITT providers when they search for school placements"
+      href: /school-placements/experiment-2-iterating-what-we-show-to-itt-providers-when-they-search-for-school-placements/
 ---
 
-[Preamble]
+In our previous 2 experiments, we focused on collecting data from schools to present to ITT providers in a search interface.
+
+If the primary reason for collecting school placement data was so that DfE could understand the placements market and create targeted interventions, we decided to create an experiment that focused on the periodic collection of data.
+
+This experiment also helps us understand if our first approach was valid.
+
+## Problem statement
+
+In this experiment, we addressed problem statement 1, [problems with reporting data](/school-placements/defining-our-problem-statements/#1.-problems-with-reporting-data):
+
+> DfE needs a data reporting service to help share data between School Centred Initial Teacher Training (SCITTs), Higher Education Institutions (HEIs), and the DfE.
+>
+> We aren’t sharing data, so we don’t have the complete picture of school placement activity and can’t intervene when help is needed.
+>
+> **How might we** create a data reporting service so stakeholders can report complete placement data using standardised and easily accessible platforms?
 
 ## Experiment goals
 
-The experiment had X goals:
+The experiment had 2 goals:
 
-- GOAL 1
-- GOAL 2
-
-### Goal 1
-
-
-### Goal 2
-
+1. understand if providers would be interested in contributing to a localised reporting tool
+2. identify what results or information would be desired from providers
 
 ## How the prototype works
 
@@ -122,7 +134,7 @@ On this intermediate check your answers page, the user can change:
 
 The question includes a list of all primary subjects specialisms providers can use to create courses on Publish.
 
-We also include a ‘none’ options.
+We also include a ‘none’ options. Because some providers may have no issues in placing their trainees and thus are satisfied with the number of placements available within their partner network.
 
 ### Which secondary subjects are hard to find placements for?
 
@@ -130,7 +142,7 @@ We also include a ‘none’ options.
 
 The question includes a list of all secondary subjects providers can use to create courses on Publish.
 
-We also include a ‘none’ option.
+We also include a ‘none’ option. Because some providers may have no issues in placing their trainees and thus are satisfied with the amount of placements available within their partner network.
 
 ### What are the biggest challenges for you in managing ITT?
 
@@ -176,7 +188,7 @@ The page is split into 4 sections:
 - difficulties finding placements
 - challenges managing and barriers to providing placements
 
-Users can change their answers to each section. When they have completed their change, we return them back to this check your answers page.
+Users can change their answers to each section. When they have completed their change, we return them to this check your answers page.
 
 ### Confirmation page
 
@@ -186,11 +198,16 @@ The confirmation page is the final step in the reporting information journey.
 
 ## Further considerations
 
-[Describe what we didn't do and why.]
+We didn’t have a final step or output for the user as we didn’t have the time to develop something meaningful in the timeframe and preferred to gain feedback from users of what they would expect at the end of the process to help inform the decision making around this.
 
 ## What we found
 
-[Describe research findings.]
+Users felt there weren’t really any surpluses and the concept of that was somewhat redundant, perhaps because they aren’t oversubscribed or only really care about shortages.
+
+Users would be happy to report information around local issues facing their organisation if there was some kind of purpose or tangible output that would make this worth their while.
+
+Some providers would like some kind of benchmarking report at the end of filling in information about their local area. This could help inform them of what’s happening in ITT across the country and see if their issues are shared as there is limited visibility of other networks. Learning from other peers has utility.
+
 
 ## Next steps
 
