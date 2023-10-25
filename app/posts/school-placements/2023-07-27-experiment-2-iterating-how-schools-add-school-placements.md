@@ -1,5 +1,5 @@
 ---
-title: "Experiment 2: Iterating how schools add school placements"
+title: "Experiment 2a: Iterating how schools add school placements"
 description: We iterated our first experiment exploring how schools might add information about school placements
 date: 2023-07-27T12:00:00+00:00
 tags:
@@ -42,20 +42,22 @@ The fact-finding part of the research included:
 
 ### Understanding how a school might advertise a school placement
 
-Taking the participant through a prototype journey to show how a school could post an opening for a placement for ITT providers to view.
+We showed the participant a prototype journey of how a school could post an opening for a placement for ITT providers to view.
 
 ## How the prototype works
 
 From the first iteration we:
 
 - removed questions about class size and training pattern
-- added questions about key stage, mentor and mentor availability
+- added questions about key stage, mentor name and mentor availability
 
 We made these changes because:
 
-- Entering the subject 'class size' isn’t helpful as this would vary between classes and schools.
-
-Trainees will teach various class sizes within a subject, depending on the school demographics.
+- entering the subject 'class size' isn’t helpful as this would vary between classes and schools
+- selecting ‘training pattern’ isn’t something schools do; it is derived from the ITT provider
+- ITT providers need mentors to create placements
+- ITT providers store information on known mentors within their network
+- ITT providers need to recruit new mentors each year to fulfil their training needs
 
 ### Adding a school placement
 
@@ -193,7 +195,7 @@ If the user has not answered the question, we show an error message:
 
 ### Key stage
 
-In this iteration, we added a question about key stage. We added this question because
+In this iteration, we added a question about key stage. We added this question because key stages can create contrast within a trainee’s placement journey.
 
 We show different key stage options if the user has previously chosen the ‘Primary’ or ‘Secondary’ subject levels.
 
@@ -212,7 +214,6 @@ If the user has selected the ‘Primary’ subject level, we show:
 ![Image showing the secondary key stage question](experiment-2-add-placement--key-stage-secondary.png 'Secondary key stage question')
 
 If the user has selected the ‘Secondary’ subject level, we show:
-
 - Key stage 3
 - Key stage 4
 - Key stage 5
@@ -225,11 +226,13 @@ If the user has not answered the question, we show an error message:
 
 ### Mentor
 
-In this iteration, we added a question about the mentor for the school placement. We added this question because
+In this iteration, we added a question about the mentor for the school placement. We added this question because mentor suitability is one of the essential elements of school placements for an ITT provider to know. If several providers share mentors in the local area, their availability becomes key to deciding placements.
 
 ![Image showing the mentor question](experiment-2-add-placement--mentor.png 'Mentor question')
 
 We show a list of mentors that correspond to the subject chosen.
+
+We skip the question if there is only one mentor for the chosen subject.
 
 If the user has not answered the question, we show an error message:
 
@@ -237,7 +240,7 @@ If the user has not answered the question, we show an error message:
 
 ### Mentor availability
 
-In this iteration, we changed the ‘Training pattern’ question to ‘Mentor availability’. We made this change because
+In this iteration, we changed the ‘Training pattern’ question to ‘Mentor availability’. We made this change because ITT providers can change training patterns, whereas the availability of a mentor on a given day depends on their working practices. This question allows schools and mentors to state which days they can’t support a trainee.
 
 ![Image showing the mentor availability question](experiment-2-add-placement--mentor-availability.png 'Mentor availability question')
 
@@ -294,7 +297,7 @@ Key stages and age ranges are linked. If the user has chosen the ‘7 to 14 - mi
 
 ### Skipping questions if we already know the answer
 
-We will know a lot of information about the schools from GIAS. This means we can skip questions in the ‘Add placement’ flow for which we know the answers, such as subject level and age range.
+We will know a lot of information about the schools from GIAS. This information means we can skip questions in the ‘Add placement’ flow for which we know the answers, such as subject level and age range.
 
 ### Linking age range and key stage questions
 
@@ -302,12 +305,12 @@ Whilst age range and Key Stages are linked, mentors might only mentor a specific
 
 ## What we found
 
-Selecting 'mentor availability' was difficult as this would depend on which provider they had chosen to work with that school year. It is not ordinarily pre-defined.
+Selecting 'mentor availability' was challenging as this would depend on which ITT provider they had chosen to work with that academic year. It is not ordinarily pre-defined.
 
 ### General findings
 
-There has been a successful effort to standardise ITT course curriculum and mentor training amongst a cohort of providers to allow placement school or mentor sharing
+There has been a successful effort to standardise ITT course curriculum and mentor training amongst a cohort of providers to allow placement school or mentor sharing.
 
 The mentoring profession could benefit from recognition and an official qualification. This finding echoes our previous research and that of other adjacent teams.
 
-Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar system would be helpful.
+Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar service would be helpful.

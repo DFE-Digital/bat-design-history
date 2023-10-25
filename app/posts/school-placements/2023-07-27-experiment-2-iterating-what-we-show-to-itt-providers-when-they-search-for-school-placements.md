@@ -1,5 +1,5 @@
 ---
-title: "Experiment 2: Iterating what we show to ITT providers when they search for school placements"
+title: "Experiment 2b: Iterating what we show to ITT providers when they search for school placements"
 description: We iterated our first experiment to explore how providers might find information about school placements
 date: 2023-07-27T12:01:00+00:00
 tags:
@@ -7,9 +7,9 @@ tags:
   - alpha
 related:
   items:
-    - text: "Experiment 2: Iterating how schools add school placements"
+    - text: "Experiment 2a: Iterating how schools add school placements"
       href: /school-placements/experiment-2-iterating-how-schools-add-school-placements/
-    - text: "Experiment 1: Finding school placements if you’re an ITT provider"
+    - text: "Experiment 1b: Finding school placements if you’re an ITT provider"
       href: /school-placements/experiment-1-finding-school-placements-if-youre-an-itt-provider/
 ---
 
@@ -44,17 +44,21 @@ The fact-finding part of the research included:
 
 ### Understanding how a provider might find a school placement
 
-Taking the research through a prototype journey of how they could search for a placement based on chosen criteria.
+We showed participants a prototype journey of how they could search for a placement based on chosen criteria.
 
 ## How the prototype works
 
 From the first iteration we:
 
--
+- removed information about class size and training pattern
+- added information about key stage, mentor name and mentor availability
 
 We made these changes because:
 
--
+- showing the class size and training pattern is not helpful to ITT providers
+- showing mentor details helps ITT providers make a judgement on whether the school placement is suitable for their trainee
+
+### Finding a school placement
 
 ![Image showing the flow diagram for finding a school placement](experiment-2-find-school-placements-flow.png 'Find a school placement flow')
 
@@ -239,10 +243,12 @@ For example, if the ITT provider only runs secondary courses, we wouldn’t ask 
 
 Seeing potential placement schools in the service is helpful to providers. However, some users stated they would still need to ensure new partner schools met their partnership standards.
 
+Selecting 'mentor availability' was challenging as this would depend on which ITT provider they had chosen to work with that academic year. It is not ordinarily pre-defined.
+
 ### General findings
 
-There has been a successful effort to standardise ITT course curriculum and mentor training amongst a cohort of providers to allow placement school or mentor sharing
+There has been a successful effort to standardise ITT course curriculum and mentor training amongst a cohort of providers to allow placement school or mentor sharing.
 
 The mentoring profession could benefit from recognition and an official qualification. This finding echoes our previous research and that of other adjacent teams.
 
-Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar system would be helpful.
+Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar service would be helpful.
