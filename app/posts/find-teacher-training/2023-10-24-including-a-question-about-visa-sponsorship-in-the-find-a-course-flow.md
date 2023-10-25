@@ -23,11 +23,11 @@ We were concerned that the question needed improvement because it:
 
 ## What we changed
 
-We made the question more direct to specifically ask the user if they need visa sponsorship. We added content to explain more about what it is. We also linked to an advice page on Get Into Teaching about applying for a visa.
+We made the question more direct to specifically ask the user if they need visa sponsorship. We added content to explain more about what it is. We also linked to [an advice page on Get Into Teaching about applying for a visa](https://getintoteaching.education.gov.uk/non-uk-teachers/visas-for-non-uk-trainees).
 
 Finally, we changed the radio button labels to ‘Yes’ or ‘No’ as we felt this made the question less ambiguous and easier to answer.
 
-![Screenshot of the new question asking about visa sponsorship in the find a course flow.](/find-teacher-training/visa-sponsorship-row-summary-course-page/)
+![Screenshot of the new question asking about visa sponsorship in the find a course flow.](/find-teacher-training/visa-sponsorship-question-in-add-course-flow/visa-sponsorship-add-course.png)
 
 ## Further considerations
 
