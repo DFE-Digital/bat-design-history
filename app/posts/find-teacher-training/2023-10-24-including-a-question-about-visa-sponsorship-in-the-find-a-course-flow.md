@@ -11,7 +11,7 @@ related:
      href: /find-teacher-training/adding-visa-sponsorship-information-to-the-summary-list-on-a-course-page/
 ---
 
-In August 2023, we decided to add a new question into the find a course flow on Find postgraduate teacher training courses (Find). The question asked the user if they have the right to work or study in the UK and they could answer ‘Yes’ or ‘Not yet’.
+In August 2023, we decided to add a new question into the find a course flow on Find postgraduate teacher training (Find). The question asked the user if they have the right to work or study in the UK and they could answer ‘Yes’ or ‘Not yet’.
 
 If they answered ‘Yes’, they would see all courses based on their search criteria. If they answered ‘Not yet’ they would see courses based on their search criteria, but the ‘Only show courses with visa sponsorship’ filter would also be selected. The aim was to stop candidates from applying for a course that they are not eligible for.
 
