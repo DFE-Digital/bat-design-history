@@ -1,5 +1,5 @@
 ---
-title: "Experiment 1: Finding school placements if you’re an ITT provider"
+title: "Experiment 1b: Finding school placements if you’re an ITT provider"
 description: Exploring how providers might find information about school placements
 date: 2023-07-20T12:01:00+00:00
 tags:
@@ -7,7 +7,7 @@ tags:
   - alpha
 related:
   items:
-    - text: Adding school placements if you’re a school
+    - text: "Experiment 1a: Adding school placements if you’re a school"
       href: /school-placements/experiment-1-adding-school-placements-if-youre-a-school/
     - text: Defining our problem statements
       href: /school-placements/defining-our-problem-statements/
