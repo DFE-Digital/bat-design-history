@@ -103,8 +103,8 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "href": "https://find-a-lost-trn.education.gov.uk/start"
       },
       {
-        "name": "Teacher Self Service Portal",
-        "href": "https://teacherservices.education.gov.uk/SelfService/Login"
+        "name": "Access your teaching qualifications",
+        "href": "https://access-your-teaching-qualifications.education.gov.uk/"
       }
     ],
     "providers": [
