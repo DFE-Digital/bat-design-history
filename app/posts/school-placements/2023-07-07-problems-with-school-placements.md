@@ -75,3 +75,8 @@ Some areas aren’t attractive to trainees. For example, the cost of living in a
 
 - there is a long lead time to get agreements signed with providers
 - providers have different curriculums for both trainees and mentors
+
+*[ECF]: Early Career Framework
+*[ECT]: Early Career Teacher
+*[ITT]: Initial Teacher Training
+*[HESA]: Higher Education Statistics Agency

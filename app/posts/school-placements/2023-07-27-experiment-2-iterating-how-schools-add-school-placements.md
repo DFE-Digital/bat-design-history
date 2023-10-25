@@ -314,4 +314,7 @@ There has been a successful effort to standardise ITT course curriculum and ment
 
 The mentoring profession could benefit from recognition and an official qualification. This finding echoes our previous research and that of other adjacent teams.
 
-Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar service would be helpful.
+Schools already register Early Career Framework (ECF) mentors into a central system. Therefore, registering ITT mentors into a similar service would be helpful.
+
+*[ECF]: Early Career Framework
+*[ITT]: Initial Teacher Training

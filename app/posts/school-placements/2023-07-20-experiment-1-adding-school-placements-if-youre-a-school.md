@@ -277,3 +277,5 @@ The ITT provider defines the trainees' training pattern as this is derived from 
 Entering the subject 'class size' isn’t helpful as this would vary between classes and schools.
 
 Trainees will teach various class sizes within a subject, depending on the school demographics.
+
+*[ITT]: Initial Teacher Training

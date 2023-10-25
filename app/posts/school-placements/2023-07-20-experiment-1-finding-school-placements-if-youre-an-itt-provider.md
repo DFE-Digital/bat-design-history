@@ -232,3 +232,5 @@ Mentors are essential to a placement (the others being school and time).
 Showing a mentor’s availability is helpful information for ITT providers to know so they can decide which schools to contact when placing a trainee.
 
 Since mentors also have teaching commitments and different work patterns, it is helpful for a school to set the availability of a mentor for a specific placement.
+
+*[ITT]: Initial Teacher Training

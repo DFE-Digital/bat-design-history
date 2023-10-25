@@ -75,3 +75,6 @@ The purpose of the Alpha project is to find the optimal way to bring more visibi
 
 - help ITT providers and schools find placement partners more efficiently and effectively
 - gather complete and consistent data on school placements to enable DfE to make informed policy decisions that make the school placements market operate more effectively and improve outcomes for users
+
+*[ECF]: Early Career Framework
+*[ITT]: Initial Teacher Training

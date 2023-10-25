@@ -48,3 +48,7 @@ Schools need to navigate the different requirements and ways of working between 
 The lack of standardisation between ITT providers in ITT curriculum, mentor training curriculum and general processes hinders schools from maintaining partnerships with multiple ITT providers, limiting their access to a broader pool of trainees. It can also impact mentors’ ability to continue mentoring easily after relocation to a new school. This inconsistency also affects schools' ability to ensure a consistent pool of qualified mentors.
 
 **How might we** help schools navigate differences in ITT curriculum, mentor training, and foster collaboration between schools and ITT providers to address these issues effectively?
+
+*[HEI]: Higher Education Institution
+*[ITT]: Initial Teacher Training
+*[SCITT]: School Centred Initial Teacher Training
