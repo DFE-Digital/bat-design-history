@@ -31,6 +31,6 @@ Finally, we changed the radio button labels to ‘Yes’ or ‘No’ as we felt 
 
 ## Further considerations
 
-We have been looking at ways to make it easier for international candidates to understand which courses they are eligible for. We need to test the introduction of this question to make sure it is well understood by both domestic and international candidates.
+We have been looking at ways to make it easier for international candidates to understand which courses they are eligible for. We need to test the introduction of this question to make sure it is well understood by both domestic and international candidates. In testing, we could also explore having an 'I don't know' option for the radio buttons.
 
 We need to make sure we are not excluding eligible candidates from browsing as many courses as possible. At the same time, we want to avoid candidates applying for courses that they are not suitable for.
