@@ -7,9 +7,9 @@ tags:
   - alpha
 related:
   items:
-    - text: "Experiment 2: Iterating what we show to ITT providers when they search for school placements"
+    - text: "Experiment 2b: Iterating what we show to ITT providers when they search for school placements"
       href: /school-placements/experiment-2-iterating-what-we-show-to-itt-providers-when-they-search-for-school-placements/
-    - text: "Experiment 1: Adding school placements if you’re a school"
+    - text: "Experiment 1a: Adding school placements if you’re a school"
       href: /school-placements/experiment-1-adding-school-placements-if-youre-a-school/
 ---
 
@@ -314,4 +314,7 @@ There has been a successful effort to standardise ITT course curriculum and ment
 
 The mentoring profession could benefit from recognition and an official qualification. This finding echoes our previous research and that of other adjacent teams.
 
-Schools already register ECF mentors into a central system. Therefore, registering ITT mentors into a similar service would be helpful.
+Schools already register Early Career Framework (ECF) mentors into a central system. Therefore, registering ITT mentors into a similar service would be helpful.
+
+*[ECF]: Early Career Framework
+*[ITT]: Initial Teacher Training

@@ -1,5 +1,5 @@
 ---
-title: "Experiment 1: Adding school placements if you’re a school"
+title: "Experiment 1a: Adding school placements if you’re a school"
 description: Exploring how schools might add information about school placements
 date: 2023-07-20T12:00:00+00:00
 tags:
@@ -7,7 +7,7 @@ tags:
   - alpha
 related:
   items:
-    - text: Finding school placements if you’re an ITT provider
+    - text: "Experiment 1b: Finding school placements if you’re an ITT provider"
       href: /school-placements/experiment-1-finding-school-placements-if-youre-an-itt-provider/
     - text: Defining our problem statements
       href: /school-placements/defining-our-problem-statements/
@@ -277,3 +277,5 @@ The ITT provider defines the trainees' training pattern as this is derived from 
 Entering the subject 'class size' isn’t helpful as this would vary between classes and schools.
 
 Trainees will teach various class sizes within a subject, depending on the school demographics.
+
+*[ITT]: Initial Teacher Training
