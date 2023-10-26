@@ -87,7 +87,7 @@ If the user selects ‘none’, we move them to the next section.
 
 ![Image showing the shortage subjects question](experiment-3-report-information--shortage-subjects.png 'Question page: What subjects does this shortage apply to?')
 
-For this prototype, we only show secondary subjects. However, the list will include all subjects for which the provider can create courses on Publish teacher training courses (Publish).
+For this prototype, we only showed secondary subjects. However, the list will include all subjects for which the provider can create courses on Publish teacher training courses (Publish).
 
 The shortage subjects question is repeated if the user has previously selected mentors and trainees (once for each option).
 
@@ -116,8 +116,7 @@ If the user selects ‘none’, we move them to the next section.
 
 ![Image showing the surplus subjects](experiment-3-report-information--surplus-subjects.png 'Question page: What subjects does this surplus apply to?')
 
-As with the shortage subjects list, for this prototype, we only show secondary subjects. However, the list will include all subjects for which the provider can create courses on Publish.
-
+As with the shortage subjects list, we only showed secondary subjects for this prototype. However, the list will include all subjects for which the provider can create courses on Publish.
 
 The surplus subjects question is repeated if the user has previously selected mentors and trainees (once for each option).
 
@@ -136,7 +135,7 @@ On this intermediate check your answers page, the user can change:
 
 The question includes a list of all primary subjects specialisms providers can use to create courses on Publish.
 
-We also include a ‘none’ options. Because some providers may have no issues in placing their trainees and thus are satisfied with the number of placements available within their partner network.
+We also include a ‘none’ option. This is because some providers may not have any issues placing their trainees and are satisfied with the number of placements available within their partner network.
 
 ### Which secondary subjects are hard to find placements for?
 
@@ -144,7 +143,7 @@ We also include a ‘none’ options. Because some providers may have no issues 
 
 The question includes a list of all secondary subjects providers can use to create courses on Publish.
 
-We also include a ‘none’ option. Because some providers may have no issues in placing their trainees and thus are satisfied with the amount of placements available within their partner network.
+We also include a ‘none’ option. This is because some providers may not have any issues placing their trainees and are satisfied with the number of placements available within their partner network.
 
 ### What are the biggest challenges for you in managing ITT?
 
@@ -200,17 +199,12 @@ The confirmation page is the final step in the reporting information journey.
 
 ## Further considerations
 
-We didn’t have a final step or output for the user as we didn’t have the time to develop something meaningful in the timeframe and preferred to gain feedback from users of what they would expect at the end of the process to help inform the decision making around this.
+We need to consider the outcome of this version of the service. We did not have time to prototype something meaningful and instead focused on participant feedback.
 
 ## What we found
 
-Users felt there weren’t really any surpluses and the concept of that was somewhat redundant, perhaps because they aren’t oversubscribed or only really care about shortages.
+Participants suggested that there are never really any surpluses. This may be because they are only concerned with shortages.
 
-Users would be happy to report information around local issues facing their organisation if there was some kind of purpose or tangible output that would make this worth their while.
+Participants are happy to report problems facing their organisation if the information was used to solve them.
 
-Some providers would like some kind of benchmarking report at the end of filling in information about their local area. This could help inform them of what’s happening in ITT across the country and see if their issues are shared as there is limited visibility of other networks. Learning from other peers has utility.
-
-
-## Next steps
-
-[Describe what we will do next - leads into a subsequent experiment/fact-find.]
+Some providers suggested a report on ITT in their local area would be valuable and help them make decisions.
