@@ -1,6 +1,6 @@
 ---
 title: "Experiment 3: Exploring how providers might report information about school placements"
-description: In this experiment, we pivoted from schools and providers adding and finding school placements to providers reporting their school placement needs to DfE
+description: We changed our approach from schools and providers adding and finding school placements to providers reporting their school placement needs to DfE
 date: 2023-08-03
 tags:
   - school placements
@@ -20,9 +20,11 @@ related:
 
 In our previous 2 experiments, we focused on collecting data from schools to present to ITT providers in a search interface.
 
+In this experiment, we changed our approach from schools and providers adding and finding school placements to providers reporting their school placement needs to DfE.
+
 If the primary reason for collecting school placement data was so that DfE could understand the placements market and create targeted interventions, we decided to create an experiment that focused on the periodic collection of data.
 
-This experiment also helps us understand if our first approach was valid.
+This experiment also helped us understand if our first approach was valid.
 
 ## Problem statement
 
