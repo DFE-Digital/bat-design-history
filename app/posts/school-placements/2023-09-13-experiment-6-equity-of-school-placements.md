@@ -17,6 +17,7 @@ related:
 [Preamble]
 
 ## What we did
+
 [Describe the goal(s) of the experiment.]
 
 ## Mentor information
@@ -33,6 +34,7 @@ related:
 #### Special educational needs and disabilities (SEND) training
 
 ![Image showing the mentor special educational needs and disabilities training question](experiment-6-edit-mentor--SEND.png 'Mentor special educational needs and disabilities (SEND) training question')
+
 #### Subject networks and associations
 
 ![Image showing the mentor subject networks and associations question](experiment-6-edit-mentor--networks-and-associations.png 'Mentor subject networks and associations question')
@@ -64,10 +66,13 @@ related:
 
 
 ## Further considerations
+
 [Describe what we didn't do and why.]
 
 ## What we found
+
 [Describe research findings.]
 
 ## Next steps
+
 [Describe what we will do next - leads into a subsequent experiment/fact-find.]
