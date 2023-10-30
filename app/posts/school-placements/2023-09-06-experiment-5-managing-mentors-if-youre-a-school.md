@@ -1,6 +1,6 @@
 ---
 title: "Experiment 5: Managing mentors if you’re a school"
-description: XXXX
+description: Iterating how schools manage their mentors’ information
 date: 2023-09-06
 tags:
   - school placements
@@ -20,7 +20,13 @@ related:
       href: /school-placements/experiment-4-finding-mentors-if-youre-an-itt-provider/
 ---
 
-In this experiment, we again addressed problem statement 1, [problems with reporting data](/school-placements/defining-our-problem-statements/#1.-problems-with-reporting-data):
+The focus of this experiment was on how schools manage their mentors’ information. This included:
+
+- adding new mentors to the service
+- updating existing mentor information
+- removing mentors
+
+In this iteration, we again focused our efforts on problem statement 1, [problems with reporting data](/school-placements/defining-our-problem-statements/#1.-problems-with-reporting-data):
 
 > DfE needs a data reporting service to help share data between School Centred Initial Teacher Training (SCITTs), Higher Education Institutions (HEIs), and the DfE.
 >
@@ -46,6 +52,27 @@ The fact-finding part of the research included:
 
 We showed the participant a prototype journey of how a school could post an opening for a placement for ITT providers to view, focusing on mentor details.
 
+## Mentor list
+
+![Image showing the mentor list page](experiment-5-manage-mentors--list.png 'Mentor list page')
+
+The mentor list includes:
+
+- mentor name
+- teacher reference number (TRN)
+- status
+- subject
+- age range
+- key stage
+
+We will paginate the list if it contains greater than 20 items.
+
+From the mentor list, users can:
+
+- add new mentors
+- view existing mentors
+
+
 ## Adding mentors
 
 ![Image showing the flow diagram for adding mentors](experiment-5-add-mentor-flow.png 'Adding mentors flow')
@@ -70,6 +97,8 @@ The personal details page includes:
 - email address
 
 #### Error messages
+
+![Image showing personal details page with errors](experiment-5-add-mentor--personal-details-error.png 'Personal details page with errors')
 
 All fields are required.
 
@@ -154,6 +183,8 @@ We list secondary subjects if the school is in the ‘secondary’ education pha
 
 #### Error message
 
+![Image showing secondary subject question with an error](experiment-5-add-mentor--subject-secondary-error.png 'Secondary subject question with an error')
+
 If the user has not answered the question, we show an error message:
 
 > Select a subject
@@ -182,6 +213,8 @@ If the school’s education phase is secondary, we show:
 - 14 to 19
 
 #### Error message
+
+![Image showing the secondary age range question with an error](experiment-5-add-mentor--age-range-secondary-error.png 'Secondary age range question with an error')
 
 We do not default the question to a specific answer.
 
@@ -213,6 +246,8 @@ If the school’s education phase is secondary, we show:
 
 #### Error message
 
+![Image showing the secondary key stage question with an error](experiment-5-add-mentor--key-stage-secondary-error.png 'Secondary key stage question with an error')
+
 We do not default the question to a specific answer.
 
 If the user has not answered the question, we show an error message:
@@ -233,13 +268,13 @@ The final step is the ‘Check your answers’ page. The user can change:
 - age range
 - key stage
 
-When a mentor is added, we send a confirmation email to them.
+When the user adds a mentor, we send a confirmation email to the mentor.
 
 ## Updating mentors
 
 ### Mentor details
 
-The mentor details page is split into 2 parts:
+We split the mentor details page into 2 parts:
 
 - basic details
 - additional details
@@ -274,17 +309,18 @@ A mentor’s additional details include:
 - subject networks and associations
 - other experiences
 
-Some additional details, such as the date they qualified as a teacher and qualifications, are derived from the Database of Qualified Teachers (DQT).
+We use the Database of Qualified Teachers (DQT) to populate:
+
+- date qualified as a teacher
+- qualifications
 
 ## Removing mentors
 
 ![Image showing the remove mentor page](experiment-5-remove-mentor.png 'Remove mentor page')
 
-A user can remove a mentor from the school.
+A user can remove a mentor from the school because the mentor have left the school, decided not to be a mentor or for another reason.
 
-This may be because they have left the school, decided not to be a mentor or for several other reasons.
-
-When a user removes a mentor, the mentor will receive an email saying they have been removed. For example, the mentor can ask their ITT coordinator to be reinstated if the removal was a mistake.
+When the user removes a mentor, we send a confirmation email to the mentor.
 
 ## Further considerations
 
@@ -294,6 +330,7 @@ We considered some changes that we did not implement. These included:
 - showing ‘7 to 14 - middle years’ for both education phases (primary and secondary)
 - showing ‘Key stage 2’ if ‘7 to 14 - middle years’ age range is chosen
 - skipping questions if we already know the answer - for example, age range
+- filtering the mentor list
 
 ### Finding the mentor’s details using DQT
 
@@ -311,17 +348,21 @@ Key stages and age ranges are linked. If the user has chosen the ‘7 to 14 - mi
 
 We will know a lot of information about the schools from [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/). This information means we can skip questions in the ‘Add mentor’ flow for which we know the answers, such as age range.
 
+### Filtering the mentor list
+
+For schools with a long list of mentors, we will paginate the information. There is also utility in being able to filter the list of mentors to make it easier for users to find the mentor they require.
+
 ## What we found
 
-The idea of statuses would be useful to – eg the ability see whether a mentor is already assigned to a trainee ​
+Lead mentors would update information about their mentors each term, typically after each placement has concluded..
 
-Linking the system with trainee information could be a very helpful future feature ​
+Linking school placements with trainee information would be very useful. Both ITT providers and schools need to record this information for auditing and tracking purposes. By holding this information centrally, it would make it easier for ITT providers and schools to meet their obligations.
 
-It would potentially be of value to be able to see what additional needs a mentor / school could support for a trainee ​
+Participants like the idea of having a status for each mentor. However, if it is related to the mentor’s availability, we need to take into account which placement the mentor is assigned (busy).
 
-This service could help 'tighten up mentoring', help make them more accountable and the practice appear more 'official'​
+There is value in showing what additional needs a school and mentor can support. One particpanted talked about how hard it was for them to find a placement that supported a partially sighted trainee.
 
-Lead mentors could update information for the mentors that they manage each term post-placement ​
+A future service could formalise the mentor profession with standard qualifications, which would help them be more accountable and appear more official.
 
 *[DQT]: Database of Qualified Teachers
 *[GIAS]: Get information about schools
