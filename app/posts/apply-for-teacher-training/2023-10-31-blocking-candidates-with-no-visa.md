@@ -11,7 +11,7 @@ In the first 2 weeks of the 2023 to 2024 recruitment cycle, we a 188% increase i
 
 ## The issue
 
-In 2022-2023 cycle we have had over 4,800 candidate applications rejected due to not having visa sponsorship. This wastes candidate and provider time, whilst also reducing candidates' chance of finding a course match.
+In the 2022 to 2023 recruitment cycle we have had over 4,800 applications rejected due to not having visa sponsorship. This wastes candidate and provider time, whilst also reducing a candidate's chance of finding a a suitable course.
 
 In 2023-2024 cycle there was a high proportion of rejection on day one due to no visa.
 
