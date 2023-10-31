@@ -27,29 +27,29 @@ We reordered the filter list.
 
 The original order was:
 
-- SEND specialism
-- Only show applications that are open
-- Study type (full time/part time)
-- Qualification given by course
+- Special education needs
+- Applications open
+- Full time or part time
+- Qualifications
+- Fee or salary
 - Degree grade accepted
 - Visa sponsorship
-- Salary provided
 
-![Screenshot of the old filter list showing SEND specialisim at the top](visa-sponsorship-bottom.png)
+![Screenshot of the old filter list showing SEND specialisim at the top](filters-old.png)
 
 ‘Visa sponsorship’ was at the bottom and we thought candidates might be missing this because they would have to scroll down the page to see it.
 
 The new order of the filters is now:
 
 - Visa sponsorship
-- Study type (full time/part time)
-- Qualification given by course
+- Full time or part time
+- Qualifications
 - Degree grade accepted
-- SEND specialism
-- Salary provided
-- Only show applications that are open
+- Special education needs
+- Fee or salary
+- Applications open
 
-![Screenshot of the new filter list with visa sponsorship at the top.](visa-sponsorship-top.png)
+![Screenshot of the new filter list with visa sponsorship at the top.](filters-new.png)
 
 ‘Visa sponsorship’ is now right at the top and easy for candidates to see.
 
