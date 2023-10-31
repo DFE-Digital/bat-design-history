@@ -29,7 +29,7 @@ We hid the submit button and replaced it with a warning message to stop the cand
 
 ![Screenshot of how the application review page looks like with the blocking pattern](after.png)
 
-We went with the above screenshot example, because:
+In the content for the warning message, we added a link to Find postgraduate teacher training (Find) so that candidates could easily find a different and more suitable course.
 
 - They know what they have told us about their visa status.
 - We do not need to overwhelm them with different information (especially on how to use filters etc on find).
