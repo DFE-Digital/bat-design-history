@@ -13,7 +13,7 @@ There was an agreement that it is beneficial to block certain user groups from s
 
 In 2022-2023 cycle we have had over 4,800 candidate applications rejected due to not having visa sponsorship. This wastes candidate and provider time, whilst also reducing candidates' chance of finding a course match.
 
-In 2023-2024 cycle there was a high proportion of rejection on day one due to no VISA.
+In 2023-2024 cycle there was a high proportion of rejection on day one due to no visa.
 
 We used to have a blue inset text on the application tab, once they have already applied to the course, warning them that this course does not offer visa sponsorship and that they need to delete their application and to look for a different course that does offer visa sponsorship. We have found that it doesnt stop the candidates sufficiently, and needed a different way to stop them.
 
