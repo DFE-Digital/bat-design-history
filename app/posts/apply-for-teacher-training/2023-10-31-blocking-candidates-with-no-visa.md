@@ -1,5 +1,5 @@
 ---
-title: Blocking candidates from applying for courses that do not sponsor visas
+title: Stopping candidates from applying for courses that do not sponsor visas
 description:
 date: 2023-10-31
 tags:
