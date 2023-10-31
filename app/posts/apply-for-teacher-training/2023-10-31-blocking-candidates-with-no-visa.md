@@ -7,7 +7,7 @@ tags:
   - international
 ---
 
-In the first 2 weeks of the 2023 to 2024 recruitment cycle, we see a 188% increase in international candidates submitting applications. We worked with out policy team to design a pattern to stop international candidates (who do not have the right to work or study in the UK) from applying to a course that does not sponsor visas.
+In the first 2 weeks of the 2023 to 2024 recruitment cycle, we saw a 188% increase in international candidates submitting applications. We worked with out policy team to design a pattern to stop international candidates (who do not have the right to work or study in the UK) from applying to a course that does not sponsor visas.
 
 ## The issue
 
