@@ -26,6 +26,7 @@ We have revisited the user journey from when they fill out their details in 'You
 ![Screenshot of how the application review page looks like with the blocking pattern](after.png)
 
 We went with the above screenshot example, because:
+
 * They know what they have told us about their visa status.
 * We don't need to overwhelm them with different information (especially on how to use filters etc on find).
 * We only need necessary and simple information on what has happened and what they need to do.
