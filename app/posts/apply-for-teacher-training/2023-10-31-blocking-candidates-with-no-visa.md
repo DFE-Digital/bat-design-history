@@ -1,6 +1,6 @@
 ---
 title: Stopping candidates from applying for courses that do not sponsor visas
-description:
+description: We designed a pattern to stop international candidates applying for courses that cannot sponsor visas.
 date: 2023-10-31
 tags:
   - visa sponsorship
