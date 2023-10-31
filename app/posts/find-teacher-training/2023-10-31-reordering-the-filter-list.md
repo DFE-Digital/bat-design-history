@@ -13,7 +13,9 @@ related:
 
 In September 2023, we reordered the filters on Find postgraduate teacher training (Find).
 
-The order of the filters on Find is something that has developed organically over time. We believed we could order them in a more logical way. The aim of this change was to help improve course matching for candidates, particularly international candidates.
+The order of the filters on Find matched the order of the information listed for a course on the course results page. Although this made sense initialy, we believed we could order the filters to better match the needs of the high number of international candidates we get.
+
+We also wanted to improve matching the right course to a candidate's own situation. For example, some international candidates need visa sponsorship so using this filter would help them see all courses that offer this.
 
 ## The issue
 
