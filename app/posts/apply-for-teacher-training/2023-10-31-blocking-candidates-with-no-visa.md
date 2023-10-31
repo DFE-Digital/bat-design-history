@@ -15,7 +15,9 @@ In the 2022 to 2023 recruitment cycle we have had over 4,800 applications reject
 
 In 2023-2024 cycle there was a high proportion of rejection on day one due to no visa.
 
-We used to have a blue inset text on the application tab, once they have already applied to the course, warning them that this course does not offer visa sponsorship and that they need to delete their application and to look for a different course that does offer visa sponsorship. We have found that it doesnt stop the candidates sufficiently, and needed a different way to stop them.
+Previously, when a candidate had chosen a course, we showed blue inset text warning them this course does not offer visa sponsorship. The content said they need to delete their application and look for a different course that does offer visa sponsorship. 
+
+This inset text did not stop candidates from submitting their application without changing it. We needed a different way to stop them.
 
 ![Screenshot of how we used to tell candidates that the course does not sponsor visas](before.png)
 
