@@ -35,7 +35,7 @@ The original order was:
 - Visa sponsorship
 - Salary provided
 
-![Screenshot of the old filter list showing SEND specialisim at the top](old-filter-list.png)
+![Screenshot of the old filter list showing SEND specialisim at the top](visa-sponsorship-bottom.png)
 
 ‘Visa sponsorship’ was at the bottom and we thought candidates might be missing this because they would have to scroll down the page to see it.
 
@@ -49,7 +49,7 @@ The new order of the filters is now:
 - Salary provided
 - Only show applications that are open
 
-![Screenshot of the new filter list with visa sponsorship at the top.](new-filter-list.png)
+![Screenshot of the new filter list with visa sponsorship at the top.](visa-sponsorship-top.png)
 
 ‘Visa sponsorship’ is now right at the top and easy for candidates to see.
 
