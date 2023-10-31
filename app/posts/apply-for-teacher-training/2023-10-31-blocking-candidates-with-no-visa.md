@@ -1,9 +1,9 @@
 ---
 title: Blocking candidates from applying for course that doesn't sponsor visas
-description: 
+description:
 date: 2023-10-31
 tags:
-  - visa-sponsorship
+  - visa sponsorship
   - international
 ---
 
@@ -21,7 +21,7 @@ We used to have a blue inset text on the application tab, once they have already
 
 ## What we did
 
-We have revisited the user journey from when they fill out their details in 'Your details' tab to adding an application on 'Your application' tab, to include the logic that when a candidate answers the question about the 'right to work or study in UK' with 'No' in their 'personal information' section, to not allow them to add an application that doesn't have visa sponsorship, and they would be displayed with a warning and link to Find service. 
+We have revisited the user journey from when they fill out their details in 'Your details' tab to adding an application on 'Your application' tab, to include the logic that when a candidate answers the question about the 'right to work or study in UK' with 'No' in their 'personal information' section, to not allow them to add an application that doesn't have visa sponsorship, and they would be displayed with a warning and link to Find service.
 
 ![Screenshot of how the application review page looks like with the blocking pattern](after.png)
 
@@ -30,8 +30,3 @@ We went with the above screenshot example, because:
 * They know what they have told us about their visa status.
 * We don't need to overwhelm them with different information (especially on how to use filters etc on find).
 * We only need necessary and simple information on what has happened and what they need to do.
-
-
-
-
-
