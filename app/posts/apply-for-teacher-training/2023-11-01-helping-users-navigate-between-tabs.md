@@ -1,6 +1,6 @@
 ---
 title: Helping users navigate between their task list and submitting applications
-description: We designed and added additional navigations on your details and your applications
+description: We designed and added extra navigation links and buttons to help candidates navigate between their task list and submitting applications.
 date: 2023-11-01
 tags:
   - navigation
