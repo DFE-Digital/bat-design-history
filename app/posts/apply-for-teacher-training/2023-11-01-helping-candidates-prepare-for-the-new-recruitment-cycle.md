@@ -16,7 +16,7 @@ To help candidates prepare for the new cycle, we put together an email communica
 
 Every year we need to send emails to candidates and training providers, this plan would help us write and send emails in good time. It would also help us next year when we need to do this again.
 
-View what we sent to training providers who use Manage teacher training applications (Manage).
+[View what we sent to training providers](/manage-teacher-training-applications/end-of-recruitment-cycle-emails) who use Manage teacher training applications (Manage).
 
 ## What we did
 
@@ -88,11 +88,10 @@ Monday to Friday, 8:30am to 5:30pm (except public holidays).
 
 ### Automated emails from Apply for teacher training (Apply)
 
-When the new recruitment cycle starts, Apply sends 2 automated emails to candidates, these go when:
+When the new recruitment cycle starts, Apply sends 2 automated emails to candidates, these get sent when:
 
-Find postgraduate teacher training (Find) opens on the first Tuesday in Octobers every year
-
-Apply opens on the second Tuesday of October every year
+- Find postgraduate teacher training (Find) opens on the first Tuesday in October every year
+- Apply opens on the second Tuesday of October every year
 
 When Find opens, candidates can start looking for courses and prepare their applications. When Apply opens, candidates can start submitting their applications.
 

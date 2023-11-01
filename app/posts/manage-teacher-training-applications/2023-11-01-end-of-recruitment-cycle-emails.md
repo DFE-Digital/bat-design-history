@@ -16,7 +16,7 @@ To help providers prepare for the end of the cycle, we put together an email com
 
 Every year we send emails out to training providers and candidates, this plan would help us write and send emails in good time. It would also help us next year when we need to do this again.
 
-[View what we sent to candidates] who use Apply for teacher training (Apply).
+[View what we sent to candidates](/apply-for-teacher-training/helping-candidates-prepare-for-the-new-recruitment-cycle) who use Apply for teacher training (Apply).
 
 ## What we did
 
