@@ -80,7 +80,9 @@ For the email to HEIs, we did not mention how Apply works with Register. HEIs us
 
 ### 20 September 2023 – telling training providers to respond to applications submitted by candidates
 
-We needed to remind training providers to respond to candidates who were still waiting for a decision on their application. We also used it as an opportunity to tell providers what the 2023 to 2024 recruitment cycle dates are.
+We needed to remind training providers to respond to candidates who were still waiting for a decision on their application.
+
+We also used it as an opportunity to tell providers what the 2023 to 2024 recruitment cycle dates are.
 
 Email content:
 
