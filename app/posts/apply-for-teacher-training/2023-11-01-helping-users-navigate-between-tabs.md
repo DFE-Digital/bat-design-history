@@ -20,26 +20,31 @@ During these sessions a few people struggled to navigate between the ‘Your det
 ## What we did
 
 ### Added a button on the ‘Your details’ tab after completing all sections of the task list
+
 Once a candidate has completed all  their details, we render a button in a container at the bottom of the page which takes the candidate directly to choosing a training provider and course for their first application. We then hide this button once the candidate has added 4 applications.
 
 ![Screenshot of a new button at the bottom of the your details page](blue-box.png)
 
 ### Link on the ‘Your details’ tab after completing all sections of the task list
+
 Once a candidate has completed their details, we also render a link at the top of the page. This links them to the ‘Your applications’ tab. The link will disappear once the candidate has added 4 application choices.
 
 ![Screenshot of a link at the top of your details page](details-to-applications.png)
 
 ### Link on the ‘Your applications’ tab when a candidate has not completed their details
+
 We also render a link on the ‘Your applications’ tab which links them to their details. We hide this link once they have completed their details.
 
 ![Screenshot of a link on your applications tab](your-applications-to-your-details.png)
 
 ### Link back to the ‘Your details’ tab when the candidate has not completed their details
+
 If the candidate chooses their training provider and course but they have not completed their details, they cannot submit their application. We hide the submission button and instead, render content which links them to their details and confirms that their application will be saved as a draft.
 
 ![Screenshot of the new content and link on the application review page](course-review.png)
 
 ## User testing
+
 We have conducted user research sessions to test this new navigation that has been launched as part of the 2023 to 2024 recruitment cycle. We have received some good feedback that allows us to understand the issue better.
 
 ![Screenshot of comments from user testing session](ur-findings.png)
