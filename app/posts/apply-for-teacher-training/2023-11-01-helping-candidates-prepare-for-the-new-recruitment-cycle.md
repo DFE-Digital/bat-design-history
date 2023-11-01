@@ -104,7 +104,7 @@ Email when Apply opens:
 
 ![Screenshot of the email we send to candidates to tell them they can now start applying for courses. The email links to the Apply service, guidance on the application process and telling candidates about teacher training advisers.](apply-open-email.png)
 
-### 10 October 2023 – telling candidates we’ve updated our terms and conditions.
+### 10 October 2023 – telling candidates we’ve updated our terms and conditions
 
 For the 2023 to 2024 recruitment cycle, we updated our terms and conditions because we [changed the way the application process works](/apply-for-teacher-training/changing-application-process).
 
