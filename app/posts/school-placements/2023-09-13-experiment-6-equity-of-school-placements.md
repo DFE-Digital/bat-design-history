@@ -30,7 +30,7 @@ related:
 
 ![Image showing mentor details](experiment-6-view-mentor--details.png 'Mentor details page')
 
-The mentor details page is split into two sections:
+The mentor details page is split into 2 sections:
 
 - basic details
 - additional details
@@ -57,7 +57,7 @@ The information includes:
 - qualifications
 - date started mentoring
 - provider training
-- SEND training
+- special educational needs and disabilities (SEND) training
 - subject networks and associations
 - other experiences
 
@@ -71,7 +71,9 @@ In this experiment, we added information about:
 
 #### Special educational needs and disabilities (SEND) training
 
-Currently, the SEND training options are based on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) school SEND provision data. In future, we will update the list to include the types of SEND training teachers can do.
+Currently, the SEND training options are based on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) school SEND provision data.
+
+In future, we will update the list to include the types of SEND training teachers can do.
 
 ![Image showing the mentor special educational needs and disabilities training question](experiment-6-edit-mentor--SEND.png 'Mentor special educational needs and disabilities (SEND) training question')
 
@@ -100,7 +102,7 @@ If the user has not answered the question, we show an error message:
 
 #### Subject networks and associations
 
-This question allows users to add information, including if the mentor works as part of an exam board or if the mentor is working with a subject network in their area, etc. This allows the ITT provider to understand more about the mentor when setting up new school placements.
+This question allows users to add information, including if the mentor works as part of an exam board or if the mentor is working with a subject network in their area, and more. This allows the ITT provider to understand more about the mentor when setting up new school placements.
 
 ![Image showing the mentor subject networks and associations question](experiment-6-edit-mentor--networks-and-associations.png 'Mentor subject networks and associations question')
 
@@ -130,8 +132,68 @@ If the user cannot answer the question, they can select ‘Cancel’ or return t
 
 ### Organisation details
 
+Organisation details is a summary of information from on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/).
+
 ![Image showing organisation details](experiment-6-view-organisation--details.png 'Organisation details page')
 
+For schools, the organisation details page is split into 5 sections:
+
+- basic details
+- additional details
+- special educational needs and disabilities (SEND)
+- Ofsted
+- contact details
+
+#### Basic details
+
+Basic details includes:
+
+- organisation name
+- UK provider reference number (UKPRN)
+- unique reference number (URN)
+
+#### Additional details
+
+Additional details includes:
+
+- group
+- type
+- phase
+- gender
+- minimum age
+- maximum age
+- sixth form
+- religious character
+- admissions policy
+- urban or rural
+- school capacity
+- total number of pupils
+- total number of boys
+- total number of girls
+- percentage of free schools meals
+
+#### Special educational needs and disabilities (SEND)
+
+SEND details includes:
+
+- special classes
+- SEND provision
+- training with disabilities
+
+#### Ofsted
+
+Ofsted details includes:
+
+- rating
+- last inspection date
+#### Contact details
+
+Contact details includes:
+
+- email address
+- telephone number
+- website
+- address
 
 ### Edit organisation
 
@@ -220,6 +282,8 @@ Changing the SEND training options for mentors to be more closely aligned to tra
 Making the SEND provision and training questions optional and removing the none option
 
 Giving options for subject networks and associations based on the mentor’s subject
+
+Adding a mentor using a lookup to DQT
 
 ## What we found
 
