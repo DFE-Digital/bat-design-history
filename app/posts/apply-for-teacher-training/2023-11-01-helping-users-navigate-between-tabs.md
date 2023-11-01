@@ -45,7 +45,7 @@ If the candidate chooses their training provider and course but they have not co
 
 ## User testing
 
-We have conducted user research sessions to test this new navigation that has been launched as part of the 2023 to 2024 recruitment cycle. We have received some good feedback that allows us to understand the issue better.
+We conducted user research sessions to test this new navigation that has been launched as part of the 2023 to 2024 recruitment cycle. We received some good feedback that allows us to understand the issue better.
 
 ![Screenshot of comments from user testing session](ur-findings.png)
 
