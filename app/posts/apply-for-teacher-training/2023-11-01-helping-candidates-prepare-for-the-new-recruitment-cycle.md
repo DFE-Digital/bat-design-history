@@ -90,9 +90,9 @@ Monday to Friday, 8:30am to 5:30pm (except public holidays).
 
 When the new recruitment cycle starts, Apply sends 2 automated emails to candidates, these go when:
 
-Find postgraduate teacher training (Find) opens on the first Tuesday in Octobers every year
+* Find postgraduate teacher training (Find) opens on the first Tuesday in Octobers every year
 
-Apply opens on the second Tuesday of October every year
+* Apply opens on the second Tuesday of October every year
 
 When Find opens, candidates can start looking for courses and prepare their applications. When Apply opens, candidates can start submitting their applications.
 
