@@ -9,7 +9,7 @@ tags:
 
 We designed and implemented additional navigation links and call to actions (CTAs) between the ['Your details’ and ‘Your applications’ tabs](/apply-for-teacher-training/adding-a-navigation-bar/) in Apply for teacher training (Apply).
 
-These improvements aim to improve the user experience and helps candidates seamlessly transition between managing their details, adding applications and viewing applications.
+These changes aim to improve the user experience and help candidates seamlessly transition between managing their details, adding applications and viewing applications.
 
 ## The issue
 
