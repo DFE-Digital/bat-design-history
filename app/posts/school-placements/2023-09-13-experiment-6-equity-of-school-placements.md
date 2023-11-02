@@ -186,6 +186,7 @@ Ofsted details includes:
 
 - rating
 - last inspection date
+
 #### Contact details
 
 Contact details includes:
