@@ -6,7 +6,7 @@ tags:
   - applications
 ---
 
-We included headings in between the list of applications a candidate sees when they start applying for teacher training. This was a simple approach to help candidates view applications while we redesign the application page.
+We included headings in between the list of applications a candidate sees when they start applying for teacher training. This was a simple approach to help candidates scan applications quickly while we redesign the application page.
 
 This change was implemented in October 2023.
 
@@ -46,10 +46,8 @@ Once we had grouped the different statuses, we gave each group a heading and add
 
 ## Further considerations
 
-We need to test the content and order of these headings.
-
 We are also working on redesigning the page where candidates can see all their applications. The ‘summary card’ pattern worked well when candidates could only apply to 4 courses at a time.
 
-Since we [changed the applications process](/apply-for-teacher-training/changing-application-process), candidates can submit multiple applications and the summary cards take up a lot of space.
+Since we [changed the application process](/apply-for-teacher-training/changing-application-process), candidates can submit multiple applications and the summary cards take up a lot of space.
 
 Once we have the new designs, we will test them with candidates.
