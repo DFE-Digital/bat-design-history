@@ -6,7 +6,7 @@ tags:
   - applications
 ---
 
-We included headings in between the list of applications a candidate sees when they start applying for teacher training. This was a simple approach to help candidates view applications while we redesing the application page.
+We included headings in between the list of applications a candidate sees when they start applying for teacher training. This was a simple approach to help candidates view applications while we redesign the application page.
 
 This change was implemented in October 2023.
 
