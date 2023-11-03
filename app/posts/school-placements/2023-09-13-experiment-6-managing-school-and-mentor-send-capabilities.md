@@ -5,7 +5,9 @@ date: 2023-09-13
 tags:
   - school placements
   - alpha
-  - SEND
+  - diversity
+  - equity
+  - inclusion
 related:
   items:
     - text: "Experiment 5: Managing mentors if you’re a school"
@@ -20,7 +22,7 @@ In previous experiments, we focused on:
 - schools managing mentors
 - ITT providers finding school placements
 
-Throughout these experiments, it became apparent that it was important for us to explore how we collect and show school and mentor special educational needs and disabilities (SEND) capabilities.
+Throughout these experiments, it became apparent that it was essential for us to explore how we collect and show school and mentor special educational needs and disabilities (SEND) capabilities.
 
 This is because we need to support trainees who:
 
@@ -43,7 +45,7 @@ The fact-finding part of the research included:
 
 ### Understanding how a school might collect and show SEND capabilities
 
-We showed participants a prototype journey of how a school could collect and show school and mentor SEND capabilities to support trainees who:
+We showed participants a prototype journey of how a school could collect and display school and mentor SEND capabilities to support trainees who:
 
 - are studying a course with a SEND specialism
 - need support because they may have a disability
@@ -56,7 +58,7 @@ We showed participants a prototype journey of how a school could collect and sho
 
 ![Image showing mentor details](experiment-6-view-mentor--details.png 'Mentor details page')
 
-The mentor details page is split into 2 sections:
+We split the mentor details page into 2 sections:
 
 - basic details
 - additional details
@@ -97,7 +99,7 @@ In this experiment, we added information about:
 
 #### Special educational needs and disabilities (SEND) training
 
-Currently, the SEND training options are based on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) school SEND provision data.
+We based the SEND training options on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) school SEND provision data.
 
 In future, we will update the list to include the types of SEND training teachers can do.
 
@@ -142,7 +144,7 @@ If the user cannot answer the question, they can select ‘Cancel’ or return t
 
 #### Other experiences
 
-This question allows users to add information about a mentor’s vocational experience. This allows the ITT provider to understand more about the mentor when setting up new school placements.
+This question allows users to add information about a mentor’s vocational experience. This information enables the ITT provider to understand more about the mentor when setting up new school placements.
 
 ![Image showing the mentor other experiences question](experiment-6-edit-mentor--other-experiences.png 'Mentor other experiences question')
 
@@ -162,7 +164,7 @@ Organisation details is a summary of information from on [Get information about 
 
 ![Image showing organisation details](experiment-6-view-organisation--details.png 'Organisation details page')
 
-For schools, the organisation details page is split into 5 sections:
+For schools, we split the organisation details page into 5 sections:
 
 - basic details
 - additional details
@@ -212,7 +214,6 @@ Ofsted details include:
 
 - rating
 - last inspection date
-
 #### Contact details
 
 Contact details include:
@@ -232,7 +233,7 @@ In this experiment, we added information about:
 
 #### Special classes
 
-The special classes question is based on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
+We based the special classes question on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
 
 We allow users to update the information in case GIAS data is incorrect.
 
@@ -251,7 +252,7 @@ If the user cannot answer the question, they can select ‘Cancel’ or return t
 
 #### Special educational needs and disabilities (SEND) provision
 
-The SEND provision question is based on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
+We based the SEND provision question on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
 
 We allow users to update the information in case GIAS data is incorrect.
 
@@ -284,7 +285,7 @@ If the user cannot answer the question, they can select ‘Cancel’ or return t
 
 #### Training with disabilities
 
-The training with disabilities question is based on a question we have in Publish teacher training courses (Publish) and which is displayed on the course details pages on Find postgraduate teacher training (Find).
+We based the training with disabilities question on a question we have in Publish teacher training courses (Publish), and it is displayed on the course details pages on Find postgraduate teacher training (Find).
 
 The purpose of the question is for schools to describe how they support training with disabilities. For example, they could use it to describe the accessibility of their facilities, what equipment might be available for people with access needs, and more.
 
@@ -313,11 +314,11 @@ In the add mentor flow, we ask for a mentor’s name, email address and TRN. We 
 
 ### Improving the language used in questions based on GIAS information
 
-We have a number of questions based on information we import from GIAS, for example ‘Special classes’, ‘Religious character’ and ‘Urban or rural.’ We need to consider if this language is well understood and what we should name things if it is not understood.
+We have several questions based on information we import from GIAS, for example, ‘Special classes’, ‘Religious character’ and ‘Urban or rural.’ We need to consider if this language is well understood and what we should name things if it is not understood.
 
 ### Aligning SEND training options for mentors to available training
 
-In the prototype, we use the school’s SEND provision options in the list of SEND training options for mentors. This is not correct. The list should contain a common set of SEND training options for mentors.
+In the prototype, we use the school’s SEND provision options in the list of SEND training options for mentors. These options are not correct. The list should contain a standard set of SEND training options for mentors.
 
 ### Giving options for subject networks and associations based on the mentor’s subject
 
@@ -325,11 +326,13 @@ The ‘Subject networks and associations’ question collects answers as free te
 
 ## What we found
 
+In general, participants found the collection and display of SEND capabilities helpful if it improved the quality of their school placements and the trainees they received.
+
 ### Mentors
 
-Mentor qualifications are helpful as they can be used to showcase mentor capabilities.
+Mentor qualifications are helpful as schools can use them to showcase mentor capabilities.
 
-There is a lack of mentors with specific SEND qualifications.
+There needs to be more mentors with specific SEND qualifications.
 
 Where mentors have some form of SEND training, it might have been via local or online seminars. The training is informal with no specific qualification at the end.
 
