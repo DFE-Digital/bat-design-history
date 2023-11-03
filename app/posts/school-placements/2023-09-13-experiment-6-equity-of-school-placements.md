@@ -1,13 +1,11 @@
 ---
-title: "Experiment 6: Equity of school placements"
-description: Exploring how we collect and show school and mentor SEND capabilities
+title: "Experiment 6: Managing school and mentor SEND capabilities"
+description: Exploring how we collect and show school and mentor special educational needs and disabilities (SEND) capabilities
 date: 2023-09-13
 tags:
   - school placements
   - alpha
-  - diversity
-  - equity
-  - inclusion
+  - SEND
 related:
   items:
     - text: "Experiment 5: Managing mentors if you’re a school"
