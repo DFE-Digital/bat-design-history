@@ -203,6 +203,7 @@ Ofsted details include:
 
 - rating
 - last inspection date
+
 #### Contact details
 
 Contact details include:
