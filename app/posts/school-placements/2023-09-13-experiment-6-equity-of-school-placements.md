@@ -16,13 +16,24 @@ related:
       href: https://get-information-schools.service.gov.uk/
 ---
 
-[Preamble]
+In previous experiments, we focused on:
+
+- schools adding school placements
+- schools managing mentors
+- ITT providers finding school placements
+
+Throughout these experiments, it became apparent that it was important for us to explore how we collect and show school and mentor special educational needs and disabilities (SEND) capabilities.
+
+This is because we need to support trainees who:
+
+- are studying a course with a SEND specialism
+- need additional help because they may have a disability
 
 ## Experiment goals
 
 The experiment had 2 goals:
 
-- general fact-finding about school placements and mentor
+- general fact-finding about school placements and mentors
 - understanding how a school might collect and show SEND capabilities
 
 ### General fact-finding about school placements and mentors
@@ -34,7 +45,7 @@ The fact-finding part of the research included:
 
 ### Understanding how a school might collect and show SEND capabilities
 
-We showed participants a prototype journey of how a school could collect and show school and mentor special educational needs and disabilities (SEND) capabilities to support trainees who:
+We showed participants a prototype journey of how a school could collect and show school and mentor SEND capabilities to support trainees who:
 
 - are studying a course with a SEND specialism
 - need support because they may have a disability
@@ -317,17 +328,19 @@ The ‘Subject networks and associations’ question collects answers as free te
 
 ### Mentors
 
-Mentor qualifications is very useful as even the lead mentor who manages their mentors may not know everything their colleagues have done (eg NPQ)
+Mentor qualifications are helpful as they can be used to showcase mentor capabilities.
+
+There is a lack of mentors with specific SEND qualifications.
+
+Where mentors have some form of SEND training, it might have been via local or online seminars. The training is informal with no specific qualification at the end.
 
 ### Schools
 
-The term 'training with additional needs' may be more optimal as terminology as opposed to 'training with disabilities'
+There isn’t a single definition for a school’s capability to support trainees with additional needs. This is likely because these types of trainees are less common.
 
-There isn't really a definition for schools' capability to supporting trainees with needs, this is likely because it is the exception rather than the norm
+‘Training with disabilities’ was ambiguous. A better term might be ‘Training with additional needs.’
 
-There appears to be a gap in mentors having specific SEND qualifications, we heard that some seminars are ran and short informal courses etc
-
-Feedback indicated we should separate sections within the organisation page for supporting students and supporting trainees with needs
+We need to differentiate how the school supports students with special educational needs and how they support trainees with disabilities.
 
 *[DQT]: Database of Qualified Teachers
 *[GIAS]: Get information about schools
