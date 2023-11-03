@@ -1,6 +1,6 @@
 ---
 title: "Experiment 6: Equity of school placements"
-description: XXXX
+description: Exploring how we collect and show school and mentor SEND capabilities
 date: 2023-09-13
 tags:
   - school placements
@@ -18,9 +18,26 @@ related:
 
 [Preamble]
 
-## What we did
+## Experiment goals
 
-[Describe the goal(s) of the experiment.]
+The experiment had 2 goals:
+
+- general fact-finding about school placements and mentor
+- understanding how a school might collect and show SEND capabilities
+
+### General fact-finding about school placements and mentors
+
+The fact-finding part of the research included:
+
+- a general discussion about the participant’s role, their organisation and their ITT provider relationships
+- a run-through of their pain points, core needs and any specific challenges they face with school placements and mentors
+
+### Understanding how a school might collect and show SEND capabilities
+
+We showed participants a prototype journey of how a school could collect and show school and mentor special educational needs and disabilities (SEND) capabilities to support trainees who:
+
+- are studying a course with a SEND specialism
+- need support because they may have a disability
 
 ## Mentor information
 
@@ -102,7 +119,7 @@ If the user has not answered the question, we show an error message:
 
 #### Subject networks and associations
 
-This question allows users to add information, including if the mentor works as part of an exam board or if the mentor is working with a subject network in their area, and more. This allows the ITT provider to understand more about the mentor when setting up new school placements.
+This question allows users to add information, including if the mentor works as part of an exam board, if the mentor is working with a subject network in their area, and more. This allows the ITT provider to understand more about the mentor when setting up new school placements.
 
 ![Image showing the mentor subject networks and associations question](experiment-6-edit-mentor--networks-and-associations.png 'Mentor subject networks and associations question')
 
@@ -146,7 +163,7 @@ For schools, the organisation details page is split into 5 sections:
 
 #### Basic details
 
-Basic details includes:
+Basic details include:
 
 - organisation name
 - UK provider reference number (UKPRN)
@@ -154,7 +171,7 @@ Basic details includes:
 
 #### Additional details
 
-Additional details includes:
+Additional details include:
 
 - group
 - type
@@ -170,11 +187,11 @@ Additional details includes:
 - total number of pupils
 - total number of boys
 - total number of girls
-- percentage of free schools meals
+- percentage of free school meals
 
 #### Special educational needs and disabilities (SEND)
 
-SEND details includes:
+SEND details include:
 
 - special classes
 - SEND provision
@@ -182,14 +199,13 @@ SEND details includes:
 
 #### Ofsted
 
-Ofsted details includes:
+Ofsted details include:
 
 - rating
 - last inspection date
-
 #### Contact details
 
-Contact details includes:
+Contact details include:
 
 - email address
 - telephone number
@@ -274,27 +290,48 @@ If the user cannot answer the question, they can select ‘Cancel’ or return t
 
 ## Further considerations
 
-Improving the language
+We considered some changes that we did not implement. These included:
 
-- special classes
-- SEND provision for organisations
+- finding the mentor’s details using the Database of Qualified Teachers (DQT)
+- improving the language used in questions based on GIAS information
+- aligning SEND training options for mentors to available training
+- giving options for subject networks and associations based on the mentor’s subject
 
-Changing the SEND training options for mentors to be more closely aligned to training available
+### Finding the mentor’s details using the Database of Qualified Teachers (DQT)
 
-Making the SEND provision and training questions optional and removing the none option
+In the add mentor flow, we ask for a mentor’s name, email address and TRN. We can use the name and TRN to look up the mentor details in DQT, so we do not need to duplicate information, for example, the date they qualified as a teacher and their qualifications.
 
-Giving options for subject networks and associations based on the mentor’s subject
+### Improving the language used in questions based on GIAS information
 
-Adding a mentor using a lookup to DQT
+We have a number of questions based on information we import from GIAS, for example ‘Special classes’, ‘Religious character’ and ‘Urban or rural.’ We need to consider if this language is well understood and what we should name things if it is not understood.
+
+### Aligning SEND training options for mentors to available training
+
+In the prototype, we use the school’s SEND provision options in the list of SEND training options for mentors. This is not correct. The list should contain a common set of SEND training options for mentors.
+
+### Giving options for subject networks and associations based on the mentor’s subject
+
+The ‘Subject networks and associations’ question collects answers as free text. This means we need to guide users so they know what to write. A better option may be to provide standard options based on what we know about the mentor’s subject.
 
 ## What we found
 
-The term 'training with additional needs' may be more optimal as terminology as opposed to 'training with disabilities'
+### Mentors
 
 Mentor qualifications is very useful as even the lead mentor who manages their mentors may not know everything their colleagues have done (eg NPQ)
+
+### Schools
+
+The term 'training with additional needs' may be more optimal as terminology as opposed to 'training with disabilities'
 
 There isn't really a definition for schools' capability to supporting trainees with needs, this is likely because it is the exception rather than the norm
 
 There appears to be a gap in mentors having specific SEND qualifications, we heard that some seminars are ran and short informal courses etc
 
-Feedback indiciated we should separate sections within the organisation page for supporting students and supporting trainees with needs
+Feedback indicated we should separate sections within the organisation page for supporting students and supporting trainees with needs
+
+*[DQT]: Database of Qualified Teachers
+*[GIAS]: Get information about schools
+*[ITT]: Initial Teacher Training
+*[NPQ]: National Professional Qualification
+*[SEND]: Special Educational Needs and Disabilities
+*[TRN]: Teacher Reference Number
