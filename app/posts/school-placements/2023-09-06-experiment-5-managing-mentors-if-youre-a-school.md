@@ -334,7 +334,7 @@ We considered some changes that we did not implement. These included:
 
 ### Finding the mentor’s details using DQT
 
-In the add user flow, we ask for a mentor’s name, email address and TRN. We can use the name and TRN to look up the mentor details in DQT, so we do not need to duplicate information, for example, the date they qualified as a teacher and their qualifications.
+In the add mentor flow, we ask for a mentor’s name, email address and TRN. We can use the name and TRN to look up the mentor details in DQT, so we do not need to duplicate information, for example, the date they qualified as a teacher and their qualifications.
 
 ### Showing ‘7 to 14 - middle years’ for both subject levels
 
