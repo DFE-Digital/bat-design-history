@@ -23,7 +23,7 @@ We designed a new pattern that ‘interrupts’ the user from submitting an appl
 
 When a candidate adds an application, they choose their training provider, course and location preference. After they’ve made this selection, they can review and then submit their application.
 
-We have added an additional step before the candidate can review their application. If the candidate’s personal statement is less than 500 words, they are taken to a different page telling them their personal statement is too short and we ask the candidate if they want to edit their statement or continue without editing. If they choose, they want to edit they would be navigated to the personal statement page, and the application would be saved as a draft until they are ready to submit. If they choose to continue without editing, then they can review their application and submit it.
+We have added an additional step before the candidate can review their application. If the candidate’s personal statement is less than 500 words, they are taken to a different page telling them their personal statement is too short and we ask the candidate if they want to edit their statement or continue without editing. If they want to edit their statement, they would be navigated to the personal statement page, and the application would be saved as a draft until they are ready to submit. If they choose to continue without editing, then they can review their application and submit it.
 
 ![Image of the user flow for interruption modul integrated into the application process](user-flow-2.jpg)
 
