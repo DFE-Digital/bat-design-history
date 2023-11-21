@@ -7,7 +7,7 @@ tags:
   - personal statement
 ---
 
-![Screenshot of a user "What stands out to me is '90% of successful candidates write this." - P2](head-image.png)
+![Image of a quote a user has said during user research session ](head-image.png)
 We designed and tested a new pattern in Apply for teacher training (Apply).
 The new pattern aims to help candidates improve their personal statement before they submit an application, so they have a better chance of being accepted onto a course.
 
