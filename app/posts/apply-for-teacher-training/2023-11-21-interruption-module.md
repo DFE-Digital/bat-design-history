@@ -1,6 +1,6 @@
 ---
 title: Giving applicants the best chance of success
-description: New design pattern that focuses on improving candidates personal statement
+description: We designed a new pattern that encourages candidates improve their personal statement just before they submit their application
 date: 2023-11-21
 tags:
   - applications
