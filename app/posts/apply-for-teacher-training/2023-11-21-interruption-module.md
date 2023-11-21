@@ -43,11 +43,11 @@ We conducted user research sessions in November 2023. We found that:
 
 - users were attracted to read the message because ‘graphically it stood out’.
 
-> "as someone who does have bad eyesight it's visually clear to see." - P4
+> "as someone who does have bad eyesight it's visually clear to see." - research participant 4
 
 - most users were drawn to the statistic ‘90% of successful candidates write about 500 words or more’.
 
-> "What stands out to me is '90% of successful candidates write this." - P2
+> "What stands out to me is '90% of successful candidates write this." - research participant 2
 
 - all users understood that the purpose of the message was to encourage candidates to write more to increase their chance of getting and offer
 
@@ -57,9 +57,9 @@ We conducted user research sessions in November 2023. We found that:
 
 - the new page was perceived as ‘supporting’ candidates to do well
 
-> "I really like this, that it gives you the option to go back and improve your PS. I really feel that you are being supported by the Department for Education" - P4
+> "I really like this, that it gives you the option to go back and improve your PS. I really feel that you are being supported by the Department for Education" - research participant 4
 
-> "Most things I have applied for e.g. Uni applications, don't give guidance. It feels like they care, and they want you to do well and hopefully become a successful candidate from it." - P3
+> "Most things I have applied for e.g. Uni applications, don't give guidance. It feels like they care, and they want you to do well and hopefully become a successful candidate from it." - research participant 3
 
 ## Further considerations
 
