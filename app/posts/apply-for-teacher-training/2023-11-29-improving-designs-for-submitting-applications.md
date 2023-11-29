@@ -1,6 +1,6 @@
 ---
 title: Improving the designs when a candidate submits an application
-description: We added a review page and changed to content when a candidate submit their application after seeing many support tickets from candidates.
+description: We added a page to help candidates review their application before submitting it and improved the content around submitting an application.
 date: 2023-11-29
 tags:
   - applications
