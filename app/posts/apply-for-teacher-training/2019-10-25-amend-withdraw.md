@@ -4,7 +4,7 @@ description: Amending applications and withdrawing course choices.
 date: 2019-10-25
 tags:
   - withdrawals
-  - editing application
+  - editing applications
 screenshots:
   items:
     - text: Dashboard post submission (within amendment period)
