@@ -7,7 +7,7 @@ tags:
   - application status
 ---
 
-When a candidate accepts an offer from a training provider, their status changes from ‘offer made’ to cConditions pending’ in Manage teacher training applications (Manage).
+When a candidate accepts an offer from a training provider, their status changes from ‘offer made’ to 'conditions pending’ in Manage teacher training applications (Manage).
 
 A ‘conditions pending’ status means the candidates must meet conditions the provider has set before they can start their course. These can include:
 
