@@ -7,6 +7,10 @@ tags:
   - alpha
   - mentors
   - trainees
+related:
+  items:
+    - text: "Initial teacher training (ITT): criteria and supporting advice (PDF)"
+      href: https://assets.publishing.service.gov.uk/media/64ef61b813ae15000d6e30c1/Initial_teacher_training_criteria_and_supporting_advice_2024_to_2025.pdf
 ---
 
 School placements consist of 3 parts:
@@ -53,7 +57,9 @@ While most contrast factors don’t change frequently, there are exceptions, for
 - school size - number of students
 - previous experience in ITT
 
-Contrast factors are essential when placing trainees, as trainees must work in contrasting educational settings.
+Contrast factors are essential when placing trainees, as trainees must work in contrasting educational settings to enable them to meet the Teachers’ Standards.
+
+As set out in the [ITT criteria (section C2.4)](https://assets.publishing.service.gov.uk/media/64ef61b813ae15000d6e30c1/Initial_teacher_training_criteria_and_supporting_advice_2024_to_2025.pdf), trainee teachers need a variety of experience in schools to enable them to meet all the Teachers’ Standards, and they must have taught classes to pupils in at least two educational settings before ITT providers award QTS.
 
 ## Mentor
 
@@ -70,7 +76,7 @@ Class teachers make good mentors because they can:
 - support the trainee closely in the classroom
 - facilitate the trainee’s reflective practice
 
-The quality of support and mentoring a trainee receives impacts their likelihood of success in completing a course, gaining qualified teacher status (QTS), and entering the teaching workforce.
+_Assumption: the quality of support and mentoring a trainee receives impacts their likelihood of success in completing a course, gaining qualified teacher status (QTS), and entering the teaching workforce._
 
 In Manage, mentors have several attributes:
 
