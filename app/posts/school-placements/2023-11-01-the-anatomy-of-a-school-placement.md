@@ -32,7 +32,7 @@ Educational settings include, for example:
 
 - nurseries
 - schools
-- sixth form colleges
+- further education colleges
 - independent schools
 
 Educational settings have ‘contrast factors.’ Contrast factors describe the setting and can include:
@@ -76,7 +76,7 @@ Class teachers make good mentors because they can:
 - support the trainee closely in the classroom
 - facilitate the trainee’s reflective practice
 
-_Assumption: the quality of support and mentoring a trainee receives impacts their likelihood of success in completing a course, gaining qualified teacher status (QTS), and entering the teaching workforce._
+_Assumption: the quality of support and mentoring a trainee receives can impact their likelihood of success in completing a course, gaining qualified teacher status (QTS), and entering the teaching workforce._
 
 In Manage, mentors have several attributes:
 
