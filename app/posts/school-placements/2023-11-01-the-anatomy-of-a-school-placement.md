@@ -116,6 +116,8 @@ ITT providers have different windows. For example:
 
 Note: A, B and C are individual schools.
 
+Trainees need to do at least two placements and their programmes need to be designed to allow them to spend at least 120 days (24 weeks) in school across all placements.
+
 ## ITT Provider
 
 ITT providers are responsible for organising school placements and assessing the suitability of the school and mentor.
