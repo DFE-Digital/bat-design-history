@@ -63,7 +63,7 @@
     "rollup": "^4.7.0"
   },
   "devDependencies": {
-    "markdownlint-cli": "^0.37.0",
+    "markdownlint-cli": "^0.38.0",
     "standard": "^17.1.0",
     "webshot-node": "^0.18.3"
   },
