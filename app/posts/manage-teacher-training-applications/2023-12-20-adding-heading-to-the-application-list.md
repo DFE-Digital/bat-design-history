@@ -30,4 +30,4 @@ We changed the colour of the text on applications submitted over 30 days ago. We
 
 As a team, we are currently looking at more effective ways to help providers manage their workload, because headings and coloured text will not solve this issue entirely.
 
-We've also conducted a round of user research with training providers to understand their pain points with the increase in applications this cycle so we can look at designing solutions to help our users.
+We have also conducted a round of user research with training providers to understand their pain points with the increase in applications this cycle so we can look at designing solutions to help our users.
