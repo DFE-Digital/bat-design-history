@@ -10,6 +10,12 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/school-placements/*"
+  to = "/manage-school-placements/:splat"
+  status = 301
+  force = true
+
 [build]
   command = "npm run build"
   publish = "public"
