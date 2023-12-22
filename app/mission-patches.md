@@ -166,7 +166,7 @@ Ants are ‘superorganisms’ because they operate as a unified entity, collecti
 
 We use [Diginate](https://diginate.com) to print our stickers using the following specifications:
 
-{% from "govuk/components/summary-list/macro.njk" import govukSummaryList %}
+{% from "dist/govuk/components/summary-list/macro.njk" import govukSummaryList %}
 
 {{ govukSummaryList({
   rows: [{

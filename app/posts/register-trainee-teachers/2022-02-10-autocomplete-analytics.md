@@ -10,7 +10,7 @@ related:
       href: https://datastudio.google.com/s/qW6s8xj8O-I
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
+{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 We’ve added custom analytics to our autocompletes to better understand how they’re used.
 

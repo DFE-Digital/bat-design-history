@@ -33,7 +33,7 @@ screenshots:
       src: 12-other-international-qualification.png
 ---
 
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "[We iterated this design before opening up the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status)" | markdown("inline"),
   iconFallbackText: "Warning"

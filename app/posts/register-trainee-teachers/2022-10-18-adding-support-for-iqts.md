@@ -21,7 +21,7 @@ iQTS aims to:
 
 {% endset %}
 
-{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+{% from "dist/govuk/components/inset-text/macro.njk" import govukInsetText %}
 {{ govukInsetText({
   text: insetContent
 }) }}

@@ -27,7 +27,7 @@ screenshots:
       src: dashboard-withdrawn.png
 ---
 
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "[We didn’t build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline"),
   iconFallbackText: "Warning"

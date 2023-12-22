@@ -12,7 +12,7 @@ related:
       href: https://datastudio.google.com/s/qW6s8xj8O-I
 ---
 {% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
+{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 Over the last year we’ve updated our autocompletes to improve how they work and address usability issues we’ve found. We’ve tried to make these improvements general purpose so that other teams can benefit from them.
 

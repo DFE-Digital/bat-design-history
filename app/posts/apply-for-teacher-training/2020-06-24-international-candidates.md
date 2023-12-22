@@ -49,7 +49,7 @@ There are some aspects we can address through the application process.
 
 ## Residency and visa status
 
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "[We later iterated how we ask for nationality in this section](/apply-for-teacher-training/nationality)" | markdown("inline"),
   iconFallbackText: "Warning"

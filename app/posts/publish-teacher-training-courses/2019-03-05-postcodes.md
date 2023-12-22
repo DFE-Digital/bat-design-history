@@ -43,7 +43,7 @@ When storing postcodes:
 
 We need an error message that helps a user recover.
 
-{% from "govuk/components/input/macro.njk" import govukInput %}
+{% from "dist/govuk/components/input/macro.njk" import govukInput %}
 {{ govukInput({
   label: {
     text: "Postcode"

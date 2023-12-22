@@ -6,7 +6,7 @@ tags:
   - rollover
 ---
 
-{% from "govuk/components/summary-list/macro.njk" import govukSummaryList %}
+{% from "dist/govuk/components/summary-list/macro.njk" import govukSummaryList %}
 {% from "email/macro.njk" import appEmail %}
 
 Rollover is the process of copying courses from the current cycle to the next. This entry documents significant information and dates from the second Publish teacher training courses (Publish) rollover.

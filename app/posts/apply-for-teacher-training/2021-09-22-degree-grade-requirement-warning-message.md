@@ -17,7 +17,7 @@ related:
       description: Post about collecting degree entry requirements on Publish.
 ---
 
-{% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
+{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 One of the reasons why providers reject candidates is because they do not have the right degree grade (for example 2:1 or above).
 
