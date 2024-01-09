@@ -3,7 +3,7 @@ title: Investigating free text responses from Apply
 description: Looking at data submitted to Apply and how it might impact Register
 date: 2021-04-20
 ---
-{% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
+{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 As part of importing applications from Apply, we have a challenge that some of the data we get may not meet the requirements of our downstream systems. In particular, for some fields applicants can give free text responses, where we (currently) require an answer from a fixed list.
 

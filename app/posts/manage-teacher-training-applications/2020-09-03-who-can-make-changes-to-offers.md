@@ -4,7 +4,7 @@ description: Who can make (changes to) offers and what users at the organisation
 date: 2020-09-03
 ---
 
-{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+{% from "dist/govuk/components/inset-text/macro.njk" import govukInsetText %}
 
 This post explains who can make (changes to) offers and what users at the organisations can see before and after these changes happen.
 

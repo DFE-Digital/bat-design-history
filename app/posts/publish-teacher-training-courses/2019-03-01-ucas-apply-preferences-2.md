@@ -15,7 +15,7 @@ screenshots:
     - Email alerts
 ---
 
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "[This design has been updated to include contacts](/publish-teacher-training-courses/ucas-contacts)" | markdown("inline"),
   iconFallbackText: "Warning"

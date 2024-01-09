@@ -9,7 +9,7 @@ tags:
 ---
 {% from "bar-chart/macro.njk" import appBarChart %}
 
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "28 February – Update from UCAS: Only UTT application alerts and GT12 preferences need to be set. [Updated design](/publish-teacher-training-courses/ucas-apply-preferences-2)" | markdown("inline"),
   iconFallbackText: "Warning"

@@ -1,4 +1,4 @@
-{% extends "govuk/template.njk" %}
+{% extends "dist/govuk/template.njk" %}
 
 {% set htmlClasses = 'no-js' %}
 
@@ -6,8 +6,7 @@
 {% from "breadcrumbs/macro.njk" import appBreadcrumbs %}
 
 {% block head %}
-<!--[if lte IE 8]><link href="/stylesheets/application-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
-<!--[if gt IE 8]><!--><link href="/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" /><!--<![endif]-->
+<link href="/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" />
 <meta name="description" content="{{ description | markdown('inline') | striptags(true) | default(app.description) }}">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description | markdown('inline') | striptags(true) | default(app.description) }}">
@@ -79,8 +78,8 @@
 {% endblock %}
 
 {% block bodyEnd %}
+  <script src="/javascripts/govuk-frontend.js" type="module"></script>
   {% block scripts %}
-    <script src="/javascripts/govuk-frontend.js"></script>
     <script src="/javascripts/application.js"></script>
     {% block pageScripts %}{% endblock %}
   {% endblock %}

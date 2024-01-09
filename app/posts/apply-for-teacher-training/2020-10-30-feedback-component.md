@@ -38,7 +38,7 @@ Pages on GOV.​UK tend to revolve around guidance, whereas many pages within ou
 
 We can also update the design so that it’s not as prominent on pages, where the question should have focus.
 
-{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+{% from "dist/govuk/components/inset-text/macro.njk" import govukInsetText %}
 {{ govukInsetText({
   html: "To ensure we gather feedback consistently, we will use <a href=\"/find-teacher-training/feedback-component\">the same component on the Find service</a>, too"
 }) }}

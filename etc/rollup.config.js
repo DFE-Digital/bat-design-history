@@ -12,7 +12,7 @@ module.exports = [{
     commonjs()
   ]
 }, {
-  input: 'node_modules/govuk-frontend/govuk/all.js',
+  input: 'node_modules/govuk-frontend/dist/govuk/govuk-frontend.min.js',
   output: {
     file: 'public/javascripts/govuk-frontend.js'
   },

@@ -46,7 +46,7 @@ related:
       href: https://docs.google.com/spreadsheets/d/1F-Rrk3d732ep6ifc5-KdDi9zlgo9lBVk1Z8-sOElgVg
 ---
 
-{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+{% from "dist/govuk/components/inset-text/macro.njk" import govukInsetText %}
 {{ govukInsetText({
   html: "This follows on from the work to [allow degree qualifications to use structured data](/apply-for-teacher-training/structured-data-for-degrees)." | markdown
 }) }}

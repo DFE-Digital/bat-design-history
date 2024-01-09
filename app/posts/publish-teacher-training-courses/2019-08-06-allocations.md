@@ -18,7 +18,7 @@ screenshots:
   <p><a href="https://trello.com/c/CNOPjJNc/1861-allocations-in-find-design-research">Trello ticket</a></p>
 {% endset %}
 
-{% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
+{% from "dist/govuk/components/inset-text/macro.njk" import govukInsetText %}
 {{ govukInsetText({
   html: html
 }) }}

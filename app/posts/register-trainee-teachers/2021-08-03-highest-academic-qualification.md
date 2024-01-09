@@ -4,11 +4,11 @@ description: Why we think we do not need this question and an alternate design i
 date: 2021-08-03
 ---
 
-{% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
+{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 For trainees on undergraduate courses we ask for the trainee’s highest academic qualification, for example most trainees have ‘A levels’ or ‘Scottish Highers’.
 
-The question was causing users confusion. It seems to be because it’s inconsistent with how users think about academic qualifications. A teacher training provider thinks about a trainee’s qualifications as the measure of whether a trainee is qualified for their course. This is often measured in ‘UCAS tariff points’ and often several types of qualification in combination make up the right amount for eligibility. In research sessions users tried to give the trainee’s actual qualifications. When users found they could only provide a single qualification most users re-read the question but did not have the correct answer to hand. Instead they would try using the UCAS tariff points calculator to determine the highest qualification. 
+The question was causing users confusion. It seems to be because it’s inconsistent with how users think about academic qualifications. A teacher training provider thinks about a trainee’s qualifications as the measure of whether a trainee is qualified for their course. This is often measured in ‘UCAS tariff points’ and often several types of qualification in combination make up the right amount for eligibility. In research sessions users tried to give the trainee’s actual qualifications. When users found they could only provide a single qualification most users re-read the question but did not have the correct answer to hand. Instead they would try using the UCAS tariff points calculator to determine the highest qualification.
 
 > “I assume the DFE wants to know the range of all the qualifications trainees have to have in order to be eligible for training on our course [...] and usually that would be a combination of qualifications. But this – this is a bewildering list of too many things and you can't do them in combination!”
 
@@ -319,7 +319,7 @@ Using this page on [qualification levels](https://www.gov.uk/what-different-qual
 
 It’s hard to see how this data is useful to the providers or trainees. For example, it’s not detailed enough to be used on a teacher’s record in the Database of Qualified Teachers (DQT).
 
-It’s also hard to see how this can be useful statistically. The number of trainees on undergraduate courses going through Register compared to HESA is very small (less than 2% of the total undergraduate trainees in 2020). In addition to that, the small percentage of the second largest cohort is ‘other’, offering no information about the trainee’s qualification. 
+It’s also hard to see how this can be useful statistically. The number of trainees on undergraduate courses going through Register compared to HESA is very small (less than 2% of the total undergraduate trainees in 2020). In addition to that, the small percentage of the second largest cohort is ‘other’, offering no information about the trainee’s qualification.
 
 On the basis that we cannot see how the question is useful, we’re speaking to Teacher analytics and data (TAD) and recommending that we leave it out.
 

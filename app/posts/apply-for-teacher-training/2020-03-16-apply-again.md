@@ -38,7 +38,7 @@ If a candidate is not offered an interview by any of their initial 3 choices (or
 
 When applying again, a candidate can make an unlimited number of applications, one after another, but only one course choice is allowed. If the candidate is again unsuccessful (or chooses not to accept an offer or withdraws) they can keep applying until they do accept an offer, or until the application cycle for the academic year closes. They must wait up to 40 days before they know if their latest application was successful.
 
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
 {{ govukWarningText({
   html: "[We iterated this design after the first round of research](/apply-for-teacher-training/applying-again-iteration)" | markdown("inline"),
   iconFallbackText: "Warning"

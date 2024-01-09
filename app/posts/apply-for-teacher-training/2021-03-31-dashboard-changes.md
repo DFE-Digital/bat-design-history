@@ -29,7 +29,7 @@ related:
       description: Previous post about dashboard states
 ---
 
-{% from "../../../node_modules/govuk-frontend/govuk/components/table/macro.njk" import govukTable with context %}
+{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 The ‘dashboard’ is the name we use internally for the page a candidate sees after they have submitted their application.
 
