@@ -8,5 +8,6 @@ new Search($searchContainer).init()
 
 // Initiate scripts on page load
 document.addEventListener('DOMContentLoaded', () => {
+  document.documentElement.classList.remove('no-js')
   GOVUKFrontend()
 })
