@@ -22,14 +22,18 @@ screenshots:
       src: add-organisation--organisation-type-error.png
     - text: Add organisation - Find a provider
       src: add-organisation--find-provider.png
+    - text: Add organisation - Find a provider autocomplete
+      src: add-organisation--find-provider-autocomplete.png
     - text: Add organisation - Find a provider with an error message
-      src: add-organisation--find-provider-error.png
+      src: add-organisation--find-provider-error-empty.png
     - text: Add organisation - Find a provider with a duplicate provider error message
       src: add-organisation--find-provider-error-duplicate.png
     - text: Add organisation - Find a school
       src: add-organisation--find-school.png
+    - text: Add organisation - Find a school autocomplete
+      src: add-organisation--find-school-autocomplete.png
     - text: Add organisation - Find a school with an error message
-      src: add-organisation--find-school-error.png
+      src: add-organisation--find-school-error-empty.png
     - text: Add organisation - Find a school with a duplicate school error message
       src: add-organisation--find-school-error-duplicate.png
     - text: Add organisation - Check your answers (provider)
