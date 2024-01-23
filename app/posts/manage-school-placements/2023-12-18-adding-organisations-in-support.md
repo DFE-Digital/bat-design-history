@@ -50,7 +50,7 @@ We added a way for the support team to onboard new organisations to the service.
 
 ![Add organisation flow](add-organisation--flow.png "Add organisation flow")
 
-Adding an organisation has 3 steps:
+Adding an organisation has three steps:
 
 1. Selecting an organisation type
 2. Find an organisation by name, reference number or postcode
@@ -58,6 +58,13 @@ Adding an organisation has 3 steps:
 
 ### Organisation list
 
+On the organisation list page, we show:
+
+- an ‘Add organisation’ button
+- an alphabetical list of organisations - ordered by name
+- a search
+- filter
+- pagination
 
 ### Organisation type
 
@@ -90,21 +97,21 @@ We display the list of providers in an autocomplete.
 
 We use provider data from Publish teacher training courses and display it in an autocomplete.
 
-We display the provider name, town and postcode for each provider in the list. This allows users to choose from similarly named providers correctly.
+We display the provider name, town and postcode for each provider in the list. This information allows users to choose from similarly named providers correctly.
 
-#### Data validation rules
+##### Data validation rules
 
 If the user does not enter a provider name, UKPRN, URN or postcode before submitting the page, we show the error message:
 
 > Enter a provider name, UKPRN, URN or postcode
 
-If the user selects a provider from the autocomplete that has already been added to the service, we show the error message:
+If the user selects a provider from the autocomplete that the support team has already added to the service, we show the error message:
 
 > Provider has already been added
 
 In both cases, the user cannot continue adding the ITT provider.
 
-### Schools
+#### Schools
 
 Users can search for schools by entering the school name, unique reference number (URN) or postcode.
 
@@ -112,18 +119,17 @@ We use [Get information about schools (GIAS)](https://www.get-information-school
 
 We display the school name, town and postcode for each school in the list. This information allows users to choose from similarly named schools correctly.
 
-#### Data validation rules
+##### Data validation rules
 
 If the user does not enter a school name, URN or postcode before submitting the page, we show the error message:
 
 > Enter a school name, URN or postcode
 
-If the user selects a school from the autocomplete that has already been added to the service, we show the error message:
+If the user selects a school from the autocomplete that the support team has already added to the service, we show the error message:
 
 > School has already been added
 
 In both cases, the user cannot continue adding the school.
-
 ### Check your answers
 
 The final step is to check your answers. We show a different check your answers page if the user adds an ITT provider or a school.
@@ -136,7 +142,7 @@ For all organisation types, we show:
 Basic organisation details include:
 
 - organisation name
-- UK provider reference number (UKPRN)
+- UK provider reference number (UKPRN) - if the organisation is an ITT provider
 - unique reference number (URN)
 
 Contact details include:
@@ -183,7 +189,7 @@ Oftsed information includes:
 - rating
 - last inspection date
 
-#### Not entered versus unknown information
+##### Not entered versus unknown information
 
 If data derived from Publish or GIAS is missing, we show ‘Not entered’.
 
@@ -198,4 +204,13 @@ We considered some changes that we did not implement. These included:
 
 ### Adding users during the onboarding flow
 
+We do not add users as part of the onboarding flow because we:
+
+- wanted to keep the onboarding flow as simple as possible
+- need to carry out research with our support team to understand the optimal onboarding flow
+
 ### Manually adding organisation details
+
+We do not allow the manual addition of ITT providers and schools as we need assurance that the provider or school exists and the data is valid.
+
+For schools, we must also capture all the additional attributes (also known as ‘contrast factors’) so that the placement search is accurate. It would significantly burden the support team if we asked them to find and input all the school’s attributes.
