@@ -28,6 +28,16 @@ screenshots:
       src: users--add-user-success.png
     - text: User details
       src: users--user-details.png
+    - text: Edit user - personal details
+      src: users--edit-user.png
+    - text: Edit user - error messages
+      src: users--edit-user-error-messages.png
+    - text: Edit user - duplicate account error
+      src: users--edit-user-duplicate-account-error.png
+    - text: Edit user - check your answers
+      src: users--edit-user-check-your-answers.png
+    - text: Edit user - check your answers (new email)
+      src: users--edit-user-check-your-answers-new-email.png
     - text: Remove user
       src: users--remove-user.png
     - text: User removed success message
@@ -90,6 +100,24 @@ The support team user can check their answers at the end of the flow before savi
 
 Adding the user triggers an email to the new user with sign-in details.
 
+### Editing a user
+
+Support users can edit the details of the user.
+
+Selecting ‘Change’ next to the first name, last name, or email address takes the support user to a form where they can change the user’s details.
+
+We show an error message if:
+
+- information is missing from the form
+- the email address is entered incorrectly - for example, invalid characters are used
+- an email address already used by another user
+
+The support team user can check their answers at the end of the flow before saving the new user.
+
+If the support user changes the user’s email address, an email is sent to the new email address with sign-in details.
+
+Once the user has signed in to the service for the first time, the support user cannot change the user's first name, last name and email address.
+
 ### Removing a user
 
 When someone clicks ‘Remove user’, they must confirm the removal.
@@ -100,19 +128,19 @@ Removing a user triggers sending an email to the user to tell them they have bee
 
 #### First name
 
-A first name is required. If the user does not enter a first name, we show the error message:
+A first name is required. If the support user does not enter a first name, we show the error message:
 
 > Enter a first name
 
 #### Last name
 
-A last name is required. If the user does not enter a Last name, we show the error message:
+A last name is required. If the support user does not enter a last name, we show the error message:
 
 > Enter a last name
 
 #### Email address
 
-An email address is required. If the user does not enter an email address, we show the error message:
+An email address is required. If the support user does not enter an email address, we show the error message:
 
 > Enter an email address
 
@@ -120,6 +148,23 @@ The email address must be a valid DfE email address. If the user does not enter 
 
 > Enter a Department for Education email address in the correct format, like name@education.gov.uk
 
+The email address must be unique to the organisation. If the support user enters an email address that is already in use by another user, we show the error:
+
+> Email address already in use
+
 ## Further considerations
 
 The support users section is currently named ‘Users’. This may be confused with the sub-section within an organisation with the same name. If the two sections are confusing, we will rename the support users section.
+
+### DfE Sign-in
+
+Support users can only sign in to the service with a DfE Sign-in account.
+
+The email address entered must match the one used in the invitation. We use the email address to link the service to the user.
+
+If the email address does not match, the user:
+
+- may not be able to sign in to the service
+- may be able to sign in to the service but not see the support part of the service
+
+We need to consider how we communicate this in our email notifications.
