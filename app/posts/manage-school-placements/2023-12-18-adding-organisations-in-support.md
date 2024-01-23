@@ -130,6 +130,7 @@ If the user selects a school from the autocomplete that the support team has alr
 > School has already been added
 
 In both cases, the user cannot continue adding the school.
+
 ### Check your answers
 
 The final step is to check your answers. We show a different check your answers page if the user adds an ITT provider or a school.
