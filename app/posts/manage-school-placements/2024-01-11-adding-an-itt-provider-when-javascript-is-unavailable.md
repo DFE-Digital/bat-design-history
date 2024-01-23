@@ -22,8 +22,10 @@ screenshots:
       src: providers--list-03.png
     - text: No results
       src: providers--list-04.png
-    - text: Error message
-      src: providers--list-error.png
+    - text: Error message - select a provider
+      src: providers--list-error-empty.png
+    - text: Error message - provider has already been added
+      src: providers--list-error-duplicate.png
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-support-add-provider-no-js
@@ -49,6 +51,12 @@ We display the name, town and postcode for each provider in the list. This allow
 
 Selecting a provider from the list allows the user to continue and add the provider.
 
-We show an error message if the user tries to continue without selecting a provider.  We also show an error message if the user tries to add the provider a second time.
+If the user tries to continue without selecting a provider, we show an error message:
+
+> Select a provider
+
+If the user tries to add a provider a second time, we show an error message:
+
+> Provider has already been added
 
 If the provider the user is looking for is not listed, or the list has no results, they can change their search, which takes them back to the search form.

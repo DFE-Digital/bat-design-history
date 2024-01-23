@@ -22,8 +22,10 @@ screenshots:
       src: schools--list-03.png
     - text: No results
       src: schools--list-04.png
-    - text: Error message
-      src: schools--list-error.png
+    - text: Error message - Select a school
+      src: schools--list-error-empty.png
+    - text: Error message - Scholl has already been added
+      src: schools--list-error-duplicate.png
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-support-add-school-no-js
@@ -51,7 +53,13 @@ We display the name, town and postcode for each school, university or college in
 
 Selecting a school from the list allows the user to continue and add the school.
 
-We show an error message if the user tries to continue without selecting a school.
+If the user tries to continue without selecting a school, we show an error message:
+
+> Select a school
+
+If the user tries to add a school a second time, we show an error message:
+
+> School has already been added
 
 If the school the user is looking for isn’t listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
 
