@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/glossary"
-  to = "https://dfe-glossary.herokuapp.com/"
+  to = "https://design.education.gov.uk/content-design/style-guide/"
   status = 301
   force = true
 
