@@ -154,6 +154,7 @@ The email address must be valid. If the support user does not enter a valid emai
 The email address must be unique to the organisation. If the support user enters an email address that is already in use by another user, we show the error:
 
 > Email address already in use
+>
 ## Further considerations
 
 We considered preventing free email accounts like AOL, Gmail, Hotmail, Outlook and Yahoo. We did not implement this change as we did not observe a user need.
