@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A to Z glossary
-description: Explanations of the terms DfE commonly uses
+title: DfE style guide
+description: Helping make things clear and consistent across all of our services.
 permalink: "/glossary.html"
 eleventyComputed:
   eleventyNavigation:
@@ -10,8 +10,5 @@ eleventyComputed:
     parent: home
 ---
 
-The glossary has moved:
-https://dfe-glossary.herokuapp.com/
-
-You can find the Github repository here:
-https://github.com/DFE-Digital/dfe-glossary
+The glossary and style guide has moved:
+[https://dfe-glossary.herokuapp.com/](https://design.education.gov.uk/content-design/style-guide/)
