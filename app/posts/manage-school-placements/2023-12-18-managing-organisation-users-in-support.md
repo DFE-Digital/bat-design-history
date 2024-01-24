@@ -79,7 +79,7 @@ On the user details page, we show a summary list of the user’s details, includ
 
 This page also includes a ‘Remove user’ link, which allows the support team to remove the user from the organisation.
 
-The support team can change the first name, last name and email address fields. They cannot change the organisations a user belongs to, except by adding or removing the user from an organisation.
+The support team can change the first name, last name and email address. They cannot change the organisations a user belongs to, except by adding or removing the user from an organisation.
 
 ### Adding a user
 
@@ -117,7 +117,7 @@ We show an error message if:
 
 The support team user can check their answers at the end of the flow before saving the new user.
 
-If the support user changes the user’s email address, an email is sent to the new email address with sign-in details.
+If the support user changes the user’s email address, we email the new one with sign-in details.
 
 Once the user has signed in to the service for the first time, the support user cannot change the user's first name, last name and email address.
 
@@ -125,7 +125,7 @@ Once the user has signed in to the service for the first time, the support user 
 
 When someone clicks ‘Remove user’, they must confirm the removal.
 
-Removing a user triggers sending an email to the user to tell them they have been removed from the organisation. If the Support user did this incorrectly, the user could get help.
+Removing a user triggers sending an email to the user to tell them they have been removed from the organisation. If the support user did this incorrectly, the user could get help.
 
 ### Data validation rules
 
@@ -154,7 +154,7 @@ The email address must be valid. If the support user does not enter a valid emai
 The email address must be unique to the organisation. If the support user enters an email address that is already in use by another user, we show the error:
 
 > Email address already in use
->
+
 ## Further considerations
 
 We considered preventing free email accounts like AOL, Gmail, Hotmail, Outlook and Yahoo. We did not implement this change as we did not observe a user need.
