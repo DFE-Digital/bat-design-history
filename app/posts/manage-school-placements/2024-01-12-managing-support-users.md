@@ -78,7 +78,7 @@ On the user details page, we show a summary list of the user’s details, includ
 
 This page also includes a ‘Remove user’ link, which allows the support team to remove the user from Support.
 
-The support team can change the first name, last name and email address fields.
+The support team can change the first name, last name and email address.
 
 ### Adding a user
 
@@ -114,7 +114,7 @@ We show an error message if:
 
 The support team user can check their answers at the end of the flow before saving the new user.
 
-If the support user changes the user’s email address, an email is sent to the new email address with sign-in details.
+If the support user changes the user’s email address, we email the new one with sign-in details.
 
 Once the user has signed in to the service for the first time, the support user cannot change the user's first name, last name and email address.
 
@@ -122,7 +122,7 @@ Once the user has signed in to the service for the first time, the support user 
 
 When someone clicks ‘Remove user’, they must confirm the removal.
 
-Removing a user triggers sending an email to the user to tell them they have been removed from Support. If the Support user did this incorrectly, the user could get help.
+Removing a user triggers sending an email to the user to tell them that someone removed them from Support. If the support user did this incorrectly, the user could get help.
 
 ### Data validation rules
 
@@ -154,7 +154,7 @@ The email address must be unique to the organisation. If the support user enters
 
 ## Further considerations
 
-The support users section is currently named ‘Users’. This may be confused with the sub-section within an organisation with the same name. If the two sections are confusing, we will rename the support users section.
+The support users section is currently named ‘Users’. This name may be confused with an organisation’s ‘Users’ sub-section. If the two sections are confusing, we will rename the support users section.
 
 ### DfE Sign-in
 
