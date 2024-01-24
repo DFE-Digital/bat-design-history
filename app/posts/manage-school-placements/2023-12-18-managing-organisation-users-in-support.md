@@ -38,6 +38,8 @@ screenshots:
       src: users--edit-user-check-your-answers.png
     - text: Edit user - check your answers (new email)
       src: users--edit-user-check-your-answers-new-email.png
+    - text: User updated success message
+      src: users--edit-user-success.png
     - text: Remove user
       src: users--remove-user.png
     - text: User removed success message
