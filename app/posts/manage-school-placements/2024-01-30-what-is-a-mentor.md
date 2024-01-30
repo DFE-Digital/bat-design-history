@@ -12,7 +12,7 @@ related:
       href: https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training
 ---
 
-A mentor supports trainee teachers or early career teachers (ECTs), or oversees other mentors.
+A mentor supports trainee or early career teachers (ECTs) or oversees other mentors.
 
 Mentors need the appropriate prior experience and typically undertake training tailored to their mentor role. They can undertake training in parallel to carrying out their role.
 
