@@ -12,7 +12,7 @@ related:
       href: https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training
 ---
 
-A mentor supports trainees or early career teachers (ECTs) or oversees other mentors.
+A mentor supports trainee teachers or early career teachers (ECTs), or oversees other mentors.
 
 Mentors need the appropriate prior experience and typically undertake training tailored to their mentor role. They can undertake training in parallel to carrying out their role.
 
@@ -37,7 +37,7 @@ General mentors must complete up to 20 hours of initial training with the accred
 - the ITT core content framework and its underpinning evidence
 - the ITT curriculum, which the trainee will follow.
 
-ITT providers assign lead mentors and may be employed by the accredited provider, their lead partner or a partner school.
+ITT providers assign lead mentors. Lead mentors could be employed by the accredited provider, their lead partner or a partner school.
 
 An individual or a leadership team can carry out the lead mentor role.
 
