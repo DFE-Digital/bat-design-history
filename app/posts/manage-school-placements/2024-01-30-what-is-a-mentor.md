@@ -1,6 +1,6 @@
 ---
 title: What is a mentor?
-description: A mentor supports trainees or early career teachers (ECTs) or oversees other mentors
+description: A mentor supports trainee or early career teachers (ECTs) or oversees other mentors
 date: 2024-01-30
 tags:
   - mentors
