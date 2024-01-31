@@ -7,6 +7,9 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
+ogImage:
+  src: thumbnail.png
+  alt: "Diagram showing boxes representing teacher services, arranged on a horizontal axis with the labels 'Consider', 'Become', 'Start teaching', 'Develop' and 'Leave'"
 ---
 
 The 'becoming a teacher' services are part of a broader range of digital services which encompass the whole teaching journey, from initial interest through to retirement.
