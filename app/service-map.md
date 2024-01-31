@@ -38,6 +38,10 @@ The 'becoming a teacher' services are part of a broader range of digital service
       {
         "name": "Get school experience",
         "href": "https://schoolexperience.education.gov.uk"
+      },
+      {
+        "name": "Share your skills - Teach in Further Education",
+        "href": "https://www.teach-in-further-education.campaign.gov.uk"
       }
     ],
     "providers": [
@@ -63,6 +67,10 @@ The 'becoming a teacher' services are part of a broader range of digital service
       {
         "name": "Apply for qualified teacher status (QTS) in England",
         "href": "https://apply-for-qts-in-england.education.gov.uk/"
+      },
+      {
+        "name": "Apply for student finance",
+        "href": "https://www.student-finance.service.gov.uk/customer/home"
       }
     ],
     "providers": [
@@ -87,12 +95,8 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "href": "https://teaching-vacancies.service.gov.uk"
       },
       {
-        "name": "Claim back your student loan repayments",
-        "href": "https://www.claim-additional-teaching-payment.service.gov.uk/student-loans/qts-year"
-      },
-      {
-        "name": "Claim an early-career payment",
-        "href": "https://www.claim-additional-teaching-payment.service.gov.uk/early-career-payments/landing-page"
+        "name": "Claim additional payments for teaching",
+        "href": "https://www.claim-additional-teaching-payment.service.gov.uk/additional-payments/landing-page"
       },
       {
         "name": "Support for early career teachers",
@@ -117,10 +121,12 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "href": "https://manage-training-for-early-career-teachers.education.gov.uk"
       },
       {
-        "name": "Employer Access"
+        "name": "Employer Access",
+        "href": "https://teacherservices.education.gov.uk/employeraccess/School/school"
       },
       {
-        "name": "Appropriate Body Portal"
+        "name": "Appropriate Body Portal",
+        "href": "https://teacherservices.education.gov.uk/appropriatebody/index/appropriatebody"
       }
     ]
   },
