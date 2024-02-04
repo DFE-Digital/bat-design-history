@@ -16,7 +16,7 @@ A mentor supports trainee or early career teachers (ECTs) or oversees other ment
 
 Mentors need the appropriate prior experience and typically undertake training tailored to their mentor role. They can undertake training in parallel to carrying out their role.
 
-## Initial Teacher Training (ITT)
+## Initial teacher training (ITT)
 
 ITT providers are responsible for:
 
