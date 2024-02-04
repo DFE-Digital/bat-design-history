@@ -1,5 +1,5 @@
 ---
-title: Why are we working on ‘Track and pay’?
+title: Why are we working on Claim funding for mentors?
 description: Placement schools can access grant money to support the new training requirements of school-based mentors
 date: 2024-01-02
 tags:
@@ -33,7 +33,7 @@ The agreed recommendation was to run a 16-week Alpha​ building on the discover
 ​The initial options identified to explore include​:
 
 - developing claims-based processes for schools​
-- expanding current services such as Register trainee teachers or continuing professional development (CPD) to enable ITT mentor tracking – and passing data to the Education and Skills Funding Agency (ESFA) to pay schools​
+- expanding current services such as Register trainee teachers or Continuing professional development (CPD) to enable ITT mentor tracking – and passing data to the Education and Skills Funding Agency (ESFA) to pay schools​
 - creating a bespoke end-to-end service
 
 ## A bespoke claim form
@@ -43,7 +43,7 @@ One of the reasons why a bespoke service for schools is required is the feedback
 Schools stated that the ECF payment service was complex as it required information to be inputted by schools, mentors and providers. In addition, claims were processed based on information supplied by providers, not schools. This has resulted in schools failing to associate their funding with mentor training. As a result, the ‘Track and pay’ service will enable schools to submit their claims.
 
 *[CPD]: Continuing Professional Development
-*[ITT]: Initial Teacher Training
 *[ECF]: Early Career Framework
 *[ESFA]: Education and Skills Funding Agency
+*[ITT]: Initial Teacher Training
 *[QTS]: Qualified Teacher Status
