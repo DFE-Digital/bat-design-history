@@ -18,11 +18,11 @@ However, once we looked at the questions within the application service it becam
 
 The questions currently in the application service, and their respective responses in our service, are in the following table.
 
-Question to candidate | Answer ‘no’ | Answered ‘yes’ | Was never asked
-----------------------|-------------|----------------|----------------
-Do you have any interview needs? | No preferences. | [Their answer] | No preferences.
-Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding.<br><br>[Their answer] | Never asked |
-Do you want to ask for help to become a teacher? | No information shared. | [Their answer] | |
+| Question to candidate | Answer ‘no’ | Answered ‘yes’ | Was never asked |
+| ----------------------|-------------|----------------|---------------- |
+| Do you have any interview needs? | No preferences. | [Their answer] | No preferences. |
+| Do you want to share any safeguarding issues? | The candidate has declared no criminal convictions or other safeguarding issues. | The candidate has disclosed sensitive material related to safeguarding.<br><br>[Their answer] | Never asked |
+| Do you want to ask for help to become a teacher? | No information shared. | [Their answer] | |
 
 ## Improvements summary
 
