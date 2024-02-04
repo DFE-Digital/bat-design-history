@@ -65,5 +65,5 @@ ECF mentors are responsible for:
 If the ECF mentor’s school chooses to work with a training provider, they will receive training on supporting ECTs.
 
 *[ECF]: Early Career Framework
-*[ECT]: Early Career Teacher
-*[ITT]: Initial Teacher Training
+*[ECT]: early career teacher
+*[ITT]: initial teacher training
