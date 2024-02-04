@@ -18,15 +18,17 @@ DfE sought views on the recommendations made in the report through a public cons
 
 In response, the government accepted recommendations to introduce the lead and general mentor roles “given the important role mentoring plays in overall ITT quality.” Furthermore, DfE agreed with the expert advisory group that providers must train their lead and general mentors using appropriate initial and refresher training curricula.”
 
-DfE also committed to funding mentors, stating that “investing in ITT mentoring will improve teaching quality and teacher retention and create a better-supported career pathway by providing mentors with valuable professional development opportunities. DfE initially agreed to make grant funding of up to £15 million for general mentors and up to £10 million for lead mentors available to providers and schools in the 2024-25 financial year to help secure backfill for staff taken out of classrooms for initial general and lead mentor training and to fulfil lead mentor duties (such as spending time with trainees and general mentors).”
+DfE also committed to funding mentors, stating that “investing in ITT mentoring will improve teaching quality and teacher retention and create a better-supported career pathway by providing mentors with valuable professional development opportunities.”
 
-In May 2022, the Department for Education (DfE) published detailed guidance on the [funding to aid in the delivery of reformed Initial Teacher Training (ITT) courses] (https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance) leading to the award of Qualified Teacher Status (QTS) from the 2024 to 2025 academic year onwards.
+DfE initially agreed to make grant funding of up to £15 million for general mentors and up to £10 million for lead mentors available to providers and schools in the 2024-25 financial year to help secure backfill for staff taken out of classrooms for initial general and lead mentor training and to fulfil lead mentor duties (such as spending time with trainees and general mentors).
+
+In May 2022, the Department for Education (DfE) published detailed guidance on the [funding to aid in the delivery of reformed Initial Teacher Training (ITT) courses](https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance) leading to the award of Qualified Teacher Status (QTS) from the 2024 to 2025 academic year onwards.
 
 In addition to funding for accredited providers, placement schools could also access grant money to support the new training requirements of school-based (general) mentors.
 
 Schools can claim for the actual hours of training undertaken by the mentor to a maximum of 20 hours per provider.
 
-The funding is designed to support schools currently involved in initial teacher training and incentivise those who are worried about the cost and resources involved.
+DfE has designed the funding to support schools currently involved in initial teacher training and incentivise those worried about the cost and resources involved.
 
 Claim funding for mentors is the service that will facilitate the funding claims that placement schools make.
 
@@ -50,9 +52,11 @@ The agreed recommendation was to run a 16-week Alpha​ building on the discover
 
 One of the reasons why a bespoke service for schools is required is the feedback from the ECF team provided during the Discovery.
 
-Schools stated that the ECF payment service was complex as it required information to be inputted by schools, mentors and providers. In addition, claims were processed based on information supplied by providers, not schools. This has resulted in schools failing to associate their funding with mentor training. As a result, the ‘Claim funding for mentors’ service will enable schools to submit their claims and receive funding for mentor training from the Department.
+Schools stated that the ECF payment service was complex as it required information to be inputted by schools, mentors and providers. In addition, ECF processed claims based on information supplied by providers, not schools. This process has resulted in schools failing to associate their funding with mentor training.
 
-The form will be designed to be as simple as possible, with information being taken and validated from the Department’s other services, such as Register and Publish, to enable users to submit the claim easily and efficiently.
+The ‘Claim funding for mentors’ service will enable schools to submit their claims and receive funding for mentor training from the Department.
+
+We will design the form to be as straightforward as possible, with information being taken and validated from the Department’s other services, such as Register and Publish, to enable users to submit the claim quickly and efficiently.
 
 *[CCF]: core content framework
 *[CPD]: continuing professional development
