@@ -10,6 +10,14 @@ related:
   items:
     - text: Why are we working on school placements?
       href: /manage-school-placements/why-school-placements/
+    - text: "Initial teacher training (ITT) market review: overview"
+      href: https://www.gov.uk/government/publications/initial-teacher-training-itt-market-review/initial-teacher-training-itt-market-review-overview
+    - text: "Initial teacher training (ITT): core content framework"
+      href: https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework
+    - text: Initial teacher training (ITT) market review
+      href: https://www.gov.uk/government/consultations/initial-teacher-training-itt-market-review
+    - text: Initial teacher training (ITT) reform funding guidance
+      href: https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance
 ---
 
 In 2020, the Department for Education appointed an expert group to undertake a [review of the initial teacher training (ITT) market](https://www.gov.uk/government/publications/initial-teacher-training-itt-market-review/initial-teacher-training-itt-market-review-overview) for courses that lead to qualified teacher status (QTS). The review aimed to enable the provision of consistently high-quality training in line with the [ITT core content framework (CCF)](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework) in an effective and efficient market.
