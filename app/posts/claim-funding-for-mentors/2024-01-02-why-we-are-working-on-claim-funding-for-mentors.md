@@ -28,7 +28,12 @@ In response, the government accepted recommendations to introduce the lead and g
 
 DfE also committed to funding mentors, stating that “investing in ITT mentoring will improve teaching quality and teacher retention and create a better-supported career pathway by providing mentors with valuable professional development opportunities.”
 
-DfE initially agreed to make grant funding of up to £15 million for general mentors and up to £10 million for lead mentors available to providers and schools in the 2024-25 financial year to help secure backfill for staff taken out of classrooms for initial general and lead mentor training and to fulfil lead mentor duties (such as spending time with trainees and general mentors).
+DfE agreed to make grant funding available of up to:
+
+- £15 million for general mentors
+- £10 million for lead mentors
+
+This funding will be available to providers and schools in the 2024-25 financial year. It will help to secure backfill for staff taken out of classrooms for this training.
 
 In May 2022, the Department for Education (DfE) published detailed guidance on the [funding to aid in the delivery of reformed Initial Teacher Training (ITT) courses](https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance) leading to the award of Qualified Teacher Status (QTS) from the 2024 to 2025 academic year onwards.
 
@@ -64,7 +69,7 @@ Schools stated that the ECF payment service was complex as it required informati
 
 The ‘Claim funding for mentors’ service will enable schools to submit their claims and receive funding for mentor training from the Department.
 
-We will design the form to be as straightforward as possible, with information being taken and validated from the Department’s other services, such as Register and Publish, to enable users to submit the claim quickly and efficiently.
+The claim form will use information gathered and validated from the Department’s other services, such as Teacher Record, Register trainee teachers (Register) and Publish teacher training courses (Publish), to enable users to submit the claim quickly and efficiently.
 
 *[CCF]: core content framework
 *[CPD]: continuing professional development
