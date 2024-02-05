@@ -25,14 +25,12 @@ ITT providers are responsible for:
 
 These requirements are set out in the [ITT criteria](https://assets.publishing.service.gov.uk/media/64ef61b813ae15000d6e30c1/Initial_teacher_training_criteria_and_supporting_advice_2024_to_2025.pdf) (PDF, 48 pages), alongside other details on what constitutes a placement and minimum time allocations.
 
-### ITT mentors
-
-There are two types of mentors:
+There are two types of ITT mentor:
 
 - lead mentors
 - general mentors
 
-#### Lead mentors
+### Lead mentors
 
 ITT providers assign lead mentors and may be employed by the accredited provider, their lead partner or a partner school.
 
@@ -42,7 +40,7 @@ Lead mentors design and deliver training for general mentors, oversee and qualit
 
 Lead mentors must complete up to 30 hours of initial training.
 
-#### General mentors
+### General mentors
 
 General mentors are experienced teachers with a formal responsibility to support a trainee teacher undertaking a placement at their school.
 
