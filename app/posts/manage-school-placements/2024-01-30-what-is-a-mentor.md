@@ -1,6 +1,6 @@
 ---
 title: What is a mentor?
-description: A mentor supports trainee or early career teachers (ECTs) or oversees other mentors
+description: A mentor supports trainee teachers or early career teachers (ECTs) or oversees other mentors
 date: 2024-01-30
 tags:
   - mentors
@@ -12,7 +12,7 @@ related:
       href: https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training
 ---
 
-A mentor supports trainee or early career teachers (ECTs) or oversees other mentors.
+A mentor supports trainee teachers or early career teachers (ECTs) or oversees other mentors.
 
 Mentors need the appropriate prior experience and typically undertake training tailored to their mentor role. They can undertake training in parallel to carrying out their role.
 
@@ -21,11 +21,26 @@ Mentors need the appropriate prior experience and typically undertake training t
 ITT providers are responsible for:
 
 - ensuring that a trainee teacher undertaking an ITT course
-- has mentor support as part of their school placements.
+- has mentor support as part of their school placements
 
 These requirements are set out in the [ITT criteria](https://assets.publishing.service.gov.uk/media/64ef61b813ae15000d6e30c1/Initial_teacher_training_criteria_and_supporting_advice_2024_to_2025.pdf) (PDF, 48 pages), alongside other details on what constitutes a placement and minimum time allocations.
 
-### ITT mentors
+There are two types of ITT mentor:
+
+- lead mentors
+- general mentors
+
+### Lead mentors
+
+ITT providers assign lead mentors and may be employed by the accredited provider, their lead partner or a partner school.
+
+An individual or a leadership team can carry out the lead mentor role.
+
+Lead mentors design and deliver training for general mentors, oversee and quality assure general mentors, and monitor trainees’ progress.
+
+Lead mentors must complete up to 30 hours of initial training.
+
+### General mentors
 
 General mentors are experienced teachers with a formal responsibility to support a trainee teacher undertaking a placement at their school.
 
@@ -36,14 +51,6 @@ General mentors must complete up to 20 hours of initial training with the accred
 - what’s involved in the mentor role and the skills they need
 - the ITT core content framework and its underpinning evidence
 - the ITT curriculum, which the trainee will follow.
-
-ITT providers assign lead mentors. Lead mentors could be employed by the accredited provider, their lead partner or a partner school.
-
-An individual or a leadership team can carry out the lead mentor role.
-
-Lead mentors design and deliver training for general mentors, oversee and quality assure general mentors, and monitor trainees’ progress.
-
-Lead mentors must complete up to 30 hours of initial training.
 
 ## Early Career Framework (ECF)
 
