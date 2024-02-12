@@ -109,6 +109,9 @@ caption: "Collection of placement information for trainee teachers added to Regi
 text: "register census 23",
 caption: "This patch celebrated the completion of the 2023/2024 Census"
 } , {
+text: "register performance profiles 23",
+caption: "This patch was created for the creation of the 2023/2024 performance profiles"
+} , {
 }]
 }) }}
 
