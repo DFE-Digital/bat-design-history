@@ -102,7 +102,10 @@ The team was formed during a period where they couldn’t be physically near, so
   }, {
     text: "10,000 trainee teachers",
     caption: "10,000 trainees added to Register trainee teachers. October 2021"
-  }]
+  }, {
+text: "register placements 23",
+caption: "Collection of placement information for trainee teachers added to Register. December 2023"
+}]
 }) }}
 
 * * *
