@@ -112,6 +112,8 @@ caption: "This patch celebrated the completion of the 2023/2024 Census"
 text: "register performance profiles 23",
 caption: "This patch was created for the creation of the 2023/2024 performance profiles"
 } , {
+text: "register api 24",
+caption: "This patch celebrates version 1 of the Register API to allow providers to submit data directly into the Register service"
 }]
 }) }}
 
