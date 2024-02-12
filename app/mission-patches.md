@@ -105,6 +105,10 @@ The team was formed during a period where they couldn’t be physically near, so
   }, {
 text: "register placements 23",
 caption: "Collection of placement information for trainee teachers added to Register. December 2023"
+  } , {
+text: "register census 23",
+caption: "This patch celebrated the completion of the 2023/2024 Census"
+} , {
 }]
 }) }}
 
