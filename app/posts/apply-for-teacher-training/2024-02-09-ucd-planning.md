@@ -25,13 +25,13 @@ First, we wrote out all the problems statements we could potentially tackle, and
 
 We then followed guidance by Harry Vos at GDS to [prioritise the riskiest assumptions](https://services.blog.gov.uk/2022/11/03/prioritise-the-riskiest-assumptions-in-big-problem-spaces) we had for each problem statement.
 
-![Screenshot of key stages in the candidates journey with problem statements and assumptions mapped along the journey](candidate-journey-problem-statements-assumptions.png)
+[![Screenshot of key stages in the candidates journey with problem statements and assumptions mapped along the journey](candidate-journey-problem-statements-assumptions.png)](candidate-journey-problem-statements-assumptions.png)
 
 Scoring assumptions as a team gave a sense of ownership and increased the shared understanding of the problem space.
 
 We now know our riskiest assumptions, and we have five problem statements to focus on.
 
-![Screenshot of the team's five chosen problem statements alongside the strategy and vision for 2024](problem-statements-strategy-vision.png)
+[![Screenshot of the team's five chosen problem statements alongside the strategy and vision for 2024](problem-statements-strategy-vision.png)](problem-statements-strategy-vision.png)
 
 Our problem statements are:
 
@@ -43,7 +43,7 @@ Our problem statements are:
 
 By focussing on solving these problems, we aim to meet our overall vision:
 
-**“To enable suitable candidates to confidently find and apply for the right course, reduce the number of unsuitable candidates applying, and support providers to confidently manage their workload and successfully assess applications.”**
+> To enable suitable candidates to confidently find and apply for the right course, reduce the number of unsuitable candidates applying, and support providers to confidently manage their workload and successfully assess applications.
 
 ## Next steps
 
