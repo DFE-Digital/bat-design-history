@@ -102,7 +102,19 @@ The team was formed during a period where they couldn’t be physically near, so
   }, {
     text: "10,000 trainee teachers",
     caption: "10,000 trainees added to Register trainee teachers. October 2021"
-  }]
+  }, {
+text: "register placements 23",
+caption: "Collection of placement information for trainee teachers added to Register. December 2023"
+  } , {
+text: "register census 23",
+caption: "This patch celebrated the completion of the 2023/2024 Census"
+} , {
+text: "register performance profiles 23",
+caption: "This patch was created for the creation of the 2023/2024 performance profiles"
+} , {
+text: "register api 24",
+caption: "This patch celebrates version 1 of the Register API to allow providers to submit data directly into the Register service"
+}]
 }) }}
 
 * * *
