@@ -14,7 +14,7 @@ related:
       href: https://explore-education-statistics.service.gov.uk/methodology/initial-teacher-training-performance-profiles-methodology
 ---
 
-We understood from research that, over the past few years, [Initial Teacher Training (ITT) providers have found it more difficult to secure all the school placements](https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/why-school-placements) their trainees need.
+We understood from research that [Initial Teacher Training (ITT) providers have found it more difficult to secure all the school placements](https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/why-school-placements) their trainees need.
 
 We created a new field and guidance for ITT providers to add placement information about each of their trainees in the Register service. Providers can search and select a placement school by its unique reference number (URN), name or postcode.
 
