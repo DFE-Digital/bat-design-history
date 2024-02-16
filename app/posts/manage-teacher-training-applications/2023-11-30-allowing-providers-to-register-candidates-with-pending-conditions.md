@@ -34,7 +34,7 @@ We worked with our policy team and decided to allow candidates to start their tr
 
 We worked with the Register team to design a way for providers to send candidates to Register if the candidate only had an outstanding SKE condition in Manage.
 
-We added a secondary button to Manage, that would only appear if all conditions had been marked as ‘met’ excluding the candidate’s SKE condition.
+We added a secondary button to Manage, that would only appear if all conditions had been marked as ‘met’ excluding the candidate’s SKE condition. This button would be visible to providers if the accredited body was also a SCITT, allowing lead schools to benefit from it also.
 
 ![Screenshot of the offer page with a grey secondary button saying 'Recruit candidate with pending conditions'.](offer-page.png)
 
