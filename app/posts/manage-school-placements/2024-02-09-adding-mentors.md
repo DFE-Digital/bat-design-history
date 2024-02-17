@@ -14,7 +14,7 @@ screenshots:
   items:
     - text: Mentors list
       src: mentors--list.png
-    - text: Mentors list
+    - text: Mentors list - empty
       src: mentors--list-empty.png
     - text: Add mentor - finding a teacher using DQT/Teacher Record
       src: mentors--add-mentor.png
