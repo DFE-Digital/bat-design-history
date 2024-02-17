@@ -9,13 +9,13 @@ screenshots:
     - text: Claims list
       src: claims--list.png
     - text: Claim list - empty
-      src: claims--list-error.png
+      src: claims--list-empty.png
     - text: Claim list - no mentors
       src: claims--list-no-mentors.png
     - text: Add claim - select a provider
       src: add-claim--select-provider.png
     - text: Add claim - select a provider - error
-      src: add-claim--select-provider-error
+      src: add-claim--select-provider-error.png
     - text: Add claim - select mentors
       src: add-claim--select-mentors.png
     - text: Add claim - select mentors - error
@@ -24,8 +24,10 @@ screenshots:
       src: add-claim--enter-hours-of-training.png
     - text: Add claim - hours of training - error
       src: add-claim--enter-hours-of-training-error.png
-    - text: Add claim - hours of training - other error
+    - text: Add claim - hours of training - enter another amount
       src: add-claim--enter-hours-of-training-other-error.png
+    - text: Add claim - hours of training - enter an amount between 0 and 20
+      src: add-claim--enter-hours-of-training-other-error-range.png
     - text: Add claim - check your answers
       src: add-claim--check-your-answers.png
     - text: Claim added - confirmation page
