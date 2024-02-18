@@ -218,3 +218,9 @@ We do not add users as part of the onboarding flow because we:
 We do not allow the manual addition of ITT providers and schools as we need assurance that the provider or school exists and the data is valid.
 
 For schools, we must also capture all the additional attributes (also known as ‘contrast factors’) so that the placement search is accurate. It would significantly burden the support team if we asked them to find and input all the school’s attributes.
+
+*[GIAS]: Get information about schools
+*[URN]: unique reference number
+*[UKPRN]: UK provider reference number
+*[SEND]: special educational needs and disabilities
+*[ITT]: initial teacher training
