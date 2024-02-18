@@ -42,6 +42,9 @@ screenshots:
       src: add-organisation--check-your-answers-school.png
     - text: Add organisation - Organisation list success message
       src: add-organisation--organisation-list-success.png
+eleventyComputed:
+  eleventyNavigation:
+    key: school-placements-support-adding-organisations
 ---
 
 We added a way for the support team to onboard new organisations to the service.
