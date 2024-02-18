@@ -6,7 +6,7 @@ tags:
   - schools
   - onboarding
 related:
-  Items:
+  items:
     - text: Adding a school when JavaScript is unavailable
       href: /claim-funding-for-mentors/adding-a-school-when-javascript-is-unavailable/
     - text: Adding and editing organisations in Support for Publish teacher training courses
