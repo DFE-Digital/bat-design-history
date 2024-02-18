@@ -155,8 +155,6 @@ We do not add users as part of the onboarding flow because we:
 
 We do not allow users to manually add schools as we need assurance that the school exists and the data is valid.
 
-For each school, we must also capture all the additional attributes (also known as ‘contrast factors’) so that the placement search is accurate. It would significantly burden the support team if we asked them to find and input all the school’s attributes.
-
 *[GIAS]: Get information about schools
 *[URN]: unique reference number
 *[UKPRN]: UK provider reference number
