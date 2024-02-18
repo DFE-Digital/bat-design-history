@@ -8,9 +8,9 @@ tags:
 related:
   items:
     - text: Adding organisations in Support
-    - href: /claim-funding-for-mentors/adding-organisations-in-support/
+      href: /claim-funding-for-mentors/adding-organisations-in-support/
     - text: Adding a school in Publish when there is no JavaScript available
-    - href: /publish-teacher-training-courses/adding-a-school-when-there-is-no-javascript-available/
+      href: /publish-teacher-training-courses/adding-a-school-when-there-is-no-javascript-available/
 screenshots:
   items:
     - text: Finding a school - without autocomplete
