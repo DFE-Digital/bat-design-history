@@ -95,9 +95,11 @@ Users can find a lost TRN or apply for a TRN by reading the [Teacher reference n
 If the user does not enter anything, we show an error message:
 
 > Enter a teacher reference number (TRN)
+
 If the user does not enter a valid TRN, we show an error message:
 
 > Enter a valid teacher reference number (TRN)
+
 A valid TRN is seven digits.
 
 #### No results found
@@ -105,6 +107,7 @@ A valid TRN is seven digits.
 If the user enters a valid TRN but it does not return a result, we show a page with the heading:
 
 > No results found for ‘{trn}’
+
 Users can change their search. We pre-populate the previously entered TRN for them to change.
 
 #### Check your answers
