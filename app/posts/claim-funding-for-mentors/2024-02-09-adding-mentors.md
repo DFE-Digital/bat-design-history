@@ -104,7 +104,6 @@ If the user does not enter a valid TRN, we show an error message:
 
 A valid TRN is seven digits.
 
-
 #### No results found
 
 If the user enters a valid TRN but it does not return a result, we show a page with the heading:
@@ -125,8 +124,43 @@ We show:
 - last name
 - teacher reference number (TRN)
 
-When a user adds a mentor to Placements, and they or another user adds the same mentor to Claim funding for mentors (Claims), we match the records so that there is only one instance of a mentor in our provider. This allows us to share information between services more accurately.
+When a user adds a mentor to Claims, and they or another user adds the same mentor to Manage school placements (Placements), we match the records so that there is only one instance of a mentor in our provider. This allows us to share information between services more accurately.
 
 ### Removing a mentor
 
 Users must confirm the mentor’s removal when they select' Remove mentor'.
+
+When users remove a mentor from the organisation, we retain their data. We must keep a historical record of mentors allocated to claims.
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- finding the mentor by National Insurance number
+- adding a mentor manually
+- showing mentor’s provider training details
+- constraints on removing a mentor
+
+### Finding the mentor by National Insurance number
+
+If the user does not know the mentor's TRN, we can identify a mentor using their National Insurance number (NINO) and date of birth.
+
+We considered giving users the option to add a mentor using NINO. However, mentors can use the [Find a lost teacher reference number (TRN)](https://find-a-lost-trn.education.gov.uk/start) service, so there is no need for us to build it into the service.
+
+### Adding a mentor manually
+
+We considered allowing users to enter mentors manually, not via a DQT lookup. However, we need assurance that a mentor is a teacher as the information is shared with Claim funding for mentors. This means we will not allow users to add mentors manually to the service.
+
+### Showing mentor’s provider training details
+
+We could give users a way to manage mentor’s training outside the claim process or show that they’ve received training based on the information given in the claim.
+
+The information about completed training could become important when verifying the relationship between a school and an accredited provider.
+
+### Constraints on removing a mentor
+
+We allow users to remove mentors from the service without constraint. However, when a school adds a mentor to a claim, we may need to reconsider this since we must know who was on a claim and how many hours of training were claimed for.
+
+*[DQT]: Database of Qualified Teachers
+*[TRN]: Teacher Reference Number
+*[GIAS]: Get Information about Schools
