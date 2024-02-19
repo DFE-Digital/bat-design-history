@@ -90,7 +90,7 @@ The first step in the ‘Add mentor’ flow is to enter the mentor’s teacher r
 
 Users can find a lost TRN or apply for a TRN by reading the [Teacher reference number (TRN) guidance](https://www.gov.uk/guidance/teacher-reference-number-trn).
 
-###### Validation rules
+##### Validation rules
 
 If the user does not enter anything, we show an error message:
 
