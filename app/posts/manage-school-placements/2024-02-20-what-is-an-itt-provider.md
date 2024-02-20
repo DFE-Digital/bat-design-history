@@ -39,7 +39,7 @@ Responsibilities are delegated by accredited ITT providers through partnership a
 
 ## Who organises school placements for trainee teachers?
 
-Accredited ITT providers and lead partners typically organise their respective school placements.
+Both accredited ITT providers and lead partners can organise schools placements depending on their partnership agreements.
 
 ## What is a placement school?
 
