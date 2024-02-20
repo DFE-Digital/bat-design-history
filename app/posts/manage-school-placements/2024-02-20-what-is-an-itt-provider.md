@@ -33,7 +33,7 @@ DfE’s statutory guidance is detailed in the [ITT criteria](https://assets.publ
 
 ### Lead partners
 
-Lead partners have operational or strategic roles with responsibilities such as trainee recruitment, delivering training, involvement in curriculum design, supplying lead mentors, or running Intensive Training and Practice.
+Lead partners have operational or strategic roles with responsibilities such as trainee recruitment, delivering training, involvement in curriculum design, supplying lead mentors, or running Intensive Training and Practice (ITP).
 
 Responsibilities are delegated by accredited ITT providers through partnership agreements.
 
@@ -67,6 +67,8 @@ TSHs play a significant role in delivering:
 
 The ITT market review resulted in a requirement that every TSH should play a role in the delivery of ITT – either as an accredited provider or a lead partner. In addition, TSHs have a strategic role in ITT, including encouraging and supporting their local schools to host placements for trainee teachers.
 
+*[HEI]: higher education institution
+*[ITP]: intensive training and practice
 *[ITT]: initial teacher training
 *[SCITT]: school-centred initial teacher training
 *[TSH]: teaching school hubs
