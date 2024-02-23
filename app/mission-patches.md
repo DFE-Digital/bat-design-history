@@ -69,6 +69,9 @@ The mascot for Find is a canary. When we launched Publish we weren’t sure how 
   }, {
     text: "2021-22 recruitment cycle",
     caption: "This patch celebrated the start of the 2021-22 recruitment cycle. October 2021"
+  }, {
+    text: "Find hackathon 2024",
+    caption: "This patch represents the superheroes of Find, Apply, GIT and Policy coming together to reimagine the Find service in the great big hackathon of 2024"
   }]
 }) }}
 
