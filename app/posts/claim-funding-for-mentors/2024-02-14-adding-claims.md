@@ -185,9 +185,9 @@ If the user selects ‘Other amount’ and enters an amount that is not a number
 
 > Enter the number of hours between 1 and 20
 
-If the user selects an amount for a mentor and their total hours of training with the provider exceeds 20 hours, we show an error message:
+<!-- If the user selects an amount for a mentor and their total hours of training with the provider exceeds 20 hours, we show an error message:
 
-> The maximum amount of hours allowed to claim for is 20
+> The maximum amount of hours allowed to claim for is 20 -->
 
 #### Check your answers
 
