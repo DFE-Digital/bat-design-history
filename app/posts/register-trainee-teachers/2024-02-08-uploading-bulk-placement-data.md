@@ -10,6 +10,7 @@ tags:
 We created a bulk upload tool to help ITT providers make changes to multiple trainee records at the same time.
 
 ## Background
+
 DfE has a need to understand more about what is happening with school placements and ITT mentors. DfE does not hold this information in the Becoming a Teacher (BAT) service line, even though providers and Higher Education Statistics Agency (HESA) do.
 
 By understanding what is happening in the placements space, we can then better meet the needs of providers and trainees, and the potential impact of school placement/ITT mentor issues.
@@ -17,6 +18,7 @@ By understanding what is happening in the placements space, we can then better m
 The Register service is the best place to hold this information because trainees must complete a minimum of 2 placements prior to being awarded Qualified Teacher Status (QTS).
 
 ## Why we did this
+
 We created bulk upload placements as we know that providers tend to update their trainees in one go and having a bulk upload was easier than doing it one-by-one for many trainees.
 
 Additionally, we knew that SCITT providers hadn't previously been able to supply this data and we were asking them to provide it within 2 months of the performance profiles sign-off so it made sense to release this at the same time as placements to reduce the burden on providers who were being asked to send this data through at short notice.
