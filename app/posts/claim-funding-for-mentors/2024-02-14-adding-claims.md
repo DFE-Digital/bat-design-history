@@ -216,3 +216,54 @@ When a claim is submitted, we show a confirmation page that includes a:
 - description of what happens next
 
 <!-- A confirmation email is sent to the user’s email address.  -->
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- finding a provider by entering the provider name, UK provider reference number (UKPRN), unique reference number (URN) or postcode
+- editing and removing a claim
+- saving a draft
+- only showing providers that the school works with
+- validating if claim has already been made for the provider and mentor to a total of 20 hours
+- showing claim amount on check your answers, claims list and claims details pages
+
+### Finding a provider by entering the provider name, UK provider reference number (UKPRN), unique reference number (URN) or postcode
+
+Only two providers are taking part in the private beta; therefore, providers are selected from a list in the private beta.
+
+In the public beta, more providers can be selected. We may approach this selection in two ways:
+
+- show an autocomplete search from which users can find and select the appropriate accredited provider
+- set-up provider and school relationships during or after onboarding so users only need to select from accredited providers they work with
+
+We don't need to ask if we know the school only works with one accredited provider.
+
+### Editing and removing a claim
+
+Once claims are submitted, they cannot be edited. This is because they begin the process that, if successful, results in the claim being paid.
+
+We will consider whether there is a period of time after the claim is submitted when a school can change their submissions.
+
+### Saving a draft
+
+We considered allowing users to save a draft in two ways:
+
+- save throughout the journey
+- save on the check your answers screen once all the information has been entered
+
+These two approaches assume that users may need more information to complete the claim or need it to be reviewed by someone else before submitting it. We decided to exclude this feature until user research validated the need.
+
+### Only showing providers that the school works with
+
+If the service collects provider relationship information, users would only choose from a list of schools they work with instead of entering the provider manually. They wouldn’t be asked this question if they only worked with one school.
+
+### Validating if a claim has already been made for the provider and mentor to a total of 20 hours
+
+Once the service has some historical claim data, it should prevent users from overclaiming for a mentor by ensuring the total number of hours claimed against a mentor does not exceed 20 hours, regardless of whether it is the same or different school claiming.
+
+### Showing the claim amount on check your answers, claims list and claims details pages
+
+We assume that users will want to know the amount they will receive for the claim.
+
+We weren’t sure at what point users would expect to see this information. We will consider adding this information based on feedback from research.
