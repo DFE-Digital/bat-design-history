@@ -1,5 +1,5 @@
 ---
-title: Adding claims
+title: Submitting claims for funding
 description: We added a way for schools to submit claims for funding their mentors’ training
 date: 2024-02-14
 tags:
