@@ -16,7 +16,7 @@ We have decided to collect all trainee data directly from initial teacher traini
 
 ## Background
 
-Currently we collect data about trainees differently depending on type of provider.
+Currently, we collect data about trainees differently depending on type of provider.
 
 School Centred Initial Teacher Training (SCITT) providers submit directly to the Register service, however Higher Education Institutions (HEIs) submit data for most of their trainees via Higher Education Statistics Agency (HESA), who in turn hand it on to Register.
 
