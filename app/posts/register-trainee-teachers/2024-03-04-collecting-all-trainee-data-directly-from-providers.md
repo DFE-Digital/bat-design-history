@@ -20,7 +20,9 @@ Currently, we collect data about trainees differently depending on type of provi
 
 School Centred Initial Teacher Training (SCITT) providers submit directly to the Register service, however Higher Education Institutions (HEIs) submit data for most of their trainees via Higher Education Statistics Agency (HESA), who in turn hand it on to Register.
 
-In 2023 we reviewed this process by examining historic reasons for this way of working and talking to a wide range of internal and external stakeholders. Having collected feedback from internal stakeholders, training providers and student record system vendors we weighed the potential benefits of changing the process to consolidate all trainee data collection to direct submission into Register.
+In 2023 we reviewed this process by examining historic reasons for this way of working and talking to a wide range of internal and external stakeholders.
+
+Having collected feedback from internal stakeholders, training providers and student record system vendors we weighed the potential benefits of changing the process to consolidate all trainee data collection to direct submission into Register.
 
 ## Consolidating data collection
 
