@@ -24,7 +24,7 @@ tags:
 
 We have decided to collect all trainee data directly from initial teacher training (ITT) providers for the academic year 2025/2026. 
 
-##Background 
+## Background 
 
 Currently we collect data about trainees differently depending on type of provider.  
 
@@ -32,25 +32,25 @@ School Centred Initial Teacher Training (SCITT) providers submit directly to the
 
 In 2023 we reviewed this process by examining historic reasons for this way of working and talking to a wide range of internal and external stakeholders. Having collected feedback from internal stakeholders, training providers and student record system vendors we weighed the potential benefits of changing the process to consolidate all trainee data collection to direct submission into register. 
 
-##Consolidating data collection 
+## Consolidating data collection 
 
 Based on this analysis we have decided to move HEIs to submit all their trainee teacher data directly to Register for the following reasons: 
 
-* We have a strategic priority to bring all teacher recruitment services in-house and to consolidate how we collect data across our service line. 
+- We have a strategic priority to bring all teacher recruitment services in-house and to consolidate how we collect data across our service line. 
 
-* We’ll have the opportunity to access the data in a more timely way to inform our decision-making. 
+- We’ll have the opportunity to access the data in a more timely way to inform our decision-making. 
 
-* We’ll have more frequent communications with you directly to make sure you understand the reasons we collect data and that you’re happy with the requests we’re making. 
+- We’ll have more frequent communications with you directly to make sure you understand the reasons we collect data and that you’re happy with the requests we’re making. 
 
-##How we will do it 
+## How we will do it 
 
 From the 2025/26 collection cycle, HEIs will be able to:  
 
-*submit data directly to the Register service through an API (a piece of software) 
+- submit data directly to the Register service through an API (a piece of software) 
 
-*bulk upload a CSV file to Register 
+- bulk upload a CSV file to Register 
 
-*manually  input data into Register   
+- manually  input data into Register   
 
 They will be able to use any combination of these options to allow for the various types of trainees and data that have to be submitted across the academic year. 
 
