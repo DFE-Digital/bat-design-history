@@ -10,8 +10,6 @@ tags:
 
 # Collecting all trainee data directly from providers
 
-
-
 We have decided to collect all trainee data directly from initial teacher training (ITT) providers for the academic year 2025/2026.
 
 ## Background
