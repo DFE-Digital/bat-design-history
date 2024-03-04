@@ -26,11 +26,11 @@ In 2023 we reviewed this process by examining historic reasons for this way of w
 
 Based on this analysis we have decided to move HEIs to submit all their trainee teacher data directly to Register for the following reasons:
 
-- We have a strategic priority to bring all teacher recruitment services in-house and to consolidate how we collect data across our service line.
+- we have a strategic priority to bring all teacher recruitment services in-house and to consolidate how we collect data across our service line
 
-- We’ll have the opportunity to access the data in a more timely way to inform our decision-making.
+- we’ll have the opportunity to access the data in a more timely way to inform our decision-making
 
-- We’ll have more frequent communications with you directly to make sure you understand the reasons we collect data and that you’re happy with the requests we’re making.
+- we’ll have more frequent communications with you directly to make sure you understand the reasons we collect data and that you’re happy with the requests we’re making
 
 ## How we will do it
 
