@@ -53,18 +53,20 @@ They could use the bulk upload tool to fill in any missing placement data.
 {{ appEmail({
 
 subject: "Performance profile sign off for the 2022 to 2023 academic year",
-content: "Dear ((first_name)) 
+content: "
 
-You must sign off your list of trainee teachers from the 2022 to 2023 academic year. 
+Dear ((first_name))
 
-^The deadline for performance profile sign off is 31 January 2024.
+You must sign off your list of trainee teachers from the 2022 to 2023 academic year.
+
+The deadline for performance profile sign off is 31 January 2024.
 
 This is so that the data can be included in the annual initial teacher training (ITT) performance profiles publication.
 
 1. Check you have a minimum of 2 placements for each trainee awarded QTS or EYTS in the 2022 to 2023 academic year
 2. Export your trainee data
 3. Check your data and fix any mistakes
-4. Sign off your data 
+4. Sign off your data
 
 If you have any questions, email [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) using the subject line \"Performance profiles sign off\".
 
@@ -76,7 +78,7 @@ You can use the bulk update placement feature to fill in any data gaps:
 https://www.register-trainee-teachers.service.gov.uk/bulk-update/add-details/new
 
 You can also sign in to manage your registered trainee placement data manually:
-https://www.register-trainee-teachers.service.gov.uk/trainees  
+https://www.register-trainee-teachers.service.gov.uk/trainees
 
 Find out how to check you have 2 placements for each trainee:
 https://www.register-trainee-teachers.service.gov.uk/guidance/manage-placements
@@ -100,7 +102,9 @@ https://forms.office.com/e/ATXmqJusud
 
 Kind regards
 
-Becoming a teacher team" }]}}
+Becoming a teacher team
+"
+}) }}
 <!-- markdownlint-enable MD001 MD025 -->
 
 ## Opportunities
