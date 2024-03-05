@@ -45,7 +45,57 @@ HEI providers needed to check their placement data in Register as part of the pe
 
 They could use the bulk upload tool to fill in any missing placement data.
 
-![A screenshot of bulk add placements in the Register service](hei-performance-profile-sign-off-email-for-2022-to-2023.png)
+{{ appEmail({
+
+subject: "Performance profile sign off for the 2022 to 2023 academic year",
+content: "Dear ((first_name)) 
+
+You must sign off your list of trainee teachers from the 2022 to 2023 academic year. 
+
+^The deadline for performance profile sign off is 31 January 2024.
+
+This is so that the data can be included in the annual initial teacher training (ITT) performance profiles publication.
+
+1. Check you have a minimum of 2 placements for each trainee awarded QTS or EYTS in the 2022 to 2023 academic year
+2. Export your trainee data
+3. Check your data and fix any mistakes
+4. Sign off your data 
+
+If you have any questions, email [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk?subject=Performance%20profiles%20sign%20off%20) using the subject line "Performance profiles sign off".
+
+#1.  Check you have a minimum of 2 placements for each trainee awarded QTS or EYTS in the 2022 to 2023 academic year
+
+Your placement data has been imported from the Student Collection into the Register service.
+
+You can use the bulk update placement feature to fill in any data gaps:
+https://www.register-trainee-teachers.service.gov.uk/bulk-update/add-details/new
+
+You can also sign in to manage your registered trainee placement data manually:
+https://www.register-trainee-teachers.service.gov.uk/trainees  
+
+Find out how to check you have 2 placements for each trainee:
+https://www.register-trainee-teachers.service.gov.uk/guidance/manage-placements
+
+This does not include assessment only trainees.
+
+# 2. Find your trainee data
+
+Sign in to export the data you need to check:
+https://www.register-trainee-teachers.service.gov.uk/reports/performance-profiles
+
+# 3. Check your trainee data and fix any mistakes
+
+Find out what you need to check and how to fix mistakes:
+https://www.register-trainee-teachers.service.gov.uk/guidance/performance-profiles
+
+# 4. Sign off your trainee data
+
+You must complete this form to sign off this data:
+https://forms.office.com/e/ATXmqJusud
+
+Kind regards
+
+Becoming a teacher team" }]}}
 
 ## Opportunities
 
