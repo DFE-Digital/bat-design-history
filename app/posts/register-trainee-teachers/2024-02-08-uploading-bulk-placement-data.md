@@ -63,7 +63,7 @@ This is so that the data can be included in the annual initial teacher training 
 
 If you have any questions, email [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk?subject=Performance%20profiles%20sign%20off%20) using the subject line "Performance profiles sign off".
 
-#1.  Check you have a minimum of 2 placements for each trainee awarded QTS or EYTS in the 2022 to 2023 academic year
+# 1.  Check you have a minimum of 2 placements for each trainee awarded QTS or EYTS in the 2022 to 2023 academic year
 
 Your placement data has been imported from the Student Collection into the Register service.
 
