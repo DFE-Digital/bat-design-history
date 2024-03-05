@@ -7,7 +7,11 @@ tags:
   - providers
   - trainees
 ---
+
+<!-- markdownlint-disable MD001 MD025 -->
+
 {% from "email/macro.njk" import appEmail %}
+
 We created a bulk upload tool to help ITT providers make changes to multiple trainee records at the same time.
 
 ## Background
@@ -97,6 +101,7 @@ https://forms.office.com/e/ATXmqJusud
 Kind regards
 
 Becoming a teacher team" }]}}
+<!-- markdownlint-enable MD001 MD025 -->
 
 ## Opportunities
 
