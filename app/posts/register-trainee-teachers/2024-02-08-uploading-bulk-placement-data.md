@@ -7,6 +7,7 @@ tags:
   - providers
   - trainees
 ---
+{% from "email/macro.njk" import appEmail %}
 We created a bulk upload tool to help ITT providers make changes to multiple trainee records at the same time.
 
 ## Background
