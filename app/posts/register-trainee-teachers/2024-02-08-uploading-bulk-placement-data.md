@@ -51,7 +51,7 @@ They could use the bulk upload tool to fill in any missing placement data.
 
 ### Bug parties
 
-The Register team set up a dedicated bug party channel on Slack where the whole team was invited to swarm around to test what weve built for providers.
+The Register team set up a dedicated bug party channel on Slack where the whole team was invited to swarm around to test what we've built for providers.
 
 ![A screenshot of a bug party event on a chat group](register-bug-party-channel-on-slack.png)
 
