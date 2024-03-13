@@ -20,6 +20,8 @@ screenshots:
       src: add-claim--confirmation.png
     - text: Claim details
       src: claims--details.png
+    - text: Organisation details - grant funding
+      src: organisation--details.png
 ---
 
 We tested the claim flow with users to determine whether the service was usable, effective, and acceptable.
