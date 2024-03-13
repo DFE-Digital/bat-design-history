@@ -1,6 +1,6 @@
 ---
 title: Updating the claim flow
-description: We update the add claim flow following feedback from user research
+description: We updated the add claim flow following feedback from user research
 date: 2024-03-05
 tags:
   - claims
