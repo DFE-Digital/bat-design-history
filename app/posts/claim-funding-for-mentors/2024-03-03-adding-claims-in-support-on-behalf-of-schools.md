@@ -44,7 +44,7 @@ screenshots:
 
 We added a way for support users to add claims on behalf of schools.
 
-Support users cannot submit claims as the school user needs to agree to a declaration before submitting the claim. This means that claims created by support users are in a ‘draft’ state.
+Support users cannot submit claims as the school user needs to agree to a declaration before submitting the claim. This constraint means that claims created by support users are in a ‘draft’ state.
 
 ## How it works
 
@@ -64,9 +64,9 @@ For each claim in the list, we show:
 
 We paginate the list if the claim list contains more than 25 claims.
 
-We show a success message above the page heading when a claim is added.
+When a user adds a claim, we show a success message above the page heading.
 
-Before adding a claim, users must add at least one mentor to the services. If they have not added any mentors, we hide the ‘Add claim’ button show a message:
+Before adding a claim, users must add at least one mentor to the services. If they have not added any mentors, we hide the ‘Add claim’ button and show a message:
 
 > You need to add a mentor before creating a claim.
 
@@ -77,7 +77,7 @@ On the claim details page, we show:
 - claim reference number
 - accredited provider
 - list of mentors
-- date the claim was submitted
+- submitted date
 - claim status
 
 We also show a summary list outlining the hours of training for each mentor:
@@ -85,9 +85,9 @@ We also show a summary list outlining the hours of training for each mentor:
 - mentor name
 - mentor’s training hours
 
-If the claim is in a draft state, there are change links next to each line in the summary list.
+Change links are included in the summary list if the claim is in a draft state.
 
-Users cannot change any claim details if the claim has been submitted.
+Users cannot change any claim details if they or a colleague has submitted the claim.
 
 ### Adding a claim
 
@@ -147,7 +147,7 @@ The hours form has three options:
 - 6 hours
 - Other amount
 
-Selecting ‘Other amount’ reveals an input for the user to manually add the number of hours.
+Selecting ‘Other amount’ reveals an input for the user to add the number of hours manually.
 
 ##### Validation rules
 
@@ -177,13 +177,17 @@ We show:
 - mentors
 - hours of training - for each mentor
 
-If a user returns to a previous answer using the change link, the information they entered is pre-populated.
+If a user returns to a previous answer using the change link, their entered information is pre-populated.
 
 When finished, the user sees the ‘Continue’ button, which should return them to the check answers page.
 
 If a user changes their response on the ‘Mentors’ page by:
 
 - adding a mentor or mentors to the claim, they will need to enter in the hours of training for each new mentor before returning to the check your answers page
-- removing a mentor from the claim, they will return to the check your answers page and the mentor’s details and hours of training will be removed
+- removing a mentor from the claim, they will return to the check your answers page, with the mentor’s details and hours of training removed
 
 When the user adds a claim, we show a success message on the organisation’s claims list.
+
+## Further considerations
+
+Since we will allow support users to create draft claims, we must consider how school users will review and submit these claims.
