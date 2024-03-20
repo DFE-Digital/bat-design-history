@@ -226,3 +226,56 @@ If users change the subject level, they must also change the subject before retu
 If a user returns to a previous answer using the change link, their entered information is pre-populated.
 
 When the ‘Publish placement’ button is selected, the placement is saved and published.
+
+### Changing placement details
+
+To change the placement details, users can select the change link on the placement details page.
+
+If users use the change link, they will return to their answer and the information they previously entered is pre-populated.
+
+When finished, the user sees the ‘Continue’ button, which should return them to the check answers page.
+
+When the ‘Update placement’ button is selected, the placement is updated and published.
+
+### Removing a placement
+
+Users can remove a placement via the placement details page.
+
+Users must confirm the placement’s removal when they select’ Remove placement’.
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- Filtering the mentor list based on the subject
+- Adding a placement before adding mentors to the service
+- Create a custom placement window
+- Saving a draft
+- Only publishing a placement to providers in a school’s network
+- Only allowing one mentor per placement
+
+### Filtering the mentor list based on the subject
+
+We considered filtering the mentor list in the ‘add placement’ flow depending on the subject selected. This would require capturing the subject in the ‘add mentor’ flow. We decided to exclude this feature until user research validated the need.
+
+### Adding a placement before adding mentors to the service
+
+When assigning a mentor to a placement, you can select ‘not known yet’. However, the service requires users to add at least one mentor before creating a placement.
+
+We considered allowing users to add a placement before adding any mentors however, we wanted to encourage the behaviour to add mentors.
+
+### Creating a custom placement window
+
+We considered adding a custom ‘start date and end date’ for the placement window because some providers have placements that span terms. However, this question captures school availability to host placements, so we decided the broad term windows were sufficient.
+
+### Saving a draft
+
+We considered allowing users to save a draft placement. However, there wasn’t a clear need from research to suggest users would need this option.
+
+### Only publishing a placement to providers in a school’s network
+
+Schools and providers have relationships with each other to provide trainees for placements. We considered the need for a user to publish to providers within and outside of their network. Being able to publish outside the network would bring a market benefit. However, the user's needs must first be validated by research.
+
+### One mentor per placement
+
+We initially considered a workflow where the user would have one mentor per placement. However, we’ve given users the ability to add more mentors per placement because this is a real-world experience.
