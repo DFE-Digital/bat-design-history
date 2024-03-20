@@ -1,10 +1,10 @@
 ---
 title: Highlighting fees for international candidates
 description: Giving international candidates better visibility of what fees they would need to pay for each course
-date: 2024-03-19
+date: 2024-03-20
 tags:
-- fees
-- international
+  - fees
+  - international
 ---
 
 We are trying to promote a more inclusive and informed environment for our prospective teachers, and the issue of course fees, particularly for international candidates, has surfaced as an important aspect. It stems from insights gathered during a workshop with international candidates held in November 2023. This resulted in a joint effort across the Get into teaching and Find & Apply services to improve transparency and comprehension surrounding fees.
