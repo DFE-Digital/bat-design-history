@@ -34,3 +34,4 @@ We are going to conduct some user testing to gain insight into international can
 We are going to ask them if candidates notice the information on fees, are they aware which fees would apply to them? Do candidates take the fees into account when applying for a particular course? This will inform and help us work on the next stages of improving the course information page which is part of one of our problem statements for 2024: ‘Candidates struggle to find the right course for them to apply for’.
 
 We are also going to measure the success of this by tracking the number of withdrawals for ‘cost’ reasons.
+
