@@ -1,7 +1,7 @@
 ---
 title: Highlighting fees for international candidates
 description: Giving international candidates better visibility of what fees they would need to pay for each course.
-date: 2024-03-20
+date: 2024-03-21
 tags:
   - fees
   - international
