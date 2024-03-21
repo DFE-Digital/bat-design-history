@@ -1,7 +1,7 @@
 ---
 title: Why are we working on ‘Claim funding for mentors’?
 description: Placement schools can access grant money to support the new training requirements of school-based mentors
-date: 2024-01-02
+date: 2023-12-04
 tags:
   - discovery
   - funding
