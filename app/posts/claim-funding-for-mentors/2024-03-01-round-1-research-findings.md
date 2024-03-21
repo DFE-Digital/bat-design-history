@@ -115,3 +115,7 @@ We think users lack confidence when using the service
 We think this because it is a brand-new service, and during research, they reported a lack of context and knowledge regarding how the service works
 So, if we provide clarity at different points throughout the journey and add a link to the guidance at the beginning of the journey
 Then, users will better understand how the service works and increase their confidence in using it.
+
+*[ECT]: Early career teacher
+*[ITT]: Initial teacher training
+*[TRN]: Teacher reference number
