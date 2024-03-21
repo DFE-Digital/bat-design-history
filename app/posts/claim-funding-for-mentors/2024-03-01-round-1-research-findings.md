@@ -1,6 +1,6 @@
 ---
 title: Round 1 research findings
-description: Testing the first iteration of the 'make a claim' and 'add a mentor' journeys to gain insights into the users of the service, their behaviours and mental models
+description: Testing the first iteration of the ‘make a claim’ and ‘add a mentor’ journeys to gain insights into the users of the service, their behaviours and mental models
 date: 2024-03-01
 tags:
   - research
@@ -19,55 +19,55 @@ All users were private beta participants
 - Gain a better understanding of who the users of the new ITT grant funding claim service are
 - Gain more context regarding our users, their behaviours and mental models
 - Test ‘make a claim’ and ‘add a mentor’ journeys to validate if they meet user needs
-- Explore user’s expectations of how they expect to be notified of the new service
-- Explore user’s expectations of the guidance and the level of support they will require with this being a brand-new service
+- Explore users’ expectations of how they expect to be notified of the new service
+- Explore users’ expectations of the guidance and the level of support they will require with this being a brand-new service
 - Explore what users expect to happen post-claim submission (if anything)
 - Explore what users expect to happen if they are nominated for sampling – what evidence do they expect to have to provide?
 - Begin exploring possible names for the service
 
 ## What we tested
 
-1st iteration of add a mentor and add a claim journey
+We tested the first iteration of the ‘add mentor’ and ‘add claim’ journeys.
 
 ## Key insights
 
-There was a need for knowledge or context before using the service.
+Participants need prior knowledge or context before using the service.
 
-Users expect to be told ‘everything they need to know’ to gain confidence in using the service. What they expect to know includes:
+Participants expect to be told ‘everything they need to know’ to gain confidence in using the service. What they expect to know includes:
 
 - Timescales are key
 - Eligibility criteria
-- ‘How it works’ - users were making their own assumptions for how the service works, including that you can claim ‘in lieu’
+- ‘How it works’ - participants were making their own assumptions for how the service works, including that you can claim ‘in lieu’
 - They need to know what data they are going to need so they can get this ready beforehand
 - They want some guidance on how to use the service - however, they said this before going through the service, then after reporting how easy it was to use
 
-Because of the lack of prior knowledge or context, even though all users knew what a TRN is, they would have to locate it before inputting it into the service. This could lead to a potential drop-off.
+Because of the need for prior knowledge or context, even though all participants knew what a TRN is, they would have to locate it before inputting it into the service. This could lead to a potential drop-off.
 
-“The deputy head or the mentor would keep a record, so I would ask them to confirm. I could do that relatively quickly”
+“The deputy head or the mentor would keep a record, so I would ask them to confirm. I could do that relatively quickly.”
 
-“I would have to seek clarification on the hours from the lead mentor”
+“I would have to seek clarification on the hours from the lead mentor.”
 
-Every user spoken to did not understand the different hour options, including the ‘other’ amount.
+Every participant we spoke to did not understand the different hour options, including the ‘other’ amount.
 
-As this is a new service, users didn’t know the different hour options without seeing any guidance before using the service. Some users said they thought ‘6 hours’ meant they could claim in lieu.
+As this is a new service, participants needed guidance before using it to understand the different hour options. Some participants said they thought ‘6 hours’ meant they could claim in lieu.
 
-“I’m wondering if the 6 is a different level of mentoring. I have no idea”
+“I’m wondering if the 6 is a different level of mentoring. I have no idea.”
 
 “Are hours cumulative or annual or per block?”
 
-All users expect the initial notification/invitation for the service to come directly from DfE via email.
+All participants expect the initial notification/invitation for the service to come directly from DfE via email.
 
-They expect the email to include ‘how to’ guidance and everything they need to know before submitting a claim.
+Participants expect the email to include ‘how to’ guidance and everything they need to know before submitting a claim.
 
 There was a desire to add additional information. This was to give them the confidence that all the information within the claim was correct.
 
-Claiming funding can be nerve-racking for schools. Therefore, they must have confidence that all the information regarding their school and the mentors is accurate. They hoped to see their organisation details at the beginning of the journey so they could check that we have all the details correct, especially if their details have recently changed.
+Claiming funding can be nerve-racking for schools. Therefore, participants must be confident that all the information regarding their school and mentors is accurate. They hoped to see their organisation details at the beginning of the journey so they could check that we have all the details correct, especially if their details have recently changed.
 
-There was also an emerging theme due to this, to be able to add in the trainee details. They knew this wasn’t necessarily relevant to making a claim, but they felt the more information they provided, the better their chance of the claim being successful.
+Due to this, an emerging theme was the ability to add the trainee details. Participants knew this was not necessarily relevant to making a claim, but they felt the more information they provided, the better their chance of the claim being successful.
 
 ## Emerging user needs
 
-Users are currently being defined as ‘schools’ as we don’t yet have enough research to differentiate needs by different user types.
+Users are currently being defined as ‘schools’ as we do not yet have enough research to differentiate needs by different user types.
 
 As a school
 I need to know what the timelines for claiming funding are
@@ -105,7 +105,7 @@ Then they will locate the information before using the service.
 ### Hypothesis 2
 
 We think users get confused when presented with different hour options
-We think this is because this is a brand-new service, and they don’t know how it works before using it
+We think this is because this is a brand-new service, and they do not know how it works before using it
 So if we give users a link to the guidance and explain what the hours mean
 Then, users will feel better informed and confident about using the service and will know what hours to pick when presented with them.
 
