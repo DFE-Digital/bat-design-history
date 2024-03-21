@@ -102,19 +102,19 @@ They also felt positive that providing an opportunity to claim funding means tha
 
 ## Emerging user needs
 
-As a business manager, HR, Finance or an administrator
+As a business manager, HR, finance person or an administrator
 I need to know what the timelines for claiming funding are
 So that I know when to submit a claim and when we will receive our payment
 
-As a business manager, HR, Finance or an administrator
+As a business manager, HR, finance person or an administrator
 I need to know what will happen after my claim has been submitted
 So that I feel informed of the process and know what to expect from the following steps
 
-As a business manager, HR, Finance or an administrator
+As a business manager, HR, finance person or an administrator
 I need to know the status of my claim after it has been submitted
 So that I can track the progress of our claim
 
-As a business manager, HR, Finance or an administrator
+As a business manager, HR, finance person or an administrator
 I need an in-depth understanding of what the new service is
 So that I can confidently and correctly submit a claim on behalf of our school
 
