@@ -8,7 +8,7 @@ tags:
 
 ---
 
-As part of the [highlighting fees on Find service for international candidates](../find-teacher-training/highlighting-fees-for-international-candidates) work, we had to do the same on the Apply service, as there was no mention of fees for candidates during the application journey.
+As part of the [highlighting fees on Find service for international candidates](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/highlighting-fees-for-international-candidates) work, we had to do the same on the Apply service, as there was no mention of fees for candidates during the application journey.
 
 ## What we changed
 
