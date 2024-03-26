@@ -14,11 +14,11 @@ As part of the [highlighting fees on Find service for international candidates](
 
 We added course fees when candidates submit their applications on the review page.
 
-[![Screenshot of draft application page before a candidate reviews and submits their application, showing all course information including UK and International course fees](draft.jpg)]
+![Screenshot of draft application page before a candidate reviews and submits their application, showing all course information including UK and International course fees](draft.jpg)
 
 We also added course fees on other application statuses such as ‘awaiting decision’, ‘unsuccessful’, and ‘application withdrawn’, to serve as a reminder at different stages of their application.
 
-[![Screenshot of awaiting decision status application page showing all course information including UK and International course fees](awaiting-decision.jpg)]
+![Screenshot of awaiting decision status application page showing all course information including UK and International course fees](awaiting-decision.jpg)
 
 ## Further considerations
 
