@@ -53,15 +53,27 @@ The ‘Overall, how do you feel about this service?’ question has 5 options:
 
 Users can rate their experience by choosing 1 option.
 
+Users must answer the question. If they do not select an option, we show an error message:
+
+> Select how you feel about this service
+
 #### How could we improve this service?
 
 The ‘How could we improve this service?’ is a free text box.
 
 Users can give up to 200 words of feedback.
 
+Users must answer the question. If they do not enter any details, we show an error message:
+
+> Enter details about how we could improve this service
+
 #### Optional name and email questions
 
 We allow users to give us their name and email address if they would like a reply to the feedback.
+
+If users enter their email address, but it is not the correct format, we show an error message:
+
+> Enter an email address in the correct format, like name@example.com
 
 ### Feedback confirmation page
 
