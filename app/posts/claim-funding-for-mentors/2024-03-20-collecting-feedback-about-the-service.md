@@ -25,6 +25,8 @@ eleventyComputed:
     key: claim-funding-collecting-feedback
 ---
 
+> Update: We will collect feedback via a Microsoft form instead of building a form within the service.
+
 We added a way for users to tell us what they think of the service.
 
 ## How it works
