@@ -29,10 +29,7 @@ We added a way for users to tell us what they think of the service.
 
 ## How it works
 
-Users can access the feedback page from:
-
-- the ‘feedback’ link in the phase banner
-- the claim confirmation page
+Users can access the feedback page from the ‘feedback’ link in the phase banner.
 
 ### Feedback form
 
