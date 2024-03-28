@@ -147,6 +147,12 @@ The 'becoming a teacher' services are part of a broader range of digital service
         "name": "Find school and college performance data in England",
         "href": "https://www.gov.uk/school-performance-tables"
       }
+    ],
+    "providers": [
+      {
+        "name": "Improve workload and wellbeing for school staff",
+        "href": "https://improve-workload-and-wellbeing-for-school-staff.education.gov.uk/"
+      }
     ]
   },
   "leaveTeaching": {
