@@ -1,6 +1,6 @@
 ---
 title: Adding placements if you belong to a school
-description: Based on our learnings from alpha, we continued exploring how schools might add placements to the service
+description: Based on our learnings from Alpha, we continued exploring how schools might add placements to the service
 date: 2024-02-22
 tags:
   - placements
@@ -50,7 +50,7 @@ screenshots:
       src: placements--remove-placement-success.png
 ---
 
-In alpha, we ran two experiments to understand how schools might add school placements:
+In Alpha, we ran two experiments to understand how schools might add school placements:
 
 - [Experiment 1a: Adding school placements if you’re a school](/manage-school-placements/experiment-1-adding-school-placements-if-youre-a-school/)
 - [Experiment 2a: Iterating how schools add school placements](/manage-school-placements/experiment-2-iterating-how-schools-add-school-placements/)
