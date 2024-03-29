@@ -1,6 +1,6 @@
 ---
-title: Adding placements
-description: We added a way for schools to add placements to the service
+title: Adding placements if you belong to a school
+description: Based on our learnings from alpha, we continued exploring how schools might add placements to the service
 date: 2024-02-22
 tags:
   - placements
@@ -50,9 +50,19 @@ screenshots:
       src: placements--remove-placement-success.png
 ---
 
-We added a way for schools to add their placements to Manage school placements (Placements).
+In alpha, we ran two experiments to understand how schools might add school placements:
 
-We collect a list of the details of a school’s placements that are essential to creating school placements.
+- [Experiment 1a: Adding school placements if you’re a school](/manage-school-placements/experiment-1-adding-school-placements-if-youre-a-school/)
+- [Experiment 2a: Iterating how schools add school placements](/manage-school-placements/experiment-2-iterating-how-schools-add-school-placements/)
+
+Based on these experiments, we refined the journey for schools to add their placements to Manage school placements (Placements).
+
+We still have some unanswered questions, such as:
+
+- what constitutes a school placement?
+- what is the lifecycle of a school placement?
+- when do schools create placements and share them with their partner providers?
+- is there a difference between the placements schools create for their partner providers versus any provider?
 
 ## How it works
 
