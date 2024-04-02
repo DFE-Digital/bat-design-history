@@ -57,7 +57,7 @@ We collect information about location, subject level and subject to show a list 
 
 On the placements list page, we show:
 
-- a ‘Fine new placement’ button
+- a ‘Find new placement’ button
 - a list of placements in alphabetical order, ordered by subject and then partner school, for each partner school in the ITT provider’s network.
 - a school search - by school name, unique reference number (URN) or postcode
 - filters
