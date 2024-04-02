@@ -91,11 +91,11 @@ We link the school name and subject to the placement details page.
 
 We paginate the list if the placements list contains more than 25 placements.
 
-### Finding a placement
+### Finding a new placement
 
 Selecting ‘Find new placement’ on the placements list starts the find placement flow.
 
-[![Find new placement flow](find-new-placement--flow.png 'Find new placement flow')](find-new-placement--flow.png)
+[![Find new placement flow](find-placements--flow.png 'Find new placement flow')](find-placements--flow.png)
 
 The ‘Find new placement’ flow has five steps:
 
