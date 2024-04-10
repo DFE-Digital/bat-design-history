@@ -135,7 +135,7 @@ We chose the plaid shirt and mug due to the fact that several team members share
     } , {
   text: "Get Into Teaching new campaign",
   caption: "This patch was created for the launch of the new creative campaign in January 2024"
-    }]
+  }]
 }) }}
 
 * * *
