@@ -130,9 +130,12 @@ We chose the plaid shirt and mug due to the fact that several team members share
 
 {{ appGallery({
   items: [{
-    text: "Get Into Teaching Public Beta",
-    caption: "This patch celebrated the service entering Public Beta with a mole to represent our emergence. April 2021."
-    }]
+  text: "Get Into Teaching Public Beta",
+  caption: "This patch celebrated the service entering Public Beta with a mole to represent our emergence. April 2021"
+    } , {
+  text: "Get Into Teaching new campaign",
+  caption: "This patch was created for the launch of the new creative campaign in January 2024"
+  }]
 }) }}
 
 * * *
