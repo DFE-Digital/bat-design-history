@@ -122,6 +122,19 @@ caption: "This patch celebrates version 1 of the Register API to allow providers
 
 * * *
 
+## Claim funding for mentor training
+
+The mascot for Claim funding for mentor training is an orangutan called XXXX. We chose an orangutan because XXX.
+
+{{ appGallery({
+  items: [{
+    text: "Claim funding for mentor training private beta",
+    caption: "XXX XXX XXX"
+  }]
+}) }}
+
+* * *
+
 ## Get Into Teaching
 
 The mascot for Get Into Teaching is called Tian. We chose a mole due to the fact that we were beginning to open up more as a society, much like a mole surfacing from underground.
