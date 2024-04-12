@@ -23,3 +23,44 @@ screenshots:
     - text: Submit claim - confirmation
       src: submit-claim--confirmation.png
 ---
+
+In a previous piece of work, we added a way for support users to [add claims on behalf of schools](/claim-funding-for-mentors/adding-claims-in-support-on-behalf-of-schools/).
+
+Support users cannot submit claims as school users must agree to a declaration before submitting the claim. This constraint means that claims created by support users are in a ‘draft’ state.
+## What we changed
+
+We added a way for school users to submit draft claims.
+
+## How it works
+
+[![Submit draft claim flow](submit-draft-claim--flow.png 'Submit draft claim flow')](submit-draft-claim--flow.png)
+
+From the claim details page, the ‘Submit claim’ flow has two steps:
+
+1. Check your answers
+2. Confirmation
+
+### Check your answers
+
+On the check your answers, we show:
+
+- school
+- accredited provider
+- mentors
+- hours of training - for each mentor
+- claim amount
+
+Users can change:
+
+- accredited provider
+- mentors
+- hours of training - for each mentor
+
+Users must agree to a declaration when submitting the claim.
+
+### Confirmation
+
+When the draft claim is submitted, we show a confirmation page that includes a:
+
+- reference number
+- description of what happens next
