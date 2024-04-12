@@ -27,6 +27,7 @@ screenshots:
 In a previous piece of work, we added a way for support users to [add claims on behalf of schools](/claim-funding-for-mentors/adding-claims-in-support-on-behalf-of-schools/).
 
 Support users cannot submit claims as school users must agree to a declaration before submitting the claim. This constraint means that claims created by support users are in a ‘draft’ state.
+
 ## What we changed
 
 We added a way for school users to submit draft claims.
