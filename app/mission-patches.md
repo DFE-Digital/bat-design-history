@@ -14,6 +14,7 @@ eleventyComputed:
 
 <style>
   .app-prose figure > a { outline: 0 }
+  ul.app-gallery { padding-left: 0; list-style-type: none; }
 </style>
 
 {% from "gallery/macro.njk" import appGallery with context %}
