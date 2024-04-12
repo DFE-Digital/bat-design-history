@@ -38,16 +38,13 @@ The mascot for Apply (and Manage) is a beaver named Brian Townley. We chose a be
   }, {
     text: "Apply for teacher training UCAS Switch-off",
     caption: "This patch celebrated applications for the 2022/23 cycle being made exclusively via the Apply service. Brian dons the helmet he wore in his very first patch as he detonates the UCAS ITT service he helped to replace. October 2021"
-  },
-  {
+  }, {
     text: "Apply for teacher training References change",
     caption: "This patch celebrated the change to the way references are requested. This was a tough nut to crack. October 2022"
-  },
-  {
+  }, {
     text: "Apply for teacher training SKE conditions",
     caption: "This celebrated the addition of subject knowledge enhancement courses as a structured offer condition. March 2023"
-  },
-  {
+  }, {
     text: "Apply for teacher training Continuous applications",
     caption: "This celebrated the launch of the continuous applications feature at the start of the 2023 to 2024 recruitment cycle. 10 October 2023"
   }]
@@ -106,18 +103,18 @@ The team was formed during a period where they couldn’t be physically near, so
     text: "10,000 trainee teachers",
     caption: "10,000 trainees added to Register trainee teachers. October 2021"
   }, {
-text: "register placements 23",
-caption: "Collection of placement information for trainee teachers added to Register. December 2023"
-  } , {
-text: "register census 23",
-caption: "This patch celebrated the completion of the 2023/2024 Census"
-} , {
-text: "register performance profiles 23",
-caption: "This patch was created for the creation of the 2023/2024 performance profiles"
-} , {
-text: "register api 24",
-caption: "This patch celebrates version 1 of the Register API to allow providers to submit data directly into the Register service"
-}]
+    text: "register placements 23",
+    caption: "Collection of placement information for trainee teachers added to Register. December 2023"
+  }, {
+    text: "register census 23",
+    caption: "This patch celebrated the completion of the 2023/2024 Census"
+  }, {
+    text: "register performance profiles 23",
+    caption: "This patch was created for the creation of the 2023/2024 performance profiles"
+  }, {
+    text: "register api 24",
+    caption: "This patch celebrates version 1 of the Register API to allow providers to submit data directly into the Register service"
+  }]
 }) }}
 
 * * *
@@ -143,11 +140,11 @@ We chose the plaid shirt and mug due to the fact that several team members share
 
 {{ appGallery({
   items: [{
-  text: "Get Into Teaching Public Beta",
-  caption: "This patch celebrated the service entering Public Beta with a mole to represent our emergence. April 2021"
-    } , {
-  text: "Get Into Teaching new campaign",
-  caption: "This patch was created for the launch of the new creative campaign in January 2024"
+    text: "Get Into Teaching Public Beta",
+    caption: "This patch celebrated the service entering Public Beta with a mole to represent our emergence. April 2021"
+  }, {
+    text: "Get Into Teaching new campaign",
+    caption: "This patch was created for the launch of the new creative campaign in January 2024"
   }]
 }) }}
 
@@ -165,7 +162,7 @@ Ants are ‘superorganisms’ because they operate as a unified entity, collecti
   items: [{
     text: "Teacher Services support team 20,000 tickets resolved",
     caption: "Teacher Services support team 20,000 tickets resolved - 2021 to 2022"
-    }]
+  }]
 }) }}
 
 * * *
