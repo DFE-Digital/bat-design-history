@@ -1,6 +1,6 @@
 ---
-title: Adding placements
-description: We added a way for schools to add placements to the service
+title: Adding placements if you belong to a school
+description: Based on our learnings from Alpha, we continued exploring how schools might add placements to the service
 date: 2024-02-22
 tags:
   - placements
@@ -32,7 +32,7 @@ screenshots:
       src: add-placement--mentor.png
     - text: Add placement - select mentor error
       src: add-placement--mentor-error.png
-    - text: Add placement - select mentor or ‘Not known yet’ error
+    - text: Add placement - select a mentor or ‘Not known yet’ error
       src: add-placement--mentor-not-known-error.png
     - text: Add placement - select window
       src: add-placement--window.png
@@ -50,9 +50,19 @@ screenshots:
       src: placements--remove-placement-success.png
 ---
 
-We added a way for schools to add their placements to Manage school placements (Placements).
+In Alpha, we ran two experiments to understand how schools might add school placements:
 
-We collect a list of the details of a school’s placements that are essential to creating school placements.
+- [Experiment 1a: Adding school placements if you’re a school](/manage-school-placements/experiment-1-adding-school-placements-if-youre-a-school/)
+- [Experiment 2a: Iterating how schools add school placements](/manage-school-placements/experiment-2-iterating-how-schools-add-school-placements/)
+
+Based on these experiments, we refined the journey for schools to add their placements to Manage school placements (Placements).
+
+We still have some unanswered questions, such as:
+
+- what constitutes a school placement?
+- what is the lifecycle of a school placement?
+- when do schools create placements and share them with their partner providers?
+- is there a difference between the placements schools create for their partner providers versus any provider?
 
 ## How it works
 
@@ -83,9 +93,15 @@ On the placement details page, we show a summary list of the placement details, 
 - mentor
 - window
 
-This page also includes a ‘Remove placement’ link, which allows users to delete the placement.
+Users can change:
+
+- subject
+- mentor
+- window
 
 Users cannot change the subject level.
+
+This page also includes a ‘Remove placement’ link, which allows users to delete the placement.
 
 ### Adding a placement
 
@@ -101,11 +117,20 @@ The ‘Add placement’ flow has five steps:
 4. Window
 5. Check your answers
 
+Users can cancel out of the flow at any time using the ‘Cancel’ link. If they do so, we do not save their progress and return them to the list of placements.
+
 #### Subject level
 
 The first step in the ‘Add placement’ flow is to select the subject level.
 
-This question is not asked if the school’s education phase is primary or secondary. In this case, we default the answer to the school’s education phase and move the user straight to the appropriate list of subjects.
+The subject levels include:
+
+- primary
+- secondary
+
+We show the subject level options as radio buttons.
+
+We do not ask this question if the school’s education phase is primary or secondary. In this case, we default the answer to the school’s education phase and move the user straight to the appropriate list of subjects.
 
 ##### Validation rules
 
@@ -114,6 +139,8 @@ If a user does not select a subject level, we show an error message:
 > Select a subject level
 
 #### Subject
+
+We use the list of subjects from Publish teacher training courses (Publish).
 
 We show different subject options if the user has previously chosen the ‘Primary’ or ‘Secondary’ subject levels or if we have defaulted the subject level based on the school’s education phase.
 
@@ -126,6 +153,8 @@ If the subject level is ‘Primary’, we show:
 - Primary with modern languages
 - Primary with physical education
 - Primary with science
+
+We show the primary subject specialisms as a list of radio buttons. Users can only select one primary subject specialism for a primary placement.
 
 If the subject level is ‘Secondary’, we show:
 
@@ -166,7 +195,7 @@ If the subject level is ‘Secondary’, we show:
 - Social sciences
 - Spanish
 
-We use the list of subjects from Publish teacher training courses (Publish).
+We show the secondary subjects as a list of checkboxes. Users can select multiple subjects for a secondary placement.
 
 ##### Validation rules
 
@@ -180,7 +209,7 @@ The next step is to add mentors to the placement.
 
 Users can select one or more mentors for a placement or select ‘Not known yet’ if they do not know.
 
-We display mentors in a list of checkboxes. For each mentor in the list we show their full name.
+We display mentors in a list of checkboxes. For each mentor on the list, we show their full name.
 
 The ‘Not known yet’ option is exclusive, which means if the user has selected a mentor and then selects this option, the mentor selection is cleared.
 
@@ -198,7 +227,7 @@ If JavaScript is unavailable – for example, it has been blocked – and the us
 
 The next step is to select the placement window.
 
-We show 3 options for the placement window, which correspond to terms in the academic year:
+We show 3 radio button options for the placement window, which correspond to terms in the academic year:
 
 - Autumn term
 - Spring term
@@ -223,15 +252,15 @@ Users cannot change the subject level if the school’s education phase is prima
 
 If users change the subject level, they must also change the subject before returning to the ‘Check your answers’ page.
 
-If a user returns to a previous answer using the change link, their entered information is pre-populated.
+If a user returns to a previous answer using the change link, the information they entered is pre-populated.
 
 When the ‘Publish placement’ button is selected, the placement is saved and published.
 
 ### Changing placement details
 
-To change the placement details, users can select the change link on the placement details page.
+Users can select the change link on the placement details page to change the placement details.
 
-If users use the change link, they will return to their answer and the information they previously entered is pre-populated.
+If users use the change link, they will return to their answer, and the information they previously entered is pre-populated.
 
 When finished, the user sees the ‘Continue’ button, which should return them to the check answers page.
 
@@ -256,13 +285,13 @@ We considered some changes that we did not implement. These included:
 
 ### Filtering the mentor list based on the subject
 
-We considered filtering the mentor list in the ‘add placement’ flow depending on the subject selected. This would require capturing the subject in the ‘add mentor’ flow. We decided to exclude this feature until user research validated the need.
+We considered filtering the mentor list in the ‘add placement’ flow depending on the subject selected. Filtering this way requires capturing the subject in the ‘add mentor’ flow. We decided to exclude this feature until user research validated the need.
 
 ### Adding a placement before adding mentors to the service
 
-When assigning a mentor to a placement, you can select ‘not known yet’. However, the service requires users to add at least one mentor before creating a placement.
+Users can select ‘not known yet’ when assigning a mentor to a placement. However, the service requires users to add at least one mentor before creating a placement.
 
-We considered allowing users to add a placement before adding any mentors however, we wanted to encourage the behaviour to add mentors.
+We considered allowing users to add a placement before adding any mentors; however, we wanted to encourage the behaviour of adding mentors.
 
 ### Creating a custom placement window
 
@@ -274,8 +303,8 @@ We considered allowing users to save a draft placement. However, there wasn’t 
 
 ### Only publishing a placement to providers in a school’s network
 
-Schools and providers have relationships with each other to provide trainees for placements. We considered the need for a user to publish to providers within and outside of their network. Being able to publish outside the network would bring a market benefit. However, the user's needs must first be validated by research.
+Schools and providers have relationships with each other to provide trainees for placements. We considered the need for a user to publish to providers within and outside their network. Being able to publish outside the network would bring a market benefit. However, we need to validate the user needs.
 
 ### One mentor per placement
 
-We initially considered a workflow where the user would have one mentor per placement. However, we’ve given users the ability to add more mentors per placement because this is a real-world experience.
+We initially considered a workflow where the user would have one mentor per placement. However, we’ve allowed users to add more mentors per placement because this is a real-world experience.
