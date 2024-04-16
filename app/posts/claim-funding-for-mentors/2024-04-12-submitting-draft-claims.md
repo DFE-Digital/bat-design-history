@@ -65,3 +65,19 @@ When the draft claim is submitted, we show a confirmation page that includes a:
 
 - reference number
 - description of what happens next
+
+## Further considerations
+
+We considered showing the check your answers page from the claims list for all draft claims.
+
+We did not implement this approach. When a school user selects to view a claim from the claims list, we show the claim details regardless of the claim’s status (draft or submitted).
+
+This approach means:
+
+- we always show the same claim details page to the user
+- we follow a familiar pattern used in all lists used in Becoming a Teacher (BAT) services
+- users don’t need to know why one claim details page looks different from another
+- users can decide what to do next - we do not assume intent (submit claim or view claim)
+The downside of this approach is that we will have partly duplicated functionality, such as the summary lists with change links.
+
+We will review this decision in the future. For example, we may want to introduce a draft claims list to optimise the user’s tasks.
