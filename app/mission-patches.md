@@ -122,12 +122,12 @@ The team was formed during a period where they couldn’t be physically near, so
 
 ## Claim funding for mentor training
 
-The mascot for Claim funding for mentor training is an orangutan called XXXX. We chose an orangutan because XXX.
+Claim funding for mentor training is a new service in private beta. The service aims to make it easy for schools to claim payment for the time their ITT mentors undertook training. Our team mascot is the wise Orangutan. ITT mentors are also wise and work to support and guide trainee teachers. These mentors will become wiser through high-quality training funded by the new service.
 
 {{ appGallery({
   items: [{
-    text: "Claim funding for mentor training private beta",
-    caption: "XXX XXX XXX"
+    text: "Claim funding for mentor training private beta May 2024",
+    caption: "This patch celebrates the launch of the private beta for claim funding for mentor training in May 2024"
   }]
 }) }}
 
