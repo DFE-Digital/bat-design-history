@@ -153,7 +153,7 @@ We chose the plaid shirt and mug due to the fact that several team members share
 
 ## Get school experience
 
-Wade, the tortoise, reflects the slow and steady progress we've made. It draws inspiration from the first school that joined the service, Wade Deacon High School.
+Wade, the tortoise, reflects our slow and steady progress. It draws inspiration from the first school that joined the service, Wade Deacon High School.
 
 {{ appGallery({
   items: [{
