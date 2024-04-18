@@ -157,7 +157,7 @@ Wade, the tortoise, reflects our slow and steady progress. It draws inspiration 
 
 {{ appGallery({
   items: [{
-    text: "get school experience 1000 schools onboarded",
+    text: "Get school experience 1000 schools onboarded",
     caption: "This patch celebrated the service reaching 1,000 onboarded schools in March 2024"
   }]
 }) }}
