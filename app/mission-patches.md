@@ -151,6 +151,19 @@ We chose the plaid shirt and mug due to the fact that several team members share
 
 * * *
 
+## Get school experience
+
+Wade, the tortoise, reflects our slow and steady progress. It draws inspiration from the first school that joined the service, Wade Deacon High School.
+
+{{ appGallery({
+  items: [{
+    text: "Get school experience 1000 schools onboarded",
+    caption: "This patch celebrated the service reaching 1,000 onboarded schools in March 2024"
+  }]
+}) }}
+
+* * *
+
 ## Support team
 
 Our team of ants represent the drive and passion for supporting users across all our services (the services, currently seven, are shown as the backpacks our hardworking ants carry).
