@@ -1,6 +1,6 @@
 ---
 title: User research round 1 findings
-description: DESCRIPTION
+description: Testing the ‘add a mentor’ and ‘add a placement’ journeys with school users
 date: 2024-02-29
 tags:
   - research
@@ -47,7 +47,7 @@ Most school users were positive about the potential of the service (it could hel
 
 As found during the Discovery phase, different ITT providers currently have different ways of requesting a school’s placement and mentor information – some have a digital tool or send a digital form whereas others request the information in a spreadsheet or word processing document. Schools currently need to repeat this task for each provider they work with, which is time consuming, and updating this information after it’s been submitted is also a challenge.
 
-> This might stop the last-minute panics that we sometimes receive from people whose placements have collapsed because somebody's resigned or whatever. And the training is meant to start next week, and they've got nowhere to send them and they're frantically phoning around going "can anybody help?" Having a centralised hub might stop that so they can at least see.
+> This might stop the last-minute panics that we sometimes receive from people whose placements have collapsed because somebody's resigned or whatever. And the training is meant to start next week, and they've got nowhere to send them and they're frantically phoning around going 'can anybody help?' Having a centralised hub might stop that so they can at least see.
 
 However, the service’s appeal is dependent on ITT providers no longer requesting the same information separately so that the service replaces what they currently do rather than being additional. There were also concerns from some school users that other pressures on mentor availability [which were also highlighted during the Discovery phase](https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/problems-with-school-placements/) will reduce the amount of placements schools are willing to add to the service or make the information less reliable.
 
@@ -111,8 +111,8 @@ A different design pattern for adding multiple subjects to an individual placeme
 
 ### Hypothesis 3
 
-One user was concerned about ITT providers contacting their mentors directly if their names were shown on placement opportunities. Our hypothesis is that ITT providers likely don’t need to know the name of the mentor and it would be sufficient for them to only see whether the mentor has or has not been assigned. We will explore this in user research round 2 with ITT providers.
+One user was concerned about ITT providers contacting their mentors directly if their names were shown on placement opportunities. Our hypothesis is that ITT providers likely do not need to know the name of the mentor and it would be sufficient for them to only see whether the mentor has or has not been assigned. We will explore this in user research round 2 with ITT providers.
 
 ### Hypothesis 4
 
-It might provide additional reassurance if there was guidance text explaining to users that they can edit a placement after it has been published and if there was the ability to preview what the placement looks like to ITT providers. All the users we spoke to in this round were comfortable with their placements being visible to all providers using the service but this additional reassurance could be helpful for those that have any reservations – such as whether the assigned mentor’s name will or won’t be shown.
+It might provide additional reassurance if there was guidance text explaining to users that they can edit a placement after it has been published and if there was the ability to preview what the placement looks like to ITT providers. All the users we spoke to in this round were comfortable with their placements being visible to all providers using the service but this additional reassurance could be helpful for those that have any reservations – such as whether the assigned mentor’s name will or will not be shown.
