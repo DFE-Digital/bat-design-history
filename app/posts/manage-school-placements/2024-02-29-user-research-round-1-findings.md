@@ -9,14 +9,14 @@ tags:
 
 ## Who we spoke to
 
-We spoke to 6 x school users responsible for coordinating initial teacher training (ITT) within their school or trust.
+We spoke to six school users responsible for coordinating initial teacher training (ITT) within their school or trust.
 
-Including:
+The research participants included:
 
-- 4 x multi-academy trusts (MATs) and 2 x single academy trusts
-- 2 x rural, 2 x urban and 2 x mixed rural and urban settings (within a MAT) spread across different parts of England
-- Mix of primary and secondary schools
-- Mix of religious and non-religious schools
+- 4 multi-academy trusts (MATs) and two single-academy trusts
+- 2 rural, two urban and two mixed rural and urban settings (within a MAT) spread across different parts of England
+- a mix of primary and secondary schools
+- a mix of religious and non-religious schools
 
 ## Goals of the research
 
@@ -41,17 +41,17 @@ We tested the first iteration of the ‘Add mentor’ and ‘Add placement’ jo
 
 ### Insight 1
 
-Most school users were optimistic about the service's potential (it could help with a current pain point). Still, its value relies heavily on other factors, such as ITT providers not requesting the same information separately and the new mentor training requirements not being the barrier some school users expect them to be.
+Most participants were optimistic about the service's potential (it could help with a current pain point). Still, its value relies heavily on other factors, such as ITT providers not requesting the same information separately and the new mentor training requirements not being the barrier some participants expect them to be.
 
-#### Supporting detail and evidence
+#### Supporting detail and evidence:
 
 As found during the Discovery phase, different ITT providers currently have various ways of requesting a school’s placement and mentor information. Some use a digital tool or send a digital form. In contrast, others request the information in a spreadsheet or word-processing document. Schools need to repeat this task for each provider they work with, which is time-consuming, and updating this information after they’ve submitted it is also a challenge.
 
-> This might stop the last-minute panics that we sometimes receive from people whose placements have collapsed because somebody’s resigned or whatever. And the training is meant to start next week, and they've got nowhere to send them, and they're frantically phoning around going, “can anybody help?” Having a centralised hub might stop that so they can at least see.
+> This might stop the last-minute panics that we sometimes receive from people whose placements have collapsed because somebody’s resigned or whatever. And the training is meant to start next week, and they’ve got nowhere to send them, and they’re frantically phoning around going, “can anybody help?” Having a centralised hub might stop that so they can at least see.
 
-However, the service’s appeal depends on ITT providers no longer requesting the same information separately so that the service replaces what it currently does rather than being additional. There were also concerns from some school users that other pressures on mentor availability [which participants also highlighted during the Discovery phase](/manage-school-placements/problems-with-school-placements/) will reduce the amount of placements schools are willing to add to the service or make the information less reliable.
+However, the service’s appeal depends on ITT providers no longer requesting the same information separately so that the service replaces what it currently does rather than being additional. There were also concerns from some participants that other pressures on mentor availability [which participants also highlighted during the Discovery phase](/manage-school-placements/problems-with-school-placements/) will reduce the amount of placements schools are willing to add to the service or make the information less reliable.
 
-> My colleagues in schools who just take placements aren't considering mentor training. They will just be used to getting emails and phone calls from universities and SCITTs saying they can have a placement and offering what they can offer. That’s based upon very little mentor training and they don't know yet that you need to have 20 hours.
+> My colleagues in schools who just take placements aren’t considering mentor training. They will just be used to getting emails and phone calls from universities and SCITTs saying they can have a placement and offering what they can offer. That’s based upon very little mentor training and they don't know yet that you need to have 20 hours.
 
 ### Insight 2
 
@@ -59,9 +59,9 @@ We must define ‘placement’ more clearly within the service and consider diff
 
 #### Supporting detail and evidence
 
-School users often did not realise that the service required them to enter each placement individually. Some users felt it would be better to enter their placement capacity as part of one set of screens rather than repeating the ‘Add placement’ journey for each placement.
+Participants often did not realise that the service required them to enter each placement individually. Some participants felt it would be better to enter their placement capacity as part of one set of screens rather than repeating the ‘Add placement’ journey for each placement.
 
-The ‘Select all that apply’ instruction on the ‘Subject’ screen for secondary school placements confused some users. They interpreted it as saying they should select all subjects relevant to the school rather than only those applicable to the individual placement being added. In most cases, there will only be one subject for a single placement, but there are exceptions, such as for French and Spanish placements.
+Some participants confused the ‘Select all that apply’ instruction on the ‘Subject’ screen for secondary school placements. They interpreted it as saying they should select all subjects relevant to the school rather than only those applicable to the individual placement. In most cases, there will only be one subject for a single placement, but there are exceptions, such as for French and Spanish placements.
 
 [![Secondary subjects](/manage-school-placements/adding-placements/add-placement--subject-secondary.png 'Secondary subjects')](/manage-school-placements/adding-placements/add-placement--subject-secondary.png)
 
@@ -71,11 +71,11 @@ Adding a mentor before being able to add a placement is viewed as an unnecessary
 
 #### Supporting detail and evidence
 
-We set up the prototype so that users need to add at least one mentor before being able to add a placement. Users felt this constraint was an unnecessary barrier, as the choice to offer a placement often happens before they confirm a mentor. They said they would likely just add one mentor to get around this restriction rather than adding all of their mentors before adding their first placement (which was the intention behind the design),
+We set up the prototype so that participants need to add at least one mentor before being able to add a placement. Participants felt this constraint was an unnecessary barrier, as the choice to offer a placement often happens before they confirm a mentor. They said they would likely just add one mentor to get around this restriction rather than adding all of their mentors before adding their first placement (which was the intention behind the design),
 
 [![Screenshot of ‘Placements’ tab with instruction to add a mentor first](/manage-school-placements/adding-placements/placements--list-no-mentors.png 'Screenshot of ‘Placements’ tab with instruction to add a mentor first')](/manage-school-placements/adding-placements/placements--list-no-mentors.png)
 
-> I often wouldn't know who the mentor is, or it might change, so it’s a bit silly doing it now. I can understand what it’s asking me to do but it’s putting the cart before the horse because it can change frequently.
+> I often wouldn’t know who the mentor is, or it might change, so it’s a bit silly doing it now. I can understand what it’s asking me to do but it’s putting the cart before the horse because it can change frequently.
 
 ### Insight 4
 
@@ -83,11 +83,11 @@ The service feels familiar because schools use other DfE services that look and 
 
 #### Supporting detail and evidence
 
-School users found the prototype service easy to navigate, and many commented that it worked similarly to other DfE services, which was a positive development.
+Participants found the prototype service easy to navigate, and many commented that it worked similarly to other DfE services, which was a positive development.
 
 > That’s exactly the same as the trainee applications service. So there is a sort of continuity there if you're used to other DfE services – it’s very similar.
 
-However, a negative was that – at specific points – some users got confused about the difference between the school placements service, Publish teacher training courses service and Manage training for early career teachers service because they look similar and are all part of the broader teacher training journey.
+However, a negative was that—at specific points—some participants got confused about the difference between the school placements service, the Publish teacher training courses service, and the Manage training for early career teachers service because they look similar and are all part of the broader teacher training journey.
 
 ### Insight 5
 
@@ -95,9 +95,9 @@ Based on the prototype tested, providing the required placement and mentor infor
 
 #### Supporting detail and evidence
 
-Four of the users from this round were from Multi-Academy Trusts, and even for MATs with 10+ schools, adding their placements and mentors to the service was not viewed as a significant amount of effort as long as they do not still have to provide this information separately to ITT providers (i.e., this service replaces what they currently do rather than being additional).
+Four of the participants from this round were from Multi-Academy Trusts, and even for MATs with 10+ schools, adding their placements and mentors to the service was not viewed as a significant amount of effort as long as they do not still have to provide this information separately to ITT providers (i.e., this service replaces what they currently do rather than being additional).
 
-> It’s not effort; it’s just that you don't want to duplicate it. I'm already duplicating it for 3 providers, so this would be a fourth. So if this replaces what I'm doing for them, then great, because I'm doing it once, not three times. But if it’s just adding to that, then it’s pretty pointless from my point of view—there’s no benefit to me.
+> It’s not effort; it’s just that you don’t want to duplicate it. I’m already duplicating it for three providers, so this would be a fourth. So if this replaces what I’m doing for them, then great, because I’m doing it once, not three times. But if it’s just adding to that, then it’s pretty pointless from my point of view—there’s no benefit to me.
 
 ## Hypotheses to test in future research
 
@@ -115,4 +115,4 @@ One user was concerned about ITT providers contacting their mentors directly if 
 
 ### Hypothesis 4
 
-It might provide additional reassurance if there was guidance text explaining to users that they can edit a placement after it has been published and if there was the ability to preview what the placement looks like to ITT providers. All the users we spoke to in this round were comfortable with their placements being visible to all providers using the service, but this additional reassurance could be helpful for those who have any reservations—such as whether the assigned mentor’s name will or will not be shown.
+It might provide additional reassurance if there was guidance text explaining to users that they can edit a placement after it has been published and if there was the ability to preview what the placement looks like to ITT providers. All the participants we spoke to in this round were comfortable with their placements being visible to all providers using the service, but this additional reassurance could be helpful for those who have any reservations—such as whether the assigned mentor’s name will or will not be shown.
