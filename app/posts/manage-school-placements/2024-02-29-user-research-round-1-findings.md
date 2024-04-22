@@ -43,7 +43,7 @@ We tested the first iteration of the ‘Add mentor’ and ‘Add placement’ jo
 
 Most participants were optimistic about the service's potential (it could help with a current pain point). Still, its value relies heavily on other factors, such as ITT providers not requesting the same information separately and the new mentor training requirements not being the barrier some participants expect them to be.
 
-#### Supporting detail and evidence:
+#### Supporting detail and evidence
 
 As found during the Discovery phase, different ITT providers currently have various ways of requesting a school’s placement and mentor information. Some use a digital tool or send a digital form. In contrast, others request the information in a spreadsheet or word-processing document. Schools need to repeat this task for each provider they work with, which is time-consuming, and updating this information after they’ve submitted it is also a challenge.
 
