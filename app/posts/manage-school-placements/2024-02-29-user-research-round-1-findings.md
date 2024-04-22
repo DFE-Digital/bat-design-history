@@ -111,8 +111,8 @@ A different design pattern for adding multiple subjects to an individual placeme
 
 ### Hypothesis 3
 
-One user was concerned about ITT providers contacting their mentors directly if we showed their names on placement opportunities. We hypothesise that ITT providers likely don’t need to know the mentor's name; it would be sufficient for them to see whether the mentor has or has not been assigned. We will explore this in user research round 2 with ITT providers.
+One user was concerned about ITT providers contacting their mentors directly if we showed their names on placement opportunities. We hypothesise that ITT providers likely do not need to know the mentor's name; it would be sufficient for them to see whether the mentor has or has not been assigned. We will explore this in user research round 2 with ITT providers.
 
 ### Hypothesis 4
 
-It might provide additional reassurance if there was guidance text explaining to users that they can edit a placement after it has been published and if there was the ability to preview what the placement looks like to ITT providers. All the users we spoke to in this round were comfortable with their placements being visible to all providers using the service, but this additional reassurance could be helpful for those who have any reservations—such as whether the assigned mentor’s name will or won’t be shown.
+It might provide additional reassurance if there was guidance text explaining to users that they can edit a placement after it has been published and if there was the ability to preview what the placement looks like to ITT providers. All the users we spoke to in this round were comfortable with their placements being visible to all providers using the service, but this additional reassurance could be helpful for those who have any reservations—such as whether the assigned mentor’s name will or will not be shown.
