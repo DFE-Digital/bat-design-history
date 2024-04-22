@@ -95,7 +95,7 @@ Based on the prototype tested, providing the required placement and mentor infor
 
 #### Supporting detail and evidence
 
-Four of the users from this round were from Multi-Academy Trusts, and even for MATs with 10+ schools, adding their placements and mentors to the service was not viewed as a significant amount of effort as long as they did not still have to provide this information separately to ITT providers (i.e., this service replaces what they currently do rather than being additional).
+Four of the users from this round were from Multi-Academy Trusts, and even for MATs with 10+ schools, adding their placements and mentors to the service was not viewed as a significant amount of effort as long as they do not still have to provide this information separately to ITT providers (i.e., this service replaces what they currently do rather than being additional).
 
 > It’s not effort; it’s just that you don't want to duplicate it. I'm already duplicating it for 3 providers, so this would be a fourth. So if this replaces what I'm doing for them, then great, because I'm doing it once, not three times. But if it’s just adding to that, then it’s pretty pointless from my point of view—there’s no benefit to me.
 
