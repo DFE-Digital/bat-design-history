@@ -59,7 +59,7 @@ We must define ‘placement’ more clearly within the service and consider diff
 
 #### Supporting detail and evidence
 
-School users often didn’t realise that the service required them to enter each placement individually. Some users felt it would be better to enter their placement capacity as part of one set of screens rather than repeating the ‘Add placement’ journey for each placement.
+School users often did not realise that the service required them to enter each placement individually. Some users felt it would be better to enter their placement capacity as part of one set of screens rather than repeating the ‘Add placement’ journey for each placement.
 
 The ‘Select all that apply’ instruction on the ‘Subject’ screen for secondary school placements confused some users. They interpreted it as saying they should select all subjects relevant to the school rather than only those applicable to the individual placement being added. In most cases, there will only be one subject for a single placement, but there are exceptions, such as for French and Spanish placements.
 
@@ -95,7 +95,7 @@ Based on the prototype tested, providing the required placement and mentor infor
 
 #### Supporting detail and evidence
 
-Four of the users from this round were from Multi-Academy Trusts, and even for MATs with 10+ schools, adding their placements and mentors to the service wasn’t viewed as a significant amount of effort as long as they didn’t still have to provide this information separately to ITT providers (i.e., this service replaces what they currently do rather than being additional).
+Four of the users from this round were from Multi-Academy Trusts, and even for MATs with 10+ schools, adding their placements and mentors to the service was not viewed as a significant amount of effort as long as they did not still have to provide this information separately to ITT providers (i.e., this service replaces what they currently do rather than being additional).
 
 > It’s not effort; it’s just that you don't want to duplicate it. I'm already duplicating it for 3 providers, so this would be a fourth. So if this replaces what I'm doing for them, then great, because I'm doing it once, not three times. But if it’s just adding to that, then it’s pretty pointless from my point of view—there’s no benefit to me.
 
