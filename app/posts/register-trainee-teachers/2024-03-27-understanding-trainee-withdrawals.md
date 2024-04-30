@@ -20,7 +20,7 @@ We conducted data analysis and desktop research to understand what we know and w
 
 ## Background  
 
-In July 2023, DfE published “Initial teacher training (ITT) performance profiles” for the 2021/22 Academic year. It showed that the proportion of ITT trainees who did not complete their training in 2021/22 rose to 7 per cent, up from 5 per cent in the previous year and the highest rate for 5 years. The DfE are unsure as to the reasons for this increase. 
+In July 2023, DfE published [“Initial teacher training (ITT) performance profiles” for the 2021/22 Academic year](https://www.gov.uk/government/statistics/initial-teacher-training-performance-profiles-2021-to-2022). It showed that the proportion of ITT trainees who did not complete their training in 2021/22 rose to 7 per cent, up from 5 per cent in the previous year and the highest rate for 5 years. The DfE are unsure as to the reasons for this increase.
 
 The Register trainee teachers (Register) service holds a wealth of information about each trainee including their pathway into ITT and the date of withdrawal as well as extensive demographic information. Providers use the service to record the reason(s) why a trainee withdraws from an ITT course. 
 
