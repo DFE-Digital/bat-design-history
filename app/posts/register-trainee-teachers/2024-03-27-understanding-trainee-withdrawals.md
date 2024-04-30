@@ -42,7 +42,7 @@ We began by establishing the scope of the study and imposed parameters to ensure
 
 - We only included Postgraduate routes full-time students
 
-- We were not looking at annual trends and we did not include geographic location of ITT providers, disability details, nationality details and ethnicity details. We also did not include placement data
+- We were not looking at annual trends, and we did not include geographic location of ITT providers, disability details, nationality details and ethnicity details. We also did not include placement data
 
 - We cross analysed ITT factors with trainee demographics
 
