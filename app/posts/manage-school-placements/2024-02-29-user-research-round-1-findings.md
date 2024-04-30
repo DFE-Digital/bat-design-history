@@ -103,16 +103,32 @@ Four of the participants from this round were from Multi-Academy Trusts, and eve
 
 ### Hypothesis 1
 
-A start page might help orient users before entering the service to avoid confusion about how this service differs from other teacher training-related DfE services and how' a placement’ is defined within the service.
+We think that a landing page with guidance content might help orientate school users before entering the service.
+
+We think this because some research participants were confused about how the school placements service differs from other teacher training-related DfE services and how ‘a placement’ is defined within the service.
+
+We will test this by seeing if participants in future research rounds experience less confusion when they see the landing page before using the prototype.
 
 ### Hypothesis 2
 
-A different design pattern for adding multiple subjects to an individual placement might help avoid confusion—replacing the currently used checkboxes. A single placement with various subjects (e.g., a placement for French and Spanish) is needed, but it’s a rarer scenario so it can be treated as an exception.
+We think that a different design pattern for adding multiple subjects to an individual placement will make it more straightforward for schools to add placements.
+
+We think this is because the currently-used checkboxes and the ‘Select all that apply’ instruction led most participants to believe that they should select all subjects they could offer placements for (rather than the subjects relevant to the individual placement).
+
+We will test this by seeing if participants in future research rounds understand that each placement needs to be added individually despite it being possible to create a placement with more than one subject (e.g. a placement for French and Spanish).
 
 ### Hypothesis 3
 
-One user was concerned about ITT providers contacting their mentors directly if we showed their names on placement opportunities. We hypothesise that ITT providers likely do not need to know the mentor's name; it would be sufficient for them to see whether the mentor has or has not been assigned. We will explore this in user research round 2 with ITT providers.
+We think that ITT providers do not need to know the mentor's name when looking at a placement opportunity—it would be sufficient for them to see whether the school has assigned a mentor.
+
+We think this is because we are unaware of why ITT providers would need to know the mentor’s name at the initial enquiry stage, and de-personalising this information would avoid the concern raised by one participant that ITT providers might start contacting mentors directly.
+
+We will test this by seeing if ITT providers provide a reason they need to know the mentor’s name during user research round 2.
 
 ### Hypothesis 4
 
-It might provide additional reassurance if there was guidance text explaining to users that they can edit a placement after it has been published and if there was the ability to preview what the placement looks like to ITT providers. All the participants we spoke to in this round were comfortable with their placements being visible to all providers using the service, but this additional reassurance could be helpful for those who have any reservations—such as whether the assigned mentor’s name will or will not be shown.
+We think that guidance text explaining to school users that they can edit a placement after publication and allowing schools to preview what the placement looks like to ITT providers might provide additional reassurance.
+
+We think this because although all the participants we spoke to in this round were comfortable with their placements being visible to all providers as soon as they are published, some school users have reservations, and similar are available in other Becoming a Teacher (BAT) services.
+
+We will test this by seeing if research participants raise this need for reassurance or react positively to additional guidance and a preview option.
