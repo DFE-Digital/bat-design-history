@@ -34,17 +34,17 @@ We would perform data analysis of the Register service and conduct desktop resea
 
 ### Data analysis  
 
-We began by establishing the scope of the study and imposed parameters to ensure we would finish the study in time. 
+We began by establishing the scope of the study and imposed parameters to ensure we would finish the study in time.
 
-- We only mapped what is happening. By understanding the current situation better, we can identify which areas are worth exploring more to get to the why. 
+- We only mapped what is happening. By understanding the current situation better, we can identify which areas are worth exploring more to get to the why
 
-- We only included trainees if their Academic Year started from 1/8/2022 and ended with a course outcome no later than 31/7/23. Deferred trainees were not included (230 records).  
+- We only included trainees if their Academic Year started from 1/8/2022 and ended with a course outcome no later than 31/7/23. Deferred trainees were not included (230 records)
 
-- We only included Postgraduate routes full-time students.  
+- We only included Postgraduate routes full-time students
 
-- We were not looking at annual trends and we did not include geographic location of ITT providers, disability details, nationality details and ethnicity details. We also did not include placement data.   
+- We were not looking at annual trends and we did not include geographic location of ITT providers, disability details, nationality details and ethnicity details. We also did not include placement data
 
-We cross analysed ITT factors with trainee demographics.  
+- We cross analysed ITT factors with trainee demographics
 
 The ITT factors we analysed were provider, route, institution, subject, date and reason. The demographic factors were gender, age, ethnicity, nationality and disability.  
 
@@ -72,23 +72,23 @@ We learned where the hotspots for trainee withdrawals are within ITT factors and
 
 ### Summary of findings  
 
-- Trainees in HPITT have a higher-than-expected withdrawal rate. 
+- Trainees in HPITT have a higher-than-expected withdrawal rate
 
-- Most withdrawals from ITT happen in the first few months of the academic year (October, November and December). This date of withdrawal was largely the same regardless of ITT factor or demographics. 
+- Most withdrawals from ITT happen in the first few months of the academic year (October, November and December). This date of withdrawal was largely the same regardless of ITT factor or demographics
 
 ![A line graph showing weekly ITT withdrawals for the academic year 2022 to 2023. It shows a clear rise in withdrawals in the first three months for all cohorts gradually reducing in number until the end of the academic year](Weekly-ITT-withdrawals-for-academic-year-2022_23.png 'ITT withdrawals by date')
 
-- 'Another reason' accounts for over half of all reasons given and was given by all demographics. 
+- 'Another reason' accounts for over half of all reasons given and was given by all demographics
 
-- Males have higher than expected withdrawal rates.   
+- Males have higher than expected withdrawal rates
 
-- Older (36+) trainees withdraw more, but those who are 21-25 gave different reasons to other age groups.   
+- Older (36+) trainees withdraw more, but those who are 21-25 gave different reasons to other age groups
 
-- Asian ethnicities have higher than expected withdrawals overall and by institution type (SCITT) and route (HPITT).   
+- Asian ethnicities have higher than expected withdrawals overall and by institution type (SCITT) and route (HPITT)
 
-- Non-British TTs have higher than expected withdrawal rates for HPITT (route) and give different reasons to British trainees. 
+- Non-British TTs have higher than expected withdrawal rates for HPITT (route) and give different reasons to British trainees
 
-- Trainees with a disability have higher withdrawal rates overall and by institution type (SCITT) and route (HPITT). They also give different reasons to those without a disability and 'does not want to become a teacher' is only 1.15% of the reasons given by those with a disability.  
+- Trainees with a disability have higher withdrawal rates overall and by institution type (SCITT) and route (HPITT). They also give different reasons to those without a disability and 'does not want to become a teacher' is only 1.15% of the reasons given by those with a disability
 
 ## Next steps  
 
