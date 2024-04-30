@@ -1,5 +1,5 @@
 ---
-title: Managing partner schools if you’re and ITT provider
+title: Managing partner schools if you’re an ITT provider
 description: We added a way for ITT providers to manage their partner schools
 date: 2024-04-15
 tags:
