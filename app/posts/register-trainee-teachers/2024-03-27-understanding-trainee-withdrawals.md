@@ -16,7 +16,7 @@ tags:
 
 ---  
 
-We conducted data analysis and desktop research to understand what we know and what we don’t know about why trainees withdraw from teacher training  
+We conducted data analysis and desktop research to understand what we know and what we don’t know about why trainees withdraw from teacher training.
 
 ## Background  
 
