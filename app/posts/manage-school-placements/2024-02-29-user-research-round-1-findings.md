@@ -47,11 +47,11 @@ Most participants were optimistic about the service's potential (it could help w
 
 As found during the Discovery phase, different ITT providers currently have various ways of requesting a school’s placement and mentor information. Some use a digital tool or send a digital form. In contrast, others request the information in a spreadsheet or word-processing document. Schools need to repeat this task for each provider they work with, which is time-consuming, and updating this information after they’ve submitted it is also a challenge.
 
-> This might stop the last-minute panics that we sometimes receive from people whose placements have collapsed because somebody’s resigned or whatever. And the training is meant to start next week, and they’ve got nowhere to send them, and they’re frantically phoning around going, “can anybody help?” Having a centralised hub might stop that so they can at least see.
+> “This might stop the last-minute panics that we sometimes receive from people whose placements have collapsed because somebody’s resigned or whatever. And the training is meant to start next week, and they’ve got nowhere to send them, and they’re frantically phoning around going, ‘can anybody help?’ Having a centralised hub might stop that so they can at least see.”
 
 However, the service’s appeal depends on ITT providers no longer requesting the same information separately so that the service replaces what it currently does rather than being additional. There were also concerns from some participants that other pressures on mentor availability [which participants also highlighted during the Discovery phase](/manage-school-placements/problems-with-school-placements/) will reduce the amount of placements schools are willing to add to the service or make the information less reliable.
 
-> My colleagues in schools who just take placements aren’t considering mentor training. They will just be used to getting emails and phone calls from universities and SCITTs saying they can have a placement and offering what they can offer. That’s based upon very little mentor training and they don't know yet that you need to have 20 hours.
+> “My colleagues in schools who just take placements aren’t considering mentor training. They will just be used to getting emails and phone calls from universities and SCITTs saying they can have a placement and offering what they can offer. That’s based upon very little mentor training and they don’t know yet that you need to have 20 hours.”
 
 ### Insight 2
 
@@ -75,7 +75,7 @@ We set up the prototype so that participants need to add at least one mentor bef
 
 [![Screenshot of ‘Placements’ tab with instruction to add a mentor first](/manage-school-placements/adding-placements/placements--list-no-mentors.png 'Screenshot of ‘Placements’ tab with instruction to add a mentor first')](/manage-school-placements/adding-placements/placements--list-no-mentors.png)
 
-> I often wouldn’t know who the mentor is, or it might change, so it’s a bit silly doing it now. I can understand what it’s asking me to do but it’s putting the cart before the horse because it can change frequently.
+> “I often wouldn’t know who the mentor is, or it might change, so it’s a bit silly doing it now. I can understand what it’s asking me to do but it’s putting the cart before the horse because it can change frequently.”
 
 ### Insight 4
 
@@ -85,7 +85,7 @@ The service feels familiar because schools use other DfE services that look and 
 
 Participants found the prototype service easy to navigate, and many commented that it worked similarly to other DfE services, which was a positive development.
 
-> That’s exactly the same as the trainee applications service. So there is a sort of continuity there if you're used to other DfE services – it’s very similar.
+> “That’s exactly the same as the trainee applications service. So there is a sort of continuity there if you're used to other DfE services – it’s very similar.”
 
 However, a negative was that—at specific points—some participants got confused about the difference between the school placements service, the Publish teacher training courses service, and the Manage training for early career teachers service because they look similar and are all part of the broader teacher training journey.
 
@@ -97,9 +97,9 @@ Based on the prototype tested, providing the required placement and mentor infor
 
 Four of the participants from this round were from Multi-Academy Trusts, and even for MATs with 10+ schools, adding their placements and mentors to the service was not viewed as a significant amount of effort as long as they do not still have to provide this information separately to ITT providers (i.e., this service replaces what they currently do rather than being additional).
 
-> It’s not effort; it’s just that you don’t want to duplicate it. I’m already duplicating it for three providers, so this would be a fourth. So if this replaces what I’m doing for them, then great, because I’m doing it once, not three times. But if it’s just adding to that, then it’s pretty pointless from my point of view—there’s no benefit to me.
+> “It’s not effort; it’s just that you don’t want to duplicate it. I’m already duplicating it for three providers, so this would be a fourth. So if this replaces what I’m doing for them, then great, because I’m doing it once, not three times. But if it’s just adding to that, then it’s pretty pointless from my point of view—there’s no benefit to me.”
 
-## Hypotheses to test in future research
+## Hypotheses to test
 
 ### Hypothesis 1
 
@@ -115,7 +115,7 @@ We think that a different design pattern for adding multiple subjects to an indi
 
 We think this is because the currently-used checkboxes and the ‘Select all that apply’ instruction led most participants to believe that they should select all subjects they could offer placements for (rather than the subjects relevant to the individual placement).
 
-We will test this by seeing if participants in future research rounds understand that each placement needs to be added individually despite it being possible to create a placement with more than one subject (e.g. a placement for French and Spanish).
+We will test this by seeing if participants in future research rounds understand that each placement needs to be added individually despite it being possible to create a placement with more than one subject (for example, a placement for French and Spanish).
 
 ### Hypothesis 3
 
