@@ -52,7 +52,7 @@ The ITT factors we analysed were provider, route, institution, subject, date and
 
 We performed two rounds of analysis on the data: 
 
-1. We tested each population proportion for statistical significance to determine if the rate was notably different from the rate in the overall cohort. For example, whether the withdrawal rate for trainees in (High Potential ITT is significantly different from the overall ITT withdrawal rate.   
+1. We tested each population proportion for statistical significance to determine if the rate was notably different from the rate in the overall cohort. For example, whether the withdrawal rate for trainees in High Potential ITT is significantly different from the overall ITT withdrawal rate.
 
 2. We conducted a cross checking exercise to look at the interaction between the different combinations of ITT factors and demographics. For example, comparing the withdrawal rate of Asian trainees in HPITT to the overall ITT withdrawal rate.   
 
