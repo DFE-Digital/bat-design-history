@@ -101,7 +101,7 @@ ITT providers manage a network of partner schools and will prioritise opportunit
 
 When adding a partner school, ITT providers expect that schools should be notified and have control over who their ‘partner’ is. However, there was concern about a grey area where it’s difficult to say whether the school is or is not a ‘partner’ – for example, if the ITT provider placed a trainee at that school multiple years ago and has not again since. Some schools would be ‘partners’ (the school and the ITT provider work together regularly, and there’s a partnership agreement in place), but there can be varying levels of partnership between them.
 
-## Hypotheses to test in future research
+## Hypotheses to test
 
 ### Hypothesis 1
 
