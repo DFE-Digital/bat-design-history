@@ -1,6 +1,6 @@
 ---
 title: User research round 2 findings
-description: Testing the ’Find placements’ journey with ITT providers
+description: Testing the ‘Find placements’ journey with ITT providers
 date: 2024-03-22
 tags:
   - research
@@ -30,11 +30,11 @@ The goal of user research round 2 was to answer the following questions:
 
 ## What we tested
 
-We tested the first iteration of the ’Find placement’ journey and got general feedback on the overall service and its value to ITT providers – building on the prototype produced as part of the Alpha phase.
+We tested the first iteration of the ‘Find placement’ journey and got general feedback on the overall service and its value to ITT providers – building on the prototype produced as part of the Alpha phase.
 
-[Screenshot of Placements tab]
+[![Find new placement flow](/manage-school-placements/finding-new-school-placements/find-placements--flow.png 'Find new placement flow')](/manage-school-placements/finding-new-school-placements/find-placements--flow.png)
 
-[![Find new placement flow](find-placements--flow.png ’Find new placement flow’)](find-placements--flow.png)
+[![Placements list](/manage-school-placements/finding-new-school-placements/placements--list.png 'Placements list')](/manage-school-placements/finding-new-school-placements/placements--list.png)
 
 [Screenshot of Partner schools tab]
 
@@ -46,7 +46,7 @@ More prominent school location information and location-based search functionali
 
 #### Supporting detail and evidence
 
-Searching based on a trainee’s location was the most common scenario for participants to see themselves using the service. Placements need to be a ’reasonable commute’ for the trainee, and this often significantly limits the available options, so location is the first criterion used to narrow down the possibilities.
+Searching based on a trainee’s location was the most common scenario for participants to see themselves using the service. Placements need to be a ‘reasonable commute’ for the trainee, and this often significantly limits the available options, so location is the first criterion used to narrow down the possibilities.
 
 The type of commute the trainee has can significantly affect the placement’s viability and satisfaction. So location-related placement information and functionality need to be more prominent, e.g., the school postcode visible in the search results (without needing to click through to the placement details screen), the ability to order search results by distance, and potentially a map view within the service.
 
@@ -56,15 +56,15 @@ The tested prototype only allowed participants to search based on straight-line 
 
 ### Insight 2
 
-There are some gaps to address, but the current placement information provides most of what ITT providers need at the initial enquiry stage, although further work is required to visualise the most important information.
+Some gaps exist, but the current placement information provides most of what ITT providers need at the initial enquiry stage. However, further work is required to visualise the most critical data.
 
 #### Supporting detail and evidence
 
-Key stage and school size information are essential for primary school placements as they can be used to determine whether the placement suits the trainee or to ensure sufficient contrast between a first and second placement.
+Key stage and school size information is essential for primary school placements as they can be used to determine whether the placement suits the trainee or to ensure sufficient contrast between a first and second placement.
 
 > “For me, because it’s such a big deal for the where we’re going to put people, where it says primary, it would be helpful to have key stage 1 or key stage 2 or early years because I think that, if a school is primary but they’ve only got placements in keys stage 2, there’s no point in me emailing them if I need a key stage 1. So the compliance part of that would have to come first and that would have to be the year group or certainly the key stage. So to break that down into key stage would be really useful.”
 
-As also identified in previous research with placement schools, providers need extra detail for certain secondary subjects like design and technology to know which specific subject is being offered (food technology, resistant materials, etc.).
+As previously identified in research with placement schools, providers need extra detail for certain secondary subjects, like design and technology, to know which subjects are offered (for example, food technology and resistant materials).
 
 On the placement details screen, the placement point of contact should be nearer the top of the screen as this was the first thing participants looked for, with contrast factor-related information made into a more explicit section lower down as providers use it less frequently and the purpose of that information was not always clear.
 
@@ -80,7 +80,7 @@ All of the ITT providers we spoke to in this round said they did not need to kno
 
 ### Insight 4
 
-There’s the need to have a ’school view’ of placement capacity and look at individual placements.
+There’s the need to have a ‘school view’ of placement capacity and look at individual placements.
 
 #### Supporting detail and evidence
 
@@ -99,7 +99,7 @@ Allowing ITT providers to add their school partnerships to the service has poten
 
 ITT providers manage a network of partner schools and will prioritise opportunities in schools where they have an existing relationship where possible. However, based on the current prototype design, participants needed clarification on the benefit they would get from adding these relationships into the service. They also felt that this service would be most useful when searching for placements outside their partner network, so it did not make sense to have the placements on the placements list filtered only to show placements from partner schools as the default.
 
-When adding a partner school, ITT providers expect that schools should be notified and have control over who their ’partner’ is. However, there was concern about a grey area where it’s difficult to say whether the school is or is not a ’partner’ – for example, if the ITT provider placed a trainee at that school multiple years ago and has not again since. Some schools would be ’partners’ (the school and the ITT provider work together regularly, and there’s a partnership agreement in place), but there can be varying levels of partnership between them.
+When adding a partner school, ITT providers expect that schools should be notified and have control over who their ‘partner’ is. However, there was concern about a grey area where it’s difficult to say whether the school is or is not a ‘partner’ – for example, if the ITT provider placed a trainee at that school multiple years ago and has not again since. Some schools would be ‘partners’ (the school and the ITT provider work together regularly, and there’s a partnership agreement in place), but there can be varying levels of partnership between them.
 
 ## Hypotheses to test in future research
 
@@ -113,9 +113,9 @@ We will test this by seeing if participants in future research rounds react posi
 
 ### Hypothesis 2
 
-Having the placements list filters update the available options dynamically based on other filters that users have selecte, to avoid showing irrelevant options will help streamline the experience of finding a placement.
+Having the placements list filters update the available options dynamically based on other filters that users have selected to avoid showing irrelevant options will help streamline the experience of finding a placement.
 
-We think this because participants were confused by, for instance, school type filter options that are only relevant to secondary schools being shown after a primary subject was selected using another filter.
+We think this because participants were confused by, for instance, school type filter options only relevant to secondary schools being shown after a primary subject was selected using another filter.
 
 We will test this by seeing if adding dynamic filters avoids this confusion in future research rounds.
 
