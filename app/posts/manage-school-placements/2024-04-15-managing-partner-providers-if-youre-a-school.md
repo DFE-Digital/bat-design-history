@@ -6,8 +6,8 @@ tags:
   - partner providers
 related:
   items:
-    - text: Managing partner schools if you’re a provider
-      href: /manage-school-placements/managing-partner-schools-if-youre-a-provider/
+    - text: Managing partner schools if you’re an ITT provider
+      href: /manage-school-placements/managing-partner-schools-if-youre-an-itt-provider/
 screenshots:
   items:
     - text: Partner providers list
