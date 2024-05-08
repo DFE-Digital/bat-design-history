@@ -40,7 +40,12 @@ This information allows schools to:
 
 - select who can view their placement opportunities
 - assign placements to their partner providers
-- view partner provider placement windows
+- view partner provider placement windows - for example, when assigning placements
+
+In the future, schools could also use this information to:
+
+- manage their mentors’ training with partner providers
+- claiming funding for their mentors’ training
 
 School-provider relationships also help DfE understand how the market is connected.
 
