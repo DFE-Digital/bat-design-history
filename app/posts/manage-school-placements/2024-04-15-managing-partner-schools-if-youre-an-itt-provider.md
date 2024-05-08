@@ -14,6 +14,8 @@ screenshots:
       src: partner-schools--list.png
     - text: Partner schools list - empty
       src: partner-schools--list-empty.png
+    - text: Add partner school - Find a school
+      src: add-partner-school--find-school.png
     - text: Add partner school - Find a school autocomplete
       src: add-partner-school--find-school-autocomplete.png
     - text: Add partner school - Find a school with an error message
