@@ -14,6 +14,8 @@ screenshots:
       src: partner-providers--list.png
     - text: Partner providers list - empty
       src: partner-providers--list-empty.png
+    - text: Add partner provider - Find a provider
+      src: add-partner-provider--find-provider.png
     - text: Add partner provider - Find a provider autocomplete
       src: add-partner-provider--find-provider-autocomplete.png
     - text: Add partner provider - Find a provider with an error message
