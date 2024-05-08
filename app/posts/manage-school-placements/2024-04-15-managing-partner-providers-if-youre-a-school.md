@@ -43,6 +43,7 @@ This information allows schools to:
 - view partner provider placement windows
 
 School-provider relationships also help DfE understand how the market is connected.
+
 ## How it works
 
 ### Partner provider list
