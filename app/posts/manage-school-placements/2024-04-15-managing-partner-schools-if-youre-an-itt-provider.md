@@ -234,7 +234,7 @@ We considered some changes that we did not implement. These included:
 
 ### Emailing schools when a provider adds them as a partner
 
-Providers can add schools without the school's agreement. While schools can see the partner provider in their part of the service, we will also email all school users to ensure they know the new relationship. However, emailing school users is only possible if the school is using the service.
+Providers can add schools without the school's agreement. While schools can see the partner provider in their part of the service, we will also email all school users to ensure they know the new relationship. However, emailing school users is only possible if the school uses the service.
 
 Since schools can remove provider partnerships, notifying schools will allow them to regulate their partnerships.
 
@@ -254,7 +254,7 @@ We already have a [way to add schools when JavaScript is unavailable](/manage-sc
 
 ### Setting up school partnerships during onboarding
 
-If a provider wants to use the service, the support team must onboard them. The support team adds the provider and first user during this onboarding process.
+If a provider wants to use the service, the support team must onboard them. During this onboarding process, the support team adds the provider and first user.
 
 The support team can also add the provider’s partner schools if they are known. However, we prefer that provider users set up their school partners to reduce the support burden.
 
@@ -268,4 +268,4 @@ This onboarding flow could include the following:
 
 #### Using Register trainee teachers’ data to pre-populate partner school data
 
-We could simplify the onboarding process by using Register trainee teachers’ data to determine the relationships between providers and schools. This would reduce the administrative burden on providers.
+We could simplify onboarding by using Register trainee teachers’ data to determine the relationships between providers and schools. This approach would reduce the administrative burden on providers.
