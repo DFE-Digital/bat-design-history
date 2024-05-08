@@ -6,10 +6,8 @@ tags:
   - partner providers
 related:
   items:
-    - text: Adding partner schools
-      href: /manage-school-placements/adding-partner-schools/
-    - text: Viewing partner schools
-      href: /manage-school-placements/viewing-partner-schools/
+    - text: Managing partner schools if you’re a provider
+      href: /manage-school-placements/managing-partner-schools-if-youre-a-provider/
 screenshots:
   items:
     - text: Partner providers list
@@ -24,7 +22,7 @@ screenshots:
       src: add-partner-provider--find-provider-error-duplicate.png
     - text: Add partner provider - Check your answers
       src: add-partner-provider--check-your-answers.png
-    - text: Add partner provider - Partner provider list success message
+    - text: Partner provider added success message
       src: partner-providers--list-success.png
     - text: Partner provider details
       src: partner-provider--details.png
@@ -40,7 +38,9 @@ This information allows schools to:
 
 - select who can view their placement opportunities
 - assign placements to their partner providers
+- view partner provider placement windows
 
+School-provider relationships also help DfE understand how the market is connected.
 ## How it works
 
 ### Partner provider list
@@ -51,10 +51,10 @@ On the partner providers list page, we show:
 - an alphabetical list of partner providers - ordered by name
 - pagination
 
-The list of partner providers includes the:
+The list of partner providers includes the following:
 
 - provider name - including a link to the provider details page
-- provider UK provider reference number (UKPRN)
+- UK provider reference number (UKPRN)
 
 We paginate the list if there are more than 25 partner providers.
 
@@ -70,7 +70,7 @@ The partner provider details page contains two sections:
 The provider details include:
 
 - provider name
-- UK provider reference number
+- UK provider reference number (UKPRN)
 - unique reference number (URN) - if known
 
 The contact details include:
@@ -109,7 +109,7 @@ If the user does not enter a provider name, UKPRN, URN or postcode before submit
 
 If the user selects a provider from the autocomplete that the school has already added to the service, we show the error message:
 
-> Provider has already been added
+> Partner provider has already been added
 
 In both cases, the user cannot continue adding the ITT provider.
 
@@ -143,6 +143,11 @@ We show ‘Not entered’ if data derived from Publish is missing.
 
 ### Removing partner providers
 
+Users can remove a partner provider via the partner provider details page.
+
+Users must confirm the partner provider’s removal when they select ‘Remove partner provider’.
+
+Users cannot remove the partner provider if the school has assigned the provider to an active placement.
 
 ## Further considerations
 
@@ -157,12 +162,39 @@ We considered some changes that we did not implement. These included:
 
 ### Emailing providers when a school adds them as a partner
 
+Schools can add providers without agreement from the provider. Whilst providers can see the partner school in their part of the service, we will also email all users at the provider to ensure they are aware of the new relationship. However, emailing provider users is only possible if the provider is using the service.
+
+Since providers can remove school partnerships, notifying providers will allow them to regulate their partnerships.
+
 ### Including warning text to ensure the school has an agreement with the provider
 
-### Setting up provider partnerships during onboarding
+Typically, schools and providers enter into a contractual agreement when partnering for initial teacher training (ITT). To ensure this is the case, we will consider adding warning text to the ‘Add partner provider’ flow to highlight the need for schools and providers to have an official relationship.
 
 ### Creating a no-JavaScript version of the ‘Add partner provider’ flow
 
-### Using Register trainee teachers’ data to pre-populate partner provider data
+The ‘Add partner provider’ flow uses an accessible autocomplete, allowing users to search for partner providers.
 
-### Viewing partner providers’ placement windows
+The autocomplete works well for quickly selecting a provider, but it requires JavaScript, which not everyone has, and it doesn’t always run successfully.
+
+We will add a no-JavaScript version of the ‘Add partner provider’ flow, which we can progressively enhance.
+
+We already have a [way to add ITT providers to the service when JavaScript is unavailable](/manage-school-placements/adding-an-itt-provider-when-javascript-is-unavailable/) that can inform this work.
+
+### Setting up provider partnerships during onboarding
+
+If a school wants to use the service, the support team must onboard them. The support team adds the school and the first user during this onboarding process.
+
+The support team can also add the school’s partner providers if they are known. However, we prefer that school users set up their provider partners to reduce the support burden.
+
+We should consider introducing an onboarding flow for school users to improve the initial service setup.
+
+This onboarding flow could include the following:
+
+- agreeing to the service’s terms and conditions
+- adding users
+- adding mentors
+- adding partner providers
+
+#### Using Register trainee teachers’ data to pre-populate partner provider data
+
+We could simplify the onboarding process by using Register trainee teachers’ data to determine the relationships between schools and providers. This would reduce the administrative burden on schools.
