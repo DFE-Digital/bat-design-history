@@ -34,7 +34,7 @@ screenshots:
       src: partner-providers--remove-provider-success.png
 ---
 
-We added a way for placement schools to add their partner ITT providers.
+We added a way for placement schools to add their partner initial teacher training (ITT) providers.
 
 This information allows schools to:
 
@@ -43,7 +43,6 @@ This information allows schools to:
 - view partner provider placement windows
 
 School-provider relationships also help DfE understand how the market is connected.
-
 ## How it works
 
 ### Partner provider list
@@ -165,7 +164,7 @@ We considered some changes that we did not implement. These included:
 
 ### Emailing providers when a school adds them as a partner
 
-Schools can add providers without agreement from the provider. Whilst providers can see the partner school in their part of the service, we will also email all users at the provider to ensure they are aware of the new relationship. However, emailing provider users is only possible if the provider is using the service.
+Schools can add providers without agreement from the provider. While providers can see the partner school in their part of the service, we will also email provider users to ensure they know about the new relationship. However, emailing provider users is only possible if the provider uses the service.
 
 Since providers can remove school partnerships, notifying providers will allow them to regulate their partnerships.
 
@@ -200,4 +199,4 @@ This onboarding flow could include the following:
 
 #### Using Register trainee teachers’ data to pre-populate partner provider data
 
-We could simplify the onboarding process by using Register trainee teachers’ data to determine the relationships between schools and providers. This would reduce the administrative burden on schools.
+We could simplify onboarding by using Register trainee teachers’ data to determine the relationships between schools and providers. This approach would reduce the administrative burden on schools.
