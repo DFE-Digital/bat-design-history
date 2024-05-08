@@ -102,7 +102,7 @@ Users can search for ITT providers by entering the provider name, UK provider re
 
 We use provider data from Publish teacher training courses and display it in an autocomplete.
 
-We display the provider name, town, and postcode for each provider in the list. This information allows users to choose correctly from similarly named providers.
+We display the provider name and code for each provider in the list. This information allows users to choose correctly from similarly named providers.
 
 ##### Data validation rules
 
