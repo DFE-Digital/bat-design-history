@@ -36,13 +36,13 @@ It is possible to pay non-local-authority schools directly, for instance, if the
 
 Devolved policy colleagues believe an agreement could be reached to pay Welsh local authorities. However, this would need to be discussed with the Welsh government first, and the Welsh government is not guaranteed to agree to this.
 
-When deciding whether to pay Welsh schools, the Department and Welsh government would need to assess whether this policy negatively impacts Welsh citizens or organisations. The argument could be made that by paying Welsh schools to participate in ITT with English providers, we would be incentivising their participation at an opportunity cost to participation with Welsh ITT providers.
+When deciding whether to pay Welsh schools, the Department and Welsh government must assess whether this policy negatively impacts Welsh citizens or organisations. The argument could be made that by paying Welsh schools to participate in ITT with English providers, we would be incentivising their participation at an opportunity cost to participation with Welsh ITT providers.
 
 James Noble Rogers indicated that the Universities Council for the Education of Teachers (UCET) Welsh member institutions do not always welcome English providers using their schools for placements. Therefore, they especially may not welcome their schools being incentivised to do so.
 
 ## DfE legal position
 
-In summary (full legal advice is in Annex A), the legal position is that the Education Act that the grant is administered may not be sufficient to pay Welsh local authorities and that an alternative statutory instrument may be required. There is a legal consensus that one could be used, but it would require:
+In summary, the legal position is that the Education Act in which the grant is administered may not be sufficient to pay Welsh local authorities and that an alternative statutory instrument may be required. There is a legal consensus that one could be used, but it would require:
 
 - agreement from the Welsh government
 - agreement from Treasury (HMT)
@@ -51,9 +51,7 @@ In summary (full legal advice is in Annex A), the legal position is that the Edu
 
 ## ITT sector’s perspective
 
-James Noble Rogers advised that if funding for Welsh placement schools was out of scope, there may be some pushback, as several English providers use Welsh schools for placements. However, it can only be for a maximum of 49% of placement time.
-
-Emma Hollis stated that she had spoken to three separate providers on or near the border (Liverpool, Wrexham, and Gloucester), and they advised that they do not place trainees in Welsh schools. As a result, she felt that if Welsh schools were out of scope, this was unlikely to cause too much difficulty.
+We consulted with sector representative organisations, including the National Association of School-based Teacher Trainers (NASBTT) and the Universities’ Council for the Education of Teachers (UCET), who advised on the potential risks of this policy. They highlighted that there may be pushback from the English providers who do use Welsh schools for placements for less than 50% of the total placement duration. However, it was noted that it would unlikely cause too much difficulty for the sector due to the relatively small number of impacted providers and schools.
 
 ## Welsh government perspective
 
@@ -71,7 +69,7 @@ Welsh ITT providers respond negatively, which could result in them forcibly requ
 
 The Department may face a reputational risk if Welsh providers work with the press, highlighting a potential policy overreach into devolved areas.
 
-The guidance's publication was delayed due to the number of required approvals, including from the Welsh government. The sector is already unhappy that the guidance has not been released.
+The guidance's publication was delayed due to the required approvals, including approval from the Welsh government. The sector is already unhappy that the guidance has not been released.
 
 It could set a precedent that we will pay schools outside England to support ITT. Should we also pay the small number of Northern Ireland and Scotland schools that take trainee teachers on courses with English providers?
 
