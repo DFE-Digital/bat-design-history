@@ -1,6 +1,6 @@
 ---
 title: Round 4 accessibility research findings
-description: XXX DESCRIPTION XXX
+description: Conducting accessibility testing to ensure that the service is usable by everyone, including users with disabilities
 date: 2024-04-26
 tags:
   - research
