@@ -36,7 +36,7 @@ screenshots:
 
 We added a way for placement schools to add their partner initial teacher training (ITT) providers.
 
-This information allows schools to:
+This information allows schools the possibility to:
 
 - select who can view their placement opportunities
 - assign placements to their partner providers
