@@ -36,7 +36,7 @@ We tested the first iteration of the ‘Find placement’ journey and got genera
 
 [![Placements list](/manage-school-placements/finding-new-school-placements/placements--list.png 'Placements list')](/manage-school-placements/finding-new-school-placements/placements--list.png)
 
-[Screenshot of Partner schools tab]
+[![Partner schools list](/manage-school-placements/managing-partner-schools-if-youre-an-itt-provider/partner-schools--list.png 'Partner schools list')](/manage-school-placements/managing-partner-schools-if-youre-an-itt-provider/partner-schools--list.png)
 
 ## Key insights
 
