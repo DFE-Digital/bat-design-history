@@ -1,6 +1,6 @@
 ---
 title: Round 3 research findings
-description: XXX DESCRIPTION XXX
+description: Testing final iterations of the prototype ahead of private beta go live
 date: 2024-04-19
 tags:
   - research
@@ -46,19 +46,19 @@ Further research is required to determine the different types of MATs and their 
 
 ### Confusion around what they are claiming for
 
-Some participants struggled to understand the funding. They thought that they were claiming funding for the time spent training trainees. There is a risk that users will not receive the full benefit of the funding if they do not understand what they are claiming.
+Some participants needed help understanding the funding. They thought that they were claiming funding for the time spent training trainees. Users risk not receiving the full benefit of the funding if they do not understand what they are claiming.
 
 ### Users continue to get confused as to where they go to claim after adding a mentors
 
-After adding mentors, there is not a specific call to action directing users to make a claim, they must navigate to ‘claims’ themselves.
+After adding mentors, no specific call to action directs users to make a claim. They must navigate to ‘claims’ themselves.
 
-The primary navigation is ordered with ‘Claims’ first then ‘Mentors’ second. This is the opposite of what we initially ask them to do: add mentors then create a claim.
+The primary navigation is ordered with ‘Claims’ first and ‘Mentors’ second. This is the opposite of what we initially asked them to do: add mentors and then create a claim.
 
 ### The journey for making separate claims for mentors, relating to different providers, causes confusion
 
-Once users had submitted a claim with a selection of mentors for a provider, they are unsure what the next step is to claim a separate provider and include different mentors.
+Once users have submitted a claim with a selection of mentors for a provider, they are unsure what the next step is to claim a separate provider and include different mentors.
 
-Another problem they experienced was once making a different claim. Because we display all mentors and do not hide the ones they have already claimed for, they said figuring out which mentors they have already claimed for would get confusing.
+Another problem they experienced was once making a different claim. Because we display all mentors and keep the ones they have already claimed for, they said figuring out which mentors they have already claimed for would get confusing.
 
 ## Next steps – post go live
 
@@ -70,8 +70,8 @@ Throughout our research, we have identified some clear areas for further study. 
 
 This research will take place post-go-live, from May 2024 onwards.
 
-*[MAT]: multi academy trust
-*[MATs]: multi academy trusts
+*[MAT]: multi-academy trust
+*[MATs]: multi-academy trusts
 *[SCITT]: school-centred initial teacher training
 *[SCITTs]: school-centred initial teacher training
 *[ITT]: initial teacher training
