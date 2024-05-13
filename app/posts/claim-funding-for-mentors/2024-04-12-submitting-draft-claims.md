@@ -1,6 +1,6 @@
 ---
 title: Submitting draft claims on behalf of schools
-description: We added a way for support users to submit draft claims on behalf of a school
+description: We added a way for support users to submit draft claims on behalf of schools
 date: 2024-04-12
 tags:
   - claims
