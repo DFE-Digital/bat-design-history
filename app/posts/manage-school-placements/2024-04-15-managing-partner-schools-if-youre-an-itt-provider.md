@@ -64,7 +64,7 @@ We paginate the list if there are more than 25 partner schools.
 
 We use [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data to populate school information.
 
-The partner provider details page contains five sections:
+The partner schools details page contains five sections:
 
 - organisation details
 - additional details
