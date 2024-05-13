@@ -68,7 +68,7 @@ Throughout our research, we have identified some clear areas for further study. 
 - Understanding the needs of providers and School Centred Teacher Training providers (SCITTs)
 - Further testing of more ‘complex’ journeys where there are multiple providers and a more significant number of mentors
 
-This research will take place post-go-live, from May 2024 onwards.
+This research will take place post private beta launch from May 2024 onwards.
 
 *[MAT]: multi-academy trust
 *[MATs]: multi-academy trusts
