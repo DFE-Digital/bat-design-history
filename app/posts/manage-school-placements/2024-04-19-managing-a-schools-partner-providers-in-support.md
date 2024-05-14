@@ -40,6 +40,12 @@ screenshots:
 
 We added a way for Support users to manage partner providers on behalf of placement schools.
 
+Partner providers include:
+
+- higher education institutions (HEIs)
+- school-centred initial teacher training (SCITTs)
+- lead partners - including schools and HEIs
+
 ## How it works
 
 ### Partner provider list
