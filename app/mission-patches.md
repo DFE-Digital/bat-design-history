@@ -160,7 +160,7 @@ Wade, the tortoise, reflects our slow and steady progress. It draws inspiration 
     text: "Get school experience 1000 schools onboarded",
     caption: "This patch celebrated the service reaching 1,000 onboarded schools in March 2024"
   }, {
-    text: "Improving user management 2 May 2024",
+    text: "Get school experience improving user management 2 May 2024",
     caption: "This patch celebrated the launch of a major new feature to make it easier to add new users to the service."
   }]
 }) }}
