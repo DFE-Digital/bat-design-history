@@ -114,7 +114,7 @@ Users can change their search. We pre-populate the previously entered TRN for th
 
 The final step is to check your answers.
 
-We use [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data and display it in a summary list.
+We use Database of Qualified Teachers (DQT) data and display it in a summary list.
 
 We show:
 
@@ -126,10 +126,9 @@ When a user adds a mentor to Claims, and they or another user adds the same ment
 
 ### Removing a mentor
 
-Users must confirm the mentor’s removal when they select' Remove mentor'.
+Users must confirm the mentor’s removal when they select ‘Remove mentor’.
 
 When users remove a mentor from the organisation, we retain their data. We must keep a historical record of mentors allocated to placements and trainees.
 
 *[DQT]: Database of Qualified Teachers
 *[TRN]: Teacher Reference Number
-*[GIAS]: Get Information about Schools
