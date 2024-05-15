@@ -33,7 +33,7 @@ eleventyComputed:
 
 Previously, when users wanted to add a mentor to the service, they simply needed to enter a teacher reference number (TRN) to find the teacher in the database of qualified teachers (DQT). This look-up then returned the teacher’s first and last name.
 
-We updated the ‘Add mentor’ flow for school and support users to include the date of birth when searching for a teacher to improve information security. The new approach, using two pieces of information to perform the look-up, was approved by the Office of Data Protection (ODPO) and the Teaching Regulation Agency (TRA), which are responsible for the DQT.
+We updated the ‘Add mentor’ flow for school and support users to include the date of birth when searching for a teacher to improve information security. The new approach, using two pieces of information to perform the look-up, was approved by the Office of the Data Protection Officer (ODPO) and the Teaching Regulation Agency (TRA), which are responsible for the DQT.
 
 ## What we changed
 
