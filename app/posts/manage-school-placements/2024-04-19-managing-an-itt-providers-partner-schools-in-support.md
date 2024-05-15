@@ -218,3 +218,27 @@ Users can remove a partner school via the partner school details page.
 Users must confirm the partner school’s removal when they select ‘Remove partner school’.
 
 Users cannot remove the partner school if the school has assigned the provider to an active placement. In this instance, the provider will need to contact the school to be able to make the change.
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- uploading schools in bulk
+- importing schools from Register trainee teachers
+
+### Uploading schools in bulk
+
+Some providers find entering large numbers of schools in the service challenging.
+
+To support our providers, we could introduce a way for support users to quickly and easily upload partner school information in bulk using a CSV.
+
+We added a similar function to Publish teacher training courses to [add multiple locations to an organisation](/support-for-publish/adding-multiple-locations-to-an-organisation/).
+
+### Importing schools from Register trainee teachers
+
+Providers already send placement school information to the Register trainee teachers service. If the provider is a higher education institution (HEI), they send this information via the Higher Education Statistics Agency (HESA). If the provider is a SCITT, they input the information directly into the service.
+
+We could use this information to prepopulate the partner schools list and ask providers to confirm they are still working with each school.
+
+*[CSV]: comma-separated values
+*[HESA]: Higher Education Statistics Agency
