@@ -72,7 +72,7 @@ If users do not enter a date of birth, we show an error message:
 
 If users enter an incomplete or incorrect date, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
 
-### No results found page
+### No results found
 
 If the user enters a valid TRN and date of birth but it does not return a result, we show a page with the heading:
 
@@ -99,4 +99,4 @@ We do not store the teacher’s date of birth. We only use it to access the teac
 
 We also include a message highlighting users must notify their mentors that they have added them to the service:
 
-> I confirm that [mentor name] has been informed that the Department for Education will store their information in line with the [privacy notice (opens in new tab)](https://www.gov.uk/government/publications/privacy-information-education-providers-workforce-including-teachers/privacy-information-education-providers-workforce-including-teachers#using-your-data-to-maintain-a-list-of-teachers). They have been provided with a copy of this notice for reference.
+> I confirm that {mentor name} has been informed that the Department for Education will store their information in line with the [privacy notice (opens in new tab)](https://www.gov.uk/government/publications/privacy-information-education-providers-workforce-including-teachers/privacy-information-education-providers-workforce-including-teachers#using-your-data-to-maintain-a-list-of-teachers). They have been provided with a copy of this notice for reference.
