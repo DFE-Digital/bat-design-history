@@ -51,7 +51,7 @@ Definition: all government grants should be managed within an effective and prop
 
 A fraud risk assessment was completed as part of the full business case. We are working with the ESFA to update this risk assessment to capture any additional risks within the service.
 
-We have the following controls within ‘Claim funding for mentor training’, which will significantly reduce the likelihood of fraud, which is visualised in [Annex C](#annex-c---use-of-dfe-services-to-validate-and-assure-the-information-provided-in-‘claim-funding-for-mentor-training’):
+We have the following controls within ‘Claim funding for mentor training’, which will significantly reduce the likelihood of fraud:
 
 1. The list of schools onboarded onto the service will initially be taken from Register trainee teachers. The accredited ITT provider will then check and review this list. ITT providers submit their placement schools for their trainees, and this data will provide the initial database of eligible schools. Where a placement school must be added manually, we will ask for evidence of a relationship with an ITT provider.
 2. Users sign in to the service using [DfE Sign-in](https://services.signin.education.gov.uk/). This means that a user is tied to an organisation and can only claim funding for organisations which have approved the user.
