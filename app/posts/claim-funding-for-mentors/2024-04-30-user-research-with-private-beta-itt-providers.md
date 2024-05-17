@@ -50,7 +50,7 @@ They did not have a preference on how often they needed to receive claims data. 
 
 They also understand the need to provide evidence. However, their expectation of this process is that the DfE would send them a list of claims, and they would ‘approve them’ based on their records. They feel that providing physical evidence for each claim would be too time-consuming for them.
 
- ## Emerging user needs
+## Emerging user needs
 
 As a provider
 I need to know what claims schools have submitted where we are the accredited provider
