@@ -60,7 +60,7 @@ So that we can check the claims against our records and check for potential erro
 
 As a provider
 I need the process for providing evidence to be quick and easy
-So that it doesn't create too much administrative burden for us
+So that it does not create too much administrative burden for us
 
 As a provider
 I need to know what claims require evidence from us
