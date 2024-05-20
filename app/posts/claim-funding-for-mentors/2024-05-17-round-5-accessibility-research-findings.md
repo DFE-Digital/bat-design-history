@@ -49,11 +49,11 @@ When entering a TRN number using text-to-speech technology, a space is automatic
 ### Rendering issues on Android using Google Chrome
 
 
-1 participant with a visual impairment uses an Android phone and Google Chrome. They experienced a lot of rendering issues with the service, which were inconsistent throughout. The font sizes and wrapping changed on different pages throughout the service.
+One participant with a visual impairment uses an Android phone and Google Chrome. They experienced a lot of rendering issues with the service, which were inconsistent throughout. The font sizes and wrapping changed on different pages throughout the service.
 
 ### The feedback form is difficult to read for someone with a severe visual impairment
 
-1 participant with a severe visual impairment found the feedback form difficult to read and navigate. This is due to the font size and colour contrasts. As a result, they had to zoom in a lot and use their physical magnifying glass. Due to the amount they had to zoom in, they said they ’lost their bearings’ with the rest of the form.
+One participant with a severe visual impairment found the feedback form difficult to read and navigate. This is due to the font size and colour contrasts. As a result, they had to zoom in a lot and use their physical magnifying glass. Due to the amount they had to zoom in, they said they ’lost their bearings’ with the rest of the form.
 
 ## Next steps
 
