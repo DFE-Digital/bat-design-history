@@ -1,6 +1,6 @@
 ---
 title: Round 3 research findings
-description: Testing final iterations of the prototype ahead of private beta go live
+description: We tested the final iterations of the prototype ahead of private beta go live
 date: 2024-04-19
 tags:
   - research

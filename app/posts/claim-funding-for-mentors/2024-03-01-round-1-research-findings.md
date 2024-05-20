@@ -1,6 +1,6 @@
 ---
 title: Round 1 research findings
-description: Testing the first iteration of the ‘make a claim’ and ‘add a mentor’ journeys to gain insights into the users of the service, their behaviours and mental models
+description: We tested the first iteration of the ‘make a claim’ and ‘add a mentor’ journeys to gain insights into the users of the service, their behaviours and mental models
 date: 2024-03-01
 tags:
   - research
