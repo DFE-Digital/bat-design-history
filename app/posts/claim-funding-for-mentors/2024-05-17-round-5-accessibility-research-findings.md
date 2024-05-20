@@ -8,7 +8,7 @@ tags:
   - claims
 related:
   items:
-    - text: Round 5 accessibility research findings
+    - text: Round 4 accessibility research findings
       href: /claim-funding-for-mentors/round-4-accessibility-research-findings/
 ---
 
