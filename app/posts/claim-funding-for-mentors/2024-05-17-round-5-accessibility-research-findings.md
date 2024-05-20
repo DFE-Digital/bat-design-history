@@ -32,7 +32,7 @@ Of which:
 
 ### Understanding the service
 
-One A participant with a cognitive condition struggled to understand the claim dates in sentence format because we were referencing more than one date. With key information like this, having it in a bulleted list helped them digest the information.
+A participant with a cognitive condition struggled to understand the claim dates in sentence format because we were referencing more than one date. With key information like this, having it in a bulleted list helped them digest the information.
 
 ### Rendering of grant conditions
 
