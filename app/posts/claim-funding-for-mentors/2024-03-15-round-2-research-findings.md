@@ -1,6 +1,6 @@
 ---
 title: Round 2 research findings
-description: Testing iterations of the service to help users gain a better understanding of the service, as well as their expectations of post-submission and sampling
+description: We tested iterations of the service to help users gain a better understanding of the service, as well as their expectations of post-submission and sampling
 date: 2024-03-15
 tags:
   - research
