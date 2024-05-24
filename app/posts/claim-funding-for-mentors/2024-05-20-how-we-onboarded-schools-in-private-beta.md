@@ -1,6 +1,6 @@
 ---
 title: How we onboarded schools in private beta
-description: DESCRIPTION
+description: How we identified, verified and invited schools to take part in the private beta
 date: 2024-05-20
 tags:
   - onboarding
