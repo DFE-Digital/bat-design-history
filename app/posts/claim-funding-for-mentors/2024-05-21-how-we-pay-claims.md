@@ -1,6 +1,6 @@
 ---
 title: How we pay claims
-description: DESCRIPTION
+description: How we work with the Education and Skills Funding Agency (ESFA) to manage and pay claims
 date: 2024-05-21
 tags:
   - payments
