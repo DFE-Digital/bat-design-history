@@ -47,3 +47,5 @@ After creating a DfE Sign-in account, the user would need to return to the invit
 After successfully signing into the service via DfE Sign-in for the first time, the user is presented with the grant conditions. The user must accept the grant conditions before continuing to the main service.
 
 We need the grant conditions for any funding-related service to be accepted by someone with the appropriate delegated authority on behalf of the school. Based on findings from similar services, we added this to the declaration the user makes when accepting the conditions.
+
+[![Flow diagram](claim-funding-for-mentor-training--onboarding.png "Flow diagram")](claim-funding-for-mentor-training--onboarding.png)
