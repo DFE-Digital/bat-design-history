@@ -71,3 +71,9 @@ If payment is not made through the first run, the service will operate a second 
 - Pay list - late November
 
 The second payment run will be subject to the same due diligence checks as the first. The timelines for the different school settings will remain the same. This will mean academies will receive payment in early January 2025.
+
+## Flow diagram
+
+[![How we pay claims flow diagram](claim-funding-for-mentor-training--payments.png "How we pay claims flow diagram")](claim-funding-for-mentor-training--payments.png)
+
+[Download the payments flow diagram as PDF (45kb)](claim-funding-for-mentor-training--payments.pdf)
