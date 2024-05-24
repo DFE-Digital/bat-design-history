@@ -34,7 +34,7 @@ As part of this upload feature, the service also matched the Register data with 
 
 ### DfE Sign-in
 
-We elected to use one of the DfE Sign-in services to add a layer of user authentication and improve the service's information security. Users must have an active DfE Sign-in account to access the service.
+We elected to use one of the DfE Sign-in services to add a layer of user authentication and improve the service’s information security. Users must have an active DfE Sign-in account to access the service.
 
 If the user already had a DfE Sign-in account, they could click the link in the invitation email, use their credentials, and access the service.
 
@@ -48,6 +48,6 @@ After successfully signing into the service via DfE Sign-in for the first time, 
 
 We need the grant conditions for any funding-related service to be accepted by someone with the appropriate delegated authority on behalf of the school. Based on findings from similar services, we added this to the declaration the user makes when accepting the conditions.
 
-[![Flow diagram](claim-funding-for-mentor-training--onboarding.png "Flow diagram")](claim-funding-for-mentor-training--onboarding.png)
+[![How we onboarded schools in private beta flow diagram](claim-funding-for-mentor-training--onboarding.png "How we onboarded schools in private beta flow diagram (select image to view larger version)")](claim-funding-for-mentor-training--onboarding.png)
 
 [Download the onboarding flow diagram as PDF (45kb)](claim-funding-for-mentor-training--onboarding.pdf)
