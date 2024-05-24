@@ -49,3 +49,5 @@ After successfully signing into the service via DfE Sign-in for the first time, 
 We need the grant conditions for any funding-related service to be accepted by someone with the appropriate delegated authority on behalf of the school. Based on findings from similar services, we added this to the declaration the user makes when accepting the conditions.
 
 [![Flow diagram](claim-funding-for-mentor-training--onboarding.png "Flow diagram")](claim-funding-for-mentor-training--onboarding.png)
+
+[Download the onboarding flow diagram as PDF (45kb)](claim-funding-for-mentor-training--onboarding.pdf)
