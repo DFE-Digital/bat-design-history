@@ -74,6 +74,6 @@ The second payment run will be subject to the same due diligence checks as the f
 
 ## Flow diagram
 
-[![How we pay claims flow diagram](claim-funding-for-mentor-training--payments.png "How we pay claims flow diagram")](claim-funding-for-mentor-training--payments.png)
+[![How we pay claims flow diagram](claim-funding-for-mentor-training--payments.png "How we pay claims flow diagram (select image to view larger version)")](claim-funding-for-mentor-training--payments.png)
 
 [Download the payments flow diagram as PDF (155kb)](claim-funding-for-mentor-training--payments.pdf)
