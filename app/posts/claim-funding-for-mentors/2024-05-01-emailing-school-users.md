@@ -7,6 +7,8 @@ tags:
   - users
 related:
   items:
+    - text: Managing organisation users in Support
+      href: /claim-funding-for-mentors/managing-organisation-users-in-support/
     - text: Emailing support users
       href: /claim-funding-for-mentors/emailing-support-users/
 ---
