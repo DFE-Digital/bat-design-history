@@ -1,7 +1,7 @@
 ---
 title: Emailing support users
 description: We email support users when they have been added or removed from the service
-date: 2024-05-01
+date: 2024-05-01T12:00:00+00:00
 tags:
   - emails
 ---
