@@ -4,6 +4,11 @@ description: We email support users when they have been added or removed from th
 date: 2024-05-01T12:00:00+00:00
 tags:
   - emails
+  - users
+related:
+  items:
+    - text: Emailing school users
+      href: /claim-funding-for-mentors/emailing-school-users/
 ---
 
 <!-- markdownlint-disable MD001 MD025 -->
