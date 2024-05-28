@@ -1,7 +1,7 @@
 ---
 title: Emailing school users when a claim has been drafted or submitted
 description: We email school users when they submit a claim or when a support user drafts a claim on their behalf
-date: 2024-05-01
+date: 2024-05-01T14:00:00+00:00
 tags:
   - emails
 ---
