@@ -85,6 +85,6 @@ Depending on the level and value of clawbacks initiated, the service may need to
 
 ## Flow diagram
 
-[![How we audit claims in private beta flow diagram](claim-funding-for-mentor-training--auditing.png "How we audit claims in private beta flow diagram (select image to view larger version)")](claim-funding-for-mentor-training--autditing.png)
+[![How we audit claims in private beta flow diagram](claim-funding-for-mentor-training--auditing.png "How we audit claims in private beta flow diagram (select image to view larger version)")](claim-funding-for-mentor-training--auditing.png)
 
 [Download the auditing flow diagram as PDF (40KB)](claim-funding-for-mentor-training--auditing.pdf)
