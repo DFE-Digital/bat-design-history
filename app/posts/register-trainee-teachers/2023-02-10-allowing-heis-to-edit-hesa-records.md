@@ -6,6 +6,20 @@ related:
   items:
     - text: Bulk awarding of teaching status
       href: /register-trainee-teachers/bulk-awarding-of-teaching-status/
+screenshots:
+  items:
+    - text: A HESA trainee that does not have editing enabled
+      src: 1-record-overview.png
+    - text: Interstitial shown after enabling editing
+      src: 2-interstitial-notice.png
+    - text: A HESA trainee that has editing enabled
+      src: 3-record-overview-editable.png
+    - text: Timeline message
+      src: 4-timeline.png
+    - text: Interstitial shown before deferring
+      src: 5-interstitial-before-defer.png
+    - text: Interstitial shown before reinstating
+      src: 6-interstitial-before-reinstate.png
 ---
 
 We want to provide a way for users from higher education authorities (HEIs) to edit records imported into Register from the Higher Education Statistics Agency (HESA) service.
@@ -77,33 +91,3 @@ If a trainee has been deferred or reinstated then we’ll show a warning. It wil
 ## Further considerations
 
 We don’t feel there’s a need to have a ‘disable editing’ feature, but could add this in the future if we find there’s a need.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  headingLevel: 2,
-  items: [
-  {
-    id: "1.record-overview",
-    text: "A HESA trainee that does not have editing enabled"
-  },
-  {
-    id: "2.interstitial-notice",
-    text: "Interstitial shown after enabling editing"
-  },
-  {
-    id: "3.record-overview-editable",
-    text: "A HESA trainee that has editing enabled"
-  },
-  {
-    id: "4.timeline",
-    text: "Timeline message"
-  },
-  {
-    id: "5.interstitial-before-defer",
-    text: "Interstitial shown before deferring"
-  },
-  {
-    id: "6.interstitial-before-reinstate",
-    text: "Interstitial shown before reinstating"
-  }]
-}) }}

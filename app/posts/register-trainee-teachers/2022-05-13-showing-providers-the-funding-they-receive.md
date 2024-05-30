@@ -1,9 +1,8 @@
 ---
 title: Showing providers the funding they receive
-description:
+description: Improving transparency and clarity in how the DfE decides how much it pays each month
 date: 2022-05-13
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 DTTP shows providers the money they receive from the DfE for bursaries, grants and scholarships. In research we saw that this information is useful, but not as complete or as clear as users would like.
 

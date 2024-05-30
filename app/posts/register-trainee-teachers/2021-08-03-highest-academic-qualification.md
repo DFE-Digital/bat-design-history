@@ -1,10 +1,8 @@
 ---
 title: Removing the highest academic qualification question
-description: Why we think we do not need this question and an alternate design if we do.
+description: Why we think we do not need this question and an alternate design if we do
 date: 2021-08-03
 ---
-
-{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 For trainees on undergraduate courses we ask for the trainee’s highest academic qualification, for example most trainees have ‘A levels’ or ‘Scottish Highers’.
 
@@ -24,297 +22,49 @@ The options we gave as answers confused the users too. It’s a long list that i
 
 This spreadsheet of [Early years undergraduate by ‘Highest qualification on entry’](https://docs.google.com/spreadsheets/u/1/d/1fb2ialqhFKxVh8WZ8yeoeKkJrtcJNnUm/edit#gid=1730684280) has 67 records for the last 2 years.
 
-{{ govukTable({
-  caption: "Early years undergraduates with data on highest qualification",
-  captionClasses: "govuk-table__caption--m",
-  firstCellIsHeader: false,
-  head: [
-    {
-      classes: "govuk-!-width-two-thirds",
-      text: "Qualification"
-    },
-    {
-      classes: "govuk-!-width-one-third",
-      text: "Frequency"
-    }
-  ],
-  rows: [
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Highest qualification recorded"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "58",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "No highest qualification recorded"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "9",
-        format: "numeric"
-      }
-    ]
-  ]
-}) }}
+### Early years undergraduates with data on highest qualification
+
+| Qualification | Frequency |
+| --- | --- |
+| Highest qualification recorded | 58 |
+| No highest qualification recorded | 9 |
+
+### Early years undergraduates with data on highest qualification
 
 Of the 58 records:
 
-{{ govukTable({
-  caption: "Early years undergraduates with data on highest qualification",
-  captionClasses: "govuk-table__caption--m",
-  firstCellIsHeader: false,
-  head: [
-    {
-      classes: "govuk-!-width-two-thirds",
-      text: "Qualification"
-    },
-    {
-      classes: "govuk-!-width-two-thirds",
-      text: "Frequency"
-    }
-  ],
-  rows: [
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Any combinations of GCE ‘A’/SQA ‘Higher’/SQA ‘Advanced Higher’ & GNVQ/GSVQ or NVQ/SVQ at level 3"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "26",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "'A' level equivalent qualification not elsewhere specified"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "11",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Other higher qualification"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "11",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "ONC or OND (including BTEC & SQA equivalents)"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "5",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Foundation course at FE level"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "3",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "NVQ/SVQ level 3"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "1",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Baccalaureate"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "1",
-        format: "numeric"
-      }
-    ]
-  ]
-}) }}
+| Qualification | Percentage of trainees |
+| --- | --- |
+| Any combinations of GCE ‘A’/SQA ‘Higher’/SQA ‘Advanced Higher’ & GNVQ/GSVQ or NVQ/SVQ at level 3 | 26 |
+| 'A' level equivalent qualification not elsewhere specified | 11 |
+| Other higher qualification | 11 |
+| ONC or OND (including BTEC & SQA equivalents) | 5 |
+| Foundation course at FE level | 3 |
+| NVQ/SVQ level 3 | 1 |
+| Baccalaureate | 1 |
 
-{{ govukTable({
-  caption: "Early years undergraduates by qualification",
-  captionClasses: "govuk-table__caption--m",
-  firstCellIsHeader: false,
-  head: [
-    {
-      text: "Qualification"
-    },
-    {
-      text: "Percentage of trainees"
-    }
-  ],
-  rows: [
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Any combinations of GCE ‘A’/SQA ‘Higher’/SQA ‘Advanced Higher’ & GNVQ/GSVQ or NVQ/SVQ at level 3"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "45%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "‘A’ level equivalent qualification not elsewhere specified"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "19%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Other higher qualification"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "19%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "ONC or OND (including BTEC & SQA equivalents)"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "9%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Foundation course at FE level"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "5%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "NVQ/SVQ level 3"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "2%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Baccalaureate"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "2%",
-        format: "numeric"
-      }
-    ]
-  ]
-}) }}
+### Early years undergraduates by qualification
+
+| Qualification | Percentage of trainees |
+| --- | --- |
+| Any combinations of GCE ‘A’/SQA ‘Higher’/SQA ‘Advanced Higher’ & GNVQ/GSVQ or NVQ/SVQ at level 3 | 45% |
+| ‘A’ level equivalent qualification not elsewhere specified | 19% |
+| Other higher qualification | 19% |
+| ONC or OND (including BTEC & SQA equivalents) | 9% |
+| Foundation course at FE level | 5% |
+| NVQ/SVQ level 3 | 2% |
+| Baccalaureate | 2% |
+
+### Early years undergraduates by qualification level
 
 Using this page on [qualification levels](https://www.gov.uk/what-different-qualification-levels-mean) you can group them into levels.
 
-{{ govukTable({
-  caption: "Early years undergraduates by qualification level",
-  captionClasses: "govuk-table__caption--m",
-  firstCellIsHeader: false,
-  head: [
-    {
-      text: "Qualification"
-    },
-    {
-      text: "Percentage of trainees"
-    }
-  ],
-  rows: [
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Level 3"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "75%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Other"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "19%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Foundation course at FE level"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "5%",
-        format: "numeric"
-      }
-    ],
-    [
-      {
-        classes: "govuk-!-width-two-thirds",
-        text: "Baccalaureate"
-      },
-      {
-        classes: "govuk-!-width-one-third",
-        text: "2%",
-        format: "numeric"
-      }
-    ]
-  ]
-}) }}
+| Qualification | Percentage of trainees |
+| --- | --- |
+| Level 3 | 75% |
+| Other | 19% |
+| Foundation course at FE level | 5% |
+| Baccalaureate | 2% |
 
 It’s hard to see how this data is useful to the providers or trainees. For example, it’s not detailed enough to be used on a teacher’s record in the Database of Qualified Teachers (DQT).
 

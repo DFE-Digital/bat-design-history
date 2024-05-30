@@ -18,10 +18,10 @@ Several fields in Register require users to search for a school - placement loca
 
 When testing entering schools as part of the placement data we found that:
 
-* participants accepted the need of using URNs
-* finding the URN could  be fiddly and slowed participants down if they did not already have it
-* there was some mistrust of URNs and consistent preference for using the name and postcode to both identify and confirm schools
-* participants commented that they would like to see the name of the school to help confirm the URN is the correct one
+- participants accepted the need of using URNs
+- finding the URN could  be fiddly and slowed participants down if they did not already have it
+- there was some mistrust of URNs and consistent preference for using the name and postcode to both identify and confirm schools
+- participants commented that they would like to see the name of the school to help confirm the URN is the correct one
 
 >“URNs are unreliable: Because a school has gone from school to trust etc. these numbers might change.” P4
 

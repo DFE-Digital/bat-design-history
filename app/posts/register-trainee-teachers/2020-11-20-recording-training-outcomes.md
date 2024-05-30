@@ -36,11 +36,11 @@ When recording a training outcome we need to know if trainees have met the stand
 
 In the next round of research we hoped to validate our current understanding around collecting this information which included the following assumptions:
 
-* our users are able to specify a date for when the trainee has either met the standards or for when they have not met the standards
-* a common workflow for our users is to withdraw some trainees in the same process of recording a ‘standards not met’ outcome
-* when a trainee is recorded as not meeting the standards for QTS, some will stay on the programme to try again
-* we need to display dates from previous QTS outcomes against a trainee record
-* our users understand the options we have provided for reasons why a trainee isn’t being recommended for QTS and the options cover all potential scenarios
+- our users are able to specify a date for when the trainee has either met the standards or for when they have not met the standards
+- a common workflow for our users is to withdraw some trainees in the same process of recording a ‘standards not met’ outcome
+- when a trainee is recorded as not meeting the standards for QTS, some will stay on the programme to try again
+- we need to display dates from previous QTS outcomes against a trainee record
+- our users understand the options we have provided for reasons why a trainee isn’t being recommended for QTS and the options cover all potential scenarios
 
 ## There are multiple outcomes to consider
 
@@ -56,8 +56,8 @@ We had initially placed reasons for failure within the withdrawal flow yet we be
 
 In this iteration of the prototype we have included the following options:
 
-* did not pass the assessment
-* did not pass the exams
-* for another reason (free text field)
+- did not pass the assessment
+- did not pass the exams
+- for another reason (free text field)
 
 We anticipate these reasons will change based on insights from future research.

@@ -9,6 +9,7 @@ screenshots:
     - text: Register's news and updates page
       src: Register-news-and-updates.png
 ---
+
 ## The problem
 
 As part of the rollout of Register trainee teachers, we produced information packs about the new service and sent them to the email addresses of providers we had on record.

@@ -6,6 +6,30 @@ related:
   items:
     - text: Bulk actions on a group of records
       href: /register-trainee-teachers/bulk-actions-v1/
+screenshots:
+  items:
+    - text: Guidance for bulk recommending trainees
+      src: 0-guidance.png
+    - text: Initial bulk recommend page with report and upload prompt
+      src: 1-initial-download-and-upload.png
+    - text: Upload summary showing errors
+      src: 2-upload-summary-with-errors.png
+    - text: Errors summary with download of new report and upload prompt
+      src: 3-fix-errors-and-upload.png
+    - text: Upload summary without errors
+      src: 4-upload-summary-no-errors.png
+    - text: Review page with accordion items collapsed
+      src: 5-check-who-youll-recommend-accordion-collapsed.png
+    - text: Review page with accordion item expanded
+      src: 6-check-who-youll-recommend-accordion-expanded.png
+    - text: Make changes with download of report and upload prompt
+      src: 7-make-changes.png
+    - text: Confirmation page
+      src: 8-confirmation.png
+    - text: Cancel changes confirmation page
+      src: 9-cancel-changes.png
+    - text: Revised homepage with new cards to link to bulk recommend
+      src: 10-homepage-cards.png
 ogImage:
   src: flow-diagram.png
   alt: Flow diagram of the bulk award flow
@@ -138,53 +162,3 @@ This page could be very long if the provider is recommending a lot of trainees. 
 We do not think that providers will check every trainee at this stage. We want to give them the opportunity to check as many as they need to be confident that the list is correct.
 
 Once the user proceeds, we’ll immediately recommend the trainees in the list. We’ll take the user to a success page which confirms how many trainees they’ve recommended.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  headingLevel: 2,
-  items: [
-  {
-    id: "0-guidance",
-    text: "Guidance for bulk recommending trainees"
-  },
-  {
-    id: "1-initial-download-and-upload",
-    text: "Initial bulk recommend page with report and upload prompt"
-  },
-  {
-    id: "2-upload-summary-with-errors",
-    text: "Upload summary showing errors"
-  },
-  {
-    id: "3-fix-errors-and-upload",
-    text: "Errors summary with download of new report and upload prompt"
-  },
-  {
-    id: "4-upload-summary-no-errors",
-    text: "Upload summary without errors"
-  },
-  {
-    id: "5-check-who-youll-recommend-accordion-collapsed",
-    text: "Review page with accordion items collapsed"
-  },
-  {
-    id: "6-check-who-youll-recommend-accordion-expanded",
-    text: "Review page with accordion item expanded"
-  },
-  {
-    id: "7-make-changes",
-    text: "Make changes with download of report and upload prompt"
-  },
-  {
-    id: "8-confirmation",
-    text: "Confirmation page"
-  },
-  {
-    id: "9-cancel-changes",
-    text: "Cancel changes confirmation page"
-  },
-  {
-    id: "10-homepage-cards",
-    text: "Revised homepage with new cards to link to bulk recommend"
-  }]
-}) }}

@@ -1,15 +1,14 @@
 ---
 title: Adding reports to Register to help users check their data
-description:
+description: Giving users more ways to help them check their data
 date: 2022-07-07
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 Our users have asked for more ways to help them check their data. This happens in three main scenarios:
 
-* checking data from HESA as it gets imported
-* checking data prior to sign off of the ITT Census
-* checking data prior to sign off of the ITT Performance profiles
+- checking data from HESA as it gets imported
+- checking data prior to sign off of the ITT Census
+- checking data prior to sign off of the ITT Performance profiles
 
 ## Needs for HESA scenario
 
@@ -39,11 +38,11 @@ We’ve added a reports section to Register, modelled on the reports section of 
 
 Having a page per report has several advantages over filtering:
 
-* can have guidance specific to the report on the page
-* a report can combine several filters together
-* we can process the data using filters we might not want on the registered trainees page
-* we can tailor the report to only include relevant fields
-* the page can offer settings to produce different reports
+- can have guidance specific to the report on the page
+- a report can combine several filters together
+- we can process the data using filters we might not want on the registered trainees page
+- we can tailor the report to only include relevant fields
+- the page can offer settings to produce different reports
 
 ### Reports shown in header
 

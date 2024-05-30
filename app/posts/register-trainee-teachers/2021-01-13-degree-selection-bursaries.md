@@ -1,11 +1,13 @@
 ---
 title: Selecting which degree a bursary was awarded for
-description: Helping providers pick between multiple degrees to tell us which one attacted a bursary.
+description: Helping providers pick between multiple degrees to tell us which one attacted a bursary
 date: 2021-01-13
 screenshots:
   items:
-    - Bursary question
-    - Bursary summary
+    - text: Bursary question
+      src: bursary-question.png
+    - text: Bursary summary
+      src: bursary-summary.png
 ---
 
 When trainees have multiple degrees, providers need to tell us which attracted their bursary (for courses that have bursaries). Most trainees will have a single degree only, so this is only relevant for a minority of trainees.

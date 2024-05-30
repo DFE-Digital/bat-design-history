@@ -9,7 +9,6 @@ related:
   - text: Investigating free text responses from Apply
     href: /register-trainee-teachers/investigating-free-text-responses-from-apply/
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 We previously [investigated free-text responses we may get from Apply](../investigating-free-text-responses-from-apply/). Where the free text response cannot be mapped and we (currently) require an answer from a fixed list, we will ask our provider users to correct the answer.
 

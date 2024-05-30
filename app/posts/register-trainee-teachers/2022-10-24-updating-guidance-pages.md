@@ -2,6 +2,18 @@
 title: Updating Register’s guidance pages
 description: We updated Register’s guidance pages to help different training providers find what they need quickly
 date: 2022-10-24
+screenshots:
+  items:
+    - text: Homepage with new guidance section
+      src: 1-homepage-with-new-guidance-section.png
+    - text: Index page with guidance
+      src: 2-index-page-with-guidance.png
+    - text: Dates and deadlines page
+      src: 3-dates-and-deadlines-page.png
+    - text: Designs using tabs
+      src: 4-designs-using-tabs.png
+    - text: Designs using accordions
+      src: 5-designs-using-accordions.png
 ---
 
 We updated Register’s guidance pages to help different training providers find what they need quickly
@@ -62,29 +74,3 @@ Although page views are still quite low, after a month we can see that more HEIs
 We can also see that users are clicking to all the tabs on our page explaining how HESA data maps to Register.
 
 So far, the dates and deadlines page is most popular, although during October users are registering their trainees for the ITT census publication, so there is more activity than usual in Register, and more important deadlines during this period.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  headingLevel: 2,
-  items: [
-  {
-    id: "1. Homepage with new guidance section",
-    text: "Homepage with new guidance section"
-  },
-  {
-    id: "2. Index page with guidance",
-    text: "Index page with guidance links"
-  },
-  {
-    id: "3. Dates and deadlines page",
-    text: "Dates and deadlines page"
-  },
-  {
-    id: "4. Designs using tabs",
-    text: "Designs using tabs"
-  },
-  {
-    id: "5. Designs using accordions",
-    text: "Designs using accordions"
-  }]
-}) }}

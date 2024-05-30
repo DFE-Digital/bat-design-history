@@ -16,17 +16,17 @@ related:
 
 Our intention in this first round of research was to answer the following questions:
 
-* Can users navigate through the service successfully?
-* Are we meeting the user needs for the assessment only route?
-* Are we requesting the right data, relevant to the assessment only route?
+- Can users navigate through the service successfully?
+- Are we meeting the user needs for the assessment only route?
+- Are we requesting the right data, relevant to the assessment only route?
 
 ## Who we tested with
 
-* University of Winchester
-* University of East London
-* University of Southampton
-* Essex & Thames SCITT
-* Surrey South Farnham SCITT
+- University of Winchester
+- University of East London
+- University of Southampton
+- Essex & Thames SCITT
+- Surrey South Farnham SCITT
 
 ## Research findings
 
@@ -104,10 +104,10 @@ Some users had issues finding the export button, struggled to deselect filters, 
 
 ## What we've learned
 
-* we’ve enabled users to complete all the tasks required to handle and input assessment only data
-* we were able to serve most of their needs around clarity and efficiency
-* the users navigated the service intuitively and much quicker than compared to DTTP
-* users understood what data was requested and we were able to confirm that they would be able to provide it in a real-life scenario
+- we’ve enabled users to complete all the tasks required to handle and input assessment only data
+- we were able to serve most of their needs around clarity and efficiency
+- the users navigated the service intuitively and much quicker than compared to DTTP
+- users understood what data was requested and we were able to confirm that they would be able to provide it in a real-life scenario
 
 > “I think if this could be rolled out across everything [all routes], then it would make my job a lot easier.”
 

@@ -6,6 +6,16 @@ related:
   items:
     - text: Adding reports to Register to help users check their data
       href: /register-trainee-teachers/adding-reports-to-register/
+screenshots:
+  items:
+    - text: New performance profiles report
+      src: 1-performance-profiles-report.png
+    - text: New performance profiles guidance
+      src: 2-performance-profiles-guidance.png
+    - text: List of reports including a link to the new performance profiles report
+      src: 3-reports-index.png
+    - text: List of guidance pages with new subheadings and link to the new performance profiles guidance
+      src: 4-guidance-index.png
 ---
 
 In January each year, training providers need to check and sign off their trainee data from the previous academic year. For example, in January 2023 they need to check the data for the 2021 to 2022 academic year.
@@ -116,25 +126,3 @@ We may decide to change the way we present information for the annual initial te
 - a link to a report which providers use to check their data
 
 We could separate these, as we’ve done for performance profiles.
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  headingLevel: 2,
-  items: [
-  {
-    id: "1-performance-profiles-report",
-    text: "New performance profiles report"
-  },
-  {
-    id: "2-performance-profiles-guidance",
-    text: "New performance profiles guidance"
-  },
-  {
-    id: "3-reports-index",
-    text: "List of reports including a link to the new performance profiles report"
-  },
-  {
-    id: "4-guidance-index",
-    text: "List of guidance pages with new subheadings and link to the new performance profiles guidance"
-  }]
-}) }}
