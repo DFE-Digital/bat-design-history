@@ -44,7 +44,6 @@
     "@rollup/plugin-commonjs": "^25.0.8",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "accessible-autocomplete": "^3.0.0",
-    "fs-extra": "^11.2.0",
     "govuk-frontend": "^5.4.0",
     "http-server": "^14.1.1",
     "luxon": "^3.4.4",
@@ -64,8 +63,7 @@
   },
   "devDependencies": {
     "markdownlint-cli": "^0.41.0",
-    "standard": "^17.1.0",
-    "webshot-node": "^0.18.3"
+    "standard": "^17.1.0"
   },
   "standard": {
     "ignore": [
