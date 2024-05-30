@@ -2,6 +2,9 @@
 title: Courses with multiple subjects
 description: Adding support for a second and third subject on a course
 date: 2021-05-08
+tags:
+  - subjects
+  - courses
 ---
 
 When providers add trainees to the DTTP, they can record up to 3 course subjects. These indicate which subjects the trainee was trained to teach in. Register previously only had a single subject field, so we’ve added the ability to add a second and third subject.

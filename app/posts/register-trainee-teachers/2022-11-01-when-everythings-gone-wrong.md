@@ -2,6 +2,8 @@
 title: When everything’s gone wrong
 description: A look at our ‘maintenance page’, to be used when the service is offline
 date: 2022-11-01
+tags:
+  - error pages
 related:
   items:
     - text: Pull request updating our maintenance page

@@ -2,6 +2,9 @@
 title: Picking courses from Publish
 description: We experimented with offering providers a list of courses from Publish instead of having them pick a route and then entering course details
 date: 2020-12-02
+tags:
+  - courses
+  - publish
 ---
 
 Our existing journey for adding a trainee asks providers to provide details of the course the trainee is on - route, subject, age range, start and end dates.

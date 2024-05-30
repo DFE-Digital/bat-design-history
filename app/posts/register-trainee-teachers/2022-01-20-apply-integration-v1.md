@@ -2,6 +2,9 @@
 title: Apply integration - version 1
 description: Exploring how we’ll import records from Apply
 date: 2022-01-20
+tags:
+  - apply
+  - importing
 related:
   items:
     - text: Investigating free text responses from Apply

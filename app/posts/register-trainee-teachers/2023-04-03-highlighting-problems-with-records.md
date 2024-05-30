@@ -2,6 +2,9 @@
 title: Highlighting problems with trainee records
 description: Helping providers fix their own data so that they do not need to contact the support team.
 date: 2023-04-03
+tags:
+  - trainees
+  - errors
 ---
 
 The number of trainee records held by Register increases by about 40,000 each academic year. We try to identify problems when records are added or imported, but some records have data issues that we cannot identify.

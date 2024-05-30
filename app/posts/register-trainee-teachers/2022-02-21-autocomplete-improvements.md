@@ -2,6 +2,9 @@
 title: Improvements to our autocompletes
 description: Looking through individual improvements we’ve made to our autocompletes to better support our users
 date: 2022-02-21
+tags:
+  - autocomplete
+  - usability
 related:
   items:
     - text: Using analytics to understand where our autocompletes could be improved

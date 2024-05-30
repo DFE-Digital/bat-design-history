@@ -2,6 +2,8 @@
 title: Reflect how providers work through the task list
 description: Our previous iteration of the task list did not reflect the way our users think and behave
 date: 2021-02-05
+tags:
+  - task list
 ---
 
 The task list did not reflect the way our users work.

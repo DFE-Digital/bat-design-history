@@ -2,6 +2,9 @@
 title: Adding school direct routes
 description: Expanding the routes we support
 date: 2021-04-08
+tags:
+  - routes
+  - school direct
 ---
 
 We’re continuing to expand our manual data entry for new training routes, now adding [School direct routes](https://beta-getintoteaching.education.gov.uk/ways-to-train).

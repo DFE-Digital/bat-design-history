@@ -2,6 +2,9 @@
 title: Making it clearer that a trainee is waiting to be awarded teaching status
 description: We added content to be shown after a trainee is recommended for teaching status but before they get the award.
 date: 2023-05-31
+tags:
+  - trainees
+  - qts
 ---
 
 A trainee is not instantly awarded teaching status when a user recommends them for early years teacher status (EYTS) or qualified teacher status (QTS).

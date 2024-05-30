@@ -2,6 +2,10 @@
 title: Giving Register users service updates and latest news
 description: Another way to keep users up to date about the transition to Register
 date: 2021-11-22
+tags:
+  - service updates
+  - news
+  - comms
 screenshots:
   items:
     - text: Latest news and updates on the Register sign in page

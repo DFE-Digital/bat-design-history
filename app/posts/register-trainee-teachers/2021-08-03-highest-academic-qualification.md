@@ -2,6 +2,8 @@
 title: Removing the highest academic qualification question
 description: Why we think we do not need this question and an alternate design if we do
 date: 2021-08-03
+tags:
+  - qualifications
 ---
 
 For trainees on undergraduate courses we ask for the trainee’s highest academic qualification, for example most trainees have ‘A levels’ or ‘Scottish Highers’.

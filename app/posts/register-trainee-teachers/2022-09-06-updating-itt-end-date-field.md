@@ -2,6 +2,8 @@
 title: Updating the ‘ITT end date’ field
 description: Renaming the field and prompting for it to be updated so it stays up to date
 date: 2022-09-06
+tags:
+  - dates
 related:
   items:
     - text: Pull request adding renaming field

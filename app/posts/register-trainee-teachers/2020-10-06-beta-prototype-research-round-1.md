@@ -2,6 +2,10 @@
 title: Beta prototype research (round 1)
 description: Validating existing assessment only user needs and testing the prototype
 date: 2020-10-06
+tags:
+  - beta
+  - prototype
+  - research
 related:
   items:
     - text: Research playback

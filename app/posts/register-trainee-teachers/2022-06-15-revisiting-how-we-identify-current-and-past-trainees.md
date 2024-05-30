@@ -2,6 +2,8 @@
 title: Revisiting how we identify current and past trainees
 description: Revising our designs for how we’ll identify current and past trainees
 date: 2022-06-15
+tags:
+  - trainees
 ---
 
 We’ve revised our designs for how we’ll identify current and past trainees. This affects what we show on the Register homepage and how our filters work for registered trainees.

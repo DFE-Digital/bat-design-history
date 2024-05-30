@@ -2,6 +2,9 @@
 title: Beta prototype updates
 description: How the prototype looked for round 2 of research
 date: 2020-10-26
+tags:
+  - beta
+  - prototype
 screenshots:
   items:
     - text: Start

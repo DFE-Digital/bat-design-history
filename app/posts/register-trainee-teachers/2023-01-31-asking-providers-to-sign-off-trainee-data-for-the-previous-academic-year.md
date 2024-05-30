@@ -2,6 +2,10 @@
 title: Asking providers to sign off trainee data for the previous academic year
 description: We created a way for providers to confirm which trainees qualified, withdrew and deferred in the previous academic year.
 date: 2023-02-02
+tags:
+  - trainees
+  - providers
+  - sign-off
 related:
   items:
     - text: Adding reports to Register to help users check their data

@@ -2,6 +2,8 @@
 title: Bulk actions on a group of records
 description: Letting providers do common actions in one go
 date: 2020-12-18
+tags:
+  - bulk actions
 ---
 
 Providers have told us they often have a group of trainees to recommend for QTS at the same time - all with the same programme and training details.

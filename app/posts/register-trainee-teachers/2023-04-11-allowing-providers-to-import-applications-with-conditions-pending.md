@@ -2,6 +2,10 @@
 title: Allowing providers to import applications with conditions pending
 description: Making it possible to register trainees whose status in Apply has not yet changed to recruited.
 date: 2023-04-11
+tags:
+  - providers
+  - applications
+  - imports
 related:
   items:
     - text: Apply integration - version 1
