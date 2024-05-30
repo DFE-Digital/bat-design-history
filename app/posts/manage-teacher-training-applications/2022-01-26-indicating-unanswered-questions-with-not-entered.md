@@ -1,13 +1,16 @@
 ---
 title: Indicating unanswered questions with ‘not entered’
-description: We made sure we’re consistent in how we indicate that a candidate did not answer a question.
+description: We made sure we’re consistent in how we indicate that a candidate did not answer a question
 date: 2022-01-24
+tags:
+  - application details
 screenshots:
   items:
     - text: Application details
       src: application-details.png
-tags:
-  - application details
+eleventyComputed:
+  eleventyNavigation:
+    key: manage-indicating-unanswered-questions
 ---
 
 At the moment, we’re inconsistent in how we indicate that a candidate did not answer a question.

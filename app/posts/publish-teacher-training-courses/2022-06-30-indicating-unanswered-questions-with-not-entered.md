@@ -8,6 +8,9 @@ screenshots:
   items:
     - text: Course description
       src: course-description.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-indicating-unanswered-questions
 ---
 
 At the moment, when a user has not answered a question, we indicate this with the word ‘empty’.
