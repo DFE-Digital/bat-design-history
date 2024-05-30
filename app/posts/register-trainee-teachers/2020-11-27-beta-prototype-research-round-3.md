@@ -22,26 +22,26 @@ The objective of our third research round was to achieve confidence in the propo
 
 Since UR round 2 we made some key changes to the prototype:
 
-* added the sign in journey
-* changed the process of inputting programme data from manually typing the data to [selecting courses pulled from Publish](/register-trainee-teachers/picking-publish-courses/)
-* changed the [process of recording the assessment outcomes](/register-trainee-teachers/recording-training-outcomes/) to include failure and course extension
+- added the sign in journey
+- changed the process of inputting programme data from manually typing the data to [selecting courses pulled from Publish](/register-trainee-teachers/picking-publish-courses/)
+- changed the [process of recording the assessment outcomes](/register-trainee-teachers/recording-training-outcomes/) to include failure and course extension
 
 The intention was to answer the following questions:
 
-* how do users that are responsible for multiple providers (e.g. lead schools) manage data?
-* what are the habits and needs around early data input and submitting for TRN (prior to course start)
-* how do providers refer to their courses and how familiar are they with the Publish course codes?
-* do users understand our review and confirm features, as well as our error messages?
-* are we meeting user needs around navigation, specifically searching for and sorting trainee records?
-* are we meeting user needs around recording assessment outcomes, especially alternative and negative ones?
+- how do users that are responsible for multiple providers (e.g. lead schools) manage data?
+- what are the habits and needs around early data input and submitting for TRN (prior to course start)
+- how do providers refer to their courses and how familiar are they with the Publish course codes?
+- do users understand our review and confirm features, as well as our error messages?
+- are we meeting user needs around navigation, specifically searching for and sorting trainee records?
+- are we meeting user needs around recording assessment outcomes, especially alternative and negative ones?
 
 ## Who we tested with
 
-* South West Teacher Training SCITT
-* Inspiring Teacher Training SCITT
-* Lincolnshire Teaching School Alliance SCITT
-* North Manchester ITT Partnership
-* The Tommy Flowers SCITT
+- South West Teacher Training SCITT
+- Inspiring Teacher Training SCITT
+- Lincolnshire Teaching School Alliance SCITT
+- North Manchester ITT Partnership
+- The Tommy Flowers SCITT
 
 ## Research findings
 
@@ -91,8 +91,8 @@ The homepage seems to work well as a springboard into our service. Users underst
 
 There was some confusion about the difference between ‘training details’ and ‘programme details’. Some users filled in personal data first because:
 
-* this is how DTTP does it
-* it gives the draft a name
+- this is how DTTP does it
+- it gives the draft a name
 
 > “I haven’t selected the person yet, so maybe there’s an anonymous person that’s started, but if there were multiple people it would be hard to pick this record back out from a group”
 

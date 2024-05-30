@@ -7,7 +7,6 @@ related:
     - text: Picking courses from Publish
       href: /register-trainee-teachers/picking-publish-courses/
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 Since Register started operating with real users registering real trainees, one of the more common requests to our support team has been to change the route or course on a trainee record. Until now, we have not supported changing the training route for registered trainees because it has been a data and user interface challenge. To make the change, our developers manually update the record. This is a burden we’d like to remove.
 
@@ -15,8 +14,8 @@ Since Register started operating with real users registering real trainees, one 
 
 We’ve received requests to change route or course for two reasons:
 
-* correcting mistakes made at registration
-* the trainee has asked to move course or the provider needs to move them
+- correcting mistakes made at registration
+- the trainee has asked to move course or the provider needs to move them
 
 Our launch coincided with the October ITT census and when the new cohort of trainees was being registered. The majority of change requests in this time were correcting mistakes made during registration. A provider might have registered the trainee as undergraduate rather than postgraduate, or school direct fee-funded rather than salaried.
 
@@ -28,9 +27,9 @@ The route is the core data item on which much of the record relies. Changing it 
 
 For example, if a trainee moves:
 
-* from a provider-led course to a school direct course, then the record will now be missing school details, which are needed to correctly pay funding to the lead school
-* from a course without funding to one with funding available, we should check whether the trainee should be receiving any funding
-* from a course with a bursary to one that doesn’t have funding, then the existing funding source is invalid
+- from a provider-led course to a school direct course, then the record will now be missing school details, which are needed to correctly pay funding to the lead school
+- from a course without funding to one with funding available, we should check whether the trainee should be receiving any funding
+- from a course with a bursary to one that doesn’t have funding, then the existing funding source is invalid
 
 ## New designs
 
@@ -50,10 +49,10 @@ Selecting ‘change’ on the course row takes the user to our existing route se
 
 After picking the new route we do a number of things:
 
-* if the new route does not have Publish courses, we delete any existing Publish information we have on the trainees' course details such as course code and course name.
-* if the new route has changed, we check for incompatible course data and delete it. For example deleting study mode when moving to assessment only courses, or deleting Early years subjects when moving away from Early years courses.
-* if the new route has Publish courses, we then show the Publish course picking flow.
-* if the new route does not have Publish courses, we show the manual course details flow.
+- if the new route does not have Publish courses, we delete any existing Publish information we have on the trainees' course details such as course code and course name.
+- if the new route has changed, we check for incompatible course data and delete it. For example deleting study mode when moving to assessment only courses, or deleting Early years subjects when moving away from Early years courses.
+- if the new route has Publish courses, we then show the Publish course picking flow.
+- if the new route does not have Publish courses, we show the manual course details flow.
 
 The user will finish with a course details confirmation page which captures their new route or course information.
 
@@ -61,9 +60,9 @@ After confirming the new course details, we need to compare what’s changed and
 
 If the record no longer requires these items we’ll delete:
 
-* degrees
-* schools
-* placements
+- degrees
+- schools
+- placements
 
 If the route or the allocation subject has changed, we’ll delete the funding source — as the existing answer to this is no longer reliable.
 
@@ -71,9 +70,9 @@ If the route or the allocation subject has changed, we’ll delete the funding s
 
 Depending on the type of change, the record may now be missing:
 
-* degrees
-* schools
-* funding information
+- degrees
+- schools
+- funding information
 
 Our first release of course changes will likely have these shown as ‘missing data’ on the record. In a future design history we’ll look at designs to collect this as part of the course change flow.
 

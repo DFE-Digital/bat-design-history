@@ -32,24 +32,24 @@ Which to choose?
 
 The hat model is:
 
-* similar to the current service
-* suited to workflows where you work as a single provider at a time
+- similar to the current service
+- suited to workflows where you work as a single provider at a time
 
 It could be problematic because users may:
 
-* add data to the wrong provider
-* need to swap between providers for certain tasks
-* need to split their work by provider
+- add data to the wrong provider
+- need to swap between providers for certain tasks
+- need to split their work by provider
 
 The blended model could be a good option because it allows users to:
 
-* view their records in one place
-* switch between provider without signing out
+- view their records in one place
+- switch between provider without signing out
 
 However, with this model, users need to:
 
-* specify which provider they’re inputting data for
-* select a filter if they want to see just the records that relate to a single provider
+- specify which provider they’re inputting data for
+- select a filter if they want to see just the records that relate to a single provider
 
 ## Designs
 

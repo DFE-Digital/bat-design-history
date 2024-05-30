@@ -1,6 +1,6 @@
 ---
 title: Alpha prototype
-description: A look at the alpha prototype and beginning to think about the next steps.
+description: A look at the alpha prototype and beginning to think about the next steps
 date: 2020-09-07
 screenshots:
   items:
@@ -76,6 +76,6 @@ A functional prototype is being built which will enable us to gather further ins
 
 The team has identified areas in the current prototype that will require further thought for the functional prototype such as:
 
-* the ‘add a record’ journey includes a form split over multiple tabs which presents accessibility and usability issues
-* adding multiples of things such as education qualifications and diversity information
-* adding personal details for candidates/trainees that either studied or are living overseas
+- the ‘add a record’ journey includes a form split over multiple tabs which presents accessibility and usability issues
+- adding multiples of things such as education qualifications and diversity information
+- adding personal details for candidates/trainees that either studied or are living overseas

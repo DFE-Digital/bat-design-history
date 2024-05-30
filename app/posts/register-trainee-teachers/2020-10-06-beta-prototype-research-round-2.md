@@ -20,13 +20,13 @@ Our second round of research focused mainly on testing the usability of our serv
 
 Our intention was to answer the following questions:
 
-* What are our users’ key behaviours and needs around inputting large numbers of trainees?
-* What is their understanding of “allocations”?
-* What are the different scenarios around deferrals and withdrawals?
-* What happens if a trainee fails?
-* Is our guidance useful and do users understand the next steps around tracking TRN and QTS?
-* Do our users want to manage data on an individual or cohort basis and how is a “cohort” characterised?
-* How do users currently handle alternative assessment outcomes to a QTS recommendation?
+- What are our users’ key behaviours and needs around inputting large numbers of trainees?
+- What is their understanding of “allocations”?
+- What are the different scenarios around deferrals and withdrawals?
+- What happens if a trainee fails?
+- Is our guidance useful and do users understand the next steps around tracking TRN and QTS?
+- Do our users want to manage data on an individual or cohort basis and how is a “cohort” characterised?
+- How do users currently handle alternative assessment outcomes to a QTS recommendation?
 
 ## Who we tested with
 
@@ -38,9 +38,9 @@ We tested with 7 SCITTs and 1 HEI offering the Assessment only route
 
 Data collection and preparation is laborious. Most users collect different types of data separately in several stages. This includes:
 
-* application data, collected through UCAS and Apply
-* additional data that the provider needs
-* data required for DTTP
+- application data, collected through UCAS and Apply
+- additional data that the provider needs
+- data required for DTTP
 
 They then add this data to their existing spreadsheets, which are often structured in order of the DTTP data input.
 
@@ -56,10 +56,10 @@ Participants’ response to our home screen was a little mixed: to some it seems
 
 Regarding the “trainee status overview" section:
 
-* most users identified it correctly as just an overview, and some participants tried clicking into the fields for quick access
-* users interpreted the meaning of the different statuses correctly
-* users were not clear which cycle the overview refers to
-* most prefered to view just the current cohort and deferred trainees
+- most users identified it correctly as just an overview, and some participants tried clicking into the fields for quick access
+- users interpreted the meaning of the different statuses correctly
+- users were not clear which cycle the overview refers to
+- most prefered to view just the current cohort and deferred trainees
 
 > “I’d be most interested in the top row, and deferred and withdrawn. Presumably this is for the current year but it’s not obvious.”
 
@@ -69,8 +69,8 @@ Our data requirements page did not receive a lot of attention, but when prompted
 
 We found that some:
 
-* users check data requirements around May - but most check in September, just before submitting ITT data
-* DTTP users are not always clear which data is required and which data is optional
+- users check data requirements around May - but most check in September, just before submitting ITT data
+- DTTP users are not always clear which data is required and which data is optional
 
 > “DTTP tells you what data is required and whether it’s essential - I just double check once a year that that’s the same as last year, usually in September.”
 
@@ -94,9 +94,9 @@ We also need to rethink how we structure the “programme details” section - t
 
 Two users filled out “age range” first and then completely missed inputting the subject. They both had to go back into the section. Based on this feedback, we could consider reordering the fields, for example, in the following order:
 
-* primary and secondary
-* age range
-* subject
+- primary and secondary
+- age range
+- subject
 
 ### Allocations
 
@@ -161,9 +161,9 @@ Providers try to maximise their efficiency by waiting until they have gathered a
 
 We found that:
 
-* users generally upload data manually onto DTTP (for example, copying and pasting data from Excel spreadsheets into the system)
-* one participant works with a data management team who use a bulk upload system to input data
-* when it comes to uploading trainee data via HESA, participants create a data return from their own trainee record system, and then upload this data in bulk, making manual adjustments where necessary
+- users generally upload data manually onto DTTP (for example, copying and pasting data from Excel spreadsheets into the system)
+- one participant works with a data management team who use a bulk upload system to input data
+- when it comes to uploading trainee data via HESA, participants create a data return from their own trainee record system, and then upload this data in bulk, making manual adjustments where necessary
 
 > “We don’t always do it as soon as they’ve started their program. We start registering 2 or 3 weeks after the candidate has started, because not all candidates have provided everything needed at the very start.”
 
@@ -179,8 +179,8 @@ The behaviour of splitting registering a trainee into 2 distinct actions (settin
 
 A teaching cohort is:
 
-* typically defined by the current year of study
-* sometimes split by primary and early years
+- typically defined by the current year of study
+- sometimes split by primary and early years
 
 (Part time trainees, where studies span more than one year, would shift from cohort to cohort depending on what year they’re in.)
 
@@ -260,10 +260,10 @@ Reinstatement of a deferred trainee and extension of one's course both mean that
 
 Users easily completed the process of withdrawing a trainee. The most typical reasons for withdrawing a trainee were:
 
-* not passing the Standards Assessment
-* not passing their exams (e.g. PGCE)
-* health reasons
-* other personal reasons/dropping out
+- not passing the Standards Assessment
+- not passing their exams (e.g. PGCE)
+- health reasons
+- other personal reasons/dropping out
 
 Some struggled to differentiate between two of the terms:
 

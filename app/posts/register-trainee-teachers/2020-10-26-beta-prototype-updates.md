@@ -140,14 +140,14 @@ Users intuitively knew how to navigate the prototype and they understood what da
 
 Our response to the findings from round one of of research as well as additional feature development include the following updates:
 
-* Support for multiple routes has been added with the second route, provider-led now available.
-* Allocations data is now being requested on the provider-led route when creating records with Physical Education courses.
-* Filter functionality has been enhanced when viewing teacher records. Users can now filter by route and subject, search by name and trainee ID and sort by date updated and last name.
-* A timeline has been included on a record that lists key events in a trainees record.
-* Trainees can now be deferred and reinstated.
-* Trainees can now be withdrawn.
-* A homepage has been introduced which includes an overview of trainee statuses.
-* Improvements on how we ask for international addresses, gender, ethnicity and disabilities have been made.
-* A [prototype settings](https://register-prototype.herokuapp.com/admin) page has been added which enables features to be toggled on and off.
-* Ongoing iteration of content throughout the prototype with an focus on ensuring our use of terminology is consistent.
-* We have hidden the guidance section to test the hypothesis that guidance may not be needed.
+- Support for multiple routes has been added with the second route, provider-led now available.
+- Allocations data is now being requested on the provider-led route when creating records with Physical Education courses.
+- Filter functionality has been enhanced when viewing teacher records. Users can now filter by route and subject, search by name and trainee ID and sort by date updated and last name.
+- A timeline has been included on a record that lists key events in a trainees record.
+- Trainees can now be deferred and reinstated.
+- Trainees can now be withdrawn.
+- A homepage has been introduced which includes an overview of trainee statuses.
+- Improvements on how we ask for international addresses, gender, ethnicity and disabilities have been made.
+- A [prototype settings](https://register-prototype.herokuapp.com/admin) page has been added which enables features to be toggled on and off.
+- Ongoing iteration of content throughout the prototype with an focus on ensuring our use of terminology is consistent.
+- We have hidden the guidance section to test the hypothesis that guidance may not be needed.

@@ -23,11 +23,11 @@ We can not fully automate registering trainees as the data we get from Apply is 
 
 In the data from Apply we get details about the course they applied to and, their personal details and education, but only the provider knows:
 
-* schools the trainee might be working at
-* placement details
-* finance information — bursaries and initiatives
-* details specific to each trainee — the provider’s ID for the trainee and trainee’s start date
-* specifics of course being studied. Publish tells us some information, but not options chosen by the trainee
+- schools the trainee might be working at
+- placement details
+- finance information — bursaries and initiatives
+- details specific to each trainee — the provider’s ID for the trainee and trainee’s start date
+- specifics of course being studied. Publish tells us some information, but not options chosen by the trainee
 
 ## Could we use our existing pages?
 

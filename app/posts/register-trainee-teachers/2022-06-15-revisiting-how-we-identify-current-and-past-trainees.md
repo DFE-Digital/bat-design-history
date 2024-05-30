@@ -1,9 +1,8 @@
 ---
 title: Revisiting how we identify current and past trainees
-description:
+description: Revising our designs for how we’ll identify current and past trainees
 date: 2022-06-15
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 We’ve revised our designs for how we’ll identify current and past trainees. This affects what we show on the Register homepage and how our filters work for registered trainees.
 
@@ -19,9 +18,9 @@ Identifying ‘current’ trainees
 
 Our first attempt to solve this was with cohorts - we grouped all trainees into buckets:
 
-* current
-* past
-* next year’s trainees
+- current
+- past
+- next year’s trainees
 
 In our cohorts, ‘current’ included any trainee who started in the current academic year, or any from previous years who had yet to complete their course. We felt that in most cases this is the slice of trainees that a provider would be most interested in.
 
@@ -57,11 +56,11 @@ The core need of identifying past and current trainees remains - and we believe 
 
 As the cohorts were tricky to calculate with incomplete data we’ve taken a simpler approach of grouping trainees by:
 
-* course not started yet (registered trainees, but course yet to start)
-* in training (all active trainees, excluding those on courses yet to start)
-* deferred
-* awarded (all trainees awarded QTS or EYTS)
-* withdrawn
+- course not started yet (registered trainees, but course yet to start)
+- in training (all active trainees, excluding those on courses yet to start)
+- deferred
+- awarded (all trainees awarded QTS or EYTS)
+- withdrawn
 
 Each of these should always be possible to calculate. Unlike with our cohorts work we’d make no attempt to have a slice of the “current year” - providers will get trainees they’re currently training or else ever awarded or ever withdrawn.
 

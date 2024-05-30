@@ -18,11 +18,11 @@ Current guidance in regards to training in schools states:
 
 >“…training programmes are designed to provide trainee teachers with sufficient time being trained in schools (see note 5), early years and/or further education settings to enable them to demonstrate that they have met all the standards for QTS. This means they would typically be structured to include at least the following periods of time to be spent in training in schools, early years or further education settings (see note 6):
 >
->* a four-year undergraduate programme - 160 days (32 weeks)
->* a one, two or three-year undergraduate programme - 120 days (24 weeks)
->* a secondary graduate (non-employment-based) programme - 120 days (24 weeks)
->* a primary graduate (non-employment-based) programme - 120 days (24 weeks)
->* employment-based programme - as determined by the training programme”
+>- a four-year undergraduate programme - 160 days (32 weeks)
+>- a one, two or three-year undergraduate programme - 120 days (24 weeks)
+>- a secondary graduate (non-employment-based) programme - 120 days (24 weeks)
+>- a primary graduate (non-employment-based) programme - 120 days (24 weeks)
+>- employment-based programme - as determined by the training programme”
 
 Source: [Initial teacher training (ITT): criteria and supporting advice](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#c23-training-in-schools)
 
@@ -42,9 +42,9 @@ We do not know what the guidance will be in the next academic year.
 
 When do users know placement details? It differs. We need to take 3 potential scenarios into consideration at the time a draft is created:
 
-* all placements details are known
-* some placement details are known
-* no placement details are known
+- all placements details are known
+- some placement details are known
+- no placement details are known
 
 Answering ‘No, I’ll add them later’ marks the section complete, while answering ‘Yes, I can add at least one of them now’ takes the user to the ‘Placement details’ section.
 
@@ -102,12 +102,12 @@ Will our users notice the banner prompting for placement details? We hope to val
 
 We also want to understand more about the details providers keep, for example:
 
-* do they know the placement location’s URN?
-* do they know the start and end dates for each placement?
+- do they know the placement location’s URN?
+- do they know the start and end dates for each placement?
 
 ## Future work
 
 We’ll look into:
 
-* accommodating for trainees who got their teaching experience abroad
-* accomodating for the scenario where a trainee with enough prior teaching experience does not need placements in order to satisfy the criteria for QTS
+- accommodating for trainees who got their teaching experience abroad
+- accomodating for the scenario where a trainee with enough prior teaching experience does not need placements in order to satisfy the criteria for QTS

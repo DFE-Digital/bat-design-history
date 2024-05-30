@@ -11,8 +11,6 @@ related:
     - text: Autocomplete analytics dashboard (Register team members only)
       href: https://datastudio.google.com/s/qW6s8xj8O-I
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
 
 Over the last year we’ve updated our autocompletes to improve how they work and address usability issues we’ve found. We’ve tried to make these improvements general purpose so that other teams can benefit from them.
 
@@ -26,51 +24,12 @@ The autocomplete takes your search query and looks for an exact match in the ava
 
 For example, these searches will fail:
 
-{{ govukTable({
-  firstCellIsHeader: false,
-  head: [
-    {
-      text: "Search term"
-    },
-    {
-      text: "Should match but gets missed"
-    }
-  ],
-  rows: [
-    [
-      {
-        text: "Bachelor art"
-      },
-      {
-        text: "Bachelor of art"
-      }
-    ],
-    [
-      {
-        text: "dh law"
-      },
-      {
-        text: "D.H. Lawrence Studies"
-      }
-    ],
-    [
-      {
-        text: "Bedfordshire university"
-      },
-      {
-        text: "University of Bedfordshire"
-      }
-    ],
-    [
-      {
-        text: "The University of Bedfordshire"
-      },
-      {
-        text: "University of Bedfordshire"
-      }
-    ]
-  ]
-}) }}
+| Search term | Should match but gets missed |
+| --- | --- |
+| Bachelor art | Bachelor of art |
+| dh law | D.H. Lawrence Studies |
+| Bedfordshire university | University of Bedfordshire |
+| The University of Bedfordshire | University of Bedfordshire |
 
 For each of these examples, the search term gives us enough information to know what the user meant, but the filtering algorithm is too strict.
 
@@ -86,35 +45,10 @@ The default sorting algorithm uses the list of items with no in-built support fo
 
 These would benefit from having synonyms added:
 
-{{ govukTable({
-  firstCellIsHeader: false,
-  head: [
-    {
-      text: "Search term"
-    },
-    {
-      text: "Should match but gets missed"
-    }
-  ],
-  rows: [
-    [
-      {
-        text: "Maths"
-      },
-      {
-        text: "Mathematics"
-      }
-    ],
-    [
-      {
-        text: "Masters"
-      },
-      {
-        text: "Master of…"
-      }
-    ]
-  ]
-}) }}
+| Search term | Should match but gets missed |
+| --- | --- |
+| Maths | Mathematics |
+| Masters | Master of… |
 
 ## Our revised algorithm
 
@@ -194,5 +128,5 @@ Much of the improvements teams can expect to see depend on them optimising it by
 
 The various bits of code for these improvements can be found:
 
-* [Source code](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/components/form_components/autocomplete)
-* [Tests](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/webpacker/scripts/autocomplete)
+- [Source code](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/components/form_components/autocomplete)
+- [Tests](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/webpacker/scripts/autocomplete)

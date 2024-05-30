@@ -3,7 +3,6 @@ title: Bulk actions on a group of records
 description: Letting providers do common actions in one go
 date: 2020-12-18
 ---
-{% from "screenshots/macro.njk" import appScreenshots with context %}
 
 Providers have told us they often have a group of trainees to recommend for QTS at the same time - all with the same programme and training details.
 
@@ -27,31 +26,35 @@ We’ve set up actions to happen in a few stages:
 
 We’ve set it up like this so in the future we may be able to build on this feature by starting at stage 3 with an existing list of trainees.
 
-{{ appScreenshots({
-  title: "Designs",
-  items: [{
-    text: "1. Link in header",
-    src: "01-header.png"
-  }, {
-    text: "2. Select action",
-    src: "02-select-action.png"
-  }, {
-    text: "3. Filter records",
-    src: "03-filter-records.png"
-  }, {
-    text: "4. Select trainees",
-    src: "04-select-trainees.png"
-  }, {
-    text: "5. QTS date",
-    src: "05-qts-date.png"
-  }, {
-    text: "6. Confirm trainees",
-    src: "06-confirm-trainees.png"
-  }, {
-    text: "7. Confirmation",
-    src: "07-confirmation.png"
-  }]
-}) }}
+## Designs
+
+### 1. Link in header
+
+![1. Link in header](01-header.png)
+
+### 2. Select action
+
+![2. Select action](02-select-action.png)
+
+### 3. Filter records
+
+![3. Filter records](03-filter-records.png)
+
+### 4. Select trainees
+
+![4. Select trainees](04-select-trainees.png)
+
+### 5. QTS date
+
+![5. QTS date](05-qts-date.png)
+
+### 6. Confirm trainees
+
+![6. Confirm trainees](06-confirm-trainees.png)
+
+### 7. Confirmation
+
+![7. Confirmation](07-confirmation.png)
 
 ## Further work
 

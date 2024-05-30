@@ -14,10 +14,10 @@ iQTS is a new, UK government-backed international teaching qualification which w
 
 iQTS aims to:
 
-* provide opportunities for accredited English ITT providers to expand into the growing international teacher training market
-* make high quality training accessible around the world and allow trainees to benefit from evidence-based ITT
-* support schools outside the UK to recruit, retain and develop local talent
-* increase the global pool of quality teachers and support global mobility within the teaching profession
+- provide opportunities for accredited English ITT providers to expand into the growing international teacher training market
+- make high quality training accessible around the world and allow trainees to benefit from evidence-based ITT
+- support schools outside the UK to recruit, retain and develop local talent
+- increase the global pool of quality teachers and support global mobility within the teaching profession
 
 {% endset %}
 
@@ -40,8 +40,8 @@ We’ve added a new route to the route selection page, and a new task list secti
 
 We decided to separate this new iQTS section from the ‘Course details’ section in the task list for a few reasons, including:
 
-* it will give us the flexibility to add more details if we need to collect them, like the language the trainee is studying in
-* the course details section in the task list is already quite complicated, especially when a provider needs to change a trainee’s course so adding in more complexity didn’t make sense
+- it will give us the flexibility to add more details if we need to collect them, like the language the trainee is studying in
+- the course details section in the task list is already quite complicated, especially when a provider needs to change a trainee’s course so adding in more complexity didn’t make sense
 
 Originally we called this new section ‘iQTS details’ however, because it follows on from a section called ‘Course details’ it felt like a duplication. We decided to call the new section ‘International training details’ because we’re only asking about the international aspect of the course but not its specific details like what the trainee has chosen to study.
 

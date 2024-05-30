@@ -1,6 +1,6 @@
 ---
 title: Picking courses from Publish
-description:
+description: We experimented with offering providers a list of courses from Publish instead of having them pick a route and then entering course details
 date: 2020-12-02
 ---
 
@@ -16,14 +16,11 @@ Research questions we had:
 2. How do they refer to their courses on Publish?
 3. Would they be familiar with the course code?
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  title: "Designs",
-  items: [
-    "Asking for a publish course",
-    "Confirming a publish course"
-  ]
-}) }}
+## Designs
+
+![Asking for a publish course](asking-for-a-publish-course.png "Asking for a publish course")
+
+![Confirming a publish course](confirming-a-publish-course.png "Confirming a publish course")
 
 We also did some research looking at how many courses providers tend to offer on publish. This showed that 50 to 60% of providers with courses on Publish have up to one or two courses only. The rest can have anywhere from 3 to 90 courses.
 

@@ -26,9 +26,9 @@ This leaves us, like many other projects, investigating hacks to work around the
 
 We tried various solutions, including:
 
-* setting autcomplete attribute to `off`, `disabled`, `new-password`
-* setting the autocomplete attribute to a non-standard value
-* changing the name of the field
+- setting autcomplete attribute to `off`, `disabled`, `new-password`
+- setting the autocomplete attribute to a non-standard value
+- changing the name of the field
 
 Ultimately, it seems that if browsers see the same combination of field name / type / autocomplete attribute repeatedly, they’ll start to try to auto-fill it.
 
