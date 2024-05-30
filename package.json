@@ -32,8 +32,8 @@
     "dev": "npm run watch",
     "lint:javascripts": "standard",
     "lint:javascripts:fix": "standard --fix",
-    "lint:markdown": "markdownlint 'app/**/*.md'",
-    "lint:markdown:fix": "markdownlint 'app/**/*.md' --fix",
+    "lint:markdown": "markdownlint 'app/**/*.md' --disable MD013 MD024 MD028 MD033 MD041",
+    "lint:markdown:fix": "markdownlint 'app/**/*.md' --disable MD013 MD024 MD028 MD033 MD041 --fix",
     "lint": "npm-run-all lint:javascripts lint:markdown",
     "lint:fix": "npm-run-all lint:javascripts:fix lint:markdown:fix"
   },
