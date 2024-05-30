@@ -79,7 +79,7 @@ The status tag of `Apply draft` was not well understood. Our users came up with 
 
 Multiple participants expressed concern that we might import all applications made through Apply, rather than just those that had been offered places and met all their conditions.
 
-We will only import applications of trainees that have met all conditions (the same as what providers want), but this was not clear to them from the interface. 
+We will only import applications of trainees that have met all conditions (the same as what providers want), but this was not clear to them from the interface.
 
 #### Issues with nested confirmation pages
 

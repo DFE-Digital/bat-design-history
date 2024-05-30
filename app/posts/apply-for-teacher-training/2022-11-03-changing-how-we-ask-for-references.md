@@ -102,7 +102,6 @@ References to a word limit have been removed, to discourage users from thinking 
 
 ![Screenshot with the heading 'Reference for Jane Doe'](reference.png)
 
-
 ### Check your answers
 
 We simplified this page, focusing on the three answers given followed by a green 'Submit reference' button.

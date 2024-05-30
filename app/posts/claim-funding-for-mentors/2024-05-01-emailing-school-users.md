@@ -31,7 +31,7 @@ You have been invited to join the Claim funding mentor training service for ((or
 
 If you have a DfE Sign-in account, you can use it to sign in:
 
-https://claim-funding-for-mentor-training.education.gov.uk/sign-in
+<https://claim-funding-for-mentor-training.education.gov.uk/sign-in>
 
 If you need to create a DfE Sign-in account, you can do this after clicking ‘Sign in using DfE Sign-in’.
 
@@ -39,7 +39,7 @@ After creating a DfE Sign-in account, you must return to this email and [sign in
 
 # Give feedback or report a problem
 
-If you have any questions or feedback, please contact the team at ittmentor.funding@digital.education.gov.uk.
+If you have any questions or feedback, please contact the team at <ittmentor.funding@digital.education.gov.uk>.
 
 Regards
 Claim funding for mentor training team
@@ -57,7 +57,7 @@ You have been removed from the Claim funding for mentor training service for ((o
 
 # Give feedback or report a problem
 
-If you have any questions or feedback, please contact the team at ittmentor.funding@digital.education.gov.uk.
+If you have any questions or feedback, please contact the team at <ittmentor.funding@digital.education.gov.uk>.
 
 Regards
 Claim funding for mentor training team

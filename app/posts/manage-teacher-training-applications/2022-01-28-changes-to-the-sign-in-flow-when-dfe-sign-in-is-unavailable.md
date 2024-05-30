@@ -59,6 +59,6 @@ We made the content on the confirmation page clearer by changing:
 
 If the user leaves the email address blank, an error will be shown saying “Enter an email address”.
 
-If the user enters an invalid email address, an error will be shown saying “Enter an email address in the correct format, like name@example.com”.
+If the user enters an invalid email address, an error will be shown saying “Enter an email address in the correct format, like <name@example.com>”.
 
 If the user enters a valid email address, they will be taken to the confirmation page.

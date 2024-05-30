@@ -19,7 +19,7 @@ We changed the h1 heading from ‘manage your applications quickly and easily’
 
 We included a line that says ‘if you do not have access to this service, ask a colleague to add you.’ This should help users get set up without having to contact support.
 
-We included a line that says ‘if your organisation has not been set up to use the service, email becomingateacher@digital.education.gov.uk.’
+We included a line that says ‘if your organisation has not been set up to use the service, email <becomingateacher@digital.education.gov.uk>.’
 
 We removed ‘try our new service to see how easy it is to use. It’s free for providers and candidates.’ It’s no longer optional to use our service.
 

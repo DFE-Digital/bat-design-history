@@ -58,14 +58,14 @@ Some of the notification emails had not been updated following changes to the se
 
 We updated the emails so that:
 
--	all terminology is consistent with the service
--	the email contains a single message and is as short as possible
--	users can quickly see which provider the notification is referring to
+- all terminology is consistent with the service
+- the email contains a single message and is as short as possible
+- users can quickly see which provider the notification is referring to
 
 We also:
 
--	moved the link to change notifications settings to below the sign-off
--	removed the ‘updated at time/date’ information as we felt it was unnecessary - the email is sent around the same time any change is made
+- moved the link to change notifications settings to below the sign-off
+- removed the ‘updated at time/date’ information as we felt it was unnecessary - the email is sent around the same time any change is made
 
 ### Course subject change
 
@@ -96,7 +96,7 @@ The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 
@@ -131,7 +131,7 @@ The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 
@@ -159,7 +159,7 @@ The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 
@@ -190,7 +190,7 @@ The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 
@@ -227,7 +227,7 @@ The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 
@@ -259,7 +259,7 @@ The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 
@@ -289,7 +289,7 @@ The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 

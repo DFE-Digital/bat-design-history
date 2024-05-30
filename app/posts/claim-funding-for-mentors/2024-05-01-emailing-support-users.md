@@ -31,7 +31,7 @@ You have been invited to join the Claim funding for mentor training service.
 
 If you have a DfE Sign-in account, you can use it to sign in:
 
-https://claim-funding-for-mentor-training.education.gov.uk/sign-in
+<https://claim-funding-for-mentor-training.education.gov.uk/sign-in>
 
 If you need to create a DfE Sign-in account, you can do this after clicking ‘Sign in using DfE Sign-in’.
 

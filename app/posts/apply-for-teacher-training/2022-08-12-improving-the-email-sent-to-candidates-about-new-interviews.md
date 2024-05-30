@@ -66,7 +66,7 @@ Contact ((provider)) if you have any questions. Let them know if you cannot atte
 
 Call 0800 389 2500 or chat online:
 
-https://getintoteaching.education.gov.uk/#talk-to-us
+<https://getintoteaching.education.gov.uk/#talk-to-us>
 
 Monday to Friday, 8:30am to 5:30pm (except public holidays).
   "

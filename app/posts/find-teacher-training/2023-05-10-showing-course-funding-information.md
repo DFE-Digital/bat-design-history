@@ -46,7 +46,6 @@ If the course is funded through fees, we show additional information:
 
 ![Course list item showing teaching apprenticeship funding type](course-list-item--teaching-apprenticeship.png "Course list item showing teaching apprenticeship funding type")
 
-
 ### Course details page
 
 ![Course summary details showing fee funding type and bursary hint text](course-details--fee-paying-bursary.png "Course summary details showing fee funding type and bursary hint text")

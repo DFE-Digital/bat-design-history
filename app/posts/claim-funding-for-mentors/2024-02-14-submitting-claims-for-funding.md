@@ -87,7 +87,6 @@ We paginate the list if the claim list contains more than 25 claims.
 
 We show a success message above the page heading when a claim is added.
 
-
 Before adding a claim, users must add at least one mentor to the services. If they have not added any mentors, we hide the ‘Add claim’ button show a message:
 
 > You need to add a mentor before creating a claim.

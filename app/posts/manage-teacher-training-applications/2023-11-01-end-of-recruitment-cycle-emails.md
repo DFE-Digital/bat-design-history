@@ -69,11 +69,11 @@ If a candidate is taking a GCSE equivalency test for English, mathematics or sci
 
 It’s fine for them to provide the certificate of their results after their training starts. In these cases, you can register these candidates manually in Register.
 
-If a candidate has started their training but does not meet the GCSE standard from their test, the candidate should not continue training. The recovery of any fees already paid should be handled between you and candidate. 
+If a candidate has started their training but does not meet the GCSE standard from their test, the candidate should not continue training. The recovery of any fees already paid should be handled between you and candidate.
 
 ### Get help
 
-If you need any help, contact us at becomingateacher@digital.education.gov.uk
+If you need any help, contact us at <becomingateacher@digital.education.gov.uk>
 </div>
 
 For the email to HEIs, we did not mention how Apply works with Register. HEIs use their own student record systems and use Register in a different way to SCITTs through the Higher Education Statistics Agency (HESA).
@@ -105,7 +105,7 @@ Your organisation should make sure all your courses are published by this date s
 
 ### Get help
 
-Contact us at becomingateacher@digital.education.gov.uk if you need any help preparing for the end of this recruitment cycle and the start of the 2023 to 2024 cycle.
+Contact us at <becomingateacher@digital.education.gov.uk> if you need any help preparing for the end of this recruitment cycle and the start of the 2023 to 2024 cycle.
 </div>
 
 ### 21 September – Becoming a teacher newsletter

@@ -80,7 +80,7 @@ Candidates can update course choices before (and 5 working days after) submittin
     required: "Yes",
     api: {
       param: "course.provider_code",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -104,7 +104,7 @@ Candidates can update course choices before (and 5 working days after) submittin
     required: "Yes",
     api: {
       param: "course.course_code",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -128,7 +128,7 @@ Candidates can update course choices before (and 5 working days after) submittin
     required: "Yes",
     api: {
       param: "course.site_code",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -153,7 +153,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "candidate.first_name",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -178,7 +178,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "candidate.last_name",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -207,7 +207,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "candidate.date_of_birth",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -234,7 +234,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "candidate.nationality[]",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -260,7 +260,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "candidate.nationality[]",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     what: ["Appears in provider-facing interface and retrievable via API"],
     notes: ["We don’t need to ask for additional nationalities; dual nationals can enter their British or EEA-derived nationality. We currently offer no guidance around this."]
@@ -274,7 +274,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "Yes (if country of nationality is not within the UK or EEA)",
     api: {
       param: "candidate.uk_residency_status",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -296,7 +296,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "candidate.english_main_language",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Unknown"}],
@@ -314,7 +314,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "Yes (if candidate’s main language is not English)",
     api: {
       param: "candidate.english_language_qualifications",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Unknown"}],
@@ -332,7 +332,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "candidate.other_languages",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -355,7 +355,7 @@ A candidate can update these details at any point during the application process
     required: "Yes",
     api: {
       param: "contact_details.email",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -382,7 +382,7 @@ A candidate can update these details at any point during the application process
     required: "Yes",
     api: {
       param: "contact_details.phone_number",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -412,7 +412,7 @@ A candidate can update these details at any point during the application process
         contact_details.address_line4
         contact_details.postcode
         contact_details.country",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -481,7 +481,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "work_experience.jobs[].role",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -502,7 +502,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "work_experience.jobs[].organisation_name",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -524,7 +524,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "work_experience.jobs[].commitment",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -545,7 +545,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     api: {
       param: "work_experience.jobs[].start_date
       work_experience.jobs[].end_date",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -566,7 +566,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "work_experience.jobs[].description",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -588,7 +588,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     api: {
       param: "work_experience.jobs[].start_date
       work_experience.jobs[].end_date",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -610,7 +610,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes (if any gaps appear in work history)",
     api: {
       param: "work_experience.work_history_break_explanation",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -632,7 +632,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes (if any gaps appear in work history)",
     api: {
       param: "work_experience.work_history_break_explanation",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -668,7 +668,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "work_experience.volunteering[].role",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -689,7 +689,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "work_experience.volunteering[].organisation_name",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -712,7 +712,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     api: {
       param: "work_experience.volunteering[].start_date
       work_experience.volunteering[].end_date",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -731,7 +731,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "work_experience.volunteering[].description",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -752,7 +752,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "work_experience.volunteering[].working_with_children",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -793,7 +793,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "candidate.disability_disclosure",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -822,7 +822,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       Additional degree(s): No",
     api: {
       param: "qualifications.degrees[].qualification_type",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -847,7 +847,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       Additional degree(s): No",
     api: {
       param: "qualifications.degrees[].subject",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -869,7 +869,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       Additional degree(s): No",
     api: {
       param: "qualifications.degrees[].grade",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "HESA", colour: "turquoise"}],
@@ -889,7 +889,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       Additional degree(s): No",
     api: {
       param: "qualifications.degrees[].award_year",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "HESA", colour: "turquoise"}],
@@ -908,7 +908,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       Additional degree(s): No",
     api: {
       param: "qualifications.degrees[].institution_details",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -934,7 +934,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes (if degree not awarded in UK)",
     api: {
       param: "qualifications.degrees[].awarding_body",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -955,7 +955,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes (if degree not awarded in UK)",
     api: {
       param: "qualifications.degrees[].equivalency_details",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -988,7 +988,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes",
     api: {
       param: "qualifications.gcses[].qualification_type",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1008,7 +1008,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes",
     api: {
       param: "qualifications.gcses[].grade",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1028,7 +1028,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes",
     api: {
       param: "qualifications.gcses[].award_year",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -1048,7 +1048,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes (if non-UK qualification)",
     api: {
       param: "qualifications.gcses[].awarding_body",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1066,7 +1066,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes (if non-UK qualification)",
     api: {
       param: "qualifications.gcses[].awarding_body",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1085,7 +1085,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     required: "Yes (if non-UK qualification)",
     api: {
       param: "qualifications.gcses[].equivalency_details",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -1120,7 +1120,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     required: "Yes",
     api: {
       param: "qualifications.gcses[].qualification_type",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1140,7 +1140,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     required: "Yes",
     api: {
       param: "qualifications.gcses[].grade",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1160,7 +1160,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     required: "Yes",
     api: {
       param: "qualifications.gcses[].award_year",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -1180,7 +1180,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     required: "Yes (if non-UK qualification)",
     api: {
       param: "qualifications.gcses[].awarding_body",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1198,7 +1198,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     required: "Yes (if non-UK qualification)",
     api: {
       param: "qualifications.gcses[].awarding_body",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1217,7 +1217,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
     required: "Yes (if non-UK qualification)",
     api: {
       param: "qualifications.gcses[].equivalency_details",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -1252,7 +1252,7 @@ This means this question is only required for candidates applying to a Primary c
     required: "Yes (if applying for a Primary course)",
     api: {
       param: "qualifications.gcses[].qualification_type",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1272,7 +1272,7 @@ This means this question is only required for candidates applying to a Primary c
     required: "Yes (if applying for a Primary course)",
     api: {
       param: "qualifications.gcses[].grade",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1293,7 +1293,7 @@ This means this question is only required for candidates applying to a Primary c
     required: "Yes (if applying for a Primary course)",
     api: {
       param: "qualifications.gcses[].award_year",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -1313,7 +1313,7 @@ This means this question is only required for candidates applying to a Primary c
     required: "Yes (if applying for a Primary course with non-UK qualification)",
     api: {
       param: "qualifications.gcses[].awarding_body",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1331,7 +1331,7 @@ This means this question is only required for candidates applying to a Primary c
     required: "Yes (if applying for a Primary course with non-UK qualification)",
     api: {
       param: "qualifications.gcses[].awarding_body",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1350,7 +1350,7 @@ This means this question is only required for candidates applying to a Primary c
     required: "Yes (if applying for a Primary course with non-UK qualification)",
     api: {
       param: "qualifications.gcses[].equivalency_details",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -1379,7 +1379,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "qualifications.other_qualifications[].qualification_type",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1397,7 +1397,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "qualifications.other_qualifications[].subject",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1415,7 +1415,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "qualifications.other_qualifications[].grade",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1433,7 +1433,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "qualifications.other_qualifications[].award_year",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Unknown"}]
@@ -1450,7 +1450,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "qualifications.other_qualifications[].institution_details",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1472,7 +1472,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No (removed from MVP)",
     api: {
     param: "qualifications.other_qualifications[].institution_details",
-    href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object"
+    href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1495,7 +1495,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "personal_statement",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -1516,7 +1516,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "Yes",
     api: {
       param: "personal_statement",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -1552,7 +1552,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "interview_preferences",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -1596,7 +1596,7 @@ Candidates can update their answers before submitting, but not after. If a refer
     required: "Yes",
     api: {
       param: "referees[].name",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -1614,7 +1614,7 @@ Candidates can update their answers before submitting, but not after. If a refer
     required: "Yes",
     api: {
       param: "referees[].email",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object>"
     },
     why: [{
       who: [{label: "Service", colour: "grey"}],
@@ -1639,7 +1639,7 @@ Candidates can update their answers before submitting, but not after. If a refer
     required: "Yes",
     api: {
       param: "referees[].relationship",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object>"
     },
     why: [{
       who: [{label: "Provider", colour: "purple"}],
@@ -1674,7 +1674,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     required: "No",
     api: {
       param: "further_information",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
@@ -1704,7 +1704,7 @@ Candidates can update their answers before submitting. We don’t ask these ques
     required: "No",
     api: {
       param: "hesa_itt_data.sex",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object>"
     },
     why: [{
       who: [{label: "HESA", colour: "turquoise"}],
@@ -1724,7 +1724,7 @@ Candidates can update their answers before submitting. We don’t ask these ques
     required: "No",
     api: {
       param: "hesa_itt_data.disability",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object>"
     },
     why: [{
       who: [{label: "HESA", colour: "turquoise"}],
@@ -1744,7 +1744,7 @@ Candidates can update their answers before submitting. We don’t ask these ques
     required: "No",
     api: {
       param: "hesa_itt_data.ethnicity",
-      href: "https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object"
+      href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object>"
     },
     why: [{
       who: [{label: "HESA", colour: "turquoise"}],

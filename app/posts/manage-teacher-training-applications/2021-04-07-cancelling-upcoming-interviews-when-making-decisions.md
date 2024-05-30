@@ -97,7 +97,7 @@ Contact Florene Mayert Academy if you have any questions.
 
 You can chat to a Get Into Teaching adviser online for help and advice:
 
-https://beta-getintoteaching.education.gov.uk/#talk-to-us
+<https://beta-getintoteaching.education.gov.uk/#talk-to-us>
 
 You can also call for free on 0800 389 2501, Monday to Friday, 8.30am to 5pm (except public holidays)."
 }) }}
@@ -129,7 +129,7 @@ As usual, users will be notified about applications that have been withdrawn. We
 
 Kelsi Sawayn has withdrawn their application for Creative Arts (62CV).
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8729
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8729>
 
 The upcoming interview with them has been cancelled.
 
@@ -137,13 +137,13 @@ The upcoming interview with them has been cancelled.
 
 For an overview of Manage teacher training applications, see our Service guidance.
 
-You can also contact us at becomingateacher@digital.education.gov.uk.
+You can also contact us at <becomingateacher@digital.education.gov.uk>.
 
 # Change your email notification settings
 
 You can turn off email notifications if you do not want to be told when application statuses change:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings>"
 }) }}
 
 ## Future considerations

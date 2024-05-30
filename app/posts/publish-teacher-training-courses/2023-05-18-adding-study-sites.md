@@ -45,7 +45,7 @@ On a course page on Find postgraduate teacher training (Find), we show a list of
 
 We found that:
 
--  it was important for candidates to know where they will do the theoretical part of their studies to make a more informed choice about what course to apply for
+- it was important for candidates to know where they will do the theoretical part of their studies to make a more informed choice about what course to apply for
 - providers have more than one ‘Study site’ per course
 
 ## What we changed

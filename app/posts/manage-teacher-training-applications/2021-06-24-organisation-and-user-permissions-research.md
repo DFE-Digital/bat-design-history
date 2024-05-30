@@ -182,7 +182,7 @@ Either you or these partner organisations must set up organisation permissions b
 
 You’ll be asked to set up organisation permissions when you sign in:
 
-https://manage-applications-beta.herokuapp.com/onboard/
+<https://manage-applications-beta.herokuapp.com/onboard/>
 
 # Get help, give feedback or report a problem
 

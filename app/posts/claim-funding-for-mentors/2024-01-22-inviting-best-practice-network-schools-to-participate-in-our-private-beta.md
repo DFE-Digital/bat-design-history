@@ -60,7 +60,6 @@ We’d really like to hear your feedback once you start using the service. Pleas
 Kind regards,
 General Mentor Grant Funding Team
 
-
 # Further background on the general mentor grant
 
 The [Government Response to the ITT Market Review](https://www.gov.uk/government/consultations/initial-teacher-training-itt-market-review) outlined that all mentors will need to undertake mentor training with an accredited ITT training provider.

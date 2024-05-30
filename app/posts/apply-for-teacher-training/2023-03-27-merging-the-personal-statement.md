@@ -29,9 +29,7 @@ We wanted to test whether our new guidance aligned with what candidates expect t
 
 We also wanted to learn more about how candidates would approach writing a personal statement, and what worries candidates about doing so. This will help determine what support we can give potential candidates in writing their personal statement.
 
-
 ‘Personal statement’ is one of the highest reasons for rejection used by providers. 20% of all application rejections this cycle have 'personal statement' marked as a reason for rejection. In merging the personal statement sections into one, there was scope for us to refine our guidance to help candidates improve the quality of their personal statement.
-
 
 ## What we did
 
@@ -53,7 +51,6 @@ We kept in the link to the teacher training advisers sign-up page, as candidates
 
 ![Screenshot with the heading ‘Personal Statement’, followed by content saying the user should write between 500 and 1000 words for their personal statement. The content also gives the user some examples they could write about, including skills and experience with young people they have, subject interest, their understanding of why teaching is important, their reasons for wanting to train to teach, and activities that could be relevant to teaching. The content below tells the user they can speak to a Teacher Training adviser for one-on-one support and provides a link. The screen then has a large empty text box and tells the user that they have 1000 words remaining underneath the text box.](merged-personal-statement.png)
 
-
 ### Releasing this change mid-cycle
 
 Because we released this change in the middle of a recruitment cycle, we didn't want it to disrupt any candidates who were midway through writing a personal statement using the previous 2 sections.
@@ -63,7 +60,6 @@ If a candidate is unsuccessful with an application that used 2 personal statemen
 - mark the section as incomplete
 - copy the previous 2 answers into the new single personal statement section, separated by a paragraph break
 - show some content to explain what’s changed
-
 
 ## What we learnt in research
 
@@ -91,9 +87,7 @@ We iterated the our initial design to:
 - include clarity around not having to address every bullet point – all users felt they would have to write something for every bullet point, which would make it harder for those who don’t have certain experiences or courses in knowing what to write.
 - include a word count range of 500 to 1000
 
-
 Candidates were comfortable with a single-style personal statement, as this meets their expectations for standard applications. Candidates see the personal statement as their chance to show their unique suitability to be a teacher, and so want to write about and prioritise different things.
-
 
 ## Further considerations
 

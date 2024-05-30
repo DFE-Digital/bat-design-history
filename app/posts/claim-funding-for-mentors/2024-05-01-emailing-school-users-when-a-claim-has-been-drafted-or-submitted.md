@@ -26,11 +26,11 @@ Your claim reference is ((reference)).
 
 You can view your claim on Claim funding for mentor training:
 
-https://claim-funding-for-mentor-training.education.gov.uk/sign-in
+<https://claim-funding-for-mentor-training.education.gov.uk/sign-in>
 
 # Give feedback or report a problem
 
-If you have any questions or feedback, please contact the team at ittmentor.funding@digital.education.gov.uk.
+If you have any questions or feedback, please contact the team at <ittmentor.funding@digital.education.gov.uk>.
 
 Regards
 Claim funding for mentor training team
@@ -54,11 +54,11 @@ Your claim reference is ((reference)).
 
 You can view the claim, edit and submit it on Claim funding for mentor training:
 
-https://claim-funding-for-mentor-training.education.gov.uk/sign-in
+<https://claim-funding-for-mentor-training.education.gov.uk/sign-in>
 
 # Give feedback or report a problem
 
-If you have any questions or feedback, please contact the team at ittmentor.funding@digital.education.gov.uk.
+If you have any questions or feedback, please contact the team at <ittmentor.funding@digital.education.gov.uk>.
 
 Regards
 Claim funding for mentor training team

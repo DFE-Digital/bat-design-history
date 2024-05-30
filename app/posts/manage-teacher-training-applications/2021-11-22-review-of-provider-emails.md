@@ -92,7 +92,7 @@ Peter Parker has submitted an application for English Literature (XB55).
 
 View the application:
 
-https://www.service.com/applications/12345
+<https://www.service.com/applications/12345>
 
 ..."
 }) }}
@@ -111,7 +111,7 @@ Peter Parker has submitted an application for English Literature (XB55).
 
 Sign in to view the application:
 
-https://www.service.com/applications/12345
+<https://www.service.com/applications/12345>
 
 ..."
 }) }}
@@ -134,7 +134,7 @@ The application will be automatically rejected after 40 working days, on 21 Janu
 
 View the application:
 
-https://www.service.com/applications/12345
+<https://www.service.com/applications/12345>
 
 # Get help
 
@@ -151,7 +151,7 @@ Peter Parker has submitted an application for English Literature (XB55).
 
 View the application:
 
-https://www.service.com/applications/12345
+<https://www.service.com/applications/12345>
 
 The application will be automatically rejected after 40 working days, on 21 January 2022.
 

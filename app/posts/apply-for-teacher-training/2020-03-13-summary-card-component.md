@@ -19,11 +19,11 @@ Throughout the service we ask candidates to enter multiple items of information 
 
 We tried to display this information using existing components, but uncovered a number of different issues:
 
-* Repeating the summary list component many times over on a page, separated only by headings and rules, made it difficult to identify individual entries. This problem was even more noticable when reviewing an entire application because there were additional heading levels.
+- Repeating the summary list component many times over on a page, separated only by headings and rules, made it difficult to identify individual entries. This problem was even more noticable when reviewing an entire application because there were additional heading levels.
 
-* We tried to display individual entries in a table, but given the amount of information needing to be shown, this soon became constraining; information was inaccessible and poorly labelled, and it didn’t work well on mobile.
+- We tried to display individual entries in a table, but given the amount of information needing to be shown, this soon became constraining; information was inaccessible and poorly labelled, and it didn’t work well on mobile.
 
-* It also proved difficult to associate actions with individual summary lists, further decreasing the overall clarity of a page.
+- It also proved difficult to associate actions with individual summary lists, further decreasing the overall clarity of a page.
 
 We needed a component that would help users clearly identify different summaries, and perform associated actions on each. The summary card component allows us to do this.
 

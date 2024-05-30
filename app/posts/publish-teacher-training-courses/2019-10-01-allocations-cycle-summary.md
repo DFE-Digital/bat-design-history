@@ -87,7 +87,7 @@ For ITT2020, lead schools should submit their requests for School Direct and Pos
 
 Please remember that for PGTA courses the accredited ITT provider must be on the [Register of Apprenticeship Training Providers (RoATP)](https://roatp.apprenticeships.education.gov.uk/download).
 
-For further enquiries, please contact the [ITT Recruitment & Allocations Team](mailto:ITT.allocations@education.gov.uk) at ITT.allocations@education.gov.uk.
+For further enquiries, please contact the [ITT Recruitment & Allocations Team](mailto:ITT.allocations@education.gov.uk) at <ITT.allocations@education.gov.uk>.
 
 Kind regards
 
@@ -113,11 +113,11 @@ Dear Colleague
 All ITT providers and lead schools should complete the actions listed below before midday on 12 July in order to request places for ITT2020. You must request permission to recruit so that your courses can be listed as open for recruitment on ‘Find postgraduate teacher training’ and UCAS, and to access any DfE funding associated with training places.
 
 - **Lead school registration:** All lead schools (new and existing) **must** register as a lead school by returning the attached registration template to [ITT.allocations@education.gov.uk](mailto:ITT.allocations@education.gov.uk)
-- **ITT requests:** All ITT providers and lead schools should enter information on the courses they wish to deliver using the templates provided. These must be submitted to DfE by ITT providers to confirm that all courses have been ratified. DfE will not accept templates directly from lead schools. Providers should email ITT.allocations@education.gov.uk
+- **ITT requests:** All ITT providers and lead schools should enter information on the courses they wish to deliver using the templates provided. These must be submitted to DfE by ITT providers to confirm that all courses have been ratified. DfE will not accept templates directly from lead schools. Providers should email <ITT.allocations@education.gov.uk>
 
 As the process for requesting permission to recruit to ITT courses is different this year, all providers and lead schools should refer to the [Requesting initial teacher training places](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fgovernment%2Fuploads%2Fsystem%2Fuploads%2Fattachment_data%2Ffile%2F811725%2FRequesting_ITT_places_2020_to_2021.pdf&data=02%7C01%7Cl.george100%40durhamlearning.net%7Ce50fece0d1814dbbe9ee08d7038b8bf7%7C45dfff5283644d73bf3a8f98bdf10d87%7C0%7C1%7C636981770336567802&sdata=zC2l04aaHNQXPqDBf9b%2F1FGPYf3e17x5WJFEer6iB48%3D&reserved=0) document for full guidance. Please contact us if you have further enquiries or if you have not received a template at [ITT Recruitment & Allocations Team](mailto:ITT.allocations@education.gov.uk).
 
-For further enquiries, please contact the [ITT Recruitment & Allocations Team](mailto:ITT.allocations@education.gov.uk) at ITT.allocations@education.gov.uk.
+For further enquiries, please contact the [ITT Recruitment & Allocations Team](mailto:ITT.allocations@education.gov.uk) at <ITT.allocations@education.gov.uk>.
 
 Kind regards
 

@@ -64,7 +64,6 @@ This spreadsheet of [Early years undergraduate by ‘Highest qualification on en
   ]
 }) }}
 
-
 Of the 58 records:
 
 {{ govukTable({

@@ -76,7 +76,6 @@ We asked for feedback regarding placement data. Most responses said the process 
 
 We plan to hold a retro after the performance profile deadline of 31 January 2024.
 
-
 *[ITT]: initial teacher training
 *[URN]: unique reference number
 *[BAT]: Becoming a teacher

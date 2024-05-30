@@ -58,7 +58,6 @@ The warning text content is:
 > The upcoming interview will be updated with the new course details.
 > The candidate will be sent emails to tell them that the course and the upcoming interview have been updated.
 
-
 If the only changes are to the training location or whether the course is full time or part time, the warning text content is:
 
 >The candidate will be sent an email to tell them that the course has been updated.

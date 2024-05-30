@@ -44,13 +44,13 @@ Dear colleague,
 
 When the training partner adds you as the accredited body for their courses, you’ll be able to view courses in ‘Training partners’ in your account.
 
-Sign in at https://www.publish-teacher-training-courses.service.gov.uk.
+Sign in at <https://www.publish-teacher-training-courses.service.gov.uk>.
 
 If you have any questions, contact ((provider_name)).
 
 # Get help
 
-Get help, report a problem or give feedback at becomingateacher@digital.education.gov.uk
+Get help, report a problem or give feedback at <becomingateacher@digital.education.gov.uk>
 
 The Becoming a Teacher team
 
@@ -69,13 +69,13 @@ Dear colleague,
 
 ((provider_name)) has changed your permissions for their courses.
 
-To see which permissions have been added, updated or removed, sign in at https://www.publish-teacher-training-courses.service.gov.uk and go to ‘Training partners’.
+To see which permissions have been added, updated or removed, sign in at <https://www.publish-teacher-training-courses.service.gov.uk> and go to ‘Training partners’.
 
 If you have any questions, contact ((provider_name)).
 
 # Get help
 
-Get help, report a problem or give feedback at becomingateacher@digital.education.gov.uk
+Get help, report a problem or give feedback at <becomingateacher@digital.education.gov.uk>
 
 The Becoming a Teacher team
 
@@ -102,13 +102,12 @@ If you have any questions, contact ((provider_name)).
 
 # Get help
 
-Get help, report a problem or give feedback at becomingateacher@digital.education.gov.uk
+Get help, report a problem or give feedback at <becomingateacher@digital.education.gov.uk>
 
 The Becoming a Teacher team
 
   "
 }) }}
-
 
 ## Further considerations
 

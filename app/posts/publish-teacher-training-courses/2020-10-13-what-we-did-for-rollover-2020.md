@@ -104,7 +104,7 @@ You will still be able to view and edit your current courses after rollover. Whe
 
 We’ll be in touch again in July to let you know that rollover has been completed and you can now view, edit and publish your courses for 2021 – 2022. In September, we’ll contact you with a specific date for when the new cycle will open.
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at becomingateacher@digital.education.gov.uk.
+If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at <becomingateacher@digital.education.gov.uk>.
 
 Regards,
 Becoming a Teacher team"
@@ -154,7 +154,7 @@ Note that, if you’re an accredited body and you’ve signed up for email notif
 
 We’ll contact you again in September, to remind you to get your courses ready for the new cycle and to give you further information about when the cycle is due to open.
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at becomingateacher@digital.education.gov.uk.
+If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at <becomingateacher@digital.education.gov.uk>.
 
 Regards,
 Becoming a Teacher team"
@@ -182,7 +182,7 @@ Remember to Publish your courses before 6 October, after checking that they are 
 
 Applications will open on 13 October 2020. If you had set an ‘Applications open’ date before this date, it will be changed to 13 October.
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at becomingateacher@digital.education.gov.uk.
+If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at <becomingateacher@digital.education.gov.uk>.
 
 Regards,
 Becoming a Teacher team"
@@ -206,7 +206,7 @@ If you’ve already published your 2021 to 2022 courses, you should check them i
 
 You can still edit published courses. Once you’ve made your changes, save them, and then press ‘Publish in October’.
 
-If you have any questions, or need any help in adding your content, please contact us at becomingateacher@digital.education.gov.uk. If anyone else in your organisation needs to be aware of this email, please forward it to them.
+If you have any questions, or need any help in adding your content, please contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 Becoming a Teacher team"
@@ -234,21 +234,21 @@ We encountered a number of issues relating to error validation in this testing. 
 
 A spike which lasted at least 7 days.
 
-https://github.com/DFE-Digital/find-teacher-training/pull/386
-https://github.com/DFE-Digital/publish-teacher-training/pull/1304
-https://github.com/DFE-Digital/teacher-training-api/pull/1520
+<https://github.com/DFE-Digital/find-teacher-training/pull/386>
+<https://github.com/DFE-Digital/publish-teacher-training/pull/1304>
+<https://github.com/DFE-Digital/teacher-training-api/pull/1520>
 
 ### After rollover
 
 Rollover settings.
 
-https://github.com/DFE-Digital/find-teacher-training/pull/461
-https://github.com/DFE-Digital/publish-teacher-training/pull/1384
-https://github.com/DFE-Digital/teacher-training-api/pull/1586
+<https://github.com/DFE-Digital/find-teacher-training/pull/461>
+<https://github.com/DFE-Digital/publish-teacher-training/pull/1384>
+<https://github.com/DFE-Digital/teacher-training-api/pull/1586>
 
 Course opening dates were updated on Find and Apply.
 
-https://github.com/DFE-Digital/find-teacher-training/pull/462
+<https://github.com/DFE-Digital/find-teacher-training/pull/462>
 
 ## Design and product updates
 
@@ -256,20 +256,20 @@ https://github.com/DFE-Digital/find-teacher-training/pull/462
 
 Financial incentives had not been confirmed during the transition from the old cycle to new cycle so we introduced placeholder UI.
 
-https://github.com/DFE-Digital/publish-teacher-training/pull/1352
-https://github.com/DFE-Digital/publish-teacher-training/pull/1387
-https://github.com/DFE-Digital/find-teacher-training/pull/464
+<https://github.com/DFE-Digital/publish-teacher-training/pull/1352>
+<https://github.com/DFE-Digital/publish-teacher-training/pull/1387>
+<https://github.com/DFE-Digital/find-teacher-training/pull/464>
 
 Financial incentive for most courses were then removed.
 
-https://github.com/DFE-Digital/teacher-training-api/pull/1589
+<https://github.com/DFE-Digital/teacher-training-api/pull/1589>
 
 ### Course fees
 
 We [uncoupled EU from UK course fees](/publish-teacher-training-courses/uncoupling-UK-and-EU-course-fees/).
 
-https://github.com/DFE-Digital/publish-teacher-training/pull/1374
-https://github.com/DFE-Digital/find-teacher-training/pull/458
+<https://github.com/DFE-Digital/publish-teacher-training/pull/1374>
+<https://github.com/DFE-Digital/find-teacher-training/pull/458>
 
 ### Age range
 
@@ -320,7 +320,7 @@ The [allocations process](/publish-teacher-training-courses/request-pe-courses/)
 
 We launched an [interruption screen](https://qa.publish-teacher-training-courses.service.gov.uk/rollover-recruitment) to communicate changes to recruitment policy. Users saw this on their first visit in the new cycle.
 
-https://github.com/DFE-Digital/publish-teacher-training/pull/1376
+<https://github.com/DFE-Digital/publish-teacher-training/pull/1376>
 
 ![A page containing guidence about recruiting for next cycle.](interstitial-screen.png)
 
@@ -342,7 +342,7 @@ We’ve noticed that you have a fee-funded PE course on Publish for 2021 to 2022
 
 We are unable to permit the publishing of this course when the new cycle opens on 6 October. We will revert the course to an unpublished state on Publish, which will still be available to view. You do not need to take any action.
 
-The window has now closed to request permission, but if you have any questions, contact us at becomingateacher@digital.education.gov.uk. If anyone else in your organisation needs to be aware of this email, please forward it to them.
+The window has now closed to request permission, but if you have any questions, contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 Becoming a Teacher team"
@@ -360,7 +360,7 @@ We’ve noticed that you have a fee-funded PE course on Publish for 2021 to 2022
 
 We are unable to permit the publishing of this course, so will withdraw it on Publish. It will still be available for you to view. You do not need to take any action.
 
-The window has now closed to request permission, but if you have any questions, contact us at becomingateacher@digital.education.gov.uk. If anyone else in your organisation needs to be aware of this email, please forward it to them.
+The window has now closed to request permission, but if you have any questions, contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 Becoming a Teacher team"

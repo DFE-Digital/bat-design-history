@@ -87,7 +87,7 @@ If you need help getting a place on a course, contact Get Into Teaching (8:30am 
 
 <https://getintoteaching.education.gov.uk/lp/live-chat>
 
-Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+Contact <becomingateacher@digital.education.gov.uk> if you have problems applying online or want to give feedback.
 {% endset %}
 
 {{ appEmail({
@@ -132,7 +132,7 @@ You can wait until you’ve received both decisions before you respond. Alternat
 
 # Get support
 
-Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+Contact <becomingateacher@digital.education.gov.uk> if you have problems applying online or want to give feedback.
 {% endset %}
 
 {{ appEmail({
@@ -184,7 +184,7 @@ They should make their decisions by ((date)).
 
 ## Get support
 
-Contact becomingateacher@digital.education.gov.uk if you have problems applying online or want to give feedback.
+Contact <becomingateacher@digital.education.gov.uk> if you have problems applying online or want to give feedback.
 {% endset %}
 
 {{ appEmail({

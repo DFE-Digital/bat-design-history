@@ -151,7 +151,7 @@ An email address is required. If the support user does not enter an email addres
 
 The email address must be valid. If the support user does not enter a valid email address, we show the error:
 
-> Enter an email address in the correct format, like name@example.com
+> Enter an email address in the correct format, like <name@example.com>
 
 The email address must be unique to the organisation. If the support user enters an email address that is already in use by another user, we show the error:
 

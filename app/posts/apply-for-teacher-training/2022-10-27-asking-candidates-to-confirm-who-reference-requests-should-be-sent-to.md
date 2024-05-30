@@ -61,7 +61,6 @@ For an offer with conditions, this page also says “They’ll confirm your plac
 
 ![Screenshot showing page with the heading ‘Confirm your reference details and accept your offer’. The text under this expplains that the candidate can change the reference details before sending reference requests. There's a button to add details for another reference. Under that is a box for the details of each reference request, including name, type, email and how long the candidate has known them and for how long. There's a link to delete each set of details and links to change the individual details. At the bottom is a green button which says ‘Accept offer’.](confirm-reference-details.png)
 
-
 We added a page with the h1 heading ‘Confirm your reference details and accept your offer’. It is very similar to the page used to [add reference details before submitting an application](/asking-candidates-for-reference-details-when-they-apply).
 
 The page shows the details which the candidate submitted as part of their application. For each person who can give a reference, the page shows:
@@ -192,7 +191,7 @@ Contact ((provider)) to find out if they’ll allow you to defer your offer. Ask
 
 Call 0800 389 2500 or [chat online]
 
-https://getintoteaching.education.gov.uk/#talk-to-us
+<https://getintoteaching.education.gov.uk/#talk-to-us>
 
 Monday to Friday, 8:30am to 5:30pm (except public holidays).
   "

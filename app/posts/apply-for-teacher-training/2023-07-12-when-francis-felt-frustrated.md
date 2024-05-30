@@ -70,7 +70,7 @@ Francis says “Yes” to the SKE course in the interview but feels under pressu
 
 Fresh Teacher Training makes Francis an offer to train to teach with them!  
 
-The offer comes with the condition that Francis does a 12-week SKE course before her training. 
+The offer comes with the condition that Francis does a 12-week SKE course before her training.
 
 12 weeks is all the time left before Francis starts her teacher training.
 

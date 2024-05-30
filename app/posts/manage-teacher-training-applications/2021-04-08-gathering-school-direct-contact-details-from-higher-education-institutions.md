@@ -58,7 +58,7 @@ There’s space for you to add the name and email address of your main contact a
 
 You can either:
 
-- [download the spreadsheet as a CSV file](#), fill it in and return it to providercontacts@digital.education.gov.uk
+- [download the spreadsheet as a CSV file](#), fill it in and return it to <providercontacts@digital.education.gov.uk>
 - fill in an online [Google Sheets version](#) of the same spreadsheet
 
 The spreadsheet may indicate that you do not need to give contact details for some partners. This is because they already have accounts.
@@ -73,7 +73,7 @@ The courses you accredit will be made available for applications through GOV.​
 
 Contact your relationship manager at the Department for Education if you need help.
 
-You can also contact the support team at becomingateacher@digital.education.gov.uk.
+You can also contact the support team at <becomingateacher@digital.education.gov.uk>.
 
  "
 }) }}

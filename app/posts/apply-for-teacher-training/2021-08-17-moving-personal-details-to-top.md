@@ -8,7 +8,6 @@ tags:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 
-
 Previously, the Courses section was at the top of the application. This was to help direct candidates to the right site to complete their application. Some courses were on UCAS and others were on Apply for teacher training.
 
 For the 2022 to 2023 cycle, candidates will need to apply for all courses on Apply.

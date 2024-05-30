@@ -52,7 +52,7 @@ View the course at ((course_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team
@@ -80,7 +80,7 @@ View the course at ((course_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team
@@ -105,7 +105,7 @@ View the course at ((publish_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team
@@ -132,7 +132,7 @@ You can view the withdrawn course in Publish at ((course url)).
 
 If you have any questions about this change, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team
@@ -157,7 +157,7 @@ View the course at ((course_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team
@@ -182,7 +182,7 @@ View the course at ((course_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team

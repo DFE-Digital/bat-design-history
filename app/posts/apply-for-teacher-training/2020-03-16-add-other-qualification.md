@@ -33,8 +33,8 @@ Finally, to make it easier for candidates to enter multiple qualifications (and 
 
 ## Hypotheses
 
-* If we ask candidates to choose from a range of common qualification types
+- If we ask candidates to choose from a range of common qualification types
   Then they will have a better idea of what qualifications they should enter.
 
-* If we ask candidates if they want to add another qualification
+- If we ask candidates if they want to add another qualification
   Then they will enter multiple qualifications.

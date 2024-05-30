@@ -41,7 +41,7 @@ Dear (( first_name)),
 
 You now have access to Publish teacher training courses. Use Publish to upload content to Find postgraduate teacher training, DfE’s search service for future teachers.
 
-We recommend that you bookmark the sign-in page at https://www.publish-teacher-training-courses.service.gov.uk, so you can easily return to it.
+We recommend that you bookmark the sign-in page at <https://www.publish-teacher-training-courses.service.gov.uk>, so you can easily return to it.
 
 When you’re signed in you can:
 
@@ -53,22 +53,20 @@ When you’ve finished adding information, you’ll be able to publish your cour
 
 # Get help
 
-Get help, report a problem or give feedback at becomingateacher@digital.education.gov.uk
+Get help, report a problem or give feedback at <becomingateacher@digital.education.gov.uk>
 
 The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
-
 
 ## Future considerations
 
 We plan to update the [How to publish teacher training courses](https://www.publish-teacher-training-courses.service.gov.uk/guidance) page (currently linked to from the footer in Publish).
 
 Once this is done, it may be useful to link to the new page from the welcome email.
-
 
 <!-- markdownlint-enable MD001 MD025 -->

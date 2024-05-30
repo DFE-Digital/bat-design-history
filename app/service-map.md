@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teacher services map
-description: How the ‘becoming a teacher’  services relate to other services in the teaching journey
+description: How the ‘Becoming a teacher’ services relate to other services in the teaching journey
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -9,15 +9,14 @@ eleventyComputed:
     parent: home
 ogImage:
   src: thumbnail.png
-  alt: "Diagram showing boxes representing teacher services, arranged on a horizontal axis with the labels 'Consider', 'Become', 'Start teaching', 'Develop' and 'Leave'"
+  alt: Diagram showing boxes representing teacher services, arranged on a horizontal axis with the labels ‘Consider’, ‘Become’, ‘Start teaching’, ‘Develop’ and ‘Leave’
 ---
 
-The 'becoming a teacher' services are part of a broader range of digital services which encompass the whole teaching journey, from initial interest through to retirement.
+The ‘Becoming a teacher’ services are part of a broader range of digital services encompassing the whole teaching journey, from initial interest to retirement.
 
 <img src="service-map.png" alt="Diagram showing a list of services arranged into 5 columns with the headings: consider teaching, become a teacher, start teaching, develop your practice and leave teaching. Full list of services below.">
 
-[Download service map as PDF (100kb)](service-map.pdf)
-
+[Download service map as PDF (100KB)](service-map.pdf)
 
 {% set services = {
   "considerTeaching": {
@@ -181,7 +180,6 @@ The 'becoming a teacher' services are part of a broader range of digital service
   }
 } %}
 
-
 {% macro serviceList(params) %}
   <p class="govuk-body-s">For teachers:</p>
   <ul class="govuk-list govuk-list--bullet govuk-!-font-size-16">
@@ -216,23 +214,23 @@ The 'becoming a teacher' services are part of a broader range of digital service
 <div class="govuk-grid-row">
   <div class="app-grid-column-one-fifth">
   <h3 class="govuk-heading-s">Consider teaching</h3>
-  {{ serviceList({phase: "considerTeaching"}) }}
+  {{ serviceList({ phase: "considerTeaching" }) }}
   </div>
   <div class="app-grid-column-one-fifth">
   <h3 class="govuk-heading-s">Become a teacher</h3>
-  {{ serviceList({phase: "becomeATeacher"}) }}
+  {{ serviceList({ phase: "becomeATeacher" }) }}
   </div>
   <div class="app-grid-column-one-fifth">
   <h3 class="govuk-heading-s">Start teaching</h3>
-  {{ serviceList({phase: "startTeaching"}) }}
+  {{ serviceList({ phase: "startTeaching" }) }}
   </div>
   <div class="app-grid-column-one-fifth">
   <h3 class="govuk-heading-s">Develop your practice</h3>
-  {{ serviceList({phase: "developYourPractice"}) }}
+  {{ serviceList({ phase: "developYourPractice" }) }}
   </div>
   <div class="app-grid-column-one-fifth">
   <h3 class="govuk-heading-s">Leave teaching</h3>
-  {{ serviceList({phase: "leaveTeaching"}) }}
+  {{ serviceList({ phase: "leaveTeaching" }) }}
   </div>
 </div>
 

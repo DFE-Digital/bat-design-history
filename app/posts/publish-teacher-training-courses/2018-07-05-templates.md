@@ -168,7 +168,7 @@ We saw 2 users misunderstand templates, they created subject specific course tem
 
 There’s some concept of a template in the tool provided by UCAS. Users can select a training programme from which they can copy fields. Though once a copy has been made no subsequent edits are updated – users must resort to copy and paste again.
 
-[UCAS documentation for ‘Entry profiles’](https://www.ucas.com/file/115116/download?token=Du-edwFy
+[UCAS documentation for ‘Entry profiles’](<https://www.ucas.com/file/115116/download?token=Du-edwFy>
 
 *[PGCE]: Postgraduate certificate in education
 *[PGDE]: Postgraduate diploma in education

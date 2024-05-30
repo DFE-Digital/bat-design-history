@@ -25,7 +25,7 @@ In the new process, candidates can receive an outcome on one application, and im
 
 The design for this involved splitting the application into 2 sections, these were:
 
-- ‘Your details’ – where candidates would add things like their name, address, GCSEs, degree and work history 
+- ‘Your details’ – where candidates would add things like their name, address, GCSEs, degree and work history
 - ‘Your applications’ – where candidates would add their applications by choosing a training provider and course
 
 The issue was that we were not sure if the personal statement belonged in ‘Your details’ or ‘Your applications’.

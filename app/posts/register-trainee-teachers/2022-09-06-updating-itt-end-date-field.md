@@ -40,7 +40,6 @@ For HESA trainees, HESA previously didn’t collect an end date - they only coll
 ![A screenshot of the course itt dates form, showing two sets of date inputs. The first is 'ITT start date', and the second is 'Estimated end date'.](2.publish-course-dates-form.png)
 ![A screenshot of a summary card showing completed course details. The last row shows 'expected end date'.](3.course-details-summary-card.png)
 
-
 ### Asking for updated estimated date when reinstating
 
 ![Screenshot of a page titled 'What is the expected end date for their course?' with a date input.](4.updating-estimated-end-date-after-deferral.png)

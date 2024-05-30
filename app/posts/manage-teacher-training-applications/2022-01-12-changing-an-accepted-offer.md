@@ -23,5 +23,4 @@ We have put a message on the offer page to tell users how to change an offer aft
 
 When the application status is ‘Conditions pending’ or ‘Recruited’ we show inset text that says:
 
-> To change this offer, send proof that the candidate agrees and details of the changes to becomingateacher@digital.education.gov.uk.
-
+> To change this offer, send proof that the candidate agrees and details of the changes to <becomingateacher@digital.education.gov.uk>.

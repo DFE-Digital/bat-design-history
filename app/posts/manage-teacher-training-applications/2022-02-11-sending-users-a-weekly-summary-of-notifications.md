@@ -98,7 +98,7 @@ Get help, report a problem or give feedback at [becomingateacher@digital.educati
 
 You can change your email notification settings:
 
-https://manage-applications-beta.herokuapp.com/account/notifications
+<https://manage-applications-beta.herokuapp.com/account/notifications>
   "
 }) }}
 

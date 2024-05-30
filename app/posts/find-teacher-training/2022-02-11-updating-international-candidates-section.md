@@ -32,7 +32,6 @@ We have also updated the content to:
 - mention other visa types which do not need sponsorship, such as Graduate and Family visas
 - link to GOV.UK guidance about [training to teach in England if you’re a non-UK citizen](https://www.gov.uk/government/publications/train-to-teach-in-england-non-uk-applicants/train-to-teach-in-england-if-youre-a-non-uk-citizen)
 
-
 We also add the following caveat when indicating that visa sponsorship is available:
 
 > Before you apply for this course, contact us to check [visa type] visa sponsorship is available.

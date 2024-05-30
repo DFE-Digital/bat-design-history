@@ -100,7 +100,7 @@ There will be some changes to how courses can be advertised:
 
 - the term “Early Years” will not be permitted in course titles, since Early Years Teacher Status is not awarded for any courses on Find. Courses can instead include the age range in the title – for example, Primary (3 to 7)
 
-From the start of next cycle, Apply for teacher training will replace UCAS Teacher Training and will be the only service for applying to postgraduate ITT applications in England. If you need additional support preparing for Apply, please email becomingateacher@digital.education.gov.uk
+From the start of next cycle, Apply for teacher training will replace UCAS Teacher Training and will be the only service for applying to postgraduate ITT applications in England. If you need additional support preparing for Apply, please email <becomingateacher@digital.education.gov.uk>
 
 # Do I need to request permission for any courses?
 
@@ -114,7 +114,7 @@ You’ll still be able to view and edit your current courses after rollover. Whe
 
 We’ll be in touch again in July to let you know that rollover has been completed and you can now view, edit and publish your courses for 2022 to 2023.
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at becomingateacher@digital.education.gov.uk.
+If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at <becomingateacher@digital.education.gov.uk>.
 
 Regards,
 
@@ -122,7 +122,6 @@ Becoming a Teacher team
 
 "
 }) }}
-
 
 ### During rollover
 
@@ -140,7 +139,7 @@ Courses for the 2022 to 2023 academic year will be published on Find postgraduat
 
 If you have not already done so, you should start getting your courses ready.
 
-In July we copied your 2021 to 2022 courses in preparation for 2022 to 2023. You can view, edit and publish your courses in time for October in Publish teacher training courses at https://www.publish-teacher-training-courses.service.gov.uk/.
+In July we copied your 2021 to 2022 courses in preparation for 2022 to 2023. You can view, edit and publish your courses in time for October in Publish teacher training courses at <https://www.publish-teacher-training-courses.service.gov.uk/>.
 
 # Review your courses
 
@@ -171,7 +170,7 @@ Once you’ve reviewed your courses, use the ‘Publish in October’ button to 
 
 Your courses will appear on Find in October, when the new recruitment cycle opens, replacing your current courses.
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, contact us at becomingateacher@digital.education.gov.uk.
+If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, contact us at <becomingateacher@digital.education.gov.uk>.
 
 Regards,
 
@@ -190,9 +189,9 @@ We sent another reminder one week before Find opened.
 
 Dear colleague,
 
-We’re writing to remind you that courses for the 2022 to 2023 academic year will be published on Find postgraduate teacher training on 5 October 2021, on https://www.gov.uk/find-postgraduate-teacher-training-courses
+We’re writing to remind you that courses for the 2022 to 2023 academic year will be published on Find postgraduate teacher training on 5 October 2021, on <https://www.gov.uk/find-postgraduate-teacher-training-courses>
 
-If you have not already done so, make sure you’ve checked and edited your courses for the 2022 to 2023 cycle in Publish teacher training courses, on https://www.publish-teacher-training-courses.service.gov.uk/
+If you have not already done so, make sure you’ve checked and edited your courses for the 2022 to 2023 cycle in Publish teacher training courses, on <https://www.publish-teacher-training-courses.service.gov.uk/>
 
 There’s one week left before the start of the new academic cycle. Make sure you publish them, so that they will be visible on Find from 5 October, for candidates to apply to from 12 October.
 
@@ -223,13 +222,13 @@ Once you’ve reviewed and edited your courses, you can line them up for publica
 
 To publish, click the green ‘Publish in October’ button (you can still make changes to your courses after doing this). Your courses will appear on Find in October, when the new recruitment cycle opens, replacing your current courses.
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at becomingateacher@digital.education.gov.uk
+If anyone else in your organisation needs to see this email, please forward it to them. If you have any questions, you can contact us at <becomingateacher@digital.education.gov.uk>
 
 # Provide us with some feedback
 
 We’re looking to improve our services so that they are easier to navigate and meet the needs of our users.
 
-If you’d like to provide feedback on the Publish teacher training courses service, email becomingateacher@digital.education.gov.uk to schedule some time to share your thoughts.
+If you’d like to provide feedback on the Publish teacher training courses service, email <becomingateacher@digital.education.gov.uk> to schedule some time to share your thoughts.
 
 Regards,
 Becoming a Teacher team
@@ -266,10 +265,9 @@ They will not be rolled over to 2023 to 2024 if you do not withdraw or publish t
 Rollover is when we copy all of your courses from one recruitment cycle to the next. You can then choose which ones you want to Publish for the next cycle.
 
 You can publish or withdraw your courses by logging into your Publish account:
-https://interactions.signin.education.gov.uk//31b1fd5d-8f4b-4b8a-95ab-36f32f40c8a3/usernamepassword?clientid=bats2&redirect_uri=https://www.publish-teacher-training-courses.service.gov.uk/auth/dfe/callback
+<https://interactions.signin.education.gov.uk//31b1fd5d-8f4b-4b8a-95ab-36f32f40c8a3/usernamepassword?clientid=bats2&redirect_uri=https://www.publish-teacher-training-courses.service.gov.uk/auth/dfe/callback>
 
-
-If you have any questions, contact us at becomingateacher@digital.education.gov.uk
+If you have any questions, contact us at <becomingateacher@digital.education.gov.uk>
 Regards,
 Becoming a Teacher team
 

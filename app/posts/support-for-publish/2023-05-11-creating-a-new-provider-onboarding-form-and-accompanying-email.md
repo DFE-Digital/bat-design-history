@@ -4,6 +4,7 @@ description: We made a Microsoft onboarding form and updated the content for the
 date: 2023-05-11
 tags:
   - onboarding
+  - emails
 ---
 
 {% from "email/macro.njk" import appEmail %}
@@ -41,7 +42,7 @@ When an organisation wants to onboard to Publish, the Support team will send the
   subject: "Add your organisation to Publish and Manage",
   content: "
 
-Hello (name),
+Hello ((name)),
 
 Publish teacher training courses is a service that gives initial teacher training providers a way to add courses and publish them to Find postgraduate teacher training. Candidates can then use Find to search for courses and apply to them.
 
@@ -55,7 +56,7 @@ Once we’ve added your organisation, you’ll receive an email to let you know.
 
 # Get help
 
-If you need help, contact us at becomingateacher@digital.education.gov.uk.
+If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 "
 }) }}
 

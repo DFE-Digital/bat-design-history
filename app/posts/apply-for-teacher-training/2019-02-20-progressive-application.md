@@ -20,7 +20,7 @@ A user flow where a candidate creates an application in bits as and when require
 
 ## Findings
 
-* Candidates reacted negatively to the progressive application
-* Even when the work experience and other qualificaiton sections were clearly marked and understood as optional, the candidates chose to fill in all parts of the application
-* Candidates felt a need to sell themselves more to the providers and hence needed more space to express themselves
-* Asking the mandatory data like Work Experience after the interview was illogical in the candidates perspective
+- Candidates reacted negatively to the progressive application
+- Even when the work experience and other qualificaiton sections were clearly marked and understood as optional, the candidates chose to fill in all parts of the application
+- Candidates felt a need to sell themselves more to the providers and hence needed more space to express themselves
+- Asking the mandatory data like Work Experience after the interview was illogical in the candidates perspective

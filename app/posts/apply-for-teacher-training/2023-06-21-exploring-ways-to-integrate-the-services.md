@@ -70,7 +70,6 @@ An idea to explore in future might be to link these services together, allowing 
 
 ![Screenshot showing a page listing GCSE and A level qualifications imported from the learner record](import-qualifications.png)
 
-
 This would also have the advantage of verifying these qualifications, so that providers do not have to ask for proof of them later, which currently involves candidates finding (or re-requesting) their original certificates.
 
 ## Messages
