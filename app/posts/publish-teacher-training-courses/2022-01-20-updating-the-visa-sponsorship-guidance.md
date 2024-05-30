@@ -21,7 +21,6 @@ Before becoming a sponsor, not all providers know:
 - if they are eligible to sponsor a Student visa or a Skilled Worker visa
 - if their accrediting body sponsors Student visas
 
-
 ## Types of visa available to candidates
 
 Depending on their circumstances and the course they’re applying for, candidates may be eligible for a:

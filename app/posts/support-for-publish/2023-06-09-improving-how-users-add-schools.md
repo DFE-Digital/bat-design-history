@@ -77,7 +77,6 @@ The final step is to check your answers before adding the school.
 
 Users can only add the same school once. If they try to add the location again, we display an error message when submitting the ‘Check your answers’ page.
 
-
 ## Data validation rules
 
 ### School name
@@ -115,7 +114,6 @@ If the user does not enter a postcode, we show the error message:
 If the user does not enter a valid postcode format, we show the error message:
 
 > Enter a real postcode
-
 
 *[GIAS]: Get Information about Schools
 *[URN]: Unique reference number

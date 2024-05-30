@@ -110,7 +110,7 @@ Email address is required. If the user does not enter an email address, we show 
 
 If the user does not enter a valid email address format, we show the error message:
 
-> Enter an email address in the correct format, like name@example.com
+> Enter an email address in the correct format, like <name@example.com>
 
 #### Telephone number
 
@@ -130,7 +130,7 @@ Website address is required. If the user does not enter a website address, we sh
 
 If the user does not enter a valid website address format, we show the error message:
 
-> Enter a website address in the correct format, like https://www.example.com
+> Enter a website address in the correct format, like <https://www.example.com>
 
 #### Contact address
 

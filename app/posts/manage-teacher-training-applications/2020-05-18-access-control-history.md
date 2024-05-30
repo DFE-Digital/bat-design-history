@@ -195,7 +195,7 @@ These diagrams show the organisational structures, but do not explain what diffe
 During research, we identified a candidate need to explain any criminal convictions:
 
 > **As a*- candidate
-> **I need to*- feel comfortable disclosing negative information about my past
+>**I need to*- feel comfortable disclosing negative information about my past
 > **So that*- I know whether it’s worth carrying on with my application
 
 [The questions we ask candidates](https://apply-beta-prototype.herokuapp.com/application/12345/suitability/)

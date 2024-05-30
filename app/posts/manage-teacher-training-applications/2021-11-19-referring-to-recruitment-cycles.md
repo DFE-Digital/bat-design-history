@@ -56,6 +56,3 @@ On the application details page we:
 - changed ‘2021 to 2022 (starts 2022)’ to ‘2021 to 2022’
 
 On the HESA export page we changed ‘2021 to 2022 (current)’ to ‘2021 to 2022 - current’.
-
-
-

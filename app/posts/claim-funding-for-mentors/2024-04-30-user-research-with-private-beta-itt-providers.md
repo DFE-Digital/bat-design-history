@@ -27,7 +27,6 @@ The process needs to be simple and not add too much administrative burden.
 
 Providers also need clarity on the process to provide evidence when a claim has been selected for post-payment auditing.
 
-
 ### Receiving claims data
 
 Providers are happy to receive claims data via a spreadsheet from DfE. Data required includes:

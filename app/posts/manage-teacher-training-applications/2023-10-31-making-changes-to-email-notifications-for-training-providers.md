@@ -35,7 +35,7 @@ Out of 28 provider emails, we were able to remove or disable 5 emails we did not
 
 ## Further considerations
 
-We identified some areas where we could implement new emails for providers. 
+We identified some areas where we could implement new emails for providers.
 
 A previous team had designed an email for providers that would give them a [weekly summary of all their applications](/manage-teacher-training-applications/sending-users-a-weekly-summary-of-notifications). This would help providers identify which applications had been:
 

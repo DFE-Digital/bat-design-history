@@ -54,11 +54,11 @@ For example, you may have published a course named ‘Classics’, which has a c
 
 Or, you may have published a course named ‘Classics’ which has a curriculum showing 70% Classics and 30% Latin. In this case, candidates applying for this course are not eligible for the bursary in the ancient language (Latin).
 
-To make sure we are presenting candidates with the correct information on Find, please let us know the weighting for this course by emailing us at becomingateacher@digital.education.gov.uk.
+To make sure we are presenting candidates with the correct information on Find, please let us know the weighting for this course by emailing us at <becomingateacher@digital.education.gov.uk>.
 
 # Bursaries for ancient language courses
 
-The Department for Education offers bursaries and scholarships for trainees completing ITT courses in ancient languages, as outlined in the funding manual for ITT 2022 to 2023 at https://www.gov.uk/government/publications/initial-teacher-training-itt-bursary-funding-manual/initial-teacher-training-bursaries-funding-manual-2022-to-2023-academic-year.
+The Department for Education offers bursaries and scholarships for trainees completing ITT courses in ancient languages, as outlined in the funding manual for ITT 2022 to 2023 at <https://www.gov.uk/government/publications/initial-teacher-training-itt-bursary-funding-manual/initial-teacher-training-bursaries-funding-manual-2022-to-2023-academic-year>.
 
 # Course titles
 
@@ -66,7 +66,7 @@ When a course has two subjects in its title, the subject with the heavier weight
 
 # Get in touch
 
-If you have any questions, contact us at becomingateacher@digital.education.gov.uk. If anyone else in your organisation needs to be aware of this email, please forward it to them.
+If you have any questions, contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 
@@ -74,10 +74,9 @@ Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
-
 
 We also emailed the 3 providers who offered either Latin with Classics or Classics (Latin and Ancient Greek) to apply the financial incentive information to their courses.
 
@@ -89,11 +88,11 @@ Dear colleague,
 
 We’ve not yet received weighting information from you for your Latin (with Classics) course.
 
-To make sure we are presenting candidates with the correct information on Find, please let us know the weighting for this course by emailing us at becomingateacher@digital.education.gov.uk.
+To make sure we are presenting candidates with the correct information on Find, please let us know the weighting for this course by emailing us at <becomingateacher@digital.education.gov.uk>.
 
 # Bursaries for ancient language courses
 
-The Department for Education offers bursaries and scholarships for trainees completing ITT courses in ancient languages, as outlined in the funding manual for ITT 2022 to 2023 at https://www.gov.uk/government/publications/initial-teacher-training-itt-bursary-funding-manual/initial-teacher-training-bursaries-funding-manual-2022-to-2023-academic-year.
+The Department for Education offers bursaries and scholarships for trainees completing ITT courses in ancient languages, as outlined in the funding manual for ITT 2022 to 2023 at <https://www.gov.uk/government/publications/initial-teacher-training-itt-bursary-funding-manual/initial-teacher-training-bursaries-funding-manual-2022-to-2023-academic-year>.
 
 As this course contains an ancient language in its title, candidates applying to this course may be eligible for a bursary of £15,000, where Latin makes up at least 50% of the course (and the course is identified as an ancient languages course).
 
@@ -103,7 +102,7 @@ When a course has two subjects in its title, the subject with the heavier weight
 
 # Get in touch
 
-If you have any questions, contact us at becomingateacher@digital.education.gov.uk. If anyone else in your organisation needs to be aware of this email, please forward it to them.
+If you have any questions, contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 
@@ -111,7 +110,7 @@ Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
   "
 }) }}
 

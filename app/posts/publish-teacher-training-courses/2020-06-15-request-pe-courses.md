@@ -80,7 +80,7 @@ In July we’ll write to you again, to tell you when your current courses will b
 
 ### Get in touch
 
-If you have any questions, contact us at becomingateacher@digital.education.gov.uk. If anyone else in your organisation needs to be aware of this email, please forward it to them.
+If you have any questions, contact us at <becomingateacher@digital.education.gov.uk>. If anyone else in your organisation needs to be aware of this email, please forward it to them.
 
 Regards,
 Becoming a Teacher team

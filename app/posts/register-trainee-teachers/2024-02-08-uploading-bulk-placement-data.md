@@ -75,30 +75,30 @@ If you have any questions, email [becomingateacher@digital.education.gov.uk](mai
 Your placement data has been imported from the Student Collection into the Register service.
 
 You can use the bulk update placement feature to fill in any data gaps:
-https://www.register-trainee-teachers.service.gov.uk/bulk-update/add-details/new
+<https://www.register-trainee-teachers.service.gov.uk/bulk-update/add-details/new>
 
 You can also sign in to manage your registered trainee placement data manually:
-https://www.register-trainee-teachers.service.gov.uk/trainees
+<https://www.register-trainee-teachers.service.gov.uk/trainees>
 
 Find out how to check you have 2 placements for each trainee:
-https://www.register-trainee-teachers.service.gov.uk/guidance/manage-placements
+<https://www.register-trainee-teachers.service.gov.uk/guidance/manage-placements>
 
 This does not include assessment only trainees.
 
 # 2. Find your trainee data
 
 Sign in to export the data you need to check:
-https://www.register-trainee-teachers.service.gov.uk/reports/performance-profiles
+<https://www.register-trainee-teachers.service.gov.uk/reports/performance-profiles>
 
 # 3. Check your trainee data and fix any mistakes
 
 Find out what you need to check and how to fix mistakes:
-https://www.register-trainee-teachers.service.gov.uk/guidance/performance-profiles
+<https://www.register-trainee-teachers.service.gov.uk/guidance/performance-profiles>
 
 # 4. Sign off your trainee data
 
 You must complete this form to sign off this data:
-https://forms.office.com/e/ATXmqJusud
+<https://forms.office.com/e/ATXmqJusud>
 
 Kind regards
 

@@ -68,7 +68,7 @@ A candidate cannot submit their application because the course has either become
 
 ### Scenario 3
 
-A candidate cannot submit their application because they have selected ‘No’ to the question asking them if they have the right to work or study in the UK in the ‘Personal information’ section. 
+A candidate cannot submit their application because they have selected ‘No’ to the question asking them if they have the right to work or study in the UK in the ‘Personal information’ section.
 
 The candidate has then chosen a course that cannot sponsor visas. If this scenario applies, we only show this content, regardless of any other sections that are not complete on the ‘Your details’ tab.
 

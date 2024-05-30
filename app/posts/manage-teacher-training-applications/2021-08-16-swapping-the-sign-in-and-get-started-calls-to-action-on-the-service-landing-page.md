@@ -24,4 +24,4 @@ Now, most users are using the new service. So it makes more sense to make ‘sig
 
 We also noticed that ‘get started’ is ambiguous and could mean that users without an account click on it by mistake.
 
-So we have changed this to a sentence below the ‘sign in’ button that says “If your organisation has not been set up to use the service, email becomingateacher@digital.education.gov.uk.”
+So we have changed this to a sentence below the ‘sign in’ button that says “If your organisation has not been set up to use the service, email <becomingateacher@digital.education.gov.uk>.”

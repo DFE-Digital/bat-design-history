@@ -12,10 +12,10 @@ related:
 
 We wanted to make sure that providers felt supported when using and onboarding to Publish teacher training courses (Publish). Following the initial teacher training (ITT) reforms, providers needed to know how to:
 
--	add newly accredited organisations to the service
--	add and remove users from existing organisations
--	partner with a different accredited provider
--	roll over courses from one recruitment cycle to the next
+- add newly accredited organisations to the service
+- add and remove users from existing organisations
+- partner with a different accredited provider
+- roll over courses from one recruitment cycle to the next
 
 ## What we changed
 

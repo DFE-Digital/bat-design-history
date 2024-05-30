@@ -19,7 +19,7 @@ As an example, a provider might upload 346 trainees to HESA. They’d like to be
 
 ## Needs for ITT Census scenario
 
-During the census period, providers are asked to make sure their data in Register is up to date. Between mid October and the end of October a senior person at the accredited provider is asked to ‘sign-off’ that they are happy with their ‘census’ data. 
+During the census period, providers are asked to make sure their data in Register is up to date. Between mid October and the end of October a senior person at the accredited provider is asked to ‘sign-off’ that they are happy with their ‘census’ data.
 
 Providers would like to be able to see just their census trainees - not including historic trainees no longer in training. They’ll use this to look for missing data or anomalies, and to compare with their own systems.
 
@@ -37,7 +37,6 @@ The filters are designed to help providers find and identify trainees, or to sel
 
 We’ve added a reports section to Register, modelled on the reports section of Manage teacher training applications. Each report will have its own page.
 
-
 Having a page per report has several advantages over filtering:
 
 * can have guidance specific to the report on the page
@@ -45,7 +44,6 @@ Having a page per report has several advantages over filtering:
 * we can process the data using filters we might not want on the registered trainees page
 * we can tailor the report to only include relevant fields
 * the page can offer settings to produce different reports
-
 
 ### Reports shown in header
 

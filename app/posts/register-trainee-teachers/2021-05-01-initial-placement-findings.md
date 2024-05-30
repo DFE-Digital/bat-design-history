@@ -2,15 +2,16 @@
 title: Initial placements findings
 description: Initial findings on placements show they are more complex than we initially thought.
 date: 2021-05-01
+tags:
+  - placements
 ---
 
 We’ve been continuing our work around [collecting placement details](/register-trainee-teachers/collecting-placement-details/) through exploratory research and usability testing on the prototype.
 
 Dates of research:
 
-* round 5: 4 -12 March 2021, 7 participants, all SCITT
-* round 6: 29 March - 12 April 2021, 9 participants, 4 HEI, 5 SCITT, (8 EY Employment, 3 EY Graduate, 2 EY UG, 1SD Salaried, 2 SD tuition fee)
-
+- round 5: 4 -12 March 2021, 7 participants, all SCITT
+- round 6: 29 March - 12 April 2021, 9 participants, 4 HEI, 5 SCITT, (8 EY Employment, 3 EY Graduate, 2 EY UG, 1SD Salaried, 2 SD tuition fee)
 
 ## What we learned
 
@@ -18,26 +19,21 @@ All the users we tested with understood what they were being asked to do in rega
 
 Most of the people we spoke to could provide information for the first placement when registering a trainee in September, but for some this meant changing their current work practices.
 
-> “We’d struggle with this, wouldn’t we? We’d have to go and get this information from our placement team.”
-> Round 6 P7 (Scitt)
+> “We’d struggle with this, wouldn’t we? We’d have to go and get this information from our placement team.”—Round 6 P7 (Scitt)
 
-> “If I’m doing it in August I’ll do “No, I’m doing it later”. If there are any changes I’d have to go back in and amend [them]. If I was keying in September I would put the first. I wouldn’t put the second as there might be changes in the Autumn. [I prefer] keying in the correct information rather than going in and changing it.”
-> Round 5 P3 (HEI, EY employment)
+> “If I’m doing it in August I’ll do “No, I’m doing it later”. If there are any changes I’d have to go back in and amend [them]. If I was keying in September I would put the first. I wouldn’t put the second as there might be changes in the Autumn. [I prefer] keying in the correct information rather than going in and changing it.”—Round 5 P3 (HEI, EY employment)
 
 The rationale behind asking for placements is opaque and can lead to additional frustrations.
 
-> “Compliance states that we need two, but why does the DfE need to know where the person is placed? They just need to know that they are placed?”
-> Round 6 P6 (SCITT)
+> “Compliance states that we need two, but why does the DfE need to know where the person is placed? They just need to know that they are placed?”—Round 6 P6 (SCITT)
 
 We found that further placements are often unknown at the point of requesting a TRN.
 
 All users felt confident that Register will enable them to change or finalise the placement info at a later point.
 
-> “I’ve always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn't make any difference as long as we can change. I’ve had to change things due to the pandemic.”
-> Round 5 P3 (SCITT)
+> “I’ve always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn't make any difference as long as we can change. I’ve had to change things due to the pandemic.”—Round 5 P3 (SCITT)
 
-> “We had a couple of times when a trainee changed placements, I wonder how I would record that? I think I would just add another placement I’m guessing and change the previous placement to just 2 weeks?”
-> Round 5 P6 (SCITT)
+> “We had a couple of times when a trainee changed placements, I wonder how I would record that? I think I would just add another placement I’m guessing and change the previous placement to just 2 weeks?”—Round 5 P6 (SCITT)
 
 We learned that providers’ approach to placements was more varied than we anticipated. We assumed that a trainee would have two linear placements and that ITT provider terminology would be consistent. Neither turned out to be true and our initial designs did not fit with user needs.
 
@@ -47,9 +43,9 @@ Terminology varies by provider with numerous terms being used to describe simila
 
 There is the concept of a main location:
 
-* main school or main setting
-* host school
-* training location
+- main school or main setting
+- host school
+- training location
 
 These locations are typically schools where the SCITT administration is based.
 
@@ -57,21 +53,20 @@ For provider-led trainees, this could also be their ‘training location’ - wh
 
 However on early years routes the ‘main setting’ is where a trainee might have one or even two official placements, it could also be their employer.
 
-> “People would be employed at a nursery or a young child setting and the program has three placements - two of them would be at their own setting, one at a different setting. Those would be spaced out throughout the year.”
-> R6 P1
+> “People would be employed at a nursery or a young child setting and the program has three placements - two of them would be at their own setting, one at a different setting. Those would be spaced out throughout the year.”—R6 P1
 
 Early years trainees and candidates do not go to schools. They go to private nursery businesses. So early years providers tend to refer to the placement locations and early years salaried course employers as ‘settings’.
 
 We identified commonly used terms by providers when referring to placements:
 
-* First placement
-* Placement A
-* Second placement
-* Placement B
-* Contrast placement
-* Temporary placement
-* Complementary placement
-* Phase B
+- First placement
+- Placement A
+- Second placement
+- Placement B
+- Contrast placement
+- Temporary placement
+- Complementary placement
+- Phase B
 
 Placements are mandatory and provide trainees with versatile teaching experience. ‘Contrast’ and ‘complementary’ placements reflect that notion and offer the trainee exposure to a different context than their main location, or previous placements. For example, an inner city placement might be contrasted with a rural placement. A placement in an all-girls school might be followed by a placement in an all-boys setting.
 
@@ -92,19 +87,16 @@ A: placement location
 B: another placement location
 T: training location
 
-> “Their first placement would be September ‘til Christmas, and then their second would start in January.”
-> Round 5 P6 (SCITT)
+> “Their first placement would be September ‘til Christmas, and then their second would start in January.”—Round 5 P6 (SCITT)
 
 #### Early years (EY) graduate and employment based routes
 
 SCITTs offering the EY route too tend to place trainees at a location for several weeks at a time, whereas HEIs might spread placements across several months with just one day a week spent at a placement location. Scheduling trainee placements on the salaried route adds complexity because the employer’s needs and priorities also have to be considered.
 
-> “We don’t do block-placements, we do running placements. [...] The duration can vary: [...] they have to complete 120 days overall, but within that it’s about ensuring they had an adequate experience.”
-> R6 P9 (HEI)
+> “We don’t do block-placements, we do running placements. [...] The duration can vary: [...] they have to complete 120 days overall, but within that it’s about ensuring they had an adequate experience.”—R6 P9 (HEI)
 
 >“Placements are not done in blocks, 2 days this week 5 days over next weeks. Supposed to do 30 days so you could say 6 weeks. [...]
->The uni can reserve a few uni days to do placements and then they may have 6 other days one day here and there done when they can. We have to fit in with their employers. No tuition fees for the student and the setting for the employer have Fridays off for placements.”
-> R6 P2 (HEI)
+>The uni can reserve a few uni days to do placements and then they may have 6 other days one day here and there done when they can. We have to fit in with their employers. No tuition fees for the student and the setting for the employer have Fridays off for placements.”—R6 P2 (HEI)
 
 Potential placement patterns for EY are:
 
@@ -136,8 +128,7 @@ Selecting the start month of the placement worked well.
 
 The process of calculating placement duration varied amongst the participants. Many providers will guess. All participants manually counted using a calendar.
 
->“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I'd have to do it three times. It's just more work.”
-> Round 5 P2 (SCITT)
+>“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I'd have to do it three times. It's just more work.”—Round 5 P2 (SCITT)
 
 ### Confirm placement details
 
@@ -145,14 +136,11 @@ The process of calculating placement duration varied amongst the participants. M
 
 Many participants commented that they would like to see the name of the school to help confirm the URN is the correct one.
 
->“URNs are unreliable:
->Because a school has gone from school to trust etc. these numbers might change.”
->Round 5 P4 (SCITT)
+>“URNs are unreliable: Because a school has gone from school to trust etc. these numbers might change.”—Round 5 P4 (SCITT)
 
 The current design displays placements in order of them being added to Register. If a trainee changed locations midway through their placement, the update will currently not appear in chronological order.
 
->“There are instances where the trainee doesn't suit the school. Looking at this I don't know how [to reflect that in the record] unless there is another option to add another school there could be two or three schools needed in the for instance.”
->Round 5 P5 (SCITT)
+>“There are instances where the trainee doesn't suit the school. Looking at this I don't know how [to reflect that in the record] unless there is another option to add another school there could be two or three schools needed in the for instance.”—Round 5 P5 (SCITT)
 
 ## Next steps
 
@@ -170,10 +158,10 @@ We need to better understand why our data consumers want to know this data/what 
 
 ## Design todos
 
-* include a search that allows for school name, postcode or URN
-* if we decide to pursue collect dates, we will also need to collect the year the placement started
-* give our users’ confidence by adding a location name, URN and postcode on the confirmation page
-* there is no list of locations for EY placements in DTTP. Instead we need to collect the setting’s names (nursery, childminder, children's centre), postcode and potentially URNs as free text fields
+- include a search that allows for school name, postcode or URN
+- if we decide to pursue collect dates, we will also need to collect the year the placement started
+- give our users’ confidence by adding a location name, URN and postcode on the confirmation page
+- there is no list of locations for EY placements in DTTP. Instead we need to collect the setting’s names (nursery, childminder, children's centre), postcode and potentially URNs as free text fields
 
 ## Concerns with collecting placement details
 
@@ -181,8 +169,8 @@ We have concerns about the implications of making the collection of placement de
 
 Considering the frequency of location change for some trainees, our hunch is that this will:
 
-* create a significant amount of additional work, becoming a burden for our users
-* increase errors as users might forget about the updating the system with placement changes
+- create a significant amount of additional work, becoming a burden for our users
+- increase errors as users might forget about the updating the system with placement changes
 
 By acknowledging the scale of the burden we are knowingly compromising our users’ experience.
 

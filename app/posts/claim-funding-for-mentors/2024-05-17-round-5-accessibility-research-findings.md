@@ -48,7 +48,6 @@ When entering a TRN number using text-to-speech technology, a space is automatic
 
 ### Rendering issues on Android using Google Chrome
 
-
 One participant with a visual impairment uses an Android phone and Google Chrome. They experienced a lot of rendering issues with the service, which were inconsistent throughout. The font sizes and wrapping changed on different pages throughout the service.
 
 ### The feedback form is difficult to read for someone with a severe visual impairment

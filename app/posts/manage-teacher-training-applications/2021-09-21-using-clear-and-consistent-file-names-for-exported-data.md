@@ -52,7 +52,6 @@ For example ‘St John’s Teacher Training’ becomes ‘st-johns-teacher-train
 
 The content of the ‘provider’ section of the template will be:
 
-
 - the name of the provider if the data is only for 1 provider
 - “multiple-providers” if the data is for 2 or more providers
 

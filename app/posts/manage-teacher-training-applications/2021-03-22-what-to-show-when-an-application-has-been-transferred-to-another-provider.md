@@ -127,19 +127,19 @@ They’re now applying to study English and Drama (T56DH) at Preston Teaching Gu
 
 The application has been removed from your list, but you can still view a version with limited details:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686>
 
 # Get help, give feedback or report a problem
 
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
 
-You can also contact us at becomingateacher@digital.education.gov.uk.
+You can also contact us at <becomingateacher@digital.education.gov.uk>.
 
 # Change your email notification settings
 
 You can turn off email notifications if you do not want to be told when applications are transferred to other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings>"
 }) }}
 
 ### Application transferred to another organisation - accredited body version
@@ -157,19 +157,19 @@ They’re now applying to study English and Drama (T56DH) at Preston Teaching Gu
 
 The application has been removed from your list, but you can still view a version with limited details:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686>
 
 # Get help, give feedback or report a problem
 
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
 
-You can also contact us at becomingateacher@digital.education.gov.uk.
+You can also contact us at <becomingateacher@digital.education.gov.uk>.
 
 # Change your email notification settings
 
 You can turn off email notifications if you do not want to be told when applications are transferred to other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings>"
 }) }}
 
 ### Received from another training provider
@@ -187,19 +187,19 @@ They have an offer to study English and Drama (T56DH) at Preston Teaching Guild.
 
 You can view Laura Goldman’s application:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686>
 
 # Get help, give feedback or report a problem
 
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
 
-You can also contact us at becomingateacher@digital.education.gov.uk.
+You can also contact us at <becomingateacher@digital.education.gov.uk>.
 
 # Change your email notification settings
 
 You can turn off email notifications if you do not want to be told when applications are received from other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings>"
 }) }}
 
 ### Received from another accredited body
@@ -217,17 +217,17 @@ They have an offer to study English and Drama (T56DH) at Preston Teaching Guild.
 
 You can view Laura Goldman’s application:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/applications/8686>
 
 # Get help, give feedback or report a problem
 
 For an overview of Manage teacher training applications, see our [Service guidance](https://www.apply-for-teacher-training.service.gov.uk/provider/service-guidance).
 
-You can also contact us at becomingateacher@digital.education.gov.uk.
+You can also contact us at <becomingateacher@digital.education.gov.uk>.
 
 # Change your email notification settings
 
 You can turn off email notifications if you do not want to be told when applications are received from other organisations:
 
-https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings"
+<https://qa.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings>"
 }) }}

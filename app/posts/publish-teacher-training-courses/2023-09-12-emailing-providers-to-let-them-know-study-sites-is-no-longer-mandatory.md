@@ -56,7 +56,7 @@ If you’re using ‘Main site’ as your only school placement in the ‘School
 
 We understand that for large organisations working with many schools, adding placement information at this stage can be difficult and we do not want to delay any courses from being published.
 
-If you need help publishing courses, email us at becomingateacher@digital.education.gov.uk.
+If you need help publishing courses, email us at <becomingateacher@digital.education.gov.uk>.
 
 # Why we’re asking for additional training location information
 
@@ -76,7 +76,7 @@ Candidates cannot choose which study site they will be training at – it's for 
 
 A school placement, found in the ‘Schools’ section in Publish, is a school that the trainee might be placed in to do classroom experience, for example. We make it clear on Find that candidates cannot choose which school they will be placed in.
 
-^ You do not need to add lead partner information in this section – lead partners can set up their own accounts to publish and manage courses by completing this form: https://forms.office.com/e/ZUpgJKt0Qr
+^ You do not need to add lead partner information in this section – lead partners can set up their own accounts to publish and manage courses by completing this form: <https://forms.office.com/e/ZUpgJKt0Qr>
 
 As with study sites, school placement information is for information purposes - it helps candidates to build a picture of the course and see an example of some of the schools they might be placed in. When you add school placements in Publish teacher training courses (Publish), you can then ‘attach’ them to a course.
 
@@ -92,7 +92,7 @@ Please forward this email on to anyone in your organisation who might need this 
 
 # Get help
 
-If you have any questions or need help publishing courses, contact us at becomingateacher@digital.education.gov.uk.
+If you have any questions or need help publishing courses, contact us at <becomingateacher@digital.education.gov.uk>.
 
 "
 
@@ -142,7 +142,7 @@ Candidates cannot choose which study site they will be training at – it's for 
 
 A school placement, found in the ‘Schools’ section in Publish, is a school that the trainee might be placed in to do classroom experience, for example. We make it clear on Find that candidates cannot choose which school they will be placed in.
 
-^ You do not need to add lead partner information in this section – lead partners can set up their own accounts to publish and manage courses by completing this form: https://forms.office.com/e/ZUpgJKt0Qr
+^ You do not need to add lead partner information in this section – lead partners can set up their own accounts to publish and manage courses by completing this form: <https://forms.office.com/e/ZUpgJKt0Qr>
 
 As with study sites, school placement information is for information purposes - it helps candidates to build a picture of the course and see an example of some of the schools they might be placed in. When you add school placements in Publish teacher training courses (Publish), you can then ‘attach’ them to a course.
 
@@ -158,7 +158,7 @@ Please forward this email on to anyone in your organisation who might need this 
 
 # Get help
 
-If you have any questions or need help publishing courses, contact us at becomingateacher@digital.education.gov.uk.
+If you have any questions or need help publishing courses, contact us at <becomingateacher@digital.education.gov.uk>.
 
 "
 
@@ -220,7 +220,7 @@ Please forward this email on to anyone in your organisation who might need this 
 
 # Get help
 
-If you have any questions or need help publishing courses, contact us at becomingateacher@digital.education.gov.uk.
+If you have any questions or need help publishing courses, contact us at <becomingateacher@digital.education.gov.uk>.
 
 "
 

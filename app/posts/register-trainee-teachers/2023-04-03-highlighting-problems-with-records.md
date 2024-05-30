@@ -28,12 +28,12 @@ However, records imported from the Higher Education Statistics Agency (HESA) can
 
 We’ve found that many problems with trainee records are caused by:
 
-* different DfE systems having different data that can conflict or be out of sync
-* data that passes validation but is likely to be incorrect, such as a course start date far in the future
-* misunderstandings about how HESA works, leading to the wrong trainee statuses being submitted
-* duplicate records
-* poor quality data imported from DTTP
-* details not being updated correctly when trainees change or leave courses
+- different DfE systems having different data that can conflict or be out of sync
+- data that passes validation but is likely to be incorrect, such as a course start date far in the future
+- misunderstandings about how HESA works, leading to the wrong trainee statuses being submitted
+- duplicate records
+- poor quality data imported from DTTP
+- details not being updated correctly when trainees change or leave courses
 
 ## Problems we’ll highlight
 
@@ -41,8 +41,8 @@ We started by identifying different trainee data problems which we’ve seen or 
 
 From this list, we picked 2 common problems to highlight initially. They are:
 
-* duplicate records
-* records which may have been forgotten
+- duplicate records
+- records which may have been forgotten
 
 ### Duplicate records
 
@@ -56,9 +56,9 @@ For example, a school centred initial teacher training (SCITT) provider can manu
 
 We believe that a number of trainee records in Register have been forgotten. Some possible reasons are that a trainee:
 
-* never started the course and was accidentally registered
-* deferred and then withdrew from the course
-* started and then withdrew from the course
+- never started the course and was accidentally registered
+- deferred and then withdrew from the course
+- started and then withdrew from the course
 
 There may be a duplicate record showing that the trainee withdrew or was awarded teaching status.
 
@@ -68,8 +68,8 @@ Register does a better job of highlighting these trainees and several providers 
 
 We’re currently planning to identify forgotten records by searching for trainees who:
 
-* have deferred and have an estimated end date more than 2 years ago
-* have not deferred and have an estimated end date more than a year ago
+- have deferred and have an estimated end date more than 2 years ago
+- have not deferred and have an estimated end date more than a year ago
 
 Some of these trainees will still be on courses. This is fine but we’ll ask providers to update their estimated end dates.
 
@@ -77,11 +77,11 @@ Some of these trainees will still be on courses. This is fine but we’ll ask pr
 
 To help users find and fix problems, we've:
 
-* added a home page card
-* changed the filters on the registered trainees page
-* changed the banner on registered trainee records so that it includes any problems
-* changed the filters on the draft trainees page
-* added a banner to draft trainee records which have problems
+- added a home page card
+- changed the filters on the registered trainees page
+- changed the banner on registered trainee records so that it includes any problems
+- changed the filters on the draft trainees page
+- added a banner to draft trainee records which have problems
 
 ### Home page card
 
@@ -105,9 +105,9 @@ Registered trainee records already have a banner when they’re incomplete. We n
 
 If the trainee may have been forgotten, we tell the user that they should have finished their training and give the end date for the course. We tell the user to decide whether to:
 
-* recommend the trainee for teaching status
-* withdraw the trainee
-* update the end date for the course
+- recommend the trainee for teaching status
+- withdraw the trainee
+- update the end date for the course
 
 ![A banner is shown on a trainee record, warning the provider that the trainee may have been forgotten.](3.trainee-problem-forgotten.png)
 
@@ -139,6 +139,6 @@ These designs could be used to highlight other types of problems, such as traine
 
 We’ll also consider:
 
-* notifying providers when they have records with problems
-* preventing a trainee being awarded qualified teacher status or early years teacher status if there’s a problem with their record
-* creating a separate page which lists all records with problems and indicates what the problems are - this might also be useful for the support team
+- notifying providers when they have records with problems
+- preventing a trainee being awarded qualified teacher status or early years teacher status if there’s a problem with their record
+- creating a separate page which lists all records with problems and indicates what the problems are - this might also be useful for the support team

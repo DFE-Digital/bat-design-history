@@ -163,7 +163,7 @@ To avoid complexity and outdated content, we give instructions on the states whi
 
 > ### Need help?
 
-> Contact us at becomingateacher@digital.education.gov.uk"
+> Contact us at <becomingateacher@digital.education.gov.uk>"
 }) }}
 
 #### Email to candidate if a referee does not respond
@@ -194,7 +194,7 @@ To avoid complexity and outdated content, we give instructions on the states whi
 
 > ### Need help?
 
-> Contact us at becomingateacher@digital.education.gov.uk"
+> Contact us at <becomingateacher@digital.education.gov.uk>"
 }) }}
 
 ### Other content

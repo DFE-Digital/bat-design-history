@@ -58,7 +58,6 @@ Some users went to the ‘status of applications’ report first. We wanted to f
 
 ![Status of applications table](status-of-applications.png)
 
-
 Other users went to the ‘progress of applications’ report first. We wanted to find out whether:
 
 - participants could use the report to answer task-based questions
@@ -67,7 +66,6 @@ Other users went to the ‘progress of applications’ report first. We wanted t
 - the column headings were easy to understand
 
 ![Progress of applications table](progress-of-applications.png)
-
 
 ## What we found
 

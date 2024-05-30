@@ -47,9 +47,9 @@ Research showed that no one found the history of predicted payments necessary, s
 
 ![Monthly payments shown together.](01-payment-schedule-v1.png "Showing all payment types together")
 
-For the first version we used a single table with the months as rows and payment types as columns. We didn’t test this with users, but it’s a straightforward interpretation of the data. 
+For the first version we used a single table with the months as rows and payment types as columns. We didn’t test this with users, but it’s a straightforward interpretation of the data.
 
-However, the data contains an unknown number of payment types, each with a column heading of unknown length. If there are 5 or more columns, each column becomes narrow and hard to read. Most providers would only have 3 or 4 payment types by the end of the year (this means 6 columns total when you include the month and total for the month). 
+However, the data contains an unknown number of payment types, each with a column heading of unknown length. If there are 5 or more columns, each column becomes narrow and hard to read. Most providers would only have 3 or 4 payment types by the end of the year (this means 6 columns total when you include the month and total for the month).
 
 ![Monthly payments shown together. The table has many columns and is harder to read](02-payment-schedule-v1--many-columns.png "Showing all payment types together can be be hard to read if there are a lot of payment types")
 
@@ -83,7 +83,7 @@ In the end we decided to go with having a summary table and payments split by mo
 
 The main thing we did was remove any irrelevant information. For example, if a provider doesn’t have any trainees studying to teach physics, we wont show the bursary amount for physics. This will reduce the number of rows users need to read through.
 
-For accredited providers we split each payment (ITT bursary, ITT scholarship and EYITT bursary) type into its own table to make the data clearer. 
+For accredited providers we split each payment (ITT bursary, ITT scholarship and EYITT bursary) type into its own table to make the data clearer.
 
 ![Summary of trainee payments.](06-trainee-summary--accredited-provider.png "Trainee summary for accredited providers")
 

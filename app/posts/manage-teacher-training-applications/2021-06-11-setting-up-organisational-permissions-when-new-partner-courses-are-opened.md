@@ -60,7 +60,7 @@ You’ll be asked to set up organisational permissions when you sign in to the M
 
 For an overview of Manage teacher training applications, see our Service guidance.
 
-You can also contact us at becomingateacher@digital.education.gov.uk.
+You can also contact us at <becomingateacher@digital.education.gov.uk>.
 {% endset %}
 
 {{ appEmail({

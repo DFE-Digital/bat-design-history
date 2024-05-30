@@ -91,4 +91,3 @@ Course ITT end date
 Course duration and ITT start date (Current HESA records do not always have end dates)
 
 We should be able to do this for all current trainees. However for trainees that have deferred and reinstated we believe we should ask providers to confirm the revised end date on the course.
-

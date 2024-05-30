@@ -31,7 +31,6 @@ Progression of the minimum requirements page design:
 - Remove table and switch to two questions
 - Split questions over two pages
 
-
 *[GCSE]: General certificate of secondary education
 *[GCSEs]: General Certificate of Secondary Education
 *[UCAS]: Universities and colleges admissions service

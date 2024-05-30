@@ -37,7 +37,6 @@ When the application has been received, but the provider has not yet made a deci
 
 We added some content at the top to explain that references will be requested when a candidate accepts an offer, and that providers should not contact these people before then without receiving permission from the candidate.
 
-
 ### After a candidate has accepted an offer
 
 ![Screenshot showing a page with the heading 'References' and the text 'The candidate has received 2 references and has requested 1 other reference'. This is followed by sub-heading 'Received references' which contains details of 2 references, including their name, email address, 'how the candidate knows them and for how long' and the actual received reference. This followed by another sub-heading 'Requested references' which contains details of 1 reference.](references-after-offer.png)

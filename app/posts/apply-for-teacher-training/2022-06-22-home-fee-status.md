@@ -29,7 +29,6 @@ related:
 - [Resources](/apply-for-teacher-training/home-fee-status/#resources)
 - [Next steps](/apply-for-teacher-training/home-fee-status/#next-steps)
 
-
 ## Overview
 
 We designed a new nationality and residency section to help providers assess candidates' fee status.

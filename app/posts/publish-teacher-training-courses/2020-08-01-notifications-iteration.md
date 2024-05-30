@@ -37,9 +37,9 @@ You can update your referees and apply again for courses starting in the 2021 to
 Get support
 We’re here to help you get a place on a course. Call Get Into Teaching for free on 0800 389 2500 or chat to an adviser online:
 
-https://getintoteaching.education.gov.uk/contacts
+<https://getintoteaching.education.gov.uk/contacts>
 
-For any technical issues using Apply for teacher training, contact us at becomingateacher@digital.education.gov.uk"
+For any technical issues using Apply for teacher training, contact us at <becomingateacher@digital.education.gov.uk>"
 }) }}
 
 ### Course published
@@ -56,7 +56,7 @@ View the course at ((course_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team"
@@ -76,7 +76,7 @@ This course is no longer visible on Find and candidates cannot apply to it. It a
 
 If you have any questions about this change, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team"
@@ -98,7 +98,7 @@ View the course at ((course_url)).
 
 If you have any questions about the change, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team"
@@ -120,7 +120,7 @@ View the course at ((course_url)).
 
 If you have any questions about the change, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team"
@@ -140,7 +140,7 @@ View the course at ((course_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team"
@@ -164,7 +164,7 @@ View the course at ((course_url)).
 
 If you have any questions about this, please notify your contact at ((provider_name)).
 
-To stop receiving these notifications, or to update your settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To stop receiving these notifications, or to update your settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
 Regards,
 The Becoming a Teacher team"

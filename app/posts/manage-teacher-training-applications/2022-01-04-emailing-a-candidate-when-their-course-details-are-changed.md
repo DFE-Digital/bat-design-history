@@ -68,7 +68,7 @@ If you were not expecting this change, contact ((new_provider)) to find out more
 
 You can chat to a Get Into Teaching adviser online for help and advice:
 
-https://getintoteaching.education.gov.uk/#talk-to-us
+<https://getintoteaching.education.gov.uk/#talk-to-us>
 
 You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (except public holidays).
   "
@@ -118,7 +118,7 @@ Contact ((new_provider)) directly if you have any questions about this.
 
 You can chat to a Get Into Teaching adviser online for help and advice:
 
-https://getintoteaching.education.gov.uk/#talk-to-us
+<https://getintoteaching.education.gov.uk/#talk-to-us>
 
 You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (except public holidays).
   "

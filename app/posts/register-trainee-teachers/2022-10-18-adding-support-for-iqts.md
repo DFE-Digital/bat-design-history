@@ -26,7 +26,6 @@ iQTS aims to:
   text: insetContent
 }) }}
 
-
 ## Registering trainees on iQTS
 
 We’re updating Register to support registering these iQTS trainees. Having met with the iQTS team, we don’t think that many changes will be required to support this new qualification. While the pilot is running, providers will register their trainees manually in Register – just like they do for Early years and Assessment only routes.

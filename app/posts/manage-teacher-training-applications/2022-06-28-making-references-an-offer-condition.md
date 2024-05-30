@@ -174,11 +174,11 @@ View the references for this application:
 
 # Get help
 
-Get help, report a problem or give feedback at becomingateacher@digital.education.gov.uk.
+Get help, report a problem or give feedback at <becomingateacher@digital.education.gov.uk>.
 
 You can change your email notification settings:
 
-https://www.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings
+<https://www.apply-for-teacher-training.service.gov.uk/provider/account/notification-settings>
   "
 }) }}
 

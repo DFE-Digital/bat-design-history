@@ -72,7 +72,6 @@ From the mentor list, users can:
 - add new mentors
 - view existing mentors
 
-
 ## Adding mentors
 
 ![Image showing the flow diagram for adding mentors](experiment-5-add-mentor-flow.png 'Adding mentors flow')
@@ -120,7 +119,7 @@ If the user has not entered an email address, we show an error message:
 
 If the user has not entered a valid email address format, we show the error message:
 
-> Enter an email address in the correct format, like name@example.com
+> Enter an email address in the correct format, like <name@example.com>
 
 ### Subject
 

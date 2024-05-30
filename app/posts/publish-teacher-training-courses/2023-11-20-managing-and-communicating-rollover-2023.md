@@ -51,8 +51,8 @@ In July, you’ll see a new page titled ‘Recruitment cycles' with a link, '202
 * delete any courses you’ll no longer be running
 
 We’ll email you again in July to let you know when courses have been rolled over.  
- 
-Find out more about how rollover works: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle  
+
+Find out more about how rollover works: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle>  
 
 # Improved course information
 
@@ -66,8 +66,8 @@ We know that over 80% of all course searches are by location and the only way a 
 
 You can add school placement information by:
 
-* adding placements quickly and easily in Publish using Get information about schools (GIAS) data – details will be automatically pre-populated for you 
-* emailing us at becomingateacher@digital.gov.uk and we can add the information for you
+* adding placements quickly and easily in Publish using Get information about schools (GIAS) data – details will be automatically pre-populated for you
+* emailing us at <becomingateacher@digital.gov.uk> and we can add the information for you
 
 You’ll no longer need to specify if a school placement has vacancies or not, making it easier to manage your courses.
 
@@ -80,10 +80,10 @@ To be able to publish a course for the 2023 to 2024 recruitment cycle, you’ll 
 ## Fee for international students
 
 We’ve learned from our research that international candidates need to know how much teacher training will cost and this information is sometimes missing from course details.
- 
+
 If your organisation does not sponsor a visa, it’s still important to add fee details. Some candidates can get visa sponsorship in other ways, such as a family or graduate visa.
 
-Find out more about recruiting trainee teachers from overseas: https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers
+Find out more about recruiting trainee teachers from overseas: <https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers>
 
 If your course does have Student visa sponsorship available, you’ll need to add the fee for international students before you’ll be able to publish the course for the 2023 to 2024 recruitment cycle.  
 
@@ -95,11 +95,11 @@ From the 2023 to 2024 recruitment cycle, all providers will be able to offer sal
 
 We’ll contact you again in July to let you know when courses have been rolled over. In the meantime, you could start preparing your course information and descriptions ready to be added or updated.
 
-You could also read through our guidance on how to use the Publish service: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service  
+You could also read through our guidance on how to use the Publish service: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service>  
 
 # Get help
 
-If you have any questions or need help using Publish, contact us at becomingateacher@digital.education.gov.uk.
+If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 "
 
@@ -137,7 +137,7 @@ You can then:
 
 Also, check that:
 
-* essential information, such as fees and visa sponsorship, is up to date 
+* essential information, such as fees and visa sponsorship, is up to date
 * your course descriptions are specific and give candidates a good overview of what to expect  
 
 # Publishing courses
@@ -154,7 +154,7 @@ If your organisation has changed its relationship with an accredited provider or
 
 # Get help
 
-If you have any questions or need help using Publish, contact us at becomingateacher@digital.education.gov.uk.
+If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 "
 
@@ -203,7 +203,7 @@ When your courses are ready, you can schedule them to go live as soon as Find op
 
 # Get help
 
-If you need any help, contact us at becomingateacher@digital.education.gov.uk
+If you need any help, contact us at <becomingateacher@digital.education.gov.uk>
 
 "
 
@@ -231,7 +231,7 @@ Go to ‘Recruitment cycle 2023 to 2024’. From here you can:
 
 # New partnerships
 
-If you are entering a new partnership following the initial teacher training (ITT) reforms and would like additional support, please contact us as soon as possible at itt.providersupport@education.gov.uk.
+If you are entering a new partnership following the initial teacher training (ITT) reforms and would like additional support, please contact us as soon as possible at <itt.providersupport@education.gov.uk>.
 
 # Adding new users to your account
 
@@ -239,9 +239,9 @@ You can also add any new colleagues to your organisation’s account if they nee
 
 [Find out more about adding and removing users](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users).
 
-# Get help 
+# Get help
 
-If you need any help publishing courses, contact us at becomingateacher@digital.education.gov.uk.
+If you need any help publishing courses, contact us at <becomingateacher@digital.education.gov.uk>.
 
 "
 
@@ -257,11 +257,11 @@ subject: "Publish your rolled over courses for the 2023 to 2024 recruitment cycl
 
 content: "
 
-Hello ((first_name)) 
+Hello ((first_name))
 
-We’ve noticed that your organisation has some unpublished courses in the 2023 to 2024 recruitment cycle. 
+We’ve noticed that your organisation has some unpublished courses in the 2023 to 2024 recruitment cycle.
 
-# What you can do now 
+# What you can do now
 
 You can publish or withdraw rolled over courses by signing in to [Publish teacher training courses (Publish)](https://www.publish-teacher-training-courses.service.gov.uk/sign-in).
 
@@ -269,9 +269,9 @@ If you do not want to publish a course for the current recruitment cycle but mig
 
 If you have any rolled over courses in draft and you no longer want to publish them, you can delete them.
 
-# Get help 
+# Get help
 
-If you need any help, contact us at becomingateacher@digital.education.gov.uk.
+If you need any help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 "
 

@@ -16,6 +16,6 @@ An alternative to the [account and password design](/apply-for-teacher-training/
 
 Users had trouble with accounts:
 
-* they didn’t know which GOV.UK account to use
-* some didn’t know why they were making an account
-* Only ask for an email address, and explain why we need it.
+- they did not know which GOV.UK account to use
+- some did not know why they were making an account
+- only ask for an email address, and explain why we need it

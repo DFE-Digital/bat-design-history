@@ -44,7 +44,7 @@ In preparation for this, we’ll soon be making some changes in Publish teacher 
 
 On Thursday 7 July, we’ll duplicate all your current courses in Publish.
 
-https://www.publish-teacher-training-courses.service.gov.uk
+<https://www.publish-teacher-training-courses.service.gov.uk>
 
 All courses which were published or withdrawn this recruitment cycle will be rolled over to the new cycle ready to be updated and published.
 
@@ -60,21 +60,20 @@ Also, you’ll find some improved guidance on what information to include in you
 
 We are making some changes to the structure of course information to help candidates easily distinguish between courses on Find. We would like your feedback on these changes before rollover begins.
 
-Please register your interest to take part by Wednesday 15 June at https://forms.gle/jXiGgJc3QkzwAXih7.
+Please register your interest to take part by Wednesday 15 June at <https://forms.gle/jXiGgJc3QkzwAXih7>.
 
 We’ll be in touch again in July to let you know that the courses have been rolled over.
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you need any help, contact us at becomingateacher@digital.education.gov.uk.
+If anyone else in your organisation needs to see this email, please forward it to them. If you need any help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 The Becoming a Teacher team
 
 ---
 
-To change your notification settings, go to https://www.publish-teacher-training-courses.service.gov.uk/notifications.
+To change your notification settings, go to <https://www.publish-teacher-training-courses.service.gov.uk/notifications>.
 
   "
 }) }}
-
 
 ## Future considerations
 

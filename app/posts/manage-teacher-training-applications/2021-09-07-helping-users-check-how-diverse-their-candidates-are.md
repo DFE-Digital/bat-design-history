@@ -28,7 +28,6 @@ The user need this work aims to address is:
   status: need.data.status
 }) }}
 
-
 By making it easy for all providers to view and export equality and diversity information, we can help providers improve their recruitment practices.
 
 ## What we did

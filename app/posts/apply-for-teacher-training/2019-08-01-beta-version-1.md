@@ -83,7 +83,7 @@ Added information about basic eligibility requirements (to avoid wasting the tim
 
 * International qualifications – changed the hierarchy of guidance so that candidates are first advised to contact their provider, then Get Into Teaching, and finally NARIC if need be. Our reasoning was that NARIC is the most expensive and confusing of the options, but some candidates may have started down this path and therefore need to be able to supply statements of equivalency etc.
 
-*  Made allowance for candidates who might still be studying (UK and international)
+* Made allowance for candidates who might still be studying (UK and international)
 
 For missing GCSEs:
 

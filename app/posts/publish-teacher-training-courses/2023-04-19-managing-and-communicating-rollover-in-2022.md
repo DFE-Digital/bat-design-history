@@ -69,7 +69,7 @@ In preparation for this, we’ll soon be making some changes in Publish teacher 
 
 On Thursday 7 July, we’ll duplicate all your current courses in Publish.
 
-https://www.publish-teacher-training-courses.service.gov.uk
+<https://www.publish-teacher-training-courses.service.gov.uk>
 
 All courses which were published or withdrawn this recruitment cycle will be rolled over to the new cycle ready to be updated and published.
 
@@ -85,13 +85,13 @@ Also, you’ll find some improved guidance on what information to include in you
 
 We are making some changes to the structure of course information to help candidates easily distinguish between courses on Find. We would like your feedback on these changes before rollover begins.
 
-Please register your interest to take part by Wednesday 15 June at https://forms.gle/jXiGgJc3QkzwAXih7.
+Please register your interest to take part by Wednesday 15 June at <https://forms.gle/jXiGgJc3QkzwAXih7>.
 
 We’ll be in touch again in July to let you know that the courses have been rolled over.
 
 # Get help
 
-If anyone else in your organisation needs to see this email, please forward it to them. If you need any help, contact us at becomingateacher@digital.education.gov.uk.
+If anyone else in your organisation needs to see this email, please forward it to them. If you need any help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 The Becoming a Teacher team
 "
@@ -111,7 +111,7 @@ On 4 October, courses for the 2023 to 2024 academic year will be published on Fi
 
 Before 4 October, check and publish your 'rolled over' courses, if you haven't already.
 
-https://www.publish-teacher-training-courses.service.gov.uk/sign-in
+<https://www.publish-teacher-training-courses.service.gov.uk/sign-in>
 
 Sign in to Publish and go to ‘Recruitment cycle 2022 to 2023 - current’. From here, you can:
 
@@ -137,13 +137,13 @@ When your courses are ready, you can schedule them to go live as soon as Find op
 
 Based on our research into what candidates are looking for when reading course content, we’ve produced some new guidance.
 
-Course summary examples: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/course-summary-examples
+Course summary examples: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/course-summary-examples>
 
-Writing descriptions for Publish teacher training courses: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses
+Writing descriptions for Publish teacher training courses: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses>
 
 # Get help
 
-If you need any help, contact us at becomingateacher@digital.education.gov.uk.
+If you need any help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 The Becoming a Teacher team
 "
@@ -159,7 +159,7 @@ Dear ((first_name))
 
 There’s just one week left before Find postgraduate teacher training (Find) opens on 4 October. Please check and publish your courses now so that candidates can view and apply.
 
-https://www.publish-teacher-training-courses.service.gov.uk/sign-in
+<https://www.publish-teacher-training-courses.service.gov.uk/sign-in>
 
 Sign in to Publish and go to ‘Recruitment cycle 2022 to 2023 - current’. From here, you can:
 
@@ -179,13 +179,13 @@ Before publishing, check that:
 
 Based on our research into what candidates are looking for when reading course content, we’ve produced some new guidance.
 
-Course summary examples: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/course-summary-examples
+Course summary examples: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/course-summary-examples>
 
-Writing descriptions for Publish teacher training courses: https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses
+Writing descriptions for Publish teacher training courses: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/writing-descriptions-for-publish-teacher-training-courses>
 
 # Get help
 
-If you need any help, contact us at becomingateacher@digital.education.gov.uk.
+If you need any help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 The Becoming a Teacher team
 "
@@ -211,7 +211,7 @@ This means that candidates cannot currently view the course or apply on Find pos
 
 You can publish or withdraw courses by signing in to Publish teacher training courses (Publish).
 
-https://www.publish-teacher-training-courses.service.gov.uk/sign-in
+<https://www.publish-teacher-training-courses.service.gov.uk/sign-in>
 
 1. Go to the ‘Courses’ page and click on the course
 2. Click on ‘Publish’ or ‘Withdraw’
@@ -220,12 +220,11 @@ If you do not want to publish a course for the current recruitment cycle but mig
 
 # Get help
 
-If you need any help, contact us at becomingateacher@digital.education.gov.uk.
+If you need any help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 The Becoming a Teacher team
 "
 }) }}
-
 
 ## Additional communications
 

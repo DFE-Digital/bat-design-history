@@ -78,12 +78,11 @@ Or in a form like this:
 
 {% endraw %}
 
-
 ## Potential downsides of our solution
 
 ### Accessibility
 
-The solution relies on the `autocomplete` attribute being set to a non-standard value. This could be said to be a fail of WCAG 1.3.5: Identify Input Purpose. 
+The solution relies on the `autocomplete` attribute being set to a non-standard value. This could be said to be a fail of WCAG 1.3.5: Identify Input Purpose.
 
 Our team has decided that this is an acceptable trade off — that we believe the impact of a non-standard value is minimal and the value of disabling auto-fill is greater. However, we’ve mentioned it in our accessibility statement.
 

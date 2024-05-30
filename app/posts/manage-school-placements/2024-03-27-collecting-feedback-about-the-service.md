@@ -70,7 +70,7 @@ We allow users to give us their name and email address if they would like a repl
 
 If users enter their email address, but it is not the correct format, we show an error message:
 
-> Enter an email address in the correct format, like name@example.com
+> Enter an email address in the correct format, like <name@example.com>
 
 ### Feedback confirmation page
 

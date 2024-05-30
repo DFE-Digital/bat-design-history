@@ -47,7 +47,6 @@ Beneath the latest message, users can view all of the previous messages through 
 
 On the news and updates page, users can view all of the messages that have been posted in chronological order. We’re using anchor links, so it’s easier for users to find what they’re looking for. We can also link to specific posts in our other communications, for example, provider emails or the BAT (Becoming a teacher) newsletter.
 
-
 ## Future considerations
 
 We’ve released this feature because it’s low risk, and we’ll ask users about it in future research rounds. We’ll also monitor the visits to the ‘News and updates’ page to check if it’s being used.

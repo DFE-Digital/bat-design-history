@@ -52,7 +52,6 @@ We have not expanded abbreviations or automatically applied an abbreviation tag 
 
 We have not expanded or marked up abbreviations in the course results page filters. This is because we do not have enough space and do not want to combine hover and click interactions. We will reassess our approach in the future to ensure it meets our users’ needs.
 
-
 *[GCSE]: General certificate of secondary education
 *[HTML]: Hyper text markup language
 *[ITT]: Initial teacher training

@@ -47,7 +47,6 @@ We decided to add a time-stamped update in a similar style to other commercial s
 
 ![An update message posted with a time and date.](3.update-message.png)
 
-
 We think having a time-stamped update is a helpful way of showing the message is recent and that the team is aware of the issues. We’ve added it to our standard maintenance page.
 
 October is a busy time for Register as data is being checked for the ITT Census publication —  we wanted to avoid emails to our support teams if we could. The update made sure to include extra details about what users of the HESA collection system should do.

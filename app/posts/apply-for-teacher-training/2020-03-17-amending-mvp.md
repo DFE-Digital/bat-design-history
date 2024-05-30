@@ -28,16 +28,16 @@ Candidates should be able to edit an application within 5 working days of submit
 
 [The original design](/apply-for-teacher-training/amend-withdraw) had the following flow:
 
-* start editing an application
-* make changes
-* review changes (and run validations)
-* submit edits before the end of the 5 day window
+- start editing an application
+- make changes
+- review changes (and run validations)
+- submit edits before the end of the 5 day window
 
 This was too complex to build quickly because:
 
-* we needed to track two separate applications
-* update references in parallel
-* work history and qualifications are complex in themselves
+- we needed to track two separate applications
+- update references in parallel
+- work history and qualifications are complex in themselves
 
 [Technical options for building full design](https://docs.google.com/document/d/1p5xJWMhz8AGJwnRlVaAStfoyGoxTHsbJZOI2RIY5LXw/)
 
@@ -45,9 +45,9 @@ This was too complex to build quickly because:
 
 So we built an MVP behind a feature flag, the MVP (screenshots shown below) had this flow:
 
-* go to edit an application
-* make a change (change is persisted and automatically sent to provider at the end of the edit window)
-* return to dashboard (no review step)
+- go to edit an application
+- make a change (change is persisted and automatically sent to provider at the end of the edit window)
+- return to dashboard (no review step)
 
 There were some usability issues with the MVP that we thought we could tweak to allow us to enable the feature.
 
@@ -57,9 +57,9 @@ Introducing these validations for the MVP edit application screen is also too co
 
 We also considered but rejected:
 
-* telling candidates when their application edits meant their application could not be submitted, probably by email
-* not submitting an application until a candidate corrected their application (too risky for candidate)
-* submitting the original in the above scenario (not expected by candidate)
+- telling candidates when their application edits meant their application could not be submitted, probably by email
+- not submitting an application until a candidate corrected their application (too risky for candidate)
+- submitting the original in the above scenario (not expected by candidate)
 
 ## What next?
 
@@ -69,9 +69,9 @@ While support queries have been minimal, there is inertia in our process – the
 
 We plan to:
 
-* make submitting a change request easier by using a form
-* use that form to capture what should be changed
-* evolve that form over time to automate much of the process
-* improve tooling for support users to make edits
+- make submitting a change request easier by using a form
+- use that form to capture what should be changed
+- evolve that form over time to automate much of the process
+- improve tooling for support users to make edits
 
 If after changing the request process to a form a new and significant user need arises, one that is too large for support, we will consider building self-serve editing for the most commonly requested edits – eg course choices, or re-evaluate our decision not to build the original design.

@@ -117,7 +117,7 @@ An email address is required. If the support user does not enter an email addres
 
 The email address must be a valid DfE email address. If the user does not enter a valid email address, we show the error:
 
-> Enter a Department for Education email address in the correct format, like name@education.gov.uk
+> Enter a Department for Education email address in the correct format, like <name@education.gov.uk>
 
 The email address must be unique to the organisation. If the support user enters an email address that is already in use by another user, we show the error:
 

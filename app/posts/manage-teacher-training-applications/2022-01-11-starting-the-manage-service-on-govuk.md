@@ -42,7 +42,7 @@ There are some elements of the page which we cannot control, such as:
 - the text ’Applies to England’, which is used when content does not apply to the whole of the UK
 - links to print the page
 
-The URL of the page will be www.gov.uk/government/manage-teacher-training-applications.
+The URL of the page will be <www.gov.uk/government/manage-teacher-training-applications>.
 
 ![GOV.UK start page](govuk-start-page.png "GOV.UK start page")
 

@@ -46,7 +46,6 @@ We added:
 
 We added an ‘important’ category which lets users filter by applications that:
 
-
 - have 5 days or fewer to make a decision
 - were automatically rejected and need feedback
 - had offers made and deferred which are now ready to be confirmed
