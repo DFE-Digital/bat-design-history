@@ -2,6 +2,10 @@
 title: Alpha prototype
 description: A look at the alpha prototype and beginning to think about the next steps
 date: 2020-09-07
+tags:
+  - alpha
+  - dttp
+  - prototype
 screenshots:
   items:
     - text: Start page

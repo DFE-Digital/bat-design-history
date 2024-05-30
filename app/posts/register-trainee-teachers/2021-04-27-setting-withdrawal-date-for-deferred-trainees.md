@@ -2,6 +2,9 @@
 title: Setting the withdrawal date for deferred trainees
 description: Improving how we collect this data
 date: 2021-04-27
+tags:
+  - withdrawals
+  - deferrals
 ---
 
 If a trainee defers from their course and then withdraws, providers are meant to use the trainee’s deferral date as their withdrawal date - as this is the date they were last on the course.

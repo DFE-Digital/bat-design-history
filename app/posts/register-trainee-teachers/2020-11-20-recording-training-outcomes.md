@@ -2,6 +2,8 @@
 title: Recording training outcomes
 description: An early attempt at recording training outcomes
 date: 2020-11-20
+tags:
+  - training outcomes
 screenshots:
   items:
     - text: Trainee details

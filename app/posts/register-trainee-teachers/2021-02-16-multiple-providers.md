@@ -2,6 +2,9 @@
 title: Initial support for users who work for multiple providers
 description: Dipping our toes in to the complex world of organisations, providers, and schools
 date: 2021-02-16
+tags:
+  - providers
+  - multi-org
 related:
   items:
     - text: Round 3 findings

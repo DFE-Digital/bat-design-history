@@ -2,6 +2,9 @@
 title: Helping HEIs find trainees from a single year
 description: Improving ways providers can find everyone who was in training in an academic year
 date: 2022-10-28
+tags:
+  - trainees
+  - academic years
 related:
   items:
     - text: Revisiting how we identify current and past trainees

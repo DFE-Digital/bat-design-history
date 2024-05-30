@@ -2,6 +2,10 @@
 title: Allowing users to edit records imported from HESA in Register
 description: We’ve made it easier for users from higher education authorities to correct mistakes in their data.
 date: 2023-02-10
+tags:
+  - data
+  - imports
+  - hesa
 related:
   items:
     - text: Bulk awarding of teaching status

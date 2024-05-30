@@ -2,6 +2,8 @@
 title: Selecting which degree a bursary was awarded for
 description: Helping providers pick between multiple degrees to tell us which one attacted a bursary
 date: 2021-01-13
+tags:
+  - bursaries
 screenshots:
   items:
     - text: Bursary question

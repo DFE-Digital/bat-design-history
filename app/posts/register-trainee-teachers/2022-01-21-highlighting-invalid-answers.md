@@ -2,6 +2,8 @@
 title: Highlighting invalid answers
 description: Exploring patterns for showing answers that are invalid
 date: 2022-01-21
+tags:
+  - validation
 related:
   items:
   - text: Apply integration - iteration 1

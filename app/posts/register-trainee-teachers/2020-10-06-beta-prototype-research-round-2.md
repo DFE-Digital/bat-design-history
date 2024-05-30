@@ -2,6 +2,10 @@
 title: Beta prototype research (round 2)
 description: Research into provider-led user needs and continued testing of the prototype
 date: 2020-11-09
+tags:
+  - beta
+  - prototype
+  - research
 related:
   items:
     - text: Research playback

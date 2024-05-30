@@ -2,6 +2,9 @@
 title: Collecting more useful information about why trainees withdraw
 description: We made it possible for providers to give more accurate and detailed information about why trainee teachers withdraw from courses.
 date: 2022-11-30
+tags:
+  - trainees
+  - withdrawals
 related:
   items:
     - text: Withdrawal reasons for trainees who started in the 2021 to 2022 academic year

@@ -2,6 +2,10 @@
 title: Searching for a school (part 1)
 description: Exploring using an autocomplete to pick schools
 date: 2021-04-08
+tags:
+  - placements
+  - schools
+  - autocomplete
 related:
   items:
     - text: Collecting placement details

@@ -2,6 +2,10 @@
 title: Changing route and courses for registered trainees
 description:
 date: 2022-04-14
+tags:
+  - trainees
+  - routes
+  - courses
 related:
   items:
     - text: Picking courses from Publish

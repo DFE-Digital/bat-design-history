@@ -2,6 +2,9 @@
 title: Bulk awarding of teaching status
 description: Letting providers bulk recommend trainees for qualified teacher status or early years teacher status.
 date: 2023-02-10
+tags:
+  - qts
+  - bulk awards
 related:
   items:
     - text: Bulk actions on a group of records

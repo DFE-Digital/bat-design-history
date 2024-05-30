@@ -2,6 +2,8 @@
 title: Updating our support user interface
 description: Improving the tools and interface our support staff use to administer Register
 date: 2022-09-05
+tags:
+  - support
 related:
   items:
     - text: Pull request adding support user interface

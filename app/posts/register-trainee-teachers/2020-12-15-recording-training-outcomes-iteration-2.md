@@ -2,6 +2,9 @@
 title: Recording training outcomes (iteration 2)
 description: Removing the option for failure when recording training outcomes
 date: 2020-12-15
+tags:
+  - trainees
+  - outcomes
 screenshots:
   items:
     - text: Trainee details - TRN recieved

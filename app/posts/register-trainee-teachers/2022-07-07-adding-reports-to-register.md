@@ -2,6 +2,8 @@
 title: Adding reports to Register to help users check their data
 description: Giving users more ways to help them check their data
 date: 2022-07-07
+tags:
+  - reports
 ---
 
 Our users have asked for more ways to help them check their data. This happens in three main scenarios:

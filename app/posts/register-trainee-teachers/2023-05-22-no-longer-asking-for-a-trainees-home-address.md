@@ -2,6 +2,9 @@
 title: No longer asking for a trainee’s home address
 description: We’ve stopped importing, collecting and displaying home addresses.
 date: 2023-05-19
+tags:
+  - trainees
+  - addresses
 ---
 
 We currently collect a trainee’s home address when:

@@ -2,6 +2,9 @@
 title: Beta prototype v1
 description: Building a new prototype from scratch
 date: 2020-10-14
+tags:
+  - beta
+  - prototype
 screenshots:
   title: Screenshots of all pages
   items:

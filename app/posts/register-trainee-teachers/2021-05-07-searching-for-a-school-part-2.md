@@ -2,6 +2,10 @@
 title: Searching for a school (part 2)
 description: Designs for our non-JavaScript school search
 date: 2021-05-07
+tags:
+  - placements
+  - schools
+  - search
 related:
   items:
     - text: Searching for a school

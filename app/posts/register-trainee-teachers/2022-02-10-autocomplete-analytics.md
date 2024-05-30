@@ -2,6 +2,10 @@
 title: Using analytics to understand where our autocompletes could be improved
 description: An investigation in to where users struggle with our autocompletes
 date: 2022-02-10
+tags:
+  - autocomplete
+  - usability
+  - analysis
 related:
   items:
     - text: Investigating free text responses from Apply
