@@ -12,7 +12,7 @@ ogImage:
   alt: Diagram showing boxes representing teacher services, arranged on a horizontal axis with the labels ‘Consider’, ‘Become’, ‘Start teaching’, ‘Develop’ and ‘Leave’
 ---
 
-The ‘Becoming a teacher’ services are part of a broader range of digital services which encompass the whole teaching journey, from initial interest through to retirement.
+The ‘Becoming a teacher’ services are part of a broader range of digital services encompassing the whole teaching journey, from initial interest to retirement.
 
 <img src="service-map.png" alt="Diagram showing a list of services arranged into 5 columns with the headings: consider teaching, become a teacher, start teaching, develop your practice and leave teaching. Full list of services below.">
 
