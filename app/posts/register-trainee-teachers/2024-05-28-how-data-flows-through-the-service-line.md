@@ -39,7 +39,7 @@ Student record systems include:
 
 ## Data entities
 
-We have divided the data into different entities:
+The service line includes several distinct data entities:
 
 - application
 - course
@@ -53,7 +53,7 @@ In the future, there will also be a ‘mentor’ entity.
 
 ### Data entity ownership
 
-Different services are responsible for each data entity in the service line. Typically, this is where the data enters the service line. For example, Publish owns course data.
+Different services are responsible for each data entity. Typically, this is where the data enters the service line. For example, Publish owns course data.
 
 | Data entity | Service |
 | --- | --- |
@@ -67,6 +67,8 @@ Different services are responsible for each data entity in the service line. Typ
 | mentor | Manage school placements and Claim funding for mentor training |
 
 DQT does not only hold teacher data. It also holds data on trainees and other people, such as widows and widowers, who collect their partner’s pension.
+
+Where one service uses the entity authored in another, the data is copied rather than accessed via an API. If data is changed in a downstream service, it is not passed back to the owning service.
 
 ### Data relationships
 
