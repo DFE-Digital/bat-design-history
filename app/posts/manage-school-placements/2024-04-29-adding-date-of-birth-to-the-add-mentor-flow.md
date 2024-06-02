@@ -97,6 +97,6 @@ We show:
 
 We do not store the teacher’s date of birth. We only use it to access the teacher’s details.
 
-We also include a message highlighting users must notify their mentors that they have added them to the service:
+<!-- We also include a message highlighting users must notify their mentors that they have added them to the service:
 
-> I confirm that {mentor name} has been informed that the Department for Education will store their information in line with the [privacy notice (opens in new tab)](https://www.gov.uk/government/publications/privacy-information-education-providers-workforce-including-teachers/privacy-information-education-providers-workforce-including-teachers#using-your-data-to-maintain-a-list-of-teachers). They have been provided with a copy of this notice for reference.
+> I confirm that {mentor name} has been informed that the Department for Education will store their information in line with the [privacy notice (opens in new tab)](https://www.gov.uk/government/publications/privacy-information-education-providers-workforce-including-teachers/privacy-information-education-providers-workforce-including-teachers#using-your-data-to-maintain-a-list-of-teachers). They have been provided with a copy of this notice for reference. -->
