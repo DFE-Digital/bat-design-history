@@ -10,7 +10,7 @@ We mapped what data is created and consumed and how it flows through the ‘Beco
 
 [![How data flows through the ‘Becoming a teacher’ service line](itt-data-flow-diagram.png "How data flows through the ‘Becoming a teacher’ service line (select image to view larger version)")](itt-data-flow-diagram.png)
 
-[Download the diagram as a PDF (644KB)](itt-data-flow-diagram.pdf)
+[Download the diagram as a PDF (675KB)](itt-data-flow-diagram.pdf)
 
 Becoming a teacher has several services that create, share and consume data:
 
