@@ -6,7 +6,7 @@
 {% from "breadcrumbs/macro.njk" import appBreadcrumbs %}
 
 {% block head %}
-<link href="/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/styles/application.css" media="all" rel="stylesheet" type="text/css" />
 <meta name="description" content="{{ description | markdown('inline') | striptags(true) | default(app.description) }}">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description | markdown('inline') | striptags(true) | default(app.description) }}">
