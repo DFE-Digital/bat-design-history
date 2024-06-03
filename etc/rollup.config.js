@@ -4,7 +4,7 @@ const commonjs = require('@rollup/plugin-commonjs')
 module.exports = [{
   input: 'app/_javascripts/application.js',
   output: {
-    file: 'public/javascripts/application.js',
+    file: 'public/assets/scripts/application.js',
     format: 'iife'
   },
   plugins: [
@@ -14,7 +14,7 @@ module.exports = [{
 }, {
   input: 'node_modules/govuk-frontend/dist/govuk/govuk-frontend.min.js',
   output: {
-    file: 'public/javascripts/govuk-frontend.js'
+    file: 'public/assets/scripts/govuk-frontend.js'
   },
   context: 'window'
 }]
