@@ -6,7 +6,7 @@ tags:
   - data
 ---
 
-We mapped what data is created and consumed and how it flows through the ‘Becoming a teacher’ service line.
+We mapped what data is created and consumed and how it flows through the ‘Becoming a teacher’ service line as of May 2024.
 
 [![How data flows through the ‘Becoming a teacher’ service line](itt-data-flow-diagram.png "How data flows through the ‘Becoming a teacher’ service line (select image to view larger version)")](itt-data-flow-diagram.png)
 
@@ -39,7 +39,7 @@ Student record systems include:
 
 ## Data entities
 
-The service line includes several distinct data entities:
+The service line includes several data entities, which we have defined as:
 
 - application
 - course
