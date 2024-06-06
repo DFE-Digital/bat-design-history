@@ -39,18 +39,18 @@ const run = () => {
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name)
 
-    console.log(directories);
+    // console.log(directories);
 
   // create service directories
   directories.forEach((directory) => {
     destinationDir = `${contentDirectory}/${directory}`
 
-    try {
-      console.log('Creating directory: ' + destinationDir)
-      fs.mkdirSync(destinationDir)
-    } catch (e) {
-      console.log('Directory already exists: ' + destinationDir)
-    }
+    // try {
+    //   console.log('Creating directory: ' + destinationDir)
+    //   fs.mkdirSync(destinationDir)
+    // } catch (e) {
+    //   console.log('Directory already exists: ' + destinationDir)
+    // }
   })
 
   // get a list of posts and create directories
@@ -67,28 +67,55 @@ const run = () => {
           const destinationDir = `${contentDirectory}/${directory}/${dirname}`
           // console.log(destinationDir)
 
-          try {
-            console.log('Creating directory: ' + destinationDir)
-            fs.mkdirSync(destinationDir)
-          } catch (e) {
-            console.log('Directory already exists: ' + destinationDir)
-          }
+          // try {
+          //   console.log('Creating directory: ' + destinationDir)
+          //   fs.mkdirSync(destinationDir)
+          // } catch (e) {
+          //   console.log('Directory already exists: ' + destinationDir)
+          // }
 
-          // copy file
+          // copy markdown file
           // console.log(`${sourceDir}/${file}`)
           // console.log(`${destinationDir}/index.md`)
           // console.log('==============================')
           const sourceFile = `${sourceDir}/${file}`
           const destinationFile = `${destinationDir}/index.md`
 
-          try {
-            // if (!destinationFile.includes('.gitkeep') && !destinationFile.includes('README.md')) {
-              console.log('Copying file: ' + destinationFile)
-              fs.writeFileSync(destinationFile, fs.readFileSync(sourceFile))
-            // }
-          } catch (e) {
-            console.log('Could’t copy file: ' + destinationFile)
+          // try {
+          //   console.log('Copying file: ' + destinationFile)
+          //   fs.writeFileSync(destinationFile, fs.readFileSync(sourceFile))
+          // } catch (e) {
+          //   console.log('Could’t copy file: ' + destinationFile)
+          // }
+
+          // copy images
+          const sourceImageDir = `${imagesDirectory}/${directory}/${dirname}`
+          // console.log(sourceImageDir);
+
+          if (fs.existsSync(sourceImageDir)) {
+
+            const images = fs.readdirSync(sourceImageDir, { withFileTypes: true })
+              .map(dirent => dirent.name)
+
+            console.log(images);
+
+            images.forEach((image) => {
+              const sourceFile = `${sourceImageDir}/${image}`
+              const destinationFile = `${destinationDir}/${image}`
+
+              // console.log('Source:', sourceFile);
+              // console.log('Destination:', destinationFile);
+
+              // try {
+              //   console.log('Copying file: ' + destinationFile)
+              //   fs.writeFileSync(destinationFile, fs.readFileSync(sourceFile))
+              // } catch (e) {
+              //   console.log('Could’t copy file: ' + destinationFile)
+              // }
+            })
+
           }
+
         }
 
       })
