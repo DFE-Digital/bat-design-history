@@ -17,6 +17,7 @@
   "repository": "github:DFE-Digital/bat-design-history",
   "bugs": "https://github.com/DFE-Digital/bat-design-history/issues",
   "scripts": {
+    "generate-content": "node ./scripts/generate-content.js",
     "prebuild": "rm -rf public",
     "build:files": "eleventy",
     "build:javascripts": "rollup --config etc/rollup.config.js",
