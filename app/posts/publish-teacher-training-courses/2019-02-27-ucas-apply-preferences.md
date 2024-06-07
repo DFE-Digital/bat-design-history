@@ -23,9 +23,9 @@ The following numbers come from a [Google Sheet containing raw preference data f
 
 The preferences listed below are the only ones needed by UCAS Teacher Training Apply. There are more that they could set that are not shown here: “They are relevant to one of the other admissions schemes provided by UCAS”.
 
-[2018 UCAS Teacher Training: Set-up guide](https://www.ucas.com/file/115581/download?token=mv-G6P53) ([backup](/documents/utt-set-up-guide.pdf))
+[2018 UCAS Teacher Training: Set-up guide (1.4MB PDF)](utt-set-up-guide.pdf)
 
-[2019 UCAS Teacher Training: Set-up guide](/documents/ucas-teacher-training-set-up-guide-2019.pdf)
+[2019 UCAS Teacher Training: Set-up guide (3.1MB PDF)](ucas-teacher-training-set-up-guide-2019.pdf)
 
 ## Format preferred for data download
 
