@@ -17,8 +17,6 @@ related:
       description: Post about collecting degree entry requirements on Publish.
 ---
 
-{% from "../../../node_modules/govuk-frontend/dist/govuk/components/table/macro.njk" import govukTable with context %}
-
 One of the reasons why providers reject candidates is because they do not have the right degree grade (for example 2:1 or above).
 
 Each course has a different minimum degree requirement. While some courses accept any honours degree, most ask for a minimum grade.
@@ -27,8 +25,8 @@ This is particularly challenging for candidates with a third-class degree.
 
 We realised that we could help candidates by:
 
-* showing the minimum degree requirement for each course (on Find)
-* warning them if they’ve chosen a course that may not accept their degree grade
+- showing the minimum degree requirement for each course (on Find)
+- warning them if they’ve chosen a course that may not accept their degree grade
 
 ## Showing minimum degree requirements on Find
 
