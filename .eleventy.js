@@ -1,10 +1,6 @@
 module.exports = function (eleventyConfig) {
   // Browser Sync
   eleventyConfig.setBrowserSyncConfig({
-    rewriteRules: [{
-      match: /\/image\/(\d+)(x)?(\d+)?/g,
-      replace: '/images'
-    }],
     serveStatic: ['public'],
     serveStaticOptions: {
       extensions: ['html']
@@ -34,8 +30,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('widont', require('./lib/filters/widont'))
 
   // Passthrough
-  eleventyConfig.addPassthroughCopy('./app/documents')
-  eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy({ 'node_modules/govuk-frontend/dist/govuk/assets': 'assets' })
 
   // Enable data deep merge
@@ -97,7 +91,11 @@ module.exports = function (eleventyConfig) {
 
   // A collection of reference pages
   eleventyConfig.addCollection('reference', collectionApi => {
-    return collectionApi.getFilteredByGlob(['app/glossary.md', 'app/mission-patches.md', 'app/service-map.md'])
+    return collectionApi.getFilteredByGlob([
+      'app/content/glossary.md',
+      'app/content/mission-patches.md',
+      'app/content/service-map.md'
+    ])
   })
 
   // A collection of user need pages
@@ -157,7 +155,7 @@ module.exports = function (eleventyConfig) {
       layouts: '_layouts',
       includes: '_components'
     },
-    templateFormats: ['njk', 'md'],
+    templateFormats: ['njk', 'md', 'png', 'pdf'],
     passthroughFileCopy: true
   }
 }
