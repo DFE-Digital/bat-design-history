@@ -16,8 +16,6 @@ related:
       href: https://docs.google.com/document/d/1bppLVBhXxf-rOSR6GVzIXx1Oifgc9wdr2BrjmNKerqI/
     - text: Research playback
       href: https://docs.google.com/presentation/d/1t5uAjPsI_Y6cnHO9o5__XFfQeMzdX9o54Gz1Yy7a3Ew/
-    - text: User needs
-      href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
 ---
 
 Research conducted: 23 to 27 November 2020

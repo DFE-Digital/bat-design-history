@@ -18,8 +18,6 @@ screenshots:
       src: 05-do-you-want-to-add-another-job.png
 related:
   items:
-    - text: Trello
-      href: https://trello.com/c/jIWipybM/732-calculate-work-gaps
     - text: Scenarios Google Doc
       href: https://docs.google.com/document/d/1JbHFaGlF8HDqQ1bajnhWhaB1QYjWTByIEAqAcKE1evQ/edit
 ---

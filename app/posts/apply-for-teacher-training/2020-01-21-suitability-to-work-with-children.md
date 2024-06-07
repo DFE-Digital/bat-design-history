@@ -20,10 +20,6 @@ related:
   items:
     - text: Survey playback
       href: https://docs.google.com/presentation/d/1sPxwjerXVdunLLzjwSSTOZyT9j9s_xfF_hRf9W412c0/edit#slide=id.p
-    - text: Trello ticket
-      href: https://trello.com/c/hkMU3bDS/744-re-evaluate-designs-for-criminal-conviction-declarations-feedback-from-providers
-    - text: Earlier trello ticket
-      href: https://trello.com/c/InaE3OPE/101-dbs-guidance-and-criminal-records-checks
     - text: Candidate PR
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/323
     - text: Provider PR

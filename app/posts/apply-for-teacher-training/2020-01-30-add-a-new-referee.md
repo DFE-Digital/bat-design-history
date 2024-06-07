@@ -37,8 +37,6 @@ related:
   items:
     - text: Pull request
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/329
-    - text: Trello
-      href: https://trello.com/c/7XTngHUS/787-enable-candidates-to-add-new-referee-design
     - text: Updated email content
       href: https://docs.google.com/document/d/1vTLpM9_la1nPnVV_W35oCT9qjC-vMop7bn3pi-rGulI
     - text: Email templates

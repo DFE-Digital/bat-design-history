@@ -1687,8 +1687,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
     notes: [
-      "Some HEIs really wanted to see that candidates had clearly stated they didn't have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement.",
-      "[Trello card - DBS guidance and criminal records checks](https://trello.com/c/InaE3OPE/101)"
+      "Some HEIs really wanted to see that candidates had clearly stated they didn't have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement."
     ]
   }
 }) }}

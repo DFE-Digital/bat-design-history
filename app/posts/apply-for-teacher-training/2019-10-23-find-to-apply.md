@@ -15,10 +15,6 @@ screenshots:
     - You selected a course
     - Pick a course location
     - Course choices
-related:
-  items:
-    - text: Trello ticket
-      href: https://trello.com/c/h6HhGrR6
 ---
 
 An iteration following [an early 2019 design of the journey](/find-teacher-training/choose-how-to-apply-2).

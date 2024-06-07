@@ -13,8 +13,6 @@ screenshots:
       src: 02-form-with-all-fields-showing.png
 related:
   items:
-    - text: Trello
-      href: https://trello.com/c/aaKMc14Y/800-design-questionnaire-to-get-feedback-from-referees
     - text: Original Google form
       href: https://docs.google.com/forms/d/e/1FAIpQLSdRMPAtm9oHAA2HFMlXK9mAQQNvkIKf8lD2aQMI7o_fuwqohA/formResponse
     - text: Prototype PR

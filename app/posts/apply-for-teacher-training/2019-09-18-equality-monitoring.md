@@ -27,8 +27,6 @@ related:
       href: https://www.hesa.ac.uk/collection/c18051/a/relblf
     - text: Spreadsheet showing what’s currently collected
       href: https://docs.google.com/spreadsheets/d/1uY6ZzQePVoWgIzrdRKtuinj9NzQ5dgwaL6DMIYFUH_c
-    - text: Trello ticket
-      href: https://trello.com/c/ztd2hNAH
 ---
 
 Our first pass at asking for information for monitoring equality.
