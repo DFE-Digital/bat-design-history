@@ -46,53 +46,53 @@ module.exports = function (eleventyConfig) {
   // List of service index pages
   eleventyConfig.addCollection('services', collection => {
     return collection.getFilteredByGlob([
-      'app/posts/apply-for-teacher-training/apply-for-teacher-training.md',
-      'app/posts/find-teacher-training/find-teacher-training.md',
-      'app/posts/manage-teacher-training-applications/manage-teacher-training-applications.md',
-      'app/posts/publish-teacher-training-courses/publish-teacher-training-courses.md',
-      'app/posts/register-trainee-teachers/register-trainee-teachers.md',
-      'app/posts/manage-school-placements/manage-school-placements.md',
-      'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md',
-      'app/posts/support-for-apply/support-for-apply.md',
-      'app/posts/support-for-publish/support-for-publish.md'
+      'app/content/apply-for-teacher-training/apply-for-teacher-training.md',
+      'app/content/find-teacher-training/find-teacher-training.md',
+      'app/content/manage-teacher-training-applications/manage-teacher-training-applications.md',
+      'app/content/publish-teacher-training-courses/publish-teacher-training-courses.md',
+      'app/content/register-trainee-teachers/register-trainee-teachers.md',
+      'app/content/manage-school-placements/manage-school-placements.md',
+      'app/content/claim-funding-for-mentors/claim-funding-for-mentors.md',
+      'app/content/support-for-apply/support-for-apply.md',
+      'app/content/support-for-publish/support-for-publish.md'
     ])
   })
 
   // Collections of posts for each service
   eleventyConfig.addCollection('apply-for-teacher-training', collection => {
-    return collection.getFilteredByGlob('app/posts/apply-for-teacher-training/*.md')
+    return collection.getFilteredByGlob('app/content/apply-for-teacher-training/**/*.md')
   })
 
   eleventyConfig.addCollection('find-teacher-training', collection => {
-    return collection.getFilteredByGlob('app/posts/find-teacher-training/*.md')
+    return collection.getFilteredByGlob('app/content/find-teacher-training/**/*.md')
   })
 
   eleventyConfig.addCollection('manage-teacher-training-applications', collection => {
-    return collection.getFilteredByGlob('app/posts/manage-teacher-training-applications/*.md')
+    return collection.getFilteredByGlob('app/content/manage-teacher-training-applications/**/*.md')
   })
 
   eleventyConfig.addCollection('publish-teacher-training-courses', collection => {
-    return collection.getFilteredByGlob('app/posts/publish-teacher-training-courses/*.md')
+    return collection.getFilteredByGlob('app/content/publish-teacher-training-courses/**/*.md')
   })
 
   eleventyConfig.addCollection('register-trainee-teachers', collection => {
-    return collection.getFilteredByGlob('app/posts/register-trainee-teachers/*.md')
+    return collection.getFilteredByGlob('app/content/register-trainee-teachers/**/*.md')
   })
 
   eleventyConfig.addCollection('manage-school-placements', collection => {
-    return collection.getFilteredByGlob('app/posts/manage-school-placements/*.md')
+    return collection.getFilteredByGlob('app/content/manage-school-placements/**/*.md')
   })
 
   eleventyConfig.addCollection('claim-funding-for-mentors', collection => {
-    return collection.getFilteredByGlob('app/posts/claim-funding-for-mentors/*.md')
+    return collection.getFilteredByGlob('app/content/claim-funding-for-mentors/**/*.md')
   })
 
   eleventyConfig.addCollection('support-for-apply', collection => {
-    return collection.getFilteredByGlob('app/posts/support-for-apply/*.md')
+    return collection.getFilteredByGlob('app/content/support-for-apply/**/*.md')
   })
 
   eleventyConfig.addCollection('support-for-publish', collection => {
-    return collection.getFilteredByGlob('app/posts/support-for-publish/*.md')
+    return collection.getFilteredByGlob('app/content/support-for-publish/**/*.md')
   })
 
   // A collection of reference pages
@@ -103,9 +103,9 @@ module.exports = function (eleventyConfig) {
   // A collection of user need pages
   eleventyConfig.addCollection('user-need', collectionApi => {
     return collectionApi.getFilteredByGlob([
-      'app/posts/apply-for-teacher-training/user-needs/*.md',
-      'app/posts/manage-teacher-training-applications/user-needs/*.md',
-      'app/posts/publish-teacher-training-courses/user-needs/*.md'
+      'app/content/apply-for-teacher-training/user-needs/*.md',
+      'app/content/manage-teacher-training-applications/user-needs/*.md',
+      'app/content/publish-teacher-training-courses/user-needs/*.md'
     ])
   })
 
