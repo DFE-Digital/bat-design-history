@@ -48,7 +48,7 @@ The user need we meet with this report is:
 {{ appUserNeed({
   description: "As someone working at the DfE
 I need to see why applications are rejected
-So that I can improve the application process
+So that I can improve the application process"
 }) }}
 
 We wanted to improve the report to make it easier for users to get the information they need.
