@@ -2,16 +2,14 @@
 title: Comparing and processing applications across partner organisations
 description: We added a table to the overview page showing the number of applications waiting for a decision, broken down by partner organisation.
 date: 2022-03-17
+tags:
+  - applications overview
 screenshots:
   items:
     - text: Overview with a table showing the number of applications waiting for a decision, broken down by partner organisation
       src: overview--applications-waiting-decisions.png
     - text: Application list filtered to show applications to courses run with a partner organisation which have the received or interviewing status
       src: application-list--filtered-received-interviewing-partner-organisation.png
-user_needs:
-  - MN021
-tags:
-  - applications overview
 ---
 
 Research shows that some users want to group applications by partner organisation when they process them.
@@ -27,8 +25,12 @@ Users can currently filter the application list by partner organisation but they
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
 
 ## What we changed
 

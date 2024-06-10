@@ -2,6 +2,8 @@
 title: Adding a ‘cannot sponsor visa’ reason for rejection
 description: Let providers reject an application because they cannot sponsor a candidate’s visa
 date: 2021-04-19
+tags:
+  - rejections
 screenshots:
   items:
     - text: Reasons for rejecting the candidate’s application
@@ -12,10 +14,6 @@ screenshots:
       src: reason-for-rejection-cannot-sponsor-visa-02.png
     - text: Application feedback
       src: reason-for-rejection-cannot-sponsor-visa-03.png
-user_needs:
-  - AN029
-tags:
-  - rejections
 ---
 
 We have added ‘cannot sponsor visa’ as a reason for rejection.
@@ -84,5 +82,9 @@ If we find that the feedback has not improved, we will consider changing the des
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}

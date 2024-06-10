@@ -2,6 +2,8 @@
 title: Adding an overview page and filters to help users prioritise their work
 description: We added a new overview page and filters to compensate for removing priority headings from the application list.
 date: 2022-03-16
+tags:
+  - filtering
 screenshots:
   items:
     - text: Overview page
@@ -10,12 +12,6 @@ screenshots:
       src: application-list--conditions-pending-previous-cycle.png
     - text: Application list filtered to show application which needs feedback, marked with ‘Feedback needed’
       src: application-list--filtered-feedback-needed.png
-user_needs:
-  - AN029
-  - MN021
-  - MN030
-tags:
-  - filtering
 ---
 
 We removed the priority headings from the application list as part of the work to let users [sort the application list in different ways](/manage-teacher-training-applications/sorting-the-application-list-in-different-ways/).
@@ -31,8 +27,24 @@ Users need to be able to find these types of applications so that they can plan 
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know which applications have not been looked at yet
+So that I can start processing new applications quickly"
+}) }}
 
 ## What we changed
 

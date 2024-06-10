@@ -2,6 +2,8 @@
 title: Closing an application (withdrawal versus rejection)
 description: Exploration to improve the way to close an application at any time
 date: 2021-01-06
+tags:
+  - withdrawals
 screenshots:
   items:
     - text: Application list
@@ -31,10 +33,6 @@ related:
     - text: Reasons for closing an application
       href: https://docs.google.com/spreadsheets/d/1lKDA7E7PLvp6pC2lUWqSOK4AycfpLV0TOpkp_o-R4nY/edit#gid=0
       description: Map of what reasons are available at what stage of the application process
-user_needs:
-  - AN029
-tags:
-  - withdrawals
 ---
 
 ## Background
@@ -63,8 +61,12 @@ There are also some situations in which an application cannot be closed. For exa
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
 
 ## Why are we doing this?
 

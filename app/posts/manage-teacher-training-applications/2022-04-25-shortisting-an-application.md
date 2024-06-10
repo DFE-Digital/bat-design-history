@@ -4,8 +4,6 @@ description: We added a way to shortlist a new application, which can be used to
 date: 2022-04-25
 tags:
   - shortlisting
-user_needs:
-  - MN030
 screenshots:
   items:
     - text: Application list
@@ -30,8 +28,12 @@ We’ve already tried some approaches to helping users [find applications which 
 
 ## User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know which applications have not been looked at yet
+So that I can start processing new applications quickly"
+}) }}
 
 ## Why we’re trying this approach
 

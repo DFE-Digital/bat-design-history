@@ -3,7 +3,7 @@ title: Deferring offers to the next cycle (iteration 3)
 description: Let providers defer offers to the next cycle
 date: 2020-09-02
 tags:
-  - MN016
+  - deferrals
 ---
 
 Getting deferral ready for release and addressing issues found in research with the [previous iteration](/manage-teacher-training-applications/deferring-offers-iteration/).
@@ -42,5 +42,9 @@ When an offer has been deferred, we show it as an event in the timeline.
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to defer an offer to the next recruitment cycle
+So that I can tie in a good candidate who cannot accept a place in this recruitment cycle"
+}) }}

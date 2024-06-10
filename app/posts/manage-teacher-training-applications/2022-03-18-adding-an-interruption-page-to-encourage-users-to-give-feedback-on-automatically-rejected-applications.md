@@ -2,11 +2,6 @@
 title: Adding an interruption page to encourage users to give feedback on automatically rejected applications
 description: We tried showing an interruption page to users who need to give feedback on automatically rejected applications.
 date: 2022-03-18
-user_needs:
-  - MN004
-  - MN021
-  - AN029
-  - MN014
 tags:
   - rejections
 screenshots:
@@ -21,8 +16,30 @@ While the overview page is useful, users can still ignore it quite easily. We wa
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know what’s happened to an application and when
+So that I can take appropriate action"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to make decisions about applications before they’re automatically rejected
+So that candidates get a resonse within a reasonable timeframe"
+}) }}
 
 ## What we changed
 

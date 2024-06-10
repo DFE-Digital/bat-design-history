@@ -3,7 +3,7 @@ title: Deferring applications to the next cycle
 description: Let providers defer applications to the next cycle
 date: 2020-06-29
 tags:
-  - MN016
+  - deferrals
 screenshots:
   items:
     - text: Application page with change cycle link
@@ -18,8 +18,12 @@ screenshots:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to defer an offer to the next recruitment cycle
+So that I can tie in a good candidate who cannot accept a place in this recruitment cycle"
+}) }}
 
 ## How it works
 

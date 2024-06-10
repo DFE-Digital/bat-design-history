@@ -3,7 +3,7 @@ title: Sorting by reject by default (RBD) date
 description: Let users sort by RBD date
 date: 2020-06-03
 tags:
-  - MN014
+  - rejections
 screenshots:
   items:
     - text: Sorting by last changed (default)
@@ -14,8 +14,12 @@ screenshots:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to make decisions about applications before they’re automatically rejected
+So that candidates get a resonse within a reasonable timeframe"
+}) }}
 
 ## How it works
 

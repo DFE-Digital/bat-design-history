@@ -2,8 +2,6 @@
 title: Helping users find applications which have not been looked at yet
 description: We tried different ways of helping users find applications which have not been looked at yet.
 date: 2022-03-21
-user_needs:
-  - MN030
 tags:
   - filtering
   - applications overview
@@ -15,8 +13,12 @@ They look at whether the candidate meets standards such as having acceptable qua
 
 Research shows that users need to know which applications have not been looked at yet.
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know which applications have not been looked at yet
+So that I can start processing new applications quickly"
+}) }}
 
 At the moment, applications that have not been sifted cannot be distinguished from other applications with ‘received’ status. This means that they:
 

@@ -3,7 +3,7 @@ title: Deferring offers to the next cycle (iteration 2)
 description: Let providers defer offers to the next cycle
 date: 2020-08-14
 tags:
-  - MN016
+  - deferrals
 screenshots:
   items:
     - Offer page with defer link
@@ -21,8 +21,12 @@ If we put a ‘Defer’ link on the offer page it’ll match users’ mental mod
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to defer an offer to the next recruitment cycle
+So that I can tie in a good candidate who cannot accept a place in this recruitment cycle"
+}) }}
 
 ## How it works
 

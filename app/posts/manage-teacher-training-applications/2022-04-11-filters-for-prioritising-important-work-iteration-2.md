@@ -2,9 +2,6 @@
 title: Filters for prioritising important work (iteration 2)
 description: We removed the ‘important’ filter category and made changes to the filters which had been in it.
 date: 2022-04-11
-user_needs:
-  - AN029
-  - MN021
 tags:
   - filtering
 screenshots:
@@ -33,8 +30,18 @@ But we do not think that grouping the filters works well because:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
 
 ## What we changed
 

@@ -3,7 +3,8 @@ title: Tracking conditions individually
 description: Let providers track and update the status of offer conditions individually.
 date: 2020-03-05
 tags:
-  - MN012
+  - off conditions
+  - statuses
 screenshots:
   items:
     - Application details
@@ -26,8 +27,12 @@ Then they'll be able to process applications more quickly and accurately
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to track the status of conditions
+So that I enrol candidates when all conditions are met and progress pending conditions"
+}) }}
 
 ## An alternative route we ruled out
 

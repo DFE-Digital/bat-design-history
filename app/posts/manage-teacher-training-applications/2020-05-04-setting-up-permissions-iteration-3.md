@@ -3,7 +3,7 @@ title: Setting up permissions (iteration 3)
 description: Handling when the user belongs to multiple organisations and including clearer guidance for how permissions work.
 date: 2020-05-04
 tags:
-  - MN013
+  - permissions
 screenshots:
   items:
     - text: Data sharing agreement
@@ -57,8 +57,12 @@ Previous iterations
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to set permissions for each of my partners
+So that my colleagues can only view certain information and perform certain actions based on the relationships with each partner"
+}) }}
 
 ## Hypotheses
 
