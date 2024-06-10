@@ -30,7 +30,6 @@ I need to see a candidate’s work experience
 So that I can make a decision about their suitability to be a teacher"
 }) }}
 
-
 [Listen to a discussion about full time and part time with a candidate](https://lookback.io/watch/cxYdKBYN9TK7cmxHF?t=23m15.35s)
 
 ## Hypotheses
