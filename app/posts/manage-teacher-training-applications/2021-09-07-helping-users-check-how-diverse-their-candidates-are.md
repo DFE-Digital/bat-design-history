@@ -2,8 +2,6 @@
 title: Helping users check how diverse their candidates are
 description: We created a report showing the sex, disability, ethnicity and age of candidates who apply to a provider and are recruited by them
 date: 2021-09-07
-user_needs:
-  - MN029
 tags:
   - equality and diversity
 screenshots:
@@ -18,14 +16,11 @@ screenshots:
 
 The user need this work aims to address is:
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
+  description: "As a provider
+I need to know how diverse my candidates are
+So that I can make sure my recruitment process is fair"
 }) }}
 
 By making it easy for all providers to view and export equality and diversity information, we can help providers improve their recruitment practices.

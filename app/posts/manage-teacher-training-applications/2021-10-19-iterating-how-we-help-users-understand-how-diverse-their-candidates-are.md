@@ -2,8 +2,6 @@
 title: Iterating how we help users understand how diverse their candidates are
 description: We changed the report showing the sex, disability, ethnicity and age of candidates to show percentages of candidates recruited within a group and in total
 date: 2021-10-19
-user_needs:
-  - MN029
 tags:
   - equality and diversity
 screenshots:
@@ -16,14 +14,11 @@ This work follows on from our design to [help users check how diverse their cand
 
 The user need this work aims to address is:
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
+  description: "As a provider
+I need to know how diverse my candidates are
+So that I can make sure my recruitment process is fair"
 }) }}
 
 The aim of this iteration was to make it easier for providers to understand equality and diversity information. This will help them to spot any bias in their processes.

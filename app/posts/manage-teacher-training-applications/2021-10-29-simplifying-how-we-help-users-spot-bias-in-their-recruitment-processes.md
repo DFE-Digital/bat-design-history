@@ -2,8 +2,6 @@
 title: Simplifying how we help users spot bias in their recruitment processes
 description: We updated the report showing the sex, disability, ethnicity and age of candidates to focus on potential bias
 date: 2021-10-29
-user_needs:
-  - MN029
 tags:
   - equality and diversity
 screenshots:
@@ -16,14 +14,11 @@ This work follows on from our design to [help users understand how diverse their
 
 The user need this work aims to address is:
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
+  description: "As a provider
+I need to know how diverse my candidates are
+So that I can make sure my recruitment process is fair"
 }) }}
 
 The aim of this iteration was to simplify the diversity information we show to providers. This will make it easier for them to spot any bias in their processes.
