@@ -141,9 +141,6 @@ We can address this last issue by:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
   description: "As a candidate
