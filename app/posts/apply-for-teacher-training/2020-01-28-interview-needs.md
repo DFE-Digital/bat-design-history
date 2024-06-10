@@ -12,8 +12,12 @@ Several universities told us that the guidance on our [Interview preferences pag
 
 ## User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need need my provider to accommodate my circumstances
+So that I can go to the interview"
+}) }}
 
 ## Hypothesis
 

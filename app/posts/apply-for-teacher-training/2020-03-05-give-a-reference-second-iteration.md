@@ -32,5 +32,15 @@ Following user testing with providers, we identified two new user needs. We iter
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know if a candidate is safe to work with children
+So that I can make a decision about their application"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need a know if a candidate’s description of their relationship with the referee is accurate
+So that I can make a decision about their application"
+}) }}

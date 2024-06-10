@@ -144,6 +144,31 @@ We can address this last issue by:
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to get 2 references quickly
+So that I don’t miss out on the course that I want"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to be able to add, delete and replace references
+So that I can have 2 suitable references in my application"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know that my referee doesn’t want to give a reference
+So that I can get another referee as quickly as possible to progress my application"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to provide an alternative referee if my original referees have not responded or have declined
+So that my application can progress"
+}) }}
+
 ## Hypotheses
 
 If we ask candidates to get their references before submitting (and remove the 7-day edit window)

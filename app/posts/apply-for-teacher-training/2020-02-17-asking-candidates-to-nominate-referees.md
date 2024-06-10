@@ -13,8 +13,36 @@ We decided to iterate the page where we ask candidates to nominate referees beca
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to choose 2 suitable referees
+So that my application can progress"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to understand who providers will accept references from
+So that I can suggest suitable referees including suitable addresses"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know who to suggest as referees if I've been self employed
+So that my application can progress"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know that providers would prefer to receive at least one reference from a professional address
+So I can suggest suitable referees"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know what to do if I'm struggling to find a referee
+So that my application can progress"
+}) }}
 
 ## Hypotheses
 

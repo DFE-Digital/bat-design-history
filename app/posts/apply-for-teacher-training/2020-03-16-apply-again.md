@@ -54,8 +54,12 @@ When applying again, a candidate can make an unlimited number of applications, o
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate who declines all offers or is rejected from all providers in the first instance,
+I need to be able to make subsequent applications
+So that I can make a successful application"
+}) }}
 
 ## User research
 

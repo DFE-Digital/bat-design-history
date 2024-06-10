@@ -21,8 +21,24 @@ This design is [an iteration of the question as designed for the pilot](/apply-f
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to inform a provider of a disability, health issue or access need I have
+So that reasonable adjustments can be made should I be offered an interview and/or begin training with them"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need reassurance that disclosing a disability won’t affect my application, either due to unconscious bias or discrimination
+So that I can feel comfortable disclosing this information"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know if a candidate needs extra support
+So that I can accomodate their needs"
+}) }}
 
 ## Hypotheses
 

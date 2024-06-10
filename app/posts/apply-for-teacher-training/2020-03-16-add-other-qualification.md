@@ -18,8 +18,12 @@ Since the service launched in November, candidates have not felt compelled to co
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to provide all my academic and relevant qualifications
+So that I can demonstrate my relevant subject knowledge and broader academic achievements"
+}) }}
 
 ## Design considerations
 

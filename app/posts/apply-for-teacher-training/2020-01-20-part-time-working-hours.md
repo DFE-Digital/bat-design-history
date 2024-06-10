@@ -16,8 +16,20 @@ Some providers say that ‘part time’ doesn’t give enough detail. It could m
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to be able to describe my part time jobs
+So that I can show how much work I dids"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to see a candidate’s work experience
+So that I can make a decision about their suitability to be a teacher"
+}) }}
+
 
 [Listen to a discussion about full time and part time with a candidate](https://lookback.io/watch/cxYdKBYN9TK7cmxHF?t=23m15.35s)
 
