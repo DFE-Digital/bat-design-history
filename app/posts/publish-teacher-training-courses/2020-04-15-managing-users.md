@@ -3,8 +3,6 @@ title: Managing users
 description: Providing a way for users to view, invite and remove users from their organisation
 date: 2020-04-15
 tags:
-  - PN007
-  - PN008
   - users
   - permissions
 screenshots:
@@ -26,8 +24,18 @@ This work closely follows [user management patterns](/manage-teacher-training-ap
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a Publish user
+  I need to see the other users that have access to my organisation
+  So that I can check the appropriate people have access"
+}) }}
+
+{{ appUserNeed({
+  description: "As a Publish user
+  I need to be able to add and remove users
+  So that only the appropriate people have access to my organisation"
+}) }}
 
 ## Hypotheses
 

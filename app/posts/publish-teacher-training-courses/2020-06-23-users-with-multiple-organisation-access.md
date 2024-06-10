@@ -3,10 +3,6 @@ title: Researching the needs of users with access to multiple organisations
 description: We were interested in learning more about users who belong to multiple organisations
 date: 2020-06-23
 tags:
-  - PN010
-  - PN011
-  - PN012
-  - PN013
   - users
   - organisations
   - permissions
@@ -38,77 +34,25 @@ We were interested in learning more about users who belong to multiple organisat
 
 Approximately 21% of active Publish users belong to more than one organisation.
 
-<table class="govuk-table">
-  <caption class="govuk-table__caption">The ratio of users who belong to multiple organisations</caption>
-  <thead class="govuk-table__head">
-    <tr class="govuk-table__row">
-      <th scope="col" class="govuk-table__header--numeric">Number of users</th>
-      <th scope="col" class="govuk-table__header--numeric">Number of organisations a user belongs to</th>
-    </tr>
-  </thead>
-  <tbody class="govuk-table__body">
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1410</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">245</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">62</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">3</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">17</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">4</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">4</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">6</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cel govuk-table__cell--numeric">2</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">8</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">9</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">12</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">16</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">17</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">18</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">20</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">Total active users: 1765</td>
-      <td class="govuk-table__cel"></td>
-    </tr>
-  </tbody>
-</table>
+### The ratio of users who belong to multiple organisations
+
+|Number of users|Number of organisations a user belongs to|
+|--- |--- |
+|1410|1|
+|245|2|
+|62|3|
+|17|4|
+|5|5|
+|4|6|
+|7|7|
+|2|8|
+|2|9|
+|7|12|
+|1|16|
+|1|17|
+|1|18|
+|1|20|
+|Total active users: 1765||
 
 (Data from May 2020)
 
@@ -168,8 +112,12 @@ The research highlighted the need for multi-organisation users to be able to spe
 
 #### User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PN013')}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a user who belongs to an accredited provider with multiple training providers
+  I need the ability to choose which organisations I receive notifications about
+  So that I only get notified about specific events"
+}) }}
 
 When asked about notifications frequency participants mentioned that they would like to be notified as soon as a change happens. This is consistent with findings in [previous notifications research](/publish-teacher-training-courses/managing-users/).
 
@@ -181,8 +129,11 @@ Some participants mentioned the need to implement levels of access and permissio
 
 #### User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PN010')}) }}
+{{ appUserNeed({
+  description: "As an Publish user
+  I need to be able to assign permissions to other users
+  So that I can control their access level to features"
+}) }}
 
 > You need one person and or possibly two people to edit users... because that would prevent any malicious editing from people.
 
@@ -198,8 +149,11 @@ This suggests there is a need for course access permissions when adding users to
 
 #### User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PN011')}) }}
+{{ appUserNeed({
+  description: "As an accredited provider user when accessing a training providers organisation
+  I need to be able to see only the courses my accredited body is responsible for
+  So that I do not breach the agreement with my partners"
+}) }}
 
 > Yorkshire Anglican, they have two courses, one with us, and one with the University of Huddersfield. My partners are not happy that I can access those courses.
 
@@ -217,8 +171,11 @@ One participant mentioned their involvement with the Apply trial and queried acc
 
 #### User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PN012')}) }}
+{{ appUserNeed({
+  description: "As an accredited provider managing courses for different organisations
+  I need to be able to copy course content from one organisation to another, and not just within the same organisation
+  So that I save time and it is easier for me"
+}) }}
 
 > I would increase the copy facility so that you can copy between lead schools as well. So if I've got an identical course running out five different schools I've not got to, I can just copy it from one lead school to another.
 

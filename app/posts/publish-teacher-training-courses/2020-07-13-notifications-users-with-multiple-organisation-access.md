@@ -3,7 +3,6 @@ title: Notifications for users with access to multiple organisations
 description: Allowing accredited body users to choose which organisations they receive notifications about
 date: 2020-07-13
 tags:
-  - PN013
   - notifications
   - organisations
   - accredited providers
@@ -19,140 +18,46 @@ In [previous research](/publish-teacher-training-courses/users-with-multiple-org
 
 ## User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PN013')}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a user who belongs to an accredited provider with multiple training providers
+  I need the ability to choose which organisations I receive notifications about
+  So that I only get notified about specific events"
+}) }}
 
-<table class="govuk-table">
-  <caption class="govuk-table__caption">The ratio of accredited bodies with multiple training providers</caption>
-  <thead class="govuk-table__head">
-    <tr class="govuk-table__row">
-      <th scope="col" class="govuk-table__header--numeric">Number of accredited bodies</th>
-      <th scope="col" class="govuk-table__header--numeric">Number of training providers they accredited</th>
-    </tr>
-  </thead>
-  <tbody class="govuk-table__body">
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">68</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">37</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">17</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">3</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">11</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">4</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">10</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">8</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">6</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
-      <td class="govuk-table__cel govuk-table__cell--numeric">8</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">6</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">9</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">5</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">10</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">11</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">12</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">13</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">4</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">14</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">7</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">15</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">16</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">17</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">3</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">18</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">4</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">19</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">3</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">20</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">21</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">22</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">3</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">23</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">24</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">25</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">26</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">2</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">27</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">35</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">1</td>
-      <td class="govuk-table__cell govuk-table__cell--numeric">36</td>
-    </tr>
-    <!-- <tr class="govuk-table__row">
-      <td class="govuk-table__cell govuk-table__cell--numeric">Total users: 3357</td>
-      <td class="govuk-table__cel"></td>
-    </tr> -->
-  </tbody>
-</table>
+### The ratio of accredited bodies with multiple training providers
+
+|Number of accredited bodies|Number of training providers they accredited|
+|--- |--- |
+|68|1|
+|37|2|
+|17|3|
+|11|4|
+|10|5|
+|8|6|
+|5|7|
+|5|8|
+|6|9|
+|5|10|
+|2|11|
+|7|12|
+|1|13|
+|4|14|
+|7|15|
+|2|16|
+|1|17|
+|3|18|
+|4|19|
+|3|20|
+|2|21|
+|1|22|
+|3|23|
+|1|24|
+|1|25|
+|2|26|
+|2|27|
+|1|35|
+|1|36|
 
 (Data from early August 2020)
 

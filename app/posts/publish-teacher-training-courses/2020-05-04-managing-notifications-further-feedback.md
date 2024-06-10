@@ -3,7 +3,6 @@ title: Managing notifications – feedback from universities
 description: Changes to notifications following research with HEIs
 date: 2020-05-04
 tags:
-  - PN003
   - notifications
 related:
   items:
@@ -25,8 +24,12 @@ Accredited bodies were asked to provide feedback on notifications initiated by t
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PN003')}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As an accredited provider
+  I need to be notified of changes by providers to courses I ratify
+  So that I can keep my student record system up to date and in sync with UCAS"
+}) }}
 
 ## Who we tested with
 

@@ -3,8 +3,6 @@ title: Giving accredited bodies the ability to manage courses they ratify
 description: We added a way for accredited bodies to manage their training partners’ courses
 date: 2022-05-04
 tags:
-  - PN014
-  - PN016
   - accredited providers
   - permissions
 screenshots:
@@ -32,8 +30,18 @@ This work builds upon the changes we introduced to:
 
 The user needs this work aims to address are:
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a user from an accredited provider with responsibilities for courses we ratify
+  I need to be able to access and make changes to my training partners’ courses
+  So that I can manage the courses and ensure their quality"
+}) }}
+
+{{ appUserNeed({
+  description: "As a user from an accredited provider with the ability to manage my training partners’ courses
+  I need to see courses we ratify and not courses other accredited providers’ ratify
+  So that I cannot accidentally or incorrectly make changes to courses ratified by other providers"
+}) }}
 
 ## What we changed
 
