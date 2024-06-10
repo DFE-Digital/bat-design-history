@@ -104,8 +104,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('user-need', collectionApi => {
     return collectionApi.getFilteredByGlob([
       'app/posts/apply-for-teacher-training/user-needs/*.md',
-      'app/posts/manage-teacher-training-applications/user-needs/*.md',
-      'app/posts/publish-teacher-training-courses/user-needs/*.md'
+      'app/posts/manage-teacher-training-applications/user-needs/*.md'
     ])
   })
 
