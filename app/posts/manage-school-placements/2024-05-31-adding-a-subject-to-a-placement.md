@@ -1,54 +1,27 @@
 ---
-
 title: Adding a subject to a placement
-
 description: We changed the way that school users add the subject to a placement.
-
 date: 2024-05-31
-
 tags:
-
   - partner schools
-
   - placements
-
 related:
-
   items:
-
     - text: User research round 1 findings
-
       href: https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/user-research-round-1-findings/
-
     - text: Adding placements if you belong to a school
-
       href: https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/adding-placements/
-
-
-
 screenshots:
-
   items:
-
     - text: Secondary phase subjects
-
       src: subject.png
-
     - text: Modern languages subjects
-
       src: modern-languages.png
-
     - text: Check your answers
-
       src: check-your-answers.png
-
     - text: Placements page
-
       src: placements-page.png
-
 ---
-
-
 
 In user research we observed that some participants confused the ‘Select all that apply’ instruction on the ‘Subject’ screen for secondary school placements. They interpreted it as saying they should select all subjects relevant to the school rather than only those applicable to the individual placement. In most cases, there will only be one subject for a single placement, but there are exceptions, such as for French and Spanish placements.
 
