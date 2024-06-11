@@ -20,8 +20,8 @@ The ‘Type of degree’ field did have an autocomplete, containing entries for 
 
 Examples of the ways that degree type was entered:
 
-|Degree type entered|Count|
-|--- |--- |
+| Degree type entered | Count |
+| --- | --- |
 |Bachelor of Arts|25,280|
 |BA|1,586|
 |Bachelor of Arts (Honours)|31|

@@ -36,9 +36,9 @@ Approximately 21% of active Publish users belong to more than one organisation.
 
 ### The ratio of users who belong to multiple organisations
 
-|Number of users|Number of organisations a user belongs to|
-|--- |--- |
-|1410|1|
+| Number of users | Number of organisations a user belongs to |
+| --- | --- |
+|1,410|1|
 |245|2|
 |62|3|
 |17|4|
@@ -52,7 +52,8 @@ Approximately 21% of active Publish users belong to more than one organisation.
 |1|17|
 |1|18|
 |1|20|
-|Total active users: 1765||
+
+Total active users: 1,765
 
 (Data from May 2020)
 

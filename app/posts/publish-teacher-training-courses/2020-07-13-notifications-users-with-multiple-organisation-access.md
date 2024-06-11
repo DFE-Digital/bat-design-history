@@ -27,8 +27,8 @@ In [previous research](/publish-teacher-training-courses/users-with-multiple-org
 
 ### The ratio of accredited bodies with multiple training providers
 
-|Number of accredited bodies|Number of training providers they accredited|
-|--- |--- |
+| Number of accredited bodies | Number of training providers they accredited |
+| --- | --- |
 |68|1|
 |37|2|
 |17|3|
