@@ -52,15 +52,11 @@ screenshots:
 
 In user research we observed that some participants confused the ‘Select all that apply’ instruction on the ‘Subject’ screen for secondary school placements. They interpreted it as saying they should select all subjects relevant to the school rather than only those applicable to the individual placement. In most cases, there will only be one subject for a single placement, but there are exceptions, such as for French and Spanish placements.
 
-
-
 ## What we changed
 
 - We changed the subject page for secondary phase subjects to only allow a single selection.
 
 - We made it possible for users who select ‘modern languages’ to further specify which languages the placement is for.
-
-
 
 ## How it works
 
@@ -77,8 +73,6 @@ If a user chooses modern languages from the secondary subjects list, they’re t
 ### Placement titles
 
 By default, placements take the title of the subject. If the placement is for modern languages, then the placement title is the language or languages selected.
-
-
 
 ## Further considerations
 
