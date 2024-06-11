@@ -1,7 +1,7 @@
 ---
 title: Apply – June 2019 – Review and submit
 description: See what you’ve entered, interview preferences and submission
-date: 2019-08-16
+date: 2019-08-16T01:00:00+00:00
 screenshots:
   items:
     - Review application
@@ -9,3 +9,5 @@ screenshots:
     - Anything else and submission
     - Application submitted
 ---
+
+See what you’ve entered, interview preferences and submission.

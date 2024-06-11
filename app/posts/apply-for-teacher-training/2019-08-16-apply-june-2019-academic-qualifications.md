@@ -1,7 +1,7 @@
 ---
 title: Apply – June 2019 – Academic qualifications
 description: Adding your degree, statutory requirements and other qualifications
-date: 2019-08-16
+date: 2019-08-16T08:00:00+00:00
 screenshots:
   items:
     - Academic qualifications
@@ -14,3 +14,5 @@ screenshots:
     - Add English GCSE equivalent
     - Add other qualification
 ---
+
+Adding your degree, statutory requirements and other qualifications.

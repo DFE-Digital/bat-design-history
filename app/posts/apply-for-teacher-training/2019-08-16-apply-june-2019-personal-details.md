@@ -1,7 +1,7 @@
 ---
 title: Apply – June 2019 – Personal details
 description: Adding name, nationality and visas
-date: 2019-08-16
+date: 2019-08-16T10:00:00+00:00
 screenshots:
   items:
     - Dashboard
@@ -12,3 +12,5 @@ screenshots:
     - "Residency status: general student visa"
     - "Residency status: unknown"
 ---
+
+Adding name, nationality and visas.

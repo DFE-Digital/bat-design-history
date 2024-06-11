@@ -1,6 +1,6 @@
 ---
-title: Work history - August iteration
-description: Move guidance into a question.
+title: Work history – August iteration
+description: Move guidance into a question
 date: 2019-08-16
 screenshots:
   items:
