@@ -10,7 +10,7 @@ tags:
 
   - partner schools
 
-  - Placements
+  - placements
 
 related:
 
