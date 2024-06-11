@@ -1,6 +1,6 @@
 ---
-title: Sign up
-description: Registering for UCAS Teacher Training.
+title: UCAS sign up
+description: Registering for UCAS Teacher Training
 date: 2019-02-16
 screenshots:
   items:
@@ -15,3 +15,5 @@ screenshots:
     - Security
     - Registration successful
 ---
+
+Registering for UCAS Teacher Training.

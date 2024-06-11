@@ -1,6 +1,6 @@
 ---
-title: Emails
-description: Registering for UCAS Teacher Training.
+title: UCAS emails
+description: Registering for UCAS Teacher Training
 date: 2019-02-16
 ---
 

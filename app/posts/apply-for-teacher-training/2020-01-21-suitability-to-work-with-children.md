@@ -29,7 +29,7 @@ related:
     - text: Provider PR
       href: https://github.com/DFE-Digital/manage-teacher-training-applications-prototype/pull/28
     - text: What UCAS do
-      href: /apply-for-teacher-training/ucas/application#criminal-declaration-in-course-choice
+      href: /apply-for-teacher-training/ucas-application-form#criminal-declaration-in-course-choice
     - text: List of offences that will never be filtered from a DBS certificate
       href: https://www.gov.uk/government/publications/dbs-list-of-offences-that-will-never-be-filtered-from-a-criminal-record-check
     - text: What will show up on a DBS check
@@ -51,7 +51,7 @@ Until now we were only subtly referencing criminal records in the final [Anythin
 A summary of feedback we’ve received:
 
 * A section for convictions or cautions? In regards to safeguarding and sex offences. They think it is good practice to ask this question. This seems to be a deal-breaker.
-* A major red flag was that we don’t ask about unspent criminal convictions/or if someone is on sex offender register. Although a DBS would filter out these candidates later down the line many interview days involve children and so an early question may filter out some unsuitable candidates. [UCAS ask this question](/apply-for-teacher-training/ucas/application#criminal-declaration-in-course-choice) in some form.
+* A major red flag was that we don’t ask about unspent criminal convictions/or if someone is on sex offender register. Although a DBS would filter out these candidates later down the line many interview days involve children and so an early question may filter out some unsuitable candidates. [UCAS ask this question](/apply-for-teacher-training/ucas-application-form#criminal-declaration-in-course-choice) in some form.
 * Would like criminal record, honesty is important, they want it as an integrity check
 
 Providers interview before requesting a DBS check. Interviews will often involve working with children.

@@ -1,6 +1,6 @@
 ---
-title: Coronavirus (COVID-19) email
-description: Communicating temporary changes to the decline by default and reject by default decision dates.
+title: UCAS coronavirus (COVID-19) email
+description: Communicating temporary changes to the decline by default and reject by default decision dates
 date: 2019-02-16
 ---
 

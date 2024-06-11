@@ -1,6 +1,6 @@
 ---
-title: Application form
-description: Completing the UCAS application form.
+title: UCAS application form
+description: Completing the UCAS application form
 date: 2019-02-16
 screenshots:
   items:
@@ -24,3 +24,5 @@ screenshots:
     - Section completion statuses
     - Check form
 ---
+
+Completing the UCAS application form.
