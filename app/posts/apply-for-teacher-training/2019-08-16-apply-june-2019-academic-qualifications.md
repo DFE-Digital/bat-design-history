@@ -1,5 +1,5 @@
 ---
-title: Apply - June 2019 - Academic qualifications
+title: Apply – June 2019 – Academic qualifications
 description: Adding your degree, statutory requirements and other qualifications
 date: 2019-08-16
 screenshots:
