@@ -1,6 +1,6 @@
 ---
 title: Asking candidates for reference details when they apply
-description: We changed the application process because candidates no longer need to receive 2 references before they apply.
+description: We changed the application process because candidates no longer need to receive 2 references before they apply
 date: 2022-10-27
 tags:
   - references
@@ -22,7 +22,7 @@ related:
     - text: "February 2020: Replace both referees"
       href: /apply-for-teacher-training/add-2-new-referees/
     - text: "June 2019: References (first design)"
-      href: /apply-for-teacher-training/apply-june-2019/references/
+      href: /apply-for-teacher-training/apply-june-2019-references/
 ---
 
 ![Illustration with the text: "Safeguarding: references to be collected if you accept an offer (incomplete)""](/apply-for-teacher-training/asking-candidates-for-reference-details-when-they-apply/references-to-be-collected.png)

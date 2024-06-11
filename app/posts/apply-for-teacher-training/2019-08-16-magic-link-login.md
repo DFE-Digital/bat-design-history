@@ -1,6 +1,6 @@
 ---
 title: Sign up and log in using a magic link
-description: An alternative to using an account and password.
+description: An alternative to using an account and password
 date: 2019-08-16
 tags:
   - user accounts
@@ -12,7 +12,7 @@ screenshots:
     - Please confirm your email address
 ---
 
-An alternative to the [account and password design](/apply-for-teacher-training/apply-june-2019/create-account).
+An alternative to the [account and password design](/apply-for-teacher-training/apply-june-2019-create-account).
 
 Users had trouble with accounts:
 

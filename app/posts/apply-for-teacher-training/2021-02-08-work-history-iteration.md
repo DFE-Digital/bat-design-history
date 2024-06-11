@@ -1,6 +1,6 @@
 ---
 title: Improving work history
-description: Asking for a full work history and simplifying the section by removing skills and experience.
+description: Asking for a full work history and simplifying the section by removing skills and experience
 date: 2021-01-08
 tags:
   - work history
@@ -27,7 +27,7 @@ related:
       href: /apply-for-teacher-training/work-history/
       description: Previous change to the work history flow
     - text: Work history
-      href: /apply-for-teacher-training/apply-june-2019/work-history
+      href: /apply-for-teacher-training/apply-june-2019-work-history
       description: Initial implementation of work history
 ---
 

@@ -1,18 +1,18 @@
 ---
 title: Removing the teaching profile
-description: Why we removed it, and the alternative.
+description: Why we removed it, and the alternative
 date: 2019-08-19
 screenshots:
   items:
     - text: Application with courses
       src: /apply-for-teacher-training/pick-a-course/your-application.png
     - text: Old dashboard
-      src: /apply-for-teacher-training/apply-june-2019/personal-details/dashboard.png
+      src: /apply-for-teacher-training/apply-june-2019-personal-details/dashboard.png
     - text: Old personal teaching profile
-      src: /apply-for-teacher-training/apply-june-2019/personal-details/personal-teaching-profile.png
+      src: /apply-for-teacher-training/apply-june-2019-personal-details/personal-teaching-profile.png
 ---
 
-[In the July 2019 prototype](https://apply-beta-prototype-v1.herokuapp.com/) ([screenshots](/apply-for-teacher-training/apply-june-2019/personal-details)) we tested a version of the application where course choice was separated from your teaching profile. Your teaching profile was a shareable or reusable profile that would be pulled into each application.
+[In the July 2019 prototype](https://apply-beta-prototype-v1.herokuapp.com/) ([screenshots](/apply-for-teacher-training/apply-june-2019-personal-details)) we tested a version of the application where course choice was separated from your teaching profile. Your teaching profile was a shareable or reusable profile that would be pulled into each application.
 
 In the next design iteration we brought course choice and each section together beneath the Application heading.
 
