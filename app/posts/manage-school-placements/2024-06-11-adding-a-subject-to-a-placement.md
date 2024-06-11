@@ -8,7 +8,7 @@ date: 2024-05-31
 
 tags:
 
-  - Partner schools
+  - partner schools
 
   - Placements
 
