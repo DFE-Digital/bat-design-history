@@ -18,24 +18,20 @@ This was an issue because the very next question was ‘What subject is your deg
 
 The ‘Type of degree’ field did have an autocomplete, containing entries for all the common and not-so-common degree type abbreviations, but a high proportion of users did not select an entry from this list.
 
-<table>
-<caption class="govuk-table__caption govuk-table__caption--m">Examples of the ways that degree type was entered</caption>
-<thead>
-<tr><th>Degree type entered</th><th>Count</th></tr>
-</thead>
-<tbody>
-  <tr><td>Bachelor of Arts</td><td class="govuk-table__cell--numeric">25,280</td></tr>
-  <tr><td>BA</td><td class="govuk-table__cell--numeric">1,586</td></tr>
-  <tr><td>Bachelor of Arts (Honours)</td><td class="govuk-table__cell--numeric">31</td></tr>
-  <tr><td>Bachelor of Arts (Hons)</td><td class="govuk-table__cell--numeric">33</td></tr>
-  <tr><td>Bachelor of Arts with Honours</td><td class="govuk-table__cell--numeric">123</td></tr>
-  <tr><td>BA English</td><td class="govuk-table__cell--numeric">20</td></tr>
-  <tr><td>BA/Education</td><td class="govuk-table__cell--numeric">1,723</td></tr>
-  <tr><td>History</td><td class="govuk-table__cell--numeric">12</td></tr>
-  <tr><td>BA History</td><td class="govuk-table__cell--numeric">13</td></tr>
-  <tr><td>BA French</td><td class="govuk-table__cell--numeric">7</td></tr>
-</tbody>
-</table>
+**Examples of the ways that degree type was entered**
+
+|Degree type entered|Count|
+|--- |--- |
+|Bachelor of Arts|25,280|
+|BA|1,586|
+|Bachelor of Arts (Honours)|31|
+|Bachelor of Arts (Hons)|33|
+|Bachelor of Arts with Honours|123|
+|BA English|20|
+|BA/Education|1,723|
+|History|12|
+|BA History|13|
+|BA French|7|
 
 To resolve this issue, we changed the order of the questions and made degree type easier to select.
 

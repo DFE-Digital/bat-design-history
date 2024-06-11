@@ -21,67 +21,12 @@ This relates to minimum grades for Maths, English and Science – grades A* to C
 
 Depending on the qualification selected in the Education section of apply and the course selected in the Choices section (and that course’s specific course requirements), applicants will get different warnings in the ‘Check form’ section:
 
-<table class="govuk-table">
-  <thead class="govuk-table__head">
-    <tr class="govuk-table__row">
-      <th class="govuk-table__header" scope="col"></th>
-      <th class="govuk-table__header" scope="col">1: Must have</th>
-      <th class="govuk-table__header" scope="col">2: Taking</th>
-      <th class="govuk-table__header" scope="col">3: Equivalency test</th>
-      <th class="govuk-table__header" scope="col">9: do not care</th>
-    </tr>
-  </thead>
-  <tbody class="govuk-table__body">
-    <tr class="govuk-table__row">
-      <th class="govuk-table__cell">
-        <strong>A* – C</strong>
-      </th>
-      <td class="govuk-table__cell">No alert</td>
-      <td class="govuk-table__cell">No alert</td>
-      <td class="govuk-table__cell">No alert</td>
-      <td class="govuk-table__cell">No alert</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <th class="govuk-table__cell">
-        <strong>Pending</strong>
-      </th>
-      <td class="govuk-table__cell">
-        <strong style="color: #d4351c">Alert</strong>
-      </td>
-      <td class="govuk-table__cell">No alert</td>
-      <td class="govuk-table__cell">No alert</td>
-      <td class="govuk-table__cell">No alert</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <th class="govuk-table__cell">
-        <strong>Equivalence test</strong>
-      </th>
-      <td class="govuk-table__cell">
-        <strong style="color: #d4351c">Alert</strong>
-      </td>
-      <td class="govuk-table__cell">
-        <strong style="color: #d4351c">Alert</strong>
-      </td>
-      <td class="govuk-table__cell">No alert</td>
-      <td class="govuk-table__cell">No alert</td>
-    </tr>
-    <tr class="govuk-table__row">
-      <th class="govuk-table__cell">
-        <strong>D – G</strong>
-      </th>
-      <td class="govuk-table__cell">
-        <strong style="color: #d4351c">Alert</strong>
-      </td>
-      <td class="govuk-table__cell">
-        <strong style="color: #d4351c">Alert</strong>
-      </td>
-      <td class="govuk-table__cell">
-        <strong style="color: #d4351c">Alert</strong>
-      </td>
-      <td class="govuk-table__cell">No alert</td>
-    </tr>
-  </tbody>
-</table>
+||1: Must have|2: Taking|3: Equivalency test|9: do not care|
+|--- |--- |--- |--- |--- |
+|A* – C|No alert|No alert|No alert|No alert|
+|Pending|Alert|No alert|No alert|No alert|
+|Equivalence test|Alert|Alert|No alert|No alert|
+|D – G|Alert|Alert|Alert|No alert|
 
 ### 1: Must have
 
