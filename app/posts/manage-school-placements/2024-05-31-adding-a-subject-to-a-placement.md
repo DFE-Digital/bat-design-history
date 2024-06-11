@@ -8,9 +8,9 @@ tags:
 related:
   items:
     - text: User research round 1 findings
-      href: https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/user-research-round-1-findings/
+      href: /manage-school-placements/user-research-round-1-findings/
     - text: Adding placements if you belong to a school
-      href: https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/adding-placements/
+      href: /manage-school-placements/adding-placements/
 screenshots:
   items:
     - text: Secondary phase subjects
