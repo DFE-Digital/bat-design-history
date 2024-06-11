@@ -50,8 +50,24 @@ We prototyped and tested features to:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As an ITT provider
+  I need to understand the new allocations process
+  So that I can request allocations and receive permission to recruit trainees for the upcoming recruitment cycle"
+}) }}
+
+{{ appUserNeed({
+  description: "As an ITT provider
+  I need to receive permission to recruit in uncapped courses
+  So that I can recruit to uncapped courses and access any DfE funding associated with these courses"
+}) }}
+
+{{ appUserNeed({
+  description: "As an ITT provider
+  I need to receive permission to recruit and allocations for capped courses
+  So I know how many trainees I can recruit to these courses and access any DfE funding associated with these courses"
+}) }}
 
 ## Who we tested with
 
@@ -73,17 +89,17 @@ We prototyped and tested features to:
 
 ## What we tested
 
-## Rollover screen
+### Rollover screen
 
 An additional screen to be included during the [rollover process](/publish-teacher-training-courses/what-we-did-for-rollover) to share guidance about permission to recruit trainees.
 
 [Rollover prototype](https://rollover-prototype.herokuapp.com/)
 
-### Feeback
+#### Feeback
 
 This page were generally deemed to be clear and succinct.
 
-## Requesting EYITT and undergraduate courses
+### Requesting EYITT and undergraduate courses
 
 Google forms will be used to collect requests for EYITT and undergraduate courses as the number of ITT providers offering these courses is low and these courses are outside the scope of ublish teacher training courses.
 
@@ -93,7 +109,7 @@ Links to these forms will be sent to accredited bodies via email.
 
 [Google form - Request EYITT courses for 2021/22](https://docs.google.com/forms/d/1cAvvWI6PK-FRLmwt7sVkwK0ljDYltpfV-LLfvR4-O6k/viewform)
 
-### Feeback
+#### Feeback
 
 One user noted that accessing a Google form would be problematic due to their school IT systems restricting access to Google tools.
 
@@ -101,7 +117,7 @@ Some users were unclear on whether the number of places requested should be a â€
 
 Users would prefer to be able to submit requests for all undergraduate courses courses in one go, rather than one google form per subject.
 
-## Request PE courses
+### Request PE courses
 
 Accredited bodies will have the ability to request courses on behalf of organisations they accredit from within Publish.
 
@@ -111,7 +127,7 @@ If the request is for an organisation running PE for the first time or had previ
 
 [Request PE courses prototype](https://allocations-alpha.herokuapp.com/)
 
-### Feeback
+#### Feeback
 
 Users liked the brevity and simplicity of this journey, and the clarity of the confirmation pages.
 

@@ -9,8 +9,6 @@ related:
         Username: `apply`
         Password: `bat`
       href: https://support-apply-prototype.herokuapp.com
-    - text: User needs
-      href: /support-for-apply/user-needs
 pagination:
   data: collections.support-for-apply
   reverse: true

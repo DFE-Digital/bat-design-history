@@ -2,9 +2,6 @@
 title: Only showing filters that return useful results
 description: We set rules for when individual filters, categories of filters and the filter panel should appear.
 date: 2022-03-19
-user_needs:
-  - MN021
-  - MN014
 tags:
   - filtering
 ---
@@ -27,8 +24,18 @@ Showing all the filters at all times means that:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to make decisions about applications before they’re automatically rejected
+So that candidates get a resonse within a reasonable timeframe"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
 
 ## What we changed
 

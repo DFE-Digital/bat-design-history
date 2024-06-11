@@ -48,8 +48,18 @@ The following scenarios could happen:
 
 We need to stop candidates from choosing courses that can’t accept them.
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(['AN017', 'AN018'])}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate trying to pick a specific course that’s full
+I need to be prevented from choosing it
+So that I don’t try and apply to a course that can’t accept me"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate trying to pick a specific course that’s full
+I need to be able to find it and see that it’s full
+So that I understand why I can’t apply to it"
+}) }}
 
 ### Hypothesis
 
@@ -68,7 +78,11 @@ Either:
 * [the course has been withdrawn](/publish-teacher-training-courses/deleting-and-withdrawing) (maybe it’s no longer running, or was published by mistake)
 * the study mode they picked (full time or part time) is now full
 
-{{ appUserNeeds({ items: collections['user-need'] | slugs(['AN019'])}) }}
+{{ appUserNeed({
+  description: "As a candidate that has picked a course that has become full or unavailable
+I need to be prevented from applying to it
+So that I don’t waste a choice on a course that can’t accept me"
+}) }}
 
 ### Hypothesis
 
@@ -112,7 +126,11 @@ When a location is full and another location is available, the first option is t
 
 Some providers close a course when they think they have enough interviews lined up. Not all of these interviews will be successful, and there’s a chance the course will reopen.
 
-{{ appUserNeeds({ items: collections['user-need'] | slugs(['AN020'])}) }}
+{{ appUserNeed({
+  description: "As a candidate that really wants to apply to a course that’s full
+I need to contact the provider
+So that I can find out if there’s a chance the course will reopen, or to find out if there’s a suitable alternative"
+}) }}
 
 ### Hypothesis
 

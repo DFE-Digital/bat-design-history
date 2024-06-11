@@ -2,6 +2,8 @@
 title: Reasons for rejection iteration 2
 description: Helping providers give useful feedback to candidates who’ve been rejected
 date: 2020-05-12
+tags:
+  - rejections
 screenshots:
   items:
     - text: Step 1
@@ -16,10 +18,6 @@ screenshots:
       src: preview.png
     - text: Step 5 (not interested in future applications)
       src: preview-not-interested.png
-user_needs:
-  - AN029
-tags:
-  - rejections
 ---
 
 ## Hypotheses
@@ -78,5 +76,9 @@ Then providers will be able to provide feedback in the right format without worr
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}

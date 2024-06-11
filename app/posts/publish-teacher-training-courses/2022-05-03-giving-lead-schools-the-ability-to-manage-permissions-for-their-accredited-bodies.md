@@ -3,7 +3,6 @@ title: Giving lead schools the ability to manage permissions for their accredite
 description: We added a way for lead schools to give permission to their accredited bodies to manage courses and locations on their behalf
 date: 2022-05-03
 tags:
-  - PN015
   - permissions
   - accredited providers
   - lead schools
@@ -35,8 +34,12 @@ This work extends upon the changes we introduced that allowed [lead schools to m
 
 The user need this work aims to address is:
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a user from a School Direct partnership
+  I need to control the access and features available to users from the accredited providers that ratify my courses
+  So that their ability to act on my courses aligns with the agreement between the accredited provider and the School Direct partnership"
+}) }}
 
 ## What we changed
 

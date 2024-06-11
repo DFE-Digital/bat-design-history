@@ -2,6 +2,8 @@
 title: Sorting the application list in different ways
 description: We made the default sort order more straightforward and added 2 new options to sort by.
 date: 2022-03-15
+tags:
+  - applications overview
 screenshots:
   items:
     - text: Application list sorted by status
@@ -10,10 +12,6 @@ screenshots:
       src: application-list--most-recently-updated-sort.png
     - text: Application list sorted by least recently updated
       src: application-list--least-recently-updated-sort.png
-user_needs:
-  - MN021
-tags:
-  - applications overview
 ---
 
 At the moment [the application list is sorted by priority](/manage-teacher-training-applications/help-users-know-what-needs-doing-and-whats-changed/). We gather applications under headings such as:
@@ -33,8 +31,12 @@ This priority order is problematic because:
 
 ## User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
 
 ## What we changed
 

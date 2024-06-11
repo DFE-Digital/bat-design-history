@@ -2,8 +2,6 @@
 title: Reasons for rejection iteration 5
 description: Changing the categorisation, content and interaction of selecting reasons for rejection.
 date: 2021-10-04
-user_needs:
-  - AN029
 tags:
   - rejections
 screenshots:
@@ -34,8 +32,12 @@ We launched [structured reasons for rejection](/manage-teacher-training-applicat
 
 The candidate user need this meets is:
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
 
 ## How it works currently
 

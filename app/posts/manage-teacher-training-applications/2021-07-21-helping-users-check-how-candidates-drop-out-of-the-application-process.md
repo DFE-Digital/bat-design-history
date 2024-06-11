@@ -2,8 +2,6 @@
 title: Helping users check how candidates drop out of the application process
 description: We created a report showing how candidates leave the application process, when the choice is theirs rather than the provider’s
 date: 2021-07-21
-user_needs:
-  - MN028
 tags:
   - reports
 screenshots:
@@ -27,14 +25,11 @@ We found that some research participants had trouble understanding the progress 
 
 This caused us to look again at the user needs and refine the wording of the need we were trying to meet.
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
+  description: "As a provider
+I need to know where I’m losing candidates within the application process
+So that I can identify and keep more candidates"
 }) }}
 
 The progress report only met this need indirectly, as it focused on successful progress through the application process.

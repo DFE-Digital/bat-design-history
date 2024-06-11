@@ -65,9 +65,11 @@ It may be useful for international applicants to know which providers can sponso
 
 ### User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({
-  items: collections['user-need'] | slugs(['AN025'])
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As an international candidate
+I need to keep my visa options open
+So that I can apply for a visa that matches the offer I accept and my financial circumstances at the time"
 }) }}
 
 ### Hypothesis
@@ -126,12 +128,16 @@ Does it give providers the information they need?
 
 ### User needs
 
-{{ appUserNeeds({
-  items: collections['user-need'] | slugs(['AN026'])
+{{ appUserNeed({
+  description: "As an international candidate
+I need to give details of any English language qualifications I have
+So that I can demonstrate my proficiency of the English language"
 }) }}
 
-{{ appUserNeeds({
-  items: collections['user-need'] | slugs(['MN015'])
+{{ appUserNeed({
+  description: "As a provider
+I need to see an international candidate’s English language qualifications
+So that I can make a decision about their application"
 }) }}
 
 ### Hypothesis
@@ -187,8 +193,10 @@ Terms like ‘GCSE’, ‘grade’, ‘subject’, and ‘awarding body’ were 
 
 ### User need
 
-{{ appUserNeeds({
-  items: collections['user-need'] | slugs(['AN027'])
+{{ appUserNeed({
+  description: "As a candidate with international qualifications
+I need to give information about qualifications taken outside of the UK
+So that providers understand what my qualifications are equivalent to"
 }) }}
 
 ### Hypothesis

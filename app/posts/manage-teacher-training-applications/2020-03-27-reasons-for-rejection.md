@@ -2,16 +2,14 @@
 title: Reasons for rejection
 description: Helping providers give useful feedback to candidates who have been rejected
 date: 2020-03-27
+tags:
+  - rejections
 screenshots:
   items:
     - Respond
     - Reasons
     - Check answers
     - Flash message
-user_needs:
-  - AN029
-tags:
-  - rejections
 ---
 
 ## Hypothesis
@@ -40,5 +38,9 @@ We'll know this works when:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}

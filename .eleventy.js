@@ -101,13 +101,13 @@ module.exports = function (eleventyConfig) {
   })
 
   // A collection of user need pages
-  eleventyConfig.addCollection('user-need', collectionApi => {
-    return collectionApi.getFilteredByGlob([
-      'app/posts/apply-for-teacher-training/user-needs/*.md',
-      'app/posts/manage-teacher-training-applications/user-needs/*.md',
-      'app/posts/publish-teacher-training-courses/user-needs/*.md'
-    ])
-  })
+  // eleventyConfig.addCollection('user-need', collectionApi => {
+  //   return collectionApi.getFilteredByGlob([
+  //     'app/posts/apply-for--teacher-training/user-needs/*.md',
+  //     'app/posts/manage-teacher-training-applications/user-needs/*.md',
+  //     'app/posts/publish-teacher-training-courses/user-needs/*.md'
+  //   ])
+  // })
 
   // A collection of unique tags used across all posts
   eleventyConfig.addCollection('allTags', collectionApi => {

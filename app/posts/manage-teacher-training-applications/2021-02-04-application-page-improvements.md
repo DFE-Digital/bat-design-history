@@ -3,9 +3,8 @@ title: Application page improvements
 description: Various improvements to the way we present work history and other parts of the application details page
 date: 2021-02-04
 tags:
-  - MN024
-  - MN025
-  - MN007
+  - application details
+  - work history
 screenshots:
   items:
     - text: Separate work history and unpaid experience - both provided
@@ -86,5 +85,21 @@ As part of this work we took the opportunity to tidy up the heading sizes and sp
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to check a candidate’s qualifications
+So that I can make a decision about their application"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to spot any unexplained breaks in a candidate’s work and academic history
+So that I can ask candidates about them and check for any safeguarding issues"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to see a candidate’s work experience
+So that I can make a decision about their suitability to be a teacher"
+}) }}

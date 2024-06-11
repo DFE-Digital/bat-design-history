@@ -6,11 +6,8 @@ related:
   items:
     - text: Prototype
       description: |
-        Username: `publish`
         Password: `bat`
       href: https://publish-courses-prototype.herokuapp.com
-    - text: User needs
-      href: /publish-teacher-training-courses/user-needs
 pagination:
   data: collections.publish-teacher-training-courses
   reverse: true

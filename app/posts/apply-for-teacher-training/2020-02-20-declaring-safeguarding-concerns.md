@@ -28,8 +28,18 @@ However, we also need to consider how candidates respond to this section of the 
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to feel comfortable to disclose negative information about my past
+So that I know whether it’s worth carrying on with my application"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know about a candidate’s past
+So that I can make a decision about their application"
+}) }}
 
 ## Hypothesis
 

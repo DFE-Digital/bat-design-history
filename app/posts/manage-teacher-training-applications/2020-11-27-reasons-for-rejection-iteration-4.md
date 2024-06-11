@@ -2,6 +2,8 @@
 title: Reasons for rejection iteration 4 (emails)
 description: Various improvements to reasons for rejection and email redesign
 date: 2020-11-27
+tags:
+  - rejections
 screenshots:
   items:
     - text: Make decision
@@ -14,10 +16,6 @@ screenshots:
       src: check-answers.png
     - text: Application details
       src: application-details.png
-user_needs:
-  - AN029
-tags:
-  - rejections
 ---
 
 <!-- markdownlint-disable MD001 MD025 -->
@@ -42,8 +40,12 @@ This iteration contains the following improvements:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
 
 ## Emails
 

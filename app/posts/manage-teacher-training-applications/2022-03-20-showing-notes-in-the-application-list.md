@@ -2,17 +2,14 @@
 title: Showing notes in the application list
 description: We added the latest note for each application to the application list.
 date: 2022-03-20
+tags:
+  - notes
 screenshots:
   items:
     - text: Application list filtered by ‘has note’
       src: application-list--filter-has-notes.png
     - text: Application list with search by content of the latest note
       src: application-list--search-note-content.png
-user_needs:
-  - MN004
-  - MN021
-tags:
-  - notes
 ---
 
 Providers use notes in their spreadsheets to help them prioritise work and see what needs to be done. They can look at notes for different applications at the same time.
@@ -21,8 +18,18 @@ Notes are rarely used within the service. Research suggests that notes will be m
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know what’s happened to an application and when
+So that I can take appropriate action"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
 
 ## What we changed
 

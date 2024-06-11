@@ -4,7 +4,6 @@ description: First iteration of making an offer to a different course.
 date: 2020-02-10
 tags:
   - awaiting-validation
-  - MN003
 screenshots:
   items:
     - Details page
@@ -24,5 +23,9 @@ This option to make an offer to a different course would be available when the a
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to change the course
+So that I can give candidates a place on a different course that’s not full"
+}) }}

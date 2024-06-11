@@ -30,8 +30,18 @@ This gives providers evidence-based information about candidates, no matter wher
 
 ### User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As an international candidate
+I need to give details of any English language qualifications I have
+So that I can demonstrate my proficiency of the English language"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to see an international candidate’s English language qualifications
+So that I can make a decision about their application"
+}) }}
 
 ### Problems with this design
 

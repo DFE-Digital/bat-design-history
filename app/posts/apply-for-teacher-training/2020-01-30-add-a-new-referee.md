@@ -59,8 +59,12 @@ There’s a [follow up design for adding 2 new referees](/apply-for-teacher-trai
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to provide an alternative referee if my original referees have not responded or have declined
+So that my application can progress"
+}) }}
 
 ## Hypothesis
 

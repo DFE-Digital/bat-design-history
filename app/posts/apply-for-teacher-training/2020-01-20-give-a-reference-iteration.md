@@ -28,8 +28,18 @@ An [iteration on the initial design](/apply-for-teacher-training/give-a-referenc
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a referee
+I need to provide a useful reference
+So that I can help the candidate with their application and get back to my day as quickly as possible"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know that my referee doesn’t want to give a reference
+So that I can get another referee as quickly as possible to progress my application"
+}) }}
 
 ## Hypotheses
 

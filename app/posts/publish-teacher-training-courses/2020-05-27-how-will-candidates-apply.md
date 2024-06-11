@@ -3,7 +3,6 @@ title: How will candidates apply for this course?
 description: Making allowances for providers with bespoke application processes
 date: 2020-05-27
 tags:
-  - PN009
   - candidates
   - applications
 related:
@@ -19,8 +18,12 @@ Two organisations have recently indicated their preference for candidates to app
 
 ## User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs('PN009')}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+  I need to be able exclude my course from UCAS
+  So that candidates can apply for courses in my preferred way"
+}) }}
 
 ## Notes on a proposed process
 

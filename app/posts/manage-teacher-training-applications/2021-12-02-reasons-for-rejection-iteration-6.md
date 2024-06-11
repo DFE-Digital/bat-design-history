@@ -2,8 +2,6 @@
 title: Reasons for rejection iteration 6
 description: Getting the new flow ready for production.
 date: 2021-12-02
-user_needs:
-  - AN029
 tags:
   - rejections
 screenshots:
@@ -36,8 +34,12 @@ We recently redesigned the way users [reject applications and give feedback to c
 
 The user need this meets is:
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
 
 In our service we divide reasons for rejection into categories, some of which have sub-categories.
 

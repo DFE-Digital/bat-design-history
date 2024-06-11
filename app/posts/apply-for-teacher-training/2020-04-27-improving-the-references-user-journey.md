@@ -24,8 +24,12 @@ We need to adapt the references section so that it works for candidates in all s
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to be able to add, delete and replace references
+So that I can have 2 suitable references in my application"
+}) }}
 
 ## Hypotheses
 

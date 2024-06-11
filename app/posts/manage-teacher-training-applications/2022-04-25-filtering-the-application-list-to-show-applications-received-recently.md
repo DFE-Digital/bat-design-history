@@ -2,8 +2,6 @@
 title: Filtering the application list to show applications which were received recently
 description: We added a ‘date received’ filter category to help users find new applications.
 date: 2022-04-25
-user_needs:
-  - MN030
 tags:
   - filtering
 screenshots:
@@ -22,8 +20,12 @@ We’ve already tried some approaches to helping users [find applications which 
 
 ## User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know which applications have not been looked at yet
+So that I can start processing new applications quickly"
+}) }}
 
 ## Why we’re trying this approach
 

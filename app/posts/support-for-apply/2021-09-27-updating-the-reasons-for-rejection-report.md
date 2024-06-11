@@ -3,7 +3,6 @@ title: Updating the reasons for rejection report
 description: Improving how we show the reasons why an application was rejected
 date: 2021-09-27
 tags:
-  - SN001
   - reasons for rejection
   - reports
 related:
@@ -45,14 +44,11 @@ There is a report in the support service which shows how frequently each categor
 
 The user need we meet with this report is:
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
+  description: "As someone working at the DfE
+I need to see why applications are rejected
+So that I can improve the application process"
 }) }}
 
 We wanted to improve the report to make it easier for users to get the information they need.

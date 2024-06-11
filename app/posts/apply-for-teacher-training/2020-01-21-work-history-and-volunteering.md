@@ -25,8 +25,18 @@ Clarifying the guidance on these pages should ensure that candidates do not:
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to understand what information is needed about my (unpaid) work history
+So that I can be successful in my application."
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to see a candidate’s work experience
+So that I can make a decision about their suitability to be a teacher"
+}) }}
 
 ## Hypothesis
 

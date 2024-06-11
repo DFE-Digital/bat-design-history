@@ -64,8 +64,24 @@ Any 'disclosure' would be superseded by the DBS so it is rather redundant.
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need an opportunity to be honest about my checkered past
+So that I have a better chance of becoming a teacher"
+}) }}
+
+{{ appUserNeed({
+  description: "As a candidate
+I need to know what a DBS check is and what it’ll say about me
+So that I can make a decision about what to disclose beforehand"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know if a candidate is safe to work with children
+So that I can make a decision about their application"
+}) }}
 
 ## Hypotheses
 

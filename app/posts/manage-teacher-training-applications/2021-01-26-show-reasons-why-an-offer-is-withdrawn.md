@@ -2,11 +2,11 @@
 title: Show reasons why an offer is withdrawn
 description: Let users see the reasons why they withdrew an offer
 date: 2021-01-26
+tags:
+  - withdrawals
 screenshots:
   items:
     - Feedback page
-tags:
-  - AN029
 ---
 
 Providers give feedback to candidates when [withdrawing an offer](/manage-teacher-training-applications/withdrawing-an-offer/). But up to now (as an oversight) we haven’t shown it in the service.
@@ -17,5 +17,9 @@ So we added the feedback to the ‘feedback’ page so providers can always look
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}

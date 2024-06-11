@@ -2,6 +2,8 @@
 title: Comparing and processing applications across partner organisations and training locations iteration 2
 date: 2022-04-11
 description: We added a breakdown of applications by location and additional statuses.
+tags:
+  - applications overview
 screenshots:
   items:
     - text: User who belongs to a training provider
@@ -12,10 +14,6 @@ screenshots:
       src: accredited-body--locations.png
     - text: User who belongs to a training provider and accredited body
       src: multi-org.png
-user_needs:
-  - MN021
-tags:
-  - applications overview
 ---
 
 We recently gave users [a way to compare and process applications across partner organisations](/manage-teacher-training-applications/comparing-and-processing-applications-across-partner-organisations/).
@@ -24,8 +22,12 @@ But we did not give users a breakdown by training location. So we addressed this
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}
 
 ## Data analysis
 

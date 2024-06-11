@@ -1,11 +1,9 @@
 ---
-title: "Help users know what needs doing and what’s changed"
+title: Help users know what needs doing and what’s changed
 description: New application list focused on what needs doing and an activity log focused on what’s changed.
 date: 2020-07-15
 tags:
-  - MN004
-  - MN014
-  - MN021
+  - activity
 screenshots:
   items:
     - Application list ordered by priority
@@ -52,5 +50,21 @@ For example, if an offer was made, the details of the offer are shown.
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to know what’s happened to an application and when
+So that I can take appropriate action"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to make decisions about applications before they’re automatically rejected
+So that candidates get a resonse within a reasonable timeframe"
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider
+I need to know what needs doing on an application
+So that I can take appropriate action"
+}) }}

@@ -2,8 +2,6 @@
 title: Highlighting unexplained breaks in work history
 description: Instead of highlighting all breaks, we’ll now just highlight unexplained breaks.
 date: 2021-12-09
-user_needs:
-  - MN025
 tags:
   - work history
 screenshots:
@@ -16,8 +14,12 @@ We currently [highlight all breaks in a candidate’s work history](/manage-teac
 
 But users are specifically looking for unexplained breaks.
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to spot any unexplained breaks in a candidate’s work and academic history
+So that I can ask candidates about them and check for any safeguarding issues"
+}) }}
 
 ## What we changed
 

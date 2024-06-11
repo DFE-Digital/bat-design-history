@@ -3,7 +3,6 @@ title: Audit of email notifications and improvements to content
 description: We documented which emails are sent and when. We also improved the content to make the notifications clearer and more concise
 date: 2022-03-16
 tags:
-  - PN003
   - emails
   - notifications
 related:
@@ -28,14 +27,11 @@ We conducted a content audit of Publish notification emails. This involved:
 
 The user need that email notifications aim to address is:
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
+  description: "As an accredited provider
+  I need to be notified of changes by providers to courses I ratify
+  So that I can keep my student record system up to date and in sync with UCAS"
 }) }}
 
 As the need to keep records in sync with UCAS is no longer applicable, we will reassess the user need and conduct more user research.

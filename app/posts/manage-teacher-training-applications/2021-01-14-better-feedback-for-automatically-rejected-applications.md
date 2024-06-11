@@ -2,6 +2,8 @@
 title: Better feedback for automatically rejected applications
 description: Give candidates better feedback when their application was automatically rejected
 date: 2021-01-14
+tags:
+  - rejections
 screenshots:
   items:
     - Prompt
@@ -11,8 +13,6 @@ screenshots:
     - Feedback sent
     - Timeline updated
     - Feedback page
-tags:
-  - AN029
 ---
 
 At the moment, candidates are penalised in two ways when their application is automatically rejected.
@@ -27,5 +27,9 @@ It doesn’t make sense for it to be on the application details page, which cont
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}

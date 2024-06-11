@@ -2,8 +2,6 @@
 title: Helping users check how quickly courses are filling up
 description: Various small changes to get the design of the reports area ready for an initial release
 date: 2021-08-10
-user_needs:
-  - MN027
 tags:
   - reports
 screenshots:
@@ -20,14 +18,11 @@ We’ve made some changes to the reports section of the service, following on fr
 
 The user need this work aims to address is:
 
-{% set need = collections['user-need'] | slugs(tags) | first %}
-
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  title: need.data.title,
-  description: need.templateContent,
-  url: need.url,
-  status: need.data.status
+  description: "As a provider
+I need to know how quickly my courses are filling up
+So that I can manage the flow of applications"
 }) }}
 
 A user might manage the flow by, for example:

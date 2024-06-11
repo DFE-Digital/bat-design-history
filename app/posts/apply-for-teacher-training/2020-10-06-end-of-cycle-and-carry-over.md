@@ -57,9 +57,11 @@ Then most candidates will be able to progress their application across 2 recruit
 
 ## User need
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({
-  items: collections['user-need'] | slugs(['AN028'])
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate who did not get a place in the recruitment cycle I initially applied in, or started applying in
+I need to know that I can continue my application in the next recruitment cycle
+So that I can complete my application"
 }) }}
 
 ## What we designed

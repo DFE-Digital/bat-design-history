@@ -2,6 +2,8 @@
 title: Reasons for rejection iteration 3
 description: Combined some questions onto one page, added an additional question and improved content
 date: 2020-05-26
+tags:
+  - rejections
 screenshots:
   items:
     - text: Step 1
@@ -14,8 +16,6 @@ screenshots:
       src: preview.png
     - text: Step 5 (not interested in future applications)
       src: preview-not-interested.png
-tags:
-  - AN029
 ---
 
 ## Hypotheses
@@ -36,5 +36,9 @@ Then users will be able to find them more easily
 
 ## User needs
 
-{% from "user-needs/macro.njk" import appUserNeeds %}
-{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to know why my application was unsuccessful
+So that I can work out if I should apply again and if so how I can improve my next application"
+}) }}
