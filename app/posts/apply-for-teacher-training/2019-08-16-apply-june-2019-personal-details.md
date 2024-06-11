@@ -1,6 +1,6 @@
 ---
-title: Personal details
-description: Adding name, nationality and visas.
+title: Apply - June 2019 - Personal details
+description: Adding name, nationality and visas
 date: 2019-08-16
 screenshots:
   items:

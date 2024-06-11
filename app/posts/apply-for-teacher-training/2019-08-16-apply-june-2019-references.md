@@ -1,6 +1,6 @@
 ---
-title: References
-description: Adding first and second referees.
+title: Apply - June 2019 - References
+description: Adding first and second referees
 date: 2019-08-16
 screenshots:
   items:
