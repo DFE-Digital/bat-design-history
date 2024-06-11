@@ -2,6 +2,8 @@
 title: UCAS application form
 description: Completing the UCAS application form
 date: 2019-02-16
+tags:
+  - UCAS
 screenshots:
   items:
     - Welcome to UCAS teacher training
