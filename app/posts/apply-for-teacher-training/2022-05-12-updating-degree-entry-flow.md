@@ -18,7 +18,7 @@ This was an issue because the very next question was ‘What subject is your deg
 
 The ‘Type of degree’ field did have an autocomplete, containing entries for all the common and not-so-common degree type abbreviations, but a high proportion of users did not select an entry from this list.
 
-**Examples of the ways that degree type was entered**
+Examples of the ways that degree type was entered:
 
 |Degree type entered|Count|
 |--- |--- |
