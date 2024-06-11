@@ -8,7 +8,7 @@ screenshots:
   items:
     - text: Find courses by
       caption: |
-        Some user did not know what to do on the original ‘[choose your search](/find-teacher-training/private-beta/private-beta-launch#choose-your-search)’ page.
+        Some user did not know what to do on the original ‘[choose your search](/find-teacher-training/private-beta-launch#choose-your-search)’ page.
 
         Clarify the task by using a title that relates to the choice a user must make. Include ‘or’ in the title and options to indicate that only one of the options is needed ([PR](https://github.com/DFE-Digital/search-and-compare-ui/pull/58)).
     - text: Search by location

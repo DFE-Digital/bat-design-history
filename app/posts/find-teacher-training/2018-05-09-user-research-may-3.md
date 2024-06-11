@@ -6,9 +6,9 @@ tags:
   - private beta
 ---
 
-In this round we tested the [private beta as launched](/find-teacher-training/private-beta/private-beta-launch), with one change.
+In this round we tested the [private beta as launched](/find-teacher-training/private-beta-launch), with one change.
 
-![Screenshot of a wider default search radius, increasing from 5 to 20 miles.](01-search-by-location.png "Trial a wider default search radius, increasing from 5 to 20 miles)
+![Screenshot of a wider default search radius, increasing from 5 to 20 miles.](01-search-by-location.png "Trial a wider default search radius, increasing from 5 to 20 miles")
 
 ### Result
 
