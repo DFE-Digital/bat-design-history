@@ -10,7 +10,7 @@ tags:
 related:
   items:
     - text: Submitting claims for funding
-      href: claim-funding-for-mentors/submitting-claims-for-funding/
+      href: /claim-funding-for-mentors/submitting-claims-for-funding/
     - text: Adding claims in Support on behalf of schools
       href: /claim-funding-for-mentors/adding-claims-in-support-on-behalf-of-schools/
 screenshots:
