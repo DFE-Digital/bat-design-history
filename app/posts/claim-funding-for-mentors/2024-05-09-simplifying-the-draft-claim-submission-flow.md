@@ -27,7 +27,9 @@ screenshots:
       src: submit-claim--confirmation.png
 ---
 
-In a previous piece of work, we added a way for users to [submit draft claims](/claim-funding-for-mentors/submitting-draft-claims/).
+Previously, we added a way for users to [submit draft claims](/claim-funding-for-mentors/submitting-draft-claims/).
+
+The process for submitting a draft claim included a ‘Check your answers’ page, which included change links. In research, users found this confusing since the previous ‘Claim details’ page also had change links. The duplication of change links was unnecessary.
 
 ## What we changed
 
