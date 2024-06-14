@@ -2,7 +2,7 @@ const { nodeResolve } = require('@rollup/plugin-node-resolve')
 const commonjs = require('@rollup/plugin-commonjs')
 
 module.exports = [{
-  input: 'app/_javascripts/application.js',
+  input: 'app/assets/scripts/application.js',
   output: {
     file: 'public/assets/scripts/application.js',
     format: 'iife'
