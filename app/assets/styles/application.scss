@@ -1,9 +1,9 @@
 // GOV.UK Frontend styles
 $govuk-global-styles: true;
-@import "../../node_modules/govuk-frontend/dist/govuk/all.scss";
+@import "../../../node_modules/govuk-frontend/dist/govuk/all.scss";
 
-// Design History styles
-@import "../_components/all.scss";
+// Component styles
+@import "../../_components/all.scss";
 
 // Vendor styles
 @import "vendor/prism.scss";
