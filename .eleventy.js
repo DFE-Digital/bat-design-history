@@ -34,6 +34,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('widont', require('./lib/filters/widont'))
 
   // Passthrough
+  eleventyConfig.addPassthroughCopy('./app/assets/images')
   eleventyConfig.addPassthroughCopy('./app/documents')
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy({ 'node_modules/govuk-frontend/dist/govuk/assets': 'assets' })
