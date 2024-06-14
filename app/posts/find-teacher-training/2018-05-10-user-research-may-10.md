@@ -1,6 +1,6 @@
 ---
 title: User research 10 May 2018
-description: Testing with assisted digital, dyslexic and visually impaired users.
+description: Testing with assisted digital, dyslexic and visually impaired users
 date: 2018-05-10
 tags:
   - private beta
@@ -28,3 +28,5 @@ screenshots:
 
         Without an explicit radius, one user noticed that as they scrolled down the courses were getting further away. They returned to the top of the list and focussed on those just within a certain area – an area he defined as a 20 minute drive.
 ---
+
+Testing with assisted digital, dyslexic and visually impaired users
