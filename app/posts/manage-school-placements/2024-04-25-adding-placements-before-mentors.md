@@ -17,9 +17,9 @@ screenshots:
     - text: Placements page without mentors added
       src: placements-list.png
     - text: Placement details page when no mentors are in the service
-      src: placements-details.png
+      src: placement-details.png
     - text: Placement details page when mentors are in the service but not added to the placement
-      src: placements-details-select.png
+      src: placement-details-select.png
 ---
 
 Previously, users could only add placements to the service if they had already added one or more mentors. User research showed us that this was viewed as a barrier to adding placements. Mentors are often decided later on in the process, so users expected to mainly use 'not yet known' while initially adding placements.
