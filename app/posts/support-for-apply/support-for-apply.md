@@ -14,6 +14,8 @@ pagination:
   reverse: true
   size: 50
 permalink: "support-for-apply/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+ogImage:
+  src: opengraph-image--apply-for-teacher-training.png
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
