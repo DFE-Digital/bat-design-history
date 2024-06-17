@@ -13,6 +13,9 @@ pagination:
   reverse: true
   size: 50
 permalink: "manage-school-placements/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+ogImage:
+  src: opengraph-image--manage-school-placements.png
+  alt: "{{ description }}"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

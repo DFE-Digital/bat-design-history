@@ -14,6 +14,9 @@ pagination:
   reverse: true
   size: 50
 permalink: "find-teacher-training/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+ogImage:
+  src: opengraph-image--find-teacher-training.png
+  alt: "{{ description }}"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

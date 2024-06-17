@@ -13,6 +13,9 @@ pagination:
   reverse: true
   size: 50
 permalink: "publish-teacher-training-courses/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+ogImage:
+  src: opengraph-image--publish-teacher-training-courses.png
+  alt: "{{ description }}"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
