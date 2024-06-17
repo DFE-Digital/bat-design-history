@@ -13,8 +13,6 @@ pagination:
   reverse: true
   size: 50
 permalink: "manage-teacher-training-applications/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
-ogImage:
-  src: opengraph-image--manage-teacher-training-applications.png
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

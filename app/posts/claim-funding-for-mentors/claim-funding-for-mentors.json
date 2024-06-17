@@ -1,5 +1,8 @@
 {
   "eleventyNavigation": {
     "parent": "Claim funding for mentor training"
+  },
+  "ogDefaultImage": {
+    "src": "opengraph-image--claim-funding-for-mentors.png"
   }
 }

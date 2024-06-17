@@ -1,5 +1,8 @@
 {
   "eleventyNavigation": {
     "parent": "Manage school placements"
+  },
+  "ogDefaultImage": {
+    "src": "opengraph-image--manage-school-placements.png"
   }
 }

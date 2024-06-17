@@ -1,5 +1,8 @@
 {
   "eleventyNavigation": {
     "parent": "Find postgraduate teacher training"
+  },
+  "ogDefaultImage": {
+    "src": "opengraph-image--find-teacher-training.png"
   }
 }

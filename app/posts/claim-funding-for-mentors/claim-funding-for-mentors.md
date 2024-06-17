@@ -13,8 +13,6 @@ pagination:
   reverse: true
   size: 50
 permalink: "claim-funding-for-mentors/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
-ogImage:
-  src: opengraph-image--claim-funding-for-mentors.png
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
