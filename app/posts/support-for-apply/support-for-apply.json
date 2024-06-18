@@ -1,5 +1,8 @@
 {
   "eleventyNavigation": {
     "parent": "Support for Apply"
+  },
+  "ogDefaultImage": {
+    "src": "opengraph-image--apply-for-teacher-training.png"
   }
 }

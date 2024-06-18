@@ -14,6 +14,9 @@
 {% if ogImage %}
   <meta property="og:image" content="{{ page.url }}{{ ogImage.src }}">
   <meta property="og:image:alt" content="{{ ogImage.alt }}">
+{% elif ogDefaultImage %}
+  <meta property="og:image" content="/assets/images/{{ ogDefaultImage.src }}">
+  <meta property="og:image:alt" content="{{ title }}">
 {% else %}
   <meta property="og:image" content="/assets/images/opengraph-image.png">
 {% endif %}
@@ -27,6 +30,9 @@
 {% if ogImage %}
   <meta property="twitter:image" content="{{ page.url }}{{ ogImage.src }}">
   <meta property="twitter:image:alt" content="{{ ogImage.alt }}">
+{% elif ogDefaultImage %}
+  <meta property="twitter:image" content="/assets/images/{{ ogDefaultImage.src }}">
+  <meta property="twitter:image:alt" content="{{ title }}">
 {% else %}
   <meta property="twitter:image" content="/assets/images/opengraph-image.png">
 {% endif %}

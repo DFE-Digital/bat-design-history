@@ -1,5 +1,8 @@
 {
   "eleventyNavigation": {
     "parent": "Register trainee teachers"
+  },
+  "ogDefaultImage": {
+    "src": "opengraph-image--register-trainee-teachers.png"
   }
 }
