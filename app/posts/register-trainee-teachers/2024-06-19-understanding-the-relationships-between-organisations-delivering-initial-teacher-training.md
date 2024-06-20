@@ -27,7 +27,7 @@ Partnerships can form between:
 - lead partners
 - placement schools
 
-[![Flow chart showing the relationship between accredited providers, lead partners and placement schools](organisation-relationships.png "Flow chart showing the relationship between accredited providers, lead partners and placement schools")](organisation-relationships.png)
+[![Flow chart showing the relationship between accredited providers, lead partners and placement schools](organisation-relationships.png "Flow chart showing the relationship between accredited providers, lead partners and placement schools (select image to view larger version)")](organisation-relationships.png)
 
 ### Accredited ITT providers
 
