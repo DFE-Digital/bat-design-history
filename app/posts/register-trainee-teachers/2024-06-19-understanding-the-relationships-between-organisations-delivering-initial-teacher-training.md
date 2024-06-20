@@ -62,7 +62,7 @@ Lead partners work in collaboration with their accredited ITT provider, and thei
 - contributing to curriculum design
 - designing and delivering mentor curriculums
 - supplying lead mentors
-- running intensive training and practice (ITP)
+- running Intensive Training and Practice (ITP)
 - quality assurance of aspects such as mentoring
 
 Lead partners may have multiple roles. Their responsibilities are agreed upon and
