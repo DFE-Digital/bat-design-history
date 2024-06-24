@@ -29,7 +29,9 @@ Our policy for course naming is that ITT providers should not include the follow
 
 - Do not include the school or location name in the course title.
 
-- Do not use the organisation type in the course title - for example, ‘SCITT’ or ‘school direct’.
+- Do not use the organisation type in the course title - for example, ‘SCITT’ or ‘HEI’.
+
+- Do not use the ITT route in the course title - for example, ‘school direct’.
 
 - Do not include the education phase in the course title - for example, ‘Secondary’, ‘Early years’ or key stage.
 
@@ -39,7 +41,9 @@ Our policy for course naming is that ITT providers should not include the follow
 
 - Do not include financial incentives in the course title - for example, ‘bursary’, ‘scholarship’ or the monetary value.
 
-- Do not include the qualification in the course title - for example, ‘QTS’, ‘PGCE’, ‘PGDE’ or ‘postgraduate’.
+- Do not include the qualification in the course title - for example, ‘PGCE’, ‘PGDE’ or ‘postgraduate’.
+
+- Do not include the status gained in the course title - for example, ‘QTS’.
 
 - Do not include subject groupings in the course title - for example, ‘MFL’, ‘modern foreign’, or ‘humanities’.
 
