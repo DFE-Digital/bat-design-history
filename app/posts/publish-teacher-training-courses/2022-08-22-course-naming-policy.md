@@ -57,7 +57,7 @@ Age ranges such as Primary (3-7) can be included in course titles for the next r
 
 ### Primary course specialisms
 
-Primary course specialisms currently allowed in Publish are:
+Primary course specialisms currently allowed in Publish:
 
 - Primary with English
 - Primary with geography and history
