@@ -51,7 +51,7 @@ Both these new types of organisation will need to be:
 
 Providers who become lead partners will need to have read-only access for trainees where they are the lead partner.
 
-| Organisation type before 1 August 2024 | Organisation type after 1 August 2024 | Trainees who started before 1 August 2024 | : Trainees who started after 1 August 2024 |
+| Organisation type before 1 August 2024 | Organisation type after 1 August 2024 | Trainees who started before 1 August 2024 | Trainees who started after 1 August 2024 |
 |---------------------|---------------------|------------|------------|
 | Accredited provider | Accredited provider | Read-write | Read-write |
 | Accredited provider | Lead partner        | Read-write | Read-only  |
