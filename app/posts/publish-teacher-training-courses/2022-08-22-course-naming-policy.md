@@ -4,7 +4,7 @@ description: The policy for what initial teacher training (ITT) providers should
 date: 2022-08-22
 tags:
   - policy
-  - course names
+  - course titles
 ---
 
 This is the policy for what initial teacher training (ITT) providers should include in their ITT course titles on the Becoming a teacher (BAT) services.
@@ -47,11 +47,11 @@ Our policy for course naming is that ITT providers should not include the follow
 
 - Do not include subject groupings in the course title - for example, ‘MFL’, ‘modern foreign’, or ‘humanities’.
 
-- Do not include subject specialisms - for example ‘food technology’, ‘product design’ or ‘textiles’.
+- Do not include subject specialisms in the course title - for example ‘food technology’, ‘product design’ or ‘textiles’.
 
-- Do not use special characters (for example, ampersands, asterisks and hyphens) or all upper case letters.
+- Do not use special characters (for example, ampersands, asterisks and hyphens) or all upper case letters in the course title.
 
-- Do not use generic terms - for example, ‘teacher training’, ‘education’, ‘general’ or ‘school’.
+- Do not use generic terms in the course title - for example, ‘teacher training’, ‘education’, ‘general’ or ‘school’.
 
 ITT providers should instead use the course details sections to describe the course in greater detail.
 
@@ -103,10 +103,10 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
-            Modern languages (French, Italian and Spanish)
+          Modern languages (French, Italian and Spanish)
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -119,32 +119,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            Yes
+          Yes
         </td>
         <td class="govuk-table__cell">
-            Modern languages (French, Italian and Spanish) (SEND)
-        </td>
-      </tr>
-      <tr class="govuk-table__row">
-        <td class="govuk-table__cell">
-          <ul class="govuk-list">
-            <li>Modern languages</li>
-            <li>French</li>
-            <li>Spanish</li>
-            <li>Mathematics</li>
-          </ul>
-        </td>
-        <td class="govuk-table__cell">
-            n/a
-        </td>
-        <td class="govuk-table__cell">
-            No
-        </td>
-        <td class="govuk-table__cell">
-            Modern languages (French and Spanish) with mathematics
+          Modern languages (French, Italian and Spanish) (SEND)
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -157,13 +138,32 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            Yes
+          No
         </td>
         <td class="govuk-table__cell">
-            Modern languages (French and Spanish) with mathematics (SEND)
+          Modern languages (French and Spanish) with mathematics
+        </td>
+      </tr>
+      <tr class="govuk-table__row">
+        <td class="govuk-table__cell">
+          <ul class="govuk-list">
+            <li>Modern languages</li>
+            <li>French</li>
+            <li>Spanish</li>
+            <li>Mathematics</li>
+          </ul>
+        </td>
+        <td class="govuk-table__cell">
+          n/a
+        </td>
+        <td class="govuk-table__cell">
+          Yes
+        </td>
+        <td class="govuk-table__cell">
+          Modern languages (French and Spanish) with mathematics (SEND)
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -176,13 +176,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
-            Mathematics with French and Spanish
+          Mathematics with French and Spanish
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -192,13 +192,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
-            Mathematics
+          Mathematics
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -209,29 +209,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
-            Biology with chemistry
-        </td>
-      </tr>
-      <tr class="govuk-table__row">
-        <td class="govuk-table__cell">
-          <ul class="govuk-list">
-            <li>Physics</li>
-          </ul>
-        </td>
-        <td class="govuk-table__cell">
-            n/a
-        </td>
-        <td class="govuk-table__cell">
-            No
-        </td>
-        <td class="govuk-table__cell">
-            Physics
+          Biology with chemistry
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -241,29 +225,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            Yes
+          No
         </td>
         <td class="govuk-table__cell">
-            Physics (SEND)
-        </td>
-      </tr>
-      <tr class="govuk-table__row">
-        <td class="govuk-table__cell">
-          <ul class="govuk-list">
-            <li>Physics</li>
-          </ul>
-        </td>
-        <td class="govuk-table__cell">
-            Engineers teach physics
-        </td>
-        <td class="govuk-table__cell">
-            No
-        </td>
-        <td class="govuk-table__cell">
-            Engineers teach physics
+          Physics
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -273,30 +241,45 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            Engineers teach physics
+          n/a
         </td>
         <td class="govuk-table__cell">
-            Yes
+          Yes
         </td>
         <td class="govuk-table__cell">
-            Engineers teach physics (SEND)
+          Physics (SEND)
         </td>
       </tr>
       <tr class="govuk-table__row">
         <td class="govuk-table__cell">
           <ul class="govuk-list">
             <li>Physics</li>
-            <li>Mathematics</li>
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          Engineers teach physics
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
-            Physics with mathematics
+          Engineers teach physics
+        </td>
+      </tr>
+      <tr class="govuk-table__row">
+        <td class="govuk-table__cell">
+          <ul class="govuk-list">
+            <li>Physics</li>
+          </ul>
+        </td>
+        <td class="govuk-table__cell">
+          Engineers teach physics
+        </td>
+        <td class="govuk-table__cell">
+          Yes
+        </td>
+        <td class="govuk-table__cell">
+          Engineers teach physics (SEND)
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -307,13 +290,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            Yes
+          No
         </td>
         <td class="govuk-table__cell">
-            Physics with mathematics (SEND)
+          Physics with mathematics
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -324,13 +307,30 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            Engineers teach physics
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          Yes
         </td>
         <td class="govuk-table__cell">
-            Engineers teach physics with mathematics
+          Physics with mathematics (SEND)
+        </td>
+      </tr>
+      <tr class="govuk-table__row">
+        <td class="govuk-table__cell">
+          <ul class="govuk-list">
+            <li>Physics</li>
+            <li>Mathematics</li>
+          </ul>
+        </td>
+        <td class="govuk-table__cell">
+          Engineers teach physics
+        </td>
+        <td class="govuk-table__cell">
+          No
+        </td>
+        <td class="govuk-table__cell">
+          Engineers teach physics with mathematics
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -343,32 +343,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
-            Physics with French and Spanish
-        </td>
-      </tr>
-      <tr class="govuk-table__row">
-        <td class="govuk-table__cell">
-          <ul class="govuk-list">
-            <li>Physics</li>
-            <li>Modern languages</li>
-            <li>French</li>
-            <li>Spanish</li>
-          </ul>
-        </td>
-        <td class="govuk-table__cell">
-            n/a
-        </td>
-        <td class="govuk-table__cell">
-            Yes
-        </td>
-        <td class="govuk-table__cell">
-            Physics with French and Spanish (SEND)
+          Physics with French and Spanish
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -381,13 +362,32 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            Engineers teach physics
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          Yes
         </td>
         <td class="govuk-table__cell">
-            Engineers teach physics with French and Spanish
+          Physics with French and Spanish (SEND)
+        </td>
+      </tr>
+      <tr class="govuk-table__row">
+        <td class="govuk-table__cell">
+          <ul class="govuk-list">
+            <li>Physics</li>
+            <li>Modern languages</li>
+            <li>French</li>
+            <li>Spanish</li>
+          </ul>
+        </td>
+        <td class="govuk-table__cell">
+          Engineers teach physics
+        </td>
+        <td class="govuk-table__cell">
+          No
+        </td>
+        <td class="govuk-table__cell">
+          Engineers teach physics with French and Spanish
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -398,13 +398,13 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
-            Ancient Greek with Ancient Hebrew
+          Ancient Greek with Ancient Hebrew
         </td>
       </tr>
       <tr class="govuk-table__row">
@@ -416,10 +416,10 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
           </ul>
         </td>
         <td class="govuk-table__cell">
-            n/a
+          n/a
         </td>
         <td class="govuk-table__cell">
-            No
+          No
         </td>
         <td class="govuk-table__cell">
           Modern languages (French) with English
