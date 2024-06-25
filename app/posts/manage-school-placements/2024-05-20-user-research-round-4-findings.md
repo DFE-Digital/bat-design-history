@@ -11,12 +11,14 @@ tags:
 We spoke to 8 support users across 3 separate group research sessions.
 
 The research included:
+
 - 1 paired session with the Head of Operations and Support Team and an Ops and Support Design Manager from the support team
 - 2 group sessions each involving 1 Product Liaison Lead and 2 User Support Agents (3 participants per session)
 
 ## Goals of the research
 
 The goal user research round 4 was to answer the following questions:
+
 - Do support users understand and are they comfortable with the role they will play in the future service?
 - How do support users find the experience of adding a support user to the service and are there any issues they can anticipate?
 - How do support users find the experience of adding an organisation to the service and are there any issues they can anticipate?
@@ -63,6 +65,7 @@ Any suggested improvements to the functionality were minor and not essential for
 #### Supporting detail and evidence
 
 The following minor changes and potential additions were identified:
+
 - Consider changing the "Users" tab to "Support users" to avoid any ambiguity with the ‘Users’ for an organisation within the service
 - Consider adding an edit user feature as this would also benefit support users – although removing and readding users, rather than having the ability to edit, is used on other DfE services
 - When adding an ITT provider using 'Add organisation', showing the UK Provider Reference Number (UKPRN) in the autocomplete results would be more useful than seeing the code from the Publish teacher training courses service
