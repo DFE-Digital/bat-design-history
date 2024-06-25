@@ -35,7 +35,13 @@ We have:
 
 ![Add mentor flow](add-placement-flow.png "Add placement flow when no mentors are present")
 
-The add placement flow changes. There is now an 'add placement' button visible on the Placements page at all times. If the user adds a placement before any mentors have been added to the service, the add mentor screen is not shown.
+There is now an 'add placement' button visible on the Placements page at all times. If the user adds a placement before any mentors have been added to the service, the add mentor screen is not shown.
+
+The flow is:
+
+1. Phase (shown only if the school does not have a phase specified)
+2. Subject (this list is populated to represent the available subjects at that phase)
+3. Check your answers
 
 If the user views the details of a placement when no mentors are added, they're given a link into the mentors area to add a mentor. If the user views the details of a placement that does not have a mentor but the school does have mentors on the service, they are given a link to select a mentor.
 
