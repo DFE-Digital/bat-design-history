@@ -15,13 +15,13 @@ To prepare Register trainee teachers (Register) for the changes brought by ITT r
 
 2 training routes have been removed:
 
-- School-direct (fee-funded)
-- School-direct (salaried)
+- School&#8209;direct (fee-funded)
+- School&#8209;direct (salaried)
 
 2 training routes have been added:
 
 - Early years postgraduate salaried
-- Provider-led postgraduate salaried
+- Provider&#8209;led postgraduate salaried
 
 As part of the changes, we added headings to the route selection screen.
 
@@ -35,11 +35,11 @@ After:
 
 ## Changes to organisations
 
-From 1 August 2024, some higher education institutions (HEI) and school-centred initial teacher training (SCITT) will lose their accredited status. Of these, some will form partnerships with providers who retained their accreditation and will become ‘lead partners’.
+From 1 August 2024, some higher education institutions (HEI) and school&#8209;centred initial teacher training (SCITT) will lose their accredited status. Of these, some will form partnerships with providers who retained their accreditation and will become ‘lead&nbsp;partners’.
 
-Organisations that were ‘lead schools’, will now also be known as ‘lead partners’.
+Organisations that were ‘lead&nbsp;schools’, will now also be known as ‘lead&nbsp;partners’.
 
-There are 2 new types of organisation that Register has not previously needed to account for:
+Thia introduces 2 types of organisation that Register did not previously need to account for:
 
 1. Providers who lost their accreditation and stopped all training
 2. Providers who lost their accreditation and have become lead partners
@@ -47,19 +47,19 @@ There are 2 new types of organisation that Register has not previously needed to
 Both these new types of organisation will need to be:
 
 - prevented from creating new trainees
-- able to view and edit trainees who started before 2024/25 (edit is removed from all trainees once teacher status has been awarded)
+- able to view and edit trainees who started before 2024/25 (edit access is removed from all trainees once teacher status has been awarded)
 
-Providers who become lead partners will need to have read-only access for trainees where they are the lead partner.
+Providers who become lead partners will need to have read&#8209;only access for trainees where they are the lead partner.
 
 | Organisation type before 1 August 2024 | Organisation type after 1 August 2024 | Trainees who started before 1 August 2024 | Trainees who started after 1 August 2024 |
-|---------------------|---------------------|------------|------------|
-| Accredited provider | Accredited provider | Read-write | Read-write |
-| Accredited provider | Lead partner        | Read-write | Read-only  |
-| Accredited provider | Stoped training     | Read-write | None       |
-| Lead school         | Lead partner        | Read-only  | Read-only  |
+|---------------------|---------------------|------------------|------------------|
+| Accredited provider | Accredited provider | Read&#8209;write | Read&#8209;write |
+| Accredited provider | Lead partner        | Read&#8209;write | Read&#8209;only  |
+| Accredited provider | Stoped training     | Read&#8209;write | None             |
+| Lead school         | Lead partner        | Read&#8209;only  | Read&#8209;only  |
 
 ### Adding and updating trainee records through the Higher Education Statistics Agency (HESA)
 
-Because the HESA data does not allow for the notion of ‘accredited provider’ or ‘lead partner’, lead partners will be permitted to use their student record system and HESA to submit records.
+Because the HESA data does not allow for the notion of ‘accredited&nbsp;provider’ or ‘lead&nbsp;partner’, lead&nbsp;partners will be permitted to use their student record system and HESA to submit records.
 
-When a lead partner uses HESA to submit data, the Register app will automatically attribute records to the accredited provider the lead partner is working with.
+When a lead&nbsp;partner uses HESA to submit data, the Register app will automatically attribute records to the accredited&nbsp;provider the lead&nbsp;partner is working with.
