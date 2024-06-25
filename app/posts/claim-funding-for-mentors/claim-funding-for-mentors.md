@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Claim funding for mentor training
-description: A service for schools to claim funding for their general mentors’ training
+description: A service for placement partners to claim funding for their general mentors’ training
 related:
   items:
     - text: Prototype
