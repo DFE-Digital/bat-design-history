@@ -29,7 +29,9 @@ The goal user research round 4 was to answer the following questions:
 We tested the ‘Add support user’, ‘Add organisation’ and ‘Add user to an organisation’ journeys as well as getting any general feedback on the overall service.
 
 ![Add support user screen flow](support-add-user--flow.png "Add support user screen flow")
+
 ![Add organisation screen flow](support-add-organisation--flow.png "Add organisation screen flow")
+
 ![Add user to an organisation as a support user](support-add-organisation-user--flow.png "Add user to an organisation as a support user")
 
 ## Key insights
