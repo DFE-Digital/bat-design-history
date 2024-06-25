@@ -1,5 +1,5 @@
 ---
-title: Guidance on how training providers should name their courses titles
+title: Guidance on how training providers should name their courses
 description: The policy for what initial teacher training (ITT) providers should include in their course titles
 date: 2022-08-22
 tags:
@@ -7,7 +7,7 @@ tags:
   - course titles
 ---
 
-This is the policy for what initial teacher training (ITT) providers should include in their ITT course titles on the Becoming a teacher (BAT) services.
+This is the policy for what initial teacher training (ITT) providers should include in their course titles on the Becoming a teacher (BAT) services.
 
 ## Background
 
