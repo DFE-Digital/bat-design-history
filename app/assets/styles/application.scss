@@ -1,15 +1,16 @@
 // GOV.UK Frontend styles
 $govuk-global-styles: true;
-@import "../../../node_modules/govuk-frontend/dist/govuk/all.scss";
+@import "../../../node_modules/govuk-frontend/dist/govuk/all";
 
 // Component styles
-@import "../../_components/all.scss";
+@import "../../_components/all";
 
 // Vendor styles
-@import "vendor/prism.scss";
+@import "vendor/prism";
 
 // Becoming a teacher design history styles
-@import "bat-design-history.scss";
+@import "bat-design-history";
+@import "markdown";
 
 .app-prose .app-images--two-thirds-width img {
   max-width: 66.6%;

@@ -1,0 +1,13 @@
+.app-prose {
+  .govuk-list {
+    @extend %govuk-list;
+  }
+
+  .govuk-list--number {
+    @extend %govuk-list--number;
+  }
+
+  .govuk-list--bullet {
+    @extend %govuk-list--bullet;
+  }
+}

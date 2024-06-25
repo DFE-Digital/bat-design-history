@@ -4,6 +4,7 @@ description: We updated the position of the course title on the add course ‘Ch
 date: 2022-10-25
 tags:
   - courses
+  - course titles
 screenshots:
   items:
     - text: Add course - check your answers - one subject
