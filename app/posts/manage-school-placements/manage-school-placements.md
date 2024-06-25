@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Manage school placements
-description: A service for training providers and schools to manage their mentors and placements
+description: A service for training providers and placement partners to manage their mentors and placements
 related:
   items:
     - text: Prototype
