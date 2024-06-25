@@ -1,5 +1,5 @@
 ---
-  title:        Updates to align to ITT reform
+  title:        Preparing for ITT reform
   description:  How the service will change to adapt to the new ITT policy
   date:         2024-06-19
   tags:
