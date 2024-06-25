@@ -435,30 +435,30 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
 {{ appEmail({
   content: "Dear ((name))
 
-  Thank you for your email.
+Thank you for your email.
 
-  The team has reviewed the policy for course naming conventions for the upcoming recruitment cycle.
+The team has reviewed the policy for course naming conventions for the upcoming recruitment cycle.
 
-  Please do not include locations in course titles, as this can confuse candidates and make it appear that you have more courses than you do.
+Please do not include locations in course titles, as this can confuse candidates and make it appear that you have more courses than you do.
 
-  Please create just one course with multiple locations rather than individual courses for different locations. You can always transfer candidates from one location to another if needed.
+Please create just one course with multiple locations rather than individual courses for different locations. You can always transfer candidates from one location to another if needed.
 
-  If this process does not meet your needs, please let us know why so we can work towards a solution that works for you and the candidates.
+If this process does not meet your needs, please let us know why so we can work towards a solution that works for you and the candidates.
 
-  Kind regards,
-  ((Support agent))"
+Kind regards,
+((Support agent))"
 }) }}
 
 {{ appEmail({
   content: "Dear ((name))
 
-  Thank you for your email.
+Thank you for your email.
 
-  The team has reviewed the policy for course naming conventions for the upcoming recruitment cycle.
+The team has reviewed the policy for course naming conventions for the upcoming recruitment cycle.
 
-  Please do not include subject specialisms in course titles other than those already provided in Publish. This can confuse candidates and make it appear that you have more courses than you do.
+Please do not include subject specialisms in course titles other than those already provided in Publish. This can confuse candidates and make it appear that you have more courses than you do.
 
-  The Primary course specialisms currently available in Publish are:
+The Primary course specialisms currently available in Publish are:
 
 - Primary with English
 - Primary with geography and history
@@ -467,10 +467,10 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
 - Primary with physical education
 - Primary with science
 
-  Please create just one course with one of the specialisms outlined above. Rather than creating individual courses for specialisms such as ‘Primary with modern languages—French’ within these, please outline the options available within the ‘Course details’ section in Publish.
+Please create just one course with one of the specialisms outlined above. Rather than creating individual courses for specialisms such as ‘Primary with modern languages—French’ within these, please outline the options available within the ‘Course details’ section in Publish.
 
-  If this process does not meet your needs, please let us know why so we can work towards a solution that works for you and the candidates.
+If this process does not meet your needs, please let us know why so we can work towards a solution that works for you and the candidates.
 
-  Kind regards,
-  ((Support agent))"
+Kind regards,
+((Support agent))"
 }) }}
