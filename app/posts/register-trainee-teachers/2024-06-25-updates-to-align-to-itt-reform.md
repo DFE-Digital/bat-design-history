@@ -35,7 +35,7 @@ After:
 
 ## Changes to organisations
 
-From 1 August 2024, some higher education institutions (HEI) and school-centred initial teacher training (SCITT) will lose their accredited status. Of these, some will form partnerships with providers who retained their accreditation and will become ‘lead partners’. 
+From 1 August 2024, some higher education institutions (HEI) and school-centred initial teacher training (SCITT) will lose their accredited status. Of these, some will form partnerships with providers who retained their accreditation and will become ‘lead partners’.
 
 Organisations that were ‘lead schools’, will now also be known as ‘lead partners’.
 
@@ -45,6 +45,7 @@ There are 2 new types of organisation that Register has not previously needed to
 2. Providers who lost their accreditation and have become lead partners
 
 Both these new types of organisation will need to be:
+
 - prevented from creating new trainees
 - able to view and edit trainees who started before 2024/25 (edit is removed from all trainees once teacher status has been awarded)
 
@@ -56,8 +57,6 @@ Providers who become lead partners will need to have read-only access for traine
 | Accredited provider | Lead partner        | Read-write | Read-only  |
 | Accredited provider | Stoped training     | Read-write | None       |
 | Lead school         | Lead partner        | Read-only  | Read-only  |
-
-
 
 ### Adding and updating trainee records through the Higher Education Statistics Agency (HESA)
 
