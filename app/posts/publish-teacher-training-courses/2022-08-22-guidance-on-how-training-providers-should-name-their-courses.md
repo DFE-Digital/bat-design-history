@@ -460,12 +460,12 @@ Age ranges such as Primary (3 to 7) can be included in course names for the next
 
   The Primary course specialisms currently available in Publish are:
 
-  - Primary with English
-  - Primary with geography and history
-  - Primary with mathematics
-  - Primary with modern languages
-  - Primary with physical education
-  - Primary with science
+- Primary with English
+- Primary with geography and history
+- Primary with mathematics
+- Primary with modern languages
+- Primary with physical education
+- Primary with science
 
   Please create just one course with one of the specialisms outlined above. Rather than creating individual courses for specialisms such as ‘Primary with modern languages—French’ within these, please outline the options available within the ‘Course details’ section in Publish.
 
