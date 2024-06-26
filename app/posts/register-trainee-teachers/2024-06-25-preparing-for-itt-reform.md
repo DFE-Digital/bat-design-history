@@ -47,7 +47,7 @@ Thia introduces 2 types of organisation that Register did not previously need to
 Both these new types of organisation will need to be:
 
 - prevented from creating new trainees
-- able to view and edit trainees who started before 2024/25 (edit access is removed from all trainees once teacher status has been awarded)
+- able to view and edit trainees who started before the 2024 to 2025 academic year (edit access is removed from all trainees once teacher status has been awarded)
 
 Providers who become lead partners will need to have read&#8209;only access for trainees where they are the lead partner.
 
