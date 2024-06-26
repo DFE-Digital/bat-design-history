@@ -15,7 +15,7 @@ To prepare Register trainee teachers (Register) for the changes brought by initi
 
 2 training routes have been removed:
 
-- School&#8209;direct (fee-funded)
+- School&#8209;direct (fee&#8209;funded)
 - School&#8209;direct (salaried)
 
 2 training routes have been added:
@@ -35,11 +35,11 @@ After:
 
 ## Changes to organisations
 
-From 1 August 2024, some higher education institutions (HEI) and school&#8209;centred initial teacher training (SCITT) will lose their accredited status. Of these, some will form partnerships with providers who retained their accreditation and will become ‘lead&nbsp;partners’.
+From 1&nbsp;August&nbsp;2024, some higher education institutions (HEI) and school&#8209;centred initial teacher training (SCITT) will lose their accredited status. Of these, some will form partnerships with providers who retained their accreditation and will become ‘lead&nbsp;partners’.
 
 Organisations that were ‘lead&nbsp;schools’, will now also be known as ‘lead&nbsp;partners’.
 
-Thia introduces 2 types of organisation that Register did not previously need to account for:
+Thia introduces 2 types of organisation to Register:
 
 1. Providers who lost their accreditation and stopped all training
 2. Providers who lost their accreditation and have become lead partners
@@ -51,7 +51,7 @@ Both these new types of organisation will need to be:
 
 Providers who become lead partners will need to have read&#8209;only access for trainees where they are the lead partner.
 
-| Organisation type before 1 August 2024 | Organisation type after 1 August 2024 | Trainees who started before 1 August 2024 | Trainees who started after 1 August 2024 |
+| Organisation type before 1&nbsp;August&nbsp;2024 | Organisation type after 1&nbsp;August&nbsp;2024 | Trainees who started before 1&nbsp;August&nbsp;2024 | Trainees who started after 1&nbsp;August&nbsp;2024 |
 |---------------------|---------------------|------------------|------------------|
 | Accredited provider | Accredited provider | Read&#8209;write | Read&#8209;write |
 | Accredited provider | Lead partner        | Read&#8209;write | Read&#8209;only  |
@@ -62,4 +62,4 @@ Providers who become lead partners will need to have read&#8209;only access for 
 
 Because the HESA data does not allow for the notion of ‘accredited&nbsp;provider’ or ‘lead&nbsp;partner’, lead&nbsp;partners will be permitted to use their student record system and HESA to submit records.
 
-When a lead&nbsp;partner uses HESA to submit data, the Register app will automatically attribute records to the accredited&nbsp;provider the lead&nbsp;partner is working with.
+When a lead&nbsp;partner uses HESA to submit data, Register will automatically assign those trainee records to the accredited&nbsp;provider the lead&nbsp;partner works with.
