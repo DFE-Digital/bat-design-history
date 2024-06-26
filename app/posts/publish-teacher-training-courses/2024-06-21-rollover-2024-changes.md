@@ -10,7 +10,7 @@ tags:
   - rollover
 ---
 
-A number of changes to the prototype had been made over the past year following best practise and research recommendations, which had not made it on to the live service.
+Several changes to the prototype had been made over the past year following best practices and research recommendations, but they had not made it to the live service.
 
 As part of the Rollover 2024 push, we relooked at these changes - alongside more recent research findings to see if they were still suitable for Providers needs.
 
