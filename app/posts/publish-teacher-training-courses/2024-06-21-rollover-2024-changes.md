@@ -33,11 +33,9 @@ We relooked at this, and updated the copy and page titles following more recent 
 
 Additionaly, we moved the Markdown Guidance from the right-hand column to be in-situ above the text area so it's easier to refer too
 
-
 ![Screenshot of course details page](about-this-course.png "Course details page")
 ![Screenshot of interview process page](interview-process.png "Interview process page")
 ![Screenshot of course school placement](school-placements.png "School placement page")
-
 
 The Course Length & Fees page comprised of four sections - Course Length, Course Fees, and Fees, and Financial Support. Previous work had been done on the prototype to break this down into four seperate pages instead - following GDS guidance of one item per page.
 
@@ -54,13 +52,13 @@ Additionaly, we moved the Markdown Guidance from the right-hand column to be in-
 ### 2. Adding in Markdown Guidance
 
 Some pages with text areas were missing the Markdown guidance, we added these in to the following pages:
+
 - About the Accredited Provider
 - Training with your organisation
 - Training with disabilities and other needs
 
 ![Screenshot of accredited providers](accredited-providers.png "Accredited providers page")
 ![Screenshot of about organisation](about-org.png "About organisation page")
-
 
 ### 3. Removing Personal Qualities and Other Requirements
 
@@ -72,12 +70,12 @@ We aren’t dropping columns because we’ll need to see the data for providers 
 
 It is going to sit behind a feature flag
 
-
 ### 4. Changes to Course Details
 
 As we had made some changes to title changes on other pages - this information on course details page was also updated.
 
 There had also been some work done on the prototype which never went live, including:
+
 - Removing the truncation so that all copy is visible
 - Using the 'Tab' design for the Basic Details / Description links
 - Removal of Personal Qualities
@@ -85,20 +83,17 @@ There had also been some work done on the prototype which never went live, inclu
 
 ![Screenshot of courses](courses.png "Courses page")
 
-
 ### 5. SEND checkbox to radio buttons
 
 To match how the SEND option appears in the edit section, we changed the SEND question from a checkbox to radio buttons
 
 ![Screenshot of send option](send.png "SEND option")
 
-
 ### 6. Full Time or Part Time radio buttons to checkboxes
 
 This has been changed from radio buttons to checkboxes to follow best practises. Users can now chose either or both.
 
 ![Screenshot of full time or part time option](full-part-time.png "Full time or part time option")
-
 
 ### 7. Add a Second Language validation
 
