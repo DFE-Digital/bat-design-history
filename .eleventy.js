@@ -100,7 +100,7 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob(['app/glossary.md',
       'app/mission-patches.md',
       'app/service-map.md',
-      'app/how-to/how-to.md'
+      'app/posts/how-to/how-to.md'
     ])
   })
 
