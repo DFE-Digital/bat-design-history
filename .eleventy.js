@@ -35,7 +35,6 @@ module.exports = function (eleventyConfig) {
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('./app/assets/images')
-  eleventyConfig.addPassthroughCopy('./app/documents')
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy({ 'node_modules/govuk-frontend/dist/govuk/assets': 'assets' })
 
@@ -96,13 +95,18 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/support-for-publish/*.md')
   })
 
-  eleventyConfig.addCollection('how-to', collection => {
-    return collection.getFilteredByGlob('app/posts/how-to/*.md')
-  })
-
   // A collection of reference pages
   eleventyConfig.addCollection('reference', collectionApi => {
-    return collectionApi.getFilteredByGlob(['app/glossary.md', 'app/mission-patches.md', 'app/service-map.md', 'app/how-to/how-to.md'])
+    return collectionApi.getFilteredByGlob(['app/glossary.md',
+      'app/mission-patches.md',
+      'app/service-map.md',
+      'app/how-to/how-to.md'
+    ])
+  })
+
+  // Collections of posts for each reference section
+  eleventyConfig.addCollection('how-to', collection => {
+    return collection.getFilteredByGlob('app/posts/how-to/*.md')
   })
 
   // A collection of user need pages
