@@ -9,7 +9,7 @@
     - hesa
 ---
 
-To prepare Register trainee teachers (Register) for the changes brought by ITT reforms we needed to make updates to training routes and organisations. These changes will be in place for the beginning of the 2024 to 2025 academic year.
+To prepare Register trainee teachers (Register) for the changes brought by initial teacher training (ITT) reforms, we needed to update training routes and organisations. These changes will be in place for the beginning of the 2024 to 2025 academic year.
 
 ## Changes to training routes
 
