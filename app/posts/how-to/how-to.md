@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: How to
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan odio in nulla eleifend, ut pulvinar dui fringilla.
+description: A collection of guides to help you build and document our services.
 pagination:
   data: collections.how-to
   reverse: true
