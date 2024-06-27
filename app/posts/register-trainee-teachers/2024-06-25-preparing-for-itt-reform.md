@@ -39,7 +39,7 @@ From 1&nbsp;August&nbsp;2024, some higher education institutions (HEI) and schoo
 
 Organisations that were ‘lead&nbsp;schools’, will now also be known as ‘lead&nbsp;partners’.
 
-Thia introduces 2 types of organisation to Register:
+This introduces 2 types of organisation to Register:
 
 1. Providers who lost their accreditation and stopped all training
 2. Providers who lost their accreditation and have become lead partners
