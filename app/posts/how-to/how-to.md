@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: How to
-description: A collection of guides to help you build and document our services.
+description: A collection of guides to help you build and document Becoming a teacher services.
 pagination:
   data: collections.how-to
   reverse: true
