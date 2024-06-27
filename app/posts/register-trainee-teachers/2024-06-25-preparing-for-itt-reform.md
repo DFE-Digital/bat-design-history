@@ -54,7 +54,7 @@ Providers who become lead partners will need to have read&#8209;only access for 
 |---------------------|---------------------|------------------|------------------|
 | Accredited provider | Accredited provider | Read&#8209;write | Read&#8209;write |
 | Accredited provider | Lead partner        | Read&#8209;write | Read&#8209;only  |
-| Accredited provider | Stoped training     | Read&#8209;write | None             |
+| Accredited provider | Stopped training    | Read&#8209;write | None             |
 | Lead school         | Lead partner        | Read&#8209;only  | Read&#8209;only  |
 
 ### Adding and updating trainee records through the Higher Education Statistics Agency (HESA)
