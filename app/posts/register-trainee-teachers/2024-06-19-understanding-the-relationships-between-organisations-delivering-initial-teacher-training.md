@@ -8,6 +8,8 @@ related:
   items:
     - text: "Initial teacher training (ITT): forming partnerships"
       href: https://www.gov.uk/government/publications/initial-teacher-training-itt-forming-partnerships
+    - text: Accredited initial teacher training (ITT) providers from September 2024
+      href: https://www.gov.uk/government/publications/accredited-initial-teacher-training-itt-providers
 ---
 
 Organisations involved in initial teacher training (ITT) have the flexibility to form partnerships in which they share knowledge, experience, and resources to support delivery and help retain existing talent and expertise in the sector.
@@ -18,8 +20,7 @@ Partnerships are based on a formal agreement.
 
 Each partnership arrangement is unique to the organisations involved, their local or regional circumstances, and their ultimate aims and ambitions over time.
 
-Partnerships can take various forms, from simple collaborations between two or three
-organisations, to more extensive networks with multiple partners.
+Partnerships can take various forms, from simple collaborations between two or three organisations, to more extensive networks with multiple partners.
 
 Partnerships can form between:
 
@@ -65,11 +66,9 @@ Lead partners work in collaboration with their accredited ITT provider, and thei
 - running Intensive Training and Practice (ITP)
 - quality assurance of aspects such as mentoring
 
-Lead partners may have multiple roles. Their responsibilities are agreed upon and
-delegated through formal arrangements with the accredited ITT provider.
+Lead partners may have multiple roles. Their responsibilities are agreed upon and delegated through formal arrangements with the accredited ITT provider.
 
-From September 2024, all Teaching School Hubs operating as lead partners will be
-expected to deliver ITT courses. Teaching School Hubs may also undertake other operational or strategic roles as a lead partner - for example, those listed above.
+From September 2024, all Teaching School Hubs operating as lead partners will be expected to deliver ITT courses. Teaching School Hubs may also undertake other operational or strategic roles as a lead partner – for example, those listed above.
 
 ### Placement schools
 
