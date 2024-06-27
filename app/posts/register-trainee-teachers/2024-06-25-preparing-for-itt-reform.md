@@ -18,9 +18,8 @@ To prepare Register trainee teachers (Register) for the changes brought by initi
 - School&#8209;direct (fee&#8209;funded)
 - School&#8209;direct (salaried)
 
-2 training routes have been added:
+1 training route has been added:
 
-- Early years postgraduate salaried
 - Provider&#8209;led postgraduate salaried
 
 As part of the changes, we added headings to the route selection screen.
