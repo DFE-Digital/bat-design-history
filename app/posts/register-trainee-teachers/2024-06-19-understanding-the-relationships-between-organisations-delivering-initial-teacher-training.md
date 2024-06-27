@@ -4,6 +4,8 @@ description: We mapped the relationships between accredited providers, lead part
 date: 2024-06-19
 tags:
   - providers
+  - schools
+  - partners
 related:
   items:
     - text: "Initial teacher training (ITT): forming partnerships"
@@ -14,13 +16,14 @@ related:
 
 Organisations involved in initial teacher training (ITT) have the flexibility to form partnerships in which they share knowledge, experience, and resources to support delivery and help retain existing talent and expertise in the sector.
 
+Organisations can only provide courses that lead to a recommendation for QTS if they are accredited by the Department for Education (DfE).
 ## Partnerships
 
 Partnerships are based on a formal agreement.
 
 Each partnership arrangement is unique to the organisations involved, their local or regional circumstances, and their ultimate aims and ambitions over time.
 
-Partnerships can take various forms, from simple collaborations between two or three organisations, to more extensive networks with multiple partners.
+Partnerships can take various forms, from simple collaborations between two or three organisations to more extensive networks with multiple partners.
 
 Partnerships can form between:
 
@@ -28,7 +31,7 @@ Partnerships can form between:
 - lead partners
 - placement schools
 
-[![Flow chart showing the relationship between accredited providers, lead partners and placement schools](organisation-relationships.png "Flow chart showing the relationship between accredited providers, lead partners and placement schools (select image to view larger version)")](organisation-relationships.png)
+[![Flow chart showing the relationship between accredited providers, lead partners and placement schools](organisation-relationships.png "Flow chart showing the relationship between accredited providers, lead partners and placement schools  (select image to view larger version)")](organisation-relationships.png)
 
 ### Accredited ITT providers
 
@@ -68,7 +71,7 @@ Lead partners work in collaboration with their accredited ITT provider, and thei
 
 Lead partners may have multiple roles. Their responsibilities are agreed upon and delegated through formal arrangements with the accredited ITT provider.
 
-From September 2024, all Teaching School Hubs operating as lead partners will be expected to deliver ITT courses. Teaching School Hubs may also undertake other operational or strategic roles as a lead partner – for example, those listed above.
+From September 2024, all Teaching School Hubs operating as lead partners will be expected to deliver ITT courses. Teaching School Hubs may also undertake other operational or strategic roles as lead partners, such as those listed above.
 
 ### Placement schools
 
@@ -81,12 +84,12 @@ Schools provide high-quality general school placements for ITT trainees and supp
 
 Placement schools or other school partners may have the capacity and expertise to offer the ITT partnership’s school-based Intensive Training and Practice (ITP) element.
 
-School placements and other training may occur in special schools, alternative provision, pupil referral units, and mainstream schools with SEN resource units, mainly where an accredited ITT provider offers additional specialism in special educational needs.
+School placements and other training may occur in special schools, alternative provision, pupil referral units, and mainstream schools with special educational needs (SEN) resource units, mainly where an accredited ITT provider offers additional specialism in special educational needs.
 
 ## Accredited provider delegation and accountability
+
+Accredited ITT providers are responsible for all course elements and must ensure their capacity to meet the ITT criteria can be demonstrated across their partnership.
 
 Accredited ITT providers can delegate responsibilities to their lead partners as long as they have sufficient oversight.
 
 All organisations in a partnership may be involved in developing the ITT programme, and, in some cases, the accredited ITT provider may wish to delegate aspects of their course design to lead partners.
-
-The accredited ITT provider ultimately holds responsibility for all elements of the course.
