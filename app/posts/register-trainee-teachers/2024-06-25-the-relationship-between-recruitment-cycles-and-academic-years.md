@@ -37,10 +37,10 @@ A recruitment cycle has several important dates. For example, for the 2024 to 20
 
 |Date and time|What happens|
 | --- | --- |
-|1 October 2024 at 9 am |Candidates can find courses for the 2024 to 2025 recruitment cycle on GOV.UK.|
-|8 October 2024 at 9 am |Start of 2024 to 2025 recruitment cycle. Candidates can apply for courses.|
-|16 September 2025 at 6 pm |The last day for candidates to apply for courses.|
-|24 September 2025 at 11:59 pm |End of 2024 to 2025 recruitment cycle. Applications awaiting decisions are rejected.|
+|1 October 2024 at 9&nbsp;am |Candidates can find courses for the 2024 to 2025 recruitment cycle on GOV.UK.|
+|8 October 2024 at 9&nbsp;am |Start of 2024 to 2025 recruitment cycle. Candidates can apply for courses.|
+|16 September 2025 at 6&nbsp;pm |The last day for candidates to apply for courses.|
+|24 September 2025 at 11:59&nbsp;pm |End of 2024 to 2025 recruitment cycle. Applications awaiting decisions are rejected.|
 
 ### Rollover
 
