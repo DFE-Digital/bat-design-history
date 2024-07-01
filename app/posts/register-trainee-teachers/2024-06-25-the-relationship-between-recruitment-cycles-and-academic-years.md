@@ -20,8 +20,8 @@ related:
 
 Postgraduate teacher training has:
 
-- recruitment cycles
-- academic years
+- recruitment cycles - when candidates are recruited
+- academic years - when recruited candidates become trainees and undertake their training
 
 A recruitment cycle precedes an academic year. For example, recruitment cycle 2023 to 2024 recruits trainees for the academic year 2024 to 2025.
 
