@@ -16,7 +16,7 @@ related:
 
 Organisations involved in initial teacher training (ITT) have the flexibility to form partnerships in which they share knowledge, experience, and resources to support delivery and help retain existing talent and expertise in the sector.
 
-Organisations can only provide courses that lead to a recommendation for QTS if they are accredited by the Department for Education (DfE).
+Organisations can only provide courses that lead to a recommendation for QTS if accredited by the Department for Education (DfE).
 
 ## Partnerships
 
