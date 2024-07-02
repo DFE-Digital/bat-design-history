@@ -16,7 +16,7 @@ related:
 
 Organisations involved in initial teacher training (ITT) have the flexibility to form partnerships in which they share knowledge, experience, and resources to support delivery and help retain existing talent and expertise in the sector.
 
-Organisations can only provide courses that lead to a recommendation for QTS if accredited by the Department for Education (DfE).
+Organisations can only provide courses that lead to a recommendation for qualified teacher status (QTS) if accredited by the Department for Education (DfE).
 
 ## Partnerships
 
@@ -42,7 +42,7 @@ An accredited ITT provider is also known as a:
 - accredited entity
 - legal entity
 
-An accredited ITT provider is a legal entity accredited by DfE that delivers teacher training that leads to qualified teacher status (QTS).
+An accredited ITT provider is a legal entity accredited by DfE that delivers teacher training that leads to QTS.
 
 The accredited ITT provider has been awarded accreditation and has full and final accountability for all aspects of training design, delivery, and quality across the partnership. It is liable for the quality of provision, governance, and internal controls. It will be accountable and responsible for public funds spent on the purposes intended across its ITT partnership.
 
