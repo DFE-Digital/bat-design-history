@@ -159,8 +159,3 @@ We think that ordering placement search results by distance removes the need to 
 We think this because the need to set a search radius was raised by multiple participants in [user research round 2](/manage-school-placements/user-research-round-2-findings/) but the participants from this round were satisfied by the results being sorted by distance.
 
 We will test this by monitoring if the need to set a search radius is raised in future user research as part of the Private Beta.
-
-
-
-
-
