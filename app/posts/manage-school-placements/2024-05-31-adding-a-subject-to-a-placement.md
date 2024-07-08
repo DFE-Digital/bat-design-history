@@ -59,7 +59,12 @@ By default, placements take the title of the subject. If the placement is for mo
 
 During the placement journey there is a change link for every answer that the school has entered. Clicking this link takes them back into the journey at that point.
 
-Once a placement has been added, the subject can no longer be changed.
+Once a placement has been added, the subject can no longer be changed. This is because:
+
+- We did not see instances of schools selecting the wrong subject in user research sessions.
+- If a subject changes, dependencies like mentor or year group are likely to change, meaning the whole nature of the placement changes.
+- Once a provider has been assigned to a placement, its core attributes cannot change.
+- It is easy to delete and create new placements
 
 ## Further considerations
 
