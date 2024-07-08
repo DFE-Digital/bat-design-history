@@ -11,7 +11,7 @@ In 2023, we produced two [performance reports](/manage-teacher-training-applicat
 
 For 2024, we made this report dynamic and refreshed it weekly on Monday. This means providers can continually monitor their performance and better understand applications, withdrawals, rejections, and deferrals throughout the year. We hope that having access to this data will encourage providers to use it in their decision-making about the recruitment journey, improving the candidate experience and supporting their wider recruitment strategies.
 
-This year's data is focused on candidates rather than applications. This change came from feedback on the 2023 report stating that a single candidate could make four applications and only one could be accepted, but the data would show three rejections. This gives an unfairly negative view of the situation.
+This year's data is focused on candidates rather than applications. This change came from feedback on the 2023 report stating that a single candidate could make 4 applications and only one could be accepted, but the data would show three rejections. This gives an unfairly negative view of the situation.
 
 For this report, the data measures candidates, not applications.
 
@@ -23,48 +23,70 @@ The data in this report is for illustration only.
 
 We sent a survey to providers and held a face-to-face interview on the 2024 performance report.
 
-The survey questions included:
+The survey included 7 questions:
 
 1. To what extent do you agree or disagree with the below statements about the content and usability of the report?
 
-Agree, somewhat agree, neither agree nor disagree,  somewhat disagree, disagree.
+Statements:
 
-- The order in which the information was presented in the report is logical.
-- The information presented in the report is easy to understand.
-- The report is simple to use and accessible to me.
-- The layout and organisation of the report is easy to understand.
+- the order in which the information was presented in the report is logical
+- the information presented in the report is easy to understand
+- the report is simple to use and accessible to me
+- the layout and organisation of the report is easy to understand
 
-If you answered ‘disagree’ or ‘somewhat disagree’ to any of the above statements, please provide more information.
+Answer options:
+
+- agree
+- somewhat agree
+- neither agree nor disagree
+- somewhat disagree
+- disagree
+
+If the participant answered ‘disagree’ or ‘somewhat disagree’ to any of the above statements, we encouraged them to provide more information.
 
 2. To what extent do you agree or disagree with the below statements about the use and value of the report?
 
-Agree, somewhat agree, neither agree nor disagree,  somewhat disagree, disagree.
+Statements:
 
-- The report being delivered on a weekly basis is useful to me.
-- It is useful to compare my performance data with the national average performance data.
-- The report contained all the information which I expected to see.
-- The ability to view historical performance data would be useful to me.
+- the report being delivered on a weekly basis is useful to me
+- it is useful to compare my performance data with the national average performance data
+- the report contained all the information which I expected to see
+- the ability to view historical performance data would be useful to me
 
-If you answered ‘disagree’ or ‘somewhat disagree’ to any of the above statements, please provide more information.
+Answer options:
+
+- agree
+- somewhat agree
+- neither agree nor disagree
+- somewhat disagree
+- disagree
+
+If the participant answered ‘disagree’ or ‘somewhat disagree’ to any of the above statements, we encouraged them to provide more information.
 
 3. How frequently would you view this report?
 
-- More than once a week
-- Once a week
-- Once a month
-- Less than once a month
+Answer options:
+
+- more than once a week
+- once a week
+- once a month
+- less than once a month
 - I’m not sure
 
 4. How useful is the information in the report?
 
-- All the information in the report is useful
-- Most of the information in the report is useful
-- Some of the information in the report is useful
-- None of the information in the report is useful
+Answer options:
 
-If ‘most’, ‘some’ or ‘none’, which information in the report was not useful to you?
+- all the information in the report is useful
+- most of the information in the report is useful
+- some of the information in the report is useful
+- none of the information in the report is useful
+
+If the participant answered ‘most’, ‘some’ or ‘none’ of the information, we asked what information in the report was not useful to them?
 
 5. Who in your organisation would use this report?
+
+Answer options:
 
 - Head of ITT
 - ITT course leader
@@ -96,4 +118,4 @@ If ‘most’, ‘some’ or ‘none’, which information in the report was not
 
 The report tested well overall, so there are no urgent changes. This is expected as the report is an improvement based on feedback from the mid-cycle report in 2023.
 
-We will implement recommendations for allowing providers to share the report with others and monitor support tickets and other feedback routes. Some analysis of how often the report is being accessed would also help us understand whether we need to make historical reports (not just the last week) available to providers.
+We will implement recommendations for allowing providers to share the report with others and monitor support tickets and other feedback routes. Analysing how often the report is accessed would also help us understand whether we need to make historical reports (not just the last week) available to providers.
