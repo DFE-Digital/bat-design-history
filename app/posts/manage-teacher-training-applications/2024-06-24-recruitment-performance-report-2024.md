@@ -27,8 +27,8 @@ The survey questions included:
 
 1. To what extent do you agree or disagree with the below statements about the content and usability of the report?
 
-
 Agree, somewhat agree, neither agree nor disagree,  somewhat disagree, disagree.
+
 - The order in which the information was presented in the report is logical.
 - The information presented in the report is easy to understand.
 - The report is simple to use and accessible to me.
@@ -37,7 +37,6 @@ Agree, somewhat agree, neither agree nor disagree,  somewhat disagree, disagree.
 If you answered ‘disagree’ or ‘somewhat disagree’ to any of the above statements, please provide more information.
 
 2. To what extent do you agree or disagree with the below statements about the use and value of the report?
-
 
 Agree, somewhat agree, neither agree nor disagree,  somewhat disagree, disagree.
 
@@ -67,11 +66,11 @@ If ‘most’, ‘some’ or ‘none’, which information in the report was not
 
 5. Who in your organisation would use this report?
 
-- Head of ITT 
-- ITT course leader 
-- Administrator 
+- Head of ITT
+- ITT course leader
+- Administrator
 - Team leader
-- Other 
+- Other
 
 6. How would you use the information in this report?
 
