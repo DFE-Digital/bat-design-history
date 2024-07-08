@@ -25,7 +25,7 @@ We sent a survey to providers and held a face-to-face interview on the 2024 perf
 
 The survey included 7 questions:
 
-1. To what extent do you agree or disagree with the below statements about the content and usability of the report?
+1\. To what extent do you agree or disagree with the below statements about the content and usability of the report?
 
 Statements:
 
@@ -44,7 +44,7 @@ Answer options:
 
 If the participant answered ‘disagree’ or ‘somewhat disagree’ to any of the above statements, we encouraged them to provide more information.
 
-2. To what extent do you agree or disagree with the below statements about the use and value of the report?
+2\. To what extent do you agree or disagree with the below statements about the use and value of the report?
 
 Statements:
 
@@ -63,7 +63,7 @@ Answer options:
 
 If the participant answered ‘disagree’ or ‘somewhat disagree’ to any of the above statements, we encouraged them to provide more information.
 
-3. How frequently would you view this report?
+3\. How frequently would you view this report?
 
 Answer options:
 
@@ -73,7 +73,7 @@ Answer options:
 - less than once a month
 - I’m not sure
 
-4. How useful is the information in the report?
+4\. How useful is the information in the report?
 
 Answer options:
 
@@ -84,7 +84,7 @@ Answer options:
 
 If the participant answered ‘most’, ‘some’ or ‘none’ of the information, we asked what information in the report was not useful to them?
 
-5. Who in your organisation would use this report?
+5\. Who in your organisation would use this report?
 
 Answer options:
 
@@ -94,9 +94,9 @@ Answer options:
 - Team leader
 - Other
 
-6. How would you use the information in this report?
+6\. How would you use the information in this report?
 
-7. Do you have any suggestions for how this report could be improved?
+7\. Do you have any suggestions for how this report could be improved?
 
 ## Key findings
 
