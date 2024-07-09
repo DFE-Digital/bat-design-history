@@ -64,7 +64,7 @@ Once a placement has been added, the subject can no longer be changed. This is b
 - We did not see instances of schools selecting the wrong subject in user research sessions.
 - If a subject changes, dependencies like mentor or year group are likely to change, meaning the whole nature of the placement changes.
 - Once a provider has been assigned to a placement, its core attributes cannot change.
-- It is easy to delete and create new placements
+- It is easy to delete and create new placements.
 
 ## Further considerations
 
