@@ -119,6 +119,7 @@ Visually differentiated information that was not specific to the course, for exa
 ![Screenshot of support and advice section of the course page after the design changes](support-and-advice-after.png)
 
 ## What we are continuing to test
+
 - Whether it’s helpful to further emphasise information such as the course fee or distance to the nearest school placement
 - Whether we can move the paragraphs of information about the course into an accordion, and remove the contents list
 - Whether we should remove the list of school placements, as they are not always accurate, and cause confusion for candidates who think they can choose their placement
