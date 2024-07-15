@@ -30,21 +30,21 @@ Previous research conducted in February 2022 found that:
 
 Some commented that they would prefer for the pages to contain only key points, and to be formatted in a way that allows for quick scans, for example with bullet points.
 
-> "It's quite tiring having to read a lot after work / day job, I want something that supports me in doing a quick information scan" - Career Changer
+> A career changer found the course page to be "quite tiring" to read, particularly while juggling work and other commitments, and wanted something that "supports me" in getting the information quickly.
 
 It’s not clear what is the role of Find vs providers’ websites​​, and how they should be using each; and for some candidates it becomes a game of ‘spot the difference’.​
 
-> "I wouldn't use the Gov website as the 'sole course' for researching and getting information. I would likely look at the provider’s website instead." - Career Changer​
+> A career changer said they wouldn't use this page as the sole method for researching, and would likely "look at the provider’s website instead."
 
 Some proposed an accordion structure so that they’re less overwhelmed by the sheer amount of text.​
 
 Most course pages look fairly identical, so candidates look for small differentiating factors that might win them over.​
 
-> "It's all very samey so it’s hard to tell the difference between courses" - Recent Graduate
+> A recent graduate found the course pages "very samey" and said it was hard to tell the difference between courses.
 
 Course descriptions can be longer than necessary and the usefulness of the information contained in them varies.
 
-> "There's a lot of text in ‘About the course’ - it could be shorter, punchier and to the point more.. i.e. - what you will learn, what you will be doing" - Career Changer
+> A career changer said there was a lot of text in "About the course", and suggested it could be "shorter", "punchier" and more to the point.
 
 ### Further investigation
 
@@ -82,15 +82,15 @@ The findings allowed us to be confident in some of the changes we could make to 
 
 Navigating the site and finding information was easy:
 
-> "I'd say it was easy, very easy. It's all quite visible and spread out."
+> Participants were able to navigate the page, saying it was very easy, and all "quite visible".
 
 Navigating on mobile generally tested well:
 
-> "So I haven't had an issue with scrolling through or to find the information that I need navigating on a mobile."
+> Particpants were able to find the information on a mobile, saying they "haven't had an issue" with scrolling through.
 
 The website was good for comparing courses, and the accordions were useful:
 
-> "So the website's quite good for comparing them isn't it? Everything being put in the same place. The headings are very easy to follow. Once I've read one, I know how to read them all."
+> Participants were able to compare courses, and liked that everything was in the same place, "headings are very easy to follow", and once they read one they know how to read them all.
 
 ## What we changed
 
