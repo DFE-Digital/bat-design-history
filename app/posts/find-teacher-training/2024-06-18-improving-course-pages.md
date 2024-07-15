@@ -42,7 +42,7 @@ Most course pages look fairly identical, so candidates look for small differenti
 
 > "It's all very samey so it’s hard to tell the difference between courses" - Recent Graduate
 
-Information about the course can often be long-winded and ‘meaningless’, with quality varying massively between providers.​
+Course descriptions can be longer than necessary and the usefulness of the information contained in them varies.
 
 > "There's a lot of text in ‘About the course’ - it could be shorter, punchier and to the point more.. i.e. - what you will learn, what you will be doing" - Career Changer
 
@@ -62,11 +62,11 @@ Information was presented to everyone that may only be relevant to some people, 
 
 ![Screenshot of international candidates section of the course page](international-candidates-before.png)
 
-Information was presented to everyone that may only be relevant the first time, and not when they are trying to compare courses, such as information about the provider and accredited provider.
+Information was presented to everyone that may only be relevant the first time they view a page, and not when they are trying to compare courses, such as information about the provider and accredited provider.
 
 ![Screenshot of accredited provider section of the course page](about-accredited-provider.png)
 
-The list of school placements are sometimes very long.
+The list of school placements was sometimes very long.
 
 ![Screenshot of the list of school placements on the course page](school-placements-before.png)
 
@@ -98,7 +98,7 @@ Moved ‘Entry requirements’ to the top of the page and improved the formattin
 
 ![Screenshot of entry requirement section of the course page after the design changes](entry-requirements-after.png)
 
-Moved information for International candidates to collapsed sections.
+Moved information for international candidates to collapsed sections.
 
 ![Screenshot of information for non-UK citizens after the design changes](international-candidates-after.png)
 
@@ -132,4 +132,4 @@ Working with providers to better understand their needs and expectations, to all
 
 Discussion on location to decide how to best present information about school placements to provide the most accurate information to support both candidates and providers.
 
-Discussion on the purpose of Find s the provider websites, to ensure we have a clear strategy and purpose that supports future iterations.
+Discussion on the purpose of Find vs the provider websites, to ensure we have a clear strategy and purpose that supports future iterations.
