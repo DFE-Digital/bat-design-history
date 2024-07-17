@@ -72,7 +72,7 @@ The postgraduate teacher apprenticeship route allows candidates to learn ‘on t
 
 The high-potential ITT route is a national 2-year employment-based initial teacher training and leadership development programme that seeks to recruit and train high-potential graduates and career changers who would be otherwise unlikely to join the profession or work in a school serving an area of greatest need.​
 
-[Teach First](https://www.teachfirst.org.uk/) delivers the current HPITT contract and covers cohorts up to and including the ITT2025 cohort. ​
+[Teach First](https://www.teachfirst.org.uk/) delivers the current HPITT contract and covers cohorts up to and including the ITT2025 cohort (academic year 2025 to 2026).
 
 ## Assessment only (AO)
 
