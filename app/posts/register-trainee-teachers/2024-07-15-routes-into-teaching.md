@@ -6,12 +6,20 @@ tags:
   - routes
 related:
   items:
+    - text: Initial teacher training (ITT)
+      href: https://www.gov.uk/government/collections/initial-teacher-training
+    - text: "Initial teacher training (ITT): criteria and supporting advice"
+      href: https://www.gov.uk/government/publications/initial-teacher-training-criteria
     - text: Train to be a teacher
       href: https://getintoteaching.education.gov.uk/train-to-be-a-teacher
     - text: "Qualified teacher status (QTS): qualify to teach in England"
       href: https://www.gov.uk/guidance/qualified-teacher-status-qts
     - text: Apply for qualified teacher status (QTS) if you teach outside the UK
       href: https://www.gov.uk/government/publications/apply-for-qualified-teacher-status-qts-if-you-teach-outside-the-uk/
+    - text: "Early years initial teacher training (ITT): a guide for providers"
+      href: https://www.gov.uk/guidance/early-years-initial-teacher-training-a-guide-for-providers
+    - text: Introducing international qualified teacher status (iQTS)
+      href: https://www.gov.uk/government/publications/international-qualified-teacher-status-iqts/introducing-the-international-qualified-teacher-status-iqts-pilot
 ---
 
 There are 7 routes into teaching for domestic candidates. These routes are split between undergraduate and postgraduate initial teacher training (ITT) and assessment only.
