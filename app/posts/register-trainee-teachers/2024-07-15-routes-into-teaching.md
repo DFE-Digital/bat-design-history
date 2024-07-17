@@ -37,7 +37,7 @@ Undergraduate ITT has 2 routes:
 
 ### Undergraduate initial teacher training (UGITT)
 
-Undergraduate ITT is a 3 to 4-year course for trainees without a first degree. If successful, trainees will study towards an undergraduate degree, leading directly to QTS.
+Undergraduate ITT is a 3 to 4-year course for trainees without a first degree. If successful, trainees will be awarded an undergraduate degree and QTS.
 
 ### Teacher degree apprenticeship (TDA)
 
