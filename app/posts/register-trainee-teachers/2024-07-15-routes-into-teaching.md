@@ -62,7 +62,7 @@ Fee-funded ITT accounts for most ITT courses and is for applicants already with 
 
 ### School direct salaried (SDS)
 
-The ‘school direct salaried’ route allows candidates to learn ‘on the job’ and earn an unqualified teacher’s salary while they train towards QTS over one academic year (9 months). It’s an employment-based route for high-quality graduates, typically with at least 3 years’ transferable work history.
+The ‘school direct salaried’ route allows candidates to learn ‘on the job’ and earn an unqualified teacher’s salary while they train towards QTS over one academic year (9 months). It’s an employment-based route for high-quality graduates.
 
 ### Postgraduate teacher apprenticeship (PGTA)
 
