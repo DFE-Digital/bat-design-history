@@ -120,6 +120,19 @@ The team was formed during a period where they couldn’t be physically near, so
 
 * * *
 
+## Manage school placements
+
+Lorem ispum dolor sit emit
+
+{{ appGallery({
+  items: [{
+    text: "Manage school placements private beta June 2024",
+    caption: "Lorem ipsum dolor sit emit"
+  }]
+}) }}
+
+* * *
+
 ## Claim funding for mentor training
 
 Claim funding for mentor training is a new service in private beta. The service aims to make it easy for schools to claim payment for the time their ITT mentors undertook training. Our team mascot is the wise Orangutan. ITT mentors are also wise and work to support and guide trainee teachers. These mentors will become wiser through high-quality training funded by the new service.
