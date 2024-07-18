@@ -42,6 +42,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true)
 
   // Collections
+  eleventyConfig.addCollection('serviceLine', collection => {
+    return collection.getFilteredByGlob([
+      'app/posts/becoming-a-teacher/becoming-a-teacher.md'
+    ])
+  })
 
   // List of service index pages
   eleventyConfig.addCollection('services', collection => {
@@ -56,6 +61,11 @@ module.exports = function (eleventyConfig) {
       'app/posts/support-for-apply/support-for-apply.md',
       'app/posts/support-for-publish/support-for-publish.md'
     ])
+  })
+
+  // Collections of posts for the service line
+  eleventyConfig.addCollection('becoming-a-teacher', collection => {
+    return collection.getFilteredByGlob('app/posts/becoming-a-teacher/*.md')
   })
 
   // Collections of posts for each service
