@@ -67,6 +67,14 @@
           {% endif %}
         {# List sections (pages whose parent is `home`) if homepage with no pagination key set #}
         {% elif eleventyNavigation.key == "home" %}
+          {% for item in collections.serviceLine | eleventyNavigation("home") %}
+            <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
+              <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+                <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
+              </h3>
+              <p class="govuk-body">{{ item.excerpt }}</p>
+            </section>
+          {% endfor %}
           <div class="govuk-grid-column-full">
             <h2 class="govuk-heading-l govuk-!-font-size-27">
               {{ app.sections.title or "Sections" }}
