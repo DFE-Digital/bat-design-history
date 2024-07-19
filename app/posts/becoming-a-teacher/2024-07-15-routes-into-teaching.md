@@ -20,6 +20,9 @@ related:
       href: https://www.gov.uk/guidance/early-years-initial-teacher-training-a-guide-for-providers
     - text: Introducing international qualified teacher status (iQTS)
       href: https://www.gov.uk/government/publications/international-qualified-teacher-status-iqts/introducing-the-international-qualified-teacher-status-iqts-pilot
+eleventyComputed:
+  eleventyNavigation:
+    key: bat-routes-into-teaching
 ---
 
 There are 7 routes into teaching for domestic candidates. These routes are split between undergraduate and postgraduate initial teacher training (ITT) and assessment only.

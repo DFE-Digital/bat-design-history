@@ -16,6 +16,30 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/register-trainee-teachers/routes-into-teaching/"
+  to = "/becoming-a-teacher/routes-into-teaching/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/register-trainee-teachers/the-relationship-between-recruitment-cycles-and-academic-years/"
+  to = "/becoming-a-teacher/the-relationship-between-recruitment-cycles-and-academic-years/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/register-trainee-teachers/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/"
+  to = "/becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/register-trainee-teachers/how-data-flows-through-the-service-line/"
+  to = "/becoming-a-teacher/how-data-flows-through-the-service-line/"
+  status = 301
+  force = true
+
 [build]
   command = "npm run build"
   publish = "public"
