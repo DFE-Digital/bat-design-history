@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Becoming a teacher
-description: Lorem ipsum
+description: A collection of services supporting the recruitment and training of trainee teachers
 pagination:
   data: collections.becoming-a-teacher
   reverse: true
