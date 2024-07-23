@@ -20,7 +20,7 @@ The research participants included:
 The goal of user research round 5 was to answer the following questions:
 
 - Are there any significant gaps in the service that need to be addressed before the launch of the Private Beta?
-- Have the iterations made to the ‘find placements’ journey addressed the user feedback from [user research round 2](/manage-school-placements/user-research-round-2-findings/)?
+- Have the iterations made to the ‘Find placements’ journey addressed the user feedback from [user research round 2](/manage-school-placements/user-research-round-2-findings/)?
 - What placement management functionality is needed by ITT providers?
 - Does the concept of having partner schools within the service make sense to ITT providers and what features are most valuable in relation to partner schools?
 
@@ -85,9 +85,9 @@ The participants understood what was meant by ‘Partner schools’ but it wasn'
 - one participant assumed that DfE would use data from other services to create the partnerships
 - participants from larger ITT providers were concerned about the need to add these relationships into the service one at a time as they have hundreds of partner schools
 
-> “I would understand [partner providers] as schools that we have worked with for placements in previous years or the current year. Rather than specifically ones that are part of our trust, which is a much smaller number... And how much history would you be able to pull back on that because it was only since 22-23 that we've given placement information on the DfE [service]?.”
+> “I would understand [partner schools] as schools that we have worked with for placements in previous years or the current year. Rather than specifically ones that are part of our trust, which is a much smaller number... And how much history would you be able to pull back on that because it was only since 22-23 that we've given placement information on the DfE [service]?”
 
-> “Within our system [Abyasa], we add schools from the UK list and we've got over 1,000 and they're all in there as a “partner school”. It doesn't mean we work with them. It means we have contacted them and we've got their details. We don't award any schools partnership or partner status really… If they do offer that year then we’re partners with them for that year and we do sign a partnership agreement. But in the practicalities of sorting placements we don’t really consider that.”
+> “Within our system [Abyasa], we add schools from the UK list and we've got over 1,000 and they're all in there as a 'partner school'. It doesn't mean we work with them. It means we have contacted them and we've got their details. We don't award any schools partnership or partner status really… If they do offer that year then we’re partners with them for that year and we do sign a partnership agreement. But in the practicalities of sorting placements we don’t really consider that.”
 
 > “Is [adding partner schools] something you have to do on an individual school by school basis or is there a way of doing it in bulk? Because obviously we'd be adding hundreds of schools if we were to do it that way. It would be quite a big job for us... and I'm not sure what added benefit we're getting because we know who our schools are and we know who's signed what they've signed and how they've signed it.”
 
@@ -105,7 +105,7 @@ Ordering the placement search results using the distance or travel time seemed t
 
 The preferred order of the filters was individual to each provider but ‘establishment group’ was deemed non-essential by all. Balancing those different perspectives, the most suitable filter order based on the participants' expected frequency of use and logical groupings is (from top to bottom):
 
-- Placements to show (available placements only, all placements or those assigned to the provider) with available placements only selected by default
+- Placements to show (available placements only, all placements or those assigned to the provider) with 'available placements only' selected by default
 - Education phase (when added as a filter)
 - Subject
 - Year group (when added as a filter)
@@ -130,7 +130,7 @@ This new filter order is suggested as a starting point, based on the research do
 
 ### Hypothesis 1
 
-We think that design changes are needed to make the partner schools feature more intuitive and useful to ITT providers.
+We think that providers will struggle to add all of their partner schools into the service and keep this information up to date.
 
 We think this because participants have had questions or concerns about this feature in most of the research sessions in this round and [user research round 2](/manage-school-placements/user-research-round-2-findings/).
 
