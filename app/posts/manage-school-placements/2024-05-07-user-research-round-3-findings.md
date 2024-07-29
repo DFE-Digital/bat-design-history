@@ -34,7 +34,7 @@ We tested the next iterations of the ‘Add placement’ and ‘Add mentor’ jo
 
 ![Updated add placement flow](add-placement--flow.png "Updated add placement flow")
 
-![Updated add mentor flow including DOB](add-mentor--flow.png "Updated add mentor flow including DOB")
+![Updated add mentor flow including DOB](add-mentor--flow.png "Updated add mentor flow including date of birth")
 
 We also tested:
 
@@ -62,7 +62,7 @@ The purpose and scope of the service needs to be clearer as "use this service to
 
 > “I think schools will be a little bit nervous around this because it's very formal and they'd really worry about flexibility around ‘Oh, the dynamics of the department have changed. We can't offer that anymore.’ So I think it might make them nervous about committing to offering a placement – particularly in those smaller departments. It’s easier in the big departments because, if there's any movement of staff, you've probably got somebody that can stand in. But, in the smaller departments, they might be reluctant to offer a place if they think that situation might change and they're committing to it on a portal.”
 
-All participants were confused to some extent by the reference to mentor TRNs and dates of birth on the start page. It was unclear when and why this information is required.
+All participants were confused to different extents by the reference to mentor TRNs and dates of birth on the start page. It was unclear when and why this information is required.
 
 > “What is the purpose of the teacher reference number? My thought process on that would be, frustratingly, some teachers not knowing it – especially if they've been teaching for a while... And it asks for date of birth. Why is that important? I found that very left field. Both are something I haven't been asked before.”
 
@@ -74,9 +74,9 @@ Participants understood and were able to follow the instruction to add a placeme
 
 All participants were able to navigate to the ‘Add placement contact’ screen and the information required (contact name and email) was in line with what they expected. They understood the purpose of the placement contact although some additional guidance would be useful to avoid this having to be assumed.
 
-[Screenshot of placements tab with add placement contact instruction]
+![Screenshot of placements tab with add placement contact instruction](no-itt-contact.png "Screenshot of placements tab with add placement contact instruction")
 
-[Screenshot of add placement contact screen]
+![Screenshot of add placement contact screen](placement-contact-details.png "Screenshot of add placement contact screen")
 
 Although most participants followed the “You must add the ITT placement contact email before adding a placement” instruction without considering any alternatives, one participant questioned why the placement contact details are not connected to the list of Users and commented that there would be duplicated effort. For example, if the placement contact leaves the school, someone will need to update the User tab and Organisation details tab separately.
 
@@ -136,9 +136,9 @@ As also identified in [user research round 1](/manage-school-placements/user-res
 
 ### Hypothesis 1
 
-We think that design changes are needed to make the partner providers feature more intuitive and useful to schools.
+We think that schools likely won't add partner providers until the point that they have to within the service so this list might not include all of the providers they work work.
 
-We think this because participants have struggled to understand and use this feature in most of the research sessions.
+We think this because participants have struggled to understand and use this feature in most of the research sessions. They cannot currently see a benefit in adding their partner providers into the service until the point that it’s required in order to assign a placement to that provider.
 
 We will test this by monitoring how partnerships are used during the Private Beta and understanding schools’ experiences through more user research.
 
