@@ -8,7 +8,7 @@ tags:
   - values
 ---
 
-Teacher Training & Recruitment’s vision, mission, and values are essential components that guide our direction and culture. Collectively, these elements define our identity and purpose, shaping how we operate and interact with our stakeholders.
+Teacher Training & Recruitment’s vision, mission, and values guide our direction and culture. Collectively, these elements define our identity and purpose, shaping how we operate and interact with our stakeholders.
 
 By understanding and embracing our vision, mission and values, we can ensure our teams are aligned, motivated, and working towards our shared goals.
 
