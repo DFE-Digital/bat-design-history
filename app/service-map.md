@@ -16,7 +16,7 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
 
 <img src="service-map.png" alt="Diagram showing a list of services arranged into 5 columns with the headings: consider teaching, become a teacher, start teaching, develop your practice and leave teaching. Full list of services below.">
 
-[Download service map as PDF (100KB)](service-map.pdf)
+[Download service map as PDF (107KB)](service-map.pdf)
 
 {% set services = {
   "considerTeaching": {
@@ -87,6 +87,12 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
       {
         "name": "Register trainee teachers",
         "href": "https://www.register-trainee-teachers.education.gov.uk"
+      },
+      {
+        "name": "Manage school placements – private beta"
+      },
+      {
+        "name": "Claim funding for mentor training – private beta"
       }
     ]
   },
