@@ -43,8 +43,7 @@ Research shows the cumulative impact of recent reforms, initiatives, and other c
 
 #### ITT market reforms
 
-- A new formal requirement for ITT (general) mentors to complete a minimum of 20 hours of initial training and 6 hours of annual refresher training takes teaching staff away from the classroom, and some experienced mentors consider it repetitive.
-- Because of market changes resulting from the ITT accreditation process, some schools have had to change ITT provider(s), which means they must complete additional work and training.
+- From September 2024, ITT (general) mentors must complete a minimum of 20 hours of initial training and 6 hours of annual refresher training (schools can claim grant funding for the time their teachers spend outside the classroom to undertake this training).
 
 #### Wider context
 
