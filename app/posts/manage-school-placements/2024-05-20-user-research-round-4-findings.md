@@ -8,7 +8,7 @@ tags:
 ---
 ## Who we spoke to
 
-We spoke to 8 support users across 3 separate group research sessions.
+We spoke to 8 support users, within the Teacher Services Operations and Support team, across 3 separate group research sessions.
 
 The research included:
 
@@ -17,7 +17,7 @@ The research included:
 
 ## Goals of the research
 
-The goal user research round 4 was to answer the following questions:
+The goal of user research round 4 was to answer the following questions:
 
 - Do support users understand and are they comfortable with the role they will play in the future service?
 - How do support users find the experience of adding a support user to the service and are there any issues they can anticipate?
@@ -54,9 +54,8 @@ Clarity needed on some of the business processes and rules that are part of broa
 
 For example:
 
-Adding a user to an organisation was straightforward for all participants but they were unsure how they would determine if a user has the right to be added to an organisation before they go into the service to perform that task
-
-For schools that are a lead partner or are attached to a SCITT, it might not be clear what the organisation should be onboarded as (ITT provider or school) so guidance would be helpful on how to determine that
+- Adding a user to an organisation was straightforward for all participants but they were unsure how they would determine if a user has the right to be added to an organisation before they go into the service to perform that task
+- For schools that are a lead partner or are attached to a SCITT, it might not be clear what the organisation should be onboarded as (ITT provider or school) so guidance would be helpful on how to determine that
 
 > “In a few clicks I onboarded an organisation but, in real life, more would go into it.”
 
@@ -71,7 +70,7 @@ The following minor changes and potential additions were identified:
 - Consider changing the "Users" tab to "Support users" to avoid any ambiguity with the ‘Users’ for an organisation within the service
 - Consider adding an edit user feature as this would also benefit support users – although removing and readding users, rather than having the ability to edit, is used on other DfE services
 - When adding an ITT provider using 'Add organisation', showing the UK Provider Reference Number (UKPRN) in the autocomplete results would be more useful than seeing the code from the Publish teacher training courses service
-- Look at ways to prevent lag issues with the autocomplete field for school/provider names – no results shown when the full name is entered too quickly (although this is common across DfE services so support users can work around it)
+- Look at ways to prevent lag issues with the autocomplete field when school or provider names are entered – no results are shown when the full name is entered too quickly although this is common across DfE services so support users can work around it
 - It might be useful to see when a user was added or last active but this need was speculative and would require more evidence to confirm its value
 
 ### Insight 4
@@ -88,7 +87,7 @@ One of the participants mentioned that, in some instances, accredited providers 
 
 We think that it should be rare that a school or ITT provider contacts support and asks them to do something on their behalf (as opposed to resolving an issue).
 
-We think this because user research with schools and ITT providers have suggested that they should be able to use these features without the need for support.
+We think this because user research with schools and ITT providers has suggested that they should be able to use these features without the need for support.
 
 We will test this by monitoring the number of support requests that relate to tasks that users have the ability to do them self.
 
@@ -96,6 +95,6 @@ We will test this by monitoring the number of support requests that relate to ta
 
 We think that some schools might potentially contact support if they are added as a partner by an ITT provider they do not recognise.
 
-We think this is because support users have reported this happening on the Publish teacher training courses service.
+We think this is because support users have reported similar issues happening on the Publish teacher training courses service.
 
 We will test this by monitoring the number of support tickets that relate to the partner providers feature.
