@@ -18,15 +18,15 @@ Every school can recruit the high-quality teachers they and their pupils need fr
 
 ### Enabled by
 
-Our mission is enabled by services that:
+Our mission is enabled by:
 
-- support every potential teacher to find and apply for the right course for them, and save schools time and money
+- services that support every potential teacher to find and apply for the right course for them, and save schools time and money
 
-- recognise highly qualified international teachers who can successfully teach in English classrooms
+- services that recognise highly qualified international teachers who can successfully teach in English classrooms
 
-- have recruitment programmes that widen the pool of people who can successfully become a great teacher
+- recruitment programmes that widen the pool of people who can successfully become a great teacher
 
-- deliver high-quality teacher training in an effective initial teacher training (ITT) market that equips every trainee to become an excellent teacher
+- high-quality teacher training in an effective initial teacher training (ITT) market that equips every trainee to become an excellent teacher
 
 ## Values
 
