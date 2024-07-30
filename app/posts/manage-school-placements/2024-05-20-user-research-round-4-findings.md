@@ -8,7 +8,7 @@ tags:
 ---
 ## Who we spoke to
 
-We spoke to 8 support users, within the Teacher Services Operations and Support team, across 3 separate group research sessions.
+We spoke to 8 support users, within the DfE Teacher Services Operations and Support team, across 3 separate group research sessions.
 
 The research included:
 
@@ -95,6 +95,6 @@ We will test this by monitoring the number of support requests that relate to ta
 
 We think that some schools might potentially contact support if they are added as a partner by an ITT provider they do not recognise.
 
-We think this is because support users have reported similar issues happening on the Publish teacher training courses service.
+We think this because support users have reported similar issues happening on the Publish teacher training courses service.
 
 We will test this by monitoring the number of support tickets that relate to the partner providers feature.
