@@ -100,7 +100,7 @@ The purpose and user benefit of the partner providers feature was unclear to mos
 
 #### Supporting detail and evidence
 
-Most participants needed the purpose of the partner providers feature to be explained to them, to some extent, as the concept was not intuitive. For example:
+Most participants needed the purpose of the partner providers feature to be explained to them, to different extents, as the concept was not intuitive. For example:
 
 - the majority did not see why they should need to add a provider as a partner before being able to assign a placement to that provider
 - some assumed that ‘partner providers’ were DfE’s partners rather than the school’s partners
@@ -136,7 +136,7 @@ As also identified in [user research round 1](/manage-school-placements/user-res
 
 ### Hypothesis 1
 
-We think that schools likely won't add partner providers until the point that they have to within the service so this list might not include all of the providers they work work.
+We think that schools likely will not add partner providers until the point that they have to within the service so their list of partner providers might not include all the providers they work with.
 
 We think this because participants have struggled to understand and use this feature in most of the research sessions. They cannot currently see a benefit in adding their partner providers into the service until the point that it’s required in order to assign a placement to that provider.
 
