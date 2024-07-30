@@ -50,13 +50,7 @@ We explored with HESA using the `SDLEAD` field for lead partners to indicate the
 
 Instead, we will attribute records to the correct accredited provider after receiving them.
 
-We will decide the best way to do this accurately. Publish teacher training courses (Publish) has organisation types that Register can reference, however:
-
-- it will take significant work to automate
-
-- the organisation types are not identical as Register (‘Training partners’ instead of ‘Lead partners’)
-
-- this partnership information is up to 9 months old and may not have been kept up to date
+We will decide the best way to do this accurately. Publish teacher training courses (Publish) has organisation types that Register can reference, however it will take significant work to automate and this partnership information is up to 9 months old and may not have been kept up to date.
 
 ### Managing sign off by accredited providers
 
