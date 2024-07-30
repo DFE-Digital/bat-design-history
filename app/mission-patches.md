@@ -120,6 +120,19 @@ The team was formed during a period where they couldn’t be physically near, so
 
 * * *
 
+## Manage school placements
+
+Manage school placements is a new service in private beta. The service aims to help ITT providers find school placements and schools to offer placements for trainee teachers. Our mascot is the frog because there are thousands of species, all with different behaviours and needs. Our service must accommodate diverse users with various approaches to organising school placements. It must help users jump between different organisations each year to deliver high-quality school placements for trainee teachers.
+
+{{ appGallery({
+  items: [{
+    text: "Manage school placements private beta June 2024",
+    caption: "This patch celebrates the launch of the private beta for Manage school placements in June 2024"
+  }]
+}) }}
+
+* * *
+
 ## Claim funding for mentor training
 
 Claim funding for mentor training is a new service in private beta. The service aims to make it easy for schools to claim payment for the time their ITT mentors undertook training. Our team mascot is the wise Orangutan. ITT mentors are also wise and work to support and guide trainee teachers. These mentors will become wiser through high-quality training funded by the new service.
