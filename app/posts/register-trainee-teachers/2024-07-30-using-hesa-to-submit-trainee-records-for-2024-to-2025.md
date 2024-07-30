@@ -12,7 +12,7 @@ For the 2024 to 2025 academic year, new partnerships between Higher Education In
 
 ## How DfE collects data on trainee teachers studying at HEIs
 
-HEIs submit ITT trainee data to Register trainee teachers (Register) using the Higher Education Statistics Authority (HESA).
+HEIs submit initial teacher training (ITT) trainee data to Register trainee teachers (Register) using the Higher Education Statistics Authority (HESA).
 
 HESA collects data on every student at university in England. HESA also runs the ‘ITT collection’, an additional data collection for ITT trainees on behalf of the DfE. The ITT collection is submitted to and stored in Register. The ITT collection is the source of around 80% of the data in ITT census and ‘Performance profiles’ publications produced by the Teacher Analytics Division (TAD).
 
