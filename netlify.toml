@@ -1,3 +1,18 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self'; media-src 'self'; object-src 'none'; script-src 'self'; style-src 'self'"
+    Permissions-Policy = "interest-cohort=()"
+    Referrer-Policy = "same-origin"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    # cache-control = '''
+  	# max-age=0,
+  	# no-cache,
+  	# no-store,
+  	# must-revalidate'''
+
 [[redirects]]
   from = "/glossary"
   to = "https://design.education.gov.uk/content-design/style-guide/"
