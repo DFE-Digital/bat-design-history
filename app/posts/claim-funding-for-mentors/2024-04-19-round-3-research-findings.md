@@ -48,7 +48,7 @@ Further research is required to determine the different types of MATs and their 
 
 Some participants needed help understanding the funding. They thought that they were claiming funding for the time spent training trainees. Users risk not receiving the full benefit of the funding if they do not understand what they are claiming.
 
-### Users continue to get confused as to where they go to claim after adding a mentors
+### Users continue to get confused as to where they go to claim after adding a mentor
 
 After adding mentors, no specific call to action directs users to make a claim. They must navigate to ‘claims’ themselves.
 
