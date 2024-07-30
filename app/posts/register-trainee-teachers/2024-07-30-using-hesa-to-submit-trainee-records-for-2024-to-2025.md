@@ -46,7 +46,7 @@ We decided it was necessary to let lead partners submit ITT trainee data through
 
 ### Associating trainee records to the correct accredited provider
 
-We explored with HESA using the SDLEAD field for lead partners to indicate their accredited provider by reference to that organisation’s unique reference number (URN). However, this would require significant manual intervention by the lead partner before submitting to HESA, which seemed burdensome and potentially error prone.
+We explored with HESA using the `SDLEAD` field for lead partners to indicate their accredited provider by reference to that organisation’s unique reference number (URN). However, this would require significant manual intervention by the lead partner before submitting to HESA, which seemed burdensome and potentially error prone.
 
 Instead, we will attribute records to the correct accredited provider after receiving them.
 
