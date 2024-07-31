@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self'; media-src 'self'; object-src 'none'; script-src 'self'; style-src 'self'"
+    # Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self'; media-src 'self'; object-src 'none'; script-src 'self'; style-src 'self'"
     Permissions-Policy = "interest-cohort=()"
     Referrer-Policy = "same-origin"
     X-Content-Type-Options = "nosniff"
