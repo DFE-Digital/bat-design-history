@@ -8,7 +8,7 @@
     - hesa
 ---
 
-For the 2024 to 2025 academic year, new partnerships between Higher Education Institutions (HEIs) will be introduced. Some providers will now be responsible for trainee records on behalf of their partners. The Register trainee teachers (Register) team needed to decide how to support these partnerships to submit and manage trainee recrods.
+For the 2024 to 2025 academic year, new partnerships between Higher Education Institutions (HEIs) will be introduced. Some providers will now be responsible for trainee records on behalf of their HEI partners. The Register trainee teachers (Register) team needed to decide how to support these partnerships to submit and manage trainee records.
 
 ## How DfE collects data on trainee teachers studying at HEIs
 
