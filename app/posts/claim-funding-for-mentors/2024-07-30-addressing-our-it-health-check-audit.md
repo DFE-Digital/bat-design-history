@@ -4,10 +4,10 @@ description: How we ensure the grant funding is being used appropriately
 date: 2024-07-30
 tags:
   - auditing
-  - ithc
+  - ITHC
 ---
 
-We underwent an IT health check assessment before our public beta launch.
+We underwent an IT health check assessment before our private beta launch.
 
 We use identical infrastructure and database systems as the other Becoming a teacher (BAT) services, so we did not need to repeat an assessment on these areas.
 
