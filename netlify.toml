@@ -1,60 +1,61 @@
 [[headers]]
-  for = "/*"
-  [headers.values]
-    # Content-Security-Policy = "default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self'; media-src 'self'; object-src 'none'; script-src 'self'; style-src 'self'"
-    Permissions-Policy = "interest-cohort=()"
-    Referrer-Policy = "same-origin"
-    X-Content-Type-Options = "nosniff"
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    # cache-control = '''
-  	# max-age=0,
-  	# no-cache,
-  	# no-store,
-  	# must-revalidate'''
+for = "/*"
+
+[headers.values]
+Content-Security-Policy = "default-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self' data:; object-src 'none'; script-src 'self' 'sha256-GUQ5ad8JK5KmEWmROf3LZd9ge94daqNvd8xy9YS1iDw=';"
+Permissions-Policy = "interest-cohort=()"
+Referrer-Policy = "same-origin"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
+# cache-control = '''
+# max-age=0,
+# no-cache,
+# no-store,
+# must-revalidate'''
 
 [[redirects]]
-  from = "/glossary"
-  to = "https://design.education.gov.uk/content-design/style-guide/"
-  status = 301
-  force = true
+from = "/glossary"
+to = "https://design.education.gov.uk/content-design/style-guide/"
+status = 301
+force = true
 
 [[redirects]]
-  from = "https://bat-design-history.netlify.app/*"
-  to = "https://becoming-a-teacher.design-history.education.gov.uk/:splat"
-  status = 301
-  force = true
+from = "https://bat-design-history.netlify.app/*"
+to = "https://becoming-a-teacher.design-history.education.gov.uk/:splat"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/school-placements/*"
-  to = "/manage-school-placements/:splat"
-  status = 301
-  force = true
+from = "/school-placements/*"
+to = "/manage-school-placements/:splat"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/register-trainee-teachers/routes-into-teaching/"
-  to = "/becoming-a-teacher/routes-into-teaching/"
-  status = 301
-  force = true
+from = "/register-trainee-teachers/routes-into-teaching/"
+to = "/becoming-a-teacher/routes-into-teaching/"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/register-trainee-teachers/the-relationship-between-recruitment-cycles-and-academic-years/"
-  to = "/becoming-a-teacher/the-relationship-between-recruitment-cycles-and-academic-years/"
-  status = 301
-  force = true
+from = "/register-trainee-teachers/the-relationship-between-recruitment-cycles-and-academic-years/"
+to = "/becoming-a-teacher/the-relationship-between-recruitment-cycles-and-academic-years/"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/register-trainee-teachers/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/"
-  to = "/becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/"
-  status = 301
-  force = true
+from = "/register-trainee-teachers/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/"
+to = "/becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/register-trainee-teachers/how-data-flows-through-the-service-line/"
-  to = "/becoming-a-teacher/how-data-flows-through-the-service-line/"
-  status = 301
-  force = true
+from = "/register-trainee-teachers/how-data-flows-through-the-service-line/"
+to = "/becoming-a-teacher/how-data-flows-through-the-service-line/"
+status = 301
+force = true
 
 [build]
-  command = "npm run build"
-  publish = "public"
+command = "npm run build"
+publish = "public"
