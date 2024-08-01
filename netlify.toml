@@ -2,7 +2,7 @@
 for = "/*"
 
 [headers.values]
-Content-Security-Policy = "default-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self' data:; object-src 'none'; script-src 'self' 'sha256-GUQ5ad8JK5KmEWmROf3LZd9ge94daqNvd8xy9YS1iDw=';"
+Content-Security-Policy = "default-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; frame-src 'self' app.netlify.com; img-src 'self' data:; object-src 'none'; script-src 'self' 'sha256-GUQ5ad8JK5KmEWmROf3LZd9ge94daqNvd8xy9YS1iDw=';"
 Permissions-Policy = "interest-cohort=()"
 Referrer-Policy = "same-origin"
 X-Content-Type-Options = "nosniff"
