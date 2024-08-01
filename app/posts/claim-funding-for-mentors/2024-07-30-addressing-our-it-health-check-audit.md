@@ -1,6 +1,6 @@
 ---
 title: Addressing our IT health check audit
-description: How we ensure the grant funding is being claimed and used appropriately
+description: How we ensure the grant funding is being used appropriately
 date: 2024-07-30
 tags:
   - auditing
@@ -35,16 +35,15 @@ The 6 areas can further be categorised into 2 medium-risk and 4 low-risk finding
 
 ### Misconfigured HTTP security headers
 
-> The following security headers were identified as being missing in responses returned by the
-application:
->
+The following security headers were identified as being missing in responses returned by the application:
+
 > | HTTP Header             | Header purpose |
 > | ----------------------- | -------------- |
 > | Content-Security-Policy | The Content Security Policy (“CSP”) header defines content sources that are trusted and approved by the browser to load specific resources such as scripts. The header also defines how loaded resources may behave. The header assists in defending against cross-site scripting (“XSS”) and other code execution attacks. |
 
 #### Resolution
 
-We have set up the `Content-Security-Policy` header to ensure that only trusted sources are loaded. As we do not use any third-party services, we only allow resources from our domain.
+We have set up the `Content-Security-Policy` header to ensure that only trusted sources are loaded. As we do not use third-party services, we only allow resources from our domain.
 
 ### Cookies not set with secure flag
 
@@ -52,20 +51,20 @@ We have set up the `Content-Security-Policy` header to ensure that only trusted 
 
 #### Resolution
 
-We have set the Secure flag on the cookie to ensure that it is only sent over HTTPS connections.
+We have set the ‘Secure flag’ on the cookie to ensure it is only sent over HTTPS connections.
 
 ### Insecure TLS/SSL configuration
 
-> The TLS/SSL configuration on the hosts indicated below was found to be misconfigured. Due to the identified TLS/SSL configuration vulnerabilities varying in the severity of the risks that they expose; this finding has been issued to highlight the significance of the most serious vulnerability identified. The following issues were identified:
->
+The TLS/SSL configuration on the hosts indicated below was found to be misconfigured. Due to the identified TLS/SSL configuration vulnerabilities varying in the severity of the risks they expose, this finding has been issued to highlight the significance of the most serious vulnerability identified. The following issues were identified:
+
 > | TLS/SSL Issue | Issue Description |
 > | ------------- | ----------------- |
-> | Weak- or Medium-Strength Ciphers Supported | A cypher suite is a combination of authentication, encryption and message authentication code (MAC) algorithms. They are used to negotiate the security settings for an encrypted data transfer in addition to the transfer of data itself. Utilising weaker cypher suites increases the risk of an attacker being able to retrieve clear text information from an encrypted conversation. |
+> | Weak- or Medium-Strength Ciphers Supported | A cipher suite is a combination of authentication, encryption and message authentication code (MAC) algorithms. They are used to negotiate the security settings for an encrypted data transfer in addition to the transfer of data itself. Utilising weaker cipher suites increases the risk of an attacker being able to retrieve clear text information from an encrypted conversation. |
 > | CBC Cipher Vulnerable to Cryptographic Timing Attack (LUCKY 13) | A timing side-channel attack against the message authentication code (MAC) check used by TLS algorithm may permit a suitably positioned attacker to retrieve the plaintext of the communication, subject to certain limitations. |
 
 #### Resolution
 
-The TLS/SSL cypher configuration is considered secure and within DfE risk appetite.
+The TLS/SSL cipher configuration is considered secure and within DfE risk appetite.
 
 ### Concurrent logins permitted
 
@@ -73,7 +72,7 @@ The TLS/SSL cypher configuration is considered secure and within DfE risk appeti
 
 #### Resolution
 
-This is by intentional design. We have implemented a session timeout to ensure that sessions are not left open indefinitely.
+Concurrent logins are by intentional design. We have implemented a session timeout to ensure that sessions are not left open indefinitely.
 
 ### Application does not use multi-factor authentication
 
@@ -89,4 +88,14 @@ The Claim funding for mentor training service uses DfE Sign In for authenticatio
 
 #### Resolution
 
-This is standard web browser behaviour. If the user uses the back button, they can view the browser-cached state of the last page they visited. They will not be presented with any updated or changed data since their browser cached the web page. As we have implemented a session timeout, they will not be able to refresh the page, navigate to a new page, or perform any data changes.
+Accessing secure areas with the back button is standard web browser behaviour. If the user uses the back button, they can view the browser-cached state of the last page they visited. They will not be presented with any updated or changed data since their browser cached the web page. As we have implemented a session timeout, they will not be able to refresh the page, navigate to a new page, or perform any data changes.
+
+*[CBC]: Cipher block chaining
+*[CSP]: Content security policy
+*[HTTP]: HyperText transfer protocol
+*[HTTPS]: HyperText transfer protocol secure
+*[MAC]: message authentication code
+*[MFA]: Multi-factor authentication
+*[SSL]: Secure sockets layer
+*[TLS]: Transport layer security
+*[XSS]: Cross-site scripting
