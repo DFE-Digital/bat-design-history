@@ -1,7 +1,7 @@
 ---
-  title:        Using HESA to submit trainee records for 2024 to 2025
-  description:  How lead partners and accredited providers will use HESA to submit trainee records in the 2024 to 2025 academic year
-  date:         2024-07-30
+  title: Using HESA to submit trainee records for 2024 to 2025
+  description: How lead partners and accredited providers will use HESA to submit trainee records in the 2024 to 2025 academic year
+  date: 2024-07-30
   tags:
     - ITT reform
     - providers
