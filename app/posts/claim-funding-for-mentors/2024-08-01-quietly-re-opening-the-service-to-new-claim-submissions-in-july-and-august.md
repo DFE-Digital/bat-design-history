@@ -23,7 +23,7 @@ Users contacted the support team primarily because they had issues with DfE Sign
 
 Our service (Claim) has several key external dependencies which determine when the claim windows can open and close, in addition to the use of DfE Sign-in.
 
-Firstly, it is reliant on the Register trainee teacher service for the list of placement schools to onboard into the service. Accredited providers submit this information in January, from the September to August academic year. This data is made available to Claim in February.  The service cannot open before this information is received and the first users from these placement schools are onboarded.
+Firstly, it is reliant on the Register trainee teacher service for the list of placement schools to onboard into the service. Accredited providers submit this information in January, for the September to August academic year. This data is made available to Claim in February.  The service cannot open before this information is received and the first users from these placement schools are onboarded.
 
 Secondly, funding is paid by the Education and Skills Funding Agency (ESFA). As part of their agreement to facilitate the payments to placement organisations, they have stipulated when they require payment forecasts and actuals. For the private beta they requested the first forecast by 25 July. This date, together with the end of the summer term for many schools in England, provided the rationale for closing the first claim window on Friday, 19 July.
 
