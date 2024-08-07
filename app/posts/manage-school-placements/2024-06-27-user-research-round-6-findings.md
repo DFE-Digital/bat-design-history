@@ -45,7 +45,7 @@ We reviewed the live Manage school placements service and tested prototype desig
 
 ![Placement window option 2: months](months.png "Placement window option 2: months")
 
-![Placement window option 3: date range](specific-dates.png "Placement window option 2: months")
+![Placement window option 3: date range](specific-dates.png "Placement window option 3: date range")
 
 ## Key insights
 
@@ -137,10 +137,6 @@ We think this because the existing behaviour for most schools is to wait until a
 
 We will test this by doing more research with schools that have not used the service during the Private Beta to understand the barriers.
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 ### Hypothesis 2
 
 We think that the secondary subjects list is not relevant to special schools.
