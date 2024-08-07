@@ -28,17 +28,17 @@ The goal of user research round 7 was to answer the following questions:
 
 We reviewed the live Manage school placements service and tested concept prototypes demonstrating different ways that trainee data could potentially be used within the service as a future enhancement.
 
-[Placements tab for ITT provider users]
+![Placements tab for ITT provider users](find-placements.png "Placements tab for ITT provider users")
 
-[Screenshot of trainee tab with description “Concept 1: Using trainee data to manage placement allocation process”]
+![Concept 1: Using trainee data to manage placement allocation process](trainees.png "Concept 1: Using trainee data to manage placement allocation process")
 
-[Screenshot of Jennifer Banner trainee details screen with description “Concept 2: Using trainee data to speed up placement search process and improve results quality”]
+![Concept 2: Using trainee data to speed up placement search process and improve results quality](trainee-details.png "Concept 2: Using trainee data to speed up placement search process and improve results quality")
 
-[Screenshot of proposal preview screen (Jennifer Banner example) with description “Concept 3: Sharing trainee data with the placement school to help them make their decision and find a suitable mentor”]
+![Concept 3: Sharing trainee data with the placement school to help them make their decision and find a suitable mentor](trainee-proposal.png "Concept 3: Sharing trainee data with the placement school to help them make their decision and find a suitable mentor")
 
-[Screenshot of Frieda Jackson trainee details screen with description “Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)”]
+![Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)](trainee-notify.png "Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)")
 
-[Screenshot of placements tab within partner schools screens (Whitburn Church of England School example) with description “Concept 5: Providing an overview screen with all placements offered by a partner school”]
+![Concept 5: Providing an overview screen with all placements offered by a partner school](school-placements.png "Concept 5: Providing an overview screen with all placements offered by a partner school")
 
 ## Key insights
 
@@ -55,7 +55,7 @@ Factors affecting school engagement based on provider findings from this round a
 - Service requires schools to adopt new behaviours – e.g. schools tend to respond to provider requests and chasing rather than provide their capacity proactively; if schools do offer their capacity proactively, they would approach their existing providers before offering placements to others
 - ITT providers are not currently promoting use of the service – the providers we’ve spoken to in Leeds are content with their current ways of working and are concerned that this new approach could jeopardise their existing relationships with schools
 
-> “It’s difficult to give feedback on the actual platform when we're not fully using it… I personally think, for it to be used wholesale, it needs to be the go to and it's really hard to get a mindset shift… It’s security for everybody and there’s that nervousness that we can see other providers’ placements, they can see ours and I think it's a big mindset shift.”
+> "It’s difficult to give feedback on the actual platform when we're not fully using it… I personally think, for it to be used wholesale, it needs to be the go to and it's really hard to get a mindset shift… It’s security for everybody and there’s that nervousness that we can see other providers’ placements, they can see ours and I think it's a big mindset shift."
 
 ### Insight 2
 
@@ -65,7 +65,7 @@ The updated order and labels for the Placement tab filters made sense to all of 
 
 There are some additional filtering needs that are not yet satisfied (education phase and placement window) but the filters that are currently available are clear and ordered in a way that reflects what the participants said they would use most often.
 
-[Filters on the Placements tab]
+![Filters on the Placements tab](filters.png "Filters on the Placements tab")
 
 ### Insight 3
 
@@ -87,17 +87,17 @@ Knowing the terms that the school has placement capacity in sufficiently narrows
 
 Out of the 5 trainee data concepts we tested (demonstrating different ways that trainee data could potentially be used within the service), concepts 4 and 5 were the most appealing so are worth developing further.
 
-[Screenshot of Frieda Jackson trainee details screen with description “Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)”]
+![Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)](trainee-notify.png "Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)")
 
-[Screenshot of placements tab within partner schools screens (Whitburn Church of England School example) with description “Concept 5: Providing an overview screen with all placements offered by a partner school”]
+![Concept 5: Providing an overview screen with all placements offered by a partner school](school-placements.png "Concept 5: Providing an overview screen with all placements offered by a partner school")
 
 #### Supporting detail and evidence
 
 Having to regularly return to the service to check whether new placements have been added is considered an inefficient approach. So all the participants were positive about concept 4 and anything that can be done to proactively bring new placements to the provider's attention. There were mixed views on whether email notifications would be the best approach or whether these new placements should be highlighted within the service. Further design iteration and testing is needed to determine the best way to deliver against this need.
 
-As found in [user research round 2](/manage-school-placements/user-research-round-2-findings/) and [user research round 5](/manage-school-placements/user-research-round-5-findings/), providers need to have a ‘school view’ of placement capacity as well as the ability to look at individual placements in isolation. Seeing all the placements being offered by a single school on an overview screen, as shown in concept 5, was received positively by all participants. However, in addition, we should still look at ways to bring a ‘school view’ into the ‘Find placement’ journey without the need to get this information by separately visiting the Partner schools tab – this was described as “long winded” by one of the participants.
+As found in [user research round 2](/manage-school-placements/user-research-round-2-findings/) and [user research round 5](/manage-school-placements/user-research-round-5-findings/), providers need to have a ‘school view’ of placement capacity as well as the ability to look at individual placements in isolation. Seeing all the placements being offered by a single school on an overview screen, as shown in concept 5, was received positively by all participants. However, in addition, we should still look at ways to bring a ‘school view’ into the ‘Find placement’ journey without the need to get this information by separately visiting the Partner schools tab – this was described as "long winded" by one of the participants.
 
-The participants’ feedback on concepts 1 and 2 was mixed. Using trainee data to manage the placement allocation process and speed up the placement search process could streamline parts of the process but does not offer a significant benefit over how this information is currently managed and the current designs do not reflect the fluid nature of how placements are assigned. For example: providers tend to identify placements before they know who the trainee will be and, as the list of trainees is confirmed, trainees are pencilled in against these placements. The picture constantly changes and trainees are reallocated as providers build a full picture of their trainees and placements for the year. Multiple providers referred to this process as “a big jigsaw”.
+The participants’ feedback on concepts 1 and 2 was mixed. Using trainee data to manage the placement allocation process and speed up the placement search process could streamline parts of the process but does not offer a significant benefit over how this information is currently managed and the current designs do not reflect the fluid nature of how placements are assigned. For example: providers tend to identify placements before they know who the trainee will be and, as the list of trainees is confirmed, trainees are pencilled in against these placements. The picture constantly changes and trainees are reallocated as providers build a full picture of their trainees and placements for the year. Multiple providers referred to this process as "a big jigsaw".
 
 All of the providers in this round felt that concept 3 (sharing trainee data with the placement school) did not fit with how they currently work. They were uncomfortable with sharing trainee application information with the placement school as there were concerns about selection bias and GDPR.
 
