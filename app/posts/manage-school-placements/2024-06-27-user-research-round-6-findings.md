@@ -33,7 +33,7 @@ The goal of user research round 6 was to answer the following questions:
 
 We reviewed the live Manage school placements service and tested prototype designs for a new onboarding journey and 3 different options for adding placement window into the ‘Add placement’ journey.
 
-![Placements screen for school users](placements.png "Placements screen for school users")
+![Placements tab for school users](placements.png "Placements screen for school users")
 
 ![Task list screen from the onboarding prototype](onboarding.png "Task list screen from the onboarding prototype")
 
@@ -117,6 +117,12 @@ Structuring the onboarding steps into a task list was felt to provide a clear ap
 
 Both participants favoured the use of academic terms (placement window option 1) to capture the placement window as part of the ‘Add placement’ journey.
 
+![Placement window option 1: academic terms](terms.png "Placement window option 1: academic terms")
+
+![Placement window option 2: months](months.png "Placement window option 2: months")
+
+![Placement window option 3: date range](specific-dates.png "Placement window option 3: date range")
+
 #### Supporting detail and evidence
 
 Although different schools can use different terminology to refer to the academic terms (e.g. some schools use term 1, 2 and 3 rather than Autumn, Spring and Summer) and the term dates will vary by school, academic term (placement window option 1) was considered by both participants to be the best way to provide an initial indication of when the placement could take place to narrow down the conversation with providers without adding additional effort for schools to provide detailed date information.
@@ -125,7 +131,7 @@ The academic terms approach was also tested in [user research round 1](/manage-s
 
 Using months (placement window option 2) was considered an acceptable alternative but would take more time for school users to enter and would not remove the need to still have a follow up conversation with ITT providers to discuss more specific dates.
 
-Using date ranges (placement window option 3) was felt to add unnecessary extra effort to adding a placement because schools often would not have specific start and end dates in mind and their capacity might not always be in consecutive periods (e.g. they might have capacity in Autumn or Summer term but not in the Spring term).
+Using date ranges (placement window option 3) was felt to add unnecessary extra effort to adding a placement because schools often would not have specific start and end dates in mind (without discussing these with a provider) and their capacity might not always be in consecutive periods (e.g. they might have capacity in the Autumn and Summer terms but not in the Spring term).
 
 ## Hypotheses to test
 
@@ -151,4 +157,4 @@ We think that a high percentage of users without an existing DfE Sign-in account
 
 We think this because a participant in this round experienced the issue and it’s also been reported for the Claim funding for mentor training service which has a similar school user group.
 
-We will test this by monitoring support ticket requests related to this issue and by conducting further research to understand the onboarding experience of school users that do not have an existing DfE Sign-in account.
+We will test this by monitoring support tickets related to this issue and by conducting further research to understand the onboarding experience of school users that do not have an existing DfE Sign-in account.
