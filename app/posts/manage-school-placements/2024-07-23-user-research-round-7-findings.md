@@ -8,7 +8,7 @@ tags:
 ---
 ## Who we spoke to
 
-We spoke to the 5 initial teacher training (ITT) providers and 1 teaching school hub that are participating in the Private Beta. These are the same organisations we spoke to in [user research round 5](/manage-school-placements/user-research-round-5-findings/) before the service went live on 13th June.
+We spoke to the 5 initial teacher training (ITT) providers and 1 teaching school hub that are participating in the Private Beta. These are the same organisations we spoke to in [user research round 5](/manage-school-placements/user-research-round-5-findings/) before the service went live on 13th June 2024.
 
 The research participants included:
 
@@ -44,7 +44,7 @@ We reviewed the live Manage school placements service and tested concept prototy
 
 ### Insight 1
 
-Providers use of the service has been limited so far primarily because of the limited number of placements that have been added by schools.
+ITT providers use of the service has been limited so far primarily because of the limited number of placements that have been added by schools.
 
 #### Supporting detail and evidence
 
@@ -93,7 +93,7 @@ Out of the 5 trainee data concepts we tested (demonstrating different ways that 
 
 #### Supporting detail and evidence
 
-Having to regularly return to the service to check whether new placements have been added is considered an inefficient approach. So all the participants were positive about concept 4 and anything that can be done to proactively bring new placements to the provider's attention. There were mixed views on whether email notifications would be the best approach or whether these new placements should be highlighted within the service. Further design iteration and testing is needed to determine the best way to deliver against this need.
+Having to regularly return to the service to check whether new placements have been added is considered an inefficient approach. So all the participants were positive about concept 4 and anything that can be done to proactively bring new placements to the provider's attention. There were mixed views on whether email notifications would be the best approach or whether relevant new placements should be highlighted within the service. Further design iteration and testing is needed to determine the best way to deliver against this need.
 
 As found in [user research round 2](/manage-school-placements/user-research-round-2-findings/) and [user research round 5](/manage-school-placements/user-research-round-5-findings/), providers need to have a ‘school view’ of placement capacity as well as the ability to look at individual placements in isolation. Seeing all the placements being offered by a single school on an overview screen, as shown in concept 5, was received positively by all participants. However, in addition, we should still look at ways to bring a ‘school view’ into the ‘Find placement’ journey without the need to get this information by separately visiting the Partner schools tab – this was described as "long winded" by one of the participants.
 
