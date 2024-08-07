@@ -126,8 +126,3 @@ We think that ordering placement search results using travel time might remove t
 We think this because our understanding is that the postcode would be used to find the travel time using a map tool so providing this information within the service might remove the need to perform that separate task.
 
 We will test this by retesting the Placements tab screen after travel time is introduced and checking whether seeing the school postcode for each placement would still be beneficial to providers.
-
-
-
-
-
