@@ -137,7 +137,6 @@ We think this because the existing behaviour for most schools is to wait until a
 
 We will test this by doing more research with schools that have not used the service during the Private Beta to understand the barriers.
 
-
 ### Hypothesis 2
 
 We think that the secondary subjects list is not relevant to special schools.
