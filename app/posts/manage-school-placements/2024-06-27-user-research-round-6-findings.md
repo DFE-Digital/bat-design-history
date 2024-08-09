@@ -61,11 +61,11 @@ Both participants had not heard about the service until the point that they were
 
 ### Insight 2
 
-ITT providers are not currently promoting use of the service with schools for the Private Beta and this affects school engagement.
+Because they are unsure of the benefits, ITT providers are not currently promoting use of the service with their partner schools for the Private Beta and this affects school awareness and engagement.
 
 #### Supporting detail and evidence
 
-We know from [user research round 7](/manage-school-placements/user-research-round-7-findings/) that ITT providers are not currently promoting use of the service and are continuing to use their existing methods for capturing placement information. We heard an example of how this affects school engagement from one of the participants in user research round 6. The school user contacted their ITT provider to ask whether they could share any further information about the service but the provider did not offer support to encourage or help them use the service.
+We know from [user research round 7](/manage-school-placements/user-research-round-7-findings/) that ITT providers are continuing to use their existing methods for capturing placement information rather than encouraging use of the new service. We heard an example of how this affects school engagement from one of the participants in user research round 6. The school user contacted their ITT provider to ask whether they could share any further information about the service but the provider was unable to offer support.
 
 > “So essentially the email [inviting our school to use the service] came from the DfE and I got back to one of the providers and said ‘Oh, where's this come from? What do I need to do with this?’ and they went ‘Not a clue – it's all the DfE’ so I just parked it.”
 
@@ -137,7 +137,7 @@ Using date ranges (placement window option 3) was felt to add unnecessary extra 
 
 ### Hypothesis 1
 
-We think that most schools will not engage with the service unless ITT providers encourage or instruct them to.
+We think that most schools (that are already involved in ITT) will require encouragement or instruction from their ITT providers to use the service.
 
 We think this because the existing behaviour for most schools is to wait until an ITT provider instructs them to do something and, as found in [user research round 1](/manage-school-placements/user-research-round-1-findings/) and [user research round 3](/manage-school-placements/user-research-round-3-findings/), schools with existing provider relationships are unlikely to use the service if it adds to rather than replaces existing effort providing placement information.
 
