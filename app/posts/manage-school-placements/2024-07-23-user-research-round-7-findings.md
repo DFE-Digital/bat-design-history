@@ -113,7 +113,7 @@ We will test this by conducting more user research on this addition after it is 
 
 ### Hypothesis 2
 
-We think that most schools will not use the service unless ITT providers encourage or instruct them to.
+We think that most schools (that are already involved in ITT) will require encouragement or instruction from their ITT providers to use the service.
 
 We think this because the existing behaviour for most schools is to wait until an ITT provider instructs them to do something and, as found in [user research round 1](/manage-school-placements/user-research-round-1-findings/) and [user research round 3](/manage-school-placements/user-research-round-3-findings/), schools with existing provider relationships are unlikely to use the service if it adds to rather than replaces existing effort providing placement information.
 
