@@ -79,6 +79,16 @@ We set up the prototype so that participants need to add at least one mentor bef
 
 ### Insight 4
 
+Using Teacher Reference Numbers (TRNs) to add mentors is an anticipated pain point.
+
+#### Supporting detail and evidence
+
+One participant was unsure what a TRN was and how they would get this information. Those that knew what TRNs are, said that they would need to get this information from their HR team or from the mentors themselves and this could involve significant effort.
+
+> “So that's my DfE number that I got 30 odd years ago? Is that what it is?... For an older teacher like me, we call that a DfE number. But I know that's probably not what you call it anymore.”
+
+### Insight 5
+
 The service feels familiar because schools use other DfE services that look and work similarly, although this increases the potential for confusion between the different services.
 
 #### Supporting detail and evidence
@@ -89,7 +99,7 @@ Participants found the prototype service easy to navigate, and many commented th
 
 However, a negative was that—at specific points—some participants got confused about the difference between the school placements service, the Publish teacher training courses service, and the Manage training for early career teachers service because they look similar and are all part of the broader teacher training journey.
 
-### Insight 5
+### Insight 6
 
 Based on the prototype tested, providing the required placement and mentor information is a manageable task for schools. However, we need to get ITT providers' perspectives, as any additions to satisfy their needs might increase the effort of adding and maintaining the information for schools.
 
