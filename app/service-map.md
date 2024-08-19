@@ -129,6 +129,14 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
         "href": "https://manage-training-for-early-career-teachers.education.gov.uk"
       },
       {
+        "name": "Check a teacher’s record",
+        "href": "https://check-a-teachers-record.education.gov.uk"
+      },
+      {
+        "name": "Check the children’s barred list",
+        "href": "https://check-the-childrens-barred-list.education.gov.uk"
+      },
+      {
         "name": "Employer Access",
         "href": "https://teacherservices.education.gov.uk/employeraccess/School/school"
       },
