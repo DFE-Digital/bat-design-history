@@ -9,7 +9,11 @@ tags:
 related:
   items:
     - text: Selecting an accredited provider in the claim flow when JavaScript is unavailable
-      href: /claim-funding-for-mentors/
+      href: /claim-funding-for-mentors/selecting-an-accredited-provider-in-the-claim-flow-when-javascript-is-unavailable/
+    - text: Submitting claims for funding
+      href: /claim-funding-for-mentors/submitting-claims-for-funding/
+    - text: Preventing duplicate mentor-provider claims
+      href: /claim-funding-for-mentors/preventing-duplicate-mentor-provider-claims/
 screenshots:
   items:
     - text: Find an accredited provider

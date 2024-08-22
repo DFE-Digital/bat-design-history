@@ -7,9 +7,7 @@ tags:
 related:
   items:
     - text: Selecting an accredited provider in the claim flow using an autocomplete
-      href: /claim-funding-for-mentors/
-    - text:
-      href:
+      href: /claim-funding-for-mentors/selecting-an-accredited-provider-in-the-claim-flow-using-an-autocomplete/
 screenshots:
   items:
     - text: Finding an accredited provider - without autocomplete
