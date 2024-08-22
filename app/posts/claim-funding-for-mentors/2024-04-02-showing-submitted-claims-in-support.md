@@ -95,7 +95,7 @@ The scrollable region is indicated by a cut-off mid-way through a checkbox, a bo
 
 The scroll area shows 4 and half schools to help users realise there are other schools in the list. This smaller height lets users move to a filter below.
 
-If there are 15 schools or fewer, the subject filter will be displayed as a simple list of checkboxes.
+If there are 15 schools or fewer, the school filter will be displayed as a simple list of checkboxes.
 
 When a school has been selected and the filters have been applied, the remove filter tags are displayed under ‘selected filters’ at the top of the filter panel.
 
@@ -111,7 +111,7 @@ The scrollable region is indicated by a cut-off mid-way through a checkbox, a bo
 
 The scroll area shows 4 and half accredited providers to help users realise there are other schools in the list. This smaller height lets users move to a filter below.
 
-If there are 15 accredited providers or fewer, the subject filter will be displayed as a simple list of checkboxes.
+If there are 15 accredited providers or fewer, the accredited providers filter will be displayed as a simple list of checkboxes.
 
 When a school has been selected and the filters have been applied, the remove filter tags are displayed under ‘selected filters’ at the top of the filter panel.
 
