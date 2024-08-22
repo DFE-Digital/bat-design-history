@@ -34,6 +34,7 @@ We have added:
 - a section called claims, which lists all submitted claims
 - a way to filter the claims by status, school, accredited provider and submitted date
 - a way to search the claims by claim reference
+
 ## How it works
 
 The claims page includes:
