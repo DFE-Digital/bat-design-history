@@ -36,13 +36,13 @@ Selecting ‘Add claim’ on the claims list page takes the user to a form where
 
 Without JavaScript, when the user continues, we show:
 
-- the number of results and the search term in the heading - for example, “7 results found for ‘challoner’”
+- the number of results and the search term in the heading - for example, “14 results found for ‘london’”
 - a way to change the search if the provider they are looking for is not listed or if there are too many results
 - a list of radio options matching their search query - we limit this list to 15 items
 
 We use data provided by Publish teacher training courses.
 
-We display the name UKPRN for each accredited provider in the list. This information allows users to choose correctly from similarly named accredited providers.
+We display each accredited provider’s name, town, and postcode on the list. This information allows users to choose correctly from similarly named accredited providers.
 
 Selecting an accredited provider from the list allows the user to continue and add the provider to the claim.
 
