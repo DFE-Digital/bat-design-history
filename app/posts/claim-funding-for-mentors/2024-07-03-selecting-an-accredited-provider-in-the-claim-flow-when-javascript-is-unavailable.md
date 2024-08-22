@@ -8,6 +8,8 @@ related:
   items:
     - text: Selecting an accredited provider in the claim flow using an autocomplete
       href: /claim-funding-for-mentors/selecting-an-accredited-provider-in-the-claim-flow-using-an-autocomplete/
+    - text: Building a resilient frontend using progressive enhancement
+      href: https://www.gov.uk/service-manual/technology/using-progressive-enhancement
 screenshots:
   items:
     - text: Finding an accredited provider - without autocomplete
@@ -27,6 +29,13 @@ screenshots:
 When users select an accredited provider in the claim flow, we use an autocomplete to help them find accredited providers.
 
 The autocomplete works well for quickly selecting an accredited provider, but it requires JavaScript, which not everyone has, and it does not always run successfully.
+
+Users might not have JavaScript enabled or available because they:
+
+- disable JavaScript in their browsers to avoid potential security risks, such as cross-site scripting (XSS) attacks
+- rely on screen readers or other assistive technologies and might disable JavaScript if it interferes with their tools
+- are using older or less powerful devices where JavaScript can slow down performance
+- work in an organisation that enforces strict browsing policies that disable JavaScript to maintain security and control over their network
 
 We added a no-JavaScript version of the find accredited provider flow, which we can progressively enhance.
 
