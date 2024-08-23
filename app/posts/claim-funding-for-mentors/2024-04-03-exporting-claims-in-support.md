@@ -39,4 +39,4 @@ The CSV file includes the following information:
 - establishment type
 - date submitted
 
-![CSV]: Comma-separated values
+*[CSV]: Comma-separated values
