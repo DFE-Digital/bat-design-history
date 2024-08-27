@@ -1,6 +1,6 @@
 ---
 title: Defining the sampling algorithm
-description: To ensure a fair and effective audit process, the service needs to audit a selection of claims made by schools
+description: To ensure a fair and effective audit process, we need to audit a selection of claims made by schools
 date: 2024-08-19
 tags:
   - claims
@@ -11,21 +11,25 @@ related:
       href: /claim-funding-for-mentors/how-we-audit-claims/
     - text: How we pay claims
       href: /claim-funding-for-mentors/how-we-pay-claims/
+    - text: "Government Functional Standard GovS 015: Grants"
+      href: https://www.gov.uk/government/publications/grants-standards
 ---
 
-To ensure a fair and effective audit process, the service needs to audit a selection of claims made by schools. The goal of this sampling process is to ensure a fair representative sample and minimise financial risk to DfE while meeting the following key requirements:
+To ensure a fair and effective audit process, the Claim funding for mentor training service needs to audit a selection of claims made by schools.
+
+The goal of this sampling process is to ensure a fair representative sample and minimise financial risk to DfE while meeting the following essential requirements:
 
 - Total claim value coverage: The value of the sampled claims must sum to at least 10% of the total claim value
-- Population representativeness: The sample must accurately represent the claiming school population
+- Population representativeness: The sample must accurately represent the ‘claiming school’ population
 - Risk-based sampling: The sample must include a higher proportion of claims flagged as a higher financial risk to the DfE
 
 ## Sampling methodology design
 
-To satisfy these requirements, we will employ a random stratified sampling methodology.
+We will employ a random stratified sampling methodology to satisfy our auditing requirements.
 
 ### Requirement 1: Total claim value coverage
 
-The claims selected from each stratum will be sampled so that their total value meets or exceeds 10% of the total claim value.
+We will sample the claims selected from each stratum so that their total value meets or exceeds 10% of the total claim value.
 
 ### Requirement 2: Population representativeness
 
@@ -39,7 +43,7 @@ Schools are stratified based on the following characteristics:
 
 #### Sampling focus
 
-The sampling will be designed to represent  claim value rather than the proportion of schools in each stratum.
+To align with [Cabinet Office best practice](https://www.gov.uk/government/publications/grants-standards), we will design the sampling to represent claim value rather than the proportion of schools in each stratum.
 
 For instance, if urban secondary schools account for 20% of the total claim value, this stratum should also account for 20% of the sample value.
 
@@ -51,13 +55,25 @@ Prioritising claim value over the proportion of schools in each stratum simplifi
 
 The sample must include all claims identified as high-risk, defined by the following criteria:
 
-#### Claim Value Threshold
+- Claim value threshold
+- Mentor submissions
+
+#### Claim value threshold
 
  All claims submitted by schools that have claimed more than £5,000 across all their claims.
 
+We chose the £5,000 amount because the average claim amount during the private beta is £1,670, and only 10 individual claims exceeded this amount.
+
+Sampling all the claims above £5,000 increases the likelihood of identifying the claims where schools have mistakenly claimed for both their initial teacher training (ITT) mentors and early careers framework (ECF) mentors, as their claim would be significantly more than the average amount.
+
 #### Mentor Submissions
 
- 20% of claims submitted by mentors will be randomly classified as high risk.
+ We will randomly classify 20% of claims submitted by mentors as high-risk.
+
+We are sampling a higher percentage of claims submitted by mentors because the mentor is included in the claim. Therefore, there is a low risk the information they are providing is inaccurate to request a higher amount of funding. However, this risk is low for two reasons:
+
+1. we don’t allow schools to submit claims which exceed the policy - 20 hours of training per mentor and accredited provider
+2. the funding is paid to the school and not the mentor
 
 ## Methodology of the sampling process
 
@@ -71,9 +87,9 @@ The algorithm first calculates the total value of claims submitted by each schoo
 
 #### Mark high-risk schools
 
-Schools with a total claim value exceeding £5,000 are flagged as high risk.
+We flag schools with a total claim value exceeding £5,000 as high risk.
 
-All claims from these high-risk schools are separated into a distinct dataset for further processing.
+We will then separate all claims from these high-risk schools into a dataset for further processing.
 
 ### Step 2: Identify and select claims submitted by mentors
 
@@ -83,9 +99,9 @@ The algorithm identifies all claims submitted by mentors from the remaining clai
 
 #### Random selection of mentor claims
 
-The mentor-submitted claims are randomly ordered.
+We randomly order the mentor-submitted claims.
 
-The top 20% of these claims (based on their random order) are selected for sampling and moved to a separate dataset.
+We will then select the top 20% of these claims (based on their random order) for sampling and moved to a separate dataset.
 
 ### Step 3: Stratify and randomly sample claims by strata value
 
@@ -93,22 +109,22 @@ The top 20% of these claims (based on their random order) are selected for sampl
 
 The claims not identified as high-risk or mentor-submitted are stratified based on three criteria:
 
-- Type of establishment
-- Phase of education
-- Urban-rural classification
+- type of establishment
+- phase of education
+- urban-rural classification
 
 #### Calculate total strata value
 
-The total claim value for each stratum is calculated.
+We calculate the total claim value for each stratum.
 
-10% of the total claim value for each stratum is calculated.
+We will then calculate 10% of the total claim value for each stratum.
 
 #### Random sampling within strata
 
-Within each stratum, claims are randomly ordered.
+We randomly order claims within each stratum.
 
-Claims are then sequentially added to the sample starting from the top of the random order, ensuring that with each additional claim, the cumulative value of the sampled claims is closer to 10% of the total claim value for that stratum.
+We will then sequentially add claims to the sample starting from the top of the random order, ensuring that with each additional claim, the cumulative value of the sampled claims is closer to 10% of the total claim value for that stratum.
 
 ## Conclusion
 
-This sampling algorithm is designed to effectively audit claims by ensuring that the sample size covers at least 10% of the total claim value, accurately reflects the distribution of claim values across different types of schools, and focuses on claims that pose a higher financial risk. This approach balances fairness with the strategic objective of minimising financial exposure.
+We designed this sampling algorithm to effectively audit claims by ensuring that the sample size covers at least 10% of the total claim value, accurately reflects the distribution of claim values across different types of schools, and focuses on claims that pose a higher financial risk. This approach balances fairness with the strategic objective of minimising financial exposure.
