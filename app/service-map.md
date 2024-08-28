@@ -59,8 +59,8 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
   "becomeATeacher": {
     "teachers": [
       {
-        "name": "Find postgraduate teacher training",
-        "href": "https://www.find-postgraduate-teacher-training.service.gov.uk"
+        "name": "Find teacher training courses",
+        "href": "https://find-teacher-training-courses.service.gov.uk/"
       },
       {
         "name": "Apply for teacher training",
