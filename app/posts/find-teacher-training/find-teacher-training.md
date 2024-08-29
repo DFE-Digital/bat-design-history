@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Find postgraduate teacher training
+title: Find teacher training courses
 description: A service for candidates to find courses by location, training provider or subject
 related:
   items:
