@@ -1,7 +1,7 @@
 ---
 title: Preventing users submitting duplicate claims
 description: We updated how we prevent duplicate mentor-provider claims to include a check at the end of the claim submission flow
-date: 2024-04-29
+date: 2024-04-29T12:01:00+00:00
 tags:
   - duplication
   - claims
