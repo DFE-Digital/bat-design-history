@@ -1,7 +1,7 @@
 ---
 title: Adding date of birth to the ‘Add mentor’ flow
 description: We updated the ‘Add mentor’ flow to include the date of birth when searching for a teacher to improve information security
-date: 2024-04-29
+date: 2024-04-29T12:00:00+00:00
 tags:
   - mentors
 related:
