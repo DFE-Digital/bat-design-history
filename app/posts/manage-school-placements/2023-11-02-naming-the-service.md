@@ -41,7 +41,7 @@ We jointly concluded that we should name the services:
 
 At the start of the private beta, we decided to make the service one service with two different interfaces for school and ITT providers.
 
-We agreed on the service name ‘Manage school placements’ to reflect the multiple actions each user group could carry out.
+We agreed on the service name ‘Manage school placements’ to reflect the multiple actions each user group could carry out – both in the service’s minimum viable product (MVP) form and in recognition of the extensive opportunities for future iteration and development.
 
 Schools can:
 
