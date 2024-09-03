@@ -54,9 +54,11 @@ We discussed whether taking them out of the application process was too disrupti
 We included the statistic that including a UK ENIC number makes you 28% more likely to receive an offer. In research some participants didn’t find this number convincing enough. We changed it slightly to ‘almost 30% more likely’ which people agreed was more appealing.
 
 #### Before
+
 ![Screenshot of question in the application process which asks whether a candidate has a statement of comparability, but does not include any extra information about what a statement of comparability is](/apply-for-teacher-training/ENIC/ENIC-question-in-apply-old.png)
 
 #### After
+
 ![Screenshot of updated question in the application process which asks whether a candidate has a statement of comparability, with extra information about time, cost and a link to apply](/apply-for-teacher-training/ENIC/ENIC-question-in-apply-new.jpg)
 
 ### Interruption screen
@@ -97,6 +99,7 @@ They will see bespoke content in both their rejection email and the applications
 > Sign in to apply again.
 
 #### Application page content
+
 ![Content from the screen where a candidate sees their rejected applications advising them to add an ENIC to their application before applying again.](/apply-for-teacher-training/ENIC/ENIC-rejection-screen.png)
 
 ## Next steps
