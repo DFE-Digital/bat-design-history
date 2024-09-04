@@ -6,6 +6,7 @@ tags:
     - ENIC
     - international
     - qualifications
+    - rejections
 
 ---
 
@@ -15,9 +16,9 @@ In the 2023 to 2024 recruitment cycle we saw a 269% increase in applications fro
 
 Training providers reported that they were struggling to process the high number of applications because of the extra time required to check qualifications gained overseas to make sure that they match the entry requirements.
 
- It can take providers 10 times longer to process applications from international candidates. (From user research in December 2023)
+It can take providers 10 times longer to process applications from international candidates. (From user research in December 2023)
 
-Applicants are able to buy a certificate known as a statement of comparability from UK National Information Centre (UK ENIC) which shows how their international qualifications compare to ones gained in the UK.
+Applicants can buy a certificate known as a statement of comparability from UK National Information Centre (UK ENIC) which shows how their international qualifications compare to ones gained in the UK.
 
 The statement of comparability makes it easier for training providers to process applications from overseas because they can see how their qualifications compare to UK ones. It also increases the likelihood of the applicant receiving an offer by 28% (in the 2023 to 2024 cycle).
 
@@ -29,10 +30,10 @@ We wanted to increase the number of applications who submit with a statement of 
 
 Candidates said they:
 
-* don't find out they need an ENIC until quite late in the application process
-* don’t know what ENIC is
-* don’t know why ENIC is important
-* don’t know that it takes 15 working days to receive your ENIC reference number
+* do not find out they need an ENIC until quite late in the application process
+* do not know what ENIC is
+* do not know why ENIC is important
+* do not know that it takes 15 working days to receive your ENIC reference number
 
 Providers said they spend a long time trying to understand whether a qualification is equivalent to the UK ones specified in their entry requirements. Some mentioned lists of qualifications from other countries which they research and maintain themselves, or calling and emailing overseas universities to check qualifications.
 
