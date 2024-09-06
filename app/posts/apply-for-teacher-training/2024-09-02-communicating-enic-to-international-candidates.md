@@ -108,7 +108,7 @@ Some weaknesses of the current designs include:
 
 1. Our research showed that where a course is taught outside of the UK but in English, candidates do not believe they need a statement of comparability:
 
-  > “Because I feel my courses were taught in English when I was doing my undergraduate program, I feel I don’t need this (UK ENIC number)”
+    > “Because I feel my courses were taught in English when I was doing my undergraduate program, I feel I don’t need this (UK ENIC number)”
 
 2. Leaving the application process to begin a new application on a 3rd party website could be disruptive and lead to increased drop outs.
 
