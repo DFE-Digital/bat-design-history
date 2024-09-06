@@ -66,4 +66,3 @@ Provider users are able to filter the placements shown on the find placements sc
 Where placements are displayed throughout the service we have introduced a horizontal navigation to allow users to choose between academic years.
 
 ![Placement screen](screenshot-placements.png "Placements screen")
-
