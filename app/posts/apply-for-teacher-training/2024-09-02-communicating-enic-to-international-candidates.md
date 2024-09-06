@@ -1,12 +1,12 @@
 ---
 title: Helping international candidates show that their qualifications are equivalent to UK ones
-description: Communicating the certificate of comparability to international candidates so that they can apply for one at the right time in their application.
+description: Communicating the certificate of comparability to international candidates so that they can apply for one at the right time in their application
 date: 2024-09-02
 tags:
-    - ENIC
-    - international
-    - qualifications
-    - rejections
+  - ENIC
+  - international
+  - qualifications
+  - rejections
 ---
 
 ## The problem we are trying to solve
