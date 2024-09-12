@@ -31,7 +31,7 @@ As part of this work we also looked at adding academic year to placements. This 
 - We added a question to the add placement flow to record which academic year the placement is in.
 - We added a question to the add placement flow to record which time of the academic year the placement is expected to happen.
 - We added a filter to the placement search to allow providers to search for placements by academic year.
-- We changes the display of placements throughout the service to allow them to be viewed by academic year.
+- We changed the display of placements throughout the service to allow them to be viewed by academic year.
 
 ## How it works
 
