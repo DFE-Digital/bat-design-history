@@ -15,9 +15,9 @@ screenshots:
     - Single training location no vacancies
 ---
 
-{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
-{{ govukWarningText({
-  html: "There’s <a href=\"/publish-teacher-training-courses/vacancies-iteration-14-jan\">an updated design</a>.",
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+  html: "There’s [an updated design](/publish-teacher-training-courses/vacancies-iteration-14-jan\)." | markdown("inline"),
   iconFallbackText: "Warning"
 }) }}
 

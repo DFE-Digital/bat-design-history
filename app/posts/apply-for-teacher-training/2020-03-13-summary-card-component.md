@@ -11,9 +11,10 @@ related:
       href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
 ---
 
-{% from "gallery/macro.njk" import appGallery with context %}
-
-> On 31 January 2023, the summary card was incorporated into the GOV.UK Design System as [a new variant within the summary list component](https://design-system.service.gov.uk/components/summary-list/#summary-cards).
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+  html: "On 31 January 2023, the summary card was incorporated into the GOV.UK Design System as [a new variant within the summary list component](https://design-system.service.gov.uk/components/summary-list/#summary-cards)." | markdown("inline")
+}) }}
 
 Throughout the service we ask candidates to enter multiple items of information (eg jobs, work experiences, qualifications, course choices). We then give candidates the opportunity to review their answers, not only after completing each section, but when reviewing their entire application.
 
@@ -27,6 +28,7 @@ We tried to display this information using existing components, but uncovered a 
 
 We needed a component that would help users clearly identify different summaries, and perform associated actions on each. The summary card component allows us to do this.
 
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   items: [{
     text: "A review page without component",
