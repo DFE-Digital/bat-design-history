@@ -27,7 +27,6 @@ related:
   </div>
 </div>
 
-
 After several iterations and additions to the ‘International candidates’ section, we decided to review the content to ensure it flowed well, and the conditional statements were correct. We also wanted to improve the content about visa sponsorship to make it clearer if visas can be sponsored or not, as we now have this information at a course level.
 
 ## What we changed
