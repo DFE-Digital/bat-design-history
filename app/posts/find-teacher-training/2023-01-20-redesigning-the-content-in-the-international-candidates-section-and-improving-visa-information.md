@@ -13,6 +13,20 @@ related:
     - href: /publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/
 ---
 
+<div class="govuk-notification-banner" role="region" aria-labelledby="govuk-notification-banner-title" data-module="govuk-notification-banner">
+  <div class="govuk-notification-banner__header">
+    <h2 class="govuk-notification-banner__title" id="govuk-notification-banner-title">
+      Important
+    </h2>
+  </div>
+  <div class="govuk-notification-banner__content">
+    <p class="govuk-notification-banner__heading">
+      These designs are no longer live
+    </p>
+    <p class="govuk-body">Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> for the latest designs.</p>
+  </div>
+</div>
+
 After several iterations and additions to the ‘International candidates’ section, we decided to review the content to ensure it flowed well, and the conditional statements were correct. We also wanted to improve the content about visa sponsorship to make it clearer if visas can be sponsored or not, as we now have this information at a course level.
 
 ## What we changed
