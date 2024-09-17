@@ -61,7 +61,7 @@ screenshots:
         text: Request a reference
       - id: action-nudge
         text: Send a reminder email
-        caption: This page shows the date the next automated reminder will be sent, so that candidates don’t send an unnecessary reminder
+        caption: This page shows the date the next automated reminder will be sent, so that candidates do not send an unnecessary reminder
       - id: action-cancel
         text: Cancel a reference request
       - id: action-delete-request
@@ -145,7 +145,7 @@ We can address this last issue by:
 {{ appUserNeed({
   description: "As a candidate
 I need to get 2 references quickly
-So that I don’t miss out on the course that I want"
+So that I do not miss out on the course that I want"
 }) }}
 
 {{ appUserNeed({

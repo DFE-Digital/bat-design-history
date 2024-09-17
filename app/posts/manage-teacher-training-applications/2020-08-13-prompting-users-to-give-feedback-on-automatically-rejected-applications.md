@@ -1,6 +1,6 @@
 ---
 title: Prompting users to give feedback on automatically rejected applications
-description: Let candidates know why their application was automatically rejected so they don’t lose confidence unnecessarily
+description: Let candidates know why their application was automatically rejected so they do not lose confidence unnecessarily
 date: 2020-08-13
 tags:
   - rejections

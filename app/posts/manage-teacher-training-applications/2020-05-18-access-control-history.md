@@ -403,7 +403,7 @@ We have a good level of confidence in the understanding and the data that sits b
 
 ### Policy
 
-From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that don’t provide the course have complete management responsibilities over that provider's applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
+From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that do not provide the course have complete management responsibilities over that provider's applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
 
 There is a decision to be made whether we want to allow this SCITT to have complete access to set up their School Direct organisational permissions (the current Publish model). An alternative is to default to assigning all organisational permissions to the provider of the course. This could be done during on-boarding. Each option has pros and cons and an impact on the on-boarding journey into Apply which we will need to discuss.
 
@@ -572,7 +572,7 @@ A user with Manage Users permission can invite other users from outside their or
   - Yasmin at City Learning Trust is invited to Apply and signs the data sharing agreement
   - She can see that City Learning Trust have courses ratified by Staffordshire University, Manchester Metropolitan University and KNSTE. She sets the following permissions:
     - Staffordshire University can see safeguarding information, City Learning Trust can make decisions
-    - Manchester Metropolitan University can see safeguarding information and make decisions, City Learning Trust don’t have any permissions set.
+    - Manchester Metropolitan University can see safeguarding information and make decisions, City Learning Trust do not have any permissions set.
     - KNSTE can see safeguarding information, City Learning Trust can make decisions
 - Painsley Teaching School Alliance
   - Priti at Painsley Teaching School Alliance is invited to Apply and signs the data sharing agreement

@@ -44,7 +44,7 @@ So that I can accomodate their needs"
 
 ### Using ‘extra assistance’ in the title
 
-Using the word ‘disability’ in the title excluded candidates that have short-term physical or mental health conditions, or a condition they don’t regard as a disability.
+Using the word ‘disability’ in the title excluded candidates that have short-term physical or mental health conditions, or a condition they do not regard as a disability.
 
 If the question mentions ‘extra assistance’ instead of ‘disability’
 Then candidates with access needs will be more compelled to enter their condition(s)

@@ -89,7 +89,7 @@ The support team user can check their answers at the end of the flow before savi
 
 Adding the user triggers an email to the new user with sign-in details.
 
-If the support team adds the same user to a different organisation, we link the user to the new organisation. We don’t create a new user record.
+If the support team adds the same user to a different organisation, we link the user to the new organisation. We do not create a new user record.
 
 ### Removing a user
 
@@ -152,7 +152,7 @@ We need to consider how we communicate this in our email notifications.
 
 ### Editing a user
 
-We don’t allow editing a user. This is because:
+We do not allow editing a user. This is because:
 
 - the user details are linked to DfE Sign-in
 - it is easy to remove the user and add a new one if the original details are incorrect

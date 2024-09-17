@@ -51,7 +51,7 @@ As found during the Discovery phase, different ITT providers currently have vari
 
 However, the service’s appeal depends on ITT providers no longer requesting the same information separately so that the service replaces what it currently does rather than being additional. There were also concerns from some participants that other pressures on mentor availability [which participants also highlighted during the Discovery phase](/manage-school-placements/problems-with-school-placements/) will reduce the amount of placements schools are willing to add to the service or make the information less reliable.
 
-> “My colleagues in schools who just take placements aren’t considering mentor training. They will just be used to getting emails and phone calls from universities and SCITTs saying they can have a placement and offering what they can offer. That’s based upon very little mentor training and they don’t know yet that you need to have 20 hours.”
+> “My colleagues in schools who just take placements aren’t considering mentor training. They will just be used to getting emails and phone calls from universities and SCITTs saying they can have a placement and offering what they can offer. That’s based upon very little mentor training and they do not know yet that you need to have 20 hours.”
 
 ### Insight 2
 

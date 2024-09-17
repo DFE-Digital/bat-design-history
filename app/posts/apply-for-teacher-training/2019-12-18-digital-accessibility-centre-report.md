@@ -35,7 +35,7 @@ Automated accessibility testing would highlight this issue.
 
 ### Unlabelled form fields (WCAG A)
 
-Page 15: When a training provider gives multiple conditions for an offer, the fields for those conditions don’t have associated labels.
+Page 15: When a training provider gives multiple conditions for an offer, the fields for those conditions do not have associated labels.
 
 This was [fixed by removing custom IDs from there form fields](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/1015). The generated ID then matched the for attribute of the label, meaning that labels were correctly associated. ([Trello](https://trello.com/c/BWbCBEVj/693-dac-page-15-add-form-labels-to-provider-offer-page-conditions))
 

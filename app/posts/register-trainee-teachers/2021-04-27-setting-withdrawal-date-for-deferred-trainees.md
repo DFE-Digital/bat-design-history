@@ -9,7 +9,7 @@ tags:
 
 If a trainee defers from their course and then withdraws, providers are meant to use the trainee’s deferral date as their withdrawal date - as this is the date they were last on the course.
 
-Previously our withdrawal page asked for a withdrawal date - but if the trainee is already deferred we don’t want providers to have a choice of date. Instead we’ll tell the provider that we’ll use the existing deferral date as the withdrawal date.
+Previously our withdrawal page asked for a withdrawal date - but if the trainee is already deferred we do not want providers to have a choice of date. Instead we’ll tell the provider that we’ll use the existing deferral date as the withdrawal date.
 
 Our previous withdrawal date question:
 

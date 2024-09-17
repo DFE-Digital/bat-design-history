@@ -29,7 +29,7 @@ Options considered included:
 - adding a fourth "Another issue" checkbox, and then requiring at least one checkbox to be selected
 - moving the textarea to be conditionally-revealed when each checkbox was selected, allowing users to optionally add further details
 
-However, upon reviewing the feedback submitted so far, only 2 out of the 12 feedback items submitted offered no written feedback, and these both simply checked the “I do not understand this section” checkbox. On its own, this is not super useful – although it might be more useful if the volume of feedback was much higher.
+However, upon reviewing the feedback submitted so far, only 2 out of the 12 feedback items submitted offered no written feedback, and these both simply checked the “I don’t understand this section” checkbox. On its own, this is not super useful – although it might be more useful if the volume of feedback was much higher.
 
 Instead, it makes more sense to simplify the form by removing the checkboxes, and having only a single required free text feedback field. The label for this can then also become the `<h1>` tag for the page.
 

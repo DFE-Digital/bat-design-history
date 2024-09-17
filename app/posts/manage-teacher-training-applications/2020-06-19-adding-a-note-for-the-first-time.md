@@ -8,7 +8,7 @@ Research shows that users aren’t sure how notes work.
 
 They’re particularly uncertain about whether candidates will be able to see their notes.
 
-However, users don’t need to see this guidance every time they add a note.
+However, users do not need to see this guidance every time they add a note.
 
 If we show users an interstitial the first time they add a note
 Then they’ll be able to learn how notes work quickly without having to see the guidance every time

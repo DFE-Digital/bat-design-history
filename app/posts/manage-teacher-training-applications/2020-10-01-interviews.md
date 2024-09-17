@@ -61,6 +61,6 @@ Then you are taken to the interviews tab with a success message.
 
 A new top level page has been added so that users can see all the upcoming interviews.
 
-This means they don’t have to go outside the service to do this and they don’t have to go into a particular application to see the interview details.
+This means they do not have to go outside the service to do this and they do not have to go into a particular application to see the interview details.
 
 ![Screenshot of ‘Interviews’ page.](interview-list-page.png)

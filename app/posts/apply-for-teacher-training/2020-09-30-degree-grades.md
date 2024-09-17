@@ -61,7 +61,7 @@ However, as we do not provide structured answers for international degrees, this
 
 ### Hypothesis
 
-If we ask international candidates if their degree did or will give a grade (‘Yes’, ‘No’ or ‘I do not know), and show examples of grades before showing these options
+If we ask international candidates if their degree did or will give a grade (‘Yes’, ‘No’ or ‘I don’t know), and show examples of grades before showing these options
 Then candidates will be able to better understand the question and provide the right information.
 
 {{ appScreenshots({

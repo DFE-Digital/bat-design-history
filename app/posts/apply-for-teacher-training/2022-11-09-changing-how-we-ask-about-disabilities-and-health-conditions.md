@@ -41,7 +41,7 @@ In addition, for the 2022 to 2023 recruitment cycle, the Higher Education Statis
 
 We removed the first question, and instead present all users with a list of checkboxes.
 
-We changed the question to ‘Do you have any of these disabilities or health conditions?’ and added a ‘I do not have any of these disabilities or health conditions’ option.
+We changed the question to ‘Do you have any of these disabilities or health conditions?’ and added a ‘I don’t have any of these disabilities or health conditions’ option.
 
 We added some content at the top of the page to confirm that a candidate’s answer is not shown to providers when they are deciding whether or not to offer a place on a course, and instead is only revealed if an offer has been accepted.
 

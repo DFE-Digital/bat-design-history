@@ -67,7 +67,7 @@ In general, the guidance shown was well understood and seen as supportive, usefu
 > I feel like some actions need to be taken here.
 > – Career changer
 
-However, the guidance shown for the degree could have an adverse effect, particularly as there are few good options available if you don’t have the desired degree class:
+However, the guidance shown for the degree could have an adverse effect, particularly as there are few good options available if you do not have the desired degree class:
 
 > Looking at this, it seems to be highlighting areas where I’m lacking. I’m more likely to discount myself… it seems like ‘oh all these things that I don’t have’. So it might not be worth submitting the form.
 > – Educational worker
@@ -102,4 +102,4 @@ However, we do know the standard ITT entry criteria regarding GCSEs and their eq
 
 Currently, we ask candidates to explain how they plan to meet this criteria if they do not have this qualification, but not if they enter a non-pass grade (i.e. a grade lower than C or 4).
 
-To address this, we added an additional question to the GCSE flow. If a candidate enters a non-pass grade, we ask them the same question that would be asked if they had said they don’t have this qualification yet.
+To address this, we added an additional question to the GCSE flow. If a candidate enters a non-pass grade, we ask them the same question that would be asked if they had said they do not have this qualification yet.

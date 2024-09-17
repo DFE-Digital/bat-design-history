@@ -33,7 +33,7 @@ This might be ok, if the provider will still consider the application. It depend
 
 What is a provider’s expectation when they mark a course as full? Do they expect a trickle of in-progress applications to still come through?
 
-[We’ve seen 1 provider say this](https://lookback.io/watch/kQjSYuhwEcT8iwHoh?t=9m15s), but we don’t know if that’s representative:
+[We’ve seen 1 provider say this](https://lookback.io/watch/kQjSYuhwEcT8iwHoh?t=9m15s), but we do not know if that’s representative:
 > “If you’re just waiting for your references on UCAS, and then [I, the provider] close [the course], that application can still come through”
 
 ### Will these applications be considered?
@@ -60,11 +60,11 @@ If we knew it would be considered we would not need to send this email at all.
 
 If we knew it would not be considered, the messaging can be firmer – you should change to a new course.
 
-As we don’t know, we can suggest they edit their choices but without much conviction.
+As we do not know, we can suggest they edit their choices but without much conviction.
 
 We could also suggest they contact the provider, but time is also an element here – the candidate will have between 1 and 7 days to make their edits.
 
-We also don’t know how important the course is to a candidate – if it's their first choice, they might want to take a risk and submit their application anyway.
+We also do not know how important the course is to a candidate – if it's their first choice, they might want to take a risk and submit their application anyway.
 
 ## Example email
 

@@ -42,7 +42,7 @@ We’ll know this works when users spot the feedback
 
 ### Explicitly marking every task as complete
 
-Some tasks, like personal details, are automatically marked as complete on the basis that the fields have been filled in. Other tasks, like course choice, have to be explicitly marked as complete. This is because candidates can add between 1 and 3—and we don’t know which it’ll be.
+Some tasks, like personal details, are automatically marked as complete on the basis that the fields have been filled in. Other tasks, like course choice, have to be explicitly marked as complete. This is because candidates can add between 1 and 3—and we do not know which it’ll be.
 
 When the new application is copied, all sections should be marked as incomplete. But for tasks like personal details, there would be no way to mark the task as complete again.
 
@@ -57,7 +57,7 @@ Then making a second application will work intuitively and consistently with app
 
 At the moment, tasks have 2 states: incomplete and completed. But this doesn’t accurately reflect the state of a task: some tasks may not have been touched, whereas others could have been partially filled out.
 
-When applying again, a copy of the previous application is created so that candidates don’t have to fill out the questions from scratch. So in this case, candidates are just as likely to make wholesale changes as they are to just mark the task as complete. Having 2 states makes this clearer.
+When applying again, a copy of the previous application is created so that candidates do not have to fill out the questions from scratch. So in this case, candidates are just as likely to make wholesale changes as they are to just mark the task as complete. Having 2 states makes this clearer.
 
 If we add ‘not started’ and ‘in progress’ states, then candidates will be able to see a more accurate reflection of their application and be able to differentiate between tasks that are not started and tasks that just need to be marked as complete.
 

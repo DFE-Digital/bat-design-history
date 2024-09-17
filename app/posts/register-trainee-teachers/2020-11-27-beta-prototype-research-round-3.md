@@ -146,7 +146,7 @@ Read more on what [our users said about ‘failing’](/register-trainee-teacher
 
 Users act responsibly when it comes to updating outcomes on DTTP, but because an extension is not considered a formal “outcome” it is currently either not recorded at all or falls under deferrals.
 
->“It is not the case that an extension would be as a result of a failed assessment, it would be done preemptively. We don’t change anything on the DTTP until the final judgement about their position.”
+>“It is not the case that an extension would be as a result of a failed assessment, it would be done preemptively. We do not change anything on the DTTP until the final judgement about their position.”
 
 Lookback highlights:
 

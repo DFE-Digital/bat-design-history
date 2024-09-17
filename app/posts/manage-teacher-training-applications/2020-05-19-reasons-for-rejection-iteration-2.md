@@ -62,7 +62,7 @@ The previous iteration had all questions on one page which meant that if safegua
 2. Is there any other advice or feedback you’d like to give the candidate
 3. Would you be interested in future applications from the candidate
 
-But we know that if the provider selects safeguarding, then they don’t need to be asked these questions.
+But we know that if the provider selects safeguarding, then they do not need to be asked these questions.
 
 If we put the above questions onto a separate page
 Then we can skip these questions for the provider to speed up their journey

@@ -19,7 +19,7 @@ To be able to show this guidance, we needed to make some changes to how we colle
 
 ### Changes to GCSE flow
 
-The previous design asked candidates to "Add [subject] GCSE grade 4 (C&#8203;) or above, or equivalent”, with an option for "I do not have this qualification yet":
+The previous design asked candidates to "Add [subject] GCSE grade 4 (C&#8203;) or above, or equivalent”, with an option for "I don’t have this qualification yet":
 
 ![Screenshot of previous initial GCSE question design.](previous-design.png "Previous initial GCSE question design")
 

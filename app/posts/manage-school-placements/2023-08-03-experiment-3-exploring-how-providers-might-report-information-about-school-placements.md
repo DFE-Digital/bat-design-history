@@ -32,7 +32,7 @@ In this experiment, we addressed problem statement 1, [problems with reporting d
 
 > DfE needs a data reporting service to help share data between School Centred Initial Teacher Training (SCITTs), Higher Education Institutions (HEIs), and the DfE.
 >
-> We aren’t sharing data, so we don’t have the complete picture of school placement activity and can’t intervene when help is needed.
+> We aren’t sharing data, so we do not have the complete picture of school placement activity and can’t intervene when help is needed.
 >
 > **How might we** create a data reporting service so stakeholders can report complete placement data using standardised and easily accessible platforms?
 

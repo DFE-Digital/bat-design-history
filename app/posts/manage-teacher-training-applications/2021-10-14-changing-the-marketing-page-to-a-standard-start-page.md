@@ -32,7 +32,7 @@ We removed the following sections:
 - what providers say
 - the team
 
-We did this because we don’t think these sections are necessary now that there is no alternative to using the service. We just need to help users realise they’re in the right place and then either sign in or get set up.
+We did this because we do not think these sections are necessary now that there is no alternative to using the service. We just need to help users realise they’re in the right place and then either sign in or get set up.
 
 Since we removed a lot of content, it’s no longer necessary to use a custom layout with a blue top section. So we have changed to a standard page layout.
 

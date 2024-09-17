@@ -32,7 +32,7 @@ We removed the sort controls and ordered the list by priority as follows:
 4. New applications that are waiting on the provider’s response.
 5. Applications that are waiting on the candidate to accept or decline an offer or to meet conditions.
 6. Successful applications where conditions have been met.
-7. All other applications that don’t need action like rejected, conditions not met and declined.
+7. All other applications that do not need action like rejected, conditions not met and declined.
 
 Sub headings were added to make the tasks clear. This way we didn’t need a secondary view to help users know what needs doing. It’s integrated directly within the main flow.
 

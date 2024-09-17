@@ -47,7 +47,7 @@ On the question about if a candidate had free school meals when they were at sch
 
 We ask this question to use the data internally to make sure we have adequate representation in teachers.
 
-![Screenshot showing a question about free school meals. The question asks if the user ever recevied free school meals at school. The answers they can choose include Yes, No, I did not go to school in the UK, I do not know or prefer not to say. There is also content expalining that training providers will never see the answer users give to this question.](free-school-meals-page.png)
+![Screenshot showing a question about free school meals. The question asks if the user ever recevied free school meals at school. The answers they can choose include Yes, No, I did not go to school in the UK, I don’t know or prefer not to say. There is also content expalining that training providers will never see the answer users give to this question.](free-school-meals-page.png)
 
 We launched this change in June 2023. Because it was during the current recruitment cycle, we encountered a few issues with candidates receiving errors on this section of the application form if they were already working on an application.
 

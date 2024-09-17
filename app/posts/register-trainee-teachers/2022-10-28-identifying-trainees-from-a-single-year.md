@@ -30,7 +30,7 @@ We’ve observed that without a filter to help them, providers are likely to exp
 
 ## How DTTP handled this
 
-DTTP (the service that Register replaced) had a data model that was inherently based around academic years – which meant this need was supported by default. Each new academic year, a new collection was made to contain all trainees added that year. Any prior trainees who were still in training or deferred got copied over to this new collection. This meant that by default DTTP only showed the current year’s trainees - ones who had completed training in prior years were in different collections. Register is fundamentally different in that we don’t have this concept of separate collections each year.
+DTTP (the service that Register replaced) had a data model that was inherently based around academic years – which meant this need was supported by default. Each new academic year, a new collection was made to contain all trainees added that year. Any prior trainees who were still in training or deferred got copied over to this new collection. This meant that by default DTTP only showed the current year’s trainees - ones who had completed training in prior years were in different collections. Register is fundamentally different in that we do not have this concept of separate collections each year.
 
 ## Existing year options
 

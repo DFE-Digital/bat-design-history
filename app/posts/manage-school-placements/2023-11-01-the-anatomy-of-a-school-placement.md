@@ -46,11 +46,11 @@ Educational settings have ‘contrast factors.’ Contrast factors describe the 
 - gender
 - special educational needs (SEN) provision
 
-Contrast factors are typically a fixed set of attributes that don’t change frequently, if at all.
+Contrast factors are typically a fixed set of attributes that do not change frequently, if at all.
 
 In Manage school placements (Manage), we derive contrast factors from [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
 
-While most contrast factors don’t change frequently, there are exceptions, for example:
+While most contrast factors do not change frequently, there are exceptions, for example:
 
 - Ofsted rating
 - class size

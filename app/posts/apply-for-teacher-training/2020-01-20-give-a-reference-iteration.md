@@ -67,11 +67,11 @@ We‘ll know this works when referees click the refuse link in the email and con
 
 ### One big text box for the reference
 
-We don’t have any evidence that referees and providers need anything more sophisticated or bespoke than a single text box. So for now, we’re just keeping parity with UCAS—albeit with a smaller box and lower word count.
+We do not have any evidence that referees and providers need anything more sophisticated or bespoke than a single text box. So for now, we’re just keeping parity with UCAS—albeit with a smaller box and lower word count.
 
 We’re wary about asking explicitly if the candidate is safe to work with children. Providers liked this, but we need to be careful how we ask the question. The absence of the flag might be seen as reason alone to reject a candidate when really the referee didn’t know either way.
 
-We also don’t have enough confidence in the 1 to 10 scales, which providers described as ‘subjective’. A single box is the lowest risk.
+We also do not have enough confidence in the 1 to 10 scales, which providers described as ‘subjective’. A single box is the lowest risk.
 
 If we let users enter everything into 1 big text box
 Then we'll be able to see what problems arise with referees and providers
@@ -91,4 +91,4 @@ Providers need referees to clarify that candidates are safe to work with childre
 
 Providers need references to be personalised and tailored to teacher training context to determine a candidate’s suitability to train to teach.
 
-Providers need to validate that references are coming from an official source and so they don’t have to follow up with the candidate or referee.
+Providers need to validate that references are coming from an official source and so they do not have to follow up with the candidate or referee.

@@ -54,7 +54,7 @@ The application remains in that state until an offer is made or the application 
 
 In the previous iteration, when an application was in the ‘Awaiting interview’ state, we prompted users to either make a decison or set up another interview.
 
-But we felt it was confusing to prompt users to set up another interview for providers that don’t set up multiple interviews.
+But we felt it was confusing to prompt users to set up another interview for providers that do not set up multiple interviews.
 
 So we removed that option from the prompt but still let users set up another interview from the interviews page.
 
@@ -84,7 +84,7 @@ So now location always comes before additional details which comes last.
 
 Some users belong to both the training provider and the accredited body.
 
-In this case we don’t know who they’re interviewing on behalf of.
+In this case we do not know who they’re interviewing on behalf of.
 
 So for users who belong to both organisations, we now ask users to specify the organisation.
 
@@ -92,7 +92,7 @@ So for users who belong to both organisations, we now ask users to specify the o
 
 In the previous iteration we didn’t think about whether past interviews would show on the interviews list page.
 
-We decided that it is better to show past interviews rather than having them disappear. This way users don’t have to hunt for them elsewhere.
+We decided that it is better to show past interviews rather than having them disappear. This way users do not have to hunt for them elsewhere.
 
 So we added sub headings to distinguish upcoming interviews from those that have already taken place.
 
@@ -120,4 +120,4 @@ This is something we’ll keep an eye on with this new iteration.
 - The ‘Interview preferences’ icon is using a check mark which is not really what it’s for.
 - Should a cancelled interview disappear from the UI or get marked as cancelled?
 - The interview list page needs to show course details.
-- Use or don’t use an ‘article’ for the button text - be consistent.
+- Use or do not use an ‘article’ for the button text - be consistent.

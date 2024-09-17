@@ -118,9 +118,9 @@ As also identified in [user research round 1](/manage-school-placements/user-res
 
 Since user research round 1 was completed, [date of birth was added to the ‘Add mentor’ journey](/manage-school-placements/adding-date-of-birth-to-the-add-mentor-flow/) to improve information security. Because the mentor date of birth can be found at the same time as the TRN, adding this requirement is not a significant additional burden on top of the effort already required to get the TRN.
 
-> "[Providing TRN and DOB] is frustrating. It’s just another layer of workload that I don’t think a professional tutor or an ITT school should have to be doing. We don’t do it now so why are we doing it here? What we do now is we just add the mentor name and email address and then the university provider contacts them as well as the professional tutor for any training or other communication.”
+> "[Providing TRN and DOB] is frustrating. It’s just another layer of workload that I do not think a professional tutor or an ITT school should have to be doing. We do not do it now so why are we doing it here? What we do now is we just add the mentor name and email address and then the university provider contacts them as well as the professional tutor for any training or other communication.”
 
-> "I don’t think you need the mentors. And it came with a warning at the start that you need your mentor's name and TRN... What are you checking that they're an actual teacher? For me, this is just a matching up exercise. ‘We've got an English placement at this school. Do you want it? Yeah, we do. Right. OK, let's have a conversation.’ The mentor will be this person and we'll confirm in July at best. For me, that’s not adding anything to the service and I wouldn’t be shocked if all of ours just say unknown.”
+> "I do not think you need the mentors. And it came with a warning at the start that you need your mentor's name and TRN... What are you checking that they're an actual teacher? For me, this is just a matching up exercise. ‘We've got an English placement at this school. Do you want it? Yeah, we do. Right. OK, let's have a conversation.’ The mentor will be this person and we'll confirm in July at best. For me, that’s not adding anything to the service and I wouldn’t be shocked if all of ours just say unknown.”
 
 ### Insight 6
 

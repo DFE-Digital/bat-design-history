@@ -76,7 +76,7 @@ This approach means:
 
 - we always show the same claim details page to the user
 - we follow a familiar pattern used in all lists used in Becoming a Teacher (BAT) services
-- users don’t need to know why one claim details page looks different from another
+- users do not need to know why one claim details page looks different from another
 - users can decide what to do next - we do not assume intent (submit claim or view claim)
 The downside of this approach is that we will have partly duplicated functionality, such as the summary lists with change links.
 

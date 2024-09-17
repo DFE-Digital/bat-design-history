@@ -31,21 +31,30 @@ This obviously adds confusion to an already complex process, so we should help c
 
 ## User needs
 
-**As a candidate**
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
 I need to easily understand whether to use Apply or UCAS for my application
-So that I can choose the service that suits me best.
+So that I can choose the service that suits me best"
+}) }}
 
-**As a candidate**
+{{ appUserNeed({
+  description: "As a candidate
 I need to know which apply service(s) my chosen course(s) is available on
-So that I don’t waste time filling out an application that I can’t submit.
+So that I do not waste time filling out an application that I can’t submit"
+}) }}
 
-**As a candidate**
+{{ appUserNeed({
+  description: "As a candidate
 I need to know that I can apply for three courses across both services
-So that I understand my options.
+So that I understand my options"
+}) }}
 
-**As a candidate who’s choices are on Apply**
+{{ appUserNeed({
+  description: "As a candidate who’s choices are on Apply
 I need to know that I should use Apply
-So that I can submit my application more easily
+So that I can submit my application more easily"
+}) }}
 
 ## Hypotheses
 

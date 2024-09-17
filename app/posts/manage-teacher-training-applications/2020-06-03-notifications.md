@@ -27,7 +27,7 @@ Users cannot configure notifications and they do not get notified online within 
 This means users have to check their email in order to know what's going on. And there's a risk that these notifications will be ignored because the more notifications you get, the less useful they are.
 
 If we give users the option to be notified online
-Then users who regularly spend time within the service don’t have to leave the service to check their email
+Then users who regularly spend time within the service do not have to leave the service to check their email
 
 If we let users configure what notifications they get
 Then users will only get the notifications they need in the way that suits them

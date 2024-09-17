@@ -64,7 +64,7 @@ In the previous iteration we asked the user to set up permissions for courses th
 But this is unnecessary because they’ll need to be able to do everything as there’s no one else to do it.
 
 If both permissions are automatically set for courses that are run and ratified by the same organisation
-Then users don’t need to manually do this task themselves
+Then users do not need to manually do this task themselves
 
 ### Check answers layout when setting up organisational permissions
 

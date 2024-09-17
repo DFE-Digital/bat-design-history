@@ -20,22 +20,31 @@ If the recruitment process is more transparent, candidates will be more empowere
 
 ## User needs
 
-As a candidate
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
 I need to know that places can fill up at any time
-So that I can be proactive, for example:
+So that I can be proactive"
+}) }}
+
+For example:
 
 - finishing my application quickly
 - choosing a referee who can respond quickly
 - chasing my referee
 - staying in touch with my provider
 
-As a candidate
+{{ appUserNeed({
+  description: "As a candidate
 I need to know when the application deadline is
-So that I do not miss out
+So that I do not miss out"
+}) }}
 
-As a candidate
+{{ appUserNeed({
+  description: "As a candidate
 I need to know when applications reopen
-So that I can prepare
+So that I can prepare"
+}) }}
 
 ## Design
 

@@ -93,7 +93,7 @@ T: training location
 
 SCITTs offering the EY route too tend to place trainees at a location for several weeks at a time, whereas HEIs might spread placements across several months with just one day a week spent at a placement location. Scheduling trainee placements on the salaried route adds complexity because the employer’s needs and priorities also have to be considered.
 
-> “We don’t do block-placements, we do running placements. [...] The duration can vary: [...] they have to complete 120 days overall, but within that it’s about ensuring they had an adequate experience.”—R6 P9 (HEI)
+> “We do not do block-placements, we do running placements. [...] The duration can vary: [...] they have to complete 120 days overall, but within that it’s about ensuring they had an adequate experience.”—R6 P9 (HEI)
 
 >“Placements are not done in blocks, 2 days this week 5 days over next weeks. Supposed to do 30 days so you could say 6 weeks. [...]
 >The uni can reserve a few uni days to do placements and then they may have 6 other days one day here and there done when they can. We have to fit in with their employers. No tuition fees for the student and the setting for the employer have Fridays off for placements.”—R6 P2 (HEI)

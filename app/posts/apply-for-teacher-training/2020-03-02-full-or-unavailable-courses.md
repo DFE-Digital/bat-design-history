@@ -52,7 +52,7 @@ We need to stop candidates from choosing courses that can’t accept them.
 {{ appUserNeed({
   description: "As a candidate trying to pick a specific course that’s full
 I need to be prevented from choosing it
-So that I don’t try and apply to a course that can’t accept me"
+So that I do not try and apply to a course that can’t accept me"
 }) }}
 
 {{ appUserNeed({
@@ -81,7 +81,7 @@ Either:
 {{ appUserNeed({
   description: "As a candidate that has picked a course that has become full or unavailable
 I need to be prevented from applying to it
-So that I don’t waste a choice on a course that can’t accept me"
+So that I do not waste a choice on a course that can’t accept me"
 }) }}
 
 ### Hypothesis

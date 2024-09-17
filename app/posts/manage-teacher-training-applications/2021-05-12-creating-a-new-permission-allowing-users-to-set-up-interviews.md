@@ -43,7 +43,7 @@ We considered calling the permission ‘set up, change and cancel interviews’.
 
 We decided to use ‘set up interviews’ because:
 
-- we don’t think users will be confused by it
+- we do not think users will be confused by it
 - it’s concise
 
 ## Organisational permissions

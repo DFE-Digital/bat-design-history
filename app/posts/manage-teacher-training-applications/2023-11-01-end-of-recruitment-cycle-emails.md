@@ -49,7 +49,7 @@ We’re working on a change to the services to improve this process in future. W
 
 ### Candidates who have not received all their references
 
-Where possible, references should be received before a candidate starts training.  
+Where possible, references should be received before a candidate starts training.
 
 However, if no safeguarding issues have been raised during the application process, you can allow a candidate to start their training if you’ve not received any references yet.
 
@@ -65,7 +65,7 @@ If you’re confident they will complete it during their training, you can regis
 
 ### Candidates providing evidence of GCSE equivalent qualifications
 
-If a candidate is taking a GCSE equivalency test for English, mathematics or science, they must provide evidence they have done the test before their training starts.  
+If a candidate is taking a GCSE equivalency test for English, mathematics or science, they must provide evidence they have done the test before their training starts.
 
 It’s fine for them to provide the certificate of their results after their training starts. In these cases, you can register these candidates manually in Register.
 
@@ -134,7 +134,7 @@ To give you more time to make decisions, we’re removing the 40 working day dea
 
 All applications will have a status of ‘Received’ in Manage and your student record system until you make a decision, or the candidate withdraws the application.
 
-If candidates don’t get a decision within 30 working days, they can apply to another course. You’ll still be able to make a decision on all applications after 30 working days.
+If candidates do not get a decision within 30 working days, they can apply to another course. You’ll still be able to make a decision on all applications after 30 working days.
 
 ### Candidates will be able to apply to a different course as soon as they receive a rejection or withdraw
 

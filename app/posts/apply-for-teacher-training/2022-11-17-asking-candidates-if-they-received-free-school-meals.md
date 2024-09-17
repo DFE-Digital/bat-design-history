@@ -37,7 +37,7 @@ As well as giving us more understanding of the diversity of our applicants, soci
 
 We researched different ways of assessing social-economic background, and settled on a single question about whether someone received free school meals.
 
-![Screenshot showing a page with the title "Free school meals" followed by the text "Training providers will not see your answer to this question. This question helps the Department for Education understand the background of trainee teachers. Free school meals have generally only been available to children from families that receieve benefits." followed by the question "Did you ever get free school meals in the UK?" and 5 options: Yes, No, "I did not go to school in the UK", "I do not know" and "Prefer not to say".](free-school-meals-question.png "New question asking whether a candidate received free school meals")
+![Screenshot showing a page with the title "Free school meals" followed by the text "Training providers will not see your answer to this question. This question helps the Department for Education understand the background of trainee teachers. Free school meals have generally only been available to children from families that receieve benefits." followed by the question "Did you ever get free school meals in the UK?" and 5 options: Yes, No, "I did not go to school in the UK", "I don’t know" and "Prefer not to say".](free-school-meals-question.png "New question asking whether a candidate received free school meals")
 
 This is a proxy measure of social-economic status, as children have been eligible for free school meals if their families have been in receipt of certain benefits.
 
@@ -45,7 +45,7 @@ The question is only shown to candidates who have British or Irish nationality, 
 
 As a candidate could have British or Irish nationality but still have gone to school outside the UK, we added a "I did not go to school in the UK" answer, and included "in the UK" within the question text.
 
-We added an "I do not know" answer if candidates cannot remember whether they received free school meals or not, or were unaware whether the school meals were free or paid for.
+We added an "I don’t know" answer if candidates cannot remember whether they received free school meals or not, or were unaware whether the school meals were free or paid for.
 
 The question includes the word "ever" as someone’s eligibility for free school meals may well have changed during their school years, and in this case we wanted to be clear that they should still select "Yes".
 
@@ -65,7 +65,7 @@ In the first question, we used the suggested question to ask for the occupation 
 
 In the second question, we used the suggested wording to ask if they were eligible for free school meals at any point during their school years.
 
-![Screenshot showing a page with the title "If you finished school after 1980, were you eligible for free school meals at any point during your school years?" and the options Yes, No, "Not applicable, I finished school before 1980 or went to school overseas", "I do not know" and "Prefer not to say".](eligible-for-free-school-meals.png "A question we tested to ask candidates if they were eligible for free school meals")
+![Screenshot showing a page with the title "If you finished school after 1980, were you eligible for free school meals at any point during your school years?" and the options Yes, No, "Not applicable, I finished school before 1980 or went to school overseas", "I don’t know" and "Prefer not to say".](eligible-for-free-school-meals.png "A question we tested to ask candidates if they were eligible for free school meals")
 
 In the research, we found issues with both questions.
 
@@ -104,7 +104,7 @@ Of those:
 
 - 69% answered "No"
 - 20% answered "Yes"
-- 6% answered "I do not know"
+- 6% answered "I don’t know"
 - 3% answered "Prefer not to say"
 - 3% answered "I did not go to school in the UK"
 
@@ -117,7 +117,7 @@ We plan to review the results after one year of asking the question. We’ll loo
 - whether candidates who received free school meals were more or less likely to be offered a place, or to accept a place
 - how the proportions of candidates who received free school meals compared with the general population
 - if this data helps inform potential policy interventions
-- whether the level of "I do not know" and "Prefer not to say" answers is acceptable
+- whether the level of "I don’t know" and "Prefer not to say" answers is acceptable
 - whether we could avoid asking candidates this question by connecting to existing data held by the Department for Education
 
 We’ll also continue to talk to colleagues in other organisations who ask this question, such as the Social Mobility Commission, the Office for National Statistics and Teach First, to share our learning.

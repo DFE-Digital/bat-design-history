@@ -1,6 +1,6 @@
 ---
 title: Displaying permissions in the user list
-description: Displaying user permissions next to each user in the list so that users don’t have to click through to see them
+description: Displaying user permissions next to each user in the list so that users do not have to click through to see them
 date: 2021-06-15
 screenshots:
   items:

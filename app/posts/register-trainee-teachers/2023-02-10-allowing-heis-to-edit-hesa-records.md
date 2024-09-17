@@ -94,4 +94,4 @@ If a trainee has been deferred or reinstated then we’ll show a warning. It wil
 
 ## Further considerations
 
-We don’t feel there’s a need to have a ‘disable editing’ feature, but could add this in the future if we find there’s a need.
+We do not feel there’s a need to have a ‘disable editing’ feature, but could add this in the future if we find there’s a need.

@@ -293,13 +293,13 @@ The mentor details page has changed significantly between experiments 2 and 4. W
 
 ## What we found
 
-When asking schools about their mentors, providers often get a generic list back and don’t know who the mentors are.
+When asking schools about their mentors, providers often get a generic list back and do not know who the mentors are.
 
 When asking schools about their mentors, schools can take a varying amount of time to respond, which affects planning placements.
 
 Participants said our proposed service could reduce administration time and disparate email contact.
 
-A lead mentor explained that our proposed service could help filter out requests on placements their school can’t fulfil – for example, a subject they don’t have a mentor for.
+A lead mentor explained that our proposed service could help filter out requests on placements their school can’t fulfil – for example, a subject they do not have a mentor for.
 
 *[ECF]: Early Career Framework
 *[ITT]: Initial Teacher Training

@@ -18,7 +18,7 @@ We made edits to the existing content throughout the references user journeys to
 {{ appUserNeed({
   description: "As a candidate
 I need to get 2 references quickly
-So that I don’t miss out on the course that I want"
+So that I do not miss out on the course that I want"
 }) }}
 
 ## Making the process faster

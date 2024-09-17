@@ -43,9 +43,9 @@ We moved the work history section beneath the “Safeguarding” heading on the 
 
 We changed the “How long have you been working?” question to “Do you have any work history?”. We didn’t need to guide candidates towards entering only their last 5 years of work history anymore.
 
-We added an answer to this question – “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option means that they don’t have to explain this in their own words.
+We added an answer to this question – “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option means that they do not have to explain this in their own words.
 
-If someone selected “No, I do not have any work history”, we revealed a textbox asking “Tell us why you’ve been out of the workplace” – previously this was on a separate follow-up page. We also added hint text which gave three examples of reasons for not having any work history. These were very brief, to indicate to candidates that they did not need to be super detailed.
+If someone selected “No, I don’t have any work history”, we revealed a textbox asking “Tell us why you’ve been out of the workplace” – previously this was on a separate follow-up page. We also added hint text which gave three examples of reasons for not having any work history. These were very brief, to indicate to candidates that they did not need to be super detailed.
 
 When someone indicated they did have work history, we took them to an empty table and guidance to add their full work history. They could then add a first job.
 
@@ -58,7 +58,7 @@ Minor changes included:
 - Removing the working pattern question for part time jobs – this didn’t seem to be strongly required, and would be complicated to answer for part time or casual jobs done a long time ago.
 - Removing the hint text suggesting candidates add the name of their own company if self-employed – this didn’t seem to be required.
 - Changing the end date from “End date (leave blank if this is your current role)” to “Are you still working in this job?”. If the candidate answered “No” then a ”When did you leave this job?” question was revealed. This was remove the cognitive burden of the ”leave blank if…” line.
-- Changing the start date from “Start date” to “When did you start this job?”, for consistency with the “When did you leave this job?” question, and to better reflect the fact that we don’t ask for a full date, only month and year.
+- Changing the start date from “Start date” to “When did you start this job?”, for consistency with the “When did you leave this job?” question, and to better reflect the fact that we do not ask for a full date, only month and year.
 
 When a candidate added a job, they were returned to the Work history review page, rather than being asked whether or not they wanted to add another job. This was partly to solve an issue seen in production where candidates go to add another job, but then leave all the fields blank and submit the form, causing validation errors.
 

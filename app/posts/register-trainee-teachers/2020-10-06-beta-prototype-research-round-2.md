@@ -169,7 +169,7 @@ We found that:
 - one participant works with a data management team who use a bulk upload system to input data
 - when it comes to uploading trainee data via HESA, participants create a data return from their own trainee record system, and then upload this data in bulk, making manual adjustments where necessary
 
-> “We don’t always do it as soon as they’ve started their program. We start registering 2 or 3 weeks after the candidate has started, because not all candidates have provided everything needed at the very start.”
+> “We do not always do it as soon as they’ve started their program. We start registering 2 or 3 weeks after the candidate has started, because not all candidates have provided everything needed at the very start.”
 
 > “We know we have until the end of October, as the information on DTTP has to be in by whatever date the DFE says so it can be included in the census. We are informed of the date by the data management team.”
 
@@ -208,7 +208,7 @@ We found that in order to help users manage their trainee records we should add 
 
 > “I prefer them to be alphabetically ordered. If I wanted to award QTS for 20 students I would work from a list - wouldn’t want to have to keep searching.”
 
-> “I don’t understand from this list what the order is. Would prefer an alphabetical thing. I’d obviously want to see my current cohort. I’d like previous years’ records to be archived.”
+> “I do not understand from this list what the order is. Would prefer an alphabetical thing. I’d obviously want to see my current cohort. I’d like previous years’ records to be archived.”
 
 In order to save time, some users would prefer to be “directed to the next section automatically”.
 
@@ -271,7 +271,7 @@ Users easily completed the process of withdrawing a trainee. The most typical re
 
 Some struggled to differentiate between two of the terms:
 
-> “I don’t understand the difference between Academic failure and Did not pass assessment.”
+> “I do not understand the difference between Academic failure and Did not pass assessment.”
 
 ![A series of radio choices for reasons a trainee might withdraw from a course.](04-withdrawal-reasons.png)
 

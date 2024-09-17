@@ -72,7 +72,7 @@ Data requirements for international trainees need to be discussed with data cons
 
 > “I have access to Naric, but I always request the candidate to provide me with a Naric equivalent certificate."
 
-> “I would never have to put an international address in, [...] we don’t accept anyone who is not already employed by a school in the UK.”
+> “I would never have to put an international address in, [...] we do not accept anyone who is not already employed by a school in the UK.”
 
 ### Tracking TRN
 
@@ -98,7 +98,7 @@ Users easily navigated through the trainee records screen and were able to compl
 
 > “This is very clear, very different to what we currently see. The system will update automatically which means you always know exactly what stage the applicant is at.”
 
-> “As someone who works in spreadsheets, this looks a bit confusing. I don’t like the view. I would like to have the first page I come to to be adding a trainee. Too much information in the visualisation.”
+> “As someone who works in spreadsheets, this looks a bit confusing. I do not like the view. I would like to have the first page I come to to be adding a trainee. Too much information in the visualisation.”
 
 Some users had issues finding the export button, struggled to deselect filters, and would prefer to sort the trainees alphabetically as well as filter by subject.
 

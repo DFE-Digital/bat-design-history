@@ -91,7 +91,7 @@ We’ll know this works when the proportion of international candidates who subm
     caption: "Candidates who are not British or Irish are asked to give details about their residency status, if they know it. They can give details of their residency, or indicate that this is something they will need to consider later."
   }, {
     text: "Do you have the right to work or study in the UK? (Not yet)",
-    caption: "They can also indicate that this is something they will need to consider later by selecting ‘Not yet’ or ‘I do not know’."
+    caption: "They can also indicate that this is something they will need to consider later by selecting ‘Not yet’ or ‘I don’t know’."
   }, {
     text: "Reviewing personal details"
   }]
@@ -152,7 +152,7 @@ We’ll know this works when providers get the information they need to decide w
     caption: "If the nationality is not British or Irish, we show an ‘English as a foreign language section under the qualifications title on the application."
   }, {
     text: "English as a foreign language",
-    caption: "We ask candidates if they have an English as a foreign language qualification. If yes, we ask them for details in the next step. If no, they can provide further details about working towards getting one. Candidates can also respond by saying that they don’t consider English to be a foreign language to them."
+    caption: "We ask candidates if they have an English as a foreign language qualification. If yes, we ask them for details in the next step. If no, they can provide further details about working towards getting one. Candidates can also respond by saying that they do not consider English to be a foreign language to them."
   }, {
     text: "What English language qualification do you have?",
     caption: "The 2 most common qualifications are shown, as well as an option for other."

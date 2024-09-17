@@ -23,7 +23,7 @@ We considered hiding the diversity report until:
 
 ## Deciding when to show the report
 
-We don’t have a complete view of how quickly applications came in during the 2020 to 2021 recruitment cycle. This is because applications were split between Manage and the UCAS service.
+We do not have a complete view of how quickly applications came in during the 2020 to 2021 recruitment cycle. This is because applications were split between Manage and the UCAS service.
 
 We decided to look at data from the current recruitment cycle, to see the effect of showing the report only after a provider has received applications from 10 candidates.
 

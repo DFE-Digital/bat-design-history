@@ -75,7 +75,7 @@ Previously we represented user permissions in summary lists with:
 
 We moved the permissions to the left column of summary lists. This lets us give a clear ‘yes’ or ‘no’ for each on the right side, rather than omitting permissions which the user or organisation does not have.
 
-It also means we don’t need to use bold for the permission name, which was inconsistent since normally bold is used only to replay questions in the left column.
+It also means we do not need to use bold for the permission name, which was inconsistent since normally bold is used only to replay questions in the left column.
 
 ### Setting up user permissions
 

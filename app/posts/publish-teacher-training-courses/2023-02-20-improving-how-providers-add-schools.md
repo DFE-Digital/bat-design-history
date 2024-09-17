@@ -45,7 +45,7 @@ Some providers find it difficult to enter large numbers of schools in Publish te
 
 This means it is harder for a candidate to find a provider’s course on Find postgraduate teacher training (Find) when searching by location (the most popular search type).
 
-Candidates also don’t know where their school placements will likely be as the provider hasn’t listed any schools.
+Candidates also do not know where their school placements will likely be as the provider hasn’t listed any schools.
 
 To make it easier for providers to add schools in Publish, we added a way for providers to find and add them using [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.
 

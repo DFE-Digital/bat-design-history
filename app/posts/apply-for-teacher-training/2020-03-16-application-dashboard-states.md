@@ -7,7 +7,7 @@ tags:
 screenshots:
   items:
     - text: Awaiting references
-      caption: The candidate submits their application choices with a list of referees. Until 2 references have been received all applications remain in the Awaiting references state. The providers don’t see the application at this stage
+      caption: The candidate submits their application choices with a list of referees. Until 2 references have been received all applications remain in the Awaiting references state. The providers do not see the application at this stage
       src: 01-awaiting-references.png
     - text: Waiting to be sent
       caption: The references have come back and have been added to the application. Candidates are allowed a cooling-off period of 5 days to modify their application before it’s sent to providers. They can’t modify the references.

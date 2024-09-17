@@ -102,7 +102,7 @@ Answer options:
 
 - The report’s order, layout and content were mostly reported to be logical, useful and easy to understand.
 
-- Providers would find it useful if they could share the report with other stakeholders who don’t have access to Manage.
+- Providers would find it useful if they could share the report with other stakeholders who do not have access to Manage.
 
 - The report’s data may present a misleading picture of the providers' recruitment performance due to the absence of context. For example, there may be good reasons for them not to have made an offer within 30 days, but this is not reflected in the report.
 

@@ -42,7 +42,7 @@ If we add hint text to the DBS condition checkbox then users won’t put this in
 
 At the moment, users get 4 static text fields to add further conditions.
 
-This makes the UI more complex for users who don’t need to add further conditions or those that want to add less than 4.
+This makes the UI more complex for users who do not need to add further conditions or those that want to add less than 4.
 
 For example, we mark the group of fields as optional, but they’re not optional if you have conditions.
 

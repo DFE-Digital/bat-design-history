@@ -18,7 +18,7 @@ related:
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/351
 ---
 
-We don’t do a good job of informing candidates that they can apply for up to 3 courses on one application, and what will happen after making an application with fewer than 3 courses is not clear.
+We do not do a good job of informing candidates that they can apply for up to 3 courses on one application, and what will happen after making an application with fewer than 3 courses is not clear.
 
 Part of this was intended – when Apply was launched most users couldn’t apply to 3 choices on the service – for a while there weren’t 3 courses. Now there are more providers and courses, and in certain regions we have good coverage, this can be encouraged.
 

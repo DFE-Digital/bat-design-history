@@ -64,7 +64,7 @@ This iteration was focused on helping providers better assess candidates with mo
 
 - For international GCSE equivalent qualifications, we asked candidates to provide additional information about the country of award, awarding body and if they have a NARIC statement of comparability.
 
-- eligibility criteria if they don’t have the required GCSE(s).
+- eligibility criteria if they do not have the required GCSE(s).
 Asked candidates to provide the dates which they took their literacy and numeracy professional skills tests.
 
 - Asked candidates about transferable skills gained during employment, rather than provide a drawn out job description.

@@ -29,11 +29,11 @@ screenshots:
       - SVQ
       - VRQ
   - text: Add GCSE qualification
-    caption: Candidates can enter free text for a subject, but GCSE subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (9-9 to 1-1, A\*A\- to GG, 9 to 1, A to G, and U).
+    caption: Candidates can enter free text for a subject, but GCSE subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, do not display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (9-9 to 1-1, A\*A\- to GG, 9 to 1, A to G, and U).
   - text: Add AS level qualification
-    caption: Candidates can enter free text for a subject, but AS level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (AA to DE, A to E, and U).
+    caption: Candidates can enter free text for a subject, but AS level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, do not display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (AA to DE, A to E, and U).
   - text: Add A level qualification
-    caption: Candidates can enter free text for a subject, but A level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (A\*A\- to DE, A- to E, and U).
+    caption: Candidates can enter free text for a subject, but A level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, do not display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (A\*A\- to DE, A- to E, and U).
   - text: Add BTEC, NVQ or VRQ qualification
     caption: "When entering grades, an autocomplete gives a list of grade options: Distinction, Merit, Pass, Unclassified and Not applicable."
 related:

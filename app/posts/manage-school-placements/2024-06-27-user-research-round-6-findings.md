@@ -57,7 +57,7 @@ Both participants had low awareness of the service and the benefits of using it 
 
 Both participants had not heard about the service until the point that they were contacted with the invite to use it. The invite email focussed on how to access the service but one participant commented that more could have been included on what the service is and the benefit it offers to schools.
 
-> “I don’t really know what the purpose of [the service] is or how it's going to work... There were two different emails. One says ‘invitation to join the Manage school placements service’ and the other one just says ‘start using it’… In the ‘start using it’ one, when it says ‘start adding your placements’ and ‘assigning providers’, to me, that's something I read and thought that's for a provider not for me as a school… So all of this [context] has now come out [through the discussion as part of the research session] but actually having some sort of document that explains this might be useful just to provide a bit of background.”
+> “I do not really know what the purpose of [the service] is or how it's going to work... There were two different emails. One says ‘invitation to join the Manage school placements service’ and the other one just says ‘start using it’… In the ‘start using it’ one, when it says ‘start adding your placements’ and ‘assigning providers’, to me, that's something I read and thought that's for a provider not for me as a school… So all of this [context] has now come out [through the discussion as part of the research session] but actually having some sort of document that explains this might be useful just to provide a bit of background.”
 
 ### Insight 2
 
@@ -111,7 +111,7 @@ Both participants were positive about the onboarding prototype design and found 
 
 Structuring the onboarding steps into a task list was felt to provide a clear approach but neither participant had issues completing the same steps without that additional structure so, compared to other changes required within the service, it was not considered to be a priority.
 
-> “I think the way that it was already set up worked. It's not a complex system, particularly, is it? So I don’t think, unless [the DfE] want things to be completed in a certain order, then I don’t think there's a need to change to this [new design]. This [task list] certainly makes you complete things in a certain order because it's a list and humans will work down a list.”
+> “I think the way that it was already set up worked. It's not a complex system, particularly, is it? So I do not think, unless [the DfE] want things to be completed in a certain order, then I do not think there's a need to change to this [new design]. This [task list] certainly makes you complete things in a certain order because it's a list and humans will work down a list.”
 
 ### Insight 7
 

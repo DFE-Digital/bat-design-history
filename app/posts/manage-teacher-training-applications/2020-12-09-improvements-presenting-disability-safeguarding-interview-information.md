@@ -49,21 +49,21 @@ The content will match the the radio button which the candidate chose when they 
 
 If it’s a ‘yes’ response, we’ll also give the candidate’s free text input as usual.
 
-This means we don’t have to interpret or explain what the generic answer means because we just play it back verbatim.
+This means we do not have to interpret or explain what the generic answer means because we just play it back verbatim.
 
 For example: ‘Do you want to ask for help to become a teacher? – No’ is clearer than ‘Do you want to ask for help to become a teacher? – No information shared.’
 
 ## Not showing anything if the candidate was not asked
 
-We don’t think it's a good idea to indicate questions which were not asked.
+We do not think it's a good idea to indicate questions which were not asked.
 
 When replaying questions and answers in a service, it’s normal only to include those which were actually asked.
 
 Since the application details are a record of what was asked and the candidate’s response, omitting the question entirely implies that it was not asked.
 
-As we are now going to lay out the candidate’s answers verbatim, it will be even more obvious that the absence of the field means the question wasn’t asked. We don’t think there’s any need to explain this with words.
+As we are now going to lay out the candidate’s answers verbatim, it will be even more obvious that the absence of the field means the question wasn’t asked. We do not think there’s any need to explain this with words.
 
-In addition, the service will likely add and remove questions. We don’t think it will be useful to keep adding the new ones into older applications, or marking a question as removed into new applications because it will add to the length and complexity of the page.
+In addition, the service will likely add and remove questions. We do not think it will be useful to keep adding the new ones into older applications, or marking a question as removed into new applications because it will add to the length and complexity of the page.
 
 ## Removing the guidance
 
@@ -83,7 +83,7 @@ Note that there’s currently no facility to store old versions of the guidance,
 
 The safeguarding information is hidden to prevent an ‘over the shoulder’ privacy breach.
 
-But there’s a lot of other sensitive personal information within the application which is not hidden in this way. And we don’t think there is much chance of a user using this service in a public place.
+But there’s a lot of other sensitive personal information within the application which is not hidden in this way. And we do not think there is much chance of a user using this service in a public place.
 
 That's why we have removed the ability to toggle the display of the safeguarding information. This will mean that users can see all relevant information at a glance.
 
@@ -93,7 +93,7 @@ We have new wording for users who cannot see safeguarding information:
 
 > Unavailable: you and your organisation both need permission to view these safeguarding issues.
 
-There’s currently a range of different messages, but we don’t feel that’s necessary now that we have far clearer onboarding and organisational permissions are more likely to be set up.
+There’s currently a range of different messages, but we do not feel that’s necessary now that we have far clearer onboarding and organisational permissions are more likely to be set up.
 
 We think we should instead just provide enough information for users to move to the next step, rather than trying to squeeze in a lot of information.
 

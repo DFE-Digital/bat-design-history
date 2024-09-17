@@ -39,7 +39,7 @@ related:
 
 If a candidate is not offered an interview by any of their initial 3 choices (or chooses not to accept an offer or withdraws their application), they can move to a secondary application phase. UCAS calls this ‘Apply 2’.
 
-72% of candidates without an initial offer don’t go on to apply again.
+72% of candidates without an initial offer do not go on to apply again.
 
 When applying again, a candidate can make an unlimited number of applications, one after another, but only one course choice is allowed. If the candidate is again unsuccessful (or chooses not to accept an offer or withdraws) they can keep applying until they do accept an offer, or until the application cycle for the academic year closes. They must wait up to 40 days before they know if their latest application was successful.
 
