@@ -84,7 +84,7 @@ If a candidate hasn’t chosen a course yet, we direct them to use Find. However
 
 ### Redirecting candidates to UCAS
 
-If a candidate selects a course that isn’t available on Apply, we tell them that the service isn’t ready for them yet.
+If a candidate selects a course that is not available on Apply, we tell them that the service is not ready for them yet.
 
 - If we direct candidates to a page that tells them they need to apply for this course on UCAS (and show the provider and course codes they will need)
   Then candidates won’t feel like they’ve reached a dead end.

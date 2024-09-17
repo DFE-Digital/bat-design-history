@@ -38,7 +38,7 @@ We explored adding additional rows to the applicant details summary list, but wi
 
 Once you add multiple rows it gets somewhat repetitive. We tried making them grey to knock them back a bit - and because they’re more of a message from the system than a candidate’s answer.
 
-For users without the correct permissions the text isn’t quite right - so they need more explanation.
+For users without the correct permissions the text is not quite right - so they need more explanation.
 
 ![3 lines in a summary list, with grey text that reads ‘Only available to users with ‘view diversity information’ permission once an offer has been accepted’](multiple-lines-long-grey.png)
 

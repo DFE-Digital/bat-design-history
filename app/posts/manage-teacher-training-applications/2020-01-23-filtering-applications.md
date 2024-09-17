@@ -55,7 +55,7 @@ The width of the page is wider to accomodate the filter.
 
 1 participant so far. We found:
 
-- filters worked really well (didn't test on mobile)
+- filters worked really well (didn’t test on mobile)
 - filters for state and provider are useful
 - we need interview states like ‘rejected before interview’
 - suggests ‘Offer withdrawn’ instead ‘Withdrawn by us’

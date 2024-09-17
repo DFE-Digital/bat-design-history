@@ -27,7 +27,7 @@ This allows us to highlight types of applications which we think should be prior
 This priority order is problematic because:
 
 - users often want to process applications in other ways such as by most or least recently updated
-- the grouping makes it harder to process applications in other ways - for example, it isn't easy to view all received applications at a particular location because received applications appear in 2 different priority groups
+- the grouping makes it harder to process applications in other ways - for example, it is not easy to view all received applications at a particular location because received applications appear in 2 different priority groups
 
 ## User need
 

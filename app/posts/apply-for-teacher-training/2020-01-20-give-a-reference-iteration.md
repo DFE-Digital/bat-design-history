@@ -61,7 +61,7 @@ Then it’ll speed up the process for referees
 
 Some referees may not want to, or be able to give a reference. This slows down the candidate's application process.
 
-If we let users tell us that they won't give a reference
+If we let users tell us that they will not give a reference
 Then we'll be able to notify the candidate and get another referee quickly
 We‘ll know this works when referees click the refuse link in the email and confirm their refusal
 

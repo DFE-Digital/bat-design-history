@@ -61,6 +61,6 @@ If the user tries to add a school a second time, we show an error message:
 
 > School has already been added
 
-If the school the user is looking for isn’t listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+If the school the user is looking for is not listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
 
 *[GIAS]: Get Information about Schools

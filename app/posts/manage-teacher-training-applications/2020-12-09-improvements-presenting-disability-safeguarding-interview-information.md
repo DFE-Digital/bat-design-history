@@ -55,7 +55,7 @@ For example: ‘Do you want to ask for help to become a teacher? – No’ is cl
 
 ## Not showing anything if the candidate was not asked
 
-We don't think it's a good idea to indicate questions which were not asked.
+We don’t think it's a good idea to indicate questions which were not asked.
 
 When replaying questions and answers in a service, it’s normal only to include those which were actually asked.
 
@@ -71,7 +71,7 @@ We currently replay the guidance given to candidates. If they refer to it, provi
 
 - telling the candidate about things which are outside of the application process (eg that they can apply for a grant)
 - explanations and examples of what the candidate could put in the field – but all a provider needs to know is what the candidate actually put into the field
-- things which the provider should already know, and it isn't the role of this service to tell them - for example, that they have legal responsibilities
+- things which the provider should already know, and it is not the role of this service to tell them - for example, that they have legal responsibilities
 
 We have removed the guidance from the application details page. If there really is a user need for providers to occasionally refer to what the wording was, we could consider adding it to the service guidance.
 

@@ -10,15 +10,15 @@ For trainees on undergraduate courses we ask for the trainee’s highest academi
 
 The question was causing users confusion. It seems to be because it’s inconsistent with how users think about academic qualifications. A teacher training provider thinks about a trainee’s qualifications as the measure of whether a trainee is qualified for their course. This is often measured in ‘UCAS tariff points’ and often several types of qualification in combination make up the right amount for eligibility. In research sessions users tried to give the trainee’s actual qualifications. When users found they could only provide a single qualification most users re-read the question but did not have the correct answer to hand. Instead they would try using the UCAS tariff points calculator to determine the highest qualification.
 
-> “I assume the DFE wants to know the range of all the qualifications trainees have to have in order to be eligible for training on our course [...] and usually that would be a combination of qualifications. But this – this is a bewildering list of too many things and you can't do them in combination!”
+> “I assume the DFE wants to know the range of all the qualifications trainees have to have in order to be eligible for training on our course [...] and usually that would be a combination of qualifications. But this – this is a bewildering list of too many things and you can’t do them in combination!”
 
-> “Oh it’s only asking for the highest, I didn't read the question. I'd look at the grade values and weighting [...] I'd look at tariffs and see what was highest. I'd Google the UCAS calculator, it looks at what everything is worth.”
+> “Oh it’s only asking for the highest, I didn’t read the question. I'd look at the grade values and weighting [...] I'd look at tariffs and see what was highest. I'd Google the UCAS calculator, it looks at what everything is worth.”
 
 ![Screenshot of ‘What is the trainee’s highest academic qualification?’ question and answers](highest-academic-qualification-v1.png "Highest academic qualification — first iteration.")
 
 The options we gave as answers confused the users too. It’s a long list that includes qualifications that were too low level to be relevant.
 
-> “This is asking for ‘the highest’ but a lot of these are at the same level. This list for an undergrad doesn’t make sense because you have to have a level 3 qual to go onto a UG course. Here I wouldn't know what you'd want from me. We wouldn't register someone with just level 2 or level 3 because that's not high enough for training with us.”
+> “This is asking for ‘the highest’ but a lot of these are at the same level. This list for an undergrad doesn’t make sense because you have to have a level 3 qual to go onto a UG course. Here I wouldn’t know what you'd want from me. We wouldn’t register someone with just level 2 or level 3 because that's not high enough for training with us.”
 
 ## DTTP data
 

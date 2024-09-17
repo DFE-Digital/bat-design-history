@@ -40,7 +40,7 @@ Then users will be able to distinguish their profile from the account area
 
 Previously the section to manage organisational permissions was labelled ‘Organisations’.
 
-This is ambiguous because the user isn’t able to manage organisations.
+This is ambiguous because the user is not able to manage organisations.
 
 If we name the section ‘Organisational permissions’
 Then it will help users understand the intent of the section more quickly

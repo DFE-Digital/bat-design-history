@@ -22,11 +22,11 @@ Providers have asked for help:
 - identifying ‘this year’s’ trainees
 - identifying ‘last year’s’ trainees
 
-Their common task is to find ‘this year’s’ trainees so they can export them and check their data. ‘This year’ would include all trainees added this year, as well as any trainees from prior years still in training or who withdrew or were awarded this year. This isn’t currently possible to filter to in Register.
+Their common task is to find ‘this year’s’ trainees so they can export them and check their data. ‘This year’ would include all trainees added this year, as well as any trainees from prior years still in training or who withdrew or were awarded this year. This is not currently possible to filter to in Register.
 
 The data they will have sent to HESA in a collection will be similar to this group - it’s all trainees who have been in training in a given collection’s year.
 
-We’ve observed that without a filter to help them, providers are likely to export all their trainees to find the ones they want – this isn’t ideal as they may get far more data than necessary. Even once exported, it’s tricky to narrow down to those that were in training in a given year. A provider would need to exclude all trainees with a start year after the year they were interested in, and exclude all trainees with an end year before the year they’re interested in.
+We’ve observed that without a filter to help them, providers are likely to export all their trainees to find the ones they want – this is not ideal as they may get far more data than necessary. Even once exported, it’s tricky to narrow down to those that were in training in a given year. A provider would need to exclude all trainees with a start year after the year they were interested in, and exclude all trainees with an end year before the year they’re interested in.
 
 ## How DTTP handled this
 

@@ -236,7 +236,7 @@ In the public beta, more providers can be selected. We may approach this selecti
 - show an autocomplete search from which users can find and select the appropriate accredited provider
 - set-up provider and school relationships during or after onboarding so users only need to select from accredited providers they work with
 
-We don't need to ask if we know the school only works with one accredited provider.
+We don’t need to ask if we know the school only works with one accredited provider.
 
 ### Editing and removing a claim
 

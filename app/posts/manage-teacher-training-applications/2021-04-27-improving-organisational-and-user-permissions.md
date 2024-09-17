@@ -14,7 +14,7 @@ The content is now clearer and more concise. There’s no need to say that the u
 
 If the user can manage organisations and there are organisational permissions to be set up, the page will tell them that the organisational permissions are next.
 
-We removed a sentence saying that “we’ll guide you through” setting up organisational permissions as it isn’t necessary.
+We removed a sentence saying that “we’ll guide you through” setting up organisational permissions as it is not necessary.
 
 ![Screenshot of ‘Data sharing agreement signed’ confirmation page.](dsa--set-up-permissions.png)
 

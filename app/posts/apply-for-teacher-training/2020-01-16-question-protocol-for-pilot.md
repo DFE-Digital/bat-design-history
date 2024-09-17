@@ -336,7 +336,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
-      what: "may want to demonstrate language skills, especially if looking to teach a modern language subject or teach in school with children whose main language isn’t English"
+      what: "may want to demonstrate language skills, especially if looking to teach a modern language subject or teach in school with children whose main language is not English"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Assessed at interview"],
@@ -763,7 +763,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Reference may collaborate some of this information"],
-    notes: ["We’ve allowed people to include volunteering roles that don't involve kids – this needs to be clearer."]
+    notes: ["We’ve allowed people to include volunteering roles that don’t involve kids – this needs to be clearer."]
   }
 }) }}
 
@@ -1563,7 +1563,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
-    notes: ["Some providers have indicated that they don’t want arranging interviews complicated by candidate's needs/lives. That said, if there are dates the candidate absolutely can't make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
+    notes: ["Some providers have indicated that they don’t want arranging interviews complicated by candidate's needs/lives. That said, if there are dates the candidate absolutely can’t make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
   }
 }) }}
 
@@ -1646,7 +1646,7 @@ Candidates can update their answers before submitting, but not after. If a refer
       what: "uses this to validate that reference is from a suitable source"
     }],
     what: ["Appears in support interface. If the referee provides a reference, appears in the provider-facing interface and retrievable via API"],
-    accuracy: ["A referee might be able corroborate (though we don't currently show this information to referees)"]
+    accuracy: ["A referee might be able corroborate (though we don’t currently show this information to referees)"]
   }
 }) }}
 
@@ -1687,7 +1687,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
     notes: [
-      "Some HEIs really wanted to see that candidates had clearly stated they didn't have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement.",
+      "Some HEIs really wanted to see that candidates had clearly stated they didn’t have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement.",
       "[Trello card - DBS guidance and criminal records checks](https://trello.com/c/InaE3OPE/101)"
     ]
   }

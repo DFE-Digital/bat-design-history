@@ -23,7 +23,7 @@ But:
 - horizontal scrolling is hard to use and means some of the data is not in view
 - we need to add further details into the cells like notes and accredited body
 - increasing the page width means some users may need to move their head in order to read the content on screen
-- tables don't work well on smaller viewports like those on mobile
+- tables don’t work well on smaller viewports like those on mobile
 
 If we use a card layout
 Then users will be able to see all of the information easily without scrolling horizontally

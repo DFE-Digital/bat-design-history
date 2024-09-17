@@ -24,4 +24,4 @@ We added all the relevant details for events relating to:
 - reconfirming an offer
 - adding a note
 
-We also made the activity log and timeline content as consistent as possible. The only difference is that on the activity log the candidate’s name is part of the event title, which isn’t necessary on the timeline.
+We also made the activity log and timeline content as consistent as possible. The only difference is that on the activity log the candidate’s name is part of the event title, which is not necessary on the timeline.

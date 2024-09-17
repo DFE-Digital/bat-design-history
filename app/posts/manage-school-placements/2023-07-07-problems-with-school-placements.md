@@ -25,7 +25,7 @@ The data is often incomplete because:
 
 - HESA collects data periodically, not continually.
 - ITT providers don’t update data in the next submission window if it has changed.
-- data collection isn’t mandatory
+- data collection is not mandatory
 
 1.3. Most school placement data is siloed within ITT providers and is not visible to DfE.
 

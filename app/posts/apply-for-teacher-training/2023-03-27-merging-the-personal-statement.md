@@ -53,7 +53,7 @@ We kept in the link to the teacher training advisers sign-up page, as candidates
 
 ### Releasing this change mid-cycle
 
-Because we released this change in the middle of a recruitment cycle, we didn't want it to disrupt any candidates who were midway through writing a personal statement using the previous 2 sections.
+Because we released this change in the middle of a recruitment cycle, we didn’t want it to disrupt any candidates who were midway through writing a personal statement using the previous 2 sections.
 To avoid this, we only released the feature for new applications started on or after 3 April 2023.
 If a candidate is unsuccessful with an application that used 2 personal statement sections and decided to apply again, they will see the new merged personal statement section. When this happens, we:
 

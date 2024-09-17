@@ -53,8 +53,8 @@ From the first iteration we:
 
 We made these changes because:
 
-- entering the subject 'class size' isn’t helpful as this would vary between classes and schools
-- selecting ‘training pattern’ isn’t something schools do; it is derived from the ITT provider
+- entering the subject 'class size' is not helpful as this would vary between classes and schools
+- selecting ‘training pattern’ is not something schools do; it is derived from the ITT provider
 - ITT providers need mentors to create placements
 - ITT providers store information on known mentors within their network
 - ITT providers need to recruit new mentors each year to fulfil their training needs

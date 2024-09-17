@@ -8,9 +8,9 @@ date: 2020-06-05
 
 Currently, no users can see safeguarding information on an application. But as we're introducing the permission to see safeguarding information we want to let those users know there's information to see.
 
-But we don't want to risk colleagues seeing the information accidentally with an ‘over the shoulder’ attack.
+But we don’t want to risk colleagues seeing the information accidentally with an ‘over the shoulder’ attack.
 
-We also want to make sure users without the safeguarding permission know why they can't see it so they can request permission or follow up with the person with safeguarding information as necessary.
+We also want to make sure users without the safeguarding permission know why they can’t see it so they can request permission or follow up with the person with safeguarding information as necessary.
 
 If the safeguarding section is disclosed within a collapsible panel
 Then users with safeguarding permissions can reveal the information safely

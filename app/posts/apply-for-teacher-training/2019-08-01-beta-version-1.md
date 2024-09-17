@@ -50,7 +50,7 @@ We made the following changes to the information we ask candidates to deliver a 
 
 ### ‘Title’ (removed)
 
-This was felt unnecessary, and may possibly reveal gender information which isn’t required at this stage of the application
+This was felt unnecessary, and may possibly reveal gender information which is not required at this stage of the application
 ‘First name(s)’ and ‘Last name’ (combined)
 
 Previous prototypes had separated first name and last name into 2 fields. We checked the GOV.UK design pattern and found it recommends a single field, because [not everyone’s name fits into the ‘first name last name’ pattern](https://design-system.service.gov.uk/patterns/names/). Having confirmed with DfE’s statisticians that a single field for names would give them the information they needed to map users coming from Get Into Teaching, we were able to make the change.

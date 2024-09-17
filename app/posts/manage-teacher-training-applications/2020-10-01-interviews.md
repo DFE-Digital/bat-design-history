@@ -13,7 +13,7 @@ During this time the applications actually go through the following process:
 1. The application is sifted and reviewed. At this point the candidate is either rejected or invited for interview.
 2. The candidate is interviewed. At this point the candidate is rejected or offered a place.
 
-But because the service doesn't let providers manage interviews, the status stays as ‘Submitted’ throughout meaning users cannot distinguish between these types of applications.
+But because the service doesn’t let providers manage interviews, the status stays as ‘Submitted’ throughout meaning users cannot distinguish between these types of applications.
 
 If we let users set up and manage interviews, then it’ll be easier to manage the application process inside the service.
 
@@ -37,7 +37,7 @@ This is because interviews often take place with both the training provider and 
 
 When the last interview has taken place, at midnight the status flips automatically to ‘Interviewed’ and the prompt is: to make a decision or set up another interview.
 
-There’s still an option to set up another interview because there’s no guarantee that just because one interview took place, that another isn’t needed at this point in time.
+There’s still an option to set up another interview because there’s no guarantee that just because one interview took place, that another is not needed at this point in time.
 
 ![Screenshot of application with ‘Make decision’ and ‘Set up another interview‘ prompts.](prompt--interviewed.png)
 

@@ -42,7 +42,7 @@ In the next round of research we hoped to validate our current understanding aro
 - a common workflow for our users is to withdraw some trainees in the same process of recording a ‘standards not met’ outcome
 - when a trainee is recorded as not meeting the standards for QTS, some will stay on the programme to try again
 - we need to display dates from previous QTS outcomes against a trainee record
-- our users understand the options we have provided for reasons why a trainee isn’t being recommended for QTS and the options cover all potential scenarios
+- our users understand the options we have provided for reasons why a trainee is not being recommended for QTS and the options cover all potential scenarios
 
 ## There are multiple outcomes to consider
 

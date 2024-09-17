@@ -10,7 +10,7 @@ screenshots:
     - Have you chosen a course to apply to?
     - Which training provider?
     - Which course?
-    - Find a course (when course isn’t known)
+    - Find a course (when course is not known)
 ---
 
 Candidates using Apply need to choose a course to apply to.

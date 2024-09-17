@@ -20,7 +20,7 @@ screenshots:
 
 ## Hypothesis
 
-Providers track and update the status of conditions using spreadsheets because we don't allow for this in the UI. But spreadsheets are laborious and onerous.
+Providers track and update the status of conditions using spreadsheets because we don’t allow for this in the UI. But spreadsheets are laborious and onerous.
 
 If we let providers update the status of conditions individually
 Then they'll be able to process applications more quickly and accurately
@@ -43,7 +43,7 @@ We explored the following design:
 But we ruled it out because:
 
 - the options are inconsistent with the language we use everywhere else (‘Pending’, ‘Met’ and ‘Not met’)
-- the heading doesn't match the link that the user clicks to get here (‘Update status’)
+- the heading doesn’t match the link that the user clicks to get here (‘Update status’)
 - the heading can be very long and hard to read because of the length of the condition text
 
 ## Further research

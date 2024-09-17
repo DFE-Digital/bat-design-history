@@ -249,7 +249,7 @@ Contact <becomingateacher@digital.education.gov.uk> if you have problems applyin
 
 They've given the following reason for cancelling the interview:
 
-> You contacted us to say you didn't want to apply for this course any more.
+> You contacted us to say you didn’t want to apply for this course any more.
 
 Contact ((provider)) if you have any questions.
 

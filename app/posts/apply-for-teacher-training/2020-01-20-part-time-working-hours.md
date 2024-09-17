@@ -38,7 +38,7 @@ So that I can make a decision about their suitability to be a teacher"
 
 UCAS asks for working hours for all jobs. We're not sure if this is necessary, because:
 
-- the difference between 20 and 22 hours, for example, isn't significant
+- the difference between 20 and 22 hours, for example, is not significant
 - a full time job shows a level of commitment, whether it was 37 hours or 40 hours
 
 ### Our hypotheses
@@ -46,7 +46,7 @@ UCAS asks for working hours for all jobs. We're not sure if this is necessary, b
 **If** we ask for the working pattern (rather than the number of hours):
 
 - **Then** it will be easier for candidates to fill out the application form
-**Because** they won't have to find out the number of hours they worked in each job
+**Because** they will not have to find out the number of hours they worked in each job
 
 - **Then** providers will still have the information they need to make decisions on a candidate's application
 **Because** the working pattern will give a detailed picture of a candidate's work history

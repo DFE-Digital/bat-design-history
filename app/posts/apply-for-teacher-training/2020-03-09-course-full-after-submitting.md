@@ -54,7 +54,7 @@ When a provider is closing their course, if we added a feature that asked: “Do
 
 We could notify the candidate of the situation, and give them the opportunity to edit their application.
 
-We won't know how a provider will respond to their pending application.
+We won’t know how a provider will respond to their pending application.
 
 If we knew it would be considered we would not need to send this email at all.
 

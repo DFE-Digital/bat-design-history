@@ -79,7 +79,7 @@ On the Publish teacher training courses service, there have been issues with hav
 
 #### Supporting detail and evidence
 
-One of the participants mentioned that, in some instances, accredited providers have contacted support saying that they don't work with an organisation that has said they're a lead partner.
+One of the participants mentioned that, in some instances, accredited providers have contacted support saying that they don’t work with an organisation that has said they're a lead partner.
 
 ## Hypotheses to test
 

@@ -17,7 +17,7 @@ The design we decided to go with as a minimum viable product will be released in
 
 ## The issue
 
-We’ve been designing a way for candidates to submit 4 individual applications, independent of each other.  
+We’ve been designing a way for candidates to submit 4 individual applications, independent of each other.
 
 Currently, candidates submit one application linked to 4 course choices. This means candidates must wait for an outcome on all 4 of their course choices before they can apply again.
 
@@ -34,7 +34,7 @@ The issue was that we were not sure if the personal statement belonged in ‘You
 
 ![Screenshot showing 2 tabs, one labelled 'Your details' and one labelled 'Your applications'. There is text below telling candidates they can add up to 4 applications and they need to complete their details before they can submit their applications.](your-applications-tab.png)
 
-We assumed it made more sense for the personal statement to be in ‘Your applications’ because candidate could then write a personal statement for each application.  
+We assumed it made more sense for the personal statement to be in ‘Your applications’ because candidate could then write a personal statement for each application.
 
 Earlier in the year, we [merged the personal statement questions](/apply-for-teacher-training/merging-the-personal-statement/)
 from 2 questions into one, we also updated the guidance and word count for the personal statement. Usually, a personal statement should be between 500 to 1000 words. We worried that putting the personal statement at the end of the user journey would be unexpected for candidates who are just about to submit their application.
@@ -61,7 +61,7 @@ The personal statement only appears after the candidate has chosen a training pr
 
 ![Screenshot showing the personal statement question asking candidates to write a 500 word personal statement.](first-personal-statement.png)
 
-The candidate can submit their first application.  
+The candidate can submit their first application.
 
 ![Screenshot showing the review page where a candidate can check the training provider, course and personal statement before submitting their first application.](first-personal-statement-review.png)
 
@@ -125,7 +125,7 @@ Both designs encouraged candidates to tailor their personal statement per applic
 
 We spoke to another team doing research with training providers to find out how they view the personal statement. We learnt that providers only value a tailored personal statement when candidates are applying to different course subjects.
 
-Training providers would not reject a candidate if they did not tailor their statement to their organisation. Providers saw tailoring as an unnecessary burden for candidates.  
+Training providers would not reject a candidate if they did not tailor their statement to their organisation. Providers saw tailoring as an unnecessary burden for candidates.
 
 Providers value the personal statement to assess borderline candidates and help with setting up interview questions.
 
@@ -138,12 +138,12 @@ For option 1, some candidates were not sure which personal statement would copy 
 Candidates keep versions of their personal statement on their own devices and edit them outside our service. This makes the copying functionality redundant.
 
 <div class="govuk-inset-text">
-“[the copying function] wouldn't annoy me, I'd think oh that's nice then delete it all now” – research participant 1
+“[the copying function] wouldn’t annoy me, I'd think oh that's nice then delete it all now” – research participant 1
 </div>
 
 ### Reducing the word count of the personal statement
 
-Candidates said they would struggle to write everything in 500 words. They did not think this was enough to showcase their potential.  
+Candidates said they would struggle to write everything in 500 words. They did not think this was enough to showcase their potential.
 
 Reducing the word count to 500 words could disadvantage candidates who do not speak English as their first language.
 

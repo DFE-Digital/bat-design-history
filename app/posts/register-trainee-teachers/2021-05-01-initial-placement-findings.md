@@ -31,7 +31,7 @@ We found that further placements are often unknown at the point of requesting a 
 
 All users felt confident that Register will enable them to change or finalise the placement info at a later point.
 
-> “I’ve always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn't make any difference as long as we can change. I’ve had to change things due to the pandemic.”—Round 5 P3 (SCITT)
+> “I’ve always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn’t make any difference as long as we can change. I’ve had to change things due to the pandemic.”—Round 5 P3 (SCITT)
 
 > “We had a couple of times when a trainee changed placements, I wonder how I would record that? I think I would just add another placement I’m guessing and change the previous placement to just 2 weeks?”—Round 5 P6 (SCITT)
 
@@ -140,7 +140,7 @@ Many participants commented that they would like to see the name of the school t
 
 The current design displays placements in order of them being added to Register. If a trainee changed locations midway through their placement, the update will currently not appear in chronological order.
 
->“There are instances where the trainee doesn't suit the school. Looking at this I don't know how [to reflect that in the record] unless there is another option to add another school there could be two or three schools needed in the for instance.”—Round 5 P5 (SCITT)
+>“There are instances where the trainee doesn’t suit the school. Looking at this I don’t know how [to reflect that in the record] unless there is another option to add another school there could be two or three schools needed in the for instance.”—Round 5 P5 (SCITT)
 
 ## Next steps
 

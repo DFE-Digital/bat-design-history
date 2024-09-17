@@ -71,7 +71,7 @@ If an applicant has selected ‘I’m waiting for (my statement of comparability
 
 If they select that they do not need a UK ENIC reference number they will see a variation of the screen which reminds them of the benefits of including one and the potential drawbacks of not.
 
-![Interruption screen which highlights the benefits of adding an ENIC for candidates who have said they don't need one earlier in the process. Highlighting that they are around 30% more likely to receive an offer with one.](/apply-for-teacher-training/communicating-enic-to-international-candidates/ENIC-interruption-dont-want.jpg)
+![Interruption screen which highlights the benefits of adding an ENIC for candidates who have said they don’t need one earlier in the process. Highlighting that they are around 30% more likely to receive an offer with one.](/apply-for-teacher-training/communicating-enic-to-international-candidates/ENIC-interruption-dont-want.jpg)
 
 ### Rejection advice
 

@@ -268,13 +268,13 @@ Storing mentor information in one place, as a single source of truth, has a lot 
 
 ### Training pattern
 
-Entering the desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools do. Although this may have utility when partnering with several providers or being open to doing so, at present, it isn’t behaviour schools are used to.
+Entering the desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools do. Although this may have utility when partnering with several providers or being open to doing so, at present, it is not behaviour schools are used to.
 
 The ITT provider defines the trainees' training pattern as this is derived from their courses. A placement school must agree to these parameters when partnering with a provider, but these terms will be discussed during onboarding.
 
 ### Class size
 
-Entering the subject 'class size' isn’t helpful as this would vary between classes and schools.
+Entering the subject 'class size' is not helpful as this would vary between classes and schools.
 
 Trainees will teach various class sizes within a subject, depending on the school demographics.
 

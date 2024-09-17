@@ -69,7 +69,7 @@ So that I can make a successful application"
 
 ### Apply 2 naming
 
-The term ‘Apply 2’ isn’t helpful in creating awareness or understanding of the opportunity. Instead of introducing the concept of a different named step or feature, we could invite candidates to see Apply 2 as a continuation of their initial application.
+The term ‘Apply 2’ is not helpful in creating awareness or understanding of the opportunity. Instead of introducing the concept of a different named step or feature, we could invite candidates to see Apply 2 as a continuation of their initial application.
 
 ### Encouraging the discouraged
 

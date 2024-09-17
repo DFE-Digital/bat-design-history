@@ -46,11 +46,11 @@ Providers expressed confusion over which status box they should want - TRN recei
 
 ### Empty statuses that are not helpful
 
-We have done recent work with the Teaching Regulation Agency to improve the speed that records move between the various states. In most cases, a trainee will be ‘Pending TRN’ or ‘Qualification recommended’ for minutes only. This means in practice that the cards shown on the homepage would have 0 trainees in these statuses most of the time. This does not hurt our users, but also isn’t very useful.
+We have done recent work with the Teaching Regulation Agency to improve the speed that records move between the various states. In most cases, a trainee will be ‘Pending TRN’ or ‘Qualification recommended’ for minutes only. This means in practice that the cards shown on the homepage would have 0 trainees in these statuses most of the time. This does not hurt our users, but also is not very useful.
 
 ![Homepage status boxes with zero trainees in ‘Pending TRN’ and ‘Qualification recommended’ statuses](3-homepage-status-boxes-empty.png)
 
-We also had development challenges building the cohorts. Some trainee records imported from HESA are incomplete and this made calculating the cohorts impossible for these trainees. We’d know the trainee had finished, but not when - this meant we couldn't know if they should be in current or past. This is because our definition of current included any trainee who started or finished this year. Without knowing their end date we couldn’t know if they finished this year.
+We also had development challenges building the cohorts. Some trainee records imported from HESA are incomplete and this made calculating the cohorts impossible for these trainees. We’d know the trainee had finished, but not when - this meant we couldn’t know if they should be in current or past. This is because our definition of current included any trainee who started or finished this year. Without knowing their end date we couldn’t know if they finished this year.
 
 ## What we’ve changed
 
