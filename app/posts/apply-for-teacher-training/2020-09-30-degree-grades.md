@@ -18,8 +18,8 @@ Currently we ask candidates to provide a degree grade. If they have not complete
 
 We’re effectively asking 2 different questions at the same time:
 
-* Have you completed your degree?
-* What grade did you get for your degree?
+- Have you completed your degree?
+- What grade did you get for your degree?
 
 Furthermore, if you want to give a predicted grade, asking for a free text answer means candidates cannot use the structured answers we provide.
 

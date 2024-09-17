@@ -17,10 +17,10 @@ Given the impact on teacher training providers, [UCAS and the department agreed]
 
 We communicated this information to candidates by:
 
-* sending an emailing warning them that their applications may be processed slower, and to check the deadlines on their application dashboard
-* adding banners to the application and dashboard pages informing candidates that applications may be processed more slowly
-* adding information about extended deadlines to confirmation page
-* updating notification emails, replacing references to remaining working days with less precise language
+- sending an emailing warning them that their applications may be processed slower, and to check the deadlines on their application dashboard
+- adding banners to the application and dashboard pages informing candidates that applications may be processed more slowly
+- adding information about extended deadlines to confirmation page
+- updating notification emails, replacing references to remaining working days with less precise language
 
 ## Email sent to candidates
 

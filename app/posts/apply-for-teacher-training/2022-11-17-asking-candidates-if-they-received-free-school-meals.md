@@ -25,9 +25,9 @@ When submitting an application, we ask candidates some optional questions to ass
 
 Previously, we asked for:
 
-* sex
-* disability
-* ethnicity
+- sex
+- disability
+- ethnicity
 
 We were asked to investigate whether we could also add some questions to assess social-economic background. This is a hard-to-define measure which encompasses things such as family income, social class, education and the occupation of someone’s parents.
 
@@ -71,9 +71,9 @@ In the research, we found issues with both questions.
 
 With the first question we found that:
 
-* some participants found "main household earner" difficult to understand, particularly those whose first language may not have been English
-* participants were unsure which option to select if their parents had multiple jobs
-* the "when you were about 14" part of the question was sometimes not read
+- some participants found "main household earner" difficult to understand, particularly those whose first language may not have been English
+- participants were unsure which option to select if their parents had multiple jobs
+- the "when you were about 14" part of the question was sometimes not read
 
 We also observed that the question took longer to read and answer than the other equality and diversity questions.
 
@@ -81,9 +81,9 @@ We were additionally concerned that the categories were not always clear, and so
 
 With the second question we found that:
 
-* "if you finished school after 1980" tripped participants up and was misunderstood, sometimes causing candidate to not read the read of the question
-* participants would answer Yes or No even they went to school outside the UK, instead of selecting "Not applicable"
-* some candidates would answer Yes or No even if they were not sure
+- "if you finished school after 1980" tripped participants up and was misunderstood, sometimes causing candidate to not read the read of the question
+- participants would answer Yes or No even they went to school outside the UK, instead of selecting "Not applicable"
+- some candidates would answer Yes or No even if they were not sure
 
 With both questions, some candidates thought their answer would be taken into consideration by the provider, for example by assessing whether or not they could relate to the children they were teaching.
 
@@ -91,10 +91,10 @@ After the research we spoke to colleagues at the Office for National Statistics,
 
 Based upon this, we decided to:
 
-* only ask the question about free school meals for now
-* filter out candidates who likely finished school before 1980 so that we could remove that part of the question
-* filter out candidates who likely went to school outside the UK, using nationality as a proxy, and for those that remain, make it clearer that the question only applies to free school meals received in the UK
-* ask candidates whether they got free schools instead of if they were eligible for them - whilst people might choose to never eat free school meals even if eligible (for example, opting for a packed lunch) we considered that this was unlikely and a worthwhile trade-off for a an easier to understand question
+- only ask the question about free school meals for now
+- filter out candidates who likely finished school before 1980 so that we could remove that part of the question
+- filter out candidates who likely went to school outside the UK, using nationality as a proxy, and for those that remain, make it clearer that the question only applies to free school meals received in the UK
+- ask candidates whether they got free schools instead of if they were eligible for them - whilst people might choose to never eat free school meals even if eligible (for example, opting for a packed lunch) we considered that this was unlikely and a worthwhile trade-off for a an easier to understand question
 
 ## Initial results
 
@@ -102,11 +102,11 @@ As of 17 November 2022, 7,289 candidates have answered the question.
 
 Of those:
 
-* 69% answered "No"
-* 20% answered "Yes"
-* 6% answered "I do not know"
-* 3% answered "Prefer not to say"
-* 3% answered "I did not go to school in the UK"
+- 69% answered "No"
+- 20% answered "Yes"
+- 6% answered "I do not know"
+- 3% answered "Prefer not to say"
+- 3% answered "I did not go to school in the UK"
 
 A further 1,934 candidates (20% of the total) were not shown the question as they did not have British or Irish nationality.
 
@@ -114,11 +114,11 @@ A further 1,934 candidates (20% of the total) were not shown the question as the
 
 We plan to review the results after one year of asking the question. We’ll look at:
 
-* whether candidates who received free school meals were more or less likely to be offered a place, or to accept a place
-* how the proportions of candidates who received free school meals compared with the general population
-* if this data helps inform potential policy interventions
-* whether the level of "I do not know" and "Prefer not to say" answers is acceptable
-* whether we could avoid asking candidates this question by connecting to existing data held by the Department for Education
+- whether candidates who received free school meals were more or less likely to be offered a place, or to accept a place
+- how the proportions of candidates who received free school meals compared with the general population
+- if this data helps inform potential policy interventions
+- whether the level of "I do not know" and "Prefer not to say" answers is acceptable
+- whether we could avoid asking candidates this question by connecting to existing data held by the Department for Education
 
 We’ll also continue to talk to colleagues in other organisations who ask this question, such as the Social Mobility Commission, the Office for National Statistics and Teach First, to share our learning.
 

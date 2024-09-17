@@ -66,8 +66,8 @@ Then a candidate will feel more comfortable providing an answer
 
 ## Findings
 
-* Candidates read ‘extra assistance’ as meaning financial assistance.
-* Candidates wanted links to information about financial assistance for training with a disability.
-* Candidates wanted a mix of reassurance, and also information about their legal standing.
-* Candidates were unclear what would happen with this information, or unsure if they would need to contact a provider directly as well.
-* Providers asked for more varied examples of the types of support available (ie mental health).
+- Candidates read ‘extra assistance’ as meaning financial assistance.
+- Candidates wanted links to information about financial assistance for training with a disability.
+- Candidates wanted a mix of reassurance, and also information about their legal standing.
+- Candidates were unclear what would happen with this information, or unsure if they would need to contact a provider directly as well.
+- Providers asked for more varied examples of the types of support available (ie mental health).

@@ -1,5 +1,5 @@
 ---
-title: 'Setting user permissions: context and user research'
+title: "Setting user permissions: context and user research"
 description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here's how we arrived at our designs
 date: 2020-05-18
 ---
@@ -115,7 +115,7 @@ For a short story of this, see our [show and tell slides](https://docs.google.co
 - Weblink is not  accessible to all users who interact with applications, meaning applications are constantly downloaded and managed outside of the service - this has GDPR implications.
 - There are constraints around the types of sensitive data the system can collect and display due to the permissions setup. For example, detailed information about criminal convictions from the candidate.
 
-**Goal:*- We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
+**Goal:** We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
 
 We formulated a starting hypothesis to test:
 
@@ -128,7 +128,7 @@ We formulated a starting hypothesis to test:
 
 ---
 
-### Research we've done
+### Research we have done
 
 #### Accredited body research: survey findings
 
@@ -194,9 +194,9 @@ These diagrams show the organisational structures, but do not explain what diffe
 
 During research, we identified a candidate need to explain any criminal convictions:
 
-> **As a*- candidate
->**I need to*- feel comfortable disclosing negative information about my past
-> **So that*- I know whether it’s worth carrying on with my application
+>__As a__ candidate
+>__I need to__ feel comfortable disclosing negative information about my past
+>__So that__ I know whether it’s worth carrying on with my application
 
 [The questions we ask candidates](https://apply-beta-prototype.herokuapp.com/application/12345/suitability/)
 
@@ -317,7 +317,7 @@ The aim of the session was to review the options within the options analysis pap
 
 The decision was made to go with option 2. It allows the provider to have full control over who has access to perform which functions. It also meets their needs around managing applications entirely within the Manage service. Although more technical to build, it will allow us greater flexibility in the future to add more permissions and will give us the data to understand how the organisations within the ITT space are set up.
 
-__Pros:__
+##### Pros
 
 - Mitigates the high risk of someone making a decision when they are not allowed to
 - We can allow certain users to have access to certain sensitive data
@@ -325,7 +325,7 @@ __Pros:__
 - UI doesn’t need to explain itself
 - When relationships change between organisations, you can set it once for all users.
 
-__Cons:__
+##### Cons
 
 - Technically more complicated to implement - every user needs to be updated to reflect changes to relationships between orgs
 
@@ -365,7 +365,7 @@ We have tested the onboarding flow in depth with three providers so far:
 - School Direct - Millais Alliance
 - SCITT - Somerset SCITT
 
-__Key findings:__
+##### Key findings
 
 - The organisation-to-organisation set up has been understood by providers and they can set up their organisation structures
 - The user permissions set up has been understood by providers and they can effectively invite users with the right permissions
@@ -409,7 +409,7 @@ A user with Manage Users permission can invite other users from outside their or
 
 ### Current solution
 
-__Onboarding:__
+#### Onboarding
 
 - A user indicates the organisation they belong to
 - They can choose another user either within their organisation, or from another provider if they’re part of a close network, to set up their organisation (optionally)
@@ -417,12 +417,12 @@ __Onboarding:__
 - The user sets up the access permissions for their organisation and where relevant the organisation that ratifies their courses. Ratifying organisations do not get to set permissions for the courses they ratify. If they run and ratify their own courses, they will automatically be given access to the make decisions and view safeguarding permissions.
 - Onboarding can be considered complete once all organisations in a given structure have been onboarded
 
-__Modifying organisation set-up:__
+#### Modifying organisation set-up
 
 - A user with the appropriate permissions can navigate to the “Organisations” area and see the permissions for the organisation(s) they belong to
 - There they can change the organisational setup for those organisations to which they belong. If they are an accredited body, they will see the permissions that the other organisations they work with have set. Should they not agree with these settings they can contact the organisation in question and ask them to alter them.
 
-__Adding users:__
+#### Adding users
 
 - The first user, who set up the organisation, will by default have “manage organisations” and “manage users” permissions
 - They navigate to the “Users” area and select invite user

@@ -49,9 +49,9 @@ Until now we were only subtly referencing criminal records in the final [Anythin
 
 A summary of feedback we’ve received:
 
-* A section for convictions or cautions? In regards to safeguarding and sex offences. They think it is good practice to ask this question. This seems to be a deal-breaker.
-* A major red flag was that we don’t ask about unspent criminal convictions/or if someone is on sex offender register. Although a DBS would filter out these candidates later down the line many interview days involve children and so an early question may filter out some unsuitable candidates. [UCAS ask this question](/apply-for-teacher-training/ucas-application-form#criminal-declaration-in-course-choice) in some form.
-* Would like criminal record, honesty is important, they want it as an integrity check
+- A section for convictions or cautions? In regards to safeguarding and sex offences. They think it is good practice to ask this question. This seems to be a deal-breaker.
+- A major red flag was that we don’t ask about unspent criminal convictions/or if someone is on sex offender register. Although a DBS would filter out these candidates later down the line many interview days involve children and so an early question may filter out some unsuitable candidates. [UCAS ask this question](/apply-for-teacher-training/ucas-application-form#criminal-declaration-in-course-choice) in some form.
+- Would like criminal record, honesty is important, they want it as an integrity check
 
 Providers interview before requesting a DBS check. Interviews will often involve working with children.
 
@@ -86,14 +86,14 @@ So that I can make a decision about their application"
 
 If we create an explicit section related to safeguarding, then candidates who have something to disclose:
 
-* will know they can disclose if they feel they should
-* will have a place to be open and honest about their history
+- will know they can disclose if they feel they should
+- will have a place to be open and honest about their history
 
 If we encourage candidates to speak directly to their providers before applying then candidates will know:
 
-* how their provider might assist them
-* whether their past will affect their application
-* whether they would be rejected because of their past (for example a serious sex offence meaning they could never become a teacher)
+- how their provider might assist them
+- whether their past will affect their application
+- whether they would be rejected because of their past (for example a serious sex offence meaning they could never become a teacher)
 
 If we tell candidates that providers will check other sources as well as the DBS check, then they will be more likely to disclose something, because they know a provider’s checks are thorough.
 
@@ -107,11 +107,11 @@ If we put the information at the bottom of the provider form, then providers wil
 
 This design is ready for research, but not ready for development.
 
-* How do people respond to this design?
-* Do we need to include some examples of things to disclose or not disclose?
-* What would those examples be?
-* Do we need further details about DBS checks and lists?
-* This doesn't have an explicit declaration, is that enough for providers?
+- How do people respond to this design?
+- Do we need to include some examples of things to disclose or not disclose?
+- What would those examples be?
+- Do we need further details about DBS checks and lists?
+- This doesn't have an explicit declaration, is that enough for providers?
 
 ## Findings
 
@@ -121,9 +121,9 @@ When we demo’d this design to a university (15 Jan) – they said this design 
 
 Because recruiting users for this feature is difficult, we sent a survey out to users of the following forums to get quick responses from a large target audience:
 
-* Online aspiring teachers
-* Get Into Teaching support teaching
-* Career changer
+- Online aspiring teachers
+- Get Into Teaching support teaching
+- Career changer
 
 We had 39 responses.
 

@@ -30,19 +30,19 @@ After the teaching profile had been completed, users would then see an option to
 Guiding users through lengthier sections of their profile
 Building a digital version of the teaching profile meant we could think about how we guide users through some of its more complex sections. For qualifications, work history, school experience and reference sections, we used the following pattern:
 
-* Provide some introductory guidance about what the section is for, and how the information will be used
-* Ask candidates to add the relevant items (a qualification, a role, a job, a referee) one at a time
-* Present an overview of the entered information, allowing them to review and edit their answers.
+- Provide some introductory guidance about what the section is for, and how the information will be used
+- Ask candidates to add the relevant items (a qualification, a role, a job, a referee) one at a time
+- Present an overview of the entered information, allowing them to review and edit their answers.
 
 ## Collecting structured responses
 
 Building a digital form meant we could consider how to collect structured responses instead of free text answers. For example:
 
-* UK-based applicants could use an address look-up service, and choose from a list of addresses based on their postcode
-* Country/nationality questions could use an autocomplete input field, allowing applicants to choose from a predetermined list
-* For UK-awarded degrees, we could provide a list of common degree awards (First, Upper second, etc.)
-* For UK-awarded GCSEs, we could provide a list of equivalent and historical awards (GCE, Scottish Higher, etc.)
-* For work history, we could automatically calculate any gaps between jobs, and allow candidates to provide an explanation for each.
+- UK-based applicants could use an address look-up service, and choose from a list of addresses based on their postcode
+- Country/nationality questions could use an autocomplete input field, allowing applicants to choose from a predetermined list
+- For UK-awarded degrees, we could provide a list of common degree awards (First, Upper second, etc.)
+- For UK-awarded GCSEs, we could provide a list of equivalent and historical awards (GCE, Scottish Higher, etc.)
+- For work history, we could automatically calculate any gaps between jobs, and allow candidates to provide an explanation for each.
 
 ## Updated fields
 
@@ -79,51 +79,51 @@ Added information about basic eligibility requirements (to avoid wasting the tim
 
 ### Academic qualifications
 
-* Created start page content about the nature and purpose of the section and added reassurance for candidates still studying for their degree
+- Created start page content about the nature and purpose of the section and added reassurance for candidates still studying for their degree
 
-* International qualifications – changed the hierarchy of guidance so that candidates are first advised to contact their provider, then Get Into Teaching, and finally NARIC if need be. Our reasoning was that NARIC is the most expensive and confusing of the options, but some candidates may have started down this path and therefore need to be able to supply statements of equivalency etc.
+- International qualifications – changed the hierarchy of guidance so that candidates are first advised to contact their provider, then Get Into Teaching, and finally NARIC if need be. Our reasoning was that NARIC is the most expensive and confusing of the options, but some candidates may have started down this path and therefore need to be able to supply statements of equivalency etc.
 
-* Made allowance for candidates who might still be studying (UK and international)
+- Made allowance for candidates who might still be studying (UK and international)
 
 For missing GCSEs:
 
-* provided more contextual guidance where candidates might find it helpful: ‘Have you considered how you will meet this requirement in time for the start of your course? Get advice from a training provider or Get Into Teaching’
+- provided more contextual guidance where candidates might find it helpful: ‘Have you considered how you will meet this requirement in time for the start of your course? Get advice from a training provider or Get Into Teaching’
 
-* Allowed for the possibility that not all candidates will have chosen a provider at this stage
+- Allowed for the possibility that not all candidates will have chosen a provider at this stage
 
 ### Work history
 
-* Created a page for people (parents, carers etc) who might have been out of the workplace for 5 years, and gave them an opportunity to explain their situation.
-* We gave recent graduates the opportunity to include work before and during university.
+- Created a page for people (parents, carers etc) who might have been out of the workplace for 5 years, and gave them an opportunity to explain their situation.
+- We gave recent graduates the opportunity to include work before and during university.
 
 ### School experience
 
-* Explained to users that we’d ask for detailed insights about their school experience later, in the ‘Why you want to be a teacher’ section.
+- Explained to users that we’d ask for detailed insights about their school experience later, in the ‘Why you want to be a teacher’ section.
 
 ### References
 
-* Changed the hierarchy of information so that fewer recent graduates were reassured sooner about who to choose as a referee.
-* Adjusted reference request form to reflect the relationship/timeframe aspects of the section.
-* Provided hint text on time frames to reflect the fact the length of time can vary hugely not necessarily to the detriment of the reference.
+- Changed the hierarchy of information so that fewer recent graduates were reassured sooner about who to choose as a referee.
+- Adjusted reference request form to reflect the relationship/timeframe aspects of the section.
+- Provided hint text on time frames to reflect the fact the length of time can vary hugely not necessarily to the detriment of the reference.
 
 ### Personal statement
 
-* Originally labelled ‘Motivation’, we’d changed this to ‘Your teaching vocation’. However, user research and informal office discussion suggested this was not a well-understood term. For now, we’ve called the section ‘Why you want to be a teacher’ (to be continued…)
+- Originally labelled ‘Motivation’, we’d changed this to ‘Your teaching vocation’. However, user research and informal office discussion suggested this was not a well-understood term. For now, we’ve called the section ‘Why you want to be a teacher’ (to be continued…)
 
 ### Submit application
 
-* Added guidance on criminal convictions. User research among providers suggests that, while an enhanced DBS will reveal all convictions, some of which will permanently disbar candidates, other convictions will not. Providers adopt different policies on a criminal record, with some wanting early notification of past convictions. For this reason we’ve suggested candidates concerned about past convictions should contact their provider for candid advice.
+- Added guidance on criminal convictions. User research among providers suggests that, while an enhanced DBS will reveal all convictions, some of which will permanently disbar candidates, other convictions will not. Providers adopt different policies on a criminal record, with some wanting early notification of past convictions. For this reason we’ve suggested candidates concerned about past convictions should contact their provider for candid advice.
 
 ## Research findings
 
 While the prototype tested well, there were a few areas that stood out as needing improvement:
 
-* Most users understood where they were in completing their teaching profile but were less confident about where this sat within the overall process. With less thought given to the broader application journey – and asking users to imagine they had already chosen a set of courses – this was to be expected.
+- Most users understood where they were in completing their teaching profile but were less confident about where this sat within the overall process. With less thought given to the broader application journey – and asking users to imagine they had already chosen a set of courses – this was to be expected.
 
-* Most users could complete the application to what they deemed a ‘satisfactory’ standard, however, there was a lack of clarity on expectations for free text fields, including type, amount and format of content, and whether these fields were mandatory or optional.
+- Most users could complete the application to what they deemed a ‘satisfactory’ standard, however, there was a lack of clarity on expectations for free text fields, including type, amount and format of content, and whether these fields were mandatory or optional.
 
-* Most users expressed a lack of clarity around accounts, not understanding what type of account they were creating or how it related to other government services.
+- Most users expressed a lack of clarity around accounts, not understanding what type of account they were creating or how it related to other government services.
 
-* Some users expressed confusion around section headers, with some not certain what to expect for ‘Subject knowledge’ and ‘Your teaching vocation’ sections.
+- Some users expressed confusion around section headers, with some not certain what to expect for ‘Subject knowledge’ and ‘Your teaching vocation’ sections.
 
 This first round of usability testing also demonstrated the need for confirmation emails to be included as part of the journeys we test.

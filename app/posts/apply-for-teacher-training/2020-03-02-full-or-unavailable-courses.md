@@ -29,10 +29,10 @@ We’ve divided the designs for full courses into two parts:
 
 Here we are focusing on the first part, specifically, stopping candidates from:
 
-* picking a course that’s full
-* submitting an application with a course that’s full
-* submitting an application with a location that’s full
-* submitting an application to a course that was offered as full or part time, but now only has vacancies in the option they didn’t select (eg they chose part time, but the course now only has full time vacancies)
+- picking a course that’s full
+- submitting an application with a course that’s full
+- submitting an application with a location that’s full
+- submitting an application to a course that was offered as full or part time, but now only has vacancies in the option they didn’t select (eg they chose part time, but the course now only has full time vacancies)
 
 ## Scenarios
 
@@ -73,10 +73,10 @@ We need to stop candidates from applying to courses that can’t accept them.
 
 Either:
 
-* the course is now full
-* the location is full
-* [the course has been withdrawn](/publish-teacher-training-courses/deleting-and-withdrawing) (maybe it’s no longer running, or was published by mistake)
-* the study mode they picked (full time or part time) is now full
+- the course is now full
+- the location is full
+- [the course has been withdrawn](/publish-teacher-training-courses/deleting-and-withdrawing) (maybe it’s no longer running, or was published by mistake)
+- the study mode they picked (full time or part time) is now full
 
 {{ appUserNeed({
   description: "As a candidate that has picked a course that has become full or unavailable
@@ -116,9 +116,9 @@ Location is full for a study mode (only for courses that offer a choice between 
 
 Each error state has these options for recovery:
 
-* deleting the choice
-* changing to another course
-* contacting the training provider to discuss options (see below)
+- deleting the choice
+- changing to another course
+- contacting the training provider to discuss options (see below)
 
 When a location is full and another location is available, the first option is to ‘pick a new location’.
 

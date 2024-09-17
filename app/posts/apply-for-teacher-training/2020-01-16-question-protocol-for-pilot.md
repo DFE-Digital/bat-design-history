@@ -1,8 +1,8 @@
 ---
-layout: page
 title: What we ask for and why
-description: A question protocol.
+description: A question protocol
 date: 2020-01-16
+layout: page
 tags:
   - pilot
 ---
@@ -11,12 +11,12 @@ Below is a snapshot of the questions we ask (or intended to ask) candidates for 
 
 > Only add a question if you know:
 >
-> * that you need the information to deliver the service
-> * why you need the information
-> * what you’ll do with it
-> * which users need to give you the information
-> * how you’ll check the information is accurate
-> * how to keep the information up to date and secure
+> - that you need the information to deliver the service
+> - why you need the information
+> - what you’ll do with it
+> - which users need to give you the information
+> - how you’ll check the information is accurate
+> - how to keep the information up to date and secure
 >
 > This list is called a ‘question protocol’ - it’s different from the form itself because it’s about how you’ll use the answers.
 

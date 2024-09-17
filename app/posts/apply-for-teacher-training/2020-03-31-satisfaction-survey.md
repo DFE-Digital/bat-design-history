@@ -31,15 +31,15 @@ So that I can feed back user experience improvements to the service team
 
 ## Hypotheses
 
-* If we prompt candidates to complete a feedback survey after they have submitted their application
+- If we prompt candidates to complete a feedback survey after they have submitted their application
   Then we will be more likely to get responses
   Because ‘Give feedback’ is the primary action on this page
 
-* If we ask questions on the [system usability scale](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+- If we ask questions on the [system usability scale](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
   Then we will be able to measure a candidate’s satisfaction with the service
   Because this is an industry standard questionnaire
 
-* If we split questions across multiple pages
+- If we split questions across multiple pages
   Then we can capture incomplete responses
   Because we will save the answer to each question
 

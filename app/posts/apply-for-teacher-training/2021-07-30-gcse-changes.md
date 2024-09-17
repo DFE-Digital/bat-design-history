@@ -10,8 +10,8 @@ One of the reasons why providers reject candidates is because they do not have t
 
 If candidates do not have these qualifications, they can still apply, as some providers will:
 
-* accept candidates who are currently studying for a GCSE (and expect to receive it before they start the course)
-* offer an ‘equivalency test’ which lets a candidate show they meet the standard, without having a formal qualification
+- accept candidates who are currently studying for a GCSE (and expect to receive it before they start the course)
+- offer an ‘equivalency test’ which lets a candidate show they meet the standard, without having a formal qualification
 
 We [made some recent changes](/publish-teacher-training-courses/pending-gcses-equivalency-tests/) to the Publish service to better collect this information from providers. As a result, we're now able to warn candidates if they've chosen a course they do not meet the requirements for. We hope that this will reduce the rates of rejection, as candidates will be able to change their course choices before they apply.
 
@@ -45,8 +45,8 @@ If candidates are not currently studying for a qualification, and do not already
 
 The page also:
 
-* tells candidates that they may be able to take an equivalency test
-* offers candidates the opportunity to give other evidence that they meet the subject standard
+- tells candidates that they may be able to take an equivalency test
+- offers candidates the opportunity to give other evidence that they meet the subject standard
 
 ![Screenshot of other evidence question.](other-evidence.png "Other evidence question")
 

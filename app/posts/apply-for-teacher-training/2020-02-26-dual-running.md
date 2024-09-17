@@ -53,40 +53,40 @@ So that I can submit my application more easily
 
 If a candidate starts their application journey from the start page, they could complete the application before choosing a course, only to discover that it’s not available on Apply.
 
-* If we include a link to providers available on Apply to the start page
+- If we include a link to providers available on Apply to the start page
   Then candidates can see if their chosen course is available on Apply.
 
-* If we add dual running guidance to this list of available providers
+- If we add dual running guidance to this list of available providers
   Then candidates will be better understand what their options are.
 
-* If we add a page that recommends making course choices before completing other sections of the application
+- If we add a page that recommends making course choices before completing other sections of the application
   Then candidates won’t feel they’ve wasted their time entering information into a service they can’t use.
 
 ### Application journey from Find
 
 If a candidate starts (or continues) their application journey from ‘Find for postgraduate teacher training’, then we show them an interstitial page explaining the two options, and ask them to choose which service they would like to use.
 
-* If we clearly state the reasons why you might want to use each service
+- If we clearly state the reasons why you might want to use each service
   Then candidates will be better able to make an informed choice.
 
-* If we make the options on this interstitial page radio buttons
+- If we make the options on this interstitial page radio buttons
   Then candidates will see that they have two options.
 
-* If we skip this intertitial page for users already signed into Apply, and show a confirmation page instead
+- If we skip this intertitial page for users already signed into Apply, and show a confirmation page instead
   Then candidates won’t be asked to make the same choice over and over again.
 
 ### Redirecting candidates (back) to Find
 
 If a candidate hasn’t chosen a course yet, we direct them to use Find. However, users are then not able to navigate back to Apply, and potential face the challenge of being caught in a loop.
 
-* If we open the link to Find in a new window
+- If we open the link to Find in a new window
   Then candidates will be able to keep their location on Apply.
 
 ### Redirecting candidates to UCAS
 
 If a candidate selects a course that isn’t available on Apply, we tell them that the service isn’t ready for them yet.
 
-* If we direct candidates to a page that tells them they need to apply for this course on UCAS (and show the provider and course codes they will need)
+- If we direct candidates to a page that tells them they need to apply for this course on UCAS (and show the provider and course codes they will need)
   Then candidates won’t feel like they’ve reached a dead end.
 
 ## User journey

@@ -29,8 +29,8 @@ However, some candidates have said they are not available on certain dates witho
 
 Universities are more likely to be flexible if they know about a candidate's circumstances, for example:
 
-* they're disabled
-* they have caring responsibilities
+- they're disabled
+- they have caring responsibilities
 
 ### Our hypothesis
 
@@ -44,8 +44,8 @@ Because they want to widen participation and prevent discrimination
 
 We’ll know this works when:
 
-* candidates understand what this section is for
-* providers get information that they're likely to take into account when setting an interview date
+- candidates understand what this section is for
+- providers get information that they're likely to take into account when setting an interview date
 
 We'll test the new content with users to see if we get the right results.
 

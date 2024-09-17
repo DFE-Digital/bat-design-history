@@ -25,5 +25,5 @@ If we put the panel at the top of the main column
 Then the panel will be able to fit the content nicely
 We'll know this works when:
 
-* users spot the status box
-* users are able to perform the available actions
+- users spot the status box
+- users are able to perform the available actions

@@ -97,10 +97,10 @@ For the 2019/20 cycle, we deviated from UCAS’ reference process. Instead of pr
 
 By the time the 2019/20 recruitment cycle had closed:
 
-* 687 candidates had received references.
-* The average time for getting a reference was 6 days
-* 97.8% of candidates that received references got them within 30 days
-* 86 candidates were still waiting for references. Of these, 11 had waited longer than 30 days.
+- 687 candidates had received references.
+- The average time for getting a reference was 6 days
+- 97.8% of candidates that received references got them within 30 days
+- 86 candidates were still waiting for references. Of these, 11 had waited longer than 30 days.
 
 Our initial design intended to make the process easier for candidates, but instead made it more opaque; many candidates believed applications were sent directly to the provider when they pressed ‘Submit’, not put in a holding state while we waited for their references to come back.
 
@@ -108,9 +108,9 @@ Once candidates understood that any delay in getting a reference would prevent a
 
 Further issues with this process became evident towards the end of the recruitment cycle:
 
-* 89 courses were full by the time references were returned for 60 candidates (as of early July 2020). We tried to mitigate this situation by [giving candidates the option to replace a course choice](/apply-for-teacher-training/course-full-after-submitting-initial-approach/), but no candidate used this feature.
+- 89 courses were full by the time references were returned for 60 candidates (as of early July 2020). We tried to mitigate this situation by [giving candidates the option to replace a course choice](/apply-for-teacher-training/course-full-after-submitting-initial-approach/), but no candidate used this feature.
 
-* The Apply deadline was moved forwards 2 weeks to account for the average delay in getting a reference. This in turn required additional business rules and communications with candidates, and introduced additional complexity and confusion given the UCAS journey maintained the original deadline.
+- The Apply deadline was moved forwards 2 weeks to account for the average delay in getting a reference. This in turn required additional business rules and communications with candidates, and introduced additional complexity and confusion given the UCAS journey maintained the original deadline.
 
 ## Decoupling references from the application process
 
@@ -120,8 +120,8 @@ What if candidates could request references before, or after submitting an appli
 
 However, given prior research with providers, we know there are some constraints with this approach:
 
-* Providers want to see 2 references when they review an application
-* While we are dual-running with UCAS we can’t deviate too far from the existing business rules. This is to maintain fairness; candidates applying via UCAS would have references, while candidates coming via our service may not.
+- Providers want to see 2 references when they review an application
+- While we are dual-running with UCAS we can’t deviate too far from the existing business rules. This is to maintain fairness; candidates applying via UCAS would have references, while candidates coming via our service may not.
 
 With these constraints in place, even if we allowed candidates to request references before or after submitting, we still wouldn’t be able to send an application to providers until both references had been given. The most pressing issue would remain, with some candidates waiting for references while their course choices became full.
 
@@ -135,9 +135,9 @@ There are downsides of this approach, however. Any delays in getting a reference
 
 We can address this last issue by:
 
-* allowing candidates to request references from more than 2 referees, increasing their chances of a response
-* allowing candidates to send a reminder email at any point before a reference is given (in addition to the automated ones we send at 7 and 28 days)
-* making the process more transparent, showing a history of emails that have been sent
+- allowing candidates to request references from more than 2 referees, increasing their chances of a response
+- allowing candidates to send a reminder email at any point before a reference is given (in addition to the automated ones we send at 7 and 28 days)
+- making the process more transparent, showing a history of emails that have been sent
 
 ## User needs
 
@@ -194,9 +194,9 @@ Because there will no longer be any ambiguity around the process (especially for
 
 We’ll know these changes work if:
 
-* The overall time it takes to get a reference is reduced
-* The overall time it takes to complete an application is reduced
-* The overall time it takes for a candidate to start an application to it reaching a provider is reduced
+- The overall time it takes to get a reference is reduced
+- The overall time it takes to complete an application is reduced
+- The overall time it takes for a candidate to start an application to it reaching a provider is reduced
 
 ## Emails
 

@@ -9,31 +9,31 @@ screenshots:
   - text: Add maths GCSE grade 4 (C) or above, or equivalent
     caption: A reminder of the different GCSE standard equivalent options we show candidates (in this case for maths). The label for ‘GCE O level’ is changed to ‘O level’ to avoid confusion with GCSE.
   - text: What grade is your maths GCSE?
-    caption: This question is unchanged, except that the grade field now uses an autocomplete that gives options from 9 to 1, A\* to G, and U.
+    caption: This question is unchanged, except that the grade field now uses an autocomplete that gives options from 9 to 1, A\- to G, and U.
   - text: What English GCSE did you do?
-    caption: For an English GCSE, we ask candidates to enter each of their GCSE qualifications in this subject area. When entering grades, an autocomplete gives a list of options from 9 to 1, A\* to G, and U. For English and English Studies, as both single and double awards are available, these options go from 9-9 to 1-1, A\*A\* to GG, 9 to 1, A to G, and U. If they select ‘Other English subject’, we also ask for the name of the exam.
+    caption: For an English GCSE, we ask candidates to enter each of their GCSE qualifications in this subject area. When entering grades, an autocomplete gives a list of options from 9 to 1, A\- to G, and U. For English and English Studies, as both single and double awards are available, these options go from 9-9 to 1-1, A\*A\- to GG, 9 to 1, A to G, and U. If they select ‘Other English subject’, we also ask for the name of the exam.
   - text: What science GCSEs did you do?
-    caption: For science GCSEs, we ask candidates to tell us how many science GCSEs they did. When entering grades, an autocomplete gives a list of options. For a single award, options go from 9 to 1, A* to G, and U. For a double award, options go from 9-9 to 1-1, A\*A\* to GG, and U. For a triple award, we ask for a grade for each subject – Biology, Chemistry and Physics – and single grade options are given.
+    caption: For science GCSEs, we ask candidates to tell us how many science GCSEs they did. When entering grades, an autocomplete gives a list of options. For a single award, options go from 9 to 1, A- to G, and U. For a double award, options go from 9-9 to 1-1, A\*A\- to GG, and U. For a triple award, we ask for a grade for each subject – Biology, Chemistry and Physics – and single grade options are given.
   - text: Reviewing GCSEs
     caption: Where applicable, we show the exam type alongside each grade.
   - text: Academic and other relevant qualifications
     caption: |
       A reminder of the different qualification options we show candidates. If you select ‘Other UK qualification’ suggestions are given for the following from this list of common Scottish and vocational qualifications:
 
-      * BTEC
-      * GCE O level
-      * NVQ
-      * Scottish National 5
-      * Scottish Higher
-      * Scottish Advanced Higher
-      * SVQ
-      * VRQ
+      - BTEC
+      - GCE O level
+      - NVQ
+      - Scottish National 5
+      - Scottish Higher
+      - Scottish Advanced Higher
+      - SVQ
+      - VRQ
   - text: Add GCSE qualification
-    caption: Candidates can enter free text for a subject, but GCSE subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (9-9 to 1-1, A\*A\* to GG, 9 to 1, A to G, and U).
+    caption: Candidates can enter free text for a subject, but GCSE subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (9-9 to 1-1, A\*A\- to GG, 9 to 1, A to G, and U).
   - text: Add AS level qualification
     caption: Candidates can enter free text for a subject, but AS level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (AA to DE, A to E, and U).
   - text: Add A level qualification
-    caption: Candidates can enter free text for a subject, but A level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (A\*A\* to DE, A* to E, and U).
+    caption: Candidates can enter free text for a subject, but A level subjects are suggested. We de-duplicate qualifications with similar names, and while we include pilot qualifications, don’t display or store this information. When entering grades, an autocomplete gives a list of options, with both single and double award grades available (A\*A\- to DE, A- to E, and U).
   - text: Add BTEC, NVQ or VRQ qualification
     caption: "When entering grades, an autocomplete gives a list of grade options: Distinction, Merit, Pass, Unclassified and Not applicable."
 related:
@@ -75,19 +75,19 @@ There are a wide range of qualifications that candidates could receive which are
 
 In 2019, the most common types of qualification pre-degree awarded are:
 
-* GCSE (9-1)
-* Vocational qualifications
-  * BTEC
-  * RQF/VRQ (formerly named and now colloquially known as NVQs)
-  * NVQ
-* A level
-* GCSE (A*-G)
-* AS level
+- GCSE (9-1)
+- Vocational qualifications
+  - BTEC
+  - RQF/VRQ (formerly named and now colloquially known as NVQs)
+  - NVQ
+- A level
+- GCSE (A*-G)
+- AS level
 
 There is then a second tier of qualifications which are common but less than the above:
 
-* Scottish higher
-* International baccalaureate
+- Scottish higher
+- International baccalaureate
 
 A more detailed breakdown can be found in the [annual qualifications market report for 2018/19](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/863891/Annual_Qualifications_Market_Report_academic_year_2018_to_2019.pdf).
 
@@ -101,21 +101,21 @@ GCSEs are the most qualification to be held by candidates and therefore our init
 
 Recent changes to the grading structure require multiple options for candidates to select from.
 
-After 2017, candidates taking single GCSEs receive a single grade from 9 to 1 for each subject. If a candidate takes a combined science qualification, they receive an award worth 2 GCSEs that consists of two equal or adjacent grades from 9 to 1, giving [17 possible grade combinations](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/693519/Combined_science_grading.pdf). Prior to 2017, double award consisted of two equal or adjacent grades from A\*A\* to GG (and the non-grade U).
+After 2017, candidates taking single GCSEs receive a single grade from 9 to 1 for each subject. If a candidate takes a combined science qualification, they receive an award worth 2 GCSEs that consists of two equal or adjacent grades from 9 to 1, giving [17 possible grade combinations](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/693519/Combined_science_grading.pdf). Prior to 2017, double award consisted of two equal or adjacent grades from A\*A\- to GG (and the non-grade U).
 
 ### A level and AS level
 
-Pass grades for A and AS levels range from A to E. Those who do not reach the minimum standard required for a grade E receive the non-grade U. The A\* grade was introduced in 2010 for A levels only. A levels offering double awards consist of two equal or adjacent grades from A\*A\* to DE.
+Pass grades for A and AS levels range from A to E. Those who do not reach the minimum standard required for a grade E receive the non-grade U. The A\- grade was introduced in 2010 for A levels only. A levels offering double awards consist of two equal or adjacent grades from A\*A\- to DE.
 
 ### NVQ (and equivalents)
 
 Although NVQs are vocational qualifications, they can be measured against a number of other certifications, allowing a range of career and education opportunities:
 
-* NVQ Level 1 equivalent – 3/4 GCSE grades D-G
-* NVQ Level 2 equivalent – 4-5 GCSE grades A*-C
-* NVQ Level 3 equivalent – 2 A levels
-* NVQ Level 4 equivalent – Higher Education Certificate/BTEC
-* NVQ Level 5 equivalent – Higher Education Diploma/Foundation Degree
+- NVQ Level 1 equivalent – 3/4 GCSE grades D-G
+- NVQ Level 2 equivalent – 4-5 GCSE grades A*-C
+- NVQ Level 3 equivalent – 2 A levels
+- NVQ Level 4 equivalent – Higher Education Certificate/BTEC
+- NVQ Level 5 equivalent – Higher Education Diploma/Foundation Degree
 
 There are no grades for NVQ, you either pass or do not meet the level required (there is no fail).
 
@@ -123,9 +123,9 @@ There are no grades for NVQ, you either pass or do not meet the level required (
 
 BTECs can simarly be measured against a number of other certifications:
 
-* Entry Level - Below GCSE
-* Level 1-2 - GCSE
-* Level 3 - A level
-* Level 4-5 - Years 1 and 2 of an undergraduate degree
+- Entry Level - Below GCSE
+- Level 1-2 - GCSE
+- Level 3 - A level
+- Level 4-5 - Years 1 and 2 of an undergraduate degree
 
 Possible grades are distinction, merit, pass, or unclassified.

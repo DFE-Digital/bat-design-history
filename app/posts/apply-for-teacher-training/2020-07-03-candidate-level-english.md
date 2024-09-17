@@ -10,9 +10,9 @@ Candidates need to have good English to be a teacher.
 
 Providers assess English language ability through:
 
-* personal statements
-* communication at interview
-* qualifications like English GCSEs or English language tests
+- personal statements
+- communication at interview
+- qualifications like English GCSEs or English language tests
 
 So far, our design work has focussed on [asking candidates about their English GCSEs](/apply-for-teacher-training/structured-data-for-pre-degree-qualifications/#what-english-gcse-did-you-do).
 

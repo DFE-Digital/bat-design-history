@@ -40,6 +40,6 @@ screenshots:
 
 Initial designs for capturing:
 
-* international degrees
-* international qualifications equivalent to a Maths, English or Science GCSE
-* other international qualifications
+- international degrees
+- international qualifications equivalent to a Maths, English or Science GCSE
+- other international qualifications

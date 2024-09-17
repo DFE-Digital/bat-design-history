@@ -62,7 +62,7 @@ Candidates with non-UK qualifications are asked for:
 
 The options for comparable UK qualifications are:
 
-- GCSE (grades A* to C or 9 to 4)
+- GCSE (grades A- to C or 9 to 4)
 - between GCSE and AS level
 - AS level
 - A level

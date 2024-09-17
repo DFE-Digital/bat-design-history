@@ -14,11 +14,11 @@ screenshots:
 
 The service sends out email notifications to users when an application is:
 
-* submitted
-* withdrawn (automatically or manually by the candidate)
-* automatically rejected
-* accepted
-* declined
+- submitted
+- withdrawn (automatically or manually by the candidate)
+- automatically rejected
+- accepted
+- declined
 
 These are all changes which are not triggered by a provider, so the user may not be aware of them.
 

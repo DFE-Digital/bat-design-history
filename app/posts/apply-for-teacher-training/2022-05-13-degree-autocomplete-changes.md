@@ -12,9 +12,9 @@ We made some changes to the way that the autocomplete works within the degree in
 
 We use the autocomplete for three fields:
 
-* degree type (BA, BSc, etc)
-* university name
-* degree subject
+- degree type (BA, BSc, etc)
+- university name
+- degree subject
 
 These fields allow users to either pick from one of the options after typing in 2 or more characters, or enter their own answer.
 
@@ -32,10 +32,10 @@ We were also concerned that candidates may have not always realised that they co
 
 We changed the design of the autocomplete so that the:
 
-* options have a ’Suggestions’ header
-* suggestions appear slightly below the text input, so that it looks less like a dropdown element
-* hint text explains how to use the component
-* no message is shown if there are no matching suggestions, instead it just appears as a regular text input
+- options have a ’Suggestions’ header
+- suggestions appear slightly below the text input, so that it looks less like a dropdown element
+- hint text explains how to use the component
+- no message is shown if there are no matching suggestions, instead it just appears as a regular text input
 
 In addition we added support for synonyms, so that we could add common alternative spellings and abbreviations for the options.
 

@@ -22,5 +22,5 @@ Base cover letters on the name of the provider. If there’s multiple courses fo
 
 ## Design notes
 
-* Remove subject knowledge
-* Rename as cover letter
+- Remove subject knowledge
+- Rename as cover letter

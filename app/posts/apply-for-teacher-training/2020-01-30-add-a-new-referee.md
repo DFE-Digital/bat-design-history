@@ -9,24 +9,24 @@ screenshots:
     - text: You need to add a new referee
       src: 01-you-need-to-add-a-new-referee.png
       caption: |
-        * Show this page instead of the default home page
-        * Give the reason why they need to replace a referee, matching the words used in emails:
-        * Our email requesting a reference didn’t reach Glinda Baumbach.
-        * We haven’t had a reference from Doyle Denesik.
-        * Carmel Kohler said they won’t give a reference.
-        * Allow users to skip the step, but show it again next time they sign in
+        - Show this page instead of the default home page
+        - Give the reason why they need to replace a referee, matching the words used in emails:
+        - Our email requesting a reference didn’t reach Glinda Baumbach.
+        - We haven’t had a reference from Doyle Denesik.
+        - Carmel Kohler said they won’t give a reference.
+        - Allow users to skip the step, but show it again next time they sign in
     - text: Add a new referee
       caption: |
-        * Same as referee form with minor changes
-        * Removes hint text about when we will contact them
-        * Asks that a referee could give their reference as soon as possible
-        * Has a descriptive title that matches button used to reach here (and no caption)
+        - Same as referee form with minor changes
+        - Removes hint text about when we will contact them
+        - Asks that a referee could give their reference as soon as possible
+        - Has a descriptive title that matches button used to reach here (and no caption)
       src: 02-add-a-new-referee.png
     - text: Check your referees details
       caption: |
-        * Because the action is immediate, we will automatically email their new referee, we need a review step
-        * Give the candidate a chance to catch any errors
-        * Confirming will send the reference request email and return the candidate to their application dashboard
+        - Because the action is immediate, we will automatically email their new referee, we need a review step
+        - Give the candidate a chance to catch any errors
+        - Confirming will send the reference request email and return the candidate to their application dashboard
       src: 03-check-your-referees-details.png
     - text: Application dashboard after adding a referee
       src: 04-application-dashboard-after-adding-referee.png
@@ -94,11 +94,11 @@ Being able to link to any part of an application, so that when a candidate signs
 
 The flow is a little more convoluted:
 
-* Receive email asking for new referee
-* Click link in email
-* Sign in
-* Click link in sign in email
-* Get redirected to the form
+- Receive email asking for new referee
+- Click link in email
+- Sign in
+- Click link in sign in email
+- Get redirected to the form
 
 But if a user hasn’t seen the email, and they are signing in for another purpose, we need to prompt them too.
 

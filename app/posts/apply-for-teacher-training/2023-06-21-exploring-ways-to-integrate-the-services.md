@@ -47,8 +47,8 @@ If the candidate has this, then their immigration status could be automatically 
 
 This might help to:
 
-* reassure the candidate whether they have the right to work or study
-* avoid the need for providers to verify immigration status separately
+- reassure the candidate whether they have the right to work or study
+- avoid the need for providers to verify immigration status separately
 
 ![Screenshot showing a page asking for an immigration status share code ](immigration-status-share-code.png)
 

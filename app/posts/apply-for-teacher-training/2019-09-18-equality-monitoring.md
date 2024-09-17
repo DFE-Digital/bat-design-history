@@ -41,11 +41,11 @@ The information we collect must be compatible with HESA’s requirements.
 
 In this design we are asking for:
 
-* sex ([HESA ITT reference](https://www.hesa.ac.uk/collection/c19053/e/sexid))
-* sexual orientation
-* disability ([HESA ITT reference](https://www.hesa.ac.uk/collection/c19053/e/disable))
-* ethnicity ([HESA ITT reference](https://www.hesa.ac.uk/collection/c19053/e/ethnic))
-* religion
+- sex ([HESA ITT reference](https://www.hesa.ac.uk/collection/c19053/e/sexid))
+- sexual orientation
+- disability ([HESA ITT reference](https://www.hesa.ac.uk/collection/c19053/e/disable))
+- ethnicity ([HESA ITT reference](https://www.hesa.ac.uk/collection/c19053/e/ethnic))
+- religion
 
 We are not yet asking about gender identity.
 

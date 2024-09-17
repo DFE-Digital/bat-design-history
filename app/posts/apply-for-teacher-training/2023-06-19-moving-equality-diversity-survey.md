@@ -20,10 +20,10 @@ We made this change in June 2023.
 
 Currently, candidates submit one application linked to 4 course choices. Before they submit their application, they answer a set of questions so that we can prevent discrimination in teacher training. The questions include asking:
 
-* a candidate's sex
-* if a candidate has any disabilities or health conditions
-* a candidate’s ethnic background and ethnic group
-* if a candidate received free school meals when they went to school (we collect this internally and do not share this with training providers)
+- a candidate's sex
+- if a candidate has any disabilities or health conditions
+- a candidate’s ethnic background and ethnic group
+- if a candidate received free school meals when they went to school (we collect this internally and do not share this with training providers)
 
 These questions are not shown to providers until a candidate accepts an offer.
 

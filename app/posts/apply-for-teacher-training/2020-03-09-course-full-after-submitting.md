@@ -22,8 +22,8 @@ Courses mostly get marked as full from May until the end of year. There’s a lo
 
 Right now, if a course becomes full then:
 
-* we do not tell the candidate
-* the application is forwarded to the provider as normal when references are received and the 5 day holding period has passed
+- we do not tell the candidate
+- the application is forwarded to the provider as normal when references are received and the 5 day holding period has passed
 
 This might be ok, if the provider will still consider the application. It depends on what we discover in research with providers.
 
@@ -77,9 +77,9 @@ If you do nothing your application will be sent. Some providers will still consi
 
 You still have ((days_remaining)) to edit your application. You can:
 
-* ((if less than 3 courses??add another course))
-* ((if 3 courses??change this course to another one))
-* do nothing and we will still send your application to your training provider
+- ((if less than 3 courses??add another course))
+- ((if 3 courses??change this course to another one))
+- do nothing and we will still send your application to your training provider
 
 ((link_to_application))"
 }) }}

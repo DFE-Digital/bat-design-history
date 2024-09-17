@@ -79,9 +79,9 @@ If we use the messaging above at the relevant points in the user journeys
 Then candidates will get their references more quickly
 Because users will:
 
-* [take responsibility](/apply-for-teacher-training/making-the-references-process-faster/#assigning-responsibility)
-* [have options](/apply-for-teacher-training/making-the-references-process-faster/#giving-options)
-* [know it's urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
+- [take responsibility](/apply-for-teacher-training/making-the-references-process-faster/#assigning-responsibility)
+- [have options](/apply-for-teacher-training/making-the-references-process-faster/#giving-options)
+- [know it's urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
 
 ### Examples of how the messaging works on the [interstitial page](/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
 
@@ -207,4 +207,4 @@ Reference-related content is also found in other areas throughout the service, i
 
 ## How will we know this works?
 
-We'll look as user behaviour to see if references are collected more quickly.
+We will look as user behaviour to see if references are collected more quickly.

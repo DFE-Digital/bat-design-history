@@ -17,9 +17,9 @@ The switcher also means there’s 2 ways of changing what the user sees in the l
 
 If we let users filter by cycle instead of switching then users will be able to:
 
-* search for applications across cycle
-* modify the list in the way they’re used to
-* see the most important things that need doing across cycles
+- search for applications across cycle
+- modify the list in the way they’re used to
+- see the most important things that need doing across cycles
 
 ## How it works
 
@@ -31,5 +31,5 @@ A max of 2 cycles (current and previous) will appear in the list.
 
 At the start of a new cycle:
 
-* if there are deferred offers, they’ll appear at the top to prompt users to reconfirm their offers
-* if there are applications pending conditions, they’ll appear at the top to prompt users to mark them as ‘met’ or ‘not met’
+- if there are deferred offers, they’ll appear at the top to prompt users to reconfirm their offers
+- if there are applications pending conditions, they’ll appear at the top to prompt users to mark them as ‘met’ or ‘not met’

@@ -25,8 +25,8 @@ An iteration following [an early 2019 design of the journey](/find-teacher-train
 
 This design includes:
 
-* an interstitial showing the choice between GOV.UK Apply and UCAS Apply
-* a page adding the selected course as a choice in a new application
+- an interstitial showing the choice between GOV.UK Apply and UCAS Apply
+- a page adding the selected course as a choice in a new application
 
 It doesn’t cover the journey from Find for a user with an existing account or application.
 

@@ -24,9 +24,9 @@ There’s three new pieces of data to display, but a few different scenarios to 
 
 They are:
 
-* The candidate has completed the diversity questionnaire or not
-* The application is complete or not
-* The viewing user has permission to see diversity information or not
+- The candidate has completed the diversity questionnaire or not
+- The application is complete or not
+- The viewing user has permission to see diversity information or not
 
 We want providers to be clear what information is available, but also why they can’t necessarily see it.
 

@@ -24,10 +24,10 @@ As a candidate
 I need to know that places can fill up at any time
 So that I can be proactive, for example:
 
-* finishing my application quickly
-* choosing a referee who can respond quickly
-* chasing my referee
-* staying in touch with my provider
+- finishing my application quickly
+- choosing a referee who can respond quickly
+- chasing my referee
+- staying in touch with my provider
 
 As a candidate
 I need to know when the application deadline is
@@ -45,8 +45,8 @@ The deadline to submit an application is 24 August for candidates applying for t
 
 This banner appears for candidates who:
 
-* are applying for the first time
-* create an account by 24 August
+- are applying for the first time
+- create an account by 24 August
 
 The banner will show until 24 August.
 
@@ -62,8 +62,8 @@ The deadline is 18 September if you’re applying again.
 
 This banner appears for candidates who:
 
-* are applying for the second time
-* start their second application by 18 September
+- are applying for the second time
+- start their second application by 18 September
 
 The banner will show until 18 September.
 
@@ -91,8 +91,8 @@ If a candidate misses their deadline they have to wait until 13 October to submi
 
 This banner appears on the main menu for candidates who:
 
-* created an account by 24 August
-* did not submit by their deadline
+- created an account by 24 August
+- did not submit by their deadline
 
 ![Banner informing candidates when applications reopen.](your-application-with-opening-date.png)
 

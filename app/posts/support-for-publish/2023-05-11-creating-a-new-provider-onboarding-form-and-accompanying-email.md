@@ -27,10 +27,10 @@ We realised that we no longer needed the lead school form, and we could combine 
 
 We updated the form to:
 
-* say that we will also onboard the provider’s organisation to Manage, as well as Publish
-* remove any unnecessary questions that were not required for onboarding, such as ‘What is your job role?’
-* make it clear that the email address, phone number and postal address we collect is used in the ‘Contact details’ section on Find postgraduate teacher training (Find)
-* only ask for the unique reference number (URN) if they are not an accredited provider
+- say that we will also onboard the provider’s organisation to Manage, as well as Publish
+- remove any unnecessary questions that were not required for onboarding, such as ‘What is your job role?’
+- make it clear that the email address, phone number and postal address we collect is used in the ‘Contact details’ section on Find postgraduate teacher training (Find)
+- only ask for the unique reference number (URN) if they are not an accredited provider
 
 We include a short link to the form from the email (redacted from the email below for the purposes of this design history).
 

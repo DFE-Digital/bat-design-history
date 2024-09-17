@@ -16,11 +16,11 @@ Despite carrying out checks, providers want candidates to be open about any pote
 
 Encouraging candidates to disclose potential issues in the application form is essential so that providers can:
 
-* tell the candidate whether they should continue with their application
-* build trust with candidates who do have something to declare but can still teach
-* save time and money
-* reduce safeguarding risks prior to doing official checks
-* reduce the chance of reputational damage
+- tell the candidate whether they should continue with their application
+- build trust with candidates who do have something to declare but can still teach
+- save time and money
+- reduce safeguarding risks prior to doing official checks
+- reduce the chance of reputational damage
 
 Our [initial design for the safeguarding section of the application form](/apply-for-teacher-training/suitability-to-work-with-children#your-suitability-to-work-with-children) aimed to meet these provider needs.
 
@@ -51,9 +51,9 @@ Our research was limited due to the difficulty of recruiting candidates who have
 
 However, we were able to observe a few pain points for candidates. The content caused candidates to be uncertain about:
 
-* what sort of information to declare (someone mentioned depression, which isn't the sort of thing we were looking for)
-* why we're asking about this
-* whether they should be open or not
+- what sort of information to declare (someone mentioned depression, which isn't the sort of thing we were looking for)
+- why we're asking about this
+- whether they should be open or not
 
 ### Our hypotheses
 

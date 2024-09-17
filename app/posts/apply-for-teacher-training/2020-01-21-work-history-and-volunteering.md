@@ -20,8 +20,8 @@ We need candidates to input their work history correctly so that we can assess w
 
 Clarifying the guidance on these pages should ensure that candidates do not:
 
-* duplicate information across both pages
-* omit information which could be relevant to their application
+- duplicate information across both pages
+- omit information which could be relevant to their application
 
 ## User needs
 
@@ -64,7 +64,7 @@ A couple of providers echoed these concerns. For example, Bedfordshire Universit
 
 We’ll know this works when:
 
-* candidates have no difficulty filling out these sections of the application form
-* providers have a big picture of a candidate’s work history
+- candidates have no difficulty filling out these sections of the application form
+- providers have a big picture of a candidate’s work history
 
 We’ll test the new content (refer to screenshots below) with users to see if we get the right results.

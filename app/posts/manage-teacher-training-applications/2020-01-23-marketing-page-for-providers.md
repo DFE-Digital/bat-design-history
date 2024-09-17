@@ -15,5 +15,5 @@ A marketing page, aimed primarily at SCITTs, to demonstrate how easy the new ser
 
 The page uses deliberately simplified screenshots so that:
 
-* they don’t become outdated
-* they succinctly support the point being made without other UI distraction
+- they do not become outdated
+- they succinctly support the point being made without other UI distraction

@@ -25,8 +25,8 @@ related:
 
 As the volume of users applying on the service increases from ~10% to 100% of teacher training applicants, we need a way to gather feedback systematically so that we can:
 
-* understand and hopefully preempt drop off
-* check that improvements and fixes are working
+- understand and hopefully preempt drop off
+- check that improvements and fixes are working
 
 We already ask for feedback once candidates submit an application, but some never submit. Others use the service for months before – and after – they submit. We need a way to collect feedback at other points along the journey.
 
@@ -38,10 +38,7 @@ Pages on GOV.​UK tend to revolve around guidance, whereas many pages within ou
 
 We can also update the design so that it’s not as prominent on pages, where the question should have focus.
 
-{% from "dist/govuk/components/inset-text/macro.njk" import govukInsetText %}
-{{ govukInsetText({
-  html: "To ensure we gather feedback consistently, we will use <a href=\"/find-teacher-training/feedback-component\">the same component on the Find service</a>, too"
-}) }}
+> To ensure we gather feedback consistently, we will use [the same component on the Find service](/find-teacher-training/feedback-component/), too
 
 ## Hypotheses
 

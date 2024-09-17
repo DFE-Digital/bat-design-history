@@ -60,8 +60,8 @@ This was generating a lot of support queries from referees who were trying to su
 
 Support colleagues were having to:
 
-* tell referees that email references are not accepted
-* contact individual candidates to ask them to choose different referees
+- tell referees that email references are not accepted
+- contact individual candidates to ask them to choose different referees
 
 This was also a waste of referees’ time, because they were writing references that could not be used.
 

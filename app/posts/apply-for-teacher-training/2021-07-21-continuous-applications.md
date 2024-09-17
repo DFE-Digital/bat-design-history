@@ -16,9 +16,9 @@ To try and address this, we designed and tested a change where candidates would 
 
 This meant that candidates would be able to apply to additional courses if:
 
-* they applied for less than 3 courses initially
-* a course becomes full or they were unsuccessful
-* they change their mind about one course and decide to withdraw their application
+- they applied for less than 3 courses initially
+- a course becomes full or they were unsuccessful
+- they change their mind about one course and decide to withdraw their application
 
 We tested this idea with some changes to the prototype.
 

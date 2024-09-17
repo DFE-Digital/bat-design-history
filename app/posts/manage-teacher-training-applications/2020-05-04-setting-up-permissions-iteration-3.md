@@ -52,8 +52,8 @@ This design should allow the user at Somerset SCITT to set permissions for the v
 
 Previous iterations
 
-* [first iteration](/manage-teacher-training-applications/setting-up-permissions)
-* [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
+- [first iteration](/manage-teacher-training-applications/setting-up-permissions)
+- [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
 
 ## User needs
 

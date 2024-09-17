@@ -88,11 +88,11 @@ Using radio buttons instead of a checkbox may make what we are asking clearer an
 
 We added the following prompts:
 
-* Course choice: reminding candidates how many choices they still have available
-* Degree: prompting candidates to check course entry requirements
-* Work history: moving the existing guidance about adding all jobs since leaving school into this question
-* Personal statement: moving the existing guidance about proofreading their answer into this question
-* Subject knowledge: repeating the guidance from the personal statement section about proofreading their answer
+- Course choice: reminding candidates how many choices they still have available
+- Degree: prompting candidates to check course entry requirements
+- Work history: moving the existing guidance about adding all jobs since leaving school into this question
+- Personal statement: moving the existing guidance about proofreading their answer into this question
+- Subject knowledge: repeating the guidance from the personal statement section about proofreading their answer
 
 ### Ask candidates without a GCSE pass grade how they expect to meet the entry requirements
 

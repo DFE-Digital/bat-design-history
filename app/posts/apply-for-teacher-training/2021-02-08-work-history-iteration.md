@@ -51,14 +51,14 @@ When someone indicated they did have work history, we took them to an empty tabl
 
 On the Add a job form, we made a number of minor changes and one significant change.
 
-The most significant change was to remove the textbox asking candidates to describe their job and the skills and experience relevant to teaching. This was to reduce the burden on candidates, particularly those with long work histories which may include many jobs done long ago that are unrelated to teaching - like bar or retail work. We did consider making this field optional instead, but considered that many candidates would feel they _ought_ to write something anyway, which likely wouldn’t get read or be helpful.
+The most significant change was to remove the textbox asking candidates to describe their job and the skills and experience relevant to teaching. This was to reduce the burden on candidates, particularly those with long work histories which may include many jobs done long ago that are unrelated to teaching - like bar or retail work. We did consider making this field optional instead, but considered that many candidates would feel they _ought_ to write something anyway, which likely would not get read or be helpful.
 
 Minor changes included:
 
-* Removing the working pattern question for part time jobs – this didn’t seem to be strongly required, and would be complicated to answer for part time or casual jobs done a long time ago.
-* Removing the hint text suggesting candidates add the name of their own company if self-employed – this didn’t seem to be required.
-* Changing the end date from “End date (leave blank if this is your current role)” to “Are you still working in this job?”. If the candidate answered “No” then a ”When did you leave this job?” question was revealed. This was remove the cognitive burden of the ”leave blank if…” line.
-* Changing the start date from “Start date” to “When did you start this job?”, for consistency with the “When did you leave this job?” question, and to better reflect the fact that we don’t ask for a full date, only month and year.
+- Removing the working pattern question for part time jobs – this didn’t seem to be strongly required, and would be complicated to answer for part time or casual jobs done a long time ago.
+- Removing the hint text suggesting candidates add the name of their own company if self-employed – this didn’t seem to be required.
+- Changing the end date from “End date (leave blank if this is your current role)” to “Are you still working in this job?”. If the candidate answered “No” then a ”When did you leave this job?” question was revealed. This was remove the cognitive burden of the ”leave blank if…” line.
+- Changing the start date from “Start date” to “When did you start this job?”, for consistency with the “When did you leave this job?” question, and to better reflect the fact that we don’t ask for a full date, only month and year.
 
 When a candidate added a job, they were returned to the Work history review page, rather than being asked whether or not they wanted to add another job. This was partly to solve an issue seen in production where candidates go to add another job, but then leave all the fields blank and submit the form, causing validation errors.
 

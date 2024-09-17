@@ -20,9 +20,9 @@ We wanted to test our hypothesis that having only one course choice disheartened
 
 Our user research found that:
 
-* candidates expected to have 3 course choices when applying again
-* both candidates and providers felt that the policy penalised candidates for not getting a place
-* candidates felt that having only one course choice signified that they had been considered unsuitable for teaching and that they were being discouraged from applying again
+- candidates expected to have 3 course choices when applying again
+- both candidates and providers felt that the policy penalised candidates for not getting a place
+- candidates felt that having only one course choice signified that they had been considered unsuitable for teaching and that they were being discouraged from applying again
 
 In reality, there are many reasons why someone’s first application does not work out. For example, candidates may not know what to expect at an interview and so do not prepare accordingly.
 
@@ -48,9 +48,9 @@ More applications may actually benefit providers, giving them more candidates to
 
 On 2 March 2022, 7 working days after launch:
 
-* 57.3% of candidates who applied again chose 3 course
-* 11.1% of candidates who applied again chose 2 courses
-* 31.6% of candidates who applied again chose one course
+- 57.3% of candidates who applied again chose 3 course
+- 11.1% of candidates who applied again chose 2 courses
+- 31.6% of candidates who applied again chose one course
 
 This brings the average number of course choices from 1 to 2.26 when candidates apply again.
 
