@@ -14,7 +14,7 @@ At the moment, the user list page only shows the name and email address of each 
 If we show permissions in the list, then users who:
 
 - just want to check permissions can do so without clicking through
-- cannot manage users won’t need to click through to a page where they’re unable to change anything
+- cannot manage users will not need to click through to a page where they’re unable to change anything
 
 It may be harder to scan the list to find a specific colleague. But as most organisations have, on average, 3 users this seems unlikely to cause a problem.
 

@@ -25,7 +25,7 @@ This is problematic because:
 - the user will get 2 email notifications – 1 for the change of access and 1 for the change of permissions
 - the user has to remember to set up permissions for the newly added organisation
 
-If we prompt users to set up permissions for each organisation they’re added to then users will get 1 email and won’t forget to set up permissions
+If we prompt users to set up permissions for each organisation they’re added to then users will get 1 email and will not forget to set up permissions
 
 ## How it works
 

@@ -28,7 +28,7 @@ We detect breaks in work history automatically based on the months entered in th
 
 ## Avoid asking about breaks until work history is complete
 
-We wanted to avoid candidates reaching the review screen (where we show generated breaks) too early. We generate breaks based on the jobs that have been entered. If a candidate hasn’t entered most of their work history yet then the breaks we generate won’t be valid.
+We wanted to avoid candidates reaching the review screen (where we show generated breaks) too early. We generate breaks based on the jobs that have been entered. If a candidate hasn’t entered most of their work history yet then the breaks we generate will not be valid.
 
 We updated the design so that after adding a job, we ask a candidate if they want to add another, rather than taking them straight to the review screen.
 

@@ -63,7 +63,7 @@ So that I understand why I can’t apply to it"
 
 ### Hypothesis
 
-We considered hiding full courses from the list of courses. However, if a candidate is looking for a specific course that’s full they won’t be able to find it, they might think they’ve typed something wrong or selected the wrong provider – they could waste time trying to find it elsewhere.
+We considered hiding full courses from the list of courses. However, if a candidate is looking for a specific course that’s full they will not be able to find it, they might think they’ve typed something wrong or selected the wrong provider – they could waste time trying to find it elsewhere.
 
 If we let them find the course, but tell them why they can’t apply to it, they’ll save time and have the information they need to decide what to do next.
 

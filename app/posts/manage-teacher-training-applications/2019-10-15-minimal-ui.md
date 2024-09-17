@@ -28,7 +28,7 @@ We updated the statuses to reflect those we are able to capture during the initi
 - Offer accepted (added)
 - Offer declined (added)
 
-The ‘interviewing’ status was removed as this takes place off-service. As the initial service won’t involve a large number of applications, we removed the filters added in the previous round of testing as well as the search functionality.
+The ‘interviewing’ status was removed as this takes place off-service. As the initial service will not involve a large number of applications, we removed the filters added in the previous round of testing as well as the search functionality.
 
 ## Reviewing an application
 

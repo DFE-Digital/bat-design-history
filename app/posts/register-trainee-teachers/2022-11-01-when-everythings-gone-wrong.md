@@ -25,7 +25,7 @@ Services should be prepared with one of these before they need one.
 
 No services have 100% uptime. They all go down at some point. Sometimes planned, sometimes because of incidents. During these times, it’s better to show a helpful message acknowledging the issue rather than a cryptic unstyled error.
 
-When a service goes down the developers on the service will be busy trying to get it back up. They won’t have time to create error pages to show, so teams need to have a page ready in advance.
+When a service goes down the developers on the service will be busy trying to get it back up. They will not have time to create error pages to show, so teams need to have a page ready in advance.
 
 ## What makes our maintenance page different
 

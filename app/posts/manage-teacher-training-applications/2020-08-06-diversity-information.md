@@ -16,7 +16,7 @@ We’ll only make this information available to providers once an application is
 
 We're also introducing a new permission to provider accounts so that only those with ’view diversity information’ permission will be able to view the results.
 
-This means that for most people looking at most applications, they won’t be able to see the diversity information.
+This means that for most people looking at most applications, they will not be able to see the diversity information.
 
 ## Different display scenarios
 

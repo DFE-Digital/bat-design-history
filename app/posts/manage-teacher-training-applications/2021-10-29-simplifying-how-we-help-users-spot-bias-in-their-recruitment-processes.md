@@ -98,7 +98,7 @@ We may consider charts later as an enhancement of the report.
 
 We could provide the data for specific candidates which we use to calculate the totals in the tables.
 
-We won’t provide this as part of the current work. There’s ongoing work to consider what personally identifiable information should be shown to providers at different stages in the application process.
+We will not provide this as part of the current work. There’s ongoing work to consider what personally identifiable information should be shown to providers at different stages in the application process.
 
 ### Hiding the report while users could be identified
 

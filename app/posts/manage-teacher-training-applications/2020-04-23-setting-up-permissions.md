@@ -32,7 +32,7 @@ For example, take a training provider who runs courses, some of which are ratifi
 The first accredited body may be responsible for making decisions (and the training provider cannot). Whereas the second accredited body shouldn’t make decisions (as thats the responsibility of the training provider).
 
 If we let training providers set permissions for their organisations
-Then organisations won’t do or see something they’re not meant to.
+Then organisations will not do or see something they’re not meant to.
 
 ## The situation with Titan Partnerhship
 

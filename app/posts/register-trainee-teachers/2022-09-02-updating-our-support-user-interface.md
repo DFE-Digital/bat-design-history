@@ -20,7 +20,7 @@ To align with other services in the Becoming a teacher service line, we’ll be 
 
 ## New interface
 
-We won’t build this new interface all in one go. We expect to use it for inspiration as we work on specific improvements and as something to aim towards over time.
+We will not build this new interface all in one go. We expect to use it for inspiration as we work on specific improvements and as something to aim towards over time.
 
 ### Improved navigation
 

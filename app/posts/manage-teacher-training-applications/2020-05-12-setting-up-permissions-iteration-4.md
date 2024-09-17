@@ -93,7 +93,7 @@ In the previous iteration the hint text for the ‘Make decision’ and ‘Acces
 But this is wrong when the user works for an accredited body. It should read something more like ‘Applies to courses run by [training providers]’.
 
 If we change the hint text to work for an accredited body
-Then users won’t be confused by incorrect descriptions
+Then users will not be confused by incorrect descriptions
 
 ![Screenshot of ‘Select permissions’ page.](invite-user-permissions-page-1.png)
 

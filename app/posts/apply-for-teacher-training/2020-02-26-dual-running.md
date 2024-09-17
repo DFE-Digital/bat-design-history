@@ -69,7 +69,7 @@ If a candidate starts their application journey from the start page, they could 
   Then candidates will be better understand what their options are.
 
 - If we add a page that recommends making course choices before completing other sections of the application
-  Then candidates won’t feel they’ve wasted their time entering information into a service they can’t use.
+  Then candidates will not feel they’ve wasted their time entering information into a service they can’t use.
 
 ### Application journey from Find
 
@@ -82,7 +82,7 @@ If a candidate starts (or continues) their application journey from ‘Find for 
   Then candidates will see that they have two options.
 
 - If we skip this intertitial page for users already signed into Apply, and show a confirmation page instead
-  Then candidates won’t be asked to make the same choice over and over again.
+  Then candidates will not be asked to make the same choice over and over again.
 
 ### Redirecting candidates (back) to Find
 
@@ -96,7 +96,7 @@ If a candidate hasn’t chosen a course yet, we direct them to use Find. However
 If a candidate selects a course that is not available on Apply, we tell them that the service is not ready for them yet.
 
 - If we direct candidates to a page that tells them they need to apply for this course on UCAS (and show the provider and course codes they will need)
-  Then candidates won’t feel like they’ve reached a dead end.
+  Then candidates will not feel like they’ve reached a dead end.
 
 ## User journey
 

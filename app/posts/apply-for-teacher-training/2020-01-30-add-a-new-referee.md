@@ -13,7 +13,7 @@ screenshots:
         - Give the reason why they need to replace a referee, matching the words used in emails:
         - Our email requesting a reference didn’t reach Glinda Baumbach.
         - We haven’t had a reference from Doyle Denesik.
-        - Carmel Kohler said they won’t give a reference.
+        - Carmel Kohler said they will not give a reference.
         - Allow users to skip the step, but show it again next time they sign in
     - text: Add a new referee
       caption: |

@@ -11,7 +11,7 @@ Previously ‘Organisations’ and ‘Users’ were account navigation items as 
 But they relate to the user’s account with notification settings and profile.
 
 If we put ‘Organisations’ and ‘Users’ in the account area
-Then they’ll be where users expect to find them and they won’t detract from the application-related features
+Then they’ll be where users expect to find them and they will not detract from the application-related features
 
 ![Screenshot of ‘Your account’ page.](account-page.png)
 

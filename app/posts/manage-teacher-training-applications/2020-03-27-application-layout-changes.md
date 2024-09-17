@@ -49,7 +49,7 @@ Then providers will understand it and be able to get to it more easily
 Previously these sections were [designed with collapsed sections](/manage-teacher-training-applications/offer-panel#offer-panel-new) but only [launched as a summary list](/manage-teacher-training-applications/as-launched-26-nov-2019#application-with-offer) which is quite hard to read and means users have to click to reveal the content. It's also quite different to the way most CVs are laid out.
 
 If the sections are laid using headings and paragraphs
-Then it'll be more familiar, easier to read and won’t need to be revealed
+Then it'll be more familiar, easier to read and will not need to be revealed
 
 ![Screenshot of ‘Work history’ section of application form.](work-history.png)
 
@@ -98,7 +98,7 @@ The main reason for the box was to differentiate the offer from the application.
 
 If the status banner is used then it:
 
-- won’t be confused for an offer
+- will not be confused for an offer
 - will use a more suitable pattern
 - will make the respond by date more consistent
 

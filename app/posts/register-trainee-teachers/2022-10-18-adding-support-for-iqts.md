@@ -50,7 +50,7 @@ Originally we called this new section ‘iQTS details’ however, because it fol
 
 ## Sections not included
 
-We’ve removed several sections from the standard record because they won’t make sense for iQTS. These include funding, schools, and placements.
+We’ve removed several sections from the standard record because they will not make sense for iQTS. These include funding, schools, and placements.
 
 There may be a need to collect placement information in the future - we’d have to do further design work to support international locations.
 

@@ -30,7 +30,7 @@ So that reasonable adjustments can be made should I be offered an interview and/
 
 {{ appUserNeed({
   description: "As a candidate
-I need reassurance that disclosing a disability won’t affect my application, either due to unconscious bias or discrimination
+I need reassurance that disclosing a disability will not affect my application, either due to unconscious bias or discrimination
 So that I can feel comfortable disclosing this information"
 }) }}
 

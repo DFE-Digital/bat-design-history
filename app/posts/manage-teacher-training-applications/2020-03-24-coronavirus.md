@@ -28,7 +28,7 @@ We communicated this change to providers by:
   subject: "Coronavirus: how Apply for teacher training is adapting",
   content: "Dear ((provider_name))
 
-  You may have heard from UCAS that we won’t be rejecting or declining any offers automatically until 20 April 2020.
+  You may have heard from UCAS that we will not be rejecting or declining any offers automatically until 20 April 2020.
 
   This is to give you more time to make decisions on applications.
 

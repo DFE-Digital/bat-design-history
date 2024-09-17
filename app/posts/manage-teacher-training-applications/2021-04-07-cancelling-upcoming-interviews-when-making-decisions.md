@@ -44,7 +44,7 @@ The problem is that if the user makes an offer and we cancel an interview schedu
 
 For example, if an interview was at 10am and an offer is made at 1pm then cancelling the interview would be misleading and confusing.
 
-We won’t cancel interviews that are scheduled for the day on which the user makes an offer, rejects an application or withdraws an application.
+We will not cancel interviews that are scheduled for the day on which the user makes an offer, rejects an application or withdraws an application.
 
 ### Solutions we discarded
 

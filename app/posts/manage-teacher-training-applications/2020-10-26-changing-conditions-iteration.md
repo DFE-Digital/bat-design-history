@@ -36,7 +36,7 @@ Sometimes users tell candidates they need to provide ID to perform the DBS check
 
 But this is not what a condition box is intended to be used for and we tell the candidate via email.
 
-If we add hint text to the DBS condition checkbox then users won’t put this information in a condition box.
+If we add hint text to the DBS condition checkbox then users will not put this information in a condition box.
 
 ## Simplifying the way users add further conditions
 

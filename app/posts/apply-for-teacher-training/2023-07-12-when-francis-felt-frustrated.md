@@ -80,7 +80,7 @@ Francis starts to fret (again):
 
 “It’s 25 hours a week, how will I fit this in around my job as a waiter”
 
-“12 weeks, that’s 3 months. I guess I won’t have much holiday after working so hard at university. I’m tired already”
+“12 weeks, that’s 3 months. I guess I will not have much holiday after working so hard at university. I’m tired already”
 
 “Wait, is it free?”
 

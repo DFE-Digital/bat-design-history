@@ -36,14 +36,14 @@ Then they’ll be more inclined to apply again
 The previous iteration didn’t include a question for interview performance which is a possible reason for rejection.
 
 If we include this question
-Then providers won’t have to type this manually
+Then providers will not have to type this manually
 
 ### Add a question in relation to whether they were only rejected because they were offered a different course by the same provider
 
 The previous iteration didn’t include a question for when the application was rejected due to being offered one of their other choices.
 
 If we include this question
-Then providers won’t have to type this manually
+Then providers will not have to type this manually
 
 ### Stop providers from answering ‘No’ to every question
 
@@ -52,7 +52,7 @@ The previous iteration meant that users could say no to every question. If they 
 But this is not ideal because the UI gives the illusion that selecting no to all questions is okay. Also it wouldn’t follow the standard validation pattern from the GOV.UK Design System where an error should be related to a specific field.
 
 If we require providers to provide a reason in a free text box when they select no to all other questions
-Then the UI won’t be deceptive and error messages will be more useful
+Then the UI will not be deceptive and error messages will be more useful
 
 ### Speed up the flow when the application is being rejected due to a safeguarding issue
 
