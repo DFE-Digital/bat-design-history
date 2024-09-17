@@ -13,18 +13,11 @@ related:
       href: https://getintoteaching.education.gov.uk/non-uk-teachers/train-to-teach-in-england-as-an-international-student
 ---
 
-<div class="govuk-notification-banner" role="region" aria-labelledby="govuk-notification-banner-title" data-module="govuk-notification-banner">
-  <div class="govuk-notification-banner__header">
-    <h2 class="govuk-notification-banner__title" id="govuk-notification-banner-title">
-      Important
-    </h2>
-  </div>
-  <div class="govuk-notification-banner__content">
-    <p class="govuk-notification-banner__heading">
-      These designs are no longer live
-    </p>
-    <p class="govuk-body">Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> for the latest designs, and <a href="https://www.gov.uk/government/publications/international-relocation-payments/international-relocation-payments">international relocation payments</a> for the latest guidance.</p>
-  </div>
+<div class="govuk-inset-text">
+  <p class="govuk-heading-s">
+    These designs are no longer live
+  </p>
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> for the latest designs, and <a href="https://www.gov.uk/government/publications/international-relocation-payments/international-relocation-payments">international relocation payments</a> for the latest guidance.
 </div>
 
 We needed to add some information for candidates following the introduction of relocation payments for international students. Depending on the subject, candidates may be eligible for a payment of £10,000 from the UK government to help with the financial costs of moving to England.
