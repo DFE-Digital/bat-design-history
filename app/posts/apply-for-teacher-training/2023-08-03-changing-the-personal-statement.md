@@ -137,9 +137,7 @@ For option 1, some candidates were not sure which personal statement would copy 
 
 Candidates keep versions of their personal statement on their own devices and edit them outside our service. This makes the copying functionality redundant.
 
-<div class="govuk-inset-text">
-“[the copying function] wouldn’t annoy me, I'd think oh that's nice then delete it all now” – research participant 1
-</div>
+> “[the copying function] wouldn’t annoy me, I'd think oh that's nice then delete it all now” – research participant 1
 
 ### Reducing the word count of the personal statement
 
@@ -159,9 +157,7 @@ For option 2, candidates found it overwhelming to see the personal statement in 
 
 2 neurodivergent users felt quite overwhelmed by having the personal statement appear twice on the application form.
 
-<div class="govuk-inset-text">
-“Having the personal statement in one place would be better for someone who is neurodivergent” – research participant 6
-</div>
+> “Having the personal statement in one place would be better for someone who is neurodivergent” – research participant 6
 
 ## What we changed from this research
 

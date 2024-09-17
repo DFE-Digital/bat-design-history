@@ -13,8 +13,6 @@ related:
       href: https://github.com/DFE-Digital/apply-for-teacher-training-prototype/pull/646
 ---
 
-
-
 ## Contents
 
 - [Overview](/apply-for-teacher-training/home-fee-status/#overview)
@@ -78,9 +76,7 @@ British/Irish nationals who’ve been permanently resident in any combination of
 
 So our first idea was to ask British/Irish candidates the following question, with the option to respond 'Yes' or 'No':
 
-<div class="govuk-inset-text">
-Will you have been living in the UK, Ireland, Channel Islands, Isle of Man, EU, Switzerland, Iceland, Liechtenstein, Norway or British Overseas Territories for 3 years before the course starts?
-</div>
+> Will you have been living in the UK, Ireland, Channel Islands, Isle of Man, EU, Switzerland, Iceland, Liechtenstein, Norway or British Overseas Territories for 3 years before the course starts?
 
 We decided against this because:
 

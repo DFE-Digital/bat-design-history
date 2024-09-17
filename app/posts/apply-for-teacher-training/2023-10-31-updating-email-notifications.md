@@ -21,7 +21,7 @@ Many email notifications sent from Apply mention these rules, so we needed to re
 
 ## What we did
 
-We mapped out all our emails by taking screenshots and placing them on an online whiteboard tool (Lucidboard). We grouped them by type and added notes of what needed to change.  
+We mapped out all our emails by taking screenshots and placing them on an online whiteboard tool (Lucidboard). We grouped them by type and added notes of what needed to change.
 
 We categorised each group by emails that could be:
 
@@ -39,7 +39,7 @@ Previously, when candidates received an offer, it would automatically mark the o
 
 Our data showed that most candidates responded to an offer within 15 working days and only 2.5% of offers were automatically declined in the 2022 to 2023 recruitment cycle. This indicated  that candidates respond to offers in good time and this rule is not needed anymore.
 
-We decided to implement a series of emails to nudge candidates to accept their offer in case they did not respond to training providers.  
+We decided to implement a series of emails to nudge candidates to accept their offer in case they did not respond to training providers.
 
 We designed 5 emails, which would be sent 10 days apart. This would allow us to measure how many of these triggered over time and we can either introduce more interventions or reduce the emails we send.
 
@@ -105,6 +105,6 @@ Monday to Friday, 8:30am to 5:30pm (except public holidays).
 
 ## Further considerations
 
-We need to assess the effectiveness of our new emails once they are implemented.  
+We need to assess the effectiveness of our new emails once they are implemented.
 
 Our next step is to map out the triggers for our emails so we can get a better understanding of how everything fits together. We think we can do more work to improve our emails even further, so we do not overwhelm candidates.
