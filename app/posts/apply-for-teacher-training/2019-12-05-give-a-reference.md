@@ -22,8 +22,10 @@ screenshots:
       caption: If they decide not to opt-in, we don’t include that message.
 ---
 
-{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
-{{ govukWarningText({ html: 'We built a <a href="/apply-for-teacher-training/give-a-reference-iteration">simpler version of this design</a>.', iconFallbackText: "Warning" }) }}
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+html: "We built a [simpler version of this design](/apply-for-teacher-training/give-a-reference-iteration)." | markdown("inline")
+}) }}
 
 One of the first aspects of [the MVP service](/apply-for-teacher-training/apply-launch) we wanted to improve was how we accept references.
 

@@ -49,10 +49,9 @@ There are some aspects we can address through the application process.
 
 ## Residency and visa status
 
-{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
-{{ govukWarningText({
-  html: "[We later iterated how we ask for nationality in this section](/apply-for-teacher-training/nationality)" | markdown("inline"),
-  iconFallbackText: "Warning"
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+  html: "[We later iterated how we ask for nationality in this section](/apply-for-teacher-training/nationality)" | markdown("inline")
 }) }}
 
 If a candidate does not already have the right to work or study in the UK there are 2 visa routes: a general work visa ([Tier 2](https://www.gov.uk/tier-2-general)) for salaried courses, or a general student visa ([Tier 4](https://www.gov.uk/tier-4-general-visa)).

@@ -33,10 +33,9 @@ screenshots:
       src: 12-other-international-qualification.png
 ---
 
-{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
-{{ govukWarningText({
-  html: "[We iterated this design before opening up the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status)" | markdown("inline"),
-  iconFallbackText: "Warning"
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+  html: "[We iterated this design before opening up the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status)" | markdown("inline")
 }) }}
 
 Initial designs for capturing:

@@ -27,10 +27,9 @@ screenshots:
       src: dashboard-withdrawn.png
 ---
 
-{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
-{{ govukWarningText({
-  html: "[We didn’t build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline"),
-  iconFallbackText: "Warning"
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+  html: "[We didn’t build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline")
 }) }}
 
 First spike to support two features of the application process:

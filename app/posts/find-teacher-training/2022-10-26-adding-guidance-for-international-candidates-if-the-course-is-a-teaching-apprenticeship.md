@@ -11,19 +11,10 @@ screenshots:
       src: course-description--international-candidates-and-apprenticeships.png
 ---
 
-<div class="govuk-notification-banner" role="region" aria-labelledby="govuk-notification-banner-title" data-module="govuk-notification-banner">
-  <div class="govuk-notification-banner__header">
-    <h2 class="govuk-notification-banner__title" id="govuk-notification-banner-title">
-      Important
-    </h2>
-  </div>
-  <div class="govuk-notification-banner__content">
-    <p class="govuk-notification-banner__heading">
-      These designs are no longer live
-    </p>
-    <p class="govuk-body">Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> for the latest designs.</p>
-  </div>
-</div>
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+  html: "**These designs are no longer live**. Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) for the latest designs." | markdown("inline")
+}) }}
 
 Course descriptions on Find postgraduate teacher training (Find) include a section called ‘International candidates’. This section outlines what international candidates need to be able to undertake the course, such as visa requirements.
 
