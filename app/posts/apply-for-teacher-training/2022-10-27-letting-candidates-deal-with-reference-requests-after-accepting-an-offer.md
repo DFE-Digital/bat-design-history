@@ -46,7 +46,7 @@ Content at the top of this page lists the course and provider for the offer whic
 
 Links on the right let them view or withdraw their application. These functions have not been changed.
 
-The page has 2 subheadings, 'references' and 'offer conditions'.
+The page has 2 subheadings, ’references' and 'offer conditions'.
 
 The references section lists the candidate’s reference requests. For each one it includes:
 

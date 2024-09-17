@@ -57,7 +57,7 @@ Dear ((name))
 
 # Update on your application
 
-((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
+((provider)) has decided not to make you an offer to study ((course)). They’ve given feedback to explain this decision.
 
 > **Quality of application**
 >
@@ -104,7 +104,7 @@ Dear ((name))
 
 # Update on your application
 
-((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
+((provider)) has decided not to make you an offer to study ((course)). They’ve given feedback to explain this decision.
 
 > **Quality of application**
 >
@@ -149,7 +149,7 @@ Dear ((name))
 
 # Update on your application
 
-((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
+((provider)) has decided not to make you an offer to study ((course)). They’ve given feedback to explain this decision.
 
 > **Quality of application**
 >
@@ -201,7 +201,7 @@ Dear ((name))
 
 # Update on your application
 
-((provider)) has decided not to make you an offer to study ((course)). They've given feedback to explain this decision.
+((provider)) has decided not to make you an offer to study ((course)). They’ve given feedback to explain this decision.
 
 > **Quality of application**
 >

@@ -51,7 +51,7 @@ It may appear that we’re making assumptions about a candidate’s English prof
 
 The design also does not follow through in its logic. The logic suggests we should not show this question to candidates from any English speaking country - not just the UK and Ireland.
 
-We could follow the Home Office's approach to student visas, where [nationals from English speaking countries do not have to prove their level of English when applying](https://www.gov.uk/tier-4-general-visa/knowledge-of-english).
+We could follow the Home Office’s approach to student visas, where [nationals from English speaking countries do not have to prove their level of English when applying](https://www.gov.uk/tier-4-general-visa/knowledge-of-english).
 
 Finally, the question has the potential to deter candidates whose first language is not English from applying.
 

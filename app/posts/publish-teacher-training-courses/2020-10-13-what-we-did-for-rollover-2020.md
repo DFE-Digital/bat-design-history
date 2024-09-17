@@ -287,7 +287,7 @@ We enabled a rollover tab on the [Publish performance dashboard](https://www.pub
 
 Consistency of language was an issue during rollover. Dates referring to cycle (eg., 2019 to 2020) needed to be updated across the service. While a find and replace in the code base helped, there were several instances where manual updates needed to be made, such as the Google Form to create PE courses.
 
-The default earliest "Applications open date" for courses was set to 8th October, copied over from the previous cycle's start date. Since this date was pushed back for the new cycle, we needed to adjust the default and ensure the example start date for form completion was within the correct range.
+The default earliest "Applications open date" for courses was set to 8th October, copied over from the previous cycle’s start date. Since this date was pushed back for the new cycle, we needed to adjust the default and ensure the example start date for form completion was within the correct range.
 
 ## Allocations during rollover
 

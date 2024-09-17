@@ -22,7 +22,7 @@ It’s good practice to let users know that something is going to happen automat
 
 While doing this work, we made several other minor changes to improve consistency within the service. We‘ll now use ‘make a decision’ to describe what a user does and ‘respond‘ to describe how a candidate reacts to an offer.
 
-We're also going to be more precise about deadlines. Applications are automatically rejected after 40 working days at 11:59pm. Offers are automically declined after 10 working days at 11:59pm.
+We’re also going to be more precise about deadlines. Applications are automatically rejected after 40 working days at 11:59pm. Offers are automically declined after 10 working days at 11:59pm.
 
 ## Showing on the application list when an offer will be automatically declined
 
@@ -33,7 +33,7 @@ We're also going to be more precise about deadlines. Applications are automatica
 
 ## Showing on the application a prompt saying when an offer will be automatically declined
 
-We'll add a prompt to the application details, offer, interviews, notes and timeline pages.
+We’ll add a prompt to the application details, offer, interviews, notes and timeline pages.
 
 - If the offer will be declined tonight it will say, for example, “Your offer will be automatically declined at the end of today (15 August 2020 at 11:59pm) if the candidate does not respond.”
 - If the offer will be declined tomorrow night it will say, for example, “Your offer will be automatically declined at the end of tomorrow (16 August 2020 at 11:59pm) if the candidate does not respond.”
@@ -56,7 +56,7 @@ We’ll make a few changes to applications in the ‘received’ and ‘intervie
 - If the application will be rejected tomorrow night it will say “1 day to make decision”.
 - If the application will be rejected 2 or more days from now it will say, for example, “2 days to make decision”.
 
-We'll reflect these changes in the application.
+We’ll reflect these changes in the application.
 
 - If the application will be rejected tonight it will say, for example, “This application will be automatically rejected at the end of today (15 August 2020 at 11:59pm) if you do not make a decision.”
 - If the application will be rejected tomorrow night it will say, for example, “This application will be automatically rejected at the end of tomorrow (16 August 2020 at 11:59pm) if you do not make a decision.”

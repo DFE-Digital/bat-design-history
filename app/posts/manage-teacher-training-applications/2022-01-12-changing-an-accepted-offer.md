@@ -10,7 +10,7 @@ tags:
   - changing an offer
 ---
 
-To change an offer after it's been accepted, users have to send an email to support with proof that the candidate agrees and details of the changes.
+To change an offer after it’s been accepted, users have to send an email to support with proof that the candidate agrees and details of the changes.
 
 We do not currently tell users how to do this, which may mean that users do not:
 

@@ -45,7 +45,7 @@ Susy is a SCITT service manager who belongs to Durham SCITT, an accredited body.
 
 ## Logging in as a specific user
 
-For troubleshooting a specific user’s issues, DfE Support are able to login with the user's anonymised email using the ‘Sign in as a specific user’ link in the header. You can also sign in as yourself this way.
+For troubleshooting a specific user’s issues, DfE Support are able to login with the user’s anonymised email using the ‘Sign in as a specific user’ link in the header. You can also sign in as yourself this way.
 
 ## There’s something about Mary
 

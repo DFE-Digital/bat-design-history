@@ -19,7 +19,7 @@ If we let users set up and manage interviews, then it’ll be easier to manage t
 
 ## Application list
 
-The ‘Submitted’ status has been split out into ‘Received’, ‘Awaiting interview’ and ‘Interviewed’. And there's a new section in the list of candidates awaiting interview.
+The ‘Submitted’ status has been split out into ‘Received’, ‘Awaiting interview’ and ‘Interviewed’. And there’s a new section in the list of candidates awaiting interview.
 
 ![Screenshot of ‘Applications’ page.](application-list.png)
 

@@ -10,7 +10,7 @@ screenshots:
   items:
     - text: Latest news and updates on the Register sign in page
       src: Register-Sign-In.png
-    - text: Register's news and updates page
+    - text: Register’s news and updates page
       src: Register-news-and-updates.png
 ---
 

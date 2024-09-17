@@ -58,7 +58,7 @@ If a candidate has an application in draft, and then tries to add another applic
 
 ![Screenshot of a page telling the user they already have a draft application with a specific training provider.](already-have-draft-application.png)
 
-Once they've chosen a course, candidates can then fill out their personal statement. We’re not sure if this was the best place to put the personal statement. But we felt it did not belong in the ‘Your details’ tab anymore.
+Once they’ve chosen a course, candidates can then fill out their personal statement. We’re not sure if this was the best place to put the personal statement. But we felt it did not belong in the ‘Your details’ tab anymore.
 
 ![Screenshot of a page called 'Personal statement' this is followed by content explaing to the user what they should write about in their statement and a large text box to write it in.](personal-statement.png)
 

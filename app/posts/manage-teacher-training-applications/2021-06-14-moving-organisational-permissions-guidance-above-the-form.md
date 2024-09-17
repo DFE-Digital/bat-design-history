@@ -34,7 +34,7 @@ To solve these issues we’ve moved the content above the form and put some of i
 
 At the moment, we list out each partner organisation that applies and does not apply to each user permission.
 
-We've changed the text to say:
+We’ve changed the text to say:
 
 - ‘It currently applies to all courses you work on with all your partner organisations.’ when it applies to all partner organisations
 - ‘It currently does not apply to courses you work on with all your partner organisations.’ when it applies to none of their partner organisations

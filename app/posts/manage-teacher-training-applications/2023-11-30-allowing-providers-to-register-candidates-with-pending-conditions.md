@@ -1,6 +1,6 @@
 ---
-title: Allowing providers to register candidates who still have to meet their subject knowledge enhancement (SKE) condition 
-description: We added a button to allow providers to send candidates to Register trainee teachers (Register) before all the candidate's conditions have been met.
+title: Allowing providers to register candidates who still have to meet their subject knowledge enhancement (SKE) condition
+description: We added a button to allow providers to send candidates to Register trainee teachers (Register) before all the candidate’s conditions have been met.
 date: 2023-11-30
 tags:
   - offer conditions

@@ -13,7 +13,7 @@ ogImage:
 
 If a candidate meets all the initial teacher training (ITT) criteria, they can still be rejected for other reasons. We wanted to test the idea of a ‘shortlist of eligible candidates’ that training providers could recommend to other training providers.
 
-Our designs tested well but users had more detailed questions of how this ‘shortlist’ would work in practice. We need to do more research on the idea so we've not implemented this into the service yet.
+Our designs tested well but users had more detailed questions of how this ‘shortlist’ would work in practice. We need to do more research on the idea so we’ve not implemented this into the service yet.
 
 ## The issue
 

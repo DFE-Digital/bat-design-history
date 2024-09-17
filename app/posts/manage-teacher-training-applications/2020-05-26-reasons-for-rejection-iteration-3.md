@@ -25,7 +25,7 @@ screenshots:
 In the previous iteration, we put [uncommon questions on a separate page](/manage-teacher-training-applications/reasons-for-rejection-iteration-2/#step-3). But users were confused – they thought some categories were missing.
 
 If we combine the questions onto the first page
-Then users will not be confused and they'll be able to scan through all the categories more easily
+Then users will not be confused and they’ll be able to scan through all the categories more easily
 
 ### Move some safeguarding options into a new question about honesty and professionalism
 

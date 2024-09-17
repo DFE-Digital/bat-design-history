@@ -52,7 +52,7 @@ Sign in to [Publish teacher training courses (Publish)](https://www.publish-teac
 
 # Publishing courses with one ‘School’ (school placement)
 
-If you’re using ‘Main site’ as your only school placement in the ‘Schools’ section on Publish, that's fine – you can publish a course with one school only.
+If you’re using ‘Main site’ as your only school placement in the ‘Schools’ section on Publish, that’s fine – you can publish a course with one school only.
 
 We understand that for large organisations working with many schools, adding placement information at this stage can be difficult and we do not want to delay any courses from being published.
 
@@ -70,7 +70,7 @@ We spoke to candidates using Find and many could not tell where they would need 
 
 A study site is a campus or other location where the trainee will need to go to complete their theoretical learning. There could be one study site or more, depending on the course.
 
-Candidates cannot choose which study site they will be training at – it's for information purposes only to help them consider their travel arrangements.
+Candidates cannot choose which study site they will be training at – it’s for information purposes only to help them consider their travel arrangements.
 
 ## School placements
 
@@ -120,7 +120,7 @@ Sign in to [Publish teacher training courses (Publish)](https://www.publish-teac
 
 # Publishing courses with one ‘School’ (school placement)
 
-If you’re using ‘Main site’ as your only school placement in the ‘Schools’ section on Publish, that's fine – you can publish a course with one school only.
+If you’re using ‘Main site’ as your only school placement in the ‘Schools’ section on Publish, that’s fine – you can publish a course with one school only.
 
 We understand that for large organisations working with many schools, adding placement information at this stage can be difficult and we do not want to delay any courses from being published.
 
@@ -136,7 +136,7 @@ You can add location information at any point during the recruitment cycle, even
 
 A study site is a campus or other location where the trainee will need to go to complete their theoretical learning. There could be one study site or more, depending on the course.
 
-Candidates cannot choose which study site they will be training at – it's for information purposes only to help them consider their travel arrangements.
+Candidates cannot choose which study site they will be training at – it’s for information purposes only to help them consider their travel arrangements.
 
 ## School placements
 
@@ -200,7 +200,7 @@ You can add location information at any point during the recruitment cycle, even
 
 A study site is a campus or other location where the trainee will need to go to complete their theoretical learning. There could be one study site or more, depending on the course.
 
-Candidates cannot choose which study site they will be training at – it's for information purposes only to help them consider their travel arrangements.
+Candidates cannot choose which study site they will be training at – it’s for information purposes only to help them consider their travel arrangements.
 
 ## School placements
 

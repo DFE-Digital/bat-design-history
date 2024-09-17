@@ -69,7 +69,7 @@ Welsh ITT providers respond negatively, which could result in them forcibly requ
 
 The Department may face a reputational risk if Welsh providers work with the press, highlighting a potential policy overreach into devolved areas.
 
-The guidance's publication was delayed due to the required approvals, including approval from the Welsh government. The sector is already unhappy that the guidance has not been released.
+The guidance’s publication was delayed due to the required approvals, including approval from the Welsh government. The sector is already unhappy that the guidance has not been released.
 
 It could set a precedent that we will pay schools outside England to support ITT. Should we also pay the small number of Northern Ireland and Scotland schools that take trainee teachers on courses with English providers?
 

@@ -53,7 +53,7 @@ When the user signs in for the first time, they have to agree to the data sharin
 But really we need to make it clear that they have successfully agreed to the data sharing agreement and prompt them to set up their permissions explicitly.
 
 If we show the user a confirmation page
-Then they'll know what's happened and what they have to do next
+Then they’ll know what’s happened and what they have to do next
 
 ![Screenshot of confirmation page.](data-sharing-confirmation-page.png)
 
@@ -99,7 +99,7 @@ Then users will not be confused by incorrect descriptions
 
 ### Warn the user of the consequences of inviting someone from outside of their organisation
 
-Inviting a user outside of your organisation means they’ll be able to view all applications to courses they look after. They'll also be able to make decisions about applications and view sensitive information, if given permission.
+Inviting a user outside of your organisation means they’ll be able to view all applications to courses they look after. They’ll also be able to make decisions about applications and view sensitive information, if given permission.
 
 This might be fine, but without guidance, the user might accidentally invite someone from say one accredited body to be able to see courses that are ratified by another.
 

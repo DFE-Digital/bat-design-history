@@ -18,7 +18,7 @@ The question was causing users confusion. It seems to be because it’s inconsis
 
 The options we gave as answers confused the users too. It’s a long list that includes qualifications that were too low level to be relevant.
 
-> “This is asking for ‘the highest’ but a lot of these are at the same level. This list for an undergrad doesn’t make sense because you have to have a level 3 qual to go onto a UG course. Here I wouldn’t know what you'd want from me. We wouldn’t register someone with just level 2 or level 3 because that's not high enough for training with us.”
+> “This is asking for ‘the highest’ but a lot of these are at the same level. This list for an undergrad doesn’t make sense because you have to have a level 3 qual to go onto a UG course. Here I wouldn’t know what you'd want from me. We wouldn’t register someone with just level 2 or level 3 because that’s not high enough for training with us.”
 
 ## DTTP data
 

@@ -36,7 +36,7 @@ We thought this would be appropriate since these users might already have downlo
 
 But looking at it from the candidate’s point of view instead, we think it’s best to protect their privacy by showing as little as possible of the information they entered when applying. We’ll follow this approach until we identify a clear need for providers to continue seeing the information.
 
-We've decided that any information created by the old provider such as notes, interviews and offers will still be available for them to see.
+We’ve decided that any information created by the old provider such as notes, interviews and offers will still be available for them to see.
 
 We also decided to:
 
@@ -58,7 +58,7 @@ We created emails to send to users who have had an application transferred to or
 
 We created different versions for training providers and accrediting bodies. This is because an accredited body will want to know who ratifies the course the candidate has been transferred to.
 
-The emails mention that an offer has been made. This means we'll need variations on these emails if we allow users to transfer applications without making an offer.
+The emails mention that an offer has been made. This means we’ll need variations on these emails if we allow users to transfer applications without making an offer.
 
 A user will not receive any email notification if they had access to the application before the change and still have access to it.
 

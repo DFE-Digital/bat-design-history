@@ -21,7 +21,7 @@ related:
 
 From the 2023 to 2024 recruitment cycle, we have introduced ‘Study sites’. A study site is a place where trainees will do the theoretical part of their initial teacher training (ITT) course.
 
-To be able to publish a course, the provider will need to attach at least one study site to it. As this is a new concept, we wanted to add a guidance page to help providers understand what they need to do. We explain why it's important that candidates can see this information on a course page on Find postgraduate teacher training (Find).
+To be able to publish a course, the provider will need to attach at least one study site to it. As this is a new concept, we wanted to add a guidance page to help providers understand what they need to do. We explain why it’s important that candidates can see this information on a course page on Find postgraduate teacher training (Find).
 
 ## What we changed
 

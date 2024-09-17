@@ -69,7 +69,7 @@ When they click on one of those links, they should still be able to see the appl
 
 - A banner appears at the top of the page explaining that the application no longer belongs to them and why
 - There will be no buttons or links that allow the user to change the application or offer in anyway
-- The status tag is removed _or_ it's changed to a new status
+- The status tag is removed _or_ it’s changed to a new status
 - The last event on the timeline will be ‘Changed to provider X’
 
 The specific designs will be worked out in future sprints.

@@ -24,7 +24,7 @@ Part of this was intended – when Apply was launched most users could not apply
 
 ## Hypotheses
 
-If we give candidates a clear call to action to add another course after they’ve added one, then they'll add more of their choices earlier on, and the cost of needing to apply on UCAS will be smaller.
+If we give candidates a clear call to action to add another course after they’ve added one, then they’ll add more of their choices earlier on, and the cost of needing to apply on UCAS will be smaller.
 
 If we give candidates a clear indication of the number of courses they can add in their application, then they’ll apply to more, and will not look to apply again after submitting their first application.
 

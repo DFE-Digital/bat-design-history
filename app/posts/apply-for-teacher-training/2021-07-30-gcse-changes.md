@@ -13,7 +13,7 @@ If candidates do not have these qualifications, they can still apply, as some pr
 - accept candidates who are currently studying for a GCSE (and expect to receive it before they start the course)
 - offer an ‘equivalency test’ which lets a candidate show they meet the standard, without having a formal qualification
 
-We [made some recent changes](/publish-teacher-training-courses/pending-gcses-equivalency-tests/) to the Publish service to better collect this information from providers. As a result, we're now able to warn candidates if they've chosen a course they do not meet the requirements for. We hope that this will reduce the rates of rejection, as candidates will be able to change their course choices before they apply.
+We [made some recent changes](/publish-teacher-training-courses/pending-gcses-equivalency-tests/) to the Publish service to better collect this information from providers. As a result, we’re now able to warn candidates if they’ve chosen a course they do not meet the requirements for. We hope that this will reduce the rates of rejection, as candidates will be able to change their course choices before they apply.
 
 To be able to show this guidance, we needed to make some changes to how we collect information about GCSEs. That way we'd know if someone is currently studying for a GCSE, or if they need to take an equivalency test.
 
@@ -33,15 +33,15 @@ The reworded question does not reference the required grade. It also no longer r
 
 ![Screenshot of new initial question.](new-first-question.png "New initial question")
 
-If candidates do not have a qualification, they're now asked if they're currently studying for one:
+If candidates do not have a qualification, they’re now asked if they’re currently studying for one:
 
 ![Screenshot of currently studying question.](currently-studying.png "Currently studying question")
 
-If candidates do have a GCSE, but the grade is below the requirement, they're asked if they're retaking the GCSE:
+If candidates do have a GCSE, but the grade is below the requirement, they’re asked if they’re retaking the GCSE:
 
 ![Screenshot of currently retaking question.](currently-retaking.png "Currently retaking question")
 
-If candidates are not currently studying for a qualification, and do not already have one, they're shown a page reminding them of the requirements.
+If candidates are not currently studying for a qualification, and do not already have one, they’re shown a page reminding them of the requirements.
 
 The page also:
 

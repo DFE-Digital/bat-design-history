@@ -42,19 +42,19 @@ This page contains a simple explaination of how a new provider can add their org
 
 ### Add and remove users
 
-In light of changing relationships due to ITT reforms, we wanted to make sure that users understood that they can now add and remove users themselves. We've provided a step-by-step guide on how to do it.
+In light of changing relationships due to ITT reforms, we wanted to make sure that users understood that they can now add and remove users themselves. We’ve provided a step-by-step guide on how to do it.
 
 ![Add and remove users](adding-and-removing-users.png)
 
 ### Change an accredited provider relationship
 
-If an accredited provider has not been reaccredited or if a training partner needs to form a new relationship, they will need to attach a different accredited provider to a course before can publish it. We've explained the process so that it is clear for users.
+If an accredited provider has not been reaccredited or if a training partner needs to form a new relationship, they will need to attach a different accredited provider to a course before can publish it. We’ve explained the process so that it is clear for users.
 
 ![Change an accredited provider relationship](changing-an-accredited-provider-relationship.png)
 
 ### Roll over courses to a new recruitment cycle
 
-Rollover can be a confusing concept for some users. To help providers understand the process, we've outlined what rollover is, given a description of some commonly used terms and explained when rollover happens.
+Rollover can be a confusing concept for some users. To help providers understand the process, we’ve outlined what rollover is, given a description of some commonly used terms and explained when rollover happens.
 
 ![Roll over courses to a new recruitment cycle](rolling-over-courses.png)
 

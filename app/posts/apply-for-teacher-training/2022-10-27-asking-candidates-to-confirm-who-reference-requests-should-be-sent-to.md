@@ -51,7 +51,7 @@ If a provider has made an offer with conditions, the summary card includes a ‘
 
 ### Details of offer
 
-![Screenshot showing page with the heading ‘Details of offer‘. There is a table showing the provider, course, salart, location and conditions for the offer. Under this is a note saying that if the candidate declines the offer or does not respond it time, they’ll be able to apply again. It also has a link to get help from a teacher training advisor. At the bottom of the page is the question ‘How do you want to respond to this offer?’ The options are ‘Accept offer and conditions’ or ‘Decline offer’. There's a green button to let the candidate continue after choosing an option.](offer-details.png)
+![Screenshot showing page with the heading ‘Details of offer‘. There is a table showing the provider, course, salart, location and conditions for the offer. Under this is a note saying that if the candidate declines the offer or does not respond it time, they’ll be able to apply again. It also has a link to get help from a teacher training advisor. At the bottom of the page is the question ‘How do you want to respond to this offer?’ The options are ‘Accept offer and conditions’ or ‘Decline offer’. There’s a green button to let the candidate continue after choosing an option.](offer-details.png)
 
 After the candidate clicks on the ‘respond to offer’ link, they’re taken to a page with details of the offer. This repeats the conditions but also shows additional details such as the fees or salary.
 
@@ -59,7 +59,7 @@ For an offer with conditions, this page also says “They’ll confirm your plac
 
 ### Asking candidates to confirm who can give them references
 
-![Screenshot showing page with the heading ‘Confirm your reference details and accept your offer’. The text under this expplains that the candidate can change the reference details before sending reference requests. There's a button to add details for another reference. Under that is a box for the details of each reference request, including name, type, email and how long the candidate has known them and for how long. There's a link to delete each set of details and links to change the individual details. At the bottom is a green button which says ‘Accept offer’.](confirm-reference-details.png)
+![Screenshot showing page with the heading ‘Confirm your reference details and accept your offer’. The text under this expplains that the candidate can change the reference details before sending reference requests. There’s a button to add details for another reference. Under that is a box for the details of each reference request, including name, type, email and how long the candidate has known them and for how long. There’s a link to delete each set of details and links to change the individual details. At the bottom is a green button which says ‘Accept offer’.](confirm-reference-details.png)
 
 We added a page with the h1 heading ‘Confirm your reference details and accept your offer’. It is very similar to the page used to [add reference details before submitting an application](/asking-candidates-for-reference-details-when-they-apply).
 

@@ -34,7 +34,7 @@ We conducted research with 2 participants with hearing impairments. As the servi
 
 ### Motor impairments
 
-We spoke to one participant with a motor impairment. They were a wheelchair user with MS, resulting in difficulty using their arms. Due to this, they found it challenging to use a desktop to complete the service, specifically when entering the teacher's reference number and date of birth. For this reason, they said they often use a mobile device.
+We spoke to one participant with a motor impairment. They were a wheelchair user with MS, resulting in difficulty using their arms. Due to this, they found it challenging to use a desktop to complete the service, specifically when entering the teacher’s reference number and date of birth. For this reason, they said they often use a mobile device.
 
 When struggling to complete the service on a desktop, we asked them to continue it on their mobile device for ease and comfort. They were able to complete the service quickly.
 

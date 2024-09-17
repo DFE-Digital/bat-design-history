@@ -74,7 +74,7 @@ The offer comes with the condition that Francis does a 12-week SKE course before
 
 12 weeks is all the time left before Francis starts her teacher training.
 
-![Illustration of a woman looking at a laptop. The laptop is showing her the offer she's received for a teacher training course.](offer-received.png)
+![Illustration of a woman looking at a laptop. The laptop is showing her the offer she’s received for a teacher training course.](offer-received.png)
 
 Francis starts to fret (again):
 
@@ -190,4 +190,4 @@ Francis loves her teacher training course, but she’s relearning things she did
 
 ## Sharing our work
 
-We shared this story with other user centered design professions and with policy colleagues. The team that run the SKE policy are bringing all the research done on SKE courses (including ours) to look at improvements to the policy at various stages in a user's journey.
+We shared this story with other user centered design professions and with policy colleagues. The team that run the SKE policy are bringing all the research done on SKE courses (including ours) to look at improvements to the policy at various stages in a user’s journey.

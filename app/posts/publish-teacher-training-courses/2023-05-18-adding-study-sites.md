@@ -193,7 +193,7 @@ We could combine the two sections called ‘Training locations’ and include a 
 
 ### Collecting other types of location
 
-Some providers offer online training as part of a trainee's theoretical studies. We have not included this in the current iteration as we need to:
+Some providers offer online training as part of a trainee’s theoretical studies. We have not included this in the current iteration as we need to:
 
 - understand the different online or remote training offered by providers
 - explore what information candidates need

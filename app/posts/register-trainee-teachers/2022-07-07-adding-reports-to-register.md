@@ -74,6 +74,6 @@ The ITT census does not include all trainees in ITT - there are a number of crit
 
 We’re still deciding whether to offer this census report - whether it’s relevant depends on what we ask users to ‘sign off’.
 
-Previously, they've been asked to only sign off their census data. This means data for new trainees and trainees not included in the ITT census (EYTS trainees and self funded trainees) do not get signed off at all and therefore could lead to inaccuracies if it's not checked.
+Previously, they’ve been asked to only sign off their census data. This means data for new trainees and trainees not included in the ITT census (EYTS trainees and self funded trainees) do not get signed off at all and therefore could lead to inaccuracies if it’s not checked.
 
 We would like to explore broadening the sign off to include all new trainees in an academic year.

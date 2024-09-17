@@ -81,7 +81,7 @@ Because users will:
 
 - [take responsibility](/apply-for-teacher-training/making-the-references-process-faster/#assigning-responsibility)
 - [have options](/apply-for-teacher-training/making-the-references-process-faster/#giving-options)
-- [know it's urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
+- [know it’s urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
 
 ### Examples of how the messaging works on the [interstitial page](/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
 
@@ -95,7 +95,7 @@ Because users will:
 
 > ((referee_name)) has not responded.
 
-> Add a new referee as soon as possible. Courses can become full at any time and providers do not consider applications without 2 references.
+> Add a new referee as soon as possible. Courses can become full at any time and providers don’t consider applications without 2 references.
 
 > Adding a new referee will not prevent ((referee_name)) from giving a reference. You can keep chasing ((referee_name)) if you know they’re planning on giving a reference.
 
@@ -114,7 +114,7 @@ Because users will:
 
 > You cancelled your request for a reference from ((referee_name)).
 
-> Add a new referee as soon as possible. Courses can become full at any time and providers do not consider applications without 2 references.
+> Add a new referee as soon as possible. Courses can become full at any time and providers don’t consider applications without 2 references.
 
 > [Add new referee]
 

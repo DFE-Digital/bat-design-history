@@ -340,7 +340,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Assessed at interview"],
-    notes: ["SCITTs/SDs we've recently spoken to haven’t expressed a need for this, but it’s something candidates sometimes like to mention"]
+    notes: ["SCITTs/SDs we’ve recently spoken to haven’t expressed a need for this, but it’s something candidates sometimes like to mention"]
   }
 }) }}
 
@@ -621,7 +621,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"],
-    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we'll include those in the text field too."]
+    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we’ll include those in the text field too."]
   }
 }) }}
 
@@ -640,7 +640,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Assessed at interview"],
-    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we'll include those in the text field too."]
+    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we’ll include those in the text field too."]
   }
 }) }}
 
@@ -832,7 +832,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "wants to see that candidate can demonstrate subject and curriculum knowledge at a sufficient level"
     }, {
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to enable “to create the student's DfE record”"
+      what: "requires this to enable “to create the student’s DfE record”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"]
@@ -893,7 +893,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     },
     why: [{
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to “create the student's DfE record.”"
+      what: "requires this to “create the student’s DfE record.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"]
@@ -915,7 +915,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "may be interested in calibre of the institution studied at"
     }, {
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to “create the student's DfE record.”"
+      what: "requires this to “create the student’s DfE record.”"
     }],
     what: ["Retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
@@ -941,7 +941,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "uses this to perform a [NARIC](https://www.naric.org.uk) check (they need confirmation from a the institution that they’ve actually obtained the degree they say they have)"
     }, {
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to “create the student's DfE record.”"
+      what: "requires this to “create the student’s DfE record.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"]
@@ -1563,7 +1563,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
-    notes: ["Some providers have indicated that they do not want arranging interviews complicated by candidate's needs/lives. That said, if there are dates the candidate absolutely cannot make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
+    notes: ["Some providers have indicated that they do not want arranging interviews complicated by candidate’s needs/lives. That said, if there are dates the candidate absolutely cannot make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
   }
 }) }}
 

@@ -20,7 +20,7 @@ We made this change in June 2023.
 
 Currently, candidates submit one application linked to 4 course choices. Before they submit their application, they answer a set of questions so that we can prevent discrimination in teacher training. The questions include asking:
 
-- a candidate's sex
+- a candidate’s sex
 - if a candidate has any disabilities or health conditions
 - a candidate’s ethnic background and ethnic group
 - if a candidate received free school meals when they went to school (we collect this internally and do not share this with training providers)
@@ -41,7 +41,7 @@ We included a line about how training providers would not see the answers to the
 
 On each question we also explained that training providers will not see these answers and not use them to make decisions.
 
-![Screenshot showing a question about a candidate's sex. The answers are radio selections of male, female, other and prefer not to say. There is also content explaining that training providers will not see the answer to this question.](guidance-text-equality-question.png)
+![Screenshot showing a question about a candidate’s sex. The answers are radio selections of male, female, other and prefer not to say. There is also content explaining that training providers will not see the answer to this question.](guidance-text-equality-question.png)
 
 On the question about if a candidate had free school meals when they were at school, we made the first line clearer to say training providers will never see the answer to this question.
 
@@ -57,7 +57,7 @@ We also removed the ‘Have you completed this section?’ question if they had 
 
 Before, showing the ‘Have you completed this section’ question.
 
-![Screenshot showing a summary list of each question users are asked. Next to each summary is the content saying ‘Not answered’ followed by a ‘Change’ link. Beneath the summary list is a question asking the user if they've completed this section yet.](equality-not-answered-with-question.png)
+![Screenshot showing a summary list of each question users are asked. Next to each summary is the content saying ‘Not answered’ followed by a ‘Change’ link. Beneath the summary list is a question asking the user if they’ve completed this section yet.](equality-not-answered-with-question.png)
 
 After, showing the removal of the ‘Have you completed this section’ question.
 

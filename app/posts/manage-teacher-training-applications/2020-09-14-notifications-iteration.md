@@ -67,7 +67,7 @@ This works well if the user is changing one notification at a time. But if they 
 If we let users change all notifications at the same time
 Then they’ll be able to change their settings more quickly
 
-Note: we thought about using toggle switches but decided to try this first instead as it's easier to build and far less risk. Toggle switches may be confusing and inaccessible without the right care.
+Note: we thought about using toggle switches but decided to try this first instead as it’s easier to build and far less risk. Toggle switches may be confusing and inaccessible without the right care.
 
 ![Screenshot of ‘Notification settings’ page.](settings-page.png "There’s a change link per organisational relationship")
 
@@ -127,11 +127,11 @@ Your organisation, Springbank SCITT, has the following notifications for Tuesday
 
 ### Reject by default deadline approaching
 
-- [Respond to James Sully's (YGC5A62) application](/)
+- [Respond to James Sully’s (YGC5A62) application](/)
 
 ### Automatically rejected: please give feedback
 
-- [Shaun Gaillard's (WLPJIOB) application was rejected automatically](/)
+- [Shaun Gaillard’s (WLPJIOB) application was rejected automatically](/)
 
 If you have any questions or to leave feedback, contact us at <becomingateacher@digital.education.gov.uk>.
 

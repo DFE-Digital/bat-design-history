@@ -55,7 +55,7 @@ For example: ‘Do you want to ask for help to become a teacher? – No’ is cl
 
 ## Not showing anything if the candidate was not asked
 
-We do not think it's a good idea to indicate questions which were not asked.
+We do not think it’s a good idea to indicate questions which were not asked.
 
 When replaying questions and answers in a service, it’s normal only to include those which were actually asked.
 
@@ -85,7 +85,7 @@ The safeguarding information is hidden to prevent an ‘over the shoulder’ pri
 
 But there’s a lot of other sensitive personal information within the application which is not hidden in this way. And we do not think there is much chance of a user using this service in a public place.
 
-That's why we have removed the ability to toggle the display of the safeguarding information. This will mean that users can see all relevant information at a glance.
+That’s why we have removed the ability to toggle the display of the safeguarding information. This will mean that users can see all relevant information at a glance.
 
 ## Generic wording for users without permission to view safeguarding information
 

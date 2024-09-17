@@ -11,7 +11,7 @@ Use a card layout to fit more information inside each row without sacrificing re
 
 ## Hypothesis
 
-Currently the [application list uses a table layout](/manage-teacher-training-applications/filtering-applications#application-list). We've been able to keep using a table because we:
+Currently the [application list uses a table layout](/manage-teacher-training-applications/filtering-applications#application-list). We’ve been able to keep using a table because we:
 
 - combined reference number with name to save space
 - combined provider with course to save space
@@ -27,7 +27,7 @@ But:
 
 If we use a card layout
 Then users will be able to see all of the information easily without scrolling horizontally
-We'll know this works when:
+We’ll know this works when:
 
-- Users can find the application they're looking for
+- Users can find the application they’re looking for
 - Users can get a sense of the status to help choose an application to work on

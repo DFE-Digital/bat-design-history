@@ -59,7 +59,7 @@ If we move links that are to do with user management and account preferences to 
 
 - Middlesex University
 - Nottinghamshire TORCH SCITT
-- Prince Henry's High School & South Worcestershire SCITT
+- Prince Henry’s High School & South Worcestershire SCITT
 - University of Bedfordshire
 - University College London
 

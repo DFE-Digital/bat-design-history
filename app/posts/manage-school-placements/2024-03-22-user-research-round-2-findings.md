@@ -50,7 +50,7 @@ Searching based on a trainee’s location was the most common scenario for parti
 
 The type of commute the trainee has can significantly affect the placement’s viability and satisfaction. So location-related placement information and functionality need to be more prominent, e.g., the school postcode visible in the search results (without needing to click through to the placement details screen), the ability to order search results by distance, and potentially a map view within the service.
 
-The tested prototype only allowed participants to search based on straight-line distances. Depending on the trainee's circumstances, ITT providers would need to check the travel time by car or public transport, so anything that can support or remove this separate task would be valuable.
+The tested prototype only allowed participants to search based on straight-line distances. Depending on the trainee’s circumstances, ITT providers would need to check the travel time by car or public transport, so anything that can support or remove this separate task would be valuable.
 
 > “Where we struggle sometimes is the ease with which somebody can get to work. The school might look close by, but there’s a big river in the way, so it’s not just always about the point-to-point distance – it’s the commutable distance. If they’re next to an exit of a motorway, then that distance could be quite far because they can travel a long way in a short period of time. Then you’ve got those that can’t drive and public transport options might make the nucleus quite small for that person. It sounds quite mundane and practical but it’s perhaps the biggest single thing that we have to battle with.”
 

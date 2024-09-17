@@ -57,7 +57,7 @@ Hosting placements and providing mentors for trainees does not mean a school is 
 
 ## What is a teaching school hub (TSH)?
 
-TSHs are centres of excellence for teacher training and development, led by some of the country's best schools and multi-academy trusts. The network of 87 TSHs has national coverage, ensuring every school in England has access to a centre of excellence.
+TSHs are centres of excellence for teacher training and development, led by some of the country’s best schools and multi-academy trusts. The network of 87 TSHs has national coverage, ensuring every school in England has access to a centre of excellence.
 
 TSHs play a significant role in delivering:
 

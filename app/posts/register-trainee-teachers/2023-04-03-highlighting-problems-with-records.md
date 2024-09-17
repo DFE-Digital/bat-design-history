@@ -78,7 +78,7 @@ Some of these trainees will still be on courses. This is fine but we’ll ask pr
 
 ## How it works
 
-To help users find and fix problems, we've:
+To help users find and fix problems, we’ve:
 
 - added a home page card
 - changed the filters on the registered trainees page

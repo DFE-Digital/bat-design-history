@@ -47,7 +47,7 @@ Page 17: The colour contrast of the declined (2.78:1) and offer (3.16:1) statuse
 
 This was [fixed by changing our tag styles to use different colours](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/1011). ([Trello](https://trello.com/c/VjHpGzot/694-dac-page-17-fix-colour-contrast-of-declined-and-offer-status-on-applications-page))
 
-Many government services create tag styles using white text on the darker colours of the GOV.UK design system palette. Our new design meets contrast ratios by using tints of those colours, for example heavy red text on a light red background. So that other government services can benefit, and so we can stay inline with the design system, we've begun the process of [contributing these designs back upstream to GOV.UK Frontend](https://github.com/alphagov/govuk-frontend/pull/1711).
+Many government services create tag styles using white text on the darker colours of the GOV.UK design system palette. Our new design meets contrast ratios by using tints of those colours, for example heavy red text on a light red background. So that other government services can benefit, and so we can stay inline with the design system, we’ve begun the process of [contributing these designs back upstream to GOV.UK Frontend](https://github.com/alphagov/govuk-frontend/pull/1711).
 
 Automated accessibility testing can usually highlight this type of issue, unless there are background images.
 
@@ -94,7 +94,7 @@ We fixed the following issues:
 - [Page 33: Add hidden content to "Change" links on Work History review (and other) page(s)](https://trello.com/c/XsqlA0hu/698-dac-page-33-add-hidden-content-to-change-links-on-work-history-review-and-other-pages)
 - [Page 41: Change headings on provider offer page so they are in a hierarchical order](https://trello.com/c/n0wiBbfB/699-dac-page-41-change-headings-on-provider-offer-page-so-they-are-in-a-hierarchical-order)
 
-And we're still tracking these:
+And we’re still tracking these:
 
 - [Page 31: Consider changing the links for teacher training in Wales, Scotland, Northern Ireland on candidate landing page](https://trello.com/c/BC5ZqfXT/697-dac-page-31-consider-changing-the-links-for-teacher-training-in-wales-scotland-northern-ireland-on-candidate-landing-page)
 
@@ -110,7 +110,7 @@ DAC highlighted a number of usability issues that although they were not WCAG fa
 - [Page 61: Add type="number" to "Graduation year" field in candidate degrees page](https://trello.com/c/QKnJCS65/708-dac-page-61-add-typenumber-to-graduation-year-field-in-candidate-degrees-page)
 - [Page 65: Add row headers to applications table in support](https://trello.com/c/8XjODzUS/709-dac-page-65-add-row-headers-to-applications-table-in-support)
 
-We're still tracking:
+We’re still tracking:
 
 - [Page 48: Consider adding (optional) to "County" field in contact details page](https://trello.com/c/eh1oT3xn/701-dac-page-48-consider-adding-optional-to-county-field-in-contact-details-page)
 

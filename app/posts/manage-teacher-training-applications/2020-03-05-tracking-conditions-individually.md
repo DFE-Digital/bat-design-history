@@ -23,7 +23,7 @@ screenshots:
 Providers track and update the status of conditions using spreadsheets because we do not allow for this in the UI. But spreadsheets are laborious and onerous.
 
 If we let providers update the status of conditions individually
-Then they'll be able to process applications more quickly and accurately
+Then they’ll be able to process applications more quickly and accurately
 
 ## User needs
 

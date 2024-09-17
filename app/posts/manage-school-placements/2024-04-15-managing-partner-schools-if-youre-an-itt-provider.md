@@ -234,7 +234,7 @@ We considered some changes that we did not implement. These included:
 
 ### Emailing schools when a provider adds them as a partner
 
-Providers can add schools without the school's agreement. While schools can see the partner provider in their part of the service, we will also email all school users to ensure they know the new relationship. However, emailing school users is only possible if the school uses the service.
+Providers can add schools without the school’s agreement. While schools can see the partner provider in their part of the service, we will also email all school users to ensure they know the new relationship. However, emailing school users is only possible if the school uses the service.
 
 Since schools can remove provider partnerships, notifying schools will allow them to regulate their partnerships.
 

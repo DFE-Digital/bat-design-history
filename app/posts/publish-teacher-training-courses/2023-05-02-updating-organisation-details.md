@@ -65,7 +65,7 @@ Users cannot change the provider name, provider code and accredited provider ID 
 
 ### Organisation contact details
 
-Every course published on Find postgraduate teacher training (Find) shows an organisation's contact details. They must keep this information up to date.
+Every course published on Find postgraduate teacher training (Find) shows an organisation’s contact details. They must keep this information up to date.
 
 The organisation’s contact details section includes:
 

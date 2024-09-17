@@ -121,7 +121,7 @@ The user cannot edit the course details if the course is in the ‘withdrawn’ 
 
 ### Course preview
 
-We have renamed the course preview's ‘School placements’ section to ‘Training locations’.
+We have renamed the course preview’s ‘School placements’ section to ‘Training locations’.
 
 The section includes:
 
@@ -147,7 +147,7 @@ We considered some changes that we did not implement. These included:
 
 ### Selecting other types of ‘Study site’
 
-Some providers offer online training as part of a trainee's theoretical studies. We have not included this in the current iteration as we need to:
+Some providers offer online training as part of a trainee’s theoretical studies. We have not included this in the current iteration as we need to:
 
 - understand the different online or remote training offered by providers
 - explore what information candidates need

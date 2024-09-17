@@ -52,7 +52,7 @@ We’re not asking for a reason for withdrawing the application because:
 
 We do have a concern that some providers may withdraw an application instead of rejecting it. If this happens, we may explore capturing a reason as a potential solution.
 
-We'll look out for unexpectedly high levels of use of this new feature.
+We’ll look out for unexpectedly high levels of use of this new feature.
 
 ## Emails
 

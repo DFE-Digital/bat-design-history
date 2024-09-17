@@ -37,7 +37,7 @@ It was also positioned lower down within the personal statement section in order
 
 Safeguarding information needs to be accessed after the application has been reviewed and sifted. The specifics of the application are less relevant to the continued processing. Whereas information about safeguarding will be needed up until the point of enrolment.
 
-Therefore, it makes more sense to put safeguarding information to be in a place that's distinct and easy to spot. Putting it toward the top is the simplest way to do this.
+Therefore, it makes more sense to put safeguarding information to be in a place that’s distinct and easy to spot. Putting it toward the top is the simplest way to do this.
 
 If the section is labelled ‘Criminal convictions and professional misconduct’ and displayed toward the top
 Then providers will understand it and be able to get to it more easily
@@ -46,10 +46,10 @@ Then providers will understand it and be able to get to it more easily
 
 ### Layout of work history and unpaid experience sections
 
-Previously these sections were [designed with collapsed sections](/manage-teacher-training-applications/offer-panel#offer-panel-new) but only [launched as a summary list](/manage-teacher-training-applications/as-launched-26-nov-2019#application-with-offer) which is quite hard to read and means users have to click to reveal the content. It's also quite different to the way most CVs are laid out.
+Previously these sections were [designed with collapsed sections](/manage-teacher-training-applications/offer-panel#offer-panel-new) but only [launched as a summary list](/manage-teacher-training-applications/as-launched-26-nov-2019#application-with-offer) which is quite hard to read and means users have to click to reveal the content. It’s also quite different to the way most CVs are laid out.
 
 If the sections are laid using headings and paragraphs
-Then it'll be more familiar, easier to read and will not need to be revealed
+Then it’ll be more familiar, easier to read and will not need to be revealed
 
 ![Screenshot of ‘Work history’ section of application form.](work-history.png)
 
@@ -57,10 +57,10 @@ Then it'll be more familiar, easier to read and will not need to be revealed
 
 Previously the [personal statement used a summary list](/manage-teacher-training-applications/offer-panel#offer-panel-new). But this is problematic because:
 
-- there's limited space in the right column to fit the content nicely
-- there's not enough space in the left column to explain what the candidate's view is
+- there’s limited space in the right column to fit the content nicely
+- there’s not enough space in the left column to explain what the candidate’s view is
 
-If the sections are laid out with simple headings, paragraphs and sensible line lengths, then it'll be easy to read
+If the sections are laid out with simple headings, paragraphs and sensible line lengths, then it’ll be easy to read
 
 ![Screenshot of ‘Personal statement’ section of application form.](personal-statement.png)
 
@@ -68,10 +68,10 @@ If the sections are laid out with simple headings, paragraphs and sensible line 
 
 Previously the [references section put multiple answers in one row and used inset text to signify the details the referee gave](/apply-for-teacher-training/give-a-reference-second-iteration#provider-view-with-amended-relationshipw).
 
-But putting multiple answers in one row could confuse users—especially screen reader users—who expect the row's key to describe the row's value. And it may not be clear what the inset text signifies even if it is noticed.
+But putting multiple answers in one row could confuse users—especially screen reader users—who expect the row’s key to describe the row’s value. And it may not be clear what the inset text signifies even if it is noticed.
 
 If we use one row per question
-Then the row's key will clearly describe the row's value so users will understand it
+Then the row’s key will clearly describe the row’s value so users will understand it
 
 ![Screenshot of ‘First referee’ section of application form.](references.png)
 
@@ -102,7 +102,7 @@ If the status banner is used then it:
 - will use a more suitable pattern
 - will make the respond by date more consistent
 
-We'll know this works when:
+We’ll know this works when:
 
 - users spot the banner and click on ‘Respond to application’
 

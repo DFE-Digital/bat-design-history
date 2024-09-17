@@ -18,7 +18,7 @@ Users have to rely on the ‘Changed’ line along with any note’s subject (if
 
 Also, letting users sort by ‘days left to respond’ is only applicable to applications in the submitted state.
 
-If we focus the application list around what needs doing as opposed to what's changed then users will spend less time having to configure the list to meet their needs
+If we focus the application list around what needs doing as opposed to what’s changed then users will spend less time having to configure the list to meet their needs
 
 If we give users an activity log to see what’s changed then users who are processing applications this way will see a dedicated page to support this way of working.
 

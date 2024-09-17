@@ -75,7 +75,7 @@ The options for grade are:
 
 #### No GCSE or equivalent qualification
 
-Candidates who do not have a GCSE or equivalent qualification are if they're currently studying for a GCSE or equivalent in the subject.
+Candidates who do not have a GCSE or equivalent qualification are if they’re currently studying for a GCSE or equivalent in the subject.
 
 If they’re studying for it, they’re asked to enter details of the qualification they’re studying for.
 

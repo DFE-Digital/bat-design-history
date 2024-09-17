@@ -128,7 +128,7 @@ Selecting the start month of the placement worked well.
 
 The process of calculating placement duration varied amongst the participants. Many providers will guess. All participants manually counted using a calendar.
 
->“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I'd have to do it three times. It's just more work.”—Round 5 P2 (SCITT)
+>“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I'd have to do it three times. It’s just more work.”—Round 5 P2 (SCITT)
 
 ### Confirm placement details
 
@@ -161,7 +161,7 @@ We need to better understand why our data consumers want to know this data/what 
 - include a search that allows for school name, postcode or URN
 - if we decide to pursue collect dates, we will also need to collect the year the placement started
 - give our users’ confidence by adding a location name, URN and postcode on the confirmation page
-- there is no list of locations for EY placements in DTTP. Instead we need to collect the setting’s names (nursery, childminder, children's centre), postcode and potentially URNs as free text fields
+- there is no list of locations for EY placements in DTTP. Instead we need to collect the setting’s names (nursery, childminder, children’s centre), postcode and potentially URNs as free text fields
 
 ## Concerns with collecting placement details
 

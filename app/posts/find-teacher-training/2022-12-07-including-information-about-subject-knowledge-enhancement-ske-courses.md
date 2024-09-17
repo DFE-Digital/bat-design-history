@@ -25,7 +25,7 @@ We changed the content in the ‘Entry requirements’ section on Find and added
 
 We now include:
 
-> If your degree is not in [subject], or you've not used your subject knowledge in a while, you may be asked to complete a [subject knowledge enhancement (SKE) course](https://getintoteaching.education.gov.uk/train-to-be-a-teacher/subject-knowledge-enhancement).
+> If your degree is not in [subject], or you’ve not used your subject knowledge in a while, you may be asked to complete a [subject knowledge enhancement (SKE) course](https://getintoteaching.education.gov.uk/train-to-be-a-teacher/subject-knowledge-enhancement).
 
 Since SKE is only available for specific subjects, we only show this content if the subject is:
 

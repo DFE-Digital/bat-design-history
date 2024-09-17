@@ -48,10 +48,10 @@ We considered:
 But we decided not to make these changes because:
 
 - the design and branding makes it clear that our service is related to the ‘Apply for teacher training’ service
-- there's only one service on GOV.UK, which is for the postgraduate route
+- there’s only one service on GOV.UK, which is for the postgraduate route
 - the marketing page does not mention ‘postgraduate’
 
-We'll monitor support queries to see whether users are confused by this after we change to the new start page format.
+We’ll monitor support queries to see whether users are confused by this after we change to the new start page format.
 
 ### Creating a start page on GOV.UK
 

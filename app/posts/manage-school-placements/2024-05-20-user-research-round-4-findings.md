@@ -38,13 +38,13 @@ We tested the ‘Add support user’, ‘Add organisation’ and ‘Add user to 
 
 ### Insight 1
 
-It's clear how to use the features available to support users (adding/removing support users, adding organisations and adding/removing organisation users) and these work in a very similar way to other DfE services which is welcomed.
+It’s clear how to use the features available to support users (adding/removing support users, adding organisations and adding/removing organisation users) and these work in a very similar way to other DfE services which is welcomed.
 
 #### Supporting detail and evidence
 
-> “It's easy to navigate, easy to add people, add organisations, remove people. All of that's easy and simple.”
+> “It’s easy to navigate, easy to add people, add organisations, remove people. All of that’s easy and simple.”
 
-> “It’s really well laid out. It's very similar to Manage and Publish, and I think our agents will find it quite a clear process because it looks the same – the layout of it.”
+> “It’s really well laid out. It’s very similar to Manage and Publish, and I think our agents will find it quite a clear process because it looks the same – the layout of it.”
 
 ### Insight 2
 
@@ -79,7 +79,7 @@ On the Publish teacher training courses service, there have been issues with hav
 
 #### Supporting detail and evidence
 
-One of the participants mentioned that, in some instances, accredited providers have contacted support saying that they do not work with an organisation that has said they're a lead partner.
+One of the participants mentioned that, in some instances, accredited providers have contacted support saying that they do not work with an organisation that has said they’re a lead partner.
 
 ## Hypotheses to test
 

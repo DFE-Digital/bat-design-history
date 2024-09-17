@@ -14,7 +14,7 @@ In March we started collecting equality and diversity information from candidate
 
 We’ll only make this information available to providers once an application is complete.
 
-We're also introducing a new permission to provider accounts so that only those with ’view diversity information’ permission will be able to view the results.
+We’re also introducing a new permission to provider accounts so that only those with ’view diversity information’ permission will be able to view the results.
 
 This means that for most people looking at most applications, they will not be able to see the diversity information.
 

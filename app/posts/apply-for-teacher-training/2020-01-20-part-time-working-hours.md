@@ -36,7 +36,7 @@ So that I can make a decision about their suitability to be a teacher"
 
 ### Context
 
-UCAS asks for working hours for all jobs. We're not sure if this is necessary, because:
+UCAS asks for working hours for all jobs. We’re not sure if this is necessary, because:
 
 - the difference between 20 and 22 hours, for example, is not significant
 - a full time job shows a level of commitment, whether it was 37 hours or 40 hours
@@ -48,14 +48,14 @@ UCAS asks for working hours for all jobs. We're not sure if this is necessary, b
 - **Then** it will be easier for candidates to fill out the application form
 **Because** they will not have to find out the number of hours they worked in each job
 
-- **Then** providers will still have the information they need to make decisions on a candidate's application
-**Because** the working pattern will give a detailed picture of a candidate's work history
+- **Then** providers will still have the information they need to make decisions on a candidate’s application
+**Because** the working pattern will give a detailed picture of a candidate’s work history
 
 ### How will we know this works?
 
 We’ll know this works when candidates can describe their part time jobs in a way that’s useful for providers.
 
-We've updated the design (refer to screenshots below) to include a field for candidates to enter their working pattern. We'll see if this works by:
+We’ve updated the design (refer to screenshots below) to include a field for candidates to enter their working pattern. We’ll see if this works by:
 
 - testing it with candidates to see if they understand what kind of information to give
 - testing it with teacher training providers to see if this gives them the information they need

@@ -61,7 +61,7 @@ In general, the guidance shown was well understood and seen as supportive, usefu
 > It’s very useful. Having things pop up to kind of give you little pieces of advice… that’s very good, I’d say.
 > – Career changer
 
-> It's almost like a supportive push… if you haven’t done it right. It’s prompting me to go and find out and get some.
+> It’s almost like a supportive push… if you haven’t done it right. It’s prompting me to go and find out and get some.
 > – Educational worker
 
 > I feel like some actions need to be taken here.

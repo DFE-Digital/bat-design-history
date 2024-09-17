@@ -1,6 +1,6 @@
 ---
 title: "Setting user permissions: context and user research"
-description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here's how we arrived at our designs
+description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here’s how we arrived at our designs
 date: 2020-05-18
 ---
 <!-- markdownlint-disable MD051 -->
@@ -16,7 +16,7 @@ How can we go about achieving this in the Manage service?
 - [The initial problem statement](#the-initial-problem-statement)
 - [Context and guidance](#context-and-guidance)
   - [How UCAS works](#how-ucas-works)
-  - [Research we've done](#research-we%E2%80%99ve-done)
+  - [Research we’ve done](#research-we%E2%80%99ve-done)
   - [User needs](#user-needs)
   - [Options analysis session](#options-analysis-session)
   - [Designs, research and iterations](#designs%2C-research-and-iterations)
@@ -91,7 +91,7 @@ Our default setting is that all users with access to Manage teacher training app
 For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs)
 
 - [How UCAS works](#how-ucas-works)
-- [Research we've done](#research-we%E2%80%99ve-done)
+- [Research we’ve done](#research-we%E2%80%99ve-done)
 - [User needs](#user-needs)
 - [Options analysis session](#options-analysis-session)
 - [Designs, research and iterations](#designs%2C-research-and-iterations)
@@ -254,7 +254,7 @@ So that we can decide how to progress the application"
 
 - [Share an application with decision makers](https://trello.com/c/MunTJ6wX/67-share-an-application-with-decision-makers)
 - [Have access to the application form before and during the interview process](https://trello.com/c/T1mspQpA/89-need-to-have-access-to-the-application-form-before-and-during-the-interview-process)
-- [Interview panelists know enough about the candidate's application to be useful in the interview](https://trello.com/c/f2fqLASM/82-interview-panelists-know-enough-about-the-candidates-application-to-be-useful-in-the-interview)
+- [Interview panelists know enough about the candidate’s application to be useful in the interview](https://trello.com/c/f2fqLASM/82-interview-panelists-know-enough-about-the-candidates-application-to-be-useful-in-the-interview)
 
 #### Shared decision-making
 
@@ -403,7 +403,7 @@ We have a good level of confidence in the understanding and the data that sits b
 
 ### Policy
 
-From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that do not provide the course have complete management responsibilities over that provider's applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
+From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that do not provide the course have complete management responsibilities over that provider’s applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
 
 There is a decision to be made whether we want to allow this SCITT to have complete access to set up their School Direct organisational permissions (the current Publish model). An alternative is to default to assigning all organisational permissions to the provider of the course. This could be done during on-boarding. Each option has pros and cons and an impact on the on-boarding journey into Apply which we will need to discuss.
 

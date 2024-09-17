@@ -53,7 +53,7 @@ We added a new section about nationality and residency:
 
 The first question asks for your nationality:
 
-![Screenshot showing the question 'What's your nationality?'](your-nationality.png)
+![Screenshot showing the question 'What’s your nationality?'](your-nationality.png)
 
 The nationality question was previously located in the ‘personal information’ section:
 
@@ -103,7 +103,7 @@ We only ask about the full list of places if you answer ‘No’:
 
   We listed the places as checkboxes to try to make the question easy to answer.
 
-  It does not matter to the provider precisely which places from the list you've been living in - they all make you eligible for home fees (except 'Somewhere else').
+  It does not matter to the provider precisely which places from the list you’ve been living in - they all make you eligible for home fees (except 'Somewhere else').
 
   So in listing the places as checkboxes we’re asking for more data than we need in favour of usability.
 
@@ -128,7 +128,7 @@ This is because you’re unlikely to be eligible for home fees if you’ve lived
   </summary>
   <div class="govuk-details__text">
 
-If you've lived outside the listed places temporarily, for example for a gap year, you’re still likely to be eligible for home fees.
+If you’ve lived outside the listed places temporarily, for example for a gap year, you’re still likely to be eligible for home fees.
 
 In this question we discourage candidates from treating gap years as time spent away:
 
@@ -153,7 +153,7 @@ So, in addition to nationality, we need to find out about a candidate’s immigr
 
 If you do not select British or Irish in the nationality question, we ask whether you have the right to work in the UK:
 
-![Screenshot showing the question 'What's your nationality?' when 'Other' and 'French' are selected](nationality-other.png)
+![Screenshot showing the question 'What’s your nationality?' when 'Other' and 'French' are selected](nationality-other.png)
 
 ![Screenshot showing the question 'Do you already have the right to work or study in the UK for the duration of this course?'](right-to-work-in-uk.png)
 
@@ -180,11 +180,11 @@ You can find out more about this warning message in our entry about [moving the 
 
 If you say ‘Yes’, we ask for your immigration status:
 
-![Screenshot showing the question 'What's your immigration status?'](immigration-status-eu-settled.png)
+![Screenshot showing the question 'What’s your immigration status?'](immigration-status-eu-settled.png)
 
 Selecting both an EU nationality like ‘French’ and ‘EU settled status’ takes you to the [UK or Ireland question](uk-or-ireland.png).
 
-You're now on the same path as British/Irish nationals (saying 'Yes' takes you to the check answers page; saying 'No' takes you to the same [list of places that British/Irish nationals see](british-irish-list.png).
+You’re now on the same path as British/Irish nationals (saying 'Yes' takes you to the check answers page; saying 'No' takes you to the same [list of places that British/Irish nationals see](british-irish-list.png).
 
 ## EU nationals with EU pre-settled status
 
@@ -213,11 +213,11 @@ So candidates who [select an EU nationality](nationality-other.png) like ‘Fren
   </summary>
   <div class="govuk-details__text">
 
-  If you select a nationality that is not an EU nationality, and you also select 'EU settled status' or 'EU pre-settled status', you go straight to the check answers page rather than being asked about where you've been living.
+  If you select a nationality that is not an EU nationality, and you also select 'EU settled status' or 'EU pre-settled status', you go straight to the check answers page rather than being asked about where you’ve been living.
 
-  This is because you can only be eligible for home fees with settled or pre-settled status if you're an EU national.
+  This is because you can only be eligible for home fees with settled or pre-settled status if you’re an EU national.
 
-  (It's possible to have EU settled or pre-settled status without an EU nationality.)
+  (It’s possible to have EU settled or pre-settled status without an EU nationality.)
 
   </div>
   </details>
@@ -242,7 +242,7 @@ So candidates who select ‘Indefinite leave to remain’ or ‘Right of abode�
 
 We list only the immigration statuses which are most likely to make you eligible for home fees, and include 'Another immigration status' to capture other cases:
 
-![Screenshot showing the question 'What's your immigration status?' when 'Another immigration status' is selected.](another-immigration-status.png)
+![Screenshot showing the question 'What’s your immigration status?' when 'Another immigration status' is selected.](another-immigration-status.png)
 
 For example, if a candidate is a refugee or holder of humanitarian protection, they may also be eligible for home fees. The text box allows candidates to elaborate on their immigration status.
 
@@ -260,12 +260,12 @@ The 'Nationality and residency' section was not implemented due to changing prio
 
 If we reprioritise this work, we should test it with both candidates and providers.
 
-The design is intended to support providers, rather than candidates. It could introduce a barrier for candidates, as it means they have more questions to answer - and giving details about where they've been living may be off-putting for some.
+The design is intended to support providers, rather than candidates. It could introduce a barrier for candidates, as it means they have more questions to answer - and giving details about where they’ve been living may be off-putting for some.
 
 We tried to keep candidate questions to a minimum to reduce this burden (we think most people will only need to answer 2 questions).
 
-As a result, the design will not give providers everything they need to know to make an assessment of fee status. It's merely intended to reduce the burden that providers currently experience in collecting this information off the service - signalling when further questions need to be asked.
+As a result, the design will not give providers everything they need to know to make an assessment of fee status. It’s merely intended to reduce the burden that providers currently experience in collecting this information off the service - signalling when further questions need to be asked.
 
-If we implement this design we need to ensure that it's clear on the provider interface that candidates' answers to these questions will not necessarily be enough to assess their fee status.
+If we implement this design we need to ensure that it’s clear on the provider interface that candidates' answers to these questions will not necessarily be enough to assess their fee status.
 
 We also need to assess whether it gives providers enough detail to have value. Otherwise, it does not merit the additional burden for candidates.

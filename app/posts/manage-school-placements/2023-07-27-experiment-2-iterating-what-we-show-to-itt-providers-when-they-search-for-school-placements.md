@@ -229,7 +229,7 @@ We considered some changes that we did not implement. These included:
 
 ### DfE Sign-in
 
-We assume the service's ‘manage school placements’ side will be behind a DfE Sign-in screen. However, this is not necessarily true of a ‘find a school placement’ service.
+We assume the service’s ‘manage school placements’ side will be behind a DfE Sign-in screen. However, this is not necessarily true of a ‘find a school placement’ service.
 
 We must determine whether the ‘find a school placement’ service needs to be behind a DfE Sign-in.
 

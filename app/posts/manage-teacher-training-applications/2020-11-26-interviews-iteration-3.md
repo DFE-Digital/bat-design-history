@@ -51,7 +51,7 @@ Previous iterations:
 
 Interviews are grouped by date to make it easier to scan them. Only the most crucial information is shown for the same reason.
 
-Users can click an interview for more information such as the candidate's interview preferences and additional details added by the provider.
+Users can click an interview for more information such as the candidate’s interview preferences and additional details added by the provider.
 
 The organisation shown under the course is the one which is running the interview.
 
@@ -89,13 +89,13 @@ The time hint now provides a range of example times including how to enter midda
 
 The label for ‘Organisation’ has been changed to ‘Organisation carrying out the interview’ which is much clearer.
 
-The label for ‘Location’ has been changed to ‘Address or online meeting details’ to make it clear what it's used for without relying on hint text.
+The label for ‘Location’ has been changed to ‘Address or online meeting details’ to make it clear what it’s used for without relying on hint text.
 
 The ‘Additional details’ field has now been marked as optional.
 
 ### Set up and change interview check answers pages
 
-The `h1` has changed from ‘Check and confirm interview’ to ‘Check and send interview’ so it's clearer that details will be sent to the candidate. We therefore removed the warning text which explained that an email will be sent.
+The `h1` has changed from ‘Check and confirm interview’ to ‘Check and send interview’ so it’s clearer that details will be sent to the candidate. We therefore removed the warning text which explained that an email will be sent.
 
 The same goes for the button’s label, which has been changed from ‘Confirm interview’ to ‘Send interview details’.
 
@@ -105,7 +105,7 @@ The success message now says ‘Interview set up’ and uses the new [notificati
 
 ### Cancelling an interview form
 
-The label for the reason for cancellation has been changed from ‘Tell the candidate why you’re cancelling the interview’ to ‘Reason for cancelling interview’. It's more concise and makes error messages easier to read.
+The label for the reason for cancellation has been changed from ‘Tell the candidate why you’re cancelling the interview’ to ‘Reason for cancelling interview’. It’s more concise and makes error messages easier to read.
 
 ### Cancelling an interview check answers page
 
@@ -197,7 +197,7 @@ The details are as follows:
 >
 > Give your name at reception when you arrive and someone will collect you.
 >
-> There will be a panel interview in the morning, which should take around an hour. We'll take a break for lunch then there will be a two-hour exercise to complete in the afternoon.
+> There will be a panel interview in the morning, which should take around an hour. We’ll take a break for lunch then there will be a two-hour exercise to complete in the afternoon.
 
 Contact ((provider)) if you have any questions or you will not be able to attend the interview.
 
@@ -247,7 +247,7 @@ Contact <becomingateacher@digital.education.gov.uk> if you have problems applyin
 
 ((provider)) has cancelled the interview on 4 January 2021 at 11am about your application to study Mathematics.
 
-They've given the following reason for cancelling the interview:
+They’ve given the following reason for cancelling the interview:
 
 > You contacted us to say you didn’t want to apply for this course any more.
 

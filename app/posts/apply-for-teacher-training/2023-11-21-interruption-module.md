@@ -43,7 +43,7 @@ We conducted user research sessions in November 2023. We found that:
 
 - users were attracted to read the message because ‘graphically it stood out’.
 
-> "as someone who does have bad eyesight it's visually clear to see." - research participant 4
+> "as someone who does have bad eyesight it’s visually clear to see." - research participant 4
 
 - most users were drawn to the statistic ‘90% of successful candidates write about 500 words or more’.
 

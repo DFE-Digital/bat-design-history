@@ -11,7 +11,7 @@ In 2023, we produced two [performance reports](/manage-teacher-training-applicat
 
 For 2024, we made this report dynamic and refreshed it weekly on Monday. This means providers can continually monitor their performance and better understand applications, withdrawals, rejections, and deferrals throughout the year. We hope that having access to this data will encourage providers to use it in their decision-making about the recruitment journey, improving the candidate experience and supporting their wider recruitment strategies.
 
-This year's data is focused on candidates rather than applications. This change came from feedback on the 2023 report stating that a single candidate could make 4 applications and only one could be accepted, but the data would show three rejections. This gives an unfairly negative view of the situation.
+This year’s data is focused on candidates rather than applications. This change came from feedback on the 2023 report stating that a single candidate could make 4 applications and only one could be accepted, but the data would show three rejections. This gives an unfairly negative view of the situation.
 
 For this report, the data measures candidates, not applications.
 

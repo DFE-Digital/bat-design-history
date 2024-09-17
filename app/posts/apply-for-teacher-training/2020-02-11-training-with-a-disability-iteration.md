@@ -61,7 +61,7 @@ Then a candidate will feel more comfortable providing an answer
 
 The original design used content largely adapted from that used on the Get Into Teaching website.
 
-If the guidance states that it's against the law for a provider to discriminate against candidates with access needs
+If the guidance states that it’s against the law for a provider to discriminate against candidates with access needs
 Then a candidate will feel more comfortable providing an answer
 
 ## Findings

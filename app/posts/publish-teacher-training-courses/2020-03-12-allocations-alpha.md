@@ -71,7 +71,7 @@ We prototyped and tested features to:
 
 ## Who we tested with
 
-- Bishop's Stortford Educational Trust (Training Director)
+- Bishop’s Stortford Educational Trust (Training Director)
 - Brunel University London (Acting College Education Manager)
 - Chipping Hill Essex (Headteacher)
 - City College Norwich (Teaching Centre Director)

@@ -110,4 +110,4 @@ Our decision about this will also be influenced by the work being done to consid
 
 ### Showing reports for current and previous cycles
 
-We do not have complete data for the previous cycle since many applications were made through UCAS. We therefore think it will not be useful to show the previous cycle's data.
+We do not have complete data for the previous cycle since many applications were made through UCAS. We therefore think it will not be useful to show the previous cycle’s data.

@@ -48,7 +48,7 @@ We could automatically import all applications with conditions pending. This wou
 
 We do not think this is the right thing to do because:
 
-- providers do not normally need to register trainees before they've met all their offer conditions
+- providers do not normally need to register trainees before they’ve met all their offer conditions
 - around 45% of candidates who have conditions pending status at the end of a recruitment cycle do not go on to start training
 - changes can still be made in Manage to applications with conditions pending status, so Register might have the wrong data unless we do additional work to maintain synchronisation between the records
 - it would mean that records would exist simultaneously in Manage and Register for much longer, with potential for increased confusion about where users should make changes

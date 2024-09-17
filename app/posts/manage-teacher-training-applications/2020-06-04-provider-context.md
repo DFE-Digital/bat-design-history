@@ -20,7 +20,7 @@ When candidates fail to enter all their relevant qualifications, providers worry
 
 When candidates disclose sensitive information, providers are not sure if they understand the implications/what they are being asked.
 
-When candidates 'get things wrong' in other ways, providers do not know if it's because the guidance is unclear.
+When candidates 'get things wrong' in other ways, providers do not know if it’s because the guidance is unclear.
 
 If we show providers the guidance and questions to candidates in context, as they read an application, we can help them understand the candidate response
 

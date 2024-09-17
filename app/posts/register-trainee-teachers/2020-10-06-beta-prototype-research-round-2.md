@@ -254,7 +254,7 @@ Users easily understood and completed the process of deferring and reinstating t
 
 The terminology seems clear (deferred = dormant, reinstate = return onto course).
 
-Reinstatement of a deferred trainee and extension of one's course both mean that the trainee becomes part of the current cohort.
+Reinstatement of a deferred trainee and extension of one’s course both mean that the trainee becomes part of the current cohort.
 
 > “We would update it within a couple of days because it affects bursaries and funding.”
 

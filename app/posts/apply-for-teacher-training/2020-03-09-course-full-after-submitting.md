@@ -64,7 +64,7 @@ As we do not know, we can suggest they edit their choices but without much convi
 
 We could also suggest they contact the provider, but time is also an element here – the candidate will have between 1 and 7 days to make their edits.
 
-We also do not know how important the course is to a candidate – if it's their first choice, they might want to take a risk and submit their application anyway.
+We also do not know how important the course is to a candidate – if it’s their first choice, they might want to take a risk and submit their application anyway.
 
 ## Example email
 

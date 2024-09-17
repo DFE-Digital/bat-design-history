@@ -6,10 +6,10 @@ tags:
   - personal statement
 ogImage:
   src: personal-statement-cover.png
-  alt: "Illustration showing a screen with text telling the user that any changes they make to their personal statement will not be included in any application they've already submitted. The image also shows a preview of a presonal statement and a question asking the user if they've completed the section."
+  alt: "Illustration showing a screen with text telling the user that any changes they make to their personal statement will not be included in any application they’ve already submitted. The image also shows a preview of a presonal statement and a question asking the user if they’ve completed the section."
 ---
 
-![Illustration showing a screen with text telling the user that any changes they make to their personal statement will not be included in any application they've already submitted. The image also shows a preview of a presonal statement and a question asking the user if they've completed the section.](personal-statement-cover.png)
+![Illustration showing a screen with text telling the user that any changes they make to their personal statement will not be included in any application they’ve already submitted. The image also shows a preview of a presonal statement and a question asking the user if they’ve completed the section.](personal-statement-cover.png)
 
 As part of our work to [change the application process](/apply-for-teacher-training/changing-application-process/), we designed and tested 2 ideas for how users would write their personal statement in the 2023 to 2024 recruitment cycle.
 
@@ -67,7 +67,7 @@ The candidate can submit their first application.
 
 When they start their second application, we copy the first personal statement they wrote to the next application and tell them they can edit it further.
 
-![Screenshot showing the personal statement question. There is inset text to tell the candidate that we've copied over their previous personal statement and they can edit it if they want to.](second-personal-statement.png)
+![Screenshot showing the personal statement question. There is inset text to tell the candidate that we’ve copied over their previous personal statement and they can edit it if they want to.](second-personal-statement.png)
 
 Once the personal statement is edited, the candidate can submit their second application.
 
@@ -85,7 +85,7 @@ This personal statement would act as a ‘master version’.
 
 ![Screenshot showing the personal statement question where the candidate can write their 'master' version of their statement.](master-personal-statement.png)
 
-Once they've written their statement, they can review it and mark the section as complete.
+Once they’ve written their statement, they can review it and mark the section as complete.
 
 ![Screenshot showing the review page before a candidate marks the personal statement section as complete.](master-statement-review.png)
 
@@ -95,7 +95,7 @@ When a candidate is ready to add their applications on the ‘Your applications�
 
 Once a candidate chooses a training provider and a course, we would copy their ‘master version’ of the personal statement and tell them they could tailor it.
 
-![Screenshot of the personal statement question in the 'Your applications' tab. There is inset text telling the candidate we've copied their 'master' version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-statement-first-application.png)
+![Screenshot of the personal statement question in the 'Your applications' tab. There is inset text telling the candidate we’ve copied their 'master' version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-statement-first-application.png)
 
 The candidate can then review their course and statement and submit their application.
 
@@ -103,9 +103,9 @@ The candidate can then review their course and statement and submit their applic
 
 When they add a second application, we would copy the master version over again. This means the master version would stay the same, but for each application, the candidate could tailor their statement further from the master version.
 
-![Screenshot of the personal statement question in the 'Your applications' tab. For the candidates second application, we show inset text again telling the candidate we've copied their 'master' version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-second-application.png)
+![Screenshot of the personal statement question in the 'Your applications' tab. For the candidates second application, we show inset text again telling the candidate we’ve copied their 'master' version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-second-application.png)
 
-Once they've tailored their statement again, they can review and submit their application.
+Once they’ve tailored their statement again, they can review and submit their application.
 
 ![Screenshot of the review page before a candidate submits their second application.](edit-master-second-application-review.png)
 
@@ -137,7 +137,7 @@ For option 1, some candidates were not sure which personal statement would copy 
 
 Candidates keep versions of their personal statement on their own devices and edit them outside our service. This makes the copying functionality redundant.
 
-> “[the copying function] wouldn’t annoy me, I'd think oh that's nice then delete it all now” – research participant 1
+> “[the copying function] wouldn’t annoy me, I'd think oh that’s nice then delete it all now” – research participant 1
 
 ### Reducing the word count of the personal statement
 
@@ -182,9 +182,9 @@ Candidates can write their personal statement as they work through the task list
 
 Candidates can review their statement and mark the section as complete.
 
-![Screenshot of the review page of the personal statement section so the candidate can review what they've written before marking the section as complete.](final-personal-statement-review.png)
+![Screenshot of the review page of the personal statement section so the candidate can review what they’ve written before marking the section as complete.](final-personal-statement-review.png)
 
-Once they've submitted at least 1 application, they can come back and edit their statement. We show content to explain any changes will not be included in applications already submitted.
+Once they’ve submitted at least 1 application, they can come back and edit their statement. We show content to explain any changes will not be included in applications already submitted.
 
 ![Screenshot showing the review page of the personal statement with inset text telling the candidate what will happen to any changes they make.](editing-personal-statement.png)
 

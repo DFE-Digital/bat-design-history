@@ -57,7 +57,7 @@ Navigating to an organisation or away from the list of organisations clears the 
 
 ### Single results
 
-We do not send users automatically to the organisation's details page. If a user’s search finds a single organisation, we show the user the list of organisations containing the single organisation. This allows users to orient themselves or correct mistakes before viewing the organisation.
+We do not send users automatically to the organisation’s details page. If a user’s search finds a single organisation, we show the user the list of organisations containing the single organisation. This allows users to orient themselves or correct mistakes before viewing the organisation.
 
 ### No results
 

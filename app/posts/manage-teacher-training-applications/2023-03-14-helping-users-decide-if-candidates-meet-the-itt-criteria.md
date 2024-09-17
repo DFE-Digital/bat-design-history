@@ -47,7 +47,7 @@ We added a question about if a candidate had a degree or not. This question woul
 
 We included a snippet taken directly from the ITT criteria about degrees. We did this to purposefully test if the language was understandable to training providers.
 
-![Screenshot showing a page with the heading 'Degree criteria ' and the question 'Do they meet the degree criteria'. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate's degree should have'](degree-question.png)
+![Screenshot showing a page with the heading 'Degree criteria ' and the question 'Do they meet the degree criteria'. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate’s degree should have'](degree-question.png)
 
 ### English, maths and science GCSE criteria questions
 

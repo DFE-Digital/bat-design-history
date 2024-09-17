@@ -57,7 +57,7 @@ Both participants had low awareness of the service and the benefits of using it 
 
 Both participants had not heard about the service until the point that they were contacted with the invite to use it. The invite email focussed on how to access the service but one participant commented that more could have been included on what the service is and the benefit it offers to schools.
 
-> “I do not really know what the purpose of [the service] is or how it's going to work... There were two different emails. One says ‘invitation to join the Manage school placements service’ and the other one just says ‘start using it’… In the ‘start using it’ one, when it says ‘start adding your placements’ and ‘assigning providers’, to me, that's something I read and thought that's for a provider not for me as a school… So all of this [context] has now come out [through the discussion as part of the research session] but actually having some sort of document that explains this might be useful just to provide a bit of background.”
+> “I do not really know what the purpose of [the service] is or how it’s going to work... There were two different emails. One says ‘invitation to join the Manage school placements service’ and the other one just says ‘start using it’… In the ‘start using it’ one, when it says ‘start adding your placements’ and ‘assigning providers’, to me, that’s something I read and thought that’s for a provider not for me as a school… So all of this [context] has now come out [through the discussion as part of the research session] but actually having some sort of document that explains this might be useful just to provide a bit of background.”
 
 ### Insight 2
 
@@ -67,11 +67,11 @@ Because they are unsure of the benefits, ITT providers are not currently promoti
 
 We know from [user research round 7](/manage-school-placements/user-research-round-7-findings/) that ITT providers are continuing to use their existing methods for capturing placement information rather than encouraging use of the new service. We heard an example of how this affects school engagement from one of the participants in user research round 6. The school user contacted their ITT provider to ask whether they could share any further information about the service but the provider was unable to offer support.
 
-> “So essentially the email [inviting our school to use the service] came from the DfE and I got back to one of the providers and said ‘Oh, where's this come from? What do I need to do with this?’ and they went ‘Not a clue – it's all the DfE’ so I just parked it.”
+> “So essentially the email [inviting our school to use the service] came from the DfE and I got back to one of the providers and said ‘Oh, where’s this come from? What do I need to do with this?’ and they went ‘Not a clue – it’s all the DfE’ so I just parked it.”
 
 ### Insight 3
 
-For all-through schools that see the education phase screen when adding a placement, there's potential for this screen to be misinterpreted as a question about the school rather than the individual placement.
+For all-through schools that see the education phase screen when adding a placement, there’s potential for this screen to be misinterpreted as a question about the school rather than the individual placement.
 
 #### Supporting detail and evidence
 
@@ -99,7 +99,7 @@ If a user does not have a DfE Sign-in account when attempting to log in to the M
 
 One of the participants in this round experienced this issue and was under the impression that the DfE Sign-in account management screen was part of the Manage school placements service. We expect that more users will experience this issue when creating a DfE Sign-in account before entering the service.
 
-This is an issue for other DfE services, such as Claim funding for mentor training, and it's unclear whether there’s a reason that users are not redirected back to the service they were using before entering the DfE Sign-in account creation journey.
+This is an issue for other DfE services, such as Claim funding for mentor training, and it’s unclear whether there’s a reason that users are not redirected back to the service they were using before entering the DfE Sign-in account creation journey.
 
 ![DfE Sign-in account management screen](dfe-sign-in.png "DfE Sign-in account management screen")
 
@@ -111,7 +111,7 @@ Both participants were positive about the onboarding prototype design and found 
 
 Structuring the onboarding steps into a task list was felt to provide a clear approach but neither participant had issues completing the same steps without that additional structure so, compared to other changes required within the service, it was not considered to be a priority.
 
-> “I think the way that it was already set up worked. It's not a complex system, particularly, is it? So I do not think, unless [the DfE] want things to be completed in a certain order, then I do not think there's a need to change to this [new design]. This [task list] certainly makes you complete things in a certain order because it's a list and humans will work down a list.”
+> “I think the way that it was already set up worked. It’s not a complex system, particularly, is it? So I do not think, unless [the DfE] want things to be completed in a certain order, then I do not think there’s a need to change to this [new design]. This [task list] certainly makes you complete things in a certain order because it’s a list and humans will work down a list.”
 
 ### Insight 7
 

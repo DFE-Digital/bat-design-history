@@ -9,7 +9,7 @@ tags:
   - international qualifications
 ---
 
-Candidates with international qualifications need to provide confirmation that they’re comparable to the course's entry requirements.
+Candidates with international qualifications need to provide confirmation that they’re comparable to the course’s entry requirements.
 
 The organisation which provides this confirmation has changed its name from UK NARIC (National Academic Recognition Information Centre) to UK ENIC (National Information Centre).
 
@@ -21,4 +21,4 @@ The provider service gives the reference number so that users can check it onlin
 
 The wording in the candidate service will be changed to ask for an ENIC reference number.
 
-Since we will not know whether the candidate entered a NARIC or ENIC reference number, we’ve decided to mention both for now. We'll review this at the end of the 2020 to 2021 recruitment cycle.
+Since we will not know whether the candidate entered a NARIC or ENIC reference number, we’ve decided to mention both for now. We’ll review this at the end of the 2020 to 2021 recruitment cycle.

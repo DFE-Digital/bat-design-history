@@ -65,7 +65,7 @@ New need categories:
 - Next cycle
   - [Know if the candidate has applied previously](https://trello.com/c/gLqz5Fzc/162-i-need-to-know-if-the-candidate-applied-previously-so-that-i-can-compare-their-application-to-last-year-and-adapt-my-interview-p)
   - [See recommended actions for previously unsuccessful candidates](https://trello.com/c/y76OWSMr/163-i-need-to-see-our-recommended-actions-for-unsuccessful-candidates-so-that-i-can-determine-whether-they-have-taken-these-actions)
-  - [See deferred applications in next year's list](https://trello.com/c/veC7ytxS/170-i-need-to-see-the-deferred-applications-in-next-years-list-so-that-i-can-manage-their-application-alongside-the-next-cohort)
+  - [See deferred applications in next year’s list](https://trello.com/c/veC7ytxS/170-i-need-to-see-the-deferred-applications-in-next-years-list-so-that-i-can-manage-their-application-alongside-the-next-cohort)
   - [Filter by deferred offers](https://trello.com/c/QPiL96f9/171-i-need-to-be-able-to-filter-my-applications-by-those-who-are-deferred-so-that-i-can-find-the-applications-easily)
 
 Needs also added to the following categories:

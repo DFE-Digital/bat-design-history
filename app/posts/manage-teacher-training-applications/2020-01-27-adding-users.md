@@ -16,10 +16,10 @@ First iteration to let users add more users to their organisation(s) to help the
 
 ## Hypotheses
 
-Currently there's no way for a user to add users to their organisation. The current process depends on a support agent adding every user manually using Support for Apply. As we onboard more providers this makes it slow to create accounts and means users have to rely on support agents.
+Currently there’s no way for a user to add users to their organisation. The current process depends on a support agent adding every user manually using Support for Apply. As we onboard more providers this makes it slow to create accounts and means users have to rely on support agents.
 
 If we let users invite colleagues to their organisation(s)
-Then they'll be able to add users quickly without having to rely on support agents
+Then they’ll be able to add users quickly without having to rely on support agents
 We’ll know this works when new users are created without the help of a support agent
 
 ## Design notes

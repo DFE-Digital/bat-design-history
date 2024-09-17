@@ -41,7 +41,7 @@ We tested the first iteration of the ‘Add mentor’ and ‘Add placement’ jo
 
 ### Insight 1
 
-Most participants were optimistic about the service's potential (it could help with a current pain point). Still, its value relies heavily on other factors, such as ITT providers not requesting the same information separately and the new mentor training requirements not being the barrier some participants expect them to be.
+Most participants were optimistic about the service’s potential (it could help with a current pain point). Still, its value relies heavily on other factors, such as ITT providers not requesting the same information separately and the new mentor training requirements not being the barrier some participants expect them to be.
 
 #### Supporting detail and evidence
 
@@ -85,7 +85,7 @@ Using Teacher Reference Numbers (TRNs) to add mentors is an anticipated pain poi
 
 One participant was unsure what a TRN was and how they would get this information. Those that knew what TRNs are, said that they would need to get this information from their HR team or from the mentors themselves and this could involve significant effort.
 
-> “So that's my DfE number that I got 30 odd years ago? Is that what it is?... For an older teacher like me, we call that a DfE number. But I know that's probably not what you call it anymore.”
+> “So that’s my DfE number that I got 30 odd years ago? Is that what it is?... For an older teacher like me, we call that a DfE number. But I know that’s probably not what you call it anymore.”
 
 ### Insight 5
 
@@ -95,7 +95,7 @@ The service feels familiar because schools use other DfE services that look and 
 
 Participants found the prototype service easy to navigate, and many commented that it worked similarly to other DfE services, which was a positive development.
 
-> “That’s exactly the same as the trainee applications service. So there is a sort of continuity there if you're used to other DfE services – it’s very similar.”
+> “That’s exactly the same as the trainee applications service. So there is a sort of continuity there if you’re used to other DfE services – it’s very similar.”
 
 However, a negative was that—at specific points—some participants got confused about the difference between the school placements service, the Publish teacher training courses service, and the Manage training for early career teachers service because they look similar and are all part of the broader teacher training journey.
 
@@ -129,7 +129,7 @@ We will test this by seeing if participants in future research rounds understand
 
 ### Hypothesis 3
 
-We think that ITT providers do not need to know the mentor's name when looking at a placement opportunity—it would be sufficient for them to see whether the school has assigned a mentor.
+We think that ITT providers do not need to know the mentor’s name when looking at a placement opportunity—it would be sufficient for them to see whether the school has assigned a mentor.
 
 We think this is because we are unaware of why ITT providers would need to know the mentor’s name at the initial enquiry stage, and de-personalising this information would avoid the concern raised by one participant that ITT providers might start contacting mentors directly.
 

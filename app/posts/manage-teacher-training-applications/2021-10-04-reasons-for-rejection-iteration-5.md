@@ -47,7 +47,7 @@ Saying yes to some categories reveals a list of sub-categories with checkboxes. 
 
 Categories that do not contain sub-categories reveal a ‘give details’ field. Most sub-categories also reveal a ‘give details’ field. The user must complete this field.
 
-If the user says no to all the categories then on the next page they're given a field asking them why they’re rejecting the application. The category is considered to be ‘other’.
+If the user says no to all the categories then on the next page they’re given a field asking them why they’re rejecting the application. The category is considered to be ‘other’.
 
 The user can also add ‘other advice and feedback’ as part of the rejection flow.
 
@@ -226,7 +226,7 @@ It contains:
 - quality of writing
 - other
 
-We decided not to include ‘evidence of plagiarism’ as a sub-category because it's only been used once.
+We decided not to include ‘evidence of plagiarism’ as a sub-category because it’s only been used once.
 
 ### Creating a ‘teaching knowledge and ability’ category
 

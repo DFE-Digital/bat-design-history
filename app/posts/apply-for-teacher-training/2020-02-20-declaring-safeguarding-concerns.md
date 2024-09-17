@@ -52,22 +52,22 @@ Our research was limited due to the difficulty of recruiting candidates who have
 However, we were able to observe a few pain points for candidates. The content caused candidates to be uncertain about:
 
 - what sort of information to declare (someone mentioned depression, which is not the sort of thing we were looking for)
-- why we're asking about this
+- why we’re asking about this
 - whether they should be open or not
 
 ### Our hypotheses
 
 1. If we list the checks providers carry out
 Then candidates will know what sort of information to declare
-Because they'll understand what information providers are looking for
+Because they’ll understand what information providers are looking for
 
 2. If we use more precise language (such as safeguarding)
-Then candidates will know why we're asking about this
+Then candidates will know why we’re asking about this
 Because there will be less potential for misinterpretation
 
 3. If we emphasise that declaring something is about starting a conversation
 Then candidates will be more likely to be open
-Because they'll be reassured that it doesn’t necessarily mean an automatic rejection
+Because they’ll be reassured that it doesn’t necessarily mean an automatic rejection
 
 ![Screenshot of new design for declaring any safeguarding issues.](new-design-for-declaring-any-safeguarding-issues.png "New design for declaring any safeguarding issues")
 
