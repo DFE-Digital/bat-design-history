@@ -14,7 +14,7 @@ related:
       href: https://trello.com/c/spYyD6s6
 ---
 
-Subject knowledge as a single field presents problems if you’re applying to multiple subjects across different courses, for example Physics as well as Mathematics. You couldn’t tailor one field to both subjects, this also applies if someone applies to both primary and secondary courses, although this is less likely.
+Subject knowledge as a single field presents problems if you’re applying to multiple subjects across different courses, for example Physics as well as Mathematics. You could not tailor one field to both subjects, this also applies if someone applies to both primary and secondary courses, although this is less likely.
 
 Interview preferences may also vary by provider. Consider one provider who is nearby and one that is far away, it might be easier to attend a closer interview.
 

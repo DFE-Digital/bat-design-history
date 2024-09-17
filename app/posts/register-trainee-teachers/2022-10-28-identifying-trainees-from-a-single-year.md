@@ -11,7 +11,7 @@ related:
       href: /register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/
 ---
 
-Earlier this year we did some work to change how we [identified past and current trainees](/register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/). Whilst these changes largely improved working with current trainees, research with higher education institutions (HEIs) found we weren’t meeting all of their needs.
+Earlier this year we did some work to change how we [identified past and current trainees](/register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/). Whilst these changes largely improved working with current trainees, research with higher education institutions (HEIs) found we were not meeting all of their needs.
 
 School centred ITT providers (SCITTs) mostly have a new cohort of trainees each year, mostly on one year courses, and tend to have fewer trainees than HEIs each year. They often group their cohorts by start year. This means they can work using our start year filter or by searching for individual trainees by name.
 

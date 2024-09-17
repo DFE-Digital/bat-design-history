@@ -47,9 +47,9 @@ Then providers will not have to type this manually
 
 ### Stop providers from answering ‘No’ to every question
 
-The previous iteration meant that users could say no to every question. If they did this, they’d see an error message saying they can’t answer no to every question.
+The previous iteration meant that users could say no to every question. If they did this, they’d see an error message saying they cannot answer no to every question.
 
-But this is not ideal because the UI gives the illusion that selecting no to all questions is okay. Also it wouldn’t follow the standard validation pattern from the GOV.UK Design System where an error should be related to a specific field.
+But this is not ideal because the UI gives the illusion that selecting no to all questions is okay. Also it would not follow the standard validation pattern from the GOV.UK Design System where an error should be related to a specific field.
 
 If we require providers to provide a reason in a free text box when they select no to all other questions
 Then the UI will not be deceptive and error messages will be more useful

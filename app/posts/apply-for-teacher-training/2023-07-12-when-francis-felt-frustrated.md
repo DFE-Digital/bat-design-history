@@ -98,7 +98,7 @@ Fresh Teacher Training sends Francis some information about SKE courses.
 
 They give her lots of options on where to do her SKE course, but strongly encourage a training provider called ExtrA Learning Trust.
 
-Francis researches all the options. She looks at the SKE directory on GOV.UK but she can’t tell the difference between each course.
+Francis researches all the options. She looks at the SKE directory on GOV.UK but she cannot tell the difference between each course.
 
 Francis joins some forums looking for any reviews on different SKE courses.
 
@@ -168,7 +168,7 @@ Just before her teacher training starts, Francis goes to Florence! She’s saved
 
 Francis falls behind on her SKE course work and must finish it during the first 2 weeks of her teacher training.
 
-Suddenly, the SKE bursary payments stop. She didn’t know you can’t get the bursary if it overlaps with teacher training.
+Suddenly, the SKE bursary payments stop. She didn’t know you cannot get the bursary if it overlaps with teacher training.
 
  Francis feels frustrated!
 

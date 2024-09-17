@@ -28,11 +28,11 @@ They are:
 - The application is complete or not
 - The viewing user has permission to see diversity information or not
 
-We want providers to be clear what information is available, but also why they can’t necessarily see it.
+We want providers to be clear what information is available, but also why they cannot necessarily see it.
 
 ## First iteration
 
-We explored adding additional rows to the applicant details summary list, but with a placeholder line if they couldn’t be shown.
+We explored adding additional rows to the applicant details summary list, but with a placeholder line if they could not be shown.
 
 ![3 lines in a summary list, with grey text that reads ‘Only available when the candidate accepts your offer’](multiple-lines-short-grey.png)
 

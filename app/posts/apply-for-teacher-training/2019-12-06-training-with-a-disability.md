@@ -20,7 +20,7 @@ Disclosing a disability is a way for candidates to present their disability and 
 
 But disclosure could also put the candidate at risk of unconscious bias and discrimination from providers.
 
-The later a candidate finds out their access needs can’t be adequately met, or that a provider has the wrong attitude towards meeting them, the more pain that candidate will go through.
+The later a candidate finds out their access needs cannot be adequately met, or that a provider has the wrong attitude towards meeting them, the more pain that candidate will go through.
 
 Encouraging early conversation (perhaps anonymously) between candidates with disabilities and the right people at their potential training providers will help.
 

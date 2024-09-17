@@ -35,7 +35,7 @@ We asked each user who submitted an application if they’d be happy to take par
 - They understood the status their application was in correctly. They wanted to know if they would get emails if the status of their application changed at any point. They would like this.
 - They owned their own business and had to write 'Myself' in the employer name box. They didn’t say this was a problem as such, but we might want to think about a re-design for this for data purposes.
 - Found all the content and guidance throughout the application super helpful - especially around the personal statement and splitting it out into 2 sections.
-- They understood about logging in and out via emails - but was a bit wary about this. They expected a normal password/log in. They said it was fine, but was annoying having to go back to the welcome email every time. They tried Googling Apply multiple times but couldn’t find the link.
+- They understood about logging in and out via emails - but was a bit wary about this. They expected a normal password/log in. They said it was fine, but was annoying having to go back to the welcome email every time. They tried Googling Apply multiple times but could not find the link.
 
 ## Candidate 2
 
@@ -51,7 +51,7 @@ We asked each user who submitted an application if they’d be happy to take par
 - They stated it would've been useful to say how many hours their part time work was, especially the one involving working with children.
 - They liked the personal statement as well as the content guidance.
   "Makes it much less daunting rather than seeing a big 2,500 word box with no help"
-- They gave interview preferences for dates they couldn’t do, but wasn’t sure if the Provider would accommodate these or not. They stated "it would've been helpful to have a calendar to pick dates I'm not free".
+- They gave interview preferences for dates they could not do, but wasn’t sure if the Provider would accommodate these or not. They stated "it would've been helpful to have a calendar to pick dates I'm not free".
 
 ## Candidate 3
 

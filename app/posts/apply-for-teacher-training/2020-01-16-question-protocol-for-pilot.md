@@ -1563,7 +1563,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
-    notes: ["Some providers have indicated that they do not want arranging interviews complicated by candidate's needs/lives. That said, if there are dates the candidate absolutely can’t make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
+    notes: ["Some providers have indicated that they do not want arranging interviews complicated by candidate's needs/lives. That said, if there are dates the candidate absolutely cannot make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
   }
 }) }}
 

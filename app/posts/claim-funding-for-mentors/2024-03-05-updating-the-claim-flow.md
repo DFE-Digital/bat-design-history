@@ -61,7 +61,7 @@ We’ve added content to the confirmation page to explain when processing and pa
 
 ### Messaging to the claim screen when the claim window is closed
 
-When the claim window is closed, users can’t submit claims.
+When the claim window is closed, users cannot submit claims.
 
 When the claim window closes, we will remove the claim button and add content to explain why claims cannot be submitted.
 

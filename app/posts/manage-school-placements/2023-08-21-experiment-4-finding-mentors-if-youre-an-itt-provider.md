@@ -299,7 +299,7 @@ When asking schools about their mentors, schools can take a varying amount of ti
 
 Participants said our proposed service could reduce administration time and disparate email contact.
 
-A lead mentor explained that our proposed service could help filter out requests on placements their school can’t fulfil – for example, a subject they do not have a mentor for.
+A lead mentor explained that our proposed service could help filter out requests on placements their school cannot fulfil – for example, a subject they do not have a mentor for.
 
 *[ECF]: Early Career Framework
 *[ITT]: Initial Teacher Training

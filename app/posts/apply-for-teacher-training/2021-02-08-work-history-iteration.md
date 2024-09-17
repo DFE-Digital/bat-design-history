@@ -33,7 +33,7 @@ related:
 
 Many providers told us that they need to see a candidate’s full work history, not just the last 5 years, in order to meet policies around safeguarding.
 
-Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail, possibly because roles weren’t relevant to teaching, or because the text was too long and overlapped with a personal statement.
+Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail, possibly because roles were not relevant to teaching, or because the text was too long and overlapped with a personal statement.
 
 Analysis of validation errors also revealed that candidates were often leaving the “Skills and experience relevant to teaching” question blank. Our hypothesis was that they wanted to come back and write this section later.
 
@@ -78,9 +78,9 @@ Candidates were able to add lots of jobs fairly quickly - likely much more quick
 
 Some candidates were unclear that they needed to add their complete work history, either not reading or ignoring the guidance. Instead they only added “relevant” or “proper” jobs, and omitting their first jobs working in bars or in retail.
 
-Some candidates expressed surprise that they weren’t asked for more details. Whilst some were happy with how quick it was, others wanted to be able to explain more about their roles to support their application.
+Some candidates expressed surprise that they were not asked for more details. Whilst some were happy with how quick it was, others wanted to be able to explain more about their roles to support their application.
 
-Some candidates hesitated when it came to entering the start and end year and month for some of their early roles, and had to spend some time thinking about this. When asked, they suggested that they weren’t completely certain, but were able to either work it out or enter a reasonable guess by anchoring their early jobs to other significant events in their lives.
+Some candidates hesitated when it came to entering the start and end year and month for some of their early roles, and had to spend some time thinking about this. When asked, they suggested that they were not completely certain, but were able to either work it out or enter a reasonable guess by anchoring their early jobs to other significant events in their lives.
 
 One candidate consistently entered their employers’ names within the Job title field, and then had to correct themselves. Other candidates entered the employer names first, and then returned to the job title field later having had to give it more thought.
 

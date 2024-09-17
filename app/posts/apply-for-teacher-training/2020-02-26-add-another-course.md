@@ -20,7 +20,7 @@ related:
 
 We do not do a good job of informing candidates that they can apply for up to 3 courses on one application, and what will happen after making an application with fewer than 3 courses is not clear.
 
-Part of this was intended – when Apply was launched most users couldn’t apply to 3 choices on the service – for a while there weren’t 3 courses. Now there are more providers and courses, and in certain regions we have good coverage, this can be encouraged.
+Part of this was intended – when Apply was launched most users could not apply to 3 choices on the service – for a while there were not 3 courses. Now there are more providers and courses, and in certain regions we have good coverage, this can be encouraged.
 
 ## Hypotheses
 
@@ -28,7 +28,7 @@ If we give candidates a clear call to action to add another course after they’
 
 If we give candidates a clear indication of the number of courses they can add in their application, then they’ll apply to more, and will not look to apply again after submitting their first application.
 
-If we tell candidates they can’t add new choices after submitting their application, then they’ll put all of their choices in their first application.
+If we tell candidates they cannot add new choices after submitting their application, then they’ll put all of their choices in their first application.
 
 ## Design notes
 

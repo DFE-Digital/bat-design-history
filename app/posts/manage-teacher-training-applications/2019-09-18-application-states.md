@@ -25,7 +25,7 @@ In review and recruited didn’t make sense to users. It wasn’t clear where in
 
 These states correspond to the ‘Change status’ actions a user can make.
 
-This is a quick design to get the statuses in, there’s no reason the nice panel boxes can’t come back somehow.
+This is a quick design to get the statuses in, there’s no reason the nice panel boxes cannot come back somehow.
 
 ## Filters on a state
 

@@ -24,7 +24,7 @@ related:
 
 We’ve divided the designs for full courses into two parts:
 
-1. Stop users from applying to courses that can’t accept them
+1. Stop users from applying to courses that cannot accept them
 2. Warn users about a choice they’ve made that’s no longer available
 
 Here we are focusing on the first part, specifically, stopping candidates from:
@@ -46,30 +46,30 @@ The following scenarios could happen:
 
 ## Picking a course
 
-We need to stop candidates from choosing courses that can’t accept them.
+We need to stop candidates from choosing courses that cannot accept them.
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
   description: "As a candidate trying to pick a specific course that’s full
 I need to be prevented from choosing it
-So that I do not try and apply to a course that can’t accept me"
+So that I do not try and apply to a course that cannot accept me"
 }) }}
 
 {{ appUserNeed({
   description: "As a candidate trying to pick a specific course that’s full
 I need to be able to find it and see that it’s full
-So that I understand why I can’t apply to it"
+So that I understand why I cannot apply to it"
 }) }}
 
 ### Hypothesis
 
 We considered hiding full courses from the list of courses. However, if a candidate is looking for a specific course that’s full they will not be able to find it, they might think they’ve typed something wrong or selected the wrong provider – they could waste time trying to find it elsewhere.
 
-If we let them find the course, but tell them why they can’t apply to it, they’ll save time and have the information they need to decide what to do next.
+If we let them find the course, but tell them why they cannot apply to it, they’ll save time and have the information they need to decide what to do next.
 
 ## Course has become unavailable
 
-We need to stop candidates from applying to courses that can’t accept them.
+We need to stop candidates from applying to courses that cannot accept them.
 
 Either:
 
@@ -81,7 +81,7 @@ Either:
 {{ appUserNeed({
   description: "As a candidate that has picked a course that has become full or unavailable
 I need to be prevented from applying to it
-So that I do not waste a choice on a course that can’t accept me"
+So that I do not waste a choice on a course that cannot accept me"
 }) }}
 
 ### Hypothesis

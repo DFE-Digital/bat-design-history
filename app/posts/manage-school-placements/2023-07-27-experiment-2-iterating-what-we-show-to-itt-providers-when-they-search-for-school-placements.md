@@ -237,7 +237,7 @@ We must determine whether the ‘find a school placement’ service needs to be 
 
 If the ‘find a school placement’ service is behind a DfE Sign-in, we can gather more information about the ITT provider and skip questions or remove irrelevant question options in the find flow.
 
-For example, if the ITT provider only runs secondary courses, we wouldn’t ask questions about the subject level or age range.
+For example, if the ITT provider only runs secondary courses, we would not ask questions about the subject level or age range.
 
 ## What we found
 

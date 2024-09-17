@@ -25,7 +25,7 @@ This work builds on the work we do to [simplify how we ask about and display per
 The hint text shown next to each user permission is problematic because:
 
 - long hint text is not accessible - screen readers read out the entire text when users interact with each checkbox. This can frustrate users because the text can be very long.
-- the hint text doesn’t really help users decide how to respond, which is what hint text is for. If the hint text tells the user that the permissions doesn’t apply to an organisation they’d like it to apply to, we wouldn’t expect them to leave the checkbox unticked. Instead we’d expect them to tick it and then change organisational permissions if appropropriate.
+- the hint text doesn’t really help users decide how to respond, which is what hint text is for. If the hint text tells the user that the permissions doesn’t apply to an organisation they’d like it to apply to, we would not expect them to leave the checkbox unticked. Instead we’d expect them to tick it and then change organisational permissions if appropropriate.
 - the long hint text makes it harder to see all of the user permissions at a glance.
 
 To solve these issues we’ve moved the content above the form and put some of it inside a collapsible details component.

@@ -131,7 +131,7 @@ We had 39 responses.
 
 Respondents disliked that there were no examples of things that should be included. The purpose of responding to this question and its effect on an application were not clear (it’ll depend on what’s disclosed). They liked that the guidance was clear and concise and thought the tone was right, “It encourages people to be open in a non-forceful way”.
 
-Most respondents said they had nothing to share, 1 shared a health related issue and another said they wouldn’t be comfortable sharing, “I would want to be certain that any information I shared would not hinder my application”.
+Most respondents said they had nothing to share, 1 shared a health related issue and another said they would not be comfortable sharing, “I would want to be certain that any information I shared would not hinder my application”.
 
 82% of respondents agreed that this question should be asked in the "About you" section.
 

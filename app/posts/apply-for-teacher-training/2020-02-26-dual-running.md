@@ -41,7 +41,7 @@ So that I can choose the service that suits me best"
 {{ appUserNeed({
   description: "As a candidate
 I need to know which apply service(s) my chosen course(s) is available on
-So that I do not waste time filling out an application that I can’t submit"
+So that I do not waste time filling out an application that I cannot submit"
 }) }}
 
 {{ appUserNeed({
@@ -69,7 +69,7 @@ If a candidate starts their application journey from the start page, they could 
   Then candidates will be better understand what their options are.
 
 - If we add a page that recommends making course choices before completing other sections of the application
-  Then candidates will not feel they’ve wasted their time entering information into a service they can’t use.
+  Then candidates will not feel they’ve wasted their time entering information into a service they cannot use.
 
 ### Application journey from Find
 

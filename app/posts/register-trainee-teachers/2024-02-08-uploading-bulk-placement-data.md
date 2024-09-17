@@ -134,6 +134,6 @@ The benefit was for a multi-disciplinary team to come together and work efficien
 
 Placement data retrospective and using feedback from providers to inform future iterations such as:
 
-- The instructions weren’t very clear on how to add additional placements beyond the mandatory 2 so we updated the content with a view to test and iterate.
+- The instructions were not very clear on how to add additional placements beyond the mandatory 2 so we updated the content with a view to test and iterate.
 - One provider wanted to add placements in bulk to trainees who already had 2 placements, but our filter meant these trainees were not included in the bulk import download. We created a ticket in the backlog to design a solution for this
-- Some providers mentioned that trainees had done placements at 2 schools which had the same URN and our unique validation rule meant they couldn’t record them using URNs in Register. Instead, they had to record the second placement using the free text fields. We have a ticket in the backlog to investigate solution for this.
+- Some providers mentioned that trainees had done placements at 2 schools which had the same URN and our unique validation rule meant they could not record them using URNs in Register. Instead, they had to record the second placement using the free text fields. We have a ticket in the backlog to investigate solution for this.

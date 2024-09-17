@@ -96,7 +96,7 @@ We added the following prompts:
 
 ### Ask candidates without a GCSE pass grade how they expect to meet the entry requirements
 
-Without having structured data about providers specific entry requirements, we can’t make any specific recommendations to candidates about how they can improve their application.
+Without having structured data about providers specific entry requirements, we cannot make any specific recommendations to candidates about how they can improve their application.
 
 However, we do know the standard ITT entry criteria regarding GCSEs and their equivalents.
 

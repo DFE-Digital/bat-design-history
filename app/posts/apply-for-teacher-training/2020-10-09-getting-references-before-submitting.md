@@ -121,9 +121,9 @@ What if candidates could request references before, or after submitting an appli
 However, given prior research with providers, we know there are some constraints with this approach:
 
 - Providers want to see 2 references when they review an application
-- While we are dual-running with UCAS we can’t deviate too far from the existing business rules. This is to maintain fairness; candidates applying via UCAS would have references, while candidates coming via our service may not.
+- While we are dual-running with UCAS we cannot deviate too far from the existing business rules. This is to maintain fairness; candidates applying via UCAS would have references, while candidates coming via our service may not.
 
-With these constraints in place, even if we allowed candidates to request references before or after submitting, we still wouldn’t be able to send an application to providers until both references had been given. The most pressing issue would remain, with some candidates waiting for references while their course choices became full.
+With these constraints in place, even if we allowed candidates to request references before or after submitting, we still would not be able to send an application to providers until both references had been given. The most pressing issue would remain, with some candidates waiting for references while their course choices became full.
 
 ## Recoupling references
 

@@ -241,7 +241,7 @@ If the user has not answered the question, we show an error message:
 
 ### Mentor availability
 
-In this iteration, we changed the ‘Training pattern’ question to ‘Mentor availability’. We made this change because ITT providers can change training patterns, whereas the availability of a mentor on a given day depends on their working practices. This question allows schools and mentors to state which days they can’t support a trainee.
+In this iteration, we changed the ‘Training pattern’ question to ‘Mentor availability’. We made this change because ITT providers can change training patterns, whereas the availability of a mentor on a given day depends on their working practices. This question allows schools and mentors to state which days they cannot support a trainee.
 
 ![Image showing the mentor availability question](experiment-2-add-placement--mentor-availability.png 'Mentor availability question')
 

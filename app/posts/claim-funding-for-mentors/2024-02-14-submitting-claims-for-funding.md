@@ -255,7 +255,7 @@ These two approaches assume that users may need more information to complete the
 
 ### Only showing providers that the school works with
 
-If the service collects provider relationship information, users would only choose from a list of schools they work with instead of entering the provider manually. They wouldn’t be asked this question if they only worked with one school.
+If the service collects provider relationship information, users would only choose from a list of schools they work with instead of entering the provider manually. They would not be asked this question if they only worked with one school.
 
 ### Validating if a claim has already been made for the provider and mentor to a total of 20 hours
 
@@ -265,4 +265,4 @@ Once the service has some historical claim data, it should prevent users from ov
 
 We assume that users will want to know the amount they will receive for the claim.
 
-We weren’t sure at what point users would expect to see this information. We will consider adding this information based on feedback from research.
+We were not sure at what point users would expect to see this information. We will consider adding this information based on feedback from research.

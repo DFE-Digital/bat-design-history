@@ -43,8 +43,8 @@ Changes made as part of this work included:
 - When editing an application, we show three different states for sections:
   - Unedited (a section that can be amended, but with no edits)
   - Edited (a section that has been edited)
-  - Submitted (a section that can’t be amended – references)
-- Prior to editing an application, we provide an interstitial page that outlines the restrictions; limited to submitting one set of changes, can’t edit referees, etc. and the period of time in which changes can be made.
+  - Submitted (a section that cannot be amended – references)
+- Prior to editing an application, we provide an interstitial page that outlines the restrictions; limited to submitting one set of changes, cannot edit referees, etc. and the period of time in which changes can be made.
 - We also updated the language on some pages to include warnings about time remaining and checking changes before resubmitting.
 - For withdrawing an application, we ask users to confirm this action before proceeding. For MVP, this page asks them to submit a support request. A later iteration would allow them to confirm with a button press. When a course choice has been withdrawn, we update it’s status on the dashboard page.
 

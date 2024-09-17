@@ -18,7 +18,7 @@ Changes to [our initial design](/apply-for-teacher-training/apply-again) to impr
 
 ### Success banner: prompt candidates to review all sections
 
-Until we introduce [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection), we can’t tell candidates what parts of their application to pay special attention to. Even so, candidates may still want to review other parts of their application that weren’t highlighted.
+Until we introduce [structured reasons for rejection](/manage-teacher-training-applications/reasons-for-rejection), we cannot tell candidates what parts of their application to pay special attention to. Even so, candidates may still want to review other parts of their application that were not highlighted.
 
 If we tell candidates to review all sections
 Then candidates are more likely to improve their application

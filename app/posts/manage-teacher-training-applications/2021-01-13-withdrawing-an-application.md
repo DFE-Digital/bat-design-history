@@ -23,7 +23,7 @@ related:
 
 We previously explored a [very different way to let providers close an application at any time](/manage-teacher-training-applications/closing-an-application/).
 
-But we weren’t happy with it for several reasons.
+But we were not happy with it for several reasons.
 
 Firstly, having a process called ‘close application’ (which was a new term) didn’t always make sense. For example, when making a decision the choices were ‘make offer’ and ‘close application’.
 

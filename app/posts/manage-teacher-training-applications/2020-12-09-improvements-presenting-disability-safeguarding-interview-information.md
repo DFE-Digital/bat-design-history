@@ -97,11 +97,11 @@ There’s currently a range of different messages, but we do not feel that’s n
 
 We think we should instead just provide enough information for users to move to the next step, rather than trying to squeeze in a lot of information.
 
-If the issue of incorrectly set up permissions does persist, we probably need a better overall strategy. One example might be a ‘check my permissions to work out why I can’t see this’ link in appropriate places.
+If the issue of incorrectly set up permissions does persist, we probably need a better overall strategy. One example might be a ‘check my permissions to work out why I cannot see this’ link in appropriate places.
 
 ## Distinguishing between system messaging for lack of safeguarding permissions and candidate answers
 
-Currently, the system message that tells the user they can’t view safeguarding permission has the same standard black text as the candidate’s actual answer (when it can be viewed).
+Currently, the system message that tells the user they cannot view safeguarding permission has the same standard black text as the candidate’s actual answer (when it can be viewed).
 
 We tried using inset text, warning text, details (toggle), a box and grey text when the user lacks permission. But:
 
