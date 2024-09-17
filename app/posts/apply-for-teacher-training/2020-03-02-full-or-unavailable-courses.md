@@ -32,7 +32,7 @@ Here we are focusing on the first part, specifically, stopping candidates from:
 - picking a course that’s full
 - submitting an application with a course that’s full
 - submitting an application with a location that’s full
-- submitting an application to a course that was offered as full or part time, but now only has vacancies in the option they didn’t select (eg they chose part time, but the course now only has full time vacancies)
+- submitting an application to a course that was offered as full or part time, but now only has vacancies in the option they did not select (eg they chose part time, but the course now only has full time vacancies)
 
 ## Scenarios
 

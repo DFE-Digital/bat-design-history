@@ -49,7 +49,7 @@ Research showed that no one found the history of predicted payments necessary, s
 
 ![Monthly payments shown together.](01-payment-schedule-v1.png "Showing all payment types together")
 
-For the first version we used a single table with the months as rows and payment types as columns. We didn’t test this with users, but it’s a straightforward interpretation of the data.
+For the first version we used a single table with the months as rows and payment types as columns. We did not test this with users, but it’s a straightforward interpretation of the data.
 
 However, the data contains an unknown number of payment types, each with a column heading of unknown length. If there are 5 or more columns, each column becomes narrow and hard to read. Most providers would only have 3 or 4 payment types by the end of the year (this means 6 columns total when you include the month and total for the month).
 

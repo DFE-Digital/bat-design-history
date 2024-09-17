@@ -38,7 +38,7 @@ We descoped this feature from MVP for the following reasons:
 - Candidates can use the interview preferences field to declare interview needs, and could use the catch-all “Anything else” section at the end to talk about their disability in a wider context (though they will not know this beforehand).
 - We will plan and carry out proper research with the right cohort of participants, both those who have previously applied, and potentially by finding those that have been unsuccessful/rejected
 
-We need to speak to current trainees with disabilities and find out what worked for them and what didn’t during their application process.
+We need to speak to current trainees with disabilities and find out what worked for them and what did not during their application process.
 
 ## Advice from the Equality and Human Rights Commission on encouraging disability disclosure
 

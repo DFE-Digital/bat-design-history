@@ -29,7 +29,7 @@ screenshots:
 
 {% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
 {{ govukNotificationBanner({
-  html: "[We didn’t build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline")
+  html: "[We did not build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline")
 }) }}
 
 First spike to support two features of the application process:

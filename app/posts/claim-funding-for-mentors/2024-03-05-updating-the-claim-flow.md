@@ -49,7 +49,7 @@ We updated the check answers page to include the school name, funding amount, an
 
 ### Hint text to describe the hours of training
 
-Users didn’t understand the different options on the hours of training page.
+Users did not understand the different options on the hours of training page.
 
 We’ve added hint text to each radio button to provide more information.
 

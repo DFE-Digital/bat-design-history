@@ -83,9 +83,9 @@ To do this, we used the logic of the additional question page to only display TD
 
 Teacher training advisers (TTAs) are only available for postgraduate courses and are not available for TDA courses.
 
-We needed to update the content on the course pages to ensure we didn’t provide candidates with the wrong information.
+We needed to update the content on the course pages to ensure we did not provide candidates with the wrong information.
 
-To do this, we added logic to the support box at the bottom of the course page, so that the content didn’t mention TTAs for TDA courses.
+To do this, we added logic to the support box at the bottom of the course page, so that the content did not mention TTAs for TDA courses.
 
 ![Screenshot of the course page support section for TDA courses after the design changes](tda-course-page-support.png)
 

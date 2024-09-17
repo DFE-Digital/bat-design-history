@@ -36,7 +36,7 @@ screenshots:
     - text: Provider has withdrawn offer
       src: 06-provider-has-withdrawn-offer.png
     - text: Candidate enrolled
-      caption: Once the candidate has completed the enrolment process, the provider confirms their enrolment onto the training programme. Since this status would be used to claim bursaries/grants from DfE, the provider may delay enrolling the trainee until a few weeks after the start of the training, since trainees can still not show up on the first day or drop out within the first couple of weeks. This reduces the risk that DfE over-pays that provider for training they didn’t deliver and has to reconcile later on. The candidate’s HESA equality monitoring information is made available to the provider.
+      caption: Once the candidate has completed the enrolment process, the provider confirms their enrolment onto the training programme. Since this status would be used to claim bursaries/grants from DfE, the provider may delay enrolling the trainee until a few weeks after the start of the training, since trainees can still not show up on the first day or drop out within the first couple of weeks. This reduces the risk that DfE over-pays that provider for training they did not deliver and has to reconcile later on. The candidate’s HESA equality monitoring information is made available to the provider.
       src: 07-candidate-enrolled.png
     - text: Candidate has withdrawn all their choices
       caption: If the candidate withdraws an application in progress it moves to the Withdrawn (end) state

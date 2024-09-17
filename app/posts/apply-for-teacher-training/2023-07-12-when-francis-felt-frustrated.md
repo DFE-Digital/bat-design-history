@@ -168,7 +168,7 @@ Just before her teacher training starts, Francis goes to Florence! She’s saved
 
 Francis falls behind on her SKE course work and must finish it during the first 2 weeks of her teacher training.
 
-Suddenly, the SKE bursary payments stop. She didn’t know you cannot get the bursary if it overlaps with teacher training.
+Suddenly, the SKE bursary payments stop. She did not know you cannot get the bursary if it overlaps with teacher training.
 
  Francis feels frustrated!
 

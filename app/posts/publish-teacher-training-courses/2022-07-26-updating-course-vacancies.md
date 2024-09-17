@@ -115,4 +115,4 @@ If users remove a location from an open course and it is the only location with 
 
 We considered moving vacancies to the course level. Providers do not often know the number of vacancies per location or the locations available to accept placements when the course is opened.
 
-We didn’t make this change because we need to learn more about how this information could be used to improve the candidate’s decision-making.
+We did not make this change because we need to learn more about how this information could be used to improve the candidate’s decision-making.

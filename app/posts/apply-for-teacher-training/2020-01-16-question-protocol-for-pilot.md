@@ -921,7 +921,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
     notes: [
       "This may be a want, more than a need.",
-      "However, a dance provider mentioned they’d use this information to make sure they didn’t send a trainee teacher to one of the schools they had previously trained at.",
+      "However, a dance provider mentioned they’d use this information to make sure they did not send a trainee teacher to one of the schools they had previously trained at.",
       "Not currently shown to providers."
     ]
   }
@@ -1687,7 +1687,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
     notes: [
-      "Some HEIs really wanted to see that candidates had clearly stated they didn’t have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement.",
+      "Some HEIs really wanted to see that candidates had clearly stated they did not have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement.",
       "[Trello card - DBS guidance and criminal records checks](https://trello.com/c/InaE3OPE/101)"
     ]
   }

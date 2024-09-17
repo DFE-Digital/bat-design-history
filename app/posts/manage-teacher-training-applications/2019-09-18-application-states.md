@@ -21,7 +21,7 @@ Those original states have largely stayed the same, they are:
 - Confirmed (previously Recruited)
 - Rejected (unchanged)
 
-In review and recruited didn’t make sense to users. It wasn’t clear where interviewing and offers made would sit.
+In review and recruited did not make sense to users. It wasn’t clear where interviewing and offers made would sit.
 
 These states correspond to the ‘Change status’ actions a user can make.
 
@@ -56,4 +56,4 @@ An unconditional offer (which would be ‘Accepted (unconditional)’) goes stra
 - Rejected by default – gone beyond the RBD date
 - Withdrawn – candidate has removed their application
 - Offer rejected – candidate was made an offer but refused
-- Declined by default – candidate didn’t respond to offer in time
+- Declined by default – candidate did not respond to offer in time

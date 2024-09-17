@@ -28,13 +28,13 @@ We removed the sort controls and ordered the list by priority as follows:
 
 1. Deferred offers (these need dealing with as soon as the next cycle begins)
 2. Applications that are approaching the deadline and will be rejected automatically if not dealt with
-3. Applications that were automatically rejected because the provider didn’t respond in time
+3. Applications that were automatically rejected because the provider did not respond in time
 4. New applications that are waiting on the provider’s response.
 5. Applications that are waiting on the candidate to accept or decline an offer or to meet conditions.
 6. Successful applications where conditions have been met.
 7. All other applications that do not need action like rejected, conditions not met and declined.
 
-Sub headings were added to make the tasks clear. This way we didn’t need a secondary view to help users know what needs doing. It’s integrated directly within the main flow.
+Sub headings were added to make the tasks clear. This way we did not need a secondary view to help users know what needs doing. It’s integrated directly within the main flow.
 
 ## How the activity log works
 

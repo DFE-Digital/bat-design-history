@@ -53,7 +53,7 @@ The journeys include:
 
 In the [previous iteration](/manage-teacher-training-applications/setting-up-permissions) we took users straight to the permissions for the first partner organisation.
 
-This meant users didn’t understand fully what they were looking at.
+This meant users did not understand fully what they were looking at.
 
 If we add a ‘before you start’ page
 Then users will understand what’s going on and what they’ll need to do

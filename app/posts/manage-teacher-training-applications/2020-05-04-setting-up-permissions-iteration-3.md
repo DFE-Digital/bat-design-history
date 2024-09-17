@@ -68,7 +68,7 @@ So that my colleagues can only view certain information and perform certain acti
 
 ### Showing the user belongs to multiple organisations
 
-The [previous design](/manage-teacher-training-applications/setting-up-permissions-iteration-2) didn’t handle the situation where a user belongs to multiple organisations.
+The [previous design](/manage-teacher-training-applications/setting-up-permissions-iteration-2) did not handle the situation where a user belongs to multiple organisations.
 
 If we show the user they're part of multiple organisations
 Then they'll understand what’s about to happen on the following screens

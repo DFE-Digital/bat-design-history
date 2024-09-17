@@ -83,7 +83,7 @@ And it doesn’t feel right being part of the notifications area which is only a
 
 ## Changing ‘Online notification’ to ‘Notifications area’
 
-In the previous iteration we referred to in-service notifications as ‘Online notifications’ but users didn’t really understand what that meant.
+In the previous iteration we referred to in-service notifications as ‘Online notifications’ but users did not really understand what that meant.
 
 If we use ‘Notifications area’
 Then it’ll be easier for users to understand it

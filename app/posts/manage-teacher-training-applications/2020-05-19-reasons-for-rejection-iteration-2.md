@@ -33,14 +33,14 @@ Then they’ll be more inclined to apply again
 
 ### Add a question in relation to interview performance
 
-The previous iteration didn’t include a question for interview performance which is a possible reason for rejection.
+The previous iteration did not include a question for interview performance which is a possible reason for rejection.
 
 If we include this question
 Then providers will not have to type this manually
 
 ### Add a question in relation to whether they were only rejected because they were offered a different course by the same provider
 
-The previous iteration didn’t include a question for when the application was rejected due to being offered one of their other choices.
+The previous iteration did not include a question for when the application was rejected due to being offered one of their other choices.
 
 If we include this question
 Then providers will not have to type this manually
@@ -69,7 +69,7 @@ Then we can skip these questions for the provider to speed up their journey
 
 ### Show a preview of the candidate feedback
 
-The previous iteration used a standard check answers page which meant provider’s didn’t know how their feedback would be shown to candidates.
+The previous iteration used a standard check answers page which meant provider’s did not know how their feedback would be shown to candidates.
 
 If we show providers how their feedback will be shown to candidates
 Then providers will be able to provide feedback in the right format without worrying how it might come across to candidates.

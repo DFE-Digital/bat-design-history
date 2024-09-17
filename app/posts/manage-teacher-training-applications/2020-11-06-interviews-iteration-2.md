@@ -40,7 +40,7 @@ This post documents various improvements to the way interviews work. [View initi
 
 In the previous iteration we had ‘Awaiting interview’ and ‘Interviewed’ states.
 
-The intention was to have the status change automatically to ‘Interviewed’ at the end of the day the last interview took place. But that could be misleading if the interview didn’t actually take place.
+The intention was to have the status change automatically to ‘Interviewed’ at the end of the day the last interview took place. But that could be misleading if the interview did not actually take place.
 
 Alternatively, we thought about letting users change the status themselves by marking an application as ‘Interviewed’ but that means we have to rely on users actually doing that for very little gain.
 
@@ -90,7 +90,7 @@ So for users who belong to both organisations, we now ask users to specify the o
 
 ## Showing past interviews on interviews list page
 
-In the previous iteration we didn’t think about whether past interviews would show on the interviews list page.
+In the previous iteration we did not think about whether past interviews would show on the interviews list page.
 
 We decided that it is better to show past interviews rather than having them disappear. This way users do not have to hunt for them elsewhere.
 
@@ -106,7 +106,7 @@ We decided not to show the interview preferences and the additional details in t
 
 ## Keeping the priority heading as ‘Deadline approaching: respond to the candidate’
 
-In the previous iteration we found some users didn’t understand that the priority heading related to the Reject By Default (RBD) date.
+In the previous iteration we found some users did not understand that the priority heading related to the Reject By Default (RBD) date.
 
 We considered adding the acronym into the heading but then decided to give it more time.
 

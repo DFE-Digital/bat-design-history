@@ -117,7 +117,7 @@ In the prototype we tested, we included an additional question, which asked prov
 
 ![Screenshot with the heading ‘Does their SKE course have to be completed before their training coruse starts, in September 2023?’ with 2 radio button answers: ‘Yes’ and ‘No, so long as they’ve started it by then’](ske-deadline.png)
 
-We found that most providers wanted to strongly encourage trainees to complete the SKE course before their training, but that they would allow some overlap in exceptional circumstances. This meant they didn’t feel it was a straight yes or no answer.
+We found that most providers wanted to strongly encourage trainees to complete the SKE course before their training, but that they would allow some overlap in exceptional circumstances. This meant they did not feel it was a straight yes or no answer.
 
 We also subsequently discovered that when a trainee starts their teacher training course, they lose their entitlement to the £175 per week bursary for any remaining weeks.
 

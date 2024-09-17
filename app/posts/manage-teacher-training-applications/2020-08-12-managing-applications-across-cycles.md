@@ -11,7 +11,7 @@ In the last round of research we let users [switch between cycles](/manage-teach
 
 In research we asked participants to find an application from the previous cycle.
 
-Several participants went to the search box and didn’t realise the results were scoped by the currently selected cycle.
+Several participants went to the search box and did not realise the results were scoped by the currently selected cycle.
 
 The switcher also means there’s 2 ways of changing what the user sees in the list: the switcher and the filter.
 

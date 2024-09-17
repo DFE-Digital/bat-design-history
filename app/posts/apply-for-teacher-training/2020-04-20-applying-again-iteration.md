@@ -65,7 +65,7 @@ If we add ‘not started’ and ‘in progress’ states, then candidates will b
 
 12 out of 13 participants understood the difference between these states.
 
-1 participant (P5) didn’t realise they needed to mark the other tasks as complete until they got to the review page.
+1 participant (P5) did not realise they needed to mark the other tasks as complete until they got to the review page.
 
 [See P5 on Lookback](https://lookback.io/watch/FvL23dcHaUZauAchg?t=25m1s)
 

@@ -11,7 +11,7 @@ screenshots:
       caption: |
         - Show this page instead of the default home page
         - Give the reason why they need to replace a referee, matching the words used in emails:
-        - Our email requesting a reference didn’t reach Glinda Baumbach.
+        - Our email requesting a reference did not reach Glinda Baumbach.
         - We haven’t had a reference from Doyle Denesik.
         - Carmel Kohler said they will not give a reference.
         - Allow users to skip the step, but show it again next time they sign in
@@ -31,7 +31,7 @@ screenshots:
     - text: Application dashboard after adding a referee
       src: 04-application-dashboard-after-adding-referee.png
     - text: Application dashboard with warning
-      caption: If they skipped the first screen, or didn’t add a referee, maintain a warning on the dashboard
+      caption: If they skipped the first screen, or did not add a referee, maintain a warning on the dashboard
       src: 05-application-dashboard-with-warning.png
 related:
   items:

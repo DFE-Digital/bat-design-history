@@ -33,7 +33,7 @@ related:
 
 Many providers told us that they need to see a candidate’s full work history, not just the last 5 years, in order to meet policies around safeguarding.
 
-Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they didn’t always read these in detail, possibly because roles were not relevant to teaching, or because the text was too long and overlapped with a personal statement.
+Candidates were spending a significant amount of time filling in the “Skills and experience relevant to teaching” question for each job, treating these as a “mini personal statement”. However, providers indicated that they did not always read these in detail, possibly because roles were not relevant to teaching, or because the text was too long and overlapped with a personal statement.
 
 Analysis of validation errors also revealed that candidates were often leaving the “Skills and experience relevant to teaching” question blank. Our hypothesis was that they wanted to come back and write this section later.
 
@@ -41,7 +41,7 @@ Analysis of validation errors also revealed that candidates were often leaving t
 
 We moved the work history section beneath the “Safeguarding” heading on the application review page. This was to try and communicate to candidates that the purpose of the work history was mainly for safeguarding, rather than something used to directly assess them.
 
-We changed the “How long have you been working?” question to “Do you have any work history?”. We didn’t need to guide candidates towards entering only their last 5 years of work history anymore.
+We changed the “How long have you been working?” question to “Do you have any work history?”. We did not need to guide candidates towards entering only their last 5 years of work history anymore.
 
 We added an answer to this question – “No, I have always been in full time education”. This was based on analysis showing that around 20% of candidates are 20 or 21 years old, and have likely gone straight from A-Levels to University, which may explain their lack of work history. Adding this option means that they do not have to explain this in their own words.
 
@@ -55,14 +55,14 @@ The most significant change was to remove the textbox asking candidates to descr
 
 Minor changes included:
 
-- Removing the working pattern question for part time jobs – this didn’t seem to be strongly required, and would be complicated to answer for part time or casual jobs done a long time ago.
-- Removing the hint text suggesting candidates add the name of their own company if self-employed – this didn’t seem to be required.
+- Removing the working pattern question for part time jobs – this did not seem to be strongly required, and would be complicated to answer for part time or casual jobs done a long time ago.
+- Removing the hint text suggesting candidates add the name of their own company if self-employed – this did not seem to be required.
 - Changing the end date from “End date (leave blank if this is your current role)” to “Are you still working in this job?”. If the candidate answered “No” then a ”When did you leave this job?” question was revealed. This was remove the cognitive burden of the ”leave blank if…” line.
 - Changing the start date from “Start date” to “When did you start this job?”, for consistency with the “When did you leave this job?” question, and to better reflect the fact that we do not ask for a full date, only month and year.
 
 When a candidate added a job, they were returned to the Work history review page, rather than being asked whether or not they wanted to add another job. This was partly to solve an issue seen in production where candidates go to add another job, but then leave all the fields blank and submit the form, causing validation errors.
 
-Our hypothesis was that this is because they either changed their mind or didn’t realise that they would need to add another job immediately. Additionally, by taking candidates back to the review page after adding each job, they are able to review their progress in adding jobs so far, and can remind themselves where they’ve got to – which may be more important when adding lots and lots of jobs.
+Our hypothesis was that this is because they either changed their mind or did not realise that they would need to add another job immediately. Additionally, by taking candidates back to the review page after adding each job, they are able to review their progress in adding jobs so far, and can remind themselves where they’ve got to – which may be more important when adding lots and lots of jobs.
 
 We redesigned the review page. Instead of using summary cards for each job, the jobs were presented in a table format. This was intended to remove the duplication caused by repeating the field names in each summary card, and make it easier for candidates to scan the page, as each job takes up less vertical height.
 

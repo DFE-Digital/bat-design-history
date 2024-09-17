@@ -48,7 +48,7 @@ And we added a note to explain why view permissions cannot be changed.
 
 In the [previous design](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-list-page) we labelled the page ‘Organisations’ but the section only lets you manage organisational permissions so we updated the heading.
 
-And it didn’t give users any context as to what they could do in this section. So we added some guidance too.
+And it did not give users any context as to what they could do in this section. So we added some guidance too.
 
 ![Screenshot of list page.](manage-org-permissions--list.png)
 

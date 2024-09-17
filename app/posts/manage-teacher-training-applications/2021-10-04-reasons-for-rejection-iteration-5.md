@@ -117,7 +117,7 @@ We looked at how often each reason was used to reject an application between Jan
 |------------|----------|----------|
 | Information given on application form false or inaccurate | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21 |
 | Evidence of plagiarism in personal statement or elsewhere | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21 |
-| References didn’t support application | 0.07% <br> 3 out of 4045 | 3.92% <br> 3 out of 21 |
+| References did not support application | 0.07% <br> 3 out of 4045 | 3.92% <br> 3 out of 21 |
 | Other | 0.4% <br> 16 out of 4045 | 3.92% <br> 16 out of 21 |
 
 ### Safeguarding

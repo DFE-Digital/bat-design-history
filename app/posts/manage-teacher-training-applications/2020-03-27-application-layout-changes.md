@@ -20,7 +20,7 @@ We will know this works when we see users sharing the PDF application with colle
 
 ### Layout of disability, access and other needs
 
-Previously this section was labelled [Accessibility needs](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers didn’t fully understand what it meant.
+Previously this section was labelled [Accessibility needs](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers did not fully understand what it meant.
 
 Disability information needs to be accessed after the application has been reviewed and sifted. The specifics of the application are less relevant to the continued processing. Whereas information about disability will be needed up until the point of enrolment.
 
@@ -31,7 +31,7 @@ Then providers will understand it and be able to get to it more easily
 
 ### Layout of criminal convictions and professional misconduct
 
-Previously this section was labelled [Safeguarding](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers didn’t fully understand what it meant.
+Previously this section was labelled [Safeguarding](/manage-teacher-training-applications/offer-panel#offer-panel-new). But research showed that providers did not fully understand what it meant.
 
 It was also positioned lower down within the personal statement section in order to avoid unconscious bias against candidates who have disclosed something. But research showed it was often missed.
 
