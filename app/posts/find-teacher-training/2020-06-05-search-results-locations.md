@@ -37,7 +37,7 @@ We must indicate to a candidate:
 
 When we tested search results with providers, we started minimally, showing the following text:
 
-> __Distance:__
+> **Distance:**
 >
 > Placement schools are in this area
 > 3 miles to university
@@ -52,7 +52,7 @@ With these options for the placement school text:
 
 For candidates we expanded university search results to give more context about where time would be spent:
 
-> __Location:__
+> **Location:**
 >
 > Placement schools:
 > Placement schools are in this area
@@ -64,7 +64,7 @@ For candidates we expanded university search results to give more context about 
 
 And we gave more context to other results:
 
-> __Location:__
+> **Location:**
 >
 > 2 miles away
 > (Nearest of 3 locations to choose from)
@@ -91,7 +91,7 @@ We changed the following to make it clearer that we meant distance from them rat
 - used vaguer terms to represent the diminishing chance that a placement school is close by, ‘might be near you’ and then ‘might be in commuting distance’
 - added a details element to explain placement schools, to justify the vagueness (we do not know which school they will be in, they cannot choose the school, the university will not know until the school begins, past schools used for certain subjects are not good indicators)
 
-> __Location:__
+> **Location:**
 >
 > Placement schools:
 > Placement schools are near you

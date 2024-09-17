@@ -115,7 +115,7 @@ For a short story of this, see our [show and tell slides](https://docs.google.co
 - Weblink is not  accessible to all users who interact with applications, meaning applications are constantly downloaded and managed outside of the service - this has GDPR implications.
 - There are constraints around the types of sensitive data the system can collect and display due to the permissions setup. For example, detailed information about criminal convictions from the candidate.
 
-**Goal:** We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
+**Goal: We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
 
 We formulated a starting hypothesis to test:
 
@@ -136,7 +136,7 @@ We conducted a survey to learn how providers work with one another, particularly
 
 [Accredited body survey report](https://docs.google.com/presentation/d/1r7PNdue_o4TEdIZZXGkpNlSzFuzsamRdIsw1-x_fQPA/edit#slide=id.p)
 
-__Key findings:__
+##### Key findings
 
 - There is a lot of complexity in this space.
 - We identified a number of different organisational structures, each of which has implications for how applications are processed and managed.
@@ -157,7 +157,7 @@ A School Direct with 4 different HEI accredited bodies.
 - [Session notes](https://docs.google.com/document/d/1hSYC9knyDeW1LsUlenZeil9tkoeoIPRZTc7v5YZeL4Y/edit)
 - [Process map](https://drive.google.com/drive/folders/1p4Ap6BwUsEi4X_5xuqY1wp2QgY6IUHf5)
 
-__Key access control findings:__
+###### Key access control findings
 
 - Each accredited body HEI has a slightly different process that they want to be followed for managing applications for courses they ratify
 - CTSA are very much in control of driving the process and have to be mindful of which HEI an application is for
@@ -171,7 +171,7 @@ An accredited body and SCITT, ratifying courses for 12 partner schools, of which
 
 - [Session notes](https://docs.google.com/document/d/1QOGasJVs06b4NMhBWnPj9bIrhPL_P5ggf0t_N1F_2yo/edit)
 
-__Key access control findings:__
+###### Key access control findings
 
 - Each school has an agreement with KNSTE SCITT on ways of working
 - People from the SCITT and from the schools are involved in decision-making, but most of the time KNSTE are uploading decisions into UCAS. So there are users who only need to view applications.
@@ -194,9 +194,12 @@ These diagrams show the organisational structures, but do not explain what diffe
 
 During research, we identified a candidate need to explain any criminal convictions:
 
->__As a__ candidate
->__I need to__ feel comfortable disclosing negative information about my past
->__So that__ I know whether it’s worth carrying on with my application
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to feel comfortable disclosing negative information about my past
+So that I know whether it’s worth carrying on with my application"
+}) }}
 
 [The questions we ask candidates](https://apply-beta-prototype.herokuapp.com/application/12345/suitability/)
 
@@ -239,11 +242,13 @@ The research shows that:
 
 #### Sharing applications with other users
 
-##### Key needs
+##### Key need
 
->__As an__ administrator within a provider
->__I need to__ share an application with other decision-makers (potentially in other organisations)
->__So that__ we can decide how to progress the application
+{{ appUserNeed({
+  description: "As an administrator within a provider
+I need to share an application with other decision-makers (potentially in other organisations)
+So that we can decide how to progress the application"
+}) }}
 
 ##### Supporting needs
 
@@ -253,11 +258,13 @@ The research shows that:
 
 #### Shared decision-making
 
-##### Key needs
+##### Key need
 
->__As a__ partner school or School Direct
->__I need to__ send a provisional decision about an application to the accredited body for that course
->__So that__ they can make the final decision and issue the offer
+{{ appUserNeed({
+  description: "As a partner school or School Direct
+I need to send a provisional decision about an application to the accredited body for that course
+So that they can make the final decision and issue the offer"
+}) }}
 
 ##### Supporting needs
 
@@ -268,21 +275,29 @@ The research shows that:
 
 ##### Key needs
 
->__As a__ provider user
->__I need to__ be able to see applications for the other organisations in my network
->__So that__ I can process applications according to the working practices we’ve agreed upon
+{{ appUserNeed({
+  description: "As a provider user
+I need to be able to see applications for the other organisations in my network
+So that I can process applications according to the working practices we’ve agreed upon"
+}) }}
 
->__As a__ provider user
->__I need to__ know who took which actions on an application, when they took those actions and to which organisation they belong
->__So that__ when I pick up the application I know what has been done to it and therefore what actions I now need to take
+{{ appUserNeed({
+  description: "As a provider user
+I need to know who took which actions on an application, when they took those actions and to which organisation they belong
+So that when I pick up the application I know what has been done to it and therefore what actions I now need to take"
+}) }}
 
->__As a__ provider user
->__I need to__ know what I need to do with an application when I start work on it. I need to know if another user has actions they need me to take on this application
->__So that__ I can work efficiently without needing to ask for guidance
+{{ appUserNeed({
+  description: "As a provider user
+I need to know what I need to do with an application when I start work on it. I need to know if another user has actions they need me to take on this application
+So that I can work efficiently without needing to ask for guidance"
+}) }}
 
->__As a__ provider
->__I need to__ be able to move candidates from one course in my network of organisations to another
->__So that__ I can ensure that promising candidates aren’t lost and are provided with the best chance of being made an offer
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to move candidates from one course in my network of organisations to another
+So that I can ensure that promising candidates aren’t lost and are provided with the best chance of being made an offer"
+}) }}
 
 ##### Supporting needs
 
@@ -291,11 +306,13 @@ The research shows that:
 
 #### Safeguarding
 
-##### Key needs
+##### Key need
 
->__As a__ provider
->__I need__ certain individuals within my organisation to know about a candidate’s past
->__So that__ we can make a judgement on whether to pursue their application while also reducing the risk of candidate’s information being made public to the wrong people
+{{ appUserNeed({
+  description: "As a provider
+I need certain individuals within my organisation to know about a candidate’s past
+So that we can make a judgement on whether to pursue their application while also reducing the risk of candidate’s information being made public to the wrong people"
+}) }}
 
 ### Options analysis session
 
