@@ -10,7 +10,7 @@ Getting deferral ready for release and addressing issues found in research with 
 
 In the previous iteration some participants did not notice the prompt to reconfirm an offer at the top of the application details pages.
 
-S we’ve made the prompt clearer by:
+We’ve made the prompt clearer by:
 
 - using the inset text component
 - adding a heading

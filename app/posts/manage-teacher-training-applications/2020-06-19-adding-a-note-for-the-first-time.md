@@ -4,7 +4,7 @@ description: Help users understand how notes work when they first go to add a no
 date: 2020-06-18
 ---
 
-Research shows that users aren’t sure how notes work.
+Research shows that users are not sure how notes work.
 
 They’re particularly uncertain about whether candidates will be able to see their notes.
 

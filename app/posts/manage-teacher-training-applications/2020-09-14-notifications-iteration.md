@@ -51,7 +51,7 @@ The previous iteration used a summary list. But this took up a lot of vertical s
 If we use a table
 Then it’ll be easier to scan
 
-When using regular text for the notification settings screen makes it harder to distinguish between notifications that are on and those that aren’t.
+When using regular text for the notification settings screen makes it harder to distinguish between notifications that are on and those that are not.
 
 If we use a tick icon
 Then it’ll be easier to scan

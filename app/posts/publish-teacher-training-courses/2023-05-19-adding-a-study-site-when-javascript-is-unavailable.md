@@ -56,6 +56,6 @@ Selecting a study site from the list allows the user to continue and add the stu
 
 We show an error message if the user tries to continue without selecting a study site.
 
-If the study site the user is looking for is not listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+If the study site the user is looking for is not listed or there are not any results, the user can change their search, which takes them back to the initial search form.
 
 *[GIAS]: Get information about schools

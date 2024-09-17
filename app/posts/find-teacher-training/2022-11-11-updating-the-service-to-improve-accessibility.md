@@ -1,6 +1,6 @@
 ---
 title: Updating the service to improve accessibility
-description: We have made some changes to the service, which aren’t visually apparent but improve accessibility
+description: We have made some changes to the service, which are not visually apparent but improve accessibility
 date: 2022-11-11
 tags:
   - accessibility

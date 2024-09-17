@@ -88,7 +88,7 @@ So that I do not waste a choice on a course that cannot accept me"
 
 If we warn the user when they are reviewing their application, then they will know that they should delete or change that course before they try to continue. If they try and continue regardless, we can prevent them using validation and show the same messages as errors.
 
-This is a prevention technique at the most appropriate point. We can nudge users earlier on in their journey, which would mean these messages are less likely to be seen. We aren’t designing these warnings yet.
+This is a prevention technique at the most appropriate point. We can nudge users earlier on in their journey, which would mean these messages are less likely to be seen. We are not designing these warnings yet.
 
 ### Errors and warning messages
 

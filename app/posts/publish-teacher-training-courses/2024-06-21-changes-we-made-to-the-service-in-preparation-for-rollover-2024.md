@@ -81,7 +81,7 @@ We originally intended to separate the ‘Personal qualities’ and ‘Other req
 
 We already surface information very similar to the content that providers enter in personal qualities on the screen where candidates enter their personal statement. This is the most relevant place for this content in the journey.
 
-We aren’t dropping columns because we’ll need to see the data for providers to see for courses in the past.
+We are not dropping columns because we’ll need to see the data for providers to see for courses in the past.
 
 The content entered in the Other qualities field covered the mandatory checks (DBS and fitness to train to teach checks) before an offer of training can be accepted.
 

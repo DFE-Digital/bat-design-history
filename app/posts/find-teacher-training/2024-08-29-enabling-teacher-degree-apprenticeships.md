@@ -63,7 +63,7 @@ TDAs do not offer visa sponsorship.
 
 Therefore, if candidates do not have a university degree and require visa sponsorship, they are not eligible for teacher training courses on Find, including TDAs and postgraduate courses.
 
-We needed a way for candidates who aren’t eligible to exit the service and look at other routes into teaching.
+We needed a way for candidates who are not eligible to exit the service and look at other routes into teaching.
 
 To do this, we added a new exit page in Find, and logic to display this page when candidates stated they did not have degree and required visa sponsorship.
 

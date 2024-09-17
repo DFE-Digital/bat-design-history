@@ -86,7 +86,7 @@ We should also restrict access to this information for internal support users
 
 In this document, ‘access management’ and ‘access control’ mean the permissions given training provider users and organisations to make decisions and see sensitive information.
 
-Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions aren’t needed for this.
+Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions are not needed for this.
 
 For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs)
 
@@ -140,7 +140,7 @@ We conducted a survey to learn how providers work with one another, particularly
 
 - There is a lot of complexity in this space.
 - We identified a number of different organisational structures, each of which has implications for how applications are processed and managed.
-- Organisational structures aren’t always based on a formal accreditation relationship and they likely change over time based on the system and their ways of working.
+- Organisational structures are not always based on a formal accreditation relationship and they likely change over time based on the system and their ways of working.
 - Whoever an application starts with has some involvement at all stages of the application process.
 - Applications are being looked at by more than one organisation at most stages of the process.
 - Some of the stages can involve multiple actions or workflows.
@@ -296,7 +296,7 @@ So that I can work efficiently without needing to ask for guidance"
 {{ appUserNeed({
   description: "As a provider
 I need to be able to move candidates from one course in my network of organisations to another
-So that I can ensure that promising candidates aren’t lost and are provided with the best chance of being made an offer"
+So that I can ensure that promising candidates are not lost and are provided with the best chance of being made an offer"
 }) }}
 
 ##### Supporting needs

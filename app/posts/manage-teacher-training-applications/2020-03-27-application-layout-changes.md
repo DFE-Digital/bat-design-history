@@ -10,7 +10,7 @@ date: 2020-03-27
 
 Providers have consistently shown in research that they need to share applications with their colleagues. They do this either by printing the page or by saving the page as a PDF.
 
-Many computers offer the ability to ‘print to PDF’ but many people aren’t aware of this feature.
+Many computers offer the ability to ‘print to PDF’ but many people are not aware of this feature.
 
 If we let users download the application as a PDF then they can print it out or send it via email.
 

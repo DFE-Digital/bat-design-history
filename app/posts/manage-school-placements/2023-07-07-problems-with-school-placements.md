@@ -57,7 +57,7 @@ If only some schools are participating in ITT in an area, the problems with capa
 
 3.2. Some ITT providers need help filling their school placement capacity with suitable trainees in their area.
 
-Some areas aren’t attractive to trainees. For example, the cost of living in an area makes it difficult for trainees to relocate or choose teaching as a viable profession.
+Some areas are not attractive to trainees. For example, the cost of living in an area makes it difficult for trainees to relocate or choose teaching as a viable profession.
 
 ## 4. Problems with scalability and standardisation
 

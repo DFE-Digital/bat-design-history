@@ -116,7 +116,7 @@ This is something we’ll keep an eye on with this new iteration.
 
 ## Gaps still to address
 
-- The timeline and activity log aren’t showing a complete list of interview related actions.
+- The timeline and activity log are not showing a complete list of interview related actions.
 - The ‘Interview preferences’ icon is using a check mark which is not really what it’s for.
 - Should a cancelled interview disappear from the UI or get marked as cancelled?
 - The interview list page needs to show course details.

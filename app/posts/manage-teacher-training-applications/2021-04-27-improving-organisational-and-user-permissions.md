@@ -59,7 +59,7 @@ We’ve also removed the hint text because the field legends can now stand alone
 
 We’ve replaced the tick icons with normal bullet points. This is because:
 
-- on this page we only use tick icons, we aren’t contrasting them with crosses, so they have no more meaning than a bullet point
+- on this page we only use tick icons, we are not contrasting them with crosses, so they have no more meaning than a bullet point
 - the use of a tick may imply that they can be ‘unticked’ or replaced with crosses - it may not be clear to the user that the items cannot be changed
 - the heading makes it clear that the list is things the user can do, so there’s no need to further emphasise that it’s a list of positives
 

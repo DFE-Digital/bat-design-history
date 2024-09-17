@@ -41,7 +41,7 @@ We researched different ways of assessing social-economic background, and settle
 
 This is a proxy measure of social-economic status, as children have been eligible for free school meals if their families have been in receipt of certain benefits.
 
-The question is only shown to candidates who have British or Irish nationality, and who were born on or after 1 September 1964. This is because candidates who do not have British or Irish nationality are more likely to have gone to school outside of the UK, and candidates born before September 1964 are likely to have finished school before the free school meal policy was introduced in around 1980. These aren’t perfect criteria, as someone could still have gone to school in the UK despite not having British or Irish nationality, but are a compromise to avoid asking lots of people a question that is not relevant.
+The question is only shown to candidates who have British or Irish nationality, and who were born on or after 1 September 1964. This is because candidates who do not have British or Irish nationality are more likely to have gone to school outside of the UK, and candidates born before September 1964 are likely to have finished school before the free school meal policy was introduced in around 1980. These are not perfect criteria, as someone could still have gone to school in the UK despite not having British or Irish nationality, but are a compromise to avoid asking lots of people a question that is not relevant.
 
 As a candidate could have British or Irish nationality but still have gone to school outside the UK, we added a "I did not go to school in the UK" answer, and included "in the UK" within the question text.
 

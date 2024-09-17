@@ -49,6 +49,6 @@ Selecting a school from the list allows the user to continue and add the school.
 
 If the user tries to continue without selecting a school, we show an error message.
 
-If the school the user is looking for is not listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+If the school the user is looking for is not listed or there are not any results, the user can change their search, which takes them back to the initial search form.
 
 *[GIAS]: Get Information about Schools
