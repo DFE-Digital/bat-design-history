@@ -6,6 +6,8 @@ tags:
  - notifications
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 As part of our work to change the applications process for the 2023 to 2024 recruitment cycle, we had to review all the email notifications we send from Apply for teacher training (Apply).
 
 Some of the changes to our emails were released over time in August and September 2023.
@@ -47,8 +49,8 @@ This email has not been implemented yet but will be by the end of 2023.
 
 This is the content on one of these emails:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Hello [first name]
 
 You received an offer for a place on the course, [course name] at [Provider name] 40 days ago.
@@ -70,7 +72,7 @@ If your training provider agrees, you’ll need to accept the offer first.
 Call 0800 389 2500 or [chat online](/getintoteaching.education.gov.uk/help-and-support).
 
 Monday to Friday, 8:30am to 5:30pm (except public holidays).
-</div>
+" }) }}
 
 ## New email to tell candidates they have an extra course choice
 
@@ -84,8 +86,8 @@ This email has not been implemented yet but will be by the end of 2023.
 
 This is the content on one of these emails:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Hello [first name]
 
 To give yourself the best chance of success, you can apply to another training provider while you wait for a response to your application for [course name] at [provider name].
@@ -101,7 +103,7 @@ You can also contact [provider name] to check on your application.
 Call 0800 389 2500 or [chat online](/getintoteaching.education.gov.uk/help-and-support).
 
 Monday to Friday, 8:30am to 5:30pm (except public holidays).
-</div>
+" }) }}
 
 ## Further considerations
 

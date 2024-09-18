@@ -1,10 +1,12 @@
 ---
 title: Helping candidates prepare for the 2023 to 2024 recruitment cycle
-description: During August and September 2023, we planned a series of email communications to candidates to help them prepare for the 2023 to 2024 recruitment cycle for initial teacher training (ITT). 
+description: During August and September 2023, we planned a series of email communications to candidates to help them prepare for the 2023 to 2024 recruitment cycle for initial teacher training (ITT).
 date: 2023-11-01
 tags:
  - notifications
 ---
+
+{% from "email/macro.njk" import appEmail %}
 
 During August and September 2023, we planned a series of email communications to candidates to help them prepare for the 2023 to 2024 recruitment cycle for initial teacher training (ITT).
 
@@ -26,8 +28,8 @@ This email was to remind candidates who had unsubmitted applications to submit t
 
 Email content:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Hello [First name]
 
 Applications for teacher training courses starting in the 2023 to 2024 academic year close tomorrow, Tuesday 19 September at 6pm.
@@ -47,8 +49,7 @@ When you log in after 6pm tomorrow, all your details will be saved, and you’ll
 Call 0800 389 2500 or [chat online](https://getintoteaching.education.gov.uk/help-and-support).
 
 Monday to Friday, 8:30am to 5:30pm (except public holidays).
-
-</div>
+" }) }}
 
 ### 26 September – email to candidates to remind them to carry over any unsubmitted applications
 
@@ -56,8 +57,8 @@ Once a recruitment cycle ends, candidates can ‘carry over’ their unfinished 
 
 Email content:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Hello [First name]
 
 Applications for teacher training courses starting in the 2023 to 2024 academic year are now closed.
@@ -83,8 +84,7 @@ Training providers offer places on courses throughout the year. Courses stay ope
 Call 0800 389 2500 or [chat online](https://getintoteaching.education.gov.uk/help-and-support).
 
 Monday to Friday, 8:30am to 5:30pm (except public holidays).
-
-</div>
+" }) }}
 
 ### Automated emails from Apply for teacher training (Apply)
 
@@ -111,8 +111,8 @@ We sent an email to candidates with a link to our terms and conditions to notify
 
 Email content:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Thank you for using Apply for teacher training (Apply).
 
 We’ve recently made some improvements to the service. Because of this, we’ve also made some small changes to our terms and conditions.
@@ -124,5 +124,4 @@ You can read the updated terms for the Apply service on our [terms and condition
 If you need support with your application, you can speak to a teacher training adviser. Call 0800 389 2500 or [chat online](https://getintoteaching.education.gov.uk/help-and-support).
 
 Monday to Friday, 8:30am to 5:30pm (except public holidays).
-
-</div>
+" }) }}

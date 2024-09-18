@@ -6,6 +6,8 @@ tags:
   - notifications
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 During August and September 2023, we planned a series of email communications to training providers to help them prepare for the end of the recruitment cycle for initial teacher training (ITT).
 
 ## The issue
@@ -35,8 +37,8 @@ We also needed to explain what providers should do if candidates have not receiv
 
 Email to SCITT providers:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Dear [First name]
 
 The 2022 to 2023 recruitment cycle ends on 27 September 2023. Training providers will soon be registering new trainees in Register trainee teachers (Register).
@@ -74,7 +76,7 @@ If a candidate has started their training but does not meet the GCSE standard fr
 ### Get help
 
 If you need any help, contact us at <becomingateacher@digital.education.gov.uk>
-</div>
+" }) }}
 
 For the email to HEIs, we did not mention how Apply works with Register. HEIs use their own student record systems and use Register in a different way to SCITTs through the Higher Education Statistics Agency (HESA).
 
@@ -86,8 +88,8 @@ We also used it as an opportunity to tell providers what the 2023 to 2024 recrui
 
 Email content:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Dear [First name]
 
 The 2022 to 2023 recruitment cycle ends on 27 September 2023 at 11:59pm.
@@ -106,7 +108,7 @@ Your organisation should make sure all your courses are published by this date s
 ### Get help
 
 Contact us at <becomingateacher@digital.education.gov.uk> if you need any help preparing for the end of this recruitment cycle and the start of the 2023 to 2024 cycle.
-</div>
+" }) }}
 
 ### 21 September – Becoming a teacher newsletter
 
@@ -116,8 +118,8 @@ We took this as an opportunity to tell all training providers about how we were 
 
 Content we added to the newsletter
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 ### Changes to how candidates apply for teacher training in the 2023 to 2024 recruitment cycle
 
 Candidates will be able to submit their applications for the next recruitment cycle from 10 October 2023 at 9am. [View the new recruitment cycle dates](https://www.gov.uk/government/publications/recruiting-postgraduate-trainee-teachers-recruitment-cycle-dates/recruiting-postgraduate-trainee-teachers-recruitment-cycle-dates).
@@ -158,5 +160,4 @@ Once a candidate submits an application, they’ll be able to edit:
 We’ll show any edits a candidate makes on their application in Manage or your student record system.
 
 We’ll also send you weekly emails telling you which applications have been updated. You’ll be able to select if you do not want to receive these emails in your account settings in Manage. We’ll implement these emails later in the next recruitment cycle.
-
-</div>
+" }) }}
