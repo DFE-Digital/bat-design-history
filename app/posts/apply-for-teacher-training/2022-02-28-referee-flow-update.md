@@ -14,8 +14,8 @@ Even though declining a reference required someone to first click a confirmation
 
 To resolve this, we edited the user journey so that:
 
-* there is only one link in the email
-* the reference form asks whether you can give a reference
+- there is only one link in the email
+- the reference form asks whether you can give a reference
 
 ![Screenshot showing updated email sent to referees](referee-email.png "Updated email content")
 

@@ -51,7 +51,7 @@ An iteration on the [original design](/publish-teacher-training-courses/publish-
 
 The new design:
 
-- changes the second draft status to ‘Published *’, with ‘* unpublished changes’. The previous draft state was universally misunderstood – it’s live but has unpublished changes, people thought it was not live.
+- changes the second draft status to ‘Published *’, with ‘- unpublished changes’. The previous draft state was universally misunderstood – it’s live but has unpublished changes, people thought it was not live.
 - adds ‘Is it on Find?’, ‘Applications’ and ‘Vacancies’ labels to provide the same information as the course table
 - removes the ‘View on website’ section, replaced with ‘Is it on Find?’
 - moves the audit trail (eg when published, when saved) details to the bottom

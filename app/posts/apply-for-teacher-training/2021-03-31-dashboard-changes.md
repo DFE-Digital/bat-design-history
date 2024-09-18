@@ -37,7 +37,7 @@ We do not use the term ‘dashboard’ externally.
 
 ### Why change the dashboard?
 
-Research from 2020 told us that candidates didn’t realise that their application was something they could (or needed to) return to. To them, applying for teacher training was a one off form submitted into the ether. This has been called the ‘Elephant Problem’.
+Research from 2020 told us that candidates did not realise that their application was something they could (or needed to) return to. To them, applying for teacher training was a one off form submitted into the ether. This has been called the ‘Elephant Problem’.
 
 The objective of our work has been to:
 

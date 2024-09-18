@@ -40,7 +40,7 @@ We added a row on the course summary card for the minimum degree requirement for
 
 If a candidate’s degree grade does not meet the minimum requirement for a course, they’ll see a warning message in the Course choices section of their application.
 
-The warning message explains that they do not have the right degree grade, but that they could contact the provider to ask if they'll still consider their application.
+The warning message explains that they do not have the right degree grade, but that they could contact the provider to ask if they’ll still consider their application.
 
 ![Warning message candidate sees if they have a third-class degree and choose a course that requires a 2:1 or above.](degree-requirement-warning-message.png)
 
@@ -54,4 +54,4 @@ Candidates usually choose their courses before they add their qualifications. Th
 
 As a result, candidates may not see the warning message until they review their application.
 
-We're currently exploring how to warn them sooner.
+We’re currently exploring how to warn them sooner.

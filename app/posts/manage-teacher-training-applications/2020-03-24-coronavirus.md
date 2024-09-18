@@ -15,11 +15,11 @@ Given the impact on teacher training providers, [UCAS and the department agreed]
 
 We communicated this change to providers by:
 
-* creating a webpage with guidance about how the service is changing during this period
-* adding a banner linking to this guidance to the signed out marketing page
-* adding a banner on the signed in dashboard informing users of these changes with a link to the guidance
-* updating emails, replacing references to remaining working days with the currently calculated RBD or DBD date
-* emailing providers asking them to look at the guidance and to refer to new dates in the manage interface
+- creating a webpage with guidance about how the service is changing during this period
+- adding a banner linking to this guidance to the signed out marketing page
+- adding a banner on the signed in dashboard informing users of these changes with a link to the guidance
+- updating emails, replacing references to remaining working days with the currently calculated RBD or DBD date
+- emailing providers asking them to look at the guidance and to refer to new dates in the manage interface
 
 ## Email sent to providers
 
@@ -28,7 +28,7 @@ We communicated this change to providers by:
   subject: "Coronavirus: how Apply for teacher training is adapting",
   content: "Dear ((provider_name))
 
-  You may have heard from UCAS that we won’t be rejecting or declining any offers automatically until 20 April 2020.
+  You may have heard from UCAS that we will not be rejecting or declining any offers automatically until 20 April 2020.
 
   This is to give you more time to make decisions on applications.
 

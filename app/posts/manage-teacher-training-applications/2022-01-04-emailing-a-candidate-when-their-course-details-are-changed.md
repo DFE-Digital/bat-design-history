@@ -76,7 +76,7 @@ You can also call for free on 0800 389 2500, Monday to Friday, 8.30am to 5pm (ex
 
 ### Changing the course details at the same time as making an offer or after making an offer
 
-We've updated this email to reflect the decisions we made when creating the new email. It now:
+We’ve updated this email to reflect the decisions we made when creating the new email. It now:
 
 - does not mention which organisation made the change
 - shows the qualification

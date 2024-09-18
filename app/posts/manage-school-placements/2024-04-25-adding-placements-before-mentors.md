@@ -43,7 +43,7 @@ The flow is:
 2. Subject (this list is populated to represent the available subjects at that phase)
 3. Check your answers
 
-If the user views the details of a placement when no mentors are added, they're given a link into the mentors area to add a mentor. If the user views the details of a placement that does not have a mentor but the school does have mentors on the service, they are given a link to select a mentor.
+If the user views the details of a placement when no mentors are added, they’re given a link into the mentors area to add a mentor. If the user views the details of a placement that does not have a mentor but the school does have mentors on the service, they are given a link to select a mentor.
 
 ## Further considerations
 

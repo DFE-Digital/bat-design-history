@@ -20,10 +20,10 @@ We made this change in June 2023.
 
 Currently, candidates submit one application linked to 4 course choices. Before they submit their application, they answer a set of questions so that we can prevent discrimination in teacher training. The questions include asking:
 
-* a candidate's sex
-* if a candidate has any disabilities or health conditions
-* a candidate’s ethnic background and ethnic group
-* if a candidate received free school meals when they went to school (we collect this internally and do not share this with training providers)
+- a candidate’s sex
+- if a candidate has any disabilities or health conditions
+- a candidate’s ethnic background and ethnic group
+- if a candidate received free school meals when they went to school (we collect this internally and do not share this with training providers)
 
 These questions are not shown to providers until a candidate accepts an offer.
 
@@ -41,13 +41,13 @@ We included a line about how training providers would not see the answers to the
 
 On each question we also explained that training providers will not see these answers and not use them to make decisions.
 
-![Screenshot showing a question about a candidate's sex. The answers are radio selections of male, female, other and prefer not to say. There is also content explaining that training providers will not see the answer to this question.](guidance-text-equality-question.png)
+![Screenshot showing a question about a candidate’s sex. The answers are radio selections of male, female, other and prefer not to say. There is also content explaining that training providers will not see the answer to this question.](guidance-text-equality-question.png)
 
 On the question about if a candidate had free school meals when they were at school, we made the first line clearer to say training providers will never see the answer to this question.
 
 We ask this question to use the data internally to make sure we have adequate representation in teachers.
 
-![Screenshot showing a question about free school meals. The question asks if the user ever recevied free school meals at school. The answers they can choose include Yes, No, I did not go to school in the UK, I do not know or prefer not to say. There is also content expalining that training providers will never see the answer users give to this question.](free-school-meals-page.png)
+![Screenshot showing a question about free school meals. The question asks if the user ever recevied free school meals at school. The answers they can choose include Yes, No, I did not go to school in the UK, I don’t know or prefer not to say. There is also content expalining that training providers will never see the answer users give to this question.](free-school-meals-page.png)
 
 We launched this change in June 2023. Because it was during the current recruitment cycle, we encountered a few issues with candidates receiving errors on this section of the application form if they were already working on an application.
 
@@ -57,7 +57,7 @@ We also removed the ‘Have you completed this section?’ question if they had 
 
 Before, showing the ‘Have you completed this section’ question.
 
-![Screenshot showing a summary list of each question users are asked. Next to each summary is the content saying ‘Not answered’ followed by a ‘Change’ link. Beneath the summary list is a question asking the user if they've completed this section yet.](equality-not-answered-with-question.png)
+![Screenshot showing a summary list of each question users are asked. Next to each summary is the content saying ‘Not answered’ followed by a ‘Change’ link. Beneath the summary list is a question asking the user if they’ve completed this section yet.](equality-not-answered-with-question.png)
 
 After, showing the removal of the ‘Have you completed this section’ question.
 

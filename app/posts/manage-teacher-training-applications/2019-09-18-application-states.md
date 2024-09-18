@@ -15,17 +15,17 @@ A quick update to expand the 4 states in the August 2019 prototype to better rep
 
 Those original states have largely stayed the same, they are:
 
-* New (unchanged)
-* Interviewing (previously In progress)
-* Offer made (newly added)
-* Confirmed (previously Recruited)
-* Rejected (unchanged)
+- New (unchanged)
+- Interviewing (previously In progress)
+- Offer made (newly added)
+- Confirmed (previously Recruited)
+- Rejected (unchanged)
 
-In review and recruited didn’t make sense to users. It wasn’t clear where interviewing and offers made would sit.
+In review and recruited did not make sense to users. It was not clear where interviewing and offers made would sit.
 
 These states correspond to the ‘Change status’ actions a user can make.
 
-This is a quick design to get the statuses in, there’s no reason the nice panel boxes can’t come back somehow.
+This is a quick design to get the statuses in, there’s no reason the nice panel boxes cannot come back somehow.
 
 ## Filters on a state
 
@@ -37,23 +37,23 @@ These filters might be better surfaced once a state has been selected.
 
 ### New
 
-* References pending – not all references have been provided
-* References submitted
+- References pending – not all references have been provided
+- References submitted
 
 Some providers may only want to respond to applications when references are available.
 
 ### Offer made
 
-* Conditional
-* Unconditional - rarely used
-* Accepted (conditional) – a conditional offer has been accepted but conditions are not yet met
+- Conditional
+- Unconditional - rarely used
+- Accepted (conditional) – a conditional offer has been accepted but conditions are not yet met
 
 An unconditional offer (which would be ‘Accepted (unconditional)’) goes straight into the Confirmed state.
 
 ### Rejected
 
-* Rejected by us
-* Rejected by default – gone beyond the RBD date
-* Withdrawn – candidate has removed their application
-* Offer rejected – candidate was made an offer but refused
-* Declined by default – candidate didn’t respond to offer in time
+- Rejected by us
+- Rejected by default – gone beyond the RBD date
+- Withdrawn – candidate has removed their application
+- Offer rejected – candidate was made an offer but refused
+- Declined by default – candidate did not respond to offer in time

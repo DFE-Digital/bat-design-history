@@ -59,11 +59,11 @@ To do this, we added a new question page in Find, asking candidates if they have
 
 ### Visa sponsorship
 
-TDAs don’t offer visa sponsorship.
+TDAs do not offer visa sponsorship.
 
 Therefore, if candidates do not have a university degree and require visa sponsorship, they are not eligible for teacher training courses on Find, including TDAs and postgraduate courses.
 
-We needed a way for candidates who aren’t eligible to exit the service and look at other routes into teaching.
+We needed a way for candidates who are not eligible to exit the service and look at other routes into teaching.
 
 To do this, we added a new exit page in Find, and logic to display this page when candidates stated they did not have degree and required visa sponsorship.
 
@@ -83,9 +83,9 @@ To do this, we used the logic of the additional question page to only display TD
 
 Teacher training advisers (TTAs) are only available for postgraduate courses and are not available for TDA courses.
 
-We needed to update the content on the course pages to ensure we didn’t provide candidates with the wrong information.
+We needed to update the content on the course pages to ensure we did not provide candidates with the wrong information.
 
-To do this, we added logic to the support box at the bottom of the course page, so that the content didn’t mention TTAs for TDA courses.
+To do this, we added logic to the support box at the bottom of the course page, so that the content did not mention TTAs for TDA courses.
 
 ![Screenshot of the course page support section for TDA courses after the design changes](tda-course-page-support.png)
 

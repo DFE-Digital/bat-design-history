@@ -14,15 +14,15 @@ On 3 October 2023, the 2023 to 2024 recruitment cycle for initial teacher traini
 
 We followed a similar process to how we [communicated rollover in 2022](/publish-teacher-training-courses/managing-and-communicating-rollover-in-2022).
 
-## Duplicating course information from one cycle to the next  
+## Duplicating course information from one cycle to the next
 
 On 13 July 2023, we rolled over all courses published in the current recruitment cycle to the new 2023 to 2024 recruitment cycle.
 
 We copied all details and put the courses into the ‘Rolled over’ state. Providers could then review and edit the details and publish them in time for the new recruitment cycle.
 
-## Contacting providers about rollover  
+## Contacting providers about rollover
 
-### Before rollover  
+### Before rollover
 
 In June, we contacted providers to let them know that they will soon need to prepare and publish their courses for the new cycle.
 
@@ -34,7 +34,7 @@ content: "
 
 Dear ((first_name))
 
-On 3 October 2023, courses for the 2024 to 2025 academic year will be published on Find postgraduate teacher training (Find).  
+On 3 October 2023, courses for the 2024 to 2025 academic year will be published on Find postgraduate teacher training (Find).
 
 We’ll soon be making some changes in Publish teacher training courses (Publish) to allow you to edit and publish courses for the new recruitment cycle.
 
@@ -46,13 +46,13 @@ All courses in this recruitment cycle will be rolled over to the new cycle ready
 
 In July, you’ll see a new page titled ‘Recruitment cycles' with a link, '2023 to 2024’. You can then:
 
-* add new courses
-* update rolled over courses
-* delete any courses you’ll no longer be running
+- add new courses
+- update rolled over courses
+- delete any courses you’ll no longer be running
 
-We’ll email you again in July to let you know when courses have been rolled over.  
+We’ll email you again in July to let you know when courses have been rolled over.
 
-Find out more about how rollover works: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle>  
+Find out more about how rollover works: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle>
 
 # Improved course information
 
@@ -60,20 +60,20 @@ We speak to candidates regularly to understand what they need to know about init
 
 ## School placements
 
-Understanding where training will take place is one of the most important factors for candidates when choosing a course.  
+Understanding where training will take place is one of the most important factors for candidates when choosing a course.
 
-We know that over 80% of all course searches are by location and the only way a course can be found easily is when school placement information has been added.  
+We know that over 80% of all course searches are by location and the only way a course can be found easily is when school placement information has been added.
 
 You can add school placement information by:
 
-* adding placements quickly and easily in Publish using Get information about schools (GIAS) data – details will be automatically pre-populated for you
-* emailing us at <becomingateacher@digital.gov.uk> and we can add the information for you
+- adding placements quickly and easily in Publish using Get information about schools (GIAS) data – details will be automatically pre-populated for you
+- emailing us at <becomingateacher@digital.gov.uk> and we can add the information for you
 
 You’ll no longer need to specify if a school placement has vacancies or not, making it easier to manage your courses.
 
 ## Study sites
 
-We found that many candidates are not clear about where they will be doing the theoretical part of their training.  
+We found that many candidates are not clear about where they will be doing the theoretical part of their training.
 
 To be able to publish a course for the 2023 to 2024 recruitment cycle, you’ll need to add at least one study site to the course. This could be a campus, school or other study site. You’ll be prompted to do this before you can publish a course.
 
@@ -85,7 +85,7 @@ If your organisation does not sponsor a visa, it’s still important to add fee 
 
 Find out more about recruiting trainee teachers from overseas: <https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers>
 
-If your course does have Student visa sponsorship available, you’ll need to add the fee for international students before you’ll be able to publish the course for the 2023 to 2024 recruitment cycle.  
+If your course does have Student visa sponsorship available, you’ll need to add the fee for international students before you’ll be able to publish the course for the 2023 to 2024 recruitment cycle.
 
 ## Salaried courses
 
@@ -95,7 +95,7 @@ From the 2023 to 2024 recruitment cycle, all providers will be able to offer sal
 
 We’ll contact you again in July to let you know when courses have been rolled over. In the meantime, you could start preparing your course information and descriptions ready to be added or updated.
 
-You could also read through our guidance on how to use the Publish service: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service>  
+You could also read through our guidance on how to use the Publish service: <https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service>
 
 # Get help
 
@@ -105,7 +105,7 @@ If you have any questions or need help using Publish, contact us at <becomingate
 
 }) }}
 
-### During rollover  
+### During rollover
 
 In July, we sent an email to tell providers to get their courses ready to be published.
 
@@ -125,20 +125,20 @@ All courses that were published this recruitment cycle have now been rolled over
 
 You can then:
 
-* add new courses
-* check and edit rolled over courses
-* delete any courses you’ll no longer be running
+- add new courses
+- check and edit rolled over courses
+- delete any courses you’ll no longer be running
 
 # Updating courses
 
- Before adding and publishing rolled over courses, make sure that all school placements and study sites have been added to your account, ready to be attached to a course.  
+ Before adding and publishing rolled over courses, make sure that all school placements and study sites have been added to your account, ready to be attached to a course.
 
 [Find out more about adding schools and study sites to a course](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-schools-and-study-sites).
 
 Also, check that:
 
-* essential information, such as fees and visa sponsorship, is up to date
-* your course descriptions are specific and give candidates a good overview of what to expect  
+- essential information, such as fees and visa sponsorship, is up to date
+- your course descriptions are specific and give candidates a good overview of what to expect
 
 # Publishing courses
 
@@ -184,9 +184,9 @@ If you cannot publish your rolled over courses, email [becomingateacher@digital.
 
 You can then:
 
-* add new courses
-* check and edit rolled over courses
-* delete any courses you’ll no longer be running
+- add new courses
+- check and edit rolled over courses
+- delete any courses you’ll no longer be running
 
 Before publishing courses, make sure that the information you’ve provided is up to date.
 
@@ -194,10 +194,10 @@ Having complete and accurate information gives candidates the best possible expe
 
 Check that:
 
-* ‘Study site’ information is correct if you’ve added this – you do not need to add a study site to publish a course
-* ‘Schools’ information is correct – you only need to add at least one school placement to publish a course
-* all essential information, such as fees and visa sponsorship, is up to date
-* your course descriptions are specific and give candidates a good overview of what to expect
+- ‘Study site’ information is correct if you’ve added this – you do not need to add a study site to publish a course
+- ‘Schools’ information is correct – you only need to add at least one school placement to publish a course
+- all essential information, such as fees and visa sponsorship, is up to date
+- your course descriptions are specific and give candidates a good overview of what to expect
 
 When your courses are ready, you can schedule them to go live as soon as Find opens on 3 October (you can still make changes to them after doing this).
 
@@ -219,15 +219,15 @@ content: "
 
 Hello ((first_name))
 
-There’s just one week left before Find postgraduate teacher training (Find) opens on 3 October.  
+There’s just one week left before Find postgraduate teacher training (Find) opens on 3 October.
 
 Sign in to [Publish teacher training courses (Publish)](https://www.publish-teacher-training-courses.service.gov.uk/sign-in) to check and publish your courses.
 
 Go to ‘Recruitment cycle 2023 to 2024’. From here you can:
 
-* add new courses
-* check and edit rolled over courses
-* withdraw any courses you’ll no longer be running
+- add new courses
+- check and edit rolled over courses
+- withdraw any courses you’ll no longer be running
 
 # New partnerships
 
@@ -235,7 +235,7 @@ If you are entering a new partnership following the initial teacher training (IT
 
 # Adding new users to your account
 
-You can also add any new colleagues to your organisation’s account if they need to be involved in managing or publishing courses. Go to the ‘Users’ tab and select ‘Add user’.  
+You can also add any new colleagues to your organisation’s account if they need to be involved in managing or publishing courses. Go to the ‘Users’ tab and select ‘Add user’.
 
 [Find out more about adding and removing users](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users).
 
@@ -247,7 +247,7 @@ If you need any help publishing courses, contact us at <becomingateacher@digital
 
 }) }}
 
-### After rollover  
+### After rollover
 
 On 27 October, we sent a more targeted reminder to providers who had courses that had not been published or withdrawn.
 
@@ -277,7 +277,7 @@ If you need any help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 }) }}
 
-## Additional communications  
+## Additional communications
 
 We included reminders about rollover in several of the Becoming a Teacher newsletters.
 

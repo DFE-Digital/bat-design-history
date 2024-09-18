@@ -129,7 +129,7 @@ Clicking ‘add multiple users’ takes the support user to the add multiple use
 
 ![Add user and set their permissions page](adding-single-user-01.png "Figure 3: Add user and set permissions page")
 
-The support user doesn’t need to choose which provider the user belongs to. They reached this page through the 2Schools consortium provider page, so the user will be added to that provider.
+The support user does not need to choose which provider the user belongs to. They reached this page through the 2Schools consortium provider page, so the user will be added to that provider.
 
 We introduced ‘Save user and add another’ to simplify the addition of multiple users. Clicking this button saves the user details and returns the support user back to this page.
 

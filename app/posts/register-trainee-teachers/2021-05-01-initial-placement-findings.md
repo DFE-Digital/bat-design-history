@@ -31,7 +31,7 @@ We found that further placements are often unknown at the point of requesting a 
 
 All users felt confident that Register will enable them to change or finalise the placement info at a later point.
 
-> “I’ve always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn't make any difference as long as we can change. I’ve had to change things due to the pandemic.”—Round 5 P3 (SCITT)
+> “I’ve always keyed in the number of days. I’ve never not. We have our year planned out so to me it doesn’t make any difference as long as we can change. I’ve had to change things due to the pandemic.”—Round 5 P3 (SCITT)
 
 > “We had a couple of times when a trainee changed placements, I wonder how I would record that? I think I would just add another placement I’m guessing and change the previous placement to just 2 weeks?”—Round 5 P6 (SCITT)
 
@@ -93,7 +93,7 @@ T: training location
 
 SCITTs offering the EY route too tend to place trainees at a location for several weeks at a time, whereas HEIs might spread placements across several months with just one day a week spent at a placement location. Scheduling trainee placements on the salaried route adds complexity because the employer’s needs and priorities also have to be considered.
 
-> “We don’t do block-placements, we do running placements. [...] The duration can vary: [...] they have to complete 120 days overall, but within that it’s about ensuring they had an adequate experience.”—R6 P9 (HEI)
+> “We do not do block-placements, we do running placements. [...] The duration can vary: [...] they have to complete 120 days overall, but within that it’s about ensuring they had an adequate experience.”—R6 P9 (HEI)
 
 >“Placements are not done in blocks, 2 days this week 5 days over next weeks. Supposed to do 30 days so you could say 6 weeks. [...]
 >The uni can reserve a few uni days to do placements and then they may have 6 other days one day here and there done when they can. We have to fit in with their employers. No tuition fees for the student and the setting for the employer have Fridays off for placements.”—R6 P2 (HEI)
@@ -128,7 +128,7 @@ Selecting the start month of the placement worked well.
 
 The process of calculating placement duration varied amongst the participants. Many providers will guess. All participants manually counted using a calendar.
 
->“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I'd have to do it three times. It's just more work.”—Round 5 P2 (SCITT)
+>“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I'd have to do it three times. It’s just more work.”—Round 5 P2 (SCITT)
 
 ### Confirm placement details
 
@@ -140,13 +140,13 @@ Many participants commented that they would like to see the name of the school t
 
 The current design displays placements in order of them being added to Register. If a trainee changed locations midway through their placement, the update will currently not appear in chronological order.
 
->“There are instances where the trainee doesn't suit the school. Looking at this I don't know how [to reflect that in the record] unless there is another option to add another school there could be two or three schools needed in the for instance.”—Round 5 P5 (SCITT)
+>“There are instances where the trainee doesn’t suit the school. Looking at this I don’t know how [to reflect that in the record] unless there is another option to add another school there could be two or three schools needed in the for instance.”—Round 5 P5 (SCITT)
 
 ## Next steps
 
 ### Iterate our designs
 
-Requiring the user to input a specific start date and duration in weeks doesn’t reflect how placements really happen and therefore not meet some of our user’s needs.
+Requiring the user to input a specific start date and duration in weeks does not reflect how placements really happen and therefore not meet some of our user’s needs.
 
 Additionally, due to the one-day-a-week pattern we observed with some EY providers, it would be more appropriate to ask them about duration in days, not weeks.
 
@@ -161,7 +161,7 @@ We need to better understand why our data consumers want to know this data/what 
 - include a search that allows for school name, postcode or URN
 - if we decide to pursue collect dates, we will also need to collect the year the placement started
 - give our users’ confidence by adding a location name, URN and postcode on the confirmation page
-- there is no list of locations for EY placements in DTTP. Instead we need to collect the setting’s names (nursery, childminder, children's centre), postcode and potentially URNs as free text fields
+- there is no list of locations for EY placements in DTTP. Instead we need to collect the setting’s names (nursery, childminder, children’s centre), postcode and potentially URNs as free text fields
 
 ## Concerns with collecting placement details
 

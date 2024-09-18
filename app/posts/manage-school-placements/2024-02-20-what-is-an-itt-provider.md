@@ -45,7 +45,7 @@ Both accredited ITT providers and lead partners can organise schools placements 
 
 Placement schools host placements and provide general ITT mentors for trainee teachers. No special designation is required.
 
-Any school can host trainee teachers. DfE doesn’t stipulate requirements for placement schools. However, we know from research that ITT providers have their own rules or practices, such as not placing trainees in schools that are rated Ofsted ‘inadequate’ or are in special measures.
+Any school can host trainee teachers. DfE does not stipulate requirements for placement schools. However, we know from research that ITT providers have their own rules or practices, such as not placing trainees in schools that are rated Ofsted ‘inadequate’ or are in special measures.
 
 ITT providers are responsible for working with their placement schools to ensure they can provide the appropriate support for a trainee.
 
@@ -57,7 +57,7 @@ Hosting placements and providing mentors for trainees does not mean a school is 
 
 ## What is a teaching school hub (TSH)?
 
-TSHs are centres of excellence for teacher training and development, led by some of the country's best schools and multi-academy trusts. The network of 87 TSHs has national coverage, ensuring every school in England has access to a centre of excellence.
+TSHs are centres of excellence for teacher training and development, led by some of the country’s best schools and multi-academy trusts. The network of 87 TSHs has national coverage, ensuring every school in England has access to a centre of excellence.
 
 TSHs play a significant role in delivering:
 

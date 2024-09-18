@@ -61,7 +61,7 @@ We removed the ability for users to manage vacancies in Publish teacher training
 - providers often do not know the number of vacancies at their partner schools until late in the recruitment cycle
 - the number of vacancies can change during the recruitment cycle for reasons outside the recruitment process
 - we are providing false hope that candidates will be placed at certain schools
-- providers do not always consider a candidate’s school placement preference on the application, and some don’t know about the preference
+- providers do not always consider a candidate’s school placement preference on the application, and some do not know about the preference
 - the accuracy of vacancy information depends on providers frequently updating their courses
 - Apply for teacher training (Apply) is going to remove the preference for placement schools
 

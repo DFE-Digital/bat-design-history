@@ -61,13 +61,13 @@ In general, the guidance shown was well understood and seen as supportive, usefu
 > It’s very useful. Having things pop up to kind of give you little pieces of advice… that’s very good, I’d say.
 > – Career changer
 
-> It's almost like a supportive push… if you haven’t done it right. It’s prompting me to go and find out and get some.
+> It’s almost like a supportive push… if you haven’t done it right. It’s prompting me to go and find out and get some.
 > – Educational worker
 
 > I feel like some actions need to be taken here.
 > – Career changer
 
-However, the guidance shown for the degree could have an adverse effect, particularly as there are few good options available if you don’t have the desired degree class:
+However, the guidance shown for the degree could have an adverse effect, particularly as there are few good options available if you do not have the desired degree class:
 
 > Looking at this, it seems to be highlighting areas where I’m lacking. I’m more likely to discount myself… it seems like ‘oh all these things that I don’t have’. So it might not be worth submitting the form.
 > – Educational worker
@@ -88,18 +88,18 @@ Using radio buttons instead of a checkbox may make what we are asking clearer an
 
 We added the following prompts:
 
-* Course choice: reminding candidates how many choices they still have available
-* Degree: prompting candidates to check course entry requirements
-* Work history: moving the existing guidance about adding all jobs since leaving school into this question
-* Personal statement: moving the existing guidance about proofreading their answer into this question
-* Subject knowledge: repeating the guidance from the personal statement section about proofreading their answer
+- Course choice: reminding candidates how many choices they still have available
+- Degree: prompting candidates to check course entry requirements
+- Work history: moving the existing guidance about adding all jobs since leaving school into this question
+- Personal statement: moving the existing guidance about proofreading their answer into this question
+- Subject knowledge: repeating the guidance from the personal statement section about proofreading their answer
 
 ### Ask candidates without a GCSE pass grade how they expect to meet the entry requirements
 
-Without having structured data about providers specific entry requirements, we can’t make any specific recommendations to candidates about how they can improve their application.
+Without having structured data about providers specific entry requirements, we cannot make any specific recommendations to candidates about how they can improve their application.
 
 However, we do know the standard ITT entry criteria regarding GCSEs and their equivalents.
 
 Currently, we ask candidates to explain how they plan to meet this criteria if they do not have this qualification, but not if they enter a non-pass grade (i.e. a grade lower than C or 4).
 
-To address this, we added an additional question to the GCSE flow. If a candidate enters a non-pass grade, we ask them the same question that would be asked if they had said they don’t have this qualification yet.
+To address this, we added an additional question to the GCSE flow. If a candidate enters a non-pass grade, we ask them the same question that would be asked if they had said they do not have this qualification yet.

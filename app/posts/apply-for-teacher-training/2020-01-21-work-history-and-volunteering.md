@@ -20,8 +20,8 @@ We need candidates to input their work history correctly so that we can assess w
 
 Clarifying the guidance on these pages should ensure that candidates do not:
 
-* duplicate information across both pages
-* omit information which could be relevant to their application
+- duplicate information across both pages
+- omit information which could be relevant to their application
 
 ## User needs
 
@@ -48,7 +48,7 @@ Both sections suggested that we only want to know about school experience or exp
 
 Teacher training providers are not allowed to make school experience a prerequisite for teacher training anymore.
 
-Presenting the application form in a way that values school experience over other types of experience isn't fair on the candidate. It makes it more likely that the candidate omits other types of experience.
+Presenting the application form in a way that values school experience over other types of experience is not fair on the candidate. It makes it more likely that the candidate omits other types of experience.
 
 A couple of providers echoed these concerns. For example, Bedfordshire University said that the guidance could discourage candidates from including some types of work. This is the opposite of what they want to achieve: a big picture of the candidate.
 
@@ -58,13 +58,13 @@ A couple of providers echoed these concerns. For example, Bedfordshire Universit
 
 **Then** candidates will show their potential for teaching
 
-**Because** they will be encouraged to include all their experience, even if it wasn't working with children or in a school
+**Because** they will be encouraged to include all their experience, even if it was not working with children or in a school
 
 ### How will we know this works?
 
 We’ll know this works when:
 
-* candidates have no difficulty filling out these sections of the application form
-* providers have a big picture of a candidate’s work history
+- candidates have no difficulty filling out these sections of the application form
+- providers have a big picture of a candidate’s work history
 
 We’ll test the new content (refer to screenshots below) with users to see if we get the right results.

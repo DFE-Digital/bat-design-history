@@ -75,7 +75,7 @@ Definition: All government grants should have agreed-upon outcomes and longer-te
 
 ### Proposed approach
 
-We are creating KPIs for the service and the grant policy, which we will review after the private beta. We are also working with the data and insights team to build a dashboard that will enable us to monitor the service's performance in real-time.
+We are creating KPIs for the service and the grant policy, which we will review after the private beta. We are also working with the data and insights team to build a dashboard that will enable us to monitor the service’s performance in real-time.
 
 As part of the agreement with ESFA, the grant allocations will be published yearly. This publication details the organisations which received the funding and the amount.
 

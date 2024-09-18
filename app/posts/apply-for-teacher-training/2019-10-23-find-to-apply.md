@@ -25,12 +25,12 @@ An iteration following [an early 2019 design of the journey](/find-teacher-train
 
 This design includes:
 
-* an interstitial showing the choice between GOV.UK Apply and UCAS Apply
-* a page adding the selected course as a choice in a new application
+- an interstitial showing the choice between GOV.UK Apply and UCAS Apply
+- a page adding the selected course as a choice in a new application
 
-It doesn’t cover the journey from Find for a user with an existing account or application.
+It does not cover the journey from Find for a user with an existing account or application.
 
-The journey intentionally skips the Apply start page, going straight from the interstitial to the eligibility questions. A ‘Start now’ button doesn’t fit well in the middle of a journey. With the start page being hosted on GOV.UK, this would create a technical challenge: how would we maintain a choice from Find to GOV.UK and onwards to Apply.
+The journey intentionally skips the Apply start page, going straight from the interstitial to the eligibility questions. A ‘Start now’ button does not fit well in the middle of a journey. With the start page being hosted on GOV.UK, this would create a technical challenge: how would we maintain a choice from Find to GOV.UK and onwards to Apply.
 
 To skip the start page, the content on the Apply and Find start pages must be consistent.
 

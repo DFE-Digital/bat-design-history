@@ -22,7 +22,7 @@ tags:
 
 {% from "email/macro.njk" import appEmail %}
 
-It's possible that there will still be upcoming interviews scheduled when a user makes an offer, rejects an application or withdraws an application.
+It’s possible that there will still be upcoming interviews scheduled when a user makes an offer, rejects an application or withdraws an application.
 
 This means that:
 
@@ -44,7 +44,7 @@ The problem is that if the user makes an offer and we cancel an interview schedu
 
 For example, if an interview was at 10am and an offer is made at 1pm then cancelling the interview would be misleading and confusing.
 
-We won’t cancel interviews that are scheduled for the day on which the user makes an offer, rejects an application or withdraws an application.
+We will not cancel interviews that are scheduled for the day on which the user makes an offer, rejects an application or withdraws an application.
 
 ### Solutions we discarded
 
@@ -115,7 +115,7 @@ An upcoming interview can also be cancelled if a candidate withdraws their appli
 
 In this case the reason will be ‘Candidate withdrew their application.’ This will appear on the timeline and activity log.
 
-As usual, users will be notified about applications that have been withdrawn. We'll add a sentence to the email to let users know that upcoming interviews have been cancelled. It will say:
+As usual, users will be notified about applications that have been withdrawn. We’ll add a sentence to the email to let users know that upcoming interviews have been cancelled. It will say:
 
 - ‘The upcoming interview with them has been cancelled.’ - if there’s one upcoming interview
 - ‘The upcoming interviews with them have been cancelled.’ - if there’s more than one upcoming interview

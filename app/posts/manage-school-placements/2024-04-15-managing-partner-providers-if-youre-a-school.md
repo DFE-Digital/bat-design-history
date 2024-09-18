@@ -182,7 +182,7 @@ Typically, schools and providers enter into a contractual agreement when partner
 
 The ‘Add partner provider’ flow uses an accessible autocomplete, allowing users to search for partner providers.
 
-The autocomplete works well for quickly selecting a provider, but it requires JavaScript, which not everyone has, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a provider, but it requires JavaScript, which not everyone has, and it does not always run successfully.
 
 We will add a no-JavaScript version of the ‘Add partner provider’ flow, which we can progressively enhance.
 

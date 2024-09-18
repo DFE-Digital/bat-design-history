@@ -14,7 +14,7 @@ Now both organisations in a partnership can set organisation permissions. We the
 
 ## What we changed and why
 
-We'll send an email to the organisation which did not set permissions. We'll only send it to users who have permission to manage organisation permissions.
+We’ll send an email to the organisation which did not set permissions. We’ll only send it to users who have permission to manage organisation permissions.
 
 The email will list all the organisation permissions. If a permission has been given to both organisations, the organisation which did not set permissions will appear first.
 

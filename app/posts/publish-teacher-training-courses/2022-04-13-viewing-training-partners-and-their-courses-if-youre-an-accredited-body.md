@@ -71,7 +71,7 @@ If the course is published, we also show:
 
 For each course, we show:
 
-- the training partner's name in a caption
+- the training partner’s name in a caption
 - the course title and code in the heading
 - the course status
 - a link to the course on Find

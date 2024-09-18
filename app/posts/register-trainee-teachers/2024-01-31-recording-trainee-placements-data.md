@@ -14,7 +14,7 @@ related:
       href: https://explore-education-statistics.service.gov.uk/methodology/initial-teacher-training-performance-profiles-methodology
 ---
 
-We understood from research that [Initial Teacher Training (ITT) providers have found it more difficult to secure all the school placements](https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/why-school-placements) their trainees need.
+We understood from research that [Initial Teacher Training (ITT) providers have found it more difficult to secure all the school placements](/manage-school-placements/why-school-placements) their trainees need.
 
 We created a new field and guidance for ITT providers to add placement information about each of their trainees in the Register service. Providers can search and select a placement school by its unique reference number (URN), name or postcode.
 
@@ -70,7 +70,7 @@ The intention is to alleviate the burden on HEIs and to guide them to use the bu
 
 We removed the need for a senior officer from the provider organisation to sign off.  User research observations informed us providers check the validity and quality of their work with other team members or leads when preparing for performance profile sign off. The need for a formal check by a senior officer is made redundant by getting the person submitting the form to declare the data is accurate to the best of their knowledge. It saves the provider time trying to access a senior officer.
 
-We asked for feedback regarding placement data. Most responses said the process was straightforward which validates the tools and guidance are working. We'll use any negative feedback to iterate and improve the service.
+We asked for feedback regarding placement data. Most responses said the process was straightforward which validates the tools and guidance are working. We’ll use any negative feedback to iterate and improve the service.
 
 ## Next steps
 

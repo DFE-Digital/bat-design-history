@@ -1,6 +1,6 @@
 ---
 title: Understanding trainee withdrawals
-description: We conducted data analysis and desktop research to understand what we know and what we don’t know about why trainees withdraw from teacher training
+description: We conducted data analysis and desktop research to understand what we know and what we do not know about why trainees withdraw from teacher training
 date: 2024-03-27
 tags:
   - trainees
@@ -8,7 +8,7 @@ tags:
   - withdrawals
 ---
 
-We conducted data analysis and desktop research to understand what we know and what we don’t know about why trainees withdraw from teacher training.
+We conducted data analysis and desktop research to understand what we know and what we do not know about why trainees withdraw from teacher training.
 
 ## Background
 

@@ -34,7 +34,7 @@ Providers are confused about why there are so many IDs and what they refer to. F
 
 > We find the number of identifiers very tricky and candidates phone me every week about whether they should use their candidate ID or the reference number when filling in university forms to do online tests etc. They find it tricky to find their candidate ID for example.
 >
->We have never understood (and indeed still don’t) the difference between the reference and the candidate ID. We originally thought the reference was the particular application to a particular provider or school but it appears not.
+>We have never understood (and indeed still do not) the difference between the reference and the candidate ID. We originally thought the reference was the particular application to a particular provider or school but it appears not.
 
 ## What we changed
 

@@ -58,9 +58,9 @@ Having a page per report has several advantages over filtering:
 
 ![A page to download recent HESA data as a report.](3.hesa-report.png)
 
-For the HESA report, we’re currently limited in what we can offer because the metadata we receive from HESA doesn’t allow us to fully identify the trainees we’d like.
+For the HESA report, we’re currently limited in what we can offer because the metadata we receive from HESA does not allow us to fully identify the trainees we’d like.
 
-We get a field ‘hesa_updated_at’ with each record - this is a timestamp of the last time this record was updated. Importantly, if a provider uploads a record to HESA but it contains no changes, then the updated date doesn’t change. This means we are not able to offer a report with exactly the trainees the provider just uploaded - we can offer all trainees from the current year, or those that have recently changed. In practice we expect the report of all trainees from the current year will be very close.
+We get a field ‘hesa_updated_at’ with each record - this is a timestamp of the last time this record was updated. Importantly, if a provider uploads a record to HESA but it contains no changes, then the updated date does not change. This means we are not able to offer a report with exactly the trainees the provider just uploaded - we can offer all trainees from the current year, or those that have recently changed. In practice we expect the report of all trainees from the current year will be very close.
 
 We’ve put in a change request to HESA to add additional metadata fields to capture the last time a record was uploaded. This would allow us to provide a report of trainees just uploaded, and to add prompts within our interface such as ‘View the 346 trainees you just uploaded’
 
@@ -74,6 +74,6 @@ The ITT census does not include all trainees in ITT - there are a number of crit
 
 We’re still deciding whether to offer this census report - whether it’s relevant depends on what we ask users to ‘sign off’.
 
-Previously, they've been asked to only sign off their census data. This means data for new trainees and trainees not included in the ITT census (EYTS trainees and self funded trainees) do not get signed off at all and therefore could lead to inaccuracies if it's not checked.
+Previously, they’ve been asked to only sign off their census data. This means data for new trainees and trainees not included in the ITT census (EYTS trainees and self funded trainees) do not get signed off at all and therefore could lead to inaccuracies if it’s not checked.
 
 We would like to explore broadening the sign off to include all new trainees in an academic year.

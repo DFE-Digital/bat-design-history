@@ -10,15 +10,15 @@ screenshots:
     - Have you chosen a course to apply to?
     - Which training provider?
     - Which course?
-    - Find a course (when course isn’t known)
+    - Find a course (when course is not known)
 ---
 
 Candidates using Apply need to choose a course to apply to.
 
-If a candidate doesn’t know what course to apply to, give them a route to Find to begin or resume their search.
+If a candidate does not know what course to apply to, give them a route to Find to begin or resume their search.
 
-Otherwise provide autocomplete features for picking the provider and course. The autocomplete shouldn’t depend on course and provider codes, but if a candidate enters them they should work too.
+Otherwise provide autocomplete features for picking the provider and course. The autocomplete should not depend on course and provider codes, but if a candidate enters them they should work too.
 
 We’ll need to amend this design to include training locations too – some courses offer multiple locations that a candidate can choose between. For example national SCITTs or school direct providers working with many schools.
 
-Users coming directly from Find could have a course pre-populated or added using a different flow, this hasn’t been designed yet.
+Users coming directly from Find could have a course pre-populated or added using a different flow, this has not been designed yet.

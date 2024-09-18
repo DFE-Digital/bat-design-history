@@ -29,24 +29,24 @@ screenshots:
 
 {% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
 {{ govukNotificationBanner({
-  html: "[We didn’t build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline")
+  html: "[We did not build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline")
 }) }}
 
 First spike to support two features of the application process:
 
-* Amending an application
-* Withdrawing a course choice
+- Amending an application
+- Withdrawing a course choice
 
 Changes made as part of this work included:
 
-* Changing the name of the logged in landing page that becomes available after submitting an application to ‘Application dashboard’. This page now uses the summary card pattern we are using elsewhere in the service.
-* When editing an application, we show three different states for sections:
-  * Unedited (a section that can be amended, but with no edits)
-  * Edited (a section that has been edited)
-  * Submitted (a section that can’t be amended – references)
-* Prior to editing an application, we provide an interstitial page that outlines the restrictions; limited to submitting one set of changes, can’t edit referees, etc. and the period of time in which changes can be made.
-* We also updated the language on some pages to include warnings about time remaining and checking changes before resubmitting.
-* For withdrawing an application, we ask users to confirm this action before proceeding. For MVP, this page asks them to submit a support request. A later iteration would allow them to confirm with a button press. When a course choice has been withdrawn, we update it’s status on the dashboard page.
+- Changing the name of the logged in landing page that becomes available after submitting an application to ‘Application dashboard’. This page now uses the summary card pattern we are using elsewhere in the service.
+- When editing an application, we show three different states for sections:
+  - Unedited (a section that can be amended, but with no edits)
+  - Edited (a section that has been edited)
+  - Submitted (a section that cannot be amended – references)
+- Prior to editing an application, we provide an interstitial page that outlines the restrictions; limited to submitting one set of changes, cannot edit referees, etc. and the period of time in which changes can be made.
+- We also updated the language on some pages to include warnings about time remaining and checking changes before resubmitting.
+- For withdrawing an application, we ask users to confirm this action before proceeding. For MVP, this page asks them to submit a support request. A later iteration would allow them to confirm with a button press. When a course choice has been withdrawn, we update it’s status on the dashboard page.
 
 ## Days and deadlines
 

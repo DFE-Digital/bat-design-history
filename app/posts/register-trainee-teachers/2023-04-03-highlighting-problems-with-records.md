@@ -78,7 +78,7 @@ Some of these trainees will still be on courses. This is fine but we’ll ask pr
 
 ## How it works
 
-To help users find and fix problems, we've:
+To help users find and fix problems, we’ve:
 
 - added a home page card
 - changed the filters on the registered trainees page
@@ -96,7 +96,7 @@ If a user clicks on the card, they’re taken to the registered trainees page wi
 
 ### Filters on the registered trainees page
 
-We previously let users filter by whether a record was complete or incomplete. We don’t know of a reason why users would need to see only complete trainee records, so we’ve changed this to show either ‘incomplete’ or ‘has problems’.
+We previously let users filter by whether a record was complete or incomplete. We do not know of a reason why users would need to see only complete trainee records, so we’ve changed this to show either ‘incomplete’ or ‘has problems’.
 
 We’ve called the filter section ‘available to do’. This is because both ‘records you can complete’ and ‘trainees with problems’ appear as cards in the ‘available to do’ section of the home page.
 

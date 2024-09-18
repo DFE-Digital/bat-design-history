@@ -11,7 +11,7 @@ related:
       href: /register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/
 ---
 
-Earlier this year we did some work to change how we [identified past and current trainees](/register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/). Whilst these changes largely improved working with current trainees, research with higher education institutions (HEIs) found we weren’t meeting all of their needs.
+Earlier this year we did some work to change how we [identified past and current trainees](/register-trainee-teachers/revisiting-how-we-identify-current-and-past-trainees/). Whilst these changes largely improved working with current trainees, research with higher education institutions (HEIs) found we were not meeting all of their needs.
 
 School centred ITT providers (SCITTs) mostly have a new cohort of trainees each year, mostly on one year courses, and tend to have fewer trainees than HEIs each year. They often group their cohorts by start year. This means they can work using our start year filter or by searching for individual trainees by name.
 
@@ -22,15 +22,15 @@ Providers have asked for help:
 - identifying ‘this year’s’ trainees
 - identifying ‘last year’s’ trainees
 
-Their common task is to find ‘this year’s’ trainees so they can export them and check their data. ‘This year’ would include all trainees added this year, as well as any trainees from prior years still in training or who withdrew or were awarded this year. This isn’t currently possible to filter to in Register.
+Their common task is to find ‘this year’s’ trainees so they can export them and check their data. ‘This year’ would include all trainees added this year, as well as any trainees from prior years still in training or who withdrew or were awarded this year. This is not currently possible to filter to in Register.
 
 The data they will have sent to HESA in a collection will be similar to this group - it’s all trainees who have been in training in a given collection’s year.
 
-We’ve observed that without a filter to help them, providers are likely to export all their trainees to find the ones they want – this isn’t ideal as they may get far more data than necessary. Even once exported, it’s tricky to narrow down to those that were in training in a given year. A provider would need to exclude all trainees with a start year after the year they were interested in, and exclude all trainees with an end year before the year they’re interested in.
+We’ve observed that without a filter to help them, providers are likely to export all their trainees to find the ones they want – this is not ideal as they may get far more data than necessary. Even once exported, it’s tricky to narrow down to those that were in training in a given year. A provider would need to exclude all trainees with a start year after the year they were interested in, and exclude all trainees with an end year before the year they’re interested in.
 
 ## How DTTP handled this
 
-DTTP (the service that Register replaced) had a data model that was inherently based around academic years – which meant this need was supported by default. Each new academic year, a new collection was made to contain all trainees added that year. Any prior trainees who were still in training or deferred got copied over to this new collection. This meant that by default DTTP only showed the current year’s trainees - ones who had completed training in prior years were in different collections. Register is fundamentally different in that we don’t have this concept of separate collections each year.
+DTTP (the service that Register replaced) had a data model that was inherently based around academic years – which meant this need was supported by default. Each new academic year, a new collection was made to contain all trainees added that year. Any prior trainees who were still in training or deferred got copied over to this new collection. This meant that by default DTTP only showed the current year’s trainees - ones who had completed training in prior years were in different collections. Register is fundamentally different in that we do not have this concept of separate collections each year.
 
 ## Existing year options
 

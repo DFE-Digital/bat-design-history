@@ -30,7 +30,7 @@ eleventyComputed:
 
 When the support team adds a study site to a provider in Support, we use an autocomplete to help users search for study sites.
 
-The autocomplete works well for quickly selecting a study site, but it requires JavaScript. Not everyone has JavaScript, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a study site, but it requires JavaScript. Not everyone has JavaScript, and it does not always run successfully.
 
 We added a no-JavaScript version of the ‘Add study site’ flow, which we can progressively enhance.
 
@@ -52,6 +52,6 @@ Selecting a study site from the list allows the user to continue and add the stu
 
 We show an error message if the user tries to continue without selecting a study site.
 
-If the study site the user is looking for isn’t listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+If the study site the user is looking for is not listed or there are not any results, the user can change their search, which takes them back to the initial search form.
 
 *[GIAS]: Get information about schools

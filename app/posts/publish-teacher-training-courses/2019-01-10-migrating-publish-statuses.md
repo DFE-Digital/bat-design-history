@@ -51,7 +51,7 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
       </td>
       <td class="govuk-table__cell">
         <span class="govuk-tag app-tag-published">Published&nbsp;*</span><br>
-        <span class="govuk-body-s">* Unpublished changes</span></td>
+        <span class="govuk-body-s">- Unpublished changes</span></td>
       <td class="govuk-table__cell">
         <ul>
           <li>Circumvent validation</li>
@@ -69,7 +69,7 @@ How we get from the two statuses we have now (UCAS course running status, and Pu
       </td>
       <td class="govuk-table__cell">
         <span class="govuk-tag app-tag-published">Published&nbsp;*</span><br>
-        <span class="govuk-body-s">* Unpublished changes</span>
+        <span class="govuk-body-s">- Unpublished changes</span>
       </td>
       <td class="govuk-table__cell">
         Use draft enrichment as unpublished changes

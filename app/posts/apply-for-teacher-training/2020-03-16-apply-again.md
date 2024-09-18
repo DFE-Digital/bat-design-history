@@ -39,7 +39,7 @@ related:
 
 If a candidate is not offered an interview by any of their initial 3 choices (or chooses not to accept an offer or withdraws their application), they can move to a secondary application phase. UCAS calls this ‘Apply 2’.
 
-72% of candidates without an initial offer don’t go on to apply again.
+72% of candidates without an initial offer do not go on to apply again.
 
 When applying again, a candidate can make an unlimited number of applications, one after another, but only one course choice is allowed. If the candidate is again unsuccessful (or chooses not to accept an offer or withdraws) they can keep applying until they do accept an offer, or until the application cycle for the academic year closes. They must wait up to 40 days before they know if their latest application was successful.
 
@@ -69,7 +69,7 @@ So that I can make a successful application"
 
 ### Apply 2 naming
 
-The term ‘Apply 2’ isn’t helpful in creating awareness or understanding of the opportunity. Instead of introducing the concept of a different named step or feature, we could invite candidates to see Apply 2 as a continuation of their initial application.
+The term ‘Apply 2’ is not helpful in creating awareness or understanding of the opportunity. Instead of introducing the concept of a different named step or feature, we could invite candidates to see Apply 2 as a continuation of their initial application.
 
 ### Encouraging the discouraged
 
@@ -113,7 +113,7 @@ It might be possible for a candidate to apply to a course from Find when they ar
 
 - Course choices becomes Course choice
 - 3 choices becomes 1 choice in guidance
-- The ‘add another course’ flow doesn’t happen
+- The ‘add another course’ flow does not happen
 - Add an apply again page and link to it in a banner on the dashboard
 - Show a ‘Your application was copied’ banner when a new application is made
 - Tweak the title of the application page to be "Your new application"

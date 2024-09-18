@@ -51,7 +51,7 @@ The previous iteration used a summary list. But this took up a lot of vertical s
 If we use a table
 Then it’ll be easier to scan
 
-When using regular text for the notification settings screen makes it harder to distinguish between notifications that are on and those that aren’t.
+When using regular text for the notification settings screen makes it harder to distinguish between notifications that are on and those that are not.
 
 If we use a tick icon
 Then it’ll be easier to scan
@@ -67,7 +67,7 @@ This works well if the user is changing one notification at a time. But if they 
 If we let users change all notifications at the same time
 Then they’ll be able to change their settings more quickly
 
-Note: we thought about using toggle switches but decided to try this first instead as it's easier to build and far less risk. Toggle switches may be confusing and inaccessible without the right care.
+Note: we thought about using toggle switches but decided to try this first instead as it’s easier to build and far less risk. Toggle switches may be confusing and inaccessible without the right care.
 
 ![Screenshot of ‘Notification settings’ page.](settings-page.png "There’s a change link per organisational relationship")
 
@@ -77,18 +77,18 @@ Note: we thought about using toggle switches but decided to try this first inste
 
 In the previous iteration we let users change their notification settings about any changes to their permissions.
 
-But permissions shouldn’t change often so we don’t think users should have the ability to customise how they receive notifications about this.
+But permissions should not change often so we do not think users should have the ability to customise how they receive notifications about this.
 
-And it doesn’t feel right being part of the notifications area which is only about applications.
+And it does not feel right being part of the notifications area which is only about applications.
 
 ## Changing ‘Online notification’ to ‘Notifications area’
 
-In the previous iteration we referred to in-service notifications as ‘Online notifications’ but users didn’t really understand what that meant.
+In the previous iteration we referred to in-service notifications as ‘Online notifications’ but users did not really understand what that meant.
 
 If we use ‘Notifications area’
 Then it’ll be easier for users to understand it
 
-Note: research shows that users don’t instantly understand what ‘Notifications area’ means until they use it. This could be solved with an onboarding flow and using hint text to explain what it means.
+Note: research shows that users do not instantly understand what ‘Notifications area’ means until they use it. This could be solved with an onboarding flow and using hint text to explain what it means.
 
 ![Screenshot of notification settings table.](table-layout.png)
 
@@ -96,7 +96,7 @@ Note: research shows that users don’t instantly understand what ‘Notificatio
 
 Letting users configure their notifications is a significant and useful new feature. So it’s important users know about it.
 
-Also, our research shows that while users understand what email notificiations are, they don’t necessarily understand with in-service notifications are.
+Also, our research shows that while users understand what email notificiations are, they do not necessarily understand with in-service notifications are.
 
 If we tell users how notifications work when they sign in
 Then users will be more likely to make better use of notifications
@@ -127,11 +127,11 @@ Your organisation, Springbank SCITT, has the following notifications for Tuesday
 
 ### Reject by default deadline approaching
 
-- [Respond to James Sully's (YGC5A62) application](/)
+- [Respond to James Sully’s (YGC5A62) application](/)
 
 ### Automatically rejected: please give feedback
 
-- [Shaun Gaillard's (WLPJIOB) application was rejected automatically](/)
+- [Shaun Gaillard’s (WLPJIOB) application was rejected automatically](/)
 
 If you have any questions or to leave feedback, contact us at <becomingateacher@digital.education.gov.uk>.
 

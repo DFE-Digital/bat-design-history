@@ -14,9 +14,9 @@ related:
 
 We had a number of questions about what happens when [courses become full after a candidate submits their application](/apply-for-teacher-training/course-full-after-submitting/) - but before they get their references:
 
-* What do providers expect when they mark a course as full?
-* Will providers consider any applications after marking a course as full?
-* Should we let providers choose how to respond when they have pending applications (applications which are submitted but waiting on references)?
+- What do providers expect when they mark a course as full?
+- Will providers consider any applications after marking a course as full?
+- Should we let providers choose how to respond when they have pending applications (applications which are submitted but waiting on references)?
 
 This is a complex scenario with inconsistent behaviour.
 
@@ -37,37 +37,37 @@ There are various ways a candidate can respond when their course becomes full wh
 
 Candidates can:
 
-* choose a different course
-* remove course from application
-* submit application anyway
+- choose a different course
+- remove course from application
+- submit application anyway
 
 ### When a location is full or has been withdrawn (for courses with multiple locations, but not study modes)
 
 Candidates can:
 
-* edit location
-* choose a different course
-* remove course from application
-* submit application anyway
+- edit location
+- choose a different course
+- remove course from application
+- submit application anyway
 
 ### When a study mode is full or has been withdrawn (for courses with multiple study modes, but not locations)
 
 Candidates can:
 
-* edit study mode
-* choose a different course
-* remove course from application
-* submit application anyway
+- edit study mode
+- choose a different course
+- remove course from application
+- submit application anyway
 
 ### When a study mode at a location is full or has been withdrawn (for courses with multiple study modes and locations)
 
 Candidates can:
 
-* edit study mode
-* edit location
-* choose a different course
-* remove course from application
-* submit application anyway
+- edit study mode
+- edit location
+- choose a different course
+- remove course from application
+- submit application anyway
 
 ## Design
 

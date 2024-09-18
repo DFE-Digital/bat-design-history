@@ -45,10 +45,10 @@ Dear ((name))
 
 Candidates can now apply through GOV.​UK for the courses you work on with:
 
-* Ashlawn Teaching School
-* The Beauchamp Lionheart Training Partnership
-* President Kennedy Teaching School Alliance
-* Southam Teaching Alliance
+- Ashlawn Teaching School
+- The Beauchamp Lionheart Training Partnership
+- President Kennedy Teaching School Alliance
+- Southam Teaching Alliance
 
 Either you or these partner organisations must set up organisational permissions before you can manage applications to the courses.
 
@@ -83,15 +83,15 @@ You cannot manage applications to these courses until either you or your partner
 
 For Wren Academy, you need to set up permissions for courses you work on with:
 
-* Active Teacher Training
-* ATT Partnership
-* Biddenham Upper School and Sports College
+- Active Teacher Training
+- ATT Partnership
+- Biddenham Upper School and Sports College
 
 For The Royal Borough Teaching School Alliance, you need to set up permissions for courses you work on with:
 
-* Castle Newnham Partnership
-* Fenland Teaching School Alliance
-* Goldington Academy
+- Castle Newnham Partnership
+- Fenland Teaching School Alliance
+- Goldington Academy
 
 You’ll be asked to set up organisational permissions when you sign in to the Manage service:
 
@@ -117,10 +117,10 @@ We’ve changed the content of the start page to explain permissions need to be 
 
 We considered letting users skip setting up organisational permissions in case they:
 
-* do not know how to set them up
-* expect their partners to set them up
+- do not know how to set them up
+- expect their partners to set them up
 
 But we decided not to do this for now because we think that users:
 
-* who can manage organisational permissions will know how to set them up
-* should immediately set them up as it would otherwise stop users from processing applications
+- who can manage organisational permissions will know how to set them up
+- should immediately set them up as it would otherwise stop users from processing applications

@@ -72,7 +72,7 @@ Instead of telling us each school and deriving an area, they could give us their
 
 This means:
 
-- there's no long list of schools to maintain
+- there’s no long list of schools to maintain
 - no schools are shown to candidates
 - we'd have an area we could show on a map in the future
 
@@ -88,7 +88,7 @@ We have an initial prototype for this, screenshots shown below.
 
 ### 4. Make some assumptions about universities
 
-All of these approaches depend on every provider giving us decent data. They're good longterm solutions but they will not improve search results immediately, and as data is collected the benefits may only be seen by some.
+All of these approaches depend on every provider giving us decent data. They’re good longterm solutions but they will not improve search results immediately, and as data is collected the benefits may only be seen by some.
 
 Alternatively, we could assume that each university works with many schools near to its campus. Rather than representing that campus as a single point, we might extend the point by something like 5 miles, creating an estimated area for that university.
 

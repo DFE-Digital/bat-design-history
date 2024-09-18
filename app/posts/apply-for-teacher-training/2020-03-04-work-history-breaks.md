@@ -28,7 +28,7 @@ We detect breaks in work history automatically based on the months entered in th
 
 ## Avoid asking about breaks until work history is complete
 
-We wanted to avoid candidates reaching the review screen (where we show generated breaks) too early. We generate breaks based on the jobs that have been entered. If a candidate hasn’t entered most of their work history yet then the breaks we generate won’t be valid.
+We wanted to avoid candidates reaching the review screen (where we show generated breaks) too early. We generate breaks based on the jobs that have been entered. If a candidate has not entered most of their work history yet then the breaks we generate will not be valid.
 
 We updated the design so that after adding a job, we ask a candidate if they want to add another, rather than taking them straight to the review screen.
 
@@ -38,7 +38,7 @@ A generated break will update based on the jobs around it. So if I have a break 
 
 Having a break disappear when it’s just been generated is expected. But if a candidate has taken time to explain a break, then it’s reasonable to assume that something of value has been added. To delete this explanation without warning, or to silently edit its date range may produce errors.
 
-When a candidate has explained a break, we don’t want to ever magically delete or change this entry. Once explained we instead rely on the candidate to make any further changes – this means that once explained the dates don’t change and the explanation always shows, which will mean breaks and jobs could overlap.
+When a candidate has explained a break, we do not want to ever magically delete or change this entry. Once explained we instead rely on the candidate to make any further changes – this means that once explained the dates do not change and the explanation always shows, which will mean breaks and jobs could overlap.
 
 We trust that what the candidate entered is correct and we do not modify it.
 
@@ -56,8 +56,8 @@ When a candidate clicks ‘Add another job’ from the break, we pre-fill the st
 
 If the break would pre-fill up until today, then instead of putting today’s date in, we leave it blank – as that’s the default behaviour. This means that a delay of 1 month or more in submitting an application after completing would not generate an unexpected break.
 
-## Work breaks don’t need to be explained
+## Work breaks do not need to be explained
 
-We do not validate that all breaks have been explained. We encourage explanations but don’t force them – we don’t want to prevent them submitting an application over this. Providers can choose to discuss or ask about breaks at interview.
+We do not validate that all breaks have been explained. We encourage explanations but do not force them – we do not want to prevent them submitting an application over this. Providers can choose to discuss or ask about breaks at interview.
 
 We might re-asses this decision when we have evidence for how the feature is being used.

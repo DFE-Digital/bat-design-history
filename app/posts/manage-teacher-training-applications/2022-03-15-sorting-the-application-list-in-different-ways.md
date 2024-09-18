@@ -27,7 +27,7 @@ This allows us to highlight types of applications which we think should be prior
 This priority order is problematic because:
 
 - users often want to process applications in other ways such as by most or least recently updated
-- the grouping makes it harder to process applications in other ways - for example, it isn't easy to view all received applications at a particular location because received applications appear in 2 different priority groups
+- the grouping makes it harder to process applications in other ways - for example, it is not easy to view all received applications at a particular location because received applications appear in 2 different priority groups
 
 ## User need
 
@@ -48,7 +48,7 @@ We also now show the last updated date for each application.
 
 To give users more control over the application list, we removed the priority headings.
 
-The default order is now by status so that, for example, users can look at all received applications together. We've made this the default order as it’ll be useful even without applying filters.
+The default order is now by status so that, for example, users can look at all received applications together. We’ve made this the default order as it’ll be useful even without applying filters.
 
 ### Adding the ability to sort by most and least recently updated
 

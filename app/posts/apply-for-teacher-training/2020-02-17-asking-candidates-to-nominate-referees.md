@@ -28,7 +28,7 @@ So that I can suggest suitable referees including suitable addresses"
 
 {{ appUserNeed({
   description: "As a candidate
-I need to know who to suggest as referees if I've been self employed
+I need to know who to suggest as referees if I’ve been self employed
 So that my application can progress"
 }) }}
 
@@ -51,7 +51,7 @@ So that my application can progress"
 Clarifying the wording in the opening paragraph will help candidates understand that providers need a total of 2 references from different people.
 
 If the guidance is clearer
-Then candidates will know what's needed.
+Then candidates will know what’s needed.
 
 We’ll know this works when fewer candidates suggest the same person for both their references.
 
@@ -66,7 +66,7 @@ We’ll know this works when more candidates suggest suitable referees.
 
 ### Adding information about character references
 
-Providers prefer to get references from an official source, but in some cases, they'll accept character references.
+Providers prefer to get references from an official source, but in some cases, they’ll accept character references.
 
 If we explain this and ask candidates to contact providers if in doubt about the suitability of their referees
 Then candidates are more likely to suggest suitable referees.

@@ -84,7 +84,7 @@ Once participants complete the ‘add a mentor’ journey, they refer to the pri
 
 ### Hours
 
-The hours’ descriptions made participants feel more informed about the service's rules. However, they still require further clarification.
+The hours’ descriptions made participants feel more informed about the service’s rules. However, they still require further clarification.
 
 Participants understood that 20 hours is the maximum number of hours they can claim. However, they still struggled to understand what 6 hours meant.
 

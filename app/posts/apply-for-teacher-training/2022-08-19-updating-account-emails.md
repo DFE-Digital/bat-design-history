@@ -63,7 +63,7 @@ The new email content says that the candidate should either:
 - sign in with the email they used previously, if they’ve already started an application
 - create a new account, if they have not started an application
 
-![Screenshot with the text 'Confirm that you want to create an account to apply for teacher training:' followed by a link](sign-in-no-account-after.png  "New email sent when signing in with an account that doesn’t exist")
+![Screenshot with the text 'Confirm that you want to create an account to apply for teacher training:' followed by a link](sign-in-no-account-after.png  "New email sent when signing in with an account that does not exist")
 
 ## Next steps
 

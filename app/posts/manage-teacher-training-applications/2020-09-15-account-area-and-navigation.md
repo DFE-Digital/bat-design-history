@@ -11,7 +11,7 @@ Previously ‘Organisations’ and ‘Users’ were account navigation items as 
 But they relate to the user’s account with notification settings and profile.
 
 If we put ‘Organisations’ and ‘Users’ in the account area
-Then they’ll be where users expect to find them and they won’t detract from the application-related features
+Then they’ll be where users expect to find them and they will not detract from the application-related features
 
 ![Screenshot of ‘Your account’ page.](account-page.png)
 
@@ -40,7 +40,7 @@ Then users will be able to distinguish their profile from the account area
 
 Previously the section to manage organisational permissions was labelled ‘Organisations’.
 
-This is ambiguous because the user isn’t able to manage organisations.
+This is ambiguous because the user is not able to manage organisations.
 
 If we name the section ‘Organisational permissions’
 Then it will help users understand the intent of the section more quickly

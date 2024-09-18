@@ -7,10 +7,10 @@ tags:
 screenshots:
   items:
     - text: Awaiting references
-      caption: The candidate submits their application choices with a list of referees. Until 2 references have been received all applications remain in the Awaiting references state. The providers don’t see the application at this stage
+      caption: The candidate submits their application choices with a list of referees. Until 2 references have been received all applications remain in the Awaiting references state. The providers do not see the application at this stage
       src: 01-awaiting-references.png
     - text: Waiting to be sent
-      caption: The references have come back and have been added to the application. Candidates are allowed a cooling-off period of 5 days to modify their application before it’s sent to providers. They can’t modify the references.
+      caption: The references have come back and have been added to the application. Candidates are allowed a cooling-off period of 5 days to modify their application before it’s sent to providers. They cannot modify the references.
       src: 02-waiting-to-be-sent.png
     - text: Pending decision from provider
       caption: Providers only see the application after the references have come back and have been added to the application and 5 days have elapsed for the candidate to review and modify the application. When both of these prerequisites are met the application moves to the Awaiting provider decision state.
@@ -36,7 +36,7 @@ screenshots:
     - text: Provider has withdrawn offer
       src: 06-provider-has-withdrawn-offer.png
     - text: Candidate enrolled
-      caption: Once the candidate has completed the enrolment process, the provider confirms their enrolment onto the training programme. Since this status would be used to claim bursaries/grants from DfE, the provider may delay enrolling the trainee until a few weeks after the start of the training, since trainees can still not show up on the first day or drop out within the first couple of weeks. This reduces the risk that DfE over-pays that provider for training they didn’t deliver and has to reconcile later on. The candidate’s HESA equality monitoring information is made available to the provider.
+      caption: Once the candidate has completed the enrolment process, the provider confirms their enrolment onto the training programme. Since this status would be used to claim bursaries/grants from DfE, the provider may delay enrolling the trainee until a few weeks after the start of the training, since trainees can still not show up on the first day or drop out within the first couple of weeks. This reduces the risk that DfE over-pays that provider for training they did not deliver and has to reconcile later on. The candidate’s HESA equality monitoring information is made available to the provider.
       src: 07-candidate-enrolled.png
     - text: Candidate has withdrawn all their choices
       caption: If the candidate withdraws an application in progress it moves to the Withdrawn (end) state

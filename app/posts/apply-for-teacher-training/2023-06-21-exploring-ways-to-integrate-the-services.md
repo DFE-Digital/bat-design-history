@@ -27,7 +27,7 @@ Another approach might be to use the [step by step pattern](https://design-syste
 
 The Find postgraduate teacher training (Find) service is currently separate from Apply for teacher training (Apply). There are links between the two, but the Find service does not have any account or login functionality associated with it.
 
-Currently, when adding a course from the Apply service, it asks users if they already know which course they want to apply to. If they do, they can pick the course within Apply using autocompletes and radio buttons, if they don’t, they’re sent over to Find first. This could be confusing.
+Currently, when adding a course from the Apply service, it asks users if they already know which course they want to apply to. If they do, they can pick the course within Apply using autocompletes and radio buttons, if they do not, they’re sent over to Find first. This could be confusing.
 
 One option might be to incorporate both services under a single combined navigation header and a shared account.
 
@@ -47,8 +47,8 @@ If the candidate has this, then their immigration status could be automatically 
 
 This might help to:
 
-* reassure the candidate whether they have the right to work or study
-* avoid the need for providers to verify immigration status separately
+- reassure the candidate whether they have the right to work or study
+- avoid the need for providers to verify immigration status separately
 
 ![Screenshot showing a page asking for an immigration status share code ](immigration-status-share-code.png)
 

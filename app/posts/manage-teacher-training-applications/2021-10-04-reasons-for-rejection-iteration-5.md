@@ -47,7 +47,7 @@ Saying yes to some categories reveals a list of sub-categories with checkboxes. 
 
 Categories that do not contain sub-categories reveal a ‘give details’ field. Most sub-categories also reveal a ‘give details’ field. The user must complete this field.
 
-If the user says no to all the categories then on the next page they're given a field asking them why they’re rejecting the application. The category is considered to be ‘other’.
+If the user says no to all the categories then on the next page they’re given a field asking them why they’re rejecting the application. The category is considered to be ‘other’.
 
 The user can also add ‘other advice and feedback’ as part of the rejection flow.
 
@@ -107,8 +107,8 @@ We looked at how often each reason was used to reject an application between Jan
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 |------------|----------|----------|
-| Didn't reply to our interview offer | 0.47% <br> 19 out of 4045 | 15% <br> 19 out of 124 |
-| Didn't attend interview | 1.71% <br> 69 out of 4045 | 55% <br> 69 out of 124 |
+| Didn’t reply to our interview offer | 0.47% <br> 19 out of 4045 | 15% <br> 19 out of 124 |
+| Didn’t attend interview | 1.71% <br> 69 out of 4045 | 55% <br> 69 out of 124 |
 | Other | 0.89% <br> 36 out of 4045 | 30% <br> 39 out of 124 |
 
 ### Honesty and professionalism
@@ -117,7 +117,7 @@ We looked at how often each reason was used to reject an application between Jan
 |------------|----------|----------|
 | Information given on application form false or inaccurate | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21 |
 | Evidence of plagiarism in personal statement or elsewhere | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21 |
-| References didn’t support application | 0.07% <br> 3 out of 4045 | 3.92% <br> 3 out of 21 |
+| References did not support application | 0.07% <br> 3 out of 4045 | 3.92% <br> 3 out of 21 |
 | Other | 0.4% <br> 16 out of 4045 | 3.92% <br> 16 out of 21 |
 
 ### Safeguarding
@@ -226,7 +226,7 @@ It contains:
 - quality of writing
 - other
 
-We decided not to include ‘evidence of plagiarism’ as a sub-category because it's only been used once.
+We decided not to include ‘evidence of plagiarism’ as a sub-category because it’s only been used once.
 
 ### Creating a ‘teaching knowledge and ability’ category
 
@@ -354,7 +354,7 @@ Each row in the summary list represents a category, which is shown in bold text.
 
 The description contains any selected sub-category and further details.
 
-If the sub-category contains further details it has a colon at the end. If it doesn’t it has a full stop.
+If the sub-category contains further details it has a colon at the end. If it does not it has a full stop.
 
 After the user selects ‘send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page.
 

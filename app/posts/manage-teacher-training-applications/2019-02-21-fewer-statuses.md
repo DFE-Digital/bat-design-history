@@ -25,11 +25,11 @@ The team thought the statuses were not relevant so came up with a minimal set of
 
 ## Findings
 
-* Needs extra info to track recruitment progress
-* routes - ie. SCITT, SD, salaried, school/campus (?)
-* Need to be able to scan quickly - Download to print/save
-* Design hunch: ability to extract data
-* In review - confusing; expectation to have “interview offered”
-* Recruited - confusing; expectation to have conditional/unconditional
-* Rejected - contentious topic!
-* need more options to reflect real life scenarios (No places, Not suitable for teaching, Eligibility (no evidence), No show, No time to meet conditions)
+- Needs extra info to track recruitment progress
+- routes - ie. SCITT, SD, salaried, school/campus (?)
+- Need to be able to scan quickly - Download to print/save
+- Design hunch: ability to extract data
+- In review - confusing; expectation to have “interview offered”
+- Recruited - confusing; expectation to have conditional/unconditional
+- Rejected - contentious topic!
+- need more options to reflect real life scenarios (No places, Not suitable for teaching, Eligibility (no evidence), No show, No time to meet conditions)

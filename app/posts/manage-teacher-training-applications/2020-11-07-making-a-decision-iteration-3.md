@@ -49,7 +49,7 @@ In the previous iteration, the details of the course were not shown.
 
 This means users had to remember this as they make the actual decision.
 
-So now we show the course details in context of making a decision so they don’t have to remember it.
+So now we show the course details in context of making a decision so they do not have to remember it.
 
 ## Improving the content on the check answers screens
 

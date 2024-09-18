@@ -11,7 +11,7 @@ Until now we haven’t collected a trainee’s start date because we hoped that 
 
 Course start dates from Publish are only given to the nearest month - but we need an accurate start date for the trainee themself for funding purposes. Trainees may also start early or late, so it’s important to capture the actual date distinctly from the course start date.
 
-An assumption in this first design is that we need to support registering trainees for TRN who don’t have a start date. For example a provider registering their trainees in August, a weeks before the trainees actually start. This is an interesting design challenge as we’d then need some later process to collect the date once trainees start.
+An assumption in this first design is that we need to support registering trainees for TRN who do not have a start date. For example a provider registering their trainees in August, a weeks before the trainees actually start. This is an interesting design challenge as we’d then need some later process to collect the date once trainees start.
 
 ## Designs
 

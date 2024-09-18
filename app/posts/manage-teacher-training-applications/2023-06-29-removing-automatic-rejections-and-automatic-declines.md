@@ -34,7 +34,7 @@ When a candidate gets an offer, they have 10 working days to respond. This puts 
 
 ### Policy design workshops
 
-We held workshops with our policy design team to decide on solutions that will work for candidates and providers.  
+We held workshops with our policy design team to decide on solutions that will work for candidates and providers.
 
 To stop applications being rejected automatically, we decided that applications would become ‘inactive’ after 30 working days. An inactive application would mean:
 
@@ -49,7 +49,7 @@ After making this update, we needed to change some content in Manage to maintain
 
 ### Viewing a list of applications
 
-On the application list page, we show how many days a provider has left to make a decision on an application. The heading for ‘Received’ applications says, ‘Awaiting review’.  
+On the application list page, we show how many days a provider has left to make a decision on an application. The heading for ‘Received’ applications says, ‘Awaiting review’.
 
 ![Screenshot showing a page with a list of applications. The header reads 'Awaiting review'. Each application has a purple status tag that says 'Received'. Underneath the tag it says '11 days to make a decision'.](reject-by-default-before.png)
 
@@ -73,19 +73,19 @@ We did not want to introduce a new status called ‘Inactive’ because this mig
 
 When a provider looked at an application, we told them that they need to set up an interview or make a decision. Below this, the we explained that the application will be automatically rejected within a certain number of days.
 
-![Screenshot showing an application for 'Peter Essien'. Content below the candidate's name says 'Set up an interview or make a decision'. It then says the application will be automatically rejected if a decision has not been made within 11 days and states the exact date the application will be rejected automatically.](before-make-a-decision.png)
+![Screenshot showing an application for 'Peter Essien'. Content below the candidate’s name says 'Set up an interview or make a decision'. It then says the application will be automatically rejected if a decision has not been made within 11 days and states the exact date the application will be rejected automatically.](before-make-a-decision.png)
 
 We changed this to show how long ago that application was received and encourage the provider to make a decision within 30 working days.
 
-![Screenshot showing an application for 'Freida Jackson'. Content below the candidate's name says 'Set up an interview or make a decision'. It then says the application was received 36 days ago and that the provider should try and make a decision within 30 days.](after-make-a-decision.png)
+![Screenshot showing an application for 'Freida Jackson'. Content below the candidate’s name says 'Set up an interview or make a decision'. It then says the application was received 36 days ago and that the provider should try and make a decision within 30 days.](after-make-a-decision.png)
 
 When an offer was made on an application we showed how many days are left before the offer is automatically declined if a candidate does not respond. We also show the date the offer will be automatically declined.
 
-![Screenshot showing an application for 'Peter Essien' with an offer. Content below the candidate's name says that the offer will be automatically declined in 10 days with the exact date that the application will be declined if the candidate does not respond.](before-sending-offer.png)
+![Screenshot showing an application for 'Peter Essien' with an offer. Content below the candidate’s name says that the offer will be automatically declined in 10 days with the exact date that the application will be declined if the candidate does not respond.](before-sending-offer.png)
 
 We now show content explaining how long ago the provider had made an offer. We also give an indication that most candidates accept an offer within 15 working days. This was from our analysis in how long it takes candidate to respond to offers. We did this to encourage providers to give candidates some time before they start contacting them to respond to their offer.
 
-![Screenshot showing an application for 'Wanda van Dyne' with an offer. Content below the candidate's name says the offer was made 53 days ago. It explains candidates mostly take 15 days to respond to offers and that they'll receive reminder to respond to the offer.](after-sending-offer.png)
+![Screenshot showing an application for 'Wanda van Dyne' with an offer. Content below the candidate’s name says the offer was made 53 days ago. It explains candidates mostly take 15 days to respond to offers and that they’ll receive reminder to respond to the offer.](after-sending-offer.png)
 
 ### Interview details
 

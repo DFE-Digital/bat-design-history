@@ -141,7 +141,7 @@ We want to find out from research whether it would be useful to allow the user t
 
 We could provide a single file with all the data.
 
-Doing this in a single page (worksheet) could make it hard to use the data, but it isn’t possible to use multiple pages in a CSV file.
+Doing this in a single page (worksheet) could make it hard to use the data, but it is not possible to use multiple pages in a CSV file.
 
 We could try using an open document format spreadsheet to contain all the data in separate pages.
 

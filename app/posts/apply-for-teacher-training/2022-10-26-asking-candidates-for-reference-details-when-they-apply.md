@@ -172,7 +172,7 @@ Participants usually know who they would ask for a reference, but might need to 
 
 When answering the question about how they knew the person, all participants used the hint text as a guide for how much to write.
 
-All participants said they’d only add 2 people, and weren’t sure why they could add more.
+All participants said they’d only add 2 people, and were not sure why they could add more.
 
 Some participants were still unsure of when references would be contacted. This could have been because they’d applied recently and had needed to receive references before applying.
 

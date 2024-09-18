@@ -49,7 +49,7 @@ Research showed that no one found the history of predicted payments necessary, s
 
 ![Monthly payments shown together.](01-payment-schedule-v1.png "Showing all payment types together")
 
-For the first version we used a single table with the months as rows and payment types as columns. We didn’t test this with users, but it’s a straightforward interpretation of the data.
+For the first version we used a single table with the months as rows and payment types as columns. We did not test this with users, but it’s a straightforward interpretation of the data.
 
 However, the data contains an unknown number of payment types, each with a column heading of unknown length. If there are 5 or more columns, each column becomes narrow and hard to read. Most providers would only have 3 or 4 payment types by the end of the year (this means 6 columns total when you include the month and total for the month).
 
@@ -73,7 +73,7 @@ Payments separated by payment type:
 
 Separate tables per payment type allows the user to see the payments they’ll receive for that payment type across the year. One downside of this is that new tables can appear throughout the year. New payment types would either need to appear at the top, which is likely to be unexpected behaviour for a page like this, or they would need to be added to the bottom which could easily be missed.
 
-We considered splitting the table when there are more than a certain number of columns. This has the advantage of giving most users a simple display most of the year. However, the view could suddenly change at some point during the year. The confusion this is likely to cause doesn’t outweigh the benefits. It would also mean the service needs to maintain two ways of presenting data.
+We considered splitting the table when there are more than a certain number of columns. This has the advantage of giving most users a simple display most of the year. However, the view could suddenly change at some point during the year. The confusion this is likely to cause does not outweigh the benefits. It would also mean the service needs to maintain two ways of presenting data.
 
 #### Version 3 — splitting the payments by month with a summary table
 
@@ -83,7 +83,7 @@ In the end we decided to go with having a summary table and payments split by mo
 
 ### Trainee summary
 
-The main thing we did was remove any irrelevant information. For example, if a provider doesn’t have any trainees studying to teach physics, we wont show the bursary amount for physics. This will reduce the number of rows users need to read through.
+The main thing we did was remove any irrelevant information. For example, if a provider does not have any trainees studying to teach physics, we wont show the bursary amount for physics. This will reduce the number of rows users need to read through.
 
 For accredited providers we split each payment (ITT bursary, ITT scholarship and EYITT bursary) type into its own table to make the data clearer.
 

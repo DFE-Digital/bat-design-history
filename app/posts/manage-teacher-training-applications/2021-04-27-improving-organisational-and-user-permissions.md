@@ -14,7 +14,7 @@ The content is now clearer and more concise. There’s no need to say that the u
 
 If the user can manage organisations and there are organisational permissions to be set up, the page will tell them that the organisational permissions are next.
 
-We removed a sentence saying that “we’ll guide you through” setting up organisational permissions as it isn’t necessary.
+We removed a sentence saying that “we’ll guide you through” setting up organisational permissions as it is not necessary.
 
 ![Screenshot of ‘Data sharing agreement signed’ confirmation page.](dsa--set-up-permissions.png)
 
@@ -59,7 +59,7 @@ We’ve also removed the hint text because the field legends can now stand alone
 
 We’ve replaced the tick icons with normal bullet points. This is because:
 
-- on this page we only use tick icons, we aren’t contrasting them with crosses, so they have no more meaning than a bullet point
+- on this page we only use tick icons, we are not contrasting them with crosses, so they have no more meaning than a bullet point
 - the use of a tick may imply that they can be ‘unticked’ or replaced with crosses - it may not be clear to the user that the items cannot be changed
 - the heading makes it clear that the list is things the user can do, so there’s no need to further emphasise that it’s a list of positives
 

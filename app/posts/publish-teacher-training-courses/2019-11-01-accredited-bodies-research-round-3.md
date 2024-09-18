@@ -58,7 +58,7 @@ Participants have said it would be useful to have cross checking abilities betwe
 
 ### UCAS Weblink
 
-The UCAS Weblink is used by both accredited bodies with SRS and accredited bodies without SRS to manage applications from candidates. It lists all the providers and the applications that have come through for those partners and what status the applications are though it has it's limitations. ABs will only see the details about what is being applied to, and not all the courses they are accredited bodies for.
+The UCAS Weblink is used by both accredited bodies with SRS and accredited bodies without SRS to manage applications from candidates. It lists all the providers and the applications that have come through for those partners and what status the applications are though it has it’s limitations. ABs will only see the details about what is being applied to, and not all the courses they are accredited bodies for.
 
 > For us to go in and check the data for our partners, we’d have to go in the same way as an applicant would and that really is not an efficient way of working.
 

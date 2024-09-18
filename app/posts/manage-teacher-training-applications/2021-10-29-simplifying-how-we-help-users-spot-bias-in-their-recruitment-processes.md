@@ -98,7 +98,7 @@ We may consider charts later as an enhancement of the report.
 
 We could provide the data for specific candidates which we use to calculate the totals in the tables.
 
-We won't provide this as part of the current work. There’s ongoing work to consider what personally identifiable information should be shown to providers at different stages in the application process.
+We will not provide this as part of the current work. There’s ongoing work to consider what personally identifiable information should be shown to providers at different stages in the application process.
 
 ### Hiding the report while users could be identified
 
@@ -110,4 +110,4 @@ Our decision about this will also be influenced by the work being done to consid
 
 ### Showing reports for current and previous cycles
 
-We do not have complete data for the previous cycle since many applications were made through UCAS. We therefore think it will not be useful to show the previous cycle's data.
+We do not have complete data for the previous cycle since many applications were made through UCAS. We therefore think it will not be useful to show the previous cycle’s data.

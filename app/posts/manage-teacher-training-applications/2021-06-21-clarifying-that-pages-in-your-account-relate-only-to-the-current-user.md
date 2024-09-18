@@ -1,6 +1,6 @@
 ---
 title: Clarifying that pages in ‘your account’ relate only to the current user
-description: Improving the page headings and link text within ‘your account’ so that users don’t think it’s about managing their colleagues’ permissions
+description: Improving the page headings and link text within ‘your account’ so that users do not think it’s about managing their colleagues’ permissions
 date: 2021-06-21
 screenshots:
   items:

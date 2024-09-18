@@ -32,7 +32,7 @@ Content was significantly refined to improve guidance for users and updates such
 
 ## Missing data
 
-A number of instances were encountered where an organisation had a historical allocation but no corresponding PE course or vice versa. Considering this, we were required to omit displaying last year's allocation figure on [confirmation screens](/publish-teacher-training-courses/allocations-alpha/#intends-to-offer-fee-funded-pe) as the data was inaccurate for some organisations.
+A number of instances were encountered where an organisation had a historical allocation but no corresponding PE course or vice versa. Considering this, we were required to omit displaying last year’s allocation figure on [confirmation screens](/publish-teacher-training-courses/allocations-alpha/#intends-to-offer-fee-funded-pe) as the data was inaccurate for some organisations.
 
 The allocations team will be in contact with these organisations individually.
 

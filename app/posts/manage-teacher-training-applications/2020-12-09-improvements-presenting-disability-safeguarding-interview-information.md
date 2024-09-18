@@ -49,21 +49,21 @@ The content will match the the radio button which the candidate chose when they 
 
 If it’s a ‘yes’ response, we’ll also give the candidate’s free text input as usual.
 
-This means we don’t have to interpret or explain what the generic answer means because we just play it back verbatim.
+This means we do not have to interpret or explain what the generic answer means because we just play it back verbatim.
 
 For example: ‘Do you want to ask for help to become a teacher? – No’ is clearer than ‘Do you want to ask for help to become a teacher? – No information shared.’
 
 ## Not showing anything if the candidate was not asked
 
-We don't think it's a good idea to indicate questions which were not asked.
+We do not think it’s a good idea to indicate questions which were not asked.
 
 When replaying questions and answers in a service, it’s normal only to include those which were actually asked.
 
 Since the application details are a record of what was asked and the candidate’s response, omitting the question entirely implies that it was not asked.
 
-As we are now going to lay out the candidate’s answers verbatim, it will be even more obvious that the absence of the field means the question wasn’t asked. We don’t think there’s any need to explain this with words.
+As we are now going to lay out the candidate’s answers verbatim, it will be even more obvious that the absence of the field means the question was not asked. We do not think there’s any need to explain this with words.
 
-In addition, the service will likely add and remove questions. We don’t think it will be useful to keep adding the new ones into older applications, or marking a question as removed into new applications because it will add to the length and complexity of the page.
+In addition, the service will likely add and remove questions. We do not think it will be useful to keep adding the new ones into older applications, or marking a question as removed into new applications because it will add to the length and complexity of the page.
 
 ## Removing the guidance
 
@@ -71,7 +71,7 @@ We currently replay the guidance given to candidates. If they refer to it, provi
 
 - telling the candidate about things which are outside of the application process (eg that they can apply for a grant)
 - explanations and examples of what the candidate could put in the field – but all a provider needs to know is what the candidate actually put into the field
-- things which the provider should already know, and it isn't the role of this service to tell them - for example, that they have legal responsibilities
+- things which the provider should already know, and it is not the role of this service to tell them - for example, that they have legal responsibilities
 
 We have removed the guidance from the application details page. If there really is a user need for providers to occasionally refer to what the wording was, we could consider adding it to the service guidance.
 
@@ -83,9 +83,9 @@ Note that there’s currently no facility to store old versions of the guidance,
 
 The safeguarding information is hidden to prevent an ‘over the shoulder’ privacy breach.
 
-But there’s a lot of other sensitive personal information within the application which is not hidden in this way. And we don’t think there is much chance of a user using this service in a public place.
+But there’s a lot of other sensitive personal information within the application which is not hidden in this way. And we do not think there is much chance of a user using this service in a public place.
 
-That's why we have removed the ability to toggle the display of the safeguarding information. This will mean that users can see all relevant information at a glance.
+That’s why we have removed the ability to toggle the display of the safeguarding information. This will mean that users can see all relevant information at a glance.
 
 ## Generic wording for users without permission to view safeguarding information
 
@@ -93,15 +93,15 @@ We have new wording for users who cannot see safeguarding information:
 
 > Unavailable: you and your organisation both need permission to view these safeguarding issues.
 
-There’s currently a range of different messages, but we don’t feel that’s necessary now that we have far clearer onboarding and organisational permissions are more likely to be set up.
+There’s currently a range of different messages, but we do not feel that’s necessary now that we have far clearer onboarding and organisational permissions are more likely to be set up.
 
 We think we should instead just provide enough information for users to move to the next step, rather than trying to squeeze in a lot of information.
 
-If the issue of incorrectly set up permissions does persist, we probably need a better overall strategy. One example might be a ‘check my permissions to work out why I can’t see this’ link in appropriate places.
+If the issue of incorrectly set up permissions does persist, we probably need a better overall strategy. One example might be a ‘check my permissions to work out why I cannot see this’ link in appropriate places.
 
 ## Distinguishing between system messaging for lack of safeguarding permissions and candidate answers
 
-Currently, the system message that tells the user they can’t view safeguarding permission has the same standard black text as the candidate’s actual answer (when it can be viewed).
+Currently, the system message that tells the user they cannot view safeguarding permission has the same standard black text as the candidate’s actual answer (when it can be viewed).
 
 We tried using inset text, warning text, details (toggle), a box and grey text when the user lacks permission. But:
 

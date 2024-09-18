@@ -14,7 +14,7 @@ To make this work for 2 groups would mean combining them together somehow.
 
 Either by having more verbose labels like ‘[name of organisation] can make decisions‘ or by putting the 2 fields inside another fieldset which can cause accessibility issues.
 
-Or we could show the same error message in both fields which isn’t ideal because users can fix the error in one field by selecting options in the other.
+Or we could show the same error message in both fields which is not ideal because users can fix the error in one field by selecting options in the other.
 
 If we use group permissions by type intead of organisation
 Then we can show one error message per field

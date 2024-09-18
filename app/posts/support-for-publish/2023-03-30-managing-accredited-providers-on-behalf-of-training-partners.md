@@ -91,7 +91,7 @@ Once they submit the page, we notify all users of the accredited provider that t
 
 ### Editing ‘About the accredited provider’
 
-When users select the change link next to ‘About the accredited provider’, they’re taken to a page where they change the accredited provider's description.
+When users select the change link next to ‘About the accredited provider’, they’re taken to a page where they change the accredited provider’s description.
 
 Users must enter 100 words or fewer.
 

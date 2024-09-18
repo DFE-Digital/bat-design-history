@@ -34,7 +34,7 @@ Some commented that they would prefer for the pages to contain only key points, 
 
 It’s not clear what is the role of Find vs providers’ websites​​, and how they should be using each; and for some candidates it becomes a game of ‘spot the difference’.​
 
-> A career changer said they wouldn't use this page as the sole method for researching, and would likely "look at the provider’s website instead."
+> A career changer said they wouldn’t use this page as the sole method for researching, and would likely "look at the provider’s website instead."
 
 Some proposed an accordion structure so that they’re less overwhelmed by the sheer amount of text.​
 
@@ -86,7 +86,7 @@ Navigating the site and finding information was easy:
 
 Navigating on mobile generally tested well:
 
-> Particpants were able to find the information on a mobile, saying they "haven't had an issue" with scrolling through.
+> Particpants were able to find the information on a mobile, saying they "haven’t had an issue" with scrolling through.
 
 The website was good for comparing courses, and the accordions were useful:
 

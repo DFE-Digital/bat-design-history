@@ -25,7 +25,7 @@ This iteration contains several improvements to the way we present the candidate
 
 We used to mark roles that involved working with children.
 
-But research shows that a role can be relevant to teaching even if it doesn’t involve working with children.
+But research shows that a role can be relevant to teaching even if it does not involve working with children.
 
 We are instead going to ask candidates whether roles are relevant to teaching, so we changed the flag which can appear against work history items.
 

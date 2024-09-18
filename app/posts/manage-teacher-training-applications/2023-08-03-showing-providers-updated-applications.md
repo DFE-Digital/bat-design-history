@@ -19,7 +19,7 @@ This feature will be released in the 2023 to 2024 recruitment cycle which starts
 
 ## The issue
 
-The new feature in the application process now allows candidates to modify some of their information within the 'Your details' section after they've submitted an application.
+The new feature in the application process now allows candidates to modify some of their information within the 'Your details' section after they’ve submitted an application.
 
 These updates need to be reflected in Manage so that any changes on an application are clearly visible to training providers.
 
@@ -33,7 +33,7 @@ We added a new line on the application card to show who updated the application.
 
 ### New notification banner
 
-When a training provider selects an application that's been updated, we show a new blue notification banner. We tell them how many days ago the application was updated with a link to view the changes that takes the provider to the timeline tab.
+When a training provider selects an application that’s been updated, we show a new blue notification banner. We tell them how many days ago the application was updated with a link to view the changes that takes the provider to the timeline tab.
 
 ![Screenshot showing blue notification banner, 3 days ago](notification-banner-3days.png)
 
@@ -43,7 +43,7 @@ A variation of the blue notification banner if it has been updated the same day.
 
 ### Timeline tab
 
-We also updated the timeline tab, by adding a section called 'Application updated' to show what has been updated. For example, the candidate's address or phone number.
+We also updated the timeline tab, by adding a section called 'Application updated' to show what has been updated. For example, the candidate’s address or phone number.
 
 ![Screenshot showing the timeline tab](timeline.png)
 

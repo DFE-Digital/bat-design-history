@@ -4,7 +4,7 @@ description: Prompt providers to reconfirm a deferred offer from the previous cy
 date: 2020-08-14
 ---
 
-Given that DfE don’t have a confirmed set of courses until rollover occurs, providers need to reconfirm deferred applications when the new cycle starts.
+Given that DfE do not have a confirmed set of courses until rollover occurs, providers need to reconfirm deferred applications when the new cycle starts.
 
 ## Changes from the previous iteration
 

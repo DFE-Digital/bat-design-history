@@ -62,7 +62,7 @@ Candidates with non-UK qualifications are asked for:
 
 The options for comparable UK qualifications are:
 
-- GCSE (grades A* to C or 9 to 4)
+- GCSE (grades A- to C or 9 to 4)
 - between GCSE and AS level
 - AS level
 - A level
@@ -75,7 +75,7 @@ The options for grade are:
 
 #### No GCSE or equivalent qualification
 
-Candidates who do not have a GCSE or equivalent qualification are if they're currently studying for a GCSE or equivalent in the subject.
+Candidates who do not have a GCSE or equivalent qualification are if they’re currently studying for a GCSE or equivalent in the subject.
 
 If they’re studying for it, they’re asked to enter details of the qualification they’re studying for.
 
@@ -251,7 +251,7 @@ For a UK degree, the fields we show are:
 
 ![Candidate with multiple degrees](qualifications-degree--multiple-degrees.png "Candidate with multiple degrees")
 
-![Candidate who hasn’t completed their degree](qualifications-degree--incomplete.png "Candidate who hasn’t completed their degree")
+![Candidate who has not completed their degree](qualifications-degree--incomplete.png "Candidate who has not completed their degree")
 
 #### Non-UK degree
 
@@ -273,7 +273,7 @@ For a non-UK degree, the fields we show are:
 
 ![International candidate degree without a UK ENIC statement of comparability](qualifications-degree--international-no-uk-enic.png "International candidate degree without UK ENIC statement of comparability")
 
-![International candidate who hasn’t completed their degree](qualifications-degree--international-incomplete.png "International candidate who hasn’t completed their degree")
+![International candidate who has not completed their degree](qualifications-degree--international-incomplete.png "International candidate who has not completed their degree")
 
 ### GCSEs or equivalent
 
@@ -344,7 +344,7 @@ Candidates who are not from the UK or Ireland are asked whether they’ve done a
 
 If the candidate answers “No, English is not a foreign language to me” then we do not show this section in the application details.
 
-![International candidate doesn’t need an English as a foreign language qualification](qualifications-english-assessment--not-needed.png "International candidate doesn’t need English as a foreign language qualification")
+![International candidate does not need an English as a foreign language qualification](qualifications-english-assessment--not-needed.png "International candidate does not need English as a foreign language qualification")
 
 We do show the section in the application details for candidates who answer:
 
@@ -392,7 +392,7 @@ If the candidate has not done an English as a foreign language assessment, we sh
 - Have you done an English as a foreign language assessment?
 - If you’re planning on doing an assessment, give details - we show “Not provided” if the candidate did not give details
 
-![International candidate doesn’t have an English as a foreign language assessment](qualifications-english-assessment--no.png "International candidate doesn’t have an English as a foreign language assessment")
+![International candidate does not have an English as a foreign language assessment](qualifications-english-assessment--no.png "International candidate does not have an English as a foreign language assessment")
 
 ### A levels and other qualifications
 
@@ -404,7 +404,7 @@ We also changed the table heading “Qualification” to “Qualification type�
 
 ![Candidate has added A levels and other qualifications](qualifications-other--yes.png "Candidate has added A levels and other qualifications")
 
-![Candidate doesn’t want to add A levels and other qualifications](qualifications-other--no.png "Candidate doesn’t want to add A levels and other qualifications")
+![Candidate does not want to add A levels and other qualifications](qualifications-other--no.png "Candidate does not want to add A levels and other qualifications")
 
 ## Other considerations
 

@@ -15,8 +15,8 @@ In August 2022, we introduced a new ‘Closed’ status – this allows provider
 
 We improved the content on the ‘Are you sure you want to withdraw this course?’ page to make it clear that withdrawn courses cannot be published again in the same cycle. We also added content to remind the provider that they should:
 
-* contact the candidate to let them know the course is being withdrawn
-* offer the candidate a place on an alternative course if possible
+- contact the candidate to let them know the course is being withdrawn
+- offer the candidate a place on an alternative course if possible
 
 We also added a link to ‘close the course instead’, highlighting that if they simply want to stop candidates from applying for now, they can close the course rather than withdrawing it.
 

@@ -30,7 +30,7 @@ So that reasonable adjustments can be made should I be offered an interview and/
 
 {{ appUserNeed({
   description: "As a candidate
-I need reassurance that disclosing a disability won’t affect my application, either due to unconscious bias or discrimination
+I need reassurance that disclosing a disability will not affect my application, either due to unconscious bias or discrimination
 So that I can feel comfortable disclosing this information"
 }) }}
 
@@ -44,7 +44,7 @@ So that I can accomodate their needs"
 
 ### Using ‘extra assistance’ in the title
 
-Using the word ‘disability’ in the title excluded candidates that have short-term physical or mental health conditions, or a condition they don’t regard as a disability.
+Using the word ‘disability’ in the title excluded candidates that have short-term physical or mental health conditions, or a condition they do not regard as a disability.
 
 If the question mentions ‘extra assistance’ instead of ‘disability’
 Then candidates with access needs will be more compelled to enter their condition(s)
@@ -61,13 +61,13 @@ Then a candidate will feel more comfortable providing an answer
 
 The original design used content largely adapted from that used on the Get Into Teaching website.
 
-If the guidance states that it's against the law for a provider to discriminate against candidates with access needs
+If the guidance states that it’s against the law for a provider to discriminate against candidates with access needs
 Then a candidate will feel more comfortable providing an answer
 
 ## Findings
 
-* Candidates read ‘extra assistance’ as meaning financial assistance.
-* Candidates wanted links to information about financial assistance for training with a disability.
-* Candidates wanted a mix of reassurance, and also information about their legal standing.
-* Candidates were unclear what would happen with this information, or unsure if they would need to contact a provider directly as well.
-* Providers asked for more varied examples of the types of support available (ie mental health).
+- Candidates read ‘extra assistance’ as meaning financial assistance.
+- Candidates wanted links to information about financial assistance for training with a disability.
+- Candidates wanted a mix of reassurance, and also information about their legal standing.
+- Candidates were unclear what would happen with this information, or unsure if they would need to contact a provider directly as well.
+- Providers asked for more varied examples of the types of support available (ie mental health).

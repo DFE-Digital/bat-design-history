@@ -72,6 +72,6 @@ We tested this with school users. They found it easy to use to add placements.
 
 We did receive feedback that there may be scenarios where it was useful to break other subjects down in the same way we have done with modern languages. The subjects that came up were design and technology, which may be broken into specialisms, and physical education, which is taught by gender.
 
-At present we don’t have enough information to decide if these extra subject breakdowns are necessary. We will continue to test with users and monitor service usage through private beta.
+At present we do not have enough information to decide if these extra subject breakdowns are necessary. We will continue to test with users and monitor service usage through private beta.
 
 We also found that users with large numbers of placements would like the ability to add multiple placements at one time. We will consider the bulk addition of placements in future.

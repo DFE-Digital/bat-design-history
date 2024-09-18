@@ -24,10 +24,10 @@ Arguably, and this is a reckon, a user arriving at Apply for the first time will
 
 Tailoring and reuse via a profile presented some complexities:
 
-* which parts of a profile can be tailored?
-* if I need to tailor something for a provider, where do I go to do that?
-* if I have tailored some parts, then edit my profile, how do those changes cascade?
-* if I change my profile after submitting an application, does that affect my submitted application? (No, but we might need to communicate that)
+- which parts of a profile can be tailored?
+- if I need to tailor something for a provider, where do I go to do that?
+- if I have tailored some parts, then edit my profile, how do those changes cascade?
+- if I change my profile after submitting an application, does that affect my submitted application? (No, but we might need to communicate that)
 
 If new applications can use a previous application as a starting point, candidates get the benefit of reuse without needing to understand profiles and the whole application becomes tailorable.
 

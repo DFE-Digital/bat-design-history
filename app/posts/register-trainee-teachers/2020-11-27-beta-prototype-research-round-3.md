@@ -55,7 +55,7 @@ There’s an immediate brand recognition with the services we offer and the requ
 
 >“I like the continuity between the systems. At the moment all the systems I’m using are completely different to each other, they’re asking for different information. Whereas this is using all the same terms, all the same language, it’s a lot easier to find things. Even down to how it’s structured and formatted on the page it’s easier to see what you’re looking for. Definitely prefer this once it’s all set up.”
 
->“Would be good if you could get to the services like Manage, Publish and Register more quickly, for example through Google. There isn’t a landing page for these services. In a perfect world you’d have Apply, Publish and this all available on there.”
+>“Would be good if you could get to the services like Manage, Publish and Register more quickly, for example through Google. There is not a landing page for these services. In a perfect world you’d have Apply, Publish and this all available on there.”
 
 ### Early drafts and requesting TRN
 
@@ -63,7 +63,7 @@ Currently the process of registering trainees seems to be viewed as one activity
 
 If we enable providers to input data throughout the year, then creating drafts early and submitting them for TRN once trainees have started become two distinct actions.
 
->“DBS isn’t done earlier than 3 months before the start of the course - this is part of the process of moving people from conditional to firm offers. This means putting people on earlier than August is unlikely.”
+>“DBS is not done earlier than 3 months before the start of the course - this is part of the process of moving people from conditional to firm offers. This means putting people on earlier than August is unlikely.”
 
 >“I wouldn’t submit them for registration until I was 100% sure they are on the course. I think it can cause issues trying to take them off.”
 
@@ -140,13 +140,13 @@ Currently a trainee is either withdrawn if they’re unlikely to pass assessment
 
 >“We’ve never had anybody fail. Something would be implemented before that, a remediation stage - 3 week period to make sure they pass. Or we extend the course in which case I would change the [programme] date.”
 
->“Normally they would withdraw before this point. They’d be informed of this process, it has to be ratified by executive boards, lots of paperwork before this point. We wouldn’t offer an extension to someone who isn’t going to get there regardless.”
+>“Normally they would withdraw before this point. They’d be informed of this process, it has to be ratified by executive boards, lots of paperwork before this point. We wouldn’t offer an extension to someone who is not going to get there regardless.”
 
 Read more on what [our users said about ‘failing’](/register-trainee-teachers/recording-training-outcomes-iteration-2/#what-our-users-said).
 
 Users act responsibly when it comes to updating outcomes on DTTP, but because an extension is not considered a formal “outcome” it is currently either not recorded at all or falls under deferrals.
 
->“It isn’t the case that an extension would be as a result of a failed assessment, it would be done preemptively. We don’t change anything on the DTTP until the final judgement about their position.”
+>“It is not the case that an extension would be as a result of a failed assessment, it would be done preemptively. We do not change anything on the DTTP until the final judgement about their position.”
 
 Lookback highlights:
 

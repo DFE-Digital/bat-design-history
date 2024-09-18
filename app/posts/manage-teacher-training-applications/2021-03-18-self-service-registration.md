@@ -208,7 +208,7 @@ We were still assuming that the user would have entered this service through a �
 
 #### Start page
 
-- Users weren’t sure where the list of schools came from, but this wouldn’t prevent them from completing the task.
+- Users were not sure where the list of schools came from, but this would not prevent them from completing the task.
 
 #### Data sharing agreement
 
@@ -217,7 +217,7 @@ We were still assuming that the user would have entered this service through a �
 
 #### Contact details
 
-- Users weren’t sure where the email details came from, although this wasn’t helped by the use of test data rather than email addresses they recognised.
+- Users were not sure where the email details came from, although this was not helped by the use of test data rather than email addresses they recognised.
 
 #### End of process
 

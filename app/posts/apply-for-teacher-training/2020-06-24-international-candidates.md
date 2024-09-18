@@ -35,13 +35,13 @@ The barriers international candidates face when applying may be affecting this.
 
 International candidates need to understand more, give more information, spend more money and wait around more than domestic candidates. For example they need to:
 
-* understand the teacher training system – the [Aspiring Teacher Facebook Forum](https://www.facebook.com/groups/1357146377672255/) and [Get Into Teaching](https://getintoteaching.education.gov.uk/) website are not optimised to appear in search results outside of the UK
+- understand the teacher training system – the [Aspiring Teacher Facebook Forum](https://www.facebook.com/groups/1357146377672255/) and [Get Into Teaching](https://getintoteaching.education.gov.uk/) website are not optimised to appear in search results outside of the UK
 
-* give information about residency status and qualification equivalencies
+- give information about residency status and qualification equivalencies
 
-* spend money on things like equivalency statements, document translation and travel to interviews
+- spend money on things like equivalency statements, document translation and travel to interviews
 
-* wait around for translations and equivalence certificates
+- wait around for translations and equivalence certificates
 
 Some of this friction is inevitable. Other parts are being addressed by our colleagues in Get Into Teaching, Find and international policy.
 
@@ -85,13 +85,13 @@ We’ll know this works when the proportion of international candidates who subm
     caption: "Ask the nationality question in a separate step and remove the question about languages spoken."
   }, {
     text: "What is your nationality?",
-    caption: "* British and Irish – no further questions are asked\n* Other – candidate asked to select nationality from structured list\n* I have multiple nationalities – candidate can give details as free text"
+    caption: "- British and Irish – no further questions are asked\n- Other – candidate asked to select nationality from structured list\n- I have multiple nationalities – candidate can give details as free text"
   }, {
     text: "Do you have the right to work or study in the UK? (Yes)",
     caption: "Candidates who are not British or Irish are asked to give details about their residency status, if they know it. They can give details of their residency, or indicate that this is something they will need to consider later."
   }, {
     text: "Do you have the right to work or study in the UK? (Not yet)",
-    caption: "They can also indicate that this is something they will need to consider later by selecting ‘Not yet’ or ‘I do not know’."
+    caption: "They can also indicate that this is something they will need to consider later by selecting ‘Not yet’ or ‘I don’t know’."
   }, {
     text: "Reviewing personal details"
   }]
@@ -152,7 +152,7 @@ We’ll know this works when providers get the information they need to decide w
     caption: "If the nationality is not British or Irish, we show an ‘English as a foreign language section under the qualifications title on the application."
   }, {
     text: "English as a foreign language",
-    caption: "We ask candidates if they have an English as a foreign language qualification. If yes, we ask them for details in the next step. If no, they can provide further details about working towards getting one. Candidates can also respond by saying that they don’t consider English to be a foreign language to them."
+    caption: "We ask candidates if they have an English as a foreign language qualification. If yes, we ask them for details in the next step. If no, they can provide further details about working towards getting one. Candidates can also respond by saying that they do not consider English to be a foreign language to them."
   }, {
     text: "What English language qualification do you have?",
     caption: "The 2 most common qualifications are shown, as well as an option for other."
@@ -169,10 +169,10 @@ We’ll know this works when providers get the information they need to decide w
     text: "Reviewing English as a foreign language"
   }, {
     text: "Reviewing English as a foreign language (Don’t have)",
-    caption: "If a cadidate doesn’t yet have a qualification, we show any reason they’ve given."
+    caption: "If a cadidate does not yet have a qualification, we show any reason they’ve given."
   }, {
     text: "Reviewing English as a foreign language (Don’t need)",
-    caption: "If a cadidate doesn’t need a qualification because English is not a foreign language, we show that response."
+    caption: "If a cadidate does not need a qualification because English is not a foreign language, we show that response."
   }]
 }) }}
 
@@ -184,11 +184,11 @@ In our user research however, many candidates either did not understand or were 
 
 Terms like ‘GCSE’, ‘grade’, ‘subject’, and ‘awarding body’ were either unfamiliar or had a different meaning to what is understood in the UK. For example:
 
-* ‘Grade 4’ means Year 4 in Canada and the US
+- ‘Grade 4’ means Year 4 in Canada and the US
 
-* some countries do not use the term subject, but instead use terms like ‘minors’ and ‘majors’
+- some countries do not use the term subject, but instead use terms like ‘minors’ and ‘majors’
 
-* not all qualifications have grades – it could be pass or fail, a GPA (grade point average) or a percentage
+- not all qualifications have grades – it could be pass or fail, a GPA (grade point average) or a percentage
 
 ### User need
 

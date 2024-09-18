@@ -37,8 +37,8 @@ So that I can have 2 suitable references in my application"
 
 At various points in the user journey we tell candidates:
 
-* [we’ll contact your referees after you submit your application](/apply-for-teacher-training/improving-the-references-user-journey#static-guidance-about-contacting-your-referees-when-you-submit)
-* [we’ll send your application to your provider when your references are in](/apply-for-teacher-training/improving-the-references-user-journey#static-guidance-about-sending-the-application-to-the-provider-once-the-references-are-in)
+- [we’ll contact your referees after you submit your application](/apply-for-teacher-training/improving-the-references-user-journey#static-guidance-about-contacting-your-referees-when-you-submit)
+- [we’ll send your application to your provider when your references are in](/apply-for-teacher-training/improving-the-references-user-journey#static-guidance-about-sending-the-application-to-the-provider-once-the-references-are-in)
 
 This is not the case if a candidate keeps their references when applying again.
 

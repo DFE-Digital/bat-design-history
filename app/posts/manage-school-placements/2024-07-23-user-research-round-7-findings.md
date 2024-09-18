@@ -36,7 +36,7 @@ We reviewed the live Manage school placements service and tested concept prototy
 
 ![Concept 3: Sharing trainee data with the placement school to help them make their decision and find a suitable mentor](trainee-proposal.png "Concept 3: Sharing trainee data with the placement school to help them make their decision and find a suitable mentor")
 
-![Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)](trainee-notify.png "Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)")
+![Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider’s attention (within the service or via notifications)](trainee-notify.png "Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider’s attention (within the service or via notifications)")
 
 ![Concept 5: Providing an overview screen with all placements offered by a partner school](school-placements.png "Concept 5: Providing an overview screen with all placements offered by a partner school")
 
@@ -55,7 +55,7 @@ Factors affecting school engagement based on provider findings from this round a
 - Service requires schools to adopt new behaviours – e.g. schools tend to respond to provider requests and chasing rather than provide their capacity proactively; if schools do offer their capacity proactively, they would approach their existing providers before offering placements to others
 - ITT providers are not currently promoting use of the service – the providers we’ve spoken to in Leeds are content with their current ways of working and are concerned that this new approach could jeopardise their existing relationships with schools
 
-> "It’s difficult to give feedback on the actual platform when we're not fully using it… I personally think, for it to be used wholesale, it needs to be the go to and it's really hard to get a mindset shift… It’s security for everybody and there’s that nervousness that we can see other providers’ placements, they can see ours and I think it's a big mindset shift."
+> "It’s difficult to give feedback on the actual platform when we’re not fully using it… I personally think, for it to be used wholesale, it needs to be the go to and it’s really hard to get a mindset shift… It’s security for everybody and there’s that nervousness that we can see other providers’ placements, they can see ours and I think it’s a big mindset shift."
 
 ### Insight 2
 
@@ -87,13 +87,13 @@ Knowing the terms that the school has placement capacity in sufficiently narrows
 
 Out of the 5 trainee data concepts we tested (demonstrating different ways that trainee data could potentially be used within the service), concepts 4 and 5 were the most appealing so are worth developing further.
 
-![Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)](trainee-notify.png "Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider's attention (within the service or via notifications)")
+![Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider’s attention (within the service or via notifications)](trainee-notify.png "Concept 4: Using trainee data to enable the service to proactively bring new placements to the provider’s attention (within the service or via notifications)")
 
 ![Concept 5: Providing an overview screen with all placements offered by a partner school](school-placements.png "Concept 5: Providing an overview screen with all placements offered by a partner school")
 
 #### Supporting detail and evidence
 
-Having to regularly return to the service to check whether new placements have been added is considered an inefficient approach. So all the participants were positive about concept 4 and anything that can be done to proactively bring new placements to the provider's attention. There were mixed views on whether email notifications would be the best approach or whether relevant new placements should be highlighted within the service. Further design iteration and testing is needed to determine the best way to deliver against this need.
+Having to regularly return to the service to check whether new placements have been added is considered an inefficient approach. So all the participants were positive about concept 4 and anything that can be done to proactively bring new placements to the provider’s attention. There were mixed views on whether email notifications would be the best approach or whether relevant new placements should be highlighted within the service. Further design iteration and testing is needed to determine the best way to deliver against this need.
 
 As found in [user research round 2](/manage-school-placements/user-research-round-2-findings/) and [user research round 5](/manage-school-placements/user-research-round-5-findings/), providers need to have a ‘school view’ of placement capacity as well as the ability to look at individual placements in isolation. Seeing all the placements being offered by a single school on an overview screen, as shown in concept 5, was received positively by all participants. However, in addition, we should still look at ways to bring a ‘school view’ into the ‘Find placement’ journey without the need to get this information by separately visiting the Partner schools tab – this was described as "long winded" by one of the participants.
 

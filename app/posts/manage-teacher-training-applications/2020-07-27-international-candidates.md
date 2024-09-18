@@ -20,15 +20,15 @@ We need to ensure these changes are reflected in the provider interface.
 
 We’ve recently made [changes to the residency section on the candidate interface](/apply-for-teacher-training/international-candidates/#residency-and-visa-status). Candidates who do not have British or Irish nationality can now say that they:
 
-* have the right to work in the UK
-* do not have the right to work in the UK yet
-* do not know whether they have the right to work in the UK
+- have the right to work in the UK
+- do not have the right to work in the UK yet
+- do not know whether they have the right to work in the UK
 
 The provider interface will show a new ‘Has the right to work or study in the UK?’ field in the personal details section. This will show one of the following, depending on the candidate’s answer:
 
-* ‘Yes’
-* ‘Not yet’
-* ‘Candidate does not know’
+- ‘Yes’
+- ‘Not yet’
+- ‘Candidate does not know’
 
 If the candidate indicates that they have the right to work or study in the UK, we show an additional ‘Residency status’ field on the provider interface which displays the free text answer given by the candidate that gives more details about their circumstances.
 
@@ -44,23 +44,23 @@ We need to show this information in a way that makes sense to providers, alongsi
 
 We will display this information in the format of a card, or multiple cards, showing the following information where relevant:
 
-* ### Degree type and subject
+- ### Degree type and subject
 
   For example, ‘BA (Hons) Graphic design’, ‘BSc Physics’, ‘Diplôme Population ecology’. ‘(Hons)’ is shown after the degree type if the candidate was awarded an honours grade.
 
-* ### Institution and county
+- ### Institution and county
 
   For example ‘University of Paris, France’. We show this information for international degrees to help providers work out equivalencies (an awarding institution can have quite a bearing on this).
 
-* ### Year started and year graduated
+- ### Year started and year graduated
 
   For example, ‘1999 to 2002’.
 
-* ### Grade
+- ### Grade
 
   For example, ‘Upper second-class honours (2:1)’, ‘Predicted: First class honours’, ‘Pass’. This value is prefixed by ‘Predicted:’ if predicted grade was given.
 
-* ### NARIC statement and comparability
+- ### NARIC statement and comparability
 
   For example, ‘NARIC statement #4000228363 says this is comparable to a Bachelor (Honours) degree.’ This is only shown for international degrees, and if details have been given by the candidate.
 
@@ -82,44 +82,44 @@ International candidates can also now [include information from a NARIC statemen
 
 We will display this information within a card, showing the following information where relevant:
 
-* ### Subject and qualification name
+- ### Subject and qualification name
 
   For example, ‘English GCSE’, ‘Maths Scottish National 5, ‘Science Baccalauréat Général’. A qualification name is not shown if the candidate does not have this qualification yet.
 
-* ### Year awarded and county
+- ### Year awarded and county
 
   For example, ‘1996’, ‘2014, France’. Country is only shown for international qualifications.
 
-* ### Grade
+- ### Grade
 
   The display of this information depends on the subject:
 
   For maths, this will always be a single grade or value. Examples:
 
-  * A
-  * 8
-  * Pass
+  - A
+  - 8
+  - Pass
 
   For most English qualifications this will be a single grade or value. For GCSEs, multiple exams can be taken or a combined grade can be awarded. Examples:
 
-  * A (English Language)
+  - A (English Language)
     B (English Literature)
-  * 8-7 (English)
-  * 92%
+  - 8-7 (English)
+  - 92%
 
   For most science qualifications this will be a single grade or value. For GCSEs, single or double (combined) awards, or three separate science grades can be given. Example:
 
-  * A (Single award)
-  * 8-7 (Double award)
-  * A (Biology)
+  - A (Single award)
+  - 8-7 (Double award)
+  - A (Biology)
     A (Chemistry)
     B (Physics)
 
-* ### NARIC statement and comparability
+- ### NARIC statement and comparability
 
   For example, ‘NARIC statement #4000228363 says this is comparable to a GCSE (grades A*-C / 9-4).’ This is only shown for international qualifications, and if details have been given by the candidate.
 
-* ### Missing qualification
+- ### Missing qualification
 
   If a candidate does not have an equivalent qualification, we say ‘Candidate does not have this qualification yet’, alongside the reason given.
 
@@ -135,9 +135,9 @@ They can also give details of how they expect to get this qualification, or indi
 
 On the provider interface, under the heading ‘English as a foreign language’, we will show one of the following statements:
 
-* ‘Candidate has an English as a foreign language qualification.’
-* ‘Candidate does not have an English as a foreign language qualification yet.’
-* ‘Candidate said that English is not a foreign language to them.’
+- ‘Candidate has an English as a foreign language qualification.’
+- ‘Candidate does not have an English as a foreign language qualification yet.’
+- ‘Candidate said that English is not a foreign language to them.’
 
 If the candidate has a qualification, we’ll show a qualification card below the corresponding statement. If they do not have a qualification yet, we’ll show the reason they’ve given.
 

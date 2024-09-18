@@ -71,7 +71,7 @@ On the mentor details page, we show a summary list of the mentor’s details, in
 
 This page also includes a ‘Remove mentor’ link, which allows mentors to remove the mentor.
 
-Users cannot change the mentor's first name, last name and TRN.
+Users cannot change the mentor’s first name, last name and TRN.
 
 ### Adding a mentor
 
