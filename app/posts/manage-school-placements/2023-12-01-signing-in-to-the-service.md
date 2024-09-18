@@ -46,3 +46,26 @@ eleventyComputed:
   eleventyNavigation:
     key: school-placements-signing-in-to-the-service
 ---
+
+To access Manage school placements, users must use Department for Education (DfE) Sign-in.
+
+DfE Sign-in is how schools and other education organisations access DfE online services including all services in Becoming a teacher (BAT).
+
+## How it works
+
+Before accessing the Manage school placements service, users must be invited either by someone in their organisation or someone from BAT support.
+
+Once added to the organisation, users will receive an email with a link to sign in.
+
+To access the service, users will either need:
+
+- an existing DfE Sign-in account
+- to create a DfE Sign-in account if they haven't used DfE Sign-in before
+
+Users can create DfE Sign-in accounts with any email address, but it’s expected that users will create an account using their organisation email address rather than one from a free email service provider such as Gmail and Hotmail.
+
+The DfE Sign-in account email must match the email used to invite the user otherwise we cannot sign the user in; their organistion will be unknown.
+
+If the user needs to create a new DfE Sign-in account, there is a bug in which DfE Sign-in forgets which service they’re signing in to. In this case, users have to go back to their original email to follow steps to sign into the service.
+
+Once signed in, if a user is inactive for 20 minutes, their session will time out and they will be signed out.
