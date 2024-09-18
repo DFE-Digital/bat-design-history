@@ -1,7 +1,7 @@
 ---
 title: Signing in to the service
 description: We use DfE Sign-in for access management
-date: 2023-12-01
+date: 2023-12-19
 tags:
   - authentication
   - users
