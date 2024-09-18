@@ -1,7 +1,7 @@
 ---
 title: Signing in to the service
-description: We use DfE Sign-in for access management
-date: 2023-12-19
+description: We use DfE Sign-in for managing access to the service
+date: 2023-12-01
 tags:
   - authentication
   - users
@@ -47,7 +47,7 @@ eleventyComputed:
     key: funding-mentors-signing-in-to-the-service
 ---
 
-Users must use the Department for Education (DfE) Sign-in to access Claim funding for mentor training.
+All users must use the Department for Education (DfE) Sign-in to access Claim funding for mentor training.
 
 DfE Sign-in is how schools and other education organisations access DfE online services, including all Becoming a teacher (BAT) services.
 
