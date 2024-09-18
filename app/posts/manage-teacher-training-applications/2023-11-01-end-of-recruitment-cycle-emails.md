@@ -120,6 +120,7 @@ Content we added to the newsletter
 
 {{ appEmail({
   content: "
+
 ### Changes to how candidates apply for teacher training in the 2023 to 2024 recruitment cycle
 
 Candidates will be able to submit their applications for the next recruitment cycle from 10 October 2023 at 9am. [View the new recruitment cycle dates](https://www.gov.uk/government/publications/recruiting-postgraduate-trainee-teachers-recruitment-cycle-dates/recruiting-postgraduate-trainee-teachers-recruitment-cycle-dates).
