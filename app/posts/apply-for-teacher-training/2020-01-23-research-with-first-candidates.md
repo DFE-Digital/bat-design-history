@@ -51,7 +51,7 @@ We asked each user who submitted an application if they’d be happy to take par
 - They stated it would’ve been useful to say how many hours their part time work was, especially the one involving working with children.
 - They liked the personal statement as well as the content guidance.
   "Makes it much less daunting rather than seeing a big 2,500 word box with no help"
-- They gave interview preferences for dates they could not do, but wasn’t sure if the Provider would accommodate these or not. They stated "it would’ve been helpful to have a calendar to pick dates I'm not free".
+- They gave interview preferences for dates they could not do, but were not sure if the Provider would accommodate these or not. They stated "it would’ve been helpful to have a calendar to pick dates I'm not free".
 
 ## Candidate 3
 

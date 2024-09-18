@@ -299,7 +299,7 @@ We considered adding a custom ‘start date and end date’ for the placement wi
 
 ### Saving a draft
 
-We considered allowing users to save a draft placement. However, there wasn’t a clear need from research to suggest users would need this option.
+We considered allowing users to save a draft placement. However, there was not a clear need from research to suggest users would need this option.
 
 ### Only publishing a placement to providers in a school’s network
 

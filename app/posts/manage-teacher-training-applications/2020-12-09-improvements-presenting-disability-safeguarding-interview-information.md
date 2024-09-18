@@ -61,7 +61,7 @@ When replaying questions and answers in a service, it’s normal only to include
 
 Since the application details are a record of what was asked and the candidate’s response, omitting the question entirely implies that it was not asked.
 
-As we are now going to lay out the candidate’s answers verbatim, it will be even more obvious that the absence of the field means the question wasn’t asked. We do not think there’s any need to explain this with words.
+As we are now going to lay out the candidate’s answers verbatim, it will be even more obvious that the absence of the field means the question was not asked. We do not think there’s any need to explain this with words.
 
 In addition, the service will likely add and remove questions. We do not think it will be useful to keep adding the new ones into older applications, or marking a question as removed into new applications because it will add to the length and complexity of the page.
 

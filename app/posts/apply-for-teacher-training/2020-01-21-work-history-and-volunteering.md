@@ -58,7 +58,7 @@ A couple of providers echoed these concerns. For example, Bedfordshire Universit
 
 **Then** candidates will show their potential for teaching
 
-**Because** they will be encouraged to include all their experience, even if it wasn’t working with children or in a school
+**Because** they will be encouraged to include all their experience, even if it was not working with children or in a school
 
 ### How will we know this works?
 

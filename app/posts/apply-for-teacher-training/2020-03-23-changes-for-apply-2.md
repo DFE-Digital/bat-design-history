@@ -51,7 +51,7 @@ Needs will depend on where and when you are applying. When they apply again:
 
 - any dates entered before may no longer be relevant
 - new dates they are unavailable might need to be added
-- locations might be different – they might be travelling much further for this interview (for example – a provider that wasn’t their first choice because it was further away)
+- locations might be different – they might be travelling much further for this interview (for example – a provider that was not their first choice because it was further away)
 
 Should we still prefill this section?
 Should we flag it for review?

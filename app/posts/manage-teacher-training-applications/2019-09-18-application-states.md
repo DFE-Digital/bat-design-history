@@ -21,7 +21,7 @@ Those original states have largely stayed the same, they are:
 - Confirmed (previously Recruited)
 - Rejected (unchanged)
 
-In review and recruited did not make sense to users. It wasn’t clear where interviewing and offers made would sit.
+In review and recruited did not make sense to users. It was not clear where interviewing and offers made would sit.
 
 These states correspond to the ‘Change status’ actions a user can make.
 

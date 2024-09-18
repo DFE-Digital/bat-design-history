@@ -60,7 +60,7 @@ Users had questions about how:
 
 Users also wanted assurances that:
 
-- candidates would understand that getting shortlisted wasn’t a definite
+- candidates would understand that getting shortlisted was not a definite
 - they would not have to commit to using the shortlist
 - they would have enough information about candidates on the shortlist before contacting them
 

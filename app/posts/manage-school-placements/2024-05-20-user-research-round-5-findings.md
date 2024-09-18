@@ -70,7 +70,7 @@ Although the subject filter can be used to limit a placement search to primary o
 
 For primary school placements, ITT providers need to know which year group the placement is in to determine whether it’s suitable for their trainee. So not capturing this would lead to irrelevant enquiries.
 
-For all placements, the placement window is also considered to be critical information to avoid contacting a school unnecessarily. Participants said that showing the term or having a date range could work although there wasn’t a clear consensus on the best approach to take.
+For all placements, the placement window is also considered to be critical information to avoid contacting a school unnecessarily. Participants said that showing the term or having a date range could work although there was not a clear consensus on the best approach to take.
 
 > “The search and being able to filter things, it all looks pretty user friendly... I think they’re clear, the filters make sense, but they’re not necessarily ones that we'd need to use or that would be the most important ones... I'd like to filter by key stage or subject first. Once I’ve done that, when I look at the list that comes up, what I really need is to see that they are offering a placement from this date to this date and the number of students they can take.”
 
@@ -80,7 +80,7 @@ The purpose and user benefit of the partner schools feature was not clear to som
 
 #### Supporting detail and evidence
 
-The participants understood what was meant by ‘Partner schools’ but it wasn’t language they would necessarily use and it was not intuitive how and why these partnerships are added into the service:
+The participants understood what was meant by ‘Partner schools’ but it was not language they would necessarily use and it was not intuitive how and why these partnerships are added into the service:
 
 - one participant assumed that DfE would use data from other services to create the partnerships
 - participants from larger ITT providers were concerned about the need to add these relationships into the service one at a time as they have hundreds of partner schools

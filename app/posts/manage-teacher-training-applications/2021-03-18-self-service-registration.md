@@ -217,7 +217,7 @@ We were still assuming that the user would have entered this service through a â
 
 #### Contact details
 
-- Users were not sure where the email details came from, although this wasnâ€™t helped by the use of test data rather than email addresses they recognised.
+- Users were not sure where the email details came from, although this was not helped by the use of test data rather than email addresses they recognised.
 
 #### End of process
 

@@ -154,7 +154,7 @@ We will test this by monitoring how the ‘Edit placement contact’ feature is 
 
 We think that the effort required to get TRNs might deter schools from adding their mentors into the service.
 
-We think this is because getting TRNs can involve significant effort for the user and the benefit of adding mentors wasn’t always clear to participants.
+We think this is because getting TRNs can involve significant effort for the user and the benefit of adding mentors was not always clear to participants.
 
 We will test this by monitoring how the ‘Add mentor’ feature is used during the Private Beta and understanding schools’ experiences through more user research.
 

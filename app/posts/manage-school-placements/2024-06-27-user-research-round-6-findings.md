@@ -105,7 +105,7 @@ This is an issue for other DfE services, such as Claim funding for mentor traini
 
 ### Insight 6
 
-Both participants were positive about the onboarding prototype design and found the structure of a list useful but it wasn’t considered an essential change.
+Both participants were positive about the onboarding prototype design and found the structure of a list useful but it was not considered an essential change.
 
 #### Supporting detail and evidence
 
