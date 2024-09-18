@@ -21,4 +21,4 @@ Otherwise provide autocomplete features for picking the provider and course. The
 
 We’ll need to amend this design to include training locations too – some courses offer multiple locations that a candidate can choose between. For example national SCITTs or school direct providers working with many schools.
 
-Users coming directly from Find could have a course pre-populated or added using a different flow, this hasn’t been designed yet.
+Users coming directly from Find could have a course pre-populated or added using a different flow, this has not been designed yet.

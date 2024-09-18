@@ -26,7 +26,7 @@ screenshots:
         caption: Candidates have the option to request a reference now, or at a later date
       - id: request-candidate-name
         text: Tell the referee your name
-        caption: If the candidate hasn’t added their personal details yet, we ask for their first and last name before sending a reference request. This information will populate the same questions in the ‘Personal details’ section.
+        caption: If the candidate has not added their personal details yet, we ask for their first and last name before sending a reference request. This information will populate the same questions in the ‘Personal details’ section.
   - title: "Screenshots: Tracking and managing reference requests"
     items:
       - id: your-application-in-progress

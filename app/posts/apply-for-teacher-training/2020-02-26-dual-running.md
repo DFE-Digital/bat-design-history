@@ -86,7 +86,7 @@ If a candidate starts (or continues) their application journey from ‘Find for 
 
 ### Redirecting candidates (back) to Find
 
-If a candidate hasn’t chosen a course yet, we direct them to use Find. However, users are then not able to navigate back to Apply, and potential face the challenge of being caught in a loop.
+If a candidate has not chosen a course yet, we direct them to use Find. However, users are then not able to navigate back to Apply, and potential face the challenge of being caught in a loop.
 
 - If we open the link to Find in a new window
   Then candidates will be able to keep their location on Apply.

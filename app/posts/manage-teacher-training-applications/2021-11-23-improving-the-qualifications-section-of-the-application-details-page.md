@@ -251,7 +251,7 @@ For a UK degree, the fields we show are:
 
 ![Candidate with multiple degrees](qualifications-degree--multiple-degrees.png "Candidate with multiple degrees")
 
-![Candidate who hasn’t completed their degree](qualifications-degree--incomplete.png "Candidate who hasn’t completed their degree")
+![Candidate who has not completed their degree](qualifications-degree--incomplete.png "Candidate who has not completed their degree")
 
 #### Non-UK degree
 
@@ -273,7 +273,7 @@ For a non-UK degree, the fields we show are:
 
 ![International candidate degree without a UK ENIC statement of comparability](qualifications-degree--international-no-uk-enic.png "International candidate degree without UK ENIC statement of comparability")
 
-![International candidate who hasn’t completed their degree](qualifications-degree--international-incomplete.png "International candidate who hasn’t completed their degree")
+![International candidate who has not completed their degree](qualifications-degree--international-incomplete.png "International candidate who has not completed their degree")
 
 ### GCSEs or equivalent
 

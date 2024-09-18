@@ -100,7 +100,7 @@ The flow is a little more convoluted:
 - Click link in sign in email
 - Get redirected to the form
 
-But if a user hasn’t seen the email, and they are signing in for another purpose, we need to prompt them too.
+But if a user has not seen the email, and they are signing in for another purpose, we need to prompt them too.
 
 ### Don’t do anything smart with the link
 

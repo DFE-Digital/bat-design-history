@@ -15,7 +15,7 @@ Then they’ll be able to learn how notes work quickly without having to see the
 
 ## How it works
 
-If the user hasn’t added a note before there will be an extra piece of guidance above the ‘Add note’ button that says ‘We’ll guide you through creating your first note’.
+If the user has not added a note before there will be an extra piece of guidance above the ‘Add note’ button that says ‘We’ll guide you through creating your first note’.
 
 If there are no notes at all, there will be an extra line above the ‘Add note’ button that says ‘There are no notes yet’.
 
