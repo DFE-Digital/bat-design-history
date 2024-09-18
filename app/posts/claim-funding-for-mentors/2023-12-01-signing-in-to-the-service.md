@@ -14,7 +14,7 @@ related:
       href: https://www.ncsc.gov.uk/guidance/application-development-guidance-introduction
 screenshots:
   items:
-    - text: Sign in form
+    - text: Sign-in form
       src: dfe-sign-in--sign-in.png
     - text: Sign in form with error
       src: dfe-sign-in--sign-in-error.png
@@ -46,3 +46,51 @@ eleventyComputed:
   eleventyNavigation:
     key: funding-mentors-signing-in-to-the-service
 ---
+
+Users must use the Department for Education (DfE) Sign-in to access Claim funding for mentor training.
+
+DfE Sign-in is how schools and other education organisations access DfE online services, including all Becoming a teacher (BAT) services.
+
+## How it works
+
+Before accessing the Claim funding for mentor training service, users must be invited by someone from their organisation or BAT support.
+
+Once added to the organisation, users will receive an email with a link to sign in.
+
+To access the service, users will either need:
+
+- an existing DfE Sign-in account
+- to create a DfE Sign-in account if they haven’t used DfE Sign-in before
+
+Users can create DfE Sign-in accounts with any email address, but they are expected to use their organisation’s email address rather than one from a free email service provider such as Gmail or Hotmail.
+
+The DfE Sign-in account email must match the email used to invite the user; otherwise, we cannot sign the user in, and their organisation will be unknown.
+
+If the user needs to create a new DfE Sign-in account, there is a bug in which DfE Sign-in forgets which service they’re signing in to. In this case, users must return to their original email to follow the steps to sign into the service.
+
+Once signed in, if a user is inactive for 20 minutes, their session will time out, and they will be signed out.
+
+### Users belonging to multiple organisations
+
+If a user belongs to multiple organisations, each organisation will need to invite them to the service. The user can use the same email address. If this is the case, they can choose which organisation they want to work on after signing in.
+
+They will not have to choose an organisation if they use a different email address for each organisation.
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- Using a ‘magic link’ when the DfE Sign-in service is unavailable
+- Using DfE Sign-in for access management
+
+### Using a ‘magic link’ when the DfE Sign-in service is unavailable
+
+If DfE Sign-in is unavailable when a user tries to sign in, we could provide a fallback using a magic link. Existing services such as Register trainee teachers and Apply for teacher training use this approach.
+
+We have not implemented a magic link as we have yet to find a need for it. DfE Sign-in is not often unavailable, and when it is, it is only for a short amount of time.
+
+### Using DfE Sign-in for access management
+
+We only use DfE Sign-in for authentication, not access management. Access management is handled by the service.
+
+Currently, if a school user has access, they can perform all the tasks available to their school, including adding mentors and creating claims.
