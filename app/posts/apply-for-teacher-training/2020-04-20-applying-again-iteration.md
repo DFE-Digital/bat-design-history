@@ -55,7 +55,7 @@ Then making a second application will work intuitively and consistently with app
 
 ### Distinguishing between tasks that are ‘not started’ and ‘in progress’
 
-At the moment, tasks have 2 states: incomplete and completed. But this doesn’t accurately reflect the state of a task: some tasks may not have been touched, whereas others could have been partially filled out.
+At the moment, tasks have 2 states: incomplete and completed. But this does not accurately reflect the state of a task: some tasks may not have been touched, whereas others could have been partially filled out.
 
 When applying again, a copy of the previous application is created so that candidates do not have to fill out the questions from scratch. So in this case, candidates are just as likely to make wholesale changes as they are to just mark the task as complete. Having 2 states makes this clearer.
 
@@ -71,7 +71,7 @@ If we add ‘not started’ and ‘in progress’ states, then candidates will b
 
 ### Make ‘check and submit application’ a button
 
-The ‘check and submit application’ task is not really a task. It doesn’t make sense being labelled as ‘not started’ or ‘in progress’ and it can never be marked as completed either. And some users missed it when it was a link without a status tag.
+The ‘check and submit application’ task is not really a task. It does not make sense being labelled as ‘not started’ or ‘in progress’ and it can never be marked as completed either. And some users missed it when it was a link without a status tag.
 
 A button has been tried before but because everything was marked as complete, some users thought there was nothing left to do.
 

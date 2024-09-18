@@ -45,7 +45,7 @@ related:
       href: https://qa.apply-for-teacher-training.education.gov.uk/rails/mailers
 ---
 
-If a referee declines a request or doesn’t respond then we automatically send an email to the candidate to inform them. The candidate currently needs to reply to that email with a new referee’s name, email address and their relationship to them.
+If a referee declines a request or does not respond then we automatically send an email to the candidate to inform them. The candidate currently needs to reply to that email with a new referee’s name, email address and their relationship to them.
 
 There are three reasons a candidate might need to do this:
 

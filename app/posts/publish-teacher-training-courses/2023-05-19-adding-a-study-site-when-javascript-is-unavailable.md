@@ -34,7 +34,7 @@ eleventyComputed:
 
 When a provider adds a study site in Publish teacher training courses (Publish), we use an autocomplete to help users search for study sites.
 
-The autocomplete works well for quickly selecting a study site, but it requires JavaScript. Not everyone has JavaScript, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a study site, but it requires JavaScript. Not everyone has JavaScript, and it does not always run successfully.
 
 We added a no-JavaScript version of the ‘Add study site’ flow, which we can progressively enhance.
 

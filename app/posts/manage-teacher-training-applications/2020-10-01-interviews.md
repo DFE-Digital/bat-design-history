@@ -13,7 +13,7 @@ During this time the applications actually go through the following process:
 1. The application is sifted and reviewed. At this point the candidate is either rejected or invited for interview.
 2. The candidate is interviewed. At this point the candidate is rejected or offered a place.
 
-But because the service doesn’t let providers manage interviews, the status stays as ‘Submitted’ throughout meaning users cannot distinguish between these types of applications.
+But because the service does not let providers manage interviews, the status stays as ‘Submitted’ throughout meaning users cannot distinguish between these types of applications.
 
 If we let users set up and manage interviews, then it’ll be easier to manage the application process inside the service.
 

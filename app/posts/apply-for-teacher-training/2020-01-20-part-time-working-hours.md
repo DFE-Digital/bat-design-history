@@ -12,7 +12,7 @@ screenshots:
 
 We ask candidates to select ‘full time’ or ‘part time’ for their work history entries.
 
-Some providers say that ‘part time’ doesn’t give enough detail. It could mean a candidate has worked 5 hours or 25 hours, for example.
+Some providers say that ‘part time’ does not give enough detail. It could mean a candidate has worked 5 hours or 25 hours, for example.
 
 ## User needs
 

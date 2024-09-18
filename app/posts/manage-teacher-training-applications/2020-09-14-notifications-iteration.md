@@ -79,7 +79,7 @@ In the previous iteration we let users change their notification settings about 
 
 But permissions should not change often so we do not think users should have the ability to customise how they receive notifications about this.
 
-And it doesn’t feel right being part of the notifications area which is only about applications.
+And it does not feel right being part of the notifications area which is only about applications.
 
 ## Changing ‘Online notification’ to ‘Notifications area’
 

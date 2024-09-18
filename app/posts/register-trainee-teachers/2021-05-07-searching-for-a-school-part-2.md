@@ -14,7 +14,7 @@ related:
       href: /register-trainee-teachers/school-direct-routes/
 ---
 
-In [part 1](../searching-for-a-school) we explored using an autocomplete to help users search for schools. The prototype worked well for quickly picking a school - but it requires JavaScript to be running successfully for it to be used. Not everyone has JavaScript and it doesn’t always run successfully. We need a fallback / no-JavaScript version that we can progressively enhance from.
+In [part 1](../searching-for-a-school) we explored using an autocomplete to help users search for schools. The prototype worked well for quickly picking a school - but it requires JavaScript to be running successfully for it to be used. Not everyone has JavaScript and it does not always run successfully. We need a fallback / no-JavaScript version that we can progressively enhance from.
 
 In part 1  we also saw that if the results returned too slowly a user might type a query and immediately click continue before we had a chance to show them results. When this happens we can fall back to a no-JavaScript page, but we hope it will be fast enough to avoid this.
 

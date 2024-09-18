@@ -354,7 +354,7 @@ Each row in the summary list represents a category, which is shown in bold text.
 
 The description contains any selected sub-category and further details.
 
-If the sub-category contains further details it has a colon at the end. If it doesn’t it has a full stop.
+If the sub-category contains further details it has a colon at the end. If it does not it has a full stop.
 
 After the user selects ‘send feedback and reject application’ the feedback is sent to the candidate and the user is taken to the feedback page.
 

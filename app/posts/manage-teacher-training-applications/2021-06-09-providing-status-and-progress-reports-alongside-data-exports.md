@@ -44,7 +44,7 @@ We have now combined them into one section called ‘Reports’, containing link
 
 We combined these into one section because:
 
-- it’s possible to export data for all of them, so it doesn’t make sense to put only some of them in a section with ‘export’ in the name
+- it’s possible to export data for all of them, so it does not make sense to put only some of them in a section with ‘export’ in the name
 - the distinction between ‘data’ and ‘reports’ may not be clear to users
 
 ![Reports landing page – single organisation](reports-landing-page--single-organisation.png)

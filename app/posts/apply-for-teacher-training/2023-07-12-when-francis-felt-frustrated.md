@@ -38,7 +38,7 @@ Yes!
 
 Before her interview, Francis fills out a second form called a ‘subject knowledge audit’.
 
-Francis starts to fret that she doesn’t know enough to teach.
+Francis starts to fret that she does not know enough to teach.
 
 ![Illustration of a woman reading a book. Behind her is a form called 'Chemistry Subject Audit' in the top right corner of the illustration it says 'Form 2'.](francis-subject-knowledge.png)
 
@@ -48,7 +48,7 @@ It takes time and it’s hard to assess if Francis knows enough chemistry.
 
 Fresh Teacher Training decides Francis might need a ‘subject knowledge enhancement’ (SKE) course.
 
-Her degree in Pharmacology doesn’t exactly match to chemistry.
+Her degree in Pharmacology does not exactly match to chemistry.
 
 ## Interview day
 
@@ -156,7 +156,7 @@ It’s been 3 weeks since Francis gave her bank details. She wonders when she’
 
 She’s doing less hours waiting tables because of her workload. Finances are tight.
 
-Fresh Teacher Training doesn’t know anything about the SKE bursary when she asks them.
+Fresh Teacher Training does not know anything about the SKE bursary when she asks them.
 
 After a few weeks, Francis suddenly receives her SKE bursary backdated from when she started, followed by more regular payments. “Phew!”
 

@@ -38,7 +38,7 @@ If we built nothing new, a record imported from Apply might look like the below 
 
 ![What our task list might look like with no changes.](1-task-list-view-with-no-changes.png)
 
-We do not think this is terrible, but it doesn’t give any context to our user: Why do the sections start in progress? What does our user need to do next?
+We do not think this is terrible, but it does not give any context to our user: Why do the sections start in progress? What does our user need to do next?
 
 We want our users to confirm the data submitted by the trainee in their application, check the course details and amend if necessary, then fill in the missing sections. This would not be clear with our existing draft page.
 

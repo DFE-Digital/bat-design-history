@@ -169,10 +169,10 @@ We’ll know this works when providers get the information they need to decide w
     text: "Reviewing English as a foreign language"
   }, {
     text: "Reviewing English as a foreign language (Don’t have)",
-    caption: "If a cadidate doesn’t yet have a qualification, we show any reason they’ve given."
+    caption: "If a cadidate does not yet have a qualification, we show any reason they’ve given."
   }, {
     text: "Reviewing English as a foreign language (Don’t need)",
-    caption: "If a cadidate doesn’t need a qualification because English is not a foreign language, we show that response."
+    caption: "If a cadidate does not need a qualification because English is not a foreign language, we show that response."
   }]
 }) }}
 

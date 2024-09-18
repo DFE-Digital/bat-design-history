@@ -25,7 +25,7 @@ This is problematic because:
 - it puts the onus on providers to type everything out manually on a repeated basis
 - it puts the onus on providers to remember all the reasons they are being rejected
 
-This means a candidate might not know why they were rejected and will not know how to improve their chances if they apply again. It might also discourage them from applying again. It doesn’t empower candidates to appeal decisions if providers make a mistake.
+This means a candidate might not know why they were rejected and will not know how to improve their chances if they apply again. It might also discourage them from applying again. It does not empower candidates to appeal decisions if providers make a mistake.
 
 If providers can answer simple, structured questions
 Then providers will find it far easier to provide consistent, useful feedback

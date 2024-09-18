@@ -113,7 +113,7 @@ It might be possible for a candidate to apply to a course from Find when they ar
 
 - Course choices becomes Course choice
 - 3 choices becomes 1 choice in guidance
-- The ‘add another course’ flow doesn’t happen
+- The ‘add another course’ flow does not happen
 - Add an apply again page and link to it in a banner on the dashboard
 - Show a ‘Your application was copied’ banner when a new application is made
 - Tweak the title of the application page to be "Your new application"

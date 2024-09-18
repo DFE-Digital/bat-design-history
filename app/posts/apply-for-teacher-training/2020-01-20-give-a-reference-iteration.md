@@ -37,7 +37,7 @@ So that I can help the candidate with their application and get back to my day a
 
 {{ appUserNeed({
   description: "As a candidate
-I need to know that my referee doesn’t want to give a reference
+I need to know that my referee does not want to give a reference
 So that I can get another referee as quickly as possible to progress my application"
 }) }}
 

@@ -513,7 +513,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"],
-    notes: ["The guidance around this question doesn’t account for being self-employed."]
+    notes: ["The guidance around this question does not account for being self-employed."]
   }
 }) }}
 

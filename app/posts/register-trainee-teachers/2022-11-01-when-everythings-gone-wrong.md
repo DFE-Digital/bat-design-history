@@ -43,7 +43,7 @@ In the previous week, Register had an incident that brought the service down for
 
 As the day went on, we wanted to let users know we were still investigating. We had already emailed all users about the unexpected incident, but we did not want to email users every time we had an update. We wanted updates to be easily accessible, rather than using emails where we could miss anyone not on our email list, and might risk annoying users with repeated emails.
 
-The default service unavailable page doesn’t give any indication of when the message was first put up or if anything new has happened. [Status pages from companies like Slack](https://status.slack.com/), have regular messages keeping users informed.
+The default service unavailable page does not give any indication of when the message was first put up or if anything new has happened. [Status pages from companies like Slack](https://status.slack.com/), have regular messages keeping users informed.
 
 We decided to add a time-stamped update in a similar style to other commercial services’ status pages:
 

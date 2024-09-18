@@ -51,7 +51,7 @@ We are not yet asking about gender identity.
 
 ## Where should this live?
 
-This design puts the equality monitoring questions after you’ve reviewed your completed application and are on the journey to submit. We wanted to create a separation between what goes to a provider and what doesn’t. To highlight that this information is being treated differently.
+This design puts the equality monitoring questions after you’ve reviewed your completed application and are on the journey to submit. We wanted to create a separation between what goes to a provider and what does not. To highlight that this information is being treated differently.
 
 However having to fill in all of this extra information at this point, when a user is expecting to submit and finish, is an unexpected chore. If the user has awareness of this section ahead of submitting it might be a smoother journey.
 

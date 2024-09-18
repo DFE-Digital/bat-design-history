@@ -92,7 +92,7 @@ Previously [the respond to application section was wrapped in a box](/manage-tea
 
 The main reason for the box was to differentiate the offer from the application. But putting ‘Respond to application’ inside the box is problematic because:
 
-- it doesn’t represent an offer
+- it does not represent an offer
 - other important details like ‘Respond to applicant by’ could be more prominent
 - the [status banner used to prompt candidate to give a new referee](/apply-for-teacher-training/add-a-new-referee#application-dashboard-with-warning) is a better way to lay this out
 

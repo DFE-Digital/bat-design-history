@@ -111,7 +111,7 @@ This design is ready for research, but not ready for development.
 - Do we need to include some examples of things to disclose or not disclose?
 - What would those examples be?
 - Do we need further details about DBS checks and lists?
-- This doesn’t have an explicit declaration, is that enough for providers?
+- This does not have an explicit declaration, is that enough for providers?
 
 ## Findings
 

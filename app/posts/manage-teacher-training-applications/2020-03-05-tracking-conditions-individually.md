@@ -43,7 +43,7 @@ We explored the following design:
 But we ruled it out because:
 
 - the options are inconsistent with the language we use everywhere else (‘Pending’, ‘Met’ and ‘Not met’)
-- the heading doesn’t match the link that the user clicks to get here (‘Update status’)
+- the heading does not match the link that the user clicks to get here (‘Update status’)
 - the heading can be very long and hard to read because of the length of the condition text
 
 ## Further research

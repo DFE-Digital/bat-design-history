@@ -27,9 +27,9 @@ screenshots:
       src: edit-course--study-sites-success.png
     - text: Course details
       src: course-details--study-sites.png
-    - text: Adding a study site when the provider doesn’t have any
+    - text: Adding a study site when the provider does not have any
       src: course-details--add-study-site.png
-    - text: Selecting a study site when the course doesn’t have any
+    - text: Selecting a study site when the course does not have any
       src: course-details--select-study-site.png
     - text: Course details study sites not entered
       src: course-details--study-sites-not-entered.png

@@ -15,7 +15,7 @@ screenshots:
 
 Candidates using Apply need to choose a course to apply to.
 
-If a candidate doesn’t know what course to apply to, give them a route to Find to begin or resume their search.
+If a candidate does not know what course to apply to, give them a route to Find to begin or resume their search.
 
 Otherwise provide autocomplete features for picking the provider and course. The autocomplete should not depend on course and provider codes, but if a candidate enters them they should work too.
 

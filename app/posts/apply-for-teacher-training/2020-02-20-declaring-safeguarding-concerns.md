@@ -67,7 +67,7 @@ Because there will be less potential for misinterpretation
 
 3. If we emphasise that declaring something is about starting a conversation
 Then candidates will be more likely to be open
-Because they’ll be reassured that it doesn’t necessarily mean an automatic rejection
+Because they’ll be reassured that it does not necessarily mean an automatic rejection
 
 ![Screenshot of new design for declaring any safeguarding issues.](new-design-for-declaring-any-safeguarding-issues.png "New design for declaring any safeguarding issues")
 

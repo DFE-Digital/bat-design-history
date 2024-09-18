@@ -33,7 +33,7 @@ For example, if a trainee moves:
 
 - from a provider-led course to a school direct course, then the record will now be missing school details, which are needed to correctly pay funding to the lead school
 - from a course without funding to one with funding available, we should check whether the trainee should be receiving any funding
-- from a course with a bursary to one that doesn’t have funding, then the existing funding source is invalid
+- from a course with a bursary to one that does not have funding, then the existing funding source is invalid
 
 ## New designs
 

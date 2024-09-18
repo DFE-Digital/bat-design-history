@@ -27,7 +27,7 @@ screenshots:
 
 When a provider adds a school in Publish teacher training courses (Publish), we use an autocomplete to help users search for schools.
 
-The autocomplete works well for quickly selecting a school, but it requires JavaScript to be working. Not everyone has JavaScript, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a school, but it requires JavaScript to be working. Not everyone has JavaScript, and it does not always run successfully.
 
 We added a no-JavaScript version of the ‘Add school’ flow, which we can progressively enhance.
 

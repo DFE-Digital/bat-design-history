@@ -339,7 +339,7 @@ The decision was made to go with option 2. It allows the provider to have full c
 - Mitigates the high risk of someone making a decision when they are not allowed to
 - We can allow certain users to have access to certain sensitive data
 - UI reflects possible permissions
-- UI doesn’t need to explain itself
+- UI does not need to explain itself
 - When relationships change between organisations, you can set it once for all users.
 
 ##### Cons

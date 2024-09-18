@@ -12,7 +12,7 @@ Several content and layout improvements to setting up and managing organisationa
 
 We combined the [first](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-set-up-welcome-page) and [second](/manage-teacher-training-applications/setting-up-permissions-iteration-4/#organisation-set-up-information-page) pages of the onboarding flow into one as shown below.
 
-On the one hand we worry about users not reading the content because there’s a lot of it. On the other hand we know that the current content doesn’t give enough information for some users to understand how permissions work.
+On the one hand we worry about users not reading the content because there’s a lot of it. On the other hand we know that the current content does not give enough information for some users to understand how permissions work.
 
 So we decided it’s better to provide more verbose content so that users at least have the opportunity to fully understand how permissions work.
 

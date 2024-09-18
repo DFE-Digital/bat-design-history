@@ -23,7 +23,7 @@ If we give candidates the same type of feedback as normally rejected application
 
 We also moved the record of the feedback from the top of the application details page to a separate ‘feedback’ page.
 
-It doesn’t make sense for it to be on the application details page, which contains information submitted by the candidate. And it’s harder to find and pushes the application details further down the page.
+It does not make sense for it to be on the application details page, which contains information submitted by the candidate. And it’s harder to find and pushes the application details further down the page.
 
 ## User needs
 

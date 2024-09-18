@@ -344,7 +344,7 @@ Candidates who are not from the UK or Ireland are asked whether they’ve done a
 
 If the candidate answers “No, English is not a foreign language to me” then we do not show this section in the application details.
 
-![International candidate doesn’t need an English as a foreign language qualification](qualifications-english-assessment--not-needed.png "International candidate doesn’t need English as a foreign language qualification")
+![International candidate does not need an English as a foreign language qualification](qualifications-english-assessment--not-needed.png "International candidate does not need English as a foreign language qualification")
 
 We do show the section in the application details for candidates who answer:
 
@@ -392,7 +392,7 @@ If the candidate has not done an English as a foreign language assessment, we sh
 - Have you done an English as a foreign language assessment?
 - If you’re planning on doing an assessment, give details - we show “Not provided” if the candidate did not give details
 
-![International candidate doesn’t have an English as a foreign language assessment](qualifications-english-assessment--no.png "International candidate doesn’t have an English as a foreign language assessment")
+![International candidate does not have an English as a foreign language assessment](qualifications-english-assessment--no.png "International candidate does not have an English as a foreign language assessment")
 
 ### A levels and other qualifications
 
@@ -404,7 +404,7 @@ We also changed the table heading “Qualification” to “Qualification type�
 
 ![Candidate has added A levels and other qualifications](qualifications-other--yes.png "Candidate has added A levels and other qualifications")
 
-![Candidate doesn’t want to add A levels and other qualifications](qualifications-other--no.png "Candidate doesn’t want to add A levels and other qualifications")
+![Candidate does not want to add A levels and other qualifications](qualifications-other--no.png "Candidate does not want to add A levels and other qualifications")
 
 ## Other considerations
 
