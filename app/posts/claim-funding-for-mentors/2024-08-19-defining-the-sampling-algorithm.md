@@ -72,7 +72,7 @@ Sampling all the claims above £5,000 increases the likelihood of identifying th
 
 We are sampling a higher percentage of claims submitted by mentors because the mentor is included in the claim. Therefore, there is a low risk the information they are providing is inaccurate to request a higher amount of funding. However, this risk is low for two reasons:
 
-1. we don’t allow schools to submit claims which exceed the policy - 20 hours of training per mentor and accredited provider
+1. we do not allow schools to submit claims which exceed the policy - 20 hours of training per mentor and accredited provider
 2. the funding is paid to the school and not the mentor
 
 ## Methodology of the sampling process

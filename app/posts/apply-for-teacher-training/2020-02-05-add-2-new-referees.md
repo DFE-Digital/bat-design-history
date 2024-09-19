@@ -24,7 +24,7 @@ A follow up to the [design for adding a single new referee](/apply-for-teacher-t
 
 Key differences are:
 
-* after adding the first referee the candidate is taken to a form to add a second referee
-* these forms refer to the first and second referees
-* the review summary shows both of the newly added referees
-* titles and labels refer to ”2” or “each referee” or “referees”
+- after adding the first referee the candidate is taken to a form to add a second referee
+- these forms refer to the first and second referees
+- the review summary shows both of the newly added referees
+- titles and labels refer to ”2” or “each referee” or “referees”

@@ -154,16 +154,16 @@ On 26 November 2019 we launched the initial Apply pilot with one provider, Royal
 
 ## What we descoped for pilot
 
-* Course selection simplified to account for single course and provider
-* International qualifications
-* International addresses
-* Features needed for non UK, EU and EEA citizens
-* Referee forms (we use a Google Form)
-* Individual work breaks ‘automatic breaks’ (replaced with a summary)
-* Structured qualification information
-* Tailoring of personal statements
-* Postcode based address lookups
-* Referee types
-* Amending an application after submission (can do via support)
-* Amending contact details (can do via support)
-* Withdrawing your application (can do via support)
+- Course selection simplified to account for single course and provider
+- International qualifications
+- International addresses
+- Features needed for non UK, EU and EEA citizens
+- Referee forms (we use a Google Form)
+- Individual work breaks ‘automatic breaks’ (replaced with a summary)
+- Structured qualification information
+- Tailoring of personal statements
+- Postcode based address lookups
+- Referee types
+- Amending an application after submission (can do via support)
+- Amending contact details (can do via support)
+- Withdrawing your application (can do via support)

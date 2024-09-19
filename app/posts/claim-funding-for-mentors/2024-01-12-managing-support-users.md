@@ -150,7 +150,7 @@ We need to consider how we communicate this in our email notifications.
 
 ### Editing a user
 
-We don’t allow editing a user. This is because:
+We do not allow editing a user. This is because:
 
 - the user details are linked to DfE Sign-in
 - it is easy to remove the user and add a new one if the original details are incorrect

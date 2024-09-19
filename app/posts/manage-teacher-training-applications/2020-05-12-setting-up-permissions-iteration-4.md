@@ -40,9 +40,9 @@ screenshots:
 
 Previous iterations:
 
-* [first iteration](/manage-teacher-training-applications/setting-up-permissions)
-* [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
-* [third iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-3)
+- [first iteration](/manage-teacher-training-applications/setting-up-permissions)
+- [second iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-2)
+- [third iteration](/manage-teacher-training-applications/setting-up-permissions-iteration-3)
 
 ## Hypotheses
 
@@ -53,7 +53,7 @@ When the user signs in for the first time, they have to agree to the data sharin
 But really we need to make it clear that they have successfully agreed to the data sharing agreement and prompt them to set up their permissions explicitly.
 
 If we show the user a confirmation page
-Then they'll know what's happened and what they have to do next
+Then they’ll know what’s happened and what they have to do next
 
 ![Screenshot of confirmation page.](data-sharing-confirmation-page.png)
 
@@ -64,7 +64,7 @@ In the previous iteration we asked the user to set up permissions for courses th
 But this is unnecessary because they’ll need to be able to do everything as there’s no one else to do it.
 
 If both permissions are automatically set for courses that are run and ratified by the same organisation
-Then users don’t need to manually do this task themselves
+Then users do not need to manually do this task themselves
 
 ### Check answers layout when setting up organisational permissions
 
@@ -93,13 +93,13 @@ In the previous iteration the hint text for the ‘Make decision’ and ‘Acces
 But this is wrong when the user works for an accredited body. It should read something more like ‘Applies to courses run by [training providers]’.
 
 If we change the hint text to work for an accredited body
-Then users won’t be confused by incorrect descriptions
+Then users will not be confused by incorrect descriptions
 
 ![Screenshot of ‘Select permissions’ page.](invite-user-permissions-page-1.png)
 
 ### Warn the user of the consequences of inviting someone from outside of their organisation
 
-Inviting a user outside of your organisation means they’ll be able to view all applications to courses they look after. They'll also be able to make decisions about applications and view sensitive information, if given permission.
+Inviting a user outside of your organisation means they’ll be able to view all applications to courses they look after. They’ll also be able to make decisions about applications and view sensitive information, if given permission.
 
 This might be fine, but without guidance, the user might accidentally invite someone from say one accredited body to be able to see courses that are ratified by another.
 
@@ -134,11 +134,11 @@ The design should be slightly different when the user belongs to one organisatio
 
 When inviting a user:
 
-* remove the ‘select organisations...’ page from the flow
-* change the content on the ‘Select permissions...’ page to read just ‘Select permissions’
-* remove the ‘Organisations this user has access to...’ line on the check answers page
+- remove the ‘select organisations...’ page from the flow
+- change the content on the ‘Select permissions...’ page to read just ‘Select permissions’
+- remove the ‘Organisations this user has access to...’ line on the check answers page
 
 When editing a user:
 
-* remove the ‘Organisations this user has access to...’ line on the details page
-* change the ‘change permissions’ page to read just ‘Change permissions’
+- remove the ‘Organisations this user has access to...’ line on the details page
+- change the ‘change permissions’ page to read just ‘Change permissions’

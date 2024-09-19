@@ -4,18 +4,18 @@ description: Help users understand how notes work when they first go to add a no
 date: 2020-06-18
 ---
 
-Research shows that users aren’t sure how notes work.
+Research shows that users are not sure how notes work.
 
 They’re particularly uncertain about whether candidates will be able to see their notes.
 
-However, users don’t need to see this guidance every time they add a note.
+However, users do not need to see this guidance every time they add a note.
 
 If we show users an interstitial the first time they add a note
 Then they’ll be able to learn how notes work quickly without having to see the guidance every time
 
 ## How it works
 
-If the user hasn’t added a note before there will be an extra piece of guidance above the ‘Add note’ button that says ‘We’ll guide you through creating your first note’.
+If the user has not added a note before there will be an extra piece of guidance above the ‘Add note’ button that says ‘We’ll guide you through creating your first note’.
 
 If there are no notes at all, there will be an extra line above the ‘Add note’ button that says ‘There are no notes yet’.
 

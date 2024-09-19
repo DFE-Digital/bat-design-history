@@ -11,7 +11,7 @@ In 2023, we produced two [performance reports](/manage-teacher-training-applicat
 
 For 2024, we made this report dynamic and refreshed it weekly on Monday. This means providers can continually monitor their performance and better understand applications, withdrawals, rejections, and deferrals throughout the year. We hope that having access to this data will encourage providers to use it in their decision-making about the recruitment journey, improving the candidate experience and supporting their wider recruitment strategies.
 
-This year's data is focused on candidates rather than applications. This change came from feedback on the 2023 report stating that a single candidate could make 4 applications and only one could be accepted, but the data would show three rejections. This gives an unfairly negative view of the situation.
+This year’s data is focused on candidates rather than applications. This change came from feedback on the 2023 report stating that a single candidate could make 4 applications and only one could be accepted, but the data would show three rejections. This gives an unfairly negative view of the situation.
 
 For this report, the data measures candidates, not applications.
 
@@ -102,9 +102,9 @@ Answer options:
 
 - The report’s order, layout and content were mostly reported to be logical, useful and easy to understand.
 
-- Providers would find it useful if they could share the report with other stakeholders who don't have access to Manage.
+- Providers would find it useful if they could share the report with other stakeholders who do not have access to Manage.
 
-- The report’s data may present a misleading picture of the providers' recruitment performance due to the absence of context. For example, there may be good reasons for them not to have made an offer within 30 days, but this isn’t reflected in the report.
+- The report’s data may present a misleading picture of the providers' recruitment performance due to the absence of context. For example, there may be good reasons for them not to have made an offer within 30 days, but this is not reflected in the report.
 
 - Providers would use the report to:
   - understand application patterns and gaps, particularly around the subject area.

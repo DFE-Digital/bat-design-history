@@ -82,7 +82,7 @@ We want to find out:
 
 - if users would shortlist applications in Manage
 - if users can use the shortlisted status to make it easier to find new applications
-- if users consider shortlisting a type of decision - the application list says, for example, “3 days to make a decision” but we don’t consider shortlisting to be a decision
+- if users consider shortlisting a type of decision - the application list says, for example, “3 days to make a decision” but we do not consider shortlisting to be a decision
 
 ## Further considerations
 

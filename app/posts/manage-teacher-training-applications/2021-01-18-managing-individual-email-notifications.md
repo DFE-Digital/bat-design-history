@@ -16,7 +16,7 @@ related:
 
 Currently users can [turn off all email notifications](/manage-teacher-training-applications/turn-email-notifications-on-off/). But we know users want to specify which emails they receive.
 
-Without this ability, users have to filter out the emails they don’t want to read. Or worse, it results in the email notifications being ignored.
+Without this ability, users have to filter out the emails they do not want to read. Or worse, it results in the email notifications being ignored.
 
 If we let users manage individual email notifications, then their inbox will only contain useful emails.
 
@@ -24,7 +24,7 @@ If we let users manage individual email notifications, then their inbox will onl
 
 We combined ‘offer declined’ and ‘offer declined automatically’ into one option as we think people who are interested in these emails are interested regardless of what led to an offer being declined.
 
-Only ‘application withdrawn’ has ‘by candidate’ in the label. This is because an application can be withdrawn by providers as well. And when a provider withdraws an application, they don’t need to be notified.
+Only ‘application withdrawn’ has ‘by candidate’ in the label. This is because an application can be withdrawn by providers as well. And when a provider withdraws an application, they do not need to be notified.
 
 We used radio buttons instead of checkboxes because the labels explicitly state what the user is doing. Extra effort is needed to understand what ticking a checkbox means.
 

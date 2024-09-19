@@ -23,7 +23,7 @@ related:
 
 We need a way to ask referees for their feedback so we know if the guidance is useful and the process is working.
 
-We've had a low response rate from the few referees who said we could contact them.
+We’ve had a low response rate from the few referees who said we could contact them.
 
 ## Hypothesis
 

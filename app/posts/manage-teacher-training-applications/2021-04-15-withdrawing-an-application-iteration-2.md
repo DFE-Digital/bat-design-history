@@ -48,11 +48,11 @@ We’re not asking for a reason for withdrawing the application because:
 
 - the candidate may not give a reason
 - if the candidate does give a reason, there’s no need to replay it to them
-- we don’t know what users or the DfE would do with the reason
+- we do not know what users or the DfE would do with the reason
 
 We do have a concern that some providers may withdraw an application instead of rejecting it. If this happens, we may explore capturing a reason as a potential solution.
 
-We'll look out for unexpectedly high levels of use of this new feature.
+We’ll look out for unexpectedly high levels of use of this new feature.
 
 ## Emails
 

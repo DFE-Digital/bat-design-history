@@ -27,7 +27,7 @@ We previously added an [‘International students’ section](/find-teacher-trai
 
 We have renamed this section ‘International candidates’ because:
 
-- it's more consistent with ‘candidate’, which we use throughout Apply for teacher training
+- it’s more consistent with ‘candidate’, which we use throughout Apply for teacher training
 - candidates may apply for a salaried course where the term ‘student’ is less applicable
 
 We have also updated the content to:

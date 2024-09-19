@@ -101,7 +101,7 @@ If the user does not select if the course is part of the Engineers teach physics
 
 ### Age range
 
-We show age ranges depending on the user's chosen subject level.
+We show age ranges depending on the user’s chosen subject level.
 
 If the user selects the primary subject level, we show the primary age ranges; if they choose secondary, we show the secondary subject levels. We do not show the age range page for the further education subject level.
 
@@ -153,7 +153,7 @@ Age ranges must be a minimum of 4 years. If the user adds another age range that
 
 ### Qualification
 
-We show qualifications depending on the user's chosen subject level.
+We show qualifications depending on the user’s chosen subject level.
 
 #### Primary and secondary
 

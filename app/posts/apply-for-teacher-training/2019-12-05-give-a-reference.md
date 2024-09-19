@@ -19,11 +19,13 @@ screenshots:
     - text: Finish (with user research opt-in)
       caption: If they opt in, we include a message to say researchers will be in touch (this may need revising based on how we choose to engage with referees)
     - text: Finish
-      caption: If they decide not to opt-in, we don’t include that message.
+      caption: If they decide not to opt-in, we do not include that message.
 ---
 
-{% from "dist/govuk/components/warning-text/macro.njk" import govukWarningText %}
-{{ govukWarningText({ html: 'We built a <a href="/apply-for-teacher-training/give-a-reference-iteration">simpler version of this design</a>.', iconFallbackText: "Warning" }) }}
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+html: "We built a [simpler version of this design](/apply-for-teacher-training/give-a-reference-iteration)." | markdown("inline")
+}) }}
 
 One of the first aspects of [the MVP service](/apply-for-teacher-training/apply-launch) we wanted to improve was how we accept references.
 

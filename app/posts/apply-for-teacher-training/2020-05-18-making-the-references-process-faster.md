@@ -18,7 +18,7 @@ We made edits to the existing content throughout the references user journeys to
 {{ appUserNeed({
   description: "As a candidate
 I need to get 2 references quickly
-So that I don’t miss out on the course that I want"
+So that I do not miss out on the course that I want"
 }) }}
 
 ## Making the process faster
@@ -79,9 +79,9 @@ If we use the messaging above at the relevant points in the user journeys
 Then candidates will get their references more quickly
 Because users will:
 
-* [take responsibility](/apply-for-teacher-training/making-the-references-process-faster/#assigning-responsibility)
-* [have options](/apply-for-teacher-training/making-the-references-process-faster/#giving-options)
-* [know it's urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
+- [take responsibility](/apply-for-teacher-training/making-the-references-process-faster/#assigning-responsibility)
+- [have options](/apply-for-teacher-training/making-the-references-process-faster/#giving-options)
+- [know it’s urgent](/apply-for-teacher-training/making-the-references-process-faster/#adding-urgency)
 
 ### Examples of how the messaging works on the [interstitial page](/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
 
@@ -95,7 +95,7 @@ Because users will:
 
 > ((referee_name)) has not responded.
 
-> Add a new referee as soon as possible. Courses can become full at any time and providers do not consider applications without 2 references.
+> Add a new referee as soon as possible. Courses can become full at any time and providers don’t consider applications without 2 references.
 
 > Adding a new referee will not prevent ((referee_name)) from giving a reference. You can keep chasing ((referee_name)) if you know they’re planning on giving a reference.
 
@@ -114,7 +114,7 @@ Because users will:
 
 > You cancelled your request for a reference from ((referee_name)).
 
-> Add a new referee as soon as possible. Courses can become full at any time and providers do not consider applications without 2 references.
+> Add a new referee as soon as possible. Courses can become full at any time and providers don’t consider applications without 2 references.
 
 > [Add new referee]
 
@@ -207,4 +207,4 @@ Reference-related content is also found in other areas throughout the service, i
 
 ## How will we know this works?
 
-We'll look as user behaviour to see if references are collected more quickly.
+We will look as user behaviour to see if references are collected more quickly.

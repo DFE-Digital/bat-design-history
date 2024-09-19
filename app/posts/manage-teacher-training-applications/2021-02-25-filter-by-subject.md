@@ -11,7 +11,7 @@ screenshots:
       caption: The applications list showing the list filtered by subject
       src: applications-list-filter-by-subject.png
     - text: Filter by subject inline filter
-      caption: The applications list showing the subject filter's inline filter being used to find a subject from the list of subjects
+      caption: The applications list showing the subject filter’s inline filter being used to find a subject from the list of subjects
       src: applications-list-filter-by-subject-filter.png
     - text: Filter by subject with JavaScript disabled
       caption: The applications list showing the subject filter with JavaScript disabled. The inline search is not present as this relies on JavaScript

@@ -109,7 +109,7 @@ Dear ((first_name))
 
 On 4 October, courses for the 2023 to 2024 academic year will be published on Find postgraduate teacher training.
 
-Before 4 October, check and publish your 'rolled over' courses, if you haven't already.
+Before 4 October, check and publish your 'rolled over' courses, if you haven’t already.
 
 <https://www.publish-teacher-training-courses.service.gov.uk/sign-in>
 

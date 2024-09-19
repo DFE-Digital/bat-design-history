@@ -24,7 +24,7 @@ For instance:
 
 These small differences may be confusing for candidates. The way providers had written requirements could also be difficult to understand.
 
-For the 2022 to 2023 cycle, we've changed the Publish teacher training courses (Publish) service to only ask providers to specify the entry requirements that may differ across courses.
+For the 2022 to 2023 cycle, we’ve changed the Publish teacher training courses (Publish) service to only ask providers to specify the entry requirements that may differ across courses.
 
 These are:
 

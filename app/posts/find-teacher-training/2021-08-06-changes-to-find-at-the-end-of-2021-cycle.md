@@ -52,7 +52,7 @@ After the deadline to apply for the first time, a new banner replaces the [previ
 
 ![Inform candidates that the first deadline has passed and the deadline to apply again is approaching.](first-deadline-has-passed.png)
 
-It aims to discourage candidates applying for the first time from searching for courses because there's no guarantee that the courses shown (those starting in the 2021 to 2022 academic year) will be available the following year.
+It aims to discourage candidates applying for the first time from searching for courses because there’s no guarantee that the courses shown (those starting in the 2021 to 2022 academic year) will be available the following year.
 
 [Learn what happens on Apply if a candidate starts an application but does not submit by their deadline](/apply-for-teacher-training/end-of-cycle-2021/#if-a-candidate-does-not-submit-by-their-deadline).
 
@@ -64,7 +64,7 @@ Even after the [deadline to apply for the first time](/find-teacher-training/cha
 
 The button will not be disabled because candidates applying again are still eligible to choose and apply to the courses shown on Find until 21 September 2021 at 6pm.
 
-To prevent candidates applying for the first time from adding courses starting in the 2021 to 2022 academic year (which they're no longer eligible to apply to) we will not take them through the usual "You selected a course" journey:
+To prevent candidates applying for the first time from adding courses starting in the 2021 to 2022 academic year (which they’re no longer eligible to apply to) we will not take them through the usual "You selected a course" journey:
 
 ![Candidates applying for the first time after the deadline cannot select a course.](select-course-journey.png)
 
@@ -80,7 +80,7 @@ A banner lets candidates know that courses are closed but that they can start or
 
 ![The deadline to apply again has passed.](courses-closed-banner.png)
 
-We also remove the [‘Apply for this course’ button](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#if-a-candidate-applying-for-the-first-time-tries-to-select-a-course-after-the-deadline) after the deadline to apply again because it implies that you're applying for a particular course, when in fact there's no guarantee that the 2021 to 2022 course listings will be available the following cycle.
+We also remove the [‘Apply for this course’ button](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#if-a-candidate-applying-for-the-first-time-tries-to-select-a-course-after-the-deadline) after the deadline to apply again because it implies that you’re applying for a particular course, when in fact there’s no guarantee that the 2021 to 2022 course listings will be available the following cycle.
 
 The following message replaces the button, enabling candidates to start or continue an application despite courses being closed:
 

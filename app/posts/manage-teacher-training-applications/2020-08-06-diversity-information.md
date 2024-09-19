@@ -14,9 +14,9 @@ In March we started collecting equality and diversity information from candidate
 
 We’ll only make this information available to providers once an application is complete.
 
-We're also introducing a new permission to provider accounts so that only those with ’view diversity information’ permission will be able to view the results.
+We’re also introducing a new permission to provider accounts so that only those with ’view diversity information’ permission will be able to view the results.
 
-This means that for most people looking at most applications, they won’t be able to see the diversity information.
+This means that for most people looking at most applications, they will not be able to see the diversity information.
 
 ## Different display scenarios
 
@@ -24,21 +24,21 @@ There’s three new pieces of data to display, but a few different scenarios to 
 
 They are:
 
-* The candidate has completed the diversity questionnaire or not
-* The application is complete or not
-* The viewing user has permission to see diversity information or not
+- The candidate has completed the diversity questionnaire or not
+- The application is complete or not
+- The viewing user has permission to see diversity information or not
 
-We want providers to be clear what information is available, but also why they can’t necessarily see it.
+We want providers to be clear what information is available, but also why they cannot necessarily see it.
 
 ## First iteration
 
-We explored adding additional rows to the applicant details summary list, but with a placeholder line if they couldn’t be shown.
+We explored adding additional rows to the applicant details summary list, but with a placeholder line if they could not be shown.
 
 ![3 lines in a summary list, with grey text that reads ‘Only available when the candidate accepts your offer’](multiple-lines-short-grey.png)
 
 Once you add multiple rows it gets somewhat repetitive. We tried making them grey to knock them back a bit - and because they’re more of a message from the system than a candidate’s answer.
 
-For users without the correct permissions the text isn’t quite right - so they need more explanation.
+For users without the correct permissions the text is not quite right - so they need more explanation.
 
 ![3 lines in a summary list, with grey text that reads ‘Only available to users with ‘view diversity information’ permission once an offer has been accepted’](multiple-lines-long-grey.png)
 

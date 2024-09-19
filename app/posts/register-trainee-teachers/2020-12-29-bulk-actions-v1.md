@@ -16,8 +16,8 @@ We can help support these two processes by letting providers perform actions in 
 
 Initial assumptions:
 
-* All details will need to be the same for the selected group, for example the entire group will be recommended for QTS on the same date
-* Our existing options for filters will be sufficient for providers to get to the right set of trainees
+- All details will need to be the same for the selected group, for example the entire group will be recommended for QTS on the same date
+- Our existing options for filters will be sufficient for providers to get to the right set of trainees
 
 We’ve set up actions to happen in a few stages:
 

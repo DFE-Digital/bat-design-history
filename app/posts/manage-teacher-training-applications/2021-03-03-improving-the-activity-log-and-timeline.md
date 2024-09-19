@@ -22,7 +22,7 @@ We decided also to look at how notes are displayed in the activity log and timel
 
 We added the details of interviews and notes so that users can understand what’s happened without leaving the activity log or timeline.
 
-We also moved away from the blue ‘train track’ styling which didn’t work very well, especially on the activity log where it implied a connection between events in different applications.
+We also moved away from the blue ‘train track’ styling which did not work very well, especially on the activity log where it implied a connection between events in different applications.
 
 The new styling will also work better than the ‘train track’ when we introduce the filter panel on the left hand side of the page.
 

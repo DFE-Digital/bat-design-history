@@ -118,7 +118,7 @@ The support team user can check their answers at the end of the flow before savi
 
 If the support user changes the user’s email address, we email the new one with sign-in details.
 
-Once the user has signed in to the service for the first time, the support user cannot change the user's first name, last name and email address.
+Once the user has signed in to the service for the first time, the support user cannot change the user’s first name, last name and email address.
 
 ### Removing a user
 

@@ -48,7 +48,7 @@ Candidates may have the right to work or study in the UK for a number of reasons
 - student visa
 - refugee status
 
-We can’t be sure whether a candidate qualifies for home funding because we do not ask them enough questions when they apply. This is why we can only offer a provisional assessment.
+We cannot be sure whether a candidate qualifies for home funding because we do not ask them enough questions when they apply. This is why we can only offer a provisional assessment.
 
 ## Candidate data analysis
 

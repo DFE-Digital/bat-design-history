@@ -8,14 +8,14 @@ Getting deferral ready for release and addressing issues found in research with 
 
 ## A clearer prompt
 
-In the previous iteration some participants didn’t notice the prompt to reconfirm an offer at the top of the application details pages.
+In the previous iteration some participants did not notice the prompt to reconfirm an offer at the top of the application details pages.
 
-S we’ve made the prompt clearer by:
+We’ve made the prompt clearer by:
 
-* using the inset text component
-* adding a heading
-* explaining the situation of the deferred offer – for example, that the course is available in the new cycle
-* using more explicit button text
+- using the inset text component
+- adding a heading
+- explaining the situation of the deferred offer – for example, that the course is available in the new cycle
+- using more explicit button text
 
 ![Prompt when the course is available.](prompt--course-available.png "Prompt when the course is available")
 
@@ -35,9 +35,9 @@ So we now send users to a welcome screen to set the scene (like we do when the c
 
 We also:
 
-* improved the content
-* moved the deferred offer details up
-* collapsed the deferred offer within a Details component
+- improved the content
+- moved the deferred offer details up
+- collapsed the deferred offer within a Details component
 
 ![Welcome screen when the location is unavailable.](welcome--location-unavailable.png "Welcome screen when the location is unavailable")
 
@@ -69,11 +69,11 @@ So now we send users directly to a check the status of the conditions as part of
 
 We improved the review screen as follows:
 
-* the link to change conditions now says ‘Add or change conditions’ which is more explicit
-* the ‘Change’ links now say ‘Update status’ which is more explicit
-* the content explaining what will happen is clearer and more concise
-* we have a design for when the conditions are tracked together by including an ‘Update status of conditions’ link above the conditions
-* the status tags are aligned right
+- the link to change conditions now says ‘Add or change conditions’ which is more explicit
+- the ‘Change’ links now say ‘Update status’ which is more explicit
+- the content explaining what will happen is clearer and more concise
+- we have a design for when the conditions are tracked together by including an ‘Update status of conditions’ link above the conditions
+- the status tags are aligned right
 
 The last screen in the flow lets users review their new offer.
 

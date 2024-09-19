@@ -33,6 +33,6 @@ Deferral can only happen if the candidate requests it.
 
 Providers can defer an application at any point in the current cycle.
 
-If a candidate has met all of their conditions when the offer is deferred, then the provider should not edit the conditions or the statuses of those conditions. There are exceptions which is why the UI doesn’t enforce this.
+If a candidate has met all of their conditions when the offer is deferred, then the provider should not edit the conditions or the statuses of those conditions. There are exceptions which is why the UI does not enforce this.
 
 It’s up to providers to accept the request for deferral.

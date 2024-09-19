@@ -70,9 +70,9 @@ Although the subject filter can be used to limit a placement search to primary o
 
 For primary school placements, ITT providers need to know which year group the placement is in to determine whether it’s suitable for their trainee. So not capturing this would lead to irrelevant enquiries.
 
-For all placements, the placement window is also considered to be critical information to avoid contacting a school unnecessarily. Participants said that showing the term or having a date range could work although there wasn’t a clear consensus on the best approach to take.
+For all placements, the placement window is also considered to be critical information to avoid contacting a school unnecessarily. Participants said that showing the term or having a date range could work although there was not a clear consensus on the best approach to take.
 
-> “The search and being able to filter things, it all looks pretty user friendly... I think they're clear, the filters make sense, but they're not necessarily ones that we'd need to use or that would be the most important ones... I'd like to filter by key stage or subject first. Once I've done that, when I look at the list that comes up, what I really need is to see that they are offering a placement from this date to this date and the number of students they can take.”
+> “The search and being able to filter things, it all looks pretty user friendly... I think they’re clear, the filters make sense, but they’re not necessarily ones that we'd need to use or that would be the most important ones... I'd like to filter by key stage or subject first. Once I’ve done that, when I look at the list that comes up, what I really need is to see that they are offering a placement from this date to this date and the number of students they can take.”
 
 ### Insight 4
 
@@ -80,16 +80,16 @@ The purpose and user benefit of the partner schools feature was not clear to som
 
 #### Supporting detail and evidence
 
-The participants understood what was meant by ‘Partner schools’ but it wasn't language they would necessarily use and it was not intuitive how and why these partnerships are added into the service:
+The participants understood what was meant by ‘Partner schools’ but it was not language they would necessarily use and it was not intuitive how and why these partnerships are added into the service:
 
 - one participant assumed that DfE would use data from other services to create the partnerships
 - participants from larger ITT providers were concerned about the need to add these relationships into the service one at a time as they have hundreds of partner schools
 
-> “I would understand [partner schools] as schools that we have worked with for placements in previous years or the current year. Rather than specifically ones that are part of our trust, which is a much smaller number... And how much history would you be able to pull back on that because it was only since 22-23 that we've given placement information on the DfE [service]?”
+> “I would understand [partner schools] as schools that we have worked with for placements in previous years or the current year. Rather than specifically ones that are part of our trust, which is a much smaller number... And how much history would you be able to pull back on that because it was only since 22-23 that we’ve given placement information on the DfE [service]?”
 
-> “Within our system [Abyasa], we add schools from the UK list and we've got over 1,000 and they're all in there as a 'partner school'. It doesn't mean we work with them. It means we have contacted them and we've got their details. We don't award any schools partnership or partner status really… If they do offer that year then we’re partners with them for that year and we do sign a partnership agreement. But in the practicalities of sorting placements we don’t really consider that.”
+> “Within our system [Abyasa], we add schools from the UK list and we’ve got over 1,000 and they’re all in there as a 'partner school'. It doesn’t mean we work with them. It means we have contacted them and we’ve got their details. We do not award any schools partnership or partner status really… If they do offer that year then we’re partners with them for that year and we do sign a partnership agreement. But in the practicalities of sorting placements we do not really consider that.”
 
-> “Is [adding partner schools] something you have to do on an individual school by school basis or is there a way of doing it in bulk? Because obviously we'd be adding hundreds of schools if we were to do it that way. It would be quite a big job for us... and I'm not sure what added benefit we're getting because we know who our schools are and we know who's signed what they've signed and how they've signed it.”
+> “Is [adding partner schools] something you have to do on an individual school by school basis or is there a way of doing it in bulk? Because obviously we'd be adding hundreds of schools if we were to do it that way. It would be quite a big job for us... and I'm not sure what added benefit we’re getting because we know who our schools are and we know who’s signed what they’ve signed and how they’ve signed it.”
 
 ### Insight 5
 

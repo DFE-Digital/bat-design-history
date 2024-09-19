@@ -37,7 +37,7 @@ On the ‘personal statement’ page of the application form, we got rid of the 
 
 We moved the word count to the top, and added a recommended range of 500 to 1000 words.
 
-We added a line to remind candidates that they don’t need to include every bullet point in the guidance.
+We added a line to remind candidates that they do not need to include every bullet point in the guidance.
 
 We added multiple bullet points to help candidates understand what to write in their personal statement. This covers:
 
@@ -53,7 +53,7 @@ We kept in the link to the teacher training advisers sign-up page, as candidates
 
 ### Releasing this change mid-cycle
 
-Because we released this change in the middle of a recruitment cycle, we didn't want it to disrupt any candidates who were midway through writing a personal statement using the previous 2 sections.
+Because we released this change in the middle of a recruitment cycle, we did not want it to disrupt any candidates who were midway through writing a personal statement using the previous 2 sections.
 To avoid this, we only released the feature for new applications started on or after 3 April 2023.
 If a candidate is unsuccessful with an application that used 2 personal statement sections and decided to apply again, they will see the new merged personal statement section. When this happens, we:
 
@@ -84,7 +84,7 @@ We iterated the our initial design to:
 - remove ‘rewards and challenges’ – candidates felt this was too difficult to answer before beginning to train to teach
 - merge ‘interests and passions’ and ‘qualifications and courses’ into a single bullet point with some examples –candidates struggled to determine what was relevant to teaching in these instances.
 - move ‘why you want to teach’ into the main bullet points
-- include clarity around not having to address every bullet point – all users felt they would have to write something for every bullet point, which would make it harder for those who don’t have certain experiences or courses in knowing what to write.
+- include clarity around not having to address every bullet point – all users felt they would have to write something for every bullet point, which would make it harder for those who do not have certain experiences or courses in knowing what to write.
 - include a word count range of 500 to 1000
 
 Candidates were comfortable with a single-style personal statement, as this meets their expectations for standard applications. Candidates see the personal statement as their chance to show their unique suitability to be a teacher, and so want to write about and prioritise different things.

@@ -51,7 +51,7 @@ We also included a link to the UK ENIC website from this page so that candidates
 
 We discussed whether taking them out of the application process was too disruptive but in testing candidates said that they would be comfortable clicking the link to UK ENIC and returning to their application later. To mitigate for this we made the link open in a new tab so that their application form is maintained, and added a radio button for people who will apply later for their statement of comparability.
 
-We included the statistic that including a UK ENIC number makes you 28% more likely to receive an offer. In research some participants didn’t find this number convincing enough. We changed it slightly to ‘almost 30% more likely’ which people agreed was more appealing.
+We included the statistic that including a UK ENIC number makes you 28% more likely to receive an offer. In research some participants did not find this number convincing enough. We changed it slightly to ‘almost 30% more likely’ which people agreed was more appealing.
 
 #### Before
 
@@ -71,7 +71,7 @@ If an applicant has selected ‘I’m waiting for (my statement of comparability
 
 If they select that they do not need a UK ENIC reference number they will see a variation of the screen which reminds them of the benefits of including one and the potential drawbacks of not.
 
-![Interruption screen which highlights the benefits of adding an ENIC for candidates who have said they don't need one earlier in the process. Highlighting that they are around 30% more likely to receive an offer with one.](/apply-for-teacher-training/communicating-enic-to-international-candidates/ENIC-interruption-dont-want.jpg)
+![Interruption screen which highlights the benefits of adding an ENIC for candidates who have said they do not need one earlier in the process. Highlighting that they are around 30% more likely to receive an offer with one.](/apply-for-teacher-training/communicating-enic-to-international-candidates/ENIC-interruption-dont-want.jpg)
 
 ### Rejection advice
 

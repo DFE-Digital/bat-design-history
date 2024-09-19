@@ -22,7 +22,7 @@ In this part of the experiment, we again addressed problem statement 1, [problem
 
 > DfE needs a data reporting service to help share data between School Centred Initial Teacher Training (SCITTs), Higher Education Institutions (HEIs), and the DfE.
 >
-> We aren’t sharing data, so we don’t have the complete picture of school placement activity and can’t intervene when help is needed.
+> We aren’t sharing data, so we do not have the complete picture of school placement activity and can’t intervene when help is needed.
 >
 > **How might we** create a data reporting service so stakeholders can report complete placement data using standardised and easily accessible platforms?
 
@@ -53,8 +53,8 @@ From the first iteration we:
 
 We made these changes because:
 
-- entering the subject 'class size' isn’t helpful as this would vary between classes and schools
-- selecting ‘training pattern’ isn’t something schools do; it is derived from the ITT provider
+- entering the subject 'class size' is not helpful as this would vary between classes and schools
+- selecting ‘training pattern’ is not something schools do; it is derived from the ITT provider
 - ITT providers need mentors to create placements
 - ITT providers store information on known mentors within their network
 - ITT providers need to recruit new mentors each year to fulfil their training needs
@@ -241,7 +241,7 @@ If the user has not answered the question, we show an error message:
 
 ### Mentor availability
 
-In this iteration, we changed the ‘Training pattern’ question to ‘Mentor availability’. We made this change because ITT providers can change training patterns, whereas the availability of a mentor on a given day depends on their working practices. This question allows schools and mentors to state which days they can’t support a trainee.
+In this iteration, we changed the ‘Training pattern’ question to ‘Mentor availability’. We made this change because ITT providers can change training patterns, whereas the availability of a mentor on a given day depends on their working practices. This question allows schools and mentors to state which days they cannot support a trainee.
 
 ![Image showing the mentor availability question](experiment-2-add-placement--mentor-availability.png 'Mentor availability question')
 

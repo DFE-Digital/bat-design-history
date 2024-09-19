@@ -26,7 +26,7 @@ So that I can stop an unsuitable candidate from progressing by mistake"
 
 ## Research findings
 
-1 participant said to change from ‘Withdrawn by us’ to ‘Offer withdrawn’ because a candidate cannot withdraw an offer, only their application. We'll change the states for the next round of research to:
+1 participant said to change from ‘Withdrawn by us’ to ‘Offer withdrawn’ because a candidate cannot withdraw an offer, only their application. We’ll change the states for the next round of research to:
 
-* Offer withdrawn
-* Application withdrawn
+- Offer withdrawn
+- Application withdrawn

@@ -38,7 +38,7 @@ So, we added content and colour to highlight applications that were undergraduat
 
 ### Filters
 
-The filters in Manage didn’t allow for providers to view only postgraduate or undergraduate courses.
+The filters in Manage did not allow for providers to view only postgraduate or undergraduate courses.
 
 So, we added a filter to allow them to narrow down the list of applications.
 

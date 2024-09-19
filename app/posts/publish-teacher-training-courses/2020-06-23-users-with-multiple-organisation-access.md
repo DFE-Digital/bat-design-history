@@ -69,7 +69,7 @@ SCITTs who manage multiple organisations to ensure they remain visible in search
 
 Users who are responsible for managing their training providers courses.
 
-> Some of the schools are quite self sufficient... it's just dependent on what the school is like. Some are very hands on and some are very hands off and just prefer us to do it. And we probably have like two schools who manage it all themselves. Now maybe come back to me with any questions if they're not sure about something.
+> Some of the schools are quite self sufficient... it’s just dependent on what the school is like. Some are very hands on and some are very hands off and just prefer us to do it. And we probably have like two schools who manage it all themselves. Now maybe come back to me with any questions if they’re not sure about something.
 
 ### Course management
 
@@ -138,7 +138,7 @@ Some participants mentioned the need to implement levels of access and permissio
 
 > You need one person and or possibly two people to edit users... because that would prevent any malicious editing from people.
 
-> I was in this organisation, for example, and I then wanted to request access for somebody. Yeah. Which now is on this user's page. Yeah. You see all of this, if I requested access for someone else, what it was doing, it was giving them the same access that I had. It was not giving access to that individual provider.
+> I was in this organisation, for example, and I then wanted to request access for somebody. Yeah. Which now is on this user’s page. Yeah. You see all of this, if I requested access for someone else, what it was doing, it was giving them the same access that I had. It was not giving access to that individual provider.
 
 This is consistent with [previous notifications research](/publish-teacher-training-courses/managing-users/#research-feedback) on user management.
 
@@ -178,7 +178,7 @@ One participant mentioned their involvement with the Apply trial and queried acc
   So that I save time and it is easier for me"
 }) }}
 
-> I would increase the copy facility so that you can copy between lead schools as well. So if I've got an identical course running out five different schools I've not got to, I can just copy it from one lead school to another.
+> I would increase the copy facility so that you can copy between lead schools as well. So if I’ve got an identical course running out five different schools I’ve not got to, I can just copy it from one lead school to another.
 
 *[ITT]: Initial teacher training
 *[SCITT]: School centred initial teacher training

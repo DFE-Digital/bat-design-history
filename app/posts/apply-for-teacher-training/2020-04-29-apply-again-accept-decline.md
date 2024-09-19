@@ -26,14 +26,14 @@ related:
       href: https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training-prototype/pull/386
 ---
 
-“Are you sure you want to accept offer” contained guidance on withdrawing other choices that’s not relevant when applying again (there's only 1 choice).
+“Are you sure you want to accept offer” contained guidance on withdrawing other choices that’s not relevant when applying again (there’s only 1 choice).
 
 “Are you sure you want to decline offer” contains guidance about applying again through UCAS, when this feature is launched apply again will not be specific to UCAS.
 
 The updated content removes mention of:
 
-* UCAS when suggesting a candidate can apply again after declining or withdrawing
-* the caveat about "all other offers" when declining an offer and "all other choices" when withdrawing, for an application with 1 choice
-* automatically withdrawing other choices when accepting an offer on an application with 1 choice
+- UCAS when suggesting a candidate can apply again after declining or withdrawing
+- the caveat about "all other offers" when declining an offer and "all other choices" when withdrawing, for an application with 1 choice
+- automatically withdrawing other choices when accepting an offer on an application with 1 choice
 
 These changes should also apply to first applications that have only 1 choice.

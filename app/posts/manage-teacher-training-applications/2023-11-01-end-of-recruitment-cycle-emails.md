@@ -6,6 +6,8 @@ tags:
   - notifications
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 During August and September 2023, we planned a series of email communications to training providers to help them prepare for the end of the recruitment cycle for initial teacher training (ITT).
 
 ## The issue
@@ -35,8 +37,8 @@ We also needed to explain what providers should do if candidates have not receiv
 
 Email to SCITT providers:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Dear [First name]
 
 The 2022 to 2023 recruitment cycle ends on 27 September 2023. Training providers will soon be registering new trainees in Register trainee teachers (Register).
@@ -49,7 +51,7 @@ We’re working on a change to the services to improve this process in future. W
 
 ### Candidates who have not received all their references
 
-Where possible, references should be received before a candidate starts training.  
+Where possible, references should be received before a candidate starts training.
 
 However, if no safeguarding issues have been raised during the application process, you can allow a candidate to start their training if you’ve not received any references yet.
 
@@ -65,7 +67,7 @@ If you’re confident they will complete it during their training, you can regis
 
 ### Candidates providing evidence of GCSE equivalent qualifications
 
-If a candidate is taking a GCSE equivalency test for English, mathematics or science, they must provide evidence they have done the test before their training starts.  
+If a candidate is taking a GCSE equivalency test for English, mathematics or science, they must provide evidence they have done the test before their training starts.
 
 It’s fine for them to provide the certificate of their results after their training starts. In these cases, you can register these candidates manually in Register.
 
@@ -74,7 +76,7 @@ If a candidate has started their training but does not meet the GCSE standard fr
 ### Get help
 
 If you need any help, contact us at <becomingateacher@digital.education.gov.uk>
-</div>
+" }) }}
 
 For the email to HEIs, we did not mention how Apply works with Register. HEIs use their own student record systems and use Register in a different way to SCITTs through the Higher Education Statistics Agency (HESA).
 
@@ -86,8 +88,8 @@ We also used it as an opportunity to tell providers what the 2023 to 2024 recrui
 
 Email content:
 
-<div class="govuk-inset-text">
-
+{{ appEmail({
+  content: "
 Dear [First name]
 
 The 2022 to 2023 recruitment cycle ends on 27 September 2023 at 11:59pm.
@@ -106,7 +108,7 @@ Your organisation should make sure all your courses are published by this date s
 ### Get help
 
 Contact us at <becomingateacher@digital.education.gov.uk> if you need any help preparing for the end of this recruitment cycle and the start of the 2023 to 2024 cycle.
-</div>
+" }) }}
 
 ### 21 September – Becoming a teacher newsletter
 
@@ -116,7 +118,8 @@ We took this as an opportunity to tell all training providers about how we were 
 
 Content we added to the newsletter
 
-<div class="govuk-inset-text">
+{{ appEmail({
+  content: "
 
 ### Changes to how candidates apply for teacher training in the 2023 to 2024 recruitment cycle
 
@@ -134,7 +137,7 @@ To give you more time to make decisions, we’re removing the 40 working day dea
 
 All applications will have a status of ‘Received’ in Manage and your student record system until you make a decision, or the candidate withdraws the application.
 
-If candidates don’t get a decision within 30 working days, they can apply to another course. You’ll still be able to make a decision on all applications after 30 working days.
+If candidates do not get a decision within 30 working days, they can apply to another course. You’ll still be able to make a decision on all applications after 30 working days.
 
 ### Candidates will be able to apply to a different course as soon as they receive a rejection or withdraw
 
@@ -158,5 +161,4 @@ Once a candidate submits an application, they’ll be able to edit:
 We’ll show any edits a candidate makes on their application in Manage or your student record system.
 
 We’ll also send you weekly emails telling you which applications have been updated. You’ll be able to select if you do not want to receive these emails in your account settings in Manage. We’ll implement these emails later in the next recruitment cycle.
-
-</div>
+" }) }}

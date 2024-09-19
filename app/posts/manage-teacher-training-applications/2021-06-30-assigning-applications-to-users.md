@@ -91,7 +91,7 @@ If no one is assigned to the application then we show a default message and a ch
 
 ## Other considerations
 
-We considered some changes which were not implemented. We want to learn more through research about whether they're needed.
+We considered some changes which were not implemented. We want to learn more through research about whether they’re needed.
 
 ### Showing the organisations which users belong to
 
@@ -102,7 +102,7 @@ For the assignment page we considered either:
 
 We decided not to do this because we think that the signed in user will be looking for a specific person to assign the application to.
 
-It's possible to do this in a single alphabetical list of names without email addresses (except where a name appears more than once).
+It’s possible to do this in a single alphabetical list of names without email addresses (except where a name appears more than once).
 
 We intend to explore this in research, to find out whether participants need to be able to browse for users to assign applications to. In that case it may be useful for them to know which organisation each user belongs to.
 

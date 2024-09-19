@@ -14,7 +14,7 @@ related:
       href: /register-trainee-teachers/school-direct-routes/
 ---
 
-In [part 1](../searching-for-a-school) we explored using an autocomplete to help users search for schools. The prototype worked well for quickly picking a school - but it requires JavaScript to be running successfully for it to be used. Not everyone has JavaScript and it doesn’t always run successfully. We need a fallback / no-JavaScript version that we can progressively enhance from.
+In [part 1](../searching-for-a-school) we explored using an autocomplete to help users search for schools. The prototype worked well for quickly picking a school - but it requires JavaScript to be running successfully for it to be used. Not everyone has JavaScript and it does not always run successfully. We need a fallback / no-JavaScript version that we can progressively enhance from.
 
 In part 1  we also saw that if the results returned too slowly a user might type a query and immediately click continue before we had a chance to show them results. When this happens we can fall back to a no-JavaScript page, but we hope it will be fast enough to avoid this.
 
@@ -42,7 +42,7 @@ The design is the same for single results - but we plan to work on this next.
 
 ## Truncating results
 
-We’re starting off by only returning the first 15 results. If there are more matches, we’ll show a message that the results are truncated, and suggest users refine their search. We’ll need to monitor how often users need to search again because the school they wanted wasn’t in the list.
+We’re starting off by only returning the first 15 results. If there are more matches, we’ll show a message that the results are truncated, and suggest users refine their search. We’ll need to monitor how often users need to search again because the school they wanted was not in the list.
 
 ![A message is shown to the user when there are more results than can be displayed.](05-truncated-results.png)
 

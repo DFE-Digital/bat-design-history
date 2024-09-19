@@ -22,13 +22,13 @@ Based on research findings from testing earlier versions of the prototype, and h
 
 We updated the statuses to reflect those we are able to capture during the initial roll out:
 
-* New (unchanged)
-* Rejected (unchanged)
-* Offer made (unchanged)
-* Offer accepted (added)
-* Offer declined (added)
+- New (unchanged)
+- Rejected (unchanged)
+- Offer made (unchanged)
+- Offer accepted (added)
+- Offer declined (added)
 
-The ‘interviewing’ status was removed as this takes place off-service. As the initial service won’t involve a large number of applications, we removed the filters added in the previous round of testing as well as the search functionality.
+The ‘interviewing’ status was removed as this takes place off-service. As the initial service will not involve a large number of applications, we removed the filters added in the previous round of testing as well as the search functionality.
 
 ## Reviewing an application
 
@@ -57,9 +57,9 @@ We also wanted to test provider’s understanding of what information is sent to
 
 Within the current UCAS system, there are two types of offer:
 
-* A **conditional offer** allows providers to stipulate certain academic conditions that need to be met before they will be accepted onto a course.
+- A **conditional offer** allows providers to stipulate certain academic conditions that need to be met before they will be accepted onto a course.
 
-* An **unconditional offer** also allows providers to set conditions, but these must be non-academic ones (i.e. pass DBS and health checks, pay course fees, etc.).
+- An **unconditional offer** also allows providers to set conditions, but these must be non-academic ones (i.e. pass DBS and health checks, pay course fees, etc.).
 
 Unconditional offers are the product of a UCAS process forked from the undergraduate admissions system that bears little relation to teacher training. As candidates need to complete DBS and occupational health checks before enrolling onto a course, providers will make unconditional offers once they have fulfilled these conditions, much later in the process.
 

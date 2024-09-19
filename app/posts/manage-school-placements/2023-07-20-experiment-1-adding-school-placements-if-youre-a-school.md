@@ -22,7 +22,7 @@ In this part of the experiment, we wanted to address problem statement 1, [probl
 
 > DfE needs a data reporting service to help share data between School Centred Initial Teacher Training (SCITTs), Higher Education Institutions (HEIs), and the DfE.
 >
-> We aren’t sharing data, so we don’t have the complete picture of school placement activity and can’t intervene when help is needed.
+> We aren’t sharing data, so we do not have the complete picture of school placement activity and can’t intervene when help is needed.
 >
 > **How might we** create a data reporting service so stakeholders can report complete placement data using standardised and easily accessible platforms?
 
@@ -243,15 +243,15 @@ We will know a lot of information about the schools from GIAS. This means we can
 
 ### School placement needs
 
-Schools don’t have placement needs. Instead, ITT providers need to place trainees each academic cycle.
+Schools do not have placement needs. Instead, ITT providers need to place trainees each academic cycle.
 
 Providers control the trainee numbers through the application process.
 
-Schools may be able to mentor trainees in an academic cycle, but they don’t have control over recruitment. They can control whether they accept a trainee onto a placement.
+Schools may be able to mentor trainees in an academic cycle, but they do not have control over recruitment. They can control whether they accept a trainee onto a placement.
 
 Schools and their partner providers negotiate the numbers and types of trainees they can mentor each recruitment cycle.
 
-Schools might sometimes have spare capacity because their partner providers don’t offer courses in subjects the school has mentored for.
+Schools might sometimes have spare capacity because their partner providers do not offer courses in subjects the school has mentored for.
 
 ### Mentor details are important
 
@@ -268,13 +268,13 @@ Storing mentor information in one place, as a single source of truth, has a lot 
 
 ### Training pattern
 
-Entering the desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools do. Although this may have utility when partnering with several providers or being open to doing so, at present, it isn’t behaviour schools are used to.
+Entering the desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools do. Although this may have utility when partnering with several providers or being open to doing so, at present, it is not behaviour schools are used to.
 
 The ITT provider defines the trainees' training pattern as this is derived from their courses. A placement school must agree to these parameters when partnering with a provider, but these terms will be discussed during onboarding.
 
 ### Class size
 
-Entering the subject 'class size' isn’t helpful as this would vary between classes and schools.
+Entering the subject 'class size' is not helpful as this would vary between classes and schools.
 
 Trainees will teach various class sizes within a subject, depending on the school demographics.
 

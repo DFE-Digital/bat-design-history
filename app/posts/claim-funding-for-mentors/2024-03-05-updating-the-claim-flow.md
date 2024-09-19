@@ -49,7 +49,7 @@ We updated the check answers page to include the school name, funding amount, an
 
 ### Hint text to describe the hours of training
 
-Users didn't understand the different options on the hours of training page.
+Users did not understand the different options on the hours of training page.
 
 We’ve added hint text to each radio button to provide more information.
 
@@ -61,7 +61,7 @@ We’ve added content to the confirmation page to explain when processing and pa
 
 ### Messaging to the claim screen when the claim window is closed
 
-When the claim window is closed, users can’t submit claims.
+When the claim window is closed, users cannot submit claims.
 
 When the claim window closes, we will remove the claim button and add content to explain why claims cannot be submitted.
 

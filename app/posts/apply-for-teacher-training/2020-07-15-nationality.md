@@ -44,9 +44,9 @@ We need to show different fields and buttons depending on how many nationalities
 
 We’ll make this behaviour easier to understand by:
 
-* using hidden labels such as ‘first nationality’, ‘second nationality’ and so on
-* announcing full label names on the remove buttons, eg ‘Remove first nationality’
-* [returning focus to the page heading](https://inclusive-components.design/a-todo-list/#focusmanagement) when removing a field
+- using hidden labels such as ‘first nationality’, ‘second nationality’ and so on
+- announcing full label names on the remove buttons, eg ‘Remove first nationality’
+- [returning focus to the page heading](https://inclusive-components.design/a-todo-list/#focusmanagement) when removing a field
 
 We’re announcing label descriptions because it helps users keep track of which fields are being added or removed. However, we’re not visually displaying them as there is no implicit order to the nationalities a candidate has. We’d like to avoid having 2 different experiences, but this seems like a reasonable tradeoff between meeting accessibility needs and making the content understandable to an international audience.
 

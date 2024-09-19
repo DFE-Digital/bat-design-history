@@ -11,9 +11,10 @@ related:
       href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
 ---
 
-{% from "gallery/macro.njk" import appGallery with context %}
-
-> On 31 January 2023, the summary card was incorporated into the GOV.UK Design System as [a new variant within the summary list component](https://design-system.service.gov.uk/components/summary-list/#summary-cards).
+{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+{{ govukNotificationBanner({
+  html: "On 31 January 2023, the summary card was incorporated into the GOV.UK Design System as [a new variant within the summary list component](https://design-system.service.gov.uk/components/summary-list/#summary-cards)." | markdown("inline")
+}) }}
 
 Throughout the service we ask candidates to enter multiple items of information (eg jobs, work experiences, qualifications, course choices). We then give candidates the opportunity to review their answers, not only after completing each section, but when reviewing their entire application.
 
@@ -21,12 +22,13 @@ We tried to display this information using existing components, but uncovered a 
 
 - Repeating the summary list component many times over on a page, separated only by headings and rules, made it difficult to identify individual entries. This problem was even more noticable when reviewing an entire application because there were additional heading levels.
 
-- We tried to display individual entries in a table, but given the amount of information needing to be shown, this soon became constraining; information was inaccessible and poorly labelled, and it didn’t work well on mobile.
+- We tried to display individual entries in a table, but given the amount of information needing to be shown, this soon became constraining; information was inaccessible and poorly labelled, and it did not work well on mobile.
 
 - It also proved difficult to associate actions with individual summary lists, further decreasing the overall clarity of a page.
 
 We needed a component that would help users clearly identify different summaries, and perform associated actions on each. The summary card component allows us to do this.
 
+{% from "gallery/macro.njk" import appGallery with context %}
 {{ appGallery({
   items: [{
     text: "A review page without component",

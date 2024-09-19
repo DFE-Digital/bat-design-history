@@ -11,7 +11,7 @@ In the 2021 to 2022 cycle, providers often rejected candidates for not having th
 
 To address this, we’ve [asked providers if they can sponsor visas](/publish-teacher-training-courses/visa-sponsorship/) for the 2022 to 2023 cycle. We’ve then added this information within a [new ‘International students’ section](/find-teacher-training/new-international-students-section/).
 
-We've also added a checkbox to the filters to help candidates find the courses that sponsor visas.
+We’ve also added a checkbox to the filters to help candidates find the courses that sponsor visas.
 
 ![Screenshot showing checkbox with the label ](visa-filter.png "New visa sponsorship filter")
 

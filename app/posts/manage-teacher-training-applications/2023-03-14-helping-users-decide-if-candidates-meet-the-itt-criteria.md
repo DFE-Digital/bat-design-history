@@ -25,7 +25,7 @@ Candidates need to have the following qualifications to do ITT in England:
 
 [The ITT criteria is published for training providers on GOV.UK](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice).
 
-Previous reporting showed that candidates who are rejected based on their qualifications often have qualifications from outside the UK or qualifications from the UK that aren’t GCSEs but are equivalent.
+Previous reporting showed that candidates who are rejected based on their qualifications often have qualifications from outside the UK or qualifications from the UK that are not GCSEs but are equivalent.
 
 We also saw that eligible candidates are sometimes rejected even though they meet the ITT criteria but have maybe applied for a course they do not have qualifications in. For example, a candidate applies to a History course, but they have a degree in science.
 
@@ -47,7 +47,7 @@ We added a question about if a candidate had a degree or not. This question woul
 
 We included a snippet taken directly from the ITT criteria about degrees. We did this to purposefully test if the language was understandable to training providers.
 
-![Screenshot showing a page with the heading 'Degree criteria ' and the question 'Do they meet the degree criteria'. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate's degree should have'](degree-question.png)
+![Screenshot showing a page with the heading 'Degree criteria ' and the question 'Do they meet the degree criteria'. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate’s degree should have'](degree-question.png)
 
 ### English, maths and science GCSE criteria questions
 

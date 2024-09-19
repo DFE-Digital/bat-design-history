@@ -30,15 +30,15 @@ If the provider and candidate agree to a change of interview date, they can reco
 
 If the provider initially made a conditional offer they can change:
 
-* training programme, start date, location and campus
-* to an unconditional offer
+- training programme, start date, location and campus
+- to an unconditional offer
 
 ### Changing the details of an unconditional offer
 
 If the provider initially made an unconditional offer they can:
 
-* change or add conditions
-* change training programme, start date, location and campus
+- change or add conditions
+- change training programme, start date, location and campus
 
 ## Making changes after candidate accepts the offer
 
@@ -56,4 +56,4 @@ They can only change an unconditional offer with the candidate’s full agreemen
 
 If the provider agrees, they contact UCAS and record a decline decision in web-link. The candidate can apply elsewhere using Apply 2.
 
-If the provider doesn't agree and the candidate still doesn't want to take up that training programme, the provider uses the 'confirmation withdrawal' decision to completely withdraw their application and bar the candidate from applying again in the cycle—can't go to Apply 2.
+If the provider does not agree and the candidate still does not want to take up that training programme, the provider uses the 'confirmation withdrawal' decision to completely withdraw their application and bar the candidate from applying again in the cycle—cannot go to Apply 2.

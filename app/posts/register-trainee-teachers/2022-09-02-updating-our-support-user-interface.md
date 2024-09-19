@@ -12,7 +12,7 @@ related:
 
 We’ve recently done some design work to improve the interface our support staff use to administer Register.
 
-Over time, bits and pieces have been added to the current interface as we needed a feature – this means it has a confusing user interface and doesn’t always have features we need to support Register or perform common tasks.
+Over time, bits and pieces have been added to the current interface as we needed a feature – this means it has a confusing user interface and does not always have features we need to support Register or perform common tasks.
 
 To align with other services in the Becoming a teacher service line, we’ll be calling this section ‘Support’ rather than ‘System admin’.
 
@@ -20,7 +20,7 @@ To align with other services in the Becoming a teacher service line, we’ll be 
 
 ## New interface
 
-We won’t build this new interface all in one go. We expect to use it for inspiration as we work on specific improvements and as something to aim towards over time.
+We will not build this new interface all in one go. We expect to use it for inspiration as we work on specific improvements and as something to aim towards over time.
 
 ### Improved navigation
 

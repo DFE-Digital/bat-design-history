@@ -9,7 +9,7 @@ screenshots:
     - text: Confirm relationship
       caption: Start by asking the referee to confirm that the candidate’s description of the relationship is correct.
     - text: Safeguarding concerns
-      caption: Ask the referee if they have any reason to believe the candidate isn’t safe to work with children.
+      caption: Ask the referee if they have any reason to believe the candidate is not safe to work with children.
     - text: Reference
       caption: The question prompting for a reference remains broadly similar to what appeared in the previous iteration.
     - text: Reference (for an academic referee)

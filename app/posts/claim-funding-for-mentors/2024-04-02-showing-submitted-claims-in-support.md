@@ -133,7 +133,7 @@ We do not automatically send users to the claim details page after completing a 
 
 #### No results
 
-If the search doesn’t return a result, we show a message depending on the search and filter terms:
+If the search does not return a result, we show a message depending on the search and filter terms:
 
 - There are no results for ‘search term’.
 - There are no results for ‘search term’ and the selected filter.
@@ -143,7 +143,7 @@ If the search doesn’t return a result, we show a message depending on the sear
 
 #### Empty searches
 
-If a user doesn’t enter a search term when submitting a search, we show a list of claims that match any filter criteria.
+If a user does not enter a search term when submitting a search, we show a list of claims that match any filter criteria.
 
 ### Pagination
 

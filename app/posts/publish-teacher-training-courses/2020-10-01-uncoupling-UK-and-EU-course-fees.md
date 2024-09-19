@@ -17,7 +17,7 @@ screenshots:
 
 In late September and early October 2020 we received enquiries from organisations querying how to add separate course fees for UK and EU students.
 
-> UK/EU fees appear together in Publish, however, EU fees for the UoB will be the same as International. For now, I've put the EU fee in the Fee details (optional) box, but I think this needs to be amended!
+> UK/EU fees appear together in Publish, however, EU fees for the UoB will be the same as International. For now, I’ve put the EU fee in the Fee details (optional) box, but I think this needs to be amended!
 
 [Support ticket](https://becomingateacher.zendesk.com/agent/tickets/9381)
 

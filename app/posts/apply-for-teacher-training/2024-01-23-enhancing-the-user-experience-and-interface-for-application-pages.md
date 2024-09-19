@@ -19,7 +19,7 @@ We have found from previous user research and the support tickets that navigatin
 
 ## What we did
 
-We overhauled the appearance of the 'Your applications' tab to provide a cleaner and more organised view, considering the increased limit of 15 applications. We replaced a card-style display with a simpler yet comprehensive design. Each row now showcases the provider's name, application number, status, and links directly to a dedicated application page for that course.
+We overhauled the appearance of the 'Your applications' tab to provide a cleaner and more organised view, considering the increased limit of 15 applications. We replaced a card-style display with a simpler yet comprehensive design. Each row now showcases the provider’s name, application number, status, and links directly to a dedicated application page for that course.
 
 ![Screenshot of new 'Your applications' page, showing 4 applications for draft, awaiting decision/inactive and interviewing](new-application-view.jpg)
 
@@ -37,7 +37,7 @@ We refined the ‘Delete page’ content and incorporated a 'Cancel' button foll
 
 To optimize space, we restructured how personal statements are displayed on application pages. They are now integrated into the summary list row, allowing users to expand them if needed.
 
-![Screenshot of 'Offer withdrawn' status, showcasing the difference beween 'show more' and 'show less' functionality of personal statement in the application summary](personal-statement.jpg)
+![Screenshot of 'Offer withdrawn' status, showcasing the difference beween ’show more' and ’show less' functionality of personal statement in the application summary](personal-statement.jpg)
 
 ## User testing
 

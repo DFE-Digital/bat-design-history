@@ -31,7 +31,7 @@ Scoring assumptions as a team gave a sense of ownership and increased the shared
 
 We now know our riskiest assumptions, and we have five problem statements to focus on.
 
-[![Screenshot of the team's five chosen problem statements alongside the strategy and vision for 2024](problem-statements-strategy-vision.png)](problem-statements-strategy-vision.png)
+[![Screenshot of the team’s five chosen problem statements alongside the strategy and vision for 2024](problem-statements-strategy-vision.png)](problem-statements-strategy-vision.png)
 
 Our problem statements are:
 

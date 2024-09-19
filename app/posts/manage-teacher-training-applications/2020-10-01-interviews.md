@@ -13,13 +13,13 @@ During this time the applications actually go through the following process:
 1. The application is sifted and reviewed. At this point the candidate is either rejected or invited for interview.
 2. The candidate is interviewed. At this point the candidate is rejected or offered a place.
 
-But because the service doesn't let providers manage interviews, the status stays as ‘Submitted’ throughout meaning users cannot distinguish between these types of applications.
+But because the service does not let providers manage interviews, the status stays as ‘Submitted’ throughout meaning users cannot distinguish between these types of applications.
 
 If we let users set up and manage interviews, then it’ll be easier to manage the application process inside the service.
 
 ## Application list
 
-The ‘Submitted’ status has been split out into ‘Received’, ‘Awaiting interview’ and ‘Interviewed’. And there's a new section in the list of candidates awaiting interview.
+The ‘Submitted’ status has been split out into ‘Received’, ‘Awaiting interview’ and ‘Interviewed’. And there’s a new section in the list of candidates awaiting interview.
 
 ![Screenshot of ‘Applications’ page.](application-list.png)
 
@@ -37,7 +37,7 @@ This is because interviews often take place with both the training provider and 
 
 When the last interview has taken place, at midnight the status flips automatically to ‘Interviewed’ and the prompt is: to make a decision or set up another interview.
 
-There’s still an option to set up another interview because there’s no guarantee that just because one interview took place, that another isn’t needed at this point in time.
+There’s still an option to set up another interview because there’s no guarantee that just because one interview took place, that another is not needed at this point in time.
 
 ![Screenshot of application with ‘Make decision’ and ‘Set up another interview‘ prompts.](prompt--interviewed.png)
 
@@ -61,6 +61,6 @@ Then you are taken to the interviews tab with a success message.
 
 A new top level page has been added so that users can see all the upcoming interviews.
 
-This means they don’t have to go outside the service to do this and they don’t have to go into a particular application to see the interview details.
+This means they do not have to go outside the service to do this and they do not have to go into a particular application to see the interview details.
 
 ![Screenshot of ‘Interviews’ page.](interview-list-page.png)

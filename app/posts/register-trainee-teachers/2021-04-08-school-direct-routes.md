@@ -11,8 +11,8 @@ We’re continuing to expand our manual data entry for new training routes, now 
 
 School direct represents two similar routes:
 
-* School direct (salaried)
-* School direct (fee funded)
+- School direct (salaried)
+- School direct (fee funded)
 
 The school direct routes are similar to our previous routes, especially Provider led (postgrad). The main new addition is asking about schools - their lead school for fee funded courses, and their lead and employing schools for salaried course.
 

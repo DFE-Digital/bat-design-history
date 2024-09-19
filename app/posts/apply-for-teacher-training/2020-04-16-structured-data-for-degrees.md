@@ -29,7 +29,7 @@ screenshots:
     - text: When did you study for your degree?
       caption: Hint text gives examples of expected values
     - text: When did you study for your degree? (First degree with a pending grade)
-      caption: If this is the first degree entered, and if the candidate hasn’t completed their degree yet, the hint text reinforces the degree requirement. Example values are also updated, with dates based on graduating in the current year.
+      caption: If this is the first degree entered, and if the candidate has not completed their degree yet, the hint text reinforces the degree requirement. Example values are also updated, with dates based on graduating in the current year.
     - text: Review answers
       caption: If a baccalaureate degree grade includes honours, the title for the summary card shows ‘(Hons)’ between degree type and subject
 related:

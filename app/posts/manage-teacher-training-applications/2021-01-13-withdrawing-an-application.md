@@ -23,15 +23,15 @@ related:
 
 We previously explored a [very different way to let providers close an application at any time](/manage-teacher-training-applications/closing-an-application/).
 
-But we weren’t happy with it for several reasons.
+But we were not happy with it for several reasons.
 
-Firstly, having a process called ‘close application’ (which was a new term) didn’t always make sense. For example, when making a decision the choices were ‘make offer’ and ‘close application’.
+Firstly, having a process called ‘close application’ (which was a new term) did not always make sense. For example, when making a decision the choices were ‘make offer’ and ‘close application’.
 
 Secondly, having a new term caused us to end up with a new ‘closed’ status.
 
 Thirdly, if the user did click ‘close application’ when making a decision, it was strange that one of the reasons was ‘because the candidate requested it’.
 
-We tried changing the term to ‘withdraw or reject application’ which would familiar to users. But if the user answered ‘no’ to all the reasons, then we didn’t know whether this would result in it being a rejection or a withdrawal.
+We tried changing the term to ‘withdraw or reject application’ which would familiar to users. But if the user answered ‘no’ to all the reasons, then we did not know whether this would result in it being a rejection or a withdrawal.
 
 ## What we did and why
 

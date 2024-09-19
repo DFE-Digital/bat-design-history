@@ -33,7 +33,7 @@ eleventyComputed:
 
 When a support user adds a school in Manage school placements, we use an autocomplete to help users search for schools.
 
-The autocomplete works well for quickly selecting a school, but it requires JavaScript. Not everyone has JavaScript, and it doesn’t always run successfully.
+The autocomplete works well for quickly selecting a school, but it requires JavaScript. Not everyone has JavaScript, and it does not always run successfully.
 
 We added a no-JavaScript version of the ‘Add organisation’ flow, which we can progressively enhance.
 
@@ -61,6 +61,6 @@ If the user tries to add a school a second time, we show an error message:
 
 > School has already been added
 
-If the school the user is looking for isn’t listed or there aren’t any results, the user can change their search, which takes them back to the initial search form.
+If the school the user is looking for is not listed or there are not any results, the user can change their search, which takes them back to the initial search form.
 
 *[GIAS]: Get Information about Schools

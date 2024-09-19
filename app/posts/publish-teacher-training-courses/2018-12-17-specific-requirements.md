@@ -15,7 +15,7 @@ screenshots:
 
 Providers can set specific requirements for their courses when setting up or editing their training programmes in UCAS web-link.
 
-This relates to minimum grades for Maths, English and Science – grades A* to C, 4 or more, or an equivalent (eg international baccalaureate).
+This relates to minimum grades for Maths, English and Science – grades A- to C, 4 or more, or an equivalent (eg international baccalaureate).
 
 ## Options
 

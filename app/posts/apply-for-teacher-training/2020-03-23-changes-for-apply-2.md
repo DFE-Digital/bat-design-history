@@ -51,7 +51,7 @@ Needs will depend on where and when you are applying. When they apply again:
 
 - any dates entered before may no longer be relevant
 - new dates they are unavailable might need to be added
-- locations might be different – they might be travelling much further for this interview (for example – a provider that wasn’t their first choice because it was further away)
+- locations might be different – they might be travelling much further for this interview (for example – a provider that was not their first choice because it was further away)
 
 Should we still prefill this section?
 Should we flag it for review?
@@ -66,7 +66,7 @@ This question appears at the end. Would we also prefill this? It’s a catch-all
 
 ### You’ve submitted page
 
-We have guidance here about contacting references. If references weren’t changed, we can omit or say something different.
+We have guidance here about contacting references. If references were not changed, we can omit or say something different.
 
 Same goes for the plurals used in the track, edit or withdraw guidance here.
 
@@ -91,7 +91,7 @@ Is this page still relevant? Will we keep the 5 day window? How would we update 
 
 - might need to remove the section on Amending, if we’re not doing the 5 day thing
 - withdrawn courses needs to be singular, also remove (s)
-- if the candidate kept their references, we shouldn’t include the references section
+- if the candidate kept their references, we should not include the references section
 
 ### Rejected email
 

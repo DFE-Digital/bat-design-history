@@ -75,7 +75,7 @@ We’re doing this work to:
 - make it easier for providers to choose the right action without getting hung up on terminology
 - let providers close an application at any time throughout the application process
 - allow providers to process applications where candidates have disappeared or stopped responding
-- give providers confidence that they won’t get punished for rejecting an application
+- give providers confidence that they will not get punished for rejecting an application
 - give candidates useful feedback about why they were unsuccessful
 - allow candidates to be withdrawn at their request
 - make sure DfE can accurately differentiate between withdrawals and rejections
@@ -110,7 +110,7 @@ But from previous research and on the basis that we currently have ‘Withdraw o
 
 We also tried to only show ‘Close application’ under the candidate’s name when in the offered, accepted and conditions met states. This seemed sensible on the basis that the prompts let users close the application - like when making a decision.
 
-But that meant an application couldn’t be closed when in the deferred state. So we decided to put ‘Close application’ under the name at all times.
+But that meant an application could not be closed when in the deferred state. So we decided to put ‘Close application’ under the name at all times.
 
 ## What we want to know from research
 

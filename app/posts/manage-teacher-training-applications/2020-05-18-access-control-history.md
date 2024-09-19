@@ -1,6 +1,6 @@
 ---
-title: 'Setting user permissions: context and user research'
-description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here's how we arrived at our designs
+title: "Setting user permissions: context and user research"
+description: Users and organisations need to configure permissions to make decisions, see safeguarding information and set controls for other users. Here’s how we arrived at our designs
 date: 2020-05-18
 ---
 <!-- markdownlint-disable MD051 -->
@@ -16,7 +16,7 @@ How can we go about achieving this in the Manage service?
 - [The initial problem statement](#the-initial-problem-statement)
 - [Context and guidance](#context-and-guidance)
   - [How UCAS works](#how-ucas-works)
-  - [Research we've done](#research-we%E2%80%99ve-done)
+  - [Research we’ve done](#research-we%E2%80%99ve-done)
   - [User needs](#user-needs)
   - [Options analysis session](#options-analysis-session)
   - [Designs, research and iterations](#designs%2C-research-and-iterations)
@@ -86,12 +86,12 @@ We should also restrict access to this information for internal support users
 
 In this document, ‘access management’ and ‘access control’ mean the permissions given training provider users and organisations to make decisions and see sensitive information.
 
-Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions aren’t needed for this.
+Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions are not needed for this.
 
 For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs)
 
 - [How UCAS works](#how-ucas-works)
-- [Research we've done](#research-we%E2%80%99ve-done)
+- [Research we’ve done](#research-we%E2%80%99ve-done)
 - [User needs](#user-needs)
 - [Options analysis session](#options-analysis-session)
 - [Designs, research and iterations](#designs%2C-research-and-iterations)
@@ -115,7 +115,7 @@ For a short story of this, see our [show and tell slides](https://docs.google.co
 - Weblink is not  accessible to all users who interact with applications, meaning applications are constantly downloaded and managed outside of the service - this has GDPR implications.
 - There are constraints around the types of sensitive data the system can collect and display due to the permissions setup. For example, detailed information about criminal convictions from the candidate.
 
-**Goal:*- We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
+**Goal: We have an opportunity in Manage to build a more secure and robust access system to mitigate these implications, meet all the user needs around access control and to allow for more sensitive information to be collected and displayed.
 
 We formulated a starting hypothesis to test:
 
@@ -128,7 +128,7 @@ We formulated a starting hypothesis to test:
 
 ---
 
-### Research we've done
+### Research we have done
 
 #### Accredited body research: survey findings
 
@@ -136,11 +136,11 @@ We conducted a survey to learn how providers work with one another, particularly
 
 [Accredited body survey report](https://docs.google.com/presentation/d/1r7PNdue_o4TEdIZZXGkpNlSzFuzsamRdIsw1-x_fQPA/edit#slide=id.p)
 
-__Key findings:__
+##### Key findings
 
 - There is a lot of complexity in this space.
 - We identified a number of different organisational structures, each of which has implications for how applications are processed and managed.
-- Organisational structures aren’t always based on a formal accreditation relationship and they likely change over time based on the system and their ways of working.
+- Organisational structures are not always based on a formal accreditation relationship and they likely change over time based on the system and their ways of working.
 - Whoever an application starts with has some involvement at all stages of the application process.
 - Applications are being looked at by more than one organisation at most stages of the process.
 - Some of the stages can involve multiple actions or workflows.
@@ -157,7 +157,7 @@ A School Direct with 4 different HEI accredited bodies.
 - [Session notes](https://docs.google.com/document/d/1hSYC9knyDeW1LsUlenZeil9tkoeoIPRZTc7v5YZeL4Y/edit)
 - [Process map](https://drive.google.com/drive/folders/1p4Ap6BwUsEi4X_5xuqY1wp2QgY6IUHf5)
 
-__Key access control findings:__
+###### Key access control findings
 
 - Each accredited body HEI has a slightly different process that they want to be followed for managing applications for courses they ratify
 - CTSA are very much in control of driving the process and have to be mindful of which HEI an application is for
@@ -171,7 +171,7 @@ An accredited body and SCITT, ratifying courses for 12 partner schools, of which
 
 - [Session notes](https://docs.google.com/document/d/1QOGasJVs06b4NMhBWnPj9bIrhPL_P5ggf0t_N1F_2yo/edit)
 
-__Key access control findings:__
+###### Key access control findings
 
 - Each school has an agreement with KNSTE SCITT on ways of working
 - People from the SCITT and from the schools are involved in decision-making, but most of the time KNSTE are uploading decisions into UCAS. So there are users who only need to view applications.
@@ -194,9 +194,12 @@ These diagrams show the organisational structures, but do not explain what diffe
 
 During research, we identified a candidate need to explain any criminal convictions:
 
-> **As a*- candidate
->**I need to*- feel comfortable disclosing negative information about my past
-> **So that*- I know whether it’s worth carrying on with my application
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a candidate
+I need to feel comfortable disclosing negative information about my past
+So that I know whether it’s worth carrying on with my application"
+}) }}
 
 [The questions we ask candidates](https://apply-beta-prototype.herokuapp.com/application/12345/suitability/)
 
@@ -239,25 +242,29 @@ The research shows that:
 
 #### Sharing applications with other users
 
-##### Key needs
+##### Key need
 
->__As an__ administrator within a provider
->__I need to__ share an application with other decision-makers (potentially in other organisations)
->__So that__ we can decide how to progress the application
+{{ appUserNeed({
+  description: "As an administrator within a provider
+I need to share an application with other decision-makers (potentially in other organisations)
+So that we can decide how to progress the application"
+}) }}
 
 ##### Supporting needs
 
 - [Share an application with decision makers](https://trello.com/c/MunTJ6wX/67-share-an-application-with-decision-makers)
 - [Have access to the application form before and during the interview process](https://trello.com/c/T1mspQpA/89-need-to-have-access-to-the-application-form-before-and-during-the-interview-process)
-- [Interview panelists know enough about the candidate's application to be useful in the interview](https://trello.com/c/f2fqLASM/82-interview-panelists-know-enough-about-the-candidates-application-to-be-useful-in-the-interview)
+- [Interview panelists know enough about the candidate’s application to be useful in the interview](https://trello.com/c/f2fqLASM/82-interview-panelists-know-enough-about-the-candidates-application-to-be-useful-in-the-interview)
 
 #### Shared decision-making
 
-##### Key needs
+##### Key need
 
->__As a__ partner school or School Direct
->__I need to__ send a provisional decision about an application to the accredited body for that course
->__So that__ they can make the final decision and issue the offer
+{{ appUserNeed({
+  description: "As a partner school or School Direct
+I need to send a provisional decision about an application to the accredited body for that course
+So that they can make the final decision and issue the offer"
+}) }}
 
 ##### Supporting needs
 
@@ -268,21 +275,29 @@ The research shows that:
 
 ##### Key needs
 
->__As a__ provider user
->__I need to__ be able to see applications for the other organisations in my network
->__So that__ I can process applications according to the working practices we’ve agreed upon
+{{ appUserNeed({
+  description: "As a provider user
+I need to be able to see applications for the other organisations in my network
+So that I can process applications according to the working practices we’ve agreed upon"
+}) }}
 
->__As a__ provider user
->__I need to__ know who took which actions on an application, when they took those actions and to which organisation they belong
->__So that__ when I pick up the application I know what has been done to it and therefore what actions I now need to take
+{{ appUserNeed({
+  description: "As a provider user
+I need to know who took which actions on an application, when they took those actions and to which organisation they belong
+So that when I pick up the application I know what has been done to it and therefore what actions I now need to take"
+}) }}
 
->__As a__ provider user
->__I need to__ know what I need to do with an application when I start work on it. I need to know if another user has actions they need me to take on this application
->__So that__ I can work efficiently without needing to ask for guidance
+{{ appUserNeed({
+  description: "As a provider user
+I need to know what I need to do with an application when I start work on it. I need to know if another user has actions they need me to take on this application
+So that I can work efficiently without needing to ask for guidance"
+}) }}
 
->__As a__ provider
->__I need to__ be able to move candidates from one course in my network of organisations to another
->__So that__ I can ensure that promising candidates aren’t lost and are provided with the best chance of being made an offer
+{{ appUserNeed({
+  description: "As a provider
+I need to be able to move candidates from one course in my network of organisations to another
+So that I can ensure that promising candidates are not lost and are provided with the best chance of being made an offer"
+}) }}
 
 ##### Supporting needs
 
@@ -291,11 +306,13 @@ The research shows that:
 
 #### Safeguarding
 
-##### Key needs
+##### Key need
 
->__As a__ provider
->__I need__ certain individuals within my organisation to know about a candidate’s past
->__So that__ we can make a judgement on whether to pursue their application while also reducing the risk of candidate’s information being made public to the wrong people
+{{ appUserNeed({
+  description: "As a provider
+I need certain individuals within my organisation to know about a candidate’s past
+So that we can make a judgement on whether to pursue their application while also reducing the risk of candidate’s information being made public to the wrong people"
+}) }}
 
 ### Options analysis session
 
@@ -317,15 +334,15 @@ The aim of the session was to review the options within the options analysis pap
 
 The decision was made to go with option 2. It allows the provider to have full control over who has access to perform which functions. It also meets their needs around managing applications entirely within the Manage service. Although more technical to build, it will allow us greater flexibility in the future to add more permissions and will give us the data to understand how the organisations within the ITT space are set up.
 
-__Pros:__
+##### Pros
 
 - Mitigates the high risk of someone making a decision when they are not allowed to
 - We can allow certain users to have access to certain sensitive data
 - UI reflects possible permissions
-- UI doesn’t need to explain itself
+- UI does not need to explain itself
 - When relationships change between organisations, you can set it once for all users.
 
-__Cons:__
+##### Cons
 
 - Technically more complicated to implement - every user needs to be updated to reflect changes to relationships between orgs
 
@@ -365,7 +382,7 @@ We have tested the onboarding flow in depth with three providers so far:
 - School Direct - Millais Alliance
 - SCITT - Somerset SCITT
 
-__Key findings:__
+##### Key findings
 
 - The organisation-to-organisation set up has been understood by providers and they can set up their organisation structures
 - The user permissions set up has been understood by providers and they can effectively invite users with the right permissions
@@ -386,7 +403,7 @@ We have a good level of confidence in the understanding and the data that sits b
 
 ### Policy
 
-From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that don’t provide the course have complete management responsibilities over that provider's applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
+From research we have identified there is a policy question around the on-boarding of providers in relation to access management. There are cases where individuals who work for organisations that do not provide the course have complete management responsibilities over that provider’s applications. This is normally a member of a SCITT having complete management responsibilities over a School Direct’s applications.
 
 There is a decision to be made whether we want to allow this SCITT to have complete access to set up their School Direct organisational permissions (the current Publish model). An alternative is to default to assigning all organisational permissions to the provider of the course. This could be done during on-boarding. Each option has pros and cons and an impact on the on-boarding journey into Apply which we will need to discuss.
 
@@ -409,7 +426,7 @@ A user with Manage Users permission can invite other users from outside their or
 
 ### Current solution
 
-__Onboarding:__
+#### Onboarding
 
 - A user indicates the organisation they belong to
 - They can choose another user either within their organisation, or from another provider if they’re part of a close network, to set up their organisation (optionally)
@@ -417,12 +434,12 @@ __Onboarding:__
 - The user sets up the access permissions for their organisation and where relevant the organisation that ratifies their courses. Ratifying organisations do not get to set permissions for the courses they ratify. If they run and ratify their own courses, they will automatically be given access to the make decisions and view safeguarding permissions.
 - Onboarding can be considered complete once all organisations in a given structure have been onboarded
 
-__Modifying organisation set-up:__
+#### Modifying organisation set-up
 
 - A user with the appropriate permissions can navigate to the “Organisations” area and see the permissions for the organisation(s) they belong to
 - There they can change the organisational setup for those organisations to which they belong. If they are an accredited body, they will see the permissions that the other organisations they work with have set. Should they not agree with these settings they can contact the organisation in question and ask them to alter them.
 
-__Adding users:__
+#### Adding users
 
 - The first user, who set up the organisation, will by default have “manage organisations” and “manage users” permissions
 - They navigate to the “Users” area and select invite user
@@ -555,7 +572,7 @@ __Adding users:__
   - Yasmin at City Learning Trust is invited to Apply and signs the data sharing agreement
   - She can see that City Learning Trust have courses ratified by Staffordshire University, Manchester Metropolitan University and KNSTE. She sets the following permissions:
     - Staffordshire University can see safeguarding information, City Learning Trust can make decisions
-    - Manchester Metropolitan University can see safeguarding information and make decisions, City Learning Trust don’t have any permissions set.
+    - Manchester Metropolitan University can see safeguarding information and make decisions, City Learning Trust do not have any permissions set.
     - KNSTE can see safeguarding information, City Learning Trust can make decisions
 - Painsley Teaching School Alliance
   - Priti at Painsley Teaching School Alliance is invited to Apply and signs the data sharing agreement

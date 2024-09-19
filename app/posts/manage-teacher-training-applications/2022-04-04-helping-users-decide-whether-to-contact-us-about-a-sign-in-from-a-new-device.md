@@ -19,7 +19,7 @@ The support team often finds that there is no problem. We want to make the email
 
 The new email gives the date and time when the sign in occurred. This will help users work out whether it was them who signed in. If it was them then they do not need to contact us.
 
-We've removed the mention of the IP address and browser, as most users will not be able to interpret those details. For example, they’re unlikely to know their usual IP address.
+We’ve removed the mention of the IP address and browser, as most users will not be able to interpret those details. For example, they’re unlikely to know their usual IP address.
 
 We also give reasons why the sign in could have been incorrectly assessed as being from a new device. This will help users understand what has happened.
 
@@ -34,7 +34,7 @@ Your account details were used to sign in to manage teacher training application
 
 You can ignore this email if you signed in. Contact us immediately if you did not sign in.
 
-You've received this email because it looks like you signed in from a new device. It could also be because you used the same device as usual but:
+You’ve received this email because it looks like you signed in from a new device. It could also be because you used the same device as usual but:
 
 - you’ve recently changed your internet browser
 - you’ve cleared the cookies on your device

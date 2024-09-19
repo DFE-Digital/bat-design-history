@@ -13,6 +13,7 @@ related:
     - href: /publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/
 ---
 
+
 > **These designs have progressed further**
 >
 > Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.

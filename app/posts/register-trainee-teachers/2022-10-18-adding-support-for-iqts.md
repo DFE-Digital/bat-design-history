@@ -31,7 +31,7 @@ iQTS aims to:
 
 ## Registering trainees on iQTS
 
-We’re updating Register to support registering these iQTS trainees. Having met with the iQTS team, we don’t think that many changes will be required to support this new qualification. While the pilot is running, providers will register their trainees manually in Register – just like they do for Early years and Assessment only routes.
+We’re updating Register to support registering these iQTS trainees. Having met with the iQTS team, we do not think that many changes will be required to support this new qualification. While the pilot is running, providers will register their trainees manually in Register – just like they do for Early years and Assessment only routes.
 
 ## How we’re treating iQTS
 
@@ -44,13 +44,13 @@ We’ve added a new route to the route selection page, and a new task list secti
 We decided to separate this new iQTS section from the ‘Course details’ section in the task list for a few reasons, including:
 
 - it will give us the flexibility to add more details if we need to collect them, like the language the trainee is studying in
-- the course details section in the task list is already quite complicated, especially when a provider needs to change a trainee’s course so adding in more complexity didn’t make sense
+- the course details section in the task list is already quite complicated, especially when a provider needs to change a trainee’s course so adding in more complexity did not make sense
 
 Originally we called this new section ‘iQTS details’ however, because it follows on from a section called ‘Course details’ it felt like a duplication. We decided to call the new section ‘International training details’ because we’re only asking about the international aspect of the course but not its specific details like what the trainee has chosen to study.
 
 ## Sections not included
 
-We’ve removed several sections from the standard record because they won’t make sense for iQTS. These include funding, schools, and placements.
+We’ve removed several sections from the standard record because they will not make sense for iQTS. These include funding, schools, and placements.
 
 There may be a need to collect placement information in the future - we’d have to do further design work to support international locations.
 

@@ -131,7 +131,7 @@ We did not change the 'criminal convictions' wording but may do so later.
 
 ### Understanding which organisation users belong to
 
-The scope of the users list wasn’t completely clear. Some participants:
+The scope of the users list was not completely clear. Some participants:
 
 - asked if the list included users in their partner organisations
 - talked about working out who belonged to which organisation based on their email address

@@ -1,5 +1,5 @@
 ---
-title: Improving the content in the ‘Interview needs’ section 
+title: Improving the content in the ‘Interview needs’ section
 description: We improved the content on the question where we ask candidates about their interview availablity
 date: 2023-06-29
 tags:
@@ -28,7 +28,7 @@ We also found that the term ‘interview needs’ was not clear.
 
 The previous 'Interview needs' section in the task list.
 
-![Screenshot showing a section of a task list called 'Adjustments'. There are 2 links below the heading, one that says 'Ask for aupport if you're disabled' and another that says 'interview needs'.](previous-interview-needs.png)
+![Screenshot showing a section of a task list called 'Adjustments'. There are 2 links below the heading, one that says 'Ask for aupport if you’re disabled' and another that says 'interview needs'.](previous-interview-needs.png)
 
 The previous 'Interview needs' question.
 
@@ -40,7 +40,7 @@ We also mentioned some examples of when they might not be available, such as hol
 
 The new 'Interview availability' section in the task list.
 
-![Screenshot showing a section of a task list called 'Adjustments'. There are 2 links below the heading, one that says 'Ask for aupport if you're disabled' and the new content that says 'interview availability'.](interview-availability-task-list.png)
+![Screenshot showing a section of a task list called 'Adjustments'. There are 2 links below the heading, one that says 'Ask for aupport if you’re disabled' and the new content that says 'interview availability'.](interview-availability-task-list.png)
 
 The new 'Interview availability' question.
 

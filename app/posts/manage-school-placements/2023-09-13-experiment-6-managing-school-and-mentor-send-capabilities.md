@@ -339,7 +339,7 @@ Where mentors have some form of SEND training, it might have been via local or o
 
 ### Schools
 
-There isn’t a single definition for a school’s capability to support trainees with additional needs. This is likely because these types of trainees are less common.
+There is not a single definition for a school’s capability to support trainees with additional needs. This is likely because these types of trainees are less common.
 
 ‘Training with disabilities’ was ambiguous. A better term might be ‘Training with additional needs.’
 

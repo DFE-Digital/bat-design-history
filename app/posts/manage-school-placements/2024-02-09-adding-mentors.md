@@ -73,7 +73,7 @@ On the mentor details page, we show a summary list of the mentor’s details, in
 
 This page also includes a ‘Remove mentor’ link, which allows mentors to remove the mentor.
 
-Users cannot change the mentor's first name, last name and TRN.
+Users cannot change the mentor’s first name, last name and TRN.
 
 ### Adding a mentor
 
@@ -144,7 +144,7 @@ We considered some changes that we did not implement. These included:
 
 ### Finding the mentor by National Insurance number and date of birth
 
-If the user does not know the mentor's TRN, we can identify a mentor using their National Insurance number (NINO) and date of birth.
+If the user does not know the mentor’s TRN, we can identify a mentor using their National Insurance number (NINO) and date of birth.
 
 We considered giving users the option to add a mentor using NINO. However, mentors can use the [Find a lost teacher reference number (TRN)](https://find-a-lost-trn.education.gov.uk/start) service, so we do not need to build it into the service.
 
@@ -157,7 +157,7 @@ We considered allowing users to enter mentors manually, not via a DQT lookup. Ho
 
 ### Including the mentor’s subject when adding a mentor
 
-When a user adds a mentor, we considered also capturing a mentor's subject. This information could help identify appropriate mentors in the ‘Add placement’ journey.
+When a user adds a mentor, we considered also capturing a mentor’s subject. This information could help identify appropriate mentors in the ‘Add placement’ journey.
 
 We will add the mentor’s subject in a future piece of work.
 

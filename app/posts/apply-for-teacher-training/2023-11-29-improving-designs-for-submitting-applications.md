@@ -30,7 +30,7 @@ We also added a green button that says, ‘Review application’ and a link to g
 
 ![Screenshot of a page showing the provider and course the candidate selected. Below this is content telling the candidate they can review and submit their application. This is followed by a green button saying review application](new-review-application-button.png)
 
-We added the review page back and moved the candidate's provider and course choice to the top of the page. This would be the only information that was different for each application, so we wanted this to be the first piece of information candidates see.
+We added the review page back and moved the candidate’s provider and course choice to the top of the page. This would be the only information that was different for each application, so we wanted this to be the first piece of information candidates see.
 
 ![Screenshot showing a page where the candidate can review all the information in their application](new-review-page.png)
 

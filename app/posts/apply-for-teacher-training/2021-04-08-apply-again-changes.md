@@ -21,14 +21,14 @@ We would also like more candidates to edit their application before submitting i
 
 To encourage more candidates to apply again we have:
 
-* edited the apply again emails
-* removed interstitial pages
+- edited the apply again emails
+- removed interstitial pages
 
 To encourage candidates to edit their application we have:
 
-* included all feedback in the dashboard
-* highlighted sections for review
-* put provider feedback about personal statements in context
+- included all feedback in the dashboard
+- highlighted sections for review
+- put provider feedback about personal statements in context
 
 ## Changes in detail
 
@@ -40,8 +40,8 @@ All apply again emails now have consistent content. It is also consistent with t
 
 Previously, when candidates wanted to apply again they had to consider and click through 2 interstitial pages.
 
-* The first confirmed their choice, gave information about the application being copied and references being kept.
-* The second nudged candidates to choose a course, and informed them that they could only apply to one course at a time.
+- The first confirmed their choice, gave information about the application being copied and references being kept.
+- The second nudged candidates to choose a course, and informed them that they could only apply to one course at a time.
 
 We have removed both pages.
 

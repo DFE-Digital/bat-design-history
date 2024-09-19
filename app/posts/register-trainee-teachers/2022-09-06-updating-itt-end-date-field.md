@@ -32,7 +32,7 @@ Combined with ‘ITT start date’, it gives us the duration of the course, and 
 
 For SCITT users the main problems have been that if a trainee is reinstated from deferral, then the ‘ITT end date’ is likely wrong. A provider could update the date themselves, but nothing prompts them to, it’s unlikely they will. This means we cannot give an accurate view of trainees likely to finish this year.
 
-For HESA trainees, HESA previously didn’t collect an end date - they only collected a course duration. We used this duration to infer an end year for a trainee, but there’s lots of ways it could be wrong, and was not likely to get updated if a trainee deferred. For 2022 to 2023 academic year, HESA now asks for ‘Expected end date’ instead, and asks providers to keep it up to date.
+For HESA trainees, HESA previously did not collect an end date - they only collected a course duration. We used this duration to infer an end year for a trainee, but there’s lots of ways it could be wrong, and was not likely to get updated if a trainee deferred. For 2022 to 2023 academic year, HESA now asks for ‘Expected end date’ instead, and asks providers to keep it up to date.
 
 ## Screenshots
 

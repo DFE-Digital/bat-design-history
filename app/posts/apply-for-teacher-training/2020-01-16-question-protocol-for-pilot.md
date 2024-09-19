@@ -1,8 +1,8 @@
 ---
-layout: page
 title: What we ask for and why
-description: A question protocol.
+description: A question protocol
 date: 2020-01-16
+layout: page
 tags:
   - pilot
 ---
@@ -11,12 +11,12 @@ Below is a snapshot of the questions we ask (or intended to ask) candidates for 
 
 > Only add a question if you know:
 >
-> * that you need the information to deliver the service
-> * why you need the information
-> * what you’ll do with it
-> * which users need to give you the information
-> * how you’ll check the information is accurate
-> * how to keep the information up to date and secure
+> - that you need the information to deliver the service
+> - why you need the information
+> - what you’ll do with it
+> - which users need to give you the information
+> - how you’ll check the information is accurate
+> - how to keep the information up to date and secure
 >
 > This list is called a ‘question protocol’ - it’s different from the form itself because it’s about how you’ll use the answers.
 
@@ -194,7 +194,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     accuracy: ["Providers ask for proof of identification"],
     notes: [
       "Ideally this field would be combined with family name into a single field. It’s recorded separately to support legacy student record systems.",
-      "HESA also ask for ‘Immediately prior surname’ to “allow matching of records where a student has changed surname” but we don’t capture this information.",
+      "HESA also ask for ‘Immediately prior surname’ to “allow matching of records where a student has changed surname” but we do not capture this information.",
       "Should we allow changes post-submission?"
     ]
   }
@@ -222,7 +222,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     what: ["Retrievable via API"],
     accuracy: ["Providers ask for proof of identification"],
     notes: [
-      "We need to collect year, but do we need to show it to providers? And if so, at what point? (We currenty don’t show date of birth in the provider interface)."
+      "We need to collect year, but do we need to show it to providers? And if so, at what point? (We currenty do not show date of birth in the provider interface)."
     ]
   }
 }) }}
@@ -247,7 +247,7 @@ Candidates can update these answers before (and 5 working days after) submitting
     accuracy: ["Providers ask for proof of identification"],
     notes: [
       "Candidates may have multiple nationalities (2 or more). We currently account for this in a subsequent question",
-      "A candidate may have no nationality (stateless, refugee). We don’t currently account for this.",
+      "A candidate may have no nationality (stateless, refugee). We do not currently account for this.",
       "A candidate may also have an unknown nationality."
     ]
   }
@@ -263,7 +263,7 @@ Candidates can update these answers before (and 5 working days after) submitting
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
     },
     what: ["Appears in provider-facing interface and retrievable via API"],
-    notes: ["We don’t need to ask for additional nationalities; dual nationals can enter their British or EEA-derived nationality. We currently offer no guidance around this."]
+    notes: ["We do not need to ask for additional nationalities; dual nationals can enter their British or EEA-derived nationality. We currently offer no guidance around this."]
   }
 }) }}
 
@@ -336,11 +336,11 @@ Candidates can update these answers before (and 5 working days after) submitting
     },
     why: [{
       who: [{label: "Candidate", colour: "orange"}],
-      what: "may want to demonstrate language skills, especially if looking to teach a modern language subject or teach in school with children whose main language isn’t English"
+      what: "may want to demonstrate language skills, especially if looking to teach a modern language subject or teach in school with children whose main language is not English"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Assessed at interview"],
-    notes: ["SCITTs/SDs we've recently spoken to haven’t expressed a need for this, but it’s something candidates sometimes like to mention"]
+    notes: ["SCITTs/SDs we’ve recently spoken to haven’t expressed a need for this, but it’s something candidates sometimes like to mention"]
   }
 }) }}
 
@@ -434,7 +434,7 @@ A candidate can update these details at any point during the application process
     ],
     notes: [
       "Do providers actually need an address (and might some candidates not want to be contacted this way)?",
-      "A DBS check requires a five year address history, which we don’t currently ask for"
+      "A DBS check requires a five year address history, which we do not currently ask for"
     ]
   }
 }) }}
@@ -491,7 +491,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"]
+    accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"]
   }
 }) }}
 
@@ -512,8 +512,8 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"],
-    notes: ["The guidance around this question doesn’t account for being self-employed."]
+    accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"],
+    notes: ["The guidance around this question does not account for being self-employed."]
   }
 }) }}
 
@@ -531,7 +531,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"],
+    accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"],
     notes: ["Feedback from HEIs has suggested hours per week is more useful (this is what UCAS asks). We might extend to include details of working pattern for part time jobs."]
   }
 }) }}
@@ -555,7 +555,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"]
+    accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"]
   }
 }) }}
 
@@ -576,7 +576,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"]
+    accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"]
   }
 }) }}
 
@@ -598,7 +598,7 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s suitability"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"]
+    accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"]
   }
 }) }}
 
@@ -620,8 +620,8 @@ Candidates can update their answers before (and 5 working days after) submitting
       what: "uses this to build a picture of a candidate’s background, and answer questions about any gaps in work history"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
-    accuracy: ["We don’t directly, but a reference from an employer may collaborate some of this information"],
-    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we'll include those in the text field too."]
+    accuracy: ["We do not directly, but a reference from an employer may collaborate some of this information"],
+    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we’ll include those in the text field too."]
   }
 }) }}
 
@@ -640,7 +640,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Assessed at interview"],
-    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we'll include those in the text field too."]
+    notes: ["For v1 of the API, any information about breaks will be appended to the above named parameter. When we start collecting date information around breaks, we’ll include those in the text field too."]
   }
 }) }}
 
@@ -763,7 +763,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Reference may collaborate some of this information"],
-    notes: ["We’ve allowed people to include volunteering roles that don't involve kids – this needs to be clearer."]
+    notes: ["We’ve allowed people to include volunteering roles that do not involve kids – this needs to be clearer."]
   }
 }) }}
 
@@ -832,7 +832,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "wants to see that candidate can demonstrate subject and curriculum knowledge at a sufficient level"
     }, {
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to enable “to create the student's DfE record”"
+      what: "requires this to enable “to create the student’s DfE record”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"]
@@ -893,7 +893,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
     },
     why: [{
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to “create the student's DfE record.”"
+      what: "requires this to “create the student’s DfE record.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"]
@@ -915,13 +915,13 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "may be interested in calibre of the institution studied at"
     }, {
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to “create the student's DfE record.”"
+      what: "requires this to “create the student’s DfE record.”"
     }],
     what: ["Retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"],
     notes: [
       "This may be a want, more than a need.",
-      "However, a dance provider mentioned they’d use this information to make sure they didn’t send a trainee teacher to one of the schools they had previously trained at.",
+      "However, a dance provider mentioned they’d use this information to make sure they did not send a trainee teacher to one of the schools they had previously trained at.",
       "Not currently shown to providers."
     ]
   }
@@ -941,7 +941,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
       what: "uses this to perform a [NARIC](https://www.naric.org.uk) check (they need confirmation from a the institution that they’ve actually obtained the degree they say they have)"
     }, {
       who: [{label: "HESA", colour: "turquoise"}],
-      what: "requires this to “create the student's DfE record.”"
+      what: "requires this to “create the student’s DfE record.”"
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["Providers will ask to see hard copies for any qualifications awarded"]
@@ -1111,7 +1111,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
 
 > All accredited ITT providers must ensure that all entrants have achieved a standard equivalent to a grade 4 (see note 2) in the GCSE examinations in English and mathematics.
 
-Providers should look for <q>further evidence of a breadth of achievement in English where applicants have achieved a GCSE grade 4 or above in English literature only</q>. We don’t currently make this distinction in the service.
+Providers should look for <q>further evidence of a breadth of achievement in English where applicants have achieved a GCSE grade 4 or above in English literature only</q>. We do not currently make this distinction in the service.
 
 {{ appProtocol({
   title: "Qualification - type",
@@ -1563,7 +1563,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     }],
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
-    notes: ["Some providers have indicated that they don’t want arranging interviews complicated by candidate's needs/lives. That said, if there are dates the candidate absolutely can't make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
+    notes: ["Some providers have indicated that they do not want arranging interviews complicated by candidate’s needs/lives. That said, if there are dates the candidate absolutely cannot make, what sense is there in offering them an interview? If we continue to ask this question, we should set expectations that providers may ignore any date requests."]
   }
 }) }}
 
@@ -1628,7 +1628,7 @@ Candidates can update their answers before submitting, but not after. If a refer
       "Address format is validated",
       "If email to the nominated referee bounces, we can request correct details from the candidate"
     ],
-    notes: ["Should providers be assessing based on this information? We don’t surface to candidates that they need to submit professional email addresses. How do we accommodate candidates (career changers, people returning to the workplace, etc.) who may struggle to provide such information?"]
+    notes: ["Should providers be assessing based on this information? We do not surface to candidates that they need to submit professional email addresses. How do we accommodate candidates (career changers, people returning to the workplace, etc.) who may struggle to provide such information?"]
   }
 }) }}
 
@@ -1646,7 +1646,7 @@ Candidates can update their answers before submitting, but not after. If a refer
       what: "uses this to validate that reference is from a suitable source"
     }],
     what: ["Appears in support interface. If the referee provides a reference, appears in the provider-facing interface and retrievable via API"],
-    accuracy: ["A referee might be able corroborate (though we don't currently show this information to referees)"]
+    accuracy: ["A referee might be able corroborate (though we do not currently show this information to referees)"]
   }
 }) }}
 
@@ -1687,7 +1687,7 @@ Candidates can update their answers before (and 5 working days after) submitting
     what: ["Appears in provider-facing interface and retrievable via API"],
     accuracy: ["N/A"],
     notes: [
-      "Some HEIs really wanted to see that candidates had clearly stated they didn't have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement.",
+      "Some HEIs really wanted to see that candidates had clearly stated they did not have any criminal convictions, especially if interviews take place at a school. Others do not undertake safeguarding obligations for interview, but prior to placement.",
       "[Trello card - DBS guidance and criminal records checks](https://trello.com/c/InaE3OPE/101)"
     ]
   }
@@ -1695,7 +1695,7 @@ Candidates can update their answers before (and 5 working days after) submitting
 
 ## Equality monitoring
 
-Candidates can update their answers before submitting. We don’t ask these questions again if a candidate returns to edit their application within 5 working day amendment period.
+Candidates can update their answers before submitting. We do not ask these questions again if a candidate returns to edit their application within 5 working day amendment period.
 
 {{ appProtocol({
   title: "Sex",

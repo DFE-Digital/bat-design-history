@@ -103,7 +103,7 @@ The support team user can check their answers at the end of the flow before savi
 
 Adding the user triggers an email to the new user with sign-in details.
 
-If the support team adds the same user to a different organisation, we link the user to the new organisation. We don’t create a new user record.
+If the support team adds the same user to a different organisation, we link the user to the new organisation. We do not create a new user record.
 
 ### Editing a user
 
@@ -121,7 +121,7 @@ The support team user can check their answers at the end of the flow before savi
 
 If the support user changes the user’s email address, we email the new one with sign-in details.
 
-Once the user has signed in to the service for the first time, the support user cannot change the user's first name, last name and email address.
+Once the user has signed in to the service for the first time, the support user cannot change the user’s first name, last name and email address.
 
 ### Removing a user
 

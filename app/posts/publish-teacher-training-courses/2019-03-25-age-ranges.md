@@ -20,9 +20,9 @@ Provide a list of the most common age ranges as published on [ITT criteria and s
 
 > Training must enable trainees to acquire the knowledge and skills they need to teach within the phase for which they are training. Typically training will take place across the following age ranges:
 >
-> * 3 to 7, 5 to 11, or 7 to 11 for primary training
-> * 7 to 14 for middle training
-> * 11 to 16, 11 to 18, or 14 to 19 for secondary training, depending on the subjects of training
+> - 3 to 7, 5 to 11, or 7 to 11 for primary training
+> - 7 to 14 for middle training
+> - 11 to 16, 11 to 18, or 14 to 19 for secondary training, depending on the subjects of training
 >
 > No training programme should cover fewer than 4 school years.
 

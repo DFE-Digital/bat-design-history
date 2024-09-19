@@ -28,4 +28,4 @@ Another benefit of completing the Personal details section first, is that intern
 
 ### Candidates who start their journey on Find
 
-Some candidates will end up choosing a course first because they've come from Find. They'll see the visa warning message when they review their application - or earlier, if they choose more courses after adding their personal details.
+Some candidates will end up choosing a course first because they’ve come from Find. They’ll see the visa warning message when they review their application - or earlier, if they choose more courses after adding their personal details.

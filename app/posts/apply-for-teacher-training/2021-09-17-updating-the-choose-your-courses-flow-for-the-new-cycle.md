@@ -12,7 +12,7 @@ All courses will be on Apply for the 2022 to 2023 cycle. As a result, we needed 
 
 We decided to remove the 'Choose a course first' page that candidates saw when they first logged into Apply.
 
-There's no need for candidates to check if a course is on UCAS before completing their application.
+There’s no need for candidates to check if a course is on UCAS before completing their application.
 
 ![Screenshot of 'Choose a course first' page.](choose-a-course-first-page.png "Choose a course first")
 

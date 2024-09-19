@@ -59,5 +59,5 @@ Some users expected to see the green CTA at the bottom, as they have seen the sa
 
 We will be iterating these designs further, things we want to consider are:
 
-* moving the blue container and button to the top of the ‘Your details’ tab
-* making the link to the ‘Your applications’ tab more prominent
+- moving the blue container and button to the top of the ‘Your details’ tab
+- making the link to the ‘Your applications’ tab more prominent
