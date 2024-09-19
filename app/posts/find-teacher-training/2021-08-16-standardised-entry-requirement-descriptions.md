@@ -6,6 +6,13 @@ tags:
   - entry requirements
 ---
 
+<div class="govuk-inset-text">
+  <p class="govuk-heading-s">
+    These designs have progressed further
+  </p>
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+</div>
+
 Before the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course in a single free text field.
 
 As there is a minimum initial teacher training (ITT) entry requirement across all courses, this led to the standard entry requirements being described in different ways by different providers.

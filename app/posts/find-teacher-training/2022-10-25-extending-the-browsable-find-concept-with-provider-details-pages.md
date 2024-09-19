@@ -21,6 +21,13 @@ screenshots:
       src: course-description.png
 ---
 
+<div class="govuk-inset-text">
+  <p class="govuk-heading-s">
+    These designs have progressed further
+  </p>
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+</div>
+
 We recently did some work to enhance our prototype to explore making Find postgraduate teacher training (Find) more browsable.
 
 As part of this work, we wanted to explore whether there was a benefit to having a dedicated provider page containing information about the provider and the courses they run.
