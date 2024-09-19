@@ -76,6 +76,26 @@ If a user belongs to multiple organisations, each organisation will need to invi
 
 They will not have to choose an organisation if they use a different email address for each organisation.
 
+### In-service error states
+
+If a user has a DfE Sign-in account, they can sign in to the service. However, if we do not recognise their account – for example, their email is not associated with an account in the service – we show a message:
+
+> Ask for an account to manage school placements
+
+If a user has a DfE Sign-in account and we recognise them in the service but they are not linked to an organisation, we show a message:
+
+> Tell us which organisation you’re part of
+>
+> You’ve successfully signed in to your DfE account, but your email address is not currently linked to an organisation. This can happen if:
+>
+> - the email address you used is different to the one we sent the invitation email to
+> - you haven't yet been invited by someone in your organisation
+> - another user in your organisation has removed your account
+>
+> To access your organisation’s placements, ensure you’ve signed in with the correct email address. If it looks right, you’ll need to email us instead to tell us which organisation you need access to.
+
+In both instances, we encourage users to email BAT support.
+
 ## Further considerations
 
 We considered some changes that we did not implement. These included:
