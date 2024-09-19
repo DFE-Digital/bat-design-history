@@ -31,9 +31,9 @@ screenshots:
     - text: Confirm email form with error
       src: dfe-sign-in--confirm-email-error.png
     - text: Create password form
-      src: dfe-sign-in--create-password.png
+      src: dfe-sign-in--create-new-password.png
     - text: Create password form with error
-      src: dfe-sign-in--create-password-error.png
+      src: dfe-sign-in--create-new-password-error.png
     - text: Resend verification code form
       src: dfe-sign-in--resend-verification-code.png
     - text: Resend verification code form with error
@@ -83,8 +83,12 @@ If a user has a DfE Sign-in account, they can sign in to the service. However, i
 > **Ask for an account to claim funding for mentor training**
 >
 > Although you have a DfE Sign-in account, you also need an account for this service.
+>
+> If you think you should have an account, email <ittmentor.funding@education.gov.uk>
 
 If a user has a DfE Sign-in account and we recognise them in the service but they are not linked to an organisation, we show a message:
+
+![Error message when a user account has not been recognised](user-account-not-recognised.png "Error message when a user account has not been recognised")
 
 > **Tell us which organisation you’re part of**
 >
@@ -94,7 +98,11 @@ If a user has a DfE Sign-in account and we recognise them in the service but the
 > - you haven't yet been invited by someone in your organisation
 > - another user in your organisation has removed your account
 >
-> To access your organisation’s placements, ensure you’ve signed in with the correct email address. If it looks right, you’ll need to email us instead to tell us which organisation you need access to.
+> To access your organisation’s claims, ensure you’ve signed in with the correct email address. If it looks right, you’ll need to email us instead to tell us which organisation you need access to.
+>
+> To be added to an organisation, email us at <ittmentor.funding@education.gov.uk>
+
+![Error message when a user account has been recognised, but it is not linked to an organisation](user-account-not-linked-to-an-organisation.png "Error message when a user account has been recognised, but it is not linked to an organisation")
 
 In both instances, we encourage users to email BAT support.
 
