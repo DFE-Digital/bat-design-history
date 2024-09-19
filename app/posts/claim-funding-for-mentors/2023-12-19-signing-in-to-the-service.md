@@ -82,25 +82,26 @@ If a user has a DfE Sign-in account, they can sign in to the service. However, i
 
 > **Ask for an account to claim funding for mentor training**
 >
-> Although you have a DfE Sign-in account, you also need an account for this service.
+> Although you have a DfE Sign-in account, you also need an account on Claim funding for mentor training.
 >
-> If you think you should have an account, email <ittmentor.funding@education.gov.uk>
-
-If a user has a DfE Sign-in account and we recognise them in the service but they are not linked to an organisation, we show a message:
+> If you think you should have an account, email us at [ittmentor.funding@education.gov.uk](mailto:ittmentor.funding@education.gov.uk).
 
 ![Error message when a user account has not been recognised](user-account-not-recognised.png "Error message when a user account has not been recognised")
 
-> **Tell us which organisation you’re part of**
+If a user has a DfE Sign-in account and we recognise them in the service but they are not linked to an organisation, we show a message:
+
+> **You have not been linked to an organisation yet**
 >
-> You’ve successfully signed in to your DfE account, but your email address is not currently linked to an organisation. This can happen if:
+> You’ve successfully signed in to Claim funding for mentor training, but your account has not been linked to an organisation yet.
 >
-> - the email address you used is different to the one we sent the invitation email to
-> - you haven't yet been invited by someone in your organisation
-> - another user in your organisation has removed your account
+> Your account needs to be linked to an organisation so you can use Claim funding for mentor training.
 >
-> To access your organisation’s claims, ensure you’ve signed in with the correct email address. If it looks right, you’ll need to email us instead to tell us which organisation you need access to.
+> To be added to an organisation, email us at [ittmentor.funding@education.gov.uk](mailto:ittmentor.funding@education.gov.uk).
 >
-> To be added to an organisation, email us at <ittmentor.funding@education.gov.uk>
+> In your email tell us:
+>
+> - the email address associated with your Claim funding for mentor training account
+> - which organisation you’d like to be added to
 
 ![Error message when a user account has been recognised, but it is not linked to an organisation](user-account-not-linked-to-an-organisation.png "Error message when a user account has been recognised, but it is not linked to an organisation")
 
