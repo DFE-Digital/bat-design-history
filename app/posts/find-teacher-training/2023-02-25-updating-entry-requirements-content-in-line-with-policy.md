@@ -12,6 +12,13 @@ related:
     - href: /find-teacher-training/including-information-about-subject-knowledge-enhancement-ske-courses/
 ---
 
+<div class="govuk-inset-text">
+  <p class="govuk-heading-s">
+    These designs have progressed further
+  </p>
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+</div>
+
 We needed to make sure that the dynamic content on Find postgraduate teacher training (Find) was accurate following recent initial teacher training (ITT) policy changes.
 
 ## What we changed

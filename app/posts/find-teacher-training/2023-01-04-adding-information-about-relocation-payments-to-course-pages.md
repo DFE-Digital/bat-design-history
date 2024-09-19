@@ -15,9 +15,9 @@ related:
 
 <div class="govuk-inset-text">
   <p class="govuk-heading-s">
-    These designs are no longer live
+    These designs have progressed further
   </p>
-  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> for the latest designs, and <a href="https://www.gov.uk/government/publications/international-relocation-payments/international-relocation-payments">international relocation payments</a> for the latest guidance.
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
 </div>
 
 We needed to add some information for candidates following the introduction of relocation payments for international students. Depending on the subject, candidates may be eligible for a payment of £10,000 from the UK government to help with the financial costs of moving to England.

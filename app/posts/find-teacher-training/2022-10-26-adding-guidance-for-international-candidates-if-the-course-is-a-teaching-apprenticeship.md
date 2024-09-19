@@ -13,9 +13,9 @@ screenshots:
 
 <div class="govuk-inset-text">
   <p class="govuk-heading-s">
-    These designs are no longer live
+    These designs have progressed further
   </p>
-  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> for the latest designs.
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
 </div>
 
 Course descriptions on Find postgraduate teacher training (Find) include a section called ‘International candidates’. This section outlines what international candidates need to be able to undertake the course, such as visa requirements.

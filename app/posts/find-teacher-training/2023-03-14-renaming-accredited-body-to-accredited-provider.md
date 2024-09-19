@@ -19,6 +19,13 @@ eleventyComputed:
     key: find-renaming-accredited-body-to-accredited-provider
 ---
 
+<div class="govuk-inset-text">
+  <p class="govuk-heading-s">
+    These designs have progressed further
+  </p>
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+</div>
+
 We replaced the term ‘accredited body’ with ‘accredited provider’ to reflect how we talk about providers internally and externally.
 
 ## What we changed

@@ -6,6 +6,13 @@ tags:
   - school placements
 ---
 
+<div class="govuk-inset-text">
+  <p class="govuk-heading-s">
+    These designs have progressed further
+  </p>
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+</div>
+
 The content that appears below the ‘Locations’ subheading in the ‘School placements’ section on course pages had the potential to be misleading for some candidates.
 
 When a provider assigns locations to a course, we display a table listing the locations and their vacancies. We show a line of content above the table, letting the candidate know they can select one of the locations when they apply.

@@ -21,9 +21,9 @@ related:
 
 <div class="govuk-inset-text">
   <p class="govuk-heading-s">
-    These designs are no longer live
+    These designs have progressed further
   </p>
-  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> for the latest designs.
+  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
 </div>
 
 We previously added an [‘International students’ section](/find-teacher-training/new-international-students-section/) to help candidates from outside the UK get the information they need. This includes letting them know whether visa sponsorship is available for a course.
