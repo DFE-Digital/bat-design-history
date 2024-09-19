@@ -31,9 +31,9 @@ screenshots:
     - text: Confirm email form with error
       src: dfe-sign-in--confirm-email-error.png
     - text: Create password form
-      src: dfe-sign-in--create-password.png
+      src: dfe-sign-in--create-new-password.png
     - text: Create password form with error
-      src: dfe-sign-in--create-password-error.png
+      src: dfe-sign-in--create-new-password-error.png
     - text: Resend verification code form
       src: dfe-sign-in--resend-verification-code.png
     - text: Resend verification code form with error
@@ -82,19 +82,28 @@ If a user has a DfE Sign-in account, they can sign in to the service. However, i
 
 > **Ask for an account to manage school placements**
 >
-> Although you have a DfE Sign-in account, you also need an account for this service.
+> Although you have a DfE Sign-in account, you also need an account on Manage school placements.
+>
+> If you think you should have an account, email us at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk).
+
+![Error message when a user account has not been recognised](user-account-not-recognised.png "Error message when a user account has not been recognised")
 
 If a user has a DfE Sign-in account and we recognise them in the service but they are not linked to an organisation, we show a message:
 
-> **Tell us which organisation you’re part of**
+> **You have not been linked to an organisation yet**
 >
-> You’ve successfully signed in to your DfE account, but your email address is not currently linked to an organisation. This can happen if:
+> You’ve successfully signed in to Manage school placements, but your account has not been linked to an organisation yet.
 >
-> - the email address you used is different to the one we sent the invitation email to
-> - you haven't yet been invited by someone in your organisation
-> - another user in your organisation has removed your account
+> Your account needs to be linked to an organisation so you can use Manage school placements.
 >
-> To access your organisation’s placements, ensure you’ve signed in with the correct email address. If it looks right, you’ll need to email us instead to tell us which organisation you need access to.
+> To be added to an organisation, email us at [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk).
+>
+> In your email tell us:
+>
+> - the email address associated with your Manage school placements account
+> - which organisation you’d like to be added to
+
+![Error message when a user account has been recognised, but it is not linked to an organisation](user-account-not-linked-to-an-organisation.png "Error message when a user account has been recognised, but it is not linked to an organisation")
 
 In both instances, we encourage users to email BAT support.
 
