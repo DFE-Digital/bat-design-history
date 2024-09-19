@@ -76,7 +76,6 @@ If a user belongs to multiple organisations, each organisation will need to invi
 
 They will not have to choose an organisation if they use a different email address for each organisation.
 
-
 ### In-service error states
 
 If a user has a DfE Sign-in account, they can sign in to the service. However, if we do not recognise their account – for example, their email is not associated with an account in the service – we show a message:
