@@ -31,9 +31,9 @@ screenshots:
     - text: Confirm email form with error
       src: dfe-sign-in--confirm-email-error.png
     - text: Create password form
-      src: dfe-sign-in--create-password.png
+      src: dfe-sign-in--create-new-password.png
     - text: Create password form with error
-      src: dfe-sign-in--create-password-error.png
+      src: dfe-sign-in--create-new-password-error.png
     - text: Resend verification code form
       src: dfe-sign-in--resend-verification-code.png
     - text: Resend verification code form with error
