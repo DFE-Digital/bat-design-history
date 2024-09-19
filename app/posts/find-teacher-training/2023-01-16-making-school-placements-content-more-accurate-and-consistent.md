@@ -6,12 +6,9 @@ tags:
   - school placements
 ---
 
-<div class="govuk-inset-text">
-  <p class="govuk-heading-s">
-    These designs have progressed further
-  </p>
-  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
-</div>
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 The content that appears below the ‘Locations’ subheading in the ‘School placements’ section on course pages had the potential to be misleading for some candidates.
 

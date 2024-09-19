@@ -21,12 +21,9 @@ screenshots:
       src: course-description.png
 ---
 
-<div class="govuk-inset-text">
-  <p class="govuk-heading-s">
-    These designs have progressed further
-  </p>
-  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
-</div>
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 We recently did some work to enhance our prototype to explore making Find postgraduate teacher training (Find) more browsable.
 

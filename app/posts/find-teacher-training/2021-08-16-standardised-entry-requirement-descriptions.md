@@ -6,12 +6,9 @@ tags:
   - entry requirements
 ---
 
-<div class="govuk-inset-text">
-  <p class="govuk-heading-s">
-    These designs have progressed further
-  </p>
-  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
-</div>
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 Before the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course in a single free text field.
 

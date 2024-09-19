@@ -11,12 +11,9 @@ screenshots:
       src: course-description--international-candidates-and-apprenticeships.png
 ---
 
-<div class="govuk-inset-text">
-  <p class="govuk-heading-s">
-    These designs have progressed further
-  </p>
-  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
-</div>
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 Course descriptions on Find postgraduate teacher training (Find) include a section called ‘International candidates’. This section outlines what international candidates need to be able to undertake the course, such as visa requirements.
 

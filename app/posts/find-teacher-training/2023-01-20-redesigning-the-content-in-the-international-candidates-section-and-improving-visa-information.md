@@ -13,12 +13,9 @@ related:
     - href: /publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/
 ---
 
-<div class="govuk-inset-text">
-  <p class="govuk-heading-s">
-    These designs have progressed further
-  </p>
-  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
-</div>
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 After several iterations and additions to the ‘International candidates’ section, we decided to review the content to ensure it flowed well, and the conditional statements were correct. We also wanted to improve the content about visa sponsorship to make it clearer if visas can be sponsored or not, as we now have this information at a course level.
 
