@@ -25,7 +25,7 @@ screenshots:
   <p class="govuk-heading-s">
     These designs have progressed further
   </p>
-  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
 </div>
 
 We recently did some work to enhance our prototype to explore making Find postgraduate teacher training (Find) more browsable.

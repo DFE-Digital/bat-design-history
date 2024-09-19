@@ -17,7 +17,7 @@ screenshots:
   <p class="govuk-heading-s">
     These designs have progressed further
   </p>
-  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
 </div>
 
 We’ve started looking at how to improve the experience for non-UK based candidates applying for postgraduate teacher training. As part of this, we reviewed the information on course pages.

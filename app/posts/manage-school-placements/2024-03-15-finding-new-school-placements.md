@@ -44,8 +44,8 @@ screenshots:
 
 In Alpha, we ran two experiments to understand how ITT providers might find school placements:
 
-- [Experiment 1b: Finding school placements if you’re an ITT provider](https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/experiment-1-finding-school-placements-if-youre-an-itt-provider/)
-- [Experiment 2b: Iterating what we show to ITT providers when they search for school placements](https://becoming-a-teacher.design-history.education.gov.uk/manage-school-placements/experiment-2-iterating-what-we-show-to-itt-providers-when-they-search-for-school-placements/)
+- [Experiment 1b: Finding school placements if you’re an ITT provider](/manage-school-placements/experiment-1-finding-school-placements-if-youre-an-itt-provider/)
+- [Experiment 2b: Iterating what we show to ITT providers when they search for school placements](/manage-school-placements/experiment-2-iterating-what-we-show-to-itt-providers-when-they-search-for-school-placements/)
 
 Based on these experiments, we refined the journey for ITT providers to find placements in Manage school placements (Placements).
 

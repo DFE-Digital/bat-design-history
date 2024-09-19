@@ -10,7 +10,7 @@ tags:
   <p class="govuk-heading-s">
     These designs have progressed further
   </p>
-  Go to <a href="https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
+  Go to <a href="/find-teacher-training/improving-course-pages/?">improving how candidates view course information and compare courses</a> - 18 June 2024.
 </div>
 
 Before the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course in a single free text field.
