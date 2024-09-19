@@ -81,6 +81,8 @@ They will not have to choose an organisation if they use a different email addre
 If a user has a DfE Sign-in account, they can sign in to the service. However, if we do not recognise their account – for example, their email is not associated with an account in the service – we show a message:
 
 > Ask for an account to manage school placements
+>
+> Although you have a DfE Sign-in account, you also need an account for this service.
 
 If a user has a DfE Sign-in account and we recognise them in the service but they are not linked to an organisation, we show a message:
 
