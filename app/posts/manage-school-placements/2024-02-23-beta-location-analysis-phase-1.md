@@ -37,16 +37,16 @@ We structured the analysis into four parts:
 
 1. Shortlisting
 
-  - identifying the location of our users​
-  - identifying areas with ‘high value’ users​
+- identifying the location of our users​
+- identifying areas with ‘high value’ users​
 
-2.  Representativeness​
+2. Representativeness​
 
-  - assessing how representative of the placement school population our shortlisted areas are​
+- assessing how representative of the placement school population our shortlisted areas are​
 
-3.  Expansion of shortlisted areas​
+3. Expansion of shortlisted areas​
 
-  - assessing the potential for improving the representativeness of our sample area by expanding to a second region​
+- assessing the potential for improving the representativeness of our sample area by expanding to a second region​
 
 4. Implications of selected area
 
@@ -225,8 +225,6 @@ We have decided this is acceptable because our priority is successfully launchin
 
 If evidence suggests our service will operate differently in rural areas, we could extend this analysis to include a secondary rural area.
 
-
 <!-- https://educationgovuk.sharepoint.com.mcas.ms/:p:/r/sites/lvesta00013/_layouts/15/Doc.aspx?sourcedoc=%7B0D978D91-8D07-4776-B01B-A4E9AD73FD3F%7D&file=Beta%20Sample%20Analysis%20Results%20Deck.pptx&action=edit&mobileredirect=true
-
 
 https://educationgovuk-my.sharepoint.com.mcas.ms/personal/grace_verghis_education_gov_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fgrace%5Fverghis%5Feducation%5Fgov%5Fuk%2FDocuments%2FRecordings%2FSchool%20Placements%20Beta%20Sample%20Analysis%2D20240223%5F110434%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E62b2d2c5%2D84b1%2D457e%2D9c84%2D25f3e7d5602f -->
