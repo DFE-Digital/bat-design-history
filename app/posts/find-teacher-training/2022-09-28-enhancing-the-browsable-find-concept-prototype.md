@@ -29,6 +29,10 @@ screenshots:
       src: browse-concept--results-secondary-england.png
 ---
 
+> **These designs were not built**
+>
+> See [further considerations](/find-teacher-training/enhancing-the-browsable-find-concept-prototype/#further-considerations).
+
 In May, we did some work to [explore making Find postgraduate teacher training (Find) more browsable](/find-teacher-training/making-the-service-more-browseable/). This included some alternative designs for the initial flow of the service.
 
 Our user research found that candidates responded positively to the concept during this initial work. However, we felt that more research and some iterations were needed before committing to such a significant change.

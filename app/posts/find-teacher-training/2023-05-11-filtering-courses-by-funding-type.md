@@ -16,6 +16,10 @@ related:
       href: https://www.gov.uk/government/publications/postgraduate-teaching-apprenticeships-funding-manual
 ---
 
+> **These designs were not built**
+>
+> To progress these designs, it's suggested below to test this filter in user research to see if candidates understand what a salaried teaching apprenticeship course is at this stage in their journey to becoming a teacher.
+
 We currently have a ‘Salary’ filter that allows candidates to tick a box to ‘Only show courses with a salary’. The policy team identified the need for candidates to see which salaried courses are ‘Teaching apprenticeships’.
 
 We are exploring the idea of allowing candidates to filter more specifically by fee paying courses, salaried courses and salaried teaching apprenticeship courses.

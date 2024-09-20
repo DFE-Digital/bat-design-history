@@ -21,9 +21,9 @@ screenshots:
       src: course-description.png
 ---
 
-> **These designs have progressed further**
+> **These designs were not built**
 >
-> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+> For more recent exploration, go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 We recently did some work to enhance our prototype to explore making Find postgraduate teacher training (Find) more browsable.
 
