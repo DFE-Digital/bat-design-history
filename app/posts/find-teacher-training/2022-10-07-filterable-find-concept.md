@@ -21,6 +21,10 @@ screenshots:
       src: filter-concept--results-list-filtered-with-search-term.png
 ---
 
+> **Some of these designs were not built**
+>
+> For example, adding the subject filter and the provider search above the results list.
+
 In the current Find postgraduate teacher training (Find) service, users are given a series of questions to answer before getting to the search results page. In the [browse concept](/find-teacher-training/enhancing-the-browse-concept-prototype/) we have been developing, users reach the search results page by clicking links.
 
 To help test the validity of these two journeys, we built a prototype that removed the need for the question and link pages, and focused the user on a complete list of courses, which they can search and filter.

@@ -10,6 +10,10 @@ ogImage:
   alt: Diagram showing previous flow using radio buttons and checkboxes, and new flow using buttons and links
 ---
 
+> **These designs were not built**
+>
+> See [further work](/find-teacher-training/making-the-service-more-browseable/#further-work).
+
 ![Diagram showing previous flow using radio buttons and checkboxes, and new flow using buttons and links](flow-update.png "")
 
 We explored some alternative designs for the initial flow of the service, with the aim to make more of a browsing experience.

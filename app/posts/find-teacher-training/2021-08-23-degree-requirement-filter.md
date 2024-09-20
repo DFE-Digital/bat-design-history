@@ -7,6 +7,10 @@ tags:
   - filters
 ---
 
+> **These designs were not built**
+>
+> See [Next steps](/find-teacher-training/degree-requirement-filter/#next-steps).
+
 In the 2021 to 2022 cycle, providers often rejected candidates because their degree classification did not meet the minimum required for the course. For example, the candidates may have a 2:2 degree, but the course required a 2:1 or above.
 
 Whilst this requirement was described on course pages as part of the entry requirements, candidates may have missed this.
