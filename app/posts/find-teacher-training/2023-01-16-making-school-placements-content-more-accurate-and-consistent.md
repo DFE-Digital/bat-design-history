@@ -6,6 +6,10 @@ tags:
   - school placements
 ---
 
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+
 The content that appears below the ‘Locations’ subheading in the ‘School placements’ section on course pages had the potential to be misleading for some candidates.
 
 When a provider assigns locations to a course, we display a table listing the locations and their vacancies. We show a line of content above the table, letting the candidate know they can select one of the locations when they apply.

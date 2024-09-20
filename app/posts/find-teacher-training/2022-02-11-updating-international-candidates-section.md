@@ -19,10 +19,9 @@ related:
       href: /find-teacher-training/new-international-students-section/
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "**These designs are no longer live**. Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) for the latest designs." | markdown("inline")
-}) }}
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 We previously added an [‘International students’ section](/find-teacher-training/new-international-students-section/) to help candidates from outside the UK get the information they need. This includes letting them know whether visa sponsorship is available for a course.
 

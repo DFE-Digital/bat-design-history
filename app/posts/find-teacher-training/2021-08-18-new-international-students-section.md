@@ -13,10 +13,9 @@ screenshots:
       src: unable-to-sponsor-visas.png
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "**These designs are no longer live**. Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) for the latest designs." | markdown("inline")
-}) }}
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 We’ve started looking at how to improve the experience for non-UK based candidates applying for postgraduate teacher training. As part of this, we reviewed the information on course pages.
 

@@ -13,10 +13,9 @@ related:
       href: https://getintoteaching.education.gov.uk/non-uk-teachers/train-to-teach-in-england-as-an-international-student
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "**These designs are no longer live**. Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) for the latest designs and [international relocation payments](https://www.gov.uk/government/publications/international-relocation-payments/international-relocation-payments) for the latest guidance." | markdown("inline")
-}) }}
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
 
 We needed to add some information for candidates following the introduction of relocation payments for international students. Depending on the subject, candidates may be eligible for a payment of £10,000 from the UK government to help with the financial costs of moving to England.
 

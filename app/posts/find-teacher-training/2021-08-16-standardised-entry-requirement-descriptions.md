@@ -6,6 +6,10 @@ tags:
   - entry requirements
 ---
 
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+
 Before the 2022 to 2023 cycle, providers were asked to describe the academic qualification entry requirements for each course in a single free text field.
 
 As there is a minimum initial teacher training (ITT) entry requirement across all courses, this led to the standard entry requirements being described in different ways by different providers.

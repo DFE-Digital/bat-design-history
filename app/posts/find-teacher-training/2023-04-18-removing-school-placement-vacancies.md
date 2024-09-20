@@ -11,6 +11,10 @@ related:
       href: /publish-teacher-training-courses/updating-course-vacancies/
 ---
 
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+
 When a provider publishes a course, they can list all the schools where a candidate can gain experience. Previously, this list also showed whether there was a vacancy at the school.
 
 The vacancy status was a simple ‘yes’ or ‘no’ and required the provider to keep the course current.

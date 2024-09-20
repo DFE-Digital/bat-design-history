@@ -11,6 +11,10 @@ related:
     - href: /find-teacher-training/removing-school-placement-vacancies/
 ---
 
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+
 There were several content inaccuracies in Find postgraduate teacher training (Find). This meant we needed to update:
 
 - the content above the list of school placements

@@ -12,6 +12,10 @@ related:
     - href: /find-teacher-training/including-information-about-subject-knowledge-enhancement-ske-courses/
 ---
 
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+
 We needed to make sure that the dynamic content on Find postgraduate teacher training (Find) was accurate following recent initial teacher training (ITT) policy changes.
 
 ## What we changed

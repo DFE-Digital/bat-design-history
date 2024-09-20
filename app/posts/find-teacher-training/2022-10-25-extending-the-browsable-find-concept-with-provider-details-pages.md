@@ -21,6 +21,10 @@ screenshots:
       src: course-description.png
 ---
 
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+
 We recently did some work to enhance our prototype to explore making Find postgraduate teacher training (Find) more browsable.
 
 As part of this work, we wanted to explore whether there was a benefit to having a dedicated provider page containing information about the provider and the courses they run.

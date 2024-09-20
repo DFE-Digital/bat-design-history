@@ -11,6 +11,10 @@ related:
     - href: /publish-teacher-training-courses/improving-how-providers-add-schools/
 ---
 
+> **These designs have progressed further**
+>
+> Go to [improving how candidates view course information and compare courses](/find-teacher-training/improving-course-pages/) - 18 June 2024.
+
 We recently updated Publish teacher training courses (Publish), changing ‘locations’ to ‘schools’. We wanted to reflect this change in Find postgraduate teacher training (Find).
 
 In a course’s ‘School placements’ section, we have replaced ‘locations’ with ‘schools’.

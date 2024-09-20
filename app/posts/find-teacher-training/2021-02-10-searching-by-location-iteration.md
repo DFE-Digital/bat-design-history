@@ -5,6 +5,7 @@ date: 2021-02-10
 tags:
   - search
   - locations
+  - filters
 ---
 
 Having conducted a design review on [the original design](/find-teacher-training/searching-by-location), we made a number of changes:
