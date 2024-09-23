@@ -43,7 +43,7 @@ Dear ((name))
 
 # Set up organisational permissions for your teacher training courses
 
-Candidates can now apply through GOV.​UK for the courses you work on with:
+Candidates can now apply through GOV.UK for the courses you work on with:
 
 - Ashlawn Teaching School
 - The Beauchamp Lionheart Training Partnership

@@ -78,7 +78,7 @@ We found that:
 - participants would refer to the progress report throughout, but particularly at the end of a recruitment cycle
 - it was not always easy for participants to pull out information quickly from the progress report
 - there was a need to see where candidates left the application process
-- ​​showing numbers of applications in the progress report helped participants to understand it, to an extent
+- showing numbers of applications in the progress report helped participants to understand it, to an extent
 
 ### The name ‘reports’
 

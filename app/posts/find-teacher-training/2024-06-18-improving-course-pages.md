@@ -25,20 +25,20 @@ screenshots:
 
 Previous research conducted in February 2022 found that:
 
-- candidates find the course pages are long and feel overwhelming​.
-- course information is often very similar, making it hard for candidates to know which are right for them​
+- candidates find the course pages are long and feel overwhelming.
+- course information is often very similar, making it hard for candidates to know which are right for them
 
 Some commented that they would prefer for the pages to contain only key points, and to be formatted in a way that allows for quick scans, for example with bullet points.
 
 > A career changer found the course page to be "quite tiring" to read, particularly while juggling work and other commitments, and wanted something that "supports me" in getting the information quickly.
 
-It’s not clear what is the role of Find vs providers’ websites​​, and how they should be using each; and for some candidates it becomes a game of ‘spot the difference’.​
+It’s not clear what is the role of Find vs providers’ websites, and how they should be using each; and for some candidates it becomes a game of ‘spot the difference’.
 
 > A career changer said they wouldn’t use this page as the sole method for researching, and would likely "look at the provider’s website instead."
 
-Some proposed an accordion structure so that they’re less overwhelmed by the sheer amount of text.​
+Some proposed an accordion structure so that they’re less overwhelmed by the sheer amount of text.
 
-Most course pages look fairly identical, so candidates look for small differentiating factors that might win them over.​
+Most course pages look fairly identical, so candidates look for small differentiating factors that might win them over.
 
 > A recent graduate found the course pages "very samey" and said it was hard to tell the difference between courses.
 

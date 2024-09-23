@@ -46,7 +46,7 @@ We also created an email explaining what we wanted users to do. It asked them to
 
 Dear Andrew
 
-Some teacher training courses accredited by Southport University are not available through GOV.​UK.
+Some teacher training courses accredited by Southport University are not available through GOV.UK.
 
 This is because each School Direct partner needs to set up an online account before their courses become available.
 
@@ -67,7 +67,7 @@ The spreadsheet may indicate that you do not need to give contact details for so
 
 We’ll send invitations to the people whose details you gave.
 
-The courses you accredit will be made available for applications through GOV.​UK once the partner sets up an account.
+The courses you accredit will be made available for applications through GOV.UK once the partner sets up an account.
 
 # Help and support
 

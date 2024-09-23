@@ -7,7 +7,7 @@ tags:
 screenshots:
   items:
     - text: Prompt
-      caption: The feedback prompt sits just above the footer. Unlike the component used on GOV.​UK, the background is grey to lessen its prominence.
+      caption: The feedback prompt sits just above the footer. Unlike the component used on GOV.UK, the background is grey to lessen its prominence.
     - text: Feedback form
       caption: If a user selects ‘No’, a feedback form is revealed. This asks for a free text response, and allows users to provide an email address to contact them with, too.
     - text: Report a problem form
