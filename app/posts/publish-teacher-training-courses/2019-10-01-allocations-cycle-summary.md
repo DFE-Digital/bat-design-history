@@ -170,7 +170,7 @@ DfE will use the information submitted during the request period to check that a
 
 ### Additional information
 
-A full list of courses (subjects and routes) and their categories is available at Annex A of the ITT Allocations Methodology for 2020 to 2021, which is now available on [GOV.​UK](https://www.gov.uk/government/publications/requesting-initial-teacher-training-places-2020-to-2021). Please read this document in full, as it contains important information on permission to recruit and allocating places for the ITT2020 recruitment cycle.
+A full list of courses (subjects and routes) and their categories is available at Annex A of the ITT Allocations Methodology for 2020 to 2021, which is now available on [GOV.UK](https://www.gov.uk/government/publications/requesting-initial-teacher-training-places-2020-to-2021). Please read this document in full, as it contains important information on permission to recruit and allocating places for the ITT2020 recruitment cycle.
 
 If you did not provide any course information during the request period in July, but wish to run a course beginning in ITT2020, you should contact [ITT.allocations@education.gov.uk immediately](mailto:ITT.allocations@education.gov.uk) to request permission to recruit.
 

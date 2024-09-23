@@ -1,6 +1,6 @@
 ---
 title: Measuring the success of a school placements service
-description: Thoughts on ​​service key performance indicators (KPIs)
+description: Thoughts on service key performance indicators (KPIs)
 date: 2023-09-28
 tags:
   - school placements

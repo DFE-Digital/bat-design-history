@@ -7,7 +7,7 @@ tags:
 screenshots:
   items:
     - text: Prompt
-      caption: The feedback prompt appears below any question or page content. Unlike the component used on GOV.​UK, the background is grey to lessen its prominence.
+      caption: The feedback prompt appears below any question or page content. Unlike the component used on GOV.UK, the background is grey to lessen its prominence.
     - text: Feedback form
       caption: If a candidate selects ‘Yes’, a feedback form is revealed. This provides three structured responses and a text area to add a free text response.
     - text: Success message
@@ -30,11 +30,11 @@ As the volume of users applying on the service increases from ~10% to 100% of te
 
 We already ask for feedback once candidates submit an application, but some never submit. Others use the service for months before – and after – they submit. We need a way to collect feedback at other points along the journey.
 
-GOV.​UK uses a component that may help us achieve this. The [feedback component](https://components.publishing.service.gov.uk/component-guide/feedback). It is designed to sit just above the footer invites user feedback on the current page:
+GOV.UK uses a component that may help us achieve this. The [feedback component](https://components.publishing.service.gov.uk/component-guide/feedback). It is designed to sit just above the footer invites user feedback on the current page:
 
 ![Screenshot of a banner informing candidates of the upcoming deadline for applications.](govuk-component.png)
 
-Pages on GOV.​UK tend to revolve around guidance, whereas many pages within our service tend to be form-based. However, we can adapt this component by using a prompt question that works better given the context of a section within a form.
+Pages on GOV.UK tend to revolve around guidance, whereas many pages within our service tend to be form-based. However, we can adapt this component by using a prompt question that works better given the context of a section within a form.
 
 We can also update the design so that it’s not as prominent on pages, where the question should have focus.
 

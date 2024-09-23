@@ -53,12 +53,12 @@ In June 2022, a discovery focused on ensuring that schools and mentors can effec
 
 One of the agreed recommendations was to run an Alpha phase to define the core feature set of the funding system to facilitate payment of the general mentor grant to placement schools.
 
-The agreed recommendation was to run a 16-week Alpha​ building on the discovery to conduct direct research and develop options.
+The agreed recommendation was to run a 16-week Alpha building on the discovery to conduct direct research and develop options.
 
-​The initial options identified to explore include​:
+The initial options identified to explore include:
 
-- developing claims-based processes for schools​
-- expanding current services such as Register trainee teachers or Continuing professional development (CPD) to enable ITT mentor tracking – and passing data to the Education and Skills Funding Agency (ESFA) to pay schools​
+- developing claims-based processes for schools
+- expanding current services such as Register trainee teachers or Continuing professional development (CPD) to enable ITT mentor tracking – and passing data to the Education and Skills Funding Agency (ESFA) to pay schools
 - creating a bespoke end-to-end service
 
 ## A bespoke claim form

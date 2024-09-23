@@ -45,7 +45,7 @@ We use accredited provider data from Publish teacher training courses and displa
 
 We display the accredited provider name and UKPRN or URN for each provider in the list. This information allows users to choose correctly from similarly named providers.
 
-​​If the user does not enter an accredited provider name, UKPRN, URN or postcode before submitting the page, we show the error message:
+If the user does not enter an accredited provider name, UKPRN, URN or postcode before submitting the page, we show the error message:
 
 > Enter an accredited provider name, UKPRN, URN or postcode
 

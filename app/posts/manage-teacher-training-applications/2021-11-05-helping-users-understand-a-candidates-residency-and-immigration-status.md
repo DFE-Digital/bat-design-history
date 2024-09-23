@@ -108,4 +108,4 @@ We will not include responses that are given only so that a candidate can enter 
 
 Candidates were previously asked to enter an ‘address’. They are now asked to enter a ‘contact address’.
 
-​​​​This is to make it clearer that the address may not be their permanent home address. It should not be used when considering where a candidate is resident or making an assessment of their fee status.
+This is to make it clearer that the address may not be their permanent home address. It should not be used when considering where a candidate is resident or making an assessment of their fee status.
