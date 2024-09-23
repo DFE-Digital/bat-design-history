@@ -28,29 +28,29 @@ We considered 2 approaches for expanding the sample area:​
 
 The advantage of expanding into an adjacent local area is that it streamlines expansion by utilising onboarded provider-school networks.​
 
-The drawback of expanding into an adjacent local area is that the surrounding areas are heavily urban so give limited improvement in rural-urban representativeness.​
+The drawback of expanding into an adjacent local area is that the surrounding areas are heavily urban, so there is limited improvement in rural-urban representativeness.​
 
 ### Expanding into a separate rural region​
 
-The advantage of expanding into a separate rural region is that there is a potential to diversify and improve rural-urban classification representativeness.​
+Expanding into a separate rural region has the advantage of potentially diversifying and improving rural-urban classification representativeness.​
 
-The drawback of expanding into a separate rural region is that it increases resources required to onboard a new area.
+The drawback of expanding into a separate rural region is that it increases the resources required to onboard a new area.
 
 ## Focus on expanding into an adjacent local area
 
 We decided to focus on expanding to an adjacent local area.
 
-Engaging with local ecosystems critical for a successful beta. By engaging with an adjacent local area we can expand within the same networks that are already using the service. ​
+Engaging with local ecosystems is critical for a successful beta. By engaging with an adjacent local area, we can expand within the same networks that are already using the service. ​
 
-​Our strategy will be to target the networks of current provider partners (providers located in our beta sample region). This will help target our extension into areas within existing service user networks and optimises our chances of success by building on proven relationships.​
+​Our strategy will be to target the networks of current provider partners (providers located in our beta sample region). This will help us target our extension into areas within existing service user networks and optimise our chances of success by building on proven relationships.​
 
-Future expansion into a rural areas will be explored if evidence suggests rural schools will interact differently with our service.
+If evidence suggests rural schools will interact differently with our service, future expansion into rural areas will be explored.
 
-## Birmingham based providers expanded network
+## Birmingham-based providers expanded network
 
-In general, providers in Birmingham operate across a wide area. This will be partially influenced by the way in which we have classified the location of SCITTs as some regional providers have the most placement school partners in Birmingham. ​
+In general, providers in Birmingham operate across a wide area. This will be partially influenced by how we have classified the location of SCITTs, as some regional providers have the most placement school partners in Birmingham. ​
 
-​Upon investigation of the potential of these areas to improve the representativeness of Birmingham, Sandwell was chosen as the most appropriate region. This is because Staffordshire placement schools had similar characteristics to Birmingham.
+​Upon investigating the potential of these areas to improve Birmingham's representativeness, Sandwell was chosen as the most appropriate region. Staffordshire placement schools had similar characteristics to Birmingham.
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ In general, providers in Birmingham operate across a wide area. This will be par
 
 ### Birmingham and Sandwell
 
-Including both Birmingham and Sandwell in the sample area does not improve the representativeness of any characteristics compared to Birmingham alone. The large placement school population in Birmingham is likely a key factor in this result as it will require a large contrasting placement school population to meaningfully improve the representativeness. If Birmingham is chosen, multiple areas should be considered for expansion.
+Including both Birmingham and Sandwell in the sample area does not improve the representativeness of any characteristics compared to Birmingham alone. Birmingham's large placement school population is likely a critical factor in this result, as it will require a sizeable contrasting placement school population to improve the representativeness meaningfully. If we choose Birmingham, we should consider multiple areas for expansion.
 
 | Characteristic | Representative across all categories | Representative across categories of interest |
 | --- | --- | --- |
@@ -78,11 +78,11 @@ Including both Birmingham and Sandwell in the sample area does not improve the r
 | Ofsted rating | No | No |
 | Religious character | No | No |
 
-## Leeds based providers expanded network
+## Leeds-based providers expanded network
 
-All the providers located in Leeds also operate in ‘Bradford’ and ‘Calderdale and Kirklees’ so these are both good options for a second region. ​
+All the providers in Leeds also operate in Bradford, Calderdale, and Kirklees, so these are both excellent options for a second region. ​
 
-​Bradford has a large number of placement schools that are ‘Academies’ so this region has the best potential to improve the representativeness of the Leeds Placement schools. ​
+​Bradford has many placement schools that are ‘Academies’, so this region has the best potential to improve the representativeness of the Leeds Placement schools. ​
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
@@ -99,9 +99,9 @@ All the providers located in Leeds also operate in ‘Bradford’ and ‘Calderd
 
 ### Leeds and Bradford
 
-Including both Leeds and Bradford in the sample area makes ‘Establishment type’ more representative of the wider placement school population. However, this area is not representative on ‘Phase of education’ or ‘Percentage free school meals’. ​
+Including both Leeds and Bradford in the sample area makes the ‘Establishment type’ more representative of the wider placement school population. However, this area is not representative of the ‘Phase of education’ or ‘Percentage of free school meals’. ​
 
-Therefore, whilst this area does not improve the overall representativeness of the sample, it could be useful if a larger sample of ‘Academies’ is required for targeted analysis.
+Therefore, whilst this area does not improve the overall representativeness of the sample, it could be helpful if a larger sample of ‘Academies’ is required for targeted analysis.
 
 | Characteristic | Representative across all categories | Representative across categories of interest |
 | --- | --- | --- |
@@ -113,9 +113,9 @@ Therefore, whilst this area does not improve the overall representativeness of t
 | Ofsted rating | Yes | Yes |
 | Religious character | Yes | Yes |
 
-## Tyneside based providers expanded network
+## Tyneside-based providers expanded network
 
-6 of the providers located in Tyneside are also operating in Northumberland and Durham. ​
+6 of the providers in Tyneside also operate in Northumberland and Durham. ​
 
 Both have similar characteristics, although Northumberland has a better distribution of rural-urban classification.
 
@@ -134,7 +134,7 @@ Both have similar characteristics, although Northumberland has a better distribu
 
 ### Tyneside and Northumberland
 
-Including both Tyneside and Northumberland in the sample area does not improve the representativeness of any characteristics compared to Tyneside alone. All the surrounding regions to Tyneside share similar placement school characteristics.
+Including Tyneside and Northumberland in the sample area does not improve the representativeness of any characteristics compared to Tyneside alone. All the surrounding regions of Tyneside share similar placement school characteristics.
 
 | Characteristic | Representative across all categories | Representative across categories of interest |
 | --- | --- | --- |
@@ -148,8 +148,8 @@ Including both Tyneside and Northumberland in the sample area does not improve t
 
 ## Conclusion
 
-For the 3 shortlisted regions, there is no adjacent region that could be included in the sample to improve their overall representativeness. ​
+No adjacent region could be included in the sample for the 3 shortlisted regions to improve its overall representativeness. ​
 
-Leeds is the best region when ranked on both ‘value’ and representativeness. If a larger population of Academies is required for detailed analysis then the best region for expansion would be Bradford. ​
+Leeds is the best region when ranked on both value and representativeness. If we require a larger population of academies for detailed analysis, then Bradford would be the best region for expansion. ​
 
-[Phase 4](/manage-school-placements/beta-location-analysis-phase-4/) investigates the characteristics of Leeds and highlights important considerations for performance analysis.
+[Phase 4](/manage-school-placements/beta-location-analysis-phase-4/) investigates Leeds’s characteristics and highlights important considerations for performance analysis.

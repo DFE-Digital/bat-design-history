@@ -15,7 +15,7 @@ related:
       href: /manage-school-placements/beta-location-analysis-phase-4/
 ---
 
-We conducted a comprehensive analysis of the Register trainee teachers (Register) school placement data for the academic year 2022 to 2023 to determine the most suitable location for the private beta of Manage school placements. Our objective was to select a pilot area that could provide detailed insights and support potential national expansion.
+We comprehensively analysed the Register trainee teachers (Register) school placement data for the academic year 2022 to 2023 to determine the most suitable location for the private beta of Manage school placements. We aimed to select a pilot area that could provide detailed insights and support potential national expansion.
 
 ## Priorities for selecting an area
 
@@ -27,9 +27,9 @@ We conducted a comprehensive analysis of the Register trainee teachers (Register
 
 ## Scope of this analysis
 
-The time period is for the academic year 2022 to 2023. This is the only year Register has collected complete placement data. ​
+The period is for the academic year 2022 to 2023. This period is the only year Register has collected complete placement data. ​
 
-The training route is not filtered: Although our focus is on postgraduate training routes, there are no providers that offer only postgraduate routes, and there is no reason a school would not host placements for both undergraduate and postgraduate routes. Therefore, our analysis shows the maximum size of the placement market in an area.
+The training route needs to be filtered: Although our focus is on postgraduate training routes, there are no providers that offer only postgraduate routes, and there is no reason a school would not host placements for both undergraduate and postgraduate routes. Therefore, our analysis shows the maximum size of the placement market in an area.
 
 ## Structure of the analysis
 
@@ -52,7 +52,7 @@ We structured the analysis into four parts:
 
 ## Shortlisting
 
-High-value areas are defined as locations that:​
+We define high-value areas as locations that:​
 
 - have lots of service users (placement schools and providers).​
 - provide a high amount of service ‘use’ and data for the resources required to onboard them​
@@ -83,7 +83,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 | **Tyneside** † | 225 | 354 | 64 |
 | Calderdale and Kirklees | 223 | 313 | 71 |
 
-† denotes a short listed area
+† denotes a short-listed area
 
 ### Location of accredited providers
 
@@ -100,7 +100,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 | Sheffield | 4 | 2 | 2 |
 | Buckinghamshire | 4 | 1 | 3 |
 
-† denotes a short listed area
+† denotes a short-listed area
 
 #### Location of higher education institution (HEI) providers
 
@@ -118,7 +118,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 | Lewisham and Southwark | 3 | 2 | 1 |
 | Liverpool | 2 | 2 | 0 |
 
-† denotes a short listed area
+† denotes a short-listed area
 
 #### Location of school-centred initial teacher training (SCITT) providers
 
@@ -136,7 +136,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 | Suffolk CC | 3 | 0 | 3 |
 | Staffordshire CC | 3 | 0 | 3 |
 
-† denotes a short listed area
+† denotes a short-listed area
 
 ### Total placements hosted by placement schools
 
@@ -153,7 +153,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 | Hackney and Newham | 913 | 151 | 6.0 |
 | Staffordshire CC | 904 | 277 | 3.3 |
 
-† denotes a short listed area
+† denotes a short-listed area
 
 #### Average placements per placement school
 
@@ -170,7 +170,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 | Hackney and Newham | 913 | 151 | 6.0 |
 | Staffordshire CC | 904 | 277 | 3.3 |
 
-† denotes a short listed area
+† denotes a short-listed area
 
 Average placements across all placement schools: 3.8
 
@@ -188,7 +188,7 @@ Average placements across all placement schools: 3.8
 | Worcestershire CC | 4 | 1 | 3 | 167 |
 | Oxfordshire CC | 3 | 2 | 1 | 163 |
 
-† denotes a short listed area
+† denotes a short-listed area
 
 ## Shortlisted areas
 
@@ -206,7 +206,7 @@ Three ITL 3 Regions stand out from part one of this analysis:​
 - A high average number of placements per school​
 - Strong local hubs (a large number of placement schools in the same local area as the provider)
 
-### Shortlisted area drawbacks
+### Short-listed area drawbacks
 
 Our definition of high-value areas biases our analysis:​
 
@@ -219,9 +219,9 @@ Our definition of high-value areas biases our analysis:​
 - High-value areas tend to be urban areas because these have a high number of placement schools and providers.​
 - Schools tend to be larger (with more pupils) as the number of placements correlates with their size. ​
 
-Therefore, it is likely that our area will not be representative of these characteristics. ​
+Therefore, our area will likely not be representative of these characteristics. ​
 
-We have decided this is acceptable because our priority is successfully launching the service, and these locations offer the best opportunity. ​
+This is acceptable because our priority is successfully launching the service, and these locations offer the best opportunity. ​
 
 If evidence suggests our service will operate differently in rural areas, we could extend this analysis to include a secondary rural area.
 
