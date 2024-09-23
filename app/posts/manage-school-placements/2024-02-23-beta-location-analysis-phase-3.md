@@ -54,15 +54,15 @@ In general, providers in Birmingham operate across a wide area. This will be par
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
-| Birmingham |  |  |
-| Staffordshire CC |  |  |
-| Sandwell |  |  |
-| Solihul |  |  |
-| Dudley |  |  |
-| Warwickshire CC |  |  |
-| Worcestershire CC |  |  |
-| Walsall |  |  |
-| Wolverhampton |  |  |
+| Birmingham | 12 | 333 |
+| Staffordshire CC | 9 | 78 |
+| Sandwell | 7 | 77 |
+| Solihul | 8 | 55 |
+| Dudley | 4 | 55 |
+| Warwickshire CC | 8 | 52 |
+| Worcestershire CC | 6 | 47 |
+| Walsall | 7 | 44 |
+| Wolverhampton | 6 | 41 |
 
 ### Birmingham and Sandwell
 
@@ -86,16 +86,16 @@ All the providers in Leeds also operate in Bradford, Calderdale, and Kirklees, s
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
-| Leeds |  |  |
-| Bradford |  |  |
-| Calderdale and Kirklees |  |  |
-| Wakefield |  |  |
-| North Yorkshire CC |  |  |
-| Barnsley, Doncaster and Rotherham |  |  |
-| East Riding of Yorkshire |  |  |
-| Sheffield |  |  |
-| Hartlepool and Stockton-on-Tees |  |  |
-| South Teeside |  |  |
+| Leeds | 6 | 217 |
+| Bradford | 6 | 137 |
+| Calderdale and Kirklees | 6 | 104 |
+| Wakefield | 3 | 82 |
+| North Yorkshire CC | 4 | 71 |
+| Barnsley, Doncaster and Rotherham | 5 | 33 |
+| East Riding of Yorkshire | 2 | 10 |
+| Sheffield | 2 | 7 |
+| Hartlepool and Stockton-on-Tees | 2 | 6 |
+| South Teeside | 2 | 6 |
 
 ### Leeds and Bradford
 
@@ -121,16 +121,16 @@ Both have similar characteristics, although Northumberland has a better distribu
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
-| Tyneside |  |  |
-| Northumberland |  |  |
-| Durham |  |  |
-| Sunderland |  |  |
-| Hartlepool and Stockton-on-Tees |  |  |
-| South Teeside |  |  |
-| Darlington |  |  |
-| Leeds |  |  |
-| Lincolnshire CC |  |  |
-| North Yorkshire |  |  |
+| Tyneside | 7 | 183 |
+| Northumberland | 6 | 74 |
+| Durham | 6 | 30 |
+| Sunderland | 5 | 27 |
+| Hartlepool and Stockton-on-Tees | 5 | 15 |
+| South Teeside | 4 | 14 |
+| Darlington | 3 | 9 |
+| Leeds | 1 | 7 |
+| Lincolnshire CC | 2 | 7 |
+| North Yorkshire | 3 | 6 |
 
 ### Tyneside and Northumberland
 
