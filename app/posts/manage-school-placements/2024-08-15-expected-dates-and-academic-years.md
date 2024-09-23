@@ -16,7 +16,7 @@ related:
       href: /manage-school-placements/user-research-round-6-findings/
 ---
 
-Research into [the anatomy of a school placement](/manage-school-placements/the-lifecycle-of-a-school-placement/).
+Research into [the anatomy of a school placement](/manage-school-placements/the-lifecycle-of-a-school-placement/) identified ‘expected date’, also known as placement window, as a key attribute of a school placement.
 
 During alpha, we ran [experiments to understand how schools might add placements](/manage-school-placements/adding-placements/). We tested adding a placement window using three radio button options corresponding to terms in the academic year. As detailed in [user research round 1](/manage-school-placements/user-research-round-61-findings/), some users got stuck at that step because it required a single choice that did not reflect the way placements worked e.g. a school placement offer might span terms. We temporarily removed this from the service to allow users to add placements and continued to look at how they should work.
 
