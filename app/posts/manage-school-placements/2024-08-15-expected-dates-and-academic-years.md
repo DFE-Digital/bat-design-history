@@ -1,5 +1,5 @@
 ---
-title: Expected dates and academic years
+title: Adding expected dates and academic years
 description: Refining the concept of expected dates and introducing academic years
 date: 2024-08-15
 tags:
@@ -16,15 +16,21 @@ related:
       href: /manage-school-placements/user-research-round-6-findings/
 ---
 
-Research into [the lifecycle of a school placement](/manage-school-placements/the-lifecycle-of-a-school-placement/) identified key attributes of subject, mentor and the expected time the placement will take place (previously referred to as placement window). In our initial testing we found that the proposed way of adding placement windows was a barrier to adding placements. Users got stuck at that step because it required a single choice that did not reflect the way placements worked. We temporarily removed this from the service to allow users to add placements and continued to look at how they should work.
+Research into [the anatomy of a school placement](/manage-school-placements/the-lifecycle-of-a-school-placement/).
+
+During alpha, we ran [experiments to understand how schools might add placements](/manage-school-placements/adding-placements/). We tested adding a placement window using three radio button options corresponding to terms in the academic year. As detailed in [user research round 1](/manage-school-placements/user-research-round-61-findings/), some users got stuck at that step because it required a single choice that did not reflect the way placements worked e.g. a school placement offer might span terms. We temporarily removed this from the service to allow users to add placements and continued to look at how they should work.
 
 ## Looking at a new solution
 
-[User research round 5 findings](/manage-school-placements/user-research-round-5-findings/) showed us that users still consider when the placement takes place essential. We tested three different approaches with school users in [User research round 6](/manage-school-placements/user-research-round-6-findings/) and then followed up with provider users to confirm that the approach that met school needs met their needs too.
+[User research round 5](/manage-school-placements/user-research-round-5-findings/) showed us that ITT provider users still consider when the placement takes place essential. need to know the placement window upfront when schools make the initial placement offer, to avoid having to contact them unnecessarily. There wasn’t a clear consensus on the best way to structure this.
 
-We also considered the language used. We stopped talking about placement windows and asked instead about the expected dates of the placement, improving clarity and comprehension.
+We tested three different approaches with school users in [user research round 6](/manage-school-placements/user-research-round-6-findings/) structuring the placement window design according to academic terms (multi-select), months and custom ‘start and end dates’ – and found that academic term worked best.
 
-As part of this work we also looked at adding academic year to placements. This is the second part of understanding when a placement happens and will be essential as the service starts to be used to manage placements in the current year as well as finding them for the next year.
+As part of [user research round 7](/manage-school-placements/user-research-round-7-findings/), we found a general consensus amongst ITT provider users that the academic term structure of a placement window would meet their needs too.
+
+We also reconsidered the language of 'placement window'. We stopped referring to placement windows within the service and asked instead about the expected dates of the placement, improving clarity and comprehension.
+
+As part of this work, and in preparation for the start of the 2024/25 ITT recruitment cycle, we also looked at adding academic year to placements. This is the second part of understanding when a placement happens and will be essential as the service starts to be used to manage placements in the current year as well as finding them for the next year.
 
 ## What we changed
 
@@ -49,15 +55,22 @@ These questions have been added after the user has chosen the subject and before
 
 ![Check your answers](screenshot-check-your-answers.png "Check your answers")
 
-Academic year is a key characteristic of the placement. We don't give the user the ability to change this once it is published, because changing it would fundamentally alter the placement.
+Academic year is a key attribute of a school placement. We don’t give the user the ability to change this once it is published, because:
 
-The expected date can be changed at any point, because it changes based on the dates set by the training provider.
+- ITT providers organise placements for annual cohorts of trainee teachers – their courses and terms align with the academic year
+- If the academic year of a placement changes, dependencies like mentor or year group may change, meaning the whole nature of the placement could be different
+- Once a provider has been assigned to a placement, its core attributes cannot change as they are likely to have a trainee assigned to it
+- It is easy to delete and create new placements.
+
+The expected date can be changed at any point, because it often changes based on the dates set by the training provider.
 
 ![Placement details once published](screenshot-placement-details.png "Placement details once published")
 
 ### Filtering placements
 
-Provider users are able to filter the placements shown on the find placements screen by academic year. They default to showing the current academic year.
+Provider users are able to filter the placements shown on the find placements screen by academic year and expected date.
+
+Results default to showing the current academic year.
 
 ![New filter](screenshot-filters.png "New filter")
 
