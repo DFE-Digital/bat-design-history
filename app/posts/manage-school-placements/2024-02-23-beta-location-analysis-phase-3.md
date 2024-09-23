@@ -40,9 +40,9 @@ The drawback of expanding into a separate rural region is that it increases the 
 
 We decided to focus on expanding to an adjacent local area.
 
-Engaging with local ecosystems is critical for a successful beta. By engaging with an adjacent local area, we can expand within the same networks that are already using the service.
+Engaging with local ecosystems is critical for a successful beta. By engaging with an adjacent local area, we can expand within the same networks already using the service.
 
-Our strategy will be to target the networks of current provider partners (providers located in our beta sample region). This will help us target our extension into areas within existing service user networks and optimise our chances of success by building on proven relationships.
+Our strategy will target the networks of current provider partners (providers located in our beta sample region). This will help us target our extension into areas within existing service user networks and optimise our chances of success by building on proven relationships.
 
 If evidence suggests rural schools will interact differently with our service, future expansion into rural areas will be explored.
 
@@ -50,7 +50,7 @@ If evidence suggests rural schools will interact differently with our service, f
 
 In general, providers in Birmingham operate across a wide area. This will be partially influenced by how we have classified the location of SCITTs, as some regional providers have the most placement school partners in Birmingham.
 
-Upon investigating the potential of these areas to improve Birmingham's representativeness, Sandwell was chosen as the most appropriate region. Staffordshire placement schools had similar characteristics to Birmingham.
+Upon investigating the potential of these areas to improve Birmingham's representativeness, we chose Sandwell as the most appropriate region. Staffordshire placement schools had similar characteristics to Birmingham.
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
