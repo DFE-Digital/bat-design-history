@@ -19,15 +19,15 @@ We comprehensively analysed the Register trainee teachers (Register) school plac
 
 ## Priorities for selecting an area
 
-- Priority 1: The selected region must have many service users to maximise the service’s uptake and use. ​
+- Priority 1: The selected region must have many service users to maximise the service’s uptake and use.
 
-- Priority 2: The selected area must allow us to gather the necessary quantity and quality of data to facilitate performance analysis and iterative improvement.  ​
+- Priority 2: The selected area must allow us to gather the necessary quantity and quality of data to facilitate performance analysis and iterative improvement.
 
 - Priority 3: Service performance in the selected area must reflect the broader England school placement market, indicating its potential for effective national scaling similar to the beta phase.
 
 ## Scope of this analysis
 
-The period is for the academic year 2022 to 2023. This period is the only year Register has collected complete placement data. ​
+The period is for the academic year 2022 to 2023. This period is the only year Register has collected complete placement data.
 
 The training route needs to be filtered: Although our focus is on postgraduate training routes, there are no providers that offer only postgraduate routes, and there is no reason a school would not host placements for both undergraduate and postgraduate routes. Therefore, our analysis shows the maximum size of the placement market in an area.
 
@@ -36,35 +36,32 @@ The training route needs to be filtered: Although our focus is on postgraduate t
 We structured the analysis into four parts:
 
 1. Shortlisting
+    - identifying the location of our users
+    - identifying areas with ‘high value’ users
 
-- identifying the location of our users​
-- identifying areas with ‘high value’ users​
+2. Representativeness
+    - assessing how representative of the placement school population our shortlisted areas are
 
-2. Representativeness​
-
-- assessing how representative of the placement school population our shortlisted areas are​
-
-3. Expansion of shortlisted areas​
-
-- assessing the potential for improving the representativeness of our sample area by expanding to a second region​
+3. Expansion of shortlisted areas
+    - assessing the potential for improving the representativeness of our sample area by expanding to a second region
 
 4. Implications of selected area
 
 ## Shortlisting
 
-We define high-value areas as locations that:​
+We define high-value areas as locations that:
 
-- have lots of service users (placement schools and providers).​
-- provide a high amount of service ‘use’ and data for the resources required to onboard them​
+- have lots of service users (placement schools and providers).
+- provide a high amount of service ‘use’ and data for the resources required to onboard them
 
-Schools: ​
+Schools:
 
-- many placement schools in a local area​
-- high average number of placements per school​
+- many placement schools in a local area
+- high average number of placements per school
 
-​Providers: ​
+Providers:
 
-- many providers in a local area​
+- many providers in a local area
 - a high number of associated placement schools located in the same area as the provider
 
 We define this as a Local Hub. This would indicate the provider is active in its local area and would be more likely to engage with a service in that region.
@@ -192,36 +189,36 @@ Average placements across all placement schools: 3.8
 
 ## Shortlisted areas
 
-Three ITL 3 Regions stand out from part one of this analysis:​
+Three ITL 3 Regions stand out from part one of this analysis:
 
-- Birmingham​
-- Leeds​
-- Tyneside​
+- Birmingham
+- Leeds
+- Tyneside
 
-​All three of these areas have the following characteristics:​
+All three of these areas have the following characteristics:
 
-- A large number of placement schools and providers​
-- Diversity in provider types​
-- A large number of placements​
-- A high average number of placements per school​
+- A large number of placement schools and providers
+- Diversity in provider types
+- A large number of placements
+- A high average number of placements per school
 - Strong local hubs (a large number of placement schools in the same local area as the provider)
 
 ### Short-listed area drawbacks
 
-Our definition of high-value areas biases our analysis:​
+Our definition of high-value areas biases our analysis:
 
-- Areas with a high number of placement schools and providers​
-- Areas with a diverse population of placement schools and providers​
-- Schools with a large number of placements​
+- Areas with a high number of placement schools and providers
+- Areas with a diverse population of placement schools and providers
+- Schools with a large number of placements
 
-​Implications:​
+Implications:
 
-- High-value areas tend to be urban areas because these have a high number of placement schools and providers.​
-- Schools tend to be larger (with more pupils) as the number of placements correlates with their size. ​
+- High-value areas tend to be urban areas because these have a high number of placement schools and providers.
+- Schools tend to be larger (with more pupils) as the number of placements correlates with their size.
 
-Therefore, our area will likely not be representative of these characteristics. ​
+Therefore, our area will likely not be representative of these characteristics.
 
-This is acceptable because our priority is successfully launching the service, and these locations offer the best opportunity. ​
+This is acceptable because our priority is successfully launching the service, and these locations offer the best opportunity.
 
 If evidence suggests our service will operate differently in rural areas, we could extend this analysis to include a secondary rural area.
 
