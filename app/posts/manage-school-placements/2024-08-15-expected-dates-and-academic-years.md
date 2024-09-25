@@ -16,13 +16,13 @@ related:
       href: /manage-school-placements/user-research-round-6-findings/
 ---
 
-Research into [the anatomy of a school placement](/manage-school-placements/the-lifecycle-of-a-school-placement/) identified ‘expected date’, also known as placement window, as a key attribute of a school placement.
+Research into [the anatomy of a school placement](/manage-school-placements/the-anatomy-of-a-school-placement/) identified ‘expected date’, also known as placement window, as a key attribute of a school placement.
 
-During alpha, we ran [experiments to understand how schools might add placements](/manage-school-placements/adding-placements/). We tested adding a placement window using three radio button options corresponding to terms in the academic year. As detailed in [user research round 1](/manage-school-placements/user-research-round-61-findings/), some users got stuck at that step because it required a single choice that did not reflect the way placements worked e.g. a school placement offer might span terms. We temporarily removed this from the service to allow users to add placements and continued to look at how they should work.
+During alpha, we ran [experiments to understand how schools might add placements](/manage-school-placements/adding-placements/). We tested adding a placement window using three radio button options corresponding to terms in the academic year. As detailed in [user research round 1](/manage-school-placements/user-research-round-1-findings/), some users got stuck at that step because it required a single choice that did not reflect the way placements worked e.g. a school placement offer might span terms. We temporarily removed this from the service to allow users to add placements and continued to look at how they should work.
 
 ## Looking at a new solution
 
-[User research round 5](/manage-school-placements/user-research-round-5-findings/) showed us that ITT provider users still consider when the placement takes place essential. need to know the placement window upfront when schools make the initial placement offer, to avoid having to contact them unnecessarily. There wasn’t a clear consensus on the best way to structure this.
+[User research round 5](/manage-school-placements/user-research-round-5-findings/) showed us that ITT provider users need to know the placement window upfront when schools make the initial placement offer, to avoid having to contact them unnecessarily. There wasn’t a clear consensus on the best way to structure this.
 
 We tested three different approaches with school users in [user research round 6](/manage-school-placements/user-research-round-6-findings/) structuring the placement window design according to academic terms (multi-select), months and custom ‘start and end dates’ – and found that academic term worked best.
 
