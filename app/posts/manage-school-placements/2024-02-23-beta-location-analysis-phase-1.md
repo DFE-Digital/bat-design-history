@@ -143,9 +143,9 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 † denotes a short-listed area
 
-### Total placements hosted by placement schools
+### Total number of placements hosted by placement schools
 
-![Total placements hosted by placement schools](total-placements-hosted-by-placement-schools.png "Total placements hosted by placement schools")
+![Total number of placements hosted by placement schools](total-placements-hosted-by-placement-schools.png "Total number of placements hosted by placement schools")
 
 | Local authority | Number of placements | Number of placement schools | Average placements per placement school |
 | --- | --- | --- | --- |
@@ -162,9 +162,9 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 † denotes a short-listed area
 
-#### Average placements per placement school
+#### Average number of placements per placement school
 
-![Average placements per placement school](average-placements-per-placement-school.png "Average placements per placement school")
+![Average number of placements per placement school](average-placements-per-placement-school.png "Average number of placements per placement school")
 
 | Local authority | Number of placements | Number of placement schools | Average placements per placement school |
 | --- | --- | --- | --- |
