@@ -1,5 +1,5 @@
 ---
-title: Beta location analysis - phase 3 - expansion of sample area
+title: Beta location analysis - phase 3 - expansion of the sample area
 description: Investigating the value of adding an additional region to our sample to improve the overall representativeness
 date: 2024-02-23T12:02:00+00:00
 tags:
