@@ -52,7 +52,7 @@ In general, providers in Birmingham operate across a wide area. This will be par
 
 Upon investigating the potential of these areas to improve Birmingham's representativeness, we chose Sandwell as the most appropriate region. Staffordshire placement schools had similar characteristics to Birmingham.
 
-![Birmingham-based providers expanded network](birmingham-based-providers-expanded-network.png "Birmingham-based providers expanded network")
+![Heatmap showing the number of placement schools in each local authority that hosted trainees from a provider located in Birmingham. The lighter the colour, the greater the number of placement schools.](birmingham-based-providers-expanded-network.png "Heatmap showing the number of placement schools in each local authority that hosted trainees from a provider located in Birmingham. The lighter the colour, the greater the number of placement schools.")
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ All the providers in Leeds also operate in Bradford, Calderdale, and Kirklees, s
 
 Bradford has many placement schools that are ‘Academies’, so this region has the best potential to improve the representativeness of the Leeds Placement schools.
 
-![Leeds-based providers expanded network](leeds-based-providers-expanded-network.png "Leeds-based providers expanded network")
+![Heatmap showing the number of placement schools in each local authority that hosted trainees from a provider located in Leeds. The lighter the colour, the greater the number of placement schools.](leeds-based-providers-expanded-network.png "Heatmap showing the number of placement schools in each local authority that hosted trainees from a provider located in Leeds. The lighter the colour, the greater the number of placement schools.")
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
@@ -123,7 +123,7 @@ Therefore, whilst this area does not improve the overall representativeness of t
 
 Both have similar characteristics, although Northumberland has a better distribution of rural-urban classification.
 
-![Tyneside-based providers expanded network](tyneside-based-providers-expanded-network.png "Birmingham-based providers expanded network")
+![Heatmap showing the number of placement schools in each local authority that hosted trainees from a provider located in Tyneside. The lighter the colour, the greater the number of placement schools.](tyneside-based-providers-expanded-network.png "Heatmap showing the number of placement schools in each local authority that hosted trainees from a provider located in Tyneside. The lighter the colour, the greater the number of placement schools.")
 
 | Local authority | Number of providers in the area | Number of placements schools in the area |
 | --- | --- | --- |
