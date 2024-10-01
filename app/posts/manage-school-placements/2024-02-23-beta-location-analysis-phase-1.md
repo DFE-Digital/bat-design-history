@@ -68,7 +68,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 ### Location of placement schools
 
-![Location of placement schools](location-of-placement-schools.png "Location of placement schools")
+![Heatmap showing the number of placement schools in each ITL3 region. The lighter the colour, the greater the number of placement schools.](location-of-placement-schools.png "Heatmap showing the number of placement schools in each ITL3 region. The lighter the colour, the greater the number of placement schools.")
 
 | Local authority | Number of school placements | Total schools (open as of January 2024) | Percentage of schools that host placements |
 | --- | --- | --- | --- |
@@ -86,7 +86,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 ### Location of accredited providers
 
-![Location of accredited providers](location-of-accredited-providers.png "Location of accredited providers")
+![Heatmap showing the number of accredited providers in each ITL3 region. The lighter the colour, the greater the number of accredited providers.](location-of-accredited-providers.png "Heatmap showing the number of accredited providers in each ITL3 region. The lighter the colour, the greater the number of accredited providers.")
 
 | ITL 3 Region | Total number of providers | Number of HEI providers | Number of SCITT providers |
 | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 #### Location of higher education institution (HEI) providers
 
-![Location of higher education institution (HEI) providers](location-of-hei-providers.png "Location of higher education institution (HEI) providers")
+![Heatmap showing the number of accredited HEI providers in each ITL3 region. The lighter the colour, the greater the number of accredited HEI providers.](location-of-hei-providers.png "Heatmap showing the number of accredited HEI providers in each ITL3 region. The lighter the colour, the greater the number of accredited HEI providers.")
 
 | ITL 3 Region | Total number of providers | Number of HEI providers | Number of SCITT providers |
 | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 #### Location of school-centred initial teacher training (SCITT) providers
 
-![Location of school-centred initial teacher training (SCITT) providers](location-of-scitt-providers.png "Location of school-centred initial teacher training (SCITT) providers")
+![Heatmap showing the number of accredited SCITT providers in each ITL3 region. The lighter the colour, the greater the number of accredited SCITT providers.](location-of-scitt-providers.png "Heatmap showing the number of accredited SCITT providers in each ITL3 region. The lighter the colour, the greater the number of accredited SCITT providers.")
 
 | ITL 3 Region | Total number of providers | Number of HEI providers | Number of SCITT providers |
 | --- | --- | --- | --- |
@@ -145,7 +145,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 ### Total number of placements hosted by placement schools
 
-![Total number of placements hosted by placement schools](total-placements-hosted-by-placement-schools.png "Total number of placements hosted by placement schools")
+![Heatmap showing the number of placements in each ITL3 region. The lighter the colour, the greater the number of placements.](total-placements-hosted-by-placement-schools.png "Heatmap showing the number of placements in each ITL3 region. The lighter the colour, the greater the number of placements.")
 
 | Local authority | Number of placements | Number of placement schools | Average placements per placement school |
 | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ We define this as a Local Hub. This would indicate the provider is active in its
 
 #### Average number of placements per placement school
 
-![Average number of placements per placement school](average-placements-per-placement-school.png "Average number of placements per placement school")
+![Heatmap showing the average number of placements per placement school in each ITL3 region. The lighter the colour, the greater the number of placements.](average-placements-per-placement-school.png "Heatmap showing the average number of placements per placement school in each ITL3 region. The lighter the colour, the greater the number of placements.")
 
 | Local authority | Number of placements | Number of placement schools | Average placements per placement school |
 | --- | --- | --- | --- |
@@ -185,7 +185,7 @@ Average placements across all placement schools: 3.8
 
 ### Placement schools that work with providers in the same area (local hubs)
 
-![Placement schools that work with providers in the same area (local hubs)](local-hubs.png "Placement schools that work with providers in the same area (local hubs)")
+![Heatmap showing the number of placement schools in each local authority that hosted a trainee from a provider location in the same local authority. The lighter the colour, the greater the number of placement schools.](local-hubs.png "Heatmap showing the number of placement schools in each local authority that hosted a trainee from a provider location in the same local authority. The lighter the colour, the greater the number of placement schools.")
 
 | ITL 3 Region | Total number of providers | Number of HEI providers | Number of SCITT providers | Associated placement schools |
 | --- | --- | --- | --- | --- |
