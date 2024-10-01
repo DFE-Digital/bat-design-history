@@ -28,7 +28,22 @@ related:
 
 This table shows the 6 providers in Leeds and the number of associated placement schools in Leeds.
 
-In addition to the ones listed here, from 2022 to 2023, 16 additional providers across England had trainees at placement schools in Leeds.
+In addition to the ones listed here, from 2022 to 2023, 14 additional providers across England had trainees at placement schools in Leeds:
+
+- AA Teamworks West Yorkshire SCITT
+- ARK Teacher Training
+- Ashton on Mersey School SCITT
+- Birmingham City University
+- Bradford Birth to 19 SCITT
+- Bradford College
+- Bright Futures SCITT
+- Educate Group Initial Teacher Training
+- Sheffield Hallam University
+- Teach First
+- University of Buckingham
+- University of Huddersfield
+- University Of York
+- York St John University
 
 ## Leeds-area representativeness
 
