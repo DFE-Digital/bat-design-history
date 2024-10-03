@@ -11,9 +11,14 @@ tags:
   - filtering
   - undergraduate
   - tda
-items:
-  - text: Service name
-    src: tda-find-new-service-name.png
+screenshots:
+  items:
+    - text: List of applications
+      src: tda-manage-applications-list.png
+    - text: Course type filter
+      src: tda-manage-filter.png
+    - text: Qualifications section of application page
+      src: tda-manage-degree.png
 ---
 
 ## Background
@@ -34,7 +39,7 @@ We were concerned that providers may find it difficult to visually differentiate
 
 So, we added content and colour to highlight applications that were undergraduate.
 
-![Screenshot of the start page with the new service name after the design changes](tda-manage-applications-list.png)
+![Screenshot of the list of applications in manage after the design changes](tda-manage-applications-list.png)
 
 ### Filters
 
@@ -42,7 +47,7 @@ The filters in Manage did not allow for providers to view only postgraduate or u
 
 So, we added a filter to allow them to narrow down the list of applications.
 
-![Screenshot of the new degree question page on find after the design changes](tda-manage-filter.png)
+![Screenshot of the new course type filter after the design changes](tda-manage-filter.png)
 
 ### Application qualifications
 
@@ -52,7 +57,7 @@ We needed to highlight this to providers when viewing applications to avoid unde
 
 To do this, we added content to the ‘Degree’ section of TDA applications.
 
-![Screenshot of the new exit page on find after the design changes](tda-manage-degree.png)
+![Screenshot of the qualifcations section of an application after the design changes](tda-manage-degree.png)
 
 ## Further considerations
 
