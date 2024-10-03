@@ -96,7 +96,7 @@ Get help writing your personal statement from a [teacher training advisers](http
 
 ## User testing  
 
-We conducted 5 interviews with candidates between Monday 2 and Friday 6 October 2024. 
+We conducted 5 interviews with candidates between Monday 2 and Friday 6 October 2024.
 
 We also shared the proposed guidance with 2 teacher training governing bodies: Universities' Council for the Education of Teachers (UCET) and The National Association of School-Based Teacher Trainers (NASBETT) and the network of teacher training advisers.  
 
@@ -142,8 +142,9 @@ Discuss any relevant experience of working or volunteering with young people and
 
 The most successful personal statements are between 500 and 1,000 words long, so make sure you include enough detail.  
 
-Read more about [what to include in your personal statement](https://getintoteaching.education.gov.uk/how-to-apply-for-teacher-training/teacher-training-personal-statement) or [get help writing your personal statement from a teacher training adviser](https://getintoteaching.education.gov.uk/teacher-training-advisers).
---- 
+Read more about [what to include in your personal statement](https://getintoteaching.education.gov.uk/how-to-apply-for-teacher-training/teacher-training-personal-statement) or [get help writing your personal statement from a teacher training adviser](https://getintoteaching.education.gov.uk/teacher-training-advisers)
+---
+
 The iteration tested well. Participants felt that there would be some overlap between their answers for each of the sections, but since they were completing them in a single text box, this would not be a problem.
 
 ## Results
