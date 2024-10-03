@@ -72,7 +72,6 @@ When TDA is selected, the pages skipped in the journey of adding a course are:
 ![Screenshot of the course preview after the design changes](4-tda-publish-preview.png)
 ![Screenshot of the course page on Find after the design changes](5-tda-publish-course-detail.png)
 
-
 ### Adding A levels
 
 TDA courses require candidates to have A levels or equivalent qualifications.
