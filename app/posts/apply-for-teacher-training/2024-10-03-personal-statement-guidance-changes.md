@@ -40,12 +40,12 @@ But it also highlighted that the current single text entry box and general guida
 > You should write between 500 and 1000 words for your personal statement.
 > Here are some examples you could write about (they are just a guide, you do not need to write about all of them):
 >
-> * Skills you have that are relevant to teaching
-> * Any experience of working with young people
-> * For secondary teacher training: your interest in the subject you want to teach
-> * Your understanding of why teaching is important
-> * Your reasons for wanting to train to be a teacher
-> * Any activities you have done that could be relevant to teaching like first aid courses, sports coaching or volunteering
+> - Skills you have that are relevant to teaching
+> - Any experience of working with young people
+> - For secondary teacher training: your interest in the subject you want to teach
+> - Your understanding of why teaching is important
+> - Your reasons for wanting to train to be a teacher
+> - Any activities you have done that could be relevant to teaching like first aid courses, sports coaching or volunteering
 >
 > Get support with your personal statement by speaking to our [teacher training advisers](https://getintoteaching.education.gov.uk/teacher-training-advisers)
 
