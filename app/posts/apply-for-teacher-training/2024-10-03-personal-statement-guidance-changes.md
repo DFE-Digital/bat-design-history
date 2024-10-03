@@ -47,8 +47,9 @@ Your understanding of why teaching is important
 Your reasons for wanting to train to be a teacher
 Any activities you have done that could be relevant to teaching like first aid courses, sports coaching or volunteering
 
-Get support with your personal statement by speaking to our [teacher training advisers](https://getintoteaching.education.gov.uk/teacher-training-advisers).
+Get support with your personal statement by speaking to our [teacher training advisers](https://getintoteaching.education.gov.uk/teacher-training-advisers)
 ---
+
 We did a content analysis of 8 different sources of personal statement guidance (including university, job and governing body websites) which showed that there are 3 main areas that candidates are advised to cover in their personal statement:
 
 - skills and experience
