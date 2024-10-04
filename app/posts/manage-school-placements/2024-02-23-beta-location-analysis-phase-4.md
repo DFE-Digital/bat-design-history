@@ -22,8 +22,8 @@ related:
 | Leeds Beckett University | Higher education institution | 117 |
 | Leeds Trinity University | Higher education institution | 90 |
 | Red Kite Teacher Training | School-centred initial teacher training  | 55 |
-| Gorse SCITT | School-centred initial teacher training | 24 |
 | Exceed SCITT | School-centred initial teacher training | 24 |
+| Gorse SCITT | School-centred initial teacher training | 24 |
 | Leeds SCITT | School-centred initial teacher training | 12 |
 
 This table shows the 6 providers in Leeds and the number of associated placement schools in Leeds.
