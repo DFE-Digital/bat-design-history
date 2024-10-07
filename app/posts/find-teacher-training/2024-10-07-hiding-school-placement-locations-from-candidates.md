@@ -18,9 +18,10 @@ We also know that some training providers, particularly higher education institu
 Whilst candidates have told us that knowing where they will do their training is the most important factor when selecting a course, having inaccurate or missing information does not support this user need.
 
 When they apply for a course, candidates have the option of selecting a preferred placement school from a list:
+
 ![Placement selection radio buttons in apply - select your preferred location](apply-location-selection.png)
 
-Providers have told us that this is problematic for their recruitment and admissions processes. The list of placements that candidates are selecting from are frequently inaccurate due to the reasons mentioned above, and when candidates find out that they cannot have their first choice of placement, they are disappointed and some can withdraw from the application process completely (814 in the 2023 to 2024 cycle).  
+Providers have told us that this is problematic for their recruitment and admissions processes. The list of placements that candidates are selecting from are frequently inaccurate due to the reasons mentioned above, and when candidates find out that they cannot have their first choice of placement, they are disappointed and some can withdraw from the application process completely (814 in the 2023 to 2024 cycle).
 
 The ability to select placement schools in their application creates a false expectation that they will be placed there, when in reality our analysis shows that only 26% of HEI applicants and 10% of SCITT applicants will receive their first choice of placement school.
 
@@ -40,12 +41,12 @@ We asked them to let us know if removing placement school locations from Find an
 
 We received around 80 responses to the survey and around 75% (60) said that this change would be welcomed. 25% (20)said that this change would negatively impact them.
 
-Because the majority of providers were in favour of the changes, by default:  
+Because the majority of providers were in favour of the changes, by default:
 
 * we will no longer show placement school locations to candidates on course pages
 * candidates can no longer select a placement school when they apply
 
-Providers will still upload placement schools because the location search uses this data to surface results to candidates.  
+Providers will still upload placement schools because the location search uses this data to surface results to candidates.
 
 We asked the providers who would be negatively impacted for more information about how they use the placement school information in their processes.
 
