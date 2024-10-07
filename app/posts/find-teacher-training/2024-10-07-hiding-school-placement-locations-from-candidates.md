@@ -61,7 +61,7 @@ We will apply this change at an organisation level to the providers who have con
 
 When they have locations toggled on the list of placement schools will be accessible from the course page:
 
-![Course page with locations accessible from a link](placement-location-course-page-location-toggled-on.jpeg)
+![Course page with locations accessible from a link](/app/images/find-teacher-training/hiding-placement-school-locations/placement-location-course-page-location-toggled-on.jpeg)
 
 ## Candidate view
 
