@@ -62,7 +62,7 @@ We will apply this change at an organisation level to the providers who have con
 
 When they have locations toggled on the list of placement schools will be accessible from the course page:
 
-![Course page with locations accessible from a link](/app/images/find-teacher-training/hiding-placement-school-locations/placement-location-course-page-location-toggled-on.jpeg)
+![Course page with locations accessible from a link](placement-location-course-page-location-toggled-on.jpeg)
 
 ## Candidate view
 
@@ -74,7 +74,7 @@ There is a content box-out on all course pages which gives more information to c
 
 This content is consistent across all provider types, there is no variation in the location information shown. This is a change from having variations of the content depending on the provider type. We felt that this highlighted internal structures which were not important to candidates when searching for courses.
 
-![New locations design in Find with reassuring how placements work content and no specific addresses](/find-teacher-training/hiding-placement-school-locations/placement-location-course-page.jpeg)
+![New locations design in Find with reassuring how placements work content and no specific addresses](placement-location-course-page.jpeg)
 
 ### Usability testing
 
