@@ -7,7 +7,16 @@ tags:
   - locations
   - school placements
   - study sites
-
+screenshots:
+  items:
+    - text: Select a location
+      src: apply-location-selection.png
+    - text: Location show or hide
+      src: publish-show-hide-placement-locations.png
+    - text: Locations visible in Find
+      src: placement-location-course-page-location-toggled-on.jpeg
+    - text: New Find locations design
+      src: placement-location-course-page.jpeg
 ---
 
 ## The issue
@@ -19,7 +28,7 @@ We also know that some training providers, particularly higher education institu
 Whilst candidates have told us that knowing where they will do their training is the most important factor when selecting a course, having inaccurate or missing information does not support this user need.
 
 When they apply for a course, candidates have the option of selecting a preferred placement school from a list:
-[placement selection radio buttons in apply - select your preferred location](/Users/rebeccacryan/Documents/GitHub/bat-design-history/app/images/find-teacher-training/hiding-placement-school-locations/apply-location-selection.png)
+![Placement selection radio buttons in apply - select your preferred location](apply-location-selection.png)
 
 Providers have told us that this is problematic for their recruitment and admissions processes. The list of placements that candidates are selecting from are frequently inaccurate due to the reasons mentioned above, and when candidates find out that they cannot have their first choice of placement, they are disappointed and some can withdraw from the application process completely (814 in the 2023 to 2024 cycle).  
 
@@ -57,10 +66,10 @@ Some providers also told us that they direct applications to different areas or 
 For these providers we will exclude them from the changes. Their placement schools will still be listed on course pages and candidates can still select them when they apply.
 
 We will apply this change at an organisation level to the providers who have contacted us. We will do this manually for the start of the 2024 to 2025 recruitment cycle, but we have designed a user interface for providers to toggle the display of placement schools on and off themselves.
-[radio buttons to show or hide placement locations from candidates](app/images/find-teacher-training/hiding-placement-school-locations/publish-show-hide-placement-locations.png)
+! [Radio buttons to show or hide placement locations from candidates](publish-show-hide-placement-locations.png)
 
 When they have locations toggled on the list of placement schools will be accessible from the course page:
-[course page with locations accessible from a link](app/images/find-teacher-training/hiding-placement-school-locations/placement-location-course-page-location-toggled-on.jpeg)
+! [Course page with locations accessible from a link](placement-location-course-page-location-toggled-on.jpeg)
 
 ## Candidate view
 
@@ -71,7 +80,7 @@ Where no locations have been entered by the provider, 'not listed yet' will be s
 There is a content box-out on all course pages which gives more information to candidates about how placements will be selected for them. The intention is to reassure candidates that their individual situation will be taken into account and the provider will select a placement that works well for them based on several factors.
 
 This content is consistent across all provider types, there is no variation in the location information shown. This is a change from having variations of the content depending on the provider type. We felt that this highlighted internal structures which were not important to candidates when searching for courses.
-[New locations information on course pages featuring 'how placements work' content and 'nearest of 'number' of locations content](/Users/rebeccacryan/Documents/GitHub/bat-design-history/app/images/find-teacher-training/hiding-placement-school-locations/placement-location-course-page.jpeg)
+! [New locations design in Find with reassuring how placements work content and no specific addresses](/find-teacher-training/hiding-placement-school-locations/placement-location-course-page.jpeg)
 
 This was tested in August 2024 with candidates and the following findings were highlighted:
 
