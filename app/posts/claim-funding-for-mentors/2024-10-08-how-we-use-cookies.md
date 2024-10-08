@@ -1,5 +1,5 @@
 ---
-title: Cookies
+title: How we use cookies
 description: We only use essential cookies to make the service work
 date: 2024-10-08
 tags:
