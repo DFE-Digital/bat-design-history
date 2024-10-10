@@ -34,6 +34,10 @@ screenshots:
       src: organisation-contact-details-form--errors.png
 ---
 
+> **These designs were not built, or progressed further**
+>
+> Also see [Reorganising organisation details](/publish-teacher-training-courses/reorganising-organisation-details/) - 21 April 2022.
+
 We recently made changes to Support for publish teacher training courses (Support) to [improve how the support team adds and edits organisation details](/support-for-publish/adding-and-editing-organisations/).
 
 We also changed Support and Publish teacher training courses (Publish) to use [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data for addresses.

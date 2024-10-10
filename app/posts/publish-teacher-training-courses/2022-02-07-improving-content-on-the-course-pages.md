@@ -7,6 +7,8 @@ tags:
   - content
 ---
 
+> **These designs were not built, or progressed further**
+
 As part of a wider content audit of the service, we wanted to improve the comprehension and clarity of the content on the “Courses” pages.
 
 We also wanted to ensure the content meets the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)

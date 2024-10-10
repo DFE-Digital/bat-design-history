@@ -33,6 +33,10 @@ screenshots:
       src: organisation-details--contact-details.png
 ---
 
+> **These designs were not built, or progressed further**
+>
+> Also see [Updating organisation details](/publish-teacher-training-courses/updating-organisation-details/) - 2 May 2023.
+
 We recently made several changes to Publish teacher training courses (Publish) to improve site navigation and manage provider relationships.
 
 As part of these changes, we reviewed how organisation details were organised and made some improvements.

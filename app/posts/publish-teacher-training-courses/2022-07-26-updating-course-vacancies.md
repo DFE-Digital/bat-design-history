@@ -29,6 +29,10 @@ screenshots:
       src: course-vacancies--vacancies-updated-no-vacancies.png
 ---
 
+> **These designs have progess further**
+>
+> Go to [Removing course vacancies](/publish-teacher-training-courses/removing-course-vacancies/) - 20 April 2023.
+
 When a provider publishes a course, they can list all the locations where a candidate can gain experience. These locations are shown in the ‘School placements’ section of Find postgraduate teacher training (Find).
 
 In addition to the list of locations, we also show vacancies for each location. This allows providers to show where a candidate can train. The vacancy status on Find is a simple ‘yes’ or ‘no’.
