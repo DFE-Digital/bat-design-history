@@ -21,11 +21,11 @@ We reviewed the end-to-end journey from GiT(Get into teaching) > Find > Apply ar
 
 In our research we found that lack of information about fees also affects domestic candidates. So, we surfaced the fees for both international and UK candidates on the search results page.
 
-![Screenshot of new course fee addition on the find results page](results-page.png)
+![Screenshot of new course fee addition on the find results page](results-page2.png)
 
 We also included the course fee at the top of the course page to make it more visible as one of the first pieces of information the user sees.
 
-![Screenshot of new course fee addition for both UK and international candidates on an example course page](course-page.png)
+![Screenshot of new course fee addition for both UK and international candidates on an example course page](course-page2.png)
 
 ## Further considerations
 
