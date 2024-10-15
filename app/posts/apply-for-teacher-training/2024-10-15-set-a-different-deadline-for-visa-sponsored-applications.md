@@ -53,7 +53,7 @@ However some participants thought that the date was the deadline for applying fo
 
 We updated the content in the banners to specify not just the subject and subject code but also the training provider.
 
-![Warning banner when the deadline is approaching](visa-sponsorship-deadline/visa-sponsorship-deadline-warning-banner.jpeg)
+![Warning banner when the deadline is approaching](visa-sponsorship-deadline-warning-banner.jpeg)
 
 We also updated the content so that rather than saying ‘the deadline for visa sponsorship is [date]’ we say ‘the deadline for applications that need visa sponsorship is [date]’.
 
