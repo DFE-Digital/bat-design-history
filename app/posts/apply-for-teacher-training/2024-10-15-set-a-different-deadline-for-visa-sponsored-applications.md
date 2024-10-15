@@ -53,7 +53,7 @@ However some participants thought that the date was the deadline for applying fo
 
 We updated the content in the banners to specify not just the subject and subject code but also the training provider.
 
-![Warning banner when the deadline is approaching](/app/images/apply-for-teacher-training/visa-sponsorship-deadline/visa-sponsorship-deadline-warning-banner.jpeg)
+![Warning banner when the deadline is approaching](visa-sponsorship-deadline/visa-sponsorship-deadline-warning-banner.jpeg)
 
 We also updated the content so that rather than saying ‘the deadline for visa sponsorship is [date]’ we say ‘the deadline for applications that need visa sponsorship is [date]’.
 
@@ -61,7 +61,7 @@ Some participants missed the notification that the deadline had passed and it wa
 
 We made it more obvious by putting it into a warning component. There was some confusion about what was meant by ‘apply to another course’ so we have clarified with ‘apply to another course, subject or training provider who is still accepting applications.’
 
-![Warning text when the deadline has passed](/app/images/apply-for-teacher-training/visa-sponsorship-deadline/visa-sponsorship-deadline-warning.jpeg)
+![Warning text when the deadline has passed](visa-sponsorship-deadline-warning.jpeg)
 
 ### Training provider research
 
@@ -83,7 +83,7 @@ These two respondents pointed out that 90 days isn’t enough time to complete t
 
 We changed the content to say ‘at least three months’ and ‘if you need more time to process these applications, set an earlier date.’
 
-![Set a new deadline for applications in Publish](/app/images/apply-for-teacher-training/visa-sponsorship-deadline/visa-sponsorship-set-a-deadline.jpeg)
+![Set a new deadline for applications in Publish](visa-sponsorship-set-a-deadline.jpeg)
 
 ## Other considerations
 
