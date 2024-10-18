@@ -47,12 +47,14 @@ Participants questioned if any personal information would be stored within the C
 
 ## Next steps
 
-Adopt a simpler approach to the initial screen in the payments tab. Users expressed confusion about what and when to upload and download.
+![Payments section](support--payments-section.png)
+
+Adopt a simpler approach to the initial screen in the payments section. Users expressed confusion about what and when to upload and download.
 
 To remedy this confusion, we are automating the download and sending of the CSV and separating the upload functionality. This should assist users to step through the flow more intuitively.
 
 Furthermore, we are including changes to show who uploaded what and when and a way for users to see those claims again if they want to.
 
-Other simplifications include removing bulk actions and filtering on the payments tab to reduce the information a support user needs to process in the user interface.
+Other simplifications include removing bulk actions and filtering on the payments section to reduce the information a support user needs to process in the user interface.
 
 We are planning another session with support to get feedback on the updated designs.
