@@ -1,5 +1,5 @@
 ---
-title: Beta location analysis - phase 2 - representativeness
+title: Beta location analysis (phase 2) - representativeness of shortlisted areas
 description: Representativeness of the shortlisted areas to the wider placement school population
 date: 2024-02-23T12:01:00+00:00
 tags:
@@ -7,11 +7,11 @@ tags:
   - school placements
 related:
   items:
-    - text: Beta location analysis - phase 1
+    - text: Beta location analysis (phase 1)
       href: /manage-school-placements/beta-location-analysis-phase-1/
-    - text: Beta location analysis - phase 3
+    - text: Beta location analysis (phase 3)
       href: /manage-school-placements/beta-location-analysis-phase-3/
-    - text: Beta location analysis - phase 4
+    - text: Beta location analysis (phase 4)
       href: /manage-school-placements/beta-location-analysis-phase-4/
 ---
 

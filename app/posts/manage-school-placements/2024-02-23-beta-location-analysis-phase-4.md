@@ -1,5 +1,5 @@
 ---
-title: Beta location analysis - phase 4 - Understanding Leeds
+title: Beta location analysis (phase 4) - understanding Leeds
 description: Important considerations for performance analysis of Leeds as the beta sample location
 date: 2024-02-23T12:03:00+00:00
 tags:
@@ -7,15 +7,17 @@ tags:
   - school placements
 related:
   items:
-    - text: Beta location analysis - phase 1
+    - text: Beta location analysis (phase 1)
       href: /manage-school-placements/beta-location-analysis-phase-1/
-    - text: Beta location analysis - phase 2
+    - text: Beta location analysis (phase 2)
       href: /manage-school-placements/beta-location-analysis-phase-2/
-    - text: Beta location analysis - phase 3
+    - text: Beta location analysis (phase 3)
       href: /manage-school-placements/beta-location-analysis-phase-3/
 ---
 
+The final consideration in our beta location analysis was to understand the Leeds area.
 
+This following table shows the 6 providers in Leeds and the number of associated placement schools in Leeds.
 
 | Provider name | Provider type | Number of placement schools |
 | --- | --- | --- |
@@ -26,9 +28,7 @@ related:
 | Gorse SCITT | School-centred initial teacher training | 24 |
 | Leeds SCITT | School-centred initial teacher training | 12 |
 
-This table shows the 6 providers in Leeds and the number of associated placement schools in Leeds.
-
-In addition to the ones listed here, from 2022 to 2023, 14 additional providers across England had trainees at placement schools in Leeds:
+In addition to the ones listed above, from 2022 to 2023, 14 additional providers across England had trainees at placement schools in Leeds:
 
 - AA Teamworks West Yorkshire SCITT
 - ARK Teacher Training

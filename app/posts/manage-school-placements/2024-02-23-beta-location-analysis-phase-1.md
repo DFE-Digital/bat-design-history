@@ -1,17 +1,17 @@
 ---
-title: Beta location analysis - phase 1
-description: XXXX
+title: Beta location analysis (phase 1)
+description: How we determined the most suitable location for the private beta
 date: 2024-02-23T12:00:00+00:00
 tags:
   - data
   - school placements
 related:
   items:
-    - text: Beta location analysis - phase 2
+    - text: Beta location analysis (phase 2)
       href: /manage-school-placements/beta-location-analysis-phase-2/
-    - text: Beta location analysis - phase 3
+    - text: Beta location analysis (phase 3)
       href: /manage-school-placements/beta-location-analysis-phase-3/
-    - text: Beta location analysis - phase 4
+    - text: Beta location analysis (phase 4)
       href: /manage-school-placements/beta-location-analysis-phase-4/
 ---
 

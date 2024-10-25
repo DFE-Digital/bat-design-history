@@ -1,5 +1,5 @@
 ---
-title: Beta location analysis - phase 3 - expansion of the sample area
+title: Beta location analysis (phase 3) - expansion of the sample area
 description: Investigating the value of adding an additional region to our sample to improve the overall representativeness
 date: 2024-02-23T12:02:00+00:00
 tags:
@@ -7,11 +7,11 @@ tags:
   - school placements
 related:
   items:
-    - text: Beta location analysis - phase 1
+    - text: Beta location analysis (phase 1)
       href: /manage-school-placements/beta-location-analysis-phase-1/
-    - text: Beta location analysis - phase 2
+    - text: Beta location analysis (phase 2)
       href: /manage-school-placements/beta-location-analysis-phase-2/
-    - text: Beta location analysis - phase 4
+    - text: Beta location analysis (phase 4)
       href: /manage-school-placements/beta-location-analysis-phase-4/
 ---
 
