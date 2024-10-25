@@ -21,12 +21,12 @@ This following table shows the 6 providers in Leeds and the number of associated
 
 | Provider name | Provider type | Number of placement schools |
 | --- | --- | --- |
-| Leeds Beckett University | Higher education institution | 117 |
-| Leeds Trinity University | Higher education institution | 90 |
-| Red Kite Teacher Training | School-centred initial teacher training  | 55 |
-| Exceed SCITT | School-centred initial teacher training | 24 |
-| Gorse SCITT | School-centred initial teacher training | 24 |
-| Leeds SCITT | School-centred initial teacher training | 12 |
+| Leeds Beckett University | Higher education institution | over 100 |
+| Leeds Trinity University | Higher education institution | 76 to 100 |
+| Red Kite Teacher Training | School-centred initial teacher training  | 51 to 75 |
+| Exceed SCITT | School-centred initial teacher training | 1 to 25 |
+| Gorse SCITT | School-centred initial teacher training | 1 to 25 |
+| Leeds SCITT | School-centred initial teacher training | 1 to 25 |
 
 In addition to the ones listed above, from 2022 to 2023, 14 additional providers across England had trainees at placement schools in Leeds:
 
