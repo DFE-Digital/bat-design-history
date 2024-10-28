@@ -1,5 +1,4 @@
 ---
-eleventyExcludeFromCollections: true
 title: Beta location analysis (phase 4) - understanding Leeds
 description: Important considerations for performance analysis of Leeds as the beta sample location
 date: 2024-02-23T12:03:00+00:00
@@ -14,6 +13,7 @@ related:
       href: /manage-school-placements/beta-location-analysis-phase-2/
     - text: Beta location analysis (phase 3)
       href: /manage-school-placements/beta-location-analysis-phase-3/
+eleventyExcludeFromCollections: true
 ---
 
 The final consideration in our beta location analysis was to understand the Leeds area.
@@ -88,3 +88,5 @@ Sub-group analysis demonstrates that the Academies in Leeds represent the wider 
 Performance analysis should account for the disproportionate impact of ‘LA maintained schools’ on the sample.
 
 Placement schools in Leeds are predominantly (85%) in ‘Major Urban Conurbations’. If it is expected that ‘urban cities and towns’ or rural schools will behave differently in relation to the service, then the extension to this analysis should be considered.
+
+*[SCITT]: School-centred initial teacher training

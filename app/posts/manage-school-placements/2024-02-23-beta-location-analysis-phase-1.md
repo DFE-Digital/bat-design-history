@@ -1,5 +1,4 @@
 ---
-eleventyExcludeFromCollections: true
 title: Beta location analysis (phase 1)
 description: How we determined the most suitable location for the private beta
 date: 2024-02-23T12:00:00+00:00
@@ -14,6 +13,7 @@ related:
       href: /manage-school-placements/beta-location-analysis-phase-3/
     - text: Beta location analysis (phase 4)
       href: /manage-school-placements/beta-location-analysis-phase-4/
+eleventyExcludeFromCollections: true
 ---
 
 We comprehensively analysed the Register trainee teachers (Register) school placement data for the academic year 2022 to 2023 to determine the most suitable location for the private beta of Manage school placements. We aimed to select a pilot area that could provide detailed insights and support potential national expansion.
@@ -240,3 +240,9 @@ If evidence suggests our service will operate differently in rural areas, we cou
 <!-- https://educationgovuk.sharepoint.com.mcas.ms/:p:/r/sites/lvesta00013/_layouts/15/Doc.aspx?sourcedoc=%7B0D978D91-8D07-4776-B01B-A4E9AD73FD3F%7D&file=Beta%20Sample%20Analysis%20Results%20Deck.pptx&action=edit&mobileredirect=true
 
 https://educationgovuk-my.sharepoint.com.mcas.ms/personal/grace_verghis_education_gov_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fgrace%5Fverghis%5Feducation%5Fgov%5Fuk%2FDocuments%2FRecordings%2FSchool%20Placements%20Beta%20Sample%20Analysis%2D20240223%5F110434%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E62b2d2c5%2D84b1%2D457e%2D9c84%2D25f3e7d5602f -->
+
+*[HEI]: Higher education institution
+*[HEIs]: Higher education institutions
+*[ITL3]: International Territorial Level 3
+*[SCITT]: School-centred initial teacher training
+*[SCITTs]: School-centred initial teacher training

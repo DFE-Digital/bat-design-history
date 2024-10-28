@@ -1,5 +1,4 @@
 ---
-eleventyExcludeFromCollections: true
 title: Beta location analysis (phase 3) - expansion of the sample area
 description: Investigating the value of adding an additional region to our sample to improve the overall representativeness
 date: 2024-02-23T12:02:00+00:00
@@ -14,6 +13,7 @@ related:
       href: /manage-school-placements/beta-location-analysis-phase-2/
     - text: Beta location analysis (phase 4)
       href: /manage-school-placements/beta-location-analysis-phase-4/
+eleventyExcludeFromCollections: true
 ---
 
 We investigated the value of adding an additional region to our sample to improve the overall representativeness.
@@ -160,3 +160,6 @@ No adjacent region could be included in the sample for the 3 shortlisted regions
 Leeds is the best region when ranked on both value and representativeness. If we require a larger population of academies for detailed analysis, then Bradford would be the best region for expansion.
 
 [Phase 4](/manage-school-placements/beta-location-analysis-phase-4/) investigates Leeds’s characteristics and highlights important considerations for performance analysis.
+
+*[SCITT]: School-centred initial teacher training
+*[SCITTs]: School-centred initial teacher training

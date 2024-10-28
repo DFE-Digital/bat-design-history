@@ -1,5 +1,4 @@
 ---
-eleventyExcludeFromCollections: true
 title: Beta location analysis (phase 2) - representativeness of shortlisted areas
 description: Representativeness of the shortlisted areas to the wider placement school population
 date: 2024-02-23T12:01:00+00:00
@@ -14,6 +13,7 @@ related:
       href: /manage-school-placements/beta-location-analysis-phase-3/
     - text: Beta location analysis (phase 4)
       href: /manage-school-placements/beta-location-analysis-phase-4/
+eleventyExcludeFromCollections: true
 ---
 
 To statistically assess the similarity of the characteristics of placement schools in our shortlisted areas compared to the broader placement school population, we employ two statistical tests suited to the data types:
