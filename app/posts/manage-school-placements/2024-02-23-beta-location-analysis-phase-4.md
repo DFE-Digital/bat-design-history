@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Beta location analysis (phase 4) - understanding Leeds
 description: Important considerations for performance analysis of Leeds as the beta sample location
 date: 2024-02-23T12:03:00+00:00

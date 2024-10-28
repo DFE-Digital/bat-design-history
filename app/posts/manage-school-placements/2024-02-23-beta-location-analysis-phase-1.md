@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Beta location analysis (phase 1)
 description: How we determined the most suitable location for the private beta
 date: 2024-02-23T12:00:00+00:00

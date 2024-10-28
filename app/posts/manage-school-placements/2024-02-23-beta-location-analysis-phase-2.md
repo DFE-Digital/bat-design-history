@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Beta location analysis (phase 2) - representativeness of shortlisted areas
 description: Representativeness of the shortlisted areas to the wider placement school population
 date: 2024-02-23T12:01:00+00:00
