@@ -19,9 +19,9 @@ screenshots:
       - text: Organisation details
         src: support--organisation-details.png
       - text: Claim details
-        src: support--claim-details.png
+        src: support--organisation-claim-details.png
       - text: Mentor details
-        src: support--mentor-details.png
+        src: support--organisation-mentor-details.png
       - text: Organisation user details
         src: support--organisation-user-details.png
       - text: Support user details
