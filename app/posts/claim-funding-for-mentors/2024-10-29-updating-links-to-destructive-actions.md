@@ -41,7 +41,11 @@ While red links are not included in the GOV.UK Design System, the approach has b
 - GOV.UK Content Publisher
 - GOV.UK Notify
 - GOV.UK Pay
+- HMPPS Book a secure move
+- HMPPS Send money to someone in prison
 - Publish teacher training courses
 - Register trainee teachers
 
 We will revisit this decision in the future if circumstances change.
+
+*[HMPPS]: HM Prison and Probation Service
