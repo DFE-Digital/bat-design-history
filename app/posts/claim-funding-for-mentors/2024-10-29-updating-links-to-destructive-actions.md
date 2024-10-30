@@ -29,3 +29,19 @@ screenshots:
       - text: Claim window details
         src: support--settings-claim-window-details.png
 ---
+
+Following design advice, we have decided to remove the red links and reposition them below the heading of each appropriate section.
+
+Previously, when a user wanted to delete something from the service, we included a link to begin the removal process. This link was red to match the subsequent delete action, which used a red button.
+
+While red links are not included in the GOV.UK Design System, the approach has been used on several other services in Becoming a teacher (BAT) and the broader government, including, but not limited to:
+
+- Emergency Alerts
+- GOV.UK Collections Publisher
+- GOV.UK Content Publisher
+- GOV.UK Notify
+- GOV.UK Pay
+- Publish teacher training courses
+- Register trainee teachers
+
+We will revisit this decision in the future if circumstances change.
