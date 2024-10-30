@@ -26,4 +26,6 @@ screenshots:
         src: support--organisation-user-details.png
       - text: Support user details
         src: support--user-details.png
+      - text: Claim window details
+        src: support--settings-claim-window-details.png
 ---
