@@ -33,3 +33,70 @@ screenshots:
     - text: New claim check your answers showing the academic year below the school name
       src: academic-years--add-claim-check-your-answers.png
 ---
+
+When we launched the private beta on 2 May 2024, we did not include the concept of academic years. However, when a claim is submitted, it is important for users to know what academic year it relates to so they can better manage their claims in subsequent years.
+
+## What we changed
+
+We have:
+
+- grouped the claims list by academic year
+- added the academic year to the claim details, check your answers and claim declaration pages
+
+## How it works
+
+### Claims list
+
+We show claims grouped by academic year from when the school joined the service.
+
+If the school joined the service in private beta, the first academic year they will see will be 2023 to 2024, followed by all subsequent academic years:
+
+![Private beta academic years](academic-years--private-beta.png)
+
+If the school joined the service in public beta, the first academic year they will see will be 2024 to 2025, followed by all subsequent academic years:
+
+![Public beta academic years](academic-years--public-beta.png)
+
+We list academic years in reverse chronological order - the most recent academic year is listed first and marked as “current”.
+
+If the school has not claimed in the current academic year, we show a message:
+
+> There are no claims for [school name] in academic year [academic year].
+
+If the school did not claim in a previous academic year, we show a message:
+
+> There were no claims for [school name] in academic year [academic year].
+
+We do not hide academic years if the school does not claim funding for their mentors in an academic year. This gives schools an accurate record of when and what they claimed throughout the service’s lifetime.
+
+### Claim details, check your answers and claim declaration
+
+We show the academic year below the school name in the summary lists on the:
+
+- claim details
+- check your answers - when adding a new claim
+- claim declaration - when submitting a draft claim
+
+This information helps users understand to what academic year the claim relates when they do not look at the main claims list or when sharing the information with others. For example, we have found that users will copy or print claims to share with colleagues.
+
+Users cannot change the academic year; it is calculated when the claim is created.
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- moving the ‘Add claim’ button into the current academic year section
+- displaying one list of claims and using filters to find claims
+
+### Moving the ‘Add claim’ button
+
+We considered moving the ‘Add claim’ button to within the current academic year section to clarify what year adding the claim is related to. However, we did not implement these changes because:
+
+- most schools, there would only be one academic year in their claims list
+- schools can only claim for the current academic year, and they may question why other years do not have an ‘Add claim’ button
+
+### Using an academic year filter
+
+We considered using filters to help users find claims for a specific academic year. However, this approach leads to a more complex interaction design, and users cannot quickly glance at the list and understand what claims were made each year.
+
+Furthermore, the average number of claims per school is 3, so the claims list does not need filters to help users find claims.
