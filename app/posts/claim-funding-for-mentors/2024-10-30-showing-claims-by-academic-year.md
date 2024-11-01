@@ -1,7 +1,7 @@
 ---
 title: Showing claims by academic year
 description: We updated the claims list to group claims by academic year
-date: 2024-07-30T14:00:00+00:00
+date: 2024-10-30T13:00:00+00:00
 tags:
   - claim windows
   - academic years
@@ -29,7 +29,7 @@ screenshots:
     - text: Draft claim details showing the academic year cannot be changed
       src: academic-years--claim-details-draft.png
     - text: Declaration page when a user submits a draft claim
-      src: academic-years--draft-claimdeclaration.png
+      src: academic-years--draft-claim-declaration.png
     - text: New claim check your answers showing the academic year below the school name
       src: academic-years--add-claim-check-your-answers.png
 ---

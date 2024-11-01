@@ -1,7 +1,7 @@
 ---
 title: Grouping and filtering claims by academic years in Support
 description: We added grouping and filtering to the claims views to make it easier to manage claims
-date: 2024-07-30T13:00:00+00:00
+date: 2024-10-30T14:00:00+00:00
 tags:
   - claim windows
   - academic years
@@ -33,5 +33,5 @@ screenshots:
     - text: Support claims list showing academic year filter
       src: academic-years--support-claims.png
     - text: Support claims list showing academic year selected
-      src: academic-years--support-claims-filter.png
+      src: academic-years--support-claims-filtered.png
 ---
