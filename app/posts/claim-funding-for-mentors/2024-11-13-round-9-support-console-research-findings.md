@@ -111,7 +111,7 @@ One participant spotted this and said they would have assumed the whole claim wa
 
 We need to be made aware of which mentor is incorrect for validation to work correctly within the service,
 
-##### Problem to solve
+#### Problem to solve
 
 How do we help users understand that a claim can be partially wrong and that they must state the incorrect mentor as the reason for the clawback?
 
