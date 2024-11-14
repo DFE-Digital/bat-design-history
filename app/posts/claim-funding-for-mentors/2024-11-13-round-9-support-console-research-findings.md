@@ -115,7 +115,7 @@ We need to be made aware of which mentor is incorrect for validation to work cor
 
 How do we help users understand that a claim can be partially wrong and that they must state the incorrect mentor as the reason for the clawback?
 
-## Next steps:
+## Next steps
 
 Further testing is required on the payments, sampling, and clawbacks sections, as well as how we can make it easier and clearer for users when actioning claims.
 
