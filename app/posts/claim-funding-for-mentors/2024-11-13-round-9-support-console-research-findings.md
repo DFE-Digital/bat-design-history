@@ -32,7 +32,7 @@ We spoke to 3 members of the support team who will be managing claims for the Cl
 
 ## Methodology
 
-We carried out task-based usability testing with participants to test the main tasks that will be completed within the support console to manage claims.
+We performed task-based usability testing with participants to better understand the main tasks they must complete within the support console to manage claims.
 
 We used example CSV files, allowing participants to upload to the support console as part of the user journeys.
 
@@ -53,7 +53,7 @@ In the absence of these user groups, we could not test:
 - interactions with Zendesk relating to the above communications
 - interactions and usability of the CSV files
 
-Therefore, this round of research did not test the full end-to-end journey.
+Therefore, this round of research only tests part of the end-to-end journey.
 
 All research took place within the support console prototype.
 
@@ -61,7 +61,7 @@ All research took place within the support console prototype.
 
 ### Download CSV button
 
-When asked how users would send claims to ESFA for payment, the ‘Download CSV’ button on the ‘All claims’ page caused confusion.
+When asked how they would send claims to ESFA for payment, the ‘Download CSV’ button on the ‘All claims’ page confused participants.
 
 Because the ‘Download CSV’ is the first call to action they see when on the ‘All claims’ page, they thought this was the action they needed to take to send claims to ESFA.
 
@@ -69,7 +69,7 @@ Participants did not initially see the ‘Payments’ section in the sub-navigat
 
 #### Recommendations
 
-The ‘Download CSV’ button would only be used when an accredited provider asks to see a list of claims associated with them. Our research findings with accredited providers show that this user need is a low priority.
+Support users would only use the ‘Download CSV’ button when an accredited provider asks to see a list of claims associated with them. Our research findings with accredited providers show that this user need is a low priority.
 
 We recommend exploring the following options:
 
@@ -81,15 +81,17 @@ We recommend exploring the following options:
 
 There needed to be more clarity on how to action claims within the support console.
 
-Participants expected to be able to perform all actions on the 'All claims' page. They needed help understanding why and how to perform actions within each section.
+Participants thought they could perform all actions on the 'All claims' page. They needed help understanding why and how to perform actions within each section.
 
-However, they said that they would better understand how it worked once they had training.
+However, they said they would better understand how it worked after training.
 
 #### Recommendations
 
-Explore the purpose and need for an ‘all claims’ page. It is currently assumed that support users would want to see a list of all claims, but there is no evidence of a user's need for this. The primary purpose of the ‘All claims’ page is for providers to gain access to claims associated with them.
+Explore the purpose of the ‘All claims’ page.
 
-Include a prompt on the page to help users understand where to go to act on a claim.
+Provide better sign-posting for the payments, sampling, and clawback sections.
+
+Consider including prompts on the claim details page, accessed via ‘All claims’, to help users understand where to act on a claim.
 
 ### Status labels
 
@@ -107,7 +109,7 @@ When a user rejects a claim, it doesn’t mean the whole claim is wrong.
 
 We need to be clear that this is how it works, as not all participants realised this.
 
-One participant spotted this and said they would have assumed the whole claim was incorrect based on rejection. This requires an action from the support user to specify which mentor is incorrect within the clawback process. It was difficult to test whether they would be aware to do this or do this correctly within a UR session.
+One participant spotted this and said they would have assumed the whole claim needed to be corrected based on rejection. This requires an action from the support user to specify which mentor is incorrect within the clawback process. It was difficult to test whether they would be aware to do this or do this correctly within a UR session.
 
 We need to be made aware of which mentor is incorrect for validation to work correctly within the service,
 
