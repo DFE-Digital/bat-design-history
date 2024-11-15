@@ -32,7 +32,7 @@ screenshots:
       src: activity-log--details-pagination.png
 ---
 
-As part of the payments, sampling and clawbacks work, we needed to capture when a support user carried out an important action. To do this we created an activity log.
+As part of the payments, sampling, and clawbacks work, we needed to capture when a support user took an important action. To do this, we created an activity log.
 
 ## How it works
 
@@ -63,7 +63,7 @@ Each action shows:
 - when the action was carried out
 - an alphabetical list of links to the files sent or received
 
-If there are more than 25 items in the log, we show [pagination](https://design-system.service.gov.uk/components/pagination/).
+If more than 25 items are in the log, we show [pagination](https://design-system.service.gov.uk/components/pagination/).
 
 We limit the number of documents listed for each item in the log to 5. If there are more than 5 documents, we display a message (for example, ‘Showing 5 of 27 files’) and a link to view all files.
 
@@ -82,21 +82,28 @@ If there are more than 25 documents, we show [pagination](https://design-system.
 
 We considered some changes that we did not implement. These included:
 
-- Capturing all activity in the log, not just support functions
-- Logging the provider name against each ‘provider sampling response uploaded’ action
+- capturing all activity in the log, not just support functions
+- logging the provider name against each ‘provider sampling response uploaded’ action
+- allowing Support users to add comments or notes
 
 ### Capturing all activity in the log
 
-We considered capturing all user activity in the activity log, but could not find a need for it.
+We considered capturing all user activity in the activity log but could not find a need.
 
-We already display who submitted a claim and when they submitted it in the claim details, so it’s not necessary to record this information in a log. Furthermore, users cannot amend claims unless they are in the ‘draft’ state, so there is no need to track changes.
+We already display who submitted a claim and when in the claim details, so it’s not necessary to record this information in a log. Furthermore, users cannot amend claims unless in the ‘draft’ state, so there is no need to track changes.
 
 We will revisit this if or when the need arises.
 
 ### Logging the provider name in their response
 
-When a provider returns their sampling file and support uploads it to the service, we currently do not label the provider in the activity log. This means there could be many log items with the same details and no way to differentiate them.
+When a provider returns their sampling file, and support uploads it to the service, we currently do not label the provider in the activity log. This means there could be many log items with the same details and no way to differentiate them.
 
 Instead of using the generic ‘Provider sampling response’ we need to label the link ‘[Provider name] sampling response’. The name could be derived from the file contents or manually selected by the support user.
 
-If more than one accredited provider’s data exists within the file, the service will need to separate the content and show links for each accredited provider’s data.
+If more than one accredited provider’s data exists within the file, the service must separate the content and show links for each accredited provider’s data.
+
+### Allowing support users to add notes
+
+Support users often need to talk to schools and providers. When they do, it is via Zendesk. However, this leads to a disconnect between the information in the service and what is held in Zendesk.
+
+In user research, we found that support users may need to add a private note to explain the status of a claim to other support users.
