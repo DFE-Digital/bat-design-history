@@ -108,6 +108,7 @@ To solve these problems, we ask users to enter the opening and closing dates for
 ## How it works
 
 Managing claim windows is accessed via the primary navigation's ‘Service settings’ option.
+
 ### Claim windows list
 
 On the claim windows list page, we show:
