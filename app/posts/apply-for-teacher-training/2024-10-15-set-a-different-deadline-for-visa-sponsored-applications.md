@@ -11,7 +11,7 @@ tags:
 
 ## Background
 
-International candidates who need visa sponsorship need to apply earlier in the recruitment cycle because it takes around 90 days between them being accepted onto a course and them being ready to start on that course.  
+Candidates who need visa sponsorship need to apply earlier in the recruitment cycle because our data analysis shows that it takes around 90 days between them being accepted onto a course and them being ready to start on that course. The exact time will vary depending on the provider.
 
 The candidate needs to apply for their visa which has [a current processing time of 3 weeks](https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk#current-processing-times), but can take longer.  
 
@@ -29,9 +29,9 @@ The training provider can select any date to close the course to candidates who 
 
 The new closing date will be shown to candidates who have indicated that they need a visa when they are searching for courses.
 
-When they apply for a course with a closing date sooner than the end of the recruitment cycle they will see a banner warning them from when there are 6 days until the submission deadline on their applications page. The banner will persist on each of the remaining days before the deadline.
+When they apply for a course with a closing date sooner than the end of the recruitment cycle they will see a banner warning them from when there are 20 days until the submission deadline on their applications page. The banner will persist on each of the remaining days before the deadline.
 
-If they have applied to more than one course they will see a banner warning for each course with a visa submission deadline, stacked at the top of their applications page.
+If they have applied to more than one course they will see a banner warning for each course with a visa submission deadline. The warning for each course will be displayed in the same banner rather than a separate banner for each warning.
 
 There will also be a warning banner on each application.
 
@@ -41,7 +41,7 @@ When the deadline has passed without the candidate submitting their application,
 
 ### Candidate research findings
 
-We did some research with international candidates in March 2024 and we showed them some designs for the warning banners, the deadline on the course pages and the note that the deadline has passed.
+We did some research with candidates who need visa sponsorship in March 2024 and we showed them some designs for the warning banners, the deadline on the course pages and the note that the deadline has passed.
 
 We found that knowing the deadline is very useful for international candidates to help them prioritise their applications. It was very well received.
 
