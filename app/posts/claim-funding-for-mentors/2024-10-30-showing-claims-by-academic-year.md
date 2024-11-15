@@ -34,7 +34,9 @@ screenshots:
       src: academic-years--add-claim-check-your-answers.png
 ---
 
-When we launched the private beta on 2 May 2024, we did not include the concept of academic years. However, when a claim is submitted, it is important for users to know what academic year it relates to so they can better manage their claims in subsequent years.
+When we launched the private beta on 2 May 2024, we did not include the concept of academic years. However, when a claim is submitted, users need to know what academic year it relates to to better manage their claims in subsequent years.
+
+This is particularly important when school users submit claims for the previous academic year, which may need clarification. For example, we opened a second claim window in the private beta in September 2024. The claim was for training that had taken place in the 2023 to 2024 academic year but was being submitted in the 2024 to 2025 academic year.
 
 ## What we changed
 
@@ -77,7 +79,7 @@ We show the academic year below the school name in the summary lists on the:
 - check your answers - when adding a new claim
 - claim declaration - when submitting a draft claim
 
-This information helps users understand to what academic year the claim relates when they do not look at the main claims list or when sharing the information with others. For example, we have found that users will copy or print claims to share with colleagues.
+This information helps users understand the academic year the claim relates to when they do not look at the central claims list or when sharing the information with others. For example, we have found that users will copy or print claims to share with colleagues.
 
 Users cannot change the academic year; it is calculated when the claim is created.
 
@@ -97,6 +99,6 @@ We considered moving the ‘Add claim’ button to within the current academic y
 
 ### Using an academic year filter
 
-We considered using filters to help users find claims for a specific academic year. However, this approach leads to a more complex interaction design, and users cannot quickly glance at the list and understand what claims were made each year.
+We considered using filters to help users find claims for a specific academic year. However, this approach leads to a more complex interaction design, and users need help to quickly glance at the list and understand what claims were made each year.
 
 Furthermore, the average number of claims per school is 3, so the claims list does not need filters to help users find claims.
