@@ -187,8 +187,6 @@ The form includes three questions:
 
 Users must answer all questions.
 
-If they do not enter the window opening and closing dates,
-
 If users do not enter a date the window opens, we show a message:
 
 > Enter the date the window opens
