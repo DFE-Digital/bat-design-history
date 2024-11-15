@@ -29,11 +29,11 @@ subject: "Claims ready for payment - Claim funding for mentor training",
 content: "
 To ESFA,
 
-These claims from the Claim funding for mentor training service (Claim) are ready for payment — the link to the latest CSV file is valid for 7 days: 
+These claims from the Claim funding for mentor training service (Claim) are ready for payment — the link to the latest CSV file is valid for 7 days:
 
 ((CSV file link))
 
-What you need to do: 
+What you need to do:
 
 1. Check and validate the claims in the CSV file by marking them as ‘paid’ or ‘unpaid’ in the ‘claim_status’ column.
 
@@ -101,11 +101,11 @@ subject: "Claims requiring clawback - Claim funding for mentor training",
 content: "
 To ESFA,
 
-The claims in the CSV file link are ready for clawback— the link to the latest CSV file is valid for 7 days: 
+The claims in the CSV file link are ready for clawback— the link to the latest CSV file is valid for 7 days:
 
 ((CSV file link))
 
-What you need to do: 
+What you need to do:
 
 1. Check and validate the claims in the CSV file by marking them as ‘xxx’ or ‘xxxx’ in the ‘claw_status’ column.
 
@@ -115,7 +115,7 @@ What you need to do: 
 
 The Claim Support team will follow up on the reasons for claims that you weren’t able to clawback and will email you back an updated version.  
 
-If you have a problem opening the link, or it has expired, reply to this email and ask for the link to be sent again. 
+If you have a problem opening the link, or it has expired, reply to this email and ask for the link to be sent again.
 
 # Give feedback or report a problem
 
