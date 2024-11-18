@@ -93,6 +93,7 @@ Once a school submits a claim, it enters a queue waiting to be sent to the ESFA 
 A support user must select the ‘Send claims to ESFA’ button to send all ‘Submitted’ claims to the ESFA. Before submitting, we show users how many claims will be sent and what will happen once they’ve sent them:
 
 > Selecting ‘Send claims’ will:
+>
 > - create a CSV containing a list of all ‘Submitted’ claims
 > - send an email to the ESFA containing a link to the generated CSV - this link expires after 7 days.
 > - update the claim status from ‘Submitted’ to ‘Payment in progress’
@@ -142,7 +143,6 @@ We show ‘Help with the CSV file’ in a [details component](https://design-sys
 > - claim_submission_date
 > - claim_status
 > - claim_unpaid_reason
-
 
 ##### Validation rules
 
