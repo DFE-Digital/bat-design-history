@@ -139,7 +139,7 @@ The affected claim reference is: ((claim reference))
 
 You can view the updated claim on Claim funding for mentor training:
 
-((link to service))
+<https://claim-funding-for-mentor-training.education.gov.uk/sign-in>
 
 # Give feedback or report a problem
 
