@@ -37,13 +37,13 @@ What you need to do:
 
 1. Check and validate the claims in the CSV file by marking them as ‘paid’ or ‘unpaid’ in the ‘claim_status’ column.
 
-2. If you mark a claim as ‘unpaid’ add the reason in the ‘claim_unpaid_reason’ column.
+2. If you mark a claim as ‘unpaid’, add the reason in the ‘claim_unpaid_reason’ column.
 
 3. Reply to this email and attach the updated CSV file.
 
-The Claim Support team will follow up on the reasons for unpaid claims and will email you back an updated version.  
+The Claim Support team will follow up on the reasons for unpaid claims and email back an updated version.
 
-If you have a problem opening the link, or it has expired, reply to this email and ask for the link to be sent again.
+If you have a problem opening the link or it has expired, reply to this email and request that it be sent again.
 
 # Give feedback or report a problem
 
@@ -63,25 +63,25 @@ subject: "ITT mentor claims need to be assured",
 content: "
 Dear ((firstname)),
 
-These claims from the Claim funding for mentor training service (Claim) are ready for post-payment assurance – the link to the latest CSV file is valid for 7 days.
+These claims from the Claim funding for mentor training service (Claim) are ready for post-payment assurance. The link to the latest CSV file is valid for 7 days.
 
 ((CSV file link))
 
 What you need to do:
 
-1. Check the information detailed in the claims matches your information, specifically the mentor names and the hours of training. If it does mark them as ‘yes’ in the ‘claim_assured’ column.
+1. Check the information detailed in the claims matches your information, specifically the mentor names and the hours of training. If it does, mark them as ‘yes’ in the ‘claim_assured’ column.
 
-2. If you disagree with any of the information, then please contact the placement school to discuss. They may have additional evidence.
+2. If you disagree with the information, please contact the placement school to discuss it. They may have additional evidence.
 
-3. If they are unable to provide any additional information or can’t provide information that you are not content with then mark the claim as ‘no’ in the ‘claim_assured’ column. In the ‘claim_not_assured_reason’ column put a reason why the claim has not been assured, for example, the mentor’s name is wrong, or the number of hours exceeds the evidence that you have.
+3. If they cannot provide any additional information or cannot provide information that you are not content with, mark the claim as ‘no’ in the ‘claim_assured’ column. In the ‘claim_not_assured_reason’ column, indicate why the claim has not been assured. For example, the mentor’s name is wrong, or the number of hours exceeds the evidence that you have.
 
-4. If the placement school provides any additional information which you are content with then mark the claim as ‘yes’ in the ‘claim_assured’ column.
+4. If the placement school provides any additional information you are content with, mark the claim as ‘yes’ in the ‘claim_assured’ column.
 
 5. Reply to this email and attach the updated CSV.
 
-The Claim Support team will follow up with the placement schools on the claims the claims that have not been assured, but no further action will be required by you.
+The Claim Support team will follow up with the placement schools on the claims that have not been assured. You will not need to take further action.
 
-If you have a problem opening the link, or it has expired, reply to this email and ask for the link to be sent again.
+If you have a problem opening the link or it has expired, reply to this email and request that it be sent again.
 
 # Give feedback or report a problem
 
@@ -107,15 +107,15 @@ The claims in the CSV file link are ready for clawback— the link to the latest
 
 What you need to do:
 
-1. Check and validate the claims in the CSV file by marking them as ‘xxx’ or ‘xxxx’ in the ‘claw_status’ column.
+1. Check and validate the claims in the CSV file by marking them as ‘clawback_in_progress’ or ‘clawback_received’ in the ‘clawback_status’ column.
 
-2. If you mark a claim as ‘xxxx’ add the reason in the ‘clawback_unsuccessful_reason’ column.
+2. If you mark a claim as ‘clawback_in_progress’, add the reason to the ‘clawback_unsuccessful_reason’ column.
 
 3. Reply to this email and attach the updated CSV file.
 
-The Claim Support team will follow up on the reasons for claims that you weren’t able to clawback and will email you back an updated version.  
+The Claim Support team will follow up on the reasons for the claims that you could not claw back and email you an updated version.
 
-If you have a problem opening the link, or it has expired, reply to this email and ask for the link to be sent again.
+If you have a problem opening the link or it has expired, reply to this email and request that it be sent again.
 
 # Give feedback or report a problem
 
@@ -133,7 +133,7 @@ subject: "ITT mentor claim requires a clawback",
 content: "
 Dear ((firstname)),
 
-We have amended your claim to reflect the amount being clawed back by the Education and Skills Funding Agency (ESFA). They will be in touch to discuss how they will claim this money from you.
+We have amended your claim to reflect the amount being clawed back by the Education and Skills Funding Agency (ESFA). They will contact you to discuss how they will claim this money from you.
 
 The affected claim reference is: ((claim reference))
 
