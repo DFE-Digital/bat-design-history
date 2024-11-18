@@ -77,10 +77,10 @@ The payments section is a sub-section of ‘Claims’.
 
 The payments section has 2 workflows:
 
-- Sending claims to the ESFA for payment - the primary action
-- Uploading the payment response from the ESFA - the secondary action
+- [Sending claims to the ESFA for payment](#sending-claims-to-the-esfa) - the primary action
+- [Uploading payment responses from the ESFA](#uploading-payment-responses-from-the-esfa) - the secondary action
 
-The payment section is empty until we receive a response from the ESFA; there are no claims to be processed by Support. In this situation, we show a message below the action:
+The payment section is empty until we receive a response from the ESFA; there are no claims to be processed by Support. In this situation, we show a message below the actions:
 
 > There are no claims waiting to be processed.
 
@@ -115,7 +115,7 @@ If no claims are pending payment, we show a message:
 
 The only option is to cancel and return to the main payments screen.
 
-### Uploading a response from the ESFA
+### Uploading payment responses from the ESFA
 
 The upload process has 2 steps:
 
