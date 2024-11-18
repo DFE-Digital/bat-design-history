@@ -58,35 +58,41 @@ screenshots:
       src: payments--download-payments-file-error.png
 ---
 
-We needed to create an efficient way for support users to send claims to the Education and Skills Funding Agency (ESFA).
+We needed to create a quick and easy way for support users to send claims to the Education and Skills Funding Agency (ESFA).
 
-When we initially spoke to Support about designing this process, they were concerned that manually sending CSVs to the ESFA may result in files being sent to an incorrect email address or the wrong file being sent.
+Since the ESFA will not have access to Claim funding for mentor training, we decided to share information using email and CSV files.
+
+When we initially spoke to Support about designing this process, they were concerned that manually sending CSVs to the ESFA may result in:
+
+- files being sent to an incorrect email address
+- the wrong file being sent
 
 With this in mind, we decided to semi-automate the process.
 
 ## How it works
 
-The payments section has 2 main processes:
+The payments section is a sub-section of ‘Claims’.
 
-- Sending claims to the ESFA for payment
-- Uploading a response from the ESFA
+![Screenshot showing the claims section navigation with ‘Payments’ highlighted](payments--navigation.png "Screenshot showing the claims section navigation with ‘Payments’ highlighted")
 
-These processes sit within the ‘Claims’ section in Support in a sub-section called ‘Payments’.
+The payments section has 2 workflows:
 
-![Screenshot showing the claims section navigation](payments--navigation.png)
+- Sending claims to the ESFA for payment - the primary action
+- Uploading the payment response from the ESFA - the secondary action
 
-The payment section is empty until we receive a response from the ESFA; there are no claims to be processed by Support.
+The payment section is empty until we receive a response from the ESFA; there are no claims to be processed by Support. In this situation, we show a message below the action:
+
+> There are no claims waiting to be processed.
 
 ![Screenshot showing the payments section empty state](payments--default.png 'Screenshot showing the payments section empty state')
 
 ### Sending claims to the ESFA
 
-Once a school submits a claim, it enters a queue waiting to be sent to the ESFA for payment. Claims are not automatically submitted to the ESFA. Support users can view these claims in the ‘Claims’ section or via an individual organisation’s claims page. These claims are in the ‘Submitted’ status.
+Once a school submits a claim, it enters a queue waiting to be sent to the ESFA for payment. Claims are not automatically submitted to the ESFA. Support users can view these claims in the ‘All claims’ section or via an individual organisation’s claims page. These claims are in the ‘Submitted’ status.
 
 A support user must select the ‘Send claims to ESFA’ button to send all ‘Submitted’ claims to the ESFA. Before submitting, we show users how many claims will be sent and what will happen once they’ve sent them:
 
 > Selecting ‘Send claims’ will:
->
 > - create a CSV containing a list of all ‘Submitted’ claims
 > - send an email to the ESFA containing a link to the generated CSV - this link expires after 7 days.
 > - update the claim status from ‘Submitted’ to ‘Payment in progress’
@@ -137,6 +143,7 @@ We show ‘Help with the CSV file’ in a [details component](https://design-sys
 > - claim_status
 > - claim_unpaid_reason
 
+
 ##### Validation rules
 
 We follow the [error message guidance](https://design-system.service.gov.uk/components/file-upload/#error-messages) outlined in the GOV.UK Design System [file upload component](https://design-system.service.gov.uk/components/file-upload/).
@@ -163,7 +170,7 @@ Users can continue and complete the file upload or cancel out of the process.
 
 #### Upload success
 
-When the ESFA file is successfully uploaded, all claims referenced are updated in the service.
+When a user successfully uploads the ESFA file, all claims referenced are updated in the service.
 
 The upload can result in a claim being in one of two states:
 
@@ -184,7 +191,7 @@ The only option is to cancel and return to the main payments screen.
 
 ### Responding to a request for information
 
-For all claims marked as ‘Information requested,’ the ESFA will describe what they need. For example, they could need the school’s bank details because the information they hold is out of date.
+For all claims marked as ‘Information requested,’ the ESFA will describe its needs. For example, the ESFA could need the school’s bank details because the information it holds is out of date.
 
 In this situation, a support user must contact the school for relevant information. This interaction is carried out off-service via Zendesk.
 
