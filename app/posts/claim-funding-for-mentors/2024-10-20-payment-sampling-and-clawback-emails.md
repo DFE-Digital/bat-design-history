@@ -107,7 +107,7 @@ The claims in the CSV file link are ready for clawback— the link to the latest
 
 What you need to do:
 
-1. Check and validate the claims in the CSV file by marking them as ‘clawback_in_progress’ or ‘clawback_received’ in the ‘clawback_status’ column.
+1. Check and validate the claims in the CSV file by marking them as ‘clawback_in_progress’ or ‘clawback_complete’ in the ‘claim_status’ column.
 
 2. If you mark a claim as ‘clawback_in_progress’, add the reason to the ‘clawback_unsuccessful_reason’ column.
 
