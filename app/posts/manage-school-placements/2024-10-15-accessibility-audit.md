@@ -4,6 +4,9 @@ description: What we've done to ensure the accessibility of our service
 date: 2024-10-15
 tags:
   - accessibility
+eleventyComputed:
+  eleventyNavigation:
+    key: school-placements-accessibility-audit
 ---
 
 *[ARIA]: Accessible Rich Internet Applications
@@ -11,7 +14,7 @@ tags:
 *[HTML]: Hypertext Markup Language
 *[WCAG]: Web Content Accessibility Guidelines
 
-We recently commissioned [Zoonou](https://zoonou.com) to conduct an accessibility audit of our School Placements and Claim Funding for Mentor Training services.
+We recently commissioned [Zoonou](https://zoonou.com) to conduct an accessibility audit of our [Manage school placements](/manage-school-placements/) and [Claim funding for mentor training](/claim-funding-for-mentors/) services. They are both served from [a single shared codebase](https://github.com/DFE-Digital/itt-mentor-services), so it made sense to audit the two together.
 
 The initial audit, performed on 28 August 2024, assessed the services against [WCAG 2.2 Level AA standards](https://www.w3.org/TR/WCAG22/). After completing remediation work, a verification audit was conducted on 14 October 2024 to confirm the successful resolution of the identified issues.
 
@@ -42,4 +45,6 @@ The remaining 5 issues were closed following our feedback and clarification, as 
 
 ## Next steps
 
-Our accessibility statements will be updated to reflect the outcome of this accessibility assessment and remediation work. We are committed to maintaining accessibility best practices and will continue to monitor and improve our services to ensure they meet WCAG 2.2 Level AA standards.
+Our accessibility statements will be updated to reflect the outcome of this accessibility assessment and remediation work.
+
+We are committed to maintaining accessibility best practices and will continue to monitor and improve our services to ensure they meet WCAG 2.2 Level AA standards.
