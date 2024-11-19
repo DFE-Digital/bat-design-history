@@ -57,6 +57,44 @@ Therefore, this round of research only tests part of the end-to-end journey.
 
 All research took place within the support console prototype.
 
+## Scenarios we tested
+
+### Scenario 1: Seeing all claims
+
+Imagine that the claims window is closed, and you need to start managing the claims.
+
+Please show me where you would go to do this.
+
+### Scenario 2: Sending claims to the ESFA for payment
+
+Imagine that schools have submitted their claims, and the claim window is now closed.
+
+In order for the ESFA to pay schools their funding, the first step is for you to send them the submitted claims. Can you show me how you would do this?
+
+### Scenario 3: Sending claims to providers for assurance
+
+Imagine several months have passed, schools have been paid, and we now need to sample some of the claims (15%) to check that they are accurate.
+
+The claims need to be sent to providers for sampling. Please show me how you would go about doing this.
+
+### Scenario 4: Uploading a provider’s sampling response
+
+Imagine that the providers have now sent you their response via CSV in Zendesk.
+
+You now need to update the support console with the provider's response. How would you do this?
+
+### Scenario 5: Rejecting claims for clawback
+
+Imagine a claim is incorrect, and it needs to be rejected in the support console.
+
+Please show me how you would do this.
+
+### Scenario 6: Sending claims to the ESFA for clawback
+
+You have rejected several claims based on the outcome of sampling, which means the funding needs to be reimbursed to ESFA.
+
+Please show me how you would begin this process.
+
 ## Key insights
 
 ### Download CSV button
