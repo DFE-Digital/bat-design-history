@@ -18,7 +18,7 @@ Understand how MATs will use the service. Will they make claims at an individual
 
 ## Who we spoke to
 
-All schools included in the research were Multi Academy Trusts. We ensured a geographic spread.
+All schools included in the research were multi-academy trusts. We ensured a geographic spread.
 
 Participants included:
 
@@ -31,18 +31,18 @@ Participants included:
 
 Users could confidently understand the service and who it is for when reading through the start page.
 
-They reported that the start page is really clear and informative. When asked to summarise the service and who it is for, they were able to explain the service correctly.
+They reported that the start page is really clear and informative. When asked to summarise the service and who it is for, they explained the service correctly.
 
-They all pointed out that the content stating that the service was not for ECF mentors was particularly helpful.
+They all pointed out that the content stating that the service was not for early career framework (ECF) mentors was particularly helpful.
 
 Whether or not schools will make claims centrally or at an individual level depends on the school.
 
-As assumed, there was no exact answer for this. All the schools we spoke to said that funding is assigned to each school, and activities like this would usually be done at an individual school level.
+All the schools we spoke to said that funding is assigned to each school and activities like claiming mentor funding would usually be done at an individual school level.
 
-It is important to note that all of the MATs we were able to speak to only had a small number of schools, so this may vary depending on size.
+It is important to note that all the MATs we spoke to only had a small number of schools. Therefore, these findings may vary depending on the MAT’s size.
 
-However, when testing the ability to ‘change organisation’ and make a claim on behalf of another school, they said it was very easy.
+Participants said it was very easy when testing the ability to ‘change organisation’ and make a claim on behalf of another school.
 
 ## Next steps
 
-Our research has informed us that the journey to changing organisation and submitting claims on behalf of other schools is easy to use. Therefore, changes are only needed if data or support requests tell us otherwise when we go live with the public beta.
+Our research has informed us that changing organisations and submitting claims on behalf of other schools is easy. Therefore, changes are only needed if data or support requests tell us otherwise when we go live with the public beta.
