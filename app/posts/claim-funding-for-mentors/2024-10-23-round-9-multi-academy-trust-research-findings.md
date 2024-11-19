@@ -1,6 +1,6 @@
 ---
 title: Round 9 multi-academy trust (MAT) research findings
-Description: Understanding how multi-academy trusts (MATs) manage initial teacher training (ITT) with a focus on finances
+description: Understanding how multi-academy trusts (MATs) manage initial teacher training (ITT) with a focus on finances
 date: 2024-10-23
 tags:
   - research
