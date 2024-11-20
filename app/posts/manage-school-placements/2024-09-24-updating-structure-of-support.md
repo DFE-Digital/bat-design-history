@@ -4,14 +4,6 @@ description: Changes to the structure of our support site to allow for continued
 date: 2024-08-15
 tags:
   - support users
-related:
-  items:
-    - text: Adding placements if you belong to a school
-      href: /manage-school-placements/adding-placements/
-    - text: The lifecycle of a school placement
-      href: /manage-school-placements/the-lifecycle-of-a-school-placement/
-    - text: User research round 6 findings
-      href: /manage-school-placements/user-research-round-6-findings/
 ---
 
 As part of our regular work looking at ensuring support user’s are able to undertake all tasks that provider and school users do, we found that the existing structure was no longer working.
