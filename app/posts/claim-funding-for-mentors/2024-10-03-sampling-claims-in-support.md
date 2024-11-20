@@ -295,7 +295,7 @@ In the next development phase, we should include the accredited provider’s nam
 
 In private beta, we only worked with two accredited providers: Best Practice Network and the National Institute of Teachers (NIoT). This small number of accredited providers meant we only needed to upload one file at a time.
 
-However, the service will expand in public beta to include all (approximately 200) accredited providers. In this situation, we may need to consider using a [multi-file upload pattern](https://design-patterns.service.justice.gov.uk/components/multi-file-upload/) to upload CSV files more efficiently.
+However, the service will expand to include all (approximately 170) accredited providers in public beta. In this situation, we may need to consider using a [multi-file upload pattern](https://design-patterns.service.justice.gov.uk/components/multi-file-upload/) to upload CSV files more efficiently.
 
 However, we have not established this need as the upload file flow is short. Furthermore, if we implement accounts for accredited providers, the need for file uploads is removed.
 
