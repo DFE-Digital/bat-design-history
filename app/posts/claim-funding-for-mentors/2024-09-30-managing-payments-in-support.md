@@ -62,10 +62,10 @@ We needed to create a quick and easy way for support users to send claims to the
 
 Since the ESFA will not have access to Claim funding for mentor training, we decided to share information using email and CSV files.
 
-When we initially spoke to Support about designing this process, they were concerned that manually sending CSVs to the ESFA may result in:
+When we initially spoke to Support about designing this process, they were concerned that manually sending CSVs to the ESFA may result in us sending:
 
-- files being sent to an incorrect email address
-- the wrong file being sent
+- files to an incorrect email address
+- the wrong file
 
 With this in mind, we decided to semi-automate the process.
 
@@ -90,9 +90,9 @@ The payment section is empty until we receive a response from the ESFA; there ar
 
 ![Send claims to the ESFA be paid flow diagram](payments--send-claims-to-esfa-flow.png)
 
-Once a school submits a claim, it enters a queue waiting to be sent to the ESFA for payment. Claims are not automatically submitted to the ESFA. Support users can view these claims in the ‘All claims’ section or via an individual organisation’s claims page. These claims are in the ‘Submitted’ status.
+Once a school submits a claim, it enters a queue waiting for support to send to the ESFA for payment. We do not automatically submit claims to the ESFA. Support users can view these claims in the ‘All claims’ section or via an individual organisation’s claims page. These claims are in the ‘Submitted’ status.
 
-A support user must select the ‘Send claims to ESFA’ button to send all ‘Submitted’ claims to the ESFA. Before submitting, we show users how many claims will be sent and what will happen once they’ve sent them:
+A support user must select the ‘Send claims to ESFA’ button to send all ‘Submitted’ claims to the ESFA. Before submitting, we show users how many claims we will send and what will happen once we have sent them:
 
 > Selecting ‘Send claims’ will:
 >
@@ -100,15 +100,15 @@ A support user must select the ‘Send claims to ESFA’ button to send all ‘S
 > - send an email to the ESFA containing a link to the generated CSV - this link expires after 7 days.
 > - update the claim status from ‘Submitted’ to ‘Payment in progress’
 
-We warn users that the process cannot be undone when sending claims to the ESFA. They will have to contact the ESFA directly.
+We warn users that they cannot undo sending claims to the ESFA. They will have to contact the ESFA directly.
 
 The email contains instructions on how the ESFA should update the CSV and send it back after processing the claims.
 
-Once sent, the claim status is updated to ‘Payment in progress’, and school users can see this status.
+Once sent, we update the claim status to ‘Payment in progress’; school users can see this status.
 
 #### Downloading the payments file
 
-No claim details are sent to the ESFA. Instead, we send the ESFA a link to a page in the service where they can download the CSV file for payments. This link is only valid for 7 days, after which a support user must send a new link.
+We do not attach claims to the email we send to the ESFA. Instead, we send the ESFA a link to a page in the service where they can download the CSV file for payments. This link is only valid for 7 days, after which a support user must send a new link.
 
 #### No claims pending payment
 
@@ -166,7 +166,7 @@ If users upload a valid CSV file but it is empty, we show an error message:
 
 #### Check before uploading
 
-We do not immediately upload the data from the ESFA into the database. Instead, we ask users to confirm they want to upload the data. This allows the user to change their mind, for example, if they discover a mistake in the data.
+We do not immediately upload the data from the ESFA into the database. Instead, we ask users to confirm they want to upload the data. This confirmation step allows the user to change their mind, for example, if they discover a mistake in the data.
 
 We show the number of claims included in the upload but not the details of each claim.
 
@@ -174,14 +174,14 @@ Users can continue and complete the file upload or cancel out of the process.
 
 #### Upload success
 
-When a user successfully uploads the ESFA file, all claims referenced are updated in the service.
+When a user successfully uploads the ESFA file, we update all claims referenced.
 
 The upload can result in a claim being in one of two states:
 
 - paid
 - information requested
 
-If the claim is paid, it is no longer shown in the payments list as it is considered complete.
+If the ESFA confirms they have paid the claim, it is no longer shown in the payments list as it is considered complete.
 
 If the claim is marked as ‘Information requested,’ it remains in the payments list, and a support user must respond to the request for information.
 
@@ -203,7 +203,7 @@ In this situation, a support user must contact the school for relevant informati
 
 Once a support user has sent the information to the ESFA, they mark the claim as ‘Information sent’ by selecting the ‘Confirm information sent’ button on the claim details within the payments section.
 
-### Confirming claim was paid
+### Confirming we have paid the claim
 
 Support users can confirm that the ESFA paid a claim before they receive a new response file from the ESFA.
 
@@ -211,7 +211,7 @@ Support users must confirm this action before updating the claim.
 
 ### Rejecting a claim
 
-Support users can manually reject a claim if they have received information from the school or ESFA that the claim will not be paid.
+Support users can manually reject a claim if they have received information from the school or the ESFA has said they will not pay the claim.
 
 Support users must confirm this action before updating the claim.
 
@@ -220,23 +220,23 @@ Support users must confirm this action before updating the claim.
 We considered some changes that we did not implement. These included:
 
 - Giving the ESFA access to the service
-- Adding reasons why a claim was rejected
+- Adding reasons why we rejected a claim
 - Giving support users the ability to add notes to a claim
 
 ### Giving the ESFA access to the service
 
-Communication between the service and the ESFA is conducted via email and CSV files. This adds significant complexity to the service and requires sending links to or attaching CSV files to emails. However, this is how the ESFA requested the information to be received when we discussed the service with them. They are in the process of developing an API, but this has yet to be made live.
+We communicate with the ESFA via email. Typically, the emails contain links to files the ESFA can download. This communication style adds significant complexity to the service and requires sending links to or attaching CSV files to emails. However, this is how the ESFA requested the information to be received when we discussed the service with them. They are in the process of developing an API, but this has yet to be made live.
 
-To simplify the service, we could consider giving members of the ESFA direct access to it. This would allow them to download claim information and respond in service when a claim has a problem. However, the ESFA has never requested this previously.
+To simplify the service, we could consider giving members of the ESFA direct access to it. This access would allow them to download claim information and respond in service when a claim has a problem. However, the ESFA has never requested this previously.
 
-### Adding reasons why a claim was rejected
+### Adding reasons why we rejected a claim
 
 A claim may be rejected by the ESFA for several reasons, for example:
 
 - the ESFA holds incorrect bank details
 - the school has closed
 
-In these situations, it may be important to relay the information to the school for future reference.
+In these situations, it may be essential to relay the information to the school for future reference.
 
 In Manage teacher training applications, we show structured reasons for rejection. Similarly, in Register trainee teachers, we show structured reasons for a trainee's withdrawal from their course.
 
@@ -246,6 +246,6 @@ In the future, we could employ a similar approach in the service.
 
 ### Giving support users the ability to add notes to a claim
 
-Support users sometimes need to talk to schools and accredited providers to ensure the ESFA correctly pays claims. In these situations, support users will need to use Zendesk. However, this leads to a disconnect between what is seen in the service and what is captured in Zendesk.
+Support users sometimes need to talk to schools and accredited providers to ensure the ESFA correctly pays claims. In these situations, support users will need to use Zendesk. However, this leads to a disconnect between what they see in the service and what they see in Zendesk.
 
 In user research, we found that support users may need to add a private note in the service so other support users can understand the status of a claim.
