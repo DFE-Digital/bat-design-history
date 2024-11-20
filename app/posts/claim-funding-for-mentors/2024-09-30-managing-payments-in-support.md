@@ -88,6 +88,8 @@ The payment section is empty until we receive a response from the ESFA; there ar
 
 ### Sending claims to the ESFA
 
+![Send claims to the ESFA be paid flow diagram](payments--send-claims-to-esfa-flow.png)
+
 Once a school submits a claim, it enters a queue waiting to be sent to the ESFA for payment. Claims are not automatically submitted to the ESFA. Support users can view these claims in the ‘All claims’ section or via an individual organisation’s claims page. These claims are in the ‘Submitted’ status.
 
 A support user must select the ‘Send claims to ESFA’ button to send all ‘Submitted’ claims to the ESFA. Before submitting, we show users how many claims will be sent and what will happen once they’ve sent them:
@@ -106,7 +108,7 @@ Once sent, the claim status is updated to ‘Payment in progress’, and school 
 
 #### Downloading the payments file
 
-No claim details are sent to the ESFA. Instead, we send the ESFA a link to a page in the service where they can download the payments CSV file. This link is only valid for 7 days, after which a support user must send a new link.
+No claim details are sent to the ESFA. Instead, we send the ESFA a link to a page in the service where they can download the CSV file for payments. This link is only valid for 7 days, after which a support user must send a new link.
 
 #### No claims pending payment
 
@@ -117,6 +119,8 @@ If no claims are pending payment, we show a message:
 The only option is to cancel and return to the main payments screen.
 
 ### Uploading payment responses from the ESFA
+
+![Upload ESFA response flow diagram](payments--upload-esfa-response-flow.png)
 
 The upload process has 2 steps:
 
@@ -191,7 +195,7 @@ The only option is to cancel and return to the main payments screen.
 
 ### Responding to a request for information
 
-For all claims marked as ‘Information requested,’ the ESFA will describe its needs. For example, the ESFA could need the school’s bank details because the information it holds is out of date.
+For all claims marked as ‘Information requested,’ the ESFA will describe its needs. For example, the ESFA could need the school’s bank details because the information it holds is outdated.
 
 In this situation, a support user must contact the school for relevant information. This interaction is carried out off-service via Zendesk.
 
@@ -242,6 +246,6 @@ In the future, we could employ a similar approach in the service.
 
 ### Giving support users the ability to add notes to a claim
 
-Support users sometimes need to talk to schools and providers to ensure the ESFA correctly pays claims. In these situations, support users will need to use Zendesk. However, this leads to a disconnect between what is seen in the service and what is captured in Zendesk.
+Support users sometimes need to talk to schools and accredited providers to ensure the ESFA correctly pays claims. In these situations, support users will need to use Zendesk. However, this leads to a disconnect between what is seen in the service and what is captured in Zendesk.
 
 In user research, we found that support users may need to add a private note in the service so other support users can understand the status of a claim.
