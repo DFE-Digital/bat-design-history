@@ -65,7 +65,7 @@ screenshots:
       src: sampling--download-claims-file-error.png
 ---
 
-_INTRODUCTION TBC_
+INTRODUCTION TBC
 
 ## How it works
 
@@ -301,4 +301,4 @@ However, we have not established this need as the upload file flow is short. Fur
 
 ### Moving sampling before payments
 
-_CONTENT TBC_
+CONTENT TBC
