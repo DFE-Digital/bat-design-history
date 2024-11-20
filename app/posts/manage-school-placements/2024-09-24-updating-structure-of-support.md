@@ -30,7 +30,6 @@ Doing so identified three possible routes:
 - Rework the changes for provider and school users so not to use secondary navigation. These changes tested well so we did not want to change them unless absolutely necessary. Changing them would be a short term fix as it would mean limiting our future design options for our main user groups to not use secondary navigation at any point.
 - Change the support user structure so that when using the service as a provider or school user they see the same thing that user sees. When new features are designed they would look the same for all users.
 
-
 ## What are the changes?
 
 - Support users now choose which organisation they want to sign in as by using the same organisation selector as multi-org users. This is tested and works well.
