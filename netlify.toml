@@ -56,6 +56,20 @@ to = "/becoming-a-teacher/how-data-flows-through-the-service-line/"
 status = 301
 force = true
 
+[[redirects]]
+# Ignore paths with file extensions to prevent adding a trailing slash
+from = "/:splat.:extension"
+to = "/:splat.:extension"
+status = 200
+
+[[redirects]]
+# Redirect to append a trailing slash if missing and no file extension is present
+from = "/:splat"
+to = "/:splat/"
+status = 301
+force = true
+conditions = { query = ":query" }
+
 [build]
 command = "npm run build"
 publish = "public"
