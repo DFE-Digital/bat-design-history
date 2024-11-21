@@ -85,6 +85,7 @@ If there are claims to clawback, we show:
 - filters in a sidebar
 - a search
 - pagination
+
 ### List of claims
 
 Claims enter the clawbacks list if they have been rejected during sampling. These claims have the initial status of ‘claim not approved’.
