@@ -297,7 +297,7 @@ Once completed, on the claim details page, we display:
 
 ### Uploading clawback responses from the ESFA
 
-![Upload provider response flow](clawbacks--upload-esfa-response-flow.png)
+![Upload ESFA response flow](clawbacks--upload-esfa-response-flow.png)
 
 ## Further considerations
 
