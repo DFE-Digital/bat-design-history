@@ -85,11 +85,12 @@ If there are claims to clawback, we show:
 - filters in a sidebar
 - a search
 - pagination
+
 ### List of claims
 
-Claims enter the clawbacks list if they have been rejected during sampling. These claims have the initial status of ‘claim not approved’.
+If we reject a claim during sampling, it enters the clawbacks list. These claims have the initial status of ‘claim not approved’.
 
-We show claims in XXXX order.
+We show claims in date order, with the oldest showing first. The date is derived from when the claim entered the clawbacks queue.
 
 Each item on the claims list includes:
 
@@ -100,7 +101,13 @@ Each item on the claims list includes:
 - total value of the claim
 - claim status - displayed as a tag
 
+![Claims list item](clawbacks--claims-list-item.png "Claims list item")
+
 The claim reference and school name include a link to the individual claim details, allowing support users to view the claim details.
+
+Once we have processed a clawback, we show the clawback amount in the claims list item:
+
+![Claims list item showing clawback amount](clawbacks--claims-list-item-with-clawback.png "Claims list item showing clawback amount")
 
 #### Searching and filtering
 
@@ -132,33 +139,41 @@ We show a list of checkboxes containing the clawback claim statuses:
 
 The accredited providers’ filter only shows accredited providers included in the claims submitted by the schools.
 
-If there are more than 15 accredited providers, a scrollable region is created, and JavaScript is used to add a search box. Typing in the search box updates the list below with accredited providers matching the search term. If there are no matches, the list is empty.
+If there are more than 15 accredited providers, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with accredited providers matching the search term. If there are no matches, the list is empty.
 
-If JavaScript is unavailable, the accredited providers are still within the scrollable region, but the search box is no longer shown.
+If JavaScript is unavailable, the accredited providers are still within the scrollable region, but we no longer show the search box.
 
-The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
+The scrollable region is indicated by a:
+
+- cut off mid-way through a checkbox
+- bottom border
+- custom styles to display a scrollbar
 
 The scroll area shows four and a half accredited providers to help users realise that other accredited providers are on the list. This smaller height lets users move to a filter below.
 
-If there are 15 accredited providers or fewer, the accredited providers filter will be displayed as a simple list of checkboxes.
+If there are 15 accredited providers or fewer, we display the filter as a simple list of checkboxes.
 
-When a school has been selected and the filters have been applied, the remove filter tags are displayed under ‘selected filters’ at the top of the filter panel.
+When a user selects an accredited provider and applies the filters, we display the remove filter tags under ‘selected filters’ at the top of the filter panel.
 
 #### Schools filter
 
 The schools’ filter only shows schools that have submitted claims.
 
-If there are more than 15 schools, a scrollable region is created, and JavaScript is used to add a search box. Typing in the search box updates the list below it with schools matching the search term. If there are no matches, the list is empty.
+If there are more than 15 schools, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with schools matching the search term. If there are no matches, the list is empty.
 
-If JavaScript is unavailable, the schools remain within the scrollable region, but the search box is no longer shown.
+If JavaScript is unavailable, the schools remain within the scrollable region, but we no longer show the search box.
 
-The scrollable region is indicated by a cut-off mid-way through a checkbox, a bottom border and custom styles to display a scrollbar.
+The scrollable region is indicated by a:
+
+- cut off mid-way through a checkbox
+- bottom border
+- custom styles to display a scrollbar
 
 The scroll area shows four and a half schools to help users realise that other schools are on the list. This smaller height lets users move to a filter below.
 
-If there are 15 schools or fewer, the school filter will be displayed as a simple list of checkboxes.
+If there are 15 schools or fewer, we display the filter as a simple list of checkboxes.
 
-When a school has been selected and the filters have been applied, the remove filter tags are displayed under ‘selected filters’ at the top of the filter panel.
+When a user selects a school and applies the filters, we display the remove filter tags under ‘selected filters’ at the top of the filter panel.
 
 ### Claim search
 
@@ -170,7 +185,7 @@ Navigating to a claim or away from the list of claims clears the search term but
 
 #### Single results
 
-We do not automatically send users to the claim details page after completing a search. If a user’s search finds a single claim, we show the user the list of claims containing it. This allows users to orient themselves or correct mistakes before viewing the claim.
+We do not automatically send users to the claim details page after completing a search. If a user’s search finds a single claim, we show the user the list of claims containing it. This approach allows users to orient themselves or correct mistakes before viewing the claim.
 
 #### No results
 
@@ -219,7 +234,7 @@ The grant funding summary list includes:
 - hourly rate
 - claim amount
 
-Once a clawback has been initiated, we show a summary list containing the clawback details:
+Once a user initiates a clawback, we show a summary list containing the clawback details:
 
 - number of hours
 - hourly rate
@@ -227,11 +242,11 @@ Once a clawback has been initiated, we show a summary list containing the clawba
 - reason for clawback
 - revised claim amount
 
-If the clawback has not been submitted to the ESFA, we include change links that allow users to change its details.
+If support has not submitted the clawback to the ESFA, we include change links that allow users to change its details.
 
 ### Request clawback
 
-![Request clawback flow](clawbacks--request-clawback-flow.png)
+![Request clawback flow](clawback--request-clawback-flow.png)
 
 The ‘Request clawback’ flow has two steps:
 
@@ -245,7 +260,7 @@ The clawback details form has two questions:
 - number of hours to clawback
 - reason for clawback
 
-We adapt the hint for the ‘number of hours to clawback’ question to include the total hours claimed. For example, if the total hours claimed was 40, the hint is:
+We update the hint for the ‘number of hours to clawback’ question to include the total hours claimed. For example, if the total hours claimed was 40, the hint is:
 
 > Enter whole numbers up to a maximum of 40 hours
 
@@ -293,19 +308,121 @@ Once completed, on the claim details page, we display:
 
 ### Send claims to the ESFA for clawback
 
+Once a support user has submitted a claim for clawback, it enters a queue waiting for support to send to the ESFA for clawback. Support users can still edit clawback details.
+
+A support user must select the ‘Send claims to ESFA’ button to send all ‘Clawback requested’ claims to the ESFA.
+
 ![Send claims to the ESFA for clawback flow](clawbacks--send-claims-to-esfa-flow.png)
 
+The send claims process has one step: confirming you want to send the claims.
+
+Before submitting, we show users how many claims we will send and what will happen once we have sent them:
+
+> Selecting ‘Send claims’ will:
+>
+> - create a CSV containing a list of all claims marked as ‘Clawback requested’
+> - send an email to the ESFA containing a link to the generated CSV - this link expires after 7 days.
+> - update the claim status from ‘Clawback requested’ to ‘Clawback in progress’
+
+We warn users that they cannot undo sending claims to the ESFA. They will have to contact the ESFA directly.
+
+The email contains instructions on how the ESFA should update the CSV and send it back after processing the claims.
+
+Once sent, we update the claim status to ‘Clawback in progress’; school users can see this status.
+
+#### Downloading the clawbacks file
+
+We do not attach claims to the email we send to the ESFA. Instead, we send the ESFA a link to a page in the service where they can download the CSV file for clawbacks. This link is only valid for 7 days, after which a support user must send a new link.
+
+#### No claims pending clawback
+
+If no claims are pending clawback, we show a message:
+
+> You cannot send any claims to the ESFA because there are no claims with a clawback requested.
+
+The only option is to cancel and return to the main clawbacks list.
 ### Uploading clawback responses from the ESFA
 
 ![Upload ESFA response flow](clawbacks--upload-esfa-response-flow.png)
 
+The upload process has 2 steps:
+
+1. Select a CSV file to upload
+2. Confirm upload
+
+#### Select a CSV file to upload
+
+The file upload screen contains one [file upload input](https://design-system.service.gov.uk/components/file-upload/).
+
+We show ‘Help with the CSV file’ in a [details component](https://design-system.service.gov.uk/components/details/). The help describes the structure and information needed in the ESFA’s response file:
+
+> Use this form to upload the CSV file sent by the ESFA.
+>
+> The CSV file must contain the following headers in the first row:
+>
+> - claim_reference
+> - school_urn
+> - school_name
+> - school_local_authority
+> - school_establishment_type
+> - school_establishment_type_group
+> - clawback_amount
+> - claim_submission_date
+> - claim_status
+
+##### Validation rules
+
+We follow the [error message guidance](https://design-system.service.gov.uk/components/file-upload/#error-messages) outlined in the GOV.UK Design System [file upload component](https://design-system.service.gov.uk/components/file-upload/).
+
+If users do not upload a file, we show an error message:
+
+> Select a CSV file to upload
+
+If users do not upload a valid CSV file, we show an error message:
+
+> The selected file must be a CSV
+
+If users upload a valid CSV file but it is empty, we show an error message:
+
+> The selected file is empty
+
+#### Check before uploading
+
+We do not immediately upload the data from the ESFA into the database. Instead, we ask users to confirm they want to upload the data. This confirmation step allows the user to change their mind, for example, if they discover a mistake in the data.
+
+We show the number of claims included in the upload but not the details of each claim.
+
+Users can continue and complete the file upload or cancel out of the process.
+
+#### Upload success
+
+When a user successfully uploads the ESFA file, we update all claims referenced.
+
+The upload can result in a claim being in one of two states:
+
+- clawback_in_progress
+- clawback_complete
+
+If the ESFA confirms they have clawed back the claim, it is no longer shown in the payments list as it is considered complete.
+
+If the claim is marked as ‘Clawback in progress,’ it remains in the clawbacks list
+
+#### No claims waiting for a response
+
+If no claims are waiting for a response from the ESFA, we show a message:
+
+> You cannot upload a response from the ESFA as there are no claims waiting for a response.
+
+The only option is to cancel and return to the main payments screen.
 ## Further considerations
 
 We considered some changes that we did not implement. These included:
 
-- showing how the clawback will be made - for example, via refund or offset against other payments
+- showing how the ESFA will process the clawback
 - considering what happens if a clawback is ultimately unsuccessful
 
-### Showing how the clawback was made
+### Showing how the ESFA will process the clawback
 
-### Considering what happens if a clawback is ultimate unsuccessful
+ - for example, via refund or offset against other payments
+
+### Considering what happens if a clawback is ultimately unsuccessful
