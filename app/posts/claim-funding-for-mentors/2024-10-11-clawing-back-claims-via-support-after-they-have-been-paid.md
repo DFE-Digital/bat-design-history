@@ -341,6 +341,7 @@ If no claims are pending clawback, we show a message:
 > You cannot send any claims to the ESFA because there are no claims with a clawback requested.
 
 The only option is to cancel and return to the main clawbacks list.
+
 ### Uploading clawback responses from the ESFA
 
 ![Upload ESFA response flow](clawbacks--upload-esfa-response-flow.png)
@@ -414,6 +415,7 @@ If no claims are waiting for a response from the ESFA, we show a message:
 > You cannot upload a response from the ESFA as there are no claims waiting for a response.
 
 The only option is to cancel and return to the main payments screen.
+
 ## Further considerations
 
 We considered some changes that we did not implement. These included:
@@ -423,6 +425,6 @@ We considered some changes that we did not implement. These included:
 
 ### Showing how the ESFA will process the clawback
 
- - for example, via refund or offset against other payments
+- for example, via refund or offset against other payments
 
 ### Considering what happens if a clawback is ultimately unsuccessful
