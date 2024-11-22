@@ -65,7 +65,7 @@ screenshots:
       src: sampling--download-claims-file-error.png
 ---
 
-INTRODUCTION TBC
+WHY WE ARE DOING THIS CONTENT TBC - OLI OLDFIELD
 
 ## How it works
 
@@ -84,9 +84,165 @@ The sampling section is empty until we upload the claims to be sampled. In this 
 
 ![Screenshot showing the sampling section empty state](sampling--default.png 'Screenshot showing the sampling section empty state')
 
+### List of claims
+
+If there are claims to sample, we show:
+
+- a list of claims
+- filters in a sidebar
+- a search
+- pagination
+
+Claims on the sampling list have the initial status of ‘Sampling in progress’.
+
+We show claims in date order, with the oldest showing first. The date is derived from when the claim entered the sampling queue.
+
+Each item on the claims list includes:
+
+- claim reference
+- school name
+- accredited provider name
+- submitted date
+- total value of the claim
+- claim status - displayed as a tag
+
+![Claims list item](sampling--claims-list-item.png "Claims list item")
+
+The claim reference and school name include a link to the individual claim details, allowing support users to view the claim details.
+
+#### Searching and filtering
+
+When a user searches or filters the list of claims, we return a list of claims matching the search and filters.
+
+Searching and filtering are independent of one another. If someone first searches for a claim and then applies filters, the filters act upon the subset of claims returned by the initial search.
+
+Similarly, if someone filters the list of claims, a subsequent search will only include the claims in the filtered list, not the complete list.
+
+Clearing a search will not clear the filters, and clearing the filters will not clear the search.
+
+### Filter sidebar
+
+The filter sidebar includes filters for:
+
+- claim status
+- accredited providers
+- schools
+
+#### Claim status
+
+We show a list of checkboxes containing the clawback claim statuses:
+
+- sampling in progress
+- provider not approved
+
+#### Accredited provider filter
+
+The accredited providers’ filter only shows accredited providers included in the claims submitted by the schools.
+
+If there are more than 15 accredited providers, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with accredited providers matching the search term. If there are no matches, the list is empty.
+
+If JavaScript is unavailable, the accredited providers are still within the scrollable region, but we no longer show the search box.
+
+The scrollable region is indicated by a:
+
+- cut off mid-way through a checkbox
+- bottom border
+- custom styles to display a scrollbar
+
+The scroll area shows four and a half accredited providers to help users realise that other accredited providers are on the list. This smaller height lets users move to a filter below.
+
+If there are 15 accredited providers or fewer, we display the filter as a simple list of checkboxes.
+
+When a user selects an accredited provider and applies the filters, we display the remove filter tags under ‘selected filters’ at the top of the filter panel.
+
+#### Schools filter
+
+The schools’ filter only shows schools that have submitted claims.
+
+If there are more than 15 schools, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with schools matching the search term. If there are no matches, the list is empty.
+
+If JavaScript is unavailable, the schools remain within the scrollable region, but we no longer show the search box.
+
+The scrollable region is indicated by a:
+
+- cut off mid-way through a checkbox
+- bottom border
+- custom styles to display a scrollbar
+
+The scroll area shows four and a half schools to help users realise that other schools are on the list. This smaller height lets users move to a filter below.
+
+If there are 15 schools or fewer, we display the filter as a simple list of checkboxes.
+
+When a user selects a school and applies the filters, we display the remove filter tags under ‘selected filters’ at the top of the filter panel.
+
+### Claim search
+
+We include a search box above the list of claims. This search allows users to search for a specific claim by its reference number.
+
+Once a user has searched, a ‘Clear search’ link is provided below the search field, allowing users to reset the search back to the initial state. The initial state may be an entire list of claims or a sub-set if the user has previously filtered the list.
+
+Navigating to a claim or away from the list of claims clears the search term but not the filters. We consider the search to be complete.
+
+#### Single results
+
+We do not automatically send users to the claim details page after completing a search. If a user’s search finds a single claim, we show the user the list of claims containing it. This approach allows users to orient themselves or correct mistakes before viewing the claim.
+
+#### No results
+
+If the search does not return a result, we show a message depending on the search and filter terms:
+
+- There are no results for ‘search term’.
+- There are no results for ‘search term’ and the selected filter.
+- There are no results for ‘search term’ and the selected filters.
+- There are no results for the selected filter.
+- There are no results for the selected filters.
+
+#### Empty searches
+
+If a user does not enter a search term when submitting a search, we show a list of claims that match any filter criteria.
+
+### Pagination
+
+We include pagination below the list of claims. If the list contains more than 25 items, we show the standard [GOV.UK pagination component](https://design-system.service.gov.uk/components/pagination/).
+
+### Claim details
+
+On the claim details page, we show:
+
+- claim reference number
+- school name - including a link to the school details page
+- accredited provider
+- list of mentors
+- date the claim was submitted
+- user who submitted the claim
+- claim status
+- reason the claim is being sampled
+
+We show possible actions below the page heading:
+
+- ‘Approve claim’ action
+- ‘Confirm provider rejected claim’ action - if the status is ‘Sampling in progress’
+- ‘Reject claim’ action - if the status is ‘Provider not approved’
+
+We also show summary lists outlining the:
+
+- hours of training for each mentor
+- grant funding calculations
+
+The hours of training summary list includes:
+
+- mentor name
+- mentor’s training hours
+
+The grant funding summary list includes:
+
+- total hours claimed
+- hourly rate
+- claim amount
+
 ### Uploading claims to be sampled
 
-![Upload claims to be sampled flow diagram](sampling--flow.png)
+![Upload claims to be sampled flow](sampling--flow.png)
 
 The upload process has 2 steps:
 
@@ -135,7 +291,7 @@ We send an email to each accredited provider included in the sampling data. The 
 
 ### Uploading responses from providers
 
-![Upload provider response flow diagram](sampling--provider-response-flow.png)
+![Upload provider response flow](sampling--provider-response-flow.png)
 
 The upload process has 2 steps:
 
@@ -171,7 +327,7 @@ While the accredited provider’s data is on a per-mentor basis, we show the num
 
 Users can continue and complete the file upload or cancel out of the process.
 
-Where there are multiple lines for a claim in the accredited provider’s response (one for each mentor), we reject the whole claim if an accredited provider has rejected all or part of one mentor’s claim. We also aggregate all the ‘claim_not_assured_reason’ into one comment, which we show to support users on the sampling claim details page.
+If the accredited provider's response contains multiple lines for a claim (one for each mentor), we reject the whole claim if the provider has rejected all or part of one mentor’s claim. We also aggregate all the ‘claim_not_assured_reason’ into one comment, which we show to support users on the sampling claim details page.
 
 #### Upload success
 
@@ -185,6 +341,8 @@ If the email recipient has a problem opening the link or it has expired, they mu
 
 ### Updating a claim
 
+Support users can update claims either manually via one of the actions on the claim details page, or via a bulk upload on the claims list.
+
 The accredited provider response upload can result in a claim being in one of two states:
 
 - paid
@@ -192,13 +350,15 @@ The accredited provider response upload can result in a claim being in one of tw
 
 If the accredited provider assures us of the claim, we mark it as paid and no longer show it on the sampled claims list.
 
-If the accredited provider does not assure the claim, we mark it as ‘Provider not approved’. The claim remains on the sampling list, and a support user must investigate why.
+If the accredited provider does not assure the claim, or a support user manually confirms the provider rejected claim we mark it as ‘Provider not approved’. The claim remains on the sampling list, and a support user must investigate why.
 
 A support user can approve or reject the claim after their investigation.
 
 If they approve the claim, we mark it as paid; we require no further action.
 
 If they reject the claim, we mark it as ‘Claim not approved’ and move it into the clawbacks queue.
+
+Before updating the status of the claim, we ask support users to confirm the change.
 
 ### CSV file validation rules
 
@@ -220,17 +380,17 @@ If users upload a valid CSV file but it is empty, we show an error message:
 
 We considered some changes that we did not implement. These included:
 
-- generating the sample from within the service
-- giving accredited providers access to the service
-- showing the list of claims when reviewing the upload
-- adding reasons why accredited providers rejected a claim
-- assigning an accredited provider response to a specific accredited provider
-- uploading multiple accredited provider files in one go
-- moving sampling before payments
+- [generating the sample from within the service](#generating-the-sample-from-within-the-service)
+- [giving accredited providers access to the service](#giving-accredited-providers-access-to-the-service)
+- [showing the list of claims when reviewing the upload](#showing-the-list-of-claims-when-reviewing-the-upload)
+- [adding reasons why accredited providers rejected a claim](#adding-reasons-why-accredited-providers-rejected-a-claim)
+- [assigning an accredited provider response to a specific accredited provider](#assigning-a-provider-response-to-a-specific-accredited-provider)
+- [uploading multiple accredited provider files in one go](#uploading-multiple-accredited-provider-files-in-one-go)
+- [moving sampling before payments](#moving-sampling-before-payments)
 
 ### Generating the sample from within the service
 
-The current sampling workflow requires a Data and Insights team member to generate a CSV file containing claims we need to sample. This CSV file must then be uploaded to the service. This process is both cumbersome and inefficient.
+The current sampling workflow requires a Data and Insights team member to generate a CSV file containing claims we need to sample. This file must then be uploaded to the service, which is cumbersome and inefficient.
 
 In the next phase of development, we should bring the sampling process into the service, removing the need for:
 
@@ -295,10 +455,10 @@ In the next development phase, we should include the accredited provider’s nam
 
 In private beta, we only worked with two accredited providers: Best Practice Network and the National Institute of Teachers (NIoT). This small number of accredited providers meant we only needed to upload one file at a time.
 
-However, the service will expand to include all (approximately 170) accredited providers in public beta. In this situation, we may need to consider using a [multi-file upload pattern](https://design-patterns.service.justice.gov.uk/components/multi-file-upload/) to upload CSV files more efficiently.
+However, the service will expand to include all (approximately 170) accredited providers in public beta. We may need to consider using a [multi-file upload pattern](https://design-patterns.service.justice.gov.uk/components/multi-file-upload/) to upload CSV files more efficiently.
 
-However, we have not established this need as the upload file flow is short. Furthermore, if we implement accounts for accredited providers, the need for file uploads is removed.
+However, we have yet to establish this need as the upload file flow is short. Furthermore, if we implement accounts for accredited providers, the need for file uploads is removed.
 
 ### Moving sampling before payments
 
-CONTENT TBC
+CONTENT TBC - OLI OLDFIELD
