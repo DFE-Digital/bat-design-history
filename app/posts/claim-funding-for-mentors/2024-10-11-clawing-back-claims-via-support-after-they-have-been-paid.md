@@ -246,7 +246,7 @@ If support has not submitted the clawback to the ESFA, we include change links t
 
 ### Request clawback
 
-![Request clawback flow](clawback--request-clawback-flow.png)
+![Request clawback flow](clawbacks--request-clawback-flow.png)
 
 The ‘Request clawback’ flow has two steps:
 
@@ -400,12 +400,12 @@ When a user successfully uploads the ESFA file, we update all claims referenced.
 
 The upload can result in a claim being in one of two states:
 
-- clawback_in_progress
-- clawback_complete
+- clawback in progress
+- clawback complete
 
 If the ESFA confirms they have clawed back the claim, it is no longer shown in the payments list as it is considered complete.
 
-If the claim is marked as ‘Clawback in progress,’ it remains in the clawbacks list
+If the claim is marked as ‘Clawback in progress,’ it remains in the clawbacks list.
 
 #### No claims waiting for a response
 
@@ -423,6 +423,17 @@ We considered some changes that we did not implement. These included:
 
 ### Showing how the ESFA will process the clawback
 
- - for example, via refund or offset against other payments
+The ESFA has 2 ways to claw back money:
+
+- via a refund
+- offsetting the refund against other payments
+
+We could add details of how the ESFA will process the clawback to the clawback details in the claim; however, we have not discovered a need for this information.
 
 ### Considering what happens if a clawback is ultimately unsuccessful
+
+Currently, we do not have a way to mark the clawback as unsuccessful.
+
+If a school is able to claim mentor funding, it must be a legitimate organisation, and therefore, we will always be able to claw back funds if necessary.
+
+We will update the service if we discover a need to mark a clawback as unsuccessful.
