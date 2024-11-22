@@ -203,7 +203,7 @@ If a user does not enter a search term when submitting a search, we show a list 
 
 ### Pagination
 
-We include pagination below the list of claims. If the list contains more than 25 items, we show the standard GOV.UK pagination component.
+We include pagination below the list of claims. If the list contains more than 25 items, we show the standard [GOV.UK pagination component](https://design-system.service.gov.uk/components/pagination/).
 
 ### Claim details
 
@@ -216,7 +216,7 @@ On the claim details page, we show:
 - date the claim was submitted
 - user who submitted the claim
 - claim status
-- ‘Request clawback’ action - if the status is ‘claim not approved’
+- ‘Request clawback’ action - if the status is ‘Claim not approved’
 
 We also show summary lists outlining the:
 
@@ -430,12 +430,12 @@ The ESFA has 2 ways to claw back money:
 - via a refund
 - offsetting the refund against other payments
 
-We could add details of how the ESFA will process the clawback to the clawback details in the claim; however, we have not discovered a need for this information.
+We could add details of how the ESFA will process the clawback to the clawback details in the claim; however, we have yet to discover a need for this information.
 
 ### Considering what happens if a clawback is ultimately unsuccessful
 
 Currently, we do not have a way to mark the clawback as unsuccessful.
 
-If a school is able to claim mentor funding, it must be a legitimate organisation, and therefore, we will always be able to claw back funds if necessary.
+If a school is able to claim mentor funding, it must be a legitimate organisation. Therefore, we will always be able to claw back funds if necessary.
 
 We will update the service if we discover a need to mark a clawback as unsuccessful.
