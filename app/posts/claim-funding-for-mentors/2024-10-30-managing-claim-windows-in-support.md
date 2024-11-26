@@ -60,7 +60,7 @@ As part of the work enabling support users to open and close the claim window, w
 - collect dates the claim window opens and closes
 - assign the claim window an academic year
 
-For example, the first claim window was between 2 May 2024 and 19 July 2024 and associated with the 2023 to 2024 academic year.
+For example, the first claim window was between 2 May 2024 and 19 July 2024 and was associated with the 2023 to 2024 academic year.
 
 If we re-opened the claim window in September 2024, we needed to identify whether it was for the previous 2023 to 2024 academic year or the current 2024 to 2025 academic year.
 
@@ -152,7 +152,7 @@ When choosing to change the details of a claim window, we show the user a form i
 - date window closes
 - academic year
 
-We prepopulate the form with the selected claim window’s details.
+We prepopulate the form with the details of the selected claim window.
 
 Once changed, users have to confirm the changes before saving.
 
@@ -225,8 +225,8 @@ We show:
 
 If a user returns to a previous answer using the change link, the information they entered is pre-populated. When finished, the user sees the ‘Continue’ button, which will return them to the check answers page.
 
-To add the new claim window, users must select ‘Save claim window’.
+Users must select ‘Save claim window’ to add the new claim window.
 
 #### Confirmation
 
-When a claim window is submitted, we show a success message on the claim windows list.
+We show a success message on the claim windows list when a claim window is submitted.
