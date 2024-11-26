@@ -433,7 +433,7 @@ We considered some changes that we did not implement. These included:
 The ESFA has 2 ways to claw back money:
 
 - via a refund
-- offsetting the refund against other payments
+- offsetting against future payments
 
 We could add details of how the ESFA will process the clawback to the clawback details in the claim; however, we have yet to discover a need for this information.
 
