@@ -7,10 +7,13 @@ tags:
   - claims
   - payments
   - auditing
+  - sampling
 related:
   items:
     - text: How we audit claims
       href: /claim-funding-for-mentors/how-we-audit-claims/
+    - text: Defining the sampling algorithm
+      href: /claim-funding-for-mentors/defining-the-sampling-algorithm/
     - text: Managing payments in support
       href: /claim-funding-for-mentors/managing-payments-in-support/
     - text: Clawing back claims via Support after they have been paid
@@ -65,7 +68,11 @@ screenshots:
       src: sampling--download-claims-file-error.png
 ---
 
-WHY WE ARE DOING THIS CONTENT TBC - OLI OLDFIELD
+Sampling is essential to administering government grants, ensuring taxpayers get value for their money.
+
+As outlined in more detail in [‘How we audit claims’](/claim-funding-for-mentors/how-we-audit-claims/) and [‘Defining the sampling algorithm’](/claim-funding-for-mentors/defining-the-sampling-algorithm/), we must sample a minimum number of claims, which total at least 10% of all claims submitted for a given academic year.
+
+This sample needs to be fair and agnostic of school demographics. Due to the funding amount and the level of post-claim assurance we have implemented, the sampling will be completed after payment, which, for the private beta, we expect to commence in October 2024.
 
 ## How it works
 
@@ -93,7 +100,7 @@ If there are claims to sample, we show:
 - a search
 - pagination
 
-Claims on the sampling list have the initial status of ‘Sampling in progress’.
+Claims on the sampling list have the initial ‘Sampling in progress’ status.
 
 We show claims in date order, with the oldest showing first. The date is derived from when the claim entered the sampling queue.
 
@@ -137,7 +144,7 @@ We show a list of checkboxes containing the clawback claim statuses:
 
 #### Accredited provider filter
 
-The accredited providers’ filter only shows accredited providers included in the claims submitted by the schools.
+The accredited providers’ filter shows all accredited ITT providers.
 
 If there are more than 15 accredited providers, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with accredited providers matching the search term. If there are no matches, the list is empty.
 
@@ -157,7 +164,7 @@ When a user selects an accredited provider and applies the filters, we display t
 
 #### Schools filter
 
-The schools’ filter only shows schools that have submitted claims.
+The schools’ filter shows all onboarded schools.
 
 If there are more than 15 schools, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with schools matching the search term. If there are no matches, the list is empty.
 
@@ -220,9 +227,9 @@ On the claim details page, we show:
 
 We show possible actions below the page heading:
 
-- ‘Approve claim’ action
-- ‘Confirm provider rejected claim’ action - if the status is ‘Sampling in progress’
-- ‘Reject claim’ action - if the status is ‘Provider not approved’
+- ‘Approve claim’
+- ‘Confirm provider rejected claim’- if the status is ‘Sampling in progress’
+- ‘Reject claim’- if the status is ‘Provider not approved’
 
 We also show summary lists outlining the:
 
@@ -341,7 +348,7 @@ If the email recipient has a problem opening the link or it has expired, they mu
 
 ### Updating a claim
 
-Support users can update claims either manually via one of the actions on the claim details page, or via a bulk upload on the claims list.
+Support users can update claims manually by taking one of the actions on the claim details page or uploading them in bulk on the claims list.
 
 The accredited provider response upload can result in a claim being in one of two states:
 
@@ -350,7 +357,7 @@ The accredited provider response upload can result in a claim being in one of tw
 
 If the accredited provider assures us of the claim, we mark it as paid and no longer show it on the sampled claims list.
 
-If the accredited provider does not assure the claim, or a support user manually confirms the provider rejected claim we mark it as ‘Provider not approved’. The claim remains on the sampling list, and a support user must investigate why.
+If the accredited provider does not assure the claim or a support user manually confirms that the provider rejected it, we mark it as ‘Provider not approved’. The claim remains on the sampling list, and a support user must investigate why.
 
 A support user can approve or reject the claim after their investigation.
 
@@ -358,7 +365,7 @@ If they approve the claim, we mark it as paid; we require no further action.
 
 If they reject the claim, we mark it as ‘Claim not approved’ and move it into the clawbacks queue.
 
-Before updating the status of the claim, we ask support users to confirm the change.
+Before updating the claim status, we ask support users to confirm the change.
 
 ### CSV file validation rules
 
@@ -455,10 +462,16 @@ In the next development phase, we should include the accredited provider’s nam
 
 In private beta, we only worked with two accredited providers: Best Practice Network and the National Institute of Teachers (NIoT). This small number of accredited providers meant we only needed to upload one file at a time.
 
-However, the service will expand to include all (approximately 170) accredited providers in public beta. We may need to consider using a [multi-file upload pattern](https://design-patterns.service.justice.gov.uk/components/multi-file-upload/) to upload CSV files more efficiently.
+However, the service will expand to include all (approximately 170) accredited providers in public beta. We may need to consider using a [multi-file upload pattern](https://design-patterns.service.justice.gov.uk/components/multi-file-upload/) to upload CSV files efficiently.
 
-However, we have yet to establish this need as the upload file flow is short. Furthermore, if we implement accounts for accredited providers, the need for file uploads is removed.
+However, we have not established this need as the upload file flow is short. Furthermore, if we implement accounts for accredited providers, the need for file uploads is removed.
 
 ### Moving sampling before payments
 
-CONTENT TBC - OLI OLDFIELD
+Claims could be sampled before payment is made. A similar service, ‘Claim additional teaching payments’, takes this approach.
+
+This approach benefits from auditing claims before payment, allowing errors to be detected and remedied before funds are sent.
+
+This was dismissed because of the short period between the claim window closing in the summer and when the ESFA required projections for payments in September. The risk was that the sampling process would not be completed by the ESFA payment deadline, and therefore, schools would not be paid promptly.
+
+To mitigate the possibility of erroneous claims being submitted, we updated guidance to encourage schools to confirm their claims with their accredited providers. If schools did this, it would ensure alignment before the sampling process.
