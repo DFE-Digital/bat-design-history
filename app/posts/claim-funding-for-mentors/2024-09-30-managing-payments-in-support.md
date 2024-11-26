@@ -60,7 +60,16 @@ screenshots:
 
 We needed to create a quick and easy way for support users to send claims to the Education and Skills Funding Agency (ESFA).
 
-Since the ESFA will not have access to Claim funding for mentor training, we decided to share information using email and CSV files.
+When we started the private beta, we scheduled regular catch-ups with the ESFA to discuss the service and their requirements. They advised that to make payments, they would require a CSV file and stipulated that they needed the following information:
+
+- school_urn
+- school_name
+- school_local_authority
+- school_establishment_type
+- school_establishment_type_group
+- claim_amount
+
+They also advised us that they were building an API, but it would not be ready for the private or public beta.
 
 When we initially spoke to Support about designing this process, they were concerned that manually sending CSVs to the ESFA may result in us sending:
 
@@ -357,7 +366,7 @@ Support users can update a claim by:
 - confirming we have paid the claim
 - rejecting the claim
 
-Before updating the status of the claim, we ask support users to confirm the change.
+Before updating the claim status, we ask support users to confirm the change.
 
 #### Responding to a request for information
 
@@ -387,9 +396,15 @@ We considered some changes that we did not implement. These included:
 
 ### Giving the ESFA access to the service
 
-We communicate with the ESFA via email. Typically, the emails contain links to files the ESFA can download. This communication style adds significant complexity to the service and requires sending links to or attaching CSV files to emails. However, this is how the ESFA requested the information to be received when we discussed the service with them. They are in the process of developing an API, but this has yet to be made live.
+We communicate with the ESFA via email. Typically, the emails contain links to files the ESFA can download.
 
-To simplify the service, we could consider giving members of the ESFA direct access to it. This access would allow them to download claim information and respond in service when a claim has a problem. However, the ESFA has never requested this previously.
+This communication style adds significant complexity to the service and requires sending links to or attaching CSV files to emails. However, this is how the ESFA requested the information to be received when we discussed the service with them.
+
+The ESFA are developing an API, but this has yet to be made live.
+
+To simplify the service, we could consider giving members of the ESFA direct access to it.
+
+Giving the ESFA access would allow them to download claim information and respond in service when a claim has a problem. It would also enable ESFA colleagues to update the claims status after they have been paid or clawbacks have been completed. However, given their significant workload, the ESFA has never requested this, and we are unsure of their appetite for doing this.
 
 ### Adding reasons why we rejected a claim
 
