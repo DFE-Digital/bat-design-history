@@ -14,7 +14,7 @@ related:
     - text: DfE Analytics GitHub repository
       href: https://github.com/DFE-Digital/dfe-analytics
     - text: Information Commissioner’s Office - Lawful basis for processing public data
-      href: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/lawful-basis-for-processing/public-task/
+      href: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/public-task/
     - text: Claim funding for mentor training cookies page
       href: https://claim-funding-for-mentor-training.education.gov.uk/cookies
 # screenshots:
@@ -33,4 +33,4 @@ The [DfE Analytics gem](https://github.com/DFE-Digital/dfe-analytics) is a custo
 
 The General Data Protection Regulations (GDPR) require opt-in for cookies. However, server-side tracking (as used by DfE analytics) works by logging requests, user actions, or metadata directly from the server without needing Cookies stored in the user’s browser.
 
-The analytics we use are backend, and most of [the data we collect is for a Public Task](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/lawful-basis-for-processing/public-task/), which means we use the data in Google BigQuery for reporting and improving public services, funding, etc. Users cannot opt out of data used for a Public Task.
+The analytics we use are backend, and most of [the data we collect is for a Public Task](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/public-task/), which means we use the data in Google BigQuery for reporting and improving public services, funding, etc. Users cannot opt out of data used for a Public Task.
