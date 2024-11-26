@@ -11,14 +11,21 @@ related:
   items:
     - text: Managing payments in support
       href: /claim-funding-for-mentors/managing-payments-in-support/
-    - text: Auditing claims in support
-      href: /claim-funding-for-mentors/auditing-claims-in-support/
+    - text: Sampling (auditing) claims in support
+      href: /claim-funding-for-mentors/sampling-claims-in-support/
     - text: Clawing back claims via Support after they have been paid
       href: /claim-funding-for-mentors/clawing-back-claims-via-support-after-they-have-been-paid/
 ---
 
 <!-- markdownlint-disable MD001 MD025 -->
 {% from "email/macro.njk" import appEmail %}
+
+We send several emails to facilitate the payment, sampling and clawback processes. These emails include:
+
+- [sending claims to the ESFA for payment](#sending-claims-to-the-esfa-for-payment)
+- [sending claims to the accredited provider for approval](#sending-claims-to-the-accredited-provider-for-approval)
+- [sending claims to the ESFA for clawback](#sending-claims-to-the-esfa-for-clawback)
+- [sending clawback details to the school](#sending-clawback-details-to-the-school)
 
 ## Payments
 
