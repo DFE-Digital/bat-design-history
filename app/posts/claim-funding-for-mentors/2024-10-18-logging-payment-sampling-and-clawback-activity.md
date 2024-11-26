@@ -14,8 +14,8 @@ related:
       href: /claim-funding-for-mentors/updating-how-we-show-all-claims-in-support/
     - text: Managing payments in support
       href: /claim-funding-for-mentors/managing-payments-in-support/
-    - text: Auditing claims in support
-      href: /claim-funding-for-mentors/auditing-claims-in-support/
+    - text: Sampling (auditing) claims in support
+      href: /claim-funding-for-mentors/sampling-claims-in-support/
     - text: Clawing back claims via Support after they have been paid
       href: /claim-funding-for-mentors/clawing-back-claims-via-support-after-they-have-been-paid/
 screenshots:
@@ -32,7 +32,7 @@ screenshots:
       src: activity-log--details-pagination.png
 ---
 
-As part of the payments, sampling, and clawbacks work, we needed to capture when a support user took an important action. To do this, we created an activity log.
+As part of the payments, sampling, and clawbacks work, we needed to capture when a support user took action. To do this, we created an activity log.
 
 ## How it works
 
@@ -90,15 +90,15 @@ We considered some changes that we did not implement. These included:
 
 We considered capturing all user activity in the activity log but could not find a need.
 
-We already display who submitted a claim and when in the claim details, so it’s not necessary to record this information in a log. Furthermore, users cannot amend claims unless in the ‘draft’ state, so there is no need to track changes.
+We already display who submitted a claim and when in the claim details, so recording this information in a log is unnecessary. Furthermore, users cannot amend claims unless in the ‘draft’ state, so there is no need to track changes.
 
 We will revisit this if or when the need arises.
 
 ### Logging the provider name in their response
 
-When a provider returns their sampling file, and support uploads it to the service, we currently do not label the provider in the activity log. This means there could be many log items with the same details and no way to differentiate them.
+When a provider returns their sampling file, and support uploads it to the service, we currently do not label the provider in the activity log. This means there could be many log items with similar details and no way to differentiate them.
 
-Instead of using the generic ‘Provider sampling response’ we need to label the link ‘[Provider name] sampling response’. The name could be derived from the file contents or manually selected by the support user.
+Instead of using the generic ‘Provider sampling response’, we need to label the link ‘[Provider name] sampling response’. The name could be derived from the file contents or manually selected by the support user.
 
 If more than one accredited provider’s data exists within the file, the service must separate the content and show links for each accredited provider’s data.
 
