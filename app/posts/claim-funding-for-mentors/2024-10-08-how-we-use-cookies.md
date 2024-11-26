@@ -14,7 +14,7 @@ related:
     - text: DfE Analytics GitHub repository
       href: https://github.com/DFE-Digital/dfe-analytics
     - text: Information Commissioner’s Office - Lawful basis for processing public data
-      href: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/lawful-basis-for-processing/public-task/
+      href: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/public-task/
     - text: Claim funding for mentor training cookies page
       href: https://claim-funding-for-mentor-training.education.gov.uk/cookies
 # screenshots:
