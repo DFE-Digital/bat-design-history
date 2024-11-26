@@ -11,8 +11,8 @@ related:
       href: /claim-funding-for-mentors/showing-all-claims-in-support/
     - text: Managing payments in Support
       href: /claim-funding-for-mentors/managing-payments-in-support/
-    - text: Auditing claims in support
-      href: /claim-funding-for-mentors/auditing-claims-in-support/
+    - text: Sampling (auditing) claims in support
+      href: /claim-funding-for-mentors/sampling-claims-in-support/
     - text: Clawing back claims via Support after they have been paid
       href: /claim-funding-for-mentors/clawing-back-claims-via-support-after-they-have-been-paid/
     - text: Logging payment, sampling and clawback activity
