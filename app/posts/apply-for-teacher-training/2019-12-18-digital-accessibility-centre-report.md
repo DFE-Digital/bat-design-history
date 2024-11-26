@@ -10,14 +10,15 @@ An accessibility audit of the candidate, provider and support pages was carried 
 
 > The standard of accessibility presented throughout the service was very high.
 
-[Full report (PDF)](https://drive.google.com/file/d/1-cFyRAfUMLNVQRvGb0Bfrnv39CjbVkLj/view?usp=sharing)
+[Full report (PDF 2.1MB, 94 pages)](dac-audit-report-apply-for-teacher-training-2019-12-18.pdf)
 
 Screenshots of the service they used:
 
-- [Candidate](/apply-for-teacher-training/apply-launch)
-- [Provider](/manage-teacher-training-applications/as-launched-26-nov-2019)
+- [Candidate](/apply-for-teacher-training/apply-launch/)
+- [Provider](/manage-teacher-training-applications/as-launched-26-nov-2019/)
 
-During November 2019 we also performed our own internal audit of candidate pages: [Internal audit (spreadsheet)](https://docs.google.com/spreadsheets/d/1MEEEyubJkbY0Ksg8oX_rjZZ2lLnwYrPH2p3ky1Qqwyg/)
+During November 2019 we also performed our own internal audit of candidate pages.
+<!-- : [Internal audit (spreadsheet)](https://docs.google.com/spreadsheets/d/1MEEEyubJkbY0Ksg8oX_rjZZ2lLnwYrPH2p3ky1Qqwyg/) -->
 
 ## Key failings and their fixes
 
