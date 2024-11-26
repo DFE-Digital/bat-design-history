@@ -99,6 +99,6 @@ We considered moving the ‘Add claim’ button to within the current academic y
 
 ### Using an academic year filter
 
-We considered using filters to help users find claims for a specific academic year. However, this approach leads to a more complex interaction design, and users need help to quickly glance at the list and understand what claims were made each year.
+We considered using filters to help users find claims for a specific academic year. However, this approach leads to a more complex interaction design, and users need help when quickly glancing at the list and to understand what claims were made each year.
 
 Furthermore, the average number of claims per school is 3, so the claims list does not need filters to help users find claims.
