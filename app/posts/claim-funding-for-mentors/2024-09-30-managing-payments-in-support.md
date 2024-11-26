@@ -10,8 +10,8 @@ related:
   items:
     - text: How we pay claims
       href: /claim-funding-for-mentors/how-we-pay-claims/
-    - text: Auditing claims in support
-      href: /claim-funding-for-mentors/auditing-claims-in-support/
+    - text: Sampling (auditing) claims in support
+      href: /claim-funding-for-mentors/sampling-claims-in-support/
     - text: Clawing back claims via Support after they have been paid
       href: /claim-funding-for-mentors/clawing-back-claims-via-support-after-they-have-been-paid/
     - text: Showing all claims in support
@@ -95,7 +95,7 @@ If there are claims on the payments list, we show:
 - a search
 - pagination
 
-Claims on the payments list have the initial status of ‘Information requested’.
+Claims on the payments list have the initial ‘Information requested’ status.
 
 We show claims in date order, with the oldest showing first. The date is derived from when the school submitted the claim.
 
@@ -139,7 +139,7 @@ We show a list of checkboxes containing the claim statuses relevant to payments:
 
 #### Accredited provider filter
 
-The accredited providers’ filter shows all accredited providers in the service.
+The accredited providers’ filter shows all accredited ITT providers.
 
 If there are more than 15 accredited providers, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with accredited providers matching the search term. If there are no matches, the list is empty.
 
@@ -159,7 +159,7 @@ When a user selects an accredited provider and applies the filters, we display t
 
 #### Schools filter
 
-The schools’ filter only shows schools that have submitted claims.
+The schools’ filter shows all onboarded schools.
 
 If there are more than 15 schools, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with schools matching the search term. If there are no matches, the list is empty.
 
