@@ -3,6 +3,7 @@ title: Clawing back claims via Support after they have been paid
 description: We added a way for support users to securely send clawback information to the Education and Skills Funding Agency (ESFA)
 date: 2024-10-11T12:00:00+00:00
 tags:
+  - clawbacks
   - support
   - claims
   - payments
@@ -12,8 +13,8 @@ related:
   items:
     - text: Managing payments in support
       href: /claim-funding-for-mentors/managing-payments-in-support/
-    - text: Auditing claims in support
-      href: /claim-funding-for-mentors/auditing-claims-in-support/
+    - text: Sampling (auditing) claims in support
+      href: /claim-funding-for-mentors/sampling-claims-in-support/
     - text: Showing all claims in support
       href: /claim-funding-for-mentors/showing-all-claims-in-support/
     - text: Updating how we show all claims in support
@@ -66,7 +67,11 @@ screenshots:
       src: clawbacks--download-clawbacks-file-error.png
 ---
 
-WHY WE ARE DOING THIS CONTENT TBC - OLI OLDFIELD
+To ensure taxpayers get value for their money, a mechanism for retrieving money from schools that have made inaccurate claims—this process is known as clawback—is essential.
+
+As outlined in more detail in [‘How we audit claims’](/claim-funding-for-mentors/how-we-audit-claims/), we must claw back funds where schools have been overpaid, or claims were made without sufficient supporting evidence.
+
+These claims will be identified in the sampling process detailed in the previous post, [‘Sampling claims in support’](/claim-funding-for-mentors/sampling-claims-in-support/).
 
 ## How it works
 
@@ -137,7 +142,7 @@ We show a list of checkboxes containing the clawback claim statuses:
 
 #### Accredited provider filter
 
-The accredited providers’ filter only shows accredited providers included in the claims submitted by the schools.
+The accredited providers’ filter shows all accredited ITT providers.
 
 If there are more than 15 accredited providers, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with accredited providers matching the search term. If there are no matches, the list is empty.
 
@@ -157,7 +162,7 @@ When a user selects an accredited provider and applies the filters, we display t
 
 #### Schools filter
 
-The schools’ filter only shows schools that have submitted claims.
+The schools’ filter shows all onboarded schools.
 
 If there are more than 15 schools, we create a scrollable region and use JavaScript to add a search box. Typing in the search box updates the list below with schools matching the search term. If there are no matches, the list is empty.
 
@@ -242,7 +247,7 @@ Once a user initiates a clawback, we show a summary list containing the clawback
 - reason for clawback
 - revised claim amount
 
-If support has not submitted the clawback to the ESFA, we include change links that allow users to change its details.
+If support has not submitted the clawback to the ESFA, we include change links that allow users to change the clawback details.
 
 ### Request clawback
 
@@ -295,7 +300,7 @@ We show:
 - clawback amount
 - reason for clawback
 
-If a user returns to a previous answer using the change link, their entered information is pre-populated. When finished, the user sees the ‘Continue’ button, which should return them to the check answers page.
+If a user returns to a previous answer using the change link, the information they entered is pre-populated. When finished, the user sees the ‘Continue’ button, which should return them to the check answers page.
 
 Before completing the ‘Request clawback’ flow, we display a warning to the user:
 
@@ -404,7 +409,7 @@ The upload can result in a claim being in one of two states:
 - clawback in progress
 - clawback complete
 
-If the ESFA confirms they have clawed back the claim, it is no longer shown in the payments list as it is considered complete.
+If the ESFA confirms they have clawed back the claim, it will no longer be shown in the payments list as it is considered complete.
 
 If the claim is marked as ‘Clawback in progress,’ it remains in the clawbacks list.
 
@@ -436,6 +441,6 @@ We could add details of how the ESFA will process the clawback to the clawback d
 
 Currently, we do not have a way to mark the clawback as unsuccessful.
 
-If a school is able to claim mentor funding, it must be a legitimate organisation. Therefore, we will always be able to claw back funds if necessary.
+If a school can claim mentor funding, it must be a legitimate organisation. Therefore, we will always be able to claw back funds if necessary.
 
 We will update the service if we discover a need to mark a clawback as unsuccessful.
