@@ -8,12 +8,12 @@ tags:
   - research
 related:
   items:
-    - text: Research playback
-      href: https://docs.google.com/presentation/d/1_iH4sW9sHr-ICvm8pwA5UaJFToWsQjf-P8U2A3fbYXw/
-    - text: Lookback recordings
-      href: https://lookback.io/org/dfe-digital/projects/registerprovidersaousability/rounds
-    - text: Raw findings
-      href: https://drive.google.com/drive/u/0/folders/1dGLTkJxFWyUb4mZ9rpBtk0ao7shjzibH
+    # - text: Research playback
+    #   href: https://docs.google.com/presentation/d/1_iH4sW9sHr-ICvm8pwA5UaJFToWsQjf-P8U2A3fbYXw/
+    # - text: Lookback recordings
+    #   href: https://lookback.io/org/dfe-digital/projects/registerprovidersaousability/rounds
+    # - text: Raw findings
+    #   href: https://drive.google.com/drive/u/0/folders/1dGLTkJxFWyUb4mZ9rpBtk0ao7shjzibH
     - text: User needs
       href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
 ---

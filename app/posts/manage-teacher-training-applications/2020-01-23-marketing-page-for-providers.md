@@ -6,11 +6,12 @@ screenshots:
   items:
     - Marketing page for providers
     - Sign up Google form
-related:
-  items:
-    - text: Sketch file
-      href: https://drive.google.com/open?id=18nDHVmcGWJLZxQQeCt29oGN_U6L_toKk
+# related:
+#   items:
+#     - text: Sketch file
+#       href: https://drive.google.com/open?id=18nDHVmcGWJLZxQQeCt29oGN_U6L_toKk
 ---
+
 A marketing page, aimed primarily at SCITTs, to demonstrate how easy the new service is to use, that other providers are adopting it, and it pays to get onboard now to influence its design. Heavily influenced by Notify/Verify product pages.
 
 The page uses deliberately simplified screenshots so that:

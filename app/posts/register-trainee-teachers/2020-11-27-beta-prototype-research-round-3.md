@@ -6,18 +6,18 @@ tags:
   - beta
   - prototype
   - research
-related:
-  items:
-    - text: Lookback recordings
-      href: https://lookback.io/org/dfe-digital/projects/register-i-round-3-i-ao-provider-led/rounds
-    - text: Raw findings
-      href: https://drive.google.com/drive/u/0/folders/19Ir3HwBuwOVg50cFm3dDi2-EfQ1ZmY4I
-    - text: Research Plan
-      href: https://docs.google.com/document/d/1bppLVBhXxf-rOSR6GVzIXx1Oifgc9wdr2BrjmNKerqI/
-    - text: Research playback
-      href: https://docs.google.com/presentation/d/1t5uAjPsI_Y6cnHO9o5__XFfQeMzdX9o54Gz1Yy7a3Ew/
-    - text: User needs
-      href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
+# related:
+#   items:
+#     - text: Lookback recordings
+#       href: https://lookback.io/org/dfe-digital/projects/register-i-round-3-i-ao-provider-led/rounds
+#     - text: Raw findings
+#       href: https://drive.google.com/drive/u/0/folders/19Ir3HwBuwOVg50cFm3dDi2-EfQ1ZmY4I
+#     - text: Research Plan
+#       href: https://docs.google.com/document/d/1bppLVBhXxf-rOSR6GVzIXx1Oifgc9wdr2BrjmNKerqI/
+#     - text: Research playback
+#       href: https://docs.google.com/presentation/d/1t5uAjPsI_Y6cnHO9o5__XFfQeMzdX9o54Gz1Yy7a3Ew/
+#     - text: User needs
+#       href: https://trello.com/b/5WZeE54R/register-trainee-teachers-user-needs-board
 ---
 
 Research conducted: 23 to 27 November 2020
@@ -41,10 +41,10 @@ The intention was to answer the following questions:
 
 ## Who we tested with
 
-- South West Teacher Training SCITT
 - Inspiring Teacher Training SCITT
 - Lincolnshire Teaching School Alliance SCITT
 - North Manchester ITT Partnership
+- South West Teacher Training SCITT
 - The Tommy Flowers SCITT
 
 ## Research findings
@@ -148,10 +148,10 @@ Users act responsibly when it comes to updating outcomes on DTTP, but because an
 
 >“It is not the case that an extension would be as a result of a failed assessment, it would be done preemptively. We do not change anything on the DTTP until the final judgement about their position.”
 
-Lookback highlights:
+<!-- Lookback highlights:
 
-[What happens if a trainee fails?](https://lookback.io/watch/Hqxvr2mhA37qBnTJ5 )
-[When do you make this decision?](https://lookback.io/watch/2Top4tRiz4MJwpM3u)
+[What happens if a trainee fails?](https://lookback.io/watch/Hqxvr2mhA37qBnTJ5)
+[When do you make this decision?](https://lookback.io/watch/2Top4tRiz4MJwpM3u) -->
 
 ### Handling ITT data for several organisations
 

@@ -6,12 +6,12 @@ tags:
   - users
   - organisations
   - permissions
-related:
-  items:
-    - text: Research playback
-      href: https://docs.google.com/presentation/d/1nEHtz_gDq_OXtiAPsucswPoUYEa1qiH6TV8GIPCSBeQ/edit#slide=id.g8a7af39ae0_0_32
-    - text: Research recordings
-      href: https://drive.google.com/drive/u/0/folders/1NBOe2-5ltGeoWIOik1-CQ4Vfhz3MPsoD
+# related:
+#   items:
+#     - text: Research playback
+#       href: https://docs.google.com/presentation/d/1nEHtz_gDq_OXtiAPsucswPoUYEa1qiH6TV8GIPCSBeQ/edit#slide=id.g8a7af39ae0_0_32
+#     - text: Research recordings
+#       href: https://drive.google.com/drive/u/0/folders/1NBOe2-5ltGeoWIOik1-CQ4Vfhz3MPsoD
 ---
 
 We were interested in learning more about users who belong to multiple organisations.
@@ -84,7 +84,7 @@ A SCITT’s ITT administrator manages:
 
 > I have very very good communication with our schools... so once I know what schools can advertise, what subject... then I will put all in Publish, and I open them, close them, I manage them, the school does not, I oversee it all, the schools do not have any input at all, obviously they tell me what they want to advertise, but I update the system.
 
-[Research highlight](https://drive.google.com/file/d/17PVqL57VEWHTrM5o4Fkjz80vNFBnlC6j/view?usp=sharing)
+<!-- [Research highlight](https://drive.google.com/file/d/17PVqL57VEWHTrM5o4Fkjz80vNFBnlC6j/view?usp=sharing) -->
 
 #### Scenario 1 - Self manage and manage some others
 
@@ -95,7 +95,7 @@ A SCITT’s ITT administrator manages:
 
 > ...it depends whether the schools are wanting to do this themselves because some schools do not have admin support, so it’s teachers running it and they do not have the admin time to do this section, we do that for them.
 
-[Research highlight](https://drive.google.com/file/d/1FmaVDL2HDRuR8uoFuSxUaWdom0KQl8NH/view?usp=sharing)
+<!-- [Research highlight](https://drive.google.com/file/d/1FmaVDL2HDRuR8uoFuSxUaWdom0KQl8NH/view?usp=sharing) -->
 
 #### Scenario 3 - Self manage only
 
@@ -158,9 +158,9 @@ This suggests there is a need for course access permissions when adding users to
 
 > Yorkshire Anglican, they have two courses, one with us, and one with the University of Huddersfield. My partners are not happy that I can access those courses.
 
-[Research highlight](https://drive.google.com/file/d/1htlAbixAa6D8xAf9pdoFAnynCjvbazID/view)
+<!-- [Research highlight](https://drive.google.com/file/d/1htlAbixAa6D8xAf9pdoFAnynCjvbazID/view)
 [Research highlight](https://drive.google.com/file/d/1uFXkxAj4R2bTNHhV0Dp9MYJVxYfIMT1i/view)
-[Research highlight](https://drive.google.com/file/d/144lrMfYIanYafRXQOqpOIoguJHyj_fn4/view)
+[Research highlight](https://drive.google.com/file/d/144lrMfYIanYafRXQOqpOIoguJHyj_fn4/view) -->
 
 ### The Publish/Apply user relationship
 

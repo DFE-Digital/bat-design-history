@@ -88,7 +88,7 @@ In this document, ‘access management’ and ‘access control’ mean the perm
 
 Our default setting is that all users with access to Manage teacher training applications can read all applications to courses at their provider organisations. Permissions are not needed for this.
 
-For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs)
+<!-- For a short story of this, see our [show and tell slides](https://docs.google.com/presentation/d/12hs4Rqiw2argAST5lCVD7p4t3xTIrDenx8B0ttTQqZs) -->
 
 - [How UCAS works](#how-ucas-works)
 - [Research we’ve done](#research-we%E2%80%99ve-done)
@@ -134,7 +134,7 @@ We formulated a starting hypothesis to test:
 
 We conducted a survey to learn how providers work with one another, particularly the part played by the accredited bodies who ratify specific training provider courses.
 
-[Accredited body survey report](https://docs.google.com/presentation/d/1r7PNdue_o4TEdIZZXGkpNlSzFuzsamRdIsw1-x_fQPA/edit#slide=id.p)
+<!-- [Accredited body survey report](https://docs.google.com/presentation/d/1r7PNdue_o4TEdIZZXGkpNlSzFuzsamRdIsw1-x_fQPA/edit#slide=id.p) -->
 
 ##### Key findings
 
@@ -201,7 +201,7 @@ I need to feel comfortable disclosing negative information about my past
 So that I know whether it’s worth carrying on with my application"
 }) }}
 
-[The questions we ask candidates](https://apply-beta-prototype.herokuapp.com/application/12345/suitability/)
+<!-- [The questions we ask candidates](https://apply-beta-prototype.herokuapp.com/application/12345/suitability/) -->
 
 In completing this section, candidates may supply sensitive data. We tested this information with providers who expressed a strong interest in seeing this data. They also highlighted that the data would need to be locked down to certain individuals. This will be the same case as the HESA data, which providers need to report into HEI systems or DTTP.
 

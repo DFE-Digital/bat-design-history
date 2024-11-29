@@ -19,20 +19,20 @@ screenshots:
     - How many places would you like to request
     - Check your information
     - New organisation added
-related:
-  items:
-    - text: UR Playback Sprint 1
-      href: https://drive.google.com/open?id=1LTdnHvZ4_3WEXjnLNQnkLBwo_KT_suwIuwus5uLeuIc
-    - text: UR Playback Sprint 2
-      href: https://drive.google.com/open?id=1MBExJ5LGdohmdqqiIPTjFKJhB-3r8NpWLGmLzAEMAOw
-    - text: UR Playback Sprint 3
-      href: https://drive.google.com/open?id=1__6rdAMfb_Ooizx2WbnEvGHq2pH_SL1Pp-wtWkaToio
-    - text: Alpha Report
-      href: https://drive.google.com/open?id=19CKc1oNcEb7GifojX7KpaI25KNqD4fAxPB2lxIpgUsw
-    - text: Rollover prototype
-      href: https://rollover-prototype.herokuapp.com/
-    - text: Request PE courses prototype
-      href: https://allocations-alpha.herokuapp.com/
+# related:
+#   items:
+#     - text: UR Playback Sprint 1
+#       href: https://drive.google.com/open?id=1LTdnHvZ4_3WEXjnLNQnkLBwo_KT_suwIuwus5uLeuIc
+#     - text: UR Playback Sprint 2
+#       href: https://drive.google.com/open?id=1MBExJ5LGdohmdqqiIPTjFKJhB-3r8NpWLGmLzAEMAOw
+#     - text: UR Playback Sprint 3
+#       href: https://drive.google.com/open?id=1__6rdAMfb_Ooizx2WbnEvGHq2pH_SL1Pp-wtWkaToio
+#     - text: Alpha Report
+#       href: https://drive.google.com/open?id=19CKc1oNcEb7GifojX7KpaI25KNqD4fAxPB2lxIpgUsw
+#     - text: Rollover prototype
+#       href: https://rollover-prototype.herokuapp.com/
+#     - text: Request PE courses prototype
+#       href: https://allocations-alpha.herokuapp.com/
 ---
 
 The allocations alpha explored potential changes to the [previous allocations process](/publish-teacher-training-courses/allocations-cycle-summary).

@@ -4,12 +4,12 @@ description: A summary of the request process followed for this cycle
 date: 2019-10-01
 tags:
   - allocations
-related:
-  items:
-    - text: Research playbacks
-      href: https://drive.google.com/drive/u/0/folders/13m8XwzRyoNHtncoGVsomBhFMJaSSrMpZ
-    - text: Raw research notes and audio/video
-      href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
+# related:
+#   items:
+#     - text: Research playbacks
+#       href: https://drive.google.com/drive/u/0/folders/13m8XwzRyoNHtncoGVsomBhFMJaSSrMpZ
+#     - text: Raw research notes and audio/video
+#       href: https://drive.google.com/drive/u/0/folders/1O0VHTqclp18gIXArG1a-I5FsSdUAusEy
 ---
 
 A summary of the process followed for the 2020 – 2021 recruitment cycle.
@@ -26,11 +26,12 @@ Before this cycle started the Database of Teacher Training Providers (DTTP) beca
 
 A new process was communicated to providers via an email sent from `itt.allocations@education.gov.uk` in early June. The email contained a spreadsheet to capture requested allocation data.
 
-[Requests for permission to recruit in 2020 – 2021 spreadsheet](https://drive.google.com/open?id=14gIFMljWyXW9Ys2E84Eg4cBQGUGzxhYd)
+<!-- [Requests for permission to recruit in 2020 – 2021 spreadsheet](https://drive.google.com/open?id=14gIFMljWyXW9Ys2E84Eg4cBQGUGzxhYd) -->
 
-[Completed request for permission to recruit in 2020 – 2021 spreadsheet](https://docs.google.com/spreadsheets/d/1Fr5hVrvUB7UAzQe3lF5LtMb7U3rd6y7hv0FavkVa0z4/edit?usp=sharing).
+<!-- [Completed request for permission to recruit in 2020 – 2021 spreadsheet](https://docs.google.com/spreadsheets/d/1Fr5hVrvUB7UAzQe3lF5LtMb7U3rd6y7hv0FavkVa0z4/edit?usp=sharing). -->
 
-Requests for additional Physical Education (PE) places (Physical Education with EBacc subject) were captured in [a separate form](https://drive.google.com/open?id=1vg8lo_59kpXDRw6aWfuFjJWzXQ0driok).
+Requests for additional Physical Education (PE) places (Physical Education with EBacc subject) were captured in a separate form.
+<!-- [a separate form](https://drive.google.com/open?id=1vg8lo_59kpXDRw6aWfuFjJWzXQ0driok). -->
 
 ## Collecting allocations mid-cycle
 
