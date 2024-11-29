@@ -6,7 +6,7 @@ tags:
   - references
 ogImage:
   src: conditions-of-offer-references.png
-  alt: "Illustration with the text: "Conditions of Offer: References""
+  alt: "Illustration with the text: 'Conditions of Offer: References'"
 ---
 
 ![Illustration with the text: "Conditions of Offer: References"](conditions-of-offer-references.png)
