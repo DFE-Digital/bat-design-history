@@ -97,6 +97,16 @@ Please show me how you would begin this process.
 
 ## Key insights
 
+### Contextualising the service
+
+This was the first time some of the support users had undertaken processes relating to payments, sampling and clawbacks, and therefore, they needed to familiarise themselves with what we needed and expected. Typically, support colleagues would refer to a playbook to guide them through new processes and services.
+
+A playbook is particularly important for this service. We have developed a minimum viable product for the Support console based on the assumption that the service will be used only for one academic year due to funding constraints. Some of the processes, such as producing the list of claims to be sampled, are undertaken off-service, and with a playbook, it would be easier for support users to know this.
+
+#### Recommendations
+
+Write and share an updated playbook with support colleagues before the next round of testing to help them understand how to undertake the payment, sampling and clawback processes easily and efficiently.
+
 ### Download CSV button
 
 When asked how they would send claims to ESFA for payment, the ‘Download CSV’ button on the ‘All claims’ page confused participants.
