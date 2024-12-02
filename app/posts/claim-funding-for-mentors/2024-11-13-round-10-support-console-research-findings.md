@@ -101,7 +101,7 @@ Please show me how you would begin this process.
 
 This was the first time some of the support users had undertaken processes relating to payments, sampling and clawbacks, and therefore, they needed to familiarise themselves with what we needed and expected. Typically, support colleagues would refer to a playbook to guide them through new processes and services.
 
-A playbook is particularly important for the service. We have developed a minimum viable product for the Support console based on the assumption that the service will be used only for one academic year due to funding constraints. Some of the processes, such as producing the list of claims to be sampled, are undertaken off-service, and with a playbook, it would be easier for support users to know this.
+A playbook is particularly important for this service. We have developed a minimum viable product for the Support console based on the assumption that the service will be used only for one academic year due to funding constraints. Some of the processes, such as producing the list of claims to be sampled, are undertaken off-service, and with a playbook, it would be easier for support users to know this.
 
 #### Recommendations
 
