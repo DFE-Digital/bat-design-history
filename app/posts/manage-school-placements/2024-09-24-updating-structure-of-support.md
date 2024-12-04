@@ -43,3 +43,5 @@ The screenshots below demonstrate the identical navigation for support users to 
 ![Support users' navigation](support-nav.png "Support users' navigation")
 
 ![School users' navigation](school-nav.png "School users' navigation")
+
+Change
