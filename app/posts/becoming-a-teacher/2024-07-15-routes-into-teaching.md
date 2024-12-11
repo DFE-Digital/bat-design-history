@@ -25,7 +25,13 @@ eleventyComputed:
     key: bat-routes-into-teaching
 ---
 
-There are 7 routes into teaching for domestic candidates. These routes are split between undergraduate and postgraduate initial teacher training (ITT) and assessment only.
+> This design history does not constitute guidance for training providers - it is an internal document for use by digital teams
+
+As detailed in [Initial teacher training (ITT): forming partnerships](https://www.gov.uk/government/publications/initial-teacher-training-itt-forming-partnerships), from September 2024, “all ITT that leads to QTS should be defined within three core routes (undergraduate fee-funded, postgraduate fee-funded, and postgraduate employment based).”
+
+Since the publication of this document, the salaried teacher degree apprenticeship (TDA) has been launched. As a result, there are now four core routes: undergraduate fee-funded and salaried, postgraduate fee-funded, and employment-based.
+
+Within these core four routes, there are 7 avenues into teaching for domestic candidates. These routes are split between undergraduate and postgraduate initial teacher training (ITT) and assessment only.
 
 International candidates may be eligible for all these routes into teaching if they meet visa and residency requirements.
 
