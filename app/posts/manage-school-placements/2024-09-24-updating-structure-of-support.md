@@ -6,7 +6,7 @@ tags:
   - support users
 ---
 
-The Manage school placements service relies on schools recording and updating information about their placements. Schools have limited time to do this, so it is important that we are able to advise them quickly and accurately when they need help or support. This is why we want to ensure that support users can undertake all the tasks that a school or provider user can. 
+The Manage school placements service relies on schools recording and updating information about their placements. Schools have limited time to do this, so it is important that we are able to advise them quickly and accurately when they need help or support. This is why we want to ensure that support users can undertake all the tasks that a school or provider user can.
 
 To do this, we found that the existing structure of the support console needed to change.
 
