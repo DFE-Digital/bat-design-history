@@ -21,8 +21,8 @@ With new features introducing secondary navigation into the main service, we had
 Doing so identified three possible routes:
 
 - Keep the existing structure and introduce tertiary navigation for support users. This complicated the interface, and reduced screen space available on pages that displayed tabulated data.
-- Rework the changes for provider and school users so not to use secondary navigation. These changes tested well so we did not want to change them unless absolutely necessary. Changing them would be a short-term fix as it would mean limiting our future design options for our main user groups to not use secondary navigation at any point.
-- Change the support console structure so that when using the service as a provider or school user they see the same thing that user sees. When new features are designed, they look the same for all users.
+- Rework the changes for provider and school users so as not to use secondary navigation. The changes tested well so we did not want to change them unless absolutely necessary. Changing them would be a short-term fix as it would mean limiting our future design options for our main user groups to not use secondary navigation at any point.
+- Change the support console structure so that when using the service as a provider or school user they see the same thing that user sees. When new features are designed, they look the same for all users. We agreed this was the best approach.
 
 ## What are the changes?
 
