@@ -5,6 +5,9 @@ date: 2025-01-03
 tags:
   - filter
   - search results
+  - pre-filtering
+  - browsable find
+  - filterable find
 ---
 
 ## The issue
