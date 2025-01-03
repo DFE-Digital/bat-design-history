@@ -6,7 +6,6 @@ tags:
   - filter
   - search results
   - pre-filtering
-  - browsable find
   - filterable find
 ---
 
@@ -18,17 +17,27 @@ If candidates want to make a change to their search, such as change the subject,
 
 Research has shown that candidates want the ability to easily make changes to their search without having to go back to the start.
 
-This design change has be previously explored:
-
-- [Making the service more browseable](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/making-the-service-more-browseable/) - May 2022
-- [Enhancing the browsable Find concept prototype](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/enhancing-the-browsable-find-concept-prototype/) - September 2022
-- [Filterable Find postgraduate training courses (Find) concept](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/filterable-find-concept/) - October 2022
+> **This design concept was previously explored**
+>
+> [Filterable Find postgraduate training courses (Find) concept](/find-teacher-training/filterable-find-concept/) - October 2022
 
 ## What we changed
+
+### Added age group filters
 
 We added new filters for the different stages of teaching, to allow candidates to make changes to their search criteria from the results page.
 
 ![Screenshot of three filters for primary, secondary, and further education which will be added to the search results page](find-filters-age-groups-jan-2025.png)
+
+### Removed further education qualification type
+
+We also removed the qualification type "PGCE or PGDE without QTS". This is because this qualification type was confusing for the majority of candidates who are looking for primary or secondary courses.
+
+![Screenshot of the qualification filter with one of the options removed which will be updated on the search results page](find-filters-qualification-jan-2025.png)
+
+This qualification type is only for further education courses.
+
+Now that we have added the new further education filter to make it clearer for those interested in this stage of teaching, we were able to remove this qualification type.
 
 ## Usability testing
 
