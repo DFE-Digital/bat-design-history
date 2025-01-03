@@ -9,6 +9,10 @@ tags:
   - filterable find
 ---
 
+> **This design concept was previously explored**
+>
+> [Filterable Find postgraduate training courses (Find) concept](/find-teacher-training/filterable-find-concept/) - October 2022
+
 ## The issue
 
 Currently candidates need to answer several questions in order to get to a list of relevant search results.
@@ -16,10 +20,6 @@ Currently candidates need to answer several questions in order to get to a list 
 If candidates want to make a change to their search, such as change the subject, they need to go through all of the steps again.
 
 Research has shown that candidates want the ability to easily make changes to their search without having to go back to the start.
-
-> **This design concept was previously explored**
->
-> [Filterable Find postgraduate training courses (Find) concept](/find-teacher-training/filterable-find-concept/) - October 2022
 
 ## What we changed
 
