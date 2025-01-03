@@ -32,7 +32,6 @@ These sections also include links to Get Into Teaching to learn more about these
 
 ![Screenshot of open accordion with headings of Teacher Degree Apprenticeships, Special educational needs and disabilities, and teaching other stages, which will be added to the homepage](find-git-link-accordion-open-jan-2025.png)
 
-
 ### Callout box on the browse secondary subjects page
 
 We added a callout box on the browse secondary subjects page to direct users to information on financial support.
