@@ -19,6 +19,7 @@ If candidates want to make a change to their search, such as change the subject,
 Research has shown that candidates want the ability to easily make changes to their search without having to go back to the start.
 
 This design change has be previously explored:
+
 - [Making the service more browseable](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/making-the-service-more-browseable/) - May 2022
 - [Enhancing the browsable Find concept prototype](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/enhancing-the-browsable-find-concept-prototype/) - September 2022
 - [Filterable Find postgraduate training courses (Find) concept](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/filterable-find-concept/) - October 2022
