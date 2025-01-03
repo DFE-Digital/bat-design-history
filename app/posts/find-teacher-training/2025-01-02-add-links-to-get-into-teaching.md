@@ -1,5 +1,5 @@
 ---
-title: Adding links to Get into Teaching
+title: Adding links to Get Into Teaching
 description: Identifying opportunities to support candidates and provide them with further information
 date: 2025-01-02
 tags:
@@ -8,13 +8,13 @@ tags:
 
 ## The issue
 
-[Get into Teaching](https://getintoteaching.education.gov.uk/) has developed significantly over the last 12 months.
+[Get Into Teaching](https://getintoteaching.education.gov.uk/) has developed significantly over the last 12 months.
 
 This means there are now missed opportunities where we can link to guidance pages from Find and support candidates who need more information before proceeding to the next step.
 
 ## What we changed
 
-We added additional links to Get into Teaching from the homepage, search results page, and courses pages.
+We added additional links to Get Into Teaching from the homepage, search results page, and courses pages.
 
 ### Callout boxes on the homepage
 
