@@ -1,13 +1,12 @@
 ---
-title: Improving how candidates view course information and compare courses
-description: Reducing the length of course pages and moving information to be accessible at the point of need.
+title: Reducing the length of course pages
+description: Improving how candidates view course information and compare courses by moving information to be accessible at the point of need.
 date: 2024-06-18
 tags:
   - courses
   - locations
   - placement schools
   - search results
-  - entry requirements
   - international candidates
   - visa sponsorship
   - accredited providers
@@ -50,14 +49,6 @@ Course descriptions can be longer than necessary and the usefulness of the infor
 
 When the design team did further investigation, we identified the following areas for improvement.
 
-Key information such as entry requirements was difficult to find.
-
-![Screenshot of entry requirement section of the course page](entry-requirements-before.png)
-
-A lot of information was the same across all courses and not visually differentiated, such as information on support and advice.
-
-![Screenshot of support and advice section of the course page](support-and-advice-before.png)
-
 Information was presented to everyone that may only be relevant to some people, such as information for international candidates or those with disabilities and other needs.
 
 ![Screenshot of international candidates section of the course page](international-candidates-before.png)
@@ -86,17 +77,13 @@ Navigating the site and finding information was easy:
 
 Navigating on mobile generally tested well:
 
-> Particpants were able to find the information on a mobile, saying they "haven’t had an issue" with scrolling through.
+> Participants were able to find the information on a mobile, saying they "haven’t had an issue" with scrolling through.
 
 The website was good for comparing courses, and the accordions were useful:
 
 > Participants were able to compare courses, and liked that everything was in the same place, "headings are very easy to follow", and once they read one they know how to read them all.
 
 ## What we changed
-
-Moved ‘Entry requirements’ to the top of the page and improved the formatting.
-
-![Screenshot of entry requirement section of the course page after the design changes](entry-requirements-after.png)
 
 Moved information for international candidates to collapsed sections.
 
@@ -113,10 +100,6 @@ Moved the list of school placements to a separate page.
 Moved the information about the provider, including their contact details, and about the accredited provider to separate pages.
 
 ![Screenshot of about provider page after the design changes](about-provider-after.png)
-
-Visually differentiated information that was not specific to the course, for example support and advice information.
-
-![Screenshot of support and advice section of the course page after the design changes](support-and-advice-after.png)
 
 ## What we are continuing to test
 
