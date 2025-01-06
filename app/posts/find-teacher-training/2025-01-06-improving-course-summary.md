@@ -1,5 +1,5 @@
 ---
-title: Improving course summary
+title: Improving the course summary
 description: Improving how we display the course summary on the search results page and course page.
 date: 2025-01-06
 tags:
