@@ -40,7 +40,7 @@ We added a callout box on the browse secondary subjects page to direct users to 
 
 ### Expanding callout box on results page
 
-We adding and expanding callout box on the results page to direct users to information on chossing the right course, getting a teacher training adviser, and about attending events.
+We added an expanding callout box on the results page to direct users to information on choosing the right course, getting a teacher training adviser, and about attending events.
 
 ![Screenshot of an expanding callout box in a closed position with links to Get Into Teaching which will be added to the results page](find-git-link-results-callout-closed-jan-2025.png)
 
@@ -66,4 +66,4 @@ The findings validated that these links would be useful to candidates, and that 
 
 ## Next steps
 
-We will be tracking the usage of these links and using this information alongside other research to information further design iterations.
+We will be tracking the usage of these links and using this information alongside other research to inform further design iterations.

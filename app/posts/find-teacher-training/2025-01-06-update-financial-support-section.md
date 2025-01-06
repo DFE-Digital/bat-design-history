@@ -16,11 +16,11 @@ This can make it difficult for candidates to easily understand key information a
 
 Information specific to non-UK citizens was difficult to find at the bottom of the box.
 
-![screenshot of the previous design of the financial support callout box](find-financial-callout-fee-before-jan-2025.png)
+![screenshot of the previous design of the financial support callout box for fee-based courses](find-financial-callout-fee-before-jan-2025.png)
 
 Information for salaried courses also mentioned salary pay scales in addition to financial support.
 
-![screenshot of the previous design of the financial support callout box](find-financial-callout-salaried-before-jan-2025.png)
+![screenshot of the previous design of the financial support callout box for salaried courses](find-financial-callout-salaried-before-jan-2025.png)
 
 ## What we changed
 
@@ -36,23 +36,23 @@ We used a new pattern for how we [display information for non-UK citizens](/find
 
 #### Fee-based courses
 
-![screenshot of the previous design of the financial support callout box](find-financial-callout-fee-after-closed-jan-2025.png)
+![screenshot of the new design of the financial support callout box for fee-based courses with the sections collapsed](find-financial-callout-fee-after-closed-jan-2025.png)
 
 #### Salaried courses
 
-![screenshot of the previous design of the financial support callout box](find-financial-callout-salaried-after-closed-jan-2025.png)
+![screenshot of the new design of the financial support callout box for salaried courses with the sections collapsed](find-financial-callout-salaried-after-closed-jan-2025.png)
 
 ### Reduced and reformatted the content
 
 We reduced the content and added headings to make it clearer what financial support was available for each course.
 
-![screenshot of the previous design of the financial support callout box](find-financial-callout-fee-after-open-jan-2025.png)
+![screenshot of the new design of the financial support callout box for fee-based courses with the sections opened](find-financial-callout-fee-after-open-jan-2025.png)
 
 ### Merged salary and fee sections
 
 We merged the 'Salary' and 'Fees and financial support' sections on salaried courses, to make the information clearer and more relevant.
 
-![screenshot of the previous design of the financial support callout box](find-financial-callout-salaried-after-open-jan-2025.png)
+![screenshot of the new design of the financial support callout box for salaried courses with the sections opened](find-financial-callout-salaried-after-open-jan-2025.png)
 
 ## Usability testing
 

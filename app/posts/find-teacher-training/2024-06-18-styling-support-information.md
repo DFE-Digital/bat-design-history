@@ -18,7 +18,7 @@ This makes it difficult for candidates to view course information and compare co
 
 ## What we changed
 
-We tested a protoype on week commencing 27 May 2024. The findings allowed us to be confident in some of the changes we could make to improve the page.
+We tested a prototype on the week commencing 27 May 2024. The findings allowed us to be confident in some of the changes we could make to improve the page.
 
 We visually differentiated the support and advice information from information that's specific to the course.
 
