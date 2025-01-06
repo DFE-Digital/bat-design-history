@@ -32,7 +32,7 @@ We removed the caption 'Advice from Get Into Teaching', as it didn't feel necess
 
 We separated the information for UK and non-UK citizens, and collapsing the information so that the sections are closed by default.
 
-We used a new pattern for how we display information for non-UK citizens, so that it is easy for these users to recognise where information is located that is relevant to them.
+We used a new pattern for how we [display information for non-UK citizens](/find-teacher-training/improving-course-pages/#information-for-non-uk-citizens), so that it is easy for these users to recognise where information is located that is relevant to them.
 
 #### Fee-based courses
 
