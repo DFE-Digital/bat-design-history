@@ -14,13 +14,11 @@ The information on financial support from the government was presented as paragr
 
 This can make it difficult for candidates to easily understand key information and compare it with other courses.
 
-Additionally, information specific to non-UK citizens was difficult to find at the bottom of the box.
-
-### Fee-based courses
+Information specific to non-UK citizens was difficult to find at the bottom of the box.
 
 ![screenshot of the previous design of the financial support callout box](find-financial-callout-fee-before-jan-2025.png)
 
-### Salaried courses
+Information for salaried courses also mentioned salary pay scales in addition to financial support.
 
 ![screenshot of the previous design of the financial support callout box](find-financial-callout-salaried-before-jan-2025.png)
 
@@ -48,11 +46,11 @@ We used a new pattern for how we display information for non-UK citizens, so tha
 
 We reduced the content and added headings to make it clearer what financial support was available for each course.
 
-#### Fee-based courses
-
 ![screenshot of the previous design of the financial support callout box](find-financial-callout-fee-after-open-jan-2025.png)
 
-#### Salared courses
+### Merged salary and fee sections
+
+We merged the 'Salary' and 'Fees and financial support' sections on salaried courses, to make the information clearer and more relevant.
 
 ![screenshot of the previous design of the financial support callout box](find-financial-callout-salaried-after-open-jan-2025.png)
 

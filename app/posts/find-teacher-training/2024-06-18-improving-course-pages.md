@@ -45,25 +45,53 @@ Course descriptions can be longer than necessary and the usefulness of the infor
 
 > A career changer said there was a lot of text in "About the course", and suggested it could be "shorter", "punchier" and more to the point.
 
-### Further investigation
+## What we changed
 
-When the design team did further investigation, we identified the following areas for improvement.
+We reduced the length of the course pages by moving information to be accessible at the point of need.
 
-Information was presented to everyone that may only be relevant to some people, such as information for international candidates or those with disabilities and other needs.
+### Information for non-UK citizens
+
+Information for international candidates was presented to everyone, when it is only relevant to some people.
 
 ![Screenshot of international candidates section of the course page](international-candidates-before.png)
 
-Information was presented to everyone that may only be relevant the first time they view a page, and not when they are trying to compare courses, such as information about the provider and accredited provider.
+We moved this information into two collapsed sections.
 
-![Screenshot of accredited provider section of the course page](about-accredited-provider.png)
+![Screenshot of information for non-UK citizens in a closed state after the design changes](international-candidates-after-closed.png)
+
+These sections can be opened by candidates when the information is relevant to them.
+
+![Screenshot of information for non-UK citizens after the design changes](international-candidates-after.png)
+
+### Information for those with disabilities
+
+Information for those with disabilities and other needs was presented to everyone that may only be relevant to some people.
+
+We moved this information to a separate page.
+
+![Screenshot of training with disabilities page after the design changes](training-with-disabilities-after.png)
+
+### List of school placements
 
 The list of school placements was sometimes very long.
 
 ![Screenshot of the list of school placements on the course page](school-placements-before.png)
 
-Information that was specific to the course was long paragraphs of text, rather than more structured or concise information.
+We moved this list to a separate page.
 
-![Screenshot of the course summary section of the course page](about-the-course.png)
+![Screenshot of the list of school placements on the course page after the design changes](school-placements-after.png)
+
+### Information about the provider and accredited provider
+
+Information about the provider and accredited provider was presented with the course information.
+
+This makes it difficult when trying to compare courses.
+
+![Screenshot of accredited provider section of the course page](about-accredited-provider.png)
+
+We moved this information, including their contact details, to separate pages.
+
+![Screenshot of about provider page after the design changes](about-provider-after.png)
 
 ## User testing
 
@@ -82,24 +110,6 @@ Navigating on mobile generally tested well:
 The website was good for comparing courses, and the accordions were useful:
 
 > Participants were able to compare courses, and liked that everything was in the same place, "headings are very easy to follow", and once they read one they know how to read them all.
-
-## What we changed
-
-Moved information for international candidates to collapsed sections.
-
-![Screenshot of information for non-UK citizens after the design changes](international-candidates-after.png)
-
-Moved information for people with disabilities to a separate page.
-
-![Screenshot of training with disabilities page after the design changes](training-with-disabilities-after.png)
-
-Moved the list of school placements to a separate page.
-
-![Screenshot of the list of school placements on the course page after the design changes](school-placements-after.png)
-
-Moved the information about the provider, including their contact details, and about the accredited provider to separate pages.
-
-![Screenshot of about provider page after the design changes](about-provider-after.png)
 
 ## What we are continuing to test
 
