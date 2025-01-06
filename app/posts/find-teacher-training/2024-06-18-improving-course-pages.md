@@ -95,7 +95,7 @@ We moved this information, including their contact details, to separate pages.
 
 ## User testing
 
-We tested a protoype on week commencing 27 May 2024.
+We tested a prototype on the week commencing 27 May 2024.
 
 The findings allowed us to be confident in some of the changes we could make to improve the page.
 

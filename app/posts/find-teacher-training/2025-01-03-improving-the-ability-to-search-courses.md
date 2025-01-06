@@ -19,7 +19,7 @@ Currently candidates need to answer several questions in order to get to a list 
 
 The current journey adds friction and inhibits the ability to give recommendations.
 
-It has become a lengthly process. Research has shown that candidates feel like they are doing their application already, and that it feels like they are making an committment which can be offputting.
+It has become a lengthy process. Research has shown that candidates feel like they are doing their application already, and that it feels like they are making a committment which can be off putting.
 
 We also want the ability to be able to deep link to particular courses from places like Get Into Teaching or Apply for teacher training courses. The current user journey doesn't allow for this.
 
@@ -49,7 +49,7 @@ The findings validated that this new journey to search for courses would be usef
 
 ## Next steps
 
-We will be tracking the usage of this search and using this information alongside other research to information further design iterations.
+We will be tracking the usage of this search and using this information alongside other research to inform further design iterations.
 
 We will continue to explore and test the advanced search feature before we build a solution.
 

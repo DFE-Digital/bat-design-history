@@ -17,7 +17,7 @@ tags:
 
 Currently candidates need to answer several questions in order to get to a list of relevant search results.
 
-If candidates want to make a change to their search, such as change the subject, they need to go through all of the steps again.
+If candidates want to make a change to their search, such as changing the subject, they need to go through all of the steps again.
 
 Research has shown that candidates want the ability to easily make changes to their search without having to go back to the start.
 
@@ -47,4 +47,4 @@ The findings validated that these filters would be useful to candidates.
 
 ## Next steps
 
-We will be tracking the usage of these filters and using this information alongside other research to information further design iterations.
+We will be tracking the usage of these filters and using this information alongside other research to inform further design iterations.

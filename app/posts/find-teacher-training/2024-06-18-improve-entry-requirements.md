@@ -9,7 +9,7 @@ tags:
 
 ## The issue
 
-Research found entry requirements was difficult to understand.
+Research found entry requirements were difficult to understand.
 
 The section was located in the middle of the long course pages, and was formatted in paragraphs which took time to understand, which made it difficult to easily compare courses.
 
@@ -17,7 +17,7 @@ The section was located in the middle of the long course pages, and was formatte
 
 ## What we changed
 
-We tested a protoype on week commencing 27 May 2024. The findings allowed us to be confident in some of the changes we could make to improve the page.
+We tested a prototype on the week commencing 27 May 2024. The findings allowed us to be confident in some of the changes we could make to improve the page.
 
 We moved ‘Entry requirements’ to the top of the page and improved the formatting.
 

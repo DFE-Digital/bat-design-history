@@ -49,11 +49,11 @@ This allows candidates to quickly and easily find these types of courses, withou
 
 ![Screenshot of open accordion with headings of Teacher Degree Apprenticeships, Special educational needs and disabilities, and teaching other stages, which will be added to the homepage](find-git-link-accordion-open-jan-2025.png)
 
-It also gave the ability for us to [add links to Get Into Teaching](/find-teacher-training/add-links-to-get-into-teaching/), as candidiates are likely to require more support and guidance to understand these routes and stages in order know if they are right for them.
+It also gave the ability for us to [add links to Get Into Teaching](/find-teacher-training/add-links-to-get-into-teaching/), as candidates are likely to require more support and guidance to understand these routes and stages in order to know if they are right for them.
 
 ### Update degree required filter
 
-In order to enable the link to view TDA courses, we needed to add a new option to the degree requred filter on the search results page.
+In order to enable the link to view TDA courses, we needed to add a new option to the degree required filter on the search results page.
 
 This is because TDA courses are an undergraduate route, therefore we needed a way to allow no degree to be required.
 
@@ -75,4 +75,4 @@ The findings validated that these routes to search results would be useful to ca
 
 ## Next steps
 
-We will be tracking the usage of these routes and using this information alongside other research to information further design iterations.
+We will be tracking the usage of these routes and using this information alongside other research to inform further design iterations.
