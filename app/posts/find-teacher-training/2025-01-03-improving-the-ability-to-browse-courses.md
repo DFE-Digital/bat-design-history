@@ -59,6 +59,14 @@ This is because TDA courses are an undergraduate route, therefore we needed a wa
 
 ![Screenshot of the degree required filter with a new option for no degree required which will be added to the search results page](find-browse-degree-required-jan-2025.png)
 
+### Search radius links on the no results page
+
+Another way we have improved browsing and prevented dead ends is we added links to the no results page that suggests expanding the search radius.
+
+These links include how many courses will be shown for that radius, to help users decide if they want to search a wider area to find the right course.
+
+![Screenshot of the widen search radius suggestion links as part of the search results page when there are no results](find-browse-radius-links-jan-2025.png)
+
 ## Usability testing
 
 This was tested with 18 participants over 2 rounds of testing in July and November 2024.
