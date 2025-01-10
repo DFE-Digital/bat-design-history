@@ -1,6 +1,6 @@
 ---
-title: Receiving approval for our approach to sharing information securely with the Education and Skills Funding Agency (ESFA) and accredited providers
-description: Using emails with temporary links to CSV files to share data with authorised third parties
+title: Approval for sharing information securely with the Education and Skills Funding Agency (ESFA) and accredited providers
+description: We received approval from our Senior Responsible Officer (SRO) and Information Asset Owner (IAO) for our approach to sharing information with third-parties using emails and temporary links to CSV files
 date: 2025-01-10
 tags:
   - payments
@@ -38,7 +38,7 @@ We do not share any personal data with the ESFA to make the payments, instead we
 
 ## Our approach
 
-Both the ESFA and the accredited providers we have conducted user research with, have requested to receive this information via spreadsheet (CSV).
+Both the ESFA and the accredited providers we have conducted user research with, have requested to receive this information via a comma separated values (CSV) document.
 
 When co-designing the service’s support console with the Ops and Support team, they requested that we automate as much as the process as possible, to reduce the burden on their team.
 
@@ -65,7 +65,8 @@ However, the final decision on whether to use Galaxkey or another transfer mecha
 We made the decision to not use Galaxkey for the following reasons:
 
 - doing so would require users to manually send the information, instead of it being automated into the service. This does present the opportunity that information is sent to the wrong user, which although unlikely is possible.
-- galaxkey is not well liked by users. We understand that this is one of the reasons why the ECF team requested a new journey for their users to request TRNs that didn’t involve users having to submit information via Galaxkey.
+- galaxkey is not well liked by users. We understand that this is one of the reasons why the early careers framework (ECF) team requested a new journey for their users to request TRNs that didn’t involve users having to submit information via Galaxkey.
+- to receive emails via galaxkey users would need to create an account and log into a workspace.
 - the information being sent to accredited providers is information that they should already have, as the process is designed to enable them to cross-reference our data with their records to enable them to assure the claims.
 - we do not send any personal information to the ESFA.
 
@@ -73,4 +74,3 @@ We made the decision to not use Galaxkey for the following reasons:
 
 On 10 January 2025, Stacy Singleton, the service’s Senior Responsible Officer (SRO) and Information Asset Owner (IAO) approved this approach as requested by the data protection team.
 
-*[CSV]: comma separated values
