@@ -24,7 +24,7 @@ In order to assure the claims, the accredited providers need to see the followin
 
 Sharing this data is covered by the central DfE privacy notice, which the service directs users to the [central DfE privacy notice](https://www.gov.uk/government/publications/privacy-information-education-providers-workforce-including-teachers/5a254207-a566-44f7-ac77-6ba59fd26e04#using-your-data-to-support-teaching-as-a-career) via the [service’s privacy notice](https://claim-funding-for-mentor-training.education.gov.uk/privacy)
 
-We do not share the Teacher Reference Number (TRN) nor the claim value with the accredited provider to minimise the amount of personal data being transferred.
+We do not share the teacher reference number (TRN) nor the claim value with the accredited provider to minimise the amount of personal data being transferred.
 
 ### Sharing data with ESFA
 
