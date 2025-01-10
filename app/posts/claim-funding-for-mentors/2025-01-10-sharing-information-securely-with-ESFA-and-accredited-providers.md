@@ -73,4 +73,3 @@ We made the decision to not use Galaxkey for the following reasons:
 ## Decision
 
 On 10 January 2025, Stacy Singleton, the service’s Senior Responsible Officer (SRO) and Information Asset Owner (IAO) approved this approach as requested by the data protection team.
-
