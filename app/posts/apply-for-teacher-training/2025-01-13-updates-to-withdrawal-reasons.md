@@ -38,16 +38,16 @@ All of the withdrawal reasons from 11 April 2023 to 20 September 2024 were analy
 * Candidates selecting ‘I’m going to apply (or have applied) to a different course with the same training provider’ mostly wanted to update their application.
 
 They gave their reasons such as:
-  “I want to improve my personal statement”
-  “I added something to my personal statement so I want to withdraw this application and immediately apply again”
-  “This provider has added a new school and I want to apply to that one instead”
+>   “I want to improve my personal statement”
+>   “I added something to my personal statement so I want to withdraw this application and immediately apply again”
+>   “This provider has added a new school and I want to apply to that one instead”
 
 * Candidates selecting ‘The wait to start the course is too long’ seem to want to select ‘The training provider has not responded to me’ instead. This reason only accounts for 0.8% of responses.
 
 They gave reasons such as:
-  “The training provider hasn’t responded yet”
-  “It’s been 2 months waiting for a response so I am withdrawing my application”
-  “Too long a wait for a reply”
+>   “The training provider hasn’t responded yet”
+>   “It’s been 2 months waiting for a response so I am withdrawing my application”
+>   “Too long a wait for a reply”
 
 * There is a lot of overlap between ‘I am going to apply (or have applied) to a different training provider’ and the other reasons. This could be because applying to another provider is an outcome rather than a reason.
   * 30% of respondents ticking this box had accepted an offer elsewhere. In this situation their other applications are all withdrawn automatically, so they don’t need to follow this manual withdrawal process.
@@ -87,11 +87,10 @@ I have seen a course that suits me better
 The training provider has not replied to me
 The location I'm expected to train at is too far away
 My personal circumstances have changed
-
-* I have concerns about the cost of doing the course
-* I have concerns that I will not have time to train
-* I have concerns about training with a disability or health condition
-* Other
+I have concerns about the cost of doing the course
+I have concerns that I will not have time to train
+I have concerns about training with a disability or health condition
+Other
 The course is not available anymore
 Other
 
@@ -105,11 +104,10 @@ Other
 #### I am going to apply for teacher training next year
 
 My personal circumstances have changed
-
-* I have concerns about the cost of doing the course
-* I have concerns that I will not have time to train
-* I have concerns about training with a disability or health condition
-* Other
+I have concerns about the cost of doing the course
+I have concerns that I will not have time to train
+I have concerns about training with a disability or health condition
+Other
 I want to get more experience before I apply again
 I want to improve my qualifications before I apply again
 Other
@@ -117,14 +115,13 @@ Other
 #### I no longer want to train to teach
 
 My personal circumstances have changed
-
-    I have concerns about the cost of doing the course
-    I have concerns that I will not have time to train
-    I have concerns about training with a disability or health condition
-    Other
-
+I have concerns about the cost of doing the course
+I have concerns that I will not have time to train
+I have concerns about training with a disability or health condition
+Other
 I have decided on another career path or I have accepted a job offer
 Other
+---
 
 ‘My personal circumstances have changed’ is a reason that contains other sub-categories to explain what the change in personal circumstances is. We have repeated this as a reason in 3 of the 4 categories because a change in personal circumstances can reasonably be a reason for no longer wanting to train to teach, deferring your application until next year or applying to another training provider.  
 
