@@ -87,10 +87,11 @@ I have seen a course that suits me better
 The training provider has not replied to me
 The location I'm expected to train at is too far away
 My personal circumstances have changed
-  - I have concerns about the cost of doing the course
-  - I have concerns that I will not have time to train
-  - I have concerns about training with a disability or health condition
-  - Other
+
+* I have concerns about the cost of doing the course
+* I have concerns that I will not have time to train
+* I have concerns about training with a disability or health condition
+* Other
 The course is not available anymore
 Other
 
@@ -104,10 +105,11 @@ Other
 #### I am going to apply for teacher training next year
 
 My personal circumstances have changed
-  - I have concerns about the cost of doing the course
-  - I have concerns that I will not have time to train
-  - I have concerns about training with a disability or health condition
-  - Other
+
+* I have concerns about the cost of doing the course
+* I have concerns that I will not have time to train
+* I have concerns about training with a disability or health condition
+* Other
 I want to get more experience before I apply again
 I want to improve my qualifications before I apply again
 Other
@@ -115,10 +117,11 @@ Other
 #### I no longer want to train to teach
 
 My personal circumstances have changed
-  - I have concerns about the cost of doing the course
-  - I have concerns that I will not have time to train
-  - I have concerns about training with a disability or health condition
-  - Other
+
+* I have concerns about the cost of doing the course
+* I have concerns that I will not have time to train
+* I have concerns about training with a disability or health condition
+* Other
 I have decided on another career path or I have accepted a job offer
 Other
 
