@@ -121,7 +121,8 @@ I have concerns about training with a disability or health condition
 Other
 I have decided on another career path or I have accepted a job offer
 Other
----
+
+### Change of personal circumstances analysis
 
 ‘My personal circumstances have changed’ is a reason that contains other sub-categories to explain what the change in personal circumstances is. We have repeated this as a reason in 3 of the 4 categories because a change in personal circumstances can reasonably be a reason for no longer wanting to train to teach, deferring your application until next year or applying to another training provider.  
 
