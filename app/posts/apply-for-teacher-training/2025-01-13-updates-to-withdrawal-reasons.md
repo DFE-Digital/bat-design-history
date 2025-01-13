@@ -38,16 +38,16 @@ All of the withdrawal reasons from 11 April 2023 to 20 September 2024 were analy
 * Candidates selecting ‘I’m going to apply (or have applied) to a different course with the same training provider’ mostly wanted to update their application.
 
 They gave their reasons such as:
->   “I want to improve my personal statement”
->   “I added something to my personal statement so I want to withdraw this application and immediately apply again”
->   “This provider has added a new school and I want to apply to that one instead”
+> “I want to improve my personal statement”
+> “I added something to my personal statement so I want to withdraw this application and immediately apply again”
+> “This provider has added a new school and I want to apply to that one instead”
 
 * Candidates selecting ‘The wait to start the course is too long’ seem to want to select ‘The training provider has not responded to me’ instead. This reason only accounts for 0.8% of responses.
 
 They gave reasons such as:
->   “The training provider hasn’t responded yet”
->   “It’s been 2 months waiting for a response so I am withdrawing my application”
->   “Too long a wait for a reply”
+> “The training provider hasn’t responded yet”
+> “It’s been 2 months waiting for a response so I am withdrawing my application”
+> “Too long a wait for a reply”
 
 * There is a lot of overlap between ‘I am going to apply (or have applied) to a different training provider’ and the other reasons. This could be because applying to another provider is an outcome rather than a reason.
   * 30% of respondents ticking this box had accepted an offer elsewhere. In this situation their other applications are all withdrawn automatically, so they don’t need to follow this manual withdrawal process.
