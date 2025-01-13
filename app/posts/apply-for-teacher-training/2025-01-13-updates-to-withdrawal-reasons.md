@@ -118,10 +118,11 @@ Other
 
 My personal circumstances have changed
 
-* I have concerns about the cost of doing the course
-* I have concerns that I will not have time to train
-* I have concerns about training with a disability or health condition
-* Other
+    I have concerns about the cost of doing the course
+    I have concerns that I will not have time to train
+    I have concerns about training with a disability or health condition
+    Other
+
 I have decided on another career path or I have accepted a job offer
 Other
 
