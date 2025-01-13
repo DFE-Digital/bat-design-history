@@ -26,6 +26,12 @@ related:
 
 This research aimed to test the user journeys for payments, sampling and clawbacks within the support console.
 
+## User needs addressed by this research
+
+1. As a support user, I need guidance on how to use the support console for payments, sampling and clawbacks, so that I am able to successfully complete the required tasks. 
+
+2. As a support user, I need to know how to action claims, so that I am able to complete tasks payments, sampling and clawbacks tasks relating to claims. 
+
 ## Who we spoke to
 
 We spoke to 3 members of the support team who will be managing claims for the Claim funding for mentor training service via the support console.
