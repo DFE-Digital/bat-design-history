@@ -16,6 +16,8 @@ screenshots:
 
 After private beta users had submitted their claims, we changed the start page content based on user feedback and behaviour.
 
+We also changed the start page based on insights gained in [Round 2 research findings](https://becoming-a-teacher.design-history.education.gov.uk/claim-funding-for-mentors/round-2-research-findings).
+
 We added the new content to the prototype to test with users during [round 8 of user research](/claim-funding-for-mentors/round-8-public-beta-placement-school-research-findings/), which was with public beta placement schools, including those not well represented in the private beta.
 
 The updated start page tested well, so we updated the live service with the content from the prototype.
