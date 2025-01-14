@@ -26,7 +26,7 @@ screenshots:
 
 We tested the claim flow with users to determine whether the service was usable, effective, and acceptable.
 
-Based on the findings and the insights gained in [Round 1 research findings](https://becoming-a-teacher.design-history.education.gov.uk/claim-funding-for-mentors/round-1-research-findings) we made several changes.
+Based on the findings and the insights gained in [Round 1 research findings](/claim-funding-for-mentors/round-1-research-findings) we made several changes.
 
 ## What we changed
 
