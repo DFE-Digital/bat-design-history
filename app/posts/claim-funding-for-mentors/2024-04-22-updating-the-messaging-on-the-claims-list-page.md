@@ -15,7 +15,7 @@ related:
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As someone in an administrative or mentor role, 
+  description: "As someone in an administrative or mentor role,
   I need Reassurance that the DfE have the correct details for our organisation,
  So that, I feel confident that our claim has been submitted correctly."
 }) }}
