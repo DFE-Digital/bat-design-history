@@ -11,6 +11,15 @@ related:
       href: /claim-funding-for-mentors/round-3-research-findings/
 ---
 
+## User need addressed by this change
+
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As someone in an administrative or mentor role, 
+  I need Reassurance that the DfE have the correct details for our organisation,
+ So that, I feel confident that our claim has been submitted correctly."
+}) }}
+
 After [round 3 of user research](/claim-funding-for-mentors/round-3-research-findings/), we updated the claims list page to clarify that users must add at least one mentor before creating a claim.
 
 We made this change because [users continue to get confused as to where they go to claim after adding a mentor](/claim-funding-for-mentors/round-3-research-findings/#users-continue-to-get-confused-as-to-where-they-go-to-claim-after-adding-a-mentor).
