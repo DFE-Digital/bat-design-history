@@ -6,6 +6,10 @@ tags:
   - start page
 related:
   items:
+    - text: Round 1 research findings
+      href: /claim-funding-for-mentors/round-1-research-findings/
+    - text: Round 2 research findings
+      href: /claim-funding-for-mentors/round-2-research-findings/
     - text: Round 8 public beta placement school research findings
       href: /claim-funding-for-mentors/round-8-public-beta-placement-school-research-findings/
 screenshots:
@@ -15,6 +19,8 @@ screenshots:
 ---
 
 After private beta users had submitted their claims, we changed the start page content based on user feedback and behaviour.
+
+We also changed the start page based on insights gained in [Round 1 research findings](/claim-funding-for-mentors/round-1-research-findings) and [Round 2 research findings](/claim-funding-for-mentors/round-2-research-findings).
 
 We added the new content to the prototype to test with users during [round 8 of user research](/claim-funding-for-mentors/round-8-public-beta-placement-school-research-findings/), which was with public beta placement schools, including those not well represented in the private beta.
 
