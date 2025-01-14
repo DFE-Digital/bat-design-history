@@ -11,7 +11,7 @@ related:
       href: /claim-funding-for-mentors/round-3-research-findings/
 ---
 
-After we decided to split the journey to make a claim into two: adding a mentor and submitting a claim, we wanted to continue to test this with users and to iterate the content as appropriate. This post details the changes we made to the claim list page to provide additional clarity and reassurance to users when they submit their claims.
+After we split the claim journey into two, adding a mentor and submitting a claim, we wanted to continue testing this with users and iterating the content as appropriate. This post details the changes we made to the claim list page to provide additional clarity and reassurance to users when they submit their claims.
 
 ## User need addressed by this change
 
