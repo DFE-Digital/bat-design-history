@@ -27,6 +27,45 @@ The goals of this round of research included understanding:
 - if our sampling approach will work within their current processes
 - how much visibility they require of submitted claims
 
+## User needs addressed by this research
+
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a provider,
+  I need schools to understand the benefits of mentoring,
+ So that, we get more buy-in from schools, who agree to become placement partners."
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider,
+  I need schools to understand the benefits of mentoring,
+  So that, we get more buy-in from school staff to attend mentor training."
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider,
+  I need schools to understand the benefits of claiming funding and how it will support with mentoring and the training they are required to do,
+  So that, they are encouraged to claim all of the funding that they are entitled to and don't miss out, despite having busy schedules."
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider,
+  I need data related to a claim to match the data that we collect,
+  So that, we can easily and correctly check the claims against our own records when sampling."
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider,
+  I need data related to a claim to match the data that we collect,
+  So that, we can easily and correctly check the claims against our own records when sampling."
+}) }}
+
+{{ appUserNeed({
+  description: "As a provider,
+  I need schools to be submitting claims accurately,
+  So that, we don't have too many incorrect claims to contact schools about when it comes to sampling."
+}) }}
+
 ## Key insights
 
 **Providers have close relationships with schools and see themselves as key players in communicating with them about the new service.**
