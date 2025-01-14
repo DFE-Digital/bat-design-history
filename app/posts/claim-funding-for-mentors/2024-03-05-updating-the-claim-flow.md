@@ -4,10 +4,12 @@ description: We updated the add claim flow following feedback from user research
 date: 2024-03-05
 tags:
   - claims
-related: [Round 1 research findings](/claim-funding-for-mentors/round-1-research-findings)
+related:
   items:
     - text: Submitting claims for funding
       href: /claim-funding-for-mentors/submitting-claims-for-funding/
+    - text: Round 1 research findings
+      href: /claim-funding-for-mentors/round-1-research-findings
 screenshots:
   items:
     - text: Claims list
