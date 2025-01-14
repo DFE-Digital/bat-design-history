@@ -4,9 +4,12 @@ description: Updating the service’s start page based on user feedback and beha
 date: 2024-10-15
 tags:
   - start page
-related: [Round 1 research findings](/claim-funding-for-mentors/round-1-research-findings)
-[Round 2 research findings](/claim-funding-for-mentors/round-2-research-findings)
+related:
   items:
+    - text: Round 1 research findings
+      href: /claim-funding-for-mentors/round-1-research-findings/
+    - text: Round 2 research findings
+      href: /claim-funding-for-mentors/round-2-research-findings/
     - text: Round 8 public beta placement school research findings
       href: /claim-funding-for-mentors/round-8-public-beta-placement-school-research-findings/
 screenshots:
