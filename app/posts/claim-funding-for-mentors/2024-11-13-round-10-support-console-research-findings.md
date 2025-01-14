@@ -30,14 +30,14 @@ This research aimed to test the user journeys for payments, sampling and clawbac
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As a support user, 
+  description: "As a support user,
   I need guidance on how to use the support console for payments, sampling and clawbacks,
   So that I am able to successfully complete the required tasks."
 }) }}
 
 {{ appUserNeed({
-  description: "As a support user, 
-  I need to know how to action claims, 
+  description: "As a support user,
+  I need to know how to action claims,
   So that I am able to complete tasks payments, sampling and clawbacks tasks relating to claims."
 }) }}
 
