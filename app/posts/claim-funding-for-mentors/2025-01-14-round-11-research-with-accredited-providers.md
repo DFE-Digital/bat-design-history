@@ -21,7 +21,7 @@ related:
 
 The goals of this round of research were to:
 
-- understand if our CVS has the correct level of data required for providers to be able to quickly and correctly sample claims
+- understand if our CSV has the correct level of data required for providers to be able to quickly and correctly sample claims
 - understand if they know how to complete the CSV file
 - test the email that they will receive from DfE asking them to sample claims and check if they understand clearly what the process is and what we’re asking them to do
 - validate if there is a user need for providers to request a list of claims that are associated with them
@@ -113,3 +113,6 @@ We will update the sampling email content, informing providers of the sampling t
 We will include some guidance in the email on completing the ‘reason for not being assured’. We will monitor the quality of the responses within CSV files before making any further changes.
 
 Because providers need to see a list of submitted claims, the ability to download this data within the support console will remain. We will look at improving this so that it does not distract from the ability to complete key tasks within the console ([see previous round of research design history](/claim-funding-for-mentors/round-10-support-console-research-findings/)).
+
+*[CSV]: comma separated values
+*[SCITT]: school centred initial teacher training
