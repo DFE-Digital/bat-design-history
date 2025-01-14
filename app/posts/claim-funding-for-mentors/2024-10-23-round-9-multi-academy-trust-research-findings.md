@@ -16,6 +16,23 @@ Test the new iterations of the start page. Do users better understand what the s
 
 Understand how MATs will use the service. Will they make claims at an individual school level or centrally?
 
+To explore the next steps identified in [Round 3 research findings](https://becoming-a-teacher.design-history.education.gov.uk/claim-funding-for-mentors/round-3-research-findings).
+
+## User needs addressed by this research
+
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a multi-academy trust,
+  I need to be able to submit claims on behalf of other schools within our trust,
+ So that I am able to reduce the burden on schools having to submit claims individually."
+}) }}
+
+{{ appUserNeed({
+  description: "As a multi-academy trust,
+  I need to be able to view claims across the different schools within our trust,
+  So that, we can manage the number of claims and funding across our trust."
+}) }}
+
 ## Who we spoke to
 
 All schools included in the research were multi-academy trusts. We ensured a geographic spread.
