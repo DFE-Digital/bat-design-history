@@ -8,6 +8,8 @@ related:
   items:
     - text: Submitting claims for funding
       href: /claim-funding-for-mentors/submitting-claims-for-funding/
+    - text: Round 1 research findings
+      href: /claim-funding-for-mentors/round-1-research-findings
 screenshots:
   items:
     - text: Claims list
@@ -26,7 +28,7 @@ screenshots:
 
 We tested the claim flow with users to determine whether the service was usable, effective, and acceptable.
 
-Based on the findings, we made several changes.
+Based on the findings and the insights gained in [Round 1 research findings](/claim-funding-for-mentors/round-1-research-findings) we made several changes.
 
 ## What we changed
 
