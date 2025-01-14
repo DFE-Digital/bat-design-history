@@ -31,7 +31,7 @@ The goals of this round of research included understanding:
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As a provider, 
+  description: "As a provider,
   I need schools to understand the benefits of mentoring,
  So that, we get more buy-in from schools, who agree to become placement partners."
 }) }}
