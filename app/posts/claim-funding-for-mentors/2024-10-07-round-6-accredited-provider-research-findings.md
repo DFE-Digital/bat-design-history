@@ -39,7 +39,7 @@ The goals of this round of research included understanding:
 {{ appUserNeed({
   description: "As a provider,
   I need schools to understand the benefits of mentoring,
-  So that, We get more buy-in from school staff to attend mentor training."
+  So that, we get more buy-in from school staff to attend mentor training."
 }) }}
 
 {{ appUserNeed({
