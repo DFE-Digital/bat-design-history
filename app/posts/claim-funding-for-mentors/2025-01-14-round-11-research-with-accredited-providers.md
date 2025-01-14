@@ -80,21 +80,21 @@ All participants we spoke to were responsible for managing and tracking mentorin
 
 ### Participants thought they only had 7 days to complete the sampling
 
-The message ‘CSV is only valid for 7 days’ led participants to believe that they only had 7 days to complete sampling. They were not aware that this was for data protection purposes and said it would be helpful to be told the timeframes for sampling within the email.
+The message ‘CSV is only valid for 7 days’ led participants to believe they only had 7 days to complete sampling. They were not aware that this was for data protection purposes and said it would be helpful to be told the timeframes for sampling within the email.
 
 ### Ensuring the accuracy of claims submitted by schools
 
-Once participants became aware of the sampling process and their responsibility as part of it, they grew concerned about schools submitting inaccurate or insufficient claims. To help with this, they said they would send a list of claims to schools to submit ahead of the claims window opening.
+Once participants became aware of the sampling process and their responsibility as part of it, they grew concerned about schools submitting inaccurate or insufficient claims. To help with this, they said they would send schools a list of claims to submit before the claims window opens.
 
 ### Further information was required on how to complete the spreadsheet
 
 Participants understood how to complete the spreadsheet based on the instructions in the email. However, they were unsure how much detail to include when stating a reason for not being assured. They said it would be helpful to have further guidance on this available within the email.
 
-Furthermore, they said categories of reasons to choose from would help them to ensure they have stated the reason correctly. These categories would also help with their analysis when identifying why schools submit claims incorrectly.
+Furthermore, they said categories of reasons to choose from would help them to ensure they have stated the reason correctly. These categories would also help analyse why schools submit claims incorrectly.
 
 ### Larger providers would find it helpful to see claims that schools have submitted
 
-Whether or not participants would like to be sent a list of claims submitted by schools depends on the provider and the number of mentors they have. In this round of research, large providers said it would be helpful to see a list of claims. In previous rounds of research, other providers said they would prefer not to as it would give them an additional admin task.
+Participants' willingness to receive a list of claims submitted by schools depends on the provider and the number of mentors they have. In this round of research, large providers said it would be helpful to see a list of claims. In previous rounds of research, other providers said they would prefer not to, as it would give them an additional administrative task.
 
 Some participants said clarifying that they do not have to take action would be helpful.
 
