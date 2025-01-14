@@ -34,6 +34,21 @@ Of which:
 - Gain a deeper understanding of users’ behaviour when using the service – in particular, when users will claim throughout the claim period
 - Test the journey for users that have a more significant number of mentors and work with more than one provider
 
+## User needs addressed by this research
+
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a multi-academy trust,
+  I need to be able to submit claims on behalf of other schools within our trust,
+ So that I am able to reduce the burden on schools having to submit claims individually."
+}) }}
+
+{{ appUserNeed({
+  description: "As a multi-academy trust,
+  I need to be able to view claims across the different schools within our trust,
+  So that, we can manage the number of claims and funding across our trust."
+}) }}
+
 ## Key insights
 
 ### Multi Academy Trusts (MATs) have different needs depending on their size and structure
