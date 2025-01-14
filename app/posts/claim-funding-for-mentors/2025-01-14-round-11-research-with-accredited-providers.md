@@ -1,11 +1,11 @@
 ---
 title: Round 11 research with accredited providers
-description: Understanding if our post payment processes align with accredited providers needs and expectations
+description: Understanding if our sampling processes align with accredited providers’ needs and expectations
 date: 2025-01-07
 tags:
   - research
   - accredited providers
-  - sampling 
+  - sampling
   - claims
 related:
   items:
@@ -19,91 +19,97 @@ related:
 
 ## Research goals
 
-- Understand if our CVS has the correct level of data required for providers to be able to easily and correctly sample claims.
-- Understand if they know how to complete the CSV file.
-- Test the email that they will receive from DfE asking them to sample claims and check if they understand clearly what the process is and what they’re being asked to do.
-- Validate if there is a user need for providers to request a list of claims that have been submitted associated with them.
+The goals of this round of research were to:
+
+- understand if our CVS has the correct level of data required for providers to be able to quickly and correctly sample claims
+- understand if they know how to complete the CSV file
+- test the email that they will receive from DfE asking them to sample claims and check if they understand clearly what the process is and what we’re asking them to do
+- validate if there is a user need for providers to request a list of claims that are associated with them
 
 ## User needs addressed by this research
 
-{% from "user-need/macro.njk" import appUserNeed %}
+{% from “user-need/macro.njk” import appUserNeed %}
 {{ appUserNeed({
-  description: "As a provider,
+  description: “As a provider,
   I need data related to a claim to match the data that we collect,
- So that we can easily and correctly check the claims against our own records when sampling."
+ So that we can easily and correctly check the claims against our records when sampling.”
 }) }}
 
 {{ appUserNeed({
-  description: "As a provider,
+  description: “As a provider,
   I need the process for sampling to be quick and easy,
-  So that, it doesn’t create too much administrative burden for us."
+  So that it does not create too much of an administrative burden for us.”
 }) }}
 
 {{ appUserNeed({
-  description: "As a provider,
+  description: “As a provider,
 I need to know what the timelines are for claiming funding,
 So that we can ensure our processes fit, such as checking for errors.”
 }) }}
 
 {{ appUserNeed({
-  description: "As a provider,
+  description: “As a provider,
   I need enough time to be able to complete sampling,
-  So that, we have enough time to check the claims against our own records and liaise with schools regarding incorrect claims."
+  So that we have enough time to check the claims against our records and liaise with schools regarding incorrect claims.”
 }) }}
 
 {{ appUserNeed({
-  description: "As a provider,
+  description: “As a provider,
   I need schools to be submitting claims accurately,
-  So that, we don’t have too many incorrect claims to contact schools about when it comes to sampling."
+  So that we do not have too many incorrect claims to contact schools regarding sampling.”
 }) }}
 
 ## Methodology
 
-- Usability testing of an example CSV file.
+Usability testing of an example CSV file.
 
-- Usability of a low fidelity prototype of the email they will receive inviting them to sample claims.
+Usability of a low-fidelity prototype of the email they will receive inviting them to sample claims.
 
-## Who with?
+## Who we spoke to
 
-A mix of different accredited provider types based on geographical spread and size, and users who will be responsible for sampling claims:  
+We spoke to a mix of participants from different accredited provider types based on geographical spread and size and participants who will be responsible for sampling claims:
 
 - Derby University
-- The Sheffield SCITT
 - Liverpool Hope University
 - Nottingham Trent University
+- The Sheffield SCITT
 
-All participants spoken to were responsible for managing and tracking mentoring data and will be responsible for sampling claims for Claim Funding for Mentor Training.  
+All participants we spoke to were responsible for managing and tracking mentoring data and will be responsible for sampling claims for Claim funding for mentor training.
 
 ## Key findings
 
-1. Participants thought they only had 7 days to complete sampling
+### Participants thought they only had 7 days to complete the sampling
 
-'CSV is only valid for 7 days’ lead participants to believe that they only had 7 days to complete sampling. They weren’t aware that this was for data protection purposes and said it would be helpful to be told the timeframes for sampling within the email.  
+The message ‘CSV is only valid for 7 days’ led participants to believe that they only had 7 days to complete sampling. They were not aware that this was for data protection purposes and said it would be helpful to be told the timeframes for sampling within the email.
 
-2. Ensuring accuracy of claims submitted by schools
+### Ensuring the accuracy of claims submitted by schools
 
-Once participants become aware of the sampling process and the responsibility they had as part of it, they grew concerned about schools submitting inaccurate claims or not submitting enough claims. To help with this they said they would send a list of claims to schools to submit for ahead of the claims window opening.  
+Once participants became aware of the sampling process and their responsibility as part of it, they grew concerned about schools submitting inaccurate or insufficient claims. To help with this, they said they would send a list of claims to schools to submit ahead of the claims window opening.
 
-3. Further information required on how to complete spreadsheet
+### Further information was required on how to complete the spreadsheet
 
-Participants understood how to complete the spreadsheet based on the instructions in the email. However, they were unsure on how much detail to put when stating a reason for not assured. They said it would be helpful to have further guidance on this that was available to access within the email.
+Participants understood how to complete the spreadsheet based on the instructions in the email. However, they were unsure how much detail to include when stating a reason for not being assured. They said it would be helpful to have further guidance on this available within the email.
 
-Furthermore, they said categories of reasons to choose from would help them to ensure they have stated the reason correctly. This would also help with their own analysis when identifying why schools are submitting claims incorrectly.  
+Furthermore, they said categories of reasons to choose from would help them to ensure they have stated the reason correctly. These categories would also help with their analysis when identifying why schools submit claims incorrectly.
 
-4. Larger providers would find it helpful to see claims that have been submitted by schools
+### Larger providers would find it helpful to see claims that schools have submitted
 
-Whether or not participants would like to be sent a list of claims that have been submitted by schools depends on the provider and number of mentors they have. In this round of research, large providers said it would be helpful to see a list of claims. Whereas in previous rounds of research other providers said they would prefer not to as it would give them an additional admin task.  
+Whether or not participants would like to be sent a list of claims submitted by schools depends on the provider and the number of mentors they have. In this round of research, large providers said it would be helpful to see a list of claims. In previous rounds of research, other providers said they would prefer not to as it would give them an additional admin task.
 
-Some participants said it would be helpful to make it clear that they do not have to take action.  
+Some participants said clarifying that they do not have to take action would be helpful.
 
 ## Additional findings (no changes required)
 
-- All providers spoken to knew it was their responsibility to sample claims, they had been told this information by others based on the guidance.
-- Not all participants spoken to had seen the guidance themselves, but had been passed on ‘bits of information’ from those that had.
+All providers we spoke to knew it was their responsibility to sample claims, they had been told this information by others based on the guidance.
 
-## Next steps  
+Not all participants we spoke to had seen the guidance themselves, but they had ‘been passed bits of information’ from those who had.
 
-- To reduce administrative burden, the support team have requested that in order for providers receive a list of claims, they must request this by contacting the support team (instead of us sending it to them). This is stated within the guidance so that providers are aware.
-- We will update the content within the sampling email, making providers aware of the sampling timeframes.  
-- We will including some guidance within the email on how to complete ‘reason for not assured’. We will monitor the quality of the responses within CSV files before making any further changes.
-- Because there is a need for providers to see a list of claims that have been submitted, the ability to download this data within the support console will remain. We will look at making improvements to this so that it doesn’t distract from the ability to complete key tasks within the console (see previous round of research design history).
+## Next steps
+
+To reduce administrative burden, the support team has requested that providers contact the support team (instead of us sending it to them) to request a list of claims. This request is stated within the guidance so that providers are aware.
+
+We will update the sampling email content, informing providers of the sampling timeframes.
+
+We will include some guidance in the email on completing the ‘reason for not being assured’. We will monitor the quality of the responses within CSV files before making any further changes.
+
+Because providers need to see a list of submitted claims, the ability to download this data within the support console will remain. We will look at improving this so that it does not distract from the ability to complete key tasks within the console (see previous round of research design history).
