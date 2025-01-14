@@ -20,7 +20,7 @@ Understand how MATs will use the service. Will they make claims at an individual
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As a multi-academy trust, 
+  description: "As a multi-academy trust,
   I need to be able to submit claims on behalf of other schools within our trust,
  So that I am able to reduce the burden on schools having to submit claims individually."
 }) }}
