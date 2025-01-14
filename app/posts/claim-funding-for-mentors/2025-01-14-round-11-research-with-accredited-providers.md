@@ -10,7 +10,7 @@ tags:
 related:
   items:
     - text: Round 6 accredited provider research findings
-      href: claim-funding-for-mentors/round-6-accredited-provider-research-findings/
+      href: /claim-funding-for-mentors/round-6-accredited-provider-research-findings/
     - text: Sampling and clawback emails
       href: /claim-funding-for-mentors/payment-sampling-and-clawback-emails/
     - text: Support console research findings
@@ -28,35 +28,35 @@ The goals of this round of research were to:
 
 ## User needs addressed by this research
 
-{% from “user-need/macro.njk” import appUserNeed %}
+{% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: “As a provider,
+  description: "As a provider,
   I need data related to a claim to match the data that we collect,
- So that we can easily and correctly check the claims against our records when sampling.”
+ So that we can easily and correctly check the claims against our records when sampling."
 }) }}
 
 {{ appUserNeed({
-  description: “As a provider,
+  description: "As a provider,
   I need the process for sampling to be quick and easy,
-  So that it does not create too much of an administrative burden for us.”
+  So that it does not create too much of an administrative burden for us."
 }) }}
 
 {{ appUserNeed({
-  description: “As a provider,
+  description: "As a provider,
 I need to know what the timelines are for claiming funding,
-So that we can ensure our processes fit, such as checking for errors.”
+So that we can ensure our processes fit, such as checking for errors."
 }) }}
 
 {{ appUserNeed({
-  description: “As a provider,
+  description: "As a provider,
   I need enough time to be able to complete sampling,
-  So that we have enough time to check the claims against our records and liaise with schools regarding incorrect claims.”
+  So that we have enough time to check the claims against our records and liaise with schools regarding incorrect claims."
 }) }}
 
 {{ appUserNeed({
-  description: “As a provider,
+  description: "As a provider,
   I need schools to be submitting claims accurately,
-  So that we do not have too many incorrect claims to contact schools regarding sampling.”
+  So that we do not have too many incorrect claims to contact schools regarding sampling."
 }) }}
 
 ## Methodology
@@ -112,4 +112,4 @@ We will update the sampling email content, informing providers of the sampling t
 
 We will include some guidance in the email on completing the ‘reason for not being assured’. We will monitor the quality of the responses within CSV files before making any further changes.
 
-Because providers need to see a list of submitted claims, the ability to download this data within the support console will remain. We will look at improving this so that it does not distract from the ability to complete key tasks within the console (see previous round of research design history).
+Because providers need to see a list of submitted claims, the ability to download this data within the support console will remain. We will look at improving this so that it does not distract from the ability to complete key tasks within the console ([see previous round of research design history](/claim-funding-for-mentors/round-10-support-console-research-findings/)).
