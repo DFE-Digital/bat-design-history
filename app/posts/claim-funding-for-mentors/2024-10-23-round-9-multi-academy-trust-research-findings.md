@@ -16,6 +16,8 @@ Test the new iterations of the start page. Do users better understand what the s
 
 Understand how MATs will use the service. Will they make claims at an individual school level or centrally?
 
+To explore user needs identified in [Round 3 research findings](https://becoming-a-teacher.design-history.education.gov.uk/claim-funding-for-mentors/round-3-research-findings) 
+
 ## User needs addressed by this research
 
 {% from "user-need/macro.njk" import appUserNeed %}
