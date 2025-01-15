@@ -1,3 +1,5 @@
+@use "sass:color";
+
 .app-user-need {
   display: flex;
   flex-direction: column-reverse;
@@ -7,7 +9,7 @@
   position: relative;
 
   &:hover {
-    background-color: darken(govuk-colour('light-grey'), 5%);
+    background-color: color.adjust(govuk-colour('light-grey'), $lightness: -5%);
   }
 
   p:last-child {
