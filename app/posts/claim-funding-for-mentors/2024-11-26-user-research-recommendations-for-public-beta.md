@@ -44,15 +44,19 @@ Recruitment of MATs, ensuring a demographic spread of:
 - Small and large MATs (we suspect this need may differ depending on the size of the MAT)
 - Different role types, particularly those within strategic/administrative roles and therefore likely to make or encourage claims, such as:
 
-- Head teachers
-- Lead ITT/ITT Coordinators
-- Business administrators
+      - Head teachers
+      - Lead ITT/ITT Coordinators
+      - Business administrators
 
 ## 2. Research with general mentors
 
-We were told during both qualitative and quantitative research that those in strategic/administrative roles are those that will submit claims on the school's behalf. However, when we went live with private beta, we found that general mentors were also submitting claims.
+We were told during both qualitative and quantitative research that those in strategic/administrative roles are those that will submit claims on the school's behalf. 
 
-Whilst we tried to recruit general mentors and include them within our research for private beta, we didn’t get any sign ups. Therefore, we were unable to include them in our research.
+However, when we went live with private beta, we found that general mentors were also submitting claims.
+
+Whilst we tried to recruit general mentors and include them within our research for private beta, we didn’t get any sign ups. 
+
+Therefore, we were unable to include them in our research.
 
 **User need**
 
@@ -65,11 +69,19 @@ Whilst we tried to recruit general mentors and include them within our research 
 
 **Next steps**
 
-Conduct a small round of research with general mentors to validate that the service is meeting their needs. One round of research will likely be sufficient as the findings didn’t differ across user types during our research. Therefore, we assume there will unlikely be any new findings or pain points.
+Conduct a small round of research with general mentors to validate that the service is meeting their needs. 
+
+One round of research will likely be sufficient as the findings didn’t differ across user types during our research. 
+
+Therefore, we assume there will unlikely be any new findings or pain points.
 
 ## 3. Research with providers
 
-Due to strict timelines within private beta, we were only able to conduct research with the 2 providers (NIOT and BPN) that are part of private beta. From our research, we found that the needs of providers will differ depending on their size and level of ‘digital maturity’ (for example, how streamlined and efficient are their digital processes for tracking and managing mentors). We need to understand how informed providers need to be regarding claims that schools are making, and understand if the sampling process works for them.
+Due to strict timelines within private beta, we were only able to conduct research with the 2 providers (NIOT and BPN) that are part of private beta. 
+
+From our research, we found that the needs of providers will differ depending on their size and level of ‘digital maturity’ (for example, how streamlined and efficient are their digital processes for tracking and managing mentors). 
+
+We need to understand how informed providers need to be regarding claims that schools are making, and understand if the sampling process works for them.
 
 **User needs**
 
