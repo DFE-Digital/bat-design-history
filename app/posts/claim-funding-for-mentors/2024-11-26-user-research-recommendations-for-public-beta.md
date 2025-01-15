@@ -140,13 +140,13 @@ Secondary users:
   I need to know how to action claims,
   So that I am able to complete tasks payments, sampling and clawbacks tasks relating to claims."
 }) }}
- 
+
  {{ appUserNeed({
  description: "As a provider,
  I need the process for sampling to be quick and easy,
  So that it does not create too much of an administrative burden for us."
  }) }}
- 
+
  {{ appUserNeed({
  description: "As a provider,
  I need enough time to be able to complete sampling,
