@@ -5,7 +5,10 @@
   padding: govuk-spacing(4);
   border: $govuk-border-width solid $govuk-border-colour;
 
-  h1, h2, h3, h4 {
+  h1,
+  h2,
+  h3,
+  h4 {
     @include govuk-font($size: 27, $weight: bold);
     margin-bottom: govuk-spacing(4);
   }
@@ -31,7 +34,7 @@
   blockquote {
     margin: 0 0 govuk-spacing(4);
     padding: govuk-spacing(2);
-    border-left: 10px solid govuk-colour('mid-grey');
+    border-left: 10px solid govuk-colour("mid-grey");
   }
 
   .placeholder,
