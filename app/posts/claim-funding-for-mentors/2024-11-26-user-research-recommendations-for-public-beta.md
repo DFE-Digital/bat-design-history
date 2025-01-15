@@ -84,7 +84,6 @@ We need to understand how informed providers need to be regarding claims that sc
 
 **User needs**
 
-{% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
 description: "As a provider,
 I need data related to a claim to match the data that we collect,
