@@ -136,7 +136,7 @@ Secondary users:
 - Schools – schools will only be involved if they need to be queried regarding an incorrect claim
 - ESFA – they carry out the payments
 
-**User needs**
+### User needs
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
