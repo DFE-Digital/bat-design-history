@@ -60,7 +60,6 @@ Therefore, we were unable to include them in our research.
 
 ### User need
 
-{% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
   description: "As a mentor,
   I need to know what is required of me before I start a claim,
