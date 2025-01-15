@@ -138,7 +138,6 @@ Secondary users:
 
 ### User needs
 
-{% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
   description: "As a support user,
   I need guidance on how to use the support console for payments, sampling and clawbacks,
