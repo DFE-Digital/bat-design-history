@@ -32,6 +32,7 @@
     margin-bottom: 0;
     vertical-align: middle;
   }
+  padding: govuk-spacing(1);
 }
 
 .app-pagination__item {
@@ -58,8 +59,6 @@
   display: inline-block;
   width: 10px;
   height: 10px;
-  transform: rotate(-45deg);
-  transform: rotate(-45deg);
   transform: rotate(-45deg);
   border-style: solid;
   color: govuk-colour("black");
@@ -95,8 +94,4 @@
   &:focus {
     color: govuk-colour("black");
   }
-}
-
-.app-pagination__results {
-  padding: govuk-spacing(1);
 }
