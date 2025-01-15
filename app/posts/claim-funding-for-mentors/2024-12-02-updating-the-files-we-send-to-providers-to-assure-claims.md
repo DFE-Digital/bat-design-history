@@ -20,15 +20,16 @@ User research with accredited providers highlighted that the information provide
 
 The CSV that we shared with providers contained the following information:
 
--	claim reference
--	school name
--	school unique reference number (URN)
--	claim hours
--	
+- claim reference
+- school name
+- school unique reference number (URN)
+- claim hours
+- 
+
 The CSV included two additional columns so that the providers could assure each claim and add information into each column:
 
--	claim assured (providers to indicate yes/true or no/false)
--	claim not assured reason (providers to indicate a reason if they had marked the claim as not assured)
+- claim assured (providers to indicate yes/true or no/false)
+- claim not assured reason (providers to indicate a reason if they had marked the claim as not assured)
 
 ## Research findings
 
@@ -36,9 +37,9 @@ During round 6 we shared a CSV with the providers for them to review whether the
 
 The users stated that the current amount of information was insufficient and recommended that the following information be shared:
 
--	school post code
--	individual mentor names for each claim
--	individual claim hours for each mentor, not the overall claim amount
+- school post code
+- individual mentor names for each claim
+- individual claim hours for each mentor, not the overall claim amount
   
 Providing this information would enable accredited providers to accurately assure the claims.
 
@@ -46,17 +47,18 @@ Providing this information would enable accredited providers to accurately assur
 
 As a result of the user research, we updated the CSV to include all the following information:
 
--	claim reference
--	school name
--	school unique reference number (URN)
--	school post code
--	individual mentor names for each claim
--	individual claim hours for each mentor, not the overall claim amount
--	
+- claim reference
+- school name
+- school unique reference number (URN)
+- school post code
+- individual mentor names for each claim
+- individual claim hours for each mentor, not the overall claim amount
+- 
+
 For each individual mentor then providers could input information into the two columns:
 
--	claim assured (providers to indicate yes/true or no/false)
--	claim not assured reason (providers to indicate a reason if they had marked the claim as not assured)
+- claim assured (providers to indicate yes/true or no/false)
+- claim not assured reason (providers to indicate a reason if they had marked the claim as not assured)
 
 ## User needs
 
@@ -71,5 +73,5 @@ So that we can easily and correctly check the claims against our records when sa
 
 ## Next steps
 
-In the next round of provider user research we will share the CSV and validate whether the above user 
+In the next round of provider user research we will share the CSV and validate whether the above user
 need had now been met, so they could successfully assure their claims.
