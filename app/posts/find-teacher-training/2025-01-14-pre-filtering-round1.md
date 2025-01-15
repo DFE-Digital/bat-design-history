@@ -1,7 +1,7 @@
 ---
 title: Improving the ability to browse and search for courses - Round 1 user research  
 description: User research testing new designs on Find for the homepage, filters, and location content. 
-date: 2024-09-01
+date: 2025-01-14
 tags:
   - user research
   - homepage 
