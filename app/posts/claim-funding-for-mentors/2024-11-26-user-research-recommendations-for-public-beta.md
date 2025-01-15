@@ -1,17 +1,13 @@
 ---
 title: User research recommendations for public beta
 description: Recommendations for the public beta team as a result of the user research undertaken during private beta
-date: 2024-11-26
+date: 2024-10-01
 tags:
   - research
   - private beta
   - public beta
 related:
   items:
-    - text: Round 9 multi-academy trust (MAT) research findings
-      href: /claim-funding-for-mentors/round-9-multi-academy-trust-research-findings/
-    - text: Round 8 public beta placement school research findings
-      href: /claim-funding-for-mentors/round-8-public-beta-placement-school-research-findings/
     - text: User research with private beta ITT providers
       href: /claim-funding-for-mentors/user-research-with-private-beta-itt-providers/
     - text: Sampling claims in Support
@@ -26,7 +22,7 @@ Users found the service easy to use and any feedback we received was minor and t
 
 However, the following four gaps were identified within private beta that should be researched within public beta to validate/solidify the user needs
 
-## 1/ Research with Multi Academy Trusts (MATs)
+## 1. Research with Multi Academy Trusts (MATs)
 
 There was an emerging theme when talking to MATs where some of the participants, particularly those who were part of a large trust, said they would expect to be able to complete claims centrally, on behalf of all schools within their trust.
 
