@@ -114,7 +114,7 @@ I need schools to be submitting claims accurately,
 So that we do not have too many incorrect claims to contact schools regarding sampling."
 }) }}
 
-**Next steps**
+### Next steps
 
 Conduct research with providers, ensuring the following demographics:
 
