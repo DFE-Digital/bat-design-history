@@ -64,6 +64,8 @@
     "sass": "^1.83.4"
   },
   "devDependencies": {
+    "@stylistic/stylelint-config": "^2.0.0",
+    "@stylistic/stylelint-plugin": "^3.1.1",
     "markdownlint-cli": "^0.43.0",
     "standard": "^17.1.2",
     "stylelint": "^16.13.2",
@@ -75,5 +77,16 @@
     "ignore": [
       "!.eleventy.js"
     ]
+  },
+  "stylelint": {
+    "plugins": [
+      "@stylistic/stylelint-plugin"
+    ],
+    "extends": [
+      "@stylistic/stylelint-config"
+    ],
+    "rules": {
+      "@stylistic/number-leading-zero": null
+    }
   }
 }
