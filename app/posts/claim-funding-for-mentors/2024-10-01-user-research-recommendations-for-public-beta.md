@@ -44,9 +44,9 @@ Recruitment of MATs, ensuring a demographic spread of:
 - Small and large MATs (we suspect this need may differ depending on the size of the MAT)
 - Different role types, particularly those within strategic/administrative roles and therefore likely to make or encourage claims, such as:
 
-      - Head teachers
-      - Lead ITT/ITT Coordinators
-      - Business administrators
+  - Head teachers
+  - Lead ITT/ITT Coordinators
+  - Business administrators
 
 ## 2. Research with general mentors
 
