@@ -54,6 +54,10 @@ rules:
     /transition/:
     - /all/
 
+  # Disallow unknown values for properties within declarations
+  # https://stylelint.io/user-guide/rules/declaration-property-value-no-unknown/
+  declaration-property-value-no-unknown: null
+
   # Disallow unknown functions
   # https://stylelint.io/user-guide/rules/list/function-no-unknown/
   function-no-unknown: null
