@@ -1,13 +1,15 @@
+@use "sass:color";
+
 .app-user-need {
   display: flex;
-  flex-direction: column-reverse;
-  background-color: govuk-colour('light-grey');
-  padding: govuk-spacing(5);
-  margin-bottom: govuk-spacing(6);
   position: relative;
+  margin-bottom: govuk-spacing(6);
+  padding: govuk-spacing(5);
+  background-color: govuk-colour("light-grey");
+  flex-direction: column-reverse;
 
   &:hover {
-    background-color: darken(govuk-colour('light-grey'), 5%);
+    background-color: color.adjust(govuk-colour("light-grey"), $lightness: -5%);
   }
 
   p:last-child {
@@ -20,21 +22,18 @@
   margin: 0;
   margin-top: govuk-spacing(2);
 
-  a::before {
+  a:before {
     content: "";
     display: block;
     position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
     z-index: 1;
+    inset: 0;
   }
 }
 
 .app-user-need__status {
   position: absolute;
+  z-index: 0;
   top: govuk-spacing(2);
   right: govuk-spacing(2);
-  z-index: 0;
 }

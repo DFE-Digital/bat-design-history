@@ -1,6 +1,7 @@
 // GOV.UK Frontend styles
 $govuk-global-styles: true;
-@import "../../../node_modules/govuk-frontend/dist/govuk/all";
+
+@import "../../../node_modules/govuk-frontend/dist/govuk/index";
 
 // Component styles
 @import "../../_components/all";

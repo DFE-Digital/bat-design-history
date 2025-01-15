@@ -1,7 +1,7 @@
 .app-tag-no-content {
-  background: govuk-colour("white");
-  color: govuk-colour("dark-grey");
   outline: 2px solid govuk-colour("dark-grey");
+  color: govuk-colour("dark-grey");
+  background: govuk-colour("white");
 }
 
 .app-tag-not-running {
@@ -17,8 +17,8 @@
 }
 
 .app-grid-column-one-fifth {
-  width: 20%;
-  float: left;
   box-sizing: border-box;
+  width: 20%;
   padding: 0 15px;
+  float: left;
 }

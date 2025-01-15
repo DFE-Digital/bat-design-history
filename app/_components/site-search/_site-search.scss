@@ -1,11 +1,14 @@
+@use "sass:meta";
+@use "sass:string";
+
 // Site search using Accessible autocomplete
 // below styles are based on the default accessible autocomplete stylesheet
 
 @function encode-hex($hex) {
   // Turn colour into a string
-  $output: inspect($hex);
+  $output: meta.inspect($hex);
   // Slice the '#' from the start of the string so we can add it back on encoded.
-  $output: str-slice($output, 2);
+  $output: string.slice($output, 2);
   // Add the '#' back on the start, but as an encoded character for embedding.
   @return "%23" + $output;
 }
@@ -19,10 +22,10 @@ $icon-size: 40px;
   float: left;
 
   @include govuk-media-query($from: 900px) {
-    float: right;
+    width: 300px;
     margin: 0;
     margin-top: -5px; // Negative margin to vertically align search in header
-    width: 300px;
+    float: right;
   }
 
   .no-js & {
@@ -57,7 +60,7 @@ $icon-size: 40px;
   border: 2px solid govuk-colour("white");
   border-radius: 0; // Safari 10 on iOS adds implicit border rounding.
   background: transparent;
-  -webkit-appearance: none;
+  appearance: none;
 }
 
 .app-site-search__hint {
@@ -113,7 +116,7 @@ $icon-size: 40px;
   z-index: 100;
   top: 100%;
   left: 0;
-  box-shadow: rgba(govuk-colour("black"), .256863) 0 2px 6px;
+  box-shadow: rgba(govuk-colour("black"), .2569) 0 2px 6px;
 }
 
 .app-site-search__menu--inline {
@@ -198,11 +201,11 @@ $icon-size: 40px;
 .app-site-search__aliases {
   margin-left: govuk-spacing(1);
 
-  &::before {
+  &:before {
     content: "(";
   }
 
-  &::after {
+  &:after {
     content: ")";
   }
 }

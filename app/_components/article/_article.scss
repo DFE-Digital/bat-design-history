@@ -6,6 +6,6 @@
 
 .app-article__metadata {
   @include govuk-font($size: 16, $line-height: 1.5);
-  color: $govuk-secondary-text-colour;
   margin-top: govuk-spacing(4);
+  color: $govuk-secondary-text-colour;
 }
