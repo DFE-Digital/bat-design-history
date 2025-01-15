@@ -1,0 +1,361 @@
+---
+extends: 
+  - stylelint-config-standard
+  - stylelint-config-recommended-scss
+plugins:
+  - stylelint-order
+rules:
+  # Disallow @debug
+  # https://stylelint.io/user-guide/rules/at-rule-disallowed-list
+  at-rule-disallowed-list:
+  - debug
+  
+  # This rule is disabled because our house style has a lot of at-rules
+  # via SCSS where new lines are used indiscriminately for readability.
+  # https://stylelint.io/user-guide/rules/at-rule-empty-line-before
+  at-rule-empty-line-before: null
+  
+  # This is disabled for SCSS as it prevents SCSS specific @ rules (such as @if)
+  # https://stylelint.io/user-guide/rules/at-rule-no-unknown
+  at-rule-no-unknown: null
+  
+  # Always require a newline after a closing brace of a rule
+  # https://stylelint.io/user-guide/rules/block-closing-brace-newline-after
+  block-closing-brace-newline-after:
+  - always
+    # Exceptions for conditionals, particularly useful for SCSS.
+  - ignoreAtRules: 
+    - if
+    - else
+
+  # Disallow using CSS named colours
+  # https://stylelint.io/user-guide/rules/color-named
+  color-named: never
+  
+  # Require 6 character hex definitions when 3 would work
+  # https://stylelint.io/user-guide/rules/color-hex-length
+  color-hex-length: long
+  
+  # Require all rules to be multiline
+  # https://stylelint.io/user-guide/rules/declaration-block-single-line-max-declarations
+  declaration-block-single-line-max-declarations: 0
+  
+  # Its common for us to break up groups of CSS with an empty line
+  # https://stylelint.io/user-guide/rules/declaration-empty-line-before
+  declaration-empty-line-before: null
+  
+  # Disallow !important within declarations
+  # https://stylelint.io/user-guide/rules/declaration-no-important
+  # declaration-no-important: true
+  
+  # Properties and values that are disallowed
+  # https://stylelint.io/user-guide/rules/declaration-property-value-disallowed-list
+  declaration-property-value-disallowed-list: 
+    /transition/:
+    - /all/
+  
+  # Disallow unknown functions
+  # https://stylelint.io/user-guide/rules/list/function-no-unknown/
+  function-no-unknown: null
+  
+  # Disallow scheme relative URLs such as //www.simonwhatley.co.uk
+  # https://stylelint.io/user-guide/rules/function-url-no-scheme-relative
+  function-url-no-scheme-relative: true
+  
+  # Always require quotes in url function calls
+  # https://stylelint.io/user-guide/rules/function-url-quotes
+  function-url-quotes: always
+  
+  # Disallow absolute URLs with scheme other than data, assets should be local
+  # https://stylelint.io/user-guide/rules/function-url-scheme-allowed-list
+  function-url-scheme-allowed-list:
+  - data
+  
+  # Disallow deep nesting, ideally only exceptions (such as .js-enabled) should
+  # have nesting
+  # https://stylelint.io/user-guide/rules/max-nesting-depth
+  max-nesting-depth:
+  - 2
+  - ignore: 
+    - blockless-at-rules
+    - pseudo-classes
+  
+  # This rules attempts to prevent defining defining rules with a more
+  # specific selector than a previous one, where they may override. This
+  # is disables as it conflicts with our common usage of nesting rules
+  # within a BEM modifier where a selector may be more or less specific
+  # than a previous rule.
+  # https://stylelint.io/user-guide/rules/no-descending-specificity
+  no-descending-specificity: null
+  
+  # Disallow prefixing decimals with a 0
+  # https://stylelint.io/user-guide/rules/number-leading-zero
+  number-leading-zero: never
+  
+  # Require all class selectors to be in a hyphenated BEM format
+  # https://stylelint.io/user-guide/rules/selector-class-pattern
+  selector-class-pattern:
+  # a loose interpretation on hyphenathed BEM in order to allow BEM
+  # style and govuk-! overrides
+  - ^[a-z]([a-z0-9-_!])*$
+  - resolveNestedSelectors: true
+    message: >-
+      Class names may only contain [a-z0-9-_!] characters and must start with [a-z]
+  
+  # Require any allowed id selectors to be in a hyphenated lowercase form
+  # https://stylelint.io/user-guide/rules/selector-id-pattern
+  selector-id-pattern:
+  - ^[a-z]([a-z0-9-])*$
+  - resolveNestedSelectors: true
+    message: >-
+      Ids may only contain [a-z0-9-] characters and must start with [a-z]
+  
+  # Disallow all ids in selectors
+  # https://stylelint.io/user-guide/rules/selector-max-id
+  selector-max-id: 0
+  
+  # Disallows qualifying a selector based on the element
+  # https://stylelint.io/user-guide/rules/selector-no-qualifying-type
+  selector-no-qualifying-type:
+  - true
+    # allowed for input[type=button] and similar
+  - ignore: 
+    - attribute
+  
+  # Require single colons for defining pseudo-elements
+  # IE8 and below do not support the modern double colon approach. Although
+  # few projects support IE8, wed prefer to not exclude compatibility for
+  # purely syntactic reasons.
+  # https://stylelint.io/user-guide/rules/selector-pseudo-element-colon-notation
+  selector-pseudo-element-colon-notation: single
+  
+  # Disallow redundant properties in rules (for example: margin: 1px 1px 1px;)
+  # https://stylelint.io/user-guide/rules/shorthand-property-no-redundant-values
+  shorthand-property-no-redundant-values: true
+  
+  # Require a new line after a @else { } statement
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-else-closing-brace-newline-after
+  scss/at-else-closing-brace-newline-after: always-last-in-chain
+  
+  # Require a space after an @else {} before the next @else rule
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-else-closing-brace-space-after
+  scss/at-else-closing-brace-space-after: always-intermediate
+  
+  # Disallow empty lines before an @else statement
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-else-empty-line-before
+  scss/at-else-empty-line-before: never
+  
+  # Only allow @extend with a placeholder
+  # https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-extend-no-missing-placeholder
+  scss/at-extend-no-missing-placeholder: true
+  
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-function-pattern
+  scss/at-function-pattern:
+  - ^_?([a-z0-9-])*$
+  - message: >-
+      Function names may only contain [a-z0-9-] characters and may start with an underscore
+  
+  # Require a new line character at the termination of a group of @if / @else
+  # definitions
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-if-closing-brace-newline-after
+  scss/at-if-closing-brace-newline-after: always-last-in-chain
+  
+  # Require a space between an @if {} ending and an @else beginning
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-if-closing-brace-space-after
+  scss/at-if-closing-brace-space-after: always-intermediate
+  
+  # Disallow importing partials with a underscore prefix
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-import-no-partial-leading-underscore
+  scss/at-import-no-partial-leading-underscore: true
+  
+  # Disallow importing partials with a underscore prefix
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-import-partial-extension
+  scss/at-import-partial-extension: never
+  
+  # Disallow parenthesis when including a mixin with no parameters
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-mixin-argumentless-call-parentheses
+  scss/at-mixin-argumentless-call-parentheses: never
+  
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-mixin-pattern
+  scss/at-mixin-pattern:
+  - ^_?([a-z0-9-])*$
+  - message: >-
+      Mixin names may only contain [a-z0-9-] characters and may start with an underscore
+  
+  # This lints that only @ rules known to SCSS are allowed
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/at-rule-no-unknown
+  scss/at-rule-no-unknown: true
+  
+  # Disable CSS style comments in SCSS
+  # https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/comment-no-loud
+  scss/comment-no-loud: true
+  
+  # https://github.com/kristerkari/stylelint-scss/tree/master/src/rules/dollar-variable-pattern
+  scss/dollar-variable-pattern:
+  - ^_?([a-z0-9-])*$
+  - message: >-
+      Variable names may only contain [a-z0-9-] characters and may start with an underscore
+  
+  # Require spaces around operators
+  # https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/operator-no-unspaced
+  scss/operator-no-unspaced: true
+  
+  # https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/percent-placeholder-pattern
+  scss/percent-placeholder-pattern:
+  - ^[a-z0-9-_]*$
+  - message: >-
+      Placeholders may only contain [a-z0-9-_] characters
+
+  # https://github.com/hudochenkov/stylelint-order/blob/master/rules/properties-order/README.md
+  order/properties-order:
+  - content
+  - quotes
+  # Box-sizing - Allow here until global is decided
+  - box-sizing
+
+  - display
+  - visibility
+
+  - position
+  - z-index
+  - top
+  - right
+  - bottom
+  - left
+
+  - width
+  - min-width
+  - max-width
+  - height
+  - min-height
+  - max-height
+
+  - margin
+  - margin-top
+  - margin-right
+  - margin-bottom
+  - margin-left
+
+  - padding
+  - padding-top
+  - padding-right
+  - padding-bottom
+  - padding-left
+
+  - float
+  - clear
+
+  - overflow
+  - overflow-x
+  - overflow-y
+
+  - clip
+  - clip-path
+  - zoom
+  - resize
+
+  - columns
+
+  - table-layout
+  - empty-cells
+  - caption-side
+  - border-spacing
+  - border-collapse
+
+  - list-style
+  - list-style-position
+  - list-style-type
+  - list-style-image
+
+  - transform
+  - transition
+  - animation
+
+  - border
+  - border-top
+  - border-right
+  - border-bottom
+  - border-left
+
+  - border-width
+  - border-top-width
+  - border-right-width
+  - border-bottom-width
+  - border-left-width
+
+  - border-style
+  - border-top-style
+  - border-right-style
+  - border-bottom-style
+  - border-left-style
+
+  - border-radius
+  - border-top-left-radius
+  - border-top-right-radius
+  - border-bottom-left-radius
+  - border-bottom-right-radius
+
+  - border-color
+  - border-top-color
+  - border-right-color
+  - border-bottom-color
+  - border-left-color
+
+  - outline
+  - outline-color
+  - outline-offset
+  - outline-style
+  - outline-width
+
+  - opacity
+  # Color has been moved to ensure it appears before background
+  - color
+  - background
+  - background-color
+  - background-image
+  - background-repeat
+  - background-position
+  - background-size
+  - box-shadow
+  - fill
+
+  - font
+  - font-family
+  - font-size
+  - font-style
+  - font-variant
+  - font-weight
+
+  - font-emphasize
+
+  - letter-spacing
+  - line-height
+  - list-style
+  - word-spacing
+
+  - text-align
+  - text-align-last
+  - text-decoration
+  - text-indent
+  - text-justify
+  - text-overflow
+  - text-overflow-ellipsis
+  - text-overflow-mode
+  - text-rendering
+  - text-outline
+  - text-shadow
+  - text-transform
+  - text-wrap
+  - word-wrap
+  - word-break
+
+  - text-emphasis
+
+  - vertical-align
+  - white-space
+  - word-spacing
+  - hyphens
+
+  - src
+  - cursor
+  - -webkit-appearance
