@@ -35,7 +35,7 @@
     "lint:markdown": "markdownlint 'app/**/*.md' --disable MD013 MD024 MD028 MD033 MD041",
     "lint:markdown:fix": "markdownlint 'app/**/*.md' --disable MD013 MD024 MD028 MD033 MD041 --fix",
     "lint:styles": "stylelint 'app/assets/styles/**/*.scss' 'app/_components/**/*.scss'",
-    "lint:styles:fix": "stylelint 'app/_components/**/*.scss' --fix",
+    "lint:styles:fix": "stylelint 'app/assets/styles/**/*.scss' 'app/_components/**/*.scss' --fix",
     "lint": "npm-run-all lint:javascripts lint:markdown",
     "lint:fix": "npm-run-all lint:javascripts:fix lint:markdown:fix"
   },
