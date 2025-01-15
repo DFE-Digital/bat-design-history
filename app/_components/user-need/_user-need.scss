@@ -3,13 +3,13 @@
 .app-user-need {
   display: flex;
   flex-direction: column-reverse;
-  background-color: govuk-colour('light-grey');
+  background-color: govuk-colour("light-grey");
   padding: govuk-spacing(5);
   margin-bottom: govuk-spacing(6);
   position: relative;
 
   &:hover {
-    background-color: color.adjust(govuk-colour('light-grey'), $lightness: -5%);
+    background-color: color.adjust(govuk-colour("light-grey"), $lightness: -5%);
   }
 
   p:last-child {
