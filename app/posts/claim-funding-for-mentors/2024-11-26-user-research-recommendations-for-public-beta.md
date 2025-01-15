@@ -20,15 +20,15 @@ related:
 
 ## Introduction
 
-Overall, user research during private beta was a success. 
+Overall, user research during private beta was a success.
 
-Users found the service easy to use and any feedback we received was minor and therefore not seen as a major pain point or blocker to using the service. 
+Users found the service easy to use and any feedback we received was minor and therefore not seen as a major pain point or blocker to using the service.
 
 However, the following four gaps were identified within private beta that should be researched within public beta to validate/solidify the user needs
 
 ## 1/ Research with Multi Academy Trusts (MATs)
 
-There was an emerging theme when talking to MATs where some of the participants, particularly those who were part of a large trust, said they would expect to be able to complete claims centrally, on behalf of all schools within their trust. 
+There was an emerging theme when talking to MATs where some of the participants, particularly those who were part of a large trust, said they would expect to be able to complete claims centrally, on behalf of all schools within their trust.
 
 Those who said this told us that administrative tasks such as finance, HR etc. is currently dealt with centrally and therefore, would make sense for claims to be dealt with centrally too.
 
@@ -43,18 +43,18 @@ Those who said this told us that administrative tasks such as finance, HR etc. i
 
 **Next steps**
 
-Recruitment of MATs, ensuring a demographic spread of: 
+Recruitment of MATs, ensuring a demographic spread of:
 
--	Small and large MATs (we suspect this need may differ depending on the size of the MAT)
--	Different role types, particularly those within strategic/administrative roles and therefore likely to make or encourage claims, such as:
+- Small and large MATs (we suspect this need may differ depending on the size of the MAT)
+- Different role types, particularly those within strategic/administrative roles and therefore likely to make or encourage claims, such as:
 
--	Head teachers
--	Lead ITT/ITT Coordinators
--	Business administrators
+- Head teachers
+- Lead ITT/ITT Coordinators
+- Business administrators
 
 ## 2. Research with general mentors
 
-We were told during both qualitative and quantitative research that those in strategic/administrative roles are those that will submit claims on the school's behalf. However, when we went live with private beta, we found that general mentors were also submitting claims. 
+We were told during both qualitative and quantitative research that those in strategic/administrative roles are those that will submit claims on the school's behalf. However, when we went live with private beta, we found that general mentors were also submitting claims.
 
 Whilst we tried to recruit general mentors and include them within our research for private beta, we didn’t get any sign ups. Therefore, we were unable to include them in our research.
 
@@ -69,7 +69,7 @@ Whilst we tried to recruit general mentors and include them within our research 
 
 **Next steps**
 
-Conduct a small round of research with general mentors to validate that the service is meeting their needs. One round of research will likely be sufficient as the findings didn’t differ across user types during our research. Therefore, we assume there will unlikely be any new findings or pain points. 
+Conduct a small round of research with general mentors to validate that the service is meeting their needs. One round of research will likely be sufficient as the findings didn’t differ across user types during our research. Therefore, we assume there will unlikely be any new findings or pain points.
 
 ## 3. Research with providers
 
@@ -111,7 +111,8 @@ So that we do not have too many incorrect claims to contact schools regarding sa
 **Next steps**
 
 Conduct research with providers, ensuring the following demographics:
-- Different sized providers 
+
+- Different sized providers
 - Time established/time they have been an accredited provider
 - Ensure a geographical spread
 
@@ -126,8 +127,8 @@ Primary users:
 
 Secondary users:
 
--	Schools – schools will only be involved if they need to be queried regarding an incorrect claim
--	ESFA – they carry out the payments
+- Schools – schools will only be involved if they need to be queried regarding an incorrect claim
+- ESFA – they carry out the payments
 
 **User needs**
 
@@ -143,23 +144,23 @@ Secondary users:
   I need to know how to action claims,
   So that I am able to complete tasks payments, sampling and clawbacks tasks relating to claims."
 }) }}
-	
-	{{ appUserNeed({
-	description: "As a provider,
-	I need the process for sampling to be quick and easy,
-	So that it does not create too much of an administrative burden for us."
-	}) }}
-	
-	{{ appUserNeed({
-	description: "As a provider,
-	I need enough time to be able to complete sampling,
-	So that we have enough time to check the claims against our records and liaise with schools regarding incorrect claims."
-	}) }}
+ 
+ {{ appUserNeed({
+ description: "As a provider,
+ I need the process for sampling to be quick and easy,
+ So that it does not create too much of an administrative burden for us."
+ }) }}
+ 
+ {{ appUserNeed({
+ description: "As a provider,
+ I need enough time to be able to complete sampling,
+ So that we have enough time to check the claims against our records and liaise with schools regarding incorrect claims."
+ }) }}
 
 **Next steps**
 
 During the public beta there needs to be necessary resarch undertaken to validate that:
 
--	The support team are easily able to sample claims and submit them to the ESFA for payment
--	The ‘approval’ process for sampling works for providers
--	We are providing sufficient data regarding claims to enable providers to check whether claims are correct or not.
+- The support team are easily able to sample claims and submit them to the ESFA for payment
+- The ‘approval’ process for sampling works for providers
+- We are providing sufficient data regarding claims to enable providers to check whether claims are correct or not.
