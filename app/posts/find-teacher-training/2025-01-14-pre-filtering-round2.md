@@ -48,7 +48,7 @@ The advanced filters were not used by participants for various reasons were ment
 
 ### Homepage recommendations
 
-*  We recommend that the new homepage designs are implemented, with the search box labelled as ‘subject’.
+* We recommend that the new homepage designs are implemented, with the search box labelled as ‘subject’.
 * Given that the advanced filters were not used by participants, and that they are not needed to implement the new homepage, we recommend that further testing is conducted to decide whether they should be included.
 
 ## Primary specialisms
@@ -114,7 +114,7 @@ Participants were not satisfied when the location was marked as 'not listed yet'
 In the test round, we trialled testing the course page without the ‘about this course’ section. This is due to findings from previous research that the section is not useful to candidates and can often be burdensome due to the unstructured nature. However, we found that candidates felt that there was some information missing on the page, which would be useful to have when deciding. The two main areas include: .
 
 * Information about what the course would be like, how it is delivered, the modules, and the assessments.
-*  Details about the providers performance, particularly OFSTED ratings.
+* Details about the providers performance, particularly OFSTED ratings.
 
 ### Course page recommendations
 
@@ -128,6 +128,7 @@ In the test round, we trialled testing the course page without the ‘about this
 
 The design changes we are confident in will be going live in early 2025.
 We will also be conducting testing on the following:
+
 * Advanced filters,
 * Start date filter,
 * Locations marked as ‘not listed yet’,
