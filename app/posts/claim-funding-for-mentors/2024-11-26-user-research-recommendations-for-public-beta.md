@@ -82,7 +82,7 @@ From our research, we found that the needs of providers will differ depending on
 
 We need to understand how informed providers need to be regarding claims that schools are making, and understand if the sampling process works for them.
 
-**User needs**
+### User needs
 
 {{ appUserNeed({
 description: "As a provider,
