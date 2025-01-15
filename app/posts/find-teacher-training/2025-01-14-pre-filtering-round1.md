@@ -22,7 +22,7 @@ We spoke to 9 prospective ITT candidates (4 international, and 5 domestic).
 
 # Methodology
 
-We performed usability testing to understand how participants search for courses relevant to them. In the first half of the session, they were asked to search for courses which were relevant to them and show us how they might narrow down their choices. In the second half of the session, we asked follow-up questions to further understand their thoughts and behaviours. We iterated the designs between interviews based on initial findings.  
+We performed usability testing to understand how participants search for courses relevant to them. In the first half of the session, they were asked to search for courses which were relevant to them and show us how they might narrow down their choices. In the second half of the session, we asked follow-up questions to further understand their thoughts and behaviours. We iterated the designs between interviews based on initial findings.
 
 # Limitations
 
@@ -34,7 +34,7 @@ We performed usability testing to understand how participants search for courses
 
 ## Homepage
 
-![screenshot of homepage deisgn](find-teacher-training/prefiltering-ur-round1/find-homepage-prefiltering-ur-r1.png)
+![screenshot of homepage deisgn](find-homepage-prefiltering-ur-r1.png)
 
 #### Search box
 
@@ -57,8 +57,8 @@ Given that the homepage concept tested well for both domestic and international 
 When ‘Browse course by subject’ was selected, candidates were shown a refined version of the subjects’ page, where the subjects had been grouped, rather than listed alphabetically. Candidates preferred the subjects being grouped and could easily find the subject they were looking for. They understood terms such as STEM and humanities​ used in the group headings.
 
 The subjects had also been grouped so that those with bursaries were shown at the top. When looking at this page, candidates did not notice which course had bursaries. The designs were iterated to revert the style of the bursary content.  
-![screenshot of subjects page version 1](find-teacher-training/prefiltering-ur-round1/find-subject-page-v1-ur-r1.jpg)
-![screenshot of subjects page version 2](find-teacher-training/prefiltering-ur-round1/find-subject-page-v2-ur-r1.jpg)
+![screenshot of subjects page version 1](find-subject-page-v1-ur-r1.jpg)
+![screenshot of subjects page version 2](find-subject-page-v2-ur-r1.jpg)
 
 ### Subjects Page Recommendations
 
@@ -70,7 +70,7 @@ We recommend using the version of the course page which has the subjects grouped
 
 The option to change their search on the results page was useful as it helped them to narrow down and expand the number of results. Participants used the radius to narrow down their search results to a manageable list ​
 
-![screenshot of change search on results page](find-teacher-training/prefiltering-ur-round1/find-change-results-prefiltering-ur-r1.png)
+![screenshot of change search on results page](find-change-results-prefiltering-ur-r1.png)
 
 #### Sort-by
 
@@ -116,13 +116,13 @@ We initially tested the page without a contents section and found participants w
 
  Participants understood what was meant on the results page by ‘placement schools’, ‘study sites’, ‘nearest potential location’ and ‘not listed yet’. For some, a location was marked as ‘not listed yet’ it might sway them away from choosing that course.
 
-![screenshot of location on reults page ](find-teacher-training/prefiltering-ur-round1/find-results-page-locations-prefiltering-ur-r1.png.jpg)
+![screenshot of location on reults page ](find-results-page-locations-prefiltering-ur-r1.png.jpg)
 
 #### ‘Where you will train’ Section
 
 When reading the course page content, participants felt like they had no control over their placement. However, once they read the ‘How placements work’ box, they were reassured.
 
-![screenshot of 'where you will train' section ](find-teacher-training/prefiltering-ur-round1/find-locations-prefiltering-ur-r1.png)
+![screenshot of 'where you will train' section ](find-locations-prefiltering-ur-r1.png)
 
 #### Salaried courses
 
