@@ -44,8 +44,8 @@
 
   > blockquote {
     @extend .govuk-inset-text;
-    margin-left: 0;
     margin-right: 0;
+    margin-left: 0;
   }
 
   figure {
@@ -226,12 +226,12 @@
   }
 
   .header-anchor {
+    visibility: hidden;
+    margin-left: govuk-spacing(1);
     color: govuk-colour("mid-grey");
     font-style: italic;
     font-weight: normal;
-    margin-left: govuk-spacing(1);
     text-decoration: none;
-    visibility: hidden;
 
     &:hover {
       color: $govuk-link-hover-colour;

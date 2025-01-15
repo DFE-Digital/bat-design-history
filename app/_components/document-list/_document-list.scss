@@ -1,17 +1,17 @@
 .app-document-list {
-  list-style: none;
   padding: 0;
+  list-style: none;
 }
 
 .app-document-list__item {
-  border-bottom: 1px solid $govuk-border-colour;
   margin-bottom: govuk-spacing(4);
   padding-bottom: govuk-spacing(4);
+  border-bottom: 1px solid $govuk-border-colour;
 
   &:last-child {
-    border-bottom: 0;
     margin-bottom: 0;
     padding-bottom: 0;
+    border-bottom: 0;
   }
 }
 
@@ -21,8 +21,8 @@
 }
 
 .app-document-list__item-metadata {
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 .app-document-list__item-description {
@@ -32,8 +32,8 @@
 
 .app-document-list__attribute {
   @include govuk-font($size: 16);
-  color: $govuk-secondary-text-colour;
   display: inline-block;
   margin: 0;
   padding-right: govuk-spacing(4);
+  color: $govuk-secondary-text-colour;
 }

@@ -1,13 +1,13 @@
 $token-comment: rgba(govuk-colour("dark-grey"), 0.75);
 $token-operator: govuk-colour("dark-grey");
-$token-function: #900;
-$token-keyword: #09c;
-$token-selector: #009;
-$token-string: #c06;
-$token-variable: #399;
+$token-function: #990000;
+$token-keyword: #0099cc;
+$token-selector: #000099;
+$token-string: #cc0066;
+$token-variable: #339999;
 
 .token.namespace {
-  opacity: 0.7;
+  opacity: .7;
 }
 
 .token.cdata,

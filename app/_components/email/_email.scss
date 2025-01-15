@@ -1,9 +1,9 @@
 .app-prose .app-email {
   @include govuk-font($size: false);
-  border: $govuk-border-width solid $govuk-border-colour;
-  padding: govuk-spacing(4);
-  margin-bottom: govuk-spacing(8);
   max-width: 40rem;
+  margin-bottom: govuk-spacing(8);
+  padding: govuk-spacing(4);
+  border: $govuk-border-width solid $govuk-border-colour;
 
   h1, h2, h3, h4 {
     @include govuk-font($size: 27, $weight: bold);
@@ -29,18 +29,18 @@
   }
 
   blockquote {
-    border-left: 10px solid govuk-colour('mid-grey');
+    margin: 0 0 govuk-spacing(4);
     padding: govuk-spacing(2);
-    margin: 0 0 govuk-spacing(4) 0;
+    border-left: 10px solid govuk-colour('mid-grey');
   }
 
   .placeholder,
   .placeholder-conditional {
-    background: govuk-colour("yellow");
-    color: $govuk-text-colour;
     display: inline;
-    overflow-wrap: break-word;
+    color: $govuk-text-colour;
+    background: govuk-colour("yellow");
     word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   .placeholder {
@@ -63,9 +63,9 @@
 
   // Used when showing screenshots of HTML email
   img:first-of-type {
-    margin: - govuk-spacing(4);
     width: calc(100% + #{govuk-spacing(4) + govuk-spacing(4)});
     max-width: none;
+    margin: - govuk-spacing(4);
     outline: 0;
   }
 
@@ -76,9 +76,9 @@
 
 .app-email__headers {
   @include govuk-font($size: 19);
-  padding-bottom: govuk-spacing(4);
   margin-top: 0;
   margin-bottom: govuk-spacing(4);
+  padding-bottom: govuk-spacing(4);
   border-bottom: 1px solid $govuk-border-colour;
 
   &__row {
@@ -86,9 +86,9 @@
   }
 
   &__key {
+    margin-right: govuk-spacing(4);
     color: $govuk-secondary-text-colour;
     font-weight: normal;
-    margin-right: govuk-spacing(4);
   }
 
   &__value {
