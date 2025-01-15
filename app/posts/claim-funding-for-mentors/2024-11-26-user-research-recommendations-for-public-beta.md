@@ -162,7 +162,7 @@ Secondary users:
  So that we have enough time to check the claims against our records and liaise with schools regarding incorrect claims."
  }) }}
 
-**Next steps**
+### Next steps
 
 During the public beta there needs to be necessary resarch undertaken to validate that:
 
