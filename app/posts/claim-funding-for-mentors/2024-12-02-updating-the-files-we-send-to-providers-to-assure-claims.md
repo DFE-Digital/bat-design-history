@@ -55,7 +55,7 @@ As a result of the user research, we updated the CSV to include all the followin
 
 We removed:
 
-- the total claims hours
+- the total claim hours
 
 For each individual mentor, rather than total claim, providers could input information into the two columns:
 
