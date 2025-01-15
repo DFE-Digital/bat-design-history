@@ -34,6 +34,8 @@
     "lint:javascripts:fix": "standard --fix",
     "lint:markdown": "markdownlint 'app/**/*.md' --disable MD013 MD024 MD028 MD033 MD041",
     "lint:markdown:fix": "markdownlint 'app/**/*.md' --disable MD013 MD024 MD028 MD033 MD041 --fix",
+    "lint:styles": "stylelint 'app/assets/styles/**/*.scss' 'app/_components/**/*.scss'",
+    "lint:styles:fix": "stylelint 'app/assets/styles/**/*.scss' 'app/_components/**/*.scss' --fix",
     "lint": "npm-run-all lint:javascripts lint:markdown",
     "lint:fix": "npm-run-all lint:javascripts:fix lint:markdown:fix"
   },
@@ -63,7 +65,11 @@
   },
   "devDependencies": {
     "markdownlint-cli": "^0.43.0",
-    "standard": "^17.1.2"
+    "standard": "^17.1.2",
+    "stylelint": "^16.13.2",
+    "stylelint-config-recommended-scss": "^14.1.0",
+    "stylelint-config-standard": "^37.0.0",
+    "stylelint-order": "^6.0.4"
   },
   "standard": {
     "ignore": [
