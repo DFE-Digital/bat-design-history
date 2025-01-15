@@ -8,13 +8,13 @@ tags:
   - sampling
 related:
   items:
-  - text: round 6 accredited provider research findings
-    href: claim-funding-for-mentors/round-6-accredited-provider-research-findings/
+  - text: Round 6 accredited provider research findings
+    href: /claim-funding-for-mentors/round-6-accredited-provider-research-findings/
 ---
 
 ## Introduction
 
-User research with accredited providers highlighted that the information provided in the first iteration of the comma separated value (CSV) file was insufficient for them to assure their claims.
+[Round 6 accredited provider research](claim-funding-for-mentors/round-6-accredited-provider-research-findings/) highlighted that the information provided in the first iteration of the comma separated value (CSV) file was insufficient for them to assure their claims.
 
 ## CSV contents
 
