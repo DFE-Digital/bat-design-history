@@ -24,7 +24,6 @@ The CSV that we shared with providers contained the following information:
 - school name
 - school unique reference number (URN)
 - claim hours
-- 
 
 The CSV included two additional columns so that the providers could assure each claim and add information into each column:
 
@@ -53,9 +52,11 @@ As a result of the user research, we updated the CSV to include all the followin
 - school post code
 - individual mentor names for each claim
 - individual claim hours for each mentor, not the overall claim amount
-- 
 
-For each individual mentor then providers could input information into the two columns:
+We removed:
+- the total claims hours
+
+For each individual mentor, rather than total claim, providers could input information into the two columns:
 
 - claim assured (providers to indicate yes/true or no/false)
 - claim not assured reason (providers to indicate a reason if they had marked the claim as not assured)
@@ -73,5 +74,4 @@ So that we can easily and correctly check the claims against our records when sa
 
 ## Next steps
 
-In the next round of provider user research we will share the CSV and validate whether the above user
-need had now been met, so they could successfully assure their claims.
+In the next round of provider user research we will share the CSV and validate whether the above user need had now been met, so they could successfully assure their claims.
