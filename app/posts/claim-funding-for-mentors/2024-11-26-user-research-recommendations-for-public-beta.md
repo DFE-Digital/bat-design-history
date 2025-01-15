@@ -37,7 +37,7 @@ Those who said this told us that administrative tasks such as finance, HR etc. i
  So that I am able to reduce the burden on schools having to submit claims individually."
 }) }}
 
-**Next steps**
+### Next steps
 
 Recruitment of MATs, ensuring a demographic spread of:
 
