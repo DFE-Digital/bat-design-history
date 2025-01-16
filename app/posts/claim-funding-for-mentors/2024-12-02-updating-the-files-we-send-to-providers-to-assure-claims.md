@@ -1,6 +1,6 @@
 ---
 title: Updating the files we send to providers to assure claims
-description: Details of how we iterated the comma separated value (CSV) file for providers to match their needs
+description: Details of how we iterated the CSV (comma separated value) file for providers to match their needs
 date: 2024-12-02
 tags:
   - research
