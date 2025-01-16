@@ -32,7 +32,7 @@ The CSV included two additional columns so that the providers could assure each 
 
 ## Research findings
 
-During round 6 we shared a CSV with the providers for them to review whether the information matched their needs so that they could accurately assure the claims.
+During round 6, we shared a CSV with the providers so that they could review whether the information matched their needs so that they could accurately assure the claims.
 
 The users stated that the current amount of information was insufficient and recommended that the following information be shared:
 
