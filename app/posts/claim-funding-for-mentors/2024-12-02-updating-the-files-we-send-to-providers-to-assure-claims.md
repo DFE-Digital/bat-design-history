@@ -49,7 +49,7 @@ As a result of the user research, we updated the CSV to include all the followin
 - claim reference
 - school name
 - school unique reference number (URN)
-- school post code
+- school postcode
 - individual mentor names for each claim
 - individual claim hours for each mentor, not the overall claim amount
 
