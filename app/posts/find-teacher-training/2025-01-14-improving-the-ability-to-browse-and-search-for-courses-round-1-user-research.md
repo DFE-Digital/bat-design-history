@@ -26,7 +26,7 @@ related:
     href: /find-teacher-training/update-financial-support-section/
 ---
 
-# Goals of the research
+## Goals of the research
 
 The research aimed to test the user journey on Find using the new designs for the homepage, filters, and course page.
 
@@ -34,11 +34,11 @@ The designs aimed to help candidates navigate to a relevant and manageable list 
 
 The research also aimed to test the location content on Find which aimed tomake candidates feel more informed when choosing a course.
 
-# Who we spoke to
+## Who we spoke to
 
 We spoke to 9 prospective initial teacher training (ITT) candidates (4 international, and 5 domestic).
 
-# Methodology
+## Methodology
 
 We performed usability testing to understand how participants search for courses relevant to them.
 
@@ -48,45 +48,45 @@ In the second half of the session, we asked follow-up questions to further under
 
 We iterated the designs between interviews based on initial findings.
 
-# Limitations
+## Limitations
 
-## Technical limitations
+### Technical limitations
 
 The testing used a prototype in which some features were not functionable and occasionally required the researcher to guide the participant.
 
-## Limited scope
+### Limited scope
 
 The sessions focused primarily on the Find homepage and filters so did not provide a comprehensive view of the entire user journey.  
 
-# Key insights
+## Key insights
 
-## Homepage
+### Homepage
 
 ![screenshot of homepage deisgn](find-homepage-prefiltering-ur-r1.png)
 
-### Search box
+#### Search box
 
 Participants understood to include ‘subjects’ in the ‘Keyword’ field.
 
 They also thought they could include other words such as university name, qualification type and age range.
 
-### Visa sponsorship
+#### Visa sponsorship
 
 International candidates noticed, and used, the visa sponsorship check box.
 
-### Browse all courses
+#### Browse all courses
 
 International candidates preferred browsing by subject so that they can see what options are available.
 
 In contrast the domestic candidates preferred using the search box as they tended to already know what course they were looking for.  
 
-### Homepage recommendations
+#### Homepage recommendations
 
 Given that the homepage concept tested well for both domestic and international participants, we recommend that we continue to iterate and test homepage designs.
 
 We recommend that we explore adding advanced filters, and hint text to the ‘keywords’ field.
 
-## Subjects page
+### Subjects page
 
 When ‘Browse course by subject’ was selected, candidates were shown a refined version of the subjects’ page, where the subjects had been grouped, rather than listed alphabetically.
 
@@ -103,9 +103,9 @@ The designs were iterated to revert the style of the bursary content.
 
 We recommend using the version of the course page which has the subjects grouped, with the individual bursary information written under each option.
 
-## Results page
+### Results page
 
-### Change results
+#### Change results
 
 The option to change their search on the results page was useful as it helped them to narrow down and expand the number of results.
 
@@ -113,7 +113,7 @@ Participants used the radius to narrow down their search results to a manageable
 
 ![screenshot of change search on results page](find-change-results-prefiltering-ur-r1.png)
 
-### Sort-by
+#### Sort-by
 
 When using the ‘sort-by’ options, participants reported that ‘distance’ was useful whilst ‘newest’ wasn’t relevant.
 
@@ -121,7 +121,7 @@ When using the ‘sort-by’ options, participants reported that ‘distance’ 
 
 Other suggestions for ‘sort-by’ options included: fees, provider popularity or ranking, course length and start date.  
 
-### Filters
+#### Filters
 
 The filters were easy to use ​and useful when changing or amending a search.
 
@@ -135,15 +135,15 @@ One candidate also expected applied filter labels to present so that they could 
 
 Candidates on mobile phones did not notice ‘show filters’ option until it was pointed out.
 
-### Results page recommendations  
+#### Results page recommendations  
 
 - we recommend that we continue to explore & test ‘sort-by’ options  
 - we recommend that we add the updated filters and the ‘apply filters’ button at the bottom of the list
-- we recommend that we explore the filters button on mobile devices to ensure it is visible.  
+- we recommend that we explore the filters button on mobile devices to ensure it is visible  
 
-## Course page
+### Course page
 
-### Contents
+#### Contents
 
 We initially tested the page without a contents section and found participants were struggling to find information on the page.
 
@@ -151,23 +151,23 @@ The designs were iterated to add a contents section.
 
 The page was also re-ordered so the most important information, such and fees and location, were at the top.  
 
-### Hyperlinks
+#### Hyperlinks
 
  Participants reported they would like links to open in a new tab so that they don’t lose the page which they are on.  
 
-### ‘About this course’ section
+#### ‘About this course’ section
 
  Participants felt the ‘About this course’ section was unstructured, and they would skip past it when on the page.  
 
-### Course page recommendations  
+#### Course page recommendations  
 
 - we recommend reordering the page so that the information most important to candidates is at the top  
 - we recommend that all hyperlinks open in a new tab
-- we recommend that we review the ‘about this course’ section in upcoming research to determine how useful it is, and how we can improve it.  
+- we recommend that we review the ‘about this course’ section in upcoming research to determine how useful it is, and how we can improve it  
 
-## Location  
+### Location  
 
-### Results page content
+#### Results page content
 
 Participants understood what was meant on the results page by ‘placement schools’, ‘study sites’, ‘nearest potential location’ and ‘not listed yet’.
 
@@ -175,7 +175,7 @@ For some, a location was marked as ‘not listed yet’ it might sway them away 
 
 ![screenshot of location on reults page ](find-results-page-locations-prefiltering-ur-r1.png.jpg)
 
-### ‘Where you will train’ section
+#### ‘Where you will train’ section
 
 When reading the course page content, participants felt like they had no control over their placement.
 
@@ -183,7 +183,7 @@ However, once they read the ‘How placements work’ box, they were reassured.
 
 ![screenshot of 'where you will train' section ](find-locations-prefiltering-ur-r1.png)
 
-### Salaried courses
+#### Salaried courses
 
 Salaried course pages referred to both g both ‘placement school’ and ‘employment school’.
 
@@ -191,12 +191,12 @@ This caused confusion, leading candidates to think they were two separate things
 
 Participants referred to placement schools on salaried courses as ‘employment schools’  
 
-### Location recommendations  
+#### Location recommendations  
 
 - We recommend using the tested content as candidates understood it and felt reassured by it.  
 - We recommend changing the content to ‘employing school’ instead of ‘placement school’ for salaried courses. We will test this in future research rounds.  
 
-# Next steps
+## Next steps
 
 The design changes we are confident in will be going live in 2024/ early 2025. Design histories found here:  
 
