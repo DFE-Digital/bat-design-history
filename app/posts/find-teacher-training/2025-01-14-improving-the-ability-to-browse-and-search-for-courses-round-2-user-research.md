@@ -27,7 +27,7 @@ related:
 
 # Goals of the research
 
-The research aimed to test the user journey on Find using the new designs for the homepage, filters, and course page. 
+The research aimed to test the user journey on Find using the new designs for the homepage, filters, and course page.
 
 This was the second round of research looking at these designs.
 
@@ -37,17 +37,17 @@ We spoke to 8 prospective ITT candidates (6 international, and 2 domestic).
 
 # Methodology
 
-We performed usability testing to understand how participants search for courses relevant to them. 
+We performed usability testing to understand how participants search for courses relevant to them.
 
-In the first half of the session, they were asked to search for courses which were relevant to them and show us how they might narrow down their choices. 
+In the first half of the session, they were asked to search for courses which were relevant to them and show us how they might narrow down their choices.
 
-In the second half of the session, we asked follow-up questions to further understand their thoughts and behaviours. 
+In the second half of the session, we asked follow-up questions to further understand their thoughts and behaviours.
 
 We iterated the designs between interviews based on initial findings.  
 
 # Limitations
 
-## Sample 
+## Sample
 
 The sample was smaller than planned due to drop-out. We planned on speaking to 12 prospective ITT candidates (8 international and 4 domestic), however in total we spoke to 8 (6 international, and 2 domestic).
 
@@ -67,7 +67,7 @@ The sessions focused primarily on the Find homepage and filters so did not provi
 
 Participants were unclear what to enter the 'Keywords' field.
 
-We iterated the designs to change the field label to 'subject'. 
+We iterated the designs to change the field label to 'subject'.
 
 This was understood by participants, including those interested in primary
 
@@ -86,15 +86,15 @@ The advanced filters were not used by participants for various reasons were ment
 
 ## Primary specialisms
 
-Multiple participants were looking for primary specialisms and were unable to find them. 
+Multiple participants were looking for primary specialisms and were unable to find them.
 
-We iterated to add the primary specialism page from the ‘Browse primary courses’ quick link on the home page. 
+We iterated to add the primary specialism page from the ‘Browse primary courses’ quick link on the home page.
 
 This made the primary journey consistent with the secondary journey.
 
-There was also no ability to filter by primary specialisms. 
+There was also no ability to filter by primary specialisms.
 
-Some participants searching for primary were confused by the 'Subject' filter. 
+Some participants searching for primary were confused by the 'Subject' filter.
 
 We therefore iterated the filters replaced the 'Age group' filter with individual 'Primary', 'Secondary' and 'Further education' filters.
 
@@ -106,35 +106,35 @@ We recommend that the primary specialisms page is added, and the new filter desi
 
 #### Mobile filters
 
-In the previous research round, participants did not see the filter button on mobile devices. 
+In the previous research round, participants did not see the filter button on mobile devices.
 
-In this round, we tested making the button in a new location and made it 'sticky', so that it stayed at the top of the page even when scrolling. 
+In this round, we tested making the button in a new location and made it 'sticky', so that it stayed at the top of the page even when scrolling.
 
 This did not solve the issue, and candidates still could not find the button.
 
-The designs were iterated during the test round - the content was changed, and the text was made bold. 
+The designs were iterated during the test round - the content was changed, and the text was made bold.
 
-The filter and ‘sort-by’ button were also moved onto the same row as each other, meaning that the button was closer to the search results. 
+The filter and ‘sort-by’ button were also moved onto the same row as each other, meaning that the button was closer to the search results.
 
 Following this change, participants were able to find the filter button on mobile.
 
 #### Degree filter
 
-The degree filter did not have a way to unselect all options when a participant is unsure on the degree grade that will achieve (e.g., if they haven't finished their studies). 
+The degree filter did not have a way to unselect all options when a participant is unsure on the degree grade that will achieve (e.g., if they haven't finished their studies).
 
 The filter was iterated, and the new version was understood by participants.
 
 #### Qualifications filter
 
-Multiple participants from this round and previous rounds thought 'Qualifications' meant the qualifications they need to get into the course, rather than what they will achieve on completion of the course. 
+Multiple participants from this round and previous rounds thought 'Qualifications' meant the qualifications they need to get into the course, rather than what they will achieve on completion of the course.
 
 The title of the filter was updated to 'Qualification awarded'.
 
 #### Start date filter
 
-We added a start date filter for testing, following feedback from teacher training advisors (TTAs) that it would be useful to some user groups. 
+We added a start date filter for testing, following feedback from teacher training advisors (TTAs) that it would be useful to some user groups.
 
-The participants were confused by the 'another date' response option. We updated the content to 'all other dates'. 
+The participants were confused by the 'another date' response option. We updated the content to 'all other dates'.
 
 This was better understood, however there was still some confusion about whether this meant courses in another year.
 
@@ -146,7 +146,7 @@ This was better understood, however there was still some confusion about whether
 
 ## Get into teaching (GIT) banner
 
-We tested a new banner on the results page, which included links to various GIT pages. 
+We tested a new banner on the results page, which included links to various GIT pages.
 
 Participants found the banner helpful and reported that they would use the links to find out more information about becoming a teacher.
 
@@ -158,7 +158,7 @@ We recommend adding this banner to the results page.
 
 #### Salaried course callout box
 
-Participants reported it would be useful to have more information about salaried courses, to save them searching online. 
+Participants reported it would be useful to have more information about salaried courses, to save them searching online.
 
 There is already a GIT page including this information, the designs were iterated to add the link.
 
@@ -172,11 +172,11 @@ Participants were not satisfied when the location was marked as 'not listed yet'
 
 #### Further information
 
-In the test round, we trialled testing the course page without the ‘about this course’ section. 
+In the test round, we trialled testing the course page without the ‘about this course’ section.
 
-This is due to findings from previous research that the section is not useful to candidates and can often be burdensome due to the unstructured nature. 
+This is due to findings from previous research that the section is not useful to candidates and can often be burdensome due to the unstructured nature.
 
-However, we found that candidates felt that there was some information missing on the page, which would be useful to have when deciding. 
+However, we found that candidates felt that there was some information missing on the page, which would be useful to have when deciding.
 
 The two main areas include:
 
@@ -193,7 +193,7 @@ The two main areas include:
 
 # Next steps
 
-The design changes we are confident in will be going live in early 2025. 
+The design changes we are confident in will be going live in early 2025.
 
 Design histories found here:  
 
