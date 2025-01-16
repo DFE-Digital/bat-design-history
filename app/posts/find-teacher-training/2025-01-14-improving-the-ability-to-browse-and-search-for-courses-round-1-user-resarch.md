@@ -26,7 +26,7 @@ related:
 
 # Goals of the research
 
-The research aimed to test the user journey on Find using the new designs for the homepage, filters, and course page. 
+The research aimed to test the user journey on Find using the new designs for the homepage, filters, and course page.
 
 The designs aimed to help candidates navigate to a relevant and manageable list of search results.
 
@@ -38,21 +38,21 @@ We spoke to 9 prospective initial teacher training (ITT) candidates (4 internati
 
 # Methodology
 
-We performed usability testing to understand how participants search for courses relevant to them. 
+We performed usability testing to understand how participants search for courses relevant to them.
 
-In the first half of the session, candidates were asked to search for courses which were relevant to them and to show us how they might narrow down their choices. 
+In the first half of the session, candidates were asked to search for courses which were relevant to them and to show us how they might narrow down their choices.
 
-In the second half of the session, we asked follow-up questions to further understand their thoughts and behaviours. 
+In the second half of the session, we asked follow-up questions to further understand their thoughts and behaviours.
 
 We iterated the designs between interviews based on initial findings.
 
 # Limitations
 
-## Technical limitations 
+## Technical limitations
 
 The testing used a prototype in which some features were not functionable and occasionally required the researcher to guide the participant.
 
-## Limited scope 
+## Limited scope
 
 The sessions focused primarily on the Find homepage and filters so did not provide a comprehensive view of the entire user journey.  
 
@@ -64,7 +64,7 @@ The sessions focused primarily on the Find homepage and filters so did not provi
 
 #### Search box
 
-Participants understood to include ‘subjects’ in the ‘Keyword’ field. 
+Participants understood to include ‘subjects’ in the ‘Keyword’ field.
 
 They also thought they could include other words such as university name, qualification type and age range.
 
@@ -74,23 +74,23 @@ International candidates noticed, and used, the visa sponsorship check box.
 
 #### Browse all courses
 
-International candidates preferred browsing by subject so that they can see what options are available. 
+International candidates preferred browsing by subject so that they can see what options are available.
 
 In contrast the domestic candidates preferred using the search box as they tended to already know what course they were looking for.  
 
 ### Homepage recommendations
 
-Given that the homepage concept tested well for both domestic and international participants, we recommend that we continue to iterate and test homepage designs. 
+Given that the homepage concept tested well for both domestic and international participants, we recommend that we continue to iterate and test homepage designs.
 
 We recommend that we explore adding advanced filters, and hint text to the ‘keywords’ field.
 
 ## Subjects page
 
-When ‘Browse course by subject’ was selected, candidates were shown a refined version of the subjects’ page, where the subjects had been grouped, rather than listed alphabetically. 
+When ‘Browse course by subject’ was selected, candidates were shown a refined version of the subjects’ page, where the subjects had been grouped, rather than listed alphabetically.
 
 Candidates preferred the subjects being grouped and could easily find the subject they were looking for. They understood terms such as STEM and humanities​ used in the group headings.
 
-The subjects had also been grouped so that those with bursaries were shown at the top. When looking at this page, candidates did not notice which course had bursaries. 
+The subjects had also been grouped so that those with bursaries were shown at the top. When looking at this page, candidates did not notice which course had bursaries.
 
 The designs were iterated to revert the style of the bursary content.  
 
@@ -105,7 +105,7 @@ We recommend using the version of the course page which has the subjects grouped
 
 #### Change results
 
-The option to change their search on the results page was useful as it helped them to narrow down and expand the number of results. 
+The option to change their search on the results page was useful as it helped them to narrow down and expand the number of results.
 
 Participants used the radius to narrow down their search results to a manageable list ​
 
@@ -113,17 +113,17 @@ Participants used the radius to narrow down their search results to a manageable
 
 #### Sort-by
 
-When using the ‘sort-by’ options, participants reported that ‘distance’ was useful whilst ‘newest’ wasn’t relevant. 
+When using the ‘sort-by’ options, participants reported that ‘distance’ was useful whilst ‘newest’ wasn’t relevant.
 
-‘Closing date’ was useful for some, but for others it wasn’t relevant as they would complete the application straight away. 
+‘Closing date’ was useful for some, but for others it wasn’t relevant as they would complete the application straight away.
 
 Other suggestions for ‘sort-by’ options included: fees, provider popularity or ranking, course length and start date.  
 
 #### Filters
 
-The filters were easy to use ​and useful when changing or amending a search. 
+The filters were easy to use ​and useful when changing or amending a search.
 
-The updated Degree Grade, Subject and Age filters were all understood. 
+The updated Degree Grade, Subject and Age filters were all understood.
 
 Some participants thought 'Qualifications' meant the qualifications they need to get onto the course, rather than what they will achieve on completion of the course.
 
@@ -143,9 +143,9 @@ Candidates on mobile phones did not notice ‘show filters’ option until it wa
 
 #### Contents
 
-We initially tested the page without a contents section and found participants were struggling to find information on the page. 
+We initially tested the page without a contents section and found participants were struggling to find information on the page.
 
-The designs were iterated to add a contents section. 
+The designs were iterated to add a contents section.
 
 The page was also re-ordered so the most important information, such and fees and location, were at the top.  
 
@@ -167,15 +167,15 @@ The page was also re-ordered so the most important information, such and fees an
 
 #### Results page content
 
-Participants understood what was meant on the results page by ‘placement schools’, ‘study sites’, ‘nearest potential location’ and ‘not listed yet’. 
- 
+Participants understood what was meant on the results page by ‘placement schools’, ‘study sites’, ‘nearest potential location’ and ‘not listed yet’.
+
 For some, a location was marked as ‘not listed yet’ it might sway them away from choosing that course.
 
 ![screenshot of location on reults page ](find-results-page-locations-prefiltering-ur-r1.png.jpg)
 
 #### ‘Where you will train’ section
 
-When reading the course page content, participants felt like they had no control over their placement. 
+When reading the course page content, participants felt like they had no control over their placement.
 
 However, once they read the ‘How placements work’ box, they were reassured.
 
@@ -183,9 +183,9 @@ However, once they read the ‘How placements work’ box, they were reassured.
 
 #### Salaried courses
 
-Salaried course pages referred to both g both ‘placement school’ and ‘employment school’. 
+Salaried course pages referred to both g both ‘placement school’ and ‘employment school’.
 
-This caused confusion, leading candidates to think they were two separate things. 
+This caused confusion, leading candidates to think they were two separate things.
 
 Participants referred to placement schools on salaried courses as ‘employment schools’  
 
@@ -204,6 +204,5 @@ The design changes we are confident in will be going live in 2024/ early 2025. D
 [Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)
 [Improving the course summary](/find-teacher-training/improving-course-summary/)
 [Update financial support section](/find-teacher-training/update-financial-support-section/)
-
 
 We will also be conducting a second round of testing to continue to iterate and improve the designs.
