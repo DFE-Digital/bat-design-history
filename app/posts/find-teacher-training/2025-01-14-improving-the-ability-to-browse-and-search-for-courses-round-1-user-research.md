@@ -193,12 +193,12 @@ Participants referred to placement schools on salaried courses as ‘employment 
 
 #### Location recommendations  
 
-- we recommend using the tested content as candidates understood it and felt reassured by it 
+- we recommend using the tested content as candidates understood it and felt reassured by it
 - we recommend changing the content to ‘employing school’ instead of ‘placement school’ for salaried courses. We will test this in future research rounds
 
 ## Next steps
 
-The design changes we are confident in will be going live in 2024/ early 2025. 
+The design changes we are confident in will be going live in 2024/ early 2025.
 
 Design histories found here:  
 
