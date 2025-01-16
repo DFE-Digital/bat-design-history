@@ -22,7 +22,7 @@ Not all design history posts will include research. Sometimes, changes are made 
 
 When describing design decisions, try to cover:
 
-- your planned changes and why these were the best approach, including a summary of any research that informed your planning
+- your planned changes and why these were considered the best approach, including a summary of any research that informed your planning
 - the outcome of research that increased or decreased your certainty about the original plan
 - any revisions you made based on the research conducted
 
