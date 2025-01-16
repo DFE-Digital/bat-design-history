@@ -57,7 +57,7 @@ We removed:
 
 - the total claim hours
 
-For each individual mentor, rather than total claim, providers could input information into the two columns:
+For each mentor, rather than the overall claim, providers could input information into the two columns:
 
 - claim assured (providers to indicate yes/true or no/false)
 - claim not assured reason (providers to indicate a reason if they had marked the claim as not assured)
