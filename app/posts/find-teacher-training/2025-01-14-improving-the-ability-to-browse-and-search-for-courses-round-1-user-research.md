@@ -10,6 +10,8 @@ tags:
   - pre-filtering
 related:
   items:
+  - text: Improving the ability to browse and search for courses - Round 2 user research
+    href: /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-2-user-research
   - text: Add links to Get Into Teaching
     href: /find-teacher-training/add-links-to-get-into-teaching/
   - text: Add filters for teaching stages
