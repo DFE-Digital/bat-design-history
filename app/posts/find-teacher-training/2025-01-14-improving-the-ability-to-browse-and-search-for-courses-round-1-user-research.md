@@ -1,5 +1,5 @@
 ---
-title: Improving the ability to browse and search for courses - Round 1 user research  
+title: Improving the ability to browse and search for courses - round 1 user research  
 description: User research testing new designs on Find for the homepage, filters, and location content. 
 date: 2025-01-14
 tags:
@@ -10,7 +10,7 @@ tags:
   - pre-filtering
 related:
   items:
-  - text: Improving the ability to browse and search for courses - Round 2 user research
+  - text: Improving the ability to browse and search for courses - round 2 user research
     href: /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-2-user-research
   - text: Add links to Get Into Teaching
     href: /find-teacher-training/add-links-to-get-into-teaching/
@@ -193,12 +193,14 @@ Participants referred to placement schools on salaried courses as ‘employment 
 
 #### Location recommendations  
 
-- We recommend using the tested content as candidates understood it and felt reassured by it.  
-- We recommend changing the content to ‘employing school’ instead of ‘placement school’ for salaried courses. We will test this in future research rounds.  
+- we recommend using the tested content as candidates understood it and felt reassured by it 
+- we recommend changing the content to ‘employing school’ instead of ‘placement school’ for salaried courses. We will test this in future research rounds
 
 ## Next steps
 
-The design changes we are confident in will be going live in 2024/ early 2025. Design histories found here:  
+The design changes we are confident in will be going live in 2024/ early 2025. 
+
+Design histories found here:  
 
 - [Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
 - [Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
