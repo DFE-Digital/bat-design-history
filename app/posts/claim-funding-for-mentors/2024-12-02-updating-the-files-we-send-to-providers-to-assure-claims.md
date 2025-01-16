@@ -40,7 +40,7 @@ The users stated that the current amount of information was insufficient and rec
 - individual mentor names for each claim
 - individual claim hours for each mentor, not the overall claim amount
   
-Providing this information would enable accredited providers to accurately assure the claims.
+Providing this information would enable accredited providers to assure the claims accurately.
 
 ## Updated CSV for providers
 
