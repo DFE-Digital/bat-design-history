@@ -64,7 +64,7 @@ For each mentor, rather than the overall claim, providers could input informatio
 
 ## User needs
 
-As a result of updating the CSV we hypothesized that we were able to meet the following user need:
+As a result of updating the CSV, we hypothesized that we were able to meet the following user need:
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
