@@ -75,4 +75,4 @@ So that we can easily and correctly check the claims against our records when sa
 
 ## Next steps
 
-In the next round of provider user research we will share the CSV and validate whether the above user need had now been met, so they could successfully assure their claims.
+In the next round of provider user research, we will share the CSV and validate whether the above user need has been met so that they can successfully assure their claims.
