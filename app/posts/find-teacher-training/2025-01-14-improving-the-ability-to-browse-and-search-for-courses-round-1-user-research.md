@@ -64,17 +64,17 @@ The sessions focused primarily on the Find homepage and filters so did not provi
 
 ![screenshot of homepage deisgn](find-homepage-prefiltering-ur-r1.png)
 
-#### Search box
+### Search box
 
 Participants understood to include ‘subjects’ in the ‘Keyword’ field.
 
 They also thought they could include other words such as university name, qualification type and age range.
 
-#### Visa sponsorship
+### Visa sponsorship
 
 International candidates noticed, and used, the visa sponsorship check box.
 
-#### Browse all courses
+### Browse all courses
 
 International candidates preferred browsing by subject so that they can see what options are available.
 
@@ -105,7 +105,7 @@ We recommend using the version of the course page which has the subjects grouped
 
 ## Results page
 
-#### Change results
+### Change results
 
 The option to change their search on the results page was useful as it helped them to narrow down and expand the number of results.
 
@@ -113,7 +113,7 @@ Participants used the radius to narrow down their search results to a manageable
 
 ![screenshot of change search on results page](find-change-results-prefiltering-ur-r1.png)
 
-#### Sort-by
+### Sort-by
 
 When using the ‘sort-by’ options, participants reported that ‘distance’ was useful whilst ‘newest’ wasn’t relevant.
 
@@ -121,7 +121,7 @@ When using the ‘sort-by’ options, participants reported that ‘distance’ 
 
 Other suggestions for ‘sort-by’ options included: fees, provider popularity or ranking, course length and start date.  
 
-#### Filters
+### Filters
 
 The filters were easy to use ​and useful when changing or amending a search.
 
@@ -143,7 +143,7 @@ Candidates on mobile phones did not notice ‘show filters’ option until it wa
 
 ## Course page
 
-#### Contents
+### Contents
 
 We initially tested the page without a contents section and found participants were struggling to find information on the page.
 
@@ -151,11 +151,11 @@ The designs were iterated to add a contents section.
 
 The page was also re-ordered so the most important information, such and fees and location, were at the top.  
 
-#### Hyperlinks
+### Hyperlinks
 
  Participants reported they would like links to open in a new tab so that they don’t lose the page which they are on.  
 
-#### ‘About this course’ section
+### ‘About this course’ section
 
  Participants felt the ‘About this course’ section was unstructured, and they would skip past it when on the page.  
 
@@ -167,7 +167,7 @@ The page was also re-ordered so the most important information, such and fees an
 
 ## Location  
 
-#### Results page content
+### Results page content
 
 Participants understood what was meant on the results page by ‘placement schools’, ‘study sites’, ‘nearest potential location’ and ‘not listed yet’.
 
@@ -175,7 +175,7 @@ For some, a location was marked as ‘not listed yet’ it might sway them away 
 
 ![screenshot of location on reults page ](find-results-page-locations-prefiltering-ur-r1.png.jpg)
 
-#### ‘Where you will train’ section
+### ‘Where you will train’ section
 
 When reading the course page content, participants felt like they had no control over their placement.
 
@@ -183,7 +183,7 @@ However, once they read the ‘How placements work’ box, they were reassured.
 
 ![screenshot of 'where you will train' section ](find-locations-prefiltering-ur-r1.png)
 
-#### Salaried courses
+### Salaried courses
 
 Salaried course pages referred to both g both ‘placement school’ and ‘employment school’.
 
@@ -200,11 +200,11 @@ Participants referred to placement schools on salaried courses as ‘employment 
 
 The design changes we are confident in will be going live in 2024/ early 2025. Design histories found here:  
 
-[Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
-[Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
-[Improving the ability to browse courses](/find-teacher-training/improving-the-ability-to-browse-courses/)
-[Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)
-[Improving the course summary](/find-teacher-training/improving-course-summary/)
-[Update financial support section](/find-teacher-training/update-financial-support-section/)
+- [Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
+- [Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
+- [Improving the ability to browse courses](/find-teacher-training/improving-the-ability-to-browse-courses/)
+- [Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)
+- [Improving the course summary](/find-teacher-training/improving-course-summary/)
+- [Update financial support section](/find-teacher-training/update-financial-support-section/)
 
 We will also be conducting a second round of testing to continue to iterate and improve the designs.
