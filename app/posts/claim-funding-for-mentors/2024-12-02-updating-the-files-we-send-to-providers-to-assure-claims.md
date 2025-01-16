@@ -36,7 +36,7 @@ During round 6, we shared a CSV with the providers so that they could review whe
 
 The users stated that the current amount of information was insufficient and recommended that the following information be shared:
 
-- school post code
+- school postcode
 - individual mentor names for each claim
 - individual claim hours for each mentor, not the overall claim amount
   
