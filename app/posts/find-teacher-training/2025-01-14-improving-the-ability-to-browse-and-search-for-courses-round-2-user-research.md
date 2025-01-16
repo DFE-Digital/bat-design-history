@@ -63,7 +63,7 @@ The sessions focused primarily on the Find homepage and filters so did not provi
 
 ## Homepage
 
-#### Search box
+### Search box
 
 Participants were unclear what to enter the 'Keywords' field.
 
@@ -71,7 +71,7 @@ We iterated the designs to change the field label to 'subject'.
 
 This was understood by participants, including those interested in primary
 
-#### Advanced filters
+### Advanced filters
 
 The advanced filters were not used by participants for various reasons were mentioned:
 
@@ -104,7 +104,7 @@ We recommend that the primary specialisms page is added, and the new filter desi
 
 ## Filtering results
 
-#### Mobile filters
+### Mobile filters
 
 In the previous research round, participants did not see the filter button on mobile devices.
 
@@ -118,19 +118,19 @@ The filter and ‘sort-by’ button were also moved onto the same row as each ot
 
 Following this change, participants were able to find the filter button on mobile.
 
-#### Degree filter
+### Degree filter
 
 The degree filter did not have a way to unselect all options when a participant is unsure on the degree grade that will achieve (e.g., if they haven't finished their studies).
 
 The filter was iterated, and the new version was understood by participants.
 
-#### Qualifications filter
+### Qualifications filter
 
 Multiple participants from this round and previous rounds thought 'Qualifications' meant the qualifications they need to get into the course, rather than what they will achieve on completion of the course.
 
 The title of the filter was updated to 'Qualification awarded'.
 
-#### Start date filter
+### Start date filter
 
 We added a start date filter for testing, following feedback from teacher training advisors (TTAs) that it would be useful to some user groups.
 
@@ -156,21 +156,21 @@ We recommend adding this banner to the results page.
 
 ## Course page content
 
-#### Salaried course callout box
+### Salaried course callout box
 
 Participants reported it would be useful to have more information about salaried courses, to save them searching online.
 
 There is already a GIT page including this information, the designs were iterated to add the link.
 
-#### Fee callout box
+### Fee callout box
 
 Participants understood the information in the callout box, however there was confusion from international participants around how and when the money would be paid.
 
-#### Where you will train
+### Where you will train
 
 Participants were not satisfied when the location was marked as 'not listed yet'. For some, this would put them off applying to a course.
 
-#### Further information
+### Further information
 
 In the test round, we trialled testing the course page without the ‘about this course’ section.
 
@@ -197,12 +197,12 @@ The design changes we are confident in will be going live in early 2025.
 
 Design histories found here:  
 
-[Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
-[Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
-[Improving the ability to browse courses](/find-teacher-training/improving-the-ability-to-browse-courses/)
-[Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)
-[Improving the course summary](/find-teacher-training/improving-course-summary/)
-[Update financial support section](/find-teacher-training/update-financial-support-section/)
+- [Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
+- [Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
+- [Improving the ability to browse courses](/find-teacher-training/improving-the-ability-to-browse-courses/)
+- [Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)
+- [Improving the course summary](/find-teacher-training/improving-course-summary/)
+- [Update financial support section](/find-teacher-training/update-financial-support-section/)
 
 We will also be conducting testing on the following:
 
