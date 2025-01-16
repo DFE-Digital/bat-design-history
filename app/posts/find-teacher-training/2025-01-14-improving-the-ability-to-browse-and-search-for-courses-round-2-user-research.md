@@ -1,5 +1,5 @@
 ---
-title: Improving the ability to browse and search for courses - Round 2 user research
+title: Improving the ability to browse and search for courses - round 2 user research
 description: User research testing new designs on Find for the homepage, filters, and course page. 
 date: 2025-01-14
 tags:
@@ -9,7 +9,7 @@ tags:
   - pre-filtering
 related:
   items:
-  - text: Improving the ability to browse and search for courses - Round 1 user research
+  - text: Improving the ability to browse and search for courses - round 1 user research
     href: /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-1-user-research
   - text: Add links to Get Into Teaching
     href: /find-teacher-training/add-links-to-get-into-teaching/
