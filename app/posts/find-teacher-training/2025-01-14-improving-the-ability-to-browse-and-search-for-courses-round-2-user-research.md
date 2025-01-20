@@ -63,6 +63,8 @@ The sessions focused primarily on the Find homepage and filters so did not provi
 
 ### Homepage
 
+![screenshot of advanced filters](advanced-filters-round2.png)
+
 #### Search box
 
 Participants were unclear what to enter the 'Keywords' field.
@@ -98,6 +100,8 @@ Some participants searching for primary were confused by the 'Subject' filter.
 
 We therefore iterated the filters replaced the 'Age group' filter with individual 'Primary', 'Secondary' and 'Further education' filters.
 
+![screenshot of age group filters](age-group-filters-round2.png)
+
 #### Primary specialisms recommendations
 
 We recommend that the primary specialisms page is added, and the new filter designs are implemented.
@@ -117,6 +121,8 @@ The designs were iterated during the test round - the content was changed, and t
 The filter and ‘sort-by’ button were also moved onto the same row as each other, meaning that the button was closer to the search results.
 
 Following this change, participants were able to find the filter button on mobile.
+
+![screenshot of mobile filters](filters-round2.png)
 
 #### Degree filter
 
@@ -150,6 +156,8 @@ We tested a new banner on the results page, which included links to various GIT 
 
 Participants found the banner helpful and reported that they would use the links to find out more information about becoming a teacher.
 
+![screenshot of git banner](git-banner-round2.png)
+
 #### GIT banner recommendations
 
 We recommend adding this banner to the results page.
@@ -162,13 +170,19 @@ Participants reported it would be useful to have more information about salaried
 
 There is already a GIT page including this information, the designs were iterated to add the link.
 
+![screenshot of salaried courses](salaried-courses-round2.png)
+
 #### Fee callout box
 
 Participants understood the information in the callout box, however there was confusion from international participants around how and when the money would be paid.
 
+![screenshot of fee callout box](fee-callout-box-round2.png)
+
 #### Where you will train
 
 Participants were not satisfied when the location was marked as 'not listed yet'. For some, this would put them off applying to a course.
+
+![screenshot of where you will train design](locations-round2.png)
 
 #### Further information
 

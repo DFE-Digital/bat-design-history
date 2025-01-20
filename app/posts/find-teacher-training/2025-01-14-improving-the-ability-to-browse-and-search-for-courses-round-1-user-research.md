@@ -62,7 +62,7 @@ The sessions focused primarily on the Find homepage and filters so did not provi
 
 ### Homepage
 
-![screenshot of homepage deisgn](find-homepage-prefiltering-ur-r1.png)
+![screenshot of homepage design](homepage-round1.png)
 
 #### Search box
 
@@ -96,8 +96,7 @@ The subjects had also been grouped so that those with bursaries were shown at th
 
 The designs were iterated to revert the style of the bursary content.  
 
-![screenshot of subjects page version 1](find-subject-page-v1-ur-r1.jpg)
-![screenshot of subjects page version 2](find-subject-page-v2-ur-r1.jpg)
+![screenshot of subjects page](subjects-page-round1.png)
 
 ### Subjects page recommendations
 
@@ -111,7 +110,7 @@ The option to change their search on the results page was useful as it helped th
 
 Participants used the radius to narrow down their search results to a manageable list ​
 
-![screenshot of change search on results page](find-change-results-prefiltering-ur-r1.png)
+![screenshot of change search on results page](change-results-round1.png)
 
 #### Sort-by
 
@@ -173,15 +172,13 @@ Participants understood what was meant on the results page by ‘placement schoo
 
 For some, a location was marked as ‘not listed yet’ it might sway them away from choosing that course.
 
-![screenshot of location on reults page ](find-results-page-locations-prefiltering-ur-r1.png.jpg)
-
 #### ‘Where you will train’ section
 
 When reading the course page content, participants felt like they had no control over their placement.
 
 However, once they read the ‘How placements work’ box, they were reassured.
 
-![screenshot of 'where you will train' section ](find-locations-prefiltering-ur-r1.png)
+![screenshot of 'where you will train' section ](where-you-will-train-round1.png)
 
 #### Salaried courses
 
