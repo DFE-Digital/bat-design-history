@@ -92,7 +92,7 @@ The output looks like this:
 
 This is **bold text**.
 
-This is also __bold text__.
+This is also **bold text**.
 
 #### Bold text best practices
 
@@ -116,7 +116,7 @@ The output looks like this:
 
 This is *italic text*.
 
-This is also _italic text_.
+This is also *italic text*.
 
 #### Italic text best practices
 
