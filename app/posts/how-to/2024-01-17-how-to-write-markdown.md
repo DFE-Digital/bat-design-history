@@ -72,7 +72,7 @@ You can emphasise text by making it bold or italic.
 
 ### Bold text
 
-To bold the text, add two asterisks or underscores before and after a word or phrase.
+Add two asterisks or underscores before and after a word or phrase to bold the text.
 
 Add two asterisks without spaces around the letters to bold the middle of a word for emphasis.
 
@@ -188,7 +188,7 @@ You can organise items into ordered and unordered lists.
 
 ### Ordered lists
 
-To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one. For example:
+To create an ordered list, add line items with numbers followed by periods. The numbers do not have to be in numerical order, but the list should start with the number one. For example:
 
 ```
 1. First item
@@ -206,6 +206,7 @@ The output looks like this:
 
 #### Ordered list best practices
 
+Put blank lines before and after ordered lists.
 
 ### Unordered lists
 
@@ -249,6 +250,9 @@ If you need to start an unordered list item with a number followed by a period (
 
 #### Unordered list best practices
 
+For compatibility, use hyphens to create unordered lists.
+
+Put blank lines before and after ordered lists.
 
 ## Links
 
@@ -272,7 +276,7 @@ To add a title, enclose it in straight quotation marks after the URL. For exampl
 [GOV.UK Design System](https://design-system.service.gov.uk/ "Design your service using GOV.UK styles, components and patterns")
 ```
 
-The output looks like this:
+The output looks like this (hover over the link to see the tooltip):
 
 [GOV.UK Design System](https://design-system.service.gov.uk/ "Design your service using GOV.UK styles, components and patterns")
 
@@ -300,7 +304,7 @@ The output looks like this:
 
 ## Images
 
-To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. After the path or URL, you can optionally add a title in quotation marks. For example:
+To add an image, add an exclamation mark (!), followed by alt text in square brackets, and the path or URL to the image asset in parentheses. After the path or URL, you can optionally add a title in quotation marks. For example:
 
 ```
 ![Becoming a teacher design history opengraph image](opengraph-image.png)
@@ -308,10 +312,11 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 
 The output looks like this:
 
-![Becoming a teacher design history opengraph image](opengraph-image.png)
+![Becoming a teacher design history open graph image](opengraph-image.png)
 
 ### Image best practices
 
+For accessibility, make sure you describe the contents of the image with alt text.
 
 ## Tables
 
@@ -332,7 +337,7 @@ The output looks like this:
 
 ### Horizontal rule best practices
 
-For compatibility, you should also put blank lines before and after a horizontal rule.
+You should also put blank lines before and after a horizontal rule for compatibility.
 
 ```
 Put a blank line before...
@@ -344,11 +349,11 @@ Put a blank line before...
 
 ## Code blocks
 
-Markdown supports placing code blocks inline in a sentence and as a separate “fenced” block between sentences.
+Markdown supports placing code blocks inline in a sentence and as separate “fenced” blocks between sentences. This article uses code blocks to demonstrate markdown.
 
 ### Inline code
 
-Use back ticks (`) to create inline code styles within a paragraph.
+Use backticks (`) to create inline code styles within a paragraph.
 
 ```
 This is `inline code` within a paragraph of text.
@@ -360,13 +365,17 @@ This is `inline code` within a paragraph of text.
 
 ### Fenced code block
 
-To create a specific multi-line code block, add three back ticks (\```) before and after the code block (called a “fenced code block” in Markdown).
+To create a specific multi-line code block, add three backticks (\```) before and after the code block (called a “fenced code block” in Markdown).
 
-Add the code language after the first set of back ticks for fenced code blocks so that Markdown correctly highlights code syntax. For example: \```javascript
+Add the code language after the first set of backticks for fenced code blocks so that Markdown correctly highlights code syntax. For example: \```javascript
 
-This is a fenced code block:
+This is a fenced code block using the JavaScript syntax:
 
 ```javascript
 const govukPrototypeKit = require('govuk-prototype-kit')
 const router = govukPrototypeKit.requests.setupRouter()
 ```
+
+### Code block best practices
+
+You should put blank lines before and after a horizontal rule for fenced code blocks.
