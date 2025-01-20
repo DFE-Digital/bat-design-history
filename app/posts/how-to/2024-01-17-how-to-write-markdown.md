@@ -36,7 +36,7 @@ Add hashes (`#`) before a word or phrase to create a heading. The number of hash
 ###### Heading level 6
 ```
 
-### Heading best practices
+### Heading best practice
 
 Heading level 1 can only be used once on a page.
 
@@ -70,7 +70,7 @@ I like using Markdown.
 I’ll use it to format all of my documents from now on.
 ```
 
-### Paragraph best practices
+### Paragraph best practice
 
 Do not indent paragraphs with spaces or tabs unless the paragraph is in a list.
 
@@ -96,7 +96,7 @@ This is **bold text**.
 
 This is also __bold text__.
 
-#### Bold text best practices
+#### Bold text best practice
 
 For compatibility, use asterisks to bold your text.
 
@@ -120,7 +120,7 @@ This is *italic text*.
 
 This is also _italic text_.
 
-#### Italic text best practices
+#### Italic text best practice
 
 For compatibility, use asterisks to make your text italic.
 
@@ -186,7 +186,7 @@ The output looks like this:
 >
 > —Eliot Noyes, 1938
 
-### Blockquote best practices
+### Blockquote best practice
 
 Put blank lines before and after blockquotes.
 
@@ -212,7 +212,7 @@ The output looks like this:
 3. Third item
 4. Fourth item
 
-#### Ordered list best practices
+#### Ordered list best practice
 
 Put blank lines before and after ordered lists.
 
@@ -256,7 +256,7 @@ The output looks like this:
 
 If you need to start an unordered list item with a number followed by a period (`.`), you can use a backslash (`\`) to escape the period.
 
-#### Unordered list best practices
+#### Unordered list best practice
 
 For compatibility, use hyphens to create unordered lists.
 
@@ -288,7 +288,7 @@ The output looks like this (hover over the link to see the tooltip):
 
 [GOV.UK Design System](https://design-system.service.gov.uk/ "Design your service using GOV.UK styles, components and patterns")
 
-### Link best practices
+### Link best practice
 
 For compatibility, try to URL encode any spaces in your URL with `%20`.
 
@@ -322,7 +322,7 @@ The output looks like this:
 
 ![Becoming a teacher design history open graph image](opengraph-image.png)
 
-### Image best practices
+### Image best practice
 
 For accessibility, make sure you describe the contents of the image with alt text.
 
@@ -382,7 +382,7 @@ The output looks like this:
 | Puncak Jaya  | 4,884 | Australia | 1962 |
 | Vinson  | 4,897 | Antarctica | 1966 |
 
-### Table best practices
+### Table best practice
 
 You can format the text within tables. For example, you can add [emphasis](#emphasis), [links](#links), [images](#images), and [inline code](#inline-code) (not code blocks).
 
@@ -400,7 +400,7 @@ The output looks like this:
 
 ---
 
-### Horizontal rule best practices
+### Horizontal rule best practice
 
 You should also put blank lines before and after a horizontal rule for compatibility.
 
@@ -441,7 +441,7 @@ const govukPrototypeKit = require('govuk-prototype-kit')
 const router = govukPrototypeKit.requests.setupRouter()
 ```
 
-### Code block best practices
+### Code block best practice
 
 You should put blank lines before and after a horizontal rule for fenced code blocks.
 
