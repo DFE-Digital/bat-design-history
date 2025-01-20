@@ -324,7 +324,7 @@ The output looks like this:
 
 ### Image best practice
 
-For accessibility, make sure you describe the contents of the image with alt text.
+For accessibility, make sure you [describe the contents of the image with alt text](https://design-system.service.gov.uk/styles/images/#alt-text).
 
 ## Tables
 
