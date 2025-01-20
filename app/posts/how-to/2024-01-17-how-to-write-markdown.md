@@ -4,7 +4,7 @@ description: A short guide to using Markdown to format your content
 date: 2025-01-17
 ---
 
-<!-- markdownlint-disable MD049 MD050 -->
+<!-- markdownlint-disable MD040 MD049 MD050 -->
 
 We write design history posts in Markdown, a lightweight markup language that uses special characters to format plain text. The website converts the Markdown into HTML for display on the site.
 
@@ -445,4 +445,4 @@ const router = govukPrototypeKit.requests.setupRouter()
 
 You should put blank lines before and after a horizontal rule for fenced code blocks.
 
-<!-- markdownlint-enable MD049 MD050 -->
+<!-- markdownlint-enable MD040 MD049 MD050 -->
