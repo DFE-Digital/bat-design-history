@@ -4,6 +4,8 @@ description: A short guide to using Markdown to format your content
 date: 2025-01-17
 ---
 
+<!-- markdownlint-disable MD049 MD050 -->
+
 We write design history posts in Markdown, a lightweight markup language that uses special characters to format plain text. The website converts the Markdown into HTML for display on the site.
 
 The following sections describe the basics of writing content in Markdown.
@@ -92,7 +94,7 @@ The output looks like this:
 
 This is **bold text**.
 
-This is also **bold text**.
+This is also __bold text__.
 
 #### Bold text best practices
 
@@ -116,7 +118,7 @@ The output looks like this:
 
 This is *italic text*.
 
-This is also *italic text*.
+This is also _italic text_.
 
 #### Italic text best practices
 
@@ -442,3 +444,5 @@ const router = govukPrototypeKit.requests.setupRouter()
 ### Code block best practices
 
 You should put blank lines before and after a horizontal rule for fenced code blocks.
+
+<!-- markdownlint-enable MD049 MD050 -->
