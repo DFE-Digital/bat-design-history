@@ -31,6 +31,9 @@ screenshots:
       src: change-email-notifications--multiple-organisations-lead-school.png
     - text: Change your email notifications - multiple organisations (accredited body)
       src: change-email-notifications--multiple-organisations-accredited-body.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-managing-individual-email-notifications
 ---
 
 Currently, only users in accredited bodies receive email notifications for courses run by their training providers.
