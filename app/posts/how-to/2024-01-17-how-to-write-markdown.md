@@ -4,7 +4,7 @@ description: A short guide to using Markdown to format your content
 date: 2025-01-17
 ---
 
-We write design history posts in Markdown, a lightweight markup language. The website converts the Markdown into HTML for display on the site.
+We write design history posts in Markdown, a lightweight markup language that uses special characters to format plain text. The website converts the Markdown into HTML for display on the site.
 
 The following sections describe the basics of writing content in Markdown.
 
@@ -36,6 +36,8 @@ Add hashes (`#`) before a word or phrase to create a heading. The number of hash
 
 ### Heading best practices
 
+Heading level 1 can only be used once on a page.
+
 Always put a space between the hashes and the heading name. For example:
 
 ```
@@ -45,12 +47,16 @@ Always put a space between the hashes and the heading name. For example:
 You should also put blank lines before and after a heading for compatibility.
 
 ```
-Put a blank line before...
+Put a blank line before
 
 ## This is a heading
 
-...and after a heading.
+And after a heading.
 ```
+
+Do not use headings to resize text.
+
+Do not skip heading levels. For example, heading level 3 follows heading level 2, etc.
 
 ## Paragraphs
 
@@ -72,7 +78,7 @@ You can emphasise text by making it bold or italic.
 
 ### Bold text
 
-Add two asterisks or underscores before and after a word or phrase to bold the text.
+Add two asterisks or underscores before and after a word or phrase to mark the text in bold.
 
 Add two asterisks without spaces around the letters to bold the middle of a word for emphasis.
 
@@ -320,8 +326,65 @@ For accessibility, make sure you describe the contents of the image with alt tex
 
 ## Tables
 
+To add a table, use three or more hyphens (`---`) to create each column’s header and use pipes (`|`) to separate each column. You should also add a pipe on either end of the row for compatibility. For example:
+
+```
+| Name | Elevation | Continent | First summit |
+| --- | --- | --- | --- |
+| Aconcagua | 6,961 meters | South America | 1897 |
+| Denali | 6,194 meters | North America | 1913 |
+| Elbrus | 5,642 meters | Europe | 1874 |
+| Everest | 8,850 meters | Asia | 1953 |
+| Kilimanjaro | 5,895 meters | Africa | 1889 |
+| Puncak Jaya  | 4,884 meters | Australia | 1962 |
+| Vinson  | 4,897 meters | Antarctica | 1966 |
+```
+
+The output looks like this:
+
+| Name | Elevation | Continent | First summit |
+| --- | --- | --- | --- |
+| Aconcagua | 6,961 meters | South America | 1897 |
+| Denali | 6,194 meters | North America | 1913 |
+| Elbrus | 5,642 meters | Europe | 1874 |
+| Everest | 8,850 meters | Asia | 1953 |
+| Kilimanjaro | 5,895 meters | Africa | 1889 |
+| Puncak Jaya  | 4,884 meters | Australia | 1962 |
+| Vinson  | 4,897 meters | Antarctica | 1966 |
+
+### Alignment
+
+You can align text in the columns to the left, right, or centre by adding a colon (`:`) to the left, right, or both sides of the hyphens within the header row. For example:
+
+```
+| Name | Elevation (meters) | Continent | First summit |
+| :--- | ---: | :---: | ---: |
+| Aconcagua | 6,961 | South America | 1897 |
+| Denali | 6,194 | North America | 1913 |
+| Elbrus | 5,642 | Europe | 1874 |
+| Everest | 8,850 | Asia | 1953 |
+| Kilimanjaro | 5,895 | Africa | 1889 |
+| Puncak Jaya  | 4,884 | Australia | 1962 |
+| Vinson  | 4,897 | Antarctica | 1966 |
+```
+
+The output looks like this:
+
+| Name | Elevation (meters) | Continent | First summit |
+| :--- | ---: | :---: | ---: |
+| Aconcagua | 6,961 | South America | 1897 |
+| Denali | 6,194 | North America | 1913 |
+| Elbrus | 5,642 | Europe | 1874 |
+| Everest | 8,850 | Asia | 1953 |
+| Kilimanjaro | 5,895 | Africa | 1889 |
+| Puncak Jaya  | 4,884 | Australia | 1962 |
+| Vinson  | 4,897 | Antarctica | 1966 |
+
 ### Table best practices
 
+You can format the text within tables. For example, you can add [emphasis](#emphasis), [links](#links), [images](#images), and [inline code](#inline-code) (not code blocks).
+
+You cannot use headings, blockquotes, lists, horizontal rules, or HTML tags.
 
 ## Horizontal rules
 
@@ -340,11 +403,11 @@ The output looks like this:
 You should also put blank lines before and after a horizontal rule for compatibility.
 
 ```
-Put a blank line before...
+Put a blank line before
 
 ---
 
-...and after a horizontal rule.
+And after a horizontal rule.
 ```
 
 ## Code blocks
