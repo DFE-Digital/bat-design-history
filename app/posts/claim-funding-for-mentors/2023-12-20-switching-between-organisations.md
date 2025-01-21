@@ -31,7 +31,7 @@ This type of organisation switcher pattern is also used on [GOV.UK Notify](https
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As a multi-academy trust,
+  description: "As a multi-academy trust (MAT),
 I need to  be able to submit claims on behalf of other schools within our trust,
 So that I can reduce the burden on schools to submit claims individually."
 }) }}
@@ -72,7 +72,7 @@ We use the organisation switcher pattern because it:
 
     By contrast, requiring a choice for every task provides no ongoing indication of the broader context.
 
-7. caters to power users
+7. caters to MAT users
 
     Users who manage multiple organisations will benefit significantly from the ability to set context once. They are likelier to perform several tasks within a single organisation before switching.
 
@@ -84,7 +84,7 @@ We use the organisation switcher pattern because it:
 
 9. aligns with established design patterns
 
-    Organisation switchers are standard in systems where users operate across multiple entities. For example, we use an organisation switcher on Publish and Register. Leveraging familiar patterns makes the service more intuitive and easier to adopt.
+    Organisation switchers are standard in services where users operate across multiple entities. For example, we use an organisation switcher on Publish and Register. Leveraging familiar patterns makes the service more intuitive and easier to adopt.
 
 10. encourages task completion
 
