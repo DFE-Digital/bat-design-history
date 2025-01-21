@@ -27,6 +27,7 @@ We used the same approach employed on other provider and school-facing services,
 - Register trainee teachers (Register)
 
 This type of organisation switcher pattern is also used on [GOV.UK Notify](https://www.notifications.service.gov.uk/) and is available in the [MOJ Design System](https://design-patterns.service.justice.gov.uk/components/organisation-switcher/).
+
 ## User need
 
 {% from "user-need/macro.njk" import appUserNeed %}
