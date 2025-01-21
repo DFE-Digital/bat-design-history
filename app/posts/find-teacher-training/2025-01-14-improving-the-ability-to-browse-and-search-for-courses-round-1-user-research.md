@@ -1,11 +1,11 @@
 ---
-title: Improving the ability to browse and search for courses - round 1 user research  
-description: User research testing new designs on Find for the homepage, filters, and location content. 
+title: Improving the ability to browse and search for courses - round 1 user research
+description: User research testing new designs on Find for the homepage, filters, and location content.
 date: 2025-01-14
 tags:
   - user research
-  - homepage 
-  - location 
+  - homepage
+  - location
   - filters
   - pre-filtering
 related:
@@ -32,7 +32,7 @@ The research aimed to test the user journey on Find using the new designs for th
 
 The designs aimed to help candidates navigate to a relevant and manageable list of search results.
 
-The research also aimed to test the location content on Find which aimed tomake candidates feel more informed when choosing a course.
+The research also aimed to test the location content on Find which aimed to make candidates feel more informed when choosing a course.
 
 ## Who we spoke to
 
@@ -52,11 +52,11 @@ We iterated the designs between interviews based on initial findings.
 
 ### Technical limitations
 
-The testing used a prototype in which some features were not functionable and occasionally required the researcher to guide the participant.
+The testing used a prototype in which some features were not functional and occasionally required the researcher to guide the participant.
 
 ### Limited scope
 
-The sessions focused primarily on the Find homepage and filters so did not provide a comprehensive view of the entire user journey.  
+The sessions focused primarily on the Find homepage and filters so did not provide a comprehensive view of the entire user journey.
 
 ## Key insights
 
@@ -78,23 +78,23 @@ International candidates noticed, and used, the visa sponsorship check box.
 
 International candidates preferred browsing by subject so that they can see what options are available.
 
-In contrast the domestic candidates preferred using the search box as they tended to already know what course they were looking for.  
+In contrast the domestic candidates preferred using the search box as they tended to already know what course they were looking for.
 
 #### Homepage recommendations
 
 Given that the homepage concept tested well for both domestic and international participants, we recommend that we continue to iterate and test homepage designs.
 
-We recommend that we explore adding advanced filters, and hint text to the ‘keywords’ field.
+We recommend that we explore adding advanced filters and hint text to the ‘keywords’ field.
 
 ### Subjects page
 
-When ‘Browse course by subject’ was selected, candidates were shown a refined version of the subjects’ page, where the subjects had been grouped, rather than listed alphabetically.
+When ‘Browse course by subject’ was selected, candidates were shown a refined version of the subjects page, where the subjects had been grouped, rather than listed alphabetically.
 
 Candidates preferred the subjects being grouped and could easily find the subject they were looking for. They understood terms such as STEM and humanities​ used in the group headings.
 
 The subjects had also been grouped so that those with bursaries were shown at the top. When looking at this page, candidates did not notice which course had bursaries.
 
-The designs were iterated to revert the style of the bursary content.  
+The designs were iterated to revert the style of the bursary content.
 
 ![screenshot of subjects page](subjects-page-round1.png)
 
@@ -118,7 +118,7 @@ When using the ‘sort-by’ options, participants reported that ‘distance’ 
 
 ‘Closing date’ was useful for some, but for others it wasn’t relevant as they would complete the application straight away.
 
-Other suggestions for ‘sort-by’ options included: fees, provider popularity or ranking, course length and start date.  
+Other suggestions for ‘sort-by’ options included: fees, provider popularity or ranking, course length and start date.
 
 #### Filters
 
@@ -128,17 +128,17 @@ The updated Degree Grade, Subject and Age filters were all understood.
 
 Some participants thought 'Qualifications' meant the qualifications they need to get onto the course, rather than what they will achieve on completion of the course.
 
-Candidates expected the apply filters button to be at the bottom of the list, so the designs were iterated to add it there.  
+Candidates expected the apply filters button to be at the bottom of the list, so the designs were iterated to add it there.
 
-One candidate also expected applied filter labels to present so that they could see what they had selected.  
+One candidate also expected applied filter labels to present so that they could see what they had selected.
 
 Candidates on mobile phones did not notice ‘show filters’ option until it was pointed out.
 
-#### Results page recommendations  
+#### Results page recommendations
 
-- we recommend that we continue to explore & test ‘sort-by’ options  
+- we recommend that we continue to explore & test ‘sort-by’ options
 - we recommend that we add the updated filters and the ‘apply filters’ button at the bottom of the list
-- we recommend that we explore the filters button on mobile devices to ensure it is visible  
+- we recommend that we explore the filters button on mobile devices to ensure it is visible
 
 ### Course page
 
@@ -148,23 +148,23 @@ We initially tested the page without a contents section and found participants w
 
 The designs were iterated to add a contents section.
 
-The page was also re-ordered so the most important information, such and fees and location, were at the top.  
+The page was also re-ordered so the most important information, such and fees and location, were at the top.
 
 #### Hyperlinks
 
- Participants reported they would like links to open in a new tab so that they don’t lose the page which they are on.  
+ Participants reported they would like links to open in a new tab so that they don’t lose the page which they are on.
 
 #### ‘About this course’ section
 
- Participants felt the ‘About this course’ section was unstructured, and they would skip past it when on the page.  
+ Participants felt the ‘About this course’ section was unstructured, and they would skip past it when on the page.
 
-#### Course page recommendations  
+#### Course page recommendations
 
-- we recommend reordering the page so that the information most important to candidates is at the top  
+- we recommend reordering the page so that the information most important to candidates is at the top
 - we recommend that all hyperlinks open in a new tab
-- we recommend that we review the ‘about this course’ section in upcoming research to determine how useful it is, and how we can improve it  
+- we recommend that we review the ‘about this course’ section in upcoming research to determine how useful it is, and how we can improve it
 
-### Location  
+### Location
 
 #### Results page content
 
@@ -182,13 +182,13 @@ However, once they read the ‘How placements work’ box, they were reassured.
 
 #### Salaried courses
 
-Salaried course pages referred to both g both ‘placement school’ and ‘employment school’.
+Salaried course pages referred to both ‘placement school’ and ‘employment school’.
 
 This caused confusion, leading candidates to think they were two separate things.
 
-Participants referred to placement schools on salaried courses as ‘employment schools’  
+Participants referred to placement schools on salaried courses as ‘employment schools’
 
-#### Location recommendations  
+#### Location recommendations
 
 - we recommend using the tested content as candidates understood it and felt reassured by it
 - we recommend changing the content to ‘employing school’ instead of ‘placement school’ for salaried courses. We will test this in future research rounds
@@ -197,7 +197,7 @@ Participants referred to placement schools on salaried courses as ‘employment 
 
 The design changes we are confident in will be going live in 2024/ early 2025.
 
-Design histories found here:  
+Design histories found here:
 
 - [Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
 - [Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
