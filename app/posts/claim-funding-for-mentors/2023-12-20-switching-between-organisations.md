@@ -37,6 +37,68 @@ I need to  be able to submit claims on behalf of other schools within our trust,
 So that I can reduce the burden on schools to submit claims individually."
 }) }}
 
+## Why we use this pattern
+
+We use the organisation switcher pattern because it:
+
+1. reduces cognitive load
+
+    Constantly asking users to select an organisation for every task increases their cognitive load, as they must repeatedly make the same decision.
+
+    The organisation switcher establishes a clear context for their actions, allowing users to focus on the tasks at hand without unnecessary interruptions.
+
+2. improves efficiency
+
+    Selecting an organisation once and working within that context eliminates repetitive steps, speeding up workflows.
+
+    This is particularly beneficial for tasks that require multiple actions (e.g., adding multiple users or claims within the same organisation).
+
+3. minimises errors
+
+      Repeatedly selecting an organisation for every task increases the risk of users accidentally choosing the wrong organisation, leading to errors.
+
+      With an organisation switcher, the context is set once and is visually reinforced, reducing the chance of mistakes.
+
+4. enhances consistency
+
+    Keeping users in a consistent organisational context aligns with how most people work – focusing on one area at a time before switching to another.
+
+    It avoids the disjointed experience of repeatedly confirming context, making the interaction smoother.
+
+5. supports task flow
+
+    Many tasks (for example, adding a mentor or making a claim) involve multiple sequential actions. With an organisation switcher, users can complete all related tasks within the same context without interruptions.
+
+    This streamlines processes, making the service feel intuitive and responsive.
+
+6. provides contextual awareness
+
+    The organisation switcher visually reinforces the active organisation context at all times. This ensures that users always know which organisation they work on, reducing confusion.
+
+    By contrast, requiring a choice for every task provides no ongoing indication of the broader context.
+
+7. caters to power users
+
+    Users who manage multiple organisations will benefit significantly from the ability to set context once, as they are more likely to perform several tasks within a single organisation before switching.
+
+    This approach supports their workflow without penalising them with unnecessary steps.
+
+8. reduces friction for common use cases
+
+    In many cases, users will likely focus on one organisation for an extended period. Requiring organisation selection for every task unnecessarily disrupts this natural workflow.
+
+    The switcher accommodates this common pattern while still allowing quick changes when necessary.
+
+9. aligns with established design patterns
+
+    Organisation switchers are a common pattern in systems where users operate across multiple entities. Leveraging familiar patterns makes the service more intuitive and easier to adopt.
+
+10. encourages task completion
+
+    Repeated organisation selection can feel burdensome and frustrating, potentially discouraging users from completing tasks.
+
+    An organisation switcher eliminates these unnecessary hurdles, encouraging users to complete their work efficiently.
+
 ## How it works
 
 ### Signing into the service
