@@ -4,6 +4,7 @@ description: We added a way for school users to manage other users in their orga
 date: 2023-12-18T12:02:00+00:00
 tags:
   - users
+  - permissions
 related:
   items:
     - text: Managing organisation users in Support
