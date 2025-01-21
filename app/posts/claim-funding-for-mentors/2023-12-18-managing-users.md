@@ -30,6 +30,9 @@ screenshots:
       src: users--remove-user.png
     - text: User removed success message
       src: users--remove-user-success.png
+eleventyComputed:
+  eleventyNavigation:
+    key: claim-funding-managing-users
 ---
 
 We added a way for school users to manage users belonging to their organisation.
