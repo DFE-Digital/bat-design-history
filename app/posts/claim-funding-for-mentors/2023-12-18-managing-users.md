@@ -158,3 +158,38 @@ The email address must be valid. If the user does not enter a valid email addres
 The email address must be unique to the organisation. If the user enters an email address that is already in use by another user, we show the error:
 
 > Email address already in use
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- preventing free email account addresses
+- telling users how we use DfE Sign-in
+- implementing a simple permissions structure
+
+### Preventing free email account addresses
+
+We considered preventing free email accounts like AOL, Gmail, Hotmail, Outlook, and Yahoo, but we did not implement this change because we did not observe a user need.
+
+### Telling users how we use DfE Sign-in
+
+Users can only sign in to the service with a DfE Sign-in account.
+
+The email address entered must match the one used in the invitation. We use the email address to link the organisation to the user.
+
+If the email address does not match, the user:
+
+- may not be able to sign in to the service
+- may be able to sign in to the service but not see the organisation’s part of the service
+
+We need to consider how we communicate this in our email notifications.
+
+### Implementing a simple permissions structure
+
+When users invite others to the service, they can carry out all tasks, including:
+
+- adding and removing users
+- managing mentors
+- making claims for funding
+
+We considered implementing a simple admin and user permission structure but did not observe a user need.
