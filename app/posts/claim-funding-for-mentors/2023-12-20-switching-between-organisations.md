@@ -28,13 +28,20 @@ We used the same approach employed on other provider and school-facing services,
 
 This type of organisation switcher pattern is also used on [GOV.UK Notify](https://www.notifications.service.gov.uk/) and is available in the [MOJ Design System](https://design-patterns.service.justice.gov.uk/components/organisation-switcher/).
 
-## User need
+## User needs
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
   description: "As a multi-academy trust (MAT),
 I need to  be able to submit claims on behalf of other schools within our trust,
 So that I can reduce the burden on schools to submit claims individually."
+}) }}
+
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a multi-academy trust (MAT),
+I need to be able to view claims across the different schools within our trust,
+So that we can manage the number of claims and funding across our trust."
 }) }}
 
 ## Why we use an organisation switcher
