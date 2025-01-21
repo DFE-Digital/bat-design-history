@@ -189,8 +189,9 @@
 
   pre,
   code {
-    background-color: govuk-colour("light-grey");
+    @include govuk-font($size: 19);
     font-family: monospace;
+    background-color: govuk-colour("light-grey");
   }
 
   pre {
