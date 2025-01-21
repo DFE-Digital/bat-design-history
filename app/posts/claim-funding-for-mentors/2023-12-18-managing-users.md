@@ -40,6 +40,34 @@ We added a way for school users to manage users belonging to their organisation.
 
 This functionality allows organisations to self-manage without intervention from DfE.
 
+## Why we delegate user management
+
+Allowing organisations to manage their users is beneficial for several reasons:
+
+1. Efficiency and reduced support overhead
+
+    Delegating user management to organisations removes the bottleneck of relying on support teams. This delegation significantly reduces response times for tasks like adding or removing users.
+
+2. Improved scalability
+
+    As the number of organisations and users grows, centralised support for user management becomes increasingly difficult to maintain. By decentralising this responsibility, the service can scale more effectively without overloading the support team.
+
+3. Empowerment and ownership
+
+    Allowing organisations to manage their users gives them greater control over their operations. This control fosters a sense of responsibility and ownership, leading to better governance and alignment with their needs.
+
+4. Improved security and compliance
+
+    Organisations that manage their users can implement security measures that align with their policies. For instance, they can immediately remove access when a team member leaves, reducing potential security risks.
+
+5. Cost savings
+
+    Reducing reliance on the support team for user management minimises operational costs. Support staff can focus on more complex tasks and troubleshooting rather than routine user administration.
+
+6. Better user experience
+
+    Users within the organisation experience less friction when their administrators can handle changes directly and quickly rather than through external support channels.
+
 ## How it works
 
 ### User list
