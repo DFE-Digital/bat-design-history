@@ -1,0 +1,16 @@
+.app-table {
+  .app-table__cell,
+  .app-table__header {
+    &--align-left{
+      text-align: left;
+    }
+
+    &--align-center {
+      text-align: center;
+    }
+
+    &--align-right {
+      text-align: right;
+    }
+  }
+}
