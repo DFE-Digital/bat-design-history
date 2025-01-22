@@ -18,7 +18,7 @@ related:
 
 Writing up your design work is a way of sharing your thinking, decisions, and processes with others. It helps demystify your approach, making it easier for teammates, stakeholders, or the wider community to understand the reasoning behind your choices. This transparency encourages better collaboration, feedback, and alignment, as others can see what you’ve done and why you’ve done it that way.
 
-For others, these write-ups can be practical examples, sparking ideas or helping them solve similar problems. They also contribute to collective learning, as people can compare approaches, see patterns, or adapt solutions to fit their needs.
+These write-ups can be practical examples for others, sparking ideas or helping them solve similar problems. They also contribute to collective learning, as people can compare approaches, see patterns, or adapt solutions to fit their needs.
 
 Openly publishing your work supports [designing in the open](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better) by showing that the process doesn’t need to be hidden or perfect. It normalises sharing work at all stages, fosters dialogue, and allows the community to build on each other’s contributions. This openness often leads to unexpected connections and insights from people who approach the work from different angles.
 
@@ -60,4 +60,4 @@ Openly documenting your work makes design more accessible.
 
 4. **Fosters innovation** – Publicly documenting and sharing your work allows others to build on your ideas, potentially sparking innovations and creative solutions.
 
-In short, writing up your design work benefits you and the broader community by promoting learning, collaboration, and innovation. It’s a powerful way to contribute to a culture of openness while advancing your skills and visibility as a designer.
+In short, writing up your design work benefits you and the broader community by promoting learning, collaboration, and innovation. It’s a powerful way to contribute to a culture of openness while advancing your skills.
