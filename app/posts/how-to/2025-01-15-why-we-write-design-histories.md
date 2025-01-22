@@ -12,6 +12,10 @@ related:
       href: https://dfedigital.blog.gov.uk/2020/09/01/design-history/
     - text: Making the most of design histories - DfE Digital blog
       href: https://dfedigital.blog.gov.uk/2024/12/04/making-the-most-of-design-histories/
+    - text: What is a design history?
+      href: https://x-govuk.github.io/govuk-design-history/introduction/
+    - text: DfE design histories
+      href: https://design-histories.education.gov.uk/
 ---
 
 > Writing forces you to slow down, focus your attention, and think deeply.—Shane Parrish, [Writing to think](https://fs.blog/writing-to-think/)
