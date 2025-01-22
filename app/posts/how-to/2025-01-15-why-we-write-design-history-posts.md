@@ -1,5 +1,5 @@
 ---
-title: Why we write design history posts
+title: Why we write design histories
 description: Writing up your design work is a way of sharing your thinking, decisions, and processes with others
 date: 2025-01-15
 related:
@@ -10,6 +10,8 @@ related:
       href: https://www.gov.uk/guidance/government-design-principles
     - text: Why and how we create design histories - DfE Digital blog
       href: https://dfedigital.blog.gov.uk/2020/09/01/design-history/
+    - text: Making the most of design histories - DfE Digital blog
+      href: https://dfedigital.blog.gov.uk/2024/12/04/making-the-most-of-design-histories/
 ---
 
 > Writing forces you to slow down, focus your attention, and think deeply.—Shane Parrish, [Writing to think](https://fs.blog/writing-to-think/)
