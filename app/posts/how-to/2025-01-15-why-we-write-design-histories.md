@@ -24,7 +24,7 @@ Writing up your design work is a way of sharing your thinking, decisions, and pr
 
 These write-ups can be practical examples for others, sparking ideas or helping them solve similar problems. They also contribute to collective learning, as people can compare approaches, see patterns, or adapt solutions to fit their needs.
 
-Openly publishing your work supports [designing in the open](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better) by showing that the process doesn’t need to be hidden or perfect. It normalises sharing work at all stages, fosters dialogue, and allows the community to build on each other’s contributions. This openness often leads to unexpected connections and insights from people who approach the work from different angles.
+Openly publishing your work supports [designing in the open](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better) by showing that the process does not need to be hidden or perfect. It normalises sharing work at all stages, fosters dialogue, and allows the community to build on each other’s contributions. This openness often leads to unexpected connections and insights from people who approach the work from different angles.
 
 Here’s a breakdown of why it’s a good idea and how it supports designing in the open:
 
