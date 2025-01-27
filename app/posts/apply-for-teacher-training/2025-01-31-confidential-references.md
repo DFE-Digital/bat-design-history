@@ -41,11 +41,13 @@ We added content to the start page where we ask if they can provide a reference:
 
 > You can choose whether Jane Doe should be able to see the contents of your reference  or if it should be confidential.  
 
+![Screenshot of referee screen](/apply-for-teacher-training/2025-01-31-confidential-references/confidential-references-referee.png)
+
 We added a new question to the flow:
 
-Can your reference be shared with [candidate name]?
+> Can your reference be shared with [candidate name]?
+![Screenshot of referee screen](/apply-for-teacher-training/2025-01-31-confidential-references/confidential-references-referee-yes-no.png)
 
-![Screenshot of referee screen](/apply-for-teacher-training/2025-01-31-confidential-references/confidential-references-referee.png)
 
 ### For providers
 
