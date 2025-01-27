@@ -48,7 +48,6 @@ We added a new question to the flow:
 > Can your reference be shared with [candidate name]?
 ![Screenshot of referee screen](/apply-for-teacher-training/2025-01-31-confidential-references/confidential-references-referee-yes-no.png)
 
-
 ### For providers
 
 We updated the table that Providers see in the Manage service that shows reference content to indicate whether a reference is confidential or not. There is a warning at the top of a candidate's reference and it's repeated in the table.
