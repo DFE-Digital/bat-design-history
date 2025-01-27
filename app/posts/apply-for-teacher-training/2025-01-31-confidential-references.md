@@ -31,7 +31,7 @@ We added:
 
 * When the candidate confirms their reference choice, we repeat the content ‘They can decide whether you will be able to see their reference or if it is confidential.’ 
 
-![Screenshot of candidate start screen](confidential-references-candidate-start-page.png)
+![Screenshot of candidate start screen](/apply-for-teacher-training/2025-01-31-confidential-references/confidential-references-candidate-start-page.png)
 
 ### For referees 
 
@@ -47,7 +47,7 @@ Can your reference be shared with [candidate name]?
 ### For providers 
 
 We updated the table that Providers see in the Manage service that shows reference content to indicate whether a reference is confidential or not. There is a warning at the top of a candidate's reference and it's repeated in the table.
-! [Screenshot of updated reference table in Manage](confidential-references-manage.png)
+![Screenshot of updated reference table in Manage](confidential-references-manage.png)
 
 We also added the confidentiality status, selected by the referee for the reference, in version 1.6 of the vendor API.
 
