@@ -28,21 +28,6 @@ related:
 
 This research aimed to test the iterations made based on the [research findings](/claim-funding-for-mentors/round-10-support-console-research-findings/) from the previous round of research on the payments, sampling and clawback journeys.
 
-## User needs addressed by this research
-
-{% from "user-need/macro.njk" import appUserNeed %}
-{{ appUserNeed({
-  description: "As a support user,
-  I need guidance on how to use the support console for payments, sampling and clawbacks,
-  So that I am able to successfully complete the required tasks."
-}) }}
-
-{{ appUserNeed({
-  description: "As a support user,
-  I need to know how to action claims,
-  So that I am able to complete tasks payments, sampling and clawbacks tasks relating to claims."
-}) }}
-
 ## Who we spoke to
 
 We spoke to 6 members of the support team who will be managing claims for the Claim funding for mentor training service via the support console.
