@@ -181,7 +181,7 @@ They expect to be able to assign claims to agents to help distribute the load.
 
 > *On our other claims service we can assign things to ourselves or give support to other agents. So how do we know who's working on what?*
 
->*How will we know which support agents are working on what? The activity log doesn’t cover > this.*
+>*How will we know which support agents are working on what? The activity log doesn’t cover this.*
 
 ### Recommended actions
 
