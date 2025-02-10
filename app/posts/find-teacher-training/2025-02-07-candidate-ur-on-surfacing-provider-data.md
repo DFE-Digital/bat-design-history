@@ -28,7 +28,7 @@ Test some designs with candidates gain insight into the following:
 {{ appUserNeed({
 description: "As a candidate,
 I need to identify the quality of different teacher training courses and providers,
-so that I apply to courses where I am more likely to be successful.”
+so that I apply to courses where I am more likely to be successful."
 }) }}
 
 ## Who we spoke to
