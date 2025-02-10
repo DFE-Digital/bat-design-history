@@ -1,6 +1,6 @@
 ---
-title: User research with candidates on surfacing provider data
-description: Detailing the first round of user research with candidates about surfacing provider data
+title: User research with candidates on showing provider data
+description: Detailing the first round of user research with candidates about showing provider data
 date: 2025-02-07
 tags:
   - research
