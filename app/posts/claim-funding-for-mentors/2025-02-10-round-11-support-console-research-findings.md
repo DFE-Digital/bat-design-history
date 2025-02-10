@@ -63,16 +63,16 @@ Several steps within the payments, sampling and clawback journeys are carried ou
 
 This round of research did not include several user groups involved in the end-to-end journey, including:
 
--	schools
--	accredited providers
--	Education and Skills Funding Agency (ESFA)
+- schools
+- accredited providers
+- Education and Skills Funding Agency (ESFA)
 
 In the absence of these user groups, we could not test:
 
--	communication with schools and providers relating to claims
--	communication with ESFA relating to payments and clawbacks
--	interactions with Zendesk relating to the above communications
--	interactions and usability of the CSV files
+- communication with schools and providers relating to claims
+- communication with ESFA relating to payments and clawbacks
+- interactions with Zendesk relating to the above communications
+- interactions and usability of the CSV files
 
 Therefore, this round of research only tests part of the end-to-end journey.
 
@@ -83,19 +83,19 @@ All research took place within the support console test environment.
 ### Scenario 1: Sending claims to the ESFA for payment
 
 > Imagine that schools have submitted their claims, and the claim window is now closed.
-> In order for the ESFA to pay schools their funding, the first step is for you to send them the submitted claims. 
+> In order for the ESFA to pay schools their funding, the first step is for you to send them the submitted claims.
 > Can you show me how you would do this?
 
 ### Scenario 2: Sending claims to providers for assurance
 
 > Imagine several months have passed, schools have been paid, and we now need to sample some of the claims (15%) to check that they are accurate.
-> The claims need to be sent to providers for sampling. 
+> The claims need to be sent to providers for sampling.
 > Please show me how you would go about doing this.
 
 ### Scenario 3: Uploading a provider’s sampling response
 
 > Imagine that the providers have now sent you their response via CSV in Zendesk.
-> You now need to update the support console with the provider’s response. 
+> You now need to update the support console with the provider’s response.
 > How would you do this?
 
 ### Scenario 4: Rejecting claims for clawback
@@ -110,17 +110,17 @@ All research took place within the support console test environment.
 
 ## Finding 1
 
-The playbook reduced the need for assistance when completing tasks. 
+The playbook reduced the need for assistance when completing tasks.
 
-In the previous round of research, participants didn’t have any instructions or training on how to use the support console. 
+In the previous round of research, participants didn’t have any instructions or training on how to use the support console.
 
-We observed support users being able to complete tasks without the need to ask questions. Instead they referred to the playbook. 
+We observed support users being able to complete tasks without the need to ask questions. Instead they referred to the playbook.
 
-The users reported: 
+The users reported:
 
--	The playbook is easy to follow, but it would be improved if the contents page linked to the content
--	It contains lots of information
--	The screenshots are really helpful
+- The playbook is easy to follow, but it would be improved if the contents page linked to the content
+- It contains lots of information
+- The screenshots are really helpful
 
 > *Playbook was useful, there was a lot of information and it's good to have it side by side whilst going through the process. Very thorough and easy to follow.*
 
@@ -140,29 +140,29 @@ Add warning component/content within claims in 'All claims' area to make support
 
 ## Finding 3
 
-It isn't clear from the 'All claims' page which claims are to be sent to ESFA ahead of sending them. 
+It isn't clear from the 'All claims' page which claims are to be sent to ESFA ahead of sending them.
 
 The operations manager expects to be able to check this before completing this action.
 
-Support users expected to be able to filter all claims to find claims that are to be sent to ESFA. 
+Support users expected to be able to filter all claims to find claims that are to be sent to ESFA.
 
 ### Recommended actions
 
--	Explore the use of a banner
--	Explore claims that have been sent to ESFA to be shown in payments sub menu, even though there is no action to take
--	Improve 'there are no claims waiting to be processed' content as this caused confusion
--	Provide additional guidance that all claims with the status "Submitted" are to be sent to the ESFA
+- Explore the use of a banner
+- Explore claims that have been sent to ESFA to be shown in payments sub menu, even though there is no action to take
+- Improve 'there are no claims waiting to be processed' content as this caused confusion
+- Provide additional guidance that all claims with the status "Submitted" are to be sent to the ESFA
 
 ## Finding 4
 
-Support users need to be able to quickly and easily understand the history of a claim and what actions have been taken by other support staff. 
+Support users need to be able to quickly and easily understand the history of a claim and what actions have been taken by other support staff.
 
-They expected to be able to view the claim history from each individual claim. 
+They expected to be able to view the claim history from each individual claim.
 
-When we asked how they would expect this to work they suggested: 
+When we asked how they would expect this to work they suggested:
 
--	To see the history displayed within the claim
--	A link to Zendesk of the history for the specific claim
+- To see the history displayed within the claim
+- A link to Zendesk of the history for the specific claim
 
 > *I have no way of confirming if this claim has been paid, where do I see that?*
 
@@ -170,12 +170,12 @@ When we asked how they would expect this to work they suggested:
 
 ### Key considerations for Finding 4
 
--	The testing took place without interacting with Zendesk. If they had this open, would this reduce this need?
--	Support users said flicking between the 2 services might be a bit confusing. However, this wasn't tested so it's an assumption, not an evidence based need.
+- The testing took place without interacting with Zendesk. If they had this open, would this reduce this need?
+- Support users said flicking between the 2 services might be a bit confusing. However, this wasn't tested so it's an assumption, not an evidence based need.
 
 ## Finding 5
 
-Head of operations and product lead were concerned about how multiple agents are going to manage a high volume of claims. 
+Head of operations and product lead were concerned about how multiple agents are going to manage a high volume of claims.
 
 They expect to be able to assign claims to agents to help distribute the load.
 
@@ -191,7 +191,7 @@ For example, how much information is required to display the history of a claim?
 
 ## Findings 6
 
-Support users expect to contact the school after rejecting a claim, not before as per our ‘to reject this claim, you must have’ instructions. 
+Support users expect to contact the school after rejecting a claim, not before as per our ‘to reject this claim, you must have’ instructions.
 
 > *If in communication with school, they'd say whether they agree or disagree. So I'd finish this process **then** send them an email saying it should be clawed back.*
 
@@ -211,13 +211,12 @@ All users acknowledged that accuracy when performing clawbacks is key. Therefore
 
 ### Recommended action
 
-There is already information displayed on the page relating to the number of hours they can clawback, for example: “Enter whole numbers up to 5 hours”. However, the participants didn’t associate the number of hours with the number of hours the mentor did. 
+There is already information displayed on the page relating to the number of hours they can clawback, for example: “Enter whole numbers up to 5 hours”. However, the participants didn’t associate the number of hours with the number of hours the mentor did.
 
 Therefore, the content needs to be clearer that this is number of hours the school originally claimed, rather than saying this is the maximum number of hours which can be clawed back.
 
 ## Next steps
 
-Once the actions are completed, a workshop should be carried out with the support team to ensure they are aware of the changes and are able to ask any questions relating to how the support console works. 
+Once the actions are completed, a workshop should be carried out with the support team to ensure they are aware of the changes and are able to ask any questions relating to how the support console works.
 
-As the changes are relatively minor, a further round of research may not be required. 
-
+As the changes are relatively minor, a further round of research may not be required.
