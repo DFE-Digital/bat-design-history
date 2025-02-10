@@ -6,23 +6,23 @@ tags:
   - research
   - find
   - candidates
-  -  provider performance data
+  - provider performance data
 ---
 
 ## Goals of the research
 
 ### Objective 1
 
-Understand what information candidates would find useful in relation to provider performance, and how they would use that information when deciding on a course  
+Understand what information candidates would find useful in relation to provider performance, and how they would use that information when deciding on a course
 
 ## Objective 2
 
 Test some designs with candidates gain insight into the following:
 
-- How candidates use the data to make their decision  
+- How candidates use the data to make their decision
 - Which data type is the most useful to them
 
-## User Need  
+## User Need
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
@@ -37,17 +37,17 @@ We spoke to 8 prospective domestic ITT candidates.
 
 ## Methodology
 
-We conducted 1:1 interviews which were 1 hour long.  
+We conducted 1:1 interviews which were 1 hour long.
 
-The first half of the session was exploratory. We discussed participants thoughts and expectations about provider performance data in the context of Find.  
+The first half of the session was exploratory. We discussed participants thoughts and expectations about provider performance data in the context of Find.
 
 The second half of the session was usability testing. We shared at a prototype which included 5 different ITT courses.
 
 The courses included the following provider performance data: Ofsted rating, success rate, offer rate and response time. All other elements of the course (subject, location etc.) were kept as similar as possible.
 
-We iterated the designs between interviews based on initial findings.  
+We iterated the designs between interviews based on initial findings.
 
-## Limitations  
+## Limitations
 
 ### Sample
 
@@ -77,20 +77,20 @@ When first testing the prototype, the accredited and training provider data was 
 
 ![About the provider initial](initial-provider-information.png)
 
-During the research sessions, it became clear that participants were unsure what pieces of data related to each provider.  
+During the research sessions, it became clear that participants were unsure what pieces of data related to each provider.
 
 After Participant 3, the design team split out the training provider and accredited provider with sub-heading. This made it clearer who the data relates to.
 
 ![About the provider post iteration](post-iteration.png)
-  
+
 ### Changes made to the “Apply for this course” banner
 
-Discussions were held within the internal team to determine what data could be shown.  
+Discussions were held within the internal team to determine what data could be shown.
 
-It was decided to show the number of applicants who have clicked to Apply, as this may be more helpful in helping candidates compare courses. Changes were made so that the information displayed the number of people who have applied.  
+It was decided to show the number of applicants who have clicked to Apply, as this may be more helpful in helping candidates compare courses. Changes were made so that the information displayed the number of people who have applied.
 
 ![number of people who have clicked to Apply](clicked-to-apply.png)
-  
+
 Additional information about the number of trainees who achieved QTS was displayed to provide context to the success rate
 
 ![percentage of trainees who achieved QTS](success-rate.png)
@@ -99,11 +99,11 @@ Additional information about the number of trainees who achieved QTS was display
 
 ### Success rate
 
-Participant found having data on the success rate to be an important piece of information when deciding which course to apply for. For some participants, the success rate was indicator to the quality of the course. The ideal success rate for participants is 80% or above.  
+Participant found having data on the success rate to be an important piece of information when deciding which course to apply for. For some participants, the success rate was indicator to the quality of the course. The ideal success rate for participants is 80% or above.
 
 ### Response time
 
-There was a mixed response when asked about the importance of the response time, with some factors being ranked as more important. Participants felt that knowing the response time is useful and reassuring. However, it would not be the most impactful factor in their decision.  
+There was a mixed response when asked about the importance of the response time, with some factors being ranked as more important. Participants felt that knowing the response time is useful and reassuring. However, it would not be the most impactful factor in their decision.
 
 ### Offer rate
 
@@ -115,31 +115,31 @@ The Ofsted report held somewhat importance to participants as it allowed them to
 
 ### Number of applicants
 
-Knowing how many candidates have applied to the course made participants feel informed when making the decision. From this data, participants made assumptions as to whether too few people have applied, and whether the course will be funded.  
+Knowing how many candidates have applied to the course made participants feel informed when making the decision. From this data, participants made assumptions as to whether too few people have applied, and whether the course will be funded.
 
 ### More consideration is needed for users with access needs
 
-Some aspects of the layout and the way text is presented is not user friendly to participants with accessibility needs. For example, one participant struggled to read the blue highlighted. In addition to this, the background of the screen was too bright, therefore they had to use a screen dimmer when reading the information.  
+Some aspects of the layout and the way text is presented is not user friendly to participants with accessibility needs. For example, one participant struggled to read the blue highlighted. In addition to this, the background of the screen was too bright, therefore they had to use a screen dimmer when reading the information.
 
 ### Courses with missing data are seen as less desirable
 
-Some participants understood why a course might not have pieces of data, but it still left concern.  
+Some participants understood why a course might not have pieces of data, but it still left concern.
 
 The absence of offer rate information is off-putting for some participants and would impact their decision when choosing a course.  This created the assumption that the course is new, making it less likely to be picked a first choice. Some participants would seek additional information from the provider.
 
-Not being able to view an Ofsted report would deter some participants. There is an assumption that the course is newer and might not be up to certain standards.  
+Not being able to view an Ofsted report would deter some participants. There is an assumption that the course is newer and might not be up to certain standards.
 
 Participants were less likely to apply to a course that did not show their success rate. Some would assume that this is due to the course not running in the previous year, making them question if the course is well established.
 
-### Performance data is used alongside other metrics inform decision  
+### Performance data is used alongside other metrics inform decision
 
 Success rate data would be considered alongside the number of trainees and the number of people who have clicked apply.
 
-The offer rate has the potential to be more impactful when combined with the number of people who have applied. Additionally, it would be helpful for users to know the number of places available to use with the offer rate.  
+The offer rate has the potential to be more impactful when combined with the number of people who have applied. Additionally, it would be helpful for users to know the number of places available to use with the offer rate.
 
 ## Recommendations
 
-- Further testing is needed to ensure the webpage is accessible and the text is presented in a way that all users can read  
+- Further testing is needed to ensure the webpage is accessible and the text is presented in a way that all users can read
 
 - Further testing is needed on the utility of surfacing the QTS success rate for accredited providers, as the view of how importance this was varied between participants
 
