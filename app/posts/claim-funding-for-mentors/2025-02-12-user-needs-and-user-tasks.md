@@ -31,7 +31,7 @@ Of these, there are 5 high level user needs that address the problem that the Cl
 {{ appUserNeed({
   description: "As an ITT placement school,
 we need teachers to sign up to become mentors,  
-so that our trainee teachers are supported throughout their placements in becoming successful teachers .”
+so that our trainee teachers are supported throughout their placements in becoming successful teachers.”
 }) }}
 
 {{ appUserNeed({
