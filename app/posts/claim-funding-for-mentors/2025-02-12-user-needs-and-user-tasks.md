@@ -31,19 +31,19 @@ Of these, there are 5 high level user needs that address the problem that the Cl
 {{ appUserNeed({
   description: "As an ITT placement school,
 we need teachers to sign up to become mentors,  
-so that our trainee teachers are supported throughout their placements in becoming successful teachers.”
+so that our trainee teachers are supported throughout their placements in becoming successful teachers."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT placement school,
 we need support with mentoring,
-so that we can reduce the burden becoming a mentor has on our teachers and lesson time.”
+so that we can reduce the burden becoming a mentor has on our teachers and lesson time."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT placement school,
 we need support with mentoring,
-so that our teachers find becoming a mentor beneficial rather than a burden.”
+so that our teachers find becoming a mentor beneficial rather than a burden."
 }) }}
 
 {{ appUserNeed({
@@ -55,13 +55,13 @@ So that I am able to reduce the burden on schools having to submit claims indivi
 {{ appUserNeed({
   description: "As an ITT placement school,
   I need to be able to submit claims on behalf of other schools within our trust,
-so that any costs due to time taken out for mentor training is covered.”
+so that any costs due to time taken out for mentor training is covered."
 }) }}
 
 {{ appUserNeed({
-  description: " As an ITT provider,
+  description: "As an ITT provider,
 we need schools to understand the benefits of mentoring,
-so that their staff are encouraged to become a mentor and take part in the training we provide.”
+so that their staff are encouraged to become a mentor and take part in the training we provide."
 }) }}
 
 ## User tasks
