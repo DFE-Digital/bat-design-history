@@ -65,7 +65,9 @@ So that their staff are encouraged to become mentors and participate in the trai
 
 ## User tasks
 
-Throughout the private beta, we created a list of user tasks.
+Throughout the private beta, we created a list of user tasks. 
+
+A user task is a specific activity or set of activities that a user needs to perform to achieve a particular goal or complete a process, for instance submit a claim, or send claims for payment.
 
 Working with user tasks enabled the design and development team to create user journeys and features specific to our users’ tasks while keeping the service’s overarching user needs in mind.
 
