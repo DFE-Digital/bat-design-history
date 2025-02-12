@@ -7,17 +7,17 @@ tags:
   - user needs
   - user tasks
 related:
-items:
-  - text: Changes to the service’s start page
-    href: /claim-funding-for-mentors/changes-to-the-services-start-page/
-  - text: Round 9 multi-academy trust research findings
-    href: /claim-funding-for-mentors/round-9-multi-academy-trust-research-findings/
-  - text: Initial teacher training reform funding guidance
-    href: https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance
-  - text: Round 10 support console research findings
-    href: /claim-funding-for-mentors/round-10-support-console-research-findings/
-  - text: Round 11 support console research findings
-    href: /claim-funding-for-mentors/round-11-support-console-research-findings/
+  items:
+    - text: Changes to the service’s start page
+      href: /claim-funding-for-mentors/changes-to-the-services-start-page/
+    - text: Round 9 multi-academy trust research findings
+      href: /claim-funding-for-mentors/round-9-multi-academy-trust-research-findings/
+    - text: Initial teacher training reform funding guidance
+      href: https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance
+    - text: Round 10 support console research findings
+      href: /claim-funding-for-mentors/round-10-support-console-research-findings/
+    - text: Round 11 support console research findings
+      href: /claim-funding-for-mentors/round-11-support-console-research-findings/
 ---
 
 ## User needs
