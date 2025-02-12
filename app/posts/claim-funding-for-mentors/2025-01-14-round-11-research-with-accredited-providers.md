@@ -67,12 +67,7 @@ Usability of a low-fidelity prototype of the email they will receive inviting th
 
 ## Who we spoke to
 
-We spoke to a mix of participants from different accredited provider types based on geographical spread and size and participants who will be responsible for sampling claims:
-
-- Derby University
-- Liverpool Hope University
-- Nottingham Trent University
-- The Sheffield SCITT
+We spoke to a mix of participants from different accredited provider types based on geographical spread and size and participants who will be responsible for sampling claims.
 
 All participants we spoke to were responsible for managing and tracking mentoring data and will be responsible for sampling claims for Claim funding for mentor training.
 
@@ -112,7 +107,7 @@ We will update the sampling email content, informing providers of the sampling t
 
 We will include some guidance in the email on completing the ‘reason for not being assured’. We will monitor the quality of the responses within CSV files before making any further changes.
 
-Because providers need to see a list of submitted claims, the ability to download this data within the support console will remain. We will look at improving this so that it does not distract from the ability to complete key tasks within the console ([see previous round of research design history](/claim-funding-for-mentors/round-10-support-console-research-findings/)).
+Providers need to see a list of their submitted claims so the ability to download this data within the support console will remain. We will look at improving this so that it does not distract from the ability to complete key tasks within the console ([see previous round of research design history](/claim-funding-for-mentors/round-10-support-console-research-findings/)).
 
 *[CSV]: comma separated values
 *[SCITT]: school centred initial teacher training
