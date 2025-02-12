@@ -87,12 +87,9 @@ Below is an example of a user task for each user type and why we needed to know 
 
 #### Example school user task
 
-{% from "user-need/macro.njk" import appUserNeed %}
-{{ appUserNeed({
-  description: "As someone in an administrative or mentor role at a school,
+As someone in an administrative or mentor role at a school,
 I need to know what is required of me before I start a claim,
 so that I can prepare all the information required information ready before I start our claim.”
-}) }}
 
 #### How we used this user task
 
@@ -100,11 +97,9 @@ This user task underpinned our work on producing and iterating the service’s s
 
 #### Example multi-academy school user task
 
-{{ appUserNeed({
-  description: "As someone in an administrative or mentor role at a multi-academy trust,
+"As someone in an administrative or mentor role at a multi-academy trust,
 we need to be able to submit claims on behalf of other schools within our trust,
-so that we can reduce the burden on schools having to submit claims individually.”
-}) }}
+so that we can reduce the burden on schools having to submit claims individually.
 
 #### How we used this user task
 
@@ -112,11 +107,9 @@ We ensured in our user research plan for the private beta that we would undertak
 
 #### Example accredited provider user task
 
-{{ appUserNeed({
-  description: " As an accredited provider,
+"As an accredited provider,
 we need schools to understand the benefits of claiming funding and how it will support with mentoring and the training they are required to do,  
 so that they are encouraged to claim all the funding that they are entitled to and don't miss out, despite having busy schedules.”
-}) }}
 
 #### How we used this user task
 
@@ -124,11 +117,9 @@ We worked closely with accredited providers to ensure that the [guidance]( https
 
 #### Example accredited provider user task
 
-{{ appUserNeed({
-  description: " As a support user at the Department for Education (DfE),
+"As a support user at the Department for Education (DfE),
 I need to know what steps I need to take to send claims to the Education and Skills Funding Agency (ESFA) for payment,  
 so that I can quickly, confidently and accurately complete the task.”
-}) }}
 
 #### How we used this user task
 
