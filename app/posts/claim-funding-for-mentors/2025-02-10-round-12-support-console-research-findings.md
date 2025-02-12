@@ -67,31 +67,39 @@ All research took place within the support console test environment.
 
 ### Scenario 1: Sending claims to the ESFA for payment
 
-> Imagine that schools have submitted their claims, and the claim window is now closed.
-> In order for the ESFA to pay schools their funding, the first step is for you to send them the submitted claims.
-> Can you show me how you would do this?
+Imagine that schools have submitted their claims, and the claim window is now closed.
+
+In order for the ESFA to pay schools their funding, the first step is for you to send them the submitted claims.
+
+Can you show me how you would do this?
 
 ### Scenario 2: Sending claims to providers for assurance
 
-> Imagine several months have passed, schools have been paid, and we now need to sample some of the claims (15%) to check that they are accurate.
-> The claims need to be sent to providers for sampling.
-> Please show me how you would go about doing this.
+Imagine several months have passed, schools have been paid, and we now need to sample some of the claims (15%) to check that they are accurate.
+
+The claims need to be sent to providers for sampling.
+
+Please show me how you would go about doing this.
 
 ### Scenario 3: Uploading a provider’s sampling response
 
-> Imagine that the providers have now sent you their response via CSV in Zendesk.
-> You now need to update the support console with the provider’s response.
-> How would you do this?
+Imagine that the providers have now sent you their response via CSV in Zendesk.
+
+You now need to update the support console with the provider’s response.
+
+How would you do this?
 
 ### Scenario 4: Rejecting claims for clawback
 
-> Imagine a claim is incorrect, and it needs to be rejected in the support console.
-> Please show me how you would do this.
+Imagine a claim is incorrect, and it needs to be rejected in the support console.
+
+Please show me how you would do this.
 
 ### Scenario 5: Sending claims to the ESFA for clawback
 
-> You have rejected several claims based on the outcome of sampling, which means the funding needs to be reimbursed to ESFA.
-> Please show me how you would begin this process.
+You have rejected several claims based on the outcome of sampling, which means the funding needs to be reimbursed to ESFA.
+
+Please show me how you would begin this process.
 
 ## Finding 1
 
@@ -107,7 +115,7 @@ The users reported:
 - It contains lots of information
 - The screenshots are really helpful
 
-> *Playbook was useful, there was a lot of information and it's good to have it side by side whilst going through the process. Very thorough and easy to follow.*
+> Playbook was useful, there was a lot of information and it's good to have it side by side whilst going through the process. Very thorough and easy to follow.
 
 ### Recommend action
 
@@ -149,9 +157,9 @@ When we asked how they would expect this to work they suggested:
 - To see the history displayed within the claim
 - A link to Zendesk of the history for the specific claim
 
-> *I have no way of confirming if this claim has been paid, where do I see that?*
+> I have no way of confirming if this claim has been paid, where do I see that?
 
-> *Other services we have a place to put the Zendesk ticket - that can be good to keep track.*
+> Other services we have a place to put the Zendesk ticket - that can be good to keep track.
 
 ### Key considerations for Finding 4
 
@@ -164,9 +172,9 @@ Head of operations and product lead were concerned about how multiple agents are
 
 They expect to be able to assign claims to agents to help distribute the load.
 
-> *On our other claims service we can assign things to ourselves or give support to other agents. So how do we know who's working on what?*
+> On our other claims service we can assign things to ourselves or give support to other agents. So how do we know who's working on what?
 
->*How will we know which support agents are working on what? The activity log doesn’t cover this.*
+> How will we know which support agents are working on what? The activity log doesn’t cover this.
 
 ### Recommended actions
 
@@ -178,7 +186,7 @@ For example, how much information is required to display the history of a claim?
 
 Support users expect to contact the school after rejecting a claim, not before as per our ‘to reject this claim, you must have’ instructions.
 
-> *If in communication with school, they'd say whether they agree or disagree. So I'd finish this process **then** send them an email saying it should be clawed back.*
+> If in communication with school, they'd say whether they agree or disagree. So I'd finish this process **then** send them an email saying it should be clawed back.
 
 ### Recommended action
 
@@ -188,11 +196,11 @@ Change the content when a support user is rejecting a claim so it is clear when 
 
 All users acknowledged that accuracy when performing clawbacks is key. Therefore, they need an easy way of knowing the number of hours mentoring the mentor completed on the screen to be able to carry out the clawback calculation accurately.
 
-> *I can't remember from last time in relation to number of hours to clawback.*
+> I can't remember from last time in relation to number of hours to clawback.
 
-> *Link to Zendesk would be useful here.*
+> Link to Zendesk would be useful here.
 
-> *It should be clearer on this page to see the number of hours they actually did. I need to be sure I'm deducting the right amount of hours.*
+> It should be clearer on this page to see the number of hours they actually did. I need to be sure I'm deducting the right amount of hours.
 
 ### Recommended action
 
