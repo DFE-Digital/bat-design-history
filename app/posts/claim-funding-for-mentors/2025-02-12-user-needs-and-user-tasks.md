@@ -16,8 +16,8 @@ related:
       href: https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance
     - text: Round 10 support console research findings
       href: /claim-funding-for-mentors/round-10-support-console-research-findings/
-    - text: Round 11 support console research findings
-      href: /claim-funding-for-mentors/round-11-support-console-research-findings/
+    - text: Round 12 support console research findings
+      href: /claim-funding-for-mentors/round-12-support-console-research-findings/
 ---
 
 ## User needs
