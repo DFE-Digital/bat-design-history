@@ -13,12 +13,11 @@ items:
     - text: Round 9 multi-academy trust research findings
       href: /claim-funding-for-mentors/round-9-multi-academy-trust-research-findings/
     - text: Initial teacher training reform funding guidance
-      href: https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance 
+      href: https://www.gov.uk/government/publications/initial-teacher-training-reform-funding-guidance
     - text: Round 10 support console research findings
       href: /claim-funding-for-mentors/round-10-support-console-research-findings/
     - text: Round 11 support console research findings
       href: /claim-funding-for-mentors/round-11-support-console-research-findings/
-
 ---
 
 ## User needs
@@ -30,20 +29,20 @@ Of these, there are 5 high level user needs that address the problem that the Cl
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
   description: "As an ITT placement school,
-we need teachers to sign up to become mentors,  
-so that our trainee teachers are supported throughout their placements in becoming successful teachers."
+We need teachers to sign up to become mentors,
+So that our trainee teachers are supported throughout their placements in becoming successful teachers."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT placement school,
-we need support with mentoring,
-so that we can reduce the burden becoming a mentor has on our teachers and lesson time."
+We need support with mentoring,
+So that we can reduce the burden becoming a mentor has on our teachers and lesson time."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT placement school,
-we need support with mentoring,
-so that our teachers find becoming a mentor beneficial rather than a burden."
+We need support with mentoring,
+So that our teachers find becoming a mentor beneficial rather than a burden."
 }) }}
 
 {{ appUserNeed({
@@ -55,13 +54,13 @@ So that I am able to reduce the burden on schools having to submit claims indivi
 {{ appUserNeed({
   description: "As an ITT placement school,
   I need to be able to submit claims on behalf of other schools within our trust,
-so that any costs due to time taken out for mentor training is covered."
+So that any costs due to time taken out for mentor training is covered."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT provider,
-we need schools to understand the benefits of mentoring,
-so that their staff are encouraged to become a mentor and take part in the training we provide."
+We need schools to understand the benefits of mentoring,
+So that their staff are encouraged to become a mentor and take part in the training we provide."
 }) }}
 
 ## User tasks
@@ -82,14 +81,16 @@ When breaking down the journey into user tasks, we first identified all the user
 ### Associated user tasks
 
 For each user type we then identified every task through the journey they would need to undertake and why.
+
 The full list of user types is stored in the new Claim funding SharePoint.
+
 Below is an example of a user task for each user type and why we needed to know this information.
 
 #### Example school user task
 
-As someone in an administrative or mentor role at a school,
+“As someone in an administrative or mentor role at a school,
 I need to know what is required of me before I start a claim,
-so that I can prepare all the information required information ready before I start our claim.”
+So that I can prepare all the information required information ready before I start our claim.”
 
 #### How we used this user task
 
@@ -97,9 +98,9 @@ This user task underpinned our work on producing and iterating the service’s s
 
 #### Example multi-academy school user task
 
-"As someone in an administrative or mentor role at a multi-academy trust,
-we need to be able to submit claims on behalf of other schools within our trust,
-so that we can reduce the burden on schools having to submit claims individually.
+“As someone in an administrative or mentor role at a multi-academy trust,
+We need to be able to submit claims on behalf of other schools within our trust,
+So that we can reduce the burden on schools having to submit claims individually.”
 
 #### How we used this user task
 
@@ -107,9 +108,9 @@ We ensured in our user research plan for the private beta that we would undertak
 
 #### Example accredited provider user task
 
-"As an accredited provider,
-we need schools to understand the benefits of claiming funding and how it will support with mentoring and the training they are required to do,  
-so that they are encouraged to claim all the funding that they are entitled to and don't miss out, despite having busy schedules.”
+“As an accredited provider,
+We need schools to understand the benefits of claiming funding and how it will support with mentoring and the training they are required to do,
+So that they are encouraged to claim all the funding that they are entitled to and don't miss out, despite having busy schedules.”
 
 #### How we used this user task
 
@@ -117,12 +118,15 @@ We worked closely with accredited providers to ensure that the [guidance]( https
 
 #### Example accredited provider user task
 
-"As a support user at the Department for Education (DfE),
-I need to know what steps I need to take to send claims to the Education and Skills Funding Agency (ESFA) for payment,  
-so that I can quickly, confidently and accurately complete the task.”
+“As a support user at the Department for Education (DfE),
+I need to know what steps I need to take to send claims to the Education and Skills Funding Agency (ESFA) for payment,
+So that I can quickly, confidently and accurately complete the task.”
 
 #### How we used this user task
 
 We used this task to inform the creation of a playbook which details all the user tasks support users need to undertake.
 
-In addition, we conducted two rounds of user research with the support team, which informed iterations of the service. [First round](/claim-funding-for-mentors/round-10-support-console-research-findings/) and [second round](/claim-funding-for-mentors/round-11-support-console-research-findings/).
+In addition, we conducted two rounds of user research with the support team, which informed iterations of the service:
+
+- [First round](/claim-funding-for-mentors/round-10-support-console-research-findings/)
+- [second round](/claim-funding-for-mentors/round-11-support-console-research-findings/)
