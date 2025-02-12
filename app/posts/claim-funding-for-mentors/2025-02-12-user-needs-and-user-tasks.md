@@ -7,7 +7,7 @@ tags:
   - user needs
   - user tasks
 related:
-  items:
+items:
     - text: Changes to the service’s start page
       href: /claim-funding-for-mentors/changes-to-the-services-start-page/
     - text: Round 9 multi-academy trust research findings
