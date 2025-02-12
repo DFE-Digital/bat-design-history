@@ -25,7 +25,7 @@ related:
 
 During the Discovery phase, the team identified high level user needs related to mentoring. These are shared in the Product – Mentoring Disco folder in TWD-mentoring SharePoint.
 
-Of these, there are 5 high level user needs that address the problem that the Claim Funding for Mentor Training service (Claim) solves. 
+Of these, there are 5 high level user needs that address the problem that the Claim Funding for Mentor Training service (Claim) solves.
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
@@ -48,7 +48,7 @@ so that our teachers find becoming a mentor beneficial rather than a burden.”
 
 {{ appUserNeed({
   description: "As an ITT placement school,
-I need to know if any funding is available to support mentoring, 
+I need to know if any funding is available to support mentoring,
 So that I am able to reduce the burden on schools having to submit claims individually."
 }) }}
 
@@ -60,15 +60,15 @@ so that any costs due to time taken out for mentor training is covered.”
 
 {{ appUserNeed({
   description: " As an ITT provider,
-we need schools to understand the benefits of mentoring, 
+we need schools to understand the benefits of mentoring,
 so that their staff are encouraged to become a mentor and take part in the training we provide.”
 }) }}
 
-## User tasks 
+## User tasks
 
-Throughout private beta, we created a list of user tasks. 
+Throughout private beta, we created a list of user tasks.
 
-Working with user tasks enabled the design and development team to create user journeys and features specific to the tasks or that our users need to complete, whilst keeping the overarching user needs of the service in mind. 
+Working with user tasks enabled the design and development team to create user journeys and features specific to the tasks or that our users need to complete, whilst keeping the overarching user needs of the service in mind.
 
 ### User types
 
@@ -108,7 +108,7 @@ so that we can reduce the burden on schools having to submit claims individually
 
 #### How we used this user task
 
-We ensured in our user research plan for the private beta that we would undertake a [round](/claim-funding-for-mentors/round-9-multi-academy-trust-research-findings/) specifically with multi-academy trust users, to ensure that their user needs were met. 
+We ensured in our user research plan for the private beta that we would undertake a [round](/claim-funding-for-mentors/round-9-multi-academy-trust-research-findings/) specifically with multi-academy trust users, to ensure that their user needs were met.
 
 #### Example accredited provider user task
 
@@ -132,6 +132,6 @@ so that I can quickly, confidently and accurately complete the task.”
 
 #### How we used this user task
 
-We used this task to inform the creation of a playbook which details all the user tasks support users need to undertake. 
+We used this task to inform the creation of a playbook which details all the user tasks support users need to undertake.
 
-In addition, we conducted two rounds of user research with the support team, which informed iterations of the service. [First round](/claim-funding-for-mentors/round-10-support-console-research-findings/) and [second round](/claim-funding-for-mentors/round-11-support-console-research-findings/). 
+In addition, we conducted two rounds of user research with the support team, which informed iterations of the service. [First round](/claim-funding-for-mentors/round-10-support-console-research-findings/) and [second round](/claim-funding-for-mentors/round-11-support-console-research-findings/).
