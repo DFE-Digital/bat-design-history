@@ -1,7 +1,7 @@
 ---
 title: Updating the structure of the support user’s service
 description: Changes to the structure of our support site to allow for continued feature parity with all user groups
-date: 2024-08-15
+date: 2024-09-24
 tags:
   - support users
 ---
