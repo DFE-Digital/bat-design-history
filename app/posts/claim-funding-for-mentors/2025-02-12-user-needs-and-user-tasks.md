@@ -96,7 +96,7 @@ So that I can prepare all the required information before I start our claim.”
 
 #### How we used this user task
 
-This user task underpinned our work on producing and iterating the service’s start page [Changes to the service’s start page](/claim-funding-for-mentors/changes-to-the-services-start-page/) as well as informing our private beta and public beta communication plans.
+This user task underpinned our work on producing and iterating the service’s start page, which is detailed in this [design history](/claim-funding-for-mentors/changes-to-the-services-start-page/) as well as informing our private beta and public beta communication plans.
 
 #### Example multi-academy school user task
 
@@ -131,4 +131,4 @@ We used this task to inform the creation of a playbook which details all the use
 In addition, we conducted two rounds of user research with the support team, which informed iterations of the service:
 
 - [First round](/claim-funding-for-mentors/round-10-support-console-research-findings/)
-- [second round](/claim-funding-for-mentors/round-11-support-console-research-findings/)
+- [Second round](/claim-funding-for-mentors/round-11-support-console-research-findings/)
