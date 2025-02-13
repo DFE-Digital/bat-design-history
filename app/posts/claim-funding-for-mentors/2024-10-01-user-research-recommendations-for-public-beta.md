@@ -72,7 +72,7 @@ We should aim to recruit mentors who work in multi-academy trusts as part of the
 
 ### Next steps
 
-Conduct research with general mentors, as part of the MAT research roun, to validate that the service meets their needs.
+Conduct research with general mentors, as part of the MAT research round, to validate that the service meets their needs.
 
 One round of research will likely be sufficient as the findings didn’t differ across user types during our research.
 
