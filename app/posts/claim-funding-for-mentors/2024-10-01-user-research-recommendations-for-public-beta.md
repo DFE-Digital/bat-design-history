@@ -22,6 +22,8 @@ Users found the service easy to use, and any feedback we received was minor and 
 
 However, we identified four gaps in the private beta research that we should address in the public beta to validate and solidify our understanding of user needs.
 
+In addition, if the service continues beyond the 2024/25 academic year, research should be undertaken with the public beta users, to inform service improvements and iterations.
+
 ## 1. Research with Multi Academy Trusts (MATs)
 
 When talking to MATs, an emerging theme was that some of the participants, particularly those who were part of a large trust, said they would expect to be able to complete claims centrally on behalf of all schools within their trust.
@@ -39,7 +41,7 @@ Participants who said this told us that their MAT centrally deals with administr
 
 ### Next steps
 
-Recruitment of MATs, ensuring a demographic spread of:
+In preparation for a round of user research with MATs we need to ensure that we when we recruit them we have a spread of:
 
 - Small and large MATs (we suspect this need may differ depending on the size of the MAT)
 - Different role types, particularly those within strategic/administrative roles and therefore likely to make or encourage claims, such as:
@@ -58,6 +60,8 @@ While we tried to recruit general mentors and include them in our research for t
 
 Therefore, we were unable to include them in our research.
 
+We should aim to recruit mentors who work in multi-academy trusts as part of the the MAT research.
+
 ### User need
 
 {{ appUserNeed({
@@ -68,7 +72,7 @@ Therefore, we were unable to include them in our research.
 
 ### Next steps
 
-Conduct a small round of research with general mentors to validate that the service meets their needs.
+Conduct research with general mentors, as part of the MAT research roun, to validate that the service meets their needs.
 
 One round of research will likely be sufficient as the findings didn’t differ across user types during our research.
 
@@ -76,7 +80,7 @@ Therefore, we assume there will unlikely be any new findings or pain points.
 
 ## 3. Research with providers
 
-Due to strict timelines within the private beta, we could only conduct research with the 2 providers (NIoT and BPN) that are part of it.
+Due to strict timelines within the private beta, we could only conduct research with the 2 providers that are part of it.
 
 Our research found that providers' needs will differ depending on their size and level of ‘digital maturity’ (for example, how streamlined and efficient their digital processes for tracking and managing mentors are).
 
