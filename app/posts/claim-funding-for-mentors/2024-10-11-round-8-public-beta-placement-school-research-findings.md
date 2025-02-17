@@ -48,7 +48,6 @@ As the other issues listed above were minor, we recommend the public beta team c
 For this round of research, we attempted to recruit the following school types:
 
 - independent schools
-- free schools
 - local authority special schools
 - pupil referral units
 - further education colleges
