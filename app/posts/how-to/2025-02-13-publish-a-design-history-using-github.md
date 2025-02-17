@@ -36,7 +36,7 @@ The assumption for this guide is that you have absolutely nothing set up for git
 >
 > Now we diverge from our tree metaphor, because unlike real trees we merge our branches back into our trunk which would be somewhat unsettling in real life, and then everything that branch contains becomes part of our trunk and this cycle repeats ad infinitum, or until the the project is complete.
 >
-> ![branching.png](../../images/how-to/publish-a-design-history-using-github/branching.png)
+> ![branching.png](branching.png)
 >
 > For further reading see [Git Branch](https://www.atlassian.com/git/tutorials/using-branches)
 
@@ -46,15 +46,15 @@ To begin our design history, or make changes to an existing design history we’
 
 2. At the top of the page, click on the dropdown that says "**main ▼**", this will open a new dialog box.
 
-![main-branch-dropdown.png](../../images/how-to/publish-a-design-history-using-github/main-branch-dropdown.png)
+![main-branch-dropdown.png](main-branch-dropdown.png)
 
 3. Next we need to create a new branch to work from, enter a concise name for what you’ll be adding and then click on "**Create branch `your-concise-name` from main**"
 
-![create-branch.png](../../images/how-to/publish-a-design-history-using-github/create-branch.png)
+![create-branch.png](create-branch.png)
 
 4. Now you’ve created your branch and GitHub has helpfully changed to this branch instead of main.
 
-![branch-selector.png](../../images/how-to/publish-a-design-history-using-github/branch-selector.png)
+![branch-selector.png](branch-selector.png)
 
 > [!NOTE]
 > Your branch won’t disappear, and you can leave the site and come back to it at any stage. Any changes you make within this branch will be preserved. If you come back to GitHub at a later date and see that main is the current branch (see step 2) then you can switch to your branch by searching for it in the branch dialog box (see step 3) and clicking on its name.
@@ -65,19 +65,19 @@ Now that we’re on our branch, we need to create our file. Given that this guid
 
 1. Click on the "**app**" folder
 
-![click-on-app-folder.png](../../images/how-to/publish-a-design-history-using-github/click-on-app-folder.png)
+![click-on-app-folder.png](click-on-app-folder.png)
 
 2. Click on the "**posts**" folder
 
-![click-on-posts-folder.png](../../images/how-to/publish-a-design-history-using-github/click-on-posts-folder.png)
+![click-on-posts-folder.png](click-on-posts-folder.png)
 
 3. Click on the "**manage-school-placements**" folder (if you’re part of a different service, this is where you diverge ⤴️ up have a safe trip!)
 
-![click-on-manage-school-placements.png](../../images/how-to/publish-a-design-history-using-github/click-on-manage-school-placements.png)
+![click-on-manage-school-placements.png](click-on-manage-school-placements.png)
 
 4. You are now in the correct place!
 
-![correct-folder.png](../../images/how-to/publish-a-design-history-using-github/correct-folder.png)
+![correct-folder.png](correct-folder.png)
 
 ## Step 3 - Creating or editing your design history file
 
@@ -87,32 +87,32 @@ At this stage you are either creating a new design history, or editing an existi
 
 1. Click on "**Add file ▼**" (it’s on the top right of the page)
 
-![new-design-history-add-file.png](../../images/how-to/publish-a-design-history-using-github/new-design-history-add-file.png)
+![new-design-history-add-file.png](new-design-history-add-file.png)
 
 2. Click on "**Create new file**"
 
-![new-design-history-create.png](../../images/how-to/publish-a-design-history-using-github/new-design-history-create.png)
+![new-design-history-create.png](new-design-history-create.png)
 
 3. Name your file following the naming convention "**YYYY-MM-DD-your-file-name.md**", for example "**2024-12-04-support-console-changes.md**"
 
-![new-design-history-naming-convention.png](../../images/how-to/publish-a-design-history-using-github/new-design-history-naming-convention.png)
+![new-design-history-naming-convention.png](new-design-history-naming-convention.png)
 
 ### Editing an existing design history
 
 1. Click on the filename you wish to edit
 
-![editing-design-history-filename.png](../../images/how-to/publish-a-design-history-using-github/editing-design-history-filename.png)
+![editing-design-history-filename.png](editing-design-history-filename.png)
 
 2. Click on the pencil ✏️ (it’s on the top right of the page)
 
-![editing-design-history-pencil.png](../../images/how-to/publish-a-design-history-using-github/editing-design-history-pencil.png)
+![editing-design-history-pencil.png](editing-design-history-pencil.png)
 
 ## Step 4 - Writing your design history
 
 > [!NOTE]
 > The Github interactive editor uses markdown and supports two ways to view your content, Edit and Preview.
-> ![github-edit-mode.png](../../images/how-to/publish-a-design-history-using-github/github-edit-mode.png)
-> ![github-preview-mode.png](../../images/how-to/publish-a-design-history-using-github/github-preview-mode.png)
+> ![github-edit-mode.png](github-edit-mode.png)
+> ![github-preview-mode.png](github-preview-mode.png)
 > Your content must be written in the Markdown format to display correctly on the Design history website, this is very similar to your formatting options in Microsoft Word or other popular text editing software, however we don’t have buttons that we can press in this editor so we need to do it by hand instead.
 >
 > If you’re starting a brand-new document then I’d strongly recommend pasting in a template when you start to help set up the general flow of your document.
@@ -124,6 +124,49 @@ At this stage you are either creating a new design history, or editing an existi
 After following the previous steps you’ll now be in the interactive editor for GitHub, if you are not then please go back to the start of [Step 3 - Creating or editing your design history file](#step-3---creating-or-editing-your-design-history-file)
 
 1. Add the content for your design history
+
+### Adding an image to your design history
+
+1. Click on the "**app**" folder
+
+![click-on-app-folder.png](click-on-app-folder.png)
+
+2. Click on the "**images**" folder
+
+![images-folder.png](images-folder.png)
+
+3. Click on the "**manage-school-placements**" folder (or your service's folder)
+
+![manage-school-placements-folder.png](manage-school-placements-folder.png)
+
+4. Create or locate the folder that matches the name of your design history file, e.g. "**why-school-placements**"
+
+![why-school-placements.png](why-school-placements.png)
+
+5. Click on  "**Add file ▼**"
+
+![new-design-history-add-file.png](new-design-history-add-file.png)
+
+6. Click on "**Upload files**"
+
+![upload-files.png](upload-files.png)
+
+7. Drag your files into the box or click on "**choose your files**" to select them from your computer
+
+![choose-files.png](choose-files.png)
+
+8. Add a helpful message and click on "**Commit changes**"
+
+![commit-changes.png](commit-changes.png)
+
+9. You can now add your image to your design history by using the following Markdown syntax:
+
+```markdown
+![Description of image](your-image-name.png)
+```
+
+> [!IMPORTANT]
+> The image will not render in the Github preview, but it will render on the Design history website.
 
 ## Step 5 - Committing your changes
 
@@ -140,11 +183,11 @@ After following the previous steps you’ll now be in the interactive editor for
 
 1. Click on "**Commit changes…**"
 
-![commit-changes-button.png](../../images/how-to/publish-a-design-history-using-github/commit-changes-button.png)
+![commit-changes-button.png](commit-changes-button.png)
 
 2. Write a helpful message describing what you have added in your commit and click on "**Commit changes**"
 
-![commit-changes-confirm.png](../../images/how-to/publish-a-design-history-using-github/commit-changes-confirm.png)
+![commit-changes-confirm.png](commit-changes-confirm.png)
 
 ## Step 6 - Opening a pull request
 
@@ -153,23 +196,23 @@ After following the previous steps you’ll now be in the interactive editor for
 
 1. Navigate to the "**Pull requests**" tab
 
-![pull-requests-tab.png](../../images/how-to/publish-a-design-history-using-github/pull-requests-tab.png)
+![pull-requests-tab.png](pull-requests-tab.png)
 
 2. Click on "**New pull request**" (it’s on the top right of the page)
 
-![new-pull-request.png](../../images/how-to/publish-a-design-history-using-github/new-pull-request.png)
+![new-pull-request.png](new-pull-request.png)
 
 3. Click on "**compare: main**" and select your branch, e.g. "**msp-update-support-changes**"
 
-![compare-main.png](../../images/how-to/publish-a-design-history-using-github/compare-main.png)
+![compare-main.png](compare-main.png)
 
 4. Click on "**Create pull request**"
 
-![create-pull-request.png](../../images/how-to/publish-a-design-history-using-github/create-pull-request.png)
+![create-pull-request.png](create-pull-request.png)
 
 5. Optionally edit the title for the pull request and add a description, the click on "**Create pull request**"
 
-![edit-title.png](../../images/how-to/publish-a-design-history-using-github/edit-title.png)
+![edit-title.png](edit-title.png)
 
 ## Step 7 - Reviewing your pull request
 
@@ -179,15 +222,15 @@ To add an approval:
 
 1. Click on "**Files changed**"
 
-![files-changed.png](../../images/how-to/publish-a-design-history-using-github/files-changed.png)
+![files-changed.png](files-changed.png)
 
 2. Click on the "**Review changes**" dropdown (it’s on the top right of the page)
 
-![review-changes.png](../../images/how-to/publish-a-design-history-using-github/review-changes.png)
+![review-changes.png](review-changes.png)
 
 3. Click on "**Approve**" and then click on "**Submit review**"
 
-![approve.png](../../images/how-to/publish-a-design-history-using-github/approve.png)
+![approve.png](approve.png)
 
 ## Step 8 - Merging your pull request
 
@@ -195,7 +238,7 @@ When you have enough approvals (the specifics of this will vary on your team) yo
 
 1. Click on "**Merge pull request**"
 
-![merge.png](../../images/how-to/publish-a-design-history-using-github/merge.png)
+![merge.png](merge.png)
 
 > [!NOTE]
 > If you cannot click on "**Merge pull request**" you may need to ask someone technical to take a look, in general these checks shouldn’t fail.
