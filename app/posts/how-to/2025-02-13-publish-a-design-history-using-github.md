@@ -6,8 +6,6 @@ related:
   items:
 ---
 
-# Publish a design history using GitHub
-
 Contents:
 - [Introduction](#introduction)
 - [Step 1 - Branches](#step-1---branches)
@@ -29,7 +27,6 @@ The assumption for this guide is that you have absolutely nothing set up for git
 
 ## Step 1 - Branches
 
-> [!NOTE]
 > GitHub is an interface for a [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) system called [git](https://git-scm.com/), these are independent systems and are not related to one another.
 >
 > When using [git](https://git-scm.com/) we make use of a concept called branching, you can visualise this as a tree 🌲, we have the trunk of our tree which we usually call main, and then we have many branches that come from main, also known as feature branches, these will usually be named after what they’re for, e.g. `msp-support-changes`. As with most trees (some are weird 😬 ) we have one trunk and many branches.
@@ -56,7 +53,6 @@ To begin our design history, or make changes to an existing design history we’
 
 ![branch-selector.png](branch-selector.png)
 
-> [!NOTE]
 > Your branch won’t disappear, and you can leave the site and come back to it at any stage. Any changes you make within this branch will be preserved. If you come back to GitHub at a later date and see that main is the current branch (see step 2) then you can switch to your branch by searching for it in the branch dialog box (see step 3) and clicking on its name.
 
 ## Step 2 - Navigate to your desired folder
@@ -109,10 +105,11 @@ At this stage you are either creating a new design history, or editing an existi
 
 ## Step 4 - Writing your design history
 
-> [!NOTE]
 > The Github interactive editor uses markdown and supports two ways to view your content, Edit and Preview.
+>
 > ![github-edit-mode.png](github-edit-mode.png)
 > ![github-preview-mode.png](github-preview-mode.png)
+>
 > Your content must be written in the Markdown format to display correctly on the Design history website, this is very similar to your formatting options in Microsoft Word or other popular text editing software, however we don’t have buttons that we can press in this editor so we need to do it by hand instead.
 >
 > If you’re starting a brand-new document then I’d strongly recommend pasting in a template when you start to help set up the general flow of your document.
@@ -165,12 +162,10 @@ After following the previous steps you’ll now be in the interactive editor for
 ![Description of image](your-image-name.png)
 ```
 
-> [!IMPORTANT]
 > The image will not render in the Github preview, but it will render on the Design history website.
 
 ## Step 5 - Committing your changes
 
-> [!NOTE]
 > In git, a commit is a snapshot of work at a point of time. A commit can contain changes to one or many files and should be made regularly.
 >
 > A branch will have one or many commits that build a timeline of the work that has been done towards your desire outcomes.
@@ -191,7 +186,6 @@ After following the previous steps you’ll now be in the interactive editor for
 
 ## Step 6 - Opening a pull request
 
-> [!NOTE]
 > A pull request is a way for your colleagues to review the work you have done and suggest changes or give their approval before you publish your work to the Design history website.
 
 1. Navigate to the "**Pull requests**" tab
@@ -240,7 +234,6 @@ When you have enough approvals (the specifics of this will vary on your team) yo
 
 ![merge.png](merge.png)
 
-> [!NOTE]
 > If you cannot click on "**Merge pull request**" you may need to ask someone technical to take a look, in general these checks shouldn’t fail.
 
 That’s it! You’ve now published your design history to the Becoming a teacher design history website! 🎉
