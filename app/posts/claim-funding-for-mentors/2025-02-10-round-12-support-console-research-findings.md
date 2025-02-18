@@ -1,6 +1,6 @@
 ---
 title: Round 12 support console research findings
-description: Second round of research to understand how support users will use the payment, sampling and clawback processes
+description: Third round of research to understand how support users will use the payment, sampling and clawback processes
 date: 2025-02-10
 tags:
   - research
