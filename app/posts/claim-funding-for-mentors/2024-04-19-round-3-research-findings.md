@@ -73,9 +73,15 @@ The primary navigation is ordered with ‘Claims’ first and ‘Mentors’ seco
 
 Once users have submitted a claim with a selection of mentors for a provider, they are unsure what the next step is to claim a separate provider and include different mentors.
 
-Another problem they experienced was once making a different claim. Because we display all mentors and keep the ones they have already claimed for, they said figuring out which mentors they have already claimed for would get confusing.
+Another problem they experienced was once making a different claim. This is because during the research the prototype displayed all mentors and kept the ones they have already claimed for. As a result users said figuring out which mentors they have already claimed for would get confusing. This was because the prototype was not functioning properly.
 
 ## Next steps – post go live
+
+### Updating the prototype
+
+We will update the prototype to ensure that it is functioning properly during research. This will result in any mentor who has a claim for 20 hours with an accredited provider no longer being visible in the "submit a claim" journey for that provider. In addition, where a claim for fewer than 20 hours has been submitted, the remaining hours available to claim will be displayed to the user.
+
+### User research
 
 Throughout our research, we have identified some clear areas for further study. These areas include:
 
