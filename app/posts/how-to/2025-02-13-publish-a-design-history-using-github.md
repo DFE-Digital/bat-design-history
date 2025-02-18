@@ -5,6 +5,7 @@ date: 2025-02-13
 ---
 
 Contents:
+
 - [Introduction](#introduction)
 - [Step 1 - Branches](#step-1---branches)
 - [Step 2 - Navigate to your desired folder](#step-2---navigate-to-your-desired-folder)
