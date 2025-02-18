@@ -44,15 +44,15 @@ To begin or change our design history, we’ll need to create a new branch from 
 
 2. At the top of the page, select the dropdown that says “**main ▼**”; this will open a new dialogue box.
 
-![main-branch-dropdown.png](main-branch-dropdown.png)
+    ![main-branch-dropdown.png](main-branch-dropdown.png)
 
 3. Next, we need to create a new branch to work from, enter a concise name for what you’ll be adding and then select “**Create branch `your-concise-name` from main**”.
 
-![create-branch.png](create-branch.png)
+    ![create-branch.png](create-branch.png)
 
 4. Now you’ve created your branch, and GitHub has helpfully changed to this branch instead of ‘main’.
 
-![branch-selector.png](branch-selector.png)
+    ![branch-selector.png](branch-selector.png)
 
 > Your branch will not disappear; you can leave and return to the site anytime. GitHub will preserve any changes you make within this branch. If you return to GitHub later and see that ‘main’ is the current branch (see step 2), you can switch to your branch by searching for it in the branch dialogue box (see step 3) and selecting its name.
 
@@ -62,19 +62,19 @@ Now that we’re on our branch, we must create our file. We will use ‘Manage s
 
 1. Select the "**app**" folder
 
-![click-on-app-folder.png](click-on-app-folder.png)
+    ![click-on-app-folder.png](click-on-app-folder.png)
 
 2. Select the "**posts**" folder
 
-![click-on-posts-folder.png](click-on-posts-folder.png)
+    ![click-on-posts-folder.png](click-on-posts-folder.png)
 
 3. Select the “**manage-school-placements**” folder - if you’re part of a different service, choose the folder appropriate to your service
 
-![click-on-manage-school-placements.png](click-on-manage-school-placements.png)
+    ![click-on-manage-school-placements.png](click-on-manage-school-placements.png)
 
 4. You are now in the correct place
 
-![correct-folder.png](correct-folder.png)
+    ![correct-folder.png](correct-folder.png)
 
 ## Step 3 - Creating or editing your design history file
 
@@ -84,25 +84,25 @@ You are either creating a new or editing an existing design history at this stag
 
 1. Select “**Add file ▼**” - it’s on the top right of the page
 
-![new-design-history-add-file.png](new-design-history-add-file.png)
+    ![new-design-history-add-file.png](new-design-history-add-file.png)
 
 2. Select “**Create new file**”
 
-![new-design-history-create.png](new-design-history-create.png)
+    ![new-design-history-create.png](new-design-history-create.png)
 
-3. Name your file following the naming convention “**YYYY-MM-DD-your-file-name.md**”, for example “**2024-12-04-support-console-changes.md**”
+3. Name your file following the naming convention “**YYYY-MM-DD-your-file-name.md**”, for example “**2024-12-04-support-console-changes.md**”. The date should be the same as the date you use in the post.
 
-![new-design-history-naming-convention.png](new-design-history-naming-convention.png)
+    ![new-design-history-naming-convention.png](new-design-history-naming-convention.png)
 
 ### Editing an existing design history
 
 1. Select the filename you wish to edit
 
-![editing-design-history-filename.png](editing-design-history-filename.png)
+    ![editing-design-history-filename.png](editing-design-history-filename.png)
 
 2. Select the pencil ✏️ - it’s on the top right of the page
 
-![editing-design-history-pencil.png](editing-design-history-pencil.png)
+    ![editing-design-history-pencil.png](editing-design-history-pencil.png)
 
 ## Step 4 - Writing your design history
 
@@ -125,43 +125,43 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 1. Select the “**app**” folder
 
-![click-on-app-folder.png](click-on-app-folder.png)
+    ![click-on-app-folder.png](click-on-app-folder.png)
 
 2. Select the “**images**” folder
 
-![images-folder.png](images-folder.png)
+    ![images-folder.png](images-folder.png)
 
 3. Select the “**manage-school-placements**” folder - or your service's folder
 
-![manage-school-placements-folder.png](manage-school-placements-folder.png)
+    ![manage-school-placements-folder.png](manage-school-placements-folder.png)
 
 4. Create or locate the folder that matches the name of your design history file, for example, “**why-school-placements**”
 
-![why-school-placements.png](why-school-placements.png)
+    ![why-school-placements.png](why-school-placements.png)
 
 5. Select  “**Add file ▼**”
 
-![new-design-history-add-file.png](new-design-history-add-file.png)
+    ![new-design-history-add-file.png](new-design-history-add-file.png)
 
 6. Select “**Upload files**”
 
-![upload-files.png](upload-files.png)
+    ![upload-files.png](upload-files.png)
 
 7. Drag your files into the box or select “**choose your files**” to select them from your computer
 
-![choose-files.png](choose-files.png)
+    ![choose-files.png](choose-files.png)
 
 8. Add a helpful message and select “**Commit changes**”
 
-![commit-changes.png](commit-changes.png)
+    ![commit-changes.png](commit-changes.png)
 
 9. You can now add your image to your design history by using the following Markdown syntax:
 
-```markdown
-![Description of image](your-image-name.png)
-```
+    ```markdown
+    ![Description of image](your-image-name.png)
+    ```
 
-> The image will not render in the GitHub preview but on the design history website.
+    > The image will not render in the GitHub preview but on the design history website.
 
 ## Step 5 - Committing your changes
 
@@ -177,11 +177,11 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 1. Select “**Commit changes…**”
 
-![commit-changes-button.png](commit-changes-button.png)
+    ![commit-changes-button.png](commit-changes-button.png)
 
 2. Write a helpful message describing what you have added to your commit and select “**Commit changes**”
 
-![commit-changes-confirm.png](commit-changes-confirm.png)
+    ![commit-changes-confirm.png](commit-changes-confirm.png)
 
 ## Step 6 - Opening a pull request
 
@@ -189,41 +189,41 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 1. Navigate to the “**Pull requests**” tab
 
-![pull-requests-tab.png](pull-requests-tab.png)
+    ![pull-requests-tab.png](pull-requests-tab.png)
 
 2. Select “**New pull request**” - it’s on the top right of the page
 
-![new-pull-request.png](new-pull-request.png)
+    ![new-pull-request.png](new-pull-request.png)
 
 3. Select “**compare: main**” and select your branch, for example, “**msp-update-support-changes**”
 
-![compare-main.png](compare-main.png)
+    ![compare-main.png](compare-main.png)
 
 4. Select “**Create pull request**”
 
-![create-pull-request.png](create-pull-request.png)
+    ![create-pull-request.png](create-pull-request.png)
 
 5. Optionally edit the title for the pull request and add a description, then select “**Create pull request**”
 
-![edit-title.png](edit-title.png)
+    ![edit-title.png](edit-title.png)
 
 ## Step 7 - Reviewing your pull request
 
-1. Ask your colleagues to review your pull request and add any comments they have. If they are happy with your work, then they can add an approval.
+Ask your colleagues to review your pull request and add any comments they have. If they are happy with your work, then they can add an approval.
 
 To add an approval:
 
 1. Select “**Files changed**”
 
-![files-changed.png](files-changed.png)
+    ![files-changed.png](files-changed.png)
 
 2. Select the “**Review changes**” dropdown - it’s on the top right of the page
 
-![review-changes.png](review-changes.png)
+    ![review-changes.png](review-changes.png)
 
 3. Select “**Approve**” and then select “**Submit review**”
 
-![approve.png](approve.png)
+    ![approve.png](approve.png)
 
 ## Step 8 - Merging your pull request
 
@@ -231,8 +231,8 @@ When you have enough approvals (the specifics of which will vary among your team
 
 1. Select “**Merge pull request**”
 
-![merge.png](merge.png)
+    ![merge.png](merge.png)
 
-> If you cannot select “**Merge pull request**”, you may need to ask someone technical to take a look. In general, these checks shouldn’t fail.
+    > If you cannot select “**Merge pull request**”, you may need to ask someone technical to take a look. In general, these checks should not fail.
 
 That’s it. You’ve now published your design history on the BAT design history website.
