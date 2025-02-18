@@ -30,9 +30,9 @@ This guide assumes that you have nothing set up for GitHub. We will do everythin
 
 > GitHub is an interface for a [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) system called [git](https://git-scm.com/). These are independent systems and are not related to one another.
 >
-> When using [git](https://git-scm.com/), we make use of a concept called branching. You can visualise this as a tree 🌲. We have the trunk of our tree, which we usually call ‘main’, and then we have many branches that come from main, also known as feature branches. These will usually be named after what they’re for, for example,. `msp-support-changes`. As with most trees, we have one trunk and many branches.
+> When using [git](https://git-scm.com/), we make use of a concept called branching. You can visualise this as a tree. We have the trunk of our tree, which we usually call ‘main’, and then we have many branches that come from main, also known as feature branches. These will usually be named after what they’re for, for example,. `msp-update-support-changes`. As with most trees, we have one trunk and many branches.
 >
-> Now, we diverge from our tree metaphor because, unlike real trees, we merge our branches back into our trunk, which would be somewhat unsettling in real life, and then everything that branch contains becomes part of our trunk. This cycle repeats ad infinitum or until the project is complete.
+> Now, we diverge from our tree metaphor because, unlike real trees, we merge our branches back into our trunk, which would be somewhat unsettling in real life, and then everything that branch contains becomes part of our trunk. This cycle repeats until the project is complete.
 >
 > ![branching.png](branching.png)
 >
@@ -46,7 +46,7 @@ To begin or change our design history, we’ll need to create a new branch from 
 
     ![main-branch-dropdown.png](main-branch-dropdown.png)
 
-3. Next, we need to create a new branch to work from, enter a concise name for what you’ll be adding and then select “**Create branch `your-concise-name` from main**”.
+3. Next, we must create a new branch from which to work. Enter a concise name for what you’ll be adding and then select “**Create branch `your-concise-name` from main**”.
 
     ![create-branch.png](create-branch.png)
 
@@ -90,7 +90,7 @@ You are either creating a new or editing an existing design history at this stag
 
     ![new-design-history-create.png](new-design-history-create.png)
 
-3. Name your file following the naming convention “**YYYY-MM-DD-your-file-name.md**”, for example “**2024-12-04-support-console-changes.md**”. The date should be the same as the date you use in the post.
+3. Name your file following the naming convention “**YYYY-MM-DD-your-file-name.md**”, for example “**2024-12-04-support-console-changes.md**”. The date should be the same as the date you used in the post.
 
     ![new-design-history-naming-convention.png](new-design-history-naming-convention.png)
 
@@ -109,7 +109,7 @@ You are either creating a new or editing an existing design history at this stag
 > The Github interactive editor uses markdown and supports two ways to view your content: Edit and Preview.
 > ![github-edit-mode.png](github-edit-mode.png)
 > ![github-preview-mode.png](github-preview-mode.png)
-> You must write your content in Markdown format to display it correctly on the design history website. Markdown resembles your formatting options in Microsoft Word or other popular text editing software. However, we do not have buttons to press in this editor so we need to do it by hand instead.
+> You must write your content in Markdown format to display it correctly on the design history website. Markdown resembles your formatting options in Microsoft Word or other popular text editing software. However, we do not have buttons to press in this editor, so we need to do it by hand instead.
 >
 > If you’re starting a brand-new document, we recommend using a template to help set up the general flow of your document.
 >
@@ -117,7 +117,7 @@ You are either creating a new or editing an existing design history at this stag
 >
 > [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-After following the previous steps, you’ll now be in the interactive editor for GitHub, if you are not, then please go back to the start of [Step 3 - Creating or editing your design history file](#step-3---creating-or-editing-your-design-history-file)
+After following the previous steps, you’ll now be in the interactive editor for GitHub. If you are not, then please go back to the start of [Step 3 - Creating or editing your design history file](#step-3---creating-or-editing-your-design-history-file)
 
 1. Add the content for your design history
 
@@ -161,7 +161,7 @@ After following the previous steps, you’ll now be in the interactive editor fo
     ![Description of image](your-image-name.png)
     ```
 
-    > The image will not render in the GitHub preview but on the design history website.
+    The image will not render in the GitHub preview but on the design history website.
 
 ## Step 5 - Committing your changes
 
@@ -233,6 +233,6 @@ When you have enough approvals (the specifics of which will vary among your team
 
     ![merge.png](merge.png)
 
-    > If you cannot select “**Merge pull request**”, you may need to ask someone technical to take a look. In general, these checks should not fail.
+    If you cannot select “**Merge pull request**”, you may need to ask someone with knowledge of GitHub to help. In general, these checks should not fail.
 
-That’s it. You’ve now published your design history on the BAT design history website.
+That’s it. You’ve now published your design history post on the BAT design history website.
