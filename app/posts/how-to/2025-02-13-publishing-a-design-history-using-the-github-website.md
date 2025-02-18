@@ -1,6 +1,6 @@
 ---
 title: Publishing a design history using the GitHub website
-description: A step-by-step guide to publishing a design history on the Becoming a teacher design history website
+description: A step-by-step guide to publishing a design history via the GitHub website
 date: 2025-02-13
 ---
 
@@ -42,11 +42,11 @@ To begin or change our design history, we’ll need to create a new branch from 
 
 1. Open [https://github.com/DFE-Digital/bat-design-history](https://github.com/DFE-Digital/bat-design-history)
 
-2. At the top of the page, click on the dropdown that says “**main ▼**”; this will open a new dialogue box.
+2. At the top of the page, select the dropdown that says “**main ▼**”; this will open a new dialogue box.
 
 ![main-branch-dropdown.png](main-branch-dropdown.png)
 
-3. Next, we need to create a new branch to work from, enter a concise name for what you’ll be adding and then click on “**Create branch `your-concise-name` from main**”.
+3. Next, we need to create a new branch to work from, enter a concise name for what you’ll be adding and then select “**Create branch `your-concise-name` from main**”.
 
 ![create-branch.png](create-branch.png)
 
@@ -60,15 +60,15 @@ To begin or change our design history, we’ll need to create a new branch from 
 
 Now that we’re on our branch, we must create our file. We will use ‘Manage school placements’ as the example service, but you should be able to adapt these steps to your requirements.
 
-1. Click on the "**app**" folder
+1. Select the "**app**" folder
 
 ![click-on-app-folder.png](click-on-app-folder.png)
 
-2. Click on the "**posts**" folder
+2. Select the "**posts**" folder
 
 ![click-on-posts-folder.png](click-on-posts-folder.png)
 
-3. Click on the “**manage-school-placements**” folder - if you’re part of a different service, choose the folder appropriate to your service
+3. Select the “**manage-school-placements**” folder - if you’re part of a different service, choose the folder appropriate to your service
 
 ![click-on-manage-school-placements.png](click-on-manage-school-placements.png)
 
@@ -82,11 +82,11 @@ You are either creating a new or editing an existing design history at this stag
 
 ### Creating a new design history
 
-1. Click on “**Add file ▼**” - it’s on the top right of the page
+1. Select “**Add file ▼**” - it’s on the top right of the page
 
 ![new-design-history-add-file.png](new-design-history-add-file.png)
 
-2. Click on “**Create new file**”
+2. Select “**Create new file**”
 
 ![new-design-history-create.png](new-design-history-create.png)
 
@@ -96,11 +96,11 @@ You are either creating a new or editing an existing design history at this stag
 
 ### Editing an existing design history
 
-1. Click on the filename you wish to edit
+1. Select the filename you wish to edit
 
 ![editing-design-history-filename.png](editing-design-history-filename.png)
 
-2. Click on the pencil ✏️ - it’s on the top right of the page
+2. Select the pencil ✏️ - it’s on the top right of the page
 
 ![editing-design-history-pencil.png](editing-design-history-pencil.png)
 
@@ -123,15 +123,15 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 ### Adding an image to your design history
 
-1. Click on the “**app**” folder
+1. Select the “**app**” folder
 
 ![click-on-app-folder.png](click-on-app-folder.png)
 
-2. Click on the “**images**” folder
+2. Select the “**images**” folder
 
 ![images-folder.png](images-folder.png)
 
-3. Click on the “**manage-school-placements**” folder - or your service's folder
+3. Select the “**manage-school-placements**” folder - or your service's folder
 
 ![manage-school-placements-folder.png](manage-school-placements-folder.png)
 
@@ -139,19 +139,19 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 ![why-school-placements.png](why-school-placements.png)
 
-5. Click on  “**Add file ▼**”
+5. Select  “**Add file ▼**”
 
 ![new-design-history-add-file.png](new-design-history-add-file.png)
 
-6. Click on “**Upload files**”
+6. Select “**Upload files**”
 
 ![upload-files.png](upload-files.png)
 
-7. Drag your files into the box or click on “**choose your files**” to select them from your computer
+7. Drag your files into the box or select “**choose your files**” to select them from your computer
 
 ![choose-files.png](choose-files.png)
 
-8. Add a helpful message and click on “**Commit changes**”
+8. Add a helpful message and select “**Commit changes**”
 
 ![commit-changes.png](commit-changes.png)
 
@@ -175,11 +175,11 @@ After following the previous steps, you’ll now be in the interactive editor fo
 >
 > [Git commit | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
 
-1. Click on “**Commit changes…**”
+1. Select “**Commit changes…**”
 
 ![commit-changes-button.png](commit-changes-button.png)
 
-2. Write a helpful message describing what you have added to your commit and click on “**Commit changes**”
+2. Write a helpful message describing what you have added to your commit and select “**Commit changes**”
 
 ![commit-changes-confirm.png](commit-changes-confirm.png)
 
@@ -191,19 +191,19 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 ![pull-requests-tab.png](pull-requests-tab.png)
 
-2. Click on “**New pull request**” - it’s on the top right of the page
+2. Select “**New pull request**” - it’s on the top right of the page
 
 ![new-pull-request.png](new-pull-request.png)
 
-3. Click on “**compare: main**” and select your branch, for example, “**msp-update-support-changes**”
+3. Select “**compare: main**” and select your branch, for example, “**msp-update-support-changes**”
 
 ![compare-main.png](compare-main.png)
 
-4. Click on “**Create pull request**”
+4. Select “**Create pull request**”
 
 ![create-pull-request.png](create-pull-request.png)
 
-5. Optionally edit the title for the pull request and add a description, then click on “**Create pull request**”
+5. Optionally edit the title for the pull request and add a description, then select “**Create pull request**”
 
 ![edit-title.png](edit-title.png)
 
@@ -213,15 +213,15 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 To add an approval:
 
-1. Click on “**Files changed**”
+1. Select “**Files changed**”
 
 ![files-changed.png](files-changed.png)
 
-2. Click on the “**Review changes**” dropdown - it’s on the top right of the page
+2. Select the “**Review changes**” dropdown - it’s on the top right of the page
 
 ![review-changes.png](review-changes.png)
 
-3. Click on “**Approve**” and then click on “**Submit review**”
+3. Select “**Approve**” and then select “**Submit review**”
 
 ![approve.png](approve.png)
 
@@ -229,10 +229,10 @@ To add an approval:
 
 When you have enough approvals (the specifics of which will vary among your team), you can merge your work. Merging your pull request will update the design history website and make your design history visible to everyone.
 
-1. Click on “**Merge pull request**”
+1. Select “**Merge pull request**”
 
 ![merge.png](merge.png)
 
-> If you cannot click on “**Merge pull request**”, you may need to ask someone technical to take a look. In general, these checks shouldn’t fail.
+> If you cannot select “**Merge pull request**”, you may need to ask someone technical to take a look. In general, these checks shouldn’t fail.
 
 That’s it. You’ve now published your design history on the BAT design history website.
