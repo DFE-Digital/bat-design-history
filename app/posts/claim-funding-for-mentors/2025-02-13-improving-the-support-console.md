@@ -78,6 +78,7 @@ To complete the actions necessary for uploading, users need enough information t
 By showing the preview screen (when everything is correct and no validation is needed), the user can quickly and easily see the title and first five rows. This is enough information to validate at a glance that the correct spreadsheet csv is selected.
 
 ### Upload screen validation errors
+
 Screenshots showing the validation that appears firstly for column errors and then secondly, on a new screen, errors within the spreadsheet.
 
 ![Validation messages for incorrect columns](upload-validation-headers.png "Validation messages for incorrect columns")
