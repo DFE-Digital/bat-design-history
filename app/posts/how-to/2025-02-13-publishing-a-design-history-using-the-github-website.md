@@ -34,7 +34,7 @@ This guide assumes that you have nothing set up for GitHub. We will do everythin
 >
 > Now, we diverge from our tree metaphor because, unlike real trees, we merge our branches back into our trunk, which would be somewhat unsettling in real life, and then everything that branch contains becomes part of our trunk. This cycle repeats until the project is complete.
 >
-> ![branching.png](branching.png)
+> ![Screenshot showing git branching](branching.png)
 >
 > For further reading, see [Git Branch](https://www.atlassian.com/git/tutorials/using-branches)
 
@@ -44,15 +44,15 @@ To begin or change our design history, we’ll need to create a new branch from 
 
 2. At the top of the page, select the dropdown that says “**main ▼**”; this will open a new dialogue box.
 
-    ![main-branch-dropdown.png](main-branch-dropdown.png)
+    ![Screenshot showing the ‘main’ dropdown menu](main-branch-dropdown.png)
 
 3. Next, we must create a new branch from which to work. Enter a concise name for what you’ll be adding and then select “**Create branch `your-concise-name` from main**”.
 
-    ![create-branch.png](create-branch.png)
+    ![Screenshot showing a text input with a branch name entered](create-branch.png)
 
 4. Now you’ve created your branch, and GitHub has helpfully changed to this branch instead of ‘main’.
 
-    ![branch-selector.png](branch-selector.png)
+    ![Screenshot showing the ‘main’ dropdown menu text replaced with the branch name](branch-selector.png)
 
 > Your branch will not disappear; you can leave and return to the site anytime. GitHub will preserve any changes you make within this branch. If you return to GitHub later and see that ‘main’ is the current branch (see step 2), you can switch to your branch by searching for it in the branch dialogue box (see step 3) and selecting its name.
 
@@ -62,19 +62,19 @@ Now that we’re on our branch, we must create our file. We will use ‘Manage s
 
 1. Select the "**app**" folder
 
-    ![click-on-app-folder.png](click-on-app-folder.png)
+    ![Screenshot showing the file and folder list on GitHub](click-on-app-folder.png)
 
 2. Select the "**posts**" folder
 
-    ![click-on-posts-folder.png](click-on-posts-folder.png)
+    ![Screenshot highlighting the posts folder on GitHub](click-on-posts-folder.png)
 
 3. Select the “**manage-school-placements**” folder - if you’re part of a different service, choose the folder appropriate to your service
 
-    ![click-on-manage-school-placements.png](click-on-manage-school-placements.png)
+    ![Screenshot highlighting the manage school placements folder on GitHub](click-on-manage-school-placements.png)
 
 4. You are now in the correct place
 
-    ![correct-folder.png](correct-folder.png)
+    ![Screenshot showing the contents of the manage school placements folder on GitHub](correct-folder.png)
 
 ## Step 3 - Creating or editing your design history file
 
@@ -84,31 +84,31 @@ You are either creating a new or editing an existing design history at this stag
 
 1. Select “**Add file ▼**” - it’s on the top right of the page
 
-    ![new-design-history-add-file.png](new-design-history-add-file.png)
+    ![Screenshot showing the ‘add file’ dropdown menu](new-design-history-add-file.png)
 
 2. Select “**Create new file**”
 
-    ![new-design-history-create.png](new-design-history-create.png)
+    ![Screenshot showing the ‘create new file’ option highlighted](new-design-history-create.png)
 
 3. Name your file following the naming convention “**YYYY-MM-DD-your-file-name.md**”, for example “**2024-12-04-support-console-changes.md**”. The date should be the same as the date you used in the post.
 
-    ![new-design-history-naming-convention.png](new-design-history-naming-convention.png)
+    ![Screenshot showing where to name the file in the file location breadcrumb](new-design-history-naming-convention.png)
 
 ### Editing an existing design history
 
 1. Select the filename you wish to edit
 
-    ![editing-design-history-filename.png](editing-design-history-filename.png)
+    ![Screenshot showing the newly created file in the folder list on GitHub](editing-design-history-filename.png)
 
 2. Select the pencil ✏️ - it’s on the top right of the page
 
-    ![editing-design-history-pencil.png](editing-design-history-pencil.png)
+    ![Screenshot showing the ‘edit this file’ pencil on GitHub](editing-design-history-pencil.png)
 
 ## Step 4 - Writing your design history
 
 > The Github interactive editor uses markdown and supports two ways to view your content: Edit and Preview.
-> ![github-edit-mode.png](github-edit-mode.png)
-> ![github-preview-mode.png](github-preview-mode.png)
+> ![Screenshot showing the ‘edit’ file view on GitHub](github-edit-mode.png)
+> ![Screenshot showing the ‘preview’ file view on GitHub](github-preview-mode.png)
 > You must write your content in Markdown format to display it correctly on the design history website. Markdown resembles your formatting options in Microsoft Word or other popular text editing software. However, we do not have buttons to press in this editor, so we need to do it by hand instead.
 >
 > If you’re starting a brand-new document, we recommend using a template to help set up the general flow of your document.
@@ -125,35 +125,35 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 1. Select the “**app**” folder
 
-    ![click-on-app-folder.png](click-on-app-folder.png)
+    ![Screenshot highlighting the app folder on GitHub](click-on-app-folder.png)
 
 2. Select the “**images**” folder
 
-    ![images-folder.png](images-folder.png)
+    ![Screenshot highlighting the images folder on GitHub](images-folder.png)
 
 3. Select the “**manage-school-placements**” folder - or your service's folder
 
-    ![manage-school-placements-folder.png](manage-school-placements-folder.png)
+    ![Screenshot highlighting the manage school placements images folder on GitHub](manage-school-placements-folder.png)
 
 4. Create or locate the folder that matches the name of your design history file, for example, “**why-school-placements**”
 
-    ![why-school-placements.png](why-school-placements.png)
+    ![Screenshot highlighing the ‘why school placements’ image folder on GitHub](why-school-placements.png)
 
 5. Select  “**Add file ▼**”
 
-    ![new-design-history-add-file.png](new-design-history-add-file.png)
+    ![Screenshot showing the ‘add file’ dropdown menu](new-design-history-add-file.png)
 
 6. Select “**Upload files**”
 
-    ![upload-files.png](upload-files.png)
+    ![Screenshot showing the ‘upload files’ option highlighted](upload-files.png)
 
 7. Drag your files into the box or select “**choose your files**” to select them from your computer
 
-    ![choose-files.png](choose-files.png)
+    ![Screenshot showing a ‘Drag your files here to add them to your repository’ message and a ‘Choose your files’ link](choose-files.png)
 
 8. Add a helpful message and select “**Commit changes**”
 
-    ![commit-changes.png](commit-changes.png)
+    ![Screenshot showing a green button labelled ‘Commit changes’](commit-changes.png)
 
 9. You can now add your image to your design history by using the following Markdown syntax:
 
@@ -177,11 +177,11 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 1. Select “**Commit changes…**”
 
-    ![commit-changes-button.png](commit-changes-button.png)
+    ![Screenshot showing a grey button labelled ‘Cancel changes’ and a green button labelled ‘Commit changes’](commit-changes-button.png)
 
 2. Write a helpful message describing what you have added to your commit and select “**Commit changes**”
 
-    ![commit-changes-confirm.png](commit-changes-confirm.png)
+    ![Screenshot showing the ‘Commit changes’ form, which includes a text input for a commit message and a text area for an extended description](commit-changes-confirm.png)
 
 ## Step 6 - Opening a pull request
 
@@ -189,23 +189,23 @@ After following the previous steps, you’ll now be in the interactive editor fo
 
 1. Navigate to the “**Pull requests**” tab
 
-    ![pull-requests-tab.png](pull-requests-tab.png)
+    ![Screenshot showing the ‘Pull requests’ tab](pull-requests-tab.png)
 
 2. Select “**New pull request**” - it’s on the top right of the page
 
-    ![new-pull-request.png](new-pull-request.png)
+    ![Screenshot showing a green button labelled ‘New pull request’](new-pull-request.png)
 
 3. Select “**compare: main**” and select your branch, for example, “**msp-update-support-changes**”
 
-    ![compare-main.png](compare-main.png)
+    ![Screenshot showing a list of branches](compare-main.png)
 
 4. Select “**Create pull request**”
 
-    ![create-pull-request.png](create-pull-request.png)
+    ![Screenshot showing a message comparing changes between main and the user’s branch and a green button labelled ‘Create pull request’](create-pull-request.png)
 
 5. Optionally edit the title for the pull request and add a description, then select “**Create pull request**”
 
-    ![edit-title.png](edit-title.png)
+    ![Screenshot showing the ‘Open a pull request’ form, which includes a text input for a pull request title and a text area for a description](edit-title.png)
 
 ## Step 7 - Reviewing your pull request
 
@@ -215,15 +215,15 @@ To add an approval:
 
 1. Select “**Files changed**”
 
-    ![files-changed.png](files-changed.png)
+    ![Screenshot showing files changed in the pull request](files-changed.png)
 
 2. Select the “**Review changes**” dropdown - it’s on the top right of the page
 
-    ![review-changes.png](review-changes.png)
+    ![Screenshot showing a green button labelled ‘Review changes’](review-changes.png)
 
 3. Select “**Approve**” and then select “**Submit review**”
 
-    ![approve.png](approve.png)
+    ![Screenshot showing the ‘Finish your review’ form, which includes a text area for a comment and a list of radio buttons to describe your review including a comment, approve the pull request and request changes](approve.png)
 
 ## Step 8 - Merging your pull request
 
@@ -231,7 +231,7 @@ When you have enough approvals (the specifics of which will vary among your team
 
 1. Select “**Merge pull request**”
 
-    ![merge.png](merge.png)
+    ![Screenshot showing a green button labelled ‘Merge pull request’](merge.png)
 
     If you cannot select “**Merge pull request**”, you may need to ask someone with knowledge of GitHub to help. In general, these checks should not fail.
 
