@@ -20,7 +20,7 @@ The key areas following research were:
 - status tags
 - clawback journey
 
-As many of the team were new to the claims service, design and development also did a review of the console and noticed key areas of improvement. These were:
+As many of the public beta team were new to the claims service, design and development also did a review of the console and noticed key areas of improvement. These were:
 
 - upload screens
 - a manual process for adding providers response during auditing
@@ -30,7 +30,7 @@ As many of the team were new to the claims service, design and development also 
 
 ## Improve the status tags
 
-In user research with 3 members of the support team who will be managing claims, the status labels caused confusion. Due to the number of processes that involve others, it was important that the status tags explained who was in current ownership of the claim, whether that was the Payer (formally known as ESFA), the provider, the school or the support agent themselves. The recommendation from research was to make the label content more descriptive and clarify who requested or sent the information.
+In user research with 3 members of the support team who will be managing claims, the status labels caused confusion. Due to the number of processes that involve other colleagues, or third parties, e.g accredited providers, it was important that the status tags explained who was in current ownership of the claim, whether that was the Payer (formally known as ESFA), the provider, the school or the support agent themselves. The recommendation from research was to make the label content more descriptive and clarify who requested or sent the information.
 
 Before and after of status tags:
 
@@ -63,17 +63,17 @@ Support agents have four key moments where they need to upload spreadsheet files
 - auditing - upload provider response
 - clawbacks - upload payer response
 
-To complete the actions necessary for uploading, users need enough information to know they are uploading the correct csv, whether there are any errors in the csv, and what they are. We improved the user's ability to do this using validation messages and preview screens using patterns also used on services such as Gov Notify.
+To complete the actions necessary for uploading, users need enough information to know they are uploading the correct csv, whether there are any errors in the csv, and what they are. We improved the user's ability to do this using validation messages and preview screens using patterns also used on services such as [Gov Notify](https://www.notifications.service.gov.uk/).
 
 ### Before and after – upload preview
 
 #### Before
 
-![The before view of the upload screen.](upload-before.png "The before view of the upload screen")
+![A screenshot asking if the user wants to upload ESFA's response, with a green button allowing them to do so.](upload-before.png "The initial view of the upload screen")
 
 #### After
 
-![The changes to the upload screen.](upload-after.png "The changes to the upload screen")
+![A screenshot asking the user to confirm they want to upload the payer response, with a preview of the response csv included.](upload-after.png "The changes to the upload screen")
 
 By showing the preview screen (when everything is correct and no validation is needed), the user can quickly and easily see the title and first five rows. This is enough information to validate at a glance that the correct spreadsheet csv is selected.
 
@@ -121,7 +121,7 @@ Previously the school rejection journey contained no way of entering relevant in
 
 ## Activity log
 
-With the current activity log, there was no way of knowing which claims were included in a payment or clawback if they hadn't been entered using a CSV, as there would be no file to download.
+With the initial iteration of the activity log, there was no way of knowing which claims were included in a payment or clawback if they hadn't been entered using a CSV, as there would be no file to download.
 
 To improve the activity log, we ensured every action had a page where details could be viewed, any files could be downloaded, and any relevant emails could be resent.
 
