@@ -138,9 +138,6 @@ GitHub has an excellent, in-depth guide covering everything you can use Markdown
   </div>
 </details>
 
-
-
-
 After following the previous steps, you’ll now be in the interactive editor for GitHub. If you are not, then please go back to the start of [Step 3 - Creating or editing your design history file](#step-3---creating-or-editing-your-design-history-file)
 
 1. Add the content for your design history
