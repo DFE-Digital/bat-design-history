@@ -28,15 +28,24 @@ This guide assumes that you have nothing set up for GitHub. We will do everythin
 
 ## Step 1 - Branches
 
-> GitHub is an interface for a [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) system called [git](https://git-scm.com/). These are independent systems and are not related to one another.
->
-> When using [git](https://git-scm.com/), we make use of a concept called branching. You can visualise this as a tree. We have the trunk of our tree, which we usually call ‘main’, and then we have many branches that come from main, also known as feature branches. These will usually be named after what they’re for, for example,. `msp-update-support-changes`. As with most trees, we have one trunk and many branches.
->
-> Now, we diverge from our tree metaphor because, unlike real trees, we merge our branches back into our trunk, which would be somewhat unsettling in real life, and then everything that branch contains becomes part of our trunk. This cycle repeats until the project is complete.
->
-> ![Screenshot showing git branching](branching.png)
->
-> For further reading, see [Git Branch](https://www.atlassian.com/git/tutorials/using-branches)
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      What is git and GitHub?
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+GitHub is an interface for a [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) system called [git](https://git-scm.com/). These are independent systems and are not related to one another.
+
+When using [git](https://git-scm.com/), we make use of a concept called branching. You can visualise this as a tree. We have the trunk of our tree, which we usually call ‘main’, and then we have many branches that come from main, also known as feature branches. These will usually be named after what they’re for, for example,. `msp-update-support-changes`. As with most trees, we have one trunk and many branches.
+
+Now, we diverge from our tree metaphor because, unlike real trees, we merge our branches back into our trunk, which would be somewhat unsettling in real life, and then everything that branch contains becomes part of our trunk. This cycle repeats until the project is complete.
+
+![Screenshot showing git branching](branching.png)
+
+For further reading, see [Git Branch](https://www.atlassian.com/git/tutorials/using-branches)
+  </div>
+</details>
 
 To begin or change our design history, we’ll need to create a new branch from which to work. This branch is a safe place where you cannot harm existing work.
 
@@ -106,16 +115,31 @@ You are either creating a new or editing an existing design history at this stag
 
 ## Step 4 - Writing your design history
 
-> The Github interactive editor uses markdown and supports two ways to view your content: Edit and Preview.
-> ![Screenshot showing the ‘edit’ file view on GitHub](github-edit-mode.png)
-> ![Screenshot showing the ‘preview’ file view on GitHub](github-preview-mode.png)
-> You must write your content in Markdown format to display it correctly on the design history website. Markdown resembles your formatting options in Microsoft Word or other popular text editing software. However, we do not have buttons to press in this editor, so we need to do it by hand instead.
->
-> If you’re starting a brand-new document, we recommend using a template to help set up the general flow of your document.
->
-> GitHub has an excellent, in-depth guide covering everything you can use Markdown. This guide will answer most, if not all, of your questions.
->
-> [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      The GitHub interactive editor
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+The GitHub interactive editor uses Markdown and supports two ways to view your content: Edit and Preview.
+
+![Screenshot showing the ‘edit’ file view on GitHub](github-edit-mode.png)
+
+![Screenshot showing the ‘preview’ file view on GitHub](github-preview-mode.png)
+
+You must write your content in Markdown format to display it correctly on the design history website. Markdown resembles your formatting options in Microsoft Word or other popular text editing software. However, we do not have buttons to press in this editor, so we need to do it by hand instead.
+
+If you’re starting a brand-new document, we recommend using a template to help set up the general flow of your document.
+
+GitHub has an excellent, in-depth guide covering everything you can use Markdown. This guide will answer most, if not all, of your questions.
+
+[Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  </div>
+</details>
+
+
+
 
 After following the previous steps, you’ll now be in the interactive editor for GitHub. If you are not, then please go back to the start of [Step 3 - Creating or editing your design history file](#step-3---creating-or-editing-your-design-history-file)
 
