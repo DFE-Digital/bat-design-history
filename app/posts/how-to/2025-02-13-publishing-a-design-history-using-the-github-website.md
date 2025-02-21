@@ -47,7 +47,6 @@ For further reading, see [Git Branch](https://www.atlassian.com/git/tutorials/us
   </div>
 </details>
 
-
 To begin or change our design history, we’ll need to create a new branch from which to work. This branch is a safe place where you cannot harm existing work.
 
 1. Open [https://github.com/DFE-Digital/bat-design-history](https://github.com/DFE-Digital/bat-design-history)
