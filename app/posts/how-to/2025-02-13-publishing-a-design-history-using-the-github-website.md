@@ -31,21 +31,22 @@ This guide assumes that you have nothing set up for GitHub. We will do everythin
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      What is git and GitHub?
+      What are git and GitHub?
     </span>
   </summary>
   <div class="govuk-details__text">
 GitHub is an interface for a [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) system called [git](https://git-scm.com/). These are independent systems and are not related to one another.
 
-When using [git](https://git-scm.com/), we make use of a concept called branching. You can visualise this as a tree. We have the trunk of our tree, which we usually call ‘main’, and then we have many branches that come from main, also known as feature branches. These will usually be named after what they’re for, for example,. `msp-update-support-changes`. As with most trees, we have one trunk and many branches.
+When using [git](https://git-scm.com/), we use branching. You can visualise this as a tree. We have the trunk of our tree, which we usually call ‘main’, and then we have many branches that come from main, also known as feature branches. These will usually be named after what they’re for, for example,. `msp-update-support-changes`. As with most trees, we have one trunk and many branches.
 
-Now, we diverge from our tree metaphor because, unlike real trees, we merge our branches back into our trunk, which would be somewhat unsettling in real life, and then everything that branch contains becomes part of our trunk. This cycle repeats until the project is complete.
+Now, we diverge from our tree metaphor because, unlike real trees, we merge our branches back into our trunk. This would be somewhat unsettling in real life, but everything that branch contains becomes part of our trunk. This cycle repeats until the project is complete.
 
 ![Screenshot showing git branching](branching.png)
 
 For further reading, see [Git Branch](https://www.atlassian.com/git/tutorials/using-branches)
   </div>
 </details>
+
 
 To begin or change our design history, we’ll need to create a new branch from which to work. This branch is a safe place where you cannot harm existing work.
 
@@ -128,9 +129,9 @@ The GitHub interactive editor uses Markdown and supports two ways to view your c
 
 ![Screenshot showing the ‘preview’ file view on GitHub](github-preview-mode.png)
 
-You must write your content in Markdown format to display it correctly on the design history website. Markdown resembles your formatting options in Microsoft Word or other popular text editing software. However, we do not have buttons to press in this editor, so we need to do it by hand instead.
+You must write your content in Markdown format to display it correctly on the design history website. Markdown resembles your formatting options in Microsoft Word or other popular text editing software. However, we do not have buttons to press in this editor, so we must do it by hand instead.
 
-If you’re starting a brand-new document, we recommend using a template to help set up the general flow of your document.
+If you’re starting a new document, we recommend using a template to help you establish its general flow.
 
 GitHub has an excellent, in-depth guide covering everything you can use Markdown. This guide will answer most, if not all, of your questions.
 
@@ -244,7 +245,7 @@ To add an approval:
 
 3. Select “**Approve**” and then select “**Submit review**”
 
-    ![Screenshot showing the ‘Finish your review’ form, which includes a text area for a comment and a list of radio buttons to describe your review including a comment, approve the pull request and request changes](approve.png)
+    ![Screenshot showing the ‘Finish your review’ form, which includes a text area for a comment and a list of radio buttons to describe your review, including a comment, approve the pull request and request changes](approve.png)
 
 ## Step 8 - Merging your pull request
 
