@@ -125,9 +125,9 @@ The new withdrawal journey went live on 13 February 2025.
 
 We communicated this to providers through email and the January edition of the Becoming a Teacher newsletter, where we explained:
 
-  - providers should have background information to why the trainee has withdrawn to hand, before they start the withdrawal process
+- providers should have background information to why the trainee has withdrawn to hand, before they start the withdrawal process
 
-  - that answers will help us better understand withdrawal reasons and inform policy with the aim of increasing trainee retention
+- that answers will help us better understand withdrawal reasons and inform policy with the aim of increasing trainee retention
 
 ## How the legacy withdrawal data is managed
 
@@ -142,9 +142,10 @@ Withdrawals remain a manual process.
 A bulk withdrawals tool is not a feature on the Register roadmap for the 2024 to 2025 academic year.  However, higher education institution (HEI) providers will be able to use the new Register API for withdrawals in bulk for the upcoming 2025 to 2026 academic year.
 
 An updated withdrawals analytics dashboard in Looker Studio will help us:
-  - better understand the reason for withdrawals
-  - compare month-by-month withdrawal activity to establish where in the academic year is the peak withdrawal activity
-  - share findings with policy to see if there’s a way of increasing trainee retention
+
+- better understand the reason for withdrawals
+- compare month-by-month withdrawal activity to establish where in the academic year is the peak withdrawal activity
+- share findings with policy to see if there’s a way of increasing trainee retention
 
 ## Exploring the relationship between deferrals and withdrawals
 
