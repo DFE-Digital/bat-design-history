@@ -121,4 +121,4 @@ The new format performed well, but we noted some recommendations:
 
   This allows any nuance about whether they were advised or not to be determined in the subsequent questions.
 
-The new withdrawal journey is currently being shared with our stakeholders, and we aim to have it live before December 2024.
+The new withdrawal journey went live on 13 February 2025.
