@@ -63,7 +63,7 @@ Support agents have four key moments where they need to upload spreadsheet files
 - auditing - upload provider response
 - clawbacks - upload payer response
 
-To complete the actions necessary for uploading, users need enough information to know they are uploading the correct csv, whether there are any errors in the csv, and what they are. We improved the user's ability to do this using validation messages and preview screens using patterns also used on services such as [Gov Notify](https://www.notifications.service.gov.uk/).
+To complete the actions necessary for uploading, users need enough information to know they are uploading the correct CSV, whether there are any errors in the CSV, and what they are. We improved the user’s ability to do this using validation messages and preview screens using patterns also used on services such as [GOV.UK Notify](https://www.notifications.service.gov.uk/).
 
 ### Before and after – upload preview
 
@@ -75,7 +75,7 @@ To complete the actions necessary for uploading, users need enough information t
 
 ![A screenshot asking the user to confirm they want to upload the payer response, with a preview of the response csv included.](upload-after.png "The changes to the upload screen")
 
-By showing the preview screen (when everything is correct and no validation is needed), the user can quickly and easily see the title and first five rows. This is enough information to validate at a glance that the correct spreadsheet csv is selected.
+By showing the preview screen (when everything is correct and no validation is needed), the user can quickly and easily see the title and first five rows. This is enough information to validate at a glance that the correct spreadsheet CSV is selected.
 
 ### Upload screen validation errors
 
@@ -87,11 +87,11 @@ Screenshots showing the validation that appears firstly for column errors and th
 
 The header columns validation happens first, so that we can confirm that we are collecting the correct information. The second validation screen then looks at the subsequent rows to check the data. If there are errors, the support agent may need to reach back out to someone to find the correct information.
 
-Using this validation method helps the support user easily identify any issues in the csv.
+Using this validation method helps the support user easily identify any issues in the CSV.
 
-This format uses the same patterns seen on Gov Notify. However, to match with government services way of writing validation, the messages are phrased as ‘enter a’, rather than ‘not a’, which is the format used on Notify. Screenshot shows validation in Gov Notify.
+This format uses the same patterns seen on GOV.UK Notify. However, to match with government services way of writing validation, the messages are phrased as ‘enter a’, rather than ‘not a’, which is the format used on Notify. Screenshot shows validation in GOV.UK Notify.
 
-![Error formatting on Gov Notify](govuk-notify-error-format.png "Error formatting on Gov Notify")
+![Error formatting on GOV.UK Notify](govuk-notify-error-format.png "Error formatting on GOV.UK Notify")
 
 ## Clawback journey
 
@@ -121,16 +121,18 @@ Previously the school rejection journey contained no way of entering relevant in
 
 ## Activity log
 
-With the initial iteration of the activity log, there was no way of knowing which claims were included in a payment or clawback if they hadn't been entered using a CSV, as there would be no file to download.
+With the initial iteration of the activity log, there was no way of knowing which claims were included in a payment or clawback if they had not been entered using a CSV, as there would be no file to download.
 
 To improve the activity log, we ensured every action had a page where details could be viewed, any files could be downloaded, and any relevant emails could be resent.
 
-#### Activity log before
+### Activity log before
 
 ![Activity log before](activity-log-before.png "Activity log before")
 
-#### Activity log after
+### Activity log after
 
 ![New activity log](activity-log-new.png "New activity log")
 
 ![New activity log detail page](activity-log-new-detail.png "New activity log detail page")
+
+*[CSV]: comma separated values
