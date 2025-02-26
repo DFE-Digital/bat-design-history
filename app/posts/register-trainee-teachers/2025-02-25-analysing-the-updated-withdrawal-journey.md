@@ -23,7 +23,7 @@ The new withdrawal journey went live on 13 February 2025.
 We communicated this to providers through email and the January edition of the Becoming a Teacher newsletter, where we explained:
 
 - providers should have background information to why the trainee has withdrawn to hand, before they start the withdrawal process
-- that answers will help us better understand withdrawal reasons and inform policy with the aim of increasing teaaher trainee retention
+- that answers will help us better understand withdrawal reasons and inform policy with the aim of increasing teacher trainee retention
 
 ## How the legacy withdrawal data is managed
 
