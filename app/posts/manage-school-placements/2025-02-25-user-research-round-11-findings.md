@@ -48,7 +48,7 @@ The 'Generate and promote placements' concept was tested as a high-level storybo
 
 ### Insight 1
 
-Participants felt there was merit in some of the ideas surfaced in concepts 1 and 2:
+Participants felt there was merit in some of the ideas surfaced in concepts 1 and 2.
 
 #### Supporting detail and evidence
 
@@ -63,7 +63,7 @@ Participants felt there was merit in some of the ideas surfaced in concepts 1 an
 
 ### Insight 2
 
-Current ways of working are working:
+Current ways of working are working.
 
 #### Supporting detail and evidence
 
@@ -76,7 +76,7 @@ Current ways of working are working:
 
 ### Insight 3
 
-Offline communications and communications outside of our service will still exist:
+Offline communications and communications outside of our service will still exist.
 
 #### Supporting detail and evidence
 
@@ -88,7 +88,7 @@ Offline communications and communications outside of our service will still exis
 
 ### Insight 4
 
-Any new service is only as good as the data within it:
+Any new service is only as good as the data within it.
 
 #### Supporting detail and evidence
 
