@@ -16,7 +16,7 @@ related:
 
 In a previous piece of work, [Improving the withdrawals journey](/register-trainee-teachers/improving-the-withdrawals-journey), we redesigned and improved the way to collect specific reasons why people withdrew from initial teacher training (ITT) on Register trainee teachers (Register).
 
-We used research from [Understanding trainee withdrawals](/register-trainee-teachers/understanding-trainee-withdrawals) to understand the most common withdrawal reasons for trainee withdrawal lacked the specificity to create meaningful interventions.
+We used research from [Understanding trainee withdrawals](/register-trainee-teachers/understanding-trainee-withdrawals) to understand the most common withdrawal reasons for trainee withdrawal had lacked the specificity to create meaningful interventions.
 
 The new withdrawal journey went live on 13 February 2025.
 
