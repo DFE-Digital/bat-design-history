@@ -35,7 +35,7 @@ During the discovery phase, the team identified three distinct user groups invol
 
 ## ITT mentor user needs
 
-We identified the below user needs for ITT mentors:
+The below user needs for ITT mentors were identified:
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
