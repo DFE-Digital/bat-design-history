@@ -10,17 +10,15 @@ related:
   items:
    - text: How the discovery phrase works
      href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works/
-   - text: What to find out in a discovery
-     href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery/
    - text: User research in discovery
      href: https://www.gov.uk/service-manual/user-research/user-research-in-discovery/
 ---
 
 ## Why we did this
 
-One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about our users and their context." [What to find out in a discovery]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery).
+One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about our users and their context."
 
-In particular, the team should find out who the users are and what they are trying to do [user research in discovery]( https://www.gov.uk/service-manual/user-research/user-research-in-discovery).
+In particular, the team should find out who their users are and what they are trying to do [user research in discovery]( https://www.gov.uk/service-manual/user-research/user-research-in-discovery).
 
 ## Users
 
