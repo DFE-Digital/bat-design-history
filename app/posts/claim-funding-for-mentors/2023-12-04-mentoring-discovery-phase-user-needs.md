@@ -11,10 +11,10 @@ related:
   items:
    - text: How the discovery phrase works
      href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works
-    - text: What to find out in a discovery
-      href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery
-    - text: User research in discovery
-      href: https://www.gov.uk/service-manual/user-research/user-research-in-discovery
+   - text: What to find out in a discovery
+     href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery
+   - text: User research in discovery
+     href: https://www.gov.uk/service-manual/user-research/user-research-in-discovery
 ---
 ## Why we did this
 
