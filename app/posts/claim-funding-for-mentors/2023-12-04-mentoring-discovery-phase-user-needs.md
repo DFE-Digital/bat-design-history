@@ -10,16 +10,16 @@ tags:
 related:
   items:
    - text: How the discovery phrase works
-     href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works
+     href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works/
    - text: What to find out in a discovery
-     href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery
+     href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery/
    - text: User research in discovery
-     href: https://www.gov.uk/service-manual/user-research/user-research-in-discovery
+     href: https://www.gov.uk/service-manual/user-research/user-research-in-discovery/
 ---
 
 ## Why we did this
 
-One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to “start learning about our users and their context.” [What to find out in a discovery]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery).
+One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about our users and their context." [What to find out in a discovery]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery).
 
 In particular, the team should find out who the users are and what they are trying to do [user research in discovery]( https://www.gov.uk/service-manual/user-research/user-research-in-discovery).
 
@@ -85,7 +85,7 @@ The below user needs for ITT placement schools were identified:
 {{ appUserNeed({
   description: "As an ITT placement school,
 I need to regularly have trainee teachers within my school,
-So that I can create a pipeline of future teachers for my school; increase overall teaching capacity and promote a sense of whole school learning and increase teacher capability (CPD)."
+So that I can create a pipeline of future teachers for my school; increase overall teaching capacity and promote a sense of whole school learning and increase teacher capability(CPD)."
 }) }}
 
 {{ appUserNeed({
@@ -184,6 +184,6 @@ So that we ensure our mentors introduce trainees to concepts at the correct time
 
 ## Next steps
 
-By using these user groups and associated needs the private beta team were able to begin to understand what the users of Claim funding for mentor training wanted to achieve from the service.
+By using these user groups and associated needs the private beta team can understand what the users of Claim funding for mentor training want to achieve from the service.
 
-However, to help design and build the service the team needed to identify the user tasks that the users would undertake, So that schools could claim funding for their mentor training successfully, as well as ensuring that all relevant assurance checks were completed.
+However, to help design and build the service the team need to identify the user tasks that the users would undertake, so that schools can claim funding for their mentor training successfully, as well as ensuring that all relevant assurance checks were completed.
