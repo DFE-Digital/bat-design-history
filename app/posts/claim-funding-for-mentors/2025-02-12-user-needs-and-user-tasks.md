@@ -22,14 +22,13 @@ related:
       href: /claim-funding-for-mentors/mentoring-discovery-phase-user-needs/
     - text: Private beta user tasks
       href: /claim-funding-for-mentors/private-beta-user-tasks/
-
 ---
 
 ## User needs
 
 During the Discovery phase, the team identified high level user needs related to mentoring. These are detailed in [discovery user needs](/claim-funding-for-mentors/mentoring-discovery-phase-user-needs/).
 
-By referencing these user needs, the private beta team added six high level user needs that address the problem that the Claim Funding for Mentor Training service (Claim) solves.
+By referencing these user needs, the private beta team added six high level user needs that address the problem that the Claim funding for mentor training (Claim) service solves.
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
