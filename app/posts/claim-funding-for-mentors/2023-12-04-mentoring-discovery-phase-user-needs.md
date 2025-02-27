@@ -16,6 +16,7 @@ related:
    - text: User research in discovery
      href: https://www.gov.uk/service-manual/user-research/user-research-in-discovery
 ---
+
 ## Why we did this
 
 One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about our users and their context.” [What to find out in a discovery]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery).
@@ -29,7 +30,6 @@ During the discovery phase, the team identified three distinct user groups invol
 - mentors who undertake the training and support the trainees during their placement
 - schools that take trainee teachers on placements (placement schools)
 - accredited providers who are the legal entity accredited by the Department for Education (DfE) to deliver teacher training leading to qualified teacher status (QTS) and are responsible for developing the mentor training curriculum
--
 
 ## ITT mentor user needs
 
@@ -39,13 +39,13 @@ The below user needs for ITT mentors were identified:
 {{ appUserNeed({
   description: "As an ITT mentor,
 I need to secure time away from timetable,
-so that I can complete the appropriate amount of training for my needs, and I have the time to work my trainee regularly.”
+so that I can complete the appropriate amount of training for my needs, and I have the time to work my trainee regularly."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT mentor,
 I need to begin my training before my mentor starts their placement,
-so that I can spread my mentor training over a longer period and thus alleviate pressure on timetable, as well as ensuring I feel prepared to mentor.”
+so that I can spread my mentor training over a longer period and thus alleviate pressure on timetable, as well as ensuring I feel prepared to mentor."
 }) }}
 
 {{ appUserNeed({
