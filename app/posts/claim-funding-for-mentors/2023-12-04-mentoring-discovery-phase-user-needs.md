@@ -3,9 +3,9 @@ title: Mentoring discovery phase user needs
 description: User needs identified during the mentoring discovery phase
 date: 2023-12-04
 tags:
-  - Discovery phase
-  - User groups
-  - User needs
+  - discovery phase
+  - user groups
+  - user needs
 related:
   items:
    - text: How the discovery phrase works
