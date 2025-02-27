@@ -18,7 +18,7 @@ related:
 ---
 ## Why we did this
 
-One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about our users and their context.” [What to find out in a discovery]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery). 
+One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about our users and their context.” [What to find out in a discovery]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works#what-to-find-out-in-discovery).
 
 In particular, the team should find out who the users are and what they are trying to do [user research in discovery]( https://www.gov.uk/service-manual/user-research/user-research-in-discovery).
 
@@ -29,7 +29,8 @@ During the discovery phase, the team identified three distinct user groups invol
 - mentors who undertake the training and support the trainees during their placement
 - schools that take trainee teachers on placements (placement schools)
 - accredited providers who are the legal entity accredited by the Department for Education (DfE) to deliver teacher training leading to qualified teacher status (QTS) and are responsible for developing the mentor training curriculum
-- 
+-
+
 ## ITT mentor user needs
 
 The below user needs for ITT mentors were identified:
@@ -55,7 +56,7 @@ so that I can complete 20-hrs of training around my schedule, as well as revisit
 
 {{ appUserNeed({
   description: "As an ITT mentor,
-I need to ensure my mentoring is not detrimental to my other duties, 
+I need to ensure my mentoring is not detrimental to my other duties,
 So that I can continue to support my school in a multitude of ways beyond classroom teaching."
 }) }}
 
@@ -67,13 +68,13 @@ so that I can offer trainees the best possible specialist guidance."
 
 {{ appUserNeed({
   description: "As an ITT mentor,
-I need to understand the expectations set on mentors, 
+I need to understand the expectations set on mentors,
 so that I can assess whether I have the capacity to deliver mentoring."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT mentor,
-I need to understand what training I need to do and when, 
+I need to understand what training I need to do and when,
 so that I can complete all the necessary training at the appropriate time."
 }) }}
 
@@ -89,19 +90,19 @@ so that I can create a pipeline of future teachers for my school; increase overa
 
 {{ appUserNeed({
   description: "As an ITT placement school,
-I need to find time for my teachers off timetable, 
+I need to find time for my teachers off timetable,
 so that staff can complete their mentor training and can complete their duties within their working hours."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT placement school,
-I need to find appropriate mentors from within my workforce, 
+I need to find appropriate mentors from within my workforce,
 so that I can ensure mentors can develop long term relationships with trainees thus improving capability."
 }) }}
 
 {{ appUserNeed({
   description: "As an ITT placement school,
-I need to evaluate trainee candidates prior to them starting, 
+I need to evaluate trainee candidates prior to them starting,
 so that I can ensure they understand the school's expectations of them and that they are committed to teaching as well as being the right fit for the school."
 }) }}
 
@@ -125,7 +126,7 @@ so that my staff do not have additional workload."
 
 {{ appUserNeed({
   description: "As an ITT placement school,
-I need to have access to a healthy supply teacher market, 
+I need to have access to a healthy supply teacher market,
 so that I can use DfE funds to cover mentor training time."
 }) }}
 
@@ -183,11 +184,6 @@ so that we ensure our mentors introduce trainees to concepts at the correct time
 
 ## Next steps
 
-By using these user groups and associated needs the private beta team were able to begin to understand what the users of Claim funding for mentor training wanted to achieve from the service. 
+By using these user groups and associated needs the private beta team were able to begin to understand what the users of Claim funding for mentor training wanted to achieve from the service.
 
 However, to help design and build the service the team needed to identify the user tasks that the users would undertake, so that schools could claim funding for their mentor training successfully, as well as ensuring that all relevant assurance checks were completed.
-
-
-
-
-
