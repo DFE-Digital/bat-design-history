@@ -6,7 +6,6 @@ tags:
   - Discovery phase
   - User groups
   - User needs
-  - User research
 related:
   items:
    - text: How the discovery phrase works
