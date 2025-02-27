@@ -14,15 +14,15 @@ related:
       href: /claim-funding-for-mentors/user-needs-and-user-tasks/
 ---
 
-As part of the handover from the discovery and alpha team, the private beta team reviewed the high-level [user needs](/claim-funding-for-mentors/mentoring-discovery-phase-user-needs/). 
+As part of the handover from the discovery and alpha team, the private beta team reviewed the high-level [user needs](/claim-funding-for-mentors/mentoring-discovery-phase-user-needs/).
 
 These user needs were broad and related to mentoring across both initial teacher training (ITT) and the early careers framework (ECF).
 
 By referencing these user needs, the private beta team added five high level user needs that address the problem that the Claim Funding for Mentor Training service (Claim) solves which are detailed in [user needs and user tasks](/claim-funding-for-mentors/user-needs-and-user-tasks).
 
-## User tasks 
+## User tasks
 
-Throughout private beta, we created a list of user tasks. Working with user tasks enabled the design and development team to create user journeys and features specific to the tasks or that our users need to complete, whilst keeping the overarching user needs of the service in mind. 
+Throughout private beta, we created a list of user tasks. Working with user tasks enabled the design and development team to create user journeys and features specific to the tasks or that our users need to complete, whilst keeping the overarching user needs of the service in mind.
 
 ### User types
 
@@ -35,7 +35,7 @@ When breaking down the journey into user tasks, we first identified all the user
 
 Below is the full list of user tasks for each user type.
 
-####  School user tasks
+#### School user tasks
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
@@ -93,7 +93,7 @@ so that the funding benefits us."
 
 }) }}
 
-####  Multi-academy school user tasks
+#### Multi-academy school user tasks
 
 {{ appUserNeed({
   description: "As someone in an administrative or mentor role at a multi-academy trust,
@@ -118,13 +118,13 @@ so that they are encouraged to claim all the funding that they are entitled to a
 
 {{ appUserNeed({
   description: "As an accredited provider,
-we need schools to understand the benefits of mentoring, 
+we need schools to understand the benefits of mentoring,
 so we get more buy-in from schools, who agree to become placement partners."
 }) }}
 
 {{ appUserNeed({
   description: "As an accredited provider,
-we need schools to understand the benefits of mentoring, 
+we need schools to understand the benefits of mentoring,
 so we get more buy-in from school staff to become mentors and attend training."
 }) }}
 
@@ -199,4 +199,3 @@ so that I am to complete the sampling and clawback processes as quickly as possi
 ## Next steps
 
 These user tasks will inform the design and build of the claim service so that schools can receive all the funding that they are entitled to for their ITT mentor training.
-
