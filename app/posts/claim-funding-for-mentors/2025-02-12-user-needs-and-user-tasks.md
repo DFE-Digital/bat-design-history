@@ -18,13 +18,18 @@ related:
       href: /claim-funding-for-mentors/round-10-support-console-research-findings/
     - text: Round 12 support console research findings
       href: /claim-funding-for-mentors/round-12-support-console-research-findings/
+    - text: Discovery phase user needs
+      href: /claim-funding-for-mentors/mentoring-discovery-phase-user-needs/
+    - text: Private beta user tasks
+      href: /claim-funding-for-mentors/private-beta-user-tasks/
+
 ---
 
 ## User needs
 
-During the Discovery phase, the team identified high level user needs related to mentoring. These are shared in the Product – Mentoring Disco folder in TWD-mentoring SharePoint.
+During the Discovery phase, the team identified high level user needs related to mentoring. These are detailed in [discovery user needs](/claim-funding-for-mentors/mentoring-discovery-phase-user-needs/).
 
-Of these, 5 high-level user needs address the problem that Claim funding for mentor training (Claim) solves.
+By referencing these user needs, the private beta team added six high level user needs that address the problem that the Claim Funding for Mentor Training service (Claim) solves.
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
