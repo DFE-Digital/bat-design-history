@@ -16,9 +16,14 @@ related:
 
 ## Why we did this
 
-One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about our users and their context."
+One of the key goals of a [discovery phase]( https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), is to "start learning about your users and their context."
 
-In particular, the team should find out who their users are and what they are trying to do [user research in discovery]( https://www.gov.uk/service-manual/user-research/user-research-in-discovery).
+In particular, the guidance detailed in [user research in discovery]( https://www.gov.uk/service-manual/user-research/user-research-in-discovery) states that dicovery user research should find out:
+
+- who your likely users are and what they’re trying to do
+- how they do it currently (for example, what services or channels they use)
+- the problems or frustrations they experience
+- what users need from your service to achieve their goal
 
 ## Users
 
