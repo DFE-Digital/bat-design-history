@@ -106,7 +106,6 @@ so that we can reduce the burden on schools having to submit claims individually
 we need to be able to view claims across the different schools within our trust,
 so that we can manage the number of claims and funding across our trust."
 }) }}
-}) }}
 
 #### Accredited ITT provider user tasks
 
