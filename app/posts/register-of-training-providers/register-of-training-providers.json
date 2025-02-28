@@ -1,0 +1,8 @@
+{
+  "eleventyNavigation": {
+    "parent": "Register of training providers"
+  },
+  "ogDefaultImage": {
+    "src": "opengraph-image--register-of-training-providers.png"
+  }
+}

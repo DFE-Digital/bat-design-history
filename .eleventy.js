@@ -59,7 +59,8 @@ module.exports = function (eleventyConfig) {
       'app/posts/manage-school-placements/manage-school-placements.md',
       'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md',
       'app/posts/support-for-apply/support-for-apply.md',
-      'app/posts/support-for-publish/support-for-publish.md'
+      'app/posts/support-for-publish/support-for-publish.md',
+      'app/posts/register-of-training-providers/register-of-training-providers.md'
     ])
   })
 
@@ -95,6 +96,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('claim-funding-for-mentors', collection => {
     return collection.getFilteredByGlob('app/posts/claim-funding-for-mentors/*.md')
+  })
+
+  eleventyConfig.addCollection('register-of-training-providers', collection => {
+    return collection.getFilteredByGlob('app/posts/register-of-training-providers/*.md')
   })
 
   eleventyConfig.addCollection('support-for-apply', collection => {
