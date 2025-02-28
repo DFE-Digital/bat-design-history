@@ -1,6 +1,6 @@
 ---
 title: Letting users change and delete notes
-description: We added options for users to change and delete notes rather than just keep creating new ones.
+description: We added options for users to change and delete notes rather than just keep creating new ones. Changes described here are unpublished. 
 date: 2022-03-23
 screenshots:
   items:
@@ -30,7 +30,7 @@ We know that some users want to:
 
 ## What we changed
 
-We changed the notes page so that there are links letting users change and delete notes.
+*Changes are unpublished* We changed the notes page so that there are links letting users change and delete notes.
 
 ## How it works
 
