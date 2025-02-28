@@ -18,22 +18,22 @@ As part of the handover from the discovery and alpha team, the private beta team
 
 These user needs were broad and related to mentoring across both initial teacher training (ITT) and the early careers framework (ECF).
 
-By referencing these user needs, the private beta team added five high level user needs that address the problem that the Claim Funding for Mentor Training service (Claim) solves which are detailed in [user needs and user tasks](/claim-funding-for-mentors/user-needs-and-user-tasks/).
+By referencing these user needs, the private beta team added five high-level user needs that address the problem that the Claim Funding for Mentor Training service (Claim) solves, which are detailed in [user needs and user tasks](/claim-funding-for-mentors/user-needs-and-user-tasks/).
 
 ## User tasks
 
-Throughout private beta, we created a list of user tasks. Working with user tasks enabled the design and development team to create user journeys and features specific to the tasks or that our users need to complete, whilst keeping the overarching user needs of the service in mind.
+Throughout the private beta, we created a list of user tasks. Working with user tasks enabled the design and development team to create user journeys and features specific to the tasks that our users need to complete while keeping the service's overarching user needs in mind.
 
 ### User types
 
-When breaking down the journey into user tasks, we first identified all the users who would interact with the Claim service:
+When breaking down the journey into user tasks, we first identified all the users who would interact with the Claim service, including:
 
-- School user who would submit a claim
-- Multi-academy trust user who submit claims on behalf of multiple schools within their trust
-- Accredited ITT provider user who would need to support school users and be responsible for auditing claims
-- Internal support colleagues, responsible for administering the service, undertaking the payment, auditing and clawback processes, as well as communicating with both school and provider users
+- school users who would submit a claim
+- multi-academy trust users who submit claims on behalf of multiple schools within their trust
+- accredited ITT provider users who would need to support school users and be responsible for auditing claims
+- internal support colleagues responsible for administering the service, undertaking the payment, auditing and clawback processes, as well as communicating with both school and provider users
 
-Below is the full list of user tasks for each user type.
+Below is the complete list of user tasks for each user type.
 
 #### School user tasks
 
@@ -41,13 +41,13 @@ Below is the full list of user tasks for each user type.
 {{ appUserNeed({
   description: "As someone in an administrative or mentor role at a school,
 I need to know what is required of me before I start a claim,
-So that I can prepare all the information required information ready before I start our claim."
+So that I can prepare all the required information before I start our claim."
 }) }}
 
 {{ appUserNeed({
   description: "As someone in an administrative or mentor role at a school,
 I need to know how many hours of training we can claim for,
-So that I can make sure our mentors are completing enough training hours to get the full benefits of funding, and we are submitting or claims correctly."
+So that I can ensure our mentors are completing enough training hours to get the full benefits of funding and that we submit our claims correctly."
 }) }}
 
 {{ appUserNeed({
@@ -88,7 +88,7 @@ So that I feel confident that our information is protected from fraud and scams.
 
 {{ appUserNeed({
   description: "As someone in a leadership role at a school,
-I need to know the amount of funding received will cover the cost of training our mentors,
+I need to know if the amount of funding received will cover the cost of training our mentors,
 So that the funding benefits us."
 
 }) }}
@@ -97,67 +97,67 @@ So that the funding benefits us."
 
 {{ appUserNeed({
   description: "As someone in an administrative or mentor role at a multi-academy trust,
-we need to be able to submit claims on behalf of other schools within our trust,
-So that we can reduce the burden on schools having to submit claims individually."
+We need to be able to submit claims on behalf of other schools within our trust,
+So that we can reduce the burden on schools to submit claims individually."
 }) }}
 
 {{ appUserNeed({
   description: "As someone in an administrative or mentor role at a multi-academy trust,
-we need to be able to view claims across the different schools within our trust,
+We need to be able to view claims across the different schools within our trust,
 So that we can manage the number of claims and funding across our trust."
 }) }}
 
 #### Accredited ITT provider user tasks
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need schools to understand the benefits of claiming funding and how it will support with mentoring and the training they are required to do,
-So that they are encouraged to claim all the funding that they are entitled to and don't miss out, despite having busy schedules."
+  description: "As an accredited ITT provider,
+We need schools to understand the benefits of claiming funding and how it will support with mentoring and the training they are required to do,
+So that they are encouraged to claim all the funding they are entitled to and not miss out despite having busy schedules."
 }) }}
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need schools to understand the benefits of mentoring,
+  description: "As an accredited ITT provider,
+We need schools to understand the benefits of mentoring,
 so we get more buy-in from schools, who agree to become placement partners."
 }) }}
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need schools to understand the benefits of mentoring,
+  description: "As an accredited ITT provider,
+We need schools to understand the benefits of mentoring,
 so we get more buy-in from school staff to become mentors and attend training."
 }) }}
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need to understand to know how the new service works and what the rules are,
-So that we can communicate with educational institutions on how to correctly use the service."
+  description: "As an accredited ITT provider,
+We need to understand to know how the new service works and what the rules are,
+So that we can communicate with educational institutions about how to use the service correctly."
 }) }}
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need data related to a claim to match the data that we collect,
-so we can easily and accurately assure the claims against our own records during the audit process."
+  description: "As an accredited ITT provider,
+We need data related to a claim to match the data that we collect,
+so we can easily and accurately assure the claims against our records during the audit process."
 }) }}
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need to know what the timelines are for claiming funding,
+  description: "As an accredited ITT provider,
+We need to know what the timelines are for claiming funding,
 So that we can ensure our processes fit, such as checking for errors."
 }) }}
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need enough time to be able to complete the audit process (sampling),
-So that we can accurately check the claims against our own records and liaise with schools regarding potentially incorrect claims."
+  description: "As an accredited ITT provider,
+We need enough time to be able to complete the audit process (sampling),
+So that we can accurately check the claims against our records and liaise with schools regarding potentially incorrect claims."
 }) }}
 
 {{ appUserNeed({
-  description: "As an accredited provider,
-we need schools to be submitting claims accurately,
-So that we don’t have too many incorrect claims to contact schools during the audit process."
+  description: "As an accredited ITT provider,
+We need schools to submit claims accurately,
+So that we do not have too many incorrect claims about contacting schools during the audit process."
 }) }}
 
-#### Internal support colleagues user tasks
+#### Internal support team user tasks
 
 {{ appUserNeed({
   description: "As a support user at the Department for Education (DfE),
@@ -168,19 +168,19 @@ So that I can quickly, confidently and accurately complete the task."
 {{ appUserNeed({
   description: "As a support user at the Department for Education (DfE),
 I need an easy way of accessing claims,
-So that when we receive a support request, I'm able to quickly look up the claim and take action."
+So that when we receive a support request, I can quickly look up the claim and take action."
 }) }}
 
 {{ appUserNeed({
   description: "As a support user at the Department for Education (DfE),
 To know if another member of staff has made changes or actioned a claim,
-So that I don't risk duplicating the changes or actions."
+So that I do not risk duplicating the changes or actions."
 }) }}
 
 {{ appUserNeed({
   description: "As a support user at the Department for Education (DfE),
 I need the ability to contact a school,
-So that I can discuss their claim or support request with, as and when needed."
+So that I can discuss their claim or support request with them as and when needed."
 }) }}
 
 {{ appUserNeed({
@@ -197,4 +197,4 @@ So that I am to complete the sampling and clawback processes as quickly as possi
 
 ## Next steps
 
-These user tasks will inform the design and build of the claim service So that schools can receive all the funding that they are entitled to for their ITT mentor training.
+These user tasks will inform the design and build of the claim service so that schools can receive all the funding they are entitled to for their ITT mentor training.
