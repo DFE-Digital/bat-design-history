@@ -138,7 +138,7 @@ I need to have the resources and processes in place to release teachers from the
 So that they can attend mentor training and deliver mentoring time."
 }) }}
 
-## ITT accredited provider user needs
+## Accredited ITT provider user needs
 
 The below user needs for accredited ITT providers were identified:
 
