@@ -1,6 +1,6 @@
 ---
 title: Removing the individual note pages
-description: We removed the individual note pages because they repeat information available in the notes list.
+description: We removed the individual note pages because they repeat information available in the notes list. Changes described here are unpublished.
 date: 2022-03-24
 screenshots:
   items:
@@ -22,7 +22,7 @@ All this information is also available in the list of notes for an application.
 
 ## What we changed
 
-The link on the timeline and activity log now takes the user to the notes list for the application. It uses an in-page anchor to make sure the user can see the specific note.
+*Changes described here are unpublished.* The link on the timeline and activity log now takes the user to the notes list for the application. It uses an in-page anchor to make sure the user can see the specific note.
 
 ## Further considerations
 
