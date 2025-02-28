@@ -14,7 +14,7 @@ We recently gave users a way to [change and delete notes](/manage-teacher-traini
 
 ## What we changed
 
-*Changes described here are unpublished.* 
+*Changes described here are unpublished.*
 
 We moved the name of the creator to above the note so that it’s immediately visible even if the note is long.
 
