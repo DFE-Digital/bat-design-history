@@ -88,7 +88,7 @@ When breaking down the journey into user tasks, we first identified all the user
 
 We identified every task they would need to undertake for each user type and why.
 
-The complete list of user types is stored in the Claim funding SharePoint folder.
+The complete list of user tasks is outlined this [design history](/claim-funding-for-mentors/private-beta-user-tasks/).
 
 Below is an example of a user task for each user type and why we needed to know this information.
 
