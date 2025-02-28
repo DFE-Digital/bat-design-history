@@ -30,7 +30,7 @@ We know that some users want to:
 
 ## What we changed
 
-*Changes are unpublished* We changed the notes page so that there are links letting users change and delete notes.
+*Changes are unpublished.* We changed the notes page so that there are links letting users change and delete notes.
 
 ## How it works
 
