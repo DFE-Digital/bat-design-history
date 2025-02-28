@@ -68,7 +68,7 @@
     "@stylistic/stylelint-plugin": "^3.1.2",
     "markdownlint-cli": "^0.44.0",
     "standard": "^17.1.2",
-    "stylelint": "^16.14.1",
+    "stylelint": "^16.15.0",
     "stylelint-config-recommended-scss": "^14.1.0",
     "stylelint-config-standard": "^37.0.0",
     "stylelint-order": "^6.0.4"
