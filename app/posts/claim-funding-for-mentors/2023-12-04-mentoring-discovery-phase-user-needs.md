@@ -8,7 +8,7 @@ tags:
   - user needs
 related:
   items:
-   - text: How the discovery phrase works
+   - text: How the discovery phase works
      href: https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works/
    - text: User research in discovery
      href: https://www.gov.uk/service-manual/user-research/user-research-in-discovery/
