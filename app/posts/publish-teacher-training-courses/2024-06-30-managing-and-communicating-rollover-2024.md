@@ -2,15 +2,16 @@ title: Managing and communicating rollover in 2024
 description: The emails we sent and some of the things we did differently for rollover 2024
 date: 2024-06-30
 tags:
-  - rollover
 
-On 16 July 2024 we copied all  courses which were published in the 2023 to 2024 recruitment cycle  (including those which were subsequently withdrawn) to the new 2024 to 2025 recruitment cycle. This process is known as rollover. 
+- rollover
 
-Providers can edit and publish their rolled over courses so that they will appear on Find teacher training courses (Find) at 9am on 1 October when the new cycle begins. 
+On 16 July 2024 we copied all  courses which were published in the 2023 to 2024 recruitment cycle  (including those which were subsequently withdrawn) to the new 2024 to 2025 recruitment cycle. This process is known as rollover.
+
+Providers can edit and publish their rolled over courses so that they will appear on Find teacher training courses (Find) at 9am on 1 October when the new cycle begins.
 
 ## Contacting providers about rollover  
 
-### Before rollover 
+### Before rollover
 
 We emailed all providers on 14 June to tell them about the [changes we had made to Publish](changes-we-made-to-the-service-in-preparation-for-rollover-2024) and how this would impact them during rollover.  
 
@@ -28,8 +29,8 @@ We will email you again when you need to sign in to check and publish or delete 
 
 We want to tell you about some other changes for the 2024 to 2025 recruitment cycle:
 
-* There is a new undergraduate salaried route into teaching called the Teacher Degree Apprenticeship (TDA).
-* We have made some changes to Publish to make it easier to update and publish courses and for candidates to find the right course for them.
+- There is a new undergraduate salaried route into teaching called the Teacher Degree Apprenticeship (TDA).
+- We have made some changes to Publish to make it easier to update and publish courses and for candidates to find the right course for them.
 
 ## Rolled over courses
 
@@ -55,11 +56,11 @@ The changes aim to make it easier for you to create and update courses and for c
 
 ### Research and analysis
 
-* Candidates want information that makes courses distinct from one another rather than things that are the same across different providers.
+- Candidates want information that makes courses distinct from one another rather than things that are the same across different providers.
 
-* Data analysis showed that personal qualities information was consistent across most providers with 90% including terms such as passion, commitment, resilience and enthusiasm.
+- Data analysis showed that personal qualities information was consistent across most providers with 90% including terms such as passion, commitment, resilience and enthusiasm.
 
-* Candidates find this information most relevant and useful when they are applying for courses, rather than on course pages.
+- Candidates find this information most relevant and useful when they are applying for courses, rather than on course pages.
 
 ### What we have done
 
@@ -83,11 +84,11 @@ It’s not necessary for you to enter it each time you publish a course, but can
 
 ### Research and analysis
 
-* Providers who list all of their school placements as well as study sites appear in more search results and receive more applications.
+- Providers who list all of their school placements as well as study sites appear in more search results and receive more applications.
 
-* You have told us you can’t confirm all school placements at the start of the cycle. For some of you, we know it’s an administrative burden to enter all school placement locations.
+- You have told us you can’t confirm all school placements at the start of the cycle. For some of you, we know it’s an administrative burden to enter all school placement locations.
 
-* Candidates do value location information but don’t always understand when training locations will be confirmed.
+- Candidates do value location information but don’t always understand when training locations will be confirmed.
 
 ### Our advice for the 2024 to 2025 recruitment cycle
 
@@ -98,12 +99,14 @@ You should add school placements as soon as you know of them to make sure your c
 We are working on ways to improve this experience for everyone. We will continue to review how to communicate location information to candidates to better manage their expectations.
 
 ## Next steps
+
 We will email you again in July to let you know when courses have been rolled over. In the meantime, you could start preparing your course information and descriptions ready to be added or updated.
 
 You could also read through our [guidance on how to use the Publish service](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service).
 
 ## Get help
-If you have any questions or need help using Publish, contact us at becomingateacher@digital.education.gov.uk.
+
+If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 If you would like to be involved in research and testing of Publish in future, complete [this sign up form](https://dferesearch.fra1.qualtrics.com/jfe/form/SV_bj6kfzqyNBbJVaK).
 
@@ -111,16 +114,17 @@ If you would like to be involved in research and testing of Publish in future, c
 
 }) }}
 
-We also emailed a specific group of providers who had added text to the optional fields ‘Fee details’ and ‘Financial support.’ As part of the work we did to improve Publish, we merged these fields into a new field called 'Fees and financial support'. This was because analysis showed that people were tending to enter all financial support information in the ‘Fee details’ field and that it repeated content that is automatically rendered on the page about financial support. 
+We also emailed a specific group of providers who had added text to the optional fields ‘Fee details’ and ‘Financial support.’ As part of the work we did to improve Publish, we merged these fields into a new field called 'Fees and financial support'. This was because analysis showed that people were tending to enter all financial support information in the ‘Fee details’ field and that it repeated content that is automatically rendered on the page about financial support.
 
 Merging these fields would take some of the content over the word count meaning the content would be cut short. To mitigate against this we emailed them to ask them to follow these steps:
+
 #### Before rollover
-* copy the content in an existing course
-* edit it so that it falls below the word count 
+- copy the content in an existing course
+- edit it so that it falls below the word count
 
 #### At rollover
-* enter it into the new ‘Fees and financial support’ field of a single course
-* use the copy course content functionality to copy it across all courses 
+- enter it into the new ‘Fees and financial support’ field of a single course
+- use the copy course content functionality to copy it across all courses
 
 {{ appEmail({
 
@@ -137,6 +141,7 @@ Research showed us that the optional fee details and financial support fields of
 We have merged these fields into a new optional field called ‘Fees and financial support’. This means that for this year only, there may be too many words in the merged field unless the content is edited to fit within the 250 word limit.
 
 ## What do you need to do
+
 ### Before rollover
 
 1. Find a 2024 course that you have added fee details and financial support information to.
@@ -153,7 +158,8 @@ We have merged these fields into a new optional field called ‘Fees and financi
 You can now use the ‘copy course content’ function to copy this updated content to all of your other rolled over courses, so you will only need to manually copy and paste it once.
 
 ## Get help
-If you have any questions or need help using Publish, contact us at becomingateacher@digital.education.gov.uk.
+
+If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 If you would like to be involved in research and testing of Publish in future, complete [this sign up form](https://dferesearch.fra1.qualtrics.com/jfe/form/SV_bj6kfzqyNBbJVaK).
 
@@ -161,19 +167,19 @@ If you would like to be involved in research and testing of Publish in future, c
 
 }) }}
 
-### At rollover 
+### At rollover
 
-We emailed providers again on 16 July once rollover had taken place to tell them that their courses were ready to be checked and published. 
+We emailed providers again on 16 July once rollover had taken place to tell them that their courses were ready to be checked and published.
 
 This email also highlighted some behaviours that we want to encourage in providers:  
 
-* Make course descriptions specific. 
-  Research with candidates has shown that they prefer course descriptions which are unique so that they can compare different courses effectively. 
+- Make course descriptions specific.
+  Research with candidates has shown that they prefer course descriptions which are unique so that they can compare different courses effectively.
 
-* Format text using Markdown. 
-  We know Markdown isn’t the most intuitive way to format content, but we have included new guidance to encourage providers to format links and bullets properly. 
+- Format text using Markdown.
+  We know Markdown isn’t the most intuitive way to format content, but we have included new guidance to encourage providers to format links and bullets properly.
 
-We also wanted to highlight the functionality that allows providers to review and preview courses because research showed us they are not always aware of this. 
+We also wanted to highlight the functionality that allows providers to review and preview courses because research showed us they are not always aware of this.
 
 {{ appEmail({
 
@@ -191,10 +197,10 @@ Courses that you publish will be searchable on Find teacher training courses (Fi
 
 You can then:
 
-* add new courses
-* check and edit rolled over courses
-* delete any courses you are no longer running
-* publish courses so that they will be searchable on Find from 1 October.
+- add new courses
+- check and edit rolled over courses
+- delete any courses you are no longer running
+- publish courses so that they will be searchable on Find from 1 October.
 
 Courses with the status ‘rolled over’ are ready to be edited and published now.
 
@@ -206,13 +212,13 @@ Courses with the status ‘rolled over’ are ready to be edited and published n
 
 Check that:
 
-* Essential information, such as fees and visa sponsorship, is up to date.
-* Your course descriptions are specific and give candidates a good overview of what to expect. 
+- Essential information, such as fees and visa sponsorship, is up to date.
+- Your course descriptions are specific and give candidates a good overview of what to expect.
     They have told us they like to know about training modules, course structure, mentoring and support.
 
 ^ [Get help writing course descriptions](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/help-writing-course-descriptions). Watch this [guide to writing good course descriptions](https://www.youtube.com/watch?v=vslH7U-kuEY)
 
-* Content is formatted well. Line breaks and bulleted lists make text easier to read. Make sure any links you have included have been formatted correctly so that candidates can click on them.
+- Content is formatted well. Line breaks and bulleted lists make text easier to read. Make sure any links you have included have been formatted correctly so that candidates can click on them.
 
 There is guidance in Publish to help you with formatting. You will see it above each text field.
 
@@ -235,7 +241,8 @@ If your organisation has changed its relationship with a partner organisation, y
 [Find out more about adding and removing users](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/add-and-remove-users).
 
 ## Get help
-If you have any questions or need help using Publish, contact us at becomingateacher@digital.education.gov.uk.
+
+If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 If you would like to be involved in research and testing of Publish in future, complete [this sign up form](https://dferesearch.fra1.qualtrics.com/jfe/form/SV_bj6kfzqyNBbJVaK).
 
@@ -243,20 +250,15 @@ If you would like to be involved in research and testing of Publish in future, c
 
 }) }}
 
+### Video guidance
 
-### Video guidance 
+User research with providers told us that they would appreciate guidance in other formats than the email we send at rollover.
 
-User research with providers told us that they would appreciate guidance in other formats than the email we send at rollover. 
+This year we produced 4 screen recordings and uploaded them to the [Becoming a teacher YouTube channel](https://www.youtube.com/@becomingateacherfindapply8126). We included links to the videos in the rollover email.
 
-This year we produced 4 screen recordings and uploaded them to the [Becoming a teacher YouTube channel](https://www.youtube.com/@becomingateacherfindapply8126). We included links to the videos in the rollover email. 
-
-* [How to rollover your courses](https://www.youtube.com/watch?v=5J_ddG9Y0B8) 
-* [How to write good course descriptions](https://www.youtube.com/watch?v=vslH7U-kuEY) 
-* [How to format your content](https://www.youtube.com/watch?v=FmRYOVxlwT0)
-* [How to review and preview your courses](https://www.youtube.com/watch?v=eV_gK9Hvx4U)
+- [How to rollover your courses](https://www.youtube.com/watch?v=5J_ddG9Y0B8)
+- [How to write good course descriptions](https://www.youtube.com/watch?v=vslH7U-kuEY)
+- [How to format your content](https://www.youtube.com/watch?v=FmRYOVxlwT0)
+- [How to review and preview your courses](https://www.youtube.com/watch?v=eV_gK9Hvx4U)
 
 Depending on how many views these videos get, we could consider this format for future guidance.  
-
- 
-
-  
