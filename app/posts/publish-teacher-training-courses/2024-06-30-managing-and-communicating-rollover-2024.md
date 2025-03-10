@@ -1,20 +1,22 @@
+---
 title: Managing and communicating rollover in 2024
 description: The emails we sent and some of the things we did differently for rollover 2024
 date: 2024-06-30
 tags:
-
-- rollover
+  - rollover
+---
 
 On 16 July 2024 we copied all  courses which were published in the 2023 to 2024 recruitment cycle  (including those which were subsequently withdrawn) to the new 2024 to 2025 recruitment cycle. This process is known as rollover.
 
 Providers can edit and publish their rolled over courses so that they will appear on Find teacher training courses (Find) at 9am on 1 October when the new cycle begins.
 
-## Contacting providers about rollover  
+## Contacting providers about rollover
 
 ### Before rollover
 
-We emailed all providers on 14 June to tell them about the [changes we had made to Publish](changes-we-made-to-the-service-in-preparation-for-rollover-2024) and how this would impact them during rollover.  
+We emailed all providers on 14 June to tell them about the [changes we had made to Publish](changes-we-made-to-the-service-in-preparation-for-rollover-2024) and how this would impact them during rollover.
 
+{% from "email/macro.njk" import appEmail %}
 {{ appEmail({
 
 subject: "Get ready for the 2024 to 2025 recruitment cycle",
@@ -171,7 +173,7 @@ If you would like to be involved in research and testing of Publish in future, c
 
 We emailed providers again on 16 July once rollover had taken place to tell them that their courses were ready to be checked and published.
 
-This email also highlighted some behaviours that we want to encourage in providers:  
+This email also highlighted some behaviours that we want to encourage in providers:
 
 - Make course descriptions specific.
   Research with candidates has shown that they prefer course descriptions which are unique so that they can compare different courses effectively.
@@ -261,4 +263,4 @@ This year we produced 4 screen recordings and uploaded them to the [Becoming a t
 - [How to format your content](https://www.youtube.com/watch?v=FmRYOVxlwT0)
 - [How to review and preview your courses](https://www.youtube.com/watch?v=eV_gK9Hvx4U)
 
-Depending on how many views these videos get, we could consider this format for future guidance.  
+Depending on how many views these videos get, we could consider this format for future guidance.
