@@ -121,10 +121,12 @@ We also emailed a specific group of providers who had added text to the optional
 Merging these fields would take some of the content over the word count meaning the content would be cut short. To mitigate against this we emailed them to ask them to follow these steps:
 
 #### Before rollover
+
 - copy the content in an existing course
 - edit it so that it falls below the word count
 
 #### At rollover
+
 - enter it into the new ‘Fees and financial support’ field of a single course
 - use the copy course content functionality to copy it across all courses
 
