@@ -210,7 +210,7 @@ Courses with the status ‘rolled over’ are ready to be edited and published n
 
 [Guidance on rolling over courses to a new recruitment cycle](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/roll-over-courses-to-a-new-recruitment-cycle).
 
-^ This year we have produced some video guidance. [Watch this guide to rolling courses over](https://www.youtube.com/watch?v=5J_ddG9Y0B8).
+> This year we have produced some video guidance. [Watch this guide to rolling courses over](https://www.youtube.com/watch?v=5J_ddG9Y0B8).
 
 ## Updating courses
 
@@ -220,19 +220,19 @@ Check that:
 - Your course descriptions are specific and give candidates a good overview of what to expect.
     They have told us they like to know about training modules, course structure, mentoring and support.
 
-^ [Get help writing course descriptions](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/help-writing-course-descriptions). Watch this [guide to writing good course descriptions](https://www.youtube.com/watch?v=vslH7U-kuEY)
+> [Get help writing course descriptions](https://www.publish-teacher-training-courses.service.gov.uk/how-to-use-this-service/help-writing-course-descriptions). Watch this [guide to writing good course descriptions](https://www.youtube.com/watch?v=vslH7U-kuEY)
 
 - Content is formatted well. Line breaks and bulleted lists make text easier to read. Make sure any links you have included have been formatted correctly so that candidates can click on them.
 
 There is guidance in Publish to help you with formatting. You will see it above each text field.
 
-^ Watch this [guide to formatting your text](https://www.youtube.com/watch?v=FmRYOVxlwT0).
+> Watch this [guide to formatting your text](https://www.youtube.com/watch?v=FmRYOVxlwT0).
 
 ## Publishing courses
 
 Use the ‘Preview course’ link on the course page to see how the course will look to candidates on Find before publishing it.
 
-^ Watch this [guide to reviewing and previewing courses](https://www.youtube.com/watch?v=eV_gK9Hvx4U).
+> Watch this [guide to reviewing and previewing courses](https://www.youtube.com/watch?v=eV_gK9Hvx4U).
 
 When you are happy with your courses, you can publish them. The status will change to ‘Scheduled’ and they will be automatically displayed on Find when it opens in October.
 You do not need to specify a different open date for your course unless it’s beyond October 2024.
