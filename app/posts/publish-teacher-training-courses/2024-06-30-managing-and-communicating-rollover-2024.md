@@ -6,6 +6,10 @@ tags:
   - rollover
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
+<!-- markdownlint-disable MD001 MD025 -->
+
 On 16 July 2024 we copied all  courses which were published in the 2023 to 2024 recruitment cycle  (including those which were subsequently withdrawn) to the new 2024 to 2025 recruitment cycle. This process is known as rollover.
 
 Providers can edit and publish their rolled over courses so that they will appear on Find teacher training courses (Find) at 9am on 1 October when the new cycle begins.
@@ -16,13 +20,9 @@ Providers can edit and publish their rolled over courses so that they will appea
 
 We emailed all providers on 14 June to tell them about the [changes we had made to Publish](changes-we-made-to-the-service-in-preparation-for-rollover-2024) and how this would impact them during rollover.
 
-{% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-
 subject: "Get ready for the 2024 to 2025 recruitment cycle",
-
 content: "
-
 Hello,
 
 In July, your courses on Publish teacher training courses (Publish) will be ready to be rolled over to the 2024 to 2025 recruitment cycle.
@@ -111,9 +111,7 @@ You could also read through our [guidance on how to use the Publish service](htt
 If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 If you would like to be involved in research and testing of Publish in future, complete [this sign up form](https://dferesearch.fra1.qualtrics.com/jfe/form/SV_bj6kfzqyNBbJVaK).
-
 "
-
 }) }}
 
 We also emailed a specific group of providers who had added text to the optional fields ‘Fee details’ and ‘Financial support.’ As part of the work we did to improve Publish, we merged these fields into a new field called 'Fees and financial support'. This was because analysis showed that people were tending to enter all financial support information in the ‘Fee details’ field and that it repeated content that is automatically rendered on the page about financial support.
@@ -131,11 +129,8 @@ Merging these fields would take some of the content over the word count meaning 
 - use the copy course content functionality to copy it across all courses
 
 {{ appEmail({
-
 subject: "Take action before your courses are rolled over to the next cycle",
-
 content: "
-
 Hello,
 
 You are receiving this email because you, or at least one of the training providers you work with have published financial support information on your 2024 courses.
@@ -166,9 +161,7 @@ You can now use the ‘copy course content’ function to copy this updated cont
 If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 If you would like to be involved in research and testing of Publish in future, complete [this sign up form](https://dferesearch.fra1.qualtrics.com/jfe/form/SV_bj6kfzqyNBbJVaK).
-
 "
-
 }) }}
 
 ### At rollover
@@ -186,11 +179,8 @@ This email also highlighted some behaviours that we want to encourage in provide
 We also wanted to highlight the functionality that allows providers to review and preview courses because research showed us they are not always aware of this.
 
 {{ appEmail({
-
 subject: "Publish your courses for the 2024 to 2025 recruitment cycle",
-
 content: "
-
 Hello,
 
 All courses that were published this recruitment cycle (including courses that had been withdrawn) have now been rolled over to the new cycle (2024 to 2025) ready to be edited and published.
@@ -249,9 +239,7 @@ If your organisation has changed its relationship with a partner organisation, y
 If you have any questions or need help using Publish, contact us at <becomingateacher@digital.education.gov.uk>.
 
 If you would like to be involved in research and testing of Publish in future, complete [this sign up form](https://dferesearch.fra1.qualtrics.com/jfe/form/SV_bj6kfzqyNBbJVaK).
-
 "
-
 }) }}
 
 ### Video guidance
@@ -266,3 +254,5 @@ This year we produced 4 screen recordings and uploaded them to the [Becoming a t
 - [How to review and preview your courses](https://www.youtube.com/watch?v=eV_gK9Hvx4U)
 
 Depending on how many views these videos get, we could consider this format for future guidance.
+
+<!-- markdownlint-enable MD001 MD025 -->
