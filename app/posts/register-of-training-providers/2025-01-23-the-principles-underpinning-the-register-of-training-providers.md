@@ -24,7 +24,7 @@ The register will allow users to browse and search for training providers by key
 
 ## Up-to-date and accessible data
 
-We will keep all data within the register current and accessible via a standard API. Service teams integrating with the API will automatically receive updates as data changes, eliminating the need for manual checks and periodic updates.
+We will keep all data within the register current and accessible via a standard application programming interface (API). Service teams integrating with the API will automatically receive updates as data changes, eliminating the need for manual checks and periodic updates.
 
 For those who prefer a manual approach, the latest dataset will also be available for offline use in comma-separated values (CSV) and open document spreadsheet (ODS) formats.
 
