@@ -8,7 +8,7 @@ related:
       href: /register-of-training-providers/why-we-need-a-register-of-training-providers/
 ---
 
-The ‘Register of training providers’ addresses common data challenges faced by the DfE and the Becoming a teacher (BAT) service line.
+The ‘Register of training providers’ addresses common data challenges faced by the Department for Education (DfE) and the Becoming a teacher (BAT) service line.
 
 DfE services often require access to accurate and up-to-date data on training providers. However, teams frequently encounter issues such as:
 
