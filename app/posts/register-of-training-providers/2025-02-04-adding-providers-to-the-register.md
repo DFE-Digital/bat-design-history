@@ -8,10 +8,18 @@ tags:
   - training partners
 related:
   items:
-    - text: TEXT 1
-      href: HREF 1
-    - text: TEXT 2
-      href: HREF 2
+    - text: The attributes of a training provider
+      href: /register-of-training-providers/the-attributes-of-a-training-provider/
+    - text: Changing provider details
+      href: /register-of-training-providers/changing-provider-details/
+    - text: Managing provider accreditations
+      href: /register-of-training-providers/managing-provider-accreditations/
+    - text: Managing provider addresses
+      href: /register-of-training-providers/managing-provider-addresses/
+    - text: Managing provider contacts
+      href: /register-of-training-providers/managing-provider-contacts/
+    - text: Managing provider partnerships
+      href: /register-of-training-providers/managing-provider-partnerships/
 screenshots:
   items:
     - text: Provider list
