@@ -64,14 +64,14 @@ module.exports = function (eleventyConfig) {
   // ---------------------------------------------------------------
   // Collections
   // ---------------------------------------------------------------
-  // Example: a dedicated “service line” collection
+  // A dedicated “service line” collection
   eleventyConfig.addCollection('serviceLine', (collection) => {
     return collection.getFilteredByGlob([
       'app/posts/becoming-a-teacher/becoming-a-teacher.md'
     ])
   })
 
-  // Example: list of service index pages
+  // List of service index pages
   eleventyConfig.addCollection('services', (collection) => {
     return collection.getFilteredByGlob([
       'app/posts/apply-for-teacher-training/apply-for-teacher-training.md',
@@ -150,7 +150,7 @@ module.exports = function (eleventyConfig) {
       }
     }
 
-    // Filter out tags in the form of MN999
+    // Filter out user needs tags
     tags = tags.filter((tag) => !tag.match(/[MPAS]N\d{3}/))
 
     // Sort tags alphabetically
