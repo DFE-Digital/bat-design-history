@@ -5,7 +5,7 @@
   "engines": {
     "node": "20.11.0"
   },
-  "description": "A history of the designs for the Find, Apply, Publish, Manage, Register and Support services",
+  "description": "A history of the designs for the Find, Apply, Publish, Manage, Register, Manage school placements, Claim funding for mentor training and Support services",
   "keywords": [
     "becoming-a-teacher",
     "govuk",
