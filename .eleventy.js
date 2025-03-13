@@ -1,5 +1,7 @@
 module.exports = function (eleventyConfig) {
+  // ---------------------------------------------------------------
   // Browser Sync
+  // ---------------------------------------------------------------
   eleventyConfig.setBrowserSyncConfig({
     rewriteRules: [{
       match: /\/image\/(\d+)(x)?(\d+)?/g,
@@ -11,45 +13,66 @@ module.exports = function (eleventyConfig) {
     }
   })
 
+  // ---------------------------------------------------------------
   // Template libraries
+  // ---------------------------------------------------------------
   eleventyConfig.setLibrary('njk', require('./lib/libraries/nunjucks'))
   eleventyConfig.setLibrary('md', require('./lib/libraries/markdown'))
 
+  // ---------------------------------------------------------------
   // Plugins
+  // ---------------------------------------------------------------
   eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'))
   eleventyConfig.addPlugin(require('@11ty/eleventy-navigation'))
 
+  // ---------------------------------------------------------------
   // Filters
-  eleventyConfig.addFilter('date', require('./lib/filters/date'))
-  eleventyConfig.addFilter('fixed', require('./lib/filters/fixed'))
-  eleventyConfig.addFilter('includes', require('./lib/filters/includes'))
-  eleventyConfig.addFilter('markdown', require('./lib/filters/markdown'))
-  eleventyConfig.addFilter('notifyPlaceholders', require('./lib/filters/notify-placeholders'))
-  eleventyConfig.addFilter('pretty', require('./lib/filters/pretty'))
-  eleventyConfig.addFilter('slug', require('./lib/filters/slug'))
-  eleventyConfig.addFilter('slugs', require('./lib/filters/slugs'))
-  eleventyConfig.addFilter('sort', require('./lib/filters/sort'))
-  eleventyConfig.addFilter('tokenize', require('./lib/filters/tokenize'))
-  eleventyConfig.addFilter('totalFromRows', require('./lib/filters/total-from-rows'))
-  eleventyConfig.addFilter('widont', require('./lib/filters/widont'))
+  // ---------------------------------------------------------------
+  // Instead of registering each filter by hand, define them in an array:
+  const filterNames = [
+    'date',
+    'fixed',
+    'includes',
+    'markdown',
+    'notifyPlaceholders',
+    'pretty',
+    'serviceName',
+    'slug',
+    'slugs',
+    'sort',
+    'tokenize',
+    'totalFromRows',
+    'widont'
+  ]
 
+  filterNames.forEach((filterName) => {
+    eleventyConfig.addFilter(filterName, require(`./lib/filters/${filterName}`))
+  })
+
+  // ---------------------------------------------------------------
   // Passthrough
+  // ---------------------------------------------------------------
   eleventyConfig.addPassthroughCopy('./app/assets/images')
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy({ 'node_modules/govuk-frontend/dist/govuk/assets': 'assets' })
 
+  // ---------------------------------------------------------------
   // Enable data deep merge
+  // ---------------------------------------------------------------
   eleventyConfig.setDataDeepMerge(true)
 
+  // ---------------------------------------------------------------
   // Collections
-  eleventyConfig.addCollection('serviceLine', collection => {
+  // ---------------------------------------------------------------
+  // A dedicated “service line” collection
+  eleventyConfig.addCollection('serviceLine', (collection) => {
     return collection.getFilteredByGlob([
       'app/posts/becoming-a-teacher/becoming-a-teacher.md'
     ])
   })
 
   // List of service index pages
-  eleventyConfig.addCollection('services', collection => {
+  eleventyConfig.addCollection('services', (collection) => {
     return collection.getFilteredByGlob([
       'app/posts/apply-for-teacher-training/apply-for-teacher-training.md',
       'app/posts/find-teacher-training/find-teacher-training.md',
@@ -64,113 +87,106 @@ module.exports = function (eleventyConfig) {
     ])
   })
 
-  // Collections of posts for the service line
-  eleventyConfig.addCollection('becoming-a-teacher', collection => {
-    return collection.getFilteredByGlob('app/posts/becoming-a-teacher/*.md')
-  })
+  // Collections that share a similar pattern:
+  const serviceCollections = [
+    'becoming-a-teacher',
+    'apply-for-teacher-training',
+    'find-teacher-training',
+    'manage-teacher-training-applications',
+    'publish-teacher-training-courses',
+    'register-trainee-teachers',
+    'manage-school-placements',
+    'claim-funding-for-mentors',
+    'register-of-training-providers',
+    'support-for-apply',
+    'support-for-publish'
+  ]
 
-  // Collections of posts for each service
-  eleventyConfig.addCollection('apply-for-teacher-training', collection => {
-    return collection.getFilteredByGlob('app/posts/apply-for-teacher-training/*.md')
-  })
-
-  eleventyConfig.addCollection('find-teacher-training', collection => {
-    return collection.getFilteredByGlob('app/posts/find-teacher-training/*.md')
-  })
-
-  eleventyConfig.addCollection('manage-teacher-training-applications', collection => {
-    return collection.getFilteredByGlob('app/posts/manage-teacher-training-applications/*.md')
-  })
-
-  eleventyConfig.addCollection('publish-teacher-training-courses', collection => {
-    return collection.getFilteredByGlob('app/posts/publish-teacher-training-courses/*.md')
-  })
-
-  eleventyConfig.addCollection('register-trainee-teachers', collection => {
-    return collection.getFilteredByGlob('app/posts/register-trainee-teachers/*.md')
-  })
-
-  eleventyConfig.addCollection('manage-school-placements', collection => {
-    return collection.getFilteredByGlob('app/posts/manage-school-placements/*.md')
-  })
-
-  eleventyConfig.addCollection('claim-funding-for-mentors', collection => {
-    return collection.getFilteredByGlob('app/posts/claim-funding-for-mentors/*.md')
-  })
-
-  eleventyConfig.addCollection('register-of-training-providers', collection => {
-    return collection.getFilteredByGlob('app/posts/register-of-training-providers/*.md')
-  })
-
-  eleventyConfig.addCollection('support-for-apply', collection => {
-    return collection.getFilteredByGlob('app/posts/support-for-apply/*.md')
-  })
-
-  eleventyConfig.addCollection('support-for-publish', collection => {
-    return collection.getFilteredByGlob('app/posts/support-for-publish/*.md')
+  serviceCollections.forEach((serviceName) => {
+    eleventyConfig.addCollection(serviceName, (collection) => {
+      // For each service, fetch all .md files in that folder:
+      return collection.getFilteredByGlob(`app/posts/${serviceName}/*.md`)
+    })
   })
 
   // A collection of reference pages
-  eleventyConfig.addCollection('reference', collectionApi => {
-    return collectionApi.getFilteredByGlob(['app/glossary.md',
+  eleventyConfig.addCollection('reference', (collectionApi) => {
+    return collectionApi.getFilteredByGlob([
+      'app/glossary.md',
       'app/mission-patches.md',
       'app/service-map.md',
       'app/posts/how-to/how-to.md'
     ])
   })
 
-  // Collections of posts for each reference section
-  eleventyConfig.addCollection('how-to', collection => {
+  // A collection of posts for “how-to”
+  eleventyConfig.addCollection('how-to', (collection) => {
     return collection.getFilteredByGlob('app/posts/how-to/*.md')
   })
 
-  // A collection of user need pages
-  // eleventyConfig.addCollection('user-need', collectionApi => {
-  //   return collectionApi.getFilteredByGlob([
-  //     'app/posts/apply-for--teacher-training/user-needs/*.md',
-  //     'app/posts/manage-teacher-training-applications/user-needs/*.md',
-  //     'app/posts/publish-teacher-training-courses/user-needs/*.md'
-  //   ])
-  // })
-
-  // A collection of unique tags used across all posts
-  eleventyConfig.addCollection('allTags', collectionApi => {
+  // ---------------------------------------------------------------
+  // All tags collection
+  // ---------------------------------------------------------------
+  eleventyConfig.addCollection('allTags', (collectionApi) => {
     const posts = collectionApi.getAll()
-
-    // Set up empty list of tags
     let tags = []
 
     for (const post of posts) {
-      if ('tags' in post.data) {
-        // Add any new tags from the post to the array
+      if (post.data.tags) {
         for (const tag of post.data.tags) {
-          // skip if already added
-          if (tags.includes(tag)) { continue }
-
-          // check that there’s not a tag which matches it except for capitlisation
-          const existingTag = tags.find(existingTag => existingTag.toLowerCase() === tag.toLowerCase())
-          if (existingTag) {
-            throw new Error('The post "' + post.data.title + '" contains tag "' + tag + '" which matches "' + existingTag + '" but capitalisation is different')
+          if (!tags.includes(tag)) {
+            // Prevent collisions with different capitalisations
+            const existingTag = tags.find(
+              (existing) => existing.toLowerCase() === tag.toLowerCase()
+            )
+            if (existingTag) {
+              throw new Error(
+                `The post "${post.data.title}" has a tag "${tag}" which conflicts with "${existingTag}" (capitalisation differs).`
+              )
+            }
+            tags.push(tag)
           }
-
-          // otherwise add the new tag
-          tags.push(tag)
         }
       }
     }
 
-    // Filter out any tags in the form of MN999 -
-    // these were used for tagging user needs.
-    // (TODO: rethink this feature?)
-    tags = tags.filter(tag => !tag.match(/[MPAS]N\d{3}/))
+    // Filter out user needs tags
+    tags = tags.filter((tag) => !tag.match(/[MPAS]N\d{3}/))
 
-    // sort tags alphabetically
-    tags = tags.sort((a, b) => a.localeCompare(b, 'en'))
-
-    return tags
+    // Sort tags alphabetically
+    return tags.sort((a, b) => a.localeCompare(b, 'en'))
   })
 
-  // Config
+  // ---------------------------------------------------------------
+  // Global data
+  // ---------------------------------------------------------------
+  eleventyConfig.addGlobalData('eleventyComputed', {
+    service: (data) => {
+      // If a service is already set in front matter, keep it
+      if (data.service) {
+        return data.service
+      }
+
+      // Example path: /posts/apply-for-teacher-training/something
+      // “page.filePathStem” is Eleventy’s raw file path minus the file extension
+      if (data.page && data.page.filePathStem) {
+        // Pull out the segment after “/posts/”
+        // This means a file at app/posts/find-teacher-training/foo.md
+        // has data.page.filePathStem === "/posts/find-teacher-training/foo"
+        const match = data.page.filePathStem.match(/^\/posts\/([^/]+)/)
+        if (match) {
+          return match[1] // e.g. "apply-for-teacher-training"
+        }
+      }
+
+      // Fallback: no service
+      return null
+    }
+  })
+
+  // ---------------------------------------------------------------
+  // Eleventy return config
+  // ---------------------------------------------------------------
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',

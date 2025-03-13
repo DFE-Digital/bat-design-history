@@ -7,7 +7,6 @@
 
 {% block main %}
 
-
   {% set items = collections[tag] | reverse %}
 
   <div class="govuk-width-container">
@@ -33,9 +32,9 @@
       <div class="govuk-grid-row">
           <section class="govuk-grid-column-two-thirds">
             <h1 class="govuk-heading-l">Posts tagged ‘{{ tag }}’</h1>
-
             {{ appDocumentList({
               classes: "govuk-!-margin-bottom-6",
+              showServiceName: true,
               items: items
             }) }}
           </section>

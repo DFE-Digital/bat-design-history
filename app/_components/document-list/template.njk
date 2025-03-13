@@ -5,6 +5,9 @@
       <h2 class="app-document-list__item-title">
         <a class="govuk-link" href="{{ item.url | url | pretty }}">{{ item.data.title | nl2br | safe }}</a>
       </h2>
+      {% if params.showServiceName and item.data.service %}
+        <p class="app-document-list__item-service">{{ item.data.service | serviceName }}</p>
+      {% endif %}
       {% if item.data.description %}
       <p class="app-document-list__item-description">{{ item.data.description | markdown("inline") | safe }}</p>
       {% endif %}
