@@ -116,7 +116,7 @@ It might be possible for a candidate to apply to a course from Find when they ar
 - The ‘add another course’ flow does not happen
 - Add an apply again page and link to it in a banner on the dashboard
 - Show a ‘Your application was copied’ banner when a new application is made
-- Tweak the title of the application page to be "Your new application"
+- Tweak the title of the application page to be“Your new application”
 - Show previous applications in the right column
 - Show reference statuses to indicate if a reference has been received or not
 - Make received references read only (you can delete but not change any other aspect)

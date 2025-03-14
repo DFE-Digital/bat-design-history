@@ -58,7 +58,7 @@ Page 20: When a candidate’s application was rejected without a reason a vague 
 
 > The ‘can’t be blank’ error message presented on the ‘Reject application’ page when validation errors occur is not descriptive of what the error is and how to fix it.
 
-This was [fixed by changing the error message](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/1012) to "Enter feedback for the candidate". ([Trello](https://trello.com/c/7JcO0QxH/695-dac-page-20-add-error-text-for-blank-application-reject-reason))
+This was [fixed by changing the error message](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/1012) to “Enter feedback for the candidate”. ([Trello](https://trello.com/c/7JcO0QxH/695-dac-page-20-add-error-text-for-blank-application-reject-reason))
 
 Automated accessibility testing would not have found this issue.
 
@@ -82,7 +82,7 @@ Automated accessibility testing would not have found this issue.
 
 Page 29: When a success message was shown following an action the message was not focused, meaning screenreader users would not be aware of it.
 
-This was fixed [by making it focusable](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/963) and [by adding an aria alert role to the element](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/969). We also prefixed the title with "Success: ". ([Trello](https://trello.com/c/83AycElp/683-dac-fix-success-message-focus))
+This was fixed [by making it focusable](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/963) and [by adding an aria alert role to the element](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training/pull/969). We also prefixed the title with “Success: ”. ([Trello](https://trello.com/c/83AycElp/683-dac-fix-success-message-focus))
 
 The fix brings our success alert inline with the error summary component provided by the design system.
 
@@ -92,7 +92,7 @@ Automated accessibility testing would not have found this issue.
 
 We fixed the following issues:
 
-- [Page 33: Add hidden content to "Change" links on Work History review (and other) page(s)](https://trello.com/c/XsqlA0hu/698-dac-page-33-add-hidden-content-to-change-links-on-work-history-review-and-other-pages)
+- [Page 33: Add hidden content to “Change” links on Work History review (and other) page(s)](https://trello.com/c/XsqlA0hu/698-dac-page-33-add-hidden-content-to-change-links-on-work-history-review-and-other-pages)
 - [Page 41: Change headings on provider offer page so they are in a hierarchical order](https://trello.com/c/n0wiBbfB/699-dac-page-41-change-headings-on-provider-offer-page-so-they-are-in-a-hierarchical-order)
 
 And we’re still tracking these:
@@ -106,14 +106,14 @@ DAC highlighted a number of usability issues that although they were not WCAG fa
 - [Page 50: Add (optional) to standard conditions in provider applications offer page](https://trello.com/c/hW5m9EFg/702-dac-page-50-add-optional-to-standard-conditions-in-provider-applications-offer-page)
 - [Page 51: Change all pages to only ask for one thing per page](https://trello.com/c/QJVmXusT/703-dac-page-51-change-all-pages-to-only-ask-for-one-thing-per-page)
 - [Page 56: Add error to the page title when rejecting an application without passing validation](https://trello.com/c/RK2v971U/704-dac-page-56-add-error-to-the-page-title-when-rejecting-an-application-without-passing-validation)
-- [Page 59: Add custom title to "Respond to application" provider page](https://trello.com/c/ARnK0YPP/706-dac-page-59-add-custom-title-to-respond-to-application-provider-page)
-- [Page 60: Add custom title to "Confirm offer" provider page](https://trello.com/c/Q7H4sXsR/707-dac-page-60-add-custom-title-to-confirm-offer-provider-page)
-- [Page 61: Add type="number" to "Graduation year" field in candidate degrees page](https://trello.com/c/QKnJCS65/708-dac-page-61-add-typenumber-to-graduation-year-field-in-candidate-degrees-page)
+- [Page 59: Add custom title to “Respond to application” provider page](https://trello.com/c/ARnK0YPP/706-dac-page-59-add-custom-title-to-respond-to-application-provider-page)
+- [Page 60: Add custom title to “Confirm offer” provider page](https://trello.com/c/Q7H4sXsR/707-dac-page-60-add-custom-title-to-confirm-offer-provider-page)
+- [Page 61: Add type="number" to “Graduation year” field in candidate degrees page](https://trello.com/c/QKnJCS65/708-dac-page-61-add-typenumber-to-graduation-year-field-in-candidate-degrees-page)
 - [Page 65: Add row headers to applications table in support](https://trello.com/c/8XjODzUS/709-dac-page-65-add-row-headers-to-applications-table-in-support)
 
 We’re still tracking:
 
-- [Page 48: Consider adding (optional) to "County" field in contact details page](https://trello.com/c/eh1oT3xn/701-dac-page-48-consider-adding-optional-to-county-field-in-contact-details-page)
+- [Page 48: Consider adding (optional) to “County” field in contact details page](https://trello.com/c/eh1oT3xn/701-dac-page-48-consider-adding-optional-to-county-field-in-contact-details-page)
 
 ## DfE Signin issues
 
