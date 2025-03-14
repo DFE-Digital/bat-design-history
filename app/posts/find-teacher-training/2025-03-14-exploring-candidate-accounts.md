@@ -35,7 +35,7 @@ We wanted to understand how adding candidates accounts on Find would improve the
 The key issues identified were:
 
 1. [Candidates give us the same information in multiple places](/find-teacher-training/exploring-candidate-accounts/#1.-candidates-can’t-save-or-shortlist-courses)
-2. [Lack of information at the point of need ](/find-teacher-training/exploring-candidate-accounts/#2.-candidates-aren’t-aware-when-courses-they’re-interested-in-become-full-or-close)
+2. [Lack of information at the point of need](/find-teacher-training/exploring-candidate-accounts/#2.-candidates-aren’t-aware-when-courses-they’re-interested-in-become-full-or-close)
 3. [Navigating the process between multiple services](/find-teacher-training/exploring-candidate-accounts/#3.-candidates-often-aren’t-clear-on-which-courses-they-might-be-eligible-for)
 
 ### 1. Candidates can’t save or shortlist courses
