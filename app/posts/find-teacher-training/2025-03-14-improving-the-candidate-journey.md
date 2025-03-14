@@ -30,7 +30,7 @@ Our assumption was that by improving the journey and better meeting user needs, 
 These were some of the key areas of opportunity we found. Some areas were identified in past research but are still valid in the current cycle.
 
 1. [Joining up the fragmented candidate journey](/find-teacher-training/improving-the-candidate-journey/#1.-joining-up-the-fragmented-candidate-journey)
-2. [Surfacing the right information at the right time ](/find-teacher-training/improving-the-candidate-journey/#2.-surfacing-the-right-information-at-the-right-time)
+2. [Surfacing the right information at the right time](/find-teacher-training/improving-the-candidate-journey/#2.-surfacing-the-right-information-at-the-right-time)
 3. [Surfacing getting school experience](/find-teacher-training/improving-the-candidate-journey/#3.-surfacing-getting-school-experience)
 4. [Help with qualifications and equivalencies](/find-teacher-training/improving-the-candidate-journey/#4.-help-with-qualifications-and-equivalencies)
 5. [Surfacing Teacher Training Advisers (TTAs)](/find-teacher-training/improving-the-candidate-journey/#5.-surfacing-teacher-training-advisers-(ttas))
@@ -206,6 +206,7 @@ Simplify the process and provide more guidance around writing a personal stateme
 Candidates want informative feedback on unsuccessful applications so that they can improve future applications. Provider feedback is important; however, candidates often say they get vague or non-existent feedback. This can feel demoralising.
 
 > In the 2021/2022 recruitment cycle:
+>
 > * 87% of rejected candidates did not reapply.
 > * 45% of candidates who did reapply were successful, which equated to 2,522 additional trainees.
 > * 21% of rejected candidates don't receive structured feedback.
@@ -249,5 +250,3 @@ Senior leaders will work with these teams to decide on what areas to focus on, a
 The team will now explore how introducing candidates accounts on Find might help meet user needs and improve the candidate journey.
 
 This could potentially be expanded to integrate accounts across GiT, Find, and Apply.
-
-
