@@ -28,7 +28,7 @@ As part of this work, we introduced a new [navigation bar](/apply-for-teacher-tr
 
 When a candidate is ready to add applications, we presented them with content about how courses can fill up quickly so they should apply soon.
 
-![Screenshot showing content a user would see before adding an application. The content tells the user that courses can fill up quickly and has a link to guidance on the application prociess. Below if a green button that says 'Add application'](ready-to-apply.png)
+![Screenshot showing content a user would see before adding an application. The content tells the user that courses can fill up quickly and has a link to guidance on the application prociess. Below if a green button that says ‘Add application'](ready-to-apply.png)
 
 We still ask candidates if they know where they want to apply. This is the same question we have currently.
 
@@ -36,19 +36,19 @@ If they say ‘No’, they navigate to the Find postgraduate teacher training se
 
 If they say ‘Yes’, we ask them which training provider they’re applying to.
 
-![Screenshot showing a question 'Do you know which training course you want to apply to' followed by yes and no radion inputs and a green button that says 'Continue'](knowing-which-provider.png)
+![Screenshot showing a question ‘Do you know which training course you want to apply to’ followed by yes and no radion inputs and a green button that says ‘Continue'](knowing-which-provider.png)
 
-![Screenshot showing a question 'Which training provider do you want to apply to' followed by a drop down menu of different training providers followed by a 'Continue' button.](which-provider.png)
+![Screenshot showing a question ‘Which training provider do you want to apply to’ followed by a drop down menu of different training providers followed by a ‘Continue’ button.](which-provider.png)
 
 Once they’ve chosen their training provider, we show a list of courses the training provider offers for candidates to choose from.
 
-![Screenshot showing a list of different courses a training provider offers. Course are in alphabetical order. Below the list is a green button that says 'Continue'](choose-courses.png)
+![Screenshot showing a list of different courses a training provider offers. Course are in alphabetical order. Below the list is a green button that says ‘Continue'](choose-courses.png)
 
 We then ask candidates if they’re interested in any other courses offered by the same training provider. Often candidates apply to different courses offered by the same training provider. This means they use up their 4 course choices on the same provider where they might be more successful applying to a range of different providers.
 
 With this design, a provider would be able to see the course a candidate wanted to apply to, but then also other courses they are interested in. A provider could still make an offer if the candidate was better suited to another course.
 
-![Screenshot showing a list of remaining courses a training provider offers. Course are in alphabetical order and users can select more than one if they are interested in additonal courses. Below the list is a green button that says 'Continue'](additional-courses.png)
+![Screenshot showing a list of remaining courses a training provider offers. Course are in alphabetical order and users can select more than one if they are interested in additonal courses. Below the list is a green button that says ‘Continue'](additional-courses.png)
 
 If the candidate has already applied to the same training provider, we show a page to tell them to apply to another training provider.
 
@@ -60,15 +60,15 @@ If a candidate has an application in draft, and then tries to add another applic
 
 Once they’ve chosen a course, candidates can then fill out their personal statement. We’re not sure if this was the best place to put the personal statement. But we felt it did not belong in the ‘Your details’ tab anymore.
 
-![Screenshot of a page called 'Personal statement' this is followed by content explaing to the user what they should write about in their statement and a large text box to write it in.](personal-statement.png)
+![Screenshot of a page called ‘Personal statement’ this is followed by content explaing to the user what they should write about in their statement and a large text box to write it in.](personal-statement.png)
 
 We then ask the candidate about their interview needs.
 
-![Screenshot of a page called 'Interview needs' where a user can tell training providers about anything they might need for an interview.](interview-needs.png)
+![Screenshot of a page called ‘Interview needs’ where a user can tell training providers about anything they might need for an interview.](interview-needs.png)
 
 Candidates would then be able to add any additional information to their application. We were not sure of the purpose of this question and discussed removing it after testing.
 
-![Screenshot of a page called 'Additional information' where the user is asked if they would like to add anything else to their application.](additional-information.png)
+![Screenshot of a page called ‘Additional information’ where the user is asked if they would like to add anything else to their application.](additional-information.png)
 
 On the final page, candidates can review their course selection. At this point they could choose to submit their application or save it as a draft.
 

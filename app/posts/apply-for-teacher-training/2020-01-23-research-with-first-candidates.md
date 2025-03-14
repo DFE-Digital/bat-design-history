@@ -33,7 +33,7 @@ We asked each user who submitted an application if they’d be happy to take par
 - "UCAS was longer, they ask a lot more in depth information too, like exactly which parts of the degree I took and credits etc. I ended up spending £50 having to request these details from my Uni about this, whereas in Apply I didn’t"
 - They did not put in any "Other relevant qualifications" such as their level 3 teaching assistant, first aid training or GCSEs/A Levels. They did not see this as mandatory, so did not fill it in. Whilst we were talking, they stated they probably wished they had put them in, but did not think it fitted in this section.
 - They understood the status their application was in correctly. They wanted to know if they would get emails if the status of their application changed at any point. They would like this.
-- They owned their own business and had to write 'Myself' in the employer name box. They did not say this was a problem as such, but we might want to think about a re-design for this for data purposes.
+- They owned their own business and had to write ‘Myself’ in the employer name box. They did not say this was a problem as such, but we might want to think about a re-design for this for data purposes.
 - Found all the content and guidance throughout the application super helpful - especially around the personal statement and splitting it out into 2 sections.
 - They understood about logging in and out via emails - but was a bit wary about this. They expected a normal password/log in. They said it was fine, but was annoying having to go back to the welcome email every time. They tried Googling Apply multiple times but could not find the link.
 

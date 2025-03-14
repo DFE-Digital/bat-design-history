@@ -4,7 +4,7 @@ description: The allocations process for the 2021 – 2022 recruitment cycle
 date: 2020-06-15
 tags:
   - allocations
-  - accreditied providers
+  - accredited providers
 screenshots:
   items:
     - Request PE courses
@@ -20,7 +20,7 @@ screenshots:
     - No PE requests were made
 ---
 
-The allocations process for the 2021 – 2022 recruitment cycle is now available to accredited bodies.
+The allocations process for the 2021 to 2022 recruitment cycle is now available to accredited bodies.
 
 Following the [allocations alpha](/publish-teacher-training-courses/allocations-alpha/), the request Physical Education (PE) feature was implemented in Publish teacher training courses (Publish). Development began in [April 2020](https://github.com/DFE-Digital/publish-teacher-training/pulls?page=2&q=allocation) and we launched the feature to accredited bodies in early June 2020.
 

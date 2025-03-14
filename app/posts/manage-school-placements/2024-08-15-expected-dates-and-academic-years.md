@@ -28,7 +28,7 @@ We tested three different approaches with school users in [user research round 6
 
 As part of [user research round 7](/manage-school-placements/user-research-round-7-findings/), we found a general consensus amongst ITT provider users that the academic term structure of a placement window would meet their needs too.
 
-We also reconsidered the language of 'placement window'. We stopped referring to placement windows within the service and asked instead about the expected dates of the placement, improving clarity and comprehension.
+We also reconsidered the language of ‘placement window’. We stopped referring to placement windows within the service and asked instead about the expected dates of the placement, improving clarity and comprehension.
 
 As part of this work, and in preparation for the start of the 2024/25 ITT recruitment cycle, we also looked at adding academic year to placements. This is the second part of understanding when a placement happens and will be essential as the service starts to be used to manage placements in the current year as well as finding them for the next year.
 

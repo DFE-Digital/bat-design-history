@@ -70,7 +70,7 @@ After clicking a link in the email, the participant saw the start page for setti
 
 Participants then saw a series of pages where they could set the permissions for each partner organisation. We‘d added a line to say that all users would be able to view applications and wanted to see whether that improved participants‘ understanding.
 
-After they‘d chosen organisation permissions for all partners, the participant reached a 'check answers' page. We were interested to see whether they used this page and went back to make any changes.
+After they‘d chosen organisation permissions for all partners, the participant reached a ‘check answers’ page. We were interested to see whether they used this page and went back to make any changes.
 
 Finally there was a confirmation page. This had links to further actions such as inviting or managing users and we wanted to see what users chose to do.
 
@@ -127,7 +127,7 @@ Some participants found the ‘criminal convictions’ and ‘diversity informat
 
 During the course of the research we changed the wording of the ‘diversity’ permission to ‘sex, disability and ethnicity information’. Participants found this wording to be clear.
 
-We did not change the 'criminal convictions' wording but may do so later.
+We did not change the ‘criminal convictions’ wording but may do so later.
 
 ### Understanding which organisation users belong to
 

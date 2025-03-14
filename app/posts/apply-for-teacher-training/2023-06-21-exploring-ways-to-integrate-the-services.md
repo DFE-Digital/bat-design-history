@@ -21,7 +21,7 @@ The Get Into Teaching website already has a [how to become a teacher page](https
 
 Another approach might be to use the [step by step pattern](https://design-system.service.gov.uk/patterns/step-by-step-navigation/). This has the advantage that it can also link all of the start pages for each of the services together. For a similar example, see [become a car driving instructor](https://www.gov.uk/become-car-driving-instructor).
 
-![Screenshot showing a page with the title 'How to become a teacher: step by step' with 6 steps.](step-by-step.png)
+![Screenshot showing a page with the title ‘How to become a teacher: step by step’ with 6 steps.](step-by-step.png)
 
 ## Find a course
 
@@ -31,7 +31,7 @@ Currently, when adding a course from the Apply service, it asks users if they al
 
 One option might be to incorporate both services under a single combined navigation header and a shared account.
 
-![Screenshot showing a page with a navigation bar with the items: Courses, Your details, Applications, Messages and the service title 'Become a teacher'](find.png)
+![Screenshot showing a page with a navigation bar with the items: Courses, Your details, Applications, Messages and the service title ‘Become a teacher'](find.png)
 
 This might make it clearer to users that the 2 services are closely connected.
 

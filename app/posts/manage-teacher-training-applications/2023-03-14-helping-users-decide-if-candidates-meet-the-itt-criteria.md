@@ -6,10 +6,10 @@ tags:
   - rejections
 ogImage:
   src: itt-criteria-cover-image.png
-  alt: "Illustration containing 5 screens: Each screen has a question relating to the initial teacher training criteria. If users answer 'Yes' to every question, they go to a page to give a reason for rejecting the candidate. If users answer 'No' to one or more of the questions, they go to a page where they can give optional feedback to the candidate."
+  alt: "Illustration containing 5 screens: Each screen has a question relating to the initial teacher training criteria. If users answer ‘Yes’ to every question, they go to a page to give a reason for rejecting the candidate. If users answer ‘No’ to one or more of the questions, they go to a page where they can give optional feedback to the candidate."
 ---
 
-![Illustration containing five screens: The first screen has a heading of 'Degree criteria' followed by a green arrow to screen 2 with a heading of 'English GCSE criteria', followed by a green arrow to screen 3 with a heading of 'Maths GCSE criteria', followed by a green arrow to screen 4. Screen 4 has a heading of 'Reason for rejection'. Users would land on this screen if all their previous answers are 'Yes'. Screen 5 has a heading of 'Optional reasons for rejection'. Users would land on this page if they answered 'No' to one of more of the questions on screen 1, 2 and 3.](itt-criteria-cover-image.png)
+![Illustration containing five screens: The first screen has a heading of ‘Degree criteria’ followed by a green arrow to screen 2 with a heading of ‘English GCSE criteria', followed by a green arrow to screen 3 with a heading of ‘Maths GCSE criteria', followed by a green arrow to screen 4. Screen 4 has a heading of ‘Reason for rejection’. Users would land on this screen if all their previous answers are ‘Yes’. Screen 5 has a heading of ‘Optional reasons for rejection’. Users would land on this page if they answered ‘No’ to one of more of the questions on screen 1, 2 and 3.](itt-criteria-cover-image.png)
 
 Since the 2022 to 2023 recruitment cycle started in October 2022, we’re seeing more candidates being rejected and fewer providers making offers. We created a new flow when providers reject candidates to ask if candidates met each initial teacher training (ITT) criteria to see if this would provide better support for providers in assessing candidates.
 
@@ -31,7 +31,7 @@ We also saw that eligible candidates are sometimes rejected even though they mee
 
 We believe there is a lot of interpretation and ambiguity in the ITT criteria. This leads to training providers being unsure on how to assess candidates, especially if they have equivalent qualifications.
 
-We wanted to test providers' understanding of the ITT criteria so that we can better support them when they make decisions about candidates.
+We wanted to test providers’ understanding of the ITT criteria so that we can better support them when they make decisions about candidates.
 
 We also wanted to understand more about how providers assess candidates and who makes the final decision on an application.
 
@@ -47,7 +47,7 @@ We added a question about if a candidate had a degree or not. This question woul
 
 We included a snippet taken directly from the ITT criteria about degrees. We did this to purposefully test if the language was understandable to training providers.
 
-![Screenshot showing a page with the heading 'Degree criteria ' and the question 'Do they meet the degree criteria'. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate’s degree should have'](degree-question.png)
+![Screenshot showing a page with the heading ‘Degree criteria ‘ and the question ‘Do they meet the degree criteria’. This page also shows the candidates degree from the application form and a snippet from the ITT criteria about how many credits a candidate’s degree should have'](degree-question.png)
 
 ### English, maths and science GCSE criteria questions
 
@@ -55,13 +55,13 @@ After the degree question, we included questions about if the candidate has an E
 
 We also included a snippet from the ITT criteria about GCSEs. We were particularly interested in finding out what training providers understood by “it is the standard, not the certificate, that matters” in the criteria, as we thought this was particularly unclear.
 
-![Screenshot showing a page with the heading 'English GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) English GCSE?'. This page also shows the candidates English qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](english-gcse-question.png)
+![Screenshot showing a page with the heading ‘English GCSE criteria ‘ and the question ‘Do they meet the standard equivalent to a grade 4 (C) English GCSE?’. This page also shows the candidates English qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](english-gcse-question.png)
 
-![Screenshot showing a page with the heading 'Maths GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) maths GCSE?'. This page also shows the candidates maths qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](maths-gcse-question.png)
+![Screenshot showing a page with the heading ‘Maths GCSE criteria ‘ and the question ‘Do they meet the standard equivalent to a grade 4 (C) maths GCSE?’. This page also shows the candidates maths qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](maths-gcse-question.png)
 
 The question about science GCSEs would only show if a candidate was applying to a primary course and their science qualification was not recognisable.
 
-![Screenshot showing a page with the heading 'Science GCSE criteria ' and the question 'Do they meet the standard equivalent to a grade 4 (C) in a science GCSE?'. This page also shows the candidates science qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](science-gcse-question.png)
+![Screenshot showing a page with the heading ‘Science GCSE criteria ‘ and the question ‘Do they meet the standard equivalent to a grade 4 (C) in a science GCSE?’. This page also shows the candidates science qualification from the application form and a snippet from the ITT criteria about meeting this criteria'](science-gcse-question.png)
 
 ### Optional extra feedback
 
@@ -69,7 +69,7 @@ If the training provider answered ‘No’ to any of the questions about if the 
 
 We made this optional because by answering ‘No’ to any of the previous questions about the ITT criteria, the training provider would have already given some feedback to the candidate.
 
-![Screenshot showing a page with the heading 'Give Peter Essien any other feedback (optional)'. Beneath this is a set of 9 checkboxes labelled with different reasons. Beneath this is a green ‘Continue’ button.'](optional-feedback.png)
+![Screenshot showing a page with the heading ‘Give Peter Essien any other feedback (optional)’. Beneath this is a set of 9 checkboxes labelled with different reasons. Beneath this is a green ‘Continue’ button.'](optional-feedback.png)
 
 ## What we learnt
 

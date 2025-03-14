@@ -30,9 +30,9 @@ The design for this involved splitting the application into 2 sections, these we
 
 The issue was that we were not sure if the personal statement belonged in ‘Your details’ or ‘Your applications’.
 
-![Screenshot showing 2 tabs, one labelled 'Your details' and one labelled 'Your applications'. There is text below telling candidates to complete all their details before they start applying to courses.](your-details-tab.png)
+![Screenshot showing 2 tabs, one labelled ‘Your details’ and one labelled ‘Your applications’. There is text below telling candidates to complete all their details before they start applying to courses.](your-details-tab.png)
 
-![Screenshot showing 2 tabs, one labelled 'Your details' and one labelled 'Your applications'. There is text below telling candidates they can add up to 4 applications and they need to complete their details before they can submit their applications.](your-applications-tab.png)
+![Screenshot showing 2 tabs, one labelled ‘Your details’ and one labelled ‘Your applications’. There is text below telling candidates they can add up to 4 applications and they need to complete their details before they can submit their applications.](your-applications-tab.png)
 
 We assumed it made more sense for the personal statement to be in ‘Your applications’ because candidate could then write a personal statement for each application.
 
@@ -55,7 +55,7 @@ For this option, the candidate would fill out all their details and then add the
 
 The personal statement does not appear on their task list on the ‘Your details’ tab. When a candidate is ready to add their applications, we tell them they will need to write a personal statement on the ‘Your applications’ tab.
 
-![Scheenshot showing text on the 'Your applications' tab. The text tells candidates they will need to write a personal statement before submitting their application.](option-1-personal-statement.png)
+![Scheenshot showing text on the ‘Your applications’ tab. The text tells candidates they will need to write a personal statement before submitting their application.](option-1-personal-statement.png)
 
 The personal statement only appears after the candidate has chosen a training provider and course.
 
@@ -79,11 +79,11 @@ We were not sure about copying the latest personal statement to each new applica
 
 For this option the personal statement would be in the task list on the ‘Your details’ tab.
 
-![Screenshot showing the personal statement in the 'Your details' task list at the bottom of the list.](option-2-personal-statement-in-task-list.png)
+![Screenshot showing the personal statement in the ‘Your details’ task list at the bottom of the list.](option-2-personal-statement-in-task-list.png)
 
 This personal statement would act as a ‘master version’.
 
-![Screenshot showing the personal statement question where the candidate can write their 'master' version of their statement.](master-personal-statement.png)
+![Screenshot showing the personal statement question where the candidate can write their ‘master’ version of their statement.](master-personal-statement.png)
 
 Once they’ve written their statement, they can review it and mark the section as complete.
 
@@ -91,11 +91,11 @@ Once they’ve written their statement, they can review it and mark the section 
 
 When a candidate is ready to add their applications on the ‘Your applications’ tab, we tell them they will be able to edit their personal statement.
 
-![Screenshot of the 'Your applications' tab telling the candidate they will be able to edit their personal statement if they want to.](applications-edit-master-statement.png)
+![Screenshot of the ‘Your applications’ tab telling the candidate they will be able to edit their personal statement if they want to.](applications-edit-master-statement.png)
 
 Once a candidate chooses a training provider and a course, we would copy their ‘master version’ of the personal statement and tell them they could tailor it.
 
-![Screenshot of the personal statement question in the 'Your applications' tab. There is inset text telling the candidate we’ve copied their 'master' version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-statement-first-application.png)
+![Screenshot of the personal statement question in the ‘Your applications’ tab. There is inset text telling the candidate we’ve copied their ‘master’ version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-statement-first-application.png)
 
 The candidate can then review their course and statement and submit their application.
 
@@ -103,7 +103,7 @@ The candidate can then review their course and statement and submit their applic
 
 When they add a second application, we would copy the master version over again. This means the master version would stay the same, but for each application, the candidate could tailor their statement further from the master version.
 
-![Screenshot of the personal statement question in the 'Your applications' tab. For the candidates second application, we show inset text again telling the candidate we’ve copied their 'master' version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-second-application.png)
+![Screenshot of the personal statement question in the ‘Your applications’ tab. For the candidates second application, we show inset text again telling the candidate we’ve copied their ‘master’ version of the statement and they can edit it further. Any changes they make will only show for this application.](edit-master-second-application.png)
 
 Once they’ve tailored their statement again, they can review and submit their application.
 
@@ -174,7 +174,7 @@ We decided to:
 
 Personal statement in the task list under ‘Work history’.
 
-![Screenshot showing the personal statement in the task list of the 'Your details' section.](final-personal-statement-in-task-list.png)
+![Screenshot showing the personal statement in the task list of the ‘Your details’ section.](final-personal-statement-in-task-list.png)
 
 Candidates can write their personal statement as they work through the task list.
 

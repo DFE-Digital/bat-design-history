@@ -16,11 +16,11 @@ We asked ourselves, "What assumptions are we making?”
 
 We collected the assumptions on a Lucid board.
 
-![Image of our Lucid board where we collected all our assumptions](collecting-our-assumptions.png 'Collecting our assumptions')
+![Image of our Lucid board where we collected all our assumptions](collecting-our-assumptions.png ‘Collecting our assumptions')
 
 We then discussed each assumption and placed them on a priority matrix with certainty and risk on the axes.
 
-![Image of our Lucid board where we mapped our riskiest assumptions with certainty on the x-axis and risk on the y-axis](mapping-our-riskiest-assumptions.png 'Mapping our riskiest assumptions')
+![Image of our Lucid board where we mapped our riskiest assumptions with certainty on the x-axis and risk on the y-axis](mapping-our-riskiest-assumptions.png ‘Mapping our riskiest assumptions')
 
 ## Our assumptions
 

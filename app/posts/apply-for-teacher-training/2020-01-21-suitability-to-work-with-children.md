@@ -57,9 +57,9 @@ Providers interview before requesting a DBS check. Interviews will often involve
 
 Some universities disagree – this is feedback based on an early design where we asked explicitly about convictions (like UCAS do):
 
-> We don’t undertake safeguarding obligations for interview. We do prior to placement in the school and ultimately continuation on the PGCE programme. We use enhanced DBS, check the Children’s Barred List (list 99) and check the prohibition list. We found the [original] question on the form on safeguarding unhelpful. It would create more work as we would have to track what they answered and when, check that with their DBS outcome. What would the provider do if the candidate said 'no' if the DBS was 'yes' or visa versa? This creates an unnecessary step. Indeed the question does not really enable the candidate to 'disclose' anything.
+> We don’t undertake safeguarding obligations for interview. We do prior to placement in the school and ultimately continuation on the PGCE programme. We use enhanced DBS, check the Children’s Barred List (list 99) and check the prohibition list. We found the [original] question on the form on safeguarding unhelpful. It would create more work as we would have to track what they answered and when, check that with their DBS outcome. What would the provider do if the candidate said ‘no’ if the DBS was ‘yes’ or visa versa? This creates an unnecessary step. Indeed the question does not really enable the candidate to ‘disclose’ anything.
 
-Any 'disclosure' would be superseded by the DBS so it is rather redundant.
+Any ‘disclosure’ would be superseded by the DBS so it is rather redundant.
 
 ## User needs
 

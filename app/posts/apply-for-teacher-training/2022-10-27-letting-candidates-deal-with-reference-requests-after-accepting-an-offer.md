@@ -8,10 +8,10 @@ related:
       href: https://docs.google.com/presentation/d/13gbxJk6S6j21MCtHN2B4E4-NM_BydZWqIX9SycDYoEk/edit#slide=id.g14472665577_1_98
 ogImage:
   src: managing-references.png
-  alt: "Illustration with the title 'References' and 3 references listed, 2 with the status 'REQUESTED' and 1 with the status 'RECEIVED BY TRAINING PROVIDER'"
+  alt: "Illustration with the title ‘References’ and 3 references listed, 2 with the status ‘REQUESTED’ and 1 with the status ‘RECEIVED BY TRAINING PROVIDER'"
 
 ---
-![Illustration with the title 'References' and 3 references listed, 2 with the status 'REQUESTED' and 1 with the status 'RECEIVED BY TRAINING PROVIDER'](managing-references.png)
+![Illustration with the title ‘References’ and 3 references listed, 2 with the status ‘REQUESTED’ and 1 with the status ‘RECEIVED BY TRAINING PROVIDER'](managing-references.png)
 
 {% from "email/macro.njk" import appEmail %}
 
@@ -46,7 +46,7 @@ Content at the top of this page lists the course and provider for the offer whic
 
 Links on the right let them view or withdraw their application. These functions have not been changed.
 
-The page has 2 subheadings, ’references' and 'offer conditions'.
+The page has 2 subheadings, ’references’ and ‘offer conditions’.
 
 The references section lists the candidate’s reference requests. For each one it includes:
 

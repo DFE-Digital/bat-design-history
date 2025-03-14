@@ -1,6 +1,6 @@
 ---
 title: User research round 6 findings
-description: Understanding schools' experiences since the launch of the Private Beta and testing onboarding journey and placement window prototypes
+description: Understanding schools’ experiences since the launch of the Private Beta and testing onboarding journey and placement window prototypes
 date: 2024-06-27
 tags:
   - research
@@ -24,7 +24,7 @@ We were originally targeting 5-6 participants for this round but were unable to 
 
 The goal of user research round 6 was to answer the following questions:
 
-- What have schools' experiences been, so far, using the live service during the Private Beta?
+- What have schools’ experiences been, so far, using the live service during the Private Beta?
 - What changes and improvements should be prioritised from a school perspective?
 - Would the addition of an onboarding journey be useful for school users? (testing our design ideas using a prototype)
 - Which of the new placement window designs would work best from a school perspective? (using prototype versions of an updated ‘Add placement’ journey)

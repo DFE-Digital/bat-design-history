@@ -44,7 +44,7 @@ We’re also making some improvements to the course information we collect so th
 
 All courses in this recruitment cycle will be rolled over to the new cycle ready to be updated and published.
 
-In July, you’ll see a new page titled ‘Recruitment cycles' with a link, '2023 to 2024’. You can then:
+In July, you’ll see a new page titled ‘Recruitment cycles’ with a link, ‘2023 to 2024’. You can then:
 
 - add new courses
 - update rolled over courses
@@ -121,7 +121,7 @@ On 3 October 2023, courses for the 2023 to 2024 recruitment cycle will be publis
 
 All courses that were published this recruitment cycle have now been rolled over to the new cycle (including withdrawn ones) ready to be edited and published.
 
-[Sign in to Publish teacher training courses (Publish)](https://www.publish-teacher-training-courses.service.gov.uk/sign-in) and on the ‘Recruitment cycles’ page, select ‘2023 to 2024'.
+[Sign in to Publish teacher training courses (Publish)](https://www.publish-teacher-training-courses.service.gov.uk/sign-in) and on the ‘Recruitment cycles’ page, select ‘2023 to 2024’.
 
 You can then:
 

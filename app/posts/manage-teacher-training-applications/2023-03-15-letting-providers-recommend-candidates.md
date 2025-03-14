@@ -6,10 +6,10 @@ tags:
   - rejections
 ogImage:
   src: recommend-cover-image.png
-  alt: "Illustration containing 2 screens: The first screen asks for the reason for rejection with a list of checkboxes. There is a green button below the checkboxes, once the user clisck on this, it goes to the second screen. Te second screen has a question that reads 'Would you recommend this candidate? Two radio selections are below the question followed by a green button."
+  alt: "Illustration containing 2 screens: The first screen asks for the reason for rejection with a list of checkboxes. There is a green button below the checkboxes, once the user clisck on this, it goes to the second screen. Te second screen has a question that reads ‘Would you recommend this candidate? Two radio selections are below the question followed by a green button."
 ---
 
-![Illustration containing 2 screens: The first screen asks for the reason for rejection with a list of checkboxes. There is a green button below the checkboxes, once the user clisck on this, it goes to the second screen. Te second screen has a question that reads 'Would you recommend this candidate?' Two radio selections are below the question followed by a green button.](recommend-cover-image.png)
+![Illustration containing 2 screens: The first screen asks for the reason for rejection with a list of checkboxes. There is a green button below the checkboxes, once the user clisck on this, it goes to the second screen. Te second screen has a question that reads ‘Would you recommend this candidate?’ Two radio selections are below the question followed by a green button.](recommend-cover-image.png)
 
 If a candidate meets all the initial teacher training (ITT) criteria, they can still be rejected for other reasons. We wanted to test the idea of a ‘shortlist of eligible candidates’ that training providers could recommend to other training providers.
 
@@ -30,7 +30,7 @@ On the page where we show the [preview of the email](/manage-teacher-training-ap
 
 This new question would only show if the [candidate meets all the ITT criteria](/manage-teacher-training-applications/helping-users-decide-if-candidates-meet-the-itt-criteria/).
 
-![Screenshot showing a page with the heading 'Check details and reject application'. Beneath this is a preview of the email the candidate will be sent to show why they were rejected. Beneath this is a question asking 'Would you recommend this candidate?'. The answers the user can select are, 'Yes, the should be invited' and 'No, your answer will not be shown to the candidate'. Beneath this is a green button that says 'Reject application'.](recommend-candidate.png)
+![Screenshot showing a page with the heading ‘Check details and reject application’. Beneath this is a preview of the email the candidate will be sent to show why they were rejected. Beneath this is a question asking ‘Would you recommend this candidate?’. The answers the user can select are, ‘Yes, the should be invited’ and ‘No, your answer will not be shown to the candidate’. Beneath this is a green button that says ‘Reject application’.](recommend-candidate.png)
 
 ## Research
 

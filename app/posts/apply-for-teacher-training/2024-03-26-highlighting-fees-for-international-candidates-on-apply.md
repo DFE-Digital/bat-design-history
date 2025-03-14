@@ -22,6 +22,6 @@ We also added course fees on other application statuses such as ‘awaiting deci
 
 ## Further considerations
 
-We are going to conduct some user testing to gain insight into international candidates' understanding and awareness of course fees in the new designs, and how this impacts the process of applying for their Initial Teacher Training.
+We are going to conduct some user testing to gain insight into international candidates’ understanding and awareness of course fees in the new designs, and how this impacts the process of applying for their Initial Teacher Training.
 
 We are also going to measure the success of this by tracking the number of withdrawals for ‘cost’ reasons.

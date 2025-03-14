@@ -127,13 +127,13 @@ We also added the text “We’ll show your answer to [name] and ask them whethe
 
 ### Check your answers
 
-![Screenshot showing page with the heading 'Check your answers before sending your request'. The page then summarises the reference questions, and asks 'Are you ready to send a reference request to Jane Smith?' with the options 'Yes, send a reference request now' and 'No, not at the moment'](old-check-answers-page.png "The previous check your answers page")
+![Screenshot showing page with the heading ‘Check your answers before sending your request’. The page then summarises the reference questions, and asks ‘Are you ready to send a reference request to Jane Smith?’ with the options ‘Yes, send a reference request now’ and ‘No, not at the moment'](old-check-answers-page.png "The previous check your answers page")
 
 We removed this page, as reference requests are no longer sent at this point. They’re sent after the candidate accepts an offer.
 
 ### References review page
 
-![Screenshot showing page with the heading 'References to be requested if you accept an offer'. It contains the same content as the introduction page, and then displays a green button labelled 'Add another reference' and then summarises the details of 1 reference given](references-review.png)
+![Screenshot showing page with the heading ‘References to be requested if you accept an offer’. It contains the same content as the introduction page, and then displays a green button labelled ‘Add another reference’ and then summarises the details of 1 reference given](references-review.png)
 
 After adding details for a reference, candidates are taken to a review page which lists the details of all references which have been added. Each reference has links to change details or delete the reference.
 
@@ -141,7 +141,7 @@ There’s also a button to add another reference, located at the top of the page
 
 The button is green when details have only been added for one reference. This is because the candidate must add details for at least 2 references, so we want to show that the candidate needs to click the button.
 
-![Screenshot showing page with the heading 'References to be requested if you accept an offer'. It contains the same content as the introduction page, and then displays a grey button labelled 'Add another reference', then summarises the details of 2 references given, and then asks 'Have you completed this section?' with the options 'Yes, I have completed this section' and 'No, I’ll come back to it later'](references-done.png)
+![Screenshot showing page with the heading ‘References to be requested if you accept an offer’. It contains the same content as the introduction page, and then displays a grey button labelled ‘Add another reference', then summarises the details of 2 references given, and then asks ‘Have you completed this section?’ with the options ‘Yes, I have completed this section’ and ‘No, I’ll come back to it later'](references-done.png)
 
 When at least 2 references have been added, the add another reference button is grey. The question “Have you completed this section?” is added to the bottom of the page, with a green button to let the candidate continue.
 

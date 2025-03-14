@@ -52,11 +52,11 @@ We showed participants a prototype journey of how a school could collect and dis
 
 ## Mentor information
 
-![Image showing the flow diagram for editing mentors](experiment-6-edit-mentor-flow.png 'Editing mentors flow')
+![Image showing the flow diagram for editing mentors](experiment-6-edit-mentor-flow.png ‘Editing mentors flow')
 
 ### Mentor details
 
-![Image showing mentor details](experiment-6-view-mentor--details.png 'Mentor details page')
+![Image showing mentor details](experiment-6-view-mentor--details.png ‘Mentor details page')
 
 We split the mentor details page into 2 sections:
 
@@ -103,7 +103,7 @@ We based the SEND training options on [Get information about schools (GIAS)](htt
 
 In future, we will update the list to include the types of SEND training teachers can do.
 
-![Image showing the mentor special educational needs and disabilities training question](experiment-6-edit-mentor--SEND.png 'Mentor special educational needs and disabilities (SEND) training question')
+![Image showing the mentor special educational needs and disabilities training question](experiment-6-edit-mentor--SEND.png ‘Mentor special educational needs and disabilities (SEND) training question')
 
 The list of SEND training includes:
 
@@ -132,7 +132,7 @@ If the user has not answered the question, we show an error message:
 
 This question allows users to add information, including if the mentor works as part of an exam board, if the mentor is working with a subject network in their area, and more. This allows the ITT provider to understand more about the mentor when setting up new school placements.
 
-![Image showing the mentor subject networks and associations question](experiment-6-edit-mentor--networks-and-associations.png 'Mentor subject networks and associations question')
+![Image showing the mentor subject networks and associations question](experiment-6-edit-mentor--networks-and-associations.png ‘Mentor subject networks and associations question')
 
 We show a text area for the user to add information about the mentor’s subject networks and associations.
 
@@ -146,7 +146,7 @@ If the user cannot answer the question, they can select ‘Cancel’ or return t
 
 This question allows users to add information about a mentor’s vocational experience. This information enables the ITT provider to understand more about the mentor when setting up new school placements.
 
-![Image showing the mentor other experiences question](experiment-6-edit-mentor--other-experiences.png 'Mentor other experiences question')
+![Image showing the mentor other experiences question](experiment-6-edit-mentor--other-experiences.png ‘Mentor other experiences question')
 
 We show a text area for the user to add information about the mentor’s other experiences.
 
@@ -162,7 +162,7 @@ If the user cannot answer the question, they can select ‘Cancel’ or return t
 
 Organisation details is a summary of information from on [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/).
 
-![Image showing organisation details](experiment-6-view-organisation--details.png 'Organisation details page')
+![Image showing organisation details](experiment-6-view-organisation--details.png ‘Organisation details page')
 
 For schools, we split the organisation details page into 5 sections:
 
@@ -238,7 +238,7 @@ We based the special classes question on [Get information about schools (GIAS)](
 
 We allow users to update the information in case GIAS data is incorrect.
 
-![Image showing the organisation special classes question](experiment-6-edit-organisation--special-classes.png 'Organisation special classes question')
+![Image showing the organisation special classes question](experiment-6-edit-organisation--special-classes.png ‘Organisation special classes question')
 
 The options include:
 
@@ -257,7 +257,7 @@ We based the SEND provision question on [Get information about schools (GIAS)](h
 
 We allow users to update the information in case GIAS data is incorrect.
 
-![Image showing the organisation special educational needs and disabilities provision question](experiment-6-edit-organisation--SEND.png 'Organisation special educational needs and disabilities (SEND) provision question')
+![Image showing the organisation special educational needs and disabilities provision question](experiment-6-edit-organisation--SEND.png ‘Organisation special educational needs and disabilities (SEND) provision question')
 
 The list of SEND provision include:
 
@@ -290,7 +290,7 @@ We based the training with disabilities question on a question we have in Publis
 
 The purpose of the question is for schools to describe how they support training with disabilities. For example, they could use it to describe the accessibility of their facilities, what equipment might be available for people with access needs, and more.
 
-![Image showing the organisation training with disabilities question](experiment-6-edit-organisation--training-with-disabilities.png 'Organisation training with disabilities question')
+![Image showing the organisation training with disabilities question](experiment-6-edit-organisation--training-with-disabilities.png ‘Organisation training with disabilities question')
 
 We show a text area for the user to add information about training with disabilities.
 

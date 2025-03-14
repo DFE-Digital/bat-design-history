@@ -33,7 +33,7 @@ Definition: all government grants shall be awarded through robust grant agreemen
 
 ### ‘Claim funding for mentor training’ approach
 
-For the public beta, we will publish the grant conditions on GOV.UK. For the private beta—approximately 370 placement schools—we will host the grant conditions in the 'Claim funding for mentor training' service.
+For the public beta, we will publish the grant conditions on GOV.UK. For the private beta—approximately 370 placement schools—we will host the grant conditions in the ‘Claim funding for mentor training’ service.
 
 This mirrors the approach taken by the ESFA, for instance with [backfill payments for time off timetable for early career framework (ECF) mentor training (national roll-out) conditions of grant](https://www.gov.uk/government/publications/backfill-payments-for-time-off-timetable-for-early-career-framework-ecf-mentor-training-national-roll-out/backfill-payments-for-time-off-timetable-for-early-career-framework-ecf-mentor-training-national-roll-out).
 

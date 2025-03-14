@@ -85,7 +85,7 @@ Because users will:
 
 ### Examples of how the messaging works on the [interstitial page](/apply-for-teacher-training/add-a-new-referee#you-need-to-add-a-new-referee)
 
-#### 'Response overdue'
+#### ‘Response overdue'
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
@@ -104,7 +104,7 @@ Because users will:
 > [Continue without adding a new referee]"
 }) }}
 
-#### 'Cancelled'
+#### ‘Cancelled'
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
@@ -123,15 +123,15 @@ Because users will:
 
 ### Examples of how the messaging works with the reference status tags
 
-[Reference status tags](/apply-for-teacher-training/improving-the-references-user-journey/#what-this-looks-like) are not necessarily the best places for instructions: if a candidate cancels a reference and adds a new one, the cancelled tag will still show - meaning an instruction to 'add a new referee' would be out of date.
+[Reference status tags](/apply-for-teacher-training/improving-the-references-user-journey/#what-this-looks-like) are not necessarily the best places for instructions: if a candidate cancels a reference and adds a new one, the cancelled tag will still show - meaning an instruction to ‘add a new referee’ would be out of date.
 
 To avoid complexity and outdated content, we give instructions on the states which are likely to get updated:
 
-#### 'Awaiting response'
+#### ‘Awaiting response'
 
 > We’ve emailed your referee. Keep in touch with them to ensure they’re planning on giving a reference as soon as possible.
 
-#### 'Response overdue'
+#### ‘Response overdue'
 
 > Your referee has not responded yet. Keep chasing the referee or cancel this request in favour of another referee.
 

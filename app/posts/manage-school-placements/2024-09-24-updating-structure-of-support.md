@@ -28,7 +28,7 @@ Doing so identified three possible routes:
 
 - Support users now choose which organisation they want to sign in as by using the same organisation selector as multi-org users. This has been tested and works well.
 - In line with the use of the organisation selector used by multi-org users, we have brought in a horizontal bar below the phase banner that shows the name of the organisation the user is signed in as, and a link allowing them to select another user.
-- All users now have the same levels of menus so the 'settings' and 'support users' buttons which only appear to support users have now moved into the header.
+- All users now have the same levels of menus so the ‘settings’ and ‘support users’ buttons which only appear to support users have now moved into the header.
 
 ## What are the benefits?
 
@@ -38,10 +38,10 @@ The key benefits of the new structure are:
 - The support user now sees the same screens as the user they’re supporting, meaning they’re better able to understand and explain things.
 - More efficient delivery of new features. As we design features for provider and school users they’re automatically added in the support console, meaning quicker delivery times.
 
-![Support users' organisation selector](support-org-selector.png "Support users' organisation selector")
+![Support users’ organisation selector](support-org-selector.png "Support users’ organisation selector")
 
 The screenshots below demonstrate the identical navigation for support users to the users they're helping.
 
-![Support users' navigation](support-nav.png "Support users' navigation")
+![Support users’ navigation](support-nav.png "Support users’ navigation")
 
-![School users' navigation](school-nav.png "School users' navigation")
+![School users’ navigation](school-nav.png "School users’ navigation")

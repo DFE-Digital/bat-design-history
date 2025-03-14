@@ -32,11 +32,11 @@ The goal of user research round 2 was to answer the following questions:
 
 We tested the first iteration of the ‘Find placement’ journey and got general feedback on the overall service and its value to ITT providers – building on the prototype produced as part of the Alpha phase.
 
-[![Find new placement flow](/manage-school-placements/finding-new-school-placements/find-placements--flow.png 'Find new placement flow')](/manage-school-placements/finding-new-school-placements/find-placements--flow.png)
+[![Find new placement flow](/manage-school-placements/finding-new-school-placements/find-placements--flow.png ‘Find new placement flow')](/manage-school-placements/finding-new-school-placements/find-placements--flow.png)
 
-[![Placements list](/manage-school-placements/finding-new-school-placements/placements--list.png 'Placements list')](/manage-school-placements/finding-new-school-placements/placements--list.png)
+[![Placements list](/manage-school-placements/finding-new-school-placements/placements--list.png ‘Placements list')](/manage-school-placements/finding-new-school-placements/placements--list.png)
 
-[![Partner schools list](/manage-school-placements/managing-partner-schools-if-youre-an-itt-provider/partner-schools--list.png 'Partner schools list')](/manage-school-placements/managing-partner-schools-if-youre-an-itt-provider/partner-schools--list.png)
+[![Partner schools list](/manage-school-placements/managing-partner-schools-if-youre-an-itt-provider/partner-schools--list.png ‘Partner schools list')](/manage-school-placements/managing-partner-schools-if-youre-an-itt-provider/partner-schools--list.png)
 
 ## Key insights
 

@@ -33,9 +33,9 @@ What is most useful for school users to see when they sign in to the service as 
 
 We tested the first iteration of the ‘Add mentor’ and ‘Add placement’ journeys and received general feedback on the overall service and its value to school users, building on the prototype produced as part of the Alpha phase.
 
-[![Add mentor flow](/manage-school-placements/adding-mentors/add-mentor--flow.png 'Add mentor flow')](/manage-school-placements/adding-mentors/add-mentor--flow.png)
+[![Add mentor flow](/manage-school-placements/adding-mentors/add-mentor--flow.png ‘Add mentor flow')](/manage-school-placements/adding-mentors/add-mentor--flow.png)
 
-[![Add placement flow](/manage-school-placements/adding-placements/add-placement--flow.png 'Add placement flow')](/manage-school-placements/adding-placements/add-placement--flow.png)
+[![Add placement flow](/manage-school-placements/adding-placements/add-placement--flow.png ‘Add placement flow')](/manage-school-placements/adding-placements/add-placement--flow.png)
 
 ## Key insights
 
@@ -63,7 +63,7 @@ Participants often did not realise that the service required them to enter each 
 
 Some participants confused the ‘Select all that apply’ instruction on the ‘Subject’ screen for secondary school placements. They interpreted it as saying they should select all subjects relevant to the school rather than only those applicable to the individual placement. In most cases, there will only be one subject for a single placement, but there are exceptions, such as for French and Spanish placements.
 
-[![Secondary subjects](/manage-school-placements/adding-placements/add-placement--subject-secondary.png 'Secondary subjects')](/manage-school-placements/adding-placements/add-placement--subject-secondary.png)
+[![Secondary subjects](/manage-school-placements/adding-placements/add-placement--subject-secondary.png ‘Secondary subjects')](/manage-school-placements/adding-placements/add-placement--subject-secondary.png)
 
 ### Insight 3
 
@@ -73,7 +73,7 @@ Adding a mentor before being able to add a placement is viewed as an unnecessary
 
 We set up the prototype so that participants need to add at least one mentor before being able to add a placement. Participants felt this constraint was an unnecessary barrier, as the choice to offer a placement often happens before they confirm a mentor. They said they would likely just add one mentor to get around this restriction rather than adding all of their mentors before adding their first placement (which was the intention behind the design),
 
-[![Screenshot of ‘Placements’ tab with instruction to add a mentor first](/manage-school-placements/adding-placements/placements--list-no-mentors.png 'Screenshot of ‘Placements’ tab with instruction to add a mentor first')](/manage-school-placements/adding-placements/placements--list-no-mentors.png)
+[![Screenshot of ‘Placements’ tab with instruction to add a mentor first](/manage-school-placements/adding-placements/placements--list-no-mentors.png ‘Screenshot of ‘Placements’ tab with instruction to add a mentor first')](/manage-school-placements/adding-placements/placements--list-no-mentors.png)
 
 > “I often wouldn’t know who the mentor is, or it might change, so it’s a bit silly doing it now. I can understand what it’s asking me to do but it’s putting the cart before the horse because it can change frequently.”
 
@@ -101,7 +101,7 @@ However, a negative was that—at specific points—some participants got confus
 
 ### Insight 6
 
-Based on the prototype tested, providing the required placement and mentor information is a manageable task for schools. However, we need to get ITT providers' perspectives, as any additions to satisfy their needs might increase the effort of adding and maintaining the information for schools.
+Based on the prototype tested, providing the required placement and mentor information is a manageable task for schools. However, we need to get ITT providers’ perspectives, as any additions to satisfy their needs might increase the effort of adding and maintaining the information for schools.
 
 #### Supporting detail and evidence
 

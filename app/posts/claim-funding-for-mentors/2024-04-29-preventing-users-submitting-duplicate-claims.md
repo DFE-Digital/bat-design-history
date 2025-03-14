@@ -17,6 +17,6 @@ Previously, we created a way to [prevent schools from submitting claims for fund
 
 However, it is still possible for two users at a school to submit identical claims if they are processing the claim simultaneously.
 
-To address this, we have introduced a new check at the end of the claim flow. This check is designed to identify if a user has already submitted an identical claim. If a duplicate claim is detected, we display a message stating, “You cannot submit the claim because your mentors' information has recently changed.” Users can view the claims and try again.
+To address this, we have introduced a new check at the end of the claim flow. This check is designed to identify if a user has already submitted an identical claim. If a duplicate claim is detected, we display a message stating, “You cannot submit the claim because your mentors’ information has recently changed.” Users can view the claims and try again.
 
 ![Preventing duplicate claims being submitted](cannot-submit-claim.png)

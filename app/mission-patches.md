@@ -150,7 +150,7 @@ Claim funding for mentor training is a new service in private beta. The service 
 
 The mascot for Get Into Teaching is called Tian. We chose a mole due to the fact that we were beginning to open up more as a society, much like a mole surfacing from underground.
 
-We chose the plaid shirt and mug due to the fact that several team members shared this 'look' as a profile picture on Slack.
+We chose the plaid shirt and mug due to the fact that several team members shared this ‘look’ as a profile picture on Slack.
 
 {{ appGallery({
   items: [{

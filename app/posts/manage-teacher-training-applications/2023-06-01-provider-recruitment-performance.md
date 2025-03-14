@@ -6,10 +6,10 @@ tags:
   - reports
 ogImage:
   src: mid-cycle-cover.png
-  alt: "Illustration with the heading '2022 to 2023 recruitment cycle performance' followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change."
+  alt: "Illustration with the heading ‘2022 to 2023 recruitment cycle performance’ followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change."
 ---
 
-![Illustration with the heading '2022 to 2023 recruitment cycle performance' followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change.](mid-cycle-cover.png)
+![Illustration with the heading ‘2022 to 2023 recruitment cycle performance’ followed by a table with 3 columns: Provider A, split by this cycle, last cycle and pecentage change. Then all providers, split by this cycle, last cycle and percentage change.](mid-cycle-cover.png)
 
 We released 2 reports to show training providers how their recruitment performance was going halfway through the recruitment cycle (from 11 October 2022 to 3 April 2023).
 
@@ -44,11 +44,11 @@ We added a new report showing training providers their own recruitment data from
 
  The data in the image is fake, and used for testing purposes.
 
-![Screenshot showing a page titled '2022 to 2023 recruitment cycle performance'.](provider-mid-cycle-report.png)
+![Screenshot showing a page titled ‘2022 to 2023 recruitment cycle performance’.](provider-mid-cycle-report.png)
 
 We added another [report that shows the national figures](https://www.apply-for-teacher-training.service.gov.uk/publications/mid-cycle-report) that we published independently from Manage. This is because there may be other people interested in national recruitment data.
 
-![Screenshot showing a page titled 'National recruitment performance for the 2022 to 2023 recruitment cycle'.](national-mid-cycle-report.png)
+![Screenshot showing a page titled ‘National recruitment performance for the 2022 to 2023 recruitment cycle’.](national-mid-cycle-report.png)
 
 ## What we learnt
 

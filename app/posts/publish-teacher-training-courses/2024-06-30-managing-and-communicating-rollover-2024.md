@@ -114,7 +114,7 @@ If you would like to be involved in research and testing of Publish in future, c
 "
 }) }}
 
-We also emailed a specific group of providers who had added text to the optional fields ‘Fee details’ and ‘Financial support.’ As part of the work we did to improve Publish, we merged these fields into a new field called 'Fees and financial support'. This was because analysis showed that people were tending to enter all financial support information in the ‘Fee details’ field and that it repeated content that is automatically rendered on the page about financial support.
+We also emailed a specific group of providers who had added text to the optional fields ‘Fee details’ and ‘Financial support.’ As part of the work we did to improve Publish, we merged these fields into a new field called ‘Fees and financial support’. This was because analysis showed that people were tending to enter all financial support information in the ‘Fee details’ field and that it repeated content that is automatically rendered on the page about financial support.
 
 Merging these fields would take some of the content over the word count meaning the content would be cut short. To mitigate against this we emailed them to ask them to follow these steps:
 

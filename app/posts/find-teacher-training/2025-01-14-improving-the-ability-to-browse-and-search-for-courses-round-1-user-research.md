@@ -126,7 +126,7 @@ The filters were easy to use ​and useful when changing or amending a search.
 
 The updated Degree Grade, Subject and Age filters were all understood.
 
-Some participants thought 'Qualifications' meant the qualifications they need to get onto the course, rather than what they will achieve on completion of the course.
+Some participants thought ‘Qualifications’ meant the qualifications they need to get onto the course, rather than what they will achieve on completion of the course.
 
 Candidates expected the apply filters button to be at the bottom of the list, so the designs were iterated to add it there.
 
@@ -178,7 +178,7 @@ When reading the course page content, participants felt like they had no control
 
 However, once they read the ‘How placements work’ box, they were reassured.
 
-![screenshot of 'where you will train' section ](where-you-will-train-round1.png)
+![screenshot of ‘where you will train’ section ](where-you-will-train-round1.png)
 
 #### Salaried courses
 

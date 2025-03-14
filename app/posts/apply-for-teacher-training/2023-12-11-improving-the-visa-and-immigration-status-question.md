@@ -16,7 +16,7 @@ This redesign replaces the previous free text box input with a user-friendly rad
 
 We have concluded that from insights gathered through user data analysis, candidates have a difficult time understanding what they are being asked when presented with the question ‘What is your immigration status?’ followed by a large free text box.  The example in the hint text mostly caters to users within the European economic area (EEA). As a result, the responses we receive are often ambiguous and unclear.
 
-![Screenshot of the old immigration status page showing a texbox with an example 'I have permanent residence'](old-immigration-status.png)
+![Screenshot of the old immigration status page showing a texbox with an example ‘I have permanent residence'](old-immigration-status.png)
 
 To address this issue, our primary goal was to simplify the process for candidates to communicate their visa or immigration status clearly. This not only serves to protect candidates but also ensures consistency for providers in evaluating candidate information.
 
@@ -28,9 +28,9 @@ The free text box for responses to the question led to spelling mistakes or auto
 
 Lack of consistency across responses and inclusion of sensitive information in the text box were additional concerns. To tackle this, we explored various solutions, including:
 
-- eliminating the 'immigration status' question altogether
+- eliminating the ‘immigration status’ question altogether
 
-- incorporating a '[immigration status share code](/apply-for-teacher-training/exploring-ways-to-integrate-the-services)' functionality
+- incorporating a ‘[immigration status share code](/apply-for-teacher-training/exploring-ways-to-integrate-the-services)’ functionality
 
 We opted for a preset answer approach, presenting users with a predefined list of the most common visa or immigration statuses.
 
@@ -52,7 +52,7 @@ We found that:
 
 - finding their visa or immigration status on the page posed no problems and users were able to do this in an acceptable amount of time
 
-- 'Other' was noticed and users said they would enter their visa name or immigration status here
+- ‘Other’ was noticed and users said they would enter their visa name or immigration status here
 
 - users did not question the presence of other visas or immigration statuses, including the Afghan and Ukraine visas, suggesting that they accepted that this page would be used by people of other nationalities and immigration statuses
 
@@ -66,7 +66,7 @@ We need to gather additional data to refine the list of radio buttons further. W
 
 - assess user responses once the radio list has been implemented
 
-- look for patterns if candidates use the 'Other' option
+- look for patterns if candidates use the ‘Other’ option
 
 - identify any missing visas or immigration statuses
 

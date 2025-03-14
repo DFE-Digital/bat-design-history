@@ -15,7 +15,7 @@ related:
       href: /manage-school-placements/user-research-round-3-findings/
 ---
 
-During [user research round 1](/manage-school-placements/user-research-round-1-findings/), a school user expressed nervousness that ITT providers may start contacting mentors directly if their names were visible. Schools have a dedicated staff member to manage their ITT placements. This person is often referred to as the ITT coordinator and they are listed as the 'Placement contact' within our service. ITT coordinator responsibilities do not sit with a particular role in the school, they could be assigned to any teaching post or senior leadership position.
+During [user research round 1](/manage-school-placements/user-research-round-1-findings/), a school user expressed nervousness that ITT providers may start contacting mentors directly if their names were visible. Schools have a dedicated staff member to manage their ITT placements. This person is often referred to as the ITT coordinator and they are listed as the ‘Placement contact’ within our service. ITT coordinator responsibilities do not sit with a particular role in the school, they could be assigned to any teaching post or senior leadership position.
 
 In [user research round 2](/manage-school-placements/user-research-round-2-findings/) ITT providers told us about contacting the main point of contact for the school. Finding this person can be a pain point for them and they specified that they would need this information to be prominent in the service for the service to be usable.
 

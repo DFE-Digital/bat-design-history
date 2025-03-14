@@ -24,4 +24,4 @@ We also took the opportunity to dramatically reduce and simplify the content on 
 
 ### After
 
-![Screenshot showing sign up page containing just the line 'By continuing you agree to our terms of use and privacy policy.'](sign-up.png "New sign up page")
+![Screenshot showing sign up page containing just the line ‘By continuing you agree to our terms of use and privacy policy.'](sign-up.png "New sign up page")

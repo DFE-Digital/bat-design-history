@@ -128,7 +128,7 @@ Selecting the start month of the placement worked well.
 
 The process of calculating placement duration varied amongst the participants. Many providers will guess. All participants manually counted using a calendar.
 
->“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I'd have to do it three times. It’s just more work.”—Round 5 P2 (SCITT)
+>“Oh this fills me with absolute dread. Everybody goes to every different school. A host school then a different school then a different ... I’d have to do it three times. It’s just more work.”—Round 5 P2 (SCITT)
 
 ### Confirm placement details
 

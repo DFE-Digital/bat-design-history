@@ -133,7 +133,7 @@ Contact details include:
 
 #### Not entered versus unknown information
 
-We show ' Not entered ' if data derived from GIAS is missing.
+We show ‘Not entered’ if data derived from GIAS is missing.
 
 In some cases, for example, Ofsted inspection data, the data will exist but be ‘Unknown’.
 

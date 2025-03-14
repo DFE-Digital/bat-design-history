@@ -26,7 +26,7 @@ Information for salaried courses also mentioned salary pay scales in addition to
 
 ### Removed the caption
 
-We removed the caption 'Advice from Get Into Teaching', as it didn't feel necessary to highlight the separation of digital products in the service.
+We removed the caption ‘Advice from Get Into Teaching', as it didn't feel necessary to highlight the separation of digital products in the service.
 
 ### Separated information
 
@@ -50,7 +50,7 @@ We reduced the content and added headings to make it clearer what financial supp
 
 ### Merged salary and fee sections
 
-We merged the 'Salary' and 'Fees and financial support' sections on salaried courses, to make the information clearer and more relevant.
+We merged the ‘Salary’ and ‘Fees and financial support’ sections on salaried courses, to make the information clearer and more relevant.
 
 ![screenshot of the new design of the financial support callout box for salaried courses with the sections opened](find-financial-callout-salaried-after-open-jan-2025.png)
 

@@ -53,7 +53,7 @@ One participant queried the way we address recipients.
 
 Some participants queried the amount of content we included in the templates and suggested that identifying the topic of the notification was not obvious.
 
-> Break up the second paragraph - lots of information in it. No point saying 'contact the school' if the course has been withdrawn cos there’s not much you can do about it!
+> Break up the second paragraph - lots of information in it. No point saying ’contact the school’ if the course has been withdrawn cos there’s not much you can do about it!
 
 > These are really important, it would be useful to have something in bold that alerts you straight away to what the email is about.
 

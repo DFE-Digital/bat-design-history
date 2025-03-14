@@ -60,7 +60,7 @@ It aims to discourage candidates applying for the first time from searching for 
 
 Even after the [deadline to apply for the first time](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/#7-september-2021-at-6pm) has passed, it’s still possible for a candidate applying for the first time to click on the ‘Apply for this course’ button on course pages (the [banner message](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle//#the-deadline-to-apply-for-the-first-time-has-passed) may not result in the intended behaviour):
 
-![Candidates applying for the first time can still click on the 'apply' button even after their deadline.](apply-for-this-course-button.png)
+![Candidates applying for the first time can still click on the ‘apply’ button even after their deadline.](apply-for-this-course-button.png)
 
 The button will not be disabled because candidates applying again are still eligible to choose and apply to the courses shown on Find until 21 September 2021 at 6pm.
 
@@ -84,9 +84,9 @@ We also remove the [‘Apply for this course’ button](/find-teacher-training/c
 
 The following message replaces the button, enabling candidates to start or continue an application despite courses being closed:
 
-![Stop allowing candidates to click 'Apply for this course'.](courses-closed-start-application-anyway.png)
+![Stop allowing candidates to click ‘Apply for this course’.](courses-closed-start-application-anyway.png)
 
-As before, candidates do not go through the ['you selected a course' journey](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/select-course-journey.png).
+As before, candidates do not go through the ['you selected a course’ journey](/find-teacher-training/changes-to-find-at-the-end-of-2021-cycle/select-course-journey.png).
 
 ## Find is closed
 
