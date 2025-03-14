@@ -11,10 +11,10 @@ When a provider adds a course in Publish teacher training courses (Publish), we 
 
 They can choose from either:
 
-- ‘As soon as the course is on Find – recommended'
+- ‘As soon as the course is on Find – recommended’
 - ‘Another date’
 
-If the user selects ‘As soon as the course is on Find – recommended' we display the ‘Apply for this course’ button on Find postgraduate teacher training (Find) around a week after Find opens at the beginning of October.
+If the user selects ‘As soon as the course is on Find – recommended’ we display the ‘Apply for this course’ button on Find postgraduate teacher training (Find) around a week after Find opens at the beginning of October.
 
 If they select ‘Another date’ they can manually input the date and the course would not have an ‘Apply for this course’ button until the date they had chosen.
 

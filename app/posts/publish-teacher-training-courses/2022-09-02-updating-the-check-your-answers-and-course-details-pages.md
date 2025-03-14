@@ -80,7 +80,7 @@ We changed the summary list headings on the ‘Check your answers’ and ‘Basi
 - Qualification
 - Funding type - if the organisation is a lead school, otherwise we show ‘Teaching apprenticeship’ for accredited bodies
 - Full time or part time
-- Location - if there is only one location; otherwise, we show plural 'Locations'
+- Location - if there is only one location; otherwise, we show plural ‘Locations’
 - Applications open date
 - Course start date
 

@@ -46,7 +46,7 @@ Taking the participant through a prototype journey to show how a school could po
 
 ## How the prototype works
 
-![Image showing the flow diagram for adding a school placement](experiment-1-add-school-placements-flow.png 'Add a school placement flow')
+![Image showing the flow diagram for adding a school placement](experiment-1-add-school-placements-flow.png ‘Add a school placement flow')
 
 Adding a school placement has 6 steps:
 
@@ -61,7 +61,7 @@ Selecting ‘Add placement’ takes the user to the start of the flow.
 
 ### Subject level
 
-![Image showing the subject level question](experiment-1-add-placement--subject-level.png 'Subject level question')
+![Image showing the subject level question](experiment-1-add-placement--subject-level.png ‘Subject level question')
 
 The question has 3 options:
 
@@ -85,7 +85,7 @@ Users can only select one subject.
 
 #### Primary subject specialism
 
-![Image showing the primary subject specialism question](experiment-1-add-placement--subject-primary.png 'Primary subject specialism question')
+![Image showing the primary subject specialism question](experiment-1-add-placement--subject-primary.png ‘Primary subject specialism question')
 
 If the user has selected the ‘Primary’ subject level, we show primary subject options:
 
@@ -99,7 +99,7 @@ If the user has selected the ‘Primary’ subject level, we show primary subjec
 
 #### Secondary subject
 
-![Image showing the secondary subject question](experiment-1-add-placement--subject-secondary.png 'Secondary subject question')
+![Image showing the secondary subject question](experiment-1-add-placement--subject-secondary.png ‘Secondary subject question')
 
 If the user has selected the ‘Secondary’ subject level, we show secondary subject options:
 
@@ -152,7 +152,7 @@ We show different age range options if the user has previously chosen the ‘Pri
 
 #### Primary age range
 
-![Image showing the primary age range question](experiment-1-add-placement--age-range-primary.png 'Primary age range question')
+![Image showing the primary age range question](experiment-1-add-placement--age-range-primary.png ‘Primary age range question')
 
 If the user has selected the ‘Primary’ subject level, we show:
 
@@ -163,7 +163,7 @@ If the user has selected the ‘Primary’ subject level, we show:
 
 #### Secondary age range
 
-![Image showing the secondary age range question](experiment-1-add-placement--age-range-secondary.png 'Secondary age range question')
+![Image showing the secondary age range question](experiment-1-add-placement--age-range-secondary.png ‘Secondary age range question')
 
 If the user has selected the ‘Secondary’ subject level, we show:
 
@@ -179,7 +179,7 @@ If the user has not answered the question, we show an error message:
 
 ### Class size
 
-![Image showing the class size question](experiment-1-add-placement--class-size.png 'Class size question')
+![Image showing the class size question](experiment-1-add-placement--class-size.png ‘Class size question')
 
 We show a small text input for class size.
 
@@ -189,7 +189,7 @@ If the user has not answered the question, we show an error message:
 
 ### Training pattern
 
-![Image showing the training pattern question](experiment-1-add-placement--training-pattern.png 'Training pattern question')
+![Image showing the training pattern question](experiment-1-add-placement--training-pattern.png ‘Training pattern question')
 
 We show 5 options for the training pattern, which correspond to the days of the week:
 
@@ -205,7 +205,7 @@ If the user has not answered the question, we show an error message:
 
 ### Check your answers
 
-![Image showing the check your answers page](experiment-1-add-placement--check-your-answers.png 'Check your answers page')
+![Image showing the check your answers page](experiment-1-add-placement--check-your-answers.png ‘Check your answers page')
 
 The final step is the ‘Check your answers’ page. The user can change:
 
@@ -268,13 +268,13 @@ Storing mentor information in one place, as a single source of truth, has a lot 
 
 ### Training pattern
 
-Entering the desired 'training pattern' (for example, days per week a trainee is on-site) is not something schools do. Although this may have utility when partnering with several providers or being open to doing so, at present, it is not behaviour schools are used to.
+Entering the desired ‘training pattern’ (for example, days per week a trainee is on-site) is not something schools do. Although this may have utility when partnering with several providers or being open to doing so, at present, it is not behaviour schools are used to.
 
-The ITT provider defines the trainees' training pattern as this is derived from their courses. A placement school must agree to these parameters when partnering with a provider, but these terms will be discussed during onboarding.
+The ITT provider defines the trainees’ training pattern as this is derived from their courses. A placement school must agree to these parameters when partnering with a provider, but these terms will be discussed during onboarding.
 
 ### Class size
 
-Entering the subject 'class size' is not helpful as this would vary between classes and schools.
+Entering the subject ‘class size’ is not helpful as this would vary between classes and schools.
 
 Trainees will teach various class sizes within a subject, depending on the school demographics.
 

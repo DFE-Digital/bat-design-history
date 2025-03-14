@@ -39,7 +39,7 @@ This new undergraduate route offers a way into teaching for those who do not hav
 
 We needed to make changes to the service to enable candidates to find and apply for TDAs, and providers to publish courses and manage applications.
 
-## What we changed in 'Your details'
+## What we changed in ‘Your details'
 
 ### A levels and other qualifications
 

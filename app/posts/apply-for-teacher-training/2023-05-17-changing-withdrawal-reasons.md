@@ -23,7 +23,7 @@ We told candidates that this information would not be shared with providers.
 
 A second question asked if we could get in touch with them to speak about their experience using the service. This was to enable user researchers to recruit participants.
 
-![Screenshot showing a page with the title 'Course choice withdrawn' followed by 2 Yes or No questions: 'Do you have a reasons for withdrawing?' and 'Can we contact you about your experience of using this service?'. Both questions show the answer 'Yes' having been selected, which has revealed text fields asking for more details.](before.png)
+![Screenshot showing a page with the title ‘Course choice withdrawn’ followed by 2 Yes or No questions: ‘Do you have a reasons for withdrawing?’ and ‘Can we contact you about your experience of using this service?’. Both questions show the answer ‘Yes’ having been selected, which has revealed text fields asking for more details.](before.png)
 
 The issues with asking an open question were that:
 
@@ -36,7 +36,7 @@ We also found that we were not making use of the second question to recruit cand
 
 We changed the page to instead display a list of checkboxes with common reasons for withdrawal, inviting candidates to select any that applied.
 
-![Screenshot showing a page with the title 'Reasons for withdrawing'. 2 questions are shown: 'Why are you withdrawing this application? (optional)' which has 12 options, each with a checkbox, and 'Is there anything else you would like to tell us? (optional)' which has a text field.](after.png)
+![Screenshot showing a page with the title ‘Reasons for withdrawing’. 2 questions are shown: ‘Why are you withdrawing this application? (optional)’ which has 12 options, each with a checkbox, and ‘Is there anything else you would like to tell us? (optional)’ which has a text field.](after.png)
 
 We told candidates that the reasons they selected would be shared with the provider, but as anonymous feedback.
 

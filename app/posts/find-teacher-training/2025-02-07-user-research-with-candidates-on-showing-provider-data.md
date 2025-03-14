@@ -39,7 +39,7 @@ We spoke to 8 prospective domestic ITT candidates.
 
 We conducted 1:1 interviews, which were 1 hour long.
 
-The first half of the session was exploratory. We discussed participants' thoughts and expectations about provider performance data in the context of Find.
+The first half of the session was exploratory. We discussed participants’ thoughts and expectations about provider performance data in the context of Find.
 
 The second half of the session was usability testing. We shared a prototype which included 5 different ITT courses.
 

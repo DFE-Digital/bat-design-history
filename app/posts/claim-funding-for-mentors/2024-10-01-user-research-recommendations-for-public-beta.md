@@ -82,7 +82,7 @@ Therefore, we assume there will unlikely be any new findings or pain points.
 
 Due to strict timelines within the private beta, we could only conduct research with the 2 providers that are part of it.
 
-Our research found that providers' needs will differ depending on their size and level of ‘digital maturity’ (for example, how streamlined and efficient their digital processes for tracking and managing mentors are).
+Our research found that providers’ needs will differ depending on their size and level of ‘digital maturity’ (for example, how streamlined and efficient their digital processes for tracking and managing mentors are).
 
 We must understand how informed providers should be regarding school claims and whether the sampling process works for them.
 

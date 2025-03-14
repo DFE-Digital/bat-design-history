@@ -38,11 +38,11 @@ For HESA trainees, HESA previously did not collect an end date - they only colle
 
 ### Referring to estimated end date
 
-![A screenshot of two sets of date inputs. The first is 'ITT start date', and the second is 'Estimated end date'.](1.manual-course-details-form.png)
-![A screenshot of the course itt dates form, showing two sets of date inputs. The first is 'ITT start date', and the second is 'Estimated end date'.](2.publish-course-dates-form.png)
-![A screenshot of a summary card showing completed course details. The last row shows 'expected end date'.](3.course-details-summary-card.png)
+![A screenshot of two sets of date inputs. The first is ‘ITT start date’, and the second is ‘Estimated end date’.](1.manual-course-details-form.png)
+![A screenshot of the course itt dates form, showing two sets of date inputs. The first is ‘ITT start date’, and the second is ‘Estimated end date’.](2.publish-course-dates-form.png)
+![A screenshot of a summary card showing completed course details. The last row shows ‘Expected end date’.](3.course-details-summary-card.png)
 
 ### Asking for updated estimated date when reinstating
 
-![Screenshot of a page titled 'What is the expected end date for their course?' with a date input.](4.updating-estimated-end-date-after-deferral.png)
-![Screenshot of the confirm page for reinstatement after deferral. The last row includes 'expected end date'.](5.summary-card-reinstatement.png)
+![Screenshot of a page titled ‘What is the expected end date for their course?’ with a date input.](4.updating-estimated-end-date-after-deferral.png)
+![Screenshot of the confirm page for reinstatement after deferral. The last row includes ‘Expected end date’.](5.summary-card-reinstatement.png)

@@ -98,7 +98,7 @@ Question 2 did not adequately offer career changers the opportunity to talk abou
 
 We conducted 5 interviews with candidates between Monday 2 and Friday 6 October 2024.
 
-We also shared the proposed guidance with 2 teacher training governing bodies: Universities' Council for the Education of Teachers (UCET) and The National Association of School-Based Teacher Trainers (NASBETT) and the network of teacher training advisers.
+We also shared the proposed guidance with 2 teacher training governing bodies: Universities’ Council for the Education of Teachers (UCET) and The National Association of School-Based Teacher Trainers (NASBETT) and the network of teacher training advisers.
 
 Research participants fed back that:
 

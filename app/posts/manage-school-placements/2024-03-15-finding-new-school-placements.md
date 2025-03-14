@@ -95,7 +95,7 @@ We paginate the list if the placements list contains more than 25 placements.
 
 Selecting ‘Find new placement’ on the placements list starts the find placement flow.
 
-[![Find new placement flow](find-placements--flow.png 'Find new placement flow')](find-placements--flow.png)
+[![Find new placement flow](find-placements--flow.png ‘Find new placement flow')](find-placements--flow.png)
 
 The ‘Find new placement’ flow has five steps:
 

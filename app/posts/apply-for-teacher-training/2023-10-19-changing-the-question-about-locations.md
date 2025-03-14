@@ -1,5 +1,5 @@
 ---
-title: Changing how we ask candidates about what location they are applying to 
+title: Changing how we ask candidates about what location they are applying to
 description: We changed the content on the question asking candidates what location they are applying to when they choose a training provider and course.
 date: 2023-10-19
 tags:
@@ -12,7 +12,7 @@ This change was released in August 2023.
 
 ## How Apply works with other services in Becoming a teacher
 
-Apply for teacher training (Apply) is one of 5 services that work together in the Becoming a teacher division.  
+Apply for teacher training (Apply) is one of 5 services that work together in the Becoming a teacher division.
 
 Training providers publish courses on Publish teacher training courses (Publish). These courses then show on Find postgraduate teacher training courses (Find). Candidates can search for courses on Find and then apply to courses in Apply.
 
@@ -23,19 +23,19 @@ When a candidate chooses a course they want to apply to, they also need to choos
 
 If the provider has only one location (usually ‘Main site’), we skip the location question in Apply.
 
-Apply pulls course information from Publish so the candidate can select and apply to their intended course.  
+Apply pulls course information from Publish so the candidate can select and apply to their intended course.
 
 When a candidate chooses a location, we show a radio list of all the locations a training provider has. This list is pre-populated based on the information the provider adds in the ‘Schools’ tab in Publish.
 
 When candidates choose their course in Apply they can add an application.
 
-![Screenshot of the 'Your applications' tab showing candidates they can add an application by selecting a green button.](your-applications-page.png)
+![Screenshot of the ‘Your applications’ tab showing candidates they can add an application by selecting a green button.](your-applications-page.png)
 
 Candidates are then asked if they know which course they want to apply to.
 
 ![Screenshot of a question asking candidates if they know which course they want to apply to.](which-course-page.png)
 
-If candidates say 'Yes', they then choose their training provider.
+If candidates say ‘Yes', they then choose their training provider.
 
 ![Screenshot of a question asking candidates which training provider they are applying to.](which-training-provider.png)
 
@@ -45,11 +45,11 @@ Once they have chose their training provider, they choose a course that the trai
 
 They then choose a location, if the provider has given that information in Publish.
 
-![Screenshot of the question asking candidates 'Which location are you applying to? The question is followed by a list of radio buttons.](old-location-question.png)
+![Screenshot of the question asking candidates ‘Which location are you applying to? The question is followed by a list of radio buttons.](old-location-question.png)
 
 They then see a summary page of what they have selected.
 
-![Screenshot of a summary page of all the questions the candidate has answered followed by 'Change' links and a green button to submit their application.](summary-page.png)
+![Screenshot of a summary page of all the questions the candidate has answered followed by ‘Change’ links and a green button to submit their application.](summary-page.png)
 
 ## The issue
 
@@ -79,11 +79,11 @@ We used the wording ‘school placements’ and added some guidance to explain w
 
 The question before we changed the content.
 
-![Screenshot of the question asking candidates 'Which location are you applying to? The question is followed by a list of radio buttons.](old-location-question.png)
+![Screenshot of the question asking candidates ‘Which location are you applying to? The question is followed by a list of radio buttons.](old-location-question.png)
 
 The question after the content changes.
 
-![Screenshot of the new question with a heading of 'School placement location' followed by some guidance explaining placements to candidates. Then there is a question asking candidates which location they are applying to with a list of radio options to choose from.](new-location-question.png)
+![Screenshot of the new question with a heading of ‘School placement location’ followed by some guidance explaining placements to candidates. Then there is a question asking candidates which location they are applying to with a list of radio options to choose from.](new-location-question.png)
 
 ## Further considerations
 

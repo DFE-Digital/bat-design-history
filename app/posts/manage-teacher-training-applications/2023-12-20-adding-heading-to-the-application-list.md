@@ -6,7 +6,7 @@ tags:
   - application status
 ---
 
-We added an extra heading and content to help providers view applications submitted over 30 working days ago.  
+We added an extra heading and content to help providers view applications submitted over 30 working days ago.
 
 ## The issue
 
@@ -18,9 +18,9 @@ We wanted to help providers easily identify applications submitted over 30 worki
 
 ## What we did
 
-As a simple solution, we added an extra heading to the application list in Manage teacher training applications (Manage). This header reads 'Received over 30 days ago - make a decision now' to create urgency for providers that these applications need a decison. We also added some guidance below it to explain why making decisions on these applications is important.
+As a simple solution, we added an extra heading to the application list in Manage teacher training applications (Manage). This header reads ‘Received over 30 days ago - make a decision now’ to create urgency for providers that these applications need a decison. We also added some guidance below it to explain why making decisions on these applications is important.
 
-![Screenshot of the new header that reads 'Received - make a decision now' with hint text to explain what these applications are.](old-application-header.png)
+![Screenshot of the new header that reads ‘Received - make a decision now’ with hint text to explain what these applications are.](old-application-header.png)
 
 We changed the colour of the text on applications submitted over 30 days ago. We decided to use colour and text so that we are not using colour alone to convey meaning which would cause issues with users who are colourblind or may perceive colour in different ways.
 

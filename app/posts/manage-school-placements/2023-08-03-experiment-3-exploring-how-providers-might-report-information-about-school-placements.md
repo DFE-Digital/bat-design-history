@@ -45,7 +45,7 @@ The experiment had 2 goals:
 
 ## How the prototype works
 
-[![Image showing the flow diagram for reporting information about school placements](experiment-3-report-information-flow.png 'Reporting information about school placements')](/school-placements/experiment-3-exploring-how-providers-might-report-information-about-school-placements/experiment-3-report-information-flow.png)
+[![Image showing the flow diagram for reporting information about school placements](experiment-3-report-information-flow.png ‘Reporting information about school placements')](/school-placements/experiment-3-exploring-how-providers-might-report-information-about-school-placements/experiment-3-report-information-flow.png)
 
 Reporting information about school placements has a minimum of 13 steps:
 
@@ -65,7 +65,7 @@ Reporting information about school placements has a minimum of 13 steps:
 
 ### Start page
 
-![Image showing the start page](experiment-3-report-information--start.png 'Start page')
+![Image showing the start page](experiment-3-report-information--start.png ‘Start page')
 
 This is the start of the report information journey.
 
@@ -73,7 +73,7 @@ The page explains why DfE needs the ITT provider to report information.
 
 ### Do you have a shortage of mentors or trainees?
 
-![Image showing the shortage gaet question](experiment-3-report-information--shortage-question.png 'Question page: Do you have a shortage of mentors or trainees?')
+![Image showing the shortage gaet question](experiment-3-report-information--shortage-question.png ‘Question page: Do you have a shortage of mentors or trainees?')
 
 The question has 3 options:
 
@@ -85,7 +85,7 @@ If the user selects ‘none’, we move them to the next section.
 
 ### What subjects does this shortage apply to?
 
-![Image showing the shortage subjects question](experiment-3-report-information--shortage-subjects.png 'Question page: What subjects does this shortage apply to?')
+![Image showing the shortage subjects question](experiment-3-report-information--shortage-subjects.png ‘Question page: What subjects does this shortage apply to?')
 
 For this prototype, we only showed secondary subjects. However, the list will include all subjects for which the provider can create courses on Publish teacher training courses (Publish).
 
@@ -93,7 +93,7 @@ The shortage subjects question is repeated if the user has previously selected m
 
 ### Intermediate check your answers - shortages
 
-![Image showing the intermediate check your answers page for reporting shortages](experiment-3-report-information--shortage-check-your-answers.png 'Intermediate check your answers page for reporting shortages')
+![Image showing the intermediate check your answers page for reporting shortages](experiment-3-report-information--shortage-check-your-answers.png ‘Intermediate check your answers page for reporting shortages')
 
 On this intermediate check your answers page, the user can change:
 
@@ -102,7 +102,7 @@ On this intermediate check your answers page, the user can change:
 
 ### Do you have a surplus of mentors or trainees?
 
-![Image showing the surplus gate question](experiment-3-report-information--surplus-question.png 'Question page: Do you have a surplus of mentors or trainees?')
+![Image showing the surplus gate question](experiment-3-report-information--surplus-question.png ‘Question page: Do you have a surplus of mentors or trainees?')
 
 The question has 3 options:
 
@@ -114,7 +114,7 @@ If the user selects ‘none’, we move them to the next section.
 
 ### What subjects does this surplus apply to?
 
-![Image showing the surplus subjects](experiment-3-report-information--surplus-subjects.png 'Question page: What subjects does this surplus apply to?')
+![Image showing the surplus subjects](experiment-3-report-information--surplus-subjects.png ‘Question page: What subjects does this surplus apply to?')
 
 As with the shortage subjects list, we only showed secondary subjects for this prototype. However, the list will include all subjects for which the provider can create courses on Publish.
 
@@ -122,7 +122,7 @@ The surplus subjects question is repeated if the user has previously selected me
 
 ### Intermediate check your answers - surpluses
 
-![Image showing the intermediate check your answers page for reporting surpluses](experiment-3-report-information--surplus-check-your-answers.png 'Intermediate check your answers page for reporting surpluses')
+![Image showing the intermediate check your answers page for reporting surpluses](experiment-3-report-information--surplus-check-your-answers.png ‘Intermediate check your answers page for reporting surpluses')
 
 On this intermediate check your answers page, the user can change:
 
@@ -131,7 +131,7 @@ On this intermediate check your answers page, the user can change:
 
 ### Which primary subject specialisms are hard to find placements for?
 
-![Image showing the primary subject specialisms question it’s difficult to find placements for](experiment-3-report-information--difficulties-subjects-primary.png 'Question page: Which primary subject specialisms are hard to find placements for?')
+![Image showing the primary subject specialisms question it’s difficult to find placements for](experiment-3-report-information--difficulties-subjects-primary.png ‘Question page: Which primary subject specialisms are hard to find placements for?')
 
 The question includes a list of all primary subjects specialisms providers can use to create courses on Publish.
 
@@ -139,7 +139,7 @@ We also include a ‘none’ option. This is because some providers may not have
 
 ### Which secondary subjects are hard to find placements for?
 
-![Image showing the secondary subjects question it’s difficult to find placements for](experiment-3-report-information--difficulties-subjects-secondary.png 'Question page: Which secondary subjects are hard to find placements for?')
+![Image showing the secondary subjects question it’s difficult to find placements for](experiment-3-report-information--difficulties-subjects-secondary.png ‘Question page: Which secondary subjects are hard to find placements for?')
 
 The question includes a list of all secondary subjects providers can use to create courses on Publish.
 
@@ -147,7 +147,7 @@ We also include a ‘none’ option. This is because some providers may not have
 
 ### What are the biggest challenges for you in managing ITT?
 
-![Image showing the question “What are the biggest challenges for you in managing ITT?”](experiment-3-report-information--challenges.png 'Question page: What are the biggest challenges for you in managing ITT?')
+![Image showing the question “What are the biggest challenges for you in managing ITT?”](experiment-3-report-information--challenges.png ‘Question page: What are the biggest challenges for you in managing ITT?')
 
 The question has 6 options:
 
@@ -163,7 +163,7 @@ If the user chooses ‘other’, we show a text field for them to answer.
 
 ### What are the biggest barriers to providing ITT placements for schools in your area?
 
-![Image showing the question “What are the biggest barriers to providing ITT placements for schools in your area?”](experiment-3-report-information--barriers.png 'Question page: What are the biggest barriers to providing ITT placements for schools in your area?')
+![Image showing the question “What are the biggest barriers to providing ITT placements for schools in your area?”](experiment-3-report-information--barriers.png ‘Question page: What are the biggest barriers to providing ITT placements for schools in your area?')
 
 The question has 5 options:
 
@@ -178,7 +178,7 @@ If the user chooses ‘other’, we show a text field for them to answer.
 
 ### Final check your answers
 
-![Image showing the final check your answers page](experiment-3-report-information--check-your-answers.png 'Final check your answers page')
+![Image showing the final check your answers page](experiment-3-report-information--check-your-answers.png ‘Final check your answers page')
 
 The penultimate step is the ‘Check your answers’ page.
 
@@ -193,7 +193,7 @@ Users can change their answers to each section. When they have completed their c
 
 ### Confirmation page
 
-![Image showing the confirmation page](experiment-3-report-information--confirmation.png 'Confirmation page')
+![Image showing the confirmation page](experiment-3-report-information--confirmation.png ‘Confirmation page')
 
 The confirmation page is the final step in the reporting information journey.
 

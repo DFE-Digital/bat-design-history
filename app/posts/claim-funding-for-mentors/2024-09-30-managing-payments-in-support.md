@@ -93,7 +93,7 @@ The payment section is empty until we receive a response from the ESFA; there ar
 
 > There are no claims waiting to be processed.
 
-![Screenshot showing the payments section empty state](payments--default.png 'Screenshot showing the payments section empty state')
+![Screenshot showing the payments section empty state](payments--default.png ‘Screenshot showing the payments section empty state')
 
 ### List of claims
 

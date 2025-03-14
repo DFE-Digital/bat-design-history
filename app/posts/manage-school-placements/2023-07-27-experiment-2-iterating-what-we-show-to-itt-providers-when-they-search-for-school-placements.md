@@ -60,7 +60,7 @@ We made these changes because:
 
 ### Finding a school placement
 
-![Image showing the flow diagram for finding a school placement](experiment-2-find-school-placements-flow.png 'Find a school placement flow')
+![Image showing the flow diagram for finding a school placement](experiment-2-find-school-placements-flow.png ‘Find a school placement flow')
 
 Finding a school placement has 5 steps:
 
@@ -72,7 +72,7 @@ Finding a school placement has 5 steps:
 
 ### Find school placements by location or by school
 
-![Image showing find school placements by location or by school page](experiment-2-find-placement--school-or-location.png 'Find school placements by location or by school')
+![Image showing find school placements by location or by school page](experiment-2-find-placement--school-or-location.png ‘Find school placements by location or by school')
 
 We display the list of locations in an autocomplete. We populate the list of places using the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview).
 
@@ -80,7 +80,7 @@ We display the list of schools in an autocomplete. We populate the list of schoo
 
 ### Age group
 
-![Image showing age group question](experiment-2-find-placement--age-group.png 'Age group question')
+![Image showing age group question](experiment-2-find-placement--age-group.png ‘Age group question')
 
 The question has 3 options:
 
@@ -98,7 +98,7 @@ We show a list of subjects depending on the age group previously selected.
 
 #### Primary subject specialism
 
-![Image showing primary subject specialism question](experiment-2-find-placement--subject-primary.png 'Primary subject specialism question')
+![Image showing primary subject specialism question](experiment-2-find-placement--subject-primary.png ‘Primary subject specialism question')
 
 We show a list of primary subject specialisms if a user selects the ‘primary’ age group. These include:
 
@@ -112,7 +112,7 @@ We show a list of primary subject specialisms if a user selects the ‘primary�
 
 #### Secondary subject
 
-![Image showing secondary subject question](experiment-2-find-placement--subject-secondary.png 'Secondary subject question')
+![Image showing secondary subject question](experiment-2-find-placement--subject-secondary.png ‘Secondary subject question')
 
 We show a list of secondary subjects if a user selects the ‘secondary’ age group. These include:
 
@@ -159,7 +159,7 @@ If the user has not answered the question, we show an error message:
 
 ### List of school placements
 
-![Image showing the list of school placements page](experiment-2-find-placement--results.png 'List of school placements')
+![Image showing the list of school placements page](experiment-2-find-placement--results.png ‘List of school placements')
 
 Once the user has selected their location, subject level and subject, we show them a list of relevant school placements.
 
@@ -193,15 +193,15 @@ An individual placement item on the list includes:
 
 We changed the search results list item between experiments 1 and 2 to reflect the changes in the content we collect from schools.
 
-![Image showing the change in search results content and layout between experiments 1 and 2](experiment-2-progression--search-result-item.png 'The change in search results content and layout between experiments 1 and 2')
+![Image showing the change in search results content and layout between experiments 1 and 2](experiment-2-progression--search-result-item.png ‘The change in search results content and layout between experiments 1 and 2')
 
 We also changed the search results filters between experiments 1 and 2 to reflect the changes in the content we show on the search results list items.
 
-![Image showing the change in search results filters between experiments 1 and 2](experiment-2-progression--search-results-filters.png 'The change in search results filters between experiments 1 and 2')
+![Image showing the change in search results filters between experiments 1 and 2](experiment-2-progression--search-results-filters.png ‘The change in search results filters between experiments 1 and 2')
 
 ### School placement details page
 
-![Image showing school placement details page](experiment-2-find-placement--details.png 'School placement details')
+![Image showing school placement details page](experiment-2-find-placement--details.png ‘School placement details')
 
 Selecting the school name or subject in the individual school placement list items takes the user to the school placement details page.
 
@@ -217,7 +217,7 @@ The school placement details page includes:
 
 We changed the school placement details page between experiments 1 and 2 to reflect the changes in the content we collect from schools.
 
-![Image showing the change in the details page content and layout between experiments 1 and 2](experiment-2-progression--details-page.png 'The change in the details page content between experiments 1 and 2')
+![Image showing the change in the details page content and layout between experiments 1 and 2](experiment-2-progression--details-page.png ‘The change in the details page content between experiments 1 and 2')
 
 ## Further considerations
 
@@ -243,7 +243,7 @@ For example, if the ITT provider only runs secondary courses, we would not ask q
 
 Seeing potential placement schools in the service is helpful to providers. However, some users stated they would still need to ensure new partner schools met their partnership standards.
 
-Selecting 'mentor availability' was challenging as this would depend on which ITT provider they had chosen to work with that academic year. It is not ordinarily pre-defined.
+Selecting ‘mentor availability’ was challenging as this would depend on which ITT provider they had chosen to work with that academic year. It is not ordinarily pre-defined.
 
 ### General findings
 

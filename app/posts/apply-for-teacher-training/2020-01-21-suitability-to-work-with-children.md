@@ -43,7 +43,7 @@ related:
   html: "[We iterated this design](/apply-for-teacher-training/declaring-safeguarding-concerns)" | markdown("inline")
 }) }}
 
-Universities have given us some "red flag" feedback that we are not doing enough to capture information about criminal convictions in our application form.
+Universities have given us some “red flag” feedback that we are not doing enough to capture information about criminal convictions in our application form.
 
 Until now we were only subtly referencing criminal records in the final [Anything else to add? section](/apply-for-teacher-training/apply-launch#88-submit-application) of the application form. This comes without any warning to a candidate.
 
@@ -57,9 +57,9 @@ Providers interview before requesting a DBS check. Interviews will often involve
 
 Some universities disagree – this is feedback based on an early design where we asked explicitly about convictions (like UCAS do):
 
-> We don’t undertake safeguarding obligations for interview. We do prior to placement in the school and ultimately continuation on the PGCE programme. We use enhanced DBS, check the Children’s Barred List (list 99) and check the prohibition list. We found the [original] question on the form on safeguarding unhelpful. It would create more work as we would have to track what they answered and when, check that with their DBS outcome. What would the provider do if the candidate said 'no' if the DBS was 'yes' or visa versa? This creates an unnecessary step. Indeed the question does not really enable the candidate to 'disclose' anything.
+> We don’t undertake safeguarding obligations for interview. We do prior to placement in the school and ultimately continuation on the PGCE programme. We use enhanced DBS, check the Children’s Barred List (list 99) and check the prohibition list. We found the [original] question on the form on safeguarding unhelpful. It would create more work as we would have to track what they answered and when, check that with their DBS outcome. What would the provider do if the candidate said ‘no’ if the DBS was ‘yes’ or visa versa? This creates an unnecessary step. Indeed the question does not really enable the candidate to ‘disclose’ anything.
 
-Any 'disclosure' would be superseded by the DBS so it is rather redundant.
+Any ‘disclosure’ would be superseded by the DBS so it is rather redundant.
 
 ## User needs
 
@@ -127,12 +127,12 @@ Because recruiting users for this feature is difficult, we sent a survey out to 
 
 We had 39 responses.
 
-42% of respondents correctly judged the title "Your suitability to work with children" related to DBS and safeguarding. But 53% thought it would be a section about experience and personal skills.
+42% of respondents correctly judged the title “Your suitability to work with children” related to DBS and safeguarding. But 53% thought it would be a section about experience and personal skills.
 
 Respondents disliked that there were no examples of things that should be included. The purpose of responding to this question and its effect on an application were not clear (it’ll depend on what’s disclosed). They liked that the guidance was clear and concise and thought the tone was right, “It encourages people to be open in a non-forceful way”.
 
 Most respondents said they had nothing to share, 1 shared a health related issue and another said they would not be comfortable sharing, “I would want to be certain that any information I shared would not hinder my application”.
 
-82% of respondents agreed that this question should be asked in the "About you" section.
+82% of respondents agreed that this question should be asked in the “About you” section.
 
 [Read the full playback](https://docs.google.com/presentation/d/1sPxwjerXVdunLLzjwSSTOZyT9j9s_xfF_hRf9W412c0/edit#slide=id.p)

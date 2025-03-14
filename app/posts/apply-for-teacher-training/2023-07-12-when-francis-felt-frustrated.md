@@ -6,10 +6,10 @@ tags:
   - subject knowledge enhancements
 ogImage:
   src: francis-cover-image.png
-  alt: "Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says 'When Francis felt frustrated."
+  alt: "Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says ‘When Francis felt frustrated."
 ---
 
-![Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says 'When Francis felt frustrated.](francis-cover-image.png)
+![Illustration of a woman with her hands on her head looking frustrated. Around her head are icons of exclamation marks and question marks showing her confusion. The the left of her it says ‘When Francis felt frustrated.](francis-cover-image.png)
 
 Previously, we designed guidance to tell candidates they have to do a [subject knowledge enhancement (SKE) course](/apply-for-teacher-training/telling-candidates-they-have-an-ske-condition/) before their teacher training.
 
@@ -30,7 +30,7 @@ Francis has a degree in Pharmacology, and dreams of teaching chemistry and makin
 
 She applies to a secondary teacher training course in chemistry. To apply, she has to fill out a form.
 
-![Illustration of a woman sitting at a desk at her laptop. Behind her is an image of a teacher training application form. In the top right corner of the illustration there is a label that says 'Form 1'.](francis-applying.png)
+![Illustration of a woman sitting at a desk at her laptop. Behind her is an image of a teacher training application form. In the top right corner of the illustration there is a label that says ‘Form 1’.](francis-applying.png)
 
 Francis gets an interview from a training provider called Fresh Teacher Training.
 
@@ -40,7 +40,7 @@ Before her interview, Francis fills out a second form called a ‘subject knowle
 
 Francis starts to fret that she does not know enough to teach.
 
-![Illustration of a woman reading a book. Behind her is a form called 'Chemistry Subject Audit' in the top right corner of the illustration it says 'Form 2'.](francis-subject-knowledge.png)
+![Illustration of a woman reading a book. Behind her is a form called ‘Chemistry Subject Audit’ in the top right corner of the illustration it says ‘Form 2’.](francis-subject-knowledge.png)
 
 A recruitment officer from Fresh Teacher Training reviews Francis’ subject knowledge audit.
 
@@ -110,7 +110,7 @@ Francis eventually chooses ExtrA Learning Trust that Fresh Teacher Training orig
 
 She goes to the website and fills out another form.
 
-![Illustration showing a woman hunched over a laptop looking tired. Behind her is an image of another form she has to fill out. In the top right corner of the illustration it says 'Form 3'.](subject-knowledge-audit.png)
+![Illustration showing a woman hunched over a laptop looking tired. Behind her is an image of another form she has to fill out. In the top right corner of the illustration it says ‘Form 3’.](subject-knowledge-audit.png)
 
 “Fiddlesticks” says Francis,
 
@@ -126,7 +126,7 @@ They ask Francis to send her degree certificate and proof of her home fee status
 
 “Not again” says Francis.
 
-![Illustration of a woman looking angry and frustrated. Behind her is an image of another form she has to fill out for her SKE course. In the top right corner of the illustration it says 'Form 4'.](another-form.png)
+![Illustration of a woman looking angry and frustrated. Behind her is an image of another form she has to fill out for her SKE course. In the top right corner of the illustration it says ‘Form 4’.](another-form.png)
 
 ## Starting the SKE course
 
@@ -150,7 +150,7 @@ It’s less than she earns as a waiter and she’s halfway through her SKE cours
 
 Francis fills out another form to provide her bank details.
 
-![Illustration of a woman sitting with her laptop on her lap. Behind her is an image of a form asking for her bank details. In the top right corner if the illustration it says 'Form 5'.](bank-account-details.png)
+![Illustration of a woman sitting with her laptop on her lap. Behind her is an image of a form asking for her bank details. In the top right corner if the illustration it says ‘Form 5’.](bank-account-details.png)
 
 It’s been 3 weeks since Francis gave her bank details. She wonders when she’ll get paid.
 

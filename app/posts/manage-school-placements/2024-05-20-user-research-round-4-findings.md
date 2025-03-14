@@ -69,7 +69,7 @@ The following minor changes and potential additions were identified:
 
 - Consider changing the "Users" tab to "Support users" to avoid any ambiguity with the ‘Users’ for an organisation within the service
 - Consider adding an edit user feature as this would also benefit support users – although removing and readding users, rather than having the ability to edit, is used on other DfE services
-- When adding an ITT provider using 'Add organisation', showing the UK Provider Reference Number (UKPRN) in the autocomplete results would be more useful than seeing the code from the Publish teacher training courses service
+- When adding an ITT provider using ‘Add organisation', showing the UK Provider Reference Number (UKPRN) in the autocomplete results would be more useful than seeing the code from the Publish teacher training courses service
 - Look at ways to prevent lag issues with the autocomplete field when school or provider names are entered – no results are shown when the full name is entered too quickly although this is common across DfE services so support users can work around it
 - It might be useful to see when a user was added or last active but this need was speculative and would require more evidence to confirm its value
 

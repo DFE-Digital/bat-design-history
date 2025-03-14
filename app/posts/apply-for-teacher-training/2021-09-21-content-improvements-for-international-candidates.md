@@ -13,7 +13,7 @@ When we did user research with international students we found things we could c
 
 When a candidate adds an international qualification to their application, they’re asked to enter a grade.
 
-![Screenshot of 'What grade is your maths qualification?' question, with examples 'A', '4.5', '84%'.](grade-question-with-examples.png "Grade question with examples")
+![Screenshot of ‘What grade is your maths qualification?’ question, with examples ‘A', ‘4.5', ‘84%’.](grade-question-with-examples.png "Grade question with examples")
 
 If a candidate enters ‘42’ as their grade, a provider may think this means ‘42 out of 100’, when it could mean something different (such as ‘42 out of 60’).
 
@@ -29,4 +29,4 @@ We’ve also updated the list of examples with school qualifications from the no
 
 At the time of writing, these countries were France, India, Spain and Nigeria.
 
-![Screenshot of 'What type of English qualification do you have?' question with new hint text.](what-type-of-English-qualification-do-you-have.png "What type of English qualification do you have?")
+![Screenshot of ‘What type of English qualification do you have?’ question with new hint text.](what-type-of-English-qualification-do-you-have.png "What type of English qualification do you have?")

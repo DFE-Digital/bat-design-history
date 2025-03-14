@@ -107,7 +107,7 @@ This page also includes a ‘Remove placement’ link, which allows users to del
 
 Selecting ‘Add placement’ starts the add placement flow.
 
-[![Add placement flow](add-placement--flow.png 'Add placement flow')](add-placement--flow.png)
+[![Add placement flow](add-placement--flow.png ‘Add placement flow')](add-placement--flow.png)
 
 The ‘Add placement’ flow has five steps:
 

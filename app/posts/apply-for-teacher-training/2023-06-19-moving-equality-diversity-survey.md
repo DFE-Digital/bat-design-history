@@ -7,10 +7,10 @@ tags:
   - equality and diversity
 ogImage:
   src: equality-survey-cover-image.png
-  alt: "Illustration showing a task list with different sections. The last section is called 'Equality and diversity' and shows some content explaining that training providers will not see the answer to this section until the user has accepted an offer."
+  alt: "Illustration showing a task list with different sections. The last section is called ‘Equality and diversity’ and shows some content explaining that training providers will not see the answer to this section until the user has accepted an offer."
 ---
 
-![Illustration showing a task list with different sections. The last section is called 'Equality and diversity' and shows some content explaining that training providers will not see the answer to this section until the user has accepted an offer.](equality-survey-cover-image.png)
+![Illustration showing a task list with different sections. The last section is called ‘Equality and diversity’ and shows some content explaining that training providers will not see the answer to this section until the user has accepted an offer.](equality-survey-cover-image.png)
 
 As part of the work to [change the application process](/apply-for-teacher-training/changing-application-process/), we moved the questions about equality and diversity to a new tab called ‘Your details’.
 
@@ -37,7 +37,7 @@ We moved these questions to the new tab called ‘Your details’.
 
 We included a line about how training providers would not see the answers to these questions until a candidate accepts an offer. Previously we included this information on a separate page before a candidate starts answering the questions.
 
-![Screenshot showing a section of the task list called 'Equality and diversity’. Beneath the heading is some text explaining that training providers will not see the answers to these questions. Below this is a link to the questions within the section.](task-list-page.png)
+![Screenshot showing a section of the task list called ‘Equality and diversity’. Beneath the heading is some text explaining that training providers will not see the answers to these questions. Below this is a link to the questions within the section.](task-list-page.png)
 
 On each question we also explained that training providers will not see these answers and not use them to make decisions.
 

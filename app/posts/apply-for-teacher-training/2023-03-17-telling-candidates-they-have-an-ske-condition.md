@@ -7,10 +7,10 @@ tags:
   - application details
 ogImage:
   src: ske-cover-image.png
-  alt: "Illustration with the text 'Offer received' and information about doing an 8 week subject knowledge enhancement course in physics"
+  alt: "Illustration with the text ‘Offer received’ and information about doing an 8 week subject knowledge enhancement course in physics"
 ---
 
-![Illustration with the text 'Offer received' and inforation about doing an 8 week subject knowledge enhancement course in physics](ske-cover-image.png)
+![Illustration with the text ‘Offer received’ and inforation about doing an 8 week subject knowledge enhancement course in physics](ske-cover-image.png)
 
 Previously, we designed a way to help training providers add a subject knowledge enhancement (SKE) course as a condition of an offer.
 
@@ -56,7 +56,7 @@ We give them information on:
 - the SKE course being free and they’ll get £175 a week while they do it
 - how they can study their SKE (online, in-person or both)
 
-![Screenshot showing the offer a candidate will recieve with a subject knowledge enhancement course attached. The course is for a 12 week biology course. The content also tells the user they should start their course by April 2023, there is a £175 bursary they can get while doing the course and there are options on how they can study which include full time, part time and online or in-person. The screen then asks the user to respond to the offer'.](ske-offer-page.png)
+![Screenshot showing the offer a candidate will recieve with a subject knowledge enhancement course attached. The course is for a 12 week biology course. The content also tells the user they should start their course by April 2023, there is a £175 bursary they can get while doing the course and there are options on how they can study which include full time, part time and online or in-person. The screen then asks the user to respond to the offer’.](ske-offer-page.png)
 
 ### Language SKE courses
 
@@ -70,7 +70,7 @@ If there are 2 language SKE courses, we show slightly different content with gra
 
 Once they accept the offer, we show their SKE course with their other conditions, like their Disclosure and Barring Service (DBS) check.
 
-![Screenshot with the heading 'Study before you start training' followed by content saying the user has a 20 weeks maths course with the tag 'Not yet started'. This is followed by content explaining when the user should start their course, that there will be a £175 bursary for the course and to contact the University of Sussex if they have any issues.](offer-page.png)
+![Screenshot with the heading ‘Study before you start training’ followed by content saying the user has a 20 weeks maths course with the tag ‘Not yet started’. This is followed by content explaining when the user should start their course, that there will be a £175 bursary for the course and to contact the University of Sussex if they have any issues.](offer-page.png)
 
 ### Selecting a training provider
 
@@ -80,19 +80,19 @@ We wanted to test if it would be feasible to allow candidates to choose their SK
 
 We added a button to the ‘Offer page’ that would allow candidates to select an SKE training provider.
 
-![Screenshot with the heading 'Study before you start training' followed by content saying the user has a 20 weeks maths course with the tag 'Not yet started'. This is followed by content explaining when the user should start their course, that there will be a £175 bursary for the course and to contact the University of Sussex if they have any issues. This is then followed by a green button that says 'Select a training provider'.](study-before-training.png)
+![Screenshot with the heading ‘Study before you start training’ followed by content saying the user has a 20 weeks maths course with the tag ‘Not yet started’. This is followed by content explaining when the user should start their course, that there will be a £175 bursary for the course and to contact the University of Sussex if they have any issues. This is then followed by a green button that says ‘Select a training provider’.](study-before-training.png)
 
 On the next page, there is a link to the SKE course directory. This is so candidates can go and look at possible options if they’re not sure who to choose.
 
 Then we show a list of SKE providers to choose from. Ideally, this would only show a list of providers that offer a SKE course in the relevant subject.
 
-![Screenshot with the heading 'Selecting a training provider'. This is followed by a link to the subject knowledge enhamncement (SKE) directory and a radio list of SKE training providers that the user can do their SKE course with.](select-training-provider.png)
+![Screenshot with the heading ‘Selecting a training provider’. This is followed by a link to the subject knowledge enhamncement (SKE) directory and a radio list of SKE training providers that the user can do their SKE course with.](select-training-provider.png)
 
 After selecting an SKE provider, there’s a screen that tells the candidate what information we would share with that provider to set expectations. We’re not sure how technically feasible this would be but we wanted to test the concept with users to see if this would be a smoother process.
 
 Currently, candidates have to go to the SKE provider’s website and fill in another application form. Often this form asks for the same information as our service. This seems like a waste of time.
 
-![Screenshot with the heading 'Confirm training provider'. This is followed by content tellng the user what information we will share with the SKE provider which includes their name, email address, phone number and degree and A levels. It then says the provider will contact the user followed by a green 'Continue' button.](confirm-ske-provider.png)
+![Screenshot with the heading ‘Confirm training provider’. This is followed by content tellng the user what information we will share with the SKE provider which includes their name, email address, phone number and degree and A levels. It then says the provider will contact the user followed by a green ‘Continue’ button.](confirm-ske-provider.png)
 
 ## Initial results
 
@@ -116,7 +116,7 @@ Some of the language used in the directory (like short, medium, or long courses)
 
 We removed our designs that allowed candidates to choose the SKE provider in our service. Although they tested well, we need to think about how we can integrate SKE provider information into our service and if this is something our service should even handle.
 
-Instead of having a green button that says 'Select a training provider' we now just show the final page showing all the candidate’s conditions. We replaced the green button with a link to the SKE course directory so canddiates can use it.
+Instead of having a green button that says ‘Select a training provider’ we now just show the final page showing all the candidate’s conditions. We replaced the green button with a link to the SKE course directory so canddiates can use it.
 
 Once a candidate has finished their SKE course, their ITT training provider can mark it as completed. This would then change the status on the candidate’s side to ‘Completed’ too.
 

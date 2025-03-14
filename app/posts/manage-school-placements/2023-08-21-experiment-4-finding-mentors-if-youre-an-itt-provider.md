@@ -43,7 +43,7 @@ We showed participants a prototype journey of how they could search for a mentor
 
 ## How the prototype works
 
-![Image showing the flow diagram for finding mentors](experiment-4-find-mentors-flow.png 'Finding mentors flow')
+![Image showing the flow diagram for finding mentors](experiment-4-find-mentors-flow.png ‘Finding mentors flow')
 
 Finding a mentor has 5 steps:
 
@@ -55,19 +55,19 @@ Finding a mentor has 5 steps:
 
 ### Find a mentor by location or by school
 
-![Image showing find a mentor by location or by school page](experiment-4-find-mentors--school-or-location.png 'Find a mentor by location or by school')
+![Image showing find a mentor by location or by school page](experiment-4-find-mentors--school-or-location.png ‘Find a mentor by location or by school')
 
 We display the list of locations in an autocomplete. We populate the list of places using the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview).
 
-![Image showing the location autocomplete](experiment-4-find-mentors--location-autocomplete.png 'Location autocomplete')
+![Image showing the location autocomplete](experiment-4-find-mentors--location-autocomplete.png ‘Location autocomplete')
 
 We display the list of schools in an autocomplete. We populate the list of schools from [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) data.
 
-![Image showing the school autocomplete](experiment-4-find-mentors--school-autocomplete.png 'School autocomplete')
+![Image showing the school autocomplete](experiment-4-find-mentors--school-autocomplete.png ‘School autocomplete')
 
 ### Age group
 
-![Image showing age group question](experiment-4-find-mentors--age-group.png 'Age group question')
+![Image showing age group question](experiment-4-find-mentors--age-group.png ‘Age group question')
 
 The question has 3 options:
 
@@ -85,7 +85,7 @@ We show a list of subjects depending on the age group previously selected.
 
 #### Primary subject specialism
 
-![Image showing primary subject specialism question](experiment-4-find-mentors--subject-primary.png 'Primary subject specialism question')
+![Image showing primary subject specialism question](experiment-4-find-mentors--subject-primary.png ‘Primary subject specialism question')
 
 We show a list of primary subject specialisms if a user selects the ‘primary’ age group. These include:
 
@@ -99,7 +99,7 @@ We show a list of primary subject specialisms if a user selects the ‘primary�
 
 #### Secondary subject
 
-![Image showing secondary subject question](experiment-4-find-mentors--subject-secondary.png 'Secondary subject question')
+![Image showing secondary subject question](experiment-4-find-mentors--subject-secondary.png ‘Secondary subject question')
 
 We show a list of secondary subjects if a user selects the ‘secondary’ age group. These include:
 
@@ -146,7 +146,7 @@ If the user has not answered the question, we show an error message:
 
 ### List of mentors
 
-![Image showing the list of mentors page](experiment-4-find-mentors--results.png 'List of mentors')
+![Image showing the list of mentors page](experiment-4-find-mentors--results.png ‘List of mentors')
 
 Once the user has selected their location, subject level and subject, we show them a list of relevant mentors.
 
@@ -213,15 +213,15 @@ The mentor details include:
 
 The search results list item has changed extensively between experiments 2 and 4.
 
-![Image showing the change in search results content and layout between experiments 2 and 4](experiment-4-progression--search-result-item.png 'The change in search results content and layout between experiments 2 and 4')
+![Image showing the change in search results content and layout between experiments 2 and 4](experiment-4-progression--search-result-item.png ‘The change in search results content and layout between experiments 2 and 4')
 
 We also changed the search results filters between experiments 2 and 4 to reflect the changes in the content we show on the search results list items.
 
-![Image showing the change in search results filters between experiments 2 and 4](experiment-4-progression--search-results-filters.png 'The change in search results filters between experiments 2 and 4')
+![Image showing the change in search results filters between experiments 2 and 4](experiment-4-progression--search-results-filters.png ‘The change in search results filters between experiments 2 and 4')
 
 ### Mentor details page
 
-![Image showing mentor details page](experiment-4-find-mentors--details.png 'Mentor details')
+![Image showing mentor details page](experiment-4-find-mentors--details.png ‘Mentor details')
 
 Selecting the school name or subject in the individual school placement list items takes the user to the school placement details page.
 
@@ -283,7 +283,7 @@ The contact details include:
 
 #### Iteration of the mentor details page
 
-![Image showing the change in the details page content and layout between experiments 2 and 4](experiment-4-progression--details-page.png 'The change in the details page content between experiments 2 and 4')
+![Image showing the change in the details page content and layout between experiments 2 and 4](experiment-4-progression--details-page.png ‘The change in the details page content between experiments 2 and 4')
 
 The mentor details page has changed significantly between experiments 2 and 4. We have:
 

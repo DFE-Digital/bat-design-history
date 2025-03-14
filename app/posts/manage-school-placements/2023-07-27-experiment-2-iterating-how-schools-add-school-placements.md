@@ -53,7 +53,7 @@ From the first iteration we:
 
 We made these changes because:
 
-- entering the subject 'class size' is not helpful as this would vary between classes and schools
+- entering the subject ‘class size’ is not helpful as this would vary between classes and schools
 - selecting ‘training pattern’ is not something schools do; it is derived from the ITT provider
 - ITT providers need mentors to create placements
 - ITT providers store information on known mentors within their network
@@ -61,7 +61,7 @@ We made these changes because:
 
 ### Adding a school placement
 
-![Image showing the flow diagram for adding a school placement](experiment-2-add-school-placements-flow.png 'Add a school placement flow')
+![Image showing the flow diagram for adding a school placement](experiment-2-add-school-placements-flow.png ‘Add a school placement flow')
 
 In this iteration, adding a school placement has 7 steps:
 
@@ -77,7 +77,7 @@ Selecting ‘Add placement’ takes the user to the start of the flow.
 
 ### Subject level
 
-![Image showing the subject level question](experiment-2-add-placement--subject-level.png 'Subject level question')
+![Image showing the subject level question](experiment-2-add-placement--subject-level.png ‘Subject level question')
 
 The question has 3 options:
 
@@ -101,7 +101,7 @@ Users can only select one subject.
 
 #### Primary subject specialism
 
-![Image showing the primary subject specialism question](experiment-2-add-placement--subject-primary.png 'Primary subject specialism question')
+![Image showing the primary subject specialism question](experiment-2-add-placement--subject-primary.png ‘Primary subject specialism question')
 
 If the user has selected the ‘Primary’ subject level, we show:
 
@@ -115,7 +115,7 @@ If the user has selected the ‘Primary’ subject level, we show:
 
 #### Secondary subject
 
-![Image showing the secondary subject question](experiment-2-add-placement--subject-secondary.png 'Secondary subject question')
+![Image showing the secondary subject question](experiment-2-add-placement--subject-secondary.png ‘Secondary subject question')
 
 If the user has selected the ‘Secondary’ subject level, we show:
 
@@ -168,7 +168,7 @@ We show different age range options if the user has previously chosen the ‘Pri
 
 #### Primary age range
 
-![Image showing the primary age range question](experiment-2-add-placement--age-range-primary.png 'Primary age range question')
+![Image showing the primary age range question](experiment-2-add-placement--age-range-primary.png ‘Primary age range question')
 
 If the user has selected the ‘Primary’ subject level, we show:
 
@@ -179,7 +179,7 @@ If the user has selected the ‘Primary’ subject level, we show:
 
 #### Secondary age range
 
-![Image showing the secondary age range question](experiment-2-add-placement--age-range-secondary.png 'Secondary age range question')
+![Image showing the secondary age range question](experiment-2-add-placement--age-range-secondary.png ‘Secondary age range question')
 
 If the user has selected the ‘Secondary’ subject level, we show:
 
@@ -201,7 +201,7 @@ We show different key stage options if the user has previously chosen the ‘Pri
 
 #### Primary key stage
 
-![Image showing the primary key stage question](experiment-2-add-placement--key-stage-primary.png 'Primary key stage question')
+![Image showing the primary key stage question](experiment-2-add-placement--key-stage-primary.png ‘Primary key stage question')
 
 If the user has selected the ‘Primary’ subject level, we show:
 
@@ -211,7 +211,7 @@ If the user has selected the ‘Primary’ subject level, we show:
 
 #### Secondary key stage
 
-![Image showing the secondary key stage question](experiment-2-add-placement--key-stage-secondary.png 'Secondary key stage question')
+![Image showing the secondary key stage question](experiment-2-add-placement--key-stage-secondary.png ‘Secondary key stage question')
 
 If the user has selected the ‘Secondary’ subject level, we show:
 
@@ -229,7 +229,7 @@ If the user has not answered the question, we show an error message:
 
 In this iteration, we added a question about the mentor for the school placement. We added this question because mentor suitability is one of the essential elements of school placements for an ITT provider to know. If several providers share mentors in the local area, their availability becomes key to deciding placements.
 
-![Image showing the mentor question](experiment-2-add-placement--mentor.png 'Mentor question')
+![Image showing the mentor question](experiment-2-add-placement--mentor.png ‘Mentor question')
 
 We show a list of mentors that correspond to the subject chosen.
 
@@ -243,7 +243,7 @@ If the user has not answered the question, we show an error message:
 
 In this iteration, we changed the ‘Training pattern’ question to ‘Mentor availability’. We made this change because ITT providers can change training patterns, whereas the availability of a mentor on a given day depends on their working practices. This question allows schools and mentors to state which days they cannot support a trainee.
 
-![Image showing the mentor availability question](experiment-2-add-placement--mentor-availability.png 'Mentor availability question')
+![Image showing the mentor availability question](experiment-2-add-placement--mentor-availability.png ‘Mentor availability question')
 
 We show 5 options for mentor availability, which correspond to the days of the week:
 
@@ -259,7 +259,7 @@ If the user has not answered the question, we show an error message:
 
 ### Check your answers
 
-![Image showing the check your answers page](experiment-2-add-placement--check-your-answers.png 'Check your answers page')
+![Image showing the check your answers page](experiment-2-add-placement--check-your-answers.png ‘Check your answers page')
 
 The final step is the ‘Check your answers’ page. The user can change:
 
@@ -306,7 +306,7 @@ Whilst age range and Key Stages are linked, mentors might only mentor a specific
 
 ## What we found
 
-Selecting 'mentor availability' was challenging as this would depend on which ITT provider they had chosen to work with that academic year. It is not ordinarily pre-defined.
+Selecting ‘mentor availability’ was challenging as this would depend on which ITT provider they had chosen to work with that academic year. It is not ordinarily pre-defined.
 
 ### General findings
 

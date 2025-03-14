@@ -10,10 +10,10 @@ tags:
   - ethnicity
 ogImage:
   src: sex-disability-ethnicity-age.png
-  alt: "Illustration with the heading 'Sex, disability, ethnicity and age' followed by a table with 4 columns: Applied, Offered, Recruited, % (percentage sign)"
+  alt: "Illustration with the heading ‘Sex, disability, ethnicity and age’ followed by a table with 4 columns: Applied, Offered, Recruited, % (percentage sign)"
 ---
 
-![Illustration with the heading 'Sex, disability, ethnicity and age' followed by a table with 4 columns: Applied, Offered, Recruited, % (percentage sign)](sex-disability-ethnicity-age.png)
+![Illustration with the heading ‘Sex, disability, ethnicity and age’ followed by a table with 4 columns: Applied, Offered, Recruited, % (percentage sign)](sex-disability-ethnicity-age.png)
 
 We released a new report to show providers a summary of the sex, disability, ethnicity and age of their applicants
 
@@ -33,7 +33,7 @@ Each table summarises the number of candidates with each characteristic, with co
 
 A final column calculates a percentage of candidates recruited from the total number of candidates who applied. This allows the recruitment rate to be compared across characteristics.
 
-![Screenshot showing a page titled 'Sex, disability, ethnicity and age of candidates'.](diversity-report.png)
+![Screenshot showing a page titled ‘Sex, disability, ethnicity and age of candidates’.](diversity-report.png)
 
 The design of the final report was based on one [previously designed and researched](/manage-teacher-training-applications/simplifying-how-we-help-users-spot-bias-in-their-recruitment-processes/), but with some changes to the disability and health conditions section to reflect changes in the way that this question is now asked.
 

@@ -64,7 +64,7 @@ Candidates can update course choices before (and 5 working days after) submittin
   title: "Candidate knows which provider and course they want to apply to",
   items: {
     question: "Have you chosen a course to apply to?",
-    required: "Yes",
+    required: “Yes”,
     why: [{
       who: [{label: "Service", colour: "grey"}],
       what: "uses this to direct candidates to the [Find postgraduate teacher training](https://find-postgraduate-teacher-training.education.gov.uk) service to find a course to apply to if they haven’t done so yet"
@@ -77,7 +77,7 @@ Candidates can update course choices before (and 5 working days after) submittin
   title: "Training provider",
   items: {
     question: "Which training provider are you applying to?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "course.provider_code",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object>"
@@ -101,7 +101,7 @@ Candidates can update course choices before (and 5 working days after) submittin
   title: "Course",
   items: {
     question: "Which course are you applying to?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "course.course_code",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object>"
@@ -125,7 +125,7 @@ Candidates can update course choices before (and 5 working days after) submittin
   title: "Training location",
   items: {
     question: "Which location are you applying to?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "course.site_code",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#course-object>"
@@ -150,7 +150,7 @@ Candidates can update these answers before (and 5 working days after) submitting
   title: "Given (first) name",
   items: {
     question: "First name",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "candidate.first_name",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -175,7 +175,7 @@ Candidates can update these answers before (and 5 working days after) submitting
   title: "Family (last) name",
   items: {
     question: "Last name",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "candidate.last_name",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -204,7 +204,7 @@ Candidates can update these answers before (and 5 working days after) submitting
   title: "Date of birth",
   items: {
     question: "Date of birth",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "candidate.date_of_birth",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -231,7 +231,7 @@ Candidates can update these answers before (and 5 working days after) submitting
   title: "Nationality",
   items: {
     question: "Nationality",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "candidate.nationality[]",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -257,7 +257,7 @@ Candidates can update these answers before (and 5 working days after) submitting
   title: "Second nationality",
   items: {
     question: "Add another nationality → Second nationality",
-    required: "No",
+    required: “No”,
     api: {
       param: "candidate.nationality[]",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -293,7 +293,7 @@ Candidates can update these answers before (and 5 working days after) submitting
   title: "Main language spoken",
   items: {
     question: "Is English your main language?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "candidate.english_main_language",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -329,7 +329,7 @@ Candidates can update these answers before (and 5 working days after) submitting
   title: "Other languages spoken",
   items: {
     question: "If you are bilingual or very familiar with languages other than English, you can tell us about them here",
-    required: "No",
+    required: “No”,
     api: {
       param: "candidate.other_languages",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -352,7 +352,7 @@ A candidate can update these details at any point during the application process
   title: "Email address",
   items: {
     question: "Enter your email address",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "contact_details.email",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object>"
@@ -379,7 +379,7 @@ A candidate can update these details at any point during the application process
   title: "Phone number",
   items: {
     question: "Phone number",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "contact_details.phone_number",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#contactdetails-object>"
@@ -404,7 +404,7 @@ A candidate can update these details at any point during the application process
   title: "Address",
   items: {
     question: "What is your address?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "contact_details.address_line1
         contact_details.address_line2
@@ -447,7 +447,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Candidate has 5-year employment history",
   items: {
     question: "How long have you been working?",
-    required: "Yes",
+    required: “Yes”,
     why: [{
       who: [{label: "Service", colour: "grey"}],
       what: "needs to offer guidance about completing this section and enable branching; if no employment history we need to capture that reason rather than ask for details of employment"
@@ -478,7 +478,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Job - Title",
   items: {
     question: "Job title",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "work_experience.jobs[].role",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -499,7 +499,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Job - Employer",
   items: {
     question: "Name of employer",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "work_experience.jobs[].organisation_name",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -521,7 +521,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Job - Time commitment",
   items: {
     question: "Was this job full time or part time?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "work_experience.jobs[].commitment",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -541,7 +541,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   items: {
     question: "Start date
       End date",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "work_experience.jobs[].start_date
       work_experience.jobs[].end_date",
@@ -563,7 +563,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Job - Skills and experience",
   items: {
     question: "Skills and experience relevant to teaching you gained in this role",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "work_experience.jobs[].description",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -584,7 +584,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Job - Role involved working with children",
   items: {
     question: "Did this job involve working in a school or with children?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "work_experience.jobs[].start_date
       work_experience.jobs[].end_date",
@@ -652,7 +652,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Candidate has school experience",
   items: {
     question: "Do you have experience volunteering with young people or in school?",
-    required: "Yes",
+    required: “Yes”,
     why: [{
       who: [{label: "Service", colour: "grey"}],
       what: "needs to offer guidance about completing this section and enable branching; if no experience of volunteering with young people or in school, we direct candidates to the [Get school experience](https://schoolexperience.education.gov.uk) service"
@@ -665,7 +665,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Role - Title",
   items: {
     question: "Your role",
-    required: "No",
+    required: “No”,
     api: {
       param: "work_experience.volunteering[].role",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -686,7 +686,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Role - Organisation",
   items: {
     question: "Organisation where you gained experience or volunteered",
-    required: "No",
+    required: “No”,
     api: {
       param: "work_experience.volunteering[].organisation_name",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -708,7 +708,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   items: {
     question: "Start date
       End date",
-    required: "No",
+    required: “No”,
     api: {
       param: "work_experience.volunteering[].start_date
       work_experience.volunteering[].end_date",
@@ -728,7 +728,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Role - Time commitment and responsibilities",
   items: {
     question: "Enter details of your time commitment and responsibilities",
-    required: "No",
+    required: “No”,
     api: {
       param: "work_experience.volunteering[].description",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -749,7 +749,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Role - Role involved working with children",
   items: {
     question: "Did this job involve working in a school or with children?",
-    required: "No",
+    required: “No”,
     api: {
       param: "work_experience.volunteering[].working_with_children",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#workexperiences-object>"
@@ -777,7 +777,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "✘ Candidate wants to disclose a disability",
   items: {
     question: "Do you want to disclose a disability?",
-    required: "Yes",
+    required: “Yes”,
     why: [{
       who: [{label: "Service", colour: "grey"}],
       what: "uses the answer to show/hide textarea"
@@ -790,7 +790,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "✘ Disability disclosure",
   items: {
     question: "Tell us about your disability",
-    required: "No",
+    required: “No”,
     api: {
       param: "candidate.disability_disclosure",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#candidate-object>"
@@ -985,7 +985,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
   title: "Qualification - type",
   items: {
     question: "Type of qualification",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "qualifications.gcses[].qualification_type",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1005,7 +1005,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
   title: "Qualification - grade",
   items: {
     question: "What grade is your maths qualification?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "qualifications.gcses[].grade",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1025,7 +1025,7 @@ This question is required to [assess entry criteria](https://www.gov.uk/governme
   title: "Qualification - year",
   items: {
     question: "When was your maths qualification awarded?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "qualifications.gcses[].award_year",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1117,7 +1117,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
   title: "Qualification - type",
   items: {
     question: "Type of qualification",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "qualifications.gcses[].qualification_type",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1137,7 +1137,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
   title: "Qualification - grade",
   items: {
     question: "What grade is your English qualification?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "qualifications.gcses[].grade",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1157,7 +1157,7 @@ Providers should look for <q>further evidence of a breadth of achievement in Eng
   title: "Qualification - year",
   items: {
     question: "When was your English qualification awarded?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "qualifications.gcses[].award_year",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1376,7 +1376,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Qualification - type",
   items: {
     question: "Type of qualification",
-    required: "No",
+    required: “No”,
     api: {
       param: "qualifications.other_qualifications[].qualification_type",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1394,7 +1394,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Qualification - subject",
   items: {
     question: "Subject",
-    required: "No",
+    required: “No”,
     api: {
       param: "qualifications.other_qualifications[].subject",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1412,7 +1412,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Qualification - grade",
   items: {
     question: "Grade",
-    required: "No",
+    required: “No”,
     api: {
       param: "qualifications.other_qualifications[].grade",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1430,7 +1430,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Qualification - year",
   items: {
     question: "Year qualification was awarded",
-    required: "No",
+    required: “No”,
     api: {
       param: "qualifications.other_qualifications[].award_year",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1447,7 +1447,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Qualification - institution",
   items: {
     question: "Institution where you studied",
-    required: "No",
+    required: “No”,
     api: {
       param: "qualifications.other_qualifications[].institution_details",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#qualification-object>"
@@ -1492,7 +1492,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Vocation",
   items: {
     question: "Why do you want to be a teacher?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "personal_statement",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
@@ -1513,7 +1513,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Subject knowledge",
   items: {
     question: "Enter your subject knowledge",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "personal_statement",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
@@ -1536,7 +1536,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Candidate has interview preferences",
   items: {
     question: "Do you have any preferences for your interview?",
-    required: "Yes",
+    required: “Yes”,
     why: [{
       who: [{label: "Service", colour: "grey"}],
       what: "uses the answer to show/hide textarea"
@@ -1549,7 +1549,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Interview preferences",
   items: {
     question: "What are your interview preferences?",
-    required: "No",
+    required: “No”,
     api: {
       param: "interview_preferences",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
@@ -1577,7 +1577,7 @@ Candidates can update their answers before submitting, but not after. If a refer
   title: "✘ Reference type",
   items: {
     question: "What kind of reference is this?",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "N/A"
     },
@@ -1593,7 +1593,7 @@ Candidates can update their answers before submitting, but not after. If a refer
   title: "Referee - name",
   items: {
     question: "Full name",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "referees[].name",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object>"
@@ -1611,7 +1611,7 @@ Candidates can update their answers before submitting, but not after. If a refer
   title: "Referee - email address",
   items: {
     question: "Email address",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "referees[].email",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object>"
@@ -1636,7 +1636,7 @@ Candidates can update their answers before submitting, but not after. If a refer
   title: "Referee - relationship to candidate",
   items: {
     question: "Relationship to referee",
-    required: "Yes",
+    required: “Yes”,
     api: {
       param: "referees[].relationship",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#reference-object>"
@@ -1658,7 +1658,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Candidate has something else to add",
   items: {
     question: "Is there anything else you would like to tell us about your application?",
-    required: "Yes",
+    required: “Yes”,
     why: [{
       who: [{label: "Service", colour: "grey"}],
       what: "uses the answer to show/hide textarea"
@@ -1671,7 +1671,7 @@ Candidates can update their answers before (and 5 working days after) submitting
   title: "Further information",
   items: {
     question: "Enter further information",
-    required: "No",
+    required: “No”,
     api: {
       param: "further_information",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#applicationattributes-object>"
@@ -1701,7 +1701,7 @@ Candidates can update their answers before submitting. We do not ask these quest
   title: "Sex",
   items: {
     question: "What is your sex?",
-    required: "No",
+    required: “No”,
     api: {
       param: "hesa_itt_data.sex",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object>"
@@ -1721,7 +1721,7 @@ Candidates can update their answers before submitting. We do not ask these quest
   items: {
     question: "Are you disabled?
       Please select all that apply to you",
-    required: "No",
+    required: “No”,
     api: {
       param: "hesa_itt_data.disability",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object>"
@@ -1741,7 +1741,7 @@ Candidates can update their answers before submitting. We do not ask these quest
   items: {
     question: "What is your ethnic group?
       Which of the following best describes your [group] background?",
-    required: "No",
+    required: “No”,
     api: {
       param: "hesa_itt_data.ethnicity",
       href: "<https://www.apply-for-teacher-training.education.gov.uk/api-docs/reference/#hesaittdata-object>"

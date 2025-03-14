@@ -42,7 +42,7 @@ Each course status consists of:
 
 An ‘Empty’ status occurs when the user creates a new course through the ‘Add course’ flow, but the user has not added information to the description fields.
 
-Once the user has saved content in the description fields, the course status will change from 'Empty' to 'Draft'.
+Once the user has saved content in the description fields, the course status will change from ‘Empty’ to ‘Draft’.
 
 ### Draft
 
@@ -68,7 +68,7 @@ A ‘Published with unpublished changes’ status occurs when the user has saved
 
 This status is problematic as users may not realise they must publish the course again before we show their changes on Find.
 
-We do not show users' changes to the descriptions in Publish. This could confuse users if they cannot remember what they changed or if other users of the same account cannot view the changes.
+We do not show users’ changes to the descriptions in Publish. This could confuse users if they cannot remember what they changed or if other users of the same account cannot view the changes.
 
 ### Withdrawn
 
