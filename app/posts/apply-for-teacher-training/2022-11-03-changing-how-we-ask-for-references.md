@@ -72,21 +72,21 @@ We added some content at the top confirming what the reference was for.
 
 We made a change to this page in response to some usability testing.
 
-Previously the options were "Yes" and "No". One research participant was nervous about selecting No, as they feared it’d reflect badly on the candidate or would reject the reference.
+Previously the options were “Yes” and “No”. One research participant was nervous about selecting No, as they feared it’d reflect badly on the candidate or would reject the reference.
 
-We changed the answer to "No, I’ll give a more accurate information". This aims to help users understand that if they select this option they’ll be able to write in their own answer.
+We changed the answer to “No, I’ll give a more accurate information”. This aims to help users understand that if they select this option they’ll be able to write in their own answer.
 
-We also changed the question from "Is this correct?" to "Is this description accurate?"
+We also changed the question from “Is this correct?” to “Is this description accurate?”
 
 ![Screenshot showing the heading ‘Confirm how Jane Doe knows you’ followed by a quoted description and the question ‘Is this description accurate?'](second-question.png)
 
 ### Safeguarding question
 
-A review of where users had previously answered "Yes" to "Do you know any reason why (candidate name) should not work with children" revealed that most users had misread the question, and had written positive things about the candidate into the text box. Whilst this was only a small percentage of the overall number of references given, we reviewed how we could improve this.
+A review of where users had previously answered “Yes” to “Do you know any reason why (candidate name) should not work with children” revealed that most users had misread the question, and had written positive things about the candidate into the text box. Whilst this was only a small percentage of the overall number of references given, we reviewed how we could improve this.
 
-We changed "Yes" to "Yes, I know a reason why they should not work with children" to help people scanning the page.
+We changed “Yes” to “Yes, I know a reason why they should not work with children” to help people scanning the page.
 
-We also added the hint text "Give facts, not your opinion". This was based on guidance in the [Keeping children safe in education policy](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2), which states that only substantiated allegations should be shared.
+We also added the hint text “Give facts, not your opinion”. This was based on guidance in the [Keeping children safe in education policy](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2), which states that only substantiated allegations should be shared.
 
 ![Screenshot with the heading ‘Do you know any reason why Jane Doe should not work with children?'](safeguarding.png)
 
@@ -94,7 +94,7 @@ We also added the hint text "Give facts, not your opinion". This was based on gu
 
 We reduced the amount of content on this page.
 
-The content now starts "Your reference should include facts, not your opinions."
+The content now starts “Your reference should include facts, not your opinions.”
 
 Some bullet point suggestions are included. These vary depending on the type of reference (academic, professional, from working in a school, or a ‘character’ reference).
 

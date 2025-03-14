@@ -54,7 +54,7 @@ We no longer use the word “referee” to describe someone who gives a referenc
 
 ### Application task list
 
-[![Screenshot showing the previous and new application task lists. The previous version includes "References: your application needs to include 2 references. You can request as many as you like to increase the chances of getting 2 quickly. Once you’ve received 2 or more references, you can select the 2 you want to include in your application." The new version includes: "Safeguarding: references to be requested if you accept an offer."](application-task-list-before-and-after.png "Application task list: before and after")](/apply-for-teacher-training/asking-candidates-for-references-to-be-contacted-if-they-accept-an-offer/application-task-list-before-and-after.png)
+[![Screenshot showing the previous and new application task lists. The previous version includes “References: your application needs to include 2 references. You can request as many as you like to increase the chances of getting 2 quickly. Once you’ve received 2 or more references, you can select the 2 you want to include in your application.” The new version includes: “Safeguarding: references to be requested if you accept an offer.”](application-task-list-before-and-after.png "Application task list: before and after")](/apply-for-teacher-training/asking-candidates-for-references-to-be-contacted-if-they-accept-an-offer/application-task-list-before-and-after.png)
 
 Previously there was a dedicated section of the main application task list for references.
 
