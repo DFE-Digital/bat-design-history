@@ -1,7 +1,7 @@
 ---
 title: Research on improving the candidate journey
 description: Reviewing pain points and opportunities in the current user journey for candidates, from considering teaching to receiving an offer.
-date: 2025-03-14
+date: 2025-03-13
 tags:
   - research
   - find
