@@ -36,12 +36,13 @@ These were some of the key areas of opportunity we found. Some areas were identi
 5. [Surfacing Teacher Training Advisers (TTAs)](/find-teacher-training/improving-the-candidate-journey/#5.-surfacing-teacher-training-advisers-(ttas))
 6. [Support for disabilities](/find-teacher-training/improving-the-candidate-journey/#6.-support-for-disabilities)
 7. [Help with routes into teaching](/find-teacher-training/improving-the-candidate-journey/#7.-help-with-routes-into-teaching)
-8. [Help with comparing providers and courses](/find-teacher-training/improving-the-candidate-journey/#8.-help-with-comparing-providers-and-courses)
-9. [Help with understanding availability](/find-teacher-training/improving-the-candidate-journey/#9.-help-with-understanding-availability)
-10. [Help with understanding school placements and course format](/find-teacher-training/improving-the-candidate-journey/#10.-help-with-understanding-school-placements-and-course-format)
-11. [Help with applications](/find-teacher-training/improving-the-candidate-journey/#11.-help-with-applications)
-12. [Improving rejections](/find-teacher-training/improving-the-candidate-journey/#12.-improving-rejections)
-13. [Help with the pre-training process](/find-teacher-training/improving-the-candidate-journey/#13.-help-with-the-pre-training-process)
+8. [Help with comparing providers](/find-teacher-training/improving-the-candidate-journey/#8.-help-with-comparing-providers)
+9. [Help with comparing courses](/find-teacher-training/improving-the-candidate-journey/#9.-help-with-comparing-courses)
+10. [Help with understanding availability](/find-teacher-training/improving-the-candidate-journey/#9.-help-with-understanding-availability)
+11. [Help with understanding school placements and course format](/find-teacher-training/improving-the-candidate-journey/#10.-help-with-understanding-school-placements-and-course-format)
+12. [Help with applications](/find-teacher-training/improving-the-candidate-journey/#11.-help-with-applications)
+13. [Improving rejections](/find-teacher-training/improving-the-candidate-journey/#12.-improving-rejections)
+14. [Help with the pre-training process](/find-teacher-training/improving-the-candidate-journey/#13.-help-with-the-pre-training-process)
 
 ### 1. Joining up the fragmented candidate journey
 
@@ -174,6 +175,8 @@ Candidates are caught by surprise when course availability changes.
 Utilise Availability Bias to increase the sense of urgency.
 
 Share historical data on past vacancy trends for courses, or estimate vacant places based on number of applications this cycle and the time to last acceptance.
+
+Ask providers for a min/max number of places on a course.
 
 When a shortlisted course becomes full, suggest alternative similar courses in nearby regions or with similar training offerings.
 
