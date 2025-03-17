@@ -64,7 +64,7 @@ We added a way for users to onboard new training providers into the register.
 
 ## How it works
 
-[![Add provider flow](add-provider--flow.png "Add provider flow")](add-provider--flow.png)
+[![Add provider flow](add-provider--flow.png "Add provider flow (select image to see a larger version)")](add-provider--flow.png)
 
 The ‘Add provider’ flow has six steps:
 
