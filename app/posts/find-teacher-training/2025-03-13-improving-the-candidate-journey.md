@@ -139,9 +139,15 @@ Surface the ‘Find your route into teaching’ service on Find and Apply.
 
 Carry the data through from this service into Find, so that candidates have the recommended routes saved as well as the data they have entered about their circumstances.
 
-### 8. Help with comparing providers and courses
+### 8. Help with comparing providers
 
 Candidates want to learn about the quality of a provider and will research them by looking at their websites. It's sometimes not clear what the role is of Find vs providers' websites.
+
+**How we might solve for this:**
+
+Enable candidates to compare providers as well as courses, and surface provider performance data.
+
+### 9. Help with comparing courses
 
 Candidates want to shortlist and compare courses. Currently they do this by keeping many tabs open in a browser or saving the URLs. It’s hard to return to courses they are interested in or keep track of what has been reviewed already.
 
@@ -149,15 +155,13 @@ The level of content on the course pages can make it difficult to compare, and c
 
 **How we might solve for this:**
 
-Enable candidates to compare providers as well as courses, and surface provider performance data.
-
 Allow candidates to save courses and search criteria and allow them to group saved information in a way that works best for them.
 
 Mark courses when they have been viewed.
 
 Highlight courses that best suit their skills and experience, and alert candidates when new courses are published that meet their criteria.
 
-### 9. Help with understanding availability
+### 10. Help with understanding availability
 
 Candidates want to know how many places are left on a course, so they know whether it's worth applying or not and what their chances are.
 
@@ -173,7 +177,7 @@ Share historical data on past vacancy trends for courses, or estimate vacant pla
 
 When a shortlisted course becomes full, suggest alternative similar courses in nearby regions or with similar training offerings.
 
-### 10. Help with understanding school placements and course format
+### 11. Help with understanding school placements and course format
 
 Candidates need to clearly understand where they will spend their time during the course, and what the expected course format will be.
 
@@ -185,7 +189,7 @@ Making it clearer what the course format would be, for example, the minimum time
 
 Support providers in giving candidates more structured information on course format, which would be easier to compare.
 
-### 11. Help with applications
+### 12. Help with applications
 
 Candidates struggle to understand the overall application process and steps to becoming a teacher.
 
@@ -201,7 +205,7 @@ Use a [Step by step navigation](https://design-system.service.gov.uk/patterns/st
 
 Simplify the process and provide more guidance around writing a personal statement and adding references and work history, considering integration with services like LinkedIn.
 
-### 12. Improving rejections
+### 13. Improving rejections
 
 Candidates want informative feedback on unsuccessful applications so that they can improve future applications. Provider feedback is important; however, candidates often say they get vague or non-existent feedback. This can feel demoralising.
 
@@ -217,7 +221,7 @@ Encourage or mandate detailed feedback on rejections.
 
 Provide tailored recommendations on next steps after a rejection, such as getting school experience, getting a TTA, trying a different route or trying a different subject.
 
-### 13. Help with the pre-training process
+### 14. Help with the pre-training process
 
 The time between accepting an offer and starting training can be lengthy. Sometimes candidates will withdraw due to changes in personal circumstances, but there may be an opportunity to support and engage candidates during this time to reduce the number of withdrawals.
 
