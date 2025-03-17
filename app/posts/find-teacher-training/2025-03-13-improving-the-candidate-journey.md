@@ -75,7 +75,7 @@ Research has shown that candidates find it difficult to find relevant informatio
 
 If we had some information about our users – for example, where they are in their journey, if they are a UK or non-UK citizen, or which routes they are eligible for based on their qualifications – we could surface relevant and tailored information for them.
 
-We could gather this information through candidate accounts, and therefore having accounts across all our services would help significantly with these problems. See the Candidate accounts design history for more information on this.
+We could gather this information through candidate accounts, and therefore having accounts across all our services would help significantly with these problems. See the [Research on candidate accounts](/find-teacher-training/exploring-candidate-accounts/) design history for more information on this.
 
 ### 3. Surfacing getting school experience
 
