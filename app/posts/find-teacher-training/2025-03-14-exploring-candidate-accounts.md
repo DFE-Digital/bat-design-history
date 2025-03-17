@@ -24,6 +24,8 @@ These issues may result in candidates dropping out of the process and not becomi
 
 ## Our approach
 
+We reviewed existing user research, previous analysis of pain points, and user needs across multiple services that candidates use on their journey into teacher training.
+
 We explored how certain functionality might help meet user needs and created design concepts to visualise elements of the user journey.
 
 We focussed first on what it might be like to just have candidate accounts on Find, before exploring how the scope might be expanded to potentially join multiple services up under one account.
