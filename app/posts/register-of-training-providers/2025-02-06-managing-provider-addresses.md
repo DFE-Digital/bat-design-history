@@ -127,7 +127,7 @@ The ‘Edit address’ flow is the same as the ‘Add address’ flow except we 
 
 When users select the remove link on the address summary card, we show them a page to confirm they want to remove the address. This confirmation step ensures they do not remove the address by mistake.
 
-On the remove address page, we show them the address details they will remove.
+We show a summary of the address details on the confirmation page.
 
 Selecting the red ‘Remove address’ button will complete removing the address from the provider.
 
