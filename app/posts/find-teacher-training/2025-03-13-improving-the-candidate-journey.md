@@ -82,9 +82,7 @@ We could gather this information through candidate accounts, and therefore havin
 
 Some candidates are unaware of the ability to [get school experience](https://schoolexperience.education.gov.uk/), or they find it daunting and would like help from DfE.
 
-> In the 2024/2025 recruitment cycle, there is a statistically significant improvement in both interview rate and offer rate for domestic candidates with school-based references.
->
-> <p class="govuk-hint">However, it is hard to determine whether this is correlation or causation, as there are multiple factors at play when providers make the decision to interview and offer.</p>
+> Research has found candidates chances of success are improved if they have school-based references. However, providers take many factors into consideration when making decisions.</p>
 
 **How we might solve for this:**
 
@@ -96,7 +94,7 @@ Expand provision to make it easier to get school experience and explore how we m
 
 Candidates can find it hard to know they’re eligible for a course, as they find it challenging to understand and prove their equivalent qualifications, particularly international candidates and career changers.
 
-> In the 2024/2025 recruitment cycle, over 40% of rejected applications were due to qualifications, the highest reason for rejection. It was also the highest reason for rejection in the previous recruitment cycle.
+> Research has found one of the highest reasons for rejection is due to qualifications.
 
 **How we might solve for this:**
 
@@ -196,11 +194,7 @@ Support providers in giving candidates more structured information on course for
 
 Candidates struggle to understand the overall application process and steps to becoming a teacher.
 
-The areas that candidates find the most difficult are personal statement, references and work history (particularly career changers).
-
-> In the 2023/2024 recruitment cycle, personal statement was the second most common reason for rejection (17% of rejections).
->
-> In the 2024/2025 recruitment cycle, it is currently the third most common reason for rejection (14% of rejections).
+> Research has found candidates struggle the most with personal statement, references and work history (particularly career changers). One of the highest reasons for rejection is due to the personal statement.
 
 **How we might solve for this:**
 
@@ -212,11 +206,9 @@ Simplify the process and provide more guidance around writing a personal stateme
 
 Candidates want informative feedback on unsuccessful applications so that they can improve future applications. Provider feedback is important; however, candidates often say they get vague or non-existent feedback. This can feel demoralising.
 
-> In the 2021/2022 recruitment cycle:
+> Research has found the majority of rejected candidates don't reapply, with a significant portion not receiving structured feedback.
 >
-> * 87% of rejected candidates did not reapply.
-> * 45% of candidates who did reapply were successful, which equated to 2,522 additional trainees.
-> * 21% of rejected candidates don't receive structured feedback.
+> Those that do reapply have a good chance of success.
 
 **How we might solve for this:**
 
@@ -228,9 +220,7 @@ Provide tailored recommendations on next steps after a rejection, such as gettin
 
 The time between accepting an offer and starting training can be lengthy. Sometimes candidates will withdraw due to changes in personal circumstances, but there may be an opportunity to support and engage candidates during this time to reduce the number of withdrawals.
 
-> In the 2021/2022 recruitment cycle, 12% of candidates who accepted an offer withdrew.
->
-> In the 2022/2023 recruitment cycle, 650 candidates withdrew after accepting an offer.
+> Some candidates who accepted an offer later withdrew. We are working on gather more information on the reasons for withdrawal.
 
 One of the pain points during this phase is the need to enter the same information on multiple services. For example, if a candidate is applying for a scholarship, they must go through another application process with a personal statement and interviews. This can be daunting and off-putting. Many candidates drop out of the scholarship application at the personal questions stage.
 
