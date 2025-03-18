@@ -25,7 +25,15 @@ As a support user:
 - I need to update key contacts quickly so communications remain accurate and targeted.
 - I need to efficiently verify and manage provider addresses through postcode lookup or manual entry, ensuring data quality and accuracy.
 
-## Accredited ITT provider users
+## All provider users
+
+As a provider user:
+
+- I need simple and effective tools to manage my provider’s details (contacts, addresses, partnership data), ensuring all information is accurate and current.
+- I need straightforward onboarding processes to integrate my organisation into the Register quickly.
+- I need clear feedback and confirmation when updating data to ensure I am confident that changes have been successfully applied.
+
+## Accredited provider users
 
 As an accredited provider user:
 
@@ -43,14 +51,6 @@ As a training partner user:
 - I need to manage key contact information efficiently, ensuring smooth communication with accredited providers and the DfE.
 - I need easy ways to update address information and ensure all stakeholders can access the correct details.
 - I need access to manage my data securely and reliably via an API, facilitating interoperability with other internal systems.
-
-## All provider users
-
-As a provider user:
-
-- I need simple and effective tools to manage my provider’s details (contacts, addresses, partnership data), ensuring all information is accurate and current.
-- I need straightforward onboarding processes to integrate my organisation into the Register quickly.
-- I need clear feedback and confirmation when updating data to ensure I am confident that changes have been successfully applied.
 
 ## Other DfE users
 
