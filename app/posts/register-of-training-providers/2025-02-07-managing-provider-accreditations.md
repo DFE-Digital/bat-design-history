@@ -55,6 +55,8 @@ We added a way for users to manage training providers’ accreditations, includi
 
 ### Viewing a list of provider’s accreditations
 
+We show a list of the provider’s accreditations with each accreditation shown in a summary card. This allows us to show remove and change links alongside an individual accreditation rather than next to each attribute of the accreditation details.
+
 ![Accreditation details summary card](accreditation-details--summary-card.png "Accreditation details summary card")
 
 Accreditation details include:
@@ -126,7 +128,7 @@ Users can add the accreditation again at any time.
 
 Accredited provider number and date accreditation starts are required fields.
 
-##### Accredited provider number
+#### Accredited provider number
 
 An accredited provider number is required. If the user does not enter an accredited provider number, we show the error message:
 
@@ -148,7 +150,7 @@ We show a more specific error message if we know the provider type and the user 
 
 We do not validate if the accredited provider number corresponds to the operating and legal names of the provider.
 
-##### Date accreditation starts
+#### Date accreditation starts
 
 The date accreditation starts is required. If the user does not enter a date the accreditation starts, we show the error message:
 
@@ -156,6 +158,6 @@ The date accreditation starts is required. If the user does not enter a date the
 
 If the user enters an incomplete or incorrect date on which accreditation starts, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
 
-##### Date accreditation ends
+#### Date accreditation ends
 
 If the user enters an incomplete or incorrect date on which accreditation ends, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
