@@ -1,6 +1,6 @@
 ---
 title: Managing provider addresses
-description: DESCRIPTION
+description: We added a way for users to manage training providers’ addresses
 date: 2025-02-06
 tags:
   - training providers
@@ -22,17 +22,17 @@ related:
       href: /register-of-training-providers/managing-provider-partnerships/
 screenshots:
   items:
-    - text: Add address question page
+    - text: Add address - question page
       src: new-address--form.png
-    - text: Add address question page with error
+    - text: Add address - question page with error
       src: new-address--form-error.png
     - text: Add address - check your answers
       src: new-address--check-your-answers.png
     - text: Address added success message
       src: new-address--success.png
-    - text: Edit address question page
+    - text: Edit address - question page
       src: edit-address--form.png
-    - text: Edit address question with errors
+    - text: Edit address - question with errors
       src: edit-address--form-error.png
     - text: Edit address - check your answers
       src: edit-address--check-your-answers.png
@@ -43,3 +43,131 @@ screenshots:
     - text: Address removed success message
       src: remove-address--success.png
 ---
+
+Addresses are an essential component of a training provider’s details and are used to help candidates find and apply to training courses.
+
+We added a way for users to manage training providers’ addresses, including:
+
+- viewing a list of the provider’s addresses
+- adding an address
+- editing an address
+- removing an address
+
+## How it works
+
+### Viewing a list of the provider’s addresses
+
+![Address details summary card](address-details--summary-card.png "Address details summary card")
+
+Address details include:
+
+- address line 1
+- address line 2
+- address line 3
+- town or city
+- county
+- postcode
+
+Each address in the list has a link to change or remove the address.
+
+### Adding an address
+
+Adding an address is a 2 step process:
+
+- Enter address details
+- Check your answers
+
+#### Enter address details
+
+When users select ‘Add address’ from the provider details page, we show them an address form.
+
+The address form includes fields for:
+
+- address line 1
+- address line 2
+- address line 3
+- town or city
+- county
+- postcode
+
+We include a third address line because provider and school data analysis shows that a small number of providers and schools have a third line in their addresses.
+
+Users must select ‘Continue’ to review and then save the address.
+
+We have specific [address data validation rules](#data-validation-rules) users must meet before continuing to the ‘Check your answers’ page.
+
+Users can return to the provider details page by selecting the ‘Back’ or ‘Cancel’ links. If they do this, we do not save any changes.
+
+#### Check your answers
+
+The final step is the ‘Check your answers’ page. We show a summary list containing:
+
+- address line 1
+- address line 2
+- address line 3
+- town or city
+- county
+- postcode
+
+Users can change any of the address details.
+
+Users can return to the address details form by selecting the ‘Back’ or ‘Change’ links.
+
+If the user has not entered information, for example, address lines 2 and 3 and county, we leave the field blank rather than remove them to avoid confusion.
+
+Once users select ‘Save address’, they return to the provider details page, and we display an ‘Address added’ success message.
+
+Users can also return to the provider details page by selecting the ‘Cancel’ link. If they do this, we do not save any changes.
+
+### Editing an address
+
+The ‘Edit address’ flow is the same as the ‘Add address’ flow except we pre-populate the form fields with the address information.
+
+### Removing an address
+
+When users select the remove link on the address summary card, we show them a page to confirm they want to remove the address. This confirmation step ensures they do not remove the address by mistake.
+
+On the remove address page, we show them the address details they will remove.
+
+Selecting the red ‘Remove address’ button will complete removing the address from the provider.
+
+We show a success message on the provider details page saying ‘Address removed’.
+
+Users can add the address again at any time.
+
+### Data validation rules
+
+Address line 1, town or city, and postcode are required address fields.
+
+If the user does not enter an address line 1, we show the error message:
+
+> Enter address line 1, typically the building and street
+
+If the user does not enter a town or city, we show the error message:
+
+> Enter town or city
+
+If the user does not enter a postcode, we show the error message:
+
+> Enter postcode
+
+If the user does not enter a valid postcode format, we show the error message:
+
+> Enter a full UK postcode
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- Using a postcode address finder
+- Archiving or soft-deleting the address
+
+### Using a postcode address finder
+
+The ‘Add address’ flow uses a simple address form for users to enter the provider’s address details. However, this is inefficient and could lead to users inputting incorrect information.
+
+We will consider replacing the address form with an address look-up, with the option to add an address manually if the address is not found.
+
+### Archiving or soft-deleting the address
+
+When users delete an address, it is removed from the service entirely. We may consider archiving, logging or soft-deleting the address for future reference.
