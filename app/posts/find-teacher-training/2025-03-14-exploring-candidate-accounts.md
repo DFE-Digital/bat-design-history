@@ -107,7 +107,6 @@ The key issues identified were:
 2. [Lack of information at the point of need](/find-teacher-training/exploring-candidate-accounts/#2.-lack-of-information-at-the-point-of-need)
 3. [Navigating the process between multiple services](/find-teacher-training/exploring-candidate-accounts/#3.-navigating-the-process-between-multiple-services)
 
-
 ### 1. Candidates give us the same information in multiple places
 
 We ask candidates to tell us the same information – such as their name, email address or whether they have a degree – in many different places. As well as being frustrating for candidates, it also adds friction to their journey and may prevent them from taking actions like signing up for a teacher training adviser.
