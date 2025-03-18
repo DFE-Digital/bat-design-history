@@ -20,6 +20,8 @@ related:
       href: /register-of-training-providers/managing-provider-contacts/
     - text: Managing provider partnerships
       href: /register-of-training-providers/managing-provider-partnerships/
+    - text: Understanding the relationships between organisations delivering initial teacher training
+      href: /becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/
 screenshots:
   items:
     - text: Add accreditation - question page
@@ -43,6 +45,12 @@ screenshots:
     - text: Accreditation removed success message
       src: remove-accreditation--success.png
 ---
+
+An accredited initial teacher training (ITT) provider is a legal entity accredited by the Department for Education (DfE) that delivers teacher training that leads to qualified teacher status (QTS).
+
+The accredited ITT provider has been awarded accreditation and has full and final accountability for all aspects of training design, delivery, and quality across the partnership. It is liable for the quality of provision, governance, and internal controls. It will be accountable and responsible for public funds spent on the purposes intended across its ITT partnership.
+
+## What we did
 
 We added a way for users to manage training providers’ accreditations, including:
 
@@ -161,3 +169,9 @@ If the user enters an incomplete or incorrect date on which accreditation starts
 #### Date accreditation ends
 
 If the user enters an incomplete or incorrect date on which accreditation ends, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
+
+*[DfE]: Department for Education
+*[HEI]: higher education institution
+*[ITT]: initial teacher training
+*[QTS]: qualified teacher status
+*[SCITT]: school-centred initial teacher training
