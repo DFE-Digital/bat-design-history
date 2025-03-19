@@ -26,6 +26,8 @@ screenshots:
       src: provider-details.png
     - text: Add partnership - question page
       src: add-partnership--form.png
+    - text: Add partnership - question page autocomplete
+      src: add-partnership--form-autocomplete.png
     - text: Add partnership - question page with errors
       src: add-partnership--form-error.png
     - text: Add partnership - check your answers
