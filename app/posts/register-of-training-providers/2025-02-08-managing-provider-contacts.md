@@ -43,6 +43,17 @@ screenshots:
       src: remove-contact--success.png
 ---
 
+The Register of training providers collects contact information for several reasons, including:
+
+- to engage contacts when seeking feedback on policy changes or communicating updates impacting providers
+- to discuss and verify details regarding provider accreditation status, compliance requirements, or quality assurance matters
+- to facilitate prompt resolution of operational issues, technical support queries, or data discrepancies
+- to communicate effectively between providers involved in partnerships, ensuring clear and accurate information sharing
+- to validate provider information and ensure the accuracy of records, particularly regarding sensitive data and regulatory requirements
+- to reach the right contact for audit processes, verification checks, or accountability reviews
+
+## What we did
+
 We added a way for users to manage training providers’ contacts, including:
 
 - viewing a list of the provider’s contacts
