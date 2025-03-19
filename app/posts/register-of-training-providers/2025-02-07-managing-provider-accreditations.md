@@ -63,7 +63,7 @@ We added a way for users to manage training providers’ accreditations, includi
 
 ### Viewing a list of provider’s accreditations
 
-We show a list of the provider’s accreditations with each accreditation shown in a summary card. This allows us to show remove and change links alongside an individual accreditation rather than next to each attribute of the accreditation details.
+We show a list of the provider’s accreditations, with each accreditation shown in a summary card. This allows us to show ‘Remove’ and ‘Change’ links alongside an individual accreditation rather than next to each attribute of the accreditation details.
 
 ![Accreditation details summary card](accreditation-details--summary-card.png "Accreditation details summary card")
 
