@@ -44,7 +44,14 @@ screenshots:
       src: remove-address--success.png
 ---
 
-Addresses are an essential component of a training provider’s details and are used to help candidates find and apply to training courses.
+The Register of training providers collects address information for several reasons, including:
+
+- to accurately direct candidates to training locations, enabling easier discovery and application to relevant training courses
+- to analyse provider coverage, identify regional gaps, support equitable service distribution, and inform strategic decisions
+- to publish accurate location details, maintaining transparency about providers’ operational premises for public trust
+- to clearly understand physical locations when managing partnerships or collaborative arrangements between providers
+
+## What we did
 
 We added a way for users to manage training providers’ addresses, including:
 
