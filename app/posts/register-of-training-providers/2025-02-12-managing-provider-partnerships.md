@@ -148,6 +148,33 @@ We considered some changes that we did not implement. These included:
 
 ### Selecting a provider when JavaScript is unavailable
 
+When users select a provider in the ‘Add partnership’ flow, we use an autocomplete to help them find providers.
+
+The autocomplete works well for quickly selecting a provider, but it requires JavaScript, which not everyone has, and it does not always run successfully.
+
+Users might not have JavaScript enabled or available because they:
+
+- disable JavaScript in their browsers to avoid potential security risks, such as cross-site scripting (XSS) attacks
+- rely on screen readers or other assistive technologies and might disable JavaScript if it interferes with their tools
+- are using older or less powerful devices where JavaScript can slow down performance
+- work in an organisation that enforces strict browsing policies that disable JavaScript to maintain security and control over their network
+
+We will add a no-JavaScript version of the find provider flow, which we can progressively enhance.
+
 ### Preventing duplicate provider partnerships
 
+When users add provider partnerships, we do not check whether the partnership exists. This means they could create duplicate partnerships.
+
+We will add validation to ensure users cannot create duplicate provider partnerships.
+
 ### Assigning a partnership to a specific accreditation
+
+Over time, a provider can be accredited, lose accreditation to become a training partner, and then become accredited again. Throughout these changes, a provider could have different partnerships and roles within those partnerships.
+
+We need to consider how partnerships change over time and whether these partnerships need to be tied to a specific accreditation.
+
+*[BAT]: Becoming a teacher
+*[ITT]: initial teacher training
+*[UKPRN]: UK provider reference number
+*[URN]: unique reference number
+*[XSS]: cross-site scripting
