@@ -158,7 +158,7 @@ We follow the [GOV.UK design system guidance on validating email addresses](http
 
 The prototype uses the following regular expression to validate email addresses:
 
-```
+```javascript
 ^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$
 ```
 
@@ -176,7 +176,7 @@ We follow the [GOV.UK design system guidance on validating phone numbers](https:
 
 The prototype uses the following regular expression to validate telephone numbers:
 
-```
+```javascript
 ^(?:(?:\(?(?:0(?:0|11)\)?[\s-]?\(?|\+)44\)?[\s-]?(?:\(?0\)?[\s-]?)?)|(?:\(?0))(?:(?:\d{5}\)?[\s-]?\d{4,5})|(?:\d{4}\)?[\s-]?(?:\d{5}|\d{3}[\s-]?\d{3}))|(?:\d{3}\)?[\s-]?\d{3}[\s-]?\d{3,4})|(?:\d{2}\)?[\s-]?\d{4}[\s-]?\d{4}))(?:[\s-]?(?:x|ext\.?|\#)\d{3,4})?$
 ```
 
