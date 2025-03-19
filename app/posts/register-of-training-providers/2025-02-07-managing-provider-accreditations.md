@@ -170,7 +170,28 @@ If the user enters an incomplete or incorrect date on which accreditation starts
 
 If the user enters an incomplete or incorrect date on which accreditation ends, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
 
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- adding a category to the accreditation
+- automatically ending an accreditation - if a new accreditation is added with dates that cross over
+
+### Adding a category to the accreditation
+
+While this service is focused on ITT providers, we may need to consider whether it is appropriate to capture information about other accreditations they may have - for example, early years initial teacher training (EYITT) and the early careers framework (EFC).
+
+This information will help us understand how the provider works across different teacher training and retention areas. However, we have not yet established a need for this categorisation.
+
+### Automatically ending an accreditation
+
+Users can add any number of accreditations, and the accreditation dates can overlap. This means that a second accreditation can start before the first has finished.
+
+We must consider whether we should allow this or automatically end the first accreditation based on the start date of the second accreditation.
+
 *[DfE]: Department for Education
+*[ECF]: early careers framework
+*[EYITT]: early years initial teacher training
 *[HEI]: higher education institution
 *[ITT]: initial teacher training
 *[QTS]: qualified teacher status
