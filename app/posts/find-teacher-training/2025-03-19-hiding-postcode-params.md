@@ -43,6 +43,7 @@ However the outcome of the spike showed this was not feasible:
 - I cant find evidence that Google supports the ability to do a partial postcode match based on a half completed postcode such as SG6 4 . In some examples it finds nothing and in others it just defaults to the first half. I believe our service is defaulting to use the first half if a half finished postcode is given.
 
 The GIT service have implemented obfuscation to their URL's. However this postcode information is present on the page so defeats the point of obfuscating as the data is visible on the page.
+
 ## Status of this work
 
 Due to the above limitations and potential user degradation and lack of value to implement such a solution, the team have agreed to not proceed with this approach.
