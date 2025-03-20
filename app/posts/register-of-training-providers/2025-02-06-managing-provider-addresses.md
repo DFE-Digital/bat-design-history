@@ -8,8 +8,8 @@ tags:
   - locations
 related:
   items:
-    - text: The attributes of a training provider
-      href: /register-of-training-providers/the-attributes-of-a-training-provider/
+    - text: Defining the attributes of teacher training providers
+      href: /register-of-training-providers/defining-the-attributes-of-teacher-training-providers/
     - text: Adding providers to the register
       href: /register-of-training-providers/adding-providers-to-the-register/
     - text: Changing provider details

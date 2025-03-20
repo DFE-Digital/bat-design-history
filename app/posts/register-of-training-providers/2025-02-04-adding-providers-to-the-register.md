@@ -8,8 +8,8 @@ tags:
   - training partners
 related:
   items:
-    - text: The attributes of a training provider
-      href: /register-of-training-providers/the-attributes-of-a-training-provider/
+    - text: Defining the attributes of teacher training providers
+      href: /register-of-training-providers/defining-the-attributes-of-teacher-training-providers/
     - text: Changing provider details
       href: /register-of-training-providers/changing-provider-details/
     - text: Managing provider accreditations
