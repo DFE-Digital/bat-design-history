@@ -8,7 +8,7 @@ tags:
 related:
   items:
     - text: Understanding the relationships between organisations delivering initial teacher training
-      href: /understanding-the-relationships-between-organisations-delivering-initial-teacher-training/
+      href: /becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/
 ---
 
 Training providers in initial teacher training (ITT) can take various forms, including:
@@ -16,7 +16,7 @@ Training providers in initial teacher training (ITT) can take various forms, inc
 - accredited ITT providers
 - training partners - also known as lead partners
 
-You can read more about these relationships in an earlier post on [understanding provider relationships](/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/).
+You can read more about these relationships in an earlier post on [understanding provider relationships](/becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/).
 
 Below is an overview of the attributes we use to identify and manage initial teacher training providers.
 
