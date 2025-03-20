@@ -32,7 +32,7 @@ We initially thought we could limit the risk by only surfacing the beginning of 
 
 During the first spike for hiding the location data from search URLs we discovered it would degrade the overall user experience. As that would mean that users would not be able to share links to search results as we rely on that data to dictate the search results.
 
-For the second spike we decided to investigate searching by adding the first character of the second part of post codes, for example, “NG1 2”. 
+For the second spike we decided to investigate searching by adding the first character of the second part of post codes, for example, “NG1 2”.
 
 However the outcome of the spike showed this was not a feasible solution.
 
@@ -42,7 +42,7 @@ In addition when searching for SG6 4 the search results display 1 mile from Letc
 
 Using the below address validation [site](https://developers.google.com/maps/documentation/address-validation/demo) If you were to input in the address SG6 and then SG6 4 the map below returns the same geocode data.
 
-We can not find evidence that Google supports the ability to do a partial postcode match based on a half completed postcode such as SG6 4 . In some examples it finds nothing and in others it just defaults to the first half. 
+We can not find evidence that Google supports the ability to do a partial postcode match based on a half completed postcode such as SG6 4 . In some examples it finds nothing and in others it just defaults to the first half.
 
 We believe our service is defaulting to use the first half if a half finished postcode is given.
 
