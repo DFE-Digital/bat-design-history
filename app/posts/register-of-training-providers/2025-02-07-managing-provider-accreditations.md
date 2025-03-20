@@ -46,7 +46,7 @@ screenshots:
       src: remove-accreditation--success.png
 ---
 
-An accredited initial teacher training (ITT) provider is a legal entity accredited by the Department for Education (DfE) that delivers teacher training that leads to qualified teacher status (QTS).
+An accredited initial teacher training (ITT) provider is a legal entity accredited by the Department for Education (DfE) to deliver teacher training that leads to qualified teacher status (QTS).
 
 The accredited ITT provider has been awarded accreditation and has full and final accountability for all aspects of training design, delivery, and quality across the partnership. It is liable for the quality of provision, governance, and internal controls. It will be accountable and responsible for public funds spent on the purposes intended across its ITT partnership.
 
