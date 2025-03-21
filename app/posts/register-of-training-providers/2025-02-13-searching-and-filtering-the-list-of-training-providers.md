@@ -10,9 +10,9 @@ tags:
   - training partners
 related:
   items:
-    - text: Updating organisation search and filters in Publish teacher training courses support console
+    - text: Updating organisation search and filters in the ‘Publish teacher training courses’ support console
       href: /support-for-publish/updating-organisation-search-and-filters/
-    - text: Exploring selected filter tags in Find teacher training courses
+    - text: Exploring selected filter tags in the ‘Find teacher training courses’ service
       href: /find-teacher-training/exploring-selected-filter-tags/
 screenshots:
   items:
@@ -28,7 +28,7 @@ screenshots:
       src: provider-list--no-results.png
     - text: Provider details
       src: provider-details.png
-    - text: Provider details only showing partially complete information
+    - text: Provider details - showing partially complete information
       src: provider-details--partially-complete.png
 ---
 
@@ -66,6 +66,8 @@ The summary card contains:
 - provider code
 
 For information missing in the summary list, for example, the provider’s legal name, we show ‘Not entered’ and use the secondary text colour (mid-grey).
+
+We order the list of providers by ascending (a to z) operating name.
 
 ### Filter sidebar
 
@@ -115,15 +117,15 @@ Navigating to a provider or away from the list of providers clears the search te
 
 ### Single results
 
-We do not send users automatically to the provider’s details page. If a user’s search finds a single provider, we show the user the list of providers containing the single provider. This allows users to orient themselves or correct mistakes before viewing the provider.
+We do not send users automatically to the provider’s details page. If a user’s search finds a single provider, we show the user the list of providers containing the single provider. This interaction allows users to orient themselves or correct mistakes before viewing the provider.
 
 ### No results
 
 If the search does not return a result, we show a message depending on the search and filter terms:
 
-- There are no results for ‘search term’.
-- There are no results for ‘search term’ and the selected filter.
-- There are no results for ‘search term’ and the selected filters.
+- There are no results for ‘[search term]’.
+- There are no results for ‘[search term]’ and the selected filter.
+- There are no results for ‘[search term]’ and the selected filters.
 - There are no results for the selected filter.
 - There are no results for the selected filters.
 
@@ -136,6 +138,8 @@ If a user does not enter a search term when submitting a search, we show a list 
 ![Provider list pagination](provider-list--pagination.png)
 
 We include pagination below the list of providers. If the list contains more than 25 items, we show the standard [GOV.UK pagination component](https://design-system.service.gov.uk/components/pagination/).
+
+If a user navigates between pages using the pagination, we retain the selected filters and any search terms they have entered.
 
 ## Further considerations
 
