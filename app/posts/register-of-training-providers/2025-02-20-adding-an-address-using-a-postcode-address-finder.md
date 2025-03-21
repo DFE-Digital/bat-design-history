@@ -80,7 +80,7 @@ The page heading shows how many addresses were returned and the search terms use
 - 1 address found for ‘[postcode]’
 - 1 address found for ‘[postcode]’ and ‘[building number or name]’
 - 25 addresses found for ‘[postcode]’
-- 25 address found for ‘[postcode]’ and ‘[building number or name]’
+- 25 addresses found for ‘[postcode]’ and ‘[building number or name]’
 
 Users can change their search by selecting the ‘Change your search’ or ‘Back’ links if the address they're looking for is not listed.
 
