@@ -155,7 +155,7 @@ Users can also return to the provider details page by selecting the ‘Cancel’
 
 Users can edit addresses.
 
-The edit address form is the same form as the manual entry route. We prepopulate the form with the existing address details and use the same [data validation rules](#enter-address-form).
+The edit address form is the same form as the manual entry route in the ‘Add address’ flow. We prepopulate the form with the existing address details and use the same [data validation rules](#enter-address-form).
 
 We allow users to edit addresses because this gives them control, especially if the initial automated results do not fully match reality - for example, missing flat numbers, unusual properties, or rural addresses.
 
