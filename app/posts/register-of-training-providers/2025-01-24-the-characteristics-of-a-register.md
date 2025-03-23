@@ -62,3 +62,13 @@ In government, a ‘register’ is typically defined as an authoritative, regula
 A register is far more than a simple list: it is an authoritative, well-maintained data asset that underpins the quality and trustworthiness of public services.
 
 By establishing robust governance, stable identifiers, and reliable processes for updates, a ‘Register of training providers’ can serve as a solid backbone for accurate, up-to-date information in the BAT service line.
+
+*[API]: application programming interface
+*[BAT]: Becoming a teacher
+*[DfE]: Department for Education
+*[GDPR]: General Data Protection Regulation
+*[ODPO]: Office of the Data Protection Officer
+*[UKPRN]: UK provider reference number
+*[UKPRNs]: UK provider reference numbers
+*[URN]: unique reference number
+*[URNs]: unique reference numbers
