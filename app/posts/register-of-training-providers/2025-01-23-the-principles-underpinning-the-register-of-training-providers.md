@@ -37,3 +37,9 @@ The register will ensure that data is complete, accurate, and standardised. Stri
 - following government data formatting standards
 
 The register reduces the burden on service teams by maintaining high-quality data, allowing them to focus on delivering better services rather than cleaning and verifying data.
+
+*[API]: application programming interface
+*[BAT]: Becoming a teacher
+*[CSV]: comma-separated values
+*[DfE]: Department for Education
+*[ODS]: open document spreadsheet
