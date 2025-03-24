@@ -67,9 +67,11 @@ If the API returns no geolocation data, we replace the summary list with a messa
 
 > The address could not be geocoded.
 
+We save the geolocation data against each address for later recall.
+
 ## Further considerations
 
-We considered allowing users to add geolocation data if the API fails manually. However, we decided against doing so as we could not guarantee that the information entered by the user would be correct or match the address, and we did not want to increase the complexity by introducing a mechanism to double-check the data.
+We considered allowing users to add geolocation data if the API fails. However, we decided against doing so as we could not guarantee that the information entered by the user would be correct or match the address, and we did not want to increase the complexity by introducing a mechanism to double-check the data.
 
 Instead, we can introduce a background process that periodically checks addresses with missing geolocation data and attempts to fill in the gaps.
 
