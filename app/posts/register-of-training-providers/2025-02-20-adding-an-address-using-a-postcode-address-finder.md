@@ -64,6 +64,8 @@ There is an additional step if the API does not return any addresses or, the add
 
 #### Find address
 
+[![Find address form showing two inputs, one for postcode and another for building number or name](add-address--find-address.png "Find address form (select image to see a larger version)")](add-address--find-address.png)
+
 The find address form includes two fields:
 
 - postcode
@@ -72,6 +74,8 @@ The find address form includes two fields:
 We have specific [data validation rules](#find-address-form) that users must meet before continuing to the ‘Select address’ page.
 
 #### Select address
+
+[![Select address form showing a list of radios, one for each address returned by the API](add-address--select-address.png "Select address form (select image to see a larger version)")](add-address--select-address.png)
 
 If the API returns one or more addresses, we show a list of radio inputs, one radio for each address returned.
 
@@ -82,9 +86,9 @@ The page heading shows how many addresses were returned and the search terms use
 - 25 addresses found for ‘[postcode]’
 - 25 addresses found for ‘[postcode]’ and ‘[building number or name]’
 
-Users can change their search by selecting the ‘Change your search’ or ‘Back’ links if the address they're looking for is not listed.
+If the address they're looking for is not listed, users can change their search by selecting the ‘Change your search’ or ‘Back’ links.
 
-We limit the number of addresses shown to the user rather than paginate the results. Pagination introduces additional cognitive and interaction steps (clicking back and forth through pages), complicating a task that should ideally be simple and immediate.
+We limit the number of addresses shown to the user to 25 rather than paginate the results. Pagination introduces additional cognitive and interaction steps (clicking back and forth through pages), complicating a task that should ideally be simple and immediate.
 
 We have specific [data validation rules](#select-address-form) that users must meet before continuing to the ‘Check your answers’ page.
 
@@ -94,9 +98,11 @@ Users can also return to the provider details page by selecting the ‘Cancel’
 
 We do not send users automatically to the check your answers page if only one address is found.
 
-If a user’s search finds a single address, we show the user the list of addresses containing the single address. This interaction allows users to orient themselves or correct mistakes before continuing.
+If a user’s search finds a single address, we show the user the list containing the single address. This interaction allows users to orient themselves or correct mistakes before continuing.
 
 ##### No addresses found
+
+[![No addresses found page showing links to change the search or enter the address manually](add-address--no-addresses-found.png "No addresses found (select image to see a larger version)")](add-address--no-addresses-found.png)
 
 If the API does not return any addresses, we show:
 
@@ -108,7 +114,7 @@ If the API does not return any addresses, we show:
 
 We allow users to enter an address manually if:
 
-- no addresses are found from their search
+- no addresses are found in their search
 - none of the addresses shown match the address they want to add
 
 The address form includes fields for:
@@ -120,7 +126,7 @@ The address form includes fields for:
 - county
 - postcode
 
-We include a third address line because provider and school data analysis shows that a small number of providers and schools have a third line in their addresses.
+We include a third address line because provider and school data analysis show that several providers and schools have a third line in their addresses.
 
 We have specific [data validation rules](#enter-address-form) that users must meet before continuing to the ‘Check your answers’ page.
 
@@ -139,13 +145,13 @@ The final step is the ‘Check your answers’ page. We show a summary list cont
 - county
 - postcode
 
-Users can change the address details depending on the route they took to get to this page.
+Users can change the address details depending on their route to this page.
 
-If users came to this page from the ‘Select address’ page, selecting a ‘Change’ or ‘Back’ link will take them to the ‘Select address’ page.
+If users come to this page from the ‘Select address’ page, selecting a ‘Change’ or ‘Back’ link will take them to the ‘Select address’ page.
 
-If users came to this page from the ‘Enter address’ page, selecting a ‘Change’ or ‘Back’ link will take them to the ‘Enter address’ page.
+If users come to this page from the ‘Enter address’ page, selecting a ‘Change’ or ‘Back’ link will take them to the ‘Enter address’ page.
 
-If some of the address fields do not have any information, or the user has not entered information, for example, address lines 2 and 3 and county, we leave the field blank rather than remove them to avoid confusion.
+If some address fields do not have any information, or the user has not entered information, for example, address lines 2 and 3 and county, we leave the field blank rather than remove them to avoid confusion.
 
 Once users select ‘Save address’, they return to the provider details page, and we display an ‘Address added’ success message.
 
@@ -155,7 +161,7 @@ Users can also return to the provider details page by selecting the ‘Cancel’
 
 Users can edit addresses.
 
-The edit address form is the same form as the manual entry route in the ‘Add address’ flow. We prepopulate the form with the existing address details and use the same [data validation rules](#enter-address-form).
+The edit address form is the same as the manual entry route in the ‘Add address’ flow. We prepopulate the form with the existing address details and use the same [data validation rules](#enter-address-form).
 
 We allow users to edit addresses because this gives them control, especially if the initial automated results do not fully match reality - for example, missing flat numbers, unusual properties, or rural addresses.
 
@@ -198,3 +204,8 @@ If the user does not enter a postcode, we show the error message:
 If the user does not enter a valid postcode format, we show the error message:
 
 > Enter a full UK postcode
+
+*[API]: application programming interface
+*[DfE]: Department for Education
+*[OS]: Ordnance Survey
+*[PSGA]: Public Sector Geospatial Agreement
