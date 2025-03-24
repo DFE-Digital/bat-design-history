@@ -35,3 +35,17 @@ screenshots:
     - text: Check your answers
       src: add-provider--check-your-answers.png
 ---
+
+We recently [updated the ‘Add address’ flow to include a postcode address finder](/register-of-training-providers/adding-an-address-using-a-postcode-address-finder/). We added the postcode address finder to the ‘Add provider’ flow for consistency.
+
+## How it works
+
+Adding an address is at the end of the [‘Add provider’ flow](/register-of-training-providers/adding-providers-to-the-register/).
+
+[![Find address flow](add-provider--find-address-flow.png "Find address flow (select image to see a larger version)")](add-provider--find-address-flow.png)
+
+We use a ‘search and select’ journey to help users quickly find an address.
+
+If users cannot find the address they’re looking for, they can manually enter it.
+
+You can read more about how the journey works in the post [Adding an address using a postcode address finder](/register-of-training-providers/adding-an-address-using-a-postcode-address-finder/).
