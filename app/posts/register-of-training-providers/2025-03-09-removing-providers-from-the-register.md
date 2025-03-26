@@ -149,20 +149,21 @@ We show a success message on the provider list page saying ‘Provider deleted�
 
 We must consider what happens to partnerships when we archive or delete a provider.
 
-When we archive or delete a provider, they cannot be added as a partner.
+When we archive or delete a provider, they cannot be added as a partner. We prevent these providers from appearing in the ‘Add partner’ flow autocomplete.
 
 Archived providers remain on a provider’s partnership list if they have previously been partners. We flag the partner as archived.
 
-When we remove (soft delete) a provider, we must cascade the delete to all relationships. For example, we should remove the partner relationships.
+When we remove (‘soft’ delete) a provider, we must cascade the delete to all relationships. For example, we should remove the partner relationships.
 
-### Soft versus hard delete
+### ‘Soft’ versus ‘hard’ delete
 
-We currently soft delete providers, which means we can restore them later if needed. The support team and a developer would typically manage this process.
+We currently ‘soft’ delete providers, which means we can restore them later if needed. The support team and a developer would typically manage this process.
 
 There are several things we need to consider:
 
-1. Providing a way in the service to restore a previously deleted provider—within a given period—and avoiding the need for developer intervention
-2. Purging the database of deleted providers – for example, hard deleting providers after a month of soft deletion
+- providing a way in the service to restore a previously deleted provider—within a given period—and avoiding the need for developer intervention
+- purging the database of deleted providers – for example, hard deleting providers after a month of ‘soft’ deletion
+- what happens if we restore a previously deleted provider? For example, do we restore the provider but not the partnerships?
 
 *[ITT]: initial teacher training
 *[GDPR]: General Data Protection Regulations
