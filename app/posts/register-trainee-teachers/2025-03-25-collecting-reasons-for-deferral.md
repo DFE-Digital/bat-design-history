@@ -11,22 +11,22 @@ related:
       href: /register-trainee-teachers/understanding-trainee-withdrawals/ 
 screenshots: 
     - text: Outcomes for 2022-2023 academic year deferrals 
-      src: 2022-2023 outcomes.png 
+      src: 2022-2023-outcomes.png 
     - text: Outcomes for 2023-2024 academic year deferrals 
-      src: 2023-2024 outcomes.png 
+      src: 2023-2024-outcomes.png 
     - text: Deferrals free text entry interface 
-      src: Deferral free text entry.png
+      src: Deferral-free-text-entry.png
     - text: Check details with reason
-      src: Check deferral details.png
+      src: Check-deferral-details.png
     - text: Check details without reason
-      src: Summary card excluding response.png
+      src: Summary-card-excluding-response.png
 --- 
 
 Deferring from Initial Teacher Training (ITT) often eventually leads to withdrawal, with deferred trainees much more likely to withdraw than obtain Qualified Teacher Status (QTS) as illustrated below (data sampled on March 20th 2025). 
 
-![A pie chart of the outcomes for 2022-2023 academic year deferrals](2022-2023 outcomes.png)
+![A pie chart of the outcomes for 2022-2023 academic year deferrals](2022-2023-outcomes.png)
 
-![A pie chart of the outcomes for 2023-2024 academic year deferrals](2023-2024 outcomes.png)
+![A pie chart of the outcomes for 2023-2024 academic year deferrals](2023-2024-outcomes.png)
 
 With this in mind, the Department for Education sought to better understand the reasons behind trainees deferring, which would allow us to design policies and services aimed at reducing both deferrals and the number of deferrals that result in withdrawal. 
 
@@ -38,11 +38,11 @@ This question is posed after inquiring about the date of deferral. At the end of
 
 This response isn't currently displayed anywhere else in the UI (e.g., Timeline), but is queryable within the analytics to inform future improvements. 
 
-![Screenshot of deferrals free text entry interface](Why has the trainee deferred.png)
+![Screenshot of deferrals free text entry interface](Why-has-the-trainee-deferred.png)
 
-![Screenshot of check details page with reason for deferral](Check deferral details.png "Check details with reason")
+![Screenshot of check details page with reason for deferral](Check-deferral-details.png)
 
-![Screenshot of check details page without an reason for deferral](Summary card excluding response.png "Check details without reason")
+![Screenshot of check details page without an reason for deferral](Summary-card-excluding-response.png)
 
 ## Reasons for our approach 
 
