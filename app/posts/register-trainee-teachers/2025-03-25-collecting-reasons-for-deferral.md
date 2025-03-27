@@ -40,7 +40,7 @@ This response isn't currently displayed anywhere else in the UI (e.g., Timeline)
 
 ![Screenshot of check details page with reason for deferral](checkdeferraldetains.png "Deferrals free text entry interface")
 
-: ![Screenshot of check details page without an reason for deferral](summarycardexcludingresponse.png ' Deferrals free text entry interface ') 
+![Screenshot of check details page without an reason for deferral](summarycardexcludingresponse.png "Deferrals free text entry interface")
 
 ##Reasons for our approach 
 
