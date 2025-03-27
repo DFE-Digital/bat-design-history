@@ -7,17 +7,19 @@ tags:
   - providers 
   - deferrals 
 related: 
-  items: 
     - text: Understanding trainee withdrawals 
       href: /register-trainee-teachers/understanding-trainee-withdrawals/ 
 screenshots: 
-  items:
     - text: Outcomes for 2022-2023 academic year deferrals 
-      src: 2022-2023 outcomes.png 
+      src: 2022-2023outcomes.png 
     - text: Outcomes for 2023-2024 academic year deferrals 
-      src: 2022-2023 outcomes.png 
+      src: 2023-2024outcomes.png 
     - text: Deferrals free text entry interface 
       src: DeferralFreeTextEntry.png
+    - text: Check details with reason
+      src: checkdeferraldetails.png
+    - text: Check details without reason
+      src: summarycardexcludingresponse.png
 --- 
 
 Deferring from Initial Teacher Training (ITT) often eventually leads to withdrawal, with deferred trainees much more likely to withdraw than obtain Qualified Teacher Status (QTS) as illustrated below (data sampled on March 20th 2025). 
@@ -30,17 +32,17 @@ With this in mind, the Department for Education sought to better understand the 
 
 ## What we have changed 
 
-As a first step we have added an optional free text 'reason for withdrawal' field to both the Register withdrawal journey and the in-development Register API withdrawal end point.   
+As a first step we have added an optional free text 'reason for withdrawal' field to both the Register withdrawal journey and the in-development Register API withdrawal endpoint.   
 
 This question is posed after inquiring about the date of deferral. At the end of the flow, the reason for deferral is included on the summary card (see attached screenshot).  If no reason is given, then the row will display "Reason not given."  
 
-This response isn't currently displayed anywhere else in the UI (e.g., Timeline), but is queriable within the analytics to inform future improvements. 
+This response isn't currently displayed anywhere else in the UI (e.g., Timeline), but is queryable within the analytics to inform future improvements. 
 
 ![Screenshot of deferrals free text entry interface](Whyhasthetraineedeferred.png "Deferrals free text entry interface")
 
-![Screenshot of check details page with reason for deferral](checkdeferraldetains.png "Deferrals free text entry interface")
+![Screenshot of check details page with reason for deferral](checkdeferraldetails.png "Check details with reason")
 
-![Screenshot of check details page without an reason for deferral](summarycardexcludingresponse.png "Deferrals free text entry interface")
+![Screenshot of check details page without an reason for deferral](summarycardexcludingresponse.png "Check details without reason")
 
 ## Reasons for our approach 
 
