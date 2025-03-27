@@ -1,26 +1,28 @@
---- 
-title: Collecting reasons for deferral 
-description: Collecting reasons for deferral 
+---
+title: Collecting reasons for deferral
+description: Collecting reasons for deferral
 date: 2025-03-25
-tags: 
-  - trainees 
-  - providers 
-  - deferrals 
-related: 
-    - text: Understanding trainee withdrawals 
-      href: /register-trainee-teachers/understanding-trainee-withdrawals/ 
-screenshots: 
-    - text: Outcomes for 2022-2023 academic year deferrals 
-      src: 2022-2023-outcomes.png 
-    - text: Outcomes for 2023-2024 academic year deferrals 
-      src: 2023-2024-outcomes.png 
+tags:
+  - trainees
+  - providers
+  - deferrals
+related:
+  items:
+    - text: Understanding trainee withdrawals
+      href: /register-trainee-teachers/understanding-trainee-withdrawals/
+screenshots:
+  items:
+    - text: Outcomes for 2022-2023 academic year deferrals
+      src: 2022-2023-outcomes.png
+    - text: Outcomes for 2023-2024 academic year deferrals
+      src: 2023-2024-outcomes.png
     - text: Deferrals free text entry interface 
       src: Deferral-free-text-entry.png
     - text: Check details with reason
       src: Check-deferral-details.png
     - text: Check details without reason
       src: Summary-card-excluding-response.png
---- 
+---
 
 Deferring from Initial Teacher Training (ITT) often eventually leads to withdrawal, with deferred trainees much more likely to withdraw than obtain Qualified Teacher Status (QTS) as illustrated below (data sampled on March 20th 2025). 
 
@@ -42,7 +44,7 @@ This response isn't currently displayed anywhere else in the UI (e.g., Timeline)
 
 ![Screenshot of check details page with reason for deferral](Check-deferral-details.png)
 
-![Screenshot of check details page without an reason for deferral](Summary-card-excluding-response.png)
+![Screenshot of check details page without a reason for deferral](Summary-card-excluding-response.png)
 
 ## Reasons for our approach 
 
@@ -50,4 +52,4 @@ This change will allow providers to share what information they have available a
 
 ## Next steps 
 
-Providing providers with a defined set of options to select from will expedite the process for users to submit this data and facilitate easier analysis of the information. Consequently, once we have collected a few months of free text data, it will be analysed to identify commonalities that can be used to establish a defined set of options. 
+Providing providers with a defined set of options to select from will expedite the process for users to submit this data and facilitate easier analysis of the information. Consequently, once we have collected a few months of free text data, it will be analysed to identify commonalities that can be used to establish a defined set of options.
