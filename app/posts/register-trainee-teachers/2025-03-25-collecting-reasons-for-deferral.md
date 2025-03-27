@@ -42,7 +42,7 @@ This response isn't currently displayed anywhere else in the UI (e.g., Timeline)
 
 ![Screenshot of check details page without an reason for deferral](summarycardexcludingresponse.png "Deferrals free text entry interface")
 
-##Reasons for our approach 
+## Reasons for our approach 
 
 This change will allow providers to share what information they have available about withdrawals without generating additional administrative burden for those providers who do not currently capture this information. 
 
