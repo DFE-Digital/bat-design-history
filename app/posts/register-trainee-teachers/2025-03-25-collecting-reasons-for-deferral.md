@@ -46,6 +46,6 @@ This response isn't currently displayed anywhere else in the UI (e.g., Timeline)
 
 This change will allow providers to share what information they have available about withdrawals without generating additional administrative burden for those providers who do not currently capture this information. 
 
-##Next steps 
+## Next steps 
 
 Providing providers with a defined set of options to select from will expedite the process for users to submit this data and facilitate easier analysis of the information. Consequently, once we have collected a few months of free text data, it will be analysed to identify commonalities that can be used to establish a defined set of options. 
