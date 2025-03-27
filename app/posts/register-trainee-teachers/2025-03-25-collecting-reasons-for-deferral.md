@@ -28,7 +28,7 @@ Deferring from Initial Teacher Training (ITT) often eventually leads to withdraw
 
 With this in mind, the Department for Education sought to better understand the reasons behind trainees deferring, which would allow us to design policies and services aimed at reducing both deferrals and the number of deferrals that result in withdrawal. 
 
-##What we have changed 
+## What we have changed 
 
 As a first step we have added an optional free text 'reason for withdrawal' field to both the Register withdrawal journey and the in-development Register API withdrawal end point.   
 
