@@ -36,7 +36,7 @@ This question is posed after inquiring about the date of deferral. At the end of
 
 This response isn't currently displayed anywhere else in the UI (e.g., Timeline), but is queriable within the analytics to inform future improvements. 
 
-: ![Screenshot of deferrals free text entry interface](Whyhasthetraineedeferred.png ' Deferrals free text entry interface ') 
+![Screenshot of deferrals free text entry interface](Whyhasthetraineedeferred.png "Deferrals free text entry interface")
 
 : ![Screenshot of check details page with reason for deferral](checkdeferraldetains.png ' Deferrals free text entry interface ') 
 
