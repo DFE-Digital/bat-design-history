@@ -169,7 +169,7 @@ We use the [GOV.UK summary cards component](https://design-system.service.gov.uk
 - contacts
 - partnerships
 
-We show a summary list containing details for each item in the section. Using the summary card lets us visually separate each summary list and give each a title and some actions.
+In the section, we show a summary list containing details for each item. Using the summary card lets us visually separate each summary list and give each a title and some actions.
 
 #### Accreditation summary card
 
@@ -203,6 +203,10 @@ For each address summary card, we show:
   - postcode
   - latitude
   - longitude
+
+We show ‘Unknown’ for missing latitude and longitude information and use the secondary text colour (mid-grey).
+
+We leave the fields blank for the optional address lines (address lines 2 and 3 and county) for clarity (we do not want to confuse ‘Not entered’ or ‘Unknown’ with valid information).
 
 #### Contact summary card
 
@@ -243,3 +247,11 @@ For information missing in the summary list, for example, the provider’s legal
 ![Example pagination](pagination-example.png "Example pagination")
 
 We include pagination below each list. If the list contains more than 25 items, we show the standard [GOV.UK pagination component](https://design-system.service.gov.uk/components/pagination/).
+
+### Success messages
+
+![Success message example](success-message-example.png "Success message example")
+
+When users add, change or remove information from a provider, we show the success message above the page heading in the relevant section.
+
+For example, if users add an address, we show a full-width success message with the address section highlighted in the secondary navigation.
