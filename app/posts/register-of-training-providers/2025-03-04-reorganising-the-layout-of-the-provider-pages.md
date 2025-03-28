@@ -201,6 +201,8 @@ For each address summary card, we show:
   - town or city
   - county
   - postcode
+  - latitude
+  - longitude
 
 #### Contact summary card
 
@@ -235,6 +237,7 @@ For each partnership summary card, we show:
   - provider code
 
 For information missing in the summary list, for example, the provider’s legal name, we show ‘Not entered’ and use the secondary text colour (mid-grey).
+
 ### Pagination
 
 ![Example pagination](pagination-example.png "Example pagination")
