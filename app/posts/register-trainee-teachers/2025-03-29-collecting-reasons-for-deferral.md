@@ -26,9 +26,9 @@ screenshots:
 
 Deferring from initial teacher training (ITT) often eventually leads to withdrawal, with deferred trainees much more likely to withdraw than obtain qualified teacher status (QTS), as illustrated below (data sampled on March 20th 2025).
 
-![Outcomes for 2022-2023 academic year deferrals](2022-2023-outcomes.png "Outcomes for 2022-2023 academic year deferrals")
+![Outcomes for 2022-2023 academic year deferrals](2022-2023-outcomes.png)
 
-![Outcomes for 2023-2024 academic year deferrals](2023-2024-outcomes.png "Outcomes for 2023-2024 academic year deferrals")
+![Outcomes for 2023-2024 academic year deferrals](2023-2024-outcomes.png)
 
 With this in mind, the Department for Education sought to understand better why trainees deferred. This research would allow us to design policies and services to reduce deferrals and the number of deferrals that result in withdrawal.
 
