@@ -37,7 +37,7 @@ With this in mind, the Department for Education sought to understand better why 
 
 As a first step, we have added an optional free-text ‘reason for withdrawal’ field to both the Register withdrawal journey and the in-development Register API withdrawal endpoint.
 
-This question is posed after inquiring about the date of deferral. At the end of the flow, the reason for deferral is included on the summary card (see attached screenshot).  If no reason is given, then the row will display “Reason not given.”  
+This question is posed after inquiring about the date of deferral. At the end of the flow, the reason for deferral is included on the summary card.  If no reason is given, then the row will display “Reason not given.”  
 
 This response isn’t currently displayed anywhere else in the service (for example, in the timeline) but is queryable within the analytics to inform future improvements.
 
@@ -54,3 +54,8 @@ This change will allow providers to share information about withdrawals without 
 ## Next steps
 
 Providing providers with a defined set of options to select from will expedite the process for users to submit this data and facilitate easier analysis of the information. Consequently, once we have collected a few months of free text data, it will be analysed to identify commonalities that can be used to establish a defined set of options.
+
+*[API]: application programming interface
+*[CSV]: comma-separated values
+*[ITT]: initial teacher training
+*[QTS]: qualified teacher status
