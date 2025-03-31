@@ -39,7 +39,7 @@ As a first step, we have added an optional free-text ‘reason for withdrawal’
 
 This question is posed after inquiring about the date of deferral. At the end of the flow, the reason for deferral is included on the summary card (see attached screenshot).  If no reason is given, then the row will display “Reason not given.”  
 
-This response isn't currently displayed anywhere else in the UI (e.g., Timeline), but is queryable within the analytics to inform future improvements.
+This response isn’t currently displayed anywhere else in the service (for example, in the timeline) but is queryable within the analytics to inform future improvements.
 
 ![Screenshot of deferrals free text entry interface](Why-has-the-trainee-deferred.png)
 
