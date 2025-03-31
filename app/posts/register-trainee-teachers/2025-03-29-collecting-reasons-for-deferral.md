@@ -40,11 +40,11 @@ This question is posed after inquiring about the date of deferral. At the end of
 
 This response isn’t currently displayed anywhere else in the service (for example, in the timeline) but is queryable within the analytics to inform future improvements.
 
-![Screenshot of deferrals free text entry interface](Why-has-the-trainee-deferred.png)
+![Screenshot of deferrals free text entry interface](why-has-the-trainee-deferred.png)
 
-![Screenshot of check details page with reason for deferral](Check-deferral-details.png)
+![Screenshot of check details page with reason for deferral](check-deferral-details.png)
 
-![Screenshot of check details page without a reason for deferral](Summary-card-excluding-response.png)
+![Screenshot of check details page without a reason for deferral](summary-card-excluding-response.png)
 
 ## Reasons for our approach
 
