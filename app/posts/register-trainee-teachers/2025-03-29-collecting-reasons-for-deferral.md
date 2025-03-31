@@ -49,7 +49,7 @@ This response isn’t currently displayed anywhere else in the service (for exam
 
 ## Reasons for our approach
 
-This change will allow providers to share what information they have available about withdrawals without generating additional administrative burden for those providers who do not currently capture this information.
+This change will allow providers to share information about withdrawals without generating additional administrative burden for providers who do not currently capture this information.
 
 ## Next steps
 
