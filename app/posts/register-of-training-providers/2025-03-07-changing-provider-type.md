@@ -1,6 +1,6 @@
 ---
-title: Changing provider type
-description: DESCRIPTION
+title: Updating how we show provider type
+description: We updated how we show the school and SCITT provider types and added an ‘other’ type
 date: 2025-03-07
 tags:
   - providers
@@ -39,7 +39,7 @@ screenshots:
       src: provider-details--provider-type-other.png
 ---
 
-We update the provider type data
+We updated how we show the school and school-centred initial teacher training (SCITT) provider types and added an ‘other’ type.
 
 ## What we changed
 
@@ -109,4 +109,9 @@ We show the provider details summary card in several places:
 
 As with the provider type question, the school and SCITT provider types have the same underlying value in the data, for example, ‘school’. If the school is accredited, we simply change the ‘School’ label to ‘School-centred initial teacher training (SCITT).’
 
+## Further considerations
+
+We considered allowing users to manually change the provider type from higher education institution (HEI) to school or ‘other’ and vice versa. However, we have not discovered a need for it yet.
+
+*[HEI]: higher education institution
 *[SCITT]: school-centred initial teacher training
