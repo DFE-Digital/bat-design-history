@@ -24,7 +24,7 @@ See the new error structure in this table:
 | ---- | ---- |
 | 3 errors found | Itt start date is invalid; <br> Degrees attributes Subject can't be blank; <br> Degrees attributes Grade can't be blank |
 | 1 error found | Itt start date is invalid |
-| Validation passed | ---- |
+| Validation passed | - |
 
 ## Reasons for our approach
 
