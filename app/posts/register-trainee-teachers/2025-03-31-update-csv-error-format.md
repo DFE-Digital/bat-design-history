@@ -25,7 +25,7 @@ Validation results | Errors
 ----|----
 3 errors found | Itt start date is invalid; <BR> Degrees attributes Subject can't be blank; <BR> Degrees attributes Grade can't be blank
 1 error found | Itt start date is invalid
-Validation passed |
+Validation passed | ----
 
 ## Reasons for our approach
 
