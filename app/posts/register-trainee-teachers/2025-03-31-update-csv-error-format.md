@@ -20,7 +20,7 @@ Instead of a single error column being include in the validation results file, t
 
 See the new error structure in this table:
 
-| Validation results | Errors |
+| Validation results | Example errors |
 | ---- | ---- |
 | 3 errors found | Itt start date is invalid; <br> Degrees attributes Subject can't be blank; <br> Degrees attributes Grade can't be blank |
 | 1 error found | Itt start date is invalid |
