@@ -43,8 +43,8 @@ This proved unviable though because;
 * The documentation isn't available to users who aren't logged into the service
 * This header version has been deprecated for a separate [service navigation component](https://design-system.service.gov.uk/components/service-navigation/) which we're adopting.
 
-
 ## Our proposed solutions
+
 We intend to move the secondary navigation into an expanded footer using the standard [GOV.UK component](https://design-system.service.gov.uk/components/footer/).
 
 ![Screenshot showing the proposed expanded footer including news and updates link](proposed-footer.png "Proposed footer with news and updates link")
@@ -60,4 +60,3 @@ We also plan to enhance scalability by creating a post list page linked to indiv
 ![Screenshot showing the proposed news and updates list](news-and-updates-index.png "Proposed news and updates list")
 
 ![Screenshot showing an example news and updates post item](news-and-updates-post.png "Proposed news and updates post item")
-
