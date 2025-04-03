@@ -30,7 +30,7 @@ Deferring from initial teacher training (ITT) often eventually leads to withdraw
 
 ![Outcomes for 2023-2024 academic year deferrals](2023-2024-outcomes.png)
 
-With this in mind, the Department for Education sought to understand better why trainees deferred. This research would allow us to design policies and services to reduce deferrals and the number of deferrals that result in withdrawal.
+With this in mind, the Department for Education aimed to gain a better understanding of why trainees deferred. This research would enable us to develop policies and services to reduce deferrals and the withdrawals that result from them.
 
 ## What we have changed
 
