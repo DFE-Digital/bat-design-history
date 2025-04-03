@@ -20,9 +20,9 @@ screenshots:
       src: feedback--form.png
     - text: feedback form with errors
       src: feedback--form-error.png
-    - text: Feedback check your answers page with contact details
-      src: feedback--check-your-answers.png
     - text: Feedback check your answers page
+      src: feedback--check-your-answers.png
+    - text: Feedback check your answers page with contact details
       src: feedback--check-your-answers-with-contact.png
     - text: Feedback confirmation page
       src: feedback--confirmation.png
