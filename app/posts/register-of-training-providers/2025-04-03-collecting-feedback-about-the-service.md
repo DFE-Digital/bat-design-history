@@ -1,7 +1,7 @@
 ---
 title: Collecting feedback about the service
 description: We added a feedback page to the service
-date: 2024-03-20
+date: 2024-04-03
 tags:
   - feedback
 related:
