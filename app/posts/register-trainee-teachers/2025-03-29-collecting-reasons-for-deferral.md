@@ -16,7 +16,7 @@ screenshots:
       src: 2022-2023-outcomes.png
     - text: Outcomes for 2023-2024 academic year deferrals
       src: 2023-2024-outcomes.png
-    - text: Deferrals free text entry interface 
+    - text: Deferrals free text entry interface
       src: deferral-free-text-entry.png
     - text: Check details with reason
       src: check-deferral-details.png
@@ -30,13 +30,13 @@ Deferring from initial teacher training (ITT) often eventually leads to withdraw
 
 ![Outcomes for 2023-2024 academic year deferrals](2023-2024-outcomes.png)
 
-With this in mind, the Department for Education aimed to gain a better understanding of why trainees deferred. This research would enable us to develop policies and services to reduce deferrals and the withdrawals that result from them.
+With this in mind, the Department for Education aimed to better understand why trainees deferred. This research would enable us to develop policies and services to reduce deferrals and the withdrawals that result from them.
 
 ## What we have changed
 
 As a first step, we have added an optional free-text ‘reason for withdrawal’ field to both the Register withdrawal journey and the in-development Register API withdrawal endpoint.
 
-This question is posed after inquiring about the date of deferral. At the end of the flow, the reason for deferral is included on the summary card.  If no reason is given, then the row will display “Reason not given.”  
+This question was posed after inquiring about the date of the deferral. At the end of the flow, the reason for the deferral is included on the summary card. If no reason is given, the row will display “Reason not given.”
 
 This response isn’t currently displayed anywhere else in the service (for example, in the timeline) but is queryable within the analytics to inform future improvements.
 
@@ -52,7 +52,7 @@ This change will allow providers to share information about withdrawals without 
 
 ## Next steps
 
-Providing providers with a defined set of options to select from will expedite the process for users to submit this data and facilitate easier analysis of the information. Consequently, once we have collected a few months of free text data, it will be analysed to identify commonalities that can be used to establish a defined set of options.
+Providing providers with a defined set of options to select from will expedite the process for users to submit this data and facilitate easier information analysis. Consequently, once we have collected a few months of free text data, it will be analysed to identify commonalities that can be used to establish a defined set of options.
 
 *[API]: application programming interface
 *[CSV]: comma-separated values
