@@ -38,10 +38,7 @@ related:
       href: https://docs.google.com/presentation/d/1Im8T9MkiuyvPnkHa4tOeZU9M-Sl_E10Zkv2mrn6lEJY/edit#slide=id.p
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "[We iterated this design](/apply-for-teacher-training/declaring-safeguarding-concerns)" | markdown("inline")
-}) }}
+> [We iterated this design](/apply-for-teacher-training/declaring-safeguarding-concerns/).
 
 Universities have given us some “red flag” feedback that we are not doing enough to capture information about criminal convictions in our application form.
 

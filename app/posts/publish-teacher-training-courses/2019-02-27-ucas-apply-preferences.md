@@ -9,10 +9,7 @@ tags:
 ---
 {% from "bar-chart/macro.njk" import appBarChart %}
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "28 February – Update from UCAS: Only UTT application alerts and GT12 preferences need to be set. [Updated design](/publish-teacher-training-courses/ucas-apply-preferences-2)" | markdown("inline")
-}) }}
+> 28 February – Update from UCAS: Only UTT application alerts and GT12 preferences need to be set. [Updated design](/publish-teacher-training-courses/ucas-apply-preferences-2/)
 
 Providers can set preferences in NetUpdate for the way UCAS Apply behaves. NetUpdate is going away, we need to inherit and explain these preferences.
 
