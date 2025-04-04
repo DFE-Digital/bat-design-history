@@ -6,7 +6,7 @@ tags:
   - error pages
   - service unavailable
 related:
-  Items:
+  items:
     - text: Getting help
       href: /register-of-training-providers/getting-help/
     - text: Updating the error pages on Publish teacher training courses
