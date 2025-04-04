@@ -7,10 +7,7 @@ tags:
   - statuses
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "We did not build this design."
-}) }}
+> We did not build this design.
 
 As a user looking at all of my courses imported from UCAS, I need to know which of those courses have been published, so that I know which courses applicants are seeing.
 

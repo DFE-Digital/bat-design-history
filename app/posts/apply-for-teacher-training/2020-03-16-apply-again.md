@@ -32,10 +32,7 @@ related:
       href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "[We iterated this design after the first round of research](/apply-for-teacher-training/applying-again-iteration)" | markdown("inline")
-}) }}
+> [We iterated this design after the first round of research](/apply-for-teacher-training/applying-again-iteration/).
 
 If a candidate is not offered an interview by any of their initial 3 choices (or chooses not to accept an offer or withdraws their application), they can move to a secondary application phase. UCAS calls this ‘Apply 2’.
 

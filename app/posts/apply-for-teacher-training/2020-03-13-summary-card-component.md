@@ -11,10 +11,7 @@ related:
       href: https://github.com/alphagov/govuk-design-system-backlog/issues/210
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "On 31 January 2023, the summary card was incorporated into the GOV.UK Design System as [a new variant within the summary list component](https://design-system.service.gov.uk/components/summary-list/#summary-cards)." | markdown("inline")
-}) }}
+> On 31 January 2023, the summary card was incorporated into the GOV.UK Design System as [a new variant within the summary list component](https://design-system.service.gov.uk/components/summary-list/#summary-cards).
 
 Throughout the service we ask candidates to enter multiple items of information (eg jobs, work experiences, qualifications, course choices). We then give candidates the opportunity to review their answers, not only after completing each section, but when reviewing their entire application.
 

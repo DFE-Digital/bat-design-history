@@ -33,10 +33,7 @@ screenshots:
       src: 12-other-international-qualification.png
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "[We iterated this design before opening up the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status)" | markdown("inline")
-}) }}
+> We iterated this design before [opening the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status/).
 
 Initial designs for capturing:
 
