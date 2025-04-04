@@ -17,7 +17,7 @@ screenshots:
     - text: Outcomes for 2023-2024 academic year deferrals
       src: 2023-2024-outcomes.png
     - text: Deferrals free text entry interface
-      src: deferral-free-text-entry.png
+      src: why-has-the-trainee-deferred.png
     - text: Check details with reason
       src: check-deferral-details.png
     - text: Check details without reason
