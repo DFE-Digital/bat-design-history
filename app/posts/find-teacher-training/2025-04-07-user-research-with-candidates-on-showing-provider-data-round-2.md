@@ -61,14 +61,12 @@ However, there are some areas that could be improved to enhance their experience
 - An easy way to compare courses
 - A simple user interface
 - Enhanced tools for filtering and user interaction
--
 
 Participants compared courses using various criteria including:
 
 - Entry requirements
 - Course length
 - Qualifications
--
 
 Additionally, participants reported that they would use league tables and [Ofsted reports](https://reports.ofsted.gov.uk/) to identify potential red flags and challenging schools.
 
@@ -113,6 +111,7 @@ Success rate average data was found helpful when accessed via the accordion comp
 ### Implications for design
 
 Participants’ feedback underscores the need for precise, transparent success rate data, which is clearly presented.
+
 This is because enhanced clarity and visibility can significantly improve user confidence and aid in course selection.
 
 ## Feedback on the provider response time
