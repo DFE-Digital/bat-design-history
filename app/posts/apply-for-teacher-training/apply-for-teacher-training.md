@@ -11,6 +11,7 @@ related:
     - text: Prototype GitHub repository
       href: https://github.com/DFE-Digital/apply-for-teacher-training-prototype
     - text: Live service GitHub repository
+      description: Apply for teacher training uses the same codebase as Manage teacher training applications
       href: https://github.com/DFE-Digital/apply-for-teacher-training
 pagination:
   data: collections.apply-for-teacher-training
