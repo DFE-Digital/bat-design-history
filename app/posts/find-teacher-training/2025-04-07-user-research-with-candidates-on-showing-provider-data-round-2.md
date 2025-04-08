@@ -10,32 +10,32 @@ tags:
 related:
   items:
     - text: User research with candidates on showing provider data
-      href: https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/user-research-with-candidates-on-showing-provider-data/
+      href: /find-teacher-training/user-research-with-candidates-on-showing-provider-data/
 ---
 
-This is the second round of user research aimed at understanding what additional information candidates would find helpful about provider performance and how they would use it when deciding on a course.  
+This is the second round of user research aimed at understanding what additional information candidates would find helpful about provider performance and how they would use it when deciding on a course.
 
-The first round of research is published [here](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/user-research-with-candidates-on-showing-provider-data/).
+[View the first round of research](/user-research-with-candidates-on-showing-provider-data/).
 
 ## Background of the research
 
 The Find and Publish team needs to be confident in changes made to displaying provider performance data before this can be presented to providers.
 
-This round of research will focus on reducing the additional information displayed in the designs on Find service based on the recommendations from the [first round of research]( https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/user-research-with-candidates-on-showing-provider-data/).  
+This round of research will focus on reducing the additional information displayed in the designs on Find service based on the recommendations from the [first round of research](/find-teacher-training/user-research-with-candidates-on-showing-provider-data/).
 
 ## Objectives
 
-- To determine if there is a clear consensus from candidates on the usefulness of additional provider data and its use in finding appropriate courses to apply for  
+- To determine if there is a clear consensus from candidates on the usefulness of additional provider data and its use in finding appropriate courses to apply for
 - To identify and measure the impact that the success rate and response time has on candidates’ decision to apply for teacher training courses
 
 ## What we tested
 
 This research aims to gather candidate feedback on provider performance data presented within the Find Teacher Training Course service.
 
-The specific data tested included:  
+The specific data tested included:
 
-- Qualified teacher status (QTS) success rate  
-- Provider response time to applications  
+- Qualified teacher status (QTS) success rate
+- Provider response time to applications
 
 ## Participants
 
@@ -70,7 +70,7 @@ Participants compared courses using various criteria including:
 
 Additionally, participants reported that they would use league tables and [Ofsted reports](https://reports.ofsted.gov.uk/) to identify potential red flags and challenging schools.
 
-## Feedback on QTS success rate  
+## Feedback on QTS success rate
 
 Participants consistently highlighted the importance of success rate data when selecting teacher training courses.
 
@@ -106,7 +106,7 @@ Displaying success rate data from a previous year was suggested as a better alte
 
 #### Accordion usage
 
-Success rate average data was found helpful when accessed via the accordion component.  
+Success rate average data was found helpful when accessed via the accordion component.
 
 ### Implications for design
 
