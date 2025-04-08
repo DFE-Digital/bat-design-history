@@ -7,7 +7,12 @@ related:
     - text: Prototype
       description: |
         Password: `bat`
-      href: https://itt-mentoring-beta-94341ca35a2c.herokuapp.com/
+      href: https://itt-mentoring-beta-94341ca35a2c.herokuapp.com
+    - text: Prototype GitHub repository (public archive)
+      href: https://github.com/DFE-Digital/itt-mentoring-beta-prototype
+    - text: Live service GitHub repository
+      description: Claim funding for mentor training uses the same codebase as Manage school placements
+      href: https://github.com/DFE-Digital/itt-mentor-services
 pagination:
   data: collections.claim-funding-for-mentors
   reverse: true
