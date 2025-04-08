@@ -41,4 +41,4 @@ Your users’ primary needs will be to simply and quickly understand how you pre
 
 - write the most straightforward and shortest post you can
 - use headings and bullet points to aid reading
-- follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z) and the [DfE style guide](https://design.education.gov.uk/design-system/style-guide)
+- follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z) and the [DfE style guide](https://design.education.gov.uk/content-design/style-guide)
