@@ -10,5 +10,4 @@ eleventyComputed:
     parent: home
 ---
 
-The glossary and style guide has moved:
-[https://dfe-glossary.herokuapp.com/](https://design.education.gov.uk/content-design/style-guide/)
+The glossary and style guide has moved: <https://design.education.gov.uk/content-design/style-guide>
