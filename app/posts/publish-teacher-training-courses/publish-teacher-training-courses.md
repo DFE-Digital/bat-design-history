@@ -8,6 +8,10 @@ related:
       description: |
         Password: `bat`
       href: https://publish-courses-prototype.herokuapp.com
+    - text: Prototype GitHub repository
+      href: https://github.com/DFE-Digital/publish-teacher-training-prototype
+    - text: Live service GitHub repository
+      href: https://github.com/DFE-Digital/publish-teacher-training
 pagination:
   data: collections.publish-teacher-training-courses
   reverse: true

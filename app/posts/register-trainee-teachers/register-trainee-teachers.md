@@ -12,7 +12,7 @@ related:
     - text: Withdrawals prototype
       description: |
         Password: `bat`
-      href: https://bat-register-withdrawals-proto-e06d4bd8ada2.herokuapp.com/
+      href: https://bat-register-withdrawals-proto-e06d4bd8ada2.herokuapp.com
     - text: Prototype GitHub repository
       href: https://github.com/DFE-Digital/register-trainee-teachers-prototype
     - text: Live service GitHub repository

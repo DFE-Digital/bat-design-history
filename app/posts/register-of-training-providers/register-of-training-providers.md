@@ -8,6 +8,8 @@ related:
       description: |
         Password: `bat`
       href: https://register-training-providers-1729bf793dfb.herokuapp.com/
+    - text: Prototype GitHub repository
+      href: https://github.com/DFE-Digital/register-training-providers-prototype
 pagination:
   data: collections.register-of-training-providers
   reverse: true

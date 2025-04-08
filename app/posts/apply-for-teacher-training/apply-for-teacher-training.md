@@ -6,9 +6,12 @@ related:
   items:
     - text: Prototype
       description: |
-        Username: `apply`
         Password: `bat`
-      href: https://apply-beta-prototype.herokuapp.com/
+      href: https://apply-beta-prototype.herokuapp.com
+    - text: Prototype GitHub repository
+      href: https://github.com/DFE-Digital/apply-for-teacher-training-prototype
+    - text: Live service GitHub repository
+      href: https://github.com/DFE-Digital/apply-for-teacher-training
 pagination:
   data: collections.apply-for-teacher-training
   reverse: true
