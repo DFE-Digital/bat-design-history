@@ -15,7 +15,7 @@ related:
 
 This is the second round of user research aimed at understanding what additional information candidates would find helpful about provider performance and how they would use it when deciding on a course.
 
-[View the first round of research](/user-research-with-candidates-on-showing-provider-data/).
+[View the first round of research](/find-teacher-training/user-research-with-candidates-on-showing-provider-data/).
 
 ## Background of the research
 
