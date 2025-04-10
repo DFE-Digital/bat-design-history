@@ -18,7 +18,7 @@ When we remove users from the Register of training providers and we add them aga
 
 Reinstating deleted user accounts might preserve history and reduce admin effort but also introduce security risks and system complexity. After weighing both options, we chose not to support reinstatement. This post explains the decision.
 
-## Reinstating a deleted Account
+## Reinstating a deleted account
 
 Reinstating a deleted account restores its original state, including historical data and permissions. This approach offers some benefits, but it also introduces several risks and complications.
 
