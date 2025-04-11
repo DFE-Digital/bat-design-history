@@ -39,11 +39,15 @@ Here’s how we’ve placed our current stakeholder groups:
 
 ### Manage closely
 
+These are stakeholders who are highly influential and highly impacted by the service. We need to involve them closely, collaborate often, and ensure that their needs and concerns shape the work.
+
 - item 1
 - item 2
 - item 3
 
 ### Keep satisfied
+
+These groups hold influence but are less directly affected by the service. We should keep them in the loop and ensure their expectations are managed.
 
 - item 1
 - item 2
@@ -51,11 +55,15 @@ Here’s how we’ve placed our current stakeholder groups:
 
 ### Keep informed
 
+These stakeholders will feel the impact of the service but don’t have much influence over it. It’s important we keep them up to date and listen to their feedback.
+
 - item 1
 - item 2
 - item 3
 
 ### Monitor
+
+These groups are less directly impacted and have less influence. We don’t need to engage them regularly, but we should be aware of them and monitor any changes in interest or influence.
 
 - item 1
 - item 2
