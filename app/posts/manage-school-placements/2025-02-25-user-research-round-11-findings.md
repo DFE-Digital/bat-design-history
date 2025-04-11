@@ -46,6 +46,8 @@ The 'Generate and promote placements' concept was tested as a high-level storybo
 
 ## Key insights
 
+There were 4 key insights, which are detailed below.
+
 ### Insight 1
 
 Participants felt there was merit in some of the ideas surfaced in concepts 1 and 2.
