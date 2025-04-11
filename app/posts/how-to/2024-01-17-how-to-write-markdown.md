@@ -221,38 +221,38 @@ Put blank lines before and after ordered lists.
 To create an unordered list, add dashes (`-`), asterisks (`*`), or plus signs (`+`) in front of line items. For example:
 
 ```
-- First item
-- Second item
-- Third item
-- Fourth item
+- first item
+- second item
+- third item
+- fourth item
 ```
 
 The output looks like this:
 
-- First item
-- Second item
-- Third item
-- Fourth item
+- first item
+- second item
+- third item
+- fourth item
 
 Indent one or more items to create a nested list. For example:
 
 ```
-- First item
-- Second item
-  - First nested item
-  - Second nested item
-- Third item
-- Fourth item
+- first item
+- second item
+  - first nested item
+  - second nested item
+- third item
+- fourth item
 ```
 
 The output looks like this:
 
-- First item
-- Second item
-  - First nested item
-  - Second nested item
-- Third item
-- Fourth item
+- first item
+- second item
+  - first nested item
+  - second nested item
+- third item
+- fourth item
 
 If you need to start an unordered list item with a number followed by a period (`.`), you can use a backslash (`\`) to escape the period.
 
