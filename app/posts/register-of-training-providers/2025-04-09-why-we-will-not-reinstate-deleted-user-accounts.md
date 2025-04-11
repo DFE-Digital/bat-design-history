@@ -25,7 +25,7 @@ Reinstating a deleted account restores its original state, including historical 
 Pros:
 
 - maintains the user’s audit history and past activity
-- restores previous roles, settings, relationships and permissions
+- restores previous roles, settings, permissions and relationships
 - prevents data duplication
 - reduces the work required to reconfigure the user
 
@@ -33,7 +33,7 @@ Cons:
 
 - reintroduces potential security issues if the account was compromised
 - adds complexity to how the system manages user states
-- risks applying outdated or inappropriate permissions
+- risks applying outdated or inappropriate permissions and relationships
 - conflicts with data retention or deletion policies that treat deletion as permanent
 
 ## Creating a new account
@@ -44,7 +44,7 @@ Pros:
 
 - starts from a clean, secure baseline
 - simplifies logic for handling user state
-- requires explicit assignment of roles, permissions and relationships
+- requires explicit assignment of roles, settings, permissions and relationships
 - aligns with data deletion and privacy policies
 
 Cons:
