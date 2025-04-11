@@ -45,33 +45,39 @@ Here’s how we’ve placed our current stakeholder groups:
 
 These are stakeholders who are highly influential and highly impacted by the service. We need to involve them closely, collaborate often, and ensure that their needs and concerns shape the work.
 
-- item 1
-- item 2
-- item 3
+- accredited providers
+- Becoming a teacher (BAT) policy team
+- Becoming a teacher (BAT) service teams
+- Becoming a teacher (BAT) support team
+- Market regulations team
+- training partners
+- [Teaching Regulation Agency (TRA)](https://www.gov.uk/government/organisations/teaching-regulation-agency)
 
 ### Keep satisfied
 
 These groups hold influence but are less directly affected by the service. We should keep them in the loop and ensure their expectations are managed.
 
-- item 1
-- item 2
-- item 3
+- DfE policy teams
+- infrastructure team
 
 ### Keep informed
 
 These stakeholders will feel the impact of the service but don’t have much influence over it. It’s important we keep them up to date and listen to their feedback.
 
-- item 1
-- item 2
-- item 3
+- [Get Into Teaching (GIT)](https://getintoteaching.education.gov.uk/)
+- initial teacher training (ITT) funding team
+- industry bodies - for example, the [National Association of School-Based Teacher Trainers (NASBTT)](https://www.nasbtt.org.uk/) and the [Universities Council for the Education of Teachers (UCET)](https://www.ucet.ac.uk/)
+- Teacher Analytics Division (TAD)
+- Teacher Records System (TRS)
 
 ### Monitor
 
 These groups are less directly impacted and have less influence. We don’t need to engage them regularly, but we should be aware of them and monitor any changes in interest or influence.
 
-- item 1
-- item 2
-- item 3
+- [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/)
+- [Ofsted](https://www.gov.uk/government/organisations/ofsted)
+- software vendors
+- [UK register of learning providers (UKRLP)](https://www.ukrlp.co.uk/)
 
 This map is a living thing—it’ll evolve as we learn more and the service develops. If you think someone’s missing or in the wrong place, we’d love to hear from you.
 
