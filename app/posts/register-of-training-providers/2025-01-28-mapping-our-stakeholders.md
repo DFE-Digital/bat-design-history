@@ -24,6 +24,10 @@ We’re sharing the map here for transparency and to invite feedback.
 
 We used a classic stakeholder mapping approach. We plotted how much the service will impact each stakeholder group on the horizontal axis. On the vertical axis, we plotted how much influence each group has over the service or how it runs.
 
+To inform the map, we ran a series of workshops with colleagues from the Find teacher training, Apply for teacher training, and Register trainee teachers service teams. Each session helped us understand the stakeholders from that team’s perspective—who they work with, who they rely on, and who rely on them.
+
+We combined these perspectives to create a unified stakeholder map for the Register of training providers. This shared view helps us understand where there’s overlap, where responsibilities sit, and how the service fits into the wider initial teacher training (ITT) ecosystem.
+
 The result is a map divided into four quadrants:
 
 1. Manage closely (high impact, high influence)
