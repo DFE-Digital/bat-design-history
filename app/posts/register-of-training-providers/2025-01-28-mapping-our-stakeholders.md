@@ -58,6 +58,7 @@ These are stakeholders who are highly influential and highly impacted by the ser
 These groups hold influence but are less directly affected by the service. We should keep them in the loop and ensure their expectations are managed.
 
 - DfE policy teams
+- DfE Sign-in
 - infrastructure team
 
 ### Keep informed
