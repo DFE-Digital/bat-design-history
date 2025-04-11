@@ -1,5 +1,5 @@
 ---
-title: Onboarding organisations that do not have a unique reference number(URN)
+title: Onboarding organisations that do not have a unique reference number (URN)
 description: The approach the Claim service will take to onboard organisations that do not have a unique reference number (URN) from Get information about schools (GIAS)
 date: 2025-04-11
 tags:
