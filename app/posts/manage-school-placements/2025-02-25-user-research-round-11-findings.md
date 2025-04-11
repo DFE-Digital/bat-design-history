@@ -15,7 +15,7 @@ The research participants included:
 
 - 4 Universities
 - 5 SCITTs, two of whom were national providers
-- Of the 9, 3 were taking part in the private beta in Leeds. 6 were new to the service
+- Of the 9, 3 were taking part in the private beta in Leeds, and 6 were new to the service
 
 Sessions were conducted remotely, via MS Teams. Each lasted no longer than 1 hour.
 
