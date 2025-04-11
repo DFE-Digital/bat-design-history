@@ -69,10 +69,10 @@ In all the tests, we failed to identify the organisation, proving our hypothesis
 
 Having tested our hypothesis, we conceptualised a flow where we identified three key areas where we needed to run further in-depth testing and analysis:
 
-- Allowing users access to the service via DfE Sign-in
-- What unique identifier could we associate to the organisation
-- How could we ensure payment ran as intended
-- Allowing users to access the service
+- allowing users access to the service via DfE Sign-in
+- what unique identifier could we associate with the organisation
+- how could we ensure payment ran as intended
+- allowing users to access the service
 
 From our hypothesis testing, we identified that a smaller subset of the organisations used generic email domains (such as @gmail.com or @outlook.com).
 
@@ -130,11 +130,11 @@ Having agreed the vendor number would be a sufficient alternative, we needed to 
 
 We decided that a vendor number would be mandatory for an organisation to be onboarded because:
 
-- Without it, we may end up with claims that could not be paid within the service
-- Unpayable claims would mean additional conditional statuses being developed
-- Integrity of the organisation dataset would be compromised due to unidentifiable schools being listed
-- New functionality for users to add/edit the vendor number after onboarding
-- New conditional chaser/prompt notifications to the user would be required
+- without it, we may end up with claims that cannot be paid within the service
+- unpayable claims would mean additional conditional statuses being developed
+- integrity of the organisation dataset would be compromised due to unidentifiable schools being listed
+- new functionality for users to add/ edit the vendor number after onboarding
+- new conditional chaser or prompt notifications to the user would be required
 
 ## The outcome and next steps
 
