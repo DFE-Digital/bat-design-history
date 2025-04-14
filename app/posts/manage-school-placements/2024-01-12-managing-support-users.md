@@ -46,7 +46,7 @@ screenshots:
       src: users--remove-user-success.png
 eleventyComputed:
   eleventyNavigation:
-    key: school-placements-support-managing-organisation-users
+    key: school-placements-managing-support-users
 ---
 
 We added a way for the support team to manage access to Support for Manage school placements (Support).
