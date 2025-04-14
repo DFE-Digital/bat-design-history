@@ -21,7 +21,7 @@ related:
 screenshots:
   items:
     - text: List of support users
-      src: support-users-list.ong
+      src: support-users-list.png
     - text: Add support user - question page
       src: add-support-user--form.png
     - text: Add support user - question page with error
