@@ -36,7 +36,7 @@ screenshots:
       src: add-support-user--success.png
     - text: Support user details page
       src: support-user-details.png
-     - text: Edit support user - question page
+    - text: Edit support user - question page
       src: edit-support-user--form.png
     - text: Edit support user - question page with error
       src: edit-support-user--form-error.png
