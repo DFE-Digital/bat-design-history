@@ -38,6 +38,8 @@ screenshots:
       src: add-support-user--success.png
     - text: Support user details page
       src: support-user-details.png
+    - text: Support user details page with no change links
+      src: support-user-details--no-change-links.png
     - text: Edit support user - question page
       src: edit-support-user--form.png
     - text: Edit support user - question page with error
