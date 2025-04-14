@@ -48,9 +48,9 @@ screenshots:
       src: edit-support-user--check-your-answers.png
     - text: Support user added success message
       src: edit-support-user--success.png
-    - text: Confirm removal of support user
+    - text: Confirm deletion of support user
       src: delete-support-user--confirm.png
-    - text: Support user removed success message
+    - text: Support user deleted success message
       src: delete-support-user--success.png
 eleventyComputed:
   eleventyNavigation:
