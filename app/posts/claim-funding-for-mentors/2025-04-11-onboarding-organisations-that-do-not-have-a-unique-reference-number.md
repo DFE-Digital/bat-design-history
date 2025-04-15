@@ -124,7 +124,7 @@ Through the payments flow, the URN or UKPRN is used in conjunction with other at
 
 We agreed that providing a vendor number would be a sufficient alternative to the URN or UKPRN if the ancillary information were also provided in the comma separated values (CSV) exports used to arrange and report on payments.
 
-## Making the vendor number mandatory
+## Making the vendor number mandatory for organisations to be onboarded
 
 Having agreed the vendor number would be a sufficient alternative, we needed to decide if we were only allowing organisations to be onboarded once they had their vendor number or would we allow them to be provisionally onboarded without it.
 
