@@ -100,7 +100,8 @@ module.exports = function (eleventyConfig) {
     'claim-funding-for-mentors',
     'register-of-training-providers',
     'support-for-apply',
-    'support-for-publish'
+    'support-for-publish',
+    'teacher-success-service',
   ]
 
   serviceCollections.forEach((serviceName) => {
