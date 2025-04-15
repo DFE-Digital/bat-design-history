@@ -83,7 +83,8 @@ module.exports = function (eleventyConfig) {
       'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md',
       'app/posts/support-for-apply/support-for-apply.md',
       'app/posts/support-for-publish/support-for-publish.md',
-      'app/posts/register-of-training-providers/register-of-training-providers.md'
+      'app/posts/register-of-training-providers/register-of-training-providers.md',
+      'app/posts/teacher-success-service/teacher-success-service.md'
     ])
   })
 
