@@ -37,7 +37,7 @@ The result is a map divided into four quadrants:
 
 ## Who’s on the map
 
-[![Stakeholder map](stakeholder-map.png "Stakeholder map")](stakeholder-map.png)
+[![Stakeholder map](stakeholder-map.png "Stakeholder map (select image to see a larger version)")](stakeholder-map.png)
 
 Here’s how we’ve placed our current stakeholder groups:
 
