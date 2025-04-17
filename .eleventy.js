@@ -84,7 +84,7 @@ module.exports = function (eleventyConfig) {
       'app/posts/support-for-apply/support-for-apply.md',
       'app/posts/support-for-publish/support-for-publish.md',
       'app/posts/register-of-training-providers/register-of-training-providers.md',
-      'app/posts/teacher-success-service/teacher-success-service.md'
+      'app/posts/teacher-success/teacher-success.md'
     ])
   })
 
