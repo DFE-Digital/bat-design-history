@@ -67,7 +67,8 @@ module.exports = function (eleventyConfig) {
   // A dedicated “service line” collection
   eleventyConfig.addCollection('serviceLine', (collection) => {
     return collection.getFilteredByGlob([
-      'app/posts/becoming-a-teacher/becoming-a-teacher.md'
+      'app/posts/becoming-a-teacher/becoming-a-teacher.md',
+      'app/posts/teacher-success/teacher-success.md'
     ])
   })
 
@@ -99,7 +100,8 @@ module.exports = function (eleventyConfig) {
     'claim-funding-for-mentors',
     'register-of-training-providers',
     'support-for-apply',
-    'support-for-publish'
+    'support-for-publish',
+    'teacher-success',
   ]
 
   serviceCollections.forEach((serviceName) => {
