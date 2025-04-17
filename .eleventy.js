@@ -67,7 +67,8 @@ module.exports = function (eleventyConfig) {
   // A dedicated “service line” collection
   eleventyConfig.addCollection('serviceLine', (collection) => {
     return collection.getFilteredByGlob([
-      'app/posts/becoming-a-teacher/becoming-a-teacher.md'
+      'app/posts/becoming-a-teacher/becoming-a-teacher.md',
+      'app/posts/teacher-success/teacher-success.md'
     ])
   })
 
@@ -83,8 +84,7 @@ module.exports = function (eleventyConfig) {
       'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md',
       'app/posts/support-for-apply/support-for-apply.md',
       'app/posts/support-for-publish/support-for-publish.md',
-      'app/posts/register-of-training-providers/register-of-training-providers.md',
-      'app/posts/teacher-success/teacher-success.md'
+      'app/posts/register-of-training-providers/register-of-training-providers.md'
     ])
   })
 
