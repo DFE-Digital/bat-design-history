@@ -7,7 +7,7 @@ pagination:
   data: collections.teacher-success-service
   reverse: true
   size: 50
-permalink: "teacher-success-service/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "teacher-success/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
