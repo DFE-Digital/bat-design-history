@@ -45,7 +45,7 @@ The challenge for this work was that the Find UCD team were designing work that 
 
 ## Challenges
 
-As the work impacted all three services, all three service teams need to be involved and bought into this work. This required a sign-off from three different Deputy Directors.
+As the work impacted all three services, all three service teams needed to be involved and bought into this work. This required a sign-off from three different Deputy Directors.
 
 Whilst this was achieved mid-project, it may have been more desirable that this had been done initially.
 
