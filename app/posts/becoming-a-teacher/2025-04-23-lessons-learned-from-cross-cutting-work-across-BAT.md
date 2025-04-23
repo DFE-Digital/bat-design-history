@@ -59,6 +59,8 @@ The Find team decided to move forward with candidate accounts on Find, as this w
 
 After the decision was made to focus on candidate accounts on Find, a [retrospective](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques#retrospective-meetings) meeting was held to ensure that all involved could provide feedback on the work, highlight what went well, and flag areas that could be improved for the future.
 
+After reviewing all the feedback we prioritised the below, as recommendations.
+
 ## Recommendations
 
 We identified several key recommendations that are suitable for sharing across the Becoming a Teacher service line, as well as within Teacher Services. These included:
