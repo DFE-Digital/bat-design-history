@@ -77,6 +77,7 @@ Unrelated research into withdrawal reasons raised the prospect that a candidate 
 We considered several models for Find a candidate:
 
 A single clearing window at the end of the recruitment cycle
+
 * Benefits:  
   * candidates would not be ‘spammed’ by emails, they would receive a single email with all of their invitations in it on a given date
   * Both small and large providers would be able to engage with the feature equally by assigning resource to it at a given time
@@ -89,6 +90,7 @@ A single clearing window at the end of the recruitment cycle
   * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
 
 Multiple windows throughout the cycle
+
 * Benefits:
   * More flexible to accommodate candidates who are rejected at any point in the cycle including international candidates
   * Reduced risk of candidate drop out as we can target them with reapplications closer to their initial rejection
@@ -100,6 +102,7 @@ Multiple windows throughout the cycle
   * Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
 
 ‘Always on’ throughout the cycle
+
 * Benefits:
   * It would reduce the time between receiving a rejection and potentially receiving a new offer, we know this reduces dropout rates
   * There’s time for international candidates to arrange visas  
