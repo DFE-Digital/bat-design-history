@@ -9,7 +9,7 @@ tags:
 - Get Into Teaching
 related:
   items:
-    - text: Get into Teaching
+    - text: Get Into Teaching
       href: https://getintoteaching.education.gov.uk/
     - text: Find teacher training courses
       href: https://find-teacher-training-courses.service.gov.uk/
@@ -23,9 +23,9 @@ related:
 
 ## Context
 
-In early 2025, the [Find]( https://find-teacher-training-courses.service.gov.uk/) user-centred design (UCD) team were tasked with undertaking a research and design project looking at the candidate journey, from consideration of teaching through to submitting an application for a trainee teacher course.
+In early 2025, the [Find](https://find-teacher-training-courses.service.gov.uk/) user-centred design (UCD) team were tasked with undertaking a research and design project looking at the candidate journey, from consideration of teaching through to submitting an application for a trainee teacher course.
 
-This journey, for many candidates, involves moving back and forth from [Get into Teaching]( https://getintoteaching.education.gov.uk/), [Find]( https://find-teacher-training-courses.service.gov.uk/ ) and [Apply]( https://www.gov.uk/apply-for-teacher-training)
+This journey, for many candidates, involves moving back and forth from [Get Into Teaching](https://getintoteaching.education.gov.uk/), [Find](https://find-teacher-training-courses.service.gov.uk/) and [Apply](https://www.gov.uk/apply-for-teacher-training)
 
 ## Hypothesis
 
@@ -35,7 +35,7 @@ This hypothesis is supported by user research insight, which has identified that
 
 That insight, in part, informed the decision to redesign the home page of Find, to align it more with GIT, and to make the process of finding courses less burdensome.
 
-This work is detailed in this [design history]( https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/).
+This work is detailed in this [design history](/find-teacher-training/improving-the-ability-to-browse-courses/).
 
 ## What was done
 
@@ -59,7 +59,7 @@ The Find team made the decision to move forward with candidate accounts on Find,
 
 ## Lessons learned
 
-After the decision was made to focus on candidate accounts on Find was made, a [retrospective]( https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques#retrospective-meetings) was run to ensure that all involved could feedback on the work, highlight what went well, and flag things that could be improved for the future.
+After the decision was made to focus on candidate accounts on Find was made, a [retrospective](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques#retrospective-meetings) was run to ensure that all involved could feedback on the work, highlight what went well, and flag things that could be improved for the future.
 
 ## Recommendations
 
@@ -70,7 +70,7 @@ These are:
 - for future cross-service or exploratory work, a consistent scoping document should be used at the outset of the work to capture key goals and outcomes, required resources, involved stakeholders, and guiding principles
 - there should be a clear understanding from the outset of how recommendations will be actioned and prioritised by senior civil servants
 - senior level sign-off and buy-in will be secured as part of the initial scoping
-- teams should be empowered to be [self-managing]( https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams-)
+- teams should be empowered to be [self-managing](https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams-)
 - design explorations, are by their nature a safe space to experiment, learn, and even fail or pivot
 - there should be a consideration of setting-up an experimental ‘test and learn’ team dedicated to cross-service, with service teams being used on a consultancy basis in the future.
 
