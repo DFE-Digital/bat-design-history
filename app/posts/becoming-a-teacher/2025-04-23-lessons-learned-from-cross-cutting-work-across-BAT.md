@@ -9,16 +9,16 @@ tags:
 - get into teaching
 related:
   items:
-  - text: Get into Teaching
-      href: <https://getintoteaching.education.gov.uk/>
-  - text: Find teacher training courses
-      href: <https://find-teacher-training-courses.service.gov.uk/>
-  - text: Apply for teacher training courses
-      href: <https://www.gov.uk/apply-for-teacher-training>
-  - text: Improving the ability to browse courses
-      href: <https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/>
-  - text: What are self-managing teams
-      href: <https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams->
+    - text: Get into Teaching
+      href: https://getintoteaching.education.gov.uk/
+    - text: Find teacher training courses
+      href: https://find-teacher-training-courses.service.gov.uk/
+    - text: Apply for teacher training courses
+      href: https://www.gov.uk/apply-for-teacher-training/
+    - text: Improving the ability to browse courses
+      href: https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/
+    - text: What are self-managing teams
+      href: https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams-
 ---
 
 ## Context
