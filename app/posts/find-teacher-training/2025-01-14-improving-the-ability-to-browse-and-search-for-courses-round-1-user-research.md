@@ -199,7 +199,7 @@ The design changes we are confident in will be going live in 2024/ early 2025.
 
 Design histories found here:
 
-- [Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
+- [Add links to Get Into Teaching](/find-teacher-training/add-links-to-get-into-teaching/)
 - [Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
 - [Improving the ability to browse courses](/find-teacher-training/improving-the-ability-to-browse-courses/)
 - [Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)

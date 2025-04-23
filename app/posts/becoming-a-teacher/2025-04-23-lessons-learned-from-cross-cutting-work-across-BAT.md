@@ -6,7 +6,7 @@ tags:
 - becoming a teacher
 - find
 - apply
-- get into teaching
+- Get Into Teaching
 related:
   items:
     - text: Get into Teaching
