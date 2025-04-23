@@ -47,8 +47,6 @@ Our hypotheses were:
 * if unsuccessful candidates were invited to a specific course by a provider, they would be likely to submit an application
 * if providers could access candidate application details, they can successfully match candidates to courses
 
-![Screenshot of updated reference table in Manage](/apply-for-teacher-training/2025-01-31-confidential-references/confidential-references-manage.png)
-
 ### Opt-in or opt-out?
 
 There was discussion about whether being searchable by training providers other than ones you have submitted an application to should be something candidates opt-into. There was support for automatically making everyone who submits an application visible to all training providers, with the option for them to opt-out.  
@@ -85,11 +83,10 @@ Benefits:
   * Providers are aware of the remaining vacancies on their courses and can use the feature in a focussed way
 
 Drawbacks:
-
-* Disadvantages international candidates who need time to arrange visas
-* Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
-* A condensed period of activity could be unmanageable for providers’ workload
-* It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
+   * Disadvantages international candidates who need time to arrange visas
+  * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
+  * A condensed period of activity could be unmanageable for providers’ workload
+  * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
 
 * Multiple windows throughout the cycle
 Benefits:
@@ -98,10 +95,9 @@ Benefits:
   * More flexible for providers to adapt to their existing ways of working and processes throughout the cycle
 
 Drawbacks:
-
-* Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
-* Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
-* Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
+  * Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
+  * Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
+  * Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
 
 * ‘Always on’ throughout the cycle
 Benefits:
@@ -113,10 +109,9 @@ Benefits:
   * It’s the simplest technical implementation of this idea and reduces the communications burden on our team
 
 Drawbacks:
-
-* Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
-* Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
-* Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
+  * Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
+  * Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
+  * Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
 
 We felt that the always on model had the most potential benefits, with drawbacks that we could mitigate for through research. This is the model that we designed for.
 
@@ -141,17 +136,13 @@ Findings:
 * Candidates were positive about the concept and welcomed ways for training providers to contact them about courses
 * Candidates were happy for their application data to be shared with training providers for the purposes of assessing their suitability for courses
   * 1 participant would want to see a data sharing agreement as part of their opt-in journey
-
 * They found the interruption page between reviewing their application and submitting it confusing.
   * Some felt that it was unclear whether we were asking them to share the application they were submitting, or something else
   * Some felt that introducing the idea of the application they are submitting being unsuccessful was a negative experience
-
 * Candidates would not want to apply to courses that do not match their preferences (for example full- or part-time, salaried or fee-funded)  
-
 * The location of the course the candidate last applied to is not the most appropriate location for us to match them to in search results
   * Candidates expressed a strong preference for locations that are local to them – their home address.
   * We did not test with any international candidates in this round of research, and home address would not be an appropriate location to match to for international candidates.
-
 * Some candidates had some misconceptions about the feature, including:
   * They would be more likely to receive an offer if they opted in
   * They could stop applying for courses themselves and wait to be invited to apply
@@ -161,15 +152,15 @@ Findings:
 
 We moved the opt-in interruption screen to after an application has been submitted to separate it from the current application.
 
-![Screenshot of the Your applications page with the option to change settings at the bottom](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/inital-launch-scope-interruption-page.jpg)
+![Screenshot of the interruption page with the application submitted success banner at the top](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/inital-launch-scope-interruption-page.jpg)
 
 We added a way for candidates to set location preferences so that they will only appear in search results for courses that they can travel to.
 
-![Screenshot of the Your applications page with the option to change settings at the bottom](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/inital-launch-scope-location-preferences.jpg)
+![Screenshot of a page where you can define a location and a radius](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/initial-launch-scope-location-preferences.jpg)
 
 We updated the content in the opt-in screen to highlight how this feature should be used alongside the current application process. We made a permanent home for this information, accessed from the bottom of My Applications, so that candidates can review it when needed.
 
-![Screenshot of the Your applications page with the option to change settings at the bottom](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/inital-launch-scope-information-page.jpg)
+![Screenshot of a page containing information about the feature](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/initial-launch-scope-information-page.jpg)
 
 ## Next steps
 
