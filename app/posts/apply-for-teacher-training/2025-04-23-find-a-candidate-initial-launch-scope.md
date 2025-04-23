@@ -35,7 +35,7 @@ In June 2023 we conducted an email pilot to encourage 2,367 recently rejected ca
 
 ### Provider recommendations research
 
-Also in 2023 there was some [research with training providers](manage-teacher-training-applications/2023-03-15-letting-providers-recommend-candidates.md) to measure their attitudes towards recommending candidates that they are not offering a place to, to other providers.
+Also in 2023 there was some [research with training providers](https://becoming-a-teacher.design-history.education.gov.uk/manage-teacher-training-applications/letting-providers-recommend-candidates/) to measure their attitudes towards recommending candidates that they are not offering a place to, to other providers.
 Our designs tested well but users had more detailed questions of how the shortlist would work in practice
 
 ## What we did
@@ -81,19 +81,17 @@ Benefits:
   * candidates would not be ‘spammed’ by emails, they would receive a single email with all of their invitations in it on a given date
   * Both small and large providers would be able to engage with the feature equally by assigning resource to it at a given time
   * Providers are aware of the remaining vacancies on their courses and can use the feature in a focussed way
-
 Drawbacks:
    * Disadvantages international candidates who need time to arrange visas
-  * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
-  * A condensed period of activity could be unmanageable for providers’ workload
-  * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
+   * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
+   * A condensed period of activity could be unmanageable for providers’ workload
+   * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
 
 * Multiple windows throughout the cycle
 Benefits:
   * More flexible to accommodate candidates who are rejected at any point in the cycle including international candidates
   * Reduced risk of candidate drop out as we can target them with reapplications closer to their initial rejection
   * More flexible for providers to adapt to their existing ways of working and processes throughout the cycle
-
 Drawbacks:
   * Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
   * Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
@@ -107,7 +105,6 @@ Benefits:
   * Having a rolling application process is the same model as our existing application process which makes it easier to understand and engage with for providers and candidates
   * It gives providers a solution to their recruitment problems as soon as they become aware of them – if they are experiencing low application numbers at any point in the cycle they can find candidates to invite
   * It’s the simplest technical implementation of this idea and reduces the communications burden on our team
-
 Drawbacks:
   * Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
   * Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
