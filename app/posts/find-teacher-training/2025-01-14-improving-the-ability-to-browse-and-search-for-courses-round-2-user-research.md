@@ -150,7 +150,7 @@ This was better understood, however there was still some confusion about whether
 - we recommend that the new version of the ‘Qualifications awarded’ should be implemented
 - we recommend that further design work and testing is needed on the ‘start date’ and Degree required’ filters to ensure that it is understood by candidates
 
-### Get into teaching (GIT) banner
+### Get Into Teaching (GIT) banner
 
 We tested a new banner on the results page, which included links to various GIT pages.
 
