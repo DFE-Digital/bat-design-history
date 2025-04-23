@@ -13,7 +13,7 @@ related:
       href: https://getintoteaching.education.gov.uk/
     - text: Find teacher training courses
       href: https://find-teacher-training-courses.service.gov.uk/
-    - text: Apply for teacher training courses
+    - text: Apply for teacher training
       href: https://www.gov.uk/apply-for-teacher-training/
     - text: Improving the ability to browse courses
       href: https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/
@@ -21,11 +21,9 @@ related:
       href: https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams-
 ---
 
-## Context
+In early 2025, the user-centred design (UCD) team at [Find teacher training courses (Find)](https://find-teacher-training-courses.service.gov.uk/) was tasked with undertaking a research and design project examining the candidate journey, from considering teaching through to applying for a trainee teacher course.
 
-In early 2025, the [Find](https://find-teacher-training-courses.service.gov.uk/) user-centred design (UCD) team were tasked with undertaking a research and design project looking at the candidate journey, from consideration of teaching through to submitting an application for a trainee teacher course.
-
-This journey, for many candidates, involves moving back and forth from [Get Into Teaching](https://getintoteaching.education.gov.uk/), [Find](https://find-teacher-training-courses.service.gov.uk/) and [Apply](https://www.gov.uk/apply-for-teacher-training)
+This journey, for many candidates, involves moving back and forth from [Get Into Teaching](https://getintoteaching.education.gov.uk/), [Find](https://find-teacher-training-courses.service.gov.uk/) and [Apply for teacher training (Apply)](https://www.gov.uk/apply-for-teacher-training)
 
 ## Hypothesis
 
