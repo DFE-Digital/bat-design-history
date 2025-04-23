@@ -76,45 +76,41 @@ Unrelated research into withdrawal reasons raised the prospect that a candidate 
 
 We considered several models for Find a candidate:
 
-* A single clearing window at the end of the recruitment cycle
-Benefits:  
+A single clearing window at the end of the recruitment cycle
+* Benefits:  
   * candidates would not be ‘spammed’ by emails, they would receive a single email with all of their invitations in it on a given date
   * Both small and large providers would be able to engage with the feature equally by assigning resource to it at a given time
   * Providers are aware of the remaining vacancies on their courses and can use the feature in a focussed way
 
-Drawbacks:
+* Drawbacks:
+  * Disadvantages international candidates who need time to arrange visas
+  * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
+  * A condensed period of activity could be unmanageable for providers’ workload
+  * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
 
-* Disadvantages international candidates who need time to arrange visas
-* Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
-* A condensed period of activity could be unmanageable for providers’ workload
-* It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
-
-* Multiple windows throughout the cycle
-Benefits:
+Multiple windows throughout the cycle
+* Benefits:
   * More flexible to accommodate candidates who are rejected at any point in the cycle including international candidates
   * Reduced risk of candidate drop out as we can target them with reapplications closer to their initial rejection
   * More flexible for providers to adapt to their existing ways of working and processes throughout the cycle
 
-Drawbacks:
+* Drawbacks:
+  * Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
+  * Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
+  * Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
 
-* Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
-* Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
-* Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
-
-* ‘Always on’ throughout the cycle
-Benefits:
+‘Always on’ throughout the cycle
+* Benefits:
   * It would reduce the time between receiving a rejection and potentially receiving a new offer, we know this reduces dropout rates
   * There’s time for international candidates to arrange visas  
   * It should be flexible enough for providers to be able to include it in their existing processes
   * Having a rolling application process is the same model as our existing application process which makes it easier to understand and engage with for providers and candidates
   * It gives providers a solution to their recruitment problems as soon as they become aware of them – if they are experiencing low application numbers at any point in the cycle they can find candidates to invite
   * It’s the simplest technical implementation of this idea and reduces the communications burden on our team
-
 Drawbacks:
-
-* Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
-* Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
-* Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
+  * Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
+  * Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
+  * Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
 
 We felt that the always on model had the most potential benefits, with drawbacks that we could mitigate for through research. This is the model that we designed for.
 
