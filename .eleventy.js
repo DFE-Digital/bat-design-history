@@ -101,7 +101,7 @@ module.exports = function (eleventyConfig) {
     'register-of-training-providers',
     'support-for-apply',
     'support-for-publish',
-    'teacher-success',
+    'teacher-success'
   ]
 
   serviceCollections.forEach((serviceName) => {
