@@ -1,8 +1,8 @@
+---
 title: Lessons learned from cross-cutting work across the Becoming a teacher service line
 description: Lessons learned and recommendations for future cross-cutting work
 date: 2025-04-23
 tags:
-
 - becoming a teacher
 - find
 - apply
@@ -19,7 +19,6 @@ related:
       href: <https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/>
   - text: What are self-managing teams
       href: <https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams->
-
 ---
 
 ## Context
