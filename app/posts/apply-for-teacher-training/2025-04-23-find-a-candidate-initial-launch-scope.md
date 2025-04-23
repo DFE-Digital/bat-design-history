@@ -83,10 +83,11 @@ Benefits:
   * Providers are aware of the remaining vacancies on their courses and can use the feature in a focussed way
 
 Drawbacks:
-  * Disadvantages international candidates who need time to arrange visas
-  * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
-  * A condensed period of activity could be unmanageable for providers’ workload
-  * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
+
+* Disadvantages international candidates who need time to arrange visas
+* Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
+* A condensed period of activity could be unmanageable for providers’ workload
+* It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
 
 * Multiple windows throughout the cycle
 Benefits:
@@ -95,9 +96,10 @@ Benefits:
   * More flexible for providers to adapt to their existing ways of working and processes throughout the cycle
 
 Drawbacks:
-  * Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
-  * Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
-  * Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
+
+* Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
+* Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
+* Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
 
 * ‘Always on’ throughout the cycle
 Benefits:
@@ -109,9 +111,10 @@ Benefits:
   * It’s the simplest technical implementation of this idea and reduces the communications burden on our team
 
 Drawbacks:
-  * Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
-  * Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
-  * Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
+
+* Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
+* Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
+* Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
 
 We felt that the always on model had the most potential benefits, with drawbacks that we could mitigate for through research. This is the model that we designed for.
 
