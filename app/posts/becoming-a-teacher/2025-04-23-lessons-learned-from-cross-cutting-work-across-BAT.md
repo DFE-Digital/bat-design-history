@@ -43,7 +43,7 @@ The Find UCD team began by reviewing all evidence, data, insights and research t
 
 They found key insights which supported the hypothesis and as a result set about designing how a more connected and smoother candidate journey may look.
 
-The challenge for this work, was that the Find UCD team were designing work that impacted all three services – GIT, Find and Apply.
+The challenge for this work, was that the Find UCD team were designing work that impacted all three services: GIT, Find and Apply.
 
 ## Challenges
 
@@ -55,7 +55,7 @@ Whilst this was achieved mid-project, it may have been more desirable that this 
 
 The Find UCD team made several cross-cutting recommendations which were ultimately parked, as service teams needed to understand how and when to prioritise these work strands into their roadmaps.
 
-The Find team made the decision to move forward with candidate accounts on Find, as this was work that they could fully own and implement, and would have several clear benefits to users, as well as DfE and the initial teacher training (ITT) sector, in general.
+The Find team made the decision to move forward with candidate accounts on Find, as this was work that they could fully own and implement, and would have several clear benefits to users, as well as DfE and the initial teacher training (ITT) sector.
 
 ## Lessons learned
 
