@@ -110,7 +110,8 @@ Multiple windows throughout the cycle
   * Having a rolling application process is the same model as our existing application process which makes it easier to understand and engage with for providers and candidates
   * It gives providers a solution to their recruitment problems as soon as they become aware of them – if they are experiencing low application numbers at any point in the cycle they can find candidates to invite
   * It’s the simplest technical implementation of this idea and reduces the communications burden on our team
-Drawbacks:
+  
+* Drawbacks:
   * Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
   * Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
   * Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
