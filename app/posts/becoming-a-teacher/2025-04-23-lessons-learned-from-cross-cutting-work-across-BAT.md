@@ -2,22 +2,24 @@ title: Lessons learned from cross-cutting work across the Becoming a teacher ser
 description: Lessons learned and recommendations for future cross-cutting work
 date: 2025-04-23
 tags:
-  - becoming a teacher
-  - find
-  - apply
-  - get into teaching
+
+- becoming a teacher
+- find
+- apply
+- get into teaching
 related:
   items:
-    - text: Get into Teaching (GIT)
-      href: https://getintoteaching.education.gov.uk/
-    - text: Find teacher training courses (Find)
-      href: https://find-teacher-training-courses.service.gov.uk/ 
-    - text: Apply for teacher training courses (Apply)
-      href: https://www.gov.uk/apply-for-teacher-training 
-    - text: Improving the ability to browse courses
-      href: https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/ 
-    - text: What are self-managing teams
-      href: https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams- 
+  - text: Get into Teaching (GIT)
+      href: <https://getintoteaching.education.gov.uk/>
+  - text: Find teacher training courses (Find)
+      href: <https://find-teacher-training-courses.service.gov.uk/>
+  - text: Apply for teacher training courses (Apply)
+      href: <https://www.gov.uk/apply-for-teacher-training>
+  - text: Improving the ability to browse courses
+      href: <https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/>
+  - text: What are self-managing teams
+      href: <https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams->
+
 ---
 
 ## Context
@@ -28,7 +30,7 @@ This journey, for many candidates, involves moving back and forth from [Get into
 
 ## Hypothesis
 
-The hypothesis underpinning this work was that the current process of becoming a trainee teacher is not as efficient as it could be. 
+The hypothesis underpinning this work was that the current process of becoming a trainee teacher is not as efficient as it could be.
 
 This hypothesis is supported by user research insight, which has identified that users, in particular, find the journey of moving from GIT to Find quite jarring. That insight, in part, informed the decision to redesign the home page of Find, to align it more with GIT, and to make the process of finding courses less burdensome. This work is detailed in this [design history]( https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/)
 
@@ -56,9 +58,9 @@ The Find team made the decision to move forward with candidate accounts on Find,
 
 After the decision was made to focus on candidate accounts on Find was made, a [retrospective]( https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques#retrospective-meetings) was run to ensure that all involved could feedback on the work, highlight what went well, and flag things that could be improved for the future.
 
-## Recommendations 
+## Recommendations
 
-We identified several key recommendations which we think are appropriate to be shared across the becoming a teacher service line, as well as within Teacher Services. 
+We identified several key recommendations which we think are appropriate to be shared across the becoming a teacher service line, as well as within Teacher Services.
 
 These are:
 
@@ -67,7 +69,7 @@ These are:
 - senior level sign-off and buy-in will be secured as part of the initial scoping
 - teams should be empowered to be [self-managing]( https://www.scrum.org/learning-series/self-managing-teams/what-are-self-managing-teams-)
 - design explorations, are by their nature a safe space to experiment, learn, and even fail or pivot
-- there should be a consideration of setting-up an experimental ‘test and learn’ team dedicated to cross-service, with service teams being used on a consultancy basis in the future. 
+- there should be a consideration of setting-up an experimental ‘test and learn’ team dedicated to cross-service, with service teams being used on a consultancy basis in the future.
 
 ## Next steps
 
