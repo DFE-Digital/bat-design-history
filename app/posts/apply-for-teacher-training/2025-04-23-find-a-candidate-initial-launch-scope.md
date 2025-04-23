@@ -82,10 +82,10 @@ Benefits:
   * Both small and large providers would be able to engage with the feature equally by assigning resource to it at a given time
   * Providers are aware of the remaining vacancies on their courses and can use the feature in a focussed way
 Drawbacks:
-   * Disadvantages international candidates who need time to arrange visas
-   * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
-   * A condensed period of activity could be unmanageable for providers’ workload
-   * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
+  * Disadvantages international candidates who need time to arrange visas
+  * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
+  * A condensed period of activity could be unmanageable for providers’ workload
+  * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
 
 * Multiple windows throughout the cycle
 Benefits:
