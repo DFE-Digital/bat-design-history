@@ -9,11 +9,11 @@ tags:
 - get into teaching
 related:
   items:
-  - text: Get into Teaching (GIT)
+  - text: Get into Teaching
       href: <https://getintoteaching.education.gov.uk/>
-  - text: Find teacher training courses (Find)
+  - text: Find teacher training courses
       href: <https://find-teacher-training-courses.service.gov.uk/>
-  - text: Apply for teacher training courses (Apply)
+  - text: Apply for teacher training courses
       href: <https://www.gov.uk/apply-for-teacher-training>
   - text: Improving the ability to browse courses
       href: <https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/>
@@ -31,7 +31,11 @@ This journey, for many candidates, involves moving back and forth from [Get into
 
 The hypothesis underpinning this work was that the current process of becoming a trainee teacher is not as efficient as it could be.
 
-This hypothesis is supported by user research insight, which has identified that users, in particular, find the journey of moving from GIT to Find quite jarring. That insight, in part, informed the decision to redesign the home page of Find, to align it more with GIT, and to make the process of finding courses less burdensome. This work is detailed in this [design history]( https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/)
+This hypothesis is supported by user research insight, which has identified that users, in particular, find the journey of moving from GIT to Find quite jarring. 
+
+That insight, in part, informed the decision to redesign the home page of Find, to align it more with GIT, and to make the process of finding courses less burdensome. 
+
+This work is detailed in this [design history]( https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-courses/).
 
 ## What was done
 
