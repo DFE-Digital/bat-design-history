@@ -127,37 +127,60 @@ module.exports = function (eleventyConfig) {
   })
 
   // ---------------------------------------------------------------
-  // All tags collection
+  // Tag collections
   // ---------------------------------------------------------------
   eleventyConfig.addCollection('allTags', (collectionApi) => {
     const posts = collectionApi.getAll()
-    let tags = []
+    const tagMap = new Map() // key: lowercase tag, value: { name: canonicalName, count: number }
 
     for (const post of posts) {
       if (post.data.tags) {
         for (const tag of post.data.tags) {
-          if (!tags.includes(tag)) {
-            // Prevent collisions with different capitalisations
-            const existingTag = tags.find(
-              (existing) => existing.toLowerCase() === tag.toLowerCase()
-            )
-            if (existingTag) {
-              throw new Error(
-                `The post "${post.data.title}" has a tag "${tag}" which conflicts with "${existingTag}" (capitalisation differs).`
-              )
-            }
-            tags.push(tag)
+          const key = tag.toLowerCase()
+
+          if (!tagMap.has(key)) {
+            tagMap.set(key, {
+              name: tag,   // store canonical name (first seen)
+              count: 1,
+            })
+          } else {
+            tagMap.get(key).count++
           }
         }
       }
     }
 
     // Filter out user needs tags
-    tags = tags.filter((tag) => !tag.match(/[MPAS]N\d{3}/))
+    const filtered = [...tagMap.values()].filter(tag => !tag.name.match(/[MPAS]N\d{3}/))
 
-    // Sort tags alphabetically
-    return tags.sort((a, b) => a.localeCompare(b, 'en'))
+    // Sort alphabetically by canonical name
+    return filtered.sort((a, b) => a.name.localeCompare(b.name, 'en'))
   })
+
+  eleventyConfig.addCollection('postsByTag', (collectionApi) => {
+    const tagMap = new Map()
+
+    const posts = collectionApi.getAll()
+
+    for (const post of posts) {
+      if (post.data.tags) {
+        for (const tag of post.data.tags) {
+          const key = tag.toLowerCase()
+
+          // Initialize group if not already
+          if (!tagMap.has(key)) {
+            tagMap.set(key, [])
+          }
+
+          // Add post to tag group
+          tagMap.get(key).push(post)
+        }
+      }
+    }
+
+    return tagMap
+  })
+
 
   // ---------------------------------------------------------------
   // Global data
