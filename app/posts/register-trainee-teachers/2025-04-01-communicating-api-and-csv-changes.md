@@ -26,22 +26,22 @@ screenshots:
       src: existing-news-and-updates-page.png
 ---
 
-Register currently sends email notifications to providers, and we have a basic news and updates page for the service; however, this needs to be enhanced to accommodate our new role in communicating changes to the sector.
+Register trainee teachers (Register) currently sends email notifications to providers, and we have a basic news and updates page for the service. However, this needs to be enhanced to accommodate our new role in communicating changes to the sector.
 
 ## What we did
 
-We began by examining the collection of guidance, news, and updates currently available on Register. While functional, we wondered whether we could integrate it more cohesively within the service.
+We began by examining the guidance, news, and updates currently available on Register. While functional, we wanted to know if we could integrate it more cohesively within the service.
 
 It became clear that the existing single page for news and updates would not be sufficient in the future.
 
-In terms of the navigation, we investigated adding a 'Documentation' link in the main header and then using secondary navigation to access 'News and updates', 'How to use this service', 'API documentation' and 'CSV documentation'.
+In terms of navigation, we investigated adding a ‘Documentation’ link to the main header and then utilising secondary navigation to access ‘News and updates’, ‘How to use this service’, ‘API documentation’ and ‘CSV documentation’.
 
 ![Screenshot showing an alternative navigation](navigation-exploration.png "Exploration of navigation options")
 
-This proved unviable though because;
+This proved unviable because:
 
-* The documentation isn't available to users who aren't logged into the service
-* This header version has been deprecated for a separate [service navigation component](https://design-system.service.gov.uk/components/service-navigation/) which we're adopting.
+- the documentation is not available to users who are logged out of the service
+- the header navigation has been deprecated for a separate [service navigation component](https://design-system.service.gov.uk/components/service-navigation/), which we’re adopting.
 
 ## Our proposed solutions
 
@@ -49,13 +49,13 @@ We intend to move the secondary navigation into an expanded footer using the sta
 
 ![Screenshot showing the proposed expanded footer including news and updates link](proposed-footer.png "Proposed footer with news and updates link")
 
-This fulfils the following user needs:
+This approach to navigation:
 
-* Allows the user to access the information without needing to log in
-* Allows the user to access the information from any page within the service
-* Allows the navigation to scale when further documentation is added
+- allows the user to access the information without needing to log in
+- allows the user to access the information from any page within the service
+- allows the navigation to scale when further documentation is added
 
-We also plan to enhance scalability by creating a post list page linked to individual post pages. This will allow us to include more detailed content that supplements the high-level changes communicated to providers via email. Over time, we can archive blog posts in the 'Publication year' section which will allow users access to a library of past blog posts if needed.
+We also plan to enhance scalability by creating a post list page linked to individual post pages. This approach will allow us to include more detailed content that supplements the high-level changes communicated to providers via email.
 
 ![Screenshot showing the proposed news and updates list](news-and-updates-index.png "Proposed news and updates list")
 
