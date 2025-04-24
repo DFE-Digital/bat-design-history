@@ -55,7 +55,7 @@ This fulfils the following user needs:
 * Allows the user to access the information from any page within the service
 * Allows the navigation to scale when further documentation is added
 
-We also plan to enhance scalability by creating a post list page linked to individual post pages. This will allow us to include more detailed content that supplements the high-level changes communicated to providers via email.
+We also plan to enhance scalability by creating a post list page linked to individual post pages. This will allow us to include more detailed content that supplements the high-level changes communicated to providers via email. Over time, we can archive blog posts in the 'Publication year' section which will allow users access to a library of past blog posts if needed.
 
 ![Screenshot showing the proposed news and updates list](news-and-updates-index.png "Proposed news and updates list")
 
