@@ -49,11 +49,11 @@ We intend to move the secondary navigation into an expanded footer using the sta
 
 ![Screenshot showing the proposed expanded footer including news and updates link](proposed-footer.png "Proposed footer with news and updates link")
 
-This fulfils the following user needs:
+This approach to navigation:
 
-* Allows the user to access the information without needing to log in
-* Allows the user to access the information from any page within the service
-* Allows the navigation to scale when further documentation is added
+- allows the user to access the information without needing to log in
+- allows the user to access the information from any page within the service
+- allows the navigation to scale when further documentation is added
 
 We also plan to enhance scalability by creating a post list page linked to individual post pages. This will allow us to include more detailed content that supplements the high-level changes communicated to providers via email.
 
