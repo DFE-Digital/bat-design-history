@@ -38,10 +38,10 @@ In terms of navigation, we investigated adding a ‘Documentation’ link to the
 
 ![Screenshot showing an alternative navigation](navigation-exploration.png "Exploration of navigation options")
 
-This proved unviable though because;
+This proved unviable because:
 
-* The documentation isn't available to users who aren't logged into the service
-* This header version has been deprecated for a separate [service navigation component](https://design-system.service.gov.uk/components/service-navigation/) which we're adopting.
+- the documentation is not available to users who are logged out of the service
+- the header navigation has been deprecated for a separate [service navigation component](https://design-system.service.gov.uk/components/service-navigation/), which we’re adopting.
 
 ## Our proposed solutions
 
