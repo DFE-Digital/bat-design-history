@@ -1,7 +1,7 @@
 ---
 title: Communicating API and CSV changes
 description: Informing the sector of changes to the Register API and CSV
-date: 2025-04-01
+date: 2025-04-24
 tags:
   - trainees
   - providers
