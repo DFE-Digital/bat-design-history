@@ -60,3 +60,6 @@ We also plan to enhance scalability by creating a post list page linked to indiv
 ![Screenshot showing the proposed news and updates list](news-and-updates-index.png "Proposed news and updates list")
 
 ![Screenshot showing an example news and updates post item](news-and-updates-post.png "Proposed news and updates post item")
+
+*[API]: application programming interface
+*[CSV]: comma-separated values
