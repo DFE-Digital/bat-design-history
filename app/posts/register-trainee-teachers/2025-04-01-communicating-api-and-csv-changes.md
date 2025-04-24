@@ -34,7 +34,7 @@ We began by examining the guidance, news, and updates currently available on Reg
 
 It became clear that the existing single page for news and updates would not be sufficient in the future.
 
-In terms of the navigation, we investigated adding a 'Documentation' link in the main header and then using secondary navigation to access 'News and updates', 'How to use this service', 'API documentation' and 'CSV documentation'.
+In terms of navigation, we investigated adding a ‘Documentation’ link to the main header and then utilising secondary navigation to access ‘News and updates’, ‘How to use this service’, ‘API documentation’ and ‘CSV documentation’.
 
 ![Screenshot showing an alternative navigation](navigation-exploration.png "Exploration of navigation options")
 
