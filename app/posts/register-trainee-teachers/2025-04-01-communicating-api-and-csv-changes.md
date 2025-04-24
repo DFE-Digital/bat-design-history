@@ -55,7 +55,7 @@ This approach to navigation:
 - allows the user to access the information from any page within the service
 - allows the navigation to scale when further documentation is added
 
-We also plan to enhance scalability by creating a post list page linked to individual post pages. This will allow us to include more detailed content that supplements the high-level changes communicated to providers via email.
+We also plan to enhance scalability by creating a post list page linked to individual post pages. This approach will allow us to include more detailed content that supplements the high-level changes communicated to providers via email.
 
 ![Screenshot showing the proposed news and updates list](news-and-updates-index.png "Proposed news and updates list")
 
