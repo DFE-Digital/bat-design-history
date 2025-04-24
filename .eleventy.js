@@ -140,8 +140,8 @@ module.exports = function (eleventyConfig) {
 
           if (!tagMap.has(key)) {
             tagMap.set(key, {
-              name: tag,   // store canonical name (first seen)
-              count: 1,
+              name: tag, // store canonical name (first seen)
+              count: 1
             })
           } else {
             tagMap.get(key).count++
@@ -180,7 +180,6 @@ module.exports = function (eleventyConfig) {
 
     return tagMap
   })
-
 
   // ---------------------------------------------------------------
   // Global data
