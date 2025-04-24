@@ -26,7 +26,7 @@ screenshots:
       src: existing-news-and-updates-page.png
 ---
 
-Register currently sends email notifications to providers, and we have a basic news and updates page for the service; however, this needs to be enhanced to accommodate our new role in communicating changes to the sector.
+Register trainee teachers (Register) currently sends email notifications to providers, and we have a basic news and updates page for the service. However, this needs to be enhanced to accommodate our new role in communicating changes to the sector.
 
 ## What we did
 
