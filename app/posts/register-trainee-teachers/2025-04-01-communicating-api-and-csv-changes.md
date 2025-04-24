@@ -30,7 +30,7 @@ Register currently sends email notifications to providers, and we have a basic n
 
 ## What we did
 
-We began by examining the collection of guidance, news, and updates currently available on Register. While functional, we wondered whether we could integrate it more cohesively within the service.
+We began by examining the guidance, news, and updates currently available on Register. While functional, we wanted to know if we could integrate it more cohesively within the service.
 
 It became clear that the existing single page for news and updates would not be sufficient in the future.
 
