@@ -110,7 +110,7 @@ Multiple windows throughout the cycle
   * Having a rolling application process is the same model as our existing application process which makes it easier to understand and engage with for providers and candidates
   * It gives providers a solution to their recruitment problems as soon as they become aware of them – if they are experiencing low application numbers at any point in the cycle they can find candidates to invite
   * It’s the simplest technical implementation of this idea and reduces the communications burden on our team
-  
+
 * Drawbacks:
   * Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
   * Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
@@ -122,11 +122,11 @@ We felt that the always on model had the most potential benefits, with drawbacks
 
 When a candidate is submitting an application, we would show them an interruption screen asking them to opt-in to share their application details with training providers that they have not submitted an application to.  
 
-![Screenshot of an interruption page asking if candidates want to increase their chances of success by opting in](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/first-design-interruption-page.png)
+![Screenshot of an interruption page asking if candidates want to increase their chances of success by opting in](apply-for-teacher-training/find-a-candidate-initial-launch-scope/first-design-interruption-page.png)
 
 They can change their setting at the bottom of Your applications
 
-![Screenshot of the Your applications page with the option to change settings at the bottom](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/change-settings.png)
+![Screenshot of the Your applications page with the option to change settings at the bottom](/apply-for-teacher-training/find-a-candidate-initial-launch-scope/change-settings.png)
 
 ### Candidate research round 1
 
@@ -155,15 +155,15 @@ Findings:
 
 We moved the opt-in interruption screen to after an application has been submitted to separate it from the current application.
 
-![Screenshot of the interruption page with the application submitted success banner at the top](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/inital-launch-scope-interruption-page.jpg)
+![Screenshot of the interruption page with the application submitted success banner at the top](/apply-for-teacher-training/find-a-candidate-initial-launch-scope/inital-launch-scope-interruption-page.jpg)
 
 We added a way for candidates to set location preferences so that they will only appear in search results for courses that they can travel to.
 
-![Screenshot of a page where you can define a location and a radius](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/initial-launch-scope-location-preferences.jpg)
+![Screenshot of a page where you can define a location and a radius](/apply-for-teacher-training/find-a-candidate-initial-launch-scope/initial-launch-scope-location-preferences.jpg)
 
 We updated the content in the opt-in screen to highlight how this feature should be used alongside the current application process. We made a permanent home for this information, accessed from the bottom of My Applications, so that candidates can review it when needed.
 
-![Screenshot of a page containing information about the feature](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/initial-launch-scope-information-page.jpg)
+![Screenshot of a page containing information about the feature](/apply-for-teacher-training/find-a-candidate-initial-launch-scope/inital-launch-scope-interruption-page.jpg)
 
 ## Next steps
 
