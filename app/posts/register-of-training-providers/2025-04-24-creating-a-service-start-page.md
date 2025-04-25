@@ -3,7 +3,7 @@ title: Creating a service start page
 description: We created a simple start page as an entry point to the service
 date: 2025-04-24
 tags:
-  - start page
+  - start pages
 related:
   items:
     - text: Help users to start using a service
