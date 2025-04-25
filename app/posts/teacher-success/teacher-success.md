@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Teacher success
-description: A service for trainee teachers undergoing ITT to improve their training experience and get support and resources they need to succeed
+description: A service for trainee teachers to improve their training experience and get support and resources they need to succeed
 
 pagination:
   data: collections.teacher-success
