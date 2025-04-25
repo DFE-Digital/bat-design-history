@@ -11,7 +11,7 @@ tags:
 
 We wanted to test engagement from trainees with supportive email comms from Department for Education.
 
-[View the full comms testing report](https://educationgovuk.sharepoint.com/:p:/r/sites/TeacherServices/Shared%20Documents/TWD%20-%20Teaching%20Vacancies/TEACHER%20SUCCESS%20SERVICE%20ALPHA%20-%202025/Design%20and%20content/Comms%20testing%20results.pptx?d=w181456ee8022433ab92d68bd2cb6c458&csf=1&web=1&e=35y4Ln).
+![View full comms test results](Comms-testing-results.pdf).
 
 ## Method
 
