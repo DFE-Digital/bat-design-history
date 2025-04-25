@@ -38,7 +38,7 @@ We used a multivariate test with 4 variations:
 
 We wanted to make sure that the ordering of the content did not have an impact on what users clicked on so we sent different versions of the email where we changed the order.
 
-We also wanted to test engagement with a teaching branded email vs a more GDS style email.
+We also wanted to test engagement with a Teaching-branded email versus a more GOV.UK style email.
 
 ![screenshot of GOV.UK style email](GDS-style-email.png)
 
