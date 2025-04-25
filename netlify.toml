@@ -16,13 +16,19 @@ X-XSS-Protection = "1; mode=block"
 
 [[redirects]]
 from = "/glossary"
-to = "https://design.education.gov.uk/content-design/style-guide/"
+to = "https://design.education.gov.uk/content-design/style-guide"
 status = 301
 force = true
 
 [[redirects]]
 from = "https://bat-design-history.netlify.app/*"
 to = "https://becoming-a-teacher.design-history.education.gov.uk/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "/tagged/*"
+to = "/tags/:splat"
 status = 301
 force = true
 
