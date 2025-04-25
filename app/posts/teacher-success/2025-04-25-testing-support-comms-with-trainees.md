@@ -62,9 +62,7 @@ more from access to teaching resources and support.
 
 Using the teaching branding didn’t have a significant impact on engagement compared to using the GOV.UK styling.​
 
-The GDS style email had a slightly higher open rate but given we only changed the
-content of the email itself and nothing about the subject line or sender, there's no
-discernible reason for a difference between open rates.​
+The GOV.UK style email had a slightly higher open rate, but given we only changed the content of the email itself and nothing about the subject line or sender, there was no discernible reason for a difference between open rates.​
 
 The teaching brand style email had a slightly higher click through rate.
 
