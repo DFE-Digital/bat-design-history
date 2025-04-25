@@ -40,7 +40,7 @@ We wanted to make sure that the ordering of the content did not have an impact o
 
 We also wanted to test engagement with a teaching branded email vs a more GDS style email.
 
-![screenshGDS style email](GDS-style-email.png)
+![screenshot of GDS style email](GDS-style-email.png)
 
 ![screenshot of teaching branded email](teaching-branded-email.png)
 
