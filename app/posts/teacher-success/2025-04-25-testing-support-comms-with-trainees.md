@@ -34,11 +34,11 @@ We used a multivariate test with 4 variations:
 
 We wanted to make sure that the ordering of the content did not have an impact on what users clicked on so we sent different versions of the email where we changed the order.
 
-We also wanted to test engagement with a Get Into Teaching-branded email versus a more GOV.UK style email.
+We also wanted to test engagement with a Teaching-branded email versus a more GOV.UK style email.
 
 ![screenshot of GOV.UK style email](govuk-style-email.png "Screenshot of the GOV.UK style email")
 
-![screenshot of Get Into Teaching branded email](teaching-branded-email.png "Screenshot of the Get Into Teaching branded email")
+![screenshot of the Teaching branded email](teaching-branded-email.png "Screenshot of the Get Into Teaching branded email")
 
 ## Overall testing performance
 
@@ -46,7 +46,7 @@ Engagement was good with an average open rate of 54.3% and average click through
 
 ## General findings
 
-### September vs January starts
+### September versus January starts
 
 While open rate was actually lower for January starts, click through rate and
 engagement with content was higher.​
