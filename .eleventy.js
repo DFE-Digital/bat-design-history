@@ -159,7 +159,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('postsByTag', (collectionApi) => {
     const tagMap = new Map()
-
     const posts = collectionApi.getAll()
 
     for (const post of posts) {
@@ -167,19 +166,23 @@ module.exports = function (eleventyConfig) {
         for (const tag of post.data.tags) {
           const key = tag.toLowerCase()
 
-          // Initialize group if not already
           if (!tagMap.has(key)) {
             tagMap.set(key, [])
           }
 
-          // Add post to tag group
           tagMap.get(key).push(post)
         }
       }
     }
 
+    // Sort posts for each tag by descending date
+    for (const postList of tagMap.values()) {
+      postList.sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
+    }
+
     return tagMap
   })
+
 
   // ---------------------------------------------------------------
   // Global data
