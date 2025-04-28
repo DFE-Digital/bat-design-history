@@ -1,179 +1,117 @@
 ---
-title: Find a candidate
-description: Helping unsuccessful candidates reapply for initial teacher training courses.
-date: 2025-04-23
+title: A/B testing the launch email for Find a candidate
+description: Optimising the content for higher conversion rates.
+date: 2025-04-28
 tags:
-  - reapplication
+  - candidate emails
   - find a candidate
+  - testing
 ---
-
-## Background
-
-In the 2023 to 2024 recruitment cycle our analysis showed that:
-
-* 25% of eligible candidates (7,597 candidates in total) didn't get any offers
-* 6,687 eligible candidates who received a rejection never got an offer
-* 24% of these unsuccessful, eligible candidates (1,877) specifically missed out on at least one of their application choices, because the course was full
-
-We are defining eligible candidates as candidates that sent at least one application choice to a course where they:
-
-* either didn't need a visa, or the course sponsored a visa
-* had a degree grade that matched the course requirements
-* had a degree in a subject that matched the course requirements
-
-So we know there are unfilled vacancies on initial teacher training (ITT) courses each year and that there are suitable candidates who could fill them.
-
-Research has shown us that following a rejection, candidates feel demotivated about the recruitment process which stops them from submitting further applications.  
-
-Our reapplication rate indicates that candidates don't always know which courses to apply to initially. This leads to repeated unsuccessful outcomes when they select a route or course that isn’t a good fit.
-
-### Email course matching pilot
-
-In June 2023 we conducted an email pilot to encourage 2,367 recently rejected candidates to reapply to training providers who had spaces on their courses.  
-
-7% of these candidates went on to submit an application, but the rejection rate was high due to the email being sent late in the cycle when lots of courses were already full. Candidates were also not directed to a specific course which could account for the high rejection rates. 81 candidates were accepted onto a course which showed there was some value in nudging recently rejected candidates to reapply.
-
-### Provider recommendations research
-
-Also in 2023 there was some [research with training providers](https://becoming-a-teacher.design-history.education.gov.uk/manage-teacher-training-applications/letting-providers-recommend-candidates/) to measure their attitudes towards recommending candidates that they are not offering a place to, to other providers.
-Our designs tested well but users had more detailed questions of how the shortlist would work in practice
 
 ## What we did
 
-We built on the 2023 experiments by prototyping a way for candidates to opt-in to the candidate list, and a way for providers to view the list and invite them to apply to courses.  
+We wanted to experiment with A/B testing the content in the Find a candidate launch email to see which version would have the highest conversion rate (both click through from the email and opt-in to Find a candidate). 
 
-Our hypotheses were:
+We had already split our candidate audience into 3 tiers who we would be contacting in a staggered rollout throughout April: 
 
-* if unsuccessful candidates were invited to a specific course by a provider, they would be likely to submit an application
-* if providers could access candidate application details, they can successfully match candidates to courses
+* Tier 1 - candidates who have recently become unsuccessful in the last 30 days, and do not require visa sponsorship,  
 
-### Opt-in or opt-out?
+* Tier 2 - candidates who are unsuccessful, do not require visa sponsorship and weren't in tier 1 
 
-There was discussion about whether being searchable by training providers other than ones you have submitted an application to should be something candidates opt-into. There was support for automatically making everyone who submits an application visible to all training providers, with the option for them to opt-out.  
+* Tier 3 - any candidate who has not already been recruited to train to teach and has submitted at least one application 
 
-We were concerned that making the feature opt-in might limit the number of candidates available to search. However, the email pilot of the previous year gave us some confidence that candidates would be keen on the concept.
+We decided to send the 2 variations to a segment of 1,000 candidates from tier 1 (total 1,974 candidates).  
 
-In a co-design session with training providers in December 2024 one of the concerns they raised about the concept was that candidates would not respond to unsolicited invitations to courses, which would waste providers’ time in sending them.  
+We hoped this would give us a clear steer on which content variation to send to the other 974 candidates in tier 1, as well as those in tiers 2 and 3 (approximately 17,000 candidates) to optimise this launch email for the highest conversion rate possible. 
 
-Providers were also concerned that candidates might be overwhelmed by emails. Making the feature something they can choose to engage with could mitigate this.
+### Variant A 
 
-### Who should be searchable by providers?
+Variant A prioritises sharing your information with providers in the subject line and introductory paragraph. 
 
-We decided not to ‘pre-filter’ who can join the list of searchable applicants. This means we will not prevent anyone from opting-in based on their rejection or withdrawal reasons, their qualifications or any other information in their application.
-
-If a candidate were applying in the standard application process, the provider would not have any of this extra information about them and would review their application based only on the data contained in it. We will replicate this in the Find a candidate applications process for now.
-
-The December 2024 provider co-design session raised a concern about poaching candidates from other providers. To mitigate against this, candidates’ details will only be visible to other training providers when they have no other applications in any of these statuses:
-
-* Awaiting decision
-* Offered
-* Conditions pending
-* Accepted
-
-Unrelated research into withdrawal reasons raised the prospect that a candidate could withdraw their application, giving the reason ‘I do not want to train to be a teacher any more’ but not opt-out of Find a candidate. They would still be searchable and could receive invitations to apply which they will never respond to. We decided to remove these candidates from the list of searchable candidates.
-
-### When should the list be searchable?
-
-We considered several models for Find a candidate:
-
-A single clearing window at the end of the recruitment cycle
-
-* Benefits:  
-  * candidates would not be ‘spammed’ by emails, they would receive a single email with all of their invitations in it on a given date
-  * Both small and large providers would be able to engage with the feature equally by assigning resource to it at a given time
-  * Providers are aware of the remaining vacancies on their courses and can use the feature in a focussed way
-
-* Drawbacks:
-  * Disadvantages international candidates who need time to arrange visas
-  * Candidates who have not heard back about teacher training by the end of the cycle are less likely to engage with invitations, they will have moved on
-  * A condensed period of activity could be unmanageable for providers’ workload
-  * It’s unknown when in the cycle this window would be best placed, it would likely be different for different providers so would advantage some over others by being inflexible
-
-Multiple windows throughout the cycle
-
-* Benefits:
-  * More flexible to accommodate candidates who are rejected at any point in the cycle including international candidates
-  * Reduced risk of candidate drop out as we can target them with reapplications closer to their initial rejection
-  * More flexible for providers to adapt to their existing ways of working and processes throughout the cycle
-
-* Drawbacks:
-  * Potentially confusing for both candidates and providers about when and where and for how long the application windows are open for, communications about this could be ignored or forgotten
-  * Unclear user need for an application window earlier in the recruitment cycle when proactive applications are coming in to providers
-  * Risk of candidate drop-out remains, although it’s reduced by having windows nearer in time to their rejection than the single application window idea.
-
-‘Always on’ throughout the cycle
-
-* Benefits:
-  * It would reduce the time between receiving a rejection and potentially receiving a new offer, we know this reduces dropout rates
-  * There’s time for international candidates to arrange visas  
-  * It should be flexible enough for providers to be able to include it in their existing processes
-  * Having a rolling application process is the same model as our existing application process which makes it easier to understand and engage with for providers and candidates
-  * It gives providers a solution to their recruitment problems as soon as they become aware of them – if they are experiencing low application numbers at any point in the cycle they can find candidates to invite
-  * It’s the simplest technical implementation of this idea and reduces the communications burden on our team
+{{ appEmail({
+  content: "
+  Subject line: Make your application details visible to more training providers
   
-* Drawbacks:
-  * Potential for confusion with our existing recruitment process, candidates could think that they don’t need to find and apply for courses themselves if they engage with this
-  * Providers could cherry-pick candidates early in the recruitment cycle before other providers have engaged with the feature
-  * Candidates could be overwhelmed by invitations throughout the recruitment cycle and disengage from the process completely.
+  Dear Jim,
 
-We felt that the always on model had the most potential benefits, with drawbacks that we could mitigate for through research. This is the model that we designed for.
+  There is a new feature in Apply for teacher training.
 
-## Initial designs
+  You can choose to make your application details visible to training providers who you have not submitted an application to.
 
-When a candidate is submitting an application, we would show them an interruption screen asking them to opt-in to share their application details with training providers that they have not submitted an application to.  
+  They can search a list of candidates and view their application details. If they think you are suitable for their course, they can invite you to apply directly.
 
-![Screenshot of an interruption page asking if candidates want to increase their chances of success by opting in](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/first-design-interruption-page.png)
+  [Allow other providers to view your application details](https://www.apply-for-teacher-training.service.gov.uk/support/sign-in)
 
-They can change their setting at the bottom of Your applications
+  ## How this works with the current application process
 
-![Screenshot of the Your applications page with the option to change settings at the bottom](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/change-settings.png)
+  This feature should be used alongside the [current application](https://www.apply-for-teacher-training.service.gov.uk/candidate/about-the-teacher-training-application-process) process. You must continue to choose courses and submit applications yourself.
 
-### Candidate research round 1
+  ^Candidates who submit 4 or more applications are more likely to receive an offer to train to teach.
 
-#### 27 February to 5 March 2025
+  You can still submit up to 4 application choices at a time. If a provider invites you to apply and you submit an application, it will count towards your total.
 
-We shared the prototype designs with 5 UK candidates to understand their attitude towards the feature, in particular sharing their data, and their ability to use the designs.
+  You can change your decisions to share your application details at any time by following the link at the bottom of your applications page
+" }) }}
 
-Findings:
+## Variant B
 
-* Candidates were positive about the concept and welcomed ways for training providers to contact them about courses
-* Candidates were happy for their application data to be shared with training providers for the purposes of assessing their suitability for courses
-  * 1 participant would want to see a data sharing agreement as part of their opt-in journey
-* They found the interruption page between reviewing their application and submitting it confusing.
-  * Some felt that it was unclear whether we were asking them to share the application they were submitting, or something else
-  * Some felt that introducing the idea of the application they are submitting being unsuccessful was a negative experience
-* Candidates would not want to apply to courses that do not match their preferences (for example full- or part-time, salaried or fee-funded)  
-* The location of the course the candidate last applied to is not the most appropriate location for us to match them to in search results
-  * Candidates expressed a strong preference for locations that are local to them – their home address.
-  * We did not test with any international candidates in this round of research, and home address would not be an appropriate location to match to for international candidates.
-* Some candidates had some misconceptions about the feature, including:
-  * They would be more likely to receive an offer if they opted in
-  * They could stop applying for courses themselves and wait to be invited to apply
-  * They can be contacted by training providers even when they have an application in-flight with another provider.
+Variant B prioritises providers inviting you to courses in the introductory paragraph and a new way to apply in the subject line. 
 
-### The initial launch scope
+{{ appEmail({
+  content: "
+  Subject line: A new way to apply for initial teacher training courses
 
-We moved the opt-in interruption screen to after an application has been submitted to separate it from the current application.
+  Dear Jane,
 
-![Screenshot of the interruption page with the application submitted success banner at the top](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/inital-launch-scope-interruption-page.jpg)
+  There is a new way to apply for teacher training courses.
 
-We added a way for candidates to set location preferences so that they will only appear in search results for courses that they can travel to.
+  From May, training providers can invite you to apply directly to courses.
 
-![Screenshot of a page where you can define a location and a radius](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/initial-launch-scope-location-preferences.jpg)
+  If you choose to share your application details, providers can search for and review your information. If they think you are suitable for their course, they can invite you to apply directly.
 
-We updated the content in the opt-in screen to highlight how this feature should be used alongside the current application process. We made a permanent home for this information, accessed from the bottom of My Applications, so that candidates can review it when needed.
+  [Share your application details with other providers](https://www.apply-for-teacher-training.service.gov.uk/support/sign-in)
 
-![Screenshot of a page containing information about the feature](/apply-for-teacher-training/2025-04-23-find-a-candidate-initial-launch-scope/initial-launch-scope-information-page.jpg)
+  You can decide which locations you want to appear in searches for, so you will only be invited to apply to courses in areas you have chosen yourself.
 
-## Next steps
+  ## How this works with the current application process
 
-The launch email inviting candidates to opt-into the feature will be A/B tested to optimise for the most effective messaging.
+  This feature should be used alongside the [current application](https://www.apply-for-teacher-training.service.gov.uk/candidate/about-the-teacher-training-application-process) process. You must continue to choose courses and submit applications yourself.
 
-We are aiming for 1,150 candidates (who are eligible to train to teach but have been unsuccessful so far) to opt-in before we release the provider side of this feature. This is to make sure there are candidates to search for when the search is released.
+  ^Candidates who submit 4 or more applications are more likely to receive an offer to train to teach.
 
-We will monitor live use of the feature including:
+  You can still submit up to 4 application choices at a time. If a provider invites you to apply and you submit an application, it will count towards your total.
 
-* number of candidates opting in to share their application details
-* number of candidates opting out
+  You can change your decisions to share your application details at any time by following the link at the bottom of your applications page
+" }) }}
 
-There is a further round of user research planned to capture insights from international candidates and help us to identify features to add to the product roadmap.
+## How the experiment was set up 
+
+Based on previous investigations, we chose to implement the Field Test gem. Field Test provided us with the framework and vocabulary to describe the experiment, with minimal setup. 
+
+We set up an experiment named “find_a_candidate/candidate_feature_launch_email” which had 2 variants “share_details” (A) and “invitation” (B). These variants relate to the email content that we would send to candidates.  
+Each candidate (participant) would be randomly assigned a variant before the email was sent. 
+
+The experiment was measured against 3 goals, “link_clicked”, “opt_in” and “opt_out”. A participant would covert against these goals when they completed an action, clicking the link in the email they were sent (taking them to the “set preferences” page), and opting in to or out of the Find a candidate feature.  
+
+Field Test provided a secure dashboard where it was possible to view how many participants were assigned to each variant, and on which goals they had converted against.  
+An overview of the experiment was also available, showing the overall conversion rates of each variant and goal combination.  
+
+## Results 
+
+At the end of 4 days variant B (invitation) had a 3.59% conversion rate compared to variant A’s 2.49%. 
+
+However, the volume of engagement was less than expected. We had not taken into account the low open rate of emails (2-3%) which meant that our sample of 1,000 only generated a total of 31 opt-ins across both variants (12:19 A:B). 
+
+Variant A also saw the only opt-out of Find a candidate coming from the email. 
+
+Despite the difficulty in identifying statistical significance between the variants due to low volumes,  we opted to send variant B to the rest of the mailing list. 
+
+## Lessons for next time 
+
+We need to take the low open rate of emails into account when selecting a sample size in future. 1,000 participants did not yield high enough conversions to be able to identify a winner with statistical significance.  
+
+It’s possible to apply demographic data to the results which would be interesting for a bigger sample size, or if we were targeting specific demographics with our communications in future. If this were needed it would need to be considered in advance in order to be useful. 
+
+This was reasonably straightforward to set up from a development point of view. It would be interesting to include A/B testing of both communications and in-service content in our research and continual improvement plans for the service. 
+
+
