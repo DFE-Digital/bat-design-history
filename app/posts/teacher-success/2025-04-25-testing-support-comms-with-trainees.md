@@ -38,7 +38,7 @@ We also wanted to test engagement with a Teaching-branded email versus a more GO
 
 ![screenshot of GOV.UK style email](govuk-style-email.png "Screenshot of the GOV.UK style email")
 
-![screenshot of the Teaching branded email](teaching-branded-email.png "Screenshot of the Get Into Teaching branded email")
+![screenshot of the Teaching branded email](teaching-branded-email.png "Screenshot of the Teaching branded email")
 
 ## Overall testing performance
 
