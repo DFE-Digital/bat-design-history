@@ -8,6 +8,8 @@ tags:
   - testing
 ---
 
+{% from "email/macro.njk" import appEmail %}
+
 ## What we did
 
 We wanted to experiment with A/B testing the content in the Find a candidate launch email to see which version would have the highest conversion rate (both click through from the email and opt-in to Find a candidate).
@@ -29,8 +31,8 @@ We hoped this would give us a clear steer on which content variation to send to 
 Variant A prioritises sharing your information with providers in the subject line and introductory paragraph.
 
 {{ appEmail({
-  content: "
-  Subject line: Make your application details visible to more training providers
+subject: "Make your application details visible to more training providers",
+content: "
   
   Dear Jim,
 
@@ -46,7 +48,7 @@ Variant A prioritises sharing your information with providers in the subject lin
 
   This feature should be used alongside the [current application](https://www.apply-for-teacher-training.service.gov.uk/candidate/about-the-teacher-training-application-process) process. You must continue to choose courses and submit applications yourself.
 
-  ^Candidates who submit 4 or more applications are more likely to receive an offer to train to teach.
+  > Candidates who submit 4 or more applications are more likely to receive an offer to train to teach.
 
   You can still submit up to 4 application choices at a time. If a provider invites you to apply and you submit an application, it will count towards your total.
 
@@ -58,9 +60,9 @@ Variant A prioritises sharing your information with providers in the subject lin
 Variant B prioritises providers inviting you to courses in the introductory paragraph and a new way to apply in the subject line.
 
 {{ appEmail({
+  subject: A new way to apply for initial teacher training courses
   content: "
-  Subject line: A new way to apply for initial teacher training courses
-
+  
   Dear Jane,
 
   There is a new way to apply for teacher training courses.
@@ -77,7 +79,7 @@ Variant B prioritises providers inviting you to courses in the introductory para
 
   This feature should be used alongside the [current application](https://www.apply-for-teacher-training.service.gov.uk/candidate/about-the-teacher-training-application-process) process. You must continue to choose courses and submit applications yourself.
 
-  ^Candidates who submit 4 or more applications are more likely to receive an offer to train to teach.
+  > Candidates who submit 4 or more applications are more likely to receive an offer to train to teach.
 
   You can still submit up to 4 application choices at a time. If a provider invites you to apply and you submit an application, it will count towards your total.
 
