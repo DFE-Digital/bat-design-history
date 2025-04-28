@@ -17,7 +17,7 @@ related:
       href: https://design.tax.service.gov.uk/hmrc-design-patterns/page-title/#personally-identifiable-information
     - text: DWP accessibility manual - Page title guidance
       href: https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer#page-title
-    - text: Information Commissioner's Office (ICO) - Guide on what is personal information
+    - text: Information Commissioner’s Office (ICO) - Guide on what is personal information
       href: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/personal-information-what-is-it/what-is-personal-information-a-guide/
     - text: Legislation - Data Protection Act 2018
       href: https://www.legislation.gov.uk/ukpga/2018/12/section/19/enacted
@@ -39,7 +39,7 @@ For example, if a user was updating a provider’s contact details, the page tit
 
 This created two key issues:
 
-1. Privacy risks: Page titles can appear in a user's browser history, tab previews, operating system notifications, and screen recordings. Surfacing personal data in these contexts increases the risk of unintended data exposure, especially on shared devices or in public environments.
+1. Privacy risks: Page titles can appear in a user’s browser history, tab previews, operating system notifications, and screen recordings. Surfacing personal data in these contexts increases the risk of unintended data exposure, especially on shared devices or in public environments.
 
 2. Security and compliance risks: Government services must minimise the unnecessary collection, use, and exposure of personal information, as set out in the [Service manual](https://www.gov.uk/service-manual/design/collecting-personal-information-from-users) and the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/section/19/enacted). Displaying personal data in metadata, such as page titles, where users have less visibility and control, contravenes best practices and increases the likelihood of a data protection breach.
 
