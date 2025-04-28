@@ -10,6 +10,8 @@ tags:
 
 {% from "email/macro.njk" import appEmail %}
 
+<!-- markdownlint-disable MD001 MD025 -->
+
 ## What we did
 
 We wanted to experiment with A/B testing the content in the Find a candidate launch email to see which version would have the highest conversion rate (both click through from the email and opt-in to Find a candidate).
@@ -115,3 +117,5 @@ We need to take the low open rate of emails into account when selecting a sample
 It’s possible to apply demographic data to the results which would be interesting for a bigger sample size, or if we were targeting specific demographics with our communications in future. If this were needed it would need to be considered in advance in order to be useful.
 
 This was reasonably straightforward to set up from a development point of view. It would be interesting to include A/B testing of both communications and in-service content in our research and continual improvement plans for the service.
+
+<!-- markdownlint-enable MD001 MD025 -->
