@@ -4,7 +4,7 @@ description: We recently made a change to remove personal data from page titles 
 date: 2025-04-28
 tags:
   - personal
-  - personal information
+  - personal data
   - data protection
   - page titles
 related:
