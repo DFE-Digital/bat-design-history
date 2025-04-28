@@ -3,7 +3,6 @@ title: Removing personal data from page titles
 description: We recently made a change to remove personal data from page titles across the service
 date: 2025-04-28
 tags:
-  - personal
   - personal data
   - data protection
   - page titles
