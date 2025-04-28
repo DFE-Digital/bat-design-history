@@ -150,7 +150,7 @@ This was better understood, however there was still some confusion about whether
 - we recommend that the new version of the ‘Qualifications awarded’ should be implemented
 - we recommend that further design work and testing is needed on the ‘start date’ and Degree required’ filters to ensure that it is understood by candidates
 
-### Get into teaching (GIT) banner
+### Get Into Teaching (GIT) banner
 
 We tested a new banner on the results page, which included links to various GIT pages.
 
@@ -211,7 +211,7 @@ The design changes we are confident in will be going live in early 2025.
 
 Design histories found here:
 
-- [Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
+- [Add links to Get Into Teaching](/find-teacher-training/add-links-to-get-into-teaching/)
 - [Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
 - [Improving the ability to browse courses](/find-teacher-training/improving-the-ability-to-browse-courses/)
 - [Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)

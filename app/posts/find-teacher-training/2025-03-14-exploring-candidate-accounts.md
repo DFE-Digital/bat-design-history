@@ -97,7 +97,7 @@ We could also surface relevant information based on what we know about the candi
 
 Candidate accounts on Find could be the starting point for significantly better integration between our services.
 
-We identified issues which may be solved or improved if GiT, Find and Apply were connected by one candidate account
+We identified issues which may be solved or improved if GIT, Find and Apply were connected by one candidate account
 
 We have not investigated this area in detail, so further exploratory work will need to be done. This should look at what problems this would solve, and what potential impact it could have on the candidate experience, conversion and dropout.
 
@@ -115,7 +115,7 @@ We ask candidates to tell us the same information – such as their name, email 
 
 **How candidate accounts across services might solve for this:**
 
-Have one account across GiT, Get School Experience, Find and Apply, so candidates would only need to enter each piece of information once.
+Have one account across GIT, Get School Experience, Find and Apply, so candidates would only need to enter each piece of information once.
 
 ### 2. Lack of information at the point of need
 
@@ -129,7 +129,7 @@ For example, some candidates were not aware they could sign up for a free [teach
 
 Use candidate data to better serve their needs and tailor the information we give them.
 
-For example, if we know a user hasn’t already got a teacher training adviser but their qualifications make them eligible for one, then we can strongly nudge them towards getting one across GiT, Find and Apply.
+For example, if we know a user hasn’t already got a teacher training adviser but their qualifications make them eligible for one, then we can strongly nudge them towards getting one across GIT, Find and Apply.
 
 If we know a candidate is already applying to courses, we could surface more detailed information about bursaries and scholarships.
 
@@ -139,9 +139,9 @@ We could also use this data to give more tailored recommendations, based on thei
 
 The journey from considering teacher training to applying involves multiple different services.
 
-Candidates find it difficult to navigate between services and will often have tabs open with GiT, Find, provider websites and Apply.
+Candidates find it difficult to navigate between services and will often have tabs open with GIT, Find, provider websites and Apply.
 
-Candidates often get lost between services and find it difficult to get back to where they were. They also find the jump between services quite jarring as the look and feel is very different (particularly between GiT and Find).
+Candidates often get lost between services and find it difficult to get back to where they were. They also find the jump between services quite jarring as the look and feel is very different (particularly between GIT and Find).
 
 **How candidate accounts across services might solve for this:**
 

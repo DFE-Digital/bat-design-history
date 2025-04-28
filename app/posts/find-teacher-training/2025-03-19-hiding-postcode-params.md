@@ -17,7 +17,7 @@ tags:
 
 ### The problem we were trying to solve
 
-We were advised by the Get into Teaching (GIT) team that showing full postcodes in our [Find](https://find-teacher-training-courses.service.gov.uk/) uniform resource locators (URLs) was a breach of data protection on a users local machine; specifically where users accessed Find on a shared device, i.e. in a library.
+We were advised by the Get Into Teaching (GIT) team that showing full postcodes in our [Find](https://find-teacher-training-courses.service.gov.uk/) uniform resource locators (URLs) was a breach of data protection on a users local machine; specifically where users accessed Find on a shared device, i.e. in a library.
 
 We checked with the data protection team who advised us:
 

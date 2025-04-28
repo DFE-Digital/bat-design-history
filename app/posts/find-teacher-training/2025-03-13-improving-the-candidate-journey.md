@@ -20,7 +20,7 @@ This may result in candidates dropping out of the process and not becoming teach
 
 ## Our approach
 
-We reviewed existing user research, previous analysis of pain points, and user needs across multiple services that candidates use on their journey into teacher training. We particularly looked at  [Get Into Teaching (GiT)](https://getintoteaching.education.gov.uk/), [Find teacher training courses (Find)](https://find-teacher-training-courses.service.gov.uk/) and [Apply for teacher training (Apply)](https://www.apply-for-teacher-training.service.gov.uk/).
+We reviewed existing user research, previous analysis of pain points, and user needs across multiple services that candidates use on their journey into teacher training. We particularly looked at  [Get Into Teaching (GIT)](https://getintoteaching.education.gov.uk/), [Find teacher training courses (Find)](https://find-teacher-training-courses.service.gov.uk/) and [Apply for teacher training (Apply)](https://www.apply-for-teacher-training.service.gov.uk/).
 We wanted to understand how we could ensure candidates have the smoothest possible journey, from the consideration of teaching to accepting an offer (and beyond).
 
 Our assumption was that by improving the journey and better meeting user needs, we could increase conversion and reduce drop out.
@@ -54,7 +54,7 @@ The candidate journey is not linear – candidates hop between our services and 
 
 * **Jarring look and feel** The journey between services feels jarring as the websites have a very different look and feel.
 
-* **Candidates end up on inappropriate services for their point in their journey** - For example, if they end up on Find before exploring GiT they won't have enough information to decode the course options. If they end up on Apply first, they might apply too early and be rejected simply because they did not have the right information.
+* **Candidates end up on inappropriate services for their point in their journey** - For example, if they end up on Find before exploring GIT they won't have enough information to decode the course options. If they end up on Apply first, they might apply too early and be rejected simply because they did not have the right information.
 
 ![Screenshot of a map of the candidate user journey with some of the key pain points from the stage of considering teaching to applying for tacher training courses.](map-candidate-journey-pain-points.png)
 
@@ -86,7 +86,7 @@ Some candidates are unaware of the ability to [get school experience](https://sc
 
 **How we might solve for this:**
 
-Better surface the Get school experience service to candidates on GiT, Find and Apply. We could also do this through email comms, including tailored comms after rejection.
+Better surface the Get school experience service to candidates on GIT, Find and Apply. We could also do this through email comms, including tailored comms after rejection.
 
 Expand provision to make it easier to get school experience and explore how we might better support candidates when signing up.
 
@@ -128,7 +128,7 @@ Improving how providers describe their offering to those with disabilities and o
 
 Routes has been one of the most misunderstood aspects of teacher training.
 
-Work has been done in GiT to help candidates [find their route into teaching](https://getintoteaching.education.gov.uk/routes-into-teaching).
+Work has been done in GIT to help candidates [find their route into teaching](https://getintoteaching.education.gov.uk/routes-into-teaching).
 
 However, candidates come to the stage of finding a course with differing levels of knowledge and at different stages in their journey, therefore more could be done to surface the ability to find their route into teaching.
 
@@ -246,4 +246,4 @@ Senior leaders will work with these teams to decide on what areas to focus on, a
 
 The team will now explore how introducing candidates accounts on Find might help meet user needs and improve the candidate journey.
 
-This could potentially be expanded to integrate accounts across GiT, Find, and Apply.
+This could potentially be expanded to integrate accounts across GIT, Find, and Apply.

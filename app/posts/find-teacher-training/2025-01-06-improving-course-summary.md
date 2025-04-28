@@ -35,7 +35,7 @@ We had several ways of formatting age range and age group across the service.
 
 This formatting didn't match how this information is communicated in Get Into Teaching.
 
-![screenshot of get into teaching website page on age range](find-summary-git-jan-2025.png)
+![screenshot of Get Into Teaching website page on age range](find-summary-git-jan-2025.png)
 
 ### Qualification
 
