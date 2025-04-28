@@ -18,13 +18,13 @@ We wanted to experiment with A/B testing the content in the Find a candidate lau
 
 We had already split our candidate audience into 3 tiers who we would be contacting in a staggered rollout throughout April:
 
-* Tier 1 - candidates who have recently become unsuccessful in the last 30 days, and do not require visa sponsorship,  
+* Tier 1 - candidates who have recently become unsuccessful in the last 30 days, and do not require visa sponsorship,
 
 * Tier 2 - candidates who are unsuccessful, do not require visa sponsorship and weren't in tier 1
 
 * Tier 3 - any candidate who has not already been recruited to train to teach and has submitted at least one application
 
-We decided to send the 2 variations to a segment of 1,000 candidates from tier 1 (total 1,974 candidates).  
+We decided to send the 2 variations to a segment of 1,000 candidates from tier 1 (total 1,974 candidates).
 
 We hoped this would give us a clear steer on which content variation to send to the other 974 candidates in tier 1, as well as those in tiers 2 and 3 (approximately 17,000 candidates) to optimise this launch email for the highest conversion rate possible.
 
@@ -35,7 +35,7 @@ Variant A prioritises sharing your information with providers in the subject lin
 {{ appEmail({
 subject: "Make your application details visible to more training providers",
 content: "
-  
+
   Dear Jim,
 
   There is a new feature in Apply for teacher training.
@@ -62,9 +62,9 @@ content: "
 Variant B prioritises providers inviting you to courses in the introductory paragraph and a new way to apply in the subject line.
 
 {{ appEmail({
-  subject: A new way to apply for initial teacher training courses
+  subject: "A new way to apply for initial teacher training courses",
   content: "
-  
+
   Dear Jane,
 
   There is a new way to apply for teacher training courses.
@@ -92,13 +92,13 @@ Variant B prioritises providers inviting you to courses in the introductory para
 
 Based on previous investigations, we chose to implement the Field Test gem. Field Test provided us with the framework and vocabulary to describe the experiment, with minimal setup.
 
-We set up an experiment named “find_a_candidate/candidate_feature_launch_email” which had 2 variants “share_details” (A) and “invitation” (B). These variants relate to the email content that we would send to candidates.  
+We set up an experiment named “find_a_candidate/candidate_feature_launch_email” which had 2 variants “share_details” (A) and “invitation” (B). These variants relate to the email content that we would send to candidates.
 Each candidate (participant) would be randomly assigned a variant before the email was sent.
 
-The experiment was measured against 3 goals, “link_clicked”, “opt_in” and “opt_out”. A participant would covert against these goals when they completed an action, clicking the link in the email they were sent (taking them to the “set preferences” page), and opting in to or out of the Find a candidate feature.  
+The experiment was measured against 3 goals, “link_clicked”, “opt_in” and “opt_out”. A participant would covert against these goals when they completed an action, clicking the link in the email they were sent (taking them to the “set preferences” page), and opting in to or out of the Find a candidate feature.
 
-Field Test provided a secure dashboard where it was possible to view how many participants were assigned to each variant, and on which goals they had converted against.  
-An overview of the experiment was also available, showing the overall conversion rates of each variant and goal combination.  
+Field Test provided a secure dashboard where it was possible to view how many participants were assigned to each variant, and on which goals they had converted against.
+An overview of the experiment was also available, showing the overall conversion rates of each variant and goal combination.
 
 ## Results
 
@@ -112,7 +112,7 @@ Despite the difficulty in identifying statistical significance between the varia
 
 ## Lessons for next time
 
-We need to take the low open rate of emails into account when selecting a sample size in future. 1,000 participants did not yield high enough conversions to be able to identify a winner with statistical significance.  
+We need to take the low open rate of emails into account when selecting a sample size in future. 1,000 participants did not yield high enough conversions to be able to identify a winner with statistical significance.
 
 It’s possible to apply demographic data to the results which would be interesting for a bigger sample size, or if we were targeting specific demographics with our communications in future. If this were needed it would need to be considered in advance in order to be useful.
 
