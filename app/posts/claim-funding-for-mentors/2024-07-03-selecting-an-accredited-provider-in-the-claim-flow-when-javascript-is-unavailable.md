@@ -4,6 +4,7 @@ description: We added a no-JavaScript version for selecting an accredited provid
 date: 2024-07-03T12:01:00+00:00
 tags:
   - accredited providers
+  - javascript
 related:
   items:
     - text: Selecting an accredited provider in the claim flow using an autocomplete
