@@ -126,7 +126,7 @@ When a candidate is submitting an application, we would show them an interruptio
 
 They can change their setting at the bottom of Your applications
 
-![Screenshot of the Your applications page with the option to change settings at the bottom](/change-settings.png)
+![Screenshot of the Your applications page with the option to change settings at the bottom](change-settings.png)
 
 ### Candidate research round 1
 
@@ -155,15 +155,15 @@ Findings:
 
 We moved the opt-in interruption screen to after an application has been submitted to separate it from the current application.
 
-![Screenshot of the interruption page with the application submitted success banner at the top](/inital-launch-scope-interruption-page.jpg)
+![Screenshot of the interruption page with the application submitted success banner at the top](inital-launch-scope-interruption-page.jpg)
 
 We added a way for candidates to set location preferences so that they will only appear in search results for courses that they can travel to.
 
-![Screenshot of a page where you can define a location and a radius](/initial-launch-scope-location-preferences.jpg)
+![Screenshot of a page where you can define a location and a radius](initial-launch-scope-location-preferences.jpg)
 
 We updated the content in the opt-in screen to highlight how this feature should be used alongside the current application process. We made a permanent home for this information, accessed from the bottom of My Applications, so that candidates can review it when needed.
 
-![Screenshot of a page containing information about the feature](/inital-launch-scope-interruption-page.jpg)
+![Screenshot of a page containing information about the feature](inital-launch-scope-interruption-page.jpg)
 
 ## Next steps
 
