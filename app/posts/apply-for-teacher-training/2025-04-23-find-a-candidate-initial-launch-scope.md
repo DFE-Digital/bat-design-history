@@ -23,24 +23,24 @@ We are defining eligible candidates as candidates that sent at least one applica
 
 So we know there are unfilled vacancies on initial teacher training (ITT) courses each year and that there are suitable candidates who could fill them.
 
-Research has shown us that following a rejection, candidates feel demotivated about the recruitment process which stops them from submitting further applications.  
+Research has shown us that following a rejection, candidates feel demotivated about the recruitment process which stops them from submitting further applications.
 
 Our reapplication rate indicates that candidates don't always know which courses to apply to initially. This leads to repeated unsuccessful outcomes when they select a route or course that isn’t a good fit.
 
 ### Email course matching pilot
 
-In June 2023 we conducted an email pilot to encourage 2,367 recently rejected candidates to reapply to training providers who had spaces on their courses.  
+In June 2023 we conducted an email pilot to encourage 2,367 recently rejected candidates to reapply to training providers who had spaces on their courses.
 
 7% of these candidates went on to submit an application, but the rejection rate was high due to the email being sent late in the cycle when lots of courses were already full. Candidates were also not directed to a specific course which could account for the high rejection rates. 81 candidates were accepted onto a course which showed there was some value in nudging recently rejected candidates to reapply.
 
 ### Provider recommendations research
 
-Also in 2023 there was some [research with training providers](https://becoming-a-teacher.design-history.education.gov.uk/manage-teacher-training-applications/letting-providers-recommend-candidates/) to measure their attitudes towards recommending candidates that they are not offering a place to, to other providers.
+Also in 2023 there was some [research with training providers](/manage-teacher-training-applications/letting-providers-recommend-candidates/) to measure their attitudes towards recommending candidates that they are not offering a place to, to other providers.
 Our designs tested well but users had more detailed questions of how the shortlist would work in practice
 
 ## What we did
 
-We built on the 2023 experiments by prototyping a way for candidates to opt-in to the candidate list, and a way for providers to view the list and invite them to apply to courses.  
+We built on the 2023 experiments by prototyping a way for candidates to opt-in to the candidate list, and a way for providers to view the list and invite them to apply to courses.
 
 Our hypotheses were:
 
@@ -49,11 +49,11 @@ Our hypotheses were:
 
 ### Opt-in or opt-out?
 
-There was discussion about whether being searchable by training providers other than ones you have submitted an application to should be something candidates opt-into. There was support for automatically making everyone who submits an application visible to all training providers, with the option for them to opt-out.  
+There was discussion about whether being searchable by training providers other than ones you have submitted an application to should be something candidates opt-into. There was support for automatically making everyone who submits an application visible to all training providers, with the option for them to opt-out.
 
 We were concerned that making the feature opt-in might limit the number of candidates available to search. However, the email pilot of the previous year gave us some confidence that candidates would be keen on the concept.
 
-In a co-design session with training providers in December 2024 one of the concerns they raised about the concept was that candidates would not respond to unsolicited invitations to courses, which would waste providers’ time in sending them.  
+In a co-design session with training providers in December 2024 one of the concerns they raised about the concept was that candidates would not respond to unsolicited invitations to courses, which would waste providers’ time in sending them.
 
 Providers were also concerned that candidates might be overwhelmed by emails. Making the feature something they can choose to engage with could mitigate this.
 
@@ -78,7 +78,7 @@ We considered several models for Find a candidate:
 
 A single clearing window at the end of the recruitment cycle
 
-* Benefits:  
+* Benefits:
   * candidates would not be ‘spammed’ by emails, they would receive a single email with all of their invitations in it on a given date
   * Both small and large providers would be able to engage with the feature equally by assigning resource to it at a given time
   * Providers are aware of the remaining vacancies on their courses and can use the feature in a focussed way
@@ -105,7 +105,7 @@ Multiple windows throughout the cycle
 
 * Benefits:
   * It would reduce the time between receiving a rejection and potentially receiving a new offer, we know this reduces dropout rates
-  * There’s time for international candidates to arrange visas  
+  * There’s time for international candidates to arrange visas
   * It should be flexible enough for providers to be able to include it in their existing processes
   * Having a rolling application process is the same model as our existing application process which makes it easier to understand and engage with for providers and candidates
   * It gives providers a solution to their recruitment problems as soon as they become aware of them – if they are experiencing low application numbers at any point in the cycle they can find candidates to invite
@@ -120,7 +120,7 @@ We felt that the always on model had the most potential benefits, with drawbacks
 
 ## Initial designs
 
-When a candidate is submitting an application, we would show them an interruption screen asking them to opt-in to share their application details with training providers that they have not submitted an application to.  
+When a candidate is submitting an application, we would show them an interruption screen asking them to opt-in to share their application details with training providers that they have not submitted an application to.
 
 ![Screenshot of an interruption page asking if candidates want to increase their chances of success by opting in](apply-for-teacher-training/find-a-candidate-initial-launch-scope/first-design-interruption-page.png)
 
@@ -142,7 +142,7 @@ Findings:
 * They found the interruption page between reviewing their application and submitting it confusing.
   * Some felt that it was unclear whether we were asking them to share the application they were submitting, or something else
   * Some felt that introducing the idea of the application they are submitting being unsuccessful was a negative experience
-* Candidates would not want to apply to courses that do not match their preferences (for example full- or part-time, salaried or fee-funded)  
+* Candidates would not want to apply to courses that do not match their preferences (for example full- or part-time, salaried or fee-funded)
 * The location of the course the candidate last applied to is not the most appropriate location for us to match them to in search results
   * Candidates expressed a strong preference for locations that are local to them – their home address.
   * We did not test with any international candidates in this round of research, and home address would not be an appropriate location to match to for international candidates.
