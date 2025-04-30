@@ -5,6 +5,7 @@ date: 2023-05-27
 tags:
   - locations
   - study sites
+  - javascript
 related:
   items:
     - text: Managing ‘Study sites’ on behalf of providers

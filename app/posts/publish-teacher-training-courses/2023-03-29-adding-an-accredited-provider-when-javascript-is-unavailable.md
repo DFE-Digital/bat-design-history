@@ -4,6 +4,7 @@ description: We added a no-JavaScript version of the add accredited provider flo
 date: 2023-03-29
 tags:
   - accredited providers
+  - javascript
 related:
   items:
     - text: Improving how training partners manage their accredited providers

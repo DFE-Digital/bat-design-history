@@ -5,6 +5,7 @@ date: 2023-05-19
 tags:
   - locations
   - study sites
+  - javascript
 related:
   items:
     - text: Adding ‘Study sites’

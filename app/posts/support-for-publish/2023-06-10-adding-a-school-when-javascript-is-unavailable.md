@@ -5,6 +5,7 @@ date: 2023-06-10
 tags:
   - locations
   - schools
+  - javascript
 related:
   items:
     - text: Improving how users add schools in Support

@@ -5,6 +5,7 @@ date: 2024-01-11T12:00:00+00:00
 tags:
   - schools
   - onboarding
+  - javascript
 related:
   items:
     - text: Adding organisations in Support
