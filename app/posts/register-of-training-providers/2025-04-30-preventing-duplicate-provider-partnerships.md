@@ -35,7 +35,12 @@ We aimed to minimise the risk of duplication while ensuring users could still re
 
 ## What we changed
 
-### Checking for duplicate partnership
+We have:
+
+- added a check for duplicate partnerships
+- updated the page headings in the add partnership flow
+
+### Checking for duplicate partnerships
 
 When a user adds a new provider partnership, they search for a provider using an autocomplete field. As they type, a list of matching providers appears. When they select one and continue:
 
