@@ -11,6 +11,8 @@ related:
   items:
     - text: Managing provider partnerships
       href: /register-of-training-providers/managing-provider-partnerships/
+    - text: Reorganising the layout of the provider pages
+      href: /register-of-training-providers/reorganising-the-layout-of-the-provider-pages/
 screenshots:
   items:
     - text: Find a training partner autocomplete
@@ -33,6 +35,8 @@ We aimed to minimise the risk of duplication while ensuring users could still re
 
 ## What we changed
 
+### Checking for duplicate partnership
+
 When a user adds a new provider partnership, they search for a provider using an autocomplete field. As they type, a list of matching providers appears. When they select one and continue:
 
 - if the selected provider is already in a partnership with the provider they are managing, we show a stop page. This tells them the partnership already exists. From here, they can:
@@ -45,6 +49,20 @@ When a user adds a new provider partnership, they search for a provider using an
   - change the selected provider
   - confirm and add the partnership
   - cancel and return to the partnerships list
+
+### Updated page headings
+
+We also changed the headings for the provider autocomplete.
+
+If the current provider is an accredited provider, we show the heading:
+
+> Enter training provider name, UKPRN or URN
+
+If the current provider is not an accredited provider, we show the heading:
+
+> Enter accredited provider name, UKPRN or URN
+
+We include the current provider name in the caption for clarity.
 
 ## What this improves
 
