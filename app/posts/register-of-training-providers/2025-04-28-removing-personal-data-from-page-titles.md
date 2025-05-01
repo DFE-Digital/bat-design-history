@@ -56,11 +56,11 @@ For example:
 
 | Before | After |
 | --- | --- |
-| {provider name} - {name} - Contact details | {provider name} - Change provider contact’s details |
-| {provider name} - Confirm you want to delete {name} | {provider name} - Confirm you want to delete provider contact |
-| Support user - {name} | View support user |
-| {name} - Personal details | Change support user’s personal details |
-| Confirm you want to delete {name} | Confirm you want to delete support user |
+| {contact name} - {provider name} - Contact details | {provider name} - Change contact details |
+| {provider name} - Confirm you want to delete {contact name} | {provider name} - Confirm you want to delete provider contact |
+| Support user - {full name} | View support user |
+| {full name} - Personal details | Change personal details |
+| Confirm you want to delete {full name} | Confirm you want to delete support user |
 
 Where a user needs to see or confirm personal details as part of a task, this information still appears on the page, just not in the title.
 
