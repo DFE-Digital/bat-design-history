@@ -44,6 +44,34 @@ This created two key issues:
 
 Protecting personal information is not only good practice, but also a legal requirement.
 
+## How we structure page titles
+
+Page titles follow the structure:
+
+- caption - if present
+- page heading
+- service name - for example, ‘Register of training providers’
+- GOV.UK
+
+We typically match page titles with the page’s heading and caption.
+
+For example, if the heading is:
+
+```html
+<h1 class="govuk-heading-l">
+  <span class="govuk-caption-l">
+    Support user
+  </span>
+  Colin Chapman
+</h1>
+```
+
+Then the page title will be:
+
+```html
+<title>Colin Chapman - Support user - Register of training providers - GOV.UK</title>
+```
+
 ## What we changed
 
 We audited all pages across the service to identify instances where personal data appeared in page titles.
