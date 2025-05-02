@@ -44,6 +44,34 @@ This created two key issues:
 
 Protecting personal information is not only good practice, but also a legal requirement.
 
+## How we structure page titles
+
+Page titles follow the structure:
+
+- caption - if present
+- page heading
+- service name - for example, ‘Register of training providers’
+- GOV.UK
+
+We typically match page titles with the page’s heading and caption.
+
+For example, if the heading is:
+
+```html
+<h1 class="govuk-heading-l">
+  <span class="govuk-caption-l">
+    Support user
+  </span>
+  Colin Chapman
+</h1>
+```
+
+Then the page title will be:
+
+```html
+<title>Colin Chapman - Support user - Register of training providers - GOV.UK</title>
+```
+
 ## What we changed
 
 We audited all pages across the service to identify instances where personal data appeared in page titles.
@@ -56,11 +84,11 @@ For example:
 
 | Before | After |
 | --- | --- |
-| {provider name} - {name} - Contact details | {provider name} - Change provider contact’s details |
-| {provider name} - Confirm you want to delete {name} | {provider name} - Confirm you want to delete provider contact |
-| Support user - {name} | View support user |
-| {name} - Personal details | Change support user’s personal details |
-| Confirm you want to delete {name} | Confirm you want to delete support user |
+| {contact name} - {provider name} - Contact details | {provider name} - Change contact details |
+| {provider name} - Confirm you want to delete {contact name} | {provider name} - Confirm you want to delete provider contact |
+| Support user - {full name} | View support user |
+| {full name} - Personal details | Change personal details |
+| Confirm you want to delete {full name} | Confirm you want to delete support user |
 
 Where a user needs to see or confirm personal details as part of a task, this information still appears on the page, just not in the title.
 
