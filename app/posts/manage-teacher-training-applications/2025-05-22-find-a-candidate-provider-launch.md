@@ -5,11 +5,13 @@ date: 2025-05-22
 tags:
   - find a candidate
   - recruitment
-
+eleventyComputed:
+  eleventyNavigation:
+    key: manage-teacher-training-find-a-candidate
 ---
 ## Background
 
-Our analysis in the 2023 to 2024 recruitment cycle showed that over 7,500 eligible candidates did not get any offers.  
+Our analysis in the 2023 to 2024 recruitment cycle showed that over 7,500 eligible candidates did not get any offers.
 
 Anecdotally training providers have told us that they can struggle to fill all the spaces on their courses. This was also borne out in a survey we conducted in December 2024 where only 3% (2) of providers surveyed said they always fill the available places on their courses.
 
@@ -19,11 +21,11 @@ You can read the [design history about the candidate side of this work](https://
 
 ### Letting providers recommend candidates to each other pilot
 
-[This experiment](https://becoming-a-teacher.design-history.education.gov.uk/manage-teacher-training-applications/letting-providers-recommend-candidates/) aimed to match unsuccessful candidates to training courses when they had been rejected for reasons other than whether they meet the Initial Teacher Training (ITT) eligibility criteria. For example, the course they applied to is full, there are no available placements, they have a third class degree and the course requires a second class degree or higher.  
+[This experiment](https://becoming-a-teacher.design-history.education.gov.uk/manage-teacher-training-applications/letting-providers-recommend-candidates/) aimed to match unsuccessful candidates to training courses when they had been rejected for reasons other than whether they meet the Initial Teacher Training (ITT) eligibility criteria. For example, the course they applied to is full, there are no available placements, they have a third class degree and the course requires a second class degree or higher.
 
 We trialled showing an additional question on the rejection screens (conditional on the candidate meeting the ITT eligibility criteria) asking providers if they would recommend the candidate they are rejecting to other training providers. The recommended candidates would join a ‘shortlist’ that other providers could browse.
 
-Providers were unclear about whether it was their responsibility to recommend candidates and how far that responsibility went.  
+Providers were unclear about whether it was their responsibility to recommend candidates and how far that responsibility went.
 
 They also had questions about how:
 
@@ -37,7 +39,7 @@ Users also wanted assurances that:
 * they would not have to commit to using the shortlist
 * they would have enough information about candidates on the shortlist before contacting them
 
-This felt like a promising idea but one that needed more insights to make it practical.  
+This felt like a promising idea but one that needed more insights to make it practical.
 
 ### Co-design December 2024
 
@@ -72,7 +74,7 @@ It had a 14% response rate (72/500), of which 61% of respondents somewhat or str
 
 ## What we did
 
-We prototyped a simple list view of candidates with basic filters to allow providers to search for candidates. The filters allow providers to match candidates by subject, location, full or part-time, under- or post-graduate and visa sponsorship.  
+We prototyped a simple list view of candidates with basic filters to allow providers to search for candidates. The filters allow providers to match candidates by subject, location, full or part-time, under- or post-graduate and visa sponsorship.
 
 Providers can click through to read an abbreviated version of a candidate’s application details.
 
@@ -82,9 +84,9 @@ They can then decide whether to invite them to apply to their course by generati
 
 ### Who should be in the 'pool'?
 
-We agreed that candidates should opt-in to be searchable by other training providers. The hypothesis is that people would be more likely to respond to invitations that they have some expectation of receiving.  
+We agreed that candidates should opt-in to be searchable by other training providers. The hypothesis is that people would be more likely to respond to invitations that they have some expectation of receiving.
 
-We accepted the risk that this could mean fewer candidates available to search for.  
+We accepted the risk that this could mean fewer candidates available to search for.
 
 We agreed that only candidates who have submitted at least 1 application should be searchable by other training providers. This gives us more information to be able to match candidates to courses to in the provider search, for example the locations and subjects of courses they have applied to in the past.
 
@@ -114,17 +116,17 @@ Now that we had a basic design, we wanted to test the assumptions that we had ma
 
 We wanted to use data analysis to identify research participants who were struggling to recruit based on criteria that we defined. However, when we reached out to these training providers we had no response. This was mainly due to the short timelines that we had between recruitment and interviews. In future if we would like to target specific providers instead of either our user research warm prospects or our full provider list, we should leave more time to recruit.
 
-We widened the scope to include more participants and managed to recruit 5 providers from a mix of organisation types.  
+We widened the scope to include more participants and managed to recruit 5 providers from a mix of organisation types.
 
 This is a small sample size but we had a short turnaround time to release the functionality at a time in the recruitment cycle when it would still be useful. We intend to continue to discover new information and validate the insights we gained through data analysis of live usage of the feature and further user research which will give us more confidence in the design decisions.
 
-Of the 5 providers we interviewed, all were receptive to the idea of searching for candidates in order to invite them to apply to their courses:  
+Of the 5 providers we interviewed, all were receptive to the idea of searching for candidates in order to invite them to apply to their courses:
 
-* 3 out of 5 would definitely try it out when it was released.  
+* 3 out of 5 would definitely try it out when it was released.
 * a further 1 said it would depend on their workload as they are already stretched
 * the final person said they would use it if they could see the rejection reasons of candidates in the list.
 
-One of the main findings was that the number of people in the list could be unmanageable for training providers to search through, given how time-poor they are. A desire to filter by quality filters such as degree grade would help them to reduce the number of applications to read through.  
+One of the main findings was that the number of people in the list could be unmanageable for training providers to search through, given how time-poor they are. A desire to filter by quality filters such as degree grade would help them to reduce the number of applications to read through.
 
 The other big finding of this research was that training providers find it difficult to make a confident decision about whether to invite a candidate to apply without knowing why they have withdrawn or been rejected by another provider. It was felt that they could potentially waste time taking someone through to offer stage only to discover that they are unable to progress them.
 
@@ -150,7 +152,7 @@ Other options they raised included:
 
 * knowing how many times someone has been rejected or withdrawn
 * knowing the status but not the reason
-* knowing the reason category but not the specifics  
+* knowing the reason category but not the specifics
 
 This feels like something we should continue to monitor and review. Potentially sharing reasons that relate to the ITT eligibility criteria but not others could support providers to filter candidates more quickly and make good decisions.
 
@@ -171,7 +173,7 @@ We also listed a candidate’s previous applications at the top of the page, inc
 * We reordered the page to have qualifications, work history and unpaid experience and personal statement at the top in that order
 * We moved all past applications to the bottom and displayed them as a table to make them easier to scan
 * We decided to only show the most recent personal statement on the application details page, and to truncate it to 100 works with an option to expand to read the full text
-  * providers judge spelling and grammar in a personal statement, they can do this with a smaller excerpt  
+  * providers judge spelling and grammar in a personal statement, they can do this with a smaller excerpt
   * providers are interested in candidates’ experience in the subject they are applying for, enthusiasm for teaching and interest in the age group they are applying to teach – these things will not vary much from statement to statement so there’s no need to include all statements in this view.
 
 We hope that these changes will make it faster for providers to make a decision about whether to invite a candidate to interview by prioritising the information they find most useful and reducing the volume of information on the page.
@@ -204,7 +206,7 @@ The candidate ID is already in the URL for each application details page, so we 
 
 [screenshot]
 
-## Roll out and launch  
+## Roll out and launch
 
 We considered a pilot period with a phased rollout of this feature. This would have the following benefits:
 
@@ -224,7 +226,7 @@ We will contact providers several times about this feature to encourage take-up 
 
 Starting on 24 April providers received an email from the Permanent Secretary which mentioned Find a candidate as a new way to recruit candidates. This email was followed up with more information about Find a candidate.
 
-One of the key messages that we are keen to land is that Find a candidate is an early version of what this feature could become. We are releasing it now to learn more about how to make it optimally useful in future.  
+One of the key messages that we are keen to land is that Find a candidate is an early version of what this feature could become. We are releasing it now to learn more about how to make it optimally useful in future.
 
 We are also recruiting provider participants for user research in the roll out emails. It’s important that we collect further insights about this feature so that we can improve upon the basic functionality we have launched with. We also need to validate the findings of the lean user research that we have done to date to improve our confidence in the decisions and mitigate some of the risks we identified throughout the process.
 
@@ -238,7 +240,7 @@ We have made information available to Teacher Training Advisers (TTAs) as well s
 
 An improvement that came up in user research that we did not have time to implement before release was the ability for providers to edit the invitation email before it is sent.
 
-Some research participants said they would want to speak to a candidate on the phone before receiving an application from them. Others said they could include information about why they thought that candidate was suitable for their course to increase the likelihood of them submitting an application. We felt that allowing providers to personalise the invite email would bring some flexibility into the feature which could have several benefits. We will try to include this functionality shortly after the initial release.  
+Some research participants said they would want to speak to a candidate on the phone before receiving an application from them. Others said they could include information about why they thought that candidate was suitable for their course to increase the likelihood of them submitting an application. We felt that allowing providers to personalise the invite email would bring some flexibility into the feature which could have several benefits. We will try to include this functionality shortly after the initial release.
 
 We will monitor live usage of the feature including:
 
@@ -248,6 +250,6 @@ We will monitor live usage of the feature including:
 * the number of offers made and accepted from an invited application
 
 [screenshot]
-We will also monitor the number of invitations individuals are receiving to gauge if they are overwhelmed.  
+We will also monitor the number of invitations individuals are receiving to gauge if they are overwhelmed.
 
 We have planned further user research with providers to understand their use of the feature and ways we can improve it in future.
