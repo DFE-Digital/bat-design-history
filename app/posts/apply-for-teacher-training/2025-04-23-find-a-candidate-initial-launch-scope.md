@@ -5,6 +5,9 @@ date: 2025-04-23
 tags:
   - reapplication
   - find a candidate
+eleventyComputed:
+  eleventyNavigation:
+    key: apply-teacher-training-find-a-candidate
 ---
 
 ## Background
