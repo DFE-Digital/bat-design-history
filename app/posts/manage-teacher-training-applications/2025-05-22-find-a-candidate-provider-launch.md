@@ -80,7 +80,7 @@ Providers can click through to read an abbreviated version of a candidate’s ap
 
 They can then decide whether to invite them to apply to their course by generating a system email to the candidate.
 
-! [Screenshot of the search results with filters on the left](/manage-teacher-training-applications/find-a-candidate-provider-launch/early-filter-design.jpg)
+![Screenshot of the search results with filters on the left](early-filter-design.jpg)
 
 ### Who should be in the 'pool'?
 
@@ -106,7 +106,7 @@ The initial round of research with providers showed that this was not an issue i
 
 We decided to apply a candidate number to the obscured names to support this whilst maintaining the anonymity of the candidates.
 
-! [Screenshot of the candidate ID](/manage-teacher-training-applications/find-a-candidate-provider-launch/application-details.jpg)
+![Screenshot of the candidate ID](application-details.jpg)
 
 ### User research
 
@@ -190,7 +190,7 @@ We wanted to make this information available to providers searching for candidat
 
 We decided to include the degree type and grade in the search results. There is a risk that this could add cognitive load to the results page and this is something we should monitor in future research.
 
-! [Screenshot of the search results showing degree results](/manage-teacher-training-applications/find-a-candidate-provider-launch/qualifications-in-search-result-view.jpg)
+![Screenshot of the search results showing degree results](qualifications-in-search-result-view.jpg)
 
 ### Adding a unique candidate identifier
 
@@ -204,7 +204,7 @@ Whilst we will design in-service sharing and shortlisting journeys beyond the in
 
 The candidate ID is already in the URL for each application details page, so we are just surfacing it in a more user-friendly way for providers.
 
-! [Screenshot of the candidate ID](/manage-teacher-training-applications/find-a-candidate-provider-launch/candidate-identification-number.jpg)
+![Screenshot of the candidate ID](candidate-identification-number.jpg)
 
 ## Roll out and launch
 
@@ -249,7 +249,7 @@ We will monitor live usage of the feature including:
 * the number of candidates who apply from an invitation
 * the number of offers made and accepted from an invited application
 
-! [Screenshot of the data analysis areas of interest including the pipeline of opt-ins to applications to offers](/manage-teacher-training-applications/find-a-candidate-provider-launch/data-analysis-flow-chart.png)
+![Screenshot of the data analysis areas of interest including the pipeline of opt-ins to applications to offers](data-analysis-flow-chart.png)
 
 We will also monitor the number of invitations individuals are receiving to gauge if they are overwhelmed.
 
