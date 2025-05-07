@@ -94,7 +94,7 @@ This was also something that came out of the co-design workshop in December when
 
 The other concern that providers raised in the co-design session was around ‘poaching’ - training providers targeting candidates who have an application in progress with another provider. Smaller organisations were particularly worried about this as they don’t have the capacity to interview quickly, so were worried that bigger organisations with more capacity would be able to offer places to the best candidates more quickly.
 
-Because of this concern, we decided that only candidates who were do not have any open applications would be searchable. This means that candidates who are rejected, withdrawn or inactive are all searchable.
+Because of this concern, we decided that only candidates who do not have any open applications would be searchable. This means that candidates who are rejected, withdrawn or inactive are all searchable.
 
 ### Application details
 
