@@ -7,18 +7,6 @@ tags:
   - research
   - accounts
   - candidates
-screenshots:
-  items:
-    - text: Navigation change
-      src: navigation_change.png
-    - text: Save course function
-      src: save_course_function.png
-    - text: Save course by location
-      src: save_course_by_location.png
-    - text: Adding notes
-      src: adding_notes.png
-    - text: Adding nearby courses
-      src: adding_nearby_courses.png
 ---
 
 The Find teacher training courses (Find) team wanted to understand how teacher training candidates would react to a candidate account feature being introduced on the service.
