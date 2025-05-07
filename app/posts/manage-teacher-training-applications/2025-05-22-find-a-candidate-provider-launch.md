@@ -106,7 +106,7 @@ The initial round of research with providers showed that this was not an issue i
 
 We decided to apply a candidate number to the obscured names to support this whilst maintaining the anonymity of the candidates.
 
-![Screenshot of the candidate ID](application-details.jpg)
+![Screenshot of the application details page](application-details.png)
 
 ### User research
 
