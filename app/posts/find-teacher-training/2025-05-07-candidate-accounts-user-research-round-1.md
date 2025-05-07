@@ -59,7 +59,7 @@ In total, we recruited 21 participants from internal database.
 
 We adopted the following methodology:
 
-- One-to-one user testing interviews to observe participants as they navigate the Find prototype to look at training courses.
+One-to-one user testing interviews to observe participants as they navigate the Find prototype to look at training courses.
 
 The interviews were broken down into three parts:
 
@@ -84,6 +84,7 @@ We made changes to six elements of the prototype during the round of research, b
 1. Changes to the navigation to the Apply service from Find
 
 After the interview the participant 1, changes were made to the navigation from the Find service to the Apply service. Navigation buttons were added to the “you selected a course” page to allow users to continue with their application or cancel and return to the course page.
+
 Throughout the interview process, iterations were continuously made to the navigation flow to make it clearer to participants that they are moving onto the Apply service once they had clicked apply for a course. This included text stating “continue to the apply for teacher training website in order to apply for this course”.
 
 ![screenshot of navigation changes](navigation_change.png)
