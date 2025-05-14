@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "private": true,
   "engines": {
-    "node": ">=22"
+    "node": ">=20"
   },
   "description": "A history of the product, design, technology and policy decisions shaping the services that enable and support trainee teacher recruitment",
   "keywords": [
