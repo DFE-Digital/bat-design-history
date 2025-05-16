@@ -56,7 +56,7 @@ Participants felt there was merit in some of the ideas surfaced in both concepts
 #### Supporting detail and evidence
 
 - The ‘find a school’ concept with additional data items on travel time, whether schools have hosted placements before, and mentor details could be useful to help participants decide whether a new school was worth contacting.
-- This tallies with feedback obtained from providers in our [recent survey](/manage-school-placements/user-research-round-8-and-9-findings/).
+- This tallies with feedback obtained from providers in our [recent survey](/manage-school-placements/understanding-more-about-ITT-provider-ways-of-working/).
 - Participants also responded positively to the addition of trainee data within concept 2.
 - Most would welcome the functionality to be able to post their placement needs publicly to schools, as long as other providers could not see this information.
 
@@ -70,7 +70,7 @@ Current ways of working are working:
 
 #### Supporting detail and evidence
 
-- As seen in user research [round 8](/manage-school-placements/user-research-round-8-and-9-findings/), providers seem relatively happy with their existing tools and ways of working. They are resistant to change.
+- As seen in user research [round 8](/manage-school-placements/understanding-more-about-ITT-provider-ways-of-working/), providers seem relatively happy with their existing tools and ways of working. They are resistant to change.
 - While some participants could see the benefits of our system, particularly when trying to find a new school in an area they had not worked with before, they had concerns about the dual running of systems.
 - Providers are very protective of the relationships they have with schools in their network. They have concerns that a centralised digital service for ITT placements  could disrupt the market. They fear ‘losing out’ to other providers if a school could easily work with them.
 - Participants also thought the level of commitment was unclear if a school responded to a call out within concept 2.
@@ -85,7 +85,7 @@ Offline communications and communications outside of our service will still exis
 
 - Participants, particularly smaller providers talked about the close relationships they have with the schools they work with. They carry out due diligence to ensure both trainee and school have a good experience, intervening when things go wrong.
 - There are fears among participants that a centralised digital service could interfere with these established personal relationships, either because other providers will be able to contact schools easily, potentially taking their placements, or because communications would be expected to be held within the service, rather than through existing, potentially offline channels.
-- From this round of research, and the research in [round 8](/manage-school-placements/user-research-round-8-and-9-findings/), we know our service forms a small part of a much bigger journey. Communications between provider and school will still need to take place outside of this service.
+- From this round of research, and the research in [round 8](/manage-school-placements/understanding-more-about-ITT-provider-ways-of-working/), we know our service forms a small part of a much bigger journey. Communications between provider and school will still need to take place outside of this service.
 
 > “Those schools that work with us, we've got really good relationships with and  it's done very much on that personal level. Of course, as soon as you then introduce a generic system, then obviously you run the risk of losing some of that person-ability… It could solve some of our problems because we do have some trainees where we [have to try] to source a placement. [But] I wouldn't want to lose my schools that work with us every year.” - SCITT
 
@@ -110,7 +110,7 @@ As part of this research, we generated a series of 'how might we' statements to 
 
 We also plan to iterate and improve our provider personas and user needs, based on the evidence gathered from this round of research and previous rounds.
 
-We are confident from the feedback gathered in this round of testing and the [recent provider survey](/manage-school-placements/user-research-round-8-and-9-findings/), that adding relevant data we hold from other DfE services will be useful. We will look to implement this in the existing service as soon as possible.
+We are confident from the feedback gathered in this round of testing and the [recent provider survey](/manage-school-placements/understanding-more-about-ITT-provider-ways-of-working/), that adding relevant data we hold from other DfE services will be useful. We will look to implement this in the existing service as soon as possible.
 
 We will also look to iterate and improve usability issues observed in this round of research, for example:
 
