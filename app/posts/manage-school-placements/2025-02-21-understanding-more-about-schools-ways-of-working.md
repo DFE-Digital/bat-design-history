@@ -97,4 +97,4 @@ Our team are now defining and designing a series of concepts which aim to give s
 - Allowing schools to ‘express their interest’ in ITT without committing to hosting.
 - Assigning placements to preferred providers.
 - Enabling Multi Academy Trust level access.
-- Highlighting special schools, to spotlight them as good placement options.  s
+- Highlighting special schools, to spotlight them as good placement options.
