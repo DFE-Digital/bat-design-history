@@ -1,6 +1,6 @@
 ---
-title: User research round 11 findings
-description: Testing two new concepts with ITT providers – ‘Find a school’ and ‘Generate and promote placements’
+title: Concept testing with providers
+description: In round 11 of user research we tested two new concepts with ITT providers – ‘Find a school’ and ‘Generate and promote placements’
 date: 2025-02-25
 tags:
   - research
