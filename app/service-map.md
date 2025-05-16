@@ -122,7 +122,7 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
         "href": "https://check-the-childrens-barred-list.education.gov.uk"
       },
       {
-        "name": "Appropriate Body Portal",
+        "name": "Record Inductions as an Appropriate Body",
         "href": "https://teacherservices.education.gov.uk/appropriatebody/index/appropriatebody"
       }
     ]
