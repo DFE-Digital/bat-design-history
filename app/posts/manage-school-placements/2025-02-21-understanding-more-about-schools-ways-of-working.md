@@ -1,6 +1,6 @@
 ---
-title: Understanding more about school's ways of working
-description: Round 10 of user research helped us gain a good understanding of school's processes when deciding to offer placements
+title: Understanding more about schools' ways of working
+description: Round 10 of user research helped us gain a good understanding of schools' processes when deciding to offer placements
 date: 2025-02-21
 tags:
   - research
