@@ -82,7 +82,7 @@ Special schools are not being offered placements. They highlighted gaps in ITT p
 - Headteachers of special schools said more is needed to prepare trainee teachers for the realities of teaching pupils with SEND. Providers were not reaching out to them about placements longer than a day or two.
 - They believed more emphasis is needed on SEND in ITT and that this could be having an impact on retention.
 
-> "Some of [our] classes would present quite a high level of need or challenge, whether that's behaviour or SEND. So we felt that… it wasn't really very fair to put new teachers or training teachers into that... the amount of children that we are holding mean that… in most classes we have one or two children that are sort of out of the realms of a typical kind of class" - Primary special school not offering placements
+> "Some of [our] classes would present quite a high level of need or challenge, whether that's behaviour or SEND. So we felt that… it wasn't really very fair to put new teachers or training teachers into that... the amount of children that we are holding mean that… in most classes we have one or two children that are sort of out of the realms of a typical kind of class" - Primary school not offering placements
 
 > " There's going to be more and more and more kids every year coming through the system with EHCPs, which means they need people who get these kids and can support them to be the best they can." - Headteacher of a special needs school
 
