@@ -24,6 +24,7 @@ The goal of user research round 11 was to gain early feedback on two potential c
 - The ‘Find a school’ concept which incorporates data on  whether schools have hosted placements for trainee teachers before (from the ‘Register trainee teachers’ service) and data on trained mentors in schools (from the ‘Claim funding for mentor training’ service).
 
 - The ‘Generate and promote placements’ concept which:
+
 1. incorporates trainee data from the ‘Manage teacher training applications’ service
 2. allows providers to inform schools of the placements they need – both schools they have and have not worked with before.
 
