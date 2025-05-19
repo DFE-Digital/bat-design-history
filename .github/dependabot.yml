@@ -7,4 +7,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 10
+    ignore:
+      - dependency-name: "@11ty/eleventy"
+        update-types: ["version-update:semver-minor", "version-update:semver-patch"]
