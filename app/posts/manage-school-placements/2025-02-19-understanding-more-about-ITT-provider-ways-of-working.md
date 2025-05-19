@@ -11,7 +11,7 @@ tags:
 
 In round 8 we visited two Universities and observed their tools in use. We then interviewed three School Centred ITT providers (SCITTs) and asked them to show us the tools they used. All participants helped us map out the steps they took to find placements and place trainees throughout the year.
 
-In round 9, we issued a survey to all accredited providers who use our 'Register trainee teachers (Register) service:
+In round 9, we issued a survey to all accredited providers who use our Register trainee teachers (Register) service:
 
 - We received 96 survey responses from 77 distinct organisations
 - This is 45.3% of all accredited providers
