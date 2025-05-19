@@ -1,7 +1,7 @@
 ---
 title: Understanding more about ITT provider ways of working
 description: Rounds 8 and 9 of user research helped us gain a good understanding of providers' tools and processes when organising school placements for trainee teachers.
-date: 2025-02-19
+date: 2024-11-29
 tags:
   - research
   - school placements
