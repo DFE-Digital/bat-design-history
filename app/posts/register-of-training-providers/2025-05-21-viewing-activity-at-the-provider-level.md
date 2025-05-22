@@ -12,7 +12,7 @@ related:
 screenshots:
   items:
     - text: Provider activity log
-      src: activity-log-provider--provider.png
+      src: activity-log--provider.png
 ---
 
 In our [first post](/register-of-training-providers/tracking-activity-across-the-service/), we explained why we introduced an activity log and described the global view. This post focuses on how we built a provider-specific view of activity.
