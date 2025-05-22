@@ -43,6 +43,7 @@ Users can access the global activity log from the main navigation. It includes a
 ## How it works
 
 We only log activity when something has changed. This prevents the activity log from becoming bloated with items that do not reflect a real change.
+
 ### Activity item
 
 ![Template activity item](activity-log--template-activity-item.png "Template activity item")
@@ -232,7 +233,6 @@ We considered some changes that we did not implement. These included:
 ### Highlighting changes
 
 ### Downloading the log
-
 
 *[API]: application programming interface
 *[DfE]: Department for Education
