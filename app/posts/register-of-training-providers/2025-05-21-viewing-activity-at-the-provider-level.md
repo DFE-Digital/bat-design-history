@@ -43,6 +43,7 @@ This view uses the same data as the global log, but filtered to only show change
 Users access this view through the secondary navigation on a provider’s page.
 
 ![Provider activity log secondary navigation](activity-log-provider--secondary-navigation.png "Provider secondary navigation")
+
 ## How it works
 
 We only log activity when something has changed. This prevents the activity log from becoming bloated with items that do not reflect a real change.
