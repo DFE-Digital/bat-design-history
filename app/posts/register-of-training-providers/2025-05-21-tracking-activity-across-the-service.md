@@ -224,15 +224,34 @@ We considered some changes that we did not implement. These included:
 - search and filters
 - links from activity items to the relevant record
 - highlighting the changes
-- downloading the log
+- notifying users of activity
 
 ### Search and filters
 
+As the activity log grows, we will consider adding search and filters to make it easier to find items within the log.
+
+The search could be used to find specific changes or keywords.
+
+The filters could include by date or action type.
+
 ### Links from activity items to the relevant record
+
+To improve the utility of the activity log, we could link specific items on the log to the associated record, for example, a link to the provider’s current details.
+
+We will need to take into account how this interaction would work for deleted records. For example, if there are several records logging changes to the provider record and the last record logs that the provider was deleted, we would not be able to link any of the activity items to the provider record since it no longer exists (despite the fact we soft-delete data).
 
 ### Highlighting changes
 
-### Downloading the log
+Highlighting changes can take several forms. For example:
+
+- showing what has changed since the user last signed in
+- showing the before and after state for a given activity item in the log
+
+At this time, we have not considered highlighting changes as we have not established a strong need for it.
+
+### Notifying users of activity
+
+In future, we will explore notifying users of activity. For example, we could send a daily or weekly digest alerting subscribers to changes made within the service.
 
 *[API]: application programming interface
 *[DfE]: Department for Education
