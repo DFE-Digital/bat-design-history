@@ -61,7 +61,7 @@ We applied the new [GOV.UK footer](https://design-system.service.gov.uk/componen
 
 ### Phase banner
 
-We have moved the [GOV.UK phase banner](https://design-system.service.gov.uk/components/phase-banner/) to below the service navigation.
+We moved the [GOV.UK phase banner](https://design-system.service.gov.uk/components/phase-banner/) to below the service navigation.
 
 ## Why we changed it
 
