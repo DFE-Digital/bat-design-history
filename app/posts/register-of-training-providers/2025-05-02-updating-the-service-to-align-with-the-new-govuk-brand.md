@@ -1,6 +1,6 @@
 ---
 title: Updating the service to align with the new GOV.UK brand
-description: We updated the service to reflect the new GOV.UK brand guidelines, which all government services must adopt by the end of June 2025
+description: We updated the service to reflect the new GOV.UK brand guidelines, which all government services must adopt by 25 June 2025 or as soon after this date as possible
 date: 2025-05-02
 tags:
   - gov.uk
@@ -16,7 +16,7 @@ screenshots:
       src: your-account.png
 ---
 
-We’ve updated the design of the Register of training providers service to reflect the new GOV.UK brand guidelines, which all government services must adopt by the end of June 2025.
+We’ve updated the design of the Register of training providers service to reflect the new GOV.UK brand guidelines, which all government services must adopt by 25 June 2025 or as soon after this date as possible.
 
 ## What we changed
 
@@ -69,4 +69,4 @@ These changes were made to align with the GOV.UK Design System’s updated brand
 
 ## Further considerations
 
-We’ll monitor for any additional updates to the guidance before the end-of-June deadline and adjust the service if needed. Some visual differences (such as secondary navigation colour treatment) may be revisited as GOV.UK components evolve.
+We’ll monitor for any additional updates to the guidance before the 25 June 2025 deadline and adjust the service if needed. Some visual differences (such as secondary navigation colour treatment) may be revisited as GOV.UK components evolve.
