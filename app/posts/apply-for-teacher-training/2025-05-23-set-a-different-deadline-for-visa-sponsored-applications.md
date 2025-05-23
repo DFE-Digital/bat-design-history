@@ -1,7 +1,7 @@
 ---
 title: Set a different deadline for candidates who need visa sponsorship
 description: Helping candidates to apply in good time so they can start their course on time.
-date: 2024-10-15
+date: 2025-05-23
 tags:
   - international
   - visa sponsorship
@@ -19,11 +19,9 @@ The training provider does additional checks on international applications, for 
 
 Some candidates who require a visa are applying too late in the cycle for these checks to take place before the course starts.
 
-## What we plan to do
+## What we have done
 
-**None of these changes have been pushed live into the services at this time.**
-
-We will add a question to the Publish journey to ask providers who have said that they can sponsor visas whether they would like to close their course to candidates who need a visa before the course closing date.  
+We have added a question to the Publish journey to ask providers who have said that they can sponsor visas whether they would like to close their course to candidates who need a visa before the course closing date.  
 
 The training provider can select any date to close the course to candidates who need a visa.  
 
@@ -36,6 +34,8 @@ If they have applied to more than one course they will see a banner warning for 
 There will also be a warning banner on each application.
 
 When the deadline has passed without the candidate submitting their application, they will see a note telling them what has happened and directing them to search for another course.
+
+These changes went live on 13 May 2025.
 
 ## Research with candidates and training providers
 
