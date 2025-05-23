@@ -69,4 +69,4 @@ These changes were made to align with the GOV.UK Design System’s updated brand
 
 ## Further considerations
 
-We’ll monitor for any additional updates to the guidance before the end-of-June deadline and adjust the prototype if needed. Some visual differences (such as secondary navigation colour treatment) may be revisited as GOV.UK components evolve
+We’ll monitor for any additional updates to the guidance before the end-of-June deadline and adjust the service if needed. Some visual differences (such as secondary navigation colour treatment) may be revisited as GOV.UK components evolve.
