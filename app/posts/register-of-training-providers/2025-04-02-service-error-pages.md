@@ -102,8 +102,8 @@ This page includes:
 
 This page includes:
 
-- the page title - ‘Ask for an account to Register of training providers - Register of training providers - GOV.UK’
-- the heading - ‘Ask for an account to Register of training providers’
+- the page title - ‘Ask for an account to access the Register of training providers - Register of training providers - GOV.UK’
+- the heading - ‘Ask for an account to access the Register of training providers’
 - content telling the user they need an account to access the service
 - an email address for the user to contact us
 
