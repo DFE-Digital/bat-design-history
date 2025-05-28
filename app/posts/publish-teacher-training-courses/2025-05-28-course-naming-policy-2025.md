@@ -3,15 +3,13 @@ title: Course naming policy
 description: Updated internal guidance on course naming rules for Publish
 date: 2025-05-28
 tags:
-
 - Publish
 - Course names
 - Find
 related:
   items:
-  - text: Initial guidance on how training providers should name their courses
-      href: <https://becoming-a-teacher.design-history.education.gov.uk/publish-teacher-training-courses/guidance-on-how-training-providers-should-name-their-courses/>
-
+    - text: Initial guidance on how training providers should name their courses
+      href: /publish-teacher-training-courses/guidance-on-how-training-providers-should-name-their-courses/
    ---
 
 The Publish teacher training courses (Publish) team wanted to standardise course names and introduce a new policy to inform this.
@@ -20,7 +18,7 @@ When creating new courses in Publish, providers can only choose structured optio
 
 As such, when they want to create a course with a unique name, they email the Support team to request this.
 
-Previously, this team would refer to the [original guidance produced in 2022]( https://becoming-a-teacher.design-history.education.gov.uk/publish-teacher-training-courses/guidance-on-how-training-providers-should-name-their-courses/) in order to determine whether the bespoke course could be actioned.
+Previously, this team would refer to the [original guidance produced in 2022](/publish-teacher-training-courses/guidance-on-how-training-providers-should-name-their-courses/) in order to determine whether the bespoke course could be actioned.
 
 However, feedback from the team suggested that this original policy needed to be updated.
 
