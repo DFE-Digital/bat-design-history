@@ -81,7 +81,6 @@ The key rules for specialisms are:
 - all specialisms should be written within closed round brackets e.g. (X)  
 - if one of the specialisms (e.g. a language) is eligible for a bursary or scholarship it should be written first
 - ‘or’ and ‘additional subjects’ must not be used to show a selection of specialisms. Separate courses should be created, or details of options included in the course description
--
 
 ## Permitted specialisms
 
@@ -98,7 +97,6 @@ The next sections detail subject specific specialism.
 - Electronics  
 - Engineering  
 - Textiles
--
 
 ### With modern languages only
 
@@ -109,7 +107,6 @@ The next sections detail subject specific specialism.
 - Mandarin  
 - Russian  
 - Spanish
--
 
 This list is not exhaustive. Any other modern language is permitted to be added manually as a specialism.
 
