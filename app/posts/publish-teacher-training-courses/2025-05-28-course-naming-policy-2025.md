@@ -3,6 +3,7 @@ title: Course naming policy
 description: Updated internal guidance on course naming rules for Publish
 date: 2025-05-28
 tags:
+
 - Publish
 - Course names
 - Find
