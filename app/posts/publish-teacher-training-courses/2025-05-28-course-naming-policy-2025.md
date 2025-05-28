@@ -3,12 +3,13 @@ title: Course naming policy
 description: Updated internal guidance on course naming rules for Publish
 date: 2025-05-28
 tags:
+
 - Publish
 - Course names
 - Find
 related:
   items:
-    - text: Initial guidance on how training providers should name their courses
+  - text: Initial guidance on how training providers should name their courses
       href: /publish-teacher-training-courses/guidance-on-how-training-providers-should-name-their-courses/
    ---
 
