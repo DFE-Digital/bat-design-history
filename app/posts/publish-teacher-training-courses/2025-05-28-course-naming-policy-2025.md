@@ -3,14 +3,13 @@ title: Course naming policy
 description: Updated internal guidance on course naming rules for Publish
 date: 2025-05-28
 tags:
-
 - Publish
 - Course names
 - Find
 related:
   items:
   - text: Initial guidance on how training providers should name their courses
-      href: /publish-teacher-training-courses/guidance-on-how-training-providers-should-name-their-courses/
+    href: /publish-teacher-training-courses/guidance-on-how-training-providers-should-name-their-courses/
    ---
 
 The Publish teacher training courses (Publish) team wanted to standardise course names and introduce a new policy to inform this.
