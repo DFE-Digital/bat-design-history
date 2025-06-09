@@ -13,6 +13,9 @@ related:
     - text: Naming your service
       description: GOV.UK service manual
       href: https://www.gov.uk/service-manual/design/naming-your-service
+    - text: Get a service domain name
+      description: GOV.UK service manual
+      href: https://www.gov.uk/service-manual/technology/get-a-domain-name
     - text: Choose your .gov.uk domain name
       description: GOV.UK guidance
       href: https://www.gov.uk/guidance/choose-your-govuk-domain-name
