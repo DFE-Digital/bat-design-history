@@ -42,7 +42,7 @@ We include:
 - flow name
 - action or question
 
-Example
+#### Example
 
 - Caption: “Add provider”
 - Title: “Is the provider accredited?”
@@ -57,7 +57,7 @@ We include:
 - _thing_ name
 - Action or question
 
-Example
+#### Example
 
 - Caption: “Add partnership - National Institute of Teaching”
 - Title: “Enter training partner name, UKPRN or URN”
@@ -68,12 +68,16 @@ This format helps the user see what they are working on and which provider it re
 
 ### 1. Adding a provider
 
+![Add provider caption](heading-caption--add-provider.png)
+
 Caption: “Add provider”
 Title: “Is the provider accredited?”
 
 This caption matches the action the user chose on the previous page and confirms they are in the correct flow.
 
-### 2. Editing provider details
+### 2. Change provider details
+
+![Change provider details caption](heading-caption--change-provider-details.png)
 
 Caption: “National Institute of Teaching”
 Title: “Provider details”
@@ -81,6 +85,8 @@ Title: “Provider details”
 We omit the flow name here. “Change provider - National Institute of Teaching” adds no extra value and makes the caption harder to scan.
 
 ### 3. Adding a partnership
+
+![Add provider partnership caption](heading-caption--add-provider-partnership.png)
 
 Caption: “Add partnership - National Institute of Teaching”
 Title: “Check your answers”
@@ -95,7 +101,7 @@ Once a flow starts, we carry the same caption through to every step. This reassu
 
 ### Use a summary if more detail is needed
 
-If more context is needed than the caption allows, we introduce a short summary above the heading. This is especially useful in review steps or when we show related data from other parts of the service.
+If more context is needed than the caption allows, we introduce a summary between the heading and the question. This is useful in review steps or when we show related data from other parts of the service.
 
 ### Include captions in the page title
 
@@ -108,7 +114,9 @@ To improve accessibility and make browser tabs easier to identify, we include ca
 
 For example:
 
-`Enter training partner name, UKPRN or URN – Add partnership – National Institute of Teaching – Register of training providers – GOV.UK`
+```text
+Enter training partner name, UKPRN or URN - Add partnership - National Institute of Teaching - Register of training providers - GOV.UK
+```
 
 This makes it easier for users to return to the correct tab when switching between systems or working across providers.
 
