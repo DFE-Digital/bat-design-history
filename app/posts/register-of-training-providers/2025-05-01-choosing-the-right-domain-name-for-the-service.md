@@ -13,6 +13,9 @@ related:
     - text: Naming your service
       description: GOV.UK service manual
       href: https://www.gov.uk/service-manual/design/naming-your-service
+    - text: Choose your .gov.uk domain name
+      description: GOV.UK guidance
+      href: https://www.gov.uk/guidance/choose-your-govuk-domain-name
 ---
 
 We chose `register-of-training-providers.education.gov.uk` as the domain name for the service. Like the [service name](/register-of-training-providers/naming-the-service/), the domain needs to be clear, descriptive, and trustworthy.
