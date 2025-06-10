@@ -14,19 +14,15 @@ related:
       href: https://design-system.service.gov.uk/components/notification-banner/
 ---
 
-We use banners to provide users with timely and clear feedback as they interact with the service. This feedback includes:
+We use banners to provide users with timely and clear feedback as they interact with the service.
 
-- telling users when something has gone wrong
-- confirming the user has completed something
-- alerting users to something important
+Following the [GOV.UK Design System guidance](https://design-system.service.gov.uk/components/), we use three types of banners:
 
-Following the [GOV.UK Design System guidance](https://design-system.service.gov.uk/components/), we use three types of banners in the service:
+- error summaries - telling users when something has gone wrong
+- notification banners - alerting users to something important
+- success messages - confirming the user has completed something
 
-- error summaries
-- notification banners
-- success messages
-
-Each type plays a different role. We aim to use banners consistently and clearly to help users stay on track.
+Each type plays a different role. We aim to use banners consistently and clearly to help users stay informed.
 
 ## Error summaries
 
