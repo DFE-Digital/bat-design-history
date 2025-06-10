@@ -75,7 +75,7 @@ Title: “Is the provider accredited?”
 
 This caption matches the action the user chose on the previous page and confirms they are in the correct flow.
 
-### 2. Change provider details
+### 2. Changing provider details
 
 ![Change provider details caption](heading-caption--change-provider-details.png)
 
@@ -89,7 +89,7 @@ We omit the flow name here. “Change provider - National Institute of Teaching�
 ![Add provider partnership caption](heading-caption--add-provider-partnership.png)
 
 Caption: “Add partnership - National Institute of Teaching”
-Title: “Check your answers”
+Title: “Enter training partner name, UKPRN or URN”
 
 This indicates to the user that they are still in the partnership flow and reminds them of the provider they are currently working with.
 
