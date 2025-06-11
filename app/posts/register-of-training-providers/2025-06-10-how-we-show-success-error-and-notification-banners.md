@@ -90,6 +90,6 @@ When using the notification banner full width, the content within it will show t
 
 Despite this issue, we chose to keep all banners full-width for now to maintain consistency.
 
-The service only has one error message, which could be a problem: "Enter a Department for Education email address in the correct format, like name@education.gov.uk".
+The service only has one error message, which could be a problem: "Enter a Department for Education email address in the correct format, like <name@education.gov.uk>".
 
 We plan to monitor this and may revisit the styling in future.
