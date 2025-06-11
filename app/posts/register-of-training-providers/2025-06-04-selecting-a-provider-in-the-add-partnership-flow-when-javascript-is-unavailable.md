@@ -35,6 +35,8 @@ screenshots:
       src: add-partnership--form-autocomplete.png
     - text: Finding a provider - using a standard input
       src: add-partnership--form-input.png
+    - text: Finding a provider - standard input with an error
+      src: add-partnership--form-input-with-errors.png
     - text: Selecting a provider - list of providers with many results
       src: add-partnership--list-01.png
     - text: Selecting a provider - list of providers with less than 15 results
