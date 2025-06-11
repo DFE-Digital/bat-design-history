@@ -22,7 +22,7 @@ Following the [GOV.UK Design System guidance](https://design-system.service.gov.
 - notification banners - alerting users to something important
 - success messages - confirming the user has completed something
 
-Each type plays a different role. We aim to use banners consistently and clearly to help users stay informed.
+While each type plays a different role, we aim to use banners consistently and clearly to help users stay informed.
 
 ## Error summaries
 
@@ -82,10 +82,14 @@ To avoid inconsistency and unexpected layout shifts, we made a deliberate design
 
 This decision gives users a consistent experience and ensures that banners always align with the most prominent elements on the page.
 
+We do not show more than one banner at the same time on the same page.
+
 ### Problems with full-width error banners
 
-The error summary component was designed to sit within a two-thirds layout. When stretched to full width, the text does not wrap neatly, unlike the notification banner.
+When using the notification banner full width, the content within it will show two-thirds of the width. The error summary does not behave the same way; when displaying the summary in full width, the content does not wrap at two-thirds of the width.
 
 Despite this issue, we chose to keep all banners full-width for now to maintain consistency.
+
+The service only has one error message, which could be a problem: "Enter a Department for Education email address in the correct format, like name@education.gov.uk".
 
 We plan to monitor this and may revisit the styling in future.
