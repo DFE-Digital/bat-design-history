@@ -74,11 +74,11 @@ Lookup fields – tools like postcode lookups and autocomplete reduce effort.
 
 ### What is unclear or confusing
 
-Terminology – acronyms like UKPRN and URN were not always clear; field hints lacked context.
+Terminology – participants were unsure about using expanded acronyms, such as UK provider reference number (UKPRN) and unique reference number (URN), for an internal service; some field hints lacked context.
 
-Field behaviour – for example, should an empty end date mean a record is ongoing?
+Field behaviour – participants wondered whether missing fields (such as accreditation end date) indicated that the accreditation was ongoing, and whether a checkbox would provide clearer information.
 
-Buttons and links – having too many “Change” links in a row can confuse users.
+Buttons and links – participants mentioned that having too many “Change” links in a row can confuse users; should empty fields have “Add” links?
 
 Visual consistency – inconsistent headings and link labels made some pages feel unpolished.
 
@@ -86,7 +86,7 @@ Visual consistency – inconsistent headings and link labels made some pages fee
 
 Address limitations – participants questioned why they could not add multiple addresses during the ‘Add provider’ flow.
 
-Destructive actions – archive and delete buttons felt too easy to select by mistake.
+Destructive actions – participants felt the “Archive” button and delete links were too easy to select by mistake.
 
 Accreditation logic – participants were unsure about date rules, expiry handling and error messages.
 
@@ -94,7 +94,9 @@ Accreditation logic – participants were unsure about date rules, expiry handli
 
 Content support – add help links and hint text, especially for codes like UKPRN and provider type.
 
-Interaction design – reduce the number of change links by using the summary card pattern.
+Interaction design – participants suggested reducing the number of change links by using the summary card pattern.
+
+Data enrichment – consider using alternatives to “Not entered” such as “Ongoing”, “Not applicable”, or “To be confirmed”.
 
 System feedback – make it transparent why we show data like geolocation and how we generate it.
 
