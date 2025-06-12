@@ -20,7 +20,7 @@ We designed the crits to:
 - check how well the content and components worked in context
 - get a broader range of perspectives from colleagues across different disciplines
 
-This helped us avoid design decisions being made in isolation.
+This approach helped us avoid making design decisions in isolation.
 
 ## What we reviewed
 
@@ -68,49 +68,49 @@ We will invite more disciplines next time, such as developers, policy colleagues
 
 Flows are logical and intuitive, especially for adding providers and managing partnerships.
 
-Activity visibility - participants liked being able to see a history of changes.
+Activity visibility – participants liked being able to see a history of changes.
 
-Lookup fields - tools like postcode lookups and autocomplete reduce effort.
+Lookup fields – tools like postcode lookups and autocomplete reduce effort.
 
 ### What is unclear or confusing
 
-Terminology - acronyms like UKPRN and URN were not always clear; field hints lacked context.
+Terminology – acronyms like UKPRN and URN were not always clear; field hints lacked context.
 
-Field behaviour - for example, should an empty end date mean a record is ongoing?
+Field behaviour – for example, should an empty end date mean a record is ongoing?
 
-Buttons and links - having too many “Change” links in a row can confuse users.
+Buttons and links – having too many “Change” links in a row can confuse users.
 
-Visual consistency - inconsistent headings and link labels made some pages feel unpolished.
+Visual consistency – inconsistent headings and link labels made some pages feel unpolished.
 
 ### Blockers and pain points
 
-Address limitations - participants questions why they could not add multiple addresses during the ‘Add provider’ flow.
+Address limitations – participants questioned why they could not add multiple addresses during the ‘Add provider’ flow.
 
-Destructive actions - archive and delete buttons felt too easy to select by mistake.
+Destructive actions – archive and delete buttons felt too easy to select by mistake.
 
-Accreditation logic - participants were unsure about date rules, expiry handling and error messages.
+Accreditation logic – participants were unsure about date rules, expiry handling and error messages.
 
 ### Ideas and opportunities
 
-Content support - add help links and hint text, especially for codes like UKPRN and provider type.
+Content support – add help links and hint text, especially for codes like UKPRN and provider type.
 
-Interaction design - reduce the number of change links by using the summary card pattern.
+Interaction design – reduce the number of change links by using the summary card pattern.
 
-System feedback - make it transparent why we show data like geolocation and how it is generated.
+System feedback – make it transparent why we show data like geolocation and how we generate it.
 
-Future expansion - participants wanted to see functionality for early years initial teacher training, early career framework (ECF), national professional qualifications (NPQ) and other types of providers.
+Future expansion – participants wanted to see functionality for early years initial teacher training, early career framework (ECF), national professional qualifications (NPQ), and other types of providers.
 
 ### Recommendations
 
-Use GOV.UK patterns more consistently for labels, headings and actions.
+Use GOV.UK patterns more consistently for labels, headings, and actions.
 
-Improve the flow for destructive actions including the content in the confirmation steps.
+Improve the flow for destructive actions, including the content in the confirmation steps.
 
 Make validation and business rules more visible in the user interface.
 
 Review and simplify the edit experience.
 
-Add more contextual content in areas where institutional knowledge is assumed.
+Add more contextual content in areas where institutional knowledge is assumed to be present.
 
 ## What we will do next
 
