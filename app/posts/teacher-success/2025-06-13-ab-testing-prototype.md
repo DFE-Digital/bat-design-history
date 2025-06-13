@@ -11,7 +11,7 @@ We wanted to A/B test two designs of the proposed service to see what inpact the
 
 ## What prompted this work
 
-We recently [tested concepts for a trainee support hub]('/testing-concepts/'), and wanted to create a hi-fidelity prototype based on feedback and internal discussions that would allow people to browse freely across the support pages.
+We recently [tested concepts for a trainee support hub](/teacher-success/testing-concepts/), and wanted to create a hi-fidelity prototype based on feedback and internal discussions that would allow people to browse freely across the support pages.
 
 We have recently created two designs, one that follows the DFE design look and feel (test A) and the second (test B) introducing design elements from the Get into teaching (GIT) service on top of the DFE design. The primary reason for this is to test if these design elements are familiar to trainee teachers and if this service can be seen as a continuation of the service line supporting teachers.
 
