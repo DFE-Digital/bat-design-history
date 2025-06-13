@@ -5,7 +5,6 @@ date: 2025-06-13
 tags:
   - prototyping
   - trainees
-
 ---
 
 We wanted to A/B test two designs of the proposed service to see what inpact the teacher services branding and logo would have on engagement with content.
