@@ -42,3 +42,7 @@ The next page offers guidance on completing the census sign-off process, includi
 The following page is the actual sign-off page, where users can confirm that the numbers are accurate. There is a summary box displaying the organisation's provider name, UK Provider Reference Number (UKPRN), and the currently logged-in approver's name, along with a checkbox to confirm that the trainee numbers are correct. Users can check the box to verify that the details are accurate. Once the 'Sign-off census' button is pressed to complete the process, an email will be sent to all users for that provider, confirming that the process has been completed on their behalf.
 
 The final page will show a confirmation message indicating that the census sign-off has been completed, and the user may return to the reports page.
+*[SRS]: student records system
+*[UKPRN]: UK provider reference number
+*[CSV]: comma-separated values
+*[ITT]: initial teacher training
