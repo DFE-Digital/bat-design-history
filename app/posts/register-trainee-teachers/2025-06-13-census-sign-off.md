@@ -22,11 +22,13 @@ The initial step will remain unchanged. Each year, the DfE will continue to noti
 Once logged into Register, a notification banner will appear on the home screen during the census sign-off period if no one in the organisation has signed off on the census process. This banner will inform providers that the census sign-off is due and provide a link to the reports page.
 
 ![Screenshot showing an example banner on the home page notifying that the census sign off is due](example-home-banner.png "Census sign-off notification banner example")
+
 From the reports page, providers can access the census sign-off process. If someone from the organisation has already signed off the census, they will see the following message indicating that the sign-off has been completed.
 
 > Someone in your organisation has already completed the census sign-off.
 
 ![Screenshot showing the reports page](reports.png "Reports page")
+
 The next page offers guidance on completing the census sign-off process, including a link to further information on the [Initial Teacher Training Census methodology](https://explore-education-statistics.service.gov.uk/methodology/initial-teacher-training-census). Users can then download a CSV file of the new trainees that the Register currently holds for the organisation for the academic year, allowing them to check against their student records system (SRS) to ensure the numbers are accurate.
 
 ![Screenshot showing an alternative navigation](guidance.png "Guidance page")
@@ -44,7 +46,9 @@ The checkbox needs to be checked to confirm that the trainee numbers are correct
 ![Screenshot showing an alternative navigation](census-sign-off.png "Census sign-off page")
 
 The final page will show a confirmation message indicating that the census sign-off has been completed, and the user may return to the reports page.
+
 ![Screenshot showing an alternative navigation](confirmation.png "Confirmation page")
+
 *[SRS]: student records system
 *[UKPRN]: UK provider reference number
 *[CSV]: comma-separated values
