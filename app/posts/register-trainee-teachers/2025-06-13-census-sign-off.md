@@ -14,7 +14,6 @@ In previous years, this process has been completed outside of the Register servi
 
 Earlier this year, a similar process for completing the performance profiles sign-off was successfully streamlined by integrating it into Register. Therefore, it made sense to do the same for the census sign-off, reducing complexity for users and optimising the data collection process.
 
-
 ## How it works
 
 The initial step will remain unchanged. Each year, the DfE will continue to notify providers by email that the census sign-off window is open and that they should log in to Register to confirm their new trainee numbers and complete the sign-off process.
