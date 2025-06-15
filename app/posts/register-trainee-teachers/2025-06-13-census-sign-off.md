@@ -29,8 +29,18 @@ From the reports page, providers can access the census sign-off process. If some
 ![Screenshot showing the reports page](reports.png "Reports page")
 The next page offers guidance on completing the census sign-off process, including a link to further information on the [Initial Teacher Training Census methodology](https://explore-education-statistics.service.gov.uk/methodology/initial-teacher-training-census). Users can then download a CSV file of the new trainees that the Register currently holds for the organisation for the academic year, allowing them to check against their student records system (SRS) to ensure the numbers are accurate.
 
-The following page is the actual sign-off page, where users can confirm that the numbers are accurate. There is a summary box displaying the organisation's provider name, UK Provider Reference Number (UKPRN), and the currently logged-in approver's name, along with a checkbox to confirm that the trainee numbers are correct. Users can check the box to verify that the details are accurate. Once the 'Sign-off census' button is pressed to complete the process, an email will be sent to all users for that provider, confirming that the process has been completed on their behalf.
 ![Screenshot showing an alternative navigation](guidance.png "Guidance page")
+
+The following page is the actual sign-off page, where users can confirm that the numbers are accurate.
+
+The census sign off summary card includes:
+
+- provider name
+- UK Provider Reference Number (UKPRN)
+- currently logged-in approver's name
+
+The checkbox needs to be checked to confirm that the trainee numbers are correct. Users can check the box to verify that the details are accurate. Once the 'Sign-off census' button is pressed to complete the process, an email will be sent to all users for that provider, confirming that the process has been completed on their behalf.
+
 ![Screenshot showing an alternative navigation](census-sign-off.png "Census sign-off page")
 
 The final page will show a confirmation message indicating that the census sign-off has been completed, and the user may return to the reports page.
