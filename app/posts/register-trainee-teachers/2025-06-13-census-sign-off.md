@@ -28,7 +28,7 @@ From the reports page, providers can access the census sign-off process. If some
 
 ![Screenshot showing the reports page](reports.png "Reports page")
 
-The next page offers guidance on completing the census sign-off process, including a link to further information on the [Initial Teacher Training Census methodology](https://explore-education-statistics.service.gov.uk/methodology/initial-teacher-training-census). Users can then download a CSV file of the new trainees that Register currently holds for the organisation for the academic year, allowing them to check against their student records system (SRS) to ensure the numbers are accurate.
+The next page offers guidance on completing the census sign-off process, including a link to further information on the [initial teacher training census methodology](https://explore-education-statistics.service.gov.uk/methodology/initial-teacher-training-census). Users can then download a CSV file of the new trainees that Register currently holds for the organisation for the academic year, allowing them to check against their student records system (SRS) to ensure the numbers are accurate.
 
 ![Screenshot showing an alternative navigation](guidance.png "Guidance page")
 
