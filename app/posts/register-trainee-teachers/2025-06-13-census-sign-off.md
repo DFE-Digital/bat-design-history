@@ -8,7 +8,7 @@ tags:
   - census
 ---
 
-At the beginning of each academic year, between 1st September and 31st October, Initial Teacher Training (ITT) data must be submitted to Register trainee teachers (Register) and signed off, as the Department for Education (DfE) requires accurate data for the ITT census publication.
+At the beginning of each academic year, between 1st September and 31st October, initial teacher training (ITT) data must be submitted to Register trainee teachers (Register) and signed off, as the Department for Education (DfE) requires accurate data for the ITT census publication.
 
 In previous years, this process has been completed outside of the Register service, with notifications sent to providers to complete a form, the data from which is then sent to the DfE.
 
