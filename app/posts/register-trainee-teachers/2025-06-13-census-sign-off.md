@@ -37,7 +37,7 @@ The following page is the actual sign-off page, where users can confirm that the
 The census sign off summary card includes:
 
 - provider name
-- UK Provider Reference Number (UKPRN)
+- UK provider reference number (UKPRN)
 - currently logged-in approver's name
 
 The checkbox must be checked in order to confirm that the trainee numbers are correct.
