@@ -42,7 +42,7 @@ The census sign off summary card includes:
 
 The checkbox must be checked in order to confirm that the trainee numbers are correct.
 
-Once the 'Sign off census' button is pressed to complete the process, an email will be sent to all users for that provider, confirming that the process has been completed on their behalf.
+Once the ‘Sign off census’ button is pressed to complete the process, an email will be sent to all users for that provider, confirming that the process has been completed on their behalf.
 
 ![Screenshot showing an alternative navigation](census-sign-off.png "Census sign-off page")
 
