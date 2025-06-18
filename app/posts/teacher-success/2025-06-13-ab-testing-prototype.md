@@ -7,7 +7,7 @@ tags:
   - trainees
 ---
 
-We wanted to A/B test two designs of the proposed service to see what inpact the teacher services branding and logo would have on engagement with content.
+We wanted to A/B test two designs of the proposed service to see what impact the teacher services branding and logo would have on engagement with content.
 
 ## What prompted this work
 
@@ -23,9 +23,7 @@ The differences between test A and B include:
 
 * only having the Get into teaching block colour headings on the version B homepage
 
-* only having the Get into teaching block colour headings on the version B homepage
-
-* only haviny a banner with an image and Get in to teaching headers on the version B article category pages
+* only having a banner with an image and Get in to teaching headers on the version B article category pages
 
 * only having block headers and yellow inset elements on version B article pages
 
