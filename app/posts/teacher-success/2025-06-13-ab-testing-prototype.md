@@ -61,7 +61,6 @@ Article pages in test B, based on the DFE design guidance but including Get into
 
 ![test B homepage using the DFE branding](testbcontentpage.png)
 
-
 ## How we set up the A/B test
 
 To try and create a tangible experience in user research, we decided to start both A and B journeys with an email concept. This allowed us to create forks in the journey. We also created a form on each page that would submit which test we pointed them to using the GOV prototype kit data attributes to store the test version in the session.
