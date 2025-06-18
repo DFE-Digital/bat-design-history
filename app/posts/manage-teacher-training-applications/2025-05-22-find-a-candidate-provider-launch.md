@@ -172,7 +172,7 @@ We also listed a candidate’s previous applications at the top of the page, inc
 
 * We reordered the page to have qualifications, work history and unpaid experience and personal statement at the top in that order
 * We moved all past applications to the bottom and displayed them as a table to make them easier to scan
-* We decided to only show the most recent personal statement on the application details page, and to truncate it to 100 works with an option to expand to read the full text
+* We decided to only show the most recent personal statement on the application details page, and to truncate it to 100 words with an option to expand to read the full text
   * providers judge spelling and grammar in a personal statement, they can do this with a smaller excerpt
   * providers are interested in candidates’ experience in the subject they are applying for, enthusiasm for teaching and interest in the age group they are applying to teach – these things will not vary much from statement to statement so there’s no need to include all statements in this view.
 
