@@ -74,11 +74,11 @@ Participants were somewhat able to find the information they needed on the Find 
 
 However, it was not clear what the key differences were between different courses and providers, or what the strengths and drawbacks of each program were.
 
-Participants wanted to know which course would be best for their career prospects and why there were so many options if they were all similar. 
+Participants wanted to know which course would be best for their career prospects and why there were so many options if they were all similar.
 
 ### Need for improved course comparison
 
-Participants struggled to compare teacher training courses on the Find prototype – the process is manual and relies on reviewing and contrasting information across individual course pages. 
+Participants struggled to compare teacher training courses on the Find prototype – the process is manual and relies on reviewing and contrasting information across individual course pages.
 
 Participants noted that while the information is present, there is no dedicated "comparison table" or side-by-side comparison feature, which would allow for a more direct, at-a-glance comparison of multiple courses.
 
