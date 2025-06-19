@@ -70,9 +70,9 @@ Most participants preferred the non-accordion version of the prototype that disp
 
 ### Challenges in comparing courses and providers
 
-Participants were somewhat able to find the information they needed on the Find prototype, especially regarding key course features, funding, and the interview process. 
+Participants were somewhat able to find the information they needed on the Find prototype, especially regarding key course features, funding, and the interview process.
 
-However, it was not clear what the key differences were between different courses and providers, or what the strengths and drawbacks of each programme were. 
+However, it was not clear what the key differences were between different courses and providers, or what the strengths and drawbacks of each programme were.
 
 Participants wanted to know which course would be best for their career prospects and why there were so many options if they were all similar.
 
