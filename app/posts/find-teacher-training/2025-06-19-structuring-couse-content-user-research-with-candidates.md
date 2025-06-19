@@ -3,17 +3,16 @@ title: Structuring course content user research with candidates
 description: Summary of the round of research with candidates on improving courses pages on Find
 date: 2025-06-19
 tags:
-
-- Find
-- courses
-- research
+  - Find
+  - courses
+  - research
 ---
 
 ## Context
 
 Candidates found large blocks of dense text difficult to navigate and struggled to locate key information needed to assess and compare courses.
 
-The Find team redesigned the course pages to better meet the needs of ITT candidates by restructuring long-form content and improving usability.  
+The Find team redesigned the course pages to better meet the needs of ITT candidates by restructuring long-form content and improving usability.
 
 ## What we tested
 
@@ -37,13 +36,13 @@ During this round of research we had three primary objectives:
 
 ## Who we spoke to
 
-Initial Teacher Training candidates from the UK who are the beginning of their teacher training journey – searching for a teacher training course or applying for a teacher training course. This also includes career changers.  
+Initial Teacher Training candidates from the UK who are the beginning of their teacher training journey – searching for a teacher training course or applying for a teacher training course. This also includes career changers.
 
 ## Methodology
 
-We conducted 1-1 usability testing interviews via Microsoft Teams using a prototype of the Find service which was created to mimic the experience that candidates will have when searching and viewing courses.  
+We conducted 1-1 usability testing interviews via Microsoft Teams using a prototype of the Find service which was created to mimic the experience that candidates will have when searching and viewing courses.
 
-The prototype presented participants with 2 sets of courses to view and examine the content.  
+The prototype presented participants with 2 sets of courses to view and examine the content.
 
 ![screenshot of new course sections with accordions](course_sections_with_accordions.png)
 
@@ -51,7 +50,7 @@ The prototype presented participants with 2 sets of courses to view and examine 
 
 Participants were observed whilst using the Find prototype to identify how they engage with the course summary content and what information they are looking for.
 
-The participant list was split so that half the participants examined the non-accordion version of the prototype first, and the other half examined the accordion version of the prototype.  
+The participant list was split so that half the participants examined the non-accordion version of the prototype first, and the other half examined the accordion version of the prototype.
 
 ## Summary of insights
 
@@ -63,7 +62,7 @@ Participants appreciated the clarity, structure, and navigability of the course 
 
 They suggested improvements for more personalized, less generic information and better comparison features.
 
-Participants need specific information so they can see if the course and provider have the key characterises they are looking for.  
+Participants need specific information so they can see if the course and provider have the key characterises they are looking for.
 
 ### Preference for non-accordion layout
 
@@ -75,13 +74,13 @@ Participants were somewhat able to find the information they needed on the Find 
 
 However, it was not clear what the key differences were between different courses and providers, or what the strengths and drawbacks of each program were.
 
-Participants wanted to know which course would be best for their career prospects and why there were so many options if they were all similar.  
+Participants wanted to know which course would be best for their career prospects and why there were so many options if they were all similar. 
 
-### Need for improved course comparison  
+### Need for improved course comparison
 
-Participants struggled to compare teacher training courses on the Find prototype – the process is manual and relies on reviewing and contrasting information across individual course pages.  
+Participants struggled to compare teacher training courses on the Find prototype – the process is manual and relies on reviewing and contrasting information across individual course pages. 
 
-Participants noted that while the information is present, there is no dedicated "comparison table" or side-by-side comparison feature, which would allow for a more direct, at-a-glance comparison of multiple courses.  
+Participants noted that while the information is present, there is no dedicated "comparison table" or side-by-side comparison feature, which would allow for a more direct, at-a-glance comparison of multiple courses.
 
 ### Unclear distinctions between courses and providers
 
@@ -91,7 +90,7 @@ Some participants expressed difficulty in understanding the key differences betw
 
 Participants generally found the online interview status and filter helpful, especially for those relocating or needing flexibility. They would find it useful if it was mandatory for courses to display if they offer online interviews. The degree grade filter option is useful to some participants is not necessary.
 
-## Recommendations  
+## Recommendations
 
 The following recommendations were made to the team to consider taking forward:
 
@@ -99,7 +98,7 @@ The following recommendations were made to the team to consider taking forward:
 
 Participants expressed a strong need for a feature that allows them to compare multiple courses side by side, similar to retail websites.
 
-This could be in the form of a comparison table that allows users to view key pieces of information (entry requirements, placement location, organisation type, funding options etc) from multiple courses in one place.  
+This could be in the form of a comparison table that allows users to view key pieces of information (entry requirements, placement location, organisation type, funding options etc) from multiple courses in one place.
 
 ### Detailed accessibility information needs to be consistently provided in course summaries
 
@@ -118,8 +117,8 @@ This includes more detail on:
 - the content and structure of the course
 - background and ethos of the provider
 - learning and assessment methods
-- potential placement school types and characterises  
-- pocation of training  
+- potential placement school types and characterises
+- location of training
 - breakdown of mentor relationship and support available
 
 ### In-depth information on placements
