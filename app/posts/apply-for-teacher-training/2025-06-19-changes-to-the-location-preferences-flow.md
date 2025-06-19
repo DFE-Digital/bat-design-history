@@ -40,14 +40,14 @@ We changed ‘location preferences’ to ‘areas you can train in.’ We felt t
 
 We changed the order and the labelling of both the column headers on the locations page and the page where you change or update locations. By placing the distance first and labelling it ‘I can travel up to’ [miles] ‘from town city or postcode’ we felt that it read more naturally as a sentence and is clearer what the distance refers to (travelling time). We hope this will make it more intuitive to users.
 
-! [Location page showing updated order of columns and labelling](locations-page.png)
-! [Location setting screen](location-setting.png)
+![Location page showing updated order of columns and labelling](locations-page.png)
+![Location setting screen](location-setting.png)
 
 ### Understanding and setting distances
 
 Because it was clear that international candidates (or anyone who doesn’t have a specific location preference) was adding wide travelling distances from lots of locations rather than setting no preferences at all, we added a question before the location preferences setting to ask if they have any location preferences.
 
-! [Where you can train question screen](where-you-can-train.png)
+![Where you can train question screen](where-you-can-train.png)
 
 If they do not have any preferences then they are not directed down the location preference setting route. They will appear in all location search results with the label ‘open to courses anywhere.’
 
@@ -59,7 +59,7 @@ Because this feature was being missed or confused at the bottom of the location 
 
 Having this as a question in its own right in the flow also gave us more time to explain what selecting yes would do. We hope this will make it clearer what the purpose and value of this feature is.  
 
-! [Add locations for places you apply to automatically](add-locations.png)
+![Add locations for places you apply to automatically](add-locations.png)
 
 ## What’s next?
 
