@@ -1,3 +1,4 @@
+---
 title: Structuring course content user research with candidates
 description: Summary of the round of research with candidates on improving courses pages on Find
 date: 2025-06-19
@@ -6,7 +7,6 @@ tags:
 - Find
 - courses
 - research
-
 ---
 
 ## Context
