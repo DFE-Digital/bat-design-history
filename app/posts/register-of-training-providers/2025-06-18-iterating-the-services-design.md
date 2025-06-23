@@ -18,7 +18,7 @@ These changes were driven by feedback from participants across policy, product, 
 
 ### Showing the URN for all provider types
 
-We updated the provider details form and associated summary lists to show the unique reference number (URN) field for all provider types, not just schools. This ensures consistency and allows users to enter or verify URNs where relevant.
+We updated the provider details form and associated summary lists to show the unique reference number (URN) field for all provider types, not just schools. This change ensures consistency and enables users to enter or verify URNs as needed.
 
 ![Screenshot showing the provider list item](providers--list-item.png "Screenshot showing the provider list item")
 
@@ -32,7 +32,7 @@ We updated the provider details form and associated summary lists to show the un
 
 ### Consolidating address information
 
-We grouped address details into a single block of content, rather than showing each attribute on a separate line. This makes the address easier to scan and more closely matches how people expect to read addresses.
+We grouped address details into a single block of content, rather than showing each attribute on a separate line. This change makes the address easier to scan and more closely matches how people expect to read addresses.
 
 ![Screenshot showing the add provider address check your answers](provider-address--check-your-answers.png "Screenshot showing the add provider address check your answers")
 
@@ -40,7 +40,7 @@ We grouped address details into a single block of content, rather than showing e
 
 ### Contextual help and error messages for accredited provider numbers
 
-We added help text to the accredited provider number field, tailored to the selected provider type. If a user tries to submit the form without an accredited provider number, the error message also adapts depending on the provider type. This improves the guidance users receive and helps prevent confusion or incorrect submissions.
+We added help text to the accredited provider number field, tailored to the selected provider type. If a user tries to submit the form without an accredited provider number, the error message also adapts depending on the provider type. This change improves the guidance users receive and helps prevent confusion or incorrect submissions.
 
 #### Contextual hint
 
@@ -80,7 +80,7 @@ If the provider is neither an HEI nor a SCITT, we use the HEI contextual error m
 
 ### Help when adding a partnership
 
-We added help text to the ‘Add partnership’ flow to support users who cannot find the training partner they are searching for. This acknowledges a common edge case and guides how to resolve the issue.
+We added help text to the ‘Add partnership’ flow to support users who cannot find the training partner they are searching for. This change addresses a typical edge case and guides how to resolve the issue.
 
 If the user is adding a training partner to an accredited provider, we show the help text:
 
@@ -104,13 +104,13 @@ If the user is adding an accredited provider to a training partner, we show the 
 
 ### Simplifying the ‘Check your answers’ page when adding a partnership
 
-We replaced the multiple ‘Change’ links on the ‘Check your answers’ page of the ‘Add partnership’ flow with a single summary card. This helps users understand what they are changing, and prevents confusion between the training partner and the partnership details.
+We replaced the multiple ‘Change’ links on the ‘Check your answers’ page of the ‘Add partnership’ flow with a single summary card. This change helps users understand what they are changing, and prevents confusion between the training partner and the partnership details.
 
 ![Screenshot showing the ‘Add partnership’ check your answers](add-partnership--check-your-answers.png "Screenshot showing the ‘Add partnership’ check your answers")
 
 ### Explaining location data
 
-We added help text to explain why the service collects latitude and longitude alongside provider addresses. This gives users more confidence in how their data will be used and why geolocation is important.
+We added help text to explain why the service collects latitude and longitude alongside provider addresses. This change gives users more confidence in how we will use their data and why geolocation is essential.
 
 If we have successfully geocoded the address, we show the message:
 
