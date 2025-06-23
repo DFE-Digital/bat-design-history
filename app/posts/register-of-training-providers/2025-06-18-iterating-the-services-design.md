@@ -18,25 +18,25 @@ These changes were driven by feedback from participants across policy, product, 
 
 ### Showing the URN for all provider types
 
-We updated the provider details form and associated summary lists to show the Unique Reference Number (URN) field for all provider types, not just schools. This ensures consistency and allows users to enter or verify URNs where relevant.
+We updated the provider details form and associated summary lists to show the unique reference number (URN) field for all provider types, not just schools. This ensures consistency and allows users to enter or verify URNs where relevant.
 
-![Screenshot showing the provider list item](providers--list-item.png)
+![Screenshot showing the provider list item](providers--list-item.png "Screenshot showing the provider list item")
 
-![Screenshot showing the provider details summary](provider-details--summary-list.png)
+![Screenshot showing the provider details summary](provider-details--summary-list.png "Screenshot showing the provider details summary")
 
-![Screenshot showing the provider details form](add-provider--form.png)
+![Screenshot showing the provider details form for a new provider](add-provider--form.png "Screenshot showing the provider details form for a new provider")
 
-![Screenshot showing the provider details form](update-provider--form.png)
+![Screenshot showing the provider details form for an existing provider](update-provider--form.png "Screenshot showing the provider details form for an existing provider")
 
-![Screenshot showing the update provider details check your answers](update-provider--check-your-answers.png)
+![Screenshot showing the update provider details check your answers](update-provider--check-your-answers.png "Screenshot showing the update provider details check your answers")
 
 ### Consolidating address information
 
 We grouped address details into a single block of content, rather than showing each attribute on a separate line. This makes the address easier to scan and more closely matches how people expect to read addresses.
 
-![Screenshot showing the add provider address check your answers](provider-address--check-your-answers.png)
+![Screenshot showing the add provider address check your answers](provider-address--check-your-answers.png "Screenshot showing the add provider address check your answers")
 
-![Screenshot showing the provider address list item](provider-address--list-item.png)
+![Screenshot showing the provider address list item](provider-address--list-item.png "Screenshot showing the provider address list item")
 
 ### Contextual help and error messages for accredited provider numbers
 
@@ -48,13 +48,13 @@ If the provider type is a higher education institution (HEI), we show the hint:
 
 > A unique 4 digit code starting with ‘1’ assigned by DfE to accredited providers, for example, 1234
 
-![Screenshot showing the contextual hint message for higher education institutions (HEIs)](contextual-hint--hei.png)
+![Screenshot showing the contextual hint message for higher education institutions (HEIs)](contextual-hint--hei.png "Screenshot showing the contextual hint message for higher education institutions (HEIs)")
 
 If the provider type is a school-centred initial teacher training (SCITT) organisation, we show the hint:
 
 > A unique 4 digit code starting with ‘5’ assigned by DfE to accredited providers, for example, 5678
 
-![Screenshot showing the contextual help message for school-centred initial teacher training (SCITT)](contextual-hint--scitt.png)
+![Screenshot showing the contextual help message for school-centred initial teacher training (SCITT)](contextual-hint--scitt.png "Screenshot showing the contextual help message for school-centred initial teacher training (SCITT) organisations")
 
 If the provider is neither an HEI nor a SCITT, we show the message:
 
@@ -66,13 +66,13 @@ If the provider type is an HEI, we show the hint:
 
 > Enter accredited provider number in the correct format, like 1234
 
-![Screenshot showing the contextual error message for higher education institutions (HEIs)](contextual-error--hei.png)
+![Screenshot showing the contextual error message for higher education institutions (HEIs)](contextual-error--hei.png "Screenshot showing the contextual error message for higher education institutions (HEIs)")
 
 If the provider type is a SCITT, we show the hint:
 
 > Enter accredited provider number in the correct format, like 5678
 
-![Screenshot showing the contextual error message for school-centred initial teacher training (SCITT)](contextual-error--scitt.png)
+![Screenshot showing the contextual error message for school-centred initial teacher training (SCITT)](contextual-error--scitt.png "Screenshot showing the contextual error message for school-centred initial teacher training (SCITT)")
 
 If the provider is neither an HEI nor a SCITT, we use the HEI contextual error message:
 
@@ -90,7 +90,7 @@ If the user is adding a training partner to an accredited provider, we show the 
 >
 > You may need to add the training partner first.
 
-![Screenshot showing the contextual help message for missing training partners](contextual-help--training-partners.png)
+![Screenshot showing the contextual help message for missing training partners](contextual-help--training-partners.png "Screenshot showing the contextual help message for missing training partners")
 
 If the user is adding an accredited provider to a training partner, we show the help text:
 
@@ -100,13 +100,13 @@ If the user is adding an accredited provider to a training partner, we show the 
 >
 > You may need to add the accredited provider first.
 
-![Screenshot showing the contextual help message for missing accredited providers](contextual-help--accredited-providers.png)
+![Screenshot showing the contextual help message for missing accredited providers](contextual-help--accredited-providers.png "Screenshot showing the contextual help message for missing accredited providers")
 
 ### Simplifying the ‘Check your answers’ page when adding a partnership
 
 We replaced the multiple ‘Change’ links on the ‘Check your answers’ page of the ‘Add partnership’ flow with a single summary card. This helps users understand what they are changing, and prevents confusion between the training partner and the partnership details.
 
-![Screenshot showing the ‘Add partnership’ check your answers](add-partnership--check-your-answers.png)
+![Screenshot showing the ‘Add partnership’ check your answers](add-partnership--check-your-answers.png "Screenshot showing the ‘Add partnership’ check your answers")
 
 ### Explaining location data
 
@@ -116,13 +116,13 @@ If we have successfully geocoded the address, we show the message:
 
 > We collect location data to support location-based searches. It’s generated automatically from the address you entered.
 
-![Screenshot showing the location information help text](location-information--help-text.png)
+![Screenshot showing the location information help text](location-information--help-text.png "Screenshot showing the location information help text")
 
 If we have not successfully geocoded the address, we show the message:
 
 > We were unable to generate location data for this address. We will try again later.
 
-![Screenshot showing we could not generate location information help text](no-location-information--help-text.png)
+![Screenshot showing we could not generate location information help text](no-location-information--help-text.png "Screenshot showing we could not generate location information help text")
 
 ## Why this matters
 
