@@ -20,13 +20,15 @@ These changes were driven by feedback from participants across policy, product, 
 
 We updated the provider details form and associated summary lists to show the Unique Reference Number (URN) field for all provider types, not just schools. This ensures consistency and allows users to enter or verify URNs where relevant.
 
-![Screenshot showing the provider details form](provider-details--form.png)
-
-![Screenshot showing the update provider details check your answers](provider-details--check-your-answers.png)
+![Screenshot showing the provider list item](providers--list-item.png)
 
 ![Screenshot showing the provider details summary](provider-details--summary-list.png)
 
-![Screenshot showing the provider list item](provider-list--item.png)
+![Screenshot showing the provider details form](add-provider--form.png)
+
+![Screenshot showing the provider details form](update-provider--form.png)
+
+![Screenshot showing the update provider details check your answers](update-provider--check-your-answers.png)
 
 ### Consolidating address information
 
@@ -84,7 +86,9 @@ If the user is adding a training partner to an accredited provider, we show the 
 
 > I cannot find the training partner
 >
-> Make sure you've spelt the training partner’s name correctly. If you still cannot find it, check that the training partner is already listed in the Register. You may need to add the training partner first.
+> Make sure you’ve spelt the training partner’s name correctly. If you still cannot find it, check that the training partner is already listed in the Register.
+>
+> You may need to add the training partner first.
 
 ![Screenshot showing the contextual help message for missing training partners](contextual-help--training-partners.png)
 
@@ -92,11 +96,13 @@ If the user is adding an accredited provider to a training partner, we show the 
 
 > I cannot find the accredited provider
 >
-> Make sure you've spelt the accredited provider name correctly. If you still cannot find it, check that the accredited provider is already listed in the Register. You may need to add the accredited provider first.
+> Make sure you’ve spelt the accredited provider name correctly. If you still cannot find it, check that the accredited provider is already listed in the Register.
+>
+> You may need to add the accredited provider first.
 
 ![Screenshot showing the contextual help message for missing accredited providers](contextual-help--accredited-providers.png)
 
-### Simplifying the ‘Check your answers’ page
+### Simplifying the ‘Check your answers’ page when adding a partnership
 
 We replaced the multiple ‘Change’ links on the ‘Check your answers’ page of the ‘Add partnership’ flow with a single summary card. This helps users understand what they are changing, and prevents confusion between the training partner and the partnership details.
 
