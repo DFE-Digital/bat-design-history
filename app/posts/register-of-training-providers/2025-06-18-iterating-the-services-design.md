@@ -10,7 +10,7 @@ related:
       href: /register-of-training-providers/running-design-critiques-to-improve-the-service/
 ---
 
-We made several improvements to the service following three structured design critique sessions.
+We made several improvements to the service following [three structured design critique sessions](/register-of-training-providers/running-design-critiques-to-improve-the-service/).
 
 These changes were driven by feedback from participants across policy, product, delivery, and design roles, with a focus on improving clarity, usability, and data understanding.
 
