@@ -7,8 +7,6 @@ tags:
   - school placements
 ---
 
-# Expression of interest flow for school users
-
 From our research in [round 10](/manage-school-placements/understanding-more-about-schools-ways-of-working/?), we understood that schools needed a way to express their interest in hosting trainee teachers without committing to specific placements due to uncertainties around capacity and resourcing and potential for last minute change. We also discovered that schools wanted a way to opt out and not be contacted or contacted too much.
 
 ## Testing the ‘expression of interest’ concept
