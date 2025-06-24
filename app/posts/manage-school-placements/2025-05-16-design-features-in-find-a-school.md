@@ -7,8 +7,6 @@ tags:
   - school placements
 ---
 
-# Design feature updates in 'find a school' search for providers
-
 Following on from [concept testing with providers](/manage-school-placements/concept-testing-with-providers/), we launched a version of the ‘Find a school’ search function for provider users ahead of the private beta expansion into Essex.
 
 Providers told us that they think of placements in terms of the school that hosts them, and they establish relationships with them in order to host as many placements as reasonably possible.
