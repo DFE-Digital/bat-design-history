@@ -1,5 +1,5 @@
 ---
-title: Iterating the service’s design
+title: Iterating the service following design critiques
 description: We iterated the service following three structured design critique sessions
 date: 2025-06-18
 tags:
