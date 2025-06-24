@@ -7,8 +7,6 @@ tags:
   - school placements
 ---
 
-# Special education needs and disabilities (SEND) placements
-
 ## Insights
 
 As detailed in [user research round 6 findings](/manage-school-placements/user-research-round-6-findings/), specifically insight 4, we found that the first version of the ‘add placement’ flow did not meet the needs of special schools. A user from a special school told us they wanted to know that the placement appears to providers as SEND-specific, and to be able to select mixed year groups.
