@@ -42,4 +42,3 @@ This feature will be monitored to ensure usefulness and suitability for SEND sch
 We are specifically interested in understanding whether the options for key stages fit with their ways of working, and whether there are other factors about SEND specific placements that schools need to communicate to providers.
 
 We have also investigated the specifics of SEND provision types in schools, based on data from Get Information About Schools, and this may be introduced in future if it helps bring clarity.
-

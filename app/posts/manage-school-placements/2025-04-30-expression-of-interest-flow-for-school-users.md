@@ -75,6 +75,7 @@ We will monitor this function and evaluate whether this facilitates smoother com
 ![Screenshot shows a question asking whether school users would like to tell providers anything else. This option is only seen by those who select that the may be able to offer placements](e-amber-anything-want-to-know.png "Screenshot shows a question asking whether school users would like to tell providers anything else. This option is only seen by those who select that the may be able to offer placements")
 
 ## A ‘no’ journey for data capture
+
 If users select ‘no - I can’t offer placements’ they are then asked:
 
 - the reason for not being able to participate

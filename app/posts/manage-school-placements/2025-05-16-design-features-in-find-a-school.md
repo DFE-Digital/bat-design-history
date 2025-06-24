@@ -57,7 +57,7 @@ In testing, we found that the status labels we used confused participants. The t
 
 ![Screenshot of status](d-status.png "Screenshot listing the status labels seen by providers")
 
- ## Updates to the filter
+## Updates to the filter
 
 As a result of schools now completing the expression of interest flow, providers can now filter their search by school ‘status’. Providers can also search by when schools last hosted placements.
 
@@ -80,4 +80,3 @@ We will continue to research with providers to check whether the service meets t
 We are also looking to understand whether there is more that can be done on the provider side to understand and promote the user of the ‘assign provider’ function on the school facing side of the service.
 
 Face-to-face research with providers will take place to understand their use of the service and where we can make improvements.
-
