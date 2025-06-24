@@ -9,7 +9,7 @@ tags:
 
 # Expression of interest flow for school users
 
-From our research in [round 10] (/manage-school-placements/understanding-more-about-schools-ways-of-working/?), we understood that schools needed a way to express their interest in hosting trainee teachers without committing to specific placements due to uncertainties around capacity and resourcing and potential for last minute change. We also discovered that schools wanted a way to opt out and not be contacted or contacted too much.
+From our research in [round 10](/manage-school-placements/understanding-more-about-schools-ways-of-working/?), we understood that schools needed a way to express their interest in hosting trainee teachers without committing to specific placements due to uncertainties around capacity and resourcing and potential for last minute change. We also discovered that schools wanted a way to opt out and not be contacted or contacted too much.
 
 ## Testing the ‘expression of interest’ concept
 
@@ -19,7 +19,7 @@ We also sought to understand the use of a status which would inform providers wh
 
 We found that although the concept was generally welcomed, the participants felt for the ‘interested’ status, that their journey was incomplete by not being able to communicate their preferences for potentially hosting placements in more detail. Some participants mentioned they wouldn’t want to receive irrelevant emails about placements they know they couldn’t accommodate.
 
-![screenshot showing participants being able to confirm they are interested in hosting](a-amber-testing-question.png "Screenshot shows what participants in testing saw if they expressed an interest in ‘maybe’ hosting")
+![Screenshot showing participants being able to confirm they are interested in hosting](a-amber-testing-question.png "Screenshot shows what participants in testing saw if they expressed an interest in ‘maybe’ hosting")
 
 The iteration we launched mimicked the current flow we had for bulk adding placements, however offered much more flexibility to answer ‘I don’t know’ to some of the questions about placement availability. You can read more about concept testing in a future user research design history.
 
@@ -51,7 +51,7 @@ The ‘check your answers’ page shows the structure of how the data is capture
 
 We know that schools are busy, so adding the ability to onboard quickly will encourage participation in the service.
 
-![screenshot showing the check answers screen](c-check-answers-q.png "Check answers screen")
+![Screenshot showing the check answers screen](c-check-answers.png "Check answers screen")
 
 ## A ‘maybe’ journey for flexibility
 
@@ -64,7 +64,7 @@ Schools users might click the ‘maybe’ option if they are:
 
 These users can now clearly express their intent while making it clear they aren’t committed to hosting a particular set placements. Each time they are asked a question about their preferences they are given an option to say ‘I don’t know’, and no information is stored against the question. Information is displayed to providers as ‘potential placement’ information, rather than a list of placement offers.
 
-![screenshot shows a question asking which phase of education schools could offer placements in with the ability to select ‘I don’t know’](d-amber-flow-example.png "A question to confirm the phase of education with an option to select ‘I don’t know’")
+![Screenshot shows a question asking which phase of education schools could offer placements in with the ability to select ‘I don’t know’](d-amber-flow-example.png "A question to confirm the phase of education with an option to select ‘I don’t know’")
 
 ## Ability to share additional information during the 'maybe’ journey
 
@@ -83,7 +83,7 @@ If users select ‘no - I can’t offer placements’ they are then asked:
 
 This leads to vital data capture for DfE as to the reasons a school is not participating. As well as this, it gives us an opportunity to try and reengage them in school placements in the next academic year.
 
-![Screenshot shows options for why a school user may not offer placements](f-a-red-path.png "options for why a school user may not offer placements")
+![Screenshot shows options for why a school user may not offer placements](f-a-red-path.png "Options for why a school user may not offer placements")
 
 ![Screenshot showing a question asking who the preferred contact is for next year](g-b-redpath.png "School users are asked for a contact for next year")
 
@@ -103,6 +103,8 @@ We will continue to monitor users understanding of the over process as well as a
 
 We will continue to test these new iterations through the public beta service and improve them based on feedback from schools and providers.
 
-We are looking to understand the performance of the ‘amber pathway’ journey and whether this meets the users' needs around expressing their interest in a way that doesn’t commit them to specific placements too early on. Observational research will take place with users to watch them using the service for the first time (round 15). We have considered whether the functionality for schools to add additional information (in an open text box) in the ‘maybe’ journey should be replicated in the ‘yes’ journey. We will review this and introduce it if users find it helpful.
+We are looking to understand the performance of the ‘amber pathway’ journey and whether this meets the users' needs around expressing their interest in a way that doesn’t commit them to specific placements too early on. Observational research will take place with users to watch them using the service for the first time (round 15).
+
+We have considered whether the functionality for schools to add additional information (in an open text box) in the ‘maybe’ journey should be replicated in the ‘yes’ journey. We will review this and introduce it if users find it helpful.
 
 We have made improvements so that school users can record SEND-specific placements. We will monitor use of this new functionality and improve it in line with user feedback.
