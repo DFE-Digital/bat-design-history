@@ -2,6 +2,14 @@
 title: How to publish a design history post using the GitHub website
 description: A step-by-step guide for writing and publishing a post using GitHub’s web interface
 date: 2025-02-13
+related:
+  items:
+    - text: How to write Markdown
+      href: /how-to/how-to-write-markdown/
+    - text: Why we write design histories
+      href: /how-to/why-we-write-design-histories/
+    - text: What to include in a design history post
+      href: /how-to/what-to-include-in-a-design-history-post/
 ---
 
 This guide explains how to write and publish a design history post using GitHub’s web interface. It is part of a series on how we manage our design history website.
