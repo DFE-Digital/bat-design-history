@@ -14,6 +14,7 @@ tags:
 We needed to define exactly which users we would be targeting as part of our private beta.
 
 This needed to:
+
 - only be a sample of our user group as a whole
 - align with previous research and departmental priorities
 
@@ -27,6 +28,7 @@ We will be launching the service to those starting teacher training in the 2025/
 This aligns with departmental priorities around recruiting teachers into secondary subjects.
 
 Previous research also showed that trainees on provider-led postgraduate teacher training had:
+
 - one of the lowest experience scores
 - one of the highest dropout rates
 - the largest cohort of trainees
