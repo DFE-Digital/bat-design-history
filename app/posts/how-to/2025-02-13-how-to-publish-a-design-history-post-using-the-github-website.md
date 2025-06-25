@@ -18,9 +18,17 @@ Start by creating a new branch for your post. You can do this on GitHub:
 
 2. Select the branch selector dropdown (usually showing `main`).
 
+![](github-01.png)
+
 3. In the box labelled ‘Find or create a branch’, type a name for your new branch, following the pattern `your-branch-name`.
 
+![](github-02.png)
+
 4. Select ‘Create branch `your-branch-name` from main’ from the list of branches.
+
+![](github-03.png)
+
+![](github-04.png)
 
 ## Step 2: Navigate to the correct folder
 
@@ -38,14 +46,22 @@ app/images/register-of-training-providers/{post-name}
 
 Use lowercase and hyphens for folder names.
 
+![](github-05.png)
+
 ## Step 3: Create or edit your Markdown file
 
 In the appropriate `app/posts/{service-name}` folder:
 
 1. Select ‘Add file > Create new file’ in the top-right.
 
+![](github-06.png)
+
 2. Name your file using the format `YYYY-MM-DD-post-title.md`, for example:
  `2025-02-13-how-to-publish-a-design-history-post.md`.
+
+![](github-07.png)
+
+![](github-08.png)
 
 3. Add the front matter at the top of the file:
 
@@ -56,6 +72,8 @@ description: A step-by-step guide for writing and publishing a post using GitHub
 date: 2025-02-13
 ---
 ```
+
+![](github-09.png)
 
 ## Step 4: Write your design history
 
@@ -69,11 +87,17 @@ Once you’re happy with the file:
 
 1. Scroll to the top of the page and select the green ‘Commit changes...’ button.
 
+![](github-10.png)
+
 2. In the ‘Commit changes’ modal window, add a short but clear commit message (for example: Add post on how to publish a design history post). You can also add an extended description if needed.
+
+![](github-11.png)
 
 3. Ensure that ‘Commit directly to the `your-branch-name`’ branch is selected.
 
 4. Press ‘Commit changes’.
+
+![](github-12.png)
 
 ## Step 6: Create a pull request
 
@@ -81,13 +105,25 @@ To get your changes reviewed and merged:
 
 1. Go to the ‘Pull requests’ tab.
 
-2. Select ‘New pull request’.
+2. Select the green ‘Compare & pull request’ button if GitHub shows your branch in a yellow banner, or the green ‘New pull request’ button.
+
+![](github-13.png)
 
 3. Select `main` as the base branch and your new branch as the compare branch.
 
+![](github-14.png)
+
+![](github-15.png)
+
+![](github-16.png)
+
 4. Add a clear title and description for your pull request.
 
-5. Press ‘Create pull request’.
+![](github-17.png)
+
+5. Select the green ‘Create pull request’ button.
+
+![](github-18.png)
 
 ## Step 7: Review your pull request
 
@@ -99,7 +135,7 @@ Once approved, your pull request will be ready to merge.
 
 After approval:
 
-1. Press Merge pull request.
+1. Select the green ‘Merge pull request’ button at the bottom of the page.
 
 2. Confirm the merge.
 
