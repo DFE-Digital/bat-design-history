@@ -123,6 +123,10 @@ To get your changes reviewed and merged:
 
 5. Select the green ‘Create pull request’ button.
 
+Your pull request is now ready for review.
+
+GitHub automatically creates a preview on Netlify, and Netlify adds a comment to the PR with a link to the preview.
+
 ![](github-18.png)
 
 ## Step 7: Review your pull request
