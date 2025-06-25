@@ -81,6 +81,12 @@ Below the front matter, write your post using Markdown. Keep the writing clear a
 
 Refer to the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide) when writing your content.
 
+We also have posts on:
+
+- [how to write Markdown](/how-to/how-to-write-markdown/)
+- [why we write design histories](/how-to/why-we-write-design-histories/)
+- [what to include in a design history post](/how-to/what-to-include-in-a-design-history-post/)
+
 ## Step 5: Commit your changes
 
 Once you’re happy with the file:
