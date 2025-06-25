@@ -89,7 +89,7 @@ Furthermore, they said categories of reasons to choose from would help them to e
 
 ### Larger providers would find it helpful to see claims that schools have submitted
 
-Participants' willingness to receive a list of claims submitted by schools depends on the provider and the number of mentors they have. In this round of research, large providers said it would be helpful to see a list of claims. In previous rounds of research, other providers said they would prefer not to, as it would give them an additional administrative task.
+Participants’ willingness to receive a list of claims submitted by schools depends on the provider and the number of mentors they have. In this round of research, large providers said it would be helpful to see a list of claims. In previous rounds of research, other providers said they would prefer not to, as it would give them an additional administrative task.
 
 Some participants said clarifying that they do not have to take action would be helpful.
 

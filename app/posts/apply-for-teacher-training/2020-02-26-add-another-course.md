@@ -34,7 +34,7 @@ If we tell candidates they cannot add new choices after submitting their applica
 
 - After adding first and second choices, we show them a prompt (this includes after adding from Find)
 - After adding a third choice, we take them straight to the review screen
-- Selecting "Add another course" takes users to the "Have you found a course" screen
-- Selecting "No" takes users to the review page
-- The no text includes "not at the moment" as this action is not final, users can add more later (before they submit)
+- Selecting “Add another course” takes users to the “Have you found a course” screen
+- Selecting “No” takes users to the review page
+- The no text includes “not at the moment” as this action is not final, users can add more later (before they submit)
 - Guidance on 3 courses has been removed from the review screen in favour of the prompt

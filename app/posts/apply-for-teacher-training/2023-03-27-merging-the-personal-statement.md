@@ -6,10 +6,10 @@ tags:
   - personal statement
 ogImage:
   src: personal-statement-cover-image.png
-  alt: "Illustration with the text 'Offer received' and information about doing an 8 week subject knowledge enhancement course in physics"
+  alt: "Illustration with the text ‘Offer received’ and information about doing an 8 week subject knowledge enhancement course in physics"
 ---
 
-![Illustration with the text 'Before' on the left and 'After' on the right. Below 'Before', two text boxes with the headings 'Why do you want to be a teacher?' and 'Why are you suited to teach your subjects or age group?' Below 'After', a single tex box with the heading 'Personal statement'.](personal-statement-cover-image.png)
+![Illustration with the text ‘Before’ on the left and ‘After’ on the right. Below ‘Before', two text boxes with the headings ‘Why do you want to be a teacher?’ and ‘Why are you suited to teach your subjects or age group?’ Below ‘After', a single tex box with the heading ‘Personal statement’.](personal-statement-cover-image.png)
 
 Previously, the personal statement had two sections on the application form: ‘Why you want to teach’ (600 words) and ‘Your suitability to teach a subject or age group’ (400 words).
 
@@ -29,7 +29,7 @@ We wanted to test whether our new guidance aligned with what candidates expect t
 
 We also wanted to learn more about how candidates would approach writing a personal statement, and what worries candidates about doing so. This will help determine what support we can give potential candidates in writing their personal statement.
 
-‘Personal statement’ is one of the highest reasons for rejection used by providers. 20% of all application rejections this cycle have 'personal statement' marked as a reason for rejection. In merging the personal statement sections into one, there was scope for us to refine our guidance to help candidates improve the quality of their personal statement.
+‘Personal statement’ is one of the highest reasons for rejection used by providers. 20% of all application rejections this cycle have ‘personal statement’ marked as a reason for rejection. In merging the personal statement sections into one, there was scope for us to refine our guidance to help candidates improve the quality of their personal statement.
 
 ## What we did
 

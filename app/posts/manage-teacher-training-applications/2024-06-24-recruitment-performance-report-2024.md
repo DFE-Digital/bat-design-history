@@ -104,7 +104,7 @@ Answer options:
 
 - Providers would find it useful if they could share the report with other stakeholders who do not have access to Manage.
 
-- The report’s data may present a misleading picture of the providers' recruitment performance due to the absence of context. For example, there may be good reasons for them not to have made an offer within 30 days, but this is not reflected in the report.
+- The report’s data may present a misleading picture of the providers’ recruitment performance due to the absence of context. For example, there may be good reasons for them not to have made an offer within 30 days, but this is not reflected in the report.
 
 - Providers would use the report to:
   - understand application patterns and gaps, particularly around the subject area.

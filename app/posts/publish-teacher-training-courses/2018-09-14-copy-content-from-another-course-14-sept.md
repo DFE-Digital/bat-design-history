@@ -12,10 +12,7 @@ screenshots:
     - Copy content disclosure when open
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "We did not build this design. Instead we used an MVP ‘you can find copy here’ – ie a signpost where people were looking for the feature."
-}) }}
+> We did not build this design. Instead we used an MVP ‘you can find copy here’ – ie a signpost where people were looking for the feature.
 
 An iteration on where the copy content feature sits.
 

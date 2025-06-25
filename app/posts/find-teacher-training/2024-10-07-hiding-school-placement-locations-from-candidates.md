@@ -68,7 +68,7 @@ When they have locations toggled on the list of placement schools will be access
 
 The search results and course pages will show the distance from the search location to the nearest placement school and study site, where these have been entered by the provider.
 The placement location will specify that it is a potential location, that it can change and is not guaranteed.
-Where no locations have been entered by the provider, 'not listed yet' will be shown.
+Where no locations have been entered by the provider, ‘not listed yet’ will be shown.
 
 There is a content box-out on all course pages which gives more information to candidates about how placements will be selected for them. The intention is to reassure candidates that their individual situation will be taken into account and the provider will select a placement that works well for them based on several factors.
 
@@ -83,9 +83,9 @@ This was tested in August 2024 with candidates and the following findings were h
 * the content about how candidate placements are selected by providers was reassuring to candidates, they agreed that they had enough information to proceed with their application
 * it was moved to above the location information on the course page so that candidates would read it first, when it was positioned below the location information it was missed
 * candidates understood that the distance stated in the search results was subject to change, although they did not expect to be placed anywhere outside of their search radius (which is not the case, they could be placed anywhere there is an available placement)
-* 'where you will study' was an acceptable alternative to 'study site' and was understood by all participants
+* ‘where you will study’ was an acceptable alternative to ‘study site’ and was understood by all participants
 * the placement school location was more important to candidates than the study site location because it is where they would spend the majority of their time
-* whilst all candidates understood 'not listed yet' and agreed this was better than a blank line, they would want this information before starting the course (importantly they did not need this information before starting their application)
+* whilst all candidates understood ‘not listed yet’ and agreed this was better than a blank line, they would want this information before starting the course (importantly they did not need this information before starting their application)
 
 ## Next steps
 

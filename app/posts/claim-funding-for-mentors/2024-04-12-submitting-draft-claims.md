@@ -34,7 +34,7 @@ We added a way for school users to submit draft claims.
 
 ## How it works
 
-[![Submit draft claim flow](submit-draft-claim--flow.png 'Submit draft claim flow')](submit-draft-claim--flow.png)
+[![Submit draft claim flow](submit-draft-claim--flow.png ‘Submit draft claim flow')](submit-draft-claim--flow.png)
 
 From the claim details page, the ‘Submit claim’ flow has two steps:
 

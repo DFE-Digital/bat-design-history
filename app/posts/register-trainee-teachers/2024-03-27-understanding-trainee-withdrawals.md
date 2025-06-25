@@ -16,7 +16,7 @@ In July 2023, DfE published [“Initial teacher training (ITT) performance profi
 
 The Register trainee teachers (Register) service holds a wealth of information about each trainee including their pathway into ITT and the date of withdrawal as well as extensive demographic information. Providers use the service to record the reason(s) why a trainee withdraws from an ITT course.
 
-![A screenshot showing a list of reasons on the Register service for providers to record why a trainee decided to withdraw from the course](Why-did-the-trainee-withdraw-from-the-course-Register-trainee-teachers-GOV.UK.png 'A list of reasons on the Register service for providers to record why a trainee decided to withdraw from the course')
+![A screenshot showing a list of reasons on the Register service for providers to record why a trainee decided to withdraw from the course](Why-did-the-trainee-withdraw-from-the-course-Register-trainee-teachers-GOV.UK.png "A list of reasons on the Register service for providers to record why a trainee decided to withdraw from the course")
 
 ## What we needed to do
 
@@ -68,9 +68,9 @@ We learned where the hotspots for trainee withdrawals are within ITT factors and
 
 - Most withdrawals from ITT happen in the first few months of the academic year (October, November and December). This date of withdrawal was largely the same regardless of ITT factor or demographics
 
-![A line graph showing weekly ITT withdrawals for the academic year 2022 to 2023. It shows a clear rise in withdrawals in the first three months for all cohorts gradually reducing in number until the end of the academic year](Weekly-ITT-withdrawals-for-academic-year-2022_23.png 'ITT withdrawals by date')
+![A line graph showing weekly ITT withdrawals for the academic year 2022 to 2023. It shows a clear rise in withdrawals in the first three months for all cohorts gradually reducing in number until the end of the academic year](Weekly-ITT-withdrawals-for-academic-year-2022_23.png "ITT withdrawals by date")
 
-- 'Another reason' accounts for over half of all reasons given and was given by all demographics
+- ‘Another reason’ accounts for over half of all reasons given and was given by all demographics
 
 - Males have higher than expected withdrawal rates
 
@@ -80,7 +80,7 @@ We learned where the hotspots for trainee withdrawals are within ITT factors and
 
 - Non-British TTs have higher than expected withdrawal rates for HPITT (route) and give different reasons to British trainees
 
-- Trainees with a disability have higher withdrawal rates overall and by institution type (SCITT) and route (HPITT). They also give different reasons to those without a disability and 'does not want to become a teacher' is only 1.15% of the reasons given by those with a disability
+- Trainees with a disability have higher withdrawal rates overall and by institution type (SCITT) and route (HPITT). They also give different reasons to those without a disability and ‘does not want to become a teacher’ is only 1.15% of the reasons given by those with a disability
 
 ## Next steps
 

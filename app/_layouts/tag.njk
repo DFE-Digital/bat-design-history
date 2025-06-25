@@ -1,0 +1,39 @@
+{% extends "base.njk" %}
+
+{% from "dist/govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
+{% from "document-list/macro.njk" import appDocumentList %}
+{% from "prose/macro.njk" import appProse %}
+
+{% set normalisedTag = tag.name | lower %}
+{% set items = collections.postsByTag.get(normalisedTag) %}
+
+{% block beforeContent %}
+  {{ govukBreadcrumbs({
+    items: [
+      {
+        text: "Home",
+        href: "/"
+      },
+      {
+        text: "Tags",
+        href: "/tags"
+      }
+    ]
+  }) }}
+{% endblock %}
+
+{% block content %}
+  {{ appProse({
+    prose: content
+  }) }}
+  <div class="govuk-grid-row">
+    <section class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-l">Posts tagged ‘{{ tag.name }}’</h1>
+      {{ appDocumentList({
+        classes: "govuk-!-margin-bottom-6",
+        showServiceName: true,
+        items: items
+      }) }}
+    </section>
+  </div>
+{% endblock %}

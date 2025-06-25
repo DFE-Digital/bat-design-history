@@ -85,7 +85,7 @@ We moved the ‘Accredited provider’ filter above the ‘Schools’ filter.
 
 We do not include payment, sampling and clawback actions in the ‘All claims’ section. This is because:
 
-- the 'All claims' section is a general overview of the state of the service and each claim is ‘view only’
+- the ‘All claims’ section is a general overview of the state of the service and each claim is ‘view only’
 - the three sections (payments, sampling and clawbacks) contain discrete workflows that help users manage each process
 - we do not want to duplicate actions or overload the ‘All claims’ section with actions related to other sections
 - we show actions in their appropriate sections and use them as a way to make what’s possible obvious - for example, we do not hide buttons, and when users cannot do an action, we show reasons why

@@ -144,7 +144,7 @@ We recommend exploring the following options:
 
 There needed to be more clarity on how to action claims within the support console.
 
-Participants thought they could perform all actions on the 'All claims' page. They needed help understanding why and how to perform actions within each section.
+Participants thought they could perform all actions on the ‘All claims’ page. They needed help understanding why and how to perform actions within each section.
 
 However, they said they would better understand how it worked after training.
 

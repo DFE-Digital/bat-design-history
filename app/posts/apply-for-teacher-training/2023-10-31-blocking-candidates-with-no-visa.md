@@ -21,7 +21,7 @@ This inset text did not stop candidates from submitting their application withou
 
 ## What we did
 
-We have revisited the user journey from when candidates fill out their details in the 'Your details' tab to adding an application on the 'Your application' tab.
+We have revisited the user journey from when candidates fill out their details in the ‘Your details’ tab to adding an application on the ‘Your application’ tab.
 
 We hid the submit button and replaced it with a warning message to stop the candidate submitting their application. This message would show if a candidate answers ‘No’ to the question about if they have the right to work or study in the UK, and they add a course that does not have visa sponsorship.
 

@@ -4,7 +4,7 @@ description: We added more links to advice pages on the Get Into Teaching websit
 date: 2022-11-18
 tags:
   - advice
-  - Get Into Teaching
+  - get into teaching
 ---
 
 We were missing some opportunities to link to advice pages on Get Into Teaching from Find postgraduate teacher training (Find). To make sure candidates can easily access more information about teacher training, we added and updated links to Get Into Teaching. We also improved the content.
@@ -22,7 +22,7 @@ We added and updated links to the Get Into Teaching website from:
 
 We updated the content to emphasise contacting a teacher training adviser, should a candidate need further help and support. The paragraph about ways to train was removed as it detracted from the central call to action - contacting a teacher training advisor.
 
-We changed the 'teacher training adviser' link from the [Get an adviser start page](https://adviser-getintoteaching.education.gov.uk/) to the [teacher training advisers](https://getintoteaching.education.gov.uk/teacher-training-advisers) page on Get Into Teaching. We made this change to be consistent with other links out from Find - linking to Get Into Teaching rather than a GOV.UK page. Users can easily access more resources from this page.
+We changed the ‘teacher training adviser’ link from the [Get an adviser start page](https://adviser-getintoteaching.education.gov.uk/) to the [teacher training advisers](https://getintoteaching.education.gov.uk/teacher-training-advisers) page on Get Into Teaching. We made this change to be consistent with other links out from Find - linking to Get Into Teaching rather than a GOV.UK page. Users can easily access more resources from this page.
 
 ![Support and advice](support-and-advice.png)
 
@@ -52,4 +52,4 @@ Candidates may want to be able to find out more general information about gettin
 
 We are reviewing the Find start page to see how we can improve the content and link to the most relevant pages on Get Into Teaching.
 
-The content in the 'Financial support from the government' section for salaried courses needs to be improved. Currently, we say that no other financial support is available. However, the government may offer financial support depending on the candidates' needs. For example, Disabled Students' Allowance (DSA) is paid in addition to a salary, should the candidate be eligible.
+The content in the ‘Financial support from the government’ section for salaried courses needs to be improved. Currently, we say that no other financial support is available. However, the government may offer financial support depending on the candidates’ needs. For example, Disabled Students’ Allowance (DSA) is paid in addition to a salary, should the candidate be eligible.

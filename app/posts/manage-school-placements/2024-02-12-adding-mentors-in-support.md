@@ -126,7 +126,7 @@ When a user adds a mentor to Placements, and they or another user adds the same 
 
 ### Removing a mentor
 
-Users must confirm the mentor’s removal when they select' Remove mentor'.
+Users must confirm the mentor’s removal when they select’ Remove mentor’.
 
 When users remove a mentor from the organisation, we retain their data. We must keep a historical record of mentors allocated to placements and trainees.
 

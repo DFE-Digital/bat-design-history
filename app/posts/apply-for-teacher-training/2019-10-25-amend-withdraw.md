@@ -27,10 +27,7 @@ screenshots:
       src: dashboard-withdrawn.png
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "[We did not build the amending application design](/apply-for-teacher-training/amending-mvp)" | markdown("inline")
-}) }}
+> [We did not build the amending application design](/apply-for-teacher-training/amending-mvp/).
 
 First spike to support two features of the application process:
 

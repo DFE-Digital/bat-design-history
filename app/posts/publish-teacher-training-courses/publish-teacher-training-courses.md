@@ -8,6 +8,11 @@ related:
       description: |
         Password: `bat`
       href: https://publish-courses-prototype.herokuapp.com
+    - text: Prototype GitHub repository
+      href: https://github.com/DFE-Digital/publish-teacher-training-prototype
+    - text: Live service GitHub repository
+      description: Publish teacher training courses uses the same codebase as Find teacher training courses
+      href: https://github.com/DFE-Digital/publish-teacher-training
 pagination:
   data: collections.publish-teacher-training-courses
   reverse: true

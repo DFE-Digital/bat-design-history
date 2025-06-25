@@ -1,6 +1,6 @@
 ---
 title: Changing how notes are displayed
-description: We changed the way notes are displayed since letting users change or delete them.
+description: Changes described here are unpublished. We changed the way notes are displayed since letting users change or delete them.
 date: 2022-03-28
 screenshots:
   items:
@@ -13,6 +13,8 @@ tags:
 We recently gave users a way to [change and delete notes](/manage-teacher-training-applications/letting-users-change-and-delete-notes/). We’ve made further changes and clarified how notes should work.
 
 ## What we changed
+
+*Changes described here are unpublished.*
 
 We moved the name of the creator to above the note so that it’s immediately visible even if the note is long.
 

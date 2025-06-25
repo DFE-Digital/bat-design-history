@@ -37,7 +37,7 @@ In user research we observed that some participants confused the ‘Select all t
 
 ## How it works
 
-![Image showing the flow diagram for adding a subject to a school placement](add-placement-flow.png 'Add a placement flow')
+![Image showing the flow diagram for adding a subject to a school placement](add-placement-flow.png ‘Add a placement flow')
 
 ### Subjects list (primary and secondary)
 

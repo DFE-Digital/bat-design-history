@@ -5,9 +5,10 @@ date: 2023-05-27
 tags:
   - locations
   - study sites
+  - javascript
 related:
   items:
-    - text: Managing 'Study sites' on behalf of providers
+    - text: Managing ‘Study sites’ on behalf of providers
       href: /support-for-publish/managing-study-sites-on-behalf-of-providers/
 screenshots:
   items:

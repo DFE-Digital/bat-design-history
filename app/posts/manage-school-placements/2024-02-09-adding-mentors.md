@@ -128,7 +128,7 @@ When a user adds a mentor to Placements, and they or another user adds the same 
 
 ### Removing a mentor
 
-Users must confirm the mentor’s removal when they select' Remove mentor'.
+Users must confirm the mentor’s removal when they select’ Remove mentor’.
 
 When users remove a mentor from the organisation, we retain their data. We must keep a historical record of mentors allocated to placements and trainees.
 
@@ -171,7 +171,7 @@ We only collect a few pieces of information for the mentor, including first name
 
 If the mentor updates their information in DQT, we can update it in Placements periodically.
 
-In the future, we may consider allowing users to change mentors' names, for example, if they use a different first name than is held by DQT. We’ll likely add an additional ‘known as’ field to capture this information.
+In the future, we may consider allowing users to change mentors’ names, for example, if they use a different first name than is held by DQT. We’ll likely add an additional ‘known as’ field to capture this information.
 
 *[DQT]: Database of Qualified Teachers
 *[TRN]: Teacher Reference Number

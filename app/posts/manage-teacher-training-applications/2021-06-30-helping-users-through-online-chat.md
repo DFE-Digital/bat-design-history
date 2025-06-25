@@ -2,13 +2,14 @@
 title: Helping users through online chat
 description: Giving users a way to get help through online chat
 date: 2021-06-30
+tags:
+  - online chat
+  - javascript
 screenshots:
   items:
     - Offline
     - Online
     - JavaScript unavailable
-tags:
-  - online chat
 ---
 
 UCAS provides users with email and phone support. Our service only provides email.

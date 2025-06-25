@@ -41,7 +41,7 @@ In addition we added support for synonyms, so that we could add common alternati
 
 This means that ‘maths’ now suggests ’Mathematics’ and ‘ucl’ now suggests ‘University College London’.
 
-We re-used [the implementation from Register](/register-trainee-teachers/autocomplete-improvements/), which also made some other improvements to the filtering, such as ignoring common words like 'the' and 'of'.
+We re-used [the implementation from Register](/register-trainee-teachers/autocomplete-improvements/), which also made some other improvements to the filtering, such as ignoring common words like ‘the’ and ‘of’.
 
 ## Research
 

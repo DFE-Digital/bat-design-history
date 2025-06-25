@@ -20,9 +20,6 @@ screenshots:
       src: 06-personal-details-summary-with-residency-status.png
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "[We iterated this design before opening up the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status)" | markdown("inline")
-}) }}
+> We iterated this design before [opening the service to international candidates](/apply-for-teacher-training/international-candidates/#residency-and-visa-status/).
 
 The residency status screen is shown when a non EU (and perhaps non EEA) nationality is selected.

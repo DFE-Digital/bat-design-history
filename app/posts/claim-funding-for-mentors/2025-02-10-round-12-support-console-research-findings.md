@@ -1,6 +1,6 @@
 ---
 title: Round 12 support console research findings
-description: Second round of research to understand how support users will use the payment, sampling and clawback processes
+description: Third round of research to understand how support users will use the payment, sampling and clawback processes
 date: 2025-02-10
 tags:
   - research
@@ -129,11 +129,11 @@ They did not understand why they could not action a claim from the ‘All claims
 
 ### Recommend action
 
-Add warning component/content within claims in 'All claims' area to make support users aware that they need to go to the correct area within console, for example ‘Payments’ to action a payment related task within a claim.
+Add warning component/content within claims in ‘All claims’ area to make support users aware that they need to go to the correct area within console, for example ‘Payments’ to action a payment related task within a claim.
 
 ## Finding 3
 
-It isn't clear from the 'All claims' page which claims are to be sent to ESFA ahead of sending them.
+It isn't clear from the ‘All claims’ page which claims are to be sent to ESFA ahead of sending them.
 
 The operations manager expects to be able to check this before completing this action.
 
@@ -143,7 +143,7 @@ Support users expected to be able to filter all claims to find claims that are t
 
 - Explore the use of a banner
 - Explore claims that have been sent to ESFA to be shown in payments sub menu, even though there is no action to take
-- Improve 'there are no claims waiting to be processed' content as this caused confusion
+- Improve ‘there are no claims waiting to be processed’ content as this caused confusion
 - Provide additional guidance that all claims with the status "Submitted" are to be sent to the ESFA
 
 ## Finding 4

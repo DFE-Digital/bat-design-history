@@ -22,20 +22,8 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
   "considerTeaching": {
     "teachers": [
       {
-        "name": "Get personalised guidance to your inbox",
-        "href": "https://getintoteaching.education.gov.uk/mailinglist/signup/name"
-      },
-      {
-        "name": "Find an event near you",
-        "href": "https://getintoteaching.education.gov.uk/events"
-      },
-      {
-        "name": "Apply for a teaching internship",
-        "href": "https://getintoteaching.education.gov.uk/teaching-internship-providers"
-      },
-      {
-        "name": "Get an adviser",
-        "href": "https://adviser-getintoteaching.education.gov.uk"
+        "name": "Get Into Teaching",
+        "href": "https://getintoteaching.education.gov.uk/"
       },
       {
         "name": "Get school experience",
@@ -47,9 +35,6 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
       }
     ],
     "providers": [
-      {
-        "name": "Manage events"
-      },
       {
         "name": "Manage school experience",
         "href": "https://schoolexperience.education.gov.uk/schools"
@@ -137,7 +122,7 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
         "href": "https://check-the-childrens-barred-list.education.gov.uk"
       },
       {
-        "name": "Appropriate Body Portal",
+        "name": "Record Inductions as an Appropriate Body",
         "href": "https://teacherservices.education.gov.uk/appropriatebody/index/appropriatebody"
       }
     ]

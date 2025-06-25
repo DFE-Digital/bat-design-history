@@ -101,7 +101,7 @@ When a school has been selected and the filters have been applied, the remove fi
 
 #### Accredited providers filter
 
-The accredited providers' filter only shows accredited providers included in the claims submitted by the schools.
+The accredited providers’ filter only shows accredited providers included in the claims submitted by the schools.
 
 If there are more than 15 accredited providers, a scrollable region is created, and JavaScript is used to add a search box. Typing in the search box updates the list below with accredited providers matching the search term. If there are no matches, the list is empty.
 

@@ -6,7 +6,7 @@ tags:
   - safeguarding
 related:
   items:
-    - text: 'Provider research playback'
+    - text: ‘Provider research playback'
       href: https://docs.google.com/presentation/d/1Im8T9MkiuyvPnkHa4tOeZU9M-Sl_E10Zkv2mrn6lEJY/edit#slide=id.p
 ---
 

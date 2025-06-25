@@ -3,7 +3,7 @@ title: Changes to the service’s start page
 description: Updating the service’s start page based on user feedback and behaviour
 date: 2024-10-15
 tags:
-  - start page
+  - start pages
 related:
   items:
     - text: Round 1 research findings

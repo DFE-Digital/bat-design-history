@@ -1,6 +1,6 @@
 ---
 title: User research round 7 findings
-description: Understanding ITT providers' experiences since the launch of the Private Beta and testing trainee data concept prototypes
+description: Understanding ITT providers’ experiences since the launch of the Private Beta and testing trainee data concept prototypes
 date: 2024-07-23
 tags:
   - research
@@ -19,7 +19,7 @@ The research participants included:
 
 The goal of user research round 7 was to answer the following questions:
 
-- What have ITT providers' experiences been, so far, using the live service during the Private Beta?
+- What have ITT providers’ experiences been, so far, using the live service during the Private Beta?
 - Have the iterations made to the ‘find placements’ journey addressed the user feedback from [user research round 5](/manage-school-placements/user-research-round-5-findings/)?
 - What other changes and improvements should be prioritised from an ITT provider perspective?
 - Which potential uses of trainee data within the service have the greatest potential to be useful for ITT providers? (testing our design ideas using prototypes)

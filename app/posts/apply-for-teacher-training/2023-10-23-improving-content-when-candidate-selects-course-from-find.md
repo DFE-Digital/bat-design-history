@@ -18,7 +18,7 @@ We found that the content we show when users are selecting a course from Find wa
 
 ## What we did
 
-We updated the content to be clearer about what Find is for by including a list of bullet points which aid scanning.  
+We updated the content to be clearer about what Find is for by including a list of bullet points which aid scanning.
 
 We also removed the service name as we do not usually mention service names as ‘nouns’ to candidates. Instead, we describe the thing the candidate needs to do.
 
@@ -26,11 +26,11 @@ We also made sure all the text was the same size and removed the ‘Start now’
 
 Content we used to show before candidates navigated to Find.
 
-![Screenshot of the 'Your applications' tab showing content in different sizes and the wrong green button.](old-find-content.png)
+![Screenshot of the ‘Your applications’ tab showing content in different sizes and the wrong green button.](old-find-content.png)
 
 The new content we show when candidates navigate to Find.
 
-![Screenshot of the 'Your applications' tab new content and a bullet list explaining what the service 'Find' does with a green button that says 'Continue.](new-find-content.png)
+![Screenshot of the ‘Your applications’ tab new content and a bullet list explaining what the service ‘Find’ does with a green button that says ‘Continue.](new-find-content.png)
 
 ## Updating error messages
 
@@ -47,7 +47,7 @@ We realised this content is very old and uses an old ‘warning’ pattern.
 
 Some of the content did not follow the GOV.UK style guidelines and there were no clear calls to action on what candidates could do to fix the issue.
 
-![Screenshot of a red warning banner with content saying 'You have already selected a course.](old-warning-already-selected-course.png)
+![Screenshot of a red warning banner with content saying ‘You have already selected a course.](old-warning-already-selected-course.png)
 
 The new content is:
 
@@ -55,11 +55,11 @@ The new content is:
 
 This content helps the user fix the issue by giving them a call to action that links back to Find.
 
-![Screenshot of a red warning banner with content saying 'You have already selected a course.](new-warning-already-added-application.png)
+![Screenshot of a red warning banner with content saying ‘You have already selected a course.](new-warning-already-added-application.png)
 
 The second warning banner also did not tell users how to fix the issue.
 
-![Screenshot of a red warning banner with content saying 'You cannot apply to a course because you already have applied to the maximum number of courses.](old-warning-too-many-choices.png)
+![Screenshot of a red warning banner with content saying ‘You cannot apply to a course because you already have applied to the maximum number of courses.](old-warning-too-many-choices.png)
 
 The new content is:
 
@@ -81,6 +81,6 @@ This content helps the user on to the next step even though the issue is likely 
 
 ## Further considerations
 
-At the time we were not able to update the old ‘warning’ pattern. We think this should follow the ‘Error summary’ pattern in the GOV.UK Design System.  
+At the time we were not able to update the old ‘warning’ pattern. We think this should follow the ‘Error summary’ pattern in the GOV.UK Design System.
 
 We will update this pattern in the new recruitment cycle.

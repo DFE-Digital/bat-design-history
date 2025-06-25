@@ -53,7 +53,7 @@ Selecting ‘change’ on the course row takes the user to our existing route se
 
 After picking the new route we do a number of things:
 
-- if the new route does not have Publish courses, we delete any existing Publish information we have on the trainees' course details such as course code and course name.
+- if the new route does not have Publish courses, we delete any existing Publish information we have on the trainees’ course details such as course code and course name.
 - if the new route has changed, we check for incompatible course data and delete it. For example deleting study mode when moving to assessment only courses, or deleting Early years subjects when moving away from Early years courses.
 - if the new route has Publish courses, we then show the Publish course picking flow.
 - if the new route does not have Publish courses, we show the manual course details flow.

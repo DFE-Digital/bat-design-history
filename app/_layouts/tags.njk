@@ -1,0 +1,29 @@
+{% extends "base.njk" %}
+
+{% from "dist/govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
+
+{% block beforeContent %}
+  {{ govukBreadcrumbs({
+    items: [
+      {
+        text: "Home",
+        href: "/"
+      }
+    ]
+  }) }}
+{% endblock %}
+
+{% block content %}
+  <div class="govuk-grid-row">
+    <section class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-l">Tags</h1>
+      <ul class="govuk-list govuk-list--bullet">
+        {% for tag in collections.allTags %}
+          <li>
+            <a href="/tags/{{ tag.name | slug }}">{{ tag.name }}</a> ({{ tag.count }})
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+{% endblock%}

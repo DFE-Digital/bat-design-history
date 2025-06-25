@@ -22,7 +22,7 @@ screenshots:
       src: placement-details-select.png
 ---
 
-Previously, users could only add placements to the service if they had already added one or more mentors. User research showed us that this was viewed as a barrier to adding placements. Mentors are often decided later on in the process, so users expected to mainly use 'not yet known' while initially adding placements.
+Previously, users could only add placements to the service if they had already added one or more mentors. User research showed us that this was viewed as a barrier to adding placements. Mentors are often decided later on in the process, so users expected to mainly use ‘not yet known’ while initially adding placements.
 
 ## What we changed
 
@@ -35,7 +35,7 @@ We have:
 
 ![Add mentor flow](add-placement-flow.png "Add placement flow when no mentors are present")
 
-There is now an 'add placement' button visible on the Placements page at all times. If the user adds a placement before any mentors have been added to the service, the add mentor screen is not shown.
+There is now an ‘add placement’ button visible on the Placements page at all times. If the user adds a placement before any mentors have been added to the service, the add mentor screen is not shown.
 
 The flow is:
 

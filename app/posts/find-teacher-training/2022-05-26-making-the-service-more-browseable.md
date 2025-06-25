@@ -29,7 +29,7 @@ Some of the reasons for this were:
 - they did not have a specific location in mind, as they were willing to move
 - the questions made them worry they were about to start an application, but were not yet ready to commit
 - they did not yet understand how the process of finding and applying for a course worked
-- the GOV.UK branding looked 'official' (like submitting taxes) compared to the marketing websites
+- the GOV.UK branding looked ‘official’ (like submitting taxes) compared to the marketing websites
 
 ## Hypothesis
 
@@ -51,13 +51,13 @@ Below this, we added some content to guide users who may not yet have decided wh
 
 Finally, we included some guidance for people who’re already school teachers - who may be eligible to qualify as a teacher a different way.
 
-![Screenshots showing old and new designs for the homepage, with the old design containing a 3 radio button options and the new design showing more content, two green buttons labelled 'Find primary courses' and 'Find secondary courses' and further links below](find-before-and-after.png "Existing first page compared with the prototype new one")
+![Screenshots showing old and new designs for the homepage, with the old design containing a 3 radio button options and the new design showing more content, two green buttons labelled ‘Find primary courses’ and ‘Find secondary courses’ and further links below](find-before-and-after.png "Existing first page compared with the prototype new one")
 
 ### Secondary subjects
 
 For the secondary age group, we then then took users to a page listing all the different subjects available, divided into 2 lists depending on whether a bursary or scholarship was on offer. We added numbers in brackets to indicate how many courses were available for each subject.
 
-![Screenshot showing page titled 'Find secondary teacher training courses' with a list of subjects](find-secondary-courses.png "Prototype new secondary courses page")
+![Screenshot showing page titled ‘Find secondary teacher training courses’ with a list of subjects](find-secondary-courses.png "Prototype new secondary courses page")
 
 ### Location
 
@@ -69,11 +69,11 @@ Beneath the location box we added some guidance about the application process, i
 - when the deadline for applications is
 - that courses can fill up before the deadline
 
-![Screenshot showing page titled 'Find Biology teacher training courses'](secondary-subject.png "Prototype new secondary subject page")
+![Screenshot showing page titled ‘Find Biology teacher training courses'](secondary-subject.png "Prototype new secondary subject page")
 
 When selecting the primary age group, we skipped the subject page and took users straight to a similar page listing regions and cities for primary courses. This was because the number of primary specialist subject courses available is very small, and users sometimes misunderstand how these courses work.
 
-![Screenshot showing page titled 'Find primary teacher training courses'](primary.png "Prototype new primary courses page")
+![Screenshot showing page titled ‘Find primary teacher training courses'](primary.png "Prototype new primary courses page")
 
 ## User research summary
 

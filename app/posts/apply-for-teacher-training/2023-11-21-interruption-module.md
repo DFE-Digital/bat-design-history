@@ -47,7 +47,7 @@ We conducted user research sessions in November 2023. We found that:
 
 - most users were drawn to the statistic ‘90% of successful candidates write about 500 words or more’.
 
-> "What stands out to me is '90% of successful candidates write this." - research participant 2
+> "What stands out to me is ‘90% of successful candidates write this." - research participant 2
 
 - all users understood that the purpose of the message was to encourage candidates to write more to increase their chance of getting and offer
 

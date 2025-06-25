@@ -1,6 +1,6 @@
 ---
 title: Round 3 research findings
-description: We tested the final iterations of the prototype ahead of private beta go live
+description: We tested the final iterations of the prototype ahead of the private beta going live
 date: 2024-04-19
 tags:
   - research
@@ -40,13 +40,13 @@ Of which:
 {{ appUserNeed({
   description: "As a multi-academy trust,
   I need to be able to submit claims on behalf of other schools within our trust,
- So that I am able to reduce the burden on schools having to submit claims individually."
+ So that I can reduce the burden on schools to submit claims individually."
 }) }}
 
 {{ appUserNeed({
   description: "As a multi-academy trust,
   I need to be able to view claims across the different schools within our trust,
-  So that, we can manage the number of claims and funding across our trust."
+  So that we can manage the number of claims and funding across our trust."
 }) }}
 
 ## Key insights
@@ -61,21 +61,27 @@ Further research is required to determine the different types of MATs and their 
 
 ### Confusion around what they are claiming for
 
-Some participants needed help understanding the funding. They thought that they were claiming funding for the time spent training trainees. Users risk not receiving the full benefit of the funding if they do not understand what they are claiming.
+Some participants needed help understanding the funding. They thought they were claiming funding for the time spent training trainees. Users who do not understand what they are claiming risk not receiving the full benefit of the funding.
 
 ### Users continue to get confused as to where they go to claim after adding a mentor
 
 After adding mentors, no specific call to action directs users to make a claim. They must navigate to ‘claims’ themselves.
 
-The primary navigation is ordered with ‘Claims’ first and ‘Mentors’ second. This is the opposite of what we initially asked them to do: add mentors and then create a claim.
+The primary navigation is ordered with ‘Claims’ first and ‘Mentors’ second. This is the opposite of what we initially asked them to do: add mentors and create a claim.
 
 ### The journey for making separate claims for mentors, relating to different providers, causes confusion
 
 Once users have submitted a claim with a selection of mentors for a provider, they are unsure what the next step is to claim a separate provider and include different mentors.
 
-Another problem they experienced was once making a different claim. Because we display all mentors and keep the ones they have already claimed for, they said figuring out which mentors they have already claimed for would get confusing.
+An additional problem they experienced was once making a different claim. During the research, the prototype displayed all mentors, even the ones for which they had already claimed. As a result, users said figuring out which mentors they had already claimed would be confusing.
 
-## Next steps – post go live
+## Next steps
+
+### Updating the prototype
+
+We will update the prototype to prevent duplicate mentor provider claims within an organisation (school) and between organisations (schools).
+
+### User research
 
 Throughout our research, we have identified some clear areas for further study. These areas include:
 
@@ -83,7 +89,7 @@ Throughout our research, we have identified some clear areas for further study. 
 - Understanding the needs of providers and School Centred Teacher Training providers (SCITTs)
 - Further testing of more ‘complex’ journeys where there are multiple providers and a more significant number of mentors
 
-This research will take place post private beta launch from May 2024 onwards.
+This research will take place post-private beta launch from May 2024 onwards.
 
 *[MAT]: multi-academy trust
 *[MATs]: multi-academy trusts

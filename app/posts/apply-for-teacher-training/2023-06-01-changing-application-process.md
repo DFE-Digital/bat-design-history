@@ -51,17 +51,17 @@ We added a navigation bar and created a section called ‘Your details’. In th
 
 The ‘Your applications’ tab would allow candidates to search for and choose a course to apply to.
 
-![Screenshot showing a navigation bar with two tabs. One says 'Your details' and the other says 'Your applications'.](new-nav-bar.png)
+![Screenshot showing a navigation bar with two tabs. One says ‘Your details’ and the other says ‘Your applications’.](new-nav-bar.png)
 
 ### Adding courses
 
 If a candidate had not filled out all the sections in ‘Your details’, we would show a message telling candidates they needed to do that before they could add a course.
 
-![Screenshot showing a message that says 'You need to complete your details before you can apply to any courses'.](incomplete-details.png)
+![Screenshot showing a message that says ‘You need to complete your details before you can apply to any courses’.](incomplete-details.png)
 
 If they had completed the ‘Your details’ section, they could begin adding a course. We designed a new flow for adding a course.
 
-![Screenshot showing content that explains users can add up to 4 courses at a time. It also explains how course can fill up quickly so the user should apply soon. After the content is a green button that says 'Add application'.](adding-applications.png)
+![Screenshot showing content that explains users can add up to 4 courses at a time. It also explains how course can fill up quickly so the user should apply soon. After the content is a green button that says ‘Add application’.](adding-applications.png)
 
 Once a candidates starts adding their courses, we would display them like we do now, with a status attached. We’d also tell them how many courses they have left to apply to.
 
@@ -81,11 +81,11 @@ As a team we had a workshop to look at alternative ways to help candidates have 
 
 The option we tested was to allow an application to become ‘inactive’ after 40 working days. This would allow candidates to submit another application while they wait for a response. Training providers would still be able to respond to an ‘inactive’ application too.
 
-![Screenshot showing an application to a training provider called 2 Schools Consortium. The application is to a Chemistry course. The status of the application says 'Inactive' and explains that the candidate can apply for another course while they wait for a response on this application.](inactive-application.png)
+![Screenshot showing an application to a training provider called 2 Schools Consortium. The application is to a Chemistry course. The status of the application says ‘Inactive’ and explains that the candidate can apply for another course while they wait for a response on this application.](inactive-application.png)
 
 We also tested another option where there would be no 40 working day time limit and instead we tell candidates to just withdraw the application if they have not heard anything from providers.
 
-![Screenshot showing an application to a training provider called Alban Federation SCITT. The application is to an English course. The status of the application says 'Awaiting decision' and explains that the candidate can withdraw the application and apply somewhere else if they do not receive a response from the training provider.](waiting-for-decision.png)
+![Screenshot showing an application to a training provider called Alban Federation SCITT. The application is to an English course. The status of the application says ‘Awaiting decision’ and explains that the candidate can withdraw the application and apply somewhere else if they do not receive a response from the training provider.](waiting-for-decision.png)
 
 ## What we learnt
 

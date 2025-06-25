@@ -30,6 +30,11 @@
   margin: govuk-spacing(1) 0;
 }
 
+.app-document-list__item-service {
+  @include govuk-font($size: 19);
+  color: govuk-colour("dark-grey");
+}
+
 .app-document-list__attribute {
   @include govuk-font($size: 16);
   display: inline-block;

@@ -8,10 +8,10 @@ tags:
   - timeline
 ogImage:
   src: showing-updated-apps.png
-  alt: "Illustration showing a list of applications with the header 'Received – make a decision'. There are 5 applications in the list with each one showing the name of the candidate, the status each application is in, how long ago the application was received and 2 applications that have been updated."
+  alt: "Illustration showing a list of applications with the header ‘Received – make a decision’. There are 5 applications in the list with each one showing the name of the candidate, the status each application is in, how long ago the application was received and 2 applications that have been updated."
 ---
 
-![Illustration showing a list of applications with the header 'Received – make a decision'. There are 5 applications in the list with each one showing the name of the candidate, the status each application is in, how long ago the application was received and 2 applications that have been updated.](showing-updated-apps.png)
+![Illustration showing a list of applications with the header ‘Received – make a decision’. There are 5 applications in the list with each one showing the name of the candidate, the status each application is in, how long ago the application was received and 2 applications that have been updated.](showing-updated-apps.png)
 
 As part of our work to [change the application process](/apply-for-teacher-training/changing-application-process/), we decided to allow candidates to edit parts of their application form after they’ve submitted it. Most of the [changes we made were in Apply for teacher training (Apply)](/apply-for-teacher-training/allowing-candidates-to-edit-application/). However, we also needed to reflect some of these changes in Manage teacher training applications (Manage).
 
@@ -19,7 +19,7 @@ This feature will be released in the 2023 to 2024 recruitment cycle which starts
 
 ## The issue
 
-The new feature in the application process now allows candidates to modify some of their information within the 'Your details' section after they’ve submitted an application.
+The new feature in the application process now allows candidates to modify some of their information within the ‘Your details’ section after they’ve submitted an application.
 
 These updates need to be reflected in Manage so that any changes on an application are clearly visible to training providers.
 
@@ -43,7 +43,7 @@ A variation of the blue notification banner if it has been updated the same day.
 
 ### Timeline tab
 
-We also updated the timeline tab, by adding a section called 'Application updated' to show what has been updated. For example, the candidate’s address or phone number.
+We also updated the timeline tab, by adding a section called ‘Application updated’ to show what has been updated. For example, the candidate’s address or phone number.
 
 ![Screenshot showing the timeline tab](timeline.png)
 

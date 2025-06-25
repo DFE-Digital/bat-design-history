@@ -35,7 +35,7 @@ We had several ways of formatting age range and age group across the service.
 
 This formatting didn't match how this information is communicated in Get Into Teaching.
 
-![screenshot of get into teaching website page on age range](find-summary-git-jan-2025.png)
+![screenshot of Get Into Teaching website page on age range](find-summary-git-jan-2025.png)
 
 ### Qualification
 
@@ -45,7 +45,7 @@ Research found that some users think qualification means the qualifications they
 
 ## What we changed
 
-We reverted back to using 'Fee or salary' for the row label. This made it clearer when courses paid a salary.
+We reverted back to using ‘Fee or salary’ for the row label. This made it clearer when courses paid a salary.
 
 To maximise consistency with [Get Into Teaching](https://getintoteaching.education.gov.uk/), we renamed "Age range" to "Age group" and updated the order of information.
 

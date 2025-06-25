@@ -46,7 +46,7 @@ We showed participants a prototype journey of how they could search for a placem
 
 ## How the prototype works
 
-![Image showing the flow diagram for finding a school placement](experiment-1-find-school-placements-flow.png 'Find a school placement flow')
+![Image showing the flow diagram for finding a school placement](experiment-1-find-school-placements-flow.png ‘Find a school placement flow')
 
 Finding a school placement has 5 steps:
 
@@ -58,7 +58,7 @@ Finding a school placement has 5 steps:
 
 ### Find school placements by location or by school
 
-![Image showing find school placements by location or by school page](experiment-1-find-placement--school-or-location.png 'Find school placements by location or by school')
+![Image showing find school placements by location or by school page](experiment-1-find-placement--school-or-location.png ‘Find school placements by location or by school')
 
 We display the list of locations in an autocomplete. We populate the list of places using the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview).
 
@@ -66,7 +66,7 @@ We display the list of schools in an autocomplete. We populate the list of schoo
 
 ### Age group
 
-![Image showing age group question](experiment-1-find-placement--age-group.png 'Age group question')
+![Image showing age group question](experiment-1-find-placement--age-group.png ‘Age group question')
 
 The question has 3 options:
 
@@ -86,7 +86,7 @@ Users must select at least one subject.
 
 #### Primary subject specialism
 
-![Image showing primary subject specialism question](experiment-1-find-placement--subject-primary.png 'Primary subject specialism question')
+![Image showing primary subject specialism question](experiment-1-find-placement--subject-primary.png ‘Primary subject specialism question')
 
 We show a list of primary subject specialisms if a user selects the ‘primary’ age group. These include:
 
@@ -100,7 +100,7 @@ We show a list of primary subject specialisms if a user selects the ‘primary�
 
 #### Secondary subject
 
-![Image showing secondary subject question](experiment-1-find-placement--subject-secondary.png 'Secondary subject question')
+![Image showing secondary subject question](experiment-1-find-placement--subject-secondary.png ‘Secondary subject question')
 
 We show a list of secondary subjects if a user selects the ‘secondary’ age group. These include:
 
@@ -147,7 +147,7 @@ If the user has not answered the question, we show an error message:
 
 ### List of school placements
 
-![Image showing the list of school placements page](experiment-1-find-placement--results.png 'List of school placements')
+![Image showing the list of school placements page](experiment-1-find-placement--results.png ‘List of school placements')
 
 Once the user has selected their location, subject level and subject, we show them a list of relevant school placements.
 
@@ -177,7 +177,7 @@ An individual placement item on the list includes:
 
 ### School placement details
 
-![Image showing school placement details page](experiment-1-find-placement--details.png 'School placement details')
+![Image showing school placement details page](experiment-1-find-placement--details.png ‘School placement details')
 
 Selecting the school name or subject in the individual school placement list items takes the user to the school placement details page.
 

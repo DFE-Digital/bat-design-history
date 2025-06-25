@@ -1,6 +1,6 @@
 ---
 title: Allowing candidates to apply again earlier
-description: An exploration of changes to the rules around 'applying again'
+description: An exploration of changes to the rules around ‘applying again'
 date: 2021-07-21
 tags:
   - apply again

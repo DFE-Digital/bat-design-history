@@ -1,10 +1,10 @@
 ---
 title: Improving the ability to browse and search for courses - round 2 user research
-description: User research testing new designs on Find for the homepage, filters, and course page. 
+description: User research testing new designs on Find for the homepage, filters, and course page.
 date: 2025-01-14
 tags:
   - user research
-  - homepage  
+  - homepage
   - filters
   - pre-filtering
 related:
@@ -33,7 +33,7 @@ This was the second round of research looking at these designs.
 
 ## Who we spoke to
 
-We spoke to 8 prospective ITT candidates (6 international, and 2 domestic).  
+We spoke to 8 prospective ITT candidates (6 international, and 2 domestic).
 
 ## Methodology
 
@@ -43,7 +43,7 @@ In the first half of the session, they were asked to search for courses which we
 
 In the second half of the session, we asked follow-up questions to further understand their thoughts and behaviours.
 
-We iterated the designs between interviews based on initial findings.  
+We iterated the designs between interviews based on initial findings.
 
 ## Limitations
 
@@ -67,9 +67,9 @@ The sessions focused primarily on the Find homepage and filters so did not provi
 
 #### Search box
 
-Participants were unclear what to enter the 'Keywords' field.
+Participants were unclear what to enter the ‘Keywords’ field.
 
-We iterated the designs to change the field label to 'subject'.
+We iterated the designs to change the field label to ‘subject’.
 
 This was understood by participants, including those interested in primary
 
@@ -96,9 +96,9 @@ This made the primary journey consistent with the secondary journey.
 
 There was also no ability to filter by primary specialisms.
 
-Some participants searching for primary were confused by the 'Subject' filter.
+Some participants searching for primary were confused by the ‘Subject’ filter.
 
-We therefore iterated the filters replaced the 'Age group' filter with individual 'Primary', 'Secondary' and 'Further education' filters.
+We therefore iterated the filters replaced the ‘Age group’ filter with individual ‘Primary', ‘Secondary’ and ‘Further education’ filters.
 
 ![screenshot of age group filters](age-group-filters-round2.png)
 
@@ -112,7 +112,7 @@ We recommend that the primary specialisms page is added, and the new filter desi
 
 In the previous research round, participants did not see the filter button on mobile devices.
 
-In this round, we tested making the button in a new location and made it 'sticky', so that it stayed at the top of the page even when scrolling.
+In this round, we tested making the button in a new location and made it ‘sticky', so that it stayed at the top of the page even when scrolling.
 
 This did not solve the issue, and candidates still could not find the button.
 
@@ -132,15 +132,15 @@ The filter was iterated, and the new version was understood by participants.
 
 #### Qualifications filter
 
-Multiple participants from this round and previous rounds thought 'Qualifications' meant the qualifications they need to get into the course, rather than what they will achieve on completion of the course.
+Multiple participants from this round and previous rounds thought ‘Qualifications’ meant the qualifications they need to get into the course, rather than what they will achieve on completion of the course.
 
-The title of the filter was updated to 'Qualification awarded'.
+The title of the filter was updated to ‘Qualification awarded’.
 
 #### Start date filter
 
 We added a start date filter for testing, following feedback from teacher training advisors (TTAs) that it would be useful to some user groups.
 
-The participants were confused by the 'another date' response option. We updated the content to 'all other dates'.
+The participants were confused by the ‘another date’ response option. We updated the content to ‘all other dates’.
 
 This was better understood, however there was still some confusion about whether this meant courses in another year.
 
@@ -150,7 +150,7 @@ This was better understood, however there was still some confusion about whether
 - we recommend that the new version of the ‘Qualifications awarded’ should be implemented
 - we recommend that further design work and testing is needed on the ‘start date’ and Degree required’ filters to ensure that it is understood by candidates
 
-### Get into teaching (GIT) banner
+### Get Into Teaching (GIT) banner
 
 We tested a new banner on the results page, which included links to various GIT pages.
 
@@ -180,7 +180,7 @@ Participants understood the information in the callout box, however there was co
 
 #### Where you will train
 
-Participants were not satisfied when the location was marked as 'not listed yet'. For some, this would put them off applying to a course.
+Participants were not satisfied when the location was marked as ‘not listed yet’. For some, this would put them off applying to a course.
 
 ![screenshot of where you will train design](locations-round2.png)
 
@@ -199,7 +199,7 @@ The two main areas include:
 
 ### Course page recommendations
 
-- we recommend implementing the content tested for the financial support, and salaried courses call-out boxes. This includes the additional link in the salaried call-out box  
+- we recommend implementing the content tested for the financial support, and salaried courses call-out boxes. This includes the additional link in the salaried call-out box
 - we recommend the team does further research looking at how they can include more information about how and when international candidates are expected to pay their fees
 - we recommend reviewing the content used when a location is marked as ‘not listed yet’ so that that it gives candidates more information (e.g., they can contact the provider for more information.)
 - we recommend that we continue to include the ‘about this course’ section on the course page. We will continue to review and collate findings on the usefulness of this section for candidates
@@ -209,9 +209,9 @@ The two main areas include:
 
 The design changes we are confident in will be going live in early 2025.
 
-Design histories found here:  
+Design histories found here:
 
-- [Add links to get into teaching](/find-teacher-training/add-links-to-get-into-teaching/)
+- [Add links to Get Into Teaching](/find-teacher-training/add-links-to-get-into-teaching/)
 - [Add filters for teaching stages](/find-teacher-training/add-filters-for-teaching-stages/)
 - [Improving the ability to browse courses](/find-teacher-training/improving-the-ability-to-browse-courses/)
 - [Improving the ability to search courses](/find-teacher-training/improving-the-ability-to-search-courses/)

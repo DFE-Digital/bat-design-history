@@ -7,7 +7,7 @@ tags:
   - international
 ---
 
-We are trying to promote a more inclusive and informed environment for our prospective teachers, and the issue of course fees, particularly for international candidates, has surfaced as an important aspect. It stems from insights gathered during a workshop with international candidates held in November 2023. This resulted in a joint effort across the Get into teaching and Find & Apply services to improve transparency and comprehension surrounding fees.
+We are trying to promote a more inclusive and informed environment for our prospective teachers, and the issue of course fees, particularly for international candidates, has surfaced as an important aspect. It stems from insights gathered during a workshop with international candidates held in November 2023. This resulted in a joint effort across the Get Into Teaching and Find & Apply services to improve transparency and comprehension surrounding fees.
 
 By better highlighting fees for both international and domestic candidates, we aim not only to reduce the number of withdrawals attributed to cost reasons but also to ensure that applicants have the knowledge to make informed decisions about their teacher training journey.
 
@@ -17,7 +17,7 @@ One of the main observations from previous cycles is that lots of international 
 
 ## What we did
 
-We reviewed the end-to-end journey from GiT(Get into teaching) > Find > Apply around fees for international candidates to identify potential gaps in how we communicate fees. This holistic approach aimed to ensure that candidates receive consistent and comprehensive guidance at every step.
+We reviewed the end-to-end journey from GIT (Get Into Teaching) > Find > Apply around fees for international candidates to identify potential gaps in how we communicate fees. This holistic approach aimed to ensure that candidates receive consistent and comprehensive guidance at every step.
 
 In our research we found that lack of information about fees also affects domestic candidates. So, we surfaced the fees for both international and UK candidates on the search results page.
 
@@ -29,7 +29,7 @@ We also included the course fee at the top of the course page to make it more vi
 
 ## Further considerations
 
-We are going to conduct some user testing to gain insight into international candidates' understanding and awareness of course fees in the new designs, and how this impacts the process of applying for ITT.
+We are going to conduct some user testing to gain insight into international candidates’ understanding and awareness of course fees in the new designs, and how this impacts the process of applying for ITT.
 
 We are going to ask them if candidates notice the information on fees, are they aware which fees would apply to them? Do candidates take the fees into account when applying for a particular course? This will inform and help us work on the next stages of improving the course information page which is part of one of our problem statements for 2024: ‘Candidates struggle to find the right course for them to apply for’.
 

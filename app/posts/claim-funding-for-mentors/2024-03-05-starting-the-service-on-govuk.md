@@ -9,7 +9,7 @@ related:
     - text: Starting the Manage service on GOV.UK
       href: /manage-teacher-training-applications/starting-the-manage-service-on-govuk/
     - text: Posts tagged ‘start pages’
-      href: /tagged/start-pages
+      href: /tags/start-pages
 screenshots:
   items:
     - text: Start page

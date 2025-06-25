@@ -18,7 +18,7 @@ We understood from research that [Initial Teacher Training (ITT) providers have 
 
 We created a new field and guidance for ITT providers to add placement information about each of their trainees in the Register service. Providers can search and select a placement school by its unique reference number (URN), name or postcode.
 
-![A screenshot of placement fields in the Register service](placement-field-example-in-the-register-service.png 'Placement details in the Register service')
+![A screenshot of placement fields in the Register service](placement-field-example-in-the-register-service.png "Placement details in the Register service")
 
 ## What are ‘placements’
 

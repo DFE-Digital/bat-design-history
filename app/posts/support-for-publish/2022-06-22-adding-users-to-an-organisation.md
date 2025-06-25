@@ -38,7 +38,7 @@ This work builds upon our work to [simplify how organisations manage their users
 
 We added a two step process to enable the support team to add users to an organisation.
 
-We moved the ‘Remove user’ button next to each user on the users' list to the user details page and changed it to a link.
+We moved the ‘Remove user’ button next to each user on the users’ list to the user details page and changed it to a link.
 
 ## How it works
 

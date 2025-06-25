@@ -6,11 +6,11 @@ tags:
   - references
 ogImage:
   src: reference-illustration.png
-  alt: "Illustration with the title 'References', 2 bullet points and an empty text box"
+  alt: "Illustration with the title ‘References', 2 bullet points and an empty text box"
 
 ---
 {% from "email/macro.njk" import appEmail %}
-![Illustration with the title 'References', 2 bullet points and an empty text box](reference-illustration.png)
+![Illustration with the title ‘References', 2 bullet points and an empty text box](reference-illustration.png)
 
 We’ve [changed the references process](/apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/) so that candidates do not need to receive references before they submit their application, and instead only need to request references once they have accepted an offer.
 
@@ -22,7 +22,7 @@ Previously when giving a reference, people were asked the question ‘Does (cand
 
 There were also given a word limit of 500 words, and told they could save and return later if they needed more time.
 
-![Screenshot showing the heading 'Does Jane Doe have the potential to teach?' followed by 'You could comment on things like their commuication skills, reliability and punctuality, transferable skills, ablity to work with children or academic schools'.](old-reference-question.png "Previous design for reference screen")
+![Screenshot showing the heading ‘Does Jane Doe have the potential to teach?’ followed by ‘You could comment on things like their commuication skills, reliability and punctuality, transferable skills, ablity to work with children or academic schools’.](old-reference-question.png "Previous design for reference screen")
 
 With the change to collecting references after candidates had already accepted an offer, it was no longer appropriate to ask for such detail as the candidate’s potential for teaching would already have been assessed. At this point, the main reason for asking for a reference was for safeguarding purposes.
 
@@ -66,47 +66,47 @@ If you say you cannot give a reference, ((candidate name)) will know they should
 
 We added some content at the top confirming what the reference was for.
 
-![Screenshot showing the heading 'Give a reference for Jane Doe' followed by the question 'Can you give a reference for Jane Doe?' with Yes and No answers.](initial-question.png)
+![Screenshot showing the heading ‘Give a reference for Jane Doe’ followed by the question ‘Can you give a reference for Jane Doe?’ with Yes and No answers.](initial-question.png)
 
 ### Confirming how they know you
 
 We made a change to this page in response to some usability testing.
 
-Previously the options were "Yes" and "No". One research participant was nervous about selecting No, as they feared it’d reflect badly on the candidate or would reject the reference.
+Previously the options were “Yes” and “No”. One research participant was nervous about selecting No, as they feared it’d reflect badly on the candidate or would reject the reference.
 
-We changed the answer to "No, I’ll give a more accurate information". This aims to help users understand that if they select this option they’ll be able to write in their own answer.
+We changed the answer to “No, I’ll give a more accurate information”. This aims to help users understand that if they select this option they’ll be able to write in their own answer.
 
-We also changed the question from "Is this correct?" to "Is this description accurate?"
+We also changed the question from “Is this correct?” to “Is this description accurate?”
 
-![Screenshot showing the heading 'Confirm how Jane Doe knows you' followed by a quoted description and the question 'Is this description accurate?'](second-question.png)
+![Screenshot showing the heading ‘Confirm how Jane Doe knows you’ followed by a quoted description and the question ‘Is this description accurate?'](second-question.png)
 
 ### Safeguarding question
 
-A review of where users had previously answered "Yes" to "Do you know any reason why (candidate name) should not work with children" revealed that most users had misread the question, and had written positive things about the candidate into the text box. Whilst this was only a small percentage of the overall number of references given, we reviewed how we could improve this.
+A review of where users had previously answered “Yes” to “Do you know any reason why (candidate name) should not work with children” revealed that most users had misread the question, and had written positive things about the candidate into the text box. Whilst this was only a small percentage of the overall number of references given, we reviewed how we could improve this.
 
-We changed "Yes" to "Yes, I know a reason why they should not work with children" to help people scanning the page.
+We changed “Yes” to “Yes, I know a reason why they should not work with children” to help people scanning the page.
 
-We also added the hint text "Give facts, not your opinion". This was based on guidance in the [Keeping children safe in education policy](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2), which states that only substantiated allegations should be shared.
+We also added the hint text “Give facts, not your opinion”. This was based on guidance in the [Keeping children safe in education policy](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2), which states that only substantiated allegations should be shared.
 
-![Screenshot with the heading 'Do you know any reason why Jane Doe should not work with children?'](safeguarding.png)
+![Screenshot with the heading ‘Do you know any reason why Jane Doe should not work with children?'](safeguarding.png)
 
 ### Reference
 
 We reduced the amount of content on this page.
 
-The content now starts "Your reference should include facts, not your opinions."
+The content now starts “Your reference should include facts, not your opinions.”
 
-Some bullet point suggestions are included. These vary depending on the type of reference (academic, professional, from working in a school, or a 'character' reference).
+Some bullet point suggestions are included. These vary depending on the type of reference (academic, professional, from working in a school, or a ‘character’ reference).
 
 References to a word limit have been removed, to discourage users from thinking they need to write a long reference. The word count now only appears as the user approaches the 500 word limit.
 
-![Screenshot with the heading 'Reference for Jane Doe'](reference.png)
+![Screenshot with the heading ‘Reference for Jane Doe'](reference.png)
 
 ### Check your answers
 
-We simplified this page, focusing on the three answers given followed by a green 'Submit reference' button.
+We simplified this page, focusing on the three answers given followed by a green ‘Submit reference’ button.
 
-![Screenshot with the heading 'Check your reference for Jane Doe'](check-answers.png)
+![Screenshot with the heading ‘Check your reference for Jane Doe'](check-answers.png)
 
 ## Research
 
@@ -123,7 +123,7 @@ We asked them about their experience of giving references more generally, and fo
 We also tested our new flow with them, and found that they:
 
 - wanted a more specific indication of when the reference was needed by
-- were unclear what 'concerns about working with children' meant, particularly if they had not observed the candidate around children at all
+- were unclear what ‘concerns about working with children’ meant, particularly if they had not observed the candidate around children at all
 - were sometimes surprised by only needing to give factual information
 
 The participants also appreciated the idea that they would only be asked for a reference if a candidate was successful, as this would reduce the number of references they had to write.
@@ -136,5 +136,5 @@ We will consider:
 
 - how long it takes people to give a reference
 - if fewer people mis-interpret the safeguarding question
-- whether 'how you know them and how long you’ve known them' could be improved, perhaps by splitting it into 2 questions
+- whether ‘how you know them and how long you’ve known them’ could be improved, perhaps by splitting it into 2 questions
 - what kind of factual information people enter on the main reference page

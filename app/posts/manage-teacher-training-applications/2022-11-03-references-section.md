@@ -6,10 +6,10 @@ tags:
   - references
 ogImage:
   src: references-tab.png
-  alt: "Illustration with the heading 'References' and a box containing 'Name', 'Email address' and 'How the candidate knows them and how long for'"
+  alt: "Illustration with the heading ‘References’ and a box containing ‘Name', ‘Email address’ and ‘How the candidate knows them and how long for'"
 ---
 
-![Illustration with the heading "References" and a box containing 'Name', 'Email address' and 'How the candidate knows them and how long for'](references-tab.png)
+![Illustration with the heading "References" and a box containing ‘Name', ‘Email address’ and ‘How the candidate knows them and how long for'](references-tab.png)
 
 For the 2022 to 2023 recruitment cycle, we [changed the references process](/apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/) so that candidates do not need to receive references before they submit their application. They instead need to [give details of 2 people who can give a reference](/apply-for-teacher-training/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to/).
 
@@ -31,7 +31,7 @@ The design and content for this section is slightly different depending upon whe
 
 ### Before a decision has been made
 
-![Screenshot showing a page with the heading 'References' and the text 'References will be requested when the candidate accepts an offer. Do not contact these people before then without permission from the candidate.' followed by 2 references containing the details of their name, e-mail address and 'how the candidate knows them and for how long'](references-before-offer.png)
+![Screenshot showing a page with the heading ‘References’ and the text ‘References will be requested when the candidate accepts an offer. Do not contact these people before then without permission from the candidate.’ followed by 2 references containing the details of their name, e-mail address and ‘how the candidate knows them and for how long'](references-before-offer.png)
 
 When the application has been received, but the provider has not yet made a decision, we show the details of the people who can give a reference that the candidate provided on their application.
 
@@ -39,7 +39,7 @@ We added some content at the top to explain that references will be requested wh
 
 ### After a candidate has accepted an offer
 
-![Screenshot showing a page with the heading 'References' and the text 'The candidate has received 2 references and has requested 1 other reference'. This is followed by sub-heading 'Received references' which contains details of 2 references, including their name, email address, 'how the candidate knows them and for how long' and the actual received reference. This followed by another sub-heading 'Requested references' which contains details of 1 reference.](references-after-offer.png)
+![Screenshot showing a page with the heading ‘References’ and the text ‘The candidate has received 2 references and has requested 1 other reference’. This is followed by sub-heading ‘Received references’ which contains details of 2 references, including their name, email address, ‘how the candidate knows them and for how long’ and the actual received reference. This followed by another sub-heading ‘Requested references’ which contains details of 1 reference.](references-after-offer.png)
 
 Once a candidate has accepted an offer, the page shows a section for references that have been received, and another section for references that have been requested but not yet received. A line at the top summarises how many references are in each state.
 

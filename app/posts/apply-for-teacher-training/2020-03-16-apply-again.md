@@ -32,10 +32,7 @@ related:
       href: https://docs.google.com/presentation/d/18Jsb3Z55caFXD_3KatlHaqdwFClCdZeLYxi_QtCRmho/edit
 ---
 
-{% from "dist/govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
-{{ govukNotificationBanner({
-  html: "[We iterated this design after the first round of research](/apply-for-teacher-training/applying-again-iteration)" | markdown("inline")
-}) }}
+> [We iterated this design after the first round of research](/apply-for-teacher-training/applying-again-iteration/).
 
 If a candidate is not offered an interview by any of their initial 3 choices (or chooses not to accept an offer or withdraws their application), they can move to a secondary application phase. UCAS calls this ‘Apply 2’.
 
@@ -116,7 +113,7 @@ It might be possible for a candidate to apply to a course from Find when they ar
 - The ‘add another course’ flow does not happen
 - Add an apply again page and link to it in a banner on the dashboard
 - Show a ‘Your application was copied’ banner when a new application is made
-- Tweak the title of the application page to be "Your new application"
+- Tweak the title of the application page to be“Your new application”
 - Show previous applications in the right column
 - Show reference statuses to indicate if a reference has been received or not
 - Make received references read only (you can delete but not change any other aspect)
