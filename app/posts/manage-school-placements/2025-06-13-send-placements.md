@@ -11,9 +11,9 @@ tags:
 
 As detailed in [user research round 6 findings](/manage-school-placements/user-research-round-6-findings/), specifically insight 4, we found that the first version of the ‘add placement’ flow did not meet the needs of special schools. A user from a special school told us they wanted to know that the placement appears to providers as SEND-specific, and to be able to select mixed year groups.
 
-In user research round 10, we learned that some special schools are not being asked by providers to host trainee teachers on placements even though they would be interested in doing this. You can read more about this in the design history [Understanding more about schools' ways of working](/manage-school-placements/understanding-more-about-schools-ways-of-working/), specifically insight 4.
+In [user research round 10](/manage-school-placements/user-research-round-10-findings/), we learned that some special schools are not being asked by providers to host trainee teachers on placements even though they would be interested in doing this. You can read more about this in the design history [Understanding more about schools' ways of working](/manage-school-placements/understanding-more-about-schools-ways-of-working/), specifically insight 4.
 
-User research participants spoke about increasing SEND requirements in mainstream schools and a need for more teachers with experience and expertise supporting students with SEND in both mainstream and SEND settings. Due to this, future teachers need would benefit from gaining teacher experience in SEND settings during their initial teacher training.
+User research participants spoke about increasing SEND requirements in mainstream schools and a need for more teachers with experience and expertise supporting students with SEND in both mainstream and SEND settings. Due to this, future teachers would benefit from gaining teacher experience in SEND settings during their initial teacher training.
 
 ## Iterations
 
