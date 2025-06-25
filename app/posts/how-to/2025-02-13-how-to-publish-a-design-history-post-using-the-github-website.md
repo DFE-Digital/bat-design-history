@@ -18,17 +18,17 @@ Start by creating a new branch for your post. You can do this on GitHub:
 
 2. Select the branch selector dropdown (usually showing `main`).
 
-[![Screenshot showing where to find the branch selector dropdown](github-01.png "Screenshot showing where to find the branch selector dropdown")](github-01.png)
+    [![Screenshot showing where to find the branch selector dropdown](github-01.png "Screenshot showing where to find the branch selector dropdown")](github-01.png)
 
 3. In the box labelled ‘Find or create a branch’, type a name for your new branch, following the pattern `your-branch-name`.
 
-[![Screenshot showing the branch selector dropdown](github-02.png "Screenshot showing the branch selector dropdown")](github-02.png)
+    [![Screenshot showing the branch selector dropdown](github-02.png "Screenshot showing the branch selector dropdown")](github-02.png)
 
 4. Select ‘Create branch `your-branch-name` from main’ from the list of branches.
 
-[![Screenshot showing how to create a new branch](github-03.png "Screenshot showing how to create a new branch")](github-03.png)
+    [![Screenshot showing how to create a new branch](github-03.png "Screenshot showing how to create a new branch")](github-03.png)
 
-[![Screenshot showing the newly created branch](github-04.png "Screenshot showing the newly created branch")](github-04.png)
+    [![Screenshot showing the newly created branch](github-04.png "Screenshot showing the newly created branch")](github-04.png)
 
 ## Step 2: Navigate to the correct folder
 
@@ -54,14 +54,14 @@ In the appropriate `app/posts/{service-name}` folder:
 
 1. Select ‘Add file > Create new file’ in the top-right.
 
-[![Screenshot showing where to find the create new file action](github-06.png "Screenshot showing where to find the create new file action")](github-06.png)
+    [![Screenshot showing where to find the create new file action](github-06.png "Screenshot showing where to find the create new file action")](github-06.png)
 
 2. Name your file using the format `YYYY-MM-DD-post-title.md`, for example:
  `2025-02-13-how-to-publish-a-design-history-post.md`.
 
-[![Screenshot showing the unnamed new file](github-07.png "Screenshot showing the unnamed new file")](github-07.png)
+    [![Screenshot showing the unnamed new file](github-07.png "Screenshot showing the unnamed new file")](github-07.png)
 
-[![Screenshot showing the named new file](github-08.png "Screenshot showing the named new file")](github-08.png)
+    [![Screenshot showing the named new file](github-08.png "Screenshot showing the named new file")](github-08.png)
 
 3. Add the front matter at the top of the file:
 
@@ -87,17 +87,17 @@ Once you’re happy with the file:
 
 1. Scroll to the top of the page and select the green ‘Commit changes...’ button.
 
-[![Screenshot showing where to find the ‘Commit changes…’ button](github-10.png "Screenshot showing where to find the ‘Commit changes…’ button")](github-10.png)
+    [![Screenshot showing where to find the ‘Commit changes…’ button](github-10.png "Screenshot showing where to find the ‘Commit changes…’ button")](github-10.png)
 
 2. In the ‘Commit changes’ modal window, add a short but clear commit message (for example: Add post on how to publish a design history post). You can also add an extended description if needed.
 
-[![Screenshot showing the ‘Commit changes’ modal window](github-11.png "Screenshot showing the ‘Commit changes’ modal window")](github-11.png)
+    [![Screenshot showing the ‘Commit changes’ modal window](github-11.png "Screenshot showing the ‘Commit changes’ modal window")](github-11.png)
 
 3. Ensure that ‘Commit directly to the `your-branch-name`’ branch is selected.
 
 4. Press ‘Commit changes’.
 
-[![Screenshot showing the committed changes](github-12.png "Screenshot showing the committed changes")](github-12.png)
+    [![Screenshot showing the committed changes](github-12.png "Screenshot showing the committed changes")](github-12.png)
 
 ## Step 6: Create a pull request
 
@@ -107,19 +107,19 @@ To get your changes reviewed and merged:
 
 2. Select the green ‘Compare & pull request’ button if GitHub shows your branch in a yellow banner, or the green ‘New pull request’ button.
 
-[![Screenshot showing where to find the ‘New pull request’ button](github-13.png "Screenshot showing where to find the ‘New pull request’ button")](github-13.png)
+    [![Screenshot showing where to find the ‘New pull request’ button](github-13.png "Screenshot showing where to find the ‘New pull request’ button")](github-13.png)
 
 3. Select `main` as the base branch and your new branch as the compare branch.
 
-[![Screenshot showing where to find the base branch selector dropdown](github-14.png "Screenshot showing where to find the base branch selector dropdown")](github-14.png)
+    [![Screenshot showing where to find the base branch selector dropdown](github-14.png "Screenshot showing where to find the base branch selector dropdown")](github-14.png)
 
-[![Screenshot showing where to find the compare branch selector dropdown](github-15.png "Screenshot showing where to find the compare branch selector dropdown")](github-15.png)
+    [![Screenshot showing where to find the compare branch selector dropdown](github-15.png "Screenshot showing where to find the compare branch selector dropdown")](github-15.png)
 
-[![Screenshot showing where to find the ‘Compare pull request’ button](github-16.png "Screenshot showing where to find the ‘Compare pull request’ button")](github-16.png)
+    [![Screenshot showing where to find the ‘Compare pull request’ button](github-16.png "Screenshot showing where to find the ‘Compare pull request’ button")](github-16.png)
 
 4. Add a clear title and description for your pull request.
 
-[![Screenshot showing where to enter a title and description for the pull request](github-17.png "Screenshot showing where to enter a title and description for the pull request")](github-17.png)
+    [![Screenshot showing where to enter a title and description for the pull request](github-17.png "Screenshot showing where to enter a title and description for the pull request")](github-17.png)
 
 5. Select the green ‘Create pull request’ button.
 
