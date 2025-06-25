@@ -14,7 +14,7 @@ Providers told us that they think of placements in terms of the school that host
 The ‘Find a school’ function includes:
 
 - a search page that lists all schools in England
-- 4x different style panels on the school search based on the schools hosting status (this data is collected from schools in the [expression of interest flow](/manage-school-placements/expression-of-interest-flow-for-school-users/))
+- 5x different style 'cards' on the school search based on the schools hosting status (this data is collected from schools in the [expression of interest flow](/manage-school-placements/expression-of-interest-flow-for-school-users/))
 - a ‘placements’ tab consisting of a school’s available and unavailable placements
 - a ‘placement information’ tab consisting of a school's contact details and placements hosted in previous years
 - a ‘school details’ tab consisting of GIAS information
