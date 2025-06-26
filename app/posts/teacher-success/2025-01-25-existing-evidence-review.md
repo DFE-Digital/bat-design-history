@@ -8,7 +8,7 @@ tags:
   - user research
   - alpha
 ---
-The Teacher Success team was formed in January 2025 and picked up work started by a squad working on the Register Trainee Teachers service who were investigating trainee dropouts. 
+The Teacher Success team was formed in January 2025 and took over work started by a squad working on the Register trainee teachers service, which was investigating trainee dropouts.
 
 This meant that several rounds of research exploring the trainee problem space had been done.  
 
@@ -22,13 +22,13 @@ The included insight from:
 
 - Get into Teaching 
 
-- Find a Postgraduate Training Course 
+- Find teacher training courses
 
-- Apply for Initial Teacher Training 
+- Apply for teacher training
 
-- Manage School Placements  
+- Manage school placements  
 
-- Continuing Professional Development 
+- Continuing professional development 
 
 ## Using AI to help us find themes from unexplored feedback 
 
