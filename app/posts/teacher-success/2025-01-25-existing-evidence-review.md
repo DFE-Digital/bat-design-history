@@ -18,7 +18,7 @@ Therefore, we started the project with an evidence review, to inform what we alr
 
 The included insight from: 
 
-- Get Ready to Teach (preceding team) 
+- Register trainee teachers team (specifically the 'Get ready to teach' squad)
 
 - Get into Teaching 
 
