@@ -1,8 +1,9 @@
 ---
-title: Adding a study site when JavaScript is unavailable
+title: Adding a study site in Support when JavaScript is unavailable
 description: We added a no-JavaScript version of the add study site flow
 date: 2023-05-27
 tags:
+  - support
   - locations
   - study sites
   - javascript
@@ -26,7 +27,7 @@ screenshots:
       src: study-sites--list-error.png
 eleventyComputed:
   eleventyNavigation:
-    key: support-adding-study-site-no-javascript
+    key: publish-support-adding-study-site-no-javascript
 ---
 
 When the support team adds a study site to a provider in Support, we use an autocomplete to help users search for study sites.

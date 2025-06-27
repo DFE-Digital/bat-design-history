@@ -1,8 +1,9 @@
 ---
-title: Editing and removing organisation locations
-description: We updated the ‘Edit location’ and ‘Remove location’ journeys to be more consistent with Publish teacher training courses
+title: Editing and removing organisation locations in Support
+description: We updated the ‘Edit location’ and ‘Remove location’ journeys to be more consistent with the service
 date: 2023-02-06
 tags:
+  - support
   - locations
 related:
   items:
@@ -24,6 +25,9 @@ screenshots:
       src: location--cannot-remove.png
     - text: Location removed
       src: location--removed.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-changing-organisation-locations
 ---
 
 We updated the ‘Edit location’ and ‘Remove location’ journeys to be more consistent with Publish teacher training courses (Publish).

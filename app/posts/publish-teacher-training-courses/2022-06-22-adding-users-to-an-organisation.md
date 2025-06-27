@@ -1,8 +1,9 @@
 ---
-title: Adding users to an organisation
-description: Giving the support team the ability to add users to an organisation
+title: Adding users to an organisation in Support
+description: Giving the support team the ability to add users to an organisation in Support
 date: 2022-06-22
 tags:
+  - support
   - users
 screenshots:
   items:
@@ -24,6 +25,9 @@ screenshots:
       src: users--remove-user.png
     - text: User removed success message
       src: users--remove-user-success.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-organisation-users
 ---
 
 Currently, providers cannot add users to their organisation themselves. They must complete an invite form in Publish teacher training courses to request that a new user is added to their organisation.

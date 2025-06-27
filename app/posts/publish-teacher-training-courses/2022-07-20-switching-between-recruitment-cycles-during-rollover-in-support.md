@@ -1,8 +1,9 @@
 ---
-title: Switching between recruitment cycles during rollover
-description: We added a way for users to be able to switch between recruitment cycles during rollover
+title: Switching between recruitment cycles during rollover in Support
+description: We added a way for users to be able to switch between recruitment cycles during rollover in Support
 date: 2022-07-20
 tags:
+  - support
   - cycle switcher
   - recruitment cycles
 screenshots:
@@ -17,7 +18,7 @@ screenshots:
       src: cycle-switcher--organisation-details.png
 eleventyComputed:
   eleventyNavigation:
-    key: support-switching-recruitment-cycles
+    key: publish-support-switching-recruitment-cycles
 ---
 
 At the start of July each year, the process of rollover begins. During this period, the support team need to be able to see courses in the current and next recruitment cycles to support the needs of our providers.
