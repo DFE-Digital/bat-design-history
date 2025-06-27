@@ -130,33 +130,37 @@ Push your local changes to GitHub:
 
 1. In GitHub Desktop, if you have not already published the branch, select ‘Publish branch’ at the top of the window.
 
-2. Select ‘Push origin’ at the top of the window.
+    [![Screenshot showing GitHub Desktop showing the ‘Publish branch’ button](github-desktop-10.png)](github-desktop-10.png "Screenshot showing GitHub Desktop showing the ‘Publish branch’ button")
 
-    [![](github-desktop-10.png)](github-desktop-10.png)
+2. Select the blue ‘Push origin’ button or at the top of the window.
 
-3. This uploads your branch to the remote repository.
+    [![Screenshot showing GitHub Desktop with the blue ‘Push origin’ button](github-desktop-11.png)](github-desktop-11.png)
+
+3. This uploads your branch to the remote GitHub repository.
 
 ## Step 9: Create a pull request
 
 1. In GitHub Desktop, select the blue ‘Create Pull Request’ button.
 
-    [![](github-desktop-11.png)](github-desktop-11.png)
+    [![Screenshot showing GitHub Desktop with the blue ‘Create Pull Request’ button](github-desktop-12.png)](github-desktop-12.png "Screenshot showing GitHub Desktop with the blue ‘Create Pull Request’ button")
 
 2. This opens GitHub in your browser.
 
-    [![](github-01.png)](github-01.png)
+    [![Screenshot showing the ‘Open a pull request’ on GitHub](github-01.png)](github-01.png "Screenshot showing the ‘Open a pull request’ on GitHub")
 
 3. Add a title and description for the pull request.
 
-    [![](github-02.png)](github-02.png)
+    [![Screenshot showing the pull request’s title and description on GitHub](github-02.png)](github-02.png "Screenshot showing the pull request’s title and description on GitHub")
 
 4. Choose the correct base branch (usually `main`).
 
-    [![](github-03.png)](github-03.png)
+    [![Screenshot showing the pull request branches on GitHub](github-03.png)](github-03.png "Screenshot showing the pull request branches on GitHub")
 
-5. Click Create pull request.
+5. Select the green ‘Create pull request’ button.
 
-    [![](github-04.png)](github-04.png)
+    [![Screenshot showing the ‘Create pull request’ button on GitHub](github-04.png)](github-04.png "Screenshot showing the ‘Create pull request’ button on GitHub")
+
+    [![Screenshot showing the new pull request on GitHub](github-05.png)](github-05.png "Screenshot showing the new pull request on GitHub")
 
 ## Step 10: Review and merge the pull request
 
