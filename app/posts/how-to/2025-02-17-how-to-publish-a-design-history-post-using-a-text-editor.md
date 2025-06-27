@@ -2,9 +2,19 @@
 title: How to publish a design history post using a text editor
 description: A step-by-step guide for writing and publishing a post using Visual Studio Code and GitHub Desktop
 date: 2025-02-17
+related:
+  items:
+    - text: How to write Markdown
+      href: /how-to/how-to-write-markdown/
+    - text: Why we write design histories
+      href: /how-to/why-we-write-design-histories/
+    - text: What to include in a design history post
+      href: /how-to/what-to-include-in-a-design-history-post/
+    - text: How to publish a design history post using the GitHub website
+      href: /how-to-publish-a-design-history-post-using-the-github-website/
 ---
 
-We publish our design history on GitHub and host it using Netlify. This post shows how to write and publish a new post using a local text editor (like [Visual Studio Code](https://code.visualstudio.com/)) and [GitHub Desktop](https://github.com/apps/desktop).
+We publish our design history on [GitHub](https://www.github.com/) and host it using [Netlify](https://www.netlify.com/). This post shows how to write and publish a new post using a local text editor (like [Visual Studio Code](https://code.visualstudio.com/)) and [GitHub Desktop](https://github.com/apps/desktop).
 
 We use Visual Studio Code for prototyping and content editing because it’s approved by the Department for Education, free, easy to use, and works well with GitHub Desktop. You can use a different text editor if you prefer.
 
