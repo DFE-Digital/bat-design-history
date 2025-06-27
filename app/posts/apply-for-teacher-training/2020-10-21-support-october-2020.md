@@ -2,6 +2,8 @@
 title: Support – October 2020
 description: Design review and tidy up
 date: 2020-10-21
+tags:
+  - support
 screenshots:
   - title: Candidates
     items:

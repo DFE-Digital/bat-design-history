@@ -1,8 +1,9 @@
 ---
-title: Improving the add user flow
+title: Improving the add user flow in Support
 description: Make it quicker and easier for support users to add provider users to Manage
 date: 2021-04-16
 tags:
+  - support
   - user management
 ---
 
