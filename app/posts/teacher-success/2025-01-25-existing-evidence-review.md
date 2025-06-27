@@ -68,7 +68,7 @@ Some users had poor placement experiences due to one or more of the following:
 
 ### Metal health and wellbeing issues 
 
-As a result of the above, some users had poor mental health and wellbeing, particularly because of high workloads. Not all felt adequately supported when they felt overwhelmed. 
+As a result of the above, some users had poor mental health and wellbeing, particularly because of high workloads. Not all felt adequately supported when they felt overwhelmed.
 
 ## Despite the existing evidence we still had gaps 
 
