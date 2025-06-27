@@ -81,9 +81,7 @@ module.exports = function (eleventyConfig) {
       'app/posts/publish-teacher-training-courses/publish-teacher-training-courses.md',
       'app/posts/register-trainee-teachers/register-trainee-teachers.md',
       'app/posts/manage-school-placements/manage-school-placements.md',
-      'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md',
-      'app/posts/support-for-apply/support-for-apply.md',
-      'app/posts/support-for-publish/support-for-publish.md'
+      'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md'
     ])
   })
 
@@ -96,8 +94,6 @@ module.exports = function (eleventyConfig) {
     'register-trainee-teachers',
     'manage-school-placements',
     'claim-funding-for-mentors',
-    'support-for-apply',
-    'support-for-publish',
     'teacher-success'
   ]
 
