@@ -12,15 +12,15 @@ The Teacher Success team was formed in January 2025 and took over work started b
 
 This meant that several rounds of research exploring the trainee problem space had been done.  
 
-The DfE had yet to build a service dedicated to trainees, but several adjacent services had identified trainee, and candidate needs relevant to this area. 
+The DfE had yet to build a service dedicated to trainees, but several adjacent services had identified trainee, and candidate needs relevant to this area.
 
-Therefore, we started the project with an evidence review, to inform what we already knew and what we still needed to find out in this next phase. 
+Therefore, we started the project with an evidence review, to inform what we already knew and what we still needed to find out in this next phase.
 
-The included insight from: 
+The included insight from:
 
 - Register trainee teachers team (specifically the 'Get ready to teach' squad)
 
-- Get into Teaching 
+- Get into Teaching
 
 - Find teacher training courses
 
@@ -28,52 +28,52 @@ The included insight from:
 
 - Manage school placements  
 
-- Continuing professional development 
+- Continuing professional development
 
-## Using AI to help us find themes from unexplored feedback 
+## Using AI to help us find themes from unexplored feedback
 
-We found that a survey completed by over 3000 trainees had a large number of open responses that the previous team had not had time to analyse. 
+We found that a survey completed by over 3000 trainees had a large number of open responses that the previous team had not had time to analyse.
 
-We anonymised and cleaned the data and then worked with Microsoft’s AI tool, (Co-pilot) to theme the responses. 
+We anonymised and cleaned the data and then worked with Microsoft’s AI tool, (Co-pilot) to theme the responses.
 
 We combined this fresh insight alongside insights drawn from previous research to give us a steer on what challenges trainees face during training.  
 
-## Key themes from the review 
+## Key themes from the review
 
-### High workload 
+### High workload
 
-Users reported overwhelming workloads because of the timings and volume of assignments, evidence gathering and lesson planning. 
+Users reported overwhelming workloads because of the timings and volume of assignments, evidence gathering and lesson planning.
 
 ### Mentoring issues  
 
 Some users didn’t feel adequately supported by mentors in school or in training due to poor mentor fit or lack of mentor capacity.  
 
-### Financial issues 
+### Financial issues
 
-Others felt lack of financial support made training difficult. 
+Others felt lack of financial support made training difficult.
 
-### Course content timing and relevance issues 
+### Course content timing and relevance issues
 
-Some users felt the timing and content of their training did not adequately prepare them for teaching on placement. 
+Some users felt the timing and content of their training did not adequately prepare them for teaching on placement.
 
-### Placement quality and experience issues 
+### Placement quality and experience issues
 
-Some users had poor placement experiences due to one or more of the following: 
+Some users had poor placement experiences due to one or more of the following:
 
-- poor fit 
+- poor fit
 
-- a mismatch in expectations between themselves and the school 
+- a mismatch in expectations between themselves and the school
 
-- the location of their placement 
+- the location of their placement
 
-### Metal health and wellbeing issues 
+### Metal health and wellbeing issues
 
 As a result of the above, some users had poor mental health and wellbeing, particularly because of high workloads. Not all felt adequately supported when they felt overwhelmed.
 
-## Despite the existing evidence we still had gaps 
+## Despite the existing evidence we still had gaps
 
 While this evidence was extremely insightful, there were gaps in our depth of understanding about why certain problems occurred.  
 
-This is because much of the insight was derived from quantitative surveys, so while it was clear workload was a key issue, we were not confident why workload issues occurred and what we might do about it. 
+This is because much of the insight was derived from quantitative surveys, so while it was clear workload was a key issue, we were not confident why workload issues occurred and what we might do about it.
 
-We decided to run a small round of mop-up discovery research to ensure we could effectively ideate solutions to the problem. 
+We decided to run a small round of mop-up discovery research to ensure we could effectively ideate solutions to the problem.
