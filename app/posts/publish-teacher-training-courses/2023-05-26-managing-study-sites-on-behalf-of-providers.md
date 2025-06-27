@@ -1,8 +1,9 @@
 ---
-title: Managing ‘Study sites’ on behalf of providers
+title: Managing ‘Study sites’ on behalf of providers in Support
 description: We added a way for support users to add ‘Study sites’ to providers using Get information about schools (GIAS) data
 date: 2023-05-26
 tags:
+  - support
   - locations
   - study sites
 related:
@@ -43,6 +44,9 @@ screenshots:
       src: study-sites--removed.png
     - text: Study site cannot be removed
       src: study-sites--cannot-remove.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-managing-study-sites
 ---
 
 In previous work, we added a way for Publish teacher training (Publish) users to [add ‘Study sites’ to their organisation](/publish-teacher-training-courses/adding-study-sites/).

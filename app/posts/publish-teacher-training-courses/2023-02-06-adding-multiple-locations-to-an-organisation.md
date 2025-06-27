@@ -1,8 +1,9 @@
 ---
-title: Adding multiple locations to an organisation
-description: Giving the support team the ability to add multiple locations to an organisation
+title: Adding multiple locations to an organisation in Support
+description: Giving the support team the ability to add multiple locations to an organisation in Support
 date: 2023-02-06
 tags:
+  - support
   - locations
 related:
   items:
@@ -34,6 +35,9 @@ screenshots:
       src: adding-multiple-locations--check-your-answers.png
     - text: Adding multiple locations - success
       src: adding-multiple-locations--success.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-multiple-organisation-locations
 ---
 
 Some providers find it challenging to enter large numbers of locations in Publish teacher training courses (Publish) and choose not to enter more than one location called ‘Main site’.

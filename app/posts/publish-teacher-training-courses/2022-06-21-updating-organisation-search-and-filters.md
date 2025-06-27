@@ -1,8 +1,9 @@
 ---
-title: Updating organisation search and filters
+title: Updating organisation search and filters in Support
 description: We updated the search and filters to make it easier for users to find organisations
 date: 2022-06-21
 tags:
+  - support
   - search
   - filters
 screenshots:
@@ -19,6 +20,9 @@ screenshots:
       src: search-filters--organisations-list-no-results-search-term.png
     - text: No results for search and filters
       src: search-filters--organisations-list-no-results-search-term-and-filter.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-organisation-search-filters
 ---
 
 We updated the search and filters to make it easier for users to find organisations.

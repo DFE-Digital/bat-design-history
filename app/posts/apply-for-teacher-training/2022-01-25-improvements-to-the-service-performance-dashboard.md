@@ -3,6 +3,7 @@ title: Improvements to the service performance dashboard
 description: We added data and improved the content in the service performance dashboard.
 date: 2022-01-25
 tags:
+  - support
   - service performance
 screenshots:
   items:

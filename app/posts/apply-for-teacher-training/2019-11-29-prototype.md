@@ -2,6 +2,8 @@
 title: Support for Apply as designed for MVP
 description: The initial pilot designs
 date: 2019-11-29
+tags:
+  - support
 screenshots:
   items:
     - Application list

@@ -1,8 +1,9 @@
 ---
-title: Adding and editing organisations
+title: Adding and editing organisations in Support
 description: Improving how the support team adds and edits organisation details
 date: 2023-03-24
 tags:
+  - support
   - providers
 screenshots:
   items:
@@ -42,6 +43,9 @@ screenshots:
       src: edit-organisation--removed.png
     - text: Cannot remove the organisation
       src: edit-organisation--cannot-remove.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-changing-organisations
 ---
 
 We updated the ‘Add organisation’ and the edit organisation flows to improve how the support team manages organisations. The improved order and labelling of the fields in the flows help the support agent to enter the information more quickly and accurately.

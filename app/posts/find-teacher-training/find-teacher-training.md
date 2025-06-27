@@ -24,5 +24,5 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 1
+    order: 2
 ---

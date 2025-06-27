@@ -1,8 +1,9 @@
 ---
-title: Adding questions about visa sponsorship to organisation details
+title: Adding questions about visa sponsorship to organisation details in Support
 description: We added questions about visa sponsorship to the edit organisation flow
 date: 2023-06-07
 tags:
+  - support
   - visa sponsorship
 related:
   items:
@@ -32,6 +33,9 @@ screenshots:
       src: skilled-worker-visas.png
     - text: Skilled Worker visas - updated
       src: skilled-worker-visas--updated.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-organisation-visa-sponsorship
 ---
 
 Previously, we did some work to [add questions about visa sponsorship to courses](/publish-teacher-training-courses/adding-questions-about-visa-sponsorship-to-courses/) to Publish teacher training courses (Publish).

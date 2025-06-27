@@ -1,8 +1,9 @@
 ---
-title: Adding primary navigation to the service
-description: Helping users navigate parts of the service with primary navigation
+title: Adding primary navigation to the Support service
+description: Helping users navigate parts of the Support service with primary navigation
 date: 2022-06-20
 tags:
+  - support
   - navigation
 screenshots:
   items:
@@ -14,7 +15,7 @@ screenshots:
       src: primary-navigation--edit-organisation-details.png
 eleventyComputed:
   eleventyNavigation:
-    key: support-adding-primary-navigation
+    key: publish-support-adding-primary-navigation
 ---
 
 We recently added [primary navigation to the Publish teacher training courses service](/publish-teacher-training-courses/adding-primary-navigation-to-the-service/). We decided to do the same for the support website.

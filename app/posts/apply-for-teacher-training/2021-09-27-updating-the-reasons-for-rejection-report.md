@@ -3,6 +3,7 @@ title: Updating the reasons for rejection report
 description: Improving how we show the reasons why an application was rejected
 date: 2021-09-27
 tags:
+  - support
   - reasons for rejection
   - reports
 related:

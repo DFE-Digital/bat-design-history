@@ -33,6 +33,42 @@ status = 301
 force = true
 
 [[redirects]]
+from = "/support-for-apply/*"
+to = "/apply-for-teacher-training/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "/support-for-publish/*"
+to = "/publish-teacher-training-courses/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "/support-for-publish/adding-a-study-site-when-javascript-is-unavailable/"
+to = "/publish-teacher-training-courses/adding-a-study-site-in-support-when-javascript-is-unavailable/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/support-for-publish/adding-an-accredited-provider-when-javascript-is-unavailable/"
+to = "/publish-teacher-training-courses/adding-an-accredited-provider-in-support-when-javascript-is-unavailable/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/support-for-publish/switching-between-recruitment-cycles-during-rollover/"
+to = "/publish-teacher-training-courses/switching-between-recruitment-cycles-during-rollover-in-support/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/support-for-publish/adding-primary-navigation-to-the-service/"
+to = "/publish-teacher-training-courses/adding-primary-navigation-to-the-support-service/"
+status = 301
+force = true
+
+[[redirects]]
 from = "/school-placements/*"
 to = "/manage-school-placements/:splat"
 status = 301

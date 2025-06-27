@@ -1,9 +1,11 @@
 ---
-title: Managing accredited providers on behalf of training partners
+title: Managing accredited providers on behalf of training partners in Support
 description: Giving the support team the ability to manage accredited providers for training providers
 date: 2023-03-30
 tags:
+  - support
   - accredited providers
+  - training partners
 related:
   items:
     - text: Managing accredited bodies if you’re a lead school
@@ -40,6 +42,9 @@ screenshots:
       src: accredited-providers--removed.png
     - text: Accredited provider cannot be removed
       src: accredited-providers--cannot-remove.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-managing-accredited-providers
 ---
 
 Support users cannot easily see the relationship between training partners and their accredited providers. They also cannot manage these relationships on behalf of the training partner.

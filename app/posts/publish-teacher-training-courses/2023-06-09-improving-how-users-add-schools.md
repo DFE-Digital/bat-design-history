@@ -1,8 +1,9 @@
 ---
-title: Improving how users add schools
+title: Improving how users add schools in Support
 description: We added a way for support users to add ‘Schools’ to providers using Get information about schools (GIAS) data
 date: 2023-06-09
 tags:
+  - support
   - locations
   - schools
 related:
@@ -29,6 +30,9 @@ screenshots:
       src: schools--edit-error.png
     - text: Check your answers
       src: schools--check-your-answers.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-improving-adding-schools
 ---
 
 We recently did some work to [improve how providers add schools](/publish-teacher-training-courses/improving-how-providers-add-schools/) in Publish teacher training courses (Publish). This work included giving providers a way to find and add schools using [Get information about schools (GIAS)](https://www.get-information-schools.service.gov.uk/) data.

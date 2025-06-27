@@ -81,14 +81,10 @@ module.exports = function (eleventyConfig) {
       'app/posts/publish-teacher-training-courses/publish-teacher-training-courses.md',
       'app/posts/register-trainee-teachers/register-trainee-teachers.md',
       'app/posts/manage-school-placements/manage-school-placements.md',
-      'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md',
-      'app/posts/support-for-apply/support-for-apply.md',
-      'app/posts/support-for-publish/support-for-publish.md',
-      'app/posts/register-of-training-providers/register-of-training-providers.md'
+      'app/posts/claim-funding-for-mentors/claim-funding-for-mentors.md'
     ])
   })
 
-  // Collections that share a similar pattern:
   const serviceCollections = [
     'becoming-a-teacher',
     'apply-for-teacher-training',
@@ -98,9 +94,6 @@ module.exports = function (eleventyConfig) {
     'register-trainee-teachers',
     'manage-school-placements',
     'claim-funding-for-mentors',
-    'register-of-training-providers',
-    'support-for-apply',
-    'support-for-publish',
     'teacher-success'
   ]
 
@@ -108,6 +101,24 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection(serviceName, (collection) => {
       // For each service, fetch all .md files in that folder:
       return collection.getFilteredByGlob(`app/posts/${serviceName}/*.md`)
+    })
+  })
+
+  // List of register index pages
+  eleventyConfig.addCollection('registers', (collection) => {
+    return collection.getFilteredByGlob([
+      'app/posts/register-of-training-providers/register-of-training-providers.md'
+    ])
+  })
+
+  const registerCollections = [
+    'register-of-training-providers'
+  ]
+
+  registerCollections.forEach((registerName) => {
+    eleventyConfig.addCollection(registerName, (collection) => {
+      // For each register, fetch all .md files in that folder:
+      return collection.getFilteredByGlob(`app/posts/${registerName}/*.md`)
     })
   })
 
