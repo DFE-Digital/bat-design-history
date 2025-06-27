@@ -19,7 +19,7 @@ While the previous team had created a set of user needs, these were quite high l
 ## Goals for research
 
 1. Understand what support and information trainees need and when.
-2. Understand who supports trainees and how effective is this.
+2. Understand who supports trainees and how effective this is.
 3. Investigate what contributes to trainee workload and what might help alleviate this.
 
 ## Research approach
@@ -42,7 +42,7 @@ A good placement is key to trainee success but existing school pressures and a m
 
 ### High workload
 
-Workload is too high and is caused by increased teaching hours combining with:
+Workload is too high and is caused by increased teaching hours combined with:
 
 - clashing postgraduate certificate in education (PGCE) assignments
 - qualified teacher status (QTS) assessments
@@ -52,4 +52,4 @@ Workload is too high and is caused by increased teaching hours combining with:
 
 Mentors and tutors do not always have the capacity or closeness to provide effective support and sometimes trainees worry that sharing their issues with them may impact their career.
 
-Using this research and past research, we iterated and built out our first set of user needs.
+Using this research and past research, we iterated and built out our first [set of user needs](/teacher-success/our-user-needs).
