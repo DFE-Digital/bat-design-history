@@ -1,8 +1,9 @@
 ---
-title: Adding a school when JavaScript is unavailable
+title: Adding a school in Support when JavaScript is unavailable
 description: We added a no-JavaScript version of the add school flow
 date: 2023-06-10
 tags:
+  - support
   - locations
   - schools
   - javascript
@@ -26,6 +27,9 @@ screenshots:
       src: schools--list-04.png
     - text: Error message
       src: schools--list-error.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-adding-schools-no-javascript
 ---
 
 When the Support team adds a school in Support for Publish teacher training courses (Support), we use an autocomplete to help users search for schools.

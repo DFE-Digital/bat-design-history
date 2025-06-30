@@ -3,8 +3,12 @@ title: Creating a new provider onboarding form and accompanying email
 description: We made a Microsoft onboarding form and updated the content for the form and support team email
 date: 2023-05-11
 tags:
+  - support
   - onboarding
   - emails
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-provider-onboarding-email
 ---
 
 {% from "email/macro.njk" import appEmail %}

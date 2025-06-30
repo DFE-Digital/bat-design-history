@@ -1,8 +1,9 @@
 ---
-title: Changing ‘locations’ to ‘schools’
+title: Changing ‘locations’ to ‘schools’ in Support
 description: We changed ‘locations’ to ‘schools’ to more accurately describe what the locations are
 date: 2023-03-24
 tags:
+  - support
   - locations
   - schools
 related:
@@ -49,6 +50,9 @@ screenshots:
       src: school--removed.png
     - text: School cannot be removed
       src: school--cannot-remove.png
+eleventyComputed:
+  eleventyNavigation:
+    key: publish-support-changing-locations-to-schools
 ---
 
 We recently updated Publish teacher training courses (Publish) and Find postgraduate teacher training (Find), changing ‘locations’ to ‘schools’. We wanted to reflect this change on the support website.

@@ -1,8 +1,9 @@
 ---
-title: Adding an accredited provider when JavaScript is unavailable
+title: Adding an accredited provider in Support when JavaScript is unavailable
 description: We added a no-JavaScript version of the add accredited provider flow
 date: 2023-03-31
 tags:
+  - support
   - accredited providers
   - javascript
 related:
@@ -29,7 +30,7 @@ screenshots:
       src: accredited-providers--list-error.png
 eleventyComputed:
   eleventyNavigation:
-    key: support-adding-accredited-provider-no-javascript
+    key: publish-support-adding-accredited-provider-no-javascript
 ---
 
 When users add an accredited provider in the Support console, we use autocomplete to help them search for accredited providers.
