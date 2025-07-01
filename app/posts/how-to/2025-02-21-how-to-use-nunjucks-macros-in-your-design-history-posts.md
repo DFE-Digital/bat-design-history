@@ -109,7 +109,7 @@ If you need help, contact us at &lt;becomingateacher@digital.education.gov.uk&gt
 </pre>
 </pre>
 
-This formats the message with a subject line and message body in a GOV.UK Notify email-style block.
+This formats the message with a subject line and message body in a [GOV.UK Notify](https://www.notifications.service.gov.uk/) email-style block.
 
 Examples:
 
@@ -169,3 +169,5 @@ For example, to add a table:
 </pre>
 
 Use these macros only if Markdown cannot do the job clearly or accessibly.
+
+*[HTML]: hyper-text markup language
