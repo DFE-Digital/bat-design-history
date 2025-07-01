@@ -8,8 +8,6 @@ tags:
   - training outcomes
 ---
 
-# The need for a Teacher Success Service
-
 ## The starting problem
 
 The 2024 Get Ready to Teach squad was tasked with understanding why 10% of teacher trainees withdraw from their studies without achieving qualified teacher status (QTS).
