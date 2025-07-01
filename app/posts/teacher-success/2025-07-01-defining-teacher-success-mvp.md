@@ -18,13 +18,12 @@ This vision was developed collaboratively by the team and aimed to ensure we are
 
 ## How we classified problem themes
 
-Surveys undertaken by the Get ready to teach squad in 2024 received 3,814 responses from recently qualified teachers, with a sample of responses manually classified around key problem areas. This was supplemented in 2025 by the Teacher Success User Researcher who used Microsoft Copilot AI to classify all free text responses from the same survey.
+In 2024, the Get ready to teach squad ran a survey that received 3,814 responses from recently qualified teachers. A sample of these responses was manually reviewed and grouped by key problem areas. In 2025, the Teacher Success User Researcher built on this work by analysing all the free-text responses from the same survey.
+The findings were consistent across both analyses, revealing three main problem themes:
 
-Problem themes were consistent across both analyses:
-
-- information and expectation setting up front and throughout training
-- managing workload, especially around evidencing QTS and PGCE assignments
-- gaps in support, such as from peers and mentors
+- unclear information and expectations at the start and throughout training
+- unmanageable workload, especially around evidencing QTS and completing PGCE assignments
+- gaps in support, particularly from peers and mentors
 
 ## Creating features that address problem themes
 
