@@ -8,15 +8,15 @@ tags:
   - training outcomes
 ---
 
-#The need for a Teacher Success Service
+# The need for a Teacher Success Service
 
-##The starting problem 
+## The starting problem 
 
 The 2024 Get Ready to Teach squad was tasked with understanding why 10% of teacher trainees withdraw from their studies without achieving qualified teacher status (QTS). 
 
 Our intuition was that 10% withdrawal is probably reasonable for any higher education programme of study, but there is a clear opportunity to retain promising but struggling trainees and contribute efficiently to the government’s target of 6,500 additional teachers.  
 
-##The evolving problem 
+## The evolving problem 
 
 Through rounds of qualitative and quantitative user research with providers and trainees that both achieved or did not achieve QTS, we uncovered additional trends. 
 
@@ -24,7 +24,7 @@ The most telling of these was that just over 50% of trainees who achieved QTS re
 
 This led to the pitch document being created proposing a Trainee Teacher Support Hub. We thought this didn’t go far enough and believed we were missing an opportunity to go beyond providing reactive crisis intervention and proactively set trainee teachers up for career long success.  
 
-##Defining the compound outcome 
+## Defining the compound outcome 
 
 It became clear that getting trainees across the line to QTS at all costs was not meaningful in delivering enough good quality teachers to the sector. We wanted to help deliver more qualified teachers into their first state teaching job with the resilience they needed to enjoy a fulfilling career. 
 
@@ -34,7 +34,7 @@ Our service vision became:
 
  >Our service aims to improve ITT outcomes both for trainees and the education sector, increasing the number who achieve qualified teacher status and progress into rewarding teaching careers 
 
-##Service opportunity 
+## Service opportunity 
 
 The work of the Get Ready To Teach squad taught us that if we can improve the ITT experience by one increment for trainees, it could mean an additional 2,817 teachers could be joining the workforce in a single year. We were clear that this cannot be achieved by building a digital support service alone. Our objectives therefore became: 
 
