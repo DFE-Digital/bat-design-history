@@ -32,7 +32,7 @@ Team vision workshops and a cross-division hack day captured ideas for digital e
 
 The result was, whilst a lot of trainees experience the problems we had previously classified, not everyone experiences all of them and trainees may experience them at different times. This made it difficult to scope a minimum viable product (MVP) with universal day one appeal and made us realise that we needed far more granular data on when trainees experience problems and how that might correlate to their training setting or circumstances. With research suggesting that policy change may be needed to deliver the best outcomes, we were also reluctant to place too much expectation on a digital service alone.  
 
-# A lean MVP approach
+## A lean MVP approach
 
 We decided to prioritise expectation setting and support as the problem themes to address for our MVP and to rely on signposting existing resources in the latter instance.
 
