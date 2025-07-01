@@ -10,11 +10,11 @@ tags:
 
 ## Crossing service boundaries
 
-Teacher Success aims toencourage candidates to:
+Teacher Success aims to encourage candidates to:
 
-- begin initial teacher training (ITT)
+- begin Initial teacher training (ITT)
 - successfully complete ITT
-- gain qualified teacher status (QTS)
+- gain Qualified teacher status (QTS)
 - progress into rewarding teaching careers in state schools
 
 The service will cross boundaries from Get Into Teaching, Find and Apply, into a new trainee support service, and then into Teaching Vacancies and others.  
@@ -29,7 +29,7 @@ We therefore need to understand which data source is the best single source of t
 
 The Get Into Teaching service is the first point of contact with aspiring teachers and has its own dedicated customer relationship management (CRM) system. A CRM is the perfect mechanism for measuring and monitoring engagement over time, but this service is only concerned with candidate data up until the point that they apply for and accept places on an ITT course.
 
-The Apply service is therefore the most useful source of truth immediately upstream of Teacher Success and we will use its Candidates API to extract the details of  a sample of around 7,000 trainees that will comprise our minimum viable product (MVP) cohort.
+The Apply service is therefore the most useful source of truth immediately upstream of Teacher Success and we will use its Candidates API to extract the details of a sample of around 7,000 trainees that will comprise our minimum viable product (MVP) cohort.
 
 In order to maximise the chances of successful engagement, we will only include candidates who have accepted a place (marked as “recruited”) and who have no pending conditions. However, there will inevitably be some who do not start their course.  
 
