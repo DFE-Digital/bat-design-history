@@ -66,9 +66,9 @@ Support agents have four key moments where they need to upload spreadsheet files
 
 To complete the actions necessary for uploading, users need enough information to know they are uploading the correct csv, whether there are any errors in the csv, and what they are. We improved the user's ability to do this using validation messages and preview screens using patterns also used on services such as Gov Notify.
 
-![Before upload screen](a-before-upload.png)”Screenshot shows the before version of the upload screen”
+![Before upload screen](a-before-upload.png "Screenshot shows the before version of the upload screen")
 
-![After upload screen](b-after-upload.png)”Screenshot shows the after version of the upload screen”
+![After upload screen](b-after-upload.png "Screenshot shows the after version of the upload screen")
 
 By showing the preview screen (when everything is correct and no validation is needed), the user can quickly and easily see the title and first five rows. This is enough information to validate at a glance that the correct spreadsheet csv is selected.
 
@@ -76,9 +76,9 @@ By showing the preview screen (when everything is correct and no validation is n
 
 Screenshots showing the validation that appears firstly for column errors and then secondly, on a new screen, errors within the spreadsheet.
 
-![Validation for upload screen 1](c-error-upload.png)”Screenshot shows the error messages for upload screen 1”
+![Validation for upload screen 1](c-error-upload.png "Screenshot shows the error messages for upload screen 1")
 
-![Validation for upload screen 2](d-error-upload.png)”Screenshot shows the error messages for upload screen 2”
+![Validation for upload screen 2](d-error-upload.png "Screenshot shows the error messages for upload screen 2")
 
 The header columns validation happens first, so that we can confirm that we are collecting the correct information. The second validation screen then looks at the subsequent rows to check the data. If there are errors, the support agent may need to reach back out to someone to find the correct information.
 
@@ -94,19 +94,19 @@ To do this we built out screens which allowed the user to enter rejection inform
 
 In the first design, users were presented with one screen that expected them to fill in clawback details for the entire claim. This could mean that the reason for clawback could be a long list of names and reasons. This is specifically where users struggled to complete a partial clawback effectively.
 
-![Clawback screen before](e-clawback.png)”Screenshot shows before version of the clawback details screen”
+![Clawback screen before](e-clawback.png "Screenshot shows before version of the clawback details screen")
 
 We iterated this design to split out this clawback process by mentor. It also pulls in the information that the provider filled in during the auditing process, as well as how the school responded.
 
 Splitting the journey per mentor supports the more likely scenario of partial clawback rather than an entire claim.
 
-![Clawback screen after](f-clawback.png)”Screenshot shows after version of the clawback details screen”
+![Clawback screen after](f-clawback.png "Screenshot shows after version of the clawback details screen")
 
 ## School rejection
 
 As part of improving this clawback process, the school information screens had to be added during the ‘auditing>reject part’ of the journey. Although this information would be logged in Zendesk, asking the user to add it here allows a better audit trail and easier flow for clawback because this information can then be pulled in to the final clawback flow, negating the need to go back and check Zendesk after a gap in time, or change in support agent.
 
-![Response screen](g-response.png)”Screenshot shows the response screen”
+![Response screen](g-response.png "Screenshot shows the response screen")
 
 Previously the school rejection journey contained no way of entering relevant information and if information needed to be recalled later, they would need to check Zendesk
 
@@ -116,8 +116,8 @@ With the current activity log, there was no way of knowing which claims were inc
 
 To improve the activity log, we ensured every action had a page where details could be viewed, any files could be downloaded, and any relevant emails could be resent.
 
-![Activity log before](h-activitylog-before.png)”Screenshot shows the before version of the activity log”
+![Activity log before](h-activitylog-before.png "Screenshot shows the before version of the activity log")
 
-![Activity log after](i-activitylog-after.png)”Screenshot shows the after version of the activity log”
+![Activity log after](i-activitylog-after.png "Screenshot shows the after version of the activity log")
 
-![Activity log details](j-activitylog-details.png)”Screenshot shows activity log details”
+![Activity log details](j-activitylog-details.png "Screenshot shows activity log details")
