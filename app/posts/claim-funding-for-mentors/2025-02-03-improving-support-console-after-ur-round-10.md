@@ -73,6 +73,7 @@ To complete the actions necessary for uploading, users need enough information t
 By showing the preview screen (when everything is correct and no validation is needed), the user can quickly and easily see the title and first five rows. This is enough information to validate at a glance that the correct spreadsheet csv is selected.
 
 ## Upload screen validation errors
+
 Screenshots showing the validation that appears firstly for column errors and then secondly, on a new screen, errors within the spreadsheet.
 
 ![Validation for upload screen 1](c-error-upload.png)”Screenshot shows the error messages for upload screen 1”
@@ -85,7 +86,7 @@ Using this validation method helps the support user easily identify any issues i
 
 This format uses the same patterns seen on Gov Notify. However, to match with government services way of writing validation, the messages are phrased as ‘enter a’, rather than ‘not a’, which is the format used on Notify.
 
-##  Clawback journey
+## Clawback journey
 
 In research, participants struggled to efficiently complete the clawback process. Specifically, users struggled to know how to reject only part of a claim. The problem statement off the back of user research is “how do we help users understand that a claim can be partially wrong and that they must state the incorrect mentor as the reason for the clawback?”
 
