@@ -132,8 +132,3 @@ Consider what we could do to allow schools to state the specific types of placem
 Consider how we make it clear that the Manage ECT login details are different, and they must create a DfE sign in account to use our service.
 
 We will look to iterate the service to incorporate these recommendations, then retest in future rounds of research.
-
-
-
-
-
