@@ -84,6 +84,3 @@ We used a dropdown component for these comments because if the user has just com
 We also added information about the original claim in the ‘check answers’ screen as users wanted to double check everything was correct if they are to be responsible for processing financial information.
 
 ![Updated check answers page for clawback journey](m-clawback-checkanswers.png)”Screenshot shows the updated check answers screen for the clawback journey”
-
-
-
