@@ -8,7 +8,7 @@ tags:
   - training outcomes
 ---
 
-The Get feady to teach squad led user research and analysis in 2024 to understand why around 10% of trainee teachers withdraw from training before achieving Qualified teacher status (QTS). This led to the creation of a dedicated Teacher Success team, tasked with building a support hub for trainee teachers.  
+The Get ready to teach squad led user research and analysis in 2024 to understand why around 10% of trainee teachers withdraw from training before achieving Qualified teacher status (QTS). This led to the creation of a dedicated Teacher Success team, tasked with building a support hub for trainee teachers.  
 
 The work of this team has been guided by the service vision:
 
