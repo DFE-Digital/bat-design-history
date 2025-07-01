@@ -2,6 +2,10 @@
 title: The need for a Teacher Success Service
 description: How investigating how to improve withdrawal rates from teacher training led to a bigger opportunity to support aspiring teachers
 date: 2025-07-01
+tags:
+  - withdrawals
+  - trainees
+  - training outcomes
 ---
 
 #The need for a Teacher Success Service
