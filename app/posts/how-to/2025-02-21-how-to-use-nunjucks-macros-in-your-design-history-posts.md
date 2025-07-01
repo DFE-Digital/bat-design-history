@@ -61,7 +61,7 @@ This will render a screenshot image from the post’s images folder with the giv
 
 > If you do not need to show screenshots within the flow of the post, you can list the screenshots in the post’s metadata instead.
 
-Examples:
+Other examples:
 
 - [Adding support for iQTS](/register-trainee-teachers/adding-support-for-iqts/)
 - [Prompting candidates to review their answers before submitting](/apply-for-teacher-training/flight-check/)
@@ -75,16 +75,23 @@ Use the `appUserNeed` macro to highlight a user need.
 ```nunjucks
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As an ITT placement school,
-We need teachers to sign up to become mentors,
-So that our trainee teachers are supported throughout their placements to become successful teachers."
+  description: "As a DfE colleague
+I need to be able to use macros in my posts
+So that I can write my design histories as efficiently as possible."
 }) }}
 ```
 {% endraw %}
 
-This renders a GOV.UK-style blockquote to emphasise the user need.
+This renders a GOV.UK-style blockquote to emphasise the user need, for example:
 
-Examples:
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
+  description: "As a DfE colleague
+I need to be able to use macros in my posts
+So that I can write my design histories as efficiently as possible."
+}) }}
+
+Other examples:
 
 - [Giving accredited bodies the ability to manage courses they ratify](/publish-teacher-training-courses/giving-accredited-bodies-the-ability-to-manage-courses-they-ratify/)
 - [Round 11 research with accredited providers](/claim-funding-for-mentors/round-11-research-with-accredited-providers/)
@@ -113,9 +120,23 @@ If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 ```
 {% endraw %}
 
-This formats the message with a subject line and message body in a [GOV.UK Notify](https://www.notifications.service.gov.uk/) email-style block.
+This formats the message with a subject line and message body in a [GOV.UK Notify](https://www.notifications.service.gov.uk/) email-style block, for example:
 
-Examples:
+{% from "email/macro.njk" import appEmail %}
+{{ appEmail({
+subject: "An important email",
+content: "
+Dear ((firstname))
+
+Something important the person needs to know.
+
+# Get help
+
+If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
+"
+}) }}
+
+Other examples:
 
 - [Creating a new provider onboarding form and accompanying email](/publish-teacher-training-courses/creating-a-new-provider-onboarding-form-and-accompanying-email/)
 - [Managing and communicating rollover in 2024](/publish-teacher-training-courses/managing-and-communicating-rollover-2024/)
@@ -131,16 +152,27 @@ Use the `appBarChart` macro to show simple bar charts. This is useful for summar
 {{ appBarChart({
   headers: ["Option", "Count"],
   rows: [
-    ["Yes, required", 607],
-    ["No, not required", 747]
+    ["Yes, never in doubt", 607],
+    ["No, not a chance", 747]
   ]
 }) }}
 ```
 {% endraw %}
 
-This creates a horizontal bar chart using accessible HTML and inline styles.
+This creates a horizontal bar chart using accessible HTML and inline styles, for example:
 
-Example:
+Will Lando Norris win the 2025 Formula 1 drivers’ world championship?
+
+{% from "bar-chart/macro.njk" import appBarChart %}
+{{ appBarChart({
+  headers: ["Option", "Count"],
+  rows: [
+    ["Yes, never in doubt", 607],
+    ["No, not a chance", 747]
+  ]
+}) }}
+
+Other examples:
 
 - [UCAS Apply preferences](/publish-teacher-training-courses/ucas-apply-preferences/)
 
