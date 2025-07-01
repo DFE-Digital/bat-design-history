@@ -2,6 +2,10 @@
 title: How to use Nunjucks macros in your design history posts
 description: A guide to using built-in and GOV.UK Design System Nunjucks macros
 date: 2025-02-21
+related:
+  items:
+    - text: How to write Markdown
+      href: /how-to/how-to-write-markdown/
 ---
 
 We use [Nunjucks](https://mozilla.github.io/nunjucks/)  to render pages on the design history site. Nunjucks is a templating language that lets you mix HTML and Markdown with reusable components called macros.
@@ -27,35 +31,35 @@ We’ve created four custom macros to help you present common content types:
 
 Use the `appScreenshot` macro to display an image with a caption.
 
-<pre class="language-nunjucks">
-<code class="language-nunjucks">
-&#123;% from "screenshots/macro.njk" import appScreenshots with context %&#125;
-&#123;&#123; appScreenshots(&#123;
+{% raw %}
+```nunjucks
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
   headingLevel: 2,
   items: [
-  &#123;
+  {
     id: "my-image-01",
     text: "A helpful caption for image 1"
-  &#125;,
-  &#123;
+  },
+  {
     id: "my-image-02",
     text: "A helpful caption for image 2"
-  &#125;,
-  &#123;
+  },
+  {
     id: "my-image-03",
     text: "A helpful caption for image 3"
-  &#125;,
-  &#123;
+  },
+  {
     id: "my-image-04",
     text: "A helpful caption for image 4"
-  &#125;]
-&#125;) &#125;&#125;
-</code>
-</pre>
+  }]
+}) }}
+```
+{% endraw %}
 
 This will render a screenshot image from the post’s images folder with the given caption.
 
-> You no longer need to use this macro. You can list the screenshots in the post’s metadata instead.
+> If you do not need to show screenshots within the flow of the post, you can list the screenshots in the post’s metadata instead.
 
 Examples:
 
@@ -67,16 +71,16 @@ Examples:
 
 Use the `appUserNeed` macro to highlight a user need.
 
-<pre class="language-nunjucks">
-<code class="language-nunjucks">
-&#123;% from "user-need/macro.njk" import appUserNeed %&#125;
-&#123;&#123; appUserNeed(&#123;
+{% raw %}
+```nunjucks
+{% from "user-need/macro.njk" import appUserNeed %}
+{{ appUserNeed({
   description: "As an ITT placement school,
 We need teachers to sign up to become mentors,
 So that our trainee teachers are supported throughout their placements to become successful teachers."
-&#125;) &#125;&#125;
-</code>
-</pre>
+}) }}
+```
+{% endraw %}
 
 This renders a GOV.UK-style blockquote to emphasise the user need.
 
@@ -90,10 +94,11 @@ Examples:
 
 Use the `appEmail` macro to show email content in a styled format.
 
-<pre class="language-nunjucks">
-<code class="language-nunjucks">
-&#123;% from "email/macro.njk" import appEmail %&#125;
-&#123;&#123; appEmail(&#123;
+{% raw %}
+```nunjucks
+
+{% from "email/macro.njk" import appEmail %}
+{{ appEmail({
 subject: "An important email",
 content: "
 Dear ((firstname))
@@ -102,12 +107,11 @@ Something important the person needs to know.
 
 # Get help
 
-If you need help, contact us at &lt;becomingateacher@digital.education.gov.uk&gt;.
+If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 "
-&#125;) &#125;&#125;
-</code>
-</pre>
-</pre>
+}) }}
+```
+{% endraw %}
 
 This formats the message with a subject line and message body in a [GOV.UK Notify](https://www.notifications.service.gov.uk/) email-style block.
 
@@ -121,18 +125,18 @@ Examples:
 
 Use the `appBarChart` macro to show simple bar charts. This is useful for summarising qualitative feedback or small datasets.
 
-<pre class="language-nunjucks">
-<code class="language-nunjucks">
-&#123;% from "bar-chart/macro.njk" import appBarChart %&#125;
-&#123;&#123; appBarChart(&#123;
+{% raw %}
+```nunjucks
+{% from "bar-chart/macro.njk" import appBarChart %}
+{{ appBarChart({
   headers: ["Option", "Count"],
   rows: [
     ["Yes, required", 607],
     ["No, not required", 747]
   ]
-&#125;) &#125;&#125;
-</code>
-</pre>
+}) }}
+```
+{% endraw %}
 
 This creates a horizontal bar chart using accessible HTML and inline styles.
 
@@ -146,27 +150,27 @@ You can also use GOV.UK Design System macros, such as the `govukTable` macro, if
 
 For example, to add a table:
 
-<pre class="language-nunjucks">
-<code class="language-nunjucks">
-&#123;% from "dist/govuk/components/table/macro.njk" import govukTable %&#125;
-&#123;&#123; govukTable(&#123;
+{% raw %}
+```nunjucks
+{% from "dist/govuk/components/table/macro.njk" import govukTable %}
+{{ govukTable({
   head: [
-    &#123; text: "Name" &#125;,
-    &#123; text: "Role" &#125;
+    { text: "Name" },
+    { text: "Role" }
   ],
   rows: [
     [
-      &#123; text: "Oli" &#125;,
-      &#123; text: "Product manager" &#125;
+      { text: "Oli" },
+      { text: "Product manager" }
     ],
     [
-      &#123; text: "Simon" &#125;,
-      &#123; text: "Service designer" &#125;
+      { text: "Simon" },
+      { text: "Service designer" }
     ]
   ]
-&#125;) &#125;&#125;
-</code>
-</pre>
+}) }}
+```
+{% endraw %}
 
 Use these macros only if Markdown cannot do the job clearly or accessibly.
 
