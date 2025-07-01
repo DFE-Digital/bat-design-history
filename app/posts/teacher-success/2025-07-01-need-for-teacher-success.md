@@ -10,7 +10,7 @@ tags:
 
 ## The starting problem
 
-The 2024 Get Ready to Teach squad was tasked with understanding why 10% of teacher trainees withdraw from their studies without achieving qualified teacher status (QTS).
+The 2024 Get Ready to Teach squad was tasked with understanding why 10% of teacher trainees withdraw from their studies without achieving Qualified teacher status (QTS).
 
 Our intuition was that 10% withdrawal is probably reasonable for any higher education programme of study, but there is a clear opportunity to retain promising but struggling trainees and contribute efficiently to the government’s target of 6,500 additional teachers.  
 
@@ -26,7 +26,7 @@ This led to the pitch document being created proposing a Trainee Teacher Support
 
 It became clear that getting trainees across the line to QTS at all costs was not meaningful in delivering enough good quality teachers to the sector. We wanted to help deliver more qualified teachers into their first state teaching job with the resilience they needed to enjoy a fulfilling career.
 
-This meant working across traditional team boundaries to deliver a service that can enable teachers at all stages, from their ITT year, into the early career framework (ECF) and beyond. We therefore began to envision a service that, in the first instance, would enable and support trainees. In subsequent iterations, it would be personalised to the individual’s needs throughout their career.  
+This meant working across traditional team boundaries to deliver a service that can enable teachers at all stages, from their ITT year, into the Early career framework (ECF) and beyond. We therefore began to envision a service that, in the first instance, would enable and support trainees. In subsequent iterations, it would be personalised to the individual’s needs throughout their career.  
 
 Our service vision became:
 
@@ -34,7 +34,7 @@ Our service vision became:
 
 ## Service opportunity
 
-The work of the Get Ready To Teach squad taught us that if we can improve the ITT experience by one increment for trainees, it could mean an additional 2,817 teachers could be joining the workforce in a single year. We were clear that this cannot be achieved by building a digital support service alone. Our objectives therefore became:
+The work of the Get ready to teach squad taught us that if we can improve the ITT experience by one increment for trainees, it could mean an additional 2,817 teachers could be joining the workforce in a single year. We were clear that this cannot be achieved by building a digital support service alone. Our objectives therefore became:
 
 - more trainees achieving QTS and progressing to their first state teaching job
 - consistent support for trainees across provider and route boundaries
