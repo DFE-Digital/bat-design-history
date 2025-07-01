@@ -32,6 +32,7 @@ We’ve created four custom macros to help you present common content types:
 Use the `appScreenshot` macro to display an image with a caption.
 
 {% raw %}
+
 ```nunjucks
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -55,6 +56,7 @@ Use the `appScreenshot` macro to display an image with a caption.
   }]
 }) }}
 ```
+
 {% endraw %}
 
 This will render a screenshot image from the post’s images folder with the given caption.
@@ -72,6 +74,7 @@ Other examples:
 Use the `appUserNeed` macro to highlight a user need.
 
 {% raw %}
+
 ```nunjucks
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
@@ -80,6 +83,7 @@ I need to be able to use macros in my posts
 So that I can write my design histories as efficiently as possible."
 }) }}
 ```
+
 {% endraw %}
 
 This renders a GOV.UK-style blockquote to emphasise the user need, for example:
@@ -102,6 +106,7 @@ Other examples:
 Use the `appEmail` macro to show email content in a styled format.
 
 {% raw %}
+
 ```nunjucks
 
 {% from "email/macro.njk" import appEmail %}
@@ -118,6 +123,7 @@ If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 "
 }) }}
 ```
+
 {% endraw %}
 
 This formats the message with a subject line and message body in a [GOV.UK Notify](https://www.notifications.service.gov.uk/) email-style block, for example:
@@ -147,6 +153,7 @@ Other examples:
 Use the `appBarChart` macro to show simple bar charts. This is useful for summarising qualitative feedback or small datasets.
 
 {% raw %}
+
 ```nunjucks
 {% from "bar-chart/macro.njk" import appBarChart %}
 {{ appBarChart({
@@ -157,6 +164,7 @@ Use the `appBarChart` macro to show simple bar charts. This is useful for summar
   ]
 }) }}
 ```
+
 {% endraw %}
 
 This creates a horizontal bar chart using accessible HTML and inline styles, for example:
@@ -183,6 +191,7 @@ You can also use GOV.UK Design System macros, such as the `govukTable` macro, if
 For example, to add a table:
 
 {% raw %}
+
 ```nunjucks
 {% from "dist/govuk/components/table/macro.njk" import govukTable %}
 {{ govukTable({
@@ -202,6 +211,7 @@ For example, to add a table:
   ]
 }) }}
 ```
+
 {% endraw %}
 
 Use these macros only if Markdown cannot do the job clearly or accessibly.
