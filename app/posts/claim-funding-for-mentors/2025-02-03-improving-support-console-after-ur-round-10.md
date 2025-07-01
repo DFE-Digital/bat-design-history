@@ -7,7 +7,7 @@ tags:
   - user research
 related:
   items:
-    - text: How we plan to onboard schools in public beta
+    - text: Round 10 support console research findings
       href: /claim-funding-for-mentors/round-10-support-console-research-findings/
 ---
 
