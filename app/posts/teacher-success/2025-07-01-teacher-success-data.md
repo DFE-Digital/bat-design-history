@@ -8,8 +8,6 @@ tags:
   - training outcomes
 ---
 
-# Teacher success service data sources
-
 ## Crossing service boundaries
 
 Teacher Success aims toencourage candidates to:
