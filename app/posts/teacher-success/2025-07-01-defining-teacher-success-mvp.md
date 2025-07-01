@@ -8,7 +8,7 @@ tags:
   - training outcomes
 ---
 
-The Get Ready to Teach squad led user research and analysis in 2024 to understand why around 10% of trainee teachers withdraw from training before achieving qualified teacher status (QTS). This led to the creation of a dedicated Teacher Success team, tasked with building  a support hub for trainee teachers.  
+The Get feady to teach squad led user research and analysis in 2024 to understand why around 10% of trainee teachers withdraw from training before achieving Qualified teacher status (QTS). This led to the creation of a dedicated Teacher Success team, tasked with building a support hub for trainee teachers.  
 
 The work of this team has been guided by the service vision:
 
@@ -18,7 +18,7 @@ This vision was developed collaboratively by the team and aimed to ensure we are
 
 ## How we classified problem themes
 
-Surveys undertaken by the Get Ready To Teach Squad in 2024 received 3,814 responses from recently qualified teachers, with a sample of responses manually classified around key problem areas. This was supplemented in 2025 by the Teacher Success User Researcher who used Microsoft Copilot AI to classify all free text responses from the same survey.
+Surveys undertaken by the Get ready to teach squad in 2024 received 3,814 responses from recently qualified teachers, with a sample of responses manually classified around key problem areas. This was supplemented in 2025 by the Teacher Success User Researcher who used Microsoft Copilot AI to classify all free text responses from the same survey.
 
 Problem themes were consistent across both analyses:
 
@@ -46,4 +46,4 @@ This approach will deliver a service into private beta that is a very small subs
 
 Our service strategy relies heavily on content becoming increasingly context specific for each user.
 
-A login will be introduced once our private beta cohort are registered with DfE and have a teacher reference number (TRN). Once that login is in place, our analytics will be increasingly attributable to individuals, leading to a personalised service for individual trainees.
+A login will be introduced once our private beta cohort are registered with DfE and have a Teacher reference number (TRN). Once that login is in place, our analytics will be increasingly attributable to individuals, leading to a personalised service for individual trainees.
