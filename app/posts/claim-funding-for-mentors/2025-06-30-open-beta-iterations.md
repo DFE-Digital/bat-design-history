@@ -37,11 +37,11 @@ Some schools still have the old local authority codes, so these codes have been 
 
 As part of this work, the grant conditions were also updated to reflect this change.
 
-## Notify email from address
+## Emails originating from the wrong address
 
 A user reported that an email was received from [becomingateacher@digital.education.gov.uk](mailto:becomingateacher@digital.education.gov.uk) instead of the expected [ittmentor.funding@education.gov.uk](mailto:ittmentor.funding@education.gov.uk) address.
 
-This was due to a global setting in the Notify service, and after investigation, it was realised that this issue affects every service in the BAT (Becoming a Teacher) service line. The only way to resolve this issue would be to create a Claim funding for mentor training specific Notify account, which was agreed to be unfeasible at this time.
+This was due to a global setting in the Notify service, and after investigation, it was realised that this issue affects every service in the Becoming a Teacher (BAT) service line. The only way to resolve this issue would be to create a Claim funding for mentor training specific Notify account, which was agreed to be unfeasible at this time.
 
 As a result, it was decided that this issue would not be fixed.
 
