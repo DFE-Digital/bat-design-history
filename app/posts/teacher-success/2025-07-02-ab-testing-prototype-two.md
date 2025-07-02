@@ -27,7 +27,7 @@ We found in some research sessions that people did not know how to return to the
 
 ### Removing block text headers with yellow backgrounds on content pages
 
-While some people liked the use of yellow background on header text on cotent pages, others felt it was too distracting and difficult to read. Although the contrast ratio of the black text on yellow background is high (9.29:1, #1D1D1B on #F9B400, WCAG AAA compliant) we have decided to remove this based on feedback. 
+While some people liked the use of yellow background on header text on cotent pages, others felt it was too distracting and difficult to read. Although the contrast ratio of the black text on yellow background is high (9.29:1, #1D1D1B on #F9B400, WCAG AAA compliant) we have decided to remove this based on feedback.
 
 Whilst testing route A, which did not adopt the yellow headers, we received no negative feedback in regards to how easy it was to read and therefore we have adopted this apprach on content pages going forward.
 
@@ -59,7 +59,7 @@ This banner provides people a way to quickly offer feedback via Yes and No butto
 
 ### Updating our email header logo from a yellow teacher services logo to a blue logo
 
-For consistency across the end-to-end journey, we're aligning the logo used in our emails to match the one on the service home page. 
+For consistency across the end-to-end journey, we're aligning the logo used in our emails to match the one on the service home page.
 
 ## Things we plan to monitor
 
