@@ -217,7 +217,7 @@ For example, to add a table:
     [
       { text: "4" },
       { text: "Paolini, Jasmine" }
-    ]
+    ],
     [
       { text: "5" },
       { text: "Zheng, Qinwen" }
