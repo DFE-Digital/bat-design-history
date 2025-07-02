@@ -11,7 +11,7 @@
     {% set percentage = (row[1]/total) * 100 %}
     <tr class="govuk-table__row">
       <td class="govuk-table__cell">{{ row[0] }}</td>
-      <td class="govuk-table__cell" style="--chart-width: {{ percentage }}%;">
+      <td class="govuk-table__cell" style="--chart-width: {{ percentage | fixed }}%;">
         {{ percentage | fixed }}%
       </td>
     </tr>
