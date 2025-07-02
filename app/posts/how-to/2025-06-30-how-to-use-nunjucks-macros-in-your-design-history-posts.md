@@ -113,15 +113,21 @@ Use the `appEmail` macro to show email content in a styled format.
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-subject: "An important email",
+subject: "Wimbledon Championships schedule",
 content: "
 Dear ((firstname))
 
-Something important the person needs to know.
+The schedule for this year’s Wimbledon Championships is now available.
+
+You can view the full order of play and match times on the Wimbledon website.
+
+((link))
+
+Information will be updated daily throughout the tournament.
 
 # Get help
 
-If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
+If you need help, contact us at <help@example.com>.
 "
 }) }}
 ```
@@ -132,15 +138,21 @@ This formats the message with a subject line and message body in a [GOV.UK Notif
 
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
-subject: "An important email",
+subject: "Wimbledon Championships schedule",
 content: "
 Dear ((firstname))
 
-Something important the person needs to know.
+The schedule for this year’s Wimbledon Championships is now available.
+
+You can view the full order of play and match times on the Wimbledon website.
+
+((link))
+
+Information will be updated daily throughout the tournament.
 
 # Get help
 
-If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
+If you need help, contact us at <help@example.com>.
 "
 }) }}
 
@@ -188,7 +200,7 @@ Other examples:
 
 ## Using GOV.UK Design System macros
 
-You can also use GOV.UK Design System macros, such as the `govukTable` macro, if there is no good Markdown alternative.
+You can also use GOV.UK Design System macros, such as the `govukTable` macro, if there is no suitable Markdown alternative.
 
 For example, to add a table:
 
@@ -230,6 +242,6 @@ For example, to add a table:
 
 Use these macros only if Markdown cannot do the job clearly or accessibly.
 
-*[HTML]: hyper-text markup language
+*[HTML]: hypertext markup language
 
 <!-- markdownlint-enable MD001 MD025 -->
