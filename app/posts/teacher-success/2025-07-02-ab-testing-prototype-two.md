@@ -19,7 +19,6 @@ The current changes include:
 
 * changing the links to resources section on content pages
 
-
 ### Updating breadcrumbs
 
 We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the 'Get ready to teach' service name in the service banner and the 'Get ready to teach' link in the breadcrumb were not clear ways to return to the homepage. We have sinced updated the breadcrumb to say 'Home' as per GDS design system guidance and will monitor the service name link in the service banner going forward.
@@ -28,7 +27,7 @@ We found in some research sessions that people did not know how to return to the
 
 ### Removing block text headers with yellow backgrounds on content pages
 
-While some people liked the use of yellow background on header text on cotent pages, others felt it was too distracting and difficult to read. Although the contrast ratio of the black text on yellow background is high (9.29:1, #1D1D1B on #F9B400, WCAG AAA compliant) we have decided to remove this based on feedback. 
+While some people liked the use of yellow background on header text on cotent pages, others felt it was too distracting and difficult to read. Although the contrast ratio of the black text on yellow background is high (9.29:1, #1D1D1B on #F9B400, WCAG AAA compliant) we have decided to remove this based on feedback.
 
 Whilst testing route A, which did not adopt the yellow headers, we received no negative feedback in regards to how easy it was to read and therefore we have adopted this apprach on content pages going forward.
 
@@ -41,7 +40,6 @@ We had some feedback that people often missed content blocks at the bottom of so
 We plan to monitor if this helps highlight information to people.
 
 ![An example of the lesson planning page, with an information block section at the bottom linking to external resources](lessonplanning.png)
-
 
 ## Things we have added to the design
 
@@ -61,7 +59,7 @@ This banner provides people a way to quickly offer feedback via Yes and No butto
 
 ### Updating our email header logo from a yellow teacher services logo to a blue logo
 
-For consistency across the end-to-end journey, we're aligning the logo used in our emails to match the one on the service home page. 
+For consistency across the end-to-end journey, we're aligning the logo used in our emails to match the one on the service home page.
 
 ## Things we plan to monitor
 
