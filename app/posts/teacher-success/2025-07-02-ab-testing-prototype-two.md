@@ -19,7 +19,6 @@ The current changes include:
 
 * changing the links to resources section on content pages
 
-
 ### Updating breadcrumbs
 
 We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the 'Get ready to teach' service name in the service banner and the 'Get ready to teach' link in the breadcrumb were not clear ways to return to the homepage. We have sinced updated the breadcrumb to say 'Home' as per GDS design system guidance and will monitor the service name link in the service banner going forward.
@@ -41,7 +40,6 @@ We had some feedback that people often missed content blocks at the bottom of so
 We plan to monitor if this helps highlight information to people.
 
 ![An example of the lesson planning page, with an information block section at the bottom linking to external resources](lessonplanning.png)
-
 
 ## Things we have added to the design
 
