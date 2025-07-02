@@ -1,7 +1,7 @@
 ---
 title: How to use Nunjucks macros in your design history posts
 description: A guide to using built-in and GOV.UK Design System Nunjucks macros
-date: 2025-02-21
+date: 2025-06-30
 related:
   items:
     - text: How to write Markdown
@@ -78,9 +78,9 @@ Use the `appUserNeed` macro to highlight a user need.
 ```nunjucks
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As a DfE colleague
-I need to be able to use macros in my posts
-So that I can write my design histories as efficiently as possible."
+  description: "As a user of the Wimbledon website
+I need to find highlights and replays easily
+So that I can catch up on matches I missed."
 }) }}
 ```
 
@@ -90,9 +90,9 @@ This renders a GOV.UK-style blockquote to emphasise the user need, for example:
 
 {% from "user-need/macro.njk" import appUserNeed %}
 {{ appUserNeed({
-  description: "As a DfE colleague
-I need to be able to use macros in my posts
-So that I can write my design histories as efficiently as possible."
+  description: "As a user of the Wimbledon website
+I need to find highlights and replays easily
+So that I can catch up on matches I missed."
 }) }}
 
 Other examples:
@@ -161,8 +161,8 @@ Use the `appBarChart` macro to show simple bar charts. This is useful for summar
 {{ appBarChart({
   headers: ["Option", "Count"],
   rows: [
-    ["Yes, never in doubt", 607],
-    ["No, not a chance", 747]
+    ["Yes, never in doubt", 74],
+    ["No, not a chance", 60]
   ]
 }) }}
 ```
@@ -171,7 +171,7 @@ Use the `appBarChart` macro to show simple bar charts. This is useful for summar
 
 This creates a horizontal bar chart using accessible HTML and inline styles, for example:
 
-**Will Lando Norris win the 2025 Formula 1 drivers’ world championship?**
+**Will Carlos Alcaraz win the 2025 Wimbledon Championships?**
 
 {% from "bar-chart/macro.njk" import appBarChart %}
 {{ appBarChart({
@@ -198,17 +198,29 @@ For example, to add a table:
 {% from "dist/govuk/components/table/macro.njk" import govukTable %}
 {{ govukTable({
   head: [
-    { text: "Name" },
-    { text: "Role" }
+    { text: "Seeding" },
+    { text: "Name" }
   ],
   rows: [
     [
-      { text: "Oli" },
-      { text: "Product manager" }
+      { text: "1" },
+      { text: "Sabalenka, Aryna" }
     ],
     [
-      { text: "Simon" },
-      { text: "Service designer" }
+      { text: "2" },
+      { text: "Gauff, Coco" }
+    ],
+    [
+      { text: "3" },
+      { text: "Pegula, Jessica" }
+    ],
+    [
+      { text: "4" },
+      { text: "Paolini, Jasmine" }
+    ]
+    [
+      { text: "5" },
+      { text: "Zheng, Qinwen" }
     ]
   ]
 }) }}
