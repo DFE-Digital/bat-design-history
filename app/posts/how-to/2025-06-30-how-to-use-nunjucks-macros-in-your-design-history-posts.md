@@ -38,30 +38,44 @@ Use the `appScreenshot` macro to display an image with a caption.
 ```nunjucks
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
-  headingLevel: 2,
+  headingLevel: 4,
   items: [
   {
-    id: "my-image-01",
-    text: "A helpful caption for image 1"
+    id: "wimbledon-01",
+    text: "A view of centre court at the All England Lawn Tennis Club, Wimbledon"
   },
   {
-    id: "my-image-02",
-    text: "A helpful caption for image 2"
+    id: "wimbledon-02",
+    text: "A view of the hospitality area at the All England Lawn Tennis Club, Wimbledon"
   },
   {
-    id: "my-image-03",
-    text: "A helpful caption for image 3"
-  },
-  {
-    id: "my-image-04",
-    text: "A helpful caption for image 4"
+    id: "wimbledon-03",
+    text: "A view of the outer courts at the All England Lawn Tennis Club, Wimbledon"
   }]
 }) }}
 ```
 
 {% endraw %}
 
-This will render a screenshot image from the post’s images folder with the given caption.
+This will render a screenshot image from the post’s images folder with the given caption:
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  headingLevel: 4,
+  items: [
+  {
+    id: "wimbledon-01",
+    text: "A view of centre court at the All England Lawn Tennis Club, Wimbledon"
+  },
+  {
+    id: "wimbledon-02",
+    text: "A view of the hospitality area at the All England Lawn Tennis Club, Wimbledon"
+  },
+  {
+    id: "wimbledon-03",
+    text: "A view of the outer courts at the All England Lawn Tennis Club, Wimbledon"
+  }]
+}) }}
 
 > If you do not need to show screenshots within the flow of the post, you can list the screenshots in the post’s metadata instead.
 
