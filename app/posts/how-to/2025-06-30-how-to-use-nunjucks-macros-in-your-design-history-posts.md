@@ -57,7 +57,7 @@ Use the `appScreenshot` macro to display an image with a caption.
 
 {% endraw %}
 
-This will render a screenshot image from the post’s images folder with the given caption:
+This will render a screenshot image from the post’s images folder with the given caption, for example:
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
