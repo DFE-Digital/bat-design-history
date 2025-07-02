@@ -39,6 +39,7 @@ Every year, we need to close out the current year’s courses and open up the ne
 This process is called **rollover**.
 
 Rollover means:
+
 - Copying all existing provider and course information into the new recruitment cycle.
 - Giving providers an amount of time to update their details for the new year.
 - Switching the application to the new cycle, so new courses appear on Find & Apply.
@@ -52,6 +53,7 @@ Many team members had to do lots of manual steps, double-checking everything to 
 It was complicated and sometimes required developers to make changes just to start or finish the process.
 
 **Now, with automation:**
+
 - Anyone on our internal teams can start the rollover with just a few clicks.
 - The process is faster, simpler, and less likely to have errors.
 - We have better visibility and control at every step.
@@ -66,18 +68,22 @@ It was complicated and sometimes required developers to make changes just to sta
 With the new chances, Rollover happens in four main phases:
 
 ### 1. **Testing (QA) Phase**
+
 - We run the rollover in a test environment first.
 - This lets us check that everything copies over correctly before making real changes.
 
 ### 2. **Production Rollover**
+
 - We run the actual rollover in our live system.
 - All current provider and course data is copied to the new cycle.
 
 ### 3. **Support Team Review**
+
 - After rollover, the Support team can review and make important updates (like accreditation).
 - This is our chance to fix any issues before providers see the new cycle.
 
 ### 4. **Publish Users (Providers)**
+
 - The new cycle and courses become visible to providers in the Publish system.
 - Providers can log in, see their new courses in the new cycle, and make any updates they need.
 
@@ -88,6 +94,7 @@ With the new chances, Rollover happens in four main phases:
 With the recent changes, now our Support and Find & Publish teams can use a special page to manage recruitment cycles.
 
 **What you’ll see on the recruitment cycles page:**
+
 - Year of the cycle
 - Start and end dates
 - When the cycle is available for support users
@@ -97,6 +104,7 @@ With the recent changes, now our Support and Find & Publish teams can use a spec
 ![Screenshot of the recruitment cycle list page](1-recruitment-cycle-list.png)
 
 **How to start a rollover:**
+
 1. Add a new cycle with the correct dates.
 2. Click on the cycle to open its details page.
 3. Click the **"Review rollover"** button.
@@ -110,6 +118,7 @@ With the recent changes, now our Support and Find & Publish teams can use a spec
 ![Screenshot of confirm rollover](3-confirm-rollover.png)
 
 **What happens next:**
+
 - The system copies all data. This usually takes about an hour.
 - You’ll see a confirmation message when it’s done.
 
