@@ -214,38 +214,40 @@ Other examples:
 
 ## Using GOV.UK Design System macros
 
-You can also use GOV.UK Design System macros, such as the `govukTable` macro, if there is no suitable Markdown alternative.
+You can also use GOV.UK Design System macros, such as the `govukTable` component, if there is no suitable Markdown alternative.
 
-For example, to add a table:
+For example, to add a `govukTable` table, which includes additional data and styles:
 
 {% raw %}
 
 ```nunjucks
 {% from "dist/govuk/components/table/macro.njk" import govukTable %}
 {{ govukTable({
+  caption: "2025 Wimbledon Championships - ladies' singles seeds",
+  firstCellIsHeader: true,
   head: [
-    { text: "Seeding" },
+    { text: "Seeding", format: "numeric" },
     { text: "Name" }
   ],
   rows: [
     [
-      { text: "1" },
+      { text: "1", format: "numeric" },
       { text: "Sabalenka, Aryna" }
     ],
     [
-      { text: "2" },
+      { text: "2", format: "numeric" },
       { text: "Gauff, Coco" }
     ],
     [
-      { text: "3" },
+      { text: "3", format: "numeric" },
       { text: "Pegula, Jessica" }
     ],
     [
-      { text: "4" },
+      { text: "4", format: "numeric" },
       { text: "Paolini, Jasmine" }
     ],
     [
-      { text: "5" },
+      { text: "5", format: "numeric" },
       { text: "Zheng, Qinwen" }
     ]
   ]
@@ -253,6 +255,40 @@ For example, to add a table:
 ```
 
 {% endraw %}
+
+This macro outputs:
+
+{% from "dist/govuk/components/table/macro.njk" import govukTable %}
+{{ govukTable({
+  caption: "2025 Wimbledon Championships - ladies’ singles seeds",
+  firstCellIsHeader: true,
+  head: [
+    { text: "Seeding", format: "numeric" },
+    { text: "Name" }
+  ],
+  rows: [
+    [
+      { text: "1", format: "numeric" },
+      { text: "Sabalenka, Aryna" }
+    ],
+    [
+      { text: "2", format: "numeric" },
+      { text: "Gauff, Coco" }
+    ],
+    [
+      { text: "3", format: "numeric" },
+      { text: "Pegula, Jessica" }
+    ],
+    [
+      { text: "4", format: "numeric" },
+      { text: "Paolini, Jasmine" }
+    ],
+    [
+      { text: "5", format: "numeric" },
+      { text: "Zheng, Qinwen" }
+    ]
+  ]
+}) }}
 
 Use these macros only if Markdown cannot do the job clearly or accessibly.
 
