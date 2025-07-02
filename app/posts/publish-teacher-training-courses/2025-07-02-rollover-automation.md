@@ -32,7 +32,7 @@ Our internal teams handle the entire process, and this guide explains each step 
 
 The final phase is when providers see the changes, but all earlier steps are internal.
 
-## What is Rollover?
+## What is 'rollover'?
 
 Every year, we need to close out the current year’s courses and open up the new year’s courses.
 
@@ -40,9 +40,9 @@ This process is called **rollover**.
 
 Rollover means:
 
-- Copying all existing provider and course information into the new recruitment cycle.
-- Giving providers an amount of time to update their details for the new year.
-- Switching the application to the new cycle, so new courses appear on Find & Apply.
+- copying all existing provider and course information into the new recruitment cycle
+- giving providers an amount of time to update their details for the new year
+- switching the application to the new cycle, so new courses appear on Find & Apply
 
 ## Why did we automate rollover?
 
@@ -52,64 +52,65 @@ Many team members had to do lots of manual steps, double-checking everything to 
 
 It was complicated and sometimes required developers to make changes just to start or finish the process.
 
-**Now, with automation:**
+Now with automation:
 
-- Anyone on our internal teams can start the rollover with just a few clicks.
-- The process is faster, simpler, and less likely to have errors.
-- We have better visibility and control at every step.
+- anyone on our internal teams can start the rollover with just a few clicks
+- the process is faster, simpler, and less likely to have errors
+- we have better visibility and control at every step
 
 ## Who uses this process?
 
-- **Internal teams only:** Find & Publish team, Support team.
-- **Not for providers:** Providers only see the final result, not the internal process.
+**Internal teams only:** Find & Publish team, Support team.
+
+**Not for providers:** providers only see the final result, not the internal process.
 
 ## Overview of the rollover process
 
-With the new chances, Rollover happens in four main phases:
+With the new changes, rollover happens in four main phases:
 
-### 1. **Testing (QA) Phase**
+### 1. **Testing (QA) phase**
 
-- We run the rollover in a test environment first.
-- This lets us check that everything copies over correctly before making real changes.
+- We run rollover in a test environment first.
+- This lets us check that everything copies over correctly before making the changes.
 
-### 2. **Production Rollover**
+### 2. **Production rollover**
 
-- We run the actual rollover in our live system.
+- We run rollover in our live system.
 - All current provider and course data is copied to the new cycle.
 
-### 3. **Support Team Review**
+### 3. **Support team review**
 
 - After rollover, the Support team can review and make important updates (like accreditation).
 - This is our chance to fix any issues before providers see the new cycle.
 
-### 4. **Publish Users (Providers)**
+### 4. **Publish users (Providers)**
 
 - The new cycle and courses become visible to providers in the Publish system.
-- Providers can log in, see their new courses in the new cycle, and make any updates they need.
+- Providers can log in, see their courses in the new cycle, and make any updates they need.
 
-## Step-by-Step: How Rollover works internally
+## Step-by-step: how rollover works internally
 
-### **Phases 1 & 2: Internal Interface**
+### **Phases 1 & 2: internal interface**
 
-With the recent changes, now our Support and Find & Publish teams can use a special page to manage recruitment cycles.
+With the recent changes, our Support and Publish & Find teams can manage recruitment cycles.
 
-**What you’ll see on the recruitment cycles page:**
+**On the recruitment cycles page you'll see:**
 
-- Year of the cycle
-- Start and end dates
-- When the cycle is available for support users
-- When the cycle is available for providers (Publish users)
-- Progress and status of the rollover
+- year of the cycle
+- start and end dates
+- when the cycle is available for support users
+- when the cycle is available for providers (Publish users)
+- progress and status of rollover
 
 ![Screenshot of the recruitment cycle list page](1-recruitment-cycle-list.png)
 
-**How to start a rollover:**
+**To start rollover:**
 
-1. Add a new cycle with the correct dates.
-2. Click on the cycle to open its details page.
-3. Click the **"Review rollover"** button.
-4. Review the summary (number of providers, courses, accreditations to be copied).
-5. Confirm to start the rollover.
+1. add a new cycle with the correct dates
+2. click on the cycle to open its details page
+3. click the **'Review rollover'** button
+4. review the summary (number of providers, courses, accreditations to be copied)
+5. confirm to start rollover
 
 ![Screenshot of adding a recruitment cycle](2-add-recruitment-cycle.png)
 
@@ -117,30 +118,36 @@ With the recent changes, now our Support and Find & Publish teams can use a spec
 
 ![Screenshot of confirm rollover](3-confirm-rollover.png)
 
-**What happens next:**
+**After you start rollover:**
 
-- The system copies all data. This usually takes about an hour.
-- You’ll see a confirmation message when it’s done.
+- the system copies all data, this usually takes about an hour
+- you’ll see a confirmation message when it’s done
 
 ![Screenshot of adding a recruitment cycle](4-rollover-success-message.png)
 
 ### **Phase 3: Support Team Review**
 
-- After the rollover, the new cycle data is available to support users (after the “available for support users” date).
-- Support users can view and edit the new cycle’s courses and details.
-- This is the time to make any important changes - like new accreditations - before providers see the new cycle.
+Once rollover is complete:
+
+- the new cycle data is available to support users (after the 'available for support users' date)
+- support users can view and edit the new cycle’s courses and details
+- this is the time to make any important changes - like new accreditations - before providers see the new cycle
 
 ![Screenshot of our Support interface](5-next-cycle-available-on-support.png)
 
 ### **Phase 4: Providers See the New Cycle**
 
-- When the “available for publish users” date arrives, providers can see the new cycle.
-- Providers log in and can switch between cycles to view and update their courses.
+When the 'available for publish users' date arrives:
+
+- providers can see the new cycle
+- providers log in and can switch between cycles to view and update their courses
 
 ![Screenshot of Publish interface](6-next-cycle-available-on-publish.png)
 
 ## Summary
 
-- **Rollover is now automated and much easier for our internal teams.**
-- **All steps before the final phase are internal only.**
-- **This documentation is for internal use to help everyone understand our internal process.**
+Rollover is now automated and much easier for our internal teams.
+
+All steps before the final phase are internal only.
+
+This documentation is for internal use to help everyone understand our internal process.
