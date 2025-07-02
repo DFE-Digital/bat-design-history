@@ -2,6 +2,10 @@
 title: How to write Markdown
 description: A short guide to using Markdown to format your content
 date: 2025-01-17
+related:
+  items:
+    - text: How to use Nunjucks macros in your design history posts
+      href: /how-to-use-nunjucks-macros-in-your-design-history-posts/
 ---
 
 <!-- markdownlint-disable MD040 MD049 MD050 -->
