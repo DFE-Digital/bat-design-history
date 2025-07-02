@@ -20,15 +20,15 @@ Some of them are keeping a record in spreadsheets or other offline systems, but 
 
 > "But again, there should be a digital system here. There should be a digital way of tracking them. I'm logged in, so there should be a way of me saying, I've read this person."
 
-> “If I've got 80 candidates that I've invited to remember who I've invited. So which makes me hesitant to use it because I don't want to invite a candidate several times”
+> “If I've got 80 candidates that I've invited (it's hard) to remember who I've invited. So that makes me hesitant to use it because I don't want to invite a candidate several times”
 
 ## What we did
 
 We had prototyped a statuses idea to share with training providers at the end of each research session to collect their feedback.
 
-! [screenshot of prototyped all candidates tab](prototyped-all-tab.jpg)
-! [screenshot of prototyped new candidates tab](prototyped-new-tab.jpg)
-! [screenshot of prototyped invited candidates tab](prototyped-invited-tab.jpg)
+![screenshot of prototyped all candidates tab](prototyped-all-tab.jpg)
+![screenshot of prototyped new candidates tab](prototyped-new-tab.jpg)
+![screenshot of prototyped invited candidates tab](prototyped-invited-tab.jpg)
 
 The new design included status tags for:  
 
@@ -70,7 +70,7 @@ We made the decision to hide candidates that an organisation have previously rej
 
 The statuses on the invited tab include Invited and Application received. When an application has been received, there is a link through to the application. The candidate’s name is also revealed once they submit an application. There are filters on this tab to allow users to see only specific subjects or statuses, so they could see everyone they’ve invited to a biology course, or everyone who has applied.
 
-! [screenshot of the invited tab](invited-tab.jpg)
+![screenshot of the invited tab](invited-tab.jpg)
 
 ### Statuses per user or per organisation?
 
