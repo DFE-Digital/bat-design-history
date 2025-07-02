@@ -8,6 +8,8 @@ related:
       href: /how-to/how-to-write-markdown/
 ---
 
+<!-- markdownlint-disable MD001 MD025 -->
+
 We use [Nunjucks](https://mozilla.github.io/nunjucks/)  to render pages on the design history site. Nunjucks is a templating language that lets you mix HTML and Markdown with reusable components called macros.
 
 A macro is like a shortcut. It wraps up a common piece of code, allowing you to reuse it without having to repeat yourself. This helps keep your content consistent and easy to update.
@@ -128,7 +130,6 @@ If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 This formats the message with a subject line and message body in a [GOV.UK Notify](https://www.notifications.service.gov.uk/) email-style block, for example:
 
-<!-- markdownlint-disable MD001 MD025 -->
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
 subject: "An important email",
@@ -142,7 +143,6 @@ Something important the person needs to know.
 If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 "
 }) }}
-<!-- markdownlint-enable MD001 MD025 -->
 
 Other examples:
 
@@ -231,3 +231,5 @@ For example, to add a table:
 Use these macros only if Markdown cannot do the job clearly or accessibly.
 
 *[HTML]: hyper-text markup language
+
+<!-- markdownlint-enable MD001 MD025 -->
