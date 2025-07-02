@@ -128,6 +128,7 @@ If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 
 This formats the message with a subject line and message body in a [GOV.UK Notify](https://www.notifications.service.gov.uk/) email-style block, for example:
 
+<!-- markdownlint-disable MD001 MD025 -->
 {% from "email/macro.njk" import appEmail %}
 {{ appEmail({
 subject: "An important email",
@@ -141,6 +142,7 @@ Something important the person needs to know.
 If you need help, contact us at <becomingateacher@digital.education.gov.uk>.
 "
 }) }}
+<!-- markdownlint-enable MD001 MD025 -->
 
 Other examples:
 
@@ -169,14 +171,14 @@ Use the `appBarChart` macro to show simple bar charts. This is useful for summar
 
 This creates a horizontal bar chart using accessible HTML and inline styles, for example:
 
-Will Lando Norris win the 2025 Formula 1 drivers’ world championship?
+**Will Lando Norris win the 2025 Formula 1 drivers’ world championship?**
 
 {% from "bar-chart/macro.njk" import appBarChart %}
 {{ appBarChart({
-  headers: ["Option", "Count"],
+  headers: ["Answer", "Percentage"],
   rows: [
-    ["Yes, never in doubt", 607],
-    ["No, not a chance", 747]
+    ["Yes, never in doubt", 60],
+    ["No, not a chance", 74]
   ]
 }) }}
 
