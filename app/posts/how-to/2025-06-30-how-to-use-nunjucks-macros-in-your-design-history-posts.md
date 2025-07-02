@@ -203,8 +203,8 @@ This creates a horizontal bar chart using accessible HTML and inline styles, for
 {{ appBarChart({
   headers: ["Answer", "Percentage"],
   rows: [
-    ["Yes, never in doubt", 60],
-    ["No, not a chance", 74]
+    ["Yes, never in doubt", 74],
+    ["No, not a chance", 60]
   ]
 }) }}
 
