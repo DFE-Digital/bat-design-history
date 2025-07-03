@@ -33,7 +33,7 @@ Whilst testing route A, which did not adopt the yellow headers, we received no n
 
 ![An example of the 2 different header styles, yellow block text and no styling](blockheaders.png)
 
-### Changing the links to resources section on content pages
+### Changing the resources section on content pages
 
 We had some feedback that people often missed content blocks at the bottom of some pages that used a yellow inset because they assumed it was the end of the page. This meant they missed the additional resources we linked to. To try and mitigate this, we have adopted the information block from the <a href="https://child-development-training.education.gov.uk/" target="_blank" rel="noopener noreferrer">Early years child development training service (link opens in new tab)</a> because it uses an information icon and a blue background to highlight important information.
 
