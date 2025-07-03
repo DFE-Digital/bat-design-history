@@ -1,6 +1,6 @@
 ---
-title: Open beta iterations
-description: Since the public beta was launched, several iterations have been made to improve the service based on user feedback.
+title: Service iterations - Claim window 1, public beta
+description: Since the public beta was launched, the service team has received feedback, which has been reviewed. It is detailed below, with any associated iterations.
 date: 2025-06-30
 tags:
   - support
@@ -9,13 +9,13 @@ tags:
   - public beta
 ---
 
-Since the public beta was launched, several iterations have been made to improve the service based on user feedback.
+Since the public beta was launched, the service team has received feedback, which has been reviewed. It is detailed below, with any associated iterations.
 
 ## Support dashboard performance improvements
 
 A notable 6-8 second delay was experienced when the support dashboard was loaded, resulting in significant time being lost by support users managing claims.
 
-This delay was caused by a JavaScript component that loaded over 25,000 schools and 870 providers into memory. To resolve this, a new JavaScript component was created. Schools and providers are now loaded on demand via a new endpoint. As a result, the page load time was reduced to around 500ms.
+This delay was caused by a JavaScript component that loaded over 25,000 schools and 870 providers into memory. To resolve this, a new JavaScript component was created. Schools and providers are now loaded on demand via a new endpoint. As a result, the page load time was reduced to around 500 milliseconds (ms).
 
 Although this was a marked improvement, high load times were still observed. After further investigation, an N+1 query was identified as the cause of the additional delay.
 
@@ -57,7 +57,7 @@ The banner appears when there are 30 days remaining and displays the number of d
 
 ## Remove claim window selection
 
-Previously, support users were required to select a claim window when onboarding schools. After complaints were received from users about being unable to make claims, it was found that onboarding had been done to the incorrect claim window.
+Previously, support users were required to select a claim window when onboarding schools. After some users reported that they couldn’t submit claims, it was found that onboarding had been done to the incorrect claim window.
 
 Several approaches were considered to improve understanding in this area. However, it was ultimately decided that there was no clear need for support users to select a claim window when onboarding schools, as onboarding should only occur for the current claim window.
 
@@ -67,9 +67,9 @@ This will continue to be monitored, and if a need arises to allow support users 
 
 ## View manually onboarded schools
 
-Due to the conditions of the funding for ITT mentor training, schools should only be onboarded when their placements have been tracked via the register service. However, due to delays in onboarding and issues with receiving data on time, exceptions have been made and manual onboarding by support has been allowed.
+Due to the conditions of the funding for ITT mentor training, schools should only be onboarded when their placements have been tracked via the Register trainee teachers (Register). However, due to delays in onboarding and issues with receiving data on time, exceptions have been made and manual onboarding by support has been allowed.
 
-All manually onboarded schools must be reviewed and cross-referenced by the policy team to ensure eligibility for funding. To facilitate this, a new page was added to the support setting page, allowing support users to view all manually onboarded schools.
+All manually onboarded schools must first be verified by their provider to ensure eligibility for funding. To facilitate this, a new page was added to the support setting page, allowing support users to view all manually onboarded schools.
 
 The support user who onboarded each school is now tracked, providing a clearer audit trail.
 
@@ -134,7 +134,7 @@ Due to the structure of the service and the shared codebase, a decision was made
 
 These sites remain in the database, allowing the Manage school placements service to continue functioning as intended, while being hidden from the claims service.
 
-# Clean up closed schools on Get Information About Schools (GIAS) sync
+## Clean up closed schools on Get Information About Schools (GIAS) sync
 
 A nightly sync with the GIAS service is performed to keep school records up to date. During the public beta, support requests were received from users who noticed that outdated school records were being used.
 
