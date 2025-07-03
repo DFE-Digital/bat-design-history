@@ -1,32 +1,31 @@
 ---
-title: Rollover automation
+title: Managing and automating rollover in 2025
 description: Initial guidance on how rollover works and our new internal automation process
 date: 2025-07-02
 tags:
 - Publish
 - Rollover
 - Find
-screenshots:
+
+related:
   items:
-    - text: Recruitment cycle list
-      src: 1-recruitment-cycle-list.png
-    - text: Add recruitment cycle
-      src: 2-add-recruitment-cycle.png
-    - text: Review rollover
-      src: 3-review-rollover.png
-    - text: Confirm rollover
-      src: 3-confirm-rollover.png
-    - text: Wait a hour
-      src: 4-rollover-success-message.png
-    - text: Next cycle available on support
-      src: 5-next-cycle-available-on-support.png
-    - text: Next cycle available on Publish
-      src: 6-next-cycle-available-on-publish.png
+    - text: Managing and communicating rollover in 2024
+      href: /publish-teacher-training-courses/managing-and-communicating-rollover-2024/
+    - text: Managing and communicating rollover in 2023
+      href: /publish-teacher-training-courses/managing-and-communicating-rollover-2023/
+    - text: Managing and communicating rollover in 2022
+      href: /publish-teacher-training-courses/managing-and-communicating-rollover-in-2022/
+    - text: Managing and communicating rollover in 2021
+      href: /publish-teacher-training-courses/managing-and-communicating-rollover-in-2021/
+    - text: What we did for rollover 2020
+      href: /publish-teacher-training-courses/what-we-did-for-rollover-2020/
+    - text: What we did for rollover 2019
+      href: /publish-teacher-training-courses/what-we-did-for-rollover/
 ---
 
 ## Purpose of this post
 
-This post explains how we manage the annual rollover process for courses and providers.
+This post explains how we automated rollover, as part of of how manage the annual copying of courses and providers from one recruitment year to the next.
 
 Our internal teams handle the entire process, and this guide explains each step and how it appears in our internal systems.
 
