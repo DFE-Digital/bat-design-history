@@ -1,5 +1,5 @@
 ---
-title: Design changes to the prototype after A/B testing 
+title: Design updates following A/B testing with trainee teachers
 description: Making changes to the prototype based on a recent round of user research.
 date: 2025-07-02
 tags:
@@ -7,9 +7,11 @@ tags:
   - trainees
 ---
 
-We recently [A/B tested a prototype](/teacher-success/ab-testing-prototype/) in user research sessions with trainee teachers and have made some changes based on the feedback. We also gathered insight on some things we will be planning to monitor. Overall, we found people preferred route B, which adopted design elements from the Get Into Teaching (GIT) service. People found this more engaging with some recognising the brand, which strengthened the appeal of route B because we want this service to be an obvious touch point in services dedicated to teachers.
+We recently [A/B tested a prototype](/teacher-success/ab-testing-prototype/) with trainee teachers during user research sessions. Based on their feedback, we’ve made several design changes and identified areas we plan to monitor going forward. 
 
-## Changes we made to the design based on feedback
+Overall, we found people preferred route B, which adopted design elements from the Get Into Teaching (GIT) service. People found this more engaging with some recognising the brand, which strengthened the appeal of route B because we want this service to be an obvious touch point in services dedicated to teachers.
+
+## Design changes based on user feedback
 
 The current changes include:
 
@@ -27,7 +29,7 @@ We found in some research sessions that people did not know how to return to the
 
 ### Removing block text headers with yellow backgrounds on content pages
 
-While some people liked the use of yellow background on header text on content pages, others felt it was too distracting and difficult to read. Although the contrast ratio of the black text on yellow background is high (9.29:1, #1D1D1B on #F9B400, WCAG AAA compliant) we have decided to remove this based on feedback.
+While some people liked the use of yellow background on header text on content pages, others felt it was too distracting and difficult to read. Despite meeting WCAG AAA contrast standards (9.29:1, #1D1D1B on #F9B400), we decided to remove the yellow headers based on user feedback.
 
 Whilst testing route A, which did not adopt the yellow headers, we received no negative feedback in regards to how easy it was to read and therefore we have adopted this approach on content pages going forward.
 
@@ -61,7 +63,7 @@ This banner provides people a way to quickly offer feedback via Yes and No butto
 
 For consistency across the end-to-end journey, we're aligning the logo used in our emails to match the one on the service home page.
 
-## Things we plan to monitor
+## What we’ll be monitoring 
 
 The current things we want to monitor include:
 
