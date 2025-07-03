@@ -10,7 +10,7 @@ tags:
 
 ## The starting problem
 
-The 2024 Get Ready to Teach squad was tasked with understanding why 10% of teacher trainees withdraw from their studies without achieving Qualified teacher status (QTS).
+The 2024 Get Ready to Teach squad was tasked with understanding why 10% of teacher trainees withdraw from their studies without achieving qualified teacher status (QTS).
 
 Our intuition was that 10% withdrawal is probably reasonable for any higher education programme of study, but there is a clear opportunity to retain promising but struggling trainees and contribute efficiently to the government’s target of 6,500 additional teachers.  
 
