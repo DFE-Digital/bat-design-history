@@ -12,7 +12,7 @@ The Get ready to teach squad led user research and analysis in 2024 to understan
 
 The work of this team has been guided by the service vision:
 
->Our service aims to improve ITT outcomes both for trainees and the education sector, increasing the number who achieve qualified teacher status and progress into rewarding teaching careers
+>Our service aims to improve ITT outcomes both for trainees and the education sector, increasing the number who achieve qualified teacher status and progress into rewarding teaching careers.
 
 This vision was developed collaboratively by the team and aimed to ensure we are not just getting as many trainees qualified as possible. Instead, our aim was to prioritise capabilities that would leave trainees ready and empowered for a successful career.  
 
