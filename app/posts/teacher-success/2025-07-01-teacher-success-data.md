@@ -12,7 +12,7 @@ tags:
 
 Teacher Success aims to encourage candidates to:
 
-- begin Initial teacher training (ITT)
+- begin initial teacher training (ITT)
 - successfully complete ITT
 - gain Qualified teacher status (QTS)
 - progress into rewarding teaching careers in state schools
