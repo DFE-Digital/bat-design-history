@@ -43,7 +43,7 @@ We decided to prioritise expectation setting and support as the problem themes t
 
 Our rationale was:
 
-1. We could deliver a basic website hosting advisory articles at low cost in time for the 25/26 academic year, and drive traffic to specific articles by email at the right time.  
+1. We could deliver a basic website hosting advisory articles at low cost in time for the 2025/26 academic year, and drive traffic to specific articles by email at the right time.  
 2. We will learn from engagement with those articles the things that are on the minds of trainees in different settings over time and use that to inform our roadmap.
 3. The same engagement generates insight that can be surfaced to DfE policy teams and providers to provide time-based analysis of problem areas and potentially inform policy change.
 
