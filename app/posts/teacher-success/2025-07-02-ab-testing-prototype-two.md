@@ -7,7 +7,7 @@ tags:
   - trainees
 ---
 
-We recently [A/B tested a prototype](/teacher-success/ab-testing-prototype/) with trainee teachers during user research sessions. Based on their feedback, we’ve made several design changes and identified areas we plan to monitor going forward. 
+We recently [A/B tested a prototype](/teacher-success/ab-testing-prototype/) with trainee teachers during user research sessions. Based on their feedback, we’ve made several design changes and identified areas we plan to monitor going forward.
 
 Overall, we found people preferred route B, which adopted design elements from the Get Into Teaching (GIT) service. People found this more engaging with some recognising the brand, which strengthened the appeal of route B because we want this service to be an obvious touch point in services dedicated to teachers.
 
@@ -65,7 +65,7 @@ This banner provides people a way to quickly offer feedback via Yes and No butto
 
 For consistency across the end-to-end journey, we're aligning the logo used in our emails to match the one on the service home page.
 
-## What we’ll be monitoring 
+## What we’ll be monitoring
 
 The current things we want to monitor include:
 
