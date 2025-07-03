@@ -23,7 +23,9 @@ The current changes include:
 
 ### Updating breadcrumbs
 
-We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the 'Get ready to teach' service name in the service banner and the 'Get ready to teach' link in the breadcrumb were not clear ways to return to the homepage. We have since updated the breadcrumb to say 'Home' as per GDS design system guidance and will monitor the service name link in the service banner going forward.
+We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the 'Get ready to teach' service name in the service banner and the 'Get ready to teach' link in the breadcrumb were not clear ways to return to the homepage. 
+
+We have since updated the breadcrumb to say 'Home' as per GDS design system guidance and will monitor the service name link in the service banner going forward.
 
 ![An example of how we updated the first breadcrumb link to always say 'Home'](breadcrumbs.png)
 
@@ -67,7 +69,7 @@ For consistency across the end-to-end journey, we're aligning the logo used in o
 
 The current things we want to monitor include:
 
-* the hierarchy of card blocks on the home page and if these should be dynamic depending on the time of year.
+* the hierarchy of card blocks on the home page and if these should be dynamic depending on the time of year
 
 * using the yellow inset at the top of content page to highlight to people that the article contains links to external resources
 
