@@ -26,7 +26,7 @@ This led to the pitch document being created proposing a Trainee Teacher Support
 
 It became clear that getting trainees across the line to QTS at all costs was not meaningful in delivering enough good quality teachers to the sector. We wanted to help deliver more qualified teachers into their first state teaching job with the resilience they needed to enjoy a fulfilling career.
 
-This meant working across traditional team boundaries to deliver a service that can enable teachers at all stages, from their ITT year, into the Early career framework (ECF) and beyond. We therefore began to envision a service that, in the first instance, would enable and support trainees. In subsequent iterations, it would be personalised to the individual’s needs throughout their career.  
+This meant working across traditional team boundaries to deliver a service that can enable teachers at all stages, from their ITT year, into the early career framework (ECF) and beyond. We therefore began to envision a service that, in the first instance, would enable and support trainees. In subsequent iterations, it would be personalised to the individual’s needs throughout their career.  
 
 Our service vision became:
 
