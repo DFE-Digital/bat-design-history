@@ -1,7 +1,7 @@
 ---
 title: Teacher success service data sources
 description: Explaining where the Teacher Success service will get its data from at different times of the academic year
-date: 2025-07-01
+date: 2025-06-30
 tags:
   -withdrawals  
   - training
