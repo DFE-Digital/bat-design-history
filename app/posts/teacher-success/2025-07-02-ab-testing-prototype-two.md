@@ -13,7 +13,7 @@ We recently [A/B tested a prototype](/teacher-success/ab-testing-prototype/) in 
 
 The current changes include:
 
-* updating breadcrumbs to say 'Home' instead of 'Get ready to reach'
+* updating breadcrumbs to say 'Home' instead of 'Get ready to teach'
 
 * removing block text headers with yellow backgrounds on content pages
 
@@ -21,15 +21,15 @@ The current changes include:
 
 ### Updating breadcrumbs
 
-We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the 'Get ready to teach' service name in the service banner and the 'Get ready to teach' link in the breadcrumb were not clear ways to return to the homepage. We have sinced updated the breadcrumb to say 'Home' as per GDS design system guidance and will monitor the service name link in the service banner going forward.
+We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the 'Get ready to teach' service name in the service banner and the 'Get ready to teach' link in the breadcrumb were not clear ways to return to the homepage. We have since updated the breadcrumb to say 'Home' as per GDS design system guidance and will monitor the service name link in the service banner going forward.
 
 ![An example of how we updated the first breadcrumb link to always say 'Home'](breadcrumbs.png)
 
 ### Removing block text headers with yellow backgrounds on content pages
 
-While some people liked the use of yellow background on header text on cotent pages, others felt it was too distracting and difficult to read. Although the contrast ratio of the black text on yellow background is high (9.29:1, #1D1D1B on #F9B400, WCAG AAA compliant) we have decided to remove this based on feedback.
+While some people liked the use of yellow background on header text on content pages, others felt it was too distracting and difficult to read. Although the contrast ratio of the black text on yellow background is high (9.29:1, #1D1D1B on #F9B400, WCAG AAA compliant) we have decided to remove this based on feedback.
 
-Whilst testing route A, which did not adopt the yellow headers, we received no negative feedback in regards to how easy it was to read and therefore we have adopted this apprach on content pages going forward.
+Whilst testing route A, which did not adopt the yellow headers, we received no negative feedback in regards to how easy it was to read and therefore we have adopted this approach on content pages going forward.
 
 ![An example of the 2 different header styles, yellow block text and no styling](blockheaders.png)
 
@@ -51,7 +51,7 @@ The current new list of design changes include:
 
 ### Adding a feedback banner to the bottom of all pages
 
-As this will be a new service, we're keen as a team to get as much feedback as possible, especially on our content pages. To try and get as much feedback as possible post launch, we've adopted the 'is this page useful' feedback banner from the DFE <a href="https://accessibility.education.gov.uk/" target="_blank" rel="noopener noreferrer">Accessibility and inclusive design manual</a>.
+As this will be a new service, we're keen as a team to get as much feedback as possible, especially on our content pages. To try and get as much feedback as possible post launch, we've adopted the 'is this page useful' feedback banner from the DfE <a href="https://accessibility.education.gov.uk/" target="_blank" rel="noopener noreferrer">Accessibility and inclusive design manual</a>.
 
 This banner provides people a way to quickly offer feedback via Yes and No buttons and also provide detailed feedback if they want to.
 
