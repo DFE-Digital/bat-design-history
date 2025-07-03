@@ -14,7 +14,7 @@ Teacher Success aims to encourage candidates to:
 
 - begin initial teacher training (ITT)
 - successfully complete ITT
-- gain Qualified teacher status (QTS)
+- gain qualified teacher status (QTS)
 - progress into rewarding teaching careers in state schools
 
 The service will cross boundaries from Get Into Teaching, Find and Apply, into a new trainee support service, and then into Teaching Vacancies and others.  
