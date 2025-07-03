@@ -18,7 +18,7 @@ Get ready to teach will be a separate website to GIT, so we needed to ensure tha
 
 ## Targeted comms vs mass market traffic acquisition
 
-GIT is at the top of the conversion funnel and is concerned with attracting candidates into Initial teacher training (ITT), so a search engine results page (SERP, eg Google, Bing) strategy is appropriate for that service. However, get ready to teach is concerned in the first instance with targeting an MVP cohort (around 7,000 trainees of an estimated 20,000) with timely signposting to content appropriate to the stage of the academic year.  
+GIT is at the top of the conversion funnel and is concerned with attracting candidates into initial teacher training (ITT), so a search engine results page (SERP, eg Google, Bing) strategy is appropriate for that service. However, get ready to teach is concerned in the first instance with targeting an MVP cohort (around 7,000 trainees of an estimated 20,000) with timely signposting to content appropriate to the stage of the academic year.  
 
 ## Deciding not to index pages
 
