@@ -14,7 +14,7 @@ The Teacher Success team is delivering a digital companion service in time for t
 
 A key aim of get ready to teach is to continue the journey of inspiration and encouragement established by the Get into Teaching (GIT) service. The service will use enough imagery and design cues from GIT to make this continuity clear to users, whilst having a brand identity that makes it clearly a new phase of the journey. In future, it is expected that Get ready to teach will provide a personalisation gateway into comparable supporting content and services for early career teachers and potentially more senior practitioners.
 
-Get ready to teach will, be a separate website to GIT, so we needed to ensure that the two services do not compete for organic search traffic or bid on the same keywords for any paid search.
+Get ready to teach will be a separate website to GIT, so we needed to ensure that the 2 services do not compete for organic search traffic or bid on the same keywords for any paid search.
 
 ## Targeted comms vs mass market traffic acquisition
 
