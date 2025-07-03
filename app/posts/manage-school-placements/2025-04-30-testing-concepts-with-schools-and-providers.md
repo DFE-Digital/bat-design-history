@@ -1,7 +1,7 @@
 ---
 title: Testing concepts with schools and providers
 description: Rounds 12 - 14 saw us test new concepts for the future development of the Manage school placements service, to see which would be worth pursuing
-date: 2025-06-30
+date: 2025-04-30
 tags:
   - research
   - school placements
@@ -13,7 +13,7 @@ Following our research to understand more about ITT provider and school ways of 
 
 ‘Expression of Interest’ for schools: allowing schools to indicate whether they were willing to offer placements this academic year. This included the ability to add multiple placements at once
 
-‘Find a School’ for providers: this tested favourably in round 11, but had been iterated based on user feedback
+‘Find a School’ for providers: this tested favourably in [round 11](/manage-school-placements/concept-testing-with-providers/), but had been iterated based on user feedback
 
 In addition, stakeholders were interested in understanding whether sharing data that the Department for Education (DfE) holds would benefit schools and/or providers.
 
@@ -73,7 +73,7 @@ Three out of four participants scored ‘information about providers’ highly. 
 
 ## Round 13: iterated ‘Find a School’ and data sharing
 
-In this round we tested our iterated ‘Find a School concept with providers. In this version, we introduced a new start page, simplified navigation and iterated placement statuses:
+In this round we tested our iterated 'Find a School' concept with providers. In this version, we introduced a new start page, simplified navigation and iterated placement statuses:
 
 ![Iterated find a school user flow](R13-FAS.jpg "Iterated find a school user flow")
 
@@ -113,9 +113,9 @@ Participants indicated that the most useful data items would be information on p
 
 As we did not see consistent themes emerge across this data, we recommended doing more research in this area, including sharing a survey with providers.
 
-## Round 14: ‘Provider Directory’ and iterated ‘Expression of Interest’
+## Round 14: Provider Directory and iterated ‘Expression of Interest’
 
-The need for schools to be able to find information to help them find providers in their local area, and learn about their ways of working, emerged in round 12. In this round, we tested the idea of a ‘Provider Directory’ with schools. We asked them to look at the following screens in a Figma prototype and give us their feedback on the information shown. We also asked whether there was any information missing they would find useful:
+The need for schools to be able to find information to help them find providers in their local area, and learn about their ways of working, emerged in round 12. In this round, we tested the idea of a Provider Directory with schools. We asked them to look at the following screens in a Figma prototype and give us their feedback on the information shown. We also asked whether there was any information missing they would find useful:
 
 ![Provider directory user flow](R14-PD.png "Provider directory user flow")
 
