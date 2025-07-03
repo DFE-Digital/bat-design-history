@@ -12,13 +12,13 @@ The Teacher Success team is delivering a digital companion service in time for t
 
 ## Positioning the teacher success service
 
-A key aim of get ready to teach is to continue the journey of inspiration and encouragement established by the Get into Teaching (GIT) service. The service will use enough imagery and design cues from GIT to make this continuity clear to users, whilst having a brand identity that makes it clearly a new phase of the journey. In future, it is expected that Get ready to teach will provide a personalisation gateway into comparable supporting content and services for early career teachers and potentially more senior practitioners.
+A key aim of Get ready to teach is to continue the journey of inspiration and encouragement established by the Get into Teaching (GIT) service. The service will use enough imagery and design cues from GIT to make this continuity clear to users, whilst having a brand identity that makes it clearly a new phase of the journey. In future, it is expected that Get ready to teach will provide a personalisation gateway into comparable supporting content and services for early career teachers and potentially more senior practitioners.
 
 Get ready to teach will be a separate website to GIT, so we needed to ensure that the 2 services do not compete for organic search traffic or bid on the same keywords for any paid search.
 
 ## Targeted comms vs mass market traffic acquisition
 
-GIT is at the top of the conversion funnel and is concerned with attracting candidates into initial teacher training (ITT), so a search engine results page (SERP, eg Google, Bing) strategy is appropriate for that service. However, get ready to teach is concerned in the first instance with targeting an MVP cohort (around 7,000 trainees of an estimated 20,000) with timely signposting to content appropriate to the stage of the academic year.  
+GIT is at the top of the conversion funnel and is concerned with attracting candidates into initial teacher training (ITT), so a search engine results page (SERP, eg Google, Bing) strategy is appropriate for that service. However, Get ready to teach is concerned in the first instance with targeting an MVP cohort (around 7,000 trainees of an estimated 20,000) with timely signposting to content appropriate to the stage of the academic year.  
 
 ## Deciding not to index pages
 
