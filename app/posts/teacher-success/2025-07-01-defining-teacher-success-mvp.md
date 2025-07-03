@@ -18,7 +18,7 @@ This vision was developed collaboratively by the team and aimed to ensure we are
 
 ## How we classified problem themes
 
-In 2024, the Get ready to teach squad ran a survey that received 3,814 responses from recently qualified teachers. A sample of these responses was manually reviewed and grouped by key problem areas. In 2025, the Teacher Success User Researcher built on this work by analysing all the free-text responses from the same survey.
+In 2024, the Get ready to teach squad ran a survey that received 3,814 responses from recently qualified teachers. A sample of these responses was manually reviewed and grouped by key problem areas. In 2025, the Teacher Success user researcher built on this work by analysing all the free-text responses from the same survey.
 The findings were consistent across both analyses, revealing three main problem themes:
 
 - unclear information and expectations at the start and throughout training
