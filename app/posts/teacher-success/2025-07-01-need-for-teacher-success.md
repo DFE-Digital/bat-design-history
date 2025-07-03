@@ -30,7 +30,7 @@ This meant working across traditional team boundaries to deliver a service that 
 
 Our service vision became:
 
- >Our service aims to improve ITT outcomes both for trainees and the education sector, increasing the number who achieve qualified teacher status and progress into rewarding teaching careers
+ >Our service aims to improve ITT outcomes both for trainees and the education sector, increasing the number who achieve qualified teacher status and progress into rewarding teaching careers.
 
 ## Service opportunity
 
