@@ -29,7 +29,7 @@ The findings were consistent across both analyses, revealing 3 main problem them
 
 ## Creating features that address problem themes
 
-Team vision workshops and a cross-division hack day captured ideas for digital enablers and interventions that could help trainees in problem areas. These ranged from a standard QTS evidencing tool and a helpline, to a digital peer network and support events. We plotted them on a matrix of impact vs effort and developed and tested hypotheses against the most compelling options in qualitative user research with trainees.  
+Team vision workshops and a cross-division hack day captured ideas for digital enablers and interventions that could help trainees in problem areas. These ranged from a standard QTS evidencing tool and a helpline, to a digital peer network and support events. We plotted them on a matrix of impact versus effort and developed and tested hypotheses against the most compelling options in qualitative user research with trainees.  
 
 The result was, whilst a lot of trainees experience the problems we had previously classified, not everyone experiences all of them and trainees may experience them at different times.
 
