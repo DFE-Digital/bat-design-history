@@ -51,4 +51,4 @@ This approach will deliver a service into private beta that is a very small subs
 
 Our service strategy relies heavily on content becoming increasingly context specific for each user.
 
-A login will be introduced once our private beta cohort are registered with DfE and have a Teacher reference number (TRN). Once that login is in place, our analytics will be increasingly attributable to individuals, leading to a personalised service for individual trainees.
+A login will be introduced once our private beta cohort are registered with DfE and have a teacher reference number (TRN). Once that login is in place, our analytics will be increasingly attributable to individuals, leading to a personalised service for individual trainees.
