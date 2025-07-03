@@ -22,6 +22,6 @@ GIT is at the top of the conversion funnel and is concerned with attracting cand
 
 ## Deciding not to index pages
 
-Given these two factors, we decided that not indexing our web pages would be the best approach for MVP and possibly beyond. Non indexed pages are public but cannot be found on SERP. This means that our pages will not compete for prominence with GIT and we will also be able to more directly measure the effectiveness of our email comms at driving traffic to the right page at the right time.
+Given these 2 factors, we decided that not indexing our web pages would be the best approach for MVP and possibly beyond. Non indexed pages are public but cannot be found on SERP. This means that our pages will not compete for prominence with GIT and we will also be able to more directly measure the effectiveness of our email comms at driving traffic to the right page at the right time.
 
 A final incidental benefit is that, should we amass page visits from users not included, we can likely consider these being from links forwarded from trainees in the MVP cohort. This then gives us an additional measurable benefit of word-of-mouth recommendation.
