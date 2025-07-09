@@ -48,7 +48,7 @@
     "accessible-autocomplete": "^3.0.1",
     "govuk-frontend": "^5.11.0",
     "http-server": "^14.1.1",
-    "luxon": "^3.6.1",
+    "luxon": "^3.7.0",
     "markdown-it-abbr": "^2.0.0",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-deflist": "^3.0.0",
