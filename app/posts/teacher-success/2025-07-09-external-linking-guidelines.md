@@ -20,10 +20,17 @@ The service does not plan to create its own resources due to:
 
 The service will link to external, third-party organisations where one or more of the following applies:
 
-* the Department currently funds or has provided funding for the organisation in the past
+* the department currently funds or has provided funding for the organisation in the past
 * the organisation is a non-departmental public body
 * the department has an existing relationship with the organisation, for example, is in partnership with or sponsors the organisation
 * the organisation is a charitable or not-for-profit organisation
+
+The service will review its links quarterely to ensure:
+
+* the service is still adhering to this external linking guidance
+* the links are still accurate
+* the links are still relevant
+* there are no organisations within GOV.UK that now meet the need better
 
 ### Linking internally
 
@@ -35,7 +42,7 @@ The service will link to third party organisations where the organisation is cha
 
 ### Linking to commercial websites
 
-The service will avoid linking to commercial organisations where possible, unless there is an established partnership between that organisation and the Department.
+The service will avoid linking to commercial organisations where possible, unless there is an established partnership between that organisation and the department.
 
 The service may link to a commercial organisation if there is a significant or obvious need fulfilled by that organisation.
 
