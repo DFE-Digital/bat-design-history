@@ -1,5 +1,5 @@
 ---
-title: Initial research evidence review 
+title: Initial research evidence review
 description: Reviewing the exisiting evidence on trainee needs to help us kick-off our alpha
 date: 2025-01-25
 tags:
@@ -8,9 +8,10 @@ tags:
   - user research
   - alpha
 ---
+
 The Teacher Success team was formed in January 2025 and took over work started by a squad working on the Register trainee teachers service, which was investigating trainee dropouts.
 
-This meant that several rounds of research exploring the trainee problem space had been done.  
+This meant that several rounds of research exploring the trainee problem space had been done.
 
 The DfE had yet to build a service dedicated to trainees, but several adjacent services had identified trainee, and candidate needs relevant to this area.
 
@@ -18,16 +19,11 @@ Therefore, we started the project with an evidence review, to inform what we alr
 
 The included insight from:
 
-- Register trainee teachers team (specifically the 'Get ready to teach' squad)
-
+- Register trainee teachers team (specifically the ‘Get ready to teach’ squad)
 - Get into Teaching
-
 - Find teacher training courses
-
 - Apply for teacher training
-
-- Manage school placements  
-
+- Manage school placements
 - Continuing professional development
 
 ## Using AI to help us find themes from unexplored feedback
@@ -36,7 +32,7 @@ We found that a survey completed by over 3000 trainees had a large number of ope
 
 We anonymised and cleaned the data and then worked with Microsoft’s AI tool, (Co-pilot) to theme the responses.
 
-We combined this fresh insight alongside insights drawn from previous research to give us a steer on what challenges trainees face during training.  
+We combined this fresh insight alongside insights drawn from previous research to give us a steer on what challenges trainees face during training.
 
 ## Key themes from the review
 
@@ -44,9 +40,9 @@ We combined this fresh insight alongside insights drawn from previous research t
 
 Users reported overwhelming workloads because of the timings and volume of assignments, evidence gathering and lesson planning.
 
-### Mentoring issues  
+### Mentoring issues
 
-Some users didn’t feel adequately supported by mentors in school or in training due to poor mentor fit or lack of mentor capacity.  
+Some users didn’t feel adequately supported by mentors in school or in training due to poor mentor fit or lack of mentor capacity.
 
 ### Financial issues
 
@@ -61,9 +57,7 @@ Some users felt the timing and content of their training did not adequately prep
 Some users had poor placement experiences due to one or more of the following:
 
 - poor fit
-
 - a mismatch in expectations between themselves and the school
-
 - the location of their placement
 
 ### Metal health and wellbeing issues
@@ -72,7 +66,7 @@ As a result of the above, some users had poor mental health and wellbeing, parti
 
 ## Despite the existing evidence we still had gaps
 
-While this evidence was extremely insightful, there were gaps in our depth of understanding about why certain problems occurred.  
+While this evidence was extremely insightful, there were gaps in our depth of understanding about why certain problems occurred.
 
 This is because much of the insight was derived from quantitative surveys, so while it was clear workload was a key issue, we were not confident why workload issues occurred and what we might do about it.
 

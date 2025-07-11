@@ -39,7 +39,7 @@ As this cohort progresses into early career teachers, we will continue to contac
 
 ## Contacting users starting training in the 2026/27 academic year
 
-Trainees for the 2026/27 academic year can start to apply for places on a teacher training course from October 2025.
+Trainees for the 2026 to 2027 academic year can start to apply for places on a teacher training course from October 2025.
 
 We plan to contact them from January 2026, sending them preparatory content to help them feel more prepared for teacher training.
 
@@ -55,4 +55,4 @@ We want to do further research into other routes into teacher training, includin
 - Postgraduate teacher apprenticeships (PGTA)
 - Teacher degree apprenticeships (TDA)
 
-This will likely be for trainees starting in the 2027/28 academic year.
+This will likely be for trainees starting in the 2027 to 2028 academic year.

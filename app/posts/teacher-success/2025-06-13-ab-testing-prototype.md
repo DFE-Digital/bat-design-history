@@ -1,5 +1,5 @@
 ---
-title: A/B testing design concepts on a prototype 
+title: A/B testing design concepts on a prototype
 description: Optimising the prototype to facilitate A/B testing to discern the impact of brand recognition.
 date: 2025-06-13
 tags:
@@ -17,15 +17,15 @@ We have recently created two designs, one that follows the DFE design look and f
 
 The differences between test A and B include:
 
-* only having the teaching every lesson shapes a life logo on the version B homepage
+- only having the teaching every lesson shapes a life logo on the version B homepage
 
-* only having the Get into teaching colour palette on elements on the version B homepage
+- only having the Get into teaching colour palette on elements on the version B homepage
 
-* only having the Get into teaching block colour headings on the version B homepage
+- only having the Get into teaching block colour headings on the version B homepage
 
-* only having a banner with an image and Get in to teaching headers on the version B article category pages
+- only having a banner with an image and Get in to teaching headers on the version B article category pages
 
-* only having block headers and yellow inset elements on version B article pages
+- only having block headers and yellow inset elements on version B article pages
 
 We are interested to see if the influence of the subtle design changes has an impact on the experience when using the service.
 

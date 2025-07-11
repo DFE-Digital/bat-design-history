@@ -15,19 +15,19 @@ Overall, we found people preferred route B, which adopted design elements from t
 
 The current changes include:
 
-* updating breadcrumbs to say 'Home' instead of 'Get ready to teach'
+- updating breadcrumbs to say ‘Home’ instead of ‘Get ready to teach’
 
-* removing block text headers with yellow backgrounds on content pages
+- removing block text headers with yellow backgrounds on content pages
 
-* changing the links to resources section on content pages
+- changing the links to resources section on content pages
 
 ### Updating breadcrumbs
 
-We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the 'Get ready to teach' service name in the service banner and the 'Get ready to teach' link in the breadcrumb were not clear ways to return to the homepage.
+We found in some research sessions that people did not know how to return to the homepage. The research sessions highlighted that the ‘Get ready to teach’ service name in the service banner and the ‘Get ready to teach’ link in the breadcrumb were not clear ways to return to the homepage.
 
-We have since updated the breadcrumb to say 'Home' as per GDS design system guidance and will monitor the service name link in the service banner going forward.
+We have since updated the breadcrumb to say ‘Home’ as per the GOV.UK design system guidance and will monitor the service name link in the service banner going forward.
 
-![An example of how we updated the first breadcrumb link to always say 'Home'](breadcrumbs.png)
+![An example of how we updated the first breadcrumb link to always say ‘Home’](breadcrumbs.png)
 
 ### Removing block text headers with yellow backgrounds on content pages
 
@@ -39,7 +39,7 @@ Whilst testing route A, which did not adopt the yellow headers, we received no n
 
 ### Changing the resources section on content pages
 
-We had some feedback that people often missed content blocks at the bottom of some pages that used a yellow inset because they assumed it was the end of the page. This meant they missed the additional resources we linked to. To try and mitigate this, we have adopted the information block from the <a href="https://child-development-training.education.gov.uk/" target="_blank" rel="noopener noreferrer">Early years child development training service (link opens in new tab)</a> because it uses an information icon and a blue background to highlight important information.
+We had some feedback that people often missed content blocks at the bottom of some pages that used a yellow inset because they assumed it was the end of the page. This meant they missed the additional resources we linked to. To try and mitigate this, we have adopted the information block from the <a href="https://child-development-training.education.gov.uk/" target="_blank" rel="noopener noreferrer">Early years child development training service (opens in new tab)</a> because it uses an information icon and a blue background to highlight important information.
 
 We plan to monitor if this helps highlight information to people.
 
@@ -49,13 +49,13 @@ We plan to monitor if this helps highlight information to people.
 
 The current new list of design changes include:
 
-* adding a feedback banner to the bottom of all pages
+- adding a feedback banner to the bottom of all pages
 
-* updating our email header logo from a yellow teacher services logo to a blue logo
+- updating our email header logo from a yellow teacher services logo to a blue logo
 
 ### Adding a feedback banner to the bottom of all pages
 
-As this will be a new service, we're keen as a team to get as much feedback as possible, especially on our content pages. To try and get as much feedback as possible post launch, we've adopted the 'is this page useful' feedback banner from the DfE <a href="https://accessibility.education.gov.uk/" target="_blank" rel="noopener noreferrer">Accessibility and inclusive design manual</a>.
+As this will be a new service, we’re keen as a team to get as much feedback as possible, especially on our content pages. To try and get as much feedback as possible post launch, we’ve adopted the ‘is this page useful’ feedback banner from the DfE [Accessibility and inclusive design manual](https://accessibility.education.gov.uk/).
 
 This banner provides people a way to quickly offer feedback via Yes and No buttons and also provide detailed feedback if they want to.
 
@@ -63,15 +63,15 @@ This banner provides people a way to quickly offer feedback via Yes and No butto
 
 ### Updating our email header logo from a yellow teacher services logo to a blue logo
 
-For consistency across the end-to-end journey, we're aligning the logo used in our emails to match the one on the service home page.
+For consistency across the end-to-end journey, we’re aligning the logo used in our emails to match the one on the service home page.
 
 ## What we’ll be monitoring
 
 The current things we want to monitor include:
 
-* the hierarchy of card blocks on the home page and if these should be dynamic depending on the time of year
+- the hierarchy of card blocks on the home page and if these should be dynamic depending on the time of year
 
-* using the yellow inset at the top of content page to highlight to people that the article contains links to external resources
+- using the yellow inset at the top of content page to highlight to people that the article contains links to external resources
 
 ## Next steps
 
