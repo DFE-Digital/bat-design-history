@@ -107,12 +107,14 @@ module.exports = function (eleventyConfig) {
   // List of register index pages
   eleventyConfig.addCollection('registers', (collection) => {
     return collection.getFilteredByGlob([
-      'app/posts/register-of-training-providers/register-of-training-providers.md'
+      'app/posts/register-of-training-providers/register-of-training-providers.md',
+      'app/posts/register-of-placement-schools/register-of-placement-schools.md'
     ])
   })
 
   const registerCollections = [
-    'register-of-training-providers'
+    'register-of-training-providers',
+    'register-of-placement-schools'
   ]
 
   registerCollections.forEach((registerName) => {
