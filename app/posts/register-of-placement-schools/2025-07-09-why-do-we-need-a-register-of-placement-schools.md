@@ -13,9 +13,9 @@ related:
       href: /becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/
 ---
 
-Placement schools are a core part of every initial teacher training (ITT) partnership. They host trainee teachers on placement, provide school-based training, and supply mentors to support professional development. These schools are also referred to as placement partners or school partners.
+Placement schools are an integral part of every initial teacher training (ITT) course. They host trainee teachers on placement, provide school-based training, and supply mentors to support professional development. These schools are also referred to as placement partners or school partners.
 
-While the accredited ITT provider leads the partnership, and training partners may help coordinate activity, it is the placement school that delivers the in-school experience that trainee teachers rely on.
+While the accredited ITT provider leads the partnership, and training partners may help coordinate activity, it is the placement school that facilitates the essential in-school experience that trainee teachers require. Every trainee must attend at least two different school placements.
 
 Placements may take place in a range of settings, including:
 
@@ -23,7 +23,7 @@ Placements may take place in a range of settings, including:
 - special schools
 - pupil referral units
 - alternative provision
-- SEN (special educational needs) resource bases
+- special educational needs and disabilities (SEND) resource bases
 
 Some schools also contribute to the intensive training and practice (ITP) element of a training course, where that is part of the ITT partnership’s offer.
 
@@ -31,13 +31,13 @@ Some schools also contribute to the intensive training and practice (ITP) elemen
 
 There is currently no central register of placement schools. Each service in the Becoming a teacher (BAT) service line holds or displays school data separately:
 
-- Publish teacher training courses (Publish) requires providers to input school details as part of the course setup
+- Publish teacher training courses (Publish) requires providers to input school details as part of the publication of each course
 
-- Find teacher training courses (Find) displays schools as part of the course information
+- Find teacher training courses (Find) uses the location of placement schools attached to courses to power the location search function. In addition, providers can choose to display the schools as part of the course information
 
-- Apply for teacher training (Apply) lets candidates view and choose from available placement schools
+- Apply for teacher training (Apply) lets candidates view and choose from available placement schools, if the provider has allowed this, but the default setting is for the information to be no longer displayed
 
-- Register trainee teachers captures where a placement took place
+- Register trainee teachers enabled providers to add the placement schools to a trainee record, to capture where the trainee undertook their placements
 
 Because this data is not centralised or consistent, the same problems arise that led us to create the [Register of training providers](/register-of-training-providers/why-we-need-a-register-of-training-providers/):
 
