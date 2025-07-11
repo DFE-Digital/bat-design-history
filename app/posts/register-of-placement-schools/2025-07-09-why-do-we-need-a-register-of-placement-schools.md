@@ -25,7 +25,7 @@ Placements may take place in a range of settings, including:
 - alternative provision
 - special educational needs and disabilities (SEND) resource bases
 
-Some schools also contribute to the intensive training and practice (ITP) element of a training course, where that is part of the ITT partnership’s offer.
+Some schools also contribute to the intensive training and practice (ITaP) element of a training course, where that is part of the ITT partnership’s offer.
 
 ## The problem
 
