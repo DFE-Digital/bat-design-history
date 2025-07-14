@@ -58,7 +58,7 @@ Then the UI will not be deceptive and error messages will be more useful
 
 The previous iteration had all questions on one page which meant that if safeguarding was selected as a reason to reject the application, the provider still had to answer the following questions:
 
-1. Was it related to an issue we haven’t covered
+1. Was it related to an issue we have not covered
 2. Is there any other advice or feedback you’d like to give the candidate
 3. Would you be interested in future applications from the candidate
 

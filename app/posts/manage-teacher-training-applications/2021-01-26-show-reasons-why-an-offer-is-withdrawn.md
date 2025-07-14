@@ -9,7 +9,7 @@ screenshots:
     - Feedback page
 ---
 
-Providers give feedback to candidates when [withdrawing an offer](/manage-teacher-training-applications/withdrawing-an-offer/). But up to now (as an oversight) we haven’t shown it in the service.
+Providers give feedback to candidates when [withdrawing an offer](/manage-teacher-training-applications/withdrawing-an-offer/). But up to now (as an oversight) we have not shown it in the service.
 
 This is also inconsistent with how we [show feedback when an application is rejected](/manage-teacher-training-applications/better-feedback-for-automatically-rejected-applications/).
 

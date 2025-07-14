@@ -12,7 +12,7 @@ screenshots:
 
 The original task was to make it easier to understand whether the candidate had been asked questions relating to disability, safeguarding information and interview needs.
 
-Initially we considered just changing the wording which would appear if the candidate had not been asked the question, rather than if they hadn’t given any information.
+Initially we considered just changing the wording which would appear if the candidate had not been asked the question, rather than if they had not given any information.
 
 However, once we looked at the questions within the application service it became clear that more work was needed.
 

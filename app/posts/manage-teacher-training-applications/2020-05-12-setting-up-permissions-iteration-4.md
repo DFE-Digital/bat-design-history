@@ -57,7 +57,7 @@ Then they’ll know what’s happened and what they have to do next
 
 ![Screenshot of confirmation page.](data-sharing-confirmation-page.png)
 
-### Don’t ask users to set up permissions for courses that they both run and ratify
+### Do not ask users to set up permissions for courses that they both run and ratify
 
 In the previous iteration we asked the user to set up permissions for courses their organisation both runs and ratifies.
 

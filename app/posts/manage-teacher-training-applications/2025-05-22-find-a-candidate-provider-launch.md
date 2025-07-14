@@ -92,7 +92,7 @@ We agreed that only candidates who have submitted at least 1 application should 
 
 This was also something that came out of the co-design workshop in December when providers told us that adding everyone who creates a profile on Apply would create a list that is too big to meaningfully search and the workload would be too great for them to use the feature.
 
-The other concern that providers raised in the co-design session was around ‘poaching’ - training providers targeting candidates who have an application in progress with another provider. Smaller organisations were particularly worried about this as they don’t have the capacity to interview quickly, so were worried that bigger organisations with more capacity would be able to offer places to the best candidates more quickly.
+The other concern that providers raised in the co-design session was around ‘poaching’ - training providers targeting candidates who have an application in progress with another provider. Smaller organisations were particularly worried about this as they do not have the capacity to interview quickly, so were worried that bigger organisations with more capacity would be able to offer places to the best candidates more quickly.
 
 Because of this concern, we decided that only candidates who do not have any open applications would be searchable. This means that candidates who are rejected, withdrawn or inactive are all searchable.
 

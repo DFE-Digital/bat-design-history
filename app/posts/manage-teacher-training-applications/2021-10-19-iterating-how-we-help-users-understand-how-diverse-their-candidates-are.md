@@ -78,7 +78,7 @@ We tell candidates that their responses to the questionnaire are anonymous until
 
 It is possible that the data in this report could be used to link a candidate’s responses to them when only a small number of applications have been received.
 
-We considered hiding data until the provider has received a certain number of applications. We haven’t done this because:
+We considered hiding data until the provider has received a certain number of applications. We have not done this because:
 
 - choosing one threshold for all providers would mean that smaller providers might only see data after several weeks or months
 - the data in the report is anonymous and users would need to infer a connection - we think it’s unlikely that users would make this effort and then use the information to make an unfair decision

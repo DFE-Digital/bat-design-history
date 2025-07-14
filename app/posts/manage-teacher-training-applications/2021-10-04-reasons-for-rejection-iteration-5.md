@@ -107,8 +107,8 @@ We looked at how often each reason was used to reject an application between Jan
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 |------------|----------|----------|
-| Didn’t reply to our interview offer | 0.47% <br> 19 out of 4045 | 15% <br> 19 out of 124 |
-| Didn’t attend interview | 1.71% <br> 69 out of 4045 | 55% <br> 69 out of 124 |
+| Did not reply to our interview offer | 0.47% <br> 19 out of 4045 | 15% <br> 19 out of 124 |
+| Did not attend interview | 1.71% <br> 69 out of 4045 | 55% <br> 69 out of 124 |
 | Other | 0.89% <br> 36 out of 4045 | 30% <br> 39 out of 124 |
 
 ### Honesty and professionalism

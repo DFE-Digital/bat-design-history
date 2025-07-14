@@ -17,4 +17,4 @@ This reduced the amount of users who missed it but it still happened sometimes.
 
 So we decided to uses the [Inset text](https://design-system.service.gov.uk/components/inset-text/) component and add a heading inside the banner.
 
-We’ve settled on this because we haven’t seen a user miss it during the last few months.
+We’ve settled on this because we have not seen a user miss it during the last few months.

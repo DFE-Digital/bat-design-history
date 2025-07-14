@@ -167,7 +167,7 @@ Candidates are asked to enter:
 - subject
 - institution
 - whether they have completed the degree
-- grade - or the grade they expect they’ll get if they haven’t completed the degree
+- grade - or the grade they expect they’ll get if they have not completed the degree
 - start year
 - graduation year
 
@@ -183,7 +183,7 @@ Candidates are asked to enter:
 - UK ENIC reference number - if they said they have a statement of comparability
 - the comparable UK degree - if they said they have a statement of comparability
 - whether they have completed the degree
-- grade - or the grade they expect they’ll get if they haven’t completed the degree
+- grade - or the grade they expect they’ll get if they have not completed the degree
 - start year
 - graduation year
 

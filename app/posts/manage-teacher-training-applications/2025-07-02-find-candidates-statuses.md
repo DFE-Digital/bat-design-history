@@ -52,7 +52,7 @@ Most participants were very positive about the changes we were proposing and sai
 
 ### Rejected candidates
 
-We found that the rejected tag wasn’t well understood by participants. They were unclear whether it meant that the candidate had been rejected by them or any other training provider. We experimented with changing the tag to previously rejected but there was still some ambiguity.
+We found that the rejected tag was not well understood by participants. They were unclear whether it meant that the candidate had been rejected by them or any other training provider. We experimented with changing the tag to previously rejected but there was still some ambiguity.
 
 We were showing candidates in the list even when they had been rejected by that provider in the past, because we had an assumption that providers might want to reengage candidates who have acted on any feedback they had received at a past rejection.
 

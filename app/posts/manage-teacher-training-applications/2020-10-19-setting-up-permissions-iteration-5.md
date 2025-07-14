@@ -60,7 +60,7 @@ This meant that some users could not do the things they needed like seeing safeg
 
 When a user with ‘manage org’ permissions went to the details screen there was just a blank space to signify that there was no organisations with that permission.
 
-So we decided to write content to make it clear that these permissions hadn’t been set up.
+So we decided to write content to make it clear that these permissions had not been set up.
 
 If you belong to the training provider you can set them up. But if you belong to the accredited body you cannot. So there’s different content depending on the situation.
 
