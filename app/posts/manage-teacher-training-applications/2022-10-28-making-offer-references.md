@@ -6,10 +6,10 @@ tags:
   - references
 ogImage:
   src: conditions-of-offer-references.png
-  alt: "Illustration with the text: ‘Conditions of Offer: References'"
+  alt: "Illustration with the text: ‘Conditions of Offer: References’"
 ---
 
-![Illustration with the text: ‘Conditions of Offer: References'](conditions-of-offer-references.png)
+![Illustration with the text: ‘Conditions of Offer: References’](conditions-of-offer-references.png)
 
 For the 2022 to 2023 recruitment cycle, we [changed the references process](/apply-for-teacher-training/requesting-references-after-offers-have-been-accepted/) so that candidates do not need to receive references before they submit their application. They instead need to [give details of 2 people who can give a reference](/apply-for-teacher-training/asking-candidates-to-confirm-who-reference-requests-should-be-sent-to/).
 

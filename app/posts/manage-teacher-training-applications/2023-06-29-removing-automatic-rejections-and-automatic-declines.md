@@ -99,7 +99,7 @@ We removed hint text from the interview date question because it’s no longer n
 
 Once a provider has set up an interview, we show how long is left before the application would be rejected automatically.
 
-![Screenshot showing an application for ‘Freida Jackson’. The header above the application says ‘Interviewing’. The application has a yellow status tag next to it that says ‘Interviewing’. Below the status tag it says ‘17 days to make a decision'](before-interview-status.png)
+![Screenshot showing an application for ‘Freida Jackson’. The header above the application says ‘Interviewing’. The application has a yellow status tag next to it that says ‘Interviewing’. Below the status tag it says ‘17 days to make a decision’](before-interview-status.png)
 
 We replaced this with content to show how long ago the application was received.
 

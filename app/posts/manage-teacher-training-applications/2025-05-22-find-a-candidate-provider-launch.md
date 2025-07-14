@@ -82,7 +82,7 @@ They can then decide whether to invite them to apply to their course by generati
 
 ![Screenshot of the search results with filters on the left](early-filter-design.jpg)
 
-### Who should be in the 'pool'?
+### Who should be in the ‘pool’?
 
 We agreed that candidates should opt-in to be searchable by other training providers. The hypothesis is that people would be more likely to respond to invitations that they have some expectation of receiving.
 
@@ -100,7 +100,7 @@ Because of this concern, we decided that only candidates who do not have any ope
 
 We decided early in this project to trial anonymising the application details of candidates to reduce unconscious bias in the recruitment process.
 
-This means that we obscured candidates' names, removed their date of birth and disability information.
+This means that we obscured candidates’ names, removed their date of birth and disability information.
 
 The initial round of research with providers showed that this was not an issue in itself, all 5 participants understood that the letter followed by asterisks represented a name and why we would remove that information. However, for keeping track of candidates throughout the process, they would need more specific identifiers, for example when shortlisting, sharing applications with colleagues or tracking who has applied from their list of invites.
 

@@ -35,7 +35,7 @@ We also added a preview of the invitation content in a details component. Some p
 
 ![Free-text field for adding a bespoke message to the invitation email](message-entry.png)
 
-## What's next?
+## What’s next?
 
 We will monitor how this feature is used. So far, providers who have included a personalised message are more likely to receive an application from the invited candidate.
 
