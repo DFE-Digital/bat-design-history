@@ -1,6 +1,6 @@
 ---
 title: Find candidates statuses
-description: Helping providers to keep track of who they have viewed and invited in Find candidates 
+description: Helping providers to keep track of who they have viewed and invited in Find candidates
 date: 2025-07-02
 tags:
   - find a candidate
@@ -30,15 +30,15 @@ We had prototyped a statuses idea to share with training providers at the end of
 ![screenshot of prototyped new candidates tab](prototyped-new-tab.jpg)
 ![screenshot of prototyped invited candidates tab](prototyped-invited-tab.jpg)
 
-The new design included status tags for:  
+The new design included status tags for:
 
-* 'new' candidates which would apply to any candidate profile that an individual provider user had not viewed yet.
+- 'new' candidates which would apply to any candidate profile that an individual provider user had not viewed yet.
 
-* 'viewed' candidates which would apply to any candidate profile that an individual provider user had viewed
+- 'viewed' candidates which would apply to any candidate profile that an individual provider user had viewed
 
-* 'rejected' candidates who have previously been rejected by your organisation
+- 'rejected' candidates who have previously been rejected by your organisation
 
-* 'invited' candidates who you have invited to apply to courses at your organisation.
+- 'invited' candidates who you have invited to apply to courses at your organisation.
 
 These tags would all be shown on the main Find candidates search results page. We also designed two other tabs to view only new and only invited candidates.
 
@@ -52,7 +52,7 @@ Most participants were very positive about the changes we were proposing and sai
 
 ### Rejected candidates
 
-We found that the rejected tag wasn’t well understood by participants. They were unclear whether it meant that the candidate had been rejected by them or any other training provider. We experimented with changing the tag to previously rejected but there was still some ambiguity.  
+We found that the rejected tag wasn’t well understood by participants. They were unclear whether it meant that the candidate had been rejected by them or any other training provider. We experimented with changing the tag to previously rejected but there was still some ambiguity.
 
 We were showing candidates in the list even when they had been rejected by that provider in the past, because we had an assumption that providers might want to reengage candidates who have acted on any feedback they had received at a past rejection.
 
@@ -82,4 +82,4 @@ The insights from research were inconclusive when it came to whether the statuse
 
 We took the decision to make the ‘viewed’ and ‘new’ statuses apply to the individual user for now. We think that this will have some value for all users, whilst balancing technical effort to implement. ‘Invited’ and ‘application received’ statuses are visible to all users in the same organisation.
 
-We will need more insight about organisational requirements before designing and building a workflow for this user need.  
+We will need more insight about organisational requirements before designing and building a workflow for this user need.
