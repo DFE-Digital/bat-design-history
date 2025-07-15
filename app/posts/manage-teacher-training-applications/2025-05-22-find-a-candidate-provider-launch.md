@@ -29,15 +29,15 @@ Providers were unclear about whether it was their responsibility to recommend ca
 
 They also had questions about how:
 
-* the shortlist would be shared
-* big the shortlist would be
-* they could filter down to candidates that match their own set criteria
+- the shortlist would be shared
+- big the shortlist would be
+- they could filter down to candidates that match their own set criteria
 
 Users also wanted assurances that:
 
-* candidates would understand that getting shortlisted was not a definite
-* they would not have to commit to using the shortlist
-* they would have enough information about candidates on the shortlist before contacting them
+- candidates would understand that getting shortlisted was not a definite
+- they would not have to commit to using the shortlist
+- they would have enough information about candidates on the shortlist before contacting them
 
 This felt like a promising idea but one that needed more insights to make it practical.
 
@@ -47,22 +47,22 @@ As part of our 3-part co-design series of workshops with training providers, we 
 
 The participants were generally positive about the concept. They had the following notes:
 
-* candidates should opt-in to be contacted by other providers
-  * this would make them more likely to respond positively to invitations to apply than if they received a ‘cold’ approach from a provider
-  * there is potential for us to ask candidates for information about the types of courses they are interested in so we can match them to courses better
+- candidates should opt-in to be contacted by other providers
+  - this would make them more likely to respond positively to invitations to apply than if they received a ‘cold’ approach from a provider
+  - there is potential for us to ask candidates for information about the types of courses they are interested in so we can match them to courses better
 
-* knowing the reason a candidate has been rejected or withdrawn would make this feature more useful
-* they are more likely to use a ‘candidate pool’ for recruitment at the end of the cycle if they still have unfilled spaces.
-* They would be interested in either:
-  * inviting candidates to submit an application
-  * sending candidates an expression of interest for the candidate to respond to
-  * requesting more information from candidates, particularly around locations they can travel to before making an invitation
+- knowing the reason a candidate has been rejected or withdrawn would make this feature more useful
+- they are more likely to use a ‘candidate pool’ for recruitment at the end of the cycle if they still have unfilled spaces.
+- They would be interested in either:
+  - inviting candidates to submit an application
+  - sending candidates an expression of interest for the candidate to respond to
+  - requesting more information from candidates, particularly around locations they can travel to before making an invitation
 
 They had some concerns about the concept:
 
-* the increased workload of recruiting proactively from a list of candidates
-* it could favour larger providers who are able to interview quickly, over smaller ones
-* it could reduce the overall quality of candidates joining teacher training courses
+- the increased workload of recruiting proactively from a list of candidates
+- it could favour larger providers who are able to interview quickly, over smaller ones
+- it could reduce the overall quality of candidates joining teacher training courses
 
 ### Survey December 2024
 
@@ -82,7 +82,7 @@ They can then decide whether to invite them to apply to their course by generati
 
 ![Screenshot of the search results with filters on the left](early-filter-design.jpg)
 
-### Who should be in the 'pool'?
+### Who should be in the ‘pool’?
 
 We agreed that candidates should opt-in to be searchable by other training providers. The hypothesis is that people would be more likely to respond to invitations that they have some expectation of receiving.
 
@@ -92,7 +92,7 @@ We agreed that only candidates who have submitted at least 1 application should 
 
 This was also something that came out of the co-design workshop in December when providers told us that adding everyone who creates a profile on Apply would create a list that is too big to meaningfully search and the workload would be too great for them to use the feature.
 
-The other concern that providers raised in the co-design session was around ‘poaching’ - training providers targeting candidates who have an application in progress with another provider. Smaller organisations were particularly worried about this as they don’t have the capacity to interview quickly, so were worried that bigger organisations with more capacity would be able to offer places to the best candidates more quickly.
+The other concern that providers raised in the co-design session was around ‘poaching’ - training providers targeting candidates who have an application in progress with another provider. Smaller organisations were particularly worried about this as they do not have the capacity to interview quickly, so were worried that bigger organisations with more capacity would be able to offer places to the best candidates more quickly.
 
 Because of this concern, we decided that only candidates who do not have any open applications would be searchable. This means that candidates who are rejected, withdrawn or inactive are all searchable.
 
@@ -100,7 +100,7 @@ Because of this concern, we decided that only candidates who do not have any ope
 
 We decided early in this project to trial anonymising the application details of candidates to reduce unconscious bias in the recruitment process.
 
-This means that we obscured candidates' names, removed their date of birth and disability information.
+This means that we obscured candidates’ names, removed their date of birth and disability information.
 
 The initial round of research with providers showed that this was not an issue in itself, all 5 participants understood that the letter followed by asterisks represented a name and why we would remove that information. However, for keeping track of candidates throughout the process, they would need more specific identifiers, for example when shortlisting, sharing applications with colleagues or tracking who has applied from their list of invites.
 
@@ -122,9 +122,9 @@ This is a small sample size but we had a short turnaround time to release the fu
 
 Of the 5 providers we interviewed, all were receptive to the idea of searching for candidates in order to invite them to apply to their courses:
 
-* 3 out of 5 would definitely try it out when it was released.
-* a further 1 said it would depend on their workload as they are already stretched
-* the final person said they would use it if they could see the rejection reasons of candidates in the list.
+- 3 out of 5 would definitely try it out when it was released.
+- a further 1 said it would depend on their workload as they are already stretched
+- the final person said they would use it if they could see the rejection reasons of candidates in the list.
 
 One of the main findings was that the number of people in the list could be unmanageable for training providers to search through, given how time-poor they are. A desire to filter by quality filters such as degree grade would help them to reduce the number of applications to read through.
 
@@ -150,9 +150,9 @@ Without telling them the specific reason a candidate has been rejected, some wou
 
 Other options they raised included:
 
-* knowing how many times someone has been rejected or withdrawn
-* knowing the status but not the reason
-* knowing the reason category but not the specifics
+- knowing how many times someone has been rejected or withdrawn
+- knowing the status but not the reason
+- knowing the reason category but not the specifics
 
 This feels like something we should continue to monitor and review. Potentially sharing reasons that relate to the ITT eligibility criteria but not others could support providers to filter candidates more quickly and make good decisions.
 
@@ -162,19 +162,19 @@ Because of what we know about providers’ concerns about time and capacity, it 
 
 During the research providers told us that they use these 3 main elements to shortlist candidates:
 
-* qualifications
-* work history and unpaid experience
-* personal statement
+- qualifications
+- work history and unpaid experience
+- personal statement
 
 Originally qualifications were at the bottom of the candidate application details, which would force providers to scroll all the way down to find this key information.
 
 We also listed a candidate’s previous applications at the top of the page, including all of their personal statements. This made the application details page extremely long.
 
-* We reordered the page to have qualifications, work history and unpaid experience and personal statement at the top in that order
-* We moved all past applications to the bottom and displayed them as a table to make them easier to scan
-* We decided to only show the most recent personal statement on the application details page, and to truncate it to 100 words with an option to expand to read the full text
-  * providers judge spelling and grammar in a personal statement, they can do this with a smaller excerpt
-  * providers are interested in candidates’ experience in the subject they are applying for, enthusiasm for teaching and interest in the age group they are applying to teach – these things will not vary much from statement to statement so there’s no need to include all statements in this view.
+- We reordered the page to have qualifications, work history and unpaid experience and personal statement at the top in that order
+- We moved all past applications to the bottom and displayed them as a table to make them easier to scan
+- We decided to only show the most recent personal statement on the application details page, and to truncate it to 100 words with an option to expand to read the full text
+  - providers judge spelling and grammar in a personal statement, they can do this with a smaller excerpt
+  - providers are interested in candidates’ experience in the subject they are applying for, enthusiasm for teaching and interest in the age group they are applying to teach – these things will not vary much from statement to statement so there’s no need to include all statements in this view.
 
 We hope that these changes will make it faster for providers to make a decision about whether to invite a candidate to interview by prioritising the information they find most useful and reducing the volume of information on the page.
 
@@ -196,9 +196,9 @@ We decided to include the degree type and grade in the search results. There is 
 
 Providers told us they needed a way to reliably differentiate candidates from one another. This would enable them to:
 
-* share candidate details with colleagues in partner schools
-* identify who they have invited to apply from the list of all applicants
-* understand how valuable the feature is by knowing how many of their offers have come from it
+- share candidate details with colleagues in partner schools
+- identify who they have invited to apply from the list of all applicants
+- understand how valuable the feature is by knowing how many of their offers have come from it
 
 Whilst we will design in-service sharing and shortlisting journeys beyond the initial launch scope, for launch it could be quicker to surface the candidate ID to providers and allow them use their offline methods to share and track applications.
 
@@ -210,15 +210,15 @@ The candidate ID is already in the URL for each application details page, so we 
 
 We considered a pilot period with a phased rollout of this feature. This would have the following benefits:
 
-* allow us to identify any issues with a small initial audience so that we can be proactive in solving them before releasing to the full provider audience
-* validate the design decisions which we had low confidence in due to a small user research sample size using real data
-* collect feedback in a controlled way through specified routes into the team
+- allow us to identify any issues with a small initial audience so that we can be proactive in solving them before releasing to the full provider audience
+- validate the design decisions which we had low confidence in due to a small user research sample size using real data
+- collect feedback in a controlled way through specified routes into the team
 
 We decided against it for these reasons
 
-* for the feature to be useful in this recruitment cycle, providers need to be able to use it sooner rather than later. A pilot period or phased rollout would delay the feature’s potential to impact on recruitment figures in this cycle.
-* providers had received communication that the feature will be available in May so the deadline was not flexible beyond that
-* we can mitigate some of the risks we identified through good communications and monitoring live data with a big sample size.
+- for the feature to be useful in this recruitment cycle, providers need to be able to use it sooner rather than later. A pilot period or phased rollout would delay the feature’s potential to impact on recruitment figures in this cycle.
+- providers had received communication that the feature will be available in May so the deadline was not flexible beyond that
+- we can mitigate some of the risks we identified through good communications and monitoring live data with a big sample size.
 
 ### Communications
 
@@ -244,10 +244,10 @@ Some research participants said they would want to speak to a candidate on the p
 
 We will monitor live usage of the feature including:
 
-* the number of providers performing searches for candidates
-* the number of invitations to apply to a course sent to candidates
-* the number of candidates who apply from an invitation
-* the number of offers made and accepted from an invited application
+- the number of providers performing searches for candidates
+- the number of invitations to apply to a course sent to candidates
+- the number of candidates who apply from an invitation
+- the number of offers made and accepted from an invited application
 
 ![Screenshot of the data analysis areas of interest including the pipeline of opt-ins to applications to offers](data-analysis-flow-chart.png)
 

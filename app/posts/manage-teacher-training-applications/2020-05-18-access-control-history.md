@@ -302,7 +302,7 @@ So that I can ensure that promising candidates are not lost and are provided wit
 ##### Supporting needs
 
 - [Know which organisation a candidate has applied to](https://trello.com/c/DAQq1mXq/142-know-which-organisation-a-candidate-has-applied-to)
-- [Know when I'm allowed to invite candidates to interview](https://trello.com/c/euz9hTyd/140-know-when-im-allow-to-invite-candidates-for-interview)
+- [Know when I’m allowed to invite candidates to interview](https://trello.com/c/euz9hTyd/140-know-when-im-allow-to-invite-candidates-for-interview)
 
 #### Safeguarding
 

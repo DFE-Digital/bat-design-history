@@ -1,6 +1,6 @@
 ---
-title: Get ready to teach traffic driving approach 
-description: How we are driving trainees to Teacher Success 
+title: Get ready to teach traffic driving approach
+description: How we are driving trainees to Teacher Success
 date: 2025-06-20
 tags:
   - withdrawals
@@ -8,7 +8,7 @@ tags:
   - training outcomes
 ---
 
-The Teacher Success team is delivering a digital companion service in time for the 2025/26 academic year, helping to set better expectations and signposting support for trainee teachers. At point of launch the service will be titled 'Get ready to teach'.  
+The Teacher Success team is delivering a digital companion service in time for the 2025/26 academic year, helping to set better expectations and signposting support for trainee teachers. At point of launch the service will be titled ’Get ready to teach’.
 
 ## Positioning the teacher success service
 
@@ -18,7 +18,7 @@ Get ready to teach will be a separate website to GIT, so we needed to ensure tha
 
 ## Targeted comms vs mass market traffic acquisition
 
-GIT is at the top of the conversion funnel and is concerned with attracting candidates into initial teacher training (ITT), so a search engine results page (SERP, eg Google, Bing) strategy is appropriate for that service. However, Get ready to teach is concerned in the first instance with targeting an MVP cohort (around 7,000 trainees of an estimated 20,000) with timely signposting to content appropriate to the stage of the academic year.  
+GIT is at the top of the conversion funnel and is concerned with attracting candidates into initial teacher training (ITT), so a search engine results page (SERP, eg Google, Bing) strategy is appropriate for that service. However, Get ready to teach is concerned in the first instance with targeting an MVP cohort (around 7,000 trainees of an estimated 20,000) with timely signposting to content appropriate to the stage of the academic year.
 
 ## Deciding not to index pages
 

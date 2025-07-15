@@ -1,6 +1,6 @@
 ---
 title: Find candidates statuses
-description: Helping providers to keep track of who they have viewed and invited in Find candidates 
+description: Helping providers to keep track of who they have viewed and invited in Find candidates
 date: 2025-07-02
 tags:
   - find a candidate
@@ -18,9 +18,9 @@ One of the biggest pain points that they raised with Find candidates is that the
 
 Some of them are keeping a record in spreadsheets or other offline systems, but this was flagged as both time-consuming, inefficient and unsafe from a data protection point of view.
 
-> "But again, there should be a digital system here. There should be a digital way of tracking them. I'm logged in, so there should be a way of me saying, I've read this person."
+> "But again, there should be a digital system here. There should be a digital way of tracking them. I’m logged in, so there should be a way of me saying, I’ve read this person."
 
-> “If I've got 80 candidates that I've invited (it's hard) to remember who I've invited. So that makes me hesitant to use it because I don't want to invite a candidate several times”
+> “If I’ve got 80 candidates that I’ve invited (it’s hard) to remember who I’ve invited. So that makes me hesitant to use it because I don’t want to invite a candidate several times”
 
 ## What we did
 
@@ -30,21 +30,21 @@ We had prototyped a statuses idea to share with training providers at the end of
 ![screenshot of prototyped new candidates tab](prototyped-new-tab.jpg)
 ![screenshot of prototyped invited candidates tab](prototyped-invited-tab.jpg)
 
-The new design included status tags for:  
+The new design included status tags for:
 
-* 'new' candidates which would apply to any candidate profile that an individual provider user had not viewed yet.
+- ‘new’ candidates which would apply to any candidate profile that an individual provider user had not viewed yet.
 
-* 'viewed' candidates which would apply to any candidate profile that an individual provider user had viewed
+- ‘viewed’ candidates which would apply to any candidate profile that an individual provider user had viewed
 
-* 'rejected' candidates who have previously been rejected by your organisation
+- ‘rejected’ candidates who have previously been rejected by your organisation
 
-* 'invited' candidates who you have invited to apply to courses at your organisation.
+- ‘invited’ candidates who you have invited to apply to courses at your organisation.
 
 These tags would all be shown on the main Find candidates search results page. We also designed two other tabs to view only new and only invited candidates.
 
 Most participants were very positive about the changes we were proposing and said it would really support them in their use of Find candidates:
 
-> “Having a way to know which I've viewed is exactly what I want to see”
+> “Having a way to know which I’ve viewed is exactly what I want to see”
 
 > “Would make my life much easier because I no longer need a paper copy”
 
@@ -52,13 +52,13 @@ Most participants were very positive about the changes we were proposing and sai
 
 ### Rejected candidates
 
-We found that the rejected tag wasn’t well understood by participants. They were unclear whether it meant that the candidate had been rejected by them or any other training provider. We experimented with changing the tag to previously rejected but there was still some ambiguity.  
+We found that the rejected tag was not well understood by participants. They were unclear whether it meant that the candidate had been rejected by them or any other training provider. We experimented with changing the tag to previously rejected but there was still some ambiguity.
 
 We were showing candidates in the list even when they had been rejected by that provider in the past, because we had an assumption that providers might want to reengage candidates who have acted on any feedback they had received at a past rejection.
 
 However, most participants told us that they would not want to see candidates in the list that they have rejected from their courses in the past.
 
-> “One of my concerns with that is these could be applicants that we've already rejected. I don't wish to ask them to reapply. We rejected them for a reason and it really is a concern from a professional and, you know, reputation that if we rejected them, it doesn't really make sense for us to be reinviting them”
+> “One of my concerns with that is these could be applicants that we’ve already rejected. I don’t wish to ask them to reapply. We rejected them for a reason and it really is a concern from a professional and, you know, reputation that if we rejected them, it doesn’t really make sense for us to be reinviting them”
 
 Our data shows that some providers have invited candidates to apply for courses that they have previously been rejected from.
 
@@ -82,4 +82,4 @@ The insights from research were inconclusive when it came to whether the statuse
 
 We took the decision to make the ‘viewed’ and ‘new’ statuses apply to the individual user for now. We think that this will have some value for all users, whilst balancing technical effort to implement. ‘Invited’ and ‘application received’ statuses are visible to all users in the same organisation.
 
-We will need more insight about organisational requirements before designing and building a workflow for this user need.  
+We will need more insight about organisational requirements before designing and building a workflow for this user need.

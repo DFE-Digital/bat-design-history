@@ -12,25 +12,25 @@ There are resources from third party organisations that are useful tools for tra
 
 The service does not plan to create its own resources due to:
 
-* capacity – recreating Department for Education approved resources on all the topics trainees cover (for example, lesson planning and behaviour management) would be a mass undertaking and require significant resource to replace what is already there
-* impartiality – many teachers and trainees join unions or receive support from third party organisations, which the department is not in a position to provide in an impartial capacity
-* expertise – the service does not have the required expertise or authority to create these resources and as an administrative department, we are not a brand that people look to for this kind of expertise
+- capacity – recreating Department for Education approved resources on all the topics trainees cover (for example, lesson planning and behaviour management) would be a mass undertaking and require significant resource to replace what is already there
+- impartiality – many teachers and trainees join unions or receive support from third party organisations, which the department is not in a position to provide in an impartial capacity
+- expertise – the service does not have the required expertise or authority to create these resources and as an administrative department, we are not a brand that people look to for this kind of expertise
 
 ## Framework
 
 The service will link to external, third-party organisations where one or more of the following applies:
 
-* the department currently funds or has provided funding for the organisation in the past
-* the organisation is a non-departmental public body
-* the department has an existing relationship with the organisation, for example, is in partnership with or sponsors the organisation
-* the organisation is a charitable or not-for-profit organisation
+- the department currently funds or has provided funding for the organisation in the past
+- the organisation is a non-departmental public body
+- the department has an existing relationship with the organisation, for example, is in partnership with or sponsors the organisation
+- the organisation is a charitable or not-for-profit organisation
 
 The service will review its links quarterely to ensure:
 
-* the service is still adhering to this external linking guidance
-* the links are still accurate
-* the links are still relevant
-* there are no organisations within GOV.UK that now meet the need better
+- the service is still adhering to this external linking guidance
+- the links are still accurate
+- the links are still relevant
+- there are no organisations within GOV.UK that now meet the need better
 
 ### Linking internally
 
@@ -38,7 +38,7 @@ The service will aim to link to content on GOV.UK where possible and where there
 
 ### Linking to not-for-profit or charitable organisations
 
-The service will link to third party organisations where the organisation is charitable or not-for profit and the content is accurate, relevant and cannot be sourced on internal websites such as GOV.UK.  
+The service will link to third party organisations where the organisation is charitable or not-for profit and the content is accurate, relevant and cannot be sourced on internal websites such as GOV.UK.
 
 ### Linking to commercial websites
 
@@ -50,9 +50,9 @@ The service would then aim to link to a range of other organisations to avoid pr
 
 ## Disclaimer when linking to external organisations
 
-The below disclaimer should be used when the service shares links to any external organisation, including charities, not-for-profit organisations or commercial websites.  
+The below disclaimer should be used when the service shares links to any external organisation, including charities, not-for-profit organisations or commercial websites.
 
-'Department for Education is not responsible for the content of any resources linked to outside of GOV.UK. Any external links provided are only ever examples of external resources trainees may want to use. Trainees should always refer to the specific advice of their training provider first.'
+‘Department for Education is not responsible for the content of any resources linked to outside of GOV.UK. Any external links provided are only ever examples of external resources trainees may want to use. Trainees should always refer to the specific advice of their training provider first.’
 
 ## Example organisations the service will link to
 

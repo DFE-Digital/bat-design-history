@@ -37,6 +37,6 @@ Note that the locations filter should be automatically shown in this case.
 
 ## Changing the location filter label
 
-At the moment, the location filter label says, for example ’Training locations for Endeavour TSA’.
+At the moment, the location filter label says, for example ‘Training locations for Endeavour TSA’.
 
 But as we usually just say ‘location’ we’ve changed this to ‘Locations for Endeavour TSA’.

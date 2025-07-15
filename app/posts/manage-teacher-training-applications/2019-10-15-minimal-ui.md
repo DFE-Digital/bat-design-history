@@ -1,6 +1,6 @@
 ---
 title: An interface for minimal service provision
-description: Looking towards rolling out the pilot.
+description: Looking towards rolling out the pilot
 date: 2019-10-15
 screenshots:
   items:

@@ -2,12 +2,12 @@
 title: Removing the individual note pages
 description: We removed the individual note pages because they repeat information available in the notes list. Changes described here are unpublished.
 date: 2022-03-24
+tags:
+  - notes
 screenshots:
   items:
     - text: Notes page
       src: notes-page.png
-tags:
-  - notes
 ---
 
 At the moment an individual page is created for every note added to an application. We included these pages so that we could link to notes from the timeline and activity log.
