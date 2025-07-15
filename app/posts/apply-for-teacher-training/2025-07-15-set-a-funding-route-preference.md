@@ -1,5 +1,5 @@
 ---
-title: Find candidates: set a preference for funding type
+title: "Find candidates: set a preference for funding type"
 description: Allowing candidates to show what type of course they want to be invited to. 
 date: 2025-07-15
 tags:
