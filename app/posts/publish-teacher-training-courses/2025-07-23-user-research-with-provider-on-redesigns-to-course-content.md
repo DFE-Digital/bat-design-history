@@ -58,19 +58,19 @@ Participants were also asked general questions including on their processes of â
 
 The prototype of redesigns to the Publish service enable several areas of long-form content to be tested for usability including the following 3 elements.
 
-### 1: Structure of course information
+### 1\. Structure of course information
 
 Relating to where candidates will train; what they will do on their school placements; what they will study; how they will be interviewed; what the fees are; and what financial support is available.
 
 ![screenshot of course structure](course_structure.png)
 
-### 2: Presentation of course information
+### 2\. Presentation of course information
 
 Relating to question format; optionality of questions; variation in word limits; expandable links to guidance on formatting text; previously published information for rollover; and live preview of content before publishing.
 
 ![screenshot of where you will train](where_you_will_train.png)
 
-### 3: Structure and presentation of organisation details
+### 3\. Structure and presentation of organisation details
 
 Relating to why candidates should train with a particular provider and how the needs of those training with disabilities will be met.
 
