@@ -29,8 +29,8 @@ Therefore, research was undertaken with providers to elicit their feedback on pr
 
 There were 2 main aims of this research round:
 
-- 1: To understand providers’ views on proposed redesigns to long-form course content in the Publish service
-- 2: To understand the impact of the proposed redesigns on providers
+1. To understand providers’ views on proposed redesigns to long-form course content in the Publish service
+2. To understand the impact of the proposed redesigns on providers
 
 As providers currently ‘roll-over’ course content from one teacher recruitment cycle to the next, a secondary aim of this research was to understand the ways in which this occurs.
 
