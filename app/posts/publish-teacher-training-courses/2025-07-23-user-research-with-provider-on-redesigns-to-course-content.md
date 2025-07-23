@@ -21,16 +21,14 @@ Research with teacher training candidates on [improving the ability to browse an
 
 They also experienced challenges in locating key information needed to assess and compare courses. Long-form content was therefore redesigned in a prototype to improve usability and better meet the needs of candidates.
 
-Providers of teacher training courses create and publish content (via the Publish teacher training courses service) that candidates review on the Find service.
-
 Therefore, research was undertaken with providers to elicit their feedback on proposed redesigns and to understand what impact such changes would have on them and their organisations.
 
 ## Research aims
 
 There were 2 main aims of this research round:
 
-1. To understand providers’ views on proposed redesigns to long-form course content in the Publish service
-2. To understand the impact of the proposed redesigns on providers
+1. To understand providers’ views on proposed changes to long-form course content in the Publish service
+2. To understand the impact of the proposed changes on providers
 
 As providers currently ‘roll-over’ course content from one teacher recruitment cycle to the next, a secondary aim of this research was to understand the ways in which this occurs.
 
@@ -56,7 +54,7 @@ Participants were also asked general questions including on their processes of �
 
 ## What we tested
 
-The prototype of redesigns to the Publish service enable several areas of long-form content to be tested for usability including the following 3 elements.
+The prototype of the changes to the Publish service enable several areas to be tested for usability including the following 3 elements.
 
 ### 1\. Structure of course information
 
@@ -66,7 +64,7 @@ Relating to where candidates will train; what they will do on their school place
 
 ### 2\. Presentation of course information
 
-Relating to question format; optionality of questions; variation in word limits; expandable links to guidance on formatting text; previously published information for rollover; and live preview of content before publishing.
+Relating to question format; optionality of questions; variation in word limits; expandable links to guidance on formatting text; the couse information they wrote last cycle; and live preview of content before publishing.
 
 ![screenshot of where you will train](where_you_will_train.png)
 
@@ -87,7 +85,7 @@ Following feedback from participants early in the research round, the following 
 - the form of some questions was improved to make more usable, for example the Where will interviews take place question including additional radio button options and detail
 - some wording was changed to improve usability, for example to the preview section
 
-## Findings relating to aim 1 of the research: to understand providers’ views on proposed redesigns to long-form course content in the Publish service
+## Findings relating to aim 1 of the research: to understand providers’ views on proposed changes to long-form course content in the Publish service
 
 - **Organisational and course information:** providers’ conceptual understanding of organisational content and course content was correct (i.e. organisational contents sits across courses).
 - **Question format:** the style of content creation through the form of responses to question was broadly well received. One provider, for example, described the question format as “very candidate friendly” (Participant 10) and another felt there was “no real crossover [duplication] between questions” (Participant 1).
