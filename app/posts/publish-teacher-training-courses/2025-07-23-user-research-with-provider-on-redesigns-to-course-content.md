@@ -14,7 +14,7 @@ related:
     - text: Improving the candidate journey
       href: /find-teacher-training/improving-the-candidate-journey/
     - text: Improving the ability to browse and search for courses
-      Href: /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-2-user-research/
+      href: /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-2-user-research/
 ---
 
 Research with teacher training candidates on [improving the ability to browse and search for courses]( /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-1-user-research/) found that they had trouble navigating large blocks of dense text (long-form content) as it was “unstructured”.
