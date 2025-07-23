@@ -129,9 +129,10 @@ Many providers had offline processes relating to rollover. This included draftin
 
 The following recommendations were made as a result of this round of research:
 
-- Proposed questions that formed part of the resign should be shared with providers well in advance of the teacher recruitment next cycle, preferably in an easy-to-use template
+- Overall the proposed design changes tested well with providers, so the team have decided to proceed with making these improvements to the service
+- Proposed questions that formed part of the changes should be shared with providers well in advance of the teacher recruitment next cycle, preferably in an easy-to-use template
 - A banner to promote rollover date change should be introduced in Publish and reiterated in further communication to providers to ensure this key information is not missed
 
 ## Next steps
 
-Both of those recommendations have already been implemented.
+All of those recommendations have already been implemented.
