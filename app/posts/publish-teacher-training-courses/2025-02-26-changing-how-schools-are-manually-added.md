@@ -5,6 +5,10 @@ date: 2025-02-26
 tags:
   - Schools
   - School placements
+related:
+  items:
+    - text: Improving schools data and adding schools automatcially
+      href: /find-teacher-training/improving-schools-data/
 ---
 
 ## The issue
@@ -19,7 +23,7 @@ This may be because we were asking providers to manually add schools and school 
 
 ### Adding a school
 
-We removed the ability to manually add school information, and replaced it with the ability to find a school that is on Get Information About Schools (GIAS) using a unique reference number (URN) or a school name.
+We removed the ability to manually add school information, and replaced it with the ability to find a school that is on [Get Information About Schools (GIAS)](https://get-information-schools.service.gov.uk/Search?SelectedTab=Establishments) using a unique reference number (URN) or a school name.
 
 ![Screenshot of a search box for finding a school by URN or school name](add-school-gias-search.png)
 
