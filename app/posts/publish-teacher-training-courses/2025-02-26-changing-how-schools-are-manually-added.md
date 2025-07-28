@@ -57,4 +57,4 @@ When a school cannot be found or has already been added, we display a warning me
 
 ## Next steps
 
-These changes will be main in Publish ready for providers to use during rollover and when they add new courses for the 2025/2026 recruitment cycle.
+These changes will be made in Publish for providers to use during rollover and when they add new courses for the 2025/2026 recruitment cycle.
