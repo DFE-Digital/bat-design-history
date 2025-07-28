@@ -39,7 +39,7 @@ We added a button on the schools landing page.
 
 ![Screenshot of the buttons on the schools landing page to add one or mutiple schools](add-multiple-schools-button.png)
 
-We added the ability to find a school that is on Get Information About Schools (GIAS) using a unique reference number (URN). You can enter a maximum of 50 URNs.
+We added the ability to find schools that is on Get Information About Schools (GIAS) using unique reference numbers (URNs). You can enter a maximum of 50 URNs.
 
 ![Screenshot of a search box for finding up to 50 schools by URN](add-multiple-schools-search.png)
 
