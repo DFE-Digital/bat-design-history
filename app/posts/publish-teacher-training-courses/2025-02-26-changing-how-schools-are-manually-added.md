@@ -8,7 +8,7 @@ tags:
 related:
   items:
     - text: Improving schools data and adding schools automatcially
-      href: /publish-teacher-training/improving-schools-data/
+      href: /publish-teacher-training-courses/improving-schools-data/
 ---
 
 ## The issue

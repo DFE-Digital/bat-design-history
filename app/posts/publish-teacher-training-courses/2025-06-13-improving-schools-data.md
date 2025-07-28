@@ -8,7 +8,7 @@ tags:
 related:
   items:
     - text: Changing how schools are manually added
-      href: /publish-teacher-training/changing-how-schools-are-manually-added/
+      href: /publish-teacher-training-courses/changing-how-schools-are-manually-added/
 ---
 
 ## The issue
@@ -17,7 +17,7 @@ Research found that providers do not always have all the schools they partner wi
 
 This may be because we were asking providers to manually add schools and school information.
 
-We recently [changed how schools are manually added](/publish-teacher-training/changing-how-schools-are-manually-added/), so now only schools that are on [Get Information About Schools (GIAS)](https://get-information-schools.service.gov.uk/Search?SelectedTab=Establishments) can be added.
+We recently [changed how schools are manually added](/publish-teacher-training-courses/changing-how-schools-are-manually-added/), so now only schools that are on [Get Information About Schools (GIAS)](https://get-information-schools.service.gov.uk/Search?SelectedTab=Establishments) can be added.
 
 However, there are still schools which were added before we made this change that are not on GIAS.
 
