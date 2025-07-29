@@ -67,8 +67,6 @@ When attaching schools to courses, we added the option to select all schools.​
 
 ![Screenshot of a page with a list of the schools removed from the providers account](schools-course-select-all.png)
 
-
-
 ## Next steps
 
 These changes will be made in Publish for providers to use during rollover and when they add new courses for the 2025/2026 recruitment cycle.
