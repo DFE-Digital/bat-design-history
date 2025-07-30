@@ -8,7 +8,9 @@ tags:
 
 ## What we did
 
-Recently we carried out a round of internal accessibility testing using the JAWS screen reader to identify how well the service works for users who rely on assistive technology.
+Recently we asked a senior accessibility specialist from the DFE accessibility team to run an informal accessibility audit with the team. The focus was to test how well the service works for people with access needs — particularly users who rely on screen readers.
+
+The testing involved using the screen reader software JAWS and browser plugin AXE to surface accessibility issues. For example, JAWS identified poor heading structure and the automated tool Axe identified colour contrast issues.
 
 We focused on the homepage, content pages with side navigation, and common components used across the service. This was a manual test using a staging version of the site.
 
