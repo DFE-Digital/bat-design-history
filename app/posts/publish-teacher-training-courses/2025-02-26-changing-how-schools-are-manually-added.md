@@ -5,13 +5,17 @@ date: 2025-02-26
 tags:
   - Schools
   - School placements
+related:
+  items:
+    - text: Improving schools data and adding schools automatcially
+      href: /publish-teacher-training-courses/improving-schools-data/
 ---
 
 ## The issue
 
 Research found that school information in Publish such as school name and address was not always accurate.
 
-This may be because we were asking providers to manually add schools and school information.
+This may be because previously the Department for Education (DfE) asked providers to manually add schools and school information as well as giving them the opportunity to add their study site as a placement school.
 
 ![Screenshot of manual entry of school details](add-school-manually-entry.png)
 
@@ -19,7 +23,7 @@ This may be because we were asking providers to manually add schools and school 
 
 ### Adding a school
 
-We removed the ability to manually add school information, and replaced it with the ability to find a school that is on Get Information About Schools (GIAS) using a unique reference number (URN) or a school name.
+We removed the ability to manually add school information, and replaced it with the ability to find a school that is on [Get Information About Schools (GIAS)](https://get-information-schools.service.gov.uk/Search?SelectedTab=Establishments) using a unique reference number (URN) or a school name.
 
 ![Screenshot of a search box for finding a school by URN or school name](add-school-gias-search.png)
 
