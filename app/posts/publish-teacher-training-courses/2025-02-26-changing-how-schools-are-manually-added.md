@@ -15,7 +15,7 @@ related:
 
 Research found that school information in Publish such as school name and address was not always accurate.
 
-This may be because we were asking providers to manually add schools and school information.
+This may be because previously the Department for Education (DfE) asked providers to manually add schools and school information as well as giving them the opportunity to add their study site as a placement school.
 
 ![Screenshot of manual entry of school details](add-school-manually-entry.png)
 
