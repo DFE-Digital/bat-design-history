@@ -1,6 +1,6 @@
 ---
-title: Internal accessibility testing using JAWS
-description: We carried out an internal accessibility review using the JAWS screen reader and found a number of issues we plan to resolve
+title: Internal accessibility testing using JAWS and AXE
+description: We recently did some accessibility testing using the screen reader software JAWS and browser tool AXE and identified some issues.
 date: 2025-07-30
 tags:
   - accessibility
