@@ -1,6 +1,6 @@
 ---
 title: External linking criteria for the Get ready to teach service private beta
-description: External linking criteria for the Get ready to teach service private beta, providing editorial content to support a sample cohort of trainees starting in the 2025/26 academic year.
+description: External linking criteria for the Get ready to teach service private beta, providing editorial content to support a sample cohort of trainees starting in the 2025/26 academic year
 date: 2025-07-02
 tags:
   - beta

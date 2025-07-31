@@ -1,6 +1,6 @@
 ---
 title: A/B testing the launch email for Find a candidate
-description: Optimising the content for higher conversion rates.
+description: Optimising the content for higher conversion rates
 date: 2025-04-28
 tags:
   - candidate emails
@@ -18,11 +18,11 @@ We wanted to experiment with A/B testing the content in the Find a candidate lau
 
 We had already split our candidate audience into 3 tiers who we would be contacting in a staggered rollout throughout April:
 
-* Tier 1 - candidates who have recently become unsuccessful in the last 30 days, and do not require visa sponsorship,
+- Tier 1 - candidates who have recently become unsuccessful in the last 30 days, and do not require visa sponsorship,
 
-* Tier 2 - candidates who are unsuccessful, do not require visa sponsorship and weren't in tier 1
+- Tier 2 - candidates who are unsuccessful, do not require visa sponsorship and were not in tier 1
 
-* Tier 3 - any candidate who has not already been recruited to train to teach and has submitted at least one application
+- Tier 3 - any candidate who has not already been recruited to train to teach and has submitted at least one application
 
 We decided to send the 2 variations to a segment of 1,000 candidates from tier 1 (total 1,974 candidates).
 
