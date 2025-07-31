@@ -1,6 +1,6 @@
 ---
 title: Find a candidate
-description: Helping training providers recruit candidates to their courses.
+description: Helping training providers recruit candidates to their courses
 date: 2025-05-22
 tags:
   - find a candidate

@@ -1,6 +1,6 @@
 ---
 title: Design updates following A/B testing with trainee teachers
-description: Making changes to the prototype based on a recent round of user research.
+description: Making changes to the prototype based on a recent round of user research
 date: 2025-07-02
 tags:
   - prototyping

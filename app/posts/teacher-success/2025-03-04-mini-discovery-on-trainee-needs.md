@@ -1,6 +1,6 @@
 ---
 title: Running a mini discovery to better understand trainee needs
-description: How we ran a small discovery to increase our understanding of trainee teacher needs.
+description: How we ran a small discovery to increase our understanding of trainee teacher needs
 date: 2025-03-04
 tags:
   - withdrawals

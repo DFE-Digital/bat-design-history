@@ -1,6 +1,6 @@
 ---
 title: Defining our user groups for private beta
-description: How we decided on our user groups for private beta.
+description: How we decided on our user groups for private beta
 date: 2025-06-25
 tags:
   - withdrawals

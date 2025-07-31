@@ -6,9 +6,6 @@ tags:
   - find a candidate
   - statuses
   - tracking
-eleventyComputed:
-  eleventyNavigation:
-    key: manage-teacher-training-find-a-candidate
 ---
 ## Background
 

@@ -5,9 +5,6 @@ date: 2025-06-18
 tags:
   - find a candidate
   - candidate emails
-eleventyComputed:
-  eleventyNavigation:
-    key: manage-teacher-training-find-a-candidate
 ---
 ## Background
 

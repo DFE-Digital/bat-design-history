@@ -1,6 +1,6 @@
 ---
 title: How we defined the MVP of Teacher Success
-description: How we defined a lean MVP for Teacher Success as the basis of learning the trainee experience.
+description: How we defined a lean MVP for Teacher Success as the basis of learning the trainee experience
 date: 2025-05-15
 tags:
   - withdrawals

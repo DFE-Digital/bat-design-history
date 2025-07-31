@@ -1,6 +1,6 @@
 ---
 title: User needs of prospective and current teacher trainees
-description: User needs of trainees split by the stage of the training journey.
+description: User needs of trainees split by the stage of the training journey
 date: 2025-03-12
 tags:
   - withdrawals

@@ -1,6 +1,6 @@
 ---
 title: Identifying and prioritising problems and riskiest assumptions for 2024
-description: In December 2023, the team reviewed the service, and defined the direction for design work in 2024.
+description: In December 2023, the team reviewed the service, and defined the direction for design work in 2024
 date: 2024-02-09
 tags:
   - workshops

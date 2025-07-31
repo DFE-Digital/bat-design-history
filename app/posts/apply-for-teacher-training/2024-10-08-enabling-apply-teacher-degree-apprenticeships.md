@@ -1,6 +1,6 @@
 ---
 title: Enabling candidates to apply for teacher degree apprenticeship courses
-description: Adding new questions and logic and updating content to allow candidates to apply for undergraduate courses.
+description: Adding new questions and logic and updating content to allow candidates to apply for undergraduate courses
 date: 2024-10-08
 tags:
   - courses
@@ -93,7 +93,7 @@ To do this, we added a ‘flight check’ or interstitial page between the appli
 
 ## Further considerations
 
- The main focus of this work was to do what was necessary to ensure that TDA as a new route to teaching would be available at the start of the cycle. The team may continue to make improvements to Apply which may require revisiting these design changes.
+The main focus of this work was to do what was necessary to ensure that TDA as a new route to teaching would be available at the start of the cycle. The team may continue to make improvements to Apply which may require revisiting these design changes.
 
 ## Status of this work
 

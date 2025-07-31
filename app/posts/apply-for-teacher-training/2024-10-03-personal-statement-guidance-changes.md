@@ -1,6 +1,6 @@
 ---
 title: Improving the guidance on personal statements
-description: A review and update to the guidance for personal statements following changes that UCAS have made to their personal statement screens.
+description: A review and update to the guidance for personal statements following changes that UCAS have made to their personal statement screens
 date: 2024-10-03
 tags:
   - personal statement
@@ -58,7 +58,7 @@ We did a content analysis of 8 different sources of personal statement guidance 
 There were 2 further areas which were covered but not as much or not as often:
 
 - spelling and grammar
-- specific information for overseas candidates.
+- specific information for overseas candidates
 
 We produced 3 questions based on the 3 most common areas and conducted a content crit with the Find and Apply and Get Into Teaching teams:
 
@@ -71,7 +71,7 @@ We produced 3 questions based on the 3 most common areas and conducted a content
 > 3. **Why is teaching important?**
 > What are the rewards of a career in teaching? Are there any challenges in the profession and the sector?
 
-The content crit highlighted that there was potential crossover between the first 2 questions and that the third question could disadvantage international candidates who wouldn’t have the knowledge of teaching in the UK that it asks for.
+The content crit highlighted that there was potential crossover between the first 2 questions and that the third question could disadvantage international candidates who would not have the knowledge of teaching in the UK that it asks for.
 
 Further discussion highlighted that recent graduates and career changers may also lack knowledge of the teaching landscape at this stage in their application process and would struggle to answer this question well. Question 3 was also felt to be too broad in scope and could be interpreted in many ways.
 
@@ -102,13 +102,13 @@ We also shared the proposed guidance with 2 teacher training governing bodies: U
 
 Research participants fed back that:
 
-- Question 1 (*why do you want to teach this subject or age group*) was confusing because it mentioned both subject and age group together and it wasn’t clear to candidates which of these should be tackled in which scenario (age group is for primary applicants to answer). Candidates applying for secondary teaching found it especially difficult to answer why they wanted to teach a specific age group.
+- Question 1 (*why do you want to teach this subject or age group*) was confusing because it mentioned both subject and age group together and it was not clear to candidates which of these should be tackled in which scenario (age group is for primary applicants to answer). Candidates applying for secondary teaching found it especially difficult to answer why they wanted to teach a specific age group.
 
 - The mention of skills in question 2 (*what skills, experience and characteristics do you have that would make you a great teacher?*) was also difficult for candidates to interpret. It was not clear how skills were different to characteristics or experience which were also mentioned in the question.
 
 - Question 2 was found to be overwhelming for one candidate with ADHD who said that they would struggle to know where to start with it and recommended breaking it down further.
 
-- Career changers reported being unsure of where to include their experience and it wasn’t clear to people where ‘life skills’ or experience gained through parenting should be included.
+- Career changers reported being unsure of where to include their experience and it was not clear to people where ‘life skills’ or experience gained through parenting should be included.
 
 Teacher training advisers fed back that:
 

@@ -1,6 +1,6 @@
 ---
 title: "Find candidates: set a preference for funding type"
-description: Allowing candidates to show what type of course they want to be invited to. 
+description: Allowing candidates to show what type of course they want to be invited to
 date: 2025-07-15
 tags:
   - Find a candidate
@@ -13,7 +13,7 @@ tags:
 
 Research with candidates who are pursuing a salaried route into teaching showed us that they would not consider fee-funded courses, even if invited to them by a provider.
 
-Providers told us that they have been wasting time inviting candidates to courses that they won’t apply to because it’s not clear enough that they are only interested in salaried routes.
+Providers told us that they have been wasting time inviting candidates to courses that they will not apply to because it’s not clear enough that they are only interested in salaried routes.
 
 > "They have applied to 8 places but some are salaried, they need to be clear about what they want to apply for”
 
@@ -39,10 +39,10 @@ This screen gives us the opportunity to let candidates know that their chances o
 
 For providers we allow them to filter the list of candidates in Find candidates by those who will consider fee-funded routes. This includes candidates who have applied for:
 
-* fee-funded routes only in the past
+- fee-funded routes only in the past
 
-* salaried and fee-funded routes in the past
+- salaried and fee-funded routes in the past
 
-* salaried routes only but have indicated that they would consider fee-funded courses in their preferences
+- salaried routes only but have indicated that they would consider fee-funded courses in their preferences
 
 ![Section of the filter on the find candidates search results showing a new filter for funding type](funding-type-filter.png)
