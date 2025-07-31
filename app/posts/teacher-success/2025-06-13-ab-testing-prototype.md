@@ -1,6 +1,6 @@
 ---
 title: A/B testing design concepts on a prototype
-description: Optimising the prototype to facilitate A/B testing to discern the impact of brand recognition.
+description: Optimising the prototype to facilitate A/B testing to discern the impact of brand recognition
 date: 2025-06-13
 tags:
   - prototyping

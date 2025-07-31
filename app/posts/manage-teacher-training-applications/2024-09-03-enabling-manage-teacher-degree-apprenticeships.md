@@ -1,6 +1,6 @@
 ---
 title: Enabling providers to manage teacher degree apprenticeship applications
-description: Adding new filters and content to differentiate undergraduate courses.
+description: Adding new filters and content to differentiate undergraduate courses
 date: 2024-09-03
 tags:
   - entry requirements

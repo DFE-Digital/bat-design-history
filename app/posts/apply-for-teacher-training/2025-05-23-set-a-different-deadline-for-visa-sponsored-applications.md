@@ -1,6 +1,6 @@
 ---
 title: Set a different deadline for candidates who need visa sponsorship
-description: Helping candidates to apply in good time so they can start their course on time.
+description: Helping candidates to apply in good time so they can start their course on time
 date: 2025-05-23
 tags:
   - international
@@ -13,7 +13,7 @@ tags:
 
 Candidates who need visa sponsorship need to apply earlier in the recruitment cycle because our data analysis shows that it takes around 90 days between them being accepted onto a course and them being ready to start on that course. The exact time will vary depending on the provider.
 
-The candidate needs to apply for their visa which has [a current processing time of 3 weeks](https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk#current-processing-times), but can take longer.  
+The candidate needs to apply for their visa which has [a current processing time of 3 weeks](https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk#current-processing-times), but can take longer.
 
 The training provider does additional checks on international applications, for example verifying that qualifications gained overseas are equivalent to UK ones (either through UK European Network of Information Centres UK ENIC) or by contacting overseas institutions for confirmation. Some applicants will have to sit equivalency tests or GCSEs before starting their course. This adds significant time to the recruitment process.
 
@@ -21,9 +21,9 @@ Some candidates who require a visa are applying too late in the cycle for these 
 
 ## What we have done
 
-We have added a question to the Publish journey to ask providers who have said that they can sponsor visas whether they would like to close their course to candidates who need a visa before the course closing date.  
+We have added a question to the Publish journey to ask providers who have said that they can sponsor visas whether they would like to close their course to candidates who need a visa before the course closing date.
 
-The training provider can select any date to close the course to candidates who need a visa.  
+The training provider can select any date to close the course to candidates who need a visa.
 
 The new closing date will be shown to candidates who have indicated that they need a visa when they are searching for courses.
 
@@ -57,7 +57,7 @@ We updated the content in the banners to specify not just the subject and subjec
 
 We also updated the content so that rather than saying ‘the deadline for visa sponsorship is [date]’ we say ‘the deadline for applications that need visa sponsorship is [date]’.
 
-Some participants missed the notification that the deadline had passed and it was not clear to them why they could not submit their application.  
+Some participants missed the notification that the deadline had passed and it was not clear to them why they could not submit their application.
 
 We made it more obvious by putting it into a warning component. There was some confusion about what was meant by ‘apply to another course’ so we have clarified with ‘apply to another course, subject or training provider who is still accepting applications.’
 
@@ -71,13 +71,13 @@ In April 2024 we shared the new Publish screens with some training providers wit
 * is 3 months enough time to process applications that need visa sponsorship so that candidates can start their course on time?
 * does the content clearly explain what we are asking providers to do?
 
-4 out of 5 participants understood that we were asking them to declare when they would like to close applications for participants who need a visa sponsorship. Only one participant wasn’t quite clear – they thought we would put in place a deadline for accepting candidates that need a visa.
+4 out of 5 participants understood that we were asking them to declare when they would like to close applications for participants who need a visa sponsorship. Only one participant was not quite clear – they thought we would put in place a deadline for accepting candidates that need a visa.
 
 All 5 respondents were comfortable adding a specific date to close applications for visa sponsored candidates. They did not have any concerns about deciding on a date when creating the course.
 
-2 out of 5 respondents did not think 90 days was enough time to process applications for visa sponsored candidates.  
+2 out of 5 respondents did not think 90 days was enough time to process applications for visa sponsored candidates.
 
-These two respondents pointed out that 90 days isn’t enough time to complete their checks on qualifications, references and give candidates enough time to meet any conditions for their offer (e.g. sitting GCSE, UKVI English Language tests).
+These two respondents pointed out that 90 days is not enough time to complete their checks on qualifications, references and give candidates enough time to meet any conditions for their offer (e.g. sitting GCSE, UKVI English Language tests).
 
 “We require at least 90 days to allow applicants sufficient time to meet all  conditions of their offer (including sitting GCSE/UKVI English Language  tests).”
 
