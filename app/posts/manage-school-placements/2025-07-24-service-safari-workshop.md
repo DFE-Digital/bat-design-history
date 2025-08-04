@@ -34,7 +34,7 @@ After each scenario, teams shared their experiences and discussed what worked an
 
 ## What we found
 
-The service worked well in many areas, but we identified some key challenges.
+The service worked well in many areas, but we identified some challenges.
 
 ### Provider control over placements
 
@@ -52,7 +52,7 @@ The service worked well in many areas, but we identified some key challenges.
 
 - By testing the service in different scenarios, both happy and unhappy paths, the team identified some unexpected bugs that would occur under very specific circumstances. We prioritised fixes for them to ensure a good user experience for launch.
 
-The service safari ended with a prioritisation session in which the team reviewed and prioritise a list of potential challenges and bugs. Each item was converted into a ticket, added to the backlog and assigned an owner.
+The service safari ended with a prioritisation session in which the team reviewed and prioritised a list of potential challenges and bugs. Each item was converted into a ticket, added to the backlog and assigned an owner.
 
 ## Reflections
 
