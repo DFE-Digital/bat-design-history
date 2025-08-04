@@ -1,5 +1,5 @@
 ---
-title: User research round 16 with providers.
+title: User research round 16 with providers
 description: In user research round 16, we interviewed 5 providers in Essex to get feedback on their experience of using the private beta service.
 date: 2025-07-31
 tags:
@@ -42,9 +42,9 @@ Providers value the close working relationships they have with their partner sch
 
 Providers are currently using the service to find new placement schools, and they are more likely to use the service if all schools are using it to share their placement availability for a given academic year.
 
-> “If schools really get behind it and it does what you want it to do and it saves us time. But if it’s not going to get that full level of buy in then we’d only use it for looking for new schools”. – U71
+> “If schools really get behind it and it does what you want it to do and it saves us time. But if it’s not going to get that full level of buy in then we’d only use it for looking for new schools” – U71
 
-> “the ease of use is great… but it’s another thing to look at a very tight time, especially if we search regularly and there’s no placements” – U70
+> “The ease of use is great… but it’s another thing to look at a very tight time, especially if we search regularly and there’s no placements” – U70
 
 ### Insight 3
 
@@ -56,7 +56,7 @@ Providers have concerns about how up to date the information is on the service.
 - Others manage it as an ongoing process throughout the year, often using a colour coded spreadsheet to track the status of each placement.
 - If the service doesn’t show when a school last updated their information then providers cannot trust the information that it’s showing. As a result, providers then go back to their current ways of working.
 
-> “when we originally looked for this German placement, it probably was at least a month ago, I think when I first looked and one of our partnership schools came up, we thought, oh, fantastic... you've got a place. German. But we'd already asked them and they'd said no. So we were like, okay, I'm not sure how up to date this information is” – U69
+> “When we originally looked for this German placement, it probably was at least a month ago, I think when I first looked and one of our partnership schools came up, we thought, oh, fantastic... you've got a place. German. But we'd already asked them and they'd said no. So we were like, okay, I'm not sure how up to date this information is” – U69
 
 > “From a school's perspective, you've got to be careful - they might forget to update it. They might think they have capacity now but by January their capacity might have changed. If you're going to select 'any time' you'd need alerts in case things change” – U73
 
@@ -66,7 +66,7 @@ Providers need to know if schools are open to accepting candidates for their pla
 
 #### Supporting detail and evidence
 
-- Currently, when a school completes their expression of interest (EOI) journey they are not asked whether they will accept candidates from specific routes e.g. salaried or apprenticeships.
+- Currently, when a school completes their expression of interest journey they are not asked whether they will accept candidates from specific routes e.g. salaried or apprenticeships.
 - Therefore providers have to reach out to relevant contact at the school to inquire about this.
 
 > “So information that could be useful could be whether they could take a salaried or unsalaried place, whether they will only consider full time, part time, something like that” – U69
@@ -95,7 +95,7 @@ Minor technical fixes would improve providers’ experience of using the service
 - Whilst looking through a list of schools in the Find page, pressing the back button doesn’t return you to the original page the user was on within their initial search, it takes them to the first page instead.
 - Listing placements for each school in alphabetical order would be easier to read.
 
-> “You can click on school but if you go back (back button), it takes you back to the start of list again, rather than where you left off” – U71
+> “You can click on school but if you go back (back button), it takes you back to the start of the list again, rather than where you left off” – U71
 
 > “So we typed in Essex, but the first school showing was in London. So we were wondering if it's by distance, isn't it? So we would have preferred, if possible, for that to be schools based in Essex” – U72
 
@@ -119,5 +119,5 @@ Technical and content related improvements:
 - Order placements on the “Find” show page by subject name
 - Remove the “schools you work with” page as providers are interpreting it differently and it is causing confusion.
 - If, in future, the service becomes a “Find” service instead of “Manage” placements service, we should consider importing a list of schools from the Register service for individual providers so that they can select the schools they have recently worked with and filter for schools outside of their network.
-- Consider adding an export functionality for providers to be able to export data about each school (characteristics) e.g. mixed school, school type etc.
+- Consider adding an export functionality for providers to be able to export data about each school's characteristics, e.g. mixed school, school type etc.
 - Explore whether a hierarchy is needed in the “users” tab to allow/restrict individuals to add/remove users.
