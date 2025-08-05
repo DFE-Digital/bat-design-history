@@ -11,8 +11,6 @@ related:
       href: /find-teacher-training/structuring-course-content-design-with-candidates/
     - text: Structuring course content user research with candidates
       href: /find-teacher-training/structuring-couse-content-user-research-with-candidates/
-    - text: User research with providers on redesigns to course content
-      href: /publish-teacher-training-courses/user-research-with-provider-on-redesigns-to-course-content/
 ---
 
 We developed designs to display to candidates the number of places of a course. However, following user research we decided not to go ahead with these designs.
