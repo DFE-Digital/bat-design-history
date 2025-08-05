@@ -42,7 +42,7 @@
   "dependencies": {
     "@11ty/eleventy": "3.0.0",
     "@11ty/eleventy-navigation": "^1.0.4",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@rollup/plugin-commonjs": "^28.0.6",
     "@rollup/plugin-node-resolve": "^16.0.1",
     "accessible-autocomplete": "^3.0.1",
