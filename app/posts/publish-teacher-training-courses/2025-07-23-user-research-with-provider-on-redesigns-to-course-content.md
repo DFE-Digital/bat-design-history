@@ -7,6 +7,7 @@ tags:
   - Providers
   - Course structure
   - Course content
+  - Longform content
 related:
   items:
     - text: Improving the ability to browse and search for courses

@@ -5,7 +5,10 @@ date: 2025-06-19
 tags:
   - Find
   - courses
+  - Course structure
+  - Course content
   - research
+  - longform content
 ---
 
 ## Context

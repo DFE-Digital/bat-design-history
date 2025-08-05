@@ -5,6 +5,9 @@ date: 2025-05-14
 tags:
   - Find
   - courses
+  - Course structure
+  - Course content
+  - longform content
 related:
   items:
     - text: Structuring course content user research with candidates
