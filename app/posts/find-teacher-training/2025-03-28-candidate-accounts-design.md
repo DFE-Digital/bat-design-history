@@ -103,13 +103,8 @@ This is the final design iteration.
 
 ![screenshot of page checking if the course name is correct and if the candidate wants to proceed to apply for the course](candidate-accounts-selected.png)
 
-
 ## Next steps
 
 These designs were tested with participants.
 
 The findings are written in the following post: [Candidate accounts user research round 1](/find-teacher-training/candidate-accounts-user-research-round-1/).
-
-
-
-
