@@ -1,17 +1,24 @@
 ---
-title: Research on candidate accounts
+title: Reviewing previous research on candidate accounts
 description: Reviewing how introducing candidate accounts on Find might help meet user needs and improve the candidate journey.
 date: 2025-03-14
 tags:
   - research
   - find
   - candidates
+  - canididate accounts
 screenshots:
   items:
     - text: Map of data being captured along the journey
       src: 5-sharing-data.png
     - text: Map of service structure if services were merged
       src: 6-service-structure.png
+related:
+  items:
+    - text: Prototyping candidate accounts
+      href: /find-teacher-training/candidate-accounts-design/
+    - text: Candidate accounts user research round 1
+      href: /find-teacher-training/candidate-accounts-user-research-round-1/
 ---
 
 ## The issue
@@ -153,7 +160,11 @@ We feel this will reduce barriers to becoming a teacher, potentially increasing 
 
 ## Next steps
 
-We will develop and test designs for candidate accounts on Find, focusing initially on an MVP of candidates just being able to set up an account and then save courses.
+As a team we investigated the feasability of implementing a single account, and found that a cross-cutting piece of work like this would need significant planning and buy-in from multiple product teams, well in advance of the work commencing.
+
+Therefore, we decided to start small by first introducing a candidate account on Find, that would use the same log-in credentials as on Apply. Therefore, candidates would be able to use their account to log-in to Apply as well.
+
+For candidate accounts on Find, we will focus initially on an MVP of candidates just being able to set up an account and then save courses.
 
 We will develop the MVP in line with these principles:
 

@@ -7,6 +7,13 @@ tags:
   - research
   - accounts
   - candidates
+  - candidate accounts
+related:
+  items:
+    - text: Reviewing previous research on candidate accounts
+      href: /find-teacher-training/exploring-candidate-accounts/
+    - text: Prototyping candidate accounts
+      href: /find-teacher-training/candidate-accounts-design/
 ---
 
 The Find teacher training courses (Find) team wanted to understand how teacher training candidates would react to a candidate account feature being introduced on the service.
@@ -114,3 +121,5 @@ These users all wanted to be involved in a previous round of research and so are
 We will cross-reference the quantitative feedback from the survey with the qualitative feedback from this round of research to inform the minimum viable product (MVP) design of candidate accounts.
 
 We aim to launch the MVP candidate accounts before October 2025.
+
+We will monitor usage and collect feedback from candidates to help inform future iterations of the candidate account feature throughout the 2025-26 recruitment cycle.
