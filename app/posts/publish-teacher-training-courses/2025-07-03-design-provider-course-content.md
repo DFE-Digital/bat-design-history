@@ -58,7 +58,7 @@ The new design converts the guidance into separate questions to help focus:
 
 This also allowed us to reduce the word count for each of the new questions.
 
-### What you wrote last cycle
+###  What you wrote last cycle
 
 Because of the new structure, we would not be able to populate the text inputs with what the providers wrote last cycle, like we have done in previous years.
 
