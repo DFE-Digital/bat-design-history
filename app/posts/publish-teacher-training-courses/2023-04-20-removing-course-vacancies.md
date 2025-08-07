@@ -7,8 +7,6 @@ tags:
   - vacancies
 related:
   items:
-    - text: Removing the school placement vacancy status
-      href: /find-teacher-training/removing-the-school-placement-vacancy-status/
     - text: Updating course vacancies
       href: /publish-teacher-training-courses/updating-course-vacancies/
 screenshots:
