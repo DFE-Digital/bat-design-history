@@ -10,12 +10,12 @@ tags:
   - Longform content
 related:
   items:
-    - text: Improving the ability to browse and search for courses
-      href: /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-1-user-research/
-    - text: Improving the candidate journey
-      href: /find-teacher-training/improving-the-candidate-journey/
-    - text: Improving the ability to browse and search for courses
-      href: /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-2-user-research/
+    - text: Improving how course content is structured
+      href: /find-teacher-training/structuring-course-content-design-with-candidates/
+    - text: Structuring course content user research with candidates
+      href: /find-teacher-training/structuring-couse-content-user-research-with-candidates/
+    - text: Enabling a new structure for course content
+      href: /publish-teacher-training-courses/design-provider-course-content/
 ---
 
 Research with teacher training candidates on [improving the ability to browse and search for courses]( /find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-1-user-research/) found that they had trouble navigating large blocks of dense text (long-form content) as it was “unstructured”.
