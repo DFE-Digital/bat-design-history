@@ -8,7 +8,7 @@ tags:
 
 ## What we did
 
-We recently launched the private beta of Schools Digital’s new Teacher Success service: https://teach.education.gov.uk/
+We recently launched the private beta of Schools Digital’s new Teacher Success service: <https://teach.education.gov.uk/>
 
 To mark the occasion, we created our first service emblem, taking inspiration from Findind Nemo. We wanted to echo the story of following someone on a great adventure.
 
