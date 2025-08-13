@@ -1,7 +1,7 @@
 ---
 title: Launching the private beta of Teacher Success
 description: We recently launched the private beta of Schools Digital’s new Teacher Success service. 
-date: 2025-09-11
+date: 2025-08-11
 tags:
   - trainees
 ---
