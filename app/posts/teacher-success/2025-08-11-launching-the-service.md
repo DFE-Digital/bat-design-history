@@ -1,6 +1,6 @@
 ---
-title: Launching the private beta of Teacher Success
-description: We recently launched the private beta of Schools Digital’s new Teacher Success service. 
+title: Launching the private beta of Get ready to teach
+description: We recently launched the private beta of Schools Digital’s new Get ready to teach service. 
 date: 2025-08-11
 tags:
   - trainees
@@ -8,7 +8,7 @@ tags:
 
 ## What we did
 
-We recently launched the private beta of Schools Digital’s new Teacher Success service: <https://teach.education.gov.uk/>
+We recently launched the private beta of Schools Digital’s new Get ready to teach service: <https://teach.education.gov.uk/>
 
 To mark the occasion, we created our first service emblem, taking inspiration from Finding Nemo. We wanted to echo the story of following someone on a great adventure.
 
@@ -22,7 +22,7 @@ An initial cohort of around 7,000 soon-to-be trainees will receive emails soon. 
 
 ## Our vision
 
-Over time, Teacher Success will become an increasingly personalised service—adapting to where teachers are in their career, what they teach, and their individual needs and aspirations.
+Over time, Get ready to teach will become an increasingly personalised service—adapting to where teachers are in their career, what they teach, and their individual needs and aspirations.
 
 ## What’s next
 
