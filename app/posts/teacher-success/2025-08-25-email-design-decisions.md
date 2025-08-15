@@ -1,18 +1,23 @@
-title description date tags
-Email design decisions
-Designing the emails to trainees to maintain Get Into Teaching branding
-2025-08-15
-beta
-private beta
-trainees
-The aim of these emails is to direct trainees to relevant content on the service during our private beta.
+---
+title: Email design decisions
+description: Designing the emails to trainees to maintain Get Into Teaching branding.
+date: 2025-08-15
+tags:
+  - beta
+  - private beta
+  - trainees
+---
 
-# Branding and visual design
+## Branding and visual design
+
+![A screenshot of the email header showing the DFE logo and a teacher campaign image](emailheader.png)
 
 We’ve incorporated elements from both the Department for Education and Teaching campaign branding to maintain familiarity and trust. Styling decisions include:
 
 * use of Arial font, size 16 for body copy and 20 bold for headings/subheadings
 * consistent button design: GOV green (#00703C), no rounded corners, Arial 14, with 10px inner padding
+
+![A screenshot showing the email button following gov design principles](emailbutton.png)
 
 We are also using GIT's approved colour palette, including:
 
