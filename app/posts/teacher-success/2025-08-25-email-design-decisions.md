@@ -30,12 +30,14 @@ We are also using GIT's approved colour palette, including:
 * off white #F0F0F0
 
 ## Imagery
+
 Images will be sourced from:
 
 * Department for Education stock photography
 * Teaching-specific visuals
 
 ## Layout and spacing standards
+
 To ensure emails are accessible and easy to navigate, we’ve applied the following layout guidance:
 
 * paragraph spacing: 20px
