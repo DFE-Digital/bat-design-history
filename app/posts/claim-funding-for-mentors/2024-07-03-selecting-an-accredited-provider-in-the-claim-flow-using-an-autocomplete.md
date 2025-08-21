@@ -59,4 +59,4 @@ After spotting the issue, we added a filter so only accredited providers would a
 
 Some users also noticed their provider was missing from the autocomplete. After investigating, we found that we we were using the latest data set, not the one for the current academic year. Updating our API endpoint fixed this and we've received no further reports of missing providers.
 
-The main take away from this work is that it’s important to document external data sources, as this knowledge can easily get lost. If we had known that further development was required before launching the public beta, we could have avoided all of these issues.
+The main take away from this work is that it’s important to document external data sources, as this knowledge can easily get lost. We also reflected on the importance of surfacing design histories and key artefacts as part of handover between teams, and recognised that this was in part due to the the prototype breaking just before handover and key information getting lost.
