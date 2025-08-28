@@ -9,11 +9,11 @@ tags:
   - policy
 ---
 
-The Publish teacher training courses (Publish) team wanted to address inaccuracies and inconsistencies in provider naming practices on the Publish service. The aim was to do this by designing and introducing a provider naming policy. 
+The Publish teacher training courses (Publish) team wanted to address inaccuracies and inconsistencies in provider naming practices on the Publish service. The aim was to do this by designing and introducing a provider naming policy.
 
 The desired outcome was reduced confusion for candidates when searching for courses and trying to understand provider relationships.  
 
-During this process, the Register of training providers (RoTP) service was also launched. This new Register aims to address common data challenges faced by the Department for Education (DfE) and the Becoming a teacher (BAT) service line. 
+During this process, the Register of training providers (RoTP) service was also launched. This new Register aims to address common data challenges faced by the Department for Education (DfE) and the Becoming a teacher (BAT) service line.
 
 DfE services often require access to accurate and up-to-date data on training providers. However, teams frequently encounter issues such as:
 
@@ -30,7 +30,7 @@ To design the provider naming policy, we therefore:
 
 ## Overview
 
-During the process, the naming policy was divided into rules for accredited providers, and rules for training partners. When analysing the impact of these two sets of rules, we discovered that the training partner rules would have a significant impact. 
+During the process, the naming policy was divided into rules for accredited providers, and rules for training partners. When analysing the impact of these two sets of rules, we discovered that the training partner rules would have a significant impact.
 
 Consequently, we decided to run further consultation of the training partner naming rules before implementation and planned to implement just the accredited provider rules in September 2025 during roll over.
 
@@ -45,7 +45,7 @@ This policy for accredited provider names is for Becoming a Teacher (BaT) servic
 
 This policy outlines how accredited providers should name themselves when creating accounts on these services.
 
-The purpose of this policy is to improve the data consistency between BaT services, reduce confusion for candidates on services, and to promote adherence to ITT criteria regarding provider relationships. 
+The purpose of this policy is to improve the data consistency between BaT services, reduce confusion for candidates on services, and to promote adherence to ITT criteria regarding provider relationships.
 
 This policy also reinforces the aims of the Register of training providers.
 
