@@ -51,10 +51,10 @@ This policy also reinforces the aims of the Register of training providers.
 
 ## The Policy
 
-- Accredited providers must use their operating name as published here: [List of providers accredited to deliver ITT from September 2024](https://www.gov.uk/government/publications/accredited-initial-teacher-training-itt-providers/list-of-providers-accredited-to-deliver-itt-from-september-2024#contents) and [List of providers accredited to deliver ITT from September 2026](https://www.gov.uk/government/publications/accredited-initial-teacher-training-itt-providers/list-of-providers-accredited-to-deliver-itt-from-september-2026).  
+- Accredited providers should use their operating name as published here: [List of providers accredited to deliver ITT from September 2024](https://www.gov.uk/government/publications/accredited-initial-teacher-training-itt-providers/list-of-providers-accredited-to-deliver-itt-from-september-2024#contents) and [List of providers accredited to deliver ITT from September 2026](https://www.gov.uk/government/publications/accredited-initial-teacher-training-itt-providers/list-of-providers-accredited-to-deliver-itt-from-september-2026).  
   - If there is a reason why the operating name cannot be used, then legal names may be used instead.
   - If there are inaccuracies in the published list, providers should contact the DfE through <itt.accreditation@education.gov.uk> to amend these.
-- Accredited providers must use the same name across all DfE services.  
+- Accredited providers should use the same name across all DfE services.  
 
 ## Next Steps
 
