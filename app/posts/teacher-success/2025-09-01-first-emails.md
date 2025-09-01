@@ -64,4 +64,4 @@ This suggests people are more interested in preparation advice, though the place
 
 We’ll continue to monitor engagement over time to see if differences between subject lines become clearer, particularly for SCITT trainees where results are currently very close. We’ll also explore ways to balance CTA prominence so we can better understand content preferences versus visual placement.
 
-We also plan to send more emails to the beta cohort of trainees soon. 
+We also plan to send more emails to the beta cohort of trainees soon.
