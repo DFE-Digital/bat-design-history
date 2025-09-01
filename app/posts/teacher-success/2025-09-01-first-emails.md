@@ -13,10 +13,10 @@ In August we sent out the first emails to a beta cohort of trainee teachers begi
 - SCITT trainees: 3,135 recipients, sent on Sunday 24 August at 9.30am.
 - University trainees: 5,673 recipients, sent on Sunday 24 August at 9.30am.
 
-Each group received two subject line variants:
+Each group received two subject line variants that included the trainees first name:
 
-1. |FNAME|, prepare for your training and read advice from past trainees
-2. |FNAME|, you're almost ready to start your training!
+1. FIRST NAME, prepare for your training and read advice from past trainees
+2. FIRST NAME, you're almost ready to start your training!
 
 ![A screenshot showing the first email sent](firstemail.png)
 
@@ -64,4 +64,4 @@ This suggests people are more interested in preparation advice, though the place
 
 We’ll continue to monitor engagement over time to see if differences between subject lines become clearer, particularly for SCITT trainees where results are currently very close. We’ll also explore ways to balance CTA prominence so we can better understand content preferences versus visual placement.
 
-We also plan to send more emails to the beta cohort of trainees soon.
+We also plan to send more emails to the beta cohort of trainees soon. 
