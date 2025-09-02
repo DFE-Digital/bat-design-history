@@ -7,7 +7,7 @@ tags:
   - iteration
 ---
 
-In mid-August 2025, we released the first working slice of the Register of training providers to internal users and stakeholders.
+In mid-August 2025, we released the first working slice of the [Register of training providers](https://register-of-training-providers.education.gov.uk/) to internal users and stakeholders.
 
 This release was not a full service, but a minimum set of features that demonstrated how key parts of the register would work together.
 
