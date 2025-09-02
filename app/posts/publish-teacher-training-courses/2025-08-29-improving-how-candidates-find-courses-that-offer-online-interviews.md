@@ -3,7 +3,7 @@ title: Improving how candidates find courses that offer online interviews
 description: Following testing, we have implemented a new field on Publish asking where the interviews will take place
 date: 2025-08-29 
 --- 
-# The issue
+## The issue
 
 Two of our core user groups for Find teacher training courses are career changers and international candidates.
 
@@ -17,9 +17,9 @@ This is how the ‘Interview process’ field used to look on Publish:
 
 And this is how the ‘Interview process’ field used to look on Find:
 
-# What we tested in user research
+## What we tested in user research
 
-## Testing on Publish
+### Testing on Publish
 
 We tested changes to Find with candidates, and changes to Publish with providers. We did this as part of the bigger [structuring course content user research with candidates](/find-teacher-training/structuring-course-content-user-research-with-candidates/) and [user research with providers on redesigns to course content]( /publish-teacher-training-courses/user-research-with-provider-on-redesigns-to-course-content/).
 
@@ -29,7 +29,7 @@ We tested several iterations of this question and it became clear that it was im
 
 This was the final iteration to the design on Publish:
 
-## Testing on Find
+### Testing on Find
 
 We also tested surfacing this information to candidates on Find.
 
@@ -43,13 +43,13 @@ This all tested well – participants generally found the online interview statu
 
 We also tested being able to filter for courses which offer online interviews. This also tested well.
 
-# What we changed
+## What we changed
 
 Based on the feedback from user research, we decided to go live with the designs above for both Publish and Find.
 
 We are aiming to go live with the Publish changes before September 2025 (ahead of rollover) and with the Find changes before October 2025 (the start of the new cycle).
 
-# Next steps
+## Next steps
 
 We will deploy these changes to both Publish and Find, and then monitor whether providers actually use the new online interview question as it’s optional.
 
