@@ -64,4 +64,4 @@ Accredited providers on the service who are impacted by the policy will be email
 
 ## Relevant Links
 
-[Register of training providers - Becoming a teacher design history - Department for Education](https://becoming-a-teacher.design-history.education.gov.uk/register-of-training-providers/)
+[Register of training providers](/register-of-training-providers/)
