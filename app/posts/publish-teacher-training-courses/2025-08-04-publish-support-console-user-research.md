@@ -1,5 +1,5 @@
 ---
-title: Publish Support Console User Research
+title: Publish support console user research
 description: User research with internal users on the Publish support console
 date: 2025-08-04
 tags:
