@@ -1,15 +1,16 @@
 ---
-title: Defining placement schools
+title: Clarifying how a placement school differs from a school
 description: Understanding what we mean by a ‘placement school’ is essential to building the register
 date: 2025-07-23
 tags:
   - placement schools
   - register
-  - naming
 related:
   items:
     - text: Understanding the relationships between organisations delivering initial teacher training
       href: /becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/
+    - text: Exploring the scope of a register of placement schools
+      href: /register-of-placement-schools/exploring-the-scope-of-a-register-of-placement-schools/
     - text: The lifecycle of a school placement
       href: /manage-school-placements/the-lifecycle-of-a-school-placement/
     - text: The anatomy of a school placement
@@ -18,43 +19,52 @@ related:
       href: https://get-information-schools.service.gov.uk/
 ---
 
-Understanding what we mean by a ‘placement school’ is essential to building the Register of placement schools. A clear definition helps us design the data model, scope the service, and communicate consistently with users and stakeholders.
+When building the Register of placement schools, we needed to clarify how a placement school differs from a school as defined in existing datasets, particularly the [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) service.
 
-## Why definition matters
+This distinction matters because the Register is not simply another copy of GIAS. Instead, it captures a different relationship: which schools are actively involved in delivering initial teacher training (ITT) placements, and in what context.
 
-Placement schools play a central role in delivering initial teacher training (ITT). They host trainees for part of their course, providing real classroom experience and access to trained mentors. However, the language used to describe these schools varies, which can cause confusion for both service teams and users.
+## Schools in GIAS
 
-In different contexts, the same type of organisation may be described as:
+GIAS is the Department for Education’s official source of school data. It lists all schools in England, including details such as:
 
-- a placement school
-- a school partner
-- a placement partner
+- school type and governance
+- admissions policy
+- address and contact details
+- religious character
+- age range and phase
 
-A shared, well-researched definition helps avoid ambiguity and ensures the service works for all user groups.
+GIAS is broad and comprehensive, covering every school that is open, closed, or due to open. But it does not describe the school’s role in ITT.
 
-## What counts as a placement school
+## Placement schools in the Register
 
-For the purposes of the Register of placement schools, we use ‘placement school’ as the standard term. A placement school is any school that:
+The Register of placement schools builds on GIAS data but introduces a different lens. A placement school is a school that:
 
 - provides general school placements for ITT trainees
-- supplies trained or trainable mentors to support those trainees
-- may contribute to an accredited ITT provider’s school-based Intensive Training and Practice (ITP) element
+- supplies mentors to support those trainees
+- may contribute to the Intensive Training and Practice (ITP) element of an ITT course
 
-Placements can take place in a wide variety of settings. As well as mainstream schools, this includes:
+This means not every school in GIAS will appear in the Register. A placement school is defined not just by its status as a school, but by its relationship with accredited ITT providers and their training partners.
 
-- special schools
-- alternative provision
-- pupil referral units
-- mainstream schools with SEN resource units
+## Similarities and differences
 
-This breadth is important because some accredited providers specialise in areas such as special educational needs and need access to schools with the relevant expertise.
+### Similarities
 
-## Why we chose ‘placement school’
+- Both rely on official identifiers, such as the Unique Reference Number (URN), to ensure consistent records
 
-We chose the term placement school for the register because it:
+- Both record the same underlying legal entity: a school in England recognised by DfE
 
-- uses plain English that makes sense to trainees, providers, and policymakers
-- describes the function of the school in the context of ITT partnerships
-- aligns with how most users currently talk about placements
+### Differences
 
-Although other terms, such as ‘school partner’ or ‘placement partner,’ are used in sector conversations, they can also describe wider partnership arrangements beyond school placements. ‘Placement school’ is more precise and helps keep the service focused.
+- GIAS is descriptive: it says what a school is (its type, governance, location)
+
+- The Register is relational: it shows how a school participates in ITT partnerships over time
+
+- GIAS includes all schools; the Register includes only those working with accredited providers to host placements
+
+## Why this matters
+
+Defining a placement school in relation to GIAS ensures consistency while avoiding duplication. It allows us to:
+
+- reuse trusted data about schools where possible
+- link registers together through identifiers like URN
+- focus the Register on the unique value it provides: understanding which schools are actively engaged in ITT
