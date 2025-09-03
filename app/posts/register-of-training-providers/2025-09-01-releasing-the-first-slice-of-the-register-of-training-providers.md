@@ -5,6 +5,7 @@ date: 2025-09-01
 tags:
   - register
   - iteration
+  - mvp
 ---
 
 In mid-August 2025, we released the first working slice of the [Register of training providers](https://register-of-training-providers.education.gov.uk/) to internal users and stakeholders.
@@ -26,6 +27,24 @@ The first slice included:
 
 This set of features focused on the foundations: who can access the system, how we manage users, and how provider records are created, changed and found.
 
+## Delivery principles and practices
+
+We followed two core delivery principles throughout this work:
+
+- Release early, release often - we aimed to ship a working product as early as possible, then improve it through frequent, incremental releases
+
+- Test with real users - we prioritised building something users could interact with, rather than reviewing static designs or documentation
+
+To support these principles, we used the following delivery practices:
+
+- Minimum Viable Product (MVP) - we focused only on essential features to demonstrate the service could function end-to-end
+
+- Thin vertical slices - we released a small but complete workflow, rather than building isolated components
+
+- Working software over documentation - our goal was to learn from interaction, not description
+
+These practices helped us avoid over-investing in unproven assumptions and instead build confidence through working code and real feedback.
+
 ## Why we released early
 
 We wanted to test the value of the register with real users and stakeholders as early as possible. Releasing a small, working slice gives us several advantages, including:
@@ -37,7 +56,7 @@ We wanted to test the value of the register with real users and stakeholders as 
 
 ## Benefits of this approach
 
-Releasing early and often is a core principle of agile delivery. It allows us to:
+Early releases are part of how we reduce risk and build better services. It allows us to:
 
 - iterate with purpose - getting feedback from real usage helps us prioritise improvements and identify gaps
 - spot issues early - we can uncover edge cases and usability challenges that we would not have found through design reviews alone
