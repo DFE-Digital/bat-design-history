@@ -31,6 +31,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-funding-support-add-school-no-js
+    title: Adding a school when JavaScript is unavailable
 ---
 
 When a support user adds a school in Claim funding for mentors, we use an autocomplete to help users search for schools.

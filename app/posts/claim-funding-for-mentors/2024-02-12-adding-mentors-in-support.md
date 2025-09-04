@@ -39,6 +39,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-mentor-funding-support-adding-organisation-mentors
+    title: Adding mentors in Support
 ---
 
 We added a way for Support users to manage mentors belonging to a school.

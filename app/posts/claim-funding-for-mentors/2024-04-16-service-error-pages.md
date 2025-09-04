@@ -28,6 +28,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-funding-service-error-pages
+    title: Service error pages
 ---
 
 We added the service error pages used when:

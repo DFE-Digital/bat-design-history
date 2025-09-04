@@ -21,6 +21,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-collecting-feedback
+    title: Collecting feedback about the service
 ---
 
 > Update: We will collect feedback via a Microsoft form instead of building a form within the service.

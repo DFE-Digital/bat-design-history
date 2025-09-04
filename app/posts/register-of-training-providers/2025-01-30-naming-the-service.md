@@ -1,5 +1,5 @@
 ---
-title: "Naming the service: Register of training providers"
+title: Naming the service ‘Register of training providers’
 description: Choosing the right name for a service is essential to its success
 date: 2025-01-30
 tags:
@@ -14,6 +14,7 @@ related:
 eleventyComputed:
   eleventyNavigation:
     key: register-training-providers-naming-the-service
+    title: Naming the service ‘Register of training providers’
 ---
 
 Choosing the right name for a service is essential to its success.

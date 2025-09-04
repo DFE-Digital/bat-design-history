@@ -32,6 +32,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-funding-support-adding-organisations
+    title: Adding organisations in Support
 ---
 
 We added a way for the support team to onboard new organisations to Claim funding for mentors.

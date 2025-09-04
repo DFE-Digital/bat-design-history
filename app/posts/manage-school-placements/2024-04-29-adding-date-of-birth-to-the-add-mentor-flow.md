@@ -29,6 +29,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-adding-mentors-date-of-birth
+    title: Adding date of birth to the ‘Add mentor’ flow
 ---
 
 Previously, when users wanted to add a mentor to the service, they simply needed to enter a teacher reference number (TRN) to find the teacher in the database of qualified teachers (DQT). This look-up then returned the teacher’s first and last name.

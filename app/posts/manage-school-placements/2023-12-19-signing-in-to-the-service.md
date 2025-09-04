@@ -45,6 +45,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-signing-in-to-the-service
+    title: Signing in to the service
 ---
 
 All users must use the Department for Education (DfE) Sign-in to access Manage school placements.

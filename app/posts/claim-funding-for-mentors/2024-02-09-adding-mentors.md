@@ -39,6 +39,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-mentor-funding-adding-mentors
+    title: Adding mentors
 ---
 
 We added a way for schools to add their mentors to Claim funding for mentors.

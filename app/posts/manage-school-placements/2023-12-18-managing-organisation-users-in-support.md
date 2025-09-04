@@ -47,6 +47,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-support-managing-organisation-users
+    title: Managing organisation users in Support
 ---
 
 We added a way for support team users to manage users belonging to an organisation.

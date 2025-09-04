@@ -59,6 +59,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: register-training-providers-managing-support-users
+    title: Managing support users
 ---
 
 We added a way for the support team to manage access to the Register of training providers.
