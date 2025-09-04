@@ -56,7 +56,7 @@ We wanted to test the value of the register with real users and stakeholders as 
 
 ## Benefits of this approach
 
-Early releases are part of how we reduce risk and build better services. It allows us to:
+While we work in the open and show work in progress every two weeks, early releases are part of how we reduce risk and build better services. It allows us to:
 
 - iterate with purpose - getting feedback from real usage helps us prioritise improvements and identify gaps
 - spot issues early - we can uncover edge cases and usability challenges that we would not have found through design reviews alone
