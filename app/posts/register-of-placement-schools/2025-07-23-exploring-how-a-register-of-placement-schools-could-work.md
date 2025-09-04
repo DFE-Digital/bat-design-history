@@ -16,7 +16,7 @@ related:
 
 We wanted to explore how a Register of placement schools could work in conjunction with the Register of training providers and third-party services such as Publish teacher training courses (Publish) and Manage teacher training applications (Manage).
 
-Our aim is to help the DfE, accredited providers, and their training partners keep track of which schools are used for placements and the nature of those placements.
+Our aim is to help the Department for Education (DfE), accredited providers, and their training partners keep track of which schools are used for placements and the nature of those placements.
 
 To do this, we need to understand what people might want to ask of the data.
 
