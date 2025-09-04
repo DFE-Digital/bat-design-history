@@ -15,6 +15,7 @@ related:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-lifecycle-of-a-school-placement
+    title: The lifecycle of a school placement
 ---
 
 The lifecycle of a school placement differs according to the school, ITT provider, and trainee. We are testing our understanding of a typical placement lifecycle through the Manage school placements private beta.

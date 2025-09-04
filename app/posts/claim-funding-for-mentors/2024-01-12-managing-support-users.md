@@ -35,6 +35,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-funding-managing-support-users
+    title: Managing support users
 ---
 
 We added a way for the support team to manage access to Support for Claim funding for mentors (Support).

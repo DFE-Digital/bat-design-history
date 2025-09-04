@@ -47,6 +47,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-managing-support-users
+    title: Managing support users
 ---
 
 We added a way for the support team to manage access to Support for Manage school placements (Support).

@@ -45,6 +45,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-support-adding-organisations
+    title: Adding organisations in Support
 ---
 
 We added a way for the support team to onboard new organisations to the service.

@@ -29,6 +29,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-support-add-provider-no-js
+    title: Adding an ITT provider when JavaScript is unavailable
 ---
 
 When support users add an ITT provider in Manage school placements, we use an autocomplete to help them search for the provider.

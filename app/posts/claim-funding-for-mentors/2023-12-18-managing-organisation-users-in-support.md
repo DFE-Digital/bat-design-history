@@ -35,6 +35,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-funding-support-managing-organisation-users
+    title: Managing organisation users in Support
 ---
 
 We added a way for support team users to manage users belonging to an organisation.

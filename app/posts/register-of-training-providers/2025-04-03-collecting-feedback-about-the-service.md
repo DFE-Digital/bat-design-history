@@ -29,6 +29,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: register-training-providers-collecting-feedback
+    title: Collecting feedback about the service
 ---
 
 We added a way for users to tell us what they think of the service.

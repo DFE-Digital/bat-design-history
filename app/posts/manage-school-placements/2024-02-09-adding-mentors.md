@@ -39,6 +39,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: school-placements-adding-mentors
+    title: Adding mentors
 ---
 
 We added a way for schools to add their mentors to Manage school placements (Placements).

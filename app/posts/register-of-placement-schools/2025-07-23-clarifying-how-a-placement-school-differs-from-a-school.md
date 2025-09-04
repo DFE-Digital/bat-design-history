@@ -1,7 +1,7 @@
 ---
 title: Clarifying how a placement school differs from a school
 description: Understanding what we mean by a ‘placement school’ is essential to building the register
-date: 2025-07-23
+date: 2025-07-23T12:00:00+00:00
 tags:
   - placement schools
   - register

@@ -16,6 +16,7 @@ related:
 eleventyComputed:
   eleventyNavigation:
     key: register-placement-schools-naming-the-service
+    title: Naming the service ‘Register of placement schools’
 ---
 
 The name of a service does a lot of heavy lifting. It should make sense to the people who need to use it, stand up to scrutiny, and remain relevant as the service develops.

@@ -7,6 +7,7 @@ tags:
 eleventyComputed:
   eleventyNavigation:
     key: claim-funding-accessibility-audit
+    title: Accessibility audit and remediation
 ---
 
 *[ARIA]: Accessible Rich Internet Applications

@@ -23,6 +23,7 @@ screenshots:
 eleventyComputed:
   eleventyNavigation:
     key: claim-funding-collecting-feedback
+    title: Collecting feedback about the service
 ---
 
 > Update: We will collect feedback via a Microsoft form instead of building a form within the service.
