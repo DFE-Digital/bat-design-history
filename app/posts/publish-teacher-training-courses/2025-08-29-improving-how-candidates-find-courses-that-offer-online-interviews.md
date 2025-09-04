@@ -21,7 +21,7 @@ And this is how the ‘Interview process’ field used to look on Find:
 
 ### Testing on Publish
 
-We tested changes to Find with candidates, and changes to Publish with providers. We did this as part of the bigger [structuring course content user research with candidates]( https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/structuring-couse-content-user-research-with-candidates/) and [user research with providers on redesigns to course content]( /publish-teacher-training-courses/user-research-with-provider-on-redesigns-to-course-content/).
+We tested changes to Find with candidates, and changes to Publish with providers. We did this as part of the bigger [structuring course content user research with candidates](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/structuring-couse-content-user-research-with-candidates/) and [user research with providers on redesigns to course content]( /publish-teacher-training-courses/user-research-with-provider-on-redesigns-to-course-content/).
 
 With providers, we tested a new optional field on Publish where the provider could indicate where their interviews would take place. We tested with 10 providers from a mixture of accredited school-centred initial teacher training organisations (SCITTs) and higher education institutions (HEIs) as well as non-accredited training providers.  
 
