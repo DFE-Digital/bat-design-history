@@ -1,7 +1,7 @@
 ---
 title: Exploring how a Register of placement schools could work
 description: We wanted to understand what people might want to ask of the placement schools data
-date: 2025-07-23
+date: 2025-07-23T12:01:00+00:00
 tags:
   - placement schools
   - register
