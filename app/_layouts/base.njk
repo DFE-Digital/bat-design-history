@@ -1,5 +1,6 @@
 {% extends "dist/govuk/template.njk" %}
 
+{# {% set govukRebrand = true %} #}
 {% set htmlClasses = 'no-js' %}
 
 {% from "header/macro.njk" import appHeader %}
@@ -40,14 +41,13 @@
 {% endblock %}
 
 {% block pageTitle %}
-  {% if title %}{{ title }} - {% endif %}{{ app.serviceName or app.productName }} - Department for Education
+  {% if title %}{{ title }} - {% endif %}{{ app.productName }} - Department for Education
 {% endblock %}
 
 {% block header %}
   {{ appHeader({
     homepageUrl: app.url or "/",
-    productName: app.productName,
-    serviceName: app.serviceName
+    productName: app.productName
   }) }}
 {% endblock %}
 
@@ -64,6 +64,7 @@
 
 {% block footer %}
   {{ govukFooter({
+    rebrand: true,
     classes: "govuk-!-display-none-print",
     meta: {
       items: [{
