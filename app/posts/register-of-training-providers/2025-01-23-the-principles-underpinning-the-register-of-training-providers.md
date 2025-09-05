@@ -2,6 +2,9 @@
 title: The principles underpinning the register of training providers
 description: Addressing common data challenges faced by the DfE and the Becoming a teacher service line
 date: 2025-01-23
+tags:
+  - principles
+  - register
 related:
   items:
     - text: Why we need a register of training providers
