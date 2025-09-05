@@ -12,14 +12,9 @@ $govuk-global-styles: true;
 // Becoming a teacher design history styles
 @import "bat-design-history";
 @import "markdown";
+@import "overrides";
 @import "tables";
 
 .app-prose .app-images--two-thirds-width img {
   max-width: 66.6%;
-}
-
-// override the background colour to match the new GOV.UK brand
-.govuk-template,
-.govuk-footer {
-  background-color: govuk-tint($govuk-brand-colour, 95%);
 }
