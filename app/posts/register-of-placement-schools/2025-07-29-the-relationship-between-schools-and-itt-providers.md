@@ -37,7 +37,7 @@ The accredited provider holds responsibility for the programme. It agrees placem
 
 This responsibility can be delegated to the accredited provider’s training partners.
 
-## Training partners
+### Training partners
 
 Training partners work with one or more accredited providers to deliver parts of the ITT programme. They help source placements, provide subject or phase training, coordinate mentor development, or run elements such as intensive training and practice. Training partners operate under the direction of the provider. The provider remains accountable for quality and outcomes.
 
