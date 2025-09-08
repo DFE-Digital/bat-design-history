@@ -7,6 +7,10 @@ tags:
   - publish
   - provider name
   - policy
+related:
+  items:
+    - text: Register of training providers
+      href: /register-of-training-providers/
 ---
 
 The Publish teacher training courses (Publish) team wanted to address inaccuracies and inconsistencies in provider naming practices on the Publish service. The aim was to do this by designing and introducing a provider naming policy.
@@ -61,7 +65,3 @@ This policy also reinforces the aims of the Register of training providers.
 The policy will be used by support colleagues and the Publish team to correct existing issues with provider names and guide correct practice when creating new providers.
 
 Accredited providers on the service who are impacted by the policy will be emailed by the team to inform them of the policy, given a choice of operating or legal name, and told the time period after which this change will be made.
-
-## Relevant Links
-
-[Register of training providers](/register-of-training-providers/)
