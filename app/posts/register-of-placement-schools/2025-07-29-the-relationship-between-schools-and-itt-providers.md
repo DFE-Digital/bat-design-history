@@ -14,8 +14,7 @@ related:
       href: /becoming-a-teacher/understanding-the-relationships-between-organisations-delivering-initial-teacher-training/
     - text: The relationship between recruitment cycles and academic years
       href: /becoming-a-teacher/the-relationship-between-recruitment-cycles-and-academic-years/
-    - text: Guidance on offering a trainee teacher placement
-      description: GOV.UK
+    - text: Guidance on offering a trainee teacher placement - GOV.UK
       href: https://www.gov.uk/guidance/offer-a-trainee-teacher-placement
 ---
 
