@@ -12,6 +12,7 @@ $govuk-global-styles: true;
 // Becoming a teacher design history styles
 @import "bat-design-history";
 @import "markdown";
+@import "overrides";
 @import "tables";
 
 .app-prose .app-images--two-thirds-width img {
