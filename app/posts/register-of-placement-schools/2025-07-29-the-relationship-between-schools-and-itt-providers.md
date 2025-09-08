@@ -18,7 +18,9 @@ related:
 
 Schools work with accredited initial teacher training (ITT) providers and their training partners to deliver placements.
 
-Accredited providers design and run the training programme. Schools host trainees so they can learn to teach in real classrooms. Each placement is planned and supported as part of the provider’s programme. The relationship is collaborative. Providers set expectations and support quality. Schools make space for trainees to learn, practise and reflect.
+Accredited providers design the training programme and deliver it, often in partnership with training providers (non-accredited providers).
+
+Schools host trainees so they can learn to teach in real classrooms. Each placement is planned and supported as part of the provider’s programme. The relationship is collaborative. Providers set expectations and support quality. Schools make space for trainees to learn, practise and reflect.
 
 ## The role of ITT providers
 
