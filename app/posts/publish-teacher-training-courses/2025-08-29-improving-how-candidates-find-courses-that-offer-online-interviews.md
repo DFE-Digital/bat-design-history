@@ -19,6 +19,8 @@ This is how the ‘Interview process’ field used to look on Publish:
 
 And this is how the ‘Interview process’ field used to look on Find:
 
+![Screenshot of how Find used to look](old_interview_process_field.png)
+
 ## What we tested in user research
 
 ### Testing on Publish
@@ -31,19 +33,27 @@ We tested several iterations of this question and it became clear that it was im
 
 This was the final iteration to the design on Publish:
 
+![Screenshot of new Publish design](new_interview_process_page_publish.png)
+
 ### Testing on Find
 
 We also tested surfacing this information to candidates on Find.
 
 This is what candidates would see if providers chose the option ‘Online’:
 
+![Screenshot of Find if provider has chosen 'Online'](providers_chose_online.png)
+
 And this is what candidates would see if the provider chose the option ‘Either in person or online’:
+
+![Screenshot of Find if provider has chosen 'Either in person or online'](online_or_in_person.png)
 
 If the provider chose ‘In person’, no inset text would appear for candidates.
 
 This all tested well – participants generally found the online interview status helpful, especially for those relocating or needing flexibility.
 
 We also tested being able to filter for courses which offer online interviews. This also tested well.
+
+![Screenshot of Find online interview filter](online_interviews_filter_on_find.png)
 
 ## What we changed
 
