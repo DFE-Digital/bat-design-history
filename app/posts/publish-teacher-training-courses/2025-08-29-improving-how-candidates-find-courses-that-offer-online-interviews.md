@@ -15,6 +15,8 @@ Analysis shows that courses which include the word ‘online’ in the ‘Interv
 
 This is how the ‘Interview process’ field used to look on Publish:
 
+![Screenshot of how Publish used to look](old_interview_process_publish.png)
+
 And this is how the ‘Interview process’ field used to look on Find:
 
 ## What we tested in user research
