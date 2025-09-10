@@ -78,7 +78,7 @@ Navigating back to your new image folder you can drag the images you want into t
 
 **Tips for naming your images**
 
-- number the images in order that they appear in the design history. 
+- number the images in order that they appear in the design history.
 - make sure they are saved as a .png file
 - keep the name as concise as possible
 - separate each word with a –
