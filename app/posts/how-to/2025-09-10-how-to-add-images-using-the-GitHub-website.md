@@ -9,7 +9,7 @@ tags:
 related:
   items:
     - text: How to publish a design history post using the github website
-      href: /how-to-publish-a-design-history-post-using-the-github-website/
+      href: /how-to/how-to-publish-a-design-history-post-using-the-github-website/
 ---
 
 This design history details how you can create image folders using the GitHub website, to enable images to be placed into them and then added into design histories.
@@ -18,7 +18,7 @@ Previously, we thought that it was not possible for folders to be created withou
 
 ## Step one: create the design history in GitHub
 
-Use the guidance [here](/how-to-publish-a-design-history-post-using-the-github-website/) to create a new branch for your design history without images.
+Use the guidance [here](/how-to/how-to-publish-a-design-history-post-using-the-github-website/) to create a new branch for your design history without images.
 
 Once you have written your design history then create a pull request.
 
