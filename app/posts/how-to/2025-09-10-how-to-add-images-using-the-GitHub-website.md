@@ -30,11 +30,11 @@ Navigate back to the pull request you have just created.
 
 ![Screenshot of the pull request](1-pull-request.png)
 
-Click on “code” button on the right hand side of the page.
+Click on “Code” button on the right hand side of the page.
 
-And click “Codespace”
+And click “Codespaces”
 
-Click the + to create a new codespace
+Click the "+" to create a new codespace.
 
 ![Screenshot of creating a new codespace](2-code-space.png)
 
@@ -50,11 +50,11 @@ After it has finished being built your new codespace should look something like 
 
 ![Screenshot of the new codespace](3-new-code-space.png)
 
-On the right hand side navigate to the post that you have just created in the app folder.
+On the left-hand side navigate to the post that you have just created in the app folder.
 
 ![Screenshot of the post file](4-post.png)
 
-Copy the name of the post by right clicking the design history.
+Copy the name of the post by right clicking the design history file.
 
 ## Step five: creating your image folder
 
@@ -66,7 +66,7 @@ The name of the new folder must match the name of the design history, without th
 
 For instance the name of the images folder should be:
 
-*how-to-add-images-using-the-GitHub-website*
+**how-to-add-images-using-the-GitHub-website**
 
 Whereas the design history post file name is: /workspaces/bat-design-history/app/posts/how-to/2025-09-10-how-to-add-images-using-the-GitHub-website.md
 
@@ -81,7 +81,7 @@ Navigating back to your new image folder you can drag the images you want into t
 - number the images in order that they appear in the design history. 
 - make sure they are saved as a .png file
 - keep the name as concise as possible
--separate each word with a –
+- separate each word with a –
 
 ## Step 7: committing the changes
 
@@ -119,11 +119,7 @@ Then click on the three dots under the green “Review changes” button to edit
 
 !Screenshot of edit file button](10-edit-file.png)
 
-Navigate to where you want to add the images into your design history.
-
-To add them type ![Screenshot of xxxx](file-name.png)
-
-You must use the file name that you saved the images in the image folder.
+Navigate to where you want to add the images into your design history and add in a link to the image.
 
 ## Step 10: publishing your design history with images
 
@@ -133,6 +129,6 @@ Your images should then be embedded into your design history.
 
 Once ready check the deploy preview.
 
-After being reviewed you are then ready to merge the branch to enable your design history to be published.
+After reviewing the post you are then ready to merge the branch to enable your design history to be published.
 
 Congratulations!
