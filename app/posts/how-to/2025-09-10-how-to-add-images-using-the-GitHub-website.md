@@ -24,4 +24,4 @@ Once you have written your design history then create a pull request.
 
 Do not merge the pull request.
 
-## Step two: 
+## Step two
