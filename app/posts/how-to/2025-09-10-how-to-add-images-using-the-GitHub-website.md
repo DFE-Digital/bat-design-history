@@ -18,7 +18,7 @@ Once you have written your design history create a pull request.
 
 Do not merge the pull request.
 
-## Step 2
+## Step 2: Create a Codespace
 
 Navigate back to the pull request you have just created.
 
@@ -74,7 +74,7 @@ Navigating back to your new image folder you can drag the images you want into t
 
 - consider numbering the images so that they appear in the design history.
 - make sure they are saved as a .png file
-- keep the name as concise as possible
+- make the name of the file as descriptive as possible 
 - separate each word with a –
 
 ## Step 7: Committing the changes
