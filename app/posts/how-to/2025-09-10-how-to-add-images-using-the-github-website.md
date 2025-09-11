@@ -22,7 +22,7 @@ Do not merge the pull request.
 
 Navigate back to the pull request you have just created.
 
-![Screenshot of the pull request](1-pull-request.png)
+[![Screenshot of the pull request](1-pull-request.png "Screenshot of the pull request")](1-pull-request.png)
 
 Select the “Code” button on the right-hand side of the page.
 
@@ -30,7 +30,7 @@ And select “Codespaces”
 
 Select the “+” to create a new codespace.
 
-![Screenshot of creating a new codespace](2-code-space.png)
+[![Screenshot of creating a new codespace](2-code-space.png "Screenshot of creating a new codespace")](2-code-space.png)
 
 ## Step 3: Waiting for your codespace to be created
 
@@ -42,11 +42,11 @@ It may take several minutes for the codespace to be created, as it is duplicatin
 
 After it has finished being built, your new codespace should look something like the screenshot below.
 
-![Screenshot of the new codespace](3-new-code-space.png)
+[![Screenshot of the new codespace](3-new-code-space.png "Screenshot of the new codespace")](3-new-code-space.png)
 
 On the left-hand side, navigate to the post that you have just created in the app folder.
 
-![Screenshot of the post file](4-post.png)
+[![Screenshot of the post file](4-post.png "Screenshot of the post file")](4-post.png)
 
 Copy the name of the post by right-clicking the design history file.
 
@@ -74,7 +74,7 @@ Whereas the design history post file name is:
 
 Navigating back to your new image folder, you can drag the images you want into the image folder.
 
-![Screenshot of the new images added to the new folder](5-new-images-added.png)
+[![Screenshot of the new images added to the new folder](5-new-images-added.png "Screenshot of the new images added to the new folder")](5-new-images-added.png)
 
 Tips for naming your images:
 
@@ -91,11 +91,11 @@ This indicates that they have not been committed to GitHub; they are only in thi
 
 Firstly, you need to select the source control button.
 
-![Screenshot of the source control button]( 6-source-control.png)
+[![Screenshot of the source control button](6-source-control.png "Screenshot of the source control button")](6-source-control.png)
 
 Add a commit message and select ’Commit’.
 
-![Screenshot of commit message](7-commit-message.png)
+[![Screenshot of commit message](7-commit-message.png "Screenshot of commit message")](7-commit-message.png)
 
 ## Step 8: Synchronising the change
 
@@ -103,7 +103,7 @@ After you have committed, you will then also need to synchronise the change.
 
 This is vital; otherwise, it will not be synchronised with the main branch of GitHub.
 
-![Screenshot of synching changes](8-sync-changes.png)
+[![Screenshot of synching changes](8-sync-changes.png "Screenshot of synching changes")](8-sync-changes.png)
 
 ## Step 9: Adding your images to your design history
 
@@ -113,11 +113,11 @@ Navigate back to your pull request and edit the design history.
 
 Select the “Files changed” tab to make changes to your post.
 
-![Screenshot of files changed tab](9-files-changed.png)
+[![Screenshot of files changed tab](9-files-changed.png "Screenshot of files changed tab")](9-files-changed.png)
 
 Then select the three dots under the green “Review changes” button to edit the design history post.
 
-![Screenshot of edit file button](10-edit-file.png)
+[![Screenshot of edit file button](10-edit-file.png "Screenshot of edit file button")](10-edit-file.png)
 
 Navigate to where you want to add the images to your design history and add a link to the image.
 
