@@ -1,6 +1,6 @@
 ---
 title: Initial user needs
-description: A list of user needs that will be validated through user research and stakeholder feedback
+description: A list of draft user needs that we will validate through user research and stakeholder feedback
 date: 2025-07-30
 tags:
   - user needs
@@ -22,7 +22,18 @@ This post outlines the initial user needs that will shape the Register of placem
 
 The register will hold a reliable record of schools that participate in initial teacher training (ITT) and their relationships with accredited providers and academic years. These needs focus on what users are trying to achieve, not on how we might deliver it. They also show how RoPS supports other Becoming a teacher (BAT) services.
 
-RoPS concentrates on schools’ participation in ITT and school–provider relationships. It will align with [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) for school identity and with the [Register of training providers (RoTP)](https://register-of-training-providers.education.gov.uk/) for provider identity. Course choice and applying remain with Find teacher training courses and Apply for teacher training services, respectively.
+RoPS concentrates on schools’ participation in ITT and school–provider relationships. It will align with [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/) for school identity and with the [Register of training providers (RoTP)](https://register-of-training-providers.education.gov.uk/) for provider identity. Course choice and application remain with Find teacher training courses (Find) and Apply for teacher training (Apply) services, respectively.
+
+## How we will validate these needs
+
+We will:
+
+- run research with DfE support, policy, funding and data teams to test usefulness, language and decision points
+- prototype a public view and test tasks with candidates and trainees if a public interface is in scope
+- hold joint sessions with BAT service teams to test API needs, update flows and dependencies
+- trace data from source systems, including Register trainee teachers (RTT), and check identifiers, provenance and the academic-year model
+- test audit trails, change history and exports with realistic records
+- define acceptance criteria and measures for each need, then revisit the list after each round of research
 
 ## DfE teams (support, policy, funding, data)
 
@@ -60,7 +71,7 @@ As a DfE data analyst:
 
 ## Candidates and trainees (public interface)
 
-A public view of the register helps candidates and trainees understand where training takes place. They need to search by place, filter by relevance and see which providers partner with each school by academic year. They also need clear signposting to apply via the right service.
+A public view of the register helps candidates and trainees understand where training takes place. They need to search by place, filter by relevance and see which providers partner with each school by academic year. They also need clear signposting to apply via the appropriate service.
 
 ### Candidates
 
@@ -102,7 +113,7 @@ The service team needs to assemble trustworthy data from source systems, reconci
 
 As a RoPS team member
 
-- I need to import and reconcile placement school data from Register trainee teachers by academic year, so that the register reflects real activity.
+- I need to import and reconcile placement school data from Register trainee teachers (RTT) by academic year, so that the register reflects real activity.
 - I need to map historical school entries to current GIAS records, so that we avoid duplicates and preserve continuity.
 - I need to reconcile provider-to-school relationships with the accredited provider and academic year, so that we can show who placed whom and when.
 - I need to flag missing or unrecognised schools in RTT data, so that we can correct errors before publishing.
@@ -121,7 +132,7 @@ We will use these needs to:
 
 - prioritise features such as identifiers, provenance and academic-year views
 - guide API design, change history and snapshot publishing
-- plan research with our stakeholders including candidates, trainees and service teams
+- plan research with our stakeholders, including candidates, trainees and service teams
 - measure success, for example, reduced duplicate schools, faster data corrections and uptake of the API across BAT services
 
 *[API]: application programming interface
