@@ -60,13 +60,13 @@ The name of the new folder must match the name of the design history, without th
 
 For instance, the name of the images folder should be:
 
-```
+```text
 how-to-add-images-using-the-github-website
 ```
 
 Whereas the design history post file name is:
 
-```
+```text
 /workspaces/bat-design-history/app/posts/how-to/2025-09-10-how-to-add-images-using-the-github-website.md
 ```
 
