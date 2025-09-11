@@ -1,7 +1,7 @@
 ---
 title: Initial user needs
 description: A list of draft user needs that we will validate through user research and stakeholder feedback
-date: 2025-07-30
+date: 2025-07-30T12:00:00+00:00
 tags:
   - user needs
   - placement schools
@@ -26,10 +26,10 @@ RoPS concentrates on schools’ participation in ITT and school–provider relat
 
 ## How we will validate these needs
 
-We will:
+Since these needs are hypotheses, we will:
 
 - run research with DfE support, policy, funding and data teams to test usefulness, language and decision points
-- prototype a public view and test tasks with candidates and trainees if a public interface is in scope
+- prototype a public view and test tasks with candidates and trainees if we decide a public interface is in scope
 - hold joint sessions with BAT service teams to test API needs, update flows and dependencies
 - trace data from source systems, including Register trainee teachers (RTT), and check identifiers, provenance and the academic-year model
 - test audit trails, change history and exports with realistic records
