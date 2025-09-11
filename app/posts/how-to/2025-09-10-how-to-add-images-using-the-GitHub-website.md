@@ -74,7 +74,7 @@ Navigating back to your new image folder you can drag the images you want into t
 
 - consider numbering the images so that they appear in the design history.
 - make sure they are saved as a .png file
-- make the name of the file as descriptive as possible 
+- make the name of the file as descriptive as possible
 - separate each word with a –
 
 ## Step 7: Committing the changes
