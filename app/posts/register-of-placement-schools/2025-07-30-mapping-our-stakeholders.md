@@ -18,15 +18,15 @@ eleventyComputed:
 
 As we continue our work on the Register of placement schools (RoPS), we stepped back to map the people and organisations with a stake in the service.
 
-Understanding our stakeholders, their influence, and how the service affects them is essential. It helps us design the right thing, for the right people, at the right time.
+Understanding our stakeholders, their influence, and the impact of the service on them is essential. It helps us design the right thing, for the right people, at the right time.
 
 We are sharing the map here for transparency and to invite feedback.
 
 ## How we built the stakeholder map
 
-We used a simple stakeholder mapping approach. On the horizontal axis we plotted how much the service affects each stakeholder group. On the vertical axis we plotted how much influence each group has over the service or how it runs.
+We used a simple stakeholder mapping approach. On the horizontal axis, we plotted how much the service affects each stakeholder group. On the vertical axis, we plotted how much influence each group has over the service or how it runs.
 
-To inform the map, we ran workshops with colleagues from Find teacher training courses, Apply for teacher training, and Register trainee teachers. Each session gave us that team’s view of the landscape. We asked who they work with, who they rely on, and who relies on them.
+To inform the map, we ran workshops with colleagues from the Find teacher training courses, Apply for teacher training, and Register trainee teachers services. Each session gave us that team’s view of the landscape. We asked who they work with, who they rely on, and who relies on them.
 
 We combined these perspectives to create a single stakeholder map for RoPS. This shared view helps us spot overlaps, clarify responsibilities, and understand how RoPS fits within the wider initial teacher training (ITT) ecosystem.
 
@@ -94,4 +94,4 @@ Compared to the Register of training providers, schools play a central role here
 
 Mapping stakeholders is one step in understanding the ecosystem around RoPS. It helps us plan engagement, test ideas with the right people, and surface risks early.
 
-We will keep the map under review and share updates as we go.
+We will keep the map under review and share updates as they become available.
