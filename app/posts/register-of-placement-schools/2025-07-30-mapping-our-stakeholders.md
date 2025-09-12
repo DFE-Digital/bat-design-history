@@ -6,7 +6,7 @@ tags:
   - stakeholders
 related:
   items:
-    - text: Mapping the Register of placement schools’ stakeholders
+    - text: Mapping the Register of training providers’ stakeholders
       href: /register-of-training-providers/mapping-our-stakeholders/
     - text: Initial user needs
       href: /register-of-placement-schools/initial-user-needs/
