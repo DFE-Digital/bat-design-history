@@ -119,7 +119,7 @@ Then select the three dots under the green “Review changes” button to edit t
 
 [![Screenshot of edit file button](12-edit-file.png "Screenshot of edit file button")](12-edit-file.png)
 
-Navigate to where you want to add the images to your design history and add a link to the image.
+Navigate to where you want to add the images to your design history and add a reference to the image.
 
 ## Step 10: Publishing your design history with images
 
