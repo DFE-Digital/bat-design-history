@@ -28,7 +28,7 @@ Select the “Code” button on the right-hand side of the page.
 
 And select “Codespaces”
 
-Select the “+” to create a new codespace.
+Select the green button labelled “Create codespace on how-to-add-images…”.
 
 [![Screenshot of creating a new codespace](2-code-space.png "Screenshot of creating a new codespace")](2-code-space.png)
 
@@ -103,7 +103,7 @@ After you have committed, you will then also need to synchronise the change.
 
 This is vital; otherwise, it will not be synchronised with the main branch of GitHub.
 
-[![Screenshot of synching changes](8-sync-changes.png "Screenshot of synching changes")](8-sync-changes.png)
+[![Screenshot of synching changes](9-sync-changes.png "Screenshot of synching changes")](9-sync-changes.png)
 
 ## Step 9: Adding your images to your design history
 
@@ -113,11 +113,11 @@ Navigate back to your pull request and edit the design history.
 
 Select the “Files changed” tab to make changes to your post.
 
-[![Screenshot of files changed tab](9-files-changed.png "Screenshot of files changed tab")](9-files-changed.png)
+[![Screenshot of files changed tab](11-files-changed.png "Screenshot of files changed tab")](11-files-changed.png)
 
 Then select the three dots under the green “Review changes” button to edit the design history post.
 
-[![Screenshot of edit file button](10-edit-file.png "Screenshot of edit file button")](10-edit-file.png)
+[![Screenshot of edit file button](12-edit-file.png "Screenshot of edit file button")](12-edit-file.png)
 
 Navigate to where you want to add the images to your design history and add a link to the image.
 
