@@ -1,6 +1,6 @@
 ---
 title: Supporting providers to submit data directly to Register
-description: We implemented an API and CSV upload feature to allow HEI providers to submit data directly to the Register of trainee teachers.
+description: We implemented an API and CSV upload feature to allow HEI providers to submit data directly to the Register of trainee teachers
 date: 2025-09-12
 tags:
   - trainees
@@ -20,15 +20,15 @@ These changes mean that HEI providers have had to adapt to both new systems and 
 
 ## Why we made the change
 
-Rationale for this change is outlined in [collecting all trainee data directly from providers](/register-trainee-teachers/collecting-all-trainee-data-directly-from-providers/).
+We outline the rationale for this change in the post on [collecting all trainee data directly from providers](/register-trainee-teachers/collecting-all-trainee-data-directly-from-providers/).
 
 The scale of these changes meant that it was necessary to develop several support activities to help HEI providers adapt.
 
 ## What we did
 
-Over the year leading up to the changeover, we ran quarterly webinars updating all affected providers on progress developing the new features that they would have to use, and how their processes would have to change to accommodate them. Each webinar was one hour long and consisted of a presentation by the Register team followed by a question-and-answer session.
+Over the year leading up to the changeover, we ran quarterly webinars to update all affected providers on the progress of developing the new features they would need to use and how their processes would need to change to accommodate them. Each webinar was one hour long and consisted of a presentation by the Register team followed by a question-and-answer session.
 
-We ran 6 rounds of user testing with the providers, including interviews, workshops and prototype usability testing. These sessions helped providers get more familiar with the upcoming changes, as well as informing the design and refinement of the features themselves.
+We ran six rounds of user testing with the providers, including interviews, workshops and prototype usability testing. These sessions helped providers get more familiar with the upcoming changes, as well as informing the design and refinement of the features themselves.
 
 We ran two rounds of ‘readiness surveys’ to gauge how prepared providers were in the run-up to go-live and identify which providers might need additional support during the transition. These surveys also allowed us to determine which HEI providers used which, dependent on 3rd part software vendors to help them integrate with these features.
 
@@ -36,7 +36,7 @@ We ran individual sessions with the organisations that provide student record sy
 
 As soon as features were functional, we allowed providers and vendors to test them in dedicated sandbox environments, allowing them to test how well they worked with the complex ecosystems of hardware and software that HEIs use.
 
-In the month before and two months after go-live (August to October 2025), we ran drop-in sessions fortnightly, where we made key product, design and technical staff available to answer questions and troubleshoot participants’ problems.
+In the month before and two months after go-live (August to October 2025), we ran fortnightly drop-in sessions, where we made key product, design, and technical staff available to answer questions and troubleshoot participants’ problems.
 
 ## Opportunities
 
@@ -48,7 +48,7 @@ This broad approach to provider engagement had two significant challenges:
 
 1. In a practical sense, this requires a lot of team resources to develop and run the various activities.
 
-2. Ensuring that the right provider staff were engaged with the various activities was not straightforward. HEIs are large organisations with responsibilities relating to trainee teachers spread across teams and departments, so initially communications did not always go to the right people, and we had to work closely with providers to ensure we understood who should be involved in which activities.
+2. Ensuring that we engaged the right provider staff with the various activities was not straightforward. HEIs are large organisations with responsibilities relating to trainee teachers spread across teams and departments, so initially communications did not always go to the right people, and we had to work closely with providers to ensure we understood who should be involved in which activities.
 
 ## Next steps
 
