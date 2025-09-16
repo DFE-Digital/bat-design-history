@@ -28,7 +28,7 @@ Select the ‘Code’ button on the top right-hand side of the page.
 
 Select the ‘Codespaces’ tab in the modal window.
 
-Select the green button labelled ‘Create codespace on how-to-add-images…’.
+Select the green button labelled ‘Create codespace on [YOUR BRANCH NAME]’.
 
 [![Screenshot showing creating a new codespace](2-code-space.png "Screenshot showing creating a new codespace")](2-code-space.png)
 
