@@ -132,7 +132,7 @@ The filter sidebar includes filters for:
 - accredited providers
 - schools
 
-#### Claim status
+#### Claim status filter
 
 We show a list of checkboxes containing the clawback claim statuses:
 
