@@ -89,7 +89,7 @@ The sampling section is empty until we upload the claims to be sampled. In this 
 
 > There are no claims waiting to be processed.
 
-![Screenshot showing the sampling section empty state](sampling--default.png ‘Screenshot showing the sampling section empty state')
+![Screenshot showing the sampling section empty state](sampling--default.png 'Screenshot showing the sampling section empty state')
 
 ### List of claims
 
