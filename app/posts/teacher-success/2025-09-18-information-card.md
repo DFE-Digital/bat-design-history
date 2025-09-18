@@ -8,7 +8,7 @@ tags:
 
 ## What we did
 
-In some previous rounds of research we found that some important resources were being missed by trainees. Feedback suggested the page could feel dense, and useful links were getting lost within long text sections.
+In some previous rounds of research we found that some important sections of content were being missed by trainees. Feedback suggested the page could feel dense, and useful links were getting lost within long text sections.
 
 To help trainees notice and engage with this material, we introduced an information card component. This pattern was adapted from the Early years child development training service <https://child-development-training.education.gov.uk/> where it had been used successfully to highlight key learning points.
 
@@ -22,8 +22,9 @@ To help trainees notice and engage with this material, we introduced an informat
 
 ## What’s next
 
-We will monitor:
+We plan to monitor this component with:
 
-- Analytics: click-through rates from the card compared with surrounding links.
+- Analytics: such as click-through rates on links within the card component.
 - Feedback: whether trainees report finding resources more easily.
-- Consistency: opportunities to use the information card across other areas of Get ready to teach.
+
+We also plan to explore pportunities to use the information card across other areas of Get ready to teach service.
