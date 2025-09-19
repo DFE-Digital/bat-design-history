@@ -36,7 +36,7 @@ screenshots:
       src: finding-placement-schools-by-provider--results-with-search.png
 ---
 
-After introducing the location search in [Finding placement schools by location](/register-of-placement-schools/finding-placement-schools-by-location/), we focused on a second route that starts with an ITT provider. Providers need a quick way to see which schools they work with and in which academic years. We added a way for people to find placement schools by the ITT provider that placed trainees at the school. This helps people plan future placements and helps DfE check coverage and history.
+After introducing the location search in [Finding placement schools by location](/register-of-placement-schools/finding-placement-schools-by-location/), we focused on a second route that starts with an initial teacher training (ITT) provider. Providers need a quick way to see which schools they work with and in which academic years. We added a way for people to find placement schools by the ITT provider that placed trainees at the school. This helps people plan future placements and helps DfE check coverage and history.
 
 This post is the second of three:
 
