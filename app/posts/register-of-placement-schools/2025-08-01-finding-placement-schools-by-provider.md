@@ -48,7 +48,7 @@ In this post, we describe the user needs for provider-led search, what we built,
 
 ## Why searching by provider matters
 
-This route helps users understand relationships between organisations delivering initial teacher training (ITT). Users can start with a provider and see a distinct list of schools they have worked with, plus the academic years. It helps when:
+This route helps users understand relationships between organisations delivering ITT. Users can start with a provider and see a distinct list of schools they have worked with, plus the academic years. It helps when:
 
 - providers plan future placements with known partners
 - candidates need to understand where a provider may place them
@@ -68,7 +68,7 @@ As a candidate or trainee:
 - I need to search for a provider by name or code, so that I can see the schools that the provider works with.
 - I need a distinct list of schools per provider with the academic years shown, so that I can tell current relationships from historical ones.
 - I need to filter a provider’s schools by phase and setting, so that I can focus on suitable placements.
-- I need precise school details in the results, including name and URN, so that I can open the right school profile with confidence.
+- I need precise school details in the results, including name and unique reference number (URN), so that I can open the right school profile with confidence.
 
 Read more [initial user needs](/register-of-placement-schools/initial-user-needs/).
 
@@ -108,7 +108,7 @@ If the user does not enter a search term, we show an error message:
 
 ### View a list of placement schools
 
-The final step in the flow shows placement schools ordered alphabetically (A to Z).
+The final step in the flow shows placement schools listed in alphabetical order (A to Z).
 
 We show the result count and the search term in the page heading. For example, “222 placement schools for ‘University of Bristol’”.
 
@@ -170,7 +170,7 @@ We also include two additional options:
 
 We include Wales because some providers offer placements in schools in Wales.
 
-We include ‘Not applicable’ because region data is derived from GIAS and this is one of their categories. (Note: in instances like this, we will attempt to fix the categorisation).
+We include ‘Not applicable’ because region data is derived from GIAS, and this is one of their categories. (Note: in instances like this, we will attempt to fix the categorisation.)
 
 We display all regions, even if there are no placement schools that match the region. This allows users to understand what placement schools are available in the register.
 
@@ -288,3 +288,8 @@ We will add a no-JavaScript version of the find placement schools by provider fl
 ### Showing more school details
 
 The current search results page displays a limited amount of information we know about each school. We will implement a ‘school details’ page, which goes into more detail about the school.
+
+*[GIAS]: Get information about schools
+*[ITT]: initial teacher training
+*[UKPRN]: UK provider reference number
+*[URN]: unique reference number
