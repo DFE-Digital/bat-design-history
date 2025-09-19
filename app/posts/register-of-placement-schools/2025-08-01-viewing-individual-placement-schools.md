@@ -11,6 +11,8 @@ related:
       href: /register-of-placement-schools/finding-placement-schools-by-location/
     - text: Finding placement schools by provider
       href: /register-of-placement-schools/finding-placement-schools-by-provider/
+    - text: Get information about schools (GIAS)
+      href: https://get-information-schools.service.gov.uk/
 screenshots:
   items:
     - text: Initial find placement schools form
@@ -28,3 +30,92 @@ screenshots:
     - text: School details page
       src: find-individual-placement-school--school-details.png
 ---
+
+Building on [Finding placement schools by location](/register-of-placement-schools/finding-placement-schools-by-location/) and [Finding placement schools by provider](/register-of-placement-schools/finding-placement-schools-by-provider/), we completed the journey with a clear school profile. We added a way for users to find individual placement schools by school, then view a single page that confirms the school’s details and shows placement history across academic years and providers.
+
+This post is the third of three:
+
+1. Start with: [Finding placement schools by location](/register-of-placement-schools/finding-placement-schools-by-location/)
+2. Then read: [Finding placement schools by provider](/register-of-placement-schools/finding-placement-schools-by-provider/)
+3. You are here: **Viewing individual placement schools**
+
+In this post, we cover how direct lookup and a consistent school profile help users confirm they have the correct record and understand past and current placement relationships.
+
+## Why searching by school matters
+
+Sometimes users know the school. They’ve heard about it from a provider, saw it on a course page, or already have a placement agreed. A direct lookup by name, URN or UKPRN lets users confirm the exact school and see its placement history in one place.
+
+This helps when the user:
+
+- has a school name and wants to make sure they have the correct record before they apply for a course or make contact
+- has information from another service and wants to check that the placement details match
+- needs to confirm whether the school is active for placements this academic year
+- wants the school’s address and website to plan travel or contact the right place
+## User needs
+
+As a candidate or trainee:
+
+- I need to find an individual school so that I can be sure I have the correct record.
+- I need a single school page that confirms identity, address and setting, so that I can check details before I contact anyone.
+- I need to see the providers the school partnered with by academic year, so that I can tell whether the school is active this year.
+- I need clear, plain-English labels rather than internal codes, so that I can understand the information without specialist knowledge.
+- I need a way to move from the school page to related providers or searches, so that I can compare options easily.
+
+Read more [initial user needs](/register-of-placement-schools/initial-user-needs/).
+
+## How it works
+
+![View placement schools flow](view-placement-schools--flow.png "View placement schools flow")
+
+The ‘View individual placement school’ flow has 3 steps:
+
+1. Find placement schools by location, school or training provider
+2. Enter school name, UKPRN or URN
+3. View placement school details
+
+### Find placement schools by location, school or training provider
+
+The first step in the ‘Find placement schools by location, school or training provider’ flow is to decide how to search. We show a list of radio buttons:
+
+- by city, town or postcode
+- by school
+- by university or other training provider
+
+In this post, we will describe the second flow, searching by school.
+
+If the user does not select an option, we show an error message:
+
+> Select find placement schools by location, school or training provider
+
+### Enter school name, UKPRN or URN
+
+The second step in the flow is to find the school.
+
+We use an autocomplete to suggest schools when the user types a school name, UKPRN or URN. The autocomplete is populated with all schools from [Get information about schools (GIAS)](https://get-information-schools.service.gov.uk/), including open and closed schools.
+
+If the user does not enter a search term, we show an error message:
+
+> Enter a school name, UKPRN or URN
+
+### View placement school details
+
+The final step in the flow shows the individual placement school.
+
+We show placement school details in a [GOV.UK summary list](https://design-system.service.gov.uk/components/summary-list/).
+
+![Example summary list](summary-list-example.png "Example summary list")
+
+We show the school name in the page heading and a summary list of the school’s details.
+
+Each summary list includes:
+
+- school status
+- UK provider reference number (UKPRN)
+- unique reference number (URN)
+- a link to the school’s details on Get information about schools (GIAS)
+- school type and type group
+- education phase and age range
+- address
+- a list of academic years the school participated in ITT
+
+We also include a link to ‘Search again’.
