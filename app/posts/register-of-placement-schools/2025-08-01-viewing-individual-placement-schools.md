@@ -51,6 +51,7 @@ This helps when the user:
 - has information from another service and wants to check that the placement details match
 - needs to confirm whether the school is active for placements this academic year
 - wants the school’s address and website to plan travel or contact the right place
+
 ## User needs
 
 As a candidate or trainee:
