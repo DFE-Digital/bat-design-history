@@ -17,7 +17,9 @@ related:
       href: /register-of-placement-schools/viewing-individual-placement-schools/
 ---
 
-We offer 3 ways to find placement schools without signing in: by location, by provider and by school. This keeps the barrier to entry low, meets different user needs and makes the data easier to check and reuse. Each route solves a distinct problem. Together they help candidates, trainees, schools and sector partners find accurate information quickly.
+We offer 3 ways to find placement schools without signing in: by location, by initial teacher training (ITT) provider and by school. This keeps the barrier to entry low, meets different user needs and makes the data easier to check and reuse.
+
+Each route solves a distinct problem. Together they help candidates, trainees, schools and sector partners find accurate information quickly.
 
 ## Why no sign-in?
 
@@ -114,3 +116,7 @@ Users can pivot between routes without losing context, for example from a school
 Shared filters and common attributes keep the experience consistent.
 
 Identifiers (such as URN and UKPRN) link records across routes and between services, which supports data quality and reduces duplicate queries.
+
+*[ITT]: initial teacher training
+*[UKPRN]: UK provider reference number
+*[URN]: unique reference number
