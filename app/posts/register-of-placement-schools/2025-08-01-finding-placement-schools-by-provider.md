@@ -90,7 +90,7 @@ The first step in the ‘Find placement schools by location, school or training 
 - by school
 - by university or other training provider
 
-In this post, we will describe the first flow, searching by university or other training provider.
+In this post, we will describe the third flow, searching by university or other training provider.
 
 If the user does not select an option, we show an error message:
 
