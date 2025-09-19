@@ -293,3 +293,4 @@ The current search results page displays a limited amount of information we know
 *[ITT]: initial teacher training
 *[UKPRN]: UK provider reference number
 *[URN]: unique reference number
+*[XSS]: cross-site scripting
