@@ -43,7 +43,7 @@ In this post, we cover how direct lookup and a consistent school profile help us
 
 ## Why searching by school matters
 
-Sometimes users know the school. They’ve heard about it from a provider, saw it on a course page, or already have a placement agreed. A direct lookup by name, URN or UKPRN lets users confirm the exact school and see its placement history in one place.
+Sometimes users know the school. They’ve heard about it from a provider, saw it on a course page, or already have a placement agreed. A direct lookup by name, unique reference number (URN), or UK provider reference number (UKPRN) allows users to confirm the exact school and view its placement history in one place.
 
 This helps when the user:
 
@@ -116,6 +116,64 @@ Each summary list includes:
 - school type and type group
 - education phase and age range
 - address
-- a list of academic years the school participated in ITT
+- a list of academic years the school participated in initial teacher training (ITT)
 
 We also include a link to ‘Search again’.
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- Showing more details about the school
+- Showing the placement school on a map
+- No-JavaScript version of the flow
+- Finding the school using its postcode
+
+### Showing more details about the individual school
+
+The current school page displays a limited amount of information we know about each school.
+
+Instead of simply linking to GIAS, we could include more information on this page, including:
+
+- special educational needs and disabilities (SEND) details
+- linking to Ofsted reports
+- showing course or subject information of hosted trainees
+- linking to related schools
+- linking to a provider search
+
+### Showing the placement school on a map
+
+Showing the placement school on a map makes the information more useful.
+
+People grasp geography faster on a map. It shows clusters, gaps and proximity to landmarks such as home, university or transport hubs. It complements the details view rather than replaces it.
+
+It supports decision-making. Users can see whether options are concentrated along a rail line, split by a river, or spread across rural areas. That context is hard to read from a list alone.
+
+### No-JavaScript version of the flow
+
+When users select a school in the flow, we use an autocomplete to help them.
+
+The autocomplete feature works well for quickly selecting a school; however, it requires JavaScript, which is not available to everyone, and it does not always run successfully.
+
+Users might not have JavaScript enabled or available because they:
+
+- disable JavaScript in their browsers to avoid potential security risks, such as cross-site scripting (XSS) attacks
+- rely on screen readers or other assistive technologies, and might disable JavaScript if it interferes with their tools
+- are using older or less powerful devices, where JavaScript can slow down performance
+- work in an organisation that enforces strict browsing policies that disable JavaScript to maintain security and control over its network
+
+We will add a no-JavaScript version of the find placement schools flow, which we can progressively enhance.
+
+### Finding the school using its postcode
+
+We use an autocomplete to help users find a school. This autocomplete accepts school name, UKPRN and URN, but not postcode.
+
+Many users remember a place better than codes, such as UKPRN and URN. Using a postcode or even a place name is a quick way to find the school.
+
+We will consider implementing search by postcode and place name in the autocomplete to reduce the effort it takes for the user to find the school.
+
+*[GIAS]: Get information about schools
+*[ITT]: initial teacher training
+*[SEND]: special educational needs and disabilities
+*[UKPRN]: UK provider reference number
+*[URN]: unique reference number
+*[XSS]: cross-site scripting
