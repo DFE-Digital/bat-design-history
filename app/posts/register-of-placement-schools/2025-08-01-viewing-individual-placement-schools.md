@@ -120,6 +120,7 @@ Each summary list includes:
 - a list of academic years the school participated in initial teacher training (ITT)
 
 We also include a link to ‘Search again’.
+
 ## Further considerations
 
 We considered some changes that we did not implement. These included:
