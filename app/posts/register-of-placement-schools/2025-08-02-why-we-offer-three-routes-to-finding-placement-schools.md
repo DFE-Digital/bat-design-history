@@ -82,6 +82,7 @@ Benefits:
 - supports planning over time with an academic year view
 
 Limits and mitigations:
+
 - providers and schools can have similar names - we include differentiators such as UK provider reference number (UKPRN) and unique reference number (URN) in search and results
 - partnerships change - we show academic year context and last updated dates, and we signpost how to report issues
 
