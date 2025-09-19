@@ -115,7 +115,7 @@ We show placement school details in a [GOV.UK summary card](https://design-syste
 
 Each placement school on the list includes:
 
-- school name
+- school name - in the summary card heading
 - distance from the search location in miles
 - school status
 - UK provider reference number (UKPRN)
@@ -177,9 +177,7 @@ The scrollable region is indicated by a:
 
 The scroll area shows four and a half school types to help users realise that other school types are on the list. This smaller height lets users move to a filter below.
 
-If there are 10 school types or fewer, we display the filter as a simple list of checkboxes.
-
-When a user selects a school type and applies the filters, we display the remove filter tags under ‘selected filters’ at the top of the filter panel.
+When a user selects one or more school types and applies the filters, we display the remove filter tags under ‘selected filters’ at the top of the filter panel.
 
 #### Education phase filter
 
@@ -270,10 +268,16 @@ Users might not have JavaScript enabled or available because they:
 - disable JavaScript in their browsers to avoid potential security risks, such as cross-site scripting (XSS) attacks
 - rely on screen readers or other assistive technologies, and might disable JavaScript if it interferes with their tools
 - are using older or less powerful devices, where JavaScript can slow down performance
-- work in an organisation that enforces strict browsing policies that disable JavaScript to maintain security and control over their network
+- work in an organisation that enforces strict browsing policies that disable JavaScript to maintain security and control over its network
 
 We will add a no-JavaScript version of the find placement schools by location flow, which we can progressively enhance.
 
 ### Showing more school details
 
-The current search results only show a limited amount of information we know about each school. We will implement a ‘school details’ page, which goes into more detail about the school.
+The current search results display a limited amount of information we have about each school. We will implement a ‘school details’ page, which goes into more detail about the school.
+
+*[GIAS]: Get information about schools
+*[ITT]: initial teacher training
+*[UKPRN]: UK provider reference number
+*[URN]: unique reference number
+*[XSS]: cross-site scripting
