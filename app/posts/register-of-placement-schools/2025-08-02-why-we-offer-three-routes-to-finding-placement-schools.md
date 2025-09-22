@@ -27,7 +27,7 @@ Removing the need to sign in:
 
 - reduces friction for early exploration and quick checks
 - supports openness and reuse across the sector
-- lowers support demand by removing account issues
+- lowers support demand by removing account-related issues
 - avoids collecting personal data when it is not needed
 - allows schools and partners to verify information we already hold
 
