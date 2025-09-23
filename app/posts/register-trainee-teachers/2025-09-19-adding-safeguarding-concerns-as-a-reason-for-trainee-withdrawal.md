@@ -52,13 +52,33 @@ screenshots:
 
 We added a way to capture safeguarding concerns to the ‘withdraw trainee’ user journey.
 
-ADD BACKGROUND TO THE WORK
+## Current process
+
+Reporting safeguarding concerns is a multi-stage process involving emails and spreadsheets.
+
+Typically, providers contact the Becoming a teacher (BAT) support team, who then advise them to notify the initial teacher training (ITT) safeguarding team of the safeguarding issue.
+
+The ITT safeguarding team then logs and reviews the issue, taking appropriate steps with the provider and, if necessary, with the authorities.
+
+## What we considered
+
+We considered several options to capture safeguarding concerns, including:
+
+- creating a new journey to log safeguarding concerns within Register trainee teachers (Register)
+- updating the existing trainee withdrawal flow in Register to include safeguarding concerns
+- creating a new, bespoke repository for logging safeguarding concerns
+
+We decided to update the existing withdrawal flow because it:
+
+- delivers value quickly by reusing the existing flow, minimising user change and avoiding fragmented, duplicate systems
+- improves data quality and governance by linking structured fields to the trainee record with an audit trail
+- captures concerns at the point of withdrawal, reducing handoffs and speeding triage to the right team
 
 ## What we changed
 
 We have:
 
-- added ‘Safeguarding concerns’ as a withdrawal reason
+- added ‘Safeguarding concerns’ as a withdrawal reason, including a mandatory text input for additonal information
 - updated the check your answers page to include the text of the questions, not derivatives
 - changed the wording of the question asking who initiated the withdrawal
 - updated content on the start page
@@ -68,12 +88,12 @@ We have:
 
 The ‘Withdraw trainee’ flow has 6 steps:
 
-- Starting the withdrawals journey
-- Stating when the trainee withdrew
-- Choosing who initiated the withdrawal
-- Giving reasons why the trainee withdrew
-- Asking if the trainee would be interested in applying again
-- Checking your answers
+- starting the withdrawals journey
+- stating when the trainee withdrew
+- choosing who initiated the withdrawal
+- giving reasons why the trainee withdrew
+- asking if the trainee would be interested in applying again
+- checking your answers
 
 ### Starting the withdrawals journey
 
@@ -83,9 +103,9 @@ The first step in the ‘Withdraw trainee’ flow gives the user information abo
 
 The second step in the ‘Withdraw trainee’ flow asks “When did the trainee withdraw?”. We show 3 options:
 
-- Today
-- Yesterday
-- Another date
+- today
+- yesterday
+- another date
 
 If users select ‘Another date’, we show a date input in a conditional.
 
@@ -192,15 +212,24 @@ All answers can be changed.
 
 #### When the trainee withdrew
 
-If users enter a date the trainee withdrew, we show the full date, for example, “1 April 2025”. Otherwise we show the option “Today” or “Yesterday”.
+If users enter a date the trainee withdrew, we show the full date, for example, “1 April 2025”. Otherwise, we show the option “Today” or “Yesterday”.
 
-### Withdrawal reasons
+#### Withdrawal reasons
 
 We show the withdrawal reasons as a bulleted list. The list is spaced out to make it easier to read.
 
 If users choose ‘Safeguarding concerns’ and enter their concerns, we show them directly below the bullet point.
 
 If users choose ‘Another reason’ and enter their reason, we show the reason directly below the bullet point.
+
+## Further considerations
+
+We considered some changes that we did not implement. These included:
+
+- limiting the word count for the safeguarding concerns
+- alerting the ITT safeguarding team when a concern is logged
+
+We will review these considerations when we understand how the new withdrawal reason will be used.
 
 *[ITT]: initial teacher training
 *[QTS]: qualified teacher status
