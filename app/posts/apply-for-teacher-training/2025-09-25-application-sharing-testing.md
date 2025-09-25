@@ -146,9 +146,8 @@ A virtual interview over the course of an hour where the participant clicked thr
 * Fee-funded
 
 Initially there was some confusion around the term ‘fee-funded’ which some participants understood as courses where the fees were funded by a third party.
-![Screenshot of a page containing information about the feature](inital-launch-scope-interruption-page.jpg)
 
-![A page asking if the user would consider fee-funded courses with radio buttons](fee-funded-question-v1.jpg)
+![Asking if the user would consider fee-funded courses with radio buttons](/app/images/apply-for-teacher-training/application-sharing-testing/fee-funded-question-v1.jpeg)
 
 We changed the wording to ‘courses with fees to pay’ midway through the round and this helped with understanding. We also changed the phrasing of the question because people were selecting ‘No I am only interested in salaried or apprenticeship routes into teaching’ when they meant that they would be open to both routes.  
 
