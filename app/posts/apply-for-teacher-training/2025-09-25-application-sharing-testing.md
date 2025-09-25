@@ -143,7 +143,7 @@ A virtual interview over the course of an hour where the participant clicked thr
 
 ### Results
 
-* Fee-funded
+* Fee-funded terminology is confusing
 
 Initially there was some confusion around the term ‘fee-funded’ which some participants understood as courses where the fees were funded by a third party.
 
@@ -161,7 +161,7 @@ We had originally had a warning component telling people that salaried routes fi
 
 People missed the link to the ‘How application sharing works’ page on the opt-in screen. Although some said that they wouldn’t click on it because they didn’t have any questions at this point, others would have found the information there useful to give them more confidence about what they were opting-in to.  
 
-7 of 8 said they would opt-in because they trust the DfE and although they had some questions, they weren’t significant enough to stop them selecting ‘yes’. This supported the initial research that showed us that whilst people were opting-in, they did not always know what they had agreed to. 1 of the 8 misunderstood what they were being asked quite significantly and were going to opt-out on this basis until they read the ‘how it works’ page and corrected their misunderstanding.
+7 of 8 said they would opt-in.  1  because they trust the DfE and although they had some questions, they weren’t significant enough to stop them selecting ‘yes’. 6 because they did not have significant barriers to selecting ‘yes’. This supported the initial research that showed us that whilst people were opting-in, they did not always know what they had agreed to. 1 of the 8 misunderstood what they were being asked quite significantly and were going to opt-out on this basis until they read the ‘how it works’ page and corrected their misunderstanding.
 
 When participants were directed to the content on the how application sharing works page, they agreed it was clear and useful. For some of them it clarified their confusion about when they are and are not visible to training providers.
 
