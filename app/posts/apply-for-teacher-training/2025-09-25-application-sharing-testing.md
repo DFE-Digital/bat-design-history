@@ -37,7 +37,7 @@ There was also a comprehension test at the end to check whether the content that
 
 ### Results
 
-Concepts that were understood:
+**Concepts that were understood:**
 
 * Accepting an invite to apply doesn't mean you will be accepted onto the course
 
@@ -48,7 +48,7 @@ Concepts that were understood:
 
 * You can opt-out if you want to
 
-Concepts that are not well understood:
+**Concepts that are not well understood:**
 
 * When your application is visible to providers  
 
@@ -67,7 +67,7 @@ Concepts that are not well understood:
 
 * What data is visible in your profile to providers - especially past applications, personal statements and rejection reasons
 
-Concepts that did not do as well as we’d like them to:
+**Concepts that did not do as well as we’d like them to:**
 
 > "I do not need to search for courses and submit applications myself when I am opted in to application sharing"
 
@@ -146,16 +146,17 @@ A virtual interview over the course of an hour where the participant clicked thr
 * Fee-funded
 
 Initially there was some confusion around the term ‘fee-funded’ which some participants understood as courses where the fees were funded by a third party.
+![Screenshot of a page containing information about the feature](inital-launch-scope-interruption-page.jpg)
 
-![a page asking if the user would consider fee-funded courses with radio buttons](fee-funded-question-v1.jpg)
+![A page asking if the user would consider fee-funded courses with radio buttons](fee-funded-question-v1.jpg)
 
 We changed the wording to ‘courses with fees to pay’ midway through the round and this helped with understanding. We also changed the phrasing of the question because people were selecting ‘No I am only interested in salaried or apprenticeship routes into teaching’ when they meant that they would be open to both routes.  
 
-![a page asking if the user is interested in courses with fees to pay or salaried courses](fee-funded-question-v2.jpg)
+![A page asking if the user is interested in courses with fees to pay or salaried courses](fee-funded-question-v2.jpg)
 
 We had originally had a warning component telling people that salaried routes fill up quickly and you’re unlikely to receive an invitation to such a course, but it had too much emphasis on the page and was the main focus for lots of candidates. We removed the warning component and moved the content into hint text under the salaried radio button.
 
-![a page asking if the user would consider fee-funded courses with a warning about salaried courses being rare](fee-funded-question-original.jpg)
+![A page asking if the user would consider fee-funded courses with a warning about salaried courses being rare](fee-funded-question-original.jpg)
 
 * People value the information on the How it works page but 6 out of 8  participants did not click on it
 
@@ -214,3 +215,6 @@ A few participants found the ‘When can I be invited to apply?’ answer a bit 
 We tried to cover too much in terms of what we were getting candidate feedback on, meaning we could not go into sufficient depth within the hour sessions. Iterating and narrowing the scope halfway through data collection seemed to resolve this issue.
 
 Having a moderator present was valuable in that it allowed us to be adaptable in probing specific issues or points of confusion to dig into what was causing them for each participant.
+
+
+[def]: fee-funded-question-v1.jpg
