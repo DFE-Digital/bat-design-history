@@ -8,7 +8,7 @@ tags:
 
 ## What we did
 
-We have adopted a checklist component on the How to prepare for teacher training page, based on the one used in the <a href="https://getintoteaching.education.gov.uk/" target="_blank">Get into teaching</a> service. We aim for this to bring a sense of continuity with the GIT service and overall teaching brand as well as make content easier to read.
+We have adopted a checklist component on the How to prepare for teacher training page, based on the one used in the <a href="https://getintoteaching.education.gov.uk/" target="_blank">Get Into Teaching</a> service. We aim for this to bring a sense of continuity with the GIT service and overall teaching brand as well as make content easier to read.
 
 This alignment in design helps users feel confident that they are still within the same service line. By reusing components, we aim to build trust and make the transition between touchpoints smoother and more familiar.
 
