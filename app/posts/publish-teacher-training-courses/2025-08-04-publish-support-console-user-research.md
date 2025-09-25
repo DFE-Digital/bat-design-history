@@ -12,6 +12,12 @@ We carried out a round of internal research on the support console to identify a
 
 During this round of research, we wanted to better understand the experience support agents have when using the support console and identify areas for improvement on Publish.
 
+## Who we spoke to
+
+We undertook research with 2 colleagues who work in the Operatations and Support team. They are responsible for responding to all correspondence that is received on Publish and Find.
+
+We also undertook research with 3 developers who work on the Find and Publish team and often use the Publish Support Console.
+
 ## Initial insights
 
 Initial discussions with the Publish team revealed the following challenges that are impacting support agents:
