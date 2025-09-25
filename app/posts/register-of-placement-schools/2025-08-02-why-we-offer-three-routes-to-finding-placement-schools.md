@@ -1,6 +1,6 @@
 ---
 title: Why we offer 3 routes to finding placement schools
-description: Our rationale for offering search by location, provider and school without sign-in, with benefits, limits and how we will measure success
+description: Our rationale for offering search by location, provider and school without sign-in, with benefits and limitations
 date: 2025-08-02
 tags:
   - placement schools
