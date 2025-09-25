@@ -20,15 +20,18 @@ We also undertook research with 3 developers who work on the Find and Publish te
 
 ## Initial insights
 
-Initial discussions with the Publish team revealed the following challenges that are impacting support agents:
+Initial discussions with the Publish team revealed the following challenges that are impacting support agents.
 
-- **Challenges with the onboarding process**
+### Challenges with the onboarding process
+
 The current onboarding process for new users on Publish is done via MS Forms which has been described as “clunky” and not suitable.
 
-- **Difficulty with navigation within the support console**
+### Difficulty with navigation within the support console
+
 It can be confusing for support agents to understand the difference between the provider console and the support console. This needs clearer communication.
 
-- **Issues with deleting “empty” providers from the Publish service**
+### Issues with deleting “empty” providers from the Publish service
+
 The current process could be made more efficient through design changes.
 
 ## Support tickets
@@ -72,15 +75,18 @@ This survey aimed to identify more efficient methods of deleting empty providers
 
 In total, 5 support agents responded to the survey.
 
-Respondents shared suggestions and insights on improving the process:
+Respondents shared suggestions and insights on improving the process.
 
-- **Automation within the support console**
+**Automation within the support console**
+
 Several respondents suggested adding a button or feature to allow support agents to delete providers directly, reducing reliance on developers.
 
-- **Reducing dependency on Trello and developers**
+**Reducing dependency on Trello and developers**
+
 The current process involves raising Trello cards and waiting for developer action, which delays resolution.
 
-- **Clearer onboarding/offboarding tools**
+**Clearer onboarding/offboarding tools**
+
 One respondent recommended an in-service form for new providers to streamline onboarding.
 
 ### Recommendations from the survey of support console agents
