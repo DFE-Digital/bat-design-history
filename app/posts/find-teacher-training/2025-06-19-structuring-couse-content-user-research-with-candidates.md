@@ -39,7 +39,9 @@ During this round of research we had three primary objectives:
 
 ## Who we spoke to
 
-5 domestic and 1 international ITT candidates from the UK who are the beginning of their teacher training journey – searching for a teacher training course or applying for a teacher training course. This also includes career changers.
+5 domestic and 1 international ITT candidates, who are the beginning of their teacher training journey – searching for a teacher training course or applying for a teacher training course. 
+
+This also includes career changers.
 
 ## Methodology
 
