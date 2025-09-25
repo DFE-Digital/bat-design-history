@@ -215,6 +215,3 @@ A few participants found the ‘When can I be invited to apply?’ answer a bit 
 We tried to cover too much in terms of what we were getting candidate feedback on, meaning we could not go into sufficient depth within the hour sessions. Iterating and narrowing the scope halfway through data collection seemed to resolve this issue.
 
 Having a moderator present was valuable in that it allowed us to be adaptable in probing specific issues or points of confusion to dig into what was causing them for each participant.
-
-
-[def]: fee-funded-question-v1.jpg
