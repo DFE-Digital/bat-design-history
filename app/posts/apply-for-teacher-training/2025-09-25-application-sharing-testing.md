@@ -147,15 +147,15 @@ A virtual interview over the course of an hour where the participant clicked thr
 
 Initially there was some confusion around the term ‘fee-funded’ which some participants understood as courses where the fees were funded by a third party.
 
-![Asking if the user would consider fee-funded courses with radio buttons](/app/images/apply-for-teacher-training/application-sharing-testing/fee-funded-question-v1.jpeg)
+![Asking if the user would consider fee-funded courses with radio buttons](fee-funded-question-v1.png)
 
 We changed the wording to ‘courses with fees to pay’ midway through the round and this helped with understanding. We also changed the phrasing of the question because people were selecting ‘No I am only interested in salaried or apprenticeship routes into teaching’ when they meant that they would be open to both routes.  
 
-![A page asking if the user is interested in courses with fees to pay or salaried courses](fee-funded-question-v2.jpg)
+![Asking if the user is interested in courses with fees to pay or salaried courses](fee-funded-question-v2.png)
 
 We had originally had a warning component telling people that salaried routes fill up quickly and you’re unlikely to receive an invitation to such a course, but it had too much emphasis on the page and was the main focus for lots of candidates. We removed the warning component and moved the content into hint text under the salaried radio button.
 
-![A page asking if the user would consider fee-funded courses with a warning about salaried courses being rare](fee-funded-question-original.jpg)
+![Asking if the user would consider fee-funded courses with a warning about salaried courses being rare](fee-funded-question-original.png)
 
 * People value the information on the How it works page but 6 out of 8  participants did not click on it
 
