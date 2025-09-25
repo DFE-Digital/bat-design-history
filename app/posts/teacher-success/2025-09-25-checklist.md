@@ -8,12 +8,11 @@ tags:
 
 ## What we did
 
-We have introduced a checklist component on the 'How to prepare for teacher training
-' page in the Get ready to teach service to bring a sense of continuity with the G<a href="https://getintoteaching.education.gov.uk/" target="_blank">Get into teaching</a> service and overall teaching brand.
+We have adopted a checklist component on the How to prepare for teacher training page, based on the one used in the <a href="https://getintoteaching.education.gov.uk/" target="_blank">Get into teaching</a> service. We aim for this to bring a sense of continuity with the GIT service and overall teaching brand as well as make content easier to read.
 
 This alignment in design helps users feel confident that they are still within the same service line. By reusing components, we aim to build trust and make the transition between touchpoints smoother and more familiar.
 
-![A screenshot of the how to prepare for teacher training page with the checklist component](checklist.png)
+![A screenshot of the how to prepare for teacher training page with the checklist component](check.png) 
 
 ## Why we are using it
 
@@ -25,7 +24,7 @@ This alignment in design helps users feel confident that they are still within t
 
 We plan to monitor this component with:
 
-- Analytics: such as click-through rates on links within the checklist component or an increase in scroll depth on the page after adding the component.
+- Analytics: for example, tracking click-through rates on checklist links or changes in scroll depth after adding the component.
 - Feedback: whether trainees report finding resources more easily.
 
 We also plan to explore opportunities to use the checklist component across other areas of the Get ready to teach service.
