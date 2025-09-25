@@ -12,7 +12,7 @@ We have adopted a checklist component on the How to prepare for teacher training
 
 This alignment in design helps users feel confident that they are still within the same service line. By reusing components, we aim to build trust and make the transition between touchpoints smoother and more familiar.
 
-![A screenshot of the how to prepare for teacher training page with the checklist component](check.png) 
+![A screenshot of the how to prepare for teacher training page with the checklist component](check.png)
 
 ## Why we are using it
 
