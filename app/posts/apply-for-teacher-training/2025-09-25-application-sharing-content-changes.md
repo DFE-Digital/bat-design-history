@@ -1,7 +1,7 @@
 ---
 title: "Application sharing content changes"
 description: Implementing findings from the content testing.
-date: 2025-09-25
+date: 2025-09-26
 tags:
   - Find a candidate
   - Application sharing
@@ -74,7 +74,7 @@ Having more touchpoints in the journey also means we can link to the ‘how it w
 
 ### Locating users in the application sharing flow
 
-We added the [heading caption](https://design-system.service.gov.uk/styles/headings/#:~:text=%3C/h3%3E-,Headings%20with%20captions,-Sometimes%20you%20may)to each H1 in the application sharing flow so that users can see that they are setting preferences for application sharing and not their applications in general.
+We added the [heading caption](https://design-system.service.gov.uk/styles/headings/#:~:text=%3C/h3%3E-,Headings%20with%20captions,-Sometimes%20you%20may) to each H1 in the application sharing flow so that users can see that they are setting preferences for application sharing and not their applications in general.
 
 ### Fee-funded courses confusion
 
@@ -90,7 +90,7 @@ Including the link to find out more about scholarships and bursaries also caused
 
 The intention of the warning text was to steer people who were only selecting salaried courses towards courses with fees to pay, and let them know that whilst they will have to pay a fee, they can sometimes receive financial support in the form of bursaries and scholarships – which could open up the fee-funded route to more people.
 
-However, the warning component was too prominent and alarming for candidates and whilst we didn’t specifically test with people who were pursuing a salaried route, participants said that this would cause them to select fee-funded because they were worried about not getting any chances if they chose salaried. We have seen a small number of salaried courses offered through Application sharing, so we don’t want to force people to select fee-funded out of fear when there is a small chance they could be offered a salaried course.
+However, the warning component was too prominent and alarming for candidates and whilst we didn’t specifically test with people who were pursuing a salaried route, participants said that this would cause them to select fee-funded because they were worried about not getting any chances if they chose salaried. We have seen a small number of salaried courses offered through application sharing, so we don’t want to force people to select fee-funded out of fear when there is a small chance they could be offered a salaried course.
 
 We made the response options clearer so that people understood they were selecting both funding types or salaried only. We also changed ‘fee-funded’ to ‘courses with fees to pay’ which was much better understood.  
 
@@ -108,27 +108,29 @@ We decided to keep the how it works page for now.
 
 One of the benefits of the page is that we can give context to some more complicated concepts involved in application sharing.
 
-### Visibility
+**Visibility**
 
 The most complicated thing for people to understand is when you are and are not visible when you have opted-in. We explain the specific application statuses that this applies to, when it stops applying and why this is the case. In the research when the reasons for hiding candidates from other providers were explained, most were accepting of them.
 
-When you submit a new application choice, we will hide you from the list until the training provider has made a decision. This is to give the course you have just applied to time to review your application properly.
+New content:
+> When you submit a new application choice, we will hide you from the list until the training provider has made a decision. This is to give the course you have just applied to time to review your application properly.
 
-This also frames the reason you are hidden as a benefit to the candidate, it’s to make sure your applications are given proper consideration and not rushed to a decision.
+This also frames the reason you are hidden as a benefit to the candidate - it’s to make sure your applications are given proper consideration and not rushed to a decision.
 
-### What kind of courses you can be invited to
+**What kind of courses you can be invited to**
 
 Our opt-out data shows that people are hesitant to commit to application sharing because they have specific requirements from their courses and don’t feel these will be met by application sharing.
 
 It’s important to let people know that they have some degree of control over the types of courses they can be invited to. By setting preferences they can manage how they appear in filtered lists (note that this does not prevent providers from inviting them to courses they have not specified a preference for).  
 
-The idea of choice came up a bit in the research. Candidates were unsure whether they would be tied into a course if they were invite to apply. We have made it clearer throughout that they can decide whether to apply or not, there is no obligation.
+The idea of choice came up a bit in the research. Candidates were unsure whether they would be tied into a course if they were invited to apply. We have made it clearer throughout that they can decide whether to apply or not, there is no obligation.
 
-### Data sharing
+**Data sharing**
 
 When participants saw that some of their data is not shared with providers, they saw this as a positive. This was particularly true of international students and candidates from different ethnic backgrounds who mentioned bias in the recruitment process.
 
-> “I like that they can't see my name, because of bias” - International participant in Nigeria.
+> “I like that they can't see my name, because of bias” 
+> - International participant in Nigeria.
 
 We are also able to provide information that was mentioned as being useful (although not by lots of participants) about how long data is shared for (until they opt-out, receive an offer elsewhere or at the end of the cycle.) It wasn’t clear to people what ‘basic information about where you have applied before’ referred to so we have made it clearer that this means the name of the provider and the course that was applied to.
 
@@ -144,6 +146,6 @@ We should continue to monitor opt-ins to give ourselves confidence that adding m
 
 If the opt-in rate declines, but the application rate remains the same or increases then I don’t think there’s a problem with having more content on the opt-in screen – fewer informed opt-ins are better than more disengaged opt-ins.  
 
-We have taken the nudge email to candidates who have been application sharing for some time, not received an invite to apply and not drafted or submitted any applications themselves forwards at the moment.
+We have not taken the nudge email to candidates who have been application sharing for some time, not received an invite to apply and not drafted or submitted any applications themselves forwards at the moment.
 
 We think this would be a good targeted intervention for candidates who are potentially waiting for be invited rather than applying themselves, however we need to understand more about the reasons people stop applying for courses, the other email nudges that are sent and when before we can take this forward.
