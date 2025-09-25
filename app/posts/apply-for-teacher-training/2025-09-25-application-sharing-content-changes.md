@@ -129,8 +129,9 @@ The idea of choice came up a bit in the research. Candidates were unsure whether
 
 When participants saw that some of their data is not shared with providers, they saw this as a positive. This was particularly true of international students and candidates from different ethnic backgrounds who mentioned bias in the recruitment process.
 
-> “I like that they can't see my name, because of bias” 
-> - International participant in Nigeria.
+> “I like that they can't see my name, because of bias”
+>
+> * International participant in Nigeria.
 
 We are also able to provide information that was mentioned as being useful (although not by lots of participants) about how long data is shared for (until they opt-out, receive an offer elsewhere or at the end of the cycle.) It wasn’t clear to people what ‘basic information about where you have applied before’ referred to so we have made it clearer that this means the name of the provider and the course that was applied to.
 
