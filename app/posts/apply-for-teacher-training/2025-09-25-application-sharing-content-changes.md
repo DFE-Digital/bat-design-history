@@ -16,10 +16,10 @@ Based on the discovery research we had a hypothesis that people were not fully a
 
 The user research across 3 rounds (highlighter testing, unmoderated interviews and moderated interviews) showed that:
 
-* participants did not understand that they would only be visible in the list for providers when they had no other applications in-flight
-* participants expected to be visible all the time
+* participants often did not understand that they would only be visible in the list for providers when they had no other applications in-flight
+* participants expected and wanted to be visible all the time
 * fee-funded is not well understood as a term to describe courses with fees to pay
-* there is a preference for waiting to be invited to apply over applying proactively to courses  
+* there is sometimes a preference for waiting to be invited to apply over applying proactively to courses  
 * information on an FAQs page was perceived to be useful but it was not accessed by all participants
 * it wasn’t clear to participants in the moderated round that they were setting preferences for application sharing, separate to their other applications.
 
@@ -82,7 +82,7 @@ We discovered quite early in the moderated interviews that the term ‘fee-funde
 
 Some thought this meant courses that received funding from a third party which is not correct. Some who saw it next to ‘salaried courses’ understood that fee-funded were courses they had to pay for but mistakenly thought they could not get loans or other student finance to help them.
 
-In our original implementation people thought that the question was asking them to select either fee-funded or salaried, rather than salaried only or fee-funded and salaried.
+In an early implementation people thought that the question was asking them to select either fee-funded or salaried, rather than salaried only or fee-funded and salaried.
 
 ![Asking if fee-funded or salaried would be considered, with a warning component about salaried routes](fee-funded-question-original.png)
 
@@ -132,6 +132,8 @@ When participants saw that some of their data is not shared with providers, they
 > “I like that they can't see my name, because of bias” 
 > - International participant in Nigeria.
 
+People also liked that providers could not see why past applications had ended without success.
+
 We are also able to provide information that was mentioned as being useful (although not by lots of participants) about how long data is shared for (until they opt-out, receive an offer elsewhere or at the end of the cycle.) It wasn’t clear to people what ‘basic information about where you have applied before’ referred to so we have made it clearer that this means the name of the provider and the course that was applied to.
 
 ## Next steps
@@ -146,6 +148,6 @@ We should continue to monitor opt-ins to give ourselves confidence that adding m
 
 If the opt-in rate declines, but the application rate remains the same or increases then I don’t think there’s a problem with having more content on the opt-in screen – fewer informed opt-ins are better than more disengaged opt-ins.  
 
-We have not taken the nudge email to candidates who have been application sharing for some time, not received an invite to apply and not drafted or submitted any applications themselves forwards at the moment.
+We have not taken the nudge email (sent to candidates who have been application sharing for some time, not received an invite to apply and not drafted or submitted any applications themselves) forwards at the moment.
 
-We think this would be a good targeted intervention for candidates who are potentially waiting for be invited rather than applying themselves, however we need to understand more about the reasons people stop applying for courses, the other email nudges that are sent and when before we can take this forward.
+We think this would be a good targeted intervention for candidates who are potentially waiting for be invited rather than applying themselves. However we need to understand more about the reasons people stop applying for courses, the other email nudges that are sent, and when before we can take this forward.
