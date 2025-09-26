@@ -129,8 +129,9 @@ The idea of choice came up a bit in the research. Candidates were unsure whether
 
 When participants saw that some of their data is not shared with providers, they saw this as a positive. This was particularly true of international students and candidates from different ethnic backgrounds who mentioned bias in the recruitment process.
 
-> “I like that they can't see my name, because of bias” 
-> - International participant in Nigeria.
+> “I like that they can't see my name, because of bias”
+>
+> * International participant in Nigeria.
 
 People also liked that providers could not see why past applications had ended without success.
 
