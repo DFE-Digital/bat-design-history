@@ -108,7 +108,7 @@ We decided to keep the how it works page for now.
 
 One of the benefits of the page is that we can give context to some more complicated concepts involved in application sharing.
 
-**Visibility**
+#### Visibility
 
 The most complicated thing for people to understand is when you are and are not visible when you have opted-in. We explain the specific application statuses that this applies to, when it stops applying and why this is the case. In the research when the reasons for hiding candidates from other providers were explained, most were accepting of them.
 
@@ -117,7 +117,7 @@ New content:
 
 This also frames the reason you are hidden as a benefit to the candidate - it’s to make sure your applications are given proper consideration and not rushed to a decision.
 
-**What kind of courses you can be invited to**
+#### What kind of courses you can be invited to
 
 Our opt-out data shows that people are hesitant to commit to application sharing because they have specific requirements from their courses and don’t feel these will be met by application sharing.
 
@@ -125,7 +125,7 @@ It’s important to let people know that they have some degree of control over t
 
 The idea of choice came up a bit in the research. Candidates were unsure whether they would be tied into a course if they were invited to apply. We have made it clearer throughout that they can decide whether to apply or not, there is no obligation.
 
-**Data sharing**
+#### Data sharing
 
 When participants saw that some of their data is not shared with providers, they saw this as a positive. This was particularly true of international students and candidates from different ethnic backgrounds who mentioned bias in the recruitment process.
 
