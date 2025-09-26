@@ -48,7 +48,7 @@ There was also a comprehension test at the end to check whether the content that
 
 * You can opt-out if you want to
 
-**Concepts that are not well understood:**
+**Concepts that were not well understood:**
 
 * When your application is visible to providers  
 
