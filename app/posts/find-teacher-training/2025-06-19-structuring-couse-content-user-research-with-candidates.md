@@ -3,10 +3,10 @@ title: Structuring course content user research with candidates
 description: Summary of the round of research with candidates on improving courses pages on Find
 date: 2025-06-19
 tags:
-  - Find
+  - find
   - courses
-  - Course structure
-  - Course content
+  - course structure
+  - course content
   - research
   - longform content
 ---
@@ -39,7 +39,7 @@ During this round of research we had three primary objectives:
 
 ## Who we spoke to
 
-5 domestic and 1 international ITT candidates, who are at the beginning of their teacher training journey – searching for a teacher training course or applying for a teacher training course.
+5 domestic and 1 international ITT candidates, who are at the beginning of their teacher training journey. So they are searching for teacher training courses or applying for a teacher training course.
 
 This also includes career changers.
 
@@ -113,7 +113,7 @@ There is a clear need for explicit information on accessibility (e.g., wheelchai
 
 Participants found the information in the course summary pages to be too generic. Particularly, the “Why Train with Us” section was utilised in way that provides candidates with sufficient overview of the provider.
 
-![screenshot of why train with us section](why_train_with_us_section.png)
+![Screenshot of why train with us section](why_train_with_us_section.png)
 
 There is need for in-depth information that covers the different aspects of training experience that will be provided.
 
