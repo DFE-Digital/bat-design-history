@@ -62,11 +62,11 @@ Directing people to alternative routes into teaching is not the primary need for
 
 Candidates cannot edit this part of their application after they submit an application. They need to submit a request to the Support team to make any changes on their behalf.
 
-### Updates following free-text analysis 
+### Updates following free-text analysis
 
 On 1 October 2025 we analysed the free-text that candidates were entering and noticed that 26 out of 58 of people were using this question to share information about their teaching qualifications.  
 
-We have updated the question to make it clear we are asking about ITT in England specifically and directing them to enter any successful qualifications in the qualifications section of Apply: 
+We have updated the question to make it clear we are asking about ITT in England specifically and directing them to enter any successful qualifications in the qualifications section of Apply:
 
 ![Updated H1 specifying ITT in England and directing to enter qualifications in a different section](previous-itt-updated-question.png)
 
