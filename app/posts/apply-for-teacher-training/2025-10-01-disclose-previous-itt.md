@@ -80,6 +80,4 @@ Self-disclosure isn’t the most robust means of collecting this safeguarding in
 
 The Register trainee teachers service holds data on everyone who has started ITT in England. In future, we should be able to share this data with training providers so that they can see who has started ITT before without relying on candidates to disclose this.
 
-In the medium-term we will review the free-text to see if there are any opportunities to structure the input better and make it easier for candidates to tell us the things we want to know about.
-
 We will also monitor the frequency of people withdrawing from more than 1 previous course. The current design does not allow candidates to add more than 1 previous course, although they can mention others in the free-text field.
