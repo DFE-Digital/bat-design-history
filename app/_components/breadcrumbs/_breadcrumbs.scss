@@ -8,7 +8,7 @@ $app-breadcrumbs-inverted-border-colour: govuk-colour("light-blue");
   border-bottom: 1px solid $app-breadcrumbs-inverted-border-colour;
   color: $app-breadcrumbs-inverted-text-colour;
 
-  @include mq ($from: tablet) {
+  @include govuk-media-query($from: tablet) {
     margin-top: #{govuk-spacing(6) * -1};
   }
 
