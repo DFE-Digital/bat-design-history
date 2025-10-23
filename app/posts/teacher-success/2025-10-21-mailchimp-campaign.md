@@ -12,7 +12,7 @@ We ran a four-email campaign to support a subset of the 2025/26 trainee teacher 
 
 ## Who we were designing for
 
-Our audience was trainee teachers who had recently accepted a place on a teacher training course starting in Autumn 2025. We targeted a private beta subset of users from the Apply for teacher training service with One Login for Government accounts, split between SCITT and University trainees.
+Our audience was trainee teachers who had recently accepted a place on a teacher training course starting in Autumn 2025. We targeted a private beta subset of users from the Apply for teacher training service, including a mix of those with and without One Login for Government accounts. This cohort included both SCITT and University trainees.
 
 ## What we sent
 
@@ -28,7 +28,7 @@ Notes: Moderate engagement; practical placement content performed better than me
 
 - Email 3 – Behaviour management (14 / 21 September)
 Key message: “Manage pupil behaviour and plan lessons”
-Notes: Notable drop in engagement, showing early signs of email fatigue.
+Notes: Notable drop in engagement.
 
 - Email 4 – Support during training (28 September)
 Key message: “Struggling with training? Get support!”
@@ -38,7 +38,7 @@ Notes: Lower reach but the ‘problem-framing’ approach produced stronger subj
 
 ### Timing matters
 
-Engagement was highest before training started. Email 1, sent in late August, achieved the best open (23–25%) and click (6–7%) rates. Later emails in September showed clear signs of fatigue.
+Engagement was highest before training started. Email 1, sent in late August, achieved the best open (23–25%) and click (6–7%) rates. Later emails in September saw lower engagement, which may reflect reduced availability once trainees began their courses or differences in when key training milestones occurred.
 
 ### Subject line learnings
 
@@ -57,7 +57,7 @@ The first call-to-action button consistently outperformed secondary ones, sugges
 - High interest: preparation and first placement topics
 - Moderate: behaviour management
 - Low: mentor-focused content
-- Emerging: support and wellbeing content showed renewed interest despite fatigue
+- Emerging: support and wellbeing content showed renewed interest later in the campaign, suggesting trainees may seek this kind of guidance once settled into training.
 
 ### Surveys
 
@@ -77,7 +77,7 @@ These pages were also rated most positively in the site’s “Is this page usef
 
 ## What we learned
 
-- Engagement declines over time — sending too many emails led to diminishing returns.
+- Engagement declined over time — possibly due to timing or changing trainee priorities once courses started. Future campaigns could explore aligning messages with key academic points, such as placement starts or increased workload periods.
 - Content timing is crucial — early communication (pre-term) performs best.
 - Pain-point framing works — subject lines acknowledging trainee struggles increase engagement.
 - CTA hierarchy matters — position and prominence drive clicks.
