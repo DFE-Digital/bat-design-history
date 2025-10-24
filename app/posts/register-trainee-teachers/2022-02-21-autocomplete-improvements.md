@@ -131,5 +131,5 @@ Much of the improvements teams can expect to see depend on them optimising it by
 
 The various bits of code for these improvements can be found:
 
-- [Source code](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/components/form_components/autocomplete)
-- [Tests](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/webpacker/scripts/autocomplete)
+- [Source code](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/javascript/scripts/components/form_components/autocomplete)
+- [Tests](https://github.com/DFE-Digital/register-trainee-teachers/tree/main/app/javascript/scripts/autocomplete)
