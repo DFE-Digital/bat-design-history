@@ -35,7 +35,8 @@ module.exports = (eleventyConfig) => {
   // Plugins
   // ---------------------------------------------------------------
   eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'))
-  eleventyConfig.addPlugin(require('@11ty/eleventy-navigation'))
+  // Note: @11ty/eleventy-navigation plugin removed for performance
+  // Using custom navigation implementation in lib/filters/navigation.js instead
 
   // ---------------------------------------------------------------
   // Filters
