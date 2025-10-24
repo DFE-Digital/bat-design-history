@@ -1,6 +1,6 @@
 ---
 title: Email campaign analysis
-description: Analysis of a small email campaign from August to October
+description: Analysis of a trainee teacher email campaign from August to October
 date: 2025-10-21
 tags:
   - trainees 
