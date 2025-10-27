@@ -7,9 +7,11 @@ tags:
   - Cycle dates
 ---
 ## Background
+
 After the recruitment cycle closes, we perform some tasks in the background to 'carry over' candidates' application details to the next cycle. This means they can start submitting applications as soon as the new cycle opens without having to complete all of their personal details again.
 
-There are some sections of a candidate's details that we need them to reconfirm before they can apply again. These are: 
+There are some sections of a candidate's details that we need them to reconfirm before they can apply again. These are:
+
 * equality and diversity information
 * reference information
 * for this cycle only, whether they have started an ITT course in the past
@@ -19,7 +21,9 @@ However the screen that they see doesn't specify much of this information, there
 We also don't give them specific information depending on the scenario they are in. For example, a candidate who had open offers and open applications when the reject by default deadline happened, might need to know different things than someone who has no open applications or offers.
 
 ## What did we do
+
 ### Content changes
+
 On the Your details page we added some inset text at the top of the screen to let candidates know which sections they should update before they can submit new applications:
 ![Inset-text explaining that they should update equality and diversity, references and previous ITT sections](your-details.png)
 
@@ -37,6 +41,7 @@ You can start your applications.
 Button: Choose a course
 
 **After the apply deadline but before the reject by default deadline**
+
 * If someone has open applications but no offers:
 If you don't hear back from training providers about your applications before 11:59pm UK time on 24 September then they will be rejected automatically.
 
@@ -77,6 +82,7 @@ Any offers that you had received have been declined on your behalf because you d
 Note that in some circumstances, multiple blocks of content should be shown. Where this is the case, the offer content should come first (as it contains an action).
 
 ## What's next
+
 ![As-is Your applications screen during 'carry over'](as-is-carry-over.png)
 
 Candidates could only see their previous applications by clicking the 'Update your details' button, which isn't very intuitive.
