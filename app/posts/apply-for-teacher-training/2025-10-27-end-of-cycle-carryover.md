@@ -12,7 +12,7 @@ After the recruitment cycle closes, we perform some tasks in the background to '
 There are some sections of a candidate's details that we need them to reconfirm before they can apply again. These are: 
 * equality and diversity information
 * reference information
-* for this cycle only, whether they have started an ITT course in the past
+* for this cycle only, [whether they have started an ITT course in the past](https://becoming-a-teacher.design-history.education.gov.uk/apply-for-teacher-training/disclose-previous-itt/)
 
 However the screen that they see doesn't specify much of this information, there's just a single green button that says 'Update your details'. "Update your details' is also the only way to access your old applications which are linked from the Your details page.
 
