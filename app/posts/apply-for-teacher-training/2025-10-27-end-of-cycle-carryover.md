@@ -16,7 +16,7 @@ There are some sections of a candidate's details that we need them to reconfirm 
 * reference information
 * for this cycle only, [whether they have started an ITT course in the past](https://becoming-a-teacher.design-history.education.gov.uk/apply-for-teacher-training/disclose-previous-itt/)
 
-However the screen that they see doesn't specify much of this information, there's just a single green button that says 'Update your details'. "Update your details' is also the only way to access your old applications which are linked from the Your details page.
+However the screen that they see doesn't specify much of this information, there's just a single green button that says 'Update your details'. "Update your details' is also the only way to access both the Your details page and your old applications which are linked from the Your details page.
 
 We also don't give them specific information depending on the scenario they are in. For example, a candidate who had open offers and open applications when the reject by default deadline happened, might need to know different things than someone who has no open applications or offers.
 
