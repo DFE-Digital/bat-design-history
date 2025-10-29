@@ -3,8 +3,8 @@ title: End of cycle 2025
 description: Changes we made during the ‘carry over’ period
 date: 2025-10-27
 tags:
-  - End of cycle
-  - Cycle dates
+  - end of cycle
+  - cycle dates
 ---
 
 After the recruitment cycle closes, we perform some tasks in the background to ‘carry over’ candidates’ application details to the next cycle. This means they can start submitting applications as soon as the new cycle opens without having to complete all of their personal details again.
