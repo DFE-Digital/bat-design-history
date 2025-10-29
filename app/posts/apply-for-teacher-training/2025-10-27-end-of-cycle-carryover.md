@@ -1,6 +1,6 @@
 ---
-title: "End of cycle 2025"
-description: Changes we made during the 'carryover' period
+title: End of cycle 2025
+description: Changes we made during the ‘carry over’ period
 date: 2025-10-27
 tags:
   - End of cycle
@@ -40,7 +40,7 @@ You have completed your details
 You can start your applications.
 Button: Choose a course
 
-**After the apply deadline but before the reject by default deadline**
+#### After the apply deadline but before the reject by default deadline
 
 * If someone has open applications but no offers:
 If you don't hear back from training providers about your applications before 11:59pm UK time on 24 September then they will be rejected automatically.
@@ -53,7 +53,7 @@ You have until 11:59pm UK time on 28 September to respond to any offers you rece
 
 If you don't hear back from training providers about your applications before 11:59pm UK time on 24 September then they will be rejected automatically.
 
-**After the reject by default deadline but before the decline by default deadline**
+#### After the reject by default deadline but before the decline by default deadline
 
 * If someone has open applications but no offers:
 Some of your applications have been rejected automatically. This is because training providers did not respond to them before the deadline of 11:59pm UK time on 24 September.
@@ -66,7 +66,7 @@ Some of your applications have been rejected automatically. This is because trai
 
 You have until 11:59pm UK time on 28 September to respond to any offers you receive. They will be declined on your behalf if you don't respond before this time.
 
-**After the decline by default deadline**
+#### After the decline by default deadline
 
 * If someone has open applications but no offers:
 Same as in the above scenario.
