@@ -3,9 +3,9 @@ title: Flexible ITT research with providers
 description: User research with providers on flexible teacher training
 date: 2025-10-30
 tags:
-  - Publish
+  - publish
   - flexible training
-  - Providers
+  - providers
 ---
 
 This research explored providers’ views on flexible Initial Teacher Training (ITT), including their understanding of related terminology and feedback on improving the Publish service.
