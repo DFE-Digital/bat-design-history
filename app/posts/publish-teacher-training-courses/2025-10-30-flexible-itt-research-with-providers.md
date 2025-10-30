@@ -3,7 +3,6 @@ title: Flexible ITT research with providers
 description: User research with providers on flexible teacher training
 date: 2025-10-30
 tags:
-  - publish
   - flexible training
   - providers
 ---
