@@ -8,8 +8,6 @@ tags:
   - Providers
 ---
 
-
-
 This research explored providers’ views on flexible Initial Teacher Training (ITT), including their understanding of related terminology and feedback on improving the Publish service.
 
 We aimed to test the assumption that clearer guidance and standardised digital features are needed to help providers better communicate flexible training options to applicants.
@@ -45,20 +43,13 @@ We spoke to 6 provider participants in total.
 Their roles were as follows:
 
 | Participant number | Job role |
-
 | --- | --- |
-
-| 1| Recruitment co-ordinator |
-
-| 2| Recruitment co-ordinator |
-
-| 3| Director of SCITT |
-
-| 4| ITT co-ordinator |
-
-| 5| ITT Director |
-
-| 6| Recruitment co-ordinator|
+| 1 | Recruitment co-ordinator |
+| 2 | Recruitment co-ordinator |
+| 3 | Director of SCITT |
+| 4 | ITT co-ordinator |
+| 5 | ITT Director |
+| 6 | Recruitment co-ordinator|
 
 ## Methodology
 
