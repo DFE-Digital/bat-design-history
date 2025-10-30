@@ -1,22 +1,14 @@
---- 
+---
+title: Flexible ITT research with providers
+description: User research with providers on flexible teacher training
+date: 2025-10-30
+tags:
+  - Publish
+  - flexible training
+  - Providers
+---
 
-title: Flexible ITT research with providers 
 
-description: User research with providers on flexible teacher training 
-
-date: 2025-10-30 
-
-tags: 
-
-  - Publish 
-
-  - flexible training 
-
-  - Providers 
-
---- 
-
- 
 
 This research explored providers’ views on flexible Initial Teacher Training (ITT), including their understanding of related terminology and feedback on improving the Publish service.
 
@@ -48,13 +40,13 @@ Assess provider feedback on proposed design changes to the Publish service
 
 ## Participants - who we spoke to
 
-We spoke to 6 provider participants in total.  
+We spoke to 6 provider participants in total.
 
 Their roles were as follows:
 
 | Participant number | Job role |
 
-| --- | --- |  
+| --- | --- |
 
 | 1| Recruitment co-ordinator |
 
@@ -68,11 +60,11 @@ Their roles were as follows:
 
 | 6| Recruitment co-ordinator|
 
-## Methodology  
+## Methodology
 
 Usability testing research interview conducted via Teams.
 
-We tested new designs on the Publish service via a prototype.  
+We tested new designs on the Publish service via a prototype.
 
 ## Summary of insights
 
@@ -80,7 +72,7 @@ We found out the following insights.
 
 ### Terminology inconsistency
 
-Providers use a range of terms to describe flexible ITT  Initial Teacher Training (ITT), but there is significant variation and inconsistency across the sector. This can lead to confusion for both candidates and providers themselves.  
+Providers use a range of terms to describe flexible ITT  Initial Teacher Training (ITT), but there is significant variation and inconsistency across the sector. This can lead to confusion for both candidates and providers themselves.
 
 ### Complex challenges
 
@@ -90,7 +82,7 @@ Offering flexible ITT involves operational, regulatory, technical, and engagemen
 
 Current flexible teacher training adaptations focus on structured part-time routes, blended learning, placement and schedule flexibility, and individualized support for disabilities and life circumstances. However, these are balanced by significant regulatory, institutional, and practical constraints, and flexibility is typically negotiated on a case-by-case basis rather than offered as a universal entitlement.​
 
-### Desire for expansion  
+### Desire for expansion
 
 Providers want to offer more flexible options (e.g., remote, bespoke, part-time), but face constraints such as institutional rigidity, regulatory limits, school partner resistance, safeguarding concerns, and financial pressures.
 
@@ -98,7 +90,7 @@ Providers want to offer more flexible options (e.g., remote, bespoke, part-time)
 
 Providers support improvements to the Publish service that help communicate flexibility, but emphasize the need for clear terminology, conditional responses, and realistic candidate expectations.
 
-## Recommendations for future candidate research  
+## Recommendations for future candidate research
 
 We identified the following recommendations for future research with candidates:
 
