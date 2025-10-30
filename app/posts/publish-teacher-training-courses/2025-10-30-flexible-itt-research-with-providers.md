@@ -17,7 +17,7 @@ This round of user research focused on validating that assumption and informing 
 
 We tested new designs for the Publish service with providers, focusing on updated questions that highlight flexible teacher training options.
 
-![screenshot of flexible teacher training options](study_pattern.png)
+![screenshot of flexible teacher training options](study_pattern.png "Screenshot showing whether flexible hours are offered")
 
 ![screenshot of free text box showing trainee support](support_trainees.png)
 
