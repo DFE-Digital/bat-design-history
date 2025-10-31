@@ -74,7 +74,7 @@ We show a list of the provider’s partners. For each partner, we show:
 
 ### Adding a partnership
 
-Adding a contact is a 2-step process:
+Adding a partnership is a 2-step process:
 
 - Select a provider
 - Check your answers
