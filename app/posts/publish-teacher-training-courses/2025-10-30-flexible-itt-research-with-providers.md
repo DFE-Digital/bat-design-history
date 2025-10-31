@@ -19,9 +19,9 @@ We tested new designs for the Publish service with providers, focusing on update
 
 ![screenshot of flexible teacher training options](study_pattern.png "Screenshot showing whether flexible hours are offered")
 
-![screenshot of free text box showing trainee support](support_trainees.png)
+![screenshot of free text box showing trainee support](support_trainees.png "Screenshot showing what support to find trainees jobs is offered")
 
-![screenshot of question asking whether remote or online learning is supported](online_learning.png)
+![screenshot of question asking whether remote or online learning is supported](online_learning.png "Screenshot showing whether remote or online learning is offered")
 
 ## Research objectives
 
