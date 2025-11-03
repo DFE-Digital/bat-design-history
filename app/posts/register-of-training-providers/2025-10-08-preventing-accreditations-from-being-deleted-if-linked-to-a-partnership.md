@@ -12,8 +12,8 @@ related:
       href: /register-of-training-providers/managing-provider-accreditations/
     - text: Linking partnerships with accreditations
       href: /register-of-training-providers/linking-partnerships-with-accreditations/
-   - text: Logging changes to a partnership’s linked accreditations
-     href: /register-of-training-providers/logging-changes-to-a-partnerships-linked-accreditations/
+    - text: Logging changes to a partnership’s linked accreditations
+      href: /register-of-training-providers/logging-changes-to-a-partnerships-linked-accreditations/
 screenshots:
   items:
     - text: Cannot delete accreditation
