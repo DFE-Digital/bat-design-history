@@ -1,6 +1,6 @@
 ---
-title: Exploring how to include accreditation information when setting up partnerships
-description: We explored including accreditation information in a partnership relationship to see if it made it easier to see historic relationships
+title: Linking partnerships with accreditations
+description: We explored linking accreditation information to a partnership relationship to see if it made it easier to see historic relationships
 date: 2025-10-07
 tags:
   - partnerships
@@ -14,10 +14,10 @@ related:
       href: /register-of-training-providers/preventing-duplicate-provider-partnerships/
     - text: Selecting a provider in the add partnership flow when JavaScript is unavailable
       href: /register-of-training-providers/selecting-a-provider-in-the-add-partnership-flow-when-javascript-is-unavailable/
-    - text: Exploring how we log changes to provider partnership accreditations
-      href: /register-of-training-providers/exploring-how-we-log-changes-to-provider-partnership-accreditations/
-    - text: Updating the accreditation flows
-      href: /register-of-training-providers/updating-the-accreditation-flows/
+    - text: Logging changes to a partnership’s linked accreditations
+      href: /register-of-training-providers/logging-changes-to-a-partnerships-linked-accreditations/
+    - text: Preventing accreditations from being deleted if linked to a partnership
+      href: /register-of-training-providers/preventing-accreditations-from-being-deleted-if-linked-to-a-partnership/
 screenshots:
   items:
     - text: Accredited provider partnership list
@@ -56,7 +56,7 @@ We chose to require an explicit link to one or more accreditations held by the a
 
 ## Problem we are trying to solve
 
-Partnerships currently record the accredited provider and the training partner. They do not always show which accreditation the partnership operated under. This approach creates gaps when we need to explain why a provider could legally partner, how coverage changed over time, and whether a partnership remained valid after an accreditation changed or ended.
+Partnerships currently record the accredited provider and the training partner. They do not always show which accreditation the partnership operated under. This approach creates gaps when we need to explain why a provider could legally partner, how coverage has changed over time, and whether a partnership remains valid after an accreditation changes or ends.
 
 ## Why we did this
 
@@ -70,11 +70,11 @@ Linking a partnership to its underlying accreditation helps us to:
 
 **Policy and data teams** need to understand whether a partnership sat within an accreditation’s scope at a given date so they can assess compliance, impact and trends.
 
-**Support teams** need to answer “was this partnership valid at the time?” without cross-checking multiple systems and spreadsheets.
+**Support teams** need to answer, “Was this partnership valid at the time?” without having to cross-check multiple systems and spreadsheets.
 
 **Accredited providers** need to evidence that a partner relationship operated under a specific accreditation when asked by DfE or Ofsted.
 
-**Service teams across BAT** need reliable joins between partnership records, accreditations and academic years to power downstream services and analytics. #}
+**Service teams across BAT** require reliable connections between partnership records, accreditations, and academic years to support downstream services and analytics. #}
 
 ## Options we considered
 
@@ -136,7 +136,7 @@ The autocomplete only includes accredited providers if the current provider is n
 
 You cannot create a partnership between accredited providers or between training providers. A single accredited ITT provider must lead all ITT partnerships and can involve both training partners and placement schools.
 
-We display each provider's name and UKPRN or URN in the list. This information allows users to choose the correct provider from similarly named providers.
+We display each provider's name and UKPRN or URN in the list. This information enables users to select the correct provider from among similarly named options.
 
 The question is required. If users do not select a training provider, we show an error message:
 
@@ -178,7 +178,7 @@ Users can change the linked accreditations in a partnership, nothing else. This 
 
 We only soft-delete data. This approach allows us to maintain a historical record whilst keeping the register free of outdated or incorrect information.
 
-Users can delete a partnership at any time. We show a confirmation page before we delete the partnership.
+Users can delete a partnership at any time. We display a confirmation page before deleting the partnership.
 
 ## Open questions
 
