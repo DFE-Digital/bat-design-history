@@ -1,5 +1,5 @@
 ---
-title: Exploring how we log changes to provider partnership accreditations
+title: Logging changes to a partnership’s linked accreditations
 description: We explored ways to log changes to provider partnerships and linked accreditations
 date: 2025-10-10
 tags:
@@ -9,8 +9,8 @@ tags:
   - providers
 related:
   items:
-    - text: Exploring how to include accreditation information when setting up partnerships
-      href: /register-of-training-providers/exploring-how-to-include-accreditation-information-when-setting-up-partnerships/
+    - text: Linking partnerships with accreditations
+      href: /register-of-training-providers/linking-partnerships-with-accreditations/
     - text: Tracking activity across the service
       href: /register-of-training-providers/tracking-activity-across-the-service/
     - text: Viewing activity at the provider level
@@ -79,7 +79,7 @@ We remove links to providers if they have been deleted from the register. We do 
 
 ### Showing last updated information
 
-We show who last updated the provider and when they did the update. For example:
+We show who last updated the provider and when the update was made. For example:
 
 > Last updated by Anne Wilson on 28 October 2025 at 2:55pm
 
@@ -110,6 +110,6 @@ On the global activity log, this could include filters for:
 
 ### Showing what changed in the activity item
 
-Currently, we do not show what changes were made; we only show that a change was made. Instead, we rely on users visually deciphering this information from the activity log. This can be difficult depending on the frequency of change in the register.
+Currently, we do not display the specific changes made; we only indicate that a change was made. Instead, we rely on users visually deciphering this information from the activity log. This can be difficult depending on the frequency of change in the register.
 
 We will consider adding details of what changed, if a strong need arises.
