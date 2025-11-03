@@ -42,7 +42,7 @@
   "dependencies": {
     "@11ty/eleventy": "3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
-    "@rollup/plugin-commonjs": "^28.0.9",
+    "@rollup/plugin-commonjs": "^29.0.0",
     "@rollup/plugin-node-resolve": "^16.0.3",
     "accessible-autocomplete": "^3.0.1",
     "govuk-frontend": "^5.13.0",
