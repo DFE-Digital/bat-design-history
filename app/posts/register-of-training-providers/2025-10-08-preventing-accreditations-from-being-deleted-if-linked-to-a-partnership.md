@@ -1,5 +1,5 @@
 ---
-title: Updating the ‘Delete accreditation’ flow
+title: Preventing accreditations from being deleted if linked to a partnership
 description: We prevent users from deleting an accreditation if it has been linked to a partnership
 date: 2025-10-08
 tags:
@@ -10,10 +10,10 @@ related:
   items:
     - text: Managing provider accreditations
       href: /register-of-training-providers/managing-provider-accreditations/
-    - text: Exploring how to include accreditation information when setting up partnerships
-      href: /register-of-training-providers/exploring-how-to-include-accreditation-information-when-setting-up-partnerships/
-    - text: Exploring how we log changes to provider partnership accreditations
-      href: /register-of-training-providers/exploring-how-we-log-changes-to-provider-partnership-accreditations/
+    - text: Linking partnerships with accreditations
+      href: /register-of-training-providers/linking-partnerships-with-accreditations/
+   - text: Logging changes to a partnership’s linked accreditations
+     href: /register-of-training-providers/logging-changes-to-a-partnerships-linked-accreditations/
 screenshots:
   items:
     - text: Cannot delete accreditation
