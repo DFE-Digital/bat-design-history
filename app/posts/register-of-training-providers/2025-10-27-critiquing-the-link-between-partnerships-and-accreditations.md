@@ -46,13 +46,13 @@ As part of the work, we:
 
 ## What we learned
 
-- Cognitive load at the point of entry – Requiring users to choose an accreditation first felt like an internal data concern surfacing in the user interface; participants feared mis-selection and incomplete tasks.
+Cognitive load at the point of entry – Requiring users to choose an accreditation first felt like an internal data concern surfacing in the user interface; participants feared mis-selection and incomplete tasks.
 
-- Messy real-world fit – Partnerships often span multiple programmes, such as initial teacher training (ITT), over time.
+Messy real-world fit – Partnerships often span multiple programmes, such as initial teacher training (ITT), over time.
 
-- Edge cases multiplied – Accreditations can change, end, or be revised. Tying partnerships tightly to them raised questions about reparenting, back-dating, and partial overlaps.
+Edge cases multiplied – Accreditations can change, end, or be revised. Tying partnerships tightly to them raised questions about reparenting, back-dating, and partial overlaps.
 
-- Limited near-term value downstream – Participants were unsure that the extra structure would unlock immediate wins in Publish, Find teacher training courses (Find) or Apply without further integration work.
+Limited near-term value downstream – Participants were unsure that the extra structure would unlock immediate wins in Publish, Find teacher training courses (Find) or Apply without further integration work.
 
 ## Decision
 
