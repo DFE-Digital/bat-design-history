@@ -15,17 +15,21 @@ related:
       href: /register-of-training-providers/logging-changes-to-a-partnerships-linked-accreditations/
     - text: Preventing accreditations from being deleted if linked to a partnership
       href: /register-of-training-providers/preventing-accreditations-from-being-deleted-if-linked-to-a-partnership/
+    - text: Running design critiques to improve the service
+      href: /register-of-training-providers/running-design-critiques-to-improve-the-service/
+    - text: Iterating the service following design critiques
+      href: /register-of-training-providers/iterating-the-service-following-design-critiques/
 ---
 
 Recently, we designed a system to link provider partnerships to accreditations.
 
-We did this work:
+We did this work to:
 
-- To trace a partnership back to a legal basis – We wanted to show the accreditation that legitimises a partnership and to make that link explicit in the data
+- trace a partnership back to a legal basis – We wanted to show the accreditation that legitimises a partnership and to make that link explicit in the data
 
-- To improve downstream data quality – Services like Publish teacher training courses (Publish) and Apply for teacher training (Apply) could, in theory, use the accreditation link to validate relationships
+- improve downstream data quality – Services like Publish teacher training courses (Publish) and Apply for teacher training (Apply) could, in theory, use the accreditation link to validate relationships
 
-- To reduce ambiguity in reports – We expected cleaner reporting on active partners per accreditation and better historical insights
+- reduce ambiguity in reports – We expected cleaner reporting on active partners per accreditation and better historical insights
 
 After completing the design phase, we conducted two design critiques to review the key user journeys and identify opportunities for improvement. These sessions provided us with valuable feedback on interaction patterns, content design, and service logic.
 
@@ -69,10 +73,13 @@ We will also explore how to associate partnerships with academic years to suppor
 
 ## Design principles we will follow
 
-- Keep the main task simple: record a partnership quickly with minimal required fields.
-- Make provenance additive: allow users to enrich records with years or references without blocking them.
-- Favour history over tight coupling: model time and revisions so the system tells a clear story without complex dependencies.
-- Protect data quality with guardrails: use validation, hints and checks instead of forcing complex structures.
+Keep the main task simple: record a partnership quickly with minimal required fields.
+
+Make provenance additive: allow users to enrich records with years or references without blocking them.
+
+Favour history over tight coupling: model time and revisions so the system tells a clear story without complex dependencies.
+
+Protect data quality with guardrails: use validation, hints and checks instead of forcing complex structures.
 
 ## What we will prototype next
 
