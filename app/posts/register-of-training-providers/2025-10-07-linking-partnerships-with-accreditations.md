@@ -100,9 +100,11 @@ We chose option 3.
 
 ## What we changed
 
-- Require users to select one or more accreditations held by the accredited provider when creating or editing a partnership
-- Allow multiple accreditations per partnership and preserve their start and end dates
-- Show the selected accreditations in the partnership view so users can see scope and timing
+We have made several changes, including:
+
+- requiring users to select one or more accreditations held by the accredited provider when creating or editing a partnership
+- allowing multiple accreditations per partnership and preserve their start and end dates
+- showing the selected accreditations in the partnership view so users can see scope and timing
 
 ## How it works
 
@@ -122,9 +124,9 @@ The summary card also includes ‘Change’ and ‘Delete’ links.
 
 Adding a partnership is a 3-step process:
 
-- Select a provider
-- Select linked accreditations
-- Check your answers
+- select a provider
+- select linked accreditations
+- check your answers
 
 Users can add a partnership via the accredited provider or the training partner. There are minor differences in wording across the flows, but the overall flow remains the same.
 
@@ -188,7 +190,10 @@ Users can delete a partnership at any time. We display a confirmation page befor
 
 ## Open questions
 
-- Does this approach to partnerships confuse users?
-- Do we need to pin the partnership to the exact accreditation version in force on the start date, or allow links to a superseding accreditation if the scope is unchanged?
-- Should we also require an academic year at partnership creation to simplify time-based queries?
-- What is the minimum set of accreditation attributes to surface in the register to reduce cognitive load while keeping the record useful?
+Does this approach to partnerships confuse users?
+
+Do we need to pin the partnership to the exact accreditation version in force on the start date, or allow links to a superseding accreditation if the scope is unchanged?
+
+Should we also require an academic year at partnership creation to simplify time-based queries?
+
+What is the minimum set of accreditation attributes to surface in the register to reduce cognitive load while keeping the record useful?
