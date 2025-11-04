@@ -56,7 +56,13 @@ We chose to require an explicit link to one or more accreditations held by the a
 
 ## Problem we are trying to solve
 
-Partnerships currently record the accredited provider and the training partner. They do not always show which accreditation the partnership operated under. This approach creates gaps when we need to explain why a provider could legally partner, how coverage has changed over time, and whether a partnership remains valid after an accreditation changes or ends.
+Partnerships currently record the accredited provider and the training partner. They do not always show which accreditation the partnership operated under.
+
+This approach creates gaps when we need to explain why:
+
+- a provider could legally partner with a training provider
+- how coverage has changed over time
+- whether a partnership remains valid after an accreditation changes or ends
 
 ## Why we did this
 
@@ -162,8 +168,8 @@ The question is required. If users do not select at least one accreditation, we 
 
 The final step is the ‘Check your answers’ page. We show a summary list containing the following:
 
-- accredited provider
-- training partner
+- accredited provider name
+- training partner name
 - linked accreditations
 
 Users can change the selected provider and the linked accreditations.
