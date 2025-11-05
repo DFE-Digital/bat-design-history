@@ -194,7 +194,7 @@ Others use the GOV.UK Design System [accordion component](https://design-system.
 
 - [Details](https://design-system.service.gov.uk/components/details/)
 - [Accordion](https://design-system.service.gov.uk/components/accordion/)
-- [Expander](https://service-manual.nhs.uk/design-system/components/expander)
+- [Expander - NHS Design System](https://service-manual.nhs.uk/design-system/components/expander)
 
 #### Forums and discussions
 
