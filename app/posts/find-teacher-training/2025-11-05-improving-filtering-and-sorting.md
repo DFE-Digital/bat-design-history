@@ -11,7 +11,6 @@ tags:
 > **Relates to:**
 > [Filterable Find postgraduate training courses (Find) concept](/find-teacher-training/filterable-find-concept/) - October 2022
 
-
 ## Context
 
 Research in January 2025 on [improving the ability to browse and search for courses](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-1-user-research/) revealed some usability issues with the filters on Find.
