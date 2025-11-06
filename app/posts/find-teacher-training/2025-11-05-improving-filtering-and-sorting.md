@@ -82,7 +82,7 @@ The first iteration closely referenced the GOV.UK search.
 
 However, as we have more search fields than GOV.UK, we were concerned that users would still not see the link to open the filters.
 
-<img alt="Screenshot of the find teacher training prototype with the solution for filters that references GOV.UK search." src="prototype-iteration-1.png" style="width:50%;">
+<img alt="Screenshot of the find teacher training prototype with the solution for filters that references GOV.UK search." src="prototype-iteration-1.png" class="govuk-!-width-one-half">
 
 ### Using data to drive decision-making
 
