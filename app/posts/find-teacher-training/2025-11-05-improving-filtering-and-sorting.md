@@ -124,7 +124,7 @@ We are also pulling together research from across government to help develop a c
 
 ---
 
-## Appendix – researching filters across government<a name="appendix-across-gov"></a>
+## Appendix – researching filters across government
 
 ### GOV.UK Design System
 
