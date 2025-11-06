@@ -112,7 +112,7 @@ We felt this would better allow users to see the link to open the filters, and m
 
 ## Final designs for testing
 
-<img alt="Screenshot of the results page of the prototype on mobile ready to be tested" src="prototype-design-mobile.png" style="width:50%;">
+<img alt="Screenshot of the results page of the prototype on mobile ready to be tested" src="prototype-design-mobile.png" class="govuk-!-width-one-half">
 
 ![Screenshot of the results page of the prototype on desktop ready to be tested.](prototype-design-desktop.png)
 
