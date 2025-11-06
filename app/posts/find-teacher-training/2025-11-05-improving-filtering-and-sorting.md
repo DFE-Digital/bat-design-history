@@ -92,7 +92,7 @@ We discovered that candidates change the search radius in only around 27% of sea
 
 From this data, we decided to reduce the prominence of the search radius and training provider options by moving them into the filters.
 
-<img alt="Screenshot of the search box of the live site with the fields for searching by training provider and search radius removed." src="prototype-search-box-after.png" style="width:50%;">
+<img alt="Screenshot of the search box of the live site with the fields for searching by training provider and search radius removed." src="prototype-search-box-after.png" class="govuk-!-width-one-half">
 
 We also reviewed the usage of the links to guidance on [Get Into Teaching](https://getintoteaching.education.gov.uk/).
 
