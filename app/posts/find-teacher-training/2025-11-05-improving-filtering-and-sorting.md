@@ -6,10 +6,12 @@ tags:
   - find
   - filters
   - filterable find
+related:
+  items:
+    - text: Filterable Find postgraduate training courses (Find) concept
+      description: October 2022
+      href: /find-teacher-training/filterable-find-concept/
 ---
-
-> **Relates to:**
-> [Filterable Find postgraduate training courses (Find) concept](/find-teacher-training/filterable-find-concept/) - October 2022
 
 ## Context
 
