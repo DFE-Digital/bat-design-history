@@ -15,7 +15,7 @@ related:
 
 ## Context
 
-Research in January 2025 on [improving the ability to browse and search for courses](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-1-user-research/) revealed some usability issues with the filters on Find.
+Research in January 2025 on [improving the ability to browse and search for courses](/find-teacher-training/improving-the-ability-to-browse-and-search-for-courses-round-1-user-research/) revealed some usability issues with the filters on Find teacher training courses (Find).
 
 ### 1. Seeing the ability to filter on mobile
 
