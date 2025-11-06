@@ -33,7 +33,7 @@ They thought users may miss this grey secondary action button for a few reasons,
 
 There were also usability issues with navigating the filters on Mobile, such as the panel overlaying page content, and not being clear on how to close the filter panel once opened.
 
-<img alt="Screenshot of the live site on a mobile with the filter panel open displaying the ways to filter courses." src="live-site-filters-panel.png" style="width:50%;">
+<img alt="Screenshot of the live site on a mobile with the filter panel open, displaying the ways to filter courses." src="live-site-filters-panel.png" class="govuk-!-width-one-half">
 
 ### 2. Seeing what filters have been selected
 
