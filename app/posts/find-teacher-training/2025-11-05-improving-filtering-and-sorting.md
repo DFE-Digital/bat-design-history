@@ -39,7 +39,7 @@ There were also usability issues with navigating the filters on Mobile, such as 
 
 In our research, there was an expectation for applied filter labels to be present, so that they could see what they had selected.
 
-Previous design work was done in 2022 on [exploring selected filter tags](https://becoming-a-teacher.design-history.education.gov.uk/find-teacher-training/exploring-selected-filter-tags/).
+Previous design work was done in 2022 on [exploring selected filter tags](/find-teacher-training/exploring-selected-filter-tags/).
 
 ![screenshot of a prototype with designs from October 2022 exploring how the team might incorporate selected fitler tags into the find teacher training courses website.](find-with-selected-filter-tags.png)
 
