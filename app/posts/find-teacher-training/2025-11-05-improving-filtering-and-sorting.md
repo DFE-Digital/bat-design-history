@@ -88,7 +88,7 @@ However, as we have more search fields than GOV.UK, we were concerned that users
 
 We discovered that candidates change the search radius in only around 27% of searches. We also found that only around 5% of searches are by training provider.
 
-<img alt="Screenshot of the search box of the live site with fields for searching by subject location, training provider, and options to change the search radius" src="prototype-search-box-before.png" style="width:50%;">
+<img alt="Screenshot of the search box of the live site with fields for searching by subject location, training provider, and options to change the search radius" src="prototype-search-box-before.png" class="govuk-!-width-one-half">
 
 From this data, we decided to reduce the prominence of the search radius and training provider options by moving them into the filters.
 
