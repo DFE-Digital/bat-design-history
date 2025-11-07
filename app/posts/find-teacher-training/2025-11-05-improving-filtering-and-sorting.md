@@ -45,7 +45,7 @@ Previous design work was done in 2022 on [exploring selected filter tags](/find-
 
 Implementing selected filter tags was found to be challenging at that time, because several filters were checked by default. This would mean there would be 5 selected filter tags on initial page load, which could cause confusion.
 
-Since then, we have iterating on the filters so that by default, none are selected.
+Since then, we have iterated on the filters so that by default, none are selected.
 
 The outcome of that work was:
 
