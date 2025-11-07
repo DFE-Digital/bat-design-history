@@ -151,7 +151,7 @@ In December 2024, GDS [made it quicker and easier to search on GOV.UK](https://i
 
 ### NHS Design System
 
-The NHS Design System doesn’t have a filter component, but they do have a [Filter a list discussion on GitHub](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/217). There are examples where filters are being used, such as the [NHS jobs website](https://www.jobs.nhs.uk/candidate/search/results?language=en) where they currently use a combination of input components with the [expander component](https://service-manual.nhs.uk/design-system/components/expander) to collapse filters into filter categories.
+The NHS Design System does not have a filter component, but they do have a [Filter a list discussion on GitHub](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/217). There are examples where filters are being used, such as the [NHS jobs website](https://www.jobs.nhs.uk/candidate/search/results?language=en) where they currently use a combination of input components with the [expander component](https://service-manual.nhs.uk/design-system/components/expander) to collapse filters into filter categories.
 
 <img alt="Screenshot of the NHS jobs website showing how their filter panel looks when open." src="across-gov-nhs.png" style="width:50%;">
 
