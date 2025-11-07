@@ -91,7 +91,6 @@ Additionally, On larger browsers such as desktop, sometimes they move to the rig
 
  <img alt="Screenshot of the Service Standard Reports website and how the active filters are postioned and styled on desktop." src="active-filters-ssr-2.png">
 
-
 ### 2. Accessing filters on mobile
 
 Currently, the position and style of the link used to access filters on a small browser such as mobile is different across services.
@@ -114,11 +113,9 @@ Some services use a bespoke chevron that changes direction with ARIA attributes 
 
 Others use the [GOV.UK Design System](https://design-system.service.gov.uk/) [accordion component](https://design-system.service.gov.uk/components/accordion/). The [accordion component was made more accessible](https://insidegovuk.blog.gov.uk/2021/10/29/how-we-made-the-gov-uk-accordion-component-more-accessible/) in 2021.
 
-
 | [GOV.UK](https://www.gov.uk/search/all?keywords=)    | [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPVNlYXJjaCZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJmNvbnRleHRpZD0xNTk2MTA3MzImcGFnZWFjdGlvbj1zZWFyY2hjb250ZXh0JnJlcXNpZz0xNzYyNTI3NDg4LTFhYmY3NDNkNjg2MDk2ZWE2NTk3NmQ5NDc5YjMwOTc0ZjU1NGJjMmM=) | [Find an apprenticeship](https://www.findapprenticeship.service.gov.uk/apprenticeships?sort=AgeAsc) |
 | -------- | ------- | ------- |
 | <img alt="Screenshot of the gov.uk filter categories." src="filter-categories-search.png"> | <img alt="Screenshot of the civil service jobs filter categories." src="filter-categories-jobs.png"> | <img alt="Screenshot of the Find an apprenticeship filter categories." src="filter-categories-apprenticeships.png"> |
-
 
 ## Next steps
 
