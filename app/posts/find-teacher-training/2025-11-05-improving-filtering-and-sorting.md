@@ -73,7 +73,9 @@ We decided to prioritise designing and testing on mobile devices. Data has shown
 
 ### Researching existing filters
 
+<!-- markdownlint-disable MD051 -->
 Currently, the [GOV.UK Design System](https://design-system.service.gov.uk/) does not have a filter component, so we researched filters across government to decide on the best solution to test. See the [appendix](#appendix-–-researching-filters-across-government) for more detail on this research.
+<!-- markdownlint-enable MD051 -->
 
 We decided to use [the GOV.UK search](https://www.gov.uk/search/all?keywords=) as our main reference, as work was done last December to [make it quicker and easier to search on GOV.UK](https://insidegovuk.blog.gov.uk/2024/12/12/making-it-quicker-and-easier-to-search-on-gov-uk/).
 
