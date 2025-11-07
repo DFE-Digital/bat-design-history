@@ -19,7 +19,7 @@ Research in January 2025 on [improving the ability to browse and search for cour
 
 ### 1. Seeing the ability to filter on mobile
 
-In our research, Candidates on mobile phones did not notice the ‘Show filters’ button until it was pointed out.
+In our research, candidates on mobile phones did not notice the ‘Show filters’ button until it was pointed out.
 
 <img alt="Screenshot of the live site on a mobile with a grey button to open a panel that displays ways to filter courses." src="live-site-filters-button.png" style="width:50%;">
 
