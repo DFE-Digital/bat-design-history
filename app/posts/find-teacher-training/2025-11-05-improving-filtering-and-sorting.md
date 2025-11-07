@@ -57,7 +57,8 @@ As we understand it, no further exploration has been done in the team.
 
 When starting this piece of work, we prioritised user needs to focus on.
 
-- I need to be able to:
+I need to be able to:
+
 - access filters
 - apply filters
 - see results once I have applied my filters
