@@ -99,7 +99,7 @@ We also reviewed the usage of the links to guidance on [Get Into Teaching](https
 
 ![Screenshot of the section of the search results page on the live site with links to guidance pages on the Get Into Teaching website](git-links-live.png)
 
-We found [how to choose a course](https://getintoteaching.education.gov.uk/train-to-be-a-teacher/how-to-choose-your-teacher-training-course) is clicked on around 150 times a day (which is around 4% of users on Find). The second and third links were only clicked on around 10 times a day. So, we decided to remove the two links which weren’t used often.
+We found [how to choose a course](https://getintoteaching.education.gov.uk/train-to-be-a-teacher/how-to-choose-your-teacher-training-course) is clicked on around 150 times a day (which is around 4% of users on Find). The second and third links were only clicked on around 10 times a day. So, we decided to remove the two links which were not used often.
 
 <img alt="Screenshot of the section of the search results page on the protoype with one link to a guidance page on the Get Into Teaching website." src="git-links-prototype.png" class="govuk-!-width-one-half">
 
