@@ -47,7 +47,7 @@ Further education screens are probably out of scope for MVP.
 ## Summary
 
 | Screen | Notes | Priority | Complexity | Always editable |
-|-|-|-|-|-|
+| --- | --- | --- | --- | --- |
 | [Level and SEND](#level-and-send) | Level has a significant effect, rarely changed | Low | High | No |
 | [Subject](#subject) | Also affects languages and title | High | High | No |
 | [Languages](#languages) | Only used by secondary languages courses but can be set badly. Might effect title. | Low | Medium | Maybe |

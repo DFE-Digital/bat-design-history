@@ -83,8 +83,8 @@ There are several inconsistencies with the style and position of elements within
 
 **Active filters** - Active filters are sometimes positioned at the top of the filters, and other times they are at the bottom. There is also a variation in how they are styled.
 
-| [GOV.UK](https://www.gov.uk/search/all?keywords=)    | [Service Standard Reports](https://www.gov.uk/service-standard-reports?) | [Find an apprenticeship](https://www.findapprenticeship.service.gov.uk/apprenticeships?sort=AgeAsc) |
-| -------- | ------- | ------- |
+| [GOV.UK](https://www.gov.uk/search/all?keywords=) | [Service Standard Reports](https://www.gov.uk/service-standard-reports?) | [Find an apprenticeship](https://www.findapprenticeship.service.gov.uk/apprenticeships?sort=AgeAsc) |
+| --- | --- | --- |
 | <img alt="Screenshot of the gov.uk website and how the active filters are postioned and styled on mobile." src="active-filters-search.png"> | <img alt="Screenshot of the Service Standard Reports website and how the active filters are postioned and styled on mobile." src="active-filters-ssr-1.png"> | <img alt="Screenshot of the Find an apprenticeship website and how the active filters are postioned and styled on mobile." src="active-filters-apprenticeship.png"> |
 
 Additionally, On larger browsers such as desktop, sometimes they move to the right hand side above the list of results.
@@ -99,8 +99,8 @@ Some services display a link with a bespoke chevron that changes direction with 
 
 Others display a bold link or a grey button. However, we know from research that the grey button is not easily seen by users.
 
-| [GOV.UK](https://www.gov.uk/search/all?keywords=)    | [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPVNlYXJjaCZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJmNvbnRleHRpZD0xNTk2MTA3MzImcGFnZWFjdGlvbj1zZWFyY2hjb250ZXh0JnJlcXNpZz0xNzYyNTI3NDg4LTFhYmY3NDNkNjg2MDk2ZWE2NTk3NmQ5NDc5YjMwOTc0ZjU1NGJjMmM=) | [Teaching vacancies](https://teaching-vacancies.service.gov.uk/jobs?keyword=&location=) |
-| -------- | ------- | ------- |
+| [GOV.UK](https://www.gov.uk/search/all?keywords=) | [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPVNlYXJjaCZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJmNvbnRleHRpZD0xNTk2MTA3MzImcGFnZWFjdGlvbj1zZWFyY2hjb250ZXh0JnJlcXNpZz0xNzYyNTI3NDg4LTFhYmY3NDNkNjg2MDk2ZWE2NTk3NmQ5NDc5YjMwOTc0ZjU1NGJjMmM=) | [Teaching vacancies](https://teaching-vacancies.service.gov.uk/jobs?keyword=&location=) |
+| --- | --- | --- |
 | <img alt="Screenshot of the gov.uk website and how the filters are accessed on mobile." src="accessing-filters-search.png"> | <img alt="Screenshot of the Civil Service Jobs website and how the filters are accessed on mobile." src="accessing-filters-jobs.png"> | <img alt="Screenshot of the teaching vacancies website and how the filters are accessed on mobile." src="accessing-filters-teaching.png"> |
 
 ### 3. Filter categories
@@ -113,8 +113,8 @@ Some services use a bespoke chevron that changes direction with ARIA attributes 
 
 Others use the [GOV.UK Design System](https://design-system.service.gov.uk/) [accordion component](https://design-system.service.gov.uk/components/accordion/). The [accordion component was made more accessible](https://insidegovuk.blog.gov.uk/2021/10/29/how-we-made-the-gov-uk-accordion-component-more-accessible/) in 2021.
 
-| [GOV.UK](https://www.gov.uk/search/all?keywords=)    | [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPVNlYXJjaCZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJmNvbnRleHRpZD0xNTk2MTA3MzImcGFnZWFjdGlvbj1zZWFyY2hjb250ZXh0JnJlcXNpZz0xNzYyNTI3NDg4LTFhYmY3NDNkNjg2MDk2ZWE2NTk3NmQ5NDc5YjMwOTc0ZjU1NGJjMmM=) | [Find an apprenticeship](https://www.findapprenticeship.service.gov.uk/apprenticeships?sort=AgeAsc) |
-| -------- | ------- | ------- |
+| [GOV.UK](https://www.gov.uk/search/all?keywords=) | [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPVNlYXJjaCZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJmNvbnRleHRpZD0xNTk2MTA3MzImcGFnZWFjdGlvbj1zZWFyY2hjb250ZXh0JnJlcXNpZz0xNzYyNTI3NDg4LTFhYmY3NDNkNjg2MDk2ZWE2NTk3NmQ5NDc5YjMwOTc0ZjU1NGJjMmM=) | [Find an apprenticeship](https://www.findapprenticeship.service.gov.uk/apprenticeships?sort=AgeAsc) |
+| --- | --- | --- |
 | <img alt="Screenshot of the gov.uk filter categories." src="filter-categories-search.png"> | <img alt="Screenshot of the civil service jobs filter categories." src="filter-categories-jobs.png"> | <img alt="Screenshot of the Find an apprenticeship filter categories." src="filter-categories-apprenticeships.png"> |
 
 ## Next steps

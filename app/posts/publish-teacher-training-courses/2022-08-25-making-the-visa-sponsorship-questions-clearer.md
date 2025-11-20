@@ -124,7 +124,7 @@ If the HEI has answered ‘No’ to the visa questions in ‘Organisation detail
 ‘Learn more about [recruiting trainee teachers from overseas](https://www.gov.uk/guidance/recruit-trainee-teachers-from-overseas-accredited-itt-providers).’
 
 | Provider type | Teaching apprenticeship | Visa sponsorship | Show learn more link? |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | HEI | Yes | No - Skilled Worker | Yes |
 | HEI | No | No - Student | Yes |
 | HEI | Yes | Yes - Skilled Worker | No |

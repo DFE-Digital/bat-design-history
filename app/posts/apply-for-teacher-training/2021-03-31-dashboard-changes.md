@@ -86,35 +86,35 @@ We added each state to the prototype to make it easier to iterate the design and
 
 | Application status | Candidate next steps |
 | --- | --- |
-|Awaiting decision from provider|Wait for a decision|
-|Interview scheduled in future|Attend interview / contact teacher training adviser to help prepare.|
-|After interview, still awaiting decision|Wait for decision|
-|Received an offer with conditions|Respond to offer|
-|Received an offer for a different course|Respond to offer|
-|Received an offer from a course from a different provider|Respond to offer|
-|Unsuccessful - provider has given feedback|Apply again|
-|Unsuccessful - course was full|Apply again|
-|Unsuccessful - provider did not respond in time|Apply again|
-|Candidate withdrew application|Apply again|
-|Offer withdrawn by provider|Apply again|
-|Accepted (pending conditions)|Meet conditions|
-|Declined|Apply again|
-|Deferred|Meet conditions before deferral start date|
-|Candidate did not respond to offer in time|Apply again|
-|Candidate did not meet offer conditions|Apply again|
-|Candidate recruited|No nudges given|
+| Awaiting decision from provider | Wait for a decision |
+| Interview scheduled in future | Attend interview / contact teacher training adviser to helpprepare. |
+| After interview, still awaiting decision | Wait for decision |
+| Received an offer with conditions | Respond to offer |
+| Received an offer for a different course | Respond to offer |
+| Received an offer from a course from a different provider | Respond to offer |
+| Unsuccessful - provider has given feedback | Apply again |
+| Unsuccessful - course was full | Apply again |
+| Unsuccessful - provider did not respond in time | Apply again |
+| Candidate withdrew application | Apply again |
+| Offer withdrawn by provider | Apply again |
+| Accepted (pending conditions) | Meet conditions |
+| Declined | Apply again |
+| Deferred | Meet conditions before deferral start date |
+| Candidate did not respond to offer in time | Apply again |
+| Candidate did not meet offer conditions | Apply again |
+| Candidate recruited | No nudges given |
 
 #### Applications for multiple courses
 
 | Application status | Candidate next steps |
 | --- | --- |
-|Awaiting decisions from all providers|Wait for a decision|
-|Interviewing|Attend interview / contact teacher training adviser to help prepare.|
-|One offer received, still awaiting one more provider decision|Wait for all decisions to be made|
-|Two rejections received, still awaiting third provider decision|Wait for all decisions to be made|
-|Received one offer|Respond to offer|
-|Received two offers|Respond to offer|
-|Ended without success|Apply again|
-|Accepted offer, pending conditions|Meet conditions|
-|Offer deferred|Meet conditions before deferral start date|
-|Recruited|No nudges given|
+| Awaiting decisions from all providers | Wait for a decision |
+| Interviewing | Attend interview / contact teacher training adviser to help prepare. |
+| One offer received, still awaiting one more provider decision | Wait for all decisions to bemade |
+| Two rejections received, still awaiting third provider decision | Wait for all decisions to bemade |
+| Received one offer | Respond to offer |
+| Received two offers | Respond to offer |
+| Ended without success | Apply again |
+| Accepted offer, pending conditions | Meet conditions |
+| Offer deferred | Meet conditions before deferral start date |
+| Recruited | No nudges given |

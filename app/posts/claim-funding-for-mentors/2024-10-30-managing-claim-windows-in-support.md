@@ -68,20 +68,20 @@ If we re-opened the claim window in September 2024, we needed to identify whethe
 
 Academic years are determined by the course start date.
 
-|If the course starts between:|The academic year is:|
+| If the course starts between: | The academic year is: |
 | --- | --- |
-|1 August 2024 to 31 July 2025|2024 to 2025|
-|1 August 2023 to 31 July 2024|2023 to 2024|
-|1 August 2022 to 31 July 2023|2022 to 2023|
+| 1 August 2024 to 31 July 2025 | 2024 to 2025 |
+| 1 August 2023 to 31 July 2024 | 2023 to 2024 |
+| 1 August 2022 to 31 July 2023 | 2022 to 2023 |
 
 For most students, each academic year runs from 1 September to 31 August, but there are 4 official start dates in each academic year, each lasting 12 months.
 
-|If the course starts between:|The academic year will run from:|
+| If the course starts between: | The academic year will run from: |
 | --- | --- |
-|1 August and 31 December|1 September to 31 August|
-|1 January and 31 March|1 January to 31 December|
-|1 April and 30 June|1 April to 31 March|
-|1 July and 31 July|1 July to 30 June|
+| 1 August and 31 December | 1 September to 31 August |
+| 1 January and 31 March | 1 January to 31 December |
+| 1 April and 30 June | 1 April to 31 March |
+| 1 July and 31 July | 1 July to 30 June |
 
 For postgraduate teaching apprenticeships (PGTA), the academic year may start as early as 1 June.
 

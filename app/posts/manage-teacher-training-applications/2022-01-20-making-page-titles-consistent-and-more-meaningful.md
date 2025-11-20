@@ -27,7 +27,7 @@ The title will now be made up of the following parts separated by hyphens:
 ## Examples
 
 | Heading | Caption | Title |
-|------------|----------|----------|
+| --- | --- | --- |
 | Conditions of offer | Make offer - Jennifer Walters | Conditions of offer - Make offer - Jennifer Walters - Manage teacher training applications - GOV.UK |
 | Check details and set up interview | Set up interview - Patricia Octavius | Check details and set up interview - Set up interview - Patricia Octavius - Manage teacher training applications - GOV.UK |
 | User permissions | Update user permissions - Jane Smith - Wren Academy | User permissions - Update user permissions - Jane Smith - Wren Academy - Manage teacher training applications - GOV.UK |
