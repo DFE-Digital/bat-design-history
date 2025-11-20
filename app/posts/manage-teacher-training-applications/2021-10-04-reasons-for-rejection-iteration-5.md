@@ -89,7 +89,7 @@ We looked at how often each reason was used to reject an application between Jan
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
 | --- | --- | --- |
-| No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.6% <br> 104 out of 4045 | 12.5% <br>104 out of 833  |
+| No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.6% <br> 104 out of 4045 | 12.5% <br>104 out of 833 |
 | No Maths GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.1% <br> 86 out of 4045 | 10.3% <br>86 out of 833 |
 | No Science GCSE grade 4 &#40;C&#41; or above, or valid equivalent (for primary applicants) | 0.9% <br> 36 out of 4045 | 4.3% <br>36 out of 833 |
 | No degree | 0.9% <br> 37 out of 4045 | 4.4% <br>37 out of 833 |
