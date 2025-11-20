@@ -37,8 +37,8 @@ The 6 areas can further be categorised into 2 medium-risk and 4 low-risk finding
 
 The following security headers were identified as being missing in responses returned by the application:
 
-> | HTTP Header             | Header purpose |
-> | ----------------------- | -------------- |
+> | HTTP Header | Header purpose |
+> | --- | --- |
 > | Content-Security-Policy | The Content Security Policy (“CSP”) header defines content sources that are trusted and approved by the browser to load specific resources such as scripts. The header also defines how loaded resources may behave. The header assists in defending against cross-site scripting (“XSS”) and other code execution attacks. |
 
 #### Resolution
@@ -58,7 +58,7 @@ We have set the ‘Secure flag’ on the cookie to ensure it is only sent over H
 The TLS/SSL configuration on the hosts indicated below was found to be misconfigured. Due to the identified TLS/SSL configuration vulnerabilities varying in the severity of the risks they expose, this finding has been issued to highlight the significance of the most serious vulnerability identified. The following issues were identified:
 
 > | TLS/SSL Issue | Issue Description |
-> | ------------- | ----------------- |
+> | --- | --- |
 > | Weak- or Medium-Strength Ciphers Supported | A cipher suite is a combination of authentication, encryption and message authentication code (MAC) algorithms. They are used to negotiate the security settings for an encrypted data transfer in addition to the transfer of data itself. Utilising weaker cipher suites increases the risk of an attacker being able to retrieve clear text information from an encrypted conversation. |
 > | CBC Cipher Vulnerable to Cryptographic Timing Attack (LUCKY 13) | A timing side-channel attack against the message authentication code (MAC) check used by TLS algorithm may permit a suitably positioned attacker to retrieve the plaintext of the communication, subject to certain limitations. |
 

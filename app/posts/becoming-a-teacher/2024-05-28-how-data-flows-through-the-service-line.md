@@ -93,7 +93,7 @@ Some relationships are defined within data entities, for example:
 
 | API | Read/write | Public/private | Documentation |
 | --- | --- | --- | --- |
-| Apply for teacher training| Read and write | Private | [Apply API docs](https://www.apply-for-teacher-training.service.gov.uk/api-docs) |
+| Apply for teacher training | Read and write | Private | [Apply API docs](https://www.apply-for-teacher-training.service.gov.uk/api-docs) |
 | Publish teacher training courses | Read only | Public | [Publish API docs](https://api.publish-teacher-training-courses.service.gov.uk/docs/) |
 
 At the time of writing, [Register has an API in development](https://sandbox.register-trainee-teachers.service.gov.uk/api-docs).

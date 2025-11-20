@@ -10,6 +10,6 @@ In this round we tested the [private beta as launched](/find-teacher-training/pr
 
 ![Screenshot of a wider default search radius, increasing from 5 to 20 miles.](01-search-by-location.png "Trial a wider default search radius, increasing from 5 to 20 miles")
 
-### Result
+## Result
 
 Users who did not interact with the radius found and compared more results. While users who expressed a desire to see results within a closer area were seen to switch to 5 miles.

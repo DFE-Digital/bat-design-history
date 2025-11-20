@@ -47,7 +47,7 @@ Further education screens are probably out of scope for MVP.
 ## Summary
 
 | Screen | Notes | Priority | Complexity | Always editable |
-|-|-|-|-|-|
+| --- | --- | --- | --- | --- |
 | [Level and SEND](#level-and-send) | Level has a significant effect, rarely changed | Low | High | No |
 | [Subject](#subject) | Also affects languages and title | High | High | No |
 | [Languages](#languages) | Only used by secondary languages courses but can be set badly. Might effect title. | Low | Medium | Maybe |
@@ -55,7 +55,7 @@ Further education screens are probably out of scope for MVP.
 | [Outcome](#outcome) | Inferred from UCAS, this has often been wrong | High | Low | Maybe |
 | [Fee or salary](#fee-or-salary) | Changes the enrichment fields shown (eg fee fields vs salary fields) | Low | High | No |
 | [Apprenticeship](#apprenticeship) | This will also affect fee and salary enrichment fields (apprenticeships are salaried). Some existing apprenticeships might not use the right route. | Low | High | No |
-| [Full time or part&nbsp;time](#full-time-or-part-time) | Changes can affect locations (eg some locations may not offer part time)  | Medium | Medium | Yes |
+| [Full time or part&nbsp;time](#full-time-or-part-time) | Changes can affect locations (eg some locations may not offer part time) | Medium | Medium | Yes |
 | [Locations](#locations) | Schools are added and removed in cycle. For courses which are both full or part time, each location must indicate which type of vacancies it offers (full, part, both). | High | Medium | Yes |
 | [Accredited body](#accredited-body) | Only affects school direct providers | Low | Low | No |
 | [Applications open](#applications-open) | Most relevant when creating a course. Shows different values depending on current cycle vs next cycle | Low | Medium | No |

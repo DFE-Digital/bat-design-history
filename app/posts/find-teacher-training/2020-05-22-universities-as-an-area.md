@@ -65,7 +65,7 @@ We researched with:
 ### Numbers of placement schools
 
 | University | Placement schools |
-|-|-|
+| --- | --- |
 | Bishop Grosseteste University | 400+ |
 | Oxford Brookes University | 500 |
 | Oxford University | 39 |

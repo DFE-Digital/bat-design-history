@@ -22,16 +22,16 @@ Examples of the ways that degree type was entered:
 
 | Degree type entered | Count |
 | --- | --- |
-|Bachelor of Arts|25,280|
-|BA|1,586|
-|Bachelor of Arts (Honours)|31|
-|Bachelor of Arts (Hons)|33|
-|Bachelor of Arts with Honours|123|
-|BA English|20|
-|BA/Education|1,723|
-|History|12|
-|BA History|13|
-|BA French|7|
+| Bachelor of Arts | 25,280 |
+| BA | 1,586 |
+| Bachelor of Arts (Honours) | 31 |
+| Bachelor of Arts (Hons) | 33 |
+| Bachelor of Arts with Honours | 123 |
+| BA English | 20 |
+| BA/Education | 1,723 |
+| History | 12 |
+| BA History | 13 |
+| BA French | 7 |
 
 To resolve this issue, we changed the order of the questions and made degree type easier to select.
 

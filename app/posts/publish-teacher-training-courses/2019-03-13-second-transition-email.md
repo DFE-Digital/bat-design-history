@@ -8,6 +8,8 @@ tags:
   - transition
 ---
 
+<!-- markdownlint-disable MD001 -->
+
 {% set emailContent %}
 Dear colleague,
 
@@ -42,3 +44,5 @@ Becoming a Teacher team
   subject: "Changes to Publish teacher training courses – process for April",
   content: emailContent
 }) }}
+
+<!-- markdownlint-enable MD001 -->

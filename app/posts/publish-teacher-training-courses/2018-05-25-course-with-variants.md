@@ -31,7 +31,7 @@ Exploration of a course page with fields to capture variants of a course and the
 
 Based on UCAS course descriptions it’s often unclear how courses vary between qualification, funding, subject and accrediting provider – use fields on a course page to prompt providers to indicate these differences, helping candidates make an informed choice.
 
-### Qualification variants
+## Qualification variants
 
 Providers set up courses with the following qualifications in UCAS:
 

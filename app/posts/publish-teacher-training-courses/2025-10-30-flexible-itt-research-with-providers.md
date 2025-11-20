@@ -48,7 +48,7 @@ Their roles were as follows:
 | 3 | Director of SCITT |
 | 4 | ITT co-ordinator |
 | 5 | ITT Director |
-| 6 | Recruitment co-ordinator|
+| 6 | Recruitment co-ordinator |
 
 ## Methodology
 

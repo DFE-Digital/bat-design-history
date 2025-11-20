@@ -6,6 +6,8 @@ tags:
   - vacancies
 ---
 
+<!-- markdownlint-disable MD001 -->
+
 {% from "email/macro.njk" import appEmail %}
 {% from "embed/macro.njk" import appEmbed %}
 
@@ -45,3 +47,5 @@ Guidance video:
 Guidance page with video:
 
 ![Guidance page with video.](guidance-for-publish-teacher-training-courses.png "")
+
+<!-- markdownlint-enable MD001 -->

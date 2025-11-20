@@ -14,7 +14,7 @@ Previously, we added the mentor’s date of birth to the ‘Add mentor’ flow t
 
 We needed to reflect this on the start page so that users know what the service needs.
 
-### What we changed
+## What we changed
 
 We added an extra bullet point to the ‘Before you start’ section. The section now states:
 
