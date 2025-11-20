@@ -20,11 +20,11 @@ To adhere to [The Privacy and Electronic Communications (EC Directive) Regulatio
 
 We were meeting requirement 1 and 2 but failed to ask users for their consent before storing cookies on their device. Some cookies are needed by Google Analytics to track users through the service. Users have to consent to these cookies before we can start tracking them.
 
-### Technical implementation
+## Technical implementation
 
 [4 Pull Requests showing implementation and code](https://github.com/DFE-Digital/find-teacher-training/issues?q=label%3Acookie-banner-consent+is%3Aclosed)
 
-#### Cookie banner
+### Cookie banner
 
 The cookie banner is hidden by default using css. It does use a small amount of JavaScript to determine whether or not to show or hide the banner depending on whether or not the user has set their preference.
 
@@ -36,6 +36,6 @@ If the user decides to accept the cookies then the following events happen:
 2. Installs Google Analytics/Google Tag Manager.
 3. Enables event tracking on the page
 
-#### Cookie policy page form
+### Cookie policy page form
 
 There are various ways to implement this form. For example [GOV.UK Notify](https://www.notifications.service.gov.uk/cookies) uses JavaScript to set the radio buttons options and to show/hide any validation errors or success messages. We did not take this approach because it would need a lot of additional coding to make it accessible. We also discovered as a result of implementing it as a traditional form that submits data to the server, we would be able to report on the number of users who actively reject cookies by looking at the server logs.

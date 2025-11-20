@@ -55,11 +55,11 @@ We need to change the column title on the courses table and the corresponding se
 The question becomes: Will it be on Find?
 
 | State | Cycle | Find title | Course value |
-|-|-|-|-|
-|<span class="govuk-tag" style="background-color: #00703c">Published</span>| Current | Is it on Find? | [Yes – view online](#main-content) |
-|<span class="govuk-tag" style="background-color: #00703c">Published</span>| Next | Will it be on Find? | Yes – in October |
-|<span class="govuk-tag" style="background-color: #f47738">Draft</span>| Current | Is it on Find? | No – still in draft |
-|<span class="govuk-tag" style="background-color: #f47738">Draft</span>| Next | Will it be on Find? | No – still in draft |
+| --- | --- | --- | --- |
+| <span class="govuk-tag" style="background-color: #00703c">Published</span> | Current | Is it on Find? | [Yes – view online](#main-content) |
+| <span class="govuk-tag" style="background-color: #00703c">Published</span> | Next | Will it be on Find? | Yes – in October |
+| <span class="govuk-tag" style="background-color: #f47738">Draft</span> | Current | Is it on Find? | No – still in draft |
+| <span class="govuk-tag" style="background-color: #f47738">Draft</span> | Next | Will it be on Find? | No – still in draft |
 
 Only the text for a Published course needs to change in the Find? column.
 

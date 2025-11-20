@@ -17,7 +17,7 @@ We [made some recent changes](/publish-teacher-training-courses/pending-gcses-eq
 
 To be able to show this guidance, we needed to make some changes to how we collect information about GCSEs. That way we'd know if someone is currently studying for a GCSE, or if they need to take an equivalency test.
 
-### Changes to GCSE flow
+## Changes to GCSE flow
 
 The previous design asked candidates to “Add [subject] GCSE grade 4 (C&#8203;) or above, or equivalent”, with an option for “I don’t have this qualification yet”:
 
@@ -50,7 +50,7 @@ The page also:
 
 ![Screenshot of other evidence question.](other-evidence.png "Other evidence question")
 
-### Guidance on the Course choices review page
+## Guidance on the course choices review page
 
 If a candidate does not have the right GCSE grades, an extra row will appear in the course choice summary box. The summary will say if the provider accepts pending GCSEs or equivalency tests.
 

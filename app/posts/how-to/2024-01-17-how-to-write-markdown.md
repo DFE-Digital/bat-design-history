@@ -342,8 +342,8 @@ To add a table, use three or more hyphens (`---`) to create each column’s head
 | Elbrus | 5,642 meters | Europe | 1874 |
 | Everest | 8,850 meters | Asia | 1953 |
 | Kilimanjaro | 5,895 meters | Africa | 1889 |
-| Puncak Jaya  | 4,884 meters | Australia | 1962 |
-| Vinson  | 4,897 meters | Antarctica | 1966 |
+| Puncak Jaya | 4,884 meters | Australia | 1962 |
+| Vinson | 4,897 meters | Antarctica | 1966 |
 ```
 
 The output looks like this:
@@ -355,8 +355,8 @@ The output looks like this:
 | Elbrus | 5,642 meters | Europe | 1874 |
 | Everest | 8,850 meters | Asia | 1953 |
 | Kilimanjaro | 5,895 meters | Africa | 1889 |
-| Puncak Jaya  | 4,884 meters | Australia | 1962 |
-| Vinson  | 4,897 meters | Antarctica | 1966 |
+| Puncak Jaya | 4,884 meters | Australia | 1962 |
+| Vinson | 4,897 meters | Antarctica | 1966 |
 
 ### Alignment
 
@@ -370,8 +370,8 @@ You can align text in the columns to the left, right, or centre by adding a colo
 | Elbrus | 5,642 | Europe | 1874 |
 | Everest | 8,850 | Asia | 1953 |
 | Kilimanjaro | 5,895 | Africa | 1889 |
-| Puncak Jaya  | 4,884 | Australia | 1962 |
-| Vinson  | 4,897 | Antarctica | 1966 |
+| Puncak Jaya | 4,884 | Australia | 1962 |
+| Vinson | 4,897 | Antarctica | 1966 |
 ```
 
 The output looks like this:
@@ -383,8 +383,8 @@ The output looks like this:
 | Elbrus | 5,642 | Europe | 1874 |
 | Everest | 8,850 | Asia | 1953 |
 | Kilimanjaro | 5,895 | Africa | 1889 |
-| Puncak Jaya  | 4,884 | Australia | 1962 |
-| Vinson  | 4,897 | Antarctica | 1966 |
+| Puncak Jaya | 4,884 | Australia | 1962 |
+| Vinson | 4,897 | Antarctica | 1966 |
 
 ### Table best practice
 

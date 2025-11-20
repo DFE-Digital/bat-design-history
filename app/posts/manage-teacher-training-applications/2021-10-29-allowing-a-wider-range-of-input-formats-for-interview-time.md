@@ -55,7 +55,7 @@ Out of the 269 errors due to the format not being accepted:
 While most users get an error only once, many get an error multiple times.
 
 | Number of errors | Number of users |
-|------------|----------|
+| --- | --- |
 | 1 | 102 |
 | 2 | 46 |
 | 3 | 26 |
@@ -107,7 +107,7 @@ These examples help to explain the rules we’ll follow. They do not include eve
 ### Examples of acceptable time formats
 
 | Input | Output | Why we accept this input |
-|------------|----------|----------|
+| --- | --- | --- |
 | `05:15` | `5:15am` | 24 hour format |
 | `0515` | `5:15am` | 24 hour format, no separator |
 | `05.15` | `5:15am` | 24 hour format |
@@ -138,7 +138,7 @@ These examples help to explain the rules we’ll follow. They do not include eve
 ### Examples of unacceptable time formats
 
 | Input | Why we do not accept this input |
-|------------|----------|
+| --- | --- |
 | `0` | Not 12 hour or 24 hour format |
 | `0am` | Not 12 hour or 24 hour format |
 | `00am` | Not 12 hour or 24 hour format |

@@ -21,12 +21,12 @@ This relates to minimum grades for Maths, English and Science – grades A- to C
 
 Depending on the qualification selected in the Education section of apply and the course selected in the Choices section (and that course’s specific course requirements), applicants will get different warnings in the ‘Check form’ section:
 
-|| 1: Must have | 2: Taking | 3: Equivalency test | 9: do not care |
+| | 1: Must have | 2: Taking | 3: Equivalency test | 9: do not care |
 | --- | --- | --- | --- | --- |
-|A* – C|No alert|No alert|No alert|No alert|
-|Pending|Alert|No alert|No alert|No alert|
-|Equivalence test|Alert|Alert|No alert|No alert|
-|D – G|Alert|Alert|Alert|No alert|
+| A* – C | No alert | No alert | No alert | No alert |
+| Pending | Alert | No alert | No alert | No alert |
+| Equivalence test | Alert | Alert | No alert | No alert |
+| D – G | Alert | Alert | Alert | No alert |
 
 ### 1: Must have
 

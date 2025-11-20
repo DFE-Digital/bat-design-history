@@ -13,11 +13,11 @@ In order to test these, we decided to create seperate candidate and provider fac
 
 This format allowed us to focus on the questions we wanted to ask and guidance we needed to provide, without getting distracted by any concerns around interactivity and user journeys. It also made it easier for members of the team to collaborate on the design.
 
-### Testing our hypotheses
+## Testing our hypotheses
 
 After several rounds of testing with providers we concluded that, while we were able to simplify and change certain aspects of the application form, we should maintain the requirement for references. While not necessary for meeting safeguarding requirements (except possibly the case where a candidate is applying for a school-based course), for a number of providers, references remain an important part of the application process.
 
-### Towards a concierged service pilot
+## Towards a concierged service pilot
 
 Having testing these hypotheses, we’re continuing to iterate these paper-based forms prior to the start of a ‘concierged’ service pilot, including more testing with candidates. We plan to use these forms to gather information from the initial batch of candidates we take through this hand-held process, and to present applicant information to our chosen provider.
 
@@ -25,11 +25,11 @@ Having testing these hypotheses, we’re continuing to iterate these paper-based
 
 Originally created with the intent to collect data from friends/colleagues which we could use to populate a separate provider-facing form, we later realised we could use previously submitted (although somewhat massaged and anonymised) applicant data instead. However, we continued to iterate on this version of the form, and used it to inform the design of the provider-facing version.
 
-### First iteration
+## First iteration
 
 [View first iteration of the candidate-facing form](https://docs.google.com/document/d/1C29p45w2wrYhCrToykpag5JxKXX2jv9iuUH5_9LTBgo)
 
-#### Questions
+### Questions
 
 Previous analysis looked at the questions asked on the existing UCAS application service, and decided which were still relevant or necessary. Based on this data, we made the following changes:
 
@@ -46,17 +46,17 @@ Previous analysis looked at the questions asked on the existing UCAS application
 
 - Added a question to allow applicants to provide any other additional information, including special needs or disabilities.
 
-#### Visual design
+### Visual design
 
 - 11 pages long.
 
-### Second iteration
+## Second iteration
 
 This iteration was focused on helping providers better assess candidates with more complex backgrounds, adding questions that addressed issues such as residency status, international qualifications and equivalencies.
 
 [View second iteration of the candidate-facing form](https://docs.google.com/document/d/1ikDTRO1k8Hik_X3MncYLN0H6T16JWHKKXNo_FCLzfjo)
 
-#### Questions
+### Questions
 
 - Having split up the personal statement into specific questions, we realised these mapped quite well to different sections of the form. So these questions were moved to their respective sections, essentially providing a free-text area for candidates to provide additional relevant detail, specific to each set of questions.
 
@@ -69,18 +69,18 @@ Asked candidates to provide the dates which they took their literacy and numerac
 
 - Asked candidates about transferable skills gained during employment, rather than provide a drawn out job description.
 
-#### Visual design
+### Visual design
 
 - Gave greater consistency to areas of guidance, adding a grey background to such content.
 - 15 pages long.
 
-### Third iteration
+## Third iteration
 
 This iteration was focused on improving the guidance (based on insights gained during provider testing and after meeting with TTAs) and preparing the form for use in the concierge service pilot. This form was then shown to candidates at a Get Into Teaching event in Guilford.
 
 [View third iteration of the candidate-facing form](https://docs.google.com/document/d/1E0NBHKby3K6WbH1QjH18wD_wY-CnKkJeSBghSe9bgz0)
 
-#### Questions
+### Questions
 
 - Added a new section to gather details of two referees.
 - Removed question regarding declaring criminal convictions.
@@ -91,13 +91,13 @@ This iteration was focused on improving the guidance (based on insights gained d
   - understand that providers will conduct a Disclosure and Barring Service check.
   - agree to the terms and conditions of the service.
 
-#### Content design
+### Content design
 
 - Updated introduction page with specific instructions and information regarding the concierge service.
 - Added draft guidance on how to complete the motivation statement.
 - Added draft guidance regarding references.
 
-#### Visual design
+### Visual design
 
 - Increased the border for text fields.
 - Varied with of text fields to better indicate length of answer required.

@@ -73,7 +73,7 @@ We looked at how often each reason was used to reject an application between Jan
 ### Categories
 
 | Category | Percentage of all rejections |
-|------------|----------|
+| --- | --- |
 | Course full | 24.7% <br>999 out of 4045 |
 | Qualifications | 18.1% <br>733 out of 4045 |
 | Performance at interview | 14.4% <br>581 out of 4045 |
@@ -88,8 +88,8 @@ We looked at how often each reason was used to reject an application between Jan
 ### Qualifications
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
-|------------|----------|----------|
-| No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.6% <br> 104 out of 4045 | 12.5% <br>104 out of 833  |
+| --- | --- | --- |
+| No English GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.6% <br> 104 out of 4045 | 12.5% <br>104 out of 833 |
 | No Maths GCSE grade 4 &#40;C&#41; or above, or valid equivalent | 2.1% <br> 86 out of 4045 | 10.3% <br>86 out of 833 |
 | No Science GCSE grade 4 &#40;C&#41; or above, or valid equivalent (for primary applicants) | 0.9% <br> 36 out of 4045 | 4.3% <br>36 out of 833 |
 | No degree | 0.9% <br> 37 out of 4045 | 4.4% <br>37 out of 833 |
@@ -98,7 +98,7 @@ We looked at how often each reason was used to reject an application between Jan
 ### Quality of application
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
-|------------|----------|----------|
+| --- | --- | --- |
 | Personal statement | 8.8% <br> 357 out of 4045 | 53.5% <br> 357 out of 668 |
 | Subject knowledge | 3.8% <br> 155 out of 4045 | 23.2%<br> 155 out of 668 |
 | Other | 3.9% <br> 156 out of 4045 | 23.4% <br> 156 out of 668 |
@@ -106,7 +106,7 @@ We looked at how often each reason was used to reject an application between Jan
 ### Candidate behaviour
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
-|------------|----------|----------|
+| --- | --- | --- |
 | Did not reply to our interview offer | 0.47% <br> 19 out of 4045 | 15% <br> 19 out of 124 |
 | Did not attend interview | 1.71% <br> 69 out of 4045 | 55% <br> 69 out of 124 |
 | Other | 0.89% <br> 36 out of 4045 | 30% <br> 39 out of 124 |
@@ -114,7 +114,7 @@ We looked at how often each reason was used to reject an application between Jan
 ### Honesty and professionalism
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
-|------------|----------|----------|
+| --- | --- | --- |
 | Information given on application form false or inaccurate | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21 |
 | Evidence of plagiarism in personal statement or elsewhere | 0.03% <br> 1 out of 4045 | 3.92% <br> 1 out of 21 |
 | References did not support application | 0.07% <br> 3 out of 4045 | 3.92% <br> 3 out of 21 |
@@ -123,7 +123,7 @@ We looked at how often each reason was used to reject an application between Jan
 ### Safeguarding
 
 | Reason | Percentage of all rejections | Percentage of all rejections within this category |
-|------------|----------|----------|
+| --- | --- | --- |
 | Information disclosed by candidate makes them unsuitable to work with children | 0.07% <br> 3 out of 4045 | 18.9% <br> 3 out of 15 |
 | Information revealed by our vetting process makes the candidate unsuitable to work with children | 0% | 0% |
 | Other | 0.3% <br> 12 out of 4045 | 81.1% <br> 12 out of 15 |
@@ -140,7 +140,7 @@ We’ll know that the new design is better if:
 We looked at data from January 2021 and September 2021.
 
 | Description | Rate or amount |
-|------------|-----------|
+| --- | --- |
 | Candidates who apply again | 20.8% <br>617 out of 2972 |
 | Candidates who receive an offer after applying again | 32.1% <br> 198 out of 617 |
 | Rejected applications that only use the ‘other’ category | 26.6% <br>1075 out of 4045 |

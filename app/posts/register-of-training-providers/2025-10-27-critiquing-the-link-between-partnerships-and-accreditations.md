@@ -71,7 +71,7 @@ We will also explore how to associate partnerships with academic years to suppor
 ## Alternative approaches to explore
 
 | Option | What it is | Pros | Cons | Early view |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | A. **Accredited provider ↔ training partner** *(original model)* | Simple many-to-many between accredited providers and partners. | Fast to understand; easy to enter; fewer edge cases; resilient when accreditations change. | We lose an explicit legal-basis link; some nuance moves to guidance and audits. | **Preferred baseline** |
 | B. **A + optional academic year link** | Partnerships carry one or more academic year associations. | Supports time-boxed reporting; easier history; keeps UI simple. | Year boundaries can still be fuzzy; back-filling may be needed. | **Likely next step** |
 | C. **A + optional accreditation reference** | Keep simple partnerships but allow an optional accreditation tag. | Lets expert users add provenance when useful; does not block the task. | Optional fields can decay in quality; needs good hints and validation. | **Worth prototyping** |

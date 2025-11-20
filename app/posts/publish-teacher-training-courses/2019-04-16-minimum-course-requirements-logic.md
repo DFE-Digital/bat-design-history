@@ -30,7 +30,7 @@ We do not ask the questions for Further education courses because there is no le
 When a subject is not required use the UCAS code 9\. When it is required, use the one derived from answers to the questions.
 
 | Level | English | Maths | Science |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Primary** | Required | Required | Required |
 | **Secondary** | Required | Required | Not required (9) |
 | **Further education** | Not required (9) | Not required (9) | Not required (9) |
@@ -40,12 +40,12 @@ When a subject is not required use the UCAS code 9\. When it is required, use th
 A user can select Yes to equivalency tests but can restrict this by subject (see screenshot).
 
 | Pending GCSEs | Equivalency | Code |
-|---|---|---|
+| --- | --- | --- |
 | Yes | Yes (subject checked) | 3 |
 | Yes | Yes (subject not checked) | 2 |
 | Yes | No | 2 |
-| No | No| 1 |
-| No | Yes| Invalid* |
+| No | No | 1 |
+| No | Yes | Invalid* |
 
 \* It’s possible to make an invalid choice – UCAS does not allow you to receive applications from candidates needing to take an equivalency test if you’ve blocked applications from candidates with pending GCSEs. In this case we need to warn the user with a validation message.
 
