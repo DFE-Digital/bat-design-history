@@ -27,7 +27,7 @@ We recently [updated the content on the ‘Check your answers’ and course deta
 
 We also [added a way for providers to mark their physics courses as being part of the ‘Engineers teach physics’ programme](/publish-teacher-training-courses/adding-an-engineers-teach-physics-question-to-courses/). When marking a physics course as being part of the ‘Engineers teach physics’ programme, the course title is updated.
 
-### What we changed
+## What we changed
 
 We have moved the position of the course title on the add course ‘Check your answers’ page to the top of the course details summary list to make it clearer to the users how the course will be named.
 

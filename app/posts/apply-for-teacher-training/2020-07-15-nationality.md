@@ -11,11 +11,11 @@ As part of [opening up the service to international candidates](/apply-for-teach
 
 However, there were a few problems with this design.
 
-### The problem with free text
+## The problem with free text
 
 If a candidate had 2 or more nationalities, they had to enter them as free text. This meant we could not use structured data.
 
-### The problem with the design logic
+## The problem with the design logic
 
 Candidates who had British or Irish nationality as well as an additional overseas nationality were shown questions about residency and English language qualifications which were not relevant to them.
 
@@ -31,7 +31,7 @@ We will not use hint text for the British and Irish nationality options. Our hyp
 
 We will use nationality instead of country. The Home Office refers to ‘nationality’ and ‘national of [country]’ on its [visa checking tool](https://www.gov.uk/check-uk-visa) and [English language visa eligibility guidance](https://www.gov.uk/tier-4-general-visa/knowledge-of-english). We ask about nationality primarily for visa purposes, so it makes sense to be consistent with the Home Office.
 
-### Accessibility considerations
+## Accessibility considerations
 
 This pattern allows candidates to add up to 3 other nationalities in addition to British and Irish.
 
