@@ -1,6 +1,6 @@
 ---
 title: Iterating on the change provider partnership flow
-description: DESCRIPTION
+description: We updated the change partnership flow to include when the partnership starts and ends, and the academic years to which the partnership relates
 date: 2025-11-18
 tags:
   - partnerships
@@ -8,10 +8,14 @@ tags:
   - academic years
 related:
   items:
-    - text: TEXT 1
-      href: HREF 1
-    - text: TEXT 2
-      href: HREF 2
+    - text: Iterating on how we set up partnerships between providers
+      href: /register-of-training-providers/iterating-on-how-we-set-up-partnerships-between-providers/
+    - text: Improving the delete partnership confirmation page
+      href: /register-of-training-providers/improving-the-delete-partnership-confirmation-page/
+    - text: Preventing duplicate partnerships based on partnership dates
+      href: /register-of-training-providers/preventing-duplicate-partnerships-based-on-partnership-dates/
+    - text: Logging provider partnerships linked to academic years
+      href: /register-of-training-providers/logging-provider-partnerships-linked-to-academic-years/
 screenshots:
   items:
     - text: Accredited provider partnership list
@@ -26,8 +30,8 @@ screenshots:
       src: accredited-provider--select-academic-year-with-error.png
     - text: Accredited provider - check your answers
       src: accredited-provider--check-your-answers.png
-    - text: Accredited provider - partnership added success message
-      src: accredited-provider--add-partnership-success.png
+    - text: Accredited provider - partnership updated success message
+      src: accredited-provider--update-partnership-success.png
     - text: Training partner partnership list
       src: training-partner--partnership-list.png
     - text: Training partner- enter partnership dates
@@ -40,6 +44,6 @@ screenshots:
       src: training-partner--select-academic-year-with-error.png
     - text: Training partner - check your answers
       src: training-partner--check-your-answers.png
-    - text: Training partner - partnership added success message
-      src: training-partner--add-partnership-success.png
+    - text: Training partner - partnership updated success message
+      src: training-partner--update-partnership-success.png
 ---
