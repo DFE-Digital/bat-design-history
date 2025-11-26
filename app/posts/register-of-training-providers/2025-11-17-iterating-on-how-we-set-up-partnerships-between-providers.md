@@ -1,6 +1,6 @@
 ---
 title: Iterating on how we set up partnerships between providers
-description: DESCRIPTION
+description: We collect when the partnership starts and ends, and the academic years to which the partnership relates
 date: 2025-11-17
 tags:
   - partnerships
@@ -8,10 +8,14 @@ tags:
   - academic years
 related:
   items:
-    - text: TEXT 1
-      href: HREF 1
-    - text: TEXT 2
-      href: HREF 2
+    - text: Iterating on the change provider partnership flow
+      href: /register-of-training-providers/iterating-on-the-change-provider-partnership-flow/
+    - text: Improving the delete partnership confirmation page
+      href: /register-of-training-providers/improving-the-delete-partnership-confirmation-page/
+    - text: Preventing duplicate partnerships based on partnership dates
+      href: /register-of-training-providers/preventing-duplicate-partnerships-based-on-partnership-dates/
+    - text: Logging provider partnerships linked to academic years
+      href: /register-of-training-providers/logging-provider-partnerships-linked-to-academic-years/
 screenshots:
   items:
     - text: Accredited provider partnership list
