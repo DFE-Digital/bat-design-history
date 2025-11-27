@@ -186,7 +186,7 @@ And a ‘Change partnership dates’ link.
 
 #### Check your answers
 
-The final set is the ‘Check your answers’ page. We show a summary list containing the following:
+The final step is the ‘Check your answers’ page. We show a summary list containing the following:
 
 - accredited provider name
 - training partner name
