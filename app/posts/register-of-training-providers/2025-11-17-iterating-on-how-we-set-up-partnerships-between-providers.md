@@ -108,6 +108,8 @@ Adding a partnership is a 4-step process:
 
 Users can add a partnership via the accredited provider or the training partner. There are minor differences in wording across the flows, but the overall flow remains the same.
 
+Users start the flow by selecting the ‘Add partnership’ button on the provider partnerships list page.
+
 #### Select a training partner or accredited provider
 
 The first step in the ‘Add partnership’ flow is to select the provider.
