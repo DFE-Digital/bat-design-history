@@ -201,6 +201,10 @@ Users can change:
 - partnership start and end dates
 - academic years
 
+If the user selects any of the change links, they must complete the remaining flow before returning to the ‘Check your answers’ page.
+
+For example, if the user selects to change the partnership dates, they continue to update the academic years before returning to the ‘Check your answers’ page. Similarly, if they change the selected provider, they then need to progress through the partnership dates and academic years before returning to the ‘Check your answers’ page.
+
 Once users select ‘Save partnership’, they return to the provider partnerships list page, and we display a ‘Partnership added’ success message.
 
 ## Further considerations
