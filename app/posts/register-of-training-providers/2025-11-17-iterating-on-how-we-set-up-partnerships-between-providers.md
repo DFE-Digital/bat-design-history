@@ -72,6 +72,8 @@ Linking partnerships to dates and academic years helps us to:
 
 ### Viewing a list of partnerships
 
+![Screenshot showing the partnership summary card](partnership-summary-card.png "Screenshot showing the partnership summary card")
+
 We show a list of the provider’s partnerships. For each partnership, we show a summary card containing:
 
 - accredited provider name
@@ -88,6 +90,10 @@ If the user is viewing the partnership from the training partner’s perspective
 We link the name to the associated provider’s partnerships page in the register.
 
 The summary card also includes ‘Change’ and ‘Delete’ links.
+
+We paginate the list if it contains more than 15 partnerships.
+
+When a user adds, updates or deletes a partnership, we show a success message above the page heading.
 
 ### Adding a partnership
 
@@ -137,6 +143,8 @@ This information serves two purposes. It allows us to:
 - show only relevant academic years to the user in the next step
 - automatically add academic years to the partnership each year, if the user does not specify an end date
 
+![Screenshot showing the partnership start and end dates](partnership-start-and-end-dates.png "Screenshot showing the partnership start and end dates")
+
 We collect 2 dates:
 
 - partnership start date
@@ -147,6 +155,8 @@ The partnership's start date is required. If the user does not enter a date, we 
 > Enter date the partnership started
 
 If the user enters an incomplete or incorrect date on which the partnership started, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
+
+We include a details component below the partnership start date field that explains which date to enter for users who do not know the partnership’s start date.
 
 The partnership’s end date is optional.
 
@@ -181,6 +191,8 @@ The final set is the ‘Check your answers’ page. We show a summary list conta
 - partnership dates
 - academic years
 
+If the user has not entered information, for example, the partnership end date, we show ‘Not entered’.
+
 Users can change:
 
 - selected provider
@@ -194,7 +206,7 @@ Once users select ‘Save partnership’, they return to the provider partnershi
 We considered some changes that we did not implement. These included:
 
 - only collecting partnership dates, not academic years
-- capturing training routes delivered by the partnership
+- capturing training routes that the partnership delivers
 
 ### Only collecting partnership dates, not academic years
 
@@ -202,6 +214,6 @@ Since we know the partnership's start and end dates, we can derive the academic 
 
 However, this does not allow us to capture gaps in delivery. Furthermore, having academic years as concrete data rather than derived data makes it tangible, measurable, and directly verifiable.
 
-### Capturing training routes delivered by the partnership
+### Capturing the training routes that the partnership delivers
 
 Training providers can deliver any number of [routes that lead to qualified teacher status (QTS)](/becoming-a-teacher/routes-into-teaching/). In future, we will consider whether it is necessary to capture the routes that training providers deliver.
