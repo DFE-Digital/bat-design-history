@@ -33,3 +33,30 @@ screenshots:
 ---
 
 We updated the provider autocomplete to improve the information hierarchy and interaction design.
+
+## What we changed
+
+We have:
+
+- added provider code to the search terms and updated the form heading to indicate the addition
+- added a template to the autocomplete to separate provider name from provider code, UKPRN and URN
+- updated the selected state for the provider name to remove the UKPRN in parentheses
+
+## How it works
+
+When users add partnerships, we use an autocomplete to help users find and select the correct provider.
+
+Users can search for providers by entering the provider’s name, provider code, UK provider reference number (UKPRN), unique reference number (URN) or postcode.
+
+If the current provider is accredited, autocomplete only includes training partners.
+
+The autocomplete only includes accredited providers if the current provider is not accredited.
+
+For each provider, we show:
+
+- provider name
+- provider code, UKPRN and URN - below the provider name
+
+This information enables users to select the correct provider from among similarly named options.
+
+When the user selects a provider from the list, we display the provider’s name in the text input.
