@@ -1,5 +1,5 @@
 ---
-title: Making contact phone optional
+title: Making contact phone number optional
 description: We updated the provider contacts section to make collecting phone numbers optional
 date: 2025-11-14
 tags:
