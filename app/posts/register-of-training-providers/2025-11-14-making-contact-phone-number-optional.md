@@ -23,7 +23,7 @@ screenshots:
 
 We updated the provider contacts section to make collecting phone numbers optional.
 
-We did this because we have not found a need to collect phone numbers, and services such as Register trainee teachers and Publish teacher training courses do not require this information.
+We did this because we need to explore the need to collect phone numbers, and services such as Register trainee teachers and Publish teacher training courses do not require this information.
 
 ## How it works
 
