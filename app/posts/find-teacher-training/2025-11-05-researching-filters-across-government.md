@@ -8,6 +8,12 @@ tags:
   - filterable find
 related:
   items:
+    - text: User research with candidates on filtering and sorting courses
+      description: December 2025
+      href: /find-teacher-training/filtering-and-sorting-ur/
+    - text: Improving how candidates can filter and sort courses
+      description: November 2025
+      href: /find-teacher-training/improving-filtering-and-sorting/
     - text: Filterable Find postgraduate training courses (Find) concept
       description: October 2022
       href: /find-teacher-training/filterable-find-concept/

@@ -8,6 +8,12 @@ tags:
   - filterable find
 related:
   items:
+    - text: User research with candidates on filtering and sorting courses
+      description: December 2025
+      href: /find-teacher-training/filtering-and-sorting-ur/
+    - text: Researching filters across government
+      description: November 2025
+      href: /find-teacher-training/researching-filters-across-government/
     - text: Filterable Find postgraduate training courses (Find) concept
       description: October 2022
       href: /find-teacher-training/filterable-find-concept/
@@ -121,6 +127,6 @@ We felt this would better allow users to see the link to open the filters, and m
 
 ## Next steps
 
-We will be testing these designs with participants, with the focus on testing on mobile. Based on the insights from testing, we may implement these changes in the service.
+We will be [testing these designs with participants](/find-teacher-training/filtering-and-sorting-ur/), with the focus on testing on mobile. Based on the insights from testing, we may implement these changes in the service.
 
 We are also [researching filters across government](/find-teacher-training/researching-filters-across-government/) to help develop a consistent and versatile component for filters.
