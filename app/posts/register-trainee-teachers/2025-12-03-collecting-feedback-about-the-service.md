@@ -122,12 +122,3 @@ Users can return to the home page by selecting the ‘Cancel’ link. If they do
 When a user submits their feedback, we show a confirmation page.
 
 The confirmation page explains that if they provide their name and email address, we will respond within 5 working days.
-
-## Further considerations
-
-We considered some changes that we did not implement. These included:
-
-- showing submitted feedback in the service to specific users
-- using a third-party tool, such as a Microsoft form to collect the feedback
-
-We will review these considerations when we have explored the user needs more.
