@@ -26,6 +26,8 @@ screenshots:
       src: provider-details.png
 ---
 
+> **Update 4 December 2025:** Previously, we mentioned using the Google Maps API to geocode addresses. We do not need to do this as the Ordnance Survey API returns latitude and longitude information for each address.
+
 Previously, we gave users the ability to [manage provider addresses](/register-of-training-providers/managing-provider-addresses/) and [add an address using a postcode address finder](/register-of-training-providers/adding-an-address-using-a-postcode-address-finder/). This work enables us to collect accurate and reliable address data.
 
 To increase the utility of the address data, we need to geocode addresses as well.
