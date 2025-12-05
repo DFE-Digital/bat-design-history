@@ -59,10 +59,15 @@ We conducted semi-structured remote interviews with participants via video call.
 Each session lasted approximately one hour and included the following activities:
 
 ### 1. Prototype interaction
+
 Observed participants as they explored the prototype, focusing on new filtering and sorting designs.
+
 ### 2. Feedback collection
+
 Captured participants’ perceptions and usability feedback on the redesigned filter and sorting features.
+
 ### 3. Targeted feature testing
+
 Asked participants to complete tasks using specific filtering functions to assess clarity, efficiency, and overall usability.
 
 ## What we tested
@@ -87,6 +92,7 @@ The designs we tested included:
 We iterated on the designs during the round of research, based on user insights or team discussion.
 
 ### Filter background colour
+
 When [researching filters across government](/find-teacher-training/researching-filters-across-government/) we found filters on either a grey or white background. We wanted to test on both, to see if this made any difference.
 
  <img alt="Screenshot of the iteration of changing the filtering background from light grey to white" src="filtering-iteration-grey-white-bg.png">
