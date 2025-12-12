@@ -31,12 +31,12 @@ We have added an interstitial page that gives candidates some further informatio
 The main things that we wanted to let people know about were:
 
 ### Fees and financial support 
-Discovering too late in the process that they will not receive financial support is a big reason for candidate withdrawals among international candidates (4.36% of all withdrawals, 190% higher for international candidates than domestic candidates). 
+Discovering too late in the process that they will not receive financial support is a big reason for candidate withdrawals among international candidates. 
 
 It’s also always useful to highlight the increased fees for international candidates, we’ve heard that some people think this must also cover living expenses which is not the case.
 
 ### Qualifications 
-Not having the right qualifications is a common rejection reason amongst international applicants. Whilst ‘supporting documents not provided’ is reasonably small at only 2.67%, this is 140% higher than for domestic candidates. 
+Not having the right qualifications is a common rejection reason amongst international applicants. Whilst ‘supporting documents not provided’ is a reasonably small percentage of rejection reasons, it is higher than for domestic candidates.
 
 ### Ways to find out more 
 We wanted to direct people to more information about courses, eligibility criteria and anything specific that's relevant to international applications on the new ‘check before you send’ page. This will give them the best chance of applying to the right course the first time they try. 
