@@ -32,12 +32,14 @@ We have added an interstitial page that gives candidates some further informatio
 
 The main things that we wanted to let people know about were:
 
-### Fees and financial support 
-Discovering too late in the process that they will not receive financial support is a big reason for candidate withdrawals among international candidates. 
+### Fees and financial support
+
+Discovering too late in the process that they will not receive financial support is a big reason for candidate withdrawals among international candidates.
 
 It’s also always useful to highlight the increased fees for international candidates, we’ve heard that some people think this must also cover living expenses which is not the case.
 
-### Qualifications 
+### Qualifications
+
 Not having the right qualifications is a common rejection reason amongst international applicants. Whilst ‘supporting documents not provided’ is a reasonably small percentage of rejection reasons, it is higher than for domestic candidates.
 
 ### Ways to find out more
