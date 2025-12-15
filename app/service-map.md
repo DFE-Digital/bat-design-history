@@ -74,7 +74,8 @@ The ‘Becoming a teacher’ services are part of a broader range of digital ser
         "href": "https://www.register-trainee-teachers.education.gov.uk"
       },
       {
-        "name": "Manage school placements – private beta"
+        "name": "Register of training providers",
+        "href": "https://register-of-training-providers.education.gov.uk/"
       },
       {
         "name": "Claim funding for mentor training – private beta"
