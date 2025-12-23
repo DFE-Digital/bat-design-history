@@ -1,5 +1,5 @@
 ---
-title: Prototyping candidate accounts
+title: Prototyping MVP of candidate accounts
 description: Exploring how we might introduce accounts onto Find, and allow candidates to save courses for later.
 date: 2025-03-28
 tags:

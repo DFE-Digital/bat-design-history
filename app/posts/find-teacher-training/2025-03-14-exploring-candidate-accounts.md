@@ -6,7 +6,7 @@ tags:
   - research
   - find
   - candidates
-  - canididate accounts
+  - candidate accounts
 screenshots:
   items:
     - text: Map of data being captured along the journey
