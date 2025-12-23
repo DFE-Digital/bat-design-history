@@ -94,7 +94,6 @@ This allowed us to build out this section to include, saved courses, recent sear
 
 ![My courses page with sub navigation to saved courses, recent searches and email alerts, and a separate link to the apply service.](prototype-my-courses.png "My courses page")
 
-
 ## Next steps
 
 We will be tested these designs with participants in January 2026.
