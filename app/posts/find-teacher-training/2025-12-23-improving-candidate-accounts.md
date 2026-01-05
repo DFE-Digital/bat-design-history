@@ -19,6 +19,9 @@ related:
       description: May 2025
       href: /find-teacher-training/candidate-accounts-user-research-round-1/
 ---
+> We launched an MVP of candidate accounts on Find in the summer of 2025, so that we could get something live quickly and learn from it.
+>
+> At the end of 2025 we developed designs for further functionality, as we knew the MVP didn't meet all user needs. This post is about the decisions behind these designs and the plan to test them in January 2026.
 
 ## Background
 
@@ -93,6 +96,11 @@ The email alerts page allows users to view all the email alerts they have set up
 
 ![Email alerts page showing all the email alerts that have been set up, and the ability to unsubscribe from them.](1-email-alert-page.png)
 
+As well as the recent searches page, email alerts can also be created from a new link on the search results page.
+
+<img alt="A section of the search results page showing a new link to set up an email alert for that search criteria." src="1-email-alert-results-page.png" class="govuk-!-width-one-half">
+
+
 ### 2. Adding pagination to saved courses
 
 Analysis showed the majority of candidates saving courses on Find are saving between 1 to 10 courses.
@@ -144,7 +152,7 @@ We decided to focus on providing the additional course information and ability t
 
 ## Next steps
 
-We will be tested these designs with participants in January 2026.
+We will be testing these designs with participants in January 2026.
 
 We will iterate on the designs based on feedback before implementing the new features.
 
