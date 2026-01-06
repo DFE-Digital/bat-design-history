@@ -59,11 +59,11 @@ The MVP allowed candidates to save their courses, but didn’t address other use
 
 We monitored the data of how the MVP was being used, and reviewed what user needs were still unmet. This allowed us to define the following scope:
 
-* Adding recent searches and email alerts
-* Adding pagination to saved courses
-* Adding notes to saved courses
-* Adding course information to saved courses
-* Exploring ways to compare courses
+- Adding recent searches and email alerts
+- Adding pagination to saved courses
+- Adding notes to saved courses
+- Adding course information to saved courses
+- Exploring ways to compare courses
 
 ## Design exploration
 
@@ -75,10 +75,10 @@ We decided to update 'Saved courses' in the primary navigation to 'My courses'.
 
 This allowed us to build out this section to include:
 
-* saved courses
-* recent searches
-* email alerts
-* a link to the Apply service
+- saved courses
+- recent searches
+- email alerts
+- a link to the Apply service
 
 ![My courses page with sub navigation to saved courses, recent searches and email alerts, and a separate link to the apply service.](prototype-my-courses.png)
 
@@ -99,7 +99,6 @@ The email alerts page allows users to view all the email alerts they have set up
 As well as the recent searches page, email alerts can also be created from a new link on the search results page.
 
 <img alt="A section of the search results page showing a new link to set up an email alert for that search criteria." src="1-email-alert-results-page.png" class="govuk-!-width-one-half">
-
 
 ### 2. Adding pagination to saved courses
 
@@ -122,7 +121,6 @@ We found in the last round of user testing that participants found the notes fea
 ![Success banner communicating that tha note has been added to a saved course.](3-add-note-success.png)
 
 ![Saved courses page with the content of the note displayed on the saved course, and the ability to edit or delete the note.](3-add-note-added.png)
-
 
 ### 4. Adding course information to saved courses
 
@@ -167,16 +165,13 @@ We will iterate on the designs based on feedback before implementing the new fea
 ### Desktop
 
 #### Saved courses
+
 ![Saved courses page with additional course information and ability to add notes.](5-saved-courses.png)
 
 #### Recent searches
+
 ![Recent searches page with the ability to perform the search again or set up an email alert for that search criteria.](prototype-recent-searches.png)
 
 #### Email alerts
+
 ![Email alerts page with the email alerts that have been set up, and the ability to unsubscribe from them.](prototype-email-alerts.png)
-
-
-
-
-
-
