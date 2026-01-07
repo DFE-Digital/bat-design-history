@@ -49,6 +49,8 @@ We have:
 
 We made these changes to support the introduction of the API and API clients. We do not want API-only users to have access to all service features.
 
+We also restrict who can create API clients to DfE users only. We may change this policy in the future to allow third-party users to access training provider data.
+
 ## How it works
 
 ### Users list
@@ -168,3 +170,5 @@ Selecting whether the account is an API user is required. If the support user do
 Selecting whether the account is active is required. If the support user does not answer, we show:
 
 > Select if the account is active
+
+*[API]: application programming interface
