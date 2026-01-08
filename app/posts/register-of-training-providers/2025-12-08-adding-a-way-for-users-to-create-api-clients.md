@@ -83,7 +83,7 @@ The API client details page includes:
 - status of the API client - active, expired, revoked
 - ‘Revoke API client’ button
 - ‘Delete API client’ link
--  summary list containing the client name and expiry date
+- summary list containing the client name and expiry date
 
 If the API client is marked as ‘active’, we include a change link next to the client name. Users cannot change expired or revoked API clients.
 
