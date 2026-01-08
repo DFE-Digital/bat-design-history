@@ -100,13 +100,15 @@ As well as the recent searches page, email alerts can also be created from a new
 
 <img alt="A section of the search results page showing a new link to set up an email alert for that search criteria." src="1-email-alert-results-page.png" class="govuk-!-width-one-half">
 
-### 2. Adding pagination to saved courses
+### 2. Adding sorting and pagination to saved courses
 
 Analysis showed the majority of candidates saving courses on Find are saving between 1 to 10 courses.
 
-However, we felt there was enough candidates saving up to 40 courses, that we needed to add pagination to the page.
+However, we felt there was enough candidates saving up to 40 courses, that we needed to add sorting and pagination to the page.
 
 This will ensure candidates who save many courses are not overwhelmed or have issues with performance.
+
+![Saved courses page with sorting added to the top of the page.](2-saved-course-sorting.png)
 
 ![Saved courses page with pagination added to the bottom of the page.](2-saved-course-pagination.png)
 
@@ -131,6 +133,8 @@ Currently, the saved courses page only provides the name of the course and provi
 We wanted to explore if providing additional information would help candidates compare saved courses.
 
 When comparing courses, past research has shown that nearest placement school is most important for UK citizens, and the fee is most important for non-UK citizens. We added this information to the saved courses.
+
+We also wanted to test changing the 'Delete' link to 'Saved' with the heart icon. We felt this would create more consistency and continuity across the service.
 
 ![Saved courses page with additional content of nearest placement school and fee amount or salary.](4-saved-course-info.png)
 
