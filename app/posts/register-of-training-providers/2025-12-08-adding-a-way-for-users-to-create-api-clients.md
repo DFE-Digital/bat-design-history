@@ -89,6 +89,8 @@ If the API client is marked as ‘active’, we include a change link next to th
 
 ### Adding an API client
 
+[![Add API client flow](add-api-client--flow.png 'Add API client flow (select image to see a larger version)')](add-api-client--flow.png)
+
 Adding an API client is a 3-step process:
 
 1. Enter client details
@@ -112,7 +114,7 @@ The expiry date is required. If the user does not enter a date, we show the erro
 
 > Enter expiry date
 
-If the user enters an incomplete or incorrect date on which the partnership started, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
+If the user enters an incomplete or incorrect date on which the API client started, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
 
 #### Check your answers
 
