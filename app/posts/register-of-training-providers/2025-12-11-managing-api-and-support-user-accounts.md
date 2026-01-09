@@ -142,7 +142,7 @@ We show an error message if:
 
 The support user can check their answers at the end of the flow before saving the new user.
 
-Adding the user triggers an email with sign-in details for the new user.
+Adding the user triggers an email with the new user's sign-in details.
 
 ### Editing a user
 
