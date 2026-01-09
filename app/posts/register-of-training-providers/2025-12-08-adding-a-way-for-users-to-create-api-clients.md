@@ -149,15 +149,36 @@ The API client details form includes fields for:
 - client name
 - expiry date
 
-The API client’s name is required. If users do not enter a name, we show an error message:
+##### Client name validation
+
+The API client's name is required. If users do not enter a name, we show an error message:
 
 > Enter client name
+
+There are no restrictions on client name length, but we recommend names are no longer than 100 characters to ensure they display correctly in the interface.
+
+##### Expiry date validation
 
 The expiry date is required. If the user does not enter a date, we show the error message:
 
 > Enter expiry date
 
-If the user enters an incomplete or incorrect date on which the API client started, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
+The expiry date must be:
+
+- on or after the date the API client is created
+- no more than 12 months in the future
+
+For example, if an API client is created on 9 January 2026, the expiry date cannot be after 9 January 2027.
+
+If the user enters a date that is too far in the future, we show the error message:
+
+> Expiry date must be within 12 months
+
+If the user enters a date in the past, we show the error message:
+
+> Expiry date must be in the future
+
+If the user enters an incomplete or incorrect date, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
 
 #### Check your answers
 
