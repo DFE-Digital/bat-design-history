@@ -56,7 +56,7 @@ We added a way for users to create API clients to access the register's API secu
 
 Third-party systems and services need programmatic access to the Register of training providers data. For example, the Department for Education (DfE) services may need to verify provider details or retrieve training provider information for their applications.
 
-Previously, there was no secure, self-service way for users to generate credentials for API access. This meant:
+Previously, there was no secure, self-service way for users to generate credentials for API access. This approach meant:
 
 - we had to provision API access for each third party manually
 - it was difficult to track which third parties were accessing the data
@@ -155,7 +155,7 @@ The API client's name is required. If users do not enter a name, we show an erro
 
 > Enter client name
 
-There are no restrictions on client name length, but we recommend names are no longer than 100 characters to ensure they display correctly in the interface.
+There are no restrictions on the length of client names, but we recommend keeping them to 100 characters or fewer to ensure they display correctly in the interface.
 
 ##### Expiry date validation
 
@@ -168,15 +168,13 @@ The expiry date must be:
 - on or after the date the API client is created
 - no more than 12 months in the future
 
-For example, if an API client is created on 9 January 2026, the expiry date cannot be after 9 January 2027.
+For example, if a user creates an API client on 8 December 2025, the expiry date cannot be after 8 December 2026.
 
-If the user enters a date that is too far in the future, we show the error message:
+If the user enters a date that is too far in the future, we show the error message, for example:
 
-> Expiry date must be within 12 months
+> Expiry date must be between 8 December 2025 and 8 December 2026
 
-If the user enters a date in the past, we show the error message:
-
-> Expiry date must be in the future
+If the user enters a date in the past, we show the same error message.
 
 If the user enters an incomplete or incorrect date, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
 
@@ -280,7 +278,7 @@ We've identified several areas for future improvement:
 
 ### Migration to OAuth
 
-We plan to migrate from the current bearer token authentication to using OAuth for authentication. This will provide:
+We plan to migrate from the current bearer token authentication to OAuth. This change will provide:
 
 - standardised authentication across DfE services
 - improved security and token management
