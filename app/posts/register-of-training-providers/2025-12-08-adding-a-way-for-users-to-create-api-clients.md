@@ -272,6 +272,54 @@ Selecting the red 'Delete API client' button will complete the process.
 
 We show a success message on the API clients list page saying 'API client deleted'.
 
+## Accessibility considerations
+
+We've taken several steps to ensure the API client management interface is accessible:
+
+### Token display
+
+The API token is displayed in a monospace font to improve readability and make it easier to distinguish similar characters (like '0' and 'O', or '1' and 'l'). The monospace font also:
+
+- helps users identify individual characters when copying the token manually
+- maintains consistent character width, making it easier to verify token length
+- provides visual distinction between the token and the surrounding text
+
+The token is displayed within a [GOV.UK panel component](https://design-system.service.gov.uk/components/panel/), which has sufficient colour contrast and is announced by screen readers.
+
+### Status tags
+
+We use [colour-coded status tags](https://design-system.service.gov.uk/components/tag/#using-colour-with-tags) to show whether an API client is active, expired, or revoked:
+
+- Active - turquoise tag
+- Expired - grey tag
+- Revoked - orange tag
+
+These tags follow the [GOV.UK tag component](https://design-system.service.gov.uk/components/tag/) patterns and include:
+
+- sufficient colour contrast ratios (meeting WCAG 2.1 AA standards)
+- text labels that convey meaning without relying solely on colour
+- appropriate semantic HTML so screen readers announce the status correctly
+
+Users who cannot distinguish colours can still understand the API client's status from the text label alone.
+
+### Confirmation pages
+
+The revoke and delete confirmation pages use warning text and destructive action buttons to help users understand the consequences of their actions.
+
+The confirmation pages:
+
+- use clear, descriptive headings that are announced by screen readers
+- include warning text that explains the action cannot be undone
+- use red buttons for destructive actions (revoke and delete), following GOV.UK Design System patterns
+- have sufficient focus indicators for keyboard navigation
+- follow a consistent pattern across both revoke and delete flows
+
+The success messages after completing an action are displayed using the [GOV.UK notification banner component](https://design-system.service.gov.uk/components/notification-banner/), which:
+
+- has appropriate ARIA roles so screen readers announce them correctly
+- appears at the top of the page where users expect feedback
+- provides clear confirmation of what action was completed
+
 ## Future considerations
 
 We've identified several areas for future improvement:
