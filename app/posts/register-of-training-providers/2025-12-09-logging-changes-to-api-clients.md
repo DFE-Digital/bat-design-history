@@ -31,7 +31,7 @@ We log all changes to API clients, including when they are created, updated, rev
 
 ### API client added
 
-When a user creates a new API client, we show a summary card containing:
+When a user creates a new API client, we show a summary card containing the following:
 
 - client name
 - expiry date
@@ -40,7 +40,7 @@ When a user creates a new API client, we show a summary card containing:
 
 ### API client updated
 
-If a user updates the API client name, we show a summary card containing:
+If a user updates the API client name, we show a summary card containing the following:
 
 - client name
 - expiry date
