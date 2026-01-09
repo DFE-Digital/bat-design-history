@@ -98,6 +98,12 @@ to = "/becoming-a-teacher/how-data-flows-through-the-service-line/"
 status = 301
 force = true
 
+[[redirects]]
+from = "/register-of-training-providers/limiting-what-api-users-can-do-in-the-service/"
+to = "/register-of-training-providers/managing-api-and-support-user-accounts/"
+status = 301
+force = true
+
 [build]
 command = "npm run build"
 publish = "public"
