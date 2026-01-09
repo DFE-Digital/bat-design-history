@@ -41,7 +41,7 @@ We added a way for the support team to manage user accounts and control access t
 
 With the introduction of the API, we needed to distinguish between two types of users:
 
-- **Support users** - DfE staff who need to sign in to the service interface to manage training provider data
+- **Support users** - DfE staff who need to sign in to the service to manage training provider data
 - **API users** - systems and services that access training provider data programmatically through the API
 
 API users should only access data through API endpoints and do not need access to the web interface. By distinguishing between these user types, we can:
