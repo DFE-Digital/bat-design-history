@@ -48,17 +48,39 @@ screenshots:
       src: delete-api-client--success.png
 ---
 
-We added a way for users to create API clients to access the register’s API securely.
+## What we did
+
+We added a way for users to create API clients to access the register's API securely.
+
+## Why we did this
+
+Third-party systems and services need programmatic access to the register of training providers data. For example, Department for Education (DfE) services may need to verify provider details or retrieve training provider information for their applications.
+
+Previously, there was no secure, self-service way for users to generate credentials for API access. This meant:
+
+- we had to manually provision API access for each third party
+- it was difficult to track which third parties were accessing the data
+- we could not easily revoke or expire access when it was no longer needed
+- there was no audit trail of API access
+
+By allowing users to create their own API clients, we enable third parties to integrate with the register while maintaining security and oversight of who is accessing the data.
+
+## How API clients work
 
 API clients consist of 3 attributes:
 
-- client name
-- expiry date
-- secure token
+- client name - to identify the third party or system using the API
+- expiry date - to ensure access is reviewed and renewed periodically
+- secure token - to authenticate API requests
 
 The secure token must be used by the third party every time they want to access the data held in the register.
 
-We require API clients so that we know when third parties access the service and what data they access.
+We require API clients so that we can:
+
+- identify which third parties are accessing the service
+- track what data they access and when
+- revoke access when it is no longer needed
+- ensure access is reviewed regularly through expiry dates
 
 ## How it works
 
@@ -158,30 +180,58 @@ For security purposes, users cannot change the API client’s expiry date. If th
 
 ### Revoking an API client
 
-Users can revoke API clients that are no longer needed.
+Users can revoke API clients to immediately stop them from accessing the API.
 
-When users select the ‘Revoke API client’ button on the API client details page, we show a confirmation page to ensure they want to revoke the API client. This confirmation step ensures they do not accidentally rescind the API client.
+Revoking is used when:
+
+- access needs to be suspended temporarily or permanently
+- there's a security concern with a token
+- a third party no longer needs access but you want to keep a record of the API client
+
+When an API client is revoked:
+
+- it remains visible in the API clients list with a 'Revoked' status
+- the audit history is preserved
+- the API client cannot be edited or reactivated
+- the third party can no longer use the token to access the API
+
+When users select the 'Revoke API client' button on the API client details page, we show a confirmation page to ensure they want to revoke the API client. This confirmation step ensures they do not accidentally rescind the API client.
 
 We show a message on the confirmation page warning that revoking an API client cannot be undone.
 
-Selecting the red ‘Revoke API client’ button will complete the process.
+Selecting the red 'Revoke API client' button will complete the process.
 
-We show a success message on the API client details page saying ‘API client revoked’.
+We show a success message on the API client details page saying 'API client revoked'.
 
-On the API client list and details pages, we include a ‘Revoked’ status tag next to the API client's name.
+On the API client list and details pages, we include a 'Revoked' status tag next to the API client's name.
 
 We remove all change links.
 
 ### Deleting an API client
 
-Users can delete API clients that are no longer needed.
+Users can delete API clients to permanently remove them from the system.
 
-When users select the ‘Delete API client’ link on the API client details page, we show a confirmation page to ensure they want to delete the API client. This confirmation step ensures they do not accidentally delete the API client.
+Deleting is used when:
+
+- an API client was created in error
+- you want to completely remove the record from the system
+- the API client is no longer needed and there's no requirement to keep its history
+
+When an API client is deleted:
+
+- it is completely removed from the API clients list
+- the audit history is still preserved (see [logging changes to API clients](/register-of-training-providers/logging-changes-to-api-clients/))
+- the action cannot be undone
+- the third party can no longer use the token to access the API
+
+Users should revoke rather than delete API clients if they want to maintain a visible record of third-party access in the API clients list.
+
+When users select the 'Delete API client' link on the API client details page, we show a confirmation page to ensure they want to delete the API client. This confirmation step ensures they do not accidentally delete the API client.
 
 We show a message on the confirmation page warning that deleting an API client cannot be undone.
 
-Selecting the red ‘Delete API client’ button will complete the process.
+Selecting the red 'Delete API client' button will complete the process.
 
-We show a success message on the API clients list page saying ‘API client deleted’.
+We show a success message on the API clients list page saying 'API client deleted'.
 
 *[API]: application programming interface
