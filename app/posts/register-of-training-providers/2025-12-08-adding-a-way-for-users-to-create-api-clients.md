@@ -99,7 +99,7 @@ Third parties must include the token in the authorisation header of each API req
 
 All changes to API clients are logged in a revision history for audit purposes.
 
-We plan to migrate to using the DfE Sign-in API (FauAPI) for authentication in the future.
+We plan to migrate to using OAuth for authentication in the future.
 
 ## How it works
 
@@ -257,9 +257,9 @@ We show a success message on the API clients list page saying 'API client delete
 
 We've identified several areas for future improvement:
 
-### Migration to DfE Sign-in API (FauAPI)
+### Migration to OAuth
 
-We plan to migrate from the current bearer token authentication to using the DfE Sign-in API (FauAPI) for authentication. This will provide:
+We plan to migrate from the current bearer token authentication to using OAuth for authentication. This will provide:
 
 - standardised authentication across DfE services
 - improved security and token management
