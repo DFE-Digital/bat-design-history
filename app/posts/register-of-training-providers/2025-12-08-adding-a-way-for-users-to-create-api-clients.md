@@ -54,11 +54,11 @@ We added a way for users to create API clients to access the register's API secu
 
 ## Why we did this
 
-Third-party systems and services need programmatic access to the register of training providers data. For example, Department for Education (DfE) services may need to verify provider details or retrieve training provider information for their applications.
+Third-party systems and services need programmatic access to the Register of training providers data. For example, the Department for Education (DfE) services may need to verify provider details or retrieve training provider information for their applications.
 
 Previously, there was no secure, self-service way for users to generate credentials for API access. This meant:
 
-- we had to manually provision API access for each third party
+- we had to provision API access for each third party manually
 - it was difficult to track which third parties were accessing the data
 - we could not easily revoke or expire access when it was no longer needed
 - there was no audit trail of API access
@@ -88,9 +88,9 @@ API clients use bearer token authentication. The token is:
 
 - generated once when the API client is created
 - displayed once on the confirmation page
-- stored as an hash to prevent plaintext secrets being stored in the database
+- stored as a hash to prevent plaintext secrets from being stored in the database
 
-Third parties must include the token in the ‘authorization’ header of each API request. The API validates the token and rejects requests if the token is:
+Third parties must include the token in the authorisation header of each API request. The API validates the token and rejects requests if the token is:
 
 - missing or invalid
 - expired
@@ -99,7 +99,7 @@ Third parties must include the token in the ‘authorization’ header of each A
 
 All changes to API clients are logged in a revision history for audit purposes.
 
-We plan to migrate to using DfE Sign-in API (FauAPI) for authentication in the future.
+We plan to migrate to using the DfE Sign-in API (FauAPI) for authentication in the future.
 
 ## How it works
 
@@ -205,7 +205,7 @@ Revoking is used when:
 
 - access needs to be suspended temporarily or permanently
 - there's a security concern with a token
-- a third party no longer needs access but you want to keep a record of the API client
+- a third party no longer needs access, but you want to keep a record of the API client
 
 When an API client is revoked:
 
@@ -228,13 +228,13 @@ We remove all change links.
 
 ### Deleting an API client
 
-Users can delete API clients to permanently remove them from the system.
+Users can delete API clients to remove them from the system permanently.
 
 Deleting is used when:
 
 - an API client was created in error
-- you want to completely remove the record from the system
-- the API client is no longer needed and there's no requirement to keep its history
+- you want to remove the record from the system completely
+- the API client is no longer needed, and there's no requirement to keep its history
 
 When an API client is deleted:
 
@@ -243,7 +243,7 @@ When an API client is deleted:
 - the action cannot be undone
 - the third party can no longer use the token to access the API
 
-Users should revoke rather than delete API clients if they want to maintain a visible record of third-party access in the API clients list.
+Users should revoke rather than delete API clients to maintain a visible record of third-party access in the API clients list.
 
 When users select the 'Delete API client' link on the API client details page, we show a confirmation page to ensure they want to delete the API client. This confirmation step ensures they do not accidentally delete the API client.
 
@@ -259,7 +259,7 @@ We've identified several areas for future improvement:
 
 ### Migration to DfE Sign-in API (FauAPI)
 
-We plan to migrate from the current bearer token authentication to using DfE Sign-in API (FauAPI) for authentication. This will provide:
+We plan to migrate from the current bearer token authentication to using the DfE Sign-in API (FauAPI) for authentication. This will provide:
 
 - standardised authentication across DfE services
 - improved security and token management
