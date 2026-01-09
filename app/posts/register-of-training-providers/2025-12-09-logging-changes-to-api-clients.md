@@ -10,8 +10,8 @@ related:
   items:
     - text: Adding a way for users to create API clients
       href: /register-of-training-providers/adding-a-way-for-users-to-create-api-clients/
-    - text: Limiting what API users can do in the service
-      href: /register-of-training-providers/limiting-what-api-users-can-do-in-the-service/
+    - text: Managing API and support user accounts
+      href: /register-of-training-providers/managing-api-and-support-user-accounts/
     - text: Tracking activity across the service
       href: /register-of-training-providers/tracking-activity-across-the-service/
 ---
