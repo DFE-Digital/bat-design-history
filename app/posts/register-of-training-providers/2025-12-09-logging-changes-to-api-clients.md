@@ -51,16 +51,20 @@ Currently, we do not show what has changed from the previous version of the API 
 
 ### API client revoked
 
-When a user revokes an API client, we show a summary card containing the following:
+When a user revokes an API client, we change its status to prevent the API key from being used to access the service. The client remains visible in the system.
+
+We show a summary card containing the following:
 
 - client name
 - expiry date
 
-![Screenshot showing the ‘API client revoked’ activity on the global activity log](activity-log--api-client-revoked.png "Screenshot showing the ‘API client revoked’ activity on the global activity log")
+![Screenshot showing the 'API client revoked' activity on the global activity log](activity-log--api-client-revoked.png "Screenshot showing the 'API client revoked' activity on the global activity log")
 
 ### API client deleted
 
-When a user deletes an API client, we show a summary card containing the following:
+When a user deletes an API client, we soft-delete the record. This hides it from the user interface and prevents the API token from being used to access the service. Users typically delete clients that were revoked and are no longer needed.
+
+We show a summary card containing the following:
 
 - client name
 - expiry date
