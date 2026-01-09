@@ -12,6 +12,8 @@ related:
       href: /register-of-training-providers/limiting-what-api-users-can-do-in-the-service/
     - text: Logging changes to API clients
       href: /register-of-training-providers/logging-changes-to-api-clients/
+    - text: API technical and data standards
+      href: https://www.gov.uk/guidance/gds-api-technical-and-data-standards
 screenshots:
   items:
     - text: List of API clients
@@ -62,7 +64,7 @@ We require API clients so that we know when third parties access the service and
 
 ### Viewing a list of API clients
 
-The list of API clients is accessed via the ‘API clients’ option in the service navigation.
+Users can access the list of API clients via the ‘API clients’ option in the service navigation.
 
 If the user has general access to the register, we show a list of all API clients. The list includes:
 
@@ -70,7 +72,7 @@ If the user has general access to the register, we show a list of all API client
 - expiry date
 - status
 
-If the user is classified as an API only user, they can only see the API clients they have created.
+If the user is an API only user, they can only see the API clients they have created.
 
 We link the client name to a details page where users can change, revoke or delete the API client.
 
@@ -85,7 +87,7 @@ The API client details page includes:
 - ‘Delete API client’ link
 - summary list containing the client name and expiry date
 
-If the API client is marked as ‘active’, we include a change link next to the client name. Users cannot change expired or revoked API clients.
+If the API client is ‘active’, we include a change link next to the client name. Users cannot change expired or revoked API clients.
 
 ### Adding an API client
 
@@ -141,7 +143,9 @@ The panel includes:
 - client name
 - token - displayed in a monospace font
 
-Users cannot return to this page, so they must make a copy of the API token before continuing to another part of the register.
+For security reasons, users cannot return to this page; they must make a copy of the API token before continuing to another part of the service.
+
+You can read more about the [API technical and data standards guidance](https://www.gov.uk/guidance/gds-api-technical-and-data-standards) on GOV.UK.
 
 ### Updating an API client
 
@@ -156,7 +160,7 @@ For security purposes, users cannot change the API client’s expiry date. If th
 
 Users can revoke API clients that are no longer needed.
 
-When users select the ‘Revoke API client’ button on the API client details page, we show a confirmation page to ensure they want to revoke the API client. This confirmation step ensures they do not revoke the API client by mistake.
+When users select the ‘Revoke API client’ button on the API client details page, we show a confirmation page to ensure they want to revoke the API client. This confirmation step ensures they do not accidentally rescind the API client.
 
 We show a message on the confirmation page warning that revoking an API client cannot be undone.
 
