@@ -210,4 +210,39 @@ Selecting whether the account is active is required. If the support user does no
 
 > Select if the account is active
 
+## Future considerations
+
+As the API and user management features mature, we may need to:
+
+### Third-party API access
+
+Allow third-party organisations to create and manage their own API clients. This would require:
+
+- a self-service registration process for external users
+- additional security measures and authentication methods
+- rate limiting and usage quotas per organisation
+- enhanced monitoring and audit capabilities
+- legal agreements and terms of service
+
+### Granular permissions
+
+Introduce more fine-grained permission levels for both API and support users, such as:
+
+- read-only access to specific data sets
+- write access limited to certain fields or provider types
+- regional or organisational restrictions
+- time-limited access for temporary users
+
+### User role management
+
+Expand beyond the simple API user vs support user distinction to include:
+
+- different support user roles (viewer, editor, administrator)
+- API client scopes and permissions
+- delegated administration for multi-organisation access
+
+### API key rotation
+
+Implement automatic API key rotation and expiry policies to improve security.
+
 *[API]: application programming interface
