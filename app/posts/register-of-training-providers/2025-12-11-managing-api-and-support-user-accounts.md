@@ -9,12 +9,10 @@ related:
   items:
     - text: Managing support users
       href: /register-of-training-providers/managing-support-users/
-    - text: Service error pages
-      href: /register-of-training-providers/service-error-pages/
-    - text: Updating the ‘Your account’ and ‘Support user’ pages
-      href: /register-of-training-providers/updating-the-your-account-and-support-user-pages/
-    - text: Adding service navigation to the service error pages
-      href: /register-of-training-providers/adding-service-navigation-to-the-service-error-pages/
+    - text: Adding a way for users to create API clients
+      href: /register-of-training-providers/adding-a-way-for-users-to-create-api-clients/
+    - text: Logging changes to API clients
+      href: /register-of-training-providers/logging-changes-to-api-clients/
 screenshots:
   items:
     - text: List of users
