@@ -1,5 +1,5 @@
 ---
-title: Limiting what API users can do in the service
+title: Managing API and support user accounts
 description: We added a way for the support team to manage access to the service for API users
 date: 2025-12-11
 tags:
