@@ -253,4 +253,49 @@ Selecting the red 'Delete API client' button will complete the process.
 
 We show a success message on the API clients list page saying 'API client deleted'.
 
+## Future considerations
+
+We've identified several areas for future improvement:
+
+### Migration to DfE Sign-in API (FauAPI)
+
+We plan to migrate from the current bearer token authentication to using DfE Sign-in API (FauAPI) for authentication. This will provide:
+
+- standardised authentication across DfE services
+- improved security and token management
+- integration with existing DfE identity infrastructure
+
+### Token regeneration
+
+Currently, users cannot change an API client's expiry date or regenerate a token. If a token expires, users must create a new API client. We could explore:
+
+- allowing users to extend expiry dates for active tokens
+- adding a 'regenerate token' feature to create a new token for an existing API client
+- implementing token rotation policies
+
+### Scoped permissions
+
+All API clients currently have the same level of access to the register data. We could add:
+
+- granular permissions to limit what data each API client can access
+- read-only vs read-write access levels
+- filtering by organisation or provider type
+
+### Usage monitoring
+
+We could provide better visibility of API usage by:
+
+- showing the last time an API client was used
+- displaying request counts and rate limit information
+- alerting users when tokens are approaching expiry
+- providing usage analytics and reporting
+
+### Token format improvements
+
+The current token display could be enhanced with:
+
+- a copy-to-clipboard button for easier token copying
+- downloadable token files for secure transfer
+- QR codes for mobile device setup
+
 *[API]: application programming interface
