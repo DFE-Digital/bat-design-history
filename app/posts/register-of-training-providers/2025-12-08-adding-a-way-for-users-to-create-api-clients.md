@@ -88,9 +88,9 @@ API clients use bearer token authentication. The token is:
 
 - generated once when the API client is created
 - displayed once on the confirmation page
-- stored as an HMAC SHA-256 hash to prevent plaintext secrets being stored in the database
+- stored as an hash to prevent plaintext secrets being stored in the database
 
-Third parties must include the token in the authorization header of each API request. The API validates the token and rejects requests if the token is:
+Third parties must include the token in the ‘authorization’ header of each API request. The API validates the token and rejects requests if the token is:
 
 - missing or invalid
 - expired
