@@ -36,7 +36,7 @@ When a user creates a new API client, we show a summary card containing the foll
 - client name
 - expiry date
 
-![Screenshot showing the ‘API client added’ activity on the global activity log](activity-log--api-client-added.png "Screenshot showing the ‘API client added’ activity on the global activity log")
+![Activity log entry showing 'API client added' with a summary card displaying the client name and expiry date](activity-log--api-client-added.png "Activity log entry showing 'API client added' with a summary card displaying the client name and expiry date")
 
 ### API client updated
 
@@ -47,7 +47,7 @@ If a user updates the API client name, we show a summary card containing the fol
 
 Currently, we do not show what has changed from the previous version of the API client.
 
-![Screenshot showing the ‘API client updated’ activity on the global activity log](activity-log--api-client-updated.png "Screenshot showing the ‘API client updated’ activity on the global activity log")
+![Activity log entry showing 'API client updated' with a summary card displaying the client name and expiry date](activity-log--api-client-updated.png "Activity log entry showing 'API client updated' with a summary card displaying the client name and expiry date")
 
 ### API client revoked
 
@@ -58,7 +58,7 @@ We show a summary card containing the following:
 - client name
 - expiry date
 
-![Screenshot showing the 'API client revoked' activity on the global activity log](activity-log--api-client-revoked.png "Screenshot showing the 'API client revoked' activity on the global activity log")
+![Activity log entry showing 'API client revoked' with a summary card displaying the client name and expiry date](activity-log--api-client-revoked.png "Activity log entry showing 'API client revoked' with a summary card displaying the client name and expiry date")
 
 ### API client deleted
 
@@ -69,7 +69,7 @@ We show a summary card containing the following:
 - client name
 - expiry date
 
-![Screenshot showing the 'API client deleted' activity on the global activity log](activity-log--api-client-deleted.png "Screenshot showing the 'API client deleted' activity on the global activity log")
+![Activity log entry showing 'API client deleted' with a summary card displaying the client name and expiry date](activity-log--api-client-deleted.png "Activity log entry showing 'API client deleted' with a summary card displaying the client name and expiry date")
 
 ## Future considerations
 
