@@ -36,7 +36,9 @@ When a user creates a new API client, we show a summary card containing the foll
 - client name
 - expiry date
 
-![Activity log entry showing 'API client added' with a summary card displaying the client name and expiry date](activity-log--api-client-added.png "Activity log entry showing 'API client added' with a summary card displaying the client name and expiry date")
+We link to the API client details via the summary card title.
+
+![Activity log entry showing 'API client added' with a summary card displaying the client name and expiry date](activity-log--api-client-added.png "Activity log entry showing 'API client added'")
 
 ### API client updated
 
@@ -47,7 +49,7 @@ If a user updates the API client name, we show a summary card containing the fol
 
 Currently, we do not show what has changed from the previous version of the API client.
 
-![Activity log entry showing 'API client updated' with a summary card displaying the client name and expiry date](activity-log--api-client-updated.png "Activity log entry showing 'API client updated' with a summary card displaying the client name and expiry date")
+![Activity log entry showing 'API client updated' with a summary card displaying the client name and expiry date](activity-log--api-client-updated.png "Activity log entry showing 'API client updated'")
 
 ### API client revoked
 
@@ -58,7 +60,7 @@ We show a summary card containing the following:
 - client name
 - expiry date
 
-![Activity log entry showing 'API client revoked' with a summary card displaying the client name and expiry date](activity-log--api-client-revoked.png "Activity log entry showing 'API client revoked' with a summary card displaying the client name and expiry date")
+![Activity log entry showing 'API client revoked' with a summary card displaying the client name and expiry date](activity-log--api-client-revoked.png "Activity log entry showing 'API client revoked'")
 
 ### API client deleted
 
@@ -69,7 +71,9 @@ We show a summary card containing the following:
 - client name
 - expiry date
 
-![Activity log entry showing 'API client deleted' with a summary card displaying the client name and expiry date](activity-log--api-client-deleted.png "Activity log entry showing 'API client deleted' with a summary card displaying the client name and expiry date")
+When a user deletes an API client, we can no longer link to it via the summary card title.
+
+![Activity log entry showing 'API client deleted' with a summary card displaying the client name and expiry date](activity-log--api-client-deleted.png "Activity log entry showing 'API client deleted'")
 
 ## Future considerations
 
