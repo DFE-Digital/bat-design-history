@@ -8,8 +8,8 @@ tags:
   - security
 related:
   items:
-    - text: Limiting what API users can do in the service
-      href: /register-of-training-providers/limiting-what-api-users-can-do-in-the-service/
+    - text: Managing API and support user accounts
+      href: /register-of-training-providers/managing-api-and-support-user-accounts/
     - text: Logging changes to API clients
       href: /register-of-training-providers/logging-changes-to-api-clients/
     - text: API technical and data standards
