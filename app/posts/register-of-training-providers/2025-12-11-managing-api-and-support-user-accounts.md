@@ -1,6 +1,6 @@
 ---
 title: Managing API and support user accounts
-description: We added a way for the support team to manage access to the service for API users
+description: We added a way for the support team to manage both API and support user accounts, with different access levels for each user type
 date: 2025-12-11
 tags:
   - users
@@ -37,19 +37,56 @@ screenshots:
       src: edit-user--success.png
 ---
 
-We added a way for the support team to limit access to the service for API users.
+We added a way for the support team to manage user accounts and control access to the service for both API users and support users.
+
+## Why we did this
+
+With the introduction of the API, we needed to distinguish between two types of users:
+
+- **Support users** - DfE staff who need to sign in to the service interface to manage training provider data
+- **API users** - systems and applications that access training provider data programmatically through the API
+
+API users should only access data through API endpoints and do not need access to the web interface. By distinguishing between these user types, we can:
+
+- prevent API-only accounts from accessing the full service interface
+- allow the support team to manage both types of users in one place
+- control who can create and manage API clients
+- ensure appropriate access levels for different use cases
 
 ## What we changed
 
 We have:
 
-- renamed the section from “Support users” to “Users”
-- added a question – “Is the account an API user” –  to distinguish API users from support users
-- added status tags to the users list
+- renamed the section from "Support users" to "Users"
+- added a question – "Is the account an API user?" – to distinguish API users from support users
+- added status tags to the users list to show whether an account is active or inactive
 
-We made these changes to support the introduction of the API and API clients. We do not want API-only users to have access to all service features.
+### Access restrictions for API users
 
-We also restrict who can create API clients to DfE users only. We may change this policy in the future to allow third-party users to access training provider data.
+API users have limited access to the service. They can:
+
+- authenticate using their account credentials
+- access training provider data through API endpoints
+- create and manage API clients (if they have the appropriate permissions)
+
+API users cannot:
+
+- sign in to the web interface
+- view or use any pages in the service
+- manually edit training provider data through forms
+- access the support user administration area
+
+This ensures that API-only accounts are used solely for programmatic access and cannot be misused to access the service interface.
+
+### Who can create API clients
+
+We restrict who can create API clients to DfE users only. This allows us to:
+
+- maintain control over who accesses training provider data through the API
+- ensure proper governance and oversight of API usage
+- track and audit all API client creation and usage
+
+We may change this policy in the future to allow third-party users to access training provider data through the API.
 
 ## How it works
 
@@ -64,7 +101,9 @@ For each user in the list, we show:
 
 - full name - including a link to the user details page
 - email address
-- status
+- status - either 'Active' or 'Inactive'
+
+The status indicates whether the account is currently able to access the service. Inactive accounts cannot sign in or use the API until they are reactivated by a support user.
 
 We paginate the list if the user list contains more than 25 users.
 
