@@ -16,7 +16,7 @@ related:
       href: /register-of-training-providers/tracking-activity-across-the-service/
 ---
 
-API clients allow external systems to access and update data in the Register of Training Providers. Because these clients have privileged access, it's important to maintain a complete audit trail of all changes to them.
+API clients allow external systems to access and update data in the Register of training providers. Because these clients have privileged access, it's important to maintain a complete audit trail of all changes to them.
 
 We log all changes to API clients, including when they are created, updated, revoked, or deleted. This helps support users and administrators:
 
@@ -65,6 +65,16 @@ When a user deletes an API client, we show a summary card containing the followi
 - client name
 - expiry date
 
-![Screenshot showing the ‘API client deleted’ activity on the global activity log](activity-log--api-client-deleted.png "Screenshot showing the ‘API client deleted’ activity on the global activity log")
+![Screenshot showing the 'API client deleted' activity on the global activity log](activity-log--api-client-deleted.png "Screenshot showing the 'API client deleted' activity on the global activity log")
+
+## Future considerations
+
+We could improve the logging for API client updates by showing what has changed. For example, if a user renames a client, we could display:
+
+- the previous client name
+- the new client name
+- which specific fields were modified
+
+This would make it easier to understand the full history of changes to an API client and provide a more complete audit trail.
 
 *[API]: application programming interface
