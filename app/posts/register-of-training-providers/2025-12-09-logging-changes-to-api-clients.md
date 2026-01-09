@@ -16,7 +16,14 @@ related:
       href: /register-of-training-providers/tracking-activity-across-the-service/
 ---
 
-We log all changes to API clients.
+API clients allow external systems to access and update data in the Register of Training Providers. Because these clients have privileged access, it's important to maintain a complete audit trail of all changes to them.
+
+We log all changes to API clients, including when they are created, updated, revoked, or deleted. This helps support users and administrators:
+
+- understand who made changes and when
+- identify potential security issues
+- meet audit and compliance requirements
+- troubleshoot problems with API integrations
 
 [Read more about tracking activity across the service](/register-of-training-providers/tracking-activity-across-the-service/).
 
