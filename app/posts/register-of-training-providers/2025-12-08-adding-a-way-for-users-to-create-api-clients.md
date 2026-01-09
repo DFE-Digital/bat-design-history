@@ -82,6 +82,25 @@ We require API clients so that we can:
 - revoke access when it is no longer needed
 - ensure access is reviewed regularly through expiry dates
 
+### Security model
+
+API clients use bearer token authentication. The token is:
+
+- generated once when the API client is created
+- displayed once on the confirmation page
+- stored as an HMAC SHA-256 hash to prevent plaintext secrets being stored in the database
+
+Third parties must include the token in the authorization header of each API request. The API validates the token and rejects requests if the token is:
+
+- missing or invalid
+- expired
+- revoked
+- deleted
+
+All changes to API clients are logged in a revision history for audit purposes.
+
+We plan to migrate to using DfE Sign-in API (FauAPI) for authentication in the future.
+
 ## How it works
 
 ### Viewing a list of API clients
