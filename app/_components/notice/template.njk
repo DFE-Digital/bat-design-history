@@ -1,0 +1,16 @@
+<section class="app-notice {{- ' ' + params.classes if params.classes }}" {%- for attribute, value in params.attributes %} {{ attribute }}="{{ value }}"{% endfor %}>
+  {%- if params.heading | length %}
+    <h{{ params.heading.headingLevel | default(2) }} class="app-notice__title {{- ' ' + params.heading.classes if params.heading.classes }}">
+      {{- params.heading.html | safe if params.heading.html else params.heading.text -}}
+    </h{{ params.heading.headingLevel | default(2) }}>
+  {% endif -%}
+  {% if params.description -%}
+    {% if params.description.html %}
+      {{- params.description.html | safe -}}
+    {% else %}
+      <p class="govuk-body {{- ' ' + params.description.classes if params.description.classes }}">
+        {{- params.description.text -}}
+      </p>
+    {% endif -%}
+  {% endif -%}
+</section>

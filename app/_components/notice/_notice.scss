@@ -1,0 +1,37 @@
+.app-notice {
+  @include govuk-text-colour;
+  @include govuk-responsive-padding(4);
+  @include govuk-responsive-margin(8, "bottom");
+
+  clear: both;
+  border: govuk-spacing(1) solid govuk-colour("blue");
+
+  .govuk-govspeak {
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .govuk-body:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.app-notice__title {
+  @include govuk-font(24, $weight: bold);
+  margin-top: 0;
+  @include govuk-responsive-margin(4, "bottom");
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  a {
+    @extend %govuk-link;
+  }
+}
+
+.app-notice__description {
+  @include govuk-font(19);
+  margin: 0;
+}
