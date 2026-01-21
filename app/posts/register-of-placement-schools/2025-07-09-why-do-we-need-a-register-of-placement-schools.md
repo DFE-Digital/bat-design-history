@@ -51,7 +51,7 @@ Because this data is not centralised or consistent, the same problems arise that
 
 ## What a register would do
 
-A Register of placement schools would provide a single, authoritative source of truth for school-level placement data. It would:
+A register of placement schools would provide a single, authoritative source of truth for school-level placement data. It would:
 
 - ensure each school is recorded once, with consistent and accurate details
 - let providers update school information in one place

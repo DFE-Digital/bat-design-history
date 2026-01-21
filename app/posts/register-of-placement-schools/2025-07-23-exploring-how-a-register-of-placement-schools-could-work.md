@@ -9,12 +9,12 @@ tags:
 related:
   items:
     - text: Exploring the scope of a register of placement schools
-      href: /exploring-the-scope-of-a-register-of-placement-schools/
+      href: /register-of-placement-schools/exploring-the-scope-of-a-register-of-placement-schools/
 ---
 
 ## What we set out to learn
 
-We wanted to explore how a Register of placement schools could work in conjunction with the Register of training providers and third-party services such as Publish teacher training courses (Publish) and Manage teacher training applications (Manage).
+We wanted to explore how a register of placement schools could work in conjunction with the Register of training providers and third-party services such as Publish teacher training courses (Publish) and Manage teacher training applications (Manage).
 
 Our aim is to help the Department for Education (DfE), accredited providers, and their training partners keep track of which schools are used for placements and the nature of those placements.
 
@@ -28,7 +28,7 @@ These questions tell us:
 
 ## What we did
 
-We started by writing down questions that someone might ask when using a Register of placement schools.
+We started by writing down questions that someone might ask when using a register of placement schools.
 
 We based these on:
 
@@ -147,7 +147,7 @@ This suggests we should provide simple ways to flag data issues and possibly exp
 
 ## What this means for design
 
-These findings indicate that a Register of placement schools will require flexible search and filtering capabilities.
+These findings indicate that a register of placement schools will require flexible search and filtering capabilities.
 
 It will also need to show change over time and relationships between providers and schools.
 
