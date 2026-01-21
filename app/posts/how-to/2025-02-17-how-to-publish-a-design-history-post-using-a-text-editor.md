@@ -11,7 +11,7 @@ related:
     - text: What to include in a design history post
       href: /how-to/what-to-include-in-a-design-history-post/
     - text: How to publish a design history post using the GitHub website
-      href: /how-to-publish-a-design-history-post-using-the-github-website/
+      href: /how-to/how-to-publish-a-design-history-post-using-the-github-website/
 ---
 
 We publish our design history on [GitHub](https://www.github.com/) and host it using [Netlify](https://www.netlify.com/). This post shows how to write and publish a new post using a local text editor (like [Visual Studio Code](https://code.visualstudio.com/)) and [GitHub Desktop](https://github.com/apps/desktop).
