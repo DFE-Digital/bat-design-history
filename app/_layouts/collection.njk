@@ -34,8 +34,20 @@
     <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
     {% block content %}
       {% if service in ["publish-teacher-training-courses", "find-teacher-training"] %}
+        {% set messageHtml %}
+          {% if service == "publish-teacher-training-courses" %}
+            <p class="govuk-body">The Publish teacher training courses design history has moved to the <a href="https://design-histories.education.gov.uk/publish-teacher-training-courses" class="govuk-link">DfE design history site</a></p>
+          {% else %}
+            <p class="govuk-body">The Find teacher training courses design history has moved to the <a href="https://design-histories.education.gov.uk/find-teacher-training-courses" class="govuk-link">DfE design history site</a></p>
+          {% endif %}
+        {% endset %}
         {{ appNotice({
-          heading: { text: "Lorem ipsum" }
+          heading: {
+            text: "Design history has moved"
+          },
+          description: {
+            html: messageHtml
+          }
         }) }}
       {% endif %}
 
