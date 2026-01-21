@@ -53,5 +53,3 @@ We also needed to provide a link for users to browse apprenticeship courses. The
 > In order to find the right apprenticeship for you, you can filter courses by whether or not you have a degree.
 
 ![Section of the homepage with content and links relating to apprenticeships including TDA and PGTA.](find-apprenticeship-accordion-open.png)
-
-
