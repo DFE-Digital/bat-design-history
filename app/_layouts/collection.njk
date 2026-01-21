@@ -2,6 +2,7 @@
 
 {% from "document-list/macro.njk" import appDocumentList %}
 {% from "masthead/macro.njk" import appMasthead %}
+{% from "notice/macro.njk" import appNotice %}
 {% from "pagination/macro.njk" import appPagination %}
 {% from "prose/macro.njk" import appProse %}
 {% from "related/macro.njk" import appRelated %}
@@ -32,6 +33,12 @@
     {% block beforeContent %}{% endblock %}
     <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
     {% block content %}
+      {% if service in ["publish-teacher-training-courses", "find-teacher-training"] %}
+        {{ appNotice({
+          heading: { text: "Lorem ipsum" }
+        }) }}
+      {% endif %}
+
       {{ appProse({
         prose: content
       }) }}
