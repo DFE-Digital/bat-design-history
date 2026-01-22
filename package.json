@@ -64,7 +64,7 @@
   },
   "devDependencies": {
     "@stylistic/stylelint-config": "^3.0.1",
-    "@stylistic/stylelint-plugin": "^4.0.0",
+    "@stylistic/stylelint-plugin": "^5.0.1",
     "markdownlint-cli": "^0.47.0",
     "standard": "^17.1.2",
     "stylelint": "^16.26.1",
