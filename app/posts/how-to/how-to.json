@@ -1,5 +1,6 @@
 {
-  "eleventyNavigation": {
+  "eleventyNaviation": {
     "parent": "How to"
-  }
+  },
+  "showDate": false
 }
