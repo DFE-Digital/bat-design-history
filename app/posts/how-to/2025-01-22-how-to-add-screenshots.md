@@ -12,10 +12,10 @@ related:
 
 Screenshots help readers understand your design changes. This guide explains several ways to add screenshots to your posts:
 
-- **Frontmatter screenshots** - list screenshots in the post metadata, displayed at the end of the post
-- **The appScreenshots macro** - display multiple screenshots with titles, captions, and a contents list
-- **Markdown images** - add individual images inline using simple Markdown syntax
-- **HTML images** - use HTML for more control over image display
+- Frontmatter screenshots - list screenshots in the post metadata, displayed at the end of the post
+- The `appScreenshots` macro - display multiple screenshots with titles, captions, and a contents list
+- Markdown images - add individual images inline using simple Markdown syntax
+- HTML images - use HTML for more control over image display
 
 ## When to use screenshots
 
@@ -30,10 +30,10 @@ Include screenshots when:
 
 Before adding screenshots to your post:
 
-1. **Take clear screenshots** - capture the full screen or the relevant section
-2. **Use descriptive filenames** - use lowercase with hyphens, for example `application-summary.png`
-3. **Compress large images** - use tools like [TinyPNG](https://tinypng.com/) or [Squoosh](https://squoosh.app/) to reduce file size
-4. **Save as PNG** - use PNG format for screenshots of interfaces
+1. Take clear screenshots - capture the full screen or the relevant section
+2. Use descriptive filenames - use lowercase with hyphens, for example `application-summary.png`
+3. Compress large images - use tools like [TinyPNG](https://tinypng.com/) or [Squoosh](https://squoosh.app/) to reduce file size
+4. Save as PNG - use PNG format for screenshots of interfaces
 
 ## Where to store screenshots
 
