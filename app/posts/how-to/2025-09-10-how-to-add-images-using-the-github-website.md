@@ -6,6 +6,8 @@ related:
   items:
     - text: How to publish a design history post using the GitHub website
       href: /how-to/how-to-publish-a-design-history-post-using-the-github-website/
+    - text: How to use Nunjucks macros in your design history posts
+      href: /how-to/how-to-use-nunjucks-macros-in-your-design-history-posts/
 ---
 
 This design history details how you can create image folders using the GitHub website, to enable images to be placed into them and then added into design histories.

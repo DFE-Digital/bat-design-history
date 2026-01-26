@@ -5,7 +5,9 @@ date: 2025-01-17
 related:
   items:
     - text: How to use Nunjucks macros in your design history posts
-      href: /how-to-use-nunjucks-macros-in-your-design-history-posts/
+      href: /how-to/how-to-use-nunjucks-macros-in-your-design-history-posts/
+    - text: What to include in a design history post
+      href: /how-to/what-to-include-in-a-design-history-post/
 ---
 
 <!-- markdownlint-disable MD040 MD049 MD050 -->

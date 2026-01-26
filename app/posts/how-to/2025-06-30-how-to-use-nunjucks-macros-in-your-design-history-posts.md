@@ -6,6 +6,8 @@ related:
   items:
     - text: How to write Markdown
       href: /how-to/how-to-write-markdown/
+    - text: How to add images using the GitHub website
+      href: /how-to/how-to-add-images-using-the-github-website/
 ---
 
 <!-- markdownlint-disable MD001 MD025 -->

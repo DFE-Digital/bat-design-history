@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: How to
-description: A collection of guides to help you build and document Becoming a teacher services.
+description: Guides for writing, formatting, and publishing design history posts.
 pagination:
   data: collections.how-to
   reverse: true

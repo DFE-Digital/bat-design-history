@@ -2,6 +2,14 @@
 title: What to include in a design history post
 description: Design history posts record significant changes to your service, what prompted the change and the decisions you made
 date: 2025-01-16
+related:
+  items:
+    - text: Why we write design histories
+      href: /how-to/why-we-write-design-histories/
+    - text: How to write Markdown
+      href: /how-to/how-to-write-markdown/
+    - text: How to publish a design history post using the GitHub website
+      href: /how-to/how-to-publish-a-design-history-post-using-the-github-website/
 ---
 
 Design histories are an archival tool that helps team members and people working on anything related understand:
