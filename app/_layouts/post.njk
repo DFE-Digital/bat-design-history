@@ -9,7 +9,7 @@
   {% call appArticle({
     header: {
       title: title | widont,
-      date: page.date,
+      date: page.date if showDate != false,
       modified: modified if modified,
       tag: status,
       tags: tags
