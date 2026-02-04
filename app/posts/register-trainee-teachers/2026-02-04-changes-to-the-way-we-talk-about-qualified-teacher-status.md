@@ -12,7 +12,7 @@ In 2025, the Department for Education (DfE) changed how it spoke about QTS acros
 
 The Register trainee teachers (Register) service is one of the only places where we follow a trainee's progression throughout their QTS journey. This meant we had to find additional wording to use alongside the policy team's recommended wording.
 
-We completed several activities to determine the best way to add new wording without causing a large-scale change. We then agreed on the changes with policy.
+We completed several activities to determine the best way to add new wording without causing a large-scale change. We then agreed on the changes with the Becoming a teacher (BAT) policy team.
 
 We worked alongside content designers from other teams to ensure consistency across DfE.
 
@@ -51,7 +51,7 @@ We have made changes to:
 We have not yet made changes to:
 
 - the code
-- API endpoints, for example ,`recommend-for-qts`
+- API endpoints, for example, `recommend-for-qts`
 - internal values for trainee state, for example, `recommend_for_award` and `awarded`
 
 We will make these changes in due course. We decided that making small, gradual changes to the code would cause more issues in the short term.
@@ -68,6 +68,7 @@ We will make these changes in due course. We decided that making small, gradual 
 
 *[API]: application programming interface
 *[APIs]: application programming interfaces
+*[BAT]: Becoming a teacher
 *[CSV]: comma-separated values
 *[CSVs]: comma-separated values
 *[DfE]: Department for Education
