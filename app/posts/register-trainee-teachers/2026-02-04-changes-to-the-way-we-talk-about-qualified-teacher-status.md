@@ -10,7 +10,7 @@ tags:
 
 In 2025, the Department for Education (DfE) changed how it spoke about QTS across all its services.
 
-The Register trainee teachers service is one of the only places where we follow a trainee's progression throughout their QTS journey. This meant we had to find additional wording to use alongside the policy team's recommended wording.
+The Register trainee teachers (Register) service is one of the only places where we follow a trainee's progression throughout their QTS journey. This meant we had to find additional wording to use alongside the policy team's recommended wording.
 
 We completed several activities to determine the best way to add new wording without causing a large-scale change. We then agreed on the changes with policy.
 
