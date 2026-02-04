@@ -16,7 +16,7 @@ We do not hard delete things from the Register of training providers. Instead, w
 
 That means when someone removes a provider, accreditation, address, contact, partnership, or user, we keep the data in the database but hide it from users. This decision supports how we track changes across the service and maintain an auditable record.
 
-## What does soft delete mean in this service?
+## Soft delete in this service
 
 Soft deletion means we:
 
@@ -40,7 +40,7 @@ For example:
 
 This approach supports transparency and auditability, which are key characteristics of a register.
 
-## Why do we hide soft-deleted things from users?
+## Hiding soft-deleted things from users
 
 Although we keep soft-deleted records in the database, we do not show them to users. That includes:
 

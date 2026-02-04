@@ -58,7 +58,7 @@ As a DfE user:
 
 - I need to search and filter providers effectively, quickly identifying suitable providers based on various criteria such as accreditation status, type, and location.
 - I need reliable access to accurate and current provider information to support decision-making and reporting tasks.
-- I need data integration via an API to ensure other services can utilise accurate and current provider data automatically.
+- I need data integration via an API to ensure other services can use accurate and current provider data automatically.
 
 ## Public users
 

@@ -22,7 +22,7 @@ A central ‘Register of training providers’ will serve as the single source o
 
 3. **DfE can track and manage provider information more effectively** – The department gains a clear and consolidated view of all providers. This is critical for decision-making, reporting, funding, and ensuring compliance with regulations.
 
-4. **Reduced risk of errors and data duplication** – Each service can consume the same authoritative provider record. As a result, any updates—such as new accreditation status or contact information—flow out to all the relevant services automatically rather than needing to be duplicated.
+4. **Reduced risk of errors and data duplication** – Each service can consume the same authoritative provider record. As a result, any updates (such as new accreditation status or contact information) flow out to all the relevant services automatically rather than needing to be duplicated.
 
 5. **A better user experience** – Candidates, trainees, and schools will see consistent training provider details regardless of which BAT service they use. This consistency helps build trust in the system’s reliability and reduces confusion.
 

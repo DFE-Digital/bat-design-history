@@ -16,7 +16,7 @@ related:
 
 As we continue our work on the Register of training providers, we’ve taken time to step back and map out the different people and organisations with a stake in the service.
 
-Understanding our stakeholders—who they are, their influence, and how the service impacts them is essential. It helps us design something that works for the right people, at the right time, in the right way.
+Understanding our stakeholders is essential: who they are, their influence, and how the service impacts them. It helps us design something that works for the right people, at the right time, in the right way.
 
 We’re sharing the map here for transparency and to invite feedback.
 
@@ -24,7 +24,7 @@ We’re sharing the map here for transparency and to invite feedback.
 
 We used a classic stakeholder mapping approach. We plotted how much the service will impact each stakeholder group on the horizontal axis. On the vertical axis, we plotted how much influence each group has over the service or how it runs.
 
-To inform the map, we ran a series of workshops with colleagues from the Find teacher training, Apply for teacher training, and Register trainee teachers service teams. Each session helped us understand the stakeholders from that team’s perspective—who they work with, who they rely on, and who rely on them.
+To inform the map, we ran a series of workshops with colleagues from the Find teacher training, Apply for teacher training, and Register trainee teachers service teams. Each session helped us understand the stakeholders from that team's perspective: who they work with, who they rely on, and who rely on them.
 
 We combined these perspectives to create a unified stakeholder map for the Register of training providers. This shared view helps us understand where there’s overlap, where responsibilities sit, and how the service fits into the wider initial teacher training (ITT) ecosystem.
 
@@ -80,7 +80,7 @@ These groups are less directly impacted and have less influence. We don’t need
 - software vendors
 - [UK register of learning providers (UKRLP)](https://www.ukrlp.co.uk/)
 
-This map is a living thing—it’ll evolve as we learn more and the service develops. If you think someone’s missing or in the wrong place, we’d love to hear from you.
+This map is a living thing. It'll evolve as we learn more and the service develops. If you think someone’s missing or in the wrong place, we’d love to hear from you.
 
 ## What’s next
 
