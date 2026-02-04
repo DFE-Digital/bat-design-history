@@ -52,7 +52,7 @@ We have not yet made changes to:
 
 - the code
 - API endpoints, for example ,`recommend-for-qts`
-- internal values for trainee state, for exampl,e `recommend_for_award` and `awarded`
+- internal values for trainee state, for example, `recommend_for_award` and `awarded`
 
 We will make these changes in due course. We decided that making small, gradual changes to the code would cause more issues in the short term.
 
