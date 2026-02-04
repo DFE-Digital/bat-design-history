@@ -6,12 +6,6 @@ tags:
   - qts
   - content
   - policy
-related:
-  items:
-    - text: TEXT 1
-      href: HREF 1
-    - text: TEXT 2
-      href: HREF 2
 ---
 
 In 2025, the Department for Education (DfE) changed the way it talked about QTS across all its services.
