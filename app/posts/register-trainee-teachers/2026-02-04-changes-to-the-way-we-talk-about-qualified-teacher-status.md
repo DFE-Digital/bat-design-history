@@ -65,3 +65,13 @@ We will make these changes in due course. We decided that making small, gradual 
 | Bulk recommend | Bulk change status<br>Update trainee statuses<br>Bulk upload trainee status changes |
 | Check you you'll recommend | Check whose status has changed |
 | Meet standards | Meet requirements (meet standards - still acceptable too) |
+
+*[API]: application programming interface
+*[APIs]: application programming interfaces
+*[CSV]: comma-separated values
+*[CSVs]: comma-separated values
+*[EYTS]: early years teacher status
+*[ITT]: initial teacher training
+*[QTS]: qualified teacher status
+*[UCD]: user-centred design
+*[URL]: universal resource locator
