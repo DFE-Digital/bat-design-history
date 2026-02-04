@@ -21,7 +21,7 @@ We offer 3 ways to find placement schools without signing in: by location, by in
 
 Each route solves a distinct problem. Together they help candidates, trainees, schools and sector partners find accurate information quickly.
 
-## Why no sign-in?
+## No sign-in requirement
 
 Removing the need to sign in:
 
@@ -33,7 +33,7 @@ Removing the need to sign in:
 
 We only gate features that change data or expose sensitive information.
 
-## Why 3 routes, not one?
+## The case for 3 routes
 
 There is no single mental model for “find a placement school”. People start from different anchors:
 
