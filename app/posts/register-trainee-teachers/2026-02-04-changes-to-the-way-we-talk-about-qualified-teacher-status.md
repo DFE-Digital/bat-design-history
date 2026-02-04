@@ -55,3 +55,13 @@ We have not yet made changes to:
 - internal values for trainee state, for exampl,e `recommend_for_award` and `awarded`
 
 We will make these changes in due course. We decided that making small, gradual changes to the code would cause more issues in the short term.
+
+## Summary of the changes
+
+| Previous wording | New wording |
+| --- | --- |
+| Recommend | Change status to QTS or EYTS<br>Changing a trainee's status<br>Change trainee statuses |
+| Award, awarding, awarded | Gained QTS<br>Gaining QTS<br>Holds QTS<br>Holding QTS |
+| Bulk recommend | Bulk change status<br>Update trainee statuses<br>Bulk upload trainee status changes |
+| Check you you'll recommend | Check whose status has changed |
+| Meet standards | Meet requirements (meet standards - still acceptable too) |
