@@ -1,7 +1,7 @@
 ---
 title: Changes to the way we talk about qualified teacher status (QTS)
 description: DESCRIPTION
-date: 2026-2-04
+date: 2026-02-04
 tags:
   - ITEM 1
   - ITEM 2
