@@ -67,7 +67,7 @@ As a provider, candidate or trainee:
 - I need to filter by phase and setting, for example, primary, secondary or special, so that I only see relevant schools.
 - I need to see which providers partner with each school in the current and recent academic years, so that I can decide which courses to explore.
 
-Read more [initial user needs](/register-of-placement-schools/initial-user-needs/).
+See our [initial user needs](/register-of-placement-schools/initial-user-needs/).
 
 ## How it works
 

@@ -62,7 +62,7 @@ As a candidate or trainee:
 - I need clear, plain-English labels rather than internal codes, so that I can understand the information without specialist knowledge.
 - I need a way to move from the school page to related providers or searches, so that I can compare options easily.
 
-Read more [initial user needs](/register-of-placement-schools/initial-user-needs/).
+See our [initial user needs](/register-of-placement-schools/initial-user-needs/).
 
 ## How it works
 

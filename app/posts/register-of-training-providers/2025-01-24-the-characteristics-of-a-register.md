@@ -40,7 +40,7 @@ In government, a ‘register’ is typically defined as an authoritative, regula
 
 ## Timeliness and currency
 
-- Reflect changes to providers promptly—covering new providers, closures, mergers, and any status changes.
+- Reflect changes to providers promptly. This includes new providers, closures, mergers, and any status changes.
 - Enable frequent updates and a mechanism for urgent corrections to preserve accuracy.
 
 ## Accessibility and ease of use

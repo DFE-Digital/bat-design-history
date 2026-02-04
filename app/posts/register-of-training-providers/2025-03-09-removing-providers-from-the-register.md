@@ -45,7 +45,7 @@ This approach offers several benefits for managing the register:
 3. **Maintains a clear audit trail**
 
     - the archive stage allows providers to be visibly flagged inactive without losing their historical records
-    - permanent deletion, separated as a distinct action, indicates intentional, irreversible removal—helpful for compliance and audits
+    - permanent deletion, separated as a distinct action, indicates intentional, irreversible removal. This is helpful for compliance and audits
 
 <!-- 4. **Enhances compliance and risk management**
 
@@ -161,7 +161,7 @@ We currently ‘soft’ delete providers, which means we can restore them later 
 
 There are several things we need to consider:
 
-- providing a way in the service to restore a previously deleted provider—within a given period—and avoiding the need for developer intervention
+- providing a way in the service to restore a previously deleted provider (within a given period) and avoiding the need for developer intervention
 - purging the database of deleted providers – for example, hard deleting providers after a month of ‘soft’ deletion
 - what happens if we restore a previously deleted provider? For example, do we restore the provider but not the partnerships?
 

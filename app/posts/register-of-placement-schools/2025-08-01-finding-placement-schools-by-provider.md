@@ -70,7 +70,7 @@ As a candidate or trainee:
 - I need to filter a provider’s schools by phase and setting, so that I can focus on suitable placements.
 - I need precise school details in the results, including name and unique reference number (URN), so that I can open the right school profile with confidence.
 
-Read more [initial user needs](/register-of-placement-schools/initial-user-needs/).
+See our [initial user needs](/register-of-placement-schools/initial-user-needs/).
 
 ## How it works
 

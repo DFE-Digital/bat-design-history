@@ -74,7 +74,7 @@ We avoid sending users to a separate confirmation page. Instead, the success ban
 
 ## Our approach to layout
 
-The GOV.UK Design System recommends that banners match the width of the main page content. In our service, this is not always possible. Many of our layouts, including the provider list and provider details pages, utilise full-width designs. Others, such as forms, use two-thirds of the width.
+The GOV.UK Design System recommends that banners match the width of the main page content. In our service, this is not always possible. Many of our layouts, including the provider list and provider details pages, use full-width designs. Others, such as forms, use two-thirds of the width.
 
 To avoid inconsistency and unexpected layout shifts, we made a deliberate design decision:
 
