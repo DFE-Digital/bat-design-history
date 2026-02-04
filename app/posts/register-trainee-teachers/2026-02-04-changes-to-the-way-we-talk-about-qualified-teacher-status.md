@@ -8,11 +8,11 @@ tags:
   - policy
 ---
 
-In 2025, the Department for Education (DfE) changed the way it talked about QTS across all its services.
+In 2025, the Department for Education (DfE) changed how it spoke about QTS across all its services.
 
-The Register trainee teachers service is one of the only places where we follow a trainee's progression throughout their QTS journey. This meant we had to find additional wording to use alongside the recommended wording from the policy team.
+The Register trainee teachers service is one of the only places where we follow a trainee's progression throughout their QTS journey. This meant we had to find additional wording to use alongside the policy team's recommended wording.
 
-We completed several activities to understand how best to add new wording without creating large-scale change. We then agreed the changes with policy.
+We completed several activities to determine the best way to add new wording without causing a large-scale change. We then agreed on the changes with policy.
 
 We worked alongside content designers from other teams to ensure consistency across DfE.
 
@@ -31,13 +31,13 @@ Three members of the UCD team joined the workshop. Each person had a role:
 - one person clicked through the prototype and talked out loud about what they were doing and thinking
 - 2 designers took notes in Lucid, writing down anything that explained the process without using the current language
 
-This is when we came up with the idea of a trainee 'changing status'. The journey of a trainee is focused on gaining Qualified Teacher Status or Early Years Teacher Status. The new wording seemed to fit the idea of a trainee changing state from unqualified to qualified.
+This is when we came up with the idea of a trainee 'changing status'. A trainee's journey is focused on gaining Qualified Teacher Status or Early Years Teacher Status. The new wording seemed to fit the idea of a trainee changing state from unqualified to qualified.
 
 ## Other language changes
 
 We agreed that once the trainee has passed their initial teacher training (ITT), they will 'gain' QTS. Having QTS is referred to as 'holding' QTS.
 
-We have completely removed the previous words around award, awarding and awarded. They are no longer policy compliant.
+We have completely removed the previous words around 'award', 'awarding' and 'awarded'. They are no longer policy compliant.
 
 ## Where changes have been made
 
@@ -51,7 +51,7 @@ We have made changes to:
 We have not yet made changes to:
 
 - the code
-- API end points, for example `recommend-for-qts`
-- internal values for trainee state, for example `recommend_for_award` and `awarded`
+- API endpoints, for example ,`recommend-for-qts`
+- internal values for trainee state, for exampl,e `recommend_for_award` and `awarded`
 
-We will make these changes in due course. We decided that making small, gradual changes to code would cause more issues in the short term.
+We will make these changes in due course. We decided that making small, gradual changes to the code would cause more issues in the short term.
