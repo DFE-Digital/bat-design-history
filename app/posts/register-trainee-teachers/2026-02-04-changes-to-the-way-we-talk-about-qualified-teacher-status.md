@@ -1,23 +1,17 @@
 ---
 title: Changes to the way we talk about qualified teacher status (QTS)
-description: DESCRIPTION
+description: In 2025, the Department for Education (DfE) changed the way it talked about QTS across all its services
 date: 2026-02-04
 tags:
-  - ITEM 1
-  - ITEM 2
-  - ITEM 3
+  - qts
+  - content
+  - policy
 related:
   items:
     - text: TEXT 1
       href: HREF 1
     - text: TEXT 2
       href: HREF 2
-screenshots:
-  items:
-    - text: TEXT 1
-      src: FILENAME 1
-    - text: TEXT 2
-      src: FILENAME 2
 ---
 
 In 2025, the Department for Education (DfE) changed the way it talked about QTS across all its services.
