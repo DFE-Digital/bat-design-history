@@ -8,7 +8,7 @@ related:
       description: |
         Username: `register`
         Password: `bat`
-      href: https://register-prototype.herokuapp.com/records
+      href: https://register-prototype.herokuapp.com
     - text: Withdrawals prototype
       description: |
         Password: `bat`
