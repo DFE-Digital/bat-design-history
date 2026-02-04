@@ -70,6 +70,7 @@ We will make these changes in due course. We decided that making small, gradual 
 *[APIs]: application programming interfaces
 *[CSV]: comma-separated values
 *[CSVs]: comma-separated values
+*[DfE]: Department for Education
 *[EYTS]: early years teacher status
 *[ITT]: initial teacher training
 *[QTS]: qualified teacher status
