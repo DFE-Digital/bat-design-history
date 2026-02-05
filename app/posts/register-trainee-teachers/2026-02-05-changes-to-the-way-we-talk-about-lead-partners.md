@@ -51,3 +51,5 @@ The following DfE services use this terminology:
 - Register trainee teachers
 - Publish teacher training courses
 - Register of training providers
+
+*[ITT]: initial teacher training
