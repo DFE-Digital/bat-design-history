@@ -8,13 +8,13 @@ tags:
   - bulk uploads
 ---
 
-We need a secondary sandbox environment for higher education institution (HEI) providers to test the CSV bulk add trainee feature. This feature is part of the work to support our move from the Higher Education Statistics Agency (HESA).
+We need a secondary sandbox environment for higher education institutions (HEIs) to test the ‘CSV bulk add trainee’ feature. This feature is part of the work to support our move from the Higher Education Statistics Agency (HESA).
 
 The testing period will run from 1 May 2025 to 15 August 2025.
 
 ## Why we did this
 
-We considered using our existing environments but found issues with each option.
+We considered using our existing environments, but found issues with each.
 
 ### Existing Sandbox environment
 
@@ -22,7 +22,7 @@ Vendors currently use the existing Sandbox environment for API testing against s
 
 ### Staging environment
 
-We initially considered the Staging environment but dismissed it because:
+We initially considered the Staging environment, but dismissed it because:
 
 - it does not follow production security protocols
 - providers might upload live data into a less secure environment
@@ -65,7 +65,7 @@ There is no need for external interaction during testing.
 
 ### Visual indicators
 
-We added content to clarify this is not a production environment. This prevents unintended transmission of personally identifiable information (PII).
+We added content to clarify that this is not a production environment. This prevents unintended transmission of personally identifiable information (PII).
 
 ![Phase banner showing the service is in a sandbox environment](phase-banner.png "The phase banner indicates this is a sandbox environment")
 
@@ -87,11 +87,11 @@ Using production DfE Sign-in means:
 
 ### Continuous integration
 
-We set up continuous integration to deploy changes that address issues found during testing. This provides a fast feedback loop with HEI providers and allows quicker identification and resolution of problems.
+We set up continuous integration to deploy changes that address issues found during testing. This provides a fast feedback loop with HEI providers, enabling quicker identification and resolution of problems.
 
 ### Database reset workflow
 
-We established a database restore and reset workflow. This allows providers to reset their test data and repeat testing as needed.
+We established a database restore-and-reset workflow. This allows providers to reset their test data and repeat testing as needed.
 
 ## What we tested
 
@@ -109,11 +109,12 @@ We need to consider:
 
 - whether to automate the environment provisioning process
 - whether we need a more permanent solution for provider testing
-- whether a lighter weight or lower cost setup would work for future testing periods
+- whether a lighter-weight or lower-cost setup would work for future testing periods
 
 *[API]: application programming interface
 *[CSV]: comma-separated values
-*[PII]: personally identifiable information
-*[HEI]: higher education institution
 *[DfE]: Department for Education
+*[HEI]: higher education institution
+*[HEIs]: higher education institutions
 *[HESA]: Higher Education Statistics Agency
+*[PII]: personally identifiable information
