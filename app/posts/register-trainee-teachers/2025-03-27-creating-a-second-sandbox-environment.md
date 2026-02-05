@@ -95,7 +95,7 @@ We established a database restore-and-reset workflow. This allows providers to r
 
 ## What we tested
 
-Before launch, we:
+Before launched, we:
 
 - tested the CSV Sandbox environment end-to-end
 - reviewed support communications
