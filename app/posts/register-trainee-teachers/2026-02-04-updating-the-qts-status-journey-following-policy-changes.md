@@ -37,6 +37,64 @@ If a provider tries to update a trainee's status without enough placements recor
 
 This validation also applies when providers use bulk recommend to update multiple trainees' statuses at once.
 
+## How it works
+
+### Updating QTS status
+
+The 'Update QTS status' flow contains 2 steps:
+
+1. When did the trainee's QTS status change?
+2. Check your answers
+
+#### When did the trainee's QTS status change?
+
+This question page includes 3 radio options:
+
+- today
+- yesterday
+- another date
+
+If users select 'Another date' we show a conditional reveal with a date input allowing users to enter the date the trainee's QTS status changed.
+
+If users do not select an item from the list of radios, we show an error message:
+
+> Select when the trainee's QTS status changed
+
+If users select 'Another date' but do not enter a date, we show an error message:
+
+> Enter the date the trainee's QTS status changed
+
+If the user enters an incomplete or incorrect date, we follow the [GOV.UK design system guidance on validating dates](https://design-system.service.gov.uk/components/date-input/#error-messages).
+
+#### Check your answers
+
+Before saving the change we show a 'Check your answers' page with a summary list showing the label 'When did the trainee's QTS status change?' and the value the user entered. For example:
+
+- Today - 4 February 2026
+- Yesterday - 3 February 2026
+- 31 January 2026
+
+We include a change link, which takes users back to the question page where they can change their answer.
+
+To complete the flow, users must select the green button labelled 'Update QTS status'.
+
+#### Success message
+
+When users save changes, we show a success message on the trainee record page using the green notification banner. The message says:
+
+> Trainee's QTS status updated
+
+### Cannot update QTS status
+
+If the trainee record is incomplete, for example they do not have enough placements listed, or the training provider information has not been completed, users cannot update the trainee's QTS status. In this instance, when users select the 'Update QTS status' button, we show a stop page that includes the message:
+
+> You cannot update the QTS status for [TRAINEE NAME] because the trainee record is missing:
+>
+> - Training provider
+> - Placement details
+
+We include a list of all things missing and link directly to the form where users can add the information.
+
 ## What we changed
 
 ### Updated terminology
