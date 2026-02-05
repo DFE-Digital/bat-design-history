@@ -12,6 +12,28 @@ related:
       href: /register-trainee-teachers/recording-trainee-placements-data/
     - text: Bulk awarding of teaching status
       href: /register-trainee-teachers/bulk-awarding-of-teaching-status/
+screenshots:
+  items:
+    - text: Trainee record
+      src: update-qts-status--trainee-record.png
+    - text: Incomplete trainee record
+      src: update-qts-status--trainee-record-incomplete.png
+    - text: "Question page: When did the trainee’s QTS status change"
+      src: update-qts-status--when.png
+    - text: "Question page: When did the trainee’s QTS status change with error"
+      src: update-qts-status--when-with-error.png
+    - text: "Question page: When did the trainee’s QTS status change with date error"
+      src: update-qts-status--when-with-date-error.png
+    - text: Check your answers
+      src: update-qts-status--check-your-answers.png
+    - text: Check your answers - showing today’s date
+      src: update-qts-status--check-your-answers-today.png
+    - text: Check your answers - showing yesterday’s date
+      src: update-qts-status--check-your-answers-yesterday.png
+    - text: "Success message: Trainee’s QTS status updated"
+      src: update-qts-status--success.png
+    - text: "Stop page: You cannot update the trainee’s QTS status"
+      src: update-qts-status--stop.png
 ---
 
 We updated the journey for updating a trainee's qualified teacher status (QTS) or early years teacher status (EYTS) following changes to how we talk about recommending and awarding QTS.
