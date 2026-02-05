@@ -67,9 +67,9 @@ There is no need for external interaction during testing.
 
 We added content to clarify that this is not a production environment. This prevents unintended transmission of personally identifiable information (PII).
 
-![Phase banner showing the service is in a sandbox environment](phase-banner.png "The phase banner indicates this is a sandbox environment")
+[![Phase banner showing the service is in a sandbox environment](csv-sandbox--phase-banner.png "The phase banner indicates this is a sandbox environment (select image for a larger version)")](csv-sandbox--phase-banner.png)
 
-![Notification banner warning users not to enter real data](notification-banner.png "A notification banner reminds users not to enter real trainee data")
+[![Notification banner warning users not to enter real data](csv-sandbox--notification-banner.png "A notification banner reminds users not to enter real trainee data (select image for a larger version)")](csv-sandbox--notification-banner.png)
 
 ## Design decisions
 
