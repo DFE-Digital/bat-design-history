@@ -18,11 +18,11 @@ The language used to describe organisations in the initial teacher training (ITT
 
 ## Background
 
-Previously, we used the term 'lead school' to refer to one school in a group of schools. The lead school was designated as the 'lead' and would fill out paperwork, submit returns and take on the administrative burden for the group.
+Previously, we used the term 'lead school' to refer to a single school within a group of schools. The lead school was designated as the 'lead' and would complete paperwork, submit returns, and take on the administrative burden for the group.
 
 ## The 2023 to 2024 reforms
 
-In the 2023 to 2024 academic year, there were a series of reforms in the ITT space. These led to changes in policy, standards and accreditations of ITT providers. Some providers lost their accreditation as a result of these reforms.
+In the 2023 to 2024 academic year, there was a series of reforms in the ITT space. These led to changes in policy, standards and accreditations of ITT providers. Some providers lost their accreditation as a result of these reforms.
 
 Without accreditation, those providers had to seek partnerships with accredited providers to continue delivering ITT courses. At this point, providers without accreditation became known as 'lead partners'.
 
