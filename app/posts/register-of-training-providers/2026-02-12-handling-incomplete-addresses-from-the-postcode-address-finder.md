@@ -40,11 +40,16 @@ Previously, if a user selected an address from the list, we took them directly t
 
 ## What we changed
 
-We now check the selected address for missing required fields before showing the 'Check your answers' page.
+We made this change in two places:
+
+- the 'Add provider' flow, which includes a step asking for the provider's address
+- the 'Add address' flow within an existing provider record
+
+In both flows, we now check the selected address for missing required fields before showing the 'Check your answers' page.
 
 If the selected address is missing address line 1, town or city, or postcode, we redirect the user to the manual entry form. We pre-populate the form with the data we do have from the API, and ask the user to fill in the missing details.
 
-This means the add address flow now has two possible routes after selecting an address:
+This means both flows now have two possible routes after selecting an address:
 
 1. If the address has all required fields, the user goes to the 'Check your answers' page as before.
 2. If the address is missing required fields, the user goes to the manual entry form to complete the missing details before continuing to the 'Check your answers' page.
