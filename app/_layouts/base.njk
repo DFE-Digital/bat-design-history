@@ -5,6 +5,7 @@
 
 {% from "header/macro.njk" import appHeader %}
 {% from "breadcrumbs/macro.njk" import appBreadcrumbs %}
+{% from "site-search/macro.njk" import appSiteSearch %}
 
 {% block head %}
 <link href="/assets/styles/application.css" media="all" rel="stylesheet" type="text/css" />
@@ -45,9 +46,18 @@
 {% endblock %}
 
 {% block header %}
-  {{ appHeader({
-    homepageUrl: app.url or "/",
-    productName: app.productName
+  {{ govukHeader({
+    homepageUrl: app.url or "/"
+  }) }}
+  {{ govukServiceNavigation({
+    serviceName: app.productName,
+    serviceUrl: app.url or "/",
+    slots: {
+      navigationEnd: appSiteSearch({
+        label: "Search design history",
+        classes: "app-service-navigation__align-right"
+      }) | indent(4) | trim
+    }
   }) }}
 {% endblock %}
 
