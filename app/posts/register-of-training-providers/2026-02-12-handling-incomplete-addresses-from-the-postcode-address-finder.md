@@ -66,6 +66,10 @@ The flow works as follows:
 6. If any required fields are missing, the user is taken to the manual entry form with the available data pre-populated.
 7. The user enters the missing details and continues to the 'Check your answers' page.
 
+We show a message in an inset text component below the page heading and above the address form that says:
+
+> The selected address does not include all required fields. Enter the address manually.
+
 The manual entry form uses the same [data validation rules](/register-of-training-providers/adding-an-address-using-a-postcode-address-finder/#enter-address-form) as the existing address form. Users must provide address line 1, town or city, and a valid postcode before they can continue.
 
 ## Why we did this
