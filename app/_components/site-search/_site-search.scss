@@ -20,11 +20,12 @@ $icon-size: 40px;
   width: 100%;
   margin-bottom: govuk-spacing(2);
   float: left;
+  border: 1px solid govuk-colour("black", $variant: "tint-80");
 
   @include govuk-media-query($from: 900px) {
     width: 300px;
     margin: 0;
-    margin-top: -5px; // Negative margin to vertically align search in header
+    margin-top: 8px;
     float: right;
   }
 
