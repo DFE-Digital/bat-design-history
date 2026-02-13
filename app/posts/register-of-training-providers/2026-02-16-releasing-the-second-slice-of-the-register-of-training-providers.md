@@ -1,7 +1,7 @@
 ---
 title: Releasing the second slice of the Register of training providers
 description: At the beginning of February 2026, we released the second slice of the register, adding seed data, partnerships, activity logs, a read-only API and disaster recovery
-date: 2026-02-13
+date: 2026-02-16
 tags:
   - register
   - iteration
