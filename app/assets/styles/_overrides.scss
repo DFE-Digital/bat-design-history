@@ -1,8 +1,3 @@
-.govuk-template,
-.govuk-footer {
-  background-color: govuk-tint($govuk-brand-colour, 95%);
-}
-
 .app-service-navigation__align-right {
   @include govuk-media-query($from: tablet) {
     margin-left: auto;
