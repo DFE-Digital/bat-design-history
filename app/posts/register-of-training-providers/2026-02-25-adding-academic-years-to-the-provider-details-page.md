@@ -51,7 +51,7 @@ We pre-select the academic years already assigned to the provider.
 
 This question is required. If a user does not select at least one academic year, we show an error message:
 
-> Select at least one academic year
+> Select academic year
 
 #### Check your answers
 
