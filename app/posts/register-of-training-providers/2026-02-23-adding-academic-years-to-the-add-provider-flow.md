@@ -16,6 +16,14 @@ related:
       href: /register-of-training-providers/adding-academic-years-to-the-provider-details-page/
     - text: Iterating on how we set up partnerships between providers
       href: /register-of-training-providers/iterating-on-how-we-set-up-partnerships-between-providers/
+screenshots:
+  items:
+    - text: Add provider - Academic years
+      src: add-provider--academic-years-form.png
+    - text: Add provider - Academic years with error
+      src: add-provider--academic-years-form-with-error.png
+    - text: Add provider - Check your answers
+      src: add-provider--check-your-answers.png
 ---
 
 When a provider is onboarded to the register, we do not know which academic years they have delivered initial teacher training (ITT), or whether they are currently active. Other services, such as Publish teacher training courses, need to retrieve provider data for a specific academic year or recruitment cycle. Without this information, they cannot identify which providers are relevant to them.
@@ -58,6 +66,8 @@ For example:
   1 August 2025 to 31 July 2026
 - 2024 to 2025 - last
   1 August 2024 to 31 July 2025
+
+{# ![Academic years form](academic-years-form.png) #}
 
 We show academic years in reverse chronological order, from 2026 to 2027 back to 2019 to 2020. We assume users are more likely to need recent academic years than older ones.
 
