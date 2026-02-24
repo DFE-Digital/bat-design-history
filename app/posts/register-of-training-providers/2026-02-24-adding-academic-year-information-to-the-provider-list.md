@@ -15,6 +15,12 @@ related:
       href: /register-of-training-providers/adding-academic-years-to-the-add-provider-flow/
     - text: Adding academic years to the provider details page
       href: /register-of-training-providers/adding-academic-years-to-the-provider-details-page/
+screenshots:
+  items:
+    - text: Provider list
+      src: provider-list.png
+    - text: Provider list - with filters selected
+      src: provider-list--filters-selected.png
 ---
 
 Services such as Publish teacher training courses and Find teacher training courses work with providers for specific academic years and recruitment cycles. To support these services, we need the provider list to surface academic year information so users can quickly find providers that are active for a given year.
