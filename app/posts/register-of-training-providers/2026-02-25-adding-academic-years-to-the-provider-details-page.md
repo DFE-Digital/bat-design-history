@@ -16,6 +16,18 @@ related:
       href: /register-of-training-providers/updating-provider-partnerships-to-align-with-academic-years/
     - text: Updating the activity log to include academic years
       href: /register-of-training-providers/updating-the-activity-log-to-include-academic-years/
+screenshots:
+  items:
+    - text: Provider details
+      src: provider-details.png
+    - text: Change academic years
+      src: provider-details--change-academic-years.png
+    - text: Change academic years - form with error
+      src: provider-details--change-academic-years-with-error.png
+    - text: Change academic years - check your answers
+      src: provider-details--change-academic-years-check-your-answers.png
+    - text: Academic years successfully changed
+      src: provider-details--change-academic-years-success.png
 ---
 
 We capture academic years when a provider is onboarded. We need to show this information on the provider details page. Users also need a way to update it when a provider's circumstances change.
