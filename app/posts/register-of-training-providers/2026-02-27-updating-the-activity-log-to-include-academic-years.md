@@ -19,6 +19,16 @@ related:
       href: /register-of-training-providers/adding-academic-years-to-the-provider-details-page/
     - text: Updating provider partnerships to align with academic years
       href: /register-of-training-providers/updating-provider-partnerships-to-align-with-academic-years/
+screenshots:
+  items:
+    - text: Global activity log - Academic years added
+      src: global-activity-log--academic-years-added.png
+    - text: Global activity log - Academic years updated
+      src: global-activity-log--academic-years-updated.png
+    - text: Provider activity log - Academic years added
+      src: provider-activity-log--academic-years-added.png
+    - text: Provider activity log - Academic years updated
+      src: provider-activity-log--academic-years-updated.png
 ---
 
 We introduced academic years at the provider level. As with other changes to provider data, we need to capture these in the activity log so users can see what changed, when, and by whom.
