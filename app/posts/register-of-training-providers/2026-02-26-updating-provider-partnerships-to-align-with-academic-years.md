@@ -18,6 +18,16 @@ related:
       href: /register-of-training-providers/adding-academic-years-to-the-provider-details-page/
     - text: Updating the activity log to include academic years
       href: /register-of-training-providers/updating-the-activity-log-to-include-academic-years/
+screenshots:
+  items:
+    - text: Provider partnerships
+      src: provider-partnerships.png
+    - text: Change partnership academic years
+      src: provider-partnerships--academic-years.png
+    - text: Change partnership academic years - form with error
+      src: provider-partnerships--academic-years-with-error.png
+    - text: Change partnership - check your answers
+      src: provider-partnerships--academic-years-check-your-answers.png
 ---
 
 We introduced academic years across the provider list and provider details pages. This revealed inconsistencies in how academic years were displayed and collected in the provider partnerships section.
