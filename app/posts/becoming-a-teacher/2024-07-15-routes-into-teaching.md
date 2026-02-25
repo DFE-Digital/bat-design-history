@@ -27,11 +27,11 @@ eleventyComputed:
 
 > This design history does not constitute guidance for training providers - it is an internal document for use by digital teams
 
-As detailed in [Initial teacher training (ITT): forming partnerships](https://www.gov.uk/government/publications/initial-teacher-training-itt-forming-partnerships), from September 2024, “all ITT that leads to QTS should be defined within three core routes (undergraduate fee-funded, postgraduate fee-funded, and postgraduate employment based).”
+As detailed in [Initial teacher training (ITT): forming partnerships](https://www.gov.uk/government/publications/initial-teacher-training-itt-forming-partnerships), from September 2024, "all ITT that leads to QTS should be defined within three core routes (undergraduate fee-funded, postgraduate fee-funded, and postgraduate employment based)."
 
-Since the publication of this document, the salaried teacher degree apprenticeship (TDA) has been launched. As a result, there are now four core routes: undergraduate fee-funded and salaried, postgraduate fee-funded, and employment-based.
+Since the publication of this document, the salaried teacher degree apprenticeship (TDA) has been launched. As a result, there are now 4 core routes: undergraduate fee-funded and salaried, postgraduate fee-funded, and employment-based.
 
-Within these core four routes, there are 7 avenues into teaching for domestic candidates. These routes are split between undergraduate and postgraduate initial teacher training (ITT) and assessment only.
+Within these core 4 routes, there are 7 avenues into teaching for domestic candidates. These routes are split between undergraduate and postgraduate initial teacher training (ITT) and assessment only.
 
 International candidates may be eligible for all these routes into teaching if they meet visa and residency requirements.
 
@@ -69,7 +69,7 @@ Postgraduate ITT has 4 routes:
 - postgraduate teacher apprenticeship (PGTA)
 - high potential initial teacher training (HPITT)
 
-Except for the assessment-only route, all postgraduate ITT routes often include a postgraduate certificate of education (PGCE)  or professional graduate diploma in education (PGDE) alongside QTS.
+Except for the assessment-only route, all postgraduate ITT routes often include a postgraduate certificate of education (PGCE) or professional graduate diploma in education (PGDE) alongside QTS.
 
 A PGCE is an internationally recognised academic qualification.
 
