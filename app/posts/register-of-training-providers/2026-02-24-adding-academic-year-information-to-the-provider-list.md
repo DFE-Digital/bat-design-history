@@ -1,6 +1,6 @@
 ---
 title: Adding academic year information to the provider list
-description: We added an academic years filter and updated the provider summary cards to show which academic years a provider has delivered initial teacher training
+description: We added an academic year filter and updated the provider summary cards to show which academic years a provider has delivered initial teacher training
 date: 2026-02-24
 tags:
   - providers
@@ -23,9 +23,9 @@ screenshots:
       src: provider-list--filters-selected.png
 ---
 
-Services such as Publish teacher training courses and Find teacher training courses work with providers for specific academic years and recruitment cycles. To support these services, we need the provider list to surface academic year information so users can quickly find providers that are active for a given year.
+Services such as Publish teacher training courses and Find teacher training courses work with providers for specific academic years and recruitment cycles. To support these services, we need the provider list to include academic-year information so users can quickly find active providers for a given year.
 
-We updated the provider list in two ways. We added an academic years filter and updated the provider summary cards to show academic year information.
+We updated the provider list in two ways. We added an academic year filter and updated the provider summary cards to show academic year information.
 
 ## What we changed
 
@@ -51,7 +51,7 @@ We updated each provider summary card in the list to include additional informat
 
 We moved the provider code, UK provider reference number (UKPRN) and unique reference number (URN) from the summary list into the summary card title area, directly below the provider's operating name.
 
-We only show an identifier if it exists for that provider. For example, if a provider only has a provider code, we show that alone. If a provider has a provider code and a UKPRN, we show both. If a provider has a provider code, UKPRN and URN, we show all three.
+We only show an identifier if it exists for that provider. For example, if a provider only has a provider code, we show that alone. If a provider has a provider code and a UKPRN, we show both. If a provider has a provider code, a UKPRN (UK provider reference number), and a URN (unique reference number), we show all three.
 
 We display the identifier label in bold, followed by the value. For example:
 
@@ -61,7 +61,7 @@ We display the identifier label in bold, followed by the value. For example:
 
 We added an 'Academic years' item to the end of the summary list in each provider card.
 
-This shows all the academic years to which the provider belongs, displayed in reverse chronological order. We include the 'next', 'current' and 'last' suffixes where relevant.
+This shows all the academic years the provider belongs to, in reverse chronological order. We include the 'next', 'current' and 'last' suffixes where relevant.
 
 The summary card now contains:
 
@@ -75,7 +75,7 @@ The summary card now contains:
 
 ### Reverse chronological order
 
-We display academic years from newest to oldest throughout the service. Users need to identify current and recent providers quickly. Listing the most recent year first reduces the scanning effort required.
+We display academic years from newest to oldest throughout the service. Users need to quickly identify current and recent providers. Listing the most recent year first reduces the effort required to scan.
 
 ### Showing identifiers in the card title
 
