@@ -40,7 +40,7 @@ We made the following changes to the provider partnerships section:
 
 - displayed academic years in reverse chronological order throughout
 - added 'next', 'current' and 'last' suffixes to the relevant academic years
-- included hint text next to each checkbox in the academic years form showing the start and end dates for that year
+- included hint text next to each checkbox in the academic years form, showing the start and end dates for that year
 
 ### Ordering academic years
 
@@ -66,7 +66,7 @@ This matches how we label academic years in the provider list filter, the add pr
 
 ### Hint text in the academic years form
 
-When adding or changing a partnership, users select academic years from a list of checkboxes. We added hint text beneath each checkbox label showing the start and end dates of that year.
+When adding or changing a partnership, users select academic years from a checkbox list. We added hint text beneath each checkbox label that shows the start and end dates for that year.
 
 For example:
 
@@ -79,14 +79,14 @@ This matches the design of the academic years question in the add provider flow 
 
 ### Consistency across the service
 
-The academic years question appears in three places:
+The academic year's question appears in three places:
 
 1. the add provider flow
 2. the change academic years flow on the provider details page
 3. the add and change partnership flows
 
-Users who carry out multiple tasks in the service will encounter this question in different contexts. Keeping the design consistent, with the same ordering, same suffixes and same hint text, reduces the cognitive load of switching between tasks.
+Users who perform multiple tasks in the service will encounter this question in various contexts. Keeping the design consistent, with the same ordering, same suffixes and same hint text, reduces the cognitive load of switching between tasks.
 
 ### Why suffixes help
 
-Users working in the service often need to identify the current or upcoming academic year quickly. The 'next', 'current' and 'last' labels make this possible without requiring users to calculate which year they are in. This is particularly useful when displaying long lists of academic years spanning multiple cycles.
+Users working in the service often need to quickly identify the current or upcoming academic year. The 'next', 'current' and 'last' labels make this possible without requiring users to calculate which year they are in. This is particularly useful when displaying long lists of academic years spanning multiple cycles.
