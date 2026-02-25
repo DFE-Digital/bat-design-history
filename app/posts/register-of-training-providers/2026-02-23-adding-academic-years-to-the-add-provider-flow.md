@@ -1,6 +1,6 @@
 ---
 title: Adding academic years to the add provider flow
-description: We added an 'Academic years' question to the add provider flow so we know which academic years a provider has delivered initial teacher training
+description: We added an 'Academic years' question to the add provider flow, so we know which academic years a provider has delivered initial teacher training
 date: 2026-02-23
 tags:
   - providers
@@ -26,7 +26,7 @@ screenshots:
       src: add-provider--check-your-answers.png
 ---
 
-When a provider is onboarded to the register, we do not know which academic years they have delivered initial teacher training (ITT), or whether they are currently active. Other services, such as Publish teacher training courses, need to retrieve provider data for a specific academic year or recruitment cycle. Without this information, they cannot identify which providers are relevant to them.
+When a provider is onboarded to the register, we do not know which academic years they have delivered initial teacher training (ITT) or whether they are currently active. Other services, such as Publish teacher training courses, need to retrieve provider data for a specific academic year or recruitment cycle. Without this information, they cannot identify which providers are relevant to them.
 
 We already capture academic years for provider partnerships. However, not all providers need a partnership to deliver ITT. School-centred initial teacher training providers (SCITTs) can run and ratify courses without an accredited provider or training partner relationship. Without a partnership, there is no way to derive the academic year from existing data.
 
@@ -69,7 +69,7 @@ For example:
 
 {# ![Academic years form](academic-years-form.png) #}
 
-We show academic years in reverse chronological order, from 2026 to 2027 back to 2019 to 2020. We assume users are more likely to need recent academic years than older ones.
+We show academic years in reverse chronological order, from 2026 to 2027, back to 2019 to 2020. We assume users are more likely to need recent academic years than older ones.
 
 Each year, when the new academic year starts, the suffixes move forward. For example, 'next' becomes 'current', 'current' becomes 'last', and 'last' no longer has a suffix.
 
@@ -96,7 +96,7 @@ We considered some changes that we did not implement. These included:
 
 ### Pre-selecting academic years based on other information
 
-We considered whether to pre-select the current academic year by default. This would reduce the burden on users onboarding providers who are actively delivering ITT.
+We considered whether to pre-select the current academic year by default. This interaction would reduce the burden on users' onboarding providers who are actively delivering ITT.
 
 However, pre-selecting a checkbox can lead users to overlook it and submit without reviewing their selection. We decided to leave all options unselected and require users to make a deliberate choice.
 
@@ -104,7 +104,7 @@ However, pre-selecting a checkbox can lead users to overlook it and submit witho
 
 Where a provider has existing partnership data, we could derive the academic years the provider has delivered ITT rather than asking users to select them.
 
-We decided not to do this because not all providers have partnerships. Deriving years for some providers but not others would lead to inconsistency in how the data is collected and maintained.
+We decided not to do this because not all providers have partnerships. Deriving years for some providers but not others would lead to inconsistent data collection and maintenance.
 
 *[HEI]: higher education institution
 *[ITT]: initial teacher training
