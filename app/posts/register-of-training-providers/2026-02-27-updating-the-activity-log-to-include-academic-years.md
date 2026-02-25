@@ -41,11 +41,11 @@ We also updated existing partnership log items to align with the way we now disp
 
 We added a new entry type to the activity log to capture when a provider's academic years are added or updated.
 
-This entry appears in both the global activity log and the provider-level activity log. Both logs follow the same pattern used for other activity types in the service.
+This entry appears in both the global and provider-level activity logs. Both logs follow the same pattern used for other activity types in the service.
 
 #### Activity item
 
-Each academic years activity item includes:
+Each academic year activity item includes:
 
 - an activity label: 'Provider academic years added' or 'Provider academic years updated'
 - who carried out the action and when, for example 'By Anne Wilson on 23 February 2026 at 11:07am'
@@ -55,7 +55,7 @@ Each academic years activity item includes:
 
 The summary card title shows the provider's operating name, linked to the provider's details page.
 
-The summary list within the card shows the academic years in reverse chronological order. We include the 'next', 'current' and 'last' suffixes where relevant.
+The summary list in the card shows the academic years in reverse-chronological order. We include the 'next', 'current' and 'last' suffixes where relevant.
 
 If the provider has been deleted from the register, we remove the link from the provider name but retain the activity item. We do not delete items from the activity log, as it is a permanent record.
 
