@@ -27,7 +27,7 @@ eleventyComputed:
 
 > This design history does not constitute guidance for training providers - it is an internal document for use by digital teams
 
-As detailed in [Initial teacher training (ITT): forming partnerships](https://www.gov.uk/government/publications/initial-teacher-training-itt-forming-partnerships), from September 2024, "all ITT that leads to QTS should be defined within three core routes (undergraduate fee-funded, postgraduate fee-funded, and postgraduate employment based)."
+As detailed in [Initial teacher training (ITT): forming partnerships](https://www.gov.uk/government/publications/initial-teacher-training-itt-forming-partnerships), from September 2024, "all ITT that leads to QTS should be defined within 3 core routes (undergraduate fee-funded, postgraduate fee-funded, and postgraduate employment based)."
 
 Since the publication of this document, the salaried teacher degree apprenticeship (TDA) has been launched. As a result, there are now 4 core routes: undergraduate fee-funded and salaried, postgraduate fee-funded, and employment-based.
 
