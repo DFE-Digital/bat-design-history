@@ -91,6 +91,6 @@ The high-potential ITT route is a national 2-year employment-based initial teach
 
 [Teach First](https://www.teachfirst.org.uk/) delivers the current HPITT contract and covers cohorts up to and including the ITT2026 cohort (academic year 2026 to 2027).
 
-## Assessment only (AO)
+### Assessment only (AO)
 
 Assessment only is a route to QTS for teaching staff who already meet the teachers’ standards, have the requisite teaching experience, and do not need further training. AO entails a series of assessments over 12 weeks to show how candidates meet the teachers’ standards.
