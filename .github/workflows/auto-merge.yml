@@ -11,9 +11,6 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v6
-
       - name: Squash and merge minor updates
         uses: fastify/github-action-merge-dependabot@v3
         with:
