@@ -12,6 +12,14 @@ related:
       href: /register-of-placement-schools/viewing-individual-placement-schools/
     - text: Updating the provider and school autocompletes
       href: /register-of-placement-schools/updating-the-provider-and-school-autocompletes/
+screenshots:
+  items:
+    - text: Related schools showing successor schools
+      src: related-schools--successor.png
+    - text: Related schools showing predecessor schools
+      src: related-schools--predecessor.png
+    - text: Related schools showing both successor and predecessor schools
+      src: related-schools--successor-predecessor.png
 ---
 
 Schools change status over time.
