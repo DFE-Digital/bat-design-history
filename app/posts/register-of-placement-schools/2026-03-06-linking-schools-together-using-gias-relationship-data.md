@@ -55,6 +55,16 @@ We use this relationship data to connect related school records in the register.
 
 ## How it works
 
+### Navigating to the school details page
+
+Users can navigate to the school details page from all three types of search.
+
+The school search uses an autocomplete. Selecting a school from the autocomplete takes the user directly to the school details page.
+
+The location and provider searches return a list of results. Each result includes a link to the school details page, where users can view the full school record, including any related schools.
+
+### Related schools
+
 On the school details page, we display a related schools section after the school details summary. This section shows two separate lists: one for successor schools and one for predecessor schools. We only show a list if it contains at least one school.
 
 For each related school, we show the school name and link to its school details page.
@@ -103,6 +113,12 @@ We placed the related schools section after the main school details rather than 
 ### Linking to the related school record
 
 Each related school links to its own detail page. This lets users move between related records to compare information and check placement history across the school's history.
+
+### Back link on the school details page
+
+The location and provider searches return a list of results. When a user selects a school from one of these results lists, we show a back link on the school details page. This lets the user return to their results and view another school.
+
+The school search uses an autocomplete. When a user selects a school from the autocomplete, they go directly to the school details page. In this scenario, there is no results list to return to. Instead, we show a 'Search again' link so the user can start a new search.
 
 ## Further considerations
 
