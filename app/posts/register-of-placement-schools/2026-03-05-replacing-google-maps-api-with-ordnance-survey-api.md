@@ -21,7 +21,7 @@ We replaced the Google Places API with the Ordnance Survey (OS) Places API, whic
 
 ## The policy change
 
-The Public Sector Geospatial Agreement (PSGA) gives public sector organisations access to Ordnance Survey location data and APIs at no additional cost. As a government service, we are eligible to use OS data under this agreement.
+The PSGA gives public sector organisations access to Ordnance Survey location data and APIs at no additional cost. As a government service, we are eligible to use OS data under this agreement.
 
 ## How this affects users
 
