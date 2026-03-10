@@ -42,6 +42,8 @@ Each of these changes can result in a new GIAS record with a new URN. The previo
 
 This creates a challenge for users. A provider looking for a school where they have placed trainees in previous years might search for the school by name, find the closed record, and miss the current open school. Alternatively, they might find the open school but have no way of knowing it has a history under a different name or URN.
 
+Candidates (prospective trainees) face the same problem. When searching for a school where they want to be placed, they may find a closed record in the results. This can be disorienting if the school still exists and is open, but under a different name or URN. Without clear signposting, candidates may not realise they are looking at an outdated record of the school they want.
+
 ### How GIAS relationships work
 
 GIAS records successor and predecessor relationships between schools. When a school closes, and another opens in its place, GIAS links the two records:
@@ -74,4 +76,16 @@ Each related school links to its own detail page. This lets users move between r
 
 ## Further considerations
 
-A school may have multiple predecessors or successors over time. We may need to consider how to handle longer chains of relationships, particularly for schools that have changed status multiple times. We will review this as we see how users interact with the related schools section.
+### Handling longer chains of relationships
+
+A school may have multiple predecessors or successors over time. We may need to consider how to handle longer chains of relationships, particularly for schools that have changed status multiple times.
+
+We will review this as we see how users interact with the related schools section.
+
+### Testing the related schools section
+
+We need to test whether the related schools section is effective for both providers and candidates.
+
+In particular, we want to understand whether the language we use to describe relationships ('successor' and 'predecessor') is clear to users. These terms are accurate but may not be familiar to everyone.
+
+If research shows they cause confusion, we may need to explore alternative ways of expressing the relationship, such as 'now known as' or 'formerly known as'.
