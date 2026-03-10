@@ -13,6 +13,20 @@ related:
       href: /register-of-placement-schools/finding-placement-schools-by-location/
     - text: Finding placement schools by provider
       href: /register-of-placement-schools/finding-placement-schools-by-provider/
+screenshots:
+  items:
+    - text: School autocomplete
+      src: school-autocomplete.png
+    - text: School autocomplete with search term
+      src: school-autocomplete--search.png
+    - text: School autocomplete with highlight state
+      src: school-autocomplete--search-highlight.png
+    - text: Provider autocomplete
+      src: provider-autocomplete.png
+    - text: Provider autocomplete with search term
+      src: provider-autocomplete--search.png
+    - text: Provider autocomplete with highlight state
+      src: provider-autocomplete--search-highlight.png
 ---
 
 We use the GOV.UK Design System team maintained [accessible autocomplete](https://github.com/alphagov/accessible-autocomplete) to help users search the register of placement schools.
@@ -69,12 +83,6 @@ We applied the same approach to the provider autocomplete. The provider name app
 > UKPRN: 10000571 · URN: 133790
 
 Not all providers have both a UKPRN and a URN. We only show the identifiers that exist for each provider.
-
-## What we found
-
-The previous format gave users a reference number but not the location or other details needed to confirm they had selected the right record. Users searching for common school names, such as schools named after local landmarks or saints, found it particularly difficult.
-
-By showing location alongside the name and reference numbers, users can confirm their selection with confidence.
 
 ## Further considerations
 
