@@ -55,14 +55,44 @@ We use this relationship data to connect related school records in the register.
 
 ## How it works
 
-On the school details page, we display related schools after the school details summary. This section lists any schools linked to the current school as a predecessor or successor.
+On the school details page, we display a related schools section after the school details summary. This section shows two separate lists: one for successor schools and one for predecessor schools. We only show a list if it contains at least one school.
 
-For each related school, we show:
-
-- the school name
-- the nature of the relationship (predecessor or successor)
+For each related school, we show the school name and link to its school details page.
 
 This helps users understand the school's history and navigate between related records.
+
+### Example 1 - the school is successor
+
+> **Related schools**
+>
+> Activate Learning is the successor to:
+>
+> - Bracknell and Wokingham College
+> - Guildford College of Further and Higher Education
+> - North Oxfordshire College and School of Art
+> - Oxford and Cherwell College, Rycotewood Centre
+> - Oxford College of Further Education
+
+### Example 2 - the school is successor and predecessor
+
+> **Related schools**
+>
+> Guildford College of Further and Higher Education is the successor to:
+>
+> - Farnham College
+> - Merrist Wood College
+>
+> Guildford College of Further and Higher Education is the predecessor to:
+>
+> - Activate Learning
+
+### Example 3 - the school is predecessor
+
+> **Related schools**
+>
+> Farnham College is the predecessor to:
+>
+> - Guildford College of Further and Higher Education
 
 ## Design decisions
 
