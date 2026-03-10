@@ -14,6 +14,18 @@ related:
       href: /register-of-placement-schools/finding-placement-schools-by-location/
     - text: Replacing the Google Maps API with the Ordnance Survey API
       href: /register-of-placement-schools/replacing-google-maps-api-with-ordnance-survey-api/
+screenshots:
+  items:
+    - text: Location search results
+      src: maps--location-search-results.png
+    - text: Location search results (filtered)
+      src: maps--location-search-results-filtered.png
+    - text: Provider search results
+      src: maps--provider-search-results.png
+    - text: Provider search results (filtered)
+      src: maps--provider-search-results-filtered.png
+    - text: School details
+      src: maps--school-details.png
 ---
 
 We explored adding a map view to the search results pages.
