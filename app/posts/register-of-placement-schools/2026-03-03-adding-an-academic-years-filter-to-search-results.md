@@ -12,6 +12,16 @@ related:
       href: /register-of-placement-schools/finding-placement-schools-by-location/
     - text: Finding placement schools by provider
       href: /register-of-placement-schools/finding-placement-schools-by-provider/
+screenshots:
+  items:
+    - text: Location search results
+      src: location-search-results.png
+    - text: Location search results - filtered
+      src: location-search-results--filtered.png
+    - text: Provider search results
+      src: provider-search-results.png
+    - text: Provider search results - filtered
+      src: provider-search-results--filtered.png
 ---
 
 Users searching for placement schools often need to find schools that have hosted placements in a specific academic year.
@@ -20,13 +30,13 @@ Without a filter, they have to scroll through all results to identify relevant s
 
 ## Why we did this
 
-Users told us they needed to check which schools had hosted placements in particular academic years. This matters for:
+Currently, there is no easy way to check which schools had hosted placements in particular academic years. This matters for:
 
 - providers reviewing recent placement activity
 - DfE teams analysing trends over time
 - users who need to confirm a school's history before approaching them
 
-Without a filter, users had no way to narrow results by year. They had to check each school individually, which was time-consuming.
+Without a filter, users have no way to narrow results by year. They have to check each school individually, which is time-consuming.
 
 ## How it works
 
@@ -55,16 +65,8 @@ Previously, status, UK provider reference number (UKPRN) and unique reference nu
 
 We moved these details into the card title area. This is the same approach we took on the Register of training providers. It frees up space in the summary cards and reduces the overall length of the page.
 
-## Design decisions
-
-### Reverse chronological order for academic years
-
-We ordered the years with the most recent first. Users are typically looking for current or recent placements, so the years they need most appear at the top of the filter list without scrolling.
-
-### Checkbox filter pattern
-
-We used checkboxes rather than a dropdown or radio buttons because users may need to filter by more than one academic year at once. The checkbox pattern is also consistent with how other filters work on the search results pages.
-
 ## Further considerations
 
-As we add more academic years, the filter list will grow. We may need to consider collapsing older years or limiting the list to a set number of the most recent years.
+As we add more academic years, the filter list will grow. We may need to consider a checkbox filter pattern similar to the one we use for school type and education phase.
+
+We need to conduct user research to understand how people interact with the new filter and whether it meets their needs when finding placement schools. This includes understanding whether users can find the filter easily, whether selecting multiple academic years produces results they expect, and whether the reorganised search result cards give them the information they need to make decisions.
