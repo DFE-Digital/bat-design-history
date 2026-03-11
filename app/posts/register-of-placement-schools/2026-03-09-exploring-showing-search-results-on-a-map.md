@@ -56,9 +56,9 @@ The [Public Sector Bodies Accessibility Regulations](https://www.legislation.gov
 
 This exemption is often misread as permission to skip accessibility work. It is not. The condition is critical: essential information must still be accessible. In practice, this means providing a non-map alternative, such as a list view, that conveys the same information.
 
-### WCAG 2.1
+### WCAG 2.2
 
-Interactive maps raise concerns under three [WCAG 2.1](https://www.w3.org/TR/WCAG21/) success criteria in particular:
+Interactive maps raise concerns under three [WCAG 2.2](https://www.w3.org/TR/WCAG22/) success criteria in particular:
 
 - **1.1.1 Non-Text Content:** maps require text alternatives
 - **1.4.11 Non-text Contrast:** map tiles and markers must meet contrast ratios
