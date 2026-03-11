@@ -28,7 +28,7 @@ screenshots:
       src: maps--school-details.png
 ---
 
-We explored adding a map view to the search results pages.
+We explored adding a map view to the search results pages. This is a prototype we want to test with users, including providers, ITT candidates and policy colleagues, to understand the benefits and costs of the approach before building anything in production.
 
 Maps can help users understand the geographic spread of placement schools and compare locations at a glance. However, maps also introduce significant accessibility challenges and technical complexity.
 
@@ -52,13 +52,13 @@ The GOV.UK principle of doing the hard work to make it simple applies here. A we
 
 ### Public Sector Bodies Accessibility Regulations
 
-The Public Sector Bodies Accessibility Regulations (PSBAR) require public sector websites to be accessible. There is an exemption for online maps and mapping services, but only where essential information is provided in an accessible digital manner.
+The [Public Sector Bodies Accessibility Regulations](https://www.legislation.gov.uk/uksi/2018/952/contents/made) (PSBAR) require public sector websites to be accessible. There is an exemption for online maps and mapping services, but only where essential information is provided in an accessible digital manner.
 
 This exemption is often misread as permission to skip accessibility work. It is not. The condition is critical: essential information must still be accessible. In practice, this means providing a non-map alternative, such as a list view, that conveys the same information.
 
 ### WCAG 2.1
 
-Interactive maps raise concerns under three WCAG 2.1 success criteria in particular:
+Interactive maps raise concerns under three [WCAG 2.1](https://www.w3.org/TR/WCAG21/) success criteria in particular:
 
 - **1.1.1 Non-Text Content:** maps require text alternatives
 - **1.4.11 Non-text Contrast:** map tiles and markers must meet contrast ratios
@@ -96,13 +96,18 @@ There is no official GOV.UK Design System component for maps. The Design System 
 
 ### Map placement
 
-For the location and provider search results, we show a map at the top of the page, below the search box and above the results list. This gives users the spatial context immediately without hiding the list.
+For the location and provider search results, we show a map at the top of the page, below the search box and above the results list. This gives users the spatial context immediately without hiding the list. We do not show the map if there are no results.
 
 We also show a map on the individual school details page, below the page title and before the school details.
 
+Because the school details page now includes a map, we removed the "Search again" link and replaced it with a back link. The back link label depends on how the user arrived at the page:
+
+- if they navigated from the location or provider search results, the back link reads "Back to search results"
+- if they arrived via the school search autocomplete, the back link reads "Back to school search"
+
 ### Ordnance Survey Maps API
 
-We use maps provided by Ordnance Survey through the Public Sector Geospatial Agreement. The OS Maps API offers four styles: light, road, outdoor and leisure.
+We use maps provided by Ordnance Survey through the [Public Sector Geospatial Agreement](https://www.ordnancesurvey.co.uk/customers/public-sector/public-sector-geospatial-agreement). The [OS Maps API](https://osdatahub.os.uk/docs/wmts/overview) offers four styles: light, road, outdoor and leisure.
 
 We use the outdoor style. It provides the best contrast without obscuring the map pins.
 
@@ -147,4 +152,10 @@ We are considering three enhancements:
 - **Linking map pins to list items:** clicking a school name in a map pin tooltip would scroll to the corresponding item in the results list.
 - **Expanding the map:** an option to open the map in a larger view, such as a modal window, would help users who need a bigger geographic overview.
 
-We will test these with users before deciding whether to build them.
+## Next steps
+
+The immediate next step is to test this prototype with users, including providers, ITT candidates and policy colleagues. We want to understand whether the map genuinely helps them, whether the accessibility trade-offs are acceptable, and whether the added complexity is justified.
+
+We will use findings from that research to decide whether to build the map in production and whether to prototype any of the enhancements above.
+
+We also plan to share what we learn with the wider GOV.UK design community. There is an active [maps in services Slack group](https://join.slack.com/t/mapsinservices/shared_invite/zt-163npa168-e5EREuQZU3NqwfdojWw2ew) and an open [GitHub discussion on adding a maps component to the GOV.UK Design System](https://github.com/alphagov/govuk-design-system-backlog/issues/75). Contributing our findings to those discussions will help others working through the same problems.
