@@ -28,7 +28,7 @@ screenshots:
       src: maps--school-details.png
 ---
 
-We explored adding a map view to the search results pages. This is a prototype we want to test with users, including providers, ITT candidates and policy colleagues, to understand the benefits and costs of the approach before building anything in production.
+We explored adding a map view to the search results pages. This is a prototype we want to test with users, including providers and policy colleagues, to understand the benefits and costs of the approach before building anything in production.
 
 Maps can help users understand the geographic spread of placement schools and compare locations at a glance. However, maps also introduce significant accessibility challenges and technical complexity.
 
@@ -154,7 +154,7 @@ We are considering three enhancements:
 
 ## Next steps
 
-The immediate next step is to test this prototype with users, including providers, ITT candidates and policy colleagues. We want to understand whether the map genuinely helps them, whether the accessibility trade-offs are acceptable, and whether the added complexity is justified.
+The immediate next step is to test this prototype with users, including providers and policy colleagues. We want to understand whether the map genuinely helps them, whether the accessibility trade-offs are acceptable, and whether the added complexity is justified.
 
 We will use findings from that research to decide whether to build the map in production and whether to prototype any of the enhancements above.
 
