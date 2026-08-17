@@ -62,12 +62,13 @@ Teacher degree apprenticeship is a new route to becoming a teacher, where succes
 
 ## Postgraduate ITT routes
 
-Postgraduate ITT has 4 routes:
+Postgraduate ITT has 4 routes (with high potential initial teacher training being replaced by 'Teach Lead Change' Initial teacher training and leadership programme from the 2027 cohort):
 
 - fee-funded initial teacher training
 - school direct salaried (SDS)
 - postgraduate teacher apprenticeship (PGTA)
 - high potential initial teacher training (HPITT)
+- 'Teach Lead Change' Initial Teacher Training and Leadership Programme (salaried route)​
 
 Except for the assessment-only route, all postgraduate ITT routes often include a postgraduate certificate of education (PGCE) or professional graduate diploma in education (PGDE) alongside QTS.
 
@@ -85,11 +86,17 @@ The ‘school direct salaried’ route allows candidates to learn ‘on the job�
 
 The postgraduate teacher apprenticeship route allows candidates to learn ‘on the job’ and earn an unqualified teacher’s salary while training towards QTS for one full calendar year (12 months). It’s an employment-based route that requires apprentices to complete an end-point assessment (EPA) to consolidate learning from initial teacher training.
 
-### High potential initial teacher training (HPITT)
+### High potential initial teacher training (HPITT) (up to the 2026 cohort)
 
 The high-potential ITT route is a national 2-year employment-based initial teacher training and leadership development programme that seeks to recruit and train high-potential graduates and career changers who would be otherwise unlikely to join the profession or work in a school serving an area of greatest need.
 
 [Teach First](https://www.teachfirst.org.uk/) delivers the current HPITT contract and covers cohorts up to and including the ITT2026 cohort (academic year 2026 to 2027).
+
+### 'Teach Lead Change' Initial teacher training and leadership programme​ (from the 2027 cohort)
+​
+The 'Teach Lead Change' Initial teacher training and leadership programme is a national two-year, employment-based salaried initial teacher training and leadership development programme. It seeks to recruit and train high-performing graduates and career changers who are committed to improving outcomes for pupils and supporting schools serving disadvantaged communities.​
+​
+Delivered by Teach First, the programme enables participantsto earn a salary while working towards Qualified Teacher Status (QTS) and a Postgraduate Certificate in Education (PGCE), while developing the skills and experience needed to become effective teachers and future educational leaders. ​The first cohort will begin training in September 2027, with recruitment opening in September 2026. The initial contract term will support three cohorts starting in 2027, 2028 and 2029.​
 
 ## Assessment only (AO)
 
