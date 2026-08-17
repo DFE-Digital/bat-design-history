@@ -93,6 +93,7 @@ The high-potential ITT route is a national 2-year employment-based initial teach
 [Teach First](https://www.teachfirst.org.uk/) delivers the current HPITT contract and covers cohorts up to and including the ITT2026 cohort (academic year 2026 to 2027).
 
 ### 'Teach Lead Change' Initial teacher training and leadership programme​ (from the 2027 cohort)
+
 ​
 The 'Teach Lead Change' Initial teacher training and leadership programme is a national two-year, employment-based salaried initial teacher training and leadership development programme. It seeks to recruit and train high-performing graduates and career changers who are committed to improving outcomes for pupils and supporting schools serving disadvantaged communities.​
 ​
